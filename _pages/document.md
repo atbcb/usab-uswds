@@ -21,6 +21,7 @@ The particulars of your body copy will be determined by the topic of your page. 
 Here is a new paragraph.
 
 ![USAB Seal](/images/usab-seal.png)
+![USAB Seal](../images/usab-seal.png)
 
 Keep each section and subsection focused — a good approach is to include one theme (topic) per section.
 
