@@ -71,8 +71,8 @@ dap:
 primary_navigation:
   - name: Home
     url: /
-  - name: Blog
-    url: /blog/
+  - name: News
+    url: /news/
   - name: Document
     url: /document/
   - name: Document with sidenav
