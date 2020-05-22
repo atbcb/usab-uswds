@@ -18,19 +18,21 @@
 # Be sure to edit the values below
 ##########################################################################################
 
-title: Agency Name
-email: contact@example.gov
+title: U.S. Access Board
+email: info@access-board.gov
 description: >- # this means to ignore newlines until "baseurl:"
-  Agency Name (EAC) Lorem ipsum dolor sit amet, consectetur adipiscing elit.
-  Aenean et sapien a leo auctor scelerisque quis nec magna. Sed dictum ante a risus vehicula facilisis.
+  The U.S. Access Board is a federal agency that promotes equality for people with disabilities
+  through leadership in accessible design and the development of accessibility guidelines and
+  standards for the built environment, transportation, communication, medical diagnostic
+  equipment, and information technology.
 baseurl: "" # the subpath of your site, e.g. /blog
 # url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
 
 # Twitter handle. Only the handle, not the URL.
-twitter: 18F
+twitter: AccessBoard
 
 # Configuration for Google Analytics, add your UA code here:
-google_analytics_ua: UA-????????-??
+google_analytics_ua: UA-33523145-1
 
 # Digital Analytics Program (DAP) configuration
 dap:
@@ -61,7 +63,7 @@ dap:
   # USPS    - Postal Service
   # SBA     - Small Business Administration
   # SSA     - Social Security Administration
-  agency: GSA
+  agency: U.S. Access Board
   # Optional, this will append &subagency= to the code snippet
   subagency:
 
@@ -85,9 +87,9 @@ primary_navigation:
         url: "#main-content"
 
 secondary_navigation:
-  - name: Secondary link
+  - name: Secondary 2nd link
     url: "#main-content"
-  - name: Another secondary link
+  - name: Another secondary 2nd link
     url: "#main-content"
 
 # Search.gov configuration
