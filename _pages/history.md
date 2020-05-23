@@ -7,7 +7,7 @@ permalink: /history/
 
 # {{ page.title }}
 
-## 1968 - The Architectural Barriers Act Becomes Law
+## 1968 – The Architectural Barriers Act Becomes Law
 
 <img src="../img/lbj.jpg" alt="President Lyndon Johnson signing law" align="right">
 
@@ -20,7 +20,7 @@ Hugh Gallagher, an aide to Senator E.L. Bartlett of Alaska who introduced the AB
 A wheelchair user, he had experienced firsthand barriers to access at many government buildings, including landmark museums along the Mall.
 <q>I wanted it to be simple,</q> said Gallagher of the ABA, <q>I wanted accessibility to be one of the items on the checklist of designers and builders.</q>
 
-## 1973 - The Access Board is Created
+## 1973 – The Access Board is Created
 
 Several years after the ABA became law, Congress observed that compliance was uneven, due in part to a lack oversight and of design standards for accessibility.&nbsp;
 It determined that a central agency was needed to take charge of enforcing the ABA and to develop accessibility standards.&nbsp;
@@ -29,7 +29,7 @@ A provision in the law (section 502) created the Access Board, originally named 
 The Board was charged with ensuring federal agency compliance with the ABA and proposing solutions to the environmental barriers problems addressed in the ABA.&nbsp;
 A Senate committee report stated that <q>Barrier-free design in federal buildings and federally assisted projects is mandated in present law but has never been adequately enforced.&hellip; The Committee believes this Board can serve to accomplish this.</q>
 
-## 1975 - The Work of the Access Board Begins
+## 1975 – The Work of the Access Board Begins
 
 Staffing of the Access Board began with the appointment of its first Executive Director, James S. Jeffers, in 1975.&nbsp;
 He in turn was responsible for filling key staff positions.&nbsp;
@@ -38,7 +38,7 @@ In other cooperative efforts, the Board published <q>Access Travel: Airports</q>
 It also expanded public awareness efforts with a film, produced for a White House presentation and distributed nationally.&nbsp;
 Also, a series of public service radio and television announcements promoting accessibility aired across the country.
 
-## 1978 - Major Changes to the Board
+## 1978 – Major Changes to the Board
 
 The Rehabilitation Act Amendments of 1978 expanded the Board’s mandate and changed its structure and composition.&nbsp;
 In addition to amending portions of the Rehabilitation Act, the law authorized the Board to establish design guidelines under the ABA to establish a minimum level of accessibility.&nbsp;
@@ -50,7 +50,7 @@ The first public members were named by President Jimmy Carter in December 1979.&
 Ultimately, the Board’s membership would increase to 12 federal members and 13 public members.&nbsp;
 Later amendments to the Rehabilitation Act of 1973 further stipulated that the Board’s chair and vice-chair serve one-year terms and that these positions alternate each year between public and federal members.
 
-## 1982 - Board publishes Minimum Guidelines for Accessible Design
+## 1982 – Board publishes Minimum Guidelines for Accessible Design
 
 <img src="../img/ufas-cover.jpg" alt="photo of cover from UFAS manual" align="right">
 
@@ -62,7 +62,7 @@ UFAS was jointly adopted in 1984 by the Department of Defense, the Department of
 It would serve as the enforceable ABA standard for more than 20 years.&nbsp;
 Later under the ADA, its continued use by state and local governments would be permitted.
 
-## 1990 - The Americans with Disabilities Act (ADA) Expands the Board’s Mission
+## 1990 – The Americans with Disabilities Act (ADA) Expands the Board’s Mission
 
 <img src="../img/ada-signing.jpg" alt="photo of President George H W Bush signing the ADA" align="right">
 
@@ -76,7 +76,7 @@ Under the law, the Board was charged with developing accessibility guidelines fo
 The Board also was given the responsibility to provide technical assistance and training on the guidelines and to conduct research to support and maintain the guidelines.&nbsp;
 This greatly expanded the Board’s mission, as its guidelines now addressed not only federally funded buildings, but also the wide range of facilities in the private and public sectors covered by the ADA. 
 
-## 1991 - Board Publishes the ADA Accessibility Guidelines (ADAAG)
+## 1991 – Board Publishes the ADA Accessibility Guidelines (ADAAG)
 
 <img src="../img/ada-aba-cover.jpg" alt="photo of cover from ADA-ABA Guidelines" align="right">
 
