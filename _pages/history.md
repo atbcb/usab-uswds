@@ -76,7 +76,7 @@ Under the law, the Board was charged with developing accessibility guidelines fo
 The Board also was given the responsibility to provide technical assistance and training on the guidelines and to conduct research to support and maintain the guidelines.&nbsp;
 This greatly expanded the Board’s mission, as its guidelines now addressed not only federally funded buildings, but also the wide range of facilities in the private and public sectors covered by the ADA. 
 
-## 1991- Board Publishes the ADA Accessibility Guidelines (ADAAG)
+## 1991 - Board Publishes the ADA Accessibility Guidelines (ADAAG)
 
 <img src="../img/ada-aba-cover.jpg" alt="photo of cover from ADA-ABA Guidelines" align="right">
 
@@ -126,7 +126,7 @@ This resulted in a historic level of harmonization between the Board’s guideli
 
 ## 2010 – Board Addresses Access to Medical Diagnostic Equipment
 
-<img src="../img/mde-signing.jpg" alt="photo of President Barak Obama signing the Affordable Care Act" align="right">
+<img src="../img/aca-bill-signing.jpg" alt="photo of President Barak Obama signing the Affordable Care Act" align="right">
 
 On March 23, 2010, President Barack Obama signed into law <q>The Patient Protection and Affordable Care Act</q> to reform and extend the provision of health care.&nbsp;
 The law includes a provision to amend the Rehabilitation Act to address access to medical diagnostic equipment, including examination tables and chairs, weight scales, x-ray machines and other radiological equipment, and mammography equipment.&nbsp;
