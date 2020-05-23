@@ -17,10 +17,10 @@ Meeting webcasts are archived.
 
 The next committee and Board meetings will be:
 
-> **July 27 - 29, 2020**
-> 
+> **July 27 - 29, 2020**  
+>  
 > **Board Meeting**  
-> **July 29, 1:30 - 3:00**
+> **July 29, 1:30 - 3:00**  
 > [Join webcast]
 
 Meetings are held at the Board’s [conference space](/about/) at 1331 F Street NW, Suite 800, in downtown Washington, DC.&nbsp;
