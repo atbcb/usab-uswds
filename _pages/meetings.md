@@ -23,8 +23,8 @@ The next committee and Board meetings will be:
 > **July 29, 1:30 - 3:00**  
 > [Join webcast]
 
-Meetings are held at the Board’s [conference space](/about/) at 1331 F Street NW, Suite 800, in downtown Washington, DC.&nbsp;
-For the comfort of all participants and to promote a [fragrance-free](/about/) environment, attendees are requested not to use perfume, cologne, or other fragrances.&nbsp;
+Meetings are held at the Board’s [conference space](about) at 1331 F Street NW, Suite 800, in downtown Washington, DC.&nbsp;
+For the comfort of all participants and to promote a [fragrance-free](../about) environment, attendees are requested not to use perfume, cologne, or other fragrances.&nbsp;
 The Board usually substitutes one of its meetings each year for a town hall forum outside Washington, DC.
 
 ## Upcoming Board Meetings
