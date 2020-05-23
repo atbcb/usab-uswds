@@ -7,7 +7,7 @@ permalink: /about/
 
 # {{ page.title }}
 
-![thumbnail photo of board office building]({% asset_url board-office-small.jpg %}){: style="float: right"}
+![thumbnail photo of board office building]({% asset_path board-office-small.jpg %}){: style="float: right"}
 
 The Access Board is an independent federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards.&nbsp;
 Created in 1973 to ensure access to federally funded facilities, the Board is now a leading source of information on accessible design.&nbsp;
