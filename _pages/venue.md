@@ -36,4 +36,4 @@ Use exit at:
 - 13th & G Streets (go 1 block south to F Street, turn right and go ½ block west); or
 - 12th & F Streets (go 1½ blocks west along F Street past 13th Street).
 
-![detail of map showing Board office on F Street, north side, mid-block between 13th and 14th Streets, Northwest DC](../img/map1.jpg)
+[![detail of map showing Board office on F Street, north side, mid-block between 13th and 14th Streets, Northwest DC](../img/map1.jpg)](../img/map1.jpg)
