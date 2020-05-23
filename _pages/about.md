@@ -4,7 +4,7 @@ layout: page
 sidenav: false
 permalink: /about/
 image: board-office-small.jpg
-image_alt_text: icons for technical assistance, webinars, and casework 
+image_alt_text: thumbnail photo of office building
 ---
 
 # {{ page.title }}
