@@ -6,6 +6,7 @@ permalink: /about/
 ---
 
 <img src="../img/board-office-small.jpg" alt="thumbnail photo of office building" align="right">
+
 # {{ page.title }}
 
 The Access Board is an independent federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards.&nbsp;
