@@ -1,6 +1,6 @@
 ---
 title: About the U.S. Access Board
-layout: page
+layout: post
 sidenav: false
 permalink: /about/
 image: board-office-small.jpg
