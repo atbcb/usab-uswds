@@ -16,9 +16,9 @@ To inquire about use of the space, contact [Rose Bunales](mailto:bunales@access-
 
 ![examples of VSA Art](../img/vsa-art-examples.jpg)
 
-The conference space showcases artwork provided by VSA Arts.
-
 <img src="../img/vsa.jpg" alt="VSA arts logo" align="right">
+
+The conference space showcases artwork provided by VSA Arts.
 
 ## Location / Metro Access
 
