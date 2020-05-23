@@ -104,7 +104,7 @@ The Board issued the Telecommunications Act Accessibility Guidelines in February
 Structured as performance requirements, the guidelines address products and equipment, including input, output, operating controls and mechanisms, and product information and documentation.&nbsp;
 They are enforced by the Federal Communications Commission, which is responsible for rules and policies to enforce the law.
 
-## 1998 - Board Addresses Electronic and Information Technology Access under Section 508
+## 1998 – Board Addresses Electronic and Information Technology Access under Section 508
 
 To address barriers to access posed by information technology, Congress passed the Rehabilitation Act Amendments of 1998, which President Bill Clinton signed into law on August 7, 1998.&nbsp;
 This measure strengthened Section 508 of the Rehabilitation Act by requiring access to electronic and information technologies procured by the federal government.&nbsp;
