@@ -41,7 +41,7 @@ permalink: /gs/
 {% asset icon-park-slide.png class="usa-media-block__img" alt="park slide icon" %}
 [Recreation Facilities](..) (ADA and ABA Standards)
 
-{% asset icon-picnic-bench.png class="usa-media-block__img" alt="picnic table icon" %}
+{% asset icon-picnic-bench.png class="usa-media-block__img" alt="picnic table bench icon" %}
 [Outdoor Developed Areas](..) (ABA Standards)
 
 ## [Streets and Sidewalks](..)
@@ -60,7 +60,7 @@ permalink: /gs/
 {% asset transportation.jpg class="usa-media-block__img" alt="photo of several large city buses, lined up on pavement" width="150" %}
 {% include transportation.html %}
 
-{% asset icon-train-stat.png class="usa-media-block__img" alt="train station icon" %}
+{% asset icon-train-station.png class="usa-media-block__img" alt="train station icon" %}
 [Transportation Facilities](..) 
 
 {% asset icon-bus.png class="usa-media-block__img" alt="bus icon" %}
@@ -74,5 +74,6 @@ permalink: /gs/
 {% asset health_care.jpg class="usa-media-block__img" alt="photo of a person lying under white machine"  width="150" %}
 {% include health_care.html %}
 
-[Medical Diagnostic Equipment Accessibility Standards](..)
+{% asset icon-caduceus.png class="usa-media-block__img" alt="caduceus icon" %}
+[Medical Diagnostic Equipment Accessibility Standards](..)  
 [Prescription Drug Container Labels](..) (advisory guidance)
