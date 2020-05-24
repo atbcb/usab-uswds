@@ -4,6 +4,9 @@ $theme-hero-image: asset_path("board-office.jpg");
 @import "uswds";
 
 // Add your SASS/CSS here
+figcaption {
+  font-size: small;
+}
 
 // default mode hide banner
 .usa-banner__content {
