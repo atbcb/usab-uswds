@@ -17,11 +17,7 @@ eight.
         {% asset buildings.jpg class="usa-media-block__img" alt="photo of grid of windows of gray concrete office building" width="150" %}
         <div class="usa-media-block__body">
           <h3 class="usa-graphic-list__heading">Buildings &amp; Sites</h3>
-          <p>Standards issued under the Americans with Disabilities Act (ADA) address access to buildings and sites
-            nationwide in new construction and alterations.&nbsp;
-            Similar standards apply to buildings and sites funded by the Federal government under the Architectural
-            Barriers Act (ABA).
-          </p>
+          {% include buildings.html %}
         </div>
       </div>
     </div>
@@ -30,19 +26,14 @@ eight.
         {% asset recreation.jpg class="usa-media-block__img" alt="photo of roller coaster loop" width="150" %}
         <div class="usa-media-block__body">
           <h3 class="usa-graphic-list__heading">Recreation Facilities</h3>
-          <p>Access to recreation facilities, including play areas, swimming pools, sports facilities, fishing piers, boating
-            facilities, golf courses, and amusement rides is addressed in the Americans with Disabilities Act (ADA) and
-            Architectural Barriers Act (ABA) Standards.&nbsp;
-            Provisons cover access to trails, picnic and campling sites, and beaches on Federal sties.</p>
+          {% include recreation.html %}
         </div>
       </div>
       <div class="usa-media-block tablet:grid-col">
         {% asset streets-sidewalks.jpg class="usa-media-block__img" alt="photo of a curving sidewalk with grass on either side, and a road to the left" width="150" %}
         <div class="usa-media-block__body">
           <h3 class="usa-graphic-list__heading">Streets &amp; Sidewalks</h3>
-          <p>The Board is developing guidelines that cover access to public rights-of-way, including sidewalks, intersection,
-            street crossings, and on-street parking.&nbsp;
-            The Board is also addressing access to shared use paths that provide off-road means of transportation and recreation.</p>
+          {% include streets-sidewalks.html %}
         </div>
       </div>
     </div>
@@ -51,18 +42,14 @@ eight.
         {% asset transportation.jpg class="usa-media-block__img" alt="photo of several large city buses, lined up on pavement" width="150" %}
         <div class="usa-media-block__body">
           <h3 class="usa-graphic-list__heading">Transportation</h3>
-          <p>Access to public transportation is required by the Americans with Disabilities Act (ADA) and other laws.&nbsp;
-            Standards issued under the ADA address access to facilities and to vehicles of public transit systems.&nbsp;
-            The Board is also developing guidelines for passenger vesseles under the ADA.</p>
+          {% include transportation.html %}
         </div>
       </div>
       <div class="usa-media-block tablet:grid-col">
         {% asset health_care.jpg class="usa-media-block__img" alt="photo of a person lying under white machine"  width="150" %}
         <div class="usa-media-block__body">
           <h3 class="usa-graphic-list__heading">Streets &amp; Sidewalks</h3>
-          <p>The Board has issued accessiblity standards for medical diagnostic equipment (MDE) under the <q>Patient Protection
-            and Affordable Care Act</q>.&nbsp;
-            The Board also developed guidance on accessible prescription drug contains lables.</p>
+          {% include health_care.html %}
         </div>
       </div>
     </div>
