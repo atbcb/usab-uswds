@@ -48,3 +48,5 @@ The Board has issued standards for medical diagnostic equipment and guidance on 
 
 - [Medical Diagnostic Equipment Accessibility Standards](..)
 - [Prescription Drug Container Labels](..) (advisory guidance)
+
+{% include highlights.html %}
