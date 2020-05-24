@@ -2,7 +2,7 @@
 title: History of the Access Board
 layout: page
 sidenav: false
-permalink: /history/
+permalink: /about/history.html
 ---
 
 # {{ page.title }}
