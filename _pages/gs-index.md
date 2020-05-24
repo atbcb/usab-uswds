@@ -12,9 +12,14 @@ permalink: /gs/
 {% asset communications.jpg class="usa-media-block__img" alt="photo of hands typing on keyboard" width="150" %}
 {% include communications.html %}
 
-- [Revised Section 508 Standards and Section 255 Guidelines](..)
-- [Original Section 508 Standards](..) (2000)
-- [Original Section Section 255 Guidelines](..) (1998)
+{% asset ict-refresh.png class="usa-media-block__img" alt="ict refresh icon" %}
+[Revised Section 508 Standards and Section 255 Guidelines](..)
+
+{% asset old508.png class="usa-media-block__img" alt="old 508 icon" %}
+[Original Section 508 Standards](..) (2000)
+
+{% asset telecomm.png class="usa-media-block__img" alt="telecomm icon" %}
+[Original Section Section 255 Guidelines](..) (1998)
 
 ## [Buildings & Sites](..)
 
