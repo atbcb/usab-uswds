@@ -7,7 +7,7 @@ permalink: /gs/
 
 # {{ page.title }}
 
-## [Communications & IT](..)
+## [Communications and Information Technology](..)
 
 {% asset communications.jpg class="usa-media-block__img" alt="photo of hands typing on keyboard" width="150" %}
 {% include communications.html %}
