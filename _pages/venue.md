@@ -2,7 +2,7 @@
 title: Board Conference Space
 layout: page
 sidenav: false
-permalink: /venue/
+permalink: /about/venue.html
 ---
 
 # {{ page.title }}
