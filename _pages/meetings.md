@@ -2,7 +2,7 @@
 title: Board Meetings
 layout: page
 sidenav: false
-permalink: /meetings/
+permalink: /about/meetings.html
 ---
 
 # {{ page.title }}
