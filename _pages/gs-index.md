@@ -12,13 +12,13 @@ permalink: /gs/
 {% asset communications.jpg class="usa-media-block__img" alt="photo of hands typing on keyboard" width="150" %}
 {% include communications.html %}
 
-{% asset ict-refresh.png class="usa-media-block__img" alt="ict refresh icon" %}
+{% asset icon-tablet-refresh.png class="usa-media-block__img" alt="smart-phone refresh icon" %}
 [Revised Section 508 Standards and Section 255 Guidelines](..)
 
-{% asset old508.png class="usa-media-block__img" alt="old 508 icon" %}
+{% asset icon-old508.png class="usa-media-block__img" alt="old 508 icon" %}
 [Original Section 508 Standards](..) (2000)
 
-{% asset telecomm.png class="usa-media-block__img" alt="telecomm icon" %}
+{% asset icon-mobile-phone.png class="usa-media-block__img" alt="mobile phone icon" %}
 [Original Section Section 255 Guidelines](..) (1998)
 
 ## [Buildings & Sites](..)
@@ -26,10 +26,10 @@ permalink: /gs/
 {% asset buildings.jpg class="usa-media-block__img" alt="photo of grid of windows of gray concrete office building" width="150" %}
 {% include buildings.html %}
 
-{% asset ada.png class="usa-media-block__img" alt="ADA icon" %}
+{% asset icon-ada.png class="usa-media-block__img" alt="ADA icon" %}
 [ADA Standards](..)
 
-{% asset aba.png class="usa-media-block__img" alt="ABA icon" %}
+{% asset icon-aba.png class="usa-media-block__img" alt="ABA icon" %}
 [ABA Standards](..) (GSA, DOD, USPS)  
 [Uniform Federal Accessibility Standards (UFAS)](..) (1984, HUD only)
 
@@ -38,8 +38,10 @@ permalink: /gs/
 {% asset recreation.jpg class="usa-media-block__img" alt="photo of roller coaster loop" width="150" %}
 {% include recreation.html %}
 
-{% asset slide.png class="usa-media-block__img" alt="slide icon" %}
+{% asset icon-park-slide.png class="usa-media-block__img" alt="park slide icon" %}
 [Recreation Facilities](..) (ADA and ABA Standards)
+
+{% asset icon-picnic-bench.png class="usa-media-block__img" alt="picnic table icon" %}
 [Outdoor Developed Areas](..) (ABA Standards)
 
 ## [Streets and Sidewalks](..)
@@ -47,7 +49,10 @@ permalink: /gs/
 {% asset streets-sidewalks.jpg class="usa-media-block__img" alt="photo of a curving sidewalk with grass on either side, and a road to the left" width="150" %}
 {% include streets-sidewalks.html %}
 
+{% asset icon-prow.png class="usa-media-block__img" alt="icon for PROW" %}
 [Public Rights-of-Way](..)
+
+{% asset icon-sup.png class="usa-media-block__img" alt="icon for SUP" %}
 [Shared Use Paths](..)
 
 ## [Transportation](..)
@@ -55,8 +60,13 @@ permalink: /gs/
 {% asset transportation.jpg class="usa-media-block__img" alt="photo of several large city buses, lined up on pavement" width="150" %}
 {% include transportation.html %}
 
+{% asset icon-train-stat.png class="usa-media-block__img" alt="train station icon" %}
 [Transportation Facilities](..) 
+
+{% asset icon-bus.png class="usa-media-block__img" alt="bus icon" %}
 [Transportation Vehicles](..)
+
+{% asset icon-cruise-ship.png class="usa-media-block__img" alt="cruise ship icon" %}
 [Passenger Vessels](..)
 
 ## [Health Care](..)
