@@ -1,7 +1,7 @@
 ---
 title: Board Conference Space
 layout: page
-sidenav: false
+sidenav: true
 permalink: /about/venue.html
 ---
 
