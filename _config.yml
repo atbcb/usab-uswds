@@ -68,7 +68,7 @@ dap:
   subagency:
 
 # Site Navigation
-/primary_navigation:
+primary_navigation:
   - name: About
     url: /about/
   - name: News
