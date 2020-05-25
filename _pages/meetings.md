@@ -5,9 +5,9 @@ sidenav: true
 permalink: /about/meetings.html
 ---
 
-# {{ page.title }}
-
 <img src="../img/webcast.jpg" alt="photo of laptop with meeting on screen" align="right">
+
+# {{ page.title }}
 
 Members of the Access Board meet every two months.&nbsp;
 Board meetings are open to the public and typically span three days.&nbsp;
@@ -17,10 +17,10 @@ Meeting webcasts are archived.
 
 The next committee and Board meetings will be:
 
-    ***July 27 - 29, 2020***
-    **Board Meeting**  
-    **July 29, 1:30 - 3:00**  
-    *[Join webcast]*
+> ***July 27 - 29, 2020***
+> **Board Meeting**  
+> **July 29, 1:30 - 3:00**  
+> *[Join webcast]*
 
 Meetings are held at the Board’s [conference space](venue.html) at 1331 F Street NW, Suite 800, in downtown Washington, DC.&nbsp;
 For the comfort of all participants and to promote a [fragrance-free](../about) environment, attendees are requested not to use perfume, cologne, or other fragrances.&nbsp;
