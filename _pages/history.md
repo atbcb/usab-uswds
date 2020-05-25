@@ -1,5 +1,5 @@
 ---
-title: History
+title: History of the Access Board
 layout: page
 sidenav: true
 permalink: /about/history.html
