@@ -1,7 +1,7 @@
 ---
 title: Board Meetings
 layout: page
-sidenav: false
+sidenav: true
 permalink: /about/meetings.html
 ---
 
