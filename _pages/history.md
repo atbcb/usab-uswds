@@ -1,7 +1,7 @@
 ---
 title: History of the Access Board
 layout: page
-sidenav: false
+sidenav: true
 permalink: /about/history.html
 ---
 
