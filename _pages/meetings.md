@@ -7,7 +7,7 @@ permalink: /about/meetings.html
 
 # {{ page.title }}
 
-<img src="../img/webcast.jpg" alt="photo of laptop with meeting on screen" align="right">
+<img src="../img/webcast.jpg" alt="photo of laptop with meeting on screen" align="right" width="169">
 
 Members of the Access Board meet every two months.&nbsp;
 Board meetings are open to the public and typically span three days.&nbsp;
