@@ -9,7 +9,7 @@ permalink: /webinars/
 
 ## Accessibility Online ##
 
-![Accessibility Online banner with ISA and computer mouse](../img/ad-banner.jpg) The Access Board, in cooperation with the National Network of ADA Centers, offers a free monthly webinar series on the Board’s guidelines and standards and other aspects of accessible design.  Sessions also provide an opportunity to earn continuing education credits (CEUs).
+![Accessibility Online banner with ISA and computer mouse](../img/ao-banner.jpg) The Access Board, in cooperation with the National Network of ADA Centers, offers a free monthly webinar series on the Board’s guidelines and standards and other aspects of accessible design.  Sessions also provide an opportunity to earn continuing education credits (CEUs).
 
 To register, visit [www.accessibilityonline.org](http://www.accessibilityonline.org/).&nbsp;
 Direct inquiries to [adaconferences@adagreatlakes.org](mailto:adaconferences@adagreatlakes.org) or 877-232-1990 (v/TTY).
