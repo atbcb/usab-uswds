@@ -20,7 +20,7 @@ Webinars are recorded, and past sessions are available in the site&rsquo;s [arch
 
 ## Section 508 Best Practices Webinar Series ##
 
-<img src="../img/cioc-logo.png" alt="CIOC Council seal" align="right")>
+<img src="../img/cioc-logo.png" alt="CIO Council seal" align="right")>
 
 The [Section 508 Best Practices Webinar Series](https://www.accessibilityonline.org/cioc-508/schedule) addresses a variety of issues associated with ensuring that federal agencies have the knowledge they need to meet their obligations under Section 508.&nbsp;
 The sessions are 90 minutes in length.&nbsp;
