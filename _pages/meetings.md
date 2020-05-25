@@ -17,7 +17,7 @@ Meeting webcasts are archived.
 
 The next committee and Board meetings will be:
 
-> ***July 27 - 29, 2020***
+> ***July 27 - 29, 2020***  
 > **Board Meeting**  
 > **July 29, 1:30 - 3:00**  
 > *[Join webcast]*
