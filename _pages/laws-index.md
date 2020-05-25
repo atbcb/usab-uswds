@@ -1,8 +1,8 @@
 ---
 title: Laws Concerning the Access Board
 layout: page
-sidenav: false
-permalink: /laws/
+sidenav: true
+permalink: /about/laws/
 ---
 
 # {{ page.title }}
