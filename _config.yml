@@ -91,17 +91,17 @@ primary_navigation:
       - name: Health Care
         url: /gs/
   - name: Training
-    url: /about/training.html
+    url: /training/
   - name: Enforcement
-    url: /about/
+    url: /enforcment/
   - name: Research
     url: /about/
 
 secondary_navigation:
   - name: Webinars
-    url: https://www.access-board.gov/training/webinars
+    url: /webinars/
   - name: File an ABA Complaint
-    url: https://cts.access-board.gov/formsiq/form.do?formset_id=2&amp;ds=fdd&amp;reload=true
+    url: /enforcement/complaint.html
 
 # Search.gov configuration
 # 1. Create an account with Search.gov https://search.usa.gov/signup
