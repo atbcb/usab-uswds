@@ -17,7 +17,7 @@ By passing the ABA, Congress intended the federal government to set as an exampl
 President Lyndon Johnson characterized barriers to access as a failure on the part of government that perpetuated “cruel discrimination.”
 
 Hugh Gallagher, an aide to Senator E.L. Bartlett of Alaska who introduced the ABA, helped draft the bill.&nbsp;
-A wheelchair user, he had experienced firsthand barriers to access at many government buildings, including landmark museums along the Mall.
+A wheelchair user, he had experienced firsthand barriers to access at many government buildings, including landmark museums along the Mall.&nbsp;
 <q>I wanted it to be simple,</q> said Gallagher of the ABA, <q>I wanted accessibility to be one of the items on the checklist of designers and builders.</q>
 
 ## 1973 – The Access Board is Created
