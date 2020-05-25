@@ -1,7 +1,7 @@
 ---
 title: Training
 layout: page
-sidenav: true
+sidenav: false
 permalink: /training/
 ---
 
