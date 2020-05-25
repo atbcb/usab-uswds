@@ -68,32 +68,42 @@ dap:
   subagency:
 
 # Site Navigation
-primary_navigation:
-  - name: Home
-    url: /
+/primary_navigation:
+  - name: About
+    url: /about/
   - name: News
     url: /news/
-  - name: Document
-    url: /document/
-  - name: Document with sidenav
-    url: /document-with-sidenav/
-  - name: Document submenu
+  - name: Guidelines & Standards
+    url: /gs/
+  - name: Guidelines & Standards
+    url: /gs/
     children:
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
-      - name: Navigation link
-        url: "#main-content"
+      - name: Communications & IT
+        url: /gs/ict.html
+      - name: Buildings & Sites
+        url: /gs/
+      - name: Recreation Facilities
+        url: /gs/
+      - name: Streets & Sidewalks
+        url: /gs/
+      - name: Transportation
+        url: /gs/
+      - name: Health Care
+        url: /gs/
+  - name: Training
+    url: /about/training.html
+  - name: Enforcement
+    url: /about/
+  - name: Research
+    url: /about/
 
 secondary_navigation:
-  - name: Secondary 2nd link
-    url: "#main-content"
-  - name: Another secondary 2nd link
-    url: "#main-content"
+  - name: Webinars
+    url: https://www.access-board.gov/training/webinars
+  - name: File an ABA Complaint
+    url: https://cts.access-board.gov/formsiq/form.do?formset_id=2&amp;ds=fdd&amp;reload=true
 
 # Search.gov configuration
-#
 # 1. Create an account with Search.gov https://search.usa.gov/signup
 # 2. Add a new site.
 # 3. Add your site/affiliate name here.
