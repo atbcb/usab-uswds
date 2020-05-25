@@ -1,5 +1,5 @@
 ---
-title: page title
+title: Training
 layout: page
 sidenav: true
 permalink: /about/training.html
