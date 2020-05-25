@@ -1,7 +1,7 @@
 ---
 title: About the U.S. Access Board
 layout: page
-sidenav: false
+sidenav: true
 permalink: /about/
 ---
 
