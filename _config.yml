@@ -81,21 +81,21 @@ primary_navigation:
       - name: Communications & IT
         url: /gs/ict.html
       - name: Buildings & Sites
-        url: /gs/
+        url: /gs/buildings.html
       - name: Recreation Facilities
-        url: /gs/
+        url: /gs/recreation.html
       - name: Streets & Sidewalks
-        url: /gs/
+        url: /gs/streets-sidewalks.html
       - name: Transportation
-        url: /gs/
+        url: /gs/transportation.html
       - name: Health Care
-        url: /gs/
+        url: /gs/health_card.html
   - name: Training
     url: /training/
   - name: Enforcement
-    url: /enforcment/
+    url: /enforcement/
   - name: Research
-    url: /about/
+    url: /research/
 
 secondary_navigation:
   - name: Webinars
