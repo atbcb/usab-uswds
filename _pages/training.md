@@ -2,7 +2,7 @@
 title: Training
 layout: page
 sidenav: true
-permalink: /about/training.html
+permalink: /training/
 ---
 
 # {{ page.title }}
