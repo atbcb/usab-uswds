@@ -1,8 +1,8 @@
 ---
-title: TemplateDoc
+title: FOIA Annual Report
 layout: page
 sidenav: true
-permalink: /about/template.html
+permalink: /about/foia-report.html
 ---
 
 # {{ page.title }}
