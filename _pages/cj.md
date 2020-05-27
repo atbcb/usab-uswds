@@ -1,5 +1,5 @@
 ---
-title: BlankishNewPage
+title: Budget Justification
 layout: page
 sidenav: false
 permalink: /cj/
@@ -20,7 +20,7 @@ Subcommittees on Transportation, Housing and Urban Development, and Related Agen
 
 ### Contents
 
-*   [Introduction](#intro)
+*   [Introduction](#introduction)
 *   [Establish State-of-the-Art Accessibility Standards and Guidelines](#requirements)
     *   [FY 2019 Results – Rulemaking](#rules-results)
     *   [FY 2020 Planned Activities – Rulemaking](#rules-planned)
@@ -53,8 +53,7 @@ Subcommittees on Transportation, Housing and Urban Development, and Related Agen
 
 * * *
 
-# Access Board  
-Fiscal Year 2021 Budget Justification
+# Fiscal Year 2021 Budget Justification #
 
 This document presents the Access Board’s budget justification for fiscal year (FY) 2021.  We are requesting a total budget authority of $9,200,000 (See [Appendix A](#budget)).
 
