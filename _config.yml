@@ -69,7 +69,7 @@ dap:
 
 # Site Navigation
 primary_navigation:
-  - name: About Randy wuz here
+  - name: About
     url: /about/
   - name: News
     url: /news/
