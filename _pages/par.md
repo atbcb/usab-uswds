@@ -36,7 +36,7 @@ Executive Director
 
 * * *
 
-## <a name="mda" /a> MANAGEMENT DISCUSSION AND ANALYSIS
+## <a name="mda"></a> MANAGEMENT DISCUSSION AND ANALYSIS
 
 ### INTRODUCTION
 
@@ -224,7 +224,7 @@ The principal financial statements for the Access Board have been prepared to re
 
 * * *
 
-## <a name="iar" /a> INDEPENDENT AUDITOR'S REPORT AND FINANCIAL STATEMENTS
+## <a name="iar"></a> INDEPENDENT AUDITOR'S REPORT AND FINANCIAL STATEMENTS
 
 FOR THE FISCAL YEARS ENDED SEPTEMBER 30, 2018 AND 2017
 
@@ -334,7 +334,7 @@ November 9, 2018
 
 * * *
 
-## <a name="fs" /a> FINANCIAL STATEMENTS AND NOTES
+## <a name="fs"></a> FINANCIAL STATEMENTS AND NOTES
 
 ### UNITED STATES ACCESS BOARD BALANCE SHEET AS OF SEPTEMBER 30, 2018 AND 2017(In Dollars) ###
 
@@ -1298,7 +1298,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 * * *
 
-## <a name="notes" /a> UNITED STATES ACCESS BOARD NOTES TO THE FINANCIAL STATEMENTS
+## <a name="notes"></a> UNITED STATES ACCESS BOARD NOTES TO THE FINANCIAL STATEMENTS
 
 ### <a name="n1"></a> NOTE 1\. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
 
