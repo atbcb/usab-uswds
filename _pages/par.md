@@ -5,7 +5,7 @@ sidenav: false
 permalink: /about/par.html
 ---
 
-# {{ page.title }}
+# {{ page.title }} (2018)
 
 Independent Auditor's Report and Financial Statements  
     for Fiscal Years Ended September 30, 2018 and 2017  
