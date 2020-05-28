@@ -1,5 +1,5 @@
 ---
-title: Contact US
+title: Contact Us
 layout: page
 sidenav: true
 permalink: /about/contact.html
