@@ -6,6 +6,8 @@ sidenav: false
 
 # Section heading (h1)
 
+{% asset usab-seal.jpg alt="Access Board circular seal" width="150" %}
+
 The page heading communicates the main focus of the page. Make your page heading descriptive and keep it succinct.
 
 We can also use variables in our pages. For example, this is the title variable: **{{page.title}}**
@@ -19,8 +21,6 @@ These headings introduce, respectively, sections and subsections within your bod
 The particulars of your body copy will be determined by the topic of your page. Regardless of topic, it’s a good practice to follow the inverted pyramid structure when writing copy: Begin with the information that’s most important to your users and then present information of less importance.
 
 Here is a brand new paragraph.
-
-{% asset usab-seal.jpg alt="Access Board circular seal" width="150" %}
 
 Keep each section and subsection focused — a good approach is to include one theme (topic) per section.
 
