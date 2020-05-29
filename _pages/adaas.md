@@ -2,7 +2,7 @@
 title: ADA Accessibility Standards
 layout: page
 sidenav: false
-permalink: /gs/adaas/
+permalink: /adaas/
 ---
 
 # {{ page.title }}
