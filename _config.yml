@@ -78,11 +78,10 @@ primary_navigation:
     children:
       - name: Communications & IT
         url: /gs/ict.html
-      - name: Buildings & Sites
       - name: ADA Accessibility Standards
-        url: adaas.html
+        url: /gs/adaas/
       - name: ABA Accessibility Standards
-        url: abaas.html
+        url: /gs/abaas/
       - name: Buildings & Sites
         url: /gs/buildings.html
       - name: Recreation Facilities
