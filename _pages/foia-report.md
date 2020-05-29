@@ -1,7 +1,7 @@
 ---
 title: FOIA Annual Report
 layout: page
-sidenav: true
+sidenav: false
 permalink: /about/foia-report.html
 ---
 
