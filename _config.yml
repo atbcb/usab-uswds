@@ -75,11 +75,14 @@ primary_navigation:
     url: /news/
   - name: Guidelines & Standards
     url: /gs/
-  - name: Guidelines & Standards
-    url: /gs/
     children:
       - name: Communications & IT
         url: /gs/ict.html
+      - name: Buildings & Sites
+      - name: ADA Accessibility Standards
+        url: adaas.html
+      - name: ABA Accessibility Standards
+        url: abaas.html
       - name: Buildings & Sites
         url: /gs/buildings.html
       - name: Recreation Facilities
