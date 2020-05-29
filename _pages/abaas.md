@@ -7,7 +7,7 @@ permalink: /abaas/
 
 # {{ page.title }}
 
-<img src="/img/aba-agencies-banner.jpg" alt="GSA, DOD, HUD, and USPS agency seals" align="right">
+<img src="../img/aba-agencies-banner.jpg" alt="GSA, DOD, HUD, and USPS agency seals" align="right">
 
 This edition of the ABA Accessibility Standards has been adopted by the General Services Administration (GSA), the Department of Defense (DOD), and the U.S. Postal Service (USPS).&nbsp;
 (The USPS standards do not include the non-mandatory advisory notes.)&nbsp;
