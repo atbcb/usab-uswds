@@ -7,7 +7,9 @@ permalink: /laws/ada.html
 
 # {{ page.title }} (ADA) of 1990
 
-The ADA recognizes and protects the civil rights of people with disabilities and is modeled after earlier landmark laws prohibiting discrimination on the basis of race and gender.  It was signed into law by George H.W. Bush on July 26, 1990.  The ADA covers a wide range of disability, from physical conditions affecting mobility, stamina, sight, hearing, and speech to conditions such as emotional illness and learning disorders.  The ADA addresses access to: ![President George H.W. Bush signing the ADA into law](images/the_board/ada-signing.jpg)
+<img src="../img/ada-signing.jpg" alt="photo of President George H W Bush signing the ADA" align="right">
+
+The ADA recognizes and protects the civil rights of people with disabilities and is modeled after earlier landmark laws prohibiting discrimination on the basis of race and gender.  It was signed into law by George H.W. Bush on July 26, 1990.  The ADA covers a wide range of disability, from physical conditions affecting mobility, stamina, sight, hearing, and speech to conditions such as emotional illness and learning disorders.  The ADA addresses access to:
 
 - the workplace (title I)
 - state and local government services (title II)
