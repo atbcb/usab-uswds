@@ -1,11 +1,11 @@
 ---
 title: Laws 
 layout: page
-sidenav: false
+sidenav: true
 permalink: /laws/
 ---
 
-# {{ page.title }} Concerning the Access Board
+# Laws Concerning the Access Board
 
 <figure style="display:inling; width:50%; float:right">
   <img src="../img/aca-bill-signing.jpg" alt="photo of President Barak Obama signing the Affordable Care Act">
