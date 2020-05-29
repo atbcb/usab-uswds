@@ -1,11 +1,11 @@
 ---
 title: History of the Access Board
 layout: page
-sidenav: false
+sidenav: true
 permalink: /about/history.html
 ---
 
-# {{ page.title }}
+# History of the U.S. Access Board
 
 ## 1968 – The Architectural Barriers Act Becomes Law
 
