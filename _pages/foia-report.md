@@ -1,11 +1,11 @@
 ---
 title: FOIA Annual Report
 layout: page
-sidenav: false
+sidenav: true
 permalink: /about/foia-report.html
 ---
 
-# {{ page.title }} (FY 2019)
+# FOIA Annual Report (FY 2019)
 
 ## Section I:  Basic Information Regarding Report
 
