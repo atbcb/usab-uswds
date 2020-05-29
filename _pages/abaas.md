@@ -2,7 +2,7 @@
 title: ABA Accessibility Standards
 layout: page
 sidenav: false
-permalink: /gs/abaas/
+permalink: /abaas/
 ---
 
 # {{ page.title }}
