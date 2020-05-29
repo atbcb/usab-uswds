@@ -79,9 +79,9 @@ primary_navigation:
       - name: Communications & IT
         url: /gs/ict.html
       - name: ADA Standards
-        url: /gs/adaas/
+        url: /adaas/
       - name: ABA Standards
-        url: /gs/abaas/
+        url: /abaas/
       - name: Buildings & Sites
         url: /gs/buildings.html
       - name: Recreation Facilities
