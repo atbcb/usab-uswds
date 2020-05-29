@@ -2,7 +2,7 @@
 title: Laws Concerning the Access Board
 layout: page
 sidenav: true
-permalink: /about/laws/
+permalink: /laws/
 ---
 
 # {{ page.title }}
