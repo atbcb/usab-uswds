@@ -78,9 +78,9 @@ primary_navigation:
     children:
       - name: Communications & IT
         url: /gs/ict.html
-      - name: ADA Accessibility Standards
+      - name: ADA Standards
         url: /gs/adaas/
-      - name: ABA Accessibility Standards
+      - name: ABA Standards
         url: /gs/abaas/
       - name: Buildings & Sites
         url: /gs/buildings.html
@@ -91,7 +91,7 @@ primary_navigation:
       - name: Transportation
         url: /gs/transportation.html
       - name: Health Care
-        url: /gs/health_card.html
+        url: /gs/health_care.html
   - name: Training
     url: /training/
   - name: Enforcement
