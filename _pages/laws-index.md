@@ -1,7 +1,7 @@
 ---
 title: Laws Concerning the Access Board
 layout: page
-sidenav: true
+sidenav: false
 permalink: /laws/
 ---
 
