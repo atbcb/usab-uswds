@@ -34,7 +34,7 @@ See also on DOJ’s website at [www.ada.gov](http://www.ada.gov):
 
 ## Department of Transportation ADA Standards for Transportation Facilities (2006)
 
-<img src="../img/dot.jpg" alt="DOT seal" align="right">
+<img src="../img/dot-seal.jpg" alt="DOT seal" align="right">
 
 DOT’s ADA standards (2006) apply to facilities used by state and local governments to provide designated public transportation services, including bus stops and stations, and rail stations.&nbsp;
 They include unique provisions concerning:
