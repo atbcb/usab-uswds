@@ -7,17 +7,44 @@ permalink: /gs/adaas/
 
 # {{ page.title }}
 
-<img src="../img/aba-agencies-banner.jpg" alt="GSA, DOD, HUD, and USPS agency seals">
-This edition of the ABA Accessibility Standards has been adopted by the General Services Administration (GSA), the Department of Defense (DOD), and the U.S. Postal Service (USPS).&nbsp;
-(The USPS standards do not include the non-mandatory advisory notes.)&nbsp;
-At this time, these standards apply to all facilities covered by the ABA except residential facilities under the purview of the Department of Housing and Urban Development (HUD).
+The ADA standards are issued by the Department of Justice (DOJ) and the Department of Transportation (DOT) and apply to facilities covered by the ADA in new construction and alterations.&nbsp;
+DOJ’s standards apply to all facilities covered by the ADA, except public transportation facilities, which are subject to DOT’s standards.
 
-Regulations and notices implementing the ABA standards include:
+Both standards are very similar and are closely based on the Board’s ADA Accessibility Guidelines (ADAAG).&nbsp;
+However, each contains a few unique provisions, which are included in this edition of the standards.
 
-- [GSA's Federal Management Regulation](https://www.gsa.gov/policy-regulations/regulations/federal-management-regulation-fmr?asset=119604#idtopicx2x71439) 
-- [USPS notice](http://www.gpo.gov/fdsys/pkg/FR-2005-05-17/html/05-9745.htm)
-- [DOD policy memorandum](index.php?option=com_content&view=article&id=263&Itemid=1548)
+## Department of Justice ADA Standards (2010)
 
-HUD has not yet adopted this version of the standards and continues to apply the [Uniform Federal Accessibility Standards (UFAS)](https://www.access-board.gov/index.php?option=com_content&view=article&id=1368&Itemid=1546) to residential facilities under its jurisdiction.
+<img src="../img/doj-seal.jpg" alt="DOJ seal" align="right">
 
-New provisions for outdoor areas developed by the federal government that address access to trails, picnic and camping areas, viewing areas, and beach access routes are included in this edition of the ABA standards.
+DOJ's ADA standards (2010) became mandatory on March 15, 2012.  They include provisions that modify certain portions of Chapters 1-10, including provisions addressing the following areas:
+
+- Assembly Areas ([221](index.php?option=com_content&view=article&id=985&Itemid=928#221%20Assembly%20Areas))
+- Medical Care Facilities (section [223](index.php?option=com_content&view=article&id=985&Itemid=928#223%20Medical%20Care%20and%20Long-Term%20Care%20Facilities))
+- Places of Lodging (sections [224](index.php?option=com_content&view=article&id=985&Itemid=928#224%20Transient%20Lodging%20Guest%20Rooms))
+- Housing at Places of Education ([224](index.php?option=com_content&view=article&id=985&Itemid=928#224%20Transient%20Lodging%20Guest%20Rooms) and [233](index.php?option=com_content&view=article&id=985&Itemid=928#233%20Residential%20Facilities))
+- Detention and Correctional Facilities (section [232](index.php?option=com_content&view=article&id=985&Itemid=928#232%20Detention%20Facilities%20and%20Correctional%20Facilities))
+- Social Service Center Establishments ([233](index.php?option=com_content&view=article&id=985&Itemid=928#233%20Residential%20Facilities))
+- Residential Dwelling Units (section [233](index.php?option=com_content&view=article&id=985&Itemid=928#233%20Residential%20Facilities))
+
+See also on DOJ’s website at [www.ada.gov](http://www.ada.gov):
+
+- The full text of DOJ’s [2010 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm)
+- DOJ’s [ADA regulations](http://www.ada.gov/2010_regs.htm) implementing the 2010 ADA Standards 
+
+## Department of Transportation ADA Standards for Transportation Facilities (2006)
+
+<img src="../img/dot.jpg" alt="DOT seal" align="right">
+
+DOT’s ADA standards (2006) apply to facilities used by state and local governments to provide designated public transportation services, including bus stops and stations, and rail stations.&nbsp;
+They include unique provisions concerning:
+
+- Location of Accessible Routes ([206.3](https://www.access-board.gov/index.php?option=com_content&view=article&id=985&Itemid=928#206%20Accessible%20Routes))
+- Detectable Warnings on Curb Ramps ([406.8](https://www.access-board.gov/index.php?option=com_content&view=article&id=987&Itemid=930#406%20Curb%20Ramps))
+- Bus Boarding and Alighting Areas ([810.2.2](https://www.access-board.gov/index.php?option=com_content&view=article&id=991&Itemid=934#810%20Transportation%20Facilities))
+- Rail Station Platforms ([810.5.3](https://www.access-board.gov/index.php?option=com_content&view=article&id=991&Itemid=934#810%20Transportation%20Facilities))
+
+See also on DOT's website:
+
+- [DOT Regulation for Transportation Services](http://www.fta.dot.gov/civilrights/12325_3884.html) 
+- [DOT rule](http://www.fta.dot.gov/12325_5936.html) adopting the 2006 ADA Standards for Transportation Facilities
