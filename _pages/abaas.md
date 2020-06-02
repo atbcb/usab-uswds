@@ -5,7 +5,7 @@ sidenav: false
 permalink: /abaas/
 ---
 
-# {{ page.title }}
+# ABA Accessibility Standards
 
 <img src="../img/aba-agencies-banner.jpg" alt="GSA, DOD, HUD, and USPS agency seals" align="right">
 
