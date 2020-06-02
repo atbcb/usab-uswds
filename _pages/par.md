@@ -1,7 +1,7 @@
 ---
 title: Performance and Accountability Report
 layout: page
-sidenav: false
+sidenav: true
 permalink: /about/par.html
 ---
 
