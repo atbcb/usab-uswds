@@ -1,0 +1,20 @@
+703.5.5 Visual Character Height
+Height to Finish Floor or Ground From Baseline of Character: 40 inches (1015 mm) to less
+than or equal to 70 inches (1780 mm)
+Horizontal Viewing Distance: less than 72 inches (1830 mm)
+Minimum Character Height: 5/8 inch (16 mm)
+Horizontal Viewing Distance: 72 inches (1830 mm) and greater
+Minimum Character Height: 5/8 inch (16 mm), plus 1/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 72 inches (1830 mm)
+Height to Finish Floor or Ground From Baseline of Character: Greater than 70 inches (1780 mm) to less than or equal to 120 inches (3050 mm)
+Horizontal Viewing Distance: less than 180 inches (4570 mm)
+Minimum Character Height: 2 inches (51 mm)
+Horizontal Viewing Distance: 180 inches (4570 mm) and greater
+Minimum Character Height: 2 inches (51 mm), plus 1/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 180 inches (4570 mm)
+Height to Finish Floor or Ground From
+Baseline of Character: greater than 120 inches
+(3050 mm)
+Horizontal Viewing Distance: less than 21 feet (6400 mm)
+Minimum Character Height: 3 inches (75 mm)
+Horizontal Viewing Distance: 21 feet (6400 mm) and greater
+Minimum Character Height: 3 inches (75 mm), plus 1/8 inch (3.2 mm) per foot (305 mm) of viewing distance above 21 feet (6400 mm)
+
