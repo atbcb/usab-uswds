@@ -4,8 +4,6 @@ layout: base
 
 {% comment %}
 This template is for a single page that does not have a date associated with it. For example, an about page.
-BB 6-10-2020:  moved the class assignment from the inner div on <main> to the actual <main> element per uswds email 6-9.
-  Also deleted inner div.
 {% endcomment %}
 
 <div id="main-content" class="usa-layout-docs usa-section">
@@ -15,7 +13,9 @@ BB 6-10-2020:  moved the class assignment from the inner div on <main> to the ac
       {% include sidenav.html %}
       {% endif %}
       <main class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+        <div>
             {{ content }}
+        </div>
       </main>
     </div>
   </div>
