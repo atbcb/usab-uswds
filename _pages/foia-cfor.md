@@ -5,7 +5,7 @@ sidenav: true
 permalink: /about/foia-cfor.html
 ---
 
-# Chief FOIA Officer Report (FY 2018)
+# {{ page.title }} (FY 2018)
 
 **Gretchen Jacobs**  
 General Counsel / Chief FOIA Officer

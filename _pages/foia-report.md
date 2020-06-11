@@ -5,7 +5,7 @@ sidenav: true
 permalink: /about/foia-report.html
 ---
 
-# FOIA Annual Report (FY 2019)
+# {{ page.title }} (FY 2019)
 
 ## Section I:  Basic Information Regarding Report
 
