@@ -1,11 +1,11 @@
 ---
-title: Board Conference Space
+title: Conference Space
 layout: page
 sidenav: true
 permalink: /about/venue.html
 ---
 
-# {{ page.title }}
+# Board {{ page.title }}
 
 <img src="../img/conf-space.jpg" alt="photo of board meeting in conference space" align="right">
 

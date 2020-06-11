@@ -1,5 +1,5 @@
 ---
-title: Rulemaking
+title: Rulemaking Process
 layout: page
 sidenav: true
 permalink: /about/rulemaking.html
