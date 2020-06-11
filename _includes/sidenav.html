@@ -1,7 +1,7 @@
 {% comment %}
 The sidenav is not loaded by default on the main pages. To include this navigation you can either use the
 _layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages.
-BB 5/29/20: visually, added padding-left:2em to menu items that are links worked.
+BB 5/29/20:  visually, adding padding-left:2em to menu items that are not links would also works
 {% endcomment %}
 
 <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
@@ -11,109 +11,113 @@ BB 5/29/20: visually, added padding-left:2em to menu items that are links worked
         <a href="..">Home</a>
       </li>
       <li class="usa-sidenav__item">
-        <a href="../about/" class="usa-current">About</a>
+        {% if page.title =="About" %}
+          <a name="about" class="usa-current">About</a> &rarr;
+        {% else %}
+          <a href="../about/">About</a>
+        {% endif %}
         <ul class="usa-sidenav__sublist">
           <li class="usa-sidenav__item">
-            {% if page.title =="Board Meetings" %}
-            <a href="../about/meetings.html" class="usa-current">Board Meetings</a>
+            {% if page.title == "Board Meetings" %}
+              <a name="meetings" class="usa-current">Board Meetings</a> &rarr;
             {% else %}
-            <a href="../about/meetings.html">Board Meetings</a>
+              <a href="../about/meetings.html">Board Meetings</a>
             {% endif %}
           </li>
           <li class="usa-sidenav__item">
-            {% if page.title =="Conference Space" %}
-            <a href="../about/venue.html" class="usa-current">Conference Space</a>
+            {% if page.title == "Conference Space" %}
+              <a name="venue" class="usa-current">Conference Space</a> &rarr;
             {% else %}
-            <a href="../about/venue.html">Conference Space</a>
+              <a href="../about/venue.html">Conference Space</a>
             {% endif %}
           </li>
           <li class="usa-sidenav__item">
-            {% if page.title =="Board History" %}
-            <a href="../about/history.html" class="usa-current">Board History</a>
+            {% if page.title == "Board History" %}
+              <a name="history" class="usa-current">Board History</a> &rarr;
             {% else %}
-            <a href="../about/history.html">Board History</a>
+              <a href="../about/history.html">Board History</a>
             {% endif %}
           </li>
           <li class="usa-sidenav__item">
-            {% if page.title =="Rulemaking Process" %}
-            <a href="../about/rulemaking.html" class="usa-current">Rulemaking Process</a>
+            {% if page.title == "Rulemaking Process" %}
+              <a name="rulemaking" class="usa-current">Rulemaking Process</a> &rarr;
             {% else %}
-            <a href="../about/rulemaking.html">Rulemaking Process</a>
+              <a href="../about/rulemaking.html">Rulemaking Process</a>
             {% endif %}
           </li>
           <li class="usa-sidenav__item">
             <a name="bp">Budget and Performance</a>
             <ul class="usa-sidenav__sublist">
               <li class="usa-sidenav__item">
-                {% if page.title =="Performance and Accountability Report" %}
-                <a href="../about/par.html" class="usa-current">Performance and Accountability Report</a>
+                {% if page.title == "Performance and Accountability Report" %}
+                  <a name="par" class="usa-current">Performance and Accountability Report</a> &rarr;
                 {% else %}
-                <a href="../about/par.html">Performance and Accountability Report</a>
+                  <a href="../about/par.html">Performance and Accountability Report</a>
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
-                {% if page.title =="Budget Justification" %}
-                <a href="../cj/" class="usa-current">Budget Justification</a>
+                {% if page.title == "Budget Justification" %}
+                  <a name="cj" class="usa-current">Budget Justification</a> &rarr;
                 {% else %}
-                <a href="../cj/">Budget Justification</a>
+                  <a href="../cj/">Budget Justification</a>
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
-                {% if page.title =="FOIA Annual Report" %}
-                <a href="../about/foia-report.html" class="usa-current">FOIA Annual Report</a>
+                {% if page.title == "FOIA Annual Report" %}
+                  <a name="foia-report.html" class="usa-current">FOIA Annual Report</a> &rarr;
                 {% else %}
-                <a href="../about/foia-report.html">FOIA Annual Report</a>
+                  <a href="../about/foia-report.html">FOIA Annual Report</a>
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
-                {% if page.title =="Chief FOIA Officer Report" %}
-                <a href="../about/foia-cfor.html" class="usa-current">Chief FOIA Officer Report</a>
+                {% if page.title == "Chief FOIA Officer Report" %}
+                  <a name="foia-cfor" class="usa-current">Chief FOIA Officer Report</a> &rarr;
                 {% else %}
-                <a href="../about/foia-cfor.html">Chief FOIA Officer Report</a>
+                  <a href="../about/foia-cfor.html">Chief FOIA Officer Report</a>
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
                 {% if page.title =="Employee Survey Results" %}
-                <a href="../about/fevs.html" class="usa-current">Employee Survey Results</a>
+                  <a name="fevs" class="usa-current">Employee Survey Results</a> &rarr;
                 {% else %}
-                <a href="../about/fevs.html">Employee Survey Results</a>
+                  <a href="../about/fevs.html">Employee Survey Results</a>
                 {% endif %}
               </li>
             </ul>
           </li>
           <li class="usa-sidenav__item">
             {% if page.title =="Laws" %}
-            <a href="../laws/" class="usa-current">Laws</a>
+              <a name="laws" class="usa-current">Laws</a> &rarr;
             {% else %}
-            <a href="../laws/">Laws</a>
+              <a href="../laws/">Laws</a>
             {% endif %}
             <ul class="usa-sidenav__sublist">
               <li class="usa-sidenav__item">
                 {% if page.title =="Americans with Disabilities Act" %}
-                <a href="../laws/ada.html" class="usa-current">ADA</a>
+                  <a name="ada" class="usa-current">ADA</a> &rarr;
                 {% else %}
-                <a href="../laws/ada.html">ADA</a>
+                  <a href="../laws/ada.html">ADA</a>
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
                 {% if page.title =="Architectural Barriers Act" %}
-                <a href="../laws/aba.html" class="usa-current">ABA</a>
+                  <a name="aba" class="usa-current">ABA</a> &rarr;
                 {% else %}
-                <a href="../laws/aba.html">ABA</a>
+                  <a href="../laws/aba.html">ABA</a>
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
                 {% if page.title =="Rehabilitation Act" %}
-                <a href="../laws/ra.html" class="usa-current">Rehabilitation Act</a>
+                  <a name="ra" class="usa-current">Rehabilitation Act</a> &rarr;
                 {% else %}
-                <a href="../laws/ra.html">Rehabilitation Act</a>
+                  <a href="../laws/ra.html">Rehabilitation Act</a>
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
                 {% if page.title =="Telecommunications Act" %}
-                <a href="../laws/ta.html" class="usa-current">Telecommunications Act</a>
+                  <a href="ta" class="usa-current">Telecommunications Act</a> &rarr;
                 {% else %}
-                <a href="../laws/ta.html">Telecommunications Act</a>
+                  <a href="../laws/ta.html">Telecommunications Act</a>
                 {% endif %}
               </li>
             </ul>
