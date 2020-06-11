@@ -1,6 +1,7 @@
 {% comment %} 
-The sidenav is not loaded by default on the main pages. To include this navigation you can either use the
-_layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages
+The sidenav is not loaded by default on the main pages.  To include this navigation you can either use the
+_layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages.
+BB 5/29/20:  visually, added padding-left:2em to menu items that are links worked.
 {% endcomment %}
 
 <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
@@ -25,7 +26,7 @@ _layouts/page.html layout template, or you can add "sidenav: true" in the front-
             <a href="../about/rulemaking.html">Rulemaking Process</a>
           </li>
           <li class="usa-sidenav__item">
-            <span style="padding-left:2em">Budget and Performance</span>
+            <a name="bp">Budget and Performance</a>
             <ul class="usa-sidenav__sublist">
               <li class="usa-sidenav__item">
                 <a href="../about/par.html">Performance and Accountability Report</a>
