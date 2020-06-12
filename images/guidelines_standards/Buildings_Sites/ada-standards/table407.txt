@@ -1,0 +1,41 @@
+407.4.1 Elevator Car Dimensions
+ 
+Minimum Dimensions
+Door Location: Centered
+Door Clear Width: 42 inches
+(1065 mm)
+Inside Car, Side to Side: 80 inches
+(2030 mm)
+Inside Car, Back Wall to Front Return: 51 inches
+(1295 mm)
+Inside Car, Back Wall to Inside Face of Door: 54 inches
+(1370 mm)
+Door Location: Side
+(off-centered)
+Door Clear Width: 36 inches
+(915 mm) A tolerance of minus 5/8 inch (16 mm) is permitted.
+Inside Car, Side to Side: 68 inches
+(1725 mm)
+Inside Car, Back Wall to Front Return: 51 inches
+(1295 mm)
+Inside Car, Back Wall to Inside Face of Door: 54 inches
+(1370 mm)
+Door Location: Any
+Door Clear Width: 36 inches
+(915 mm) A tolerance of minus 5/8 inch (16 mm) is permitted.
+Inside Car, Side to Side: 54 inches
+(1370 mm)
+Inside Car, Back Wall to Front Return: 80 inches
+(2030 mm)
+Inside Car, Back Wall to Inside Face of Door: 80 inches
+(2030 mm)
+Door Location: Any
+Door Clear Width: 36 inches
+(915 mm) A tolerance of minus 5/8 inch (16 mm) is permitted.
+Inside Car, Side to Side: 60 inches
+(1525 mm) Other car configurations that provide a turning space complying with 304 with the door closed shall be permitted.
+Inside Car, Back Wall to Front Return: 60 inches
+(1525 mm) Other car configurations that provide a turning space complying with 304 with the door closed shall be permitted.
+Inside Car, Back Wall to Inside Face of Door: 60 inches
+(1525 mm) Other car configurations that provide a turning space complying with 304 with the door closed shall be permitted.
+

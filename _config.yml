@@ -79,7 +79,7 @@ primary_navigation:
       - name: Communications & IT
         url: /gs/ict.html
       - name: ADA Standards
-        url: /adaas/
+        url: /ADA/
       - name: ABA Standards
         url: /abaas/
       - name: Buildings & Sites
@@ -124,6 +124,12 @@ collections:
   pages:
     output: true
     permalink: /:path/
+  ada:
+    output: true
+    sort_by: order-number
+  aba:
+    output: true
+    sort_by: chapter
 
 permalink: pretty
 

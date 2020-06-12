@@ -1,0 +1,31 @@
+404.2.4.1 Maneuvering Clearances at Manual Swinging Doors and Gates
+Type of Use / Minimum Maneuvering Clearance
+Approach Direction: From front
+Door or Gate Side: Pull
+Perpendicular to Doorway: 60 inches (1525 mm)
+Parallel to Doorway: 18 inches (455 mm)
+Approach Direction: From front
+Door or Gate Side: Push
+Perpendicular to Doorway: 48 inches (1220 mm)
+Parallel to Doorway: 0 inches (0 mm)  Add 12 inches (305 mm) if closer and latch are provided.
+Approach Direction: From hinge side
+Door or Gate Side: Pull
+Perpendicular to Doorway: 60 inches (1525 mm)
+Parallel to Doorway: 36 inches (915 mm)
+Approach Direction: From hinge side
+Door or Gate Side: Pull
+Perpendicular to Doorway: 54 inches (1370 mm)
+Parallel to Doorway: 42 inches (1065 mm)
+Approach Direction: From hinge side
+Door or Gate Side: Push
+Perpendicular to Doorway: 42 inches (1065 mm) Add 6 inches (150 mm) if closer and latch are provided.
+Parallel to Doorway: 22 inches (560 mm) Beyond hinge side.
+Approach Direction: From latch side
+Door or Gate Side: Pull
+Perpendicular to Doorway: 48 inches (1220 mm) Add 6 inches (150 mm) if closer is provided.
+Parallel to Doorway: 24 inches (610 mm)
+Approach Direction: From latch side
+Door or Gate Side: Push
+Perpendicular to Doorway: 42 inches (1065 mm) Add 6 inches (150 mm) if closer is provided.
+Parallel to Doorway: 24 inches (610 mm)
+

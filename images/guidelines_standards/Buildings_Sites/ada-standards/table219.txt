@@ -1,0 +1,20 @@
+219.3 Receivers for Assistive Listening Systems
+
+Capacity of Seating in Assembly Area:  50 or less
+Minimum Number of Required Receivers:  2
+Minimum Number of Required Receivers Required to be Hearing-aid Compatible:  2
+Capacity of Seating in Assembly Area:  51 to 200
+Minimum Number of Required Receivers:  2, plus 1 per 25 seats over 50 seats, or fraction thereof.
+Minimum Number of Required Receivers Required to be Hearing-aid Compatible:  2
+Capacity of Seating in Assembly Area:  201 to 500
+Minimum Number of Required Receivers:   2, plus 1 per 25 seats over 50 seats, or fraction thereof.
+Minimum Number of Required Receivers Required to be Hearing-aid Compatible:  1 per 4 receivers, or fraction thereof
+Capacity of Seating in Assembly Area:  501 to 1000
+Minimum Number of Required Receivers:  20, plus 1 per 33 seats over 500 seats, or fraction thereof.
+Minimum Number of Required Receivers Required to be Hearing-aid Compatible:  1 per 4 receivers, or fraction thereof
+Capacity of Seating in Assembly Area:  1001 to 2000
+Minimum Number of Required Receivers:  35, plus 1 per 50 seats over 1000 seats, or fraction thereof.
+Minimum Number of Required Receivers Required to be Hearing-aid Compatible:  1 per 4 receivers, or fraction thereof
+Capacity of Seating in Assembly Area:  2001 and over
+Minimum Number of Required Receivers:  55 plus 1 per 100 seats over 2000 seats, or fraction thereof.
+Minimum Number of Required Receivers Required to be Hearing-aid Compatible:  1 per 4 receivers, or fraction thereof

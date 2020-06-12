@@ -1,0 +1,48 @@
+224.2 Guest Rooms with Mobility Features
+
+Total Number of Guest Rooms Provided: 1 to 25
+Minimum Number of Required Rooms Without
+Roll-in Showers: 1
+Minimum Number of Required Rooms With Roll-in Showers: 0
+Total Number of Required Rooms: 1
+Total Number of Guest Rooms Provided: 26 to 50
+Rooms Without Roll-in Showers: 2
+Rooms With Roll-in Showers: 0
+Total Number of Required Rooms: 2
+Total Number of Guest Rooms Provided: 51 to 75
+Rooms Without Roll-in Showers: 3
+Rooms With Roll-in Showers: 1
+Total Number of Required Rooms: 4
+Total Number of Guest Rooms Provided: 76 to 100 
+Rooms Without Roll-in Showers: 4
+Rooms With Roll-in Showers: 1
+Total Number of Required Rooms: 5
+Total Number of Guest Rooms Provided: 101 to 150
+Rooms Without Roll-in Showers: 5
+Rooms With Roll-in Showers: 2
+Total Number of Required Rooms: 7
+Total Number of Guest Rooms Provided: 151 to 200
+Rooms Without Roll-in Showers: 6
+Rooms With Roll-in Showers: 2
+Total Number of Required Rooms: 8
+Total Number of Guest Rooms Provided: 201 to 300
+Rooms Without Roll-in Showers: 7
+Rooms With Roll-in Showers: 3
+Total Number of Required Rooms: 10
+Total Number of Guest Rooms Provided: 301 to 400
+Rooms Without Roll-in Showers: 8
+Rooms With Roll-in Showers: 4
+Total Number of Required Rooms: 12
+Total Number of Guest Rooms Provided: 401 to 500
+Rooms Without Roll-in Showers: 9
+Rooms With Roll-in Showers: 4
+Total Number of Required Rooms: 13
+Total Number of Guest Rooms Provided: 501 to 1000
+Rooms Without Roll-in Showers: 2 percent of total
+Rooms With Roll-in Showers: 1 percent of total
+Total Number of Required Rooms: 3 percent of total
+Total Number of Guest Rooms Provided: 1001 and over
+Rooms Without Roll-in Showers: 20, plus 1 for each 100, or fraction thereof, over 1000
+Rooms With Roll-in Showers: 10, plus 1 for each 100, or fraction thereof, over 1000
+Total Number of Required Rooms: 30, plus 2 for each 100, or fraction thereof,
+over 1000
