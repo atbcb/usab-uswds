@@ -18,7 +18,7 @@ This template is for a single page that does not have a date associated with it.
               <li class="usa-sidenav__item">
                 {% if page.title == chapter.title %}
                  <a href="{{site.baseurl}}{{ chapter.url }}" class="usa-current">{{ chapter.title }}</a>
-                  <ul id="subsections">
+                  <ul id="subsections" class="usa-sidenav__sublist">
                   </ul>
                   {% else %}
                   <a href="{{site.baseurl}}{{ chapter.url }}">{{ chapter.title }}</a>
@@ -40,15 +40,27 @@ This template is for a single page that does not have a date associated with it.
 
 <script>
   {
-    var x = document.getElementById("standard").querySelectorAll("h2");
+    console.log("tttt")
+    var x = document.getElementById("standard").querySelectorAll("h3");
     var i;
     for (i = 0; i < x.length; i++) {
-      var section = x[i].innerHTML;
+      var section = x[i].innerText;
       console.log(section);
     
-      var idtag = x[i].getAttribute("id");
+      //if id,
+     
+      if (x[i].id) {
+         var idtag = x[i].getAttribute("id");
+      }
+
+      else {
+        var idtag = section.replace(/ /g,"-");
+        x[i].setAttribute("id",idtag);
+      };
       console.log(idtag);
-    
+      //else give id based off section
+
+
     var li = "<li><a href=\"#" + idtag + "\">" + section + "</a></li>";
       console.log(li);
     document.getElementById("subsections").innerHTML += li;
