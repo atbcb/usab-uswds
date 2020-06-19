@@ -8,7 +8,7 @@ figcaption {
   font-size: small;
 }
 usa-current {
-  li::after {
+  li::after
   content: "→"; /* &rarr; rightwards arrow */
 }
 
