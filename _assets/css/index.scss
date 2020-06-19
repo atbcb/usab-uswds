@@ -8,9 +8,8 @@ figcaption {
   font-size: small;
 }
 
-// does not have effect
-a.usa-current::after {
-  content: "&rarr;" !important;
+a.usa-current:after {
+  content: "→";
 }
 
 // default mode hide banner
