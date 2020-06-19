@@ -47,19 +47,11 @@ This template is for a single page that does not have a date associated with it.
       var section = x[i].innerText;
       console.log(section);
     
-      //if id,
-     
-      if (x[i].id) {
-         var idtag = x[i].getAttribute("id");
-      }
 
-      else {
-        var idtag = section.replace(/ /g,"-");
-        x[i].setAttribute("id",idtag);
-      };
+      var idtag = section.replace(/ /g,"-");
+      x[i].setAttribute("id",idtag);
+
       console.log(idtag);
-      //else give id based off section
-
 
     var li = "<li><a href=\"#" + idtag + "\">" + section + "</a></li>";
       console.log(li);
