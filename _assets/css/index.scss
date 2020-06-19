@@ -8,7 +8,9 @@ figcaption {
   font-size: small;
 }
 .usa-current {
-  li::after content: "&rarr;"
+  li::after {
+    content: "&rarr;"
+  }
 }
 
 // default mode hide banner
