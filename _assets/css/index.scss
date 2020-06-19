@@ -8,8 +8,8 @@ figcaption {
   font-size: small;
 }
 
-a.usa-current:after {
-  content: "→" !important;
+a.usa-current::after {
+  content: "→";
 }
 
 // default mode hide banner
