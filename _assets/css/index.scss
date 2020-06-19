@@ -7,7 +7,7 @@ $theme-hero-image: asset_path("board-office.jpg");
 figcaption {
   font-size: small;
 }
-li.usa-current::after {
+a.usa-current::after {
   content: "&rarr;"
 }
 
