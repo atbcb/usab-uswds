@@ -7,6 +7,10 @@ $theme-hero-image: asset_path("board-office.jpg");
 figcaption {
   font-size: small;
 }
+usa-current {
+  li::after {
+  content: "→"; /* &rarr; rightwards arrow */
+}
 
 // default mode hide banner
 .usa-banner__content {
