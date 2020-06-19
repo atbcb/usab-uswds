@@ -1,9 +1,18 @@
 ---
-title: ABA Accessibility Standards
-layout: page
-sidenav: false
-permalink: /abaas/
+title: "About the ABA"
+layout: standards
+collection-folder: aba
+permalink: /aba/about/
+order-number: 1
+version: original
 ---
+
+Standards issued under the Architectural Barriers Act (ABA) apply to facilities designed, built, altered, or leased with certain federal funds. Passed in 1968, the ABA is one of the first laws to address access to the built environment.  The law applies to federal buildings, including post offices, social security offices, federal courthouses and prisons, and national parks.  It also covers non-federal facilities, such as public housing units and mass transit systems, built or altered with federal grants or loans.  Coverage is limited to those funding programs that give the federal agency awarding grants or loans the authority to establish facility standards. 
+
+Four agencies establish the ABA standards according to guidelines issued by the Access Board:  the General Services Administration (GSA), the Department of Defense (DOD), the Department of Housing and Urban Development (HUD), and the U.S. Postal Service (USPS).  The latest editions of the ABA standards issued by GSA, DOD, and USPS are substantively the same and replace the earlier Uniform Federal Accessibility Standards.  HUD’s update of the standards is pending. 
+
+- ABA Accessibility Standards (GSA, DOD, USPS)
+- Uniform Federal Accessibility Standards (HUD)
 
 # ABA Accessibility Standards
 

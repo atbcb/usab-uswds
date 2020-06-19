@@ -1,0 +1,10 @@
+---
+title: "Chapter 7: Communication Elements and Features"
+layout: standards
+collection-folder: aba
+order-number: 9
+version: original
+---
+{% assign chapter = site.ada %} 
+{% assign chapter = chapter[7] %} <!-- This works but is not ideal. Chapter [7]  refer to the 8th item in the ADA collection because you start counting with zero. This just happens to be chapter 3, but if additional content is added  to the ADA collection it might not be -->
+{{ chapter.content }}
