@@ -9,7 +9,7 @@ figcaption {
 }
 
 a.usa-current::after {
-  content: "→";
+  content: "→" !important;
 }
 
 // default mode hide banner
