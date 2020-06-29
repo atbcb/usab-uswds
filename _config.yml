@@ -130,6 +130,9 @@ collections:
   aba:
     output: true
     sort_by: chapter
+  ada-guides:
+    output: true
+    sort_by: order-number
 
 permalink: pretty
 
