@@ -130,7 +130,10 @@ collections:
     output: true
   ada-guides:
     output: true
-    permalink: /guides/ada/:path/
+    permalink: /ada/guides/:path/
+  aba-guides:
+    output: true
+    permalink: /aba/guides/:path/
 
 permalink: pretty
 
