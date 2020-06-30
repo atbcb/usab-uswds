@@ -4,6 +4,13 @@ $theme-hero-image: asset_path("board-office.jpg");
 @import "uswds";
 
 // Add your SASS/CSS here
+.advisory {
+  background-color: #e8f0f8;
+  padding: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
 figcaption {
   font-size: small;
 }
