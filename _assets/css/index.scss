@@ -4,6 +4,15 @@ $theme-hero-image: asset_path("board-office.jpg");
 @import "uswds";
 
 // Add your SASS/CSS here
+
+// temporarily blue class to see how grids work
+.blue {
+  background-color: blue;
+}
+
+.right {
+  text-align: right;;
+}
 .advisory {
   background-color: #e8f0f8;
   padding: 1em;
