@@ -78,10 +78,16 @@ primary_navigation:
     children:
       - name: Communications & IT
         url: /gs/ict.html
-      - name: ADA Standards
+      - name: Americans with Disabilities Act (ADA)
         url: /ada/
-      - name: ABA Standards
+      - name: Guide to the ADA
+        url: /ada/guides/
+      - name: Architectural Barriers Act (ABA)
         url: /aba/
+      - name: Guide to the ABA
+        url: /aba/guides/
+      - name: Public Rights-of-Way
+        url: /prowag/
       - name: Buildings & Sites
         url: /gs/buildings.html
       - name: Recreation Facilities
