@@ -134,6 +134,9 @@ collections:
   aba-guides:
     output: true
     permalink: /aba/guides/:path/
+  prowag-shared-use:
+    output: true
+    permalink: /prowag/:path/
 
 permalink: pretty
 
