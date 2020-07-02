@@ -9,7 +9,7 @@ This template is for a single page that does not have a date associated with it.
 <div class="usa-layout-docs usa-section">
   <div class="grid-container">
     <div class="grid-row grid-gap">
-      <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
+      <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4 sticky">
         <nav>
           <h2>Table of contents</h2>
           <ul class="usa-sidenav">
@@ -31,7 +31,7 @@ This template is for a single page that does not have a date associated with it.
       <div id="standard" class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
         <h1>{{page.title}}</h1>
         {% if page.file %}
-        <p  class=".right" >{{ page.file-description }} <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" download="{{ page.file }}">
+        <p  class="" >{{ page.file-description }} <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" download="{{ page.file }}">
           <button class="usa-button ">Download</button>
           </a>
       </p>

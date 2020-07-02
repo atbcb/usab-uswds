@@ -5,13 +5,28 @@ $theme-hero-image: asset_path("board-office.jpg");
 
 // Add your SASS/CSS here
 
-// temporarily blue class to see how grids work
+// temporary blue class to see how grids work
 .blue {
   background-color: blue;
 }
 
+// sticky fill js
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.sticky:before,
+.sticky:after {
+    content: '';
+    display: table;
+}
+
+
+// create class that combines about page img classes
 .right {
-  text-align: right;;
+  
 }
 .advisory {
   background-color: #e8f0f8;
