@@ -2,14 +2,12 @@
 layout: default
 ---
 
-{% comment %}
-This template is for a single page that does not have a date associated with it. For example, an about page.
-{% endcomment %}
 
-<div class="usa-layout-docs usa-section">
+<div class="usa-layout-docs">
   <div class="grid-container">
-    <div class="grid-row grid-gap">
-      <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
+     <h1 class="padding-top-0">{{ page.collection-title }}</h1>
+     <div class="grid-row grid-gap">
+       <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
         <nav>
           <h2>Table of contents</h2>
           <ul class="usa-sidenav">
@@ -29,15 +27,14 @@ This template is for a single page that does not have a date associated with it.
         </nav>
       </aside>
       <div id="standard" class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-        <h1>{{page.collection-title}}</h1>
-        <h1>{{page.title}}</h1>
+        <h2>{{page.title}}</h2>
         {% if page.file %}
-        <p  class="" >{{ page.file-description }} <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" download="{{ page.file }}">
+        <span  class="" >{{ page.file-description }} <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" download="{{ page.file }}">
           <button class="usa-button ">Download</button>
           </a>
-      </p>
-        
+        </span>
         {% endif %}
+        
         {{ content }}
 
       </div>
