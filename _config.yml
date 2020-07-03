@@ -143,7 +143,9 @@ collections:
   prowag-shared-use:
     output: true
     permalink: /prowag/:path/
-
+  ada-ibc-comparison:
+    output: true
+    permalink: /ada/ada-ibc-comparison/:path/
 permalink: pretty
 
 markdown: kramdown

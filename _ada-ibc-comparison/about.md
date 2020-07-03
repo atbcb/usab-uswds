@@ -2,7 +2,7 @@
 title: "Comparison between the ADA and IBC"
 layout: standards
 collection-folder: ada-ibc-comparison
-permalink: /ada-ibc-comparison/
+permalink: /ada/ada-ibc-comparison/
 order-number: 0
 version: original
 file: IBCComparison.pdf
