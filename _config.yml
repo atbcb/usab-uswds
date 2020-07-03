@@ -158,6 +158,7 @@ defaults:
       layout: standards
       file-directory: /files/ada-aba/
       image-directory: /images/ada-aba/standards/
+      right-sidenav: ada-right-sidenav.html
   - scope:
       path: ""
       type: "aba"
