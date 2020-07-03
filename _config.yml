@@ -148,6 +148,13 @@ collections:
     permalink: /ada/ada-ibc-comparison/:path/
 permalink: pretty
 
+defaults:
+  - scope:
+      path: ""
+      type: "ada"
+    values:
+      collection-title: "ADA Standards"
+
 markdown: kramdown
 plugins:
   - jekyll-feed
