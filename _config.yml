@@ -145,7 +145,10 @@ collections:
     permalink: /prowag/:path/
   ada-ibc-comparison:
     output: true
-    permalink: /ada/ada-ibc-comparison/:path/
+    permalink: /ada/background/ada-ibc-comparison/:path/
+  ada-background:
+    output: true
+    permalink: /ada/background/:path/
 permalink: pretty
 
 defaults:
@@ -175,7 +178,7 @@ defaults:
       collection-title: "Guide to the ADA Accessibility Standards"
       collection-folder: ada-guides
       layout: standards
-      file-directory: /files/ada-aba/
+      file-directory: /files/ada-aba/guides/
       image-directory: /images/ada-aba/guides/
       right-sidenav: ada-right-sidenav.html
   - scope:
@@ -185,8 +188,17 @@ defaults:
       collection-title: "Guide to the ABA Accessibility Standards"
       collection-folder: aba-guides
       layout: standards
-      file-directory: /files/ada-aba/
+      file-directory: /files/ada-aba/guides/
       image-directory: /images/ada-aba/guides/
+  - scope:
+      path: ""
+      type: "ada-background"
+    values:
+      collection-title: "ADA - Background, History and Archive"
+      collection-folder: ada-background
+      layout: standards
+      file-directory: /files/ada-aba/background/
+      image-directory: /images/ada-aba/background/
   - scope:
       path: ""
       type: "prowag-shared-use"
