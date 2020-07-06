@@ -196,7 +196,8 @@ defaults:
     values:
       collection-title: "ADA - Background, History and Archive"
       collection-folder: ada-background
-      layout: standards
+      layout: data-sidenav
+      datafile: ada-background
       file-directory: /files/ada-aba/background/
       image-directory: /images/ada-aba/background/
   - scope:

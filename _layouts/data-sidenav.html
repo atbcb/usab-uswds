@@ -11,41 +11,40 @@ layout: default
         <nav>
           <h2>Table of contents</h2>
           <ul class="usa-sidenav">
-            {% assign ordered_chapters = site[page.collection-folder] | sort:"order-number" %}
-            {% for chapter in ordered_chapters %}
-              <li class="usa-sidenav__item">
-                {% if page.title == chapter.title %}
-                 <a href="{{site.baseurl}}{{ chapter.url }}" class="usa-current">{{ chapter.title }}</a>
-                  <ul id="subsections" class="usa-sidenav__sublist">
-                  </ul>
-                  {% else %}
-                  <a href="{{site.baseurl}}{{ chapter.url }}">{{ chapter.title }}</a>
-                 {% endif %}
-              </li>
-            {% endfor %}
-          </ul>
-        </nav>
-      </aside>
-      <div id="standard" class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-        <h2>{{page.title}}</h2>
-        {% if page.file %}
-        <span  class="" >{{ page.file-description }} <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" download="{{ page.file }}">
-          <button class="usa-button ">Download</button>
-          </a>
-        </span>
-        {% endif %}
-        {% if page.right-sidenav %}
-          {% include {{ page.right-sidenav }} %}
-        {% endif %}
-        
-        {{ content }}
+          {% for item in site.data[page.datafile] %}
+            <li class="usa-sidenav__item">
+            {% if page.url == item.url %}
+              <a href="{{item.url}}" class="usa-current">{{ item.name }}</a>
+              <ul id="subsections" class="usa-sidenav__sublist">
+              </ul>
+            {% else %}
+            <a href="{{ item.url }}"><b>{{ item.name }}</b></a>
+            {% endif %}
+          </li>
+          {% endfor %}
+        </ul>
+      </nav>
+    </aside>
+    <div id="standard" class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+      <h2>{{page.title}}</h2>
+      {% if page.file %}
+      <span  class="" >{{ page.file-description }} <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" download="{{ page.file }}">
+        <button class="usa-button ">Download</button>
+        </a>
+      </span>
+      {% endif %}
+      {% if page.right-sidenav %}
+        {% include {{ page.right-sidenav }} %}
+      {% endif %}
+      
+      {{ content }}
 
-      </div>
     </div>
   </div>
 </div>
-
-
+</div>        
+           
+  
 <script>
   {
     console.log("toc script")
