@@ -1,8 +1,8 @@
----
-title: "Chapter 2: alterations and additions"
-layout: standards
-collection-folder: ada-guides
-order-number: 30
+﻿---
+title: "Chapter 2: Alterations and Additions"
+order-number: 3
+file: alterations.pdf
+file-description: PDF version of Chapter 2 Alterations Guide
 ---
 This guide provides an introduction to the scoping
 requirements that form the basis for the Department of Justice's [2010

@@ -1,12 +1,8 @@
 ---
 title: "About the ADA Guides"
-layout: standards
-collection-folder: ada-guides
-permalink: /ada/guides/
 order-number: 0
 file: ADA-Standards.pdf
 file-description: Single file PDF version of the ADA Guides
-file-directory: /files/ada-aba/
 ---
 
 
