@@ -1,38 +1,10 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1553 .attachmentsList}
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (clear floor sapce-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1553/clear%20floor%20sapce-ABA.pdf "Download this file (clear floor sapce-ABA.pdf)"){.at_icon}[clear floor sapce-ABA.pdf](https://www.access-board.gov/attachments/article/1553/clear%20floor%20sapce-ABA.pdf "Download this file (clear floor sapce-ABA.pdf)"){.at_url}
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
-![International Symbol of Accessibility and clear floor space
-designation](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter3/3cfs1.jpg){width="100"
-height="101"}
-
--   [Clear Floor or Ground Space
-    \[§305\]](chapter-3-clear-floor-or-ground-space-and-turning-space.html#a)
--   [Turning Space
-    \[§304\]](chapter-3-clear-floor-or-ground-space-and-turning-space.html#b)
--   [Common
-    Questions](chapter-3-clear-floor-or-ground-space-and-turning-space.html#c)
-
- 
-
- 
-
-  ----------------------------------------------------------------------------------------------------------------------------------------
-                                                         [ [![Animation: Wheelchair
-   Maneuvering](https://www.access-board.gov/images/videos/wc-video.jpg)](chapter-3-clear-floor-or-ground-space-and-turning-space.html#)\
-   [Animation: Wheelchair Maneuvering](chapter-3-clear-floor-or-ground-space-and-turning-space.html#) [ [[You must have [the Adobe Flash
-     Player](http://get.adobe.com/flashplayer) installed to view this player. ]{#jwplayerplg1553idc4bd7003432b2cde9762690ef91c9d8cpop}
-                                                 ]{.jwbox_content}]{.jwbox_hidden}]{.jwbox}
-
-  ----------------------------------------------------------------------------------------------------------------------------------------
-
+﻿---
+title: "Chapter 3: Clear Floor or Ground Space and Turning Space"
+order-number: 5
+file: clear-floor-space-ABA.pdf
+file-description: PDF version of Chapter 3 Clear Floor Space Guide
+---
+(add wheelchair manuerving animation)
 This guide explains requirements in the [ABA
 Standards](../aba-standards.html) for clear floor or ground space and
 turning space. Clearances are required at accessible elements, fixtures,

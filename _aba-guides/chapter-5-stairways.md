@@ -1,27 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1803 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (stairs-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1803/stairs-ABA.pdf "Download this file (stairs-ABA.pdf)"){.at_icon}[stairs-ABA.pdf](https://www.access-board.gov/attachments/article/1803/stairs-ABA.pdf "Download this file (stairs-ABA.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
--   ![Stair
-    icon](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter5/5s1.JPG){width="100"
-    height="99"}[Required Compliance
-    \[§F210\]](chapter-5-stairways.html#number) 
--   [Stairways \[§504\]](chapter-5-stairways.html#stairs)  
--   [Handrails \[§504.6, §505\]](chapter-5-stairways.html#hrails) 
--   [Common Questions](chapter-5-stairways.html#cq)
-
-This guide explains requirements in the [ABA
-Standards](../aba-standards.html) for stairways. 
-
-### []{#number}Required Compliance \[[§F210](../aba-standards/chapter-2-scoping-requirements.html#F210%20Stairways)\]
-
+﻿---
+title: "Chapter 5: Stairways"
+order-number: 15
+file: stairs-ABA.pdf
+file-description: PDF version of Chapter 5 Stairways Guide
+---
 Interior and exterior stairs that are part of a required means of egress
 must meet the Standards.  Compliance is required for all stairs on
 required egress routes, including those comprised of a single riser.

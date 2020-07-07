@@ -1,35 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1802 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (pl-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1802/pl-ABA.pdf "Download this file (pl-ABA.pdf)"){.at_icon}[pl-ABA.pdf](https://www.access-board.gov/attachments/article/1802/pl-ABA.pdf "Download this file (pl-ABA.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
--   ![bus
-    icon](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter5/5plz1.JPG){width="100"
-    height="100"}[Required Compliance
-    \[§F209\]](chapter-5-passenger-loading-zones.html#number) 
--   [Accessible Passenger Loading Zones
-    \[§503\]](chapter-5-passenger-loading-zones.html#plz) 
--   [Common Questions](chapter-5-passenger-loading-zones.html#cq)
-
- 
-
- 
-
-  -------------------------------------------------------------------------------------------------------------
-                                          [ [![Animation on Parking and
-   PLZ](https://www.access-board.gov/images/videos/parking-plz.JPG)](chapter-5-passenger-loading-zones.html#)\
-   [Animation on Parking and PLZ](chapter-5-passenger-loading-zones.html#) [ [[You must have [the Adobe Flash
-                    Player](http://get.adobe.com/flashplayer) installed to view this player.
-       ]{#jwplayerplg1802id64960a31f9fe5ac7767ca70ceb5a9c02pop} ]{.jwbox_content}]{.jwbox_hidden}]{.jwbox}
-
-  -------------------------------------------------------------------------------------------------------------
-
+﻿---
+title: "Chapter 5: Passenger Loading Zones"
+order-number: 14
+file: pl-ABA.pdf
+file-description: PDF version of Chapter 5 Passenger loading Zones Guide
+---
 This guide explains requirements in the [ABA
 Standards](../aba-standards.html) for passenger loading zones.
 

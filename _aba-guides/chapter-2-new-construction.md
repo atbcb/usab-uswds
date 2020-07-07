@@ -1,28 +1,10 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1557 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (new-construction.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1557/new-construction.pdf "Download this file (new-construction.pdf)"){.at_icon}[new-construction.pdf](https://www.access-board.gov/attachments/article/1557/new-construction.pdf "Download this file (new-construction.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
-![construction
-crane](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter2-ada/nc1.jpg){width="100"
-height="99"}
-
--   [Introduction](chapter-2-new-construction.html#intro)
--   [Application \[§F201\]](chapter-2-new-construction.html#f201)
--   [General Exceptions \[§F203\]](chapter-2-new-construction.html#f203)
--   [Scoping Requirements for Elements and Spaces \[§F204 -
-    F248\]](chapter-2-new-construction.html#f204)
--   [Common Questions](chapter-2-new-construction.html#questions)
-
- 
-
-[]{#intro}This guide provides an introduction to the scoping
+﻿---
+title: "Chapter 2: New Construction"
+order-number: 2
+file: new-construction-ABA.pdf
+file-description: PDF version of Chapter 2 New Construction Guide
+---
+This guide provides an introduction to the scoping
 requirements of the [ABA Standards](../aba-standards.html) and is
 intended to be used with a complete copy of the ABA Standards since it
 does not contain or address the full content of the Standards. It is

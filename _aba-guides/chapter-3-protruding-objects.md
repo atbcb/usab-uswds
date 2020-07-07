@@ -1,36 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1556 .attachmentsList}
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (protruding objects-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1556/protruding%20objects-ABA.pdf "Download this file (protruding objects-ABA.pdf)"){.at_icon}[protruding objects-ABA.pdf](https://www.access-board.gov/attachments/article/1556/protruding%20objects-ABA.pdf "Download this file (protruding objects-ABA.pdf)"){.at_url}
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
-![person using cane
-](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter3/3po1.jpg){width="100"
-height="101"}
-
--   [Protruding Objects \[§F204\]](chapter-3-protruding-objects.html#a)
--   [Protrusion Limits \[§307.2\]](chapter-3-protruding-objects.html#b)
--   [Post-Mounted Objects
-    \[§307.3\]](chapter-3-protruding-objects.html#c)
--   [Vertical Clearance \[§307.4\]](chapter-3-protruding-objects.html#d)
--   [Common Questions](chapter-3-protruding-objects.html#e)
-
- 
-
-  ---------------------------------------------------------------------------------------------------------
-                                        [ [![Animation on Protruding
-   Objects](https://www.access-board.gov/images/videos/po-video.jpg)](chapter-3-protruding-objects.html#)\
-  [Animation on Protruding Objects](chapter-3-protruding-objects.html#) [ [[You must have [the Adobe Flash
-                  Player](http://get.adobe.com/flashplayer) installed to view this player.
-     ]{#jwplayerplg1556id9b0ad14e460c4d4d505107cb19bf4146pop} ]{.jwbox_content}]{.jwbox_hidden}]{.jwbox}
-
-  ---------------------------------------------------------------------------------------------------------
-
+﻿---
+title: "Chapter 3: Protruding objects"
+order-number: 7
+file: protruding-objects-ABA.pdf
+file-description: PDF version of Chapter 3 Protruding Objects Guide
+---
 This guide explains requirements in the [ABA
 Standards](../aba-standards.html) for protruding objects.
 

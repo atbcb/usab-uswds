@@ -1,28 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1554 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (surfaces-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1554/surfaces-ABA.pdf "Download this file (surfaces-ABA.pdf)"){.at_icon}[surfaces-ABA.pdf](https://www.access-board.gov/attachments/article/1554/surfaces-ABA.pdf "Download this file (surfaces-ABA.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
-![floor](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter3/3gf1.jpg){width="100"
-height="101"}
-
--   [Firmness, Stability, and Slip Resistance
-    \[§302.1\]](chapter-3-floor-and-ground-surfaces.html#3021)
--   [Carpet \[§302.2\]](chapter-3-floor-and-ground-surfaces.html#3022)
--   [Openings \[§302.3\]](chapter-3-floor-and-ground-surfaces.html#3023)
--   [Changes in Level
-    \[§303\]](chapter-3-floor-and-ground-surfaces.html#303)
--   [Common
-    Questions](chapter-3-floor-and-ground-surfaces.html#questions)
-
- 
-
+﻿---
+title: "Chapter 3: Floor and Ground Surfaces"
+order-number: 4
+file: surfaces-ABA.pdf
+file-description: PDF version of Chapter 3 Floor and Ground Surfaces Guide
+---
 This guide explains requirements in the [ABA
 Standards](../aba-standards.html) for floor and ground
 surfaces. Specifications for floor and ground surfaces address surface

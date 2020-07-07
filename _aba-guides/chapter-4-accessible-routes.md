@@ -1,36 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1760 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (accessible-routes-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1760/accessible-routes-ABA.pdf "Download this file (accessible-routes-ABA.pdf)"){.at_icon}[accessible-routes-ABA.pdf](https://www.access-board.gov/attachments/article/1760/accessible-routes-ABA.pdf "Download this file (accessible-routes-ABA.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
--   ![accessible route
-    symbol](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter4/4ar1.jpg){width="100"
-    height="100"}[Where Required: Site Arrival Points
-    \[§F206.2.1\] ](chapter-4-accessible-routes.html#ar20621)
--   [Accessible Routes within a Site
-    \[§F206.2.2\]](chapter-4-accessible-routes.html#ar20622)
--   [Accessible Routes within a Building or
-    Facility](chapter-4-accessible-routes.html#ar2062)
--   [Alterations and Additions \[§F206.2.3.1,
-    §F202.4\]](chapter-4-accessible-routes.html#ar206231)
--   [Accessible Routes to Accessible Spaces and Elements
-    \[§F206.2.4\]](chapter-4-accessible-routes.html#ar20624)
--   [Press Boxes
-    \[§F206.2.7\]](chapter-4-accessible-routes.html#ar20627)
--   [Accessible Routes \[§402\]](chapter-4-accessible-routes.html#ar402)
--   [Common Questions](chapter-4-accessible-routes.html#cq)
-
-This guide explains scoping and technical requirements for accessible
-routes in the [ABA Standards](../aba-standards.html). 
-
-### []{#ar20621}Where Required: Site Arrival Points \[[§F206.2.1](../aba-standards/chapter-2-scoping-requirements.html#F206%20Accessible%20Routes)\]
-
+﻿---
+title: "Chapter 4: Accessible Routes"
+order-number: 8
+file: accessible-routes-ABA.pdf
+file-description: PDF version of Chapter 4 Accessible Routes Guide
+---
 At least one accessible route must be provided within the site to
 accessible facility entrances from these site arrival points, where
 provided:

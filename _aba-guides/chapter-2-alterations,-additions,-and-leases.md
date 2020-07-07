@@ -1,34 +1,10 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1552 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (alterations-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1552/alterations-ABA.pdf "Download this file (alterations-ABA.pdf)"){.at_icon}[alterations-ABA.pdf](https://www.access-board.gov/attachments/article/1552/alterations-ABA.pdf "Download this file (alterations-ABA.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
--   [![design plan and
-    compass](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter2-ada/a1.jpg){width="100"
-    height="98"}](chapter-2-alterations,-additions,-and-leases.html#intro)[Introduction](chapter-2-alterations,-additions,-and-leases.html#intro)
--   [General
-    \[§F202.1\]](chapter-2-alterations,-additions,-and-leases.html#F2021)
--   [Additions
-    \[§F202.2\]](chapter-2-alterations,-additions,-and-leases.html#f2022)
--   [Alterations
-    \[§F202.3\]](chapter-2-alterations,-additions,-and-leases.html#f2023)
--   [Alterations Affecting Primary Function Areas
-    \[§F202.4\]](chapter-2-alterations,-additions,-and-leases.html#f2024)
--   [Alterations to Qualified Historic Facilities
-    \[§F202.5\]](chapter-2-alterations,-additions,-and-leases.html#f2025)
--   [Leases \[§F202.6\]](chapter-2-alterations,-additions,-and-leases.html#f2026)
--   [Common
-    Questions](chapter-2-alterations,-additions,-and-leases.html#questions)
-
- 
-
-[]{#intro}This guide provides an introduction to the scoping
+﻿---
+title: "Chapter 2: Alterations and Additions"
+order-number: 3
+file: alterations-ABA.pdf
+file-description: PDF version of Chapter 2 Alterations Guide
+---
+This guide provides an introduction to the scoping
 requirements of the [ABA Standards](../aba-standards.html) and is
 intended to be used with a complete copy of the ABA Standards since it
 does not contain or address the full content of the Standards. It is

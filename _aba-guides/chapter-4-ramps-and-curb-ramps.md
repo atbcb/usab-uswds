@@ -1,24 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1758 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (ramps-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1758/ramps-ABA.pdf "Download this file (ramps-ABA.pdf)"){.at_icon}[ramps-ABA.pdf](https://www.access-board.gov/attachments/article/1758/ramps-ABA.pdf "Download this file (ramps-ABA.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
-![ramp](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter4/4rcr1.jpg){width="100"
-height="101"}
-
--   [Where Ramps and Curb Ramps are Required
-    \[§303.4\]](chapter-4-ramps-and-curb-ramps.html#ar3034)
--   [Ramp Requirements
-    \[§405\]](chapter-4-ramps-and-curb-ramps.html#ar405)
--   [Curb Ramps \[§406\]](chapter-4-ramps-and-curb-ramps.html#ar406)
--   [Common Questions](chapter-4-ramps-and-curb-ramps.html#cq)
-
+﻿---
+title: "Chapter 4: Ramps and Curb Ramps"
+order-number: 10
+file: ramps-ABA.pdf
+file-description: PDF version of Chapter 4 Ramps and Curb Ramps Guide
+---
 This guide explains requirements in the [ABA
 Standards](../aba-standards.html) for ramps and curb ramps.
 

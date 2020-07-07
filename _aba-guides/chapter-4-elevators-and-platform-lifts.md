@@ -1,34 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1759 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (elevators-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1759/elevators-ABA.pdf "Download this file (elevators-ABA.pdf)"){.at_icon}[elevators-ABA.pdf](https://www.access-board.gov/attachments/article/1759/elevators-ABA.pdf "Download this file (elevators-ABA.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
-![elevator](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter4/4epl1.jpg){width="100"
-height="101"}
-
--   [Required Compliance
-    \[§F206.6\]](chapter-4-elevators-and-platform-lifts.html#ar2066)
--   [Elevators
-    \[§407\]](chapter-4-elevators-and-platform-lifts.html#ar407)
--   [Destination-Oriented
-    Elevators](chapter-4-elevators-and-platform-lifts.html#ardo)
--   [Existing Elevators
-    (Alterations)](chapter-4-elevators-and-platform-lifts.html#aralt)
--   [Limited-Use/ Limited-Application Elevators
-    \[§408\]](chapter-4-elevators-and-platform-lifts.html#ar408)
--   [Private Residence Elevators
-    \[§409\]](chapter-4-elevators-and-platform-lifts.html#ar409)
--   [Platform Lifts](chapter-4-elevators-and-platform-lifts.html#arpl)
--   [Common Questions](chapter-4-elevators-and-platform-lifts.html#cq)
-
- 
-
+﻿---
+title: "Chapter 4: Elevators and Platform Lifts"
+order-number: 11
+file: elevators-ABA.pdf
+file-description: PDF version of Chapter 4 Elevators and Platform Lifts Guide
+---
 This guide explains criteria for elevators and platform lifts in
 the [ABA Standards](../aba-standards.html).
 

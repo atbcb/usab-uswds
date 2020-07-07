@@ -1,14 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1898 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (ISA-guidance.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1898/ISA-guidance.pdf "Download this file (ISA-guidance.pdf)"){.at_icon}[ISA-guidance.pdf](https://www.access-board.gov/attachments/article/1898/ISA-guidance.pdf "Download this file (ISA-guidance.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
+---
+title: "Guidance on the International Symbol of Accessibility"
+order-number:  100
+file: ISA-guidance.pdf
+file-description: PDF version of ISA Guidance
+---
 **March 27, 2017**
 
 The U.S. Access Board provides the following guidance on use of the

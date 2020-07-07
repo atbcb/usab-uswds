@@ -1,8 +1,9 @@
 ---
 title: "About the ABA guide"
-layout: standards
-collection-folder: aba-guides
 order-number: 0
+permalink: /aba/guides/
+file: test.pdf
+file-description: Single file PDF version of the ABA Guides
 ---
 Standards issued under the Architectural Barriers Act (ABA) apply to
 facilities designed, built, altered, or leased with federal funds. Four

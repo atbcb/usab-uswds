@@ -1,24 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1555 .attachmentsList}
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (operable parts-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1555/operable%20parts-ABA.pdf "Download this file (operable parts-ABA.pdf)"){.at_icon}[operable parts-ABA.pdf](https://www.access-board.gov/attachments/article/1555/operable%20parts-ABA.pdf "Download this file (operable parts-ABA.pdf)"){.at_url}
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
-![operable parts
-icon](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter3/3op1.jpg){width="100"
-height="101"}
-
--   [Operable Parts Covered \[§F205\]](chapter-3-operable-parts.html#a)
--   [Operable Parts \[§309\]](chapter-3-operable-parts.html#b)
--   [Common Questions](chapter-3-operable-parts.html#c)
-
- 
-
+﻿---
+title: "Chapter 3: Operable Parts"
+order-number: 6
+file: operable-parts-ABA.pdf
+file-description: PDF version of Chapter 3 Operable Parts Guide
+---
 This guide explains requirements in the [ABA
 Standards](../aba-standards.html) for operable parts.
 

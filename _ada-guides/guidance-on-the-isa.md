@@ -4,6 +4,7 @@ order-number:  100
 file: ISA-guidance.pdf
 file-description: PDF version of ISA Guidance
 ---
+can you see these changes?
 **March 27, 2017**
 
 The U.S. Access Board provides the following guidance on use of the
@@ -14,10 +15,7 @@ compliance with standards issued under the ADA and the ABA.
 
 **The International Symbol of Accessibility (ISA)**
 
-  --- -----------------------------------------------------------------------------------------------------------------------------------------
-       ![International Symbol of Accessibility (ISA)](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/isa.JPG){width="100" height="115"} 
-                                                                    *ISA (1968)*
-  --- -----------------------------------------------------------------------------------------------------------------------------------------
+[International Symbol of Accessibility (ISA)]( {{site.baseurl}}/images/ada-aba/guides/isa.JPG)
 
 Created in 1968 through a design competition by Rehabilitation
 International and adopted by the International Organization for

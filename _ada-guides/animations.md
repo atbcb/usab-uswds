@@ -1,8 +1,6 @@
 ---
 title: "Animations"
-layout: standards
-collection-folder: ada-guides
-order-number: 1.1
+order-number:  0.5
 ---
 
 <!-- This section is required only once per page, before any videos appear. -->

@@ -1,40 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1756 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (amoe-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1756/amoe-ABA.pdf "Download this file (amoe-ABA.pdf)"){.at_icon}[amoe-ABA.pdf](https://www.access-board.gov/attachments/article/1756/amoe-ABA.pdf "Download this file (amoe-ABA.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
-![exit
-sign](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter4/4amoe1.jpg){width="100"
-height="99"}
-
--   [Required Compliance with the IBC
-    \[§207\]](chapter-4-accessible-means-of-egress.html#ar207)
--   [Means of Egress](chapter-4-accessible-means-of-egress.html#armoe)
--   [Other Requirements in the ADA
-    Standards](chapter-4-accessible-means-of-egress.html#arother)
--   [Common
-    Questions](chapter-4-accessible-means-of-egress.html#questions)
-
-\
-![ICC
-logo](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter4/4amoe-icc.JPG)This
-guide explains requirements in the [ABA
-Standards](../aba-standards.html) and referenced sections of the
-International Building Code (IBC) and was developed in cooperation with
-the International Code Council.
-
-  --- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-      ![Covers of the 2000 and 2003 International Building Code.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter4/4amoe2.jpg)*Further information on the IBC is available from the, International Code Council (ICC) at (888) 422-7233) or [www.iccsafe.org](http://www.iccsafe.org).*
-  --- ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-### []{#ar207}Required Compliance with the IBC \[[§F207](../aba-standards/chapter-2-scoping-requirements.html#F207%20Accessible%20Means%20of%20Egress)\]
-
+﻿---
+title: "Chapter 4: Accessible Means of Egress"
+order-number: 12
+file: amoe-ABA.pdf
+file-description: PDF version of Chapter 4 Accessible Means of Egress Guide
+---
 Accessible means of egress must be provided according to the
 International Building Code (IBC).  Issued by the International Code
 Council (ICC), the IBC addresses the number of means of egress required

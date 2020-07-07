@@ -4,6 +4,7 @@ order-number: 3
 file: alterations.pdf
 file-description: PDF version of Chapter 2 Alterations Guide
 ---
+
 This guide provides an introduction to the scoping
 requirements that form the basis for the Department of Justice's [2010
 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) and the

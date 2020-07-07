@@ -1,37 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1757 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (entrances-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1757/entrances-ABA.pdf "Download this file (entrances-ABA.pdf)"){.at_icon}[entrances-ABA.pdf](https://www.access-board.gov/attachments/article/1757/entrances-ABA.pdf "Download this file (entrances-ABA.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
-![entrance
-doors](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter4/4edg1.jpg){width="100"
-height="101"}
-
--   [Accessible Entrances: Minimum Number
-    \[§F206.4\]](chapter-4-entrances,-doors,-and-gates.html#ar2064)
--   [Doors, Doorways and Gates \[§206.5 and
-    §404\]](chapter-4-entrances,-doors,-and-gates.html#ar2065)
--   [Automatic and Power-Assisted Doors and Gates
-    \[§404.3\]](chapter-4-entrances,-doors,-and-gates.html#ar4043)
--   [Common Questions](chapter-4-entrances,-doors,-and-gates.html#cq)
-
- 
-
-  -------------------------------------------------------------------------------------------------------------------
-                                                   [ [![ Animation:
-   Doors](https://www.access-board.gov/images/videos/doors-video.jpg)](chapter-4-entrances,-doors,-and-gates.html#)\
-          [Animation: Doors](chapter-4-entrances,-doors,-and-gates.html#) [ [[You must have [the Adobe Flash
-                       Player](http://get.adobe.com/flashplayer) installed to view this player.
-          ]{#jwplayerplg1757idd2fdc2a565ffaaf4544f6641f4bf02ddpop} ]{.jwbox_content}]{.jwbox_hidden}]{.jwbox}
-
-  -------------------------------------------------------------------------------------------------------------------
-
+﻿---
+title: "Chapter 4: Entrances, Doors, and Gates"
+order-number: 9
+file: entrances-ABA.pdf
+file-description: PDF version of Chapter 4 Entrances Doors and Gates Guide
+---
 This guide explains scoping and technical requirements for accessible
 entrances, doors and gates in the [ABA
 Standards](../aba-standards.html). 

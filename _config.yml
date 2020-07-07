@@ -164,6 +164,16 @@ defaults:
       right-sidenav: ada-right-sidenav.html
   - scope:
       path: ""
+      type: "ada-guides"
+    values:
+      collection-title: "Guide to the ADA Accessibility Standards"
+      collection-folder: ada-guides
+      layout: standards
+      file-directory: /files/ada-aba/guides/ada/
+      image-directory: /images/ada-aba/guides/
+      right-sidenav: ada-right-sidenav.html
+  - scope:
+      path: ""
       type: "aba"
     values:
       collection-title: "Architectural Barriers Act Accessibility Standards"
@@ -173,22 +183,12 @@ defaults:
       image-directory: /images/ada-aba/standards/
   - scope:
       path: ""
-      type: "ada-guides"
-    values:
-      collection-title: "Guide to the ADA Accessibility Standards"
-      collection-folder: ada-guides
-      layout: standards
-      file-directory: /files/ada-aba/guides/
-      image-directory: /images/ada-aba/guides/
-      right-sidenav: ada-right-sidenav.html
-  - scope:
-      path: ""
       type: "aba-guides"
     values:
       collection-title: "Guide to the ABA Accessibility Standards"
       collection-folder: aba-guides
       layout: standards
-      file-directory: /files/ada-aba/guides/
+      file-directory: /files/ada-aba/guides/aba/
       image-directory: /images/ada-aba/guides/
   - scope:
       path: ""

@@ -1,40 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1801 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (parking-ABA.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1801/parking-ABA.pdf "Download this file (parking-ABA.pdf)"){.at_icon}[parking-ABA.pdf](https://www.access-board.gov/attachments/article/1801/parking-ABA.pdf "Download this file (parking-ABA.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
--   ![parking
-    icon](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter5/5p1.jpg){width="100"
-    height="98"}[Required Number
-    \[§F208\]](chapter-5-parking.html#number) 
--   [Accessible Parking Spaces \[§502\]](chapter-5-parking.html#spaces) 
--   [Van Accessible Parking Spaces \[§502.1 -
-    502.5\]](chapter-5-parking.html#van) 
--   [Common Questions](chapter-5-parking.html#cq)
-
- 
-
-This guide explains requirements in the [ABA
-Standards](../aba-standards.html) for parking. 
-
-  ---------------------------------------------------------------------------------------------
-                                  [ [![Animation on Parking and
-   PLZ](https://www.access-board.gov/images/videos/parking-plz.JPG)](chapter-5-parking.html#)\
-   [Animation on Parking and PLZ](chapter-5-parking.html#) [ [[You must have [the Adobe Flash
-            Player](http://get.adobe.com/flashplayer) installed to view this player.
-                    ]{#jwplayerplg1801id64960a31f9fe5ac7767ca70ceb5a9c02pop}
-                           ]{.jwbox_content}]{.jwbox_hidden}]{.jwbox}
-
-  ---------------------------------------------------------------------------------------------
-
-### []{#number}Required Number \[[§F208](../aba-standards/chapter-2-scoping-requirements.html#F208%20Parking%20Spaces)\]
-
+﻿---
+title: "Chapter 5 Parking Spaces"
+order-number: 13
+file: parking-ABA.pdf
+file-description: PDF version of Chapter 5 Parking Spaces Guide
+---
 Accessible parking spaces are required for each parking facility on a
 site, such as lots and garages.  Requirements apply equally to public
 and employee or restricted parking.  On sites with multiple parking

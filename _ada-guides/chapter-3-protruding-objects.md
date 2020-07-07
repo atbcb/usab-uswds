@@ -8,7 +8,7 @@ This guide explains requirements in the [ADA
 Standards](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards)
 for protruding objects.
 
-### []{#a}Protruding Objects \[[§204](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#204%20Protruding%20Objects)\]
+### Protruding Objects \[[§204](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#204%20Protruding%20Objects)\]
 
 To prevent hazards to people with vision impairments, the standards
 limit the projection of objects into circulation paths. These
@@ -30,7 +30,7 @@ corridors and apply equally to circulation paths in rooms and spaces.
 ](/images/guidelines_standards/Buildings_Sites/guides/chapter3/3po2-text.jpg){width="550"
 height="522"}
 
-### []{#b}Protrusion Limits \[[§307.2](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-3-building-blocks#307%20Protruding%20Objects)\]
+### Protrusion Limits \[[§307.2](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-3-building-blocks#307%20Protruding%20Objects)\]
 
 People with vision impairments often travel closely along walls which
 can provide wayfinding cues sometime called a "shoreline." Objects
@@ -148,7 +148,7 @@ knee clearance and the maximum specified for cane detection.*
 
  
 
-### []{#c}Post-Mounted Objects \[[§307.3](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-3-building-blocks#307%20Protruding%20Objects)\]
+### Post-Mounted Objects \[[§307.3](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-3-building-blocks#307%20Protruding%20Objects)\]
 
 Free-standing objects with leading edges 27" to 80" high that are
 mounted on posts or pylons cannot protrude more than 12" into
@@ -171,7 +171,7 @@ height="332"}
 
  
 
-### []{#d}Vertical Clearance \[[§307.4](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-3-building-blocks#307%20Protruding%20Objects)\]
+### Vertical Clearance \[[§307.4](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-3-building-blocks#307%20Protruding%20Objects)\]
 
 Headroom clearance of at least 80" high is required along all
 circulation paths (except at doors and doorways where a 78" minimum
@@ -209,7 +209,7 @@ height="275"}
 
 ### ![question mark](/images/guidelines_standards/Buildings_Sites/guides/ques.jpg){width="100" height="100"}
 
-### []{#e}Common Questions
+### Common Questions
 
 *Are requirements for protruding objects limited to hallways and
 corridors?*
@@ -235,7 +235,3 @@ specified. Curbs may be mistaken for a step or change in level, instead
 of a barrier. For this reason, barriers significantly higher than a curb
 or riser, such as a guardrail, planter box, bench, parapet wall, or
 similar elements are recommended.
-
- 
-
-[Back to top](#top) 

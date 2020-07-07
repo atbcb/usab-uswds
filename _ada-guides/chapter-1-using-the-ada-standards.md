@@ -4,6 +4,7 @@ order-number: 1
 file: using-ADAstandards.pdf
 file-description: PDF version of Chapter 1 ADA Guide
 ---
+
 The design standards issued under the Americans with Disabilities Act
 (ADA) by the Department of Justice and the Department of Transportation
 are used to ensure access to the built environment for people with

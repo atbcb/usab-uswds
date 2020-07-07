@@ -1,38 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1550 .attachmentsList}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (using-ABA-standards.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1550/using-ABA-standards.pdf "Download this file (using-ABA-standards.pdf)"){.at_icon}[using-ABA-standards.pdf](https://www.access-board.gov/attachments/article/1550/using-ABA-standards.pdf "Download this file (using-ABA-standards.pdf)"){.at_url}
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
--   ![open
-    book](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter1-ada/1ada1.jpg){width="100"
-    height="99"}[The Architectural Barriers Act
-    (ABA)](chapter-1-using-the-ada-standards-2.html#aba)
--   [Enforcement of the
-    ABA](chapter-1-using-the-ada-standards-2.html#enforce)
--   [Current Edition of the ABA
-    Standards](chapter-1-using-the-ada-standards-2.html#current)
--   [Purpose \[§F101\]](chapter-1-using-the-ada-standards-2.html#aba101)
--   [Dimensions for Adults and Children
-    \[§F102\]](chapter-1-using-the-ada-standards-2.html#aba102)
--   [Modifications and Waivers
-    \[§F103\]](chapter-1-using-the-ada-standards-2.html#aba103)
--   [Conventions
-    \[§F104\]](chapter-1-using-the-ada-standards-2.html#aba104)
--   [Referenced Standards
-    \[§F105\]](chapter-1-using-the-ada-standards-2.html#aba105)
--   [Definitions
-    \[§F106\]](chapter-1-using-the-ada-standards-2.html#aba106)
--   [Common
-    Questions](chapter-1-using-the-ada-standards-2.html#questions)
-
-### []{#aba}The Architectural Barriers Act (ABA)
-
+---
+title: "Chapter 1: Using the ABA Standards"
+order-number: 99
+file: using-ABA-standards.pdf
+file-description: PDF version of Chapter 1 ABA Guide
+---
 The Architectural Barriers Act (ABA) requires access to facilities that
 are designed, built, or altered with federal funds or leased by federal
 agencies. Passed in 1968, it is one of the first laws to address access
@@ -548,10 +519,3 @@ referenced by the ABA Standards be used?*
 The specific editions of these standards referenced by the ABA Standards
 are to be followed (although the Access Board intends to update
 references to keep them current).
-
- 
-
-[Back to top](chapter-1-using-the-ada-standards-2.html#top) 
-:::
-
-[]{.clear}

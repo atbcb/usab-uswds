@@ -1,7 +1,8 @@
 ---
 title: "About the ADA Guides"
 order-number: 0
-file: ADA-Standards.pdf
+permalink: /ada/guides/
+file: test.pdf
 file-description: Single file PDF version of the ADA Guides
 ---
 
