@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 3: Operable Parts"
 order-number: 6
 file: operable-parts.pdf

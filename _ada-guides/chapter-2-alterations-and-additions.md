@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 2: Alterations and Additions"
 order-number: 3
 file: alterations.pdf

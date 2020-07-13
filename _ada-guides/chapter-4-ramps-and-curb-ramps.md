@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 4: Ramps and Curb Ramps"
 order-number: 10
 file: ramps.pdf

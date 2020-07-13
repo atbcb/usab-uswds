@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 4: Entrances, Doors, and Gates"
 order-number: 9
 file: entrances.pdf

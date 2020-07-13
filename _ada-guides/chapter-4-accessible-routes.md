@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Chapter 4: Accessible Routes"
 order-number: 8
 file: accessible-routes.pdf
 file-description: PDF version of Chapter 4 Accessible Routes Guide
 ---
 This guide explains scoping and technical requirements for accessible
-routes in the [ADA Standards](../ada-standards.html). 
+routes in the [ADA Standards]({{ site.baseurl }}/ada/). 
 
 ### Where Required: Site Arrival Points \[[§206.2.1](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)\] {#ar20621}
 

@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 2: New Construction"
 order-number: 2
 file: new-construction.pdf

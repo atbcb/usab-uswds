@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 5 Parking Spaces"
 order-number: 13
 file: parking.pdf

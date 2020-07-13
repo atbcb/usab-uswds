@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 3: Clear Floor or Ground Space and Turning Space"
 order-number: 5
 file: clear-floor-space.pdf

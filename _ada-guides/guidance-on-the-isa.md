@@ -44,7 +44,7 @@ Streets and Highways, among others.
 
 **Use of the ISA Under the ADA**
 
-The [ADA Standards](../ada-standards.html) apply nationwide to places of
+The [ADA Standards]({{ site.baseurl }}/ada/) apply nationwide to places of
 public accommodation, commercial facilities, and state and local
 government facilities. Promulgated by the Department of Justice (28 CFR
 Parts 35 and 36) and the Department of Transportation (49 CFR Part 37),

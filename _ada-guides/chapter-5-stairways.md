@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 5: Stairways"
 order-number: 15
 file: stairs.pdf

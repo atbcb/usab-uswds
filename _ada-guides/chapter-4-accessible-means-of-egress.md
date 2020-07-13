@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 4: Accessible Means of Egress"
 order-number: 12
 file: amoe.pdf

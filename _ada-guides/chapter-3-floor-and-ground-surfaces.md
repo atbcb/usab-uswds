@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 3: Floor and Ground Surfaces"
 order-number: 4
 file: surfaces.pdf

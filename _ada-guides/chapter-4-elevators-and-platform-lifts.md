@@ -1,11 +1,11 @@
-﻿---
+---
 title: "Chapter 4: Elevators and Platform Lifts"
 order-number: 11
 file: elevators.pdf
 file-description: PDF version of Chapter 4 Elevators and Platform Lifts Guide
 ---
 This guide explains criteria for elevators and platform lifts in
-the [ADA Standards](../ada-standards.html).
+the [ADA Standards]({{ site.baseurl }}/ada/).
 
 ### **[]{#ar2066}Required Compliance \[[§206.6](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)\]**
 

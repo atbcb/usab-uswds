@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 1: Using the ADA Standards"
 order-number: 1
 file: using-ADAstandards.pdf
@@ -8,7 +8,7 @@ file-description: PDF version of Chapter 1 ADA Guide
 The design standards issued under the Americans with Disabilities Act
 (ADA) by the Department of Justice and the Department of Transportation
 are used to ensure access to the built environment for people with
-disabilities. The [ADA Standards](../ada-standards.html) apply
+disabilities. The [ADA Standards]({{ site.baseurl }}/ada/) apply
 nationwide, in addition to any applicable state or local codes, where
 facilities are newly built or altered. Most facilities in the public and
 private sectors are covered by the ADA.
