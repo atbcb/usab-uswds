@@ -80,12 +80,8 @@ primary_navigation:
         url: /gs/ict.html
       - name: Americans with Disabilities Act (ADA)
         url: /ada/
-      - name: Guide to the ADA
-        url: /ada/guides/
       - name: Architectural Barriers Act (ABA)
         url: /aba/
-      - name: Guide to the ABA
-        url: /aba/guides/
       - name: Public Rights-of-Way
         url: /prowag/
       - name: Buildings & Sites
