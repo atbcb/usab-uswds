@@ -2,15 +2,13 @@
 layout: default
 ---
 
-{% comment %}
-This template is for a single page that does not have a date associated with it. For example, an about page.
-{% endcomment %}
 
-<div class="usa-layout-docs usa-section">
+<div class="usa-layout-docs">
   <div class="grid-container">
+    <h1 class="padding-top-0">{{ page.collection-title }}</h1>
     <div class="grid-row grid-gap">
-      <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
-        <nav>
+       <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
+        <nav class="">
           <h2>Table of contents</h2>
           <ul class="usa-sidenav">
             {% assign ordered_chapters = site[page.collection-folder] | sort:"order-number" %}
@@ -28,11 +26,26 @@ This template is for a single page that does not have a date associated with it.
           </ul>
         </nav>
       </aside>
-      <div id="standard" class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-        <h1>{{page.title}}</h1>
-        {{ content }}
+      <div id="standard" class="desktop:grid-col usa-prose">
+        <h2>{{page.title}}</h2>
+        {% if page.file %}
+        <div class="position-relative">
+          <span class="text-right">{{ page.file-description }} 
+          <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" download="{{ page.file }}">
+          <button class="usa-button ">Download</button>
+          </a>
+          </span>
+        </div>
+        
+        {% endif %}
+        <div>{{ content }}</div>
+        
 
       </div>
+
+      {% if page.right-sidenav %}
+      <div class="desktop:grid-col-2 padding-bottom-4">{% include {{ page.right-sidenav }} %}</div>
+      {% endif %}    
     </div>
   </div>
 </div>
@@ -40,7 +53,7 @@ This template is for a single page that does not have a date associated with it.
 
 <script>
   {
-    console.log("tttt")
+    console.log("toc script")
     var x = document.getElementById("standard").querySelectorAll("h3");
     var i;
     for (i = 0; i < x.length; i++) {

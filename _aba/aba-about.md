@@ -31,3 +31,5 @@ Regulations and notices implementing the ABA standards include:
 HUD has not yet adopted this version of the standards and continues to apply the [Uniform Federal Accessibility Standards (UFAS)](https://www.access-board.gov/index.php?option=com_content&view=article&id=1368&Itemid=1546) to residential facilities under its jurisdiction.
 
 New provisions for outdoor areas developed by the federal government that address access to trails, picnic and camping areas, viewing areas, and beach access routes are included in this edition of the ABA standards.
+
+

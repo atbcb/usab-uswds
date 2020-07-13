@@ -10,6 +10,7 @@
   },
   "dependencies": {
     "netlify-cms": "^2.10.23",
+    "stickyfilljs": "^2.1.0",
     "uswds": "^2.7.0"
   },
   "devDependencies": {

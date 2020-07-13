@@ -1,9 +1,51 @@
+// Import individual theme settings
+
+//@import "uswds-theme-general";
+//@import "uswds-theme-typography";
+@import "uswds-theme-spacing";
+//@import "uswds-theme-color";
+//@import "uswds-theme-utilities";
+
+// components import needs to be last
+//@import "uswds-theme-components";
+
 $theme-hero-image: asset_path("board-office.jpg");
 
 // Import the US Web Design System SASS.
 @import "uswds";
 
 // Add your SASS/CSS here
+
+// temporary blue class to see how grids work
+.blue {
+  background-color: blue;
+}
+
+// sticky fill js
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.sticky:before,
+.sticky:after {
+    content: '';
+    display: table;
+}
+
+
+// create class that combines about page img classes
+.right {
+  
+}
+.advisory {
+  background-color: #e8f0f8;
+  padding: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
 figcaption {
   font-size: small;
 }
