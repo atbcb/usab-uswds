@@ -8,7 +8,8 @@ This guide explains scoping and technical requirements for accessible
 entrances, doors and gates in the [ADA
 Standards](../ada-standards.html). 
 
-### []{#ar2064}Accessible Entrances: Minimum Number \[[§206.4](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)\]
+### Accessible Entrances: Minimum Number 
+\[[§206.4](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)\]{: .link-section} 
 
 At least 60% of public entrances must be accessible in new construction,
 in addition to entrances directly serving tenancies, parking facilities,
@@ -16,8 +17,7 @@ pedestrian tunnels and elevated walkways. "Public entrances" include all
 entrances except those that are restricted or that are used exclusively
 as service entrances.
 
-**\
-Public Entrances Required to be Accessible**
+#### Public Entrances Required to be Accessible
 
  ![Buildings with connecting elevated walkway, separate tenancies, and
 parking garage. Notes: At least 60% of public entrances in addition to
@@ -27,8 +27,7 @@ entrance from each elevated walkway or pedestrian tunnel. At least one
 entrance to each tenancy in a facility. Additional requirements apply to
 transit facilities and to entrances for inmates and detainees in
 judicial, detention, and correctional facilities.
-](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4edg2.jpg){width="600"
-height="492"}
+]({{ site.baseurl }}/images/ada-aba/guides/chapter4/4edg2.jpg)
 
  
 
