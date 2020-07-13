@@ -18,8 +18,7 @@ private sectors are covered by the ADA.
 **State and Local Government Facilities**
 
 ![government
-building]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/gov.jpg){width="80"
-height="77"}
+building]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/gov.jpg){: .float-right .thumbnail}
 
 Units of government at the state, county, and local levels are subject
 to the ADA and must comply with the ADA Standards in new construction
