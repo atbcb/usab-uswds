@@ -1,7 +1,5 @@
 ---
 title: "About the ABA"
-layout: standards
-collection-folder: aba
 permalink: /aba/
 order-number: 1
 version: original
