@@ -76,7 +76,7 @@ primary_navigation:
   - name: Guidelines & Standards
     url: /gs/
     children:
-      - name: Communications & IT
+      - name: Communications & IT (Section 508)
         url: /gs/ict.html
       - name: Americans with Disabilities Act (ADA)
         url: /ada/
@@ -84,19 +84,15 @@ primary_navigation:
         url: /aba/
       - name: Public Rights-of-Way
         url: /prowag/
-      - name: Buildings & Sites
-        url: /gs/buildings.html
-      - name: Recreation Facilities
-        url: /gs/recreation.html
-      - name: Streets & Sidewalks
-        url: /gs/streets-sidewalks.html
-      - name: Transportation
-        url: /gs/transportation.html
-      - name: Health Care
-        url: /gs/health_care.html
+      - name: Medical Diagnostic Equipment (MDE)
+        url: /mde/
+      - name: Learn more
+        url: /learn-more/
+      - name: Archive
+        url: /archive/
   - name: Training
     url: /training/
-  - name: Enforcement
+  - name: File an ABA complaint
     url: /enforcement/
   - name: Research
     url: /research/
