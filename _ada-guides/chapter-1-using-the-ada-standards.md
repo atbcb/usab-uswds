@@ -31,8 +31,7 @@ similar, [standards](../../about-the-aba-standards.html).
 **Places of Public Accommodation and Commercial Facilities**
 
 ![store front and
-factory]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1ada2.jpg){width="125"
-height="131"}
+factory]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1ada2.jpg){: .float-right .thumbnail}
 
 In the private sector, the ADA Standards apply to places of public
 accommodation and commercial facilities. Places of public accommodation
@@ -46,8 +45,8 @@ the twelve categories, regardless of size. Commercial facilities include
 office buildings, factories, warehouses, manufacturing plants, and other
 facilities whose operations affect commerce.
 
-**![train]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1ada3.jpg){width="65"
-height="98"}Transportation Facilities**
+**Transportation Facilities**
+![train]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1ada3.jpg){: .float-right .thumbnail}
 
 Bus stops and stations, rail stations, and other transportation
 facilities are required to be accessible by the ADA. The ADA also
@@ -70,10 +69,7 @@ access codes.
 **ADA Coverage of Housing**
 
 +:---------------------------------------------------------------------:+
-| ![fair housing                                                        |
-| icon](https://www.access-board.gov/images/guidelines                  |
-| _standards/Buildings_Sites/guides/chapter1-ada/1ada4.jpg){width="100" |
-| height="98"}                                                          |
+| ![fair housing icon](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter1-ada/1ada4.jpg){: .float-right .thumbnail}|                       |                                                                       |
 +-----------------------------------------------------------------------+
 | *Information on the Fair Housing Act is available from the Department |
 | of Housing and Urban Development at*                                  |
@@ -85,6 +81,11 @@ access codes.
 |                                                                       |
 |                                                                       |
 +-----------------------------------------------------------------------+
+
+<img alt="fair housing icon" align="right" width="100" height="100" src="https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter1-ada/1ada4.jpg">
+Information on the Fair Housing Act is available from the Department of Housing and Urban Development at
+[www.hud.gov](https://www.hud.gov/) or [www.fairhousingfirst.org](https://www.fairhousingfirst.org/),(888)341-7781 (V/TTY).
+
 
 Although private residential housing is not covered by the ADA,
 government-owned or operated housing and certain privately owned
@@ -118,8 +119,7 @@ auxiliary aids and services.
 **DOJ's ADA Regulations**
 
 ![DOJ
-seal]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1doj.jpg){width="100"
-height="99"}
+seal]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1doj.jpg){: .float-right .thumbnail}
 
 DOJ regulations issued under title II of the ADA apply to programs,
 activities, and services of state and local governments. DOJ's title III
