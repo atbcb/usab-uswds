@@ -1,9 +1,8 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1110 .attachmentsList}
-:::
-:::
-
+---
+title: "Background"
+order-number: 6
+version: improved
+---
 We are conducting separate rulemakings to develop accessibility
 guidelines for trails and other outdoor developed areas, and for
 sidewalks and other pedestrian facilities in the public right-of-way.

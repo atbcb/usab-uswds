@@ -1,9 +1,8 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1118 .attachmentsList}
-:::
-:::
-
+---
+title: "Chapter R3: Technical Requirements"
+order-number: 3
+version: improved
+---
 **R301 General**
 
 **R301.1 Scope.** The technical requirements in Chapter 3 shall apply

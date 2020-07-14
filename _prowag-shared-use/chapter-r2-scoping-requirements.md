@@ -1,8 +1,8 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1117 .attachmentsList}
-:::
-:::
+---
+title: "Chapter R2: Scoping Requirements"
+order-number: 2
+version: improved
+---
 
 **R201 Application**
 

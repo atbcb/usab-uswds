@@ -1,9 +1,8 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1115 .attachmentsList}
-:::
-:::
-
+---
+title: "Supplementary Provisions"
+order-number: 11
+version: improved
+---
 *Note: Supplementary provisions are noted below in bold and unshaded
 boxes.*
 

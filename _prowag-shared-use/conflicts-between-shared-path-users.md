@@ -1,9 +1,8 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1113 .attachmentsList}
-:::
-:::
-
+---
+title: "Conflicts between Shared Path Users"
+order-number: 9
+version: improved
+---
 Public comments submitted in response to the ANPRM expressed concern
 about the risk of collisions between pedestrians who are blind or have
 low vision and bicyclists who pass them too closely at fast speeds, and

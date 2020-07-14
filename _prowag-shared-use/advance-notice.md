@@ -1,14 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_173 .attachmentsList}
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (sup-anprm.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/173/sup-anprm.pdf "Download this file (sup-anprm.pdf)"){.at_icon}[Shared Use Path Advance Notice of Proposed Rulemaking](https://www.access-board.gov/attachments/article/173/sup-anprm.pdf "Download this file (sup-anprm.pdf)"){.at_url}
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
+---
+title: "Advanced Notice of Proposed Rulemaking"
+order-number: 12
+version: improved
+file:  ""
+---
 Published in the *Federal Register* on March 28, 2011.      
 
 36 CFR Chapter XI\

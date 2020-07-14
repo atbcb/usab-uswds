@@ -1,9 +1,8 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1114 .attachmentsList}
-:::
-:::
-
+---
+title: "Regulatory Analyses"
+order-number: 10
+version: improved
+---
 **6. Regulatory Analyses\
 **
 

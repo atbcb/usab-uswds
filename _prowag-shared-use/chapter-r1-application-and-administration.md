@@ -1,7 +1,5 @@
 ---
 title: "Chapter R1: Application and Administration"
-layout: standards
-collection-folder: prowag-shared-use
 order-number: 1
 version: improved
 ---

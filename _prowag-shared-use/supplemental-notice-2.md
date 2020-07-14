@@ -1,8 +1,8 @@
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1109 .attachmentsList}
-:::
-:::
-
+---
+title: "Supplemental Notice-about"
+order-number: 13
+version: improved
+---
 This supplemental notice of proposed rulemaking (SNPRM) proposes to
 include specific provisions for shared use paths in the proposed
 accessibility guidelines for pedestrian facilities in the public
@@ -80,5 +80,3 @@ federal agencies adopt accessibility standards for the design,
 construction, and alteration of pedestrian facilities in the public
 right-of-way, including shared use paths, covered by the ADA and ABA,
 compliance with the standards is mandatory.
-
-[]{.clear}

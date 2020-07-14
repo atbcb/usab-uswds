@@ -1,9 +1,8 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1111 .attachmentsList}
-:::
-:::
-
+---
+title: "Proposed Supplements"
+order-number: 7
+version: improved
+---
 We are issuing this SNPRM to include specific provisions for shared use
 paths in the proposed accessibility guidelines for pedestrian facilities
 in the public right-of-way published in the Federal Register on July 26,

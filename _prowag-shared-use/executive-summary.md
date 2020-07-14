@@ -1,9 +1,8 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1109 .attachmentsList}
-:::
-:::
-
+---
+title: "Executive Summary"
+order-number: 5
+version: improved
+---
 This supplemental notice of proposed rulemaking (SNPRM) proposes to
 include specific provisions for shared use paths in the proposed
 accessibility guidelines for pedestrian facilities in the public

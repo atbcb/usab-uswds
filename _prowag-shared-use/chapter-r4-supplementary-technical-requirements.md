@@ -1,9 +1,8 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1119 .attachmentsList}
-:::
-:::
-
+---
+title: "Chapter R4: Supplemental Technical Requirements"
+order-number: 4
+version: improved
+---
 **R401 General**
 
 **R401.1 Scope.** The supplemental technical requirements in Chapter 4
