@@ -1,3 +1,7 @@
+#toc-aside {
+  z-index: 300;
+}
+
 .toc-subnav {
   .usa-sidenav {
     @include u-border-bottom('05');
