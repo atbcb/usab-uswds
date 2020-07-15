@@ -7,70 +7,53 @@ layout: default
   <div class="grid-container">
     <h1 class="padding-top-0">{{ page.collection-title }}</h1>
     <div class="grid-row grid-gap">
-       <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
-        <nav class="">
-          <h2>Table of contents</h2>
-          <ul class="usa-sidenav">
-            {% assign ordered_chapters = site[page.collection-folder] | sort:"order-number" %}
-            {% for chapter in ordered_chapters %}
-              <li class="usa-sidenav__item">
-                {% if page.title == chapter.title %}
-                 <a href="{{site.baseurl}}{{ chapter.url }}" class="usa-current">{{ chapter.title }}</a>
-                  <ul id="subsections" class="usa-sidenav__sublist">
-                  </ul>
-                  {% else %}
-                  <a href="{{site.baseurl}}{{ chapter.url }}">{{ chapter.title }}</a>
-                 {% endif %}
-              </li>
-            {% endfor %}
-          </ul>
-        </nav>
-      </aside>
+      {% include table-of-contents-subnav.html %}
+
       <div id="standard" class="desktop:grid-col usa-prose">
         <h2>{{page.title}}</h2>
         {% if page.file %}
         <div class="position-relative">
-          <span class="text-right">{{ page.file-description }} 
+          <span class="text-right">{{ page.file-description }}
           <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" download="{{ page.file }}">
           <button class="usa-button ">Download</button>
           </a>
           </span>
         </div>
-        
+
         {% endif %}
         <div>{{ content }}</div>
-        
+
 
       </div>
 
       {% if page.right-sidenav %}
       <div class="desktop:grid-col-2 padding-bottom-4">{% include {{ page.right-sidenav }} %}</div>
-      {% endif %}    
+      {% endif %}
     </div>
   </div>
 </div>
 
-
+<!--
 <script>
   {
-    console.log("toc script")
+    // console.log("toc script")
     var x = document.getElementById("standard").querySelectorAll("h3");
     var i;
     for (i = 0; i < x.length; i++) {
       var section = x[i].innerText;
-      console.log(section);
-    
+      // console.log(section);
+
 
       var idtag = section.replace(/ /g,"-");
       x[i].setAttribute("id",idtag);
 
-      console.log(idtag);
+      // console.log(idtag);
 
     var li = "<li><a href=\"#" + idtag + "\">" + section + "</a></li>";
-      console.log(li);
+      // console.log(li);
     document.getElementById("subsections").innerHTML += li;
-     
+
     };
     //alert("TOC successfully loaded!");
   };
-  </script>
+  </script> -->
