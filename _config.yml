@@ -87,9 +87,9 @@ primary_navigation:
       - name: Medical Diagnostic Equipment (MDE)
         url: /mde/
       - name: Learn more
-        url: /learn-more/
+        url: /guidelines-&-standards/learn-more/
       - name: Archive
-        url: /archive/
+        url: /guidelines-&-standards/archive/
   - name: Training
     url: /training/
   - name: File an ABA complaint
