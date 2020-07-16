@@ -15,10 +15,10 @@ private sectors are covered by the ADA.
 
 ### Facilities Covered by the ADA
 
-**State and Local Government Facilities**
+#### State and Local Government Facilities
 
 ![government
-building]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/gov.jpg){: .float-right .thumbnail}
+building]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/gov.jpg){: .float-right .thumbnail}
 
 Units of government at the state, county, and local levels are subject
 to the ADA and must comply with the ADA Standards in new construction
@@ -28,10 +28,10 @@ facilities are not covered by the ADA, but by an earlier law, the
 Architectural Barriers Act (ABA) and must meet separate, though very
 similar, [standards](../../about-the-aba-standards.html).
 
-**Places of Public Accommodation and Commercial Facilities**
+#### Places of Public Accommodation and Commercial Facilities
 
 ![store front and
-factory]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1ada2.jpg){: .float-right .thumbnail}
+factory]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada2.jpg){: .float-right .thumbnail}
 
 In the private sector, the ADA Standards apply to places of public
 accommodation and commercial facilities. Places of public accommodation
@@ -45,8 +45,8 @@ the twelve categories, regardless of size. Commercial facilities include
 office buildings, factories, warehouses, manufacturing plants, and other
 facilities whose operations affect commerce.
 
-**Transportation Facilities**
-![train]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1ada3.jpg){: .float-right .thumbnail}
+#### Transportation Facilities
+![train]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada3.jpg){: .float-right .thumbnail}
 
 Bus stops and stations, rail stations, and other transportation
 facilities are required to be accessible by the ADA. The ADA also
@@ -55,7 +55,7 @@ vehicles](../../../transportation/vehicles/about-adaag-for-transportation-vehicl
 including buses, vans, and rail cars (which are not discussed in this
 guide).
 
-**Exemptions (Religious Entities and Private Clubs)**
+#### Exemptions (Religious Entities and Private Clubs)
 
 The ADA does not apply to religious organizations and private clubs,
 entities which historically have been exempt from federal civil rights
@@ -66,26 +66,14 @@ their exclusiveness, operations, and other factors. Facilities not
 subject to the ADA Standards may still be subject to state or local
 access codes.
 
-**ADA Coverage of Housing**
+#### ADA Coverage of Housing
 
-+:---------------------------------------------------------------------:+
-| ![fair housing icon](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter1-ada/1ada4.jpg){: .float-right .thumbnail}|                       |                                                                       |
-+-----------------------------------------------------------------------+
-| *Information on the Fair Housing Act is available from the Department |
-| of Housing and Urban Development at*                                  |
-| [www.hud.gov](http://www.hud.gov)* or*                                |
-| [www.fairhousingfirst.org](http://www.fairhousingfirst.org/)*,(888)   |
-| 341-7781 (V/TTY).*                                                    |
-|                                                                       |
-|                                                                       |
-|                                                                       |
-|                                                                       |
-+-----------------------------------------------------------------------+
-
-<img alt="fair housing icon" align="right" width="100" height="100" src="https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/guides/chapter1-ada/1ada4.jpg">
-Information on the Fair Housing Act is available from the Department of Housing and Urban Development at
-[www.hud.gov](https://www.hud.gov/) or [www.fairhousingfirst.org](https://www.fairhousingfirst.org/),(888)341-7781 (V/TTY).
-
+<div class="img-right img-medium">
+<img alt="fair housing icon" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada4.jpg">
+<span class="grid-line">Information on the Fair Housing Act is available from the Department of Housing and Urban Development at
+<a href="https://www.hud.gov/">www.hud.gov</a> or <a href="https://www.fairhousingfirst.org/">www.fairhousingfirst.org</a>,</span>
+<span class="grid-line">(888)341-7781 (V/TTY).</span>
+</div> 
 
 Although private residential housing is not covered by the ADA,
 government-owned or operated housing and certain privately owned
@@ -116,10 +104,10 @@ address existing facilities and topics beyond building design, including
 access to programs, services, and communication and provision of
 auxiliary aids and services.
 
-**DOJ's ADA Regulations**
+#### DOJ's ADA Regulations
 
 ![DOJ
-seal]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1doj.jpg){: .float-right .thumbnail}
+seal]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1doj.jpg){: .float-right .thumbnail}
 
 DOJ regulations issued under title II of the ADA apply to programs,
 activities, and services of state and local governments. DOJ's title III
@@ -135,29 +123,35 @@ must remove architectural barriers in existing facilities where it is
 accessibility standards applicable to new construction and alterations,
 and to the provision of program access or barrier removal.
 
-  ----------------------- ----------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
-                                                                                  ![government                                                          *Title II Regulation for State and Local
-                           building]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/gov.jpg){width="60"   Governments *\
-                                                                                  height="58"}                                                          28 CFR Part 35 \
-                                                                                                                                                        Available
-                                                                                                                                                        at [www.ada.gov](http://www.ada.gov/) 
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="grid-col-auto" style="width:25%;">
+      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/gov.jpg" alt="government building" class="img-grid-left">
+    </div>
+    <div class="grid-col-fill"  style="padding: 10px;">
+      <span class="grid-line-left text-italic">Title II Regulation for State and Local Governments</span>
+      <span class="grid-line-left">28 CFR Part 35</span>
+      <span class="grid-line-left">Available at <a href="https://www.ada.gov">www.ada.gov</a></span>
+    </div>
+  </div>
+</div>
 
-                                                                                                                                                         
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="grid-col-auto" style="width:25%;">
+      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada2.jpg" alt="store front and factory" class="img-grid-left">
+    </div>
+    <div class="grid-col-fill" style="padding: 10px;">
+      <span class="grid-line-left text-italic">Title III Regulation for Places of Public Accommodation and Commercial Facilities</span>
+      <span class="grid-line-left">28 CFR Part 36</span>
+      <span class="grid-line-left">Available at <a href="https://www.ada.gov">www.ada.gov</a></span>
+    </div>
+  </div>
+</div>  
 
-                                                                                ![store front and                                                       *Title III Regulation for Places of
-                           factory]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1ada2.jpg){width="90"  Public Accommodation and Commercial
-                                                                                  height="94"}                                                          Facilities* \
-                                                                                                                                                        28 CFR Part 36\
-                                                                                                                                                        Available
-                                                                                                                                                        at [www.ada.gov](http://www.ada.gov/)
-  ----------------------- ----------------------------------------------------------------------------------------------------------------------------- ----------------------------------------
+### DOT's ADA Regulations
 
-\
-**DOT's ADA Regulations**
-
-![DOT
-seal]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1dot.png){width="100"
-height="99"}
+![DOT seal]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1dot.png){: .float-right .thumbnail}
 
 DOT's ADA regulations implement the transportation and related
 provisions of titles II and III of the ADA. They apply to any public
@@ -169,34 +163,26 @@ system. They cover both vehicles and facilities and include
 nondiscrimination requirements associated with the provision of
 transportation services.
 
-  ----------------------------------------------------------------------------------------------------------------------------- -------------- -------------- -------------- -------------------------------------------------------------------
-   ![train]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1ada3.jpg){width="50"                                               *DOT Regulation for Transportation Services *\
-                                                          height="75"}                                                                                                       49 CFR Part 37 \
-                                                                                                                                                                             Available at
-                                                                                                                                                                             [www.fta.dot.gov](http://www.fta.dot.gov/civilrights/12325.html) 
-
-  ----------------------------------------------------------------------------------------------------------------------------- -------------- -------------- -------------- -------------------------------------------------------------------
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="grid-col-auto" style="width:25%;">
+      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada3.jpg" alt="train" class="img-grid-left">
+    </div>
+    <div class="grid-col-fill" style="padding: 10px;">
+      <span class="grid-line-left text-italic">DOT Regulation for Transportation Services</span>
+      <span class="grid-line-left">49 CFR Part 37</span>
+      <span class="grid-line-left">Available at <a href="http://www.fta.dot.gov/civilrights/12325.html">www.fta.dot.gov</a></span>
+    </div>
+  </div>
+</div>
 
 ### ADA Accessibility Standards
 
-+-----------------------------------+-----------------------------------+
-|                                   | ![ADA-ABA Accessibility           |
-|                                   | Guidelines                        |
-|                                   | (cover)](https://www.access-      |
-|                                   | board.gov/images/guidelines_stand |
-|                                   | ards/Buildings_Sites/guides/chapt |
-|                                   | er1-ada/1ada-aba.jpg){width="115" |
-|                                   | height="151"}                     |
-+-----------------------------------+-----------------------------------+
-|                                   | *DOJ's and DOT's ADA Standards    |
-|                                   | are based on the Board's ADA      |
-|                                   | Accessibility Guidelines          |
-|                                   | (2004).*\                         |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
+<div class="img-right img-medium">
+<img alt="ADA-ABA Accessibility Guidelines cover" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada-aba.jpg">
+<p display="inline-block">DOJ's and DOT's ADA Standards are based on the Board's ADA Accessibility Guidelines (2004).</p>
+</div> 
 
-\
 Both DOJ's and DOT's ADA Standards are based on minimum accessibility
 guidelines adopted by the Access Board in 2004, known as the ADA
 Accessibility Guidelines. As a result, these two sets of standards are
@@ -204,7 +190,7 @@ very similar for the most part. However, each contains additional
 requirements that are specific to the facilities covered by the
 respective agencies.
 
-**DOJ's 2010 ADA Standards for Accessible Design**
+#### DOJ's 2010 ADA Standards for Accessible Design
 
 DOJ's 2010 ADA Standards for Accessible Design became effective March
 15, 2012 and apply to all facilities covered by the ADA except public
@@ -222,24 +208,6 @@ regulatory provisions in 28 CFR part 36, subpart D, and appropriate
 sections of the Access Board's 2004 ADA Accessibility Guidelines (36 CFR
 part 1191, appendices B and D).
 
-+-----------------------------------+-----------------------------------+
-|                                   | ![DOJ 2010 ADA Standards          |
-|                                   | (                                 |
-|                                   | cover)](https://www.access-board. |
-|                                   | gov/images/guidelines_standards/B |
-|                                   | uildings_Sites/guides/chapter1-ad |
-|                                   | a/1doj-standards.jpg){width="125" |
-|                                   | height="161"}                     |
-+-----------------------------------+-----------------------------------+
-|                                   | *DOJ's 2010 ADA Standards are     |
-|                                   | available on DOJ's ADA website    |
-|                                   | at*                               |
-|                                   | [www                              |
-|                                   | .ada.gov](http://www.ada.gov)*.*\ |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-
 DOJ's 2010 Standards include provisions not included in DOT's standards
 that supplement or modify requirements related to scoping for:
 
@@ -250,8 +218,12 @@ that supplement or modify requirements related to scoping for:
 -   social service establishments (§233)
 -   housing provided by state or local governments for sale to
     individual owners (§233).
+<div class="img-right img-medium">
+<img alt="DOJ 2010 ADA Standards cover" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1doj-standards.jpg">
+<p display="inline-block">DOJ's 2010 ADA Standards are available on <a href="https://www.ada.gov">DOJ's ADA website</a>.</p>
+</div> 
 
-**DOT's ADA Standards (2006)**
+#### DOT's ADA Standards (2006)
 
 DOT's ADA Standards apply to facilities used by state and local
 governments to provide designated public transportation and to commuter
@@ -265,7 +237,7 @@ include unique provisions concerning:
 -   bus boarding and alighting areas (§810.2.2)
 -   rail station platform (§810.5.3).
 
-**How the ADA Standards are Enforced**
+### How the ADA Standards are Enforced
 
 DOJ's and DOT's ADA Standards are not a building code, nor are they
 enforced like one. They constitute design and construction requirements
@@ -280,7 +252,9 @@ indicating that ADA compliance is not part of their approval process).
 Entities covered by the law ultimately are responsible for ensuring
 compliance with the ADA Standards in new construction and alterations.
 
-**State and Local Access Codes**
+#### State and Local Access Codes
+![code
+book]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1codes.png){: .float-right .thumbnail}
 
 Building design and construction, including safety and accessibility, is
 largely regulated and enforced by states and local jurisdictions. The
@@ -296,10 +270,6 @@ jurisdiction (or a building inspection) does not ensure ADA compliance.
 Although local building departments sometimes can waive building code
 requirements, a local waiver does not affect the entity's obligation to
 comply with the ADA Standards.
-
-**![code
-book]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1codes.png){width="125"
-height="179"}State or Local Code Certification**
 
 The ADA sets up a voluntary process through which a state code can be
 certified by DOJ as meeting or exceeding the ADA Standards that apply to
@@ -318,9 +288,9 @@ from DOJ and its website at
 not certify codes as compliant with its ADA Standards for transportation
 facilities.
 
-**![IBC (2003) and ANSI A117.1 Standard
-(covers)]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1ibc.jpg){width="175"
-height="205"}Model Building Codes and Industry Standards**
+#### Model Building Codes and Industry Standards
+![IBC (2003) and ANSI A117.1 Standard
+(covers)]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ibc.jpg){: .float-right .thumbnail}
 
 The Access Board's 2004 ADA Accessibility Guidelines, upon which the
 current ADA Standards are based, have been harmonized to a significant
@@ -348,16 +318,17 @@ accessible means of egress.
 
 ### Chapter 1: Application and Administration
 
-### Purpose \[[§101](../ada-standards/chapter-1-application-and-administration.html#101%20Purpose)\]
+#### Purpose 
+[[§101](../ada-standards/chapter-1-application-and-administration.html#101%20Purpose)]
 
 The ADA Standards apply to new construction, alterations, and additions.
 While the scoping and technical requirements for new construction also
 apply to alterations and additions, provisions and exceptions specific
 to alterations or additions are provided throughout the document.
 
-**![office
-chair]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1chair.jpg){width="150"
-height="172"}Furnishings and Equipment**
+##### Furnishings and Equipment
+![office
+chair]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1chair.jpg){: .float-right .thumbnail}
 
 The DOJ and DOT ADA Standards, like most building requirements and
 codes, apply to those elements that are fixed or built-in. Moveable
@@ -369,9 +340,22 @@ with disabilities effective access to health services. In addition,
 placement of non-fixed elements can affect the accessibility of an area
 by encroaching into accessible routes and clearances.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![design compass]({{ site.baseurl }}/images/ada-aba/guides/compass.jpg){width="35" height="63"}**Recommendation: **Design spaces so that planned furnishings and moveable elements are accommodated without encroaching into accessible routes and clearances. It is also helpful to consider relevant requirements in the standards when specifying or acquiring moveable furnishings, such as tables, systems furniture, and vending machines to ensure their usability.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="grid-col-auto">
+      <img src="{{ site.baseurl }}{{ page.image-directory }}compass.jpg" alt="design compass" class="img-grid">
+    </div>
+    <div class="grid-col-fill">
+      <span class="grid-line-left text-italic">Recommendation:</span>
+    </div>
+  </div>
+  <div class="grid-row">
+    <div class="grid-col-fill"  style="padding: 10px;">      
+      <span class="grid-line-left">Design spaces so that planned furnishings and moveable elements are accommodated without encroaching into accessible routes and clearances. It is also helpful to consider relevant requirements in the standards when specifying or acquiring moveable furnishings, such as tables, systems furniture, and vending machines to ensure their usability.</span>
+    </div>
+  </div>
+</div>
+
 
 Unless specifically permitted, access features required by the ADA
 Standards must be fixed or built-in even though portable alternatives
@@ -381,7 +365,7 @@ removing barriers to existing places of public accommodation, portable
 solutions may be permitted in some cases where permanent solutions are
 not readily achievable).
 
-**Maintenance of Accessible Features**
+##### Maintenance of Accessible Features
 
 The ADA Standards address the design, but not the maintenance, of
 building elements and features. However, it is important that accessible
@@ -391,11 +375,11 @@ to be accessible be maintained in operable working condition, except for
 isolated or temporary interruptions in service due to maintenance or
 repairs.
 
-### Dimensions for Adults and Children \[[§102](../ada-standards/chapter-1-application-and-administration.html#102%20Dimensions%20for%20Adults%20and%20Children)\]
+#### Dimensions for Adults and Children 
+[[§102](../ada-standards/chapter-1-application-and-administration.html#102%20Dimensions%20for%20Adults%20and%20Children)]
 
 ![girl using
-wheelchair]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1girl.jpg){width="175"
-height="250"}
+wheelchair]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1girl.jpg){: .float-right .thumbnail}
 
 The ADA Standards provide technical specifications for building elements
 designed specifically for use by children 12 and younger. These
@@ -427,7 +411,8 @@ some restrooms at facilities such as schools and children's museums, it
 may be a good idea to provide a wheelchair accessible toilet compartment
 for use by adults and another for use by children.
 
-###  Equivalent Facilitation \[[§103](../ada-standards/chapter-1-application-and-administration.html#103%20Equivalent%20Facilitation)\]
+####  Equivalent Facilitation 
+[[§103](../ada-standards/chapter-1-application-and-administration.html#103%20Equivalent%20Facilitation)]
 
 The ADA Standards allow alternatives to specified requirements that
 provide substantially equivalent or greater accessibility and usability
@@ -471,18 +456,17 @@ equivalent facilitation alternatives under DOJ's ADA regulations, it is
 good practice to:
 
 -   base decisions on sound independent research and reliable data
--   involve disability groups and individuals with a variety of
-    disabilities in the process
--   document the effort thoroughly, including information and feedback
-    from consulted sources
+-   involve disability groups and individuals with a variety of disabilities in the process
+-   document the effort thoroughly, including information and feedback from consulted sources
 
-###  Conventions \[[§104](../ada-standards/chapter-1-application-and-administration.html#104%20Conventions)\]
+####  Conventions 
+[[§104](../ada-standards/chapter-1-application-and-administration.html#104%20Conventions)]
 
 Most dimensions in the ADA Standards are specified as a minimum,
 maximum, or as a range. In a few areas, absolute dimensions are
 specified.
 
-**Construction and Manufacturing Tolerances**
+##### Construction and Manufacturing Tolerances
 
 A tolerance is an unintended, but permitted (i.e., "tolerated"),
 variation from a specified dimension resulting from the process of
@@ -501,36 +485,43 @@ specified as a range.
 
 **Grab Bar Diameter and Clearance**
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Grab bar diameter 1 1/4\" - 2\" (tolerance not allowed) and knuckle clearance 1 1/2\" absolute (tolerance allowed)]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1gbar.jpg){width="350" height="278"}
-  Construction or manufacturing tolerances are permitted for the required clearance at grab bars since this is an absolute dimension (1½ inch), but they are not permitted for the grab bar diameter because a range is specified (1¼" to 2").
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ![Grab bar diameter 1 1/4\" - 2\" (tolerance not allowed) and knuckle clearance 1 1/2\" absolute (tolerance allowed)]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1gbar.jpg){: .img-large}  
+  <div class="img-large-caption">
+  Construction or manufacturing tolerances are permitted for the required clearance at grab bars since this is an absolute dimension (1½ inch), but they are not permitted for the grab bar diameter because a range is specified (1¼" to 2").</div>
 
-**Calculation of Percentages**
 
-Some provisions in the ADA Standards specify a minimum number of
-elements or spaces as a minimum percentage or proportion. Rounding up to
-the next greater whole number is required where fractions or remainders
-occur. For example, if the standards require access to at least 5% of an
-element and a total of 25 are provided, at least 2 must be accessible
+##### Calculation of Percentages
+
+Some provisions in the ADA Standards specify a minimum number of elements or spaces as a minimum percentage or proportion. Rounding up to the next greater whole number is required where fractions or remainders occur. For example, if the standards require access to at least 5% of an element and a total of 25 are provided, at least 2 must be accessible
 (rounding up from 1.25).
 
-In the case of specifications for dimensions or sizes that involve
-percentages or ratios, rounding down for values less than one half is
-allowed.
+In the case of specifications for dimensions or sizes that involve percentages or ratios, rounding down for values less than one half is allowed.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![design compass]({{ site.baseurl }}/images/ada-aba/guides/compass.jpg){width="35" height="63"}**Recommendation:  **Dimensions expressed as a range are intended to accommodate deviations in the field. It is good practice to specify accordingly. For example, for the location of wheelchair accessible water closets (16" -- 18" centerline from side walls or partitions), specifying to the midpoint of the range (17") will accommodate any construction variations up to 1" plus or minus. For dimensions not expressed as an absolute ("X maximum" or "Y minimum"), specify in a manner that accommodates the expected tolerance within the required dimensions by subtracting the tolerance from the required maximum or adding it to the required minimum.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="grid-col-auto">
+      <img src="{{ site.baseurl }}{{ page.image-directory }}compass.jpg" alt="design compass" class="img-grid">
+    </div>
+    <div class="grid-col-fill">
+      <span class="grid-line-left text-italic">Recommendation:</span>
+    </div>
+  </div>
+  <div class="grid-row">
+    <div class="grid-col-fill"  style="padding: 10px;">      
+      <span class="grid-line-left">Dimensions expressed as a range are intended to accommodate deviations in the field. It is good practice to specify accordingly. For example, for the location of wheelchair accessible water closets (16" -- 18" centerline from side walls or partitions), specifying to the midpoint of the range (17") will accommodate any construction variations up to 1" plus or minus. For dimensions not expressed as an absolute ("X maximum" or "Y minimum"), specify in a manner that accommodates the expected tolerance within the required dimensions by subtracting the tolerance from the required maximum or adding it to the required minimum.</span>
+    </div>
+  </div>
+</div>
 
-**Figures in the Standards**
+##### Figures in the Standards
 
 Figures in the ADA Standards are provided only for informational
 purposes to illustrate dimensions and requirements contained in the
 text. They do not establish enforceable requirements unless specifically
 stated otherwise.
 
-### Referenced Standards \[[§105](../ada-standards/chapter-1-application-and-administration.html#105%20Referenced%20Standards)\]
+#### Referenced Standards 
+[[§105](../ada-standards/chapter-1-application-and-administration.html#105%20Referenced%20Standards)]
 
 The ADA Standards reference industry standards for certain elements,
 including automated doors (ANSI/BHMA standards), means of egress (IBC),
@@ -545,14 +536,12 @@ provision for "equivalent facilitation" if it is comparable to, or
 provides greater accessibility than, the editions currently referenced
 by the ADA Standards.
 
-###  Definitions \[[§106](../ada-standards/chapter-1-application-and-administration.html#106%20Definitions)\]
+####  Definitions 
+[[§106](../ada-standards/chapter-1-application-and-administration.html#106%20Definitions)]
 
-Many important terms used in the ADA Standards are defined in section
-106. DOJ's and DOT's regulations also include definitions that are
-relevant to use of the ADA Standards. For example, DOJ's regulations
-define entities covered by the ADA, such as "places of public
-accommodation," or that are exempt from the ADA, such as "religious
-entities."
+Many important terms used in the ADA Standards are defined in section 106. DOJ's and DOT's regulations also include definitions that are
+relevant to use of the ADA Standards. For example, DOJ's regulations define entities covered by the ADA, such as "places of public
+accommodation," or that are exempt from the ADA, such as "religious entities."
 
 Defined terms in referenced standards govern when those terms are not
 defined in either the ADA Standards or regulations. Section 106.3 of the
@@ -561,13 +550,9 @@ ADA Standards provides that terms not specifically defined in section
 standards, shall be defined by collegiate dictionaries in the sense that
 the context implies.
 
-
-
 ###  Common Questions
-### ![question mark]({{ site.baseurl }}/images/ada-aba/guides/ques.jpg){width="100" height="100"}
- 
-
-*How are the ADA standards developed?*
+#### How are the ADA standards developed?
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail}
 
 The ADA charges the Access Board with the responsibility of developing
 guidelines for accessible design that are intended to serve as the basis
@@ -584,16 +569,13 @@ the public, including their impact on small businesses. The same process
 must be followed for changes and updates to the guidelines and
 standards.
 
-*Do the ADA Standards override state or local requirements?*
+#### Do the ADA Standards override state or local requirements?
 
 No, both the ADA Standards and all applicable state and local
 requirements must be satisfied. Where there is a difference, the
 standard that provides greater accessibility must be followed.
 
-*If a state or local authority interprets an accessibility requirement
-differently than how a comparable requirement in the ADA Standards is
-interpreted under the ADA (or waives that requirement completely), does
-this have any bearing on ADA compliance?*
+#### If a state or local authority interprets an accessibility requirement differently than how a comparable requirement in the ADA Standards is interpreted under the ADA (or waives that requirement completely), does this have any bearing on ADA compliance?
 
 No. While state or local authorities may interpret or waive their own
 state or local accessibility codes as they see fit, those decisions have
@@ -604,8 +586,7 @@ even where comparable requirements in a state or local code are
 interpreted or applied differently or are waived altogether by the
 appropriate state or local official.
 
-*Is there an official review and approval process under the ADA for
-alternatives pursued as an "equivalent facilitation"?*
+#### Is there an official review and approval process under the ADA for alternatives pursued as an "equivalent facilitation"?
 
 There is an official review and approval process under the ADA only for
 transportation facilities (and vehicles) subject to DOT's ADA
@@ -620,8 +601,7 @@ or title III investigation, compliance review, or lawsuit, the covered
 entity would bear the burden of proving that any alternative design
 provides equal or greater access.
 
-*Can later editions of the industry standards or building codes
-referenced by the ADA Standards be used?*
+#### Can later editions of the industry standards or building codes referenced by the ADA Standards be used?
 
 The specific editions of the industry standards referenced by the ADA
 Standards are to be followed until DOJ or DOT revises its ADA Standards
@@ -635,76 +615,30 @@ the referenced editions.
 
 Technical assistance and additional guidance on using the ADA Standards
 is available from the:
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <img class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/abseal.jpg" alt="Access Board seal">
+      <span class="grid-line bold">US Access Board</span>
+      <span class="grid-line">(800) 872-2253 (voice)</span>
+      <span class="grid-line">(800) 993-2822 (TTY)</span>
+      <span class="grid-line"><a href="https://www.access-board.gov">www.access-board.gov</a></span>
+    </div>
+    <div class="tablet:grid-col">
+      <img class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1doj.jpg" alt="DOJ seal">
+      <span class="grid-line bold">Department of Justice</span>
+      <span class="grid-line">(800) 514-0301 (voice)</span>
+      <span class="grid-line">(800) 514-0383 (TTY)</span>
+      <span class="grid-line"><a href="https://www.ada.gov">www.ada.gov</a></span>
+    </div>
+    <div class="tablet:grid-col">
+      <img class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1dot.png" alt="DOJ seal">
+      <span class="grid-line bold">Federal Transit Administration</span>
+      <span class="grid-line">(888) 446-4511</span>
+      <span class="grid-line"><a href="https://www.fta.gov/civilrights/12325.html">www.fta.dot.gov</a></span>
+    </div>
+  </div>
+</div>
 
- ![Access Board
-seal]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/abseal.jpg){width="90"
-height="89"}
-:::
 
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-![DOJ
-seal]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1doj.jpg){width="100"
-height="99"} 
-
- 
-
- 
-
- 
-
-![DOT
-seal]({{ site.baseurl }}/images/ada-aba/guides/chapter1-ada/1dot.png){width="100"
-height="99"}
-
-**U.S. Access Board**\
-(800) 872-2253 (voice)\
-(800) 993-2822 (TTY)\
-[This email address is being protected from spambots. You need
-JavaScript enabled to view it.]{#cloakfb03a2b6bc64cb37dc41461bb211a15c}
-
-\
-[www.access-board.gov](../../../../index.html) 
-
- 
-
- 
-
- 
-
- 
-
- 
-
- 
-
-**Department of Justice**\
-(800) 514-0301 (voice)\
-(800) 514-0383 (TTY)\
-[www.ada.gov](http://www.ada.gov) 
-
- 
-
- 
-
- 
-
-****Federal Transit Administration**\
-**(888) 446-4511\
-[This email address is being protected from spambots. You need
-JavaScript enabled to view it.]{#cloak66e8cd494fe9828a48466de6c0376ff0}
-
-\
-[www.fta.dot.gov](http://www.fta.dot.gov/civilrights/12325.html)  
-
-[Back to top](chapter-1-using-the-ada-standards.html#top) 
+[Back to top](#top) 
