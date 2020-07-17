@@ -1,10 +1,9 @@
 ---
 title: "Chapter 5: General Site and Building Elements"
-layout: standards
-collection-folder: aba
 order-number: 7
 version: original
 ---
-{% assign chapter = site.ada %} 
-{% assign chapter = chapter[5] %} <!-- This works but is not ideal. Chapter [5]  refer to the 6th item in the ADA collection because you start counting with zero. This just happens to be chapter 3, but if additional content is added  to the ADA collection it might not be -->
-{{ chapter.content }}
+{% assign ada-chapters = site.ada | where: "title","Chapter 5: General Site and Building Elements" %}
+{% for chapter in ada-chapters %}
+  {{chapter.content}}
+{% endfor %}

@@ -76,31 +76,27 @@ primary_navigation:
   - name: Guidelines & Standards
     url: /gs/
     children:
-      - name: Communications & IT
+      - name: Communications & IT (Section 508)
         url: /gs/ict.html
       - name: Americans with Disabilities Act (ADA)
         url: /ada/
-      - name: Guide to the ADA
-        url: /ada/guides/
       - name: Architectural Barriers Act (ABA)
         url: /aba/
-      - name: Guide to the ABA
-        url: /aba/guides/
       - name: Public Rights-of-Way
         url: /prowag/
-      - name: Buildings & Sites
-        url: /gs/buildings.html
-      - name: Recreation Facilities
-        url: /gs/recreation.html
-      - name: Streets & Sidewalks
-        url: /gs/streets-sidewalks.html
-      - name: Transportation
-        url: /gs/transportation.html
-      - name: Health Care
-        url: /gs/health_care.html
+      - name: Vehicles
+        url: /ada/vehicles/
+      - name: Passenger Vessels
+        url: /pvag/
+      - name: Medical Diagnostic Equipment (MDE)
+        url: /mde/
+      - name: Learn more
+        url: /guidelines-&-standards/learn-more/
+      - name: Archive
+        url: /guidelines-&-standards/archive/
   - name: Training
     url: /training/
-  - name: Enforcement
+  - name: File an ABA complaint
     url: /enforcement/
   - name: Research
     url: /research/
@@ -143,12 +139,25 @@ collections:
   prowag-shared-use:
     output: true
     permalink: /prowag/:path/
+  prowag-rulemaking:
+    output: true
+    permalink: /prowag/rulemaking:path/
+  prowag-rulemaking:
+    output: true
+    permalink: /prowag/rulemaking/:path/
   ada-ibc-comparison:
     output: true
     permalink: /ada/background/ada-ibc-comparison/:path/
   ada-background:
     output: true
     permalink: /ada/background/:path/
+  ada-vehicles:
+    output: true
+    permalink: /ada/vehicles/:path/
+  ada-vehicles-update-buses-and-vans:
+    output: true
+    permalink: /ada/vehicles/update/buses-and-vans/:path/
+
 permalink: pretty
 
 defaults:
@@ -181,6 +190,7 @@ defaults:
       layout: standards
       file-directory: /files/ada-aba/
       image-directory: /images/ada-aba/standards/
+      right-sidenav: aba-right-sidenav.html
   - scope:
       path: ""
       type: "aba-guides"
@@ -190,6 +200,7 @@ defaults:
       layout: standards
       file-directory: /files/ada-aba/guides/aba/
       image-directory: /images/ada-aba/guides/
+      right-sidenav: aba-right-sidenav.html
   - scope:
       path: ""
       type: "ada-background"
@@ -209,7 +220,33 @@ defaults:
       layout: standards
       file-directory: /files/prowag/
       image-directory: /images/prowag/
-
+  - scope:
+      path: ""
+      type: "prowag-rulemaking"
+    values:
+      collection-title: "Public Rights-of-Way Accessibility Guideliness - Rulemaking"
+      collection-folder: prowag-rulemaking
+      layout: standards
+      file-directory: /files/prowag/
+      image-directory: /images/prowag/
+  - scope:
+      path: ""
+      type: "ada-vehicles"
+    values:
+      collection-title: "ADA Accessibility Guidelines for Vehicles"
+      collection-folder: ada-vehicles
+      layout: standards
+      file-directory: /files/vehicles/
+      image-directory: /images/vehicles/ 
+  - scope:
+      path: ""
+      type: "ada-vehicles-update-buses-and-vans"
+    values:
+      collection-title: "ADA Accessibility Guidelines for Vehicles - Updated"
+      collection-folder: ada-vehicles-update-buses-and-vans
+      layout: standards
+      file-directory: /files/vehicles/
+      image-directory: /images/vehicles/ 
 markdown: kramdown
 plugins:
   - jekyll-feed

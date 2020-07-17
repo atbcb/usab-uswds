@@ -87,7 +87,7 @@ $theme-hero-image: asset_path("board-office.jpg");
   height: auto;
   @include u-margin(2);
 
-  box {
+&-box {
     @extend .thumbnail;
     @include u-border(2px);
     @include u-radius('lg');
