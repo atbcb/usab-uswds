@@ -84,6 +84,10 @@ primary_navigation:
         url: /aba/
       - name: Public Rights-of-Way
         url: /prowag/
+      - name: Vehicles
+        url: /ada/vehicles/
+      - name: Passenger Vessels
+        url: /pvag/
       - name: Medical Diagnostic Equipment (MDE)
         url: /mde/
       - name: Learn more
@@ -135,12 +139,25 @@ collections:
   prowag-shared-use:
     output: true
     permalink: /prowag/:path/
+  prowag-rulemaking:
+    output: true
+    permalink: /prowag/rulemaking:path/
+  prowag-rulemaking:
+    output: true
+    permalink: /prowag/rulemaking/:path/
   ada-ibc-comparison:
     output: true
     permalink: /ada/background/ada-ibc-comparison/:path/
   ada-background:
     output: true
     permalink: /ada/background/:path/
+  ada-vehicles:
+    output: true
+    permalink: /ada/vehicles/:path/
+  ada-vehicles-update-buses-and-vans:
+    output: true
+    permalink: /ada/vehicles/update/buses-and-vans/:path/
+
 permalink: pretty
 
 defaults:
@@ -203,7 +220,33 @@ defaults:
       layout: standards
       file-directory: /files/prowag/
       image-directory: /images/prowag/
-
+  - scope:
+      path: ""
+      type: "prowag-rulemaking"
+    values:
+      collection-title: "Public Rights-of-Way Accessibility Guideliness - Rulemaking"
+      collection-folder: prowag-rulemaking
+      layout: standards
+      file-directory: /files/prowag/
+      image-directory: /images/prowag/
+  - scope:
+      path: ""
+      type: "ada-vehicles"
+    values:
+      collection-title: "ADA Accessibility Guidelines for Vehicles"
+      collection-folder: ada-vehicles
+      layout: standards
+      file-directory: /files/vehicles/
+      image-directory: /images/vehicles/ 
+  - scope:
+      path: ""
+      type: "ada-vehicles-update-buses-and-vans"
+    values:
+      collection-title: "ADA Accessibility Guidelines for Vehicles - Updated"
+      collection-folder: ada-vehicles-update-buses-and-vans
+      layout: standards
+      file-directory: /files/vehicles/
+      image-directory: /images/vehicles/ 
 markdown: kramdown
 plugins:
   - jekyll-feed
