@@ -21,6 +21,19 @@ $theme-hero-image: asset_path("board-office.jpg");
   background-color: blue;
 }
 
+.thumbnail  {
+  width: 10%;
+  height: auto;
+  @include u-margin(2);
+
+  &-box {
+    @extend .thumbnail;
+    @include u-border(2px);
+    @include u-radius('lg');
+    @include u-padding(2);
+  }
+}
+
 // sticky fill js
 .sticky {
   position: -webkit-sticky;
