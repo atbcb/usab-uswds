@@ -157,6 +157,13 @@ collections:
   ada-vehicles-update-buses-and-vans:
     output: true
     permalink: /ada/vehicles/update/buses-and-vans/:path/
+  ada-vehicles-update-rail-cars:
+    output: true
+    permalink: /ada/vehicles/update/rail-cars/:path/
+  mde:
+    output: true
+    permalink: /mde/:path/
+
 
 permalink: pretty
 
@@ -242,11 +249,31 @@ defaults:
       path: ""
       type: "ada-vehicles-update-buses-and-vans"
     values:
-      collection-title: "ADA Accessibility Guidelines for Vehicles - Updated"
+      collection-title: "Buses and Vans Update"
       collection-folder: ada-vehicles-update-buses-and-vans
       layout: standards
       file-directory: /files/vehicles/
       image-directory: /images/vehicles/ 
+  - scope:
+      path: ""
+      type: "ada-vehicles-update-rail-cars"
+    values:
+      collection-title: "Rail Cars Update"
+      collection-folder: ada-vehicles-update-rail-cars
+      layout: standards
+      file-directory: /files/vehicles/
+      image-directory: /images/vehicles/ 
+  - scope:
+      path: ""
+      type: "mde"
+    values:
+      collection-title: "Medical Diagnostic Equipment Accessibility Standards"
+      collection-folder: mde
+      layout: standards
+      file-directory: /files/mde/
+      image-directory: /images/mde/ 
+
+
 markdown: kramdown
 plugins:
   - jekyll-feed
