@@ -18,7 +18,8 @@ Standards adopted to implement titles II and III of the ADA. See the
 introduction to the guide on "ADA Scoping: New Construction" for further
 discussion.
 
-### []{#2021}General \[[§202.1](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)\]
+### General 
+[[§202.1](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
 
 Additions and alterations undertaken at existing facilities are covered
 by the ADA Standards. The extent of application is largely determined by
@@ -27,7 +28,8 @@ spaces that are altered or added. Additional requirements apply to
 projects that affect or could affect the usability of, or access to, an
 area containing a primary function.
 
-### []{#2022}Additions \[[§202.2](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)\]
+### Additions
+[[§202.2](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
 
 Projects that increase, expand, or extend a facility's gross floor area
 or height of a facility are considered additions (as defined in §106.5)
@@ -36,8 +38,7 @@ construction. Existing elements and spaces affected by an addition are
 treated as alterations and qualify for certain allowances or exceptions
 that are not permitted in new construction.
 
-### **Application of the Standards in Additions** {#application-of-the-standards-in-additions style="text-align: center;"}
-
+#### Application of the Standards in Additions
  ![Existing facility and addition. Figure notes: Existing portions of a
 facility affected by an addition are treated as alterations. Newly built
 portions added to an existing facility are treated as new construction.
@@ -48,7 +49,8 @@ comply (except as needed to provide an accessible path of travel to
 primary function areas affected by the addition).
 ]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a2.jpg)
 
-### []{#2023}Alterations \[[§202.3](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)\]
+### Alterations
+[[§202.3](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
 
 Alterations are defined in the standards (§106.5) as "a change in a
 building or facility that affects or could affect the usability of a
@@ -71,7 +73,7 @@ but alterations made to areas containing a primary function (a major
 activity for which a facility is intended) also require an accessible
 path of travel.
 
-### **Application of the Standards in Alterations** {#application-of-the-standards-in-alterations style="text-align: center;"}
+#### Application of the Standards in Alterations
 
 ![Floor plan with alterations to non-primary function area and to
 primary function area. Figure notes: Altered elements and spaces are
@@ -84,9 +86,6 @@ accessible path of travel to the extent that it is not
 extend to site arrival points, including
 parking.]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a3.jpg) 
 
-\
-\
- \
 If alterations are limited only to elements in a room or space, then the
 standards apply only to the elements altered. Similarly, where spaces
 are altered, the standards apply to those spaces that are altered. If a
@@ -94,24 +93,19 @@ room or space is completely altered (or built new as part of an
 alteration), the entire room or space is fully subject to the standards.
 Compliance is required to the extent that it is technically feasible.
 
-### **Example: Toilet Room Alterations** {#example-toilet-room-alterations style="text-align: center;"}
+##### Example: Toilet Room Alterations
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Figure of toilet room with altered elements highlighted: toilet, grab bars, faucet controls, and mirror. ]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a5a.jpg){width="450" height="311"}
+  ![Figure of toilet room with altered elements highlighted: toilet, grab bars, faucet controls, and mirror. ]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a5a.jpg)
   *In a restroom project involving alterations to the toilet, grab bars, faucet controls, and mirror, the standards apply to these elements but not to those that remain unaltered. In more extensive projects where additional elements are altered, application of the standards is greater, commensurate with the scope of work.*
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![design compass]({{ site.baseurl }}/images/ada-aba/guides/compass.jpg){width="35" height="63"}**Recommendation:  **While only those elements altered are required to comply, it is advisable to maximize opportunities for accessibility in alterations. Alteration of multiple elements in a room or space may provide a cost-effective opportunity to make the entire room or space fully accessible.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  ![design compass]({{ site.baseurl }}/images/ada-aba/guides/compass.jpg)**Recommendation:  **While only those elements altered are required to comply, it is advisable to maximize opportunities for accessibility in alterations. Alteration of multiple elements in a room or space may provide a cost-effective opportunity to make the entire room or space fully accessible.
 
 The standards do not require alterations to exceed the level of access
 required in new construction. For example, spaces that are exempt in new
 construction are also exempt in alterations.
 
-**Prohibited Reduction in Access**
+#### Prohibited Reduction in Access
 
 New construction requirements also set the baseline for any alteration
 that would effectively reduce existing accessibility. Alterations that
@@ -126,8 +120,7 @@ Elements that are not required by the standards to be provided for
 accessibility, such as phones, can be completely removed from a site.
 
 **![Page of the standards and magnifying
-glass]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a5.jpg){width="250"
-height="220"}Special Provisions for Alterations**
+glass]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a5.jpg)Special Provisions for Alterations**
 
 The standards apply the same requirements used in new construction to
 alterations but also include provisions unique to alterations. Some
@@ -137,54 +130,31 @@ conditions. Located throughout the standards at the relevant scoping or
 technical requirement, these provisions and exceptions are distinguished
 by references to "alterations" or "existing facilities."
 
-\
-**Examples of Provisions for Alterations**
+##### Examples of Provisions for Alterations
 
-  -------------------------------------------------------------------------------------------------------------------------- -----------------------------------
-   ![escalator                                                                                                               **Vertical Access **\
-  symbol]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a6.jpg){width="50"    An accessible route to stories and
-  height="50"}                                                                                                               mezzanines is required in
-                                                                                                                             alterations (or additions) where
-                                                                                                                             stairs or escalators are added
-                                                                                                                             where none existed previously and
-                                                                                                                             major structural modifications are
-                                                                                                                             necessary (§206.2.3.1) (or as
-                                                                                                                             needed to provide an accessible
-                                                                                                                             path of travel to an altered
-                                                                                                                             primary function area if not
-                                                                                                                             disproportionate to the cost
-                                                                                                                             (§202.4)), unless the building is
-                                                                                                                             exempt from the requirement for
-                                                                                                                             access between stories.\
-                                                                                                                             \
+  
+   ![escalator symbol]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a6.jpg) 
+  **Vertical Access**
+  An accessible route to stories and mezzanines is required in alterations (or additions) where stairs or escalators are added where none existed previously and major structural modifications are necessary (§206.2.3.1) (or as needed to provide an accessible path of travel to an altered primary function area if not disproportionate to the cost (§202.4)), unless the building is exempt from the requirement for access between stories.
 
-   ![elevator                                                                                                                **Elevators**\
-  symbol]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a7.jpg){width="50"    If elevators are altered, all cars
-  height="50"}                                                                                                               programmed to respond to the same
-                                                                                                                             call control must be similarly
-                                                                                                                             modified (§206.6.1).
+   ![elevator symbol]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a7.jpg)
+  **Elevators**
+  If elevators are altered, all cars programmed to respond to the same call control must be similarly modified (§206.6.1).
 
-   ![fire alarm                                                                                                              **Fire Alarms**\
-  symbol]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a8.jpg){width="50"    Compliant fire alarm systems are
-  height="52"}                                                                                                               required only in alterations where
-                                                                                                                             fire alarm systems are installed
-                                                                                                                             new, replaced, or upgraded (§215.1,
-                                                                                                                             Ex. 1).
+   ![fire alarm symbol]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a8.jpg)
+  **Fire Alarms**
+  Compliant fire alarm systems are required only in alterations where fire alarm systems are installed new, replaced, or upgraded (§215.1, Ex. 1).
 
-   ![ramp                                                                                                                    **Ramps**\
-  symbol]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a9.jpg){width="50"    Slightly steeper running slopes are
-  height="50"}                                                                                                               permitted for short ramps (maximum
-                                                                                                                             6" rise) where space is limited
-                                                                                                                             (§405.2, Ex.).
+   ![ramp symbol]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a9.jpg)
+   **Ramps**
+  Slightly steeper running slopes are permitted for short ramps (maximum 6" rise) where space is limited (§405.2, Ex.).
 
-  ![stair                                                                                                                    **Stairs **\
-  symbol]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a10.jpg){width="50"   Full handrail extensions at stairs
-  height="50"}                                                                                                               are not required where they would
-                                                                                                                             project hazardously into
-                                                                                                                             circulation paths (§505.10, Ex. 3).
-  -------------------------------------------------------------------------------------------------------------------------- -----------------------------------
+  ![stair symbol]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a10.jpg)
+  **Stairs**
+  Full handrail extensions at stairs are not required where they would project hazardously into circulation paths (§505.10, Ex. 3).
+  
 
-**Technical Infeasibility**
+#### Technical Infeasibility
 
 Compliance in an alteration is not required where it is "technically
 infeasible." The term is defined as "something that has little
@@ -198,12 +168,10 @@ with the minimum requirements."
 Where technical infeasibility is encountered, compliance is still
 required to the maximum extent technically feasible.
 
-### **Example of Technical Infeasibility** {#example-of-technical-infeasibility style="text-align: center;"}
+##### Example of Technical Infeasibility
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![Floor plan shows toilet room constrained in size by corridor./ min. egress width, stair tower, and elevator and freight elevator shafts]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a11.jpg){width="600" height="478"}
+  ![Floor plan shows toilet room constrained in size by corridor./ min. egress width, stair tower, and elevator and freight elevator shafts]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a11.jpg)
   *It may be technically infeasible in an alteration to enlarge a toilet room confined in size by structural supports, elevator shafts, mechanical rooms and chases, stairways, or required egress routes not affected by the project. In this case, the toilet room must be sized and other requirements, including those for plumbed fixtures, must be met to the maximum extent technically feasible. However, the concept of technical infeasibility remains relative to the planned scope of work. If the entire building is significantly renovated or gutted, constraints of this type would likely not exist.*
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 Other examples where compliance could potentially be technically
 infeasible include:
@@ -221,7 +189,8 @@ infeasible include:
 
  
 
-### []{#2024}Alterations Affecting Primary Function Areas \[[§202.4](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)\]
+### Alterations Affecting Primary Function Areas
+[[§202.4](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
 
 Additional requirements apply when alterations are made to areas
 containing a "primary function," which is a major activity intended for
@@ -239,9 +208,9 @@ regulations](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=d315855e2f2c9f94097
 contain detailed provisions on alterations to primary function areas
 that must be applied in addition to section 202.4.
 
+#### Accessible Path of Travel
 **![Symbols: Path of travel, restroom, phone, drinking
-fountain]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a12.jpg)Accessible
-Path of Travel**\
+fountain]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a12.jpg)
 When alterations are made to a primary function area, an accessible path
 of travel to the area must be provided. The accessible path of travel
 must extend from the altered primary function area to site arrival
@@ -254,7 +223,7 @@ trigger a path of travel obligation upon the landlord with respect to
 areas of the facility under the landlord's authority if those areas are
 not otherwise being altered.
 
-**Disproportionality (20%)**\
+#### Disproportionality (20%)
 The accessible path of travel is required to the extent that it is not
 "disproportionate" to the total cost. Regulations implementing the
 standards define "disproportionate" as exceeding 20% of the total cost
@@ -264,11 +233,10 @@ accessible route to the primary function area from site arrival points,
 entrances, and retrofits to restrooms, telephones, and drinking
 fountains.
 
-**Prioritization**
+#### Prioritization
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
   *The requirements for alterations to primary function areas are found in* [DOJ's ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) *at 28 CFR §35.151(b) (title II) and 28 CFR §36.403 (title III) and in* [DOT's ADA Regulation at 49 CFR §37.43](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=d315855e2f2c9f940970f4c191349c12&rgn=div5&view=text&node=49:1.0.1.1.27&idno=49)*.*
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  
 
 Compliance is required up to the point the 20% cost cap is reached, even
 where it does not result in a fully accessible path of travel. Where
@@ -281,9 +249,7 @@ costs exceed this cap, compliance should be prioritized in this order:
 5.  an accessible drinking fountain
 6.  access to other elements such as parking and storage
 
- 
-
-### **Accessible Path of Travel** {#accessible-path-of-travel style="text-align: center;"}
+#### **Accessible Path of Travel
 
  ![Plan view: accessible path of travel shown extending from altered
 primary function area out of facility to site arrival points (parking,
@@ -295,17 +261,14 @@ passenger loading zones, public transit stops located on the site). The
 path of travel also includes an accessible restroom (for each sex unless
 only unisex restrooms are provided), telephone, and drinking fountain
 serving the primary function area, where such elements are provided.
-]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a13.jpg){width="625"
-height="725"}
+]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a13.jpg)
 
- 
-
-### []{#2025}Alterations to Qualified Historic Facilities \[[§202.5](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)\]
+#### []{#2025}Alterations to Qualified Historic Facilities
+[[§202.5](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
 
 ![Historic designation plaque: \"This property has been placed on the
 National Register of Historic
-Places\"]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a14.jpg){width="225"
-height="102"}The standards contain specific provisions for qualified
+Places\"]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a14.jpg)The standards contain specific provisions for qualified
 historic facilities which are defined as buildings or facilities that
 are "listed in or eligible for listing in the National Register of
 Historic Places or designated as historic under an appropriate State or
@@ -338,18 +301,12 @@ entrance is required to be accessible (if that would also threaten the
 historic significance, access can be provided to a non-public entrance
 but a notification or remote monitoring system is required for locked
 entrances) (§206.4, Ex.
-2).]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a15.jpg){width="600"
-height="425"}
+2).]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a15.jpg)
 
- 
+### []{#questions}Common Questions 
+![question mark]({{ site.baseurl }}/images/ada-aba/guides/ques.jpg)
 
- 
-
-### ![question mark]({{ site.baseurl }}/images/ada-aba/guides/ques.jpg){width="100" height="100"}
-
-### []{#questions}Common Questions
-
-*What requirements of the standards apply in an alteration?*
+#### What requirements of the standards apply in an alteration?
 
 Application of the standards in an alteration is determined by the scope
 of work and whether it involves areas containing a primary function.
@@ -363,7 +320,7 @@ as the restrooms, telephones, and drinking fountains serving the area,
 must be made accessible as part of the work to the extent it is not
 "disproportionate" (more than 20% of the total cost).
 
-*How is "technical infeasibility" determined in an alteration?*
+#### How is "technical infeasibility" determined in an alteration?
 
 Determining "technical infeasibility" requires a site-specific
 assessment of constraints or complications in relation to the planned
@@ -386,3 +343,5 @@ Standards are the benchmark for compliance with the title III barrier
 removal requirements. For more information about barrier removal and
 program access, visit DOJ's website at www.ada.gov or contact the DOJ
 ADA Information Line at (800) 514-0301 (voice) or (800) 514-0383 (TTY).
+
+[Back to top](#top) 
