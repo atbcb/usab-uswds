@@ -3,8 +3,6 @@ title: Subpart B-Buses, Vans and Systems
 order-number: 2.1
 ---
 
-*This section contains the original and enforceable requirements for buses and vans that were established in 1991*
-
 **§1192.21 General.**
 
  (a) New, used or remanufactured buses and vans (except over-the-road buses covered by subpart G of this part), to be considered accessible by regulations issued by the Department of Transportation in 49 CFR part 37, shall comply with the applicable provisions of this subpart.
