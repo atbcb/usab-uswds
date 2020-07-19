@@ -26,9 +26,107 @@ $theme-hero-image: asset_path("board-office.jpg");
 }
 
 // create class that combines about page img classes
-.right {
 
+.bold {
+  font-weight: bold;
 }
+
+.img-right {
+  float: right;
+  display: block;
+  padding: 15px;
+}
+
+.img-medium {
+  padding: 10px;
+  width: 40%; 
+}
+
+.img-grid {
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%; 
+  display: block;
+}
+
+.img-grid-left {
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%; 
+  display: block;
+}
+
+.grid-line {
+  display: block;
+  text-align: center;
+}
+
+.grid-line-left {
+  display: block;
+  text-align: left;
+}
+
+.img-large {
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 65%; 
+  display: block;
+}
+
+.img-large-caption {
+  margin: auto; 
+  text-align: center; 
+  width: 60%;
+}
+
+.img-full {
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  width: 100%; 
+  display: block;
+}
+
+.thumbnail {
+  width: 15%;
+  height: auto;
+  @include u-margin(2);
+
+&-box {
+    @extend .thumbnail;
+    @include u-border(2px);
+    @include u-radius('lg');
+    @include u-padding(2);
+  }
+}
+
+.align-bottom {
+  vertical-align: text-bottom;
+}
+
+.align-top {
+  vertical-align: text-top;
+}
+
+.clear {
+  clear: both;
+}
+
+// sticky fill js
+.sticky {
+  position: -webkit-sticky;
+  position: sticky;
+  top: 0;
+}
+
+.sticky:before,
+.sticky:after {
+    content: '';
+    display: table;
+}
+
+
 .advisory {
   background-color: #e8f0f8;
   padding: 1em;

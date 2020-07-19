@@ -1,25 +1,32 @@
 ---
 title: "Animations"
 order-number:  0.5
+datafile: ada-animations
 ---
-
 <!-- This section is required only once per page, before any videos appear. -->
 <link type="text/css" rel="stylesheet" href="https://ozplayer.global.ssl.fastly.net/3.5/ozplayer-core/ozplayer.min.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://ozplayer.global.ssl.fastly.net/3.5/ozplayer-skin/highlights-blue.css" media="all" />
 <link type="text/css" rel="stylesheet" href="https://ozplayer.global.ssl.fastly.net/3.5/transcript.css" media="all" />
 <script type="text/javascript" src="https://ozplayer.global.ssl.fastly.net/3.5/ozplayer-core/mediaelement.min.js"></script>
 
+{% for item in site.data[page.datafile] %}
 
-### Wheelchair Maneuvering
+<h3>{{ item.video-name }}</h3>
 <!-- This section is per video -->
-<figure id="Wheelchair-maneuvering-container" class="ozplayer-container">
-<div  data-responsive="Wheelchair-maneuvering-container" data-controls="stack" class="ozplayer" id="Wheelchair-maneuvering">
+<figure id="{{ item.video-name | replace: " ", "-" }}-container" class="ozplayer-container">
+<div  data-responsive="{{ item.video-name | replace: " ", "-" }}-container" data-controls="stack" class="ozplayer" id="{{ item.video-name | replace: " ", "-" }}" data-transcript="{{ item.video-name | replace: " ", "-" }}-transcript" >
 <video  controls="controls" preload="none">
-<source src="https://www.youtube.com/watch?v=dF7et0KQ3rg" type="video/x-youtube"></source>
-<div class="ozplayer-fallback"><ul><li><a href="https://www.youtube.com/watch?v=dF7et0KQ3rg">Video for playback</a></li></ul></div>
+<source src="{{ item.youtube-url }}" type="video/x-youtube"></source>
+<track src="{{ site.baseurl }}/files/captions/{{ item.caption-file }}" kind="captions" srclang="en" default="default" ></track>
+<div class="ozplayer-fallback"><ul><li><a href="{{ item.youtube-url }}">Video for playback</a></li></ul></div>
 </video>
 </div>
+<details class="ozplayer-expander">
+    <summary>Video Transcript</summary>
+    <div id="{{ item.name | replace: " ", "-" }}-transcript" class="ozplayer-transcript"></div>
+</details>
 </figure>
+{% endfor %}
 
 <!-- This section is once per page, but after all the videos -->
 <script type="text/javascript" src="https://ozplayer.global.ssl.fastly.net/3.5/ozplayer-core/ozplayer.free.js"></script>
