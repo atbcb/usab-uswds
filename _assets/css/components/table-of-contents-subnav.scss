@@ -1,13 +1,19 @@
 #toc-aside {
+  overflow: scroll;
+  overflow-x: hidden;
+  max-height: 100vh;
   z-index: 300;
 }
 
 .toc-subnav {
-  .usa-sidenav {
-    @include u-border-bottom('05');
+  #subsections {
+    li > a {
+      @include u-text('normal');
+      @include u-padding-left(3);
+    }
   }
 
-  .usa-accordion__button {
+  .top-level-accordion.usa-accordion__button {
     background-color: white;
 
     @include at-media('desktop') {
@@ -17,6 +23,10 @@
     }
   }
 
+  .usa-sidenav {
+    @include u-border-bottom('05');
+  }
+
   .usa-accordion__content {
     @include u-padding(0);
   }
@@ -24,6 +34,10 @@
   .usa-sidenav__sublist {
     .usa-sidenav__item:first-child {
       @include u-border-top('05');
+    }
+
+    a {
+      @include u-padding-left(2);
     }
   }
 }

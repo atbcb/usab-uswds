@@ -11,10 +11,17 @@
     let currentAnchor = hasAnchor ? urlParsed[urlParsed.length - 1] : null;
 
     var elements = document.getElementById("standard").querySelectorAll("h3");
+    var subsections = document.getElementById("subsections");
+    // Clear subsections list items
+    subsections.innerHTML = ""
 
     if (elements) {
       for (var i = 0; i < elements.length; i++) {
         var section = elements[i].innerText;
+
+        // if section is empty go to next element in loop
+        if (section === "") continue;
+
         var idtag = section.replace(/ /g,"-");
         var currentAnchorClass = currentAnchor === idtag ?
           'class="usa-current"' : 'class=""';
@@ -22,31 +29,8 @@
 
         var li = "<li><a " + currentAnchorClass + " href=\"#" + idtag + "\">" + section + "</a></li>";
 
-        document.getElementById("subsections").innerHTML += li;
+        subsections.innerHTML += li;
       };
-    }
-  }
-
-  // Set sticky class for accordian state when
-  // less than desktop size
-  function shouldBeSticky(setSticky) {
-    let element = document.getElementById('toc-aside');
-
-    if (element) {
-      let classNames = element.className.split(/\s+/);
-      const stickyIdx = classNames.indexOf('sticky');
-      const isSticky = stickyIdx >= 0;
-
-      if (setSticky && !isSticky) {
-        classNames.push('sticky');
-        element.className = classNames.join(" ");
-      }
-
-      if (!setSticky && isSticky) {
-        console.log(stickyIdx)
-        classNames.splice(stickyIdx, 1)
-        element.className = classNames.join(" ");
-      }
     }
   }
 
@@ -62,13 +46,11 @@
     }
 
     if (subnavButton && screenWidth < 1024) {
-      shouldBeSticky(true);
       subnavButton.setAttribute('aria-expanded', false);
       subnavContent.setAttribute('hidden', '');
     }
 
     if (subnavButton && screenWidth >= 1024) {
-      shouldBeSticky(false);
       subnavButton.setAttribute('aria-expanded', true);
       subnavContent.removeAttribute('hidden');
     }
