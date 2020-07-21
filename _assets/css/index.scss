@@ -102,6 +102,17 @@ $theme-hero-image: asset_path("board-office.jpg");
   }
 }
 
+.thumbnail-caption {
+  display: block;
+  text-align: center;
+  font-size: 90%;
+  font-style: italic;
+}
+.thumbnail-wide {
+  width: 15%;
+  height: auto;
+}
+
 .align-bottom {
   vertical-align: text-bottom;
 }

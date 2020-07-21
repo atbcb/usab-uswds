@@ -163,7 +163,7 @@ The accessible path of travel is required to the extent that it is not "dispropo
 
 #### Prioritization
 <div class="img-right img-medium">
-  <span class="grid-line">The requirements for alterations to primary function areas are found in <a href="http://www.ada.gov/2010ADAstandards_index.htm">DOJ's ADA Standards</a> at 28 CFR §35.151(b) (title II) and 28 CFR §36.403 (title III) and in <a href="http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=d315855e2f2c9f940970f4c191349c12&rgn=div5&view=text&node=49:1.0.1.1.27&idno=49">DOT's ADA Regulation at 49 CFR §37.43</a>.</span>
+  <span class="grid-line border">The requirements for alterations to primary function areas are found in <a href="http://www.ada.gov/2010ADAstandards_index.htm">DOJ's ADA Standards</a> at 28 CFR §35.151(b) (title II) and 28 CFR §36.403 (title III) and in <a href="http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=d315855e2f2c9f940970f4c191349c12&rgn=div5&view=text&node=49:1.0.1.1.27&idno=49">DOT's ADA Regulation at 49 CFR §37.43</a>.</span>
 </div>
 
 Compliance is required up to the point the 20% cost cap is reached, even
@@ -194,24 +194,14 @@ serving the primary function area, where such elements are provided.
 #### Alterations to Qualified Historic Facilities
 [[§202.5](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
 
-![Historic designation plaque: \"This property has been placed on the National Register of Historic Places\"]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a14.jpg){: .float-right .thumbnail}
+![Historic designation plaque: \"This property has been placed on the National Register of Historic Places\"]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a14.jpg){: .float-right .thumbnail-wide}
 
 The standards contain specific provisions for qualified historic facilities which are defined as buildings or facilities that are "listed in or eligible for listing in the National Register of Historic Places or designated as historic under an appropriate State or local law." Alterations to qualified historic facilities must comply with section 202.5 to the maximum extent feasible. If it is not feasible to provide physical access to an historic property in a manner that will not threaten or destroy the historic significance of the building or
 facility, alternative methods of access are permitted by DOJ's ADA Standards (28 CFR 35.151(b)(3)(ii) and 28 CFR 36.405(b)).
 
 Like other existing facilities, the requirements for alterations apply in relation to the scope of work. Alterations provisions and exceptions, including those based on technical infeasibility, and requirements for path of travel to primary function areas, apply to historic facilities with exceptions for circumstances where compliance with the standards would threaten or destroy the historic integrity or significance of a facility as determined by the appropriate State Historic Preservation Official or Advisory Council on Historic Preservation. These exceptions apply to requirements for accessible routes (§206.2) entrances (§206.4), and toilet rooms (§213.2).
 
-![Exceptions for Qualified Historic Facilities (where compliance would
-threaten or destroy a facility's historic significance) Historic
-facility. Figure notes: Vertical access to stories above or below the
-accessible story is not required (§206.2.3, Ex. 7). At least 1 unisex
-toilet room or 1 men's and 1 women's room is required to comply (§213.2,
-Ex. 2). At least 1 accessible route is required from a site arrival
-point to an accessible entrance (§206.2.1, Ex. 1). At least 1 public
-entrance is required to be accessible (if that would also threaten the
-historic significance, access can be provided to a non-public entrance
-but a notification or remote monitoring system is required for locked
-entrances) (§206.4, Ex.
+![Exceptions for Qualified Historic Facilities (where compliance would threaten or destroy a facility's historic significance) Historic facility. Figure notes: Vertical access to stories above or below the accessible story is not required (§206.2.3, Ex. 7). At least 1 unisex toilet room or 1 men's and 1 women's room is required to comply (§213.2, Ex. 2). At least 1 accessible route is required from a site arrival point to an accessible entrance (§206.2.1, Ex. 1). At least 1 public entrance is required to be accessible (if that would also threaten the historic significance, access can be provided to a non-public entrance but a notification or remote monitoring system is required for locked entrances) (§206.4, Ex.
 2).]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a15.jpg){: .img-large}
 
 ### Common Questions 
