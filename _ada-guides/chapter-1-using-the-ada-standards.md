@@ -70,9 +70,8 @@ access codes.
 
 <div class="img-right img-medium">
 <img alt="fair housing icon" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada4.jpg">
-<span class="grid-line" style="font-style: italic; font-size: 90%;">Information on the Fair Housing Act is available from the Department of Housing and Urban Development at
-<a href="https://www.hud.gov/">www.hud.gov</a> or <a href="https://www.fairhousingfirst.org/">www.fairhousingfirst.org</a>,</span>
-<span class="grid-line">(888)341-7781 (V/TTY).</span>
+<span class="grid-line text-italic" style="font-size: 90%">Information on the Fair Housing Act is available from the Department of Housing and Urban Development at
+<a href="https://www.hud.gov/">www.hud.gov</a> or <a href="https://www.fairhousingfirst.org/">www.fairhousingfirst.org</a>, (888)341-7781 (V/TTY).</span>
 </div> 
 
 Although private residential housing is not covered by the ADA,
@@ -180,7 +179,7 @@ transportation services.
 
 <div class="img-right img-medium">
 <img alt="ADA-ABA Accessibility Guidelines cover" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada-aba.jpg">
-<span class="grid-line" style="font-style: italic; font-size: 90%;">DOJ's and DOT's ADA Standards are based on the Board's ADA Accessibility Guidelines (2004).</span>
+<span class="grid-line text-italic" style="font-size: 90%">DOJ's and DOT's ADA Standards are based on the Board's ADA Accessibility Guidelines (2004).</span>
 </div> 
 
 Both DOJ's and DOT's ADA Standards are based on minimum accessibility
@@ -220,7 +219,7 @@ that supplement or modify requirements related to scoping for:
     individual owners (§233).
 <div class="img-right img-medium">
 <img alt="DOJ 2010 ADA Standards cover" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1doj-standards.jpg">
-<span class="grid-line" style="font-style: italic; font-size: 90%;">DOJ's 2010 ADA Standards are available on <a href="https://www.ada.gov">DOJ's ADA website</a>.</span>
+<span class="grid-line text-italic" style="font-size: 90%">DOJ's 2010 ADA Standards are available on <a href="https://www.ada.gov">DOJ's ADA website</a>.</span>
 </div> 
 
 #### DOT's ADA Standards (2006)
