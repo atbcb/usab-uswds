@@ -340,7 +340,7 @@ with disabilities effective access to health services. In addition,
 placement of non-fixed elements can affect the accessibility of an area
 by encroaching into accessible routes and clearances.
 
-<div class="grid-container">
+<div class="grid-container border">
   <div class="grid-row">
     <div class="grid-col-auto">
       <img src="{{ site.baseurl }}{{ page.image-directory }}compass.jpg" alt="design compass" class="img-grid">
@@ -497,7 +497,7 @@ Some provisions in the ADA Standards specify a minimum number of elements or spa
 
 In the case of specifications for dimensions or sizes that involve percentages or ratios, rounding down for values less than one half is allowed.
 
-<div class="grid-container">
+<div class="grid-container border">
   <div class="grid-row">
     <div class="grid-col-auto">
       <img src="{{ site.baseurl }}{{ page.image-directory }}compass.jpg" alt="design compass" class="img-grid">

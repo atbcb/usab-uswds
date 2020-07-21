@@ -72,22 +72,26 @@ $theme-hero-image: asset_path("board-office.jpg");
   margin: auto; 
   text-align: center; 
   width: 60%;
+  font-size: 90%;
+  font-style: italic;
 }
 
 .img-full {
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
-  width: 100%; 
+  width: 85%; 
   display: block;
 }
 
 .thumbnail {
   width: 15%;
   height: auto;
+  //max-height: 5rem;
   @include u-margin(2);
 
 &-box {
+  &-box {
     @extend .thumbnail;
     @include u-border(2px);
     @include u-radius('lg');
@@ -170,4 +174,5 @@ a.usa-current::after {
   .paginate-button {
     display: block;
   }
+}
 }
