@@ -4,6 +4,8 @@
   "scripts": {
     "build": "bundle exec jekyll build",
     "clean": "bundle exec jekyll clean",
+    "pa11y": "pa11y",
+    "pa11y:local": "pa11y http://localhost:4000/",
     "reset": "npx rimraf Gemfile.lock package-lock.json LICENSE.md CONTRIBUTING.md degit.json .git .dependabot",
     "start": "bundle exec jekyll serve",
     "test": "bundle exec htmlproofer _site; npx a11y '_site/**/*.html'"
@@ -16,6 +18,7 @@
   },
   "devDependencies": {
     "a11y": "^0.5.1",
+    "pa11y": "^5.3.0",
     "rimraf": "^3.0.0"
   }
 }
