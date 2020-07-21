@@ -48,6 +48,8 @@ $theme-hero-image: asset_path("board-office.jpg");
   margin-right: auto;
   width: 40%; 
   display: block;
+  padding-top: 20px;
+  
 }
 
 .grid-line {
@@ -87,7 +89,8 @@ $theme-hero-image: asset_path("board-office.jpg");
 .thumbnail {
   width: 15%;
   height: auto;
-  //max-height: 5rem;
+  //vertical-align: 30%;
+  //max-height: 100px;
   @include u-margin(2);
 
 &-box {

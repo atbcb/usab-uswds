@@ -46,7 +46,7 @@ office buildings, factories, warehouses, manufacturing plants, and other
 facilities whose operations affect commerce.
 
 #### Transportation Facilities
-![train]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada3.jpg){: .float-right .thumbnail}
+![train]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada3.jpg){: .float-right .thumbnail .maxh-10}
 
 Bus stops and stations, rail stations, and other transportation
 facilities are required to be accessible by the ADA. The ADA also
