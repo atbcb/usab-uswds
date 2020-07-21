@@ -9,7 +9,15 @@
 
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=18F/federalist-uswds-jekyll)](https://dependabot.com)
 
-Login via [FederalistApp](https://federalistapp.18f.gov/sites/).  Reference implementation of USWDS 2.0 for Jekyll on Federalist [repo](https://github.com/18F/federalist-uswds-jekyll) and [demo](https://federalist-ce810add-9092-4627-8246-9b65cf94623c.app.cloud.gov/site/18f/federalist-uswds-jekyll/).
+## USAB Notes
+
+Remember to login via [FederalistApp](https://federalistapp.18f.gov/sites/).
+
+Reference implementation of USWDS 2.0 for Jekyll on Federalist includes [repo](https://github.com/18F/federalist-uswds-jekyll) and [demo](https://federalist-ce810add-9092-4627-8246-9b65cf94623c.app.cloud.gov/site/18f/federalist-uswds-jekyll/).
+
+Web service utilities we are using include:
+- [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+
 
 # Federalist + U.S. Web Design System + Jekyll
 
