@@ -7,9 +7,9 @@ permalink: /laws/aba.html
 
 # {{ page.title }} (ABA) of 1968
 
-<figure style="display:inling; width:50%; float:right">
-  <img src="../img/aba50.png" alt="ABA 50th 1968 - 2018">
-  <figcaption>
+<figure style="width:50%; float:right">
+  <img src="{{ site.baseurl }}/img/aba50.png" alt="ABA 50th 1968 - 2018" style="display:block; margin-left:auto; margin-right:auto">
+  <figcaption style="text-align:center">
     In September 2018, the Board celebrated the 50th anniversary of the ABA.
   </figcaption>
 </figure>
@@ -26,7 +26,7 @@ The ABA is enforced through standards for accessible design. Four Federal agenci
 
 Pub. L. 90–480 (42 U.S.C. §§4151 et seq.) 
 
-**§4151\. "Building" defined**
+**§4151. "Building" defined**
 
 > As used in this chapter, the term "building" means any building or facility (other than (A) a privately owned residential structure not leased by the Government for subsidized housing programs and (B) any building or facility on a military installation designed and constructed primarily for use by able bodied military personnel) the intended use for which either will require that such building or facility be accessible to the public, or may result in the employment or residence therein of physically handicapped persons, which building or facility is--
 > 
@@ -38,15 +38,15 @@ Pub. L. 90–480 (42 U.S.C. §§4151 et seq.)
 > > 
 > > (4) to be constructed under authority of the National Capital Transportation Act of 1960, the National Capital Transportation Act of 1965, or title III of the Washington Metropolitan Area Transit Regulation Compact.
 
-**§4152\. Standards for design, construction, and alteration of buildings; Administrator of General Services**
+**§4152. Standards for design, construction, and alteration of buildings; Administrator of General Services**
 
 > The Administrator of General Services, in consultation with the Secretary of Health and Human Services, shall prescribe standards for the design, construction, and alteration of buildings (other than residential structures subject to this chapter and buildings, structures, and facilities of the Department of Defense and of the United States Postal Service subject to this chapter) to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
 
-**§4153\. Standards for design, construction, and alteration of buildings; Secretary of Housing and Urban Development**
+**§4153. Standards for design, construction, and alteration of buildings; Secretary of Housing and Urban Development**
 
 > The Secretary of Housing and Urban Development, in consultation with the Secretary of Health and Human Services, shall prescribe standards for the design, construction, and alteration of buildings which are residential structures subject to this chapter to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
 
-**§4154\. Standards for design, construction, and alteration of buildings; Secretary of Defense**
+**§4154. Standards for design, construction, and alteration of buildings; Secretary of Defense**
 
 > The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall prescribe standards for the design, construction, and alteration of buildings, structures, and facilities of the Department of Defense subject to this chapter to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
 
@@ -54,11 +54,11 @@ Pub. L. 90–480 (42 U.S.C. §§4151 et seq.)
 
 > The United States Postal Service, in consultation with the Secretary of Health and Human Services, shall prescribe such standards for the design, construction, and alteration of its buildings to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
 
-**§4155\. Effective date of standards**
+**§4155. Effective date of standards**
 
 > Every building designed, constructed, or altered after the effective date of a standard issued under this chapter which is applicable to such building, shall be designed, constructed, or altered in accordance with such standard.
 
-**§4156\. Waiver and modification of standards**
+**§4156. Waiver and modification of standards**
 
 > The Administrator of General Services, with respect to standards issued under section 4152 of this title, and the Secretary of Housing and Urban Development, with respect to standards issued under section 4153 of this title, and the Secretary of Defense with respect to standards issued under section 4154 of this title, and the United States Postal Service with respect to standards issued under section 4154a of this title --
 > 
@@ -66,7 +66,7 @@ Pub. L. 90–480 (42 U.S.C. §§4151 et seq.)
 > > 
 > > (2) shall establish a system of continuing surveys and investigations to insure compliance with such standards.
 
-**§4157\. Reports to Congress and Congressional committees**
+**§4157. Reports to Congress and Congressional committees**
 
 > (a) The Administrator of General Services shall report to Congress during the first week of January of each year on his activities and those of other departments, agencies, and instrumentalities of the Federal Government under this chapter during the preceding fiscal year including, but not limited to, standards issued, revised, amended, or repealed under this chapter and all case-by-case modifications, and waivers of such standards during such year.
 > 
