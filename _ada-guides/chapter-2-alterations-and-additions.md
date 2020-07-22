@@ -41,21 +41,10 @@ If alterations are limited only to elements in a room or space, then the standar
   <div class="img-large-caption">
   In a restroom project involving alterations to the toilet, grab bars, faucet controls, and mirror, the standards apply to these elements but not to those that remain unaltered. In more extensive projects where additional elements are altered, application of the standards is greater, commensurate with the scope of work.</div>
 
-  <div class="grid-container border">
-  <div class="grid-row">
-    <div class="grid-col-auto">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}compass.jpg" alt="design compass" class="img-grid">
-    </div>
-    <div class="grid-col-fill">
-      <span class="grid-line-left text-italic">Recommendation:</span>
-    </div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-fill"  style="padding: 10px;">      
-      <span class="grid-line-left">While only those elements altered are required to comply, it is advisable to maximize opportunities for accessibility in alterations. Alteration of multiple elements in a room or space may provide a cost-effective opportunity to make the entire room or space fully accessible.</span>
-    </div>
-  </div>
-</div>
+{% include recommendation.html
+text= "While only those elements altered are required to comply, it is advisable to maximize opportunities for accessibility in alterations. Alteration of multiple elements in a room or space may provide a cost-effective opportunity to make the entire room or space fully accessible."
+%}
+
 
 The standards do not require alterations to exceed the level of access required in new construction. For example, spaces that are exempt in new construction are also exempt in alterations.
 

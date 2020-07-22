@@ -62,6 +62,8 @@ $theme-hero-image: asset_path("board-office.jpg");
   text-align: left;
 }
 
+/* replace grid-line-left with text-left display-block instead */
+
 .img-large {
   padding: 10px;
   margin-left: auto;
