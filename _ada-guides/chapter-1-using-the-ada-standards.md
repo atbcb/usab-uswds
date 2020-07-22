@@ -123,29 +123,19 @@ accessibility standards applicable to new construction and alterations,
 and to the provision of program access or barrier removal.
 
 <div class="grid-container">
-  <div class="grid-row">
-    <div class="grid-col-auto" style="width:25%;">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/gov.jpg" alt="government building" class="img-grid-left">
-    </div>
-    <div class="grid-col-fill"  style="padding: 10px;">
-      <span class="grid-line-left text-italic">Title II Regulation for State and Local Governments</span>
-      <span class="grid-line-left">28 CFR Part 35</span>
-      <span class="grid-line-left">Available at <a href="https://www.ada.gov">www.ada.gov</a></span>
-    </div>
-  </div>
-</div>
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter1-ada/gov.jpg"
+img-alt= "Government building"
+text-title= "Title II Regulation for State and Local Governments"
+text= "28 CFR Part 35<br>Available at <a href=\"https://www.ada.gov\">www.ada.gov</a>"
+%}
 
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="grid-col-auto" style="width:25%;">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada2.jpg" alt="store front and factory" class="img-grid-left">
-    </div>
-    <div class="grid-col-fill" style="padding: 10px;">
-      <span class="grid-line-left text-italic">Title III Regulation for Places of Public Accommodation and Commercial Facilities</span>
-      <span class="grid-line-left">28 CFR Part 36</span>
-      <span class="grid-line-left">Available at <a href="https://www.ada.gov">www.ada.gov</a></span>
-    </div>
-  </div>
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter1-ada/1ada2.jpg"
+img-alt= "store front and factory"
+text-title= "Title III Regulation for Places of Public Accommodation and Commercial Facilities"
+text= "28 CFR Part 36<br>Available at <a href=\"https://www.ada.gov\">www.ada.gov</a>"
+%}
 </div>  
 
 ### DOT's ADA Regulations

@@ -19,7 +19,7 @@ Additions and alterations undertaken at existing facilities are covered by the A
 Projects that increase, expand, or extend a facility's gross floor area or height of a facility are considered additions (as defined in §106.5) and must comply with the requirements of the standards applicable to new construction. Existing elements and spaces affected by an addition are treated as alterations and qualify for certain allowances or exceptions that are not permitted in new construction.
 
 #### Application of the Standards in Additions
- ![Existing facility and addition. Figure notes: Existing portions of a facility affected by an addition are treated as alterations. Newly built portions added to an existing facility are treated as new construction. Additions that affect the usability of, or access to, an area containing a primary function must comply with requirements for an accessible path of travel. Unaltered elements and spaces are generally not required to comply (except as needed to provide an accessible path of travel to primary function areas affected by the addition).]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a2.jpg){: .img-large}
+ ![Existing facility and addition. Figure notes: Existing portions of a facility affected by an addition are treated as alterations. Newly built portions added to an existing facility are treated as new construction. Additions that affect the usability of, or access to, an area containing a primary function must comply with requirements for an accessible path of travel. Unaltered elements and spaces are generally not required to comply (except as needed to provide an accessible path of travel to primary function areas affected by the addition).]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a2.jpg){: .img-full}
 
 ### Alterations
 [[§202.3](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
@@ -31,7 +31,7 @@ The standards ensure that the opportunities for accessibility presented by an al
 #### Application of the Standards in Alterations
 
 ![Floor plan with alterations to non-primary function area and to primary function area. Figure notes: Altered elements and spaces are required to comply. In areas not containing a primary function, an accessible route to an altered element or space is required only when the circulation path to the altered element or space is also altered. Alterations made to areas containing a primary function also require an accessible path of travel to the extent that it is not
-"disproportionate" to the cost. The accessible path of travel must extend to site arrival points, including parking.]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a3.jpg){: .img-large} 
+"disproportionate" to the cost. The accessible path of travel must extend to site arrival points, including parking.]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a3.jpg){: .img-full} 
 
 If alterations are limited only to elements in a room or space, then the standards apply only to the elements altered. Similarly, where spaces are altered, the standards apply to those spaces that are altered. If a room or space is completely altered (or built new as part of an alteration), the entire room or space is fully subject to the standards. Compliance is required to the extent that it is technically feasible.
 
@@ -71,54 +71,44 @@ The standards apply the same requirements used in new construction to alteration
 
 ##### Examples of Provisions for Alterations
   
+
 <div class="grid-container">
-  <div class="grid-row">
-    <div class="grid-col-auto" style="width:25%;">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a6.jpg" alt="escalator symbol" class="img-grid-left">
-    </div>
-    <div class="grid-col-fill" style="padding: 10px;">
-      <span class="grid-line-left text-italic">Vertical Access</span>
-      <span class="grid-line-left">An accessible route to stories and mezzanines is required in alterations (or additions) where stairs or escalators are added where none existed previously and major structural modifications are necessary (§206.2.3.1) (or as needed to provide an accessible path of travel to an altered primary function area if not disproportionate to the cost (§202.4)), unless the building is exempt from the requirement for access between stories.</span>
-    </div>
-  </div>
-   <div class="grid-row">
-    <div class="grid-col-auto" style="width:25%;">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a7.jpg" alt="elevator symbol" class="img-grid-left">
-    </div>
-    <div class="grid-col-fill" style="padding: 10px;">
-      <span class="grid-line-left text-italic">Elevators</span>
-      <span class="grid-line-left">If elevators are altered, all cars programmed to respond to the same call control must be similarly modified (§206.6.1).
-</span>
-    </div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-auto" style="width:25%;">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a8.jpg" alt="fire alarm symbol" class="img-grid-left">
-    </div>
-    <div class="grid-col-fill" style="padding: 10px;">
-      <span class="grid-line-left text-italic">Fire Alarms</span>
-      <span class="grid-line-left">Compliant fire alarm systems are required only in alterations where fire alarm systems are installed new, replaced, or upgraded (§215.1, Ex. 1).</span>
-    </div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-auto" style="width:25%;">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a9.jpg" alt="ramp symbol" class="img-grid-left">
-    </div>
-    <div class="grid-col-fill" style="padding: 10px;">
-      <span class="grid-line-left text-italic">Ramps</span>
-      <span class="grid-line-left">Slightly steeper running slopes are permitted for short ramps (maximum 6" rise) where space is limited (§405.2, Ex.).</span>
-    </div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-auto" style="width:25%;">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a10.jpg" alt="stair symbol" class="img-grid-left">
-    </div>
-    <div class="grid-col-fill" style="padding: 10px;">
-      <span class="grid-line-left text-italic">Stairs</span>
-      <span class="grid-line-left">Full handrail extensions at stairs are not required where they would project hazardously into circulation paths (§505.10, Ex. 3).</span>
-    </div>
-  </div>
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/a6.jpg"
+img-alt= "escalator symbol"
+text-title= "Vertical Access"
+text= "An accessible route to stories and mezzanines is required in alterations (or additions) where stairs or escalators are added where none existed previously and major structural modifications are necessary (§206.2.3.1) (or as needed to provide an accessible path of travel to an altered primary function area if not disproportionate to the cost (§202.4)), unless the building is exempt from the requirement for access between stories."
+%}
+
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/a7.jpg"
+img-alt= "elevator symbol"
+text-title= "Elevators"
+text= "If elevators are altered, all cars programmed to respond to the same call control must be similarly modified (§206.6.1)."
+%}
+
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/a8.jpg"
+img-alt= "fire alarm symbol"
+text-title= "Fire Alarms"
+text= "Compliant fire alarm systems are required only in alterations where fire alarm systems are installed new, replaced, or upgraded (§215.1, Ex. 1)."
+%}
+
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/a9.jpg"
+img-alt= "ramp symbol"
+text-title= "Ramps"
+text= "Slightly steeper running slopes are permitted for short ramps (maximum 6\" rise) where space is limited (§405.2, Ex.)."
+%}
+
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/a10.jpg"
+img-alt= "stair symbol"
+text-title= "Stairs"
+text= "Full handrail extensions at stairs are not required where they would project hazardously into circulation paths (§505.10, Ex. 3)."
+%}
 </div>
+
 #### Technical Infeasibility
 
 Compliance in an alteration is not required where it is "technically infeasible." The term is defined as "something that has little likelihood of being accomplished because existing structural conditions would require removing or altering a load-bearing member that is an essential part of the structural frame; or because other existing physical or site constraints prohibit modification or addition of elements, spaces, or features that are in full and strict compliance with the minimum requirements."
@@ -202,7 +192,7 @@ facility, alternative methods of access are permitted by DOJ's ADA Standards (28
 Like other existing facilities, the requirements for alterations apply in relation to the scope of work. Alterations provisions and exceptions, including those based on technical infeasibility, and requirements for path of travel to primary function areas, apply to historic facilities with exceptions for circumstances where compliance with the standards would threaten or destroy the historic integrity or significance of a facility as determined by the appropriate State Historic Preservation Official or Advisory Council on Historic Preservation. These exceptions apply to requirements for accessible routes (§206.2) entrances (§206.4), and toilet rooms (§213.2).
 
 ![Exceptions for Qualified Historic Facilities (where compliance would threaten or destroy a facility's historic significance) Historic facility. Figure notes: Vertical access to stories above or below the accessible story is not required (§206.2.3, Ex. 7). At least 1 unisex toilet room or 1 men's and 1 women's room is required to comply (§213.2, Ex. 2). At least 1 accessible route is required from a site arrival point to an accessible entrance (§206.2.1, Ex. 1). At least 1 public entrance is required to be accessible (if that would also threaten the historic significance, access can be provided to a non-public entrance but a notification or remote monitoring system is required for locked entrances) (§206.4, Ex.
-2).]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a15.jpg){: .img-large}
+2).]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/a15.jpg){: .img-full}
 
 ### Common Questions 
 ![question mark]({{ site.baseurl }}/images/ada-aba/guides/ques.jpg){: .float-right .thumbnail}
