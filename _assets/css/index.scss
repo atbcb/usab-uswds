@@ -54,6 +54,8 @@ $theme-hero-image: asset_path("board-office.jpg");
   margin-right: auto;
   width: 40%; 
   display: block;
+  padding-top: 20px;
+  
 }
 
 .grid-line {
@@ -66,18 +68,22 @@ $theme-hero-image: asset_path("board-office.jpg");
   text-align: left;
 }
 
+/* replace grid-line-left with text-left display-block instead */
+
 .img-large {
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
-  width: 65%; 
+  width: 80%; 
   display: block;
 }
 
 .img-large-caption {
   margin: auto; 
   text-align: center; 
-  width: 60%;
+  width: 85%;
+  font-size: 90%;
+  font-style: italic;
 }
 
 .img-full {
@@ -91,14 +97,22 @@ $theme-hero-image: asset_path("board-office.jpg");
 .thumbnail {
   width: 15%;
   height: auto;
+  //vertical-align: 30%;
+  //max-height: 100px;
   @include u-margin(2);
 
 &-box {
+  &-box {
     @extend .thumbnail;
     @include u-border(2px);
     @include u-radius('lg');
     @include u-padding(2);
   }
+}
+
+.thumbnail-wide {
+  width: 15%;
+  height: auto;
 }
 
 .align-bottom {
@@ -172,4 +186,5 @@ a.usa-current::after {
   .paginate-button {
     display: block;
   }
+}
 }

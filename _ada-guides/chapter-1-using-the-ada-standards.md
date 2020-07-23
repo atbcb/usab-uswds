@@ -46,7 +46,7 @@ office buildings, factories, warehouses, manufacturing plants, and other
 facilities whose operations affect commerce.
 
 #### Transportation Facilities
-![train]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada3.jpg){: .float-right .thumbnail}
+![train]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada3.jpg){: .float-right .thumbnail .maxh-10}
 
 Bus stops and stations, rail stations, and other transportation
 facilities are required to be accessible by the ADA. The ADA also
@@ -70,9 +70,8 @@ access codes.
 
 <div class="img-right img-medium">
 <img alt="fair housing icon" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada4.jpg">
-<span class="grid-line">Information on the Fair Housing Act is available from the Department of Housing and Urban Development at
-<a href="https://www.hud.gov/">www.hud.gov</a> or <a href="https://www.fairhousingfirst.org/">www.fairhousingfirst.org</a>,</span>
-<span class="grid-line">(888)341-7781 (V/TTY).</span>
+<span class="grid-line text-italic" style="font-size: 90%">Information on the Fair Housing Act is available from the Department of Housing and Urban Development at
+<a href="https://www.hud.gov/">www.hud.gov</a> or <a href="https://www.fairhousingfirst.org/">www.fairhousingfirst.org</a>, (888)341-7781 (V/TTY).</span>
 </div> 
 
 Although private residential housing is not covered by the ADA,
@@ -124,29 +123,19 @@ accessibility standards applicable to new construction and alterations,
 and to the provision of program access or barrier removal.
 
 <div class="grid-container">
-  <div class="grid-row">
-    <div class="grid-col-auto" style="width:25%;">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/gov.jpg" alt="government building" class="img-grid-left">
-    </div>
-    <div class="grid-col-fill"  style="padding: 10px;">
-      <span class="grid-line-left text-italic">Title II Regulation for State and Local Governments</span>
-      <span class="grid-line-left">28 CFR Part 35</span>
-      <span class="grid-line-left">Available at <a href="https://www.ada.gov">www.ada.gov</a></span>
-    </div>
-  </div>
-</div>
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter1-ada/gov.jpg"
+img-alt= "Government building"
+text-title= "Title II Regulation for State and Local Governments"
+text= "28 CFR Part 35<br>Available at <a href=\"https://www.ada.gov\">www.ada.gov</a>"
+%}
 
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="grid-col-auto" style="width:25%;">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada2.jpg" alt="store front and factory" class="img-grid-left">
-    </div>
-    <div class="grid-col-fill" style="padding: 10px;">
-      <span class="grid-line-left text-italic">Title III Regulation for Places of Public Accommodation and Commercial Facilities</span>
-      <span class="grid-line-left">28 CFR Part 36</span>
-      <span class="grid-line-left">Available at <a href="https://www.ada.gov">www.ada.gov</a></span>
-    </div>
-  </div>
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter1-ada/1ada2.jpg"
+img-alt= "store front and factory"
+text-title= "Title III Regulation for Places of Public Accommodation and Commercial Facilities"
+text= "28 CFR Part 36<br>Available at <a href=\"https://www.ada.gov\">www.ada.gov</a>"
+%}
 </div>  
 
 ### DOT's ADA Regulations
@@ -164,23 +153,19 @@ nondiscrimination requirements associated with the provision of
 transportation services.
 
 <div class="grid-container">
-  <div class="grid-row">
-    <div class="grid-col-auto" style="width:25%;">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada3.jpg" alt="train" class="img-grid-left">
-    </div>
-    <div class="grid-col-fill" style="padding: 10px;">
-      <span class="grid-line-left text-italic">DOT Regulation for Transportation Services</span>
-      <span class="grid-line-left">49 CFR Part 37</span>
-      <span class="grid-line-left">Available at <a href="http://www.fta.dot.gov/civilrights/12325.html">www.fta.dot.gov</a></span>
-    </div>
-  </div>
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter1-ada/1ada3.jpg"
+img-alt= "Train"
+text-title= "DOT Regulation for Transportation Services"
+text= "Available at <a href=\"http://www.fta.dot.gov/civilrights/12325.html\">www.fta.dot.gov</a>"
+%}
 </div>
 
 ### ADA Accessibility Standards
 
 <div class="img-right img-medium">
 <img alt="ADA-ABA Accessibility Guidelines cover" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada-aba.jpg">
-<p display="inline-block">DOJ's and DOT's ADA Standards are based on the Board's ADA Accessibility Guidelines (2004).</p>
+<span class="grid-line text-italic" style="font-size: 90%">DOJ's and DOT's ADA Standards are based on the Board's ADA Accessibility Guidelines (2004).</span>
 </div> 
 
 Both DOJ's and DOT's ADA Standards are based on minimum accessibility
@@ -220,7 +205,7 @@ that supplement or modify requirements related to scoping for:
     individual owners (§233).
 <div class="img-right img-medium">
 <img alt="DOJ 2010 ADA Standards cover" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1doj-standards.jpg">
-<p display="inline-block">DOJ's 2010 ADA Standards are available on <a href="https://www.ada.gov">DOJ's ADA website</a>.</p>
+<span class="grid-line text-italic" style="font-size: 90%">DOJ's 2010 ADA Standards are available on <a href="https://www.ada.gov">DOJ's ADA website</a>.</span>
 </div> 
 
 #### DOT's ADA Standards (2006)
@@ -340,22 +325,9 @@ with disabilities effective access to health services. In addition,
 placement of non-fixed elements can affect the accessibility of an area
 by encroaching into accessible routes and clearances.
 
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="grid-col-auto">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}compass.jpg" alt="design compass" class="img-grid">
-    </div>
-    <div class="grid-col-fill">
-      <span class="grid-line-left text-italic">Recommendation:</span>
-    </div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-fill"  style="padding: 10px;">      
-      <span class="grid-line-left">Design spaces so that planned furnishings and moveable elements are accommodated without encroaching into accessible routes and clearances. It is also helpful to consider relevant requirements in the standards when specifying or acquiring moveable furnishings, such as tables, systems furniture, and vending machines to ensure their usability.</span>
-    </div>
-  </div>
-</div>
-
+{% include recommendation.html
+text= "Design spaces so that planned furnishings and moveable elements are accommodated without encroaching into accessible routes and clearances. It is also helpful to consider relevant requirements in the standards when specifying or acquiring moveable furnishings, such as tables, systems furniture, and vending machines to ensure their usability."
+%}
 
 Unless specifically permitted, access features required by the ADA
 Standards must be fixed or built-in even though portable alternatives
@@ -497,21 +469,10 @@ Some provisions in the ADA Standards specify a minimum number of elements or spa
 
 In the case of specifications for dimensions or sizes that involve percentages or ratios, rounding down for values less than one half is allowed.
 
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="grid-col-auto">
-      <img src="{{ site.baseurl }}{{ page.image-directory }}compass.jpg" alt="design compass" class="img-grid">
-    </div>
-    <div class="grid-col-fill">
-      <span class="grid-line-left text-italic">Recommendation:</span>
-    </div>
-  </div>
-  <div class="grid-row">
-    <div class="grid-col-fill"  style="padding: 10px;">      
-      <span class="grid-line-left">Dimensions expressed as a range are intended to accommodate deviations in the field. It is good practice to specify accordingly. For example, for the location of wheelchair accessible water closets (16" -- 18" centerline from side walls or partitions), specifying to the midpoint of the range (17") will accommodate any construction variations up to 1" plus or minus. For dimensions not expressed as an absolute ("X maximum" or "Y minimum"), specify in a manner that accommodates the expected tolerance within the required dimensions by subtracting the tolerance from the required maximum or adding it to the required minimum.</span>
-    </div>
-  </div>
-</div>
+{% include recommendation.html
+text= "Dimensions expressed as a range are intended to accommodate deviations in the field. It is good practice to specify accordingly. For example, for the location of wheelchair accessible water closets (16\" -- 18\" centerline from side walls or partitions), specifying to the midpoint of the range (17\") will accommodate any construction variations up to 1\" plus or minus. For dimensions not expressed as an absolute (\"X maximum\" or \"Y minimum\"), specify in a manner that accommodates the expected tolerance within the required dimensions by subtracting the tolerance from the required maximum or adding it to the required minimum."
+%}
+
 
 ##### Figures in the Standards
 
