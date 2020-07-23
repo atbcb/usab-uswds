@@ -36,16 +36,16 @@ layout: default
       {% if page.right-sidenav %}
         {% include {{ page.right-sidenav }} %}
       {% endif %}
-      
+
       {{ content }}
 
     </div>
   </div>
 </div>
-</div>        
-           
-  
-<script>
+</div>
+
+
+<!-- <script>
   {
     console.log("toc script")
     var x = document.getElementById("standard").querySelectorAll("h3");
@@ -53,7 +53,7 @@ layout: default
     for (i = 0; i < x.length; i++) {
       var section = x[i].innerText;
       console.log(section);
-    
+
 
       var idtag = section.replace(/ /g,"-");
       x[i].setAttribute("id",idtag);
@@ -63,8 +63,8 @@ layout: default
     var li = "<li><a href=\"#" + idtag + "\">" + section + "</a></li>";
       console.log(li);
     document.getElementById("subsections").innerHTML += li;
-     
+
     };
     //alert("TOC successfully loaded!");
   };
-  </script>
+  </script> -->

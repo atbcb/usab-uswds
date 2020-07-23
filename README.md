@@ -9,7 +9,15 @@
 
 [![Dependabot Status](https://api.dependabot.com/badges/status?host=github&repo=18F/federalist-uswds-jekyll)](https://dependabot.com)
 
-Login via [FederalistApp](https://federalistapp.18f.gov/sites/).  Reference implementation of USWDS 2.0 for Jekyll on Federalist [repo](https://github.com/18F/federalist-uswds-jekyll) and [demo](https://federalist-ce810add-9092-4627-8246-9b65cf94623c.app.cloud.gov/site/18f/federalist-uswds-jekyll/).
+## USAB Notes
+
+Remember to login via [FederalistApp](https://federalistapp.18f.gov/sites/).
+
+Reference implementation of USWDS 2.0 for Jekyll on Federalist includes [repo](https://github.com/18F/federalist-uswds-jekyll) and [demo](https://federalist-ce810add-9092-4627-8246-9b65cf94623c.app.cloud.gov/site/18f/federalist-uswds-jekyll/).
+
+Web service utilities we are using include:
+- [Paste to Markdown](https://euangoddard.github.io/clipboard2markdown/)
+
 
 # Federalist + U.S. Web Design System + Jekyll
 
@@ -32,7 +40,7 @@ This project strives to be compliant with requirements set by [21st Century IDEA
 
 ## Key Functionality
 This repository contains the following examples and functionality:
- 
+
 ✅  Publish blog posts, press releases, announcements, etc. To modify this code, check out `blog/index.html`, which manages how the posts are listed. You should then check out `_layouts/post.html` to see how individual posts are structured.
 
 ✅ Publish single one-off pages. Instead of creating lots of folders throughout the root directory, you should put single pages in `_pages` folder and change the `permalink` at the top of each page. Use sub-folders only when you really need to.
@@ -61,14 +69,14 @@ permalink: /document-with-sidenav
 ---
 ```
 
-✅ Enable search with [Search.gov](https://search.gov) by adding option to `_config.yml`. 
+✅ Enable search with [Search.gov](https://search.gov) by adding option to `_config.yml`.
 
 
 ```
 ---
 searchgov:
   endpoint: https://search.usa.gov  # You should not change this.
-  affiliate: federalist-uswds-example # replace this with your search.gov account 
+  affiliate: federalist-uswds-example # replace this with your search.gov account
   access_key: your-access-key # This is placeholder. Not private.
   inline: true #this renders the results on the same domain. Otherwise, it will render the results in the search.gov domain
 ---
@@ -130,13 +138,31 @@ Open your web browser to [localhost:4000](http://localhost:4000/) to view your
 site.
 
 ### Testing
-    $ npm test
+
+```bash
+$ npm test
+```
+
+### Accessibility testing
+
+Use [pa11y](https://github.com/pa11y/pa11y) to run an initial accessibility test while developing features.
+
+The following commands are to test accessibility on your local development machine.
+
+```bash
+## Start a new development build of the site
+$ npm start
+
+## Open a new terminal window and run the following command for testing local deployment
+$ npm run pa11y:local
+```
+
 
 ## Technologies you should be familiarize yourself with
 
 - [Jekyll](https://jekyllrb.com/docs/) - The primary site engine that builds your code and content.
 - [Front Matter](https://jekyllrb.com/docs/frontmatter) - The top of each page/post includes keywords within `--` tags. This is meta data that helps Jekyll build the site, but you can also use it to pass custom variables.
-- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov) 
+- [U.S. Web Design System v 2.0](https://v2.designsystem.digital.gov)
 
 
 ## Contributing
