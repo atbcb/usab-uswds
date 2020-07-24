@@ -7,7 +7,7 @@ file-description: PDF version of Chapter 10 Amusement Rides
 
 ###  Accessible Amusement Rides
 *![roller
-coaster]({{ site.baseurl }}/images/ada-aba/guides/amusement/roller-coaster.jpg)\"Whenever
+coaster]({{ site.baseurl }}{{ page.image-directory }}/images/ada-aba/guides/chapter10/amusement/roller-coaster.jpg)\"Whenever
 any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
 and justice. The promise of the ADA\...has enabled people with
