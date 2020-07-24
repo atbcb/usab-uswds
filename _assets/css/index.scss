@@ -18,6 +18,8 @@ $theme-hero-image: asset_path("board-office.jpg");
 @import "components/sticky";
 @import "components/table-of-contents-subnav";
 
+
+
 // Add your SASS/CSS here
 
 // temporary blue class to see how grids work
@@ -97,6 +99,7 @@ $theme-hero-image: asset_path("board-office.jpg");
 .thumbnail {
   width: 15%;
   height: auto;
+  padding-bottom: 5px;
   //vertical-align: 30%;
   //max-height: 100px;
   @include u-margin(2);

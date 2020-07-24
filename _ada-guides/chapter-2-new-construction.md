@@ -32,7 +32,7 @@ compliance with the 2010 Standards.
 
 Requirements in Chapter 2 indicate which elements and spaces must be
 accessible on a site or in a facility (the scope of coverage). These
-"scoping" requirements apply technical provisions in Chapters 3 -- 10 to
+"scoping" requirements apply technical provisions in Chapters 3 through 10 to
 those covered elements and spaces provided on a site.
 
 Applicable building codes, design practices, and other factors determine
@@ -40,7 +40,9 @@ the elements and spaces required for a site, including parking, means of
 egress, and plumbing fixtures. The ADA Standards, on the other hand,
 specify the elements and spaces provided that must be accessible.
 
-### []{#201}Application \[[§201](../ada-standards/chapter-2-scoping-requirements.html#201%20Application)\]
+### Application
+
+[[§201](../ada-standards/chapter-2-scoping-requirements.html#201%20Application)]
 
 The ADA Standards apply to the various types of facilities subject to
 the ADA, from simple structures to complex, multi-building sites such as
@@ -56,29 +58,21 @@ In new construction, all areas must be fully accessible, including
 multiple spaces of the same type, unless otherwise specified. Areas not
 required to be fully accessible include:
 
--   certain limited-use or raised spaces that are exempt (§203)
--   employee work areas (partial access) (§203.9)
--   spaces covered by scoping provisions that require only a specified
+- certain limited-use or raised spaces that are exempt (§203)
+- employee work areas (partial access) (§203.9)
+- spaces covered by scoping provisions that require only a specified
     portion of the total number to comply, such as dressing rooms and
     patient bedrooms (various provisions in Chapter 2)
 
-+-----------------------+-----------------------+-----------------------+
-| **![retail            |                       | **Example: Retail     |
-| icon](https:/         |                       | Facility**            |
-| /www.access-board.gov |                       |                       |
-| /images/guidelines_st |                       | This example of a     |
-| andards/Buildings_Sit |                       | retail facility shows |
-| es/guides/chapter2-ad |                       | how scoping           |
-| a/nc2.jpg){width="50" |                       | requirements for      |
-| height="49"}**        |                       | certain elements and  |
-|                       |                       | spaces (sales         |
-|                       |                       | counters and fitting  |
-|                       |                       | rooms) apply and      |
-|                       |                       | indicates employee    |
-|                       |                       | work areas.           |
-+-----------------------+-----------------------+-----------------------+
+<div class="grid-container">
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/nc2.jpg"
+img-alt= "retail icon"
+text-title= "Example: Retail Facility"
+text= "This example of a retail facility shows how scoping requirements for certain elements and spaces (sales counters and fitting rooms) apply and indicates employee work areas."
+%}
+</div>  
 
-\
 ![Plan of a retail facility with a sales floor, rows of fitting rooms,
 toilet room, and the following areas highlighted as employee work areas:
 area behind sales counters, office, stock room, and loading dock. Figure
@@ -91,23 +85,17 @@ use toilet rooms, including employee restrooms, must comply. Employee
 Work Areas (§203.9) Partial access is required to areas used only by
 employees for work (worker side of sales counters, offices, stock room,
 and loading
-dock).]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc3.jpg)
+dock).]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc3.jpg){: .img-large}
 
- \
-**\
-  **
+<div class="grid-container">
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/nc4.jpg"
+img-alt= "medical symbol"
+text-title= "Example: Clinical Suite"
+text= "This facility includes public and common use areas and employee work areas."
+%}
+</div>  
 
-+:---------------------------------:+-----------------------------------+
-| **![medical                       | **Example: Clinical Suite**       |
-| symbol](https://www.a             |                                   |
-| ccess-board.gov/images/guidelines | This facility includes public and |
-| _standards/Buildings_Sites/guides | common use areas and employee     |
-| /chapter2-ada/nc4.jpg){width="50" | work areas.                       |
-| height="49"}**                    |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
-
-\
 ![Floor plan of clinical suites with waiting area, exam rooms and
 doctors' offices, mechanical rooms (exempt space), dressing rooms,
 toilet rooms, break rooms, and highlighted as employee work areas:
@@ -125,173 +113,130 @@ Rooms (§213) Access is required to all public and employee toilet rooms
 (or no more than 50% of single user toilet rooms for each use at each
 cluster). Common Use (Non-Work) Areas (§201) Full access to break rooms
 and to other employee areas not used for work
-purposes]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc5.jpg)
+purposes]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc5.jpg){: .img-large}
 
- 
+<div class="border" style="background-color: #deecf7; padding: 10px;">
+<h4>Exception Based on Structural Impracticability in DOJ's 2010 ADA Standards and DOT"s ADA Regulations</h4>
 
-+-----------------------------------------------------------------------+
-| **Exception Based on Structural Impracticability in\                  |
-| DOJ's 2010 ADA Standards and DOT"s ADA Regulations**                  |
-|                                                                       |
-| DOJ's 2010 ADA Standards and DOT\'s ADA regulations specify that full |
-| compliance is not required in new construction in rare circumstances  |
-| where unique characteristics of terrain make the incorporation of     |
-| accessibility features "structurally impracticable." In such a case,  |
-| the new construction requirements apply except where the responsible  |
-| entity can demonstrate that it is structurally impracticable to meet  |
-| those requirements. This exception is very narrow and should not be   |
-| used in cases of merely hilly terrain.                                |
-|                                                                       |
-| Even in those circumstances where the exception applies, portions of  |
-| a facility that can be made accessible must still be made accessible. |
-| In addition, access must be provided for individuals with other types |
-| of disabilities, even if it may be structurally impracticable to      |
-| provide access to individuals who use wheelchairs.                    |
-|                                                                       |
-| This exception is found in DOJ's 2010 Standards at                    |
-| [§35.151(a)](http://www.ada.gov/2010ADAstandards_index.htm) for title |
-| II and [§36.401(c)](http://www.ada.gov/2010ADAstandards_index.htm)    |
-| for title III and in DOT's ADA regulations at                         |
-| [§                                                                    |
-| 37.41(b)](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=d315855e2f2 |
-| c9f940970f4c191349c12&rgn=div5&view=text&node=49:1.0.1.1.27&idno=49). |
-+-----------------------------------------------------------------------+
+<p>DOJ’s 2010 ADA Standards and DOT's ADA regulations specify that full compliance is not required in new construction in rare circumstances where unique characteristics of terrain make the incorporation of accessibility features “structurally impracticable.” In such a case, the new construction requirements apply except where the responsible entity can demonstrate that it is structurally impracticable to meet those requirements. This exception is very narrow and should not be used in cases of merely hilly terrain.</p>
 
- 
+<p>Even in those circumstances where the exception applies, portions of a facility that can be made accessible must still be made accessible. In addition, access must be provided for individuals with other types of disabilities, even if it may be structurally impracticable to provide access to individuals who use wheelchairs.</p>
 
-### []{#203}General Exceptions \[[§203](../ada-standards/chapter-2-scoping-requirements.html#203%20General%20Exceptions)\]
+<p>This exception is found in DOJ’s 2010 Standards at <a href="http://www.ada.gov/2010ADAstandards_index.htm">§35.151(a)for title II</a> and <a href="(http://www.ada.gov/2010ADAstandards_index.htm">§36.401(c) for title III</a> and in <a href="http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=d315855e2f2c9f940970f4c191349c12&rgn=div5&view=text&node=49:1.0.1.1.27&idno=49">DOT’s ADA regulations at §37.41(b)</a>.
+</p>
+</div>
+
+### General Exceptions
+
+[[§203](../ada-standards/chapter-2-scoping-requirements.html#203%20General%20Exceptions)]
 
 These structures and spaces are fully exempt from the standards and are
 not required to be accessible or on an accessible route:
 
-![construction
-barrier]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc6.jpg){width="60"
-height="56"} 
-:::
+#### Construction Sites [§203.2]
 
- 
+{% include grid-2col-leftimg-righttextstditalic.html
+img-file= "chapter2-ada/nc6.jpg"
+img-alt= "construction barrier"
+text= "Structures directly associated with the actual processes of construction
+and portable toilets used only by construction workers"
+text2= "Examples: scaffolding, bridging, materials hoists, construction trailers"
+%}
 
-**Construction Sites (§203.2)**\
-Structures directly associated with the actual processes of construction
-and portable toilets used only by construction workers \
-*Examples: scaffolding, bridging, materials hoists, construction
-trailers*\
-\
+#### Areas Raised for Security/ Safety [§203.3]
 
- ![tower]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc7.jpg){width="60"
-height="58"}
+{% include grid-2col-leftimg-righttextstditalic.html
+img-file= "chapter2-ada/nc7.jpg"
+img-alt= "tower"
+text= "Areas raised primarily for purposes of security or life/ fire safety"
+text2= "Examples: life guard stands, fire towers, and prison guard towers"
+%}
 
- 
+#### Raised Work Areas [§203.9]
 
-**Areas Raised for Security/ Safety (§203.3)**\
-Areas raised primarily for purposes of security or life/ fire safety\
-*Examples: life guard stands, fire towers, and prison guard towers*\
-\
-
- ![boiler
-]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc8.jpg){width="70"
-height="48"}
-
- 
-
-**Raised Work Areas (§203.9)**\
-Employee work areas under 300 s.f. that are elevated at least 7" as an
+{% include grid-2col-leftimg-righttextstditalic.html
+img-file= "chapter2-ada/nc8.jpg"
+img-alt= "boiler"
+text= "Employee work areas under 300 s.f. that are elevated at least 7\" as an
 essential functional condition of the space (excluding raised courtroom
-stations)\
-*Example: Work areas with equipment/ machinery that must be operated
-from a platform* \
-\
+stations)"
+text2= "Example: Work areas with equipment/ machinery that must be operated
+from a platform"
+%}
 
- ![structure with
-ladder]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc9.jpg){width="70"
-height="54"}
+#### Limited Access Spaces [§203.4]
 
- 
+{% include grid-2col-leftimg-righttextstditalic.html
+img-file= "chapter2-ada/nc9.jpg"
+img-alt= "structure with ladder"
+text= "Spaces accessed only by ladders, catwalks, crawl spaces, or very narrow
+passageways"
+text2= "Examples: lighting/ equipment catwalks at stages and performing areas,
+platforms served only by ladder"
+%}
 
-**Limited Access Spaces (§203.4)**\
-Spaces accessed only by ladders, catwalks, crawl spaces, or very narrow
-passageways\
-*Examples: lighting/ equipment catwalks at stages and performing areas,
-platforms served only by ladder*\
-\
+#### Machinery Spaces [§203.5]
 
- ![valve]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc10.jpg){width="70"
-height="56"}
-
- 
-
-**Machinery Spaces (§203.5)**\
-Spaces used only by service personnel for maintenance, repair, or
-occasional monitoring of equipment\
-*Examples: elevator pits/ penthouses, mechanical/ electrical/
+{% include grid-2col-leftimg-righttextstditalic.html
+img-file= "chapter2-ada/nc10.jpg"
+img-alt= "valve"
+text= "Spaces used only by service personnel for maintenance, repair, or
+occasional monitoring of equipment"
+text2= "Examples: elevator pits/ penthouses, mechanical/ electrical/
 communications equipment rooms, water or sewage treatment pump rooms,
-electric substations, and transformer vaults*\
-\
+electric substations, and transformer vaults"
+%}
 
- ![toll
-booth]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc11.jpg){width="70"
-height="55"}
+#### Single Occupant Structures [§203.6]
 
- 
-
-**Single Occupant Structures (§203.6)**\
-Single occupant structures accessed only by below-grade passageways or
-elevated above standard curb height\
-*Examples: toll booths that are accessed by underground tunnels or
+{% include grid-2col-leftimg-righttextstditalic.html
+img-file= "chapter2-ada/nc11.jpg"
+img-alt= "toll booth"
+text= "Single occupant structures accessed only by below-grade passageways or
+elevated above standard curb height"
+text2= "Examples: toll booths that are accessed by underground tunnels or
 elevated above curb height, such as those serving dedicated truck
-lanes*\
-\
+lanes"
+%}
 
-**![jail cell and house
-]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc12.jpg){width="130"
-height="64"}Detention/Correctional and Residential Facilities (§203.7
-and §203.8)**
+#### Detention/Correctional and Residential Facilities [§203.7 and §203.8]
 
-Common use spaces in detention/ correctional facilities or residential
+{% include grid-2col-leftimg-righttextstditalic.html
+img-file= "chapter2-ada/nc12.jpg"
+img-alt= "jail cell and house"
+text= "Common use spaces in detention/ correctional facilities or residential
 facilities that do not serve accessible cells or dwelling units are
-exempt.
+exempt."
+text2= ""
+%}
 
- 
+#### Certain Sports/ Recreation and Other Structures [§203.10 - §203.14]
 
-**Certain Sports/ Recreation and Other Structures (§203.10 - §203.14)**
+{% include grid-2col-leftimg-righttextstditalic.html
+img-file= "chapter2-ada/nc13.jpg"
+img-alt= "boxing ring"
+text= "These structures and spaces are also exempt: <ul> <li>raised structures used solely for refereeing, judging, or scoring a sport</li><li>raised boxing/ wrestling rings</li><li>water slides and raised diving boards/ platforms</li><li>animal containment areas not open to the public</li></ul>"
+text2= ""
+%}
 
-These structures and spaces are also exempt:
+### Employee Work Areas
 
--   ![boxing
-    ring]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc13.jpg){width="130"
-    height="62"}raised structures used solely for refereeing, judging,
-    or scoring a sport
--   raised boxing/ wrestling rings
--   water slides and raised diving boards/ platforms
--   animal containment areas not open to the public
+[[§203.9](../ada-standards/chapter-2-scoping-requirements.html#203%20General%20Exceptions)]
 
-   
-
-### []{#2039}Employee Work Areas \[[§203.9](../ada-standards/chapter-2-scoping-requirements.html#203%20General%20Exceptions)\]
-
-+-----------------------------------------------------------------------+
-| ![EEOC](https://www.access-board.gov/images/guideline                 |
-| s_standards/Buildings_Sites/guides/chapter2-ada/nc14.jpg){width="130" |
-| height="45"}                                                          |
-|                                                                       |
-| *Title I of the ADA prohibits discrimination based on disability in   |
-| the workplace. Information on the ADA and equal opportunities in      |
-| hiring and employment, including reasonable accommodations for        |
-| employees, is available from the Equal Employment Opportunity         |
-| Commission at (800) 669-4000 (v), (800) 669-6820 (TTY),               |
-| or *[www.eeoc.gov](http://www.eeoc.gov)                               |
-|                                                                       |
-|                                                                       |
-+-----------------------------------------------------------------------+
+{% include imgright-italictextbelow.html
+img-file= "chapter2-ada/nc14.jpg"
+img-alt= "EEOC"
+text= "Title I of the ADA prohibits discrimination based on disability in the workplace. Information on the ADA and equal opportunities in hiring and employment, including reasonable accommodations for employees, is available from the Equal Employment Opportunity Commission at (800) 669-4000 (v), (800) 669-6820 (TTY), or <a href=\"http://www.eeoc.gov\">www.eeoc.gov</a>"
+%}
 
 The ADA Standards require a more limited level of accessibility in
 employee work areas. At a minimum, areas used only by employees as work
 areas must meet requirements for:
 
--   access to approach, enter, and exit the work area (§203.9)
--   accessible means of egress (§207.1)
--   wiring for visible alarms in areas served by audible alarms (§215.3)
--   accessible common use circulation paths in most work areas of at
+- access to approach, enter, and exit the work area (§203.9)
+- accessible means of egress (§207.1)
+- wiring for visible alarms in areas served by audible alarms (§215.3)
+- accessible common use circulation paths in most work areas of at
     least 1,000 sq.ft. (§206.2.8)
 
 Other requirements, including those for turning space, do not apply to
@@ -304,12 +249,12 @@ accessible. Some public use spaces also function as work spaces, such as
 medical exam rooms and classrooms. These spaces must be fully accessible
 for public use, but elements within used only by employees for work are
 not required to comply.
+  
+{% include recommendation.html
+text= "Although areas used only by employees for work are not required to be fully accessible, consider designing such areas to include non-required turning spaces, and provide accessible elements whenever possible.  Under the ADA, employees with disabilities are entitled to reasonable accommodations in the workplace.  Accommodations can include alterations to spaces within the facility.  Designing employee work areas to be more accessible at the outset will eliminate or reduce the need for more costly retrofits in providing reasonable accommodations for employees with disabilities."
+%}
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![design compass]({{ site.baseurl }}/images/ada-aba/guides/compass.jpg){width="35" height="63"}*Recommendation:  *Although areas used only by employees for work are not required to be fully accessible, consider designing such areas to include non-required turning spaces, and provide accessible elements whenever possible.  Under the ADA, employees with disabilities are entitled to reasonable accommodations in the workplace.  Accommodations can include alterations to spaces within the facility.  Designing employee work areas to be more accessible at the outset will eliminate or reduce the need for more costly retrofits in providing reasonable accommodations for employees with disabilities.
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Access to Approach, Enter, and Exit Work Areas**
+#### Access to Approach, Enter, and Exit Work Areas
 
 Access for "approach, entry, and exit" requires a connecting accessible
 route to the work area and a compliant entrance, including entry doors
@@ -327,19 +272,18 @@ means of egress Wiring must be designed to allow later installation of
 visible alarms in work areas served by audible alarms. Note: Signs and
 other elements provided outside the work area must comply with the
 requirements for those
-elements.]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc15.jpg)
+elements.]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc15.jpg){: .img-full}
 
 ![Office with several work cubicles and accessible means of egress that
 extends from entrance of office to exit on opposite wall. Figure note:
 In some cases, other accessibility requirements may apply to an employee
 work area. For example, if a required accessible means of egress passes
 through a work area, the route must fully
-comply.]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc16a.jpg){width="608"
-height="275"} 
+comply.]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc16a.jpg){: .img-full}
 
- \
-**Common Use Circulation Paths in Employee Work Areas
-\[[§206.2.8](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)\]**
+### Common Use Circulation Paths in Employee Work Areas
+
+[[§206.2.8](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
 
 Common use circulation paths must be accessible in work areas 1,000
 square feet or more in size (as defined by permanently installed
@@ -355,15 +299,15 @@ meet requirements for accessible routes, including clear width and
 changes in level. Doors and gates that are part of common use
 circulation paths, including those leading to and from the work area,
 must fully
-comply.]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc17.jpg)\
- \
-**Work Area Circulation Paths: Exceptions**
+comply.]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc17.jpg){: .img-full}
+
+#### Work Area Circulation Paths: Exceptions
 
 Common use circulation paths are required to be accessible except:
 
--   in work areas below 1,000 sq. ft. in size
--   in work areas fully exposed to the weather (regardless of size)
--   where they are integral to work equipment
+- in work areas below 1,000 sq. ft. in size
+- in work areas fully exposed to the weather (regardless of size)
+- where they are integral to work equipment
 
 ![Large tanks with stairs leading to catwalk on top. Figure note:
 Circulation paths integrated into storage tanks, machinery, and other
@@ -371,40 +315,25 @@ work equipment are not required to comply. Technical exceptions also
 allow circulation path clearances to be reduced where it is essential to
 the work function (§403.5, §405.5) and permit later installation of ramp
 handrails
-(§405.8).]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc18.jpg)
+(§405.8).]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc18.jpg){: .img-full}
 
- 
+### Circulation Paths Serving Exempted Spaces [§203]
 
-![valve]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc10.jpg){width="70"
-height="56"}
+{% include grid-2col-left3imgs-righttextstd.html
+img-file1= "chapter2-ada/nc10.jpg"
+img-alt1= "valve"
+img-file2= "chapter2-ada/nc9.jpg"
+img-alt2= "structure with ladder"
+img-file3= "chapter2-ada/nc8.jpg"
+img-alt3= "boiler"
+text= "Portions of common use circulation paths serving exempt spaces within a work area are not required to comply, including routes to or within: <ul><li>machinery spaces used only by service personnel;</li><li>spaces accessed only by ladders, catwalks, crawl spaces, or very narrow passageways;</li><li>employee work areas under 300 sq. ft. that are elevated at least 7\" as an essential functional condition of the space (excluding raised courtroom stations)</li><li>and other exempted spaces.</li></ul>"
+%}
 
-**Circulation Paths Serving Exempted Spaces \[§203\]**
+### Wiring for Visible Alarms
 
-Portions of common use circulation paths serving exempt spaces within a
-work area are not required to comply, including routes to or within:
+[[§215.3](../ada-standards/chapter-2-scoping-requirements.html#215%20Fire%20Alarm%20Systems)]
 
--   machinery spaces used only by service personnel; 
--   spaces accessed only by ladders, catwalks, crawl spaces, or very
-    narrow passageways;
--   employee work areas under 300 sq. ft. that are elevated at least 7"
-    as an essential functional condition of the space (excluding raised
-    courtroom stations);
--   and other exempted spaces.
-
- ![structure with
-ladder]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc9.jpg){width="70"
-height="54"}
-
- ![boiler
-]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc8.jpg){width="70"
-height="48"}
-
- 
-
-**![fire
-alarm]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc19.jpg){width="100"
-height="110"}Wiring for Visible Alarms
-\[[§215.3](../ada-standards/chapter-2-scoping-requirements.html#215%20Fire%20Alarm%20Systems)\]**
+![fire alarm]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc19.jpg){: .float-right .thumbnail}
 
 All employee work areas served by audible fire alarms, regardless of
 size, must be designed to support later installation of visible alarms
@@ -413,20 +342,19 @@ typically provided with sufficient power resources to support the
 addition of strobes where they are needed to accommodate an employee who
 cannot hear the audible alarm.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![design compass]({{ site.baseurl }}/images/ada-aba/guides/compass.jpg){width="35" height="63"}*Recommendation:*  In facilities where an above-average number of employees with hearing impairments is likely, such as in the offices of a school for people who are deaf or hard of hearing, it is advisable to equip alarm systems with power capacity above the level that is typically provided in order to accommodate a greater number of visual appliances.
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{% include recommendation.html
+text= "In facilities where an above-average number of employees with hearing impairments is likely, such as in the offices of a school for people who are deaf or hard of hearing, it is advisable to equip alarm systems with power capacity above the level that is typically provided in order to accommodate a greater number of visual appliances."
+%}
 
- 
+### Scoping Requirements for Elements and Spaces
 
-### []{#204}Scoping Requirements for Elements and Spaces \[[§204 -- §243](../ada-standards/chapter-2-scoping-requirements.html#204%20Protruding%20Objects)\]
+[[§204 -- §243](../ada-standards/chapter-2-scoping-requirements.html#204%20Protruding%20Objects)]
 
-\
 Scoping provisions for elements and spaces, which are summarized here,
 are further discussed with relevant technical provisions in the
 following chapters of this guide.
 
-### **Site Arrival Points, Entrances, and Egress** {#site-arrival-points-entrances-and-egress style="text-align: center;"}
+#### Site Arrival Points, Entrances, and Egress
 
 ![Figure of entrance at food mart with accessible parking spaces and
 accessible routes shown extending from entrance to access aisle at
@@ -449,10 +377,9 @@ required in every continuous 100 linear feet or fraction thereof. Bus
 stops and bus loading zones for designated or specified public
 transportation, where provided, must meet requirements for bus boarding
 and alighting
-areas.]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc20.jpg)\
- 
+areas.]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc20.jpg){: .img-full}
 
-### **General Elements** {#general-elements style="text-align: center;"}
+#### General Elements
 
 Most scoping provisions apply to both interior and exterior elements
 where provided throughout facilities and sites (and are not limited to
@@ -474,13 +401,9 @@ stairs that are part of a required means of egress must comply. Windows
 occupants, at least 1 must comply. Each window that is required to be
 operable by a local code or authority also must comply. These
 requirements do not apply to residential
-facilities.]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc21.jpg)
+facilities.]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc21.jpg){: .img-full}
 
- 
-
-### **Communication Elements** {#communication-elements style="text-align: center;"}
-
- 
+#### Communication Elements
 
 ![Figure of corridor with overhead sign ("East Wing Rooms 300 -- 350"),
 sign at door, fire alarm, and pay telephone. Figure notes: Fire Alarm
@@ -508,13 +431,9 @@ Lodging (§224) and Dwelling Units (§233) A specified portion of
 transient lodging guest rooms and dwelling units must be equipped with
 accessible communication features, such as visual devices for door bells
 and visible
-alarms.]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc22.jpg)
+alarms.]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc22.jpg){: .img-full}
 
- \
-**\
-**
-
-### **Plumbing Elements and Facilities** {#plumbing-elements-and-facilities style="text-align: center;"}
+#### Plumbing Elements and Facilities
 
 ![Figure of entrances to a women's room and men's room with a dual bowl
 drinking fountain in between. Figure notes: Drinking Fountains (§211)
@@ -535,13 +454,11 @@ purposes). Washing Machines and Clothes Dryers (§214) At least 2 washing
 machines must comply if more than 3 are provided, and at least 1 washing
 machine must comply if 3 or fewer are provided. This level of access is
 also required for clothes dryers.
-]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc23.jpg)
+]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc23.jpg){: .img-full}
 
- 
+#### Sales and Service Elements and Spaces
 
-### **Sales and Service Elements and Spaces** {#sales-and-service-elements-and-spaces style="text-align: center;"}
-
-**![Figure of customer service lobby of bank "Bank of Washington" with
+![Figure of customer service lobby of bank "Bank of Washington" with
 teller windows, work surface (desk), and ATM with self-service shelving.
 Figure notes: Sales and Service Counters (§227.3) Access is required to
 at least 1 of each type of sales and service counter provided. If
@@ -566,16 +483,9 @@ and standing spaces at fixed or built-in dining surfaces are required to
 be accessible. Food service lines, where provided, must comply and at
 least 50% of self-service shelves are required to be within accessible
 reach range.
-]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc24.jpg)** 
+]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc24.jpg){: .img-full}
 
-\
-  
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  *DOJ's 2010 ADA Standards incorporate regulatory language that modifies or augments a number of these provisions (noted with an asterisk) and also set forth additional requirements for spaces and facilities provided in housing at a place of education, social service center establishments, and curb ramps.*
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**Specific Spaces and Occupancies**
+#### Specific Spaces and Occupancies
 
 The ADA Standards include scoping requirements specific to certain types
 of spaces and facilities that apply based on the intended use and
@@ -583,33 +493,79 @@ design. Spaces with multiple uses must meet all applicable requirements
 for each use. Scoping provisions for specific spaces and occupancies
 address:
 
- 
+<div class="border" style="padding: 10px;">
+<span id="asterisk">DOJ's 2010 ADA Standards incorporate regulatory language that modifies or augments a number of these provisions</span> (<span class="bold">*noted with an asterisk *</span>) and also set forth additional requirements for spaces and facilities provided in housing at a place of education, social service center establishments, and curb ramps.
+</div>
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------
-        ![train]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc25.jpg){width="50" height="49"}      **Transportation Facilities (§218) and Bus Stops (§209)**
-     ![microphone]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc26.jpg){width="50" height="49"}    **Assembly Areas (§221)\***
-       ![hanger]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc27.jpg){width="50" height="49"}      **Dressing, Fitting, and Locker Rooms (§222)**
-   ![medical symbol]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc28.jpg){width="50" height="51"}  **Medical Care and Long-Term Care Facilities (§223)\***
-      ![suitcase]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc29.jpg){width="50" height="49"}     **Transient Lodging Guest Rooms (§224)\***
-      ![lockers]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc30.jpg){width="50" height="50"}      **Storage (§225)**
-       ![gavel]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc31.jpg){width="50" height="49"}       **Judicial Facilities (§231)**
-   ![jail cell door]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc32.jpg){width="50" height="49"}  **Detention and Correctional Facilities (§232)\***
-       ![house]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc33.jpg){width="50" height="49"}       **Residential Facilities (§233)\***
-      ![swimmer]({{ site.baseurl }}/images/ada-aba/guides/chapter2-ada/nc34.jpg){width="50" height="49"}      **Recreation Facilities (§234 -- §243)**
-  -------------------------------------------------------------------------------------------------------------------------------------------------- -----------------------------------------------------------
+<div class="grid-container">
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/nc25.jpg"
+img-alt= "train"
+text= "<h5>Transportation Facilities [§218] and Bus Stops [§209]</h5>"
+%}
 
-\
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/nc26.jpg"
+img-alt= "microphone"
+text= "<h5 aria-describedby=\"asterisk\">Assembly Areas [§221]*</h5>"
+%}
+
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/nc27.jpg"
+img-alt= "hangar"
+text= "<h5>Dressing, Fitting, and Locker Rooms [§222]</h5>"
+%}
+
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/nc28.jpg"
+img-alt= "medical symbol"
+text= "<h5 aria-describedby=\"asterisk\">Medical Care and Long-Term Care Facilities [§223]*</h5>"
+%}
+
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/nc29.jpg"
+img-alt= "suitcase"
+text= "<h5 aria-describedby=\"asterisk\">Transient Lodging Guest Rooms [§224]*</h5>"
+%}
+
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/nc30.jpg"
+img-alt= "lockers"
+text= "<h5>Storage [§225]</h5>"
+%}
+
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/nc31.jpg"
+img-alt= "gavel"
+text= "<h5>Judicial Facilities [§231]</h5>"
+%}
+
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/nc32.jpg"
+img-alt= "jail cell door"
+text= "<h5 aria-describedby=\"asterisk\">Detention and Correctional Facilities [§232]*</h5>"
+%}
+
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/nc33.jpg"
+img-alt= "house"
+text= "<h5 aria-describedby=\"asterisk\">Residential Facilities [§233]*</h5>"
+%}
+
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter2-ada/nc34.jpg"
+img-alt= "swimmer"
+text= "<h5>Recreation Facilities [§234 - §243]</h5>"
+%}
+
+</div>
+
+### Common Questions
+
 ![question
-mark]({{ site.baseurl }}/images/ada-aba/guides/ques.jpg){width="100"
-height="100"}
+mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail}
 
- 
-
- 
-
-### []{#questions}Common Questions
-
-*Are all public use and common use areas required to be accessible?*
+#### Are all public use and common use areas required to be accessible?
 
 All areas of facilities, including public and common use areas, are
 required to be accessible in new construction except those that are
@@ -621,25 +577,25 @@ same type, such as patient exam rooms, classrooms, and courtrooms, are
 required to be accessible. Employee work areas, however, are not
 required to be fully accessible.
 
-*Can access be provided after construction based on need?*
+#### Can access be provided after construction based on need?
 
 Access required by the ADA Standards must be put in place and ready for
 use as part of construction. This is required in all but a few specified
 instances, such as:
 
--   Toilet and bathrooms in residential dwelling units or accessed
+- Toilet and bathrooms in residential dwelling units or accessed
     through an individual's private office for his or her exclusive use
     are not required to be built with certain specifically enumerated
     access features, such as grab bars and lavatory clearances, if they
     are built according to criteria that will facilitate later
     installation or adaptation, such as reinforcement for grab bars and
     removable vanity cabinets.
--   Vertical access to work stations in courtrooms, such as judges'
+- Vertical access to work stations in courtrooms, such as judges'
     benches, can be provided after construction if space and other
     requirements are met to ease later installation of necessary ramps
     or lifts.
 
-*Are employee restrooms and break rooms required to be accessible?*
+#### Are employee restrooms and break rooms required to be accessible?
 
 Yes, spaces used by employees for purposes other than work, including
 restrooms, break rooms, locker rooms, lounges, and parking must be fully
@@ -649,8 +605,7 @@ egress for approach, entry, and exit and have wiring to support visual
 alarms if served by audible alarms. Also, circulation paths must be
 accessible in work areas at least 1,000 square feet in size.
 
-*What does access for "approach, entry, and exit" to employee work areas
-require?*
+#### What does access for "approach, entry, and exit" to employee work areas require?
 
 Access for individuals with disabilities to "approach, entry, and exit"
 employee work areas requires that the following be provided at a
