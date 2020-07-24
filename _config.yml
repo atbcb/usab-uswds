@@ -163,6 +163,9 @@ collections:
   mde:
     output: true
     permalink: /mde/:path/
+  authors:
+    output: true
+    permalink: /authors/:name/
 
 
 permalink: pretty
@@ -244,7 +247,7 @@ defaults:
       collection-folder: ada-vehicles
       layout: standards
       file-directory: /files/vehicles/
-      image-directory: /images/vehicles/ 
+      image-directory: /images/vehicles/
   - scope:
       path: ""
       type: "ada-vehicles-update-buses-and-vans"
@@ -253,7 +256,7 @@ defaults:
       collection-folder: ada-vehicles-update-buses-and-vans
       layout: standards
       file-directory: /files/vehicles/
-      image-directory: /images/vehicles/ 
+      image-directory: /images/vehicles/
   - scope:
       path: ""
       type: "ada-vehicles-update-rail-cars"
@@ -262,7 +265,7 @@ defaults:
       collection-folder: ada-vehicles-update-rail-cars
       layout: standards
       file-directory: /files/vehicles/
-      image-directory: /images/vehicles/ 
+      image-directory: /images/vehicles/
   - scope:
       path: ""
       type: "mde"
@@ -271,7 +274,11 @@ defaults:
       collection-folder: mde
       layout: standards
       file-directory: /files/mde/
-      image-directory: /images/mde/ 
+      image-directory: /images/mde/
+  - scope:
+      path: "_authors"
+    values:
+      layout: author
 
 
 markdown: kramdown
