@@ -4,18 +4,19 @@ order-number: 1003
 file: boating.pdf
 file-description: PDF version
 ---
+![photo of accessible boat
+slip]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/p2boat.jpg){: .float-right .thumbnail}
 
-*![photo of accessible boat
-slip]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/p2boat.jpg){width="175"
-height="202"}\"Whenever any barrier stands between you and the full
-rights and dignity of citizenship, we must work to remove it, in the
-name of simple decency and justice.The promise of the ADA\...has enabled
-people with disabilities to enjoy much greater access to a wide range of
-affordable travel, recreational opportunities and life-enriching
-services."*
+>*"Whenever any barrier stands between you and the full rights and dignity of
+citizenship, we must work to remove it, in the name of simple decency
+and justice. The promise of the ADA...has enabled people with
+disabilities to enjoy much greater access to a wide range of affordable
+travel, recreational opportunities and life-enriching services."*
 
-> *President George W. Bush, New Freedom Initiative, February 1, 2001*
+>> *President George W. Bush, New Freedom Initiative, February 1, 2001*
 
+
+###  Accessible Boating
 The recreation facility guidelines described in this guide focus on
 newly designed or newly constructed and altered boating facilities.
 Other provisions contained in ADAAG address elements commonly found at a
@@ -37,14 +38,9 @@ designed for recreational use.
 
 These guidelines do not cover the design of passenger vessels or ferry
 docks, and do not address access on and off passenger vessels. These
-issues will be addressed in future rulemaking for passenger vessels.
-:::
+issues will be addressed in [future rulemaking for passenger vessels]({{ site.baseurl }}/pvag/).
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_622 .attachmentsList}
-:::
-:::
+
 
 ![photo of
 gangway]({{ site.baseurl }}{{ page.image-directory }}/chapter10/p5boat.jpg){width="277"
@@ -58,7 +54,7 @@ inches), passing space,head room, surface, slope (maximum of 1:12 or
 8.33%), changes in level, doors, egress, and areas of rescue assistance,
 unless otherwise modified by specific provisions outlined in this guide.
 
-**Gangways**\
+#### Gangways
 A gangway is a variable-sloped pedestrian walkway linking a fixed
 structure or land with a floating structure. Where gangways are provided
 as part of accessible routes to connect accessible boat slips on
@@ -363,13 +359,7 @@ accessible. It is recommended that an accessible route serve at least
 one launch ramp. The portion of the accessible route located within the
 launch ramp is not required to comply with the slope requirements for
 accessible routes.
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1814 .attachmentsList}
-:::
-:::
 
 This table highlights the sections of the ADA and ABA Accessibility
 Standards discussed in the boating facilities guide.
