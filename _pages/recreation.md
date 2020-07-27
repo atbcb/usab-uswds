@@ -1,3 +1,6 @@
+---
+title: Recreation Facilities
+---
 ### Introduction
 
 The Americans with Disabilities Act (ADA) is a comprehensive civil

@@ -2,19 +2,19 @@
 title: "Chapter 10: Amusement Rides"
 order-number: 1002
 file: amusement.pdf
-file-description: PDF version of Chapter 10 Amusement Rides
+file-description: PDF version
 ---
 
 ###  Accessible Amusement Rides
-*![roller
-coaster]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/roller-coaster.jpg)\"Whenever
+>*![roller
+coaster]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/roller-coaster.jpg){: .float-right}\"Whenever
 any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
 and justice. The promise of the ADA\...has enabled people with
 disabilities to enjoy much greater access to a wide range of affordable
 travel, recreational opportunities and life-enriching services.\"*
 
-> *President George W. Bush, New Freedom Initiative, February 1, 2001*
+>> *President George W. Bush, New Freedom Initiative, February 1, 2001*
 
 The recreation facility guidelines described in this guide focus on
 newly designed or newly constructed and altered amusement rides. Other
@@ -32,7 +32,7 @@ purpose of amusement. The guidelines do not apply to vehicles such as
 trams or gondolas, which, while they may be enjoyable, are designed
 primarily to transport people. These vehicles are addressed in the [ADA
 Accessibility Guidelines for Transportation
-Vehicles](http://www.access-board.gov/transit/html/vguide.htm).
+Vehicles]({{ site.baseurl }}/ada/vehicles/).
 
 #### New Rides
 New rides refer to the "first use," which is the first time amusement
@@ -123,8 +123,7 @@ rides designed for children, and rides without seats.
 
 ![diagram of an accessible route to a ride that includes a platform lift
 or elevator for
-entry]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-7.jpg){width="450"
-height="291"}
+entry]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-7.jpg){: .img-large}
 
 Any part of an accessible route with a slope greater than 1:20 (5%) is
 considered a ramp, which limits the slope to 1:12 (8.33%) maximum. There
@@ -154,8 +153,8 @@ ___
 
 ### Signage
 ![photo of sign with access symbol at entrance to waiting line
-area]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/access_line.jpg){width="230"
-height="198"}Signage must be provided at the entrance of the queue or
+area]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/access_line.jpg){: .float-right}
+Signage must be provided at the entrance of the queue or
 waiting line for each accessible amusement ride to identify the type of
 access provided on the ride (e.g., rides with wheelchair spaces or
 transfer rides). If the route to the accessible load area is different

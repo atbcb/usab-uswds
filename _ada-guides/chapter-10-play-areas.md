@@ -1,6 +1,6 @@
 ---
 title: "Chapter 10: Play Areas"
-order-number: 1003
+order-number: 1008
 file: play-areas.pdf
 file-description: PDF version
 ---
