@@ -7,7 +7,7 @@ file-description: PDF version of Chapter 10 Amusement Rides
 
 ###  Accessible Amusement Rides
 *![roller
-coaster]({{ site.baseurl }}{{ page.image-directory }}/images/ada-aba/guides/chapter10/amusement/roller-coaster.jpg)\"Whenever
+coaster]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/roller-coaster.jpg)\"Whenever
 any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
 and justice. The promise of the ADA\...has enabled people with
@@ -123,7 +123,7 @@ rides designed for children, and rides without seats.
 
 ![diagram of an accessible route to a ride that includes a platform lift
 or elevator for
-entry]({{ site.baseurl }}/images/ada-aba/guides/amusement/page-7.jpg){width="450"
+entry]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-7.jpg){width="450"
 height="291"}
 
 Any part of an accessible route with a slope greater than 1:20 (5%) is
@@ -154,7 +154,7 @@ ___
 
 ### Signage
 ![photo of sign with access symbol at entrance to waiting line
-area]({{ site.baseurl }}/images/ada-aba/guides/amusement/access_line.jpg){width="230"
+area]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/access_line.jpg){width="230"
 height="198"}Signage must be provided at the entrance of the queue or
 waiting line for each accessible amusement ride to identify the type of
 access provided on the ride (e.g., rides with wheelchair spaces or
@@ -183,7 +183,7 @@ The floor or ground surface in the load and unload areas must have a
 slope not steeper than 1:48 and be stable, firm, and slip resistant.
 
 Gaps![illustration of four types of allowable
-gaps]({{ site.baseurl }}/images/ada-aba/guides/amusement/page-9.jpg)
+gaps]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-9.jpg)
 Where wheelchair spaces are provided on amusement rides, the floors of
 rides must be coordinated with the floors of the load and unload areas
 so that when the ride is at the load and unload position, the vertical
@@ -245,11 +245,11 @@ floor. Objects may protrude a maximum of 25 inches along the front of
 the space if they are more than 27 inches above the floor surface.
 
 ![illustration of allowable protrusions into wheelchair
-spaces]({{ site.baseurl }}/images/ada-aba/guides/amusement/page-11.jpg)
+spaces]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-11.jpg)
 
 #### Companion Seats
 ![illustration of wheelchair space with companion
-seating]({{ site.baseurl }}/images/ada-aba/guides/amusement/page-12.jpg)
+seating]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-12.jpg)
 Where companion seating is provided on a ride, companion seating adjacent to
 wheelchair spaces is also required in some cases. A companion seat is
 required if the interior of an amusement ride is more than 53 inches
@@ -278,7 +278,7 @@ consideration should be given to providing gripping surfaces, seat
 paddings, and avoiding sharp or protruding objects.
 
 ![illustration of ride seat designed for
-transfer]({{ site.baseurl }}/images/ada-aba/guides/amusement/page-13.jpg){width="442"
+transfer]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-13.jpg){width="442"
 height="283"}
 
 #### Clear Floor Space
@@ -305,7 +305,7 @@ device must provide sufficient clearance for transfer.
 ### Transfer Devices for Use with an Amusement Ride
 ![illustration of transfer devices including portable tier, fixed tier,
 and portable
-bench]({{ site.baseurl }}/images/ada-aba/guides/amusement/page-14.jpg){width="217"
+bench]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-14.jpg){width="217"
 height="502"}
 
 Transfer devices may also be used to provide access onto an amusement

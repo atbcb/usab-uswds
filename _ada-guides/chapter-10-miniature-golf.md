@@ -5,7 +5,7 @@
 :::
 
 ![minature golf
-course](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/mingolf-guide/mingolf.jpg)*\"Whenever
+course]({{ site.baseurl }}{{ page.image-directory }}/chapter10/mingolf-guide/mingolf.jpg)*\"Whenever
 any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
 and justice. The promise of the ADA\...has enabled people with
@@ -43,8 +43,8 @@ itself.
 *Click on diagram to view enlargement.*
 
 [![Accessible holes 1 through 8 & 18 (50% of
-holes)](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/mingolf-guide/overalldiag-full.jpg){width="500"
-height="326"}](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/mingolf-guide/overalldiag-full.jpg)
+holes)]({{ site.baseurl }}{{ page.image-directory }}/chapter10/mingolf-guide/overalldiag-full.jpg){width="500"
+height="326"}]({{ site.baseurl }}{{ page.image-directory }}/chapter10/mingolf-guide/overalldiag-full.jpg)
 :::
 
 ::: {itemprop="articleBody"}
@@ -78,9 +78,9 @@ resistant.)
 
 ![illustration of accessible route on playing surface with opening onto
 adjacent accessible
-route](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/mingolf-guide/page-7hi.jpg){width="232"
+route]({{ site.baseurl }}{{ page.image-directory }}/chapter10/mingolf-guide/page-7hi.jpg){width="232"
 height="198"}![illustration of golf club reach ranges on playing
-surface](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/mingolf-guide/page-7lo.jpg){width="241"
+surface]({{ site.baseurl }}{{ page.image-directory }}/chapter10/mingolf-guide/page-7lo.jpg){width="241"
 height="225"}
 
 There is usually a curb around a hole to keep the ball within the area.
@@ -95,7 +95,7 @@ The accessible route on a playing surface must be within 36 inches (the
 golf club reach range) of any area where the ball comes to rest.
 
 ![illustration of accessible route on the playing
-surface](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/mingolf-guide/page-8hi.jpg){width="220"
+surface]({{ site.baseurl }}{{ page.image-directory }}/chapter10/mingolf-guide/page-8hi.jpg){width="220"
 height="224"}Landings must be 48 inches long. Where ramps change
 direction, the landing size must be a minimum of 48 inches by 60 inches.
 The orientation of the length and the width have not been specified for
@@ -109,7 +109,7 @@ for limited distances.
 
 **Accessible Routes Adjacent to the Playing Surface**![illustration of
 accessible route adjacent to playing
-surface](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/mingolf-guide/page-8lo.jpg){width="220"
+surface]({{ site.baseurl }}{{ page.image-directory }}/chapter10/mingolf-guide/page-8lo.jpg){width="220"
 height="233"}[\
 If the accessible route is adjacent to the playing surface, it must not
 exceed 36 inches from any area where golf balls rest. This allows
@@ -137,7 +137,7 @@ have to hit the ball while positioned on a sloped surface. The
 accessible route and the clear space can overlap.
 
 ![illustrations of start of play area orientation and alternative
-orientation](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-9h.jpg){width="504"
+orientation]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-9h.jpg){width="504"
 height="259"}
 :::
 

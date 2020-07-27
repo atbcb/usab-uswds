@@ -11,7 +11,7 @@ amusement park rides, are among the facilities required to comply with
 the ADA.
 
 ![water
-ride](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/Waterride.jpg){width="200"
+ride]({{ site.baseurl }}{{ page.image-directory }}/chapter10/Waterride.jpg){width="200"
 height="123"}
 
 The Access Board issued accessibility guidelines for newly constructed

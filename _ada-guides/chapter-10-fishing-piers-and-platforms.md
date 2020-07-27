@@ -13,7 +13,7 @@ travel, recreational opportunities and life-enriching services.\"*
 > *President George W. Bush, New Freedom Initiative, February 1, 2001*
 
 ![photo of man in wheelchair
-fishing](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/fishing-guide/p3fish.jpg){width="150"
+fishing]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/p3fish.jpg){width="150"
 height="184"}
 
 The recreation facility guidelines described in this guide focus on
@@ -40,7 +40,7 @@ jetty).
 :::
 
 ![photo of man in wheelchair fishing from floating
-pier](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/fishing-guide/p5fish.jpg){width="200"
+pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/p5fish.jpg){width="200"
 height="200"}ADAAG requires that at least one accessible route connect
 accessible buildings, facilities, elements and spaces on the site.
 Accessible fishing piers and platforms and other accessible spaces and
@@ -76,7 +76,7 @@ independent access to persons with disabilities.
 
 ![illustration of accessible gangway serving accessible floating pier in
 a large
-facility](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/fishing-guide/page-6.jpg)
+facility]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/page-6.jpg)
 
 The maximum rise requirements in ADAAG do not apply to gangways. As a
 result, no intermediate landings on the gangways are required and
@@ -145,7 +145,7 @@ platform, they must meet ADAAG provisions.
 
 **Height**![illustration of accessible gangway serving accessible
 floating pier in a large
-facility](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/fishing-guide/page-9_hi.jpg)Where
+facility]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/page-9_hi.jpg)Where
 railings, guards, or handrails are provided on a fishing pier or
 platform, at least 25 percent of the rails must be 34 inches or less in
 height above the ground or deck so a person using a wheelchair or other
@@ -166,7 +166,7 @@ variety of locations to fish from. Different fishing locations may
 provide different water depths, shade or sun, vegetation, and proximity
 to the shoreline or bank.![illustration of dispersion of accessible
 fishing
-locations](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-9_low.jpg)
+locations]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-9_low.jpg)
 
 **Edge Protection**\
 Where railings, guards, or handrails are provided, edge protection must
@@ -175,10 +175,10 @@ surface. This protection will prevent persons using wheelchairs or other
 mobility devices from slipping off the pier or platform.
 
 ![illustation of 2-inch edge protection at
-pier](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/fishing-guide/page-9_hi.jpg)
+pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/page-9_hi.jpg)
 
 ![illustration of 12-inch deck extension without edge
-protection](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/fishing-guide/page-11.jpg)
+protection]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/page-11.jpg)
 
 Edge protection is not required where a railing, guardrail, or handrail
 is provided, if the deck surface extends a minimum of 12 inches beyond
