@@ -1,8 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_626 .attachmentsList}
-:::
-:::
+---
+title: "Chapter 10: Fishing Piers and Platforms"
+order-number: 1005
+file: fishing.pdf
+file-description: PDF version
+---
 
 *\"Whenever any barrier stands between you and the full rights and
 dignity of citizenship, we must work to remove it, in the name of simple

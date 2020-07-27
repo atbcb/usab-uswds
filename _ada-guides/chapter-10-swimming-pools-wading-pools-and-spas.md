@@ -1,9 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_643 .attachmentsList}
-:::
-:::
-
+---
+title: "Chapter 10: Swimming Pools, Wading Pools, and Spas"
+order-number: 1009
+file: swimming.pdf
+file-description: PDF version
+---
 *\"Whenever any barrier stands between you and the full rights and
 dignity of citizenship, we must work to remove it, in the name of simple
 decency and justice.The promise of the ADA\...has enabled people with

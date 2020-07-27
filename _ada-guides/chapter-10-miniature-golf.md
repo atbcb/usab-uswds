@@ -1,8 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_639 .attachmentsList}
-:::
-:::
+---
+title: "Chapter 10: Miniature Golf Facilities"
+order-number: 1007
+file: minigolf.pdf
+file-description: PDF version
+---
 
 ![minature golf
 course]({{ site.baseurl }}{{ page.image-directory }}/chapter10/mingolf-guide/mingolf.jpg)*\"Whenever

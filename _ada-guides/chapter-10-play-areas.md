@@ -1,19 +1,11 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1369 .attachmentsList}
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (play-guide.pdf)](/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1369/play-guide.pdf "Download this file (play-guide.pdf)"){.at_icon}[play-guide.pdf](https://www.access-board.gov/attachments/article/1369/play-guide.pdf "Download this file (play-guide.pdf)"){.at_url}
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+---
+title: "Chapter 10: Play Areas"
+order-number: 1003
+file: play-areas.pdf
+file-description: PDF version
+---
 
-  : Attachments:
-:::
-:::
-
-### A Summary of Accessibility Guidelines for Play Areas
-
-January 2007
-
-The products shown in this guide are only intended to serve as examples
+>The products shown in this guide are only intended to serve as examples
 to illustrate the accessibility guidelines, and are not intended as
 endorsements of the products. Other products may be available. The
 Access Board does not evaluate or certify products for compliance with

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 10: Amusement Rides"
-order-number: 101
-file: amuse.pdf
+order-number: 1002
+file: amusement.pdf
 file-description: PDF version of Chapter 10 Amusement Rides
 ---
 

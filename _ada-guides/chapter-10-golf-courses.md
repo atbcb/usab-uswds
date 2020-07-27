@@ -1,8 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_630 .attachmentsList}
-:::
-:::
+---
+title: "Chapter 10: Golf Courses"
+order-number: 1006
+file: golf.pdf
+file-description: PDF version
+---
 
 *![photo of man using wheelchair on golf
 course]({{ site.baseurl }}{{ page.image-directory }}/chapter10/golf-guide/2002_Conn_Amputee-Tom_Quin.jpg)\"Whenever

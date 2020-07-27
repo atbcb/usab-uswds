@@ -1,8 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_621 .attachmentsList}
-:::
-:::
+---
+title: "Chapter 10: Recreational Boating Facilities"
+order-number: 1003
+file: boating.pdf
+file-description: PDF version
+---
 
 *![photo of accessible boat
 slip]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/p2boat.jpg){width="175"
