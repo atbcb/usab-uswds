@@ -203,6 +203,7 @@ that supplement or modify requirements related to scoping for:
 -   social service establishments (§233)
 -   housing provided by state or local governments for sale to
     individual owners (§233).
+    
 <div class="img-right img-medium">
 <img alt="DOJ 2010 ADA Standards cover" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1doj-standards.jpg">
 <span class="grid-line text-italic" style="font-size: 90%">DOJ's 2010 ADA Standards are available on <a href="https://www.ada.gov">DOJ's ADA website</a>.</span>

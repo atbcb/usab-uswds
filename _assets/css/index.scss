@@ -130,6 +130,10 @@ $theme-hero-image: asset_path("board-office.jpg");
   clear: both;
 }
 
+.clearfix {
+  overflow: auto;
+}
+
 // sticky fill js
 .sticky {
   position: -webkit-sticky;
