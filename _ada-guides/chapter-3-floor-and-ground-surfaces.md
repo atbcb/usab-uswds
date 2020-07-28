@@ -76,6 +76,7 @@ text= "Avoid materials or construction methods that create bumpy and uneven surf
 ### Carpet
 
 [[§302.2](../ada-standards/chapter-3-building-blocks.html#302%20Floor%20or%20Ground%20Surfaces)]
+
 Carpet that is thick, cushiony, or loose impairs accessibility,
 particularly wheelchair maneuvering.  The standards specify the maximum
 pile height (1/2" measured to the backing, cushion, or pad) and texture
@@ -190,3 +191,5 @@ When there is no dominant direction of cross traffic, openings must be
 limited to ½" in both dimensions. Where space allows accessible routes
 to completely bypass the area with openings, elongated openings can be
 oriented in either direction.
+
+[Back to top](#top)

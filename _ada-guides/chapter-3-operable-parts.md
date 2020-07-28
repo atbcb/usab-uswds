@@ -117,7 +117,7 @@ access.
 #### Obstructed High Reach
 
 The maximum reach of 48" is reduced to 44" when the depth of reach over
-an obstruction exceeds 20." Knee and toe space must extend the full
+an obstruction exceeds 20". Knee and toe space must extend the full
 depth of reach.
 
 <div class="grid-container">

@@ -186,7 +186,7 @@ degree turn around an obstruction less than 48" wide is required
 
 ![Turning space at obstructions less than 48\" long require a clearance
 of 60\" min. (or 48\" min. if both connecting routes are 42\" min.
-wide)]({{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs16.jpg){: .img-medium}
+wide)]({{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs16.jpg){: .img-large}
 
 {% include recommendation.html
 text= "Turning space is recommended in small spaces with entrapment risks as well as at dead-end aisles and corridors so that people using wheeled mobility aids do not have to back up considerable distances."
@@ -299,3 +299,5 @@ bathing facilities, dressing and fitting rooms, and transient lodging
 guest rooms. Unless addressed by a specific requirement for turning
 space in the standards, other spaces are not required to provide them,
 including lobbies, offices, and meeting rooms.
+
+[Back to top](#top)

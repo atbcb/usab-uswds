@@ -46,6 +46,7 @@ office buildings, factories, warehouses, manufacturing plants, and other
 facilities whose operations affect commerce.
 
 #### Transportation Facilities
+
 ![train]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada3.jpg){: .float-right .thumbnail .maxh-10}
 
 Bus stops and stations, rail stations, and other transportation
@@ -72,7 +73,7 @@ access codes.
 <img alt="fair housing icon" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada4.jpg">
 <span class="grid-line text-italic" style="font-size: 90%">Information on the Fair Housing Act is available from the Department of Housing and Urban Development at
 <a href="https://www.hud.gov/">www.hud.gov</a> or <a href="https://www.fairhousingfirst.org/">www.fairhousingfirst.org</a>, (888)341-7781 (V/TTY).</span>
-</div> 
+</div>
 
 Although private residential housing is not covered by the ADA,
 government-owned or operated housing and certain privately owned
@@ -93,7 +94,7 @@ Fair Housing Act.) Places of public accommodation located in residential
 buildings, such as rental and sales offices, commercial spaces, and
 hotel accommodations, are covered by the ADA Standards.
 
-###  ADA Regulations
+### ADA Regulations
 
 Regulations issued by DOJ and DOT to implement the ADA provide important
 information and instructions on using the ADA Standards. The regulations
@@ -166,7 +167,7 @@ text= "Available at <a href=\"http://www.fta.dot.gov/civilrights/12325.html\">ww
 <div class="img-right img-medium">
 <img alt="ADA-ABA Accessibility Guidelines cover" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada-aba.jpg">
 <span class="grid-line text-italic" style="font-size: 90%">DOJ's and DOT's ADA Standards are based on the Board's ADA Accessibility Guidelines (2004).</span>
-</div> 
+</div>
 
 Both DOJ's and DOT's ADA Standards are based on minimum accessibility
 guidelines adopted by the Access Board in 2004, known as the ADA
@@ -196,18 +197,17 @@ part 1191, appendices B and D).
 DOJ's 2010 Standards include provisions not included in DOT's standards
 that supplement or modify requirements related to scoping for:
 
--   assembly areas (§221)
--   medical care facilities (§223)
--   transient lodging, including housing at places of education (§224)
--   detention and correctional facilities (§232)
--   social service establishments (§233)
--   housing provided by state or local governments for sale to
-    individual owners (§233).
-    
+- assembly areas (§221)
+- medical care facilities (§223)
+- transient lodging, including housing at places of education (§224)
+- detention and correctional facilities (§232)
+- social service establishments (§233)
+- housing provided by state or local governments for sale to individual owners (§233).
+
 <div class="img-right img-medium">
 <img alt="DOJ 2010 ADA Standards cover" class="img-grid" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1doj-standards.jpg">
 <span class="grid-line text-italic" style="font-size: 90%">DOJ's 2010 ADA Standards are available on <a href="https://www.ada.gov">DOJ's ADA website</a>.</span>
-</div> 
+</div>
 
 #### DOT's ADA Standards (2006)
 
@@ -218,10 +218,10 @@ applies to new construction and alterations undertaken after November
 29, 2006. These standards are very similar to DOJ's 2010 Standards but
 include unique provisions concerning:
 
--   accessible route location (§206.3)
--   detectable warnings on curb ramps (§406.8)
--   bus boarding and alighting areas (§810.2.2)
--   rail station platform (§810.5.3).
+- accessible route location (§206.3)
+- detectable warnings on curb ramps (§406.8)
+- bus boarding and alighting areas (§810.2.2)
+- rail station platform (§810.5.3).
 
 ### How the ADA Standards are Enforced
 
@@ -239,6 +239,7 @@ Entities covered by the law ultimately are responsible for ensuring
 compliance with the ADA Standards in new construction and alterations.
 
 #### State and Local Access Codes
+
 ![code
 book]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1codes.png){: .float-right .thumbnail}
 
@@ -275,6 +276,7 @@ not certify codes as compliant with its ADA Standards for transportation
 facilities.
 
 #### Model Building Codes and Industry Standards
+
 ![IBC (2003) and ANSI A117.1 Standard
 (covers)]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ibc.jpg){: .float-right .thumbnail}
 
@@ -304,7 +306,8 @@ accessible means of egress.
 
 ### Chapter 1: Application and Administration
 
-#### Purpose 
+#### Purpose
+
 [[§101](../ada-standards/chapter-1-application-and-administration.html#101%20Purpose)]
 
 The ADA Standards apply to new construction, alterations, and additions.
@@ -313,6 +316,7 @@ apply to alterations and additions, provisions and exceptions specific
 to alterations or additions are provided throughout the document.
 
 ##### Furnishings and Equipment
+
 ![office
 chair]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1chair.jpg){: .float-right .thumbnail}
 
@@ -348,7 +352,8 @@ to be accessible be maintained in operable working condition, except for
 isolated or temporary interruptions in service due to maintenance or
 repairs.
 
-#### Dimensions for Adults and Children 
+#### Dimensions for Adults and Children
+
 [[§102](../ada-standards/chapter-1-application-and-administration.html#102%20Dimensions%20for%20Adults%20and%20Children)]
 
 ![girl using
@@ -358,10 +363,10 @@ The ADA Standards provide technical specifications for building elements
 designed specifically for use by children 12 and younger. These
 provisions address access for children to:
 
--   drinking fountains (§602)
--   water closets and toilet compartments (§604)
--   lavatories and sinks (§606) and
--   dining and work surfaces (§902).
+- drinking fountains (§602)
+- water closets and toilet compartments (§604)
+- lavatories and sinks (§606) and
+- dining and work surfaces (§902).
 
 The ADA Standards also include requirements for play areas (§240 and
 §1008) and recommendations (advisory notes) with respect to children's
@@ -384,7 +389,8 @@ some restrooms at facilities such as schools and children's museums, it
 may be a good idea to provide a wheelchair accessible toilet compartment
 for use by adults and another for use by children.
 
-####  Equivalent Facilitation 
+#### Equivalent Facilitation
+
 [[§103](../ada-standards/chapter-1-application-and-administration.html#103%20Equivalent%20Facilitation)]
 
 The ADA Standards allow alternatives to specified requirements that
@@ -428,11 +434,12 @@ challenge or complaint rests with the covered entity. In pursuing
 equivalent facilitation alternatives under DOJ's ADA regulations, it is
 good practice to:
 
--   base decisions on sound independent research and reliable data
--   involve disability groups and individuals with a variety of disabilities in the process
--   document the effort thoroughly, including information and feedback from consulted sources
+- base decisions on sound independent research and reliable data
+- involve disability groups and individuals with a variety of disabilities in the process
+- document the effort thoroughly, including information and feedback from consulted sources
 
-####  Conventions 
+#### Conventions
+
 [[§104](../ada-standards/chapter-1-application-and-administration.html#104%20Conventions)]
 
 Most dimensions in the ADA Standards are specified as a minimum,
@@ -456,12 +463,11 @@ an absolute so that designers can allow some room for minor deviations
 in construction or manufacturing. Tolerances do not apply to dimensions
 specified as a range.
 
-**Grab Bar Diameter and Clearance**
+#### Grab Bar Diameter and Clearance
 
   ![Grab bar diameter 1 1/4\" - 2\" (tolerance not allowed) and knuckle clearance 1 1/2\" absolute (tolerance allowed)]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1gbar.jpg){: .img-large}  
   <div class="img-large-caption">
   Construction or manufacturing tolerances are permitted for the required clearance at grab bars since this is an absolute dimension (1½ inch), but they are not permitted for the grab bar diameter because a range is specified (1¼" to 2").</div>
-
 
 ##### Calculation of Percentages
 
@@ -474,7 +480,6 @@ In the case of specifications for dimensions or sizes that involve percentages o
 text= "Dimensions expressed as a range are intended to accommodate deviations in the field. It is good practice to specify accordingly. For example, for the location of wheelchair accessible water closets (16\" -- 18\" centerline from side walls or partitions), specifying to the midpoint of the range (17\") will accommodate any construction variations up to 1\" plus or minus. For dimensions not expressed as an absolute (\"X maximum\" or \"Y minimum\"), specify in a manner that accommodates the expected tolerance within the required dimensions by subtracting the tolerance from the required maximum or adding it to the required minimum."
 %}
 
-
 ##### Figures in the Standards
 
 Figures in the ADA Standards are provided only for informational
@@ -482,7 +487,8 @@ purposes to illustrate dimensions and requirements contained in the
 text. They do not establish enforceable requirements unless specifically
 stated otherwise.
 
-#### Referenced Standards 
+#### Referenced Standards
+
 [[§105](../ada-standards/chapter-1-application-and-administration.html#105%20Referenced%20Standards)]
 
 The ADA Standards reference industry standards for certain elements,
@@ -498,7 +504,8 @@ provision for "equivalent facilitation" if it is comparable to, or
 provides greater accessibility than, the editions currently referenced
 by the ADA Standards.
 
-####  Definitions 
+####  Definitions
+
 [[§106](../ada-standards/chapter-1-application-and-administration.html#106%20Definitions)]
 
 Many important terms used in the ADA Standards are defined in section 106. DOJ's and DOT's regulations also include definitions that are
@@ -512,8 +519,10 @@ ADA Standards provides that terms not specifically defined in section
 standards, shall be defined by collegiate dictionaries in the sense that
 the context implies.
 
-###  Common Questions
+### Common Questions
+
 #### How are the ADA standards developed?
+
 ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail}
 
 The ADA charges the Access Board with the responsibility of developing
@@ -573,7 +582,7 @@ Standards may be possible under the provision for "equivalent
 facilitation" if it is comparable to, or provides greater access than,
 the referenced editions.
 
-###  Further Guidance
+### Further Guidance
 
 Technical assistance and additional guidance on using the ADA Standards
 is available from the:
@@ -602,5 +611,4 @@ is available from the:
   </div>
 </div>
 
-
-[Back to top](#top) 
+[Back to top](#top)
