@@ -1,3 +1,4 @@
+## Comment out when doing local development
 backend:
   name: github
   repo: atbcb/usab-uswds
@@ -6,6 +7,20 @@ backend:
   preview_context: federalist/build
   branch: master
   use_graphql: false
+
+##
+## Uncomment when doing local development on Netlify CMS
+## Run `npx netlify-cms-proxy-server` to start working locally
+## In another terminal, start the app with `npm start`
+## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
+##
+
+# backend:
+#   name: git-gateway
+# local_backend: true
+
+##
+##
 
 media_folder: images/uploads
 public_folder: /images/uploads
@@ -32,11 +47,15 @@ collections:
           timeFormat: false
         }
       - {
-          label: "Tags",
-          name: "tags",
-          widget: "list",
-          allow_add: false
-        }
+        label: "Tags",
+        name: "tags",
+        widget: "relation",
+        collection: "tags",
+        searchFields: ["name"],
+        valueField: "name",
+        displayFields: ["name"],
+        multiple: true,
+      }
       - {label: "Show in Webinars", name: "webinar", widget: "boolean", default: false}
       - {
           required: false,
@@ -48,3 +67,18 @@ collections:
           timeFormat: true
         }
       - {label: "Body", name: "body", widget: "markdown"}
+  - label: Tags
+    name: tags
+    folder: _tags/
+    create: true
+    slug: "{{name}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Name",
+          name: "name",
+          widget: "string",
+          hint: 'The name of the tag',
+        }
+      - { label: "Description", name: "description", widget: "text", required: false }
