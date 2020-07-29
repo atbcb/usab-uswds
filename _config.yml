@@ -94,12 +94,14 @@ primary_navigation:
         url: /guidelines-&-standards/learn-more/
       - name: Archive
         url: /guidelines-&-standards/archive/
-  - name: Training
+  - name: Training & Webinars
     url: /training/
   - name: File an ABA complaint
     url: /enforcement/
   - name: Research
     url: /research/
+  - name: Contact Us
+    url: /about/contact/
 
 secondary_navigation:
   - name: Webinars
@@ -166,6 +168,8 @@ collections:
   authors:
     output: true
     permalink: /authors/:name/
+  tags:
+    output: false
 
 
 permalink: pretty

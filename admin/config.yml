@@ -22,7 +22,7 @@ backend:
 ##
 ##
 
-media_folder: /images/uploads
+media_folder: images/uploads
 public_folder: /images/uploads
 publish_mode: editorial_workflow
 logo_url: /images/usab-seal.png
@@ -70,6 +70,31 @@ collections:
           displayFields: ["name"],
           multiple: true,
         }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "relation",
+          collection: "tags",
+          searchFields: ["name"],
+          valueField: "name",
+          displayFields: ["name"],
+          multiple: true,
+        }
+      - {
+          label: "Show in Webinars",
+          name: "webinar",
+          widget: "boolean",
+          default: false,
+        }
+      - {
+          label: "Webinar Date",
+          name: "webinar-date",
+          widget: "datetime",
+          format: "MMMM D, YYYY",
+          dateFormat: "MMMM D, YYYY",
+          timeFormat: true,
+          required: false,
+        }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Authors
     name: authors
@@ -90,3 +115,23 @@ collections:
       - { label: "Full Name", name: "full_name", widget: "string" }
       - { label: "Bio", name: "bio", widget: "text", required: false }
       - { label: "Agency", name: "agency", widget: "string", default: "USAB" }
+  - label: Tags
+    name: tags
+    folder: _tags/
+    create: true
+    slug: "{{name}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Name",
+          name: "name",
+          widget: "string",
+          hint: "The name of the tag",
+        }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "text",
+          required: false,
+        }
