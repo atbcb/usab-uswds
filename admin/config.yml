@@ -7,13 +7,13 @@ backend:
   branch: master
   use_graphql: false
 
-media_folder: assets/uploads
+media_folder: images/uploads
 public_folder: /images/uploads
 publish_mode: editorial_workflow
 logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
 
 collections:
-  - label: Posts
+  - label: News
     name: posts
     folder: _posts/
     create: true
@@ -30,5 +30,23 @@ collections:
           format: 'MMMM D, YYYY',
           dateFormat: 'MMMM D, YYYY',
           timeFormat: false
+        }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "list",
+          allow_add: false,
+          fields:
+            - {label: ADA, name: ada}
+            - {label: "Staff changes", name: staff}
+        }
+      - {label: "Show in Webinars", name: "webinar", widget: "boolean", default: false}
+      - {
+          label: "Webinar Date",
+          name: "webinar-date",
+          widget: "datetime",
+          format: 'MMMM D, YYYY',
+          dateFormat: 'MMMM D, YYYY',
+          timeFormat: true
         }
       - {label: "Body", name: "body", widget: "markdown"}
