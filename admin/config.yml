@@ -35,13 +35,11 @@ collections:
           label: "Tags",
           name: "tags",
           widget: "list",
-          allow_add: false,
-          fields:
-            - {label: ADA, name: ada}
-            - {label: "Staff changes", name: staff}
+          allow_add: false
         }
       - {label: "Show in Webinars", name: "webinar", widget: "boolean", default: false}
       - {
+          required: false,
           label: "Webinar Date",
           name: "webinar-date",
           widget: "datetime",
