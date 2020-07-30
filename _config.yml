@@ -94,12 +94,14 @@ primary_navigation:
         url: /guidelines-&-standards/learn-more/
       - name: Archive
         url: /guidelines-&-standards/archive/
-  - name: Training
+  - name: Training & Webinars
     url: /training/
   - name: File an ABA complaint
     url: /enforcement/
   - name: Research
     url: /research/
+  - name: Contact Us
+    url: /about/contact/
 
 secondary_navigation:
   - name: Webinars
@@ -163,6 +165,11 @@ collections:
   mde:
     output: true
     permalink: /mde/:path/
+  authors:
+    output: true
+    permalink: /authors/:name/
+  tags:
+    output: false
 
 
 permalink: pretty
@@ -244,7 +251,7 @@ defaults:
       collection-folder: ada-vehicles
       layout: standards
       file-directory: /files/vehicles/
-      image-directory: /images/vehicles/ 
+      image-directory: /images/vehicles/
   - scope:
       path: ""
       type: "ada-vehicles-update-buses-and-vans"
@@ -253,7 +260,7 @@ defaults:
       collection-folder: ada-vehicles-update-buses-and-vans
       layout: standards
       file-directory: /files/vehicles/
-      image-directory: /images/vehicles/ 
+      image-directory: /images/vehicles/
   - scope:
       path: ""
       type: "ada-vehicles-update-rail-cars"
@@ -262,7 +269,7 @@ defaults:
       collection-folder: ada-vehicles-update-rail-cars
       layout: standards
       file-directory: /files/vehicles/
-      image-directory: /images/vehicles/ 
+      image-directory: /images/vehicles/
   - scope:
       path: ""
       type: "mde"
@@ -271,7 +278,11 @@ defaults:
       collection-folder: mde
       layout: standards
       file-directory: /files/mde/
-      image-directory: /images/mde/ 
+      image-directory: /images/mde/
+  - scope:
+      path: "_authors"
+    values:
+      layout: author
 
 
 markdown: kramdown

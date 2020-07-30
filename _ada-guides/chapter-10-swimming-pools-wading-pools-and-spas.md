@@ -1,9 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_643 .attachmentsList}
-:::
-:::
-
+---
+title: "Chapter 10: Swimming Pools, Wading Pools, and Spas"
+order-number: 1009
+file: swimming.pdf
+file-description: PDF version
+---
 *\"Whenever any barrier stands between you and the full rights and
 dignity of citizenship, we must work to remove it, in the name of simple
 decency and justice.The promise of the ADA\...has enabled people with
@@ -13,7 +13,7 @@ travel, recreational opportunities and life-enriching services.\"*
 > *President George W. Bush, New Freedom Initiative, February 1, 2001*
 
 ![photo of individual entering pool using sloped entry
-ramp](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/poolramp-male.jpg){width="238"
+ramp]({{ site.baseurl }}{{ page.image-directory }}/chapter10/poolramp-male.jpg){width="238"
 height="148"}
 
 The guidelines described in this guide focus on newly designed or newly
@@ -47,8 +47,8 @@ raised diving boards, platforms, or water slides.
 
 [![illustration of accessible route connecting elements within a
 multi-use swimming pool
-facility](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/pool-guide/pagepool4-5.jpg){width="450"
-height="214"}](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/pool-guide/enlarg3.jpg)
+facility]({{ site.baseurl }}{{ page.image-directory }}/chapter10/pool-guide/pagepool4-5.jpg){width="450"
+height="214"}]({{ site.baseurl }}{{ page.image-directory }}/chapter10/pool-guide/enlarg3.jpg)
 :::
 
 ::: {itemprop="articleBody"}
@@ -58,7 +58,7 @@ height="214"}](/images/guidelines_standards/Recreation_Facilities/Recreation_Fac
 :::
 
 ![illustration of large pool showing the required two means of
-access](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-7hi.jpg){width="231"
+access]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-7hi.jpg){width="231"
 height="297"}**Swimming Pools**\
 Large pools must have a minimum of two accessible means of entry.  A
 large pool is defined as any pool with over 300 linear feet of pool
@@ -78,7 +78,7 @@ provide one accessible means of entry, which must be either a pool lift
 or sloped entry.
 
 ![photo of individual entering a wave action
-pool](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-8hi.jpg){width="200"
+pool]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-8hi.jpg){width="200"
 height="166"}**Aquatic Recreation Facilities**\
 Wave action pools, leisure rivers, sand bottom pools, and other pools
 where access to the water is limited to one area and where everyone gets
@@ -101,7 +101,7 @@ sloped entry is provided.  The sloped entries for wading pools are not
 required to have handrails.
 
 ![photo of lift on a
-spa](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-8lo.jpg){width="150"
+spa]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-8lo.jpg){width="150"
 height="205"}**Spas**\
 Spas must provide at least one accessible means of entry, which can be a
 pool lift, transfer wall, or transfer system.  If spas are provided in a
@@ -201,7 +201,7 @@ Spas
 :::
 
 ![illustration of pool
-lift](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-pool9.jpg){width="216"
+lift]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-pool9.jpg){width="216"
 height="238"}
 
 **Pool Lifts**
@@ -243,7 +243,7 @@ This virtually flat area will make the transfer easier and safer, while
 still allowing water to drain away from the deck.
 
 ![aquatic access
-inc1](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/aquatic_access_inc1.jpg){width="140"
+inc1]({{ site.baseurl }}{{ page.image-directory }}/chapter10/aquatic_access_inc1.jpg){width="140"
 height="182"}**Seat Height**\
 The lift must be designed so that the seat will make a stop between a
 minimum of 16 inches and maximum of 19 inches (measured from the deck to
@@ -275,7 +275,7 @@ is in use. A person must be able to use the lift with one hand, and the
 operating controls must not require tight grasping, pinching, or
 twisting of the wrist. Controls may not require more than five pounds of
 pressure to operate.![illustration of pool lift submerged
-depth](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-pool11.jpg){width="221"
+depth]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-pool11.jpg){width="221"
 height="301"}
 
 **Submerged Depth**\
@@ -297,7 +297,7 @@ weight capacity are encouraged.
 :::
 
 ![photo of individual using a sloped
-entry](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/poolramp.jpg){width="180"
+entry]({{ site.baseurl }}{{ page.image-directory }}/chapter10/poolramp.jpg){width="180"
 height="230"}Sloped entries must comply with ADAAG accessible route
 provisions (36 inch minimum width, maximum 1:12 or 8.33% slope), except
 that the surface does not need to be slip resistant. The slope may be
@@ -315,7 +315,7 @@ consider storage options for personal mobility devices if deck space is
 limited.
 
 ![illlustration of sloped entry
-ramp](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-pool12.jpg){width="450"
+ramp]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-pool12.jpg){width="450"
 height="308"}
 
 **Submerged Depth**\
@@ -352,7 +352,7 @@ non-rotating, and height).
 
 ![2 illustrations showing transfer wall with one grab bar and transfer
 wall with two grab
-bars](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-pool14.jpg){width="236"
+bars]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-pool14.jpg){width="236"
 height="560"}A transfer wall is a wall along an accessible route that
 allows a person to leave a mobility device and transfer onto the wall
 and then into a pool or spa.
@@ -403,7 +403,7 @@ have rounded edges and not be sharp.
 :::
 
 ![illustration of transfer system platform and
-steps](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-pool16.jpg){width="403"
+steps]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-pool16.jpg){width="403"
 height="287"}A transfer system consists of a transfer platform and a
 series of transfer steps that descend into the water. Users need to
 transfer from their wheelchair or mobility device to the transfer
@@ -423,7 +423,7 @@ the deck.
 
 **Clear Deck Space**![illustration of clear deck space located at a
 transfer
-system](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-17.jpg){width="232"
+system]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-17.jpg){width="232"
 height="181"}\
 The base of the transfer platform must have a clear deck space adjacent
 to it that is 60 by 60 inches minimum, with a slope not steeper than
@@ -444,7 +444,7 @@ The surface of the transfer platform and steps must not be sharp and
 must have rounded edges to prevent injuries.
 
 ![illustration of continuous grab bar at transfer
-system](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-18hi.jpg){width="225"
+system]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-18hi.jpg){width="225"
 height="246"}**Grab Bars**\
 A grab bar must be provided on at least one side of each step and on the
 transfer platform (shown on page 16), or as a continuous grab bar
@@ -465,7 +465,7 @@ non-rotating).
 :::
 
 ![illustration of pool
-stairs](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-18lo.jpg){width="204"
+stairs]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-18lo.jpg){width="204"
 height="220"}Accessible pool stairs are designed to provide assistance
 with balance and support from a standing position when moving from the
 pool deck into the water and out. ADAAG provisions for stairs include
@@ -494,7 +494,7 @@ wall must be 1.5 inches.
 :::
 
 ![water play
-structure](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/pool-play.jpg){width="275"
+structure]({{ site.baseurl }}{{ page.image-directory }}/chapter10/pool-play.jpg){width="275"
 height="175"}If water play components are provided, they must comply
 with the Access Board's Play Area Guidelines and accessible route
 provisions.
