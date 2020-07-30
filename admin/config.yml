@@ -25,7 +25,7 @@ backend:
 media_folder: images/uploads
 public_folder: /images/uploads
 publish_mode: editorial_workflow
-logo_url: https://federalist.18f.gov/assets/images/federalist-logo.png
+logo_url: /images/usab-seal.png
 
 collections:
   - label: News
@@ -36,37 +36,85 @@ collections:
     editor:
       preview: false
     fields:
-      - {label: 'Layout', name: 'layout', widget: 'hidden', default: 'post'}
-      - {label: "Title", name: "title", widget: "string"}
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
       - {
           label: "Publish Date",
           name: "date",
           widget: "datetime",
-          format: 'MMMM D, YYYY',
-          dateFormat: 'MMMM D, YYYY',
-          timeFormat: false
+          format: "MMMM D, YYYY",
+          dateFormat: "MMMM D, YYYY",
+          timeFormat: false,
+        }
+      - { label: "Excerpt", name: "excerpt", widget: "string", required: false }
+      - {
+          label: "Image",
+          name: "image",
+          widget: "image",
+          allow_multiple: false,
+          required: false,
         }
       - {
-        label: "Tags",
-        name: "tags",
-        widget: "relation",
-        collection: "tags",
-        searchFields: ["name"],
-        valueField: "name",
-        displayFields: ["name"],
-        multiple: true,
-      }
-      - {label: "Show in Webinars", name: "webinar", widget: "boolean", default: false}
-      - {
+          label: "Image Alternative Text",
+          name: "image_alt_text",
+          widget: "string",
           required: false,
+        }
+      - {
+          label: "Authors",
+          name: "authors",
+          widget: "relation",
+          collection: "authors",
+          searchFields: ["first_name", "last_name", "full_name"],
+          valueField: "name",
+          displayFields: ["name"],
+          multiple: true,
+        }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "relation",
+          collection: "tags",
+          searchFields: ["name"],
+          valueField: "name",
+          displayFields: ["name"],
+          multiple: true,
+        }
+      - {
+          label: "Show in Webinars",
+          name: "webinar",
+          widget: "boolean",
+          default: false,
+        }
+      - {
           label: "Webinar Date",
           name: "webinar-date",
           widget: "datetime",
-          format: 'MMMM D, YYYY',
-          dateFormat: 'MMMM D, YYYY',
-          timeFormat: true
+          format: "MMMM D, YYYY",
+          dateFormat: "MMMM D, YYYY",
+          timeFormat: true,
+          required: false,
         }
-      - {label: "Body", name: "body", widget: "markdown"}
+      - { label: "Body", name: "body", widget: "markdown" }
+  - label: Authors
+    name: authors
+    folder: _authors/
+    create: true
+    slug: "{{name}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Name",
+          name: "name",
+          widget: "string",
+          hint: 'This is the first name and last name appended with a hyphen in lowercase. ie("jane-doe")',
+        }
+      - { label: "First Name", name: "first_name", widget: "string" }
+      - { label: "Last Name", name: "last_name", widget: "string" }
+      - { label: "Full Name", name: "full_name", widget: "string" }
+      - { label: "Bio", name: "bio", widget: "text", required: false }
+      - { label: "Agency", name: "agency", widget: "string", default: "USAB" }
   - label: Tags
     name: tags
     folder: _tags/
@@ -79,6 +127,11 @@ collections:
           label: "Name",
           name: "name",
           widget: "string",
-          hint: 'The name of the tag',
+          hint: "The name of the tag",
         }
-      - { label: "Description", name: "description", widget: "text", required: false }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "text",
+          required: false,
+        }

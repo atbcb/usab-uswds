@@ -165,6 +165,9 @@ collections:
   mde:
     output: true
     permalink: /mde/:path/
+  authors:
+    output: true
+    permalink: /authors/:name/
   tags:
     output: false
 
@@ -276,8 +279,10 @@ defaults:
       layout: standards
       file-directory: /files/mde/
       image-directory: /images/mde/
-
-
+  - scope:
+      path: "_authors"
+    values:
+      layout: author
 
 
 markdown: kramdown

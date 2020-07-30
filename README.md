@@ -157,6 +157,65 @@ $ npm start
 $ npm run pa11y:local
 ```
 
+## Developing locally
+
+### Netlify CMS config
+
+To properly configure and test your Netlify CMS, you need to make sure you are testing it using the local setup so you do not make commits to the Github repository. This setup involves three steps: changing your [`./admin/config.yml`](./admin/config.yml) backend value, running the local, test authentication server, and restoring your [`./admin/config.yml`](./admin/config.yml) backend value before committing the update.
+
+_**Important** - Remember to restore [`./admin/config.yml`](./admin/config.yml) backend value before committing any changes or else Netlify CMS will break on Federalist_
+
+Follow these steps:
+
+- Open  [`./admin/config.yml`](./admin/config.yml) and comment out the `backend` and all its values at the top of the config file. Below the commented out `backend` value uncomment the `backend` value for local development. The following update should look like this below:
+```yaml
+## Comment out when doing local development
+# backend:
+#   name: github
+#   repo: atbcb/usab-uswds
+#   base_url: https://federalistapp.18f.gov
+#   auth_endpoint: external/auth/github
+#   preview_context: federalist/build
+#   branch: master
+#   use_graphql: false
+
+##
+## Uncomment when doing local development on Netlify CMS
+## Run `npx netlify-cms-proxy-server` to start working locally
+## In another terminal, start the app with `npm start`
+## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
+##
+
+backend:
+  name: git-gateway
+local_backend: true
+```
+
+- Next, open up a new terminal window and run `npm run netlify-dev-server`. This will keep an authentication server running in the background will you do you local development.
+- In your another terminal window, you can run `npm start` to start the jekyll server and develop locally as usual
+- **Finally**, before you commit any changes, **restore** the [`./admin/config.yml`](./admin/config.yml) backend or else it will **break** Netlify CMS being hosted on Federalist. The following update should look like this below:
+```yaml
+## Comment out when doing local development
+backend:
+  name: github
+  repo: atbcb/usab-uswds
+  base_url: https://federalistapp.18f.gov
+  auth_endpoint: external/auth/github
+  preview_context: federalist/build
+  branch: master
+  use_graphql: false
+
+##
+## Uncomment when doing local development on Netlify CMS
+## Run `npx netlify-cms-proxy-server` to start working locally
+## In another terminal, start the app with `npm start`
+## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
+##
+
+# backend:
+#   name: git-gateway
+# local_backend: true
+```
 
 ## Technologies you should be familiarize yourself with
 
