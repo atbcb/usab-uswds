@@ -7,18 +7,13 @@ permalink: /cj/
 
 # {{ page.title }} (FY 2021)
 
-<dl>
-
-<dt>Submitted to:</dt>
-
-<dd>United States House and Senate Appropriations Committees  
-Subcommittees on Transportation, Housing and Urban Development, and Related Agencies</dd>
-
-</dl>
+Submitted to:  
+United States House and Senate Appropriations Committees  
+Subcommittees on Transportation, Housing and Urban Development, and Related Agencies
 
 **February 2020**
 
-### Contents
+## Contents
 
 *   [Introduction](#introduction)
 *   [Establish State-of-the-Art Accessibility Standards and Guidelines](#requirements)
