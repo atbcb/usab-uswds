@@ -1,7 +1,7 @@
 ---
 title: Contact Us
 layout: page
-sidenav: true
+sidenav: false
 permalink: /about/contact.html
 ---
 

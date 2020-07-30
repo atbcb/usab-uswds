@@ -1,10 +1,16 @@
 ---
-title: TemplateDoc
+title: Fragrance-Free Environment
 layout: page
 sidenav: true
-permalink: /about/policy/a11y.html
+permalink: /about/policy/ffe.html
 ---
 
 # {{ page.title }}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+There are many people who experience unpleasant physical effects from scented products, such as perfumes and colognes. Sometimes, it might be a headache or nausea when passing by a department store's fragrance counter or riding in an elevator with someone wearing a certain fragrance.  However, there is a growing number of people who suffer more severe reactions to these and many other types of products and chemicals. This condition is known as multiple chemical sensitivities (MCS) and involves people who have developed an acute sensitivity to various chemicals in the environment.  People with MCS experience a range of debilitating physical reactions, some even life-threatening, to chemicals used in a variety of products, including fragrances and personal care products, deodorizers and cleaners, pesticides, wall and floor coverings, and building materials.
+
+It's a complex issue with a variety of triggering agents and physical reactions. Different people are affected by different products in different ways.  The common factor is that the reaction, whatever the type, is very strong and disabling.  Information needs to be developed on exactly what brings about such an acute sensitivity to certain chemicals, how and why this happens, and what can be done about it.
+
+While many questions are yet to be answered, the Board believes in doing what it can where it can.  As a result, the Board has adopted a policy for its meetings and public gatherings that will help reduce exposure to personal fragrances.  Under this policy, the Board requests that all participants refrain from wearing perfume, cologne and other fragrances, and use unscented personal care products in order to promote a fragrance-free environment.  This request is included in notices and on displayed signage for the Board's meetings, hearings, and other public events.  In addition, the Board will work with the operators of meeting sites to prevent the use of deodorizers and cleaning products immediately before the event in and around meeting locations.
+
+The Board believes that this policy will provide a more comfortable environment and, in the larger scheme of things, help promote greater awareness of multiple chemical sensitivities.  For further information on the Board's fragrance-free policy, contact the Board at <info@access-board.gov> or call 202-272-0080 (voice) or 202-272-0082 (TTY).
