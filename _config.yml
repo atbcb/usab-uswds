@@ -100,14 +100,12 @@ primary_navigation:
     url: /enforcement/
   - name: Research
     url: /research/
-  - name: Contact Us
-    url: /about/contact/
 
 secondary_navigation:
-  - name: Webinars
-    url: /webinars/
-  - name: File an ABA Complaint
-    url: /enforcement/complaint.html
+  - name: Contact Us
+    url: /about/contact.html
+  - name: En Español
+    url: ..
 
 # Search.gov configuration
 # 1. Create an account with Search.gov https://search.usa.gov/signup
@@ -170,7 +168,6 @@ collections:
     permalink: /authors/:name/
   tags:
     output: false
-
 
 permalink: pretty
 
