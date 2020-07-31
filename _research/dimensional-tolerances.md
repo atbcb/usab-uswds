@@ -4,8 +4,9 @@ order-number: 0
 research-title: Dimensional Tolerances in Construction and for Surface Accessibility
 status: completed
 year-completed: 2011
-topic:
+topic: building and elements
 ---
+
 ### Introduction
 
 #### Purpose of the project
