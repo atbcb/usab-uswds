@@ -1,0 +1,19 @@
+- title: "Building & Sites"
+  description: "Standards issued under the Americans with Disabilities Act (ADA) address access to buildings and sites nationwide in new construction and alterations. Similar standards apply to buildings and sites funded by the Federal government under the Architectural Barriers Act (ABA)."
+  image-file: buildings.jpg
+- title: "Communication & IT"
+  description: "Access to information and communication technology (ICT) is addressed by Board standards and guidelines issued under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act.  The Board jointly updated its Section 508 Standards and Section 255 Guidelines in January 2017."
+  image-file:  communications.jpg
+  alt: "photo of hands typing on keyboard"
+- title: "Streets & Sidewalks"
+  description:  text
+  image-file: streets-sidewalks.jpg
+- title: Transportation Vehicles
+  description:  text
+  image-file: transportation.jpg
+- title: Medical Equipment
+  description:  text
+  image-file: health_care.jpg
+- title: Passenger Vessels
+  description:  text
+  image-file: vessels.jpg
