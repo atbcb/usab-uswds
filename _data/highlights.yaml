@@ -6,13 +6,13 @@
   image-file:  communications.jpg
   alt: "photo of hands typing on keyboard"
 - title: "Streets & Sidewalks"
-  description:  text
+  description: "The Board is developing guidelines that cover access to public rights-of-way, including sidewalks, intersection, street crossings, and on-street parking.  The Board is also addressing access to shared use paths that provide off-road means of transportation and recreation."
   image-file: streets-sidewalks.jpg
 - title: Transportation Vehicles
-  description:  text
+  description: "Access to public transportation is required by the Americans with Disabilities Act (ADA) and other laws.  Standards issued under the ADA address access to facilities and to vehicles of public transit systems.  The Board is also developing guidelines for passenger vessels under the ADA."
   image-file: transportation.jpg
 - title: Medical Equipment
-  description:  text
+  description: "The Board has issued accessibility standards for medical diagnostic equipment (MDE) under the Patient Protection and Affordable Care Act.  The Board also developed guidance on accessible prescription drug contains labels."
   image-file: health_care.jpg
 - title: Passenger Vessels
   description:  text
