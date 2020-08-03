@@ -3,12 +3,10 @@ title: Contact Us
 layout: page
 datafile: contact
 sidenav: true
-permalink: /about/contact/
+permalink: /about/contact.html
 ---
 
 # {{ page.title }}
-
-TBD, plan is to use [Jekyll data files](https://jekyllrb.com/docs/datafiles/) to build this page.
 
 ### United States Access Board
 1331 F Street NW, Suite 1000
