@@ -103,10 +103,7 @@ primary_navigation:
   - name: Contact Us
     url: /about/contact.html
 
-
 secondary_navigation:
-  - name: Contact Us
-    url: /about/contact.html
   - name: En Español
     url: ..
 

@@ -60,7 +60,7 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               </li>
               <li class="usa-sidenav__item">
                 {% if page.title == "FOIA Annual Report" %}
-                <a name="foia-report.html" class="usa-current">FOIA Annual Report &rarr;</a>
+                <a name="foia-report" class="usa-current">FOIA Annual Report &rarr;</a>
                 {% else %}
                 <a href="{{ site.baseurl }}/about/foia-report.html">FOIA Annual Report</a>
                 {% endif %}
@@ -74,14 +74,14 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               </li>
               <li class="usa-sidenav__item">
                 {% if page.title == "No FEAR Act Data" %}
-                <a name="fevs" class="usa-current">No FEAR Act Data &rarr;</a>
+                <a name="nfad" class="usa-current">No FEAR Act Data &rarr;</a>
                 {% else %}
                 <a href="{{ site.baseurl }}/about/no-fear-data.html">No FEAR Act Data</a>
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
                 {% if page.title == "No FEAR Act Report" %}
-                <a name="fevs" class="usa-current">No FEAR Act Report &rarr;</a>
+                <a name="nfar" class="usa-current">No FEAR Act Report &rarr;</a>
                 {% else %}
                 <a href="{{ site.baseurl }}/about/no-fear-report.html">No FEAR Act Report</a>
                 {% endif %}
@@ -125,7 +125,7 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               </li>
               <li class="usa-sidenav__item">
                 {% if page.title == "Telecommunications Act" %}
-                <a href="ta" class="usa-current">Telecommunications Act &rarr;</a>
+                <a name="ta" class="usa-current">Telecommunications Act &rarr;</a>
                 {% else %}
                 <a href="{{ site.baseurl }}/laws/ta.html">Telecommunications Act</a>
                 {% endif %}
@@ -151,17 +151,17 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               </li>
               <li class="usa-sidenav__item">
                 {% if page.title == "Freedom of Information Act" %}
-                <a name="iq" class="usa-current">Freedom of Information Act &rarr;</a>
+                <a name="foia" class="usa-current">Freedom of Information Act &rarr;</a>
                 {% else %}
                 <a href="{{ site.baseurl }}/about/policy/foia.html">Freedom of Information Act</a>
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
                 {% if page.title == "No FEAR Act Notice" %}
-                <a name="iq" class="usa-current">No FEAR Act Notice &rarr;</a>
+                <a name="nfan" class="usa-current">No FEAR Act Notice &rarr;</a>
                 {% else %}
-                <a href="{{ site.baseurl }}/about/policy/no-fear-notice.html">No FEAR Act Notice<a>
-                    {% endif %}
+                <a href="{{ site.baseurl }}/about/policy/no-fear-notice.html">No FEAR Act Notice</a>
+                {% endif %}
               </li>
               <li class="usa-sidenav__item">
                 {% if page.title == "Information Quality" %}
