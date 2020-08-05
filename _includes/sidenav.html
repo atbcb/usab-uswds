@@ -73,7 +73,21 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
-                {% if page.title =="Employee Survey Results" %}
+                {% if page.title == "No FEAR Act Data" %}
+                <a name="fevs" class="usa-current">No FEAR Act Data &rarr;</a>
+                {% else %}
+                <a href="{{ site.baseurl }}/about/no-fear-data.html">No FEAR Act Data</a>
+                {% endif %}
+              </li>
+              <li class="usa-sidenav__item">
+                {% if page.title == "No FEAR Act Report" %}
+                <a name="fevs" class="usa-current">No FEAR Act Report &rarr;</a>
+                {% else %}
+                <a href="{{ site.baseurl }}/about/no-fear-report.html">No FEAR Act Report</a>
+                {% endif %}
+              </li>
+              <li class="usa-sidenav__item">
+                {% if page.title == "Employee Survey Results" %}
                 <a name="fevs" class="usa-current">Employee Survey Results &rarr;</a>
                 {% else %}
                 <a href="{{ site.baseurl }}/about/fevs.html">Employee Survey Results</a>
@@ -82,35 +96,35 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
             </ul>
           </li>
           <li class="usa-sidenav__item">
-            {% if page.title =="Laws" %}
+            {% if page.title == "Laws" %}
             <a name="laws" class="usa-current">Laws &rarr;</a>
             {% else %}
             <a href="{{ site.baseurl }}/laws/">Laws</a>
             {% endif %}
             <ul class="usa-sidenav__sublist">
               <li class="usa-sidenav__item">
-                {% if page.title =="Americans with Disabilities Act" %}
+                {% if page.title == "Americans with Disabilities Act" %}
                 <a name="ada" class="usa-current">ADA &rarr;</a>
                 {% else %}
                 <a href="{{ site.baseurl }}/laws/ada.html">ADA</a>
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
-                {% if page.title =="Architectural Barriers Act" %}
+                {% if page.title == "Architectural Barriers Act" %}
                 <a name="aba" class="usa-current">ABA &rarr;</a>
                 {% else %}
                 <a href="{{ site.baseurl }}/laws/aba.html">ABA</a>
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
-                {% if page.title =="Rehabilitation Act" %}
+                {% if page.title == "Rehabilitation Act" %}
                 <a name="ra" class="usa-current">Rehabilitation Act &rarr;</a>
                 {% else %}
                 <a href="{{ site.baseurl }}/laws/ra.html">Rehabilitation Act</a>
                 {% endif %}
               </li>
               <li class="usa-sidenav__item">
-                {% if page.title =="Telecommunications Act" %}
+                {% if page.title == "Telecommunications Act" %}
                 <a href="ta" class="usa-current">Telecommunications Act &rarr;</a>
                 {% else %}
                 <a href="{{ site.baseurl }}/laws/ta.html">Telecommunications Act</a>
@@ -134,6 +148,20 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
                 {% else %}
                 <a href="{{ site.baseurl }}/about/policy/ffe.html">Fragrance-Free Environment</a>
                 {% endif %}
+              </li>
+              <li class="usa-sidenav__item">
+                {% if page.title == "Freedom of Information Act" %}
+                <a name="iq" class="usa-current">Freedom of Information Act &rarr;</a>
+                {% else %}
+                <a href="{{ site.baseurl }}/about/policy/foia.html">Freedom of Information Act</a>
+                {% endif %}
+              </li>
+              <li class="usa-sidenav__item">
+                {% if page.title == "No FEAR Act Notice" %}
+                <a name="iq" class="usa-current">No FEAR Act Notice &rarr;</a>
+                {% else %}
+                <a href="{{ site.baseurl }}/about/policy/no-fear-notice.html">No FEAR Act Notice<a>
+                    {% endif %}
               </li>
               <li class="usa-sidenav__item">
                 {% if page.title == "Information Quality" %}

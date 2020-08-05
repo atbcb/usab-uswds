@@ -1,11 +1,11 @@
 ---
-title: Freedom of Information Act (FOIA)
+title: Freedom of Information Act
 layout: page
 sidenav: true
 permalink: /about/policy/foia.html
 ---
 
-# {{ page.title }}
+# {{ page.title }} (FOIA)
 
 ## Introduction
 
@@ -15,7 +15,7 @@ Welcome to the Access Board's Freedom of Information Act (FOIA) page.  We hope t
 Frances Spiegel, Attorney Advisor  
 U.S. Access Board  
 1331 F Street NW, Suite 1000  
-Washington, DC   20004  
+Washington, DC  20004  
 202-272-0041 (voice)  
 202-272-0081 (fax)  
 <foia@access-board.gov>
