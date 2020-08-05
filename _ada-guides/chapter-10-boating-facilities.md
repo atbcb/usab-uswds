@@ -41,7 +41,10 @@ docks, and do not address access on and off passenger vessels. These
 issues will be addressed in [future rulemaking for passenger vessels]({{ site.baseurl }}/pvag/).
 
 
+---
 
+
+###  Accessible Routes
 ![photo of
 gangway]({{ site.baseurl }}{{ page.image-directory }}/chapter10/p5boat.jpg){: .float-right}ADAAG requires that at least one accessible route connect
 accessible buildings, facilities, elements, and spaces on a site.
@@ -66,7 +69,7 @@ piers to land or other fixed structures.
 
 ![illustration of accessible gangway serving accessible boat slips in a
 large
-facility]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-6.jpg){: .img-large}
+facility]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-6.jpg){: .img-full}
 
 ##### Gangway Slope and Rise Exceptions
 Gangways designed for the least possible slope will provide more
@@ -95,11 +98,12 @@ requirements. This would include a ramp connecting a fixed pier or a
 float with fixed switchback ramps.
 
 ![illustration of non-gangway sloped walking surface meeting ADAAG
-requirements]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-7.jpg)
+requirements]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-7.jpg){: .img-full}
 
 ![photo of gangway connecting floating
-pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-8_hi.jpg)**Gangway
-Alterations**\
+pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-8_hi.jpg){: .img-medium}
+
+##### Gangway Alterations
 Gangways on existing boating facilities may be repaired or replaced
 without triggering the requirement to increase the gangway length.
 However, if the areas altered contain primary functions (such as a boat
@@ -110,9 +114,9 @@ has determined that it is not disproportionate to spend up to an
 additional 20 percent of the overall costs of alterations to the primary
 function areas to make the path of travel accessible.![illustration of
 transition
-plates]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-8_low.jpg)
+plates]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-8_low.jpg){: .img-medium}
 
-**Transition Plates**\
+##### Transition Plates
 Transition plates are sloping pedestrian walking surfaces located at the
 end of a gangway. Gangways are not required to have landings at the end,
 if transition plates are provided. If the slope of a transition plate is
@@ -120,7 +124,7 @@ greater than 1:20 (5%), the transition plate must have a landing at the
 non-gangway end of the transition plate and comply with other ADAAG ramp
 requirements.
 
-**Handrail Extensions**\
+##### Handrail Extensions
 ADAAG addresses handrail height, diameter, and extensions provided to
 the end of the gangway. Other specifications regarding vertical supports
 are not addressed by ADDAG, but may be addressed in local building
@@ -132,7 +136,7 @@ than 6 inches or a projection less than 72 inches, or a slope of 1:20
 to be parallel with the ground or floor surface, since the surface may
 be moving due to water conditions.
 
-**Cross Slope**\
+##### Cross Slope
 The cross slopes of gangways, transition plates and floating piers that
 are part of an accessible route must be designed and constructed to not
 exceed a maximum of 2 percent (1:50). Gangways and piers that are part
@@ -143,22 +147,14 @@ of movement that results from wind, waves, etc.). Where floating piers
 are grounded out due to low water conditions, slope requirements would
 not apply.
 
-**Elevators and Platform Lifts**\
+##### Elevators and Platform Lifts
 In addition to regular elevators, limited use/limited application
 elevators (smaller, slower elevators used for low-traffic, low-rise
 facilities) or platform lifts that comply with ADAAG may be used instead
 of gangways as part of an accessible route connecting floating piers.
-:::
-
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_623 .attachmentsList}
-:::
-:::
-
  
 
-  Total Boat Slips in Facility             Minimum Accessible Slips
+ |Total Boat Slips in Facility|             Minimum Accessible Slips|
   ------------------------------ ---------------------------------------------
   1 to 25                                              1
   26 to 50                                             2
