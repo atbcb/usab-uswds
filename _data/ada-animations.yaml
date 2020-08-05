@@ -2,6 +2,7 @@
 # In this example, we create a simple array of options and then in the _pages/collections.md file we 
 # Reference this data file in 'datafile' in the Front Matter and _layouts/data.html renders it 
 # This is simple, hopefully provides you with a good enough example to make changes as needed
+
 - video-name: Wheelchair Maneuvering
   youtube-url: https://www.youtube.com/watch?v=dF7et0KQ3rg
   caption-file: wheelchair_maneuvering.vtt
@@ -28,10 +29,8 @@
 
 - video-name: Sales and Service Counters
   youtube-url: https://www.youtube.com/watch?v=w2cnj8SC6Ac
-  caption-file: (to be added)
+  caption-file: counters.vtt
 
 - video-name: Parking and Pasenger Loading Zones
   youtube-url: https://www.youtube.com/watch?v=AQUINJ-NNIo
   caption-file: parking-plz.vtt
-
-
