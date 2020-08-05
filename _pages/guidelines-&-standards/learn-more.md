@@ -1,7 +1,7 @@
 ---
 title: Guidelines & Standards developed by the U.S. Access Board
 layout: page
-pernalink: /guidelines-&-standards/learn-more/
+permalink: /guidelines-&-standards/learn-more/
 ---
 The U.S. Access Board is a federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards for the built environment, transportation, communication, medical diagnostic equipment, and information technology.
 

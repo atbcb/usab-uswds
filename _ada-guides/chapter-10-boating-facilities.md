@@ -43,8 +43,7 @@ issues will be addressed in [future rulemaking for passenger vessels]({{ site.ba
 
 
 ![photo of
-gangway]({{ site.baseurl }}{{ page.image-directory }}/chapter10/p5boat.jpg){width="277"
-height="180"}ADAAG requires that at least one accessible route connect
+gangway]({{ site.baseurl }}{{ page.image-directory }}/chapter10/p5boat.jpg){: .float-right}ADAAG requires that at least one accessible route connect
 accessible buildings, facilities, elements, and spaces on a site.
 Accessible boat slips, accessible boarding piers at boat launch
 ramps,and other accessible spaces and elements within a boating facility
@@ -67,9 +66,9 @@ piers to land or other fixed structures.
 
 ![illustration of accessible gangway serving accessible boat slips in a
 large
-facility]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-6.jpg)
+facility]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-6.jpg){: .img-large}
 
-**Gangway Slope and Rise Exceptions**\
+##### Gangway Slope and Rise Exceptions
 Gangways designed for the least possible slope will provide more
 independent access for persons with disabilities. As a minimum however,
 gangways must be designed to provide for a maximum 1:12 (8.33%) slope
