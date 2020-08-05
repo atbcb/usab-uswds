@@ -101,7 +101,7 @@ primary_navigation:
   - name: Research
     url: /research/
   - name: Contact Us
-    url: /about/contact.html
+    url: /contact/
 
 secondary_navigation:
   - name: En Español
