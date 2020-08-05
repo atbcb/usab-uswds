@@ -3,7 +3,7 @@ title: Contact Us
 layout: page
 datafile: contact
 sidenav: false
-permalink: /about/contact.html
+permalink: /contact/
 ---
 
 # {{ page.title }}
@@ -52,7 +52,7 @@ tty:  202-272-0082 or 800-993-2822**
 | |
 | **Office of Administration** |
 | Earlene Sesker, Director | 202-272-0022 (v) | 202-272-0091 (tty) |
-| Edson Carneiro | 202-272-0008 (v)     202-272-0077 (tty) |
+| Edson Carneiro | 202-272-0008 (v) | 202-272-0077 (tty) |
 | Gainna Ellis | 202-272-0007 (v) | 202-272-0058 (tty) |
 | Susan Little | 202-272-0019 (v) | 202-272-0060 (tty) |
 | Sherrice Macklin | 202-272-0004 (v) | 202-272-0059 (tty) |
