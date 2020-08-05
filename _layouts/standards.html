@@ -28,7 +28,7 @@ layout: default
       </div>
 
       {% if page.right-sidenav %}
-      <div class="desktop:grid-col-2 padding-bottom-4">{% include {{ page.right-sidenav }} %}</div>
+      {% include {{ page.right-sidenav }} %}
       {% endif %}
     </div>
   </div>
