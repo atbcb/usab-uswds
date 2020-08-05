@@ -87,7 +87,7 @@ primary_navigation:
       - name: Vehicles
         url: /ada/vehicles/
       - name: Passenger Vessels
-        url: /pvag/
+        url: /pvag.html
       - name: Medical Diagnostic Equipment (MDE)
         url: /mde/
       - name: Learn more
@@ -100,6 +100,9 @@ primary_navigation:
     url: /enforcement/
   - name: Research
     url: /research/
+  - name: Contact Us
+    url: /about/contact.html
+
 
 secondary_navigation:
   - name: Contact Us
