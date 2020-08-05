@@ -46,7 +46,7 @@ issues will be addressed in [future rulemaking for passenger vessels]({{ site.ba
 
 ###  Accessible Routes
 ![photo of
-gangway]({{ site.baseurl }}{{ page.image-directory }}/chapter10/p5boat.jpg){: .float-right}ADAAG requires that at least one accessible route connect
+gangway]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/p5boat.jpg){: .float-right}ADAAG requires that at least one accessible route connect
 accessible buildings, facilities, elements, and spaces on a site.
 Accessible boat slips, accessible boarding piers at boat launch
 ramps,and other accessible spaces and elements within a boating facility
@@ -100,8 +100,10 @@ float with fixed switchback ramps.
 ![illustration of non-gangway sloped walking surface meeting ADAAG
 requirements]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-7.jpg){: .img-full}
 
+
 ![photo of gangway connecting floating
 pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-8_hi.jpg){: .img-medium}
+
 
 ##### Gangway Alterations
 Gangways on existing boating facilities may be repaired or replaced
@@ -112,11 +114,11 @@ travel to the altered primary function area and must be made accessible,
 if the cost to do so is not disproportionate. The Department of Justice
 has determined that it is not disproportionate to spend up to an
 additional 20 percent of the overall costs of alterations to the primary
-function areas to make the path of travel accessible.![illustration of
-transition
-plates]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-8_low.jpg){: .img-medium}
+function areas to make the path of travel accessible.
 
-##### Transition Plates
+![illustration of transition plates]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-8_low.jpg){: .img-medium}
+
+#### Transition Plates
 Transition plates are sloping pedestrian walking surfaces located at the
 end of a gangway. Gangways are not required to have landings at the end,
 if transition plates are provided. If the slope of a transition plate is
@@ -124,7 +126,7 @@ greater than 1:20 (5%), the transition plate must have a landing at the
 non-gangway end of the transition plate and comply with other ADAAG ramp
 requirements.
 
-##### Handrail Extensions
+#### Handrail Extensions
 ADAAG addresses handrail height, diameter, and extensions provided to
 the end of the gangway. Other specifications regarding vertical supports
 are not addressed by ADDAG, but may be addressed in local building
@@ -136,7 +138,7 @@ than 6 inches or a projection less than 72 inches, or a slope of 1:20
 to be parallel with the ground or floor surface, since the surface may
 be moving due to water conditions.
 
-##### Cross Slope
+#### Cross Slope
 The cross slopes of gangways, transition plates and floating piers that
 are part of an accessible route must be designed and constructed to not
 exceed a maximum of 2 percent (1:50). Gangways and piers that are part
@@ -147,12 +149,28 @@ of movement that results from wind, waves, etc.). Where floating piers
 are grounded out due to low water conditions, slope requirements would
 not apply.
 
-##### Elevators and Platform Lifts
+#### Elevators and Platform Lifts
 In addition to regular elevators, limited use/limited application
 elevators (smaller, slower elevators used for low-traffic, low-rise
 facilities) or platform lifts that comply with ADAAG may be used instead
 of gangways as part of an accessible route connecting floating piers.
  
+
+---
+
+
+### Boats Slips
+A boat slip is the portion of a pier, main pier, finger pier, or float
+where a boat is berthed or moored, or used for embarking or
+disembarking. Where boat slips are provided, the number of boat slips
+required to be accessible must comply with the table shown to the right.
+In these guidelines, boarding piers that are not part of boat launch
+ramps are also classified as boat slips. For purposes of these
+guidelines, piers not typically thought of as providing boat slips where
+boats can be moored, such as a fuel pier, are also included in
+determining the total number of slips at the facility.
+
+#### Number of Accessible Boat Slips Required
 
  |Total Boat Slips in Facility|             Minimum Accessible Slips|
   ------------------------------ ---------------------------------------------
@@ -170,22 +188,12 @@ of gangways as part of an accessible route connecting floating piers.
   901 to 1000                                         12
   1001 and over                   12, plus 1 for each 100 or fraction thereof
 
-  : Number of Accessible Boat Slips Required
 
-A boat slip is the portion of a pier, main pier, finger pier, or float
-where a boat is berthed or moored, or used for embarking or
-disembarking. Where boat slips are provided, the number of boat slips
-required to be accessible must comply with the table shown to the right.
-In these guidelines, boarding piers that are not part of boat launch
-ramps are also classified as boat slips. For purposes of these
-guidelines, piers not typically thought of as providing boat slips where
-boats can be moored, such as a fuel pier, are also included in
-determining the total number of slips at the facility.
+
+
 
 ![illustration of required clear space for 60 foot
-pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-10.jpg){width="225"
-height="196"}
-
+pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-10.jpg){: .float-right}
 If boat slips at a facility are not identified or demarcated by length,
 each 40 feet of boat slip edge along the perimeter of a pier will be
 counted as one boat slip. For example, a new boating facility will
@@ -202,7 +210,7 @@ equates to two boat slips. According to the table, one slip must be
 accessible, and the width of the pier must be increased to a minimum of
 60 inches.
 
-**Dispersion**\
+#### Dispersion
 Accessible boat slips must be dispersed throughout the various types of
 slips a facility provides, but a facility does not have to provide more
 accessible boat slips than required in the table. Accessible slips may
@@ -213,8 +221,7 @@ with features such as telephone, water, electricity, or cable
 connections.
 
 ![illustration of pier
-clearance]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-11.jpg){width="308"
-height="231"}Accessible boat slips do not need to be marked and are not
+clearance]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-11.jpg){: .float-left}Accessible boat slips do not need to be marked and are not
 reserved in the same way as accessible vehicle parking spaces. For
 example, facilities should hold the accessible slips open for persons
 with disabilities until all other slips are filled. At that point, the
@@ -226,10 +233,9 @@ facility guide. Ensuring that accessible slips are available to persons
 with disabilities is an operational issue and operators should contact
 the Department of Justice for further information.
 
+#### Accessible Boat Slips
 ![photo of woman in wheelchair on accessible finger
-pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/chairdock1.jpg){width="200"
-height="216"}**Accessible Boat Slips**\
-Accessible boat slips must have clear pier space at least 60 inches wide
+pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/chairdock1.jpg){: .float-right}Accessible boat slips must have clear pier space at least 60 inches wide
 and as long as the slip. Providing more than 60 inches wide clear space
 will improve safety for people with disabilities, especially on floating
 piers. This space is the minimum necessary for individuals with
@@ -248,11 +254,7 @@ exceptions:
 
 -   Edge protection is not required, but if provided, it can be 4 inches
     high maximum and 2 inches deep maximum at the continuous clear
-    openings.![illustration of accessible finger
-    piers]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-13hi.jpg){width="320"
-    height="219"}
-
- 
+    openings.
 
 -   In alterations, facilities with finger piers must have at least one
     accessible finger pier, which is the length of the boat slip and a
@@ -262,6 +264,8 @@ exceptions:
     accessible slip must be parallel to the pier and be a minimum of 60
     inches wide.
 
+![illustration of accessible finger piers]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-13hi.jpg){: .img-medium}
+
 Cleats and other boat securement devices at accessible slips do not have
 to comply with ADAAG reach range requirements. However, clear space must
 be provided at each securement device and each device must be located on
@@ -270,24 +274,19 @@ controls and operating mechanisms such as hose bibbs, water supply
 hoses, outlets for electrical power, telephones, or cable TV.
 
 ![illustration of pier clearance space
-reduction]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-12_hi.jpg){width="291"
-height="274"}
-:::
+reduction]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-12_hi.jpg){: .img-medium}
 
 ![illustration of edge protection at
-pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-12_low.jpg){width="207"
-height="190"}
+pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-12_low.jpg){: .img-medium}
 
 ![illustration of forward and side reach
-ranges]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-13_low.jpg){width="250"
-height="355"}
+ranges]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-13_low.jpg){: .img-medium}
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_624 .attachmentsList}
-:::
-:::
 
+---
+
+
+### Boarding Piers at Boat Launch Ramps
 A boarding pier (sometimes called a courtesy pier or a launch dock) is
 the part of a pier where a boat is temporarily moored for embarking and
 disembarking. A boat launch ramp is a sloped surface designed for
@@ -331,7 +330,7 @@ fixed boarding pier could be relocated to the side of one of the launch
 ramps, which would allow the slope of the launch ramps to remain
 unchanged since the accessible route would run outside the launch ramps.
 
-**Boarding Pier Clearances**\
+#### Boarding Pier Clearances
 The entire length of accessible boarding piers must comply with the same
 technical provisions that apply to boat slips. There is no minimum
 length for the pier. However, the accessible boarding pier should be at
@@ -343,9 +342,8 @@ entire 20 feet must comply with the pier clearance requirements. If a
 60-foot accessible boarding pier is provided, the entire 60 feet must
 comply with the pier clearance requirements.
 
-**Launch Ramps Without Boarding Piers**![photo of launch ramp without
-boarding
-pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-16.jpg)There
+#### Launch Ramps Without Boarding Piers
+![photo of launch ramp without boarding pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-16.jpg){: .float-right}There
 are no specific provisions that address access to launch ramps without
 boarding piers. The Department of Justice advises that if there are no
 applicable scoping requirements (i.e., how many features must be
@@ -355,92 +353,91 @@ one launch ramp. The portion of the accessible route located within the
 launch ramp is not required to comply with the slope requirements for
 accessible routes.
 
+---
 
+
+### Provision Index
 This table highlights the sections of the ADA and ABA Accessibility
 Standards discussed in the boating facilities guide.
 
- 
+|                                                               |  ADA Standards\* | ABA Standards        |
+|---------------------------------------------------------------|------------------|----------------------|
+| Definitions                                                   |  106\.5          | F106\.5              |
+| Alteration                                                    |  106\.5          | F106\.5              |
+| Boarding Pier                                                 | 106\.5           | F106\.5              |
+| Boat Launch Ramp                                              |  106\.5          | F106\.5              |
+| Boat Slip                                                     | 106\.5           | F106\.5              |
+| Cross Slope                                                   | 106\.5           | F106\.5              |
+| Curb Ramp                                                     | 106\.5           | F106\.5              |
+| Facility                                                      | 106\.5           | F106\.5              |
+| Gangway                                                       | 106\.5           | F106\.5              |
+| Ramp                                                          | 106\.5           | F106\.5              |
+| Running Slope                                                 | 106\.5           | F106\.5              |
+| Transition Plate                                              | 106\.5           | F106\.5              |
+|                                                               |                  |                      |
+| Recreation Boating Facilities \(where provided\)              | 235              | F235                 |
+| Number of Accessible Boat Slips \(including 40 foot rule\)    | 235\.2           | F235\.2              |
+| Boat Slip Dispersion                                          | 235\.2\.1        | F235\.2\.1           |
+| Number of Acc\. Boarding Piers at Boat Launch Ramps           | 235\.3           | F235\.3              |
+|                                                               |                  |                      |
+| Accessible Routes \(where required\)                          | 206              | F206                 |
+| Boating \(specific provisions\)                               | 206\.2\.10       | F206\.2\.9           |
+| Load and Unload Areas \(accessible route connection\)         | 206\.2\.9\.1     | F206\.2\.9\.1        |
+| Elevators \(types allowed\)                                   | 206\.6           | F206\.6              |
+| Platform Lift \(new construction use\)                        | 206\.7\.10       | F206\.7\.10          |
+|                                                               |                  |                      |
+| Accessible Routes Components \(typically used\)               |                  |                      |
+| Curb Ramps                                                    | 406              | 406                  |
+| Doors and Gates                                               | 404              | 404                  |
+| Ramps \(includes gangways\)                                   | 405              | 405                  |
+| Ramps \(slope exception\)                                     | 1002\.2 EX 1     | 1002\.2 EX 1         |
+| Walking Surfaces with Running Slopes of 5% or less            | 403              | 403                  |
+|                                                               |                  |                      |
+| Gangway \(specific alteration exception\)                     | 1003\.2\.1 EX 1  | 1003\.2\.1 EX 1      |
+| Gangway \(max\. rise exception\)                              | 1003\.2\.1 EX 2  | 1003\.2\.1 EX 2      |
+| Gangway \(80 foot exception\)                                 | 1003\.2\.1 EX 3  | 1003\.2\.1 EX 3      |
+| Gangway \(25 boat slip exception\)                            | 1003\.2\.1 EX 4  | 1003\.2\.1 EX 4      |
+| Gangway \(landing/transition plate exception\)                | 1003\.2\.1 EX 5  | 1003\.2\.1 EX 5      |
+| Gangway \(handrail exception\)                                | 1003\.2\.1 EX 6  | 1003\.2\.1 EX 6      |
+| Gangway \(cross slope exception\)                             | 1003\.2\.1 EX 7  | 1003\.2\.1 EX 7      |
+| Gangway \(surface exception\)                                 | 1003\.2\.1 EX 8  | 1003\.2\.1 EX 8      |
+|                                                               |                  |                      |
+| Boarding Piers at Launch Ramps \(exceptions in 1003\.2\.1\)   | 1003\.2\.2 EX 1  | 1003\.2\.2 EX 1      |
+| Launch Ramp \(30 foot exception\)                             | 1003\.2\.2 EX 2  | 1003\.2\.2 EX 2      |
+| Launch Ramp \(slope exception \- floating/skid piers\)        | 1003\.2\.2 EX 3  | 1003\.2\.2 EX 3      |
+| Launch Ramp \(surface exception from 1003\.2\.1 EX 8\)        | 1003\.2\.2 EX 1  | 1003\.2\.2 EX 1      |
+|                                                               |                  |                      |
+| Technical Requirements for Boating Facilities                 |                  |                      |
+| Clearances \(size, and 10 foot rule\)                         | 1003\.3\.1/\.2   | 1003\.3\.1/\.2       |
+| Clearances \(boarding pier, width exception\)                 | 1003\.3\.2 EX 1  | 1003\.3\.2 EX 1      |
+| Clearances \(boarding pier, edge protection exception\)       | 1003\.3\.2 EX 2  | 1003\.3\.2 EX 2      |
+|                                                               |                  |                      |
+| Clearances \(boat slip, width exception\)                     | 1003\.3\.1 EX 1  | 1003\.3\.1 EX 1      |
+| Clearances \(boat slip, edge protection exception\)           | 1003\.2\.1 EX 2  | 1003\.2\.1 EX 2      |
+| Clearances \(boat slip, alteration exception\)                | 1003\.3\.1 EX 3  | 1003\.3\.1 EX 3      |
+|                                                               |                  |                      |
+| Cleats and Other Boat Securement Devices \(exception\)        | 205\.1 EX 7      | 205\.1 EX 7          |
+| Cross slope \(boat slip exception\)                           | 1003\.2\.1 EX 7  | 1003\.2\.1 EX 7      |
+| Cross Slope \(boarding pier exception, from 1003\.2\.1 EX 7\) | 1003\.2\.2 EX 1  | 1003\.2\.2 EX 1      |
+|                                                               |                  |                      |
+| Gas Pump \(operation exception\)                              | 309\.4 EX        | 309\.4 EX            |
+|                                                               |                  |                      |
+| Other Typical Scoping Requirements at Boat Facilities         |                  |                      |
+| Dining surfaces                                               | 226              | F226                 |
+| Employee Work Areas \(exception\)                             | 203\.9           | no similar exception |
+| Locker Rooms                                                  | 222              | F222                 |
+| Parking                                                       | 208              | F208                 |
+| Passenger Loading Zones and Bus Stops                         | 209              | F209                 |
+| Signage                                                       | 216              | F216                 |
+| Sales and Service Counters                                    | 227\.3           | F227\.3              |
+| Toilet and Bathing                                            | 213              | F213                 |
+| Vending Machines                                              | 228              | F228                 |
 
-  ----------------------------------------------------------- --------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------
-                                                                [ADA Standards](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards)\*   [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) 
-  **Definitions**                                                                                               106.5                                                                                                   F106.5 
-  Alteration                                                                                                    106.5                                                                                                   F106.5
-  Boarding Pier                                                                                                 106.5                                                                                                   F106.5
-  Boat Launch Ramp                                                                                              106.5                                                                                                   F106.5 
-  Boat Slip                                                                                                     106.5                                                                                                   F106.5
-  Cross Slope                                                                                                   106.5                                                                                                   F106.5
-  Curb Ramp                                                                                                     106.5                                                                                                   F106.5
-  Facility                                                                                                      106.5                                                                                                   F106.5
-  Gangway                                                                                                       106.5                                                                                                   F106.5
-  Ramp                                                                                                          106.5                                                                                                   F106.5
-  Running Slope                                                                                                 106.5                                                                                                   F106.5
-  Transition Plate                                                                          [106.5]{style="text-align: -webkit-center;"}                                                             [F106.5]{style="text-align: -webkit-center;"}
-                                                                                                                                                                                                                            
-  **Recreation Boating Facilities (where provided)**                                                             235                                                                                                     F235
-  Number of Accessible Boat Slips (including 40 foot rule)                                                      235.2                                                                                                   F235.2
-  Boat Slip Dispersion                                                                                         235.2.1                                                                                                 F235.2.1
-  Number of Acc. Boarding Piers at Boat Launch Ramps                                                            235.3                                                                                                   F235.3
-                                                                                                                                                                                                                            
-  **Accessible Routes (where required)**                                                                         206                                                                                                     F206
-  Boating (specific provisions)                                                                               206.2.10                                                                                                 F206.2.9
-  Load and Unload Areas (accessible route connection)                                                         206.2.9.1                                                                                               F206.2.9.1
-  Elevators (types allowed)                                                                                     206.6                                                                                                   F206.6
-  Platform Lift (new construction use)                                                                        206.7.10                                                                                                 F206.7.10
-                                                                                                                                                                                                                            
-  **Accessible Routes Components (typically used)**                                                                                                                                                                         
-  Curb Ramps                                                                                     [406]{style="text-align: center;"}                                                                       [406]{style="text-align: center;"}
-  Doors and Gates                                                                                [404]{style="text-align: center;"}                                                                       [404]{style="text-align: center;"}
-  Ramps (includes gangways)                                                                                      405                                                                                                      405
-  Ramps (slope exception)                                                                                    1002.2 EX 1                                                                                              1002.2 EX 1
-  Walking Surfaces with Running Slopes of 5% or less                                                             403                                                                                                      403
-                                                                                                                                                                                                                            
-  Gangway (specific alteration exception)                                                                   1003.2.1 EX 1                                                                                            1003.2.1 EX 1
-  Gangway (max. rise exception)                                                                             1003.2.1 EX 2                                                                                            1003.2.1 EX 2
-  Gangway (80 foot exception)                                                                               1003.2.1 EX 3                                                                                            1003.2.1 EX 3
-  Gangway (25 boat slip exception)                                                                          1003.2.1 EX 4                                                                                            1003.2.1 EX 4
-  Gangway (landing/transition plate exception)                                                              1003.2.1 EX 5                                                                                            1003.2.1 EX 5
-  Gangway (handrail exception)                                                                              1003.2.1 EX 6                                                                                            1003.2.1 EX 6
-  Gangway (cross slope exception)                                                                           1003.2.1 EX 7                                                                                            1003.2.1 EX 7
-  Gangway (surface exception)                                                                               1003.2.1 EX 8                                                                                            1003.2.1 EX 8
-                                                                                                                                                                                                                            
-  Boarding Piers at Launch Ramps (exceptions in 1003.2.1)                                                   1003.2.2 EX 1                                                                                            1003.2.2 EX 1
-  Launch Ramp (30 foot exception)                                                                           1003.2.2 EX 2                                                                                            1003.2.2 EX 2
-  Launch Ramp (slope exception - floating/skid piers)                                                       1003.2.2 EX 3                                                                                            1003.2.2 EX 3
-  Launch Ramp (surface exception from 1003.2.1 EX 8)                                                        1003.2.2 EX 1                                                                                            1003.2.2 EX 1
-                                                                                                                                                                                                                            
-  **Technical Requirements for Boating Facilities**                                                                                                                                                                         
-  Clearances (size, and 10 foot rule)                                                                        1003.3.1/.2                                                                                              1003.3.1/.2
-  Clearances (boarding pier, width exception)                                                               1003.3.2 EX 1                                                                                            1003.3.2 EX 1
-  Clearances (boarding pier, edge protection exception)                                                     1003.3.2 EX 2                                                                                            1003.3.2 EX 2
-                                                                                                                                                                                                                            
-  Clearances (boat slip, width exception)                                                                   1003.3.1 EX 1                                                                                            1003.3.1 EX 1
-  Clearances (boat slip, edge protection exception)                                                         1003.2.1 EX 2                                                                                            1003.2.1 EX 2
-  Clearances (boat slip, alteration exception)                                                              1003.3.1 EX 3                                                                                            1003.3.1 EX 3
-                                                                                                                                                                                                                            
-  Cleats and Other Boat Securement Devices (exception)                                                       205.1 EX 7                                                                                               205.1 EX 7
-  Cross slope (boat slip exception)                                                                         1003.2.1 EX 7                                                                                            1003.2.1 EX 7
-  Cross Slope (boarding pier exception, from 1003.2.1 EX 7)                                                 1003.2.2 EX 1                                                                                            1003.2.2 EX 1
-                                                                                                                                                                                                                            
-  Gas Pump (operation exception)                                                                              309.4 EX                                                                                                 309.4 EX
-                                                                                                                                                                                                                            
-  **Other Typical Scoping Requirements at Boat Facilities**                                                                                                                                                                 
-  Dining surfaces                                                                                [226]{style="text-align: center;"}                                                                       [F226]{style="text-align: center;"}
-  Employee Work Areas (exception)                                                               [203.9]{style="text-align: center;"}                                                              [no similar exception]{style="text-align: center;"}
-  Locker Rooms                                                                                                   222                                                                                                     F222
-  Parking                                                                                        [208]{style="text-align: center;"}                                                                       [F208]{style="text-align: center;"}
-  Passenger Loading Zones and Bus Stops                                                          [209]{style="text-align: center;"}                                                                       [F209]{style="text-align: center;"}
-  Signage                                                                                        [216]{style="text-align: center;"}                                                       [F]{style="text-align: center;"}[216]{style="text-align: center;"}
-  Sales and Service Counters                                                                    [227.3]{style="text-align: center;"}                                                                     F[227.3]{style="text-align: center;"}
-  Toilet and Bathing                                                                                             213                                                                                                     F213
-  Vending Machines                                                                                               228                                                                                                     F228
-  ----------------------------------------------------------- --------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------
+
 
 \* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
  The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
-the Architectural Barriers Act (ABA) Accessibility Standards).\
-\
-\
-:::
+the Architectural Barriers Act (ABA) Accessibility Standards).

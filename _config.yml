@@ -166,7 +166,7 @@ collections:
   mde:
     output: true
     permalink: /mde/:path/
-  mde:
+  pvag:
     output: true
     permalink: /pvag/:path/
   authors:
