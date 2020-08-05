@@ -166,6 +166,9 @@ collections:
   mde:
     output: true
     permalink: /mde/:path/
+  mde:
+    output: true
+    permalink: /pvag/:path/
   authors:
     output: true
     permalink: /authors/:name/
@@ -279,6 +282,15 @@ defaults:
       layout: standards
       file-directory: /files/mde/
       image-directory: /images/mde/
+  - scope:
+      path: ""
+      type: "pvag"
+    values:
+      collection-title: "Passenger Vessels Accessibility Guidelines"
+      collection-folder: pvag
+      layout: standards
+      file-directory: /files/pvag/
+      image-directory: /images/pvag/
   - scope:
       path: "_authors"
     values:
