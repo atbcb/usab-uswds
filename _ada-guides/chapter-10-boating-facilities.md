@@ -177,7 +177,7 @@ determining the total number of slips at the facility.
 #### Number of Accessible Boat Slips Required
 
 | Total Boat Slips in Facility | Minimum Accessible Slips                    |
-|------------------------------|---------------------------------------------|
+|:----------------------------:|:-------------------------------------------:|
 | 1 to 25                      | 1                                           |
 | 26 to 50                     | 2                                           |
 | 51 to 100                    | 3                                           |
