@@ -25,14 +25,34 @@ $theme-hero-image: asset_path("board-office.jpg");
   background-color: blue;
 }
 
+// advisory boxes
+.advisory {
+  background-color: #e8f0f8;
+  padding: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
+}
+
 // create class that combines about page img classes
 
 .bold {
   font-weight: bold;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .img-right {
   float: right;
+  display: block;
+  padding: 15px;
+}
+
+.img-left {
+  float: left;
   display: block;
   padding: 15px;
 }
@@ -141,12 +161,7 @@ $theme-hero-image: asset_path("board-office.jpg");
 }
 
 
-.advisory {
-  background-color: #e8f0f8;
-  padding: 1em;
-  margin-left: 1em;
-  margin-right: 1em;
-}
+
 
 figcaption {
   font-size: small;
