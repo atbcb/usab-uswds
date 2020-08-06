@@ -1,11 +1,12 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_630 .attachmentsList}
-:::
-:::
+---
+title: "Chapter 10: Golf Courses"
+order-number: 1006
+file: golf.pdf
+file-description: PDF version
+---
 
 *![photo of man using wheelchair on golf
-course](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/2002_Conn_Amputee-Tom_Quin.jpg)\"Whenever
+course]({{ site.baseurl }}{{ page.image-directory }}/chapter10/golf-guide/2002_Conn_Amputee-Tom_Quin.jpg)\"Whenever
 any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
 and justice. The promise of the ADA\...has enabled people with
@@ -41,11 +42,11 @@ provisions outlined in this guide.
 
 *Click on diagram to view enlargement.*\
 [![illustration of accessible route or golf car passage connecting
-elements](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-diag-thumb.jpg){width="450"
-height="297"}](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-diag.jpg)
+elements]({{ site.baseurl }}{{ page.image-directory }}/chapter10/golf-diag-thumb.jpg){width="450"
+height="297"}]({{ site.baseurl }}{{ page.image-directory }}/chapter10/golf-diag.jpg)
 
 ![illustration of golf car passage or accessible
-route](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-6_hi.jpg){width="210"
+route]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-6_hi.jpg){width="210"
 height="198"}\
 **Alternative Golf Car Passage**\
 Providing an accessible route that complies with ADAAG may be
@@ -55,7 +56,7 @@ therefore unpredictable. The guidelines assume that on many courses,
 golfers use a golf car to move throughout the course.
 
 ![illustration of accessible route or golf car
-passage](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-g6_low.jpg){width="206"
+passage]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-g6_low.jpg){width="206"
 height="217"}Second, requiring an accessible route throughout a course
 could alter the slopes within some courses and alter the nature of the
 sport by eliminating some of the challenge of the game. Therefore, a
@@ -66,7 +67,7 @@ usable by golf cars, it does not necessarily need to have a prepared
 surface and may be part of a golf car path.
 
 ![illustration of golf car passage or accessible route on
-fairway](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-g7hi.jpg){width="228"
+fairway]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-g7hi.jpg){width="228"
 height="251"}The golf car passage could be located on areas such as
 fairways, greens, and teeing surfaces. A golf car passage can be
 substituted for all or part of the accessible route connecting elements
@@ -97,7 +98,7 @@ width of the route to 60 inches to accommodate the passage of a golf
 car.
 
 ![illustration of course
-barriers](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-g7lo.jpg){width="192"
+barriers]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-g7lo.jpg){width="192"
 height="223"}**Course Barriers**\
 Curbing or other man-made barriers often line golf car paths to restrict
 golf cars from entering certain portions of the course or to reduce
@@ -116,7 +117,7 @@ time requirements.
 :::
 
 ![illustration of teeing
-ground](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/page-8hi.jpg)The
+ground]({{ site.baseurl }}{{ page.image-directory }}/chapter10/golf-guide/page-8hi.jpg)The
 \"teeing ground\" is the starting place for a hole of golf. A
 rectangular area usually two club-lengths in depth, the teeing ground's
 borders are defined by the outside limits of two "tee-markers." The
@@ -139,7 +140,7 @@ limits.
     flexibility to course operators and designers.
 
 ![illustration of multiple teeing
-grounds](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/page-8lo.jpg)
+grounds]({{ site.baseurl }}{{ page.image-directory }}/chapter10/golf-guide/page-8lo.jpg)
 :::
 
 ::: {itemprop="articleBody"}
@@ -149,7 +150,7 @@ grounds](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilitie
 :::
 
 ![illustration of putting
-green](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/page-9hi.jpg)Each
+green]({{ site.baseurl }}{{ page.image-directory }}/chapter10/golf-guide/page-9hi.jpg)Each
 putting green must be designed and constructed so that a golf car can
 enter and exit the green. The green must be connected by a golf car
 passage so that a golf car can reach the green.
@@ -162,7 +163,7 @@ passage so that a golf car can reach the green.
 :::
 
 ![illustration of weather
-shelter](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/page-9lo.jpg)Course
+shelter]({{ site.baseurl }}{{ page.image-directory }}/chapter10/golf-guide/page-9lo.jpg)Course
 weather shelters must be designed and constructed to allow a golf car to
 enter and exit, and have a clear floor or ground space of 60 inches by
 96 inches minimum. This space will allow a golf car to be driven
@@ -191,7 +192,7 @@ comply with the following:
     provided, at least five percent, but not less than one, of the
     practice teeing grounds must be accessible and provide space for a
     golf car to enter and exit.![illustration of teeing
-    station](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/page-10_hi.jpg){width="450"
+    station]({{ site.baseurl }}{{ page.image-directory }}/chapter10/golf-guide/page-10_hi.jpg){width="450"
     height="139"}
 :::
 
@@ -202,7 +203,7 @@ comply with the following:
 :::
 
 ![photo of player in single rider adaptive golf car in sand
-trap](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/onthebeach-color.jpg)In
+trap]({{ site.baseurl }}{{ page.image-directory }}/chapter10/golf-guide/onthebeach-color.jpg)In
 recent years, single rider adaptive golf cars have been used to increase
 access for persons with disabilities on golf courses. Questions have
 arisen concerning their use. The Access Board develops and maintains
@@ -220,7 +221,7 @@ relating to the use and operation of adaptive golf cars.;
 :::
 
 ![illustration of accessible
-bleachers](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/page-11.jpg)ADAAG
+bleachers]({{ site.baseurl }}{{ page.image-directory }}/chapter10/golf-guide/page-11.jpg)ADAAG
 also requires temporary facilities such as bleachers for tournaments,
 assembly seating areas, portable toilet facilities, concessions, and all
 other available amenities to provide access. Access to temporary

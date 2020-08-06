@@ -1,16 +1,9 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_article_1666 .attachmentsList}
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  [![Download this file (play-surfaces.pdf)](/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1666/play-surfaces.pdf "Download this file (play-surfaces.pdf)"){.at_icon}[play-surfaces.pdf](https://www.access-board.gov/attachments/article/1666/play-surfaces.pdf "Download this file (play-surfaces.pdf)"){.at_url}
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-  : Attachments:
-:::
-:::
-
-\
-October 2014
+---
+title: "Chapter 10: Play Surfaces"
+order-number: 1008.1
+file: play-surfaces.pdf
+file-description: PDF version
+---
 
 A publication of the U.S. Access Board and the National Center on
 Accessibility

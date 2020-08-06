@@ -1,21 +1,24 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_626 .attachmentsList}
-:::
-:::
+---
+title: "Chapter 10: Fishing Piers and Platforms"
+order-number: 1005
+file: fishing.pdf
+file-description: PDF version
+---
 
-*\"Whenever any barrier stands between you and the full rights and
-dignity of citizenship, we must work to remove it, in the name of simple
-decency and justice. The promise of the ADA\...has enabled people with
-disabilities to enjoy much greater access to a wide range of affordable
-travel, recreational opportunities and life-enriching services.\"*
-
-> *President George W. Bush, New Freedom Initiative, February 1, 2001*
-
+<div class="clearfix" markdown="1">
 ![photo of man in wheelchair
-fishing](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/fishing-guide/p3fish.jpg){width="150"
-height="184"}
+fishing]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/p3fish.jpg){: .float-right .thumbnail}
 
+>*"Whenever any barrier stands between you and the full rights and dignity of
+citizenship, we must work to remove it, in the name of simple decency
+and justice. The promise of the ADA...has enabled people with
+disabilities to enjoy much greater access to a wide range of affordable
+travel, recreational opportunities and life-enriching services."*
+
+>> *President George W. Bush, New Freedom Initiative, February 1, 2001*
+</div>
+
+### Accessible Fishing Piers and Platforms
 The recreation facility guidelines described in this guide focus on
 newly designed or newly constructed and altered fishing piers and
 platforms. Other provisions contained in ADAAG address elements commonly
@@ -31,17 +34,16 @@ constructed for fishing. Structures that were not built specifically for
 fishing do not need to meet these requirements, even if people use them
 for fishing (for example, a bridge, flood control dam or breakwater
 jetty).
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_627 .attachmentsList}
-:::
-:::
 
+---
+
+
+### Accessible Routes
 ![photo of man in wheelchair fishing from floating
-pier](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/fishing-guide/p5fish.jpg){width="200"
-height="200"}ADAAG requires that at least one accessible route connect
+pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/p5fish.jpg){: .img-right}
+
+ADAAG requires that at least one accessible route connect
 accessible buildings, facilities, elements and spaces on the site.
 Accessible fishing piers and platforms and other accessible spaces and
 elements within a fishing facility must also be connected by an
@@ -51,7 +53,7 @@ room, surface, slope (maximum of 1:12 or 8.33%), changes in level,
 doors, egress, and areas of rescue assistance, unless otherwise modified
 by specific provisions outlined in this guide.
 
-**Gangways**\
+#### Gangways
 A gangway is a variable-sloped pedestrian walkway linking a fixed
 structure or land with a floating structure. Where gangways are provided
 as part of accessible routes to connect floating accessible fishing
@@ -61,7 +63,7 @@ dynamic environment. Designers and operators should note that there are
 no exceptions to the accessible route requirements where the accessible
 route connects to a fixed fishing pier or platform.
 
-**Gangway Slope and Rise Exceptions**\
+#### Gangway Slope and Rise Exceptions
 Gangways must be designed to provide for a maximum 1:12 (8.33%) slope
 but are not required to be longer than 30 feet in length. There is no
 maximum slope requirement for gangways 30 feet or longer. For example,
@@ -76,7 +78,7 @@ independent access to persons with disabilities.
 
 ![illustration of accessible gangway serving accessible floating pier in
 a large
-facility](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/fishing-guide/page-6.jpg)
+facility]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/page-6.jpg){: .img-large}
 
 The maximum rise requirements in ADAAG do not apply to gangways. As a
 result, no intermediate landings on the gangways are required and
@@ -90,7 +92,7 @@ at a fishing facility, it must comply with ADAAG slope and rise
 requirements. This would include a ramp connecting a fixed pier or a
 float with fixed switchback ramps.
 
-**Gangway Alterations**\
+#### Gangway Alterations
 Gangways on existing fishing facilities may be repaired or replaced
 without triggering the requirement to increase the gangway length.
 However, if the areas altered contain primary functions (such as a
@@ -101,14 +103,15 @@ of Justice has determined that it is not disproportionate to spend up to
 an additional 20 percent of the overall costs of alterations to the
 primary function area to make the path of travel accessible.
 
-**Transition Plates ** Transition plates are sloping pedestrian walking
+#### Transition Plates
+Transition plates are sloping pedestrian walking
 surfaces located at the end of a gangway. Gangways are not required to
 have landings at the end, if transition plates are provided. If the
 slope of the transition plate is greater than 1:20 (5%), transition
 plates must have a landing at the end of the transition plate not
 connected to the gangway and comply with other ADAAG ramp requirements.
 
-**Handrail Extensions**\
+#### Handrail Extensions
 ADAAG addresses handrail height, diameter, and extensions provided to
 the end of the gangway. Other specifications regarding vertical supports
 may be addressed in other building codes. Handrail extensions are not
@@ -119,7 +122,7 @@ than 72 inches, or a slope of 1:20 (5%) or less. If handrail extensions
 are provided, they do not need to be parallel with the ground or floor
 surface, since the surface may be moving due to water conditions.
 
-**Cross Slope**\
+#### Cross Slope
 The cross slopes of gangways, transition plates and floating piers that
 are part of an accessible route must be designed and constructed not to
 exceed a maximum of 2 percent. Measurements, absent live loads, are to
@@ -127,26 +130,25 @@ be made from a static condition (i.e., absence of movement that results
 from wind, waves, etc.). Where floating piers are grounded out due to
 low water conditions, slope requirements would not apply.
 
-**Elevators and Platform Lifts**\
+#### Elevators and Platform Lifts
 In addition to regular elevators, limited use/limited application
 elevators or platform lifts that comply with ADAAG may be used instead
 of gangways as part of an accessible route connecting floating piers and
 platforms used for fishing.
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_628 .attachmentsList}
-:::
-:::
 
+---
+
+
+### Rails
 Where railings, guards, or handrails are provided on a fishing pier or
 platform, they must meet ADAAG provisions.
 
-**Height**![illustration of accessible gangway serving accessible
+#### Height
+![illustration of accessible gangway serving accessible
 floating pier in a large
-facility](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/fishing-guide/page-9_hi.jpg)Where
-railings, guards, or handrails are provided on a fishing pier or
+facility]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/page-9_hi.jpg){: .img-large}
+Where railings, guards, or handrails are provided on a fishing pier or
 platform, at least 25 percent of the rails must be 34 inches or less in
 height above the ground or deck so a person using a wheelchair or other
 mobility device has the opportunity to fish. However,guardrails may be
@@ -157,7 +159,7 @@ below.) This will allow a design professional to increase the guardrail
 height if a specific location needs enhanced safety measures or a local
 building code applies.
 
-**Dispersion**\
+#### Dispersion
 Anglers who can stand are able to fish from any part of a pier or
 platform and change locations. To provide anglers with disabilities
 similar opportunities, the accessible 34-inch maximum railing must be
@@ -166,19 +168,19 @@ variety of locations to fish from. Different fishing locations may
 provide different water depths, shade or sun, vegetation, and proximity
 to the shoreline or bank.![illustration of dispersion of accessible
 fishing
-locations](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-9_low.jpg)
+locations]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-9_low.jpg)
 
-**Edge Protection**\
+#### Edge Protection
 Where railings, guards, or handrails are provided, edge protection must
 be provided and extend a minimum of 2 inches above the ground or deck
 surface. This protection will prevent persons using wheelchairs or other
 mobility devices from slipping off the pier or platform.
 
 ![illustation of 2-inch edge protection at
-pier](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/fishing-guide/page-9_hi.jpg)
+pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/page-9_hi.jpg)
 
 ![illustration of 12-inch deck extension without edge
-protection](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/fishing-guide/page-11.jpg)
+protection]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/page-11.jpg)
 
 Edge protection is not required where a railing, guardrail, or handrail
 is provided, if the deck surface extends a minimum of 12 inches beyond
