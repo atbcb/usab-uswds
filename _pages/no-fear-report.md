@@ -1,7 +1,7 @@
 ---
 title: No FEAR Act Report
 layout: page
-sidenav: false
+sidenav: true
 permalink: /about/no-fear-report.html
 ---
 

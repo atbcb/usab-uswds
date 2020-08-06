@@ -1,7 +1,7 @@
 ---
 title: No FEAR Act Data
 layout: page
-sidenav: false
+sidenav: true
 permalink: /about/no-fear-data.html
 ---
 
@@ -11,14 +11,13 @@ The "Notification and Federal Employee Antidiscrimination and Retaliation Act of
 
 ## No Fear Act Notice
 
-For more detailed information on the No Fear Act, please read the Access Board's [No Fear Act Notice]({{ site.baseurl }}/about/no-fear-act-notice.html).
+For more detailed information on the No Fear Act, please read the Access Board's [No Fear Act Notice]({{ site.baseurl }}/about/policy/no-fear-notice.html).
 
 ## Summary EEO Data
 
 Section 301 of the No FEAR Act and EEOC's implementing regulations (29 CFR Part 1614) require each federal agency to post summary statistical data about complaints of employment discrimination filed employees, former employees and job applicants.  The Access Board's summary data for the current fiscal year (FY), as well as prior fiscal years, is as follows:
 
-EEO Complaint Activity
-|   |  FY2013  |  FY2014  |  FY2015  |  FY2016  |  FY2017  |  FY2018  | Thru 1^st^ Quarter FY 2019 |
+| EEO Complaint Activity |  FY2013  |  FY2014  |  FY2015  |  FY2016  |  FY2017  |  FY2018  | Thru 1st Quarter FY 2019 |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 | Number of Complaints Filed | 0 | 0 | 0 | 0 | 0 | 1 | 0 |
 | Number of Complainants | n/a | n/a | n/a | n/a | n/a | 1 | 1 |
@@ -26,4 +25,4 @@ EEO Complaint Activity
 
 ## No FEAR Act Annual Report
 
-Section 203(a) of the No FEAR Act and OPM's implementing regulations (5 CFR Part 724) also require federal agencies to submit annual reports to specified members of Congress and other federal entities:  The Access Board's [annual report]({{ site.baseurl }}/about/no-fear-act-report.html) for the past fiscal year.
+Section 203(a) of the No FEAR Act and OPM's implementing regulations (5 CFR Part 724) also require federal agencies to submit annual reports to specified members of Congress and other federal entities:  The Access Board's [annual report]({{ site.baseurl }}/about/no-fear-report.html) for the past fiscal year.

@@ -1,0 +1,81 @@
+This animation explains requirements for signs in the ADA and ABA Standards.  The standards cover informational signs and directional signs which must meet requirements for visual legibility.  Examples include signs stating “Notice Employees Only” or those indicating the location of elevators. The standards also address signs that label permanent rooms and spaces, such as restrooms, and require them to be tactile as well as visually accessible.  
+
+Some types of signs are exempted from coverage and are not required to comply.  These include:
+* Temporary signs such as those indicating an element is currently out of service
+* Building addresses and directories 
+* Company names and logos
+* Occupant names 
+* Menus
+* Seat and row designations in assembly areas
+* Signs in non-public areas of detention and correctional facilities
+
+The sign requirements generally apply only where signs are provided, but the standards do require the provision of signs to identify certain accessible elements and spaces, such as entrances, restrooms, and parking spaces.  These signs must include specified international symbols that are depicted in the standards, including the International Symbol of Accessibility or ISA.  The required symbol must be either light against a dark background or dark against a light background.  The standards do not specify particular colors, levels of contrast, or sign size, but they do require signs to have a non-glare finish.  
+
+Accessible entrances of a facility must be labeled by the ISA if some of the entrances are inaccessible.  In addition, directional signs with the ISA must be provided at inaccessible entrances to indicate the location of the nearest accessible entrance.  Similar provisions apply to the labelling of accessible toilet rooms and bathing facilities when not all are accessible.
+
+Aside from the ISA, additional content for directional signs is not specified and may simply include an arrow.  However, verbiage such as “Accessible Entrance” or further detail on location, for example “Use C Street Entrance,” can be helpful.  
+
+Directional signs should be located to prevent or minimize back-tracking.  A directional sign located at the beginning of the approach to an inaccessible entrance is usually more convenient then one placed immediately at the entrance. 
+
+The ISA also must be used to identify accessible parking spaces.  In addition, compliant checkout aisles must be labelled by the ISA unless all of them are accessible.
+
+The International Symbol of Access for Hearing Loss, which depicts the shape of an ear and a diagonal line, is required to indicate the availability of assistive listening systems serving assembly areas.  The International TTY symbol, which shows a phone handset above a keypad, must be provided to identify public payphones that are equipped with TTYs or text telephones and indicate their location on directional signs.  
+     
+Some signs must be tactile and have both raised characters and braille in addition to being visually accessible.  These requirements apply to signs that identify “permanent” rooms and spaces, meaning those whose function, and thus designation, is not likely to change over time or without significant alteration.  Examples include: 
+* Room and floor numbers or letters			
+* Room names 
+* Labels for restrooms, locker rooms, cafeterias, libraries, conference rooms, break rooms, mechanical rooms, areas of refuge and other permanent rooms and spaces
+	
+In addition, tactile and visual signs must be provided to label exit doors at exit stairways, exit passageways, and exit discharge.  They also are required where signs are provided to identify rail stations or station entrances.  
+The standards limit the requirements for tactile characters to those types of signs that are usually located at a door or doorway.  For people with little or no vision, doors and doorways provide a cue that helps locate signs by touch.  Other types of signs, including informational and directional signs, are not as easy to locate tactilely because they are not often consistently placed in proximity to doors.  
+Tactile signs must be installed so that the baseline of tactile characters is within a range of 48 inches minimum and 60 inches maximum above the floor or ground.  A required clear floor space that is 18 inches by 18 inches and centered on the tactile characters ensures unobstructed standing space close to the sign.  This space must be free of any protrusions to a height of 80 inches.  For safety, no door can swing into this space when open to 45 degrees.  
+
+Tactile signs must be on the latch side of doors.  There is no exception where glass walls or partitions or side lights are present.  If there is no wall space at this location, then signs must be placed on the nearest adjacent wall.  Signs can be installed on the push side of doors that have closers and do not have devices that keep the door in an open positon.  At double doors with two active leafs, the sign must be located on the right side.  Where one leaf is inactive, the sign is required on the inactive leaf.  
+
+Tactile signs, such as the label for a family restroom shown here, must be visually accessible as well.  A non-glare finish is required for the sign, and characters must contrast from the background either light-on-dark or dark-on-light.  A minimum level of contrast is not specified, but the higher the contrast the better, especially for people with low vision.  
+
+Raised characters must be upper case and sans serif.  They cannot be Italic, oblique, script, highly decorative, or of other unusual forms.  Characters must be selected from fonts where the width of the uppercase letter “O” is between 55% and 110% of the height of uppercase letter “I.”  
+
+Line spacing is required to be 135% to 170% of the height of raised characters.  Where provided, raised borders or decorative elements must be separated at least 3/8 of an inch from raised characters so that they do not interfere with reading by touch.  
+
+Characters must be 5/8 of an inch to 2 inches high based on the uppercase letter “I.”  The stroke thickness, cannot exceed 15% of the character height.  
+
+Characters must be raised at least 1/32 of an inch. Spacing between the two closest points of adjacent raised characters is required to be at least 1/8 of an inch and no more than four times the character stroke width.  If characters have non-rectangular cross sections, this spacing range applies to the top of the cross section. The spacing at the base of the cross section must be at least 1/16 of an inch and no more than four times the character stroke width.
+
+The content of raised characters also must be provided in contracted or “Grade II” braille.  Braille is read with a light, sweeping touch, and braille dots must be domed or rounded.  The standards specify the height and diameter of dots and their spacing within and between cells.  Braille must be located below the raised characters.  If text is multi-lined, braille is to be located below the entire text.  Braille must be separated by at least 3/8 of an inch from raised characters and, where provided, raised borders and decorative elements.  The indication of uppercase letters is to be used only for proper nouns and names, individual letters, initials, acronyms, and the first word of sentences. 
+
+The international symbols for accessibility, hearing loss access, and TTYs are the only pictograms mandated by the standards.  Requirements apply to other pictograms only where they are provided.  
+If a pictogram is used to label a permanent room or space, it must be on a field at least 6 inches high as shown here on a family restroom sign.  This measurement applies to the field, not the pictogram.  The raised and braille text descriptors must be located directly below, but not within, the pictogram field.  The pictogram itself is not required to be raised.  Pictograms and their field must have a non-glare finish and provide light-on-dark or dark-on-light contrast.  
+
+The requirements for the field height and text descriptors do not apply to informational pictograms, such as the international symbol of accessibility, that may be included on a sign.
+
+This is an important distinction.  Only those pictograms that identify a permanent room or space must be on a field at least 6 inches high and include tactile text descriptors.  Examples include pictograms that label restrooms, stairways, and cafeterias.
+
+Pictograms that do not specifically label a room or space but instead provide information about it, or direction to it, are not subject to the requirements for field height or text description.  In addition to the international symbol of accessibility, other examples of these pictograms include the TTY symbol with a directional arrow, and icons that prohibit food and drink or that indicate hazardous materials.  
+
+Signs that provide information about, or direction to, interior spaces and facilities must meet requirements for visual access but are not required to be tactile.  These specifications are slightly different than the visual requirements for tactile signs.  
+
+The baseline of visual characters must be at least 40 inches above the finish floor or ground.  Signs located above circulation paths must provide a headroom clearance of at least 80 inches.
+
+A non-glare finish is required, and characters must contrast from the background either light-on-dark or dark-on-light.  In this example of a sign stating “Visitors must sign in,” a low level of contrast between the character and background colors is not as readable as a higher level of contrast.  
+
+Unlike tactile characters, visual characters can be upper and lower case.  They cannot be italic, oblique, script, highly decorative, or of other unusual forms.  Line spacing is required to be 135% to 170% of the character height.  
+
+The stroke thickness is required to be from 10% to 30% of the height of the uppercase “I.”  The space between the closest points of adjacent characters in the same word must be 10% to 35% of this height.  This does not apply to spaces between words.  The character width is based on the uppercase letter “O” and must be from 55% to 110% of the character height.
+
+The minimum character height, which is based on the uppercase letter “I,” is determined by the height of the message on the sign and the viewing distance.  Where the baseline of visual characters is between 40 inches and 70 inches above the finish floor or ground, and the horizontal viewing distance is under 6 feet, the character height must be at least 5/8 of an inch.  If the viewing distance, as determined by any fixed obstruction that prevents a closer approach to the sign, is 6 feet or more, the character height is increased 1/8 of an inch for every additional foot of viewing distance over 6 feet.  
+
+If characters are located above 70 inches to a height of 120 inches, they must be at least 2 inches high where the viewing distance is less than 15 feet.  If the viewing distance is greater, then the minimum character height must be increased 1/8 of an inch for every foot of additional viewing distance above 15 feet.  
+
+Characters more than 10 feet above the floor or ground must be at least 3 inches high if the viewing distance is under 21 feet.  Where the viewing distance is greater, the minimum character height is increased 1/8 of an inch for every foot of viewing distance above 21 feet.  
+
+Content on some signs may be subject to different requirements in the standards.  This sign, for example, notes the name and title of an office occupant, “Jill Smith, Director.”  This portion of the sign is not required to meet any specifications since occupant names are exempt.  Below the name and title is the term “Accounting Department” which, in this example, is considered informational and subject to requirements for visual characters.  Beneath this is noted the room number “403” which serves as the label of a permanent room or space and must meet requirements for visual and raised characters, including braille.  The other content of the sign can be tactile as well, but this is not required.  
+
+The requirements for visual characters and for tactile characters can be satisfied on separate signs.  In fact, duplicate signs are necessary to label certain exits.  Life safety and building codes address the visibility and illumination of exit signs.  These requirements typically must be met separately from the tactile signs required by the ADA and ABA Standards at exit doors serving exit stairways, exit passageways, and exit discharge.  Where raised and visual characters are provided on separate signs, the tactile sign does not need to meet requirements for finish and contrast.  Also, raised characters can be one half inch high instead of 5/8 of an inch.   
+
+Further guidance on signs and other requirements in the ADA and ABA Standards is available from the U.S. Access Board.
+
+This animation was developed by the U.S. Access Board in cooperation with the Federal agencies that issue the ADA and ABA Standards.  
+
+
+
