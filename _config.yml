@@ -87,7 +87,7 @@ primary_navigation:
       - name: Vehicles
         url: /ada/vehicles/
       - name: Passenger Vessels
-        url: /pvag.html
+        url: /pvag/
       - name: Medical Diagnostic Equipment (MDE)
         url: /mde/
       - name: Learn more
@@ -163,6 +163,9 @@ collections:
   mde:
     output: true
     permalink: /mde/:path/
+  pvag:
+    output: true
+    permalink: /pvag/:path/
   authors:
     output: true
     permalink: /authors/:name/
@@ -276,6 +279,15 @@ defaults:
       layout: standards
       file-directory: /files/mde/
       image-directory: /images/mde/
+  - scope:
+      path: ""
+      type: "pvag"
+    values:
+      collection-title: "Passenger Vessels Accessibility Guidelines"
+      collection-folder: pvag
+      layout: standards
+      file-directory: /files/pvag/
+      image-directory: /images/pvag/
   - scope:
       path: "_authors"
     values:

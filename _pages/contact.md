@@ -8,9 +8,6 @@ permalink: /contact/
 
 # {{ page.title }}
 
-{% comment %}
-We may want to look into using  [Jekyll data files](https://jekyllrb.com/docs/datafiles/) to build this page.
-{% endcomment %} 
 
 **United States Access Board**
 1331 F Street NW, Suite 1000  

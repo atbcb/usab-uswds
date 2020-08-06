@@ -7,8 +7,9 @@ layout: default
   <div class="grid-container">
     <h1 class="padding-top-0">{{ page.collection-title }}</h1>
     <div class="grid-row grid-gap">
-      {% include table-of-contents-subnav.html %}
-
+      {% if page.left-sidenav %}
+      {% include {{ page.left-sidenav }} %}
+      {% endif %}
       <div id="standard" class="desktop:grid-col usa-prose">
         <h2>{{page.title}}</h2>
         {% if page.file %}
@@ -33,28 +34,3 @@ layout: default
     </div>
   </div>
 </div>
-
-<!--
-<script>
-  {
-    // console.log("toc script")
-    var x = document.getElementById("standard").querySelectorAll("h3");
-    var i;
-    for (i = 0; i < x.length; i++) {
-      var section = x[i].innerText;
-      // console.log(section);
-
-
-      var idtag = section.replace(/ /g,"-");
-      x[i].setAttribute("id",idtag);
-
-      // console.log(idtag);
-
-    var li = "<li><a href=\"#" + idtag + "\">" + section + "</a></li>";
-      // console.log(li);
-    document.getElementById("subsections").innerHTML += li;
-
-    };
-    //alert("TOC successfully loaded!");
-  };
-  </script> -->

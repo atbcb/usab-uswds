@@ -1,6 +1,6 @@
 ---
 title: About the Rulemaking on Passenger Vessels
-permalink: /pvag.html
+permalink: /pvag/
 order-number: 0
 ---
 The Board is developing guidelines under the ADA for access to ferries, cruise ships, excursion boats, and other passenger vessels.  These guidelines will supplement the Board's ADA Accessibility Guidelines for Transportation Vehicles.  We refer to this work as the Passenger Vessels Accessibility Guidelines or PVAG.
