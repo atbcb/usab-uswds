@@ -32,13 +32,6 @@ constructed for fishing. Structures that were not built specifically for
 fishing do not need to meet these requirements, even if people use them
 for fishing (for example, a bridge, flood control dam or breakwater
 jetty).
-:::
-
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_627 .attachmentsList}
-:::
-:::
 
 ![photo of man in wheelchair fishing from floating
 pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/p5fish.jpg){width="200"
