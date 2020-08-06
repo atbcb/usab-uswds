@@ -7,7 +7,9 @@ file-description: PDF version of Chapter 4 Elevators and Platform Lifts Guide
 This guide explains criteria for elevators and platform lifts in
 the [ADA Standards]({{ site.baseurl }}/ada/).
 
-### **[]{#ar2066}Required Compliance \[[§206.6](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)\]**
+### Required Compliance
+
+[[§206.6](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
 
 Elevators are the typical means of providing an accessible route between
 stories and to mezzanines. In facilities not required to have an
@@ -16,65 +18,76 @@ Routes guide), a limited-use/ limited-application (LULA) elevator is
 permitted. LULAs also are allowed as an alternative to platform lifts
 and private residence elevators.
 
-  ----------------------------------- -----------------------------------
-        **Facility or Space **           **Elevator Type Permitted **\
-                                      **(if provided instead of ramp) **
+<table class="usa-table">
+    <thead>
+        <tr>
+            <th scope="col">Facility or Space</th>
+            <th scope="col">Elevator Type Permitted (if provided instead of ramp)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Facilities required to provide an accessible route to stories/ mezzanines</td>
+            <td>Elevator (§407)</td>
+        </tr>
+        <tr>
+            <td>Facilities not required to provide an accessible route to stories/ mezzanines</td>
+            <td>Elevator (§407) or LULA (§408)</td>
+        </tr>
+        <tr>
+            <td>Residential Dwelling Units</td>
+            <td>Elevator (§407), LULA (§408), or Private Residence Elevator (§409)</td>
+        </tr>
+        <tr>
+            <td>Spaces permitted to be served by a platform lift</td>
+            <td>Elevator (§407), LULA (§408), or Platform Lift (§410)</td>
+        </tr>
+    </tbody>
+</table>
 
-   Facilities required to provide an           Elevator (§407)  
-     accessible route to stories/     
-              mezzanines              
+<div  class="clearfix">
+    <div class="border float-right img-medium margin-1">
+        <h3>ASME A17.1 Code [§407.1]</h3>
 
-     Facilities *not* required to       Elevator (§407) or LULA (§408) 
-    provide an accessible route to    
-         stories/ mezzanines          
+        <p class="text-italic">Elevators, including LULA and private residence elevators, must meet
+        the ASME A17.1 Safety Code for Elevators and Escalators. The ADA
+        Standards currently require compliance with the A17.1-2000, including
+        the 2002 and 2003 addenda. This edition must be followed until the
+        Standards are updated to reference a later edition of the ASME A17.1
+        code. In the interim, compliance with a later edition of the ASME A17.1
+        (now ASME A17.1/CSA B44) may be possible under the provision for
+        "equivalent facilitation" (§103) only if it is comparable to, or
+        stricter than, the referenced edition. Questions about the ASME A17.1
+        code should be directed to the American Society of Mechanical Engineers <a href="http://www.asme.org">
+        www.asme.org</a>.</p>
+    </div>
 
-      Residential Dwelling Units       Elevator (§407), LULA (§408), or
-                                       Private Residence Elevator (§409)
+    <p>Only passenger elevators as classified by the referenced elevator safety
+    code (ASME A17.1) can be used to meet the ADA Standards. Each passenger
+    elevator provided, whether required or not, must comply with the ADA
+    Standards. This includes those elevators that move both passengers and
+    freight, sometimes loosely referred to as "service elevators." Examples
+    include elevators in residential or retail facilities that are regularly
+    used by tenants or customers but that are also used to move furniture,
+    merchandise, or other freight.</p>
 
-  Spaces permitted to be served by a   Elevator (§407), LULA (§408), or
-            platform lift                    Platform Lift (§410) 
-  ----------------------------------- -----------------------------------
+    <p>Freight elevators cannot be used to satisfy the requirement for an
+    accessible route between floors. Freight elevators are defined by the
+    ASME A17.1 code as those elevators "used primarily for carrying freight
+    and on which only the operator and the persons necessary for unloading
+    and loading the freight are permitted to ride." Where provided, they are
+    not required to meet the ADA Standards. Construction elevators, like
+    other structures directly associated with the actual processes of
+    construction, are exempt (§203.2).</p>
+</div>
 
- 
+### Elevators
 
-**ASME A17.1 Code \[§407.1\] **\
-*Elevators, including LULA and private residence elevators, must meet
-the ASME A17.1 Safety Code for Elevators and Escalators. The ADA
-Standards currently require compliance with the A17.1-2000, including
-the 2002 and 2003 addenda. This edition must be followed until the
-Standards are updated to reference a later edition of the ASME A17.1
-code. In the interim, compliance with a later edition of the ASME A17.1
-(now ASME A17.1/CSA B44) may be possible under the provision for
-"equivalent facilitation" (§103) only if it is comparable to, or
-stricter than, the referenced edition. Questions about the ASME A17.1
-code should be directed to the American Society of Mechanical Engineers
-([www.asme.org](http://www.asme.org)).*
-:::
+[[§407](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
 
-Only passenger elevators as classified by the referenced elevator safety
-code (ASME A17.1) can be used to meet the ADA Standards. Each passenger
-elevator provided, whether required or not, must comply with the ADA
-Standards. This includes those elevators that move both passengers and
-freight, sometimes loosely referred to as "service elevators." Examples
-include elevators in residential or retail facilities that are regularly
-used by tenants or customers but that are also used to move furniture,
-merchandise, or other freight.
+#### Elevator Landing Requirements
 
-Freight elevators cannot be used to satisfy the requirement for an
-accessible route between floors. Freight elevators are defined by the
-ASME A17.1 code as those elevators "used primarily for carrying freight
-and on which only the operator and the persons necessary for unloading
-and loading the freight are permitted to ride." Where provided, they are
-not required to meet the ADA Standards. Construction elevators, like
-other structures directly associated with the actual processes of
-construction, are exempt (§203.2).
-
-###  
-
-### []{#ar407}Elevators **\[[§407](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)\]**
-
-**Elevator Landing
-Requirements** **\[[§407.2](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)\]**
+[[§407.2](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
 
 ![Elevator landing showing hall signals located 72" min. high measured
 to centerline and call buttons with clear floor space and located within
@@ -101,13 +114,11 @@ requirements in 703.2 for raised characters (upper case, style
 ,character proportion and spacing, stroke thickness, and line spacing);
 Grade II braille complying with 703.3 below raised characters; Tactile
 star with braille ("MA'IN'") required on both jambs at the main entry
-level](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl2.jpg){width="650"
-height="794"} 
+level]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl2.jpg){: .img-large} 
 
- 
+#### Elevator Door Requirements
 
-**Elevator Door
-Requirements** **\[[§407.3](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)\]**
+[[§407.3](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
 
 ![Timing distance shown measured 60" in front of farthest call button
 controlling car to centerline of hoistway door. Caption: Door and Signal
@@ -117,26 +128,24 @@ location point in front of the call button. At elevators with in-car
 lanterns, timing begins once doors open wide enough for the signal to be
 visible from this point. Minimum timing from car arrival notification to
 start of door closing: D / 1.5 ft/s (no less than 5
-sec.)](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl3a.jpg){width="550"} 
+sec.)]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl3a.jpg){: .img-large} 
 
  ![Elevator door must fully open 3 seconds min. to min. clear width of
 36" (42" for center door of 80" min by 51" min car). A tolerance of
 minus 5/8" allowed for 36" min. clear width only. Reopening device
 detection points: 5" high and 29" high. Caption: Door Delay (§407.3.5)-
 Doors must remain fully open 3 seconds min. in response to a call.
-](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl4b.jpg){width="600"
-height="411"}
+]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl4b.jpg){: .img-large}
 
- 
+### Elevator Car Requirements
 
-**Elevator Car
-Requirements** **\[[§407.4](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)\]**
+[[§407.4](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
 
 The ADA Standards specify the minimum car dimensions. Alternative
 configurations that provide unobstructed wheelchair turning space (60"
 diameter circle or T-turn) with the doors closed are permitted.
 
-**Elevator Car Dimensions (§407.4.1)**
+#### Elevator Car Dimensions (§407.4.1)
 
 ![One figure shows an elevator car with a centered door. The door clear
 width is 42" minimum and the car width measured side to side is 80"
@@ -153,52 +162,42 @@ back wall to the front return. Fourth figure shows a car with a clear
 door width of 36" minimum and the car width measured side to side is 60"
 minimum. The car depth is 60" minimum measured from the back wall to the
 front return. Any 36" min wide door permitted a tolerance of minus
-5/8".](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl5.jpg){width="650"
-height="763"} 
+5/8".]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl5.jpg){: .img-large} 
 
- \
-**Elevator Car
-Requirements** **\[[§407.4.2](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators) -- [§407.4.5](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)\]**
+#### Elevator Car Requirements
+
+[[§407.4.2](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators) -- [§407.4.5](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
 
 Other requirements for elevator cars include:
 
--   compliant floor surfaces
--   a maximum 1¼" horizontal clearance between car platform sill and
-    hoistway landing
--   a self-leveling feature
--   5 ft. candles min. illumination at platform, controls, threshold,
-    and landing sill
+- compliant floor surfaces
+- a maximum 1¼" horizontal clearance between car platform sill and hoistway landing
+- a self-leveling feature
+- 5 ft. candles min. illumination at platform, controls, threshold, and landing sill
 
-**Car Leveling and Platform to Hoistway Clearance**
+#### Car Leveling and Platform to Hoistway Clearance
 
 ![1 ¼" max clearance between hoistway landing and car platform. Car
 platform must have compliance surface and be automatic self-leveling
 within ½" tolerance maintained under 0 to rated loading
-conditions.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl6.jpg){width="550"
-height="223"}
+conditions.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl6.jpg){: .img-large}
 
-\
-**Car Controls
-\[[§407.4.6](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators) and [§407.4.7](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)\]**
+#### Car Controls
+
+[[§407.4.6](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators) and [§407.4.7](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
 
 If more than one car control panel is provided in a car, both must
 comply (except in existing cars where only 1 panel must comply).
-
- 
 
 ![Car control panel shown with number in ascending order and columns
 that read left to right. Max. height for buttons is 48" max. (54" max if
 car serves over 16 openings and parallel approach provided). Emergency
 controls buttons grouped at bottom of panel 35" min. measured to
-centerline of bottom buttons.
-](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl7.jpg){width="550"
-height="376"} 
-
- 
+centerline of bottom buttons.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl7.jpg){: .img-large} 
 
 **Car Controls (§407.4.6 and §407.4.7)** 
 
-**![Car control panel detail. Notes: Raised characters to immediate left
+![Car control panel detail. Notes: Raised characters to immediate left
 of button, raised 1/32" min, sans serif (sufficient color contrast from
 the background is recommended); raised characters 5/8" to 2" high;
 Buttons ¾" min. in diameter (smallest dimension) must be raised from or
@@ -220,37 +219,32 @@ operable part; Standard phone keypad arrangement; Raised or flush
 buttons, ¾" min. in smallest dimension; Raised dot "5" key
 (0.025"-0.037" high, 0.118" 0.120" base diameter); Compliant visual
 characters (§703.5) centered on
-button](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl8.jpg){width="650"
-height="763"}**
+button]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl8.jpg){: .img-large}
 
- 
+#### Car Position Indicators
 
-**![Car position indicators shown above door or above control
-panel](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl9.jpg){width="350"
-height="349"}Car Position
-Indicators** **\[[§407.4.8](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)\]**
+[[§407.4.8](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)\]
+
+![Car position indicators shown above door or above control panel]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl9.jpg){: .img-right}
 
 Position indicators are required for all cars, including those of 2-stop
 elevators. Specifications include:
 
--   ½" min. character height
--   Illumination of each floor level passed or stopped at
--   Automatic verbal announcement of stop or non-verbal audible signal
-    of passed floors and stops (if elevator not destination-oriented and
-    has a rated speed of 200 ft./ minute max.)
--   Frequency: 300 -- 3,000 Hz for verbal annunciator, 1500 Hz max. for
-    non-verbal signal
--   Signal level: 10 dB min. above ambient to 80 dB max.
+- ½" min. character height
+- Illumination of each floor level passed or stopped at
+- Automatic verbal announcement of stop or non-verbal audible signal of passed floors and stops (if elevator not destination-oriented and has a rated speed of 200 ft./ minute max.)
+- Frequency: 300 -- 3,000 Hz for verbal annunciator, 1500 Hz max. for non-verbal signal
+- Signal level: 10 dB min. above ambient to 80 dB max.
 
- 
+#### Emergency Communication
 
-**Emergency
-Communication** **\[[§407.4.9](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)\]**
+[[§407.4.9](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
 
-  --- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-                                                              ![Emergency phone](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl10.jpg){width="175" height="271"}
-       *The ASME A17.1 code addresses features of required two-way emergency communication devices, including controls and visual indicators. The ADA Standards apply requirements for operable parts and tactile characters and symbols.*
-  --- -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{% include imgright-italictextbelow.html
+img-file= "chapter4/4epl10.jpg"
+img-alt= "Emergency phone"
+text= "The ASME A17.1 code addresses features of required two-way emergency communication devices, including controls and visual indicators. The ADA Standards apply requirements for operable parts and tactile characters and symbols."
+%}
 
 The ASME A17.1 code requires a two-way means of emergency communication
 in elevator cars. This system establishes direct communication with
@@ -274,9 +268,7 @@ phone symbol and braille. Operating instructions and other information,
 including the label for the visible signal, must meet criteria for
 visual characters but are not required to be tactile.
 
-###  
-
-### []{#ardo}Destination-Oriented Elevators
+#### Destination-Oriented Elevators
 
 With destination-oriented elevators, passengers indicate the floor
 destination when calling an elevator, usually through a keypad. Lobby
@@ -286,7 +278,7 @@ The requirements of §407 apply to destination-oriented elevators, but
 some provisions or exceptions, which are summarized here, are unique to
 this type of elevator.
 
-**Destination-Oriented Elevators: Call Signals**
+##### Destination-Oriented Elevators: Call Signals
 
 ![Destination oriented elevator with details showing hall signals and
 hoistway signs with floor and car designations that are 2" high min.
@@ -306,11 +298,9 @@ Characters and symbols raised 1/32" min., sans serif; Compliance with
 other requirements in 703.2 for raised characters (upper case, style
 ,character proportion and spacing, stroke thickness, and line spacing);
 Grade II braille complying with 703.3 below raised
-characters.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl11.jpg){width="650"
-height="418"} 
+characters.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl11.jpg){: .img-large} 
 
-\
-**Destination-Oriented Elevators: Car Arrival**
+#### Destination-Oriented Elevators: Car Arrival
 
 ![Destination-oriented elevator car with details of hall signal and
 hoistway signs. Notes: Hall Signals (§407.2.2) - Visible and audible
@@ -330,43 +320,31 @@ characters (upper case, style ,character proportion and spacing, stroke
 thickness, and line spacing); Grade II braille complying with 703.3
 below raised characters; floor and car designation 2" high min, raised
 1/32" min, 3/8" min separation from braille and from raised
-borders](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl12.jpg){width="650"
-height="846"} 
+borders]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl12.jpg){: .img-large} 
 
- 
+#### Other provisions unique to destination-oriented elevators:
 
-**Other provisions unique to destination-oriented elevators:**
+![Destination-oriented elevator car positon
+indicator]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl13.jpg){: .img-right}
 
-***![Destination-oriented elevator car positon
-indicator](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl13.jpg){width="150"
-height="167"}Elevator Door Requirements (§407.3)***
+##### Elevator Door Requirements (§407.3)
+- _Specifications for door and signal timing do not apply (§407.3.4, Ex. 2)_
 
--   *Specifications for door and signal timing do not apply (§407.3.4,
-    Ex. 2)*
+##### Car Position Indicators (§407.4.8)
 
-***Car Position Indicators (§407.4.8)***
+- Visual display of each floor a car has been programmed to stop at and automatic verbal announcement of each car stop are required
+- Visual indicators: ½" min. character height, location above control panel/keypad or door, must extinguish when call answered
+- Automatic verbal announcement (300 -- 3,000 Hz, 10dB min. above ambient to 80 dB max.)
 
--   Visual display of each floor a car has been programmed to stop at
-    and automatic verbal announcement of each car stop are required
--   Visual indicators: ½" min. character height, location above control
-    panel/keypad or door, must extinguish when call answered
--   Automatic verbal announcement (300 -- 3,000 Hz, 10dB min. above
-    ambient to 80 dB max.)
-
- 
-
-### []{#aralt}Existing Elevators (Alterations)
+### Existing Elevators (Alterations)
 
 **Alterations to Existing Elevators**
 
- 
-
- ![Row of elevator
-cars](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl14.jpg){width="350"
-height="238"}   *When an alteration is made to an existing car, it also
-must be made to all other cars that respond to the same hall call.* 
-
- 
+{% include imgright-italictextbelow.html
+img-file= "chapter4/4epl14.jpg"
+img-alt= "Row of elevator cars"
+text= "When an alteration is made to an existing car, it also must be made to all other cars that respond to the same hall call."
+%}
 
 The Standards apply to existing elevators that are altered. Compliance
 is determined by the scope of the project. For example, if a car
@@ -389,19 +367,17 @@ must comply with the requirements for new elevators. Certain alterations
 or additions to a facility may trigger the requirement for an accessible
 route between floors, including:
 
--   where stairs or escalators are added in an alteration or addition
+- where stairs or escalators are added in an alteration or addition
     where none existed previously and major structural modifications are
     necessary, an accessible route must connect each level served by the
     new stair or escalator (§206.2.3.1);
--   as needed to provide an accessible path of travel to a primary
+- as needed to provide an accessible path of travel to a primary
     function area that is altered or that is part of an addition, unless
     the cost is more than 20% of the overall cost (§202.4).
 
- 
+#### Provisions or Exceptions Specific to Existing (Altered) Elevators
 
-**Provisions or Exceptions Specific to Existing (Altered) Elevators**
-
-**![Existing (altered) elevator car. Notes: Hall Signals (§407.2.2) -
+![Existing (altered) elevator car. Notes: Hall Signals (§407.2.2) -
 Visible signals are not required to comply and audible signals are
 exempt from frequency and decibel ranges; Signals do not have to
 indicate travel direction; Call Controls (§407.2.1) - Call buttons can
@@ -421,17 +397,15 @@ tactile markings to the left of control buttons, they can be placed as
 near to the control as possible. ISA Designation (§216.7) - In
 facilities with existing non-compliant elevators, the International
 Symbol of Accessibility (ISA) must clearly identify those elevators that
-do meet
-§407.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl15.jpg){width="650"
-height="711"}**
+do meet §407.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl15.jpg){: .img-large}
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![design compass](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/compass.jpg){width="25" height="45"}*Recommendation: * For greater usability, make those altered elements covered by an exception fully comply wherever practicable.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{% include recommendation.html
+text= "For greater usability, make those altered elements covered by an exception fully comply wherever practicable."
+%}
 
-** **
+### Limited-Use/ Limited-Application Elevators
 
-### **[]{#ar408}Limited-Use/ Limited-Application Elevators **\[[§408](../ada-standards/chapter-4-accessible-routes.html#408%20Limited%20Use%20/%20Limited%20Application%20Elevators)\]****
+[[§408](../ada-standards/chapter-4-accessible-routes.html#408%20Limited%20Use%20/%20Limited%20Application%20Elevators)]
 
 LULA elevators are passenger elevators that are permitted in facilities
 where an accessible route between stories or mezzanines is not required
@@ -444,16 +418,16 @@ car sizes, slower speeds, shorter travel distances, and alternative
 types of doors. Besides car size, provisions for LULAs differ from those
 of §407 in that:
 
--   Hoistway doors can be swinging type (they must open and close
+- Hoistway doors can be swinging type (they must open and close
     automatically, be power-operated, meet requirements for doors and
     referenced ANSI/BHMA Standards for low-energy doors, and remain open
     for at least 20 seconds)
--   Requirements are not included for door timing and delay or for car
+- Requirements are not included for door timing and delay or for car
     position indicators
 
-**LULA Car Dimensions (§408.4)**
+#### LULA Car Dimensions (§408.4)
 
-**![Figure one shows the configuration for new construction. The door
+![Figure one shows the configuration for new construction. The door
 clear width is 32" minimum and the car width measured side to side is
 42" minimum. The car depth is 54" minimum. Doors must be located on
 narrow end. Second figure shows alternative dimensions of clear interior
@@ -461,10 +435,11 @@ space 51 by 51" minimum that are permitted if door clear width is36"
 minimum. Third figure shows dimensions for existing LULA cars that are
 altered: 36" minimum width, depth 54" minimum, and the net clear car
 area is 15 square feet
-minimum.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl16.jpg){width="600"
-height="454"}**
+minimum.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl16.jpg){: .img-large}
 
-### []{#ar409}Private Residence Elevators **\[[§409](../ada-standards/chapter-4-accessible-routes.html#409%20Private%20Residence%20Elevators)\]**
+### Private Residence Elevators
+
+[[§409](../ada-standards/chapter-4-accessible-routes.html#409%20Private%20Residence%20Elevators)]
 
 Private residence elevators are permitted only within a residential
 dwelling unit or in a multiple dwelling unit facility as a means of
@@ -472,7 +447,6 @@ access to a single private residence. Elevators in residential
 facilities not located within or serving individual dwelling units must
 meet requirements in §407.
 
-\
 ![Private residence elevator. Notes: General (§409.1) - Automatic
 operation; Compliance with the referenced ASME A17.1 standard. Call
 Buttons (§409.2) - Compliant as operable parts, including reach range
@@ -482,8 +456,7 @@ the ANSI/BHMA standard for low-energy doors and other applicable
 provisions for doors in §404 (compliance with maneuvering clearance on
 push side of doors not required); Manual-open, self-close doors/gates
 permitted for cars with more than 1 opening; Required location on narrow
-end of car; Must remain open for 20 seconds min. Elevator Cars (§409.4)
-- Inside dimensions: 36" min. by 48" min.; Compliant floor surfaces; 1½"
+end of car; Must remain open for 20 seconds min. Elevator Cars (§409.4): Inside dimensions: 36" min. by 48" min.; Compliant floor surfaces; 1½"
 max. clearance between platform and edge of landing sill (later editions
 of the ASME A17.1 specify 1¼" max); Automatic leveling with floor
 landing within ½" tolerance under rated to 0 loading conditions; 5 ft
@@ -494,15 +467,13 @@ on side wall 12" min. from any adjacent wall; Telephone and emergency
 signal two-way communication device required in car with compliant
 operable parts, including hardware of closed compartment if provided;
 telephone cord must be 29" long min.
-](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl17.jpg){width="600"
-height="702"} 
+]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl17.jpg){: .img-large} 
 
- 
+### Platform Lifts 
 
-### []{#ar410}Platform Lifts 
+#### Where Platform Lifts are Permitted
 
-**Where Platform Lifts are
-Permitted \[[§206.7](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)\]**
+[[§206.7](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
 
 Platform lifts can be part of an accessible route in existing facilities
 that are altered. In new construction, platform lifts can be used to
@@ -530,18 +501,18 @@ between and connected to two existing buildings if there is not
 sufficient space to coordinate floor levels and also to provide ramped
 entry from the public way.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![design compass](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/compass.jpg){width="25" height="45"}*Recommendation: * In alterations, it is advisable that platforms lifts be used only in instances where a ramp or elevator is technically infeasible or in the locations permitted in new construction.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{% include recommendation.html
+text= "In alterations, it is advisable that platforms lifts be used only in instances where a ramp or elevator is technically infeasible or in the locations permitted in new construction."
+%}
 
- 
+### ASME A18.1 Safety Standard
 
-**ASME A18.1 Safety Standard
-\[[§410.1](../ada-standards/chapter-4-accessible-routes.html#410%20Platform%20Lifts)\]**
+[[§410.1](../ada-standards/chapter-4-accessible-routes.html#410%20Platform%20Lifts)]
 
 ![ASME A18.1 Safety Standard for Platform Lifts and Stairway
-Chairlifts](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl18.jpg){width="150"
-height="199"}Platform lifts must meet the ASME A18.1 Safety Standard for
+Chairlifts]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl18.jpg){: .float-right .thumbnail}
+
+Platform lifts must meet the ASME A18.1 Safety Standard for
 Platform Lifts and Stairway Chairlifts. The ASME A18.1 covers the
 design, construction, installation, operation, inspection, testing,
 maintenance and repair of lifts that are intended for transportation of
@@ -572,47 +543,22 @@ pools and spas because they require transfer from wheeled mobility aids.
 (Specifications for pool lifts include a fixed seat and footrests, but
 not a platform (§1009.2)).
 
-+:---------------:+:---------------:+:---------------:+:---------------:+
-| ** Vertical     |                 |                 |  **Inclined     |
-| Platform Lift** |                 |                 | Platform Lift** |
-|                 |                 |                 |                 |
-| ***![Vertical   |                 |                 | *![Inclined     |
-| platform        |                 |                 | platform        |
-| l               |                 |                 | l               |
-| ift](%7B%7B%20s |                 |                 | ift](%7B%7B%20s |
-| ite.baseurl%20% |                 |                 | ite.baseurl%20% |
-| 7D%7D/images/ad |                 |                 | 7D%7D/images/ad |
-| a-aba/guides/ch |                 |                 | a-aba/guides/ch |
-| apter4/4epl19.j |                 |                 | apter4/4epl20.j |
-| pg){width="300" |                 |                 | pg){width="300" |
-| h               |                 |                 | height          |
-| eight="391"}*** |                 |                 | ="391"}Inclined |
-|                 |                 |                 | platform lifts  |
-| *  The ASME     |                 |                 | can have a      |
-| A18.1 Standard  |                 |                 | folding         |
-| specifies       |                 |                 | platform and    |
-| platform and    |                 |                 | are typically   |
-| runway          |                 |                 | located at      |
-| enclosures for  |                 |                 | stairways.      |
-| vertical        |                 |                 |  They must be   |
-| platform lifts, |                 |                 | installed so    |
-| among other     |                 |                 | they do not     |
-| features, and   |                 |                 | encroach on     |
-| limits the      |                 |                 | required means  |
-| travel          |                 |                 | of egress.      |
-| distance.  The  |                 |                 | Passenger       |
-| size of         |                 |                 | retaining arms  |
-| platforms       |                 |                 | are permitted   |
-| cannot exceed   |                 |                 | as an           |
-| 18 sq. ft.*     |                 |                 | alternative to  |
-|                 |                 |                 | a platform      |
-|                 |                 |                 | enclosure under |
-|                 |                 |                 | the ASME A18.1  |
-|                 |                 |                 | Standard.*      |
-+-----------------+-----------------+-----------------+-----------------+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+        <span class="text-center text-bold">Vertical Platform Lift</span>
+        <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4epl19.jpg" alt="Vertical platform lift">
+        <span class="grid-line text-italic">The ASME A18.1 Standard specifies platform and runway enclosures for vertical platform lifts, among other features, and limits the travel distance.  The size of platforms cannot exceed 18 sq. ft.</span>
+    </div>
+    <div class="tablet:grid-col">
+        <span class="text-center text-bold">Inclined Platform Lift</span>
+        <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4epl20.jpg" alt="Inclined platform lift">
+        <span class="grid-line text-italic">Inclined platform lifts can have a folding platform and are typically located at stairways.  They must be installed so they do not encroach on required means of egress. Passenger retaining arms are permitted as an alternative to a platform enclosure under the ASME A18.1 Standard.</span>
+    </div>
+  </div>
+</div>
 
-\
-**Requirements for Platform Lifts**
+#### Requirements for Platform Lifts
 
 ![Platform lift requirements. Notes: Platforms (§410.2 - §410.4) -
 Platforms must meet requirements for clear floor space and floor
@@ -627,10 +573,9 @@ allowed at lifts with no more than 2 stops and doors/ gates on opposite
 ends.) Standby Power (§207.2) - Platform lifts permitted to be part of
 an accessible means of egress by the referenced editions of the
 International Building Code must be equipped with standby power.
-](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl21aa.JPG){width="600"
-height="379"}
+]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl21aa.JPG){: .img-large}
 
-**Platform Lift Clear Floor Space and Doors/ Gates  **
+#### Platform Lift Clear Floor Space and Doors/ Gates
 
 ![One figure shows platform lift with doors with clear width 32" min. on
 opposite narrow ends of platform that is 36" min wide and 48" min long.
@@ -640,16 +585,15 @@ min. Note: The clear floor space of platforms must be 36" wide min. If
 doors/gates are on the narrow end only, the length is 48" min. If a
 door/gate is on the longer side, the min. length is 60" to accommodate
 side approach
-maneuvering.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter4/4epl22a.JPG){width="600"
-height="457"} 
+maneuvering.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl22a.JPG){: .img-large}       
 
-         
+### Common Questions
 
-### ![question mark](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/ques.jpg){width="100" height="100"}[]{#cq}Common Questions
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail}
 
-**Elevators**
+#### Elevators
 
-*Are freight or service elevators required to comply?*
+##### Are freight or service elevators required to comply?
 
 When an elevator is used to provide a required accessible route between
 stories, it must meet requirements for passenger elevators. Elevators
@@ -668,8 +612,7 @@ lieu of a passenger elevator to provide an accessible route between
 stories or mezzanines. Where provided, freight elevators are not
 required to comply with the Standards.
 
-*Can elevator doors close sooner than the minimum opening time specified
-when users activate door close?*
+##### Can elevator doors close sooner than the minimum opening time specified when users activate door close?
 
 User activation of door close (or automatic operation) cannot reduce the
 initial opening time of doors (3 seconds minimum) or the minimum door
@@ -680,7 +623,7 @@ longer obstructed. The 20 second minimum pertains to the length of time
 the sensory reopening device remains effective, not necessarily the
 length of time doors remain open.
 
-*Must elevator doors remain open for 20 seconds?*
+##### Must elevator doors remain open for 20 seconds?
 
 LULA swing doors, private residence elevator doors, and platform lift
 gates and doors must remain open for 20 seconds minimum. This does not
@@ -693,7 +636,7 @@ arrival (§407.3.4). Reopening devices must remain effective for 20
 seconds minimum, but in reopening, doors do not have to remain open for
 this length of time if unobstructed.
 
-*Are access key, card, or code entry systems permitted in elevators?*
+##### Are access key, card, or code entry systems permitted in elevators?
 
 Yes, but fixed features of such systems must comply as operable parts.
 For example, card readers must be located within accessible reach
@@ -702,32 +645,26 @@ users, are not required to comply. (Where use of stairs between levels
 served by an elevator is unrestricted, use of the elevator should not be
 restricted to key holders.)
 
-*Can audible signals for an elevator operate only when needed by a
-passenger who needs them through activation of dedicated "accessibility"
-control?*
+##### Can audible signals for an elevator operate only when needed by a passenger who needs them through activation of dedicated "accessibility" control?
 
 No, audible (and visible) signals required for elevators must function
 automatically at all times an elevator is operational. Requiring
 passengers to manually activate such signals when needed is not
 permitted by the ADA Standards.
 
-*Can hall and in-car signals be displayed horizontally (i.e.,
-side-by-side) instead of vertically (i.e., one above the other)?*
+##### Can hall and in-car signals be displayed horizontally (i.e., side-by-side) instead of vertically (i.e., one above the other)?
 
 Yes, hall signs can be displayed horizontally instead of vertically.
 However, with call buttons, the button designating the up direction must
 be located above the one indicating the down direction (§407.2.1.4).
 
-*Are handrails required in elevator cars?*
+##### Are handrails required in elevator cars?
 
 The ADA Standards do not require handrails in elevators cars. If they
 are provided, they are not required to comply with requirements in the
 ADA Standards for handrails (§403.6, Advisory).
 
-*Can a more recent edition of the ASME A17.1 Safety Code for Elevators
-and Escalators (or the ASME A18.1 Safety Standard for Platform Lifts and
-Stairway Chairlifts) be used instead of the editions referenced in the
-Standards?*
+##### Can a more recent edition of the ASME A17.1 Safety Code for Elevators and Escalators (or the ASME A18.1 Safety Standard for Platform Lifts and Stairway Chairlifts) be used instead of the editions referenced in the Standards?
 
 The specific editions of the ASME A17.1 and ASME A18.1 codes referenced
 by the ADA Standards are to be followed (although the Access Board
@@ -736,10 +673,9 @@ later edition may be possible under the provision for "equivalent
 facilitation" (§103) if it is comparable to, or stricter than, the
 referenced editions.
 
-\
-**Platform Lifts**
+#### Platform Lifts
 
-*Are stairway chairlifts permitted?*
+##### Are stairway chairlifts permitted?
 
 No, stairway chairlifts cannot be used where platform lifts are
 permitted by the ADA Standards (§206.7) although they are addressed by
@@ -749,7 +685,7 @@ Platform lifts can be equipped with seats, including those that fold,
 but they must be located outside the minimum clear area specified for
 platforms which are sized to accommodate wheeled mobility aids.
 
-*Can platform lifts be locked?*
+##### Can platform lifts be locked?
 
 The Standards require "unassisted" entry and exit from lifts (§410.1).
 Situations in which platform lifts are locked and require users to
@@ -757,14 +693,13 @@ request or retrieve a key for operation will not satisfy this
 requirement for independent operation. Platform lifts can be locked
 during those times when the space or facility they serve is closed.
 
-*Can lifts be attendant-operated?*
+##### Can lifts be attendant-operated?
 
 Attendant operation, although recognized by the ASME A18.1 Standard, is
 expressly prohibited by the ADA Standards. Platform lifts must provide
 "unassisted entry and exit from the lift" (§410.1).
 
-*Can platform lifts be portable or provided after construction as an
-adaptation?*
+##### Can platform lifts be portable or provided after construction as an adaptation?
 
 Platform lifts must be permanent and installed at the time of
 construction or alteration with few exceptions. Platform lifts can be
@@ -772,73 +707,3 @@ provided after construction only to provide access to raised work
 stations in courtrooms (sufficient space and electrical service must be
 provided in design to facilitate installation). Only platform lifts
 serving temporary structures can be temporary or portable.
-
-[Back to top](chapter-4-elevators-and-platform-lifts.html#top) 
-
-[]{.clear}
-
-::: {#footer}
-::: {.left}
-Contact Information
--------------------
-
-::: {.left}
-::: {.custom}
-[U.S. Access Board]{property="schema:name"}\
-[1331 F Street NW, Suite 1000]{property="schema:streetAddress"}\
-[Washington]{property="schema:addressLocality"}, DC
-[20004-1111]{property="schema:postalCode"}
-
--   Voice: (202) 272-0080 or (800) 872-2253
--   TTY: (202) 272-0082 or (800) 993-2822
--   Fax: (202) 272-0081
-:::
-:::
-
-::: {.right}
--   [Contact Us](../../../../contact-us.html)
--   [Accessibility
-    Statement](../../../../the-board/policies/accessibility-statement.html)
--   [Sitemap](../../../../sitemap.html)
--   [Budget and
-    Performance](../../../../the-board/budget-and-performance.html)
--   [En Español](../../../../en-español/sobre-el-consejo-de-acceso.html)
--   [No Fear Act
-    Data](../../../../the-board/budget-and-performance/no-fear-act-data.html)
--   [Privacy](../../../../the-board/policies/privacy-policy.html)
--   [Freedom of
-    Information](../../../../the-board/policies/freedom-of-information-act-foia.html)
--   [Office of Special Counsel](https://osc.gov/)
--   [Guidance Documents](../../../../guidance.html)
-:::
-:::
-
-::: {.right}
-Partner Sites
--------------
-
-::: {.footer-link-list}
--   [disability.gov](http://www.disability.gov)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-
--   [usa.gov](http://www.usa.gov)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-
--   [regulations.gov](http://www.regulations.gov/#!searchResults;rpp=25;so=DESC;sb=docId;po=0;a=ATBCB;dct=PR+FR+N;dkt=R)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-
--   [federalregister.gov](http://www.federalregister.gov/agencies/architectural-and-transportation-barriers-compliance-board)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-:::
-:::
-
-[]{.clear}
-:::
