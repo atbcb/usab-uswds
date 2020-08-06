@@ -299,5 +299,3 @@ bathing facilities, dressing and fitting rooms, and transient lodging
 guest rooms. Unless addressed by a specific requirement for turning
 space in the standards, other spaces are not required to provide them,
 including lobbies, offices, and meeting rooms.
-
-[Back to top](#top)

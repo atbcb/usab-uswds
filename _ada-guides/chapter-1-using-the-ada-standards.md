@@ -610,5 +610,3 @@ is available from the:
     </div>
   </div>
 </div>
-
-[Back to top](#top)

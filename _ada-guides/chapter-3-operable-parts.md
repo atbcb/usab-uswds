@@ -314,5 +314,3 @@ Key locks or key cards are not prohibited by the standards which apply
 only to the fixed portions of operable parts. Similarly, items dispensed
 by ATMs and fare machines, such as receipts, cash, fare cards, and
 vending machine products are not covered by the standards.
-
-[Back to top](#top)

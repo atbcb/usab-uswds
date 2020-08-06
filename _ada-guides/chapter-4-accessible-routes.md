@@ -573,5 +573,3 @@ alteration. Compliance in an alteration, including with the requirement
 for an accessible route between stories, is not required where it is
 "technically infeasible." In this case, compliance is required to the
 maximum extent feasible.
-
-[Back to top](#top)

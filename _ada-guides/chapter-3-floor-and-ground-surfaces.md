@@ -191,5 +191,3 @@ When there is no dominant direction of cross traffic, openings must be
 limited to ½" in both dimensions. Where space allows accessible routes
 to completely bypass the area with openings, elongated openings can be
 oriented in either direction.
-
-[Back to top](#top)

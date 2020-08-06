@@ -208,5 +208,3 @@ Determining "technical infeasibility" requires a site-specific assessment of con
 #### Do the ADA Standards apply to existing facilities that are not subject to the alterations requirements?
 
 DOJ's ADA regulations address access to existing facilities that are not being altered. The regulations require removal of barriers by public accommodations (title III) and program access by state and local governments (title II). The 2010 Standards apply when architectural changes are made to facilities in order to comply with the program access requirements of title II of the ADA. In addition, the 2010 Standards are the benchmark for compliance with the title III barrier removal requirements. For more information about barrier removal and program access, visit DOJ's website at www.ada.gov or contact the DOJ ADA Information Line at (800) 514-0301 (voice) or (800) 514-0383 (TTY).
-
-[Back to top](#top)

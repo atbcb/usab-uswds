@@ -615,5 +615,3 @@ including any entry door or gate, to the work area, and wheelchair space
 must also meet referenced requirements in the International Building
 Code for accessible means of egress and also have wiring to support
 later installation of visual alarm appliances.
-
-[Back to top](#top)

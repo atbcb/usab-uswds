@@ -396,7 +396,7 @@ horizontal.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg25.jpg){: 
 
 ### Communication Access at Doors
 
-[[§806.3.2](../ada-standards/chapter-8-special-rooms,-spaces,-and-elements.html#806%20Transient%20Lodging%20Guest%20Rooms), [!!!§806.3.2!!!](../ada-standards/chapter-8-special-rooms,-spaces,-and-elements.html#809%20Residential%20Dwelling%20Units)]
+[[§806.3.2](../ada-standards/chapter-8-special-rooms,-spaces,-and-elements.html#806%20Transient%20Lodging%20Guest%20Rooms), [§809.5](../ada-standards/chapter-8-special-rooms,-spaces,-and-elements.html#809%20Residential%20Dwelling%20Units)]
 
 <div class="clearfix" markdown="1">
 In addition to requirements for two-way communication systems provided

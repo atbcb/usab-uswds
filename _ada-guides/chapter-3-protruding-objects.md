@@ -179,5 +179,3 @@ specified. Curbs may be mistaken for a step or change in level, instead
 of a barrier. For this reason, barriers significantly higher than a curb
 or riser, such as a guardrail, planter box, bench, parapet wall, or
 similar elements are recommended.
-
-[Back to top](#top)
