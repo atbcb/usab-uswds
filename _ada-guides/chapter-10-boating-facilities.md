@@ -5,7 +5,7 @@ file: boating.pdf
 file-description: PDF version
 ---
 ![photo of accessible boat
-slip]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/p2boat.jpg){: .img-right}
+slip]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/p2boat.jpg){: .img-right}
 
 >*"Whenever any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
@@ -46,7 +46,7 @@ issues will be addressed in [future rulemaking for passenger vessels]({{ site.ba
 
 ###  Accessible Routes
 ![photo of
-gangway]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/p5boat.jpg){: .img-right}ADAAG requires that at least one accessible route connect
+gangway]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/p5boat.jpg){: .img-right}ADAAG requires that at least one accessible route connect
 accessible buildings, facilities, elements, and spaces on a site.
 Accessible boat slips, accessible boarding piers at boat launch
 ramps,and other accessible spaces and elements within a boating facility
@@ -69,7 +69,7 @@ piers to land or other fixed structures.
 
 
 ![illustration of accessible gangway serving accessible boat slips in a
-largei facility]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-6.jpg){: .img-full}
+largei facility]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-6.jpg){: .img-full}
 
 
 ##### Gangway Slope and Rise Exceptions
@@ -100,11 +100,11 @@ float with fixed switchback ramps.
 
 
 ![illustration of non-gangway sloped walking surface meeting ADAAG
-requirements]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-7.jpg){: .img-full}
+requirements]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-7.jpg){: .img-full}
 
 
 ![photo of gangway connecting floating
-pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-8_hi.jpg){: .img-medium  .center}
+pier]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-8_hi.jpg){: .img-medium  .center}
 
 
 ##### Gangway Alterations
@@ -119,7 +119,7 @@ additional 20 percent of the overall costs of alterations to the primary
 function areas to make the path of travel accessible.
 
 
-![illustration of transition plates]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-8_low.jpg){: .img-medium .center}
+![illustration of transition plates]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-8_low.jpg){: .img-medium .center}
 
 
 #### Transition Plates
@@ -196,7 +196,7 @@ determining the total number of slips at the facility.
 
 
 ![illustration of required clear space for 60 foot
-pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-10.jpg){: .img-right}
+pier]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-10.jpg){: .img-right}
 
 If boat slips at a facility are not identified or demarcated by length,
 each 40 feet of boat slip edge along the perimeter of a pier will be
@@ -225,7 +225,7 @@ with features such as telephone, water, electricity, or cable
 connections.
 
 ![illustration of pier
-clearance]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-11.jpg){: .img-left}
+clearance]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-11.jpg){: .img-left}
 Accessible boat slips do not need to be marked and are not
 reserved in the same way as accessible vehicle parking spaces. For
 example, facilities should hold the accessible slips open for persons
@@ -240,7 +240,7 @@ the Department of Justice for further information.
 
 #### Accessible Boat Slips
 ![photo of woman in wheelchair on accessible finger
-pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/chairdock1.jpg){: .img-right}Accessible boat slips must have clear pier space at least 60 inches wide
+pier]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/chairdock1.jpg){: .img-right}Accessible boat slips must have clear pier space at least 60 inches wide
 and as long as the slip. Providing more than 60 inches wide clear space
 will improve safety for people with disabilities, especially on floating
 piers. This space is the minimum necessary for individuals with
@@ -269,7 +269,7 @@ exceptions:
     accessible slip must be parallel to the pier and be a minimum of 60
     inches wide.
 
-![illustration of accessible finger piers]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-13hi.jpg){: .img-medium .center}
+![illustration of accessible finger piers]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-13hi.jpg){: .img-medium .center}
 
 Cleats and other boat securement devices at accessible slips do not have
 to comply with ADAAG reach range requirements. However, clear space must
@@ -279,13 +279,13 @@ controls and operating mechanisms such as hose bibbs, water supply
 hoses, outlets for electrical power, telephones, or cable TV.
 
 ![illustration of pier clearance space
-reduction]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-12_hi.jpg){: .img-medium .center}
+reduction]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-12_hi.jpg){: .img-medium .center}
 
 ![illustration of edge protection at
-pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-12_low.jpg){: .img-medium .center}
+pier]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-12_low.jpg){: .img-medium .center}
 
 ![illustration of forward and side reach
-ranges]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-13_low.jpg){: .img-medium .center}
+ranges]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-13_low.jpg){: .img-medium .center}
 
 
 ---
@@ -348,7 +348,7 @@ entire 20 feet must comply with the pier clearance requirements. If a
 comply with the pier clearance requirements.
 
 #### Launch Ramps Without Boarding Piers
-![photo of launch ramp without boarding pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/boating-guide/page-16.jpg){: .img-right}There
+![photo of launch ramp without boarding pier]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-16.jpg){: .img-right}There
 are no specific provisions that address access to launch ramps without
 boarding piers. The Department of Justice advises that if there are no
 applicable scoping requirements (i.e., how many features must be
