@@ -21,9 +21,8 @@ Advisory R101.1 General. Sections marked as "advisory" contain advisory informat
 existing facilities unless the facilities are included within the scope
 of an alteration undertaken at the discretion of a covered entity.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
   **Advisory R101.2** **Effect on Existing Facilities.** The Department of Justice regulations implementing Title II of the Americans with Disabilities Act contain requirements for state and local governments regarding program accessibility and existing facilities. See 28 CFR 35.150. The Department of Transportation regulations implementing Section 504 of the Rehabilitation Act also contain requirements for recipients of federal financial assistance from the Department regarding compliance planning. See 49 CFR 27.11 (c).
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 **\
 R102 Equivalent Facilitation.** The use of alternative designs,
