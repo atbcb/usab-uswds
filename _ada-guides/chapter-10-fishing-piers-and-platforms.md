@@ -7,7 +7,7 @@ file-description: PDF version
 
 <div class="clearfix" markdown="1">
 ![photo of man in wheelchair
-fishing]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/p3fish.jpg){: .float-right .thumbnail}
+fishing]({{ site.baseurl }}{{ page.image-directory }}chapter10/fishing-guide/p3fish.jpg){: .float-right .thumbnail}
 
 >*"Whenever any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
@@ -41,7 +41,7 @@ jetty).
 
 ### Accessible Routes
 ![photo of man in wheelchair fishing from floating
-pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/p5fish.jpg){: .img-right}
+pier]({{ site.baseurl }}{{ page.image-directory }}chapter10/fishing-guide/p5fish.jpg){: .img-right}
 
 ADAAG requires that at least one accessible route connect
 accessible buildings, facilities, elements and spaces on the site.
@@ -78,7 +78,7 @@ independent access to persons with disabilities.
 
 ![illustration of accessible gangway serving accessible floating pier in
 a large
-facility]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/page-6.jpg){: .img-large}
+facility]({{ site.baseurl }}{{ page.image-directory }}chapter10/fishing-guide/page-6.jpg){: .img-large}
 
 The maximum rise requirements in ADAAG do not apply to gangways. As a
 result, no intermediate landings on the gangways are required and
@@ -147,14 +147,14 @@ platform, they must meet ADAAG provisions.
 #### Height
 ![illustration of accessible gangway serving accessible
 floating pier in a large
-facility]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/page-9_hi.jpg){: .img-large}
+facility]({{ site.baseurl }}{{ page.image-directory }}chapter10/fishing-guide/page-9_hi.jpg){: .img-large}
 Where railings, guards, or handrails are provided on a fishing pier or
 platform, at least 25 percent of the rails must be 34 inches or less in
 height above the ground or deck so a person using a wheelchair or other
 mobility device has the opportunity to fish. However,guardrails may be
 higher than 34 inches if the higher portion meets all the requirements
 of the International Building Code. (See [2000 International Building
-Code](http://www.access-board.gov/recreation/guides/fishing.htm#2000%20International%20Building%20Code),
+Code](#2000-International-Building-Code),
 below.) This will allow a design professional to increase the guardrail
 height if a specific location needs enhanced safety measures or a local
 building code applies.
@@ -168,7 +168,7 @@ variety of locations to fish from. Different fishing locations may
 provide different water depths, shade or sun, vegetation, and proximity
 to the shoreline or bank.![illustration of dispersion of accessible
 fishing
-locations]({{ site.baseurl }}{{ page.image-directory }}/chapter10/page-9_low.jpg)
+locations]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-9_low.jpg){: .img-medium .center}
 
 #### Edge Protection
 Where railings, guards, or handrails are provided, edge protection must
@@ -177,10 +177,10 @@ surface. This protection will prevent persons using wheelchairs or other
 mobility devices from slipping off the pier or platform.
 
 ![illustation of 2-inch edge protection at
-pier]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/page-9_hi.jpg)
+pier]({{ site.baseurl }}{{ page.image-directory }}chapter10/fishing-guide/page-9_hi.jpg){: .img-large}
 
 ![illustration of 12-inch deck extension without edge
-protection]({{ site.baseurl }}{{ page.image-directory }}/chapter10/fishing-guide/page-11.jpg)
+protection]({{ site.baseurl }}{{ page.image-directory }}chapter10/fishing-guide/page-11.jpg){: .img-large}
 
 Edge protection is not required where a railing, guardrail, or handrail
 is provided, if the deck surface extends a minimum of 12 inches beyond
@@ -190,114 +190,42 @@ beyond the face of the railing to view the water in different
 directions. Toe clearance must be at least 30 inches wide and a minimum
 of 9 inches above the ground or deck surface beyond the railing.
 
-**Clear Floor or Ground Space**\
+#### Clear Floor or Ground Space
 At least one clear floor or ground space (30 inches by 48 inches
 minimum) must be provided at each location that has a railing height of
 34 inches maximum. If there are no railings, at least one clear space
 must be provided on a pier or platform. (See illustration above, Railing
 Heights and Clear Space.)
 
-**Turning Space**\
+#### Turning Space
 Piers and platforms must have at least one turning area, either a
 60-inch turning space or T-shaped space, to allow a person using a
 mobility device or wheelchair to make a 180-degree turn. The space may
 overlap the accessible route and clear floor or ground space.
 
-**2000 International Building Code**\
-*1003.2.12.1 Height.* Guards shall form a protective barrier not less
-than 42 inches (1067 mm) high, measured vertically above the leading
-edge of the tread, adjacent walking surface or adjacent seatboard.
+#### 2000 International Building Code
+>*1003.2.12.1 Height.* Guards shall form a protective barrier not less than 42 inches (1067 mm) high, measured vertically above the leadingi edge of the tread, adjacent walking surface or adjacent seatboard.
 
-> *Exception:*For occupancies in Group R-3, and within individual
-> dwelling units in occupancies in Group R-2, both as applicable in
-> Section 101.2, guards whose top rail also serves as a handrail shall
-> have a height not less than 34 inches (864mm) and not more than 38
-> inches (965mm) measured vertically from the leading edge of the stair
-> tread nosing.
+>> *Exception:*For occupancies in Group R-3, and within individual dwelling units in occupancies in Group R-2, both as applicable in Section 101.2, guards whose top rail also serves as a handrail shall have a height not less than 34 inches (864mm) and not more than 38 inches (965mm) measured vertically from the leading edge of the stair tread nosing.
 
-*1003.2.12.2 Opening limitations.* Open guards shall have balusters or
-ornamental patterns such that a 4-inch-diameter (102mm) sphere cannot
-pass through any opening up to a height of 34 inches (864mm). From a
-height of 34 inches (864mm) to 42 inches (1067mm) above the adjacent
-walking surfaces, a sphere 8 inches (203mm) in diameter shall not pass.
+>*1003.2.12.2 Opening limitations.* Open guards shall have balusters or ornamental patterns such that a 4-inch-diameter (102mm) sphere cannot pass through any opening up to a height of 34 inches (864mm). From a height of 34 inches (864mm) to 42 inches (1067mm) above the adjacent walking surfaces, a sphere 8 inches (203mm) in diameter shall not pass.
 
-> *Exception:* The triangular opening formed by the riser, tread and
-> bottom rail at the open side of a stairway shall be of a maximum size
-> such that a sphere of 6 inches (152mm) in diameter cannot pass through
-> the opening.
->
-> \[Exceptions 2 through 4 not reprinted.\]
+>> *Exception:* The triangular opening formed by the riser, tread and bottom rail at the open side of a stairway shall be of a maximum size such that a sphere of 6 inches (152mm) in diameter cannot pass through the opening.
+>>
+>> \[Exceptions 2 through 4 not reprinted.\]
 
 *Source: Sections 1003.2.12.1 and 1003.2.12.2, International Building
 Code. Reprinted with permission of the International Code Council, Falls
 Church, Virginia.*
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1816 .attachmentsList}
-:::
-:::
 
+---
+
+
+### Provision Index
 This table highlights the sections of the ADA and ABA Accessibility
 Standards discussed in the fishing piers and platforms guide.
 
- 
-
-  -------------------------------------------------------------- --------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------
-                                                                   [ADA Standards](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards)\*   [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) 
-  **Definitions**                                                                                                  106.5                                                                                                   F106.5 
-  Alteration                                                                                                       106.5                                                                                                   F106.5
-  Cross Slope                                                                                                      106.5                                                                                                   F106.5
-  Curb Ramp                                                                                                        106.5                                                                                                   F106.5
-  Facility                                                                                                         106.5                                                                                                   F106.5
-  Gangway                                                                                                          106.5                                                                                                   F106.5
-  Ramp                                                                                                             106.5                                                                                                   F106.5
-  Running Slope                                                                                                    106.5                                                                                                   F106.5
-  Transition Plate                                                                             [106.5]{style="text-align: -webkit-center;"}                                                             [F106.5]{style="text-align: -webkit-center;"}
-                                                                                                                                                                                                                               
-  **Fishing Piers and Platforms (where provided)**                                                                  237                                                                                                     F237
-                                                                                                                                                                                                                               
-  **Accessible Routes (where required)**                                                                            206                                                                                                     F206
-  Fishing (specific provision)                                                                                   206.2.14                                                                                                 F206.2.13
-  Elevators (types allowed)                                                                                        206.6                                                                                                   F206.6
-  Platform Lift (new construction use)                                                                           206.7.10                                                                                                 F206.7.10
-                                                                                                                                                                                                                               
-  **Accessible Routes Components (typically used)**                                                                                                                                                                            
-  Curb Ramps                                                                                        [406]{style="text-align: center;"}                                                                       [406]{style="text-align: center;"}
-  Doors and Gates                                                                                   [404]{style="text-align: center;"}                                                                       [404]{style="text-align: center;"}
-  Gangway (30 foot exception)                                                                                   1005.1 EX 2                                                                                              1005.1 EX 2
-                                                                                                                                                                                                                               
-  Gangway (use of boating EXs 1, 2, and 5 to 8 in 1003.2.1)                                                     1005.1 EX 1                                                                                              1005.1 EX 1
-  EX 1 - Alteration exception                                                                                  1003.2.1 EX 1                                                                                            1003.2.1 EX 1
-  EX 2 - Max. rise exception                                                                                   1003.2.1 EX 2                                                                                            1003.2.1 EX 2
-  EX 5 - Landing/transition plate exception                                                                    1003.2.1 EX 5                                                                                            1003.2.1 EX 5
-  EX 6 - Handrail exception                                                                [1003.2.1 EX 6]{style="text-align: -webkit-center;"}                                                                         1003.2.1 EX 6
-  EX 7 - Cross slope exception                                                                                 1003.2.1 EX 7                                                                                            1003.2.1 EX 7
-  EX 8 - Surface exception                                                                                     1003.2.1 EX 8                                                                                            1003.2.1 EX 8
-                                                                                                                                                                                                                               
-  Platform Lift                                                                                                     410                                                                                                      410
-  Ramps                                                                                                             405                                                                                                      405
-  Walking Surfaces with Running Slopes of 5% or less                                                                403                                                                                                      403
-                                                                                                                                                                                                                               
-  **Technical Requirements for Fishing Facilities**                                                                 1005                                                                                                    1005 
-  Clear Floor or Ground Space                                                                                     1005.4                                                                                                   1005.4
-  Edge Protection                                                                                                 1005.3                                                                                                   1005.3
-  Railings                                                                                                        1005.2                                                                                                   1005.2
-  Turning Space                                                                                                   1005.5                                                                                                   1005.5 
-                                                                                                                                                                                                                               
-  **Other Typical Scoping Requirements at Fishing Facilities**                                                                                                                                                                 
-  Dining surfaces                                                                                   [226]{style="text-align: center;"}                                                                       [F226]{style="text-align: center;"}
-  Employee Work Areas (exception)                                                                  [203.9]{style="text-align: center;"}                                                              [no similar exception]{style="text-align: center;"}
-  Locker Rooms                                                                                                      222                                                                                                     F222
-  Parking                                                                                           [208]{style="text-align: center;"}                                                                       [F208]{style="text-align: center;"}
-  Passenger Loading Zones and Bus Stops                                                             [209]{style="text-align: center;"}                                                                       [F209]{style="text-align: center;"}
-  Signage                                                                                           [216]{style="text-align: center;"}                                                       [F]{style="text-align: center;"}[216]{style="text-align: center;"}
-  Sinks                                                                                                            212.3                                                                                                   F212.3
-  Work Surfaces                                                                                                     226                                                                                                     F226
-  Toilet and Bathing                                                                                                213                                                                                                     F213
-  Vending Machines                                                                                                  228                                                                                                     F228
-  -------------------------------------------------------------- --------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------
 
 \* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
@@ -305,6 +233,3 @@ Accessibility Guidelines) as the basis of the requirements discussed.
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
 the Architectural Barriers Act (ABA) Accessibility Standards).\
-\
-\
-:::
