@@ -4,10 +4,11 @@ order-number: 14
 file: plz.pdf
 file-description: PDF version of Chapter 5 Passenger loading Zones Guide
 ---
-This guide explains requirements in the [ADA
-Standards](../ada-standards.html) for passenger loading zones.
+This guide explains requirements in the [ADA Standards](../ada-standards.html) for passenger loading zones.
 
-### []{#number}Required Compliance \[[§209](../ada-standards/chapter-2-scoping-requirements.html#209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops)\]
+### Required Compliance
+
+[[§209](../ada-standards/chapter-2-scoping-requirements.html#209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops)]
 
 Where passenger loading zones are provided, at least one accessible
 passenger loading zone is required in every continuous 100 linear feet
@@ -15,37 +16,29 @@ of loading zone or fraction thereof. Compliance is required only where
 areas are specifically designed or designated for passenger loading,
 such as those at airports, many hotels, and convention centers.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------
-   ![accessible passenger loading zone](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5plz2.jpg){width="525" height="292"}
-   *At least 1 accessible passenger loading zone is required in every continuous 100 linear feet (or fraction) of passenger loading zone space.*
-  ------------------------------------------------------------------------------------------------------------------------------------------------
+![accessible passenger loading zone]({{ site.baseurl }}{{ page.image-directory }}chapter5/5plz2.jpg){: .img-large}
+<div class="margin-left-8 margin-right-8 text-center" markdown="1">
+_At least 1 accessible passenger loading zone is required in every continuous 100 linear feet (or fraction) of passenger loading zone space._
+</div>
 
- 
+### Required Passenger Loading Zones
 
-**![Symbols for medical car, valet parking, and parking
-facility](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5plz3.jpg){width="75"
-height="197"}Required Passenger Loading Zones**
+![Symbols for medical car, valet parking, and parking facility]({{ site.baseurl }}{{ page.image-directory }}chapter5/5plz3.jpg){: .float-right .thumbnail}
 
 Accessible passenger loading zones must be provided at these facilities,
 whether or not passenger loading zones are planned:
 
--   licensed medical care and licensed long term care facilities where
-    the period of stay exceeds 24 hours (located at an accessible
-    entrance) (§209.3);
--   parking facilities where valet parking service is provided (§209.4);
-    and
--   mechanical access parking garages (located at vehicle pick-up and
-    drop-off areas) (§209.5)
+- licensed medical care and licensed long term care facilities where the period of stay exceeds 24 hours (located at an accessible entrance) (§209.3);
+- parking facilities where valet parking service is provided (§209.4); and
+- mechanical access parking garages (located at vehicle pick-up and drop-off areas) (§209.5)
 
- 
+### Accessible Passenger Loading Zones
 
-### []{#plz}Accessible Passenger Loading Zones \[[§503](../ada-standards/chapter-5-general-site-and-building-elements.html#503%20Passenger%20Loading%20Zones)\]
+[[§503](../ada-standards/chapter-5-general-site-and-building-elements.html#503%20Passenger%20Loading%20Zones)]
 
 Requirements for accessible passenger loading zones address vehicle
 pull-up spaces and access aisles, including their dimensions, surfacing,
 and vertical clearance.
-
-**Accessible Passenger Loading Zone**
 
 ![Accessible passenger loading zone with vehicle pull-up space 20' long
 min. and 96" wide min. with an adjacent access aisle the full length of
@@ -64,15 +57,11 @@ clearance of 114" is required at the vehicle pull-up space and access
 aisle and along a vehicular route connecting them to a vehicle entrance
 and exit. Accessible passenger loading zones are not required to be
 identified by the International Symbol of Accessibility.
-](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5plz4.jpg){width="600"
-height="650"} 
+]({{ site.baseurl }}{{ page.image-directory }}chapter5/5plz4.jpg){: .img-large} 
 
- 
+### Bus Loading Areas and On-Street Bus Stops
 
-**Bus Loading Areas and On-Street Bus Stops
-\[[§209.2.2](../ada-standards/chapter-2-scoping-requirements.html#209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops)
-and
-[§209.2.3](../ada-standards/chapter-2-scoping-requirements.html#209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops)\]**
+[[§209.2.2](../ada-standards/chapter-2-scoping-requirements.html#209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops) and [§209.2.3](../ada-standards/chapter-2-scoping-requirements.html#209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops)]
 
 Loading zones designed for buses that provide general or special
 service, including charter service, to the public on a regular and
@@ -87,16 +76,11 @@ by private entities (referred to as "specified public transportation" in
 DOT's regulations). On-street bus stops also must comply with
 requirements in §810.2 to the maximum extent practicable.
 
-### ![question mark](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/ques.jpg){width="100" height="100"}
+### Common Questions
 
- 
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail} 
 
-### []{#cq}Common Questions {#common-questions style="text-align: left;"}
-
- 
-
-*Are accessible passenger loading zones required on sites where no
-passenger loading zone is intended?*
+#### Are accessible passenger loading zones required on sites where no passenger loading zone is intended?
 
 Accessible passenger loading zones are required at these sites whether
 or not passenger loading zones are planned: parking facilities that
@@ -105,7 +89,7 @@ facilities where the period of stay exceeds 24 hours, and mechanical
 access parking garages. At all other facilities, the requirements apply
 only where passenger loading zones are provided.
 
-*What constitutes a "passenger loading zone"?*
+#### What constitutes a "passenger loading zone"?
 
 Only those areas that are specifically designed or designated for
 passenger loading are considered "passenger loading zones" under the
@@ -116,7 +100,7 @@ passenger loading zones. At other locations, compliance is not required
 even if passenger loading may occasionally occur, but is not
 specifically intended or reflected in the design.
 
-*What distinguishes passenger loading zones from bus loading zones?*
+#### What distinguishes passenger loading zones from bus loading zones?
 
 Requirements for passenger loading zones (§209.2.1) apply to any
 passenger loading areas except those that exclusively serve buses
@@ -130,9 +114,7 @@ public transit buses, hotel buses, and other types of buses providing
 designated or specified public transportation must meet criteria for bus
 loading zones.
 
-*If a passenger loading area serves cars and vans, as well as buses,
-must the provisions for passenger loading zones and bus loading zones
-both be satisfied?*
+#### If a passenger loading area serves cars and vans, as well as buses, must the provisions for passenger loading zones and bus loading zones both be satisfied?
 
 No, provisions for bus loading zones (§810.2) apply only to on-street
 bus stops and those bus loading zones that exclusively serve designated
@@ -144,8 +126,7 @@ transportation, they remain subject to criteria in §503, although
 applying the requirements for bus loading zones in §810.2 as well is
 advisable, but not required.
 
-*Is a compliant passenger loading zone required where valet parking is
-provided?*
+#### Is a compliant passenger loading zone required where valet parking is provided?
 
 An accessible passenger loading zone is required where parking
 facilities provide valet parking services (§209.4). Also, an accessible
@@ -173,98 +154,24 @@ requirements apply:
     regulations so that the valet parking service accommodates people
     with disabilities).
 
-*Must the access aisle be flush with the pull-up space?*
+#### Must the access aisle be flush with the pull-up space?
 
 Yes, the access aisle at accessible passenger loading zones must be at
 the same level as the vehicle pull-up space it serves.
 
-*Can curb ramps overlap access aisles?*
+#### Can curb ramps overlap access aisles?
 
 No, access aisles, as well as vehicle pull-up spaces, cannot have
 changes in level other than slopes not exceeding 1:48.
 
-*How are accessible passenger loading zone aisles to be marked?*
+#### How are accessible passenger loading zone aisles to be marked?
 
 The Standards require access aisles to be marked so as to discourage
 parking in them, but they do not specify how markings are to be
 provided. State or local codes and regulations may specify such
 markings. Vehicle pull-up spaces are not required to be marked.
 
-*Are accessible passenger loading zones required to be labeled by the
-International Symbol of Accessibility?*
+#### Are accessible passenger loading zones required to be labeled by the International Symbol of Accessibility?
 
 No, accessible passenger loading zones are not required to be identified
 by the International Symbol of Accessibility.
-
-[Back to top](chapter-5-passenger-loading-zones.html#top) 
-
-* *
-:::
-
-[]{.clear}
-
-::: {#footer}
-::: {.left}
-Contact Information
--------------------
-
-::: {.left}
-::: {.custom}
-[U.S. Access Board]{property="schema:name"}\
-[1331 F Street NW, Suite 1000]{property="schema:streetAddress"}\
-[Washington]{property="schema:addressLocality"}, DC
-[20004-1111]{property="schema:postalCode"}
-
--   Voice: (202) 272-0080 or (800) 872-2253
--   TTY: (202) 272-0082 or (800) 993-2822
--   Fax: (202) 272-0081
-:::
-:::
-
-::: {.right}
--   [Contact Us](../../../../contact-us.html)
--   [Accessibility
-    Statement](../../../../the-board/policies/accessibility-statement.html)
--   [Sitemap](../../../../sitemap.html)
--   [Budget and
-    Performance](../../../../the-board/budget-and-performance.html)
--   [En Español](../../../../en-español/sobre-el-consejo-de-acceso.html)
--   [No Fear Act
-    Data](../../../../the-board/budget-and-performance/no-fear-act-data.html)
--   [Privacy](../../../../the-board/policies/privacy-policy.html)
--   [Freedom of
-    Information](../../../../the-board/policies/freedom-of-information-act-foia.html)
--   [Office of Special Counsel](https://osc.gov/)
--   [Guidance Documents](../../../../guidance.html)
-:::
-:::
-
-::: {.right}
-Partner Sites
--------------
-
-::: {.footer-link-list}
--   [disability.gov](http://www.disability.gov)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-
--   [usa.gov](http://www.usa.gov)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-
--   [regulations.gov](http://www.regulations.gov/#!searchResults;rpp=25;so=DESC;sb=docId;po=0;a=ATBCB;dct=PR+FR+N;dkt=R)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-
--   [federalregister.gov](http://www.federalregister.gov/agencies/architectural-and-transportation-barriers-compliance-board)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-:::
-:::
-
-[]{.clear}
-:::
