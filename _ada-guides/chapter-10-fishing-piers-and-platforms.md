@@ -224,12 +224,71 @@ Church, Virginia.*
 
 ### Provision Index
 This table highlights the sections of the ADA and ABA Accessibility
-Standards discussed in the fishing piers and platforms guide.
+Standards discussed in the fishing piers and platforms guide.  
 
+
+<div markdown="1">
+|                                                               |  ADA Standards\* | ABA Standards        |
+|:--------------------------------------------------------------|:----------------:|:--------------------:|
+| Definitions                                                   |  106\.5          | F106\.5              |
+| Alteration                                                    |  106\.5          | F106\.5              |
+| Cross Slope                                                   | 106\.5           | F106\.5              |
+| Curb Ramp                                                     | 106\.5           | F106\.5              |
+| Facility                                                      | 106\.5           | F106\.5              |
+| Gangway                                                       | 106\.5           | F106\.5              |
+| Ramp                                                          | 106\.5           | F106\.5              |
+| Running Slope                                                 | 106\.5           | F106\.5              |
+| Transition Plate                                              | 106\.5           | F106\.5              |
+|                                                               |                  |                      |
+| Fishing Piers and Platforms \(where provided\)                | 237              | F237                 |
+|                                                               |                  |                      |
+| Accessible Routes \(where required\)                          | 206              | F206                 |
+| 
+Fishing \(specific provision\)
+                              | 206\.2\.14       | F206\.2\.13          |
+| Elevators \(types allowed\)                                   | 206\.6           | F206\.6              |
+| Platform Lift \(new construction use\)                        | 206\.7\.10       | F206\.7\.10          |
+|                                                               |                  |                      |
+| Accessible Routes Components \(typically used\)               |                  |                      |
+| Curb Ramps                                                    | 406              | 406                  |
+| Doors and Gates                                               | 404              | 404                  |
+| Gangway \(30 foot exception\)                                 | 1005\.1 EX 2     | 1005\.1 EX 2         |
+|                                                               |                  |                      |
+| Gangway \(use of boating EXs 1, 2, and 5 to 8 in 1003\.2\.1\) | 1005\.1 EX 1     | 1005\.1 EX 1         |
+| EX 1 \- Alteration exception                                  | 1003\.2\.1 EX 1  | 1003\.2\.1 EX 1      |
+| EX 2 \- Max\. rise exception                                  | 1003\.2\.1 EX 2  | 1003\.2\.1 EX 2      |
+| EX 5 \- Landing/transition plate exception                    | 1003\.2\.1 EX 5  | 1003\.2\.1 EX 5      |
+| EX 6 \- Handrail exception                                    | 1003\.2\.1 EX 6  | 1003\.2\.1 EX 6      |
+| EX 7 \- Cross slope exception                                 | 1003\.2\.1 EX 7  | 1003\.2\.1 EX 7      |
+| EX 8 \- Surface exception                                     | 1003\.2\.1 EX 8  | 1003\.2\.1 EX 8      |
+|                                                               |                  |                      |
+| Platform Lift                                                 | 410              | 410                  |
+| Ramps                                                         | 405              | 405                  |
+| Walking Surfaces with Running Slopes of 5% or less            | 403              | 403                  |
+|                                                               |                  |                      |
+| Technical Requirements for Fishing Facilities                 |  1005            | 1005                 |
+| Clear Floor or Ground Space                                   | 1005\.4          | 1005\.4              |
+| Edge Protection                                               | 1005\.3          | 1005\.3              |
+| Railings                                                      | 1005\.2          | 1005\.2              |
+| Turning Space                                                 | 1005\.5          | 1005\.5              |
+|                                                               |                  |                      |
+| Other Typical Scoping Requirements at Fishing Facilities      |                  |                      |
+| Dining surfaces                                               | 226              | F226                 |
+| Employee Work Areas \(exception\)                             | 203\.9           | no similar exception |
+| Locker Rooms                                                  | 222              | F222                 |
+| Parking                                                       | 208              | F208                 |
+| Passenger Loading Zones and Bus Stops                         | 209              | F209                 |
+| Signage                                                       | 216              | F216                 |
+| Sinks                                                         | 212\.3           | F212\.3              |
+| Work Surfaces                                                 | 226              | F226                 |
+| Toilet and Bathing                                            | 213              | F213                 |
+| Vending Machines                                              | 228              | F228                 |
+</div>
 
 \* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
  The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
-the Architectural Barriers Act (ABA) Accessibility Standards).\
+the Architectural Barriers Act (ABA) Accessibility Standards).
+
