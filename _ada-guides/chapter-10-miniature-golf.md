@@ -84,8 +84,11 @@ resistant.)
 
 ![illustration of accessible route on playing surface with opening onto
 adjacent accessible
-route]({{ site.baseurl }}{{ page.image-directory }}chapter10/mingolf-guide/page-7hi.jpg){: .img-left .medium}![illustration of golf club reach ranges on playing
-surface]({{ site.baseurl }}{{ page.image-directory }}chapter10/mingolf-guide/page-7lo.jpg){: .img-right .medium}
+route]({{ site.baseurl }}{{ page.image-directory }}chapter10/mingolf-guide/page-7hi.jpg){: .img-medium .center}
+
+![illustration of golf club reach ranges on playing
+surface]({{ site.baseurl }}{{ page.image-directory }}chapter10/mingolf-guide/page-7lo.jpg){: .img-medium .center}
+
 
 There is usually a curb around a hole to keep the ball within the area.
 When the accessible route is provided on the course, a 1-inch high
@@ -99,8 +102,8 @@ The accessible route on a playing surface must be within 36 inches (the
 golf club reach range) of any area where the ball comes to rest.
 
 ![illustration of accessible route on the playing
-surface]({{ site.baseurl }}{{ page.image-directory }}chapter10/mingolf-guide/page-8hi.jpg){: .img-right
-}Landings must be 48 inches long. Where ramps change
+surface]({{ site.baseurl }}{{ page.image-directory }}chapter10/mingolf-guide/page-8hi.jpg){: .img-right}
+Landings must be 48 inches long. Where ramps change
 direction, the landing size must be a minimum of 48 inches by 60 inches.
 The orientation of the length and the width have not been specified for
 added flexibility in design. Slopes on landings must be no more than
@@ -139,7 +142,7 @@ have to hit the ball while positioned on a sloped surface. The
 accessible route and the clear space can overlap.
 
 ![illustrations of start of play area orientation and alternative
-orientation]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-9h.jpg){: .img-full}
+orientation]({{ site.baseurl }}{{ page.image-directory }}chapter10/mingolf-guide/page-9h.jpg){: .img-full}
 
 
 ---
