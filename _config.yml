@@ -82,11 +82,11 @@ primary_navigation:
         url: /ada/
       - name: Architectural Barriers Act (ABA)
         url: /aba/
-      - name: Public Rights-of-Way
+      - name: Public Rights-of-Way (PROWAG)
         url: /prowag/
       - name: Vehicles
         url: /ada/vehicles/
-      - name: Passenger Vessels
+      - name: Passenger Vessels (PVAG)
         url: /pvag/
       - name: Medical Diagnostic Equipment (MDE)
         url: /mde/
