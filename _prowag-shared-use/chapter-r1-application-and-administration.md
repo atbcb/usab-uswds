@@ -197,11 +197,11 @@ right-of-way.
 *Running Slope* 
 : The grade that is parallel to the direction of pedestrian travel.
 
->   ***Shared Use Path.* A multi-use path designed primarily for use by bicyclists and pedestrians, including pedestrians with disabilities, for transportation and recreation purposes. Shared use paths are physically separated from motor vehicle traffic by an open space or barrier, and are either within the highway right-of-way or within an independent right-of-way.**
->   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->
-> *Vertical Surface Discontinuities.*  Vertical differences in level
-> between two adjacent surfaces.
+***Shared Use Path*** 
+: A multi-use path designed primarily for use by bicyclists and pedestrians, including pedestrians with disabilities, for transportation and recreation purposes. Shared use paths are physically separated from motor vehicle traffic by an open space or barrier, and are either within the highway right-of-way or within an independent right-of-way.
+
+*Vertical Surface Discontinuities*  
+: Vertical differences in level between two adjacent surfaces.
 :::
 
 []{.clear}
