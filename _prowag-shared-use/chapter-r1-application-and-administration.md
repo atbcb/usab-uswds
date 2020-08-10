@@ -189,7 +189,7 @@ right-of-way.
 : A prepared exterior or interior surface provided for pedestrian travel in the public right-of-way.
 
 ***Public Right-of-Way***{: .shared-use .border} 
-: Public land acquired for or dedicated to transportation purposes, or other land where there is a legally established right for use by the public for transportation purposes.{: .shared-use .border}
+: Public land acquired for or dedicated to transportation purposes, or other land where there is a legally established right for use by the public for transportation purposes.{: .shared-use .border} 
 
 *Qualified Historic Facility* 
 : A facility that is listed in or eligible for listing in the National Register of Historic Places, or designated as historic under an appropriate state or local law.
