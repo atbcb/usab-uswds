@@ -6,7 +6,7 @@ version: improved
 
 ### R101 Purpose
 
-####R101.1 General
+#### R101.1 General
 This document contains scoping and technical
 requirements to ensure that facilities for pedestrian circulation and
 use located in the public right-of-way are readily accessible to and
@@ -18,7 +18,7 @@ alteration of pedestrian facilities in the public right-of-way.
 {:.advisory}
 **Advisory R101.1 General.** Sections marked as "advisory" contain advisory information related to the preceding section. Advisory sections do not establish mandatory requirements. Some advisory sections reference related mandatory requirements to alert readers about those requirements.
 
-####R101.2 Effect on Existing Facilities
+#### R101.2 Effect on Existing Facilities
 This document does not address
 existing facilities unless the facilities are included within the scope
 of an alteration undertaken at the discretion of a covered entity.
@@ -26,16 +26,16 @@ of an alteration undertaken at the discretion of a covered entity.
 {: .advisory}
   **Advisory R101.2 Effect on Existing Facilities.** The Department of Justice regulations implementing Title II of the Americans with Disabilities Act contain requirements for state and local governments regarding program accessibility and existing facilities. See 28 CFR 35.150. The Department of Transportation regulations implementing Section 504 of the Rehabilitation Act also contain requirements for recipients of federal financial assistance from the Department regarding compliance planning. See 49 CFR 27.11 (c).
 
-###R102 Equivalent Facilitation
+### R102 Equivalent Facilitation
 
 The use of alternative designs,
 products, or technologies that result in substantially equivalent or
 greater accessibility and usability than the requirements in this
 document is permitted.
 
-###R103 Conventions
+### R103 Conventions
 
-####R103.1 Conventional Industry Tolerances
+#### R103.1 Conventional Industry Tolerances
 Dimensions are subject to
 conventional industry tolerances except where dimensions are stated as a
 range.
@@ -43,7 +43,7 @@ range.
 {: .advisory}
 **Advisory R103.1 Conventional Industry Tolerances.** Conventional industry tolerances include tolerances for field conditions and tolerances that may be a necessary consequence of a particular manufacturing process. Conventional industry tolerances do not apply to design work.
 
-####R103.2 Calculation of Percentages
+#### R103.2 Calculation of Percentages
 Where the required number of
 elements or facilities to be provided is determined by calculations of
 ratios or percentages and remainders or fractions result, the next
@@ -52,7 +52,7 @@ Where the determination of the required size or dimension of an element
 or facility involves ratios or percentages, rounding down for values
 less than one half is permitted.
 
-####R103.3 Units of Measurement
+#### R103.3 Units of Measurement
 Measurements are stated in metric and
 U.S. customary units. The values stated in each system (metric and U.S.
 customary units) may not be exact equivalents, and each system shall be
@@ -81,9 +81,9 @@ used to show the location zone of elements, controls, or features.
 height="569"}
 
 
-###R104 Referenced Standards
+### R104 Referenced Standards
 
-####R104.1 Incorporation by Reference
+#### R104.1 Incorporation by Reference
 The specific editions of the
 standards listed in R104.2 are incorporated by reference in this
 document and are part of the requirements to the prescribed extent of
@@ -96,7 +96,7 @@ Administration (NARA). For information on the availability of the
 referenced standards at NARA, call (202) 741-6030, or go
 to: [http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html](http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html).
 
-####R104.2 MUTCD
+#### R104.2 MUTCD
 The portions of the Manual on Uniform Traffic Control
 Devices for Streets and Highways (MUTCD), 2009 Edition, that are
 incorporated by reference in this document consist of definitions (see
