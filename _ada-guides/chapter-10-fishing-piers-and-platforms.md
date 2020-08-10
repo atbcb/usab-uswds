@@ -224,7 +224,279 @@ Church, Virginia.*
 
 ### Provision Index
 This table highlights the sections of the ADA and ABA Accessibility
-Standards discussed in the fishing piers and platforms guide.
+Standards discussed in the fishing piers and platforms guide.  
+
+
+<div>
+<table class="usa-table">
+    <thead>
+        <tr>
+            <td>&nbsp;</td>
+            <td>ADA Standards*</td>
+            <td>ABA Standards</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Definitions</td>
+            <td>&nbsp;106.5</td>
+            <td>F106.5&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Alteration</td>
+            <td>&nbsp;106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Cross Slope</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Curb Ramp</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Facility</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Gangway</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Ramp</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Running Slope</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Transition Plate</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Fishing Piers and Platforms (where provided)</td>
+            <td>237</td>
+            <td>F237</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Accessible Routes (where required)</td>
+            <td>206</td>
+            <td>F206</td>
+        </tr>
+        <tr>
+            <td>
+Fishing (specific provision)
+</td>
+            <td>206.2.14</td>
+            <td>F206.2.13</td>
+        </tr>
+        <tr>
+            <td>Elevators (types allowed)</td>
+            <td>206.6</td>
+            <td>F206.6</td>
+        </tr>
+        <tr>
+            <td>Platform Lift (new construction use)</td>
+            <td>206.7.10</td>
+            <td>F206.7.10</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Accessible Routes Components (typically used)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Curb Ramps</td>
+            <td>406</td>
+            <td>406</td>
+        </tr>
+        <tr>
+            <td>Doors and Gates</td>
+            <td>404</td>
+            <td>404</td>
+        </tr>
+        <tr>
+            <td>Gangway (30 foot exception)</td>
+            <td>1005.1 EX 2</td>
+            <td>1005.1 EX 2</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Gangway (use of boating EXs 1, 2, and 5 to 8 in 1003.2.1)</td>
+            <td>1005.1 EX 1</td>
+            <td>1005.1 EX 1</td>
+        </tr>
+        <tr>
+            <td>EX 1 - Alteration exception</td>
+            <td>1003.2.1 EX 1</td>
+            <td>1003.2.1 EX 1</td>
+        </tr>
+        <tr>
+            <td>EX 2 - Max. rise exception</td>
+            <td>1003.2.1 EX 2</td>
+            <td>1003.2.1 EX 2</td>
+        </tr>
+        <tr>
+            <td>EX 5 - Landing/transition plate exception</td>
+            <td>1003.2.1 EX 5</td>
+            <td>1003.2.1 EX 5</td>
+        </tr>
+        <tr>
+            <td>EX 6 - Handrail exception</td>
+            <td>1003.2.1 EX 6</td>
+            <td>1003.2.1 EX 6</td>
+        </tr>
+        <tr>
+            <td>EX 7 - Cross slope exception</td>
+            <td>1003.2.1 EX 7</td>
+            <td>1003.2.1 EX 7</td>
+        </tr>
+        <tr>
+            <td>EX 8 - Surface exception</td>
+            <td>1003.2.1 EX 8</td>
+            <td>1003.2.1 EX 8</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Platform Lift</td>
+            <td>410</td>
+            <td>410</td>
+        </tr>
+        <tr>
+            <td>Ramps</td>
+            <td>405</td>
+            <td>405</td>
+        </tr>
+        <tr>
+            <td>Walking Surfaces with Running Slopes of 5% or less</td>
+            <td>403</td>
+            <td>403</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Technical Requirements for Fishing Facilities</td>
+            <td>&nbsp;1005</td>
+            <td>1005&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Clear Floor or Ground Space</td>
+            <td>1005.4</td>
+            <td>1005.4</td>
+        </tr>
+        <tr>
+            <td>Edge Protection</td>
+            <td>1005.3</td>
+            <td>1005.3</td>
+        </tr>
+        <tr>
+            <td>Railings</td>
+            <td>1005.2</td>
+            <td>1005.2</td>
+        </tr>
+        <tr>
+            <td>Turning Space</td>
+            <td>1005.5</td>
+            <td>1005.5&nbsp;</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Other Typical Scoping Requirements at Fishing Facilities</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Dining surfaces</td>
+            <td>226</td>
+            <td>F226</td>
+        </tr>
+        <tr>
+            <td>Employee Work Areas (exception)</td>
+            <td>203.9</td>
+            <td>no similar exception</td>
+        </tr>
+        <tr>
+            <td>Locker Rooms</td>
+            <td>222</td>
+            <td>F222</td>
+        </tr>
+        <tr>
+            <td>Parking</td>
+            <td>208</td>
+            <td>F208</td>
+        </tr>
+        <tr>
+            <td>Passenger Loading Zones and Bus Stops</td>
+            <td>209</td>
+            <td>F209</td>
+        </tr>
+        <tr>
+            <td>Signage</td>
+            <td>216</td>
+            <td>F216</td>
+        </tr>
+        <tr>
+            <td>Sinks</td>
+            <td>212.3</td>
+            <td>F212.3</td>
+        </tr>
+        <tr>
+            <td>Work Surfaces</td>
+            <td>226</td>
+            <td>F226</td>
+        </tr>
+        <tr>
+            <td>Toilet and Bathing</td>
+            <td>213</td>
+            <td>F213</td>
+        </tr>
+        <tr>
+            <td>Vending Machines</td>
+            <td>228</td>
+            <td>F228</td>
+        </tr>
+    </tbody>
+</table>
+</div>
 
 
 \* The guide uses the term ADAAG (Americans with Disabilities Act
@@ -232,4 +504,6 @@ Accessibility Guidelines) as the basis of the requirements discussed.
  The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
-the Architectural Barriers Act (ABA) Accessibility Standards).\
+the Architectural Barriers Act (ABA) Accessibility Standards).
+
+
