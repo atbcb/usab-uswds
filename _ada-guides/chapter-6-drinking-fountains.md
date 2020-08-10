@@ -168,21 +168,18 @@ the leading edge of the unit, including bumpers.
 
 [[§602.1 -- §602.6](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#602%20Drinking%20Fountains)]
 
-<div class="clearfix" markdown="1">
-![Children\'s drinking fountain with a spout 30 inches max high and
-clear floor space for a side
-approach.]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/13a.png){: .img-right}
-
-Drinking fountains designed specifically for children
-ages 12 and younger can provide a parallel approach instead of a forward
-approach if the spout is 30 inches high max and no more than 3-1/4
-inches from the front edge of the unit, including bumpers (§602.2, Ex).
-Parallel clear floor space is not required to be centered on the unit.
-
-![Drinking fountain with outlet centerline 3-1/2 inches max to front
-edge, including bumpers]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/14.jpg){: .img-medium}
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <span "grid-left">Drinking fountains designed specifically for children ages 12 and younger can provide a parallel approach instead of a forward approach if the spout is 30 inches high max and no more than 3-1/4 inches from the front edge of the unit, including bumpers (§602.2, Ex). Parallel clear floor space is not required to be centered on the unit."</span>
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/14.jpg" alt="Drinking fountain with outlet centerline 3-1/2 inches max to front
+edge, including bumpers">
+    </div>
+    <div class="tablet:grid-col">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/13a.png" alt="Children's drinking fountain with a spout 30 inches max high and clear floor space for a side approach.">
+    </div>
+  </div>
 </div>
- 
 
 ### Drinking Fountains for Standing Persons
 
