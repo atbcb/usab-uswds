@@ -24,7 +24,7 @@ then 50% must be wheelchair accessible and 50% accessible for standing
 persons (rounding up for either type in the case of odd numbers).
 
 ![Images of office building, exterior courtyard, and door with keypad
-security system]({{ site.baseurl }}{{ page.image-directory }}chapter6/1.png){: .img-large}
+security system]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/drinking-fountains/1.png){: .img-large}
 
 <div class="margin-left-8 margin-right-8 text-center" markdown="1">
 _Scoping for drinking fountains applies separately to each floor of a
@@ -42,7 +42,7 @@ text= "Where multiple units are provided on a floor, exterior site, or secured a
 
 #### Secured Areas
 
-![Security intercom]({{ site.baseurl }}{{ page.image-directory }}chapter6/2.png){: .float-right .thumbnail}
+![Security intercom]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/2.png){: .float-right .thumbnail}
 
 The Standards specifically address access to drinking
 fountains located within secured areas because they often serve only a
@@ -74,7 +74,7 @@ Guide](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/gui
 #### Water Coolers and Bottle Fillers
 
 ![Bottle filler and water
-cooler]({{ site.baseurl }}{{ page.image-directory }}chapter6/3.png){: .float-right .thumbnail}
+cooler]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/3.png){: .float-right .thumbnail}
 
 If a drinking fountain is provided, a water cooler, bottle
 filler, or nearby sink cannot substitute for either the wheelchair
@@ -117,7 +117,7 @@ degrees max. measured horizontally relative to the face of the unit. A
 drinking fountain in plan view with a spout 3\" - 5\" from the front of
 unit and an angle of the water stream 15 degrees max. measured
 horizontally relative to the face of the
-unit.]({{ site.baseurl }}{{ page.image-directory }}chapter6/4a.png){: .img-large}
+unit.]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/4a.png){: .img-large}
 
 #### Spout Location (§602.5)
 
@@ -128,7 +128,7 @@ _Spouts must be 15\" min. from the vertical support and 5\" max. from the unit\'
 ![Drinking fountain with rectangular bowl with spouts 15" min. from the
 vertical support and 5" max. from the unit's front edge. Drinking
 fountain with round bowl with spouts 15" min. from the vertical support
-and 5" max. from the unit's front edge.]({{ site.baseurl }}{{ page.image-directory }}chapter6/8.jpg){: .img-large}
+and 5" max. from the unit's front edge.]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/8.jpg){: .img-large}
 
 #### Clear Floor or Ground Space
 
@@ -141,10 +141,10 @@ both sides for more than half the depth, such as at alcoves.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/9.jpg" alt="Drinking fountain in plan view with clear floor space 30\" min. by 48\" min. centered on the unit. The unit overlaps the front portion of the clear floor space by a depth of 17\" min.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/9.jpg" alt="Drinking fountain in plan view with clear floor space 30 inches min. by 48 inches min. centered on the unit. The unit overlaps the front portion of the clear floor space by a depth of 17 inches min.">
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/10.jpg" alt="Drinking fountain in an alcove with clear floor space that is obstructed on both sides more than 24\" due to the recess and is 36\" wide min.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/10.jpg" alt="Drinking fountain in an alcove with clear floor space that is obstructed on both sides more than 24 inches due to the recess and is 36 inches wide min.">
     </div>
   </div>
 </div>
@@ -156,10 +156,10 @@ the leading edge of the unit, including bumpers.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/11.jpg" alt="Drinking fountain (side view) with knee and toe space below the unit highlighted. Note: Knee and toe space depth measured from the leading edge.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/11.jpg" alt="Drinking fountain (side view) with knee and toe space below the unit highlighted. Note: Knee and toe space depth measured from the leading edge.">
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/12.jpg" alt="Shown in profile: Knee space 11 inches deep and toe space 6 inches deep for a total depth of 17 inches. The leading edge of the knee space is 27 inches high min and extends in 8 inches min, then reduces to 9 inches over a 3 inch space (6:1 slope). The clearance continues as toe space 9 inches.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/12.jpg" alt="Shown in profile: Knee space 11 inches deep and toe space 6 inches deep for a total depth of 17 inches. The leading edge of the knee space is 27 inches high min and extends in 8 inches min, then reduces to 9 inches over a 3 inch space (6:1 slope). The clearance continues as toe space 9 inches.">
     </div>
   </div>
 </div>
@@ -171,7 +171,7 @@ the leading edge of the unit, including bumpers.
 <div class="clearfix" markdown="1">
 ![Children\'s drinking fountain with a spout 30 inches max high and
 clear floor space for a side
-approach.]({{ site.baseurl }}{{ page.image-directory }}chapter6/13a.png){: .img-right}
+approach.]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/13a.png){: .img-right}
 
 Drinking fountains designed specifically for children
 ages 12 and younger can provide a parallel approach instead of a forward
@@ -180,7 +180,7 @@ inches from the front edge of the unit, including bumpers (§602.2, Ex).
 Parallel clear floor space is not required to be centered on the unit.
 
 ![Drinking fountain with outlet centerline 3-1/2 inches max to front
-edge, including bumpers]({{ site.baseurl }}{{ page.image-directory }}chapter6/14.jpg){: .img-medium}
+edge, including bumpers]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/14.jpg){: .img-medium}
 </div>
  
 
@@ -196,10 +196,10 @@ toe space, required at wheelchair accessible units.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/15.jpg" alt="Unit with a high bowl with a spout 38 inches to 43 inches high next to a low bowl.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/15.jpg" alt="Unit with a high bowl with a spout 38 inches to 43 inches high next to a low bowl.">
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/16.jpg" alt="Unit with a high and a low bowl. Recommendation: Locate standee units outside clear floor space of wheelchair accessible units.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/16.jpg" alt="Unit with a high and a low bowl. Recommendation: Locate standee units outside clear floor space of wheelchair accessible units.">
     </div>
   </div>
 </div>
@@ -221,10 +221,10 @@ clear floor space required at wheelchair accessible units.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/projecting_fountain.jpg" alt="Drinking fountain recessed in alcove.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/projecting_fountain.jpg" alt="Drinking fountain recessed in alcove.">
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/17.jpg" alt="Drinking fountain in alcove (plan view) with leading edge projecting 4 inches max. beyond recess">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/17.jpg" alt="Drinking fountain in alcove (plan view) with leading edge projecting 4 inches max. beyond recess">
     </div>
   </div>
 </div>
@@ -239,10 +239,10 @@ to recess drinking fountains.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/18.jpg" alt="High drinking fountain located between an adjacent wall of corner and a low drinking fountain.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/18.jpg" alt="High drinking fountain located between an adjacent wall of corner and a low drinking fountain.">
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/projecting_fountain_-_bench.jpg" alt="Drinking fountain on wall with benches on both sides.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/projecting_fountain_-_bench.jpg" alt="Drinking fountain on wall with benches on both sides.">
     </div>
   </div>
 </div>
