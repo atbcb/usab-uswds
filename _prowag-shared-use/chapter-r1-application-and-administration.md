@@ -202,6 +202,3 @@ right-of-way.
 
 *Vertical Surface Discontinuities*  
 : Vertical differences in level between two adjacent surfaces.
-:::
-
-[]{.clear}
