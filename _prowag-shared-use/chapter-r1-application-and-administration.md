@@ -143,18 +143,19 @@ Words, terms, and phrases used in the singular include the plural and those used
 
 #### R105.5 Defined Terms
 
-Accessible. 
+*Accessible*
 : Describes a facility in the public right-of-way that
 complies with this document.
 
-Alteration.
+*Alteration*
 : A change to a facility in the public right-of-way that
 affects or could affect pedestrian access, circulation, or use.
 Alterations include, but are not limited to, resurfacing,
 rehabilitation, reconstruction, historic restoration, or changes or
 rearrangement of structural parts or elements of a facility.
 
-*Blended Transition.* A raised pedestrian street crossing, depressed
+*Blended Transition*
+: A raised pedestrian street crossing, depressed
 corner, or similar connection between the pedestrian access route at
 the level of the sidewalk and the level of the pedestrian street
 crossing that has a grade of 5 percent or less.
