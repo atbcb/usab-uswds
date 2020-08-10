@@ -160,48 +160,43 @@ corner, or similar connection between the pedestrian access route at
 the level of the sidewalk and the level of the pedestrian street
 crossing that has a grade of 5 percent or less.
 
-> *Cross Slope.* The grade that is perpendicular to the direction of
-> pedestrian travel.\
-> \
-> *Curb Line.* A line at the face of the curb that marks the transition
-> between the curb and the gutter, street, or highway.\
-> \
-> *Curb Ramp.* A ramp that cuts through or is built up to the curb. Curb
-> ramps can be perpendicular or parallel, or a combination of parallel
-> and perpendicular ramps.
->
-> *Element.* An architectural or mechanical component of a building,
-> facility, space, site, or public right-of-way.\
-> \
-> *Facility.* All or any portion of buildings, structures, improvements,
-> elements, and pedestrian or vehicular routes located in the public
-> right-of-way.\
-> \
-> *Grade Break.* The line where two surface planes with different grades
-> meet.\
-> \
-> *Operable Part.* A component of an element used to insert or withdraw
-> objects, or to activate, deactivate, or adjust the element.\
-> \
-> *Pedestrian Access Route.* A continuous and unobstructed path of
-> travel provided for pedestrians with disabilities within or coinciding
-> with a pedestrian circulation path.
->
-> *Pedestrian Circulation Path.* A prepared exterior or interior surface
-> provided for pedestrian travel in the public right-of-way.
->
->   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->   ***Public Right-of-Way*. Public land acquired for or dedicated to transportation purposes, or other land where there is a legally established right for use by the public for transportation purposes. **
->   -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
->
-> *Qualified Historic Facility.*  A facility that is listed in or
-> eligible for listing in the National Register of Historic Places, or
-> designated as historic under an appropriate state or local law.
->
-> *Running Slope.* The grade that is parallel to the direction of
-> pedestrian travel.
->
->   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+*Cross Slope* 
+: The grade that is perpendicular to the direction of pedestrian travel.
+
+*Curb Line* 
+: A line at the face of the curb that marks the transition between the curb and the gutter, street, or highway.
+
+*Curb Ramp* 
+: A ramp that cuts through or is built up to the curb. Curb ramps can be perpendicular or parallel, or a combination of parallel and perpendicular ramps.
+
+*Element* 
+: An architectural or mechanical component of a building, facility, space, site, or public right-of-way.
+
+*Facility* 
+: All or any portion of buildings, structures, improvements, elements, and pedestrian or vehicular routes located in the public
+right-of-way.
+
+*Grade Break* 
+: The line where two surface planes with different grades meet.
+
+*Operable Part* 
+: A component of an element used to insert or withdraw objects, or to activate, deactivate, or adjust the element.
+
+*Pedestrian Access Route* 
+: A continuous and unobstructed path of travel provided for pedestrians with disabilities within or coinciding with a pedestrian circulation path.
+
+*Pedestrian Circulation Path* 
+: A prepared exterior or interior surface provided for pedestrian travel in the public right-of-way.
+
+***Public Right-of-Way***{: .shared-use .border} 
+: Public land acquired for or dedicated to transportation purposes, or other land where there is a legally established right for use by the public for transportation purposes.{: .shared-use .border}
+
+*Qualified Historic Facility* 
+: A facility that is listed in or eligible for listing in the National Register of Historic Places, or designated as historic under an appropriate state or local law.
+
+*Running Slope* 
+: The grade that is parallel to the direction of pedestrian travel.
+
 >   ***Shared Use Path.* A multi-use path designed primarily for use by bicyclists and pedestrians, including pedestrians with disabilities, for transportation and recreation purposes. Shared use paths are physically separated from motor vehicle traffic by an open space or barrier, and are either within the highway right-of-way or within an independent right-of-way.**
 >   --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 >
