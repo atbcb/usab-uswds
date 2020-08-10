@@ -94,7 +94,7 @@ meet requirements for operable parts (§309), including:
 Bottle fillers must comply where provided, including when integrated
 with drinking fountains. If only one bottle filler is provided at only
 some drinking fountains or at one bowl of a hi-lo unit, it is advisable
-to locate it at the wheelchair accessible unit or bowl.\
+to locate it at the wheelchair accessible unit or bowl.
 
 ### Wheelchair Accessible Drinking Fountains
 
