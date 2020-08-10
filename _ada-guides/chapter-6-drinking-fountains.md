@@ -24,7 +24,7 @@ then 50% must be wheelchair accessible and 50% accessible for standing
 persons (rounding up for either type in the case of odd numbers).
 
 ![Images of office building, exterior courtyard, and door with keypad
-security system]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/drinking-fountains/1.png){: .img-large}
+security system]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/1.png){: .img-large}
 
 <div class="margin-left-8 margin-right-8 text-center" markdown="1">
 _Scoping for drinking fountains applies separately to each floor of a
