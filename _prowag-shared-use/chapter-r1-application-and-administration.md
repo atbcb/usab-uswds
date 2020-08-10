@@ -77,8 +77,7 @@ line with longer spaces indicates a permitted element or its extension.
 An arrow is to identify the direction of travel or approach. Gray
 shading is used to show an element in elevation or plan. Hatching is
 used to show the location zone of elements, controls, or features.
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/103.jpg){width="457"
-height="569"}
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/103.jpg)
 
 
 ### R104 Referenced Standards
@@ -112,29 +111,23 @@ may be purchased from the American Association of State Highway and
 Transportation Officials, 444 N Capitol Street, NW, Washington, DC 20001
 ([http://www.transportation.org/](http://www.transportation.org/)).
 
-{: .advisory}
+<div class="advisory" markdown="1">
 **Advisory R104.2 MUTCD.** MUTCD definitions and standard statements  
 are referenced in the following sections of this document: 
-|                                                                       |
-| -   R105.2 references definitions in section 1A.13 of the MUTCD;      |
-| -   R205 references standard statements in sections 6D.01, 6D.02,     |
-|     6G.05, 6F.63, 6F.68, and 6F.71 of the MUTCD for providing         |
-|     alternate pedestrian access routes when a pedestrian circulation  |
-|     path is temporarily closed;                                       |
-| -   R209 references standard statements in sections 4E.08 through     |
-|     4E.13 of the MUTCD for accessible pedestrian signals and          |
-|     pedestrian pushbuttons; and                                       |
-| -   R306.2 references standard statements in section 4E.06 of the     |
-|     MUTCD for pedestrian signal phase timing.                         |
-+-----------------------------------------------------------------------+
+- R105.2 references definitions in section 1A.13 of the MUTCD;
+- R205 references standard statements in sections 6D.01, 6D.02, 6G.05, 6F.63, 6F.68, and 6F.71 of the MUTCD for providing alternate pedestrian access routes when a pedestrian circulation path is temporarily closed;
+- R209 references standard statements in sections 4E.08 through 4E.13 of the MUTCD for accessible pedestrian signals and pedestrian pushbuttons; and 
+- R306.2 references standard statements in section 4E.06 of the MUTCD for pedestrian signal phase timing.
+</div>
 
-**\
-R105 Definitions**\
-\
-**R105.1 General.** For the purpose of this document, the terms defined
-in R105.5 have the indicated meaning.\
-\
-**R105.2 Terms Defined in Referenced Standards.** Terms used in specific
+### R105 Definitions
+
+#### R105.1 General
+For the purpose of this document, the terms defined
+in R105.5 have the indicated meaning.
+
+#### R105.2 Terms Defined in Referenced Standards
+Terms used in specific
 sections of the MUTCD that are incorporated by reference in this
 document shall have the meaning specified in section 1A.13 of the MUTCD
 (incorporated by reference, see R104.2). In addition, the following
@@ -142,32 +135,30 @@ terms shall have the meaning specified in section 1A.13 of the MUTCD
 (incorporated by reference, see R104.2): highway, intersection, island,
 median, pedestrian, roundabout, sidewalk, splitter island, and street.
 
-> **R105.3 Undefined Terms.** The meaning of terms not specifically
-> defined in R105.5, the referenced standards, or regulations issued by
-> Federal agencies that adopt this document as accessibility standards
-> shall be as defined by collegiate dictionaries in the sense that the
-> context implies.\
-> \
-> **R105.4 Interchangeability.** Words, terms, and phrases used in the
-> singular include the plural and those used in the plural include the
-> singular.\
-> \
-> **R105.5 Defined Terms.**\
-> \
-> *Accessible.* Describes a facility in the public right-of-way that
-> complies with this document.\
-> \
-> *Alteration.* A change to a facility in the public right-of-way that
-> affects or could affect pedestrian access, circulation, or use.
-> Alterations include, but are not limited to, resurfacing,
-> rehabilitation, reconstruction, historic restoration, or changes or
-> rearrangement of structural parts or elements of a facility.
->
-> *Blended Transition.* A raised pedestrian street crossing, depressed
-> corner, or similar connection between the pedestrian access route at
-> the level of the sidewalk and the level of the pedestrian street
-> crossing that has a grade of 5 percent or less.
->
+#### R105.3 Undefined Terms
+The meaning of terms not specifically defined in R105.5, the referenced standards, or regulations issued by Federal agencies that adopt this document as accessibility standards shall be as defined by collegiate dictionaries in the sense that the context implies.
+
+#### R105.4 Interchangeability
+Words, terms, and phrases used in the singular include the plural and those used in the plural include the singular.
+
+#### R105.5 Defined Terms
+
+Accessible. 
+: Describes a facility in the public right-of-way that
+complies with this document.
+
+Alteration.
+: A change to a facility in the public right-of-way that
+affects or could affect pedestrian access, circulation, or use.
+Alterations include, but are not limited to, resurfacing,
+rehabilitation, reconstruction, historic restoration, or changes or
+rearrangement of structural parts or elements of a facility.
+
+*Blended Transition.* A raised pedestrian street crossing, depressed
+corner, or similar connection between the pedestrian access route at
+the level of the sidewalk and the level of the pedestrian street
+crossing that has a grade of 5 percent or less.
+
 > *Cross Slope.* The grade that is perpendicular to the direction of
 > pedestrian travel.\
 > \
