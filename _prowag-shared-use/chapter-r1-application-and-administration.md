@@ -188,10 +188,8 @@ right-of-way.
 *Pedestrian Circulation Path* 
 : A prepared exterior or interior surface provided for pedestrian travel in the public right-of-way.
 
-<div class="border" markdown="1">
-***Public Right-of-Way***
+*Public Right-of-Way*
 : Public land acquired for or dedicated to transportation purposes, or other land where there is a legally established right for use by the public for transportation purposes.
-</div>
 
 *Qualified Historic Facility* 
 : A facility that is listed in or eligible for listing in the National Register of Historic Places, or designated as historic under an appropriate state or local law.
@@ -199,7 +197,7 @@ right-of-way.
 *Running Slope* 
 : The grade that is parallel to the direction of pedestrian travel.
 
-***Shared Use Path*** 
+*Shared Use Path*
 : A multi-use path designed primarily for use by bicyclists and pedestrians, including pedestrians with disabilities, for transportation and recreation purposes. Shared use paths are physically separated from motor vehicle traffic by an open space or barrier, and are either within the highway right-of-way or within an independent right-of-way.
 
 *Vertical Surface Discontinuities*  
