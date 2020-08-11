@@ -1,6 +1,6 @@
 ---
 title: "Chapter 4: Accessible Routes"
-order-number: 12
+order-number: 7
 permalink: /aba/guides/
 file: accessible-routes-ABA.pdf
 file-description: PDF version of Chapter 4 Accessible Routes
