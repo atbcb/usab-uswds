@@ -14,50 +14,52 @@ comply with the requirements in this document.
 
   {: .advisory}
   **Advisory R201.1 Scope.** The requirements in this document are to be applied to all areas of a facility within the scope of the project. Where multiple features of the same type are provided, such as on-street parking spaces, and a percentage of the features are required to be accessible, only the required number of features must comply with the technical requirements in this document and be connected to a pedestrian access route. Where elements are provided on a site that is a designated portion of a public right-of-way, the elements are required to comply with the applicable requirements in this document instead of the requirements in the Americans with Disabilities Act Accessibility Guidelines for Buildings and Facilities and the Architectural Barriers Act Accessibility Guidelines (36 CFR part 1191).
-#### R201.2 Temporary and Permanent Facilities
+  
+  #### R201.2 Temporary and Permanent Facilities
 The requirements in this
 document shall apply to temporary and permanent facilities in the public
 right-of-way.
 
 {: .advisory}
-Advisory R201.2 Temporary and Permanent Facilities. Temporary pedestrian circulation paths around work zones and portable public toilets are examples of temporary facilities in the public right-of-way that are covered by the requirements in this document.
+**Advisory R201.2 Temporary and Permanent Facilities.** Temporary pedestrian circulation paths around work zones and portable public toilets are examples of temporary facilities in the public right-of-way that are covered by the requirements in this document.
 
-**R201.3 Buildings and Structures.** Buildings and structures in the
+#### R201.3 Buildings and Structures
+Buildings and structures in the
 public right-of-way that are not covered by the requirements in this
 document shall comply with the applicable requirements in 36 CFR part
 1191.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  {: .advisory}
   **Advisory R201.3 Buildings and Structures.** Towers and temporary performance stages and reviewing stands are examples of structures that may be provided in the public right-of-way and are not covered by the requirements in this document. These structures are required to comply with the applicable requirements in the Americans with Disabilities Act Accessibility Guidelines for Buildings and Facilities and the Architectural Barriers Act Accessibility Guidelines (36 CFR part 1191).
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-\
-**R202 Alterations and Elements Added to Existing Facilities**\
-\
-**R202.1 General.** Alterations and elements added to existing
+### R202 Alterations and Elements Added to Existing Facilities
+
+#### R202.1 General
+Alterations and elements added to existing
 facilities shall comply with R202. Where elements are altered or added
 and the pedestrian circulation path to the altered or added elements is
 not altered, the pedestrian circulation path is not required to comply
 with R204.
 
-  -----------------------------------------------------------------------------------------------------------------------
-  **Advisory R202.1 General.** Where possible, added elements should be located on an existing pedestrian access route.
-  -----------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R202.1 General.** Where possible, added elements should be located on an existing pedestrian access route.
 
-**R202.2 Added Elements.** Where elements are added to existing
+#### R202.2 Added Elements
+Where elements are added to existing
 facilities, the added elements shall comply with the applicable
 requirements for new construction.
 
-**R202.3 Alterations.** Where existing elements, spaces, or facilities
+#### R202.3 Alterations
+Where existing elements, spaces, or facilities
 are altered, each altered element, space, or facility within the scope
 of the project shall comply with the applicable requirements for new
 construction.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R202.3 Alterations.** The alteration of multiple elements or spaces within a facility may provide a cost-effective opportunity to make the entire facility or a significant portion of the facility accessible.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R202.3 Alterations.** The alteration of multiple elements or spaces within a facility may provide a cost-effective opportunity to make the entire facility or a significant portion of the facility accessible.
 
-**R202.3.1 Existing Physical Constraints.** Where existing physical
+##### R202.3.1 Existing Physical Constraints
+Where existing physical
 constraints make it impracticable for altered elements, spaces, or
 facilities to fully comply with the requirements for new construction,
 compliance is required to the extent practicable within the scope of the
@@ -66,11 +68,13 @@ underlying terrain, right-of-way availability, underground structures,
 adjacent developed facilities, drainage, or the presence of a notable
 natural or historic feature.
 
-**R202.3.2 Transitional Segments.** Transitional segments of pedestrian
+##### R202.3.2 Transitional Segments
+Transitional segments of pedestrian
 access routes shall connect to existing unaltered segments of pedestrian
 circulation paths and shall comply with R302 to the extent practicable.
 
-**R202.3.3 Reduction in Access Prohibited.** An alteration shall not
+##### R202.3.3 Reduction in Access Prohibited
+An alteration shall not
 decrease or have the effect of decreasing the accessibility of a
 facility or an accessible connection to an adjacent building or site
 below the requirements for new construction in effect at the time of the
