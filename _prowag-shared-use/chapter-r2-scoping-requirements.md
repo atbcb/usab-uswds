@@ -97,29 +97,24 @@ does not threaten or destroy historically significant features of the
 facility.
 
   {: .advisory}
-  **Advisory R202.3.4 Alterations to Qualified Historic Facilities.** Where there is a federal agency \"undertaking\", as defined in 36 CFR 800.16 (y), the requirements in section 106 of the National Historic Preservation Act (16 U.S.C. 470f) and 36 CFR part 800 apply. Location of a facility within an historic district by itself does not excuse compliance with the requirements in this document. The State Historic Preservation Officer or Advisory Council on Historic Preservation must determine that compliance would threaten or destroy historically significant features of the facility. Reproductions or replications of historic facilities are not qualified historic facilities.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  **Advisory R202.3.4 Alterations to Qualified Historic Facilities.** Where there is a federal agency "undertaking", as defined in 36 CFR 800.16 (y), the requirements in section 106 of the National Historic Preservation Act (16 U.S.C. 470f) and 36 CFR part 800 apply. Location of a facility within an historic district by itself does not excuse compliance with the requirements in this document. The State Historic Preservation Officer or Advisory Council on Historic Preservation must determine that compliance would threaten or destroy historically significant features of the facility. Reproductions or replications of historic facilities are not qualified historic facilities.
 
-**\
-R203 Machinery Spaces.** Vaults, tunnels, and other spaces used by
+### R203 Machinery Spaces
+Vaults, tunnels, and other spaces used by
 service personnel only for maintenance, repair, or monitoring are not
 required to comply with this document.
 
-**\
-R204 Pedestrian Access Routes**
+### R204 Pedestrian Access Routes
 
-**R204.1 General.** Pedestrian access routes shall be provided in
+#### R204.1 General
+Pedestrian access routes shall be provided in
 accordance with R204 and shall comply with R302.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R204.1 General.** The Federal Highway Administration (FHWA) has issued guidance on the obligations of state and local governments to keep pedestrian access routes open and usable throughout the year, including snow and debris removal. The guidance is available at FHWA's website: <http://www.fhwa.dot.gov/civilrights/programs/ada_sect504qa.htm>.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R204.1 General.** The Federal Highway Administration (FHWA) has issued guidance on the obligations of state and local governments to keep pedestrian access routes open and usable throughout the year, including snow and debris removal. The guidance is available at FHWA's website: [http://www.fhwa.dot.gov/civilrights/programs/ada_sect504qa.htm](http://www.fhwa.dot.gov/civilrights/programs/ada_sect504qa.htm).
 
- 
-
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **R204.2 Pedestrian Circulation Paths. A pedestrian access route shall be provided within pedestrian circulation paths located in the public right-of-way. The pedestrian access route shall connect to accessible elements, spaces, and facilities required by this document and to accessible routes required by section 206.2.1 of appendix B to 36 CFR part 1191 or section F206.2.1 of appendix C to 36 CFR 1191 that connect building and facility entrances to public streets and sidewalks.**
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  #### R204.2 Pedestrian Circulation Paths
+  A pedestrian access route shall be provided within pedestrian circulation paths located in the public right-of-way. The pedestrian access route shall connect to accessible elements, spaces, and facilities required by this document and to accessible routes required by section 206.2.1 of appendix B to 36 CFR part 1191 or section F206.2.1 of appendix C to 36 CFR 1191 that connect building and facility entrances to public streets and sidewalks.
 
  
 
