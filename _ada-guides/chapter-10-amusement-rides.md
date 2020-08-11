@@ -8,6 +8,7 @@ file-description: PDF version
 ![roller
 coaster]({{ site.baseurl }}{{ page.image-directory }}chapter10/amusement/roller-coaster.jpg){: .float-right}
 
+
 >*"Whenever any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
 and justice. The promise of the ADA...has enabled people with

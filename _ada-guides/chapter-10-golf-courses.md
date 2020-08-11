@@ -52,6 +52,7 @@ route]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-6_h
 
 
 #### Alternative Golf Car Passage
+
 Providing an accessible route that complies with ADAAG may be
 impractical throughout a golf course for several reasons. First, the
 route of play for a golfer is dependent on where the ball lands and is
@@ -111,6 +112,7 @@ barriers]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-
 
 
 #### Course Barriers
+
 Curbing or other man-made barriers often line golf car paths to restrict
 golf cars from entering certain portions of the course or to reduce
 erosion. Where man-made barriers are provided that prevent golf cars
@@ -125,8 +127,7 @@ time requirements.
 
 
 ### Teeing Grounds
-![illustration of teeing
-ground]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-8hi.jpg){: .img-right}
+![illustration of teeing ground]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-8hi.jpg){: .img-right}
 The \"teeing ground\" is the starting place for a hole of golf. A
 rectangular area usually two club-lengths in depth, the teeing ground's
 borders are defined by the outside limits of two "tee-markers." The
@@ -148,12 +149,7 @@ limits.
     different tees appropriate to their skill level, while providing
     flexibility to course operators and designers.
 
-![illustration of multiple teeing
-grounds]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-8lo.jpg){: .img-medium .center}
-
-
----
-
+![illustration of multiple teeing grounds]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-8lo.jpg){: .img-medium .center}
 
 ### Putting Greens
 Each putting green must be designed and constructed so that a golf car can
@@ -161,9 +157,6 @@ enter and exit the green. The green must be connected by a golf car
 passage so that a golf car can reach the green.
 ![illustration of putting
 green]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-9hi.jpg){: .img-medium .center}
-
-
----
 
 
 ### Weather Shelters
