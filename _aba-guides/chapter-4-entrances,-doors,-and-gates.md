@@ -3,7 +3,7 @@ title: "Chapter 4: Entrances, Doors, and Gates"
 order-number: 8
 permalink: /aba/guides/
 file: entrances-ABA.pdf
-file-description: PDF version of Chapter 4 Entrances
+file-description: PDF version of Chapter 4 Entrances, Doors, and Gates Guide
 ---
 This guide explains scoping and technical requirements for accessible entrances, doors and gates in the [ADA Standards](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards). 
 
