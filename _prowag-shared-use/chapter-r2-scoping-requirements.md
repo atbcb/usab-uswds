@@ -116,19 +116,16 @@ accordance with R204 and shall comply with R302.
   #### R204.2 Pedestrian Circulation Paths
   A pedestrian access route shall be provided within pedestrian circulation paths located in the public right-of-way. The pedestrian access route shall connect to accessible elements, spaces, and facilities required by this document and to accessible routes required by section 206.2.1 of appendix B to 36 CFR part 1191 or section F206.2.1 of appendix C to 36 CFR 1191 that connect building and facility entrances to public streets and sidewalks.
 
- 
+{: .advisory}
+**Advisory R204.2 Pedestrian Circulation Paths.** The accessible elements, spaces, and facilities located in the public right-of-way that pedestrian access routes must connect to include accessible pedestrian signals and pedestrian pushbuttons (see R209), street furniture (see R212), boarding and alighting areas and boarding platforms at transit stops (see R213 and R308.1.3.2), transit shelters (see R213 and R308.2), accessible on-street parking spaces (see R214 and R309), parking meters and parking pay stations serving accessible parking spaces (see R309.5), and accessible passenger loading zones (see R215 and R310).
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R204.2 Pedestrian Circulation Paths.** The accessible elements, spaces, and facilities located in the public right-of-way that pedestrian access routes must connect to include accessible pedestrian signals and pedestrian pushbuttons (see R209), street furniture (see R212), boarding and alighting areas and boarding platforms at transit stops (see R213 and R308.1.3.2), transit shelters (see R213 and R308.2), accessible on-street parking spaces (see R214 and R309), parking meters and parking pay stations serving accessible parking spaces (see R309.5), and accessible passenger loading zones (see R215 and R310).
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**R204.3 Pedestrian Street Crossings.** A pedestrian access route shall
-be provided within pedestrian street crossings, including medians and
+#### R204.3 Pedestrian Street Crossings
+A pedestrian access route shall be provided within pedestrian street crossings, including medians and
 pedestrian refuge islands, and pedestrian at-grade rail crossings. The
 pedestrian access route shall connect departure and arrival sidewalks.
 
-**R204.4 Pedestrian Overpasses and Underpasses.** A pedestrian access
-route shall be provided within overpasses, underpasses, bridges, and
+#### R204.4 Pedestrian Overpasses and Underpasses
+A pedestrian access route shall be provided within overpasses, underpasses, bridges, and
 similar structures that contain pedestrian circulation paths. Where an
 overpass, underpass, bridge, or similar structure is designed for
 pedestrian use only and the approach slope to the structure exceeds 5
@@ -136,12 +133,11 @@ percent, a ramp, elevator, limited use/limited application elevator, or
 platform lift shall be provided. Elevators and platform lifts shall be
 unlocked during the operating hours of the facility served.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R204.4 Pedestrian Overpasses and Underpasses.** Where an overpass, underpass, bridge, or similar structure is designed for both pedestrian and vehicle use and the pedestrian access route is contained within the street or highway right-of-way, the grade of the pedestrian access route must not exceed the general grade established for the adjacent street or highway (see R302.5). Where the pedestrian access route is not contained within the street or highway right-of-way, the grade of the pedestrian access route must be 5 percent maximum (see R302.5). Where pedestrian overpasses or underpasses provide an alternative pedestrian circulation path to street level crossings, both the pedestrian overpass or underpass and the street level crossing must contain a pedestrian access route. State and local governments can provide a ramp, elevator, or lift at overpasses and underpasses designed for pedestrian use only. Long ramps present difficulties for some pedestrians with disabilities and can require snow clearance. Elevators or lifts can require maintenance.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R204.4 Pedestrian Overpasses and Underpasses.** Where an overpass, underpass, bridge, or similar structure is designed for both pedestrian and vehicle use and the pedestrian access route is contained within the street or highway right-of-way, the grade of the pedestrian access route must not exceed the general grade established for the adjacent street or highway (see R302.5). Where the pedestrian access route is not contained within the street or highway right-of-way, the grade of the pedestrian access route must be 5 percent maximum (see R302.5). Where pedestrian overpasses or underpasses provide an alternative pedestrian circulation path to street level crossings, both the pedestrian overpass or underpass and the street level crossing must contain a pedestrian access route. State and local governments can provide a ramp, elevator, or lift at overpasses and underpasses designed for pedestrian use only. Long ramps present difficulties for some pedestrians with disabilities and can require snow clearance. Elevators or lifts can require maintenance.
 
-**R205 Alternate Pedestrian Access Routes.** When a pedestrian
-circulation path is temporarily closed by construction, alterations,
+### R205 Alternate Pedestrian Access Routes
+When a pedestrian circulation path is temporarily closed by construction, alterations,
 maintenance operations, or other conditions, an alternate pedestrian
 access route complying with sections 6D.01, 6D.02, and 6G.05 of the
 MUTCD (incorporated by reference, see R104.2) shall be provided. Where
@@ -149,94 +145,70 @@ provided, pedestrian barricades and channelizing devices shall comply
 with sections 6F.63, 6F.68, and 6F.71 of the MUTCD (incorporated by
 reference, see R104.2).
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R205 Alternate Pedestrian Access Routes.** Section 6G.05 of the MUTCD recommends that whenever possible work should be done in a manner that does not create a need to detour pedestrians from existing pedestrian routes. Extra distance and additional pedestrian street crossings add complexity to a trip and increase exposure of risk to accidents. Sections 6D.01and 6G.05 of the MUTCD require alternate pedestrian routes to be accessible and detectable, including warning pedestrians who are blind or have low vision about sidewalk closures. Proximity-actuated audible signs are a preferred means to warn pedestrians who are blind or have low vision about sidewalk closures.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R205 Alternate Pedestrian Access Routes.** Section 6G.05 of the MUTCD recommends that whenever possible work should be done in a manner that does not create a need to detour pedestrians from existing pedestrian routes. Extra distance and additional pedestrian street crossings add complexity to a trip and increase exposure of risk to accidents. Sections 6D.01and 6G.05 of the MUTCD require alternate pedestrian routes to be accessible and detectable, including warning pedestrians who are blind or have low vision about sidewalk closures. Proximity-actuated audible signs are a preferred means to warn pedestrians who are blind or have low vision about sidewalk closures.
 
-\
-**R206 Pedestrian Street Crossings.** Pedestrian street crossings shall
-comply with R306.
+### R206 Pedestrian Street Crossings
+Pedestrian street crossings shall comply with R306.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R206 Pedestrian Street Crossings.** All pedestrian street crossings must be accessible to pedestrians with disabilities. If pedestrian crossing is prohibited at certain locations, \"No Pedestrian Crossing\" signs should be provided along with detectable features, such as grass strips, landscaping, planters, chains, fencing, railings, or other barriers.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R206 Pedestrian Street Crossings.** All pedestrian street crossings must be accessible to pedestrians with disabilities. If pedestrian crossing is prohibited at certain locations, "No Pedestrian Crossing" signs should be provided along with detectable features, such as grass strips, landscaping, planters, chains, fencing, railings, or other barriers.
 
-\
-**R207 Curb Ramps and Blended Transitions**
+### R207 Curb Ramps and Blended Transitions
 
-**R207.1 General.** A curb ramp, blended transition, or a combination of
+#### R207.1 General
+A curb ramp, blended transition, or a combination of
 curb ramps and blended transitions complying with R304 shall connect the
 pedestrian access routes at each pedestrian street crossing. The curb
 ramp (excluding any flared sides) or blended transition shall be
 contained wholly within the width of the pedestrian street crossing
 served.
 
-**R207.2 Alterations.** In alterations where existing physical
-constraints prevent compliance with R207.1, a single diagonal curb ramp
+#### R207.2 Alterations
+In alterations where existing physical constraints prevent compliance with R207.1, a single diagonal curb ramp
 shall be permitted to serve both pedestrian street crossings.
 
-\
-**R208 Detectable Warning Surfaces**
+### R208 Detectable Warning Surfaces
 
-**R208.1 Where Required.** Detectable warning surfaces complying with
-R305 shall be provided at the following locations on pedestrian access
+#### R208.1 Where Required
+Detectable warning surfaces complying with R305 shall be provided at the following locations on pedestrian access
 routes and at transit stops:
 
-1.  Curb ramps and blended transitions at pedestrian street crossings;
-2.  Pedestrian refuge islands;
-3.  Pedestrian at-grade rail crossings not located within a street or
+1. Curb ramps and blended transitions at pedestrian street crossings;
+2. Pedestrian refuge islands;
+3. Pedestrian at-grade rail crossings not located within a street or
     highway;
-4.  Boarding platforms at transit stops for buses and rail vehicles
+4. Boarding platforms at transit stops for buses and rail vehicles
     where the edges of the boarding platform are not protected by
     screens or guards; and
-5.  Boarding and alighting areas at sidewalk or street level transit
+5. Boarding and alighting areas at sidewalk or street level transit
     stops for rail vehicles where the side of the boarding and alighting
     areas facing the rail vehicles is not protected by screens or
     guards.
 
-+-----------------------------------------------------------------------+
-| **Advisory R208.1 Where Required.** On pedestrian access routes,      |
-| detectable warning surfaces indicate the boundary between pedestrian  |
-| and vehicular routes where there is a flush rather than a curbed      |
-| connection. Detectable warning surfaces should not be provided at     |
-| crossings of residential driveways since the pedestrian right-of-way  |
-| continues across residential driveway aprons. However, where          |
-| commercial driveways are provided with yield or stop control,         |
-| detectable warning surfaces should be provided at the junction        |
-| between the pedestrian route and the vehicular route. Where           |
-| pedestrian at-grade rail crossings are located within a street or     |
-| highway, detectable warning surfaces at the curb ramps or blended     |
-| transitions make a second set of detectable warning surfaces at the   |
-| rail crossing unnecessary.                                            |
-|                                                                       |
-| Detectable warning surfaces are not intended to provide wayfinding    |
-| for pedestrians who are blind or have low vision. Wayfinding can be   |
-| made easier by:                                                       |
-|                                                                       |
-| -   Sidewalks that provide a clear path free of street furniture;     |
-| -   Visual contrast between walking and non-walking areas (e.g.,      |
-|     planted borders);                                                 |
-| -   Route edges that are clear and detectable by cane;                |
-| -   Direct pedestrian street crossings and curb ramps that are        |
-|     in-line with direction of travel;                                 |
-| -   Small corner radiuses that permit pedestrian street crossings to  |
-|     be as short and direct as possible;                               |
-| -   Orthogonal intersections that facilitate navigation using         |
-|     parallel and perpendicular vehicle sound cues; and                |
-| -   Barriers where pedestrian travel or crossing is not permitted.    |
-+-----------------------------------------------------------------------+
+<div class="advisory" markdown="1">
+**Advisory R208.1 Where Required.** On pedestrian access routes, detectable warning surfaces indicate the boundary between pedestrian and vehicular routes where there is a flush rather than a curbed connection. Detectable warning surfaces should not be provided at crossings of residential driveways since the pedestrian right-of-way continues across residential driveway aprons. However, where commercial driveways are provided with yield or stop control, detectable warning surfaces should be provided at the junction between the pedestrian route and the vehicular route. Where pedestrian at-grade rail crossings are located within a street or highway, detectable warning surfaces at the curb ramps or blended transitions make a second set of detectable warning surfaces at the rail crossing unnecessary.
 
-**R208.2 Where Not Required.** Detectable warning surfaces are not
-required at pedestrian refuge islands that are cut-through at street
+Detectable warning surfaces are not intended to provide wayfinding for pedestrians who are blind or have low vision. Wayfinding can be made easier by:
+
+- Sidewalks that provide a clear path free of street furniture;
+- Visual contrast between walking and non-walking areas (e.g., planted borders);
+- Route edges that are clear and detectable by cane;
+- Direct pedestrian street crossings and curb ramps that are in-line with direction of travel;
+- Small corner radiuses that permit pedestrian street crossings to be as short and direct as possible;
+- Orthogonal intersections that facilitate navigation using parallel and perpendicular vehicle sound cues; and
+- Barriers where pedestrian travel or crossing is not permitted.
+</div>
+
+#### R208.2 Where Not Required
+Detectable warning surfaces are not required at pedestrian refuge islands that are cut-through at street
 level and are less than 1.8 meters (6.0 ft) in length in the direction
 of pedestrian travel.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R208.2 Where Not Required.** Detectable warning surfaces are not required at cut-through pedestrian refuge islands that are less than 1.8 meters (6.0 ft) in length because detectable warning surfaces must extend 610 millimeters (2.0 ft) minimum on each side of the island and be separated by 610 millimeters (2.0 ft) minimum length of island without detectable warning surfaces (see R305.1.4 and R305.2.4). Installing detectable warning surfaces at cut-through pedestrian islands that are less than 1.8 meters (6.0 ft) in length would compromise the effectiveness of detectable warning surfaces. Where a cut-through pedestrian refuge island is less than 1.8 m (6.0 ft) in length and the pedestrian street crossing is signalized, the signal should be timed for a complete crossing of the street.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R208.2 Where Not Required.** Detectable warning surfaces are not required at cut-through pedestrian refuge islands that are less than 1.8 meters (6.0 ft) in length because detectable warning surfaces must extend 610 millimeters (2.0 ft) minimum on each side of the island and be separated by 610 millimeters (2.0 ft) minimum length of island without detectable warning surfaces (see R305.1.4 and R305.2.4). Installing detectable warning surfaces at cut-through pedestrian islands that are less than 1.8 meters (6.0 ft) in length would compromise the effectiveness of detectable warning surfaces. Where a cut-through pedestrian refuge island is less than 1.8 m (6.0 ft) in length and the pedestrian street crossing is signalized, the signal should be timed for a complete crossing of the street.
 
-**\
-R209 Accessible Pedestrian Signals and Pedestrian Pushbuttons**
+###   R209 Accessible Pedestrian Signals and Pedestrian Pushbuttons
 
 **R209.1 General.** Where pedestrian signals are provided at pedestrian
 street crossings, they shall include accessible pedestrian signals and
