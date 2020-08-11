@@ -1,19 +1,14 @@
 ---
-layout: wide
+layout: default
 permalink: /news/
 pagination:
   enabled: true
 ---
 
-<div id="section-title" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
-  <div class="grid-container">
-    <h1 class="text-normal text-white margin-0">Access Currents</h1>
-    <p class="text-base-lighter display-block padding-top-1 text-light">News from the U.S. Access Board, including material
-      from our bimonthy newsletter.
-    </p>
-  </div>
-</div>
-<div class="grid-container">
+{% include section-title.html title= "Access Currents" description= "News from the U.S. Access Board, including material
+from our bimonthy newsletter." %}
+
+<div class="grid-container maxw-desktop">
   <div class="grid-row">
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
       <!-- This loops through the paginated posts -->
@@ -33,8 +28,7 @@ pagination:
         </div>
         <div>
           {% if post.image %} {% asset "{{ post.image }}"
-          class="tablet:float-left tablet:width-1/3 padding-right-3
-          padding-top-1" alt="{{ post.image_alt_text }}" %} {% endif %} {{
+          class="img-right maxw-card-lg" alt="{{ post.image_alt_text }}" %} {% endif %} {{
           post.content }} {% comment %} We default to using post.content, but
           you can also use post.excerpt. If you use excerpt then you have to
           make sure the content is on each post header {% endcomment %}

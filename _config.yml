@@ -179,7 +179,8 @@ defaults:
       path: ""
       type: "ada"
     values:
-      collection-title: "Americans with Disabilities Act Accessibility Standards"
+      collection-title: "Americans with Disabilities Act"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: ada
       layout: standards
       file-directory: /files/ada-aba/

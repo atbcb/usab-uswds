@@ -1,5 +1,5 @@
 ---
-layout: wide
+layout: default
 permalink: /webinars/
 pagination:
   enabled: true
@@ -20,13 +20,13 @@ pagination:
           <div class="text-base margin-bottom-2">
             <div class="margin-top-neg-105">
               <span>Date: {{ webinar.webinar-date | date: '%B %d, %Y' }}</span><br>
-              <span>Time: {{ webinar.webinar-time }}</span><br>
+              <span>Time: {{ webinar.webinar-date | time: '%h %m' }}</span><br>
               <span><a href="{{ webinar.registration-link }}">Registration Link</a></span> 
             </div>
           </div>
           <div class="clearfix">
             {% if webinar.image %} {% asset "{{ webinar.image }}"
-            class="img-right" alt="{{ webinar.image_alt_text }}" %} {% endif %} {{
+            class="img-right maxw-card-lg" alt="{{ webinar.image_alt_text }}" %} {% endif %} {{
             webinar.content }}
           </div>
         </div>
