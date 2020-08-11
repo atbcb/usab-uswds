@@ -80,29 +80,23 @@ facility or an accessible connection to an adjacent building or site
 below the requirements for new construction in effect at the time of the
 alteration.
 
-+-----------------------------------------------------------------------+
-| **Advisory R202.3.3 Reduction in Access Prohibited.** Sidewalk        |
-| improvements that correct existing excessive cross slope should be    |
-| carefully planned to avoid creating excessive slope in curb ramps or  |
-| adding a step at existing building entrances. Solutions may include:  |
-|                                                                       |
-| -   Split sidewalks that serve building entrances and street or       |
-|     highway at separate levels;                                       |
-| -   Sidewalks with greater cross slope along the curb and pedestrian  |
-|     access routes with lesser cross slope along building fronts;      |
-| -   Pedestrian access routes along the curb and ramped entrances to   |
-|     buildings.                                                        |
-+-----------------------------------------------------------------------+
+<div class="advisory" markdown="1">
+**Advisory R202.3.3 Reduction in Access Prohibited.** Sidewalk improvements that correct existing excessive cross slope should be carefully planned to avoid creating excessive slope in curb ramps or adding a step at existing building entrances. Solutions may include:
 
-**R202.3.4 Alterations to Qualified Historic Facilities.** Where the
-State Historic Preservation Officer or Advisory Council on Historic
+- Split sidewalks that serve building entrances and street or highway at separate levels;
+- Sidewalks with greater cross slope along the curb and pedestrian access routes with lesser cross slope along building fronts;
+- Pedestrian access routes along the curb and ramped entrances to buildings.                                                        
+</div>
+
+##### R202.3.4 Alterations to Qualified Historic Facilities
+Where the State Historic Preservation Officer or Advisory Council on Historic
 Preservation determines that compliance with a requirement would
 threaten or destroy historically significant features of a qualified
 historic facility, compliance shall be required to the extent that it
 does not threaten or destroy historically significant features of the
 facility.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  {: .advisory}
   **Advisory R202.3.4 Alterations to Qualified Historic Facilities.** Where there is a federal agency \"undertaking\", as defined in 36 CFR 800.16 (y), the requirements in section 106 of the National Historic Preservation Act (16 U.S.C. 470f) and 36 CFR part 800 apply. Location of a facility within an historic district by itself does not excuse compliance with the requirements in this document. The State Historic Preservation Officer or Advisory Council on Historic Preservation must determine that compliance would threaten or destroy historically significant features of the facility. Reproductions or replications of historic facilities are not qualified historic facilities.
   ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
