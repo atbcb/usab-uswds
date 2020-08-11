@@ -1,6 +1,7 @@
-﻿---
+---
 title: "Chapter 3: Clear Floor or Ground Space and Turning Space"
 order-number: 5
+permalink: /aba/guides/
 file: clear-floor-space-ABA.pdf
 file-description: PDF version of Chapter 3 Clear Floor Space Guide
 ---
