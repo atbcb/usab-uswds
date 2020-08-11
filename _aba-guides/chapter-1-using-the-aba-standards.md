@@ -1,4 +1,4 @@
-﻿---
+---
 title: "Chapter 1: Using the ABA Standards"
 order-number: 1
 permalink: /aba/guides/
