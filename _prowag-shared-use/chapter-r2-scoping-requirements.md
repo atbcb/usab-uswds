@@ -4,24 +4,23 @@ order-number: 2
 version: improved
 ---
 
-**R201 Application**
+### R201 Application
 
-**R201.1 Scope.** All newly constructed facilities, altered portions of
+#### R201.1 Scope
+All newly constructed facilities, altered portions of
 existing facilities, and elements added to existing facilities for
 pedestrian circulation and use located in the public right-of-way shall
 comply with the requirements in this document.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R201.1 Scope.** The requirements in this document are to be applied to all areas of a facility within the scope of the project. Where multiple features of the same type are provided, such as on-street parking spaces, and a percentage of the features are required to be accessible, only the required number of features must comply with the technical requirements in this document and be connected to a pedestrian access route. Where elements are provided on a site that is a designated portion of a public right-of-way, the elements are required to comply with the applicable requirements in this document instead of the requirements in the Americans with Disabilities Act Accessibility Guidelines for Buildings and Facilities and the Architectural Barriers Act Accessibility Guidelines (36 CFR part 1191).
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**R201.2 Temporary and Permanent Facilities.** The requirements in this
+  {: .advisory}
+  Advisory R201.1 Scope. The requirements in this document are to be applied to all areas of a facility within the scope of the project. Where multiple features of the same type are provided, such as on-street parking spaces, and a percentage of the features are required to be accessible, only the required number of features must comply with the technical requirements in this document and be connected to a pedestrian access route. Where elements are provided on a site that is a designated portion of a public right-of-way, the elements are required to comply with the applicable requirements in this document instead of the requirements in the Americans with Disabilities Act Accessibility Guidelines for Buildings and Facilities and the Architectural Barriers Act Accessibility Guidelines (36 CFR part 1191).
+#### R201.2 Temporary and Permanent Facilities
+The requirements in this
 document shall apply to temporary and permanent facilities in the public
 right-of-way.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R201.2 Temporary and Permanent Facilities.** Temporary pedestrian circulation paths around work zones and portable public toilets are examples of temporary facilities in the public right-of-way that are covered by the requirements in this document.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+Advisory R201.2 Temporary and Permanent Facilities. Temporary pedestrian circulation paths around work zones and portable public toilets are examples of temporary facilities in the public right-of-way that are covered by the requirements in this document.
 
 **R201.3 Buildings and Structures.** Buildings and structures in the
 public right-of-way that are not covered by the requirements in this
