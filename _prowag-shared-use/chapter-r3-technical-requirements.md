@@ -3,41 +3,35 @@ title: "Chapter R3: Technical Requirements"
 order-number: 3
 version: improved
 ---
-**R301 General**
 
-**R301.1 Scope.** The technical requirements in Chapter 3 shall apply
+### R301 General
+
+#### R301.1 Scope
+The technical requirements in Chapter 3 shall apply
 where required by Chapter 2 or where referenced by a requirement in this
 document.
 
-**\
-R302 Pedestrian Access Routes\
-\
-R302.1 General.** Pedestrian access routes shall comply with R302.\
-\
-**R302.2 Components.** Pedestrian access routes shall consist of one or
+### R302 Pedestrian Access Routes
+
+#### R302.1 General
+Pedestrian access routes shall comply with R302.
+
+#### R302.2 Components
+Pedestrian access routes shall consist of one or
 more of the following components:
 
-1.  Sidewalks and other pedestrian circulation paths, or a portion of
-    sidewalks and other pedestrian circulation paths, complying with
-    R302.3 through R302.7;
-2.  Pedestrian street crossings and at-grade rail crossings complying
-    with R302.3 through R302.7, and R306;
-3.  Pedestrian overpasses and underpasses and similar structures
-    complying with R302.3 through R302.7;
-4.  Curb ramps and blended transitions complying with R302.7 and R304;
-5.  Ramps complying with R407;
-6.  Elevators and limited use/limited application elevators complying
-    with sections 407 or 408 of Appendix D to 36 CFR part 1191;
-7.  Platform lifts complying with section 410 of Appendix D to 36 CFR
-    part 1191; and
-8.  Doors, doorways, and gates complying with section 404 of Appendix D
-    to 36 CFR part 1191.
+1. Sidewalks and other pedestrian circulation paths, or a portion of sidewalks and other pedestrian circulation paths, complying with R302.3 through R302.7;
+2. Pedestrian street crossings and at-grade rail crossings complying with R302.3 through R302.7, and R306;
+3. Pedestrian overpasses and underpasses and similar structures complying with R302.3 through R302.7;
+4. Curb ramps and blended transitions complying with R302.7 and R304;
+5. Ramps complying with R407;
+6. Elevators and limited use/limited application elevators complying with sections 407 or 408 of Appendix D to 36 CFR part 1191;
+7. Platform lifts complying with section 410 of Appendix D to 36 CFR part 1191; and
+8. Doors, doorways, and gates complying with section 404 of Appendix D to 36 CFR part 1191.
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R302.2 Components.** The technical requirement for elevators, limited use/limited application elevators, platform lifts, and doors, doorways, and gates are contained in the Americans with Disabilities Act Accessibility Guidelines for Buildings and Facilities and the Architectural Barriers Act Accessibility Guidelines (36 CFR part 1191).
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R302.2 Components.** The technical requirement for elevators, limited use/limited application elevators, platform lifts, and doors, doorways, and gates are contained in the Americans with Disabilities Act Accessibility Guidelines for Buildings and Facilities and the Architectural Barriers Act Accessibility Guidelines (36 CFR part 1191).
 
- 
 
 +-----------------------------------------------------------------------+
 | **R302.3 Continuous Width. Except as provided in R302.3.1 and         |
