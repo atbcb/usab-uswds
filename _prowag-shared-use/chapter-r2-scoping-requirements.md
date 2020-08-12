@@ -4,7 +4,7 @@ order-number: 2
 version: improved
 ---
 
-### R201 Application
+### R201 Application Test
 
 #### R201.1 Scope
 All newly constructed facilities, altered portions of
@@ -16,7 +16,7 @@ comply with the requirements in this document.
   **Advisory R201.1 Scope.** The requirements in this document are to be applied to all areas of a facility within the scope of the project. Where multiple features of the same type are provided, such as on-street parking spaces, and a percentage of the features are required to be accessible, only the required number of features must comply with the technical requirements in this document and be connected to a pedestrian access route. Where elements are provided on a site that is a designated portion of a public right-of-way, the elements are required to comply with the applicable requirements in this document instead of the requirements in the Americans with Disabilities Act Accessibility Guidelines for Buildings and Facilities and the Architectural Barriers Act Accessibility Guidelines (36 CFR part 1191).
 
   #### R201.2 Temporary and Permanent Facilities
-  The requirements in this document shall apply to temporary and permanent facilities in the public
+The requirements in this document shall apply to temporary and permanent facilities in the public
 right-of-way.
 
 {: .advisory}
@@ -174,15 +174,9 @@ routes and at transit stops:
 
 1. Curb ramps and blended transitions at pedestrian street crossings;
 2. Pedestrian refuge islands;
-3. Pedestrian at-grade rail crossings not located within a street or
-    highway;
-4. Boarding platforms at transit stops for buses and rail vehicles
-    where the edges of the boarding platform are not protected by
-    screens or guards; and
-5. Boarding and alighting areas at sidewalk or street level transit
-    stops for rail vehicles where the side of the boarding and alighting
-    areas facing the rail vehicles is not protected by screens or
-    guards.
+3. Pedestrian at-grade rail crossings not located within a street or highway;
+4. Boarding platforms at transit stops for buses and rail vehicles where the edges of the boarding platform are not protected by screens or guards; and
+5. Boarding and alighting areas at sidewalk or street level transit stops for rail vehicles where the side of the boarding and alighting areas facing the rail vehicles is not protected by screens or guards.
 
 <div class="advisory" markdown="1">
 **Advisory R208.1 Where Required.** On pedestrian access routes, detectable warning surfaces indicate the boundary between pedestrian and vehicular routes where there is a flush rather than a curbed connection. Detectable warning surfaces should not be provided at crossings of residential driveways since the pedestrian right-of-way continues across residential driveway aprons. However, where commercial driveways are provided with yield or stop control, detectable warning surfaces should be provided at the junction between the pedestrian route and the vehicular route. Where pedestrian at-grade rail crossings are located within a street or highway, detectable warning surfaces at the curb ramps or blended transitions make a second set of detectable warning surfaces at the rail crossing unnecessary.
