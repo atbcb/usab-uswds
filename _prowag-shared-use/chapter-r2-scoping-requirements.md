@@ -210,91 +210,72 @@ of pedestrian travel.
 
 ###   R209 Accessible Pedestrian Signals and Pedestrian Pushbuttons
 
-**R209.1 General.** Where pedestrian signals are provided at pedestrian
-street crossings, they shall include accessible pedestrian signals and
+#### R209.1 General
+Where pedestrian signals are provided at pedestrian street crossings, they shall include accessible pedestrian signals and
 pedestrian pushbuttons complying with sections 4E.08 through 4E.13 of
 the MUTCD (incorporated by reference, see R104.2). Operable parts shall
 comply with R403.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R209 Accessible Pedestrian Signals and Pedestrian Pushbuttons.** An accessible pedestrian signal and pedestrian pushbutton is an integrated device that communicates information about the WALK and DON'T WALK intervals at signalized intersections in non-visual formats (i.e., audible tones and vibrotactile surfaces) to pedestrians who are blind or have low vision.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R209 Accessible Pedestrian Signals and Pedestrian Pushbuttons.** An accessible pedestrian signal and pedestrian pushbutton is an integrated device that communicates information about the WALK and DON'T WALK intervals at signalized intersections in non-visual formats (i.e., audible tones and vibrotactile surfaces) to pedestrians who are blind or have low vision.
 
-**R209.2 Alterations.** Existing pedestrian signals shall comply with
-R209.1 when the signal controller and software are altered, or the
+#### R209.2 Alterations
+Existing pedestrian signals shall comply with R209.1 when the signal controller and software are altered, or the
 signal head is replaced.
 
-+-----------------------------------------------------------------------+
-| **R210 Protruding Objects.**                                          |
-|                                                                       |
-| **R210.1 General. Protruding objects shall comply with the applicable |
-| requirements in R210.**                                               |
-+-----------------------------------------------------------------------+
+### R210 Protruding Objects
 
- 
+#### R210.1 General
+Protruding objects shall comply with the applicable requirements in R210.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+  {: .advisory}
   **Advisory R210.1 Protruding Objects.** Protruding objects can be hazardous for pedestrians, especially pedestrians who are blind or have low vision. The requirements for protruding objects in R402 apply across the entire width of the pedestrian circulation path, not just the pedestrian access route. In addition, objects must not reduce the clear width required for pedestrian access routes. State and local governments must comply with the requirements for protruding objects and maintain the clear width of pedestrian access routes when installing or permitting the installation of street furniture on sidewalks, including street lights, utility poles and equipment cabinets, sign posts and signs, parking meters, trash receptacles, public telephones, mailboxes, newspaper vending machines, benches, transit shelters, kiosks, bicycle racks, planters and planted trees, and street sculptures. The American Association of State Highway and Transportation Officials (AASHTO) recommends that local governments use an encroachment permit process to regulate the use of sidewalks by private entities for activities such as outdoor dining, vending carts and stands, and street fairs in order to control protruding objects and maintain the clear width of pedestrian access routes. See AASHTO, Guide for the Planning, Design, and Operation of Pedestrian Facilities (2004), section 3.2.3.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
- 
+#### R210.2 Pedestrian Circulation Paths Other Than Shared Use Paths
+Objects along or overhanging any portion of a pedestrian circulation path other than a shared use path shall comply with R402 and shall not reduce the clear width required for pedestrian access routes.
 
-+-----------------------------------------------------------------------+
-| **R210.2 Pedestrian Circulation Paths Other Than Shared Use Paths.    |
-| Objects along or overhanging any portion of a pedestrian circulation  |
-| path other than a shared use path shall comply with R402 and shall    |
-| not reduce the clear width required for pedestrian access routes.**   |
-|                                                                       |
-| **R210.3 Shared Use Paths. Objects shall not overhang or protrude     |
-| into any portion of a shared use path at or below 2.4 m (8.0 ft)      |
-| measured from the finish surface.**                                   |
-+-----------------------------------------------------------------------+
+#### R210.3 Shared Use Paths
+Objects shall not overhang or protrude into any portion of a shared use path at or below 2.4 m (8.0 ft) measured from the finish surface.
 
-\
-**R211 Signs**
+### R211 Signs
 
-**R211.1 General.** Signs shall comply with R211. Where audible sign
-systems and other technologies are used to provide information
+#### R211.1 General
+Signs shall comply with R211. Where audible sign systems and other technologies are used to provide information
 equivalent to the information contained on pedestrian signs and transit
 signs, the signs are not required to comply with R211.2 and R211.3.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
   **Advisory R211.1 General. ** Audible sign systems and other technologies that provide information equivalent to the information contained on signs are more usable by pedestrians who are blind or have low vision.  Remote infrared audible signs that transmit information to portable devices that are carried by and audible only to the user are an example of audible sign systems and other technologies.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
-**R211.2 Pedestrian Signs**. Signs, other than transit signs, that
-provide directions, warnings, or other information for pedestrians only
+  #### R211.2 Pedestrian Signs
+  Signs, other than transit signs, that provide directions, warnings, or other information for pedestrians only
 shall comply with R410.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R211.2 Pedestrian Signs.**  Pedestrian route signs along an historic trail, sidewalk closure and pedestrian detour signs, and tourist information signs are examples of signs that provide directions, warnings, or other information for pedestrians only.  Signs provided for motorists and pedestrians such as highway and street name signs are not required to comply with R410.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R211.2 Pedestrian Signs.**  Pedestrian route signs along an historic trail, sidewalk closure and pedestrian detour signs, and tourist information signs are examples of signs that provide directions, warnings, or other information for pedestrians only.  Signs provided for motorists and pedestrians such as highway and street name signs are not required to comply with R410.
 
-**R211.3 Transit Signs.** Signs that identify the routes served by
-transit stops shall comply with R410.
+#### R211.3 Transit Signs
+Signs that identify the routes served by transit stops shall comply with R410.
 
-  -------------------------------------------------------------------------------------------------------------------
-  **Advisory R211.3 Transit Signs.**  Transit schedules, timetables, and maps are not required to comply with R410.
-  -------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R211.3 Transit Signs.**  Transit schedules, timetables, and maps are not required to comply with R410.
 
-**R211.4 Accessible Parking Space and Passenger Loading Zone Signs.**
-Accessible parking spaces and accessible passenger loading zones shall
-be identified by signs displaying the International Symbol of
+#### R211.4 Accessible Parking Space and Passenger Loading Zone Signs
+Accessible parking spaces and accessible passenger loading zones shall be identified by signs displaying the International Symbol of
 Accessibility complying with R411. At accessible parallel parking spaces
 and accessible passenger loading zones, the signs shall be located at
 the head or foot of the parking space or passenger loading zone.
 
-\
-**R212 Street Furniture**
+### R212 Street Furniture
 
-**R212.1 General.** Where provided, street furniture shall comply with
-the applicable requirements in R212.
+#### R212.1 General
+Where provided, street furniture shall comply with the applicable requirements in R212.
 
-**R212.2 Drinking Fountains.** Drinking fountains shall comply with
-sections 602.1 through 602.6 of Appendix D to 36 CFR part 1191.
+#### R212.2 Drinking Fountains
+Drinking fountains shall comply with sections 602.1 through 602.6 of Appendix D to 36 CFR part 1191.
 
-**R212.3 Public Toilet Facilities.** Public toilet facilities shall
-comply with sections 206.2.4 and 603 of Appendix D to 36 CFR part 1191.
+#### R212.3 Public Toilet Facilities
+Public toilet facilities shall comply with sections 206.2.4 and 603 of Appendix D to 36 CFR part 1191.
 At least one fixture of each type provided shall comply with sections
 604 through 610 of Appendix D to 36 CFR part 1191. Where multiple
 single-user public toilet facilities are clustered at a single location,
@@ -302,33 +283,32 @@ at least 5 percent, but no less than one, of single-user toilets at each
 cluster shall comply with R212.3 and shall be identified by the
 International Symbol of Accessibility complying with R411.
 
-**R212.4 Tables.** At least 5 percent, but no less than one, of tables
+#### R212.4 Tables
+At least 5 percent, but no less than one, of tables
 at each location shall comply with section 902 of Appendix D to 36 CFR
 part 1191.
 
-**R212.5 Counters.** Counters shall comply with section 904 of Appendix
-D to 36 CFR part 1191.
+#### R212.5 Counters
+Counters shall comply with section 904 of Appendix D to 36 CFR part 1191.
 
-**R212.6 Benches.** At least 50 percent, but no less than one, of
-benches at each location shall provide clear space complying with R404
+#### R212.6 Benches
+At least 50 percent, but no less than one, of benches at each location shall provide clear space complying with R404
 adjacent to the bench. The clear space shall be located either at one
 end of the bench or shall not overlap the area within 460 mm (1.5 ft)
 from the front edge of the bench. Benches at tables are not required to
 comply.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R212.6 Benches**. Benches that provide full back support and armrests to assist in sitting and standing are more usable by pedestrians with disabilities.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R212.6 Benches**. Benches that provide full back support and armrests to assist in sitting and standing are more usable by pedestrians with disabilities.
 
-**R213 Transit Stops and Transit Shelters.** Where provided, transit
-stops and transit shelters shall comply with R308.
+### R213 Transit Stops and Transit Shelters
+Where provided, transit stops and transit shelters shall comply with R308.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R213 Transit Stops and Transit Shelters.** Transit stops in the public right-of-way typically serve fixed route bus systems, including bus rapid transit systems, and light rail transit systems. Signs that identify the routes served by the transit stop must comply with the technical requirements for visual characters on signs unless audible sign systems or other technologies are used to provide the information (see R211 and R410). The Federal Highway Administration (FHWA) has issued guidance on the obligations of state transportation departments, metropolitan planning organizations, and transit agencies to coordinate the planning and funding of accessibility improvements to transit systems and facilities. The guidance is available at FHWA's website: <http://www.fhwa.dot.gov/civilrights/memos/ada_memo_clarificationa.htm>.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R213 Transit Stops and Transit Shelters.** Transit stops in the public right-of-way typically serve fixed route bus systems, including bus rapid transit systems, and light rail transit systems. Signs that identify the routes served by the transit stop must comply with the technical requirements for visual characters on signs unless audible sign systems or other technologies are used to provide the information (see R211 and R410). The Federal Highway Administration (FHWA) has issued guidance on the obligations of state transportation departments, metropolitan planning organizations, and transit agencies to coordinate the planning and funding of accessibility improvements to transit systems and facilities. The guidance is available at FHWA's website: [http://www.fhwa.dot.gov/civilrights/memos/ada_memo_clarificationa.htm](http://www.fhwa.dot.gov/civilrights/memos/ada_memo_clarificationa.htm).
 
-**R214 On-Street Parking Spaces.** Where on-street parking is provided
-on the block perimeter and the parking is marked or metered, accessible
+### R214 On-Street Parking Spaces
+Where on-street parking is provided on the block perimeter and the parking is marked or metered, accessible
 parking spaces complying with R309 shall be provided in accordance with
 Table R214. Where parking pay stations are provided and the parking is
 not marked, each 6.1 m (20.0 ft) of block perimeter where parking is
