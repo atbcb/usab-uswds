@@ -90,9 +90,9 @@ collections:
           label: "Webinar Date",
           name: "webinar-date",
           widget: "datetime",
-          format: "MMMM D, YYYY",
+          format: "LLL",
           dateFormat: "MMMM D, YYYY",
-          timeFormat: true,
+          timeFormat: "hh:mm a",
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
