@@ -95,6 +95,12 @@ collections:
           timeFormat: "hh:mm a",
           required: false,
         }
+      - {
+          label: "Registration Link",
+          name: "registration-link",
+          widget: "string",
+          required: false,
+        }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Authors
     name: authors
