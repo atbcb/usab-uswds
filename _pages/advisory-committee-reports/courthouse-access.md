@@ -1,6 +1,7 @@
 ---
 title: Courthouse Access
-layout: 
+layout: page
+output: false
 file: caac-report.pdf
 file-description: PDF of Courthouse Access Advisory Committee Report
 ---

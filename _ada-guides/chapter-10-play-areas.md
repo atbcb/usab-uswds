@@ -12,7 +12,7 @@ Access Board does not evaluate or certify products for compliance with
 the accessibility guidelines. Users are advised to obtain and review
 product specifications for compliance with the accessibility guidelines.
 
-**INTRODUCTION**
+### Introduction
 
 The Americans with Disabilities Act (ADA) is a comprehensive civil
 rights law that prohibits discrimination on the basis of disability. The
@@ -41,28 +41,19 @@ Route?What Are the Requirements for Accessible Routes?What Other
 Accessibility Requirements Apply to Play Components?Soft Contained Play
 Structures
 
-**Further Information**\
-Technical assistance on the play area accessibility guidelines is
-available from the U.S. Access Board at 800-872-2253, 800-993-2822
-(TTY), [<pubs@access-board.gov>]{#cloak083ba4a567b1a0091dd544f40f76e08a}
-
-.  
-
-**Acknowledgments**\
+#### Acknowledgments
 The Access Board would like to thank the following manufacturers for
 their generous assistance: Bob Leathers, Columbia Cascade, GameTime,
 KOMPAN, Landscape Structures, Little Tikes, Miracle, Olympic Recreation,
 Playworld Systems, and Recreation Creations.   This manual was developed
 in part through a contract with KOMPAN, Inc., 50 Commercial Drive,
 Johnson City, New York 13790.
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1371 .attachmentsList}
-:::
-:::
 
+---
+
+
+### Play Area Terms
 Many terms are used throughout this guide to describe the play area
 guidelines. Familiarity with these terms is important when applying the
 guidelines. Other definitions are provided in the ADA and ABA
@@ -158,15 +149,15 @@ Standard Consumer Safety Performance Specification for Playground
 Equipment for Public Use for unrestricted circulation. This is the play
 surface upon which it is predicted a user would land when falling from
 or exiting the equipment.
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1372 .attachmentsList}
-:::
-:::
 
-**New Construction**\
+---
+
+
+### Application
+Where do the play area guides apply?
+
+#### New Construction
 The play area guidelines in this guide apply to all newly designed or
 constructed play areas for children ages 2 and older.  This includes
 play areas located in a variety of settings: parks, schools, childcare
@@ -180,7 +171,7 @@ The play area guidelines do not apply to:
 -   Amusement attractions
 -   Religious entities
 
-**Alterations**\
+#### Alterations
 The play area guidelines apply to alterations made to existing play
 areas that affect, or could affect, the usability of the play area. 
 Examples include removing a climbing play component and replacing it
@@ -205,11 +196,11 @@ is not changed or extended for more than one use zone.  Replacing the
 entire ground surface does not require the addition of more play
 components.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ![photo of a play area with composite structure and 2 spring riders](/images/guidelines_standards/Recreation_Facilities/playguide/23.jpg){width="296" height="245"}[ This play area was altered by adding two spring rockers (background).  The seat of at least one spring rocker is between 11 inches (280 mm) and 24 inches (610 mm) maximum, and clear floor or ground space and maneuvering space is provided.  If the ground surface is replaced in the future, an accessible route would have to be provided to the spring rocker. ]{style="clear: both;"}
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![photo of a play area with composite structure and 2 spring riders](/images/guidelines_standards/Recreation_Facilities/playguide/23.jpg){: .img-large}
+<div class="img-large-caption">This play area was altered by adding two spring rockers (background).  The seat of at least one spring rocker is between 11 inches (280 mm) and 24 inches (610 mm) maximum, and clear floor or ground space and maneuvering space is provided.  If the ground surface is replaced in the future, an accessible route would have to be provided to the spring rocker.</div>
 
-**Equivalent Facilitation**\
+
+ #### Equivalent Facilitation
 Designs, products, or technologies can be used as alternatives to those
 prescribed, provided they result in substantially equivalent or greater
 accessibility or usability.
@@ -220,7 +211,7 @@ guidelines.  These alternative solutions provide equal access and take
 advantage of new developments, but may differ technically from specific
 guidelines.
 
-**Phasing in Play Areas**\
+#### Phasing in Play Areas
 When play areas are constructed in phases, they must continue to meet
 the play area guidelines throughout construction.  The initial phase
 area must meet the guidelines, and then at each successive phase the
@@ -232,14 +223,12 @@ shown below will be installed in twp phases.  As each phase is
 completed, the entire play area must be reevaluated for compliance.
 
 ![Plan view of Phase A of
-project](/images/guidelines_standards/Recreation_Facilities/playguide/4.jpg){width="321"
-height="129"}
+project](/images/guidelines_standards/Recreation_Facilities/playguide/4.jpg){: .img-large}
 
 ![Plan view of Phase A and B
-projects](/images/guidelines_standards/Recreation_Facilities/playguide/3.jpg){width="401"
-height="229"}
+projects](/images/guidelines_standards/Recreation_Facilities/playguide/3.jpg){: .img-large}
 
-**Play Areas Separated by Age**\
+#### Play Areas Separated by Age
 To reduce the risk of injury, safety guidelines recommend separate play
 areas for different age groups.  In applying the guidelines, play areas
 designed for different age groups should be considered separately.  A
@@ -247,20 +236,17 @@ play area designed for 2 to 5 year-olds is considered separate from one
 for 5 to 12 year-olds.  Therefore, compliance with the guidelines must
 be considered for each individual play area.
 
-**Geographically Separated Play Areas**\
+#### Geographically Separated Play Areas
 Large geographical spaces may contain several play areas within one park
 setting.  Where play areas are geographically separated on a site, they
 are considered separate play areas.  The accessibility guidelines apply
 to each play area.
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1373 .attachmentsList}
-:::
-:::
 
-Play Components\
+---
+
+
+### Play Components
 A play component is an element designed to generate specific
 opportunities for play, socialization, and learning. Play components may
 be manufactured or natural, and may be stand alone or part of a
@@ -269,8 +255,8 @@ playhouses, slides, and climbers (right) are among the many different
 play components.
 
 ![photo of a girl on a spring
-rocker](/images/guidelines_standards/Recreation_Facilities/playguide/13.jpg){width="105"
-height="154"} For the purpose of the guidelines, ramps, transfer
+rocker](/images/guidelines_standards/Recreation_Facilities/playguide/13.jpg){: .img-left}
+For the purpose of the guidelines, ramps, transfer
 systems, steps, decks, and roofs are not considered play components.
 These elements are generally used to link other elements on a composite
 play structure. Although socialization and pretend play can occur on
