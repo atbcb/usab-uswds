@@ -112,8 +112,10 @@ accordance with R204 and shall comply with R302.
 {: .advisory}
 **Advisory R204.1 General.** The Federal Highway Administration (FHWA) has issued guidance on the obligations of state and local governments to keep pedestrian access routes open and usable throughout the year, including snow and debris removal. The guidance is available at FHWA's website: [http://www.fhwa.dot.gov/civilrights/programs/ada_sect504qa.htm](http://www.fhwa.dot.gov/civilrights/programs/ada_sect504qa.htm).
 
-  #### R204.2 Pedestrian Circulation Paths
+
+#### R204.2 Pedestrian Circulation Paths
   A pedestrian access route shall be provided within pedestrian circulation paths located in the public right-of-way. The pedestrian access route shall connect to accessible elements, spaces, and facilities required by this document and to accessible routes required by section 206.2.1 of appendix B to 36 CFR part 1191 or section F206.2.1 of appendix C to 36 CFR 1191 that connect building and facility entrances to public streets and sidewalks.
+
 
 {: .advisory}
 **Advisory R204.2 Pedestrian Circulation Paths.** The accessible elements, spaces, and facilities located in the public right-of-way that pedestrian access routes must connect to include accessible pedestrian signals and pedestrian pushbuttons (see R209), street furniture (see R212), boarding and alighting areas and boarding platforms at transit stops (see R213 and R308.1.3.2), transit shelters (see R213 and R308.2), accessible on-street parking spaces (see R214 and R309), parking meters and parking pay stations serving accessible parking spaces (see R309.5), and accessible passenger loading zones (see R215 and R310).
@@ -240,9 +242,11 @@ signs, the signs are not required to comply with R211.2 and R211.3.
 {: .advisory}
   **Advisory R211.1 General. ** Audible sign systems and other technologies that provide information equivalent to the information contained on signs are more usable by pedestrians who are blind or have low vision.  Remote infrared audible signs that transmit information to portable devices that are carried by and audible only to the user are an example of audible sign systems and other technologies.
 
-  #### R211.2 Pedestrian Signs
+
+#### R211.2 Pedestrian Signs
   Signs, other than transit signs, that provide directions, warnings, or other information for pedestrians only
 shall comply with R410.
+
 
 {: .advisory}
 **Advisory R211.2 Pedestrian Signs.**  Pedestrian route signs along an historic trail, sidewalk closure and pedestrian detour signs, and tourist information signs are examples of signs that provide directions, warnings, or other information for pedestrians only.  Signs provided for motorists and pedestrians such as highway and street name signs are not required to comply with R410.
@@ -317,7 +321,8 @@ permitted shall be counted as one parking space.
 | 76 to 100 | 4 |
 | 101 to 150 | 5 |
 | 151 to 200 | 6 |
-| 201 and over | 4% of total |
+| 201 and over | 4% of total |{: .usa-table}
+
 
 {: .advisory}
 **Advisory R214 On-Street Parking Spaces.** The MUTCD contains provisions for marking on-street parking spaces (see section 3B.19). Metered parking includes parking metered by parking pay stations. Where parking on part of the block perimeter is altered, the minimum number of accessible parking spaces required is based on the total number of marked or metered parking spaces on the block perimeter.
