@@ -41,8 +41,7 @@ Except as provided in R302.3.1 and R302.3.2, the continuous clear width of pedes
 
 ![PAR 1.2 m (4 ft) wide minimum shown within width of sidewalk bounded
 by curb
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-3.jpg){width="400"
-height="320"}
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-3.jpg)
 
 {: .advisory}
 **Advisory R302.3 Continuous Width.** The continuous clear width requirements in R302.3 apply to sidewalks and other pedestrian circulation paths, pedestrian street crossings and at-grade rail crossings, and pedestrian overpasses and underpasses and similar structures (see R302.2). Clear width requirements are contained in R304.5.1 for curb ramps and blended transitions, and in R407.4 for ramps. Where sidewalks are wider than 1.2 m (4.0 ft), only a portion of the sidewalk is required to comply with the requirements in R302.3 through R302.7. Additional maneuvering space should be provided at turns or changes in direction, transit stops, recesses and alcoves, building entrances, and along curved or angled routes, particularly where the grade exceeds 5 percent. R210 prohibits street furniture and other objects from reducing the minimum clear width of pedestrian access routes.
@@ -51,14 +50,11 @@ height="320"}
 The clear width of pedestrian access routes within medians and pedestrian refuge islands
 shall be 1.5 m (5.0 ft) minimum.
 
-+-----------------------------------------------------------------------+
-| **R302.3.2 Shared Use Paths. A pedestrian access route shall be       |
-| provided for the full width of a shared use path.\                    |
-| **                                                                    |
-+-----------------------------------------------------------------------+
+##### R302.3.2 Shared Use Paths
+A pedestrian access route shall be provided for the full width of a shared use path.
 
-**R302.4 Passing Spaces.** Where the clear width of pedestrian access
-routes is less than 1.5 m (5.0 ft), passing spaces shall be provided at
+#### R302.4 Passing Spaces
+Where the clear width of pedestrian access routes is less than 1.5 m (5.0 ft), passing spaces shall be provided at
 intervals of 61 m (200.0 ft) maximum. Passing spaces shall be 1.5 m (5.0
 ft) minimum by 1.5 m (5.0 ft) minimum. Passing spaces are permitted to
 overlap pedestrian access routes.
@@ -67,20 +63,13 @@ overlap pedestrian access routes.
 
 ![Passing space 1.5 m (5 ft) by 1.5 m (5 ft) min. at 61 m (200 ft) max
 intervals along 1.2 m (4 ft) wide min. pedestrian access
-route](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-4.jpg){width="400"
-height="320"}
+route](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-4.jpg)
 
-  -------------------------------------------------------------------------------------
-  **R302.5 Grade.   The grade of pedestrian access routes shall comply with R302.5.**
-  -------------------------------------------------------------------------------------
+#### R302.5 Grade
+The grade of pedestrian access routes shall comply with R302.5.
 
- 
-
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R302.5 Grade.** The grade requirements in R302.5 apply to sidewalks and other pedestrian circulation paths, pedestrian street crossings and at-grade rail crossings, and pedestrian overpasses and underpasses and similar structures (see R302.2). The grade of the pedestrian access route is measured parallel to the direction of pedestrian travel. Running slope requirements are contained in R304.2.2 for perpendicular curb ramps, in R304.3.2 for parallel curb ramps, in R304.4.1 for blended transitions, and in R407.2 for ramps.
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
+{: .advisory}
+**Advisory R302.5 Grade.** The grade requirements in R302.5 apply to sidewalks and other pedestrian circulation paths, pedestrian street crossings and at-grade rail crossings, and pedestrian overpasses and underpasses and similar structures (see R302.2). The grade of the pedestrian access route is measured parallel to the direction of pedestrian travel. Running slope requirements are contained in R304.2.2 for perpendicular curb ramps, in R304.3.2 for parallel curb ramps, in R304.4.1 for blended transitions, and in R407.2 for ramps.
 
 +-----------------------------------------------------------------------+
 | **R302.5.1 Within Street or Highway Right-of-Way. Except as provided  |
