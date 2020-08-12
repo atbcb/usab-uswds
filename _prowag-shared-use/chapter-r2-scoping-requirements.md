@@ -314,40 +314,17 @@ Table R214. Where parking pay stations are provided and the parking is
 not marked, each 6.1 m (20.0 ft) of block perimeter where parking is
 permitted shall be counted as one parking space.
 
-Table R214 On-Street Parking Spaces
-:::
+**Table R214 On-Street Parking Spaces**
 
-Total Number of Marked or Metered Parking Spaces on the Block Perimeter
-
-Minimum Required Number of Accessible Parking Spaces
-
-1 to 25
-
-1
-
-26 to 50
-
-2
-
-51 to 75
-
-3
-
-76 to 100
-
-4
-
-101 to 150
-
-5
-
-151 to 200
-
-6
-
-201 and over
-
-4% of total
+| Total Number of Marked or Metered Parking Spaces on the Block Perimeter | Minimum Required Number of Accessible Parking Spaces |
+| --- | --- |
+| 1 to 25 | 1 |
+| 26 to 50 | 2 |
+| 51 to 75 | 3 |
+| 76 to 100 | 4 |
+| 101 to 150 | 5 |
+| 151 to 200 | 6 |
+| 201 and over | 4% of total |
 
 {: .advisory}
 **Advisory R214 On-Street Parking Spaces.** The MUTCD contains provisions for marking on-street parking spaces (see section 3B.19). Metered parking includes parking metered by parking pay stations. Where parking on part of the block perimeter is altered, the minimum number of accessible parking spaces required is based on the total number of marked or metered parking spaces on the block perimeter.
