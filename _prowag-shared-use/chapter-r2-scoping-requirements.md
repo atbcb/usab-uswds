@@ -349,34 +349,25 @@ Minimum Required Number of Accessible Parking Spaces
 
 4% of total
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R214 On-Street Parking Spaces.** The MUTCD contains provisions for marking on-street parking spaces (see section 3B.19). Metered parking includes parking metered by parking pay stations. Where parking on part of the block perimeter is altered, the minimum number of accessible parking spaces required is based on the total number of marked or metered parking spaces on the block perimeter.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R214 On-Street Parking Spaces.** The MUTCD contains provisions for marking on-street parking spaces (see section 3B.19). Metered parking includes parking metered by parking pay stations. Where parking on part of the block perimeter is altered, the minimum number of accessible parking spaces required is based on the total number of marked or metered parking spaces on the block perimeter.
 
-\
-**R215 Passenger Loading Zones.** Where passenger loading zones other
-than transit stops are provided, at least one accessible passenger
+### R215 Passenger Loading Zones
+Where passenger loading zones other than transit stops are provided, at least one accessible passenger
 loading zone complying with R310 shall be provided for each 30 m (100.0
 ft) of continuous loading zone space or fraction thereof.
 
-\
-**R216 Stairways and Escalators.** Where provided on pedestrian
-circulation paths, stairways shall comply with R408 and escalators shall
+### R216 Stairways and Escalators
+Where provided on pedestrian circulation paths, stairways shall comply with R408 and escalators shall
 comply with section 810.9 of Appendix D to 36 CFR part 1191. Stairways
 and escalators shall not be part of a pedestrian access route.
 
-\
-**R217 Handrails.** Where provided on pedestrian circulation paths,
-handrails shall comply with R409.
+### R217 Handrails
+Where provided on pedestrian circulation paths, handrails shall comply with R409.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **R218 Doors, Doorways, and Gates. Except for shared use paths, doors, doorways, and gates provided at pedestrian facilities shall comply with section 404 of Appendix D to 36 CFR to 36 CFR part 1191.**
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### R218 Doors, Doorways, and Gates
+Except for shared use paths, doors, doorways, and gates provided at pedestrian facilities shall comply with section 404 of Appendix D to 36 CFR to 36 CFR part 1191.
 
- 
-
-  --------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
   **Advisory R218 Doors, Doorways, and Gates.** Enclosed transit shelters are an example of pedestrian facilities where doors and doorways are provided.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------
 
-[]{.clear}
