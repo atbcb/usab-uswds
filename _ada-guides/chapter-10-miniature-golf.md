@@ -83,12 +83,10 @@ carpets; however, they are still required to be stable, firm, and slip
 resistant.)
 
 ![illustration of accessible route on playing surface with opening onto
-adjacent accessible
-route]({{ site.baseurl }}{{ page.image-directory }}chapter10/mingolf-guide/page-7hi.jpg){: .img-medium .center}
+adjacent accessible route]({{ site.baseurl }}{{ page.image-directory }}chapter10/mingolf-guide/page-7hi.jpg){: .img-medium .center}
 
 ![illustration of golf club reach ranges on playing
 surface]({{ site.baseurl }}{{ page.image-directory }}chapter10/mingolf-guide/page-7lo.jpg){: .img-medium .center}
-
 
 There is usually a curb around a hole to keep the ball within the area.
 When the accessible route is provided on the course, a 1-inch high
@@ -146,6 +144,7 @@ orientation]({{ site.baseurl }}{{ page.image-directory }}chapter10/mingolf-guide
 
 
 ---
+
 
 
 ### Provision Index
