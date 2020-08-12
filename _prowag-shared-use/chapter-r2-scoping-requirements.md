@@ -313,6 +313,7 @@ permitted shall be counted as one parking space.
 
 **Table R214 On-Street Parking Spaces**
 
+{: .usa-table}
 | Total Number of Marked or Metered Parking Spaces on the Block Perimeter | Minimum Required Number of Accessible Parking Spaces |
 | --- | --- |
 | 1 to 25 | 1 |
@@ -321,7 +322,7 @@ permitted shall be counted as one parking space.
 | 76 to 100 | 4 |
 | 101 to 150 | 5 |
 | 151 to 200 | 6 |
-| 201 and over | 4% of total |{: .usa-table}
+| 201 and over | 4% of total |
 
 
 {: .advisory}
