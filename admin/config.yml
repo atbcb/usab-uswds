@@ -92,7 +92,13 @@ collections:
           widget: "datetime",
           format: "MMMM D, YYYY",
           dateFormat: "MMMM D, YYYY",
-          timeFormat: true,
+          timeFormat: "HH:mm",
+          required: false,
+        }
+      - {
+          label: "Registration Link",
+          name: "registration-link",
+          widget: "string",
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
