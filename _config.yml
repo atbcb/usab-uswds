@@ -82,11 +82,11 @@ primary_navigation:
         url: /ada/
       - name: Architectural Barriers Act (ABA)
         url: /aba/
-      - name: Public Rights-of-Way
+      - name: Public Rights-of-Way (PROWAG)
         url: /prowag/
       - name: Vehicles
         url: /ada/vehicles/
-      - name: Passenger Vessels
+      - name: Passenger Vessels (PVAG)
         url: /pvag/
       - name: Medical Diagnostic Equipment (MDE)
         url: /mde/
@@ -95,7 +95,7 @@ primary_navigation:
       - name: Archive
         url: /guidelines-&-standards/archive/
   - name: Training & Webinars
-    url: /training/
+    url: /webinars/
   - name: File an ABA complaint
     url: /enforcement/
   - name: Research
@@ -179,7 +179,8 @@ defaults:
       path: ""
       type: "ada"
     values:
-      collection-title: "Americans with Disabilities Act Accessibility Standards"
+      collection-title: "Americans with Disabilities Act"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: ada
       layout: standards
       file-directory: /files/ada-aba/
