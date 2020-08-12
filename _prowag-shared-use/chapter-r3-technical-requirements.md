@@ -33,14 +33,9 @@ more of the following components:
 **Advisory R302.2 Components.** The technical requirement for elevators, limited use/limited application elevators, platform lifts, and doors, doorways, and gates are contained in the Americans with Disabilities Act Accessibility Guidelines for Buildings and Facilities and the Architectural Barriers Act Accessibility Guidelines (36 CFR part 1191).
 
 
-+-----------------------------------------------------------------------+
-| **R302.3 Continuous Width. Except as provided in R302.3.1 and         |
-| R302.3.2, the continuous clear width of pedestrian access routes      |
-| shall be 1.2 m (4.0 ft) minimum, exclusive of the width of the curb.\ |
-| **                                                                    |
-+-----------------------------------------------------------------------+
+#### R302.3 Continuous Width
+Except as provided in R302.3.1 and R302.3.2, the continuous clear width of pedestrian access routes shall be 1.2 m (4.0 ft) minimum, exclusive of the width of the curb.
 
- 
 
 **Figure R302.3 Continuous Width**
 
@@ -49,12 +44,11 @@ by curb
 ](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-3.jpg){width="400"
 height="320"}
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R302.3 Continuous Width.** The continuous clear width requirements in R302.3 apply to sidewalks and other pedestrian circulation paths, pedestrian street crossings and at-grade rail crossings, and pedestrian overpasses and underpasses and similar structures (see R302.2). Clear width requirements are contained in R304.5.1 for curb ramps and blended transitions, and in R407.4 for ramps. Where sidewalks are wider than 1.2 m (4.0 ft), only a portion of the sidewalk is required to comply with the requirements in R302.3 through R302.7. Additional maneuvering space should be provided at turns or changes in direction, transit stops, recesses and alcoves, building entrances, and along curved or angled routes, particularly where the grade exceeds 5 percent. R210 prohibits street furniture and other objects from reducing the minimum clear width of pedestrian access routes.
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R302.3 Continuous Width.** The continuous clear width requirements in R302.3 apply to sidewalks and other pedestrian circulation paths, pedestrian street crossings and at-grade rail crossings, and pedestrian overpasses and underpasses and similar structures (see R302.2). Clear width requirements are contained in R304.5.1 for curb ramps and blended transitions, and in R407.4 for ramps. Where sidewalks are wider than 1.2 m (4.0 ft), only a portion of the sidewalk is required to comply with the requirements in R302.3 through R302.7. Additional maneuvering space should be provided at turns or changes in direction, transit stops, recesses and alcoves, building entrances, and along curved or angled routes, particularly where the grade exceeds 5 percent. R210 prohibits street furniture and other objects from reducing the minimum clear width of pedestrian access routes.
 
-**R302.3.1 Medians and Pedestrian Refuge Islands.** The clear width of
-pedestrian access routes within medians and pedestrian refuge islands
+##### R302.3.1 Medians and Pedestrian Refuge Islands
+The clear width of pedestrian access routes within medians and pedestrian refuge islands
 shall be 1.5 m (5.0 ft) minimum.
 
 +-----------------------------------------------------------------------+
