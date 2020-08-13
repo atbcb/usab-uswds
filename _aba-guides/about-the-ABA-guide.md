@@ -18,4 +18,4 @@ It is important to use this guide along with a complete copy of the ABA Standard
 
 This guide is in the public domain, and users are free to distribute and share its content or to disseminate copies. Questions or comments on the guide should be directed to the Access Board at [ta@access-board.gov]( ta@access-board.gov), (800) 872-2253 (voice), or (800) 993-2822 (TTY).
 
-![GSA, Department of Defense, and US Postal Service seals or ogos](/images/guidelines_standards/Buildings_Sites/guides/gsa-dod-usps.jpg){: .img-large}
+![GSA, Department of Defense, and US Postal Service seals or logos]({{ site.baseurl }}{{ page.image-directory }}gsa-dod-usps.jpg){: .img-large}
