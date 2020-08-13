@@ -10,11 +10,8 @@ The Architectural Barriers Act (ABA) requires access to facilities that are desi
 
 Four agencies establish the ABA Standards according to guidelines issued by the Access Board: the General Services Administration (GSA), the Department of Defense (DOD), the Department of Housing and Urban Development (HUD), and the U.S. Postal Service (USPS). The latest editions of the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) issued by GSA, DOD, and USPS are substantively the same and replace the earlier [Uniform Federal Accessibility Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas). HUD’s update of the standards is still pending. Regulations and directives from these agencies apply the standards to facilities within their purview.
 
-![envelope](/images/guidelines_standards/Buildings_Sites/guides/chapter1-aba/1aba-usps.jpg)
-
- 
-
-**Postal Facilities**  
+#### Postal Facilities
+{% asset ada-aba/guides/chapter1-aba/1aba-usps.jpg alt="envelope" class="img-right thumbnail" %}
 USPS regulations (39 CFR Part 255) and RE-4 Handbook apply the current standards to USPS projects and leases as of October 1, 2005. 
 
  ![pentagon](/images/guidelines_standards/Buildings_Sites/guides/chapter1-aba/1aba-dod.jpg)
