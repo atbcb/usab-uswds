@@ -469,59 +469,60 @@ opposite the rail.
 ![At pedestrian at-grade rail crossing, detectable warnings shown
 located 1.8 -- 4.6 m (6 -- 15 ft) from the centerline of the nearest
 rail and, on other side, on the side of pedestrian gate opposite the
-rail](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-5.jpg){width="400"
-height="319"}
+rail](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-5.jpg)
 
-\
-**R305.2.6 Boarding Platforms.** At boarding platforms for buses and
+##### R305.2.6 Boarding Platforms
+At boarding platforms for buses and
 rail vehicles, detectable warning surfaces shall be placed at the
 boarding edge of the platform.
 
-**R305.2.7 Boarding and Alighting Areas.** At boarding and alighting
+##### R305.2.7 Boarding and Alighting Areas
+At boarding and alighting
 areas at sidewalk or street level transit stops for rail vehicles,
 detectable warning surfaces shall be placed at the side of the boarding
 and alighting area facing the rail vehicles.
 
-**\
-R306 Pedestrian Street Crossings**
+### R306 Pedestrian Street Crossings
 
-**R306.1 General.** Pedestrian street crossings shall comply with R306.\
-\
-**R306.2 Pedestrian Signal Phase Timing.** All pedestrian signal phase
+#### R306.1 General
+Pedestrian street crossings shall comply with R306.
+
+#### R306.2 Pedestrian Signal Phase Timing
+All pedestrian signal phase
 timing shall comply with section 4E.06 of the MUTCD (incorporated by
 reference, see R104.2 and shall be based on a pedestrian clearance time
 that is calculated using a pedestrian walking speed of 1.1 m/s (3.5
-ft/s) or less.\
-\
-**R306.3 Roundabouts.** Where pedestrian facilities are provided at
+ft/s) or less.
+
+#### R306.3 Roundabouts
+Where pedestrian facilities are provided at
 roundabouts, they shall comply with R306.3.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R306.3 Roundabouts.** Pedestrian street crossings at roundabouts can be difficult for pedestrians who are blind or have low vision to identify because the crossings are located off to the side of the pedestrian circulation path around the street or highway. The continuous traffic flow at roundabouts removes many of the audible cues that pedestrians who are blind use to navigate pedestrian street crossings. Water fountains and other features that produce background noise should not be placed in the middle island of a roundabout because pedestrians who are blind use auditory cues to help detect gaps in traffic. Multi-lane pedestrian street crossings at roundabouts involve an increased risk of pedestrian exposure to accident.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R306.3 Roundabouts.** Pedestrian street crossings at roundabouts can be difficult for pedestrians who are blind or have low vision to identify because the crossings are located off to the side of the pedestrian circulation path around the street or highway. The continuous traffic flow at roundabouts removes many of the audible cues that pedestrians who are blind use to navigate pedestrian street crossings. Water fountains and other features that produce background noise should not be placed in the middle island of a roundabout because pedestrians who are blind use auditory cues to help detect gaps in traffic. Multi-lane pedestrian street crossings at roundabouts involve an increased risk of pedestrian exposure to accident.
 
-**R306.3.1 Separation.** Where sidewalks are flush against the curb and
+##### R306.3.1 Separation
+Where sidewalks are flush against the curb and
 pedestrian street crossing is not intended, a continuous and detectable
 edge treatment shall be provided along the street side of the sidewalk.
 Detectable warning surfaces shall not be used for edge treatment. Where
 chains, fencing, or railings are used for edge treatment, they shall
 have a bottom edge 380 mm (15 in) maximum above the sidewalk.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R306.3.1 Separation.** Carefully delineated pedestrian street crossing approaches with plantings or other defined edges provide effective non-visual cues for identifying pedestrian street crossings at roundabouts. European and Australian roundabouts provide a 610 mm (24 inch) width of tactile surface treatment from the centerline of the curb ramp or blended transition across the full width of the sidewalk to provide an underfoot cue for identifying pedestrian street crossings. Detectable warning surfaces should not be used to guide pedestrians who are blind or have low vision to pedestrian street crossings because detectable warning surfaces indicate the flush transition between the sidewalk and the street or highway. Schemes that remove cyclists from the street or highway by means of a ramp that angles from the curb lane to the sidewalk and then provide re-entry by means of a similar ramp beyond pedestrian street crossings can provide false cues to pedestrians who are using the edge of the sidewalk for wayfinding about the location of pedestrian street crossings.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R306.3.1 Separation.** Carefully delineated pedestrian street crossing approaches with plantings or other defined edges provide effective non-visual cues for identifying pedestrian street crossings at roundabouts. European and Australian roundabouts provide a 610 mm (24 inch) width of tactile surface treatment from the centerline of the curb ramp or blended transition across the full width of the sidewalk to provide an underfoot cue for identifying pedestrian street crossings. Detectable warning surfaces should not be used to guide pedestrians who are blind or have low vision to pedestrian street crossings because detectable warning surfaces indicate the flush transition between the sidewalk and the street or highway. Schemes that remove cyclists from the street or highway by means of a ramp that angles from the curb lane to the sidewalk and then provide re-entry by means of a similar ramp beyond pedestrian street crossings can provide false cues to pedestrians who are using the edge of the sidewalk for wayfinding about the location of pedestrian street crossings.
 
-**R306.3.2 Pedestrian Activated Signals.** At roundabouts with
+##### R306.3.2 Pedestrian Activated Signals
+At roundabouts with
 multi-lane pedestrian street crossings, a pedestrian activated signal
 complying with R209 shall be provided for each multi-lane segment of
 each pedestrian street crossing, including the splitter island. Signals
 shall clearly identify which pedestrian street crossing segment the
 signal serves.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R306.3.2 Pedestrian Activated Signals.** Roundabouts with single-lane approach and exit legs are not required to provide pedestrian activated signals. Pedestrian activated signals must comply with the requirements for accessible pedestrian signals and pedestrian pushbuttons (see R209). Pedestrian activated signals installed at splitter islands should be carefully located and separated so that signal spillover does not give conflicting information about which pedestrian street crossing has the WALK indication displayed. Pedestrian Hybrid Beacons can be used at roundabouts (see MUTCD sections 4F.01 through 4F.03). Pedestrian Hybrid Beacons are traffic signals that consist of a yellow signal centered below two horizontally aligned red signals. The signals are normally not illuminated. The signals are initiated only upon pedestrian activation and can be timed to minimize the interruption of traffic. The signals cease operation after the pedestrian clears the crosswalk. When activated by a pedestrian, the following signals are displayed to drivers: a flashing yellow signal, then a steady yellow signal, then two steady red signals during the pedestrian walk interval, and then alternating flashing red signals during the pedestrian clearance interval. The following signals are displayed to pedestrians: a steady upraised hand (symbolizing DON'T WALK) when the flashing or steady yellow signal is operating, then a walking person (symbolizing WALK) when the steady red signals are operating, and then a flashing upraised hand (symbolizing DON'T WALK) when the alternating flashing red signals are operating.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
+{: .advisory}
+**Advisory R306.3.2 Pedestrian Activated Signals.** Roundabouts with single-lane approach and exit legs are not required to provide pedestrian activated signals. Pedestrian activated signals must comply with the requirements for accessible pedestrian signals and pedestrian pushbuttons (see R209). Pedestrian activated signals installed at splitter islands should be carefully located and separated so that signal spillover does not give conflicting information about which pedestrian street crossing has the WALK indication displayed. Pedestrian Hybrid Beacons can be used at roundabouts (see MUTCD sections 4F.01 through 4F.03). Pedestrian Hybrid Beacons are traffic signals that consist of a yellow signal centered below two horizontally aligned red signals. The signals are normally not illuminated. The signals are initiated only upon pedestrian activation and can be timed to minimize the interruption of traffic. The signals cease operation after the pedestrian clears the crosswalk. When activated by a pedestrian, the following signals are displayed to drivers: a flashing yellow signal, then a steady yellow signal, then two steady red signals during the pedestrian walk interval, and then alternating flashing red signals during the pedestrian clearance interval. The following signals are displayed to pedestrians: a steady upraised hand (symbolizing DON'T WALK) when the flashing or steady yellow signal is operating, then a walking person (symbolizing WALK) when the steady red signals are operating, and then a flashing upraised hand (symbolizing DON'T WALK) when the alternating flashing red signals are operating.
+  
 **R306.4 Channelized Turn Lanes at Roundabouts.** At roundabouts with
 pedestrian street crossings, pedestrian activated signals complying with
 R209 shall be provided at pedestrian street crossings at multi-lane
