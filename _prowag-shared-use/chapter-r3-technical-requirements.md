@@ -330,6 +330,7 @@ Detectable warning surfaces shall consist of
 truncated domes aligned in a square or radial grid pattern and shall
 comply with R305.
 
+{: .advisory}
 **Advisory R305.1 Dome Size.** Where the truncated domes are arrayed radially, they may differ in diameter and center-to-center spacing within the ranges specified in R305.1.1 and R305.1.2.
 
 ##### R305.1.1 Dome Size
@@ -344,8 +345,8 @@ in) min to 36 mm (1.4 in) max, a top diameter 50% to 65% of the base
 diameter, and a height of 5 mm (0.2 in)
 ](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-1-1.jpg)
 
-\
-**R305.1.2 Dome Spacing.** The truncated domes shall have a
+##### R305.1.2 Dome Spacing
+The truncated domes shall have a
 center-to-center spacing of 41 mm (1.6 in) minimum and 61 mm (2.4 in)
 maximum, and a base-to-base spacing of 17 mm (0.65 in) minimum, measured
 between the most adjacent domes.
@@ -355,19 +356,18 @@ between the most adjacent domes.
 ![Truncated domes in plan view with a center-to-center spacing of 41 mm
 (1.6 in) min and 61 mm (2.4 in) max, and a base-to-base spacing of 17 mm
 (0.65 in) min, measured between the most adjacent
-domes](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-1-2.jpg){width="400"
-height="243"}
+domes](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-1-2.jpg)
 
-\
-**R305.1.3 Contrast.** Detectable warning surfaces shall contrast
+##### R305.1.3 Contrast
+Detectable warning surfaces shall contrast
 visually with adjacent gutter, street or highway, or pedestrian access
 route surface, either light-on-dark or dark-on-light.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R305.1.3 Contrast.** Visual contrast may be provided on the full surface of the curb ramp but should not extend to flared sides. Visual contrast also helps pedestrians who use wheelchairs to locate the curb ramp from the other side of the street.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R305.1.3 Contrast.** Visual contrast may be provided on the full surface of the curb ramp but should not extend to flared sides. Visual contrast also helps pedestrians who use wheelchairs to locate the curb ramp from the other side of the street.
 
-**R305.1.4 Size.** Detectable warning surfaces shall extend 610 mm (2.0
+##### R305.1.4 Size
+Detectable warning surfaces shall extend 610 mm (2.0
 ft) minimum in the direction of pedestrian travel. At curb ramps and
 blended transitions, detectable warning surfaces shall extend the full
 width of the ramp run (excluding any flared sides), blended transition,
@@ -384,31 +384,22 @@ warning surfaces shall extend the full length of the transit stop.
 ![Detectable warning area 610 mm (24 in) deep shown extending the full
 width of a perpendicular curb ramp and curb ramp with a returned curb
 and the full width of landing at parallel curb ramp
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-1-4.jpg){width="400"
-height="320"}
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-1-4.jpg)
 
-**R305.2 Placement.** The placement of detectable warning surfaces shall
+#### R305.2 Placement
+The placement of detectable warning surfaces shall
 comply with R305.2.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R305.2 Placement.** Some detectable warning products require a concrete border for proper installation. The concrete border should not exceed 51 mm (2 in). Where the back of curb edge is tooled to provide a radius, the border dimension should be measured from the end of the radius.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R305.2 Placement.** Some detectable warning products require a concrete border for proper installation. The concrete border should not exceed 51 mm (2 in). Where the back of curb edge is tooled to provide a radius, the border dimension should be measured from the end of the radius.
 
-**R305.2.1 Perpendicular Curb Ramps.** On perpendicular curb ramps,
+##### R305.2.1 Perpendicular Curb Ramps
+On perpendicular curb ramps,
 detectable warning surfaces shall be placed as follows:
 
-1.  Where the ends of the bottom grade break are in front of the back of
-    curb, detectable warning surfaces shall be placed at the back of
-    curb.
-2.  Where the ends of the bottom grade break are behind the back of curb
-    and the distance from either end of the bottom grade brake to the
-    back of curb is 1.5 m (5.0 ft) or less, detectable warning surfaces
-    shall be placed on the ramp run within one dome spacing of the
-    bottom grade break.
-3.  Where the ends of the bottom grade break are behind the back of curb
-    and the distance from either end of the bottom grade brake to the
-    back of curb is more than 1.5 m (5.0 ft), detectable warning
-    surfaces shall be placed on the lower landing at the back of curb.
+1. Where the ends of the bottom grade break are in front of the back of curb, detectable warning surfaces shall be placed at the back of curb.
+2. Where the ends of the bottom grade break are behind the back of curb and the distance from either end of the bottom grade brake to the back of curb is 1.5 m (5.0 ft) or less, detectable warning surfaces shall be placed on the ramp run within one dome spacing of the bottom grade break.
+3. Where the ends of the bottom grade break are behind the back of curb and the distance from either end of the bottom grade brake to the back of curb is more than 1.5 m (5.0 ft), detectable warning surfaces shall be placed on the lower landing at the back of curb.
 
 **Figure R305.2.1 Perpendicular Curb Ramps**
 
@@ -416,14 +407,13 @@ detectable warning surfaces shall be placed as follows:
 grad break are less than 1.5 m (5 ft) from back of curb and located on
 the lower landing at the back of curb where one or both ends of the
 bottom grade break are more than 1.5 m (5 ft) from back of
-curb](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-1.jpg){width="400"
-height="207"}
+curb](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-1.jpg)
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R305.2.1 Perpendicular Curb Ramps.** Detectable warning surfaces are intended to provide a tactile equivalent underfoot of the visible curb line. If detectable warning surfaces are placed too far from the curb line because of a large curb radius, the location may compromise effective crossing. Detectable warning surfaces should not be placed on paving or expansion joints. The rows of truncated domes in detectable warning surfaces should be aligned perpendicular to the grade break between the ramp run and the street so pedestrians who use wheelchairs can \"track\" between the domes. Where detectable warning surfaces are provided on a surface with a slope that is less than 5 percent, dome orientation is less critical.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R305.2.1 Perpendicular Curb Ramps.** Detectable warning surfaces are intended to provide a tactile equivalent underfoot of the visible curb line. If detectable warning surfaces are placed too far from the curb line because of a large curb radius, the location may compromise effective crossing. Detectable warning surfaces should not be placed on paving or expansion joints. The rows of truncated domes in detectable warning surfaces should be aligned perpendicular to the grade break between the ramp run and the street so pedestrians who use wheelchairs can "track" between the domes. Where detectable warning surfaces are provided on a surface with a slope that is less than 5 percent, dome orientation is less critical.
 
-**R305.2.2 Parallel Curb Ramps**. On parallel curb ramps, detectable
+##### R305.2.2 Parallel Curb Ramps
+On parallel curb ramps, detectable
 warning surfaces shall be placed on the turning space at the flush
 transition between the street and sidewalk.
 
@@ -431,10 +421,10 @@ transition between the street and sidewalk.
 
 ![Detectable warning located at the back of curb along the bottom
 landing between parallel
-ramps](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-2.jpg){width="400"
-height="205"}
+ramps](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-2.jpg)
 
-**R305.2.3 Blended Transitions.** On blended transitions, detectable
+##### R305.2.3 Blended Transitions
+On blended transitions, detectable
 warning surfaces shall be placed at the back of curb. Where raised
 pedestrian street crossings, depressed corners, or other level
 pedestrian street crossings are provided, detectable warning surfaces
@@ -445,29 +435,27 @@ sidewalk.
 
 ![Detectable warning at raised crossing located back of curb along the
 entire transition between street and
-sidewalk](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-3.jpg){width="400"
-height="319"}
+sidewalk](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-3.jpg)
 
-**R305.2.4 Pedestrian Refuge Islands.** At cut-through pedestrian refuge
+##### R305.2.4 Pedestrian Refuge Islands
+At cut-through pedestrian refuge
 islands, detectable warning surfaces shall be placed at the edges of the
 pedestrian island and shall be separated by a 610 mm (2.0 ft) minimum
 length of surface without detectable warnings.
 
-**\
-Figure R 305.2.4 Pedestrian Refuge Island**
+**Figure R 305.2.4 Pedestrian Refuge Island**
 
 ![Detectable warnings at pedestrian refuge island 1.8 m (ft) min wide
 that are separated by non-detectable warning surface 610 mm (2 ft) min
 long illustrated for cut-through route, route with aligned curb ramps on
 both sides, and route with offset curb ramps on both sides
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-4.jpg){width="400"
-height="275"}
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-4.jpg)
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R305.2.4 Pedestrian Refuge Islands.** The edges of cut-through pedestrian refuge islands can provide useful cues to the direction of the crossing.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R305.2.4 Pedestrian Refuge Islands.** The edges of cut-through pedestrian refuge islands can provide useful cues to the direction of the crossing.
 
-**R305.2.5 Pedestrian At-Grade Rail Crossings.** At pedestrian at-grade
+##### R305.2.5 Pedestrian At-Grade Rail Crossings
+At pedestrian at-grade
 rail crossings not located within a street or highway, detectable
 warning surfaces shall be placed on each side of the rail crossing. The
 edge of the detectable warning surface nearest the rail crossing shall
