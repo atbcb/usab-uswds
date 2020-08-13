@@ -287,35 +287,33 @@ In shared use paths, the width of curb ramp runs and blended transitions shall b
 **Figure R304.5.1 Width**
 
 ![Width of curb ramp 1.2 m (4 ft) min
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-5-1.jpg){width="400"
-height="320"}
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-5-1.jpg)
 
-**R304.5.2 Grade Breaks.** Grade breaks at the top and bottom of curb
-ramp runs shall be perpendicular to the direction of the ramp run. Grade
+##### R304.5.2 Grade Breaks
+Grade breaks at the top and bottom of curb ramp runs shall be perpendicular to the direction of the ramp run. Grade
 breaks shall not be permitted on the surface of ramp runs and turning
 spaces. Surface slopes that meet at grade breaks shall be flush.
 
 **Figure R304.5.2 Grade Breaks**
 
 ![Grade break at curb ramp shown perpendicular to direction of travel
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-5-2.jpg){width="400"
-height="320"}**\
-R304.5.3 Cross Slope.** The cross slope of curb ramps, blended
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-5-2.jpg)
+
+##### R304.5.3 Cross Slope.** The cross slope of curb ramps, blended
 transitions, and turning spaces shall be 2 percent maximum. At
 pedestrian street crossings without yield or stop control and at
 midblock pedestrian street crossings, the cross slope shall be permitted
 to equal the street or highway grade.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R304.5.3 Cross Slope.** Pedestrian street crossings without yield or stop control are crossings where there is no yield or stop sign, or where there is a traffic signal that is designed for the green phase. At pedestrian street crossings without yield or stop control, vehicles can proceed through the intersection without slowing or stopping.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R304.5.3 Cross Slope.** Pedestrian street crossings without yield or stop control are crossings where there is no yield or stop sign, or where there is a traffic signal that is designed for the green phase. At pedestrian street crossings without yield or stop control, vehicles can proceed through the intersection without slowing or stopping.
 
-**R304.5.4 Counter Slope.** The counter slope of the gutter or street at
-the foot of curb ramp runs, blended transitions, and turning spaces
-shall be 5 percent maximum.\
-\
-**R304.5.5 Clear Space.** Beyond the bottom grade break, a clear space
-1.2 m (4.0 ft) minimum by 1.2 m (4.0 ft) minimum shall be provided
+##### R304.5.4 Counter Slope
+The counter slope of the gutter or street at the foot of curb ramp runs, blended transitions, and turning spaces
+shall be 5 percent maximum.
+
+##### R304.5.5 Clear Space
+Beyond the bottom grade break, a clear space 1.2 m (4.0 ft) minimum by 1.2 m (4.0 ft) minimum shall be provided
 within the width of the pedestrian street crossing and wholly outside
 the parallel vehicle travel lane.
 
@@ -323,22 +321,19 @@ the parallel vehicle travel lane.
 
 **![Clear space 1.2 m (4 ft) min by 1.2 m (4 ft) min athe bottom of curb
 ramp beyond grade break located within width of pedestrian street
-crossing](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-5-5.jpg){width="400"
-height="251"}**
+crossing](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-5-5.jpg)
 
-\
-**R305 Detectable Warning Surfaces**\
-\
-**R305.1 General.** Detectable warning surfaces shall consist of
+### R305 Detectable Warning Surfaces
+
+#### R305.1 General
+Detectable warning surfaces shall consist of
 truncated domes aligned in a square or radial grid pattern and shall
 comply with R305.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R305.1 Dome Size.** Where the truncated domes are arrayed radially, they may differ in diameter and center-to-center spacing within the ranges specified in R305.1.1 and R305.1.2.
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**Advisory R305.1 Dome Size.** Where the truncated domes are arrayed radially, they may differ in diameter and center-to-center spacing within the ranges specified in R305.1.1 and R305.1.2.
 
-**R305.1.1 Dome Size.** The truncated domes shall have a base diameter
-of 23 mm (0.9 in) minimum and 36 mm (1.4 in) maximum, a top diameter of
+##### R305.1.1 Dome Size
+The truncated domes shall have a base diameter of 23 mm (0.9 in) minimum and 36 mm (1.4 in) maximum, a top diameter of
 50 percent of the base diameter minimum and 65 percent of the base
 diameter maximum, and a height of 5 mm (0.2 in).
 
@@ -347,8 +342,7 @@ diameter maximum, and a height of 5 mm (0.2 in).
 ![Truncated dome in elevation shown with a base diameter of 23 mm (0.9
 in) min to 36 mm (1.4 in) max, a top diameter 50% to 65% of the base
 diameter, and a height of 5 mm (0.2 in)
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-1-1.jpg){width="400"
-height="198"}
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-1-1.jpg)
 
 \
 **R305.1.2 Dome Spacing.** The truncated domes shall have a
