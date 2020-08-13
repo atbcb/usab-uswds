@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: Alterations and Additions"
 order-number: 3
-permalink: /aba/guides/
 file: alterations-ABA.pdf
 file-description: PDF version of Chapter 2 Alterations Guide
 ---

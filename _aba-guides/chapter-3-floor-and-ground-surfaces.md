@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: Floor and Ground Surfaces"
 order-number: 4
-permalink: /aba/guides/
 file: surfaces-ABA.pdf
 file-description: PDF version of Chapter 3 Floor and Ground Surfaces Guide
 ---

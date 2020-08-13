@@ -1,7 +1,6 @@
 ---
 title: "Chapter 2: New Construction"
 order-number: 2
-permalink: /aba/guides/
 file: new-construction-ABA.pdf
 file-description: PDF version of Chapter 2 New Construction Guide
 ---

@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: Operable Parts"
 order-number: 6
-permalink: /aba/guides/
 file: operable-parts-ABA.pdf
 file-description: PDF version of Chapter 3 Operable Parts Guide
 ---
