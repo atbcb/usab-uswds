@@ -71,86 +71,57 @@ The grade of pedestrian access routes shall comply with R302.5.
 {: .advisory}
 **Advisory R302.5 Grade.** The grade requirements in R302.5 apply to sidewalks and other pedestrian circulation paths, pedestrian street crossings and at-grade rail crossings, and pedestrian overpasses and underpasses and similar structures (see R302.2). The grade of the pedestrian access route is measured parallel to the direction of pedestrian travel. Running slope requirements are contained in R304.2.2 for perpendicular curb ramps, in R304.3.2 for parallel curb ramps, in R304.4.1 for blended transitions, and in R407.2 for ramps.
 
-+-----------------------------------------------------------------------+
-| **R302.5.1 Within Street or Highway Right-of-Way. Except as provided  |
-| in R302.5.3, where pedestrian access routes are contained within a    |
-| street or highway right-of-way, the grade of pedestrian access routes |
-| shall not exceed the general grade established for the adjacent       |
-| street or highway.**                                                  |
-|                                                                       |
-| **R302.5.2 Not Within Street or Highway Right-of-Way. Where           |
-| pedestrian access routes are not contained within a street or highway |
-| right-of-way, the grade of pedestrian access routes shall be 5        |
-| percent maximum.**                                                    |
-|                                                                       |
-| **R302.5.3 Within Pedestrian Street Crossings. Where pedestrian       |
-| access routes are contained within a pedestrian street crossing, the  |
-| grade of pedestrian access routes shall be 5 percent maximum.**       |
-|                                                                       |
-| **R302.5.4 Physical Constraints. Where compliance with R302.5.1 or    |
-| R302.5.2 is not practicable due to existing terrain or                |
-| infrastructure, right-of-way availability, a notable natural feature, |
-| or similar existing physical constraints, compliance is required to   |
-| the extent practicable.**                                             |
-|                                                                       |
-| **R302.5.5 Regulatory Constraints. Where compliance with R302.5.1 or  |
-| R302.5.2 is precluded by federal, state, or local laws the purpose of |
-| which is to preserve threatened or endangered species; the            |
-| environment; or archaeological, cultural, historical, or significant  |
-| natural features, compliance is required to the extent practicable.** |
-+-----------------------------------------------------------------------+
+##### R302.5.1 Within Street or Highway Right-of-Way
+Except as provided in R302.5.3, where pedestrian access routes are contained within a street or highway right-of-way, the grade of pedestrian access routes shall not exceed the general grade established for the adjacent street or highway.
 
-**R302.6 Cross Slope.** Except as provided in R302.6.1 and R302.6.2, the
+##### R302.5.2 Not Within Street or Highway Right-of-Way
+Where pedestrian access routes are not contained within a street or highway right-of-way, the grade of pedestrian access routes shall be 5 percent maximum.
+
+##### R302.5.3 Within Pedestrian Street Crossings
+Where pedestrian access routes are contained within a pedestrian street crossing, the grade of pedestrian access routes shall be 5 percent maximum.
+
+##### R302.5.4 Physical Constraints
+Where compliance with R302.5.1 or R302.5.2 is not practicable due to existing terrain or infrastructure, right-of-way availability, a notable natural feature, or similar existing physical constraints, compliance is required to the extent practicable.
+
+##### R302.5.5 Regulatory Constraints
+Where compliance with R302.5.1 or R302.5.2 is precluded by federal, state, or local laws the purpose of which is to preserve threatened or endangered species; the environment; or archaeological, cultural, historical, or significant natural features, compliance is required to the extent practicable.
+
+
+#### R302.6 Cross Slope
+Except as provided in R302.6.1 and R302.6.2, the
 cross slope of pedestrian access routes shall be 2 percent maximum.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R302.6 Cross Slope.** The cross slope requirements in R302.6 apply to sidewalks and other pedestrian circulation paths, pedestrian street crossings and at-grade rail crossings, and pedestrian overpasses and underpasses and similar structures (see R302.2). The cross slope of the pedestrian access route is measured perpendicular to the direction of pedestrian travel. Cross slope requirements are contained in R304.5.3 for curb ramps and blended transitions, and in R407.3 for ramps.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R302.6 Cross Slope.** The cross slope requirements in R302.6 apply to sidewalks and other pedestrian circulation paths, pedestrian street crossings and at-grade rail crossings, and pedestrian overpasses and underpasses and similar structures (see R302.2). The cross slope of the pedestrian access route is measured perpendicular to the direction of pedestrian travel. Cross slope requirements are contained in R304.5.3 for curb ramps and blended transitions, and in R407.3 for ramps.
 
-**R302.6.1 Pedestrian Street Crossings Without Yield or Stop Control.**
-Where pedestrian access routes are contained within pedestrian street
-crossings without yield or stop control, the cross slope of the
+##### R302.6.1 Pedestrian Street Crossings Without Yield or Stop Control
+Where pedestrian access routes are contained within pedestrian street crossings without yield or stop control, the cross slope of the
 pedestrian access route shall be 5 percent maximum.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R302.6.1 Pedestrian Street Crossings Without Yield or Stop Control.** Pedestrian street crossings without yield or stop control are crossings where there is no yield or stop sign, or where there is a traffic signal that is designed for the green phase. At pedestrian street crossings without yield or stop control, vehicles can proceed through the intersection without slowing or stopping. Where pedestrian access routes are contained within pedestrian street crossings with yield or stop control, the cross slope of the pedestrian access route must be 2 percent maximum (see R302.6). At pedestrian street crossings with yield or stop control, vehicles slow or stop before proceeding through the intersection.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R302.6.1 Pedestrian Street Crossings Without Yield or Stop Control.** Pedestrian street crossings without yield or stop control are crossings where there is no yield or stop sign, or where there is a traffic signal that is designed for the green phase. At pedestrian street crossings without yield or stop control, vehicles can proceed through the intersection without slowing or stopping. Where pedestrian access routes are contained within pedestrian street crossings with yield or stop control, the cross slope of the pedestrian access route must be 2 percent maximum (see R302.6). At pedestrian street crossings with yield or stop control, vehicles slow or stop before proceeding through the intersection.
 
-**R302.6.2 Midblock Pedestrian Street Crossings.** Where pedestrian
-access routes are contained within midblock pedestrian street crossings,
+##### R302.6.2 Midblock Pedestrian Street Crossings
+Where pedestrian access routes are contained within midblock pedestrian street crossings,
 the cross slope of the pedestrian access route shall be permitted to
-equal the street or highway grade.\
-\
-**R302.7 Surfaces.** The surfaces of pedestrian access routes and
-elements and spaces required to comply with R302.7 that connect to
+equal the street or highway grade.
+
+#### R302.7 Surfaces
+The surfaces of pedestrian access routes and elements and spaces required to comply with R302.7 that connect to
 pedestrian access routes shall be firm, stable, and slip resistant and
 shall comply with R302.7.
 
-+-----------------------------------------------------------------------+
-| **Advisory R302.7 Surfaces.** The surface requirements in R302.7      |
-| apply to sidewalks and other pedestrian circulation paths, pedestrian |
-| street crossings and at-grade rail crossings, pedestrian overpasses   |
-| and underpasses and similar structures, and curb ramps and blended    |
-| transitions (see R302.2). The surface requirements in R302.7 also     |
-| apply to surfaces at the following accessible elements and spaces     |
-| that connect to pedestrian access routes:                             |
-|                                                                       |
-| -   Clear spaces (see R404.2), including clear spaces at operable     |
-|     parts (see R403.2) such as accessible pedestrian signals and      |
-|     pedestrian pushbuttons (see R209), clear spaces at street         |
-|     furniture such as benches (see R212.6), and clear spaces within   |
-|     transit shelters (see R308.2);                                    |
-| -   Boarding and alighting areas and boarding platforms at transit    |
-|     stops (see R308.1.3.1);                                           |
-| -   Access aisles at accessible parking spaces (see R309.2.1 and      |
-|     R309.3) and accessible passenger loading zones (see R310.3.4);    |
-|     and                                                               |
-| -   Ramp runs and landings (see R407.7).                              |
-+-----------------------------------------------------------------------+
+<div class="advisory" markdown="1">
+**Advisory R302.7 Surfaces.** The surface requirements in R302.7 apply to sidewalks and other pedestrian circulation paths, pedestrian street crossings and at-grade rail crossings, pedestrian overpasses and underpasses and similar structures, and curb ramps and blended transitions (see R302.2). The surface requirements in R302.7 also apply to surfaces at the following accessible elements and spaces that connect to pedestrian access routes:
 
-**R302.7.1 Vertical Alignment.** Vertical alignment shall be generally
-planar within pedestrian access routes (including curb ramp runs,
-blended transitions, turning spaces, and gutter areas within pedestrian
+- Clear spaces (see R404.2), including clear spaces at operable parts (see R403.2) such as accessible pedestrian signals and pedestrian pushbuttons (see R209), clear spaces at street furniture such as benches (see R212.6), and clear spaces within transit shelters (see R308.2);
+- Boarding and alighting areas and boarding platforms at transit stops (see R308.1.3.1);
+-   Access aisles at accessible parking spaces (see R309.2.1 and R309.3) and accessible passenger loading zones (see R310.3.4); and
+- Ramp runs and landings (see R407.7).
+</div>
+
+##### R302.7.1 Vertical Alignment
+Vertical alignment shall be generally planar within pedestrian access routes (including curb ramp runs, blended transitions, turning spaces, and gutter areas within pedestrian
 access routes) and surfaces at other elements and spaces required to
 comply with R302.7 that connect to pedestrian access routes. Grade
 breaks shall be flush. Where pedestrian access routes cross rails at
@@ -158,9 +129,8 @@ grade, the pedestrian access route surface shall be level and flush with
 the top of rail at the outer edges of the rails, and the surface between
 the rails shall be aligned with the top of rail.
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R302.7.1 Vertical Alignment.** Pedestrian access route surfaces must be generally planar and smooth. Surfaces should be chosen for easy rollability. Surfaces that are heavily textured, rough, or chamfered and paving systems consisting of individual units that cannot be laid in plane will greatly increase rolling resistance and subject pedestrians who use wheelchairs, scooters, and rolling walkers to the stressful and often painful effects of vibration. Such materials should be reserved for borders and decorative accents located outside of or only occasionally crossing the pedestrian access route. Surfaces should be designed, constructed, and maintained according to appropriate industry standards, specifications, and recommendations for best practice.
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R302.7.1 Vertical Alignment.** Pedestrian access route surfaces must be generally planar and smooth. Surfaces should be chosen for easy rollability. Surfaces that are heavily textured, rough, or chamfered and paving systems consisting of individual units that cannot be laid in plane will greatly increase rolling resistance and subject pedestrians who use wheelchairs, scooters, and rolling walkers to the stressful and often painful effects of vibration. Such materials should be reserved for borders and decorative accents located outside of or only occasionally crossing the pedestrian access route. Surfaces should be designed, constructed, and maintained according to appropriate industry standards, specifications, and recommendations for best practice.
 
 **R302.7.2 Vertical Surface Discontinuities.** Vertical surface
 discontinuities shall be 13 mm (0.5 in) maximum. Vertical surface
