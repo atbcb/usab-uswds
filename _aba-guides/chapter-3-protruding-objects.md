@@ -1,7 +1,6 @@
 ---
 title: "Chapter 3: Protruding objects"
 order-number: 7
-permalink: /aba/guides/
 file: protruding-objects-ABA.pdf
 file-description: PDF version of Chapter 3 Protruding Objects Guide
 ---
