@@ -132,8 +132,8 @@ the rails shall be aligned with the top of rail.
 {: .advisory}
 **Advisory R302.7.1 Vertical Alignment.** Pedestrian access route surfaces must be generally planar and smooth. Surfaces should be chosen for easy rollability. Surfaces that are heavily textured, rough, or chamfered and paving systems consisting of individual units that cannot be laid in plane will greatly increase rolling resistance and subject pedestrians who use wheelchairs, scooters, and rolling walkers to the stressful and often painful effects of vibration. Such materials should be reserved for borders and decorative accents located outside of or only occasionally crossing the pedestrian access route. Surfaces should be designed, constructed, and maintained according to appropriate industry standards, specifications, and recommendations for best practice.
 
-**R302.7.2 Vertical Surface Discontinuities.** Vertical surface
-discontinuities shall be 13 mm (0.5 in) maximum. Vertical surface
+##### R302.7.2 Vertical Surface Discontinuities
+Vertical surface discontinuities shall be 13 mm (0.5 in) maximum. Vertical surface
 discontinuities between 6.4 mm (0.25 in) and 13 mm (0.5 in) shall be
 beveled with a slope not steeper than 50 percent. The bevel shall be
 applied across the entire vertical surface discontinuity.
@@ -143,15 +143,13 @@ applied across the entire vertical surface discontinuity.
 ![Vertical surface discontinuity 6.4 mm (1/4 inch) max with straight
 edge and vertical surface discontinuity 6.4 -- 13 mm (1/4 -- 1 /2 inch)
 max with 1:2 beveled
-edge](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-7-2.jpg){width="400"
-height="195"}
+edge](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-7-2.jpg)
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R302.7.2 Vertical Surface Discontinuities.** The allowance for vertical surface discontinuities is for occasional expansion joints and objects such as utility covers, vault frames, and gratings that cannot be located in another portion of the sidewalk outside the pedestrian access route. However, objects such as utility covers, vault frames, and gratings should not be located on curb ramp runs, blended transitions, turning spaces, or gutter areas within the pedestrian access route. This may not always be possible in alterations, but should be avoided wherever possible. Vertical surface discontinuities between unit pavers should be minimized.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R302.7.2 Vertical Surface Discontinuities.** The allowance for vertical surface discontinuities is for occasional expansion joints and objects such as utility covers, vault frames, and gratings that cannot be located in another portion of the sidewalk outside the pedestrian access route. However, objects such as utility covers, vault frames, and gratings should not be located on curb ramp runs, blended transitions, turning spaces, or gutter areas within the pedestrian access route. This may not always be possible in alterations, but should be avoided wherever possible. Vertical surface discontinuities between unit pavers should be minimized.
 
-**R302.7.3 Horizontal Openings.** Horizontal openings in gratings and
-joints shall not permit passage of a sphere more than 13 mm (0.5 in) in
+##### R302.7.3 Horizontal Openings
+Horizontal openings in gratings and joints shall not permit passage of a sphere more than 13 mm (0.5 in) in
 diameter. Elongated openings in gratings shall be placed so that the
 long dimension is perpendicular to the dominant direction of travel.
 
@@ -161,67 +159,46 @@ long dimension is perpendicular to the dominant direction of travel.
 openings 13 mm (1 /2 inch) maximum in one dimension. The other dimension
 is longer (unspecified) and is perpendicular to the dominant direction
 of
-travel.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-7-3.jpg){width="400"
-height="320"}
+travel.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-7-3.jpg)
 
-**R302.7.4 Flangeway Gaps.** Flangeway gaps at pedestrian at-grade rail
-crossings shall be 64 mm (2.5 in) maximum on non-freight rail track and
+##### R302.7.4 Flangeway Gaps
+Flangeway gaps at pedestrian at-grade rail crossings shall be 64 mm (2.5 in) maximum on non-freight rail track and
 75 mm (3 in) maximum on freight rail track.
 
 **Figure R302.7.4 Flangeway Gaps**
 
 ![Flangeway gaps shown 64 mm (2.5 in) max. (figure a) and 75 mm (3 in)
 max (figure
-b)](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-7-4.jpg){width="400"
-height="263"}
+b)](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-7-4.jpg)
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R302.7.4 Flangeway Gaps.** Flangeway gaps are necessary to allow the passage of train wheel flanges. Flangeway gaps pose a potential hazard to pedestrians who use wheelchairs because the gaps can entrap the wheelchair casters.
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R302.7.4 Flangeway Gaps.** Flangeway gaps are necessary to allow the passage of train wheel flanges. Flangeway gaps pose a potential hazard to pedestrians who use wheelchairs because the gaps can entrap the wheelchair casters.
 
-**\
-R303 Alternate Pedestrian Access Routes (See R205)\
-**
+### R303 Alternate Pedestrian Access Routes 
+(See R205)
 
-**\
-R304 Curb Ramps and Blended Transitions**
+### R304 Curb Ramps and Blended Transitions
 
-**R304.1 General.** Curb ramps and blended transitions shall comply with
-R304.
+#### R304.1 General
+Curb ramps and blended transitions shall comply with R304.
 
-+-----------------------------------------------------------------------+
-| **Advisory R304.1 General.** There are two types of curb ramps:       |
-|                                                                       |
-| -   Perpendicular curb ramps have a running slope that cuts through   |
-|     or is built up to the curb at right angles or meets the gutter    |
-|     break at right angles where the curb is curved. On large corner   |
-|     radiuses, it will be necessary to indent the gutter break on one  |
-|     side of the curb ramp in order for the curb ramp to meet the      |
-|     gutter break at right angles.                                     |
-| -   Parallel curb ramps have a running slope that is in-line with the |
-|     direction of sidewalk travel and lower the sidewalk to a level    |
-|     turning space where a turn is made to enter the pedestrian street |
-|     crossing.                                                         |
-|                                                                       |
-| Perpendicular curb ramps can be provided where the sidewalk is at     |
-| least 3.7 m (12.0 ft) wide. Parallel curb ramps can be provided where |
-| the sidewalk is at least 1.2 m (4.0 ft) wide. Parallel and            |
-| perpendicular curb ramps can be combined. A parallel curb ramp is     |
-| used to lower the sidewalk to a mid-landing and a short perpendicular |
-| curb ramp connects the landing to the street. Combination curb ramps  |
-| can be provided where the sidewalk is at least 1.8 m (6.0 ft) wide.   |
-|                                                                       |
-| Blended transitions are raised pedestrian street crossings, depressed |
-| corners, or similar connections between pedestrian access routes at   |
-| the level of the sidewalk and the level of the pedestrian street      |
-| crossing that have a grade of 5 percent or less. Blended transitions  |
-| are suitable for a range of sidewalk conditions.                      |
-+-----------------------------------------------------------------------+
 
-**R304.2 Perpendicular Curb Ramps.** Perpendicular curb ramps shall
-comply with R304.2 and R304.5.\
-\
-**R304.2.1 Turning Space.** A turning space 1.2 m (4.0 ft) minimum by
+<div class="advisory" markdown="1">
+**Advisory R304.1 General.** There are two types of curb ramps:
+
+- Perpendicular curb ramps have a running slope that cuts through or is built up to the curb at right angles or meets the gutter break at right angles where the curb is curved. On large corner radiuses, it will be necessary to indent the gutter break on one side of the curb ramp in order for the curb ramp to meet the gutter break at right angles.
+- Parallel curb ramps have a running slope that is in-line with the direction of sidewalk travel and lower the sidewalk to a level turning space where a turn is made to enter the pedestrian street crossing.
+
+Perpendicular curb ramps can be provided where the sidewalk is at least 3.7 m (12.0 ft) wide. Parallel curb ramps can be provided where the sidewalk is at least 1.2 m (4.0 ft) wide. Parallel and perpendicular curb ramps can be combined. A parallel curb ramp is used to lower the sidewalk to a mid-landing and a short perpendicular curb ramp connects the landing to the street. Combination curb ramps can be provided where the sidewalk is at least 1.8 m (6.0 ft) wide.
+
+Blended transitions are raised pedestrian street crossings, depressed corners, or similar connections between pedestrian access routes at the level of the sidewalk and the level of the pedestrian street crossing that have a grade of 5 percent or less. Blended transitions are suitable for a range of sidewalk conditions.
+</div>
+
+#### R304.2 Perpendicular Curb Ramps
+Perpendicular curb ramps shall comply with R304.2 and R304.5.
+
+##### R304.2.1 Turning Space
+A turning space 1.2 m (4.0 ft) minimum by
 1.2 m (4.0 ft) minimum shall be provided at the top of the curb ramp and
 shall be permitted to overlap other turning spaces and clear spaces.
 Where the turning space is constrained at the back-of-sidewalk, the
@@ -234,19 +211,18 @@ ramp run.
 ![Turning space 1.2 m (4.0 ft) min by 1.2 m (4.0 ft) min at top of curb
 ramps or 1.2 m (4.0 ft) wide min by 1.5 m (5.0 ft) long min where space
 is constrained at the back-of-sidewalk
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-2-1.jpg){width="400"
-height="237"}
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-2-1.jpg)
 
-**R304.2.2 Running Slope.** The running slope of the curb ramp shall cut
-through or shall be built up to the curb at right angles or shall meet
+##### R304.2.2 Running Slope
+The running slope of the curb ramp shall cut through or shall be built up to the curb at right angles or shall meet
 the gutter grade break at right angles where the curb is curved. The
 running slope of the curb ramp shall be 5 percent minimum and 8.3
 percent maximum but shall not require the ramp length to exceed 4.5 m
 (15.0 ft). The running slope of the turning space shall be 2 percent
 maximum.
 
-**R304.2.3 Flared Sides.** Where a pedestrian circulation path crosses
-the curb ramp, flared sides shall be sloped 10 percent maximum, measured
+##### R304.2.3 Flared Sides
+Where a pedestrian circulation path crosses the curb ramp, flared sides shall be sloped 10 percent maximum, measured
 parallel to the curb line.
 
 **Figure 304.2.3 Flared Sides**
@@ -254,17 +230,17 @@ parallel to the curb line.
 ![Flared sides sloped 10 percent max at curb ramps where pedestrian
 circulation paths cross the ramp (returned curbs shown where protected
 from pedestrian cross
-traffic](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-2-3.jpg){width="400"
-height="196"}
+traffic](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-2-3.jpg)
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R304.2.3 Flared Sides.** The flared sides are part of the pedestrian circulation path, but are not part of the pedestrian access route. Curb ramps whose sides have returned curbs provide useful directional cues where they are aligned with the pedestrian street crossing and are protected from cross travel by landscaping, street furniture, chains, fencing, or railings.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R304.2.3 Flared Sides.** The flared sides are part of the pedestrian circulation path, but are not part of the pedestrian access route. Curb ramps whose sides have returned curbs provide useful directional cues where they are aligned with the pedestrian street crossing and are protected from cross travel by landscaping, street furniture, chains, fencing, or railings.
 
-**R304.3 Parallel Curb Ramps.** Parallel curb ramps shall comply with
+#### R304.3 Parallel Curb Ramps
+Parallel curb ramps shall comply with
 R304.3 and R304.5.
 
-**R304.3.1 Turning Space.** A turning space 1.2 m (4.0 ft) minimum by
+##### R304.3.1 Turning Space
+A turning space 1.2 m (4.0 ft) minimum by
 1.2 m (4.0 ft) minimum shall be provided at the bottom of the curb ramp
 and shall be permitted to overlap other turning spaces and clear spaces.
 If the turning space is constrained on 2 or more sides, the turning
@@ -277,46 +253,36 @@ street crossing.
 ![Turning space 1.2 m (4.0 ft) min by 1.2 m (4.0 ft) min at the bottom
 of curb ramp or 1.2 m (4.0 ft) wide min by 1.5 m (5.0 ft) long min where
 the space is constrained on 2 or more sides
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-3-1.jpg){width="400"
-height="214"}
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-3-1.jpg)
 
-**R304.3.2 Running Slope.** The running slope of the curb ramp shall be
-in-line with the direction of sidewalk travel. The running slope of the
+##### R304.3.2 Running Slope
+The running slope of the curb ramp shall be in-line with the direction of sidewalk travel. The running slope of the
 curb ramp shall be 5 percent minimum and 8.3 percent maximum but shall
 not require the ramp length to exceed 4.5 m (15.0 ft) minimum. The
 running slope of the turning space shall be 2 percent maximum.
 
-**R304.4 Blended Transitions.** Blended transitions shall comply with
-R304.4 and R304.5.
+#### R304.4 Blended Transitions
+Blended transitions shall comply with R304.4 and R304.5.
 
-**R304.4.1 Running Slope.** The running slope of blended transitions
-shall be 5 percent maximum.
+##### R304.4.1 Running Slope
+The running slope of blended transitions shall be 5 percent maximum.
 
 **Figure R304.4.1 Running Slope**
 
 ![Curb ramp running slope 5% max
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-4-1.jpg){width="400"
-height="321"}
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-4-1.jpg)
 
-**R304.5 Common Requirements.** Curb ramps and blended transitions shall
-comply with R304.5.
+#### R304.5 Common Requirements
+Curb ramps and blended transitions shall comply with R304.5.
 
-+-----------------------------------------------------------------------+
-| **R304.5.1 Width.  The width of curb ramps and blended transitions    |
-| shall comply with 304.5.1.1 or 304.5.1.2, as applicable. If provided, |
-| flared sides of curb ramp runs and blended transitions shall be       |
-| located outside the width of the curb ramp run or blended transition. |
-|   **                                                                  |
-|                                                                       |
-| **R304.5.1.1 Pedestrian Circulation Paths Other Than Shared Use       |
-| Paths.  In pedestrian circulation paths other than shared use paths,  |
-| the clear width of curb ramp runs, blended transitions, and turning   |
-| spaces shall be 1.2 m (4.0 ft) minimum. **                            |
-|                                                                       |
-| **R304.5.1.2 Shared Use Paths.  In shared use paths, the width of     |
-| curb ramps runs and blended transitions shall be equal to the width   |
-| of the shared use path. **                                            |
-+-----------------------------------------------------------------------+
+##### R304.5.1 Width
+The width of curb ramps and blended transitions shall comply with 304.5.1.1 or 304.5.1.2, as applicable. If provided, flared sides of curb ramp runs and blended transitions shall be located outside the width of the curb ramp run or blended transition.
+
+###### R304.5.1.1 Pedestrian Circulation Paths Other Than Shared Use Paths
+In pedestrian circulation paths other than shared use paths, the clear width of curb ramp runs, blended transitions, and turning spaces shall be 1.2 m (4.0 ft) minimum.
+
+###### R304.5.1.2 Shared Use Paths
+In shared use paths, the width of curb ramp runs and blended transitions shall be equal to the width of the shared use path.
 
 **Figure R304.5.1 Width**
 
