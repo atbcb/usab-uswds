@@ -516,34 +516,43 @@ uppercase letter "I".
 
 **Table R410.6 Visual Character Height**
 
-| Height to Finish Surface From Baseline of Character | Horizontal Viewing Distance | Minimum Character Height |
-| --- | --- | --- |
-| 1.0 m (3.3 ft) to less than or equal to 1.8 m (5.8 ft) | Less than 1.8 m (6.0 ft) | 16 mm (0.625 in) |
+<table class="usa-table">
+    <thead>
+        <td>Height to Finish Surface From Baseline of Character</td>
+        <td>Horizontal Viewing Distance</td>
+        <td>Minimum Character Height</td>
+    </thead>
+    <tbody>
+        <tr>
+            <td rowspan="2">1.0 m (3.3 ft) to less than or equal to 1.8 m (5.8 ft)</td>
+            <td>Less than 1.8 m (6.0 ft)</td>
+            <td>16 mm (0.625 in)</td>
+        </tr>
+        <tr>
+            <td>1.8 m (6.0 ft) and greater</td>
+            <td>16 mm (0.625 in), plus 3.2 mm (0.125 in) per 0.3 m (1.0 ft) of viewing distance above 1.8 m (6.0 ft)</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Greater than 1.8 m (5.8 ft) to less than or equal to 3.0 m (10.0 ft)</td>
+            <td>Less than 4.6 m (15.0 ft)</td>
+            <td>51 mm (2 in)</td>
+        </tr>
+        <tr>
+            <td>4.6 m (15.0 ft) and greater</td>
+            <td>51 mm (2 in), plus 3.2 mm (0.125 in) per 0.3 m (1.0 ft) of viewing distance above 4.6&nbsp;m (15.0 ft)</td>
+        </tr>
+        <tr>
+            <td rowspan="2">Greater than 3.0 m (10.0 ft)</td>
+            <td>Less than 6.4 m (21.0 ft)</td>
+            <td>75 mm (3 in)</td>
+        </tr>
+        <tr>
+            <td>6.4 m (21.0 ft) and greater</td>
+            <td>75 mm (3 in), plus 3.2 mm (0.125 in) per 0.3 m (1.0 ft) of viewing distance above 6.4&nbsp;m (21.0 ft)</td>
+        </tr>
+    </tbody>
+</table>
 
-| 1.8 m (6.0 ft) and greater | 16 mm (0.625 in), plus 3.2 mm (0.125 in) per 0.3 m (1.0 ft) of viewing
-distance above 1.8 m (6.0 ft)
-
-Greater than 1.8 m (5.8 ft) to less than or equal to 3.0 m (10.0 ft)
-
-Less than 4.6 m (15.0 ft)
-
-51 mm (2 in)
-
-4.6 m (15.0 ft) and greater
-
-51 mm (2 in), plus 3.2 mm (0.125 in) per 0.3 m (1.0 ft) of viewing
-distance above 4.6 m (15.0 ft)
-
-Greater than 3.0 m (10.0 ft)
-
-Less than 6.4 m (21.0 ft)
-
-75 mm (3 in)
-
-6.4 m (21.0 ft) and greater
-
-75 mm (3 in), plus 3.2 mm (0.125 in) per 0.3 m (1.0 ft) of viewing
-distance above 6.4 m (21.0 ft)
 
 #### R410.7 Height from Finish Surface
 Visual characters shall be 1.0 m
