@@ -23,7 +23,7 @@ backend:
 ##
 
 media_folder: images/uploads
-public_folder: /images/uploads
+public_folder: uploads
 publish_mode: editorial_workflow
 logo_url: /images/usab-seal.png
 
@@ -90,9 +90,15 @@ collections:
           label: "Webinar Date",
           name: "webinar-date",
           widget: "datetime",
-          format: "MMMM D, YYYY",
+          format: "LLL",
           dateFormat: "MMMM D, YYYY",
-          timeFormat: true,
+          timeFormat: "hh:mm a",
+          required: false,
+        }
+      - {
+          label: "Registration Link",
+          name: "registration-link",
+          widget: "string",
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }

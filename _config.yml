@@ -82,11 +82,11 @@ primary_navigation:
         url: /ada/
       - name: Architectural Barriers Act (ABA)
         url: /aba/
-      - name: Public Rights-of-Way
+      - name: Public Rights-of-Way (PROWAG)
         url: /prowag/
       - name: Vehicles
         url: /ada/vehicles/
-      - name: Passenger Vessels
+      - name: Passenger Vessels (PVAG)
         url: /pvag/
       - name: Medical Diagnostic Equipment (MDE)
         url: /mde/
@@ -95,7 +95,7 @@ primary_navigation:
       - name: Archive
         url: /guidelines-&-standards/archive/
   - name: Training & Webinars
-    url: /training/
+    url: /webinars/
   - name: File an ABA complaint
     url: /enforcement/
   - name: Research
@@ -179,7 +179,8 @@ defaults:
       path: ""
       type: "ada"
     values:
-      collection-title: "Americans with Disabilities Act Accessibility Standards"
+      collection-title: "Americans with Disabilities Act"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: ada
       layout: standards
       file-directory: /files/ada-aba/
@@ -199,7 +200,8 @@ defaults:
       path: ""
       type: "aba"
     values:
-      collection-title: "Architectural Barriers Act Accessibility Standards"
+      collection-title: "Architectural Barriers Act"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: aba
       layout: standards
       file-directory: /files/ada-aba/
@@ -229,7 +231,8 @@ defaults:
       path: ""
       type: "prowag-shared-use"
     values:
-      collection-title: "Proposed Public Rights-of-Way Accessibility Guideliness with Shared Use Paths supplemental notice"
+      collection-title: "(Proposed) Public Rights-of-Way"
+      collection-subtitle: "Accessibility Guidelines"
       collection-folder: prowag-shared-use
       layout: standards
       file-directory: /files/prowag/
@@ -274,7 +277,8 @@ defaults:
       path: ""
       type: "mde"
     values:
-      collection-title: "Medical Diagnostic Equipment Accessibility Standards"
+      collection-title: "Medical Diagnostic Equipment"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: mde
       layout: standards
       file-directory: /files/mde/
@@ -283,7 +287,8 @@ defaults:
       path: ""
       type: "pvag"
     values:
-      collection-title: "Passenger Vessels Accessibility Guidelines"
+      collection-title: "(Proposed) Passenger Vessels"
+      collection-subtitle: "Accessibility Guidelines"
       collection-folder: pvag
       layout: standards
       file-directory: /files/pvag/

@@ -6,7 +6,8 @@ file-description: PDF version
 ---
 <div class="clearfix" markdown="1">
 ![roller
-coaster]({{ site.baseurl }}{{ page.image-directory }}chapter10/amusement/roller-coaster.jpg){: .float-right .thumbnail}
+coaster]({{ site.baseurl }}{{ page.image-directory }}chapter10/amusement/roller-coaster.jpg){: .float-right}
+
 
 >*"Whenever any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
