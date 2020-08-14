@@ -27,19 +27,19 @@ and private residence elevators.
     </thead>
     <tbody>
         <tr>
-            <td>Facilities required to provide an accessible route to stories/ mezzanines</td>
+            <th scope="row">Facilities required to provide an accessible route to stories/ mezzanines</th>
             <td>Elevator (§407)</td>
         </tr>
         <tr>
-            <td>Facilities not required to provide an accessible route to stories/ mezzanines</td>
+            <th scope="row">Facilities not required to provide an accessible route to stories/ mezzanines</th>
             <td>Elevator (§407) or LULA (§408)</td>
         </tr>
         <tr>
-            <td>Residential Dwelling Units</td>
+            <th scope="row">Residential Dwelling Units</th>
             <td>Elevator (§407), LULA (§408), or Private Residence Elevator (§409)</td>
         </tr>
         <tr>
-            <td>Spaces permitted to be served by a platform lift</td>
+            <th scope="row">Spaces permitted to be served by a platform lift</th>
             <td>Elevator (§407), LULA (§408), or Platform Lift (§410)</td>
         </tr>
     </tbody>
@@ -195,7 +195,7 @@ car serves over 16 openings and parallel approach provided). Emergency
 controls buttons grouped at bottom of panel 35" min. measured to
 centerline of bottom buttons.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl7.jpg){: .img-large} 
 
-**Car Controls (§407.4.6 and §407.4.7)** 
+**Car Controls (§407.4.6 and §407.4.7)**
 
 ![Car control panel detail. Notes: Raised characters to immediate left
 of button, raised 1/32" min, sans serif (sufficient color contrast from
@@ -586,7 +586,6 @@ doors/gates are on the narrow end only, the length is 48" min. If a
 door/gate is on the longer side, the min. length is 60" to accommodate
 side approach
 maneuvering.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl22a.JPG){: .img-large}       
-
 ### Common Questions
 
 ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail}

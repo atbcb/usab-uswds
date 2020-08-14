@@ -64,7 +64,7 @@ buildings, facilities, elements, and spaces on a site.
 
 #### Accessible Routes (Exterior) within a Site
 
-### ![Exterior accessible routes at a site with multiple buildings. Notes: An accessible route must connect site arrival points such as accessible parking spaces, passenger loading zones, and transportation stops to each accessible facility they serve. An accessible route within the boundary of the site must connect each facility on a site (except those connected only by a vehicular way that does not provide pedestrian access). An accessible route from public streets and sidewalks must connect directly or indirectly to all accessible facilities and elements on a site. An accessible route must serve all accessible spaces and elements on a site, including those that are exterior, such as courtyards and drinking fountains. An accessible route is not required where the only means of access between buildings, facilities, or elements is a vehicular way not providing pedestrian access (§206.2.2, Ex.). Accessible routes must coincide with, or be in the same area as, circulation paths. This promotes equivalency and precludes accessible routes that are obscure, hard to find, or that diverge from circulation paths more than is necessary (§206.3).]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar4.jpg){: .img-large}
+![Exterior accessible routes at a site with multiple buildings. Notes: An accessible route must connect site arrival points such as accessible parking spaces, passenger loading zones, and transportation stops to each accessible facility they serve. An accessible route within the boundary of the site must connect each facility on a site (except those connected only by a vehicular way that does not provide pedestrian access). An accessible route from public streets and sidewalks must connect directly or indirectly to all accessible facilities and elements on a site. An accessible route must serve all accessible spaces and elements on a site, including those that are exterior, such as courtyards and drinking fountains. An accessible route is not required where the only means of access between buildings, facilities, or elements is a vehicular way not providing pedestrian access (§206.2.2, Ex.). Accessible routes must coincide with, or be in the same area as, circulation paths. This promotes equivalency and precludes accessible routes that are obscure, hard to find, or that diverge from circulation paths more than is necessary (§206.3).]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar4.jpg){: .img-large}
 
 ### Accessible Routes within a Building or Facility
 
@@ -208,7 +208,7 @@ a primary function area.
 
 #### When Accessible Routes to Stories/ Mezzanines are Required in Alterations or Additions
 
- ![Building schematic with stairways highlighted and route to primary
+![Building schematic with stairways highlighted and route to primary
 function area on upper floor highlighted. Notes: Where stairs or
 escalators are added where none existed previously and major structural
 modifications are necessary, accessible routes must connect each level
