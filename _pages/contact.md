@@ -42,11 +42,13 @@ Email:  <info@access-board.gov>
 ***Voice:***  **202-272-0080** or **800-872-2253**  
 ***tty:***  **202-272-0082** or **800-993-2822**
 
-| **Executive Director's Office** |
+| Executive Director's Office |
+| --- | --- | --- |
 | Gretchen Jacobs, Acting Executive Director | 202-272-0040 (v) | 202-272-0075 (tty) |
 | Rose Marie Bunales | 202-272-0006 (v) | 202-272-0057 (tty) |
-| |
-| **Office of Administration** |
+
+| Office of Administration |
+| --- | --- | --- |
 | Earlene Sesker, Director | 202-272-0022 (v) | 202-272-0091 (tty) |
 | Edson Carneiro | 202-272-0008 (v) | 202-272-0077 (tty) |
 | Gainna Ellis | 202-272-0007 (v) | 202-272-0058 (tty) |
@@ -56,12 +58,14 @@ Email:  <info@access-board.gov>
 | Jeffrey Sargent | 202-272-0038 (v) | 202-272-0055 (tty) |
 | Charles Washington | 202-272-0005 (v) | 202-272-0061 (tty) |
 | Jianhao Zhen | 202-272-0002 (v) | 202-272-0052 (tty) |
-| |
-| **Public Affairs** |
+
+| Public Affairs |
+| --- | --- | --- |
 | Dave Yanchulis | 202-272-0026 (v) | 202-272-0027 (tty) |
-| |
-| **Technical and Information Services** |
-| Dave Yanchulis, Director  | 202-272-0026 (v) | 202-272-0027 (tty)    |
+
+| Technical and Information Services |
+| --- | --- | --- |
+| Dave Yanchulis, Director  | 202-272-0026 (v) | 202-272-0027 (tty) |
 | Bruce Bailey | 202-272-0024 (v) | 202-272-0070 (tty) |
 | William Botten | 202-272-0014 (v) | 202-272-0073 (tty) |
 | Timothy Creagan | 202-272-0016 (v) | 202-272-0074 (tty) |
@@ -72,8 +76,9 @@ Email:  <info@access-board.gov>
 | Juliet Shoultz | 202-272-0045 (v) | 202-272-0064 (tty) |
 | Bobby Stinnette | 202-272-0021 (v) | 202-272-0049 (tty) |
 | Scott Windley | 202-272-0025 (v) | 202-272-0028 (tty) |
-| |
-| **Office of the General Counsel** |
+
+| Office of the General Counsel |
+| --- | --- | --- |
 | Gretchen Jacobs, General Counsel | 202-272-0040 (v) | 202-272-0075 (tty) |
 | Mario Damiani | 202-272-0050 (v) | 202-272-0066 (tty) |
 | Christopher Kuczynski | 202-272-0042 (v) | 202-272-0076 (tty) |
@@ -92,8 +97,8 @@ Metro Stop:  [Metro Center](https://www.wmata.com/rider-guide/stations/metro-c
 
 Use exit at:
 
--   12th & G Streets (go 1 block south to F Street, turn right and go 1½ blocks west)
--   13th & G Streets (go 1 block south to F Street, turn right and go ½ block west), or
--   12th & F Streets (go 1½ blocks west along F Street past 13th Street)
+- 12th & G Streets (go 1 block south to F Street, turn right and go 1½ blocks west)
+- 13th & G Streets (go 1 block south to F Street, turn right and go ½ block west), or
+- 12th & F Streets (go 1½ blocks west along F Street past 13th Street)
 
 ![detail of map showing Board office on F Street, north side, mid-block between 13th and 14th Streets, NW]({{ site.baseurl }}/images/map.jpg)
