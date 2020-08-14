@@ -522,42 +522,42 @@ signal serves.
 
 {: .advisory}
 **Advisory R306.3.2 Pedestrian Activated Signals.** Roundabouts with single-lane approach and exit legs are not required to provide pedestrian activated signals. Pedestrian activated signals must comply with the requirements for accessible pedestrian signals and pedestrian pushbuttons (see R209). Pedestrian activated signals installed at splitter islands should be carefully located and separated so that signal spillover does not give conflicting information about which pedestrian street crossing has the WALK indication displayed. Pedestrian Hybrid Beacons can be used at roundabouts (see MUTCD sections 4F.01 through 4F.03). Pedestrian Hybrid Beacons are traffic signals that consist of a yellow signal centered below two horizontally aligned red signals. The signals are normally not illuminated. The signals are initiated only upon pedestrian activation and can be timed to minimize the interruption of traffic. The signals cease operation after the pedestrian clears the crosswalk. When activated by a pedestrian, the following signals are displayed to drivers: a flashing yellow signal, then a steady yellow signal, then two steady red signals during the pedestrian walk interval, and then alternating flashing red signals during the pedestrian clearance interval. The following signals are displayed to pedestrians: a steady upraised hand (symbolizing DON'T WALK) when the flashing or steady yellow signal is operating, then a walking person (symbolizing WALK) when the steady red signals are operating, and then a flashing upraised hand (symbolizing DON'T WALK) when the alternating flashing red signals are operating.
-  
-**R306.4 Channelized Turn Lanes at Roundabouts.** At roundabouts with
+
+#### R306.4 Channelized Turn Lanes at Roundabouts
+At roundabouts with
 pedestrian street crossings, pedestrian activated signals complying with
 R209 shall be provided at pedestrian street crossings at multi-lane
 channelized turn lanes.
 
-**R306.5 Channelized Turn Lanes at Other Signalized Intersections.** At
-signalized intersections other than roundabouts with pedestrian street
+#### R306.5 Channelized Turn Lanes at Other Signalized Intersections
+At signalized intersections other than roundabouts with pedestrian street
 crossings, pedestrian activated signals complying with R209 shall be
 provided at pedestrian street crossings at multi-lane channelized turn
 lanes.
 
-**\
-R307 Accessible Pedestrian Signals and Pedestrian Pushbuttons (See
-R209)**
+### R307 Accessible Pedestrian Signals and Pedestrian Pushbuttons 
+(See R209)
 
-\
-**R308 Transit Stops and Transit Shelters**\
-\
-**R308.1 Transit Stops.** Transit stops shall comply with R308.1.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R308.1 Transit Stops.** Transit stops should be located so that there is a level and stable surface for boarding vehicles. Locating transit stops at signalized intersections increases the usability for pedestrian with disabilities. Where security bollards are installed at transit stops, they must not obstruct the clear space at boarding and alighting areas or reduce the required clear width at pedestrian access routes (see R210).
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+### R308 Transit Stops and Transit Shelters
 
-**R308.1.1 Boarding and Alighting Areas.** Boarding and alighting areas
-at sidewalk or street level transit stops shall comply with R308.1.1 and
+#### R308.1 Transit Stops
+Transit stops shall comply with R308.1.
+
+{: .advisory}
+**Advisory R308.1 Transit Stops.** Transit stops should be located so that there is a level and stable surface for boarding vehicles. Locating transit stops at signalized intersections increases the usability for pedestrians with disabilities. Where security bollards are installed at transit stops, they must not obstruct the clear space at boarding and alighting areas or reduce the required clear width at pedestrian access routes (see R210).
+
+##### R308.1.1 Boarding and Alighting Areas
+Boarding and alighting areas at sidewalk or street level transit stops shall comply with R308.1.1 and
 R308.1.3. Where transit stops serve vehicles with more than one car,
 boarding and alighting areas serving each car shall comply with R308.1.1
 and R308.1.3.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R308.1.1 Boarding and Alighting Areas.** Where a transit shelter is provided, the boarding and alighting area can be located either within or outside of the shelter.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R308.1.1 Boarding and Alighting Areas.** Where a transit shelter is provided, the boarding and alighting area can be located either within or outside of the shelter.
 
-**R308.1.1.1 Dimensions.** Boarding and alighting areas shall provide a
+###### R308.1.1.1 Dimensions
+Boarding and alighting areas shall provide a
 clear length of 2.4 m (8.0 ft) minimum, measured perpendicular to the
 curb or street or highway edge, and a clear width of 1.5 m (5.0 ft)
 minimum, measured parallel to the street or highway.
@@ -567,43 +567,46 @@ minimum, measured parallel to the street or highway.
 ![Boarding/ alighting area 2.4 m (8.0 ft) long min, measured
 perpendicular to the curb or street or highway edge, and 1.5 m (5.0 ft)
 wide min
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/308-1-1-1.jpg){width="400"
-height="298"}
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/308-1-1-1.jpg)
 
-**R308.1.1.2 Grade.** Parallel to the street or highway, the grade of
+###### R308.1.1.2 Grade
+Parallel to the street or highway, the grade of
 boarding and alighting areas shall be the same as the street or highway,
 to the extent practicable. Perpendicular to the street or highway, the
 grade of boarding and alighting areas shall not be steeper than 2
-percent.\
-\
-**R308.1.2 Boarding Platforms.** Boarding platforms at transit stops
+percent.
+
+##### R308.1.2 Boarding Platforms
+Boarding platforms at transit stops
 shall comply with R308.1.2 and R308.1.3.
 
-**R308.1.2.1 Platform and Vehicle Floor Coordination.** Boarding
-platforms shall be positioned to coordinate with vehicles in accordance
+###### R308.1.2.1 Platform and Vehicle Floor Coordination
+Boarding platforms shall be positioned to coordinate with vehicles in accordance
 with the applicable requirements in 49 CFR parts 37 and 38.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R308.1.2.1 Platform and Vehicle Floor Coordination.** The Department of Transportation regulations (49 CFR parts 37 and 38) require the height of the vehicle floor and the station platform to be coordinated so as to minimize the vertical and horizontal gaps.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R308.1.2.1 Platform and Vehicle Floor Coordination.** The Department of Transportation regulations (49 CFR parts 37 and 38) require the height of the vehicle floor and the station platform to be coordinated so as to minimize the vertical and horizontal gaps.
 
-**R308.1.2.2 Slope.** Boarding platforms shall not exceed a slope of 2
+###### R308.1.2.2 Slope
+Boarding platforms shall not exceed a slope of 2
 percent in any direction. Where boarding platforms serve vehicles
 operating on existing track or existing street or highway, the slope of
 the platform parallel to the track or the street or highway is permitted
 to be equal to the grade of the track or street or highway.
 
-**R308.1.3 Common Requirements.** Boarding and alighting areas and
+##### R308.1.3 Common Requirements
+Boarding and alighting areas and
 boarding platforms shall comply with R308.1.3.
 
-**R308.1.3.1 Surfaces.** The surfaces of boarding and alighting areas
+###### R308.1.3.1 Surfaces
+The surfaces of boarding and alighting areas
 and boarding platforms shall comply with R302.7.
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R308.1.3.1 Surfaces.** Detectable warning surfaces are required at boarding and alighting areas for rail vehicles and at boarding platforms for buses and rail vehicles (see R208).
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R308.1.3.1 Surfaces.** Detectable warning surfaces are required at boarding and alighting areas for rail vehicles and at boarding platforms for buses and rail vehicles (see R208).
 
-**R308.1.3.2 Connection.** Boarding and alighting areas and boarding
+###### R308.1.3.2 Connection
+Boarding and alighting areas and boarding
 platforms shall be connected to streets, sidewalks, or pedestrian
 circulation paths by pedestrian access routes complying with R302.
 
@@ -611,10 +614,10 @@ circulation paths by pedestrian access routes complying with R302.
 
 ![Boarding/ alighting area and bus shelter connected by a pedestrian
 accessible
-route](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/308-1-3-2.jpg){width="400"
-height="320"}
+route](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/308-1-3-2.jpg)
 
-**R308.2 Transit Shelters.** Transit shelters shall be connected by
+#### R308.2 Transit Shelters
+Transit shelters shall be connected by
 pedestrian access routes complying with R302 to boarding and alighting
 areas or boarding platforms complying with R308.1. Transit shelters
 shall provide a minimum clear space complying with R404 entirely within
@@ -625,27 +628,27 @@ Environmental controls within transit shelters shall be
 proximity-actuated. Protruding objects within transit shelters shall
 comply with R402.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R308.2 Transit Shelters.** The clear space must be located entirely within the transit shelter and not interfere with other persons using the seating.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R308.2 Transit Shelters.** The clear space must be located entirely within the transit shelter and not interfere with other persons using the seating.
+  
 
-\
-**R309 On-Street Parking Spaces\
-\
-R309.1 General.** On-street parking spaces shall comply with R309.
+### R309 On-Street Parking Spaces
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R309.1 General.** R214 specifies how many accessible parking spaces must be provided on the block perimeter where on-street parking is marked or metered. Accessible parking spaces must be identified by signs displaying the International Symbol of Accessibility (see R211.3 and R411). Accessible parking spaces should be located where the street has the least crown and grade and close to key destinations.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### R309.1 General
+On-street parking spaces shall comply with R309.
 
-**R309.2 Parallel Parking Spaces.** Parallel parking spaces shall comply
+{: .advisory}
+**Advisory R309.1 General.** R214 specifies how many accessible parking spaces must be provided on the block perimeter where on-street parking is marked or metered. Accessible parking spaces must be identified by signs displaying the International Symbol of Accessibility (see R211.3 and R411). Accessible parking spaces should be located where the street has the least crown and grade and close to key destinations.
+
+#### R309.2 Parallel Parking Spaces
+Parallel parking spaces shall comply
 with R309.2.
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R309.2 Parallel Parking Spaces**. The sidewalk adjacent to accessible parallel parking spaces should be free of signs, street furniture, and other obstructions to permit deployment of a van side-lift or ramp or the vehicle occupant to transfer to a wheelchair or scooter. Accessible parallel parking spaces located at the end of the block face are usable by vans that have rear lifts and cars that have scooter platforms.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R309.2 Parallel Parking Spaces**. The sidewalk adjacent to accessible parallel parking spaces should be free of signs, street furniture, and other obstructions to permit deployment of a van side-lift or ramp or the vehicle occupant to transfer to a wheelchair or scooter. Accessible parallel parking spaces located at the end of the block face are usable by vans that have rear lifts and cars that have scooter platforms.
 
-**R309.2.1 Wide Sidewalks.** Where the width of the adjacent sidewalk or
+##### R309.2.1 Wide Sidewalks
+Where the width of the adjacent sidewalk or
 available right-of-way exceeds 4.3 m (14.0 ft), an access aisle 1.5 m
 (5.0 ft) wide minimum shall be provided at street level the full length
 of the parking space and shall connect to a pedestrian access route. The
@@ -657,19 +660,19 @@ vehicular travel lane.
 ![A 1.5 m (5 ft) wide min access aisle running the full length of
 parallel parking space and located beyond the face of curb at sidewalk
 at least 4.3 m (14 ft) wide; aisle served by curb ramp at one end
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/309-2-1.jpg){width="400"
-height="286"}
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/309-2-1.jpg)
 
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R309.2.1 Wide Sidewalks.** Vehicles may park at the curb or at the parking lane boundary and use the space required by R309.2.1 on either the driver or passenger side of the vehicle to serve as the access aisle.
-  --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R309.2.1 Wide Sidewalks.** Vehicles may park at the curb or at the parking lane boundary and use the space required by R309.2.1 on either the driver or passenger side of the vehicle to serve as the access aisle.
 
-**R309.2.1.1 Alterations.** In alterations where the street or sidewalk
+###### R309.2.1.1 Alterations
+In alterations where the street or sidewalk
 adjacent to the parking spaces is not altered, an access aisle shall not
 be required provided the parking spaces are located at the end of the
 block face.
 
-**R309.2.2 Narrow Sidewalks.** An access aisle is not required where the
+##### R309.2.2 Narrow Sidewalks
+An access aisle is not required where the
 width of the adjacent sidewalk or the available right-of-way is less
 than or equal to 4.3 m (14.0 ft). When an access aisle is not provided,
 the parking spaces shall be located at the end of the block face.
@@ -678,14 +681,13 @@ the parking spaces shall be located at the end of the block face.
 
 ![An accessible parking space without access aisle located at the end of
 the block face with a sidewalk 4.3 m (14 ft) wide
-max](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/309-2-2.jpg){width="400"
-height="319"}
+max](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/309-2-2.jpg)
 
-  -------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R309.2.2 Narrow Sidewalks.** Vehicle lifts or ramps can be deployed on a 2.4 m (8.0 ft) sidewalk if there are no obstructions.
-  -------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R309.2.2 Narrow Sidewalks.** Vehicle lifts or ramps can be deployed on a 2.4 m (8.0 ft) sidewalk if there are no obstructions.
 
-**R309.3 Perpendicular or Angled Parking Spaces.** Where perpendicular
+#### R309.3 Perpendicular or Angled Parking Spaces
+Where perpendicular
 or angled parking is provided, an access aisle 2.4 m (8.0 ft) wide
 minimum shall be provided at street level the full length of the parking
 space and shall connect to a pedestrian access route. The access aisle
@@ -696,51 +698,52 @@ access aisle.
 **Figure R309.3 Perpendicular or Angled Parking Spaces**
 
 ![Access aisle 2.4 m (8 ft) wide min located between angled parking
-spaces](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/309-3.jpg){width="400"
-height="319"}
+spaces](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/309-3.jpg)
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R309.3 Perpendicular or Angled Parking Spaces.** Perpendicular and angled parking spaces permit the deployment of a van side-lift or ramp.
-  -------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R309.3 Perpendicular or Angled Parking Spaces.** Perpendicular and angled parking spaces permit the deployment of a van side-lift or ramp.
 
-**R309.4 Curb Ramps or Blended Transitions.** Curb ramps or blended
+#### R309.4 Curb Ramps or Blended Transitions
+Curb ramps or blended
 transitions complying with R304 shall connect the access aisle to the
 pedestrian access route. Curb ramps shall not be located within the
 access aisle.
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R309.4 Curb Ramps or Blended Transitions.** At parallel parking spaces, curb ramps and blended transitions should be located so that a van side-lift or ramp can be deployed to the sidewalk and the vehicle occupant can transfer to a wheelchair or scooter. Parking spaces at the end of the block face can be served by curb ramps or blended transitions at the pedestrian street crossing. Detectable warning surfaces are not required on curb ramps and blended transitions that connect the access aisle to the sidewalk, including where the sidewalk is at the same level as the parking spaces, unless the curb ramps and blended transitions also serve pedestrian street crossings (see R208).
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{: .advisory}
+**Advisory R309.4 Curb Ramps or Blended Transitions.** At parallel parking spaces, curb ramps and blended transitions should be located so that a van side-lift or ramp can be deployed to the sidewalk and the vehicle occupant can transfer to a wheelchair or scooter. Parking spaces at the end of the block face can be served by curb ramps or blended transitions at the pedestrian street crossing. Detectable warning surfaces are not required on curb ramps and blended transitions that connect the access aisle to the sidewalk, including where the sidewalk is at the same level as the parking spaces, unless the curb ramps and blended transitions also serve pedestrian street crossings (see R208).
 
-**R309.5 Parking Meters and Parking Pay Stations.** Parking meters and
+#### R309.5 Parking Meters and Parking Pay Stations
+Parking meters and
 parking pay stations that serve accessible parking spaces shall comply
-with R309.5. Operable parts shall comply with R403.\
-\
-**R309.5.1 Location**. At accessible parallel parking spaces, parking
+with R309.5. Operable parts shall comply with R403.
+
+##### R309.5.1 Location
+At accessible parallel parking spaces, parking
 meters shall be located at the head or foot of the parking space.
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R309.5.1 Location.** Locating parking meters at the head or foot of the parking space permits deployment of a van side-lift or ramp or the vehicle occupant to transfer to a wheelchair or scooter.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
-**R309.5.2 Displays and Information.** Displays and information shall be
+{: .advisory}
+**Advisory R309.5.1 Location.** Locating parking meters at the head or foot of the parking space permits deployment of a van side-lift or ramp or the vehicle occupant to transfer to a wheelchair or scooter.
+##### R309.5.2 Displays and Information
+Displays and information shall be
 visible from a point located 1.0 m (3.3 ft) maximum above the center of
 the clear space in front of the parking meter or parking pay station.
 
-\
-**R310 Passenger Loading Zones**
 
-**R310.1 General.** Passenger loading zones shall comply with R310.
+### R310 Passenger Loading Zones
 
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **Advisory R310.1 General.** Accessible passenger loading zones must be identified by signs displaying the International Symbol of Accessibility (see R211.3 and R411).
-  -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+#### R310.1 General
+Passenger loading zones shall comply with R310.
 
-**R310.2 Vehicle Pull-Up Space.** Passenger loading zones shall provide
+{: .advisory}
+**Advisory R310.1 General.** Accessible passenger loading zones must be identified by signs displaying the International Symbol of Accessibility (see R211.3 and R411).
+
+#### R310.2 Vehicle Pull-Up Space
+Passenger loading zones shall provide
 a vehicular pull-up space 2.4 m (8.0 ft) wide minimum and 6.1 m (20.0
 ft) long minimum.
 
-**R310.3 Access Aisle.** Passenger loading zones shall provide access
+#### R310.3 Access Aisle
+Passenger loading zones shall provide access
 aisles complying with R310.3 adjacent to the vehicle pull-up space.
 Access aisles shall be at the same level as the vehicle pull-up space
 they serve and shall not overlap the vehicular travel lane. Curb ramps
@@ -753,20 +756,20 @@ within the access aisle.
 ![Marked passenger loading zone accessible aisle flush with the vehicle
 pull-up space that is 1.5 m (5 ft) wide min, equal to the full length of
 the vehicle pull-up space, and located beyond the curb line
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/310-3.jpg){width="450"
-height="246"}
+](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/310-3.jpg)
 
-\
-**R310.3.1 Width.** Access aisles serving vehicle pull-up spaces shall
+
+##### R310.3.1 Width
+Access aisles serving vehicle pull-up spaces shall
 be 1.5 m (5.0 ft) wide minimum.
 
-**R310.3.2 Length.** Access aisles shall extend the full length of the
+##### R310.3.2 Length
+Access aisles shall extend the full length of the
 vehicle pull-up spaces they serve.
 
-**R310.3.3 Marking.** Access aisles shall be marked so as to discourage
+##### R310.3.3 Marking
+Access aisles shall be marked so as to discourage
 parking in them.
 
-**R310.3.4 Surfaces.** Access aisle surfaces shall comply with R302.7.
-:::
-
-[]{.clear}
+##### R310.3.4 Surfaces
+Access aisle surfaces shall comply with R302.7.
