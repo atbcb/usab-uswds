@@ -1,0 +1,13 @@
+# We can add any kind of data in this _data folder and this file.
+# In this example, we create a simple array of options and then in the _pages/collections.md file we 
+# Reference this data file in 'datafile' in the Front Matter and _layouts/data.html renders it 
+# This is simple, hopefully provides you with a good enough example to make changes as needed
+- name: Background
+  url: /aba/background/
+
+- name:  history and timeline
+  url: /aba/background/history/
+
+- name: ADAAG
+  url: /adaag/
+  

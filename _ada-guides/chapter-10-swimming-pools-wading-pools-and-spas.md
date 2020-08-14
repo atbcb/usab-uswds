@@ -56,7 +56,7 @@ facility]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/pagep
 ### Types of Facilities and Required Means of Entry into the Water
 #### Swimming Pools
 ![illustration of large pool showing the required two means of
-access]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-7hi.jpg){: .img-right}
+access]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-7hi.jpg){: .img-right}
 
 Large pools must have a minimum of two accessible means of entry.  A
 large pool is defined as any pool with over 300 linear feet of pool
@@ -77,7 +77,7 @@ or sloped entry.
 
  #### Aquatic Recreation Facilities
 ![photo of individual entering a wave action
-pool]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-8hi.jpg){: .img-right}
+pool]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-8hi.jpg){: .img-right}
 Wave action pools, leisure rivers, sand bottom pools, and other pools
 where access to the water is limited to one area and where everyone gets
 in and out at the same place, must provide at least one accessible means
@@ -99,7 +99,7 @@ sloped entry is provided.  The sloped entries for wading pools are not
 required to have handrails.
 
 #### Spas
-![photo of lift on a spa]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-8lo.jpg){: .img-right}
+![photo of lift on a spa]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-8lo.jpg){: .img-right}
 Spas must provide at least one accessible means of entry, which can be a
 pool lift, transfer wall, or transfer system.  If spas are provided in a
 cluster, 5 percent of the total --- or at least one spa --- must be
@@ -174,7 +174,7 @@ and there is sufficient space.
 ### Pool Lifts
 #### Lifts
 ![illustration of pool
-lift]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-pool9.jpg){: .img-right}
+lift]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-pool9.jpg){: .img-right}
 Pool lifts must be located where the water level is not deeper than 48
 inches. This provides the opportunity for someone to provide assistance
 from a standing position in the water if desired. If multiple pool lift
@@ -212,7 +212,7 @@ This virtually flat area will make the transfer easier and safer, while
 still allowing water to drain away from the deck.
 
 #### Seat Height
-![aquatic access for inc1]({{ site.baseurl }}{{ page.image-directory }}chapter10/aquatic_access_inc1.jpg){: .img-right}
+![aquatic access for inc1]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/aquatic_access_inc1.jpg){: .img-right}
 The lift must be designed so that the seat will make a stop between a
 minimum of 16 inches and maximum of 19 inches (measured from the deck to
 the top of the seat surface, when the seat is in the raised position).
@@ -246,7 +246,7 @@ pressure to operate.
 
 #### Submerged Depth
 ![illustration of pool lift submerged
-depth]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-pool11.jpg){: .img-right}
+depth]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-pool11.jpg){: .img-right}
 Lifts must be designed so that the seat will submerge to a minimum of 18
 inches below the stationary water level. This will ensure buoyancy for
 the person on the lift and make it easier to enter or exit.
@@ -263,7 +263,7 @@ weight capacity are encouraged.
 
 ### Sloped Entry
 ![photo of individual using a sloped
-entry]({{ site.baseurl }}{{ page.image-directory }}chapter10/poolramp.jpg){: .img-right}
+entry]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/poolramp.jpg){: .img-right}
 Sloped entries must comply with ADAAG accessible route provisions (36 inch minimum width, maximum 1:12 or 8.33% slope), except
 that the surface does not need to be slip resistant. The slope may be
 designed as zero grade beach or ramp access. With either design, the
@@ -280,7 +280,7 @@ consider storage options for personal mobility devices if deck space is
 limited.
 
 ![illlustration of sloped entry
-ramp]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-pool12.jpg){: .img-full}
+ramp]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-pool12.jpg){: .img-full}
 
 #### Submerged Depth
 Sloped entries must extend to a depth between 24 inches minimum and 30
@@ -314,7 +314,7 @@ non-rotating, and height).
 ### Transfer Walls
 ![2 illustrations showing transfer wall with one grab bar and transfer
 wall with two grab
-bars]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-pool14.jpg){: .img-right}
+bars]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-pool14.jpg){: .img-right}
 A transfer wall is a wall along an accessible route that
 allows a person to leave a mobility device and transfer onto the wall
 and then into a pool or spa.
@@ -363,28 +363,27 @@ have rounded edges and not be sharp.
 
 ### Transfer System
 ![illustration of transfer system platform and
-steps]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-pool16.jpg){width="403"
-height="287"}A transfer system consists of a transfer platform and a
+steps]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-pool16.jpg){: .img-right}
+A transfer system consists of a transfer platform and a
 series of transfer steps that descend into the water. Users need to
 transfer from their wheelchair or mobility device to the transfer
 platform and continue transferring into the water, step by step, bumping
 their way in or out of the pool.
 
-**Transfer Platform**\
+#### Transfer Platform
 Each transfer system must have a platform on the deck surface so users
 can maneuver on and off the system from their mobility device or
 wheelchair. Platforms must be a minimum of 19 inches deep by 24 inches
 wide. That provides enough room for a person transferring to maintain
 balance and provides enough space to maneuver on top of it.
 
-**Platform Height**\
+#### Platform Height
 Transfer platforms must be between 16 and 19 inches high, measured from
 the deck.
 
-**Clear Deck Space**![illustration of clear deck space located at a
-transfer
-system]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-17.jpg){width="232"
-height="181"}\
+#### Clear Deck Space
+![illustration of clear deck space located at a
+transfer system]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-17.jpg){: .img-right}
 The base of the transfer platform must have a clear deck space adjacent
 to it that is 60 by 60 inches minimum, with a slope not steeper than
 1:48 so a person using a wheelchair can turn around and maneuver into
@@ -392,20 +391,21 @@ transfer position. The space must be centered along the 24-inch minimum
 unobstructed side of the transfer platform. A level, unobstructed space
 will help a person transferring from a mobility device.
 
-**Transfer Steps**\
+#### Transfer Steps
 The maximum height of transfer steps is 8 inches, although shorter
 heights are recommended. Each transfer step must have a tread depth of
 14 inches minimum to 17 inches maximum and a minimum tread width of 24
 inches. The steps must extend into the water a minimum of 18 inches
 below the stationary water level.
 
-**Surface**\
+#### Surface
 The surface of the transfer platform and steps must not be sharp and
 must have rounded edges to prevent injuries.
 
 ![illustration of continuous grab bar at transfer
-system]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-18hi.jpg){width="225"
-height="246"}**Grab Bars**\
+system]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-18hi.jpg){: .img-medium .center}
+
+#### Grab Bars
 A grab bar must be provided on at least one side of each step and on the
 transfer platform (shown on page 16), or as a continuous grab bar
 serving each step and the platform (shown at left). The bar must not
@@ -416,17 +416,15 @@ of the gripping surface must be 4 inches minimum to 6 inches maximum
 above each step nosing. Grab bars on transfer systems must comply with
 ADAAG (diameter between 1.25 and 1.5 inches, not abrasive, and
 non-rotating).
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_650 .attachmentsList}
-:::
-:::
 
+---
+
+
+### Accessible Pool Stairs
 ![illustration of pool
-stairs]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-18lo.jpg){width="204"
-height="220"}Accessible pool stairs are designed to provide assistance
+stairs]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-18lo.jpg){: .img-right}
+Accessible pool stairs are designed to provide assistance
 with balance and support from a standing position when moving from the
 pool deck into the water and out. ADAAG provisions for stairs include
 the requirement that all steps have uniform riser heights and uniform
@@ -434,7 +432,7 @@ tread widths of not less than 11 inches, measured from riser to riser.
 Additionally, open risers are not permitted. Other stairs or steps
 provided in the pool are not required to meet these guidelines.
 
-**Handrails**\
+#### Handrails
 Pool stairs must have handrails with a minimum width between the rails
 of 20 inches and a maximum of 24 inches. The 20- to 24-inch width for
 the accessible pool stairs is intended to provide support for
@@ -445,17 +443,15 @@ provisions. The top of the handrail gripping surface must be a minimum
 of 34 inches and a maximum of 38 inches above the stair nosing. If
 handrails are mounted on walls, the clear space between the handrail and
 wall must be 1.5 inches.
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_651 .attachmentsList}
-:::
-:::
 
+---
+
+
+###  Water Play Components
 ![water play
-structure]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-play.jpg){width="275"
-height="175"}If water play components are provided, they must comply
+structure]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/pool-play.jpg){: .img-right}
+If water play components are provided, they must comply
 with the Access Board's Play Area Guidelines and accessible route
 provisions.
 
@@ -464,14 +460,12 @@ and turning spaces that connect play components are submerged, the
 accessible route does not have to comply with the requirements for cross
 slope, running slope, and surface conditions. Transfer systems may be
 used instead of ramps to connect elevated water play components.
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_652 .attachmentsList}
-:::
-:::
 
+---
+
+
+### Other Accessible Elements
 If swimming pools are part of a multi-use facility, designers and
 operators must also comply with ADAAG and all applicable requirements
 for recreation facilities. These include, but are not limited to:
@@ -481,81 +475,294 @@ for recreation facilities. These include, but are not limited to:
 -   Areas of sports activities (court sports, sports fields, etc.)
 -   Play areas
 -   Saunas and steam rooms
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1821 .attachmentsList}
-:::
-:::
 
+---
+
+
+### Provision Index
 This table highlights the sections of the ADA and ABA Accessibility
 Standards discussed in the swimming pools guide.
 
- 
 
-  ------------------------------------------------------------ --------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------
-                                                                 [ADA Standards](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards)\*   [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) 
-  **Definitions**                                                                                                106.5                                                                                                   F106.5 
-  Catch Pool                                                                                                     106.5                                                                                                   F106.5
-  Cross Slope                                                                                                    106.5                                                                                                   F106.5
-  Curb Ramp                                                                                                      106.5                                                                                                   F106.5
-  Facility                                                                                                       106.5                                                                                                   F106.5
-  Ramp                                                                                                           106.5                                                                                                   F106.5
-  Running Slope                                                                                                  106.5                                                                                                   F106.5
-                                                                                                                                                                                                                             
-  **Means of Water Entry (how many & what type)**                                                                 242                                                                                                     F242 
-  Catch Pools                                                                                                 242.2 EX 3                                                                                               F242.2 EX 3
-  Leisure rivers                                                                                              242.2 EX 3                                                                                               F242.2 EX 3
-  Spas                                                                                                           242.4                                                                                                   F242.4
-  Swimming Pools                                                                                                 242.2                                                                                                   F242.2
-  Swimming Pools (less than 300 linear feet)                                                                  242.2 EX 1                                                                                               F242.2 EX 1
-  Wading Pools                                                                                                   242.3                                                                                                   F242.3
-  Water Slides                                                                                                  203.11                                                                                                   F203.11
-  Wave Action Pools                                                                                           242.2 EX 2                                                                                               F242.2 EX 2
-                                                                                                                                                                                                                             
-  **Means of Water Entry (specific technical requirements)**                                                     1009                                                                                                     1009
-  Pool Lifts                                                                                                    1009.2                                                                                                   1009.2
-  Pool Stairs                                                                                                   1009.6                                                                                                   1009.6
-  Sloped Entries                                                                                                1009.3                                                                                                   1009.3
-  Transfer System                                                                                               1009.5                                                                                                   1009.5
-  Transfer Wall                                                                                                 1009.4                                                                                                   1009.4
-                                                                                                                                                                                                                             
-  **Accessible Routes (where required)**                                                                          206                                                                                                     F206
-  Raised Diving Boards and Diving Platforms (exception)                                                         203.14                                                                                                   F203.14
-  Raised Refereeing, Judging, and Scoring Areas (exception)                                                     203.10                                                                                                   F203.10
-  Water Play Components (exceptions)                                                                           1008.2.3                                                                                                 1008.2.3
-  Water Slide (exception)                                                                                       203.11                                                                                                   F203.11
-                                                                                                                                                                                                                             
-  **Accessible Routes Components (typically used)**                                                                                                                                                                          
-  Curb Ramps                                                                                      [406]{style="text-align: center;"}                                                                       [406]{style="text-align: center;"}
-  Doors and Gates                                                                                 [404]{style="text-align: center;"}                                                                       [404]{style="text-align: center;"}
-  Doors and Gates (hardware height exception)                                                                404.2.7 EX 2                                                                                             404.2.7 EX 2
-  Ramps                                                                                                           405                                                                                                      405
-  Walking Surfaces with Running Slopes of 5% or less                                                              403                                                                                                      403
-                                                                                                                                                                                                                             
-  **Other Typical Scoping Requirements at Pool Facilities**                                                                                                                                                                  
-  Dining surfaces                                                                                                 226                                                                                                     F226
-  Dressing, Fitting, and Locker Rooms                                                                             222                                                                                                     F222
-  Employee Work Areas (exception)                                                                                203.9                                                                                            no similar exception
-  Exercise Machines and Equipment                                                                                 236                                                                                                     F236
-  Parking                                                                                         [208]{style="text-align: center;"}                                                                       [F208]{style="text-align: center;"}
-  Play Areas                                                                                                      240                                                                                                     F240
-  Passenger Loading Zones and Bus Stops                                                                           209                                                                                                     F209
-  Saunas & Steam Rooms                                                                                            241                                                                                                     F241
-  Service Counters                                                                                               227.3                                                                                                   F227.3
-  Signage                                                                                         [216]{style="text-align: center;"}                                                       [F]{style="text-align: center;"}[216]{style="text-align: center;"}
-  Spectator Seating                                                                                               221                                                                                                     F221
-  Toilet and Bathing                                                                                              213                                                                                                     F213
-  Vending Machines                                                                                                228                                                                                                     F228
-  ------------------------------------------------------------ --------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------
+<table class="usa-table">
+    <thead>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;ADA Standards*</td>
+            <td>ABA Standards&nbsp;</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Definitions</td>
+            <td>&nbsp;106.5</td>
+            <td>F106.5&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Catch Pool</td>
+            <td>&nbsp;106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Cross Slope</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Curb Ramp</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Facility</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Ramp</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Running Slope</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Means of Water Entry (how many &amp; what type)</td>
+            <td>&nbsp;242</td>
+            <td>F242&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Catch Pools</td>
+            <td>242.2 EX 3</td>
+            <td>F242.2 EX 3</td>
+        </tr>
+        <tr>
+            <td>Leisure rivers</td>
+            <td>242.2 EX 3</td>
+            <td>F242.2 EX 3</td>
+        </tr>
+        <tr>
+            <td>Spas</td>
+            <td>242.4</td>
+            <td>F242.4</td>
+        </tr>
+        <tr>
+            <td>Swimming Pools</td>
+            <td>242.2</td>
+            <td>F242.2</td>
+        </tr>
+        <tr>
+            <td>Swimming Pools (less than 300 linear feet)</td>
+            <td>242.2 EX 1</td>
+            <td>F242.2 EX 1</td>
+        </tr>
+        <tr>
+            <td>Wading Pools</td>
+            <td>242.3</td>
+            <td>F242.3</td>
+        </tr>
+        <tr>
+            <td>Water Slides</td>
+            <td>203.11</td>
+            <td>F203.11</td>
+        </tr>
+        <tr>
+            <td>Wave Action Pools</td>
+            <td>242.2 EX 2</td>
+            <td>F242.2 EX 2</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Means of Water Entry (specific technical requirements)</td>
+            <td>1009</td>
+            <td>1009</td>
+        </tr>
+        <tr>
+            <td>Pool Lifts</td>
+            <td>1009.2</td>
+            <td>1009.2</td>
+        </tr>
+        <tr>
+            <td>Pool Stairs</td>
+            <td>1009.6</td>
+            <td>1009.6</td>
+        </tr>
+        <tr>
+            <td>Sloped Entries</td>
+            <td>1009.3</td>
+            <td>1009.3</td>
+        </tr>
+        <tr>
+            <td>Transfer System</td>
+            <td>1009.5</td>
+            <td>1009.5</td>
+        </tr>
+        <tr>
+            <td>Transfer Wall</td>
+            <td>1009.4</td>
+            <td>1009.4</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Accessible Routes (where required)</td>
+            <td>206</td>
+            <td>F206</td>
+        </tr>
+        <tr>
+            <td>Raised Diving Boards and Diving Platforms (exception)</td>
+            <td>203.14</td>
+            <td>F203.14</td>
+        </tr>
+        <tr>
+            <td>Raised Refereeing, Judging, and Scoring Areas (exception)</td>
+            <td>203.10</td>
+            <td>F203.10</td>
+        </tr>
+        <tr>
+            <td>
+Water Play Components (exceptions)
+</td>
+            <td>1008.2.3</td>
+            <td>1008.2.3</td>
+        </tr>
+        <tr>
+            <td>Water Slide (exception)</td>
+            <td>203.11</td>
+            <td>F203.11</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Accessible Routes Components (typically used)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Curb Ramps</td>
+            <td>406</td>
+            <td>406</td>
+        </tr>
+        <tr>
+            <td>Doors and Gates</td>
+            <td>404</td>
+            <td>404</td>
+        </tr>
+        <tr>
+            <td>Doors and Gates (hardware height exception)</td>
+            <td>404.2.7 EX 2</td>
+            <td>404.2.7 EX 2</td>
+        </tr>
+        <tr>
+            <td>Ramps</td>
+            <td>405</td>
+            <td>405</td>
+        </tr>
+        <tr>
+            <td>Walking Surfaces with Running Slopes of 5% or less</td>
+            <td>403</td>
+            <td>403</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Other Typical Scoping Requirements&nbsp;at Pool Facilities</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Dining surfaces</td>
+            <td>226</td>
+            <td>F226</td>
+        </tr>
+        <tr>
+            <td>Dressing, Fitting, and Locker Rooms</td>
+            <td>222</td>
+            <td>F222</td>
+        </tr>
+        <tr>
+            <td>Employee Work Areas (exception)</td>
+            <td>203.9</td>
+            <td>no similar exception</td>
+        </tr>
+        <tr>
+            <td>Exercise Machines and Equipment</td>
+            <td>236</td>
+            <td>F236</td>
+        </tr>
+        <tr>
+            <td>Parking</td>
+            <td>208</td>
+            <td>F208</td>
+        </tr>
+        <tr>
+            <td>Play Areas</td>
+            <td>240</td>
+            <td>F240</td>
+        </tr>
+        <tr>
+            <td>Passenger Loading Zones and Bus Stops</td>
+            <td>209</td>
+            <td>F209</td>
+        </tr>
+        <tr>
+            <td>Saunas &amp; Steam Rooms</td>
+            <td>241</td>
+            <td>F241</td>
+        </tr>
+        <tr>
+            <td>Service Counters</td>
+            <td>227.3</td>
+            <td>F227.3</td>
+        </tr>
+        <tr>
+            <td>Signage</td>
+            <td>216</td>
+            <td>F216</td>
+        </tr>
+        <tr>
+            <td>Spectator Seating</td>
+            <td>221</td>
+            <td>F221</td>
+        </tr>
+        <tr>
+            <td>Toilet and Bathing</td>
+            <td>213</td>
+            <td>F213</td>
+        </tr>
+        <tr>
+            <td>Vending Machines</td>
+            <td>228</td>
+            <td>F228</td>
+        </tr>
+    </tbody>
+</table>
+
 
 \* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
  The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
-the Architectural Barriers Act (ABA) Accessibility Standards).\
-\
-\
-:::
+the Architectural Barriers Act (ABA) Accessibility Standards).
