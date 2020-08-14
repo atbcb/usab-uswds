@@ -299,7 +299,8 @@ spaces. Surface slopes that meet at grade breaks shall be flush.
 ![Grade break at curb ramp shown perpendicular to direction of travel
 ](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-5-2.jpg)
 
-##### R304.5.3 Cross Slope.** The cross slope of curb ramps, blended
+##### R304.5.3 Cross Slope
+The cross slope of curb ramps, blended
 transitions, and turning spaces shall be 2 percent maximum. At
 pedestrian street crossings without yield or stop control and at
 midblock pedestrian street crossings, the cross slope shall be permitted
@@ -319,7 +320,7 @@ the parallel vehicle travel lane.
 
 **Figure R304.5.5 Clear Space**
 
-**![Clear space 1.2 m (4 ft) min by 1.2 m (4 ft) min athe bottom of curb
+![Clear space 1.2 m (4 ft) min by 1.2 m (4 ft) min at the bottom of curb
 ramp beyond grade break located within width of pedestrian street
 crossing](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-5-5.jpg)
 
