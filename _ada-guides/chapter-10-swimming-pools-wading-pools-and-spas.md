@@ -4,18 +4,20 @@ order-number: 1009
 file: swimming.pdf
 file-description: PDF version
 ---
-*\"Whenever any barrier stands between you and the full rights and
-dignity of citizenship, we must work to remove it, in the name of simple
-decency and justice.The promise of the ADA\...has enabled people with
+<div class="clearfix" markdown="1">
+![photo of individual entering pool using sloped entry ramp]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/poolramp-male.jpg){: .float-right}
+
+
+>*"Whenever any barrier stands between you and the full rights and dignity of
+citizenship, we must work to remove it, in the name of simple decency
+and justice. The promise of the ADA...has enabled people with
 disabilities to enjoy much greater access to a wide range of affordable
-travel, recreational opportunities and life-enriching services.\"*
+travel, recreational opportunities and life-enriching services."*
 
-> *President George W. Bush, New Freedom Initiative, February 1, 2001*
+>> *President George W. Bush, New Freedom Initiative, February 1, 2001*
+</div>
 
-![photo of individual entering pool using sloped entry
-ramp]({{ site.baseurl }}{{ page.image-directory }}chapter10/poolramp-male.jpg){width="238"
-height="148"}
-
+###  Accessible Swimming Pools and Spas
 The guidelines described in this guide focus on newly designed or newly
 constructed and altered swimming pools, wading pools, aquatic recreation
 facilities, and spas. Other provisions contained in ADAAG address
@@ -25,14 +27,12 @@ bathing facilities. ADAAG addresses only the built environment
 (structures and grounds); the guidelines do not address operational
 issues. Questions regarding operational issues should be directed to the
 Department of Justice, 1-800-514-0301 or 1-800-514-0383 (TTY).
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_644 .attachmentsList}
-:::
-:::
 
+---
+
+
+### Accessible Routes
 Accessible routes are continuous, unobstructed paths connecting all
 accessible elements and spaces of a building or facility. Accessible
 route requirements in ADAAG address width (minimum of 36 inches),
@@ -47,16 +47,13 @@ raised diving boards, platforms, or water slides.
 
 [![illustration of accessible route connecting elements within a
 multi-use swimming pool
-facility]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/pagepool4-5.jpg){width="450"
-height="214"}]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/enlarg3.jpg)
-:::
+facility]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/pagepool4-5.jpg){: .img-full}]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/enlarg3.jpg)
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_645 .attachmentsList}
-:::
-:::
 
+---
+
+
+### 
 ![illustration of large pool showing the required two means of
 access]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-7hi.jpg){width="231"
 height="297"}**Swimming Pools**\
