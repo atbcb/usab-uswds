@@ -40,7 +40,7 @@ A means of egress is an unobstructed path to leave buildings,
 structures, and spaces. A means of egress is comprised of exit access,
 exit, and exit discharge.
 
-##### Components of a Means of Egress
+#### Components of a Means of Egress
 
 ![Building schematic shows exit access as a path from any location in a
 building to an exit; exits that are doors to leading to outside,
@@ -343,7 +343,7 @@ either a: horizontal exit (excluding floors below the level of exit
 discharge); a compliant exit access
 ramp.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe19.jpg){: .img-large} 
 
-### Exit Discharge \[IBC §1023 (2003), §1006 (2000)\]
+### Exit Discharge [IBC §1023 (2003), §1006 (2000)]
 
 Accessible means of egress must connect exits to a public way, such as a
 street or alley (i.e., space permanently deeded and dedicated to public

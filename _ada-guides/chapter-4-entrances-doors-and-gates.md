@@ -97,11 +97,11 @@ are considered "public entrances" under the Standards, including
 employee-only entrances requiring keys or access cards or codes but that
 lack the level of security of restricted entrances.
 
-<div class="clearfix border" markdown="1" style="padding: 5px;">
+<div class="clearfix border" style="padding: 5px;">
 {%include grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter4/4edg6.jpg"
 img-alt= "Two-way communication system at entrance"
-text-title= "<h3>Two-Way Communication Systems</h3>"
+text-title= "<h3>Two-Way Communication Systems</h3> <a href=\"/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#230%20Two-Way%20Communication%20Systems\">[§230]</a> and <a href=\"/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-7-communication-elements-and-features#708%20Two-Way%20Communication%20Systems\">[§708]</a>"
 text= "Where two-way communication systems are provided to gain entry to a facility or to restricted spaces, they must include visual and audible signals to accommodate people with hearing, speech, or visual impairments. This applies to all entrances equipped with such systems, including those that are inaccessible. Lighted signals should have labels to indicate their meaning. If handsets are provided, cords must be at least 29” long. Control buttons and other operable parts must comply at those systems located at accessible entrances."
 %}
 </div>
@@ -247,7 +247,7 @@ forward approach 8 inches max from face of the door">
 [[§404.2.5](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
 
 <div class="clearfix" markdown="1">
-![Treshold at door]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg18.jpg){: .img-right}
+![Threshold at door]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg18.jpg){: .img-right}
 
 The height of thresholds is limited to 1/2" in new
 construction. The edge must be beveled 1:2 maximum above a height of
