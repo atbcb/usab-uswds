@@ -133,7 +133,7 @@ depth of reach.
 
 #### Side Approach and Reach
 
-### Clear Floor Space
+##### Clear Floor Space
 
 [[§309.2](../ada-standards/chapter-3-building-blocks.html#309%20Operable%20Parts)]
 
@@ -199,7 +199,7 @@ side reaches are limited to a height of 34".
 Elements located in corners can be difficult to reach from a side
 approach.
 
-{% include recommendation.html
+{% include recommendation-2imgs.html
 text= "Where a side reach is provided, locate elements away from corners in consideration of the typical reach radius."
 img-file1= "chapter3/3op15.jpg"
 img-alt1= "Person using wheelchair in corner (back to side wall) with reach radius over counter extending to approximately 12 inches of side wall."

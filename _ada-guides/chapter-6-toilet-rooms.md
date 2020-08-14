@@ -491,11 +491,11 @@ text= "To provide easier access, locate elements with knee and toe space outside
 
 #### Approximate Room Dimensions
 
-*With a water closet and lavatory side-by-side, the plumbing wall is
+_With a water closet and lavatory side-by-side, the plumbing wall is
 typically determined by the width of the water closet clearance, the
 lavatory fixture width, plus any additional lavatory clearance beyond
 the fixture (unless the lavatory is recessed). Other elements provided,
-such as a baby changing table, may increase this dimension.*
+such as a baby changing table, may increase this dimension._
 
 ![Toilet room with a water closet and an adjacent lavatory with a door
 opposite the lavatory that swings in. The width of the room is based on:
@@ -544,7 +544,7 @@ clearance. Turning space overlaps the door clearance, and a portion is
 overlapped by the lavatory. Note: Other elements provided may increase
 minimum room dimensions.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/39a.png){: .img-large}
 
-#### **Example: Lavatory Opposite Water Closet**
+#### Example: Lavatory Opposite Water Closet
 
 _Toilet rooms can be configured in many different ways, but the same
 requirements apply, including those for fixtures, doors, and turning
@@ -600,7 +600,7 @@ Where baby changing tables are provided, they must comply
 as a work surface and, if they project into circulation paths, as
 protruding objects.
 
- ![Wall-mounted baby-changing table in a toilet room. Table surface is
+![Wall-mounted baby-changing table in a toilet room. Table surface is
 28" -- 34 high and must comply as a work surface (§902) and clear floor
 space for a forward approach to the table is shown. When stowed, the
 table projection from the wall is limited to 4" max. if the leading edge
@@ -682,7 +682,7 @@ walls behind and surrounding the cabinetry are finished (§606.2, Ex.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/49.png" alt="Plan view of water closet and adjacent lavatory. The lavatory is 18 inches min. from the water closet centerline and overlaps a portion of the water closet clearance which is 66 inches deep min."
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/49.png" alt="Plan view of water closet and adjacent lavatory. The lavatory is 18 inches min. from the water closet centerline and overlaps a portion of the water closet clearance which is 66 inches deep min.">
     </div>
     <div class="tablet:grid-col">
       <span class="grid-line text-italic">A compliant lavatory is permitted on the rear wall 18" min. from the water closet centerline if the clearance at the water closet is at least 66" (instead of 56") deep (§604.3.2, Ex.).</span>
@@ -884,7 +884,7 @@ with pull on both sides on latch side. Notes: Door must be self-closing
 (gravity or spring hinges are typically used). The min. closing time for
 spring hinges is 1.5 seconds measured from a 70° open position to the
 closed position. Door pulls are required on both sides near the latch,
-34]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/59.png){: .img-large}
+34 inches to 48 inches above the finish floor.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/59.png){: .img-large}
 
 {% include recommendation.html
 text= "Pulls should provide sufficient knuckle clearance (1½\" minimum) to facilitate gripping. Avoid hardware, including latches, that requires hand or finger dexterity, fine motor movement, or simultaneous actions."
@@ -924,7 +924,7 @@ text= "Hinging doors to provide a latch approach instead of a hinge approach wil
   </div>
 </div>
 
- The required size of compartments provides the minimum space needed to
+The required size of compartments provides the minimum space needed to
 enter, approach and transfer to water closets, and exit. As with water
 closets generally, the only elements that can overlap the minimum
 compartment/water closet clearance are: the water closet, associated
@@ -1080,7 +1080,7 @@ max.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/73.png){
 
 Where provided, signs that identify permanent rooms and spaces, including toilet rooms, must have raised characters and braille and meet criteria for visual access (§216.2). Visual content and tactile content can be provided on separate signs.
 
-If pictograms are provided to identify toilet rooms (i.e., symbols for men's, women's, and unisex restrooms), they must be on a field at least 6" high, include the verbal equivalent below in raised characters and braille, and meet finish and contrast specifications (§703.6). These pictogram requirements do not apply to any informational pictograms that are also provided on the sign, including the International Symbol of Accessibility (ISA). If not all toilet rooms are accessible, those that comply must be labelled by the ISA. The ISA can be included on the toilet room sign or be provided restroom sign with arrow and ISAseparately.
+If pictograms are provided to identify toilet rooms (i.e., symbols for men's, women's, and unisex restrooms), they must be on a field at least 6" high, include the verbal equivalent below in raised characters and braille, and meet finish and contrast specifications (§703.6). These pictogram requirements do not apply to any informational pictograms that are also provided on the sign, including the International Symbol of Accessibility (ISA). If not all toilet rooms are accessible, those that comply must be labelled by the ISA. The ISA can be included on the toilet room sign or be provided separately.
 
 ![restroom sign with arrow and ISA]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/75.png){: .float-right .thumbnail}
 
