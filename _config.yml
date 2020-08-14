@@ -200,7 +200,8 @@ defaults:
       path: ""
       type: "aba"
     values:
-      collection-title: "Architectural Barriers Act Accessibility Standards"
+      collection-title: "Architectural Barriers Act"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: aba
       layout: standards
       file-directory: /files/ada-aba/
@@ -230,7 +231,8 @@ defaults:
       path: ""
       type: "prowag-shared-use"
     values:
-      collection-title: "Proposed Public Rights-of-Way Accessibility Guideliness with Shared Use Paths supplemental notice"
+      collection-title: "(Proposed) Public Rights-of-Way"
+      collection-subtitle: "Accessibility Guidelines"
       collection-folder: prowag-shared-use
       layout: standards
       file-directory: /files/prowag/
@@ -275,7 +277,8 @@ defaults:
       path: ""
       type: "mde"
     values:
-      collection-title: "Medical Diagnostic Equipment Accessibility Standards"
+      collection-title: "Medical Diagnostic Equipment"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: mde
       layout: standards
       file-directory: /files/mde/
@@ -284,7 +287,8 @@ defaults:
       path: ""
       type: "pvag"
     values:
-      collection-title: "Passenger Vessels Accessibility Guidelines"
+      collection-title: "(Proposed) Passenger Vessels"
+      collection-subtitle: "Accessibility Guidelines"
       collection-folder: pvag
       layout: standards
       file-directory: /files/pvag/
