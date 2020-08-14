@@ -159,7 +159,7 @@ portion of a public right-of-way.
 
 *Soft Contained Play Structure*
 : A play structure made up of one or more components where the user enters a fully enclosed play environment that utilizes pliable materials (e.g., plastic, netting, fabric).
-\
+
 *Use Zone*
 : The ground level area beneath and immediately adjacent to a
 play structure or piece of equipment that is designated by ASTM F 1487
@@ -311,7 +311,7 @@ experience - or one play component - in the play area.
 
 ##### Examples of Sliding Types
 
-![photo of children on a straight slide]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/15.jpg){: .img-medium}[![photo of a boy on spiral slide]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/16.jpg){: .img-medium}
+![photo of children on a straight slide]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/15.jpg){: .img-medium}![photo of a boy on spiral slide]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/16.jpg){: .img-medium}
 
 
 
@@ -326,7 +326,7 @@ structure and that can be approached from a platform or deck area are
 considered elevated play components.
 
 ![photo of boys on climber of rings that is an elevated
-component]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/17.jpg){: .img-right}
+component]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/17.jpg){: .img-medium .center}
 <div class="img-large-caption">This climber is considered an elevated component since it can be
 approached or exited from the ground level or above grade from a platform or deck on a composite play structure.</div>
 
@@ -346,14 +346,14 @@ connect to the ladder or steps, and to the exit of the slide. While this
 solution does not provide access for all children, it gives many
 individuals the opportunity to access play components.
 
-[![photo of children at ground-level component (sand table) that is part
-of a composite
-structure]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/67.jpg){: .img-medium}
 
-[![photo of a free-standing ground-level
-component]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/20.jpg){: .img-medium}
-
-<div class="img-large-caption">Ground-level play components may be part of a composite structure (left) or may also be free-standing in a play area (right).</div>
+{% include grid-2col-2img-caption.html
+image-1= "chapter10/play-guide/67.jpg"
+alt-1= "photo of children at ground-level component (sand table) that is part of a composite structure"
+image-2= "chapter10/play-guide/20.jpg"
+alt-2= "photo of a free-standing ground-level component"
+text= "Ground-level play components may be part of a composite structure (left) or may also be free-standing in a play area (right)."
+%}
 
 
 When more than one ground-level play component is required on an
@@ -383,17 +383,19 @@ components must be on an accessible route:
 At least one of each type of ground-level play component that is present
 in the play area must be on an accessible route.
 
-![photo of a play area with composite structure and two spring
-riders]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/23.jpg)
 
-![photo of a swing
-set]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/22.jpg)
-
-To meet the requirement, for example, in the case of a play area
+{% include grid-2col-2img-caption.html
+image-1= "chapter10/play-guide/23.jpg"
+alt-1= "photo of a play area with composite structure and two spring riders"
+image-2= "chapter10/play-guide/22.jpg"
+alt-2= "photo of a swing set"
+text= "To meet the requirement, for example, in the case of a play area
 including a composite play structure, two spring riders (left) and a
 swing set (right), an accessible route must connect to at least one
 spring rider and one swing for one of each type of ground-level play
-experiences that is present in the play area.
+experiences that is present in the play area."
+%}
+
 
 ### Ground Level Requirements Based on Elevated Play Components
 
@@ -476,15 +478,21 @@ If ramps provide access to at least 50 percent of the elevated play components -
 
 At least 50 percent of the elevated play components must be on an accessible route.  An "elevated play component" is a play component reached from above or below grade, and is part of a composite play structure.
 
-| ![photo of a composite structure with over 20 elevated components]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/24.jpg)Play areas with 20 or more elevated components must use ramps to connect a minimum of 25 percent of those components.  A transfer system or ramps may connect the other elevated play components required on an accessible route. |
+![photo of a composite structure with over 20 elevated components]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/24.jpg){: .img-large}
 
-| ![photo of composite structure with less than 20 elevated components]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/25.jpg)Play areas with less than 20 elevated play components may use a transfer system instead of ramps to connect at least 50 percent of the elevated components. |
+<div class="img-large-caption">Play areas with 20 or more elevated components must use ramps to connect a minimum of 25 percent of those components.  A transfer system or ramps may connect the other elevated play components required on an accessible route.</div>
 
-### Step-by-Step Guide
+
+![photo of composite structure with less than 20 elevated components]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/25.jpg){: .img-large}
+
+<div class="img-large-caption">Play areas with less than 20 elevated play components may use a transfer system instead of ramps to connect at least 50 percent of the elevated components.</div>
+
+
+#### Step-by-Step Guide
 
 The following step-by-step guide has been provided to assist in evaluating a play area for meeting the minimum requirements of these guidelines.  The guide has been arranged in four steps and provides spaces to fill in numeric values of play components for evaluating a specific play area design.
 
-![flowchart described in narrative]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/flowchart.jpg)
+![flowchart described in narrative]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/flowchart.jpg){: .img-full}
 
 **STEP 1 Assess your play area design**\
 This step identifies the number and different types of ground level play components provided in a play area design.  The number of elevated play components is also identified.
@@ -500,7 +508,7 @@ Step 4 examines the number of elevated play components provided, beginning with 
 
 This step-by-step guide is applied using the proposed play area design.
 
-![plan view of play area described in the example that includes a spring rider, swing set, banister bars, overhead curved ladder, triple slide, interatctive panel, and transfer system.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/playarea-design.jpg)
+![plan view of play area described in the example that includes a spring rider, swing set, banister bars, overhead curved ladder, triple slide, interatctive panel, and transfer system.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/playarea-design.jpg){: .img-large}
 
 **STEP 1**  Number of ground level play components:  **3**
 
@@ -514,15 +522,15 @@ Number of different types of ground level play components provided:  **2**
 
 **STEP 2**  Determining what is needed based on Table 240.2.1.2:
 
-Table 240.2.1.2
 
+**Table 240.2.1.2**
 
-| Number of elevated play components provided | Minimum number of ground-level play components required to be on accessible route | Minimum number of different types of ground-level play components required to be on accessible route |
+| Number of elevated play components provided | Minimum number of ground-level play componentsi required to be on accessible route | Minimum number of different types of ground-level play components required to be on accessible route |
 | --- | --- | --- |
 | 1 | Not applicable | Not applicable |
 | **2 to 4** | **1** | **1** |
 | 5 to 7 | 2 | 2 |
-
+{: .usa-table}
 
 **STEP 3**  Determining the greater number:  **2**
 
@@ -543,43 +551,46 @@ ADAAG Section 4.3 addresses accessible routes that connect the play area to the 
 
 This section describes the various features of accessible routes within a play area, including location, clear width, slope, and accessible surfaces.
 
-**Accessible Routes
-**An accessible route is a pathway specifically designed to provide access for individuals with disabilities, including those using wheelchairs or mobility devices.
+#### Accessible Routes
+An accessible route is a pathway specifically designed to provide access for individuals with disabilities, including those using wheelchairs or mobility devices.
 
-![photo of composite play structure with accessible routes within play area boundary]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/26.jpg)
+![photo of composite play structure with accessible routes within play area boundary]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/26.jpg){: .img-large}
 
-**Accessible routes inside the boundaries of play areas are addressed in the play area guidelines. Technical provisions address the width, slope, and surface of both ground level and elevated accessible routes.**
+<div class="img-large-caption">Accessible routes inside the boundaries of play areas are addressed in the play area guidelines. Technical provisions address the width, slope, and surface of both ground level and elevated accessible routes.</div>
 
-The accessible route must connect all entry and exit points of accessible play components.  Clear floor space required at play components and maneuvering space can overlap the accessible route.  Incorporating additional circulation space around high-use play components creates extra room for movement\
-and accessibility for everyone using the play area.
+The accessible route must connect all entry and exit points of accessible play components.  Clear floor space required at play components and maneuvering space can overlap the accessible route.  Incorporating additional circulation space around high-use play components creates extra room for movement and accessibility for everyone using the play area.
 
 There are two types of accessible routes:
 
 -   Ground-level
 -   Elevated
 
-![photo of a ground level route that connects to play components and transfer system]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/27.jpg)
-
-**This ground-level route (above) connects ground components and the transfer system which connects elevated components.  This elevated route (right) connects elevated play components on a composite structure.**
 
 
-![photo of elevated route that connects play components of a composite structure]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/28.jpg)
+{% include grid-2col-2img-caption.html
+image-1= "chapter10/play-guide/27.jpg"
+alt-1= "photo of a ground level route that connects to play components and transfer system"
+image-2= "chapter10/play-guide/28.jpg"
+alt-2= "photo of elevated route that connects play components of a composite structure"
+text= "*This ground-level route (left) connects ground components and the transfer system which connects elevated components.  This elevated route (right) connects elevated play components on a composite structure."
+%}
 
- |
-
-**Ground-Level Accessible Routes**\
+**Ground-Level Accessible Routes**
 A ground-level accessible route connects play components at ground level.
 
 -   60 inches (1525 mm) minimum clear width 
 -   1:16 maximum slope 
 
-> **The route may narrow down to 36 inches (915 mm) for a distance of 60 inches (1525 mm). This permits flexibility to work around site design features like existing equipment or trees (left).  ****The required 60-inch width enables two wheelchairs to pass each other or to change direction (right).**
 
-|
+{% include grid-2col-2img-caption.html
+image-1= "chapter10/play-guide/30.jpg"
+alt-1= "illustration of a route that narrows where a tree encroaches"
+image-2= "chapter10/play-guide/29.jpg"
+alt-2= "plan view illustration of two persons using wheelchairs passing is space that is at least 60 inches (1525 mm) wide"
+text= "The route may narrow down to 36 inches (915 mm) for a distance of 60 inches (1525 mm). This permits flexibility to work around site design features like existing equipment or trees (left). The required 60-inch width enables two wheelchairs to pass each other or to change direction (right)."
+%}
 
-![illustration of a route that narrows where a tree encroaches]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/30.jpg)
 
- |   | ![plan view illustration of two persons using wheelchairs passing is space that is at least 60 inches (1525 mm) wide]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/29.jpg) |
 
 Smaller play areas - those that are less than 1,000 square feet (93 square meters) - may have ground-level accessible routes that are 44 inches (1120 mm) clear width. A wheelchair turning space must be provided where the route exceeds 30 feet (9.14 mm) in length.
 
@@ -926,90 +937,377 @@ Copies of the following referenced standards may be obtained from the American S
 ---
 
 
-### Provision Inde
+### Provision Index
 This table highlights the sections of the ADA and ABA Accessibility Standards discussed in the play areas guide.
 
 
-
-|   |  ADA Standards\* | ABA Standards  |
-|:---|:---:|:---:|
-| Definitions |  106\.5 | F106\.5  |
-| Addition |  106\.5 | F106\.5 |
-| Alteration | 106\.5 | F106\.5 |
-| Cross Slope | 106\.5 | F106\.5 |
-| Curb Ramp | 106\.5 | F106\.5 |
-| Elevated Play Component | 106\.5 | F106\.5 |
-| Facility | 106\.5 | F106\.5 |
-| Ground Level Play Component | 106\.5 | F106\.5 |
-| Play Area | 106\.5 | F106\.5 |
-| Play Component | 106\.5 | F106\.5 |
-| Ramp | 106\.5 | F106\.5 |
-| Running Slope | 106\.5 | F106\.5 |
-| Soft Contained Play Structure | 106\.5 | F106\.5 |
-| Use Zone \(see also referenced standards below\) | 106\.5 | F106\.5 |
-|   |   |   |
-| Play Areas \(where provided\) | 240 | F240 |
-| Additions | 202\.2 & 240\.1\.1 | F202\.2 & F240\.1\.1 |
-| Elevated Play Components | 240\.2\.2 | F240\.2\.2 |
-| Ground Level Play Components | 240\.2\.1 | F240\.2\.1 |
-| Additional Number and Types of Ground Level | 240\.2\.1\.2 | F240\.2\.1\.2 |
-| Minimum Number and Types of Ground Level | 240\.2\.1\.1 | F240\.2\.1\.1 |
-|   |   |   |
-| Exceptions | 240\.1 | F240\.1 |
-| EX 1 \- family child care facilities | 240\.1 EX 1  | F240\.1 EX 1 |
-| EX 2 \- existing play areas | 240\.1 EX 2 | F240\.1 EX 2 |
-| EX 3 \- amusement attractions | 240\.1 EX 3 | F240\.1 EX 3 |
-| EX 4 \- alterations  | 240\.1 EX 4  |  F240\.1 EX 4 |
-|   |   |   |
-| Accessible Routes \(where required\) | 206 | F206 |
-| Play Areas \(specific provision\) | 206\.2\.17 | F206\.2\.17 |
-| Soft Contained Play Structures \(specific provision\) | 206\.2\.17\.2 | F206\.2\.17\.2 |
-| 
-Transfer System for Play Areas \(exceptions\)
- | 1008\.2\.1 EXs | 1008\.2\.1 EXs |
-| Transfer System for Soft Contained \(exception\) | 1008\.2\.2 EX | 1008\.2\.2 EX |
-|   |   |   |
-| Platform Lift \(new construction use\) | 206\.7\.8 | F206\.7\.8 |
-|   |   |   |
-| Accessible Routes Components \(typically used\) |   |   |
-| Curb Ramps | 406 | 406 |
-| Doors and Gates | 404 | 404 |
-| Ramps | 405 | 405 |
-| Ramps \(slope exception\) | 1002\.2 EX 1 | 1002\.2 EX 1 |
-| Walking Surfaces with Running Slopes of 5% or less | 403 | 403 |
-|   |   |   |
-| Modifications to Accessible Routes | 1008\.2 | 1008\.2 |
-| Clear Width Modifications | 1008\.2\.4 | 1008\.2\.4 |
-| Ground Surfaces Modifications \(see referenced stands\.\) | 1008\.2\.6 | 1008\.2\.6 |
-| Ramp Modifications | 1008\.2\.5 | 1008\.2\.5 |
-|   |   |   |
-| Elevated Components to Elev\. Components \(exception\) | 1008\.2\.1 EX2 | 1008\.2\.1 EX2 |
-| Transfer Systems | 1008\.3 | 1008\.3 |
-| Water Play Components \(exceptions\) | 1008\.2\.3 EXs | 1008\.2\.3 EXs |
-|   |   |   |
-| Technical Requirements for Accessible Play Components | 1008\.4 | 1008\.4 |
-| Clear Floor or Ground Space | 1008\.4\.2 | 1008\.4\.2 |
-| Entry Points and Seats | 1008\.4\.4 | 1008\.4\.4 |
-| Play Tables | 1008\.4\.3 | 1008\.4\.3 |
-| Transfer Supports | 1008\.4\.5 | 1008\.4\.5 |
-| Turning Space | 1008\.4\.1 | 1008\.4\.1 |
-|   |   |   |
-| Other Typical Scoping Requirements at Play Areas |   |   |
-| Parking | 208 | F208 |
-| Signage | 216 | F216 |
-| Toilet and Bathing | 213 | F213 |
-|   |   |   |
-| 
+<table class="usa-table">
+    <thead>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;ADA Standards*</td>
+            <td>ABA Standards&nbsp;</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Definitions</td>
+            <td>&nbsp;106.5</td>
+            <td>F106.5&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Addition</td>
+            <td>&nbsp;106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Alteration</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Cross Slope</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Curb Ramp</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Elevated Play Component</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Facility</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Ground Level Play Component</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Play Area</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Play Component</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Ramp</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Running Slope</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Soft Contained Play Structure</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Use Zone (see also referenced standards below)</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Play Areas (where provided)</td>
+            <td>240</td>
+            <td>F240</td>
+        </tr>
+        <tr>
+            <td>Additions</td>
+            <td>202.2 &amp; 240.1.1</td>
+            <td>F202.2 &amp; F240.1.1</td>
+        </tr>
+        <tr>
+            <td>Elevated Play Components</td>
+            <td>240.2.2</td>
+            <td>F240.2.2</td>
+        </tr>
+        <tr>
+            <td>Ground Level Play Components</td>
+            <td>240.2.1</td>
+            <td>F240.2.1</td>
+        </tr>
+        <tr>
+            <td>Additional Number and Types of Ground Level</td>
+            <td>240.2.1.2</td>
+            <td>F240.2.1.2</td>
+        </tr>
+        <tr>
+            <td>Minimum Number and Types of Ground Level</td>
+            <td>240.2.1.1</td>
+            <td>F240.2.1.1</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Exceptions</td>
+            <td>240.1</td>
+            <td>F240.1</td>
+        </tr>
+        <tr>
+            <td>EX 1 - family child care facilities</td>
+            <td>240.1 EX 1&nbsp;</td>
+            <td>F240.1 EX 1</td>
+        </tr>
+        <tr>
+            <td>EX 2 - existing play areas</td>
+            <td>240.1 EX 2</td>
+            <td>F240.1 EX 2</td>
+        </tr>
+        <tr>
+            <td>EX 3 - amusement attractions</td>
+            <td>240.1 EX 3</td>
+            <td>F240.1 EX 3</td>
+        </tr>
+        <tr>
+            <td>EX 4 - alterations&nbsp;</td>
+            <td>240.1 EX 4&nbsp;</td>
+            <td>&nbsp;F240.1 EX 4</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Accessible Routes (where required)</td>
+            <td>206</td>
+            <td>F206</td>
+        </tr>
+        <tr>
+            <td>Play Areas (specific provision)</td>
+            <td>206.2.17</td>
+            <td>F206.2.17</td>
+        </tr>
+        <tr>
+            <td>Soft Contained Play Structures (specific provision)</td>
+            <td>206.2.17.2</td>
+            <td>F206.2.17.2</td>
+        </tr>
+        <tr>
+            <td>
+Transfer System for Play Areas (exceptions)
+</td>
+            <td>1008.2.1 EXs</td>
+            <td>1008.2.1 EXs</td>
+        </tr>
+        <tr>
+            <td>Transfer System for Soft Contained (exception)</td>
+            <td>1008.2.2 EX</td>
+            <td>1008.2.2 EX</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Platform Lift (new construction use)</td>
+            <td>206.7.8</td>
+            <td>F206.7.8</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Accessible Routes Components (typically used)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Curb Ramps</td>
+            <td>406</td>
+            <td>406</td>
+        </tr>
+        <tr>
+            <td>Doors and Gates</td>
+            <td>404</td>
+            <td>404</td>
+        </tr>
+        <tr>
+            <td>Ramps</td>
+            <td>405</td>
+            <td>405</td>
+        </tr>
+        <tr>
+            <td>Ramps (slope exception)</td>
+            <td>1002.2 EX 1</td>
+            <td>1002.2 EX 1</td>
+        </tr>
+        <tr>
+            <td>Walking Surfaces with Running Slopes of 5% or less</td>
+            <td>403</td>
+            <td>403</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Modifications to Accessible Routes</td>
+            <td>1008.2</td>
+            <td>1008.2</td>
+        </tr>
+        <tr>
+            <td>Clear Width Modifications</td>
+            <td>1008.2.4</td>
+            <td>1008.2.4</td>
+        </tr>
+        <tr>
+            <td>Ground Surfaces Modifications (see referenced stands.)</td>
+            <td>1008.2.6</td>
+            <td>1008.2.6</td>
+        </tr>
+        <tr>
+            <td>Ramp Modifications</td>
+            <td>1008.2.5</td>
+            <td>1008.2.5</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Elevated Components to Elev. Components (exception)</td>
+            <td>1008.2.1 EX2</td>
+            <td>1008.2.1 EX2</td>
+        </tr>
+        <tr>
+            <td>Transfer Systems</td>
+            <td>1008.3</td>
+            <td>1008.3</td>
+        </tr>
+        <tr>
+            <td>Water Play Components (exceptions)</td>
+            <td>1008.2.3 EXs</td>
+            <td>1008.2.3 EXs</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Technical Requirements for Accessible Play Components</td>
+            <td>1008.4</td>
+            <td>1008.4</td>
+        </tr>
+        <tr>
+            <td>Clear Floor or Ground Space</td>
+            <td>1008.4.2</td>
+            <td>1008.4.2</td>
+        </tr>
+        <tr>
+            <td>Entry Points and Seats</td>
+            <td>1008.4.4</td>
+            <td>1008.4.4</td>
+        </tr>
+        <tr>
+            <td>Play Tables</td>
+            <td>1008.4.3</td>
+            <td>1008.4.3</td>
+        </tr>
+        <tr>
+            <td>Transfer Supports</td>
+            <td>1008.4.5</td>
+            <td>1008.4.5</td>
+        </tr>
+        <tr>
+            <td>Turning Space</td>
+            <td>1008.4.1</td>
+            <td>1008.4.1</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Other Typical Scoping Requirements&nbsp;at Play Areas</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Parking</td>
+            <td>208</td>
+            <td>F208</td>
+        </tr>
+        <tr>
+            <td>Signage</td>
+            <td>216</td>
+            <td>F216</td>
+        </tr>
+        <tr>
+            <td>Toilet and Bathing</td>
+            <td>213</td>
+            <td>F213</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>
 Other Exceptions
- |   |   |
-| Protruding Objects | 204\.1 EX 2 | F204\.1 EX 2 |
-|   |   |   |
-| Reference Standards | 105\.2\.3 | F105\.2\.3 |
-| ASTM F 1292\-99 Standard Specification for Impact Attenuation of Surface Systems Under and Around Playground Equipment \(see 1008\.2\.6\.2\)\. |
-| ASTM F 1292\-04 Standard Specification for Impact Attenuation of Surfacing Materials Within the Use Zone of Playground Equipment \(see 1008\.2\.6\.2\)\. |
-| ASTM F 1487\-01 Standard Consumer Safety Performance Specification for Playground Equipment for Public Use \(see 106\.5 or F106\.5 for “Use Zone”, and 1008\.2\.6\.2\)\. |
-| ASTM F 1951\-99 Standard Specification for Determination of Accessibility of Surface Systems Under and Around Playground Equipment \(see 1008\.2\.6\.1\)\. |
-{: usa-table}
+</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Protruding Objects</td>
+            <td>204.1 EX 2</td>
+            <td>F204.1 EX 2</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Reference Standards</td>
+            <td>105.2.3</td>
+            <td>F105.2.3</td>
+        </tr>
+        <tr>
+            <td>ASTM F 1292-99 Standard Specification for Impact Attenuation of Surface Systems Under and Around Playground Equipment (see 1008.2.6.2).</td>
+        </tr>
+        <tr>
+            <td>ASTM F 1292-04 Standard Specification for Impact Attenuation of Surfacing Materials Within the Use Zone of Playground Equipment (see 1008.2.6.2).</td>
+        </tr>
+        <tr>
+            <td>ASTM F 1487-01 Standard Consumer Safety Performance Specification for Playground Equipment for Public Use (see 106.5 or F106.5 for “Use Zone”, and 1008.2.6.2).</td>
+        </tr>
+        <tr>
+            <td>ASTM F 1951-99 Standard Specification for Determination of Accessibility of Surface Systems Under and Around Playground Equipment (see 1008.2.6.1).</td>
+        </tr>
+    </tbody>
+</table>
 
 
 \* The guide uses the term ADAAG (Americans with Disabilities Act

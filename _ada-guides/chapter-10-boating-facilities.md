@@ -366,79 +366,368 @@ accessible routes.
 This table highlights the sections of the ADA and ABA Accessibility
 Standards discussed in the boating facilities guide.
 
-|                                                               |  ADA Standards\* | ABA Standards        |
-|---------------------------------------------------------------|------------------|----------------------|
-| Definitions                                                   |  106\.5          | F106\.5              |
-| Alteration                                                    |  106\.5          | F106\.5              |
-| Boarding Pier                                                 | 106\.5           | F106\.5              |
-| Boat Launch Ramp                                              |  106\.5          | F106\.5              |
-| Boat Slip                                                     | 106\.5           | F106\.5              |
-| Cross Slope                                                   | 106\.5           | F106\.5              |
-| Curb Ramp                                                     | 106\.5           | F106\.5              |
-| Facility                                                      | 106\.5           | F106\.5              |
-| Gangway                                                       | 106\.5           | F106\.5              |
-| Ramp                                                          | 106\.5           | F106\.5              |
-| Running Slope                                                 | 106\.5           | F106\.5              |
-| Transition Plate                                              | 106\.5           | F106\.5              |
-|                                                               |                  |                      |
-| Recreation Boating Facilities \(where provided\)              | 235              | F235                 |
-| Number of Accessible Boat Slips \(including 40 foot rule\)    | 235\.2           | F235\.2              |
-| Boat Slip Dispersion                                          | 235\.2\.1        | F235\.2\.1           |
-| Number of Acc\. Boarding Piers at Boat Launch Ramps           | 235\.3           | F235\.3              |
-|                                                               |                  |                      |
-| Accessible Routes \(where required\)                          | 206              | F206                 |
-| Boating \(specific provisions\)                               | 206\.2\.10       | F206\.2\.9           |
-| Load and Unload Areas \(accessible route connection\)         | 206\.2\.9\.1     | F206\.2\.9\.1        |
-| Elevators \(types allowed\)                                   | 206\.6           | F206\.6              |
-| Platform Lift \(new construction use\)                        | 206\.7\.10       | F206\.7\.10          |
-|                                                               |                  |                      |
-| Accessible Routes Components \(typically used\)               |                  |                      |
-| Curb Ramps                                                    | 406              | 406                  |
-| Doors and Gates                                               | 404              | 404                  |
-| Ramps \(includes gangways\)                                   | 405              | 405                  |
-| Ramps \(slope exception\)                                     | 1002\.2 EX 1     | 1002\.2 EX 1         |
-| Walking Surfaces with Running Slopes of 5% or less            | 403              | 403                  |
-|                                                               |                  |                      |
-| Gangway \(specific alteration exception\)                     | 1003\.2\.1 EX 1  | 1003\.2\.1 EX 1      |
-| Gangway \(max\. rise exception\)                              | 1003\.2\.1 EX 2  | 1003\.2\.1 EX 2      |
-| Gangway \(80 foot exception\)                                 | 1003\.2\.1 EX 3  | 1003\.2\.1 EX 3      |
-| Gangway \(25 boat slip exception\)                            | 1003\.2\.1 EX 4  | 1003\.2\.1 EX 4      |
-| Gangway \(landing/transition plate exception\)                | 1003\.2\.1 EX 5  | 1003\.2\.1 EX 5      |
-| Gangway \(handrail exception\)                                | 1003\.2\.1 EX 6  | 1003\.2\.1 EX 6      |
-| Gangway \(cross slope exception\)                             | 1003\.2\.1 EX 7  | 1003\.2\.1 EX 7      |
-| Gangway \(surface exception\)                                 | 1003\.2\.1 EX 8  | 1003\.2\.1 EX 8      |
-|                                                               |                  |                      |
-| Boarding Piers at Launch Ramps \(exceptions in 1003\.2\.1\)   | 1003\.2\.2 EX 1  | 1003\.2\.2 EX 1      |
-| Launch Ramp \(30 foot exception\)                             | 1003\.2\.2 EX 2  | 1003\.2\.2 EX 2      |
-| Launch Ramp \(slope exception \- floating/skid piers\)        | 1003\.2\.2 EX 3  | 1003\.2\.2 EX 3      |
-| Launch Ramp \(surface exception from 1003\.2\.1 EX 8\)        | 1003\.2\.2 EX 1  | 1003\.2\.2 EX 1      |
-|                                                               |                  |                      |
-| Technical Requirements for Boating Facilities                 |                  |                      |
-| Clearances \(size, and 10 foot rule\)                         | 1003\.3\.1/\.2   | 1003\.3\.1/\.2       |
-| Clearances \(boarding pier, width exception\)                 | 1003\.3\.2 EX 1  | 1003\.3\.2 EX 1      |
-| Clearances \(boarding pier, edge protection exception\)       | 1003\.3\.2 EX 2  | 1003\.3\.2 EX 2      |
-|                                                               |                  |                      |
-| Clearances \(boat slip, width exception\)                     | 1003\.3\.1 EX 1  | 1003\.3\.1 EX 1      |
-| Clearances \(boat slip, edge protection exception\)           | 1003\.2\.1 EX 2  | 1003\.2\.1 EX 2      |
-| Clearances \(boat slip, alteration exception\)                | 1003\.3\.1 EX 3  | 1003\.3\.1 EX 3      |
-|                                                               |                  |                      |
-| Cleats and Other Boat Securement Devices \(exception\)        | 205\.1 EX 7      | 205\.1 EX 7          |
-| Cross slope \(boat slip exception\)                           | 1003\.2\.1 EX 7  | 1003\.2\.1 EX 7      |
-| Cross Slope \(boarding pier exception, from 1003\.2\.1 EX 7\) | 1003\.2\.2 EX 1  | 1003\.2\.2 EX 1      |
-|                                                               |                  |                      |
-| Gas Pump \(operation exception\)                              | 309\.4 EX        | 309\.4 EX            |
-|                                                               |                  |                      |
-| Other Typical Scoping Requirements at Boat Facilities         |                  |                      |
-| Dining surfaces                                               | 226              | F226                 |
-| Employee Work Areas \(exception\)                             | 203\.9           | no similar exception |
-| Locker Rooms                                                  | 222              | F222                 |
-| Parking                                                       | 208              | F208                 |
-| Passenger Loading Zones and Bus Stops                         | 209              | F209                 |
-| Signage                                                       | 216              | F216                 |
-| Sales and Service Counters                                    | 227\.3           | F227\.3              |
-| Toilet and Bathing                                            | 213              | F213                 |
-| Vending Machines                                              | 228              | F228                 |
-{: .table-provision-index .usa-table}
+
+<table class="usa-table">
+    <thead>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;ADA Standards*</td>
+            <td>ABA Standards&nbsp;</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Definitions</td>
+            <td>&nbsp;106.5</td>
+            <td>F106.5&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Alteration</td>
+            <td>&nbsp;106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Boarding Pier</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Boat Launch Ramp</td>
+            <td>&nbsp;106.5</td>
+            <td>F106.5&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Boat Slip</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Cross Slope</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Curb Ramp</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Facility</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Gangway</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Ramp</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Running Slope</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Transition Plate</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Recreation Boating Facilities (where provided)</td>
+            <td>235</td>
+            <td>F235</td>
+        </tr>
+        <tr>
+            <td>Number of Accessible Boat Slips (including 40 foot rule)</td>
+            <td>235.2</td>
+            <td>F235.2</td>
+        </tr>
+        <tr>
+            <td>Boat Slip Dispersion</td>
+            <td>235.2.1</td>
+            <td>F235.2.1</td>
+        </tr>
+        <tr>
+            <td>Number of Acc. Boarding Piers at Boat Launch Ramps</td>
+            <td>235.3</td>
+            <td>F235.3</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Accessible Routes (where required)</td>
+            <td>206</td>
+            <td>F206</td>
+        </tr>
+        <tr>
+            <td>Boating (specific provisions)</td>
+            <td>206.2.10</td>
+            <td>F206.2.9</td>
+        </tr>
+        <tr>
+            <td>Load and Unload Areas (accessible route connection)</td>
+            <td>206.2.9.1</td>
+            <td>F206.2.9.1</td>
+        </tr>
+        <tr>
+            <td>Elevators (types allowed)</td>
+            <td>206.6</td>
+            <td>F206.6</td>
+        </tr>
+        <tr>
+            <td>Platform Lift (new construction use)</td>
+            <td>206.7.10</td>
+            <td>F206.7.10</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Accessible Routes Components (typically used)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Curb Ramps</td>
+            <td>406</td>
+            <td>406</td>
+        </tr>
+        <tr>
+            <td>Doors and Gates</td>
+            <td>404</td>
+            <td>404</td>
+        </tr>
+        <tr>
+            <td>Ramps&nbsp;(includes gangways)</td>
+            <td>405</td>
+            <td>405</td>
+        </tr>
+        <tr>
+            <td>Ramps (slope exception)</td>
+            <td>1002.2 EX 1</td>
+            <td>1002.2 EX 1</td>
+        </tr>
+        <tr>
+            <td>Walking Surfaces with Running Slopes of 5% or less</td>
+            <td>403</td>
+            <td>403</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Gangway (specific alteration exception)</td>
+            <td>1003.2.1 EX 1</td>
+            <td>1003.2.1 EX 1</td>
+        </tr>
+        <tr>
+            <td>Gangway (max. rise exception)</td>
+            <td>1003.2.1 EX 2</td>
+            <td>1003.2.1 EX 2</td>
+        </tr>
+        <tr>
+            <td>Gangway (80 foot exception)</td>
+            <td>1003.2.1 EX 3</td>
+            <td>1003.2.1 EX 3</td>
+        </tr>
+        <tr>
+            <td>Gangway (25 boat slip exception)</td>
+            <td>1003.2.1 EX 4</td>
+            <td>1003.2.1 EX 4</td>
+        </tr>
+        <tr>
+            <td>Gangway (landing/transition plate exception)</td>
+            <td>1003.2.1 EX 5</td>
+            <td>1003.2.1 EX 5</td>
+        </tr>
+        <tr>
+            <td>Gangway (handrail exception)</td>
+            <td>1003.2.1 EX 6</td>
+            <td>1003.2.1 EX 6</td>
+        </tr>
+        <tr>
+            <td>Gangway (cross slope exception)</td>
+            <td>1003.2.1 EX 7</td>
+            <td>1003.2.1 EX 7</td>
+        </tr>
+        <tr>
+            <td>Gangway (surface exception)</td>
+            <td>1003.2.1 EX 8</td>
+            <td>1003.2.1 EX 8</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Boarding Piers at Launch Ramps (exceptions in 1003.2.1)</td>
+            <td>1003.2.2 EX 1</td>
+            <td>1003.2.2 EX 1</td>
+        </tr>
+        <tr>
+            <td>Launch Ramp (30 foot exception)</td>
+            <td>1003.2.2 EX 2</td>
+            <td>1003.2.2 EX 2</td>
+        </tr>
+        <tr>
+            <td>Launch Ramp (slope exception - floating/skid piers)</td>
+            <td>1003.2.2 EX 3</td>
+            <td>1003.2.2 EX 3</td>
+        </tr>
+        <tr>
+            <td>Launch Ramp (surface exception from 1003.2.1 EX 8)</td>
+            <td>1003.2.2 EX 1</td>
+            <td>1003.2.2 EX 1</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Technical Requirements for Boating Facilities</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Clearances (size, and 10 foot rule)</td>
+            <td>1003.3.1/.2</td>
+            <td>1003.3.1/.2</td>
+        </tr>
+        <tr>
+            <td>Clearances (boarding pier, width exception)</td>
+            <td>1003.3.2 EX 1</td>
+            <td>1003.3.2 EX 1</td>
+        </tr>
+        <tr>
+            <td>Clearances (boarding pier, edge protection exception)</td>
+            <td>1003.3.2 EX 2</td>
+            <td>1003.3.2 EX 2</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Clearances (boat slip, width exception)</td>
+            <td>1003.3.1 EX 1</td>
+            <td>1003.3.1 EX 1</td>
+        </tr>
+        <tr>
+            <td>Clearances (boat slip, edge protection exception)</td>
+            <td>1003.2.1 EX 2</td>
+            <td>1003.2.1 EX 2</td>
+        </tr>
+        <tr>
+            <td>Clearances (boat slip, alteration exception)</td>
+            <td>1003.3.1 EX 3</td>
+            <td>1003.3.1 EX 3</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Cleats and Other Boat Securement Devices (exception)</td>
+            <td>205.1 EX 7</td>
+            <td>205.1 EX 7</td>
+        </tr>
+        <tr>
+            <td>Cross slope (boat slip exception)</td>
+            <td>1003.2.1 EX 7</td>
+            <td>1003.2.1 EX 7</td>
+        </tr>
+        <tr>
+            <td>Cross Slope (boarding pier exception, from 1003.2.1 EX 7)</td>
+            <td>1003.2.2 EX 1</td>
+            <td>1003.2.2 EX 1</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Gas Pump (operation exception)</td>
+            <td>309.4 EX</td>
+            <td>309.4 EX</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Other Typical Scoping Requirements at Boat Facilities</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Dining surfaces</td>
+            <td>226</td>
+            <td>F226</td>
+        </tr>
+        <tr>
+            <td>Employee Work Areas (exception)</td>
+            <td>203.9</td>
+            <td>no similar exception</td>
+        </tr>
+        <tr>
+            <td>Locker Rooms</td>
+            <td>222</td>
+            <td>F222</td>
+        </tr>
+        <tr>
+            <td>Parking</td>
+            <td>208</td>
+            <td>F208</td>
+        </tr>
+        <tr>
+            <td>Passenger Loading Zones and Bus Stops</td>
+            <td>209</td>
+            <td>F209</td>
+        </tr>
+        <tr>
+            <td>Signage</td>
+            <td>216</td>
+            <td>F216</td>
+        </tr>
+        <tr>
+            <td>Sales and Service Counters</td>
+            <td>227.3</td>
+            <td>F227.3</td>
+        </tr>
+        <tr>
+            <td>Toilet and Bathing</td>
+            <td>213</td>
+            <td>F213</td>
+        </tr>
+        <tr>
+            <td>Vending Machines</td>
+            <td>228</td>
+            <td>F228</td>
+        </tr>
+    </tbody>
+</table>
 
 
 \* The guide uses the term ADAAG (Americans with Disabilities Act
