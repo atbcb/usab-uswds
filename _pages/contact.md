@@ -42,7 +42,7 @@ Email:  <info@access-board.gov>
 ***Voice:***  **202-272-0080** or **800-872-2253**  
 ***tty:***  **202-272-0082** or **800-993-2822**
 
-| Executive Director's Office |
+| Executive Director's Office | &nbsp; | &nbsp; |
 | --- | --- | --- |
 | Gretchen Jacobs, Acting Executive Director | 202-272-0040 (v) | 202-272-0075 (tty) |
 | Rose Marie Bunales | 202-272-0006 (v) | 202-272-0057 (tty) |
