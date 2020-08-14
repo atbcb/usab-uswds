@@ -8,8 +8,7 @@ permalink: /contact/
 
 # {{ page.title }}
 
-
-**United States Access Board**
+**United States Access Board**  
 1331 F Street NW, Suite 1000  
 Washington, DC  20004-1111  
 Phone (voice):  202-272-0080, toll free:  800-872-2253  
@@ -23,25 +22,25 @@ Email:  <info@access-board.gov>
 
 ## E-mail Directory
 
-| contact us at ... | for ... |
+| contact us at... | for... |
 | --- | --- |
-| <508@access-board.gov> | questions on the Board's standards for electronic and information technology issued under Section 508 of the Rehabilitation Act |
-| <enforce@access-board.gov> | filing a complaint about facility access under the Architectural Barriers Act |
-| <foia@access-board.gov> | submitting a request under the Freedom Of Information Act |
-| <info@access-board.gov> | general inquiries about the Board, its mission, services, members, and meetings |
-| <mde@access-board.gov> | questions about medical diagnostic equipment |
-| <news@access-board.gov> | media inquiries, Board news, public affairs, or subscriptions to its newsletter |
-| <outdoor@access-board.gov> | questions about outdoor areas, including trails, beaches, and picnic and camping areas |
-| <pvag@access-board.gov> | questions about passenger vessels |
-| <row@access-board.gov> | questions about public rights-of-way, including streets and sidewalks |
-| <ta@access-board.gov> | technical assistance on Board guidelines and accessible design |
-| <training@access-board.gov> | information on the Board's training program or to request training on its guidelines or standards |
-| <508@access-board.gov> | questions or comments about the Board's website |
+| [508@access&minus;board.gov](mailto:508@access-board.gov) | questions on the Board's standards for electronic and information technology issued under Section 508 of the Rehabilitation Act |
+| [enforce@access&minus;board.gov](mailto:enforce@access-board.gov) | filing a complaint about facility access under the Architectural Barriers Act |
+| [foia@access&minus;board.gov](mailto:foia@access-board.gov) | submitting a request under the Freedom Of Information Act |
+| [info@access&minus;board.gov](mailto:info@access-board.gov) | general inquiries about the Board, its mission, services, members, and meetings |
+| [mde@access&minus;board.gov](mailto:mde@access-board.gov) | questions about medical diagnostic equipment |
+| [news@access&minus;board.gov](mailto:news@access-board.gov) | media inquiries, Board news, public affairs, or subscriptions to its newsletter |
+| [outdoor@access&minus;board.gov](mailto:outdoor@access-board.gov) | questions about outdoor areas, including trails, beaches, and picnic and camping areas |
+| [pvag@access&minus;board.gov](mailto:pvag@access-board.gov) | questions about passenger vessels |
+| [row@access&minus;board.gov](mailto:row@access-board.gov) | questions about public rights-of-way, including streets and sidewalks |
+| [ta@access&minus;board.gov](mailto:ta@access-board.gov) | technical assistance on Board guidelines and accessible design |
+| [training@access&minus;board.gov](mailto:training@access-board.gov) | information on the Board's training program or to request training on its guidelines or standards |
+| [508@access&minus;board.gov](mailto:508@access-board.gov) | questions or comments about the Board's website |
 
 ## Phone Directory
 
-**Voice:  202-272-0080 or 800-872-2253  
-tty:  202-272-0082 or 800-993-2822**
+***Voice:***  **202-272-0080** or **800-872-2253**  
+***tty:***  **202-272-0082** or **800-993-2822**
 
 | **Executive Director's Office** |
 | Gretchen Jacobs, Acting Executive Director | 202-272-0040 (v) | 202-272-0075 (tty) |
