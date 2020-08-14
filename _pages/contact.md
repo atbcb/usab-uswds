@@ -24,18 +24,18 @@ Email:  <info@access-board.gov>
 
 | contact us at... | for... |
 | --- | --- |
-| [508@access&minus;board.gov](mailto:508@access-board.gov) | questions on the Board's standards for electronic and information technology issued under Section 508 of the Rehabilitation Act |
-| [enforce@access&minus;board.gov](mailto:enforce@access-board.gov) | filing a complaint about facility access under the Architectural Barriers Act |
-| [foia@access&minus;board.gov](mailto:foia@access-board.gov) | submitting a request under the Freedom Of Information Act |
-| [info@access&minus;board.gov](mailto:info@access-board.gov) | general inquiries about the Board, its mission, services, members, and meetings |
-| [mde@access&minus;board.gov](mailto:mde@access-board.gov) | questions about medical diagnostic equipment |
-| [news@access&minus;board.gov](mailto:news@access-board.gov) | media inquiries, Board news, public affairs, or subscriptions to its newsletter |
-| [outdoor@access&minus;board.gov](mailto:outdoor@access-board.gov) | questions about outdoor areas, including trails, beaches, and picnic and camping areas |
-| [pvag@access&minus;board.gov](mailto:pvag@access-board.gov) | questions about passenger vessels |
-| [row@access&minus;board.gov](mailto:row@access-board.gov) | questions about public rights-of-way, including streets and sidewalks |
-| [ta@access&minus;board.gov](mailto:ta@access-board.gov) | technical assistance on Board guidelines and accessible design |
-| [training@access&minus;board.gov](mailto:training@access-board.gov) | information on the Board's training program or to request training on its guidelines or standards |
-| [508@access&minus;board.gov](mailto:508@access-board.gov) | questions or comments about the Board's website |
+| [508@access&#8209;board.gov](mailto:508@access-board.gov) | questions on the Board's standards for electronic and information technology issued under Section 508 of the Rehabilitation Act |
+| [enforce@access&#8209;board.gov](mailto:enforce@access-board.gov) | filing a complaint about facility access under the Architectural Barriers Act |
+| [foia@access&#8209;board.gov](mailto:foia@access-board.gov) | submitting a request under the Freedom Of Information Act |
+| [info@access&#8209;board.gov](mailto:info@access-board.gov) | general inquiries about the Board, its mission, services, members, and meetings |
+| [mde@access&#8209;board.gov](mailto:mde@access-board.gov) | questions about medical diagnostic equipment |
+| [news@access&#8209;board.gov](mailto:news@access-board.gov) | media inquiries, Board news, public affairs, or subscriptions to its newsletter |
+| [outdoor@access&#8209;board.gov](mailto:outdoor@access-board.gov) | questions about outdoor areas, including trails, beaches, and picnic and camping areas |
+| [pvag@access&#8209;board.gov](mailto:pvag@access-board.gov) | questions about passenger vessels |
+| [row@access&#8209;board.gov](mailto:row@access-board.gov) | questions about public rights-of-way, including streets and sidewalks |
+| [ta@access&#8209;board.gov](mailto:ta@access-board.gov) | technical assistance on Board guidelines and accessible design |
+| [training@access&#8209;board.gov](mailto:training@access-board.gov) | information on the Board's training program or to request training on its guidelines or standards |
+| [508@access&#8209;board.gov](mailto:508@access-board.gov) | questions or comments about the Board's website |
 
 ## Phone Directory
 
