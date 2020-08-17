@@ -15,10 +15,10 @@ Subcommittees on Transportation, Housing and Urban Development, and Related Agen
 
 ## Contents
 
--   [Introduction](#introduction)
--   [Establish State-of-the-Art Accessibility Standards and Guidelines](#establish-state-of-the-art-accessibility-standards-and-guidelines)
-    *   [FY 2019 Results – Rulemaking](#rules-results)
-    *   [FY 2020 Planned Activities – Rulemaking](#rules-planned)
+- [Introduction](#introduction)
+- [Establish State-of-the-Art Accessibility Standards and Guidelines](#establish-state-of-the-art-accessibility-standards-and-guidelines)
+    * [FY 2019 Results – Rulemaking](#FY-2019-Results--Rulemaking)
+    * [FY 2020 Planned Activities – Rulemaking](#)FY-2020-Planned-Activities--Rulemaking)
     *   [FY 2021 Objectives – Rulemaking](#rules-obj)
     *   [FY 2019 Results – Codes and Standards](#cs-results)
     *   [FY 2020 Planned Activities – Codes and Standards](#cs-planned)
