@@ -24,9 +24,9 @@ Subcommittees on Transportation, Housing and Urban Development, and Related Agen
     *   [FY 2020 Planned Activities – Codes and Standards](#fy-2020-planned-activities--codes-and-standards)
     *   [FY 2021 Objectives – Codes and Standards](#fy-2021-objectives--codes-and-standards)
 - [Provide Training and Technical Assistance on Accessibility](#provide-training-and-technical-assistance-on-accessibility)
-    *   [FY 2019 Results](#fy-2019-results-1)
-    *   [FY 2020 Planned Activities](#fy-2020-planned-activities-1)
-    *   [FY 2021 Objectives](#fy-2021-objectives-1)
+    *   [FY 2019 Results](#fy-2019-results)
+    *   [FY 2020 Planned Activities](#fy-2020-planned-activities)
+    *   [FY 2021 Objectives](#fy-2021-objectives)
 - [Increase Architectural Barriers Act Awareness and Compliance](#increase-architectural-barriers-act-awareness-and-compliance)
     *   [FY 2019 Results – ABA Compliance](#fy-2019-results--aba-compliance)
     *   [FY 2020 Planned Activities – ABA Compliance](#fy-2020-planned-activities--aba-compliance)
@@ -35,9 +35,9 @@ Subcommittees on Transportation, Housing and Urban Development, and Related Agen
     *   [FY 2020 Planned Activities – Working in Partnership with Agencies](#fy-2020-planned-activities--working-in-partnership-with-agencies)
     *   [FY 2021 Objectives – Working in Partnership with Agencies](#fy-2021-objectives--working-in-partnership-with-agencies)
 - [Expand Awareness of the Access Board’s Functions and Objectives](#expand-awareness-of-the-access-boards-functions-and-objectives)
-    *   [FY 2019 Results](#fy-2019-results-2)
-    *   [FY 2020 Planned Activities](#fy-2020-planned-activities-2)
-    *   [FY 2021 Objectives](#fy-2021-objectives-2)
+    *   [FY 2019 Results](#fy-2019-results-1)
+    *   [FY 2020 Planned Activities](#fy-2020-planned-activities-1)
+    *   [FY 2021 Objectives](#fy-2021-objectives-1)
 - [Appendix A (Access Board Budget)](#appendix-a)
     *   [Cost Discussion](#cost-discussion)
 - [Appendix B](#appendix-b)
@@ -50,7 +50,7 @@ Subcommittees on Transportation, Housing and Urban Development, and Related Agen
 
 # Fiscal Year 2021 Budget Justification #
 
-This document presents the Access Board’s budget justification for fiscal year (FY) 2021.  We are requesting a total budget authority of $9,200,000 (See [Appendix A](#budget)).
+This document presents the Access Board’s budget justification for fiscal year (FY) 2021.  We are requesting a total budget authority of $9,200,000 (See [Appendix A](#appendix-a)).
 
 ## Introduction
 
