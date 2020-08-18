@@ -353,11 +353,11 @@ Request</th>
 
 <th colspan="3" scope="row">Budget Total</th>
 
-<td style="text-align: right;">**8,400,000**</td>
+<td style="text-align: right;"><strong>8,400,000</strong></td>
 
-<td style="text-align: right;">**9,200,000**</td>
+<td style="text-align: right;"><strong>9,200,000</strong></td>
 
-<td style="text-align: right;">**9,200,000**</td>
+<td style="text-align: right;"><strong>9,200,000</strong></td>
 
 </tr>
 
@@ -369,11 +369,11 @@ Request</th>
 
 <th colspan="3" scope="rowgroup">Personnel</th>
 
-<td style="text-align: right;">**5,261,000**</td>
+<td style="text-align: right;"><strong>5,261,000</strong></td>
 
-<td style="text-align: right;">**5,254,300**</td>
+<td style="text-align: right;"><strong>5,254,300</strong></td>
 
-<td style="text-align: right;">**5,501,900**</td>
+<td style="text-align: right;"><strong>5,501,900</strong></td>
 
 </tr>
 
