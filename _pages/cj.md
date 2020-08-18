@@ -445,11 +445,11 @@ Request</th>
 
 <th colspan="3" scope="rowgroup">Travel</th>
 
-<td style="text-align: right;">**283,600**</td>
+<td style="text-align: right;"><strong>283,600</strong></td>
 
-<td style="text-align: right;">**350,300**</td>
+<td style="text-align: right;"><strong>350,300</strong></td>
 
-<td style="text-align: right;">**352,800**</td>
+<td style="text-align: right;"><strong>352,800</strong></td>
 
 </tr>
 
@@ -503,11 +503,11 @@ Request</th>
 
 <th colspan="3" scope="row">Space Management</th>
 
-<td style="text-align: right;">**844,400**</td>
+<td style="text-align: right;"><strong>844,400</strong></td>
 
-<td style="text-align: right;">**803,200**</td>
+<td style="text-align: right;"><strong>803,200</strong></td>
 
-<td style="text-align: right;">**765,000**</td>
+<td style="text-align: right;"><strong>765,000</strong></td>
 
 </tr>
 
@@ -519,11 +519,11 @@ Request</th>
 
 <th colspan="3" scope="rowgroup">Research</th>
 
-<td style="text-align: right;">**200,000**</td>
+<td style="text-align: right;"><strong>200,000</strong></td>
 
-<td style="text-align: right;">**406,400**</td>
+<td style="text-align: right;"><strong>406,400</strong></td>
 
-<td style="text-align: right;">**200,000**</td>
+<td style="text-align: right;"><strong>200,000</strong></td>
 
 </tr>
 
@@ -563,11 +563,11 @@ Request</th>
 
 <th colspan="3" scope="row">Administrative Support Services</th>
 
-<td style="text-align: right;">**642,000**</td>
+<td style="text-align: right;"><strong>642,000</strong></td>
 
-<td style="text-align: right;">**802,000**</td>
+<td style="text-align: right;"><strong>802,000</strong></td>
 
-<td style="text-align: right;">**778,000**</td>
+<td style="text-align: right;"><strong>778,000</strong></td>
 
 </tr>
 
@@ -579,11 +579,11 @@ Request</th>
 
 <th colspan="3" scope="row">IT Support Services</th>
 
-<td style="text-align: right;">**1,039,200**</td>
+<td style="text-align: right;"><strong>1,039,200</strong></td>
 
-<td style="text-align: right;">**1,459,000**</td>
+<td style="text-align: right;"><strong>1,459,000</strong></td>
 
-<td style="text-align: right;">**1,457,500**</td>
+<td style="text-align: right;"><strong>1,457,500</strong></td>
 
 </tr>
 
@@ -595,11 +595,11 @@ Request</th>
 
 <th colspan="3" scope="row">Printing</th>
 
-<td style="text-align: right;">**40,000**</td>
+<td style="text-align: right;"><strong>40,000</strong></td>
 
-<td style="text-align: right;">**40,000**</td>
+<td style="text-align: right;"><strong>40,000</strong></td>
 
-<td style="text-align: right;">**60,000**</td>
+<td style="text-align: right;"><strong>60,000</strong></td>
 
 </tr>
 
@@ -611,11 +611,11 @@ Request</th>
 
 <th colspan="3" scope="rowgroup">Miscellaneous Operating Expenses</th>
 
-<td style="text-align: right;">**89,800**</td>
+<td style="text-align: right;"><strong>89,800</strong></td>
 
-<td style="text-align: right;">**84,800**</td>
+<td style="text-align: right;"><strong>84,800</strong></td>
 
-<td style="text-align: right;">**84,800**</td>
+<td style="text-align: right;"><strong>84,800</strong></td>
 
 </tr>
 
@@ -739,11 +739,11 @@ Request</th>
 
 <th colspan="3" scope="row">Receipts for Publications and Training</th>
 
-<td style="text-align: right;">**50,000**</td>
+<td style="text-align: right;"><strong>50,000</strong></td>
 
-<td style="text-align: right;">**50,000**</td>
+<td style="text-align: right;"><strong>50,000</strong></td>
 
-<td style="text-align: right;">**50,000**</td>
+<td style="text-align: right;"><strong>50,000</strong></td>
 
 </tr>
 
