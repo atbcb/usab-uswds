@@ -328,427 +328,219 @@ To further our objective of promoting accessibility throughout all segments of s
 
 ## Appendix A
 
-<table class="data" id="budget"><caption>Access Board Budget</caption>
-
-<thead>
-
-<tr>
-
-<th colspan="3" scope="colgroup">Description</th>
-
-<th scope="col">FY 2019</th>
-
-<th scope="col">FY 2020</th>
-
-<th scope="col">FY 2021  
-Request</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<th colspan="3" scope="row">Budget Total</th>
-
-<td style="text-align: right;"><strong>8,400,000</strong></td>
-
-<td style="text-align: right;"><strong>9,200,000</strong></td>
-
-<td style="text-align: right;"><strong>9,200,000</strong></td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="3" scope="rowgroup">Personnel</th>
-
-<td style="text-align: right;"><strong>5,261,000</strong></td>
-
-<td style="text-align: right;"><strong>5,254,300</strong></td>
-
-<td style="text-align: right;"><strong>5,501,900</strong></td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="colgroup">Salary</td>
-
-<td style="text-align: right;">3,976,300</td>
-
-<td style="text-align: right;">3,969,500</td>
-
-<td style="text-align: right;">4,158,200</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td> </td>
-
-<td scope="row">Staff</td>
-
-<td style="text-align: right;">3,742,600</td>
-
-<td style="text-align: right;">3,730,100</td>
-
-<td style="text-align: right;">3,916,800</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td> </td>
-
-<td scope="row">Board</td>
-
-<td style="text-align: right;">233,700</td>
-
-<td style="text-align: right;">239,400</td>
-
-<td style="text-align: right;">241,400</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Personnel Benefits</td>
-
-<td style="text-align: right;">1,284,700</td>
-
-<td style="text-align: right;">1,284,800</td>
-
-<td style="text-align: right;">1,343,700</td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="3" scope="rowgroup">Travel</th>
-
-<td style="text-align: right;"><strong>283,600</strong></td>
-
-<td style="text-align: right;"><strong>350,300</strong></td>
-
-<td style="text-align: right;"><strong>352,800</strong></td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Board Meetings and Public Hearings</td>
-
-<td style="text-align: right;">263,600</td>
-
-<td style="text-align: right;">330,300</td>
-
-<td style="text-align: right;">332,800</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Advisory Committee Meetings</td>
-
-<td style="text-align: right;">0</td>
-
-<td style="text-align: right;">0</td>
-
-<td style="text-align: right;">0</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Training, Site Visits, Conferences, Other</td>
-
-<td style="text-align: right;">20,000</td>
-
-<td style="text-align: right;">20,000</td>
-
-<td style="text-align: right;">20,000</td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="3" scope="row">Space Management</th>
-
-<td style="text-align: right;"><strong>844,400</strong></td>
-
-<td style="text-align: right;"><strong>803,200</strong></td>
-
-<td style="text-align: right;"><strong>765,000</strong></td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="3" scope="rowgroup">Research</th>
-
-<td style="text-align: right;"><strong>200,000</strong></td>
-
-<td style="text-align: right;"><strong>406,400</strong></td>
-
-<td style="text-align: right;"><strong>200,000</strong></td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Technical Assistance and Research</td>
-
-<td style="text-align: right;">200,000</td>
-
-<td style="text-align: right;">406,400</td>
-
-<td style="text-align: right;">200,000</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Regulatory Assessments</td>
-
-<td style="text-align: right;">0</td>
-
-<td style="text-align: right;">0</td>
-
-<td style="text-align: right;">0</td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="3" scope="row">Administrative Support Services</th>
-
-<td style="text-align: right;"><strong>642,000</strong></td>
-
-<td style="text-align: right;"><strong>802,000</strong></td>
-
-<td style="text-align: right;"><strong>778,000</strong></td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="3" scope="row">IT Support Services</th>
-
-<td style="text-align: right;"><strong>1,039,200</strong></td>
-
-<td style="text-align: right;"><strong>1,459,000</strong></td>
-
-<td style="text-align: right;"><strong>1,457,500</strong></td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="3" scope="row">Printing</th>
-
-<td style="text-align: right;"><strong>40,000</strong></td>
-
-<td style="text-align: right;"><strong>40,000</strong></td>
-
-<td style="text-align: right;"><strong>60,000</strong></td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="3" scope="rowgroup">Miscellaneous Operating Expenses</th>
-
-<td style="text-align: right;"><strong>89,800</strong></td>
-
-<td style="text-align: right;"><strong>84,800</strong></td>
-
-<td style="text-align: right;"><strong>84,800</strong></td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Postage, Courier, and Mailing Services</td>
-
-<td style="text-align: right;">10,000</td>
-
-<td style="text-align: right;">5,000</td>
-
-<td style="text-align: right;">5,000</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Staff Training</td>
-
-<td style="text-align: right;">15,000</td>
-
-<td style="text-align: right;">15,000</td>
-
-<td style="text-align: right;">15,000</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Equipment</td>
-
-<td style="text-align: right;">5,000</td>
-
-<td style="text-align: right;">5,000</td>
-
-<td style="text-align: right;">5,000</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Supplies</td>
-
-<td style="text-align: right;">10,000</td>
-
-<td style="text-align: right;">10,000</td>
-
-<td style="text-align: right;">10,000</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Drug Testing</td>
-
-<td style="text-align: right;">800</td>
-
-<td style="text-align: right;">800</td>
-
-<td style="text-align: right;">800</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Audit</td>
-
-<td style="text-align: right;">34,000</td>
-
-<td style="text-align: right;">34,000</td>
-
-<td style="text-align: right;">34,000</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Books</td>
-
-<td style="text-align: right;">5,000</td>
-
-<td style="text-align: right;">5,000</td>
-
-<td style="text-align: right;">5,000</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td colspan="2" scope="row">Other</td>
-
-<td style="text-align: right;">10,000</td>
-
-<td style="text-align: right;">10,000</td>
-
-<td style="text-align: right;">10,000</td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="3" scope="row">Receipts for Publications and Training</th>
-
-<td style="text-align: right;"><strong>50,000</strong></td>
-
-<td style="text-align: right;"><strong>50,000</strong></td>
-
-<td style="text-align: right;"><strong>50,000</strong></td>
-
-</tr>
-
-</tbody>
-
+<table class="data" id="budget">
+  <caption>
+  Access Board Budget
+  </caption>
+  <thead>
+    <tr>
+      <th colspan="3" scope="colgroup">Description</th>
+      <th scope="col">FY 2019</th>
+      <th scope="col">FY 2020</th>
+      <th scope="col">FY 2021  Request</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th colspan="3" scope="row">Budget Total</th>
+      <td style="text-align: right;"><strong>8,400,000</strong></td>
+      <td style="text-align: right;"><strong>9,200,000</strong></td>
+      <td style="text-align: right;"><strong>9,200,000</strong></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="3" scope="rowgroup">Personnel</th>
+      <td style="text-align: right;"><strong>5,261,000</strong></td>
+      <td style="text-align: right;"><strong>5,254,300</strong></td>
+      <td style="text-align: right;"><strong>5,501,900</strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="colgroup">Salary</td>
+      <td style="text-align: right;">3,976,300</td>
+      <td style="text-align: right;">3,969,500</td>
+      <td style="text-align: right;">4,158,200</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td scope="row">Staff</td>
+      <td style="text-align: right;">3,742,600</td>
+      <td style="text-align: right;">3,730,100</td>
+      <td style="text-align: right;">3,916,800</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td></td>
+      <td scope="row">Board</td>
+      <td style="text-align: right;">233,700</td>
+      <td style="text-align: right;">239,400</td>
+      <td style="text-align: right;">241,400</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Personnel Benefits</td>
+      <td style="text-align: right;">1,284,700</td>
+      <td style="text-align: right;">1,284,800</td>
+      <td style="text-align: right;">1,343,700</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="3" scope="rowgroup">Travel</th>
+      <td style="text-align: right;"><strong>283,600</strong></td>
+      <td style="text-align: right;"><strong>350,300</strong></td>
+      <td style="text-align: right;"><strong>352,800</strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Board Meetings and Public Hearings</td>
+      <td style="text-align: right;">263,600</td>
+      <td style="text-align: right;">330,300</td>
+      <td style="text-align: right;">332,800</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Advisory Committee Meetings</td>
+      <td style="text-align: right;">0</td>
+      <td style="text-align: right;">0</td>
+      <td style="text-align: right;">0</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Training, Site Visits, Conferences, Other</td>
+      <td style="text-align: right;">20,000</td>
+      <td style="text-align: right;">20,000</td>
+      <td style="text-align: right;">20,000</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="3" scope="row">Space Management</th>
+      <td style="text-align: right;"><strong>844,400</strong></td>
+      <td style="text-align: right;"><strong>803,200</strong></td>
+      <td style="text-align: right;"><strong>765,000</strong></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="3" scope="rowgroup">Research</th>
+      <td style="text-align: right;"><strong>200,000</strong></td>
+      <td style="text-align: right;"><strong>406,400</strong></td>
+      <td style="text-align: right;"><strong>200,000</strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Technical Assistance and Research</td>
+      <td style="text-align: right;">200,000</td>
+      <td style="text-align: right;">406,400</td>
+      <td style="text-align: right;">200,000</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Regulatory Assessments</td>
+      <td style="text-align: right;">0</td>
+      <td style="text-align: right;">0</td>
+      <td style="text-align: right;">0</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="3" scope="row">Administrative Support Services</th>
+      <td style="text-align: right;"><strong>642,000</strong></td>
+      <td style="text-align: right;"><strong>802,000</strong></td>
+      <td style="text-align: right;"><strong>778,000</strong></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="3" scope="row">IT Support Services</th>
+      <td style="text-align: right;"><strong>1,039,200</strong></td>
+      <td style="text-align: right;"><strong>1,459,000</strong></td>
+      <td style="text-align: right;"><strong>1,457,500</strong></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="3" scope="row">Printing</th>
+      <td style="text-align: right;"><strong>40,000</strong></td>
+      <td style="text-align: right;"><strong>40,000</strong></td>
+      <td style="text-align: right;"><strong>60,000</strong></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="3" scope="rowgroup">Miscellaneous Operating Expenses</th>
+      <td style="text-align: right;"><strong>89,800</strong></td>
+      <td style="text-align: right;"><strong>84,800</strong></td>
+      <td style="text-align: right;"><strong>84,800</strong></td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Postage, Courier, and Mailing Services</td>
+      <td style="text-align: right;">10,000</td>
+      <td style="text-align: right;">5,000</td>
+      <td style="text-align: right;">5,000</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Staff Training</td>
+      <td style="text-align: right;">15,000</td>
+      <td style="text-align: right;">15,000</td>
+      <td style="text-align: right;">15,000</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Equipment</td>
+      <td style="text-align: right;">5,000</td>
+      <td style="text-align: right;">5,000</td>
+      <td style="text-align: right;">5,000</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Supplies</td>
+      <td style="text-align: right;">10,000</td>
+      <td style="text-align: right;">10,000</td>
+      <td style="text-align: right;">10,000</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Drug Testing</td>
+      <td style="text-align: right;">800</td>
+      <td style="text-align: right;">800</td>
+      <td style="text-align: right;">800</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Audit</td>
+      <td style="text-align: right;">34,000</td>
+      <td style="text-align: right;">34,000</td>
+      <td style="text-align: right;">34,000</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Books</td>
+      <td style="text-align: right;">5,000</td>
+      <td style="text-align: right;">5,000</td>
+      <td style="text-align: right;">5,000</td>
+    </tr>
+    <tr>
+      <td></td>
+      <td colspan="2" scope="row">Other</td>
+      <td style="text-align: right;">10,000</td>
+      <td style="text-align: right;">10,000</td>
+      <td style="text-align: right;">10,000</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="3" scope="row">Receipts for Publications and Training</th>
+      <td style="text-align: right;"><strong>50,000</strong></td>
+      <td style="text-align: right;"><strong>50,000</strong></td>
+      <td style="text-align: right;"><strong>50,000</strong></td>
+    </tr>
+  </tbody>
 </table>
 
 * * *
@@ -758,363 +550,147 @@ Request</th>
 The Board is requesting a total budget authority in FY 2021 of $9,200,000.  Pub. L. 116-94, the Further Consolidated Appropriations Act, 2020, provided the Board with $9,200,00 in funding, including $800,000 for activities for the feasibility study of in-cabin wheelchair restraint systems required by section 432 of the Federal Aviation Administration Reauthorization Act.
 
 <table class="data" id="tcd">
-
-<tbody>
-
-<tr>
-
-<th colspan="2" scope="rowgroup">Personnel</th>
-
-<td rowspan="4">
-
-We anticipate the Board will use 32 FTE in 2021.  We are planning on 4 days of pay per public Board member (Presidentially appointed) for each of the 5 regular Board meetings and 5 days of pay for the one out-of-town meeting.  In addition, we have included funds for the following:
-
-*   Salaries for a total of 10 additional days for information meetings where some of our public Board members participate in committee meetings or represent the agency in other meetings (such as meetings of the Election Assistance Commission).
-
-We have calculated benefits (including the transit subsidy) based on our experience with the benefit packages employees have chosen in the past.  Benefits for public Board members include only the Social Security allotment from the employer.
-
-We currently have one vacant position but anticipate being fully staffed in FY 2021.
-
-Per direction by OMB and OPM, awards have been capped at 1.5 percent of salary for GS employees since FY 2010.  OMB has directed that the 1.5 percent cap will be lifted and that award calculations for FY 2021 shall include an increase of no less than 1 percent above that amount.  Our personnel staff salary line includes an award amount equal to 4 percent of GS salaries.  This will allow us to provide meaningful recognition for annual performance awards and provide for special act awards where warranted.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2020</td>
-
-<td style="text-align: right;">$5,254,300</td>
-
-</tr>
-
-<tr>
-
-<td>FY 2021</td>
-
-<td style="text-align: right;">$5,501,900</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2"> </td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="2" scope="rowgroup">Travel</th>
-
-<td rowspan="4">
-
-The largest portion of our travel budget is devoted to the cost of travel for public Board members.  This line item also includes the costs for Communication Access Realtime Translation (CART) and sign language interpreters for all Board and other public meetings (at a total cost of approximately $2,000 per day).
-
-</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2020</td>
-
-<td style="text-align: right;">$ 350,300</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2021</td>
-
-<td style="text-align: right;">$ 352,800</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2"> </td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="2" scope="rowgroup">Space Management</th>
-
-<td rowspan="4">
-
-Our rent is set by the General Services Administration.  Our current lease expires in December 2021.  We are working with GSA to determine whether we will continue operating at our current location or relocate.  As GSA has not finalized its assessment, our estimate assumes that we will remain in our current location with a modest increase in rent.  GSA’s rent projection for FY 2021 decreased slightly as a result of an extension of our existing lease from 2018 to 2021.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2020</td>
-
-<td style="text-align: right;">$ 803,200</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2021</td>
-
-<td style="text-align: right;">$ 765,000</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2"> </td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="2" scope="rowgroup">Research</th>
-
-<td rowspan="4">
-
-Contracting for research to assist in our guidelines and standards development and to provide technical assistance materials is crucial to the Board’s mission.  Funds also are used to conduct required regulatory assessments for our rulemaking.  Historically, we have requested a research budget of approximately $400,000.  With limitations on rulemaking our budget request is adjusted accordingly.
-
-Our FY 2020 research budget will be used to complete a feasibility study of in-cabin wheelchair restraint systems required by the FAA Reauthorization Act of 2018.  FY 2020 will be the final year of this two-year study, being conducted on our behalf by the Transportation Research Board.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2020</td>
-
-<td style="text-align: right;">$ 406,400</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2021</td>
-
-<td style="text-align: right;">$ 200,000</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2"> </td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="2" scope="rowgroup">Administrative Support Services</th>
-
-<td rowspan="4">
-
-We contract with the Bureau of the Fiscal Service (BFS) in the Department of the Treasury to provide procurement, financial, payroll, and personnel services.
-
-We anticipate slightly lower costs in FY 2021, following a transition of our procurement activity from the Department of the Interior to BFS.
-
-Funds also are used to maintain compliant Federal Personal Identity Verifications under HSPD-12.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2020</td>
-
-<td style="text-align: right;">$ 802,000</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2021</td>
-
-<td style="text-align: right;">$ 778,000</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2"> </td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="2" scope="rowgroup">Information Technology Support Services</th>
-
-<td rowspan="4">
-
-This is the yearly cost of the Board’s telephone and desktop computing needs including desktop and laptop computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service).  A large portion of our IT budget goes toward the provision of network security and operational integrity of the Board’s network.  This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, “Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.”  These expenditures will help us meet the Federal Information Security Management Act and provide certification of the Board’s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service’s HR Connect System for personnel services).  Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2020</td>
-
-<td style="text-align: right;">$1,459,000</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2021</td>
-
-<td style="text-align: right;">$1,457,500</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2"> </td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="2" scope="rowgroup">Printing</th>
-
-<td rowspan="4">
-
-Publishing proposed and final rules in the Federal Register is a relatively high cost for the Board.  Printing in the Federal Register costs $453 per page.  Other items in this category include printing our final rules in the Code of Federal Regulations.  We anticipate a slight increase in costs in FY 2021 to reflect publishing a planned Advance Notice of Proposed Rulemaking on Self-Service Transaction Machines.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2020</td>
-
-<td style="text-align: right;">$ 40,000</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2021</td>
-
-<td style="text-align: right;">$ 60,000</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2"> </td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="2" scope="rowgroup">Miscellaneous Operating Expenses</th>
-
-<td rowspan="4">
-
-Expenditures in this category include postage, overnight shipping, and in-town delivery service.  We contract with the Interior Business Center in the Department of the Interior to provide services for the mandatory drug testing program.  Other expenditures are for a reader to provide audio tapes as alternate format publications and miscellaneous operating expenses not reflected elsewhere.  Our yearly financial audit is included along with book purchases for our library collection of accessible design materials, staff training, office supplies, and equipment purchases.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2020</td>
-
-<td style="text-align: right;">$ 84,800</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2021</td>
-
-<td style="text-align: right;">$ 84,800</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2"> </td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th colspan="2" scope="rowgroup">Receipts for Publications and Training</th>
-
-<td rowspan="4">
-
-We expect to receive approximately $50,000 in FY 2021 in reimbursements for travel associated with training.
-
-</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2020</td>
-
-<td style="text-align: right;">$50,000</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">FY 2021</td>
-
-<td style="text-align: right;">$50,000</td>
-
-</tr>
-
-<tr>
-
-<td colspan="2"> </td>
-
-</tr>
-
-</tbody>
-
+  <tbody>
+    <tr>
+      <th colspan="2" scope="rowgroup">Personnel</th>
+      <td rowspan="3"><p> We anticipate the Board will use 32 FTE in 2021.  We are planning on 4 days of pay per public Board member (Presidentially appointed) for each of the 5 regular Board meetings and 5 days of pay for the one out-of-town meeting.  In addition, we have included funds for the following: </p>
+        <ul>
+          <li> Salaries for a total of 10 additional days for information meetings where some of our public Board members participate in committee meetings or represent the agency in other meetings (such as meetings of the Election Assistance Commission). </li>
+        </ul>
+        <p>We have calculated benefits (including the transit subsidy) based on our experience with the benefit packages employees have chosen in the past.  Benefits for public Board members include only the Social Security allotment from the employer.</p>
+        <p>We currently have one vacant position but anticipate being fully staffed in FY 2021.</p>
+        <p>Per direction by OMB and OPM, awards have been capped at 1.5 percent of salary for GS employees since FY 2010.  OMB has directed that the 1.5 percent cap will be lifted and that award calculations for FY 2021 shall include an increase of no less than 1 percent above that amount.  Our personnel staff salary line includes an award amount equal to 4 percent of GS salaries.  This will allow us to provide meaningful recognition for annual performance awards and provide for special act awards where warranted. </p></td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2020</td>
+      <td style="text-align: right;">$5,254,300</td>
+    </tr>
+    <tr>
+      <td>FY 2021</td>
+      <td style="text-align: right;">$5,501,900</td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2" scope="rowgroup">Travel</th>
+      <td rowspan="3"><p> The largest portion of our travel budget is devoted to the cost of travel for public Board members.  This line item also includes the costs for Communication Access Realtime Translation (CART) and sign language interpreters for all Board and other public meetings (at a total cost of approximately $2,000 per day). </p></td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2020</td>
+      <td style="text-align: right;">$ 350,300</td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2021</td>
+      <td style="text-align: right;">$ 352,800</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2" scope="rowgroup">Space Management</th>
+      <td rowspan="3"><p> Our rent is set by the General Services Administration.  Our current lease expires in December 2021.  We are working with GSA to determine whether we will continue operating at our current location or relocate.  As GSA has not finalized its assessment, our estimate assumes that we will remain in our current location with a modest increase in rent.  GSA's rent projection for FY 2021 decreased slightly as a result of an extension of our existing lease from 2018 to 2021. </p></td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2020</td>
+      <td style="text-align: right;">$ 803,200</td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2021</td>
+      <td style="text-align: right;">$ 765,000</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2" scope="rowgroup">Research</th>
+      <td rowspan="3"><p> Contracting for research to assist in our guidelines and standards development and to provide technical assistance materials is crucial to the Board's mission.  Funds also are used to conduct required regulatory assessments for our rulemaking.  Historically, we have requested a research budget of approximately $400,000.  With limitations on rulemaking our budget request is adjusted accordingly. </p>
+        <p> Our FY 2020 research budget will be used to complete a feasibility study of in-cabin wheelchair restraint systems required by the FAA Reauthorization Act of 2018.  FY 2020 will be the final year of this two-year study, being conducted on our behalf by the Transportation Research Board. </p></td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2020</td>
+      <td style="text-align: right;">$ 406,400</td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2021</td>
+      <td style="text-align: right;">$ 200,000</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2" scope="rowgroup">Administrative Support Services</th>
+      <td rowspan="3"><p> We contract with the Bureau of the Fiscal Service (BFS) in the Department of the Treasury to provide procurement, financial, payroll, and personnel services. </p>
+        <p> We anticipate slightly lower costs in FY 2021, following a transition of our procurement activity from the Department of the Interior to BFS. </p>
+        <p> Funds also are used to maintain compliant Federal Personal Identity Verifications under HSPD-12. </p></td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2020</td>
+      <td style="text-align: right;">$ 802,000</td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2021</td>
+      <td style="text-align: right;">$ 778,000</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2" scope="rowgroup">Information Technology Support Services</th>
+      <td rowspan="3"><p> This is the yearly cost of the Board's telephone and desktop computing needs including desktop and laptop computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service).  A large portion of our IT budget goes toward the provision of network security and operational integrity of the Board's network.  This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, "Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure."  These expenditures will help us meet the Federal Information Security Management Act and provide certification of the Board's network, required to access other agency networks (e.g., the Bureau of the Fiscal Service's HR Connect System for personnel services).  Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program. </p></td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2020</td>
+      <td style="text-align: right;">$1,459,000</td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2021</td>
+      <td style="text-align: right;">$1,457,500</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2" scope="rowgroup">Printing</th>
+      <td rowspan="3"><p> Publishing proposed and final rules in the Federal Register is a relatively high cost for the Board.  Printing in the Federal Register costs $453 per page.  Other items in this category include printing our final rules in the Code of Federal Regulations.  We anticipate a slight increase in costs in FY 2021 to reflect publishing a planned Advance Notice of Proposed Rulemaking on Self-Service Transaction Machines. </p></td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2020</td>
+      <td style="text-align: right;">$ 40,000</td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2021</td>
+      <td style="text-align: right;">$ 60,000</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2" scope="rowgroup">Miscellaneous Operating Expenses</th>
+      <td rowspan="3"><p> Expenditures in this category include postage, overnight shipping, and in-town delivery service.  We contract with the Interior Business Center in the Department of the Interior to provide services for the mandatory drug testing program.  Other expenditures are for a reader to provide audio tapes as alternate format publications and miscellaneous operating expenses not reflected elsewhere.  Our yearly financial audit is included along with book purchases for our library collection of accessible design materials, staff training, office supplies, and equipment purchases. </p></td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2020</td>
+      <td style="text-align: right;">$ 84,800</td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2021</td>
+      <td style="text-align: right;">$ 84,800</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th colspan="2" scope="rowgroup">Receipts for Publications and Training</th>
+      <td rowspan="3"><p> We expect to receive approximately $50,000 in FY 2021 in reimbursements for travel associated with training. </p></td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2020</td>
+      <td style="text-align: right;">$50,000</td>
+    </tr>
+    <tr>
+      <td scope="row">FY 2021</td>
+      <td style="text-align: right;">$50,000</td>
+    </tr>
+    <tr>
+      <td colspan="2"></td>
+    </tr>
+  </tbody>
 </table>
 
 * * *
@@ -1409,323 +985,173 @@ Corrections to the Information and Communication Technology (ICT) Final Standard
 
 ## Appendix C
 
-<table class="data" id="cases"><caption>Architectural Barriers Act Cases</caption>
-
-<thead>
-
-<tr>
-
-<th colspan="2"> </th>
-
-<th scope="col">FY 2018</th>
-
-<th scope="col">FY 2019</th>
-
-<th scope="col">FY 2020  
-(est.)</th>
-
-<th scope="col">FY 2021  
-(est.)</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td colspan="2" scope="row">Complaints pending at start of the fiscal year</td>
-
-<td>82</td>
-
-<td>98</td>
-
-<td>104</td>
-
-<td>98</td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<td colspan="2" scope="row">Complaints received during the fiscal year</td>
-
-<td>149</td>
-
-<td>168</td>
-
-<td>152</td>
-
-<td>161</td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<td colspan="2" scope="rowgroup">Total complaints closed during the fiscal year …</td>
-
-<td>133</td>
-
-<td>162</td>
-
-<td>158</td>
-
-<td>158</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td scope="row">after our investigation resulted in completed corrective action</td>
-
-<td style="text-align: right;">43</td>
-
-<td style="text-align: right;">48</td>
-
-<td style="text-align: right;">56</td>
-
-<td style="text-align: right;">52</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td scope="row">after our investigation resulted in a determination that we did not have jurisdiction</td>
-
-<td style="text-align: right;">7</td>
-
-<td style="text-align: right;">2</td>
-
-<td style="text-align: right;">2</td>
-
-<td style="text-align: right;">2</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td scope="row">after our investigation resulted in a determination that there was no violation of the standards</td>
-
-<td style="text-align: right;">18</td>
-
-<td style="text-align: right;">16</td>
-
-<td style="text-align: right;">20</td>
-
-<td style="text-align: right;">18</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td scope="row">after the issuance of a waiver or modification by the standard-setting agency</td>
-
-<td style="text-align: right;">0</td>
-
-<td style="text-align: right;">0</td>
-
-<td style="text-align: right;">0</td>
-
-<td style="text-align: right;">0</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td scope="row">after a referral absent an investigation</td>
-
-<td style="text-align: right;">48</td>
-
-<td style="text-align: right;">70</td>
-
-<td style="text-align: right;">60</td>
-
-<td style="text-align: right;">65</td>
-
-</tr>
-
-<tr>
-
-<td> </td>
-
-<td scope="row">for administrative reasons</td>
-
-<td style="text-align: right;">17</td>
-
-<td style="text-align: right;">26</td>
-
-<td style="text-align: right;">20</td>
-
-<td style="text-align: right;">21</td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<td colspan="2" scope="row">Complaints pending at end of the fiscal year</td>
-
-<td>98</td>
-
-<td>104</td>
-
-<td>98</td>
-
-<td>101</td>
-
-</tr>
-
-</tbody>
-
+<table class="data" id="cases">
+  <caption>
+  Architectural Barriers Act Cases
+  </caption>
+  <thead>
+    <tr>
+      <td colspan="2">&nbsp;</td>
+      <th scope="col">FY 2018</th>
+      <th scope="col">FY 2019</th>
+      <th scope="col">FY 2020  
+        (est.)</th>
+      <th scope="col">FY 2021 (est.)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td colspan="2" scope="row">Complaints pending at start of the fiscal year</td>
+      <td>82</td>
+      <td>98</td>
+      <td>104</td>
+      <td>98</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td colspan="2" scope="row">Complaints received during the fiscal year</td>
+      <td>149</td>
+      <td>168</td>
+      <td>152</td>
+      <td>161</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td colspan="2" scope="rowgroup">Total complaints closed during the fiscal year …</td>
+      <td>133</td>
+      <td>162</td>
+      <td>158</td>
+      <td>158</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td scope="row">after our investigation resulted in completed corrective action</td>
+      <td style="text-align: right;">43</td>
+      <td style="text-align: right;">48</td>
+      <td style="text-align: right;">56</td>
+      <td style="text-align: right;">52</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td scope="row">after our investigation resulted in a determination that we did not have jurisdiction</td>
+      <td style="text-align: right;">7</td>
+      <td style="text-align: right;">2</td>
+      <td style="text-align: right;">2</td>
+      <td style="text-align: right;">2</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td scope="row">after our investigation resulted in a determination that there was no violation of the standards</td>
+      <td style="text-align: right;">18</td>
+      <td style="text-align: right;">16</td>
+      <td style="text-align: right;">20</td>
+      <td style="text-align: right;">18</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td scope="row">after the issuance of a waiver or modification by the standard-setting agency</td>
+      <td style="text-align: right;">0</td>
+      <td style="text-align: right;">0</td>
+      <td style="text-align: right;">0</td>
+      <td style="text-align: right;">0</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td scope="row">after a referral absent an investigation</td>
+      <td style="text-align: right;">48</td>
+      <td style="text-align: right;">70</td>
+      <td style="text-align: right;">60</td>
+      <td style="text-align: right;">65</td>
+    </tr>
+    <tr>
+      <td>&nbsp;</td>
+      <td scope="row">for administrative reasons</td>
+      <td style="text-align: right;">17</td>
+      <td style="text-align: right;">26</td>
+      <td style="text-align: right;">20</td>
+      <td style="text-align: right;">21</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td colspan="2" scope="row">Complaints pending at end of the fiscal year</td>
+      <td>98</td>
+      <td>104</td>
+      <td>98</td>
+      <td>101</td>
+    </tr>
+  </tbody>
 </table>
 
 * * *
 
 ## Appendix D
 
-<table class="data" id="tad"><caption>Technical Assistance Data</caption>
-
-<thead>
-
-<tr>
-
-<th> </th>
-
-<th colspan="2" scope="col">FY 2018</th>
-
-<th colspan="2" scope="col">FY 2019</th>
-
-<th colspan="2" scope="col">FY 2020 (est.)</th>
-
-<th colspan="2" scope="col">FY 2021 (est.)</th>
-
-</tr>
-
-</thead>
-
-<tbody>
-
-<tr>
-
-<td scope="row">Technical Assistance  
-Calls and Faxes</td>
-
-<td style="text-align: center;" colspan="2">7,755</td>
-
-<td style="text-align: center;" colspan="2">6,278</td>
-
-<td style="text-align: center;" colspan="2">7,100</td>
-
-<td style="text-align: center;" colspan="2">7,200</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">Website User Sessions</td>
-
-<td style="text-align: center;" colspan="2">1.41 million</td>
-
-<td style="text-align: center;" colspan="2">938,000</td>
-
-<td style="text-align: center;" colspan="2">1.0 million</td>
-
-<td style="text-align: center;" colspan="2">1.1 million</td>
-
-</tr>
-
-</tbody>
-
-<tbody>
-
-<tr>
-
-<th> </th>
-
-<th scope="col">in‑person</th>
-
-<th scope="col">webinars</th>
-
-<th scope="col">in‑person</th>
-
-<th scope="col">webinars</th>
-
-<th scope="col">in‑person</th>
-
-<th scope="col">webinars</th>
-
-<th scope="col">in‑person</th>
-
-<th scope="col">webinars</th>
-
-</tr>
-
-<tr>
-
-<td scope="row">Training Sessions</td>
-
-<td style="text-align: center;">52</td>
-
-<td style="text-align: center;">18</td>
-
-<td style="text-align: center;">39</td>
-
-<td style="text-align: center;">17</td>
-
-<td style="text-align: center;">45</td>
-
-<td style="text-align: center;">18</td>
-
-<td style="text-align: center;">45</td>
-
-<td style="text-align: center;">18</td>
-
-</tr>
-
-<tr>
-
-<td scope="row">Training Participants</td>
-
-<td style="text-align: center;">6,136</td>
-
-<td style="text-align: center;">8,094</td>
-
-<td style="text-align: center;">4,764</td>
-
-<td style="text-align: center;">9,467</td>
-
-<td style="text-align: center;">5,200</td>
-
-<td style="text-align: center;">8,900</td>
-
-<td style="text-align: center;">5,300</td>
-
-<td style="text-align: center;">9,000</td>
-
-</tr>
-
-</tbody>
-
+<table class="data" id="tad">
+  <caption>
+  Technical Assistance Data
+  </caption>
+  <thead>
+    <tr>
+      <td>&nbsp;</td>
+      <th colspan="2" scope="col">FY 2018</th>
+      <th colspan="2" scope="col">FY 2019</th>
+      <th colspan="2" scope="col">FY 2020 (est.)</th>
+      <th colspan="2" scope="col">FY 2021 (est.)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="row">Technical Assistance  
+        Calls and Faxes</td>
+      <td style="text-align: center;" colspan="2">7,755</td>
+      <td style="text-align: center;" colspan="2">6,278</td>
+      <td style="text-align: center;" colspan="2">7,100</td>
+      <td style="text-align: center;" colspan="2">7,200</td>
+    </tr>
+    <tr>
+      <td scope="row">Website User Sessions</td>
+      <td style="text-align: center;" colspan="2">1.41 million</td>
+      <td style="text-align: center;" colspan="2">938,000</td>
+      <td style="text-align: center;" colspan="2">1.0 million</td>
+      <td style="text-align: center;" colspan="2">1.1 million</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="col">in-person</th>
+      <th scope="col">webinars</th>
+      <th scope="col">in‑person</th>
+      <th scope="col">webinars</th>
+      <th scope="col">in‑person</th>
+      <th scope="col">webinars</th>
+      <th scope="col">in‑person</th>
+      <th scope="col">webinars</th>
+    </tr>
+    <tr>
+      <td scope="row">Training Sessions</td>
+      <td style="text-align: center;">52</td>
+      <td style="text-align: center;">18</td>
+      <td style="text-align: center;">39</td>
+      <td style="text-align: center;">17</td>
+      <td style="text-align: center;">45</td>
+      <td style="text-align: center;">18</td>
+      <td style="text-align: center;">45</td>
+      <td style="text-align: center;">18</td>
+    </tr>
+    <tr>
+      <td scope="row">Training Participants</td>
+      <td style="text-align: center;">6,136</td>
+      <td style="text-align: center;">8,094</td>
+      <td style="text-align: center;">4,764</td>
+      <td style="text-align: center;">9,467</td>
+      <td style="text-align: center;">5,200</td>
+      <td style="text-align: center;">8,900</td>
+      <td style="text-align: center;">5,300</td>
+      <td style="text-align: center;">9,000</td>
+    </tr>
+  </tbody>
 </table>
