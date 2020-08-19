@@ -230,7 +230,7 @@ public access (§208.1, Ex.).]({{ site.baseurl }}{{ page.image-directory }}chapt
         </tr>
         <tr>
             <th scope="row">2001 and over</th>
-            <td aria-describedby="3star 1star">(*** - *)</td>
+            <td aria-describedby="3star 1star">(*** minus *)</td>
             <td aria-describedby="1star">*</td>
             <td aria-describedby="3star">***</td>
         </tr>
@@ -265,7 +265,6 @@ it affects a facility's usability.
 ### Location
 
 [[§208.3](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces)]
-
 
 {% include imgright-italictextbelow.html
 img-file= "chapter5/5p5.jpg"
@@ -430,7 +429,7 @@ Accessible parking at residential facilities is based on the ratio of
 parking spaces to dwelling units.
 </div>
 
-**Parking at Residential Facilities**
+#### Parking at Residential Facilities
 
 ![Parking at multi-family residential facility. Notes: Resident Parking
 (§208.2.3.1) Where at least one parking space is provided for each
