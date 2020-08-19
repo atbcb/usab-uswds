@@ -46,7 +46,7 @@ Variations in slope, such as grade breaks within runs, can disrupt
 wheelchair travel.
 
 {%include recommendation.html
-text= "Providing the least possible slope below the 1:12 (8.33%) maximum offers better usability for a wider range of users. Specifying a running slope of 7.5% maximum and a cross slope of 1.5% maximum for exterior ramps will accommodate most irregularities or variances due to construction methods or materials according to a study sponsored by the Board (\"Dimensional Tolerances in Construction and for Surface Accessibility\" by David Kent Ballast."
+text= "Providing the least possible slope below the 1:12 (8.33%) maximum offers better usability for a wider range of users. Specifying a running slope of 7.5% maximum and a cross slope of 1.5% maximum for exterior ramps will accommodate most irregularities or variances due to construction methods or materials according to a study sponsored by the Board (\"Dimensional Tolerances in Construction and for Surface Accessibility\" by David Kent Ballast.)"
 %}
 
 ### Clear Width
@@ -239,7 +239,7 @@ extended surfaces.
       <span class="grid-line text-italic">Vertical pickets used for edge protection must prevent passage of a 4” diameter sphere.</span>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr17.jpg" alt="Rail that is less than 4 inches above ramp surface">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr17.jpg" alt="Extended platform 12” min beyond inside face of handrails">
       <span class="grid-line text-italic">Run and landing surfaces that extend at least 12” beyond the inside face of handrails will provide adequate edge protection by preventing wheelchair casters and crutch tips from slipping off the edge.</span>
     </div>
   </div>

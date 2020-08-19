@@ -218,6 +218,7 @@ project into circulation paths and pose a hazard, they can turn, wrap,
 or be shortened as necessary.
 
 #### Can handrails overlap door maneuvering clearances?
+
 ![Handrail extension shown at latch side of door and shown outside door
 maneuvering clearance that is located 8" max. from the face of the
 door.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5s10.jpg){: .img-right}
