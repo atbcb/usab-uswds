@@ -173,8 +173,7 @@ is not specified, but they are to be installed near the entry.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col-8">
-      <img class="img-full padding-1" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/7.jpg" alt="Grab in standard roll-in shower on three walls located 6 inches max. from
-adjacent walls. Note: Grab bar to extend to shower entry (distance from entry not specified)">
+      <img class="img-full padding-1" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/7.jpg" alt="Grab in standard roll-in shower on three walls located 6 inches max. from adjacent walls. Note: Grab bar to extend to shower entry (distance from entry not specified)">
       <p class="text-italic">Note: Grab bar to extend to shower entry (distance from entry not specified)</p>
     </div>
     <div class="tablet:grid-col-4">
@@ -765,9 +764,6 @@ overlap the turning space.
 
 ![Door maneuvering clearance shown in bathroom with roll-in
 shower.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/53.png){: .img-large}
-
-![Grab bar on side wall at water closet that does not overlap the door
-maneuvering clearance at a door in the same wall.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/54.png){: .img-large}
 
 <div class="grid-container">
   <div class="grid-row">
