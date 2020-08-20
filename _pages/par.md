@@ -379,7 +379,7 @@ November 9, 2018
 
 <tr>
 
-<td style="border: 1px solid #000000;">Fund Balance With Treasury ([Note 2](#note2))</td>
+<td style="border: 1px solid #000000;">Fund Balance With Treasury ([Note 2](#note-2-fund-balance-with-treasury))</td>
 
 <td style="border: 1px solid #000000;">$2,741,963</td>
 
@@ -461,7 +461,7 @@ $2,095,938
 
 <td style="border: 1px solid #000000;">
 
-**Liabilities:**   
+<strong>Liabilities:</strong>   
 
 </td>
 
@@ -585,7 +585,7 @@ Total Liabilities ([Note 6](#n6))
 
 <td style="border: 1px solid #000000;">
 
-**Net Position:**  
+<strong>Net Position:</strong>  
 
 </td>
 
@@ -675,7 +675,7 @@ $2,095,938
 
 </table>
 
-The accompanying [notes](#notes) are an integral part of these financial statements.
+The accompanying [notes](#united-states-access-board-notes-to-the-financial-statements) are an integral part of these financial statements.
 
 * * *
 
@@ -689,9 +689,9 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000; text-align: center;">**2018**</td>
+<td style="border: 1px solid #000000; text-align: center;"><strong>2018</strong></td>
 
-<td style="border: 1px solid #000000; text-align: center;">**2017**</td>
+<td style="border: 1px solid #000000; text-align: center;"><strong>2017</strong></td>
 
 </tr>
 
@@ -699,7 +699,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td style="border: 1px solid #000000;">
 
-**Program Costs: **
+<strong>Program Costs: </strong>
 
 </td>
 
@@ -811,15 +811,15 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td align="center" style="border: 1px solid #000000;"> </td>
 
-<td align="center" style="border: 1px solid #000000;">**2018**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**2017**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Unexpended Appropriations:**</td>
+<td style="border: 1px solid #000000;"><strong>Unexpended Appropriations:</strong></td>
 
 <td style="border: 1px solid #000000;"> </td>
 
@@ -839,7 +839,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Budgetary Financing Sources:**</td>
+<td style="border: 1px solid #000000;"><strong>Budgetary Financing Sources:</strong></td>
 
 <td style="border: 1px solid #000000;"> </td>
 
@@ -901,7 +901,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td style="border: 1px solid #000000;">
 
-**Cumulative Results of Operations:**  
+<strong>Cumulative Results of Operations:</strong>  
 
 </td>
 
@@ -931,7 +931,7 @@ $(69,111)
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Budgetary Financing Sources:**</td>
+<td style="border: 1px solid #000000;"><strong>Budgetary Financing Sources:</strong></td>
 
 <td style="border: 1px solid #000000;"> </td>
 
@@ -951,7 +951,7 @@ $(69,111)
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Other Financing Sources (Non-Exchange):**</td>
+<td style="border: 1px solid #000000;"><strong>Other Financing Sources (Non-Exchange):</strong></td>
 
 <td style="border: 1px solid #000000;"> </td>
 
@@ -1061,9 +1061,9 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td align="center" style="border: 1px solid #000000;"> </td>
 
-<td align="center" style="border: 1px solid #000000;">**2018**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**2017**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -1071,7 +1071,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td style="border: 1px solid #000000;">
 
-**Budgetary Resources:** 
+<strong>Budgetary Resources:</strong> 
 
 </td>
 
@@ -1123,7 +1123,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Memorandum (non-add) entries:**</td>
+<td style="border: 1px solid #000000;"><strong>Memorandum (non-add) entries:</strong></td>
 
 <td style="border: 1px solid #000000;"> </td>
 
@@ -1145,7 +1145,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td style="border: 1px solid #000000;">
 
-**Status of Budgetary Resources:**
+<strong>Status of Budgetary Resources:</strong>
 
 </td>
 
@@ -1257,7 +1257,7 @@ $9,080,322
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Outlays, net:**</td>
+<td style="border: 1px solid #000000;"><strong>Outlays, net:</strong></td>
 
 <td style="border: 1px solid #000000;"> </td>
 
@@ -1401,9 +1401,9 @@ Fund balance with Treasury account balances as of September 30, 2018 and 2017wer
 
 <td align="center" style="border: 1px solid #000000;"> </td>
 
-<td align="center" style="border: 1px solid #000000;">**2018**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**2017**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -1411,7 +1411,7 @@ Fund balance with Treasury account balances as of September 30, 2018 and 2017wer
 
 <td style="border: 1px solid #000000;">
 
-**Status of Fund Balance with Treasury:**    
+<strong>Status of Fund Balance with Treasury:</strong>    
 
 </td>
 
@@ -1509,9 +1509,9 @@ The obligated balance not yet disbursed includes accounts payable, accrued expen
 
 <td align="center" style="border: 1px solid #000000;"> </td>
 
-<td align="center" style="border: 1px solid #000000;">**2018**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**2017**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -1583,13 +1583,13 @@ Schedule of Leasehold Improvement as of September 30, 2018
 
 <tr>
 
-<td align="center" style="border: 1px solid #000000;">**Major Class**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>Major Class</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**Acquisition Cost**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>Acquisition Cost</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**Accumulated Amortization/ Depreciation**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>Accumulated Amortization/ Depreciation</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**Net Book Value**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>Net Book Value</strong></td>
 
 </tr>
 
@@ -1653,13 +1653,13 @@ Schedule of Leasehold Improvement as of September 30, 2017
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Major Class**</td>
+<td style="border: 1px solid #000000;"><strong>Major Class</strong></td>
 
-<td style="border: 1px solid #000000;">**Acquisition Cost**</td>
+<td style="border: 1px solid #000000;"><strong>Acquisition Cost</strong></td>
 
-<td style="border: 1px solid #000000;">**Accumulated **Amortization/ **Depreciation**</td>
+<td style="border: 1px solid #000000;"><strong>Accumulated Amortization/ Depreciation</strong></td>
 
-<td style="border: 1px solid #000000;">**Net Book Value**</td>
+<td style="border: 1px solid #000000;"><strong>Net Book Value</strong></td>
 
 </tr>
 
@@ -1727,9 +1727,9 @@ Other assets account balances as of September 30, 2018 and 2017
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000;">**2018**</td>
+<td style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td style="border: 1px solid #000000;">**2017**</td>
+<td style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -1785,9 +1785,9 @@ The liabilities on Access Board’s Balance Sheet as of September 30, 2018 and 2
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000;">**2018**</td>
+<td style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td style="border: 1px solid #000000;">**2017**</td>
+<td style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -1885,11 +1885,11 @@ Other liabilities account balances as of September 30, 2018 were as follows:
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000;">**Current**</td>
+<td style="border: 1px solid #000000;"><strong>Current</strong></td>
 
-<td style="border: 1px solid #000000;">**Non Current**</td>
+<td style="border: 1px solid #000000;"><strong>Non Current</strong></td>
 
-<td style="border: 1px solid #000000;">**Total**</td>
+<td style="border: 1px solid #000000;"><strong>Total</strong></td>
 
 </tr>
 
@@ -2067,11 +2067,11 @@ Other liabilities account balances as of September 30, 2017 were as follows:
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000;">**Current**</td>
+<td style="border: 1px solid #000000;"><strong>Current</strong></td>
 
-<td style="border: 1px solid #000000;">**Non Current**</td>
+<td style="border: 1px solid #000000;"><strong>Non Current</strong></td>
 
-<td style="border: 1px solid #000000;">**Total**</td>
+<td style="border: 1px solid #000000;"><strong>Total</strong></td>
 
 </tr>
 
@@ -2255,9 +2255,9 @@ Access Board occupies office space under a lease agreement with GSA that is acco
 
 <tr>
 
-<td align="center" style="border: 1px solid #000000;">**Fiscal Year**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>Fiscal Year</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**Totals**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>Totals</strong></td>
 
 </tr>
 
@@ -2315,16 +2315,16 @@ The President’s Budget that will include fiscal year 2017 actual budgetary exe
 
 <tr>
 
-<td style="border: 1px solid #000000;">**FY 2017**</td>
+<td style="border: 1px solid #000000;"><strong>FY 2017</strong></td>
 
-<td style="border: 1px solid #000000;">**Budgetary Resources**</td>
+<td style="border: 1px solid #000000;"><strong>Budgetary Resources</strong></td>
 
-<td style="border: 1px solid #000000;">**Obligations Incurred**</td>
+<td style="border: 1px solid #000000;"><strong>Obligations Incurred</strong></td>
 
-<td style="border: 1px solid #000000;">**Distributed  
-Offsetting Receipts**</td>
+<td style="border: 1px solid #000000;"><strong>Distributed  
+    Offsetting Receipts</strong></td>
 
-<td style="border: 1px solid #000000;">**Net Outlays**</td>
+<td style="border: 1px solid #000000;"><strong>Net Outlays</strong></td>
 
 </tr>
 
@@ -2410,9 +2410,9 @@ Obligations incurred and reported in the Statement of Budgetary Resources in 201
 
 <td align="center" style="border: 1px solid #000000;"> </td>
 
-<td align="center" style="border: 1px solid #000000;">**2018**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**2017**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -2500,11 +2500,11 @@ As of September 30, 2018, budgetary resources obligated for undelivered orders w
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000;">**Federal**</td>
+<td style="border: 1px solid #000000;"><strong>Federal</strong></td>
 
-<td style="border: 1px solid #000000;">**Non-Federal**</td>
+<td style="border: 1px solid #000000;"><strong>Non-Federal</strong></td>
 
-<td style="border: 1px solid #000000;">**Total**</td>
+<td style="border: 1px solid #000000;"><strong>Total</strong></td>
 
 </tr>
 
@@ -2594,11 +2594,11 @@ As of September 30, 2017, budgetary resources obligated for undelivered orders w
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000;">**Federal**</td>
+<td style="border: 1px solid #000000;"><strong>Federal</strong></td>
 
-<td style="border: 1px solid #000000;">**Non-Federal**</td>
+<td style="border: 1px solid #000000;"><strong>Non-Federal</strong></td>
 
-<td style="border: 1px solid #000000;">**Total**</td>
+<td style="border: 1px solid #000000;"><strong>Total</strong></td>
 
 </tr>
 
@@ -2686,9 +2686,9 @@ Access Board has reconciled its budgetary obligations and non-budgetary resource
 
 <td align="center" style="border: 1px solid #000000;"> </td>
 
-<td align="center" style="border: 1px solid #000000;">**2018**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**2017**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -2696,7 +2696,7 @@ Access Board has reconciled its budgetary obligations and non-budgetary resource
 
 <td style="border: 1px solid #000000;">
 
-**Resources Used to Finance Activities**        
+<strong>Resources Used to Finance Activities</strong>        
 
 </td>
 
@@ -2877,7 +2877,7 @@ Generate Resources in the Current Period:
 
 <td style="border: 1px solid #000000;">
 
-**Net Cost of Operations**
+<strong>Net Cost of Operations</strong>
 
 </td>
 
