@@ -15,7 +15,7 @@ Independent Auditor's Report and Financial Statements
 ## TABLE OF CONTENTS
  
 - [MANAGEMENT DISCUSSION AND ANALYSIS](#management-discussion-and-analysis)
-- [INDEPENDENT AUDITOR'S REPORT ON THE FINANCIAL STATEMENTS](#independent-auditors-report-on-the-financial-statements)
+- [INDEPENDENT AUDITOR'S REPORT AND FINANCIAL STATEMENTS](#independent-auditors-report-and-financial-statements)
 - [FINANCIAL STATEMENTS AND NOTES](#financial-statements-and-notes)
 
 * * *
@@ -343,9 +343,9 @@ November 9, 2018
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000; text-align: center;">**2018**</td>
+<td style="border: 1px solid #000000; text-align: center;"><strong>2018</strong></td>
 
-<td style="border: 1px solid #000000; text-align: center;">**2017**</td>
+<td style="border: 1px solid #000000; text-align: center;"><strong>2017</strong></td>
 
 </tr>
 
@@ -353,7 +353,7 @@ November 9, 2018
 
 <td style="border: 1px solid #000000;">
 
-**Assets:**   
+<strong>Assets:</strong>   
 
 </td>
 
@@ -367,7 +367,7 @@ November 9, 2018
 
 <td style="border: 1px solid #000000;">
 
-**Intragovernmental**
+<strong>Intragovernmental</strong>
 
 </td>
 
@@ -379,7 +379,7 @@ November 9, 2018
 
 <tr>
 
-<td style="border: 1px solid #000000;">Fund Balance With Treasury ([Note 2](#n2))</td>
+<td style="border: 1px solid #000000;">Fund Balance With Treasury ([Note 2](#note2))</td>
 
 <td style="border: 1px solid #000000;">$2,741,963</td>
 
