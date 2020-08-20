@@ -69,6 +69,7 @@ collections:
           valueField: "name",
           displayFields: ["name"],
           multiple: true,
+          required: false
         }
       - {
           label: "Tags",
@@ -79,6 +80,7 @@ collections:
           valueField: "name",
           displayFields: ["name"],
           multiple: true,
+          required: false
         }
       - {
           label: "Show in Webinars",
@@ -87,18 +89,30 @@ collections:
           default: false,
         }
       - {
-          label: "Webinar Date",
-          name: "webinar-date",
+          label: "Webinar Start Date",
+          name: "webinar-start",
           widget: "datetime",
           format: "LLL",
           dateFormat: "MMMM D, YYYY",
           timeFormat: "hh:mm a",
+          default: '',
+          required: false,
+        }
+      - {
+          label: "Webinar End Date",
+          name: "webinar-end",
+          widget: "datetime",
+          format: "LLL",
+          dateFormat: "MMMM D, YYYY",
+          timeFormat: "hh:mm a",
+          default: '',
           required: false,
         }
       - {
           label: "Registration Link",
           name: "registration-link",
           widget: "string",
+          default: '',
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
