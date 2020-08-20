@@ -14,15 +14,13 @@ Independent Auditor's Report and Financial Statements
 
 ## TABLE OF CONTENTS
  
-- [MANAGEMENT DISCUSSION AND ANALYSIS](#mda)
-- [INDEPENDENT AUDITOR'S REPORT ON THE FINANCIAL STATEMENTS](#iar)
-- [FINANCIAL STATEMENTS AND NOTES](#fs)
+- [MANAGEMENT DISCUSSION AND ANALYSIS](#management-discussion-and-analysis)
+- [INDEPENDENT AUDITOR'S REPORT ON THE FINANCIAL STATEMENTS](#independent-auditors-report-on-the-financial-statements)
+- [FINANCIAL STATEMENTS AND NOTES](#financial-statements-and-notes)
 
 * * *
 
-<a name="head"></a> November 9, 2018
-
-I am pleased to present the Access Board’s Performance and Accountability Report for Fiscal Year 2018\. This report provides key information on the Access Board’s progress in meeting its mission and managing its financial responsibilities. Our agency has a proud history of serving the public through its programs devoted to accessibility for people with disabilities.
+I am pleased to present the Access Board’s Performance and Accountability Report for Fiscal Year 2018. This report provides key information on the Access Board’s progress in meeting its mission and managing its financial responsibilities. Our agency has a proud history of serving the public through its programs devoted to accessibility for people with disabilities.
 
 Fiscal Year 2018 was a year of continued success. The Access Board continues to develop accessibility requirements, provide technical assistance and training, and enforce access requirements for the Federal government. We will continue to strive for excellence to fulfill our responsibilities to provide accessibility for people with disabilities.
 
@@ -35,7 +33,7 @@ Executive Director
 
 * * *
 
-## <a name="mda"></a> MANAGEMENT DISCUSSION AND ANALYSIS
+## MANAGEMENT DISCUSSION AND ANALYSIS
 
 ### INTRODUCTION
 
