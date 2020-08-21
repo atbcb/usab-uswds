@@ -4,14 +4,14 @@ eight.
 {% endcomment %}
 
 <section class="usa-graphic-list usa-section usa-section--dark">
-  <div class="grid-container">
+  <div class="grid-container maxw-desktop">
     {% for highlight in site.data.highlights %}
     {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
       {% if forloop.first or thecycle == 'odd' %}
       <div class="usa-graphic-list__row grid-row grid-gap">
       {% endif %}
         <div class="usa-media-block tablet:grid-col">
-          <img src="{{ site.baseurl }}/images/{{ highlight.image-file }}" class="usa-media-block__img circle-card" 
+          <img src="{{ site.baseurl }}/images/{{ highlight.image-file }}" class="usa-media-block__img circle-15 border-2px" 
           alt="{{ highlight.alt }}"
           width="150"
           >

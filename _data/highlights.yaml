@@ -1,19 +1,19 @@
 - title: "Building & Sites"
-  description: "Standards issued under the Americans with Disabilities Act (ADA) address access to buildings and sites nationwide in new construction and alterations. Similar standards apply to buildings and sites funded by the Federal government under the Architectural Barriers Act (ABA)."
+  description: "Accessibility standards for facilities covered by the ADA and the ABA."
   image-file: buildings.jpg
 - title: "Communication & IT"
-  description: "Access to information and communication technology (ICT) is addressed by Board standards and guidelines issued under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act.  The Board jointly updated its Section 508 Standards and Section 255 Guidelines in January 2017."
+  description: "Standards issued under the Rehabilitation Act (§508) and the Communications Act."
   image-file:  communications.jpg
   alt: "photo of hands typing on keyboard"
-- title: "Streets & Sidewalks"
-  description: "The Board is developing guidelines that cover access to public rights-of-way, including sidewalks, intersection, street crossings, and on-street parking.  The Board is also addressing access to shared use paths that provide off-road means of transportation and recreation."
-  image-file: streets-sidewalks.jpg
 - title: Transportation Vehicles
-  description: "Access to public transportation is required by the Americans with Disabilities Act (ADA) and other laws.  Standards issued under the ADA address access to facilities and to vehicles of public transit systems.  The Board is also developing guidelines for passenger vessels under the ADA."
+  description: "ADA Guidelines for transportation vehicles and systems."
   image-file: transportation.jpg
-- title: Medical Equipment
-  description: "The Board has issued accessibility standards for medical diagnostic equipment (MDE) under the Patient Protection and Affordable Care Act.  The Board also developed guidance on accessible prescription drug contains labels."
-  image-file: health_care.jpg
+- title: "Streets & Sidewalks"
+  description: "New guidelines for public rights-of-way and shared use paths."
+  image-file: streets-sidewalks.jpg
 - title: Passenger Vessels
-  description:  text
+  description: "New guidelines for passenger vessels covered by the ADA."
   image-file: vessels.jpg
+- title: Healthcare
+  description: "Standards for medical diagnostic equipment and guidance on prescription drug labels."
+  image-file: health_care.jpg
