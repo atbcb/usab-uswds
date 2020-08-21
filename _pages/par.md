@@ -379,7 +379,7 @@ November 9, 2018
 
 <tr>
 
-<td style="border: 1px solid #000000;">Fund Balance With Treasury ([Note 2](#note-2-fund-balance-with-treasury))</td>
+<td style="border: 1px solid #000000;">Fund Balance With Treasury (<a href="note-2-fund-balance-with-treasury">Note 2</a>)</td>
 
 <td style="border: 1px solid #000000;">$2,741,963</td>
 
@@ -797,7 +797,7 @@ Net Cost of Operations ([Note 12](#n12))
 
 </table>
 
-The accompanying [notes](#notes) are an integral part of these financial statements.
+The accompanying [notes](#united-states-access-board-notes-to-the-financial-statements) are an integral part of these financial statements.
 
 * * *
 
@@ -1047,7 +1047,7 @@ Cumulative Results of Operations
 
 </table>
 
-The accompanying [notes](#notes) are an integral part of these financial statements.
+The accompanying [notes](#united-states-access-board-notes-to-the-financial-statements) are an integral part of these financial statements.
 
 * * *
 
@@ -1291,7 +1291,7 @@ $8,073,243
 
 </table>
 
-The accompanying [notes](#notes) are an integral part of these financial statements.
+The accompanying [notes](#united-states-access-board-notes-to-the-financial-statements) are an integral part of these financial statements.
 
 * * *
 
@@ -1389,7 +1389,7 @@ Federal Government entities often receive goods and services from other Federal 
 
 Certain fiscal year 2016 balances have been reclassified, retitled, or combined with other financial statement line items for consistency with the current year presentation.
 
-### NOTE 2\. FUND BALANCE WITH TREASURY
+### NOTE 2. FUND BALANCE WITH TREASURY
 
 Fund balance with Treasury account balances as of September 30, 2018 and 2017were as follows:
 
@@ -1499,7 +1499,7 @@ The unavailable unobligated fund balances represent the amount of appropriations
 
 The obligated balance not yet disbursed includes accounts payable, accrued expenses, and undelivered orders that have reduced unexpended appropriations but have not yet decreased the fund balance on hand.
 
-### NOTE 3\. ACCOUNTS RECEIVABLE, NET
+### NOTE 3. ACCOUNTS RECEIVABLE, NET
 
 <table style="width: 600px; border: 1px solid #000000;">
 
@@ -1573,7 +1573,7 @@ $4,483
 
 The accounts receivable is primarily other receivables with the public. Historical experience has indicated that the majority of the receivables are collectible. There are no material uncollectible accounts as of September 30, 2018 and 2017.
 
-#### NOTE 4\. PROPERTY, EQUIPMENT, AND SOFTWARE, NET
+### NOTE 4. PROPERTY, EQUIPMENT, AND SOFTWARE, NET
 
 Schedule of Leasehold Improvement as of September 30, 2018
 
@@ -1715,7 +1715,7 @@ $189,208
 
 </table>
 
-#### NOTE 5\. OTHER ASSETS
+### NOTE 5. OTHER ASSETS
 
 Other assets account balances as of September 30, 2018 and 2017
 
@@ -1773,7 +1773,7 @@ Intragovernmental
 
 Access Board began posting NBC Administrative Office procurement orders as prepayments in 2018.
 
-#### NOTE 6\. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
+### NOTE 6. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
 The liabilities on Access Board’s Balance Sheet as of September 30, 2018 and 2017, include liabilities not covered by budgetary resources. Congressional action is needed before budgetary resources can be provided. Although future appropriations to fund these liabilities are likely and anticipated, it is not certain that appropriations will be enacted to fund these liabilities.
 
@@ -1873,7 +1873,7 @@ The FECA liability represents the unfunded liability for actual workers compensa
 
 Unfunded leave represents a liability for earned leave and is reduced when leave is taken. The balance in the accrued annual leave account is reviewed quarterly and adjusted as needed to accurately reflect the liability at current pay rates and leave balances. Accrued annual leave is paid from future funding sources and, accordingly, is reflected as a liability not covered by budgetary resources. Sick and other leave is expensed as taken.
 
-#### NOTE 7\. OTHER LIABILITIES
+### NOTE 7. OTHER LIABILITIES
 
 Other liabilities account balances as of September 30, 2018 were as follows:
 
@@ -2243,7 +2243,7 @@ With the Public
 
 </table>
 
-### NOTE 8\. LEASES
+### NOTE 8. LEASES
 
 #### Operating Leases
 
@@ -2305,7 +2305,7 @@ $2,060,411
 
 </table>
 
-### NOTE 9\. BUDGETARY RESOURCE COMPARISONS TO THE BUDGET OF THE UNITED STATES GOVERNMENT
+### NOTE 9. BUDGETARY RESOURCE COMPARISONS TO THE BUDGET OF THE UNITED STATES GOVERNMENT
 
 The President’s Budget that will include fiscal year 2017 actual budgetary execution information has not yet been published. The President’s Budget is scheduled for publication in February 2019 and can be found at the OMB Web site: [www.whitehouse.gov/omb](https://www.whitehouse.gov/omb) The 2019 Budget of the United States Government, with the "Actual" column completed for 2017, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
 
@@ -2398,7 +2398,7 @@ $8,000,000
 
 </table>
 
-### NOTE 10\. APPORTIONMENT CATEGORIES OF OBLIGATIONS INCURRED
+### NOTE 10. APPORTIONMENT CATEGORIES OF OBLIGATIONS INCURRED
 
 Obligations incurred and reported in the Statement of Budgetary Resources in 2018 and 2017consisted of the following:
 
@@ -2488,7 +2488,7 @@ $8,032,630
 
 Category A apportionments distribute budgetary resources by fiscal quarters.
 
-### NOTE 11\. UNDELIVERED ORDERS AT THE END OF THE PERIOD
+### NOTE 11. UNDELIVERED ORDERS AT THE END OF THE PERIOD
 
 As of September 30, 2018, budgetary resources obligated for undelivered orders were as follows:
 
@@ -2674,7 +2674,7 @@ Total Undelivered Orders
 
 </table>
 
-### NOTE 12\. RECONCILIATION OF NET COST OF OPERATIONS TO BUDGET
+### NOTE 12. RECONCILIATION OF NET COST OF OPERATIONS TO BUDGET
 
 Access Board has reconciled its budgetary obligations and non-budgetary resources available to its net cost of operations.
 
