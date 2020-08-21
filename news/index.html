@@ -22,7 +22,7 @@ pagination:
             {% for author in post.authors %}
               {% include author-link.html author=author %}
             {% endfor %}
-            · {% endcommnet %}
+            · {% endcomment %}
             {{ post.date | date: '%B %d, %Y' }}
           </div>
         </div>
