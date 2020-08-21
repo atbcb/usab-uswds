@@ -389,7 +389,7 @@ November 9, 2018
 
 <tr>
 
-<td style="border: 1px solid #000000;">Other ([Note 5](#n5))</td>
+<td style="border: 1px solid #000000;">Other (<a href="#note-5-other-assets">Note 5</a>)</td>
 
 <td style="border: 1px solid #000000;">437,164</td>
 
@@ -413,7 +413,7 @@ Total Intragovernmental
 
 <tr>
 
-<td style="border: 1px solid #000000;">1,902,247Accounts Receivable, Net ([Note 3](#n3))</td>
+<td style="border: 1px solid #000000;">1,902,247Accounts Receivable, Net (<a href="#note-3-accounts-receivable-net">Note 3</a>)</td>
 
 <td style="border: 1px solid #000000;">4,034</td>
 
@@ -425,7 +425,7 @@ Total Intragovernmental
 
 <td style="border: 1px solid #000000;">
 
-Property, Equipment, and Software, Net ([Note 4](#n4))
+Property, Equipment, and Software, Net (<a href="#note-4-property-equipment-and-software-net">Note 4</a>)
 
 </td>
 
@@ -497,7 +497,7 @@ Intragovernmental
 
 <tr>
 
-<td style="border: 1px solid #000000;">Other ([Note 7](#n7))</td>
+<td style="border: 1px solid #000000;">Other (<a href="#note-7-other-liabilities">Note 7</a>)</td>
 
 <td style="border: 1px solid #000000;">38,994</td>
 
@@ -551,7 +551,7 @@ Accounts Payable
 
 <tr>
 
-<td style="border: 1px solid #000000;">Other ([Note 7](#n7))</td>
+<td style="border: 1px solid #000000;">Other (<a href="#note-7-other-liabilities">Note 7</a>)</td>
 
 <td style="border: 1px solid #000000;">384,842</td>
 
@@ -563,7 +563,7 @@ Accounts Payable
 
 <td style="border: 1px solid #000000;">
 
-Total Liabilities ([Note 6](#n6))
+Total Liabilities (<a href="#note-6-liabilities-not-covered-by-budgetary-resources">Note 6</a>)
 
 </td>
 
@@ -775,7 +775,7 @@ Net Program Costs
 
 <td style="border: 1px solid #000000;">
 
-Net Cost of Operations ([Note 12](#n12))
+Net Cost of Operations (<a href="#note-12-reconciliation-of-net-cost-of-operations-to-budget>Note 12</a>)
 
 </td>
 
@@ -1159,7 +1159,7 @@ The accompanying [notes](#united-states-access-board-notes-to-the-financial-stat
 
 <td style="border: 1px solid #000000;">
 
-New obligations and upward adjustments (total)([Note 10](#n10))
+New obligations and upward adjustments (total)(<a href="#note-10-apportionment-categories-of-obligations-incurred">Note 10</a>)
 
 </td>
 
