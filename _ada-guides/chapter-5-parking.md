@@ -4,6 +4,12 @@ order-number: 13
 file: parking.pdf
 file-description: PDF version of Chapter 5 Parking Spaces Guide
 ---
+This guide explains requirements in the [ADA Standards](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards) for parking. 
+
+### Required Number
+
+[§208](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#208%20Parking%20Spaces)
+
 Accessible parking spaces are required for each parking facility on a
 site, such as lots and garages. Requirements apply equally to public and
 employee or restricted parking. On sites with multiple parking
@@ -13,8 +19,7 @@ parking spaces provided on the site. At least one of every 6 accessible
 spaces, or fraction of 6, in each parking facility must be sized to
 accommodate vans.
 
-**\
-Accessible Parking on a Site**
+#### Accessible Parking on a Site
 
 ![Site with building served by two separate lots in front and a
 multi-level parking deck in the back. Notes: The required number of
@@ -25,293 +30,228 @@ accessible route to the entrance they serve. Exception: Compliance is
 not required for parking spaces used exclusively for buses, trucks,
 other delivery vehicles, law enforcement vehicles, or vehicular impound
 if accessible passenger loading zones are provided where such lots have
-public access (§208.1, Ex.).
-](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p2.jpg){width="550"
-height="505"}
+public access (§208.1, Ex.).]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p2.jpg){: .img-large}
 
+#### Minimum Number of Accessible Parking Spaces [§208.2]
+
+<table class="usa-table">
+    <caption> <span class="grid-line">Minimum Number of Accessible Parking Spaces Table</span>
+        <span class="grid-line">* <span id="1star">at least 1 of every 6 accessible spaces or fraction of 6</span></span>
+        <span class="grid-line">** <span id="2star">501 - 1000: 2% of total</span></span>
+        <span class="grid-line">*** <span id="3star">1001 and over: 20 + 1 for each 100 or fraction thereof over 1000</span></span>
+    </caption>
+    <thead>
+        <col>
+        <colgroup span="3"></colgroup>
+        <tr>
+            <th rowspan="2" scope="col">Parking Facility Total</th>
+            <th colspan="3" scope="colgroup">Minimum Number of Accessible Spaces</th>
+        </tr>
+        <tr>
+            <th scope="col">Standard</th>
+            <th scope="col" aria-describedby="1star">Van*</th>
+            <th scope="col">Total (Standard + Van)</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th scope="row">1 - 25</th>
+            <td>0</td>
+            <td aria-describedby="1star">1</td>
+            <td>1</td>
+        </tr>
+        <tr>
+            <th scope="row">26 – 50</th>
+            <td>1</td>
+            <td aria-describedby="1star">1</td>
+            <td>2</td>
+        </tr>
+        <tr>
+            <th scope="row">51 – 75</th>
+            <td>2</td>
+            <td aria-describedby="1star">1</td>
+            <td>3</td>
+        </tr>
+        <tr>
+            <th scope="row">76 – 100</th>
+            <td>3</td>
+            <td aria-describedby="1star">1</td>
+            <td>4</td>
+        </tr>
+        <tr>
+            <th scope="row">101 – 150</th>
+            <td>4</td>
+            <td aria-describedby="1star">1</td>
+            <td>5</td>
+        </tr>
+        <tr>
+            <th scope="row">151 - 200</th>
+            <td>5</td>
+            <td aria-describedby="1star">1</td>
+            <td>6</td>
+        </tr>
+        <tr>
+            <th scope="row">201 – 300</th>
+            <td>5</td>
+            <td aria-describedby="1star">2</td>
+            <td>7</td>
+        </tr>
+        <tr>
+            <th scope="row">301 – 400</th>
+            <td>6</td>
+            <td aria-describedby="1star">2</td>
+            <td>8</td>
+        </tr>
+        <tr>
+            <th scope="row">401 – 500</th>
+            <td>7</td>
+            <td aria-describedby="1star">2</td>
+            <td>9</td>
+        </tr>
+        <tr>
+            <th scope="row">501 – 550</th>
+            <td>9</td>
+            <td aria-describedby="1star">2</td>
+            <td aria-describedby="2star">11**</td>
+        </tr>
+        <tr>
+            <th scope="row">551 – 600</th>
+            <td>10</td>
+            <td aria-describedby="1star">2</td>
+            <td aria-describedby="2star">12**</td>
+        </tr>
+        <tr>
+            <th scope="row">601 – 650</th>
+            <td>10</td>
+            <td aria-describedby="1star">3</td>
+            <td aria-describedby="2star">13**</td>
+        </tr>
+        <tr>
+            <th scope="row">651 – 700</th>
+            <td>11</td>
+            <td aria-describedby="1star">3</td>
+            <td aria-describedby="2star">14**</td>
+        </tr>
+        <tr>
+            <th scope="row">701 – 750</th>
+            <td>12</td>
+            <td aria-describedby="1star">3</td>
+            <td aria-describedby="2star">15**</td>
+        </tr>
+        <tr>
+            <th scope="row">751 – 800</th>
+            <td>13</td>
+            <td aria-describedby="1star">3</td>
+            <td aria-describedby="2star">16**</td>
+        </tr>
+        <tr>
+            <th scope="row">801 – 850</th>
+            <td>14</td>
+            <td aria-describedby="1star">3</td>
+            <td aria-describedby="2star">17**</td>
+        </tr>
+        <tr>
+            <th scope="row">851 – 900</th>
+            <td>15</td>
+            <td aria-describedby="1star">3</td>
+            <td aria-describedby="2star">18**</td>
+        </tr>
+        <tr>
+            <th scope="row">901 – 950</th>
+            <td>15</td>
+            <td aria-describedby="1star">4</td>
+            <td aria-describedby="2star">19**</td>
+        </tr>
+        <tr>
+            <th scope="row">951 – 1000</th>
+            <td>16</td>
+            <td aria-describedby="1star">4</td>
+            <td aria-describedby="2star">20**</td>
+        </tr>
+        <tr>
+            <th scope="row">1001 –1100</th>
+            <td>17</td>
+            <td aria-describedby="1star">4</td>
+            <td aria-describedby="3star">21***</td>
+        </tr>
+        <tr>
+            <th scope="row">1101 – 1200</th>
+            <td>18</td>
+            <td aria-describedby="1star">4</td>
+            <td aria-describedby="3star">22***</td>
+        </tr>
+        <tr>
+            <th scope="row">1201 – 1300</th>
+            <td>19</td>
+            <td aria-describedby="1star">4</td>
+            <td aria-describedby="3star">23***</td>
+        </tr>
+        <tr>
+            <th scope="row">1301 – 1400</th>
+            <td>20</td>
+            <td aria-describedby="1star">4</td>
+            <td aria-describedby="3star">24***</td>
+        </tr>
+        <tr>
+            <th scope="row">1401 – 1500</th>
+            <td>20</td>
+            <td aria-describedby="1star">5</td>
+            <td aria-describedby="3star">25***</td>
+        </tr>
+        <tr>
+            <th scope="row">1501 – 1600</th>
+            <td>21</td>
+            <td aria-describedby="1star">5</td>
+            <td aria-describedby="3star">26***</td>
+        </tr>
+        <tr>
+            <th scope="row">1601 – 1700</th>
+            <td>22</td>
+            <td aria-describedby="1star">5</td>
+            <td aria-describedby="3star">27***</td>
+        </tr>
+        <tr>
+            <th scope="row">1701 – 1800</th>
+            <td>23</td>
+            <td aria-describedby="1star">5</td>
+            <td aria-describedby="3star">28***</td>
+        </tr>
+        <tr>
+            <th scope="row">1801 – 1900</th>
+            <td>24</td>
+            <td aria-describedby="1star">5</td>
+            <td aria-describedby="3star">29***</td>
+        </tr>
+        <tr>
+            <th scope="row">1901 – 2000</th>
+            <td>25</td>
+            <td aria-describedby="1star">5</td>
+            <td aria-describedby="3star">30***</td>
+        </tr>
+        <tr>
+            <th scope="row">2001 and over</th>
+            <td aria-describedby="3star 1star">(*** minus *)</td>
+            <td aria-describedby="1star">*</td>
+            <td aria-describedby="3star">***</td>
+        </tr>
+    </tbody>
+</table>
+
+<div class="border clearfix padding-left-1" markdown="1">
+### Valet Parking
+
+![Valet parking icon]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p3.jpg){: .float-right .thumbnail}
+  
+Accessible spaces are required in parking facilities with valet parking because vehicles specially equipped for persons with disabilities may not be easily used by others. Further, valet parking may not be available at all hours a parking facility is open.  An accessible passenger loading zone also is required at facilities with valet parking (§209.4).
+</div>
  
-
- \
-**Minimum Number of Accessible Parking Spaces \[§208.2\]**
-
-**Parking Facility Total**
-:::
-
-**Minimum Number of Accessible Spaces**
-
-**Standard**
-
-**Van\***
-
-**Total **\
-**(Standard + Van)**
-
-1 - 25
-
-0
-
-1
-
-1
-
-26 -- 50
-
-1
-
-1
-
-2
-
-51 -- 75
-
-2
-
-1
-
-3
-
-76 -- 100
-
-3
-
-1
-
-4
-
-101 -- 150
-
-4
-
-1
-
-5
-
-151 - 200
-
-5
-
-1
-
-6
-
-201 -- 300
-
-5
-
-2
-
-7
-
-301 -- 400
-
-6
-
-2
-
-8
-
-401 -- 500
-
-7
-
-2
-
-9
-
-501 -- 550
-
-9
-
-2
-
-11\*\*
-
-551 -- 600
-
-10
-
-2
-
-12\*\*
-
-601 -- 650
-
-10
-
-3
-
-13\*\*
-
-651 -- 700
-
-11
-
-3
-
-14\*\*
-
-701 -- 750
-
-12
-
-3
-
-15\*\*
-
-751 -- 800
-
-13
-
-3
-
-16\*\*
-
-801 -- 850
-
-14
-
-3
-
-17\*\*
-
-851 -- 900
-
-15
-
-3
-
-18\*\*
-
-901 -- 950
-
-15
-
-4
-
-19\*\*
-
-951 -- 1000
-
-16
-
-4
-
-20\*\*
-
-1001 --1100
-
-17
-
-4
-
-21\*\*\*
-
-1101 -- 1200
-
-18
-
-4
-
-22\*\*\*
-
-1201 -- 1300
-
-19
-
-4
-
-23\*\*\*
-
-1301 -- 1400
-
-20
-
-4
-
-24\*\*\*
-
-1401 -- 1500
-
-20
-
-5
-
-25\*\*\*
-
-1501 -- 1600
-
-21
-
-5
-
-26\*\*\*
-
-1601 -- 1700
-
-22
-
-5
-
-27\*\*\*
-
-1701 -- 1800
-
-23
-
-5
-
-28\*\*\*
-
-1801 -- 1900
-
-24
-
-5
-
-29\*\*\*
-
-1901 -- 2000
-
-25
-
-5
-
-30\*\*\*
-
-2001 and over
-
-(\*\*\* - \*)
-
-\*
-
-\*\*\*
-
-\* at least 1 of every 6 accessible spaces or fraction of 6\
-\*\* 501 - 1000: 2% of total\
-\*\*\* 1001 and over: 20 + 1 for each 100 or fraction thereof over 1000 
-
-  -----------------------------------------------------------------------------------------
-  **Valet Parking![Valet parking
-  icon](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p3.jpg){width="50"
-  height="84"}**\
-  Accessible spaces are required in parking facilities with valet parking because vehicles
-  specially equipped for persons with disabilities may not be easily used by others.
-   Further, valet parking may not be available at all hours a parking facility is open.  An
-  accessible passenger loading zone also is required at facilities with valet parking
-  (§209.4).
-
-  -----------------------------------------------------------------------------------------
-
- 
-
-  --- ---------------------------------------------------------------------------------------------------------------------------------------------------
-      ![Restriping of existing parking space markings](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p4.jpg){width="225" height="151"}
-      *Refreshing existing striping in place for several spaces or filling potholes is typically considered normal maintenance, not an alteration.*
-  --- ---------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
-**Alterations and Additions**
+### Alterations and Additions
+
+{% include imgright-italictextbelow.html
+img-file= "chapter5/5p4.jpg"
+img-alt= "Restriping of existing parking space markings"
+text= "Refreshing existing striping in place for several spaces or filling potholes is typically considered normal maintenance, not an alteration."
+%}
 
 Accessible spaces are required where parking facilities are altered or
 added.  The term 'alterations' includes resurfacing of vehicular ways
@@ -322,29 +262,15 @@ pothole repair, surface patching, or repainting in place existing
 striping for a few spaces, is not considered an alteration except where
 it affects a facility's usability.
 
- 
+### Location
 
-**Location
-\[[§208.3](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces)\]**
+[[§208.3](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces)]
 
-+-----------------------------------+-----------------------------------+
-|                                   |  ![Accessible parking spaces      |
-|                                   | located at entry point of ramp to |
-|                                   | building                          |
-|                                   | entrance](%7B%7B%20site.ba        |
-|                                   | seurl%20%7D%7D/images/ada-aba/gui |
-|                                   | des/chapter5/5p5.jpg){width="300" |
-|                                   | height="213"}                     |
-+-----------------------------------+-----------------------------------+
-|                                   | *In some cases, achieving the     |
-|                                   | shortest accessible route will    |
-|                                   | require locating accessible       |
-|                                   | spaces closest to an entrance     |
-|                                   | ramp instead of the entrance      |
-|                                   | doors.*                           |
-|                                   |                                   |
-|                                   |                                   |
-+-----------------------------------+-----------------------------------+
+{% include imgright-italictextbelow.html
+img-file= "chapter5/5p5.jpg"
+img-alt= "Accessible parking spaces located at entry point of ramp to building entrance"
+text= "In some cases, achieving the shortest accessible route will require locating accessible spaces closest to an entrance ramp instead of the entrance doors."
+%}
 
 Where parking serves multiple entrances to a facility, accessible spaces
 must be dispersed among accessible entrances. (If the number of
@@ -364,9 +290,7 @@ structure in a surface lot often will not qualify for this exception
 because such a location typically offers less convenience, security, and
 protection from the elements.
 
- 
-
-**Multiple Parking Facilities on a Site**
+### Multiple Parking Facilities on a Site
 
 Scoping and dispersion requirements ensure access to all parking
 facilities on a site, including large sites with many lots and garages,
@@ -378,22 +302,19 @@ be determined separately for each parking facility.
 Parking facilities are to be treated separately for scoping purposes if
 they are either:
 
--   structurally different (e.g., surface lot versus parking garage or
-    deck);
--   dedicated to, and separately serve, different facilities on a site;
--   segmented and separated by guard rails, fencing, or barriers,
-    particularly where they serve different users; or
--   separated by streets or roadways (as opposed to drive aisles on a
-    site).
+- structurally different (e.g., surface lot versus parking garage or deck);
+- dedicated to, and separately serve, different facilities on a site;
+- segmented and separated by guard rails, fencing, or barriers, particularly where they serve different users; or
+- separated by streets or roadways (as opposed to drive aisles on a site).
 
 Surface lots that are contiguous or that are segmented by landscaping or
 drive aisles (i.e., vehicular passageways located within parking areas),
 but not streets or roadways, typically can be treated as a single
 parking facility.
 
-**Example Site: Shopping Mall**
+#### Example Site: Shopping Mall
 
- ![Shopping mall with surface lot parking on all sides with one outer
+![Shopping mall with surface lot parking on all sides with one outer
 building served by same lot and another outer building with a parking
 lot separated from the mall parking areas by a raised sidewalk. Notes:
 The parking lot serving the shopping mall (center) and store (lower
@@ -405,71 +326,52 @@ it is divided from the surrounding lot by a raised sidewalk and is
 dedicated to a specific building. Parking areas that are labeled (e.g.,
 "Lot A") to help users locate their vehicles but that are part of the
 same lot (i.e., not separated) do not have to be treated as separate
-parking
-facilities.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p6.jpg){width="600"
-height="464"}
+parking facilities.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p6.jpg){: .img-large}
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  *![design compass](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/compass.jpg){width="45" height="81"}Recommendation:*  Where spaces within the same parking facility are assigned or restricted to specific user groups, consider calculating the minimum number of spaces separately for each type of parking or proportionately dispersing accessible spaces based on the overall total across each type of parking to ensure sufficient access for all users.  Note that greater dispersion may be required under the Department of Justice's ADA regulations governing policies and practices to ensure sufficient access for all users. 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{% include recommendation.html
+text= "Where spaces within the same parking facility are assigned or restricted to specific user groups, consider calculating the minimum number of spaces separately for each type of parking or proportionately dispersing accessible spaces based on the overall total across each type of parking to ensure sufficient access for all users.  Note that greater dispersion may be required under the Department of Justice’s ADA regulations governing policies and practices to ensure sufficient access for all users."
+%}
 
- 
-
-**![Multi-level parking
-garage](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p7.jpg){width="170"
-height="112"}Garage Parking**
+### Garage Parking
+<div class="clearfix" markdown="1">
+![Multi-level parking garage]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p7.jpg){: .img-right}
 
 The Standards apply to parking garages, including those provided below
 grade. At sites that also include surface lots, a garage is treated as a
 separate parking facility for scoping purposes.
+</div>
 
- 
-
-**Multi-Level Parking Garage with Direct Connections to Facility**
+#### Multi-Level Parking Garage with Direct Connections to Facility
 
 ![Multi-Level parking garage with direct connections to adjacent
 building. Notes: Each direct connection to a facility must include an
 accessible entrance (§206.4.2). Dispersing accessible spaces among
 accessible entrances requires placement of non-van accessible spaces on
 different levels. All van spaces can be grouped on one level (§208.3,
-Ex.
-1).](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p8ab.jpg){width="500"
-height="231"}
+Ex. 1).]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p8ab.jpg){: .img-large}
 
-**Multi-Level Parking Garage Not Serving a Particular Facility**
+#### Multi-Level Parking Garage Not Serving a Particular Facility
 
 ![Multi-Level parking garage not serving a particular facility. Notes:
 In parking garages that do not serve a particular facility, accessible
 spaces must be located on the shortest accessible route to an accessible
-pedestrian entrance of the garage
-(§208.3).](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p9.jpg){width="575"
-height="138"}
-
- 
+pedestrian entrance of the garage (§208.3).]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p9.jpg){: .img-large}
 
 Accessible spaces, including van spaces, must be located so that they
 provide the same level of protection and security as other spaces in the
 garage. Locating accessible spaces required for a garage on the exterior
-is not usually acceptable.  \
-\
+is not usually acceptable.
 
-+-----------------------------------------------------------------------+
-| **Mechanical Access Parking Garages![mechanical access                |
-| parking](%7B%7B%20site.                                               |
-| baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p10.jpg){width="150" |
-| height="112"}**                                                       |
-|                                                                       |
-| Accessible parking spaces are not required in mechanical access       |
-| parking garages where lifts are used to stack vehicles. However, such |
-| facilities must provide at least one accessible passenger loading     |
-| zone at vehicle drop-off and pick-up areas so that people with        |
-| disabilities can transfer from vehicles (§209.5).                     |
-+-----------------------------------------------------------------------+
+<div class="border clearfix padding-left-1" markdown="1">
+#### Mechanical Access Parking Garages
 
- 
+![mechanical access parking]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p10.jpg){: .float-right .thumbnail}
+Accessible parking spaces are not required in mechanical access parking garages where lifts are used to stack vehicles. However, such facilities must provide at least one accessible passenger loading zone at vehicle drop-off and pick-up areas so that people with disabilities can transfer from vehicles (§209.5).
+</div>
 
-**Hospital Outpatient Facilities
-\[[§208.2.1](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces)\]**
+### Hospital Outpatient Facilities
+
+[[§208.2.1](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces)]
 
 The Standards require a higher level of accessible parking at hospital
 outpatient facilities. At least 10% of patient and visitor parking
@@ -479,9 +381,9 @@ without overnight stay. Other types of medical facilities not located in
 hospitals, including doctors' offices and independent clinics, are not
 subject to this requirement but to the regular scoping table.
 
-**Accessible Parking at Outpatient Facilities in Hospitals**
+#### Accessible Parking at Outpatient Facilities in Hospitals
 
- ![Hospital with outpatient facility highlighted and portion of parking
+![Hospital with outpatient facility highlighted and portion of parking
 lot serving outpatient facility highlighted. Notes: 10% scoping required
 for visitor/ patient parking serving hospital outpatient facilities.
 Within a multi-use facility, the 10% requirement applies to the number
@@ -491,26 +393,21 @@ facility square footage, occupant load, and occupancy and can be
 consulted when determining the number of spaces serving outpatient
 facilities. Spaces serving employees or other areas of a hospital are
 subject to the regular scoping
-table.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p12.jpg){width="550"
-height="358"}
+table.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p12.jpg){: .img-large}
 
-**Rehabilitation and Outpatient Physical Therapy Facilities
-\[[§208.2.2](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces)\]**
+### Rehabilitation and Outpatient Physical Therapy Facilities
+
+[[§208.2.2](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces)]
 
 At least 20% of patient and visitor parking spaces must be accessible at
 outpatient physical therapy facilities (including those not located at
 hospitals) and at rehabilitation facilities that specialize in treating
 conditions that affect mobility. Conditions affecting mobility include:
 
--   those involving the use of mobility aids and devices (braces, canes,
-    crutches, prosthetic devices, wheelchairs, or powered mobility
-    aids);
--   arthritic, neurological, or orthopedic conditions that severely
-    limit one\'s ability to walk;
--   respiratory diseases and other conditions which may require the use
-    of portable oxygen; or
--   cardiac and other conditions that impose substantial limitations on
-    one's mobility.
+- those involving the use of mobility aids and devices (braces, canes, crutches, prosthetic devices, wheelchairs, or powered mobility aids);
+- arthritic, neurological, or orthopedic conditions that severely limit one\'s ability to walk;
+- respiratory diseases and other conditions which may require the use of portable oxygen; or
+- cardiac and other conditions that impose substantial limitations on one's mobility.
 
 Rehabilitation facilities that provide, but that do not specialize in,
 services or treatment for persons with mobility impairments, such as
@@ -520,17 +417,19 @@ portion of spaces that are determined to serve the types of
 rehabilitation or outpatient therapy facilities covered by this
 provision.
 
-\
-**![house
-symbol](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p13.jpg){width="60"
-height="60"}Residential Facilities
-\[[§208.2.3](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces),
-[§208.3.2](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces)\]**
+### Residential Facilities
+
+[[§208.2.3](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces),
+[§208.3.2](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces)]
+
+<div class="clearfix padding-left-1" markdown="1">
+![house symbol]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p13.jpg){: .float-right .thumbnail}
 
 Accessible parking at residential facilities is based on the ratio of
 parking spaces to dwelling units.
+</div>
 
-**Parking at Residential Facilities**
+#### Parking at Residential Facilities
 
 ![Parking at multi-family residential facility. Notes: Resident Parking
 (§208.2.3.1) Where at least one parking space is provided for each
@@ -549,18 +448,18 @@ where substantially equal or greater accessibility is provided in terms
 of distance from an accessible entrance, parking fee, and user
 convenience (§208.3.2, Ex). Visitor and Other Parking (§208.2.3.3)
 Parking spaces for guests, employees, or other non-residents are subject
-to the scoping table in 208.2.
-](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p14.jpg){width="575"
-height="546"} 
+to the scoping table in 208.2.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p14.jpg){: .img-large} 
 
-### []{#spaces}**Accessible Parking Spaces \[[§502](../ada-standards/chapter-5-general-site-and-building-elements.html#502%20Parking%20Spaces)\]** {#accessible-parking-spaces-502 style="text-align: left;"}
+### Accessible Parking Spaces 
+
+[[§502](../ada-standards/chapter-5-general-site-and-building-elements.html#502%20Parking%20Spaces)]
 
 Requirements for accessible parking spaces address the size and marking
 of regular and van spaces and access aisles, surfaces, vertical
 clearance at van spaces, identification, and connecting accessible
 routes.
 
-**Accessible Routes and Access Aisles**
+#### Accessible Routes and Access Aisles
 
 ![Accessible parking space with access aisle adjoined by a curb ramp
 with a top landing 36" deep min. Accessible route from access aisle on
@@ -578,16 +477,13 @@ clear width of adjacent accessible routes (§502.7). Detail: Parallel
 curb ramp with landing 48" min long, 60" preferred. Note: Where space
 for curb ramps is limited, including in alterations, parallel ramps can
 provide an
-alternative.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p15a.JPG){width="575"
-height="596"} 
+alternative.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p15a.JPG){: .img-large}
 
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  **![design compass](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/compass.jpg){width="25" height="45"}*Recommendation:*  Configure accessible routes so that they run in front of, instead of behind, parking spaces.
-  ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{% include recommendation.html
+text= "Configure accessible routes so that they run in front of, instead of behind, parking spaces."
+%} 
 
- 
-
-**Accessible Parking Space**
+#### Accessible Parking Space
 
 ![Two accessible parking spaces 8' wide min. with an access aisle in
 between that is 5' wide min. and as long as the space. Notes: Vehicle
@@ -605,12 +501,14 @@ state or local codes or regulations. Detail: width measured to
 centerline of marking. Note: The width of spaces and aisles is measured
 to the centerline of markings (but it can include the full width of
 lines where there is no adjacent parking space or
-aisles).](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p16.jpg){width="575"
-height="692"}
+aisles).]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p16.jpg){: .img-large}
 
-###   {#section style="text-align: left;"}
+### Van Accessible Parking Spaces
 
-### **[]{#van}Van Accessible Parking Spaces \[[§502.1 - 502.5](../ada-standards/chapter-5-general-site-and-building-elements.html#502%20Parking%20Spaces)\]![Person using wheelchair exiting van with ramp parking in accessible van space. ](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p17.jpg){width="200" height="148"}** {#van-accessible-parking-spaces-502.1---502.5person-using-wheelchair-exiting-van-with-ramp-parking-in-accessible-van-space. style="text-align: left;"}
+[[§502.1 - 502.5](../ada-standards/chapter-5-general-site-and-building-elements.html#502%20Parking%20Spaces)]
+
+<div class="clearfix padding-left-1" markdown="1">
+![Person using wheelchair exiting van with ramp parking in accessible van space. ]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p17.jpg){: .img-right}
 
 At least one space for every 6 or fraction of 6 accessible spaces must
 be van accessible. Van spaces provide an additional 3 feet of width to
@@ -618,67 +516,51 @@ accommodate vehicles equipped with ramps or lifts. This extra space can
 be added to either the parking space or to the access aisle. A wider
 access aisle saves space since two spaces can share one aisle, but wider
 spaces can help prevent misuse of the access aisle as a parking space.
+</div>
 
- 
+#### Van Space: Wider Parking Space
 
-**Van Space: Wider Parking Space**
+![Van accessible parking space 132" wide min. and access aisle 60" wide min.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p18-a.JPG){: .img-large}
 
- ![Van accessible parking space 132" wide min. and access aisle 60" wide
-min.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p18-a.JPG){width="550"
-height="408"}
+{% include recommendation.html
+text= "Sizing all accessible spaces (or access aisles) for van accessibility provides greater convenience and helps ensure that van spaces remain available for those who need them.  Where a van space and regular accessible space share an aisle, it is advisable to have the access aisle serve the van space on the passenger side (as is required where van spaces are angled) since backing into spaces can be more difficult with vans."
+%}
 
- 
+#### Van Space: Wider Access Aisle
 
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ***![design compass](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/compass.jpg){width="35" height="63"}**Recommendation:*  Sizing all accessible spaces (or access aisles) for van accessibility provides greater convenience and helps ensure that van spaces remain available for those who need them.  Where a van space and regular accessible space share an aisle, it is advisable to have the access aisle serve the van space on the passenger side (as is required where van spaces are angled) since backing into spaces can be more difficult with vans.
-  ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+![Van accessible parking space 96" wide min. and access aisle 96" wide min.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p19.jpg){: .img-large}
 
-\
- \
-**Van Space: Wider Access Aisle**
+#### Angled Van Spaces
 
-\
-**![Van accessible parking space 96" wide min. and access aisle 96" wide
-min.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p19.jpg){width="550"
-height="361"}**
+{% include grid-2col-lefttext-rightimg50.html
+img-file= "chapter5/5p20.jpg"
+img-alt= "Angled van accessible parking spaces with an access aisle on the passenger side of each space."
+text= "As with regular accessible spaces, van accessible spaces can share a common access aisle. However, where van spaces are angled, an access aisle is required for each space on the passenger side (§502.3.4). This is the side from which ramps and lifts typically deploy."
+%}
 
- 
+{% include recommendation.html
+text= "Where standard (non-van) accessible spaces are angled or otherwise restrict entry to one direction only, providing one access aisle for each accessible space (or on both sides where only one accessible space is provided) will offer greater usability by accommodating access on either side.  Otherwise, consider designing accessible spaces to permit both front-in and back-in parking."
+%}
 
-**Angled Van Spaces**
+### Vertical Clearance
 
-![Angled van accessible parking spaces with an access aisle on the
-passenger side of each
-space.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p20.jpg){width="225"
-height="113"}As with regular accessible spaces, van accessible spaces
-can share a common access aisle. However, where van spaces are angled,
-an access aisle is required for each space on the passenger side
-(§502.3.4). This is the side from which ramps and lifts typically
-deploy.\
-\
+[[§502.5](../ada-standards/chapter-5-general-site-and-building-elements.html#502%20Parking%20Spaces)]
 
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ***![design compass](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/compass.jpg){width="35" height="63"}**Recommendation:*  Where standard (non-van) accessible spaces are angled or otherwise restrict entry to one direction only, providing one access aisle for each accessible space (or on both sides where only one accessible space is provided) will offer greater usability by accommodating access on either side.  Otherwise, consider designing accessible spaces to permit both front-in and back-in parking.
-  -----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-
- 
-
-**![Plan view of garage with the following highlighted: vehicular route
-from entrance to van space, van space and access aisle, and vehicular
-route from van space to
-exit.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p21.jpg){width="300"
-height="223"}Vertical Clearance
-\[[§502.5](../ada-standards/chapter-5-general-site-and-building-elements.html#502%20Parking%20Spaces)\]**
+<div class="clearfix padding-left-1" markdown="1">
+![Plan view of garage with the following highlighted: vehicular route from entrance to van space, van space and access aisle, and vehicular route from van space to
+exit.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p21.jpg){: .img-right}
 
 A 98" minimum vertical clearance is required for van parking spaces/
 access aisles and the vehicle route to these spaces from an entrance and
 from these spaces to an exit. Van spaces can be grouped on one level of
 parking structures.
+</div>
 
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
-  ***![design compass](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/compass.jpg){width="25" height="45"}**Recommendation:*  Signs at garage entrances that indicate vertical clearances and the location of van spaces are advisable.
-  ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+{% include recommendation.html
+text= "Signs at garage entrances that indicate vertical clearances and the location of van spaces are advisable."
+%}
 
-**Pay Stations**
+### Pay Stations
 
 Pay stations and other elements that serve accessible parking spaces
 must comply with requirements for operable parts (§309) and be served by
@@ -690,28 +572,23 @@ with the Standards. However, under DOJ's ADA regulations, policies or
 practices must be in place to accommodate persons with disabilities who
 are unable to use such devices.
 
-![Man using power chair at pay
-station.](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p22.jpg){width="400"
-height="318"}
+![Man using power chair at pay station.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p22.jpg){: .img-large}
 
 Requirements for operable parts include:
 
--   Clear floor space for a forward or side approach (§309.2)
--   Location within accessible reach ranges (§309.3)
--   One-hand operation without tight grasping, pinching, twisting of the
-    wrist, or more than 5 pounds of force (§309.4)
+- Clear floor space for a forward or side approach (§309.2)
+- Location within accessible reach ranges (§309.3)
+- One-hand operation without tight grasping, pinching, twisting of the wrist, or more than 5 pounds of force (§309.4)
 
- 
+### Identification
 
-\
-**Identification
-\[[§216.5](../ada-standards/chapter-2-scoping-requirements.html#216%20Signs),
-[§502.6](../ada-standards/chapter-5-general-site-and-building-elements.html#502%20Parking%20Spaces)\]**
+[[§216.5](../ada-standards/chapter-2-scoping-requirements.html#216%20Signs), [§502.6](../ada-standards/chapter-5-general-site-and-building-elements.html#502%20Parking%20Spaces)]
 
 ![Post-mounted accessible parking space sign 60" high min. measured to
 bottom
-edge](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p23.jpg){width="150"
-height="331"}Accessible spaces must be identified by signs with the
+edge]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p23.jpg){: .float-right .thumbnail}
+
+Accessible spaces must be identified by signs with the
 International Symbol of Accessibility (ISA) (§703.7.2.1). Signs
 identifying van spaces must include the term "van accessible." This
 designation is informative and does not restrict use of such spaces to
@@ -729,58 +606,31 @@ State or local codes and regulations may address other sign
 characteristics, including size, color, and additional content, such as
 "reserved" or violation fines, but the ADA Standards do not.
 
- 
-
 ![Sign with International Symbol of Accessibility and term "van
 accessible." Another sign contains the International Symbol of
 Accessibility and "reserved parking" with a separate sign below station
-"van
-accessible."](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p24.jpg){width="550"
-height="171"}  
+"van accessible."]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p24.jpg){: .img-large}  
 
-  
+<div class="border clearfix padding-left-1" markdown="1">
+#### Exceptions
 
-+:----------------------------------+-----------------------------------+
-| **Exceptions**                    |                                   |
-|                                   |                                   |
-| ![Facility with four parking      |                                   |
-| spaces with one served by an      |                                   |
-| access                            |                                   |
-| aisle.](%7B%7B%20site.bas         |                                   |
-| eurl%20%7D%7D/images/ada-aba/guid |                                   |
-| es/chapter5/5p25.jpg){width="225" |                                   |
-| height="161"}If a total of 4 or   |                                   |
-| fewer parking spaces              |                                   |
-| (inaccessible and accessible) is  |                                   |
-| provided on a site, the required  |                                   |
-| accessible space does not have to |                                   |
-| be identified by a sign (i.e.,    |                                   |
-| reserved exclusively for use of   |                                   |
-| people with disabilities)         |                                   |
-| (§216.5, Ex. 1). However, all     |                                   |
-| other requirements for spaces,    |                                   |
-| including access aisles, still    |                                   |
-| apply.                            |                                   |
-|                                   |                                   |
-| **![house                         |                                   |
-| symbol](%7B%7B%20site.ba          |                                   |
-| seurl%20%7D%7D/images/ada-aba/gui |                                   |
-| des/chapter5/5p13.jpg){width="40" |                                   |
-| height="40"}**At residential      |                                   |
-| facilities, identification of     |                                   |
-| accessible spaces is not required |                                   |
-| where spaces are assigned to      |                                   |
-| specific dwelling units (§216.5,  |                                   |
-| Ex. 2).                           |                                   |
-+-----------------------------------+-----------------------------------+
+![Facility with four parking spaces with one served by an access aisle.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p25.jpg){: .float-right .thumbnail}
 
- 
+If a total of 4 or fewer parking spaces (inaccessible and accessible) is provided on a site, the required accessible space does not have to be identified by a sign (i.e., reserved exclusively for use of people with disabilities) (§216.5, Ex. 1). However, all other requirements for spaces, including access aisles, still apply.
 
-**Electric Vehicle Charging Stations**
+{% include grid-2col-leftimg-righttext.html
+img-file= "chapter5/5p13.jpg"
+img-alt= "house symbol"
+text= "At residential facilities, identification of accessible spaces is not required where spaces are assigned to specific dwelling units (§216.5, Ex. 2)."
+%}
+</div> 
+
+### Electric Vehicle Charging Stations
 
 ![electric vehicle charging station symbol
-](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p27.jpg){width="90"
-height="90"}The Standards do not include specific provisions for
+]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p27.jpg){: .float-right .thumbnail}
+
+The Standards do not include specific provisions for
 electric vehicle (EV) charging stations. However, it is advisable to
 address access to EV charging stations so that they are usable by people
 with disabilities.  If provided, accessible spaces at EV charging
@@ -801,22 +651,15 @@ flexibility is helpful since the parking direction is determined by the
 location of the charging station and the vehicle connection. Use the
 International Symbol of Accessibility only where spaces are reserved
 exclusively for people with disabilities.
-](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/chapter5/5p28a.jpg){width="550"
-height="619"} 
+]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p28a.jpg){: .img-large} 
 
-** **
+### Common Questions
 
-### ![question mark](%7B%7B%20site.baseurl%20%7D%7D/images/ada-aba/guides/ques.jpg){width="100" height="100"} {#question-mark style="text-align: left;"}
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail}
 
-###  
+#### Scoping Requirements
 
-###  []{#cq}Common Questions {#common-questions style="text-align: left;"}
-
-**Scoping Requirements**
-
-*Must the minimum number of spaces be determined separately for each
-parking facility on a site or can it be based on the collective total of
-spaces provided on a site?*
+##### Must the minimum number of spaces be determined separately for each parking facility on a site or can it be based on the collective total of spaces provided on a site?
 
 The minimum number of accessible parking spaces, including van
 accessible spaces, must be calculated separately for each parking
@@ -825,14 +668,14 @@ provided in another where doing so results in equal or greater access
 and convenience for users, but the required number must still be
 calculated separately for each parking facility.
 
-*Is accessible parking required on sites where no parking is intended?*
+##### Is accessible parking required on sites where no parking is intended?
 
 No, the ADA Standards require accessible spaces only where parking is
 provided. They do not require accessible spaces where parking is not
 provided at all. Most local and state codes and regulations address the
 amount of parking required for a site.
 
-*Are accessible spaces required in employee parking lots?*
+##### Are accessible spaces required in employee parking lots?
 
 Yes, the requirements for accessible parking spaces apply equally to
 employee parking facilities and are not limited to visitor parking.
@@ -845,8 +688,7 @@ are both located in the same parking lot or garage. Both accessible
 visitor and employee spaces must be on the shortest accessible route to
 an accessible entrance.
 
-*Are accessible spaces required in temporary parking lots and in unpaved
-lots, such as gravel or grass lots?*
+##### Are accessible spaces required in temporary parking lots and in unpaved lots, such as gravel or grass lots?
 
 Yes, the ADA Standards apply to both permanent and temporary facilities,
 including parking facilities (§201.3). In all parking facilities,
@@ -854,7 +696,7 @@ including gravel or grass lots, parking spaces and access aisles must be
 marked and have firm, stable, and slip resistant surfaces as specified
 for accessible ground and floor surfaces (§302).
 
-*Is resurfacing of a lot considered an alteration?*
+##### Is resurfacing of a lot considered an alteration?
 
 According to the definition of \"alteration,\" normal maintenance is not
 considered an alteration unless it affects a facility's usability. For
@@ -867,16 +709,13 @@ parking is lacking and may be necessary in meeting obligations for
 program access by government entities and barrier removal by public
 accommodations as required by DOJ's regulations.
 
-*Are accessible spaces required for tractor trailers at rest stops and
-other facilities?*
+##### Are accessible spaces required for tractor trailers at rest stops and other facilities?
 
 No, the Standards exempt those spaces used exclusively for trucks, as
 well as buses, other delivery vehicles, law enforcement vehicles, or
 vehicular impound.
 
-*Is compliance required for parking spaces designed specifically for
-recreational vehicles such as motor homes and camping or boating
-trailers?*
+##### Is compliance required for parking spaces designed specifically for recreational vehicles such as motor homes and camping or boating trailers?
 
 Spaces designed for recreational vehicles (RVs) and trailers are not
 exempt from coverage, but the Standards do not include technical
@@ -898,9 +737,7 @@ spaces at camping and picnic units and pull-up spaces at dump stations
 and cover space width (minimum 20', or 16' in the case of a second
 adjoining space) and utility and sewage hook-ups (§1011 and §1012).
 
-*Are accessible parking spaces required on a site where valet service is
-provided but vehicles are parked off site, such as in a public parking
-garage or on public streets?*
+##### Are accessible parking spaces required on a site where valet service is provided but vehicles are parked off site, such as in a public parking garage or on public streets?
 
 Parking facilities with valet parking must provide accessible parking
 spaces to allow self-parking by people with disabilities (and must also
@@ -917,11 +754,9 @@ service is provided off site by a different entity that parks vehicles
 in the garage, an accessible passenger loading zone is not required at
 the garage.
 
-\
-**Location and Dispersion**
+#### Location and Dispersion
 
-*Do the Standards specify a maximum travel distance between parking
-spaces and facility entrances?*
+##### Do the Standards specify a maximum travel distance between parking spaces and facility entrances?
 
 No. The Standards require that accessible parking spaces be on the
 shortest accessible route to an accessible entrance, but they do not
@@ -929,8 +764,7 @@ specify a maximum travel distance, nor do they require that parking be
 installed where none is planned (e.g., directly in front of an
 entrance).
 
-*Can accessible spaces required for one parking facility be located in
-another one instead?*
+##### Can accessible spaces required for one parking facility be located in another one instead?
 
 Accessible spaces required for one parking facility can be located in a
 different parking facility on the site if it results in substantially
@@ -938,8 +772,7 @@ equal or greater access and convenience for users. (§208.3.1, Ex. 2).
 The term "user convenience" applies to factors such as protection from
 the weather, security, lighting, and comparative maintenance.
 
-*Can van spaces required for a parking garage be located in a surface
-lot instead?*
+##### Can van spaces required for a parking garage be located in a surface lot instead?
 
 No. Accessible parking, including van spaces, required for one parking
 facility can be located in another parking facility only where it
@@ -947,7 +780,7 @@ results in substantially equal or greater access and convenience for
 users. Open lots do not provide the same level of protection, security,
 and lighting as garage parking.
 
-*Is vertical access required to all levels of a parking garage?*
+##### Is vertical access required to all levels of a parking garage?
 
 It depends. The Standards require that an accessible route connect each
 story in "multi-story" facilities but include certain exceptions based
@@ -964,8 +797,7 @@ underground parking garages, elevators or, where feasible, pedestrian
 ramps, are necessary to provide an accessible route from parking levels
 with accessible spaces to the facility they serve.
 
-*Are accessible spaces required on all levels of a multi-level parking
-structure?*
+##### Are accessible spaces required on all levels of a multi-level parking structure?
 
 It depends. If a parking facility has entrances and exits on one level
 only, standard and van accessible spaces are required on that level so
@@ -976,10 +808,9 @@ accessible spaces must be dispersed among accessible entrances on
 different levels, but van spaces can be grouped on one level under all
 conditions (§208.3.1, Ex. 1).
 
-\
-**Technical Requirements**
+#### Technical Requirements
 
-*Can accessible routes run behind other parking spaces?*
+##### Can accessible routes run behind other parking spaces?
 
 The ADA Standards require that an accessible route connect parking space
 access aisles to the accessible entrance they serve but they do not
@@ -987,21 +818,20 @@ specifically prohibit the accessible route from running behind parking
 spaces. However, it is recommended that accessible routes be configured
 so that they run in front of parking spaces for greater safety.
 
-*Are bollards, poles, columns, or other elements permitted within the
-marked area of access aisles?*
+##### Are bollards, poles, columns, or other elements permitted within the marked area of access aisles?
 
 No elements, including bollards, columns, or poles, can encroach into
 the defined area of access aisles. (The width of spaces and aisles is
 measured to the centerline of markings but can include the full line
 width where there is no adjacent parking space or aisle).
 
-*Must accessible routes or crossings be marked?*
+##### Must accessible routes or crossings be marked?
 
 No. The ADA Standards require accessible parking spaces and access
 aisles to be marked, but they do not require accessible routes,
 including portions crossing vehicular ways, to be marked.
 
-*How are parking spaces and access aisles to be marked?*
+##### How are parking spaces and access aisles to be marked?
 
 The ADA Standards do not specify the method or color of parking space
 and access aisle markings. State or local codes and regulations may
@@ -1009,7 +839,7 @@ specify such markings. It is important that access aisles be marked in a
 manner that discourages parking in them, especially those that are 8
 feet wide at van spaces.
 
-*What are the requirements for the size and color of signs?*
+##### What are the requirements for the size and color of signs?
 
 The ADA Standards require accessible spaces to be designated by the
 International Symbol of Accessibility. In addition, van spaces must be
@@ -1019,7 +849,7 @@ additional specifications under applicable state or local requirements
 or the Manual on Uniform Traffic Control Devices published by the
 Federal Highway Administration.
 
-*Can surface decals substitute for post- or wall-mounted signs?*
+##### Can surface decals substitute for post- or wall-mounted signs?
 
 No, the Standards require signs identifying accessible parking spaces
 that are at least 60" high measured to the bottom edge of the sign so
@@ -1028,8 +858,7 @@ decals or other identifying features may be required by local or state
 codes and can be provided in addition to, but not in place of, signs
 required by the ADA Standards.
 
-*Is front-in only or angled parking prohibited for accessible parking
-spaces?*
+##### Is front-in only or angled parking prohibited for accessible parking spaces?
 
 No, the ADA Standards do not prohibit front-in only, back-in only, or
 angled parking spaces. However, where van spaces are angled, the
@@ -1042,7 +871,7 @@ consider providing one access aisle at each regular accessible space
 instead of allowing two spaces to share an aisle so that access is
 available on both sides.
 
-*Can accessible spaces be parallel instead of perpendicular?*
+##### Can accessible spaces be parallel instead of perpendicular?
 
 The Standards do not specifically require that accessible spaces be
 perpendicular instead of parallel, but perpendicular parking spaces are
@@ -1053,9 +882,9 @@ opposed to those located along public streets) are parallel, they must
 fully comply with all applicable requirements, including those for
 access aisles and for van spaces.
 
-*Must van accessible spaces be restricted to van use?*
+##### Must van accessible spaces be restricted to van use?
 
-No. The required \"van-accessible\" designation is informative, not
+No. The required "van-accessible" designation is informative, not
 restrictive, in identifying those spaces that are better suited for van
 use and does not restrict the use of spaces to vans only. State or local
 codes and regulations may require additional verbiage, but the ADA
@@ -1063,84 +892,9 @@ Standards do not. Additional content on van designation signs can
 recommend that car drivers not use the space unless no other accessible
 parking space is available.
 
-*Do the surface requirements, including those for maximum slope (1:48),
-apply to all portions of a parking lot?*
+##### Do the surface requirements, including those for maximum slope (1:48), apply to all portions of a parking lot?
 
 No, the surface criteria apply only to accessible parking spaces, access
 aisles, and accessible routes, including those serving other elements or
 spaces besides parking spaces. Transitions to these areas from other
 portions of lots should be smooth to prevent tripping hazards.
-
- 
-
-[Back to top](chapter-5-parking.html#top) 
-
-* *
-
-[]{.clear}
-
-::: {#footer}
-::: {.left}
-Contact Information
--------------------
-
-::: {.left}
-::: {.custom}
-[U.S. Access Board]{property="schema:name"}\
-[1331 F Street NW, Suite 1000]{property="schema:streetAddress"}\
-[Washington]{property="schema:addressLocality"}, DC
-[20004-1111]{property="schema:postalCode"}
-
--   Voice: (202) 272-0080 or (800) 872-2253
--   TTY: (202) 272-0082 or (800) 993-2822
--   Fax: (202) 272-0081
-:::
-:::
-
-::: {.right}
--   [Contact Us](../../../../contact-us.html)
--   [Accessibility
-    Statement](../../../../the-board/policies/accessibility-statement.html)
--   [Sitemap](../../../../sitemap.html)
--   [Budget and
-    Performance](../../../../the-board/budget-and-performance.html)
--   [En Español](../../../../en-español/sobre-el-consejo-de-acceso.html)
--   [No Fear Act
-    Data](../../../../the-board/budget-and-performance/no-fear-act-data.html)
--   [Privacy](../../../../the-board/policies/privacy-policy.html)
--   [Freedom of
-    Information](../../../../the-board/policies/freedom-of-information-act-foia.html)
--   [Office of Special Counsel](https://osc.gov/)
--   [Guidance Documents](../../../../guidance.html)
-:::
-:::
-
-::: {.right}
-Partner Sites
--------------
-
-::: {.footer-link-list}
--   [disability.gov](http://www.disability.gov)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-
--   [usa.gov](http://www.usa.gov)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-
--   [regulations.gov](http://www.regulations.gov/#!searchResults;rpp=25;so=DESC;sb=docId;po=0;a=ATBCB;dct=PR+FR+N;dkt=R)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-
--   [federalregister.gov](http://www.federalregister.gov/agencies/architectural-and-transportation-barriers-compliance-board)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-:::
-:::
-
-[]{.clear}
-:::

@@ -18,11 +18,21 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 @import "components/sticky";
 @import "components/table-of-contents-subnav";
 
+
+
 // Add your SASS/CSS here
 
 // temporary blue class to see how grids work
 .blue {
   background-color: blue;
+}
+
+// advisory boxes
+.advisory {
+  background-color: #e8f0f8;
+  padding: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 // create class that combines about page img classes
@@ -31,8 +41,20 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
   font-weight: bold;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .img-right {
   float: right;
+  display: block;
+  padding: 15px;
+}
+
+.img-left {
+  float: left;
   display: block;
   padding: 15px;
 }
@@ -40,6 +62,12 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 .img-medium {
   padding: 10px;
   width: 40%; 
+}
+
+.img-center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .img-grid {
@@ -97,6 +125,7 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 .thumbnail {
   width: 15%;
   height: auto;
+  padding-bottom: 5px;
   //vertical-align: 30%;
   //max-height: 100px;
   @include u-margin(2);
@@ -127,6 +156,10 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
   clear: both;
 }
 
+.clearfix {
+  overflow: auto;
+}
+
 // sticky fill js
 .sticky {
   position: -webkit-sticky;
@@ -141,12 +174,7 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 }
 
 
-.advisory {
-  background-color: #e8f0f8;
-  padding: 1em;
-  margin-left: 1em;
-  margin-right: 1em;
-}
+
 
 figcaption {
   font-size: small;

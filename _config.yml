@@ -82,11 +82,11 @@ primary_navigation:
         url: /ada/
       - name: Architectural Barriers Act (ABA)
         url: /aba/
-      - name: Public Rights-of-Way
+      - name: Public Rights-of-Way (PROWAG)
         url: /prowag/
       - name: Vehicles
         url: /ada/vehicles/
-      - name: Passenger Vessels
+      - name: Passenger Vessels (PVAG)
         url: /pvag/
       - name: Medical Diagnostic Equipment (MDE)
         url: /mde/
@@ -95,15 +95,15 @@ primary_navigation:
       - name: Archive
         url: /guidelines-&-standards/archive/
   - name: Training & Webinars
-    url: /training/
+    url: /webinars/
   - name: File an ABA complaint
     url: /enforcement/
   - name: Research
     url: /research/
+  - name: Contact Us
+    url: /contact/
 
 secondary_navigation:
-  - name: Contact Us
-    url: /about/contact.html
   - name: En Español
     url: ..
 
@@ -163,6 +163,9 @@ collections:
   mde:
     output: true
     permalink: /mde/:path/
+  pvag:
+    output: true
+    permalink: /pvag/:path/
   authors:
     output: true
     permalink: /authors/:name/
@@ -176,7 +179,8 @@ defaults:
       path: ""
       type: "ada"
     values:
-      collection-title: "Americans with Disabilities Act Accessibility Standards"
+      collection-title: "Americans with Disabilities Act"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: ada
       layout: standards
       file-directory: /files/ada-aba/
@@ -196,7 +200,8 @@ defaults:
       path: ""
       type: "aba"
     values:
-      collection-title: "Architectural Barriers Act Accessibility Standards"
+      collection-title: "Architectural Barriers Act"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: aba
       layout: standards
       file-directory: /files/ada-aba/
@@ -226,7 +231,8 @@ defaults:
       path: ""
       type: "prowag-shared-use"
     values:
-      collection-title: "Proposed Public Rights-of-Way Accessibility Guideliness with Shared Use Paths supplemental notice"
+      collection-title: "(Proposed) Public Rights-of-Way"
+      collection-subtitle: "Accessibility Guidelines"
       collection-folder: prowag-shared-use
       layout: standards
       file-directory: /files/prowag/
@@ -271,11 +277,22 @@ defaults:
       path: ""
       type: "mde"
     values:
-      collection-title: "Medical Diagnostic Equipment Accessibility Standards"
+      collection-title: "Medical Diagnostic Equipment"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: mde
       layout: standards
       file-directory: /files/mde/
       image-directory: /images/mde/
+  - scope:
+      path: ""
+      type: "pvag"
+    values:
+      collection-title: "(Proposed) Passenger Vessels"
+      collection-subtitle: "Accessibility Guidelines"
+      collection-folder: pvag
+      layout: standards
+      file-directory: /files/pvag/
+      image-directory: /images/pvag/
   - scope:
       path: "_authors"
     values:
@@ -352,3 +369,7 @@ assets:
     - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
     - node_modules/stickyfilljs/dist
+    - node_modules/stickyfilljs/dist
+    - node_modules/video.js/dist
+    - node_modules/videojs-youtube/dist
+    - images

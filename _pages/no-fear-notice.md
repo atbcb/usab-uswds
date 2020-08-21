@@ -1,8 +1,8 @@
 ---
-title: No FEAR Act Data Notice
+title: No FEAR Act Notice
 layout: page
-sidenav: false
-permalink: /about/no-fear-notice.html
+sidenav: true
+permalink: /about/policy/no-fear-notice.html
 ---
 
 # {{ page.title }}

@@ -1,0 +1,63 @@
+This animation explains requirements in the ADA and ABA Standards for sales and service counters, check-out aisles, and food service lines.
+
+The standards apply to all types of counters where purchases and other transactions are made and services are provided.  Examples include:
+* sales counters of all types
+* reception and concierge counters
+* information counters
+* registration and check-in counters
+* counters at bank teller windows and ticket windows
+* customer service counters
+* ordering, pick-up and drop-off counters
+* and other types of service or sales counters
+Display or exhibit counters are covered only if they also function as a sales or service counter.  
+Access is required to at least one of each type of counter provided.  If one continuous counter serves multiple functions at different sections, access is required to each type of function.  
+Where counters are dispersed throughout a facility, accessible counters must be dispersed as well.  
+The surface of accessible counters is limited to a height of 36 inches.  The accessible surface must be integral to the counter and extend the full depth of the counter top for customer use.  Folding or pull-out shelves cannot substitute for accessible counter surfaces in new construction or alterations.  
+Because of the relatively brief nature of most sales or service transactions, the standards permit access for either a forward approach or a parallel approach.  Forward approach access provides knee and toe space below the counter so that people using wheelchairs can roll beneath.  Clear floor space at least 48 inches long must extend from 17 to 25 inches below the counter.  Both the accessible counter and the clear floor space are required to be at least 30 inches wide.  Other sections of the counter can be higher than 36 inches.  
+Knee space 27 inches high minimum must extend at least 8 inches from the leading edge of the counter.  Beyond this depth, the clearance can reduce to 9 inches over a 3-inch span.  Toe space at least 9 inches high extends 6 inches.  No protrusions or obstructions are permitted within the knee and toe space or the rest of the clear floor space.  If the clear floor space is confined on three sides and located in a recess at least 2 feet deep, then it must be at least 36 inches wide instead of 30 inches to allow more room for maneuvering.  
+For a parallel approach, the accessible portion of counter surface must be at least 36 inches long.  If a counter is not this long, it does not have to be lengthened to 36 inches but must be accessible for its full length.  The 30-inch by 48-inch clear floor space must be parallel to the counter and abut the counter’s leading edge.  Shelves, displays, and other elements cannot obstruct the clear floor space or offset it from the leading edge of the counter.  
+
+If the clear floor space is confined on three sides and recessed more than 15 inches, the length must be at least 60 inches instead of 48 inches to ease maneuvering into it.  The open side must remain unobstructed.
+It is important that accessible portions of counters be kept clear of merchandise, displays, and other objects.
+Accessible surfaces can be integrated with higher sections for standees in the same counter.  This check-in counter provides an accessible surface with forward approach access between two higher sections of counter.   The accessible section of counter must be as deep or deeper than the higher sections.   This accessible counter is long enough and has sufficient clear floor space to also accommodate parallel approaches which is helpful for people who use scooters and other devices with front tillers.  
+These requirements also apply to counters at teller windows, ticket windows, and service windows.  While the counter height is limited to 36 inches, the standards do not specify the height of service windows.  A maximum height of 43 inches measured to the bottom of the window, as required for vision lights at doors, is advisable to provide adequate sight lines.  If security glazing is provided at a counter, a means of facilitating voice communication is required.  Acceptable methods include grilles, slats, talk-through baffles, handsets and intercoms.  Grilles or baffles at accessible counters should be at heights that are convenient to use from a seated position, but their location is not specified in the standards.   Buttons and other controls for intercoms and similar devices, where provided, must comply as operable parts and be located within accessible reach range.   If a telephone handset is provided, it must have compliant volume control.  
+Counters surfaces that project into circulation paths from walls can be hazardous to people with vision impairments if their leading edge is above 27 inches and outside of cane sweep.   Those that protrude no more than 4 inches into a circulation path, such as a counter at a service window, do not require further treatment. Otherwise, counters can be recessed in an alcove or they can be partially enclosed so that they are detectable within the 27” high maximum cane sweep.  The leading edge of the counter cannot project more than 4 inches from the detectable portion that is within cane sweep.  Side panels provide a solution that accommodates access for a forward approach.
+
+Waiting lines that serve accessible counters or check-out aisles, where provided, must meet requirements for accessible routes.  This applies to waiting lines defined by fixed posts, stanchions, partitions or other elements, but the standards also can be used to ensure access to waiting lines with moveable elements.  Accessible routes must have a continuous clear width of 36 inches.  The clear width can be reduced to 32 inches at points for a distance not exceeding 2 feet.  Segments with a clear width below 36 inches must be separated by at least 4 feet.  
+180-degree turns around obstructions require additional clear width to facilitate maneuvering.  One option is to provide a clear width of 60 inches at the turn.  Alternatively, the width at the turn can be 48 inches minimum if both connecting routes are at least 42 inches wide.  Stanchions and other elements cannot reduce the minimum clear width at turns.  Turns around obstructions that are at least 4 feet long do not require a clear width greater than 36 inches.  
+
+The standards also cover access to check-out aisles.  A table specifies the number of check-out aisles for each function that must be accessible.  As with counters, accessible check-out aisles must be dispersed throughout a facility where check-out aisles are dispersed. 
+
+The International Symbol of Accessibility or ISA is required to label accessible check-out aisles unless all check-out aisles are accessible.  If signs are provided to identify check-out aisles by number, letter, or function, the ISA must be provided in the same location. 
+
+Check-out aisles must meet all applicable requirements for accessible routes.  It is important that shelves, displays, and other elements not reduce the minimum clear width. 
+
+The counter surface height cannot exceed 38 inches, and edge protection on the aisle side is limited to a height of 2 inches.  If check writing surfaces are provided, they must be located within a height of 28 to 34 inches above the floor.  Those that easily pull out or pivot can facilitate access.  
+
+Operable parts of point of sale terminals, card readers, and similar devices must comply and be located within accessible reach ranges.  Devices that are easy to adjust and tilt will facilitate use and can improve the visibility of displays and buttons.  A height for visibility is not specified for these devices, but the standard eye level range of a person using a wheelchair is approximately 43 to 51 inches.   
+
+In addition to counters and check-out aisles, the standards also cover food service lines.  
+
+In this example of a restaurant with take-out or eat-in options, customers queue at a station to place orders.  This is one type of service counter in the facility that must be accessible and provide access for a parallel approach, as seen here, or a forward approach. The waiting line must comply as an accessible route.  Where the meal preparation area is intended to be visible to customers, it should be equally visible to patrons with disabilities although this is not addressed by the standards. 
+
+If tray slides are provided, they must be at a height of 28 to 34 inches above the floor measured to the top.
+
+A separate counter that is provided for picking up orders represents another type of counter that must be accessible.  The counter shown here provides forward approach access, but there also is sufficient space for a parallel approach.
+   
+If self-service shelves are provided, at least 50%, but no fewer than one, of each type must be within accessible reach range.  For unobstructed reaches, the range is 15 inches minimum to 48 inches maximum in height.  
+
+Access is also required to the separate payment counter which represents another type of counter. 
+
+Operable parts of soda fountains and other food and beverage dispensers that are fixed must be usable with one hand and not require tight grasping, pinching, twisting of the wrist, or more than 5 pounds force to operate.   They also must be located within accessible reach range.   For a side reach, the 48-inch maximum height is permitted to a reach depth up to 10 inches measured form the clear floor space.  If the reach depth exceeds 10 inches, the high side reach is reduced to 46 inches maximum.  The side reach depth cannot exceed 24 inches.  
+
+For forward reaches, the 48-inch maximum applies to reach depths up to 20 inches measured to the leading edge of a counter or other obstruction.  If the reach depth is greater than 20 inches up to the maximum 25-inch depth permitted, the maximum reach is limited to 44 inches.  Knee and toe space beneath obstructions must extend to or beyond the reach depth.  
+
+Fixed devices that dispense condiments, tableware, and dinnerware, also must comply and be located within accessible reach range. 
+
+Further guidance on sales and service counters, check-out aisles, and food service lines and other requirements in the ADA and ABA Standards is available from the U.S. Access Board.
+
+This animation was developed by the U.S. Access Board in cooperation with the Federal agencies that issue the ADA and ABA Standards.  
+
+1
+
+

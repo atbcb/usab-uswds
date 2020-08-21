@@ -6,7 +6,8 @@ file-description: PDF version
 ---
 <div class="clearfix" markdown="1">
 ![roller
-coaster]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/roller-coaster.jpg){: .float-right .thumbnail}
+coaster]({{ site.baseurl }}{{ page.image-directory }}chapter10/amusement/roller-coaster.jpg){: .float-right}
+
 
 >*"Whenever any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
@@ -126,7 +127,7 @@ rides designed for children, and rides without seats.
 
 ![diagram of an accessible route to a ride that includes a platform lift
 or elevator for
-entry]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-7.jpg){: .img-large}
+entry]({{ site.baseurl }}{{ page.image-directory }}chapter10/amusement/page-7.jpg){: .img-large}
 
 Any part of an accessible route with a slope greater than 1:20 (5%) is
 considered a ramp, which limits the slope to 1:12 (8.33%) maximum. There
@@ -156,7 +157,7 @@ riders, where necessary.
 ### Signage
 <div class="clearfix" markdown="1">
 ![photo of sign with access symbol at entrance to waiting line
-area]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/access_line.jpg){: .float-right}
+area]({{ site.baseurl }}{{ page.image-directory }}chapter10/amusement/access_line.jpg){: .float-right}
 Signage must be provided at the entrance of the queue or
 waiting line for each accessible amusement ride to identify the type of
 access provided on the ride (e.g., rides with wheelchair spaces or
@@ -189,7 +190,7 @@ slope not steeper than 1:48 and be stable, firm, and slip resistant.
 #### Gaps
 <div class="clearfix" markdown="1">
 ![illustration of four types of allowable
-gaps]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-9.jpg){: .float-right}
+gaps]({{ site.baseurl }}{{ page.image-directory }}chapter10/amusement/page-9.jpg){: .float-right}
 Where wheelchair spaces are provided on amusement rides, the floors of
 rides must be coordinated with the floors of the load and unload areas
 so that when the ride is at the load and unload position, the vertical
@@ -252,11 +253,11 @@ floor. Objects may protrude a maximum of 25 inches along the front of
 the space if they are more than 27 inches above the floor surface.
 
 ![illustration of allowable protrusions into wheelchair
-spaces]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-11.jpg){: .img-large}
+spaces]({{ site.baseurl }}{{ page.image-directory }}chapter10/amusement/page-11.jpg){: .img-large}
 
 #### Companion Seats
 ![illustration of wheelchair space with companion
-seating]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-12.jpg){: .float-left .padding-1}
+seating]({{ site.baseurl }}{{ page.image-directory }}chapter10/amusement/page-12.jpg){: .float-left .padding-1}
 Where companion seating is provided on a ride, companion seating adjacent to
 wheelchair spaces is also required in some cases. A companion seat is
 required if the interior of an amusement ride is more than 53 inches
@@ -286,7 +287,7 @@ consideration should be given to providing gripping surfaces, seat
 paddings, and avoiding sharp or protruding objects.
 
 ![illustration of ride seat designed for
-transfer]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-13.jpg){: .img-large}
+transfer]({{ site.baseurl }}{{ page.image-directory }}chapter10/amusement/page-13.jpg){: .img-large}
 
 #### Clear Floor Space
 The load and unload areas adjacent to ride seats designed for transfer
@@ -314,7 +315,7 @@ device must provide sufficient clearance for transfer.
 <div class="clearfix" markdown="1">
 ![illustration of transfer devices including portable tier, fixed tier,
 and portable
-bench]({{ site.baseurl }}{{ page.image-directory }}/chapter10/amusement/page-14.jpg){: .float-left .padding-1}
+bench]({{ site.baseurl }}{{ page.image-directory }}chapter10/amusement/page-14.jpg){: .float-left .padding-1}
 
 Transfer devices may also be used to provide access onto an amusement
 ride. A transfer device can be either permanent or temporary and does
@@ -374,62 +375,283 @@ space.
 This table highlights the sections of the ADA and ABA Accessibility
 Standards discussed in the amusement rides guide.
 
-|  |  ADA Standards\* | ABA Standards  |
-|:---|:---:|:---:|
-| Definitions |  106\.5 | F106\.5  |
-| Amusement Attraction |  106\.5 | F106\.5 |
-| Amusement Ride | 106\.5 | F106\.5 |
-| Amusement Ride Seat  |  106\.5 | F106\.5  |
-| Cross Slope | 106\.5 | F106\.5 |
-| Curb Ramp | 106\.5 | F106\.5 |
-| Facility | 106\.5 | F106\.5 |
-| Ramp | 106\.5 | F106\.5 |
-| Running Slope | 106\.5 | F106\.5 |
-| Transfer Device | 106\.5 | F106\.5 |
-| Wheelchair Space | 106\.5 | F106\.5 |
-|  |  |  |
-| Amusement Rides \(where provided\) | 234 | F234 |
-| Existing Amusement Rides – load and unload areas | 234\.4\.1 | F234\.4\.1 |
-| Existing Amusement Rides – wheelchair spaces \(minimum number\) | 234\.4\.2 | F234\.4\.2 |
-| Load and Unload Areas \(new areas\) | 234\.2 | F234\.2 |
-| Mobile and Portable Rides \(exception\) | 234\.1 EX | F234\.1 EX |
-| Signage – type of access | 216\.12 | F216\.12 |
-| Wheelchair Space \(minimum number\) | 234\.3 | F234\.3 |
-| Wheelchair Space \(exceptions\) | 234\.3 EXs 1 to 3 | F234\.3 EXs 1 to 3 |
-|  |  |  |
-| Accessible Routes \(where required\) | 206 | F206 |
-| Amusement Rides \(specific provisions\) | 206\.2\.9 | F206\.2\.9 |
-| Load and Unload Areas \(accessible route connection\) | 206\.2\.9\.1 | F206\.2\.9\.1 |
-| Wheelchair Space, Ride Seat Designated for Transfer, and Transfer Device \(accessible route connection\) | 206\.2\.9\.2 | F206\.2\.9\.2 |
-| Elevators \(types allowed\) | 206\.6 | F206\.6 |
-| Platform Lift \(new construction use\) | 206\.7\.7 | F206\.7\.7 |
-|  |  |  |
-| Accessible Routes Components \(typically used\) |  |  |
-| Curb Ramps | 406 | 406 |
-| Doors and Gates | 404 | 404 |
-| Elevators | 407 & 408 | 407 & 408 |
-| Handrails \(exception\) | 1002\.2 EX 2 | 1002\.2 EX 2 |
-| Platform Lift \(when accessing rides\) | 410 | 410 |
-| Ramps | 405 | 405 |
-| Ramps \(slope exception\) | 1002\.2 EX 1 | 1002\.2 EX 1 |
-| Walking Surfaces with Running Slopes of 5% or less | 403 | 403 |
-|  |  |  |
-| Technical Requirements for Amusement Rides |  |  |
-| Amusement Ride Seats Designed for Transfer | 1002\.5 | 1002\.5 |
-| Loading and Unload Areas \(turning space\) | 1002\.3 | 1002\.3 |
-| Transfer Devices for Use with Amusement Rides | 1002\.6 | 1002\.6 |
-| Wheelchair Space in Amusement Rides \(surface, slope, gaps, clearances, ride entry, approach, and companion seats\) | 1002\.4 | 1002\.4 |
-|  |  |  |
-| Other Scoping Requirements |  |  |
-| Dining surfaces | 226 | F226 |
-| Employee Work Areas \(exception\) | 203\.9 | no similar exception |
-| Parking | 208 | F208 |
-| Passenger Loading Zones and Bus Stops | 209 | F209 |
-| Sales and Service Counters | 227\.3 | F227\.3 |
-| Signage | 216 | F216 |
-| Toilet and Bathing | 213 | F213 |
-| Vending Machines | 228 | F228 |
-{: .table-provision-index .usa-table}
+
+<table class="usa-table">
+    <thead>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;ADA Standards*</td>
+            <td>ABA Standards&nbsp;</td>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <td>Definitions</td>
+            <td>&nbsp;106.5</td>
+            <td>F106.5&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Amusement Attraction</td>
+            <td>&nbsp;106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Amusement Ride</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Amusement Ride Seat&nbsp;</td>
+            <td>&nbsp;106.5</td>
+            <td>F106.5&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Cross Slope</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Curb Ramp</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Facility</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Ramp</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Running Slope</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Transfer Device</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>Wheelchair Space</td>
+            <td>106.5</td>
+            <td>F106.5</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Amusement Rides (where provided)</td>
+            <td>234</td>
+            <td>F234</td>
+        </tr>
+        <tr>
+            <td>Existing Amusement Rides – load and unload areas</td>
+            <td>234.4.1</td>
+            <td>F234.4.1</td>
+        </tr>
+        <tr>
+            <td>Existing Amusement Rides – wheelchair spaces (minimum number)</td>
+            <td>234.4.2</td>
+            <td>F234.4.2</td>
+        </tr>
+        <tr>
+            <td>Load and Unload Areas (new areas)</td>
+            <td>234.2</td>
+            <td>F234.2</td>
+        </tr>
+        <tr>
+            <td>Mobile and Portable Rides (exception)</td>
+            <td>234.1 EX</td>
+            <td>F234.1 EX</td>
+        </tr>
+        <tr>
+            <td>Signage – type of access</td>
+            <td>216.12</td>
+            <td>F216.12</td>
+        </tr>
+        <tr>
+            <td>Wheelchair Space (minimum number)</td>
+            <td>234.3</td>
+            <td>F234.3</td>
+        </tr>
+        <tr>
+            <td>Wheelchair Space (exceptions)</td>
+            <td>234.3 EXs 1 to 3</td>
+            <td>F234.3 EXs 1 to 3</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Accessible Routes (where required)</td>
+            <td>206</td>
+            <td>F206</td>
+        </tr>
+        <tr>
+            <td>Amusement Rides (specific provisions)</td>
+            <td>206.2.9</td>
+            <td>F206.2.9</td>
+        </tr>
+        <tr>
+            <td>Load and Unload Areas (accessible route connection)</td>
+            <td>206.2.9.1</td>
+            <td>F206.2.9.1</td>
+        </tr>
+        <tr>
+            <td>Wheelchair Space, Ride Seat Designated for Transfer, and Transfer Device (accessible route connection)</td>
+            <td>206.2.9.2</td>
+            <td>F206.2.9.2</td>
+        </tr>
+        <tr>
+            <td>Elevators (types allowed)</td>
+            <td>206.6</td>
+            <td>F206.6</td>
+        </tr>
+        <tr>
+            <td>Platform Lift (new construction use)</td>
+            <td>206.7.7</td>
+            <td>F206.7.7</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Accessible Routes Components (typically used)</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Curb Ramps</td>
+            <td>406</td>
+            <td>406</td>
+        </tr>
+        <tr>
+            <td>Doors and Gates</td>
+            <td>404</td>
+            <td>404</td>
+        </tr>
+        <tr>
+            <td>Elevators</td>
+            <td>407 &amp; 408</td>
+            <td>407 &amp; 408</td>
+        </tr>
+        <tr>
+            <td>Handrails (exception)</td>
+            <td>1002.2 EX 2</td>
+            <td>1002.2 EX 2</td>
+        </tr>
+        <tr>
+            <td>Platform Lift (when accessing rides)</td>
+            <td>410</td>
+            <td>410</td>
+        </tr>
+        <tr>
+            <td>Ramps</td>
+            <td>405</td>
+            <td>405</td>
+        </tr>
+        <tr>
+            <td>Ramps (slope exception)</td>
+            <td>1002.2 EX 1</td>
+            <td>1002.2 EX 1</td>
+        </tr>
+        <tr>
+            <td>Walking Surfaces with Running Slopes of 5% or less</td>
+            <td>403</td>
+            <td>403</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Technical Requirements for Amusement Rides</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Amusement Ride Seats Designed for Transfer</td>
+            <td>1002.5</td>
+            <td>1002.5</td>
+        </tr>
+        <tr>
+            <td>Loading and Unload Areas (turning space)</td>
+            <td>1002.3</td>
+            <td>1002.3</td>
+        </tr>
+        <tr>
+            <td>Transfer Devices for Use with Amusement Rides</td>
+            <td>1002.6</td>
+            <td>1002.6</td>
+        </tr>
+        <tr>
+            <td>Wheelchair Space in Amusement Rides (surface, slope, gaps, clearances, ride entry, approach, and companion seats)</td>
+            <td>1002.4</td>
+            <td>1002.4</td>
+        </tr>
+        <tr>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Other Scoping Requirements</td>
+            <td>&nbsp;</td>
+            <td>&nbsp;</td>
+        </tr>
+        <tr>
+            <td>Dining surfaces</td>
+            <td>226</td>
+            <td>F226</td>
+        </tr>
+        <tr>
+            <td>Employee Work Areas (exception)</td>
+            <td>203.9</td>
+            <td>no similar exception</td>
+        </tr>
+        <tr>
+            <td>Parking</td>
+            <td>208</td>
+            <td>F208</td>
+        </tr>
+        <tr>
+            <td>Passenger Loading Zones and Bus Stops</td>
+            <td>209</td>
+            <td>F209</td>
+        </tr>
+        <tr>
+            <td>Sales and Service Counters</td>
+            <td>227.3</td>
+            <td>F227.3</td>
+        </tr>
+        <tr>
+            <td>Signage</td>
+            <td>216</td>
+            <td>F216</td>
+        </tr>
+        <tr>
+            <td>Toilet and Bathing</td>
+            <td>213</td>
+            <td>F213</td>
+        </tr>
+        <tr>
+            <td>Vending Machines</td>
+            <td>228</td>
+            <td>F228</td>
+        </tr>
+    </tbody>
+</table>
 
 
 \* The guide uses the term ADAAG (Americans with Disabilities Act
