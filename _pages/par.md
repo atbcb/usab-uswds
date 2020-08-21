@@ -379,7 +379,7 @@ November 9, 2018
 
 <tr>
 
-<td style="border: 1px solid #000000;">Fund Balance With Treasury (<a href="note-2-fund-balance-with-treasury">Note 2</a>)</td>
+<td style="border: 1px solid #000000;">Fund Balance With Treasury (<a href="#note-2-fund-balance-with-treasury">Note 2</a>)</td>
 
 <td style="border: 1px solid #000000;">$2,741,963</td>
 
