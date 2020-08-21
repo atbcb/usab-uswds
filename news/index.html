@@ -5,8 +5,7 @@ pagination:
   enabled: true
 ---
 
-{% include section-title.html title= "Access Currents" description= "News from the U.S. Access Board, including material
-from our bimonthy newsletter." %}
+{% include section-title.html title= "Accessibility News" description= "" %}
 
 <div class="grid-container maxw-desktop">
   <div class="grid-row">
@@ -19,11 +18,12 @@ from our bimonthy newsletter." %}
         </h3>
         <div class="text-base margin-bottom-2">
           <div class="margin-top-neg-105">
-            By
+          {% comment %}  By
             {% for author in post.authors %}
               {% include author-link.html author=author %}
             {% endfor %}
-            · {{ post.date | date: '%B %d, %Y' }}
+            · {% endcomment %}
+            {{ post.date | date: '%B %d, %Y' }}
           </div>
         </div>
         <div>
