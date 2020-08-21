@@ -5,53 +5,24 @@ eight.
 
 <section class="usa-graphic-list usa-section usa-section--dark">
   <div class="grid-container">
-    <div class="usa-graphic-list__row grid-row grid-gap">
-      <div class="usa-media-block tablet:grid-col">
-        {% asset communications.jpg class="usa-media-block__img" alt="photo of hands typing on keyboard" width="150" %}
-        <div class="usa-media-block__body">
-          <h3 class="usa-graphic-list__heading">Communications &amp; IT</h3>
-          {% include communications.html %}
+    {% for highlight in site.data.highlights %}
+    {% capture thecycle %}{% cycle 'odd', 'even' %}{% endcapture %}
+      {% if forloop.first or thecycle == 'odd' %}
+      <div class="usa-graphic-list__row grid-row grid-gap">
+      {% endif %}
+        <div class="usa-media-block tablet:grid-col">
+          <img src="{{ site.baseurl }}/images/{{ highlight.image-file }}" class="usa-media-block__img circle-card" 
+          alt="{{ highlight.alt }}"
+          width="150"
+          >
+          <div class="usa-media-block__body">
+            <h3 class="usa-graphic-list__heading">{{ highlight.title }}</h3>
+            {{ highlight.description }}
+          </div>
         </div>
+      {% if forloop.last or thecycle == 'even' %}
       </div>
-      <div class="usa-media-block tablet:grid-col">
-        {% asset buildings.jpg class="usa-media-block__img" alt="photo of grid of windows of gray concrete office building" width="150" %}
-        <div class="usa-media-block__body">
-          <h3 class="usa-graphic-list__heading">Buildings &amp; Sites</h3>
-          {% include buildings.html %}
-        </div>
-      </div>
-    </div>
-    <div class="usa-graphic-list__row grid-row grid-gap">
-      <div class="usa-media-block tablet:grid-col">
-        {% asset recreation.jpg class="usa-media-block__img" alt="photo of roller coaster loop" width="150" %}
-        <div class="usa-media-block__body">
-          <h3 class="usa-graphic-list__heading">Recreation Facilities</h3>
-          {% include recreation.html %}
-        </div>
-      </div>
-      <div class="usa-media-block tablet:grid-col">
-        {% asset streets-sidewalks.jpg class="usa-media-block__img" alt="photo of a curving sidewalk with grass on either side, and a road to the left" width="150" %}
-        <div class="usa-media-block__body">
-          <h3 class="usa-graphic-list__heading">Streets &amp; Sidewalks</h3>
-          {% include streets-sidewalks.html %}
-        </div>
-      </div>
-    </div>
-    <div class="usa-graphic-list__row grid-row grid-gap">
-      <div class="usa-media-block tablet:grid-col">
-        {% asset transportation.jpg class="usa-media-block__img" alt="photo of several large city buses, lined up on pavement" width="150" %}
-        <div class="usa-media-block__body">
-          <h3 class="usa-graphic-list__heading">Transportation</h3>
-          {% include transportation.html %}
-        </div>
-      </div>
-      <div class="usa-media-block tablet:grid-col">
-        {% asset health_care.jpg class="usa-media-block__img" alt="photo of a person lying under white machine"  width="150" %}
-        <div class="usa-media-block__body">
-          <h3 class="usa-graphic-list__heading">Health Care</h3>
-          {% include health_care.html %}
-        </div>
-      </div>
-    </div>
+      {% endif %}
+    {% endfor %}
   </div>
 </section>
