@@ -1,13 +1,11 @@
-{% assign video = include.video %}
-
-<h3>{{ video.video-name }}</h3>
+<h3>{{ include.name }}</h3>
 <video
-  id="{{ video.video-name | replace: " ", "-" }}-video"
+  id="{{ include.name | replace: " ", "-" }}-video"
   class="video-js vjs-default-skin vjs-fluid"
-  data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "{{ video.youtube-url }}"}] }'
+  data-setup='{ "techOrder": ["youtube"], "sources": [{ "type": "video/youtube", "src": "{{ include.video_url }}"}] }'
   controls
   fluid
   preload
 >
-  <track src="{{ site.baseurl }}/files/captions/{{ video.caption-file }}" kind="captions" srclang="en" default="default" ></track>
+  <track src="{{ include.caption_path }}" kind="captions" srclang="en" default="default" ></track>
 </video>

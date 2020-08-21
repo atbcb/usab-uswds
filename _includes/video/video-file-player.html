@@ -1,14 +1,12 @@
-{% assign video = include.video %}
-
-<h3>{{ video.video-name }}</h3>
+<h3>{{ include.name }}</h3>
 <video
-  id="{{ video.video-name | replace: " ", "-" }}-video"
+  id="{{ include.name | replace: " ", "-" }}-video"
   class="video-js vjs-default-skin vjs-fluid"
   data-setup='{}'
   controls
   fluid
   preload
 >
-  <source src="{{ site.baseurl }}/files/videos/{{ video.video-file }}" type="video/mp4" />
-  <track src="{{ site.baseurl }}/files/captions/{{ video.caption-file }}" kind="captions" srclang="en" default="default" ></track>
+  <source src="{{ include.video_path }}" type="video/mp4" />
+  <track src="{{ include.caption_path }}" kind="captions" srclang="en" default="default" ></track>
 </video>
