@@ -1,17 +1,17 @@
-- title: "Building & Sites"
+- title: "Building and Sites"
   description: "Accessibility standards for facilities covered by the ADA and the ABA."
   image-file: buildings.jpg
   link:  /buildings.html
-- title: "Communication & IT"
+- title: "Communication and IT"
   description: "Standards issued under the Rehabilitation Act (§508) and the Communications Act."
   image-file:  communications.jpg
   alt: "photo of hands typing on keyboard"
-  link: gs/ict.html
+  link: /gs/ict.html
 - title: Transportation Vehicles
   description: "ADA Guidelines for transportation vehicles and systems."
   image-file: transportation.jpg
   link: /ada/vehicles/
-- title: "Streets & Sidewalks"
+- title: "Streets and Sidewalks"
   description: "New guidelines for public rights-of-way and shared use paths."
   image-file: streets-sidewalks.jpg
   link: /prowag/
