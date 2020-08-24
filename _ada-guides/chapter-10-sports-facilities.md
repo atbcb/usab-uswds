@@ -4,7 +4,7 @@ order-number: 1010
 file: sports.pdf
 file-description: PDF version of Chapter 10 Sports Facilities Guide
 ---
-![boy using wheelchair playing basketball]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports_small.jpg){: .float-right .thumbnail}
+![boy using wheelchair playing basketball]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/sports_small.jpg){: .float-right .thumbnail}
 
 _The products shown in this guide are only intended to serve as examples to illustrate the accessibility guidelines, and are not intended as endorsements of the products. Other products may be available. The Access Board does not evaluate or certify products for compliance with the accessibility guidelines. Users are advised to obtain and review product specifications for compliance with the accessibility guidelines._
 
@@ -66,7 +66,7 @@ The public was given an opportunity to comment on the recommended accessibility 
 
 ### Accessible Sports Facilities
 <div class="clearfix" markdown="1">
-![photo of man in wheelchair playing indoor racket ball]({{ site.baseurl }}{{ page.image-directory }}chapter10/indoor-court-ball.jpg){: .float-right .thumbnail}
+![photo of man in wheelchair playing indoor racket ball]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/indoor-court-ball.jpg){: .float-right .thumbnail}
 _Whenever any barrier stands between you and the full rights and dignity of citizenship, we must work to remove it, in the name of simple decency and justice. The promise of the ADA...has enabled people with disabilities to enjoy much greater access to a wide range of affordable travel, recreational opportunities and life-enriching services."_
 
 President George W. Bush, New Freedom Initiative, February 1, 2001
@@ -120,12 +120,12 @@ When provided, dressing, fitting, or locker rooms must be accessible and comply 
 
 If lockers are provided, at least 5 percent, but not less than one of each type (full, half, quarter, etc.) must be accessible. Accessible benches should be located adjacent to the accessible lockers.
 
-![illustration of accessible lockers]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-s9.jpg){: .img-large}
+![illustration of accessible lockers]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/page-s9.jpg){: .img-large}
 
 #### Benches
 Accessible benches are required in dressing, fitting, and locker rooms, and where seating is provided in saunas and steam rooms. Benches must have a clear floor space positioned to allow persons using wheelchairs or other mobility devices to approach parallel to the short end of a bench seat. In saunas and steam rooms, this floor space may be obstructed by readily removable seats.
 
-![illustration of freestanding accessible bench and accessible bench against a wall]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-s10.jpg){: .img-large}
+![illustration of freestanding accessible bench and accessible bench against a wall]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/page-s10.jpg){: .img-large}
 
 Benches must have seats that are a minimum of 20 inches to a maximum of 24 inches in depth and 42 inches minimum in length. The seat height should be a minimum of 17 inches to a maximum of 19 inches above the finished floor. If the bench is not located next to a wall, the bench must have back support that is 42 inches minimum in length and extends from a point 2 inches maximum above the seat to a point 18 inches minimum above the bench. Benches must be strong enough to withstand a vertical or horizontal force of 250 pounds applied at any point on the seat, fastener, mounting device, or supporting structure. The provisions for benches are not intended to apply to park benches or other benches used for sitting or resting.
 
@@ -137,7 +137,7 @@ Where provided, fixed team or player seating areas must contain the number of wh
 
 Wheelchair spaces in the team player seating areas are exempt from the requirements related to admission price and line of sight choices in assembly areas. It is recommended that ramps be used wherever possible for accessible routes connecting team or player seating areas and areas of sport activity. However, a platform lift may be used as part of an accessible route to team player seating areas.
 
-![illustration of a team seating area with a wheelchair space]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-s11.jpg){: .img-large}
+![illustration of a team seating area with a wheelchair space]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/page-s11.jpg){: .img-large}
 
 ### Saunas and Steam Rooms
 
@@ -145,7 +145,7 @@ If saunas or steam rooms are in a cluster, at least 5 percent, but not less than
 
 ### Exercise Equipment and Machines
 
-![exercise equipment]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports1.jpg){: .float-right .img-right}
+![exercise equipment]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/sports1.jpg){: .float-right .img-right}
 
 At least one of each type of exercise equipment or machine must have clear floor space of at least 30 by 48 inches and be served by an accessible route. If the clear space is enclosed on three sides (e.g., by walls or the equipment itself), the clear space must be at least 36 by 48 inches.
 
@@ -161,7 +161,7 @@ Designers and operators are encouraged to select exercise equipment that provide
 
 ### Shooting Facilities
 
-![photo of persons using wheelchairs at shooting range]({{ site.baseurl }}{{ page.image-directory }}chapter10/pva.jpg){: .float-right .img-right}
+![photo of persons using wheelchairs at shooting range]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/pva.jpg){: .float-right .img-right}
 
 If facilities provide fixed firing positions, at least 5 percent, but not less than one of each type of fixed firing position must be served by an accessible route. Fixed firing positions must have a 60-inch diameter space with slopes not steeper than 1:48 so a wheelchair user can turn around and have a level place from which to shoot.
 
@@ -171,7 +171,7 @@ Types of different firing positions include positions with different admission p
 
 At least 5 percent, but not less than one, of each type of bowling lane must be accessible. Unlike other areas of sport activity, only those team or player seating areas that serve accessible lanes must be connected with an accessible route and comply with seating requirements. Spectator seating in bowling facilities is addressed in ADAAG and will require wheelchair spaces, companion seating, and designated aisle seats.
 
-![illustration of accessible route connecting accessible lanes and team player areas]({{ site.baseurl }}{{ page.image-directory }}chapter10/page-14.jpg){: .img-large}
+![illustration of accessible route connecting accessible lanes and team player areas]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/page-14.jpg){: .img-large}
 
 ### Provision Index
 
