@@ -4,9 +4,11 @@ order-number: 1010
 file: sports.pdf
 file-description: PDF version of Chapter 10 Sports Facilities Guide
 ---
+<div class="clearfix" markdown="1">
 ![boy using wheelchair playing basketball]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/sports_small.jpg){: .float-right .thumbnail}
 
 _The products shown in this guide are only intended to serve as examples to illustrate the accessibility guidelines, and are not intended as endorsements of the products. Other products may be available. The Access Board does not evaluate or certify products for compliance with the accessibility guidelines. Users are advised to obtain and review product specifications for compliance with the accessibility guidelines._
+</div>
 
 * * *
 
@@ -66,7 +68,7 @@ The public was given an opportunity to comment on the recommended accessibility 
 
 ### Accessible Sports Facilities
 <div class="clearfix" markdown="1">
-![photo of man in wheelchair playing indoor racket ball]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/indoor-court-ball.jpg){: .float-right .thumbnail}
+![photo of man in wheelchair playing indoor racket ball]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/indoor-court-ball.jpg){: .float-right .img-right}
 _Whenever any barrier stands between you and the full rights and dignity of citizenship, we must work to remove it, in the name of simple decency and justice. The promise of the ADA...has enabled people with disabilities to enjoy much greater access to a wide range of affordable travel, recreational opportunities and life-enriching services."_
 
 President George W. Bush, New Freedom Initiative, February 1, 2001
