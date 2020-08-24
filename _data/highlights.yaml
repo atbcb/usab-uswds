@@ -7,7 +7,7 @@
   description: "Standards issued under the Rehabilitation Act (§508) and the Communications Act."
   image-file:  communications.jpg
   alt: "photo of hands typing on keyboard"
-  link: ict.html
+  link: /ict.html
 - title: Transportation Vehicles
   description: "ADA Guidelines for transportation vehicles and systems."
   image-file: transportation.jpg
