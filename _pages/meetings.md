@@ -17,19 +17,19 @@ Meeting webcasts are archived.
 
 The next committee and Board meetings will be:
 
-> ***July 27 - 29, 2020***  
+> ***September 14 - 16, 2020***  
 >  
 > **Board Meeting**  
-> **July 29, 1:30 - 3:00**  
->  *[Join webcast]*
+> **September 16, 1:30 - 3:00**  
+>  *\[Join webcast]*
 
 Meetings are held at the Board’s [conference space](venue.html) at 1331 F Street NW, Suite 800, in downtown Washington, DC.&nbsp;
-For the comfort of all participants and to promote a [fragrance-free](../about) environment, attendees are requested not to use perfume, cologne, or other fragrances.&nbsp;
+For the comfort of all participants and to promote a [fragrance-free](/about/policy/ffe.html) environment, attendees are requested not to use perfume, cologne, or other fragrances.
+
 The Board usually substitutes one of its meetings each year for a town hall forum outside Washington, DC.
 
 ## Upcoming Board Meetings
 
-- July 27 - 29, 2020
 - September 14 - 16, 2020
 - November 16 - 18, 2020
 - January 11 - 13, 2021
@@ -60,7 +60,7 @@ The Board usually substitutes one of its meetings each year for a town hall foru
 - [July 12, 2017](http://www.yorkmedia.com/accessboard/2017/07/12/)
 - [September 13, 2017](http://www.yorkmedia.com/accessboard/2017/09/13/)
 - [November 15, 2017](http://www.yorkmedia.com/accessboard/2017/11/15/)
-- [Cancelled:  January 8-10, 2018]
+- \[Cancelled:  January 8-10, 2018]
 - [March 14, 2018](http://www.yorkmedia.com/accessboard/2018/03/14/)
 - [July 11, 2018](http://www.yorkmedia.com/accessboard/2018/07/11/)
 - [September 7, 2018](http://www.yorkmedia.com/accessboard/2018/09/07/)
