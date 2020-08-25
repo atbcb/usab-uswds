@@ -1,21 +1,13 @@
-<div class="desktop:grid-col-2 padding-bottom-4 border">
-  <h4>Additional Resources</h4>
-  <ul class="usa-list usa-list--unstyled padding-top-2">
-    <li class="padding-bottom-1">
-      <a class="usa-link" href="{{ site.baseurl }}/ada/">ADA Standards</a>
-    </li>
-    <li class="padding-bottom-1">
-      <a class="usa-link" href="{{ site.baseurl }}/ada/enhanced.html">Enhanced Navigation Version</a>
-    </li>
-    <li class="padding-bottom-1">
-      <a class="usa-link" href="{{ site.baseurl }}/ada/guides/">Guide to the Standards</a>
-    </li>
-    <li class="padding-bottom-1">
-      <a class="usa-link" href="{{ site.baseurl }}/ada/guides/animations/">Animations</a>
-    </li>
-    <li class="padding-bottom-1">
-      <a class="usa-link" href="{{ site.baseurl }}/ada/background/">Background information</a>
-    </li>
-  </ul>
-  {% include technical-assistance.html %}
+<div class="desktop:grid-col-2 margin-2">
+  <div class="padding-2 border sticky">
+    <div class="">
+        {% if page.url == '/ada/' %}
+        <a class="usa-link" href="{{ site.baseurl }}/ada/guides/"><button class="usa-button">Guide to the Standards</button></a>
+        {% else %}
+        <a class="usa-link" href="{{ site.baseurl }}/ada/"><button class="usa-button">Back to ADA Standards</button></a>
+        {% endif %}
+    </div>
+    {% include technical-assistance.html %}
+    {% include back-to-top.html %}
+  </div>
 </div>

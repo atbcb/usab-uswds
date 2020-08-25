@@ -76,24 +76,22 @@ primary_navigation:
   - name: Guidelines & Standards
     url: /gs/
     children:
-      - name: Communications & IT (Section 508)
+      - name: IT & Communication (Section 508)
         url: /gs/ict.html
-      - name: Americans with Disabilities Act (ADA)
+      - name: Americans with Disabilities Act
         url: /ada/
-      - name: Architectural Barriers Act (ABA)
+      - name: Architectural Barriers Act
         url: /aba/
-      - name: Public Rights-of-Way (PROWAG)
-        url: /prowag/
-      - name: Vehicles
+      - name: Transportation Vehicles
         url: /ada/vehicles/
-      - name: Passenger Vessels (PVAG)
+      - name: Public Rights-of-Way
+        url: /prowag/
+      - name: Passenger Vessels
         url: /pvag/
-      - name: Medical Diagnostic Equipment (MDE)
+      - name: Medical Diagnostic Equipment
         url: /mde/
-      - name: Learn more
-        url: /guidelines-&-standards/learn-more/
-      - name: Archive
-        url: /guidelines-&-standards/archive/
+      - name: Prescription Drug Labels
+        url: /rx.html
   - name: Training & Webinars
     url: /webinars/
   - name: File an ABA complaint
@@ -369,4 +367,7 @@ assets:
     - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
     - node_modules/stickyfilljs/dist
+    - node_modules/stickyfilljs/dist
+    - node_modules/video.js/dist
+    - node_modules/videojs-youtube/dist
     - images

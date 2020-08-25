@@ -1,0 +1,12 @@
+<h3>{{ include.name }}</h3>
+<video
+  id="{{ include.name | replace: " ", "-" }}-video"
+  class="video-js vjs-default-skin vjs-fluid"
+  data-setup='{}'
+  controls
+  fluid
+  preload
+>
+  <source src="{{ include.video_path }}" type="video/mp4" />
+  <track src="{{ include.caption_path }}" kind="captions" srclang="en" default="default" ></track>
+</video>
