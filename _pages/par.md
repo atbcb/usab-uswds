@@ -14,16 +14,13 @@ Independent Auditor's Report and Financial Statements
 
 ## TABLE OF CONTENTS
  
-- [AGENCY HEAD MESSAGE](#head)
-- [MANAGEMENT DISCUSSION AND ANALYSIS](#mda)
-- [INDEPENDENT AUDITOR'S REPORT ON THE FINANCIAL STATEMENTS](#iar)
-- [FINANCIAL STATEMENTS AND NOTES](#fs)
+- [MANAGEMENT DISCUSSION AND ANALYSIS](#management-discussion-and-analysis)
+- [INDEPENDENT AUDITOR'S REPORT AND FINANCIAL STATEMENTS](#independent-auditors-report-and-financial-statements)
+- [FINANCIAL STATEMENTS AND NOTES](#financial-statements-and-notes)
 
 * * *
 
-<a name="head"></a> November 9, 2018
-
-I am pleased to present the Access Board’s Performance and Accountability Report for Fiscal Year 2018\. This report provides key information on the Access Board’s progress in meeting its mission and managing its financial responsibilities. Our agency has a proud history of serving the public through its programs devoted to accessibility for people with disabilities.
+I am pleased to present the Access Board’s Performance and Accountability Report for Fiscal Year 2018. This report provides key information on the Access Board’s progress in meeting its mission and managing its financial responsibilities. Our agency has a proud history of serving the public through its programs devoted to accessibility for people with disabilities.
 
 Fiscal Year 2018 was a year of continued success. The Access Board continues to develop accessibility requirements, provide technical assistance and training, and enforce access requirements for the Federal government. We will continue to strive for excellence to fulfill our responsibilities to provide accessibility for people with disabilities.
 
@@ -36,7 +33,7 @@ Executive Director
 
 * * *
 
-## <a name="mda"></a> MANAGEMENT DISCUSSION AND ANALYSIS
+## MANAGEMENT DISCUSSION AND ANALYSIS
 
 ### INTRODUCTION
 
@@ -224,7 +221,7 @@ The principal financial statements for the Access Board have been prepared to re
 
 * * *
 
-## <a name="iar"></a> INDEPENDENT AUDITOR'S REPORT AND FINANCIAL STATEMENTS
+## INDEPENDENT AUDITOR'S REPORT AND FINANCIAL STATEMENTS
 
 FOR THE FISCAL YEARS ENDED SEPTEMBER 30, 2018 AND 2017
 
@@ -334,7 +331,7 @@ November 9, 2018
 
 * * *
 
-## <a name="fs"></a> FINANCIAL STATEMENTS AND NOTES
+## FINANCIAL STATEMENTS AND NOTES
 
 ### UNITED STATES ACCESS BOARD BALANCE SHEET AS OF SEPTEMBER 30, 2018 AND 2017(In Dollars) ###
 
@@ -346,9 +343,9 @@ November 9, 2018
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000; text-align: center;">**2018**</td>
+<td style="border: 1px solid #000000; text-align: center;"><strong>2018</strong></td>
 
-<td style="border: 1px solid #000000; text-align: center;">**2017**</td>
+<td style="border: 1px solid #000000; text-align: center;"><strong>2017</strong></td>
 
 </tr>
 
@@ -356,7 +353,7 @@ November 9, 2018
 
 <td style="border: 1px solid #000000;">
 
-**Assets:**   
+<strong>Assets:</strong>   
 
 </td>
 
@@ -370,7 +367,7 @@ November 9, 2018
 
 <td style="border: 1px solid #000000;">
 
-**Intragovernmental**
+<strong>Intragovernmental</strong>
 
 </td>
 
@@ -382,7 +379,7 @@ November 9, 2018
 
 <tr>
 
-<td style="border: 1px solid #000000;">Fund Balance With Treasury ([Note 2](#n2))</td>
+<td style="border: 1px solid #000000;">Fund Balance With Treasury (<a href="#note-2-fund-balance-with-treasury">Note 2</a>)</td>
 
 <td style="border: 1px solid #000000;">$2,741,963</td>
 
@@ -392,7 +389,7 @@ November 9, 2018
 
 <tr>
 
-<td style="border: 1px solid #000000;">Other ([Note 5](#n5))</td>
+<td style="border: 1px solid #000000;">Other (<a href="#note-5-other-assets">Note 5</a>)</td>
 
 <td style="border: 1px solid #000000;">437,164</td>
 
@@ -416,7 +413,7 @@ Total Intragovernmental
 
 <tr>
 
-<td style="border: 1px solid #000000;">1,902,247Accounts Receivable, Net ([Note 3](#n3))</td>
+<td style="border: 1px solid #000000;">1,902,247Accounts Receivable, Net (<a href="#note-3-accounts-receivable-net">Note 3</a>)</td>
 
 <td style="border: 1px solid #000000;">4,034</td>
 
@@ -428,7 +425,7 @@ Total Intragovernmental
 
 <td style="border: 1px solid #000000;">
 
-Property, Equipment, and Software, Net ([Note 4](#n4))
+Property, Equipment, and Software, Net (<a href="#note-4-property-equipment-and-software-net">Note 4</a>)
 
 </td>
 
@@ -464,7 +461,7 @@ $2,095,938
 
 <td style="border: 1px solid #000000;">
 
-**Liabilities:**   
+<strong>Liabilities:</strong>   
 
 </td>
 
@@ -500,7 +497,7 @@ Intragovernmental
 
 <tr>
 
-<td style="border: 1px solid #000000;">Other ([Note 7](#n7))</td>
+<td style="border: 1px solid #000000;">Other (<a href="#note-7-other-liabilities">Note 7</a>)</td>
 
 <td style="border: 1px solid #000000;">38,994</td>
 
@@ -554,7 +551,7 @@ Accounts Payable
 
 <tr>
 
-<td style="border: 1px solid #000000;">Other ([Note 7](#n7))</td>
+<td style="border: 1px solid #000000;">Other (<a href="#note-7-other-liabilities">Note 7</a>)</td>
 
 <td style="border: 1px solid #000000;">384,842</td>
 
@@ -566,7 +563,7 @@ Accounts Payable
 
 <td style="border: 1px solid #000000;">
 
-Total Liabilities ([Note 6](#n6))
+Total Liabilities (<a href="#note-6-liabilities-not-covered-by-budgetary-resources">Note 6</a>)
 
 </td>
 
@@ -588,7 +585,7 @@ Total Liabilities ([Note 6](#n6))
 
 <td style="border: 1px solid #000000;">
 
-**Net Position:**  
+<strong>Net Position:</strong>  
 
 </td>
 
@@ -678,7 +675,7 @@ $2,095,938
 
 </table>
 
-The accompanying [notes](#notes) are an integral part of these financial statements.
+The accompanying [notes](#united-states-access-board-notes-to-the-financial-statements) are an integral part of these financial statements.
 
 * * *
 
@@ -692,9 +689,9 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000; text-align: center;">**2018**</td>
+<td style="border: 1px solid #000000; text-align: center;"><strong>2018</strong></td>
 
-<td style="border: 1px solid #000000; text-align: center;">**2017**</td>
+<td style="border: 1px solid #000000; text-align: center;"><strong>2017</strong></td>
 
 </tr>
 
@@ -702,7 +699,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td style="border: 1px solid #000000;">
 
-**Program Costs: **
+<strong>Program Costs: </strong>
 
 </td>
 
@@ -778,7 +775,7 @@ Net Program Costs
 
 <td style="border: 1px solid #000000;">
 
-Net Cost of Operations ([Note 12](#n12))
+Net Cost of Operations (<a href="#note-12-reconciliation-of-net-cost-of-operations-to-budget>Note 12</a>)
 
 </td>
 
@@ -800,7 +797,7 @@ Net Cost of Operations ([Note 12](#n12))
 
 </table>
 
-The accompanying [notes](#notes) are an integral part of these financial statements.
+The accompanying [notes](#united-states-access-board-notes-to-the-financial-statements) are an integral part of these financial statements.
 
 * * *
 
@@ -814,15 +811,15 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td align="center" style="border: 1px solid #000000;"> </td>
 
-<td align="center" style="border: 1px solid #000000;">**2018**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**2017**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Unexpended Appropriations:**</td>
+<td style="border: 1px solid #000000;"><strong>Unexpended Appropriations:</strong></td>
 
 <td style="border: 1px solid #000000;"> </td>
 
@@ -842,7 +839,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Budgetary Financing Sources:**</td>
+<td style="border: 1px solid #000000;"><strong>Budgetary Financing Sources:</strong></td>
 
 <td style="border: 1px solid #000000;"> </td>
 
@@ -904,7 +901,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td style="border: 1px solid #000000;">
 
-**Cumulative Results of Operations:**  
+<strong>Cumulative Results of Operations:</strong>  
 
 </td>
 
@@ -934,7 +931,7 @@ $(69,111)
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Budgetary Financing Sources:**</td>
+<td style="border: 1px solid #000000;"><strong>Budgetary Financing Sources:</strong></td>
 
 <td style="border: 1px solid #000000;"> </td>
 
@@ -954,7 +951,7 @@ $(69,111)
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Other Financing Sources (Non-Exchange):**</td>
+<td style="border: 1px solid #000000;"><strong>Other Financing Sources (Non-Exchange):</strong></td>
 
 <td style="border: 1px solid #000000;"> </td>
 
@@ -1050,7 +1047,7 @@ Cumulative Results of Operations
 
 </table>
 
-The accompanying [notes](#notes) are an integral part of these financial statements.
+The accompanying [notes](#united-states-access-board-notes-to-the-financial-statements) are an integral part of these financial statements.
 
 * * *
 
@@ -1064,9 +1061,9 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td align="center" style="border: 1px solid #000000;"> </td>
 
-<td align="center" style="border: 1px solid #000000;">**2018**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**2017**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -1074,7 +1071,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td style="border: 1px solid #000000;">
 
-**Budgetary Resources:** 
+<strong>Budgetary Resources:</strong> 
 
 </td>
 
@@ -1126,7 +1123,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Memorandum (non-add) entries:**</td>
+<td style="border: 1px solid #000000;"><strong>Memorandum (non-add) entries:</strong></td>
 
 <td style="border: 1px solid #000000;"> </td>
 
@@ -1148,7 +1145,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td style="border: 1px solid #000000;">
 
-**Status of Budgetary Resources:**
+<strong>Status of Budgetary Resources:</strong>
 
 </td>
 
@@ -1162,7 +1159,7 @@ The accompanying [notes](#notes) are an integral part of these financial stateme
 
 <td style="border: 1px solid #000000;">
 
-New obligations and upward adjustments (total)([Note 10](#n10))
+New obligations and upward adjustments (total)(<a href="#note-10-apportionment-categories-of-obligations-incurred">Note 10</a>)
 
 </td>
 
@@ -1260,7 +1257,7 @@ $9,080,322
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Outlays, net:**</td>
+<td style="border: 1px solid #000000;"><strong>Outlays, net:</strong></td>
 
 <td style="border: 1px solid #000000;"> </td>
 
@@ -1294,13 +1291,13 @@ $8,073,243
 
 </table>
 
-The accompanying [notes](#notes) are an integral part of these financial statements.
+The accompanying [notes](#united-states-access-board-notes-to-the-financial-statements) are an integral part of these financial statements.
 
 * * *
 
-## <a name="notes"></a> UNITED STATES ACCESS BOARD NOTES TO THE FINANCIAL STATEMENTS
+## UNITED STATES ACCESS BOARD NOTES TO THE FINANCIAL STATEMENTS
 
-### <a name="n1"></a> NOTE 1\. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+### NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
 
 #### A. Reporting Entity
 
@@ -1392,7 +1389,7 @@ Federal Government entities often receive goods and services from other Federal 
 
 Certain fiscal year 2016 balances have been reclassified, retitled, or combined with other financial statement line items for consistency with the current year presentation.
 
-### <a name="n2"></a> NOTE 2\. FUND BALANCE WITH TREASURY
+### NOTE 2. FUND BALANCE WITH TREASURY
 
 Fund balance with Treasury account balances as of September 30, 2018 and 2017were as follows:
 
@@ -1404,9 +1401,9 @@ Fund balance with Treasury account balances as of September 30, 2018 and 2017wer
 
 <td align="center" style="border: 1px solid #000000;"> </td>
 
-<td align="center" style="border: 1px solid #000000;">**2018**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**2017**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -1414,7 +1411,7 @@ Fund balance with Treasury account balances as of September 30, 2018 and 2017wer
 
 <td style="border: 1px solid #000000;">
 
-**Status of Fund Balance with Treasury:**    
+<strong>Status of Fund Balance with Treasury:</strong>    
 
 </td>
 
@@ -1502,7 +1499,7 @@ The unavailable unobligated fund balances represent the amount of appropriations
 
 The obligated balance not yet disbursed includes accounts payable, accrued expenses, and undelivered orders that have reduced unexpended appropriations but have not yet decreased the fund balance on hand.
 
-### <a name="n3"></a> NOTE 3\. ACCOUNTS RECEIVABLE, NET
+### NOTE 3. ACCOUNTS RECEIVABLE, NET
 
 <table style="width: 600px; border: 1px solid #000000;">
 
@@ -1512,9 +1509,9 @@ The obligated balance not yet disbursed includes accounts payable, accrued expen
 
 <td align="center" style="border: 1px solid #000000;"> </td>
 
-<td align="center" style="border: 1px solid #000000;">**2018**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**2017**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -1576,7 +1573,7 @@ $4,483
 
 The accounts receivable is primarily other receivables with the public. Historical experience has indicated that the majority of the receivables are collectible. There are no material uncollectible accounts as of September 30, 2018 and 2017.
 
-#### <a id="n4"></a> NOTE 4\. PROPERTY, EQUIPMENT, AND SOFTWARE, NET
+### NOTE 4. PROPERTY, EQUIPMENT, AND SOFTWARE, NET
 
 Schedule of Leasehold Improvement as of September 30, 2018
 
@@ -1586,13 +1583,13 @@ Schedule of Leasehold Improvement as of September 30, 2018
 
 <tr>
 
-<td align="center" style="border: 1px solid #000000;">**Major Class**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>Major Class</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**Acquisition Cost**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>Acquisition Cost</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**Accumulated Amortization/ Depreciation**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>Accumulated Amortization/ Depreciation</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**Net Book Value**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>Net Book Value</strong></td>
 
 </tr>
 
@@ -1656,13 +1653,13 @@ Schedule of Leasehold Improvement as of September 30, 2017
 
 <tr>
 
-<td style="border: 1px solid #000000;">**Major Class**</td>
+<td style="border: 1px solid #000000;"><strong>Major Class</strong></td>
 
-<td style="border: 1px solid #000000;">**Acquisition Cost**</td>
+<td style="border: 1px solid #000000;"><strong>Acquisition Cost</strong></td>
 
-<td style="border: 1px solid #000000;">**Accumulated **Amortization/ **Depreciation**</td>
+<td style="border: 1px solid #000000;"><strong>Accumulated Amortization/ Depreciation</strong></td>
 
-<td style="border: 1px solid #000000;">**Net Book Value**</td>
+<td style="border: 1px solid #000000;"><strong>Net Book Value</strong></td>
 
 </tr>
 
@@ -1718,7 +1715,7 @@ $189,208
 
 </table>
 
-#### <a name="n5"></a> NOTE 5\. OTHER ASSETS
+### NOTE 5. OTHER ASSETS
 
 Other assets account balances as of September 30, 2018 and 2017
 
@@ -1730,9 +1727,9 @@ Other assets account balances as of September 30, 2018 and 2017
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000;">**2018**</td>
+<td style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td style="border: 1px solid #000000;">**2017**</td>
+<td style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -1776,7 +1773,7 @@ Intragovernmental
 
 Access Board began posting NBC Administrative Office procurement orders as prepayments in 2018.
 
-#### <a name="n6"></a> NOTE 6\. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
+### NOTE 6. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
 The liabilities on Access Board’s Balance Sheet as of September 30, 2018 and 2017, include liabilities not covered by budgetary resources. Congressional action is needed before budgetary resources can be provided. Although future appropriations to fund these liabilities are likely and anticipated, it is not certain that appropriations will be enacted to fund these liabilities.
 
@@ -1788,9 +1785,9 @@ The liabilities on Access Board’s Balance Sheet as of September 30, 2018 and 2
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000;">**2018**</td>
+<td style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td style="border: 1px solid #000000;">**2017**</td>
+<td style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -1876,7 +1873,7 @@ The FECA liability represents the unfunded liability for actual workers compensa
 
 Unfunded leave represents a liability for earned leave and is reduced when leave is taken. The balance in the accrued annual leave account is reviewed quarterly and adjusted as needed to accurately reflect the liability at current pay rates and leave balances. Accrued annual leave is paid from future funding sources and, accordingly, is reflected as a liability not covered by budgetary resources. Sick and other leave is expensed as taken.
 
-#### <a name="n7"></a> NOTE 7\. OTHER LIABILITIES
+### NOTE 7. OTHER LIABILITIES
 
 Other liabilities account balances as of September 30, 2018 were as follows:
 
@@ -1888,11 +1885,11 @@ Other liabilities account balances as of September 30, 2018 were as follows:
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000;">**Current**</td>
+<td style="border: 1px solid #000000;"><strong>Current</strong></td>
 
-<td style="border: 1px solid #000000;">**Non Current**</td>
+<td style="border: 1px solid #000000;"><strong>Non Current</strong></td>
 
-<td style="border: 1px solid #000000;">**Total**</td>
+<td style="border: 1px solid #000000;"><strong>Total</strong></td>
 
 </tr>
 
@@ -2070,11 +2067,11 @@ Other liabilities account balances as of September 30, 2017 were as follows:
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000;">**Current**</td>
+<td style="border: 1px solid #000000;"><strong>Current</strong></td>
 
-<td style="border: 1px solid #000000;">**Non Current**</td>
+<td style="border: 1px solid #000000;"><strong>Non Current</strong></td>
 
-<td style="border: 1px solid #000000;">**Total**</td>
+<td style="border: 1px solid #000000;"><strong>Total</strong></td>
 
 </tr>
 
@@ -2246,7 +2243,7 @@ With the Public
 
 </table>
 
-### <a id="n8"></a> NOTE 8\. LEASES
+### NOTE 8. LEASES
 
 #### Operating Leases
 
@@ -2258,9 +2255,9 @@ Access Board occupies office space under a lease agreement with GSA that is acco
 
 <tr>
 
-<td align="center" style="border: 1px solid #000000;">**Fiscal Year**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>Fiscal Year</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**Totals**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>Totals</strong></td>
 
 </tr>
 
@@ -2308,7 +2305,7 @@ $2,060,411
 
 </table>
 
-### <a name="n9"></a> NOTE 9\. BUDGETARY RESOURCE COMPARISONS TO THE BUDGET OF THE UNITED STATES GOVERNMENT
+### NOTE 9. BUDGETARY RESOURCE COMPARISONS TO THE BUDGET OF THE UNITED STATES GOVERNMENT
 
 The President’s Budget that will include fiscal year 2017 actual budgetary execution information has not yet been published. The President’s Budget is scheduled for publication in February 2019 and can be found at the OMB Web site: [www.whitehouse.gov/omb](https://www.whitehouse.gov/omb) The 2019 Budget of the United States Government, with the "Actual" column completed for 2017, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
 
@@ -2318,16 +2315,16 @@ The President’s Budget that will include fiscal year 2017 actual budgetary exe
 
 <tr>
 
-<td style="border: 1px solid #000000;">**FY 2017**</td>
+<td style="border: 1px solid #000000;"><strong>FY 2017</strong></td>
 
-<td style="border: 1px solid #000000;">**Budgetary Resources**</td>
+<td style="border: 1px solid #000000;"><strong>Budgetary Resources</strong></td>
 
-<td style="border: 1px solid #000000;">**Obligations Incurred**</td>
+<td style="border: 1px solid #000000;"><strong>Obligations Incurred</strong></td>
 
-<td style="border: 1px solid #000000;">**Distributed  
-Offsetting Receipts**</td>
+<td style="border: 1px solid #000000;"><strong>Distributed  
+    Offsetting Receipts</strong></td>
 
-<td style="border: 1px solid #000000;">**Net Outlays**</td>
+<td style="border: 1px solid #000000;"><strong>Net Outlays</strong></td>
 
 </tr>
 
@@ -2401,7 +2398,7 @@ $8,000,000
 
 </table>
 
-### <a name="n10"></a> NOTE 10\. APPORTIONMENT CATEGORIES OF OBLIGATIONS INCURRED
+### NOTE 10. APPORTIONMENT CATEGORIES OF OBLIGATIONS INCURRED
 
 Obligations incurred and reported in the Statement of Budgetary Resources in 2018 and 2017consisted of the following:
 
@@ -2413,9 +2410,9 @@ Obligations incurred and reported in the Statement of Budgetary Resources in 201
 
 <td align="center" style="border: 1px solid #000000;"> </td>
 
-<td align="center" style="border: 1px solid #000000;">**2018**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**2017**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -2491,7 +2488,7 @@ $8,032,630
 
 Category A apportionments distribute budgetary resources by fiscal quarters.
 
-### <a name="n11" id="n11"></a> NOTE 11\. UNDELIVERED ORDERS AT THE END OF THE PERIOD
+### NOTE 11. UNDELIVERED ORDERS AT THE END OF THE PERIOD
 
 As of September 30, 2018, budgetary resources obligated for undelivered orders were as follows:
 
@@ -2503,11 +2500,11 @@ As of September 30, 2018, budgetary resources obligated for undelivered orders w
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000;">**Federal**</td>
+<td style="border: 1px solid #000000;"><strong>Federal</strong></td>
 
-<td style="border: 1px solid #000000;">**Non-Federal**</td>
+<td style="border: 1px solid #000000;"><strong>Non-Federal</strong></td>
 
-<td style="border: 1px solid #000000;">**Total**</td>
+<td style="border: 1px solid #000000;"><strong>Total</strong></td>
 
 </tr>
 
@@ -2597,11 +2594,11 @@ As of September 30, 2017, budgetary resources obligated for undelivered orders w
 
 <td style="border: 1px solid #000000;"> </td>
 
-<td style="border: 1px solid #000000;">**Federal**</td>
+<td style="border: 1px solid #000000;"><strong>Federal</strong></td>
 
-<td style="border: 1px solid #000000;">**Non-Federal**</td>
+<td style="border: 1px solid #000000;"><strong>Non-Federal</strong></td>
 
-<td style="border: 1px solid #000000;">**Total**</td>
+<td style="border: 1px solid #000000;"><strong>Total</strong></td>
 
 </tr>
 
@@ -2677,7 +2674,7 @@ Total Undelivered Orders
 
 </table>
 
-### <a name="n12" id="n12"></a> NOTE 12\. RECONCILIATION OF NET COST OF OPERATIONS TO BUDGET
+### NOTE 12. RECONCILIATION OF NET COST OF OPERATIONS TO BUDGET
 
 Access Board has reconciled its budgetary obligations and non-budgetary resources available to its net cost of operations.
 
@@ -2689,9 +2686,9 @@ Access Board has reconciled its budgetary obligations and non-budgetary resource
 
 <td align="center" style="border: 1px solid #000000;"> </td>
 
-<td align="center" style="border: 1px solid #000000;">**2018**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2018</strong></td>
 
-<td align="center" style="border: 1px solid #000000;">**2017**</td>
+<td align="center" style="border: 1px solid #000000;"><strong>2017</strong></td>
 
 </tr>
 
@@ -2699,7 +2696,7 @@ Access Board has reconciled its budgetary obligations and non-budgetary resource
 
 <td style="border: 1px solid #000000;">
 
-**Resources Used to Finance Activities**        
+<strong>Resources Used to Finance Activities</strong>        
 
 </td>
 
@@ -2880,7 +2877,7 @@ Generate Resources in the Current Period:
 
 <td style="border: 1px solid #000000;">
 
-**Net Cost of Operations**
+<strong>Net Cost of Operations</strong>
 
 </td>
 
