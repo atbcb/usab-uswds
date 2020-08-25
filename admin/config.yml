@@ -46,7 +46,7 @@ collections:
           dateFormat: "MMMM D, YYYY",
           timeFormat: false,
         }
-      - { label: "Excerpt", name: "excerpt", widget: "string", required: false }
+      - { label: "Excerpt", name: "excerpt", widget: "string", required: true }
       - {
           label: "Image",
           name: "image",
