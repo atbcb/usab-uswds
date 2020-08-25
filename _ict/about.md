@@ -11,7 +11,7 @@ file-description: Single file PDF version of the Revised 508 Standards and 255 G
 {% asset communications.jpg class="usa-media-block__img" alt="photo of hands typing on keyboard" width="150" %}
 {% include communications.html %}
 
-## Revised Seciton 508 Standards and Section 255 Guidelines (2017)
+## Revised Section 508 Standards and Section 255 Guidelines (2017)
 
 {% asset icon-tablet-refresh.png class="usa-media-block__img" alt="smart-phone refresh icon" %}
 On January 18, 2017, the Access Board published a [final rule](https://federalregister.gov/d/2017-00395) that jointly updates requirements for information and communication technology covered by Section 508 of the Rehabilitation Act and Section 255 of the Communication Act.
@@ -50,7 +50,7 @@ On January 22, 2018, the Board corrected the final rule to restore provisions fo
     - [Open Question and Answer Session on the Revised 508 Standards](https://www.accessibilityonline.org/cioc-508/archives/110701) (April 30, 2019)
     - [Section 508 Questions and Answers with the Access Board and GSA](https://www.accessibilityonline.org/cioc-508/archives/110777) (January 28, 2020)
 
-### Orginal Section 508 Standards (2000)
+### Original Section 508 Standards (2000)
 
 {% asset icon-old508.png class="usa-media-block__img" alt="old 508 icon" %}
 The Original 508 Standards (December 21, 2000) can be found at [36 CFR Appendix D to Part 1194](https://www.govinfo.gov/content/pkg/CFR-2019-title36-vol3/xml/CFR-2019-title36-vol3-part1194-appD.xml).
