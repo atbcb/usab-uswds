@@ -33,7 +33,7 @@ P.L. 101-336 (July 26, 1990), as amended by P.L. 110–325 (September 25, 2008)
 [Table of Contents](#table-of-contents)  
 [Title I - Employment](#title-i---employment)  
 [Title II - Public Services](#title-ii---public-services)  
-[Title III - Public Accommodations](#title-iii---public-accommodations)  
+[Title III - Public Accommodations](#title-iii---public-accommodations-and-services-operated-by-private-entities)  
 [Title IV - Telecommunications](#title-iv---telecommunications)  
 [Title V - Miscellaneous Provisions](#title-v---miscellaneous-provisions)
 
