@@ -1,6 +1,6 @@
 ---
 title: "About the ADA"
-permalink: /ada/
+permalink: /ada/v1/
 order-number: 1
 version: original
 file: ADA-Standards.pdf
@@ -18,7 +18,3 @@ explains, but does not contain or reprint, the text of the ADA
 Standards.
 
 
-{% include big-button.html
-link= "/ada/guides/"
-text= "Guide to the ADA Standards"
-%}
