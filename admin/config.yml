@@ -69,7 +69,7 @@ collections:
           valueField: "name",
           displayFields: ["name"],
           multiple: true,
-          required: false
+          required: false,
         }
       - {
           label: "Tags",
