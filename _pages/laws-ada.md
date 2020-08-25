@@ -1,5 +1,5 @@
 ---
-title: Americans with Disabilities Act
+title: Americans with Disabilities Act test
 layout: page
 sidenav: true
 permalink: /laws/ada.html
