@@ -3,7 +3,7 @@ title: "Preamble - Supplemental Notice on Shared Use Paths"
 order-number: 0.2
 ---
 
-## 1. Executive Summary
+### 1. Executive Summary
 
 This supplemental notice of proposed rulemaking (SNPRM) proposes to include specific provisions for shared use paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way published in the Federal Register on July 26, 2011. See 76 FR 44664 (July 26, 2011). A copy of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way with the specific provisions for shared use paths proposed in the SNPRM is available below.
 
@@ -28,7 +28,7 @@ As discussed in the preamble to the proposed accessibility guidelines for pedest
 ---
 
 
-## 2. Background
+### 2. Background
 
 We are conducting separate rulemakings to develop accessibility guidelines for trails and other outdoor developed areas, and for sidewalks and other pedestrian facilities in the public right-of-way.
 
@@ -44,7 +44,7 @@ On July 26, 2011, we issued a NPRM requesting comments on proposed accessibility
 ---
 
 
-## 3. Proposed Supplements to Proposed Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
+### 3. Proposed Supplements to Proposed Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
 We are issuing this SNPRM to include specific provisions for shared use paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way published in the Federal Register on July 26, 2011. See [76 FR 44664](https://www.access-board.gov/prowac/nprm.htm) (July 26, 2011). The proposed accessibility guidelines for pedestrian facilities in the public right-of-way will be codified as an appendix to 36 CFR part 1190. The SNPRM would supplement the following sections of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way: R105.5 Defined Terms; R204 and R302 Pedestrian Access Routes; R210 Protruding Objects; R218 Doors, Doorways, and Gates; and R304 Curb Ramps and Blended Transitions. The proposed supplements to these sections are set forth below.
 
@@ -72,8 +72,7 @@ The NPRM proposed to define public right-of-way as public land or property, usua
 
 The SNPRM would revise these sections relating to pedestrian access routes.
 
-*R204.2 Pedestrian Circulation Paths\
-*
+*R204.2 Pedestrian Circulation Paths*
 
 The SNPRM would revise R204.2 to read as follows:
 
@@ -81,8 +80,7 @@ The SNPRM would revise R204.2 to read as follows:
 
 As proposed in the NPRM, R204.2 would require a pedestrian access route to be provided within sidewalks and other pedestrian circulation paths located in the public right-of-way. The NPRM proposed to define a pedestrian circulation path as a prepared exterior or interior surface provided for pedestrian travel in the public right-of-way. See [R105.5](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/proposed-supplements#1055). Sidewalks and shared use paths are types of pedestrian circulation paths. As revised by the SNPRM, the term "pedestrian circulation paths" in R204.2 includes sidewalks and shared use paths.
 
-*R302.3 Continuous Width\
-*
+*R302.3 Continuous Width*
 
 The SNPRM would revise R302.3 to read as follows:
 
@@ -138,8 +136,7 @@ The SNPRM would add a new provision for shared use paths at R210.3 that would pr
 
 The proposed provision for shared used paths is consistent with the AASHTO Guide. The AASHTO Guide recommends 10 feet vertical clearance along shared use paths, and 8 feet minimum vertical clearance in constrained areas. The AASHTO Guide recommends that fixed objects should not be permitted to protrude within the vertical or horizontal clearance of a shared use path. See AASHTO Guide, 5.2.1 Width and Clearance.
 
-*R218 Doors, Doorways, and Gates\
-*
+*R218 Doors, Doorways, and Gates*
 
 The SNPRM would revise R218 to read as follows:
 
@@ -147,8 +144,7 @@ The SNPRM would revise R218 to read as follows:
 
 The SNPRM would not apply the technical provisions for doors, doorways, and gates referenced in R218 to shared use paths to avoid conflicts with the AASHTO Guide. The AASHTO Guide does not recommend the use of gates or other barriers to prevent unauthorized motor vehicle entry to shared use paths because gates and barriers create permanent obstacles to path users. The AASHTO Guide recommends alternative methods to control unauthorized motor vehicle entry to shared use paths, including posting regulatory signs prohibiting motor vehicle entry and targeted surveillance and enforcement. Where there is a documented history of unauthorized entry by motor vehicles despite the use of alternative methods to control such entry, the need for bollards or other vertical barriers may be justified. The AASHTO Guide includes recommended designs for bollards where justified. The AASHTO Guide recommends the use of one bollard in the center of the shared use path. Where more than one bollard is used, the AASHTO Guide recommends an odd number of posts spaced at 6 feet. The AASHTO Guide does not recommend two posts since they direct opposing path users toward the middle, creating conflict and the possibility of a head-on collision. See AASHTO Guide, 5.3.5 Other Intersection Treatments.
 
-*R304 Curb Ramps and Blended Transitions\
-*
+*R304 Curb Ramps and Blended Transitions*
 
 The SNPRM would revise R304.5.1 to read as follows:
 
@@ -169,7 +165,7 @@ The proposed provision for shared used paths is consistent with the AASHTO Guide
 ---
 
 
-## 4. Comparison of Proposed Technical Provisions Applicable to Shared Use Paths and AASHTO Guide
+### 4. Comparison of Proposed Technical Provisions Applicable to Shared Use Paths and AASHTO Guide
 
 The proposed technical provisions applicable to shared used paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way, as supplemented by the SNPRM, and the design criteria for shared use paths in the AASHTO Guide are compared in the table below.
 
@@ -276,7 +272,7 @@ The opening of a shared use path at the roadway should be at least the same widt
  ---
  
  
- ## 5. Conflicts Between Shared Path Users
+### 5. Conflicts Between Shared Path Users
 
 Public comments submitted in response to the ANPRM expressed concern about the risk of collisions between pedestrians who are blind or have low vision and bicyclists who pass them too closely at fast speeds, and at intersections where a shared use path crosses another shared use path or a sidewalk. According to the AASHTO Guide, the 85th percentile speed for recreational bicyclists is 18 miles per hour. See AASHTO Guide, 5.2.4 Design Speed. The comments noted that bicycles are relatively quiet and pedestrians who are blind or have low vision may not be aware when bicyclists are approaching and passing them or crossing their path at intersections. Pedestrians with other disabilities may also have limited awareness of approaching bicyclists. For example, individuals who are deaf or hard of hearing may not be aware of a bicycle approaching from behind even when riders indicate their presence audibly. Individuals with limited mobility who may be alert to bicyclists may find it difficult to move aside in time to avoid collision. The comments recommended that traffic on shared use paths be regulated and strictly enforced in order to protect pedestrians. For example, a comment stated that bicyclists should be required to always yield to pedestrians. The comments also recommended design solutions to avoid conflicts between users, including separate pathways for pedestrians and bicyclists; and detectable warning surfaces at intersections where a shared use path crosses another shared use path or a sidewalk. These design solutions are discussed below.
 
@@ -302,7 +298,7 @@ Because pedestrians who are blind would not be aware of bicyclists approaching f
 ---
 
 
-## 6. Regulatory Analyses
+### 6. Regulatory Analyses
 
 We prepared a preliminary regulatory assessment discussing the cost and benefits of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way and an initial regulatory flexibility analysis of the impacts on small governmental jurisdictions with a population of less than 50,000 when the NPRM was issued. These regulatory analyses are available on our website at: http://www.access-board.gov/prowac/.
 
