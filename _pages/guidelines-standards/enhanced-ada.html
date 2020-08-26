@@ -1,13 +1,46 @@
 ---
-title: Enhanced Navigation version
+title: Enhanced Navigation Version
 layout: standards-enhanced
-permalink: /ada/enhanced.html
-collection-title: "Americans with Disabilities Act Accessibility Standards"
+permalink: /ada/
+collection-title: "Americans with Disabilities Act"
+collection-subtitle: "Accessibility Standards"
 file-directory: /files/ada-aba/
 image-directory: /images/ada-aba/standards/
 left-sidenav: enhanced-toc-ada.html
 right-sidenav: ada-right-sidenav.html
 ---
+<div class="usa-accordion" aria-multiselectable="true">
+
+{% assign ada-chapters = site.ada | where: "title","About the ADA" %}
+{% for chapter in ada-chapters %}
+    <h1 class="usa-accordion__heading">
+        <button class="usa-accordion__button"
+        aria-expanded="true"
+        aria-controls="about">
+        {{chapter.title}}
+      </button>
+    </h1>
+    <div id="about" class="usa-accordion__content usa-prose">
+        {{chapter.content | markdownify}}
+        {% include big-button.html
+            link= "/ada/guides/"
+            text= "Guide to the ADA Standards"
+            %}
+    </div>
+{% endfor %}
+
+{% assign ada-chapters = site.ada | where: "title","DOJ’s 2010 ADA Standards" %}
+{% for chapter in ada-chapters %}
+    <h1 class="usa-accordion__heading">
+        <button class="usa-accordion__button"
+        aria-expanded="true"
+        aria-controls="doj">
+        {{chapter.title}}
+      </button>
+    </h1>
+    <div id="doj" class="usa-accordion__content usa-prose">{{chapter.content}}</div>
+{% endfor %}
+</div>
 
 <!-- FROM STANDARDS ONLY FILE -->
 
@@ -5861,3 +5894,10 @@ right-sidenav: ada-right-sidenav.html
 
 
 <!-- END FROM STANDARDS ONLY FILE -->	
+<script>
+    var v = document.getElementsByClassName("data"); 
+    var i;
+    for (i = 0; i < v.length; i++) {
+      v[i].className += " usa-table";
+    }
+  </script>

@@ -8,29 +8,68 @@ pagination:
 {% include section-title.html title= "Trainings and Webinars" %}
 
  <div class="grid-container maxw-desktop">
-    <div class="grid-row">
+    <div class="grid-row grid-gap margin-top-2">
       <div class="desktop:grid-col-8 usa-prose padding-right-4">
         <!-- This loops through the paginated posts -->
         {% assign webinars = site.posts | where: "webinar","true" %}
+        {% assign today_date = 'now' | date: '%s' %}
+        
+        <h2>Upcoming Webinars</h2>
         {% for webinar in webinars %}
+        {% assign webinar_date = webinar.webinar-start | date: '%s' %}
+        {% if webinar_date > today_date %}
+
         <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
           <h3 class="title">
             <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ webinar.url }}">{{webinar.title}}</a>
           </h3>
           <div class="text-base margin-bottom-2">
             <div class="margin-top-neg-105">
-              <span>Date: {{ webinar.webinar-date | date: '%B %d, %Y' }}</span><br>
-              <span>Time: {{ webinar.webinar-date | time: '%h %m' }}</span><br>
-              <span><a href="{{ webinar.registration-link }}">Registration Link</a></span> 
+              <span class="text-italic">{{ webinar.webinar-start | date: '%B %d, %Y' }}</span>
+              <br>
+              <span class="text-italic">{{ webinar.webinar-start | date: '%I:%M %p' }}{% if webinar.webinar-end %} - {{ webinar.webinar-end | date: '%I:%M %p' }}{% endif %}</span>
+              {% if webinar.registration-link %}
+              <br>
+              <span><a href="{{ webinar.registration-link }}">Registration Link</a></span>
+              {% endif %}
             </div>
           </div>
           <div class="clearfix">
             {% if webinar.image %} {% asset "{{ webinar.image }}"
             class="img-right maxw-card-lg" alt="{{ webinar.image_alt_text }}" %} {% endif %} {{
-            webinar.content }}
+            webinar.excerpt }}
           </div>
         </div>
+        {% endif %}
         {% endfor %}
+
+        <h2>Past Webinars</h2>
+        {% for webinar in webinars %}
+        {% assign webinar_date = webinar.webinar-start | date: '%s' %}
+        {% if webinar_date < today_date %}
+
+        <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
+          <h3 class="title">
+            <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ webinar.url }}">{{webinar.title}}</a>
+          </h3>
+          <div class="text-base margin-bottom-2">
+            <div class="margin-top-neg-105">
+              <span class="text-italic">Presented on: {{ webinar.webinar-start | date: '%B %d, %Y' }}</span>
+              {% if webinar.video-link %}
+              <br>
+              <span><a href="{{ webinar.video-link }}">Watch recorded webinar</a></span>
+              {% endif %}
+            </div>
+          </div>
+          <div class="clearfix">
+            {% if webinar.image %} {% asset "{{ webinar.image }}"
+            class="img-right maxw-card-lg" alt="{{ webinar.image_alt_text }}" %} {% endif %} {{
+            webinar.excerpt }}
+          </div>
+        </div>
+        {% endif %}
+        {% endfor %}
+
         <div>
             <p class="text-italic">This page was last updated at {{ "now" | date: "%Y-%m-%d %H:%M" }}.</p>
         </div>
