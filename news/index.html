@@ -1,0 +1,62 @@
+---
+layout: default
+permalink: /news/
+pagination:
+  enabled: true
+---
+
+{% include section-title.html title= "Accessibility News" description= "" %}
+
+<div class="grid-container maxw-desktop">
+  <div class="grid-row">
+    <div class="desktop:grid-col-8 usa-prose padding-right-4">
+      <!-- This loops through the paginated posts -->
+      {% for post in paginator.posts %}
+      <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
+        <h3 class="title">
+          <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
+        </h3>
+        <div class="text-base margin-bottom-2">
+          <div class="margin-top-neg-105">
+          {% comment %}  By
+            {% for author in post.authors %}
+              {% include author-link.html author=author %}
+            {% endfor %}
+            · {% endcomment %}
+            {{ post.date | date: '%B %d, %Y' }}
+          </div>
+        </div>
+        <div>
+          {% if post.image %} {% asset "{{ post.image }}"
+          class="img-right maxw-card-lg" alt="{{ post.image_alt_text }}" %} {% endif %} {{
+          post.content }} {% comment %} We default to using post.content, but
+          you can also use post.excerpt. If you use excerpt then you have to
+          make sure the content is on each post header {% endcomment %}
+        </div>
+      </div>
+      {% endfor %}
+      {% include back-to-top.html %}
+      <!-- Pagination links -->
+      <div class="grid-row padding-top-2">
+        <div class="tablet:grid-col-4 text-center tablet:order-2 font-body-xs text-base">
+          Page {{ paginator.page }} of {{ paginator.total_pages }}
+        </div>
+        <div class="tablet:grid-col-4 text-right tablet:order-3">
+          {% if paginator.next_page %}
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="paginate-button usa-button margin-top-3">Next
+            {{ paginator.per_page }} Posts &rsaquo;</a>
+          {% endif %}
+        </div>
+        <div class="tablet:grid-col-4 text-left tablet:order-1">
+          {% if paginator.previous_page %}
+          <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="paginate-button usa-button margin-top-2">&lsaquo;
+            Previous {{ paginator.per_page }} Posts</a>
+          {% endif %}
+        </div>
+      </div>
+    </div>
+    <aside class="desktop:grid-col-fill margin-top-4 padding-right-4">
+      {% include sidenav-posts.html %}
+    </aside>
+  </div>
+</div>

@@ -1,37 +1,44 @@
 # We can add any kind of data in this _data folder and this file.
-# In this example, we create a simple array of options and then in the _pages/collections.md file we 
-# Reference this data file in 'datafile' in the Front Matter and _layouts/data.html renders it 
+# In this example, we create a simple array of options and then in the _pages/collections.md file we
+# Reference this data file in 'datafile' in the Front Matter and _layouts/data.html renders it
 # This is simple, hopefully provides you with a good enough example to make changes as needed
+
 - video-name: Wheelchair Maneuvering
   youtube-url: https://www.youtube.com/watch?v=dF7et0KQ3rg
+  video-file: wheelchair_maneuvering.mp4
   caption-file: wheelchair_maneuvering.vtt
 
 - video-name: Maneuvering at Doors
   youtube-url: https://www.youtube.com/watch?v=CZw9VtR0wS8
+  video-file: maneuvering_doors.mp4
   caption-file: maneuvering_doors.vtt
 
 - video-name: Protruding Objects
   youtube-url: https://www.youtube.com/watch?v=TSA9gkC_KLc
+  video-file: protruding_objects.mp4
   caption-file: protruding_objects.vtt
 
 - video-name: Signs
   youtube-url: https://www.youtube.com/watch?v=nyo-fGgwWQo
-  caption-file: (to be added)
+  video-file: signs.mp4
+  caption-file: signs.vtt
 
 - video-name: Accessible Toilet Rooms
   youtube-url: https://www.youtube.com/watch?v=Jl_wFePnsOA
+  video-file: toilet_rooms.mp4
   caption-file: toilet_rooms.vtt
 
 - video-name: Accessible Bathing Facilities
   youtube-url: https://www.youtube.com/watch?v=Q4llEaBkTSQ
+  video-file: bathing_facilities.mp4
   caption-file: bathing_facilities.vtt
 
 - video-name: Sales and Service Counters
   youtube-url: https://www.youtube.com/watch?v=w2cnj8SC6Ac
-  caption-file: (to be added)
+  video-file: counters.mp4
+  caption-file: counters.vtt
 
 - video-name: Parking and Pasenger Loading Zones
   youtube-url: https://www.youtube.com/watch?v=AQUINJ-NNIo
-  caption-file: parking-plz.vtt
-
-
+  video-file: parking_plz.mp4
+  caption-file: parking_plz.vtt

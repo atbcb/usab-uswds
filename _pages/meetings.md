@@ -9,27 +9,27 @@ permalink: /about/meetings.html
 
 <img src="../img/webcast.jpg" alt="photo of laptop with meeting on screen" align="right" width="169">
 
-Members of the Access Board meet every two months.&nbsp;
-Board meetings are open to the public and typically span three days.&nbsp;
-Committee meetings and presentations usually take place on the first two days.&nbsp;
-Meetings of the full Board are normally held on the afternoon of the third day and are webcast live.&nbsp;
+Members of the Access Board meet every two months.
+Board meetings are open to the public and typically span three days.
+Committee meetings and presentations usually take place on the first two days.
+Meetings of the full Board are normally held on the afternoon of the third day and are webcast live.
 Meeting webcasts are archived.
 
 The next committee and Board meetings will be:
 
-> ***July 27 - 29, 2020***  
+> ***September 14 - 16, 2020***  
 >  
 > **Board Meeting**  
-> **July 29, 1:30 - 3:00**  
->  *[Join webcast]*
+> **September 16, 1:30 - 3:00**  
+>  *\[Join webcast]*
 
-Meetings are held at the Board’s [conference space](venue.html) at 1331 F Street NW, Suite 800, in downtown Washington, DC.&nbsp;
-For the comfort of all participants and to promote a [fragrance-free](../about) environment, attendees are requested not to use perfume, cologne, or other fragrances.&nbsp;
+Meetings are held at the Board’s [conference space](venue.html) at 1331 F Street NW, Suite 800, in downtown Washington, DC.
+For the comfort of all participants and to promote a [fragrance-free](policy/ffe.html) environment, attendees are requested not to use perfume, cologne, or other fragrances.
+
 The Board usually substitutes one of its meetings each year for a town hall forum outside Washington, DC.
 
 ## Upcoming Board Meetings
 
-- July 27 - 29, 2020
 - September 14 - 16, 2020
 - November 16 - 18, 2020
 - January 11 - 13, 2021
@@ -60,12 +60,12 @@ The Board usually substitutes one of its meetings each year for a town hall foru
 - [July 12, 2017](http://www.yorkmedia.com/accessboard/2017/07/12/)
 - [September 13, 2017](http://www.yorkmedia.com/accessboard/2017/09/13/)
 - [November 15, 2017](http://www.yorkmedia.com/accessboard/2017/11/15/)
-- [Cancelled:  January 8-10, 2018]
+- \[Cancelled:  January 8-10, 2018]
 - [March 14, 2018](http://www.yorkmedia.com/accessboard/2018/03/14/)
 - [July 11, 2018](http://www.yorkmedia.com/accessboard/2018/07/11/)
 - [September 7, 2018](http://www.yorkmedia.com/accessboard/2018/09/07/)
 - [November 7, 2018](http://www.yorkmedia.com/accessboard/2018/11/07)
-- [Cancelled:  January 7-9, 2019]
+- \[Cancelled:  January 7-9, 2019]
 - [March 11 - 13, 2019](http://www.yorkmedia.com/accessboard/2019/03/13/)
 - [July 10, 2019](http://www.yorkmedia.com/accessboard/2019/07/10/)
 - [September 11, 2019](http://www.yorkmedia.com/accessboard/2019/09/11/)

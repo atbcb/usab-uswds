@@ -1,0 +1,32 @@
+---
+layout: default
+permalink: /authors/
+---
+
+<div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
+  <div class="grid-container">
+    <h1 class="text-normal text-white margin-0">Authors</h1>
+    <p class="text-base-lighter display-block padding-top-1 text-light">
+      People contributing to the U.S. Access Board newsletters.
+    </p>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="desktop:grid-col-8 usa-prose padding-right-4">
+      <!-- This loops through the paginated posts -->
+      {% for author in site.authors %}
+      <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
+        <h3 class="title">
+          <a class="usa-link text-no-underline" href="{{ site.baseurl }}/authors/{{ author.name }}">{{author.full_name}}</a>
+        </h3>
+        <div class="text-base margin-bottom-2">
+          <div class="margin-top-neg-105">
+            <span class="text-bold">{{ author.agency }}</span>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>

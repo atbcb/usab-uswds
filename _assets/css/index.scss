@@ -9,7 +9,7 @@
 // components import needs to be last
 //@import "uswds-theme-components";
 
-$theme-hero-image: asset_path("board-office.jpg");
+$theme-hero-image: asset_path("hero-wc-temp.jpg");
 
 // Import the US Web Design System SASS.
 @import "uswds";
@@ -18,11 +18,21 @@ $theme-hero-image: asset_path("board-office.jpg");
 @import "components/sticky";
 @import "components/table-of-contents-subnav";
 
+
+
 // Add your SASS/CSS here
 
 // temporary blue class to see how grids work
 .blue {
   background-color: blue;
+}
+
+// advisory boxes
+.advisory {
+  background-color: #e8f0f8;
+  padding: 1em;
+  margin-left: 1em;
+  margin-right: 1em;
 }
 
 // create class that combines about page img classes
@@ -31,8 +41,20 @@ $theme-hero-image: asset_path("board-office.jpg");
   font-weight: bold;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+
 .img-right {
   float: right;
+  display: block;
+  padding: 15px;
+}
+
+.img-left {
+  float: left;
   display: block;
   padding: 15px;
 }
@@ -40,6 +62,12 @@ $theme-hero-image: asset_path("board-office.jpg");
 .img-medium {
   padding: 10px;
   width: 40%; 
+}
+
+.img-center {
+  margin-left: auto;
+  margin-right: auto;
+  display: block;
 }
 
 .img-grid {
@@ -54,6 +82,8 @@ $theme-hero-image: asset_path("board-office.jpg");
   margin-right: auto;
   width: 40%; 
   display: block;
+  padding-top: 20px;
+  
 }
 
 .grid-line {
@@ -66,18 +96,22 @@ $theme-hero-image: asset_path("board-office.jpg");
   text-align: left;
 }
 
+/* replace grid-line-left with text-left display-block instead */
+
 .img-large {
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
-  width: 65%; 
+  width: 80%; 
   display: block;
 }
 
 .img-large-caption {
   margin: auto; 
   text-align: center; 
-  width: 60%;
+  width: 85%;
+  font-size: 90%;
+  font-style: italic;
 }
 
 .img-full {
@@ -91,14 +125,23 @@ $theme-hero-image: asset_path("board-office.jpg");
 .thumbnail {
   width: 15%;
   height: auto;
+  padding-bottom: 5px;
+  //vertical-align: 30%;
+  //max-height: 100px;
   @include u-margin(2);
 
 &-box {
+  &-box {
     @extend .thumbnail;
     @include u-border(2px);
     @include u-radius('lg');
     @include u-padding(2);
   }
+}
+
+.thumbnail-wide {
+  width: 15%;
+  height: auto;
 }
 
 .align-bottom {
@@ -111,6 +154,10 @@ $theme-hero-image: asset_path("board-office.jpg");
 
 .clear {
   clear: both;
+}
+
+.clearfix {
+  overflow: auto;
 }
 
 // sticky fill js
@@ -127,12 +174,7 @@ $theme-hero-image: asset_path("board-office.jpg");
 }
 
 
-.advisory {
-  background-color: #e8f0f8;
-  padding: 1em;
-  margin-left: 1em;
-  margin-right: 1em;
-}
+
 
 figcaption {
   font-size: small;
@@ -172,4 +214,5 @@ a.usa-current::after {
   .paginate-button {
     display: block;
   }
+}
 }

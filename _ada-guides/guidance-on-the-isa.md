@@ -4,7 +4,6 @@ order-number:  100
 file: ISA-guidance.pdf
 file-description: PDF version of ISA Guidance
 ---
-can you see these changes?
 **March 27, 2017**
 
 The U.S. Access Board provides the following guidance on use of the
@@ -13,9 +12,13 @@ Disabilities Act (ADA) and the Architectural Barriers Act (ABA). This
 guidance explains how use of a symbol other than the ISA may impact
 compliance with standards issued under the ADA and the ABA.
 
-**The International Symbol of Accessibility (ISA)**
+### The International Symbol of Accessibility (ISA)
 
-[International Symbol of Accessibility (ISA)]( {{site.baseurl}}/images/ada-aba/guides/isa.JPG)
+{% include imgright-italictextbelow.html
+img-file= "isa.JPG"
+img-alt= "International Symbol of Accessibility (ISA)"
+text= "<strong>ISA</strong> (1968)"
+%}
 
 Created in 1968 through a design competition by Rehabilitation
 International and adopted by the International Organization for
@@ -42,7 +45,7 @@ Association's NFPA 5000 Building Construction and Safety Code and NFPA
 Highway Administration's Manual on Uniform Traffic Control Devices for
 Streets and Highways, among others.
 
-**Use of the ISA Under the ADA**
+### Use of the ISA Under the ADA
 
 The [ADA Standards]({{ site.baseurl }}/ada/) apply nationwide to places of
 public accommodation, commercial facilities, and state and local
@@ -71,7 +74,7 @@ regulations](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=d315855e2f2c9f94097
 being applied --- determined that an alternate symbol did not provide
 "equivalent facilitation," that symbol would not be permitted.
 
-**Use of the ISA Under the ABA**
+### Use of the ISA Under the ABA
 
 Standards issued under the ABA apply to facilities designed, built, or
 altered with federal funds or leased by federal agencies. The [ABA
@@ -91,7 +94,7 @@ make compliance with certain provisions exceptionally problematic. The
 Access Board is responsible for making sure that modifications and
 waivers are based on findings of fact and are consistent with the ABA.
 
-**Summary**
+### Summary
 
 Use of a symbol other than the ISA is permitted under the ADA Standards
 only if it satisfies the equivalent facilitation provision and under the
@@ -103,72 +106,3 @@ interested in implementing an alternative symbol of accessibility are
 encouraged to contact the ISO's [Technical Committee 145 on Graphic
 Symbols](http://www.iso.org/iso/iso_technical_committee%3Fcommid%3D52662)
 which maintains the graphic symbol standards.
-:::
-
-[]{.clear}
-
-::: {#footer}
-::: {.left}
-Contact Information
--------------------
-
-::: {.left}
-::: {.custom}
-[U.S. Access Board]{property="schema:name"}\
-[1331 F Street NW, Suite 1000]{property="schema:streetAddress"}\
-[Washington]{property="schema:addressLocality"}, DC
-[20004-1111]{property="schema:postalCode"}
-
--   Voice: (202) 272-0080 or (800) 872-2253
--   TTY: (202) 272-0082 or (800) 993-2822
--   Fax: (202) 272-0081
-:::
-:::
-
-::: {.right}
--   [Contact Us](../../../../contact-us.html)
--   [Accessibility
-    Statement](../../../../the-board/policies/accessibility-statement.html)
--   [Sitemap](../../../../sitemap.html)
--   [Budget and
-    Performance](../../../../the-board/budget-and-performance.html)
--   [En Español](../../../../en-español/sobre-el-consejo-de-acceso.html)
--   [No Fear Act
-    Data](../../../../the-board/budget-and-performance/no-fear-act-data.html)
--   [Privacy](../../../../the-board/policies/privacy-policy.html)
--   [Freedom of
-    Information](../../../../the-board/policies/freedom-of-information-act-foia.html)
--   [Office of Special Counsel](https://osc.gov/)
--   [Guidance Documents](../../../../guidance.html)
-:::
-:::
-
-::: {.right}
-Partner Sites
--------------
-
-::: {.footer-link-list}
--   [disability.gov](http://www.disability.gov)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-
--   [usa.gov](http://www.usa.gov)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-
--   [regulations.gov](http://www.regulations.gov/#!searchResults;rpp=25;so=DESC;sb=docId;po=0;a=ATBCB;dct=PR+FR+N;dkt=R)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-
--   [federalregister.gov](http://www.federalregister.gov/agencies/architectural-and-transportation-barriers-compliance-board)
-
-    ![Link to external
-    site](https://www.access-board.gov/images/external-link.png)
-:::
-:::
-
-[]{.clear}
-:::

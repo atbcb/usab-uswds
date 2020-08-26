@@ -76,36 +76,34 @@ primary_navigation:
   - name: Guidelines & Standards
     url: /gs/
     children:
-      - name: Communications & IT (Section 508)
-        url: /gs/ict.html
-      - name: Americans with Disabilities Act (ADA)
+      - name: IT & Communication (§508)
+        url: /ict/
+      - name: Americans with Disabilities Act
         url: /ada/
-      - name: Architectural Barriers Act (ABA)
+      - name: Architectural Barriers Act
         url: /aba/
+      - name: Transportation Vehicles
+        url: /ada/vehicles/
       - name: Public Rights-of-Way
         url: /prowag/
-      - name: Vehicles
-        url: /ada/vehicles/
       - name: Passenger Vessels
         url: /pvag/
-      - name: Medical Diagnostic Equipment (MDE)
+      - name: Medical Diagnostic Equipment
         url: /mde/
-      - name: Learn more
-        url: /guidelines-&-standards/learn-more/
-      - name: Archive
-        url: /guidelines-&-standards/archive/
-  - name: Training
-    url: /training/
+      - name: Prescription Drug Labels
+        url: /rx.html
+  - name: Training & Webinars
+    url: /webinars/
   - name: File an ABA complaint
     url: /enforcement/
   - name: Research
     url: /research/
+  - name: Contact Us
+    url: /contact/
 
 secondary_navigation:
-  - name: Webinars
-    url: /webinars/
-  - name: File an ABA Complaint
-    url: /enforcement/complaint.html
+  - name: En Español
+    url: ..
 
 # Search.gov configuration
 # 1. Create an account with Search.gov https://search.usa.gov/signup
@@ -160,10 +158,20 @@ collections:
   ada-vehicles-update-rail-cars:
     output: true
     permalink: /ada/vehicles/update/rail-cars/:path/
+  ict:
+    output: true
+    permalink: /ict/:path/
   mde:
     output: true
     permalink: /mde/:path/
-
+  pvag:
+    output: true
+    permalink: /pvag/:path/
+  authors:
+    output: true
+    permalink: /authors/:name/
+  tags:
+    output: false
 
 permalink: pretty
 
@@ -172,7 +180,8 @@ defaults:
       path: ""
       type: "ada"
     values:
-      collection-title: "Americans with Disabilities Act Accessibility Standards"
+      collection-title: "Americans with Disabilities Act"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: ada
       layout: standards
       file-directory: /files/ada-aba/
@@ -192,7 +201,8 @@ defaults:
       path: ""
       type: "aba"
     values:
-      collection-title: "Architectural Barriers Act Accessibility Standards"
+      collection-title: "Architectural Barriers Act"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: aba
       layout: standards
       file-directory: /files/ada-aba/
@@ -222,7 +232,8 @@ defaults:
       path: ""
       type: "prowag-shared-use"
     values:
-      collection-title: "Proposed Public Rights-of-Way Accessibility Guideliness with Shared Use Paths supplemental notice"
+      collection-title: "(Proposed) Public Rights-of-Way"
+      collection-subtitle: "Accessibility Guidelines"
       collection-folder: prowag-shared-use
       layout: standards
       file-directory: /files/prowag/
@@ -244,7 +255,7 @@ defaults:
       collection-folder: ada-vehicles
       layout: standards
       file-directory: /files/vehicles/
-      image-directory: /images/vehicles/ 
+      image-directory: /images/vehicles/
   - scope:
       path: ""
       type: "ada-vehicles-update-buses-and-vans"
@@ -253,7 +264,7 @@ defaults:
       collection-folder: ada-vehicles-update-buses-and-vans
       layout: standards
       file-directory: /files/vehicles/
-      image-directory: /images/vehicles/ 
+      image-directory: /images/vehicles/
   - scope:
       path: ""
       type: "ada-vehicles-update-rail-cars"
@@ -262,16 +273,41 @@ defaults:
       collection-folder: ada-vehicles-update-rail-cars
       layout: standards
       file-directory: /files/vehicles/
-      image-directory: /images/vehicles/ 
+      image-directory: /images/vehicles/
+  - scope:
+      path: ""
+      type: "ict"
+    values:
+      collection-title: "Information and Communication Technology"
+      collection-subtitle: "Revised 508 Standards and 255 Guidelines"
+      collection-folder: ict
+      layout: standards
+      file-directory: /files/ict/
+      image-directory: /images/ict/
   - scope:
       path: ""
       type: "mde"
     values:
-      collection-title: "Medical Diagnostic Equipment Accessibility Standards"
+      collection-title: "Medical Diagnostic Equipment"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: mde
       layout: standards
       file-directory: /files/mde/
-      image-directory: /images/mde/ 
+      image-directory: /images/mde/
+  - scope:
+      path: ""
+      type: "pvag"
+    values:
+      collection-title: "(Proposed) Passenger Vessels"
+      collection-subtitle: "Accessibility Guidelines"
+      collection-folder: pvag
+      layout: standards
+      file-directory: /files/pvag/
+      image-directory: /images/pvag/
+  - scope:
+      path: "_authors"
+    values:
+      layout: author
 
 
 markdown: kramdown
@@ -344,3 +380,7 @@ assets:
     - node_modules/uswds/dist/scss
     - node_modules/netlify-cms/dist
     - node_modules/stickyfilljs/dist
+    - node_modules/stickyfilljs/dist
+    - node_modules/video.js/dist
+    - node_modules/videojs-youtube/dist
+    - images

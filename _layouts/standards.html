@@ -4,30 +4,38 @@ layout: default
 
 
 <div class="usa-layout-docs">
+  <div id="section-title" class="bg-primary-darker usa-content font-serif-lg padding-y-3">
+    <div class="grid-container text-center maxw-desktop">
+      <h1 class="text-normal text-white margin-0">{{ page.collection-title }}</h1>
+      {%- if page.collection-subtitle -%}
+      <h3 class="text-italic text-white margin-0 padding-top-1">{{ page.collection-subtitle }}</h3>
+      {%- endif -%}
+    </div>
+  </div>
   <div class="grid-container">
-    <h1 class="padding-top-0">{{ page.collection-title }}</h1>
     <div class="grid-row grid-gap">
       {% include table-of-contents-subnav.html %}
 
-      <div id="standard" class="desktop:grid-col usa-prose">
+      <div id="standard" class="desktop:grid-col usa-prose margin-2">
         <h2>{{page.title}}</h2>
         {% if page.file %}
-        <div class="position-relative">
-          <span class="text-right">{{ page.file-description }}
-          <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" download="{{ page.file }}">
-          <button class="usa-button ">Download</button>
-          </a>
-          </span>
+        <div class="clearfix">
+            <span class="float-right">{{ page.file-description }}
+            <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" target="_blank">
+            <button class="usa-button">Download</button>
+            </a>
+            </span>
         </div>
+
 
         {% endif %}
         <div>{{ content }}</div>
-
+        {% include back-to-top.html %}
 
       </div>
 
       {% if page.right-sidenav %}
-      <div class="desktop:grid-col-2 padding-bottom-4">{% include {{ page.right-sidenav }} %}</div>
+      {% include {{ page.right-sidenav }} %}
       {% endif %}
     </div>
   </div>

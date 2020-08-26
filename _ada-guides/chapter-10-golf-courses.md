@@ -1,19 +1,24 @@
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_630 .attachmentsList}
-:::
-:::
+---
+title: "Chapter 10: Golf Courses"
+order-number: 1006
+file: golf.pdf
+file-description: PDF version
+---
+<div class="clearfix" markdown="1">
+![photo of man using wheelchair on golf
+course]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/2002_Conn_Amputee-Tom_Quin.jpg){: .float-right .thumbnail}
 
-*![photo of man using wheelchair on golf
-course](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/2002_Conn_Amputee-Tom_Quin.jpg)\"Whenever
-any barrier stands between you and the full rights and dignity of
+>*"Whenever any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
-and justice. The promise of the ADA\...has enabled people with
+and justice. The promise of the ADA...has enabled people with
 disabilities to enjoy much greater access to a wide range of affordable
-travel, recreational opportunities and life-enriching services.\"*
+travel, recreational opportunities and life-enriching services."*
 
-> *President George W. Bush, New Freedom Initiative, February 1, 2001*
+>> *President George W. Bush, New Freedom Initiative, February 1, 2001*
+</div>
 
+
+### Accessible Golf Courses
 The recreation facility guidelines described in this guide focus on
 newly designed or newly constructed and altered golf courses and driving
 ranges. Other provisions contained in ADAAG address elements commonly
@@ -23,14 +28,12 @@ addresses only the built environment (structures and grounds). The
 guidelines do not address operational issues. Questions regarding
 operational issues should be directed to the Department of Justice,
 1-800-514-0301 or 1-800-514-0383 (TTY).
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_631 .attachmentsList}
-:::
-:::
 
+---
+
+
+### Accessible Routes
 Accessible routes are continuous, unobstructed paths connecting all
 accessible elements and spaces of a building or facility on golf
 courses. The accessible route must comply with ADAAG provisions for
@@ -41,22 +44,27 @@ provisions outlined in this guide.
 
 *Click on diagram to view enlargement.*\
 [![illustration of accessible route or golf car passage connecting
-elements](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-diag-thumb.jpg){width="450"
-height="297"}](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-diag.jpg)
+elements]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/golf-diag-thumb.jpg){: .img-full}]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-diag.jpg)
+
 
 ![illustration of golf car passage or accessible
-route](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-6_hi.jpg){width="210"
-height="198"}\
-**Alternative Golf Car Passage**\
+route]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-6_hi.jpg){: .img-medium .center}
+
+
+#### Alternative Golf Car Passage
+
 Providing an accessible route that complies with ADAAG may be
 impractical throughout a golf course for several reasons. First, the
 route of play for a golfer is dependent on where the ball lands and is
 therefore unpredictable. The guidelines assume that on many courses,
 golfers use a golf car to move throughout the course.
 
+
 ![illustration of accessible route or golf car
-passage](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-g6_low.jpg){width="206"
-height="217"}Second, requiring an accessible route throughout a course
+passage]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-g6_low.jpg){: .img-medium .center}
+
+
+Second, requiring an accessible route throughout a course
 could alter the slopes within some courses and alter the nature of the
 sport by eliminating some of the challenge of the game. Therefore, a
 golf car passage may be substituted for an accessible route within the
@@ -66,8 +74,10 @@ usable by golf cars, it does not necessarily need to have a prepared
 surface and may be part of a golf car path.
 
 ![illustration of golf car passage or accessible route on
-fairway](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-g7hi.jpg){width="228"
-height="251"}The golf car passage could be located on areas such as
+fairway]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-g7hi.jpg){: .img-medium .center}
+
+
+The golf car passage could be located on areas such as
 fairways, greens, and teeing surfaces. A golf car passage can be
 substituted for all or part of the accessible route connecting elements
 within the boundary of the course and must be a minimum of 48 inches in
@@ -79,7 +89,8 @@ elements. This is limited to the golf car rental area, bag drop areas,
 practice putting greens, accessible practice teeing grounds, course
 toilet rooms, and course weather shelters.
 
-**Accessible Route Guidelines**\
+
+#### Accessible Route Guidelines
 Where an accessible route is used, the golf course guidelines modify
 ADAAG's accessible route provisions. They increase the minimum width for
 an accessible route from 36 inches to 48 inches. If an accessible route
@@ -97,8 +108,11 @@ width of the route to 60 inches to accommodate the passage of a golf
 car.
 
 ![illustration of course
-barriers](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/page-g7lo.jpg){width="192"
-height="223"}**Course Barriers**\
+barriers]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-g7lo.jpg){: .img-medium .center}
+
+
+#### Course Barriers
+
 Curbing or other man-made barriers often line golf car paths to restrict
 golf cars from entering certain portions of the course or to reduce
 erosion. Where man-made barriers are provided that prevent golf cars
@@ -107,17 +121,14 @@ not exceeding 75 yards must be provided. These dispersed openings will
 provide access to the course at reasonable intervals, enabling a golfer
 using a golf car to play the game without extended travel distances and
 time requirements.
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_632 .attachmentsList}
-:::
-:::
 
-![illustration of teeing
-ground](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/page-8hi.jpg)The
-\"teeing ground\" is the starting place for a hole of golf. A
+---
+
+
+### Teeing Grounds
+![illustration of teeing ground]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-8hi.jpg){: .img-right}
+The \"teeing ground\" is the starting place for a hole of golf. A
 rectangular area usually two club-lengths in depth, the teeing ground's
 borders are defined by the outside limits of two "tee-markers." The
 design and construction of new teeing grounds or the alteration of an
@@ -138,43 +149,29 @@ limits.
     different tees appropriate to their skill level, while providing
     flexibility to course operators and designers.
 
-![illustration of multiple teeing
-grounds](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/page-8lo.jpg)
-:::
+![illustration of multiple teeing grounds]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-8lo.jpg){: .img-medium .center}
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_633 .attachmentsList}
-:::
-:::
-
-![illustration of putting
-green](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/page-9hi.jpg)Each
-putting green must be designed and constructed so that a golf car can
+### Putting Greens
+Each putting green must be designed and constructed so that a golf car can
 enter and exit the green. The green must be connected by a golf car
 passage so that a golf car can reach the green.
-:::
+![illustration of putting
+green]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-9hi.jpg){: .img-medium .center}
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_634 .attachmentsList}
-:::
-:::
 
-![illustration of weather
-shelter](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/page-9lo.jpg)Course
-weather shelters must be designed and constructed to allow a golf car to
+### Weather Shelters
+Course weather shelters must be designed and constructed to allow a golf car to
 enter and exit, and have a clear floor or ground space of 60 inches by
 96 inches minimum. This space will allow a golf car to be driven
 directly into a weather shelter.
-:::
+![illustration of weather
+shelter]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-9lo.jpg){: .img-medium .center}
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_635 .attachmentsList}
-:::
-:::
 
+---
+
+
+### Driving Ranges
 Both stand-alone driving ranges and driving ranges adjacent to a golf
 course that provide teeing stations or practice teeing grounds must
 comply with the following:
@@ -190,38 +187,35 @@ comply with the following:
 -   Teeing Stations---If teeing stations or practice teeing grounds are
     provided, at least five percent, but not less than one, of the
     practice teeing grounds must be accessible and provide space for a
-    golf car to enter and exit.![illustration of teeing
-    station](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/page-10_hi.jpg){width="450"
-    height="139"}
-:::
+    golf car to enter and exit.
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_636 .attachmentsList}
-:::
-:::
 
+![illustration of teeing station]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-10_hi.jpg){: .img-full}
+
+
+---
+
+
+### Single Rider Adaptive Golf Cars
 ![photo of player in single rider adaptive golf car in sand
-trap](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/onthebeach-color.jpg)In
-recent years, single rider adaptive golf cars have been used to increase
+trap]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/onthebeach-color.jpg){: .img-right}
+In recent years, single rider adaptive golf cars have been used to increase
 access for persons with disabilities on golf courses. Questions have
 arisen concerning their use. The Access Board develops and maintains
 accessibility guidelines for the built environment. It is outside the
 jurisdiction of the Access Board to address operational issues such as
 the use of these cars. Operators should contact the Department of
 Justice at 1-800-514-0301 or 1-800-514-0383 (TTY) regarding issues
-relating to the use and operation of adaptive golf cars.;
-:::
+relating to the use and operation of adaptive golf cars.
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_637 .attachmentsList}
-:::
-:::
 
+---
+
+
+###  Temporary Facilities
 ![illustration of accessible
-bleachers](/images/guidelines_standards/Recreation_Facilities/Recreation_Facilities/golf-guide/page-11.jpg)ADAAG
-also requires temporary facilities such as bleachers for tournaments,
+bleachers]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-11.jpg){: .img-left}
+ADAAG also requires temporary facilities such as bleachers for tournaments,
 assembly seating areas, portable toilet facilities, concessions, and all
 other available amenities to provide access. Access to temporary
 facilities on a golf course may be achieved through either an accessible
@@ -229,78 +223,280 @@ route or golf car passage. Facilities hosting tournaments or
 competitions must comply with all the other requirements of the ADA,
 including the general obligation to provide an equal opportunity to
 individuals with disabilities to enjoy the services provided.
-:::
 
-::: {itemprop="articleBody"}
-::: {.attachmentsContainer}
-::: {#attachmentsList_com_content_default_1817 .attachmentsList}
-:::
-:::
 
+---
+
+
+### Provision Index
 This table highlights the sections of the ADA and ABA Accessibility
-Standards discussed in the golf courses guide.
+Standards discussed in the amusement rides guide.
 
- 
 
-  ------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------
-                                                                              [ADA Standards](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards)\*   [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) 
-  **Definitions**                                                                                                             106.5                                                                                                   F106.5 
-  Cross Slope                                                                                                                 106.5                                                                                                   F106.5
-  Curb Ramp                                                                                                                   106.5                                                                                                   F106.5
-  Facility                                                                                                                    106.5                                                                                                   F106.5
-  Golf Car Passage                                                                                                            106.5                                                                                                   F106.5
-  Ramp                                                                                                                        106.5                                                                                                   F106.5
-  Running Slope                                                                                                               106.5                                                                                                   F106.5
-  Teeing Ground                                                                                           [106.5]{style="text-align: -webkit-center;"}                                                             [F106.5]{style="text-align: -webkit-center;"}
-                                                                                                                                                                                                                                          
-  **Golf Facilities (where provided)**                                                                                         238                                                                                                     F238
-  Golf Courses                                                                                                                238.2                                                                                                   F238.2 
-  Putting Greens                                                                                                             238.2.2                                                                                                 F238.2.2
-  Teeing Grounds                                                                                                             238.2.1                                                                                                 F238.2.1
-  Weather Shelters                                                                                                           238.2.3                                                                                                 F238.2.3
-                                                                                                                                                                                                                                          
-  Practice Putting Greens, Teeing Grounds, and Stations at Driving Ranges                                                     238.3                                                                                                   F238.3
-                                                                                                                                                                                                                                          
-  **Accessible Routes (where required)**                                                                                       206                                                                                                     F206
-  Golf Course (specific provision)                                                                                          206.2.15                                                                                                 F206.2.15
-  Golf Car Passage (exception)                                                                                             206.2.15 EX                                                                                             F206.2.15 EX
-                                                                                                                                                                                                                                          
-  **Accessible Routes Components (typically used)**                                                                                                                                                                                       
-  Curb Ramps                                                                                                   [406]{style="text-align: center;"}                                                                       [406]{style="text-align: center;"}
-  Doors and Gates                                                                                              [404]{style="text-align: center;"}                                                                       [404]{style="text-align: center;"}
-  Handrails (exception)                                                                                                     1006.2 EX                                                                                                1006.2 EX
-  Ramps                                                                                                                        405                                                                                                     405 
-  Walking Surfaces with Running Slopes of 5% or less                                                                           403                                                                                                      403
-                                                                                                                                                                                                                                          
-  Width Modification (when connecting certain features)                                                                      1006.2                                                                                                   1006.2
-                                                                                                                                                                                                                                          
-  **Technical Requirements for Golf Car Passage**                                                                            1006.3                                                                                                   1006.3
-  Clear Width                                                                                                               1006.3.1                                                                                                 1006.3.1
-  Course Barriers                                                                                                           1006.3.2                                                                                                 1006.3.2
-                                                                                                                                                                                                                                          
-  **Technical Requirements for Golf Courses**                                                                                 1006                                                                                                     1006
-  Weather Shelter                                                                                                            1006.4                                                                                                   1006.4
-                                                                                                                                                                                                                                          
-  **Other Typical Scoping Requirements at Fishing Facilities**                                                                                                                                                                            
-  Dining surfaces                                                                                              [226]{style="text-align: center;"}                                                                       [F226]{style="text-align: center;"}
-  Employee Work Areas (exception)                                                                             [203.9]{style="text-align: center;"}                                                              [no similar exception]{style="text-align: center;"}
-  Locker Rooms                                                                                                                 222                                                                                                     F222
-  Parking                                                                                                      [208]{style="text-align: center;"}                                                                       [F208]{style="text-align: center;"}
-  Passenger Loading Zones and Bus Stops                                                                        [209]{style="text-align: center;"}                                                                       [F209]{style="text-align: center;"}
-  Service Counter                                                                                                             227.3                                                                                                   F227.3
-  Signage                                                                                                      [216]{style="text-align: center;"}                                                       [F]{style="text-align: center;"}[216]{style="text-align: center;"}
-  Spectator Seating                                                                                                            221                                                                                                     F221
-  Temporary Facilities                                                                                                        201.3                                                                                                   F201.3
-  Toilet and Bathing                                                                                                           213                                                                                                     F213
-  Vending Machines                                                                                                             228                                                                                                     F228
-  ------------------------------------------------------------------------- --------------------------------------------------------------------------------------------------------- -------------------------------------------------------------------------------------------------------
+<div>
+<table class="table-provision-index usa-table">
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;ADA Standards*</td>
+        <td>ABA Standards&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Definitions</td>
+        <td>&nbsp;106.5</td>
+        <td>F106.5&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Cross Slope</td>
+        <td>&nbsp;106.5</td>
+        <td>F106.5</td>
+    </tr>
+    <tr>
+        <td>Curb Ramp</td>
+        <td>106.5</td>
+        <td>F106.5</td>
+    </tr>
+    <tr>
+        <td>Facility</td>
+        <td>106.5</td>
+        <td>F106.5</td>
+    </tr>
+    <tr>
+        <td>Golf Car Passage</td>
+        <td>106.5</td>
+        <td>F106.5</td>
+    </tr>
+    <tr>
+        <td>Ramp</td>
+        <td>106.5</td>
+        <td>F106.5</td>
+    </tr>
+    <tr>
+        <td>Running Slope</td>
+        <td>106.5</td>
+        <td>F106.5</td>
+    </tr>
+    <tr>
+        <td>Teeing Ground</td>
+        <td>106.5</td>
+        <td>F106.5</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Golf Facilities (where provided)</td>
+        <td>238</td>
+        <td>F238</td>
+    </tr>
+    <tr>
+        <td>Golf Courses</td>
+        <td>&nbsp;238.2</td>
+        <td>F238.2&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Putting Greens</td>
+        <td>238.2.2</td>
+        <td>F238.2.2</td>
+    </tr>
+    <tr>
+        <td>Teeing Grounds</td>
+        <td>238.2.1</td>
+        <td>F238.2.1</td>
+    </tr>
+    <tr>
+        <td>Weather Shelters</td>
+        <td>238.2.3</td>
+        <td>F238.2.3</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Practice Putting Greens, Teeing Grounds, and Stations at Driving Ranges</td>
+        <td>238.3</td>
+        <td>F238.3</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Accessible Routes (where required)</td>
+        <td>206</td>
+        <td>F206</td>
+    </tr>
+    <tr>
+        <td>
+Golf Course (specific provision)
+</td>
+        <td>206.2.15</td>
+        <td>F206.2.15</td>
+    </tr>
+    <tr>
+        <td>Golf Car Passage (exception)</td>
+        <td>206.2.15 EX</td>
+        <td>F206.2.15 EX</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Accessible Routes Components (typically used)</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Curb Ramps</td>
+        <td>406</td>
+        <td>406</td>
+    </tr>
+    <tr>
+        <td>Doors and Gates</td>
+        <td>404</td>
+        <td>404</td>
+    </tr>
+    <tr>
+        <td>Handrails (exception)</td>
+        <td>1006.2 EX</td>
+        <td>1006.2 EX</td>
+    </tr>
+    <tr>
+        <td>Ramps</td>
+        <td>&nbsp;405</td>
+        <td>405&nbsp;</td>
+    </tr>
+    <tr>
+        <td>
+Walking Surfaces with Running Slopes of 5% or less
+</td>
+        <td>403</td>
+        <td>403</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Width Modification (when connecting certain features)</td>
+        <td>1006.2</td>
+        <td>1006.2</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Technical Requirements for Golf Car Passage</td>
+        <td>1006.3</td>
+        <td>1006.3</td>
+    </tr>
+    <tr>
+        <td>Clear Width</td>
+        <td>1006.3.1</td>
+        <td>1006.3.1</td>
+    </tr>
+    <tr>
+        <td>Course Barriers</td>
+        <td>1006.3.2</td>
+        <td>1006.3.2</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Technical Requirements for Golf Courses</td>
+        <td>1006</td>
+        <td>1006</td>
+    </tr>
+    <tr>
+        <td>Weather Shelter</td>
+        <td>1006.4</td>
+        <td>1006.4</td>
+    </tr>
+    <tr>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Other Typical Scoping Requirements at Fishing Facilities</td>
+        <td>&nbsp;</td>
+        <td>&nbsp;</td>
+    </tr>
+    <tr>
+        <td>Dining surfaces</td>
+        <td>226</td>
+        <td>F226</td>
+    </tr>
+    <tr>
+        <td>Employee Work Areas (exception)</td>
+        <td>203.9</td>
+        <td>no similar exception</td>
+    </tr>
+    <tr>
+        <td>Locker Rooms</td>
+        <td>222</td>
+        <td>F222</td>
+    </tr>
+    <tr>
+        <td>Parking</td>
+        <td>208</td>
+        <td>F208</td>
+    </tr>
+    <tr>
+        <td>Passenger Loading Zones and Bus Stops</td>
+        <td>209</td>
+        <td>F209</td>
+    </tr>
+    <tr>
+        <td>Service Counter</td>
+        <td>227.3</td>
+        <td>F227.3</td>
+    </tr>
+    <tr>
+        <td>Signage</td>
+        <td>216</td>
+        <td>F216</td>
+    </tr>
+    <tr>
+        <td>Spectator Seating</td>
+        <td>221</td>
+        <td>F221</td>
+    </tr>
+    <tr>
+        <td>Temporary Facilities</td>
+        <td>201.3</td>
+        <td>F201.3</td>
+    </tr>
+    <tr>
+        <td>Toilet and Bathing</td>
+        <td>213</td>
+        <td>F213</td>
+    </tr>
+    <tr>
+        <td>Vending Machines</td>
+        <td>228</td>
+        <td>F228</td>
+    </tr>
+</table>
+</div>
+
 
 \* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
  The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
-the Architectural Barriers Act (ABA) Accessibility Standards).\
-\
-\
-:::
+the Architectural Barriers Act (ABA) Accessibility Standards).
+

@@ -1,28 +1,21 @@
-<footer class="usa-footer site-footer" role="contentinfo">
+﻿<footer class="usa-footer site-footer" role="contentinfo">
   <div class="footer-section-bottom bg-base-lighter">
     <div class="grid-container">
       <div class="grid-row padding-3">
         <div class="tablet:grid-col">
-          <div class="logo-links">
-            <a class="footer-logo media_link" href="..">
-              {% asset usab-logo.png alt="star logo" width="50" %}
-            </a>
-          </div>
-        </div>
-        <div class="tablet:grid-col"></div>
-        <div class="tablet:grid-col">
-          <ul class="add-list-reset">
-            <li>Footer link</li>
-            <li>Footer link</li>
-            <li>Footer link</li>
-          </ul>
-        </div>
-        <div class="tablet:grid-col">
-          <ul class="add-list-reset">
-            <li><a href="https://usa.gov">USA.gov</a></li>
-            <li><a href="https://www.regulations.gov/searchResults?rpp=25&amp;so=DESC&amp;sb=postedDate&amp;po=0&amp;dct=N+PR+FR+SR+O&amp;a=ATBCB">Regulations.gov</li>
-            <li><a href="https://www.federalregister.gov/agencies/architectural-and-transportation-barriers-compliance-board">FederalRegister.gov</li>
-          </ul>
+          <span class="logo-links">
+            <a class="footer-logo media_link" href="{{ site.baseurl }}/">{% asset usab-logo.png alt="star logo" width="50" %}</a>
+          </span>
+          <span style="position: relative; bottom:1em;">
+            <a href="..">Guidance Documents (TBD)</a> &nbsp;
+            <a href="{{ site.baseurl }}/about/policy/a11y.html">Accessibility</a> &nbsp;
+            <a href="{{ site.baseurl }}/about/par.html">Budget and Performance</a> &nbsp;
+            <a href="{{ site.baseurl }}/about/no-fear-data.html">No FEAR Act Data</a> &nbsp;
+            <a href="{{ site.baseurl }}/about/policy/foia.html" title="Freedom of Information Act">FOIA</a> &nbsp;
+            <a href="{{ site.baseurl }}/about/policy/privacy.html" title="Privacy Policy">Privacy</a> &nbsp;
+            <a href="https://osc.gov/agency" title="U.S. Office of Special Counsel">OSC.gov</a> &nbsp;
+            <a href="https://usa.gov" title="Have a question about government services?">USA.gov</a>
+          </span>
         </div>
       </div>
     </div>
