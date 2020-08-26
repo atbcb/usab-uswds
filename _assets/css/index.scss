@@ -173,11 +173,13 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
     display: table;
 }
 
+//add shading to even rows in data tables
+table.data tr:nth-child(even) {background-color: #f2f2f2;}
 
-
-
+//doesn't seem to work; added style to include figure-caption.html
 figcaption {
-  font-size: small;
+  font-weight: bold;
+  text-align: center; 
 }
 
 a.usa-current::after {
