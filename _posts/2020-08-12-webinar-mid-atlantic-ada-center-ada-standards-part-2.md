@@ -9,7 +9,9 @@ tags:
   - ADA
   - trainings
 webinar: true
-webinar-date: 'September 18, 2020 10:30 AM'
+webinar-start: 'September 18, 2020 10:30 AM'
+webinar-end: 'September 18, 2020 11:30 AM'
+registration-link: ''
 ---
 **2010 ADA Standards for Accessible Design (Parts I & II)**\
 September 17 & 18, 10:30 - 12:00\
