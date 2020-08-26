@@ -10,7 +10,8 @@ tags:
   - ADA
   - trainings
 webinar: true
-webinar-date: 'September 17, 2020 10:30 AM'
+webinar-start: 'September 17, 2020 10:30 AM'
+webinar-end: 'September 17, 2020 11:30 AM'
 registration-link: 'https://www.adainfo.org/Content/ADAcon'
 ---
 The ADA Accessibility Standards apply to the wide range of facilities covered by the ADA, including places of public accommodation, commercial facilities, and state and local government. This two-part session will provide an overview of the 2010 ADA Standards and review scoping and technical requirements for new construction and alterations with a focus on common sources of confusion. Part I will cover application of the standards and which rooms and spaces must comply, exempt areas and structures, employee work areas, accessible entrances and routes, and operable parts (Chapters 1 – 5). Part II will cover accessible toilet and bathing facilities, signs and other communication features, dining and work surfaces, and sales and service counters (Chapters 6 – 9).
