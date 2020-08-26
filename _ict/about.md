@@ -6,15 +6,13 @@ file: ict-final-rule.pdf
 file-description: Single file PDF version of the Revised 508 Standards and 255 Guidelines
 ---
 
-# {{ page.title }}
-
 {% asset communications.jpg class="usa-media-block__img" alt="photo of hands typing on keyboard" width="150" %}
 {% include communications.html %}
 
-## Revised Seciton 508 Standards and Section 255 Guidelines (2017)
+## Revised Section 508 Standards and Section 255 Guidelines (2017)
 
 {% asset icon-tablet-refresh.png class="usa-media-block__img" alt="smart-phone refresh icon" %}
-On January 18, 2017, the Access Board published a [final rule](https://federalregister.gov/d/2017-00395) that jointly updates requirements for information and communication technology covered by Section 508 of the Rehabilitation Act and Section 255 of the Communication Act.
+On January 18, 2017, the Access Board published a [final rule](https://www.federalregister.gov/d/2017-00395) that jointly updates requirements for information and communication technology covered by Section 508 of the Rehabilitation Act and Section 255 of the Communication Act.
 
 The Section 508 Standards apply to electronic and information technology procured by the federal government, including computer hardware and software, websites, multimedia such as video, phone systems, and copiers.
 The Section 508 Standards are part of the Federal Acquisition Regulation (FAR) and address access for people with physical, sensory, or cognitive disabilities.
@@ -50,7 +48,7 @@ On January 22, 2018, the Board corrected the final rule to restore provisions fo
     - [Open Question and Answer Session on the Revised 508 Standards](https://www.accessibilityonline.org/cioc-508/archives/110701) (April 30, 2019)
     - [Section 508 Questions and Answers with the Access Board and GSA](https://www.accessibilityonline.org/cioc-508/archives/110777) (January 28, 2020)
 
-### Orginal Section 508 Standards (2000)
+### Original Section 508 Standards (2000)
 
 {% asset icon-old508.png class="usa-media-block__img" alt="old 508 icon" %}
 The Original 508 Standards (December 21, 2000) can be found at [36 CFR Appendix D to Part 1194](https://www.govinfo.gov/content/pkg/CFR-2019-title36-vol3/xml/CFR-2019-title36-vol3-part1194-appD.xml).
@@ -71,7 +69,7 @@ The Federal Communications Commission (FCC) is responsible for enforcing the Com
 
 On January 18, 2017, the Board published a final rule that updates the Section 255 Guidelines along with accessibility standards for information and communication technology in the federal sector covered by section 508 of the Rehabilitation Act.
 
-#### Orginal Section 255 Guidelins (1998)
+#### Original Section 255 Guidelins (1998)
 
 The original Telecommunication Act Section 255 Accessibility Guidelines (February 3, 1998) can be found in older editions of the Code of Federal Regulations as [36 CFR 1193](https://www.govinfo.gov/content/pkg/CFR-2016-title36-vol3/pdf/CFR-2016-title36-vol3-part1193.pdf).
 {% asset pdf.gif alt="PDF" %}
