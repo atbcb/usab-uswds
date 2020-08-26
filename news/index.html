@@ -5,7 +5,7 @@ pagination:
   enabled: true
 ---
 
-{% include section-title.html title= "Accessibility News" description= "" %}
+{% include section-title.html title= "Access in the News" %}
 
 <div class="grid-container maxw-desktop">
   <div class="grid-row">
@@ -23,14 +23,14 @@ pagination:
               {% include author-link.html author=author %}
             {% endfor %}
             · {% endcomment %}
-            {{ post.date | date: '%B %d, %Y' }}
+             Posted: {{ post.date | date: '%B %d, %Y' }}
           </div>
         </div>
-        <div>
+        <div class="clearfix">
           {% if post.image %} {% asset "{{ post.image }}"
           class="img-right maxw-card-lg" alt="{{ post.image_alt_text }}" %} {% endif %} {{
-          post.content }} {% comment %} We default to using post.content, but
-          you can also use post.excerpt. If you use excerpt then you have to
+          post.excerpt }} {% comment %} We default to using post.excerpt, but
+          you can also use post.content. If you use excerpt then you have to
           make sure the content is on each post header {% endcomment %}
         </div>
       </div>

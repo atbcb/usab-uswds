@@ -8,6 +8,8 @@ authors:
 tags:
   - events
 webinar: false
-webinar-date: 'August 12, 2020 2:13 PM'
+webinar-start: 'August 12, 2020 2:00 PM'
+webinar-end: 'August 12, 2020 3:00 PM'
+registration-link: ''
 ---
  September 14 - 16th
