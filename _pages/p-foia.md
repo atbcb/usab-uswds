@@ -34,7 +34,7 @@ As noted above, FOIA provides a right of access to the public of government reco
 
 Yes, but please be aware that FOIA does not require agencies to do research, analyze data, answer written questions, or to create records in order to respond to a request.
 
-Staff at the Access Board are availble to provide technical assistance on a variety of issues.  Please reference our [email directory]({{ site.baseurl }}/about/contact.html) for the types of questions we answer quickly and routinely.  If it suits your need, please consider using that contact information instead of submitting a FOIA request.
+Staff at the Access Board are availble to provide technical assistance on a variety of issues.  Please reference our [email directory]({{ site.baseurl }}/contact/) for the types of questions we answer quickly and routinely.  If it suits your need, please consider using that contact information instead of submitting a FOIA request.
 
 It is important to understand that there is no central office in the government which processes FOIA requests for all agencies; each Federal agency responds to FOIA requests for records in its own files.  Thus, the public may submit FOIA requests to the Access Board to obtain records that are in the Access Board's files.
 
