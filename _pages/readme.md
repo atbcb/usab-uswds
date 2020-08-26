@@ -1,3 +1,7 @@
+---
+output: false
+---
+
 This directory contains pages under the About menu and some other files as well.
 
 Use short file names, one word if possible.  If two or more words are used to name the file, use a hyphen between the words.  
