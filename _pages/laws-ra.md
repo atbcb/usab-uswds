@@ -1,3 +1,4 @@
+
 ---
 title: Rehabilitation Act
 layout: page
@@ -14,8 +15,8 @@ With passage the Patient Protection and Affordable Care Act in 2010, a new provi
 The Board plays a lead role in developing and maintaining standards for electronic and information technology under section 508 and medical diagnostic equipment covered by section 510. 
 
 - [Section 502](#section-502-the-access-board)
-- [Section 508](#508)
-- [Section 510](#510)
+- [Section 508](#section-508-federal-electronic-and-information-technology)
+- [Section 510](#section-510-medical-diagnostic-equipment)
 
 * * *
 
@@ -170,7 +171,7 @@ Section 502 lays out the duties of the Board under the ABA, which include: ensur
 
 * * *
 
-## <a name="508"></a> Section 508 (Federal Electronic and Information Technology)
+## Section 508 (Federal Electronic and Information Technology)
 
 On August 7, 1998, President Clinton signed into law the Rehabilitation Act Amendments of 1998 which covers access to federally funded programs and services. The law strengthens section 508 of the Rehabilitation Act and requires access to electronic and information technology provided by the Federal government. The law applies to all Federal agencies when they develop, procure, maintain, or use electronic and information technology. Federal agencies must ensure that this technology is accessible to employees and members of the public with disabilities to the extent it does not pose an "undue burden." Section 508 speaks to various means for disseminating information, including computers, software, and electronic office equipment. It applies to, but is not solely focused on, Federal pages on the Internet or the World Wide Web. It does not apply to web pages of private industry.
 
@@ -284,7 +285,7 @@ The Board is responsible for developing accessibility standards for such technol
 
 * * *
 
-## <a name="510"></a> Section 510 (Medical Diagnostic Equipment)
+## Section 510 (Medical Diagnostic Equipment)
 
 On March 23, 2010, President Barack Obama signed into law "The Patient Protection and Affordable Care Act" to reform and extend the provision of health care. The law includes a provision to amend the Rehabilitation Act to address access to medical diagnostic equipment, including examination tables and chairs, weight scales, x-ray machines and other radiological equipment, and mammography equipment. Under this amendment, the Board is authorized to develop access standards for medical diagnostic equipment in consultation with the Food and Drug Administration. The standards are to address independent access to, and use of, equipment by people with disabilities to the maximum extent possible. The Board is also responsible for periodically reviewing and updating the standards.
 
