@@ -160,6 +160,7 @@ collections:
     permalink: /ada/vehicles/update/rail-cars/:path/
   ict:
     output: true
+    permalink: /ict/:path/
   mde:
     output: true
     permalink: /mde/:path/
@@ -277,8 +278,8 @@ defaults:
       path: ""
       type: "ict"
     values:
-      collection-title: "Information and Communications Technology"
-      collection-subtitle: "Accessibility Standards"
+      collection-title: "Information and Communication Technology"
+      collection-subtitle: "Revised 508 Standards and 255 Guidelines"
       collection-folder: ict
       layout: standards
       file-directory: /files/ict/
