@@ -115,6 +115,13 @@ collections:
           default: '',
           required: false,
         }
+      - {
+          label: "Recorded webinar video Link",
+          name: "video-link",
+          widget: "string",
+          default: '',
+          required: false,
+        }
       - { label: "Body", name: "body", widget: "markdown" }
   - label: Authors
     name: authors
