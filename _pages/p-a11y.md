@@ -15,7 +15,7 @@ In addition to features necessary for supporting the Section 508 standards and W
 
 All our content is provided in HTML.  Portable Document Format (PDF) versions are available for most of our longer documents.  One popular viewer for PDF files is [Acrobat Reader](http://www.adobe.com/products/reader.html).  No endorsement is implied.
 
-Our Section 508 coordinator and webmaster is Bruce Bailey.  If you have feedback or concerns related to the accessibility of any content on this website, or have ideas or comments that would help us improve the accessibility and usability of our website, please contact Bruce at bailey@access-board.gov; phone 202-272-0024.  If applicable, please include the web address or URL and the specific problems you have encountered.
+Our Section 508 coordinator and webmaster is Bruce Bailey.  If you have feedback or concerns related to the accessibility of any content on this website, or have ideas or comments that would help us improve the accessibility and usability of our website, please contact Bruce at <bailey@access-board.gov>; phone 202-272-0024.  If applicable, please include the web address or URL and the specific problems you have encountered.
 
 If you would like to file a Section 508 related complaint, please contact Earlene Sesker, Director of Administration at <sesker@access-board.gov> or phone 202-272-0042.  Letters should be addressed to:  Earlene Sesker, Director of Administration, Access Board, 1331 F Street NW, Suite 1000, Washington, DC  20004-1111.
 
