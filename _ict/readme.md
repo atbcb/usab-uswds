@@ -1,5 +1,5 @@
 ---
-output:false
+output: false
 ---
 
 This directory contains the collection for Section 508 Standards and Section 255 Guidelines.
