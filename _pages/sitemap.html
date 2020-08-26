@@ -1,0 +1,39 @@
+---
+layout: page
+---
+
+{% assign collections = site.collections | where_exp:'collection','collection.output != false' %}
+{% for collection in collections %}
+  {% assign docs = collection.docs | where_exp:'doc','doc.sitemap != false' %}
+  <ul>
+  {% for doc in docs %}
+      {% if forloop.index == 1 %}
+        <h2>{{ doc.collection-title }}</h2>
+      {% endif %}
+      <li>{{ doc.url | replace:'/index.html','/' | absolute_url }}</li>
+      {% if doc.last_modified_at or doc.date %}
+        <p>{{ doc.last_modified_at | default: doc.date | date_to_xmlschema }}</p>
+      {% endif %}
+  {% endfor %}
+  </ul>
+{% endfor %}
+
+{% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.ul != "/404.html"' %}
+<h2>Pages</h2>
+<ul>
+{% for page in pages %}
+    <li>{{ page.url | replace:'/index.html','/' | absolute_url }}</li>
+    {% if page.last_modified_at %}
+      <p>{{ page.last_modified_at | date_to_xmlschema }}</p>
+    {% endif %}
+{% endfor %}
+</ul>
+
+{% assign static_files = page.static_files | where_exp:'page','page.sitemap != false' | where_exp:'page','page.name != "404.html"' %}
+<h2>Files</h2>
+<ul>
+  {% for file in static_files %}
+      <li>{{ file.path | replace:'/index.html','/' | absolute_url }}</li>
+      <p>{{ file.modified_time | date_to_xmlschema }}</p>
+  {% endfor %}
+</ul>
