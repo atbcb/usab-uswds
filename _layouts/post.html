@@ -13,7 +13,6 @@ This is used in blog posts. The index page can be found at blog/index.html
       <div class="text-base margin-bottom-2">
         
         {% comment %}
-        Removed per Dave's request
         <div class="margin-top-neg-105">
           By
           {% for author in page.authors %}
@@ -23,12 +22,37 @@ This is used in blog posts. The index page can be found at blog/index.html
         </div>
         {% endcomment %}
 
+        {% if page.webinar == true %}
+        {% assign today_date = 'now' | date: '%s' %}
+        {% assign webinar_date = page.webinar-start | date: '%s' %}
+          {% if webinar_date > today_date %}
+          <div class="margin-top-neg-105">
+            {% if page.webinar-start %}
+              <span>Presentation Date: {{ page.webinar-start | date: '%B %d, %Y' }}</span>
+              <br>
+              <span>Presentation Time: {{ page.webinar-start | date: '%H:%M %p' }}{% if page.webinar-end %} - {{ page.webinar-end | date: '%H:%M %p' }}{% endif %}</span>
+            {% endif %}
+            {% if page.registration-link %}
+              <br>
+              <span><a href="{{ page.registration-link }}">Registration Link</a></span>
+            {% endif %}
+          </div>
+          {% else %}
+          <div class="margin-top-neg-105">
+            <span>Presented on: {{ page.webinar-start | date: '%B %d, %Y' }}</span>
+            {% if page.video-link %}
+            <br>
+            <span><a href="{{ page.video-link }}">Watch recorded webinar</a></span>
+            {% endif %}
+          </div>
+          {% endif %}
+        {% endif %}
 
-      </div>
-      {{ content }}
-    </div>
+          <div>{{ content }}</div>
+
+        </div>
     <aside class="desktop:grid-col-fill margin-top-4 padding-right-4">
-      {%- if post.webinar == true -%}
+      {%- if page.webinar == true -%}
         {%- include sidenav-webinars.html -%}
       {%- else -%}
         {%- include sidenav-posts.html -%}
