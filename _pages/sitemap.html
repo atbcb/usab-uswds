@@ -33,6 +33,7 @@ layout: page
   <hr>
 {% endfor %}
 
+{% comment %}
 {% assign pages = site.html_pages | where_exp:'doc','doc.sitemap != false' | where_exp:'doc','doc.ul != "/404.html"' %}
 <h2>Other Pages</h2>
 <ul>
@@ -43,6 +44,7 @@ layout: page
     {% endif %}
 {% endfor %}
 </ul>
+{% endcomment %}
 
 
 {% comment %}
