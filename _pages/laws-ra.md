@@ -1,4 +1,3 @@
-
 ---
 title: Rehabilitation Act
 layout: page
