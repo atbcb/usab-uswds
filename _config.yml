@@ -77,7 +77,7 @@ primary_navigation:
     url: /gs/
     children:
       - name: IT & Communication (Section 508)
-        url: /gs/ict.html
+        url: /ict/
       - name: Americans with Disabilities Act
         url: /ada/
       - name: Architectural Barriers Act
@@ -158,6 +158,8 @@ collections:
   ada-vehicles-update-rail-cars:
     output: true
     permalink: /ada/vehicles/update/rail-cars/:path/
+  ict:
+    output: true
   mde:
     output: true
     permalink: /mde/:path/
@@ -271,6 +273,16 @@ defaults:
       layout: standards
       file-directory: /files/vehicles/
       image-directory: /images/vehicles/
+  - scope:
+      path: ""
+      type: "ict"
+    values:
+      collection-title: "Information and Communications Technology"
+      collection-subtitle: "Accessibility Standards"
+      collection-folder: ict
+      layout: standards
+      file-directory: /files/ict/
+      image-directory: /images/ict/
   - scope:
       path: ""
       type: "mde"
