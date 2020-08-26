@@ -8,7 +8,7 @@ pagination:
 {% include section-title.html title= "Trainings and Webinars" %}
 
  <div class="grid-container maxw-desktop">
-    <div class="grid-row grid-gap">
+    <div class="grid-row grid-gap margin-top-2">
       <div class="desktop:grid-col-8 usa-prose padding-right-4">
         <!-- This loops through the paginated posts -->
         {% assign webinars = site.posts | where: "webinar","true" %}
