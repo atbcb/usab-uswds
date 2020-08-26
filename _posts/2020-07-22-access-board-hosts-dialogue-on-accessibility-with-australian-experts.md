@@ -2,6 +2,10 @@
 layout: post
 title: Access Board Hosts Dialogue on Accessibility with Australian Experts
 date: 'November 20, 2017'
+webinar: false
+webinar-start: ''
+webinar-end: ''
+registration-link: ''
 ---
 On November 13 the U.S. Access Board held a day-long workshop comparing how building accessibility is addressed in Australia and the U.S. It featured presentations and a dialogue by experts on how accessibility to the built environment is addressed and enforced in both nations.
 

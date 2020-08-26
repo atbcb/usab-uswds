@@ -7,6 +7,10 @@ authors:
 excerpt: he Federal Acquisition Regulatory Council has proposed an update to its regulations governing federal procurements to incorporate the Board's updated Section 508 Standards.
 image: far.png
 image_alt_text: FAR logo - Federal Acquisition Regulation
+webinar: false
+webinar-start: ''
+webinar-end: ''
+registration-link: ''
 ---
 
 The Federal Acquisition Regulatory Council has proposed an update to its regulations governing federal procurements to incorporate
