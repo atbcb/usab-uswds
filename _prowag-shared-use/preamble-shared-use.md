@@ -3,11 +3,7 @@ title: "Preamble - Supplemental Notice on Shared Use Paths"
 order-number: 0.2
 ---
 
-1\. Executive Summary
----------------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/executive-summary?tmpl=component&print=1 "Print article < 1. Executive Summary >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=cb1360809081abd1937a1941a8d4693d798fa601 "Email this link to a friend")
+## 1. Executive Summary
 
 This supplemental notice of proposed rulemaking (SNPRM) proposes to include specific provisions for shared use paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way published in the Federal Register on July 26, 2011. See 76 FR 44664 (July 26, 2011). A copy of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way with the specific provisions for shared use paths proposed in the SNPRM is available below.
 
@@ -32,11 +28,7 @@ As discussed in the preamble to the proposed accessibility guidelines for pedest
 ---
 
 
-2\. Background
---------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/background?tmpl=component&print=1 "Print article < 2. Background >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=44889d96b95328ce33e53ee064429652eaf689b1 "Email this link to a friend")
+## 2. Background
 
 We are conducting separate rulemakings to develop accessibility guidelines for trails and other outdoor developed areas, and for sidewalks and other pedestrian facilities in the public right-of-way.
 
@@ -52,11 +44,7 @@ On July 26, 2011, we issued a NPRM requesting comments on proposed accessibility
 ---
 
 
-3\. Proposed Supplements to Proposed Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
-------------------------------------------------------------------------------------------------------------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/proposed-supplements?tmpl=component&print=1 "Print article < 3. Proposed Supplements to Proposed Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=7208bfe5ff70758d4e99cdc42ddf36ebcc36f34f "Email this link to a friend")
+## 3. Proposed Supplements to Proposed Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
 We are issuing this SNPRM to include specific provisions for shared use paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way published in the Federal Register on July 26, 2011. See [76 FR 44664](https://www.access-board.gov/prowac/nprm.htm) (July 26, 2011). The proposed accessibility guidelines for pedestrian facilities in the public right-of-way will be codified as an appendix to 36 CFR part 1190. The SNPRM would supplement the following sections of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way: R105.5 Defined Terms; R204 and R302 Pedestrian Access Routes; R210 Protruding Objects; R218 Doors, Doorways, and Gates; and R304 Curb Ramps and Blended Transitions. The proposed supplements to these sections are set forth below.
 
@@ -181,11 +169,7 @@ The proposed provision for shared used paths is consistent with the AASHTO Guide
 ---
 
 
-4\. Comparison of Proposed Technical Provisions Applicable to Shared Use Paths and AASHTO Guide
------------------------------------------------------------------------------------------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/comparison-to-aashto-guide?tmpl=component&print=1 "Print article < 4. Comparison of Proposed Technical Provisions Applicable to Shared Use Paths and AASHTO Guide >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=112a6ba9f5c0212c9f25040bbcd6e0f787a654bb "Email this link to a friend")
+## 4. Comparison of Proposed Technical Provisions Applicable to Shared Use Paths and AASHTO Guide
 
 The proposed technical provisions applicable to shared used paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way, as supplemented by the SNPRM, and the design criteria for shared use paths in the AASHTO Guide are compared in the table below.
 
@@ -292,16 +276,11 @@ The opening of a shared use path at the roadway should be at least the same widt
  ---
  
  
- 5\. Conflicts Between Shared Path Users
----------------------------------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/conflicts-between-shared-path-users?tmpl=component&print=1 "Print article < 5. Conflicts Between Shared Path Users >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=a164f8b29d85c7c7dac98dbcdf36d8297e144b7d "Email this link to a friend")
+ ## 5. Conflicts Between Shared Path Users
 
 Public comments submitted in response to the ANPRM expressed concern about the risk of collisions between pedestrians who are blind or have low vision and bicyclists who pass them too closely at fast speeds, and at intersections where a shared use path crosses another shared use path or a sidewalk. According to the AASHTO Guide, the 85th percentile speed for recreational bicyclists is 18 miles per hour. See AASHTO Guide, 5.2.4 Design Speed. The comments noted that bicycles are relatively quiet and pedestrians who are blind or have low vision may not be aware when bicyclists are approaching and passing them or crossing their path at intersections. Pedestrians with other disabilities may also have limited awareness of approaching bicyclists. For example, individuals who are deaf or hard of hearing may not be aware of a bicycle approaching from behind even when riders indicate their presence audibly. Individuals with limited mobility who may be alert to bicyclists may find it difficult to move aside in time to avoid collision. The comments recommended that traffic on shared use paths be regulated and strictly enforced in order to protect pedestrians. For example, a comment stated that bicyclists should be required to always yield to pedestrians. The comments also recommended design solutions to avoid conflicts between users, including separate pathways for pedestrians and bicyclists; and detectable warning surfaces at intersections where a shared use path crosses another shared use path or a sidewalk. These design solutions are discussed below.
 
-*Separate Pathways for Pedestrians and Bicyclists\
-*
+*Separate Pathways for Pedestrians and Bicyclists*
 
 An organization representing individuals who are blind and have low-vision stated that "all shared use paths present an unacceptable safety risk to blind or visually impaired pedestrians unless there is a clear separation between pedestrians and other motorized and non-motorized vehicles including bicyclists." The comments noted that path users cannot be expected to always follow the "rules of the road" and suggested that if paths cannot be physically separated that lanes for pedestrians and other users should be marked tactilely. An organization of educators and rehabilitation professionals who work with individuals who are blind suggested that blind pedestrians may have considerable difficulty maintaining the course, particularly on two-directional shared use paths where all users are expected to travel on the right hand side of the path in each direction and bicyclists pass pedestrians and slower moving path users on their left hand side. In addition to the recommendation to physically separate pedestrians and bicyclists, the comments suggested that it may be necessary to separate the two directions of travel within each pathway, particularly on busy paths. The comments, however, acknowledged that determining what volume of users should require two-directional separation would be a challenge.
 
@@ -323,14 +302,7 @@ Because pedestrians who are blind would not be aware of bicyclists approaching f
 ---
 
 
-6\. Regulatory Analyses
------------------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/regulatory-analyses?tmpl=component&print=1 "Print article < 6. Regulatory Analyses >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=0c462654a3b5599e7a02c9a47c7c328a1a27a669 "Email this link to a friend")
-
-**6\. Regulatory Analyses\
-**
+## 6. Regulatory Analyses
 
 We prepared a preliminary regulatory assessment discussing the cost and benefits of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way and an initial regulatory flexibility analysis of the impacts on small governmental jurisdictions with a population of less than 50,000 when the NPRM was issued. These regulatory analyses are available on our website at: http://www.access-board.gov/prowac/.
 
@@ -365,19 +337,14 @@ Chair.
 ---
 
 
-Proposed Supplements to Proposed Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
---------------------------------------------------------------------------------------------------------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/supplementary-provisions?tmpl=component&print=1 "Print article < Proposed Supplements to Proposed Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=150f40bccfeace9edb62b246f857e7c60edc3a13 "Email this link to a friend")
+## Supplementary Provisions
 
 *Note: Supplementary provisions are noted below in bold and unshaded boxes.*
 
-**PART 1190 --ACCESSIBILITY GUIDELINES FOR PEDESTRIAN FACILITIES IN THE PUBLIC RIGHT-OF-WAY\
-**
+**PART 1190 --ACCESSIBILITY GUIDELINES FOR PEDESTRIAN FACILITIES IN THE PUBLIC RIGHT-OF-WAY**
 
-Sec.\
-1190.1 Accessibility guidelines.\
+Sec.
+1190.1 Accessibility guidelines.
 Appendix to part 1190 -- Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
 **Authority:** 29 U.S.C. 792 and 42 U.S.C. 12204.
