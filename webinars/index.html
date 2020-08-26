@@ -25,9 +25,9 @@ pagination:
           </h3>
           <div class="text-base margin-bottom-2">
             <div class="margin-top-neg-105">
-              <span>Presentation Date: {{ webinar.webinar-start | date: '%B %d, %Y' }}</span>
+              <span class="text-italic">{{ webinar.webinar-start | date: '%B %d, %Y' }}</span>
               <br>
-              <span>Presentation Time: {{ webinar.webinar-start | date: '%H:%M %p' }}{% if webinar.webinar-end %} - {{ webinar.webinar-end | date: '%H:%M %p' }}{% endif %}</span>
+              <span class="text-italic">{{ webinar.webinar-start | date: '%I:%M %p' }}{% if webinar.webinar-end %} - {{ webinar.webinar-end | date: '%I:%M %p' }}{% endif %}</span>
               {% if webinar.registration-link %}
               <br>
               <span><a href="{{ webinar.registration-link }}">Registration Link</a></span>
@@ -54,7 +54,7 @@ pagination:
           </h3>
           <div class="text-base margin-bottom-2">
             <div class="margin-top-neg-105">
-              <span>Presented on: {{ webinar.webinar-start | date: '%B %d, %Y' }}</span>
+              <span class="text-italic">Presented on: {{ webinar.webinar-start | date: '%B %d, %Y' }}</span>
               {% if webinar.video-link %}
               <br>
               <span><a href="{{ webinar.video-link }}">Watch recorded webinar</a></span>

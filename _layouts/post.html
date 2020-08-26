@@ -28,9 +28,9 @@ This is used in blog posts. The index page can be found at blog/index.html
           {% if webinar_date > today_date %}
           <div class="margin-top-neg-105">
             {% if page.webinar-start %}
-              <span>Presentation Date: {{ page.webinar-start | date: '%B %d, %Y' }}</span>
+              <span class="text-italic">{{ page.webinar-start | date: '%B %d, %Y' }}</span>
               <br>
-              <span>Presentation Time: {{ page.webinar-start | date: '%H:%M %p' }}{% if page.webinar-end %} - {{ page.webinar-end | date: '%H:%M %p' }}{% endif %}</span>
+              <span class="text-italic">Presentation Time: {{ page.webinar-start | date: '%I:%M %p' }}{% if page.webinar-end %} - {{ page.webinar-end | date: '%I:%M %p' }}{% endif %}</span>
             {% endif %}
             {% if page.registration-link %}
               <br>
