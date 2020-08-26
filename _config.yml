@@ -76,7 +76,7 @@ primary_navigation:
   - name: Guidelines & Standards
     url: /gs/
     children:
-      - name: IT & Communication (Section 508)
+      - name: IT & Communication (§ 508)
         url: /ict/
       - name: Americans with Disabilities Act
         url: /ada/
