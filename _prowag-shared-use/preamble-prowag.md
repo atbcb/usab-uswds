@@ -1080,7 +1080,6 @@ The DOJ 2010 Standards and the Department of Transportation standards for transp
 
 
 ## Part 1190 - Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
-tmpl=component&template=accessboard&link=a483d275df81503b341a6f4899538fbe49c093df "Email this link to a friend")
 
 Sec.
 1190.1 Accessibility guidelines.
