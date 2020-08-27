@@ -368,7 +368,7 @@ where provided, must comply.
 
 ### Clearances
 
-[[§403.5](../ada-standards/chapter-4-accessible-routes.html#403%20Walking%20Surfaces)]
+[[§403.5]({{ site.baseurl }}/ada/#ada-403_5)]
 
 The minimum 36" continuous clear width of accessible routes can reduce
 to 32" at points, such as doorways, for a maximum distance of 24".
@@ -419,7 +419,7 @@ by 60" minimum space or as T-shaped space where each stem is at least
 
 ### Handrails Along Walking Surfaces
 
-[[§403.6](../ada-standards/chapter-4-accessible-routes.html#403%20Walking%20Surfaces), [§505](../ada-standards/chapter-5-general-site-and-building-elements.html#505%20Handrails)]
+[[§403.6]({{ site.baseurl }}/ada/#ada-403_6)]
 
 Handrails are required at ramps with a rise greater than 6" and at
 stairs that are part of a means of egress, but not at other locations.

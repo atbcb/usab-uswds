@@ -73,7 +73,7 @@ access.
 
 ### Clear Floor Space
 
-[[§309.2](../ada-standards/chapter-3-building-blocks.html#309%20Operable%20Parts)]
+[[§309.2]({{ site.baseurl }}/ada/#ada-309_2)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -101,7 +101,7 @@ access.
 
 ### Forward Reach
 
-[[§308.2](../ada-standards/chapter-3-building-blocks.html#308%20Reach%20Ranges)]
+[[§308.2]({{ site.baseurl }}/ada/#ada-308_2)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -135,7 +135,7 @@ depth of reach.
 
 ##### Clear Floor Space
 
-[[§309.2](../ada-standards/chapter-3-building-blocks.html#309%20Operable%20Parts)]
+[[§309.2]({{ site.baseurl }}/ada/#ada-309_2)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -159,7 +159,7 @@ space.
 
 ### Side Reach
 
-[[§308.3](../ada-standards/chapter-3-building-blocks.html#308%20Reach%20Ranges)]
+[[§308.3]({{ site.baseurl }}/ada/#ada-308_3)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -220,7 +220,7 @@ recommended according to three age groups.
 
 ### Operation
 
-[[§309.4](../ada-standards/chapter-3-building-blocks.html#309%20Operable%20Parts)]
+[[§309.4]({{ site.baseurl }}/ada/#ada-309_4)]
 
 <div class="clearfix">
 <div class="img-right img-medium">

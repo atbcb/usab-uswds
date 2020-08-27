@@ -10,7 +10,7 @@ Standards](../ada-standards.html).
 
 ### Accessible Entrances: Minimum Number
 
-[[§206.4](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.4]({{ site.baseurl }}/ada/#ada-206_4)]
 
 At least 60% of public entrances must be accessible in new construction,
 in addition to entrances directly serving tenancies, parking facilities,
@@ -69,7 +69,7 @@ safety.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg4.JPG){: .img-
 
 ### Security Barriers
 
-[[§206.8](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.8]({{ site.baseurl }}/ada/#ada-206_8)]
 
 <div class="grid-container">
   <div class="grid-row">
@@ -108,7 +108,7 @@ text= "Where two-way communication systems are provided to gain entry to a facil
 
 ### Alterations
 
-[[§206.4](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes) and [§202.4](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
+[[§206.4]({{ site.baseurl }}/ada/#ada-206_4)]
 
 In alterations to existing facilities, accessible entrances are required:
 
@@ -134,7 +134,7 @@ img-alt= "Historic facility"
 
 ### Doors, Doorways and Gates
 
-[[§206.5](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes) and [§404](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§206.5]({{ site.baseurl }}/ada/#ada-206_5)]
 
 Compliance is required for doors, doorways, and gates providing user
 passage on accessible routes. At least one accessible door, doorway, or
@@ -431,7 +431,7 @@ Manual doors, doorways, and gates that are designed to be operated only by secur
 
 ### Automatic and Power-Assisted Doors and Gates
 
-[[§404.3](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.3]({{ site.baseurl }}/ada/#ada-404_3)]
 
 <div class="clearfix" markdown="1">
 ![Label: "Automatic Door -- Caution"]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg29.jpg){: .float-right .img-medium}
@@ -447,7 +447,7 @@ others. Doors are classified by their type or level of automation.
 
 ### Power-Assisted Doors and Gates
 
-[[§404.3](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.3]({{ site.baseurl }}/ada/#ada-404_3)]
 
 Power-assisted devices reduce the opening force of doors with closing
 mechanisms.They are activated by initial manual force, switches, or sensors. Most
@@ -507,7 +507,7 @@ text= "Placing controls in locations that preclude backing-up will facilitate us
 
 ### Full-Powered Automatic Doors and Gates
 
-[[§404.3](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.3]({{ site.baseurl }}/ada/#ada-404_3)]
 
 Full-powered automatic doors and gates are often found in grocery and
 retail stores, hotels, and airports to ease passage with shopping carts

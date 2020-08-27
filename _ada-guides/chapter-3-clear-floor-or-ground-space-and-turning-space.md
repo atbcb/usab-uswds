@@ -29,7 +29,7 @@ text= "Clear floor space is required at each accessible element, including stora
 
 ### Position
 
-[[§305.5](../ada-standards/chapter-3-building-blocks.html#305%20Clear%20Floor%20or%20Ground%20Space)]
+[[§305.5]({{ site.baseurl }}/ada/#ada-305_5)]
 
 At most elements, clear floor or ground space can be positioned for
 either a forward or a side approach. For better usability, a forward
@@ -61,7 +61,7 @@ text= "Centering the clear floor or ground space on elements is often advisable 
 
 ### Surface and Size
 
-[[§305.2](../ada-standards/chapter-3-building-blocks.html#305%20Clear%20Floor%20or%20Ground%20Space) and [§305.3](../ada-standards/chapter-3-building-blocks.html#305%20Clear%20Floor%20or%20Ground%20Space)]
+[[§305.2]({{ site.baseurl }}/ada/#ada-305_2)]
 
 <div class="grid-container">
   <div class="grid-row">
@@ -77,7 +77,7 @@ text= "Centering the clear floor or ground space on elements is often advisable 
 
 ### Approach and Maneuvering Clearance
 
-[[§305.6](../ada-standards/chapter-3-building-blocks.html#305%20Clear%20Floor%20or%20Ground%20Space) and [§305.7](../ada-standards/chapter-3-building-blocks.html#305%20Clear%20Floor%20or%20Ground%20Space)]
+[[§305.6]({{ site.baseurl }}/ada/#ada-305_6)]
 
 Where the space is obstructed on both sides for more than half the depth, additional clearance is required for maneuvering. Accessible routes must connect to the unobstructed side of the space.
 
@@ -85,7 +85,7 @@ Where the space is obstructed on both sides for more than half the depth, additi
 
 ### Knee and Toe Space
 
-[[§305.4](../ada-standards/chapter-3-building-blocks.html#305%20Clear%20Floor%20or%20Ground%20Space) and [§306](../ada-standards/chapter-3-building-blocks.html#306%20Knee%20and%20Toe%20Clearance)]
+[[§305.4]({{ site.baseurl }}/ada/#ada-305_4)]
 
 Objects that provide space for toes or knees can overlap a portion of
 the clear floor space. Knee and toe space allows a closer approach to
@@ -210,7 +210,7 @@ turn]({{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs19.jpg){: .img-la
 
 ### Size
 
-[[§304.3](../ada-standards/chapter-3-building-blocks.html#304%20Turning%20Space)]
+[[§304.3]({{ site.baseurl }}/ada/#ada-304_3)]
 
 Turning space can be provided in the shape of a circle or a "T". Elements
 with knee and toe space can overlap a portion of the turning space.
@@ -238,7 +238,7 @@ up.]({{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs21.jpg){: .img-lar
 
 ### Door Swing and Other Space Requirements
 
-[[§304.4](../ada-standards/chapter-3-building-blocks.html#304%20Turning%20Space)]
+[[§304.4]({{ site.baseurl }}/ada/#ada-304_4)]
 
 Doors can swing into the turning space. The turning space can overlap
 other space requirements, including clear floor space required at

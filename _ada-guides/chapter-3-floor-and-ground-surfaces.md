@@ -20,7 +20,7 @@ to:
 
 ### Firmness, Stability, and Slip Resistance
 
-[[§302.1](../ada-standards/chapter-3-building-blocks.html#302%20Floor%20or%20Ground%20Surfaces)]
+[[§302.1]({{ site.baseurl }}/ada/#ada-302_1)]
 
 Accessible floor and ground surfaces must be stable, firm, and slip
 resistant.  Stable surfaces resist movement, while firm surfaces resist
@@ -75,7 +75,7 @@ text= "Avoid materials or construction methods that create bumpy and uneven surf
 
 ### Carpet
 
-[[§302.2](../ada-standards/chapter-3-building-blocks.html#302%20Floor%20or%20Ground%20Surfaces)]
+[[§302.2]({{ site.baseurl }}/ada/#ada-302_2)]
 
 Carpet that is thick, cushiony, or loose impairs accessibility,
 particularly wheelchair maneuvering.  The standards specify the maximum
@@ -109,7 +109,7 @@ edges when the height exceeds ¼ inch.  The maximum height is ½ inch.
 
 ### Openings
 
-[[§302.3](../ada-standards/chapter-3-building-blocks.html#302%20Floor%20or%20Ground%20Surfaces)]
+[[§302.3]({{ site.baseurl }}/ada/#ada-302_3)]
 
 Openings in ground and floor surfaces, such as grates, are limited in
 width to prevent passage of a ½" diameter sphere.  Wheelchair casters

@@ -9,7 +9,7 @@ the [ADA Standards]({{ site.baseurl }}/ada/).
 
 ### Required Compliance
 
-[[§206.6](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.6]({{ site.baseurl }}/ada/#ada-206_6)]
 
 Elevators are the typical means of providing an accessible route between
 stories and to mezzanines. In facilities not required to have an
@@ -87,7 +87,7 @@ and private residence elevators.
 
 #### Elevator Landing Requirements
 
-[[§407.2](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
+[[§407.2]({{ site.baseurl }}/ada/#ada-407_2)]
 
 ![Elevator landing showing hall signals located 72" min. high measured
 to centerline and call buttons with clear floor space and located within
@@ -118,7 +118,7 @@ level]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl2.jpg){: .img-la
 
 #### Elevator Door Requirements
 
-[[§407.3](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
+[[§407.3]({{ site.baseurl }}/ada/#ada-407_3)]
 
 ![Timing distance shown measured 60" in front of farthest call button
 controlling car to centerline of hoistway door. Caption: Door and Signal
@@ -139,7 +139,7 @@ Doors must remain fully open 3 seconds min. in response to a call.
 
 ### Elevator Car Requirements
 
-[[§407.4](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
+[[§407.4]({{ site.baseurl }}/ada/#ada-407_4)]
 
 The ADA Standards specify the minimum car dimensions. Alternative
 configurations that provide unobstructed wheelchair turning space (60"
@@ -473,7 +473,7 @@ telephone cord must be 29" long min.
 
 #### Where Platform Lifts are Permitted
 
-[[§206.7](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.7]({{ site.baseurl }}/ada/#ada-206_7)]
 
 Platform lifts can be part of an accessible route in existing facilities
 that are altered. In new construction, platform lifts can be used to
@@ -507,7 +507,7 @@ text= "In alterations, it is advisable that platforms lifts be used only in inst
 
 ### ASME A18.1 Safety Standard
 
-[[§410.1](../ada-standards/chapter-4-accessible-routes.html#410%20Platform%20Lifts)]
+[[§410.1]({{ site.baseurl }}/ada/#ada-410_1)]
 
 ![ASME A18.1 Safety Standard for Platform Lifts and Stairway
 Chairlifts]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl18.jpg){: .float-right .thumbnail}

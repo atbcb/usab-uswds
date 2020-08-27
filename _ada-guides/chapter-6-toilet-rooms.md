@@ -36,7 +36,7 @@ accessible (§213.2, Ex. 3, §216.8).
 
 #### Unisex (Single-Use or Family) Toilet Rooms
 
-[[§213.2](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§213.2]({{ site.baseurl }}/ada/#ada-213_2)]
 
 ![Unisex restroom symbol]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/3.png){: .float-right .thumbnail}
 
@@ -88,7 +88,7 @@ The Standards specify the location of toilet rooms in two instances:
 
 #### Additions
 
-[[§202.2](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§202.2]({{ site.baseurl }}/ada/#ada-202_2)]
 
 Additions are required to comply with requirements in the Standards for
 new construction. Each toilet room of an addition must comply as would
@@ -96,7 +96,7 @@ be required in new construction.
 
 #### Alterations
 
-[[§202.3](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§202.3]({{ site.baseurl }}/ada/#ada-202_3)]
 
 When existing toilet rooms are altered, the Standards apply according to
 the planned scope of work. If one toilet room on a floor is altered, the
@@ -138,7 +138,7 @@ compliance is still required to the maximum extent feasible.
 
 #### Alterations and Additions to Primary Function Areas
 
-[[§202.4](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§202.4]({{ site.baseurl }}/ada/#ada-202_4)]
 
 When an area containing a primary function (a major activity intended
 for a facility) is altered or added to a facility, an \"accessible path
@@ -155,7 +155,7 @@ travel. See the [Alterations and Additions Guide](/guidelines-and-standards/buil
 
 #### Alterations to Qualified Historic Facilities
 
-[[§202.5](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities), [§213](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§202.5]({{ site.baseurl }}/ada/#ada-202_5)]
 
 ![historic site]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/6.png){: .float-right .thumbnail}
 
@@ -227,7 +227,7 @@ text= "Locate flush valves and related plumbing to the side of the water closet 
 
 #### Grab Bars
 
-[[§604.5](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments), [§609](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#609%20Grab%20Bars)]
+[[§604.5]({{ site.baseurl }}/ada/#ada-604_5)]
 
 Grab bars are required to be mounted on the walls beside and behind the
 water closet. They can be separate or continuous. When returned to
@@ -318,7 +318,7 @@ img-alt= "water closet with vertical grab bar above the horizontal side grab bar
 
 #### Toilet Paper Dispensers
 
-[[§604.7](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§604.7]({{ site.baseurl }}/ada/#ada-604_7)]
 
 <div class="clearfix" markdown="1">
 ![toilet paper
@@ -703,7 +703,7 @@ text= "Keep the lavatory outside the water closet clearance so that space is ava
 
 ### Water Closets and Toilet Compartments for Children's Use
 
-[[§604.1](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments), [§604.8](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments), [§604.9](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§604.1]({{ site.baseurl }}/ada/#ada-604_1)]
 
 Specifications based on children\'s dimensions can be followed when
 water closets and toilet compartments are designed primarily for use by

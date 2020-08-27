@@ -221,7 +221,7 @@ text2= ""
 
 ### Employee Work Areas
 
-[[§203.9](../ada-standards/chapter-2-scoping-requirements.html#203%20General%20Exceptions)]
+[[§203.9]({{ site.baseurl }}/ada/#ada-203_9)]
 
 {% include imgright-italictextbelow.html
 img-file= "chapter2-ada/nc14.jpg"
@@ -331,7 +331,7 @@ text= "Portions of common use circulation paths serving exempt spaces within a w
 
 ### Wiring for Visible Alarms
 
-[[§215.3](../ada-standards/chapter-2-scoping-requirements.html#215%20Fire%20Alarm%20Systems)]
+[[§215.3]({{ site.baseurl }}/ada/#ada-215_3)]
 
 ![fire alarm]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc19.jpg){: .float-right .thumbnail}
 
