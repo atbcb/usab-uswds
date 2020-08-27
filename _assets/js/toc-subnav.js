@@ -5,31 +5,41 @@
   // TODO Add support for updating link anchor style on scroll
   // and page anchor change
   function setPageSectionAnchors(event) {
+    let elements;
     let pageURL = event ? event.newURL : document.URL;
     let urlParsed = pageURL.split('#');
     let hasAnchor = urlParsed.length > 1;
     let currentAnchor = hasAnchor ? urlParsed[urlParsed.length - 1] : null;
+    let standard = document.getElementById("standard");
 
-    var elements = document.getElementById("standard").querySelectorAll("h3");
-    var subsections = document.getElementById("subsections");
+    if (standard) {
+      elements = standard.querySelectorAll("h3");
+    }
+
+    let subsections = document.getElementById("subsections");
+
     // Clear subsections list items
-    subsections.innerHTML = ""
+    if (subsections) {
+      subsections.innerHTML = ""
+    }
 
     if (elements) {
-      for (var i = 0; i < elements.length; i++) {
-        var section = elements[i].innerText;
+      for (let i = 0; i < elements.length; i++) {
+        let section = elements[i].innerText;
 
         // if section is empty go to next element in loop
         if (section === "") continue;
 
-        var idtag = section.replace(/ /g,"-");
-        var currentAnchorClass = currentAnchor === idtag ?
+        let idtag = section.replace(/ /g,"-");
+        let currentAnchorClass = currentAnchor === idtag ?
           'class="usa-current"' : 'class=""';
         elements[i].setAttribute("id",idtag);
 
-        var li = "<li><a " + currentAnchorClass + " href=\"#" + idtag + "\">" + section + "</a></li>";
+        let li = "<li><a " + currentAnchorClass + " href=\"#" + idtag + "\">" + section + "</a></li>";
 
-        subsections.innerHTML += li;
+        if (subsections) {
+          subsections.innerHTML += li;
+        }
       };
     }
   }
