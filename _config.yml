@@ -186,7 +186,7 @@ defaults:
       layout: standards
       file-directory: /files/ada-aba/
       image-directory: /images/ada-aba/standards/
-      right-sidenav: ada-right-sidenav.html
+      right-sidenav: sidenav-ada.html
   - scope:
       path: ""
       type: "ada-guides"
@@ -196,7 +196,7 @@ defaults:
       layout: standards
       file-directory: /files/ada-aba/guides/ada/
       image-directory: /images/ada-aba/guides/
-      right-sidenav: ada-right-sidenav.html
+      right-sidenav: sidenav-ada.html
   - scope:
       path: ""
       type: "aba"
@@ -207,7 +207,7 @@ defaults:
       layout: standards
       file-directory: /files/ada-aba/
       image-directory: /images/ada-aba/standards/
-      right-sidenav: aba-right-sidenav.html
+      right-sidenav: sidenav-aba.html
   - scope:
       path: ""
       type: "aba-guides"
@@ -217,7 +217,7 @@ defaults:
       layout: standards
       file-directory: /files/ada-aba/guides/aba/
       image-directory: /images/ada-aba/guides/
-      right-sidenav: aba-right-sidenav.html
+      right-sidenav: sidenav-aba.html
   - scope:
       path: ""
       type: "ada-background"
