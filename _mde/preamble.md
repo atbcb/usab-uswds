@@ -7,7 +7,7 @@ Published in the *Federal Register* on January 9, 2017.
 36 CFR Part 1195\
 RIN 3014-AA40
 
-#### Standards for Accessible Medical Diagnostic Equipment
+### Standards for Accessible Medical Diagnostic Equipment
 
 **AGENCY:** Architectural and Transportation Barriers Compliance Board.
 
