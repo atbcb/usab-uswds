@@ -26,7 +26,7 @@ and alterations. All types of public facilities are covered, including
 schools, hospitals, public housing, courthouses, and prisons. Federal
 facilities are not covered by the ADA, but by an earlier law, the
 Architectural Barriers Act (ABA) and must meet separate, though very
-similar, [standards](../../about-the-aba-standards.html).
+similar, [standards]({{ site.baseurl }}/aba/).
 
 #### Places of Public Accommodation and Commercial Facilities
 
@@ -52,7 +52,7 @@ facilities whose operations affect commerce.
 Bus stops and stations, rail stations, and other transportation
 facilities are required to be accessible by the ADA. The ADA also
 establishes [standards for transportation
-vehicles](../../../transportation/vehicles/about-adaag-for-transportation-vehicles.html),
+vehicles]({{ site.baseurl }}/ada/vehicles/),
 including buses, vans, and rail cars (which are not discussed in this
 guide).
 
@@ -294,7 +294,7 @@ example, unlike the ADA guidelines, the ANSI standards require an
 additional vertical grab bar at water closets, transfer shower stalls,
 and tubs. Detailed comparisons between the 2004 ADA guidelines and the
 IBC/ANSI standard are available on the Access Board's
-[website](../background.html) and the International Code Council's
+[website]({{ site.baseurl }}/ada/ada-ibc-comparison/) and the International Code Council's
 website at
 [www.iccsafe.org](http://www.iccsafe.org/safety/Pages/accessibility-1.aspx).
 
