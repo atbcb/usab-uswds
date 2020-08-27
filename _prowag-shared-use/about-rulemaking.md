@@ -104,7 +104,7 @@ The proposed supplemental provisions on shared use paths are further described i
 
 - [**Advisory Committee Members**](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/background/advisory-committee-members)
 
-#### Timeline:
+### Timeline:
 
 - December 21, 1992 - Board proposes guidelines for state and local government facilities that includes a section on public rights-of-way
 
