@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   standards for the built environment, transportation, communication, medical diagnostic
   equipment, and information technology.
 baseurl: "" # the subpath of your site, e.g. /blog
-# url: "https://example.gov" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://access-board.gov"
 
 # Twitter handle. Only the handle, not the URL.
 twitter: AccessBoard
@@ -152,12 +152,9 @@ collections:
   ada-vehicles:
     output: true
     permalink: /ada/vehicles/:path/
-  ada-vehicles-update-buses-and-vans:
+  ada-vehicles-guides:
     output: true
-    permalink: /ada/vehicles/update/buses-and-vans/:path/
-  ada-vehicles-update-rail-cars:
-    output: true
-    permalink: /ada/vehicles/update/rail-cars/:path/
+    permalink: /ada/vehicles/guides/:path/
   ict:
     output: true
     permalink: /ict/:path/
@@ -186,7 +183,7 @@ defaults:
       layout: standards
       file-directory: /files/ada-aba/
       image-directory: /images/ada-aba/standards/
-      right-sidenav: ada-right-sidenav.html
+      right-sidenav: sidenav-ada.html
   - scope:
       path: ""
       type: "ada-guides"
@@ -196,7 +193,7 @@ defaults:
       layout: standards
       file-directory: /files/ada-aba/guides/ada/
       image-directory: /images/ada-aba/guides/
-      right-sidenav: ada-right-sidenav.html
+      right-sidenav: sidenav-ada.html
   - scope:
       path: ""
       type: "aba"
@@ -207,17 +204,18 @@ defaults:
       layout: standards
       file-directory: /files/ada-aba/
       image-directory: /images/ada-aba/standards/
-      right-sidenav: aba-right-sidenav.html
+      right-sidenav: sidenav-aba.html
   - scope:
       path: ""
       type: "aba-guides"
     values:
-      collection-title: "Guide to the ABA Accessibility Standards"
+      collection-title: "Guide to the ABA"
+      collection-subtitle: "Accessibility Standards"
       collection-folder: aba-guides
       layout: standards
       file-directory: /files/ada-aba/guides/aba/
       image-directory: /images/ada-aba/guides/
-      right-sidenav: aba-right-sidenav.html
+      right-sidenav: sidenav-aba.html
   - scope:
       path: ""
       type: "ada-background"
@@ -238,6 +236,7 @@ defaults:
       layout: standards
       file-directory: /files/prowag/
       image-directory: /images/prowag/
+      right-sidenav: sidenav-prowag.html
   - scope:
       path: ""
       type: "prowag-rulemaking"
@@ -256,24 +255,17 @@ defaults:
       layout: standards
       file-directory: /files/vehicles/
       image-directory: /images/vehicles/
+      right-sidenav: sidenav-vehicles.html
   - scope:
       path: ""
-      type: "ada-vehicles-update-buses-and-vans"
+      type: "ada-vehicles-guides"
     values:
-      collection-title: "Buses and Vans Update"
-      collection-folder: ada-vehicles-update-buses-and-vans
+      collection-title: "Guide to ADA Vehicles"
+      collection-folder: ada-vehicles-guides
       layout: standards
       file-directory: /files/vehicles/
       image-directory: /images/vehicles/
-  - scope:
-      path: ""
-      type: "ada-vehicles-update-rail-cars"
-    values:
-      collection-title: "Rail Cars Update"
-      collection-folder: ada-vehicles-update-rail-cars
-      layout: standards
-      file-directory: /files/vehicles/
-      image-directory: /images/vehicles/
+      right-sidenav: sidenav-vehicles.html
   - scope:
       path: ""
       type: "ict"
@@ -294,6 +286,7 @@ defaults:
       layout: standards
       file-directory: /files/mde/
       image-directory: /images/mde/
+      right-sidenav: sidenav-mde.html
   - scope:
       path: ""
       type: "pvag"
@@ -304,6 +297,7 @@ defaults:
       layout: standards
       file-directory: /files/pvag/
       image-directory: /images/pvag/
+      right-sidenav: sidenav-pvag.html
   - scope:
       path: "_authors"
     values:
