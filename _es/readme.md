@@ -11,5 +11,5 @@ This directory is a collection of our (eleven) Spanish Lanuage (En Español) pag
 | ley-aba.md | yes, \_pages/law-aba.md | Ley de Barreras Arquitectónicas del 1968 (ABA) | Law of Barriers Architectural of 1968 (ABA) | https://www.access-board.gov/en-espa%C3%B1ol/aplicaci%C3%B3n/ley-de-barreras-arquitect%C3%B3nicas-aba |
 | otros-recursos.md | yes, \_pages/enforcement-other-resources.md | Otros Recursos de Aplicación | Other Resources for Enforcement | https://www.access-board.gov/en-espa%C3%B1ol/aplicaci%C3%B3n/otros-recursos |
 | investigación.md | yes, \_pages/research.md | Investigación | Research | https://www.access-board.gov/en-espa%C3%B1ol/investigaci%C3%B3n |
-| formulario-denuncia-papel | no, deprecated print-and-mail form | Formulario de Denuncia bajo la Ley de Barreras Arquitectónicas del 1968 | Complaint Form under the Architectural Barriers Act of 1968 | na |
+| formulario-denuncia-papel | no, deprecated print-and-mail form | Formulario de Denuncia bajo la Ley de Barreras Arquitectónicas del 1968 | Complaint Form under the Architectural Barriers Act of 1968 | https://www.access-board.gov/en-espa%C3%B1ol/aplicaci%C3%B3n/formulario-de-denuncia-bajo-la-ley-de-barreras-arquitect%C3%B3nicas-del-1968 |
 |  |  |  |  |  |
