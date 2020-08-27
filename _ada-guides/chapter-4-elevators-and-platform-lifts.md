@@ -166,7 +166,7 @@ front return. Any 36" min wide door permitted a tolerance of minus
 
 #### Elevator Car Requirements
 
-[[§407.4.2](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators) -- [§407.4.5](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
+[[§407.4.2]({{ site.baseurl }}/ada/#ada-407_4_2)]
 
 Other requirements for elevator cars include:
 
@@ -184,7 +184,7 @@ conditions.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl6.jpg){: .
 
 #### Car Controls
 
-[[§407.4.6](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators) and [§407.4.7](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
+[[§407.4.6]({{ site.baseurl }}/ada/#ada-407_4_6)]
 
 If more than one car control panel is provided in a car, both must
 comply (except in existing cars where only 1 panel must comply).
@@ -238,7 +238,7 @@ elevators. Specifications include:
 
 #### Emergency Communication
 
-[[§407.4.9](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
+[[§407.4.9]({{ site.baseurl }}/ada/#ada-407_4_9)]
 
 {% include imgright-italictextbelow.html
 img-file= "chapter4/4epl10.jpg"

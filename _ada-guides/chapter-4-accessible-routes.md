@@ -9,7 +9,7 @@ routes in the [ADA Standards]({{ site.baseurl }}/ada/).
 
 ### Where Required: Site Arrival Points 
 
-[[§206.2.1](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.2.1]({{ site.baseurl }}/ada/#ada-206_2_1)]
 
 At least one accessible route must be provided within the site to
 accessible facility entrances from these site arrival points, where
@@ -56,7 +56,7 @@ shelters.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar3.jpg){: .img
 
 ### Accessible Routes within a Site
 
-[[§206.2.2](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.2.2]({{ site.baseurl }}/ada/#ada-206_2_2)]
 
 At least one accessible route within the boundary of the site
 originating from site arrival points must connect all accessible
@@ -93,7 +93,7 @@ text= "In alterations and additions, an accessible route is required where circu
 
 ### Where Required: Multi-Story Buildings and Facilities
 
-[[§206.2.3](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.2.3]({{ site.baseurl }}/ada/#ada-206_2_3)]
 
 An accessible route must connect each story and mezzanine in a facility
 unless an exception applies. However, if a building does qualify for an
@@ -222,7 +222,7 @@ additions.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar13.jpg){: .i
 
 ### Accessible Routes to Accessible Spaces and Elements
 
-[[§206.2.4](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.2.4]({{ site.baseurl }}/ada/#ada-206_2_4)]
 
 An accessible route must connect accessible facility entrances with all
 accessible spaces and elements in a facility that are connected by a
@@ -251,7 +251,7 @@ text= "In alterations, an accessible route is not required to existing raised/ s
 
 ### Press Boxes
 
-[[§206.2.7](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.2.7]({{ site.baseurl }}/ada/#ada-206_2_7)]
 
 An accessible route is required to press boxes except where the
 aggregate area of all press boxes serving a playing field or assembly
@@ -287,7 +287,7 @@ calculated separately for each assembly area."
 
 ### Employee Work Areas
 
-[[§206.2.8](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.2.8]({{ site.baseurl }}/ada/#ada-206_2_8)]
 
 Common use circulation paths must be accessible in employee work areas
 that are 1,000 sq. ft. or more in size. This applies to the size of work
@@ -398,7 +398,7 @@ turn.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar25.jpg){: .img-la
 
 ### Passing Space
 
-[[§403.5.3](../ada-standards/chapter-4-accessible-routes.html#403%20Walking%20Surfaces)]
+[[§403.5.3]({{ site.baseurl }}/ada/#ada-403_5_3)]
 
 Passing space is required every 200 feet and must be provided as a 60"
 by 60" minimum space or as T-shaped space where each stem is at least

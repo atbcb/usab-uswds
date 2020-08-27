@@ -118,7 +118,7 @@ between runs.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr7.jpg){:
 
 ### Doorways at Landings
 
-[[§405.7.5](../ada-standards/chapter-4-accessible-routes.html#405%20Ramps)]
+[[§405.7.5]({{ site.baseurl }}/ada/#ada-405_7_5)]
 
 Required door maneuvering clearances can overlap ramp landings (it is
 advisable to locate the swing of doors outside ramp landings for greater

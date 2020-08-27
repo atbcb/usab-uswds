@@ -371,7 +371,7 @@ Accessible parking spaces are not required in mechanical access parking garages 
 
 ### Hospital Outpatient Facilities
 
-[[§208.2.1](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces)]
+[[§208.2.1]({{ site.baseurl }}/ada/#ada-208_2_1)]
 
 The Standards require a higher level of accessible parking at hospital
 outpatient facilities. At least 10% of patient and visitor parking
@@ -397,7 +397,7 @@ table.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p12.jpg){: .img-la
 
 ### Rehabilitation and Outpatient Physical Therapy Facilities
 
-[[§208.2.2](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces)]
+[[§208.2.2]({{ site.baseurl }}/ada/#ada-208_2_2)]
 
 At least 20% of patient and visitor parking spaces must be accessible at
 outpatient physical therapy facilities (including those not located at

@@ -845,7 +845,7 @@ they can swing into turning space.]({{ site.baseurl }}{{ page.image-directory }}
 
 ### Wheelchair Accessible Toilet Compartments
 
-[[§213.3.1](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§604.8](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§213.3.1]({{ site.baseurl }}/ada/#ada-213_3_1)]
 
 At least one toilet compartment must be wheelchair accessible where
 toilet compartments are provided.
@@ -958,7 +958,7 @@ or 65" min. (floor-mounted water closet).]({{ site.baseurl }}{{ page.image-direc
 
 #### Toilet Compartments Designed for Children's Use
 
-[[§604.8.1](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§604.8.1]({{ site.baseurl }}/ada/#ada-604_8_1)]
 
 <div class="clearfix" markdown="1">
 ![Wheelchair accessible toilet compartment for children that is 60" wide
@@ -1008,7 +1008,7 @@ compartment (§213.3.4).]({{ site.baseurl }}{{ page.image-directory }}chapter6/t
 
 ### Ambulatory Accessible Toilet Compartment
 
-[[§213.3.1](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§604.8](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§213.3.1]({{ site.baseurl }}/ada/#ada-213_3_1)]
 
 Ambulatory accessible toilet compartments provide parallel grab bars and
 benefit people who use crutches, canes, walkers and similar devices or
@@ -1035,7 +1035,7 @@ toilet paper dispensers, coat hooks, and shelves also apply.]({{ site.baseurl }}
 
 ### Urinals
 
-[[§213.3.3](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§605](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#605%20Urinals)]
+[[§213.3.3]({{ site.baseurl }}/ada/#ada-213_3_3)]
 
 At least one urinal must comply where two or more urinals are provided
 in a toilet room. Specifications address rim height, depth, flush

@@ -61,7 +61,7 @@ identified by the International Symbol of Accessibility.
 
 ### Bus Loading Areas and On-Street Bus Stops
 
-[[§209.2.2](../ada-standards/chapter-2-scoping-requirements.html#209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops) and [§209.2.3](../ada-standards/chapter-2-scoping-requirements.html#209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops)]
+[[§209.2.2]({{ site.baseurl }}/ada/#ada-209_2_2)]
 
 Loading zones designed for buses that provide general or special
 service, including charter service, to the public on a regular and

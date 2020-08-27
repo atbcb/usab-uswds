@@ -85,7 +85,7 @@ safety.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg4.JPG){: .img-
 
 ### Restricted Entrances
 
-[[§206.4.7](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.4.7]({{ site.baseurl }}/ada/#ada-206_4_7)]
 
 If entrances are restricted to certain occupants on a controlled basis,
 at least one must comply in addition to public entrances required to be
@@ -161,7 +161,7 @@ leaves.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg8ab.jpg){: .im
 
 ### Clear Width
 
-[[§404.2.3](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.3]({{ site.baseurl }}/ada/#ada-404_2_3)]
 
 <div class="clearfix" markdown="1">
 ![Clear width 32" min. shown measured from the stop to the face of the
@@ -183,7 +183,7 @@ height]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg10.jpg){: .img-
 
 ### Maneuvering Clearances
 
-[[§404.2.4](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.4]({{ site.baseurl }}/ada/#ada-404_2_4)]
 
 Required maneuvering clearances provide space for opening and proceeding
 through doors, doorways, and gates using wheelchairs and other mobility
@@ -244,7 +244,7 @@ forward approach 8 inches max from face of the door">
 
 ### Thresholds
 
-[[§404.2.5](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.5]({{ site.baseurl }}/ada/#ada-404_2_5)]
 
 <div class="clearfix" markdown="1">
 ![Threshold at door]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg18.jpg){: .img-right}
@@ -266,7 +266,7 @@ below bevel, not above.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4e
 
 ### Doors and Gates in Series
 
-[[§404.2.6](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.6]({{ site.baseurl }}/ada/#ada-404_2_6)]
 
 At hinged or pivoted doors or gates in series, a separation is required
 that is at least 48" plus the width of doors or gates swinging into the
@@ -285,7 +285,7 @@ series.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg20.jpg){: .img
 
 ### Door and Gate Hardware
 
-[[§404.2.7](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.7]({{ site.baseurl }}/ada/#ada-404_2_7)]
 
 ![Door lever pushed with closed fist]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg22.jpg){: .img-right}
 
@@ -316,7 +316,7 @@ text="<ul class=\"margin-left-4\"><li>Specify hardware that is usable with a clo
 
 ### Opening Force
 
-[[§404.2.9](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.9]({{ site.baseurl }}/ada/#ada-404_2_9)]
 
 The maximum 5 lbf opening force applies to all accessible doors and
 gates except:
@@ -396,7 +396,7 @@ horizontal.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg25.jpg){: 
 
 ### Communication Access at Doors
 
-[[§806.3.2](../ada-standards/chapter-8-special-rooms,-spaces,-and-elements.html#806%20Transient%20Lodging%20Guest%20Rooms), [§809.5](../ada-standards/chapter-8-special-rooms,-spaces,-and-elements.html#809%20Residential%20Dwelling%20Units)]
+[[§806.3.2]({{ site.baseurl }}/ada/#ada-806_3_2)]
 
 <div class="clearfix" markdown="1">
 In addition to requirements for two-way communication systems provided
@@ -485,7 +485,7 @@ edition)]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg31.jpg){: .im
 
 #### Controls
 
-[[§404.3.5](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.3.5]({{ site.baseurl }}/ada/#ada-404_3_5)]
 
 Door and gate controls must be compliant as operable parts (operable
 with one hand and without tight grasping, pinching, twisting of the

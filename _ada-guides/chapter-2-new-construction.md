@@ -283,7 +283,7 @@ comply.]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc16a.jpg){: .
 
 ### Common Use Circulation Paths in Employee Work Areas
 
-[[§206.2.8](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.2.8]({{ site.baseurl }}/ada/#ada-206_2_8)]
 
 Common use circulation paths must be accessible in work areas 1,000
 square feet or more in size (as defined by permanently installed
