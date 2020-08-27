@@ -17,10 +17,10 @@ See:  [DOT's Accessibility Specifications for Transportation Vehicles](http://
 
 
 ## Update of the Guidelines for Transportation Vehicles
-The Board is in the process of updating the vehicle guidelines and has finalized [updates to sections of guidelines covering buses and vans.](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/final-updated-guidelines-for-buses-and-vans)  The Board updated sections of the guidelines covering buses and vans in 2016.  The Board is initiating an update of other sections of the guidelines covering rail cars  based on recommendations from an advisory committee organized by the Board.
+The Board is in the process of updating the vehicle guidelines and has finalized [updates to sections of guidelines covering buses and vans.]({{ site.baseurl }}/ada/vehicles/update/buses-vans/)  The Board updated sections of the guidelines covering buses and vans in 2016.  The Board is initiating an update of other sections of the guidelines covering rail cars  based on recommendations from an advisory committee organized by the Board.
 
 ### Update of Guidelines for Rail Cars
-![train](https://www.access-board.gov/images/guidelines_standards/Transportation/rail.jpg){: .thumbnail .float-right}
+![train]({{ site.baseurl }}/images/rail.jpg){: .thumbnail .float-right}
 
 -   [Advance Notice of Proposed Rulemaking](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/advance-notice-of-proposed-rulemaking) (February 14, 2020)
 -   [Notice Extending Comment Period 60 Days](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/advance-notice-of-proposed-rulemaking-2) (April 10, 2020)
@@ -32,7 +32,7 @@ The Board is in the process of updating the vehicle guidelines and has finalized
 ### Update of Guidelines for Buses and Vans
 ![bus](https://www.access-board.gov/images/guidelines_standards/Transportation/bus.jpg){: .thumbnail .float-right}
 
--   [Final Updated Guidelines for Buses and Vans](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/final-updated-guidelines-for-buses-and-vans) (December 14, 2016)
+-   [Final Updated Guidelines for Buses and Vans]({{ site.baseurl }}/ada/vehicles/update/buses-vans/) (December 14, 2016)
 -   [Regulatory Assessment of the Final Guidelines](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/final-regulatory-assessment) 
 -   [News Release](https://www.access-board.gov/news/1843-access-board-updates-ada-guidelines-for-buses-and-vans)
 
@@ -44,3 +44,5 @@ The Board is in the process of updating the vehicle guidelines and has finalized
 -   [Cost Estimates for Automated Stop and Route Announcements](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/cost-estimates-for-automated-stop-and-route-announcements)
 -   [Revised Draft of Updated ADA Guidelines for Buses and Vans](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/revised-draft-of-updated-guidelines-for-buses-and-vans) (November 19, 2008)
 -   [Draft of Updated ADA Guidelines for Buses and Vans](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/draft-update) (April 11, 2007)
+
+### Timeline
