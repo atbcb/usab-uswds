@@ -452,7 +452,7 @@ to the scoping table in 208.2.]({{ site.baseurl }}{{ page.image-directory }}chap
 
 ### Accessible Parking Spaces 
 
-[[§502](../ada-standards/chapter-5-general-site-and-building-elements.html#502%20Parking%20Spaces)]
+[[§502]({{ site.baseurl }}/ada/#ada-502)]
 
 Requirements for accessible parking spaces address the size and marking
 of regular and van spaces and access aisles, surfaces, vertical

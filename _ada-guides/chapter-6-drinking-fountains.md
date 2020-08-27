@@ -10,7 +10,7 @@ drinking fountains. 
 
 ### Required Compliance
 
-[[§211](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#211%20Drinking%20Fountains)]
+[[§211]({{ site.baseurl }}/ada/#ada-211)]
 
 Where drinking fountains are provided, access is required for both
 people who use wheelchairs and for standing persons. This dual access
@@ -56,7 +56,7 @@ exempt (§211.1, Ex).)
 
 #### Alterations and Additions 
 
-[[§202](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§202]({{ site.baseurl }}/ada/#ada-202)]
 
 In alterations and additions, requirements for drinking fountains apply
 where units are altered, replaced, or added to a facility (§202.2,

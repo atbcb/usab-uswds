@@ -261,7 +261,7 @@ accumulation of water. Landings are permitted slopes not steeper than
 
 ### Curb Ramps
 
-[[§406](../ada-standards/chapter-4-accessible-routes.html#406%20Curb%20Ramps)]
+[[§406]({{ site.baseurl }}/ada/#ada-406)]
 
 Requirements for curb ramps apply to ramps that cut through curbs or are
 built up to them. New guidelines the Board is developing for public

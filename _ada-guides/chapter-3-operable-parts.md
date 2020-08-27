@@ -9,7 +9,7 @@ Standards](../ada-standards.html) for operable parts.
 
 ### Operable Parts Covered
 
-[[§205](../ada-standards/chapter-2-scoping-requirements.html#205%20Operable%20Parts)]
+[[§205]({{ site.baseurl }}/ada/#ada-205)]
 
 Compliance is required for operable parts located in accessible spaces
 and along accessible routes. Operable parts include light switches,
@@ -44,7 +44,7 @@ receptacles.]({{ site.baseurl }}{{ page.image-directory }}chapter3/3op3-text.jpg
 
 ### Operable Parts
 
-[[§309](../ada-standards/chapter-3-building-blocks.html#309%20Operable%20Parts)]
+[[§309]({{ site.baseurl }}/ada/#ada-309)]
 
 Requirements apply generally to all types of operable parts covered.
 They are also referenced by technical sections of the standards covering

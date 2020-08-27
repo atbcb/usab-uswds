@@ -9,7 +9,7 @@ This guide explains requirements in the [ADA Standards](/guidelines-and-standar
 
 ### Required Compliance 
 
-[[§213](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§213]({{ site.baseurl }}/ada/#ada-213)]
 
 Plumbing and building codes address the number and type of bathing rooms
 and fixtures required for a facility. The ADA Standards, on the other
@@ -125,7 +125,7 @@ one urinal is provided."
 
 ### Roll-In Shower Compartments
 
-[[§608](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#608%20Shower%20Compartments)]
+[[§608]({{ site.baseurl }}/ada/#ada-608)]
 
 Roll-in shower compartments provide access for shower chairs and other
 wheeled mobility aids without the need to transfer to a seat. The
@@ -361,7 +361,7 @@ the seat.
 
 ### Transfer Shower Compartment
 
-[[§608](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#608%20Shower%20Compartments)]
+[[§608]({{ site.baseurl }}/ada/#ada-608)]
 
 Transfer shower compartments must have a seat (folding or non-folding)
 and are sized so that controls and grab bars are usable from the seat.
@@ -602,7 +602,7 @@ have legs.
 
 ### Bathtubs
 
-[[§607](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#607%20Bathtubs)]
+[[§607]({{ site.baseurl }}/ada/#ada-607)]
 
 Bathtubs must be equipped with a removable in-tub seat or a permanent
 seat at the head end of the tub.
@@ -679,7 +679,7 @@ open tub face.
 
 ####  Bathtub with Permanent Seat
 
-[[§607](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#607%20Bathtubs)]
+[[§607]({{ site.baseurl }}/ada/#ada-607)]
 
 Permanent seats must be located at the head end and extend from the back
 wall to or beyond the outer edge of the bathtub. Specifications for grab

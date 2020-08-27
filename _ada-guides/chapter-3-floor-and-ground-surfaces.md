@@ -128,7 +128,7 @@ text= "Elongated openings, like those of most grates, must be oriented so that t
 
 ### Changes in Level
 
-[[§303](../ada-standards/chapter-3-building-blocks.html#303%20Changes%20in%20Level)]
+[[§303]({{ site.baseurl }}/ada/#ada-303)]
 
 Changes in level can be up to ¼" without treatment or ½" if beveled with
 a slope no steeper than 1:2.  Changes in level above a ½" must be

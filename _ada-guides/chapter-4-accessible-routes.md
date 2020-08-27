@@ -338,7 +338,7 @@ The ADA Standards also address accessible routes to amusement rides, boating fac
 
 ### Accessible Routes
 
-[[§402](../ada-standards/chapter-4-accessible-routes.html#402%20Accessible%20Routes)]
+[[§402]({{ site.baseurl }}/ada/#ada-402)]
 
 Components of accessible routes include walking surfaces, doorways,
 ramps, curb ramps, elevators, and, where permitted, platform lifts.

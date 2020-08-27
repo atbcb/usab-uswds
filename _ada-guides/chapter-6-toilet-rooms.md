@@ -10,7 +10,7 @@ toilet rooms. 
 
 ### Required Compliance
 
-[[§213](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§213]({{ site.baseurl }}/ada/#ada-213)]
 
 Plumbing and building codes address the number and type of toilet rooms
 and toilet fixtures required for a facility. The ADA Standards, on the
@@ -409,7 +409,7 @@ toilet rooms will enhance usability.
 
 #### Doors
 
-[[§404](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404]({{ site.baseurl }}/ada/#ada-404)]
 
 Maneuvering clearance is required at doors based on the approach and
 swing. No elements can overlap door maneuvering clearances.
@@ -448,7 +448,7 @@ using wheeled mobility aids.
 
 #### Turning Space
 
-[[§304](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-3-building-blocks#304%20Turning%20Space), [§603.2.1](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#603%20Toilet%20and%20Bathing%20Rooms)]
+[[§304]({{ site.baseurl }}/ada/#ada-304)]
 
 Turning space is required in the room and can be provided as a 60\"
 diameter circle or T-shaped space. Doors can swing into the turning
@@ -571,7 +571,7 @@ text= "Toilet rooms sized to provide more space than the minimum required by the
 
 ### Dispensers and Receptacles [§205, §309], Coat Hooks and Shelves [§213.3.7, §603.4]
 
-[[§205](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#205%20Operable%20Parts), [§309](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-3-building-blocks#309%20Operable%20Parts)\], [[§213.3.7](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§603.4](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#603%20Toilet%20and%20Bathing%20Rooms)]
+[[§205]({{ site.baseurl }}/ada/#ada-205)]
 
 Dispensers, receptacles, and other operable parts, as well as shelves
 and coat hooks, must comply where provided.
@@ -592,7 +592,7 @@ of each type must be located 40" min. to 48" max.AFF.]({{ site.baseurl }}{{ page
 
 #### Baby Changing Tables
 
-[[§226](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#226%20Dining%20Surfaces%20and%20Work%20Surfaces), [§902](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-9-built-in-elements#902%20Dining%20Surfaces%20and%20Work%20Surfaces)]
+[[§226]({{ site.baseurl }}/ada/#ada-226)]
 
 ![baby changing icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/43.png){: .float-right .thumbnail}
 
@@ -873,7 +873,7 @@ opening._
 
 #### Compartment Doors
 
-[[§404](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates), [§604.8.1.2](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§404]({{ site.baseurl }}/ada/#ada-404)]
 
 Compartment doors must meet applicable requirements for doors, including
 the clear width (32\" min.), hardware, and opening force (5 lbs. max.).
@@ -990,7 +990,7 @@ compartment area.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-r
 
 #### Toilet Compartment with a Lavatory
 
-[[§603](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#603%20Toilet%20and%20Bathing%20Rooms), [§604.8](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§603]({{ site.baseurl }}/ada/#ada-603)]
 
 No other fixture besides the toilet can be located in the minimum space
 required for the compartment. If a lavatory or another plumbing fixture
@@ -1073,7 +1073,7 @@ max.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/73.png){
 
 <div class="border margin-left-8 margin-right-8 padding-1" markdown="1" style="background-color: #e2e1ef;">
 #### Toilet Room Signs
-[[§216](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#216%20Signs) and [§703](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-7-communication-elements-and-features#703%20Signs)]
+[[§216]({{ site.baseurl }}/ada/#ada-216)]
 
 ![men's room sign]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/74.png){: .float-right .thumbnail}
 ![women's room sign]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/74b.png){: .float-right .thumbnail}

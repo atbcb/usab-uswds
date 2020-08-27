@@ -42,7 +42,7 @@ specify the elements and spaces provided that must be accessible.
 
 ### Application
 
-[[§201](../ada-standards/chapter-2-scoping-requirements.html#201%20Application)]
+[[§201]({{ site.baseurl }}/ada/#ada-201)]
 
 The ADA Standards apply to the various types of facilities subject to
 the ADA, from simple structures to complex, multi-building sites such as
@@ -128,7 +128,7 @@ purposes]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc5.jpg){: .i
 
 ### General Exceptions
 
-[[§203](../ada-standards/chapter-2-scoping-requirements.html#203%20General%20Exceptions)]
+[[§203]({{ site.baseurl }}/ada/#ada-203)]
 
 These structures and spaces are fully exempt from the standards and are
 not required to be accessible or on an accessible route:

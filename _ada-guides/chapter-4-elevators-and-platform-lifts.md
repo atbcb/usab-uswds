@@ -83,7 +83,7 @@ and private residence elevators.
 
 ### Elevators
 
-[[§407](../ada-standards/chapter-4-accessible-routes.html#407%20Elevators)]
+[[§407]({{ site.baseurl }}/ada/#ada-407)]
 
 #### Elevator Landing Requirements
 
@@ -405,7 +405,7 @@ text= "For greater usability, make those altered elements covered by an exceptio
 
 ### Limited-Use/ Limited-Application Elevators
 
-[[§408](../ada-standards/chapter-4-accessible-routes.html#408%20Limited%20Use%20/%20Limited%20Application%20Elevators)]
+[[§408]({{ site.baseurl }}/ada/#ada-408)]
 
 LULA elevators are passenger elevators that are permitted in facilities
 where an accessible route between stories or mezzanines is not required
@@ -439,7 +439,7 @@ minimum.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl16.jpg){: .im
 
 ### Private Residence Elevators
 
-[[§409](../ada-standards/chapter-4-accessible-routes.html#409%20Private%20Residence%20Elevators)]
+[[§409]({{ site.baseurl }}/ada/#ada-409)]
 
 Private residence elevators are permitted only within a residential
 dwelling unit or in a multiple dwelling unit facility as a means of

@@ -14,7 +14,7 @@ standards reference these basic "building block" requirements.
 
 ### Clear Floor or Ground Space
 
-[[§305](../ada-standards/chapter-3-building-blocks.html#305%20Clear%20Floor%20or%20Ground%20Space)]
+[[§305]({{ site.baseurl }}/ada/#ada-305)]
 
 Sufficient clear floor or ground space is required at accessible
 controls, operable parts, drinking fountains, lavatories and sinks, ATMs
@@ -157,7 +157,7 @@ text= "When the knee and toe depth exceeds the 17” minimum, the additional spa
 
 ### Turning Space
 
-[[§304](../ada-standards/chapter-3-building-blocks.html#304%20Turning%20Space)]
+[[§304]({{ site.baseurl }}/ada/#ada-304)]
 
 ![icons representing toilet/bathing facilities, dressing rooms,
 transient lodging, dwelling units, medical care facilities, and prison

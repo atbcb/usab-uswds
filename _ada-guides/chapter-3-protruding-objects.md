@@ -10,7 +10,7 @@ for protruding objects.
 
 ### Protruding Objects
 
-[[§204](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#204%20Protruding%20Objects)]
+[[§204]({{ site.baseurl }}/ada/#ada-204)]
 
 To prevent hazards to people with vision impairments, the standards
 limit the projection of objects into circulation paths. These

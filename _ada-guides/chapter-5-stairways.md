@@ -9,7 +9,7 @@ Standards](../ada-standards.html) for stairways. 
 
 ### Required Compliance
 
-[[§210](../ada-standards/chapter-2-scoping-requirements.html#210%20Stairways)]
+[[§210]({{ site.baseurl }}/ada/#ada-210)]
 
 Interior and exterior stairs that are part of a required means of egress
 must meet the Standards. Compliance is required for all stairs on
@@ -38,7 +38,7 @@ means of egress are altered (§210.1, Ex. 2).
 
 ### Stairways
 
-[[§504](../ada-standards/chapter-5-general-site-and-building-elements.html#504%20Stairways)]
+[[§504]({{ site.baseurl }}/ada/#ada-504)]
 
 Requirements for stairways address treads and risers, surfaces, nosings,
 and handrails.
