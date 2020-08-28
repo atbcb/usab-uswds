@@ -8,7 +8,7 @@ file-description: Single file PDF version of the ADA Guides
 
 
 This guide explains requirements in the current editions of the [ADA
-Standards](../ada-standards.html) issued by the Department of Justice
+Standards]({{ site.baseurl }}/ada/) issued by the Department of Justice
 (DOJ) and the Department of Transportation (DOT). It was developed by
 the U.S. Access Board in cooperation with DOJ and DOT. It is important
 to use this guide along with a complete copy of the ADA Standards as it
@@ -24,8 +24,7 @@ March 15, 2012. DOJ's ADA Standards apply to all facilities covered by
 the ADA except public transit facilities.
 
 DOT issued its current edition of the [ADA
-Standards](../../../transportation/facilities/ada-standards-for-transportation-facilities.html)
-in 2006. These standards apply to facilities used by state and local
+Standards for Transportation Facilities]({{ site.baseurl }}/files/ada-aba/ADAdotstandards.pdf) in 2006. These standards apply to facilities used by state and local
 governments to provide public transportation. They became effective on
 November 29, 2006 and replace earlier standards issued by DOT in 1991.
 
