@@ -1,47 +1,51 @@
-## Directrices y Estándares
+---
+title: "Directrices y EstÃ¡ndares"
+order-number: 2
+permalink: /es/directrices-stÃ¡ndares.html
+---
 
-### Tecnologías de Información y de Comunicación
+### TecnologÃ­as de InformaciÃ³n y de ComunicaciÃ³n
 
-El acceso a las tecnologías de información y de comunicación es dirigido por estándares emitidos por el Consejo y directrices publicadas según la Sección 508 de la Ley de Rehabilitación y la Sección 255 de la Ley de Telecomunicaciones.  El Consejo está en el proceso de actualizar estos estándares y directrices.
+El acceso a las tecnologÃ­as de informaciÃ³n y de comunicaciÃ³n es dirigido por estÃ¡ndares emitidos por el Consejo y directrices publicadas segÃºn la SecciÃ³n 508 de la Ley de RehabilitaciÃ³n y la SecciÃ³n 255 de la Ley de Telecomunicaciones. Â El Consejo estÃ¡ en el proceso de actualizar estos estÃ¡ndares y directrices.
 
--   [Servidumbres de Paso Públicas](index.php?option=com_content&view=article&id=1043&Itemid=197) (en inglés)
--   [Información Sobre el Proceso de Actualización de los Estándares y Directrices](index.php?option=com_content&view=article&id=1050&Itemid=1040) (en inglés)
--   [Directrices de Accesibilidad Según la Ley de Telecomunicaciones](index.php?option=com_content&view=article&id=810&Itemid=198) (en inglés)
+- [Servidumbres de Paso PÃºblicas](index.php?option=com_content&view=article&id=1043&Itemid=197)Â (en inglÃ©s)
+- [InformaciÃ³n Sobre el Proceso de ActualizaciÃ³n de los EstÃ¡ndares y Directrices](index.php?option=com_content&view=article&id=1050&Itemid=1040)Â (en inglÃ©s)
+- [Directrices de Accesibilidad SegÃºn la Ley de Telecomunicaciones](index.php?option=com_content&view=article&id=810&Itemid=198)Â (en inglÃ©s)
 
 ### Edificios y Sitios
 
-Estándares emitidos bajo a la Ley para los Estadounidenses con Discapacidades de 1990 (Americans with Disabilities Act, o ADA, por sus siglas en inglés) se dirigen al acceso a edificios y sitios, en todo el país, en las nuevas construcciones y alteraciones. Bajo la Ley de Barreras Arquitectónicas (Architectural Barriers Act, o ABA, por sus siglas en ingles), estándares similares se dirigen a edificios y sitios financiados por el gobierno federal. El Consejo ha promulgado nuevas directrices que cubren alojamientos transportables de emergencia, o sea, viviendas temporales proporcionadas por el gobierno en casos de emergencia y desastres naturales.  El Consejo está desarrollando un suplemento a los estándares de la ADA y la ABA que se dirigirá a la acústica de salones de clase.
+EstÃ¡ndares emitidos bajo a la Ley para los Estadounidenses con Discapacidades de 1990 (Americans with Disabilities Act, o ADA, por sus siglas en inglÃ©s) se dirigen al acceso a edificios y sitios, en todo el paÃ­s, en las nuevas construcciones y alteraciones. Bajo la Ley de Barreras ArquitectÃ³nicas (Architectural Barriers Act, o ABA, por sus siglas en ingles), estÃ¡ndares similares se dirigen a edificios y sitios financiados por el gobierno federal. El Consejo ha promulgado nuevas directrices que cubren alojamientos transportables de emergencia, o sea, viviendas temporales proporcionadas por el gobierno en casos de emergencia y desastres naturales. Â El Consejo estÃ¡ desarrollando un suplemento a los estÃ¡ndares de la ADA y la ABA que se dirigirÃ¡ a la acÃºstica de salones de clase.
 
--   [Estándares de la ADA](index.php?Itemid=987) (en inglés) 
--   [Estándares de la ABA](index.php?option=com_content&view=article&id=1007&Itemid=948) (en inglés)
--   [Alojamiento Transportable de Emergencia](index.php?option=com_content&view=article&id=294&Itemid=203) (en inglés)
--   [Acústica de Salones de Clase](index.php?option=com_content&view=article&id=1035&Itemid=204) (en inglés)
+- [EstÃ¡ndares de la ADA](index.php?Itemid=987)Â (en inglÃ©s)Â 
+- [EstÃ¡ndares de la ABA](index.php?option=com_content&view=article&id=1007&Itemid=948)Â (en inglÃ©s)
+- [Alojamiento Transportable de Emergencia](index.php?option=com_content&view=article&id=294&Itemid=203)Â (en inglÃ©s)
+- [AcÃºstica de Salones de Clase](index.php?option=com_content&view=article&id=1035&Itemid=204)Â (en inglÃ©s)
 
 ### Instalaciones Recreativas
 
-El acceso a instalaciones recreativas, incluyendo áreas de juego, piscinas, instalaciones deportivas, muelles de pesca, instalaciones de canotaje, campos de golf, y parques de atracciones, se aborda en los estándares de la ADA y ABA. El Consejo ha promulgado nuevas provisiones que cubren  acceso a áreas desarrolladas al aire libre, como senderos, áreas de picnic y campamentos, y rutas de acceso a playas.
+El acceso a instalaciones recreativas, incluyendo Ã¡reas de juego, piscinas, instalaciones deportivas, muelles de pesca, instalaciones de canotaje, campos de golf, y parques de atracciones, se aborda en los estÃ¡ndares de la ADA y ABA. El Consejo ha promulgado nuevas provisiones que cubren Â acceso a Ã¡reas desarrolladas al aire libre, como senderos, Ã¡reas de picnic y campamentos, y rutas de acceso a playas.
 
--   [Instalaciones Recreativas](index.php?option=com_content&view=article&id=1124&Itemid=206) (en inglés)
--   [Áreas Desarrolladas al Aire Libre](index.php?option=com_content&view=article&id=1121&Itemid=207) (en inglés)
+- [Instalaciones Recreativas](index.php?option=com_content&view=article&id=1124&Itemid=206)Â (en inglÃ©s)
+- [Ãreas Desarrolladas al Aire Libre](index.php?option=com_content&view=article&id=1121&Itemid=207)Â (en inglÃ©s)
 
 ### Calles y Aceras
 
-Nuevas directrices que el Consejo está desarrollando cubrirán acceso a las servidumbres de paso públicas, incluyendo aceras, cruces de calle, pasos de peatones, y aparcamiento en la calle. El Consejo también se está dirigiendo al acceso a caminos de uso compartido que proporcionan métodos fuera de pista para transporte y recreación.
+Nuevas directrices que el Consejo estÃ¡ desarrollando cubrirÃ¡n acceso a las servidumbres de paso pÃºblicas, incluyendo aceras, cruces de calle, pasos de peatones, y aparcamiento en la calle. El Consejo tambiÃ©n se estÃ¡ dirigiendo al acceso a caminos de uso compartido que proporcionan mÃ©todos fuera de pista para transporte y recreaciÃ³n.
 
--   [Servidumbres de Paso Públicas](index.php?option=com_content&view=article&id=1089&Itemid=209) (en inglés)
--   [Caminos de Uso Compartido](index.php?option=com_content&view=article&id=80&Itemid=291) (en inglés)
+- [Servidumbres de Paso PÃºblicas](index.php?option=com_content&view=article&id=1089&Itemid=209)Â (en inglÃ©s)
+- [Caminos de Uso Compartido](index.php?option=com_content&view=article&id=80&Itemid=291)Â (en inglÃ©s)
 
 ### Transporte
 
-Las directrices del Consejo emitidas según la ADA se dirigen al acceso a los vehículos e instalaciones de transporte público. Se están desarrollando nuevas directrices para los barcos de pasajeros.
+Las directrices del Consejo emitidas segÃºn la ADA se dirigen al acceso a los vehÃ­culos e instalaciones de transporte pÃºblico. Se estÃ¡n desarrollando nuevas directrices para los barcos de pasajeros.
 
--   [Instalaciones de Transporte](index.php?option=com_content&view=article&id=1365&Itemid=1539) (en inglés) 
--   [Vehículos de Transporte](index.php?option=com_content&view=article&id=676&Itemid=298) (en inglés)
--   [Barcos de Pasajeros](index.php?option=com_content&view=article&id=402&Itemid=304) (en inglés)
+- [Instalaciones de Transporte](index.php?option=com_content&view=article&id=1365&Itemid=1539)Â (en inglÃ©s)Â 
+- [VehÃ­culos de Transporte](index.php?option=com_content&view=article&id=676&Itemid=298)Â (en inglÃ©s)
+- [Barcos de Pasajeros](index.php?option=com_content&view=article&id=402&Itemid=304)Â (en inglÃ©s)
 
 ### Cuidado de la Salud
 
-El Consejo está desarrollando nuevos estándares para el equipo diagnóstico médico y  una guía de asesoramiento relacionado al acceso a etiquetas en los contenedores de medicamentos recetados.
+El Consejo estÃ¡ desarrollando nuevos estÃ¡ndares para el equipo diagnÃ³stico mÃ©dico y Â una guÃ­a de asesoramiento relacionado al acceso a etiquetas en los contenedores de medicamentos recetados.
 
--   [Equipo Diagnóstico Médico](index.php?option=com_content&view=article&id=1435&Itemid=307) (en inglés)
--   [Guía de Asesoramiento sobre Etiquetas en los Contenedores de Medicamentos Recetados](index.php?option=com_content&view=article&id=1430&Itemid=1626) (en inglés)
+- [Equipo DiagnÃ³stico MÃ©dico](index.php?option=com_content&view=article&id=1435&Itemid=307)Â (en inglÃ©s)
+- [GuÃ­a de Asesoramiento sobre Etiquetas en los Contenedores de Medicamentos Recetados](index.php?option=com_content&view=article&id=1430&Itemid=1626)Â (en inglÃ©s)
