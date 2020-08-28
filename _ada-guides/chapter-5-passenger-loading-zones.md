@@ -8,7 +8,7 @@ This guide explains requirements in the [ADA Standards](../ada-standards.html)�
 
 ### Required Compliance
 
-[[§209](../ada-standards/chapter-2-scoping-requirements.html#209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops)]
+[[§209]({{ site.baseurl }}/ada/#ada-209)]
 
 Where passenger loading zones are provided, at least one accessible
 passenger loading zone is required in every continuous 100 linear feet
@@ -34,7 +34,7 @@ whether or not passenger loading zones are planned:
 
 ### Accessible Passenger Loading Zones
 
-[[§503](../ada-standards/chapter-5-general-site-and-building-elements.html#503%20Passenger%20Loading%20Zones)]
+[[§503]({{ site.baseurl }}/ada/#ada-503)]
 
 Requirements for accessible passenger loading zones address vehicle
 pull-up spaces and access aisles, including their dimensions, surfacing,
@@ -61,7 +61,7 @@ identified by the International Symbol of Accessibility.
 
 ### Bus Loading Areas and On-Street Bus Stops
 
-[[§209.2.2](../ada-standards/chapter-2-scoping-requirements.html#209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops) and [§209.2.3](../ada-standards/chapter-2-scoping-requirements.html#209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops)]
+[[§209.2.2]({{ site.baseurl }}/ada/#ada-209_2_2)]
 
 Loading zones designed for buses that provide general or special
 service, including charter service, to the public on a regular and

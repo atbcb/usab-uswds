@@ -10,13 +10,13 @@ Standards](../../../transportation/facilities/ada-standards-for-transportation-f
 
 ### General
 
-[[§202.1](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
+[[§202.1]({{ site.baseurl }}/ada/#ada-202_1)]
 
 Additions and alterations undertaken at existing facilities are covered by the ADA Standards. The extent of application is largely determined by a project's scope of work as the standards apply to those elements or spaces that are altered or added. Additional requirements apply to projects that affect or could affect the usability of, or access to, an area containing a primary function.
 
 ### Additions
 
-[[§202.2](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
+[[§202.2]({{ site.baseurl }}/ada/#ada-202_2)]
 
 Projects that increase, expand, or extend a facility's gross floor area or height of a facility are considered additions (as defined in §106.5) and must comply with the requirements of the standards applicable to new construction. Existing elements and spaces affected by an addition are treated as alterations and qualify for certain allowances or exceptions that are not permitted in new construction.
 
@@ -26,7 +26,7 @@ Projects that increase, expand, or extend a facility's gross floor area or heigh
 
 ### Alterations
 
-[[§202.3](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
+[[§202.3]({{ site.baseurl }}/ada/#ada-202_3)]
 
 Alterations are defined in the standards (§106.5) as "a change in a building or facility that affects or could affect the usability of a building or facility or portion thereof." Many types of projects are covered as "alterations," including remodeling, renovation, rehabilitation, reconstruction, restoration, resurfacing of circulation paths or vehicular ways, and changes or rearrangement of structural parts, elements, or walls. Normal maintenance, reroofing, painting or wallpapering, or changes to mechanical and electrical systems are not considered alterations unless they affect a facility's usability. For example, a project limited to an HVAC system that includes the addition of thermostats would affect a facility's usability because it involves elements (operable parts) covered by the standards.
 
@@ -133,7 +133,7 @@ infeasible include:
 
 ### Alterations Affecting Primary Function Areas
 
-[[§202.4](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
+[[§202.4]({{ site.baseurl }}/ada/#ada-202_4)]
 
 Additional requirements apply when alterations are made to areas containing a "primary function," which is a major activity intended for a facility. Examples of primary function areas include dining areas of a restaurant, retail space in a store, exam rooms in a doctor's office, classrooms in a school, and offices and other work areas where the activities of a covered entity are carried out. Spaces not considered primary function areas include entrances, corridors, restrooms, break rooms, employee locker rooms, and mechanical or electrical closets. Restrooms are not primary function areas unless their provision is the primary purpose of a facility, such as a highway rest stop. [DOJ's 2010 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) and [DOT's ADA regulations](http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=d315855e2f2c9f940970f4c191349c12&rgn=div5&view=text&node=49:1.0.1.1.27&idno=49) contain detailed provisions on alterations to primary function areas that must be applied in addition to section 202.4.
 
@@ -181,7 +181,7 @@ serving the primary function area, where such elements are provided.
 
 #### Alterations to Qualified Historic Facilities
 
-[[§202.5](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
+[[§202.5]({{ site.baseurl }}/ada/#ada-202_5)]
 
 ![Historic designation plaque: \"This property has been placed on the National Register of Historic Places\"]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a14.jpg){: .float-right .thumbnail-wide}
 

@@ -8,7 +8,7 @@ file-description: PDF version of Chapter 1 ABA Guide
 
 The Architectural Barriers Act (ABA) requires access to facilities that are designed, built, or altered with federal funds or leased by federal agencies. Passed in 1968, it is one of the first laws to address access to the built environment. The law applies to federal buildings, including post offices, social security offices, federal courthouses and prisons, and national parks. It also covers non-federal facilities, such as public housing units and mass transit systems, built or altered with federal grants or loans. Coverage is limited to those funding programs that give the federal agency awarding grants or loans the authority to establish facility standards. The Americans with Disabilities Act (ADA) of 1990 has similar design mandates but applies to facilities in the private sector and the state/local government sector without regard to federal funding.
 
-Four agencies establish the ABA Standards according to guidelines issued by the Access Board: the General Services Administration (GSA), the Department of Defense (DOD), the Department of Housing and Urban Development (HUD), and the U.S. Postal Service (USPS). The latest editions of the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) issued by GSA, DOD, and USPS are substantively the same and replace the earlier [Uniform Federal Accessibility Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas). HUD’s update of the standards is still pending. Regulations and directives from these agencies apply the standards to facilities within their purview.
+Four agencies establish the ABA Standards according to guidelines issued by the Access Board: the General Services Administration (GSA), the Department of Defense (DOD), the Department of Housing and Urban Development (HUD), and the U.S. Postal Service (USPS). The latest editions of the [ABA Standards]({{ site.baseurl }}/aba/) issued by GSA, DOD, and USPS are substantively the same and replace the earlier [Uniform Federal Accessibility Standards]({{ site.baseurl }}/ufas.html). HUD’s update of the standards is still pending. Regulations and directives from these agencies apply the standards to facilities within their purview.
 
 #### Postal Facilities
 
@@ -55,7 +55,7 @@ The ABA exempts military facilities and spaces designed and constructed for use 
     <div class="tablet:grid-col border padding-1">
       <img class="img-center padding-1" src="{{ site.baseurl }}{{ page.image-directory }}chapter1-aba/1abseal.jpg" alt="Access Board seal">
       <h4 class="grid-line bold text-italic">Filing an ABA Complaint</h4>
-      <span class="grid-line">Filing an ABA complaint with the Access Board is easy to do. All the Board needs is the facility name and address and a brief description of the access issues. Complaints must be received in writing by email <a href="mailto: enforce@access-board.gov">enforce@access-board.gov</a>, mail, fax, or through the <a href="/aba-enforcement">Board’s website</a>. The identity of complainants is kept confidential.</span>
+      <span class="grid-line">Filing an ABA complaint with the Access Board is easy to do. All the Board needs is the facility name and address and a brief description of the access issues. Complaints must be received in writing by email <a href="mailto: enforce@access-board.gov">enforce@access-board.gov</a>, mail, fax, or through the <a href="{{ site.baseurl }}/enforcement/">Board’s website</a>. The identity of complainants is kept confidential.</span>
       <h4 class="grid-line bold text-italic">Technical Assistance</h4>
       <span class="grid-line">Technical assistance is available through the Board’s toll-free help line and by email: <a href="mailto:ta@access-board.gov">ta@access-board.gov</a>, (800) 872-2253 (voice), (800) 993-2822 (TTY)</span>
     </div>
@@ -75,7 +75,7 @@ Another law that requires compliance with access standards is the Rehabilitation
 <span class="grid-line text-italic" style="font-size: 90%">The current ABA Standards are based on  the Board’s updated ABA guidelines (2004).</span>
 </div>
 
-The design requirements of the ABA are first developed by the Access Board as guidelines. The Board’s guidelines set a minimum baseline for the enforceable standards issued by GSA, DOD, HUD, and USPS. The current [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) (except those issued by HUD) are based on updated guidelines the Board issued in 2004 without any substantive changes.
+The design requirements of the ABA are first developed by the Access Board as guidelines. The Board’s guidelines set a minimum baseline for the enforceable standards issued by GSA, DOD, HUD, and USPS. The current [ABA Standards]({{ site.baseurl }}/aba/) (except those issued by HUD) are based on updated guidelines the Board issued in 2004 without any substantive changes.
 
 ### Differences Between the ABA and ADA Standards
 
