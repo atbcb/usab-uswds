@@ -709,112 +709,19 @@ In the absence of the proposed guidelines, the regulatory assessment assumes tha
 
 The Access Board entered into an interagency agreement with the Volpe National Transportation Systems Center (Volpe Center) to gather data and prepare cost estimates for the regulatory assessment. The cost estimates prepared by the Volpe Center are summarized in the table below, along with questions in the preamble to the proposed guidelines that seek additional information to refine the cost estimates.
 
-|
+**Table: Estimated Total Annual Costs for Requirements That Will Have More Than Minimal Impacts on State and Local Transportation Departments**
 
-Estimated Total Annual Costs for Requirements That Will Have More Than Minimal Impacts on State and Local Transportation Departments
-
- |
-|
-
-Requirement
-
- |
-
-Additional Costs Per Element or Facility Due to Requirement
+| Requirement | Additional Costs Per Element or Facility Due to Requirement | Number of Elements or Facilities Constructed or Altered on Annual Basis | Total Annual Costs for Requirement |
+| --- | --- | --- | --- |
+| Detectable warning surfaces required on newly constructed and altered curb ramps and blended transitions at pedestrian street crossings (R208.1 and R305) | $48 to $240 for detectable warning materials for typical curb ramp<br><br>Question 8 in preamble seeks additional information on costs for detectable warning materials and installation of the materials on typical curb ramp. | No information available<br><br>Question 7 in preamble seeks information on number of curb ramps that are constructed or altered on an annual basis in the public right-of-way | No estimate provided<br><br>Total annual costs will depend on number of state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps, and number of curb ramps that they construct or alter on an annual basis |
+ | Accessible pedestrian signals and pushbuttons required when pedestrian signals newly installed or replaced at signalized intersections (R209) | $3,600 per signalized intersection<br><br>Question 10 in preamble seeks additional information on costs for providing accessible pedestrian signals and pedestrian pushbuttons at signalized intersections | Pedestrian signals newly installed or replaced at 13,095 signalized intersections on an annual basis | $47 million |
+| Maximum cross slope of 2 percent required on pedestrian access routes, including within pedestrian street crossings with yield or stop control (R204.3 and R302.6) | 
 
  |
 
-Number of Elements or Facilities Constructed or Altered on Annual Basis
-
- |
-
-Total Annual Costs for Requirement
-
- |
-|
-
-Detectable warning surfaces required on newly constructed and altered curb ramps and blended transitions at pedestrian street crossings (R208.1 and R305)
-
- |
-
-$48 to $240 for detectable warning materials for typical curb ramp
-
-Question 8 in preamble seeks additional information on costs for detectable warning materials and installation of the materials on typical curb ramp
-
- |
-
-No information available
-
-Question 7 in preamble seeks information on number of curb ramps that are constructed or altered on an annual basis in the public right-of-way
-
- |
-
-No estimate provided
-
-Total annual costs will depend on number of state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps, and number of curb ramps that they construct or alter on an annual basis
-
- |
-|
-
-Accessible pedestrian signals and pushbuttons required when pedestrian signals newly installed or replaced at signalized intersections (R209)
-
- |
-
-$3,600 per signalized intersection
-
-Question 10 in preamble seeks additional information on costs for providing accessible pedestrian signals and pedestrian pushbuttons at signalized intersections
-
- |
-
-Pedestrian signals newly installed or replaced at 13,095 signalized intersections on an annual basis
-
- |
-
-$47 million
-
- |
-|
-
-Maximum cross slope of 2 percent required on pedestrian access routes, including within pedestrian street crossings with yield or stop control (R204.3 and R302.6)
-
- |
-
-$60,000 per tabled intersection
-
-Question 15 in preamble seeks additional information on costs to extend tabling of newly constructed intersections in hilly urban areas to pedestrian street crossings with yield or stop control
-
- |
-
-No information available
-
-Question 16 in preamble seeks information on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis
-
- |
-
-No estimate provided
-
-Total annual costs will depend on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis
-
- |
-|
-
-Pedestrian activated signals required at roundabouts with multi-lane pedestrian crossings (R206 and R306.3.2)
-
- |
-
-$90,000 to $230,000 per roundabout
-
-Question 19 in preamble seeks additional information on costs to provide pedestrian activated signals at roundabouts with multi-lane pedestrian crossings
-
- |
-
-27 new roundabouts with multi-lane pedestrian street crossings constructed on an annual basis
-
- |
-
-$2.4 million to $6.2 million
-
- |
+$60,000 per tabled intersection<br><br>Question 15 in preamble seeks additional information on costs to extend tabling of newly constructed intersections in hilly urban areas to pedestrian street crossings with yield or stop control | No information available<br><br>Question 16 in preamble seeks information on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis | No estimate provided<br><br>Total annual costs will depend on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis |
+| Pedestrian activated signals required at roundabouts with multi-lane pedestrian crossings (R206 and R306.3.2) | $90,000 to $230,000 per roundabout<br><br>Question 19 in preamble seeks additional information on costs to provide pedestrian activated signals at roundabouts with multi-lane pedestrian crossings | 27 new roundabouts with multi-lane pedestrian street crossings constructed on an annual basis | $2.4 million to $6.2 million |
+{: .usa-table}
 
 *Benefits*
 
@@ -847,51 +754,12 @@ The Access Board is required to issue accessibility guidelines by the Americans 
 
 The number of small governmental jurisdictions with a population less than 50,000 affected by the proposed guidelines is shown in the table below.
 
-|
-
-Governmental Jurisdictions
-
- |
-
-Population Less Than 50,000
-
- |
-|
-
-County
-
- |
-
-2,178
-
- |
-|
-
-Municipal
-
- |
-
-18,824
-
- |
-|
-
-Town or Township
-
- |
-
-16,371
-
- |
-|
-
-**Total**
-
- |
-
-**37,375**
-
- |
+| Governmental Jurisdictions | Population Less Than 50,000 |
+| --- | --- |
+| County | 2,178 |
+| Municipal | 18,824 |
+| Town or Township | 16,371 |
+| **Total** | **37,375** |
 
 Source: US Census Bureau 2002 Census of Governments available at:\
 <http://www.census.gov/prod/2003pubs/gc021x1.pdf>.
