@@ -1,8 +1,9 @@
 ---
 title: Rail Vehicles Access Advisory Committee Final Report 
+layout: page
 ---
 
-
+# {{ page.title }}
 **US Access Board\
 Rail Vehicles Access Advisory Committee\
 July 29, 2015**

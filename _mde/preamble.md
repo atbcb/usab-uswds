@@ -917,7 +917,7 @@ Under the Paperwork Reduction Act (PRA), federal agencies are generally prohibit
 Health care, Individuals with disabilities, Medical devices.
 
 Approved by vote of the Board on September 14, 2016.\
-![David M. Capozzi signature](https://www.access-board.gov/images/Signatures/dcapozzi-signature.jpg)\
+![David M. Capozzi signature]({{ site.baseurl }}/images/capozzi-signature.jpg)\
 David M. Capozzi,\
 Executive Director.
 

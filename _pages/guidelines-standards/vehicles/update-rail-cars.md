@@ -1,12 +1,11 @@
 ---
 title: Update of Guidelines for Rail Cars
+layout: page
 permalink: /ada/vehicles/update/rail-cars/
 order-number: 1
 ---
-[Print](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/advance-notice-of-proposed-rulemaking#)
 
-Advance Notice of Proposed Rulemaking
--------------------------------------
+## Advance Notice of Proposed Rulemaking
 
 Published in the *Federal Register* on February 14, 2020; amended April 10, 2020.
 
@@ -67,7 +66,7 @@ The RVAAC organized itself into the following four subcommittees: Communications
 -   Access Board guidelines should promote the development of technology, and not freeze current technology in place; and
 -   "[G]rowing demographics (graying of America)" must be considered when establishing scoping for accessible features.
 
-In July 2015, the Committee formally presented its final report (hereinafter RVAAC Report) to the Access Board. The RVAAC Report, which totals 71 pages, consists of a "main" report that is broken down into five chapters (which, except for the introductory chapter, mirror the topics covered by the four subcommittees) and several accompanying appendices. The full RVAAC Report is available at <https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee>.
+In July 2015, the Committee formally presented its final report (hereinafter RVAAC Report) to the Access Board. The RVAAC Report, which totals 71 pages, consists of a "main" report that is broken down into five chapters (which, except for the introductory chapter, mirror the topics covered by the four subcommittees) and several accompanying appendices. The full RVAAC Report is available at <{{ site.baseurl }}/advisory-committee-reports/rail/>.
 
 In sum, the Report provides the Committee's recommendations for updated accessibility requirements applicable to newly acquired rail vehicles, which are written using regulatory-style language interspersed with occasional textual discussion. The appendices provide supplementary information in the form of a reference copy of ADA provisions relating to transportation vehicles (Appendix A), a list of operational matters for DOT consideration that arose during committee deliberations but fall outside the Board's jurisdiction (Appendix B), and minority reports submitted by three Committee members (Appendix C).
 
@@ -197,7 +196,7 @@ Regarding accessible seating in dining cars, the RVAAC proposed to increase the 
 
 *Question 25:* What would be the advantages and disadvantages of having convertible/readily removable seating in dining cars on rail vehicles to accommodate passengers using wheelchairs.
 
-![David M. Capozzi (signature)](https://www.access-board.gov/images/capozzi-signature.jpg)
+![David M. Capozzi (signature)]({{ site.baseurl }}/images/capozzi-signature.jpg)
 
 David M. Capozzi,\
 Executive Director.
@@ -248,7 +247,7 @@ On March 26, 2020, the American Public Transit Association (APTA) requested that
 
 Although the Access Board has already provided a 90-day comment period and held a public hearing on the ANPRM, the Board will provide additional time for the public to submit comments. 
 
-![David M. Capozzi (signature)](https://www.access-board.gov/images/capozzi-signature.jpg)
+![David M. Capozzi (signature)]({{ site.baseurl }}/images/capozzi-signature.jpg)
 
 David M. Capozzi,\
 Executive Director.

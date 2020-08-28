@@ -1,10 +1,10 @@
 ---
-Title: Advisory Committee Minutes
+title: Advisory Committee Minutes
+layout: page
 ---
-[Print](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/meeting-minutes-november-2013#)
-
-Committee Meeting Minutes: November 13-14, 2013
------------------------------------------------
+# {{ page.title }}
+## November 13-14, 2013
+Committee Meeting Minutes: 
 
 **Summary Minutes (approved Jan 09, 2014)**\
 **Rail Vehicles Access Advisory Committee -- 1st Meeting**\
@@ -378,10 +378,8 @@ c. Egress and emergency operation of doors
 ---
 
 
-[Print](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/meeting-minutes-january-2014#)
-
-Committee Meeting Minutes: January 9-10, 2014
----------------------------------------------
+## January 9-10, 2014
+Committee Meeting Minutes: 
 
 ### Summary Minutes --- 2nd Meeting (approved April 10, 2014)\
 U.S. Access Board\
@@ -724,10 +722,8 @@ Washington, DC
 
 
 
-[Print](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/meeting-minutes-april-2014#)
-
-Committee Meeting Minutes: April 10-11, 2014
---------------------------------------------
+## April 10-11, 2014
+Committee Meeting Minutes:
 
 ### Summary Minutes --- 3rd Meeting (approved May 20, 2014)\
 U.S. Access Board\
@@ -871,4 +867,476 @@ April 10, 2014
 ---
 
 
+## September 11-12, 2014
+Committee Meeting Minutes:
 
+### Summary Minutes --- 4th Meeting (approved October 20, 2014)\
+U.S. Access Board\
+Rail Vehicles Access Advisory Committee\
+(and subcommittee)\
+September 11 and 12, 2014\
+Washington, DC
+
+#### Thursday, September 11, 2014 --- Subcommittee Meeting
+
+The two days started around 10:00 a.m. with the Communications Subcommittee holding its eighth meeting, chaired by Ms. Terry Pacheco.  The subcommittee met in the Access Board's conference room at 1331 F Street, N.W., room 800, Washington, DC. This meeting ended around 12:30 p.m.
+
+#### Thursday, September 11, 2014 --- Advisory Committee Meeting
+
+With a quorum present, the fourth meeting of the Rail Vehicles Access Advisory Committee (RVAAC) started around 1:00 p.m. in the Access Board's conference room (see attachment for committee meeting attendance).  After introduction of committee members, alternates, and members of the public, Mr. Billy Altom addressed the following administrative matters. 
+
+First, by a May 9 email, a draft of the April 2014 summary meeting minutes was sent to the committee for review and approval.  Because minutes are required by the Federal Advisory Committee Act to be certified as complete within 90 days of the April committee meeting, the May 9 email asked for approval of the draft April minutes.  A majority of committee members responded with all approving the draft April summary minutes without change.  Therefore, on May 20, the April summary meeting minutes were considered approved and added to the RVAAC website and the RVAAC electronic docket.  Because the next meeting date is more than 90 days away, it was indicated that the committee would be following the same procedures to review and approve the September summary minutes. 
+
+Second, at the April 2014 committee meeting, the Access Board asked the committee to select two additional meeting dates, as it appeared the advisory committee would not complete its work by September 12.  In April, the committee directed the Access Board to send out dates from which the committee members would make selections.  By an email of April 15, date options were presented to the committee.  On April 29, with most committee organizations submitting votes on the dates, the voting was closed.  The vote results were that February 26 and 27 were selected as the first additional meeting date in 2015, with April 23 and 24 selected as the second additional meeting date.  It was recognized that no one two-day period matched everyone's schedule, but the selections represent the best available outcomes. 
+
+Third, due to a recent change in the guidance from the Office of Management and Budget, federally registered lobbyists may serve on this advisory committee under some conditions.  Mr. Altom noted that if committee members had any questions about this change, they should contact Ms. Lisa Fairhall who was present at the meeting.
+
+Mr. Altom formed an editorial working group of subcommittee chairs to start drafting the committee's final report to the Access Board.  It was pointed out that this working group would not establish any position for the full committee and that ultimately, any report developed by the working group must be reviewed and approved by the full committee.  Mr. Altom asked if any committee member was a skilled report writer and desired to participate in the working group.
+
+Mr. Altom noted that although a time of public comment was scheduled for today and tomorrow, the public was reminded that comments may also be submitted to the RVAAC electronic docket at regulations.gov.  He reported that since the last meeting in April, comments have been submitted by Mr. Michael Chisena and, under Ms. Emily Bacque's name, the Bay Area Rapid Transit. 
+
+Mr. Altom indicated he was modifying the agenda and would skip the brief reports from subcommittee chairs and moved into hearing the draft proposal from the Boarding and Alighting Subcommittee, chaired by Ms. Marilyn Golden.  The committee and members of the public provided comment on the proposal to enable the subcommittee to further refine its recommendations. 
+
+Next, Mr. Dennis Cannon, chair of the Rooms and Spaces Subcommittee, presented his subcommittee's proposal to the full committee.  It was noted that the RVAAC website version of its proposal was different from what was provided to the Board staff, but the committee and members of the public still provided comment to enable the subcommittee to further refine its recommendations.  The correct version of the subcommittee's draft proposal has been placed in the RVAAC electronic docket (see Note 1 below). 
+
+Around 4:15 p.m., a time of public comment was allowed.  With no one desiring to comment, the committee held a moment of silence in memory of the September 11 disaster and then, after brief discussions, ended the day's meeting around 4:30 p.m.
+
+#### Friday, September 12, 2014 --- Advisory Meeting (continued)
+
+With a quorum present, the second day of the September meeting started around 9:30 a.m.  The committee heard the draft proposal from the On-board Circulation and Seating Subcommittee, chaired by Mr. Joseph (Blair) Slaughter.  The committee and members of the public provided comment to enable the subcommittee to further refine its recommendations.  Around 10:40 a.m. the discussion stopped to allow Ms. Mary Lamielle to provide public comment on matters not directly related to the subcommittee.  After a break, and excluding a later lunch break, the committee continued its discussions until around 2:45 p.m. when it allowed a time of public comment.  Mr. Bob Reuter and Mr. Don Mebius provided comment. 
+
+At the end of the day, it was confirmed that the regular Thursday, 1:00 p.m. to 3 p.m., subcommittee conference calls would continue from October to January, but some adjustments may be made due to holidays and other attendance issues.
+
+The fourth RVAAC meeting adjourned around 3:00 p.m.  The next RVAAC meeting is scheduled for February 26 and 27, 2015, in the Access Board's conference room.  
+
+**Note 1 -- Draft Proposals.**  Although the subcommittee draft proposals were reviewed by the full committee, no formal actions were taken by the committee regarding the recommendations.  The draft proposals can be found in the RVAAC electronic docket at <http://www.regulations.gov/#!docketDetail;D=ATBCB-2013-0006> in the section titled Supporting Documents (may have to click "view all" and sort by title) under 4th Meeting -- Draft Proposal -- (subcommittee name).  The material for the subcommittee meeting on September 11 is filed separately in Supporting Documents under Communications Subcommittee Meeting #8.
+
+**Note 2 -- CART.**  A Communication Access Realtime Translation (CART) system was used in the committee meeting (and subcommittee meeting) to provide an accommodation to persons with hearing loss and persons who are deaf. The CART output was streamed in real-time and available to the public on the internet. The unedited text of the CART output is available in the RVAAC electronic docket referenced above in the section titled Supporting Documents under 4th Meeting - Unedited CART Text - 2014 Sept (11 or 12). These documents provide the details of the committee meeting. The CART text from the September 11 subcommittee meeting is filed separately in Supporting Documents under Communications Subcommittee Meeting #8.
+
+* * * * *
+
+Attachment
+----------
+
+### RVAAC Meeting Attendence
+
+### U.S. Access Board\
+Rail Vehicles Access Advisory Committee\
+September 11 and 12, 2014\
+Washington, DC
+
+#### Members Present:  21
+
+1.  Alstom Transportation -- Jon Holbrook
+2.  American Council of the Blind -- Terry Pacheco
+3.  (Amtrak) National Railroad Passenger Corporation -- Joseph Slaughter & Gary Talbot
+4.  Association of Programs for Rural Independent Living -- Billy Altom (Committee Chair)
+5.  Bombardier Transportation -- André Gagné, ing.
+6.  California Department of Transportation, Division of Rail -- James Lucas
+7.  Community Transportation Association of America -- Robert Carlson
+8.  Disability Rights Education & Defense Fund -- Marilyn Golden
+9.  Federal Railroad Administration -- Linda Martin & Calvin Gibson
+10. Hearing Access Program -- Janice Schacter Lintz
+11. Hearing Loss Association of America -- David Gayle (day 1)
+12. International Centre for Accessible Transportation -- Uwe Rutenberg
+13. Maryland Transit Administration -- David Hughson
+14. Metra & Northeast Illinois Regional Commuter Railroad Corporation -- David Martinez & Francis Mascarenhas
+15. Metropolitan Transportation Authority of the State of New York -- Michael Wetherell, Frank Maldari, & Gricelda Cespedes
+16. National Council on Independent Living -- Cliff Perez
+17. National Disability Rights Network -- Dennis Cannon & Kenneth Shiotani
+18. New Jersey Transit -- Ed Hoff
+19. RailPlan International -- Terry Soebee (day 1) & Jonathan Michel
+20. South West Transit Association -- Crystal Lyons
+21. United Spinal Association -- James Weisman
+
+#### Members Absent:  6
+
+1.  Center for Inclusive Design and Environmental Access -- Edward Steinfeld
+2.  National Association of Railroad Passengers -- Larry Scott
+3.  National Association of the Deaf (at subcommittee meeting)
+4.  Parsons Brinckerhoff -- Francis Banko
+5.  Ricon Corporation -- Stanton Saucier
+6.  Talgo, Inc. -- Joshua Coran
+
+#### Access Board Present:
+
+-   Melissa Anderson, Transportation Engineer
+-   Paul Beatty, Accessibility Specialist and Designated Federal Officer to the Advisory Committee
+-   Rose Marie Bunales, Executive Secretary
+-   David M. Capozzi, Executive Director (day 2)
+-   Lisa Fairhall, Deputy General Counsel
+-   Christopher S. Hart, Board Member and liaison to the advisory committee
+-   Marsha K. Mazz, Director, Office of Technical and Information Services
+-   Jim Pecht, Accessibility Specialist
+
+#### Others Present:
+
+-   Emily Bacque, Bay Area Rapid Transit (day 2)
+-   Dan Bisers, CH2M Hill
+-   Michael Chisena
+-   Bob Franklin, Bay Area Rapid Transit
+-   Keith Frazier (day 1)
+-   Thomas Fodor (day 1)
+-   Steven Fuhrman (day 1)
+-   Sid Goldstein, Transit Access Report
+-   Ben Holland, Bay Area Rapid Transit
+-   Jennifer Hu, Texas Central High-Speed Railway
+-   Lynn Jacquet, Bay Area Rapid Transit (day 1)
+-   Larry Kelterborn, Interfleet
+-   Mary Lamielle, National Center for Environmental Health Strategies (day 2)
+-   Bill Lay (day 1)
+-   Ron Lee (day 2)
+-   Mike Martino, Association of American Railroads (day 2)
+-   Don Mebius, LTK
+-   Glenn Millis, Washington Metropolitan Area Transit Authority
+-   David Nelson, Amtrak (day 1)
+-   Bob Reuter, Access Systems
+-   Melissa Shurland, Federal Railroad Administration
+-   Paul Smith (day 1)
+-   Louis Woolner, Virginia Railway Express
+
+**Note:**  Attendance for the September 11 subcommittee meeting was not recorded.
+
+
+
+---
+
+
+## February 26-27, 2015
+Committee Meeting Minutes: 
+
+### Summary Minutes --- 5th Meeting (approved April 23, 2015)\
+U.S. Access Board\
+Rail Vehicles Access Advisory Committee\
+February 26 and 27, 2015\
+Washington, DC
+
+#### Thursday, February 26, 2015
+
+The two days started around 10:00 a.m.  With a quorum present, the fifth meeting of the Rail Vehicles Access Advisory Committee (RVAAC) started in the Access Board's conference room (see attachment for committee meeting attendance).  After introduction of committee members, alternates, and members of the public, Mr. Billy Altom addressed the following administrative matters. 
+
+First, by an email of September 29, 2014, a draft of the September 2014 summary meeting minutes was sent to the committee for review and approval.  Because minutes are required by the Federal Advisory Committee Act to be certified as complete within 90 days of the September committee meeting, the September 29 email asked for approval of the draft minutes.  A majority of committee members responded with all approving the draft minutes.  On October 20, the September summary meeting minutes were considered approved, with some minor editorial corrections, and added to the RVAAC website and the RVAAC electronic docket.  Because the next meeting date is less than 90 days away, Mr. Altom indicated the RVAAC would wait until the April 2015 meeting to approve the minutes from the fifth meeting. 
+
+Second, two RVAAC member organizations designated new representatives.  The Ricon Corporation is now represented by Mr. Dante DeLeo and the National Association of Railroad Passengers is now represented by Mr. Bob Reuter.
+
+Third, since the September 2014 meeting, the subcommittees have had 12 conference calls.  Agendas and materials used in the calls have been placed in the RVAAC electronic docket (see link below). 
+
+Fourth, since the last meeting, one public comment was added to the electronic docket from Rebecca Williford, Disability Rights Advocates, and four from Michael Chisena, MPC Visionary Concepts.
+
+Following administrative matters, Mr. Joseph (Blair) Slaughter, Chair of the On-board Circulation and Seating Subcommittee, led a committee review of the report from his subcommittee.  This review, excluding a lunch break, continued to about 3 p.m. when public comment on the report was solicited.  No one desired to provide comment.
+
+Next, Ms. Marilyn Golden, Chair of the Boarding and Alighting Subcommittee, led a committee review of the report from her subcommittee.  At about 4:30 p.m., the committee stopped its work to allow public comment on the report.  Mr. Michael Chisena provided comment.  Following a short committee discussion about gap fillers, Mr. Chisena again provided comment.
+
+The meeting day ended around 5 p.m.
+
+#### Friday, February 27, 2015 --- Advisory Meeting (continued)
+
+With a quorum present, the second day of the February meeting started around 9:30 a.m.  After introduction of committee members, alternates, and members of the public, Mr. Stanton Hunter and Ms. Monica London made a presentation on the Amtrak/Caltrans Onboard Information System which currently is under development. Time for questions and answers followed.
+
+Next, Ms. Terry Pacheco, Chair of the Communications Subcommittee, led a committee review of the draft report from her subcommittee.  This review continued until about 1 p.m., excluding a short lunch break, when public comment on the report was solicited.  No one desired to comment.
+
+Following this, Mr. Dennis Cannon, Chair of the Rooms and Spaces Subcommittee, led a committee review of the report from his subcommittee. 
+
+Around 2:40 p.m., Ms. Marsha Mazz provided a general overview of next steps for the committee.  These included allowing time for the subcommittee chairs to modify their reports based on the discussions that occurred during the committee reviews, and providing the opportunity for member comments to be submitted on the updated reports which would form the focus of the next meeting in April. 
+
+Following Ms. Mazz's statements, public comment on the Rooms and Spaces report and any other matters pertaining the RVAAC work was solicited.  Mr. Chisena provided comment.
+
+The fifth RVAAC meeting adjourned around 3:00 p.m.  The next RVAAC meeting is scheduled for April 23 and 24, 2015, in the Access Board's conference room. 
+
+**Note 1 -- Reports.  **The subcommittee reports can be found in the RVAAC electronic docket at <http://www.regulations.gov/#!docketDetail;D=ATBCB-2013-0006> in the section titled Supporting Documents (may have to click "view all" and sort by title) under 5th Meeting -- Report -- (subcommittee name).  The Communications report is a draft, as it had not been approved by the subcommittee.
+
+**Note 2 -- CART.**  A Communication Access Realtime Translation (CART) system was used in the committee meeting to provide an accommodation to persons with hearing loss and persons who are deaf.  The CART output was streamed in real-time and available to the public on the internet.  The unedited text of the CART output is available in the RVAAC electronic docket referenced above in the section titled Supporting Documents under 5th Meeting - Unedited CART Text - 2015 Feb (26 or 27).  These documents provide the details of the committee meeting.  
+
+* * * * *
+
+Attachment
+----------
+
+### RVAAC Meeting Attendance
+
+### U.S. Access Board\
+Rail Vehicles Access Advisory Committee\
+February 26 and 27, 2015
+
+#### Members Present:  27
+
+1.  Alstom Transportation - Jon Holbrook
+2.  American Council of the Blind - Terry Pacheco
+3.  (Amtrak) National Railroad Passenger Corporation - Joseph Slaughter
+4.  Assoc. of Programs for Rural Independent Living - Billy Altom (Committee Chair)
+5.  Bombardier Transportation - André Gagné
+6.  California Department of Transportation, Division of Rail -- Stanton Hunter
+7.  Center for Inclusive Design and Environmental Access -- Edward Steinfeld (day 1)
+8.  Community Transportation Association of America - Robert Carlson
+9.  Disability Rights Education & Defense Fund - Marilyn Golden
+10. Federal Railroad Administration - Linda Martin (day 1) & Calvin Gibson
+11. Hearing Access Program - Janice Schacter Lintz (day 2)
+12. Hearing Loss Association of America -- Lise Hamlin
+13. International Centre for Accessible Transportation - Uwe Rutenberg
+14. Maryland Transit Administration -- David Hughson (day 1)
+15. Metra & Northeast Illinois Regional Commuter Railroad Corporation -- David Martinez & Francis Mascarenhas
+16. Metropolitan Transportation Authority of the State of New York -- Frank Maldari & Gricelda Cespedes
+17. National Association of Railroad Passengers -- Mr. Bob Reuter
+18. National Association of the Deaf -- Andrew Phillips
+19. National Council on Independent Living - Cliff Perez
+20. National Disability Rights Network - Dennis Cannon & Kenneth Shiotani
+21. New Jersey Transit -- Ed Hoff
+22. Parsons Brinckerhoff -- Francis Banko
+23. RailPlan International -- Terry Soesbee & Jonathan Michel
+24. Ricon Corporation -- Dante DeLeo
+25. South West Transit Association - Crystal Lyons
+26. Talgo, Inc. -- Joshua Coran
+27. United Spinal Association -- Carol Tyson
+
+#### Members Absent:  0
+
+#### Access Board Present:
+
+-   Melissa Anderson, Transportation Engineer
+-   Paul Beatty, Accessibility Specialist and Designated Federal Officer to the Advisory Committee
+-   Rose Marie Bunales, Executive Secretary
+-   David M. Capozzi, Executive Director
+-   Lisa Fairhall, Deputy General Counsel
+-   Christopher S. Hart, Board Member and liaison to the advisory committee
+-   Marsha K. Mazz, Director, Office of Technical and Information Services
+-   Jim Pecht, Accessibility Specialist
+
+#### Others Present:
+
+-   Emily Bacque, Bay Area Rapid Transit
+-   Michael Chisena
+-   Cody Christensen (day 1)
+-   Bob Franklin, Bay Area Rapid Transit
+-   Pierre Holloman, City of Alexandria, VA (day 2)
+-   Jennifer Hu, Texas Central High-Speed Railway
+-   Monica London, AMTRAK (day 2)
+-   Carol Peredo Lopez, Washington Metropolitan Area Transit Authority
+-   Don Mebius, LTK Engineering
+-   Glenn Millis, Washington Metropolitan Area Transit Authority
+-   David Nelson, Amtrak
+-   Tom Peacock, Interfleet (day 2)
+-   Brenden Policarpio, Jacobs Engineering
+-   Melissa Shurland, Federal Railroad Administration
+-   Corinna Sigsbury
+-   Paul Smith (day 1)
+-   Momoko Tamaoki, Caltrans
+
+
+---
+
+
+## April 23-24, 2015
+Committee Meeting Minutes: 
+
+**Summary Minutes -- 6th Meeting (approved June 4, 2015)**\
+**US Access Board**\
+**Rail Vehicles Access Advisory Committee**\
+**April 23 and 24, 2015**\
+**Washington, DC**
+
+**Thursday, April 23, 2015**
+
+The two days started around 10:00 a.m. With a quorum present, the sixth meeting of the Rail Vehicles Access Advisory Committee (RVAAC) began in the Access Board's conference room (see attachment for committee meeting attendance). After introduction of committee members, alternates, and members of the public, Mr. Billy Altom addressed the following two administrative matters.
+
+First, he led the committee in approving the summary minutes for the fifth meeting (February 26-27, 2015). Second, he announced, since the last meeting, four public comments were added to the electronic docket. All were from Mr. Michael Chisena, who added his fourth comment just prior to the meeting.
+
+Following administrative matters, the committee reviewed the written comments submitted on the first draft of its final report to the Access Board which had been sent to the committee by email on April 21.
+
+Around 1 p.m., after a one hour break for lunch, with a quorum still present, the committee continued its review of the comments.
+
+Around 4:30 p.m., the committee stopped its work to allow a time of public comment. Mr. Chisena provided comment. No others desired to comment. After the comment time ended, Ms. Marsha Mazz reminded the committee that committee members could submit minority reports on decisions they disagreed with. After about 15 more minutes of work, the meeting day ended around 5 p.m.
+
+Friday, April 24, 2015 -- Advisory Meeting (continued)
+
+The committee opened the second day, with a quorum present, around 9:30 a.m. After introduction of committee members, alternates, and members of the public, the committee allowed Mr. Glenn Millis to provide comment. Following this comment time, and a later one hour break for lunch, the committee worked until about 2:40 p.m. when the committee discussed next steps. It was decided that Access Board staff would review what was accomplished and make a recommendation to the RVAAC Chair on how to proceed. At the end of the meeting, a time of public comment was allowed and Mr. Chisena provided comment. No others desired to comment. The sixth RVAAC meeting adjourned around 3:00 p.m. Currently, no other meetings have been scheduled although a seventh meeting is expected. The committee still plans to give its report to the US Access Board the morning of July 29, 2015.
+
+**Note 1 -- Reports.** The first draft of the final report along with comments and chapter 5 (Communications) reviewed by the committee, as well as other material used in the April 23-24 meeting, can be found in the RVAAC electronic docket at <http://www.regulations.gov/#!docketDetail;D=ATBCB-2013-0006> in the section titled Supporting Documents (may have to click "view all" and sort by title) under 6th Meeting.
+
+**Note 2 -- CART.** A Communication Access Realtime Translation (CART) system was used in the committee meeting to provide an accommodation to persons with hearing loss and persons who are deaf. The CART output was streamed in real-time and available to the public on the internet. The unedited text of the CART output is available in the RVAAC electronic docket referenced above in the section titled Supporting Documents under 6th Meeting - Unedited CART Text - 2015 April (23 or 24). These documents provide the details of the committee meeting.
+
+Attachment\
+RVAAC Meeting Attendance
+
+* * * * *
+
+Attachment
+----------
+
+### RVAAC Meeting Attendance
+
+### U.S. Access Board\
+Rail Vehicles Access Advisory Committee\
+April 23 and 24, 2015\
+Washington, DC
+
+#### Members Present:  26
+
+1.  Alstom Transportation - Jon Holbrook
+2.  American Council of the Blind - Terry Pacheco
+3.  (Amtrak) National Railroad Passenger Corporation - Joseph Slaughter
+4.  Assoc. of Programs for Rural Independent Living - Billy Altom (Committee Chair)
+5.  California Department of Transportation, Division of Rail -- Thomas Peacock
+6.  Center for Inclusive Design and Environmental Access -- Edward Steinfeld (day 2)
+7.  Community Transportation Association of America - Robert Carlson
+8.  Disability Rights Education & Defense Fund - Marilyn Golden
+9.  Federal Railroad Administration - Linda Martin & Calvin Gibson
+10. Hearing Access Program - Janice Schacter Lintz (day 2)
+11. Hearing Loss Association of America -- Lise Hamlin
+12. International Centre for Accessible Transportation - Uwe Rutenberg
+13. Maryland Transit Administration -- David Hughson
+14. Metra & Northeast Illinois Regional Commuter Railroad Corporation -- David Martinez
+15. Metropolitan Transportation Authority of the State of New York -- Frank Maldari
+16. National Association of Railroad Passengers -- Bob Reuter
+17. National Association of the Deaf -- Andrew Phillips (day 2)
+18. National Council on Independent Living - Cliff Perez
+19. National Disability Rights Network - Dennis Cannon & Kenneth Shiotani
+20. New Jersey Transit -- Ed Hoff
+21. Parsons Brinckerhoff -- Francis Banko
+22. RailPlan International -- Jonathan Michel
+23. Ricon Corporation -- Dante DeLeo
+24. South West Transit Association - Crystal Lyons
+25. Talgo, Inc. -- Joshua Coran
+26. United Spinal Association -- Carol Tyson
+
+#### Members Absent:  1
+
+    27.Bombardier Transportation
+
+#### Access Board Present:
+
+-   Melissa Anderson, Transportation Engineer\
+    Paul Beatty, Accessibility Specialist and Designated Federal Officer to the Advisory Committee\
+    Lisa Fairhall, Deputy General Counsel\
+    Christopher S. Hart, Board Member and liaison to the advisory committee\
+    Marsha K. Mazz, Director, Office of Technical and Information Services\
+    Jim Pecht, Accessibility Specialist
+
+#### Others Present:
+
+-   Geoffry Ames (day 1)\
+    Michael Chisena, MPC Visionary Concepts\
+    Sid Goldstein, Transit Access Report\
+    Jennifer Hu, Texas Central High-Speed Railway\
+    Richard Lidbom, Amtrak Customer Advisory Committee (day 1)\
+    Carol Lopez (day 1)\
+    Don Mebius, LTK Engineering Services\
+    Glenn Millis, Washington Metropolitan Area Transit Authority\
+    David Nelson, Amtrak\
+    Douglas Pemberton (day 1)\
+    Melissa Shurland, Federal Railroad Administration\
+    Corinna Sigsbury\
+    Paul Smith (day 1)\
+    Mark Treadwell
+
+
+
+---
+
+
+[Print](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/meeting-minutes-june-2015#)
+
+Committee Meeting Minutes: June 4-5, 2015
+-----------------------------------------
+
+### Summary Minutes -- 7th Meeting (approved July 27, 2015)
+
+**U.S. Access Board\
+Rail Vehicles Access Advisory Committee\
+June 4 and 5, 2015\
+Washington, DC**
+
+#### Thursday, June 4, 2015
+
+The seventh meeting of the Rail Vehicles Access Advisory Committee (RVAAC) began around 10:00 a.m. in the Access Board's conference room (see attachment for committee meeting attendance).  After introduction of committee members, alternates, and members of the public, and with a quorum present, the committee addressed the following administrative matters. 
+
+-   Approved the summary minutes for the sixth meeting (April 23-24, 2015).
+-   Noted that five public comments were added to the electronic docket (three more were added during the two day meeting).
+-   Noted that Mr. Andrew Phillips was no longer representing the National Association of the Deaf and that Ms. Debra Patkin was now fulfilling that role.
+-   Decided that the subcommittee chairs would assist Mr. Billy Altom in the July 29 presentation to the Access Board which would highlight the committee's report recommendations.
+
+Following administrative matters, the committee reviewed the written comments its members had submitted on the second draft of its final report to the Access Board which had been sent to the committee by email on June 2.  By the end of the day, the committee completed its work on Chapters 1, and 3 to 5.  A time of public comment was allowed, and Mr. Chisena provided comment.  No others desired to comment. 
+
+The meeting ended around 6 p.m.
+
+#### Friday, June 5, 2015 -- Advisory Meeting (continued)
+
+The committee opened the second day, with a quorum present, around 9:30 a.m.  After introduction of committee members, alternates, and members of the public, the committee starting reviewing chapter 2 (Communications) of the draft report and the comments its members had submitted.
+
+Around 1:30 p.m., the committee stopped its work to allow a time for public comment with Mr. Chisena providing comment.  No others desired to comment.
+
+Following the public comment time, the committee continued to work on Chapter 2 which was completed around 3 p.m.  Thereupon, the committee added a between car barrier requirement to Chapter 3 and discussed the List of Considerations for the Department of Transportation which was provided to the committee by email on June 2 and updated on June 3.
+
+It was noted that the subcommittee chairs will make editorial cleanups to the draft report, and a third draft will then be sent out for an email committee approval vote, thereby finalizing the report.  At that time, the committee will be giving a deadline date for submitting minority reports and the public will be informed when the public comment option in the electronic docket will be closed.
+
+The seventh RVAAC meeting adjourned around 3:30 p.m.  No other meetings have been scheduled, except for the presentation it will make to the Access Board on July 29, 2015 (9:30 a.m. to 11:30 a.m.).
+
+**Note 1 -- Reports.**  The second draft of the final report along with the added comments reviewed by the committee, as well as other material used in the June 4-5 meeting, can be found in the RVAAC electronic docket at <http://www.regulations.gov/#!docketDetail;D=ATBCB-2013-0006> in the section titled Supporting Documents (may have to click "view all" and sort by title) under 7th Meeting.
+
+**Note 2 -- CART.**  A Communication Access Realtime Translation (CART) system was used in the committee meeting to provide an accommodation to persons with hearing loss and persons who are deaf.  The CART output was streamed in real-time and available to the public on the internet.  The unedited text of the CART output is available in the RVAAC electronic docket referenced above in the section titled Supporting Documents under 7th Meeting - Unedited CART Text - 2015 June (4 or 5). These documents provide the details of the committee meeting.
+
+* * * * *
+
+Attachment
+----------
+
+### RVAAC Meeting Attendance
+
+**U.S. Access Board\
+Rail Vehicles Access Advisory Committee\
+June 4 and 5, 2015\
+Washington, DC**
+
+#### Members Present:  24
+
+1.  Alstom Transportation -- Jon Holbrook
+2.  American Council of the Blind -- Terry Pacheco
+3.  (Amtrak) National Railroad Passenger Corporation -- Joseph Slaughter & Gary Talbot (day 1)
+4.  Assoc. of Programs for Rural Independent Living -- Billy Altom (Committee Chair)
+5.  Bombardier Transportation -- André Gagné
+6.  California Department of Transportation, Division of Rail -- Stanton Hunter (day 2)
+7.  Disability Rights Education & Defense Fund -- Marilyn Golden
+8.  Federal Railroad Administration -- Calvin Gibson (day 2)
+9.  Hearing Access & Innovations -- Janice Schacter Lintz
+10. Hearing Loss Association of America -- Lise Hamlin
+11. International Centre for Accessible Transportation -- Uwe Rutenberg
+12. Maryland Transit Administration -- David Hughson
+13. Metra & Northeast Illinois Regional Commuter Railroad Corporation -- David Martinez
+14. Metropolitan Transportation Authority of the State of New York -- Frank Maldari
+15. National Association of Railroad Passengers -- Bob Reuter
+16. National Association of the Deaf -- Debra Paklin (day 2)
+17. National Council on Independent Living -- Cliff Perez
+18. National Disability Rights Network -- Dennis Cannon
+19. New Jersey Transit -- Ed Hoff
+20. Parsons Brinckerhoff -- Francis Banko
+21. RailPlan International -- Terry S (day 1) & Jonathan Michel
+22. Ricon Corporation -- Dante DeLeo
+23. Talgo, Inc. -- Joshua Coran
+24. United Spinal Association -- Carol Tyson (day 2)
+
+#### Members Absent:  3
+
+1.  Center for Inclusive Design and Environmental Access
+2.  Community Transportation Association of America
+3.  South West Transit Association
+
+#### Access Board Present:
+
+-   Melissa Anderson, Transportation Engineer
+-   Paul Beatty, Accessibility Specialist and Designated Federal Officer to the Advisory Committee
+-   Lisa Fairhall, Deputy General Counsel (day 1)Christopher S. Hart, Board Member and liaison to the advisory committee
+-   Marsha K. Mazz, Director, Office of Technical and Information Services
+-   Jim Pecht, Accessibility Specialist
+
+#### Others Present:
+
+-   Emily Bacque, BART (day 1)
+-   Michael Chisena, MPC Visionary Concepts Bob Franklin, BART (day 1)
+-   Jennifer Hu, Texas Central High-Speed Railway (day 2)
+-   Mike Martino (day 1)
+-   Don Mebius, LTK Engineering Services
+-   Glenn Millis, Washington Metropolitan Area Transit Authority
+-   David Nelson, Amtrak
+-   Melissa Shurland, Federal Railroad Administration
+-   Paul Smith (day 2)
+-   John Stolz (day 1)
+-   Mark Treadwell (day 2)

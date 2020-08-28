@@ -1,13 +1,13 @@
 ---
 title: Courthouse Access
 layout: page
-output: false
+output: true
 file: caac-report.pdf
 file-description: PDF of Courthouse Access Advisory Committee Report
 ---
 
 
-| [![Download this file (caac-report.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1903/caac-report.pdf "Download this file (caac-report.pdf)") |
+ {{page.title}}
 
 ### **Justice for All: Designing Accessible Courthouses**
 
@@ -15,7 +15,7 @@ file-description: PDF of Courthouse Access Advisory Committee Report
 
 This report contains recommendations of the Courthouse Access Advisory Committee for the U.S. Access Board's use in developing and disseminating guidance on accessible courthouse design under the Americans with Disabilities Act and the Architectural Barriers Act. This is not a regulation./p>
 
-### Contents![symbol of lady justice](https://www.access-board.gov/images/caac/002.jpg)
+### Contents![symbol of lady justice]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002.jpg)
 
 -   [Acknowledgements](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#ack)
 -   [Members of the Courthouse Access Advisory Committee](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#members)
@@ -151,9 +151,9 @@ Where a passenger loading/drop-off zone is provided, an access aisle that is 60 
 
 If a valet parking service is provided, there must also be an accessible passenger loading zone.
 
-| ![drop off area at courthouse](https://www.access-board.gov/images/caac/002_0000.jpg) |   |
+| ![drop off area at courthouse]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0000.jpg) |   |
 
-![another example of a courthouse drop off area](https://www.access-board.gov/images/caac/002_0001.jpg)
+![another example of a courthouse drop off area]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0001.jpg)
 
  |
 |
@@ -182,7 +182,7 @@ Applicable Guidelines:
 
 |
 
-*![accessible parking spaces](https://www.access-board.gov/images/caac/002_0003.jpg)*
+*![accessible parking spaces]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0003.jpg)*
 
 >\
 > Figure: Accessible parking spaces close to building entry.
@@ -232,9 +232,9 @@ Recommendations for Best Practice:
 -   If raising the building entrance off grade is necessary, the change in elevation should be as minimal as possible. This will allow shorter routes and, where necessary, shorter ramps with more gradual slopes. Consider eliminating steps, even at raised entrances, so that all public visitors ascend a wide, gradually sloped walkway. It is most equitable if people with and without disabilities use the same path of travel to the courthouse entrance.
 -   If a ramp is necessary, the slope should be as gradual as possible. The ramp should be wide enough to allow for ambulatory companions, thus exceeding the minimum width of 36 inches between the handrails. To provide integration, the ramp should begin with the general circulation path.
 
-| ![bench](https://www.access-board.gov/images/caac/002_0004.jpg) |   |
+| ![bench]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0004.jpg) |   |
 
-![Plinth with stairs creating access problems](https://www.access-board.gov/images/caac/002_0005.jpg)
+![Plinth with stairs creating access problems]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0005.jpg)
 
  |
 |
@@ -253,7 +253,7 @@ Commentary:
 -   It is important to consider accessible design when making the decision whether to raise the main entrance above grade. It is preferable to make the main entrance accessible because separate entrances raise security issues and may be discriminatory. People with disabilities equate having to use a separate entrance with not being treated equally.
 -   Reliance on a mechanized conveyance device, such as a lift or elevator, as the only accessible route into the building can result in a lack of access. The use of lifts is limited in new construction and, in the case of exterior routes, is allowed only where existing exterior site constraints make a ramp infeasible. Elevators and lifts are often out of service due to scheduled maintenance and malfunctions (especially common at exterior installations). They can also be unsightly. Locked lifts are not permitted by the guidelines. If security or vandalism is a concern, it must be addressed in a way that does not inhibit independent use by people with disabilities.
 
-![Courthouse without plinth for easier access](https://www.access-board.gov/images/caac/002_0006.jpg)
+![Courthouse without plinth for easier access]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0006.jpg)
 
 Figure: Courthouse without plinth for easier access.
 
@@ -264,7 +264,7 @@ Common Errors:
 -   Use of lifts as part of an accessible route where ramps are feasible.
 -   Changes in elevation that result in long, circuitous and arduous ramps.
 
-![Plinth necessitates a ramp that is long and arduous](https://www.access-board.gov/images/caac/002_0007.jpg)
+![Plinth necessitates a ramp that is long and arduous]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0007.jpg)
 
 Figure: Plinth necessitates a ramp that is long and arduous
 
@@ -291,11 +291,11 @@ In new construction, the guidelines require that, at a minimum, the following en
 -   At least one service entrance if it is the only entrance to a tenancy.
 -   At inaccessible entrances, signage is required to direct people to the accessible entrances.
 
-![Inaccessible entrance with signage directing people to an accessible entrance](https://www.access-board.gov/images/caac/002_0008.jpg)
+![Inaccessible entrance with signage directing people to an accessible entrance]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0008.jpg)
 
 > > > Figure: Inaccessible entrance with signage directing people to an accessible entrance.
 
-![Detainee entrance with ramp](https://www.access-board.gov/images/caac/002_0009.jpg)
+![Detainee entrance with ramp]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0009.jpg)
 
 Figure: Detainee entrance with ramp.
 
@@ -317,7 +317,7 @@ Recommendations for Best Practice:
 
 |
 
-![Exterior door with power operated door in use](https://www.access-board.gov/images/caac/002_0010.jpg)Figure: Exterior door with power operated\
+![Exterior door with power operated door in use]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0010.jpg)Figure: Exterior door with power operated\
 door in use.
 
  |
@@ -360,7 +360,7 @@ Where two-way communication systems are provided for entry into a restricted are
 
 Recommendations for Best Practice:
 
-| ![Person using a wheelchair at building directory](https://www.access-board.gov/images/caac/002_0011.jpg) |
+| ![Person using a wheelchair at building directory]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0011.jpg) |
 |
 
 Figure: Building directory that can be read from a wheelchair
@@ -413,7 +413,7 @@ Whether a jurisdiction adopts the International Fire Code or the NFPA 101 Life S
 
 The guidelines address fire alarm systems and reference technical specifications in the National Fire Alarm Code (NFPA 72). The guidelines also address accessible means of egress through a reference to the International Building Code (IBC).
 
-| ![Audible and visual fire alarm](https://www.access-board.gov/images/caac/002_0012.jpg) |
+| ![Audible and visual fire alarm]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0012.jpg) |
 |
 
 Figure: Audible and visual\
@@ -452,7 +452,7 @@ The guidelines reference the International Building Code (IBC) for accessible me
 
 For buildings and spaces, when one means of egress is required, that means of egress must be accessible. When two or more means of egress are required, at least two must be accessible. IBC requires that any space with 50 or more persons have two means of egress. Signage is required at the elevators and any other inaccessible means of egress directing persons to the locations of the accessible means of egress or area of assisted rescue.
 
-| ![Designated area of refuge next to elevators](https://www.access-board.gov/images/caac/002_0013.jpg) |
+| ![Designated area of refuge next to elevators]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0013.jpg) |
 |
 
 Figure: Designated area of refuge\
@@ -474,7 +474,7 @@ Recommendations for Best Practice:
 -   Signage should indicate areas where assisted rescue will be provided. Two-way and accessible communication, audible and visible, should be available at the elevator and exit stairways to allow persons to contact the central command center to inform them that they need assistance to evacuate.
 -   The signage designating emergency egress and non-emergency way-finding should be distinctive and evident in public and nonpublic areas of the courthouse.
 
-![Signage next to elevators with directions for emergency evacuation](https://www.access-board.gov/images/caac/002_0014.jpg)
+![Signage next to elevators with directions for emergency evacuation]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0014.jpg)
 
 > > > > Figure: Signage next to elevators with directions for emergency evacuation. Avoid overly complicated signage.
 
@@ -602,7 +602,7 @@ Service counters and work surfaces at jury check-in areas must meet the requirem
 
 Assistive listening systems are required in jury assembly areas where audio amplification is used. Assistive listening systems must meet certain technical standards of the guidelines. Identify the availability of assistive listening systems by posting signs with the international symbol for access for hearing loss. A portion of system receivers must be hearing aid compatible. A permanently installed audio induction loop system is an inexpensive solution for this situation.
 
-> > > > ![Jury Assembly room with power opening door and signage indicating availability of assistive listening systems](https://www.access-board.gov/images/caac/002_0015.jpg)
+> > > > ![Jury Assembly room with power opening door and signage indicating availability of assistive listening systems]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0015.jpg)
 > > > >
 > > > > Figure: Jury Assembly room with power opening door and\
 > > > > signage indicating availability of assistive listening systems.
@@ -684,7 +684,7 @@ Access requirements for a grand jury hearing room are identical to that of a cou
 Minimum Requirements:\
 Doors must require no more than 5 pounds of force to push or pull open. Doors must provide at least 32 inches of clear opening width. Maneuvering clearances on the latch and pull side must be provided. Vision panels, accessible door hardware, and kick plates must be provided. For double doors, at least one door must meet the requirements. Doors in series must also provide space between the doors for maneuvering. Vision panels, where provided, must be accessible with a bottom edge 43 inches maximum above the finished floor.
 
-| ![Courtroom entrance with automatic door operator that has controls located outside door swing](https://www.access-board.gov/images/caac/002_0016.jpg) |
+| ![Courtroom entrance with automatic door operator that has controls located outside door swing]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0016.jpg) |
 |
 
 Figure: Automatic door operator with\
@@ -716,7 +716,7 @@ The main aisle must be at least 36 inches wide and the surface of the floor must
 Recommendations for Best Practice:\
 The main aisle should be at least 44 inches wide.
 
-![Main aisle in courtroom](https://www.access-board.gov/images/caac/002_0017.jpg)
+![Main aisle in courtroom]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0017.jpg)
 
 Figure: Main aisle in courtroom of adequate width and rail without gate.
 
@@ -767,12 +767,12 @@ Recommendations for Best Practice:
 -   Where more than one wheelchair space is provided, wheelchair seating locations should be dispersed, so that individuals using wheelchairs have the same sight lines and variety of choices as other spectators.
 -   Wheelchair seating locations can overlap the pathway between rows. However, spaces should be designed so that an individual using a wheelchair does not have to move out of the row to allow others to access the row.
 
-![Wheelchair seating locations demonstrating shoulder alignment with companion](https://www.access-board.gov/images/caac/002_0018.jpg)
+![Wheelchair seating locations demonstrating shoulder alignment with companion]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0018.jpg)
 
 Figure: Wheelchair seating locations demonstrating\
 shoulder alignment with companion.
 
-![Plan view drawing illustrating shoulder alignment for side approach wheelchair seating spaces](https://www.access-board.gov/images/caac/002.gif)
+![Plan view drawing illustrating shoulder alignment for side approach wheelchair seating spaces]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002.gif)
 
 Figure: Drawing illustrating shoulder alignment for side approach\
 wheelchair seating spaces.
@@ -800,7 +800,7 @@ Recommendations for Best Practice:
 -   If a rail is used, there should be no gate.
 -   If a gate is provided, it should extend to the floor so a person using a wheelchair can push the gate open with footrests.
 
-![Rail without gate](https://www.access-board.gov/images/caac/002_0019.jpg)
+![Rail without gate]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0019.jpg)
 
 Figure: Rail without gate.
 
@@ -828,7 +828,7 @@ Recommendations for Best Practice:
 -   Removable seats in wheelchair seating spaces in jury boxes should be readily removable, without requiring tools.
 -   Jury boxes should be designed for shoulder alignment so a juror with a disability is fully integrated with other jurors.
 
-![Jury Box with first tier on floor](https://www.access-board.gov/images/caac/002_0020.jpg)
+![Jury Box with first tier on floor]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0020.jpg)
 
 Figure: Jury Box with first tier on floor.
 
@@ -837,7 +837,7 @@ This design option provides the first row of seating at the same elevation as th
 
 When placing the first row of the jury box at the same level as the well, lines of sight over the courtroom rail should be addressed.
 
-![Plan view drawing of jury box with first tier and wheelchair space on well floor level ](https://www.access-board.gov/images/caac/002_0000.gif)\
+![Plan view drawing of jury box with first tier and wheelchair space on well floor level ]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0000.gif)\
 Figure: Floor Plan example of first tier on floor
 
 Option 2: First Tier Raised (Accessible Pull-In Accommodation)\
@@ -845,7 +845,7 @@ This design option provides a raised floor in the entire area between the witnes
 
 This option depends on a major floor area being raised; and will also require accommodation of the height differential between the courtroom and the access corridor directly adjacent to the courtroom.
 
-![Plan view drawing of jury box with the first tier, which contains a wheelchair space, raised ](https://www.access-board.gov/images/caac/002_0001.gif)
+![Plan view drawing of jury box with the first tier, which contains a wheelchair space, raised ]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0001.gif)
 
 Figure: Floor plan example of first tier raised\
 (Accessible Pull-In Accommodation)
@@ -879,16 +879,16 @@ Recommendations for Best Practice:
 -   If the witness stand is raised above the well, the selection of a ramp or lift should be determined by available space and visual impact on court decorum. Ramps are preferable to lifts for a number of reasons (See Access to Raised Elements).
 -   If a ramp is selected, it must be permanently installed. The ramp should not interfere with or restrict movement throughout the courtroom. Ideally, one ramp should serve both the witness stand and the jury box.
 
-![Plan view drawing showing a ramp serving both the witness stand and jury box](https://www.access-board.gov/images/caac/002_0004.gif)\
+![Plan view drawing showing a ramp serving both the witness stand and jury box]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0004.gif)\
 Figure: Floor plan example of ramp serving both jury box and witness stand.
 
 -   When a lift is used, it should be integrated into the witness stand so the lift function is only evident when the lift is in use. Access should not require assistance from anyone outside the courtroom or require special training to operate the lift. The lift should operate without the need for a key. Court staff should have access to lift controls to assist a person unable to operate the lift.
 
-![Witness stand at floor level](https://www.access-board.gov/images/caac/002_0023.jpg)
+![Witness stand at floor level]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0023.jpg)
 
 Figure: Witness stand at floor level.
 
-![Ramp access to witness stand](https://www.access-board.gov/images/caac/002_0022.jpg)
+![Ramp access to witness stand]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0022.jpg)
 
 Figure: Ramp access to witness stand.
 
@@ -931,7 +931,7 @@ Recommendations for Best Practice:
 -   The judge should be able to enter and exit the bench moving forward and should have enough room to maneuver freely to hold sidebar conversations and to communicate with other court personnel. Adjustable height work surfaces should be provided when practicable.
 -   When it is not possible to provide access for a lawyer with a disability to have a face-to-face conversation with the judge, audio technology should be employed to provide confidential conversation between the judge, lawyer, court reporter, and other staff. "White noise" or other sound control should be used so the conversation can be heard by the participants only.
 
-![Judge's bench in a new courtroom with a ramp](https://www.access-board.gov/images/caac/002_0024.jpg)
+![Judge's bench in a new courtroom with a ramp]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0024.jpg)
 
 Figure: Judge's bench in a new courtroom with a ramp.
 
@@ -968,7 +968,7 @@ Recommendation for Best Practice:
 -   Provide an accessible/adaptable path to both the private circulation corridor and the courtroom well. If the route is adaptable, leave space for future lift or ramp including power to both locations. Select a specific ramp or lift, complete the design and either install at the time of construction or at a later date. Ramps are preferable to lifts for access to the clerk's and bailiff's stations for a variety of reasons (See [Access to Raised Elements](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#raised)).
 -   The clerk's station should be designed to enable the clerk to enter and exit the bench moving forward and to move freely to interact with the judge, courtroom personnel, lawyers or witnesses when handling evidence and exchanging documents. When located next to the judge, the clerk's station should be no more than two steps below the bench for ease of communication and passage of materials between the clerk and the judge.
 
-| ![Clerk's Station](https://www.access-board.gov/images/caac/002_0005.gif) |
+| ![Clerk's Station]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0005.gif) |
 |
 
 Figure: Clerk's station level with well
@@ -998,7 +998,7 @@ Applicable Guidelines:
 Minimum Requirements:\
 The route to court reporter stations must be accessible. The station platform is sometimes elevated above the courtroom well and/or above the floor level of the secured corridor. Vertical access to a raised employee station may be accessible or adaptable. Access to the station platform to overcome a vertical offset can be achieved by either a ramp or lift. If a lift is used, it must provide unassisted entry, operation, and exit. If adaptable, provision for utilities and space for future accessibility must be included in the design.
 
-| ![Court Reporter's Station level with well](https://www.access-board.gov/images/caac/002_0025.jpg) |
+| ![Court Reporter's Station level with well]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0025.jpg) |
 |
 
 Figure: Court reporter's station level with well
@@ -1006,7 +1006,7 @@ Figure: Court reporter's station level with well
  |
 |
 
-![Court Reporter's Station level with well](https://www.access-board.gov/images/caac/002_0026.jpg)
+![Court Reporter's Station level with well]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0026.jpg)
 
  |
 |
@@ -1084,10 +1084,10 @@ Recommendations for Best Practice:
 -   Adequate lighting should be provided on the podium to assist people with visual impairments.
 -   Controls should be easily accessible.
 
-![Plan and elevation drawings showing lectern specifications for forward approach access and an adjustable surface](https://www.access-board.gov/images/caac/002_0006.gif)\
+![Plan and elevation drawings showing lectern specifications for forward approach access and an adjustable surface]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0006.gif)\
 Figure: These lectern specifications provide forward approach access and an adjustable surface.
 
-![Accessible lectern with knee and toe clearance](https://www.access-board.gov/images/caac/002_0027.jpg)
+![Accessible lectern with knee and toe clearance]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0027.jpg)
 
 Figure: Accessible lectern with knee and toe clearance.
 
@@ -1189,11 +1189,11 @@ The following figures illustrate space requirements for single-user toilet rooms
 
 |
 
-![Clear floor space at toilets (60 inches wide by 56 inches deep, minimum) permits space for side transfers. Lavatories are not permitted to overlap this space](https://www.access-board.gov/images/caac/002_0028.jpg)
+![Clear floor space at toilets (60 inches wide by 56 inches deep, minimum) permits space for side transfers. Lavatories are not permitted to overlap this space]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0028.jpg)
 
  |  |
 
-![Lavatories can be recessed to save space (a shorter rear grab bar- 24 inches long minimum- is permitted in this condition)](https://www.access-board.gov/images/caac/002_0029.jpg)
+![Lavatories can be recessed to save space (a shorter rear grab bar- 24 inches long minimum- is permitted in this condition)]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0029.jpg)
 
  |
 |
@@ -1206,22 +1206,22 @@ Figure: Lavatories can be recessed to save space (a shorter rear grab bar- 24 in
 
  |
 
-![Clearances at toilets and lavatories can overlap. The door swing ](https://www.access-board.gov/images/caac/002_0030.jpg)
+![Clearances at toilets and lavatories can overlap. The door swing ]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0030.jpg)
 
 Figure: Clearances at toilets and lavatories can overlap. The door swing\
 can overlap fixture clearances under certain conditions.
 
-![The door swing can overlap fixture clearances if wheelchair space](https://www.access-board.gov/images/caac/002_0031.jpg)
+![The door swing can overlap fixture clearances if wheelchair space]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0031.jpg)
 
 Figure: The door swing can overlap fixture clearances if wheelchair space\
 is available beyond the arc of the door swing.
 
-![Turning space (which door can swing into) and door clearances further define room size](https://www.access-board.gov/images/caac/002_0032.jpg)
+![Turning space (which door can swing into) and door clearances further define room size]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0032.jpg)
 
 Figure: Turning space (which door can swing into) and door\
 clearances further define room size.
 
-![Kitchenette with side approach access](https://www.access-board.gov/images/caac/002_0033.jpg)
+![Kitchenette with side approach access]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0033.jpg)
 
 Figure: Side approach to service unit if range or cooktop not provided.
 
@@ -1258,13 +1258,13 @@ Recommendations for Best Practice:
 
 Grab bars can be designed so they do not increase suicide risk. As shown, there are several ways for grab bars to be designed with adequate gripping surfaces, while providing suicide-prevention features.
 
-![illustration of cross section of grab bar with infill plate](https://www.access-board.gov/images/caac/002_0034.jpg)\
+![illustration of cross section of grab bar with infill plate]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0034.jpg)\
 Figure: Profiles of accessible grab bars with an infill plate\
 or continuous mounting bracket for suicide prevention.\
 *Source: ADA/Section 504 Design Guide: Accessible Cells in\
 Correctional Facilities, U.S Department of Justice.*
 
-![Features of an Accessible Toilet](https://www.access-board.gov/images/caac/002_0035.jpg)
+![Features of an Accessible Toilet]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0035.jpg)
 
 Figure: Features of an Accessible Toilet\
 *Source: ADA/Section 504 Design Guide: Accessible Cells in\
@@ -1281,7 +1281,7 @@ Correctional Facilities, U.S Department of Justice.*
 > >
 > > > Note: In every instance, regardless of toilet and lavatory configuration, adequate space needs to be provided for inmates who use wheelchairs to transfer onto and off of the toilet.
 
-![Features of Accessible Lavatories and Mirrors](https://www.access-board.gov/images/caac/002_0036.jpg)
+![Features of Accessible Lavatories and Mirrors]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0036.jpg)
 
 Figure 14.3. Features of Accessible Lavatories and Mirrors\
 *Source: ADA/Section 504 Design Guide: Accessible Cells in\
@@ -1298,7 +1298,7 @@ Correctional Facilities, U.S Department of Justice.*
 Commentary:\
 At least one accessible cell must be provided to serve each courtroom to avoid having to move the entire proceeding to accommodate a person who uses a wheelchair. If a pair of cells equally serves more than one courtroom, only one cell must be accessible. Grab bars should be installed at time of construction to prevent removal and use as a weapon.
 
-![Detainee visitor area with wall-mounted seat that adjusts to allow room for a wheelchair ](https://www.access-board.gov/images/caac/002_0047.jpg)
+![Detainee visitor area with wall-mounted seat that adjusts to allow room for a wheelchair ]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0047.jpg)
 
 Figure: A non-contact visitation booth with fold-away detainee seating.
 
@@ -1381,7 +1381,7 @@ Assistive listening systems are required in each courtroom, even if no audio amp
 
 The number of system receivers is required based on the seating capacity. For spaces with a capacity of 50 or less, two receivers are required. It is important that receivers be compatible with hearing aids. Availability of assistive listening systems must be identified by posting the international symbol for access for hearing loss.
 
-![International Symbol for Access for Hearing Loss](https://www.access-board.gov/images/caac/002_0007.gif)
+![International Symbol for Access for Hearing Loss]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0007.gif)
 
 Figure: International Symbol for Access for Hearing Loss
 
@@ -1460,19 +1460,19 @@ Recommendations for Best Practice:
 
 The four drawings below show the alternatives/combinations possible of edge protection, handrails and guards.
 
-![Ramp with walls as edge protection](https://www.access-board.gov/images/caac/002_0008.gif)
+![Ramp with walls as edge protection]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0008.gif)
 
 > > Figure: In this example, the ramp run has a rise greater than 6 inches. Therefore, handrails are required. Because the ramp runs along the wall, the wall serves as the edge protection and there is no drop-off.
 
-![Ramp with bottom rail and decorative infill as edge protection](https://www.access-board.gov/images/caac/002_0009.gif)
+![Ramp with bottom rail and decorative infill as edge protection]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0009.gif)
 
 > > Figure: In this example, the ramp has a rise greater than 6 inches. Therefore, handrails are required. The drop-off along the side of the ramp is 30-inches or less. Therefore, a guard is not required. The edge protection is provided by the bottom rail of the decorative in-fill. The bottom rail is often preferred over the curb option for the exterior of the building because it is easier to keep the ramp clear of snow and debris.
 
-![Ramp with 4 inch minimum curb for edge protection](https://www.access-board.gov/images/caac/002_0010.gif)
+![Ramp with 4 inch minimum curb for edge protection]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0010.gif)
 
 > > Figure: In this example, the ramp has a rise greater than 6 inches. Therefore, handrails are required. The drop-off along the side of the ramp is 30-inches or less. Therefore, a guard is not required. The edge protection is provided by the curb.
 > >
-> > ![Ramp with lower rail for edge protection and a guard rail](https://www.access-board.gov/images/caac/002_0011.gif)
+> > ![Ramp with lower rail for edge protection and a guard rail]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0011.gif)
 > >
 > > Figure: In this example, the ramp has a rise greater than 6 inches. Therefore, handrails are required. The drop-off along the side of the ramp is greater than 30-inches. Therefore, a guard is required by building codes. The edge protection is provided by the bottom rail of the guard. The edge protection could be provided by a curb. The bottom rail is often preferred over the curb option for the exterior of the building because it is easier to keep the ramp clear of snow and debris.
 
@@ -1496,16 +1496,16 @@ Figure: Common Error -This ramp provides access to the judge's bench from the re
 
  |
 
-> ![Ramp to judge's bench without handrails or sufficient landing space at the door](https://www.access-board.gov/images/caac/002_0037.jpg)
+> ![Ramp to judge's bench without handrails or sufficient landing space at the door]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0037.jpg)
 
  |
 |
 
-![Flip-down ramp to jury box](https://www.access-board.gov/images/caac/002_0038.jpg)
+![Flip-down ramp to jury box]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0038.jpg)
 
  |
 
-![Flip-down ramp to judge's bench/ clerk's station](https://www.access-board.gov/images/caac/002_0039.jpg)
+![Flip-down ramp to judge's bench/ clerk's station]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0039.jpg)
 
  |
 |
@@ -1513,7 +1513,7 @@ Figure: Common Error -This ramp provides access to the judge's bench from the re
 > Figures: Common Error - These flip down ramps require assistance to create the accessible route, and when open, block the gate and maneuvering space for the door.
 
  |
-| ![Exterior ramp (without edge proection)  located along the same general path of travel as provided for the general public](https://www.access-board.gov/images/caac/002_0040.jpg) | ![Exterior ramp located so that it provides access to a back door that is not visible from the outside](https://www.access-board.gov/images/caac/002_0041.jpg) |
+| ![Exterior ramp (without edge proection)  located along the same general path of travel as provided for the general public]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0040.jpg) | ![Exterior ramp located so that it provides access to a back door that is not visible from the outside]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0041.jpg) |
 |
 
 Figure: Common Error - This exterior ramp is located along the same general path of travel as provided for the general public. However, while the ramp does provide handrails, it does not have edge protection.
@@ -1576,27 +1576,27 @@ Performance Recommendations:
 -   Motors and electrical control panels should be easily serviceable.
 -   Local service and parts should be available within 24 hours of a service call.
 
-![Hydraulic/Scissors Lift](https://www.access-board.gov/images/caac/002_0012.gif)
+![Hydraulic/Scissors Lift]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0012.gif)
 
 > > > Figure: Hydraulic/Scissors Lift -- This type of lift utilizes a hydraulic cylinder to lift the platform through a scissor mechanism. The lifting mechanism is contained under the platform and the motor and hydraulic pump are located remotely from the platform. A pit or floor depression is required to accommodate the lifting mechanism under the platform. The schematic above illustrates a witness stand lift configuration.
 
-![Electric/Scissors Lift](https://www.access-board.gov/images/caac/002_0042.jpg)
+![Electric/Scissors Lift]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0042.jpg)
 
 > > > Figure: Electric/Scissors Lift - This type of lift utilizes an electric motor and mechanical linkage to lift the platform through a scissor mechanism. The lifting mechanism is contained under the platform. The electric motor and mechanical linkage are attached to the framework and stored under the upper level floor. A pit or floor depression is required to accommodate the lifting mechanism under the platform. The schematic above illustrates a witness stand lift configuration.
 > > >
-> > > ![Cantilevered Platform (Screw Drive) Lift](https://www.access-board.gov/images/caac/002_0013.gif)
+> > > ![Cantilevered Platform (Screw Drive) Lift]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0013.gif)
 > > >
 > > > Figure: Cantilevered Platform (Screw Drive) Lift - This type of lift utilizes an electric motor and screw jack to lift the platform. The lifting mechanism is contained in a tower located along one side of the platform. A pit or floor depression is required to accommodate the lifting mechanism under the platform. The schematic above illustrates a witness stand lift configuration.
 
-![Four Screw Jack Drive](https://www.access-board.gov/images/caac/002_0014.gif)
+![Four Screw Jack Drive]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0014.gif)
 
 > > > Figure: Four Screw Jack Drive - This type of lift utilizes an electric motor and 4 screw jacks to lift the platform through connections to the edge of the platform. The lifting mechanism is located outside the platform. The electric motor and mechanical drive system are attached to the framework and stored under the upper level floor. A pit or floor depression is not required, as there is no lifting mechanism under the platform. The schematic above illustrates a witness stand lift configuration.
 
-![Incline Platform Lift](https://www.access-board.gov/images/caac/002_0043.jpg)
+![Incline Platform Lift]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0043.jpg)
 
 > > > Figure: Incline Platform Lift - This type of lift utilizes an electric motor and gear drive system to lift the platform along the slope of a stairway. The lifting mechanism is located inside a sidewall of the platform. The lift platform runs along a track that is mounted to the building wall or support towers mounted to the stairway. A pit or floor depression is not required, as the mechanism is entirely side mounted. The schematic above illustrates a straight stairway configuration.
 
-![Convertible Stairway/Wheelchair Lift](https://www.access-board.gov/images/caac/002_0044.jpg)
+![Convertible Stairway/Wheelchair Lift]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0044.jpg)
 
 > > Figure: Convertible Stairway/Wheelchair Lift - This type of lift utilizes an electric motor and screw jacks to lift the platform. The lifting mechanism is located within the footprint of the machine. The device functions as a stairway until needed as a lift. A pit or floor depression is not required. The schematic above illustrates the device in both stairway and lift configuration.
 
@@ -1607,7 +1607,7 @@ Common Errors:
 -   There has been difficulty in maintaining the lift platform vertical position over an extended period of time due to hydraulic system leak down.
 -   Lifts require removal of step, platforms, or millwork to be operable.
 
-| ![Platform covering stairs for lift use](https://www.access-board.gov/images/caac/002_0045.jpg) | ![Platform in place at stairs](https://www.access-board.gov/images/caac/002_0046.jpg) |
+| ![Platform covering stairs for lift use]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0045.jpg) | ![Platform in place at stairs]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0046.jpg) |
 |
 
 > Figures: Common Error - The lift in the above courtroom requires the addition of a platform covering the stairs to be operable.
@@ -2268,9 +2268,9 @@ Cued Speech is not a language in itself, but shows the spoken word through hand 
 
 When entering a courthouse for the first time, finding one's way around is largely dependent upon clear and concise directional signage.
 
-![International Symbol of Accessibility](https://www.access-board.gov/images/caac/002_0048.jpg)People with mobility impairments look for the signs with the International Symbol of Accessibility -- the wheelchair symbol.
+![International Symbol of Accessibility]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0048.jpg)People with mobility impairments look for the signs with the International Symbol of Accessibility -- the wheelchair symbol.
 
-![International Symbol for Access for Hearing Loss](https://www.access-board.gov/images/caac/002_0015.gif)People with hearing loss look for the International Symbol for Access for Hearing Loss -- sound waves emanating from an ear.
+![International Symbol for Access for Hearing Loss]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0015.gif)People with hearing loss look for the International Symbol for Access for Hearing Loss -- sound waves emanating from an ear.
 
 For people with vision impairments, signs are usually not effective for wayfinding.
 
