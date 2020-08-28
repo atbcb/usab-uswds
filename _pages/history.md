@@ -9,11 +9,11 @@ permalink: /about/history.html
 
 ## 1968 – The Architectural Barriers Act Becomes Law
 
-<img src="../img/lbj.jpg" alt="President Lyndon Johnson signing law" align="right">
+![President Lyndon Johnson signing law]({{ site.baseurl }}/images/lbj.jpg)
 
 Congress passed the Architectural Barriers Act (ABA), the first federal law to address accessibility, to make federal facilities accessible to people with disabilities.&nbsp;
 Unanimously approved on August 12, 1968, the law requires access to facilities designed, built, altered, or leased with federal funds.&nbsp;
-By passing the ABA, Congress intended the federal government to set as an example for state and local governments and for private industry.&nbsp;
+By passing the ABA, Congress intended the federal government to set an example for state and local governments and for private industry.&nbsp;
 President Lyndon Johnson characterized barriers to access as a failure on the part of government that perpetuated “cruel discrimination.”
 
 Hugh Gallagher, an aide to Senator E.L. Bartlett of Alaska who introduced the ABA, helped draft the bill.&nbsp;
