@@ -4,11 +4,16 @@ order-number: 7
 permalink: /es/ley-aba.html
 ---
 
+<figure class="float-right">
+![foto en blanco y negro]({{ site.baseurl }}/images/lbj.jpg)
+<figcaption>
+Presidente Lyndon Johnson, quien promulgó la ABA en agosto de 1968, caracterizó barreras para acceso como fracasos por parte del gobierno que perpetuaban “la discriminacion cruel.”
+</figcaption>
+</figure>
+
 La ABA requiere acceso a instalaciones diseñadas, construidas, alteradas, o alquiladas con fondos federales. Aprobada por el Congreso en 1968, la ley marca uno de los primeros esfuerzos para garantizar el acceso a las zonas edificadas. El Consejo de Acceso desarrolla y mantiene las directrices de accesibilidad bajo esta ley. Estas directrices sirven como base para los estándares utilizados para aplicar la ley. Cuatro agencias federales son responsables de estas normas: el Departamento de Defensa; el Departamento de Vivienda y Desarrollo Urbano; la Administración de Servicios Generales; y el Servicio Postal de los Estados Unidos.
 
 Las agencias federales tienen la responsabilidad de garantizar el cumplimiento de las normas de ABA al financiar el diseño, construcción, alteración, o alquiler de instalaciones. El Consejo fue establecido bajo la Sección 502 de la Ley de Rehabilitación de 1973, con el propósito de aplicar la ABA, que lo hace a través de la investigación de las denuncias. Cualquier persona preocupada por la accesibilidad de las instalaciones que pueden haber recibido fondos federales puede presentar una denuncia ante el Consejo.
-
-Presidente Lyndon Johnson, quien promulgó la ABA en agosto de 1968, caracterizó barreras para acceso como fracasos por parte del gobierno que perpetuaban “la discriminacion cruel.”
 
 * * * * *
 
