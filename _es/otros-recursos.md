@@ -44,9 +44,9 @@ Llame gratis dentro de los Estados Unidos al (866) 289-9673 (voz) o mande un men
 
 Mire estos enlaces para obtener más detalles:
 
-TSA en español: <http://www.tsa.gov/es/espa%C3%B1ol>\
-Problemas: <http://airconsumer.ost.dot.gov/spanish/DiscrimComplaintsContacts.htm>\
-Página inicio de TSA (en inglés): <http://www.tsa.gov/>[](http://www.tsa.gov/)
+- TSA en español: <http://www.tsa.gov/es/espa%C3%B1ol>  
+- Problemas: <http://airconsumer.ost.dot.gov/spanish/DiscrimComplaintsContacts.htm>  
+- Página inicio de TSA (en inglés): <http://www.tsa.gov/>
 
 * * * * *
 
@@ -207,12 +207,12 @@ La Comisión Federal de Comunicaciones (Federal Communications Commission, o FCC
 
 La ADA prohíbe la discriminación basada en la discapacidad en el transporte. El título II aborda los servicios y actividades de gobiernos estatales y locales, incluidas las acciones aplicables al transporte público proporcionado por entidades públicas. Las instalaciones de transporte y vehículos operados por empresas privadas están cubiertos bajo el título III. Estas disposiciones de transporte están destinadas a mejorar el acceso en el equipo (autobuses, vagones), instalaciones y transporte compartido para persones con discapacidades, o "paratransit" en inglés. Denuncias de transporte público deben dirigirse a:
 
-Federal Transit Administration\
-Office of Civil Rights\
-Attention: Complaint Team\
-East Building, 5th Floor -- TCR\
-1200 New Jersey Ave., SE\
-Washington, DC 20590
+> Federal Transit Administration  
+> Office of Civil Rights  
+> Attention: Complaint Team  
+> East Building, 5th Floor -- TCR  
+> 1200 New Jersey Ave. SE  
+> Washington, DC  20590
 
 [Formulario de denuncia](http://www.fta.dot.gov/documents/Consolidated_Civil_Rights_Complaint_Form.pdf) (en inglés)
 

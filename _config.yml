@@ -166,7 +166,6 @@ collections:
     permalink: /pvag/:path/
   es:
     output: true
-    permalink: /es/:path/
   authors:
     output: true
     permalink: /authors/:name/
@@ -306,9 +305,9 @@ defaults:
       type: "es"
     values:
       collection-title: "En Español"
-      collection-subtitle: "test"
       collection-folder: es
       layout: standards
+      image-directory: /images/
   - scope:
       path: "_authors"
     values:
