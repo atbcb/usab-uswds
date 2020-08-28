@@ -1,11 +1,13 @@
 ---
-title: "Aplicaci�n"
+title: "Aplicación"
 order-number: 4
-permalink: /es/aplicaci�n.html
+permalink: /es/Aplicación.html
 ---
 
-Si est� interesado en acceso a un establecimiento que puede haber sido financiado por el gobierno federal, puede presentar una denuncia con el Consejo de Acceso bajo la Ley de Barreras Arquitect�nicas del 1968 (Architectural Barriers Act, o ABA, por sus siglas en ingl�s). La ABA exige el acceso a establecimientos dise�ados, construidos, remodelados, o alquilados con fondos federales. La ley cubre una amplia gama de establecimientos, entre otros, oficinas de correo, oficinas del seguro social, c�rceles y parques nacionales. Tambi�n la ABA se aplica a establecimientos no gubernamentales que han recibido financiamiento federal, tales como algunas escuelas, viviendas p�blicas y sistemas de transporte p�blico.
+## Aplicación
 
-El Consejo aplica la ABA a trav�s de la investigaci�n de denuncias del p�blico. Para empezar una investigaci�n, todo lo que el Consejo necesita es el nombre y la direcci�n del establecimiento y una breve descripci�n de las barreras para la accesibilidad. La informaci�n adicional acerca del edificio, tal como fecha de construcci�n o fuentes conocidas de financiamiento federal, es �til pero no necesaria. La informaci�n personal, es decir el nombre del reclamante, es opcional y si se suministra, se guarda confidencialmente. Las denuncias se pueden [presentar por varios m�todos](index.php?Itemid=1974).
+Si está interesado en acceso a un establecimiento que puede haber sido financiado por el gobierno federal, puede presentar una denuncia con el Consejo de Acceso bajo la Ley de Barreras Arquitectónicas del 1968 (Architectural Barriers Act, o ABA, por sus siglas en inglés). La ABA exige el acceso a establecimientos diseñados, construidos, remodelados, o alquilados con fondos federales. La ley cubre una amplia gama de establecimientos, entre otros, oficinas de correo, oficinas del seguro social, cárceles y parques nacionales. También la ABA se aplica a establecimientos no gubernamentales que han recibido financiamiento federal, tales como algunas escuelas, viviendas públicas y sistemas de transporte público.
 
-Si est� interesado en otros tipos de accesibilidad no cubiertos por la ABA, consulte [Otros Recursos](index.php?option=com_content&view=article&id=1779&Itemid=1986) para obtener m�s informaci�n.
+El Consejo aplica la ABA a través de la investigación de denuncias del público. Para empezar una investigación, todo lo que el Consejo necesita es el nombre y la dirección del establecimiento y una breve descripción de las barreras para la accesibilidad. La información adicional acerca del edificio, tal como fecha de construcción o fuentes conocidas de financiamiento federal, es útil pero no necesaria. La información personal, es decir el nombre del reclamante, es opcional y si se suministra, se guarda confidencialmente. Las denuncias se pueden [presentar por varios métodos](index.php?Itemid=1974).
+
+Si está interesado en otros tipos de accesibilidad no cubiertos por la ABA, consulte [Otros Recursos](index.php?option=com_content&view=article&id=1779&Itemid=1986) para obtener más información.
