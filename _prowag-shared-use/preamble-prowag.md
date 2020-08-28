@@ -11,13 +11,11 @@ Docket No. ATBCB 2011-04
 
 *Note:* On February 13, 2013, the Access Board issued a [notice](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice) to supplement the proposed guidelines for public rights-of-way to address shared use paths.
 
-### PREAMBLE
-
 **AGENCY:** Architectural and Transportation Barriers Compliance Board.
 
 **ACTION:** Notice of Proposed Rulemaking.
 
-**SUMMARY:**The Architectural and Transportation Barriers Compliance Board is proposing accessibility guidelines for the design, construction, and alteration of pedestrian facilities in the public right-of-way. The guidelines ensure that sidewalks, pedestrian street crossings, pedestrian signals, and other facilities for pedestrian circulation and use constructed or altered in the public right-of-way by state and local governments are readily accessible to and usable by pedestrians with disabilities. When the guidelines are adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing the Americans with Disabilities Act, Section 504 of the Rehabilitation Act, and the Architectural Barriers Act, compliance with the accessibility standards is mandatory.
+**SUMMARY:** The Architectural and Transportation Barriers Compliance Board is proposing accessibility guidelines for the design, construction, and alteration of pedestrian facilities in the public right-of-way. The guidelines ensure that sidewalks, pedestrian street crossings, pedestrian signals, and other facilities for pedestrian circulation and use constructed or altered in the public right-of-way by state and local governments are readily accessible to and usable by pedestrians with disabilities. When the guidelines are adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing the Americans with Disabilities Act, Section 504 of the Rehabilitation Act, and the Architectural Barriers Act, compliance with the accessibility standards is mandatory.
 
 **DATES:** Submit comments by November 23, 2011. Hearings will be held on the proposed guidelines on the following dates:
 
@@ -38,7 +36,7 @@ The hearing locations are:
 1.  Dallas -- Sheraton Dallas (San Antonio A Ballroom), 400 North Olive Street, Dallas, TX  75201.
 2.  Washington, DC -- Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004.
 
-**FOR FURTHER INFORMATION CONTACT**: Scott Windley, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street NW, Suite 1000, Washington, DC 20004-1111. Telephone (202) 272-0025 (voice) or (202) 272-0028 (TTY). E-mail address <row@access-board.gov>.
+**FOR FURTHER INFORMATION CONTACT:** Scott Windley, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street NW, Suite 1000, Washington, DC 20004-1111. Telephone (202) 272-0025 (voice) or (202) 272-0028 (TTY). E-mail address <row@access-board.gov>.
 
 **SUPPLEMENTARY INFORMATION:**
 
@@ -46,11 +44,9 @@ The hearing locations are:
 
 The proposed guidelines will be codified as an appendix to 36 CFR part 1190. In the past, the Architectural and Transportation Barriers Compliance Board (Access Board) submitted "camera ready" copy (i.e., images) of its guidelines to the Federal Register for the appendices since the guidelines included figures that illustrate the requirements in the guidelines. The appendices were not word searchable when viewed online because they are images. After discussions with the Office of the Federal Register, the Access Board has decided to submit the proposed guidelines as a Word document with only one image, the International Symbol of Accessibility (Figure R411), so the appendix will be word searchable when viewed on-line. A copy of the proposed guidelines with figures is available on the Access Board website. Except for the International Symbol of Accessibility (Figure R411), the figures are for illustration purposes only and do not establish requirements. The copy of the proposed guidelines on the Access Board website also sets out advisory sections in shaded boxes, and indents subsections under the main sections.
 
-
 ---
 
-
-## Introduction
+### Introduction
 
 The Access Board is an independent federal agency established by section 502 of the Rehabilitation Act (29 U.S.C. 792).1 The Access Board is responsible for developing accessibility guidelines for the design, construction, and alteration of facilities to ensure that they are readily accessible to and usable by individuals with disabilities. The Access Board's guidelines play an important part in the implementation of three laws that require newly constructed and altered facilities to be accessible to individuals with disabilities: the Americans with Disabilities Act, Section 504 of the Rehabilitation Act, and the Architectural Barriers Act. As further discussed under the Statutory and Regulatory Background, these laws require other federal agencies to issue regulations which include accessibility standards for the design, construction, and alteration of facilities. The regulations issued by the other federal agencies to implement these laws adopt, with or without additions and modifications, the Access Board's guidelines as accessibility standards. When the Access Board's guidelines are adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing these laws, compliance with the accessibility standards is mandatory.
 
@@ -106,15 +102,9 @@ The Access Board established a federal advisory committee in 1999 to recommend a
 
 The Access Board developed draft accessibility guidelines for pedestrian facilities in the public right-of-way based on the advisory committee's recommendations, and made the draft guidelines available for public review and comment in 2002.16 67 FR 41206 (June 17, 2002). The Access Board revised the draft guidelines in 2005 and made the revised draft guidelines available for public review to facilitate the gathering of data for a regulatory assessment of the potential costs and benefits of the guidelines. 70 FR 70734 (November 23, 2005). The Access Board entered into an interagency agreement with the Volpe National Transportation Systems Center (Volpe Center) to gather data and prepare cost estimates for the regulatory assessment.17
 
-
 ---
 
-
-Major Issues
-------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/major-issues?tmpl=component&print=1 "Print article < Major Issues >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=d2a42bcaa6b0a892d65d7a6cf3b2b7dc827cdf0b "Email this link to a friend")
+### Major Issues
 
 Transportation officials who commented on the 2002 draft guidelines raised some major issues that are addressed below.
 
@@ -146,15 +136,9 @@ Transportation officials recommended that additional allowances be made for typi
 
 A maximum grade of 5 percent and maximum cross slope of 2 percent are required otherwise for pedestrian access routes within sidewalks and pedestrian street crossings (see R302.5 and R302.6).
 
-
 ---
 
-
-Overview of Proposed Guidelines
--------------------------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/overview-of-proposed-guidelines?tmpl=component&print=1 "Print article < Overview of Proposed Guidelines >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=8caa74834dc8c6dd57d8777171a00d88390d8e9d "Email this link to a friend")
+### Overview of Proposed Guidelines
 
 The proposed guidelines apply to pedestrian facilities in the public right-of-way. The proposed guidelines define the public right-of-way to mean "public land or property, usually in interconnected corridors, that is acquired for or dedicated to transportation purposes" (see R105.5). The proposed guidelines ensure that the following facilities for pedestrian circulation and use located in the public right-of-way are readily accessible to and usable by pedestrians with disabilities:
 
@@ -174,15 +158,9 @@ The proposed guidelines apply to pedestrian facilities in the public right-of-wa
 
 The proposed guidelines use the mandatory language "shall" and "requirement" because the guidelines are intended to be adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing Title II of the Americans with Disabilities Act, Section 504, and the Architectural Barriers Act. In this regard, the proposed guidelines are analogous to model codes. Model codes use mandatory language but compliance with model codes is not mandatory until they are adopted by a state or local government. When the Access Board's guidelines are adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing Title II of the Americans with Disabilities Act, Section 504, and the Architectural Barriers Act, compliance with the accessibility standards is mandatory. The other federal agencies will conduct separate rulemakings to include accessibility standards for pedestrian facilities in the public right-of-way in regulations implementing Title II of the Americans with Disabilities Act, Section 504, and the Architectural Barriers Act. The other federal agencies will establish the effective dates for compliance with the accessibility standards when they complete their rulemakings. The other federal agencies may permit use of the proposed guidelines as best practices pending the completion of their rulemakings. However, the proposed guidelines are not legally enforceable until adopted, with or without additions and modifications, as accessibility standards by other federal agencies in regulations implementing Title II of the Americans with Disabilities Act, Section 504, and the Architectural Barriers Act.
 
-
 ---
 
-
-Impacts on State and Local Governments
---------------------------------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/impacts-on-state-and-local-governments?tmpl=component&print=1 "Print article < Impacts on State and Local Governments >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=61d55efd50347530a1b082a6d117b84ec53c3945 "Email this link to a friend")
+### Impacts on State and Local Governments
 
 When the proposed guidelines are adopted, with or without additions and modifications, as accessibility standards by other federal agencies in the regulations implementing Title II of the Americans with Disabilities Act, Section 504, and the Architectural Barriers Act, the accessibility standards will apply to units of state and local government that construct streets and highways.18 For ease of reference, these state and local governmental units are referred to as "state and local transportation departments" in this preamble but may go by different names (e.g., public works departments, or highway or streets departments) in their respective jurisdictions. State and local transportation departments may be required to comply with three accessibility standards. For example, a state or local transportation department that finances the design, construction, or alteration of a pedestrian facility in the public right-of-way with a federal grant or loan from the Department of Transportation would be required to comply with the accessibility standards issued by the Department of Justice in regulations implementing Title II of the Americans with Disabilities Act, the accessibility standards issued by the Department of Transportation in regulations implementing Section 504, and the accessibility standards issued by the General Services Administration in regulations implementing the Architectural Barriers Act. All three accessibility standards would be basically uniform because they adopt the proposed guidelines, but may vary to the extent that Department of Justice, Department of Transportation, and General Services Administration include additions or modifications to the proposed guidelines in their accessibility standards.
 
@@ -227,15 +205,9 @@ The impacts of these requirements are analyzed in the regulatory assessment and 
 
 *Question 3.* Comments are requested on alternative regulatory approaches for achieving the objectives of the Americans with Disabilities Act, Section 504, and Architectural Barriers Act to eliminate the discriminatory effects of architectural, transportation, and communication barriers in the design and construction of pedestrian facilities in the public right-of-way.
 
-
 ---
 
-
-Section-by-Section Analysis
----------------------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/section-by-section-analysis?tmpl=component&print=1 "Print article < Section-by-Section Analysis >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=a29596dbb4357d51a3956e34aa9d2e14188f7e7b "Email this link to a friend")
+### Section-by-Section Analysis
 
 The proposed guidelines consist of four chapters. Chapter R1 addresses the application and administration of the proposed guidelines. Chapter R2 contains scoping requirements. Chapter R3 contains technical requirements. Chapter R4 contains supplementary technical requirements, which are the same as in the 2004 ADA and ABA Accessibility Guidelines with a few exceptions. The sections in each chapter are discussed below. Sections marked as "advisory" contain advisory information related to the preceding section. Advisory sections do not establish mandatory requirements. Some advisory sections reference related mandatory requirements to alert readers about those requirements.
 
@@ -749,15 +721,9 @@ A shared street is a common space designed for use by pedestrians, bicyclists, a
 
 Question 22. The Access Board seeks information on the design of shared streets in the United States, and whether tactile surfaces or other design features are used to facilitate wayfinding along shared streets. The Access Board also seeks information about other research that is planned or underway on the use of tactile surfaces or other design features to facilitate wayfinding along shared streets.
 
-
 ---
 
-
-Regulatory Process Matters
---------------------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/regulatory-process-matters?tmpl=component&print=1 "Print article < Regulatory Process Matters >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=101b8ba932653a66437767803f5f52be11d95a3b "Email this link to a friend")
+### Regulatory Process Matters
 
 *Executive Orders 12866 and 13563*
 
@@ -1048,11 +1014,11 @@ The Unfunded Mandates Reform Act does not apply to proposed or final rules that 
 
 Buildings and facilities, Civil rights, Individuals with disabilities, Transportation.
 
-_________________________________\
-Nancy Starnes,\
+_________________________________  
+Nancy Starnes,  
 Chair.
 
-**NOTES**
+### NOTES
 
 1 Thee Access Board consists of 13 members appointed by the President from the public, a majority of which are individuals with disabilities, and the heads of 12 federal agencies or their designees whose positions are Executive Level IV or above. The federal agencies are: The Departments of Commerce, Defense, Education, Health and Human Services, Housing and Urban Development, Interior, Justice, Labor, Transportation, and Veterans Affairs; General Services Administration; and United States Postal Service.
 
@@ -1095,18 +1061,12 @@ The DOJ 2010 Standards and the Department of Transportation standards for transp
 
 16 The 2002 and 2005 draft guidelines and comments submitted on the 2
 
-
 ---
 
+## Part 1190 - Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
-Part 1190 - Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
------------------------------------------------------------------------------------------
-
--   [![Print](https://www.access-board.gov/templates/accessboard/images/system/printButton.png) ](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/part-1190-accessibility-guidelines-for-pedestrian-facilities-in-the-public-right-of-way?tmpl=component&print=1 "Print article < Part 1190 - Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way >")
--   [![Email](https://www.access-board.gov/templates/accessboard/images/system/emailButton.png)](https://www.access-board.gov/component/mailto/?tmpl=component&template=accessboard&link=a483d275df81503b341a6f4899538fbe49c093df "Email this link to a friend")
-
-Sec.\
-1190.1 Accessibility guidelines.\
+Sec.
+1190.1 Accessibility guidelines.
 Appendix to part 1190 -- Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
 **Authority:** 29 U.S.C. 792 and 42 U.S.C. 12204.
@@ -1116,8 +1076,3 @@ Appendix to part 1190 -- Accessibility Guidelines for Pedestrian Facilities in t
 The accessibility guidelines for pedestrian facilities in the public right-of-way are set forth in the appendix to this part. When the guidelines are adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing the Americans with Disabilities Act, Section 504 of the Rehabilitation Act, and the Architectural Barriers Act, compliance with the accessibility standards is mandatory. A copy of the guidelines with figures is available on the Access Board website[.](http://www.access-board.gov/prowac/nprm.htm.) Except for the International Symbol of Accessibility in Figure R411, which is included in the appendix to this part, the figures are for illustration purposes only and do not establish requirements.
 
 **Appendix to Part 1190 --Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way**
-
-
----
-
-

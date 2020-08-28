@@ -2,7 +2,7 @@
 title: Accessibility Statement
 layout: page
 sidenav: true
-permalink: /about/policy/a11y.html
+permalink: /about/policy/accessibility.html
 ---
 
 # {{ page.title }}

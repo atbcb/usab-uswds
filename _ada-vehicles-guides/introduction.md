@@ -1,6 +1,7 @@
 ---
 title: Introduction
 order-number: 0
+permalink: /ada/vehicles/guides/
 ---
 The information in this document is based on the preamble published with the Vehicle Guidelines, augmented with material developed in response to questions which have been posed to the Architectural and Transportation Barriers Compliance Board (Access Board) since publication of the guidelines. The [Department of Transportation](http://www.fta.dot.gov/civilrights/12325_3884.html) (DOT) has issued standards for vehicles based on the guidelines. The guidance in this document does not constitute a determination of compliance with the DOT standards or with your rights or responsibilities under the ADA and is not binding on DOT.
 
