@@ -1,31 +1,35 @@
-## Formulario de Denuncia en Linea
+---
+title: "Formulario de Denuncia en Linea"
+order-number: 6
+permalink: /es/formulario-denuncia.html
+---
 
 Como nos encargamos de su denuncia:
 
-El Consejo de Acceso aplica estándares de accesibilidad promulgadas bajo la Ley de Barreras Arquitectónicas de 1968 (Architectural Barriers Act, o ABA, por sus siglas en ingles). La ABA requiere que los edificios o instalaciones diseñadas, construidas, modificadas o arrendados con ciertos fondos federales sean accesibles. Aceptamos, de cualquier miembro del público, las denuncias sobre las barreras de accesibilidad en edificios o instalaciones. Investigamos las denuncias para determinar si el edificio o instalación está sujeta a la ABA. Si determinamos el edificio o instalación está sujeta a ABA, después comprobamos más si las barreras identificadas violan una norma aplicable. Dependiendo del resultado de nuestra investigación, trabajamos junto con la agencia responsable de remediar las barreras de accesibilidad identificados o, si no encontramos violaciones bajo la ABA, vamos a ofrecerle sugerencias sobre quién más podría ser capaz de ayudarle.
+El Consejo de Acceso aplica estï¿½ndares de accesibilidad promulgadas bajo la Ley de Barreras Arquitectï¿½nicas de 1968 (Architectural Barriers Act, o ABA, por sus siglas en ingles). La ABA requiere que los edificios o instalaciones diseï¿½adas, construidas, modificadas o arrendados con ciertos fondos federales sean accesibles. Aceptamos, de cualquier miembro del pï¿½blico, las denuncias sobre las barreras de accesibilidad en edificios o instalaciones. Investigamos las denuncias para determinar si el edificio o instalaciï¿½n estï¿½ sujeta a la ABA. Si determinamos el edificio o instalaciï¿½n estï¿½ sujeta a ABA, despuï¿½s comprobamos mï¿½s si las barreras identificadas violan una norma aplicable. Dependiendo del resultado de nuestra investigaciï¿½n, trabajamos junto con la agencia responsable de remediar las barreras de accesibilidad identificados o, si no encontramos violaciones bajo la ABA, vamos a ofrecerle sugerencias sobre quiï¿½n mï¿½s podrï¿½a ser capaz de ayudarle.
 
-Usted puede presentar una denuncia bajo el ABA con el Consejo de Acceso usando este formulario en línea en inglés, mandando correo electrónico a <enforce@access-board.gov>, un fax a 202-272-0081, o una carta por correo postal a:
+Usted puede presentar una denuncia bajo el ABA con el Consejo de Acceso usando este formulario en lï¿½nea en inglï¿½s, mandando correo electrï¿½nico a <enforce@access-board.gov>, un fax a 202-272-0081, o una carta por correo postal a:
 
 > Compliance and Enforcement  
 > U.S. Access Board  
 > 1331 F Street NW, Suite 1000  
 > Washington, DC  20004-1111
 
-Usted puede presentar una denuncia bajo el ABA con el Consejo de Acceso usando este formulario en línea en inglés, mandando correo electrónico a <enforce@access-board.gov>, un fax a 202-272-0081, o una carta por correo postal a:
+Usted puede presentar una denuncia bajo el ABA con el Consejo de Acceso usando este formulario en lï¿½nea en inglï¿½s, mandando correo electrï¿½nico a <enforce@access-board.gov>, un fax a 202-272-0081, o una carta por correo postal a:
 
-Paso 1: Proporcione información sobre el edificio o instalación.
+Paso 1: Proporcione informaciï¿½n sobre el edificio o instalaciï¿½n.
 
-Paso 2: Liste todas las barreras de accesibilidad que le ha surgido en ese edificio o instalación.
+Paso 2: Liste todas las barreras de accesibilidad que le ha surgido en ese edificio o instalaciï¿½n.
 
-Paso 3: Si desea, proporcione su nombre y/o su información de contacto; esta información es opcional, pero si proporciona su información, podremos contactarle sobre el estatus y resultado de nuestra investigación.
+Paso 3: Si desea, proporcione su nombre y/o su informaciï¿½n de contacto; esta informaciï¿½n es opcional, pero si proporciona su informaciï¿½n, podremos contactarle sobre el estatus y resultado de nuestra investigaciï¿½n.
 
-Paso 4: Presente cualquier fotografías u otros documentos de apoyo con su denuncia, si lo desea. Además, en la sección de "Revisar y Someter," usted puede revisar e imprimir toda la información que nos ha facilitado.
+Paso 4: Presente cualquier fotografï¿½as u otros documentos de apoyo con su denuncia, si lo desea. Ademï¿½s, en la secciï¿½n de "Revisar y Someter," usted puede revisar e imprimir toda la informaciï¿½n que nos ha facilitado.
 
-Paso 5: Una vez que haga clic en el botón "enviar," una nueva página aparecerá con su número de denuncia y un resumen. Puede imprimir esa página. Por favor, mantenga seguro este número de denuncia para que pueda referirse a ella, cuando hace su consulta sobre el estado de su denuncia en el futuro, o si usted decide proporcionar información adicional a nosotros en correspondencia futura. Si usted nos ha proporcionado una dirección de correo electrónico, también recibirá un recibo por correo electrónico con el número de denuncia y un resumen, inmediatamente después de su presentación. Dentro de dos semanas después de la presentación de su denuncia, usted recibirá una carta de reconocimiento formal (o correo electrónico, si lo prefiere) si usted ha proporcionado su información de contacto a nosotros. Esta carta (o correo electrónico) contendrán la información sobre su denuncia, así como el proceso de investigación y la ley federal aplicable, e información de contacto para el especialista cumplimiento investigando su denuncia. Mientras que usted puede presentar tantas denuncias como desee, debe presentar una queja separada para cada edificio o instalación. Si desea enviar múltiples denuncias, se le pedirá después de enviar su primera denuncia con instrucciones para la presentación de denuncias adicionales.
+Paso 5: Una vez que haga clic en el botï¿½n "enviar," una nueva pï¿½gina aparecerï¿½ con su nï¿½mero de denuncia y un resumen. Puede imprimir esa pï¿½gina. Por favor, mantenga seguro este nï¿½mero de denuncia para que pueda referirse a ella, cuando hace su consulta sobre el estado de su denuncia en el futuro, o si usted decide proporcionar informaciï¿½n adicional a nosotros en correspondencia futura. Si usted nos ha proporcionado una direcciï¿½n de correo electrï¿½nico, tambiï¿½n recibirï¿½ un recibo por correo electrï¿½nico con el nï¿½mero de denuncia y un resumen, inmediatamente despuï¿½s de su presentaciï¿½n. Dentro de dos semanas despuï¿½s de la presentaciï¿½n de su denuncia, usted recibirï¿½ una carta de reconocimiento formal (o correo electrï¿½nico, si lo prefiere) si usted ha proporcionado su informaciï¿½n de contacto a nosotros. Esta carta (o correo electrï¿½nico) contendrï¿½n la informaciï¿½n sobre su denuncia, asï¿½ como el proceso de investigaciï¿½n y la ley federal aplicable, e informaciï¿½n de contacto para el especialista cumplimiento investigando su denuncia. Mientras que usted puede presentar tantas denuncias como desee, debe presentar una queja separada para cada edificio o instalaciï¿½n. Si desea enviar mï¿½ltiples denuncias, se le pedirï¿½ despuï¿½s de enviar su primera denuncia con instrucciones para la presentaciï¿½n de denuncias adicionales.
 
-Si usted decide de usar este formulario en línea para presentar su denuncia, y si después de presentarla desea proporcionarnos cualquier información adicional, por favor incluye su número de denuncia y mándenos la información por:
+Si usted decide de usar este formulario en lï¿½nea para presentar su denuncia, y si despuï¿½s de presentarla desea proporcionarnos cualquier informaciï¿½n adicional, por favor incluye su nï¿½mero de denuncia y mï¿½ndenos la informaciï¿½n por:
 
-> 1) Correo electrónico a <enforce@access-board.gov>;  
+> 1) Correo electrï¿½nico a <enforce@access-board.gov>;  
 > 2) Fax al 202-272-0081; o  
 > 3) Correo postal a:
 
@@ -34,5 +38,5 @@ Si usted decide de usar este formulario en línea para presentar su denuncia, y s
 >> 1331 F Street NW, Suite 1000  
 >> Washington, DC 20004-1111  
 
-Si usted desea presentar una denuncia sobre un edificio o instalación usando el formulario en línea en inglés, [por favor comience](https://cts.access-board.gov/formsiq/form.do?formset_id=2); o, 
-Si su denuncia es sobre algo más que las barreras de accesibilidad en un edificio o instalación, consulte nuestra [página web](index.php?option=com_content&view=article&id=1779&Itemid=1977).
+Si usted desea presentar una denuncia sobre un edificio o instalaciï¿½n usando el formulario en lï¿½nea en inglï¿½s, [por favor comience](https://cts.access-board.gov/formsiq/form.do?formset_id=2); o, 
+Si su denuncia es sobre algo mï¿½s que las barreras de accesibilidad en un edificio o instalaciï¿½n, consulte nuestra [pï¿½gina web](index.php?option=com_content&view=article&id=1779&Itemid=1977).

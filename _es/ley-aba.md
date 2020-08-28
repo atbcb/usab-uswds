@@ -1,18 +1,22 @@
-## Ley de Barreras Arquitectónicas del 1968 (ABA)
+---
+title: "Ley de Barreras Arquitectï¿½nicas del 1968 (ABA)"
+order-number: 7
+permalink: /es/ley-aba.html
+---
 
-La ABA requiere acceso a instalaciones diseñadas, construidas, alteradas, o alquiladas con fondos federales. Aprobada por el Congreso en 1968, la ley marca uno de los primeros esfuerzos para garantizar el acceso a las zonas edificadas. El Consejo de Acceso desarrolla y mantiene las directrices de accesibilidad bajo esta ley. Estas directrices sirven como base para los estándares utilizados para aplicar la ley. Cuatro agencias federales son responsables de estas normas: el Departamento de Defensa; el Departamento de Vivienda y Desarrollo Urbano; la Administración de Servicios Generales; y el Servicio Postal de los Estados Unidos.
+La ABA requiere acceso a instalaciones diseï¿½adas, construidas, alteradas, o alquiladas con fondos federales. Aprobada por el Congreso en 1968, la ley marca uno de los primeros esfuerzos para garantizar el acceso a las zonas edificadas. El Consejo de Acceso desarrolla y mantiene las directrices de accesibilidad bajo esta ley. Estas directrices sirven como base para los estï¿½ndares utilizados para aplicar la ley. Cuatro agencias federales son responsables de estas normas: el Departamento de Defensa; el Departamento de Vivienda y Desarrollo Urbano; la Administraciï¿½n de Servicios Generales; y el Servicio Postal de los Estados Unidos.
 
-Las agencias federales tienen la responsabilidad de garantizar el cumplimiento de las normas de ABA al financiar el diseño, construcción, alteración, o alquiler de instalaciones. El Consejo fue establecido bajo la Sección 502 de la Ley de Rehabilitación de 1973, con el propósito de aplicar la ABA, que lo hace a través de la investigación de las denuncias. Cualquier persona preocupada por la accesibilidad de las instalaciones que pueden haber recibido fondos federales puede presentar una denuncia ante el Consejo.
+Las agencias federales tienen la responsabilidad de garantizar el cumplimiento de las normas de ABA al financiar el diseï¿½o, construcciï¿½n, alteraciï¿½n, o alquiler de instalaciones. El Consejo fue establecido bajo la Secciï¿½n 502 de la Ley de Rehabilitaciï¿½n de 1973, con el propï¿½sito de aplicar la ABA, que lo hace a travï¿½s de la investigaciï¿½n de las denuncias. Cualquier persona preocupada por la accesibilidad de las instalaciones que pueden haber recibido fondos federales puede presentar una denuncia ante el Consejo.
 
-Presidente Lyndon Johnson, quien promulgó la ABA en agosto de 1968, caracterizó barreras para acceso como fracasos por parte del gobierno que perpetuaban “la discriminacion cruel.”
+Presidente Lyndon Johnson, quien promulgï¿½ la ABA en agosto de 1968, caracterizï¿½ barreras para acceso como fracasos por parte del gobierno que perpetuaban ï¿½la discriminacion cruel.ï¿½
 
 * * * * *
 
-## Texto Oficial de la Ley de Barreras Arquitectónicas de 1968 (en inglés) 
+## Texto Oficial de la Ley de Barreras Arquitectï¿½nicas de 1968 (en inglï¿½s)ï¿½
 
-Pub. L. 94-541 (42 U.S.C. §§4151 et seq.) 
+Pub. L. 94-541 (42 U.S.C. ï¿½ï¿½4151 et seq.)ï¿½
 
-### §4151. "Building" defined
+### ï¿½4151. "Building" defined
 
 As used in this chapter, the term "building" means any building or facility (other than (A) a privately owned residential structure not leased by the Government for subsidized housing programs and (B) any building or facility on a military installation designed and constructed primarily for use by able bodied military personnel) the intended use for which either will require that such building or facility be accessible to the public, or may result in the employment or residence therein of physically handicapped persons, which building or facility is --
 
@@ -24,27 +28,27 @@ As used in this chapter, the term "building" means any building or facility (oth
 
 (4) to be constructed under authority of the National Capital Transportation Act of 1960, the National Capital Transportation Act of 1965, or title III of the Washington Metropolitan Area Transit Regulation Compact.
 
-### §4152. Standards for design, construction, and alteration of buildings; Administrator of General Services**
+### ï¿½4152. Standards for design, construction, and alteration of buildings; Administrator of General Services**
 
 The Administrator of General Services, in consultation with the Secretary of Health and Human Services, shall prescribe standards for the design, construction, and alteration of buildings (other than residential structures subject to this chapter and buildings, structures, and facilities of the Department of Defense and of the United States Postal Service subject to this chapter) to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
 
-### §4153. Standards for design, construction, and alteration of buildings; Secretary of Housing and Urban Development
+### ï¿½4153. Standards for design, construction, and alteration of buildings; Secretary of Housing and Urban Development
 
 The Secretary of Housing and Urban Development, in consultation with the Secretary of Health and Human Services, shall prescribe standards for the design, construction, and alteration of buildings which are residential structures subject to this chapter to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
 
-### §4154. Standards for design, construction, and alteration of buildings; Secretary of Defense
+### ï¿½4154. Standards for design, construction, and alteration of buildings; Secretary of Defense
 
 The Secretary of Defense, in consultation with the Secretary of Health and Human Services, shall prescribe standards for the design, construction, and alteration of buildings, structures, and facilities of the Department of Defense subject to this chapter to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
 
-### §4154a. Standards for design, construction, and alteration of buildings; United States Postal Service
+### ï¿½4154a. Standards for design, construction, and alteration of buildings; United States Postal Service
 
 The United States Postal Service, in consultation with the Secretary of Health and Human Services, shall prescribe such standards for the design, construction, and alteration of its buildings to insure whenever possible that physically handicapped persons will have ready access to, and use of, such buildings.
 
-### §4155. Effective date of standards
+### ï¿½4155. Effective date of standards
 
 Every building designed, constructed, or altered after the effective date of a standard issued under this chapter which is applicable to such building, shall be designed, constructed, or altered in accordance with such standard.
 
-### §4156. Waiver and modification of standards
+### ï¿½4156. Waiver and modification of standards
 
 The Administrator of General Services, with respect to standards issued under section 4152 of this title, and the Secretary of Housing and Urban Development, with respect to standards issued under section 4153 of this title, and the Secretary of Defense with respect to standards issued under section 4154 of this title, and the United States Postal Service with respect to standards issued under section 4154a of this title --
 
@@ -52,7 +56,7 @@ The Administrator of General Services, with respect to standards issued under se
 
 (2) shall establish a system of continuing surveys and investigations to insure compliance with such standards.
 
-### §4157. Reports to Congress and Congressional committees
+### ï¿½4157. Reports to Congress and Congressional committees
 
 (a) The Administrator of General Services shall report to Congress during the first week of January of each year on his activities and those of other departments, agencies, and instrumentalities of the Federal Government under this chapter during the preceding fiscal year including, but not limited to, standards issued, revised, amended, or repealed under this chapter and all case-by-case modifications, and waivers of such standards during such year.
 
