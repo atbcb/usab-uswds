@@ -697,62 +697,15 @@ All state transportation departments and most local transportation departments m
 
 In the absence of the proposed guidelines, the regulatory assessment assumes that state and local transportation departments will use the DOJ 2010 Standards in the Department of Justice regulations implementing Title II of the Americans with Disabilities Act to the extent feasible when designing, constructing, or altering pedestrian facilities in the public right-of-way, consistent with the guidance issued by the Federal Highway Administration, as well as other applicable standards and industry practices. An analysis of the proposed guidelines compared to the DOJ 2010 Standards, other applicable standards, and industry practices is included in the appendix to the regulatory assessment. The analysis identified four requirements in the proposed guidelines that will have more than minimal impacts on state and local transportation departments. The factors used to identify whether the requirements in the proposed guidelines will have more than minimal impacts are discussed in the regulatory assessment and in the preamble under Impacts on State and Local Governments. The four requirements in the proposed guidelines that will have more than minimal impacts on state and local transportation departments are summarized in the table below, along with a description of the governmental units affected by proposed requirements and questions in the preamble to the proposed guidelines that seek additional information on the governmental units affected.
 
-|
+**Table: Requirements in Proposed Guidelines That Will Have More Than Minimal Impacts on State and Local Transportation Departments**
 
-Requirements in Proposed Guidelines That Will Have More Than Minimal Impacts on State and Local Transportation Departments
-
- |
-|
-
-Requirement
-
- |
-
-Governmental Units Affected
-
- |
-|
-
-Detectable warning surfaces required on newly constructed and altered curb ramps and blended transitions at pedestrian street crossings (R208.1 and R305)
-
- |
-
-Will affect state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps
-
-All state transportation departments currently specify detectable warning surfaces on curb ramps in their standard drawings; most local transportation departments maintain standard drawings that are consistent with standard drawings maintained by their state transportation departments
-
-Questions 4, 5, and 6 in preamble seek information on state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps
-
- |
-|
-
-Accessible pedestrian signals and pushbuttons required when pedestrian signals newly installed or replaced at signalized intersections (R209)
-
- |
-
-Will affect state and local transportation departments that do not currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections
-
-Some state and local transportation departments currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections; TEA-21 (23 U.S.C. 217 (g)) directed that audible traffic signals be included in transportation plans and projects where appropriate
-
-Question 9 in preamble seeks information on state and local transportation departments that currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections
-
- |
-| Maximum cross slope of 2 percent required on pedestrian access routes, including within pedestrian street crossings with yield or stop control (R204.3 and R302.6) |
-
-Will affect state and local transportation departments that construct new tabled intersections in hilly urban areas which contain pedestrian street crossings with yield or stop control
-
-Question 14 in preamble seeks information on the current design policies and practices of state and local transportation departments with respect to tabling newly constructed intersections in hilly urban areas, particularly with respect to extending the tabling to pedestrian street crossings with yield or stop control
-
- |
-|
-
-Pedestrian activated signals required at roundabouts with multi-lane pedestrian crossings (R206 and R306.3.2)
-
- |
-
-Will affect state and local transportation departments that construct new roundabouts with multi-lane pedestrian street crossings
-
- |
+ | Requirement | Governmental Units Affected |
+| --- | --- |
+ | Detectable warning surfaces required on newly constructed and altered curb ramps and blended transitions at pedestrian street crossings (R208.1 and R305) | Will affect state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps.<br><br>All state transportation departments currently specify detectable warning surfaces on curb ramps in their standard drawings; most local transportation departments maintain standard drawings that are consistent with standard drawings maintained by their state transportation departments.<br><br>Questions 4, 5, and 6 in preamble seek information on state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps. |
+ | Accessible pedestrian signals and pushbuttons required when pedestrian signals newly installed or replaced at signalized intersections (R209) | Will affect state and local transportation departments that do not currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections.<br><br>Some state and local transportation departments currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections; TEA-21 (23 U.S.C. 217 (g)) directed that audible traffic signals be included in transportation plans and projects where appropriate.<br><br>Question 9 in preamble seeks information on state and local transportation departments that currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections. |
+| Maximum cross slope of 2 percent required on pedestrian access routes, including within pedestrian street crossings with yield or stop control (R204.3 and R302.6) | Will affect state and local transportation departments that construct new tabled intersections in hilly urban areas which contain pedestrian street crossings with yield or stop control.<br><br>Question 14 in preamble seeks information on the current design policies and practices of state and local transportation departments with respect to tabling newly constructed intersections in hilly urban areas, particularly with respect to extending the tabling to pedestrian street crossings with yield or stop control. |
+| Pedestrian activated signals required at roundabouts with multi-lane pedestrian crossings (R206 and R306.3.2) | Will affect state and local transportation departments that construct new roundabouts with multi-lane pedestrian street crossings |
+{: .usa-table}
 
 The Access Board entered into an interagency agreement with the Volpe National Transportation Systems Center (Volpe Center) to gather data and prepare cost estimates for the regulatory assessment. The cost estimates prepared by the Volpe Center are summarized in the table below, along with questions in the preamble to the proposed guidelines that seek additional information to refine the cost estimates.
 
