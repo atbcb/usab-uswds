@@ -1,54 +1,58 @@
-## Presente una Denuncia sobre la ABA
+---
+title: "Presente una Denuncia sobre la ABA"
+order-number: 5
+permalink: /es/presente.html
+---
 
 ### Como Presentar una Denuncia
 
 Las denuncias se pueden presentar en una de cuatro maneras:
 
-1.  llenando un [formulario en lÌnea](http://cts.access-board.gov/formsiq/form.do?formset_id=2&amp;ds=fdd&amp;reload=true) (en inglÈs);
-2.  mandando un correo electrÛnico a <enforce@access-board.gov>;
-3.  mandando un fax al (202) 272-0081; o
-4.  mandando una carta por correo postal a:
+1. llenando un [formulario en l√≠nea](http://cts.access-board.gov/formsiq/form.do?formset_id=2&amp;ds=fdd&amp;reload=true) (en ingl√©s);
+2. mandando un correo electr√≥nico a <enforce@access-board.gov>;
+3. mandando un fax al (202) 272-0081; o
+4. mandando una carta por correo postal a:
 
 > Compliance and Enforcement  
 > U.S. Access Board  
 > 1331 F Street NW, Suite 1000
 > Washington, DC  20004-1111
 
-Para empezar una investigaciÛn, todo lo que el Consejo necesita es el nombre y la direcciÛn del establecimiento y una breve descripciÛn de las barreras para la accesibilidad.\
-La informaciÛn adicional acerca del edificio, tal como fecha de construcciÛn o fuentes conocidas de financiamiento federal, es ˙til pero no necesaria.
+Para empezar una investigaci√≥n, todo lo que el Consejo necesita es el nombre y la direcci√≥n del establecimiento y una breve descripci√≥n de las barreras para la accesibilidad.\
+La informaci√≥n adicional acerca del edificio, tal como fecha de construcci√≥n o fuentes conocidas de financiamiento federal, es √∫til pero no necesaria.
 
-La informaciÛn personal, incluso su nombre, es opcional y nos permite que le mantenga informado sobre el estado y los resultados de nuestra investigaciÛn. Si proporciona informaciÛn personal, no lo revelaremos sin su permiso escrito. Si lo desea, sin embargo, puede presentar su queja anÛnimamente.
+La informaci√≥n personal, incluso su nombre, es opcional y nos permite que le mantenga informado sobre el estado y los resultados de nuestra investigaci√≥n. Si proporciona informaci√≥n personal, no lo revelaremos sin su permiso escrito. Si lo desea, sin embargo, puede presentar su queja an√≥nimamente.
 
 * * * * *
 
 ## Como las Denuncias se Investigan
 
-El primer paso de una investigaciÛn es determinar si el establecimiento est· contemplado en la ley. Cuando un edificio est· cubierto por la ABA, el prÛximo paso es verificar si el establecimiento cumple con las normas de accesibilidad aplicables. En el caso de no ser asÌ, el Consejo cooperar· con las agencias responsables para formular un plan de actualizaciÛn del establecimiento. Los casos se cierran sÛlo despuÈs de ser completada la acciÛn correctiva necesaria. Si encontramos que la instalaciÛn no est· sujeta a la ABA y nuestra jurisdicciÛn o si vemos que se cumple con los est·ndares de acceso, nosotros le avisaremos de nuestras conclusiones. A continuaciÛn, tendr· la oportunidad de responder con cualquier informaciÛn que usted tiene que no est· de acuerdo con nuestra antes de que cerremos el caso.
+El primer paso de una investigaci√≥n es determinar si el establecimiento est√° contemplado en la ley. Cuando un edificio est√° cubierto por la ABA, el pr√≥ximo paso es verificar si el establecimiento cumple con las normas de accesibilidad aplicables. En el caso de no ser as√≠, el Consejo cooperar√° con las agencias responsables para formular un plan de actualizaci√≥n del establecimiento. Los casos se cierran s√≥lo despu√©s de ser completada la acci√≥n correctiva necesaria. Si encontramos que la instalaci√≥n no est√° sujeta a la ABA y nuestra jurisdicci√≥n o si vemos que se cumple con los est√°ndares de acceso, nosotros le avisaremos de nuestras conclusiones. A continuaci√≥n, tendr√° la oportunidad de responder con cualquier informaci√≥n que usted tiene que no est√° de acuerdo con nuestra antes de que cerremos el caso.
 
-### RemisiÛn a otra agencia
+### Remisi√≥n a otra agencia
 
-Hay veces cuando la ABA no se aplica a una instalaciÛn, pero cuando otra ley de accesibilidad puede. En estas situaciones, no abriremos un caso, pero le proporcionaremos informaciÛn sobre cual agencia puede contactar acerca de su denuncia.
+Hay veces cuando la ABA no se aplica a una instalaci√≥n, pero cuando otra ley de accesibilidad puede. En estas situaciones, no abriremos un caso, pero le proporcionaremos informaci√≥n sobre cual agencia puede contactar acerca de su denuncia.
 
-### InvestigaciÛn/An·lisis
+### Investigaci√≥n/An√°lisis
 
-Si el ABA realmente cubre la instalaciÛn, comenzamos una investigaciÛn exhaustivo sobre cuando y como fueron utilizados los fondos federales. Esto puede implicar nuestra solicitud y revisiÛn de planos arquitectÛnicos, planos de diseÒo, y otros documentos. Con fondos de viaje limitados y un personal muy pequeÒo localizado solo en Washington, D.C., nos basamos principalmente en la correspondencia escrita para recabar la informaciÛn necesaria. Por lo tanto, nuestras investigaciones pueden tomar desde pocas semanas hasta varios meses para completar.
+Si el ABA realmente cubre la instalaci√≥n, comenzamos una investigaci√≥n exhaustivo sobre cuando y como fueron utilizados los fondos federales. Esto puede implicar nuestra solicitud y revisi√≥n de planos arquitect√≥nicos, planos de dise√±o, y otros documentos. Con fondos de viaje limitados y un personal muy peque√±o localizado solo en Washington, D.C., nos basamos principalmente en la correspondencia escrita para recabar la informaci√≥n necesaria. Por lo tanto, nuestras investigaciones pueden tomar desde pocas semanas hasta varios meses para completar.
 
-### Actualizaciones periÛdicas
+### Actualizaciones peri√≥dicas
 
-Le enviaremos actualizaciones periÛdicas sobre las acciones tomadas en respuesta a su denuncia. Pero usted puede llamar al especialista de conformidad que maneja su denuncia en cualquier momento que desee informaciÛn o tiene alguna pregunta.
+Le enviaremos actualizaciones peri√≥dicas sobre las acciones tomadas en respuesta a su denuncia. Pero usted puede llamar al especialista de conformidad que maneja su denuncia en cualquier momento que desee informaci√≥n o tiene alguna pregunta.
 
 ### Acciones correctivas
 
-Si nos enteramos de que los est·ndares de accesibilidad federales no se cumplieron, notificamos la agencia responsable y solicitamos un plan y un calendario de trabajo para eliminar las barreras. Una vez que recibamos y aceptemos este plan de acciÛn correctivo, le notificaremos.
+Si nos enteramos de que los est√°ndares de accesibilidad federales no se cumplieron, notificamos la agencia responsable y solicitamos un plan y un calendario de trabajo para eliminar las barreras. Una vez que recibamos y aceptemos este plan de acci√≥n correctivo, le notificaremos.
 
 ### Supervisando estas acciones correctivas
 
-Supervisamos estas acciones correctivas hasta que se confirme su finalizaciÛn. A continuaciÛn, se le notificar· y le dar· la oportunidad de examinar las razones por que planeamos cerrar el caso.
+Supervisamos estas acciones correctivas hasta que se confirme su finalizaci√≥n. A continuaci√≥n, se le notificar√° y le dar√° la oportunidad de examinar las razones por que planeamos cerrar el caso.
 
-### AcciÛn voluntaria
+### Acci√≥n voluntaria
 
-Hay veces cuando no tenemos jurisdicciÛn sobre una instalaciÛn, pero la agencia responsable consiente en tomar la acciÛn correctiva. En estos casos, tambiÈn trabajamos con la agencia para desarrollar un plan de acciÛn correctiva para eliminar las barreras.
+Hay veces cuando no tenemos jurisdicci√≥n sobre una instalaci√≥n, pero la agencia responsable consiente en tomar la acci√≥n correctiva. En estos casos, tambi√©n trabajamos con la agencia para desarrollar un plan de acci√≥n correctiva para eliminar las barreras.
 
 ### Procedimientos legales
 
-A veces una denuncia no puede resolverse. En estos casos muy raros, podemos comenzar procedimientos legales para conseguir la acciÛn correctiva necesaria.
+A veces una denuncia no puede resolverse. En estos casos muy raros, podemos comenzar procedimientos legales para conseguir la acci√≥n correctiva necesaria.
