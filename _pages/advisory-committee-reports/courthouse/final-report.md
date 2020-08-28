@@ -1,13 +1,11 @@
 ---
-title: Courthouse Access
-layout: page
+title:  Final Report
+layout: report
 output: true
+collection-title: Courthouse Access Advisory Committee
 file: caac-report.pdf
 file-description: PDF of Courthouse Access Advisory Committee Report
 ---
-
-
- {{page.title}}
 
 ### **Justice for All: Designing Accessible Courthouses**
 
