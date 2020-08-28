@@ -42,7 +42,7 @@ specify the elements and spaces provided that must be accessible.
 
 ### Application
 
-[[§201](../ada-standards/chapter-2-scoping-requirements.html#201%20Application)]
+[[§201]({{ site.baseurl }}/ada/#ada-201)]
 
 The ADA Standards apply to the various types of facilities subject to
 the ADA, from simple structures to complex, multi-building sites such as
@@ -128,7 +128,7 @@ purposes]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc5.jpg){: .i
 
 ### General Exceptions
 
-[[§203](../ada-standards/chapter-2-scoping-requirements.html#203%20General%20Exceptions)]
+[[§203]({{ site.baseurl }}/ada/#ada-203)]
 
 These structures and spaces are fully exempt from the standards and are
 not required to be accessible or on an accessible route:
@@ -221,7 +221,7 @@ text2= ""
 
 ### Employee Work Areas
 
-[[§203.9](../ada-standards/chapter-2-scoping-requirements.html#203%20General%20Exceptions)]
+[[§203.9]({{ site.baseurl }}/ada/#ada-203_9)]
 
 {% include imgright-italictextbelow.html
 img-file= "chapter2-ada/nc14.jpg"
@@ -283,7 +283,7 @@ comply.]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc16a.jpg){: .
 
 ### Common Use Circulation Paths in Employee Work Areas
 
-[[§206.2.8](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes)]
+[[§206.2.8]({{ site.baseurl }}/ada/#ada-206_2_8)]
 
 Common use circulation paths must be accessible in work areas 1,000
 square feet or more in size (as defined by permanently installed
@@ -331,7 +331,7 @@ text= "Portions of common use circulation paths serving exempt spaces within a w
 
 ### Wiring for Visible Alarms
 
-[[§215.3](../ada-standards/chapter-2-scoping-requirements.html#215%20Fire%20Alarm%20Systems)]
+[[§215.3]({{ site.baseurl }}/ada/#ada-215_3)]
 
 ![fire alarm]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc19.jpg){: .float-right .thumbnail}
 

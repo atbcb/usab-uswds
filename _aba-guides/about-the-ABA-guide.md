@@ -12,7 +12,7 @@ Standards issued under the Architectural Barriers Act (ABA) apply to facilities 
 -   General Services Administration (GSA)
 -   U.S. Postal Service (USPS).
 
-This guide explains requirements in the current editions of the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) issued by DOD, GSA, and USPS, which are substantively the same as each is closely based on the Board’s updated ABA guidelines (2004). (HUD has yet to update its ABA Standards and continues to apply the Uniform Federal Accessibility Standards to facilities under its jurisdiction.)
+This guide explains requirements in the current editions of the [ABA Standards]({{ site.baseurl }}/aba/) issued by DOD, GSA, and USPS, which are substantively the same as each is closely based on the Board’s updated ABA guidelines (2004). (HUD has yet to update its ABA Standards and continues to apply the Uniform Federal Accessibility Standards to facilities under its jurisdiction.)
 
 It is important to use this guide along with a complete copy of the ABA Standards as it explains, but does not contain or reprint, the text of the ABA Standards. In addition to explaining the requirements of the ABA Standards, this guide also provides clearly labeled recommendations for best practices that exceed the minimum requirements and are thus optional to follow.
 

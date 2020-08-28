@@ -14,7 +14,7 @@ text= "This guide explains requirements in the <a href=\"https://www.access-boar
 
 ### Required Compliance with the IBC
 
-[[§207](.../guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#207%20Accessible%20Means%20of%20Egress)]
+[[§207]({{ site.baseurl }}/ada/#ada-207)]
 
 {% include imgright-italictextbelow.html
 img-file= "chapter4/4amoe2.jpg"
