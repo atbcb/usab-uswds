@@ -756,6 +756,7 @@ The number of small governmental jurisdictions with a population less than 50,00
 | Municipal | 18,824 |
 | Town or Township | 16,371 |
 | **Total** | **37,375** |
+{: .usa-table}
 
 Source: US Census Bureau 2002 Census of Governments available at:\
 <http://www.census.gov/prod/2003pubs/gc021x1.pdf>.
