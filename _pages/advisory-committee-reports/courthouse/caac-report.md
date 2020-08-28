@@ -4,16 +4,17 @@ layout: report
 output: true
 collection-title: Courthouse Access Advisory Committee
 file: caac-report.pdf
-file-description: PDF of Courthouse Access Advisory Committee Report
+file-directory: /files/advisory-committee-reports/
 ---
 
-### **Justice for All: Designing Accessible Courthouses**
+## Justice for All: Designing Accessible Courthouses
 
 *Recommendations from the Courthouse Access Advisory Committee*
 
 This report contains recommendations of the Courthouse Access Advisory Committee for the U.S. Access Board's use in developing and disseminating guidance on accessible courthouse design under the Americans with Disabilities Act and the Architectural Barriers Act. This is not a regulation./p>
 
-### Contents![symbol of lady justice]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002.jpg)
+### Contents
+![symbol of lady justice]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002.jpg)
 
 -   [Acknowledgements](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#ack)
 -   [Members of the Courthouse Access Advisory Committee](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#members)

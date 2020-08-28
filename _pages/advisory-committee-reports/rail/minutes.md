@@ -1233,11 +1233,8 @@ Washington, DC
 ---
 
 
-[Print](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/meeting-minutes-june-2015#)
-
-Committee Meeting Minutes: June 4-5, 2015
------------------------------------------
-
+## June 4-5, 2015
+Committee Meeting Minutes: 
 ### Summary Minutes -- 7th Meeting (approved July 27, 2015)
 
 **U.S. Access Board\
