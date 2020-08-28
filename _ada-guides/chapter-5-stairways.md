@@ -9,7 +9,7 @@ Standards](../ada-standards.html) for stairways. 
 
 ### Required Compliance
 
-[[§210](../ada-standards/chapter-2-scoping-requirements.html#210%20Stairways)]
+[[§210]({{ site.baseurl }}/ada/#ada-210)]
 
 Interior and exterior stairs that are part of a required means of egress
 must meet the Standards. Compliance is required for all stairs on
@@ -38,7 +38,7 @@ means of egress are altered (§210.1, Ex. 2).
 
 ### Stairways
 
-[[§504](../ada-standards/chapter-5-general-site-and-building-elements.html#504%20Stairways)]
+[[§504]({{ site.baseurl }}/ada/#ada-504)]
 
 Requirements for stairways address treads and risers, surfaces, nosings,
 and handrails.
@@ -68,7 +68,7 @@ text= "Providing visual contrast (light-on-dark or dark-on-light) on the top and
 
 ### Handrails
 
-[[§504.6](../ada-standards/chapter-5-general-site-and-building-elements.html#504%20Stairways), [§505](../ada-standards/chapter-5-general-site-and-building-elements.html#505%20Handrails)]
+[[§504.6]({{ site.baseurl }}/ada/#ada-504_6)]
 
 Handrails are required on both sides of stairs and must be continuous
 within the full length of each stair flight. Inside handrails on
@@ -95,7 +95,7 @@ text= "In facilities that primarily serve children, a second set of stairway han
 
 ### Handrail Extensions
 
-[[§505.10](../ada-standards/chapter-5-general-site-and-building-elements.html#505%20Handrails)]
+[[§505.10]({{ site.baseurl }}/ada/#ada-505_10)]
 
 Handrail extensions at the top and bottom must return to walls, guards,
 or floors and horizontal portions must comply as protruding objects. The
@@ -129,7 +129,7 @@ protruding objects if they have leading edges higher than
 
 ### Handrail Clearance and Cross Section
 
-[[§505.5](../ada-standards/chapter-5-general-site-and-building-elements.html#505%20Handrails), [§505.7](../ada-standards/chapter-5-general-site-and-building-elements.html#505%20Handrails)]
+[[§505.5]({{ site.baseurl }}/ada/#ada-505_5)]
 
 Surface requirements and clearances facilitate a power grip along the
 length of handrails. Handrails can have circular or non-circular

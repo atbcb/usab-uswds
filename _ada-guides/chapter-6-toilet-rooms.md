@@ -10,7 +10,7 @@ toilet rooms. 
 
 ### Required Compliance
 
-[[§213](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§213]({{ site.baseurl }}/ada/#ada-213)]
 
 Plumbing and building codes address the number and type of toilet rooms
 and toilet fixtures required for a facility. The ADA Standards, on the
@@ -36,7 +36,7 @@ accessible (§213.2, Ex. 3, §216.8).
 
 #### Unisex (Single-Use or Family) Toilet Rooms
 
-[[§213.2](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§213.2]({{ site.baseurl }}/ada/#ada-213_2)]
 
 ![Unisex restroom symbol]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/3.png){: .float-right .thumbnail}
 
@@ -88,7 +88,7 @@ The Standards specify the location of toilet rooms in two instances:
 
 #### Additions
 
-[[§202.2](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§202.2]({{ site.baseurl }}/ada/#ada-202_2)]
 
 Additions are required to comply with requirements in the Standards for
 new construction. Each toilet room of an addition must comply as would
@@ -96,7 +96,7 @@ be required in new construction.
 
 #### Alterations
 
-[[§202.3](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§202.3]({{ site.baseurl }}/ada/#ada-202_3)]
 
 When existing toilet rooms are altered, the Standards apply according to
 the planned scope of work. If one toilet room on a floor is altered, the
@@ -138,7 +138,7 @@ compliance is still required to the maximum extent feasible.
 
 #### Alterations and Additions to Primary Function Areas
 
-[[§202.4](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§202.4]({{ site.baseurl }}/ada/#ada-202_4)]
 
 When an area containing a primary function (a major activity intended
 for a facility) is altered or added to a facility, an \"accessible path
@@ -155,7 +155,7 @@ travel. See the [Alterations and Additions Guide](/guidelines-and-standards/buil
 
 #### Alterations to Qualified Historic Facilities
 
-[[§202.5](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities), [§213](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§202.5]({{ site.baseurl }}/ada/#ada-202_5)]
 
 ![historic site]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/6.png){: .float-right .thumbnail}
 
@@ -227,7 +227,7 @@ text= "Locate flush valves and related plumbing to the side of the water closet 
 
 #### Grab Bars
 
-[[§604.5](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments), [§609](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#609%20Grab%20Bars)]
+[[§604.5]({{ site.baseurl }}/ada/#ada-604_5)]
 
 Grab bars are required to be mounted on the walls beside and behind the
 water closet. They can be separate or continuous. When returned to
@@ -318,7 +318,7 @@ img-alt= "water closet with vertical grab bar above the horizontal side grab bar
 
 #### Toilet Paper Dispensers
 
-[[§604.7](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§604.7]({{ site.baseurl }}/ada/#ada-604_7)]
 
 <div class="clearfix" markdown="1">
 ![toilet paper
@@ -409,7 +409,7 @@ toilet rooms will enhance usability.
 
 #### Doors
 
-[[§404](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404]({{ site.baseurl }}/ada/#ada-404)]
 
 Maneuvering clearance is required at doors based on the approach and
 swing. No elements can overlap door maneuvering clearances.
@@ -448,7 +448,7 @@ using wheeled mobility aids.
 
 #### Turning Space
 
-[[§304](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-3-building-blocks#304%20Turning%20Space), [§603.2.1](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#603%20Toilet%20and%20Bathing%20Rooms)]
+[[§304]({{ site.baseurl }}/ada/#ada-304)]
 
 Turning space is required in the room and can be provided as a 60\"
 diameter circle or T-shaped space. Doors can swing into the turning
@@ -571,7 +571,7 @@ text= "Toilet rooms sized to provide more space than the minimum required by the
 
 ### Dispensers and Receptacles [§205, §309], Coat Hooks and Shelves [§213.3.7, §603.4]
 
-[[§205](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#205%20Operable%20Parts), [§309](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-3-building-blocks#309%20Operable%20Parts)\], [[§213.3.7](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§603.4](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#603%20Toilet%20and%20Bathing%20Rooms)]
+[[§205]({{ site.baseurl }}/ada/#ada-205)]
 
 Dispensers, receptacles, and other operable parts, as well as shelves
 and coat hooks, must comply where provided.
@@ -592,7 +592,7 @@ of each type must be located 40" min. to 48" max.AFF.]({{ site.baseurl }}{{ page
 
 #### Baby Changing Tables
 
-[[§226](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#226%20Dining%20Surfaces%20and%20Work%20Surfaces), [§902](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-9-built-in-elements#902%20Dining%20Surfaces%20and%20Work%20Surfaces)]
+[[§226]({{ site.baseurl }}/ada/#ada-226)]
 
 ![baby changing icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/43.png){: .float-right .thumbnail}
 
@@ -703,7 +703,7 @@ text= "Keep the lavatory outside the water closet clearance so that space is ava
 
 ### Water Closets and Toilet Compartments for Children's Use
 
-[[§604.1](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments), [§604.8](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments), [§604.9](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§604.1]({{ site.baseurl }}/ada/#ada-604_1)]
 
 Specifications based on children\'s dimensions can be followed when
 water closets and toilet compartments are designed primarily for use by
@@ -845,7 +845,7 @@ they can swing into turning space.]({{ site.baseurl }}{{ page.image-directory }}
 
 ### Wheelchair Accessible Toilet Compartments
 
-[[§213.3.1](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§604.8](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§213.3.1]({{ site.baseurl }}/ada/#ada-213_3_1)]
 
 At least one toilet compartment must be wheelchair accessible where
 toilet compartments are provided.
@@ -873,7 +873,7 @@ opening._
 
 #### Compartment Doors
 
-[[§404](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates), [§604.8.1.2](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§404]({{ site.baseurl }}/ada/#ada-404)]
 
 Compartment doors must meet applicable requirements for doors, including
 the clear width (32\" min.), hardware, and opening force (5 lbs. max.).
@@ -958,7 +958,7 @@ or 65" min. (floor-mounted water closet).]({{ site.baseurl }}{{ page.image-direc
 
 #### Toilet Compartments Designed for Children's Use
 
-[[§604.8.1](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§604.8.1]({{ site.baseurl }}/ada/#ada-604_8_1)]
 
 <div class="clearfix" markdown="1">
 ![Wheelchair accessible toilet compartment for children that is 60" wide
@@ -990,7 +990,7 @@ compartment area.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-r
 
 #### Toilet Compartment with a Lavatory
 
-[[§603](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#603%20Toilet%20and%20Bathing%20Rooms), [§604.8](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§603]({{ site.baseurl }}/ada/#ada-603)]
 
 No other fixture besides the toilet can be located in the minimum space
 required for the compartment. If a lavatory or another plumbing fixture
@@ -1008,7 +1008,7 @@ compartment (§213.3.4).]({{ site.baseurl }}{{ page.image-directory }}chapter6/t
 
 ### Ambulatory Accessible Toilet Compartment
 
-[[§213.3.1](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§604.8](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§213.3.1]({{ site.baseurl }}/ada/#ada-213_3_1)]
 
 Ambulatory accessible toilet compartments provide parallel grab bars and
 benefit people who use crutches, canes, walkers and similar devices or
@@ -1035,7 +1035,7 @@ toilet paper dispensers, coat hooks, and shelves also apply.]({{ site.baseurl }}
 
 ### Urinals
 
-[[§213.3.3](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§605](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-6-plumbing-elements-and-facilities#605%20Urinals)]
+[[§213.3.3]({{ site.baseurl }}/ada/#ada-213_3_3)]
 
 At least one urinal must comply where two or more urinals are provided
 in a toilet room. Specifications address rim height, depth, flush
@@ -1073,7 +1073,7 @@ max.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/73.png){
 
 <div class="border margin-left-8 margin-right-8 padding-1" markdown="1" style="background-color: #e2e1ef;">
 #### Toilet Room Signs
-[[§216](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#216%20Signs) and [§703](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-7-communication-elements-and-features#703%20Signs)]
+[[§216]({{ site.baseurl }}/ada/#ada-216)]
 
 ![men's room sign]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/74.png){: .float-right .thumbnail}
 ![women's room sign]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/74b.png){: .float-right .thumbnail}

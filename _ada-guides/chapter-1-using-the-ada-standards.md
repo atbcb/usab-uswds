@@ -26,7 +26,7 @@ and alterations. All types of public facilities are covered, including
 schools, hospitals, public housing, courthouses, and prisons. Federal
 facilities are not covered by the ADA, but by an earlier law, the
 Architectural Barriers Act (ABA) and must meet separate, though very
-similar, [standards](../../about-the-aba-standards.html).
+similar, [standards]({{ site.baseurl }}/aba/).
 
 #### Places of Public Accommodation and Commercial Facilities
 
@@ -52,7 +52,7 @@ facilities whose operations affect commerce.
 Bus stops and stations, rail stations, and other transportation
 facilities are required to be accessible by the ADA. The ADA also
 establishes [standards for transportation
-vehicles](../../../transportation/vehicles/about-adaag-for-transportation-vehicles.html),
+vehicles]({{ site.baseurl }}/ada/vehicles/),
 including buses, vans, and rail cars (which are not discussed in this
 guide).
 
@@ -294,7 +294,7 @@ example, unlike the ADA guidelines, the ANSI standards require an
 additional vertical grab bar at water closets, transfer shower stalls,
 and tubs. Detailed comparisons between the 2004 ADA guidelines and the
 IBC/ANSI standard are available on the Access Board's
-[website](../background.html) and the International Code Council's
+[website]({{ site.baseurl }}/ada/ada-ibc-comparison/) and the International Code Council's
 website at
 [www.iccsafe.org](http://www.iccsafe.org/safety/Pages/accessibility-1.aspx).
 
@@ -308,7 +308,7 @@ accessible means of egress.
 
 #### Purpose
 
-[[§101](../ada-standards/chapter-1-application-and-administration.html#101%20Purpose)]
+[[§101]({{ site.baseurl }}/ada/#ada-101)]
 
 The ADA Standards apply to new construction, alterations, and additions.
 While the scoping and technical requirements for new construction also
@@ -354,7 +354,7 @@ repairs.
 
 #### Dimensions for Adults and Children
 
-[[§102](../ada-standards/chapter-1-application-and-administration.html#102%20Dimensions%20for%20Adults%20and%20Children)]
+[[§102]({{ site.baseurl }}/ada/#ada-102)]
 
 ![girl using
 wheelchair]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1girl.jpg){: .float-right .thumbnail}
@@ -391,7 +391,7 @@ for use by adults and another for use by children.
 
 #### Equivalent Facilitation
 
-[[§103](../ada-standards/chapter-1-application-and-administration.html#103%20Equivalent%20Facilitation)]
+[[§103]({{ site.baseurl }}/ada/#ada-103)]
 
 The ADA Standards allow alternatives to specified requirements that
 provide substantially equivalent or greater accessibility and usability
@@ -440,7 +440,7 @@ good practice to:
 
 #### Conventions
 
-[[§104](../ada-standards/chapter-1-application-and-administration.html#104%20Conventions)]
+[[§104]({{ site.baseurl }}/ada/#ada-104)]
 
 Most dimensions in the ADA Standards are specified as a minimum,
 maximum, or as a range. In a few areas, absolute dimensions are
@@ -489,7 +489,7 @@ stated otherwise.
 
 #### Referenced Standards
 
-[[§105](../ada-standards/chapter-1-application-and-administration.html#105%20Referenced%20Standards)]
+[[§105]({{ site.baseurl }}/ada/#ada-105)]
 
 The ADA Standards reference industry standards for certain elements,
 including automated doors (ANSI/BHMA standards), means of egress (IBC),
@@ -506,7 +506,7 @@ by the ADA Standards.
 
 ####  Definitions
 
-[[§106](../ada-standards/chapter-1-application-and-administration.html#106%20Definitions)]
+[[§106]({{ site.baseurl }}/ada/#ada-106)]
 
 Many important terms used in the ADA Standards are defined in section 106. DOJ's and DOT's regulations also include definitions that are
 relevant to use of the ADA Standards. For example, DOJ's regulations define entities covered by the ADA, such as "places of public

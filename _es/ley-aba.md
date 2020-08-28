@@ -15,6 +15,8 @@ La ABA requiere acceso a instalaciones diseñadas, construidas, alteradas, o alq
 
 Las agencias federales tienen la responsabilidad de garantizar el cumplimiento de las normas de ABA al financiar el diseño, construcción, alteración, o alquiler de instalaciones. El Consejo fue establecido bajo la Sección 502 de la Ley de Rehabilitación de 1973, con el propósito de aplicar la ABA, que lo hace a través de la investigación de las denuncias. Cualquier persona preocupada por la accesibilidad de las instalaciones que pueden haber recibido fondos federales puede presentar una denuncia ante el Consejo.
 
+Presidente Lyndon Johnson, quien promulgó la ABA en agosto de 1968, caracterizó barreras para acceso como fracasos por parte del gobierno que perpetuaban “la discriminacion cruel.”
+
 * * * * *
 
 ## Texto Oficial de la Ley de Barreras Arquitectónicas de 1968 (en inglés) 
