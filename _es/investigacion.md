@@ -1,7 +1,7 @@
 ---
 title: "Investigación"
 order-number: 9
-permalink: /es/investigación.html
+permalink: /es/investigacion.html
 ---
 
 ![Un diagrama de rangos de alcance (basado en un boceto de Leonardo da Vinci)]({{ site.baseurl }}/images/vitruvian_man.jpg){: .float-right .img-med }
