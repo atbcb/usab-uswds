@@ -29,6 +29,7 @@
 
       if (nonGovDomain) {
         a.className = a.className + " " + "usa-link--external";
+        a.setAttribute("title", "external link")
       }
     }
   }
