@@ -350,51 +350,13 @@ State and local transportation departments are divided into four groups for the 
 
 Detectable warning surfaces are available in a variety of materials. The Volpe Center gathered data from local transportation departments and vendors on various detectable warning materials and estimated the costs of 8 square feet of the materials for a typical curb ramp as shown in the table below. The estimates do not include installation costs.
 
-|
-
-Detectable Warning Surfaces
-
- |
-
-Materials Costs for Typical Curb Ramp
-
- |
-|
-
-Concrete pavers
-
- |
-
-$48 to $80
-
- |
-|
-
-Brick pavers
-
- |
-
-$128
-
- |
-|
-
-Polymer and composite materials
-
- |
-
-$120 to $200
-
- |
-|
-
-Stainless steel or cast iron products
-
- |
-
-$240
-
- |
+| Detectable Warning Surfaces | Materials Costs for Typical Curb Ramp |
+| --- | --- |
+| Concrete pavers | $48 to $80 |
+| Brick pavers | $128 |
+| Polymer and composite materials | $120 to $200 |
+ | Stainless steel or cast iron products | $240 |
+ {: .usa-table}
 
 *Question 8.* The Access Board seeks additional information on the costs for detectable warning materials (8 square feet) and installation of the materials on a typical curb ramp.
 
