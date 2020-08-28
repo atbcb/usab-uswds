@@ -103,7 +103,7 @@ primary_navigation:
 
 secondary_navigation:
   - name: En Español
-    url: ..
+    url: /es/
 
 # Search.gov configuration
 # 1. Create an account with Search.gov https://search.usa.gov/signup
@@ -164,6 +164,9 @@ collections:
   pvag:
     output: true
     permalink: /pvag/:path/
+  es:
+    output: true
+    permalink: /es/:path/
   authors:
     output: true
     permalink: /authors/:name/
@@ -299,10 +302,17 @@ defaults:
       image-directory: /images/pvag/
       right-sidenav: sidenav-pvag.html
   - scope:
+      path: ""
+      type: "es"
+    values:
+      collection-title: "En Español"
+      collection-subtitle: "test"
+      collection-folder: es
+      layout: standards
+  - scope:
       path: "_authors"
     values:
       layout: author
-
 
 markdown: kramdown
 plugins:
