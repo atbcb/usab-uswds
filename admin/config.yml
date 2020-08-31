@@ -23,7 +23,7 @@ backend:
 ##
 
 media_folder: images/uploads
-public_folder: uploads
+public_folder: images
 publish_mode: editorial_workflow
 logo_url: /images/usab-seal.png
 
