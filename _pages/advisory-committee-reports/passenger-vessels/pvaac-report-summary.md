@@ -33,20 +33,24 @@ One of the more confusing issues in describing vessels involves the term "Gross 
 
 The definition of "passenger" for all passenger-carrying vessels is found in 46 United States Code § 2102 (21)(A). It reads: "Passenger means an individual carried on the vessel except (i) the owner or an individual representative of the owner or, in the case of a vessel under charter, an individual charterer or individual representative of the charterer; (ii) the master; or (iii) a member of the crew engaged in the business of the vessel who has not contributed consideration for carriage and who is paid for on board services." Once passengers are identified, the next step is to determine if the vessel is in commercial service by carrying "passengers for hire". Passengers for hire are defined as those passengers who have "contributed consideration as condition of carriage on the vessel, whether directly or indirectly flowing to the owner, charterer, operator, agent, or any other person having an interest in the vessel."
 
-*Uninspected Passenger Vessel (less than 100 GT)![rept-summ-fig1]({{ site.baseurl }}/images/advisory-committee-reports/passenger-vessels/rept-summ-fig1.gif)\
-*Uninspected Passenger Vessels (UPVs) less than 100 GT are regulated in 46 CFR Subchapter C and are allowed to carry 6 or fewer passengers, at least one of whom is for hire. The U.S. Coast Guard does not formally inspect these vessels, although they may be boarded for safety examinations. Charter sailing vessels, charter fishing vessels and small water taxis are typical representatives of these vessels.
+#### Uninspected Passenger Vessel (less than 100 GT)
+![rept-summ-fig1]({{ site.baseurl }}/images/advisory-committee-reports/passenger-vessels/rept-summ-fig1.gif){: .img-right}
+Uninspected Passenger Vessels (UPVs) less than 100 GT are regulated in 46 CFR Subchapter C and are allowed to carry 6 or fewer passengers, at least one of whom is for hire. The U.S. Coast Guard does not formally inspect these vessels, although they may be boarded for safety examinations. Charter sailing vessels, charter fishing vessels and small water taxis are typical representatives of these vessels.
 
-*Uninspected Passenger Vessel (more than 100 GT)![rept-summ-fig2]({{ site.baseurl }}/images/advisory-committee-reports/passenger-vessels/rept-summ-fig2.gif)*\
+#### Uninspected Passenger Vessel (more than 100 GT)
+![rept-summ-fig2]({{ site.baseurl }}/images/advisory-committee-reports/passenger-vessels/rept-summ-fig2.gif){: .img-right}
 Uninspected Passenger Vessels (UPVs) more than 100 GT are also regulated in 46 CFR Subchapter C and are allowed to carry 12 or fewer passengers, at least one of whom is for hire. The U.S. Coast Guard does not formally inspect these vessels, although they may be boarded for examinations. Large charter yachts, also known as mega-yachts, are the best known representatives of this class of vessels.
 
-*Small Passenger Vessel (less than 100 GT)![rept-summ-fig3]({{ site.baseurl }}/images/advisory-committee-reports/passenger-vessels/rept-summ-fig3.gif)*\
+#### Small Passenger Vessel (less than 100 GT)
+![rept-summ-fig3]({{ site.baseurl }}/images/advisory-committee-reports/passenger-vessels/rept-summ-fig3.gif){: .img-right}
 Small Passenger Vessels (SPVs) less than 100 GT are regulated in 46 CFR Subchapter T and are allowed to carry more than 6 but no more than 150 passengers, at least one of whom is for hire. Subchapter T vessels are also limited to 49 or less passengers overnight. The U.S. Coast Guard formally inspects these vessels for safety and seaworthiness and issues a Certificate of Inspection to those vessels that successfully pass the inspection. There may be no "typical" example of this large class of vessel. Examples range from inflatable dive boats, submarines, aluminum crew boats, ferries, wooden charter fishing boats, and various types of sailing vessels.
 
-*Small Passenger Vessel (less than 100 GT, carrying more than 150 passenger or\
-more than 49 overnight)![rept-summ-fig4]({{ site.baseurl }}/images/advisory-committee-reports/passenger-vessels/images/rept-summ-fig4.gif)*\
+#### Small Passenger Vessel (less than 100 GT, carrying more than 150 passenger or more than 49 overnight)
+![rept-summ-fig4]({{ site.baseurl }}/images/advisory-committee-reports/passenger-vessels/rept-summ-fig4.gif){: .img-right}
 SPVs less than 100 GT, carrying more than 150 passengers or more than 49 overnight, are regulated in 46 CFR Subchapter K. These vessels are allowed to carry more than 6 passengers, at least one of whom is for hire, but are certificated for the carriage of more than 150 passengers or more than 49 overnight. The U.S. Coast Guard formally inspects these vessels for safety and seaworthiness and issues a Certificate of Inspection to those vessels that successfully pass the inspection. Typical examples of this class of vessel are exemplified by large dinner cruise vessels, casino vessels, and larger ferries.
 
-*Passenger Vessel (more than 100 GT)![rept-summ-fig5]({{ site.baseurl }}/images/advisory-committee-reports/passenger-vessels/rept-summ-fig5.gif)*\
+#### Passenger Vessel (more than 100 GT)
+![rept-summ-fig5]({{ site.baseurl }}/images/advisory-committee-reports/passenger-vessels/rept-summ-fig5.gif){: .img-right}
 Passenger Vessels more than 100 GT are regulated in 46 CFR Subchapter H and are allowed to carry more than 12 passengers, at least one of whom is for hire. The U.S. Coast Guard formally inspects these vessels for safety and seaworthiness and issues a Certificate of Inspection to those vessels that successfully pass the inspection. Examples of these types of vessels are the largest casino vessels and ferries as well as cruise ships. (At this time there is only 1 cruise ship under the U.S. flag).
 
 * * * * *
