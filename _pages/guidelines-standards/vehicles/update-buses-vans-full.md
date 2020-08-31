@@ -535,7 +535,7 @@ ISO 10865-1:2012(E), Wheelchair containment and occupant retention systems for a
 Civil rights, Incorporation by reference, Individuals with disabilities, Transportation.
 
 Approved by vote of the Access Board on May 23, 2016.\
-![David M. Ccapozzi signature](https://www.access-board.gov/images/Signatures/dcapozzi-signature.jpg)
+![David M. Capozzi signature]({{ site.baseurl }}/images/capozzi-signature.jpg)
 
 David M. Capozzi,\
 Executive Director.

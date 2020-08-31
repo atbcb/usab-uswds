@@ -26,7 +26,7 @@ Fiscal Year 2018 was a year of continued success. The Access Board continues to 
 
 Sincerely,
 
-![David Capozzi signature](../img/capozzi-signature.jpg)
+![David Capozzi signature]({{ site.baseurl }}/images/capozzi-signature.jpg)
   
 David M. Capozzi  
 Executive Director
