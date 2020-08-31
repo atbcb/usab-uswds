@@ -350,51 +350,13 @@ State and local transportation departments are divided into four groups for the 
 
 Detectable warning surfaces are available in a variety of materials. The Volpe Center gathered data from local transportation departments and vendors on various detectable warning materials and estimated the costs of 8 square feet of the materials for a typical curb ramp as shown in the table below. The estimates do not include installation costs.
 
-|
-
-Detectable Warning Surfaces
-
- |
-
-Materials Costs for Typical Curb Ramp
-
- |
-|
-
-Concrete pavers
-
- |
-
-$48 to $80
-
- |
-|
-
-Brick pavers
-
- |
-
-$128
-
- |
-|
-
-Polymer and composite materials
-
- |
-
-$120 to $200
-
- |
-|
-
-Stainless steel or cast iron products
-
- |
-
-$240
-
- |
+| Detectable Warning Surfaces | Materials Costs for Typical Curb Ramp |
+| --- | --- |
+| Concrete pavers | $48 to $80 |
+| Brick pavers | $128 |
+| Polymer and composite materials | $120 to $200 |
+ | Stainless steel or cast iron products | $240 |
+ {: .usa-table}
 
 *Question 8.* The Access Board seeks additional information on the costs for detectable warning materials (8 square feet) and installation of the materials on a typical curb ramp.
 
@@ -735,171 +697,27 @@ All state transportation departments and most local transportation departments m
 
 In the absence of the proposed guidelines, the regulatory assessment assumes that state and local transportation departments will use the DOJ 2010 Standards in the Department of Justice regulations implementing Title II of the Americans with Disabilities Act to the extent feasible when designing, constructing, or altering pedestrian facilities in the public right-of-way, consistent with the guidance issued by the Federal Highway Administration, as well as other applicable standards and industry practices. An analysis of the proposed guidelines compared to the DOJ 2010 Standards, other applicable standards, and industry practices is included in the appendix to the regulatory assessment. The analysis identified four requirements in the proposed guidelines that will have more than minimal impacts on state and local transportation departments. The factors used to identify whether the requirements in the proposed guidelines will have more than minimal impacts are discussed in the regulatory assessment and in the preamble under Impacts on State and Local Governments. The four requirements in the proposed guidelines that will have more than minimal impacts on state and local transportation departments are summarized in the table below, along with a description of the governmental units affected by proposed requirements and questions in the preamble to the proposed guidelines that seek additional information on the governmental units affected.
 
-|
+**Table: Requirements in Proposed Guidelines That Will Have More Than Minimal Impacts on State and Local Transportation Departments**
 
-Requirements in Proposed Guidelines That Will Have More Than Minimal Impacts on State and Local Transportation Departments
-
- |
-|
-
-Requirement
-
- |
-
-Governmental Units Affected
-
- |
-|
-
-Detectable warning surfaces required on newly constructed and altered curb ramps and blended transitions at pedestrian street crossings (R208.1 and R305)
-
- |
-
-Will affect state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps
-
-All state transportation departments currently specify detectable warning surfaces on curb ramps in their standard drawings; most local transportation departments maintain standard drawings that are consistent with standard drawings maintained by their state transportation departments
-
-Questions 4, 5, and 6 in preamble seek information on state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps
-
- |
-|
-
-Accessible pedestrian signals and pushbuttons required when pedestrian signals newly installed or replaced at signalized intersections (R209)
-
- |
-
-Will affect state and local transportation departments that do not currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections
-
-Some state and local transportation departments currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections; TEA-21 (23 U.S.C. 217 (g)) directed that audible traffic signals be included in transportation plans and projects where appropriate
-
-Question 9 in preamble seeks information on state and local transportation departments that currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections
-
- |
-| Maximum cross slope of 2 percent required on pedestrian access routes, including within pedestrian street crossings with yield or stop control (R204.3 and R302.6) |
-
-Will affect state and local transportation departments that construct new tabled intersections in hilly urban areas which contain pedestrian street crossings with yield or stop control
-
-Question 14 in preamble seeks information on the current design policies and practices of state and local transportation departments with respect to tabling newly constructed intersections in hilly urban areas, particularly with respect to extending the tabling to pedestrian street crossings with yield or stop control
-
- |
-|
-
-Pedestrian activated signals required at roundabouts with multi-lane pedestrian crossings (R206 and R306.3.2)
-
- |
-
-Will affect state and local transportation departments that construct new roundabouts with multi-lane pedestrian street crossings
-
- |
+ | Requirement | Governmental Units Affected |
+| --- | --- |
+ | Detectable warning surfaces required on newly constructed and altered curb ramps and blended transitions at pedestrian street crossings (R208.1 and R305) | Will affect state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps.<br><br>All state transportation departments currently specify detectable warning surfaces on curb ramps in their standard drawings; most local transportation departments maintain standard drawings that are consistent with standard drawings maintained by their state transportation departments.<br><br>Questions 4, 5, and 6 in preamble seek information on state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps. |
+ | Accessible pedestrian signals and pushbuttons required when pedestrian signals newly installed or replaced at signalized intersections (R209) | Will affect state and local transportation departments that do not currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections.<br><br>Some state and local transportation departments currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections; TEA-21 (23 U.S.C. 217 (g)) directed that audible traffic signals be included in transportation plans and projects where appropriate.<br><br>Question 9 in preamble seeks information on state and local transportation departments that currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections. |
+| Maximum cross slope of 2 percent required on pedestrian access routes, including within pedestrian street crossings with yield or stop control (R204.3 and R302.6) | Will affect state and local transportation departments that construct new tabled intersections in hilly urban areas which contain pedestrian street crossings with yield or stop control.<br><br>Question 14 in preamble seeks information on the current design policies and practices of state and local transportation departments with respect to tabling newly constructed intersections in hilly urban areas, particularly with respect to extending the tabling to pedestrian street crossings with yield or stop control. |
+| Pedestrian activated signals required at roundabouts with multi-lane pedestrian crossings (R206 and R306.3.2) | Will affect state and local transportation departments that construct new roundabouts with multi-lane pedestrian street crossings |
+{: .usa-table}
 
 The Access Board entered into an interagency agreement with the Volpe National Transportation Systems Center (Volpe Center) to gather data and prepare cost estimates for the regulatory assessment. The cost estimates prepared by the Volpe Center are summarized in the table below, along with questions in the preamble to the proposed guidelines that seek additional information to refine the cost estimates.
 
-|
+**Table: Estimated Total Annual Costs for Requirements That Will Have More Than Minimal Impacts on State and Local Transportation Departments**
 
-Estimated Total Annual Costs for Requirements That Will Have More Than Minimal Impacts on State and Local Transportation Departments
-
- |
-|
-
-Requirement
-
- |
-
-Additional Costs Per Element or Facility Due to Requirement
-
- |
-
-Number of Elements or Facilities Constructed or Altered on Annual Basis
-
- |
-
-Total Annual Costs for Requirement
-
- |
-|
-
-Detectable warning surfaces required on newly constructed and altered curb ramps and blended transitions at pedestrian street crossings (R208.1 and R305)
-
- |
-
-$48 to $240 for detectable warning materials for typical curb ramp
-
-Question 8 in preamble seeks additional information on costs for detectable warning materials and installation of the materials on typical curb ramp
-
- |
-
-No information available
-
-Question 7 in preamble seeks information on number of curb ramps that are constructed or altered on an annual basis in the public right-of-way
-
- |
-
-No estimate provided
-
-Total annual costs will depend on number of state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps, and number of curb ramps that they construct or alter on an annual basis
-
- |
-|
-
-Accessible pedestrian signals and pushbuttons required when pedestrian signals newly installed or replaced at signalized intersections (R209)
-
- |
-
-$3,600 per signalized intersection
-
-Question 10 in preamble seeks additional information on costs for providing accessible pedestrian signals and pedestrian pushbuttons at signalized intersections
-
- |
-
-Pedestrian signals newly installed or replaced at 13,095 signalized intersections on an annual basis
-
- |
-
-$47 million
-
- |
-|
-
-Maximum cross slope of 2 percent required on pedestrian access routes, including within pedestrian street crossings with yield or stop control (R204.3 and R302.6)
-
- |
-
-$60,000 per tabled intersection
-
-Question 15 in preamble seeks additional information on costs to extend tabling of newly constructed intersections in hilly urban areas to pedestrian street crossings with yield or stop control
-
- |
-
-No information available
-
-Question 16 in preamble seeks information on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis
-
- |
-
-No estimate provided
-
-Total annual costs will depend on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis
-
- |
-|
-
-Pedestrian activated signals required at roundabouts with multi-lane pedestrian crossings (R206 and R306.3.2)
-
- |
-
-$90,000 to $230,000 per roundabout
-
-Question 19 in preamble seeks additional information on costs to provide pedestrian activated signals at roundabouts with multi-lane pedestrian crossings
-
- |
-
-27 new roundabouts with multi-lane pedestrian street crossings constructed on an annual basis
-
- |
-
-$2.4 million to $6.2 million
-
- |
+| Requirement | Additional Costs Per Element or Facility Due to Requirement | Number of Elements or Facilities Constructed or Altered on Annual Basis | Total Annual Costs for Requirement |
+| --- | --- | --- | --- |
+| Detectable warning surfaces required on newly constructed and altered curb ramps and blended transitions at pedestrian street crossings (R208.1 and R305) | $48 to $240 for detectable warning materials for typical curb ramp<br><br>Question 8 in preamble seeks additional information on costs for detectable warning materials and installation of the materials on typical curb ramp. | No information available<br><br>Question 7 in preamble seeks information on number of curb ramps that are constructed or altered on an annual basis in the public right-of-way | No estimate provided<br><br>Total annual costs will depend on number of state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps, and number of curb ramps that they construct or alter on an annual basis |
+ | Accessible pedestrian signals and pushbuttons required when pedestrian signals newly installed or replaced at signalized intersections (R209) | $3,600 per signalized intersection<br><br>Question 10 in preamble seeks additional information on costs for providing accessible pedestrian signals and pedestrian pushbuttons at signalized intersections | Pedestrian signals newly installed or replaced at 13,095 signalized intersections on an annual basis | $47 million |
+| Maximum cross slope of 2 percent required on pedestrian access routes, including within pedestrian street crossings with yield or stop control (R204.3 and R302.6) | $60,000 per tabled intersection<br><br>Question 15 in preamble seeks additional information on costs to extend tabling of newly constructed intersections in hilly urban areas to pedestrian street crossings with yield or stop control | No information available<br><br>Question 16 in preamble seeks information on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis | No estimate provided<br><br>Total annual costs will depend on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis |
+| Pedestrian activated signals required at roundabouts with multi-lane pedestrian crossings (R206 and R306.3.2) | $90,000 to $230,000 per roundabout<br><br>Question 19 in preamble seeks additional information on costs to provide pedestrian activated signals at roundabouts with multi-lane pedestrian crossings | 27 new roundabouts with multi-lane pedestrian street crossings constructed on an annual basis | $2.4 million to $6.2 million |
+{: .usa-table}
 
 *Benefits*
 
@@ -932,51 +750,13 @@ The Access Board is required to issue accessibility guidelines by the Americans 
 
 The number of small governmental jurisdictions with a population less than 50,000 affected by the proposed guidelines is shown in the table below.
 
-|
-
-Governmental Jurisdictions
-
- |
-
-Population Less Than 50,000
-
- |
-|
-
-County
-
- |
-
-2,178
-
- |
-|
-
-Municipal
-
- |
-
-18,824
-
- |
-|
-
-Town or Township
-
- |
-
-16,371
-
- |
-|
-
-**Total**
-
- |
-
-**37,375**
-
- |
+| Governmental Jurisdictions | Population Less Than 50,000 |
+| --- | --- |
+| County | 2,178 |
+| Municipal | 18,824 |
+| Town or Township | 16,371 |
+| **Total** | **37,375** |
+{: .usa-table}
 
 Source: US Census Bureau 2002 Census of Governments available at:\
 <http://www.census.gov/prod/2003pubs/gc021x1.pdf>.
