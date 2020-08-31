@@ -1,7 +1,10 @@
 ---
 title: Rail Vehicles Access Advisory Committee Members
+layout: page
 ---
-![Rail Vehicles Access Advisory Committee Members]({{ site.baseurl }}/images/advisory-committee-reports/rail-vehicles/rvaac-members.jpg){: .img-right}
+# {{ page.title }}
+
+![Rail Vehicles Access Advisory Committee Members]({{ site.baseurl }}/images/advisory-committee-reports/rail/rvaac-members.jpg){: .img-right}
 
 -   Alstom Transportation
 -   American Council of the Blind

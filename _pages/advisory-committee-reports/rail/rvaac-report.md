@@ -1,33 +1,17 @@
 ---
-title: Rail Vehicles Access Advisory Committee Final Report 
+title: Final Report 
+layout: report
+collection-title: Rail Vehicles Access Advisory Committee
+file: rvaac-final-report.pdf
+file-directory: /files/advisory-committee-reports/
 ---
 
-
+# {{ page.title }}
 **US Access Board\
 Rail Vehicles Access Advisory Committee\
 July 29, 2015**
 
-[Chapter 1](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/final-report#ch1) - Introduction
 
-[Chapter 2](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/final-report#ch2) - Communications
-
-[Chapter 3](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/final-report#ch3) - Boarding and Alighting
-
-[Chapter 4](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/final-report#ch4) - Onboard Circulation and Seating
-
-[Chapter 5](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/final-report#ch5) - Rooms and Spaces
-
-[Appendix A](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/final-report#app-a-ada) - Americans with Disabilities Statutory Language
-
-[Appendix B](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/final-report#app-b-4dot) - List of Consisderations for DOT
-
-Appendix C - Minority Reports
-
-Minority Report - [Amtrak](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/final-report#mr-amtrak)
-
-Minority Report - [National Association of the Deaf](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/final-report#mr-nad)
-
-Minority Report - [Metropolitan Transportation Authority of the State of New York](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/rail-vehicles-access-advisory-committee/final-report#mr-ny-mta)
 
 ### Chapter 1 --- Introduction
 
