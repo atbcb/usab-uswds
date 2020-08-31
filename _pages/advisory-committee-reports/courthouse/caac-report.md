@@ -1,7 +1,6 @@
 ---
 title:  Final Report
 layout: report
-output: true
 collection-title: Courthouse Access Advisory Committee
 file: caac-report.pdf
 file-directory: /files/advisory-committee-reports/
@@ -14,19 +13,18 @@ file-directory: /files/advisory-committee-reports/
 This report contains recommendations of the Courthouse Access Advisory Committee for the U.S. Access Board's use in developing and disseminating guidance on accessible courthouse design under the Americans with Disabilities Act and the Architectural Barriers Act. This is not a regulation./p>
 
 ### Contents
-![symbol of lady justice]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002.jpg)
+![symbol of lady justice]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002.jpg){: .img-right}
 
--   [Acknowledgements](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#ack)
--   [Members of the Courthouse Access Advisory Committee](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#members)
--   [I. Introduction](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#intro)
--   [II. Recommendations for Accessible Courthouse Design](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#courthouse)
--   [III. Recommendations for Accessible Court Suite Design](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#courtroom)
--   [IV. Access to Raised Elements in Courtrooms and Courthouses](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#raised)
--   [V. Recommendations for Outreach and Marketing of Information on Accessible Courthouse and Courtroom Design](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#outreach)
--   [VI. Background](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#background)
--   [Appendices](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#appendices)
+- Acknowledgements
+- Members of the Courthouse Access Advisory Committee
+- I. Introduction
+- II. Recommendations for Accessible Courthouse Design
+- III. Recommendations for Accessible Court Suite Design
+- IV. Access to Raised Elements in Courtrooms and Courthouses
+- V. Recommendations for Outreach and Marketing of Information on Accessible Courthouse and Courtroom Design
+- VI. Background
+- Appendices
 
-* * * * *
 
 ### **Acknowledgements**
 
