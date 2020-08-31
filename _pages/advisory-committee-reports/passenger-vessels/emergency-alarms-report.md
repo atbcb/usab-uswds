@@ -6,7 +6,7 @@ collection-title: Passenger Vessel Emergency Alarms Advisory Committee
 date: October 14, 2008
 ---
 
-{{page.date}}
+{{page.date |  date: "%B %d, %Y"}}
 
 On August 13, 2007, the Architectural and Transportation Barriers Compliance Board (Access Board) established an advisory committee to make recommendations on issues related to the effectiveness of emergency alarm systems for passengers who are deaf or hard of hearing on passenger vessels. [72 FR 45200 (August 13, 2007)]. The purpose of this report is to describe the mission and operating protocols of the Committee, the deliberative process used by the Committee to reach a consensus, and the Committee's recommendations.
 
