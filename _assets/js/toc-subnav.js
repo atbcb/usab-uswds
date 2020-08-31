@@ -26,11 +26,12 @@
     if (elements) {
       for (let i = 0; i < elements.length; i++) {
         let section = elements[i].innerText;
+        let cleanedSection = DOMPurify.sanitize(section);
 
-        // if section is empty go to next element in loop
-        if (section === "") continue;
+        // if cleanedSection is empty go to next element in loop
+        if (cleanedSection === "") continue;
 
-        let idtag = section.replace(/ /g,"-");
+        let idtag = cleanedSection.replace(/ /g,"-");
         let currentAnchorClass = currentAnchor === idtag ?
           'class="usa-current"' : 'class=""';
         elements[i].setAttribute("id",idtag);
@@ -38,7 +39,8 @@
         let li = "<li><a " + currentAnchorClass + " href=\"#" + idtag + "\">" + section + "</a></li>";
 
         if (subsections) {
-          subsections.innerHTML += li;
+          let cleanedItem = DOMPurify.sanitize(li);
+          subsections.innerHTML += cleanedItem;
         }
       };
     }
