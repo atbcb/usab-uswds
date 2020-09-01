@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Board to Hold Town Hall Meeting and Training in Indianapolis on May 21
-date: 'August 31, 2020'
+date: 'April 17, 2019'
 excerpt: >-
   The Access Board will hold a town hall meeting in Indianapolis on the
   afternoon of May 21 at Bankers Life Fieldhouse. The event will provide an open
@@ -10,7 +10,7 @@ excerpt: >-
   also will be panel discussions with area speakers on accessible recreation and
   outdoor environments, the Indiana AgrAbility Project, and local compliance
   initiatives under the Americans with Disabilities Act (ADA).
-image: images/uploads/indianpolis.jfif
+image: /images/uploads/indianpolis.jfif
 image_alt_text: Indianapolis
 webinar: false
 webinar-start: ''

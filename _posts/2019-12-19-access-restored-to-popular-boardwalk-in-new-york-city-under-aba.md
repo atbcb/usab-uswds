@@ -12,7 +12,7 @@ excerpt: >-
   the Access Board under the Architectural Barriers Act (ABA) alleging that
   ramps at two locations along the boardwalk that had been destroyed were
   replaced with stairs.
-image: images/uploads/roackaway.png
+image: /images/uploads/roackaway.png
 image_alt_text: Rockaway Boardwalk
 webinar: false
 webinar-start: ''

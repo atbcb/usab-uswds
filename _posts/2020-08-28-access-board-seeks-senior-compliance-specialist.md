@@ -11,6 +11,8 @@ excerpt: >-
   eligible for special hiring authorities (e.g., Schedule A appointment for
   persons with disabilities) or who are eligible for Veterans' Recruitment
   Appointment.
+tags:
+  - jobs
 webinar: false
 webinar-start: ''
 webinar-end: ''

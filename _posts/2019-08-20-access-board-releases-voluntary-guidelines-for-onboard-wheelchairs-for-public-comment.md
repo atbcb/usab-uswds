@@ -16,7 +16,7 @@ excerpt: >-
   non-binding guidelines as technical assistance to air carriers and
   manufacturers of onboard wheelchairs by providing an example of how to meet
   DOT’s planned performance standards.
-image: images/uploads/onboard-chair.jpg
+image: /images/uploads/onboard-chair.jpg
 image_alt_text: Onboard Chair
 webinar: false
 webinar-start: ''
