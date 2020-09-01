@@ -65,4 +65,4 @@ Note: For the comfort of all participants and to promote a [fragrance-free](http
 
 **Related Release**
 
-* [Access Board to Assess Feasibility of Wheelchair Restraint Systems on Aircraft]({% post_url 2020-10-15-access-board-to-assess-feasibility-of-wheelchair-restraint-systems-on-aircraft %})(October 15, 2019)
+* [Access Board to Assess Feasibility of Wheelchair Restraint Systems on Aircraft]({% post_url 2019-10-15-access-board-to-assess-feasibility-of-wheelchair-restraint-systems-on-aircraft %})(October 15, 2019)
