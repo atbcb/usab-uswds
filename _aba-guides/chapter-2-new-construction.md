@@ -32,13 +32,16 @@ In new construction, all areas must be fully accessible, including multiple spac
 
 These structures and spaces are fully exempt from the standards and are not required to be accessible or on an accessible route:
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
-img-file= "chapter2-aba/nc3.jpg"
-img-alt= "Cover of the Uniform Federal Accessibility Standards (UFAS)"
-text-title= "Existing Elements (§F203.2)"
-text= "In existing facilities, alterations, additions, or leasing actions may require retrofit of existing elements. Existing elements that meet an earlier ABA standard, such as the <a href=\"https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas\">Uniform Federal Accessibility Standards</a>, do not have to be retrofitted to meet the current standards unless they are altered."
-text2= "Examples: Existing restrooms, drinking fountains, and telephones in additions or that are part of an accessible path of travel to altered primary function areas do not have to be upgraded to meet the current standards if they comply with a previous ABA standard"
-%}
+<div class="grid-row grid-gap margin-bottom-2">
+    <div class="grid-col-2">
+      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter2-aba/nc3.jpg" alt="Cover of the Uniform Federal Accessibility Standards (UFAS)" class="img-full">
+    </div>
+    <div class="grid-col-fill">
+      <span class="text-left text-bold">Existing Elements (§F203.2)</span>
+      <span class="grid-line-left">In existing facilities, alterations, additions, or leasing actions may require retrofit of existing elements. Existing elements that meet an earlier ABA standard, such as the <a href="{{ site.baseurl }}/ufas/">Uniform Federal Accessibility Standards</a> do not have to be retrofitted to meet the current standards unless they are altered.</span>
+      <span class="text-left text-italic">Examples: Existing restrooms, drinking fountains, and telephones in additions or that are part of an accessible path of travel to altered primary function areas do not have to be upgraded to meet the current standards if they comply with a previous ABA standard"</span>
+    </div>
+</div>
 
 {% include grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter2-ada/nc6.jpg"
