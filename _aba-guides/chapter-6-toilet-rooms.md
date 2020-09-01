@@ -4,11 +4,11 @@ order-number: 17
 file: toilet-rooms-ABA.pdf
 file-description: PDF version of Chapter 6 Toilet Rooms Guide
 ---
-This guide explains requirements in the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) for toilet rooms. 
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for toilet rooms. 
 
 ### Required Compliance
 
-[[§F213](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§F213]({{ site.baseurl }}/aba/ch02/#F213-Toilet-Facilities-and-Bathing-Facilities)]
 
 Plumbing and building codes address the number and type of toilet rooms and toilet fixtures required for a facility. The ADA Standards, on the other hand, do not address the number of toilet rooms or fixtures required for a facility, but instead specify which ones must be accessible where provided. In new construction, access is required to all toilet rooms, including those for employees. However, where single user toilet rooms are clustered in one location, at least half for each use must comply (§F213.2., Ex. 4). In the case of single user portable units, access is required to at least 5% at each cluster, excluding those on construction sites for construction personnel which are fully exempt (§F213.2, Ex. 3, §F203.2).
 
@@ -20,7 +20,7 @@ Clustered single user toilet rooms (2 minimum) are those that are next to, or cl
 
 #### Unisex (Single-Use or Family) Toilet Rooms
 
-[[§F213.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§F213.2]({{ site.baseurl }}/aba/ch02/#f2132)]
 
 ![Unisex restroom symbol]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/3.png){: .float-right .thumbnail}
 
@@ -28,7 +28,7 @@ Where multi-user toilet rooms are provided, accessible unisex toilet rooms canno
 
 #### Medical Care and Long-Term Care Facilities
 
-[[§F223.1](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#223%20Medical%20Care%20and%20Long-Term%20Care%20Facilities), [§805.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-8-special-rooms,-spaces,-and-elements#805%20Medical%20Care%20and%20Long-Term%20Care%20Facilities)]
+[[§F223.1]({{ site.baseurl }}/aba/ch02/#f2231), [§805.4]({{ site.baseurl }}/aba/ch08/#a8054)]
 
 ![medical care icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/4.png){: .float-right .thumbnail}
 
@@ -46,13 +46,13 @@ The Standards specify the location of toilet rooms in two instances:
 
 #### Additions
 
-[[§F202.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§F202.2]({{ site.baseurl }}/aba/ch02/#f2022)]
 
 Additions are required to comply with requirements in the Standards for new construction. Each toilet room of an addition must comply as would be required in new construction. If an addition does not include any toilet facilities, at least one toilet room for each sex in the existing portion of the facility must be made accessible to serve the addition; access to a single unisex toilet room is permitted if there is only one toilet room in the facility or if providing access to a men’s and women’s room is technically infeasible (§F202.2, §F213.2, Ex. 1).
 
 #### Alterations
 
-[[§F202.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§F202.3]({{ site.baseurl }}/aba/ch02/#f2023)]
 
 When existing toilet rooms are altered, the Standards apply according to the planned scope of work. If one toilet room on a floor is altered, the Standards apply to that room only; if all toilet rooms on a floor are altered, the Standards apply to each toilet room that would be required to comply in new construction. The scope of work also determines which technical requirements apply. If some, but not all, elements in a toilet room are altered, only those elements altered must comply. If a room or space is completely altered (or built new as part of an alteration), the entire room or space must comply.
 
@@ -72,13 +72,13 @@ When it is technically infeasible to make existing men's and women's rooms compl
 
 #### Alterations and Additions to Primary Function Areas
 
-[[§F202.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§F202.4]({{ site.baseurl }}/aba/ch02/#f2024)]
 
-When an area containing a primary function (a major activity intended for a facility) is altered or added to a facility, an "accessible path of travel" is required. The accessible path of travel, which must extend from site arrival points to the primary function area, includes provided restrooms (at least one for each sex or, if only unisex restrooms are provided, at least one unisex restroom), telephones, and drinking fountains, where provided, that serve the primary function area. The accessible path of travel is required to the extent that it does not cost more than 20% of the total cost of the work to the primary function area. Compliance is required up to the point this cost cap is reached, even where it does not result in a fully accessible path of travel. See the [Alterations and Additions Guide](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-2-alterations-and-additions). 
+When an area containing a primary function (a major activity intended for a facility) is altered or added to a facility, an "accessible path of travel" is required. The accessible path of travel, which must extend from site arrival points to the primary function area, includes provided restrooms (at least one for each sex or, if only unisex restrooms are provided, at least one unisex restroom), telephones, and drinking fountains, where provided, that serve the primary function area. The accessible path of travel is required to the extent that it does not cost more than 20% of the total cost of the work to the primary function area. Compliance is required up to the point this cost cap is reached, even where it does not result in a fully accessible path of travel. See the [Alterations and Additions Guide]({{ site.baseurl }}/aba-guides/chapter-2-alterations,-additions,-and-leases.). 
 
 #### Alterations to Qualified Historic Facilities 
 
-[[§F202.5](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities), [§F213](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§F202.5]({{ site.baseurl }}/aba/ch02/#f2025), [§F213]({{ site.baseurl }}/aba/ch02/#F213-Toilet-Facilities-and-Bathing-Facilities)]
 
 ![historic site]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/6.png){: .float-right .thumbnail}
 
@@ -105,7 +105,7 @@ one urinal is provided."
 
 ### Water Closets
 
-[[§F213.3.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§604](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§F213.3.2]({{ site.baseurl }}/aba/ch02/#f21332), [§604]({{ site.baseurl }}/aba/ch06/#604-Water-Closets-and-Toilet-Compartments)]
 
 Criteria for water closets address location, clearance, seats, grab bars, flush controls, and dispensers. Water closets can be arranged for either a left-hand or right-hand approach.
 
@@ -134,7 +134,7 @@ text= "Locate flush valves and related plumbing to the side of the water closet 
 
 #### Grab Bars 
 
-[[§604.5](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments), [§609](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#609%20Grab%20Bars)]
+[[§604.5]({{ site.baseurl }}/aba/ch06/#a6045), [§609]({{ site.baseurl }}/aba/ch06/#609-Grab-Bars)]
 
 Grab bars are required to be mounted on the walls beside and behind the water closet. They can be separate or continuous. When returned to walls, the length is measured to the centerline of the return, consistent with industry practice. When attached at other points along the bar, the length is measured to the end of the bar.
 
@@ -208,7 +208,7 @@ img-alt= "water closet with vertical grab bar above the horizontal side grab bar
 
 #### Toilet Paper Dispensers
 
-[[§604.7](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§604.7]({{ site.baseurl }}/aba/ch06/#a6047)]
 
 <div class="clearfix" markdown="1">
 ![toilet paper dispenser]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/20.png){: .float-right .thumbnail}
@@ -288,7 +288,7 @@ Accessible toilet rooms can be configured in many different ways. The layout sho
 
 #### Doors
 
-[[§404](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404]({{ site.baseurl }}/aba/ch04/#404-Doors,-Doorways,-and-Gates)]
 
 Maneuvering clearance is required at doors based on the approach and swing. No elements can overlap door maneuvering clearances.
 
@@ -323,7 +323,7 @@ Doors can swing into fixture clearances in single-user toilet rooms where unobst
 
 #### Turning Space
 
-[[§304](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#304%20Turning%20Space), [§603.2.1](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#603%20Toilet%20and%20Bathing%20Rooms)]
+[[§304]({{ site.baseurl }}/aba/ch03/#304-Turning-Space), [§603.2.1]({{ site.baseurl }}/aba/ch06/#a60321)]
 
 Turning space is required in the room and can be provided as a 60" diameter circle or T-shaped space. Doors can swing into the turning space. The orientation of the T-shaped space is not specified, and it can be located for approach at any segment (i.e., the stem or either arm).
 
@@ -420,7 +420,7 @@ text= "Toilet rooms sized to provide more space than the minimum required by the
 
 ### Dispensers and Receptacles
 
-[[§F205](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#205%20Operable%20Parts), [§309](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#309%20Operable%20Parts)], Coat Hooks and Shelves [[§F213.3.7](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§603.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#603%20Toilet%20and%20Bathing%20Rooms)]
+[[§F205]({{ site.baseurl }}/aba/ch02/#F205-Operable-Parts), [§309]({{ site.baseurl }}/aba/ch03/#309-Operable-Parts)], Coat Hooks and Shelves [[§F213.3.7]({{ site.baseurl }}/aba/ch02/#f21337), [§603.4]({{ site.baseurl }}/aba/ch06/#a6034)]
 
 Dispensers, receptacles, and other operable parts, as well as shelves and coat hooks, must comply where provided.
 
@@ -428,7 +428,7 @@ Dispensers, receptacles, and other operable parts, as well as shelves and coat h
 
 #### Baby Changing Tables
 
-[[§F226](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#226%20Dining%20Surfaces%20and%20Work%20Surfaces), [§902](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-9-built-in-elements#902%20Dining%20Surfaces%20and%20Work%20Surfaces)]
+[[§F226]({{ site.baseurl }}/aba/ch02/#F226-Dining-Surfaces-and-Work-Surfaces), [§902]({{ site.baseurl }}/aba/ch09/#902-Dining-Surfaces-and-Work-Surfaces)]
 
 ![baby changing icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/43.png){: .float-right .thumbnail}
 
@@ -497,7 +497,7 @@ text= "Keep the lavatory outside the water closet clearance so that space is ava
 %}
 
 ### Water Closets and Toilet Compartments for Children's Use
-[[§604.1](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments), [§604.8](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments), [§604.9](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§604.1]({{ site.baseurl }}/aba/ch06/#a6041), [§604.8]({{ site.baseurl }}/aba/ch06/#a6048), [§604.9]({{ site.baseurl }}/aba/ch06/#a6049)]
 
 Specifications based on children's dimensions can be followed when water closets and toilet compartments are designed primarily for use by children ages 12 and younger. Structured as exceptions, these provisions are optional and serve as alternatives to adult-based dimensions. Under the Standards, the decision to design a toilet room for children is left to other building requirements or regulations, good practice, client preference, or other factors. When a toilet room or compartment is designed for children, all pertinent alternate specifications for toilets, compartments, grab bars, and dispensers must be applied.
 
@@ -603,7 +603,7 @@ The Standards address toilet compartments and urinals which apply in addition to
 
 ### Wheelchair Accessible Toilet Compartments
 
-[[§F213.3.1](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§604.8](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§F213.3.1]({{ site.baseurl }}/aba/ch02/#f21331), [§604.8]({{ site.baseurl }}/aba/ch06/#a6048)]
 
 At least one toilet compartment must be wheelchair accessible where toilet compartments are provided.
 
@@ -617,7 +617,7 @@ _Compartment doors must be offset from the water closet in either the front or t
 
 #### Compartment Doors
 
-[[§404](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates), [§604.8.1.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§404]({{ site.baseurl }}/aba/ch04/#404-Doors,-Doorways,-and-Gates), [§604.8.1.2]({{ site.baseurl }}/aba/ch06/#a604812)]
 
 Compartment doors must meet applicable requirements for doors, including the clear width (32" min.), hardware, and opening force (5 lbs. max.).
 
@@ -687,7 +687,7 @@ or 65" min. (floor-mounted water closet).]({{ site.baseurl }}{{ page.image-direc
 
 #### Toilet Compartments Designed for Children's Use
 
-[[§604.8.1](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§604.8.1]({{ site.baseurl }}/aba/ch06/#a60481)]
 
 <div class="clearfix" markdown="1">
 ![Wheelchair accessible toilet compartment for children that is 60" wide
@@ -706,7 +706,7 @@ Wheelchair accessible toilet compartments located at the end of the row can prov
 
 #### Toilet Compartment with a Lavatory
 
-[[§603](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#603%20Toilet%20and%20Bathing%20Rooms), [§604.8](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§603]({{ site.baseurl }}/aba/ch06/#603-Toilet-and-Bathing-Rooms), [§604.8]({{ site.baseurl }}/aba/ch06/#a6048)]
 
 No other fixture besides the toilet can be located in the minimum space required for the compartment. If a lavatory or another plumbing fixture is located in a compartment, the compartment must meet requirements for toilet rooms, including turning space. Another compliant lavatory is required outside the compartment.
 
@@ -714,7 +714,7 @@ No other fixture besides the toilet can be located in the minimum space required
 
 ### Ambulatory Accessible Toilet Compartment
 
-[[§F213.3.1](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§604.8](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#604%20Water%20Closets%20and%20Toilet%20Compartments)]
+[[§F213.3.1]({{ site.baseurl }}/aba/ch02/#f21331), [§604.8]({{ site.baseurl }}/aba/ch06/#a6048)]
 
 Ambulatory accessible toilet compartments provide parallel grab bars and benefit people who use crutches, canes, walkers and similar devices or who need support in sitting or standing. They do not accommodate wheelchairs or scooters and are required in addition to the wheelchair accessible compartment in toilet rooms with six or more toilet compartments or where the combined total of toilets and urinals is six or more. They are sized so that both grab bars are within reach. Grab bars must meet specifications for size, location, and securement.
 
@@ -734,7 +734,7 @@ toilet paper dispensers, coat hooks, and shelves also apply.]({{ site.baseurl }}
 
 ### Urinals
 
-[[§F213.3.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities), [§605](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#605%20Urinals)]
+[[§F213.3.3]({{ site.baseurl }}/aba/ch02/#f21333), [§605]({{ site.baseurl }}/aba/ch06/#605-Urinals)]
 
 At least one urinal must comply where two or more urinals are provided in a toilet room. Specifications address rim height, depth, flush controls, and clear floor space. Accessible urinals must be either wall hung or stall type. Flush controls must be automatic or, if hand operated, compliant as operable parts and located within accessible reach range (§309).
 
@@ -765,7 +765,7 @@ max.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/73.png){
 <div class="border margin-left-8 margin-right-8 padding-1" markdown="1" style="background-color: #e2e1ef;">
 #### Toilet Room Signs
 
-[[§F216](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#216%20Signs) and [§703](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-7-communication-elements-and-features#703%20Signs)]
+[[§F216]({{ site.baseurl }}/aba/ch02/#F216-Signs) and [§703]({{ site.baseurl }}/aba/ch07/#703-Signs)]
 
 ![men's room sign]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/74.png){: .float-right .thumbnail}
 ![women's room sign]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/74b.png){: .float-right .thumbnail}

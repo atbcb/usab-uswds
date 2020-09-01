@@ -5,7 +5,7 @@ date: May 05, 2020
 authors:
   - juliet-shoultz
 excerpt: The Access Board has extended the ANPRM comment period for Rail Vehicle Guidelins from May 14th to July 14th.
-image: rail.jpg
+image: /images/uploads/rail.jpg
 image_alt_text: train icon
 webinar: false
 webinar-start: ''

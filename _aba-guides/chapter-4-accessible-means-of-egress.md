@@ -5,16 +5,20 @@ file: amoe-ABA.pdf
 file-description: PDF version of Chapter 4 Accessible Means of Egress Guide
 ---
 
-<div class="margin-top-1" markdown="1">
-{% include grid-2col-leftimg-righttext.html
-img-file= "chapter4/4amoe-icc.JPG"
-img-alt= "ICC logo"
-text= "This guide explains requirements in the <a href=\"https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards\">ADA Standards</a> and referenced sections of the International Building Code (IBC) and was developed in cooperation with the International Code Council."
-%}
- 
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col-2">
+        <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe-icc.JPG" alt="ICC logo">
+    </div>
+    <div class="tablet:grid-col">
+        <p>This guide explains requirements in the <a href="{{ site.baseurl }}/aba/">ADA Standards</a> and referenced sections of the International Building Code (IBC) and was developed in cooperation with the International Code Council.</p>
+    </div>
+  </div>
+</div>
+
 ### Required Compliance with the IBC
 
-[[§F207](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F207%20Accessible%20Means%20of%20Egress)]
+[[§F207]({{ site.baseurl }}/aba/ch02/#F207-Accessible-Means-of-Egress)]
 
 {% include imgright-italictextbelow.html
 img-file= "chapter4/4amoe2.jpg"
@@ -84,7 +88,7 @@ The IBC contains requirements for exit stairway enclosures that address fire and
   
 ### Stairways
 
-[ADA Standards [§F210](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F210%20Stairways), [§504](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-5-general-site-and-building-elements#504%20Stairways)]
+[ADA Standards [§F210]({{ site.baseurl }}/aba/ch02/#F210-Stairways), [§504]({{ site.baseurl }}/aba/ch05/#504-Stairways)]
 
 Stairways and handrails that are part of a means of egress are addressed by the IBC (§1009 (2003), §1003.3.3 (2000)).  In addition, interior and exterior stairs that are part of a means of egress must comply with requirements in the ABA Standards (§504).
 
@@ -116,7 +120,7 @@ img-alt= "standpipe"
 
 ### Handrails
 
-[ADA Standards [§504.6](../ada-standards/chapter-5-general-site-and-building-elements.html#504%20Stairways),[§505](../ada-standards/chapter-5-general-site-and-building-elements.html#505%20Handrails)]
+[ADA Standards [§504.6]({{ site.baseurl }}/aba/ch05/#a5046),[§505]({{ site.baseurl }}/aba/ch05/#505-Handrails)]
 
 Specifications in the ABA Standards for handrail surfaces and clearances facilitate a power grip along the handrail length. Handrails can have circular or non-circular cross-sections. The gripping surface and adjacent surfaces must be free of abrasive or sharp elements. Handrails cannot rotate within fittings. The IBC also includes requirements for stairway handrails (§1009 (2003), §1003.3.3 (2000)).
 
@@ -209,13 +213,13 @@ Steep terrain and other constraints can make it difficult to provide an accessib
 
 ### Signs
 
-[ADA Standards [§F216](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F216%20Signs), [§703](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-7-communication-elements-and-features#703%20Signs)]
+[ADA Standards [§F216]({{ site.baseurl }}/aba/ch02/#F216-Signs), [§703]({{ site.baseurl }}/aba/ch07/#703-Signs)]
 
 The ABA Standards cover tactile and visual features of signs, including those that serve means of egress.  Only certain signs are subject to requirements for tactile and visual access, while a broader range is subject to the visual criteria only.  Tactile signs must include compliant raised characters and braille characters and be located at doors 48” to 60” above the floor or ground (§703.2).  Visual criteria address the height, style, proportion, and spacing of characters, as well as finish and contrast, line spacing, and other features (§703.5).  Tactile and visual requirements can be met on the same sign or on separate signs.
 
 ### Tactile and Visual Signs
 
-[ADA Standards [§F216.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F216%20Signs), [§F216.4.1](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F216%20Signs)]
+[ADA Standards [§F216.2]({{ site.baseurl }}/aba/ch02/#f2162), [§F216.4.1]({{ site.baseurl }}/aba/ch02/#f21641)]
 
 The IBC requires exits and exit access doors to be marked by illuminated exit signs (§1011, §1003.2.10). In addition, the IBC requires a tactile “EXIT” sign adjacent to the door to an egress stairway, an exit passageway, and the exit discharge (§1011.3, §1003.2.10.3 – 2000 addresses doors to egress stairways only). The ABA Standards include a similar requirement for visual and tactile exit signs at doors at exit stairways, exit passageways, and exit discharge (§F216.4.1). (An exit passageway is a horizontal component of an exit that is separated from interior building spaces by fire-resistance-rated construction that leads to the exit discharge or public way.)
 
@@ -231,7 +235,7 @@ _Exit signs (located at exits) and signs identifying permanent spaces, such as 
 
 ### Visual Signs
 
-[ADA Standards [§F216.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F216%20Signs), [§F216.4.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F216%20Signs), [§F216.4.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F216%20Signs)]
+[ADA Standards [§F216.3]({{ site.baseurl }}/aba/ch02/#f2163), [§F216.4.2]({{ site.baseurl }}/aba/ch02/#f21642), [§F216.4.3]({{ site.baseurl }}/aba/ch02/#f21643)]
 
 Signs providing direction to, or information about, interior rooms and spaces must meet visual criteria in the ABA Standards, but are not required to be tactile (§F216.3). This requirement applies to information about spaces, such as rules of conduct and evacuation instructions, exit route maps, and directional signs to exits and other elements and spaces.  
   
@@ -248,7 +252,7 @@ signs, rules of conduct signs, and posted instructions._
 
 ### Pictograms and Symbols of Accessibility
 
-[ADA Standards [§F216.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F216%20Signs), [§703.6](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-7-communication-elements-and-features#703%20Signs), [§703.7](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-7-communication-elements-and-features#703%20Signs)]
+[ADA Standards [§F216.2]({{ site.baseurl }}/aba/ch02/#f2162), [§703.6]({{ site.baseurl }}/aba/ch07/#a7036), [§703.7]({{ site.baseurl }}/aba/ch07/#a7037)]
 
 ![Sign with “STAIRWAY” in raised letter and braille below stair pictogram that is on field at least 6” high.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe26.jpg){: .img-right}
 

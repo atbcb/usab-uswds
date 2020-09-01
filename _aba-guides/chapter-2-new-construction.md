@@ -4,7 +4,7 @@ order-number: 2
 file: new-construction-ABA.pdf
 file-description: PDF version of Chapter 2 New Construction Guide
 ---
-This guide provides an introduction to the scoping requirements of the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) and is intended to be used with a complete copy of the ABA Standards since it does not contain or address the full content of the Standards. It is important that users familiarize themselves with the specific scoping requirements contained in the ABA Standards.
+This guide provides an introduction to the scoping requirements of the [ABA Standards]({{ site.baseurl }}/aba/) and is intended to be used with a complete copy of the ABA Standards since it does not contain or address the full content of the Standards. It is important that users familiarize themselves with the specific scoping requirements contained in the ABA Standards.
 
 
 ### Scoping Requirements
@@ -17,7 +17,7 @@ Applicable building codes, design practices, and other factors determine the ele
 
 ### Application
 
-[[§F201](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F201%20Application)]
+[[§F201]({{ site.baseurl }}/aba/ch02/#F201-Application)]
 
 The ABA Standards apply to the various types of federally funded facilities subject to the ABA, from simple structures to complex, multi-facility sites. Requirements in the standards apply to both exterior and interior spaces and elements provided on a site, usually without distinction. Provisions for parking, for example, apply equally to exterior lots and to parking garages. The standards cover permanent facilities and temporary facilities (other than those used in construction), such as reviewing stands, stages, portable toilets, and temporary classrooms.
 
@@ -28,7 +28,7 @@ In new construction, all areas must be fully accessible, including multiple spac
 
 ### General Exceptions
 
-[[§F203](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F203%20General%20Exceptions)]
+[[§F203]({{ site.baseurl }}/aba/ch02/#F203-General-Exceptions)]
 
 These structures and spaces are fully exempt from the standards and are not required to be accessible or on an accessible route:
 
@@ -99,7 +99,7 @@ These structures and spaces are also exempt:
 
 ### Scoping Requirements
 
-[[§F204 – §F248](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F204%20Protruding%20Objects)]
+[[§F204]({{ site.baseurl }}/aba/ch02/#F204-Protruding-Objects) – [§F248]({{ site.baseurl }}/aba/ch02/#F248-Beach-Access-Routes)]
 
 Scoping provisions for elements and spaces, which are summarized here, are further discussed with relevant technical provisions in the following chapters of this guide.
 
