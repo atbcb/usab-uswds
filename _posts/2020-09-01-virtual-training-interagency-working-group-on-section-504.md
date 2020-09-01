@@ -3,6 +3,8 @@ layout: post
 title: ' Virtual Training: Interagency Working Group on Section 504'
 date: 'September 1, 2020'
 excerpt: Virtual training on signage
+authors:
+  - dave-yanchulis
 tags:
   - trainings
 webinar: true
