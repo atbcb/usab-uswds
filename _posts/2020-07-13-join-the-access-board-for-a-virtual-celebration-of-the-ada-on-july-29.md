@@ -7,7 +7,7 @@ excerpt: >-
   public meeting on July 29 from 1:30 – 3:00 (ET). The event will feature a
   discussion of the ADA and its achievements with guest speakers and Access
   Board members.
-image: uploads/ada-30.png
+image: /images/uploads/ada-30.png
 image_alt_text: 'Celebrating 30 years of the ADA 1990-2020, Pres. Bush signing the ADA'
 authors:
   - dave-yanchulis

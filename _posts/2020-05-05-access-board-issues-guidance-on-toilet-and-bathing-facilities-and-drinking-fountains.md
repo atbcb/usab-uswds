@@ -7,7 +7,7 @@ date: 'May 05, 2020'
 excerpt: >-
   The Access Board has released technical bulletins on accessibility to
   restrooms, bathing facilities, and drinking fountains.
-image: chapter6-guides.png
+image: /images/uploads/chapter6-guides.png
 image_alt_text: Composite screenshot of first page from three technical bulletins.
 authors:
   - dave-yanchulis
