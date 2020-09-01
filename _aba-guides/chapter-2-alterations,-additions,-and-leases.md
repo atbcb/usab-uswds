@@ -4,23 +4,23 @@ order-number: 3
 file: alterations-ABA.pdf
 file-description: PDF version of Chapter 2 Alterations Guide
 ---
-This guide provides an introduction to the scoping requirements of the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) and is intended to be used with a complete copy of the ABA Standards since it does not contain or address the full content of the Standards. It is important that users familiarize themselves with the specific scoping requirements contained in the ABA Standards.
+This guide provides an introduction to the scoping requirements of the [ABA Standards]({{ site.baseurl }}/aba/) and is intended to be used with a complete copy of the ABA Standards since it does not contain or address the full content of the Standards. It is important that users familiarize themselves with the specific scoping requirements contained in the ABA Standards.
 
 ### General 
 
-[[§F202.1](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F202%20Existing%20Buildings%20and%20Facilities)]
+[[§F202.1]({{ site.baseurl }}/aba/ch02/#f2021)]
 
 <div class="clearfix border float-right padding-left-1 padding-right-1 margin-1" markdown="1" style="width: 35%;">
 ![cover of the Uniform Federal Accessibility Standards (UFAS)]({{ site.baseurl }}{{ page.image-directory }}chapter2-aba/nc3.jpg){: .float-right .img-right}
 
-_Additions, alterations, and leasing actions may require retrofit of existing elements. Existing elements that meet earlier editions of the ABA standards, such as the_ [Uniform Federal Accessibility Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas)_, do not have to be modified to meet the current standards unless altered (§F203.2)._
+_Additions, alterations, and leasing actions may require retrofit of existing elements. Existing elements that meet earlier editions of the ABA standards, such as the_ [Uniform Federal Accessibility Standards]({{ site.baseurl }}/ufas/)_, do not have to be modified to meet the current standards unless altered (§F203.2)._
 </div>
 
 Additions and alterations undertaken at existing facilities are covered by the ABA Standards. The extent of application is largely determined by a project’s scope of work as the standards apply to those elements or spaces that are altered or added. Additional requirements apply to projects that affect or could affect the usability of, or access to, an area containing a primary function. The standards also require certain elements and spaces to comply in existing facilities leased by Federal agencies.
 
 ### Additions 
 
-[[§F202.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F202%20Existing%20Buildings%20and%20Facilities)]
+[[§F202.2]({{ site.baseurl }}/aba/ch02/#f2022)]
 
 Projects that increase, expand, or extend a facility’s gross floor area or height of a facility are considered additions (as defined in §F106.5) and must comply with requirements of the standards applicable to new construction. However, existing elements and spaces affected by an addition are treated as alterations and qualify for certain allowances or exceptions that are not permitted in new construction.
 
@@ -46,7 +46,7 @@ _If not included in an addition, these elements and spaces must be made accessib
 
 ### Alterations
 
-[[§F202.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F202%20Existing%20Buildings%20and%20Facilities)]
+[[§F202.3]({{ site.baseurl }}/aba/ch02/#f2023)]
 
 Alterations are defined in the standards (§F106.5) as “a change in a building or facility that affects or could affect the usability of a building or facility or portion thereof.” Many types of projects are covered as “alterations”, including remodeling, renovation, rehabilitation, reconstruction, restoration, resurfacing of circulation paths or vehicular ways, and changes or rearrangement of structural parts, elements, or walls. Normal maintenance, reroofing, painting or wallpapering, or changes to mechanical and electrical systems are not considered alterations unless they affect a facility’s usability. For example, a project limited to an HVAC system that includes the addition of thermostats would affect a facility’s usability because it involves elements (operable parts) covered by the standards.
 
@@ -141,7 +141,7 @@ Other examples where compliance could potentially be technically infeasible incl
 
 ### Alterations Affecting Primary Function Areas
 
-[[§F202.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F202%20Existing%20Buildings%20and%20Facilities)]
+[[§F202.4]({{ site.baseurl }}/aba/ch02/#f2024)]
 
 Additional requirements apply when alterations are made to areas containing a “primary function”, which is a major activity intended for a facility. Examples of primary function areas include dining areas of a restaurant, retail space in a store, exam rooms in a doctor’s office, classrooms in a school, and offices and other work areas where the activities of a covered entity are carried out. Spaces not considered primary function areas include entrances, corridors, restrooms, break rooms, employee locker rooms, and mechanical or electrical closets. Restrooms are not primary function areas unless their provision is the primary purpose of a facility, such as a highway rest stop.
 
@@ -176,7 +176,7 @@ Compliance is required up to the point the 20% cost cap is reached, even where i
 
 ### Alterations to Qualified Historic Facilities
 
-[[§F202.5](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F202%20Existing%20Buildings%20and%20Facilities)]
+[[§F202.5]({{ site.baseurl }}/aba/ch02/#f2025)]
 
 ![Historic designation plaque: "This property has been placed on the National Register of Historic Places"]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a14.jpg){: .float-right .thumbnail-wide}
 
@@ -190,7 +190,7 @@ The standards also provide several exceptions where compliance with the standard
 
 ### Leases
 
-[[§F202.6](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F202%20Existing%20Buildings%20and%20Facilities)]
+[[§F202.6]({{ site.baseurl }}/aba/ch02/#f2026)]
 
 <div class="border float-right padding-left-1 padding-right-1" markdown="1" style="width: 35%;">
 ![GSA logo]({{ site.baseurl }}{{ page.image-directory }}chapter2-aba/a4.jpg){: .float-right .img-right}

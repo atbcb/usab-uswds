@@ -7,4 +7,4 @@ permalink: /about/members.html
 
 # {{ page.title }}
 
-TBD, plan is to use [Jekyll data files](https://jekyllrb.com/docs/datafiles/) to build this page.
+{% include members.html %}
