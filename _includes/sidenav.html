@@ -1,7 +1,7 @@
 {% comment %}
 The sidenav is not loaded by default on the main pages. To include this navigation you can either use the
 _layouts/page.html layout template, or you can add "sidenav: true" in the front-matter of your pages.
-BB 5/29/20: visually, adding padding-left:2em to menu items that are not links would also works
+BB 5/29/20: visually, adding padding-left:2em to menu items that are not links would also work
 {% endcomment %}
 
 <aside class="usa-layout-docs-sidenav desktop:grid-col-3 padding-bottom-4">
@@ -18,6 +18,13 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
             <a name="meetings" class="usa-current">Board Meetings &rarr;</a>
             {% else %}
             <a href="{{ site.baseurl }}/about/meetings.html">Board Meetings</a>
+            {% endif %}
+          </li>
+          <li class="usa-sidenav__item">
+            {% if page.title == "Board Members" %}
+            <a name="members" class="usa-current">Board Members &rarr;</a>
+            {% else %}
+            <a href="{{ site.baseurl }}/about/members.html">Board Members</a>
             {% endif %}
           </li>
           <li class="usa-sidenav__item">
