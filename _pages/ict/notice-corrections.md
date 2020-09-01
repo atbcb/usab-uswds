@@ -74,7 +74,7 @@ In this direct final rule, the Access Board restores the TTY-related requirement
 
 Under the ICT Final Rule, Federal agencies were afforded one year from rule publication (i.e., Jan. 18, 2018) to comply with the revised 508 Standards. 82 FR at 5790, 5792 & 5821. The Access Board seeks to restore TTY-related requirements to the 508 Standards prior to this compliance date. The Board is not aware of any Federal agency having relied on the mistaken omission of TTY-related requirements from the ICT Final Rule as authorization to reduce or eliminate TTY functionality on their ICT with two-way voice communication.
 
-#### **2\. Amended TTY Requirements
+#### 2\. Amended TTY Requirements
 
 As discussed in the preamble to the ICT Final Rule, the revised 508 Standards and 255 Guidelines feature significantly revamped organizational format and wording relative to their predecessor standards and guidelines. See 82 FR at 5790 - 91. The TTY-related accessibility requirements from the original 508 Standards and 255 Guidelines thus could not simply be reinserted into the revised standards and guidelines using their original wording and section numbering. Consequently, in this direct final rule, the TTY-related requirements from the original 508 Standards and 255 Guidelines have been modestly revised -- in minor, non-substantive ways -- so that they conform to the updated formatting and terminology used in the ICT Final Rule
 
@@ -145,23 +145,23 @@ For the reasons stated in the preamble, and under the authority of 47 U.S.C. 255
 
 ####  Appendix B to Part 1194--Section 255 of the Communications Act: Application and Scoping Requirements
 
-* * * * *
+\* * * * *
 
 C204.1 * * *
 
 EXCEPTION: Components of telecommunications equipment and customer premises equipment shall not be required to conform to 402, 407.7, 407.8, 408, 412.8.4, and 415.
 
-* * * * *
+\* * * * *
 
 4\. In appendix C to part 1194, add sections 412.8, 412.8.1, 412.8.2, 412.8.3, and 412.8.4 in numerical order to read as follows:
 
 #### Appendix C to Part 1194--Functional Performance Criteria and Technical
 
-* * * * *
+\* * * * *
 
 ##### 412 ICT With Two-Way Voice Communication
 
-* * * * *
+\* * * * *
 
 412.8 *Legacy TTY Support*. ICT equipment or systems with two-way voice communication that do not themselves provide TTY functionality shall conform to 412.8.
 
@@ -173,7 +173,7 @@ EXCEPTION: Components of telecommunications equipment and customer premises equi
 
 412.8.4 *Voice Mail and Other Messaging Systems.* Where provided, voice mail, auto-attendant, interactive voice response, and caller identification systems shall be usable with a TTY.
 
-* * * * *
+\* * * * *
 
 Approved by notational vote of the Access Board on January 12, 2018.
 
