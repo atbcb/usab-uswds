@@ -118,7 +118,7 @@ This direct final rule does not contain any new collections of information or re
 
 #### F. Unfunded Mandates Reform Act
 
-The Unfunded Mandates Reform Act of 1995 (codified at 2 U.S.C. 1531 et seq.) ("UMRA") generally requires that Federal agencies assess the effects of their discretionary regulatory actions that may result in the expenditure of $100 million (adjusted for inflation) or more in any one year by the private sector, or by state, local, and tribal governments in the aggregate. Because this direct final rule is being issued under the good cause exception in the Administrative Procedure Act section 553(b)(B), UMRA's analytical requirements are inapplicable. See 2 U.S.C. 1532(a).\
+The Unfunded Mandates Reform Act of 1995 (codified at 2 U.S.C. 1531 et seq.) ("UMRA") generally requires that Federal agencies assess the effects of their discretionary regulatory actions that may result in the expenditure of $100 million (adjusted for inflation) or more in any one year by the private sector, or by state, local, and tribal governments in the aggregate. Because this direct final rule is being issued under the good cause exception in the Administrative Procedure Act section 553(b)(B), UMRA's analytical requirements are inapplicable. See 2 U.S.C. 1532(a).
 
 ### List of Subjects
 
@@ -178,5 +178,5 @@ EXCEPTION: Components of telecommunications equipment and customer premises equi
 Approved by notational vote of the Access Board on January 12, 2018.
 
 /s/  
-David M. Capozzi,  
+David M. Capozzi, 
 Executive Director.
