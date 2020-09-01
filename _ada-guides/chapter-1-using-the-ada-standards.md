@@ -25,8 +25,8 @@ to the ADA and must comply with the ADA Standards in new construction
 and alterations. All types of public facilities are covered, including
 schools, hospitals, public housing, courthouses, and prisons. Federal
 facilities are not covered by the ADA, but by an earlier law, the
-Architectural Barriers Act (ABA) and must meet separate, though very
-similar, [standards]({{ site.baseurl }}/aba/).
+[Architectural Barriers Act (ABA)]({{ site.baseurl }}/aba/) and must meet separate, though very
+similar, standards.
 
 #### Places of Public Accommodation and Commercial Facilities
 
@@ -292,9 +292,9 @@ standard), which is highly consistent with the technical chapters (3-10)
 of the ADA guidelines. There are some substantive differences. For
 example, unlike the ADA guidelines, the ANSI standards require an
 additional vertical grab bar at water closets, transfer shower stalls,
-and tubs. Detailed comparisons between the 2004 ADA guidelines and the
-IBC/ANSI standard are available on the Access Board's
-[website]({{ site.baseurl }}/ada/ada-ibc-comparison/) and the International Code Council's
+and tubs. [Detailed comparisons between the 2004 ADA guidelines and the
+IBC/ANSI standard]({{ site.baseurl }}/ada/ada-ibc-comparison/) are available on the Access Board's
+website and the International Code Council's
 website at
 [www.iccsafe.org](http://www.iccsafe.org/safety/Pages/accessibility-1.aspx).
 

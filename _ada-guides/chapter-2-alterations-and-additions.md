@@ -5,8 +5,8 @@ file: alterations.pdf
 file-description: PDF version of Chapter 2 Alterations Guide
 ---
 
-This guide provides an introduction to the scoping requirements that form the basis for the Department of Justice's [2010 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) and the Department of Transportation\'s [ADA
-Standards](../../../transportation/facilities/ada-standards-for-transportation-facilities.html) and is not intended to be comprehensive or used as a stand-alone technical guide to those requirements. Users of this guide must familiarize themselves with the specific scoping requirements that apply to each element, building, facility, or site that is subject to the Standards adopted to implement titles II and III of the ADA. See the introduction to the guide on "ADA Scoping: New Construction" for further discussion.
+This guide provides an introduction to the scoping requirements that form the basis for the Department of Justice's [2010 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) and the Department of Transportation\'s ADA
+Standards and is not intended to be comprehensive or used as a stand-alone technical guide to those requirements. Users of this guide must familiarize themselves with the specific scoping requirements that apply to each element, building, facility, or site that is subject to the Standards adopted to implement titles II and III of the ADA. See the introduction to the guide on "ADA Scoping: New Construction" for further discussion.
 
 ### General
 
