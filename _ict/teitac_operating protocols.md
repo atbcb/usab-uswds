@@ -3,13 +3,13 @@ Operating Protocols
 
 ### Telecommunications and Electronic and Information Technology Access Advisory Committee
 
-**Introduction**
+#### Introduction
 
 The goal of this advisory committee is to make recommendations to the Access Board regarding accessibility standards for electronic and information technology and accessibility guidelines for telecommunications equipment covered by section 508 of the Rehabilitation Act Amendments of 1998 and Section 255(e) of the Telecommunications Act of 1996. The recommendations should address issues such as: types of technologies to be covered by the standards and guidelines; barriers to the use of such technologies by persons with disabilities; solutions to such barriers, if known, and research on such barriers; contents of the standards and guidelines; and harmonization with international standards efforts in this area.
 
 The advisory committee process is intended to facilitate discussion among its members. Participants enter the proceedings in good faith in an effort to reach a speedy and amicable set of recommendations on a variety of issues. Participants agree to participate fully and openly in the discussions with a sincere desire to explore alternatives and solutions to a variety of concerns. All members agree to exchange information to the fullest extent practicable and agree not to divulge information shared by others in confidence. Nothing in these protocols shall prevent a member from making public or using its own proposals in any future proceeding.
 
-**Participation**
+#### Participation
 
 **1\. Interests Represented.** The committee will be composed of a cross section of organizations representing a variety of interests regarding telecommunications and electronic and information technology access.
 
@@ -27,7 +27,7 @@ Committee members may be accompanied by other advisors as that member believes a
 
 **7\. Subcommittees.** Subcommittees may be formed to address specific issues within the scope of the advisory committee's responsibilities. Subcommittees are open to anyone although balance among interests should be maintained. Subcommittees may meet at the same time the full committee meets, or in between full committee meetings. However, subcommittees are encouraged to meet in between full committee meetings. Subcommittees may offer recommendations to the committee. However, subcommittees are not authorized to make recommendations for the committee. In subcommittees, anyone in attendance can participate. Subcommittee leadership and methods of work shall be decided by the subcommittee. Subcommittee meetings shall be conducted in a manner that is accessible to all those in attendance. Chairs of subcommittees shall be members of the committee. Subcommittees shall publish their meeting schedules and other work mechanisms in advance to the public.
 
-**Meetings**
+#### Meetings
 
 **8\. FACA.** The advisory committee meetings will be conducted under the rules of the Federal Advisory Committee Act (FACA).
 
@@ -51,15 +51,15 @@ Committee members may be accompanied by other advisors as that member believes a
 
 **18\. Written Materials.** Written materials that are distributed to the committee should be in print and accessible electronic format. Persons who distribute written materials during committee meetings should provide 100 print copies and sufficient copies in a variety of accessible formats, including, but not necessarily limited to large print, Braille and accessible electronic format. Persons intending to provide written materials should contact the DFO for detailed instructions on the requirements for accessible formats and the number of accessible copies. If written materials to be distributed to the committee are provided to the Access Board seven days in advance of a meeting the Access Board will provide sufficient print and accessible format copies.
 
-**Recommendations**
+#### Recommendations
 
 **19\. Product of Advisory Committee Meetings.** The intended product of the advisory committee is a set of recommendations in the form of a written statement, which should be signed by all committee members. The recommendations will be used by the Access Board in developing a proposed rule for accessibility standards for electronic and information technology and for accessibility guidelines for telecommunications products.
 
 Committee meetings should be conducted and work performed in a spirit of collegiality and consensus should be achieved to the extent possible. Nothing in these protocols shall require any member to agree on any specific issue. The purpose of the committee is to give advice and recommendations, not make decisions. Members should strive to find common ground and articulate it in its recommendations. Any committee member may prepare a minority report for the record. Minority reports will be incorporated into the committee's final report.
 
-**Protocol Amendments**
+#### Protocol Amendments
 
-20\. The members may amend the protocols at any time.
+**20\.** The members may amend the protocols at any time.
 
-Approved\
+Approved  
 September 27, 2006
