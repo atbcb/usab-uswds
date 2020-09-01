@@ -1,5 +1,3 @@
-[Print](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/background/advisory-committee-charter#)
-
 Committee Charter
 -----------------
 
@@ -13,14 +11,10 @@ Committee Charter
 
 **5\. DUTIES AND FUNCTIONS:** Consistent with the scope and objectives described in paragraph 4 of this charter, the Committee is authorized to make recommendations to the Access Board on:
 
-> (a) types of products to be covered;
->
-> (b) barriers to the use of such products by persons with disabilities;
->
-> (c) solutions to such barriers, if known, and research on such barriers;
->
-> (d) harmonization with international standards efforts in this area; and
->
+> (a) types of products to be covered;  
+> (b) barriers to the use of such products by persons with disabilities;  
+> (c) solutions to such barriers, if known, and research on such barriers;  
+> (d) harmonization with international standards efforts in this area; and  
 > (e) contents of the revised and updated guidelines and standards.
 
 **6\. MEMBERSHIP:** The membership will be balanced in terms of points of view represented, including Federal agencies; the telecommunications and electronic and information technology industry, including manufacturers; organizations representing the access needs of individuals with disabilities; representatives from other countries and international standards setting organizations; and other organizations affected by the accessibility guidelines and standards. Representatives of each of these interests shall be selected by the Chairperson of the Access Board and appointed as Committee members for the duration of the Committee's existence.\
@@ -38,13 +32,13 @@ Committee Charter
 **12\. DURATION:** The Committee will terminate two years from the date of filing this charter with the appropriate Committees of Congress, unless the Committee is renewed or terminated sooner.
 
 November 9, 2005  
-________________________  
+\________________________  
 Board Approval Date
 
-April 27, 2006\
-________________________  
+April 27, 2006  
+\________________________  
 GSA Review Date
 
-July 30, 2006\
-________________________  
+July 30, 2006  
+\________________________  
 Date Filed with Congress
