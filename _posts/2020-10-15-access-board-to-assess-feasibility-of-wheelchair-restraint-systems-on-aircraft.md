@@ -10,7 +10,7 @@ excerpt: >-
   typically customized for the user’s safety, comfort, and specific medical
   needs. Further, passengers’ wheelchairs are stowed in the cargo hold and often
   damaged, mishandled, or lost as a result.
-image: images/uploads/awrs.png
+image: /images/uploads/awrs.png
 image_alt_text: 'Airplane image '
 webinar: false
 webinar-start: ''
