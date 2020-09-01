@@ -5,7 +5,7 @@ date: April 30, 2020
 authors:
   - david-capozzi
 excerpt: Like most of the federal workforce, Board staff have been teleworking since mid-March due to the coronavirus pandemic.
-image: board-services.png
+image: /images/uploads/board-services.png
 image_alt_text: icons for technical assistance, webinars, and casework
 webinar: false
 webinar-start: ''

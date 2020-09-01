@@ -4,11 +4,11 @@ order-number: 10
 file: ramps.pdf
 file-description: PDF version of Chapter 4 Ramps and Curb Ramps Guide
 ---
-This guide explains requirements in the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) for ramps and curb ramps.
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for ramps and curb ramps.
 
 ### Where Ramps and Curb Ramps are Required
 
-[[§303.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#303%20Changes%20in%20Level)]
+[[§303.4]({{ site.baseurl }}/aba/ch03/#a3034)]
 
 Ramps and curb ramps are required along accessible routes to span changes in level greater than ½”.  Elevators and, under certain specified conditions, platform lifts, can be used as an alternative.  Portions of accessible routes with running slopes steeper than 5% also must be treated as ramps.
 
@@ -18,7 +18,7 @@ Ramps and curb ramps are required along accessible routes to span changes in lev
 
 ### Slope and Cross Slope
 
-[[§405.2](../ada-standards/chapter-4-accessible-routes.html#405%20Ramps) and [§405.3](../ada-standards/chapter-4-accessible-routes.html#405%20Ramps)]
+[[§405.2]({{ site.baseurl }}/aba/ch04/#a4052) and [§405.3]({{ site.baseurl }}/aba/ch04/#a4053)]
 
 ![Slope shown to equal to ratio of rise to length]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr3.jpg){: .img-right .img-medium}
 
@@ -30,7 +30,7 @@ text= "Providing the least possible slope below the 1:12 (8.33%) maximum offers 
 
 ### Clear Width
 
-[[§405.5](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#405%20Ramps)]
+[[§405.5]({{ site.baseurl }}/aba/ch04/#a4055)]
 
 Ramp runs must have a clear width of 36” minimum (measured between handrails where provided).  The width of ramps that are part of a means of egress may further be determined by applicable life safety codes and requirements for minimum exit widths greater than 36”.
 
@@ -46,13 +46,13 @@ In employee work areas, ramps on common use circulation paths are permitted exce
 
 ### Rise 
 
-[[§405.6](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#405%20Ramps)]
+[[§405.6]({{ site.baseurl }}/aba/ch04/#a4056)]
 
 The height of runs is limited (30” max.), but there is no limit on the number of runs a ramp may have. Long ramps with many runs can be strenuous for people using manual wheelchairs.  While intermediate landings offer resting points, they do not reduce the amount of effort that must be exerted to negotiate multiple runs.
 
 Landings
 
-[[§405.7](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#405%20Ramps)]
+[[§405.7]({{ site.baseurl }}/aba/ch04/#a4057)]
 
 Level landings are required at the top and bottom of each run.  Changes in level greater than 1:48 are not permitted at landings. Landings must be designed to prevent the accumulation of water.
 
@@ -66,7 +66,7 @@ Intermediate landings between runs must be at least 60” wide clear and 60” l
 
 ### Doorways at Landings
 
-[[§405.7.5](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#405%20Ramps)]
+[[§405.7.5]({{ site.baseurl }}/aba/ch04/#a40575)]
 
 Required door maneuvering clearances can overlap ramp landings (it is advisable to locate the swing of doors outside ramp landings for greater safety).
 
@@ -76,7 +76,7 @@ Required door maneuvering clearances can overlap ramp landings (it is advisable 
 
 ### Handrails
 
-[[§405.8](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#405%20Ramps), [§505](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-5-general-site-and-building-elements#505%20Handrails)]
+[[§405.8]({{ site.baseurl }}/aba/ch04/#a4058), [§505]({{ site.baseurl }}/aba/ch05/#505-Handrails)]
 
 Handrails are required on both sides of ramps with a rise greater than 6”.  The Standards do not require lower handrails serving children except at ramps serving play areas, but include a recommended height (28” max.) and separation (9” min.) from the required handrail to minimize entrapment hazards.
 
@@ -120,7 +120,7 @@ img-alt= "Aisle ramp with seating on both sides and center handrail that is disc
 
 ### Edge Protection
 
-[[§405.9](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#405%20Ramps)]
+[[§405.9]({{ site.baseurl }}/aba/ch04/#a4059)]
 
 Edge protection along ramp runs and landings keep wheelchair casters and crutch tips on the surface and can be provided by curbs, barriers, or extended surfaces.
 
@@ -161,13 +161,13 @@ Edge protection is not required at:
   
 ### Wet Conditions
 
-[[§405.10](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#405%20Ramps)]
+[[§405.10]({{ site.baseurl }}/aba/ch04/#a40510)]
 
 Landings subject to wet conditions must be designed to prevent the accumulation of water.  Landings are permitted slopes not steeper than 1:48 to allow for drainage.
 
 ### Curb Ramps
 
-[[§406](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#406%20Curb%20Ramps)]
+[[§406]({{ site.baseurl }}/aba/ch04/#406-Curb-Ramps)]
 
 Requirements for curb ramps apply to ramps that cut through curbs or are built up to them.  New guidelines the Board is developing for public rights-of-way will further address curb ramps located along public streets and sidewalks, but they are not discussed in this guide.
 
@@ -179,7 +179,7 @@ Requirements for curb ramps apply to ramps that cut through curbs or are built u
   
 #### Top Landing
 
-[[§406.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#406%20Curb%20Ramps)]
+[[§406.4]({{ site.baseurl }}/aba/ch04/#a4064)]
 
 The required landing at the top of curb ramps allows an accessible route to connect to the ramp opening.  Side flares, where provided, are intended primarily to prevent tripping hazards, not to accommodate wheelchair maneuvering at ramps (except in alterations where sufficient landing space is unavailable).  Side flare slopes cannot exceed 1:10 max. (or 1:12 max. in alterations where a top landing is unavailable).
 
@@ -214,11 +214,9 @@ parallel accessible route">
 
 #### Sides of Curb Ramps
 
-[[§406.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#406%20Curb%20Ramps)]
+[[§406.3]({{ site.baseurl }}/aba/ch04/#a4063)]
 
 Curb ramps can have returned sides, but a top landing is required under all conditions to allow maneuvering to and from the run.  
-
-**Built-Up Curb Ramps -- Confirm with Dave**
 
 ![Curb ramp with returned sides with planter on one side and grass strip o the other and a top landing at least 36” long]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr24.jpg){: .img-large}
 
@@ -261,7 +259,7 @@ Curb ramps must be oriented so that the grade break is perpendicular to the curb
 
 #### Diagonal Curb Ramps
 
-[[§406.6](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#406%20Curb%20Ramps)]
+[[§406.6]({{ site.baseurl }}/aba/ch04/#a4066)]
 
 <div class="clearfix" markdown="1">
 ![Diagonal curb ramp with a clear space 48” long min. at the bottom that is located within marked crossings and segment of curb 24” min. long beyond flares on both sides within marked crossings.   ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr29.jpg){: .float-right .img-medium}
@@ -283,7 +281,7 @@ Raised crossings, where provided, eliminate the need for curb ramps while servin
 
 #### Islands
 
-[[§406.7](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#406%20Curb%20Ramps)]
+[[§406.7]({{ site.baseurl }}/aba/ch04/#a4067)]
 
 A 48” min. long separation is necessary between curb ramps so that people using wheelchairs can clear one ramp before negotiating the next.  Level cut-throughs provide an effective alternative, especially at narrow islands that will not accommodate opposing curb ramps with a 48” separation. 
 
@@ -297,7 +295,7 @@ A 48” min. long separation is necessary between curb ramps so that people usin
 
 #### Detectable Warnings
 
-[[§406.8](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#406%20Curb%20Ramps), (DOT’s Standards), [§705](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-7-communication-elements-and-features)]
+[[§406.8]({{ site.baseurl }}/aba/ch04/#a4068), (DOT’s Standards), [§705]({{ site.baseurl }}/aba/ch07/#705-Detectable-Warnings)]
 
 ![Transit icon ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr33.jpg){: .float-right .thumbnail}
 

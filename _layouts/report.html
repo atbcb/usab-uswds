@@ -15,7 +15,7 @@ layout: default
   <div class="grid-container">
     <div class="grid-row grid-gap">
 
-        
+
 
 
         <aside id="toc-aside" class="desktop:grid-col-3 margin-bottom-2 bg-white sticky">
@@ -44,16 +44,16 @@ layout: default
             </ul>
           </nav>
         </aside>
-        
+
 
 
 
       <div id="standard" class="desktop:grid-col usa-prose">
-        <h2 class="text-center text-italic">{{page.title}}</h2>
+        <h2 class="">{{page.title}}</h2>
         {% if page.file %}
         <div class="clearfix">
             <span class="float-right">{{ page.file-description }}
-            <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" target="_blank">
+            <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" target="_blank" rel="noreferrer">
             <button class="usa-button ">Download</button>
             </a>
             </span>
