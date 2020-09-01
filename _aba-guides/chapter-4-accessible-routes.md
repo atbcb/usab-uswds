@@ -1,14 +1,14 @@
 ---
 title: "Chapter 4: Accessible Routes"
-order-number: 7
+order-number: 8
 file: accessible-routes-ABA.pdf
 file-description: PDF version of Chapter 4 Accessible Routes Guide
 ---
-This guide explains scoping and technical requirements for accessible routes in the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards). 
+This guide explains scoping and technical requirements for accessible routes in the [ABA Standards]({{ site.baseurl }}/aba/). 
 
 ### Where Required: Site Arrival Points
 
-[[§F206.2.1](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F206%20Accessible%20Routes)]
+[[§F206.2.1]({{ site.baseurl }}/aba/ch02/#f20621)]
 
 At least one accessible route must be provided within the site to accessible facility entrances from these site arrival points, where provided:
 
@@ -24,7 +24,7 @@ At least one accessible route must be provided within the site to accessible fac
 
 ### Accessible Routes within a Site
 
-[[§F206.2.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F206%20Accessible%20Routes)]
+[[§F206.2.2]({{ site.baseurl }}/aba/ch02/#f20622)]
 
 At least one accessible route within the boundary of the site originating from site arrival points must connect all accessible buildings, facilities, elements, and spaces on a site.
 
@@ -44,7 +44,7 @@ text= "In alterations, an accessible route is required where circulation paths a
 
 ### Where Required: Multi-Story Buildings and Facilities
 
-[[§F206.2.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F206%20Accessible%20Routes)]
+[[§F206.2.3]({{ site.baseurl }}/aba/ch02/#f20623)]
 
 An accessible route must connect each story and mezzanine in a facility unless an exception applies. However, if a building does qualify for an exception in the Standards:
 
@@ -73,7 +73,7 @@ An accessible route must serve mezzanines in multi-story facilities where vertic
 
 ### Alterations and Additions
 
-[§F206.2.3.1](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F206%20Accessible%20Routes), [§F202.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F202%20Existing%20Buildings%20and%20Facilities)]
+[§F206.2.3.1]({{ site.baseurl }}/aba/ch02/#f206231), [§F202.4]({{ site.baseurl }}/aba/ch02/#f2024)]
 
 In alterations to multi-story facilities, an accessible route to stories and mezzanines is required where a stair or escalator is provided where none existed previously and major structural modifications are necessary (§F206.2.3.1). The accessible route must connect each level served by the new stair or escalator (except where a compliant connecting accessible route already exists).
 
@@ -87,7 +87,7 @@ Exceptions for accessible routes between stories and to mezzanines permitted in 
 
 ### Accessible Routes to Accessible Spaces and Elements
 
-[[§F206.2.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F206%20Accessible%20Routes)]
+[[§F206.2.4]({{ site.baseurl }}/aba/ch02/#f20624)]
 
 An accessible route must connect accessible facility entrances with all accessible spaces and elements in a facility that are connected by a circulation path (§F206.2.4). Exceptions for accessible routes to stories and mezzanines (§F206.2.3 and §F206.2.4, Ex. 3) do not extend to level changes within a story or mezzanine that are part of a required accessible route to spaces or elements.  These exceptions apply only to the portions of an accessible route that connect stories or that connect a story and mezzanine.
 
@@ -109,7 +109,7 @@ text= "In alterations, an accessible route is not required to existing raised/ s
 
 ### Press Boxes
 
-[[§F206.2.7](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F206%20Accessible%20Routes)]
+[[§F206.2.7]({{ site.baseurl }}/aba/ch02/#f20627)]
 
 An accessible route is required to press boxes except where the aggregate area of all press boxes serving a playing field or assembly area is no more than 500 sq. ft. if press boxes are either:
 
@@ -151,7 +151,7 @@ The ABA Standards also address accessible routes to amusement rides, boating fa
 
 ### Accessible Routes
 
-[[§402](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#402%20Accessible%20Routes)]
+[[§402]({{ site.baseurl }}/aba/ch04/#402-Accessible-Routes)]
 
 Components of accessible routes include walking surfaces, doorways, ramps, curb ramps, elevators, and, where permitted, platform lifts.
 
@@ -161,7 +161,7 @@ Components of accessible routes include walking surfaces, doorways, ramps, curb 
 
 ### Clearances
 
-[[§403.5](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#403%20Walking%20Surfaces)]
+[[§403.5]({{ site.baseurl }}/aba/ch04/#a4035)]
 
 The minimum 36” continuous clear width of accessible routes can reduce to 32” at points, such as doorways, for a maximum distance of 24”.  Greater clearance is required for 180 degree turns around narrow obstructions and for wheelchair turning space.  The minimum clearance cannot be reduced by any elements, including handrails or protruding objects.
 
@@ -175,7 +175,7 @@ Additional clearance is required at 180 degree turns around an element that is l
 
 ### Passing Space
 
-[[§403.5.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#403%20Walking%20Surfaces)]
+[[§403.5.3]({{ site.baseurl }}/aba/ch04/#a40353)]
 
 Passing space is required every 200 feet and must be provided as a 60” by 60” minimum space or as T-shaped space where each stem is at least 48” long.
 
@@ -194,7 +194,7 @@ Passing space is required every 200 feet and must be provided as a 60” by 60�
 
 ### Handrails Along Walking Surfaces
 
-[[§403.6](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#403%20Walking%20Surfaces), [§505](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-5-general-site-and-building-elements#505%20Handrails)]
+[[§403.6]({{ site.baseurl }}/aba/ch04/#a4036), [§505]({{ site.baseurl }}/aba/ch05/#505-Handrails)]
 
 Handrails are required at ramps with a rise greater than 6” and at stairs that are part of a means of egress, but not at other locations.  Where handrails are provided along other portions walking surfaces, they must comply.  (Handrails provided in elevator cabs or on platform lifts are not required to comply).
 
