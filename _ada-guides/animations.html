@@ -7,6 +7,5 @@ datafile: ada-animations
 {% for video in site.data[page.datafile] %}
     {% capture caption_path %}{{ site.baseurl }}/files/captions/{{ video.caption-file }}{% endcapture %}
     {% capture video_path %}{{ site.baseurl }}/files/videos/{{ video.video-file }}{% endcapture %}
-
     {% include video/video-file-player.html name=video.video-name video_path=video_path caption_path=caption_path %}
 {% endfor %}
