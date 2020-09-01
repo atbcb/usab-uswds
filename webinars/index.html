@@ -11,7 +11,7 @@ pagination:
     <div class="grid-row grid-gap margin-top-2">
       <div class="desktop:grid-col-8 usa-prose padding-right-4">
         <!-- This loops through the paginated posts -->
-        {% assign webinars = site.posts | where: "webinar","true" %}
+        {% assign webinars = site.posts | where: "webinar","true" | sort: 'webinar-start'%}
         {% assign today_date = 'now' | date: '%s' %}
         
         <h2>Upcoming Webinars</h2>
@@ -35,9 +35,11 @@ pagination:
             </div>
           </div>
           <div class="clearfix">
-            {% if webinar.image %} {% asset "{{ webinar.image }}"
-            class="img-right maxw-card-lg" alt="{{ webinar.image_alt_text }}" %} {% endif %} {{
-            webinar.excerpt }}
+            {% if webinar.image %}
+            <img src="{{ site.baseurl }}{{ webinar.image }}"
+          class="img-right maxw-card-lg" alt="{{ webinar.image_alt_text }}">
+            {% endif %}
+            {{ webinar.excerpt }}
           </div>
         </div>
         {% endif %}

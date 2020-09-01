@@ -4,11 +4,11 @@ order-number: 18
 file: bathrooms-ABA.pdf
 file-description: PDF version of Chapter 6 Bathing Rooms Guide
 ---
-This guide explains requirements in the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) for bathing rooms. 
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for bathing rooms. 
 
 ### Required Compliance
 
-[[§F213](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§F213]({{ site.baseurl }}/aba/ch02/#F213-Toilet-Facilities-and-Bathing-Facilities)]
 
 Plumbing and building codes address the number and type of bathing rooms and fixtures required for a facility. The ABA Standards, on the other hand, address access to bathing rooms where they are provided. In new construction, access is required to all bathing rooms, including those for employees. However, where single user portable units are provided, at least 5% at each cluster must comply and be labelled by the International Symbol of Accessibility (ISA) unless all in a cluster are accessible (§F213.2. Ex. 3, §F216.8).
 
@@ -16,7 +16,7 @@ Plumbing and building codes address the number and type of bathing rooms and fix
 
 #### Unisex Bathing Rooms
 
-[[§F213.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§F213.2]({{ site.baseurl }}/aba/ch02/#f2132)]
 
 ![Unisex restroom symbol]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/3.png){: .float-right .thumbnail}
 
@@ -24,13 +24,13 @@ Where multi-user bathing rooms are provided, accessible unisex bathing rooms can
 
 #### Additions
 
-[[§F202.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§F202.2]({{ site.baseurl }}/aba/ch02/#f2022)]
 
 Additions are required to comply with requirements in the Standards for new construction. Each bathing room of an addition must comply as would be required in new construction. If an addition does not include any bathing facility, at least one bathing facility for each sex in the existing portion of the facility must be made accessible to serve the addition; access to a single unisex bathing facility is permitted if there is only one bathing facility in the facility or if providing access to a men’s and women’s room is technically infeasible (§F202.2, §F213.2 Ex 1).
 
 #### Alterations
 
-[[§F202.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§F202.3]({{ site.baseurl }}/aba/ch02/#f2023)]
 
 When existing bathing rooms are altered, the Standards apply according to the planned scope of work. If one bathing room on a floor is altered, the Standards apply to that room only; if all bathing rooms on a floor are altered, the Standards apply to each bathing room that would be required to comply in new construction. The scope of work also determines which technical requirements apply. If some, but not all, elements in a bathing room are altered, only those elements altered must comply. If a room or space is completely altered (or built new as part of an alteration), the entire room or space must comply.
 
@@ -48,7 +48,7 @@ The Standards do not generally require bathing rooms to be provided in a specifi
 
 ### Bathing Fixtures
 
-[[§F213.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#213%20Toilet%20Facilities%20and%20Bathing%20Facilities)]
+[[§F213.3]({{ site.baseurl }}/aba/ch02/#f2133)]
 
 Bathing facilities must have at least one compliant shower compartment or bathtub. In transient lodging guest rooms, a portion of accessible guest rooms must have a roll-in shower with a folding seat (§F224.2).
 
@@ -71,7 +71,7 @@ one urinal is provided."
 
 ### Roll-In Shower Compartments
 
-[[§608](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#608%20Shower%20Compartments)]
+[[§608]({{ site.baseurl }}/aba/ch06/#608-Shower-Compartments)]
 
 Roll-in shower compartments provide access for shower chairs and other wheeled mobility aids without the need to transfer to a seat. The Standards provide specifications for a standard type and an alternate type of roll-in compartment.
 
@@ -228,7 +228,7 @@ Whether on the side or back wall, the location of the controls, faucet, and show
 
 ### Transfer Shower Compartment
 
-[[§608](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#608%20Shower%20Compartments)]
+[[§608]({{ site.baseurl }}/aba/ch06/#608-Shower-Compartments)]
 
 Transfer shower compartments must have a seat (folding or non-folding) and are sized so that controls and grab bars are usable from the seat. The depth is also limited so that support is available from the back wall once transfer is made to the seat. This is why the width and depth are absolute, not minimum, dimensions of 36".
 
@@ -316,13 +316,13 @@ Note: A folding seat can be included in this solution as specified for roll-in c
 
 ### Controls at Bathtubs and Shower Compartments
 
-[[§607.5](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#607%20Bathtubs), [§608.5](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#608%20Shower%20Compartments)]
+[[§607.5]({{ site.baseurl }}/aba/ch06/#a6075), [§608.5]({{ site.baseurl }}/aba/ch06/#a6085)]
 
 Controls and faucets at showers and bathtubs must be usable with one hand and not require tight grasping, pinching, or twisting of the wrist, or more than 5 pounds of force (lbf) to operate. Their location is specified so that they are within accessible reach range while not obstructing grab bars and are usable from outside transfer shower compartments and bathtubs.
 
 #### Shower Spray Units and Water Temperature at Bathtubs and Shower Compartments
 
-[[§607.6](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#607%20Bathtubs), [§608.6](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#608%20Shower%20Compartments)]
+[[§607.6]({{ site.baseurl }}/aba/ch06/#a6076), [§608.6]({{ site.baseurl }}/aba/ch06/#a6086)]
 
 A hand-held shower spray unit that can also be used in a fixed position is required at all accessible showers and bathtubs. The required on/off control for the hand-held unit must have a "non-positive shut-off" which does not fully stop the flow of water but allows it to be reduced. It also prevents cross-connections and other hazards prohibited by plumbing codes. The water temperature is limited to 120°F.
 
@@ -346,7 +346,7 @@ A fixed shower head at 48" maximum above the shower floor can substitute for a h
 
 ### Grab Bars
 
-[[§607.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#607%20Bathtubs) and [§608.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#608%20Shower%20Compartments)]
+[[§607.4]({{ site.baseurl }}/aba/ch06/#a6074) and [§608.3]({{ site.baseurl }}/aba/ch06/#a6083)]
 
 So that use of grab bars at shower compartments and bathtubs is not impeded, any projecting objects must be located at least 12" above the top surface of grab bars and at least 1½" from the bottom and ends of grab bars. However, other grab bars and shower controls and fittings can be located at least 1½" above grab bars.  
 
@@ -369,7 +369,7 @@ In dwelling units and in single-user bathing facilities accessed only through a 
 
 ### Shower Seats
 
-[[§608.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#608%20Shower%20Compartments), [§610](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#610%20Seats)]
+[[§608.4]({{ site.baseurl }}/aba/ch06/#a6084), [§610]({{ site.baseurl }}/aba/ch06/#610-Seats)]
 
 Seats at transfer and roll-in shower compartments can be rectangular or L-shaped. The L-shaped seat affords users additional support and stability from the back wall. To facilitate transfer, the seat height (17" – 19" measured to the bathroom finish floor) approximates wheelchair seat heights. Seats must extend to a point within 3" of the compartment entry to minimize the transfer gap. Seats must withstand a vertical or horizontal force of 250 lbs. at any point on the seat, fastener, mounting device, or supporting structure. Folding seats can have legs.
 
@@ -388,7 +388,7 @@ Seats at transfer and roll-in shower compartments can be rectangular or L-shaped
 
 ### Bathtubs
 
-[[§607](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#607%20Bathtubs)]
+[[§607]({{ site.baseurl }}/aba/ch06/#607-Bathtubs)]
 
 Bathtubs must be equipped with a removable in-tub seat or a permanent seat at the head end of the tub.
 
@@ -446,7 +446,7 @@ Controls (excluding drain stoppers) must be located below grab bars toward the f
 
 #### Bathtub with Permanent Seat
 
-[[§607](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-6-plumbing-elements-and-facilities#607%20Bathtubs)]
+[[§607]({{ site.baseurl }}/aba/ch06/#607-Bathtubs)]
 
 Permanent seats must be located at the head end and extend from the back wall to or beyond the outer edge of the bathtub. Specifications for grab bars and clearances are different for bathtubs with permanent seats. The head end provides back support at the seat and does not contain the 12" minimum grab bar required at bathtubs with removable seats.
 

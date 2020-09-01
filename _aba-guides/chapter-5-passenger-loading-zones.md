@@ -4,11 +4,11 @@ order-number: 14
 file: pl-ABA.pdf
 file-description: PDF version of Chapter 5 Passenger Loading Zones Guide
 ---
-This guide explains requirements in the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) for passenger loading zones.
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for passenger loading zones.
 
 ### Required Compliance
 
-[[§F209](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops)]
+[[§F209]({{ site.baseurl }}/aba/ch02/#F209-Passenger-Loading-Zones-and-Bus-Stops)]
 
 Where passenger loading zones are provided, at least one accessible passenger loading zone is required in every continuous 100 linear feet of loading zone or fraction thereof.  Compliance is required only where areas are specifically designed or designated for passenger loading, such as those at airports, many hotels, and convention centers.
 
@@ -29,7 +29,7 @@ Accessible passenger loading zones must be provided at these facilities, whether
 
 ### Accessible Passenger Loading Zones
 
-[[§503](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-5-general-site-and-building-elements#503%20Passenger%20Loading%20Zones)]
+[[§503]({{ site.baseurl }}/aba/ch05/#503-Passenger-Loading-Zones)]
 
 Requirements for accessible passenger loading zones address vehicle pull-up spaces and access aisles, including their dimensions, surfacing, and vertical clearance.
 
@@ -37,7 +37,7 @@ Requirements for accessible passenger loading zones address vehicle pull-up spac
 
 ### Bus Loading Areas and On-Street Bus Stops
 
-[[§F209.2.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops) and [§F209.2.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F209%20Passenger%20Loading%20Zones%20and%20Bus%20Stops)]
+[[§F209.2.2]({{ site.baseurl }}/aba/ch02/#f20922) and [§F209.2.3]({{ site.baseurl }}/aba/ch02/#f20923)]
 
 Loading zones designed for buses that provide general or special service, including charter service, to the public on a regular and continuing basis are required to comply with provisions for bus boarding and alighting areas (§810.2) in the transportation facility section of the Standards.  This includes bus service provided by public transit agencies and other state or local government entities, excluding public school transportation (referred to as “designated public transportation” in ADA regulations issued by the Department of Transportation (DOT)).  It also applies to those serving tour, charter, and shuttle buses operated by private entities (referred to as “specified public transportation” in DOT’s regulations).  On-street bus stops also must comply with requirements in §810.2 to the maximum extent practicable.
 

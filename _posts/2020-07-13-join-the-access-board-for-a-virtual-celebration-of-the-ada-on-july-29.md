@@ -7,7 +7,7 @@ excerpt: >-
   public meeting on July 29 from 1:30 – 3:00 (ET). The event will feature a
   discussion of the ADA and its achievements with guest speakers and Access
   Board members.
-image: uploads/ada-30.png
+image: /images/uploads/ada-30.png
 image_alt_text: 'Celebrating 30 years of the ADA 1990-2020, Pres. Bush signing the ADA'
 authors:
   - dave-yanchulis
@@ -20,7 +20,7 @@ The Access Board will celebrate the ADA's 30th anniversary with a virtual public
 
 It will start off with a documentary that provides a vivid picture of the world before the ADA, including widespread discrimination of people with disabilities and early achievements of the disability rights movement. Sruthi Subramanian, a high school student, will introduce and discuss her 11-minute film, which she created for a National History Day competition.
 
-![Judy Heumann]({{ site.baseurl }}uploads/heumann.png "Judy Heumann"){: .img-right}Judy Heumann, a leader in the disability rights movement and lifelong advocate for people with disabilities, will discuss the accomplishments of the ADA. Board Member Sachin Pavithran will join Heumann in this conversation, which will also examine the important role disability rights advocates played in passage of the ADA and its implementation as a landmark civil rights law.
+![Judy Heumann]({{ site.baseurl }}/images/uploads/heumann.png "Judy Heumann"){: .img-right}Judy Heumann, a leader in the disability rights movement and lifelong advocate for people with disabilities, will discuss the accomplishments of the ADA. Board Member Sachin Pavithran will join Heumann in this conversation, which will also examine the important role disability rights advocates played in passage of the ADA and its implementation as a landmark civil rights law.
 
 The event will conclude with a presentation from Board Member and architect Karen Braitmayer on how the ADA has spurred architecture and design to be more inclusive of everyone. She will also review new frontiers in accessibility and work that lies ahead to maintain the promises of the ADA.
 
