@@ -13,7 +13,7 @@ This guide provides an introduction to the scoping requirements of the [ABA Stan
 <div class="clearfix border float-right padding-left-1 padding-right-1 margin-1" markdown="1" style="width: 35%;">
 ![cover of the Uniform Federal Accessibility Standards (UFAS)]({{ site.baseurl }}{{ page.image-directory }}chapter2-aba/nc3.jpg){: .float-right .img-right}
 
-_Additions, alterations, and leasing actions may require retrofit of existing elements. Existing elements that meet earlier editions of the ABA standards, such as the_ [Uniform Federal Accessibility Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas)_, do not have to be modified to meet the current standards unless altered (§F203.2)._
+_Additions, alterations, and leasing actions may require retrofit of existing elements. Existing elements that meet earlier editions of the ABA standards, such as the_ [Uniform Federal Accessibility Standards]({{ site.baseurl }}/ufas/)_, do not have to be modified to meet the current standards unless altered (§F203.2)._
 </div>
 
 Additions and alterations undertaken at existing facilities are covered by the ABA Standards. The extent of application is largely determined by a project’s scope of work as the standards apply to those elements or spaces that are altered or added. Additional requirements apply to projects that affect or could affect the usability of, or access to, an area containing a primary function. The standards also require certain elements and spaces to comply in existing facilities leased by Federal agencies.

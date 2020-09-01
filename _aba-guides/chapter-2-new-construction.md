@@ -36,7 +36,7 @@ These structures and spaces are fully exempt from the standards and are not requ
 img-file= "chapter2-aba/nc3.jpg"
 img-alt= "Cover of the Uniform Federal Accessibility Standards (UFAS)"
 text-title= "Existing Elements (§F203.2)"
-text= "In existing facilities, alterations, additions, or leasing actions may require retrofit of existing elements. Existing elements that meet an earlier ABA standard, such as the <a href=\"https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas\">Uniform Federal Accessibility Standards</a>, do not have to be retrofitted to meet the current standards unless they are altered."
+text= "In existing facilities, alterations, additions, or leasing actions may require retrofit of existing elements. Existing elements that meet an earlier ABA standard, such as the <a href=\"{{ site.baseurl }}/ufas\">Uniform Federal Accessibility Standards</a>, do not have to be retrofitted to meet the current standards unless they are altered."
 text2= "Examples: Existing restrooms, drinking fountains, and telephones in additions or that are part of an accessible path of travel to altered primary function areas do not have to be upgraded to meet the current standards if they comply with a previous ABA standard"
 %}
 
