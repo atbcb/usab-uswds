@@ -4,3 +4,5 @@ This listing includes:
 - Charter
 - Member list
 - FR notices
+- press releases
+- overview
