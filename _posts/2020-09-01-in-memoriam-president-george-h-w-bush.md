@@ -8,7 +8,7 @@ excerpt: >-
   disability and treats accessibility for people with disabilities as a civil
   right. He considered the ADA one of his proudest achievements as President and
   made its implementation a priority of his administration.
-image: images/uploads/ghw-bush.jpg
+image: /images/uploads/ghw-bush.jpg
 image_alt_text: George HW Bush
 tags: []
 webinar: false
