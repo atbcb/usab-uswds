@@ -4,11 +4,11 @@ order-number: 5
 file: clear-floor-space-ABA.pdf
 file-description: PDF version of Chapter 3 Clear Floor Space Guide
 ---
-This guide explains requirements in the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) for clear floor or ground space and turning space. Clearances are required at accessible elements, fixtures, and controls so that people with disabilities, including those who use wheelchairs, can approach and use them. The standards also address maneuvering space for wheelchair turning. Provisions throughout the standards reference these basic “building block” requirements.
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for clear floor or ground space and turning space. Clearances are required at accessible elements, fixtures, and controls so that people with disabilities, including those who use wheelchairs, can approach and use them. The standards also address maneuvering space for wheelchair turning. Provisions throughout the standards reference these basic “building block” requirements.
 
 ### Clear Floor or Ground Space
 
-[[§305](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#305%20Clear%20Floor%20or%20Ground%20Space)]
+[[§305]({{ site.baseurl }}/aba/ch03/#305-Clear-Floor-or-Ground-Space)]
 
 Sufficient clear floor or ground space is required at accessible controls, operable parts, drinking fountains, lavatories and sinks, ATMs and fare machines, appliances, beds, and other elements. Provisions for these elements apply the clear floor or ground specifications in 305.
 
@@ -22,7 +22,7 @@ Clear floor space is required at each accessible element, including storage cabi
 
 ### Position
 
-[[§305.5](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#305%20Clear%20Floor%20or%20Ground%20Space)]
+[[§305.5]({{ site.baseurl }}/aba/ch03/#a3055)]
 
 At most elements, clear floor or ground space can be positioned for either a forward or a side approach. For better usability, a forward approach is required at certain elements, including dining and work surfaces, drinking fountains, lavatories, and most sinks. At other elements, a side approach is allowed. A side approach is typically provided or required at sales and service counters, beds, and most appliances.
 
@@ -49,7 +49,7 @@ text= "Centering the clear floor or ground space on elements is often advisable 
 
 ### Surface and Size
 
-[[§305.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#305%20Clear%20Floor%20or%20Ground%20Space) and [§305.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#305%20Clear%20Floor%20or%20Ground%20Space)]
+[[§305.2]({{ site.baseurl }}/aba/ch03/#a3052) and [§305.3]({{ site.baseurl }}/aba/ch03/#a3053)]
 
 <div class="grid-container">
   <div class="grid-row">
@@ -65,7 +65,7 @@ text= "Centering the clear floor or ground space on elements is often advisable 
 
 ### Approach and Maneuvering Clearance
 
-[[§305.6](/iindex.php?option=com_content&view=article&id=1010&Itemid=953#305%20Clear%20Floor%20or%20Ground%20Space) and [§305.7](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#305%20Clear%20Floor%20or%20Ground%20Space)]
+[[§305.6]({{ site.baseurl }}/aba/ch03/#a3056) and [§305.7]({{ site.baseurl }}/aba/ch03/#a3057)]
 
 Where the space is obstructed on both sides for more than half the depth, additional clearance is required for maneuvering. Accessible routes must connect to the unobstructed side of the space.
 
@@ -73,7 +73,7 @@ Where the space is obstructed on both sides for more than half the depth, additi
 
 ### Knee and Toe Space
 
-[[§305.4](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-3-building-blocks#305%20Clear%20Floor%20or%20Ground%20Space) and [§306](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-3-building-blocks#306%20Knee%20and%20Toe%20Clearance)]
+[[§305.4]({{ site.baseurl }}/aba/ch03/#a3054) and [§306]({{ site.baseurl }}/aba/ch03/#306-Knee-and-Toe-Clearance)]
 
 Objects that provide space for toes or knees can overlap a portion of the clear floor space. Knee and toe space allows a closer approach to elements and reduces the reach to operable parts. It is required at some elements, such as drinking fountains and lavatories, so that people using wheelchairs can pull up to them.
 
@@ -141,7 +141,7 @@ text= "When the knee and toe depth exceeds the 17” minimum, the additional spa
 
 ### Turning Space
 
-[[§304](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#304%20Turning%20Space)]
+[[§304]({{ site.baseurl }}/aba/ch03/#304-Turning-Space)]
 
 ![icons representing toilet/bathing facilities, dressing rooms, transient lodging, dwelling units, medical care facilities, and prison cells]({{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs17.jpg){: .float-right .thumbnail}
 
@@ -181,7 +181,7 @@ A three-point turn is common when using scooters and other motorized devices tha
 
 ### Size
 
-[[§304.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#304%20Turning%20Space)]
+[[§304.3]({{ site.baseurl }}/aba/ch03/#a3043)]
 
 Turning space can be provided in the shape of a circle or a T. Elements with knee and toe space can overlap a portion of the turning space.
 
@@ -201,7 +201,7 @@ T-shaped space can be configured for approach on any segment (stem or either arm
 
 ### Door Swing
 
-[[§304.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#304%20Turning%20Space)] and Other Space Requirements
+[[§304.4]({{ site.baseurl }}/aba/ch03/#a3044)] and Other Space Requirements
 
 Doors can swing into the turning space. The turning space can overlap other space requirements, including clear floor space required at elements and fixtures.
 
