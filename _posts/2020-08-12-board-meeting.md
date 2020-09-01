@@ -2,7 +2,7 @@
 layout: post
 title: Board Meeting
 date: 'August 12, 2020'
-image: uploads/FqpZ6_9s_400x400.png
+image: /images/uploads/FqpZ6_9s_400x400.png
 authors:
   - dave-yanchulis
 tags:

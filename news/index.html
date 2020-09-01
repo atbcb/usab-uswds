@@ -27,11 +27,14 @@ pagination:
           </div>
         </div>
         <div class="clearfix">
-          {% if post.image %} {% asset "{{ post.image }}"
-          class="img-right maxw-card-lg" alt="{{ post.image_alt_text }}" %} {% endif %} {{
-          post.excerpt }} {% comment %} We default to using post.excerpt, but
-          you can also use post.content. If you use excerpt then you have to
-          make sure the content is on each post header {% endcomment %}
+          {% if post.image %}
+          <img src="{{ site.baseurl }}{{ post.image }}"
+          class="img-right maxw-card-lg" alt="{{ post.image_alt_text }}">
+          {% endif %} 
+          {{ post.excerpt }}
+              {% comment %} We default to using post.excerpt, but
+              you can also use post.content. If you use excerpt then you have to
+              make sure the content is on each post header {% endcomment %}
         </div>
       </div>
       {% endfor %}

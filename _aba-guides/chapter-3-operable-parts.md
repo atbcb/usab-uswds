@@ -4,11 +4,11 @@ order-number: 6
 file: operable-parts-ABA.pdf
 file-description: PDF version of Chapter 3 Operable Parts Guide
 ---
-This guide explains requirements in the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) for operable parts.
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for operable parts.
 
 ### Operable Parts Covered
 
-[[§F205](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F205%20Operable%20Parts)]
+[[§F205]({{ site.baseurl }}/aba/ch02/#F205-Operable-Parts)]
 
 Compliance is required for operable parts located in accessible spaces and along accessible routes. Operable parts include light switches, electrical and communication receptacles, thermostats, alarm pulls, automatic door controls, and other elements used by facility occupants.
 
@@ -22,7 +22,7 @@ Compliance is required for operable parts located in accessible spaces and along
 
 ### Operable Parts
 
-[[§309](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#309%20Operable%20Parts)]
+[[§309]({{ site.baseurl }}/aba/ch03/#309-Operable-Parts)]
 
 Requirements apply generally to all types of operable parts covered. They are also referenced by technical sections of the standards covering drinking fountains, faucet and flush controls, ATM and fare machines, appliances, storage, windows, and door and gate hardware, and other elements.
 
@@ -38,7 +38,7 @@ At most elements, clear floor space can be positioned for either a forward appro
 
 ### Clear Floor Space
 
-[[§309.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#309%20Operable%20Parts)]
+[[§309.2]({{ site.baseurl }}/aba/ch03/#a3092)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -66,7 +66,7 @@ At most elements, clear floor space can be positioned for either a forward appro
 
 ### Forward Reach
 
-[[§308.2](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#308%20Reach%20Ranges)]
+[[§308.2]({{ site.baseurl }}/aba/ch03/#a3082)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -98,7 +98,7 @@ The maximum reach of 48” is reduced to 44” when the depth of reach over an o
 
 ##### Clear Floor Space
 
-[[§309.2](../ada-standards/chapter-3-building-blocks.html#309%20Operable%20Parts)]
+[[§309.2]({{ site.baseurl }}/aba/ch03/#a3092)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -118,7 +118,7 @@ Additional clearance is required if the space is obstructed on three sides for m
 
 ### Side Reach
 
-[[§308.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-3-building-blocks#308%20Reach%20Ranges)]
+[[§308.3]({{ site.baseurl }}/aba/ch03/#a3083)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -174,7 +174,7 @@ The standards include advisory (non-mandatory) reach ranges based on children’
 
 ### Operation
 
-[[§309.4](../ada-standards/chapter-3-building-blocks.html#309%20Operable%20Parts)]
+[[§309.4]({{ site.baseurl }}/aba/ch03/#a3094)]
 
 <div class="clearfix">
 <div class="img-right img-medium">
