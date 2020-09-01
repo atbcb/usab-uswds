@@ -1,7 +1,7 @@
 Notice Establishing Advisory Committee
 --------------------------------------
 
-### ARCHITECTURAL AND TRANSPORTATION BARRIERS COMPLIANCE BOARD
+## ARCHITECTURAL AND TRANSPORTATION BARRIERS COMPLIANCE BOARD
 
 Published in the *Federal Register* on July 6, 2006.
 
@@ -11,7 +11,7 @@ Published in the *Federal Register* on July 6, 2006.
 
 ### Telecommunications Act Accessibility Guidelines; Electronic and Information Technology Accessibility Standards
 
-### **AGENCY:** Architectural and Transportation Barriers Compliance Board.
+**AGENCY:** Architectural and Transportation Barriers Compliance Board.
 
 **ACTION:** Notice of establishment; appointment of members; date of first meeting.
 
@@ -23,7 +23,7 @@ Published in the *Federal Register* on July 6, 2006.
 
 **FOR FURTHER INFORMATION CONTACT:** Timothy Creagan, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street NW, Suite 1000, Washington, DC 20004-1111. Telephone number (202) 272-0016 (Voice); (202) 272-0082 (TTY). Electronic mail address: <creagan@access-board.gov>.
 
-#### SUPPLEMENTARY INFORMATION:
+### SUPPLEMENTARY INFORMATION:
 
 ##### Background
 
