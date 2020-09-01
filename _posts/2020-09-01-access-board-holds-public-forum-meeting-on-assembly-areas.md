@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Access Board Holds Public Forum Meeting on Assembly Areas
-date: 'September 1, 2020'
+date: 'September 21, 2018'
 excerpt: >-
   On September 6 the Access Board held a day-long public forum on accessibility
   of assembly areas. The event brought together experts on the subject and
