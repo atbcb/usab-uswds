@@ -35,4 +35,4 @@ Contact the Access Board for further guidance on accessible public rights-of-way
 
 800-993-2822 (TTY)
 
-[mailto:row@access-board.gov](row@access-board.gov)
+[row@access-board.gov](mailto:row@access-board.gov)

@@ -42,3 +42,14 @@ The Access Board provides technical assistance and training on the ABA Standards
 -       May 7, 2014 -- The Board publishes a supplement to the ADA and ABA Accessibility Guidelines on [emergency transportable housing](https://beta.regulations.gov/document/ATBCB-2012-0004-0039).
 
 -       September 26, 2014 -- The Board issues a [correction](https://beta.regulations.gov/document/ATBCB-2012-0004-0041) to final guidelines for emergency transportable housing.
+
+
+### Technical Assistance
+
+Contact the Access Board for guidance on these standards:
+
+800-872-2253 (v)
+
+800-993-2822 (TTY)
+
+[ta@access-board.gov](mailto:ta@access-board.gov)

@@ -31,4 +31,4 @@ Contact the Access Board for further guidance on access to passenger vessels:
 
 800-993-2822 (TTY)
 
-[mailto:pvag@access-board.gov](pvag@access-board.gov)
+[pvag@access-board.gov](mailto:pvag@access-board.gov)

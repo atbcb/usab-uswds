@@ -50,4 +50,4 @@ Contact the Access Board for guidance on these standards:
 
 800-993-2822 (TTY)
 
-<ta@access-board.gov>
+[ta@access-board.gov](mailto:ta@access-board.gov)

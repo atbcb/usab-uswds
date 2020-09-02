@@ -42,4 +42,4 @@ Contact the Access Board for guidance on these standards: 
 
 800-993-2822 (TTY)
 
-[mailto:508@access-board.gov](508@access-board.gov)
+[508@access-board.gov](mailto:508@access-board.gov)

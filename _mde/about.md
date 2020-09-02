@@ -31,4 +31,4 @@ Contact the Access Board for guidance on these standards:
 
 800-993-2822 (TTY)
 
-[mailto:mde@access-board.gov](mde@access-board.gov)
+[mde@access-board.gov](mailto:mde@access-board.gov)

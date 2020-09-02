@@ -4,13 +4,13 @@ permalink: /ada/vehicles/
 order-number: 0
 ---
 
-**About the ADA Accessibility Guidelines for Transportation Vehicles**
+### About the ADA Accessibility Guidelines for Transportation Vehicles
 
 The Americans with Disabilities Act (ADA) requires access to new or remanufactured transportation vehicles, including buses and vans, rail cars, automated guideway vehicles, trams, and similar vehicles.  Vehicles covered by the ADA must comply with standards issued by the Department of Transportation (DOT).  These standards are based on the Board's original ADA Accessibility Guidelines for Transportation Vehicles (1991).  [Regulations](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/ada-regulations) issued by DOT under the ADA apply these standards and indicate which vehicles are required to comply.  DOT's ADA regulations also address transportation service and facilities. 
 
 The Access Board has updated its accessibility guidelines for [buses and vans]({{ site.baseurl }}/ada/vehicles/update/buses-vans/) in 2016.  These updated provisions are not yet part of DOT's enforceable vehicle standards.  The Board is also [updating]({{ site.baseurl }}/ada/vehicles/update/rail-cars/) its guidelines for rail cars.  
 
-**Background**
+### Background
 
 -       September 6, 1991 -- The Board publishes the ADAAG for Transportation Vehicles, which are also adopted by DOT on the same day.
 
@@ -29,3 +29,14 @@ The Access Board has updated its accessibility guidelines for [buses and vans]({
 -       December 14, 2016 -- The Board issues a [final rule](https://beta.regulations.gov/document/ATBCB-2010-0004-0092) updating the guidelines for buses and vans.
 
 -       February 14, 2020 -- The Board issues [advance notice](https://beta.regulations.gov/document/ATBCB-2020-0002-0001) for public comment on update of guidelines for rail cars: [Docket](https://beta.regulations.gov/document/ATBCB-2020-0002-0001/).
+
+
+### Technical Assistance
+
+Contact the Access Board for guidance on these standards:
+
+800-872-2253 (v)
+
+800-993-2822 (TTY)
+
+[ta@access-board.gov](mailto:ta@access-board.gov)
