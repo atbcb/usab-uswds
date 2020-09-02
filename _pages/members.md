@@ -15,19 +15,23 @@ Members of the public who wish to seek appointment to the Access Board should co
 <figure style="float:left">
     ![photo of robertson]({{ site.baseurl }}/images/robertson-hhs.jpg)
     <figcaption style="margin-left:auto; margin-right:right">
+
         **Chair**  
         **Lance Roberson**  
         Department of Health and Human Services  
         [bio](#robertson)
+
     </figcaption>
 </figure>
 <figure style="float:right">
     ![photo of fehribach]({{ site.baseurl }}/images/fehribach.jpg)
     <figcaption style="margin-left:auto; margin-right:right">
+
         **Vice Chair**  
         **Gregory Fehribach**  
         Indianapolis, Indiana  
         [bio](#fehribach.jpg)
+
     </figcaption>
 </figure>
 <section class="usa-graphic-list usa-section">
@@ -35,7 +39,7 @@ Members of the public who wish to seek appointment to the Access Board should co
         {% for member in site.data.members-public %}
         <div class="usa-media-block tablet:grid-col" id="{{ member.lastname }}">
             <img src="{{ site.baseurl }}/images/{{ member.image-file }}"
-                class="usa-media-block__img circle-15 border-2px" alt="photo of {{ member.lastname }}" width="150">
+                class="usa-media-block__img circle-15 border-2px" alt="Photo of {{ member.lastname }}" width="150">
             <div class="usa-media-block__body">
                 <h3 class="usa-graphic-list__heading">{{ member.firstname }} {{ member.lastname }}</h3>
                 <p> {{ member.bio }} </p>
@@ -44,57 +48,32 @@ Members of the public who wish to seek appointment to the Access Board should co
         {% endfor %}
     </div>
 </section>
+
+### Federal Member
+
 <section class="usa-graphic-list usa-section">
     <div class="grid-container maxw-desktop">
         {% for member in site.data.members-federal %}
         <div class="usa-media-block tablet:grid-col" id="{{ member.lastname }}">
             <img src="{{ site.baseurl }}/images/{{ member.image-file }}"
-                class="usa-media-block__img circle-15 border-2px" alt="photo of {{ member.lastname }}" width="150">
+                class="usa-media-block__img circle-15 border-2px" alt="Photo of {{ member.lastname }}" width="150">
             <div class="usa-media-block__body">
                 <h3 class="usa-graphic-list__heading">{{ member.firstname }} {{ member.lastname }}, {{ member.agency }}</h3>
                 <p> {{ member.bio }} </p>
             </div>
         </div>
         {% endfor %}
-    </div>
-</section>
-<section class="usa-graphic-list usa-section">
-    <div class="grid-container maxw-desktop">
         <div class="usa-media-block tablet:grid-col"> &nbsp; 
             <div class="usa-media-block__body">
                 <p> Department of Commerce <br />
                     [vacant]
-                </p>   
-            </div>
-        </div>
-    </div>
-</section>
-<section class="usa-graphic-list usa-section">
-    <div class="grid-container maxw-desktop">
-        <div class="usa-media-block tablet:grid-col"> &nbsp; 
-            <div class="usa-media-block__body">
+                </p>
                 <p> Department of the Interior <br />
                     [vacant]
-                </p>   
-            </div>
-        </div>
-    </div>
-</section>
-<section class="usa-graphic-list usa-section">
-    <div class="grid-container maxw-desktop">
-        <div class="usa-media-block tablet:grid-col"> &nbsp; 
-            <div class="usa-media-block__body">
+                </p>
                 <p> Department of Transportation <br />
                     [vacant]
-                </p>   
-            </div>
-        </div>
-    </div>
-</section>
-<section class="usa-graphic-list usa-section">
-    <div class="grid-container maxw-desktop">
-        <div class="usa-media-block tablet:grid-col"> &nbsp; 
-            <div class="usa-media-block__body">
+                </p> 
                 <p> Department of Veterans Affairs <br />
                     [vacant]
                 </p>   
