@@ -1,14 +1,14 @@
 ---
 title: "Chapter 4: Entrances, Doors, and Gates"
-order-number: 8
+order-number: 9
 file: entrances-ABA.pdf
 file-description: PDF version of Chapter 4 Entrances, Doors, and Gates Guide
 ---
-This guide explains scoping and technical requirements for accessible entrances, doors and gates in the [ABA Standards](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards). 
+This guide explains scoping and technical requirements for accessible entrances, doors and gates in the [ABA Standards]({{ site.baseurl }}/aba/). 
 
 ### Accessible Entrances: Minimum Number
 
-[[§F206.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F206%20Accessible%20Routes)\]
+[[§F206.4]({{ site.baseurl }}/aba/ch02/#f2064)]
 
 At least 60% of public entrances must be accessible in new construction, in addition to entrances directly serving tenancies, parking facilities, pedestrian tunnels and elevated walkways.  “Public entrances” include all entrances except those that are restricted or that are used exclusively as service entrances.
 
@@ -33,7 +33,7 @@ Entrance landings must accommodate door maneuvering clearances as well as landin
 
 ### Security Barriers
 
-[[§F206.8](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F206%20Accessible%20Routes)]
+[[§F206.8]({{ site.baseurl }}/aba/ch02/#f2068)]
 
 <div class="grid-container">
   <div class="grid-row">
@@ -49,22 +49,27 @@ Entrance landings must accommodate door maneuvering clearances as well as landin
 
 ### Restricted Entrances
 
-[[§F206.4.7](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F206%20Accessible%20Routes)]
+[[§F206.4.7]({{ site.baseurl }}/aba/ch02/#f20647)]
 
 If entrances are restricted to certain occupants on a controlled basis, at least one must comply in addition to public entrances required to be accessible.  This applies to those entrances where entry access is verified by security personnel and is strictly limited to certain occupants, but no one else, including guests or companions of authorized individuals.  All other types of entrances, excluding service entrances, are considered “public entrances” under the Standards, including employee-only entrances requiring keys or access cards or codes but that lack the level of security of restricted entrances.
 
-<div class="clearfix border" style="padding: 5px;">
-{%include grid-2col-leftimg-righttextboldstditalic.html
-img-file= "chapter4/4edg6.jpg"
-img-alt= "Two-way communication system at entrance"
-text-title= "<h3>Two-Way Communication Systems</h3> <a href=\"/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#230%20Two-Way%20Communication%20Systems\">[§F230]</a> and <a href=\"/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-7-communication-elements-and-features#708%20Two-Way%20Communication%20Systems\">[§708]</a>"
-text= "Where two-way communication systems are provided to gain entry to a facility or to restricted spaces, they must include visual and audible signals to accommodate people with hearing, speech, or visual impairments. This applies to all entrances equipped with such systems, including those that are inaccessible. Lighted signals should have labels to indicate their meaning. If handsets are provided, cords must be at least 29” long. Control buttons and other operable parts must comply at those systems located at accessible entrances."
-%}
+<div class="grid-container border">
+  <div class="grid-row">
+    <div class="tablet:grid-col-3">
+      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4edg6.jpg" alt="Two-way communication system at entrance" class="img-large">
+    </div>
+    <div class="tablet:grid-col">
+      <h3>Two-Way Communication Systems</h3>
+      <p>[<a href="{{ site.baseurl }}/aba/ch02/#230-Two-Way-Communication-Systems">§F230</a> and <a href="{{ site.baseurl }}/aba/ch07/#708-Two-Way-Communication-Systems">§708</a>]</p>
+      <p>Where two-way communication systems are provided to gain entry to a facility or to restricted spaces, they must include visual and audible signals to accommodate people with hearing, speech, or visual impairments. This applies to all entrances equipped with such systems, including those that are inaccessible. Lighted signals should have labels to indicate their meaning. If handsets are provided, cords must be at least 29” long. Control buttons and other operable parts must comply at those systems located at accessible entrances.</p>
+    </div>
+  </div>
 </div>
+
 
 ### Alterations
 
-[[§F206.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#F206%20Accessible%20Routes) and [§F202.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#202%20Existing%20Buildings%20and%20Facilities)]
+[[§F206.4]({{ site.baseurl }}/aba/ch02/#f2064) and [§F202.4]({{ site.baseurl }}/aba/ch02/#f2024)]
 
 In alterations to existing facilities, accessible entrances are required:
 
@@ -85,7 +90,7 @@ img-alt= "Historic facility"
 
 ### Doors, Doorways and Gates
 
-[[§F206.5](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-2-scoping-requirements#206%20Accessible%20Routes) and [§404](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§F206.5]({{ site.baseurl }}/aba/ch02/#f2065) and [§404]({{ site.baseurl }}/aba/ch04/#404-Doors,-Doorways,-and-Gates)]
 
 Compliance is required for doors, doorways, and gates providing user passage on accessible routes.  At least one accessible door, doorway, or gate serving each accessible room, space, and entrance must comply.
 
@@ -93,9 +98,9 @@ Compliance is required for doors, doorways, and gates providing user passage on 
 
 ![Door with hardware 34” – 48” high measured to operable portions, a vision panel 43” max. above the floor measured the bottom edge, and smooth surface on the bottom of the push side 10” high min. extending full width of door.  Notes:  Closing Speed (§404.2.8) Closers: 5 sec. min.  from 90 degrees to 12 degrees (spring hinges: 1.5 sec. min. from 70⁰ to 0⁰), Opening Force (§404.2.9)  5 lbf max. (excluding exterior hinged doors and fire doors), Vision/ Side Lights (if provided) (§404.2.11) , Accessible viewing height 43” max. unless not intended for viewing       (i.e., lowest part above 66”), Hardware (§404.2.7) Operable parts must comply, Smooth Surface (§404.2.10) Required at the bottom on the push side, Thresholds (§404.2.5) 1/2” max. high (beveled if above 1/4”), Maneuvering Clearance (§404.2.4) required on both sides (unless door or gate is used in one direction only), Double-Leaf Doors (§404.2.2) One active leaf of double-leaf doors is required to meet criteria for clear width and maneuvering clearance.  Other door requirements apply to both leaves.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg8ab.jpg){: .img-large}
 
-### Clear With
+### Clear Width
 
-[[§404.2.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.3]({{ site.baseurl }}/aba/ch04/#a40423)]
 
 <div class="clearfix" markdown="1">
 ![Clear width 32” min. shown measured from the stop to the face of the door open 90 degrees]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg9.jpg){: .img-right}
@@ -109,7 +114,7 @@ The clear width is measured from the stop to the face of doors or gates open 90�
   
 ### Maneuvering Clearances
 
-[[§404.2.4](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.4]({{ site.baseurl }}/aba/ch04/#a40424)]
 
 Required maneuvering clearances provide space for opening and proceeding through doors, doorways, and gates using wheelchairs and other mobility aids.
 
@@ -138,7 +143,7 @@ Clearance beyond the latch side is not required at entry doors to hospital patie
 
 ### Recessed Doors and Gates
 
-[[§404.2.4.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.4.3]({{ site.baseurl }}/aba/ch04/#a404243)]
 
 ![Door maneuvering clearance 8” max. from face of the door.  Note:  The maneuvering clearance is measured from the wall but cannot be offset more than 8” from the face of the door.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg15a.jpg){: .img-full}
 
@@ -161,7 +166,7 @@ forward approach 8 inches max from face of the door">
 
 ### Thresholds
 
-[[§404.2.5](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.5]({{ site.baseurl }}/aba/ch04/#a40425)]
 
 <div class="clearfix" markdown="1">
 ![Threshold at door]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg18.jpg){: .img-right}
@@ -175,7 +180,7 @@ The height of thresholds is limited to 1/2” in new construction.  The edge mu
   
 ### Doors and Gates in Series
 
-[[§404.2.6](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.6]({{ site.baseurl }}/aba/ch04/#a40426)]
 
 At hinged or pivoted doors or gates in series, a separation is required that is at least 48” plus the width of doors or gates swinging into the space.  This allows users to clear one door or gate before opening the next and applies to those doors or gates that are opposite each other where travel through both doors is required.
 
@@ -189,7 +194,7 @@ At hinged or pivoted doors or gates in series, a separation is required that is 
 
 ### Door and Gate Hardware
 
-[[§404.2.7](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.7]({{ site.baseurl }}/aba/ch04/#a40427)]
 
 ![Door lever pushed with closed fist]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg22.jpg){: .img-right}
 
@@ -211,7 +216,7 @@ text="<ul class=\"margin-left-4\"><li>Specify hardware that is usable with a clo
 
 ### Opening Force
 
-[[§404.2.9](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.9]({{ site.baseurl }}/aba/ch04/#a40429)]
 
 The maximum 5 lbf opening force applies to all accessible doors and gates except:
 
@@ -247,7 +252,7 @@ text= "Automation of exterior doors is recommended, especially where the opening
 
 ### Door and Gate Surfaces
 
-[[§404.2.10](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.10]({{ site.baseurl }}/aba/ch04/#a404210)]
 
 ![Detail of wheelchair user’s feet and footrests at open door with kickplate]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg24.jpg){: .img-right .img-medium}
 
@@ -265,7 +270,7 @@ These requirements do not apply to:
    
 ### Communication Access at Doors
 
-[[§806.3.2](../ada-standards/chapter-8-special-rooms,-spaces,-and-elements.html#806%20Transient%20Lodging%20Guest%20Rooms), [§809.5](../ada-standards/chapter-8-special-rooms,-spaces,-and-elements.html#809%20Residential%20Dwelling%20Units)]
+[[§806.3.2]({{ site.baseurl }}/aba/ch08/#a80632), [§809.3.2.2]({{ site.baseurl }}/aba/ch08/#a809552)]
 
 <div class="clearfix" markdown="1">
 In addition to requirements for two-way communication systems provided at restricted entrances, the Standards include requirements for communication access in transient lodging and residential facilities:  
@@ -283,7 +288,7 @@ text= "Peepholes and other means of identifying visitors in mobility accessible 
 <div class="border clearfix padding-1 margin-y-05" markdown="1">
 ### Doors and Gates Operated Only By Security Personnel
 
-[[§404.1, Ex](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.1, Ex]({{ site.baseurl }}/aba/ch04/#a4041)]
 
 ![Detention/correctional facility icon]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg28.jpg){: .img-right}
 
@@ -292,7 +297,7 @@ Manual doors, doorways, and gates that are designed to be operated only by secur
 
 ### Automatic and Power-Assisted Doors and Gates
 
-[[§404.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.3]({{ site.baseurl }}/aba/ch04/#a4043)]
 
 <div class="clearfix" markdown="1">
 ![Label:  “Automatic Door – Caution”]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg29.jpg){: .float-right .img-medium}
@@ -302,7 +307,7 @@ Doors are not required to be automated, but must comply when provided.  The Sta
 
 ### Power-Assisted Doors and Gates
 
-[[§404.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.3]({{ site.baseurl }}/aba/ch04/#a4043)]
 
 Power-assisted devices reduce the opening force of doors with closing mechanisms.  
 They are activated by initial manual force, switches, or sensors. Most reduce, but do not fully eliminate, the manual force needed to open a door. For this reason, they must meet maneuvering clearance requirements.
@@ -321,7 +326,7 @@ Low energy doors and gates usually require activation by the user through a push
 
 #### Controls
 
-[[§404.3.5](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.3.5]({{ site.baseurl }}/aba/ch04/#a40435)]
 
 Door and gate controls must be compliant as operable parts (operable with one hand and without tight grasping, pinching, twisting of the wrist, or more than 5 lbf). Clear floor space at controls must be located outside the door swing to prevent users from getting hit by the door.
 
@@ -337,7 +342,7 @@ text= "Placing controls in locations that preclude backing-up will facilitate us
    
 ### Full-Powered Automatic Doors and Gates
 
-[[§404.3](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/chapter-4-accessible-routes#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.3]({{ site.baseurl }}/aba/ch04/#a4043)]
 
 Full-powered automatic doors and gates are often found in grocery and retail stores, hotels, and airports to ease passage with shopping carts or luggage.  Most are automatically activated by mats or overhead sensors and do not require manual activation by users.
 

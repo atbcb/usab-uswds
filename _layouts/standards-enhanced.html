@@ -18,11 +18,11 @@ layout: default
       {% include {{ page.left-sidenav }} %}
       {% endif %}
       <div id="standard" class="desktop:grid-col usa-prose">
-        <h2 class="text-center text-italic">{{page.title}}</h2>
+        {% if page.title %}<h2 class="text-center text-italic font-heading-md">{{page.title}}</h2>{% endif %}
         {% if page.file %}
         <div class="clearfix">
             <span class="float-right">{{ page.file-description }}
-            <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" target="_blank">
+            <a href="{{ site.baseurl }}{{ page.file-directory }}{{ page.file }}" target="_blank" rel="noreferrer">
             <button class="usa-button ">Download</button>
             </a>
             </span>

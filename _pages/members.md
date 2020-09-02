@@ -1,10 +1,10 @@
 ---
-title: Access Board Members
+title: Board Members
 layout: page
 sidenav: true
 permalink: /about/members.html
 ---
 
-# {{ page.title }}
+# Access {{ page.title }}
 
 {% include members.html %}
