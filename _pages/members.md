@@ -12,23 +12,23 @@ The Board is structured to function as a coordinating body among federal agencie
 Members of the public who wish to seek appointment to the Access Board should contact the White House Office of Presidential Personnel at 202-456-9713 or visit the [White House website](https://apply.whitehouse.gov).
 
 <figure style="display:block; float:left">
-    <img src="{{ site.baseurl }}/images/robertson-hhs.jpg" alt="photo of robertson">
+    <img src="{{ site.baseurl }}/images/robertson-hhs.jpg" alt="Photo of Robertson">
     <figcaption style="margin-left:auto; margin-right:right">
         <strong>Chair <br />
-        Lance Roberson</strong> <br />
+        Lance Robertson</strong> <br />
         Department of Health and Human Services <br />
-        <a href="#robertson">[bio]</a>
+        <a href="#Robertson">[bio]</a>
     </figcaption>
 </figure>
 <figure style="display:block; float:right">
-    <img src="{{ site.baseurl }}/images/fehribach.jpg" alt="photo of fehribach">
+    <img src="{{ site.baseurl }}/images/fehribach.jpg" alt="Photo of Fehribach">
     <figcaption style="margin-left:auto; margin-right:right">
         <strong>Vice Chair <br />
         Gregory Fehribach</strong> <br />
         Indianapolis, Indiana <br />
-        <a href="#fehribach">[bio]</a>
+        <a href="#Fehribach">[bio]</a>
     </figcaption>
-</figure>
+</figure> <br style="clear:both" />
 
 ### Public Members
 
@@ -61,7 +61,7 @@ Members of the public who wish to seek appointment to the Access Board should co
             </div>
         </div>
         {% endfor %}
-        <div class="usa-media-block tablet:grid-col"> &nbsp; 
+        <div class="usa-media-block tablet:grid-col">
             <div class="usa-media-block__body">
                 <p> Department of Commerce <br />
                     [vacant]
