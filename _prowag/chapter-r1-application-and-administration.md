@@ -61,9 +61,10 @@ used independently of the other.
 {: .advisory}
 **Advisory R103.3 Units of Measurement.** Users should work entirely within one system of measurement, either metric or U.S. customary units. Combining values from the two systems may result in non-compliance.
 
-**Figure R103 Graphic Convention for Figures**
-
-![Dimension lines showing International System of Units (in millimeters
+{# include figure-caption.html
+text= "Figure R103 Graphic Convention for Figures"
+img-file="prowag/103.jpg"
+img-alt= "Dimension lines showing International System of Units (in millimeters
 unless otherwise noted) above the line of US customary units (in inches
 unless otherwise noted) below. Small measurements show the dimension
 with an arrow pointing to the dimension line. Dimension ranges are shown
@@ -76,9 +77,8 @@ dashes with a (c( and (l( at the end indicate the centerline. A dashed
 line with longer spaces indicates a permitted element or its extension.
 An arrow is to identify the direction of travel or approach. Gray
 shading is used to show an element in elevation or plan. Hatching is
-used to show the location zone of elements, controls, or features.
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/103.jpg)
-
+used to show the location zone of elements, controls, or features."
+%}
 
 ### R104 Referenced Standards
 
