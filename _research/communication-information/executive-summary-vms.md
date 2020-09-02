@@ -1,7 +1,7 @@
 ---
-Title: Executive Summary
+title: Executive Summary
 Order-Number: 0
-Research-Title: Executive Summary
+Research-title: Executive Summary
 Status: Completed
 Year-Completed: 2002
 Topic: Synthesis on the Legibility of Variable Message Signing (VMS) for Readers with Vision Loss

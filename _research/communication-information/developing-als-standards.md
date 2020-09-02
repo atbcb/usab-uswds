@@ -1,7 +1,7 @@
 ---
-Title: Developing ALS Performance Standards for People with Hearing Loss
+title: Developing ALS Performance Standards for People with Hearing Loss
 Order-Number: 8
-Research-Title: Developing ALS Performance Standards for People with Hearing Loss
+Research-title: Developing ALS Performance Standards for People with Hearing Loss
 Status: Completed
 Topic: Large Area Assistive Listening Systems
 ---

@@ -1,7 +1,7 @@
 ---
-Title: Summary (Phase 1)
+title: Summary (Phase 1)
 Order-Number: 4
-Research-Title: Summary Phase 1
+Research-title: Summary Phase 1
 Status: Completed
 Year-Completed: 2004
 Topic: ADA Access to Passenger Vessels 

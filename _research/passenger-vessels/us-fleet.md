@@ -1,5 +1,5 @@
 ---
-Title: U.S. Fleet Case Studies Phase 1
+title: U.S. Fleet Case Studies Phase 1
 Order-Number: 3
 Research-title: US Fleet Case Studies Phase 1
 Status: Completed

@@ -1,7 +1,7 @@
 ---
-Title: Near Future Research Needs
+title: Near Future Research Needs
 Order-Number: 2
-Research-Title: Near Future Research Needs
+Research-title: Near Future Research Needs
 Status: Completed
 Year-Completed: 1997
 Topic: Anthropometry for Persons with Disabilities Needs for the 21st Century

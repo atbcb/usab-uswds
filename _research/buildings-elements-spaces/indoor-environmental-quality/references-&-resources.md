@@ -1,7 +1,7 @@
 ---
-Title: References & Resources
+title: References & Resources
 Order-Number: 10
-Research-Title: References & Resources
+Research-title: References & Resources
 Status: Completed
 Year-Completed: 2006
 Topic: Indoor environmental Quality

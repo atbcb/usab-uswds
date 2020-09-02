@@ -1,7 +1,7 @@
 ---
-Title: Methodology
+title: Methodology
 Order-Number: 2
-Research-Title: Methodology
+Research-title: Methodology
 Status: Completed
 Year-Completed: 2014
 Topic: Surface Roughness Final Report

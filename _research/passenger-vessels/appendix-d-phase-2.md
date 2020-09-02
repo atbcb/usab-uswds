@@ -1,7 +1,7 @@
 ---
-Title: Appendix D (Phase 2)
+title: Appendix D (Phase 2)
 Order-Number: 17
-Research-Title: Appendix D Phase 2
+Research-title: Appendix D Phase 2
 Status: Completed
 Year-Completed: 2005
 Topic: ADA Access to Passenger Vessels 

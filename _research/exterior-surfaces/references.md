@@ -1,7 +1,7 @@
 ---
-Title: References
+title: References
 Order-Number: 5
-Research-Title: References
+Research-title: References
 Status: Completed
 Year-Completed: 1999
 Topic: Accessible Exterior Surfaces

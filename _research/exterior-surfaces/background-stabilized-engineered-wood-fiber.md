@@ -1,7 +1,7 @@
 ---
-Title: Background
+title: Background
 Order-Number: 2
-Research-Title: Background
+Research-title: Background
 Status: Completed
 Year-Completed: 2004
 Topic: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces 

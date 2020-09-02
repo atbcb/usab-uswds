@@ -1,7 +1,7 @@
 ---
-Title: Executive Summary
+title: Executive Summary
 Order-Number: 0
-Research-Title: Executive Summary
+Research-title: Executive Summary
 Status: Completed
 Topic: Large Area Assistive Listening Systems
 ---

@@ -1,7 +1,7 @@
 ---
-Title: Building Products & Materials
+title: Building Products & Materials
 Order-Number: 16
-Research Title: Building Products & Materials
+Research title: Building Products & Materials
 Status: Completed
 Year-Completed: 2006
 Topic: Indoor Environmental Quality

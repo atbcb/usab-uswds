@@ -1,7 +1,7 @@
 ---
-Title: References
+title: References
 Order-Number: 6
-Research-Title: References
+Research-title: References
 Status: Completed
 Year-Completed: 2002
 Topic: Synthesis on the Legibility of Variable Message Signing 

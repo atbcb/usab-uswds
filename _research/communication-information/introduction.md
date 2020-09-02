@@ -1,7 +1,7 @@
 ---
-Title: Introduction
+title: Introduction
 Order-Number: 1
-Research-Title: Introduction
+Research-title: Introduction
 Status: Completed
 Topic: Large Area Assistive Listening Systems
 ---

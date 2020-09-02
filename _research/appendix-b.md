@@ -1,7 +1,7 @@
 ---
-Title: Appendix B
+title: Appendix B
 Order-Number: 2
-Research Title: Appendix B
+Research title: Appendix B
 Status: Completed
 Year-Completed: 1996
 Topic: Swimming Pool

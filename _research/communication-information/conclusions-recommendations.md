@@ -1,7 +1,7 @@
 ---
-Title: Conclusions Recommendations and Future Research Needs
+title: Conclusions Recommendations and Future Research Needs
 Order-Number: 5
-Research-Title: Conclusions Recommendations and Future Research Needs
+Research-title: Conclusions Recommendations and Future Research Needs
 Status: Completed
 Year-Completed: 2002
 Topic: Synthesis on the Legibility of Variable Message Signing

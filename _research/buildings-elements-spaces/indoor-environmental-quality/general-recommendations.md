@@ -1,7 +1,7 @@
 ---
 Topic: General Recommendations
 Order-Number: 4
-Research-Title: General Recommendations
+Research-title: General Recommendations
 Status: Completed
 Year-Completed: 2006
 Topic: Indoor Environmental Quality

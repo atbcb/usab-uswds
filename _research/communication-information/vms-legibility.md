@@ -1,7 +1,7 @@
 ---
-Title: VMS Legibility Standards and Research
+title: VMS Legibility Standards and Research
 Order-Number: 3
-Research-Title: VMS Legibility Standards and Research
+Research-title: VMS Legibility Standards and Research
 Status: Completed
 Year-Completed: 2002
 Topic: Synthesis on the Legibility of Variable Message Signing

@@ -1,7 +1,7 @@
 ---
-Title: Background
+title: Background
 Order-Number: 0
-Research-Title: Background
+Research-title: Background
 Status: Completed
 Year-Completed: 2001
 Topic: Toileting and Bathing Facilities Assisted Transfers

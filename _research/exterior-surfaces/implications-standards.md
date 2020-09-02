@@ -1,7 +1,7 @@
 ---
-Title: Implications for Standards
+title: Implications for Standards
 Order-Number: 4
-Research-Title: Implications for Standards
+Research-title: Implications for Standards
 Status: Completed
 Year-Completed: 2014
 Topic: Surface Roughness Final Report

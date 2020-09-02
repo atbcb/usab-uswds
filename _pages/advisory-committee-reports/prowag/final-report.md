@@ -1,6 +1,6 @@
 ---
-Title: Final Report
-Collection-Title: Public Rights-of-Way Access Advisory Committee
+title: Final Report
+Collection-title: Public Rights-of-Way Access Advisory Committee
 Layout: Report
 ---
 

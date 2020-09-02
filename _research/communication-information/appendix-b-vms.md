@@ -1,7 +1,7 @@
 ---
-Title: Appendix B VMS Guidelines Standards and Specifications
+title: Appendix B VMS Guidelines Standards and Specifications
 Order-Number: 8
-Research-Title: Appendix B VMS Guidelines Standards and Specifications
+Research-title: Appendix B VMS Guidelines Standards and Specifications
 Status: Completed
 Year-Completed: 2002
 Topic: Synthesis on the Legibility of Variable Message Signing 

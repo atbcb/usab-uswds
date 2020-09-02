@@ -1,7 +1,7 @@
 ---
-Title: References
+title: References
 Order-Number: 9
-Research-Title: References
+Research-title: References
 Status: Completed
 Topic: Large Area Assistive Listening Systems 
 ---

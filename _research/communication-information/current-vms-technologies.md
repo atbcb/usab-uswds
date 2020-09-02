@@ -1,7 +1,7 @@
 ---
-Title: Current VMS Technologies and Applications
+title: Current VMS Technologies and Applications
 Order Number: 4
-Research-Title: Current VMS Technologies and Applications
+Research-title: Current VMS Technologies and Applications
 Status: Completed
 Year-Completed: 2002
 Topic: Synthesis on the Legibility of Variable Message Signing 

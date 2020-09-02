@@ -1,7 +1,7 @@
 ---
-Title: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces
+title: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces
 Order-Number: 0
-Research-Title: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces
+Research-title: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces
 Status: Completed
 Year-Completed: 2004
 Topic: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces

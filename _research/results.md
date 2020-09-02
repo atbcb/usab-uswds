@@ -1,7 +1,7 @@
 ---
-Title: Results
+title: Results
 Order-Number: 2
-Research-Title: Results
+Research-title: Results
 Status: Completed
 Year-Completed: 2001
 Topic: Toileting and Bathing facilities Assisted Transfers

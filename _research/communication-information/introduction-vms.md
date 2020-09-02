@@ -1,7 +1,7 @@
 ---
-Title: Introduction
+title: Introduction
 Order-Number: 1
-Research-Title: Introduction
+Research-title: Introduction
 Status: Completed
 Year-Completed: 2002
 Topic: Synthesis on the Legibility of Variable Message Signing 

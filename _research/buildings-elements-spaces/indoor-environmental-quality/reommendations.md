@@ -1,7 +1,7 @@
 ---
-Title: Recommendations
+title: Recommendations
 Order-Number: 13
-Research-Title: Recommendations
+Research-title: Recommendations
 Status: Completed
 Year-Completed: 2006
 Topic: Indoor Environmental Quality

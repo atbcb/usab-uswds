@@ -1,5 +1,5 @@
 ---
-Title: References (Phase 2)
+title: References (Phase 2)
 Order-Number: 13
 Research-title: References Phase 2
 Status: Completed

@@ -1,7 +1,7 @@
 ---
-Title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
+title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 Order-Number: 0
-Research-Title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
+Research-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 Status: Completed
 Year-Completed: 2009
 Topic: Common Problems Arising in APS Installation 

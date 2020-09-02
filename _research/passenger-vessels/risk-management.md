@@ -1,7 +1,7 @@
 ---
-Title: Risk Management Methodology (Phase 2)
+title: Risk Management Methodology (Phase 2)
 Order-Number: 10
-Research-Title: Risk Management Methodology Phase 2
+Research-title: Risk Management Methodology Phase 2
 Status: Completed
 Year-Completed: 2005
 Topic: ADA Access to Passenger Vessels

@@ -1,7 +1,7 @@
 ---
-Title: Design & Construction
+title: Design & Construction
 Order-Number: 12
-Research-Title: Design & Construction
+Research-title: Design & Construction
 Status: Completed
 Year-Completed: 2006
 Topic: Indoor Environmental Quality

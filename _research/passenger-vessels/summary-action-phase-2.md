@@ -1,7 +1,7 @@
 ---
-Title: Summary and Actions (Phase 2)
+title: Summary and Actions (Phase 2)
 Order-Number: 12
-Research-Title: Summary and Actions Phase 2
+Research-title: Summary and Actions Phase 2
 Status: Completed
 Year-Completed: 2005
 Topic: ADA Access to Passenger Vessels

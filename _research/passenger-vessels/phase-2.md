@@ -1,7 +1,7 @@
 ---
-Title: Phase 2 A Risk Management Approach to Reconfiguration Design Solutions
+title: Phase 2 A Risk Management Approach to Reconfiguration Design Solutions
 Order-Number: 7
-Research-Title: Phase 2 A Risk Management Approach to reconfiguration Design Solutions
+Research-title: Phase 2 A Risk Management Approach to reconfiguration Design Solutions
 Status: Completed
 Year-Completed: 2005
 Topic: ADA Access to Passenger Vessels 

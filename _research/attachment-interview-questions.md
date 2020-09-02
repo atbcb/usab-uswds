@@ -1,7 +1,7 @@
 ---
-Title: Attachment Interview Questions
+title: Attachment Interview Questions
 Order-Number: 5
-Research-Title: Attachment Interview Questions
+Research-title: Attachment Interview Questions
 Status: Completed
 Year-Completed: 2001
 Topic: Toileting and Bathing Facilities Assisted Transfers

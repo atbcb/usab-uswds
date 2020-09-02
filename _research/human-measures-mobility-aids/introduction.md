@@ -1,7 +1,7 @@
 ---
-Title: Introduction
+title: Introduction
 Order-Number: 1
-Research-Title: Introduction
+Research-title: Introduction
 Status: Completed
 Year-Completed: 1997
 Topic: Anthropometry for Persons with Disabilities Needs for the 21st Century

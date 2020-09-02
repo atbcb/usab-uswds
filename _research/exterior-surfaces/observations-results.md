@@ -1,7 +1,7 @@
 ---
-Title: Observations and Results
+title: Observations and Results
 Order-Number: 4
-Research-Title: Observations and Results
+Research-title: Observations and Results
 Status: Completed
 Year-Completed: 2004
 Topic: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces

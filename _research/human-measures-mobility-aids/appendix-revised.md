@@ -1,7 +1,7 @@
 ---
-Title: Appendix Revised Annotated Bibliography
+title: Appendix Revised Annotated Bibliography
 Order-Number: 6
-Research-Title: Appendix Revised Annoted Bibliography
+Research-title: Appendix Revised Annoted Bibliography
 Status: Completed
 Year-Completed: 1997
 Topic: Anthropometry for Persons with Disabilities Needs for the 21st Century
