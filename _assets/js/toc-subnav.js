@@ -36,11 +36,8 @@
           'class="usa-current"' : 'class=""';
         elements[i].setAttribute("id",idtag);
 
-        let li = "<li><a " + currentAnchorClass + " href=\"#" + idtag + "\">" + section + "</a></li>";
-
         if (subsections) {
-          let cleanedItem = DOMPurify.sanitize(li);
-          subsections.innerHTML += cleanedItem;
+          subsections.innerHTML += "<li><a " + currentAnchorClass + " href=\"#" + idtag + "\">" + cleanedSection + "</a></li>";
         }
       };
     }

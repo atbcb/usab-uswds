@@ -4,11 +4,11 @@ order-number: 13
 file: parking.pdf
 file-description: PDF version of Chapter 5 Parking Spaces Guide
 ---
-This guide explains requirements in the [ADA Standards](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards) for parking. 
+This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for parking. 
 
 ### Required Number
 
-[§208](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#208%20Parking%20Spaces)
+[§208]({{ site.baseurl }}/ada/#ada-208)
 
 Accessible parking spaces are required for each parking facility on a
 site, such as lots and garages. Requirements apply equally to public and
@@ -264,7 +264,7 @@ it affects a facility's usability.
 
 ### Location
 
-[[§208.3]({{ site.baseurl }}/ada/#ada-208_3)]
+[[§208.3]({{ site.baseurl }}/ada/#208.3-Location)]
 
 {% include imgright-italictextbelow.html
 img-file= "chapter5/5p5.jpg"
@@ -419,8 +419,8 @@ provision.
 
 ### Residential Facilities
 
-[[§208.2.3](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces),
-[§208.3.2](../ada-standards/chapter-2-scoping-requirements.html#208%20Parking%20Spaces)]
+[[§208.2.3]({{ site.baseurl }}/ada/#ada-208_2_3),
+[§208.3.2]({{ site.baseurl }}/ada/#ada-208_3_2)]
 
 <div class="clearfix padding-left-1" markdown="1">
 ![house symbol]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p13.jpg){: .float-right .thumbnail}
@@ -505,7 +505,7 @@ aisles).]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p16.jpg){: .img-
 
 ### Van Accessible Parking Spaces
 
-[[§502.1 - 502.5](../ada-standards/chapter-5-general-site-and-building-elements.html#502%20Parking%20Spaces)]
+[[§502.1 - 502.5]({{ site.baseurl }}/ada/#ada-502)]
 
 <div class="clearfix padding-left-1" markdown="1">
 ![Person using wheelchair exiting van with ramp parking in accessible van space. ]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p17.jpg){: .img-right}
@@ -544,7 +544,7 @@ text= "Where standard (non-van) accessible spaces are angled or otherwise restri
 
 ### Vertical Clearance
 
-[[§502.5]({{ site.baseurl }}/ada/#ada-502_5)]
+[[§502.5]({{ site.baseurl }}/ada/#502.5-Vertical-Clearance)]
 
 <div class="clearfix padding-left-1" markdown="1">
 ![Plan view of garage with the following highlighted: vehicular route from entrance to van space, van space and access aisle, and vehicular route from van space to
@@ -582,7 +582,7 @@ Requirements for operable parts include:
 
 ### Identification
 
-[[§216.5]({{ site.baseurl }}/ada/#ada-216_5)]
+[[§216.5]({{ site.baseurl }}/ada/#216.5-Parking)]
 
 ![Post-mounted accessible parking space sign 60" high min. measured to
 bottom

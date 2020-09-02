@@ -950,7 +950,7 @@ Soft contained play environments typically have limited entrance and exit locati
 
 ### Frequently Asked Questions
 
-This document answers frequently asked questions concerning requirements for accessible play areas in standards issued under the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA). The [ADA Standards](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards), as issued by the Department of Justice and the Department of Transportation, apply to places of public accommodation, commercial facilities, and state and local government facilities, including transportation facilities. The [ABA Standards](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards), which are very similar to the ADA Standards, apply to facilities designed, built, altered, or leased with federal funds.
+This document answers frequently asked questions concerning requirements for accessible play areas in standards issued under the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA). The [ADA Standards]({{ site.baseurl }}/ada/), as issued by the Department of Justice and the Department of Transportation, apply to places of public accommodation, commercial facilities, and state and local government facilities, including transportation facilities. The [ABA Standards]({{ site.baseurl }}/aba/), which are very similar to the ADA Standards, apply to facilities designed, built, altered, or leased with federal funds.
 
 #### 1. What is considered an "accessible" play component?
 

@@ -279,7 +279,7 @@ mobility device on the deck. Operators and facility managers may need to
 consider storage options for personal mobility devices if deck space is
 limited.
 
-![illlustration of sloped entry
+![illustration of sloped entry
 ramp]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-pool12.jpg){: .img-full}
 
 #### Submerged Depth

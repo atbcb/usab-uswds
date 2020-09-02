@@ -183,7 +183,7 @@ and equivalent services and décor are provided on an accessible level
 
 ### Alterations and Additions
 
-[[§206.2.3.1](../ada-standards/chapter-2-scoping-requirements.html#206%20Accessible%20Routes), [§202.4](../ada-standards/chapter-2-scoping-requirements.html#202%20Existing%20Buildings%20and%20Facilities)]
+[[§206.2.3.1]({{ site.baseurl }}/ada/#ada-206_2_3_1), [§202.4]({{ site.baseurl }}/ada/#202.4-Alterations-Affecting-Primary-Function-Areas)]
 
 In alterations and additions to multi-story facilities, an accessible
 route to stories and mezzanines is required where a stair or escalator
@@ -304,7 +304,7 @@ connecting accessible route to the work area, a compliant entrance,
 including entry doors or gates, and a wheelchair space within the work
 area. Work areas must also be served by an accessible means of egress,
 as required by the International Building Code. (See the [ADA Scoping:
-New Construction Guide](chapter-2-new-construction.html).)
+New Construction Guide]({{ site.baseurl }}/ada-guides/chapter-2-new-construction).
 
 #### Common Use Circulation Paths in Employee Work Areas Over 1,000 SF
 
@@ -368,7 +368,7 @@ where provided, must comply.
 
 ### Clearances
 
-[[§403.5]({{ site.baseurl }}/ada/#ada-403_5)]
+[[§403.5]({{ site.baseurl }}/ada/#403.5-Clearances)]
 
 The minimum 36" continuous clear width of accessible routes can reduce
 to 32" at points, such as doorways, for a maximum distance of 24".
@@ -419,7 +419,7 @@ by 60" minimum space or as T-shaped space where each stem is at least
 
 ### Handrails Along Walking Surfaces
 
-[[§403.6]({{ site.baseurl }}/ada/#ada-403_6)]
+[[§403.6]({{ site.baseurl }}/ada/#403.6-Handrails)]
 
 Handrails are required at ramps with a rise greater than 6" and at
 stairs that are part of a means of egress, but not at other locations.

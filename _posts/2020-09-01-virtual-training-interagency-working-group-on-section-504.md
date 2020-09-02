@@ -5,6 +5,7 @@ date: 'September 1, 2020'
 excerpt: Virtual training on signage
 authors:
   - dave-yanchulis
+  - sarah-presley
 tags:
   - trainings
 webinar: true
