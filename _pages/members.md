@@ -30,7 +30,7 @@ Members of the public who wish to seek appointment to the Access Board should co
         <a href="#fehribach">[bio]</a>
     </figcaption>
 </figure>
-<section class="usa-graphic-list usa-section">
+<section class="usa-graphic-list usa-section" style="clear:both">
     <div class="grid-container maxw-desktop">
         {% for member in site.data.members-public %}
         <div class="usa-media-block tablet:grid-col" id="{{ member.lastname }}">
