@@ -5,7 +5,7 @@ file: operable-parts.pdf
 file-description: PDF version of Chapter 3 Operable Parts Guide
 ---
 This guide explains requirements in the [ADA
-Standards](../ada-standards.html) for operable parts.
+Standards]({{ site.baseurl }}/ada/) for operable parts.
 
 ### Operable Parts Covered
 
@@ -73,7 +73,7 @@ access.
 
 ### Clear Floor Space
 
-[[§309.2]({{ site.baseurl }}/ada/#ada-309_2)]
+[[§309.2]({{ site.baseurl }}/ada/#309.2-Clear-Floor-Space)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -101,7 +101,7 @@ access.
 
 ### Forward Reach
 
-[[§308.2]({{ site.baseurl }}/ada/#ada-308_2)]
+[[§308.2]({{ site.baseurl }}/ada/#308.2-Forward-Reach)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -135,7 +135,7 @@ depth of reach.
 
 ##### Clear Floor Space
 
-[[§309.2]({{ site.baseurl }}/ada/#ada-309_2)]
+[[§309.2]({{ site.baseurl }}/ada/#309.2-Clear-Floor-Space)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -159,7 +159,7 @@ space.
 
 ### Side Reach
 
-[[§308.3]({{ site.baseurl }}/ada/#ada-308_3)]
+[[§308.3]({{ site.baseurl }}/ada/#308.3-Side-Reach)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -220,7 +220,7 @@ recommended according to three age groups.
 
 ### Operation
 
-[[§309.4]({{ site.baseurl }}/ada/#ada-309_4)]
+[[§309.4]({{ site.baseurl }}/ada/#309.4-Operation)]
 
 <div class="clearfix">
 <div class="img-right img-medium">

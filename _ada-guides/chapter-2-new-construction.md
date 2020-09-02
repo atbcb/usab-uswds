@@ -7,8 +7,8 @@ file-description: PDF version of Chapter 2 New Construction Guide
 This guide provides an introduction to the scoping
 requirements that form the basis for the Department of Justice's [2010
 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) and the
-Department of Transportation\'s [ADA
-Standards](../../../transportation/facilities/ada-standards-for-transportation-facilities.html)
+Department of Transportation\'s ADA
+Standards
 and is not intended to be comprehensive or used as a stand-alone
 technical guide to those requirements. Users of this guide must
 familiarize themselves with the specific scoping requirements that apply
@@ -16,8 +16,8 @@ to each element, building, facility, or site that is subject to the
 Standards adopted to implement titles II and III of the ADA.
 
 Although this guide focuses on the provisions of Chapter 2 of the ADA
-Accessibility Guidelines, which form the basis of the DOJ and DOT [ADA
-Standards](../ada-standards.html), the 2010 Standards adopted by DOJ
+Accessibility Guidelines, which form the basis of the DOJ and DOT ADA
+Standards, the 2010 Standards adopted by DOJ
 incorporate regulatory language that modifies or augments a number of
 those provisions, or address certain occupancies that are not
 specifically addressed in Chapter 2, and these regulatory provisions
@@ -221,7 +221,7 @@ text2= ""
 
 ### Employee Work Areas
 
-[[§203.9]({{ site.baseurl }}/ada/#ada-203_9)]
+[[§203.9]({{ site.baseurl }}/ada/#203.9-Employee-Work-Areas)]
 
 {% include imgright-italictextbelow.html
 img-file= "chapter2-ada/nc14.jpg"
@@ -331,7 +331,7 @@ text= "Portions of common use circulation paths serving exempt spaces within a w
 
 ### Wiring for Visible Alarms
 
-[[§215.3]({{ site.baseurl }}/ada/#ada-215_3)]
+[[§215.3]({{ site.baseurl }}/ada/#215.3-Employee-Work-Areas)]
 
 ![fire alarm]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc19.jpg){: .float-right .thumbnail}
 
@@ -348,7 +348,7 @@ text= "In facilities where an above-average number of employees with hearing imp
 
 ### Scoping Requirements for Elements and Spaces
 
-[[§204 -- §243](../ada-standards/chapter-2-scoping-requirements.html#204%20Protruding%20Objects)]
+[[§204]({{ site.baseurl }}/ada/#ada-204) - [§243]({{ site.baseurl }}/ada/#ada-243)]
 
 Scoping provisions for elements and spaces, which are summarized here,
 are further discussed with relevant technical provisions in the
