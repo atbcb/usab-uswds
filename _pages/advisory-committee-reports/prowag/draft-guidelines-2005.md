@@ -1,5 +1,5 @@
 ---
-Title: 
+Title: 2005 Revised Draft Guidelines for Accessible Public Rights-of-Way
 Collection-title: 
 Layout: 
 ---
