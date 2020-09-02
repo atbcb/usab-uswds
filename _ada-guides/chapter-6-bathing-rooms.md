@@ -5,7 +5,7 @@ file:  bathrooms.pdf
 file-description: PDF version of Chapter 6 Bathing Rooms Guide
 ---
 
-This guide explains requirements in the [ADA Standards](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards) for bathing rooms. 
+This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for bathing rooms. 
 
 ### Required Compliance 
 
@@ -24,7 +24,7 @@ accessible (§213.2. Ex. 3, §216.8).
 
 #### Unisex Bathing Rooms
 
-[[§213.2]({{ site.baseurl }}/ada/#ada-213_2)]
+[[§213.2]({{ site.baseurl }}/ada/#213.2-Toilet-Rooms-and-Bathing-Rooms)]
 
 ![Unisex restroom symbol]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/3.png){: .float-right .thumbnail}
 
@@ -45,7 +45,7 @@ editions).
 
 #### Additions
 
-[[§202.2]({{ site.baseurl }}/ada/#ada-202_2)]
+[[§202.2]({{ site.baseurl }}/ada/#202.2-Additions)]
 
 Additions are required to comply with requirements in the Standards for
 new construction. Each bathing room of an addition must comply as would
@@ -53,7 +53,7 @@ be required in new construction. 
 
 #### Alterations
 
-[[§202.3]({{ site.baseurl }}/ada/#ada-202_3)]
+[[§202.3]({{ site.baseurl }}/ada/#202.3-Alterations)]
 
 When existing bathing rooms are altered, the Standards apply according
 to the planned scope of work. If one bathing room on a floor is altered,
@@ -95,7 +95,7 @@ The Standards do not generally require bathing rooms to be provided in a specifi
 
 ### Bathing Fixtures
 
-[[§213.3]({{ site.baseurl }}/ada/#ada-213_3)]
+[[§213.3]({{ site.baseurl }}/ada/#213.3-Plumbing-Fixtures-and-Accessories)]
 
 Bathing facilities must have at least one compliant shower compartment
 or bathtub. In transient lodging guest rooms, a portion of accessible
@@ -488,7 +488,7 @@ roll-in compartments.
 
 ### Controls at Bathtubs and Shower Compartments
 
-[[§607.5]({{ site.baseurl }}/ada/#ada-607_5)]
+[[§607.5]({{ site.baseurl }}/ada/#607.5-Controls)]
 
 Controls and faucets at showers and bathtubs must be usable with one
 hand and not require tight grasping, pinching, or twisting of the wrist,
@@ -499,7 +499,7 @@ compartments and bathtubs.
 
 #### Shower Spray Units and Water Temperature at Bathtubs and Shower Compartments
 
-[[§607.6]({{ site.baseurl }}/ada/#ada-607_6)]
+[[§607.6]({{ site.baseurl }}/ada/#607.6-Shower-Spray-Unit-and-Water)]
 
 A hand-held shower spray unit that can also be used in a fixed position
 is required at all accessible showers and bathtubs. The required on/off
@@ -534,7 +534,7 @@ gripping surface.
 
 ### Grab Bars
 
-[[§607.4]({{ site.baseurl }}/ada/#ada-607_4)]
+[[§607.4]({{ site.baseurl }}/ada/#607.4-Grab-Bars)]
 
 So that use of grab bars at shower compartments and bathtubs is not
 impeded, any projecting objects must be located at least 12\" above the
@@ -575,7 +575,7 @@ wall]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/35.png)
 
 ### Shower Seats
 
-[[§608.4]({{ site.baseurl }}/ada/#ada-608_4)]
+[[§608.4]({{ site.baseurl }}/ada/#608.4-Seats)]
 
 Seats at transfer and roll-in shower compartments can be rectangular or
 L-shaped. The L-shaped seat affords users additional support and

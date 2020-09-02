@@ -482,7 +482,7 @@ informational signs, rules of conduct signs, and posted instructions._
 
 ### Pictograms and Symbols of Accessibility 
 
-[ADA Standards [§216.2]({{ site.baseurl }}/ada/#ada-207#216.2-Designations), [§703.6]({{ site.baseurl }}/ada/#703.6-Pictograms), [§703.7]({{ site.baseurl }}/ada/#703.7-Symbols-of-Accessibility)]
+[ADA Standards [§216.2]({{ site.baseurl }}/ada/#216.2-Designations), [§703.6]({{ site.baseurl }}/ada/#703.6-Pictograms), [§703.7]({{ site.baseurl }}/ada/#703.7-Symbols-of-Accessibility)]
 
 ![Sign with "STAIRWAY" in raised letter and braille below stair
 pictogram that is on field at least 6"

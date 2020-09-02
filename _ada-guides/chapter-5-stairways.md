@@ -5,7 +5,7 @@ file: stairs.pdf
 file-description: PDF version of Chapter 5 Stairways Guide
 ---
 This guide explains requirements in the [ADA
-Standards](../ada-standards.html) for stairways. 
+Standards]({{ site.baseurl }}/ada/) for stairways. 
 
 ### Required Compliance
 
@@ -68,7 +68,7 @@ text= "Providing visual contrast (light-on-dark or dark-on-light) on the top and
 
 ### Handrails
 
-[[§504.6]({{ site.baseurl }}/ada/#ada-504_6)]
+[[§504.6]({{ site.baseurl }}/ada/#504.6-Handrails)]
 
 Handrails are required on both sides of stairs and must be continuous
 within the full length of each stair flight. Inside handrails on
@@ -95,7 +95,7 @@ text= "In facilities that primarily serve children, a second set of stairway han
 
 ### Handrail Extensions
 
-[[§505.10]({{ site.baseurl }}/ada/#ada-505_10)]
+[[§505.10]({{ site.baseurl }}/ada/#505.10-Handrail-Extensions)]
 
 Handrail extensions at the top and bottom must return to walls, guards,
 or floors and horizontal portions must comply as protruding objects. The
@@ -129,7 +129,7 @@ protruding objects if they have leading edges higher than
 
 ### Handrail Clearance and Cross Section
 
-[[§505.5]({{ site.baseurl }}/ada/#ada-505_5)]
+[[§505.5]({{ site.baseurl }}/ada/#505.5-Clearance)]
 
 Surface requirements and clearances facilitate a power grip along the
 length of handrails. Handrails can have circular or non-circular
