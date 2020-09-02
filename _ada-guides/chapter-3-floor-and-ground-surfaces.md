@@ -5,7 +5,7 @@ file: surfaces.pdf
 file-description: PDF version of Chapter 3 Floor and Ground Surfaces Guide
 ---
 This guide explains requirements in the [ADA
-Standards](../ada-standards.html) for floor and ground
+Standards]({{ site.baseurl }}/ada/) for floor and ground
 surfaces. Specifications for floor and ground surfaces address surface
 characteristics, carpeting, openings, and changes in level.  They apply
 to:
@@ -20,7 +20,7 @@ to:
 
 ### Firmness, Stability, and Slip Resistance
 
-[[§302.1]({{ site.baseurl }}/ada/#ada-302_1)]
+[[§302.1]({{ site.baseurl }}/ada/#302.1-General)]
 
 Accessible floor and ground surfaces must be stable, firm, and slip
 resistant.  Stable surfaces resist movement, while firm surfaces resist
@@ -75,7 +75,7 @@ text= "Avoid materials or construction methods that create bumpy and uneven surf
 
 ### Carpet
 
-[[§302.2]({{ site.baseurl }}/ada/#ada-302_2)]
+[[§302.2]({{ site.baseurl }}/ada/#302.2-Carpet)]
 
 Carpet that is thick, cushiony, or loose impairs accessibility,
 particularly wheelchair maneuvering.  The standards specify the maximum
@@ -109,7 +109,7 @@ edges when the height exceeds ¼ inch.  The maximum height is ½ inch.
 
 ### Openings
 
-[[§302.3]({{ site.baseurl }}/ada/#ada-302_3)]
+[[§302.3]({{ site.baseurl }}/ada/#302.3-Openings)]
 
 Openings in ground and floor surfaces, such as grates, are limited in
 width to prevent passage of a ½" diameter sphere.  Wheelchair casters

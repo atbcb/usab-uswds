@@ -6,11 +6,11 @@ file-description: PDF version of Chapter 4 Entrances Doors and Gates Guide
 ---
 This guide explains scoping and technical requirements for accessible
 entrances, doors and gates in the [ADA
-Standards](../ada-standards.html).
+Standards]({{ site.baseurl }}/ada/).
 
 ### Accessible Entrances: Minimum Number
 
-[[§206.4]({{ site.baseurl }}/ada/#ada-206_4)]
+[[§206.4]({{ site.baseurl }}/ada/#206.4-Entrances)]
 
 At least 60% of public entrances must be accessible in new construction,
 in addition to entrances directly serving tenancies, parking facilities,
@@ -69,7 +69,7 @@ safety.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg4.JPG){: .img-
 
 ### Security Barriers
 
-[[§206.8]({{ site.baseurl }}/ada/#ada-206_8)]
+[[§206.8]({{ site.baseurl }}/ada/#206.8-Security-Barriers)]
 
 <div class="grid-container">
   <div class="grid-row">
@@ -108,7 +108,7 @@ text= "Where two-way communication systems are provided to gain entry to a facil
 
 ### Alterations
 
-[[§206.4]({{ site.baseurl }}/ada/#ada-206_4)]
+[[§206.4]({{ site.baseurl }}/ada/#206.4-Entrances)]
 
 In alterations to existing facilities, accessible entrances are required:
 
@@ -134,7 +134,7 @@ img-alt= "Historic facility"
 
 ### Doors, Doorways and Gates
 
-[[§206.5]({{ site.baseurl }}/ada/#ada-206_5)]
+[[§206.5]({{ site.baseurl }}/ada/#206.5-Doors,-Doorways,-and-Gates)]
 
 Compliance is required for doors, doorways, and gates providing user
 passage on accessible routes. At least one accessible door, doorway, or
@@ -213,7 +213,7 @@ Clearance beyond the latch side is not required at entry doors to hospital patie
 
 ### Recessed Doors and Gates
 
-[[§404.2.4.3](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.4.3]({{ site.baseurl }}/aba/#ada-404_2_4_3)]
 
 ![Door maneuvering clearance 8" max. from face of the door. Note: The
 maneuvering clearance is measured from the wall but cannot be offset
@@ -366,7 +366,7 @@ text= "Automation of exterior doors is recommended, especially where the opening
 
 ### Door and Gate Surfaces
 
-[[§404.2.10](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.2.10]({{ site.baseurl }}/ada/#ada-404_2_10)]
 
 ![Detail of wheelchair user's feet and footrests at open door with
 kickplate]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg24.jpg){: .img-right .img-medium}
@@ -422,7 +422,7 @@ text= "Peepholes and other means of identifying visitors in mobility accessible 
 <div class="border clearfix padding-1 margin-y-05" markdown="1">
 ### Doors and Gates Operated Only By Security Personnel
 
-[[§404.1, Ex](../ada-standards/chapter-4-accessible-routes.html#404%20Doors,%20Doorways,%20and%20Gates)]
+[[§404.1, Ex]({{ site.baseurl }}/ada/#404.1-General)]
 
 ![Detention/correctional facility icon]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg28.jpg){: .img-right}
 
@@ -431,7 +431,7 @@ Manual doors, doorways, and gates that are designed to be operated only by secur
 
 ### Automatic and Power-Assisted Doors and Gates
 
-[[§404.3]({{ site.baseurl }}/ada/#ada-404_3)]
+[[§404.3]({{ site.baseurl }}/ada/#404.3-Automatic-and-Power-Assisted-Doors-and-Gates)]
 
 <div class="clearfix" markdown="1">
 ![Label: "Automatic Door -- Caution"]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg29.jpg){: .float-right .img-medium}
@@ -447,7 +447,7 @@ others. Doors are classified by their type or level of automation.
 
 ### Power-Assisted Doors and Gates
 
-[[§404.3]({{ site.baseurl }}/ada/#ada-404_3)]
+[[§404.3]({{ site.baseurl }}/ada/#404.3-Automatic-and-Power-Assisted-Doors-and-Gates)]
 
 Power-assisted devices reduce the opening force of doors with closing
 mechanisms.They are activated by initial manual force, switches, or sensors. Most
@@ -507,7 +507,7 @@ text= "Placing controls in locations that preclude backing-up will facilitate us
 
 ### Full-Powered Automatic Doors and Gates
 
-[[§404.3]({{ site.baseurl }}/ada/#ada-404_3)]
+[[§404.3]({{ site.baseurl }}/ada/#404.3-Automatic-and-Power-Assisted-Doors-and-Gates)]
 
 Full-powered automatic doors and gates are often found in grocery and
 retail stores, hotels, and airports to ease passage with shopping carts

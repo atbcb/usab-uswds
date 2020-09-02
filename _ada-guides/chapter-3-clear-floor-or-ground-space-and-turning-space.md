@@ -5,7 +5,7 @@ file: clear-floor-space.pdf
 file-description: PDF version of Chapter 3 Clear Floor Space Guide
 ---
 This guide explains requirements in the [ADA
-Standards](../ada-standards.html) for clear floor or ground space and
+Standards]({{ site.baseurl }}/ada/) for clear floor or ground space and
 turning space. Clearances are required at accessible elements, fixtures,
 and controls so that people with disabilities, including those who use
 wheelchairs, can approach and use them. The standards also address
@@ -29,7 +29,7 @@ text= "Clear floor space is required at each accessible element, including stora
 
 ### Position
 
-[[§305.5]({{ site.baseurl }}/ada/#ada-305_5)]
+[[§305.5]({{ site.baseurl }}/ada/#305.5-Position)]
 
 At most elements, clear floor or ground space can be positioned for
 either a forward or a side approach. For better usability, a forward
@@ -61,7 +61,7 @@ text= "Centering the clear floor or ground space on elements is often advisable 
 
 ### Surface and Size
 
-[[§305.2]({{ site.baseurl }}/ada/#ada-305_2)]
+[[§305.2]({{ site.baseurl }}/ada/#305.2-Floor-or-Ground-Surfaces)]
 
 <div class="grid-container">
   <div class="grid-row">
@@ -77,7 +77,7 @@ text= "Centering the clear floor or ground space on elements is often advisable 
 
 ### Approach and Maneuvering Clearance
 
-[[§305.6]({{ site.baseurl }}/ada/#ada-305_6)]
+[[§305.6]({{ site.baseurl }}/ada/#305.6-Approach)]
 
 Where the space is obstructed on both sides for more than half the depth, additional clearance is required for maneuvering. Accessible routes must connect to the unobstructed side of the space.
 
@@ -85,7 +85,7 @@ Where the space is obstructed on both sides for more than half the depth, additi
 
 ### Knee and Toe Space
 
-[[§305.4]({{ site.baseurl }}/ada/#ada-305_4)]
+[[§305.4]({{ site.baseurl }}/ada/#305.4-Knee-and-Toe-Clearance)]
 
 Objects that provide space for toes or knees can overlap a portion of
 the clear floor space. Knee and toe space allows a closer approach to
@@ -210,7 +210,7 @@ turn]({{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs19.jpg){: .img-la
 
 ### Size
 
-[[§304.3]({{ site.baseurl }}/ada/#ada-304_3)]
+[[§304.3]({{ site.baseurl }}/ada/#304.3-Size)]
 
 Turning space can be provided in the shape of a circle or a "T". Elements
 with knee and toe space can overlap a portion of the turning space.
@@ -238,7 +238,7 @@ up.]({{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs21.jpg){: .img-lar
 
 ### Door Swing and Other Space Requirements
 
-[[§304.4]({{ site.baseurl }}/ada/#ada-304_4)]
+[[§304.4]({{ site.baseurl }}/ada/#304.4-Door-Swing)]
 
 Doors can swing into the turning space. The turning space can overlap
 other space requirements, including clear floor space required at
