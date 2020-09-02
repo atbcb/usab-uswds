@@ -37,11 +37,11 @@ The Access Board provides technical assistance and training on the ABA Standards
 
 - October 31, 2008 -- DOD adopts the ABA Accessibility Standards.
 
-- September 26, 2013 -- The Board issues a supplement to the ABA Accessibility Guidelines on [outdoor developed areas](https://beta.regulations.gov/document/ATBCB-2009-0006-0085), which become part of the ABA Standards sixty (60) days later.
+- September 26, 2013 -- The Board issues a supplement to the ABA Accessibility Guidelines on [outdoor developed areas](https://www.regulations.gov/document?D=ATBCB-2009-0006-0085), which become part of the ABA Standards sixty (60) days later.
 
-- May 7, 2014 -- The Board publishes a supplement to the ADA and ABA Accessibility Guidelines on [emergency transportable housing](https://beta.regulations.gov/document/ATBCB-2012-0004-0039).
+- May 7, 2014 -- The Board publishes a supplement to the ADA and ABA Accessibility Guidelines on [emergency transportable housing](https://www.regulations.gov/document?D=ATBCB-2012-0004-0039).
 
-- September 26, 2014 -- The Board issues a [correction](https://beta.regulations.gov/document/ATBCB-2012-0004-0041) to final guidelines for emergency transportable housing.
+- September 26, 2014 -- The Board issues a [correction](https://www.regulations.gov/document?D=ATBCB-2012-0004-0041) to final guidelines for emergency transportable housing.
 
 
 ### Technical Assistance
