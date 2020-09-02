@@ -1,7 +1,7 @@
 ---
 title: U.S. Fleet Case Studies Phase 1
-Order-Number: 3
-Research-title: US Fleet Case Studies Phase 1
+order-number: 3
+research-title: US Fleet Case Studies Phase 1
 Status: Completed
 Year-Completed: 2004
 Topic: ADA Access to Passenger Vessels

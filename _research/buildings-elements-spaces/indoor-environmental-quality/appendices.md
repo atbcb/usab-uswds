@@ -1,7 +1,7 @@
 ---
 title: Appendices
-Order-Number: 11
-Research-title: Appendices
+order-number: 11
+research-title: Appendices
 Status: Completed
 Year-Completed: 2006
 Topic: Indoor Environmental Quality

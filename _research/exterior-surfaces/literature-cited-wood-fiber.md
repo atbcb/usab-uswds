@@ -1,7 +1,7 @@
 ---
 title: Literature Cited
-Order-Number: 5
-Research-title: Literature Cited
+order-number: 5
+research-title: Literature Cited
 Status: Completed
 Year-Completed: 2006
 Topic: Stabilized Engineered Wood Fiber for Accessible Trails 

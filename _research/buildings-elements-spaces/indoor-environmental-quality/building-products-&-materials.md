@@ -1,6 +1,6 @@
 ---
 title: Building Products & Materials
-Order-Number: 16
+order-number: 16
 Research title: Building Products & Materials
 Status: Completed
 Year-Completed: 2006

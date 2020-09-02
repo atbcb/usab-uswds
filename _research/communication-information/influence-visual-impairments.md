@@ -1,7 +1,7 @@
 ---
 title: The Influence of Visual Impairments on VMS Legibility
-Order-Number: 2
-Research-title: the Influence of Visual Impairments on VMS Legibility
+order-number: 2
+research-title: the Influence of Visual Impairments on VMS Legibility
 Status: Completed
 Year-Completed: 2002
 Topic: Synthesis on the Legibility of Variable Message Signing 

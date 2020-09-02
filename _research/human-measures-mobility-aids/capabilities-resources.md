@@ -1,7 +1,7 @@
 ---
 title: Capabilities Resources and Facilities
-Order-Number: 4
-Research-title: Capabilities Resources and Facilities
+order-number: 4
+research-title: Capabilities Resources and Facilities
 Status: Completed
 Year-Completed: 1997
 Topic: Anthropometry for Persons with Disabilities Needs for the 21st Century

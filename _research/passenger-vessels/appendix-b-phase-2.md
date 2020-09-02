@@ -1,7 +1,7 @@
 ---
 title: Appendix B (Phase 2)
-Order-Number: 15
-Research-title: Appendix B Phase 2
+order-number: 15
+research-title: Appendix B Phase 2
 Status: Completed
 Year-Completed: 2005
 Topic: ADA Access to Passenger Vessels 

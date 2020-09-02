@@ -1,7 +1,7 @@
 ---
 title: Installation
-Order-Number: 7
-Research-title: Installation
+order-number: 7
+research-title: Installation
 Status: Completed
 Topic: Large Area Assistive Listening Systems 
 ---

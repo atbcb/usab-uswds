@@ -1,7 +1,7 @@
 ---
 title: Long Term Research
-Order-Number: 3
-Research-title: Long Term Research
+order-number: 3
+research-title: Long Term Research
 Status: Completed
 Year-Completed: 1997
 Topic: Anthropometry for Persons with Disabilities Needs for the 21st Century 

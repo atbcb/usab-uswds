@@ -1,7 +1,7 @@
 ---
 title: Appendix A (Phase 2)
-Order-Number: 14
-Research-title: Appendix A Phase 2
+order-number: 14
+research-title: Appendix A Phase 2
 Status: Completed
 Year-Completed: 2005
 Topic: ADA Access to Passenger Vessels 

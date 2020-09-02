@@ -1,7 +1,7 @@
 ---
 title: Materials and Methods
-Order-Number: 2
-Research-title: Materials and Methods
+order-number: 2
+research-title: Materials and Methods
 Status: Completed
 Year-Completed: 2003
 Topic: Improved Engineered Wood Fiber (EWF) Surfaces 

@@ -1,7 +1,7 @@
 ---
 title: Conclusions
-Order-Number: 4
-Research-title: Conclusions
+order-number: 4
+research-title: Conclusions
 Status: Completed
 Year-Completd: 2003
 Topic: Improved Engineered Wood Fiber (EWF) Surfaces 

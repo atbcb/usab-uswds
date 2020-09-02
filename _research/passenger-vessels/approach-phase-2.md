@@ -1,7 +1,7 @@
 ---
 title: Approach (Phase 2)
-Order-Number: 9
-Research-title: Approach Phase 2
+order-number: 9
+research-title: Approach Phase 2
 Status: Completed
 Year-Completed: 2005
 Topic: ADA Access to Passenger Vessels

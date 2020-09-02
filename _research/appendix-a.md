@@ -1,7 +1,7 @@
 ---
 title: Appendix A
-Order-Number: 1
-Research-title: Appendix A
+order-number: 1
+research-title: Appendix A
 Status: Completed
 Year-Completed: 1996
 Topic: Swimming Pool Accessibility

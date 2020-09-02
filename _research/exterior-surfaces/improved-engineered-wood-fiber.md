@@ -1,7 +1,7 @@
 ---
 title: Improved Engineered Wood Fiber EWF Surfaces for Accessible Playgrounds
-Order-Number: 0
-Research-title: Improved Engineered Wood Fiber EWF Surfaces for Accessible Playgrounds
+order-number: 0
+research-title: Improved Engineered Wood Fiber EWF Surfaces for Accessible Playgrounds
 Status: Completed
 Year-Completed: 2003
 Topic: Improved Engineered Wood Fiber (EWF) Surfaces

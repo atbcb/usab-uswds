@@ -1,7 +1,7 @@
 ---
 title: Application and Examples (Phase 2)
-Order-Number: 11
-Research-title: Application and Examples Phase 2
+order-number: 11
+research-title: Application and Examples Phase 2
 Status: Completed
 Year-Completed: 2005
 Topic: ADA Access to Passenger Vessels

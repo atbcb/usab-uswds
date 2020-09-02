@@ -1,7 +1,7 @@
 ---
 Topic: Appendices Detailed Recommendations
-Order-Number: 6
-Research-title: Appendices Detailed Recommendations
+order-number: 6
+research-title: Appendices Detailed Recommendations
 Status: Completed
 Year-Completed: 2006
 Topic: Indoor Environmental Quality

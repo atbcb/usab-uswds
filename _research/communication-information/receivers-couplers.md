@@ -1,7 +1,7 @@
 ---
 title: Receivers and Couplers Recommendations
-Order-Number: 6
-Research-title: Receivers and Couplers Recommendations
+order-number: 6
+research-title: Receivers and Couplers Recommendations
 Status: Completed
 Topic: Large Area Assistive Listening Systems
 ---

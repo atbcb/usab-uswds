@@ -1,7 +1,7 @@
 ---
 title: References and Notes (Phase 1)
-Order-Number: 5
-Research-title: References and Notes Phase 1
+order-number: 5
+research-title: References and Notes Phase 1
 Status: Completed
 Year-Completed: 2004
 Topic: ADA Access to Passenger Vessels

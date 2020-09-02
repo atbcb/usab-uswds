@@ -1,7 +1,7 @@
 ---
 title: References
-Order-Number: 4
-Research-title: References
+order-number: 4
+research-title: References
 Status: Completed
 Year-Completed: 2001
 Topic: Toileting and Bathing Facilities Assisted Transfers

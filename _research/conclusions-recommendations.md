@@ -1,7 +1,7 @@
 ---
 title: Conclusions and Recommendations
-Order-Number: 3
-Research-title: Conclusions and recommendations
+order-number: 3
+research-title: Conclusions and recommendations
 Status: Completed
 Year-Completed: 2001
 Topic: Toileting and Bathing Facilities Assisted Transfers

@@ -1,7 +1,7 @@
 ---
 title: Recommendations
-Order-Number: 0
-Research-title: Recommendations
+order-number: 0
+research-title: Recommendations
 Status: Completed
 Year-Completed: 1996
 Topic: Swimming Pool Accessibility

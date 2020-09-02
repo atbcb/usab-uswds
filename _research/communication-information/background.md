@@ -1,7 +1,7 @@
 ---
 title: Background
-Order-Number: 2
-Research-title: Background
+order-number: 2
+research-title: Background
 Status: Completed
 Topic: Large Area Assistive Listening Systems 
 ---

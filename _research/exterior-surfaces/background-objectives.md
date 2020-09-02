@@ -1,7 +1,7 @@
 ---
 title: Background and Objectives
-Order-Number: 2
-Research-title: Background an Objectives
+order-number: 2
+research-title: Background an Objectives
 Status: Completed
 Year-Completed: 2006
 Topic: Stabilized Engineered Wood Fiber for Accessible Trails

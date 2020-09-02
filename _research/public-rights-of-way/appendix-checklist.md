@@ -1,7 +1,7 @@
 ---
 title: Appendix Checklist for APR Installations
-Order-Number: 4
-Research-title: Appendix Checklist for APR Installations
+order-number: 4
+research-title: Appendix Checklist for APR Installations
 Status: Completed
 Year-Completed: 2009
 Topic: Common Problems Arising in APS Installation 

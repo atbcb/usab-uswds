@@ -1,6 +1,6 @@
 ---
 title: Appendix B
-Order-Number: 2
+order-number: 2
 Research title: Appendix B
 Status: Completed
 Year-Completed: 1996

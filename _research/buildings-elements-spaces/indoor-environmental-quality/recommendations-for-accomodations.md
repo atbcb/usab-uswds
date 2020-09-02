@@ -1,7 +1,7 @@
 ---
 Topic: Recommendations for Accommodations
-Order-Number: 9
-Research-title: Recommendations for Accommodations
+order-number: 9
+research-title: Recommendations for Accommodations
 Status: Completed
 Year-Completed: 2006
 Topic: Indoor Environmental Quality

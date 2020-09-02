@@ -1,7 +1,7 @@
 ---
 title: Abstract
-Order-Number: 0
-Research-title: Abstract
+order-number: 0
+research-title: Abstract
 Status: Completed
 Year-Completed: 1999
 Topic: Accessible Exterior Surfaces

@@ -1,7 +1,7 @@
 ---
 Ttile: Results
-Order-Number: 3
-Research-title: Results
+order-number: 3
+research-title: Results
 Status: Completed
 Year-Completed: 1999
 Topic: Accessible Exterior Surfaces 

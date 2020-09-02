@@ -1,7 +1,7 @@
 ---
 title: Methodology
-Order-Number: 2
-Research-title: Methodology
+order-number: 2
+research-title: Methodology
 Status: Completed
 Year-Completed: 1999
 Topic: Accessible Exterior Surfaces

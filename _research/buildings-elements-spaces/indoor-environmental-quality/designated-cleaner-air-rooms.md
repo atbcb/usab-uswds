@@ -1,7 +1,7 @@
 ---
 Topic: Designated Cleaner Air Rooms
-Order-Number: 8
-Research-title: Designated Cleaner Air Rooms
+order-number: 8
+research-title: Designated Cleaner Air Rooms
 Status: Completed
 Year-Completed: 2006
 Topic: Indoor Environmental Quality

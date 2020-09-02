@@ -1,7 +1,7 @@
 ---
 title: Microphone Inputs
-Order-Number: 3
-Research-title: Microphone Inputs
+order-number: 3
+research-title: Microphone Inputs
 Status: Completed
 Topic: Large Area Assistive Listening Systems
 ---

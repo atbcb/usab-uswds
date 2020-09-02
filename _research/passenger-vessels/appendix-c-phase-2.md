@@ -1,7 +1,7 @@
 ---
 title: Appendix C (Phase 2)
-Order-Number: 16
-Research-title: Appendix Phase 2
+order-number: 16
+research-title: Appendix Phase 2
 Status: Completed
 Year-Completed: 2005
 Topoc: ADA Access to Passenger Vessels

@@ -1,7 +1,7 @@
 ---
 title: Study Findings
-Order-Number: 3
-Research-title: Study Findings
+order-number: 3
+research-title: Study Findings
 Status: Completed
 Year-Completed: 2014
 Topic: Surface Roughness Final Report 

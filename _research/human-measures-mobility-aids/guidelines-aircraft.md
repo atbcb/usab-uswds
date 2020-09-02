@@ -1,7 +1,7 @@
 ---
 title: Guidelines for Aircraft Boarding Chairs Technical Paper
-Order-Number: 0
-Research-title: Guidelines for Aircraft Boarding Chairs Technical Paper
+order-number: 0
+research-title: Guidelines for Aircraft Boarding Chairs Technical Paper
 Status: Completed
 Year-Completed: 1987
 Topic: Guidelines for Aircraft Boarding Chairs

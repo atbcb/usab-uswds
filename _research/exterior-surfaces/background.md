@@ -1,7 +1,7 @@
 ---
 title: Background
-Order-Number: 1
-Research-title: Background
+order-number: 1
+research-title: Background
 Status: Completed
 Year-Completed: 2014
 Topic: Surface Roughness Final Report 

@@ -1,7 +1,7 @@
 ---
 title: Introduction and Research Objectives
-Order-Number: 1
-Research-title: Introduction and Research Objectives
+order-number: 1
+research-title: Introduction and Research Objectives
 Status: Completed
 Year-Completed: 1999
 Topic: Accessible Exterior Surfaces

@@ -1,7 +1,7 @@
 ---
 title: Abstract
-Order-Number: 1
-Research-title: Abstract
+order-number: 1
+research-title: Abstract
 Status: Completed
 Year-Completed: 2004
 Topic: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces

@@ -1,7 +1,7 @@
 ---
 title: References
-Order-Number: 5
-Research-title: References
+order-number: 5
+research-title: References
 Status: Completed
 Year-Completed: 1997
 Topic: Anthropometry for Persons with Disabilities Needs for the 21st Century

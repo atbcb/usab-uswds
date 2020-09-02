@@ -1,7 +1,7 @@
 ---
 title: Installation Issues
-Order-Number: 2
-Research-title: Installation Isssues
+order-number: 2
+research-title: Installation Isssues
 Status: Completed
 Year-Completed: 2009
 Topic: Common Problems Arising in APS Installation

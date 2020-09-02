@@ -1,7 +1,7 @@
 ---
 title: Introduction
-Order-Number: 1
-Research-title: Introduction
+order-number: 1
+research-title: Introduction
 Status: Completed
 Year-Completed: 2009
 Topic: Common Problems Arising in APS Installation 

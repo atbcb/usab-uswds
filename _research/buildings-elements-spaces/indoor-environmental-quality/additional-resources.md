@@ -1,7 +1,7 @@
 ---
 Topic: Additional Resources
-Order-Number: 7
-Research-title: Additional Resources
+order-number: 7
+research-title: Additional Resources
 Status: Completed
 Year-Completed: 2006
 Topic: Indoor Environmental QUality

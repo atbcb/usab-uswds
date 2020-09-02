@@ -1,7 +1,7 @@
 ---
 title: References (Phase 2)
-Order-Number: 13
-Research-title: References Phase 2
+order-number: 13
+research-title: References Phase 2
 Status: Completed
 Year-Completed: 2005
 Topic: ADA Access to Passenger Vessels

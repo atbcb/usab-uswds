@@ -1,7 +1,7 @@
 ---
 title: ADA Access to Passenger Vessels Finding Safety Equivalence Solutions for Weathertight Doors with Coamings
-Order-Number: 0
-Research-title: ADA Access to Passenger Vessels Finding Safety equivalence Solutions for weathertight Doors with Coamings
+order-number: 0
+research-title: ADA Access to Passenger Vessels Finding Safety equivalence Solutions for weathertight Doors with Coamings
 Status: Completed
 Year-Completed: 2004
 Topic: ADA Access to Passenger Vessels

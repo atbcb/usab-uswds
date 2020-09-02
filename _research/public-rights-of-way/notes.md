@@ -1,7 +1,7 @@
 ---
 title: Notes
-Order-Number: 3
-Research-title: Notes
+order-number: 3
+research-title: Notes
 Status: Completed
 Year-Completed: 2009
 Topic: Common Problems Arising in APS Installation 

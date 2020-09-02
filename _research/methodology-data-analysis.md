@@ -1,7 +1,7 @@
 ---
 title: Methodology and Data Analysis
-Order-Number: 1
-Research-title: Methodology and Data Analysis
+order-number: 1
+research-title: Methodology and Data Analysis
 Status: Completed
 Year-Completed: 2001
 Topic: Toileting and Bathing Facilities Assisted Transfers 
