@@ -15,20 +15,10 @@ As issued by the Board, the standards are not mandatory on health care providers
 
 **Background**
 
--       February 9, 2012 -- The Board releases [proposed standards](https://beta.regulations.gov/document/ATBCB-2012-0003-0001) for public comment: [Docket](https://beta.regulations.gov/docket/ATBCB-2012-0003).
+- February 9, 2012 -- The Board releases [proposed standards](https://www.regulations.gov/document?D=ATBCB-2012-0003-0001) for public comment: [Docket](https://www.regulations.gov/docket?D=ATBCB-2012-0003).
 
--       July 5, 2012 -- The Board [organizes ](https://beta.regulations.gov/document/ATBCB-2012-0003-0064)MDE Accessibility Standards Advisory Committeeto assist it in finalizing the standards.
+- July 5, 2012 -- The Board [organizes ](https://www.regulations.gov/document?D=ATBCB-2012-0003-0064)MDE Accessibility Standards Advisory Committeeto assist it in finalizing the standards.
 
--       December 6, 2013 -- The MDE Accessibility Standards Advisory Committee submits its [report](https://beta.regulations.gov/document/ATBCB-2013-0009-0001) to the Board**.**
+- December 6, 2013 -- The MDE Accessibility Standards Advisory Committee submits its [report](https://www.regulations.gov/document?D=ATBCB-2013-0009-0001) to the Board**.**
 
--       January 9, 2017 -- The Board issues [final standards](https://beta.regulations.gov/document/ATBCB-2012-0003-0077) for MDE.
-
-### Technical Assistance
-
-Contact the Access Board for guidance on these standards:
-
-800-872-2253 (v)
-
-800-993-2822 (TTY)
-
-[mde@access-board.gov](mailto:mde@access-board.gov)
+- January 9, 2017 -- The Board issues [final standards](https://www.regulations.gov/document?D=ATBCB-2012-0003-0077) for MDE.

@@ -12,31 +12,20 @@ The Access Board has updated its accessibility guidelines for [buses and vans]({
 
 ### Background
 
--       September 6, 1991 -- The Board publishes the ADAAG for Transportation Vehicles, which are also adopted by DOT on the same day.
+- September 6, 1991 -- The Board publishes the ADAAG for Transportation Vehicles, which are also adopted by DOT on the same day.
 
--       September 28, 1998 -- The Board and DOT jointly issue a [final rule](https://www.federalregister.gov/documents/1998/09/28/98-25420/americans-with-disabilities-act-accessibility-guidelines-for-transportation-vehicles-over-the-road) to supplement requirements for [over-the-road buses](https://www.federalregister.gov/documents/1998/09/28/98-25420/americans-with-disabilities-act-accessibility-guidelines-for-transportation-vehicles-over-the-road) in the vehicles guidelines and standards.
+- September 28, 1998 -- The Board and DOT jointly issue a [final rule](https://www.federalregister.gov/documents/1998/09/28/98-25420/americans-with-disabilities-act-accessibility-guidelines-for-transportation-vehicles-over-the-road) to supplement requirements for [over-the-road buses](https://www.federalregister.gov/documents/1998/09/28/98-25420/americans-with-disabilities-act-accessibility-guidelines-for-transportation-vehicles-over-the-road) in the vehicles guidelines and standards.
 
--       April 11, 2007 -- The Board releases [draft updates](https://beta.regulations.gov/document/ATBCB-2007-0006-0001) to the guidelines for buses and vans for public comment.
+- April 11, 2007 -- The Board releases [draft updates](https://www.regulations.gov/document?D=ATBCB-2007-0006-0001) to the guidelines for buses and vans for public comment.
 
--       November 19, 2008 -- The Board releases [revised draft updates](https://beta.regulations.gov/document/ATBCB-2007-0006-0002) to the guidelines for buses and vans for public comment.
+- November 19, 2008 -- The Board releases [revised draft updates](https://www.regulations.gov/document?D=ATBCB-2007-0006-0002) to the guidelines for buses and vans for public comment.
 
--       July 26, 2010 -- The Board [proposes updates](https://beta.regulations.gov/document/ATBCB-2010-0004-0001) to guidelines on buses and vans for public comment: [Docket](https://beta.regulations.gov/docket/ATBCB-2010-0004).
+- July 26, 2010 -- The Board [proposes updates](https://www.regulations.gov/document?D=ATBCB-2010-0004-0001) to guidelines on buses and vans for public comment: [Docket](https://www.regulations.gov/docket?D=ATBCB-2010-0004).
 
--       May 23, 2013 -- The Board [establishes](https://beta.regulations.gov/document/ATBCB-2013-0006-0010) the Rail Vehicles Access Advisory Committee to recommend updates to sections of the guidelines covering rail cars.
+- May 23, 2013 -- The Board [establishes](https://www.regulations.gov/document?D=ATBCB-2013-0006-0010) the Rail Vehicles Access Advisory Committee to recommend updates to sections of the guidelines covering rail cars.
 
--       July 29, 2015 -- The Rail Vehicles Access Advisory Committee submits its [final report](https://beta.regulations.gov/document/ATBCB-2013-0006-0179) to the Board.
+- July 29, 2015 -- The Rail Vehicles Access Advisory Committee submits its [final report](https://www.regulations.gov/document?D=ATBCB-2013-0006-0179) to the Board.
 
--       December 14, 2016 -- The Board issues a [final rule](https://beta.regulations.gov/document/ATBCB-2010-0004-0092) updating the guidelines for buses and vans.
+- December 14, 2016 -- The Board issues a [final rule](https://www.regulations.gov/document?D=ATBCB-2010-0004-0092) updating the guidelines for buses and vans.
 
--       February 14, 2020 -- The Board issues [advance notice](https://beta.regulations.gov/document/ATBCB-2020-0002-0001) for public comment on update of guidelines for rail cars: [Docket](https://beta.regulations.gov/document/ATBCB-2020-0002-0001/).
-
-
-### Technical Assistance
-
-Contact the Access Board for guidance on these standards:
-
-800-872-2253 (v)
-
-800-993-2822 (TTY)
-
-[ta@access-board.gov](mailto:ta@access-board.gov)
+- February 14, 2020 -- The Board issues [advance notice](https://www.regulations.gov/document?D=ATBCB-2020-0002-0001) for public comment on update of guidelines for rail cars: [Docket](https://www.regulations.gov/document?D=ATBCB-2020-0002-0001/).
