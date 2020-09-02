@@ -78,7 +78,7 @@ being applied --- determined that an alternate symbol did not provide
 
 Standards issued under the ABA apply to facilities designed, built, or
 altered with federal funds or leased by federal agencies. The [ABA
-Standards](../../about-the-aba-standards/aba-standards.html) are
+Standards]({{ site.baseurl }}/aba/) are
 implemented by the Department of Defense, the Department of Housing and
 Urban Development, the General Services Administration, and the U.S.
 Postal Service. Like the ADA Standards, these standards mandate use of

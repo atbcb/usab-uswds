@@ -5,12 +5,17 @@ file: amoe.pdf
 file-description: PDF version of Chapter 4 Accessible Means of Egress Guide
 ---
 
-<div class="margin-top-1" markdown="1">
-{% include grid-2col-leftimg-righttext.html
-img-file= "chapter4/4amoe-icc.JPG"
-img-alt= "ICC logo"
-text= "This guide explains requirements in the <a href=\"https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards\">ADA Standards</a> and referenced sections of the International Building Code (IBC) and was developed in cooperation with the International Code Council."
-%}
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col-2">
+        <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe-icc.JPG" alt="ICC logo">
+    </div>
+    <div class="tablet:grid-col">
+        <p>This guide explains requirements in the <a href="{{ site.baseurl }}/ada/">ADA Standards</a> and referenced sections of the International Building Code (IBC) and was developed in cooperation with the International Code Council.</p>
+    </div>
+  </div>
+</div>
 
 ### Required Compliance with the IBC
 
@@ -153,7 +158,7 @@ doors (§404.2.9).]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe7.
 
 ### Stairways 
 
-[ADA Standards [§210](../ada-standards/chapter-2-scoping-requirements.html#210%20Stairways), [§504](../ada-standards/chapter-5-general-site-and-building-elements.html#504%20Stairways)]
+[ADA Standards [§210]({{ site.baseurl }}/ada/#ada-210), [§504]({{ site.baseurl }}/ada/#ada-504)]
 
 Stairways and handrails that are part of a means of egress are addressed
 by the IBC (§1009 (2003), §1003.3.3 (2000)). In addition, interior and
@@ -205,7 +210,7 @@ img-alt= "standpipe"
 
 ### Handrails
 
-[ADA Standards [§504.6](../ada-standards/chapter-5-general-site-and-building-elements.html#504%20Stairways),[§505](../ada-standards/chapter-5-general-site-and-building-elements.html#505%20Handrails)]
+[ADA Standards [§504.6]({{ site.baseurl }}/ada/#504.6-Handrails),[§505]({{ site.baseurl }}/ada/#ada-505)]
 
 Specifications in the ADA Standards for handrail surfaces and clearances
 facilitate a power grip along the handrail length. Handrails can have
@@ -399,7 +404,7 @@ leading to exterior area for assisted rescue.]({{ site.baseurl }}{{ page.image-d
 
 ### Signs
 
-[ADA Standards [§216](../ada-standards/chapter-2-scoping-requirements.html#216%20Signs), [§703](../ada-standards/chapter-7-communication-elements-and-features.html#703%20Signs)]
+[ADA Standards [§216]({{ site.baseurl }}/ada/#ada-216), [§703]({{ site.baseurl }}/ada/#ada-703)]
 
 The ADA Standards cover tactile and visual features of signs, including
 those that serve means of egress. Only certain signs are subject to
@@ -414,7 +419,7 @@ separate signs.
 
 ### Tactile and Visual Signs
 
-[ADA Standards [§216.2](../ada-standards/chapter-2-scoping-requirements.html#216%20Signs), [§216.4.1](../ada-standards/chapter-2-scoping-requirements.html#216%20Signs)]
+[ADA Standards [§216.2]({{ site.baseurl }}/ada/#216.2-Designations), [§216.4.1]({{ site.baseurl }}/ada/#ada-216_4_1)]
 
 The IBC requires exits and exit access doors to be marked by illuminated
 exit signs (§1011, §1003.2.10). In addition, the IBC requires a tactile
@@ -445,7 +450,7 @@ _Exit signs (located at exits) and signs identifying permanent spaces, such as s
 
 ### Visual Signs
 
-[ADA Standards [§216.3](../ada-standards/chapter-2-scoping-requirements.html#216%20Signs), [§216.4.3](../ada-standards/chapter-2-scoping-requirements.html#216%20Signs)]
+[ADA Standards [§216.3]({{ site.baseurl }}/ada/#216.3-Directional-and-Informational-Signs), [§216.4.3]({{ site.baseurl }}/ada/#ada-216_4_3)]
 
 Signs providing direction to, or information about, interior rooms and
 spaces must meet visual criteria in the ADA Standards, but are not
@@ -477,7 +482,7 @@ informational signs, rules of conduct signs, and posted instructions._
 
 ### Pictograms and Symbols of Accessibility 
 
-[ADA Standards [§216.2](../ada-standards/chapter-2-scoping-requirements.html#216%20Signs), [§703.6](../ada-standards/chapter-7-communication-elements-and-features.html#703%20Signs), [§703.7](../ada-standards/chapter-7-communication-elements-and-features.html#703%20Signs)]
+[ADA Standards [§216.2]({{ site.baseurl }}/ada/#216.2-Designations), [§703.6]({{ site.baseurl }}/ada/#703.6-Pictograms), [§703.7]({{ site.baseurl }}/ada/#703.7-Symbols-of-Accessibility)]
 
 ![Sign with "STAIRWAY" in raised letter and braille below stair
 pictogram that is on field at least 6"

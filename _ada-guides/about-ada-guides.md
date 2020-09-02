@@ -29,8 +29,8 @@ governments to provide public transportation. They became effective on
 November 29, 2006 and replace earlier standards issued by DOT in 1991.
 
 The current DOJ and DOT ADA Standards are very similar as both documents
-are closely based on the Access Board's [ADA Accessibility
-Guidelines](../background/ada-aba-accessibility-guidelines-2004.html)
+are closely based on the Access Board's ADA Accessibility
+Guidelines
 (2004). This guide explains requirements of both standards, which are
 jointly referred to as the "ADA Standards" or "the standards." Most
 provisions of each standard are identical and discussed in this guide

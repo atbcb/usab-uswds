@@ -5,7 +5,7 @@ file: protruding-objects.pdf
 file-description: PDF version of Chapter 3 Protruding Objects Guide
 ---
 This guide explains requirements in the [ADA
-Standards](/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards)
+Standards]({{ site.baseurl }}/ada/)
 for protruding objects.
 
 ### Protruding Objects
@@ -32,7 +32,7 @@ corridors and apply equally to circulation paths in rooms and spaces.
 
 ### Protrusion Limits
 
-[[§307.2]({{ site.baseurl }}/ada/#ada-307_2)]
+[[§307.2]({{ site.baseurl }}/ada/#307.2-Protrusion-Limits)]
 
 People with vision impairments often travel closely along walls which
 can provide wayfinding cues sometime called a "shoreline." Objects
@@ -107,7 +107,7 @@ knee clearance and the maximum specified for cane detection."
 
 ### Post-Mounted Objects
 
-[[§307.3]({{ site.baseurl }}/ada/#ada-307_3)]
+[[§307.3]({{ site.baseurl }}/ada/#307.3-Post-Mounted-Objects)]
 
 Free-standing objects with leading edges 27" to 80" high that are
 mounted on posts or pylons cannot protrude more than 12" into
@@ -128,7 +128,7 @@ with leading edge 27\" max. AFF or 80\" min. AFF
 
 ### Vertical Clearance
 
-[[§307.4]({{ site.baseurl }}/ada/#ada-307_4)]
+[[§307.4]({{ site.baseurl }}/ada/#307.4-Vertical-Clearance)]
 
 Headroom clearance of at least 80" high is required along all
 circulation paths (except at doors and doorways where a 78" minimum
