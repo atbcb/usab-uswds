@@ -134,15 +134,12 @@ collections:
   aba-guides:
     output: true
     permalink: /aba/guides/:path/
-  prowag-shared-use:
+  prowag:
     output: true
     permalink: /prowag/:path/
   prowag-rulemaking:
     output: true
     permalink: /prowag/rulemaking:path/
-  prowag-rulemaking:
-    output: true
-    permalink: /prowag/rulemaking/:path/
   ada-ibc-comparison:
     output: true
     permalink: /ada/background/ada-ibc-comparison/:path/
@@ -230,11 +227,11 @@ defaults:
       image-directory: /images/ada-aba/background/
   - scope:
       path: ""
-      type: "prowag-shared-use"
+      type: "prowag"
     values:
       collection-title: "(Proposed) Public Rights-of-Way"
       collection-subtitle: "Accessibility Guidelines"
-      collection-folder: prowag-shared-use
+      collection-folder: prowag
       layout: standards
       file-directory: /files/prowag/
       image-directory: /images/prowag/
@@ -278,6 +275,7 @@ defaults:
       layout: standards
       file-directory: /files/ict/
       image-directory: /images/ict/
+      right-sidenav: sidenav-508.html
   - scope:
       path: ""
       type: "mde"
