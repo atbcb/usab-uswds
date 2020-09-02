@@ -17,7 +17,7 @@ Committee Charter
 > (d) harmonization with international standards efforts in this area; and  
 > (e) contents of the revised and updated guidelines and standards.
 
-**6\. MEMBERSHIP:** The membership will be balanced in terms of points of view represented, including Federal agencies; the telecommunications and electronic and information technology industry, including manufacturers; organizations representing the access needs of individuals with disabilities; representatives from other countries and international standards setting organizations; and other organizations affected by the accessibility guidelines and standards. Representatives of each of these interests shall be selected by the Chairperson of the Access Board and appointed as Committee members for the duration of the Committee's existence.\
+**6\. MEMBERSHIP:** The membership will be balanced in terms of points of view represented, including Federal agencies; the telecommunications and electronic and information technology industry, including manufacturers; organizations representing the access needs of individuals with disabilities; representatives from other countries and international standards setting organizations; and other organizations affected by the accessibility guidelines and standards. Representatives of each of these interests shall be selected by the Chairperson of the Access Board and appointed as Committee members for the duration of the Committee's existence.
 
 **7\. SUBCOMMITTEES:** The Committee may form subcommittees for any purpose consistent with this charter. The subcommittees shall report to the Committee.
 
