@@ -8,7 +8,7 @@ authors:
 tags:
   - ADA
 webinar: false
-webinar-start: ''
+webinar-start: 'September 17, 2020 12:00 AM'
 webinar-end: ''
 registration-link: ''
 video-link: ''
