@@ -23,25 +23,25 @@ The Access Board provides technical assistance and training on the ABA Standards
 
 ### Background
 
--       August 4, 1982 -- The Board publishes the minimum guidelines under the ABA. 
+- August 4, 1982 -- The Board publishes the minimum guidelines under the ABA. 
 
--       August 7, 1984 -- The ABA standard-setting agencies jointly adopt the [Uniform Federal Accessibility Standards (UFAS)]({{ site.baseurl }}/ufas/).
+- August 7, 1984 -- The ABA standard-setting agencies jointly adopt the [Uniform Federal Accessibility Standards (UFAS)]({{ site.baseurl }}/ufas/).
 
--       November 16, 1999 -- The Board jointly proposed [updates](https://www.federalregister.gov/documents/1999/11/16/99-29250/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities) to the ABA Accessibility Guidelines and the Americans with Disabilities Act (ADA) Accessibility Guidelines for public comment.
+- November 16, 1999 -- The Board jointly proposed [updates](https://www.federalregister.gov/documents/1999/11/16/99-29250/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities) to the ABA Accessibility Guidelines and the Americans with Disabilities Act (ADA) Accessibility Guidelines for public comment.
 
--       July 23, 2004 -- The Board publishes the updated ADA-ABA Accessibility Guidelines as a [final rule](https://www.federalregister.gov/documents/2004/07/23/04-16025/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities).
+- July 23, 2004 -- The Board publishes the updated ADA-ABA Accessibility Guidelines as a [final rule](https://www.federalregister.gov/documents/2004/07/23/04-16025/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities).
 
--       May 17, 2005 - USPS [adopts](https://www.federalregister.gov/documents/2005/05/17/05-9745/usps-standards-for-facility-accessibility) the ABA Accessibility Standards.
+- May 17, 2005 - USPS [adopts](https://www.federalregister.gov/documents/2005/05/17/05-9745/usps-standards-for-facility-accessibility) the ABA Accessibility Standards.
 
--       November 8, 2005 -- GSA [adopts](https://www.federalregister.gov/documents/2005/11/08/05-21644/federal-management-regulation-real-property-policies-update) the ABA Accessibility Standards.
+- November 8, 2005 -- GSA [adopts](https://www.federalregister.gov/documents/2005/11/08/05-21644/federal-management-regulation-real-property-policies-update) the ABA Accessibility Standards.
 
--       October 31, 2008 -- DOD adopts the ABA Accessibility Standards.
+- October 31, 2008 -- DOD adopts the ABA Accessibility Standards.
 
--       September 26, 2013 -- The Board issues a supplement to the ABA Accessibility Guidelines on [outdoor developed areas](https://beta.regulations.gov/document/ATBCB-2009-0006-0085), which become part of the ABA Standards sixty (60) days later.
+- September 26, 2013 -- The Board issues a supplement to the ABA Accessibility Guidelines on [outdoor developed areas](https://www.regulations.gov/document?D=ATBCB-2009-0006-0085), which become part of the ABA Standards sixty (60) days later.
 
--       May 7, 2014 -- The Board publishes a supplement to the ADA and ABA Accessibility Guidelines on [emergency transportable housing](https://beta.regulations.gov/document/ATBCB-2012-0004-0039).
+- May 7, 2014 -- The Board publishes a supplement to the ADA and ABA Accessibility Guidelines on [emergency transportable housing](https://www.regulations.gov/document?D=ATBCB-2012-0004-0039).
 
--       September 26, 2014 -- The Board issues a [correction](https://beta.regulations.gov/document/ATBCB-2012-0004-0041) to final guidelines for emergency transportable housing.
+- September 26, 2014 -- The Board issues a [correction](https://www.regulations.gov/document?D=ATBCB-2012-0004-0041) to final guidelines for emergency transportable housing.
 
 
 ### Technical Assistance
