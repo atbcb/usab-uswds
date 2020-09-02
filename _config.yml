@@ -95,7 +95,7 @@ primary_navigation:
   - name: Training & Webinars
     url: /webinars/
   - name: File an ABA complaint
-    url: /enforcement/complaint.html
+    url: /enforcement/
   - name: Research
     url: /research/
   - name: Contact Us
