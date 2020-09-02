@@ -13,7 +13,7 @@ Members of the public who wish to seek appointment to the Access Board should co
 
 <figure style="display:block; float:left">
     <img src="{{ site.baseurl }}/images/robertson-hhs.jpg" alt="Photo of Robertson" height="300">
-    <figcaption style="margin-left:auto; margin-right:right">
+    <figcaption style="text-align:center">
         <strong>Chair <br />
         Lance Robertson</strong> <br />
         Department of Health and Human Services <br />
@@ -22,7 +22,7 @@ Members of the public who wish to seek appointment to the Access Board should co
 </figure>
 <figure style="display:block; float:right">
     <img src="{{ site.baseurl }}/images/fehribach.jpg" alt="Photo of Fehribach" height="300">
-    <figcaption style="margin-left:auto; margin-right:right">
+    <figcaption style="text-align:center">
         <strong>Vice Chair <br />
         Gregory Fehribach</strong> <br />
         Indianapolis, Indiana <br />
