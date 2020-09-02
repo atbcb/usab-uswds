@@ -38,7 +38,7 @@ Except as provided in R302.3.1 and R302.3.2, the continuous clear width of pedes
 
 {% include figure-caption.html
 text= "Figure R302.3 Continuous Width"
-img-file= "prowag/302-3.jpg"
+img-file= "302-3.jpg"
 img-alt= "PAR 1.2 m (4 ft) wide minimum shown within width of sidewalk bounded
 by curb"
 %}
@@ -61,7 +61,7 @@ overlap pedestrian access routes.
 
 {% include figure-caption.html
 text= "Figure R302.4 Passing Spaces"
-img-file= "prowag/302-4.jpg"
+img-file= "302-4.jpg"
 img-alt= "Passing space 1.5 m (5 ft) by 1.5 m (5 ft) min. at 61 m (200 ft) max
 intervals along 1.2 m (4 ft) wide min. pedestrian access
 route"
@@ -142,7 +142,7 @@ applied across the entire vertical surface discontinuity.
 
 {% include figure-caption.html
 text= "Figure R302.7.2 Vertical Surface Discontinuities"
-img-file= "prowag/302-7-2.jpg"
+img-file= "302-7-2.jpg"
 img-alt= "Vertical surface discontinuity 6.4 mm (1/4 inch) max with straight
 edge and vertical surface discontinuity 6.4 -- 13 mm (1/4 -- 1 /2 inch)
 max with 1:2 beveled edge"
@@ -158,7 +158,7 @@ long dimension is perpendicular to the dominant direction of travel.
 
 {% include figure-caption.html
 text= "Figure R302.7.3 Horizontal Openings"
-img-file= "prowag/302-7-3.jpg"
+img-file= "302-7-3.jpg"
 img-alt= "Elongated openings, such as in a grating, are shown in plan view with
 openings 13 mm (1 /2 inch) maximum in one dimension. The other dimension
 is longer (unspecified) and is perpendicular to the dominant direction
@@ -171,7 +171,7 @@ Flangeway gaps at pedestrian at-grade rail crossings shall be 64 mm (2.5 in) max
 
 {% include figure-caption.html
 text= "Figure R302.7.4 Flangeway Gaps"
-img-file= "prowag/302-7-4.jpg"
+img-file= "302-7-4.jpg"
 img-alt= "Flangeway gaps shown 64 mm (2.5 in) max. (figure a) and 75 mm (3 in)
 max (figure b)"
 %}
@@ -213,7 +213,7 @@ ramp run.
 
 {% include figure-caption.html
 text= "Figure R304.2.1 Turning Space"
-img-file= "prowag/304-2-1.jpg"
+img-file= "304-2-1.jpg"
 img-alt= "Turning space 1.2 m (4.0 ft) min by 1.2 m (4.0 ft) min at top of curb
 ramps or 1.2 m (4.0 ft) wide min by 1.5 m (5.0 ft) long min where space
 is constrained at the back-of-sidewalk"
@@ -233,7 +233,7 @@ parallel to the curb line.
 
 {% include figure-caption.html
 text= "Figure 304.2.3 Flared Sides"
-img-file= "prowag/304-2-3.jpg"
+img-file= "304-2-3.jpg"
 img-alt= "Flared sides sloped 10 percent max at curb ramps where pedestrian
 circulation paths cross the ramp (returned curbs shown where protected
 from pedestrian cross traffic"
@@ -257,7 +257,7 @@ street crossing.
 
 {% include figure-caption.html
 text= "Figure R304.3.1 Turning Space"
-img-file= "prowag/304-3-1.jpg"
+img-file= "304-3-1.jpg"
 img-alt= "Turning space 1.2 m (4.0 ft) min by 1.2 m (4.0 ft) min at the bottom
 of curb ramp or 1.2 m (4.0 ft) wide min by 1.5 m (5.0 ft) long min where
 the space is constrained on 2 or more sides"
@@ -277,7 +277,7 @@ The running slope of blended transitions shall be 5 percent maximum.
 
 {% include figure-caption.html
 text= "Figure R304.4.1 Running Slope"
-img-file= "prowag/304-4-1.jpg"
+img-file= "304-4-1.jpg"
 img-alt= "Curb ramp running slope 5% max"
 %}
 
@@ -295,7 +295,7 @@ In shared use paths, the width of curb ramp runs and blended transitions shall b
 
 {% include figure-caption.html
 text= "Figure R304.5.1 Width"
-img-file= "prowag/304-5-1.jpg"
+img-file= "304-5-1.jpg"
 img-alt= "Width of curb ramp 1.2 m (4 ft) min"
 %}
 
@@ -306,7 +306,7 @@ spaces. Surface slopes that meet at grade breaks shall be flush.
 
 {% include figure-caption.html
 text= "Figure R304.5.2 Grade Breaks"
-img-file= "prowag/304-5-2.jpg"
+img-file= "304-5-2.jpg"
 img-alt= "Grade break at curb ramp shown perpendicular to direction of travel"
 %}
 
@@ -331,7 +331,7 @@ the parallel vehicle travel lane.
 
 {% include figure-caption.html
 text= "Figure R304.5.5 Clear Space"
-img-file= "prowag/304-5-5.jpg"
+img-file= "304-5-5.jpg"
 img-alt= "Clear space 1.2 m (4 ft) min by 1.2 m (4 ft) min at the bottom of curb
 ramp beyond grade break located within width of pedestrian street crossing"
 %}
@@ -353,7 +353,7 @@ diameter maximum, and a height of 5 mm (0.2 in).
 
 {% include figure-caption.html
 text= "Figure R305.1.1 Dome Size"
-img-file= "prowag/305-1-1.jpg"
+img-file= "305-1-1.jpg"
 img-alt= "Truncated dome in elevation shown with a base diameter of 23 mm (0.9
 in) min to 36 mm (1.4 in) max, a top diameter 50% to 65% of the base
 diameter, and a height of 5 mm (0.2 in)"
@@ -367,7 +367,7 @@ between the most adjacent domes.
 
 {% include figure-caption.html
 text= "Figure R305.1.2 Dome Spacing"
-img-file= "prowag/305-1-2.jpg"
+img-file= "305-1-2.jpg"
 img-alt= "Truncated domes in plan view with a center-to-center spacing of 41 mm
 (1.6 in) min and 61 mm (2.4 in) max, and a base-to-base spacing of 17 mm
 (0.65 in) min, measured between the most adjacent domes"
@@ -396,7 +396,7 @@ warning surfaces shall extend the full length of the transit stop.
 
 {% include figure-caption.html
 text= "Figure R305.1.4 Size"
-img-file= "prowag/305-1-4.jpg"
+img-file= "305-1-4.jpg"
 img-alt= "Detectable warning area 610 mm (24 in) deep shown extending the full
 width of a perpendicular curb ramp and curb ramp with a returned curb
 and the full width of landing at parallel curb ramp"
@@ -419,7 +419,7 @@ detectable warning surfaces shall be placed as follows:
 
 {% include figure-caption.html
 text= "Figure R305.2.1 Perpendicular Curb Ramps"
-img-file= "prowag/305-2-1.jpg"
+img-file= "305-2-1.jpg"
 img-alt= "Detectable warnings located on ramp run where both ends of the bottom
 grad break are less than 1.5 m (5 ft) from back of curb and located on
 the lower landing at the back of curb where one or both ends of the
@@ -437,7 +437,7 @@ transition between the street and sidewalk.
 
 {% include figure-caption.html
 text= "Figure R305.2.2 Parallel Curb Ramps"
-img-file= "prowag/305-2-2.jpg"
+img-file= "305-2-2.jpg"
 img-alt= "Detectable warning located at the back of curb along the bottom
 landing between parallel
 ramps"
@@ -453,7 +453,7 @@ sidewalk.
 
 {% include figure-caption.html
 text= "Figure R305.2.3 Blended Transitions"
-img-file= "prowag/305-2-3.jpg"
+img-file= "305-2-3.jpg"
 img-alt= "Detectable warning at raised crossing located back of curb along the
 entire transition between street and
 sidewalk"
@@ -467,7 +467,7 @@ length of surface without detectable warnings.
 
 {% include figure-caption.html
 text= "Figure R 305.2.4 Pedestrian Refuge Island"
-img-file= "prowag/305-2-4.jpg"
+img-file= "305-2-4.jpg"
 img-alt= "Detectable warnings at pedestrian refuge island 1.8 m (ft) min wide
 that are separated by non-detectable warning surface 610 mm (2 ft) min
 long illustrated for cut-through route, route with aligned curb ramps on
@@ -489,7 +489,7 @@ opposite the rail.
 
 {% include figure-caption.html
 text= "Figure R305.2.5 Pedestrian At-Grade Rail Crossings"
-img-file= "prowag/305-2-5.jpg"
+img-file= "305-2-5.jpg"
 img-alt= "At pedestrian at-grade rail crossing, detectable warnings shown
 located 1.8 -- 4.6 m (6 -- 15 ft) from the centerline of the nearest
 rail and, on other side, on the side of pedestrian gate opposite the
@@ -589,7 +589,7 @@ minimum, measured parallel to the street or highway.
 
 {% include figure-caption.html
 text= "Figure R308.1.1.1 Dimensions"
-img-file= "prowag/308-1-1-1.jpg"
+img-file= "308-1-1-1.jpg"
 img-alt= "Boarding/ alighting area 2.4 m (8.0 ft) long min, measured
 perpendicular to the curb or street or highway edge, and 1.5 m (5.0 ft)
 wide min"
@@ -638,7 +638,7 @@ circulation paths by pedestrian access routes complying with R302.
 
 {% include figure-caption.html
 text= "Figure R308.1.3.2 Connection"
-img-file= "prowag/308-1-3-2.jpg"
+img-file= "308-1-3-2.jpg"
 img-alt= "Boarding/ alighting area and bus shelter connected by a pedestrian
 accessible
 route"
@@ -685,7 +685,7 @@ vehicular travel lane.
 
 {% include figure-caption.html
 text= "Figure R309.2.1 Wide Sidewalks"
-img-file= "prowag/309-2-1.jpg"
+img-file= "309-2-1.jpg"
 img-alt= "A 1.5 m (5 ft) wide min access aisle running the full length of
 parallel parking space and located beyond the face of curb at sidewalk
 at least 4.3 m (14 ft) wide; aisle served by curb ramp at one end"
@@ -708,7 +708,7 @@ the parking spaces shall be located at the end of the block face.
 
 {% include figure-caption.html
 text= "Figure R309.2.2 Narrow Sidewalks"
-img-file= "prowag/309-2-2.jpg"
+img-file= "309-2-2.jpg"
 img-alt= "An accessible parking space without access aisle located at the end of
 the block face with a sidewalk 4.3 m (14 ft) wide
 max"
@@ -728,7 +728,7 @@ access aisle.
 
 {% include figure-caption.html
 text= "Figure R309.3 Perpendicular or Angled Parking Spaces"
-img-file= "prowag/309-3.jpg"
+img-file= "309-3.jpg"
 img-alt= "Access aisle 2.4 m (8 ft) wide min located between angled parking
 spaces"
 %}
@@ -786,7 +786,7 @@ within the access aisle.
 
 {% include figure-caption.html
 text= "Figure R310.3 Access Aisle"
-img-file= "prowag/310-3.jpg"
+img-file= "310-3.jpg"
 img-alt= "Marked passenger loading zone accessible aisle flush with the vehicle
 pull-up space that is 1.5 m (5 ft) wide min, equal to the full length of
 the vehicle pull-up space, and located beyond the curb line"

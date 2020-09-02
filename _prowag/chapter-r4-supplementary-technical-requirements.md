@@ -21,13 +21,15 @@ mm (2.25 ft) and not more than 2 m (6.7 ft) above the finish surface
 shall protrude 100 mm (4 in) maximum horizontally into pedestrian
 circulation paths.
 
-**Figure R402.2 Protrusion Limits**
-
-![A frontal view shows a person using a cane walking along a wall. A
+{% include figure-caption.html
+text= "Figure R402.2 Protrusion Limits"
+img-file= "402-2.jpg"
+img-alt= "A frontal view shows a person using a cane walking along a wall. A
 wall-mounted object more than 685 mm (27 in) from the floor protrudes no
 more than 100 mm (4 in) from the wall surface. An object overhead
 provides vertical clearance that is greater than 2 m (80
-in).](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/402-2.jpg)
+in)."
+%}
 
 #### R402.3 Post-Mounted Objects
 Where objects are mounted on
@@ -41,14 +43,16 @@ or pylons is greater than 305 mm (1.0 ft), the lowest edge of the object
 shall be 685 mm (2.25 ft) maximum or 2 m (6.7 ft) minimum above the
 finish surface.
 
-**Figure R402.3 Post-Mounted Objects**
-
-![Objects mounted on posts/ pylons 685 mm -- 2 m (27 -- 80 in) above the
+{% include figure-caption.html
+text= "Figure R402.3 Post-Mounted Objects"
+img-file= "402-3.jpg"
+img-alt= "Objects mounted on posts/ pylons 685 mm -- 2 m (27 -- 80 in) above the
 finish surface with overhangs limited to 100 mm (4 in) max measured from
 the post/ pylon base. Object mounted between posts or pylons separated
 more than 305 mm (12 in) with its lowest edge 685 mm (27 in) max or 2 m
 (80 in) min above the finish
-surface.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/402-3.jpg)
+surface."
+%}
 
 #### R402.4 Reduced Vertical Clearance
 Guardrails or other barriers to
@@ -56,12 +60,14 @@ pedestrian travel shall be provided where the vertical clearance is less
 than 2 m (6.7 ft) high. The leading edge of the guardrail or barrier
 shall be located 685 mm (2.25 ft) maximum above the finish surface.
 
-**Figure R402.4 Reduced Vertical Clearance**
-
-![Guardrail/barrier with leading edge 685 mm (27 in) above the finish
+{% include figure-caption.html
+text= "Figure R402.4 Reduced Vertical Clearance"
+img-file= "402-4.jpg"
+img-alt= "Guardrail/barrier with leading edge 685 mm (27 in) above the finish
 surface located where vertical clearance is less than 2 m (80 in) above
 the finish
-surface](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/402-4.jpg)
+surface"
+%}
 
 ### R403 Operable Parts
 
@@ -158,12 +164,14 @@ mm (1.4 ft) minimum under the element.
 ##### R405.2.4 Width
 Toe clearance shall be 760 mm (2.5 ft) wide minimum.
 
-**Figure R405.2 Toe Clearance**
-
-![Toe clearance (elevation) is 230 mm (9 in) high min and 150 mm (6 in)
+{% include figure-caption.html
+text= "Figure R405.2 Toe Clearance"
+img-file= "405-2.jpg"
+img-alt= "Toe clearance (elevation) is 230 mm (9 in) high min and 150 mm (6 in)
 deep max. Toe clearance (plan) is 760 mm (30 in) wide min, and object
 overlaps 430 -- 635 mm (17 - 25 in) of the
-length.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/405-2.jpg)
+length."
+%}
 
 #### R405.3 Knee Clearance
 
@@ -193,13 +201,15 @@ height.
 Knee clearance shall be 760 mm (2.5 ft) wide
 minimum.
 
-**Figure R405.3 Knee Clearance**
-
-![Knee clearance (elevation) is 685 mm (27) high min for a depth of 205
+{% include figure-caption.html
+text= "Figure R405.3 Knee Clearance"
+img-file= "405-3.jpg"
+img-alt= "Knee clearance (elevation) is 685 mm (27) high min for a depth of 205
 mm (8 in) min that slopes down to 230 mm (in) min at a depth of 280 mm
 (11 in) min. Knee clearance (plan) is 760 mm (30 in) wide min and with
 object overlapping it by 635 mm (25 in)
-max.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/405-3.jpg)
+max."
+%}
 
 ### R406 Reach Ranges
 
@@ -212,11 +222,13 @@ unobstructed, the high forward reach shall be 1220 mm (4.0 ft) maximum
 and the low forward reach shall be 380 mm (1.25 ft) minimum above the
 finish surface. Forward reach over an obstruction is not permitted.
 
-**Figure R406.2 Unobstructed Forward Reach**
-
-![Unobstructed forward reach shown in elevation to be 1220 mm (48 in)
+{% include figure-caption.html
+text= "Figure R406.2 Unobstructed Forward Reach"
+img-file= "406-2.jpg"
+img-alt= "Unobstructed forward reach shown in elevation to be 1220 mm (48 in)
 max to 380 mm (15 in) min above the finish
-surface.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/406-2.jpg)
+surface."
+%}
 
 #### R406.3 Unobstructed Side Reach
 Where a clear space allows a
@@ -226,11 +238,13 @@ shall be 380 mm (1.25 ft) minimum above the finish surface. An
 obstruction shall be permitted between the clear space and the element
 where the depth of the obstruction is 255 mm (10 in) maximum.
 
-**Figure R406.3 Unobstructed Side Reach**
-
-![Unobstructed side reach shown in elevation to be 1220 mm (48 in) max
+{% include figure-caption.html
+text= "Figure R406.3 Unobstructed Side Reach"
+img-file= "406-3.jpg"
+img-alt= "Unobstructed side reach shown in elevation to be 1220 mm (48 in) max
 to 380 mm (15 in) min above the finish
-surface.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/406-3.jpg)
+surface."
+%}
 
 ### R407 Ramps
 
@@ -261,12 +275,14 @@ maximum.
 Ramps shall have landings at the top and the bottom
 of each ramp run. Landings shall comply with R407.6.
 
-**Figure R407.6 Landings**
-
-![Straight ramp landings 1.5 m (5 ft) min and at least as wide as ramp
+{% include figure-caption.html
+text= "Figure R407.6 Landings"
+img-file= "407-6.jpg"
+img-alt= "Straight ramp landings 1.5 m (5 ft) min and at least as wide as ramp
 run and landings at ramp that changes direction 1.5 m (5 ft) min by 1.5
 m (5 ft)
-min](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/407-6.jpg)
+min"
+%}
 
 ##### R407.6.1 Slope
 Landing slopes shall be 2 percent maximum in any
@@ -302,11 +318,12 @@ The surface of the ramp run or
 landing shall extend 305 mm (1.0 ft) minimum beyond the inside face of a
 handrail complying with R409.
 
-**Figure R407.9.1 Extended Ramp Surface**
-
-![Surface of ramp run/ landing extending 305 mm (12 in) min beyond the
-inside face of handrail
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/407-9-1.jpg)
+{% include figure-caption.html
+text= "Figure R407.9.1 Extended Ramp Surface"
+img-file= "407-9-1.jpg"
+img-alt= "Surface of ramp run/ landing extending 305 mm (12 in) min beyond the
+inside face of handrail"
+%}
 
 {: .advisory}
 **Advisory R407.9.1 Extended Ramp Surface.** The extended surface prevents wheelchair casters and crutch tips from slipping off the ramp surface.
@@ -375,11 +392,13 @@ surfaces, ramp surfaces, and stair nosings. Handrails shall be at a
 consistent height above walking surfaces, ramp surfaces, and stair
 nosings.
 
-**Figure R409.4 Height**
-
-![Height of handrail gripping surface 865 -- 965 mm (34 -- 38 in) at
+{% include figure-caption.html
+text= "Figure R409.4 Height"
+img-file= "409-4.jpg"
+img-alt= "Height of handrail gripping surface 865 -- 965 mm (34 -- 38 in) at
 stairs, ramps, and walking
-surfaces](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/409-4.jpg)
+surfaces"
+%}
 
 #### R409.5 Clearance
 Clearance between handrail gripping surfaces and
@@ -414,11 +433,12 @@ with a non-circular cross section shall have a perimeter dimension of
 100 mm (4 in) minimum and 160 mm (6.25 in) maximum, and a cross-section
 dimension of 57 mm (2.25 in) maximum.
 
-**Figure R409.7.2 Non-Circular Cross Sections**
-
-![Non-circular cross sections with a perimeter dimension 100 -- 160 mm (
-4 -- 6.25 in) and a max cross-section dimension of 57 mm (2.25 in)
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/409-7-2.jpg)
+{% include figure-caption.html
+text= "Figure R409.7.2 Non-Circular Cross Sections"
+img-file= "409-7-2.jpg"
+img-alt= "Non-circular cross sections with a perimeter dimension 100 -- 160 mm (
+4 -- 6.25 in) and a max cross-section dimension of 57 mm (2.25 in)"
+%}
 
 #### R409.8 Surfaces
 Handrail gripping surfaces and any surfaces
@@ -446,10 +466,12 @@ the top and bottom of ramp runs. Extensions shall return to a wall,
 guard, or the landing surface, or shall be continuous to the handrail of
 an adjacent ramp run.
 
-**Figure R409.10.1 Top and Bottom Extension at Ramps**
-
-![Handrail extensions 305 mm (12 in) min long at top and bottom of
-ramp](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/409-10-1.jpg)
+{% include figure-caption.html
+text= "Figure R409.10.1 Top and Bottom Extension at Ramps"
+img-file= "409-10-1.jpg"
+img-alt= "Handrail extensions 305 mm (12 in) min long at top and bottom of
+ramp"
+%}
 
 ##### R409.10.2 Top Extension at Stairways
 At the top of a stair flight,
@@ -458,10 +480,12 @@ ft) minimum beginning directly above the first riser nosing. Extensions
 shall return to a wall, guard, or the landing surface, or shall be
 continuous to the handrail of an adjacent stair flight.
 
-**Figure R409.10.2 Top Extension at Stairways**
-
-![Handrail extension 305 mm (12 in) long min at top of
-stair](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/409-10-2.jpg)
+{% include figure-caption.html
+text= "Figure R409.10.2 Top Extension at Stairways"
+img-file= "409-10-2.jpg"
+img-alt= "Flangeway gaps shown 64 mm (2.5 in) max. (figure a) and 75 mm (3 in)
+max (figure b)"
+%}
 
 ##### R409.10.3 Bottom Extension at Stairways
 At the bottom of a stair
@@ -471,12 +495,13 @@ riser nosing. Extensions shall return to a wall, guard, or the landing
 surface, or shall be continuous to the handrail of an adjacent stair
 flight.
 
-**Figure R409.10.3 Bottom Extension at Stairways**
-
-![Bottom stairway handrail extending at slope of stair flight for a
+{% include figure-caption.html
+text= "Figure R409.10.3 Bottom Extension at Stairways"
+img-file= "409-10-3.jpg"
+img-alt= "Bottom stairway handrail extending at slope of stair flight for a
 distance at least equal to one tread depth beyond the last riser
-nosing](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/409-10-3.jpg)
-
+nosing"
+%}
 
 ### R410 Visual Characters on Signs
 
@@ -581,8 +606,9 @@ background shall have a non-glare finish. The symbol shall contrast with
 its background with either a light symbol on a dark background or a dark
 symbol on a light background.
 
-**Figure R411International Symbol of Accessibility**
-
-![International Symbol of
-Accessibility](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/411.jpg)
-
+{% include figure-caption.html
+text= "Figure R411 International Symbol of Accessibility"
+img-file= "411.jpg"
+img-alt= "International Symbol of
+Accessibility"
+%}
