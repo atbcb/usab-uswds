@@ -7,15 +7,47 @@ file: ADA-Standards.pdf
 file-description: Single file PDF version of the ADA Standards
 ---
 
-Among other things, the Americans with Disabilities Act (ADA) ensures access to the built environment for people with disabilities.  The ADA Standards establish design requirements for the construction and alteration of facilities subject to the law.  These enforceable standards apply to places of public accommodation, commercial facilities, and state and local government facilities.
+### About the ADA Accessibility Standards
 
-The Access Board is responsible for developing and updating design guidelines known as the ADA Accessibility Guidelines (ADAAG).  These guidelines are used by the Department of Justice (DOJ) and the Department of Transportation (DOT) in setting enforceable standards that the public must follow.  Both DOJ’s and DOT’s current ADA Standards are based on the Board’s updated ADAAG (2004).  As a result, for the most part, these two sets of standards are very similar.  However, each contains additional requirements that are specific to the facilities covered by the respective agencies.  These additional requirements define the types of facilities covered, set effective dates, and provide additional scoping or technical requirements for those facilities.  DOJ’s ADA Standards apply to all facilities except public transportation facilities, which are subject to DOT’s ADA Standards.  The edition of the ADA Standards provided here on the Board’s website includes DOJ’s and DOT’s additional provisions.
+Accessibility standards issued under theAmericans with Disabilities Act (ADA) apply to places of public accommodation, commercial facilities, and state and local government facilities in new construction, alterations, and additions.  The ADA Standards are based on minimum guidelines set by the Access Board. 
 
-###  Guide to the ADA Standards
-The U.S. Access Board has also developed several guides to the current edition of the ADA Standards.  The guides were developed in cooperation with DOJ and DOT. It is important
-to use the guides along with a complete copy of the ADA Standards as it
-explains, but does not contain or reprint, the text of the ADA
-Standards.
+The Department of Justice (DOJ) and the Department of Transportation (DOT) issue the ADA Standards.  DOJ's ADA Standards apply to all facilities except public transportation facilities, which are subject to DOT's ADA Standards.  This version of the ADA Standards combines both documents and notes unique provisions in the DOJ Standards and the DOT Standards.  The Access Board is responsible for providing technical assistance and training on these Standards. 
 
-### Timeline
+### Background
 
+-       July 26, 1991 -- The Board publishes the original ADA Accessibility Guidelines (ADAAG), which are also adopted as standards by DOJ on the same day.
+
+-       September 6, 1991 -- The Board publishes the original ADAAG for Transportation Facilities, which are also adopted by DOT on the same day.
+
+-       September 14, 1994 -- The Board [creates](https://www.federalregister.gov/documents/1994/09/14/94-22734/adaag-review-advisory-committee) the ADAAG Review Advisory Committee to assist in updating the ADAAG.
+
+-       July 10, 1996 -- ADAAG Review Advisory Committee submits its final report to the Board.
+
+-       January 13, 1998 -- The Board publishes ADAAG supplements covering [state and local government facilities](https://www.federalregister.gov/documents/1998/01/13/98-615/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities-state-and) and [building elements designed for children's use](https://www.federalregister.gov/documents/1998/01/13/98-616/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities-building).
+
+-       November 16, 1999 -- The Board jointly proposed [updates](https://www.federalregister.gov/documents/1999/11/16/99-29250/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities) to ADAAG and to the Architectural Barriers Act (ABA) Accessibility Guidelines for public comment.
+
+-       October 18, 2000 -- The Board publishes an ADAAG supplement on [play areas](https://www.federalregister.gov/documents/2000/10/18/00-26466/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities-play-areas).
+
+-       September 3, 2002 -- The Board issues an ADAAG supplement on [recreation facilities](https://www.federalregister.gov/documents/2002/09/03/02-21805/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities-recreation).
+
+-       July 23, 2004 -- The Board issues the updated ADA and ABA Accessibility Guidelines as a [final rule](https://www.federalregister.gov/documents/2004/07/23/04-16025/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities).
+
+-       October 30, 2006 -- DOT [adopts](https://www.federalregister.gov/documents/2006/10/30/E6-16680/transportation-for-individuals-with-disabilities-adoption-of-new-accessibility-standards) new ADA Standards for transportation facilities based on the updated ADA Guidelines (effective November 29, 2006).
+
+-       September 15, 2010 -- DOJ adopts new ADA Standards (effective March 15, 2012) under [title II](https://www.federalregister.gov/documents/2010/09/15/2010-21821/nondiscrimination-on-the-basis-of-disability-in-state-and-local-government-services) and [title III](https://www.federalregister.gov/documents/2010/09/15/2010-21824/nondiscrimination-on-the-basis-of-disability-by-public-accommodations-and-in-commercial-facilities) of the ADA.
+
+-       May 7, 2014 -- The Board publishes a supplement to the ADA and ABA Accessibility Guidelines on [emergency transportable housing](https://beta.regulations.gov/document/ATBCB-2012-0004-0039).
+
+-       September 26, 2014 -- The Board issues [correction](https://beta.regulations.gov/document/ATBCB-2012-0004-0041) to final guidelines for emergency transportable housing.
+
+
+### Technical Assistance
+
+Contact the Access Board for guidance on these standards:
+
+800-872-2253 (v)
+
+800-993-2822 (TTY)
+
+<ta@access-board.gov>
