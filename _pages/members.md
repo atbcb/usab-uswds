@@ -12,26 +12,22 @@ The Board is structured to function as a coordinating body among federal agencie
 
 Members of the public who wish to seek appointment to the Access Board should contact the White House Office of Presidential Personnel at 202-456-9713 or visit the [White House website](https://apply.whitehouse.gov).
 
-<figure style="float:left">
-    ![photo of robertson]({{ site.baseurl }}/images/robertson-hhs.jpg)
+<figure style="display:block; float:left">
+    <img src="{{ site.baseurl }}/images/robertson-hhs.jpg" alt="photo of robertson">
     <figcaption style="margin-left:auto; margin-right:right">
-
-        **Chair**  
-        **Lance Roberson**  
-        Department of Health and Human Services  
-        [bio](#robertson)
-
+        <strong>Chair <br />
+        Lance Roberson</strong> <br />
+        Department of Health and Human Services <br />
+        <a href="#robertson">[bio]</a>
     </figcaption>
 </figure>
-<figure style="float:right">
-    ![photo of fehribach]({{ site.baseurl }}/images/fehribach.jpg)
+<figure style="display:block; float:right">
+    <img src="{{ site.baseurl }}/images/fehribach.jpg" alt="photo of fehribach">
     <figcaption style="margin-left:auto; margin-right:right">
-
-        **Vice Chair**  
-        **Gregory Fehribach**  
-        Indianapolis, Indiana  
-        [bio](#fehribach.jpg)
-
+        <strong>Vice Chair <br />
+        Gregory Fehribach</strong> <br />
+        Indianapolis, Indiana <br />
+        <a href="#fehribach">[bio]</a>
     </figcaption>
 </figure>
 <section class="usa-graphic-list usa-section">
