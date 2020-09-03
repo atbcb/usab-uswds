@@ -4,7 +4,7 @@ order-number: 0
 research-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 status: completed
 year-completed: 2009
-topic: Common Problems Arising in APS Installation 
+topic: Public Rights-of-Way
 ---
 
 | [![Download this file (APS-common-problems.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1186/APS-common-problems.pdf "Download this file (APS-common-problems.pdf)") |

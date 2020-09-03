@@ -1,10 +1,10 @@
 ---
 title: Installation Issues
 order-number: 2
-research-title: Installation Isssues
+research-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 status: completed
 year-completed: 2009
-topic: Common Problems Arising in APS Installation
+topic: Public Rights-of-Way
 ---
 
 > Issue 1. APS volume (louder is not better)\

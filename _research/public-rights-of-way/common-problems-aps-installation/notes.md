@@ -1,10 +1,10 @@
 ---
 title: Notes
 order-number: 3
-research-title: Notes
+research-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 status: completed
 year-completed: 2009
-topic: Common Problems Arising in APS Installation 
+topic: Public Rights-of-Way
 ---
 
 1.  To locate an orientation and mobility specialist, see <http://aerbvi.org/modules.php?name=Content&pa=showpage&pid=4> for a list of chapters of the Association for the Education and Rehabilitation of the Blind and Visually-Impaired (AER).

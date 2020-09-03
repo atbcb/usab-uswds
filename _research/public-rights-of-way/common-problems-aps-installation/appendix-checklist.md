@@ -1,10 +1,10 @@
 ---
 title: Appendix Checklist for APR Installations
 order-number: 4
-research-title: Appendix Checklist for APR Installations
+research-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 status: completed
 year-completed: 2009
-topic: Common Problems Arising in APS Installation 
+topic: Public Rights-of-Way
 ---
 
  (adapted from ["Accessible Pedestrian Signals: A Guide to Best Practice"](http://www.trb.org/news/blurb_detail.asp?id=9102), NCHRP Web-only document 117A).

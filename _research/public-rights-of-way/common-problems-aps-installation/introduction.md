@@ -1,10 +1,10 @@
 ---
 title: Introduction
 order-number: 1
-research-title: Introduction
+research-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 status: completed
 year-completed: 2009
-topic: Common Problems Arising in APS Installation 
+topic: Public Rights-of-Way
 ---
 
 |   | ![Photo of black rectangular unit with a sign with a print arrow and pedestrian signal. On the bottom part of the unit is a large pushbutton with an arrow.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0005.gif) |
