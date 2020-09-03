@@ -5,6 +5,7 @@ research-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
 topic: Building and Elements
+permalink: /research/ieq/
 ---
 
 ### IEQ Indoor Environmental Quality Project

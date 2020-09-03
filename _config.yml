@@ -161,6 +161,9 @@ collections:
   pvag:
     output: true
     permalink: /pvag/:path/
+  research:
+    output: true
+    permalink: /research/:path/
   es:
     output: true
   authors:
@@ -298,6 +301,15 @@ defaults:
       file-directory: /files/pvag/
       image-directory: /images/pvag/
       right-sidenav: sidenav-pvag.html
+  - scope:
+      path: ""
+      type: "research"
+    values:
+      collection-title: "Research"
+      collection-folder: research
+      layout: research
+      file-directory: /files/research/
+      image-directory: /images/research/
   - scope:
       path: ""
       type: "es"
