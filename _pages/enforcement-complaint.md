@@ -8,7 +8,11 @@ permalink: /enforcement/complaint.html
 
 ## Instructions
 
-The Online ABA Complaint Form consists of five sections:  (1) Building or Facility Information; (2) Accessibility Barriers; (3) Complainant Information; (4) Review and Submit; and (5) Confirmation.  _Please note that the form has no "save" function and must be completed in one session._
+The Online ABA Complaint Form consists of five sections:  (1) Building or Facility Information; (2) Accessibility Barriers; (3) Complainant Information; (4) Review and Submit; and (5) Confirmation.
+
+### [Online ABA Complaint Form](http://cts.access-board.gov/formsiq/form.do?form_name=Complaint%20Form)
+
+#### **Please Note:**  The form has no "save" function and _must be completed in one session_.
 
 To file a complaint, please follow these steps:
 
@@ -21,8 +25,6 @@ _Step 3:_  **Complainant Information.**  Provide your name and/or contact inform
 _Step 4:_  **Review and Submit.**  If you have any photographs or other supporting documents that you wish to include with your complaint, follow the instructions to upload the electronic file(s).  Also, in the _Review and Submit_ section, you can review all the information you entered in the previous steps and edit it if necessary.  Finally, to submit your complaint, click the "Submit My Complaint" button at the bottom of the page.
 
 _Step 5:_  **Confirmation.** The confirmation page will appear and show an automatically generated complaint number.  You will also have an option to print your complaint.  _Please keep the complaint number_ with your records so that you can refer to it if you wish to inquire about the status of your complaint or provide additional information to us in the future.  If you provided an e-mail address, you will also receive an automatically generated e-mail confirming the successful submission of your complaint.  Should you wish to file another complaint, you will be prompted to do so at this time.
-
-### [Online ABA Complaint Form](http://cts.access-board.gov/formsiq/form.do?form_name=Complaint%20Form)
 
 #### Statement Concerning the Paperwork Reduction Act
 
