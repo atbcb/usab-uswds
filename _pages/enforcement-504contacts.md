@@ -7,7 +7,6 @@ permalink: /enforcement/504contacts.html
 # {{ page.title }}
 
 * [Agency for International Development](#usaid)
-* [Broadcasting Board of Governors](#usagm)
 * [Corporation for National Service](#cns)
 * [U.S. Department of Agriculture](#usda)
 * [Department of Commerce](#doc)
@@ -54,15 +53,6 @@ Washington, DC  20523
 202-216-3370 (fax)  
 <rmiller@usaid.gov>
 
-* * * * *
-
-<a name="usagm" /> Ms. Delia L. Johnson  
-Director, Office of Civil Rights  
-Broadcasting Board of Governors  
-301 4th Street SW, Room 858  
-Washington, DC  20547  
-202-619-5151  
-<djohnso@exchange.usia.gov>
 
 * * * * *
 
