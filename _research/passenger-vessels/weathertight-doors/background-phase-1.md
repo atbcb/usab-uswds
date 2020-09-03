@@ -4,7 +4,7 @@ order-number: 2
 Research-Titile: Background Phase 1
 status: COmpleted
 year-completed: 2004
-topic: ADA Access to Passenger Vessels
+topic: Passenger Vessels
 ---
 
 Under Coast Guard domestic regulations, certain doors in passenger vessels leading from the outside ("the weather") into passenger accommodation spaces must have sills (also known as coamings) of varying heights to prevent the entry of water. However, under the American with Disabilities Act Accessibility Guidelines (ADAAG), an accessible door cannot have a threshold that is higher than 1/4 inch or 1/2 inch, if beveled. If ADAAG threshold provisions were applied to passenger vessels, at certain doors, the coaming requirement and ADAAG threshold requirement would conflict. The following sections detail the provisions of the Coast Guard regulations and the ADAAG guidance, as well as summarizing the current practice in the U.S. passenger fleet.

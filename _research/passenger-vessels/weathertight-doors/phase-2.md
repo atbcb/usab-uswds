@@ -1,10 +1,10 @@
 ---
 title: Phase 2 A Risk Management Approach to Reconfiguration Design Solutions
 order-number: 7
-research-title: Phase 2 A Risk Management Approach to reconfiguration Design Solutions
+research-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2005
-topic: ADA Access to Passenger Vessels 
+topic: Passenger Vessels
 ---
 
 #### March 2005**![people using power chairs board vessel](https://www.access-board.gov/images/vessel-doors/report_clip_image002_0008.jpg)**

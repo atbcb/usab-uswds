@@ -1,10 +1,10 @@
 ---
 title: Risk Management Methodology (Phase 2)
 order-number: 10
-research-title: Risk Management Methodology Phase 2
+research-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2005
-topic: ADA Access to Passenger Vessels
+topic: Passenger Vessels
 ---
 
 The main points of the risk-based approach are:

@@ -1,10 +1,10 @@
 ---
 title: Appendix D (Phase 2)
 order-number: 17
-research-title: Appendix D Phase 2
+research-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2005
-topic: ADA Access to Passenger Vessels 
+topic: Passenger Vessels
 ---
 
 **Numerical risk evaluation, main deck doors, 127'/368 Passenger Dinner Boat, Graul Design**

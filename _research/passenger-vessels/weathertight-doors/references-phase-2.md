@@ -1,10 +1,10 @@
 ---
 title: References (Phase 2)
 order-number: 13
-research-title: References Phase 2
+research-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2005
-topic: ADA Access to Passenger Vessels
+topic: Passenger Vessels
 ---
 
 Access for Persons with Disabilities to Passenger Vessels and Shore Facilities, The Impact of the Americans with Disabilities Act of 1990, prepared by the Volpe National Transportation Systems Center for the Office of Secretary of Transportation, July 1996

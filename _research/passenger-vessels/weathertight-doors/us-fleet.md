@@ -1,10 +1,10 @@
 ---
 title: U.S. Fleet Case Studies Phase 1
 order-number: 3
-research-title: US Fleet Case Studies Phase 1
+research-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2004
-topic: ADA Access to Passenger Vessels
+topic: Passenger Vessels
 ---
 
 *3.1 The *Flying Cloud* and *Lightning* (Harbor Express)*\

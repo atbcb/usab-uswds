@@ -1,10 +1,10 @@
 ---
 title: Appendix A (Phase 2)
 order-number: 14
-research-title: Appendix A Phase 2
+research-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2005
-topic: ADA Access to Passenger Vessels 
+topic: Passenger Vessels
 ---
 
 **FIGURE 1. SUMP AND DRAIN ADJACENT TO THE DOOR**\

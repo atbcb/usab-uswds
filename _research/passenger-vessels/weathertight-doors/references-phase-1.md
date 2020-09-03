@@ -1,10 +1,10 @@
 ---
 title: References and Notes (Phase 1)
 order-number: 5
-research-title: References and Notes Phase 1
+research-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2004
-topic: ADA Access to Passenger Vessels
+topic: Passenger Vessels
 ---
 
 **References**

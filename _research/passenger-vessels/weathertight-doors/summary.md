@@ -1,10 +1,10 @@
 ---
 title: Summary (Phase 1)
 order-number: 4
-research-title: Summary Phase 1
+research-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2004
-topic: ADA Access to Passenger Vessels 
+topic: Passenger Vessels
 ---
 
 *4.1 Regulations Review and Case Studies*\

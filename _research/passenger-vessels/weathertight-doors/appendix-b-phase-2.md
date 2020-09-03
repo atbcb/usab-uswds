@@ -1,10 +1,10 @@
 ---
 title: Appendix B (Phase 2)
 order-number: 15
-research-title: Appendix B Phase 2
+research-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2005
-topic: ADA Access to Passenger Vessels 
+topic: Passenger Vessels
 ---
 
 **Numerical risk evaluation, main deck doors\

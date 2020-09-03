@@ -4,7 +4,7 @@ order-number: 0
 research-title: Access for Persons with Disabilities to Passenger Vessels and Shore Facilities
 status: completed
 year-completed: 1996
-topic: Access for Persons with Disabilities to Passenger Vessels and Shore Facilities
+topic: Passenger Vessels
 ---
 
 ### The Impact of the Americans with Disabilities Act of 1990
