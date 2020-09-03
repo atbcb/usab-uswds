@@ -1,6 +1,6 @@
 ---
 title: Abstract
-order-number: 0
+order-number: 0.5
 research-title: Accessible Exterior Surfaces
 status: completed
 year-completed: 1999
