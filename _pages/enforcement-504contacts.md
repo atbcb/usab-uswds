@@ -22,7 +22,7 @@ permalink: /enforcement/504contacts.html
 * [Department of Labor](#dol)
 * [Department of State](#state)
 * [Department of Transportation](#dot)
-* [Department of the Treasury](#treasury)
+* [Department of the Treasury](#treas)
 * [Department of Veteran Affairs](#va)
 * [Environmental Protection Agency](#epa)
 * [Equal Employment Opportunity Commission](#eeoc)
@@ -30,7 +30,7 @@ permalink: /enforcement/504contacts.html
 * [Federal Emergency Management Agency](#fema)
 * [General Services Administration](#gsa)
 * [National Aeronautics and Space Administration](#nasa)
-* [National Endowment for the Arts](#nea)
+* [National Endowment for the Arts](#arts)
 * [National Endowment for the Humanities](#neh)
 * [National Science Foundation](#nsf)
 * [Nuclear Regulatory Commission](#nrc)
@@ -44,7 +44,7 @@ permalink: /enforcement/504contacts.html
 
 * * * * *
 
-<a name="usaid /> Ms. Rose Trujillo-Miller  
+<a name="usaid" /> Ms. Rose Trujillo-Miller  
 Affirmative Employment Chief  
 Office of Equal Opportunity Programs  
 Agency for International Development  
@@ -78,9 +78,9 @@ Washington, DC  20525
 
 * * * * *
 
-Ms. Jean Mahoney  
+<a name="usda" />Ms. Jean Mahoney  
 Disability Compliance Manager  
-Office of Civil Rights - Policy & Planning Division  
+Office of Civil Rights - Policy and Planning Division  
 Department of Agriculture  
 1300 Independence Avenue SW, Room 6407  
 Washington, DC  20250  
@@ -90,11 +90,11 @@ Washington, DC  20250
 
 * * * * *
 
-Ms. Brenda Brittain  
+<a name="doc" />Ms. Brenda Brittain  
 Disability Program Manager  
 Office of Civil Rights  
 Department of Commerce  
-14th Street & Constitution Avenue NW, Room 6010  
+14th Street and Constitution Avenue NW, Room 6010  
 Washington, DC  20230  
 202-482-5691  
 202-482-5373 (fax)  
@@ -102,17 +102,17 @@ Washington, DC  20230
 
 * * * * *
 
-Randy D. Cooper  
+<a name="dod" />Randy D. Cooper  
 Director  
 Department of Defense Disability EEO Policy and Compliance  
 4000 Defense Pentagon 5D641  
-Washington, DC 20301-4000  
-(703) 571-9327  
+Washington, DC  20301-4000  
+703-571-9327  
 <OSD.Ability@mail.mil>
 
 * * * * *
 
-Ms. Eleanor Baker  
+<a name="ed" />Ms. Eleanor Baker  
 Customer Service Team  
 Department of Education  
 Office for Civil Rights  
@@ -124,7 +124,7 @@ Washington, DC  20202
 
 * * * * *
 
-Sharon P. Wyatt, Attorney-Advisor  
+<a name="doe" />Sharon P. Wyatt, Attorney-Advisor  
 Department of Energy  
 Office of Civil Rights and Diversity  
 1000 Independence Avenue SW, Room 5B-168  
@@ -134,7 +134,7 @@ Washington, DC  20585
 
 * * * * *
 
-Mr. Ronald G. Copeland  
+<a name="hhs" />Mr. Ronald G. Copeland  
 Associate Deputy Director  
 Office for Program Operations  
 Department of Health and Human Services  
@@ -147,29 +147,29 @@ Washington, DC  20201
 
 * * * * *
 
-Daniel W. Sutherland  
+<a name="dhs" />Daniel W. Sutherland  
 Officer for Civil Rights and Civil Liberties  
 Department of Homeland Security  
 7th and D Streets SW, Room 5608  
 Washington, DC  20528  
 202-401-0407 (voice/TTY)  
-(866) 632-9992
+866-632-9992
 
 * * * * *
 
-Ms. Cheryl D. Kent, Director  
-Office of Program Compliance & Disability Rights, FHEO  
-Department of Housing & Urban Development  
+<a name="hud" />Ms. Cheryl D. Kent, Director  
+Office of Program Compliance and Disability Rights, FHEO  
+Department of Housing and Urban Development  
 451 7th Street SW, Room 5240  
 Washington, DC  20410  
 202-708-2333, ext. 7058 (voice)  
 202-708-1734 (TTY)  
 <cheryl_d._kent@hud.gov>  
-[](http://www.hud.gov/offices/fheo/disabilities/504keys.cfm)[portal.hud.gov/hudportal/HUD?src=/program_offices/fair_housing_equal_opp/disabilities/sect504](http://portal.hud.gov/hudportal/HUD?src=/program_offices/fair_housing_equal_opp/disabilities/sect504)
+<https://www.hud.gov/program_offices/fair_housing_equal_opp/disability_main>
 
 * * * * *
 
-Mr. Melvin C. Fowler  
+<a name="doi" />Mr. Melvin C. Fowler  
 Staff Assistant for Civil Rights  
 Office of the Secretary, Office for Equal Opportunity  
 Department of the Interior  
@@ -180,18 +180,18 @@ Washington, DC  20240
 
 * * * * *
 
-Office of Justice Programs  
+<a name="doj" />Office of Justice Programs  
 Office for Civil Rights  
 810 7th Street NW  
 Washington, DC 20531  
 202-307-0690 (voice)  
 202-307-2027 (TTY)  
 202-616-9865 (fax)  
-[](http://www.ojp.usdoj.gov/about/offices/ocr.htm)<http://www.ojp.usdoj.gov/about/offices/ocr.htm>
+<https://www.ojp.gov/program/civil-rights>
 
 * * * * *
 
-Mr. Gregory Shaw  
+<a name="dol" />Mr. Gregory Shaw  
 Chief of Enforcement  
 Department of Labor  
 200 Constitution Avenue NW, Room N4123  
@@ -201,7 +201,7 @@ Washington, DC  20210
 
 * * * * *
 
-Ms. Deidre A. Davis  
+<a name="state" />Ms. Deidre A. Davis  
 Deputy Assistant Secretary of EEO and Civil Rights  
 Office of Equal Opportunity and Civil Rights  
 Department of State (S/EEOCR)  
@@ -213,19 +213,19 @@ Washington, DC  20520
 
 * * * * *
 
-Mr. Joseph E. Austin, Chief  
+<a name="dot" />Mr. Joseph E. Austin, Chief  
 External Policy and Program Development Division  
 Department of Transportation  
 Office of the Secretary  
 Departmental Office of Civil Rights  
 1200 New Jersey Avenue S.E.  
-4th & 5th Floors - East Building  
+4th and 5th Floors - East Building  
 Washington, DC  20590  
 <joseph.austin@ost.dot.gov>
 
 * * * * *
 
-Lydia E. Aponte  
+<a name="treas" />Lydia E. Aponte  
 Department of the Treasury  
 Office of Civil Rights and Diversity  
 1500 Pennsylvania Avenue NW  
@@ -236,7 +236,7 @@ Washington DC  20220
 
 * * * * *
 
-Mr. Tyrone M. Eddins  
+<a name="va" />Mr. Tyrone M. Eddins  
 External Affairs Program Manager  
 Department of Veteran Affairs  
 Office of Resolution Management  
@@ -247,7 +247,7 @@ Washington, DC  20420
 
 * * * * *
 
-Mr. Clyde Williams  
+<a name="epa" />Mr. Clyde Williams  
 Title VII Team Leader  
 Environmental Protection Agency  
 1200 Pennsylvania Avenue NW, mc: 1201A  
@@ -258,7 +258,7 @@ Washington, DC  20460
 
 * * * * *
 
-Ms. Betty Hickey  
+<a name="eeoc" />Ms. Betty Hickey  
 Acting Director, Office of Equal Opportunity  
 Equal Employment Opportunity Commission  
 1801 L Street NW  
@@ -270,7 +270,7 @@ Washington, DC  20507
 
 * * * * *
 
-Mr. Gerard Williams  
+<a name="fcc" />Mr. Gerard Williams  
 Section 504 Compliance Officer  
 Consumer Affairs and Outreach Division  
 Consumer and Governmental Affairs Bureau  
@@ -281,7 +281,7 @@ Federal Communications Commission
 
 * * * * *
 
-Dr. Alan Clive  
+<a name="fema" />Dr. Alan Clive  
 Civil Rights Program Manager  
 Federal Emergency Management Agency  
 500 C Street SW, Room 407  
@@ -291,7 +291,7 @@ Washington, DC  20472
 
 * * * * *
 
-Sloan W. Farrell  
+<a name="gsa" />Sloan W. Farrell  
 Team Leader, External Programs  
 Office of Civil Rights (AK)  
 U.S. General Services Administration  
@@ -304,7 +304,7 @@ Washington, DC  20405
 
 * * * * *
 
-Ms. Lynda Sampson  
+<a name="nasa" />Ms. Lynda Sampson  
 Disabilities Program Manager  
 National Aeronautics and Space Administration  
 300 E Street SW, Code EI  
@@ -315,7 +315,7 @@ Washington, DC  20546
 
 * * * * *
 
-Ms. Marisa E. Marinos, Esq.  
+<a name="arts" />Ms. Marisa E. Marinos, Esq.  
 Director of Civil Rights/EEO  
 National Endowment for the Arts  
 400 7th Street, SW  
@@ -325,7 +325,7 @@ Washington, DC 20506
 
 * * * * *
 
-Ms. Lillian Macartney  
+<a name="neh" />Ms. Lillian Macartney  
 Attorney-Advisor  
 National Endowment for the Humanities  
 400 7th Street, SW  
@@ -335,7 +335,7 @@ Washington, DC 20506
 
 * * * * *
 
-Ms. Zita R. Butler  
+<a name="nsf" />Ms. Zita R. Butler  
 Disability Employment Program Manager  
 National Science Foundation  
 Office of Equal Opportunity Programs  
@@ -346,7 +346,7 @@ Arlington, VA  22230
 
 * * * * *
 
-Ms. Irene P. Little  
+<a name="nrc" />Ms. Irene P. Little  
 Director, Office of Small Business and Civil Rights  
 Nuclear Regulatory Commission  
 Mail Stop T-2F18  
@@ -356,7 +356,7 @@ Washington, DC  20555
 
 * * * * *
 
-Ms. Michelle Payton-Kenner  
+<a name="opm" />Ms. Michelle Payton-Kenner  
 Chief, EEO Division  
 Office of Human Resources and EEO  
 Office of Personnel Management  
@@ -368,7 +368,7 @@ Washington, DC  20415
 
 * * * * *
 
-Ms. Deborah K. Balducchi, Director  
+<a name="sec" />Ms. Deborah K. Balducchi, Director  
 Office of Equal Employment Opportunity  
 Securities and Exchange Commission  
 450 Fifth Street NW, Room 3521  
@@ -378,10 +378,10 @@ Washington, DC  20549-0312
 
 * * * * *
 
-Mr. Kenneth T. Etheridge  
+<a name="sba" />Mr. Kenneth T. Etheridge  
 Director, Office of Administrative Services  
 Small Business Administration  
-Office of Equal Employment Opportunity & Civil Rights Compliance  
+Office of Equal Employment Opportunity and Civil Rights Compliance  
 409 Third Street SW, Suite 6400  
 Washington, DC  20416  
 202-205-6623  
@@ -389,7 +389,7 @@ Washington, DC  20416
 
 * * * * *
 
-Beth Ziebarth  
+<a name="si" />Beth Ziebarth  
 Smithsonian Institution Accessibility Program  
 Arts and Industries Building  
 Room 1239, MRC 426  
@@ -402,7 +402,7 @@ Washington, DC  20013-7012
 
 * * * * *
 
-Mr. Michael J. Hoover  
+<a name="ssa" />Mr. Michael J. Hoover  
 Associate General Counsel for General Law  
 Office of the General Counsel  
 Social Security Administration  
@@ -414,7 +414,7 @@ Baltimore, MD  21235
 
 * * * * *
 
-Ms. Valerie Sisson  
+<a name="tva" />Ms. Valerie Sisson  
 501/504 Program Manager  
 Tennessee Valley Authority  
 400 West Summit Hill Drive, Mail Stop ET 2A  
@@ -424,7 +424,7 @@ Knoxville, TN 37902
 
 * * * * *
 
-United States Postal Service  
+<a name="usps" />United States Postal Service  
 A Section 504 complaint must first be submitted orally or in writing to the local postal manager, most often the postmaster.  To contact the postmaster or other responsible manager, call 800-275-8777.
 
 * * * * *
