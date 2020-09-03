@@ -322,6 +322,11 @@ defaults:
       path: "_authors"
     values:
       layout: author
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      collection-title: "Pages"
 
 markdown: kramdown
 plugins:
