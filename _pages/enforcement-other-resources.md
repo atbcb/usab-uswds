@@ -102,7 +102,7 @@ Web:  [www.access-board.gov/ict/]({{ site.baseurl }}/ict/)
 
 U.S. General Services Administration (GSA)  
 E-mail: <section.508@gsa.gov>  
-Web: [www.section508.gov](https://www.section508.gov/)
+Web: [www.section508.gov](https://www.section508.gov)
 
 _Note:_  Each federal agency is responsible for enforcing Section 508 with respect to its own ICT development, procurement, maintenance, and use.  The Federal Communications Commission (FCC) enforces Section 255.  For further information on Section 255, contact the FCC's Disability Rights Office:
 
