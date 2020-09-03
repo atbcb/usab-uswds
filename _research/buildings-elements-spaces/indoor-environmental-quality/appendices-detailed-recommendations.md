@@ -1,10 +1,10 @@
 ---
 title: Appendices Detailed Recommendations
 order-number: 6
-research-title: Appendices Detailed Recommendations
+research-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
-topic: Indoor Environmental Quality
+topic: Buildings Elements and Spaces
 ---
 
 **Detailed Recommendations for Pest Control**

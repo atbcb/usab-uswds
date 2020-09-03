@@ -1,10 +1,10 @@
 ---
 title: Operations and Maintenance
 order-number: 1
-research-title: Operations and Maintenance
+research-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
-topic: Indoor Environmental Quality
+topic: Buildings Elements and Spaces
 ---
 
 The operation and maintenance of commercial and public buildings can affect their accessibility for people with asthma and multiple chemical and/or electromagnetic sensitivities. The presence of many products or conditions involved in cleaning, maintaining, using, and operating buildings often contributes to poor indoor environmental quality and are access barriers for these individuals.

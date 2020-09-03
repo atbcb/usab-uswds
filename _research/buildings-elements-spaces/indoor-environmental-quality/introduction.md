@@ -1,7 +1,7 @@
 ---
 title: Introduction
 order-number: 0
-research-title: Indoor Environmental Quality Project
+research-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
 topic: Building and Elements

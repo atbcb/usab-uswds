@@ -1,10 +1,10 @@
 ---
 title: General Recommendations
 order-number: 4
-research-title: General Recommendations
+research-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
-topic: Indoor Environmental Quality
+topic: Buildings Elements and Spaces
 ---
 **Policies**
 

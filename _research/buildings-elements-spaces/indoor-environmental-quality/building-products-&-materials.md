@@ -4,7 +4,7 @@ order-number: 16
 Research title: Building Products & Materials
 status: completed
 year-completed: 2006
-topic: Indoor Environmental Quality
+topic: Buildings Elements and Spaces
 ---
 
 **Introduction**

@@ -1,10 +1,10 @@
 ---
 title: Recommendations for Accommodations
 order-number: 9
-research-title: Recommendations for Accommodations
+research-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
-topic: Indoor Environmental Quality
+topic: Buildings Elements and Spaces
 ---
 
 People with chemical and/or electromagnetic sensitivities can experience debilitating reactions from exposure to extremely low levels of common chemicals such as pesticides, cleaning products, fragrances, and remodeling activities, and from electromagnetic fields emitted by computers, cell phones, and other electrical equipment.

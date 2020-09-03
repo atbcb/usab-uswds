@@ -1,10 +1,10 @@
 ---
 title: Recommendations
-order-number: 0
-research-title: Recommendations
+order-number: 2
+research-title: Swimming Pool Accessibility
 status: completed
 year-completed: 1996
-topic: Swimming Pool Accessibility
+topic: Buildings Elements and Spaces
 ---
 
 #### Based on the findings of the review of literature and three research studies, the following recommendations were presented:

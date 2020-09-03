@@ -1,10 +1,10 @@
 ---
 title: Appendices
 order-number: 11
-research-title: Appendices
+research-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
-topic: Indoor Environmental Quality
+topic: Buildings Elements and Spaces
 ---
 
 **Appendix A - 1117B.5.11 Cleaner air symbol of the California Code of Regulations**

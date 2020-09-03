@@ -1,10 +1,10 @@
 ---
 title: Designated Cleaner Air Rooms
 order-number: 8
-research-title: Designated Cleaner Air Rooms
+research-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
-topic: Indoor Environmental Quality
+topic: Buildings Elements and Spaces
 ---
 
 **Introduction and Overview**

@@ -1,10 +1,10 @@
 ---
 title: Executive Summary
-order-number: 3
-Research-Titile: Executive Summary
+order-number: 1
+research-title: Swimming Pool Accessibility
 status: completed
-Year Completed: 1996
-Topoc: Swimming Pool Accessibility
+year-completed: 1996
+topic: Buildings Elements and Spaces
 ---
 
 This project was conducted for the U.S. Architecture and Transportation Barriers Compliance Board to identify and evaluate methods and standards related to enabling access to swimming pools by people with disabilities. It focused on the appropriateness, independent use, degree of consistency with existing building standards, level of safety, and impact on pool design.

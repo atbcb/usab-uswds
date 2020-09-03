@@ -1,10 +1,10 @@
 ---
 title: Appendix B
-order-number: 2
-Research title: Appendix B
+order-number: 4
+research-title: Swimming Pool Accessibility
 status: completed
 year-completed: 1996
-topic: Swimming Pool
+topic: Buildings Elements and Spaces
 ---
 
 ### Product Descriptions

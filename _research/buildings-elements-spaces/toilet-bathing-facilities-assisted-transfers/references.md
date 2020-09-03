@@ -1,10 +1,10 @@
 ---
 title: References
 order-number: 4
-research-title: References
+research-title: Toileting and Bathing Facilities for Assisted Transfers
 status: completed
 year-completed: 2001
-topic: Toileting and Bathing Facilities Assisted Transfers
+topic: Buildings Elements and Spaces
 ---
 
 Bureau of the Census. (1992). *Statistical Abstract of the United States, 1992, 112rth Edition.* Economics and Statistics Administration, US Department of Commerce.

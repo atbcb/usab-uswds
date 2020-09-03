@@ -1,10 +1,10 @@
 ---
 title: References & Bibliography
 order-number: 15
-research-title: References & Bibliography
+research-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
-topic: Indoor Environmental Quality
+topic: Buildings Elements and Spaces
 ---
 
 **Reference 1**
