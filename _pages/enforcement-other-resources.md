@@ -89,7 +89,7 @@ Web:  [www.ada.gov](https://www.ada.gov)
 
 ### Federally Funded Housing
 
-Housing that is designed, built, altered, or leased with federal funds may be subject to the [ABA](https://www.access-board.gov/aba-enforcement/file-a-complaint).
+Housing that is designed, built, altered, or leased with federal funds may be subject to the [ABA]({{ site.baseurl }}/enforcement/complaint.html).
 
 ## Information and Communication Technology
 
@@ -98,11 +98,11 @@ Section 508 of the Rehabilitation Act requires access to information and communi
 U.S. Access Board
 Phone:  (800) 872-2253 (v) or (800) 993-2822 (TTY)\
 E-mail:  <508@access-board.gov>  
-Web:  [www.access-board.gov/ict]({{ site.baseurl }}/ict/)
+Web:  [www.access-board.gov/ict/]({{ site.baseurl }}/ict/)
 
 U.S. General Services Administration (GSA)  
 E-mail: <section.508@gsa.gov>  
-Web: [www.section508.gov](https://www.section508.gov/)
+Web: [www.section508.gov](https://www.section508.gov)
 
 _Note:_  Each federal agency is responsible for enforcing Section 508 with respect to its own ICT development, procurement, maintenance, and use.  The Federal Communications Commission (FCC) enforces Section 255.  For further information on Section 255, contact the FCC's Disability Rights Office:
 
