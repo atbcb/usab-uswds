@@ -1,10 +1,10 @@
 ---
 title: VMS Legibility Standards and Research
 order-number: 3
-research-title: VMS Legibility Standards and Research
+research-title: "Synthesis on the Legibility of Variable Message Signing (VMS) for Readers with Vision Loss"
 status: completed
 year-completed: 2002
-topic: Synthesis on the Legibility of Variable Message Signing
+topic: Communication and Information
 ---
 
 Dudek (1997) surveyed 27 states to determine whether they had design standards to optimize VMS legibility distance. He found that 14% specified luminance contrast ratio between legend and sign background, 36% specified external and internal illumination, 46% character height, and 39% had specifications for character width, and spacing between characters and lines of text. Dudek cited the lack of national standards and the relative novelty of VMS as reasons for the low percentage of state standards. Marston (1993) wrote that because of knowledge gaps regarding recent product developments often a "state or local agency writes the specification so generally that any CMS project or technology is applicable."

@@ -1,9 +1,9 @@
 ---
 title: Installation
 order-number: 7
-research-title: Installation
+research-title: Large Area Assistive Listening Systems
 status: completed
-topic: Large Area Assistive Listening Systems 
+topic: Communication and Information
 ---
 
 The adequacy of the installation and the competency of the installers were a recurring theme in all the focus groups. Consumers complained of listening variations in different seating positions in the same venue, and of variations in the location at different times. Noise and interference appeared intermittently and unpredictably. For the most part, it did not appear that the equipment itself was responsible for these problems. Rather, it often appeared that the installer had either not installed the equipment correctly, or had not selected the appropriate ALS or characteristics for a particular venue. Perhaps occurring as frequently as poor installation, however, are the occasions when a proper installation is modified by local facility managers or personnel after the initial installation takes place. In these instances, even the best installation can be defeated. What is clear is that the best of intentions, the most sophisticated equipment and, sometimes, even an excellent installation, are not a sufficient guarantee of adequate performance in the ALS. Once the installation is made, local facility managers and personnel may modify it in some fashion for their own reasons, thus affecting the quality of the installation. Since it is impossible to control the actions of these people, in this report we can but focus on the adequacy of the initial installation, which means the competency of the people who perform this service.

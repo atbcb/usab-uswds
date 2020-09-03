@@ -1,9 +1,9 @@
 ---
 title: Receivers and Couplers Recommendations
 order-number: 6
-research-title: Receivers and Couplers Recommendations
+research-title: Large Area Assistive Listening Systems
 status: completed
-topic: Large Area Assistive Listening Systems
+topic: Communication and Information
 ---
 
 When hard of hearing people use an ALS, they are not usually concerned with the characteristics of the installation and transmission process of the various systems. They expect, and rightly so, that when they obtain a receiver at some venue that the signal they perceive will be superior to that they could obtain unaided or with their own hearing aids. The nature, characteristics, and operation of ALS receivers proved to be a major concern in all the focus groups. The recommendations given below reflect the comments and suggestions made, but also represent our own best judgements:

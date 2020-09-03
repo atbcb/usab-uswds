@@ -1,9 +1,9 @@
 ---
 title: Background
 order-number: 2
-research-title: Background
+research-title: Large Area Assistive Listening Systems
 status: completed
-topic: Large Area Assistive Listening Systems 
+topic: Communication and Information
 ---
 
 Three types of ALS are in widespread use at the present time: Induction Loop (IL) systems, Frequency Modulated (FM) radio systems, and Infrared (IR) systems. Each offers the advantages of bridging the acoustical space between the source and the listener. Thus each can potentially offer advantages not possible when listening to a live voice or in the acoustic far field of a loudspeaker. Each, however, presents its own unique set of installation and user related concerns (Ross l994). In this section, we will describe the systems, discuss standards and issues pertaining to each, and conclude with a direct comparison of the three systems.

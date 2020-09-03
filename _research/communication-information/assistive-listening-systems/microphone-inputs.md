@@ -1,9 +1,9 @@
 ---
 title: Microphone Inputs
 order-number: 3
-research-title: Microphone Inputs
+research-title: Large Area Assistive Listening Systems
 status: completed
-topic: Large Area Assistive Listening Systems
+topic: Communication and Information
 ---
 
 The quality of the signal received by users of an ALS system depends not only on the transmission characteristics to the receiver, but on the nature of the source. If the source is "live", then the quality of the signal at the microphone will affect the quality of the signal at all later stages in the transmission process. Questions and problems related to the appropriate type and placement of microphones in live performances was a recurring theme in both the consumer and manufacturer's focus groups.

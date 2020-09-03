@@ -1,10 +1,10 @@
 ---
 title: References
 order-number: 6
-research-title: References
+research-title: "Synthesis on the Legibility of Variable Message Signing (VMS) for Readers with Vision Loss"
 status: completed
 year-completed: 2002
-topic: Synthesis on the Legibility of Variable Message Signing 
+topic: Communication and Information
 ---
 
 AmericansWith Disabilities Act (ADA) Accessibility Guidelines for Transportation Vehicles Part 1192 "Destination and route signs." (1991).

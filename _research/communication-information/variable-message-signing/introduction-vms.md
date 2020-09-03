@@ -1,10 +1,10 @@
 ---
 title: Introduction
 order-number: 1
-research-title: Introduction
+research-title: "Synthesis on the Legibility of Variable Message Signing (VMS) for Readers with Vision Loss"
 status: completed
 year-completed: 2002
-topic: Synthesis on the Legibility of Variable Message Signing 
+topic: Communication and Information
 ---
 
 #### Overview

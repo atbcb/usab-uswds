@@ -1,10 +1,10 @@
 ---
 title: About this Study
 order-number: 1
-research-title: About this Study
+research-title: Improved Engineered Wood Fiber (EWF) Surfaces for Accessible Playgrounds
 status: completed
 year-completed: 2003
-topic: Improved Engineered Wood Fiber (EWF) Surfaces 
+topic: Exterior Surfaces 
 ---
 
 #### Background
