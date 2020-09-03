@@ -2,7 +2,7 @@
 title: Part II
 order-number: 2
 research-title: Building Elements and Spaces
-status: Completed
+status: completed
 year-completed: 2011
 topic: Building and Elements
 ---

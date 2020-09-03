@@ -2,8 +2,8 @@
 title: References
 order-number: 9
 research-title: References
-Status: Completed
-Topic: Large Area Assistive Listening Systems 
+status: completed
+topic: Large Area Assistive Listening Systems 
 ---
 
 Architectural and Transportation Barriers Compliance Board, Office of Technical Services, January 6, l981 Ruling.

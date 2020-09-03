@@ -2,9 +2,9 @@
 title: Introduction and Research Objectives
 order-number: 1
 research-title: Introduction and Research Objectives
-Status: Completed
-Year-Completed: 1999
-Topic: Accessible Exterior Surfaces
+status: completed
+year-completed: 1999
+topic: Accessible Exterior Surfaces
 ---
 
 The Americans with Disabilities Act (ADA) Accessibility Guidelines currently specify that surfaces that are required to be accessible must be "stable, firm, and slip resistant" (Section 4.5.1) (USATBCB, 1992). These requirements are subjective; objective measures are not specified. These characteristics have been defined as:

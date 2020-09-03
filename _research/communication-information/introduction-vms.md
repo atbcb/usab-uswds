@@ -2,9 +2,9 @@
 title: Introduction
 order-number: 1
 research-title: Introduction
-Status: Completed
-Year-Completed: 2002
-Topic: Synthesis on the Legibility of Variable Message Signing 
+status: completed
+year-completed: 2002
+topic: Synthesis on the Legibility of Variable Message Signing 
 ---
 
 #### Overview

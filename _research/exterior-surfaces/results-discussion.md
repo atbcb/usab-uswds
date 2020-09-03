@@ -2,9 +2,9 @@
 title: Results and Discussion
 order-number: 3
 research-title: Results and Discussion
-Status: Completed
-Year-Completed: 2003
-Topic: Improved Engineered Wood Fiber (EWF) Surfaces 
+status: completed
+year-completed: 2003
+topic: Improved Engineered Wood Fiber (EWF) Surfaces 
 ---
 
 #### Accessibility

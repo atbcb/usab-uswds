@@ -2,9 +2,9 @@
 title: Notes
 order-number: 3
 research-title: Notes
-Status: Completed
-Year-Completed: 2009
-Topic: Common Problems Arising in APS Installation 
+status: completed
+year-completed: 2009
+topic: Common Problems Arising in APS Installation 
 ---
 
 1.  To locate an orientation and mobility specialist, see <http://aerbvi.org/modules.php?name=Content&pa=showpage&pid=4> for a list of chapters of the Association for the Education and Rehabilitation of the Blind and Visually-Impaired (AER).

@@ -2,9 +2,9 @@
 title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 order-number: 0
 research-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
-Status: Completed
-Year-Completed: 2009
-Topic: Common Problems Arising in APS Installation 
+status: completed
+year-completed: 2009
+topic: Common Problems Arising in APS Installation 
 ---
 
 | [![Download this file (APS-common-problems.pdf)](https://www.access-board.gov/media/com_attachments/images/file_icons/pdf.gif)](https://www.access-board.gov/attachments/article/1186/APS-common-problems.pdf "Download this file (APS-common-problems.pdf)") |

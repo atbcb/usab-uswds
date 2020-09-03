@@ -2,9 +2,9 @@
 title: U.S. Fleet Case Studies Phase 1
 order-number: 3
 research-title: US Fleet Case Studies Phase 1
-Status: Completed
-Year-Completed: 2004
-Topic: ADA Access to Passenger Vessels
+status: completed
+year-completed: 2004
+topic: ADA Access to Passenger Vessels
 ---
 
 *3.1 The *Flying Cloud* and *Lightning* (Harbor Express)*\

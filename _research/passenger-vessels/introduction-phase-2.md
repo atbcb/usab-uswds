@@ -2,9 +2,9 @@
 title: Introduction (Phase 2)
 order-number: 8
 research-title: Introduction Phase 2
-Status: Completed
-Year-Completed: 2005
-Topic: ADA Access to Passenger Vessels
+status: completed
+year-completed: 2005
+topic: ADA Access to Passenger Vessels
 ---
 
 *1.1 Background*\

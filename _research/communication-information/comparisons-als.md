@@ -2,8 +2,8 @@
 title: Comparisons Between ALS
 order-number: 4
 research-title: Comparisons Between ALS
-Status: Completed
-Topic: Large Area Assistive Listening Systems 
+status: completed
+topic: Large Area Assistive Listening Systems 
 ---
 
 4.1 Research

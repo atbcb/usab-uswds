@@ -2,9 +2,9 @@
 title: Dissemination Activities
 order-number: 6
 research-title: Dissemination Activities
-Status: Completed
-Year-Completed: 2014
-Topic: Surface Roughness Final Report
+status: completed
+year-completed: 2014
+topic: Surface Roughness Final Report
 ---
 
 **Publications and conferences**

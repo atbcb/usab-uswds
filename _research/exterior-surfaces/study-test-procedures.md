@@ -2,9 +2,9 @@
 title: Study Site and Test Procedures
 order-number: 3
 research-title: Study Site and Test Procedures
-Status: Completed
-Year-Completed: 2004
-Topic: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces
+status: completed
+year-completed: 2004
+topic: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces
 ---
 
 #### Playground Study Site

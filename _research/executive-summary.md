@@ -2,7 +2,7 @@
 title: Executive Summary
 order-number: 3
 Research-Titile: Executive Summary
-Status: Completed
+status: completed
 Year Completed: 1996
 Topoc: Swimming Pool Accessibility
 ---

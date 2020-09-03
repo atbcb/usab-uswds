@@ -2,9 +2,9 @@
 title: Recommended Actions For Facility Managers and Operations & Maintenance Staff
 order-number: 2
 research-title: Recomended Actions for Facility Managers and Operations & Maintenance Staff
-Status: Completed
+status: completed
 Year-completed: 2006
-Topic: Indoor Environmental Quality
+topic: Indoor Environmental Quality
 ---
 
 The O & M Committee identified pesticides (indoors & outdoors), fragrances (especially fragrance-emitting devices/FEDS, air fresheners and deoderizers), and volatile cleaners (including citrus & pine) as the biggest access barriers for people with chemical sensitivities related to operations and maintenance of a building. Cell phone use was identified as a significant barrier for people with electromagnetic sensitivities.

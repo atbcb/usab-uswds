@@ -2,9 +2,9 @@
 title: Approach (Phase 2)
 order-number: 9
 research-title: Approach Phase 2
-Status: Completed
-Year-Completed: 2005
-Topic: ADA Access to Passenger Vessels
+status: completed
+year-completed: 2005
+topic: ADA Access to Passenger Vessels
 ---
 
 It is useful at the outset to state the essential safety precepts in regard to watertight integrity, as expressed in national and international regulations and safety instruments. In the strict physical sense, the vessel consists of a watertight hull envelope and weathertight topside. The safety philosophy is to:

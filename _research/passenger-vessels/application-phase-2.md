@@ -2,9 +2,9 @@
 title: Application and Examples (Phase 2)
 order-number: 11
 research-title: Application and Examples Phase 2
-Status: Completed
-Year-Completed: 2005
-Topic: ADA Access to Passenger Vessels
+status: completed
+year-completed: 2005
+topic: ADA Access to Passenger Vessels
 ---
 
 The risk methodology was first exercised and tuned with examples of weathertight doors in the as-built condition (section 4.1). The next step was the development of reconfiguration cases on several representative, and recent, designs. Summaries of the reconfiguration cases appear in section 4.2, and the full texts appear in Appendices B through D.

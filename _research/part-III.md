@@ -2,9 +2,9 @@
 title: Part III Appendices
 Order-number: 3
 research title: Part III Appendices
-Status: Completed
+status: completed
 Year-completed: 2011
-Topic: Building Elements and Spaces
+topic: Building Elements and Spaces
 ---
 
 **Industry tolerances developed as part of this project**

@@ -2,9 +2,9 @@
 title: Appendix A Coast Guard Documentation for Inspected Passenger Vessel (Phase 1)
 order-number: 6
 research-title: Appendix A Coast Guard Documentation for Inspected Passenger Vessel Phase 1
-Status: Completed
-Year-Completed: 2004
-Topic: ADA Access to Passenger Vessels
+status: completed
+year-completed: 2004
+topic: ADA Access to Passenger Vessels
 ---
 
 Print Email

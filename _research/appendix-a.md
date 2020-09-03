@@ -2,9 +2,9 @@
 title: Appendix A
 order-number: 1
 research-title: Appendix A
-Status: Completed
-Year-Completed: 1996
-Topic: Swimming Pool Accessibility
+status: completed
+year-completed: 1996
+topic: Swimming Pool Accessibility
 ---
 
 ### Designs & Devices for Swimming Pool Access

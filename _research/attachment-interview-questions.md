@@ -2,9 +2,9 @@
 title: Attachment Interview Questions
 order-number: 5
 research-title: Attachment Interview Questions
-Status: Completed
-Year-Completed: 2001
-Topic: Toileting and Bathing Facilities Assisted Transfers
+status: completed
+year-completed: 2001
+topic: Toileting and Bathing Facilities Assisted Transfers
 ---
 
 Best Practices in the Design of Toilet and Bathing Facilities for Assisted Transfers

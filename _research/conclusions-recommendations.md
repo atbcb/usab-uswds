@@ -2,9 +2,9 @@
 title: Conclusions and Recommendations
 order-number: 3
 research-title: Conclusions and recommendations
-Status: Completed
-Year-Completed: 2001
-Topic: Toileting and Bathing Facilities Assisted Transfers
+status: completed
+year-completed: 2001
+topic: Toileting and Bathing Facilities Assisted Transfers
 ---
 
 Findings of this project were as discouraging as they were encouraging. On the encouraging side, most participants had a good understanding of the problems that older individuals and caregivers face with accessibility to toileting and bathing facilities. Moreover, the best practice designs reflect this understanding and are attempts to address the problems. On the discouraging side, the solutions are too few and some of those don't go far enough. It appears that too often the solution was "when in doubt, comply with ADAAG". However, this was not because designers and facility owners did not want to push the envelope, but rather because of their limited ability to do so. The reasons for this are twofold.

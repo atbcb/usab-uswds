@@ -2,9 +2,9 @@
 title: About this Study
 order-number: 1
 research-title: About this Study
-Status: Completed
-Year-Completed: 2003
-Topic: Improved Engineered Wood Fiber (EWF) Surfaces 
+status: completed
+year-completed: 2003
+topic: Improved Engineered Wood Fiber (EWF) Surfaces 
 ---
 
 #### Background

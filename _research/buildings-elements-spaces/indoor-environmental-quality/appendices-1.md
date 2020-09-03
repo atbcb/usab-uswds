@@ -2,9 +2,9 @@
 title: Appendices
 order-number: 14
 research-title: Appendices 
-Status: Completed
-Year-Completed: 2006
-Topic: Indoor Environmental Quality
+status: completed
+year-completed: 2006
+topic: Indoor Environmental Quality
 ---
 
 **Appendix 1---Site Selection: Potential Sources for Pollutants and EMF.**

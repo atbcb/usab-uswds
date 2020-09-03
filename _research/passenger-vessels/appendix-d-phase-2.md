@@ -2,9 +2,9 @@
 title: Appendix D (Phase 2)
 order-number: 17
 research-title: Appendix D Phase 2
-Status: Completed
-Year-Completed: 2005
-Topic: ADA Access to Passenger Vessels 
+status: completed
+year-completed: 2005
+topic: ADA Access to Passenger Vessels 
 ---
 
 **Numerical risk evaluation, main deck doors, 127'/368 Passenger Dinner Boat, Graul Design**

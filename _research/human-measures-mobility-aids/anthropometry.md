@@ -2,9 +2,9 @@
 title: Anthropometry for Persons with Disabilities Needs for the 21st Century
 order-number: 0
 research-title: Anthropometry for Persons with Disabilities Needs for the 21st Century
-Status: Completed
-Year-Completed: 1997
-Topic: Anthropometry for Persons with Disabilities Needs for the 21st Century
+status: completed
+year-completed: 1997
+topic: Anthropometry for Persons with Disabilities Needs for the 21st Century
 ---
 
 **August 22, 1997**

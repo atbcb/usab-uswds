@@ -2,9 +2,9 @@
 title: Appendix A Annotated Bibliography
 order-number: 7
 research-title: Appendix A Annotated Bibliography
-Status: Completed
-Year-Completed: 2002
-Topic: Synthesis on the Legibility of Variable Message Signing
+status: completed
+year-completed: 2002
+topic: Synthesis on the Legibility of Variable Message Signing
 ---
 
 #### TRANSPORTATION RESEARCH:

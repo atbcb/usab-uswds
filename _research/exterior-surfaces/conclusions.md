@@ -2,9 +2,9 @@
 title: Conclusions and Recommendations
 order-number: 4
 research-title: Conclusions and Recommendations
-Status: Completed
-Year-Completed: 1999
-Topic: Accessible Exterior Surfaces 
+status: completed
+year-completed: 1999
+topic: Accessible Exterior Surfaces 
 ---
 
  The results of this pilot study suggest:

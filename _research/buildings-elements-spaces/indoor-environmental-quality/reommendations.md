@@ -2,9 +2,9 @@
 title: Recommendations
 order-number: 13
 research-title: Recommendations
-Status: Completed
-Year-Completed: 2006
-Topic: Indoor Environmental Quality
+status: completed
+year-completed: 2006
+topic: Indoor Environmental Quality
 ---
 
 **Site and General Building Design**

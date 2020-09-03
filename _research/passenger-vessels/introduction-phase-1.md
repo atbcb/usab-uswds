@@ -2,9 +2,9 @@
 title: Introduction Phase 1
 order-number: 1
 research-title: Introduction Phase 1
-Status: Completed
-Year-Completed: 2004
-Topic: ADA Access to Passenger Vessels
+status: completed
+year-completed: 2004
+topic: ADA Access to Passenger Vessels
 ---
 
 *1.1 Purpose of Report*\

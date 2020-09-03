@@ -2,8 +2,8 @@
 title: Executive Summary
 order-number: 0
 research-title: Executive Summary
-Status: Completed
-Topic: Large Area Assistive Listening Systems
+status: completed
+topic: Large Area Assistive Listening Systems
 ---
 
 The Rehabilitation Engineering Research Center at the Lexington School for the Deaf was charged with recommending performance standards for Assistive Listening Systems (ALS) to the Architectural and Transportation Barriers Compliance Board (the "Access" board). Included in this charge was the preparation of a "State of the Art" paper that would describe the current status and major issues presented by ALS. The recommended standards were to be based not only on the results of a study investigating listening performance under various acoustical conditions, but also to include other factors that affect the real-life use of these systems. In addition to the research study, three focus groups were conducted composed of consumers, and representatives from manufacturers, installers, movie and theater chains, and the national sound contractor's association. A detailed description of the entire project can be found in the accompanying paper; in this "executive summary", we will focus only on our final recommendations.

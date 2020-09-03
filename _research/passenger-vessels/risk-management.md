@@ -2,9 +2,9 @@
 title: Risk Management Methodology (Phase 2)
 order-number: 10
 research-title: Risk Management Methodology Phase 2
-Status: Completed
-Year-Completed: 2005
-Topic: ADA Access to Passenger Vessels
+status: completed
+year-completed: 2005
+topic: ADA Access to Passenger Vessels
 ---
 
 The main points of the risk-based approach are:

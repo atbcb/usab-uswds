@@ -2,9 +2,9 @@
 title: References
 order-number: 7
 research-title: References
-Status: Completed
-Year-Completed: 2014
-Topic: Surface Roughness Final Report 
+status: completed
+year-completed: 2014
+topic: Surface Roughness Final Report 
 ---
 
 Americans With Disabilities Act of 1990, 42 U.S.C.A § 12101 et seq. (1993)

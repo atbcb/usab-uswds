@@ -2,9 +2,9 @@
 title: Conclusions Recommendations and Future Research Needs
 order-number: 5
 research-title: Conclusions Recommendations and Future Research Needs
-Status: Completed
-Year-Completed: 2002
-Topic: Synthesis on the Legibility of Variable Message Signing
+status: completed
+year-completed: 2002
+topic: Synthesis on the Legibility of Variable Message Signing
 ---
 
 In 2001 the Public Rights-of-Way Access Advisory Committee made the following statement:

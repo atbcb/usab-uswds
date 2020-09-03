@@ -2,9 +2,9 @@
 title: Background
 order-number: 2
 research-title: Background
-Status: Completed
-Year-Completed: 2004
-Topic: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces 
+status: completed
+year-completed: 2004
+topic: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces 
 ---
 
 Some engineered wood fiber (EWF) and chipped wood surfaces on playgrounds are difficult for those who use mobility aids, such as wheelchairs and walkers, because the surfaces are soft and uneven. This study is the third phase of a research project in pursuit of a stable, smooth, and impact-attenuating surface, based on wood materials, for playgrounds. In Phase I, processing techniques and material properties were evaluated in small bench-top and full-depth laboratory tests (Laufenberg and others 2003). Phase II involved 6 months of outdoor field testing (Laufenberg and Winandy 2003). In Phase III, reported here, we continued to develop the concept for stabilizing EWF to improve wheel-chair and walker accessibility.

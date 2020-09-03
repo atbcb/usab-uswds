@@ -2,9 +2,9 @@
 title: Background
 order-number: 0
 research-title: Background
-Status: Completed
-Year-Completed: 2001
-Topic: Toileting and Bathing Facilities Assisted Transfers
+status: completed
+year-completed: 2001
+topic: Toileting and Bathing Facilities Assisted Transfers
 ---
 
 Although the Americans with Disabilities Act Accessibility Guidelines (ADAAG) were initially issued in 1991, many of the guidelines were based on design standards for people with disabilities that were developed almost two decades ago. In the time since the development of these early requirements, the demographics of the population of people with disabilities have changed dramatically. People are growing older and a larger number of individuals are living longer with disabilities (Bureau of the Census, 1992; Chirikos, 1986; Colvez & Blanchet, 1981, Jones & Sanford, 1996; Kunkel & Applebaum, 1992; LaPlante, Hendershot, & Moss; 1992; Zola, 1993). As a result, individuals' functional abilities may not be served by existing design guidelines. A number of researchers, including Czaja (1984), Faletti (1984), Sanford, Echt, & Malassigné (1999), and Steinfeld & Shea (1993), have argued that accessibility standards, based primarily on the capabilities of young people, may not compensate adequately for range of comorbidities and secondary conditions that are common among older people with disabilities. In fact, adhering to accessibility codes may do more to promote excess disability among older people than to ameliorate it (Sanford, Echt & Malassigné, 1999; Sanford & Megrew, 1995). This suggests that alternative guidelines based on the needs and capabilities of elderly individuals should be established, particularly in buildings used primarily by older people (e.g., residential care facilities, senior centers and independent living facilities).

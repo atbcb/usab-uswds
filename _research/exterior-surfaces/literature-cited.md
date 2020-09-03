@@ -2,9 +2,9 @@
 title: Literature Cited
 order-number: 5
 research-title: Literature Cited
-Status: Completed
-Year-Completed: 2003
-Topic: Improved Engineered Wood Fiber (EWF) Surfaces
+status: completed
+year-completed: 2003
+topic: Improved Engineered Wood Fiber (EWF) Surfaces
 ---
 
 > American Society for Testing and Materials. ASTM F1292 *Standard Specification for Impact Attenuation of Surface Systems Under and Around Playground Equipment, ASTM, West **Conshohocken,PA 19428*

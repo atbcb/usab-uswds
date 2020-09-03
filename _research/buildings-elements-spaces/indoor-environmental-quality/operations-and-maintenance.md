@@ -2,7 +2,7 @@
 title: Operations and Maintenance
 order-number: 1
 research-title: Operations and Maintenance
-status: Completed
+status: completed
 year-completed: 2006
 topic: Indoor Environmental Quality
 ---

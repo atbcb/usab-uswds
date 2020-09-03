@@ -2,9 +2,9 @@
 Ttile: Results
 order-number: 3
 research-title: Results
-Status: Completed
-Year-Completed: 1999
-Topic: Accessible Exterior Surfaces 
+status: completed
+year-completed: 1999
+topic: Accessible Exterior Surfaces 
 ---
 
 ### RESULTS OF OBJECTIVE SURFACE MEASUREMENT

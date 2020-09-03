@@ -2,9 +2,9 @@
 title: Appendix B
 order-number: 2
 Research title: Appendix B
-Status: Completed
-Year-Completed: 1996
-Topic: Swimming Pool
+status: completed
+year-completed: 1996
+topic: Swimming Pool
 ---
 
 ### Product Descriptions

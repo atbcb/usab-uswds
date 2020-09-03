@@ -2,9 +2,9 @@
 title: Appendix A (Phase 2)
 order-number: 14
 research-title: Appendix A Phase 2
-Status: Completed
-Year-Completed: 2005
-Topic: ADA Access to Passenger Vessels 
+status: completed
+year-completed: 2005
+topic: ADA Access to Passenger Vessels 
 ---
 
 **FIGURE 1. SUMP AND DRAIN ADJACENT TO THE DOOR**\

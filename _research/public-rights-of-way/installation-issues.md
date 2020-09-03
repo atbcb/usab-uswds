@@ -2,9 +2,9 @@
 title: Installation Issues
 order-number: 2
 research-title: Installation Isssues
-Status: Completed
-Year-Completed: 2009
-Topic: Common Problems Arising in APS Installation
+status: completed
+year-completed: 2009
+topic: Common Problems Arising in APS Installation
 ---
 
 > Issue 1. APS volume (louder is not better)\

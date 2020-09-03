@@ -2,9 +2,9 @@
 title: Results
 order-number: 2
 research-title: Results
-Status: Completed
-Year-Completed: 2001
-Topic: Toileting and Bathing facilities Assisted Transfers
+status: completed
+year-completed: 2001
+topic: Toileting and Bathing facilities Assisted Transfers
 ---
 
 #### Types of Alternative Designs

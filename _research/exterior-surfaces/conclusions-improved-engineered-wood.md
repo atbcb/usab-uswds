@@ -2,9 +2,9 @@
 title: Conclusions
 order-number: 4
 research-title: Conclusions
-Status: Completed
+status: completed
 Year-Completd: 2003
-Topic: Improved Engineered Wood Fiber (EWF) Surfaces 
+topic: Improved Engineered Wood Fiber (EWF) Surfaces 
 ---
 
 #### *Impact Attenuation*

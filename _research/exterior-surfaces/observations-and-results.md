@@ -2,9 +2,9 @@
 title: Observations and Results
 order-number: 4
 research-title: Observation and Results
-Status: Completed
-Year-Completed: 2006
-Topic: Stabilized Engineered Wood Fiber for Accessible Trails
+status: completed
+year-completed: 2006
+topic: Stabilized Engineered Wood Fiber for Accessible Trails
 ---
 
 *Field Observations*

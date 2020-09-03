@@ -1,10 +1,10 @@
 ---
-Topic: Additional Resources
+title: Additional Resources
 order-number: 7
 research-title: Additional Resources
-Status: Completed
-Year-Completed: 2006
-Topic: Indoor Environmental QUality
+status: completed
+year-completed: 2006
+topic: Indoor Environmental QUality
 ---
 
 **General Guidance for Building Cleaning Programs**

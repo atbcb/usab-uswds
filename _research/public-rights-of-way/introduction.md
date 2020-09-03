@@ -2,9 +2,9 @@
 title: Introduction
 order-number: 1
 research-title: Introduction
-Status: Completed
-Year-Completed: 2009
-Topic: Common Problems Arising in APS Installation 
+status: completed
+year-completed: 2009
+topic: Common Problems Arising in APS Installation 
 ---
 
 |   | ![Photo of black rectangular unit with a sign with a print arrow and pedestrian signal. On the bottom part of the unit is a large pushbutton with an arrow.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0005.gif) |

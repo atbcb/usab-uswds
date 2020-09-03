@@ -2,9 +2,9 @@
 title: Appendix B VMS Guidelines Standards and Specifications
 order-number: 8
 research-title: Appendix B VMS Guidelines Standards and Specifications
-Status: Completed
-Year-Completed: 2002
-Topic: Synthesis on the Legibility of Variable Message Signing 
+status: completed
+year-completed: 2002
+topic: Synthesis on the Legibility of Variable Message Signing 
 ---
 
 #### MUTCD 2000: Manual on Uniform Traffic Control Devices Millennium Edition. (2000). U.S. DOT Federal Highway Administration.
