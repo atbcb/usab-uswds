@@ -1,10 +1,10 @@
 ---
 title: Long Term Research
 order-number: 3
-research-title: Long Term Research
+research-title: Anthropometry for Persons with Disabilities Needs for the 21st Century
 status: completed
 year-completed: 1997
-topic: Anthropometry for Persons with Disabilities Needs for the 21st Century 
+topic: Human Measures - Mobility Aids
 ---
 
 As urgency dictates and funds permit, future anthropometric surveys should be undertaken to:

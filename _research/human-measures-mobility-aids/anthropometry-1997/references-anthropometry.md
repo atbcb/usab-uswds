@@ -1,10 +1,10 @@
 ---
 title: References
 order-number: 5
-research-title: References
+research-title: Anthropometry for Persons with Disabilities Needs for the 21st Century
 status: completed
 year-completed: 1997
-topic: Anthropometry for Persons with Disabilities Needs for the 21st Century
+topic: Human Measures - Mobility Aids
 ---
 
 Churchill E, and McConville JT (1976) *Sampling and Data Gathering Strategies for Future USAF Anthropometry*. Technical Report (AMRL-TR-74-102) (AD A025 240). Aerospace Medical Research Laboratory, Wright-Patterson Air Force Base, OH.

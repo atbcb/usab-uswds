@@ -1,10 +1,10 @@
 ---
 title: Introduction
 order-number: 1
-research-title: Introduction
+research-title: Anthropometry for Persons with Disabilities Needs for the 21st Century
 status: completed
 year-completed: 1997
-topic: Anthropometry for Persons with Disabilities Needs for the 21st Century
+topic: Human Measures - Mobility Aids
 ---
 
 ### ANTHROPOMETRY FOR PERSONS WITH DISABILITIES: NEEDS FOR THE TWENTY-FIRST CENTURY

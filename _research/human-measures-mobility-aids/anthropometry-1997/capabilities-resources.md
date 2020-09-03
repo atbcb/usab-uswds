@@ -1,10 +1,10 @@
 ---
 title: Capabilities Resources and Facilities
 order-number: 4
-research-title: Capabilities Resources and Facilities
+research-title: Anthropometry for Persons with Disabilities Needs for the 21st Century
 status: completed
 year-completed: 1997
-topic: Anthropometry for Persons with Disabilities Needs for the 21st Century
+topic: Human Measures - Mobility Aids
 ---
 
 Any organization charged with the responsibility of carrying out an anthropometric survey such as the proposal suggested here should have the following capabilities:

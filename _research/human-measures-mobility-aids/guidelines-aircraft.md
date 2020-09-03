@@ -1,10 +1,10 @@
 ---
-title: Guidelines for Aircraft Boarding Chairs Technical Paper
+title: Technical Paper
 order-number: 0
-research-title: Guidelines for Aircraft Boarding Chairs Technical Paper
+research-title: Guidelines for Aircraft Boarding Chairs
 status: completed
 year-completed: 1987
-topic: Guidelines for Aircraft Boarding Chairs
+topic: Human Measures - Mobility Aids
 ---
 
 A Technical Paper on the Design of Chairs Used Primarily for Enplaning and Deplaning Physically Handicapped Passengers

@@ -1,10 +1,10 @@
 ---
 title: Appendix Revised Annotated Bibliography
 order-number: 6
-research-title: Appendix Revised Annoted Bibliography
+research-title: Anthropometry for Persons with Disabilities Needs for the 21st Century
 status: completed
 year-completed: 1997
-topic: Anthropometry for Persons with Disabilities Needs for the 21st Century
+topic: Human Measures - Mobility Aids
 ---
 
 ### ANTHROPOMETRY FOR PEOPLE WITH DISABILITIES
