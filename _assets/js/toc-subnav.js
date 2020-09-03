@@ -4,12 +4,8 @@
   // Set page section anchors
   // TODO Add support for updating link anchor style on scroll
   // and page anchor change
-  function setPageSectionAnchors(event) {
+  function setPageSectionAnchors() {
     let elements;
-    let pageURL = event ? event.newURL : document.URL;
-    let urlParsed = pageURL.split('#');
-    let hasAnchor = urlParsed.length > 1;
-    let currentAnchor = hasAnchor ? urlParsed[urlParsed.length - 1] : null;
     let standard = document.getElementById("standard");
 
     if (standard) {
@@ -32,12 +28,15 @@
         if (cleanedSection === "") continue;
 
         let idtag = cleanedSection.replace(/ /g,"-");
-        let currentAnchorClass = currentAnchor === idtag ?
-          'class="usa-current"' : 'class=""';
         elements[i].setAttribute("id",idtag);
 
+        let li = document.createElement("li");
+        let a = document.createElement("a");
+        a.setAttribute("href", "\"#" + idtag + "\"");
+        li.appendChild(a);
+
         if (subsections) {
-          subsections.innerHTML += "<li><a " + currentAnchorClass + " href=\"#" + idtag + "\">" + cleanedSection + "</a></li>";
+          subsections.appendChild(li);
         }
       };
     }
@@ -67,8 +66,6 @@
 
   // Set Anchors onload
   setPageSectionAnchors();
-  // Add event listener on window resize
-  window.addEventListener('hashchange', setPageSectionAnchors);
 
   // Set accordion onload
   setSubnav();
