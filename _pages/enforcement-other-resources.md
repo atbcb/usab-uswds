@@ -14,7 +14,7 @@ Various federal laws enforced by other agencies address accessibility and protec
 - [Information and Communication Technology](#information-and-communication-technology)
 - [Programs and Services](#programs-and-services)
 - [Transportation](#transportation)
-- [Voting](vVoting)
+- [Voting](#voting)
 
 ## Air Travel
 
