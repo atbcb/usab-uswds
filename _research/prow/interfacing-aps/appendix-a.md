@@ -1,5 +1,5 @@
 ---
-title: Appendix A: Traffic Signal Controllers
+title: "Appendix A: Traffic Signal Controllers"
 order-number: 7
 research-title: Interfacing Accessible Pedestrian Signals (APS) with Traffic Signal Control Equipment
 status: completed
