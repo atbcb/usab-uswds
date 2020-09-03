@@ -1,18 +1,12 @@
 ---
 title: 2002 Draft Guidelines for Accessible Public Rights-of-Way
-Collection-title: 
-Layout: 
+layout: page
+permalink: /prowag/draft-2002.html
 ---
 
-## June 17, 2002
+**June 17, 2002**
 
-
----
-
-
-Introduction
-------------
-
+### Introduction
 The Americans with Disabilities Act (ADA) recognizes and protects the civil rights of people with disabilities and is modeled after earlier landmark laws prohibiting discrimination on the basis of race and gender. To ensure that buildings and facilities are accessible to and usable by people with disabilities, the ADA establishes accessibility requirements for State and local government facilities, places of public accommodation, and commercial facilities. Under the ADA, the Access Board has developed and continues to maintain design guidelines for accessible buildings and facilities known as the ADA Accessibility Guidelines (ADAAG). ADAAG covers a wide variety of facilities and establishes minimum requirements for new construction and alterations.
 
 The Board maintains a similar responsibility for accessibility guidelines under the Architectural Barriers Act (ABA). The ABA requires access to certain facilities designed, built, altered, or leased with Federal funds. Like ADAAG, the Board's ABA accessibility guidelines apply to new construction and alterations.
@@ -23,8 +17,7 @@ The Board plans to undertake rulemaking to supplement its ADA and ABA accessibil
 ---
 
 
-Background
-----------
+### Background
 
 **The Need for Guidelines on Public Rights-of-Way**\
 Local jurisdictions, and other entities covered by the ADA or ABA, must ensure that the facilities they build or alter are accessible to people with disabilities. The Board's ADA and ABA accessibility guidelines specify the minimum level of accessibility in new construction and alteration projects and serve as the basis for enforceable standards maintained by other agencies. Currently, the Board's guidelines, like the industry standards from which they derive, focus mainly on facilities on sites. While they address certain features common to public sidewalks, such as curb ramps, accessible routes, ground and floor surfaces, and bus stops and shelters, further guidance is necessary to address conditions unique to public rights-of-way. Various constraints posed by space limitations at sidewalks, roadway design practices, slope, and terrain raise valid questions on how and to what extent access can be achieved. Access for blind pedestrians at street crossings and wheelchair access to on-street parking are typical of the issues for which additional guidance is needed. In addition, new trends in roadway design, such as the growing use of traffic roundabouts, pose additional challenges to access, while various technological innovations, particularly those pertaining to pedestrian signaling devices, offer new solutions.
