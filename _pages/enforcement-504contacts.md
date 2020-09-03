@@ -6,8 +6,8 @@ permalink: /enforcement/504contacts.html
 ---
 # {{ page.title }}
 
-* [Agency for International Development](#aid)
-* [Broadcasting Board of Governors](#bbg)
+* [Agency for International Development](#usaid)
+* [Broadcasting Board of Governors](#usagm)
 * [Corporation for National Service](#cns)
 * [U.S. Department of Agriculture](#usda)
 * [Department of Commerce](#doc)
@@ -44,7 +44,7 @@ permalink: /enforcement/504contacts.html
 
 * * * * *
 
-{#aid} Ms. Rose Trujillo-Miller  
+<a name="usaid /> Ms. Rose Trujillo-Miller  
 Affirmative Employment Chief  
 Office of Equal Opportunity Programs  
 Agency for International Development  
@@ -56,7 +56,7 @@ Washington, DC  20523
 
 * * * * *
 
-{#bbg} Ms. Delia L. Johnson  
+<a name="usagm" /> Ms. Delia L. Johnson  
 Director, Office of Civil Rights  
 Broadcasting Board of Governors  
 301 4th Street SW, Room 858  
@@ -66,7 +66,7 @@ Washington, DC  20547
 
 * * * * *
 
-Ms. Nancy Voss, Director  
+<a name="cns" /> Ms. Nancy Voss, Director  
 Office of Equal Opportunity  
 Corporation for National Service  
 1201 New York Avenue NW, Suite 7101  
