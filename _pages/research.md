@@ -45,7 +45,7 @@ For more information about the Board’s research program, contact Dave Yanchuli
 -   [Accessible Exterior Surfaces]({{ site.baseurl }}/research/exterior-surfaces/accessible-exterior-surfaces/) (1999)
 -   [Development of Surface Roughness Standards for Pathways Used by Wheelchair Users:  Final Report]({{ site.baseurl }}/research/exterior-surfaces/surface-roughness-standards/) (2014)
 -   [Engineered Wood Fiber - Play Surfaces]({{ site.baseurl }}/research/exterior-services/engineered-wood-fiber/playground-surfaces-2003/) (2003)
-    -   [Play Surfaces: Installation and Serviceability Results](https://www.access-board.gov/research/completed-research/stabilized-engineered-wood-fiber) (2004)
+    -   [Play Surfaces: Installation and Serviceability Results]({{ site.baseurl }}/research/exterior-services/engineered-wood-fiber/playground-surfaces-2004/) (2004)
     -   [Accessible Trails: Installation and Serviceability Results]({{ site.baseurl }}/research/exterior-services/engineered-wood-fiber/trails/) (2006)
 -   [A Longitudinal Study of Playground Surfaces to Evaluate Accessibility](http://nca.eppley.org/a-longitudinal-study-of-playground-surfaces-to-evaluate-accessibility/) (2013) National Center on Accessibility
 -   [National Trail Surfaces Study: Final Report](http://nca.eppley.org/national-trail-surfaces-study/) (2014) National Center on Accessibility
@@ -68,6 +68,6 @@ For more information about the Board’s research program, contact Dave Yanchuli
 
 -   [Common Problems Arising in the Installation of Accessible Pedestrian Signals]({{ site.baseurl }}research/prow/common-problems-aps-installation/) (2009)
 -   [Interfacing Audible Pedestrian Signals and Traffic Signal Controllers]({{ site.baseurl }}/research/prow/interfacing-aps/) (2003)
--   [Pedestrian Access to Modern Roundabouts](https://www.access-board.gov/research/completed-research/pedestrian-access-to-modern-roundabouts) (2001)
--   [Synthesis of Literature Relevant to Roundabout Signalization to Provide Pedestrian Access](https://www.access-board.gov/research/completed-research/synthesis-of-literature-on-roundabout-signalization) (2007)
--   [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments](https://www.access-board.gov/research/completed-research/visual-detection-of-detectable-warning-materials) (2006)
+-   [Pedestrian Access to Modern Roundabouts]({{ site.baseurl }}/research/prow/roundabouts/) (2001)
+-   [Synthesis of Literature Relevant to Roundabout Signalization to Provide Pedestrian Access]({{ site.baseurl }}/research/prow/literature-roundabout-signalization/) (2007)
+-   [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments]({{ site.baseurl }}/research/prow/visual-detection-detectable-warning/) (2006)

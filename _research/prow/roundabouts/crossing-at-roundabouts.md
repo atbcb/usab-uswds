@@ -9,7 +9,7 @@ topic: Public Rights-of-Way
 
 Orientation and mobility techniques used by blind individuals at traditional intersections rely heavily on traffic sounds. When traffic signals and stop signs regulate traffic movements at intersections, the resulting breaks in traffic flow provide identifiable and predictable periods -- gaps -- during which pedestrians can cross. Such predictable breaks do not usually occur at roundabouts, and so pedestrians must make judgments about the speed and travel paths of approaching vehicles (and the duration of gaps between vehicles). It appears that sighted adults are generally able to safely make such judgments, although some pedestrians (e.g., those with cognitive impairments, children -- see Figure 3) may have difficulty doing so. Research suggests that the selection of appropriate gaps at roundabouts is problematic for blind pedestrians at some roundabouts.
 
-![Figure 3  Pedestrian with cognitive disability crossing in roadway](https://www.access-board.gov/images/research/modern-rooundabouts/fig3.jpg)
+![Figure 3  Pedestrian with cognitive disability crossing in roadway]({{ site.baseurl }}/images/research/prow/roundabouts/fig3.jpg)
 
 **Figure 3  Pedestrian with cognitive disability crossing in roadway**
 
@@ -19,11 +19,11 @@ At entry legs, it may not be clear from auditory information whether a driver in
 
 While research has shown that driver- yielding rates increase at low speeds, many drivers do not yield to blind pedestrians at crosswalks (see Figure 4) and yielding behavior may be difficult to detect.
 
-| **![Figure 4. Driver fails to yield to pedestrian using long cane](https://www.access-board.gov/images/research/modern-rooundabouts/fig4.jpg)** |
+| **![Figure 4. Driver fails to yield to pedestrian using long cane]({{ site.baseurl }}/images/research/prow/roundabouts/fig4.jpg)** |
 | **Figure 4. Driver fails to yield to pedestrian using long cane** |
 |
 
-![Figure 5. Planter used to indicate crosswalk location](https://www.access-board.gov/images/research/modern-rooundabouts/fig5.jpg)
+![Figure 5. Planter used to indicate crosswalk location]({{ site.baseurl }}/images/research/prow/roundabouts/fig5.jpg)
 
  |
 |
@@ -40,7 +40,7 @@ Another challenge is aligning the body with the crosswalk prior to crossing (see
 
 |
 
-**![Figure 6. Crosswalk not aligned with approach](https://www.access-board.gov/images/research/modern-rooundabouts/fig6.jpg)**
+**![Figure 6. Crosswalk not aligned with approach]({{ site.baseurl }}/images/research/prow/roundabouts/fig6.jpg)**
 
  |
 |

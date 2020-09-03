@@ -10,7 +10,7 @@ permalink: /research/prow/roundabouts/
 
 August 2001
 
-![Figure 1. Chief Okemos Roundabout (Okemos, Michigan)](https://www.access-board.gov/images/research/modern-rooundabouts/fig1.jpg)
+![Figure 1. Chief Okemos Roundabout (Okemos, Michigan)]({{ site.baseurl }}/images/research/prow/roundabouts/fig1.jpg)
 
 Figure 1. Chief Okemos Roundabout (Okemos, Michigan)\
 *Photo courtesy of Dave Sonnenberg, Director of Traffic and Safety,\
@@ -28,7 +28,7 @@ There are an estimated 40,000 modern roundabouts worldwide, and more than 200 ha
 
 A typical modern roundabout (Figures 1 and 2) is an unsignalized intersection with a circular central island and a circulatory roadway around the island. Vehicles entering the roundabout yield to vehicles already on the circulatory roadway. A dashed yield line for vehicles is painted at the outside edge of the circulating roadway at each entering street. The dashed line defines the boundary of the circulatory roadway (not to be confused with a conventional 'stop bar,' since there is not requirement to stop prior to entering the roundabout).
 
-![Figure 2. Typical urban double-lane roundabout in plan view](https://www.access-board.gov/images/research/modern-rooundabouts/fig2.jpg)
+![Figure 2. Typical urban double-lane roundabout in plan view]({{ site.baseurl }}/images/research/prow/roundabouts/fig2.jpg)
 
 Figure 2. Typical urban double-lane roundabout\
 from *Roundabouts: An Informational Guide* *(FHWA)*
