@@ -1,10 +1,11 @@
 ---
-title: Dimensional Tolerances in Construction and for Surface Accessibility
+title: Final Report
 order-number: 0
 research-title: Dimensional Tolerances in Construction and for Surface Accessibility
 status: completed
 year-completed: 2011
-topic: building and elements
+topic: Building Elements and Spaces
+permalink: research/dimensional-tolerances/
 ---
 
 ### Introduction
@@ -46,20 +47,20 @@ In order to eliminate uncertainty in compliance with accessibility standards, th
 
 Throughout the course of the project representatives from various trade organizations that represent the following materials that may be used for exterior surfaces were invited and encouraged to participate to develop industry standard tolerances, installation methods, and measurement protocols unique to the individual materials their organizations represent.
 
--   Asphalt
--   Brick
--   Concrete (poured)
--   Concrete pavers
--   Metal (solid and grating)
--   Stone
--   Tile
--   Wood (dimensional lumber and panel surfaces)
+- Asphalt
+- Brick
+- Concrete (poured)
+- Concrete pavers
+- Metal (solid and grating)
+- Stone
+- Tile
+- Wood (dimensional lumber and panel surfaces)
 
 In addition, the following professional organizations and private companies were invited to participate to develop best practices for design and construction.
 
--   American Institute of Architects
--   Construction Specifications Institute
--   Master specification writing companies
+- American Institute of Architects
+- Construction Specifications Institute
+- Master specification writing companies
 
 Other interested parties were also involved in the project including contractors, building owners and managers, a landscape architect, a rehabilitation researcher, and representatives from the U.S. Army Corps of Engineers, the National Institute of Standards and Technology, and the National Institute of Building Sciences.
 
@@ -116,36 +117,36 @@ In the process of assisting the various organizations that represent surface mat
 > *Design issues:\
 > *
 >
-> -   Existing industry tolerances
-> -   Units of measure
-> -   Measurement instruments
-> -   Accuracy of instruments/measurement uncertainty
-> -   Use of significant figures
-> -   Metric conversions or dual unit standards
-> -   Measurement of dimensions that involve two or more trades/materials
+> - Existing industry tolerances
+> - Units of measure
+> - Measurement instruments
+> - Accuracy of instruments/measurement uncertainty
+> - Use of significant figures
+> - Metric conversions or dual unit standards
+> - Measurement of dimensions that involve two or more trades/materials
 >
 > *Construction issues:*
 >
-> -   How/where to take measurements/precision of measurement
-> -   Accuracy of construction/tolerances for individual materials
-> -   Cost/time implications
-> -   Influence of accepted local practices for construction
-> -   Inspection/measurement protocols
-> -   Effects of weather, such as curing and freeze - and - thaw on outdoor surfaces
-> -   Maintenance/durability of surfaces
-> -   Workforce training
+> - How/where to take measurements/precision of measurement
+> - Accuracy of construction/tolerances for individual materials
+> - Cost/time implications
+> - Influence of accepted local practices for construction
+> - Inspection/measurement protocols
+> - Effects of weather, such as curing and freeze - and - thaw on outdoor surfaces
+> - Maintenance/durability of surfaces
+> - Workforce training
 >
 > *Usability issues:\
 > *
 >
-> -   Planarity
-> -   Maneuverability
-> -   Rollability/rolling resistance
-> -   Jointed surfaces/vibration
-> -   Cross slope
-> -   Gaps
-> -   Flatness lippage
-> -   Slip resistance
+> - Planarity
+> - Maneuverability
+> - Rollability/rolling resistance
+> - Jointed surfaces/vibration
+> - Cross slope
+> - Gaps
+> - Flatness lippage
+> - Slip resistance
 
 In the end, most of these issues were not considered by the trade and material organizations that participated in this study or reference was simply made back to the ADA/ABA Guidelines. This may be due the time and effort required to consider them all or to the reluctance of an organization to commit to the development of standards that could have legal consequences.
 
@@ -153,10 +154,7 @@ In the end, most of these issues were not considered by the trade and material o
 ---
 
 
-[Print](https://www.access-board.gov/research/completed-research/dimensional-tolerances/part-ii#)
-
-Part II
--------
+### Part II
 
 **Suggested best practices for architects and other design professionals**
 
@@ -218,13 +216,13 @@ If specific tolerances or requirements are not stated in the specifications (or 
 *Current practice*\
 Nearly all architects use the 3 - part format, developed by the Construction Specifications Institute, for writing individual specification sections. The 3 - part format has places to include all requirements related to tolerances and measurement protocols. One or more of them should be used as needed to describe the requirements of a project. These include the following.
 
--   References to industry standards: Part 1, References
--   Required test reports (third - party verification) and similar documents: Part 1, Submittals
--   Mockup requirements: Part 1, Quality assurance
--   Regulatory requirements and pre - installation meetings: Part 1, Quality assurance
--   Shop fabrication of elements: Part 2, Fabrication tolerances
--   Special techniques and interface with other work: Part 3, Construction requirements
--   Final, installed tolerances: Part 3, Site tolerances
+- References to industry standards: Part 1, References
+- Required test reports (third - party verification) and similar documents: Part 1, Submittals
+- Mockup requirements: Part 1, Quality assurance
+- Regulatory requirements and pre - installation meetings: Part 1, Quality assurance
+- Shop fabrication of elements: Part 2, Fabrication tolerances
+- Special techniques and interface with other work: Part 3, Construction requirements
+- Final, installed tolerances: Part 3, Site tolerances
 
 Many manufacturers and trade groups have guide specifications that include their product's tolerances. In addition, master specifications, such as SPECTEXTÂ® and MasterSpecÂ® include tolerances in many of their sections.
 
@@ -272,11 +270,11 @@ Construction observation is the final step in building an accessible element to 
 
 Current standards for ramps, sidewalks, and intersections and other concrete tolerances are given in ACI 117, Specification for Tolerances for Concrete Construction and materials and Commentary. The following tolerances may be applicable for exterior accessible surfaces. Other tolerances and measurement protocols are given using various methods but these are for interior surfaces.
 
--   For exterior ramps, sidewalks, and intersections, in any direction, the gap below a 10 - foot unleveled straightedge resting on highspots shall not exceed +1/4 inch (6 mm).
--   The tolerance for the top surface of a slab - on - ground is Â± 3/4 inch (19 mm).
--   The deviation from slope or plane of formed surfaces over 10 feet (3 m) is Â± 0.3% of length. This is approximately 3/8 inch in 10 feet (10 mm in 3 m). However, the ACI standards do not permit interpolation or extrapolation for dimension greater than or less than 10 feet.
--   The tolerance for deviation from slope or plane for a stair tread from the back to the nosing is Â± Â¼ in (6 mm).
--   The difference in the height of adjacent risers of stairs measured at the nosing shall not exceed 3/16 inch (5 mm).
+- For exterior ramps, sidewalks, and intersections, in any direction, the gap below a 10 - foot unleveled straightedge resting on highspots shall not exceed +1/4 inch (6 mm).
+- The tolerance for the top surface of a slab - on - ground is Â± 3/4 inch (19 mm).
+- The deviation from slope or plane of formed surfaces over 10 feet (3 m) is Â± 0.3% of length. This is approximately 3/8 inch in 10 feet (10 mm in 3 m). However, the ACI standards do not permit interpolation or extrapolation for dimension greater than or less than 10 feet.
+- The tolerance for deviation from slope or plane for a stair tread from the back to the nosing is Â± Â¼ in (6 mm).
+- The difference in the height of adjacent risers of stairs measured at the nosing shall not exceed 3/16 inch (5 mm).
 
 If a more detailed method of specifying tolerances and measurement protocols are required the following are suggested. These suggestions are detailed enough to provide information necessary to determine if the surface is suitable for the majority of disabled users but simple enough to allow workers of various skill levels using basic tools to complete the necessary measurements for installations of all sizes.
 
@@ -311,18 +309,18 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > This method of measurement is consistent with the tolerance requirements of ACI 117 and can check for localized flatness. However, this section defines where the measurements should be taken.
 >
-> ![Figure 1: Non-ramp pedestrian path flatness measurement for running slope (paths up to an including 6 ft wide and paths over 6 feet wide](https://www.access-board.gov/images/research/tolerances/fig1.jpg)
+> ![Figure 1: Non-ramp pedestrian path flatness measurement for running slope (paths up to an including 6 ft wide and paths over 6 feet wide]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig1.jpg)
 >
 > **1.1.6 Flatness of walk cross slope.** For walks and other pedestrian paths, measure flatness of the cross slope by placing a 24 - in. (600 mm) digital inclinometer perpendicular to the line of travel at 10 ft (3 m) intervals with not less than two measurements. Measure along two paths, each with the end of the digital inclinometer 1 ft (300 mm) from the edge of the path and placed toward the middle of the path. See Fig. 2. If the path is less than 6 ft (1.8 m) wide the ends of the measurement will overlap at each interval.
 >
 > This method of measurement is based on the assumption that most accessible exterior walks will be at least 60 in. (1525 mm) wide due to passing requirements and that users will tend to stay toward one side or the other when traveling, approximately 1 ft (300 mm) from the edge. This method will reveal problematic variations in cross slope even though the overall cross slope may meet the 1:48 (2%) limitation.
 >
-> ![Figure 2 Non-ramp pedestrian path flatness measurement of cross slope](https://www.access-board.gov/images/research/tolerances/fig2.jpg)
+> ![Figure 2 Non-ramp pedestrian path flatness measurement of cross slope]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig2.jpg)
 >
 >\
 > **1.1.7 Measurement of parking areas.** Only accessible access aisles and passenger loading zones that are part of a larger parking area need to be measured. These areas should be considered as a pedestrian walk with a minimum width of 60 in. and a length of approximately 20 ft and with an ADA/ABA - AG maximum slope of 1:48 in both directions. Overall running slope (in the long dimension) and cross slope (in the short direction) should be measured according to Section 1.1.3 and 1.1.4. This means that the overall slope in the long dimension should be measured along the center of the aisle or zone using the ends of the area as elevation measuring points and cross slope should be measured at each end of the area and at the midpoint of the area. See Fig. 3.
 >
-> ![Figure 3 Parking access aisles and passenger loading zone measurement](https://www.access-board.gov/images/research/tolerances/fig3.jpg)\
+> ![Figure 3 Parking access aisles and passenger loading zone measurement]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig3.jpg)\
 > **1.1.8 Alternate measurement tools. **Walks may be measured with instruments other than a digital inclinometer if they provide the data required for evaluation of tolerances as given in Sections 1.2.1, 1.2.2, and 1.2.3. If the F - number system is used pedestrian paths should have a minimum FF of 25. Running slope should be measured along the same lines of measurements as given in Section 1.1.3.
 >
 > Although the F - number system can be used to measure surface flatness for smooth surfaces it requires expensive equipment and workers trained to do the measurement.
@@ -343,7 +341,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > **1.1.13 Flatness of ramp running slope.** Measure flatness in the running slope of ramps at 12 - in. (300 mm) increments by using successive, overlapping 24 - in. (600 mm) lengths using a 24 - in. digital inclinometer. For each measurement lay the instrument such that it reads the steepest slope or spans between two high points. See Fig. 4. Alternately, measurement can be made by using a digital inclinometer mounted on a 12 - in. (300 mm) beam or similar instrument with accuracy as stated in 1.1.1. Measuring 12 - in. (300 mm) lengths can account for local variations in slope that may be difficult for a person in a wheelchair or using other mobility aids to use.
 >
-> ![Figure 4 Measuring local ramp slope](https://www.access-board.gov/images/research/tolerances/fig4.jpg)
+> ![Figure 4 Measuring local ramp slope]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig4.jpg)
 >
 > Measuring one - foot (300 mm) lengths allows for a reasonable check on local variation that can be accomplished easily and inexpensively with a 2 - ft digital inclinometer or other available instruments.
 >
@@ -351,7 +349,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > For ramps over 5 ft (1525 mm) in width between handrails measure along an additional line for each additional 36 in. (915 mm) of width or fraction thereof beyond 5 ft (1525 mm). The additional line or lines should be spaced equidistant between the two outside measurement lines. See Fig. 5(b).
 >
-> ![Figure 5 Ramp flatness measurement for running slope - ramps up to and including 5 feet wide and ramps over 5 feet wide](https://www.access-board.gov/images/research/tolerances/fig5.jpg)
+> ![Figure 5 Ramp flatness measurement for running slope - ramps up to and including 5 feet wide and ramps over 5 feet wide]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig5.jpg)
 >
 >\
 > Measurement at 6 inches from the handrail or edge of curb ramps is approximately where the inside wheel of a wheelchair would be if the handrail is being used.
@@ -366,7 +364,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > As the ramp gets wider, users may tend to travel toward one side or the other, especially if the ramp is not a curb ramp and has handrails.
 >
-> ![Figure 6 Ramp flatness measurement for cross slope for ramps up to and including 5 feet wide and ramps over 5 feet wide](https://www.access-board.gov/images/research/tolerances/fig6.jpg)\
+> ![Figure 6 Ramp flatness measurement for cross slope for ramps up to and including 5 feet wide and ramps over 5 feet wide]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig6.jpg)\
 > **1.1.15 Flatness of ramp landings. **Measure ramp landings at the midpoints of each landing in each direction using a 24 - in (600 mm) digital inclinometer. Edges of the ramp landing should coincide with the cross slope measurements as described in Section 1.1.12.
 >
 > **1.1.16 Alternate measurement tools**. Ramps may be measured with instruments other than a digital inclinometer if they provide the data required for evaluation of tolerances as given in Sections 1.2.5, 1.2.6, and 1.2.7. If the F - number system is used ramps should have a minimum FF of 25. Measure running slope along the same lines of measurements as stated in Section 1.1.13
@@ -414,11 +412,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 ---
 
 
-### PART III
-[Print](https://www.access-board.gov/research/completed-research/dimensional-tolerances/part-iii-appendices#)
-
-Part III: Appendices
---------------------
+### PART III: Appendices
 
 **Industry tolerances developed as part of this project**
 
@@ -440,201 +434,178 @@ The following is an excerpt from the 2009 TCA Handbook, published by the Tile Co
 > In addition to taking measures to ensure a flat substrate, designers should consult with the tile manufacturer to discuss grout joint size and tile and pattern selections that will minimize issues relating to flatness and lippage.\
 The following are the tolerances published by the Interlocking Concrete Pavement Institute as a result of this project.
 
-> > > **Interlocking Concrete Pavement Institute\
-> > > Construction Tolerances for Segmental Concrete Pavements**\
-> > > This guideline applies to construction of interlocking concrete pavements (concrete pavers), permeable\
-> > > interlocking concrete pavements (Plep), and precast concrete paving slabs.
-
-|
-
-Setting Bed Materials
-
- |
-
-Joint Widths
-
- |
-
-Construction Tolerances
-
- |
-|
-
-Sand setting beds for concrete pavers and paving slabs
-
- |
-
-Joint width between adjacent units\
-(See Figure I)
-
- |
-
-1/16 in. (2 mm) to 3/16 in. (5 mm)
-
- |
-|
-
-Bituminous setting beds for concrete pavers and paving slabs
-
- |
-
-Joint width between adjacent units\
-(See Figure I)
-
- |
-
-1/16 in. (2 mm) to 3/16 in. (5 mm)
-
- |
-|
-
-Mortar setting beds for concrete pavers and paving slabs
-
- |
-
-Joint width between paving units with no chamfers (See Figure 1)
-
- |
-
-Maximum 3/8 in. (10 rom) - Joints betweenindividual paver units shall be mortared flush with adjacent pavers.
-
- |
-|
-
-Mortar setting bedsfor concrete pavers and paving slabs
-
- |
-
-Joint width between paving units with chamfers (See Figure I)
-
- |
-
-Maximum 3/8 in. (10 rom) - The surface of the mortared joint meets the bottom of the chamfers between adjacent pavers.
-
- |
-|
-
-Open - graded aggregates for PICP
-
- |
-
-Joint width between paving units (See Figure 1)
-
- |
-
-oto +3/16 in. (5 mm) of the paver manufacturer's recoromendedjoint width dimension
-
- |
-|
-
-Pedestals for supporting precast concrete paving slabs (ie., 12 x 12 in.(300 x 300 mm) and larger length x width)
-
- |
-
-Joint width between paving slabs resting on pedestals (See Figure I)
-
- |
-
-oto+1/8 in. (3 rom) of paving slab manufacturer's recommended joint width dimension for pedestal setting materials
-
- |
-|  |
-|
-
-Attribute
-
- |
-
-Segmental Concrete Paving Products & Cbaracteristics
-
- |
-
-Construction Placement & Surface Tolerances
-
- |
-|
-
-Joint or bond lines
-
- |
-
-All segmental concrete paving products: Horizontal deviation
-
- |
-
-Maximum Â±1/2 in. (15 mm) horizontal deviation from either side of a 50 ft (15 m) string line ]lUlled over a ioint or bond line
-
- |
-|
-
-Laying Pattern
-
- |
-
-Laying pattern concrete pavers and PICP: Laying pattern ..\
-Concrete paving slabs: Laying pattern ..
-
- |\
-..90 degree herringbone\
-..Stack bond or runningbond
-
- |
-|
-
-Slope in direction of travel
-
- |
-
-All segmental concrete paving\
-products: Maximum 7.83 percent
-
- |
-
-+0.5 percent, no requirement for minus
-
- |
-|
-
-Slope perpendicular to direction of travel
-
- |
-
-All segmental concrete paving\
-products: Maximum 2.0 percent
-
- |
-
-+0.5 percent, no requirement for minus
-
- |
-|
-
-Surface smoothness
-
- |
-
-All segmental concrete paving products: Variation in height between adiacent units (lippage)
-
- |
-
-Maximum 1/8 in. (3 mm)
-
- |
-|
-
-Surface flatness
-
- |
-
-All segmental concrete paving products: Surface tolerance
-
- |
-
-Â±3/8 in. (10 mm) over 10 ft (3 m), noncumulative
-
- |
-
-![Figure 1 Concrete paving unit cross section defining joint width](https://www.access-board.gov/images/research/tolerances/fig1-appendix.jpg)
+#### Interlocking Concrete Pavement Institute: Construction Tolerances for Segmental Concrete Pavements
+>This guideline applies to construction of interlocking concrete pavements (concrete pavers), permeable interlocking concrete pavements (Plep), and precast concrete paving slabs.
+
+
+
+<table style="width: 500px;" border="1" cellspacing="0" cellpadding="0" align="center">
+	<tbody>
+		<tr>
+			<th width="267">
+				<p align="center">Setting Bed Materials</p>
+			</th>
+			<th width="257">
+				<p align="center">Joint Widths</p>
+			</th>
+			<th width="298">
+				<p align="center">Construction Tolerances</p>
+			</th>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<p>Sand setting beds for concrete pavers and paving slabs</p>
+			</td>
+			<td align="left" valign="top">
+				<p>Joint width between adjacent units<br> (See Figure I)</p>
+			</td>
+			<td align="left" valign="top">
+				<p>1/16 in. (2 mm) to 3/16 in. (5 mm)</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<p>Bituminous setting beds for concrete pavers and paving slabs</p>
+			</td>
+			<td align="left" valign="top">
+				<p>Joint width between adjacent units<br> (See Figure I)</p>
+			</td>
+			<td align="left" valign="top">
+				<p>1/16 in. (2 mm) to 3/16 in. (5 mm)</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<p>Mortar setting beds for concrete pavers and paving slabs</p>
+			</td>
+			<td align="left" valign="top">
+				<p>Joint width between paving units with no chamfers (See Figure 1)</p>
+			</td>
+			<td align="left" valign="top">
+				<p>Maximum 3/8 in. (10 rom) - Joints betweenindividual paver units shall be mortared flush with adjacent pavers.</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<p>Mortar setting bedsfor concrete pavers and paving slabs</p>
+			</td>
+			<td align="left" valign="top">
+				<p>Joint width between paving units with chamfers (See Figure I)</p>
+			</td>
+			<td align="left" valign="top">
+				<p>Maximum 3/8 in. (10 rom) - The surface of the mortared joint meets the bottom of the chamfers between adjacent pavers.</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<p>Open - graded aggregates for PICP</p>
+			</td>
+			<td align="left" valign="top">
+				<p>Joint width between paving units (See Figure 1)</p>
+			</td>
+			<td align="left" valign="top">
+				<p>oto +3/16 in. (5 mm) of the paver manufacturer's recoromendedjoint width dimension</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<p>Pedestals for supporting precast concrete paving slabs (ie., 12 x 12 in.(300 x 300 mm) and larger length x width)</p>
+			</td>
+			<td align="left" valign="top">
+				<p>Joint width between paving slabs resting on pedestals (See Figure I)</p>
+			</td>
+			<td align="left" valign="top">
+				<p>oto+1/8 in. (3 rom) of paving slab manufacturer's recommended joint width dimension for pedestal setting materials</p>
+			</td>
+		</tr>
+		<tr>
+			<td colspan="3" align="left" valign="top" bgcolor="#D6D6D6">
+				<p>&nbsp;</p>
+			</td>
+		</tr>
+		<tr>
+			<th align="left" valign="top">
+				<p align="center">Attribute</p>
+			</th>
+			<th align="left" valign="top">
+				<p align="center">Segmental Concrete Paving Products &amp; Cbaracteristics</p>
+			</th>
+			<th align="left" valign="top">
+				<p align="center">Construction Placement &amp; Surface Tolerances</p>
+			</th>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<p>Joint or bond lines</p>
+			</td>
+			<td align="left" valign="top">
+				<p>All segmental concrete paving products: Horizontal deviation</p>
+			</td>
+			<td align="left" valign="top">
+				<p>Maximum Â±1/2 in. (15 mm) horizontal deviation from either side of a 50 ft (15 m) string line ]lUlled over a ioint or bond line</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<p>Laying Pattern</p>
+			</td>
+			<td align="left" valign="top">
+				<p>Laying pattern concrete pavers and PICP: Laying pattern .. <br>Concrete paving slabs: Laying pattern ..</p>
+			</td>
+			<td align="left" valign="top">
+				<p><br> ..90 degree herringbone <br>..Stack bond or runningbond</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<p>Slope in direction of travel</p>
+			</td>
+			<td align="left" valign="top">
+				<p>All segmental concrete paving<br> products: Maximum 7.83 percent</p>
+			</td>
+			<td align="left" valign="top">
+				<p>+0.5 percent, no requirement for minus</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<p>Slope perpendicular to direction of travel</p>
+			</td>
+			<td align="left" valign="top">
+				<p>All segmental concrete paving<br> products: Maximum 2.0 percent</p>
+			</td>
+			<td align="left" valign="top">
+				<p>+0.5 percent, no requirement for minus</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<p>Surface smoothness</p>
+			</td>
+			<td align="left" valign="top">
+				<p>All segmental concrete paving products: Variation in height between adiacent units (lippage)</p>
+			</td>
+			<td align="left" valign="top">
+				<p>Maximum 1/8 in. (3 mm)</p>
+			</td>
+		</tr>
+		<tr>
+			<td align="left" valign="top">
+				<p>Surface flatness</p>
+			</td>
+			<td align="left" valign="top">
+				<p>All segmental concrete paving products: Surface tolerance</p>
+			</td>
+			<td align="left" valign="top">
+				<p>Â±3/8 in. (10 mm) over 10 ft (3 m), noncumulative</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+
+
+![Figure 1 Concrete paving unit cross section defining joint width]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig1-appendix.jpg)
 
 **Compilation of Instruments and Measurement Methods for Surface Accessibility**
 
@@ -652,65 +623,66 @@ The Precast Concrete Institute recommends that the precision of the measuring te
 
 The National Institute of Standards and Technology publishes tolerances for metal tapes in its Handbook 44, Section 5.52.
 
-|
 
-Maintenance and Acceptance Tolerances, in Excess and in Deficiency, for Metal Tapes
 
- |
-|
+<table style="width: 424px;" border="1" cellspacing="0" cellpadding="0" align="center">
+	<tbody>
+		<tr>
+			<th colspan="2">
+				<p>Maintenance and Acceptance Tolerances, in Excess and in Deficiency, for Metal Tapes</p>
+			</th>
+		</tr>
+		<tr>
+			<td width="211">
+				<p align="center">Nominal interval from zero, ft</p>
+			</td>
+			<td width="207">
+				<p align="center">Tolerance, in</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p align="center">6 or less</p>
+			</td>
+			<td>
+				<p align="center">1/32</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p align="center">7 to 30, inclusive</p>
+			</td>
+			<td>
+				<p align="center">1/16</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p align="center">31 to 55, inclusive</p>
+			</td>
+			<td>
+				<p align="center">1/8</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p align="center">56 to 80, inclusive</p>
+			</td>
+			<td>
+				<p align="center">3/16</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p align="center">81 to 100, inclusive</p>
+			</td>
+			<td>
+				<p align="center">1/4</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-Nominal interval from zero, ft
-
- |
-
-Tolerance, in
-
- |
-|
-
-6 or less
-
- |
-
-1/32
-
- |
-|
-
-7 to 30, inclusive
-
- |
-
-1/16
-
- |
-|
-
-31 to 55, inclusive
-
- |
-
-1/8
-
- |
-|
-
-56 to 80, inclusive
-
- |
-
-3/16
-
- |
-|
-
-81 to 100, inclusive
-
- |
-
-1/4
-
- |
 
 From NIST Handbook 44, Section 5.52, p. 5 - 12.\
 [http://ts.nist.gov/WeightsAndMeasures/h44 - 07.cfm](http://ts.nist.gov/WeightsAndMeasures/h44-07.cfm).
@@ -756,60 +728,60 @@ There are several methods given in ASTM E 1155 that can be used to measure a flo
 
 Although direct equivalents are not appropriate, an FF of 25 approximately correlates to a Â¼ inch variation under an unleveled 10 - ft straightedge. An FF of 50 approximately correlates to a 1/8 - inch variation under a 10 - ft straightedge. Other approximate correlations are shown in the following table.
 
-|
 
-F - number
+<tbody>
+		<tr>
+			<th width="211">
+				<p align="center">F - number</p>
+			</th>
+			<th width="207">
+				<p align="center">Gap under an unleveled 10 - ft straightedge, in (mm)</p>
+			</th>
+		</tr>
+		<tr>
+			<td>
+				<p align="center">FF 12</p>
+			</td>
+			<td>
+				<p align="center">1/2 in (13)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p align="center">FF 20</p>
+			</td>
+			<td>
+				<p align="center">5/16 in (8)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p align="center">FF 25</p>
+			</td>
+			<td>
+				<p align="center">1/4 in (6)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p align="center">FF 32</p>
+			</td>
+			<td>
+				<p align="center">3/16 in (4.8)</p>
+			</td>
+		</tr>
+		<tr>
+			<td>
+				<p align="center">FF 50</p>
+			</td>
+			<td>
+				<p align="center">1/8 in (3)</p>
+			</td>
+		</tr>
+	</tbody>
 
- |
 
-Gap under an unleveled 10 - ft straightedge, in (mm)
 
- |
-|
-
-FF 12
-
- |
-
-1/2 in (13)
-
- |
-|
-
-FF 20
-
- |
-
-5/16 in (8)
-
- |
-|
-
-FF 25
-
- |
-
-1/4 in (6)
-
- |
-|
-
-FF 32
-
- |
-
-3/16 in (4.8)
-
- |
-|
-
-FF 50
-
- |
-
-1/8 in (3)
-
- |
 
 Concerning issues of vibration and rollability, the F - number system is probably a better measure than the straightedge because it takes into account local variations of flatness. Although it was developed to measure level floors, it can be used measure sloped floors.
 
@@ -849,45 +821,45 @@ For transverse lines, measurements were to be taken in minimum 2 - foot lengths 
 
 > **Industry Standards**
 
--   ACI 117 - 2006 Standard Specifications for Tolerances for Concrete Construction and Materials
--   ASTM E 380 Standard Practice for the Use of the International System of Units (SI); The Modernized Metric System.
--   ASTM E 621 - 94 (1999)e1 Standard Practice for the Use of Metric (SI) Units in Building Design and Construction
--   ASTM E 1155 - 96 (2001) Standard Test Method for Determining FF Floor Flatness and FL Floor Levelness Numbers
--   ASTM E 1486 - 98 (2004) Standard Test Method for Determining Floor Tolerances Using Waviness, Wheel Path and Levelness Criteria
--   ASTM E 1486M - 98 (2004) Standard Test Method for Determining Floor Tolerances Using Waviness, Wheel Path and Levelness Criteria (Metric)
--   ASTM F 802 - 83(2003) Standard Guide for Selection of Certain Walkway Surfaces when Considering Footwear Traction
--   ASTM F 1637 - 02 Standard Practice for Safe Walking Surfaces
--   ASTM F 1951 - 99 Wheelchair Work Measurement Method
--   ASTM PS 83 - 97/F 1951 Standard on Playground Surface Accessibility
--   ASTM WK 3539 (Work item) Practice for Reporting Uncertainty of Test Results and Use of the Term Measurement Uncertainty in ASTM Test Methods
--   CSA A23.1 - 04/A23.2 - 04 Concrete Materials and Methods of Concrete Construction/Methods of Test and Standard Practices for Concrete. Canadian Standards Association, Toronto, 2004.
--   CSA A23.1 - 94, Treatment of Slab or Floor Surfaces: Surface Tolerances, Straightedge Method. Canadian Standards Association, Toronto, 1994.
--   ISO 1000:1992 SI units and recommendations for the use of their multiples and of certain other units
--   ISO 1000/Amd1:1998 Amendment to ISO 1000
--   ISO 1803:1997 Building construction - Tolerances - Expression of dimensional accuracy - Principles and terminology
--   ISO 2631 - 1:1997 Mechanical vibration and shock - Evaluation of human exposure to whole - body vibration - Part 1: General requirements
--   ISO 2631 - 2:2003 Mechanical vibration and shock - Evaluation of human exposure to whole - body vibration - Part 2: Vibration in buildings (1 Hz to 80Hz)
--   ISO 2631 - 5:2004 Mechanical vibration and shock - Evaluation of human exposure to whole - body vibration - Part 5: Method for evaluation of vibration containing multiple shocks
--   ISO 3443 - 1 Building construction - Tolerances for building - Part 1: Basic principles for evaluation and specification
--   ISO 3443 - 2 Building construction - Tolerances for building - Part 2: Statistical basis for predicting fit between components having a normal distribution of sizes
--   ISO 3443 - 3 Building construction - Tolerances for building - Part 3: Procedures for selecting target size and predicting fit
--   ISO 3443 - 4 Building construction - Tolerances for building - Part 4: Methods for predicting deviation of assemblies and the distribution of tolerances
--   ISO 3443 - 5:1982 Building construction - Tolerances for building - Part 5: Series of values to be used for specification of tolerances
--   ISO 3443 - 6:1986 Tolerances for building - Part 6: General principles for approval criteria, control of conformity with dimensional tolerance specifications and statistical control - Method 1
--   ISO 3443 - 8:1989 Tolerances for building - Part 8: Dimensional inspection and control of construction work
--   ISO 4463 Measurement methods for buildings - setting out and measurement - permissible measuring deviations
--   ISO 4464 Tolerances for buildings - Relationship between the different types of deviations and tolerances used for specifications
+- ACI 117 - 2006 Standard Specifications for Tolerances for Concrete Construction and Materials
+- ASTM E 380 Standard Practice for the Use of the International System of Units (SI); The Modernized Metric System.
+- ASTM E 621 - 94 (1999)e1 Standard Practice for the Use of Metric (SI) Units in Building Design and Construction
+- ASTM E 1155 - 96 (2001) Standard Test Method for Determining FF Floor Flatness and FL Floor Levelness Numbers
+- ASTM E 1486 - 98 (2004) Standard Test Method for Determining Floor Tolerances Using Waviness, Wheel Path and Levelness Criteria
+- ASTM E 1486M - 98 (2004) Standard Test Method for Determining Floor Tolerances Using Waviness, Wheel Path and Levelness Criteria (Metric)
+- ASTM F 802 - 83(2003) Standard Guide for Selection of Certain Walkway Surfaces when Considering Footwear Traction
+- ASTM F 1637 - 02 Standard Practice for Safe Walking Surfaces
+- ASTM F 1951 - 99 Wheelchair Work Measurement Method
+- ASTM PS 83 - 97/F 1951 Standard on Playground Surface Accessibility
+- ASTM WK 3539 (Work item) Practice for Reporting Uncertainty of Test Results and Use of the Term Measurement Uncertainty in ASTM Test Methods
+- CSA A23.1 - 04/A23.2 - 04 Concrete Materials and Methods of Concrete Construction/Methods of Test and Standard Practices for Concrete. Canadian Standards Association, Toronto, 2004.
+- CSA A23.1 - 94, Treatment of Slab or Floor Surfaces: Surface Tolerances, Straightedge Method. Canadian Standards Association, Toronto, 1994.
+- ISO 1000:1992 SI units and recommendations for the use of their multiples and of certain other units
+- ISO 1000/Amd1:1998 Amendment to ISO 1000
+- ISO 1803:1997 Building construction - Tolerances - Expression of dimensional accuracy - Principles and terminology
+- ISO 2631 - 1:1997 Mechanical vibration and shock - Evaluation of human exposure to whole - body vibration - Part 1: General requirements
+- ISO 2631 - 2:2003 Mechanical vibration and shock - Evaluation of human exposure to whole - body vibration - Part 2: Vibration in buildings (1 Hz to 80Hz)
+- ISO 2631 - 5:2004 Mechanical vibration and shock - Evaluation of human exposure to whole - body vibration - Part 5: Method for evaluation of vibration containing multiple shocks
+- ISO 3443 - 1 Building construction - Tolerances for building - Part 1: Basic principles for evaluation and specification
+- ISO 3443 - 2 Building construction - Tolerances for building - Part 2: Statistical basis for predicting fit between components having a normal distribution of sizes
+- ISO 3443 - 3 Building construction - Tolerances for building - Part 3: Procedures for selecting target size and predicting fit
+- ISO 3443 - 4 Building construction - Tolerances for building - Part 4: Methods for predicting deviation of assemblies and the distribution of tolerances
+- ISO 3443 - 5:1982 Building construction - Tolerances for building - Part 5: Series of values to be used for specification of tolerances
+- ISO 3443 - 6:1986 Tolerances for building - Part 6: General principles for approval criteria, control of conformity with dimensional tolerance specifications and statistical control - Method 1
+- ISO 3443 - 8:1989 Tolerances for building - Part 8: Dimensional inspection and control of construction work
+- ISO 4463 Measurement methods for buildings - setting out and measurement - permissible measuring deviations
+- ISO 4464 Tolerances for buildings - Relationship between the different types of deviations and tolerances used for specifications
 
 > **Other international standards:**
 
--   Australian NATSPEC Reference Volume 1: Building Works, Concrete Finishes Section Three classes of surface finish based on using a straightedge method of testing: Class A has a maximum deviation of 3mm in 3m, Class B has a maximum deviation of 6mm in 3m, and a Class C has a maximum deviation of 6 mm in 600 mm.
--   TR 34 Concrete Industrial Ground Floors - Specification and Control of Surface Regularity of Free Movement Areas, UK Concrete Society (provides for three classes of industrial surfaces based on maximum permissible difference in slope within 300 mm and maximum difference in elevation between points on a 3 m grid. A floor classification FM3 is the most common and requires a maximum difference of 5.0 mm over 600 mm. A floor classification FM2 requires a maximum difference of 3.5 mm over 600 mm.)
--   NZS 3109 Concrete Construction Standard, Standards New Zealand (this standard requires the elevation of a slab to be Â±5 mm of that specified)
--   NZS 3114 Specification for Concrete Surface Finishes, Standards New Zealand (gradual deviations are within 5 mm over a 3 m span for most classes of finish; abrupt changes must be less than 3 mm in 200 mm)
+- Australian NATSPEC Reference Volume 1: Building Works, Concrete Finishes Section Three classes of surface finish based on using a straightedge method of testing: Class A has a maximum deviation of 3mm in 3m, Class B has a maximum deviation of 6mm in 3m, and a Class C has a maximum deviation of 6 mm in 600 mm.
+- TR 34 Concrete Industrial Ground Floors - Specification and Control of Surface Regularity of Free Movement Areas, UK Concrete Society (provides for three classes of industrial surfaces based on maximum permissible difference in slope within 300 mm and maximum difference in elevation between points on a 3 m grid. A floor classification FM3 is the most common and requires a maximum difference of 5.0 mm over 600 mm. A floor classification FM2 requires a maximum difference of 3.5 mm over 600 mm.)
+- NZS 3109 Concrete Construction Standard, Standards New Zealand (this standard requires the elevation of a slab to be Â±5 mm of that specified)
+- NZS 3114 Specification for Concrete Surface Finishes, Standards New Zealand (gradual deviations are within 5 mm over a 3 m span for most classes of finish; abrupt changes must be less than 3 mm in 200 mm)
 
 > **Highway standards suggesting possible applications for pedestrian surfaces:**
 
--   ASTM E 950 - 98(2004) Standard test method for measuring the longitudinal profile of traveled surfaces with an accelerometer established inertial profiling reference
--   ASTM E 1274 - 03 Standard test method for measuring pavement roughness using a profilograph
--   ASTM E 1926 - 98(2003) Standard practice for computing international roughness index (IRI) of roads from longitudinal profile measurements
--   ASTM E 2133 - 03 Standard test method for using a rolling inclinometer to measure longitudinal and transverse profiles of a traveled surface
+- ASTM E 950 - 98(2004) Standard test method for measuring the longitudinal profile of traveled surfaces with an accelerometer established inertial profiling reference
+- ASTM E 1274 - 03 Standard test method for measuring pavement roughness using a profilograph
+- ASTM E 1926 - 98(2003) Standard practice for computing international roughness index (IRI) of roads from longitudinal profile measurements
+- ASTM E 2133 - 03 Standard test method for using a rolling inclinometer to measure longitudinal and transverse profiles of a traveled surface
