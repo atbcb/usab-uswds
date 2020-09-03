@@ -36,12 +36,12 @@ more of the following components:
 #### R302.3 Continuous Width
 Except as provided in R302.3.1 and R302.3.2, the continuous clear width of pedestrian access routes shall be 1.2 m (4.0 ft) minimum, exclusive of the width of the curb.
 
-
-**Figure R302.3 Continuous Width**
-
-![PAR 1.2 m (4 ft) wide minimum shown within width of sidewalk bounded
-by curb
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-3.jpg)
+{% include figure-caption.html
+text= "Figure R302.3 Continuous Width"
+img-file= "302-3.jpg"
+img-alt= "PAR 1.2 m (4 ft) wide minimum shown within width of sidewalk bounded
+by curb"
+%}
 
 {: .advisory}
 **Advisory R302.3 Continuous Width.** The continuous clear width requirements in R302.3 apply to sidewalks and other pedestrian circulation paths, pedestrian street crossings and at-grade rail crossings, and pedestrian overpasses and underpasses and similar structures (see R302.2). Clear width requirements are contained in R304.5.1 for curb ramps and blended transitions, and in R407.4 for ramps. Where sidewalks are wider than 1.2 m (4.0 ft), only a portion of the sidewalk is required to comply with the requirements in R302.3 through R302.7. Additional maneuvering space should be provided at turns or changes in direction, transit stops, recesses and alcoves, building entrances, and along curved or angled routes, particularly where the grade exceeds 5 percent. R210 prohibits street furniture and other objects from reducing the minimum clear width of pedestrian access routes.
@@ -59,11 +59,13 @@ intervals of 61 m (200.0 ft) maximum. Passing spaces shall be 1.5 m (5.0
 ft) minimum by 1.5 m (5.0 ft) minimum. Passing spaces are permitted to
 overlap pedestrian access routes.
 
-**Figure R302.4 Passing Spaces**
-
-![Passing space 1.5 m (5 ft) by 1.5 m (5 ft) min. at 61 m (200 ft) max
+{% include figure-caption.html
+text= "Figure R302.4 Passing Spaces"
+img-file= "302-4.jpg"
+img-alt= "Passing space 1.5 m (5 ft) by 1.5 m (5 ft) min. at 61 m (200 ft) max
 intervals along 1.2 m (4 ft) wide min. pedestrian access
-route](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-4.jpg)
+route"
+%}
 
 #### R302.5 Grade
 The grade of pedestrian access routes shall comply with R302.5.
@@ -138,12 +140,13 @@ discontinuities between 6.4 mm (0.25 in) and 13 mm (0.5 in) shall be
 beveled with a slope not steeper than 50 percent. The bevel shall be
 applied across the entire vertical surface discontinuity.
 
-**Figure R302.7.2 Vertical Surface Discontinuities**
-
-![Vertical surface discontinuity 6.4 mm (1/4 inch) max with straight
+{% include figure-caption.html
+text= "Figure R302.7.2 Vertical Surface Discontinuities"
+img-file= "302-7-2.jpg"
+img-alt= "Vertical surface discontinuity 6.4 mm (1/4 inch) max with straight
 edge and vertical surface discontinuity 6.4 -- 13 mm (1/4 -- 1 /2 inch)
-max with 1:2 beveled
-edge](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-7-2.jpg)
+max with 1:2 beveled edge"
+%}
 
 {: .advisory}
 **Advisory R302.7.2 Vertical Surface Discontinuities.** The allowance for vertical surface discontinuities is for occasional expansion joints and objects such as utility covers, vault frames, and gratings that cannot be located in another portion of the sidewalk outside the pedestrian access route. However, objects such as utility covers, vault frames, and gratings should not be located on curb ramp runs, blended transitions, turning spaces, or gutter areas within the pedestrian access route. This may not always be possible in alterations, but should be avoided wherever possible. Vertical surface discontinuities between unit pavers should be minimized.
@@ -153,23 +156,25 @@ Horizontal openings in gratings and joints shall not permit passage of a sphere 
 diameter. Elongated openings in gratings shall be placed so that the
 long dimension is perpendicular to the dominant direction of travel.
 
-**Figure R302.7.3 Horizontal Openings**
-
-![Elongated openings, such as in a grating, are shown in plan view with
+{% include figure-caption.html
+text= "Figure R302.7.3 Horizontal Openings"
+img-file= "302-7-3.jpg"
+img-alt= "Elongated openings, such as in a grating, are shown in plan view with
 openings 13 mm (1 /2 inch) maximum in one dimension. The other dimension
 is longer (unspecified) and is perpendicular to the dominant direction
-of
-travel.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-7-3.jpg)
+of travel."
+%}
 
 ##### R302.7.4 Flangeway Gaps
 Flangeway gaps at pedestrian at-grade rail crossings shall be 64 mm (2.5 in) maximum on non-freight rail track and
 75 mm (3 in) maximum on freight rail track.
 
-**Figure R302.7.4 Flangeway Gaps**
-
-![Flangeway gaps shown 64 mm (2.5 in) max. (figure a) and 75 mm (3 in)
-max (figure
-b)](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/302-7-4.jpg)
+{% include figure-caption.html
+text= "Figure R302.7.4 Flangeway Gaps"
+img-file= "302-7-4.jpg"
+img-alt= "Flangeway gaps shown 64 mm (2.5 in) max. (figure a) and 75 mm (3 in)
+max (figure b)"
+%}
 
 {: .advisory}
 **Advisory R302.7.4 Flangeway Gaps.** Flangeway gaps are necessary to allow the passage of train wheel flanges. Flangeway gaps pose a potential hazard to pedestrians who use wheelchairs because the gaps can entrap the wheelchair casters.
@@ -206,12 +211,13 @@ turning space shall be 1.2 m (4.0 ft) minimum by 1.5 m (5.0 ft) minimum.
 The 1.5 m (5.0 ft) dimension shall be provided in the direction of the
 ramp run.
 
-**Figure R304.2.1 Turning Space**
-
-![Turning space 1.2 m (4.0 ft) min by 1.2 m (4.0 ft) min at top of curb
+{% include figure-caption.html
+text= "Figure R304.2.1 Turning Space"
+img-file= "304-2-1.jpg"
+img-alt= "Turning space 1.2 m (4.0 ft) min by 1.2 m (4.0 ft) min at top of curb
 ramps or 1.2 m (4.0 ft) wide min by 1.5 m (5.0 ft) long min where space
-is constrained at the back-of-sidewalk
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-2-1.jpg)
+is constrained at the back-of-sidewalk"
+%}
 
 ##### R304.2.2 Running Slope
 The running slope of the curb ramp shall cut through or shall be built up to the curb at right angles or shall meet
@@ -225,12 +231,13 @@ maximum.
 Where a pedestrian circulation path crosses the curb ramp, flared sides shall be sloped 10 percent maximum, measured
 parallel to the curb line.
 
-**Figure 304.2.3 Flared Sides**
-
-![Flared sides sloped 10 percent max at curb ramps where pedestrian
+{% include figure-caption.html
+text= "Figure 304.2.3 Flared Sides"
+img-file= "304-2-3.jpg"
+img-alt= "Flared sides sloped 10 percent max at curb ramps where pedestrian
 circulation paths cross the ramp (returned curbs shown where protected
-from pedestrian cross
-traffic](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-2-3.jpg)
+from pedestrian cross traffic"
+%}
 
 {: .advisory}
 **Advisory R304.2.3 Flared Sides.** The flared sides are part of the pedestrian circulation path, but are not part of the pedestrian access route. Curb ramps whose sides have returned curbs provide useful directional cues where they are aligned with the pedestrian street crossing and are protected from cross travel by landscaping, street furniture, chains, fencing, or railings.
@@ -248,12 +255,13 @@ space shall be 1.2 m (4.0 ft) minimum by 1.5 m (5.0 ft). The 1.5 m (5.0
 ft) dimension shall be provided in the direction of the pedestrian
 street crossing.
 
-**Figure R304.3.1 Turning Space**
-
-![Turning space 1.2 m (4.0 ft) min by 1.2 m (4.0 ft) min at the bottom
+{% include figure-caption.html
+text= "Figure R304.3.1 Turning Space"
+img-file= "304-3-1.jpg"
+img-alt= "Turning space 1.2 m (4.0 ft) min by 1.2 m (4.0 ft) min at the bottom
 of curb ramp or 1.2 m (4.0 ft) wide min by 1.5 m (5.0 ft) long min where
-the space is constrained on 2 or more sides
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-3-1.jpg)
+the space is constrained on 2 or more sides"
+%}
 
 ##### R304.3.2 Running Slope
 The running slope of the curb ramp shall be in-line with the direction of sidewalk travel. The running slope of the
@@ -267,10 +275,11 @@ Blended transitions shall comply with R304.4 and R304.5.
 ##### R304.4.1 Running Slope
 The running slope of blended transitions shall be 5 percent maximum.
 
-**Figure R304.4.1 Running Slope**
-
-![Curb ramp running slope 5% max
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-4-1.jpg)
+{% include figure-caption.html
+text= "Figure R304.4.1 Running Slope"
+img-file= "304-4-1.jpg"
+img-alt= "Curb ramp running slope 5% max"
+%}
 
 #### R304.5 Common Requirements
 Curb ramps and blended transitions shall comply with R304.5.
@@ -284,20 +293,22 @@ In pedestrian circulation paths other than shared use paths, the clear width of 
 ###### R304.5.1.2 Shared Use Paths
 In shared use paths, the width of curb ramp runs and blended transitions shall be equal to the width of the shared use path.
 
-**Figure R304.5.1 Width**
-
-![Width of curb ramp 1.2 m (4 ft) min
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-5-1.jpg)
+{% include figure-caption.html
+text= "Figure R304.5.1 Width"
+img-file= "304-5-1.jpg"
+img-alt= "Width of curb ramp 1.2 m (4 ft) min"
+%}
 
 ##### R304.5.2 Grade Breaks
 Grade breaks at the top and bottom of curb ramp runs shall be perpendicular to the direction of the ramp run. Grade
 breaks shall not be permitted on the surface of ramp runs and turning
 spaces. Surface slopes that meet at grade breaks shall be flush.
 
-**Figure R304.5.2 Grade Breaks**
-
-![Grade break at curb ramp shown perpendicular to direction of travel
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-5-2.jpg)
+{% include figure-caption.html
+text= "Figure R304.5.2 Grade Breaks"
+img-file= "304-5-2.jpg"
+img-alt= "Grade break at curb ramp shown perpendicular to direction of travel"
+%}
 
 ##### R304.5.3 Cross Slope
 The cross slope of curb ramps, blended
@@ -318,11 +329,12 @@ Beyond the bottom grade break, a clear space 1.2 m (4.0 ft) minimum by 1.2 m (4.
 within the width of the pedestrian street crossing and wholly outside
 the parallel vehicle travel lane.
 
-**Figure R304.5.5 Clear Space**
-
-![Clear space 1.2 m (4 ft) min by 1.2 m (4 ft) min at the bottom of curb
-ramp beyond grade break located within width of pedestrian street
-crossing](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/304-5-5.jpg)
+{% include figure-caption.html
+text= "Figure R304.5.5 Clear Space"
+img-file= "304-5-5.jpg"
+img-alt= "Clear space 1.2 m (4 ft) min by 1.2 m (4 ft) min at the bottom of curb
+ramp beyond grade break located within width of pedestrian street crossing"
+%}
 
 ### R305 Detectable Warning Surfaces
 
@@ -339,12 +351,13 @@ The truncated domes shall have a base diameter of 23 mm (0.9 in) minimum and 36 
 50 percent of the base diameter minimum and 65 percent of the base
 diameter maximum, and a height of 5 mm (0.2 in).
 
-**Figure R305.1.1 Dome Size**
-
-![Truncated dome in elevation shown with a base diameter of 23 mm (0.9
+{% include figure-caption.html
+text= "Figure R305.1.1 Dome Size"
+img-file= "305-1-1.jpg"
+img-alt= "Truncated dome in elevation shown with a base diameter of 23 mm (0.9
 in) min to 36 mm (1.4 in) max, a top diameter 50% to 65% of the base
-diameter, and a height of 5 mm (0.2 in)
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-1-1.jpg)
+diameter, and a height of 5 mm (0.2 in)"
+%}
 
 ##### R305.1.2 Dome Spacing
 The truncated domes shall have a
@@ -352,12 +365,13 @@ center-to-center spacing of 41 mm (1.6 in) minimum and 61 mm (2.4 in)
 maximum, and a base-to-base spacing of 17 mm (0.65 in) minimum, measured
 between the most adjacent domes.
 
-**Figure R305.1.2 Dome Spacing**
-
-![Truncated domes in plan view with a center-to-center spacing of 41 mm
+{% include figure-caption.html
+text= "Figure R305.1.2 Dome Spacing"
+img-file= "305-1-2.jpg"
+img-alt= "Truncated domes in plan view with a center-to-center spacing of 41 mm
 (1.6 in) min and 61 mm (2.4 in) max, and a base-to-base spacing of 17 mm
-(0.65 in) min, measured between the most adjacent
-domes](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-1-2.jpg)
+(0.65 in) min, measured between the most adjacent domes"
+%}
 
 ##### R305.1.3 Contrast
 Detectable warning surfaces shall contrast
@@ -380,12 +394,13 @@ the public use areas of the platform. At boarding and alighting areas at
 sidewalk or street level transit stops for rail vehicles, detectable
 warning surfaces shall extend the full length of the transit stop.
 
-**Figure R305.1.4 Size**
-
-![Detectable warning area 610 mm (24 in) deep shown extending the full
+{% include figure-caption.html
+text= "Figure R305.1.4 Size"
+img-file= "305-1-4.jpg"
+img-alt= "Detectable warning area 610 mm (24 in) deep shown extending the full
 width of a perpendicular curb ramp and curb ramp with a returned curb
-and the full width of landing at parallel curb ramp
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-1-4.jpg)
+and the full width of landing at parallel curb ramp"
+%}
 
 #### R305.2 Placement
 The placement of detectable warning surfaces shall
@@ -402,13 +417,15 @@ detectable warning surfaces shall be placed as follows:
 2. Where the ends of the bottom grade break are behind the back of curb and the distance from either end of the bottom grade brake to the back of curb is 1.5 m (5.0 ft) or less, detectable warning surfaces shall be placed on the ramp run within one dome spacing of the bottom grade break.
 3. Where the ends of the bottom grade break are behind the back of curb and the distance from either end of the bottom grade brake to the back of curb is more than 1.5 m (5.0 ft), detectable warning surfaces shall be placed on the lower landing at the back of curb.
 
-**Figure R305.2.1 Perpendicular Curb Ramps**
-
-![Detectable warnings located on ramp run where both ends of the bottom
+{% include figure-caption.html
+text= "Figure R305.2.1 Perpendicular Curb Ramps"
+img-file= "305-2-1.jpg"
+img-alt= "Detectable warnings located on ramp run where both ends of the bottom
 grad break are less than 1.5 m (5 ft) from back of curb and located on
 the lower landing at the back of curb where one or both ends of the
 bottom grade break are more than 1.5 m (5 ft) from back of
-curb](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-1.jpg)
+curb"
+%}
 
 {: .advisory}
 **Advisory R305.2.1 Perpendicular Curb Ramps.** Detectable warning surfaces are intended to provide a tactile equivalent underfoot of the visible curb line. If detectable warning surfaces are placed too far from the curb line because of a large curb radius, the location may compromise effective crossing. Detectable warning surfaces should not be placed on paving or expansion joints. The rows of truncated domes in detectable warning surfaces should be aligned perpendicular to the grade break between the ramp run and the street so pedestrians who use wheelchairs can "track" between the domes. Where detectable warning surfaces are provided on a surface with a slope that is less than 5 percent, dome orientation is less critical.
@@ -418,11 +435,13 @@ On parallel curb ramps, detectable
 warning surfaces shall be placed on the turning space at the flush
 transition between the street and sidewalk.
 
-**Figure R305.2.2 Parallel Curb Ramps**
-
-![Detectable warning located at the back of curb along the bottom
+{% include figure-caption.html
+text= "Figure R305.2.2 Parallel Curb Ramps"
+img-file= "305-2-2.jpg"
+img-alt= "Detectable warning located at the back of curb along the bottom
 landing between parallel
-ramps](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-2.jpg)
+ramps"
+%}
 
 ##### R305.2.3 Blended Transitions
 On blended transitions, detectable
@@ -432,11 +451,13 @@ pedestrian street crossings are provided, detectable warning surfaces
 shall be placed at the flush transition between the street and the
 sidewalk.
 
-**Figure R305.2.3 Blended Transitions**
-
-![Detectable warning at raised crossing located back of curb along the
+{% include figure-caption.html
+text= "Figure R305.2.3 Blended Transitions"
+img-file= "305-2-3.jpg"
+img-alt= "Detectable warning at raised crossing located back of curb along the
 entire transition between street and
-sidewalk](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-3.jpg)
+sidewalk"
+%}
 
 ##### R305.2.4 Pedestrian Refuge Islands
 At cut-through pedestrian refuge
@@ -444,13 +465,14 @@ islands, detectable warning surfaces shall be placed at the edges of the
 pedestrian island and shall be separated by a 610 mm (2.0 ft) minimum
 length of surface without detectable warnings.
 
-**Figure R 305.2.4 Pedestrian Refuge Island**
-
-![Detectable warnings at pedestrian refuge island 1.8 m (ft) min wide
+{% include figure-caption.html
+text= "Figure R 305.2.4 Pedestrian Refuge Island"
+img-file= "305-2-4.jpg"
+img-alt= "Detectable warnings at pedestrian refuge island 1.8 m (ft) min wide
 that are separated by non-detectable warning surface 610 mm (2 ft) min
 long illustrated for cut-through route, route with aligned curb ramps on
-both sides, and route with offset curb ramps on both sides
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-4.jpg)
+both sides, and route with offset curb ramps on both sides"
+%}
 
 {: .advisory}
 **Advisory R305.2.4 Pedestrian Refuge Islands.** The edges of cut-through pedestrian refuge islands can provide useful cues to the direction of the crossing.
@@ -465,12 +487,14 @@ centerline of the nearest rail. Where pedestrian gates are provided,
 detectable warning surfaces shall be placed on the side of the gates
 opposite the rail.
 
-**Figure R305.2.5 Pedestrian At-Grade Rail Crossings**
-
-![At pedestrian at-grade rail crossing, detectable warnings shown
+{% include figure-caption.html
+text= "Figure R305.2.5 Pedestrian At-Grade Rail Crossings"
+img-file= "305-2-5.jpg"
+img-alt= "At pedestrian at-grade rail crossing, detectable warnings shown
 located 1.8 -- 4.6 m (6 -- 15 ft) from the centerline of the nearest
 rail and, on other side, on the side of pedestrian gate opposite the
-rail](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/305-2-5.jpg)
+rail"
+%}
 
 ##### R305.2.6 Boarding Platforms
 At boarding platforms for buses and
@@ -563,12 +587,13 @@ clear length of 2.4 m (8.0 ft) minimum, measured perpendicular to the
 curb or street or highway edge, and a clear width of 1.5 m (5.0 ft)
 minimum, measured parallel to the street or highway.
 
-**Figure R308.1.1.1 Dimensions**
-
-![Boarding/ alighting area 2.4 m (8.0 ft) long min, measured
+{% include figure-caption.html
+text= "Figure R308.1.1.1 Dimensions"
+img-file= "308-1-1-1.jpg"
+img-alt= "Boarding/ alighting area 2.4 m (8.0 ft) long min, measured
 perpendicular to the curb or street or highway edge, and 1.5 m (5.0 ft)
-wide min
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/308-1-1-1.jpg)
+wide min"
+%}
 
 ###### R308.1.1.2 Grade
 Parallel to the street or highway, the grade of
@@ -611,11 +636,13 @@ Boarding and alighting areas and boarding
 platforms shall be connected to streets, sidewalks, or pedestrian
 circulation paths by pedestrian access routes complying with R302.
 
-**Figure R308.1.3.2 Connection**
-
-![Boarding/ alighting area and bus shelter connected by a pedestrian
+{% include figure-caption.html
+text= "Figure R308.1.3.2 Connection"
+img-file= "308-1-3-2.jpg"
+img-alt= "Boarding/ alighting area and bus shelter connected by a pedestrian
 accessible
-route](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/308-1-3-2.jpg)
+route"
+%}
 
 #### R308.2 Transit Shelters
 Transit shelters shall be connected by
@@ -656,12 +683,13 @@ of the parking space and shall connect to a pedestrian access route. The
 access aisle shall comply with R302.7 and shall not encroach on the
 vehicular travel lane.
 
-**Figure R309.2.1 Wide Sidewalks**
-
-![A 1.5 m (5 ft) wide min access aisle running the full length of
+{% include figure-caption.html
+text= "Figure R309.2.1 Wide Sidewalks"
+img-file= "309-2-1.jpg"
+img-alt= "A 1.5 m (5 ft) wide min access aisle running the full length of
 parallel parking space and located beyond the face of curb at sidewalk
-at least 4.3 m (14 ft) wide; aisle served by curb ramp at one end
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/309-2-1.jpg)
+at least 4.3 m (14 ft) wide; aisle served by curb ramp at one end"
+%}
 
 {: .advisory}
 **Advisory R309.2.1 Wide Sidewalks.** Vehicles may park at the curb or at the parking lane boundary and use the space required by R309.2.1 on either the driver or passenger side of the vehicle to serve as the access aisle.
@@ -678,11 +706,13 @@ width of the adjacent sidewalk or the available right-of-way is less
 than or equal to 4.3 m (14.0 ft). When an access aisle is not provided,
 the parking spaces shall be located at the end of the block face.
 
-**Figure R309.2.2 Narrow Sidewalks**
-
-![An accessible parking space without access aisle located at the end of
+{% include figure-caption.html
+text= "Figure R309.2.2 Narrow Sidewalks"
+img-file= "309-2-2.jpg"
+img-alt= "An accessible parking space without access aisle located at the end of
 the block face with a sidewalk 4.3 m (14 ft) wide
-max](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/309-2-2.jpg)
+max"
+%}
 
 {: .advisory}
 **Advisory R309.2.2 Narrow Sidewalks.** Vehicle lifts or ramps can be deployed on a 2.4 m (8.0 ft) sidewalk if there are no obstructions.
@@ -696,10 +726,12 @@ shall comply with R302.7 and shall be marked so as to discourage parking
 in the access aisle. Two parking spaces are permitted to share a common
 access aisle.
 
-**Figure R309.3 Perpendicular or Angled Parking Spaces**
-
-![Access aisle 2.4 m (8 ft) wide min located between angled parking
-spaces](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/309-3.jpg)
+{% include figure-caption.html
+text= "Figure R309.3 Perpendicular or Angled Parking Spaces"
+img-file= "309-3.jpg"
+img-alt= "Access aisle 2.4 m (8 ft) wide min located between angled parking
+spaces"
+%}
 
 {: .advisory}
 **Advisory R309.3 Perpendicular or Angled Parking Spaces.** Perpendicular and angled parking spaces permit the deployment of a van side-lift or ramp.
@@ -752,13 +784,13 @@ or blended transitions complying with R304 shall connect the access
 aisle to the pedestrian access route. Curb ramps are not permitted
 within the access aisle.
 
-**Figure R310.3 Access Aisle**
-
-![Marked passenger loading zone accessible aisle flush with the vehicle
+{% include figure-caption.html
+text= "Figure R310.3 Access Aisle"
+img-file= "310-3.jpg"
+img-alt= "Marked passenger loading zone accessible aisle flush with the vehicle
 pull-up space that is 1.5 m (5 ft) wide min, equal to the full length of
-the vehicle pull-up space, and located beyond the curb line
-](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/310-3.jpg)
-
+the vehicle pull-up space, and located beyond the curb line"
+%}
 
 ##### R310.3.1 Width
 Access aisles serving vehicle pull-up spaces shall
