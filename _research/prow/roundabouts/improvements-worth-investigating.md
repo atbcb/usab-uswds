@@ -22,7 +22,7 @@ A standardized tactile paving is used in many foreign countries to mark the cros
 
 |
 
-![Figure 7. Australian use of bar tiles across sidewalk to indicate crossing location](https://www.access-board.gov/images/research/modern-rooundabouts/fig7.jpg)
+![Figure 7. Australian use of bar tiles across sidewalk to indicate crossing location]({{ site.baseurl }}/images/research/prow/roundabouts/fig7.jpg)
 
  |
 |
