@@ -1,10 +1,10 @@
 ---
 title: Results and Discussion
 order-number: 3
-research-title: Results and Discussion
+research-title: "Improved Engineered Wood Fiber (EWF) Surfaces for Accessible Playgrounds"
 status: completed
 year-completed: 2003
-topic: Improved Engineered Wood Fiber (EWF) Surfaces 
+topic: Exterior Surfaces
 ---
 
 #### Accessibility

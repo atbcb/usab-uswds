@@ -1,10 +1,10 @@
 ---
 title: Literature Cited
 order-number: 5
-research-title: Literature Cited
+research-title: Stabilized Engineered Wood Fiber for Accessible Trails
 status: completed
 year-completed: 2006
-topic: Stabilized Engineered Wood Fiber for Accessible Trails 
+topic: Exterior Surfaces
 ---
 
 **ADA ****. **1990\. Public Law 101--336 . Americans with Disabilities Act, Public Law 336, 101st Congress, enacted July 26, 1990 .

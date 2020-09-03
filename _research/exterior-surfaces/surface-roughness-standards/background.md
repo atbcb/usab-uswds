@@ -1,10 +1,10 @@
 ---
 title: Background
 order-number: 1
-research-title: Background
+research-title: Development of Surface Roughness Standards for Pathways Used by Wheelchair Users
 status: completed
 year-completed: 2014
-topic: Surface Roughness Final Report 
+topic: Exterior Surfaces
 ---
 
 People with disabilities can participate in the community and have very active lifestyles. A study has shown that people in Pittsburgh who use power WCs as their primary mode of transportation will travel 1.6 km on a normal day. (Cooper, et al., 2002) However, in an active and highly accessible environment, such as the convention centers and cities where they hold the National Veterans Wheelchair Games (NVWG), WC users can travel up to almost 8 km per day. (Cooper, et al., 2002) A similar study of manual WC users revealed that on typical days they travel 2.0 km, and in a highly accessible setting, such as at the NVWG, they will travel an average of 6.5 km per day; one subject in this study traveled 19.4 km in one day. (Tolerico, 2006)

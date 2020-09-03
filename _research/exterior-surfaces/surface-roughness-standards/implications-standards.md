@@ -1,10 +1,10 @@
 ---
 title: Implications for Standards
 order-number: 4
-research-title: Implications for Standards
+research-title: Development of Surface Roughness Standards for Pathways Used by Wheelchair Users
 status: completed
 year-completed: 2014
-topic: Surface Roughness Final Report
+topic: Exterior Surfaces
 ---
 
 We found that RMS acceleration and subjective feedback is correlated to surface roughness. The engineered surfaces gave results that were much more linear than the outside surfaces. There are many reasons why this could have occurred. The engineered surfaces were laid on flat floors and constructed so that there would be very little vibrations caused by long wavelength deviations. While the outside surfaces chosen were as flat as possible, there may have been some long wavelength deviations that could have caused additional vibrations to some chairs. Also, while the subjects were traveling over the outside surfaces, their wheels were not hitting the same size of gaps at the same time as was the case on the engineered surfaces. The wheels also traveled over different lines on the surface and subsequently hit different cracks and bumps each time they traveled over the surface, which may have caused variations in the vibrations. Power chairs have wide enough drive wheels (usually around 3 in) that if they are traveling over a brick surface on a crack running with the direction of travel, the wheel might stay on top of alternating bricks and never drop into cracks. Another difference between the engineered and outdoor surfaces is that the boards for the engineered surfaces had sharp edges that could have caused greater vibrations than the used, worn edges of the outside surfaces.

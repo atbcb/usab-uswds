@@ -1,10 +1,10 @@
 ---
 title: Methodology
 order-number: 2
-research-title: Methodology
+research-title: Accessible Exterior Surfaces
 status: completed
 year-completed: 1999
-topic: Accessible Exterior Surfaces
+topic: Exterior Surfaces
 ---
 
 #### Test Courses & Surfaces

@@ -1,10 +1,10 @@
 ---
 title: Study Findings
 order-number: 3
-research-title: Study Findings
+research-title: Development of Surface Roughness Standards for Pathways Used by Wheelchair Users
 status: completed
 year-completed: 2014
-topic: Surface Roughness Final Report 
+topic: Exterior Surfaces
 ---
 
 **Literature Review**

@@ -1,10 +1,10 @@
 ---
 title: Study Sites and Test Procedures
 order-number: 3
-research-title: Study Sites and Test Procedures
+research-title: Stabilized Engineered Wood Fiber for Accessible Trails
 status: completed
 year-completed: 2006
-topic: Stabilized Engineered Wood Fiber for Accessible Trails
+topic: Exterior Surfaces
 ---
 
 **Trail Study Sites**

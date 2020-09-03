@@ -1,10 +1,10 @@
 ---
 title: Abstract
 order-number: 0
-research-title: Abstract
+research-title: Accessible Exterior Surfaces
 status: completed
 year-completed: 1999
-topic: Accessible Exterior Surfaces
+topic: Exterior Surfaces
 ---
 
 *This is an executive summary of the "Accessible Exterior Surfaces Technical Report" dated 24 April 1999. This report is available through the Access Board at (800) 872-2253, or Beneficial Designs, Inc. at (775) 783-8822 or <mail@beneficialdesigns.com>.*

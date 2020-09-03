@@ -1,10 +1,10 @@
 ---
 title: References
 order-number: 7
-research-title: References
+research-title: Development of Surface Roughness Standards for Pathways Used by Wheelchair Users
 status: completed
 year-completed: 2014
-topic: Surface Roughness Final Report 
+topic: Exterior Surfaces
 ---
 
 Americans With Disabilities Act of 1990, 42 U.S.C.A § 12101 et seq. (1993)

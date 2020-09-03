@@ -1,10 +1,10 @@
 ---
 title: References
 order-number: 5
-research-title: References
+research-title: Accessible Exterior Surfaces
 status: completed
 year-completed: 1999
-topic: Accessible Exterior Surfaces
+topic: Exterior Surfaces
 ---
 
 1.  Axelson PW, Chesney D (April 1999): "Accessible Exterior Surfaces Technical Report," USATBCB, Washington, DC. This report is available through: Access Board (USATBCB), 1331 F Street, NW, Suite 1000, Washington, DC; 800.872.2253 ph, 202.272.5447 fax and Beneficial Designs, Inc., 5858 Empire Grade, Santa Cruz, CA; 831.429.8447 ph, 831.423.8450 fax

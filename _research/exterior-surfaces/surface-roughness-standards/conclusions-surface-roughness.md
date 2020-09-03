@@ -1,10 +1,10 @@
 ---
 title: Conclusions
 order-number: 5
-research-title: Conclusions
+research-title: Development of Surface Roughness Standards for Pathways Used by Wheelchair Users
 status: completed
 year-completed: 2014
-topic: Surface Roughness Final Report 
+topic: Exterior Surfaces
 ---
 
 WC users are exposed to WBVs that can be harmful and uncomfortable. Some characteristics of the WC can be adjusted to minimize these WBVs such as adding suspensions systems, using larger more compliant wheels, etc. However, any changes to a WC to reduce vibrations can cause negative outcomes to other performance properties such as its weight and resistance to propelling. This study found that surface characteristics, more specifically surface roughness, can have a large impact on the WBVs that WC users are exposed to.

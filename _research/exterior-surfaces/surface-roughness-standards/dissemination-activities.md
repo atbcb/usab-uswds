@@ -1,10 +1,10 @@
 ---
 title: Dissemination Activities
 order-number: 6
-research-title: Dissemination Activities
+research-title: Development of Surface Roughness Standards for Pathways Used by Wheelchair Users
 status: completed
 year-completed: 2014
-topic: Surface Roughness Final Report
+topic: Exterior Surfaces
 ---
 
 **Publications and conferences**

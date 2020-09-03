@@ -1,10 +1,10 @@
 ---
 title: Materials and Methods
 order-number: 2
-research-title: Materials and Methods
+research-title: "Improved Engineered Wood Fiber (EWF) Surfaces for Accessible Playgrounds"
 status: completed
 year-completed: 2003
-topic: Improved Engineered Wood Fiber (EWF) Surfaces 
+topic: Exterior Surfaces
 ---
 #### *Bonded Impact/cushioning Surfaces*
 
