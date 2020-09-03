@@ -5,11 +5,9 @@ research-title: Interfacing Accessible Pedestrian Signals (APS) with Traffic Sig
 status: completed
 year-completed: 2003
 topic: Public Rights-of-Way
-permalink: /research/prow/interfacing-aps/
 ---
 
-Traffic Signal Controllers and APS Technologies
------------------------------------------------
+## Traffic Signal Controllers and APS Technologies
 
 #### TRAFFIC SIGNAL CONTROLLERS
 
