@@ -5,11 +5,9 @@ research-title: Interfacing Accessible Pedestrian Signals (APS) with Traffic Sig
 status: completed
 year-completed: 2003
 topic: Public Rights-of-Way
-permalink: /research/prow/interfacing-aps/
 ---
 
-Lessons Learned from Existing Installations
--------------------------------------------
+## Lessons Learned from Existing Installations
 
 Interfacing new APS devices with modern traffic signal control systems is not as problematic as industry initially believed. Most APS devices do not interface with traffic signal controllers at all, and those that do only provide equipment inside the cabinet. Problems experienced to date have been minor and correctable; issues presented are not dissimilar to any device associated with traffic signal systems. Many of the problems seem related to a lack of understanding by installers, who may not yet be familiar with the new types of devices, wiring, and the use of the various features. Pushbutton-integrated devices require additional wiring between the pedhead and pushbutton, more attention to pushbutton placement and alignment, and careful adjustment of sound volumes. APS devices provide a real benefit to all pedestrian movements at a signalized intersection. The information presented in this section can help those who use and/or install APS devices to avoid problems.
 
