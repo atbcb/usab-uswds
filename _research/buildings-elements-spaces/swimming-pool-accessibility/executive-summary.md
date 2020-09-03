@@ -5,6 +5,7 @@ research-title: Swimming Pool Accessibility
 status: completed
 year-completed: 1996
 topic: Buildings Elements and Spaces
+permalink: research/swimming-pool-accessibility/
 ---
 
 This project was conducted for the U.S. Architecture and Transportation Barriers Compliance Board to identify and evaluate methods and standards related to enabling access to swimming pools by people with disabilities. It focused on the appropriateness, independent use, degree of consistency with existing building standards, level of safety, and impact on pool design.

@@ -5,6 +5,7 @@ research-title: Dimensional Tolerances in Construction and for Surface Accessibi
 status: completed
 year-completed: 2011
 topic: Building Elements and Spaces
+permalink: research/dimensional-tolerances/
 ---
 
 ### Introduction
