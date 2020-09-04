@@ -2,7 +2,7 @@
 title: Guidance Documents
 layout: page
 sidenav: false
-permalink: /enforcement/504contacts.html
+permalink: /guidance.html
 ---
 # {{ page.title }}
 
