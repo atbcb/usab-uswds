@@ -162,3 +162,68 @@ collections:
           widget: "text",
           required: false,
         }
+  - label: Board Members
+    name: board-members
+    folder: _board-members/
+    create: true
+    slug: "{{name}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Name",
+          name: "name",
+          widget: "string",
+          hint: 'This is the first name and last name appended with a hyphen in lowercase. ie("jane-doe")',
+        }
+      - { label: "Full Name with titles and salutations", name: "full_name", widget: "string", hint: 'Gerge Washington, PhD' }
+      - { label: "Click to slide right if this is a Chairperson",
+          name: "chair",
+          widget: "boolean",
+          default: false,
+        }
+      - {
+        label: "Public/Federal Member",
+        name: "member",
+        widget: "select",
+        options: ["public", "federal"],
+        }
+      - {
+          label: "Image",
+          name: "image",
+          widget: "image",
+          allow_multiple: false,
+          required: false,
+        }
+      - { label: "Bio", name: "bio", widget: "text", required: false }
+      - { label: "Agency", name: "agency", widget: "string", default: "", required: false }
+        - label: Board Members
+  - label: 504 contacts
+    name: 504-contacts
+    folder: _504-contacts/
+    create: true
+    slug: "{{name}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "unique agency name",
+          name: "name",
+          widget: "string",
+          hint: 'This is the abbreviated name of the agency with hyphen in lowercase. ie("doj, hhs, hud")',
+        }
+      - { label: "Full Agency Name", name: "full_name", widget: "string", hint: 'Department of Health and Human Services' }
+      - {
+        label: "504 contact name",
+        name: "contact",
+        widget: "string",
+        }
+      - {
+          label: "Image",
+          name: "image",
+          widget: "image",
+          allow_multiple: false,
+          required: false,
+        }
+      - { label: "Bio", name: "bio", widget: "text", required: false }
+      - { label: "Agency", name: "agency", widget: "string", default: "" }

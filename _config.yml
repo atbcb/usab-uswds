@@ -169,6 +169,9 @@ collections:
   authors:
     output: true
     permalink: /authors/:name/
+  board-members:
+    output: true
+    permalink: /board-members/:name/
   tags:
     output: false
 
