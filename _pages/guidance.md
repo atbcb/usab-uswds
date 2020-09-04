@@ -10,11 +10,11 @@ Provided here is a complete list of Access Board guidance documents (including a
 
 * [Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards](#guidance-on-the-americans-with-disabilities-act-ada-accessibility-standards)
   - [Guidance on Recreation Facilities](#guidance-on-recreation-facilities)
-* [Guidance on the Architectural Barriers Act (ABA) Accessibility Standard](#guidance-on-the-architectural-barriers-act-aba-accessibility-standard)
+* [Guidance on the Architectural Barriers Act (ABA) Accessibility Standards](#guidance-on-the-architectural-barriers-act-aba-accessibility-standards)
   - [Animations on the ADA and ABA Standards](#animations-on-the-ada-and-aba-standards)
   - [Guidance on the ADA Accessibility Guidelines for Transportation Vehicles](#guidance-on-the-ada-accessibility-guidelines-for-transportation-vehicles)
 * [Guidance on Requirements for Information and Communication Technology](#guidance-on-requirements-for-information-and-communication-technology)
-* [Guidance on Public Rights-of-Way](#guidance-on-public-rights-of-Way)
+* [Guidance on Public Rights-of-Way](#guidance-on-public-rights-of-way)
 * [Guidance on Prescription Drug Labels](#guidance-on-prescription-drug-labels)
 
 * * * * *
@@ -150,14 +150,14 @@ This 12-minute animation explains requirements in the ADA and ABA Standards for 
 * [Guides to the ADA Guidelines for Transportation Vehicles]({{ site.base.url }}/guidelines-and-standards/transportation/vehicles/technical-assistance-manuals-on-adaag-for-transportation-vehicles) (HTML) (October 1992)  
 This document explains requirements in the ADA Accessibility Guidelines for Transportation Vehicles, including buses, vans, and rail vehicles.
 
-##  Guidance on Requirements for Information and Communication Technology
+## Guidance on Requirements for Information and Communication Technology
 
 * [Guide to the Section 508 Standards]({{ site.base.url }}/guidelines-and-standards/communications-and-it/about-the-section-508-standards/guide-to-the-section-508-standards) (HTML) (June 2001)  
 This document explains requirements in the original Section 508 Standards (2000) for electronic and information technology in the federal sector.
 * [Guidance on the Telecommunications Act Section 255 Guidelines]({{ site.base.url }}/guidelines-and-standards/communications-and-it/about-the-telecommunications-act-guidelines/guidance-on-the-telecommunications-act-%C2%A7255-guidelines) (HTML) (April 1999)  
 This document explains accessibility requirements for telecommunications products and services covered by Section 255 of the Communications Act.
 
-##   Guidance on Public Rights-of-Way
+## Guidance on Public Rights-of-Way
 
 * [Accessible Public Rights-of-Way: Planning and Designing for Alterations]({{ site.base.url }}/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/accessible-public-rights-of-way-planning-and-design-for-alterations) (HTML) [PDF]({{ site.base.url }}/attachments/article/756/guide.pdf) (August 2007)  
 This document provides guidance and best practices on accessibility in planning and designing alterations to public rights-of-way.
