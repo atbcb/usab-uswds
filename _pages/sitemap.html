@@ -13,13 +13,7 @@ layout: page
         <h2>{% if doc.collection-title %}{{ doc.collection-title }}{% else %}[Untitled]{% endif %}</h2>
       {% endif %}
       <li class="margin-left-3 ">
-        <a href="{{ doc.url | replace:'/index.html','/' | absolute_url }}">
-          {% if doc.title %}
-          {{doc.title}}
-          {% else %}
-          {{ doc.url | replace:'/index.html','/' | absolute_url }}
-          {% endif %}
-        </a>
+        <a href="{{ doc.url | replace:'/index.html','/' | absolute_url }}">{% if doc.title %}{{doc.title}}{% else %}{{ doc.url | replace:'/index.html','/' | absolute_url }}{% endif %}</a>
         <span class="text-italic">
           (Last modified: 
           {% if doc.last_modified_at or doc.date %}
@@ -46,7 +40,6 @@ layout: page
 </ul>
 {% endcomment %}
 
-
 {% comment %}
   This script shows all static files, including videos, pictures, etc. Way too long
   {% assign static_files = site.static_files | where_exp:'page','page.sitemap != false' | where_exp:'page','page.name != "404.html"' %}
@@ -58,15 +51,12 @@ layout: page
   </ul>
 {% endcomment %}
 
-
 <h2>Files</h2>
 <ul>
   {% for file in site.static_files %}
   {% if file.extname == ".pdf" %}
       <li class="margin-left-3 ">
-      <a href="{{ site.baseurl }}{{ file.path }}">
-        {{file.name}}
-      </a>
+      <a href="{{ site.baseurl }}{{ file.path }}">{{file.name}}</a>
     </li>
   {% endif %}
 {% endfor %}
@@ -77,9 +67,7 @@ layout: page
   {% for file in site.static_files %}
   {% if file.extname == ".mp4" %}
       <li class="margin-left-3 ">
-      <a href="{{ site.baseurl }}{{ file.path }}">
-        {{file.name}}
-      </a>
+      <a href="{{ site.baseurl }}{{ file.path }}">{{file.name}}</a>
     </li>
   {% endif %}
 {% endfor %}
