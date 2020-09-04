@@ -8,18 +8,18 @@ permalink: /guidance.html
 
 Provided here is a complete list of Access Board guidance documents (including animations and videos) currently in effect as required by [Executive Order 13891](https://www.federalregister.gov/documents/2019/10/15/2019-22623/promoting-the-rule-of-law-through-improved-agency-guidance-documents).  Guidance documents lack the force and effect of law, except as authorized by law or as incorporated into a contract.
 
-* [Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards](#ada1)
-* [Guides on Recreation Facilities](#recreation)
-* [Guidance on the Architectural Barriers Act (ABA) Accessibility Standard](#aba)
-* [Animations on the ADA and ABA Standards](#animations)
-* [Guidance on the ADA Accessibility Guidelines for Transportation Vehicles]({#vehicles)
-* [Guidance on Requirements for Information and Communication Technology](#ict)
-* [Guidance on Public Rights-of-Way](#prow)
-* [Guidance on Prescription Drug Labels](#drug-labels)
+* [Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards](#guidance-on-the-americans-with-disabilities-act-ada-accessibility-standards)
+  - [Guidance on Recreation Facilities](#guides-on-recreation-facilities)
+* [Guidance on the Architectural Barriers Act (ABA) Accessibility Standard](#guidance-on-the-architectural-barriers-act-aba-accessibility-standard)
+  - [Animations on the ADA and ABA Standards](#animations-on-the-ada-and-aba-standards)
+  - [Guidance on the ADA Accessibility Guidelines for Transportation Vehicles]({#guidance-on-the-ada-accessibility-guidelines-for-transportation-vehicles)
+* [Guidance on Requirements for Information and Communication Technology](#guidance-on-requirements-for-information-and-communication-technology)
+* [Guidance on Public Rights-of-Way](#guidance-on-public-rights-of-Way)
+* [Guidance on Prescription Drug Labels](#guidance-on-prescription-drug-labels)
 
 * * * * *
 
-###{#ada1} Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards{#ada2)
+## Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards
 
 * [Guide to the ADA Standards: About this Guide]({{ site.base.url }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/about-this-guide) (HTML)  [PDF]({{ site.base.url }}/attachments/article/1469/about-guide.pdf) (February 2014)\
     An introduction to the Guide on the ADA Accessibility Standards and how it is to be used.
@@ -83,7 +83,7 @@ Provided here is a complete list of Access Board guidance documents (including a
 * [Guide on Swimming Pools, Wading Pools, and Spas]({{ site.base.url }}/guidelines-and-standards/recreation-facilities/guides/swimming-pools,-wading-pools,-and-spas)  (HTML) [PDF]({{ site.base.url }}/attachments/article/594/pools.pdf) (June 2003)\
     This document explains requirements in the ADA and ABA Standards for swimming pools, wading pools, and spas.
 
-###  Guidance on the Architectural Barriers Act (ABA) Accessibility Standards
+##  Guidance on the Architectural Barriers Act (ABA) Accessibility Standards
 
 * [Guide to the ABA Standards: About this Guide]({{ site.base.url }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/about-this-guide) (HTML)  [PDF]({{ site.base.url }}/attachments/article/1548/about%20this%20guide.pdf) (February 2014)\
     An introduction to the Guide on the ABA Accessibility Standards and how it is to be used.
@@ -126,7 +126,7 @@ Provided here is a complete list of Access Board guidance documents (including a
 * [Outdoor Developed Areas: A Summary of Accessibility Standards for Federal Outdoor Developed Areas]({{ site.base.url }}/guidelines-and-standards/recreation-facilities/outdoor-developed-areas/a-summary-of-accessibility-standards-for-federal-outdoor-developed-areas) (HTML) [PDF]({{ site.base.url }}/attachments/article/1637/outdoor-guide.pdf) (May 2014)\
     This document explains requirements in the ABA Standards for outdoor developed areas, including trails, picnic and camping areas, viewing areas, and beach access routes.
 
-###   Animations on the ADA and ABA Standards
+### Animations on the ADA and ABA Standards
 
 * [Wheelchair Maneuvering]({{ site.base.url }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (April 2014)\
     This 10-minute animation illustrates wheelchair maneuvering and requirements in the ADA and ABA Standards for clearances, floor surfaces, and reach ranges.
@@ -150,14 +150,14 @@ Provided here is a complete list of Access Board guidance documents (including a
 * [Guides to the ADA Guidelines for Transportation Vehicles]({{ site.base.url }}/guidelines-and-standards/transportation/vehicles/technical-assistance-manuals-on-adaag-for-transportation-vehicles) (HTML) (October 1992)\
     This document explains requirements in the ADA Accessibility Guidelines for Transportation Vehicles, including buses, vans, and rail vehicles.
 
-###  Guidance on Requirements for Information and Communication Technology
+##  Guidance on Requirements for Information and Communication Technology
 
 * [Guide to the Section 508 Standards]({{ site.base.url }}/guidelines-and-standards/communications-and-it/about-the-section-508-standards/guide-to-the-section-508-standards) (HTML) (June 2001)\
     This document explains requirements in the original Section 508 Standards (2000) for electronic and information technology in the federal sector.
 * [Guidance on the Telecommunications Act Section 255 Guidelines]({{ site.base.url }}/guidelines-and-standards/communications-and-it/about-the-telecommunications-act-guidelines/guidance-on-the-telecommunications-act-%C2%A7255-guidelines) (HTML) (April 1999)\
     This document explains accessibility requirements for telecommunications products and services covered by Section 255 of the Communications Act.
 
-###   Guidance on Public Rights-of-Way
+##   Guidance on Public Rights-of-Way
 
 * [Accessible Public Rights-of-Way: Planning and Designing for Alterations]({{ site.base.url }}/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/accessible-public-rights-of-way-planning-and-design-for-alterations) (HTML) [PDF]({{ site.base.url }}/attachments/article/756/guide.pdf) (August 2007)\
     This document provides guidance and best practices on accessibility in planning and designing alterations to public rights-of-way.
@@ -166,7 +166,7 @@ Provided here is a complete list of Access Board guidance documents (including a
 * [Accessible Sidewalks]({{ site.base.url }}/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/accessible-sidewalks-video-series) (video) (2003)\
     Accessible Sidewalks  is a four-part video on the design of sidewalks and accessibility for pedestrians with disabilities, including those who use wheelchairs (Part I, 10 minutes), have ambulatory impairments (Part II, 8 minutes), have low vision (Part III, 11.5 minutes), and who are blind (Part IV, 11.5 minutes).
 
-###  Guidance on Prescription Drug Labels
+##  Guidance on Prescription Drug Labels
 
 * [Best Practices for Making Prescription Drug Container Label Information Accessible to Persons Who are Blind or Visually-Impaired or Who are Elderly]({{ site.base.url }}/guidelines-and-standards/health-care/about-prescription-drug-container-labels/working-group-recommendations) (HTML) (July 2013)\
     This document provides best practices for making information on prescription drug labels accessible to people with vision impairments or who are elderly. It covers braille, large print labels, auditory technologies, and radio frequency identification tags.
