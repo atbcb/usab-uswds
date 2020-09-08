@@ -174,7 +174,7 @@ collections:
     permalink: /board-members/:name/
   tags:
     output: false
-  504-contacts:
+  contacts:
     output: false
 
 permalink: pretty

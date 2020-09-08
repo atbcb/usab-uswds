@@ -176,7 +176,7 @@ collections:
           widget: "string",
           hint: 'This is the first name and last name appended with a hyphen in lowercase. ie("jane-doe")',
         }
-      - { label: "Full Name with titles and salutations", name: "full_name", widget: "string", hint: 'Gerge Washington, PhD' }
+      - { label: "Full Name with titles and salutations", name: "full_name", widget: "string", hint: 'Pres. George Washington, PhD' }
       - { label: "Click to slide right if this is a Chairperson",
           name: "chair",
           widget: "boolean",
@@ -200,7 +200,7 @@ collections:
         - label: Board Members
   - label: 504 contacts
     name: 504-contacts
-    folder: _504-contacts/
+    folder: _contacts/
     create: true
     slug: "{{name}}"
     editor:
