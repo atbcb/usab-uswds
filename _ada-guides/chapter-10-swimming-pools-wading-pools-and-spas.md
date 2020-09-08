@@ -75,7 +75,7 @@ Pools with less than 300 linear feet of pool wall are only required to
 provide one accessible means of entry, which must be either a pool lift
 or sloped entry.
 
- #### Aquatic Recreation Facilities
+#### Aquatic Recreation Facilities
 ![photo of individual entering a wave action
 pool]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-8hi.jpg){: .img-right}
 Wave action pools, leisure rivers, sand bottom pools, and other pools

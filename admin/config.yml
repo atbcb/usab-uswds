@@ -162,3 +162,131 @@ collections:
           widget: "text",
           required: false,
         }
+  - label: Board Members
+    name: board-members
+    folder: _board-members/
+    create: true
+    slug: "{{name}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Name",
+          name: "name",
+          widget: "string",
+          hint: 'This is the first name and last name appended with a hyphen in lowercase. ie("jane-doe")',
+        }
+      - { label: "Full Name with titles and salutations", name: "full_name", widget: "string", hint: 'Pres. George Washington, PhD' }
+      - { label: "Click to slide right if this is a Chairperson",
+          name: "chair",
+          widget: "boolean",
+          default: false,
+        }
+      - {
+        label: "Public/Federal Member",
+        name: "member",
+        widget: "select",
+        options: ["public", "federal"],
+        }
+      - {
+          label: "Image",
+          name: "image",
+          widget: "image",
+          allow_multiple: false,
+          required: false,
+        }
+      - { label: "Bio", name: "bio", widget: "text", required: false }
+      - { label: "Agency", name: "agency", widget: "string", default: "", required: false }
+        - label: Board Members
+  - label: 504 contacts
+    name: 504-contacts
+    folder: _contacts/
+    create: true
+    slug: "{{name}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "unique agency name",
+          name: "name",
+          widget: "string",
+          hint: 'This is the abbreviated name of the agency with hyphens and in lowercase. ie("doj, hhs, hud")',
+        }
+      - { label: "Full Agency Name", name: "full_name", widget: "string", hint: 'Department of Health and Human Services' }
+      - {
+        label: "504 contact name",
+        name: "contact",
+        widget: "string",
+        default: "",
+        required: "false",
+        }
+      - {
+        label: "504 contact Job Title",
+        name: "job-title",
+        widget: "string",
+        default: "",
+        required: "false",
+        }
+      - {
+        label: "Department",
+        name: "department",
+        widget: "string",
+        default: "",
+        required: "false",
+        }
+      - {
+        label: "504 contact Email address",
+        name: "email",
+        widget: "string",
+        default: "",
+        required: "false",
+        }
+      - {
+        label: "504 contact phone number",
+        name: "phone",
+        widget: "string",
+        default: "",
+        required: "false",
+        }
+      - {
+        label: "General phone number",
+        name: "phone-g",
+        widget: "string",
+        default: "",
+        required: "false",
+        }
+      - {
+        label: "TTY",
+        name: "tty",
+        widget: "string",
+        default: "",
+        required: "false",
+        }
+      - {
+        label: "Fax",
+        name: "fax",
+        widget: "string",
+        default: "",
+        required: "false",
+        }
+      - {
+        label: "General Email address",
+        name: "email-g",
+        widget: "string",
+        default: "",
+        required: "false",
+        }
+      - {
+        label: "Website (504 specific URL)",
+        name: "website",
+        widget: "string",
+        default: "",
+        required: "false",
+        }
+      - {
+        label: "Mailing address",
+        name: "address",
+        widget: "text",
+        default: "",
+        required: "false",
+        }
