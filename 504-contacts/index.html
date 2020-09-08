@@ -1,0 +1,38 @@
+---
+layout: default
+permalink: /504-contacts/
+---
+
+<div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
+  <div class="grid-container">
+    <h1 class="text-normal text-white margin-0">Section 504 Contacts</h1>
+    <p class="text-base-lighter display-block padding-top-1 text-light">
+       Contacts at other federal agencies responsible for Section 504 compliance.
+    </p>
+  </div>
+</div>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="desktop:grid-col-8 usa-prose padding-right-4">
+      <!-- This loops through the paginated posts -->
+      {% for 504-contact in site.504-contacts %}
+      <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
+        <h3 class="title">{{504-contact.full_name}}</h3>
+        <p>
+          {{504-contact.contact}}<br>
+          {{504-contact.job-title}}<br>
+          {{504-contact.department}}<br>
+          <a href="mailto:{{504-contact.email}}">{{504-contact.email}}</a><br>
+          Direct Phone: {{504-contact.phone}}<br>
+          General Phone: {{504-contact.phone-g}}<br>
+          TTY: {{504-contact.tty}}<br>
+          Fax: {{504-contact.fax}}<br>
+          General Email: <a href="mailto:{{504-contact.email-g}}">{{504-contact.email-g}}</a><br>
+          <a href="{{504-contact.website}}">{{504-contact.website}}</a><br>
+          {{504-contact.address}}<br>
+        </p>
+      </div>
+      {% endfor %}
+    </div>
+  </div>
+</div>
