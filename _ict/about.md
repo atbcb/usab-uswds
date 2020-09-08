@@ -22,6 +22,6 @@ The Section 255 Guidelines cover telecommunications equipment and customer-premi
 * April 3, 2008 - The Advisory Committee presents its final report to the Board.
 * March 22, 2010 - The Board releases a [draft proposed rule](https://www.regulations.gov/document?D=ATBCB-2010-0001-0002) for public comment: [Docket](https://www.regulations.gov/docket?D=ATBCB-2010-0001).
 * December 8, 2011 - The Board issues a [revised draft proposed rule](https://www.regulations.gov/document?D=ATBCB-2011-0007-0001) for public comment: [Docket](https://www.regulations.gov/docket?D=ATBCB-2011-0007).
-* February 23, 2014 - The Board [ICT proposed rule](https://www.regulations.gov/document?D=ATBCB-2015-0002-0001) for public comment: [Docket](https://www.regulations.gov/docket?ATBCB-2015-0002).
+* February 23, 2014 - The Board [ICT proposed rule](https://www.regulations.gov/document?D=ATBCB-2015-0002-0001) for public comment: [Docket](https://www.regulations.gov/docket?D=ATBCB-2015-0002).
 * January 18, 2017 - The Board issues the [final rule](https://www.regulations.gov/document?D=ATBCB-2015-0002-0144).
 * January 22, 2018 - The Board issues [correction](https://www.regulations.gov/document?D=ATBCB-2015-0002-0146) to the final rule to restore provisions for TTY access. 
