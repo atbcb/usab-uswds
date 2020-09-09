@@ -2,9 +2,11 @@
     <div class="grid-container margin-y-3 text-center">
     <a class="text-primary text-no-underline" href="#">
         {% asset angle-arrow-up-primary.svg class="usa-media-block__img padding-1 center" aria-hidden="true" %}
-        Back to Top
+          {% if include.is_spanish %}
+            Volver Arriba
+          {% else %}
+            Back to Top
+          {% endif %}
     </a>
     </div>
 </section>
-
-

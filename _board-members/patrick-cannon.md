@@ -2,6 +2,7 @@
 name: patrick-cannon
 full_name: Patrick D. Cannon
 chair: false
+vice-chair: false
 member: public
 image: /images/uploads/patrick-cannon.jpg
 bio: >-

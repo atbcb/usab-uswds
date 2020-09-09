@@ -185,11 +185,20 @@ collections:
           required: true,
         }
       - { 
-          label: "Click to slide right if this is a Chairperson",
+          label: "Chairperson",
           name: "chair",
           widget: "boolean",
           default: false,
           required: true,
+          hint: "If yes, Click to slide right",
+        }
+      - { 
+          label: "Vice-Chairperson",
+          name: "vice-chair",
+          widget: "boolean",
+          default: false,
+          required: true,
+          hint: "If yes, Click to slide right",
         }
       - {
           label: "Public/Federal Member",
@@ -311,6 +320,27 @@ collections:
         label: "Mailing address",
         name: "address",
         widget: "text",
+        default: "",
+        required: false,
+        }
+      - {
+        label: "Notes",
+        name: "notes",
+        widget: "text",
+        default: "",
+        required: false,
+        }
+      - {
+        label: "CFR Assisted",
+        name: "cfr-assisted",
+        widget: "string",
+        default: "",
+        required: false,
+        }
+      - {
+        label: "CFR Conducted",
+        name: "cfr-conducted",
+        widget: "string",
         default: "",
         required: false,
         }

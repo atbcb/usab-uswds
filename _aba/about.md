@@ -17,7 +17,7 @@ This edition of the ABA Accessibility Standards has been adopted by GSA, DOD, an
 -   [DOD policy memorandum](https://federalist-e3fba26d-2806-4f02-bf0e-89c97cfba93c.app.cloud.gov/site/atbcb/usab-uswds/aba/index.php?option=com_content&view=article&id=263&Itemid=1548)
 -   [USPS notice](http://www.gpo.gov/fdsys/pkg/FR-2005-05-17/html/05-9745.htm)
 
-HUD has not yet adopted this version of the standards and continues to apply the [Uniform Federal Accessibility Standards (UFAS)](https://www.access-board.gov/index.php?option=com_content&view=article&id=1368&Itemid=1546) to residential facilities under its jurisdiction.
+HUD has not yet adopted this version of the standards and continues to apply the [Uniform Federal Accessibility Standards (UFAS)]({{ site.baseurl }}/ufas/) to residential facilities under its jurisdiction.
 
 The Access Board provides technical assistance and training on the ABA Standards and UFAS.  It also enforces the ABA Standards through the investigation of complaints.
 

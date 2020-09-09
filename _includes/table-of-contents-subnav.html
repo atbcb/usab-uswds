@@ -9,7 +9,11 @@
           aria-expanded="true"
           aria-controls="subnav-list"
         >
-          Table of Contents
+          {% if include.is_spanish %}
+            Tabla de Contenido
+          {% else %}
+            Table of Contents
+          {% endif %}
         </button>
         <ul id="subnav-list" class="usa-accordion__content usa-sidenav__sublist">
           {% for chapter in ordered_chapters %}
