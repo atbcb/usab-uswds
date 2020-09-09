@@ -16,13 +16,13 @@ Both standards are very similar and are closely based on the Board's ADA Accessi
 
 DOJ's ADA standards (2010) became mandatory on March 15, 2012.  They include provisions that modify certain portions of Chapters 1-10, including provisions addressing the following areas:
 
--   Assembly Areas ([221](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#221%20Assembly%20Areas))
--   Medical Care Facilities (section [223](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#223%20Medical%20Care%20and%20Long-Term%20Care%20Facilities))
--   Places of Lodging (sections [224](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#224%20Transient%20Lodging%20Guest%20Rooms))
--   Housing at Places of Education ([224](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#224%20Transient%20Lodging%20Guest%20Rooms) and [233](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#233%20Residential%20Facilities))
--   Detention and Correctional Facilities (section [232](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#232%20Detention%20Facilities%20and%20Correctional%20Facilities))
--   Social Service Center Establishments ([233](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#233%20Residential%20Facilities))
--   Residential Dwelling Units (section [233](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#233%20Residential%20Facilities))
+-   Assembly Areas ([221](#ada-221))
+-   Medical Care Facilities ([223](#ada-223))
+-   Places of Lodging ([224](#ada-224))
+-   Housing at Places of Education ([224](#ada-224) and [233](#ada-233))
+-   Detention and Correctional Facilities (section [232](#ada-232))
+-   Social Service Center Establishments ([233](#ada-233))
+-   Residential Dwelling Units ([233](#ada-233))
 
 See also on DOJ's website at [www.ada.gov](http://www.ada.gov/):
 
@@ -34,10 +34,10 @@ See also on DOJ's website at [www.ada.gov](http://www.ada.gov/):
 ![DOT seal]({{ site.baseurl }}/images/dot-seal.jpg){: .float-right .thumbnail}
 DOT's ADA standards (2006) apply to facilities used by state and local governments to provide designated public transportation services, including bus stops and stations, and rail stations.  They include unique provisions concerning:
 
--   Location of Accessible Routes ([206.3](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#206%20Accessible%20Routes))
--   Detectable Warnings on Curb Ramps ([406.8](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-4-accessible-routes#406%20Curb%20Ramps))
--   Bus Boarding and Alighting Areas ([810.2.2](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-8-special-rooms,-spaces,-and-elements#810%20Transportation%20Facilities))
--   Rail Station Platforms ([810.5.3](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-8-special-rooms,-spaces,-and-elements#810%20Transportation%20Facilities))
+-   Location of Accessible Routes ([206.3](#ada-206_3))
+-   Detectable Warnings on Curb Ramps ([406.8](#ada-406_8))
+-   Bus Boarding and Alighting Areas ([810.2.2](#ada-810_2_2))
+-   Rail Station Platforms ([810.5.3](#ada-810_5_3))
 
 See also on DOT's website:
 
