@@ -3,7 +3,7 @@ title: Subpart F-Intercity Rail Cars and Systems
 order-number: 6
 ---
 
-**§1192.111 General.**
+### §1192.111 General.
 
 (a) New, used and remanufactured intercity rail cars, to be considered accessible by regulations issued by the Department of Transportation in 49 CFR part 37, shall comply with this subpart to the extent required for each type of car as specified below.
 
@@ -27,7 +27,7 @@ order-number: 6
 
 (e) Existing cars retrofitted to meet the seating requirements of 49 CFR 37.91 shall comply with §§1192.113(e), 1192.123, 1192.125(d) and shall have at least one door on each side from which passengers board complying with §1192.113(d). Existing cars designed and manufactured to be accessible in accordance with Department of Transportation regulations implementing section 504 of the Rehabilitation Act of 1973 that were in effect before October 7, 1991, shall comply with §1192.125(a).
 
-**§1192.113 Doorways.**
+### §1192.113 Doorways.
 
 (a) *Clear width*. (1) At least one doorway, on each side of the car from which passengers board, of each car required to be accessible by §1192.111(a) and where the spaces required by §1192.111(d) are located, and at least one adjacent doorway into coach passenger compartments shall have a minimum clear opening width of 32 inches.
 
@@ -47,9 +47,9 @@ order-number: 6
 
 (e) *Signage*. The International Symbol of Accessibility shall be displayed on the exterior of all doors complying with this section unless all cars and doors are accessible and are not marked by the access symbol. (See Fig. 6) Appropriate signage shall also indicate which accessible doors are adjacent to an accessible restroom, if applicable.
 
-![1 large stylized image of an outline of a figure in a wheel chair on a grid background and 2 smaller images of the same figure on black and white backgrounds.  ](https://www.access-board.gov/images/guidelines_standards/Transportation/Vehicle_Guidance/tfig6.gif)
+![1 large stylized image of an outline of a figure in a wheel chair on a grid background and 2 smaller images of the same figure on black and white backgrounds.  ]({{ site.baseurl }}{{ page.image-directory }}tfig6.gif){: .img-large}
 
-**§1192.115 Interior circulation, handrails and stanchions.**
+### §1192.115 Interior circulation, handrails and stanchions.
 
 (a) Where provided, handrails or stanchions within the passenger compartment shall be placed to permit sufficient turning and maneuvering space for wheelchairs and other mobility aids to reach a seating location, complying with §1192.125(d), from an accessible entrance. The diameter or width of the gripping surface of interior handrails and stanchions shall be 11/4 inches to 11/2 inches or shall provide an equivalent gripping surface. Handrails shall be placed to provide a minimum 1-1/2 inches knuckle clearance from the nearest adjacent surface.
 
@@ -57,25 +57,25 @@ order-number: 6
 
 (c) At entrances equipped with steps, handrails or stanchions shall be provided in the entrance to the car in a configuration which allows passengers to grasp such assists from outside the car while starting to board, and to continue using such assists throughout the boarding process, to the extent permitted by 49 CFR part 231.
 
-**§1192.117 Floors, steps and thresholds.**
+### §1192.117 Floors, steps and thresholds.
 
 (a) Floor surfaces on aisles, step treads and areas where wheelchair and mobility aid users are to be accommodated shall be slip-resistant.
 
 (b) All step edges and thresholds shall have a band of color(s) running the full width of the step or threshold which contrasts from the step tread and riser or adjacent floor, either light-on-dark or dark-on-light.
 
-**§1192.119 Lighting.**
+### §1192.119 Lighting.
 
 (a) Any stepwell, or doorway with a lift, ramp or bridge plate, shall have, when the door is open, at least 2 footcandles of illumination measured on the step tread, ramp, bridge plate or lift platform.
 
 (b) The doorways of cars not operating at lighted station platforms shall have outside lights which, when the door is open, provide at least 1 footcandle of illumination on the station platform surface for a distance of 3 feet perpendicular to all points on the bottom step tread edge. Such lights shall be shielded to protect the eyes of entering and exiting passengers.
 
-**§1192.121 Public information system.**
+### §1192.121 Public information system.
 
 (a) Each car shall be equipped with a public address system permitting transportation system personnel, or recorded or digitized human speech messages, to announce stations and provide other passenger information. Alternative systems or devices which provide equivalent access are also permitted.
 
 (b) [Reserved]
 
-**§1192.123 Restrooms.**
+### §1192.123 Restrooms.
 
 (a) If a restroom is provided for the general public, and an accessible restroom is required by §1192.111(a) and (e), it shall be designed so as to allow a person using a wheelchair or mobility aid to enter and use such restroom as specified in paragraphs (a)(1) through (5) of this section.
 
@@ -91,7 +91,7 @@ order-number: 6
 
 (b) Restrooms required to be accessible shall be in close proximity to at least one seating location for persons using mobility aids complying with §1192.125(d) and shall be connected to such a space by an unobstructed path having a minimum width of 32 inches.
 
-**§1192.125 Mobility aid accessibility.**
+### §1192.125 Mobility aid accessibility.
 
 (a)(1) *General*. All intercity rail cars, other than level entry cars, required to be accessible by §1192.111(a) and (e) of this subpart shall provide a level-change mechanism or boarding device (e.g., lift, ramp or bridge plate) complying with either paragraph (b) or (c); of this section and sufficient clearances to permit a wheelchair or other mobility aid user to reach a seating location complying with paragraph (d) of this section.
 
@@ -113,7 +113,7 @@ order-number: 6
 
 (6) *Platform surface*. The lift platform surface shall be free of any protrusions over ¼ inch high and shall be slip resistant. The lift platform shall have a minimum clear width of 28-1/2 inches at the platform, a minimum clear width of 30 inches measured from 2 inches above the lift platform surface to 30 inches above the surface, and a minimum clear length of 48 inches measured from 2 inches above the surface of the platform to 30 inches above the surface. (See Fig. 1)
 
-![The required clear space (envelope) for a wheelchair or mobility aid is a minimum 48 inches long and a minimum 30 inches wide, measured at 2 inches above the floor or platform surface, and extending to a height of 30 inches minimum above the floor or platform surface. The minimum clear width at the floor or platform surface is 28-1/2 inches.  ](https://www.access-board.gov/images/guidelines_standards/Transportation/Vehicle_Guidance/tranfig1.jpg)
+![The required clear space (envelope) for a wheelchair or mobility aid is a minimum 48 inches long and a minimum 30 inches wide, measured at 2 inches above the floor or platform surface, and extending to a height of 30 inches minimum above the floor or platform surface. The minimum clear width at the floor or platform surface is 28-1/2 inches.  ]({{ site.baseurl }}{{ page.image-directory }}tranfig1.jpg){: .img-large}
 
 (7) *Platform gaps*. Any openings between the lift platform surface and the raised barriers shall not exceed 5/8 inch wide. When the lift is at car floor height with the inner barrier (if applicable) down or retracted, gaps between the forward lift platform edge and car floor shall not exceed ½ inch horizontally and 5/8 inch vertically. Platforms on semi-automatic lifts may have a hand hold not exceeding 1-1/2 inches by 4-1/2 inches located between the edge barriers.
 
@@ -151,15 +151,15 @@ order-number: 6
 
 (2) *Wheelchair or mobility aid spaces*. Spaces for persons who wish to remain in their wheelchairs or mobility aids shall have a minimum clear floor area 48 inches by 30 inches. Such space may have fold-down or removable seats for use when not occupied by a wheelchair or mobility aid user. (See Fig. 2)
 
-![A maximum of 6 inches of toe space of the 48 inches required for a wheelchair or mobility aid may extend under a seat, modesty panel, or other fixed element if there is a minimum of 9 inches of vertical clearance under the element.  ](https://www.access-board.gov/images/guidelines_standards/Transportation/Vehicle_Guidance/tranfig2.jpg)
+![A maximum of 6 inches of toe space of the 48 inches required for a wheelchair or mobility aid may extend under a seat, modesty panel, or other fixed element if there is a minimum of 9 inches of vertical clearance under the element.  ]({{ site.baseurl }}{{ page.image-directory }}tranfig2.jpg){: .img-large}
 
 (3) *Other spaces*. Spaces for individuals who wish to transfer shall include a regular coach seat or dining car booth or table seat and space to fold and store the passenger's wheelchair.
 
-**§1192.127 Sleeping compartments.**
+### §1192.127 Sleeping compartments.
 
 (a) Sleeping compartments required to be accessible shall be designed so as to allow a person using a wheelchair or mobility aid to enter, maneuver within and approach and use each element within such compartment. (See Fig. 5)
 
-![Layout of an intercity rail car with an accessible sleeping compartment. The center aisle from the vestibule leads directly to the accessible compartment door, where it jogs right to proceed along the outside of the car to other compartments. The accessible compartment is large enough for a wheelchair to turn around and has a restroom entered through a door within the compartment. A couch along one wall converts to a bed.  ](https://www.access-board.gov/images/guidelines_standards/Transportation/Vehicle_Guidance/tfig5.jpg)
+![Layout of an intercity rail car with an accessible sleeping compartment. The center aisle from the vestibule leads directly to the accessible compartment door, where it jogs right to proceed along the outside of the car to other compartments. The accessible compartment is large enough for a wheelchair to turn around and has a restroom entered through a door within the compartment. A couch along one wall converts to a bed.  ]({{ site.baseurl }}{{ page.image-directory }}tfig5.jpg){: .img-large}
 
 (b) Each accessible compartment shall contain a restroom complying with §1192.123(a) which can be entered directly from such compartment.
 

@@ -2,13 +2,13 @@
 title: Subpart G-Over-the-Road Buses and Systems
 order-number: 7
 ---
-**§1192.151 General.**
+### §1192.151 General.
 
 (a) New, used and remanufactured over-the-road buses, to be considered accessible by regulations issued by the Department of Transportation in 49 CFR part 37, shall comply with this subpart.
 
 (b) Over-the-road buses covered by 49 CFR 37.7(c) shall comply with §1192.23 and this subpart.
 
-**§1192.153 Doors, steps and thresholds.**
+### §1192.153 Doors, steps and thresholds.
 
 (a) Floor surfaces on aisles, step treads and areas where wheelchair and mobility aid users are to be accommodated shall be slip-resistant.
 
@@ -20,19 +20,19 @@ order-number: 7
 
 (d) The overhead clearance between the top of the lift door opening and the sill shall be the maximum practicable but not less than 65 inches (1651 mm).
 
-**§1192.155 Interior circulation, handrails and stanchions.**
+### §1192.155 Interior circulation, handrails and stanchions.
 
 (a) Handrails and stanchions shall be provided in the entrance to the vehicle in a configuration which allows passengers to grasp such assists from outside the vehicle while starting to board, and to continue using such handrails or stanchions throughout the boarding process. Handrails shall have a cross-sectional diameter between 11/4 inches and 11/2 inches or shall provide an equivalent grasping surface, and have eased edges with corner radii of not less than 1/8 inch. Handrails shall be placed to provide a minimum 1-1/2 inches knuckle clearance from the nearest adjacent surface. Where on-board fare collection devices are used, a horizontal passenger assist shall be located between boarding passengers and the fare collection device and shall prevent passengers from sustaining injuries on the fare collection device or windshield in the event of a sudden deceleration. Without restricting the vestibule space, the assist shall provide support for a boarding passenger from the door through the boarding procedure. Passengers shall be able to lean against the assist for security while paying fares.
 
 (b) Where provided within passenger compartments, handrails or stanchions shall be sufficient to permit safe on-board circulation, seating and standing assistance, and alighting by persons with disabilities.
 
-**§1192.157 Lighting.**
+### §1192.157 Lighting.
 
 (a) Any stepwell or doorway immediately adjacent to the driver shall have, when the door is open, at least 2 foot-candles of illumination measured on the step tread.
 
 (b) The vehicle doorway shall have outside light(s) which, when the door is open, provide at least 1 foot-candle of illumination on the pathway to the door for a distance of 3 feet (915 mm) to the bottom step tread or lift outer edge. Such light(s) shall be shielded to protect the eyes of entering and exiting passengers.
 
-**§1192.159 Mobility aid accessibility.**
+### §1192.159 Mobility aid accessibility.
 
 (a)(1) *General*. All vehicles covered by this subpart shall provide a level-change mechanism or boarding device (e.g., lift or ramp) complying with paragraph (b) or (c) of this section and sufficient clearances to permit a wheelchair or other mobility aid user to reach a securement location. At least two securement locations and devices, complying with paragraph (d) of this section, shall be provided.
 
@@ -52,7 +52,7 @@ order-number: 7
 
 (6) *Platform surface*. The platform surface shall be free of any protrusions of ¼ inch (6.5 mm) high and shall be slip resistant. The platform shall have a minimum clear width of 28½ inches (725 mm) at the platform, a minimum clear width of 30 inches (760 mm) measured from 2 inches (50 mm) above the platform surface to 30 inches (760 mm) above the platform, and a minimum clear length of 48 inches (1220 mm) measured from 2 inches (50 mm) above the surface of the platform to 30 inches (760 mm) above the surface of the platform. (See Figure 1)
 
-![The required clear space (envelope) for a wheelchair or mobility aid is a minimum 48 inches long and a minimum 30 inches wide, measured at 2 inches above the floor or platform surface, and extending to a height of 30 inches minimum above the floor or platform surface. The minimum clear width at the floor or platform surface is 28-1/2 inches.  ](https://www.access-board.gov/images/guidelines_standards/Transportation/Vehicle_Guidance/tranfig1.jpg)
+![The required clear space (envelope) for a wheelchair or mobility aid is a minimum 48 inches long and a minimum 30 inches wide, measured at 2 inches above the floor or platform surface, and extending to a height of 30 inches minimum above the floor or platform surface. The minimum clear width at the floor or platform surface is 28-1/2 inches.  ]({{ site.baseurl }}{{ page.image-directory }}tranfig1.jpg){: .img-large}
 
 (7) *Platform gaps*. Any openings between the platform surface and the raised barriers shall not exceed 5/8 inch (16 mm) in width. When the platform is at vehicle floor height with the inner barrier (if applicable) down or retracted, gaps between the forward lift platform edge and the vehicle floor shall not exceed ½ inch (13 mm) horizontally and 5/8 inch (16 mm) vertically. Platforms on semi-automatic lifts may have a hand hold not exceeding 1½ inches (28 mm) by 4½ inches (113 mm) located between the edge barriers.
 
@@ -88,7 +88,7 @@ order-number: 7
 
 (2) *Location and size*. The securement system shall be placed as near to the accessible entrance as practicable and shall have a clear floor area of 30 inches (760 mm) by 48 inches (1220 mm). Such space shall adjoin, and may overlap, an access path. Not more than 6 inches (150 mm) of the required clear floor space may be accommodated for footrests under another seat, modesty panel, or other fixed element provided there is a minimum of 9 inches (230 mm) from the floor to the lowest part of the seat overhanging the space. Securement areas may have fold-down seats to accommodate other passengers when a wheelchair or mobility aid is not occupying the area, provided the seats, when folded up, do not obstruct the clear floor space required. (See Figure 2)
 
-![A maximum of 6 inches of toe space of the 48 inches required for a wheelchair or mobility aid may extend under a seat, modesty panel, or other fixed element if there is a minimum of 9 inches of vertical clearance under the element.  ](https://www.access-board.gov/images/guidelines_standards/Transportation/Vehicle_Guidance/tranfig2.jpg)
+![A maximum of 6 inches of toe space of the 48 inches required for a wheelchair or mobility aid may extend under a seat, modesty panel, or other fixed element if there is a minimum of 9 inches of vertical clearance under the element.  {{ site.baseurl }}{{ page.image-directory }}tranfig2.jpg)
 
 (3) *Mobility aids accommodated.* The securement system shall secure common wheelchairs and mobility aids and shall either be automatic or easily attached by a person familiar with the system and mobility aid and having average dexterity.
 
@@ -100,6 +100,6 @@ order-number: 7
 
 (7) *Seat belt and shoulder harness*. For each wheelchair or mobility aid securement device provided, a passenger seat belt and shoulder harness, complying with all applicable provisions of the Federal Motor Vehicle Safety Standards (49 CFR part 571), shall also be provided for use by wheelchair or mobility aid users. Such seat belts and shoulder harnesses shall not be used in lieu of a device which secures the wheelchair or mobility aid itself.
 
-**§1192.161 Moveable aisle armrests.**
+### §1192.161 Moveable aisle armrests.
 
 A minimum of 50% of aisle seats, including all moveable or removable seats at wheelchair or mobility aide securement locations, shall have an armrest on the aisle side which can be raised, removed, or retracted to permit easy entry or exit.
