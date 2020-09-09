@@ -1,4 +1,5 @@
 ---
+layout: profile
 name: lance-robertson
 full_name: Lance Robertson
 chair: true

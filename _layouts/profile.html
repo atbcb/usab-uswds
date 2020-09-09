@@ -1,0 +1,24 @@
+---
+layout: default
+---
+
+{% comment %}
+  This is used in authors posts. The index page can be found at authors/index.html
+  TODO - Add functionality to add all related news articles written or contributed to the author.
+{% endcomment %}
+
+<div class="usa-layout-docs usa-section">
+  <div class="grid-container maxw-desktop">
+    <div class="grid-row grid-gap">
+      <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
+
+        <h1 class="title">{{page.full_name}}</h1>
+            <span class="text-base text-bold">{{ page.agency }}</span>
+          {% if page.bio %}
+            <img class="float-right" src="{{ site.baseurl }}{{page.image}}">
+            <p>{{ page.bio }}</p>
+          {% endif %}  
+      </div>
+    </div>
+  </div>
+</div>

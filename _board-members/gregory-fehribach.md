@@ -1,4 +1,5 @@
 ---
+layout: profile
 name: gregory-fehribach
 full_name: Gregory S. Fehribach
 chair: false
