@@ -2,6 +2,7 @@
 name: lance-robertson
 full_name: Lance Robertson
 chair: true
+vice-chair: false
 member: federal
 image: /images/uploads/lance-robertson.jpg
 bio: >-

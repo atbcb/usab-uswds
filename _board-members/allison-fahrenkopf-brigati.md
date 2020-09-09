@@ -2,6 +2,7 @@
 name: allison-fahrenkopf-brigati
 full_name: Allison Fahrenkopf Brigati
 chair: false
+vice-chair: false
 member: federal
 image: /images/uploads/allison-brigati.jpg
 bio: >-

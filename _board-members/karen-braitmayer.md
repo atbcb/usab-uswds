@@ -2,6 +2,7 @@
 name: karen-braitmayer
 full_name: 'Karen L. Braitmayer, FAIA'
 chair: false
+vice-chair: false
 member: public
 image: /images/uploads/karen-braitmayer.png
 bio: >-
