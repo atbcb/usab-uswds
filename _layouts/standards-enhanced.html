@@ -18,7 +18,10 @@ layout: default
       {% include {{ page.left-sidenav }} %}
       {% endif %}
       <div id="standard" class="desktop:grid-col usa-prose">
-        {% if page.title %}<h2 class="text-center text-italic font-heading-md">{{page.title}}</h2>{% endif %}
+ {%- comment -%}
+    {% if page.title %}<h2 class="text-center text-italic font-heading-md">{{page.title}}</h2>{% endif %}
+ {%- endcomment -%}
+        
         {% if page.file %}
         <div class="clearfix">
             <span class="float-right">{{ page.file-description }}
