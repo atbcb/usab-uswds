@@ -2,8 +2,11 @@
 layout: default
 ---
 
-
-<div class="usa-layout-docs">
+{% if page.collection == 'es' %}
+  <div class="usa-layout-docs" lang="es">
+{% else %}
+  <div class="usa-layout-docs">
+{% endif %}
   <div id="section-title" class="bg-primary-darker usa-content font-serif-lg padding-y-3">
     <div class="grid-container text-center maxw-desktop">
       <h1 class="text-normal text-white margin-0">{{ page.collection-title }}</h1>
@@ -14,8 +17,11 @@ layout: default
   </div>
   <div class="grid-container">
     <div class="grid-row grid-gap">
-      {% include table-of-contents-subnav.html %}
-
+      {% if page.collection == 'es' %}
+        {% include table-of-contents-subnav.html is_spanish = true %}
+      {% else %}
+        {% include table-of-contents-subnav.html %}
+      {% endif %}
       <div id="standard" class="desktop:grid-col usa-prose margin-2">
         <h2>{{page.title}}</h2>
         {% if page.file %}
@@ -30,7 +36,11 @@ layout: default
 
         {% endif %}
         <div>{{ content }}</div>
+      {% if page.collection == 'es' %}
+        {% include back-to-top.html is_spanish = true %}
+      {% else %}
         {% include back-to-top.html %}
+      {% endif %}
 
       </div>
 
@@ -40,28 +50,3 @@ layout: default
     </div>
   </div>
 </div>
-
-<!--
-<script>
-  {
-    // console.log("toc script")
-    var x = document.getElementById("standard").querySelectorAll("h3");
-    var i;
-    for (i = 0; i < x.length; i++) {
-      var section = x[i].innerText;
-      // console.log(section);
-
-
-      var idtag = section.replace(/ /g,"-");
-      x[i].setAttribute("id",idtag);
-
-      // console.log(idtag);
-
-    var li = "<li><a href=\"#" + idtag + "\">" + section + "</a></li>";
-      // console.log(li);
-    document.getElementById("subsections").innerHTML += li;
-
-    };
-    //alert("TOC successfully loaded!");
-  };
-  </script> -->
