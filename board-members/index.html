@@ -1,21 +1,38 @@
 ---
 layout: default
-permalink: /board-members2/
+permalink: /board-members/
 ---
 
 <div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
-  <div class="grid-container">
+  <div class="grid-container maxw-desktop">
     <h1 class="text-normal text-white margin-0">Board Members</h1>
     <p class="text-base-lighter display-block padding-top-1 text-light">
       People appointed to the U.S. Access Board.
     </p>
   </div>
 </div>
-<div class="grid-container">
+<div class="grid-container maxw-desktop">
   <div class="grid-row">
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
+      {% assign p-members = site.board-members | where: "member", "public" %}
+      {% assign f-members = site.board-members | where: "member", "federal" %}
+      <h2>Public Members</h2>
       <!-- This loops through the paginated posts -->
-      {% for board-member in site.board-members %}
+      {% for member in p-members %}
+      <div class="usa-graphic-list__row grid-row grid-gap margin-y-2">
+        <div class="usa-media-block">
+          <img class="usa-media-block__img width-15 border-2px radius-lg" src="{{member.image}}" alt="Profile picture of {{member.full_name}}">
+          <div class="usa-media-block__body">
+            <a class="usa-link text-no-underline" href="{{ site.baseurl }}/board-members/{{ member.name }}">
+              <h3 class="usa-graphic-list__heading">{{member.full_name}}</h3>
+            </a>
+          </div>
+        </div>
+      </div>
+      {% endfor %}
+
+      <h2>Federal Members</h2>
+      {% for member in f-members %}
       <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
         <h3 class="title">
           <a class="usa-link text-no-underline" href="{{ site.baseurl }}/board-members/{{ board-member.name }}">{{board-member.full_name}}</a>
@@ -27,6 +44,8 @@ permalink: /board-members2/
         </div>
       </div>
       {% endfor %}
+
+      <h2>Past Members</h2>
     </div>
   </div>
 </div>

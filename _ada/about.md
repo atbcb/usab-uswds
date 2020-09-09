@@ -27,7 +27,7 @@ The US Access Board has developed guides to the ADA Standards in cooperation wit
 
 ### Background
 
-- July 26, 1991 -- The Board publishes the original ADA Accessibility Guidelines (ADAAG), which are also adopted as standards by DOJ on the same day.
+- July 26, 1991 -- The Board publishes the original [ADA Accessibility Guidelines (ADAAG)]({{ site.baseurl }}/adaag-1991-2002.html), which are also adopted as standards by DOJ on the same day.
 
 - September 6, 1991 -- The Board publishes the original ADAAG for Transportation Facilities, which are also adopted by DOT on the same day.
 

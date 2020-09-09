@@ -1,7 +1,9 @@
 ---
+layout: profile
 name: gregory-fehribach
 full_name: Gregory S. Fehribach
-chair: true
+chair: false
+vice-chair: true
 member: public
 image: /images/uploads/gregory-fehribach.jpg
 bio: >-
