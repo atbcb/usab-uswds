@@ -3,7 +3,7 @@ title: Subpart H-Other Vehicles and Systems
 order-number: 8
 ---
 
-**§1192.171 General.**
+### §1192.171 General.
 
 (a) New, used and remanufactured vehicles and conveyances for systems not covered by other subparts of this part, to be considered accessible by regulations issued by the Department of Transportation in 49 CFR part 37, shall comply with this subpart.
 
@@ -11,7 +11,7 @@ order-number: 8
 
 (c) Requirements for vehicles and systems not covered by this part shall be determined on a case-by-case basis by the Department of Transportation in consultation with the U. S. Architectural and Transportation Barriers Compliance Board (Access Board)
 
-**§1192.173 Automated guideway transit vehicles and systems.**
+### §1192.173 Automated guideway transit vehicles and systems.
 
 (a) Automated Guideway Transit (AGT) vehicles and systems, sometimes called "people movers", operated in airports and other areas where AGT vehicles travel at slow speed, shall comply with the provisions of §§1192.53(a) through (c);, and 1192.55 through 1192.61 for rapid rail vehicles and systems.
 
@@ -21,15 +21,15 @@ order-number: 8
 
 (d) Light rail and rapid rail AGT vehicles and systems shall comply with subparts D and C of this part, respectively.
 
-**§1192.175 High-speed rail cars, monorails and systems.**
+### §1192.175 High-speed rail cars, monorails and systems.
 
 (a) All cars for high-speed rail systems, including but not limited to those using "maglev" or high speed steel-wheel-on-steel-rail technology, and monorail systems operating primarily on dedicated rail (i.e., not used by freight trains) or guideway, in which stations are constructed in accordance with subpart C of 49 CFR part 37, shall be designed for high-platform, level boarding and shall comply with §1192.111(a) for each type of car which is similar to intercity rail, §§1192.111(d), 1192.113(a) through (c); and (e), 1192.115(a) and (b), 1192.117(a) and (b), 1192.121 through 1192.123, 1192.125(d), and 1192.127 (if applicable). The design of cars shall be coordinated with the boarding platform design such that the horizontal gap between a car door at rest and the platform shall be no greater than 3 inches and the height of the car floor shall be within plus or minus 5/8 inch of the platform height under all normal passenger load conditions. Vertical alignment may be accomplished by car air suspension or other suitable means of meeting the requirement. All doorways shall have, when the door is open, at least 2 footcandles of illumination measured on the door threshold.
 
 (b) All other high-speed rail cars shall comply with the similar provisions of subpart F of this part.
 
-**§1192.177 Ferries, excursion boats and other vessels.** [Reserved]
+### §1192.177 Ferries, excursion boats and other vessels. [Reserved]
 
-**§1192.179 Trams, similar vehicles and systems.**
+### §1192.179 Trams, similar vehicles and systems.
 
 (a) New and used trams consisting of a tractor unit, with or without passenger accommodations, and one or more passenger trailer units, including but not limited to vehicles providing shuttle service to remote parking areas, between hotels and other public accommodations, and between and within amusement parks and other recreation areas, shall comply with this section. For purposes of determining applicability of 49 CFR 37.101, 37.103, or 37.105, the capacity of such a vehicle or "train" shall consist of the total combined seating capacity of all units, plus the driver, prior to any modification for accessibility.
 

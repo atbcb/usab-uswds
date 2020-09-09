@@ -3,7 +3,7 @@ title: Subpart D-Light Rail Vehicles and Systems
 order-number: 4
 ---
 
-**§1192.71 General.**
+### §1192.71 General.
 
 (a) New, used and remanufactured light rail vehicles, to be considered accessible by regulations issued by the Department of Transportation in 49 CFR part 37, shall comply with this subpart.
 
@@ -15,7 +15,7 @@ order-number: 4
 
 (d) Existing vehicles retrofitted to comply with the "one-car-per-train rule" at 49 CFR 37.93 shall comply with §§1192.75, 1192.77(c), 1192.79(a) and 1192.83(a) and shall have, in new and key stations, at least one door which complies with §1192.73(a)(1), (b) and (d). Vehicles previously designed and manufactured in accordance with the accessibility requirements of 49 CFR part 609 or Department of Transportation regulations implementing section 504 of the Rehabilitation Act of 1973 that were in effect before October 7, 1991 and which can be entered and used from stations in which they are to be operated, may be used to satisfy the requirements of 49 CFR 37.93.
 
-**§1192.73 Doorways.**
+### §1192.73 Doorways.
 
 (a) *Clear width*. (1) All passenger doorways on vehicle sides shall have minimum clear openings of 32 inches when open.
 
@@ -23,7 +23,7 @@ order-number: 4
 
 (b) *Signage*. The International Symbol of Accessibility shall be displayed on the exterior of each vehicle operating on an accessible light rail system unless all vehicles are accessible and are not marked by the access symbol. (See Fig. 6)
 
-![tfig6](https://www.access-board.gov/images/guidelines_standards/Transportation/Vehicle_Guidance/tfig6.gif)
+![tfig6]({{ site.baseurl }}{{ page.image-directory }}tfig6.gif){: .img-large}
 
 (c) *Signals*. Auditory and visual warning signals shall be provided to alert passengers of closing doors.
 
@@ -35,7 +35,7 @@ order-number: 4
 
 (4) *Exception*. Where it is not operationally or structurally practicable to meet the horizontal or vertical requirements of paragraphs (d)(1), (2) or (3) of this section, platform or vehicle devices complying with §1192.83(b) or platform or vehicle mounted ramps or bridge plates complying with §1192.83(c) shall be provided.
 
-**§1192.75 Priority seating signs.**
+### §1192.75 Priority seating signs.
 
 (a) Each vehicle shall contain sign(s) which indicate that certain seats are priority seats for persons with disabilities, and that other passengers should make such seats available to those who wish to use them.
 
@@ -43,7 +43,7 @@ order-number: 4
 
 (c) Characters on signs required by paragraphs (a) or (b) of this section shall have a width-to-height ratio between 3:5 and 1:1 and a stroke width-to-height ratio between 1:5 and 1:10, with a minimum character height (using an upper case "X") of 5/8 inch, with "wide" spacing (generally, the space between letters shall be 1/16 the height of upper case letters), and shall contrast with the background, either light-on-dark or dark-on-light.
 
-**§1192.77 Interior circulation, handrails and stanchions.**
+### §1192.77 Interior circulation, handrails and stanchions.
 
 (a) Handrails and stanchions shall be sufficient to permit safe boarding, on-board circulation, seating and standing assistance, and alighting by persons with disabilities.
 
@@ -51,13 +51,13 @@ order-number: 4
 
 (c) At all doors on level-entry vehicles, and at each entrance accessible by lift, ramp, bridge plate or other suitable means, handrails, stanchions, passenger seats, vehicle driver seat platforms, and fare boxes, if applicable, shall be located so as to allow a route at least 32 inches wide so that at least two wheelchair or mobility aid users can enter the vehicle and position the wheelchairs or mobility aids in areas, each having a minimum clear space of 48 inches by 30 inches, which do not unduly restrict movement of other passengers. Space to accommodate wheelchairs and mobility aids may be provided within the normal area used by standees and designation of specific spaces is not required. Particular attention shall be given to ensuring maximum maneuverability immediately inside doors. Ample vertical stanchions from ceiling to seat-back rails shall be provided. Vertical stanchions from ceiling to floor shall not interfere with wheelchair or mobility aid circulation and shall be kept to a minimum in the vicinity of accessible doors.
 
-**§1192.79 Floors, steps and thresholds.**
+### §1192.79 Floors, steps and thresholds.
 
 (a) Floor surfaces on aisles, step treads, places for standees, and areas where wheelchair and mobility aid users are to be accommodated shall be slip-resistant.
 
 (b) All thresholds and step edges shall have a band of color(s) running the full width of the step or threshold which contrasts from the step tread and riser or adjacent floor, either light-on-dark or dark-on-light.
 
-**§1192.81 Lighting.**
+### §1192.81 Lighting.
 
 (a) Any stepwell or doorway with a lift, ramp or bridge plate immediately adjacent to the driver shall have, when the door is open, at least 2 footcandles of illumination measured on the step tread or lift platform.
 
@@ -65,7 +65,7 @@ order-number: 4
 
 (c) The doorways of vehicles not operating at lighted station platforms shall have outside lights which provide at least 1 footcandle of illumination on the station platform or street surface for a distance of 3 feet perpendicular to all points on the bottom step tread. Such lights shall be located below window level and shielded to protect the eyes of entering and exiting passengers.
 
-**§1192.83 Mobility aid accessibility.**
+### §1192.83 Mobility aid accessibility.
 
 (a)(1) *General*. All new light rail vehicles, other than level entry vehicles, covered by this subpart shall provide a level-change mechanism or boarding device (e.g., lift, ramp or bridge plate) complying with either paragraph (b) or (c); of this section and sufficient clearances to permit at least two wheelchair or mobility aid users to reach areas, each with a minimum clear floor space of 48 inches by 30 inches, which do not unduly restrict passenger flow. Space to accommodate wheelchairs and mobility aids may be provided within the normal area used by standees and designation of specific spaces is not required.
 
@@ -87,7 +87,7 @@ order-number: 4
 
 (6) *Platform surface*. The lift platform surface shall be free of any protrusions over ¼ inch high and shall be slip resistant. The lift platform shall have a minimum clear width of 28-1/2 inches at the platform, a minimum clear width of 30 inches measured from 2 inches above the lift platform surface to 30 inches above the surface, and a minimum clear length of 48 inches measured from 2 inches above the surface of the platform to 30 inches above the surface. (See Fig. 1)
 
-![The required clear space (envelope) for a wheelchair or mobility aid is a minimum 48 inches long and a minimum 30 inches wide, measured at 2 inches above the floor or platform surface, and extending to a height of 30 inches minimum above the floor or platform surface. The minimum clear width at the floor or platform surface is 28-1/2 inches.  ](https://www.access-board.gov/images/guidelines_standards/Transportation/Vehicle_Guidance/tranfig1.jpg)
+![The required clear space (envelope) for a wheelchair or mobility aid is a minimum 48 inches long and a minimum 30 inches wide, measured at 2 inches above the floor or platform surface, and extending to a height of 30 inches minimum above the floor or platform surface. The minimum clear width at the floor or platform surface is 28-1/2 inches.  ]({{ site.baseurl }}{{ page.image-directory }}tranfig1.jpg){: .img-large}
 
 (7) *Platform gaps*. Any openings between the lift platform surface and the raised barriers shall not exceed 5/8 inch wide. When the lift is at vehicle floor height with the inner barrier (if applicable) down or retracted, gaps between the forward lift platform edge and vehicle floor shall not exceed ½ inch horizontally and 5/8 inch vertically. Platforms on semi-automatic lifts may have a hand hold not exceeding 1-1/2 inches by 4-1/2 inches located between the edge barriers.
 
@@ -121,11 +121,11 @@ order-number: 4
 
 (8) *Handrails*. If provided, handrails shall allow persons with disabilities to grasp them from outside the vehicle while starting to board, and to continue to use them throughout the boarding process, and shall have the top between 30 inches and 38 inches above the ramp surface. The handrails shall be capable of withstanding a force of 100 pounds concentrated at any point on the handrail without permanent deformation of the rail or its supporting structure. The handrail shall have a cross-sectional diameter between 11/4 inches and 11/2 inches or shall provide an equivalent grasping surface, and have eased edges with corner radii of not less than 1/8 inch. Handrails shall not interfere with wheelchair or mobility aid maneuverability when entering or leaving the vehicle.
 
-**§1192.85 Between-car barriers**
+### §1192.85 Between-car barriers
 
 Where vehicles operate in a high-platform, level-boarding mode, devices or systems shall be provided to prevent, deter or warn individuals from inadvertently stepping off the platform between cars. Appropriate devices include, but are not limited to, pantograph gates, chains, motion detectors or other suitable devices.
 
-**§1192.87 Public information system.**
+### §1192.87 Public information system.
 
 (a) Each vehicle shall be equipped with an interior public address system permitting transportation system personnel, or recorded or digitized human speech messages, to announce stations and provide other passenger information. Alternative systems or devices which provide equivalent access are also permitted.
 
