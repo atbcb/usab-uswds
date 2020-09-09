@@ -13,6 +13,18 @@ Accessibility standards issued under theAmericans with Disabilities Act (ADA) ap
 
 The Department of Justice (DOJ) and the Department of Transportation (DOT) issue the ADA Standards.  DOJ's ADA Standards apply to all facilities except public transportation facilities, which are subject to DOT's ADA Standards.  This version of the ADA Standards combines both documents and notes unique provisions in the DOJ Standards and the DOT Standards.  The Access Board is responsible for providing technical assistance and training on these Standards. 
 
+
+### Guide to the ADA Standards
+The US Access Board has developed guides to the ADA Standards in cooperation with DOJ and DOT.
+
+{%
+    include big-button.html
+    link= "/ada/guides/"
+    text= "Guide to the ADA Standards"
+%}
+
+
+
 ### Background
 
 - July 26, 1991 -- The Board publishes the original ADA Accessibility Guidelines (ADAAG), which are also adopted as standards by DOJ on the same day.

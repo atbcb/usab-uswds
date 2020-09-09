@@ -1,12 +1,12 @@
 ---
-title:  Enhanced Single File Version
+title:  ADA Accessibility Standards
 layout: standards-enhanced
 permalink: /ada/
 collection-title: "Americans with Disabilities Act"
 collection-subtitle: "Accessibility Standards"
 file-directory: /files/ada-aba/
 image-directory: /images/ada-aba/standards/
-left-sidenav: enhanced-toc-ada.html
+left-sidenav: table-of-contents-ada.html
 right-sidenav: sidenav-ada.html
 ---
 <div class="usa-accordion" aria-multiselectable="true">
@@ -22,18 +22,20 @@ right-sidenav: sidenav-ada.html
     </h1>
     <div id="about" class="usa-accordion__content usa-prose">
         {{chapter.content | markdownify}}
-        {% include big-button.html
-            link= "/ada/guides/"
-            text= "Guide to the ADA Standards"
-            %}
     </div>
+{% endfor %}
+
+{% assign ada-chapters = site.ada | where: "title","Introduction to the ADA standards" %}
+{% for chapter in ada-chapters %}
+    <h1>{{chapter.title}}</h1>
+    <div class="usa-prose">{{chapter.content | markdownify}}</div>
 {% endfor %}
 
 {% assign ada-chapters = site.ada | where: "title","DOJ’s 2010 ADA Standards" %}
 {% for chapter in ada-chapters %}
     <h1 class="usa-accordion__heading">
         <button class="usa-accordion__button"
-        aria-expanded="true"
+        aria-expanded="false"
         aria-controls="doj">
         {{chapter.title}}
       </button>
