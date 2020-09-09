@@ -19,11 +19,15 @@ permalink: /board-members/
       <h2>Public Members</h2>
       <!-- This loops through the paginated posts -->
       {% for member in p-members %}
-      <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
-        <h3 class="title">
-          <a class="usa-link text-no-underline" href="{{ site.baseurl }}/board-members/{{ member.name }}">{{member.full_name}}</a>
-        </h3>
-        <img src="{{member.image}}" alt="Profile picture of {{member.full_name}}">
+      <div class="usa-graphic-list__row grid-row grid-gap margin-y-2">
+        <div class="usa-media-block">
+          <img class="usa-media-block__img width-15 border-2px radius-lg" src="{{member.image}}" alt="Profile picture of {{member.full_name}}">
+          <div class="usa-media-block__body">
+            <a class="usa-link text-no-underline" href="{{ site.baseurl }}/board-members/{{ member.name }}">
+              <h3 class="usa-graphic-list__heading">{{member.full_name}}</h3>
+            </a>
+          </div>
+        </div>
       </div>
       {% endfor %}
 
