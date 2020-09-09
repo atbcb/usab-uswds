@@ -14,8 +14,21 @@ permalink: /board-members2/
 <div class="grid-container maxw-desktop">
   <div class="grid-row">
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
+      {% assign p-members = site.board-members | where: "member", "public" %}
+      {% assign f-members = site.board-members | where: "member", "federal" %}
+      <h2>Public Members</h2>
       <!-- This loops through the paginated posts -->
-      {% for board-member in site.board-members %}
+      {% for member in p-members %}
+      <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
+        <h3 class="title">
+          <a class="usa-link text-no-underline" href="{{ site.baseurl }}/board-members/{{ member.name }}">{{member.full_name}}</a>
+        </h3>
+        <img src="{{member.image}}" alt="Profile picture of {{member.full_name}}">
+      </div>
+      {% endfor %}
+
+      <h2>Federal Members</h2>
+      {% for member in f-members %}
       <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
         <h3 class="title">
           <a class="usa-link text-no-underline" href="{{ site.baseurl }}/board-members/{{ board-member.name }}">{{board-member.full_name}}</a>
@@ -27,6 +40,8 @@ permalink: /board-members2/
         </div>
       </div>
       {% endfor %}
+
+      <h2>Past Members</h2>
     </div>
   </div>
 </div>
