@@ -12,7 +12,7 @@ Both standards are very similar and are closely based on the Board's ADA Accessi
 
 ### Department of Justice ADA Standards (2010)
 
-![DOJ seal]({{ site.baseurl }}/images/dojseal.jpg){: .float-right .thumbnail}
+![DOJ seal]({{ site.baseurl }}/images/doj-seal.jpg){: .float-right .thumbnail}
 
 DOJ's ADA standards (2010) became mandatory on March 15, 2012.  They include provisions that modify certain portions of Chapters 1-10, including provisions addressing the following areas:
 
@@ -31,7 +31,7 @@ See also on DOJ's website at [www.ada.gov](http://www.ada.gov/):
 
 ### Department of Transportation ADA Standards for Transportation Facilities (2006)
 
-![DOT seal]({{ site.baseurl }}/images/dot-logo.jpg){: .float-right .thumbnail}
+![DOT seal]({{ site.baseurl }}/images/dot-seal.jpg){: .float-right .thumbnail}
 DOT's ADA standards (2006) apply to facilities used by state and local governments to provide designated public transportation services, including bus stops and stations, and rail stations.  They include unique provisions concerning:
 
 -   Location of Accessible Routes ([206.3](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#206%20Accessible%20Routes))
