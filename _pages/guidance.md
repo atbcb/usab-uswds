@@ -31,7 +31,7 @@ This document covers application of the ADA Standards in new construction of fac
 This document clarifies how the ADA Standards apply to alterations and additions. 
 * [Guide to the ADA Standards: Floor and Ground Surfaces]({{ site.baseurl }}/ada/guides/chapter-3-floor-and-ground-surfaces/) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/surfaces.pdf) (February 2014)  
 This document explains requirements in the ADA Standards for floor and ground surfaces, including surface characteristics, carpeting, openings, and changes in level. 
-* [Guide to the ADA Standards: Clear Floor or Ground Space and Turning Space]({{ site.baseurl }}https://beta.access-board.gov/ada/guides/chapter-3-clear-floor-or-ground-space-and-turning-space/) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/clear-floor-space.pdf) (February 2014)  
+* [Guide to the ADA Standards: Clear Floor or Ground Space and Turning Space]({{ site.baseurl }}/ada/guides/chapter-3-clear-floor-or-ground-space-and-turning-space/) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/clear-floor-space.pdf) (February 2014)  
 This document explains requirements in the ADA Standards for clear floor or ground space and turning space.
 * [Guide to the ADA Standards: Operable Parts]({{ site.baseurl }}/ada/guides/chapter-3-operable-parts) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/operable-parts.pdf) (February 2014)  
 This document explains requirements in the ADA Standards for operable parts, including light switches, electrical and communication receptacles, thermostats, alarm pulls, automatic door controls, and other elements used by facility occupants.
@@ -47,7 +47,7 @@ This document explains requirements in the ADA Standards for ramps and curb ramp
 This document explains criteria for elevators and platform lifts in the ADA Standards.
 * [Guide to the ADA Standards: Accessible Means of Egress]({{ site.baseurl }}/ada/guides/chapter-4-accessible-means-of-egress) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/amoe.pdf) (July 2015)  
 This document explains requirements in the ADA Standards and referenced sections of the International Building Code (IBC) on accessible means of egress. It was developed in cooperation with the International Code Council.
-* [Guide to the ADA Standards: Parking Spaces]({{ site.baseurl }}/ada/guides/chapter-5-parking) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/parking.pdf) (May 2016)  
+* [Guide to the ADA Standards: Parking Spaces]({{ site.baseurl }}/ada/guides/chapter-5-parking) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/parking.pdf) (May 2016)
 This document explains requirements in the ADA Standards for parking.
 * [Guide to the ADA Standards: Passenger Loading Zones]({{ site.baseurl }}/ada/guides/chapter-5-passenger-loading-zones) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/plz.pdf) (May 2016)  
 This document explains requirements in the ADA Standards for passenger loading zones.
