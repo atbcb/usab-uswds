@@ -2,10 +2,9 @@
 title: "About the ADA Guides"
 order-number: 0
 permalink: /ada/guides/
-file: test.pdf
+file: ADA-Standards-Guide_Chapters1-5.pdf
 file-description: Single file PDF version of the ADA Guides
 ---
-
 
 This guide explains requirements in the current editions of the [ADA
 Standards]({{ site.baseurl }}/ada/) issued by the Department of Justice
