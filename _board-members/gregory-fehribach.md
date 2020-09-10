@@ -1,10 +1,11 @@
 ---
-layout: profile
 name: gregory-fehribach
 full_name: Gregory S. Fehribach
 chair: false
 vice-chair: true
 member: public
+status: current
+president: Obama
 image: /images/uploads/gregory-fehribach.jpg
 bio: >-
   Gregory S. Fehribach of Indianapolis, Indiana is principal of the Fehribach
