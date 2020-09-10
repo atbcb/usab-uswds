@@ -1,7 +1,7 @@
 ---
 title: "Chapter 10: Swimming Pools, Wading Pools, and Spas"
 order-number: 1009
-file: swimming.pdf
+file: pools.pdf
 file-description: PDF version
 ---
 <div class="clearfix" markdown="1">
