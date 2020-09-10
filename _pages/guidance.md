@@ -10,26 +10,17 @@ Provided here is a complete list of Access Board guidance documents (including a
 
 
 * [Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards](#guidance-on-the-americans-with-disabilities-act-ada-accessibility-standards)
-
 * [Guidance on Recreation Facilities](#guidance-on-recreation-facilities)
-
 * [Guidance on the Architectural Barriers Act (ABA) Accessibility Standards](#guidance-on-the-architectural-barriers-act-aba-accessibility-standards)
-
 * [Animations on the ADA and ABA Standards](#animations-on-the-ada-and-aba-standards)
-
 * [Guidance on the ADA Accessibility Guidelines for Transportation Vehicles](#guidance-on-the-ada-accessibility-guidelines-for-transportation-vehicles)
-
 * [Guidance on Requirements for Information and Communication Technology](#guidance-on-requirements-for-information-and-communication-technology)
-
 * [Guidance on Public Rights-of-Way](#guidance-on-public-rights-of-way)
-
 * [Guidance on Prescription Drug Labels](#guidance-on-prescription-drug-labels)
-
 
 * * * * *
 
 ## Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards
-
 
 * [Guide to the ADA Standards: About this Guide]({{ site.baseurl }}/ada/guides/) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/ADA-Standards-Guide_Chapters1-5.pdf) (February 2014)  
 An introduction to the Guide on the ADA Accessibility Standards and how it is to be used.
@@ -124,7 +115,7 @@ This document explains requirements in the ADA and ABA Standards for recreationa
 [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/fishing.pdf) (June 2003)  
 This document explains requirements in the ADA and ABA Standards for fishing piers and platforms.
 
-* [Guide on Golf Facilities]({{ site.baseurl }}https://beta.access-board.gov/ada/guides/chapter-10-golf-courses/) (HTML)
+* [Guide on Golf Facilities]({{ site.baseurl }}/ada/guides/chapter-10-golf-courses/) (HTML)
 [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/golf.pdf) (June 2003)  
 This document explains requirements in the ADA and ABA Standards for golf courses.
 
@@ -137,10 +128,10 @@ This document explains requirements in the ADA and ABA Standards for miniature g
 This document explains requirements in the ADA and ABA Standards for play areas.
 
 * [Guide on Play Surfaces]({{ site.baseurl }}/ada/guides/chapter-10-play-surfaces/) (HTML)
-[PDF]({{ site.baseurl }}files/ada-aba/guides/ada/play-surfaces.pdf) (October 2014)  
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/play-surfaces.pdf) (October 2014)  
 This document explains requirements in the ADA and ABA Standards and industry standards for surfacing at play areas.
 
-* [Guide on Sports Facilities]({{ site.baseurl }}ada/guides/chapter-10-sports-facilities/ (HTML)
+* [Guide on Sports Facilities]({{ site.baseurl }}/ada/guides/chapter-10-sports-facilities/) (HTML)
 [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/sports.pdf) (June 2003)  
 This document explains requirements in the ADA and ABA Standards for sport facilities.
 
@@ -149,7 +140,6 @@ This document explains requirements in the ADA and ABA Standards for sport facil
 This document explains requirements in the ADA and ABA Standards for swimming pools, wading pools, and spas.
 
 ##  Guidance on the Architectural Barriers Act (ABA) Accessibility Standards
-
 
 * [Guide to the ABA Standards: About this Guide]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/about-this-guide) (HTML)  [PDF]({{ site.baseurl }}/attachments/article/1548/about%20this%20guide.pdf) (February 2014)  
 An introduction to the Guide on the ABA Accessibility Standards and how it is to be used.
@@ -232,7 +222,6 @@ This document explains requirements in the ABA Standards for outdoor developed a
 
 ## Animations on the ADA and ABA Standards
 
-
 * [Wheelchair Maneuvering]({{ site.baseurl }}/ada/guides/animations) (MP4) (April 2014)  
 This 10-minute animation illustrates wheelchair maneuvering and requirements in the ADA and ABA Standards for clearances, floor surfaces, and reach ranges.
 
@@ -265,7 +254,6 @@ This document explains requirements in the ADA Accessibility Guidelines for Tran
 
 ## Guidance on Requirements for Information and Communication Technology
 
-
 * [Guide to the Section 508 Standards]({{ site.baseurl }}/guidelines-and-standards/communications-and-it/about-the-section-508-standards/guide-to-the-section-508-standards) (HTML) (June 2001)  
 This document explains requirements in the original Section 508 Standards (2000) for electronic and information technology in the federal sector.
 
@@ -273,7 +261,6 @@ This document explains requirements in the original Section 508 Standards (2000)
 This document explains accessibility requirements for telecommunications products and services covered by Section 255 of the Communications Act.
 
 ## Guidance on Public Rights-of-Way
-
 
 * [Accessible Public Rights-of-Way: Planning and Designing for Alterations]({{ site.baseurl }}/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/accessible-public-rights-of-way-planning-and-design-for-alterations) (HTML)
 [PDF]({{ site.baseurl }}/attachments/article/756/guide.pdf) (August 2007)  
@@ -287,7 +274,6 @@ This document summarizes requirements and recommendations for detectable warning
 Accessible Sidewalks  is a four-part video on the design of sidewalks and accessibility for pedestrians with disabilities, including those who use wheelchairs (Part I, 10 minutes), have ambulatory impairments (Part II, 8 minutes), have low vision (Part III, 11.5 minutes), and who are blind (Part IV, 11.5 minutes).
 
 ##  Guidance on Prescription Drug Labels
-
 
 * [Best Practices for Making Prescription Drug Container Label Information Accessible to Persons Who are Blind or Visually-Impaired or Who are Elderly]({{ site.baseurl }}/guidelines-and-standards/health-care/about-prescription-drug-container-labels/working-group-recommendations) (HTML) (July 2013)  
 This document provides best practices for making information on prescription drug labels accessible to people with vision impairments or who are elderly. It covers braille, large print labels, auditory technologies, and radio frequency identification tags.
