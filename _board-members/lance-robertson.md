@@ -1,10 +1,11 @@
 ---
-layout: profile
 name: lance-robertson
 full_name: Lance Robertson
 chair: true
 vice-chair: false
 member: federal
+status: current
+president: Obama
 image: /images/uploads/lance-robertson.jpg
 bio: >-
   Lance Robertson was named Assistant Secretary for Aging and head of the
