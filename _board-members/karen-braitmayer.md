@@ -4,6 +4,8 @@ full_name: 'Karen L. Braitmayer, FAIA'
 chair: false
 vice-chair: false
 member: public
+status: current
+president: Obama
 image: /images/uploads/karen-braitmayer.png
 bio: >-
   Karen Braitmayer, FAIA is the founder and managing principal of Studio
