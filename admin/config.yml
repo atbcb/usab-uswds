@@ -177,6 +177,13 @@ collections:
           hint: 'This is the first name and last name appended with a hyphen in lowercase. ie("george-washington")',
           required: true,
         }
+      - {
+          label: "Last Name",
+          name: "last-name",
+          widget: "string",
+          hint: 'Just the last name for alphabetical sorting purposes, example "washington")',
+          required: true,
+        }
       - { 
           label: "Full Name with titles and salutations",
           name: "full_name",
@@ -220,7 +227,7 @@ collections:
           name: "president",
           widget: "select",
           options: ["Trump", "Obama", "Bush", "Clinton", "HW Bush", "Reagan", "Carter"],
-          required: true,
+          required: false,
           hint: "Which administration appointed this board member?",
         }
       - {

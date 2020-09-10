@@ -14,11 +14,28 @@ permalink: /board-members/
 <div class="grid-container maxw-desktop">
   <div class="grid-row">
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
-      {% assign p-members = site.board-members | where: "member", "public" %}
+      {% assign p-members = site.board-members | where: "member", "public" | sort: "last-name" %}
       {% assign f-members = site.board-members | where: "member", "federal" %}
+      {% assign chairs = site.board-members | where: "chair","true" %}
+      {% assign vice-chairs = site.board-members | where: "vice-chair","true" %}
+
+      <div>
+        <p>
+          {% for chair in chairs %}          
+            {{ chair.image }}
+            {{ chair.full_name }}
+          {% endfor %}
+
+          {% for vice-chair in vice-chairs %}          
+            {{ vice-chair.image }}
+            {{ vice-chair.full_name }}
+          {% endfor %}
+        </p>
+      </div>
       <h2>Public Members</h2>
       <!-- This loops through the paginated posts -->
       {% for member in p-members %}
+      {% if member.status == "current" %}
       <div class="usa-graphic-list__row grid-row grid-gap margin-y-2">
         <div class="usa-media-block">
           <img class="usa-media-block__img width-15 border-2px radius-lg" src="{{member.image}}" alt="Profile picture of {{member.full_name}}">
@@ -29,6 +46,7 @@ permalink: /board-members/
           </div>
         </div>
       </div>
+      {% endif %}
       {% endfor %}
 
       <h2>Federal Members</h2>
