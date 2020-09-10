@@ -21,7 +21,7 @@ Provided here is a complete list of Access Board guidance documents (including a
 
 ## Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards
 
-* [Guide to the ADA Standards: About this Guide]({{ site.base.url }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/about-this-guide) (HTML)  [PDF]({{ site.base.url }}/attachments/article/1469/about-guide.pdf) (February 2014)  
+* [Guide to the ADA Standards: About this Guide]({{ site.base.url }}/ada/guides/) (HTML) [PDF]({{ site.base.url }}/files/ada-aba/ADA-Standards-Guide_Chapters1-5.pdf) (February 2014)  
 An introduction to the Guide on the ADA Accessibility Standards and how it is to be used.
 * [Guide to the ADA Standards: Using the ADA Standards]({{ site.base.url }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-1-using-the-ada-standards) (HTML) [PDF]({{ site.base.url }}/attachments/article/997/using-ADAstandards.pdf) (February 2014)  
 This document explains the general application and purpose of the ADA Standards.
