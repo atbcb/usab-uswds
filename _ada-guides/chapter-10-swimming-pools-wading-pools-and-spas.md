@@ -1,12 +1,11 @@
 ---
 title: "Chapter 10: Swimming Pools, Wading Pools, and Spas"
 order-number: 1009
-file: swimming.pdf
+file: pools.pdf
 file-description: PDF version
 ---
 <div class="clearfix" markdown="1">
 ![photo of individual entering pool using sloped entry ramp]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/poolramp-male.jpg){: .float-right}
-
 
 >*"Whenever any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
@@ -18,6 +17,7 @@ travel, recreational opportunities and life-enriching services."*
 </div>
 
 ###  Accessible Swimming Pools and Spas
+
 The guidelines described in this guide focus on newly designed or newly
 constructed and altered swimming pools, wading pools, aquatic recreation
 facilities, and spas. Other provisions contained in ADAAG address
@@ -28,11 +28,10 @@ bathing facilities. ADAAG addresses only the built environment
 issues. Questions regarding operational issues should be directed to the
 Department of Justice, 1-800-514-0301 or 1-800-514-0383 (TTY).
 
-
 ---
 
-
 ### Accessible Routes
+
 Accessible routes are continuous, unobstructed paths connecting all
 accessible elements and spaces of a building or facility. Accessible
 route requirements in ADAAG address width (minimum of 36 inches),
@@ -49,12 +48,12 @@ raised diving boards, platforms, or water slides.
 multi-use swimming pool
 facility]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/pagepool4-5.jpg){: .img-full}]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/enlarg3.jpg)
 
-
 ---
 
-
 ### Types of Facilities and Required Means of Entry into the Water
+
 #### Swimming Pools
+
 ![illustration of large pool showing the required two means of
 access]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-7hi.jpg){: .img-right}
 
@@ -76,6 +75,7 @@ provide one accessible means of entry, which must be either a pool lift
 or sloped entry.
 
 #### Aquatic Recreation Facilities
+
 ![photo of individual entering a wave action
 pool]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-8hi.jpg){: .img-right}
 Wave action pools, leisure rivers, sand bottom pools, and other pools
@@ -86,12 +86,14 @@ accessible means of entry can be either a pool lift, sloped entry, or
 transfer system.
 
 #### Catch Pools
+
 A catch pool is a body of water where water slide flumes drop users into
 the water.  An accessible means of entry or exit is not required into
 the catch pool. However, an accessible route must connect to the edge of
 the catch pool.
 
 #### Wading Pools
+
 A wading pool is a pool designed for shallow depth and is used for
 wading.  Each wading pool must provide at least one sloped entry into
 the deepest part. Other forms of entry may be provided as long as a
@@ -99,6 +101,7 @@ sloped entry is provided.  The sloped entries for wading pools are not
 required to have handrails.
 
 #### Spas
+
 ![photo of lift on a spa]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-8lo.jpg){: .img-right}
 Spas must provide at least one accessible means of entry, which can be a
 pool lift, transfer wall, or transfer system.  If spas are provided in a
@@ -112,7 +115,6 @@ lifts used in larger spas, where the water depth is 34 inches or more
 and there is sufficient space.
 
 ### Permitted Means of Pool Access
-
 
 <table class="usa-table"><caption style="background-color: #eee;">Permitted Means of Pool Access</caption>
 <thead>
@@ -167,12 +169,12 @@ and there is sufficient space.
 </tbody>
 </table>
 
-
 ---
 
-
 ### Pool Lifts
+
 #### Lifts
+
 ![illustration of pool
 lift]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-pool9.jpg){: .img-right}
 Pool lifts must be located where the water level is not deeper than 48
@@ -184,6 +186,7 @@ operators to use a pool lift in any location as an accessible means of
 entry.
 
 #### Seats
+
 There are a variety of seats available on pool lifts and these
 guidelines do not specify the type of material or the type of seat
 required. However, lift seats must be a minimum of 16 inches wide. In
@@ -200,6 +203,7 @@ leg support may also enhance accessibility and accommodate a wider
 variety of people with disabilities.
 
 #### Clear Deck Space
+
 Clear deck space must be provided to enable a person to get close enough
 to the pool lift seat to easily transfer from a wheelchair or mobility
 device. This clear deck space will ensure an unobstructed area for
@@ -212,6 +216,7 @@ This virtually flat area will make the transfer easier and safer, while
 still allowing water to drain away from the deck.
 
 #### Seat Height
+
 ![aquatic access for inc1]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/aquatic_access_inc1.jpg){: .img-right}
 The lift must be designed so that the seat will make a stop between a
 minimum of 16 inches and maximum of 19 inches (measured from the deck to
@@ -220,6 +225,7 @@ Lifts can provide additional stops at various heights to accommodate
 users of all ages and abilities.
 
 #### Footrests and Armrests
+
 Footrests and armrests provide stability for the person using the pool
 lift. Footrests must be provided on pool lifts, and must move together
 with the seat. Padding on footrests ---large enough to support the whole
@@ -231,6 +237,7 @@ seat is in the raised (load) position. This clearance is needed for
 people transferring between the lift and a mobility device.
 
 #### Operation
+
 Lifts must be designed and placed so that people can use them without
 assistance, although assistance can be provided if needed. A person must
 be able to call the lift when it is in either the deck or water
@@ -245,6 +252,7 @@ twisting of the wrist. Controls may not require more than five pounds of
 pressure to operate.
 
 #### Submerged Depth
+
 ![illustration of pool lift submerged
 depth]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-pool11.jpg){: .img-right}
 Lifts must be designed so that the seat will submerge to a minimum of 18
@@ -252,16 +260,16 @@ inches below the stationary water level. This will ensure buoyancy for
 the person on the lift and make it easier to enter or exit.
 
 #### Lifting Capacity
+
 Lifts must have the capability of supporting a minimum weight of 300
 pounds and be capable of sustaining a static load that is at least 1.5
 times the rated load. Where possible, lifts that can support a greater
 weight capacity are encouraged.
 
-
 ---
 
-
 ### Sloped Entry
+
 ![photo of individual using a sloped
 entry]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/poolramp.jpg){: .img-right}
 Sloped entries must comply with ADAAG accessible route provisions (36 inch minimum width, maximum 1:12 or 8.33% slope), except
@@ -283,6 +291,7 @@ limited.
 ramp]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-pool12.jpg){: .img-full}
 
 #### Submerged Depth
+
 Sloped entries must extend to a depth between 24 inches minimum and 30
 inches maximum below the stationary water level. This depth is necessary
 for individuals using the sloped entry to become buoyant. Where the
@@ -295,6 +304,7 @@ slope before an intermediate landing is required. Adding a solid wall on
 the side closest to the water can enhance safety.
 
 #### Handrails
+
 Sloped entries must have handrails on both sides regardless of the
 slope. Handrail extensions are required at the top landing but not at
 the bottom. The clear width between handrails must be between 33 and 38
@@ -307,11 +317,10 @@ sand bottom pools, and other pools where people can enter only in one
 place. Handrails are required to comply with ADAAG provisions (diameter,
 non-rotating, and height).
 
-
 ---
 
-
 ### Transfer Walls
+
 ![2 illustrations showing transfer wall with one grab bar and transfer
 wall with two grab
 bars]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-pool14.jpg){: .img-right}
@@ -320,6 +329,7 @@ allows a person to leave a mobility device and transfer onto the wall
 and then into a pool or spa.
 
 #### Grab Bars
+
 Transfer walls must have at least one grab bar. Grab bars must be
 perpendicular to the pool wall and extend the full width of the wall so
 a person can use them for support into the water. The top of the
@@ -331,6 +341,7 @@ the bars. The diameter of the grab bars must comply with ADAAG (diameter
 between 1.25 and 1.5 inches, not abrasive, and non-rotating).
 
 #### Clear Deck Space
+
 Clear deck space of 60 by 60 inches minimum, with a slope of not more
 than 1:48, must be provided at the base of a transfer wall. This will
 allow persons using a wheelchair to turn around and access the wall,
@@ -341,10 +352,12 @@ of the bar. If two bars are provided, the clear deck space must be
 centered on the 24-inch clearance between the two bars.
 
 #### Height
+
 The transfer wall height must be 16 inches minimum to 19 inches maximum,
 measured from the deck.
 
 #### Width and Length
+
 Transfer walls must be a minimum of 12 inches wide to a maximum of 16
 inches wide. This provides enough space for a person to sit comfortably
 on the surface of the wall and pivot to access the water. The wall must
@@ -353,15 +366,15 @@ space. Additional length will provide increased space and options for
 transferring.
 
 #### Surface
+
 Since people using transfer walls are in bathing suits, their skin may
 be in contact with the wall. To prevent injuries, the wall surface must
 have rounded edges and not be sharp.
 
-
 ---
 
-
 ### Transfer System
+
 ![illustration of transfer system platform and
 steps]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-pool16.jpg){: .img-right}
 A transfer system consists of a transfer platform and a
@@ -371,6 +384,7 @@ platform and continue transferring into the water, step by step, bumping
 their way in or out of the pool.
 
 #### Transfer Platform
+
 Each transfer system must have a platform on the deck surface so users
 can maneuver on and off the system from their mobility device or
 wheelchair. Platforms must be a minimum of 19 inches deep by 24 inches
@@ -378,10 +392,12 @@ wide. That provides enough room for a person transferring to maintain
 balance and provides enough space to maneuver on top of it.
 
 #### Platform Height
+
 Transfer platforms must be between 16 and 19 inches high, measured from
 the deck.
 
 #### Clear Deck Space
+
 ![illustration of clear deck space located at a
 transfer system]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-17.jpg){: .img-right}
 The base of the transfer platform must have a clear deck space adjacent
@@ -392,6 +408,7 @@ unobstructed side of the transfer platform. A level, unobstructed space
 will help a person transferring from a mobility device.
 
 #### Transfer Steps
+
 The maximum height of transfer steps is 8 inches, although shorter
 heights are recommended. Each transfer step must have a tread depth of
 14 inches minimum to 17 inches maximum and a minimum tread width of 24
@@ -399,6 +416,7 @@ inches. The steps must extend into the water a minimum of 18 inches
 below the stationary water level.
 
 #### Surface
+
 The surface of the transfer platform and steps must not be sharp and
 must have rounded edges to prevent injuries.
 
@@ -406,6 +424,7 @@ must have rounded edges to prevent injuries.
 system]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-18hi.jpg){: .img-medium .center}
 
 #### Grab Bars
+
 A grab bar must be provided on at least one side of each step and on the
 transfer platform (shown on page 16), or as a continuous grab bar
 serving each step and the platform (shown at left). The bar must not
@@ -417,11 +436,10 @@ above each step nosing. Grab bars on transfer systems must comply with
 ADAAG (diameter between 1.25 and 1.5 inches, not abrasive, and
 non-rotating).
 
-
 ---
 
-
 ### Accessible Pool Stairs
+
 ![illustration of pool
 stairs]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-18lo.jpg){: .img-right}
 Accessible pool stairs are designed to provide assistance
@@ -433,6 +451,7 @@ Additionally, open risers are not permitted. Other stairs or steps
 provided in the pool are not required to meet these guidelines.
 
 #### Handrails
+
 Pool stairs must have handrails with a minimum width between the rails
 of 20 inches and a maximum of 24 inches. The 20- to 24-inch width for
 the accessible pool stairs is intended to provide support for
@@ -444,11 +463,10 @@ of 34 inches and a maximum of 38 inches above the stair nosing. If
 handrails are mounted on walls, the clear space between the handrail and
 wall must be 1.5 inches.
 
-
 ---
 
-
 ###  Water Play Components
+
 ![water play
 structure]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/pool-play.jpg){: .img-right}
 If water play components are provided, they must comply
@@ -461,11 +479,10 @@ accessible route does not have to comply with the requirements for cross
 slope, running slope, and surface conditions. Transfer systems may be
 used instead of ramps to connect elevated water play components.
 
-
 ---
 
-
 ### Other Accessible Elements
+
 If swimming pools are part of a multi-use facility, designers and
 operators must also comply with ADAAG and all applicable requirements
 for recreation facilities. These include, but are not limited to:
@@ -479,11 +496,10 @@ for recreation facilities. These include, but are not limited to:
 
 ---
 
-
 ### Provision Index
+
 This table highlights the sections of the ADA and ABA Accessibility
 Standards discussed in the swimming pools guide.
-
 
 <table class="usa-table">
     <thead>
@@ -758,7 +774,6 @@ Water Play Components (exceptions)
         </tr>
     </tbody>
 </table>
-
 
 \* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
