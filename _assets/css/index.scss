@@ -218,3 +218,26 @@ a.usa-current::after {
   }
 }
 }
+
+
+.card-header {
+  @extend .usa-card__header;
+  text-align: center;
+  background-color: #f1f1f1;
+  padding-top: .5 rem;
+
+}
+
+.gray-to-color {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.gray-to-color:hover {
+  -webkit-filter: none;
+  filter: none;
+}
+
+
+
+
