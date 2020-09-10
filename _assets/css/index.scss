@@ -37,7 +37,7 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 
 // create class that combines about page img classes
 
-.bold {
+.bold, dt {
   font-weight: bold;
 }
 

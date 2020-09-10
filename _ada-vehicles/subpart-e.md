@@ -2,7 +2,7 @@
 title: Subpart E-Commuter Rail Cars and Systems
 order-number: 5
 ---
-**§1192.91 General.**
+### §1192.91 General.
 
 (a) New, used and remanufactured commuter rail cars, to be considered accessible by regulations issued by the Department of Transportation in 49 CFR part 37, shall comply with this subpart.
 
@@ -14,7 +14,7 @@ order-number: 5
 
 (d) Existing vehicles retrofitted to comply with the "one-car-per-train rule" at 49 CFR 37.93 shall comply with §§1192.93(e), 1192.95(a) and 1192.107 and shall have, in new and key stations, at least one door on each side from which passengers board which complies with §1192.93(d). Vehicles previously designed and manufactured in accordance with the program accessibility requirements of section 504 of the Rehabilitation Act of 1973, or implementing regulations issued by the Department of Transportation that were in effect before October 7, 1991 and which can be entered and used from stations in which they are to be operated, may be used to satisfy the requirements of 49 CFR 37.93.
 
-**§1192.93 Doorways.**
+### §1192.93 Doorways.
 
 (a) *Clear width*. (1) At least one door on each side of the car from which passengers board opening onto station platforms and at least one adjacent doorway into the passenger coach compartment, if provided, shall have a minimum clear opening of 32 inches.
 
@@ -22,7 +22,7 @@ order-number: 5
 
 (b) *Passageways*. A route at least 32 inches wide shall be provided from doors required to be accessible by paragraph (a)(1) of this section to seating locations complying with §1192.95(d). In cars where such doorways require passage through a vestibule, such vestibule shall have a minimum width of 42 inches. (See Fig. 3)
 
-![Floor layout of a single-level commuter or intercity rail car, entered from a vestibule through a center aisle. Minimum dimensions for doors and vestibule are as required by the section. Two wheelchair users, one on each side of the car, are seated just inside the bulkhead separating the vestibule from the passenger compartment. Fold-up seats are provided in the wheelchair seating area for use when they are not occupied by wheelchair users.  ](https://www.access-board.gov/images/guidelines_standards/Transportation/Vehicle_Guidance/tfig3.jpg)
+![Floor layout of a single-level commuter or intercity rail car, entered from a vestibule through a center aisle. Minimum dimensions for doors and vestibule are as required by the section. Two wheelchair users, one on each side of the car, are seated just inside the bulkhead separating the vestibule from the passenger compartment. Fold-up seats are provided in the wheelchair seating area for use when they are not occupied by wheelchair users.  ]({{ site.baseurl }}{{ page.image-directory }}tfig3.jpg){: .img-large}
 
 (c) *Signals*. If doors to the platform close automatically or from a remote location, auditory and visual warning signals shall be provided to alert passengers of closing doors.
 
@@ -36,9 +36,9 @@ order-number: 5
 
 (e) *Signage*. The International Symbol of Accessibility shall be displayed on the exterior of all doors complying with this section unless all cars are accessible and are not marked by the access symbol. (See Fig. 6) Appropriate signage shall also indicate which accessible doors are adjacent to an accessible restroom, if applicable.
 
- ![1 large stylized image of an outline of a figure in a wheel chair on a grid background and 2 smaller images of the same figure on black and white backgrounds.  ](https://www.access-board.gov/images/guidelines_standards/Transportation/Vehicle_Guidance/tfig6.gif)
+ ![1 large stylized image of an outline of a figure in a wheel chair on a grid background and 2 smaller images of the same figure on black and white backgrounds.  ]({{ site.baseurl }}{{ page.image-directory }}tfig6.gif){: .img-large}
 
-**§1192.95 Mobility aid accessibility.**
+### §1192.95 Mobility aid accessibility.
 
 (a)(1) *General*. All new commuter rail cars, other than level entry cars, covered by this subpart shall provide a level-change mechanism or boarding device (e.g., lift, ramp or bridge plate) complying with either paragraph (b) or (c); of this section; sufficient clearances to permit a wheelchair or mobility aid user to reach a seating location; and at least two wheelchair or mobility aid seating locations complying with paragraph (d) of this section.
 
@@ -60,7 +60,7 @@ order-number: 5
 
 (6) *Platform surface*. The lift platform surface shall be free of any protrusions over ¼ inch high and shall be slip resistant. The lift platform shall have a minimum clear width of 28-1/2 inches at the platform, a minimum clear width of 30 inches measured from 2 inches above the lift platform surface to 30 inches above the surface, and a minimum clear length of 48 inches measured from 2 inches above the surface of the platform to 30 inches above the surface. (See Fig. 1)
 
-![The required clear space (envelope) for a wheelchair or mobility aid is a minimum 48 inches long and a minimum 30 inches wide, measured at 2 inches above the floor or platform surface, and extending to a height of 30 inches minimum above the floor or platform surface. The minimum clear width at the floor or platform surface is 28-1/2 inches.  ](https://www.access-board.gov/images/guidelines_standards/Transportation/Vehicle_Guidance/tranfig1.jpg)
+![The required clear space (envelope) for a wheelchair or mobility aid is a minimum 48 inches long and a minimum 30 inches wide, measured at 2 inches above the floor or platform surface, and extending to a height of 30 inches minimum above the floor or platform surface. The minimum clear width at the floor or platform surface is 28-1/2 inches.  ]({{ site.baseurl }}{{ page.image-directory }}tranfig1.jpg){: .img-large}
 
 (7) *Platform gaps*. Any openings between the lift platform surface and the raised barriers shall not exceed 5/8 inch wide. When the lift is at car floor height with the inner barrier down (if applicable) or retracted, gaps between the forward lift platform edge and car floor shall not exceed ½ inch horizontally and 5/8 inch vertically. Platforms on semi-automatic lifts may have a hand hold not exceeding 1-1/2 inches by 4-1/2 inches located between the edge barriers.
 
@@ -96,9 +96,9 @@ order-number: 5
 
 (d) *Mobility aid seating location*. Spaces for persons who wish to remain in their wheelchairs or mobility aids shall have a minimum clear floor space 48 inches by 30 inches. Such spaces shall adjoin, and may overlap, an accessible path. Not more than 6 inches of the required clear floor space may be accommodated for footrests under another seat provided there is a minimum of 9 inches from the floor to the lowest part of the seat overhanging the space. Seating spaces may have fold-down or removable seats to accommodate other passengers when a wheelchair or mobility aid user is not occupying the area, provided the seats, when folded up, do not obstruct the clear floor space required. (See Fig. 2)
 
-![A maximum of 6 inches of toe space of the 48 inches required for a wheelchair or mobility aid may extend under a seat, modesty panel, or other fixed element if there is a minimum of 9 inches of vertical clearance under the element.  ](https://www.access-board.gov/images/guidelines_standards/Transportation/Vehicle_Guidance/tranfig2.jpg)
+![A maximum of 6 inches of toe space of the 48 inches required for a wheelchair or mobility aid may extend under a seat, modesty panel, or other fixed element if there is a minimum of 9 inches of vertical clearance under the element.  ]({{ site.baseurl }}{{ page.image-directory }}tranfig2.jpg){: .img-large}
 
-**§1192.97 Interior circulation, handrails and stanchions.**
+### §1192.97 Interior circulation, handrails and stanchions.
 
 (a) Where provided, handrails or stanchions within the passenger compartment shall be placed to permit sufficient turning and maneuvering space for wheelchairs and other mobility aids to reach a seating location, complying with §1192.95(d), from an accessible entrance. The diameter or width of the gripping surface of interior handrails and stanchions shall be 11/4 inches to 11/2 inches or shall provide an equivalent gripping surface. Handrails shall be placed to provide a minimum 1-1/2 inches knuckle clearance from the nearest adjacent surface.
 
@@ -106,31 +106,31 @@ order-number: 5
 
 (c) At entrances equipped with steps, handrails or stanchions shall be provided in the entrance to the car in a configuration which allows passengers to grasp such assists from outside the car while starting to board, and to continue using such assists throughout the boarding process, to the extent permitted by 49 CFR part 231.
 
-**§1192.99 Floors, steps and thresholds.**
+### §1192.99 Floors, steps and thresholds.
 
 (a) Floor surfaces on aisles, step treads, places for standees, and areas where wheelchair and mobility aid users are to be accommodated shall be slip-resistant.
 
 (b) All thresholds and step edges shall have a band of color(s) running the full width of the step or threshold which contrasts from the step tread and riser or adjacent floor, either light-on-dark or dark-on-light.
 
-**§1192.101 Lighting.**
+### §1192.101 Lighting.
 
 (a) Any stepwell or doorway with a lift, ramp or bridge plate shall have, when the door is open, at least 2 footcandles of illumination measured on the step tread, ramp, bridge plate, or lift platform.
 
 (b) The doorways of cars not operating at lighted station platforms shall have outside lights which, when the door is open, provide at least 1 footcandle of illumination on the station platform surface for a distance of 3 feet perpendicular to all points on the bottom step tread edge. Such lights shall be shielded to protect the eyes of entering and exiting passengers.
 
-**§1192.103 Public information system.**
+### §1192.103 Public information system.
 
 (a) Each car shall be equipped with an interior public address system permitting transportation system personnel, or recorded or digitized human speech messages, to announce stations and provide other passenger information. Alternative systems or devices which provide equivalent access are also permitted.
 
 (b) [Reserved]
 
-**§1192.105 Priority seating signs.**
+### §1192.105 Priority seating signs.
 
 (a) Each car shall contain sign(s) which indicate that certain seats are priority seats for persons with disabilities and that other passengers should make such seats available to those who wish to use them.
 
 (b) Characters on signs required by paragraph (a) shall have a width-to-height ratio between 3:5 and 1:1 and a stroke width-to-height ratio between 1:5 and 1:10, with a minimum character height (using an upper case "X") of 5/8 inch, with "wide" spacing (generally, the space between letters shall be 1/16 the height of upper case letters), and shall contrast with the background either light-on-dark or dark-on-light.
 
-**§1192.107 Restrooms.**
+### §1192.107 Restrooms.
 
 (a) If a restroom is provided for the general public, it shall be designed so as to allow a person using a wheelchair or mobility aid to enter and use such restroom as specified in paragraphs (a)(1) through (5) of this section.
 
@@ -146,6 +146,6 @@ order-number: 5
 
 (b) Restrooms required to be accessible shall be in close proximity to at least one seating location for persons using mobility aids and shall be connected to such a space by an unobstructed path having a minimum width of 32 inches.
 
-**§1192.109 Between-car barriers.**
+### §1192.109 Between-car barriers.
 
 Where vehicles operate in a high-platform, level-boarding mode, and where between-car bellows are not provided, devices or systems shall be provided to prevent, deter or warn individuals from inadvertently stepping off the platform between cars. Appropriate devices include, but are not limited to, pantograph gates, chains, motion detectors or other suitable devices.
