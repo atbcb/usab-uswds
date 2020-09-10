@@ -140,12 +140,12 @@ This document explains requirements in the ADA and ABA Standards for play areas.
 [PDF]({{ site.baseurl }}files/ada-aba/guides/ada/play-surfaces.pdf) (October 2014)  
 This document explains requirements in the ADA and ABA Standards and industry standards for surfacing at play areas.
 
-* [Guide on Sports Facilities]({{ site.baseurl }}/guidelines-and-standards/recreation-facilities/guides/sports-facilities) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/595/sports.pdf) (June 2003)  
+* [Guide on Sports Facilities]({{ site.baseurl }}ada/guides/chapter-10-sports-facilities/ (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/sports.pdf) (June 2003)  
 This document explains requirements in the ADA and ABA Standards for sport facilities.
 
 * [Guide on Swimming Pools, Wading Pools, and Spas]({{ site.baseurl }}/ada/guides/chapter-10-swimming-pools-wading-pools-and-spas/)  (HTML)
-[PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/pools.pdff) (June 2003)  
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/pools.pdf) (June 2003)  
 This document explains requirements in the ADA and ABA Standards for swimming pools, wading pools, and spas.
 
 ##  Guidance on the Architectural Barriers Act (ABA) Accessibility Standards
