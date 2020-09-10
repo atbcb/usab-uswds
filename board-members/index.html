@@ -12,42 +12,92 @@ permalink: /board-members/
   </div>
 </div>
 <div class="grid-container maxw-desktop">
+  {% assign p-members = site.board-members | where: "member", "public" | sort: "last-name" %}
+  {% assign f-members = site.board-members | where: "member", "federal" %}
+  {% assign chairs = site.board-members | where: "chair","true" %}
+  {% assign vice-chairs = site.board-members | where: "vice-chair","true" %}
   <div class="grid-row">
-    <div class="desktop:grid-col-8 usa-prose padding-right-4">
-      {% assign p-members = site.board-members | where: "member", "public" | sort: "last-name" %}
-      {% assign f-members = site.board-members | where: "member", "federal" %}
-      {% assign chairs = site.board-members | where: "chair","true" %}
-      {% assign vice-chairs = site.board-members | where: "vice-chair","true" %}
+    <div class="grid-container maxw-tablet">
+      <ul class="usa-card-group">
+        {% for chair in chairs %} 
+        <li class="tablet:grid-col-6 usa-card">
+          <div class="usa-card__container">
+            <header class="card-header">
+              <h2 class="usa-card__heading" >Chair</h2>
+            </header>
+            <div class="usa-card__body">
+              <h3 class="text-center margin-y-0">{{ chair.full_name }}</h3>
+              {% if chair.agency %}
+              <h4 class="text-center margin-y-0">{{ chair.agency }}</h4>
+              {% endif %}           
+            </div>
+            <div class="usa-card__media">
+              <div class="usa-card__img">
+                <img src="{{ chair.image }}" alt="Profile picture of {{ chair.full_name }}">
+              </div>
+            </div>
+            <div class="usa-card__footer margin-x-auto">
+              <button class="usa-button">Biography</button>
+            </div>
+          </div>
+        </li>
+        {% endfor %}  
 
-      <div>
-        <p>
-          {% for chair in chairs %}          
-            {{ chair.image }}
-            {{ chair.full_name }}
-          {% endfor %}
+        {% for vice-chair in vice-chairs %}
+        <li class="tablet:grid-col-6 usa-card">
+          <div class="usa-card__container">
+            <header class="card-header">
+              <h2 class="usa-card__heading">Vice-Chair</h2>
+            </header>
+            <div class="usa-card__body">
+              <h3 class="text-center margin-y-0">{{ vice-chair.full_name }}</h3>
+              {% if vice-chair.agency %}
+              <h4 class="text-center margin-y-0">{{ vice-chair.agency }}</h4>
+              {% endif %}           
+            </div>
+            <div class="usa-card__media">
+              <div class="usa-card__img">
+                <img src="{{ vice-chair.image }}" alt="Profile picture of {{ vice-chair.full_name }}">
+              </div>
+            </div>
+            <div class="usa-card__footer margin-x-auto">
+              <a href="" ><button class="usa-button">Biography</button></a>
+            </div>
+          </div>
+        </li>
+        {% endfor %}  
+      </ul>
+    </div>
+  </div>  
 
-          {% for vice-chair in vice-chairs %}          
-            {{ vice-chair.image }}
-            {{ vice-chair.full_name }}
-          {% endfor %}
-        </p>
-      </div>
+
+  <div class="grid-row">
+    <div class="grid-container">
       <h2>Public Members</h2>
-      <!-- This loops through the paginated posts -->
+      <ul class="usa-card-group">
       {% for member in p-members %}
       {% if member.status == "current" %}
-      <div class="usa-graphic-list__row grid-row grid-gap margin-y-2">
-        <div class="usa-media-block">
-          <img class="usa-media-block__img width-15 border-2px radius-lg" src="{{member.image}}" alt="Profile picture of {{member.full_name}}">
-          <div class="usa-media-block__body">
-            <a class="usa-link text-no-underline" href="{{ site.baseurl }}/board-members/{{ member.name }}">
-              <h3 class="usa-graphic-list__heading">{{member.full_name}}</h3>
+        <li class="tablet:grid-col-3 usa-card">
+          <div class="usa-card__container gray-to-color">
+            <a href="{{ site.baseurl }}/board-members/{{ member.name }}" class="text-decoration-none">
+              <div class="padding-1">
+              <h3 class="font-serif-xs text-primary margin-y-0">{{ member.full_name }}</h3>
+              {% if member.agency %}
+              <h4 class="font-serif-xs text-primary-dark margin-y-0">{{ member.agency }}</h4>
+              {% endif %}           
+              </div>
+              <div class="usa-card__media">
+                <div class="usa-card__img">
+                  <img src="{{ member.image }}" alt="Profile picture of {{ member.full_name }}">
+                </div>
+              </div>
             </a>
           </div>
-        </div>
-      </div>
-      {% endif %}
-      {% endfor %}
+        </li>
+        {% endif %} 
+        {% endfor %}  
+      </ul>
+
 
       <h2>Federal Members</h2>
       {% for member in f-members %}
