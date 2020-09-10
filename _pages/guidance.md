@@ -9,10 +9,10 @@ permalink: /guidance.html
 Provided here is a complete list of Access Board guidance documents (including animations and videos) currently in effect as required by [Executive Order 13891](https://www.federalregister.gov/documents/2019/10/15/2019-22623/promoting-the-rule-of-law-through-improved-agency-guidance-documents).  Guidance documents lack the force and effect of law, except as authorized by law or as incorporated into a contract.
 
 * [Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards](#guidance-on-the-americans-with-disabilities-act-ada-accessibility-standards)
-  - [Guidance on Recreation Facilities](#guidance-on-recreation-facilities)
+* [Guidance on Recreation Facilities](#guidance-on-recreation-facilities)
 * [Guidance on the Architectural Barriers Act (ABA) Accessibility Standards](#guidance-on-the-architectural-barriers-act-aba-accessibility-standards)
-  - [Animations on the ADA and ABA Standards](#animations-on-the-ada-and-aba-standards)
-  - [Guidance on the ADA Accessibility Guidelines for Transportation Vehicles](#guidance-on-the-ada-accessibility-guidelines-for-transportation-vehicles)
+* [Animations on the ADA and ABA Standards](#animations-on-the-ada-and-aba-standards)
+* [Guidance on the ADA Accessibility Guidelines for Transportation Vehicles](#guidance-on-the-ada-accessibility-guidelines-for-transportation-vehicles)
 * [Guidance on Requirements for Information and Communication Technology](#guidance-on-requirements-for-information-and-communication-technology)
 * [Guidance on Public Rights-of-Way](#guidance-on-public-rights-of-way)
 * [Guidance on Prescription Drug Labels](#guidance-on-prescription-drug-labels)
