@@ -39,7 +39,7 @@ This document explains requirements in the ADA Standards for operable parts, inc
 This document explains requirements in the ADA Standards for protruding objects and preventing hazards to people with vision impairments.
 * [Guide to the ADA Standards: Accessible Routes]({{ site.baseurl }}/ada/guides/chapter-4-accessible-routes) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/accessible-routes.pdf) (July 2015)  
 This document explains scoping and technical requirements for accessible routes in the ADA Standards.
-* [Guide to the ADA Standards: Entrances, Doors, and Gates]({{ site.baseurl }}/ada/guides/chapter-4-entrances-doors-and-gates/) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/entrances.pdff) (July 2015)  
+* [Guide to the ADA Standards: Entrances, Doors, and Gates]({{ site.baseurl }}/ada/guides/chapter-4-entrances-doors-and-gates/) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/entrances.pdf) (July 2015)  
 This document explains scoping and technical requirements for accessible entrances, doors and gates in the ADA Standards.
 * [Guide to the ADA Standards: Ramps and Curb Ramps]({{ site.baseurl }}/ada/guides/chapter-4-ramps-and-curb-ramps) (HTML) [PDF]({{ site.baseurl }}/files/ada-aba/guides/ada/ramps.pdf) (July 2015)  
 This document explains requirements in the ADA Standards for ramps and curb ramps.
