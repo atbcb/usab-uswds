@@ -207,6 +207,22 @@ collections:
           options: ["public", "federal"],
           required: true,
         }
+      - { 
+          label: "Status",
+          name: "status",
+          widget: "select",
+          options: ["current", "former"],
+          required: true,
+          hint: "Is this a current or former board member?",
+        }
+      - { 
+          label: "Appointing Presidential Administration",
+          name: "president",
+          widget: "select",
+          options: ["Trump", "Obama", "Bush", "Clinton", "HW Bush", "Reagan", "Carter"],
+          required: true,
+          hint: "Which administration appointed this board member?",
+        }
       - {
           label: "Image",
           name: "image",

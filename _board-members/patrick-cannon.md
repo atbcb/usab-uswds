@@ -4,6 +4,8 @@ full_name: Patrick D. Cannon
 chair: false
 vice-chair: false
 member: public
+status: current
+president: Obama
 image: /images/uploads/patrick-cannon.jpg
 bio: >-
   Patrick D. Cannon of East Lansing, Michigan was State Director of the Michigan
