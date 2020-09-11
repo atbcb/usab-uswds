@@ -1,5 +1,5 @@
 ---
-name: christopher-s- hart
+name: christopher-s-hart
 last-name: heart
 full_name: Christopher S. Hart
 chair: false
