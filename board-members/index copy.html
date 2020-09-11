@@ -36,7 +36,7 @@ permalink: /about/board-members/
               <h4 class="text-center margin-y-0">{{ chair.agency }}</h4>
               {% endif %}           
             </div>
-            <div class="usa-card__media usa-card__media--inset">
+            <div class="usa-card__media">
               <div class="usa-card__img">
                 <img src="{{ chair.image }}" alt="Profile picture of {{ chair.full_name }}">
               </div>
@@ -60,7 +60,7 @@ permalink: /about/board-members/
               <h4 class="text-center margin-y-0">{{ vice-chair.agency }}</h4>
               {% endif %}           
             </div>
-            <div class="usa-card__media usa-card__media--inset">
+            <div class="usa-card__media">
               <div class="usa-card__img">
                 <img src="{{ vice-chair.image }}" alt="Profile picture of {{ vice-chair.full_name }}">
               </div>
@@ -84,23 +84,20 @@ permalink: /about/board-members/
       {% for member in p-members %}
       {% if member.status == "current" %}
         <li class="tablet:grid-col-6 usa-card usa-card--flag">
+          <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
           <div class="usa-card__container gray-to-color">            
-            <header class="margin-left-15 minh-15 padding-top-6 padding-bottom-3">
-              <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
-                <h3 class="card-name">{{ member.full_name }}</h3>
+            <header class="margin-left-15 minh-15 padding-top-6 padding-bottom-3">                <h3 class="card-name">{{ member.full_name }}</h3>
                 {% if member.agency %}
                 <p class="card-text">{{ member.agency }}</p>
                 {% endif %}
-              </a>
             </header>
             <div class="usa-card__media maxw-15">
               <div class="usa-card__img">
-                <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
-                  <img src="{{ member.image }}" alt="Profile picture of {{ member.full_name }}">
-                </a>
+                <img src="{{ member.image }}" alt="Profile picture of {{ member.full_name }}">
               </div>
             </div>
           </div>
+        </a>
         </li>
         {% endif %} 
         {% endfor %}  
@@ -126,8 +123,8 @@ permalink: /about/board-members/
                 {% endif %}
               </a>
             </div>
-            <div class="usa-card__media usa-card__media--inset">
-              <div class="usa-card__img maxw-15 margin-x-auto">
+            <div class="usa-card__media">
+              <div class="usa-card__img margin-x-auto">
                 <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
                   <img src="{{ member.image }}" alt="Profile picture of {{ member.full_name }}">
                 </a>

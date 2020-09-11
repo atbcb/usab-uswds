@@ -223,8 +223,9 @@ a.usa-current::after {
 .card-header {
   @extend .usa-card__header;
   text-align: center;
-  background-color: #f1f1f1;
-  padding-top: .25 rem;
+  @include u-bg('secondary-vivid');
+  @include u-text('white');
+  padding: 1 rem;
 
 }
 
