@@ -1,5 +1,6 @@
 ---
 name: gregory-fehribach
+last-name: fehribach
 full_name: Gregory S. Fehribach
 chair: false
 vice-chair: true

@@ -1,7 +1,7 @@
 ---
 name: victor-santiago-pineda
 last-name: pineda
-full_name: Victor Santiago Pineda
+full_name: Victor Santiago Pineda, PhD
 chair: false
 vice-chair: false
 member: public

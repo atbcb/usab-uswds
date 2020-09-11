@@ -1,7 +1,7 @@
 ---
 name: mathew-mcCollough
 last-name: mccollough
-full_name: Mathew McCollough
+full_name: Mathew McCollough, MPA
 chair: false
 vice-chair: false
 member: public
