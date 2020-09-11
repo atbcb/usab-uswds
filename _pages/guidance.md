@@ -141,11 +141,12 @@ This document explains requirements in the ADA and ABA Standards for swimming po
 
 ##  Guidance on the Architectural Barriers Act (ABA) Accessibility Standards
 
-* [Guide to the ABA Standards: About this Guide]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/about-this-guide) (HTML)  [PDF]({{ site.baseurl }}/attachments/article/1548/about%20this%20guide.pdf) (February 2014)  
+* [Guide to the ABA Standards: About this Guide]({{ site.baseurl }}/aba/guides/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/aba-guide-about.pdf) (February 2014)  
 An introduction to the Guide on the ABA Accessibility Standards and how it is to be used.
 
-* [Guide to the ABA Standards: Using the ABA Standards]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-1-using-the-ada-standards-2) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1550/using-ABA-standards.pdf) (February 2014)  
+* [Guide to the ABA Standards: Using the ABA Standards]({{ site.baseurl }}/aba/guides/chapter-1-using-the-aba-standards/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/using-ABA-standards.pdf) (February 2014)  
 This document explains the general application and purpose of the ADA Standards.
 
 * [Guide to the ABA Standards: New Construction]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-2-new-construction) (HTML)
