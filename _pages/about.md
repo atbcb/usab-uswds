@@ -15,4 +15,4 @@ The Board develops and maintains design criteria for the built environment, tran
 
 The Board is structured to function as a coordinating body among federal agencies and directly represent the public, particularly people with disabilities.&nbsp;
 Twelve of its members are representatives from most of the federal departments.&nbsp;
-Thirteen others are members of the public appointed by the President, a majority of whom must have a disability.
+Thirteen others, who are appointed by the President, are members of the public, and most of them must have a disability.
