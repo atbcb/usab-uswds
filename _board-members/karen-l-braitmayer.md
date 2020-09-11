@@ -12,7 +12,7 @@ bio: >-
   Karen Braitmayer, FAIA is the founder and managing principal of Studio
   Pacifica, an accessibility consulting firm in Seattle. She and her team
   provide consulting services to local governments, school districts,
-  architects, engineers, companies and individuals concerned with complying with
+  architects, engineers, companies, and individuals concerned with complying with
   Federal laws and State codes, as well as simply creating spaces that work for
   the unique needs of individual users. Karen also leads presentations and
   workshops around the country to further educate professionals about codes,
