@@ -1,6 +1,6 @@
 ---
-name: Jennifer-Sheehy
-last-name: Sheehy
+name: jennifer-sheehy
+last-name: sheehy
 full_name: Jennifer Sheehy
 chair: false
 vice-chair: false
