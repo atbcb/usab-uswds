@@ -5,7 +5,7 @@ chair: true
 vice-chair: false
 member: federal
 status: current
-president: Obama
+president: Trump
 image: /images/uploads/lance-robertson.jpg
 bio: >-
   Lance Robertson was named Assistant Secretary for Aging and head of the

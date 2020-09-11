@@ -5,7 +5,7 @@ chair: false
 vice-chair: false
 member: federal
 status: current
-president: Obama
+president: 
 image: /images/uploads/allison-brigati.jpg
 bio: >-
   Allison Fahrenkopf Brigati serves as deputy administrator of the U.S. General
