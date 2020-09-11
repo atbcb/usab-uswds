@@ -131,4 +131,4 @@ This resulted in a historic level of harmonization between the Board’s guideli
 On March 23, 2010, President Barack Obama signed into law <q>The Patient Protection and Affordable Care Act</q> to reform and extend the provision of health care.&nbsp;
 The law includes a provision to amend the Rehabilitation Act to address access to medical diagnostic equipment, including examination tables and chairs, weight scales, x-ray machines and other radiological equipment, and mammography equipment.&nbsp;
 Under this amendment, the Board is authorized to develop access standards for medical diagnostic equipment in consultation with the Food and Drug Administration.&nbsp;
-The standards will address independent access to, and use of, equipment by people with disabilities to the maximum extent possible.
+The standards address independent access to, and use of, equipment by people with disabilities to the maximum extent possible.
