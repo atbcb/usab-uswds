@@ -1,7 +1,7 @@
 ---
 name: shelley-siegel
 last-name: siegel
-full_name: Shelley Siegel
+full_name: Shelley Siegel, FASID
 chair: false
 vice-chair: false
 member: public
