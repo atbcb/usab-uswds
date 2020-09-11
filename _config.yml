@@ -328,6 +328,10 @@ defaults:
     values:
       layout: author
   - scope:
+      path: "_board-members"
+    values:
+      layout: profile
+  - scope:
       path: ""
       type: "pages"
     values:

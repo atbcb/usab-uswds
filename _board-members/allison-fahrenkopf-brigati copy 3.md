@@ -1,11 +1,11 @@
 ---
-name: allison-fahrenkopf-brigati
+name: allison-fahrenkopf-brigati2
 full_name: Allison Fahrenkopf Brigati
 chair: false
 vice-chair: false
-member: federal
+member: public
 status: current
-president: 
+president: Obama
 image: /images/uploads/allison-brigati.jpg
 bio: >-
   Allison Fahrenkopf Brigati serves as deputy administrator of the U.S. General

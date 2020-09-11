@@ -224,7 +224,7 @@ a.usa-current::after {
   @extend .usa-card__header;
   text-align: center;
   background-color: #f1f1f1;
-  padding-top: .5 rem;
+  padding-top: .25 rem;
 
 }
 
@@ -238,6 +238,21 @@ a.usa-current::after {
   filter: none;
 }
 
+ a.style-inherit {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}
 
+.card-name {
+  @include u-font('serif', '2xs');
+  @include u-text('center');
+  @include u-text('primary');
+  @include u-margin-bottom(0);
+}
 
-
+.card-text {
+  @include u-font('serif', '3xs');
+  @include u-text('center');
+  @include u-text('primary-darker');
+  @include u-margin-bottom(0);
+}
