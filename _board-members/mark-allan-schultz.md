@@ -1,6 +1,6 @@
 ---
-name: Mark-Allan-Schultz
-last-name: Schultz
+name: mark-allan-schultz
+last-name: schultz
 full_name: Mark Allan Schultz
 chair: false
 vice-chair: false
