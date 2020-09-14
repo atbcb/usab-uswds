@@ -1,7 +1,7 @@
 ---
 title: Operations and Maintenance
 order-number: 1
-research-title: Indoor Environmental Quality
+group-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
 topic: Building Elements and Spaces

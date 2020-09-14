@@ -1,5 +1,5 @@
 
-{% assign ordered_chapters = site[page.collection-folder] | where: "research-title",  {{page.research-title}} | sort:"order-number" %}
+{% assign ordered_chapters = site[page.collection-folder] | where: "group-title",  {{page.group-title}} | sort:"order-number" %}
 
 {% if ordered_chapters %}
 <aside id="toc-aside" class="desktop:grid-col-3 margin-bottom-2 bg-white sticky">

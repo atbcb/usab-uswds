@@ -1,7 +1,7 @@
 ---
 title: Conclusions Recommendations and Future Research Needs
 order-number: 5
-research-title: Large Area Assistive Listening Systems
+group-title: Large Area Assistive Listening Systems
 status: completed
 year-completed: 2002
 topic: Communication and Information

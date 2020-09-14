@@ -1,7 +1,7 @@
 ---
 title: Introduction
 order-number: 0
-research-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
+group-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 status: completed
 year-completed: 2009
 topic: Public Rights-of-Way

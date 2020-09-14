@@ -1,7 +1,7 @@
 ---
 title: Lessons Learned from Existing Installations
 order-number: 5
-research-title: Interfacing Accessible Pedestrian Signals (APS) with Traffic Signal Control Equipment
+group-title: Interfacing Accessible Pedestrian Signals (APS) with Traffic Signal Control Equipment
 status: completed
 year-completed: 2003
 topic: Public Rights-of-Way

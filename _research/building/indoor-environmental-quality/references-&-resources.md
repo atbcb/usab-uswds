@@ -1,7 +1,7 @@
 ---
 title: References & Resources
 order-number: 10
-research-title: Indoor Environmental Quality
+group-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
 topic: Indoor environmental Quality
