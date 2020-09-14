@@ -1,6 +1,8 @@
 ---
 title: Text of the Guidelines
 order-number: 7
+group-title: Updated ADA Accessibility Guidelines for Buses and Vans
+layout: page-group
 ---
 **PART 1192---AMERICANS WITH DISABILITIES ACT (ADA) ACCESSIBILITY GUIDELINES FOR TRANSPORTATION VEHICLES**
 

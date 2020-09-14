@@ -1,6 +1,8 @@
 ---
 title: Notes
 order-number: 6
+group-title: Updated ADA Accessibility Guidelines for Buses and Vans
+layout: page-group
 ---
 1.  Over-the-road buses are buses characterized by an elevated passenger deck located over a baggage compartment. 49 CFR 37.3. Outside the context of the ADA and this regulation, over-the-road buses are also commonly referred to as "motor coaches."
 2.  The 2007 Notice of Availability published in the Federal Register provided only notice that the Access Board's draft revised guidelines had been made available for public review and comment. The actual text of the draft revised guidelines was posted on the Access Board's website. See U.S. Access Board, [2007] Draft Revisions to the ADA Accessibility Guidelines for Buses and Vans, [https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/draft-update/text-of-draft-revised-guidelines.](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/draft-update)

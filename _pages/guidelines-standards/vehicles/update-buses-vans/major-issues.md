@@ -1,6 +1,8 @@
 ---
 title: Major Issues
 order-number: 3
+group-title: Updated ADA Accessibility Guidelines for Buses and Vans
+layout: page-group
 ---
 The Americans with Disabilities Act (ADA) requires the Access Board to issue guidelines for transportation vehicles---including buses, OTRBs, and vans---to ensure that new, used and remanufactured vehicles are readily accessible to and usable by individuals with disabilities. See 42 U.S.C. 12204. These guidelines serve as the baseline for enforceable accessibility standards issued by DOT for ADA-covered transportation vehicles. 42 U.S.C. 12204.
 

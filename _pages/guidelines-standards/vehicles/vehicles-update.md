@@ -1,5 +1,6 @@
 ---
 title: Update of the Guidelines for Transportation Vehicles
+layout: page
 ---
 
 The Board is undertaking rulemaking to update its ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles, which were originally published in 1991.  The Board updated sections of the guidelines covering buses and vans in 2016.  The Board is initiating an update of other sections of the guidelines covering rail cars  based on recommendations from an advisory committee organized by the Board.

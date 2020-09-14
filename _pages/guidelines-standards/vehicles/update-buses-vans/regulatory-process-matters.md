@@ -1,6 +1,8 @@
 ---
 title: Regulatory Process Matters
 order-number: 5
+group-title: Updated ADA Accessibility Guidelines for Buses and Vans
+layout: page-group
 ---
 **A. Final Regulatory Assessment (EO 12866)**
 

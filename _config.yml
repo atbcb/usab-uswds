@@ -312,7 +312,7 @@ defaults:
     values:
       collection-title: "Research"
       collection-folder: research
-      layout: grouped-pages
+      layout: page-group
       file-directory: /files/research/
       image-directory: /images/research/
   - scope:

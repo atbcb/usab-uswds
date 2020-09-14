@@ -1,6 +1,8 @@
 ---
 title: Summary of Comments and Responses on Other Aspects of the Proposed Rule
 order-number: 4
+group-title: Updated ADA Accessibility Guidelines for Buses and Vans
+layout: page-group
 ---
 Overall, the Access Board received about 100 written comments to the 2010 NPRM, including those received during the reopening of the comment period in the fall of 2012 to address issues related to ramp designs. In addition to comments received on the major issues discussed in the preceding section, commenters also expressed views on a variety of other matters related to the proposed rule. The Access Board's response to significant comments on these other matters are discussed below on a chapter-by-chapter basis following the organization of the final rule. Also addressed below are requirements in the final rule that have been substantively revised from the proposed rule. Provisions in the final rule that neither received significant comment nor materially changed from the proposed rule are not discussed in this preamble.
 

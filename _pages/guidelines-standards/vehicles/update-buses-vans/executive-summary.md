@@ -1,6 +1,8 @@
 ---
 title: Executive Summary
 order-number: 1
+group-title: Updated ADA Accessibility Guidelines for Buses and Vans
+layout: page-group
 ---
 *Purpose and Legal Authority*
 
