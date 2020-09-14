@@ -44,12 +44,12 @@ Email:  <info@access-board.gov>
 ***Voice:***  **202-272-0080** or **800-872-2253**  
 ***tty:***  **202-272-0082** or **800-993-2822**
 
-| Executive Director's Office | &nbsp; | &nbsp; |
+| Executive Director's Office | | |
 | --- | --- | --- |
 | Gretchen Jacobs, Acting Executive Director | 202-272-0040 (v) | 202-272-0075 (tty) |
 | Rose Marie Bunales | 202-272-0006 (v) | 202-272-0057 (tty) |
 
-| Office of Administration | &nbsp; | &nbsp; |
+| Office of Administration | | |
 | --- | --- | --- |
 | Earlene Sesker, Director | 202-272-0022 (v) | 202-272-0091 (tty) |
 | Edson Carneiro | 202-272-0008 (v) | 202-272-0077 (tty) |
@@ -103,4 +103,4 @@ Use exit at:
 - 13th & G Streets (go 1 block south to F Street, turn right and go ½ block west), or
 - 12th & F Streets (go 1½ blocks west along F Street past 13th Street)
 
-![detail of map showing Board office on F Street, north side, mid-block between 13th and 14th Streets, NW]({{ site.baseurl }}/images/map.jpg)
+![detail of map showing Board office on F Street, north side, mid-block between 13th and 14th Streets, NW]({{ site.baseurl }}/images/map1.jpg)
