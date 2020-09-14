@@ -8,7 +8,7 @@ file-description: PDF version of Accessible Golf Course
 ![photo of man using wheelchair on golf
 course]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/2002_Conn_Amputee-Tom_Quin.jpg){: .float-right .thumbnail}
 
->*"Whenever any barrier stands between you and the full rights and dignity of
+> *"Whenever any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
 and justice. The promise of the ADA...has enabled people with
 disabilities to enjoy much greater access to a wide range of affordable
