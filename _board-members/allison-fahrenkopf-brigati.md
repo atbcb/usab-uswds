@@ -1,5 +1,6 @@
 ---
 name: allison-fahrenkopf-brigati
+last-name: brigati
 full_name: Allison Fahrenkopf Brigati
 chair: false
 vice-chair: false
