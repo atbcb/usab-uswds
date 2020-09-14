@@ -2,7 +2,7 @@
 title: "Chapter 10: Recreational Boating Facilities"
 order-number: 1003
 file: boating.pdf
-file-description: PDF version
+file-description: PDF version of Accessible Boating Facilities
 ---
 ![photo of accessible boat
 slip]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/p2boat.jpg){: .img-right}
@@ -40,9 +40,7 @@ These guidelines do not cover the design of passenger vessels or ferry
 docks, and do not address access on and off passenger vessels. These
 issues will be addressed in [future rulemaking for passenger vessels]({{ site.baseurl }}/pvag/).
 
-
 ---
-
 
 ###  Accessible Routes
 ![photo of
@@ -67,10 +65,8 @@ Designers and operators should note that there are no exceptions to the
 accessible route requirements where the accessible route connects fixed
 piers to land or other fixed structures.
 
-
 ![illustration of accessible gangway serving accessible boat slips in a
 largei facility]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-6.jpg){: .img-full}
-
 
 ##### Gangway Slope and Rise Exceptions
 Gangways designed for the least possible slope will provide more
@@ -98,14 +94,11 @@ a boating facility, it must comply with ADAAG slope and rise
 requirements. This would include a ramp connecting a fixed pier or a
 float with fixed switchback ramps.
 
-
 ![illustration of non-gangway sloped walking surface meeting ADAAG
 requirements]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-7.jpg){: .img-full}
 
-
 ![photo of gangway connecting floating
 pier]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-8_hi.jpg){: .img-medium  .center}
-
 
 ##### Gangway Alterations
 Gangways on existing boating facilities may be repaired or replaced
@@ -118,9 +111,7 @@ has determined that it is not disproportionate to spend up to an
 additional 20 percent of the overall costs of alterations to the primary
 function areas to make the path of travel accessible.
 
-
 ![illustration of transition plates]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-8_low.jpg){: .img-medium .center}
-
 
 #### Transition Plates
 Transition plates are sloping pedestrian walking surfaces located at the
@@ -158,10 +149,8 @@ In addition to regular elevators, limited use/limited application
 elevators (smaller, slower elevators used for low-traffic, low-rise
 facilities) or platform lifts that comply with ADAAG may be used instead
 of gangways as part of an accessible route connecting floating piers.
- 
 
 ---
-
 
 ### Boats Slips
 A boat slip is the portion of a pier, main pier, finger pier, or float
@@ -192,8 +181,6 @@ determining the total number of slips at the facility.
 | 901 to 1000                  | 12                                          |
 | 1001 and over                | 12, plus 1 for each 100 or fraction thereof |
 {: .table-provision-index .usa-table}
-
-
 
 ![illustration of required clear space for 60 foot
 pier]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-10.jpg){: .img-right}
@@ -287,9 +274,7 @@ pier]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-1
 ![illustration of forward and side reach
 ranges]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-13_low.jpg){: .img-medium .center}
 
-
 ---
-
 
 ### Boarding Piers at Boat Launch Ramps
 A boarding pier (sometimes called a courtesy pier or a launch dock) is
@@ -358,14 +343,11 @@ one launch ramp. The portion of the accessible route located within the
 launch ramp is not required to comply with the slope requirements for
 accessible routes.
 
-
 ---
-
 
 ### Provision Index
 This table highlights the sections of the ADA and ABA Accessibility
 Standards discussed in the boating facilities guide.
-
 
 <table class="usa-table">
     <thead>
@@ -728,7 +710,6 @@ Standards discussed in the boating facilities guide.
         </tr>
     </tbody>
 </table>
-
 
 \* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
