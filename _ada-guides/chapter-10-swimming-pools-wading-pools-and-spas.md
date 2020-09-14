@@ -2,7 +2,7 @@
 title: "Chapter 10: Swimming Pools, Wading Pools, and Spas"
 order-number: 1009
 file: pools.pdf
-file-description: PDF version
+file-description: PDF version of Accessible Swimming Pools and Spas
 ---
 <div class="clearfix" markdown="1">
 ![photo of individual entering pool using sloped entry ramp]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/poolramp-male.jpg){: .float-right}

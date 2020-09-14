@@ -2,7 +2,7 @@
 title: "Chapter 10: Amusement Rides"
 order-number: 1002
 file: amusement.pdf
-file-description: PDF version
+file-description: PDF version of Accessible Amusement Rides
 ---
 <div class="clearfix" markdown="1">
 ![roller
