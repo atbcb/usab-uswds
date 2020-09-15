@@ -1,5 +1,5 @@
 ---
-name: doe
+name: ed
 full_name: Department of Education
 contact: Ms. Eleanor Baker
 job-title: Customer Service Team
