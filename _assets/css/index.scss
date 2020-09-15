@@ -19,9 +19,13 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 @import "components/table-of-contents-subnav";
 
 
-
 // Add your SASS/CSS here
 
+// override default gray to get 7:1 contrast ratio
+.usa-nav__secondary-item {
+  color: #595959
+}
+  
 // temporary blue class to see how grids work
 .blue {
   background-color: blue;
