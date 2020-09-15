@@ -22,7 +22,7 @@ July 1, 2019
 
 **Brief summary of significant agency activities that will cease during a lapse:**
 
-> During a shut-down the Access Board will not be providing the following services: 
+> During a shut-down, the Access Board will not be providing the following services: 
 -   Complaint processing under the Architectural Barriers Act
 -   Guidelines and standards development
 -   Webinars
