@@ -1,7 +1,7 @@
 ---
 title: Developing ALS Performance Standards for People with Hearing Loss
 order-number: 8
-research-title: Large Area Assistive Listening Systems
+group-title: Large Area Assistive Listening Systems
 status: completed
 topic: Communication and Information
 ---

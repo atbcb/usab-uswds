@@ -1,7 +1,7 @@
 ---
 title: References (Phase 2)
 order-number: 13
-research-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
+group-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2005
 topic: Passenger Vessels

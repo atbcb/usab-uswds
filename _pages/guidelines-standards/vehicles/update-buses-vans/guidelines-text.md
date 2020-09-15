@@ -1,11 +1,9 @@
 ---
-title: Update guidelines for Buses and Vans
-permalink: /ada/vehicles/update/buses-vans/
-order-number: 1
+title: Text of the Guidelines
+order-number: 7
+group-title: Updated ADA Accessibility Guidelines for Buses and Vans
+layout: page-group
 ---
-
-<!-- *This section contains the updated accessibility guidelines for buses and vans that were finalized by the Access Board in 2016, but are not currently enforceable DOT standards* -->
-
 **PART 1192---AMERICANS WITH DISABILITIES ACT (ADA) ACCESSIBILITY GUIDELINES FOR TRANSPORTATION VEHICLES**
 
 1\. The authority citation for 36 CFR part 1192 is revised to read as follows:

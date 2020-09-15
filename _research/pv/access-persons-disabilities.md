@@ -1,7 +1,7 @@
 ---
 title: Access for Persons with Disabilities to Passenger Vessels and Shore Facilities
 order-number: 0
-research-title: Access for Persons with Disabilities to Passenger Vessels and Shore Facilities
+group-title: Access for Persons with Disabilities to Passenger Vessels and Shore Facilities
 status: completed
 year-completed: 1996
 topic: Passenger Vessels
