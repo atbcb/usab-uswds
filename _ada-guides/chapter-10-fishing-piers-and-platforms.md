@@ -2,14 +2,14 @@
 title: "Chapter 10: Fishing Piers and Platforms"
 order-number: 1005
 file: fishing.pdf
-file-description: PDF version
+file-description: PDF version of Accessible Fishing Piers and Platforms
 ---
 
 <div class="clearfix" markdown="1">
 ![photo of man in wheelchair
 fishing]({{ site.baseurl }}{{ page.image-directory }}chapter10/fishing-guide/p3fish.jpg){: .float-right .thumbnail}
 
->*"Whenever any barrier stands between you and the full rights and dignity of
+> *"Whenever any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
 and justice. The promise of the ADA...has enabled people with
 disabilities to enjoy much greater access to a wide range of affordable

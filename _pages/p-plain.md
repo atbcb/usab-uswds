@@ -19,7 +19,7 @@ We have assigned staff to oversee our plain language efforts:
 
 -   Gretchen Jacobs, General Counsel, Plain Language Contact
 
-We're training our employees and have strengthened our oversight process.  We must use plain language in any document that:
+We continue to train our employees and strengthen our oversight process.  We must use plain language in any document that:
 
 -   is necessary for obtaining any federal government benefit or service or filing taxes;
 -   provides information about any federal government benefit or service; or

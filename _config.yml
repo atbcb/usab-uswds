@@ -26,7 +26,7 @@ description: >- # this means to ignore newlines until "baseurl:"
   standards for the built environment, transportation, communication, medical diagnostic
   equipment, and information technology.
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://access-board.gov"
+url: "https://beta.access-board.gov"
 
 # Twitter handle. Only the handle, not the URL.
 twitter: AccessBoard
@@ -94,8 +94,8 @@ primary_navigation:
         url: /rx.html
   - name: Training & Webinars
     url: /webinars/
-  - name: File an ABA complaint
-    url: /enforcement/complaint.html
+  - name: File an ABA Complaint
+    url: /enforcement/
   - name: Research
     url: /research/
   - name: Contact Us
@@ -134,15 +134,12 @@ collections:
   aba-guides:
     output: true
     permalink: /aba/guides/:path/
-  prowag-shared-use:
+  prowag:
     output: true
     permalink: /prowag/:path/
   prowag-rulemaking:
     output: true
     permalink: /prowag/rulemaking:path/
-  prowag-rulemaking:
-    output: true
-    permalink: /prowag/rulemaking/:path/
   ada-ibc-comparison:
     output: true
     permalink: /ada/background/ada-ibc-comparison/:path/
@@ -164,12 +161,20 @@ collections:
   pvag:
     output: true
     permalink: /pvag/:path/
+  research:
+    output: true
+    permalink: /research/:path/
   es:
     output: true
   authors:
     output: true
     permalink: /authors/:name/
+  board-members:
+    output: true
+    permalink: /about/board-members/:name/
   tags:
+    output: false
+  contacts-504:
     output: false
 
 permalink: pretty
@@ -230,11 +235,11 @@ defaults:
       image-directory: /images/ada-aba/background/
   - scope:
       path: ""
-      type: "prowag-shared-use"
+      type: "prowag"
     values:
       collection-title: "(Proposed) Public Rights-of-Way"
       collection-subtitle: "Accessibility Guidelines"
-      collection-folder: prowag-shared-use
+      collection-folder: prowag
       layout: standards
       file-directory: /files/prowag/
       image-directory: /images/prowag/
@@ -278,6 +283,7 @@ defaults:
       layout: standards
       file-directory: /files/ict/
       image-directory: /images/ict/
+      right-sidenav: sidenav-508.html
   - scope:
       path: ""
       type: "mde"
@@ -302,6 +308,15 @@ defaults:
       right-sidenav: sidenav-pvag.html
   - scope:
       path: ""
+      type: "research"
+    values:
+      collection-title: "Research"
+      collection-folder: research
+      layout: page-group
+      file-directory: /files/research/
+      image-directory: /images/research/
+  - scope:
+      path: ""
       type: "es"
     values:
       collection-title: "En Español"
@@ -312,6 +327,16 @@ defaults:
       path: "_authors"
     values:
       layout: author
+  - scope:
+      path: "_board-members"
+    values:
+      layout: profile
+  - scope:
+      path: ""
+      type: "pages"
+    values:
+      collection-title: "Pages"
+      collection-folder: pages
 
 markdown: kramdown
 plugins:

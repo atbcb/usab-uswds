@@ -32,15 +32,21 @@
         if (cleanedSection === "") continue;
 
         let idtag = cleanedSection.replace(/ /g,"-");
-        let currentAnchorClass = currentAnchor === idtag ?
-          'class="usa-current"' : 'class=""';
         elements[i].setAttribute("id",idtag);
 
-        let li = "<li><a " + currentAnchorClass + " href=\"#" + idtag + "\">" + section + "</a></li>";
+        let li = document.createElement("li");
+        let a = document.createElement("a");
+        a.setAttribute("href", "#" + idtag);
+        a.innerText = cleanedSection;
+
+        if (currentAnchor === idtag) {
+          a.className = "usa-current";
+        }
+
+        li.appendChild(a);
 
         if (subsections) {
-          let cleanedItem = DOMPurify.sanitize(li);
-          subsections.innerHTML += cleanedItem;
+          subsections.appendChild(li);
         }
       };
     }

@@ -15,10 +15,10 @@ The Access Board's privacy program aims to preserve and enhance privacy protecti
 
 The [Privacy Act of 1974](http://www.gpo.gov/fdsys/pkg/USCODE-2015-title5/pdf/USCODE-2015-title5-partI-chap5-subchapII-sec552a.pdf), in essence, establishes a code of fair information practices that govern the collection, maintenance, use, and dissemination of personally identifiable information that is maintained in a system of records (i.e., a group of records controlled by the agency from which information is retrieved by a unique, personal identifier) by federal agencies.  The Privacy Act balances the government's need to collect or maintain personal information with the right of individuals to be protected against unwarranted invasions of their privacy.  Under the Privacy Act, federal agencies must:
 
--   Inform you why personal information is being collected and how it is going to be used;
--   Ensure that personal information is accurate, relevant, complete, and up-to-date before disclosing to others;
--   Allow you to find out about disclosures of your records to other agencies or persons; and
--   Provide you with an opportunity to correct inaccuracies in your records.
+-   inform you why personal information is being collected and how it is going to be used;
+-   ensure that personal information is accurate, relevant, complete, and up-to-date before disclosing to others;
+-   allow you to find out about disclosures of your records to other agencies or persons; and
+-   provide you with an opportunity to correct inaccuracies in your records.
 
 As technology has evolved, subsequent legislation (such as the [E-Government Act of 2002](http://www.gpo.gov/fdsys/pkg/PLAW-107publ347/pdf/PLAW-107publ347.pdf)) and Executive Branch guidance has expanded on these privacy protections for digital information and called on federal agencies to better integrate information security and privacy.
 

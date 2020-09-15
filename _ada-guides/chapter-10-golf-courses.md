@@ -2,13 +2,13 @@
 title: "Chapter 10: Golf Courses"
 order-number: 1006
 file: golf.pdf
-file-description: PDF version
+file-description: PDF version of Accessible Golf Course
 ---
 <div class="clearfix" markdown="1">
 ![photo of man using wheelchair on golf
 course]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/2002_Conn_Amputee-Tom_Quin.jpg){: .float-right .thumbnail}
 
->*"Whenever any barrier stands between you and the full rights and dignity of
+> *"Whenever any barrier stands between you and the full rights and dignity of
 citizenship, we must work to remove it, in the name of simple decency
 and justice. The promise of the ADA...has enabled people with
 disabilities to enjoy much greater access to a wide range of affordable
@@ -16,7 +16,6 @@ travel, recreational opportunities and life-enriching services."*
 
 >> *President George W. Bush, New Freedom Initiative, February 1, 2001*
 </div>
-
 
 ### Accessible Golf Courses
 The recreation facility guidelines described in this guide focus on
@@ -29,9 +28,7 @@ guidelines do not address operational issues. Questions regarding
 operational issues should be directed to the Department of Justice,
 1-800-514-0301 or 1-800-514-0383 (TTY).
 
-
 ---
-
 
 ### Accessible Routes
 Accessible routes are continuous, unobstructed paths connecting all
@@ -46,10 +43,8 @@ provisions outlined in this guide.
 [![illustration of accessible route or golf car passage connecting
 elements]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/golf-diag-thumb.jpg){: .img-full}]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-diag.jpg)
 
-
 ![illustration of golf car passage or accessible
 route]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-6_hi.jpg){: .img-medium .center}
-
 
 #### Alternative Golf Car Passage
 
@@ -59,10 +54,8 @@ route of play for a golfer is dependent on where the ball lands and is
 therefore unpredictable. The guidelines assume that on many courses,
 golfers use a golf car to move throughout the course.
 
-
 ![illustration of accessible route or golf car
 passage]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-g6_low.jpg){: .img-medium .center}
-
 
 Second, requiring an accessible route throughout a course
 could alter the slopes within some courses and alter the nature of the
@@ -75,7 +68,6 @@ surface and may be part of a golf car path.
 
 ![illustration of golf car passage or accessible route on
 fairway]({{ site.baseurl }}{{ page.image-directory }}chapter10/golf-guide/page-g7hi.jpg){: .img-medium .center}
-
 
 The golf car passage could be located on areas such as
 fairways, greens, and teeing surfaces. A golf car passage can be

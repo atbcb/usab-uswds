@@ -18,7 +18,6 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 @import "components/sticky";
 @import "components/table-of-contents-subnav";
 
-
 // Set fonts
 h4 {
   @include u-font('sans', 'md')
@@ -29,6 +28,11 @@ h5, h6 {
 }
 
 // Add your SASS/CSS here
+
+// override default gray to get 7:1 contrast ratio
+li.usa-nav__secondary-item a {
+  color: #595959;
+}
 
 // temporary blue class to see how grids work
 .blue {
@@ -45,7 +49,7 @@ h5, h6 {
 
 // create class that combines about page img classes
 
-.bold {
+.bold, dt {
   font-weight: bold;
 }
 
@@ -225,4 +229,43 @@ a.usa-current::after {
     display: block;
   }
 }
+}
+
+.card-header {
+  @extend .usa-card__header;
+  text-align: center;
+  @include u-bg('secondary-vivid');
+  @include u-text('white');
+  padding: 1rem;
+
+}
+
+.gray-to-color {
+  -webkit-filter: grayscale(100%);
+  filter: grayscale(100%);
+}
+
+.gray-to-color:hover {
+  -webkit-filter: none;
+  filter: none;
+  @include u-bg('primary-lighter')
+}
+
+ a.style-inherit {
+  color: inherit; /* blue colors for links too */
+  text-decoration: inherit; /* no underline */
+}
+
+.card-name {
+  @include u-font('serif', '2xs');
+  @include u-text('center');
+  @include u-text('primary');
+  @include u-margin-bottom(0);
+}
+
+.card-text {
+  @include u-font('serif', '3xs');
+  @include u-text('center');
+  @include u-text('primary-darker');
+  @include u-margin-bottom(0);
 }

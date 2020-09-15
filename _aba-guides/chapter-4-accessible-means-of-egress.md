@@ -11,7 +11,7 @@ file-description: PDF version of Chapter 4 Accessible Means of Egress Guide
         <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe-icc.JPG" alt="ICC logo">
     </div>
     <div class="tablet:grid-col">
-        <p>This guide explains requirements in the <a href="{{ site.baseurl }}/aba/">ADA Standards</a> and referenced sections of the International Building Code (IBC) and was developed in cooperation with the International Code Council.</p>
+        <p>This guide explains requirements in the <a href="{{ site.baseurl }}/ada/">ADA Standards</a> and referenced sections of the International Building Code (IBC) and was developed in cooperation with the International Code Council.</p>
     </div>
   </div>
 </div>

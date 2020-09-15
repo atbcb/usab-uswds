@@ -5,11 +5,11 @@ file: ramps.pdf
 file-description: PDF version of Chapter 4 Ramps and Curb Ramps Guide
 ---
 This guide explains requirements in the [ADA
-Standards](../ada-standards.html) for ramps and curb ramps.
+Standards]({{ site.baseurl }}/ada/) for ramps and curb ramps.
 
 ### Where Ramps and Curb Ramps are Required
 
-[[§303.4]({{ site.baseurl }}/ada/#ada-303_4)]
+[[§303.4]({{ site.baseurl }}/ada/#303.4-Ramps)]
 
 Ramps and curb ramps are required along accessible routes to span
 changes in level greater than ½". Elevators and, under certain specified
@@ -32,7 +32,7 @@ prevent the accumulation of water.]({{ site.baseurl }}{{ page.image-directory }}
 
 ### Slope and Cross Slope
 
-[[§405.2]({{ site.baseurl }}/ada/#ada-405_2)]
+[[§405.2]({{ site.baseurl }}/ada/#405.2-Slope)]
 
 ![Slope shown to equal to ratio of rise to length]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr3.jpg){: .img-right .img-medium}
 
@@ -51,7 +51,7 @@ text= "Providing the least possible slope below the 1:12 (8.33%) maximum offers 
 
 ### Clear Width
 
-[[§405.5]({{ site.baseurl }}/ada/#ada-405_5)]
+[[§405.5]({{ site.baseurl }}/ada/#405.5-Clear-Width)]
 
 Ramp runs must have a clear width of 36" minimum (measured between
 handrails where provided). The width of ramps that are part of a means
@@ -72,7 +72,7 @@ Common use circulation paths must be accessible in work areas 1,000 sq. ft. or m
 
 ### Rise
 
-[[§405.6]({{ site.baseurl }}/ada/#ada-405_6)]
+[[§405.6]({{ site.baseurl }}/ada/#405.6-Rise)]
 
 The height of runs is limited (30" max.), but there is no limit on the
 number of runs a ramp may have. Long ramps with many runs can be
@@ -82,7 +82,7 @@ that must be exerted to negotiate multiple runs.
 
 ### Landings
 
-[[§405.7]({{ site.baseurl }}/ada/#ada-405_7)]
+[[§405.7]({{ site.baseurl }}/ada/#405.7-Landings)]
 
 Level landings are required at the top and bottom of each run. Changes
 in level greater than 1:48 are not permitted at landings. Landings must
@@ -132,7 +132,7 @@ landing.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr8.jpg){: .img
 
 ### Handrails
 
-[[§405.8]({{ site.baseurl }}/ada/#ada-405_8)]
+[[§405.8]({{ site.baseurl }}/ada/#405.8-Handrails]
 
 Handrails are required on both sides of ramps with a rise greater than
 6". The Standards do not require lower handrails serving children except
@@ -211,7 +211,7 @@ img-alt= "Aisle ramp with seating on both sides and center handrail that is disc
 
 ### Edge Protection
 
-[[§405.9]({{ site.baseurl }}/ada/#ada-405_9)]
+[[§405.9]({{ site.baseurl }}/ada/#405.9-Edge-Protection)]
 
 Edge protection along ramp runs and landings keep wheelchair casters and
 crutch tips on the surface and can be provided by curbs, barriers, or
@@ -253,7 +253,7 @@ Edge protection is not required at:
 
 ### Wet Conditions
 
-[[§405.10]({{ site.baseurl }}/ada/#ada-405_10)]
+[[§405.10]({{ site.baseurl }}/ada/#405.10-Wet-Conditions)]
 
 Landings subject to wet conditions must be designed to prevent the
 accumulation of water. Landings are permitted slopes not steeper than
@@ -291,7 +291,7 @@ or other changes in level), Ramp Running Slope 1:12 max, Counter Slope
 
 #### Top Landing
 
-[[§406.4]({{ site.baseurl }}/ada/#ada-406_4)]
+[[§406.4]({{ site.baseurl }}/ada/#406.4-Landings)]
 
 The required landing at the top of curb ramps allows an accessible route
 to connect to the ramp opening. Side flares, where provided, are
@@ -337,7 +337,7 @@ parallel accessible route">
 
 #### Sides of Curb Ramps
 
-[[§406.3]({{ site.baseurl }}/ada/#ada-406_3)]
+[[§406.3]({{ site.baseurl }}/ada/#406.3-Sides-of-Curb-Ramps)]
 
 Curb ramps can have returned sides, but a top landing is required under
 all conditions to allow maneuvering to and from the run.
@@ -405,7 +405,7 @@ directionally oriented to the crosswalk.
 
 #### Diagonal Curb Ramps
 
-[[§406.6]({{ site.baseurl }}/ada/#ada-406_6)]
+[[§406.6]({{ site.baseurl }}/ada/#406.6-Diagonal-Curb-Ramps)]
 
 <div class="clearfix" markdown="1">
 ![Diagonal curb ramp with a clear space 48" long min. at the bottom that
@@ -439,7 +439,7 @@ traffic, height, and markings.
 
 #### Islands
 
-[[§406.7]({{ site.baseurl }}/ada/#ada-406_7)]
+[[§406.7]({{ site.baseurl }}/ada/#406.7-Islands)]
 
 A 48" min. long separation is necessary between curb ramps so that
 people using wheelchairs can clear one ramp before negotiating the next.
@@ -460,7 +460,7 @@ wide]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr32.jpg){: .img-la
 
 #### Detectable Warnings
 
-[[§406.8]({{ site.baseurl }}/ada/#ada-406_8)]
+[[§406.8]({{ site.baseurl }}/ada/#406.8-Detectable-Warnings.)]
 
 ![Transit icon ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr33.jpg){: .float-right .thumbnail}
 

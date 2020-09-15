@@ -162,3 +162,208 @@ collections:
           widget: "text",
           required: false,
         }
+  - label: Board Members
+    name: board-members
+    folder: _board-members/
+    create: true
+    slug: "{{name}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Name",
+          name: "name",
+          widget: "string",
+          hint: 'This is the first name and last name appended with a hyphen in lowercase. ie("george-washington")',
+          required: true,
+        }
+      - {
+          label: "Last Name",
+          name: "last-name",
+          widget: "string",
+          hint: 'Just the last name for alphabetical sorting purposes, example "washington")',
+          required: true,
+        }
+      - { 
+          label: "Full Name with titles and salutations",
+          name: "full_name",
+          widget: "string",
+          hint: 'Pres. George Washington, PhD',          
+          required: true,
+        }
+      - { 
+          label: "Chairperson",
+          name: "chair",
+          widget: "boolean",
+          default: false,
+          required: true,
+          hint: "If yes, Click to slide right",
+        }
+      - { 
+          label: "Vice-Chairperson",
+          name: "vice-chair",
+          widget: "boolean",
+          default: false,
+          required: true,
+          hint: "If yes, Click to slide right",
+        }
+      - {
+          label: "Public/Federal Member",
+          name: "member",
+          widget: "select",
+          options: ["public", "federal"],
+          required: true,
+        }
+      - { 
+          label: "Status",
+          name: "status",
+          widget: "select",
+          options: ["current", "former"],
+          required: true,
+          hint: "Is this a current or former board member?",
+        }
+      - { 
+          label: "Appointing Presidential Administration",
+          name: "president",
+          widget: "select",
+          options: ["Trump", "Obama", "Bush", "Clinton", "HW Bush", "Reagan", "Carter"],
+          required: false,
+          hint: "Which administration appointed this board member?",
+        }
+      - {
+          label: "Image",
+          name: "image",
+          widget: "image",
+          allow_multiple: false,
+          required: false,
+        }
+      - { label: "Bio", name: "bio", widget: "text", required: false }
+      - { label: "Agency", name: "agency", widget: "string", default: "", required: false }
+  - label: 504 contacts
+    name: contacts-504
+    folder: _contacts-504/
+    create: true
+    slug: "{{name}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "unique agency name",
+          name: "name",
+          widget: "string",
+          hint: 'This is the abbreviated name of the agency with hyphens and in lowercase. ie("doj, hhs, hud")',
+        }
+      - { 
+          label: "Full Agency Name",
+          name: "full_name",
+          widget: "string",
+          hint: 'Ex. Department of Health and Human Services',
+        }
+      - {
+        label: "504 contact name",
+        name: "contact",
+        widget: "string",
+        default: "",
+        required: false,
+        hint: 'Ex. George Washington',
+        }
+      - {
+        label: "504 contact Job Title",
+        name: "job-title",
+        widget: "string",
+        default: "",
+        required: false,
+        hint: 'Ex. Director',
+        }
+      - {
+        label: "Department",
+        name: "department",
+        widget: "string",
+        default: "",
+        required: false,
+        hint: 'Ex. Office of Equal Opportunity',
+        }
+      - {
+        label: "504 contact Email address",
+        name: "email",
+        widget: "string",
+        default: "",
+        required: false,
+        hint: 'Ex. george.washington@agency.gov',
+        }
+      - {
+        label: "504 contact phone number",
+        name: "phone",
+        widget: "string",
+        default: "",
+        required: false,
+        hint: 'Ex. (888) 888-8888',
+        }
+      - {
+        label: "General phone number",
+        name: "phone-g",
+        widget: "string",
+        default: "",
+        required: false,
+        hint: 'Ex. (888) 888-8888',
+        }
+      - {
+        label: "TTY",
+        name: "tty",
+        widget: "string",
+        default: "",
+        required: false,
+        hint: 'Ex. (888) 888-8888',
+        }
+      - {
+        label: "Fax",
+        name: "fax",
+        widget: "string",
+        default: "",
+        required: false,
+        hint: 'Ex. (888) 888-8888',
+        }
+      - {
+        label: "General Email address",
+        name: "email-g",
+        widget: "string",
+        default: "",
+        required: false,
+        hint: 'Ex. contact@agency.gov',
+        }
+      - {
+        label: "Website (504 specific URL)",
+        name: "website",
+        widget: "string",
+        default: "",
+        required: false,
+        hint: 'Ex. https://www.governmentagency.gov/504-policy',
+        }
+      - {
+        label: "Mailing address",
+        name: "address",
+        widget: "text",
+        default: "",
+        required: false,
+        }
+      - {
+        label: "Notes",
+        name: "notes",
+        widget: "text",
+        default: "",
+        required: false,
+        }
+      - {
+        label: "CFR Assisted",
+        name: "cfr-assisted",
+        widget: "string",
+        default: "",
+        required: false,
+        }
+      - {
+        label: "CFR Conducted",
+        name: "cfr-conducted",
+        widget: "string",
+        default: "",
+        required: false,
+        }
