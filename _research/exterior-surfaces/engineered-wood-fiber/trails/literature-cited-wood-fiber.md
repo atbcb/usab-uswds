@@ -1,7 +1,7 @@
 ---
 title: Literature Cited
 order-number: 5
-research-title: Stabilized Engineered Wood Fiber for Accessible Trails
+group-title: Stabilized Engineered Wood Fiber for Accessible Trails
 status: completed
 year-completed: 2006
 topic: Exterior Surfaces

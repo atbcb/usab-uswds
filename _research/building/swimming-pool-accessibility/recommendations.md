@@ -1,7 +1,7 @@
 ---
 title: Recommendations
 order-number: 2
-research-title: Swimming Pool Accessibility
+group-title: Swimming Pool Accessibility
 status: completed
 year-completed: 1996
 topic: Building Elements and Spaces

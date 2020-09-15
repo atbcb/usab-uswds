@@ -1,7 +1,7 @@
 ---
 title: Conclusions and Recommendations
 order-number: 3
-research-title: Toileting and Bathing Facilities for Assisted Transfers
+group-title: Toileting and Bathing Facilities for Assisted Transfers
 status: completed
 year-completed: 2001
 topic: Building Elements and Spaces

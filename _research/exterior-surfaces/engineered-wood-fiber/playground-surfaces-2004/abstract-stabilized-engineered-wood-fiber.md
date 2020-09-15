@@ -1,7 +1,7 @@
 ---
 title: Abstract
 order-number: 1
-research-title: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces
+group-title: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces
 status: completed
 year-completed: 2004
 topic: Exterior Surfaces

@@ -1,7 +1,7 @@
 ---
 title: Abstract
 order-number: 2
-research-title: Interfacing Accessible Pedestrian Signals (APS) with Traffic Signal Control Equipment
+group-title: Interfacing Accessible Pedestrian Signals (APS) with Traffic Signal Control Equipment
 status: completed
 year-completed: 2003
 topic: Public Rights-of-Way

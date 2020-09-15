@@ -1,7 +1,7 @@
 ---
 title: Background
 order-number: 2
-research-title: Large Area Assistive Listening Systems
+group-title: Large Area Assistive Listening Systems
 status: completed
 topic: Communication and Information
 ---

@@ -1,7 +1,9 @@
 ---
 title: Updated ADAAG for Buses and Vans (Single File Version)
-file: 
+order-number: 8
 version: original
+group-title: Updated ADA Accessibility Guidelines for Buses and Vans
+layout: page-group
 ---
 
 Published in the [Federal Register](https://www.federalregister.gov/d/2016-28867) December 14, 2016.

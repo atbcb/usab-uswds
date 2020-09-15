@@ -1,7 +1,7 @@
 ---
 title: Crossing at Roundabouts
 order-number: 2
-research-title: "Pedestrian Access to Modern Roundabouts: Design and Operational Issues for Pedestrians who are Blind"
+group-title: "Pedestrian Access to Modern Roundabouts: Design and Operational Issues for Pedestrians who are Blind"
 status: completed
 year-completed: 2001
 topic: Public Rights-of-Way

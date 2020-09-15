@@ -312,7 +312,7 @@ defaults:
     values:
       collection-title: "Research"
       collection-folder: research
-      layout: research
+      layout: page-group
       file-directory: /files/research/
       image-directory: /images/research/
   - scope:
@@ -336,6 +336,7 @@ defaults:
       type: "pages"
     values:
       collection-title: "Pages"
+      collection-folder: pages
 
 markdown: kramdown
 plugins:

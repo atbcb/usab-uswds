@@ -1,7 +1,7 @@
 ---
 title: Introduction
 order-number: 1
-research-title: Large Area Assistive Listening Systems
+group-title: Large Area Assistive Listening Systems
 status: completed
 topic: Communication and Information
 permalink: /research/communication/assistive-listening-systems/
