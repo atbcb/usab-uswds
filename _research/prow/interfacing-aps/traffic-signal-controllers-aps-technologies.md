@@ -1,7 +1,7 @@
 ---
 title: Traffic Signal Controllers and APS Technologies
 order-number: 4
-research-title: Interfacing Accessible Pedestrian Signals (APS) with Traffic Signal Control Equipment
+group-title: Interfacing Accessible Pedestrian Signals (APS) with Traffic Signal Control Equipment
 status: completed
 year-completed: 2003
 topic: Public Rights-of-Way

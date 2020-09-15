@@ -1,5 +1,6 @@
 ---
 name: lance-robertson
+last-name: robertson
 full_name: Lance Robertson
 chair: true
 vice-chair: false

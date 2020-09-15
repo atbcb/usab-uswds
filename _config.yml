@@ -171,7 +171,7 @@ collections:
     permalink: /authors/:name/
   board-members:
     output: true
-    permalink: /board-members/:name/
+    permalink: /about/board-members/:name/
   tags:
     output: false
   contacts-504:
@@ -312,7 +312,7 @@ defaults:
     values:
       collection-title: "Research"
       collection-folder: research
-      layout: research
+      layout: page-group
       file-directory: /files/research/
       image-directory: /images/research/
   - scope:
@@ -336,6 +336,7 @@ defaults:
       type: "pages"
     values:
       collection-title: "Pages"
+      collection-folder: pages
 
 markdown: kramdown
 plugins:

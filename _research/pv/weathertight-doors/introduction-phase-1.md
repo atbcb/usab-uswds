@@ -1,7 +1,7 @@
 ---
 title: Introduction Phase 1
 order-number: 1
-research-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
+group-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2004
 topic: Passenger Vessels

@@ -1,7 +1,7 @@
 ---
 title: U.S. Fleet Case Studies Phase 1
 order-number: 3
-research-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
+group-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2004
 topic: Passenger Vessels

@@ -50,9 +50,9 @@ The proposed guidelines will be codified as an appendix to 36 CFR part 1190. In 
 
 The Access Board is an independent federal agency established by section 502 of the Rehabilitation Act (29 U.S.C. 792).1 The Access Board is responsible for developing accessibility guidelines for the design, construction, and alteration of facilities to ensure that they are readily accessible to and usable by individuals with disabilities. The Access Board's guidelines play an important part in the implementation of three laws that require newly constructed and altered facilities to be accessible to individuals with disabilities: the Americans with Disabilities Act, Section 504 of the Rehabilitation Act, and the Architectural Barriers Act. As further discussed under the Statutory and Regulatory Background, these laws require other federal agencies to issue regulations which include accessibility standards for the design, construction, and alteration of facilities. The regulations issued by the other federal agencies to implement these laws adopt, with or without additions and modifications, the Access Board's guidelines as accessibility standards. When the Access Board's guidelines are adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing these laws, compliance with the accessibility standards is mandatory.
 
-**Statutory and Regulatory Background**
+#### Statutory and Regulatory Background
 
-*Americans with Disabilities Act*
+##### Americans with Disabilities Act
 
 The Americans with Disabilities Act (42 U.S.C. 12101 et seq.) is a federal civil rights law that prohibits discrimination against individuals with disabilities. Title II of the Americans with Disabilities Act covers state and local governments.2 The Department of Justice is responsible for issuing regulations to implement Title II of the Americans with Disabilities Act, except for the public transportation parts.3 The regulations issued by the Department of Justice include accessibility standards for the design, construction, and alteration of facilities (other than facilities used in the provision of public transportation covered by regulations issued by the Department of Transportation).4 The Department of Justice's accessibility standards adopt, with additions and modifications, the Access Board's current guidelines, which are discussed below under the Need for Rulemaking.5 See 28 CFR 35.104 and 35.151.
 
@@ -60,7 +60,7 @@ The Department of Transportation is responsible for issuing regulations to imple
 
 The Department of Justice is responsible for overall enforcement of Title II of the Americans with Disabilities Act. The Department of Justice has designated the Department of Transportation as the federal agency responsible for investigating complaints and conducting compliance reviews "relating to programs, services, and regulatory activities relating to transportation, including highways." See 28 CFR 35.190 (b) (8).
 
-*Section 504 of the Rehabilitation Act*
+##### Section 504 of the Rehabilitation Act
 
 Section 504 of the Rehabilitation Act (29 U.S.C. 794) (hereinafter referred to as "Section 504") prohibits discrimination against individuals with disabilities under any program or activity receiving federal financial assistance. The term "program or activity" includes all the operations of a state or local government entity that receives federal financial assistance directly or indirectly from the federal government. See 29 U.S.C. 794 (b). Each federal agency that provides federal financial assistance is responsible for issuing regulations to implement Section 504 that are consistent with requirements established by the Department of Justice. See Executive Order 12250 in Appendix A to 28 CFR part 41. The Department of Justice requires facilities designed, constructed, or altered by recipients of federal financial assistance to be accessible to individuals with disabilities. See 28 CFR 41.58.
 
@@ -68,31 +68,31 @@ The Department of Transportation provides federal financial assistance to state 
 
 The Department of Transportation is responsible for investigating complaints and conducting compliance reviews under Section 504 relating to recipients of federal financial assistance from the Department. See 49 CFR 27.121 and 27.123.
 
-*Architectural Barriers Act*
+##### Architectural Barriers Act
 
 The Architectural Barriers Act (42 U.S.C. 4151 et seq.) requires certain facilities financed with federal funds to be accessible to individuals with disabilities. The Architectural Barriers Act covers facilities financed in whole or part by a federal grant or loan where the federal agency that provides the grant or loan is authorized to issue standards for the design, construction, or alteration of the facilities.8 See 42 U.S.C. 4151 (3). The General Services Administration is required to issue accessibility standards for facilities covered by the Architectural Barriers Act.9 See 42 U.S.C. 4156. The accessibility standards issued by the General Services Administration adopt, without any additions or modifications, the Access Board's current guidelines, which are discussed below under the Need for Rulemaking. See 41 CFR 102-76.65.
 
 The Access Board is responsible for enforcing the Architectural Barriers Act. See 29 U.S.C 792 (b) (1) and (e).
 
-**Need for Rulemaking**
+#### Need for Rulemaking
 
 This section discusses the Congressional findings in the Americans with Disabilities Act that establish the need for accessibility guidelines, the Access Board's current accessibility guidelines, and why the Access Board is proposing to issue accessibility guidelines for pedestrian facilities in the public right-of-way.
 
-*Congressional Findings of Discrimination*
+##### Congressional Findings of Discrimination
 
 The Americans with Disabilities Act was enacted in 1990 by overwhelming bipartisan majorities in the House of Representatives (377 -- 28) and in the Senate (91 -- 6).10 Congress compiled an extensive record of the discrimination experienced by individuals with disabilities in critical areas such as employment, public accommodations, state and local government services, and transportation. Congress found that "despite some improvements such forms of discrimination against individuals with disabilities continue to be a serious and pervasive social problem." 42 U.S.C. 12101 (a) (2). Among the forms of discrimination that Congress found to be a continuing problem are "the discriminatory effects of architectural, transportation, and communication barriers." 42 U.S.C. 12101 (a) (5). Congress found that "the continuing existence of unfair and unnecessary discrimination and prejudice denies people with disabilities the opportunity to compete on an equal basis and to pursue those opportunities for which our free society is justifiably famous, and costs the United States billions of dollars in unnecessary expenses resulting from dependency and nonproductivity." 42 U.S.C. 12101 (a) (9). Congress declared that "the Nation's proper goals regarding individuals with disabilities are to ensure equality of opportunity, full participation, independent living, and economic self-sufficiency for such individuals." 42 U.S.C. 12101 (a) (8).
 
 The purpose of the Americans with Disabilities Act is "to provide a clear and comprehensive national mandate for the elimination of discrimination against individuals with disabilities" and "to provide clear, strong, and consistent, enforceable standards addressing discrimination against individuals with disabilities." 42 U.S.C. 12101 (b) (1) and (2). Congress directed the Access Board to supplement the accessibility guidelines developed earlier for the Architectural Barriers Act to include "additional requirements, consistent with this Act, to ensure that buildings, facilities, rail passenger cars, and vehicles are accessible in terms of architecture and design, transportation, and communication, to individuals with disabilities." 42 U.S.C. 12204 (b).
 
-*Current Guidelines Developed Primarily for Buildings and Facilities on Sites*
+##### Current Guidelines Developed Primarily for Buildings and Facilities on Sites\
 
 The Access Board's current accessibility guidelines were issued in 2004 and are known as the Americans with Disabilities Act and Architectural Barriers Act Accessibility Guidelines (hereinafter referred to as "2004 ADA and ABA Accessibility Guidelines").11 69 FR 44083 (July 23, 2004). The 2004 ADA and ABA Accessibility Guidelines revised and updated the Americans with Disabilities Act Accessibility Guidelines, which were issued by the Access Board in 1991 (hereinafter referred to as "1991 ADAAG"). 56 FR 35408 (July 26, 1991). The requirements in the 1991 ADAAG and 2004 ADA and ABA Accessibility Guidelines were developed primarily for buildings and facilities on sites.12 Some of the requirements can be readily applied to pedestrian facilities in the public right-of-way. However, other requirements need to be adapted for pedestrian facilities in the public right-of-way.
 
-*Proposed Guidelines Developed Specifically for Pedestrian Facilities in the Public Right-of-Way*
+##### Proposed Guidelines Developed Specifically for Pedestrian Facilities in the Public Right-of-Way
 
 The proposed guidelines are developed specifically for pedestrian facilities in the public right-of-way and address conditions and constraints that exist in the public right-of-way. As discussed below under the Major Issues, the requirements in the proposed guidelines make allowances for typical roadway geometry and permit flexibility in alterations to existing facilities where existing physical constraints make it impractical to fully comply with new construction requirements. The proposed guidelines also include requirements for elements and facilities that exist only in the public right-of-way such as pedestrian signals and roundabouts.
 
-**Rulemaking History**
+#### Rulemaking History
 
 The Access Board began developing accessibility guidelines for pedestrian facilities in the public right-of-way shortly after the Americans with Disabilities Act was enacted in 1990. Proposed guidelines for state and local government facilities, including pedestrian facilities in the public right-of-way, were initially issued in 1992. 57 FR 60612 (December 21, 1992). Interim guidelines were issued in 1994. 59 FR 31676 (June 20, 1994). Final guidelines were issued in 1998, but did not include requirements for pedestrian facilities in the public right-of-way because comments submitted on the proposed and interim guidelines demonstrated a need for additional research, as well as education and outreach. 63 FR 2000 (January 13, 1998).
 
@@ -108,7 +108,7 @@ The Access Board developed draft accessibility guidelines for pedestrian facilit
 
 Transportation officials who commented on the 2002 draft guidelines raised some major issues that are addressed below.
 
-*Alterations to Existing Facilities*
+#### Alterations to Existing Facilities
 
 The draft guidelines required alterations to existing facilities to comply with the requirements for new construction to the maximum extent feasible. Most of the improvements in the public right-of-way involve alterations to existing facilities. Transportation officials noted that the meaning of the term "to the maximum extent feasible" was not clear and wanted additional guidance on how to apply the guidelines when existing facilities are altered.
 
@@ -116,13 +116,13 @@ The proposed guidelines clarify that where elements, spaces, or facilities are a
 
 In addition, the proposed guidelines recognize that it is not always possible for altered elements, spaces, or facilities to fully comply with new construction requirements because of existing physical constraints. Where existing physical constraints make it impracticable for altered elements, spaces, or facilities to fully comply with the requirements for new construction, compliance is required to the extent practicable within the scope of the project (see R202.3.1). Existing physical constraints include, but are not limited to, underlying terrain, right-of-way availability, underground structures, adjacent developed facilities, drainage, or the presence of a notable natural or historic feature. The proposed guidelines permit flexibility in alterations to existing facilities where needed.
 
-*Existing Facilities That Are Not Altered*
+#### Existing Facilities That Are Not Altered
 
 Transportation officials expressed concern about application of the draft guidelines to existing facilities that are not altered. The proposed guidelines clarify that the guidelines do not address existing facilities unless they are included within the scope of an alteration undertaken at the discretion of a covered entity (see R101.2).
 
 The Department of Justice regulations implementing Title II of the Americans with Disabilities Act contain requirements for state and local governments regarding program accessibility and existing facilities. See 28 CFR 35.150. The Department of Transportation regulations implementing Section 504 also contain requirements for recipients of federal financial assistance from the Department regarding compliance planning. See 49 CFR 27.11 (c). The Access Board acknowledges that transportation officials are concerned about their obligations under the Title II of the Americans with Disabilities Act and Section 504 for existing facilities that are not altered, but the Access Board does not have the authority to address the application of the proposed guidelines to existing facilities that are not altered. When the Department of Justice and Department of Transportation conduct rulemaking to include accessibility standards for pedestrian facilities in the public right-of-way in regulations implementing Title II of the Americans with Disabilities Act and Section 504, they will address the application of the accessibility standards to existing facilities that are not altered. Comments concerning existing facilities that are not altered should be directed to the Department of Justice and Department of Transportation when they conduct rulemaking to include accessibility standards for pedestrian facilities in the public right-of-way in regulations implementing Title II of the Americans with Disabilities Act and Section 504.
 
-*Allowances for Typical Roadway Geometry*
+#### Allowances for Typical Roadway Geometry
 
 The 1991 ADAAG and 2004 ADA and ABA Accessibility Guidelines specify a maximum running slope of 5 percent and maximum cross slope of 2 percent for walking surfaces on accessible routes. The draft guidelines adapted these requirements for pedestrian access routes in the public right-of-way and made an allowance for typical roadway geometry by permitting the grade of pedestrian access routes within sidewalks to equal the general grade established for the adjacent street or highway. The draft guidelines also permitted the cross slope of pedestrian access routes within midblock pedestrian street crossings and of curb ramps at midblock pedestrian street crossings to equal the street or highway grade.
 
@@ -154,7 +154,7 @@ The proposed guidelines apply to pedestrian facilities in the public right-of-wa
 -   Street furniture for pedestrian use, including drinking fountains, public toilet facilities, tables, counters, and benches; and
 -   Ramps, stairways, escalators, handrails, doors, doorways, and gates.
 
-**Use of Mandatory Language in Proposed Guidelines**
+#### Use of Mandatory Language in Proposed Guidelines
 
 The proposed guidelines use the mandatory language "shall" and "requirement" because the guidelines are intended to be adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing Title II of the Americans with Disabilities Act, Section 504, and the Architectural Barriers Act. In this regard, the proposed guidelines are analogous to model codes. Model codes use mandatory language but compliance with model codes is not mandatory until they are adopted by a state or local government. When the Access Board's guidelines are adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing Title II of the Americans with Disabilities Act, Section 504, and the Architectural Barriers Act, compliance with the accessibility standards is mandatory. The other federal agencies will conduct separate rulemakings to include accessibility standards for pedestrian facilities in the public right-of-way in regulations implementing Title II of the Americans with Disabilities Act, Section 504, and the Architectural Barriers Act. The other federal agencies will establish the effective dates for compliance with the accessibility standards when they complete their rulemakings. The other federal agencies may permit use of the proposed guidelines as best practices pending the completion of their rulemakings. However, the proposed guidelines are not legally enforceable until adopted, with or without additions and modifications, as accessibility standards by other federal agencies in regulations implementing Title II of the Americans with Disabilities Act, Section 504, and the Architectural Barriers Act.
 
@@ -168,15 +168,15 @@ The Access Board prepared a regulatory assessment of the potential costs and ben
 
 In the absence of the proposed guidelines, the regulatory assessment assumes that state and local transportation departments will use the revised accessibility standards in the Department of Justice regulations implementing Title II of the Americans with Disabilities Act (hereinafter referred to as "DOJ 2010 Standards") to the extent feasible when designing, constructing, or altering pedestrian facilities in the public right-of-way, consistent with the guidance issued by the Federal Highway Administration, as well as other applicable standards and industry practices.23 An analysis of the proposed guidelines compared to the DOJ 2010 Standards, other applicable standards, and industry practices is included in the appendix to the regulatory assessment. The analysis consists of three tables.
 
-*Table 1. Proposed Guidelines Contain Same Requirements as in DOJ 2010 Standards*
+#### Table 1. Proposed Guidelines Contain Same Requirements as in DOJ 2010 Standards
 
 Table 1 analyzes requirements in the proposed guidelines that are the same as requirements in the DOJ 2010 Standards.[24](http://www.access-board.gov/prowac/nprm.htm#24) The requirements in the proposed guidelines in Table 1 will have no impacts on state and local transportation departments compared to the requirements in the DOJ 2010 Standards because the requirements are the same.
 
-*Table 2. Proposed Guidelines Adapt Requirements in DOJ 2010 Standards*
+#### Table 2. Proposed Guidelines Adapt Requirements in DOJ 2010 Standards
 
 Table 2 analyzes requirements in the proposed guidelines that adapt requirements in the DOJ 2010 Standards to allow for conditions and constraints in the public right-of-way.25 The requirements in the proposed guidelines in Table 2 do not establish greater requirements for accessibility in the public right-of-way than the requirements in the DOJ 2010 Standards and industry practices. Some of the requirements in the proposed guidelines in Table 2 establish lesser requirements for accessibility in the public right-of-way than the requirements in the DOJ 2010 Standards. For example, where the pedestrian access route in a sidewalk is contained within the street or highway right-of-way, the grade of the pedestrian access route is permitted to equal the general grade established for the adjacent street or highway to allow for typical roadway geometry instead of the running slope requirements for accessible routes on sites. The requirements in the proposed guidelines in Table 2 will have no impacts on state and local transportation departments compared to the requirements in the DOJ 2010 Standards and industry practices, except for the 2 percent maximum cross slope requirement for pedestrian access routes contained within pedestrian street crossings with stop or yield control where vehicles slow or stop before proceeding through the intersection (see R204.3 and R302.6). This requirement will have more than minimal impacts on the design and construction of new tabled intersections in hilly urban areas that contain pedestrian street crossings with stop or yield control. The impacts are analyzed in the regulatory assessment and discussed below under Cross Slope (R302.6) in the Section-by-Section Analysis.
 
-*Table 3. Proposed Guidelines Contain Requirements Not in DOJ 2010 Standards*
+#### Table 3. Proposed Guidelines Contain Requirements Not in DOJ 2010 Standards
 
 Table 3 analyzes requirements in the proposed guidelines for which there are no corresponding requirements in the DOJ 2010 Standards. 26 The requirements in the proposed guidelines in Table 3 are compared to other applicable accessibility standards and the 2009 edition of Manual on Uniform Traffic Control Devices for Streets and Highways (MUTCD). Where the requirements in the proposed guidelines in Table 3 are the same as the requirements in other applicable accessibility standards or the MUTCD, the requirements will have no impacts on state and local transportation departments. Where a requirement in the proposed guidelines in Table 3 differs from a corresponding requirement in other applicable accessibility standards or there is no corresponding requirement in other applicable accessibility standards, the analysis used the following factors to identify whether the requirement will have more than minimal impacts on state and local transportation departments:
 
@@ -213,41 +213,41 @@ The proposed guidelines consist of four chapters. Chapter R1 addresses the appli
 
 The Access Board is committed to writing guidelines that are clear, concise, and easy to understand so that persons who use the guidelines know what is required. If any of the proposed guidelines are ambiguous or not clear, point out the problematic language in your comments so it can be improved in the final guidelines.
 
-**Chapter R1: Application and Administration**
+#### Chapter R1: Application and Administration
 
-*R101 Purpose*
+##### R101 Purpose
 
 The proposed guidelines contain scoping and technical requirements to ensure that facilities for pedestrian circulation and use located in the public right-of-way are readily accessible to and usable by pedestrians with disabilities. When the guidelines are adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing Title II of the Americans with Disabilities Act, Section 504, and the Architectural Barriers Act, compliance with the accessibility standards is mandatory.
 
 The proposed guidelines do not address existing facilities unless they are included within the scope of an alteration to an existing facility undertaken at the discretion of a covered entity. The Department of Justice regulations implementing Title II of the Americans with Disabilities Act contain requirements for state and local governments regarding program accessibility and existing facilities. See 28 CFR 35.150. The Department of Transportation regulations implementing Section 504 also contain requirements for recipients of federal financial assistance from the Department regarding compliance planning. See 49 CFR 27.11 (c). As discussed above under the Major Issues, transportation officials who commented on the 2002 draft guidelines expressed concern about existing facilities that are not altered. When the Department of Justice and Department of Transportation conduct rulemaking to include accessibility standards for pedestrian facilities in the public right-of-way in regulations implementing Title II of the Americans with Disabilities Act and Section 504, they will address the application of the accessibility standards to existing facilities that are not altered. Comments concerning existing facilities that are not altered should be directed to the Department of Justice and Department of Transportation when they conduct rulemaking to include accessibility standards for pedestrian facilities in the public right-of-way in regulations implementing Title II of the Americans with Disabilities Act and Section 504.
 
-*R102 Equivalent Facilitation*
+##### R102 Equivalent Facilitation
 
 The use of alternative designs, products, or technologies that result in substantially equivalent or greater accessibility and usability than the proposed guidelines is permitted.
 
-*R103 Conventions*
+##### R103 Conventions
 
 Conventional industry tolerances apply where dimensions are not stated as a range. Where the required number of accessible facilities or elements is based on ratios or percentages and remainders or fractions result, the next greater whole number is required. Where the required size or dimension of a facility or element is based on ratios or percentages, rounding down for values less than one half is permitted. Measurements are stated in metric and U.S. customary units, and each system of measurement is to be used independently of the other.
 
-*R104 Referenced Standards*
+##### R104 Referenced Standards
 
 The proposed guidelines incorporate by reference certain standards in the 2009 edition of the Manual on Uniform Traffic Control Devices for Streets and Highways (MUTCD). The referenced MUTCD standards are discussed below under the relevant requirements regarding the provision of alternate pedestrian access routes when a pedestrian circulation path is temporarily closed, the provision of accessible pedestrian signals and pedestrian pushbuttons, and pedestrian signal phase timing. The MUTCD is available on the Federal Highway Administration website at: [http://mutcd.fhwa.dot.gov](http://mutcd.fhwa.dot.gov/).
 
-*R105 Definitions*
+##### R105 Definitions
 
 The proposed guidelines incorporate the MUTCD definitions for the following terms: highway, intersection, island, median, pedestrian, roundabout, sidewalk, splitter island, and street. The proposed guidelines define the following terms: accessible, alteration, blended transition, cross slope, curb line, curb ramp, element, facility, grade break, operable part, pedestrian access route, pedestrian circulation path, public right-of-way, qualified historic facility, running slope, and vertical surface discontinuities. These definitions are discussed in the sections where the terms are used. Collegiate dictionaries are used to determine the meaning of terms that are not defined in the proposed guidelines, referenced MUTCD standards, or regulations issued by federal agencies that adopt the proposed guidelines as accessibility standards. Singular and plural words, terms, and phrases are used interchangeably.
 
-**Chapter R2: Scoping Requirements**
+#### Chapter R2: Scoping Requirements
 
 Scoping requirements specify what pedestrian facilities must comply with the proposed guidelines. Some of the scoping requirements are triggered where certain pedestrian facilities are provided such as pedestrian signals (see R209), street furniture (see R212), transit stops and transit shelters (see R213), on-street parking (see R214), and passenger loading zones (see R215). The scoping requirements reference the technical requirements that each pedestrian facility must comply with in order to be considered accessible. The technical requirements are discussed in Chapters R3 and R4.
 
-*R201 Application*
+##### R201 Application
 
 The proposed guidelines apply to newly constructed facilities, altered portions of existing facilities, and elements added to existing facilities for pedestrian circulation and use located in the public right-of-way. The proposed guidelines apply to both permanent and temporary facilities in the public right-of-way. An advisory section provides examples of temporary facilities in the public right-of-way that are covered by the scoping requirements (e.g., temporary pedestrian circulation routes around work zones and portable public toilets).
 
 Buildings and structures in the public right-of-way that are not covered by the proposed guidelines must comply with the applicable requirements in the 2004 ADA and ABA Accessibility Guidelines. An advisory section provides examples of buildings and structures in the public right-of-way that are not covered by the proposed guidelines and must comply with the applicable requirements in the 2004 ADA and ABA Accessibility Guidelines (e.g., towers and temporary performance stages and reviewing stands).
 
-*R202 Alterations and Elements Added to Existing Facilities*
+##### R202 Alterations and Elements Added to Existing Facilities
 
 The proposed guidelines apply to alterations and elements added to existing facilities. Alterations are changes to an existing facility that affect or could affect pedestrian access, circulation, or use (see R105.5). Alterations include, but are not limited to, resurfacing, rehabilitation, reconstruction, historic restoration, or changes or rearrangement of structural parts or elements of a facility. The Department of Justice and Department of Transportation may provide guidance on the meaning of the word "resurfacing" when they conduct rulemaking to include accessibility standards for pedestrian facilities in the public right-of-way in regulations implementing Title II of the Americans with Disabilities Act and Section 504. Comments requesting guidance on the meaning of the term "resurfacing" should be directed to the Department of Justice and Department of Transportation when they conduct rulemaking to include accessibility standards for pedestrian facilities in the public right-of-way in regulations implementing Title II of the Americans with Disabilities Act and Section 504.
 
@@ -265,11 +265,11 @@ Transitional segments of pedestrian access routes must connect to unaltered segm
 
 Where the State Historic Preservation Officer or Advisory Council on Historic Preservation determines that compliance with a requirement would threaten or destroy historically significant features of a qualified historic facility, compliance is required to the extent that it does not threaten or destroy historically significant features of the facility. A qualified historic facility is a facility that is listed in or is eligible for listing in the National Register of Historic Places, or is designated as historic under state or local law (see R105.5)
 
-*R203 Machinery Spaces*
+##### R203 Machinery Spaces
 
 Vaults, tunnels, and other spaces used by service personnel only are not required to comply with the proposed guidelines.
 
-*R204 Pedestrian Access Routes*
+##### R204 Pedestrian Access Routes
 
 A pedestrian access route is a continuous and unobstructed path of travel provided for pedestrians with disabilities within or coinciding with a pedestrian circulation path in the public right-of-way (see R105.5). Pedestrian access routes in the public right-of-way ensure that the transportation network used by pedestrians is accessible to pedestrians with disabilities. Pedestrian access routes in the public right-of-way are analogous to accessible routes on sites in that they connect to accessible elements, spaces, and facilities in the public right-of-way, including accessible pedestrian signals and pedestrian pushbuttons, accessible street furniture, accessible transit stops and transit shelters, accessible on-street parking spaces and parking meters and parking pay stations serving those parking spaces, and accessible passenger loading zones. Pedestrian access routes in the public right-of-way also connect to accessible routes at building and facility site arrival points.27
 
@@ -283,19 +283,19 @@ Where an overpass, underpass, bridge, or similar structure is designed for pedes
 
 An advisory section notes that the Federal Highway Administration has issued guidance on the obligations of state and local governments to keep pedestrian access routes open and usable throughout the year, including snow and debris removal.
 
-*R205 Alternate Pedestrian Access Routes*
+##### R205 Alternate Pedestrian Access Routes
 
 Alternate pedestrian access routes must be provided when a pedestrian circulation path is temporarily closed by construction, alterations, maintenance operations, or other conditions. The alternate pedestrian access route must comply with the referenced MUTCD standards. The MUTCD standards require alternate pedestrian routes to be accessible and detectable, including warning pedestrians who are blind or have low vision about sidewalk closures. Proximity-actuated audible signs are a preferred means to warn pedestrians who are blind or have low vision about sidewalk closures.
 
-*R206 Pedestrian Street Crossings*
+##### R206 Pedestrian Street Crossings
 
 Pedestrian street crossings must comply with technical requirements in Chapter R3 that reference MUTCD standards for pedestrian signal phase timing. The technical requirements in Chapter R3 also include requirements for roundabouts and multi-lane channelized turn lanes.
 
-*R207 Curb Ramps and Blended Transitions*
+##### R207 Curb Ramps and Blended Transitions
 
 Curb ramps, blended transitions, or a combination of curb ramps and blended transitions must connect the pedestrian access routes at each pedestrian street crossing. Curb ramps and blended transitions must be wholly contained within the pedestrian street crossings served. Typically, two curb ramps must be provided at each street corner. In alterations where existing physical constraints prevent two curb ramps from being installed at a street corner, a single diagonal curb ramp is permitted at the corner.
 
-*R208 Detectable Warning Surfaces*
+##### R208 Detectable Warning Surfaces
 
 Detectable warning surfaces consist of small truncated domes built in or applied to a walking surface that are detectable underfoot. On pedestrian access routes, detectable warning surfaces indicate the boundary between a pedestrian route and a vehicular route where there is a flush rather than a curbed connection for pedestrians who are blind or have low vision. Detectable warning surfaces are not intended to provide wayfinding for pedestrians who are blind or have low vision. An advisory section provides information on streetscape designs that can make wayfinding easier. Detectable warning surfaces must be provided at the following locations on pedestrian access routes and at transit stops:
 
@@ -307,11 +307,11 @@ Detectable warning surfaces consist of small truncated domes built in or applied
 
 Detectable warning surfaces are not required at pedestrian refuge islands that are cut-through at street level and are less than 1.8 meters (6 feet) in length in the direction of pedestrian travel because detectable warning surfaces must extend 610 millimeters (2 feet) minimum on each side of the island and be separated by a 610 millimeters (2 feet) minimum length of island without detectable warning surfaces (see R305.1.4 and R305.2.4). Installing detectable warning surfaces at cut-through pedestrian islands that are less than 1.8 meters (6 feet) in length would compromise the effectiveness of detectable warning surfaces. An advisory section recommends that where a cut-through pedestrian island is less than 1.8 meters (6 feet) in length and the pedestrian street crossing is signalized, the signal should be timed for a complete crossing of the street.
 
-*Comments from Individuals Who Are Blind or Have Low Vision*
+##### Comments from Individuals Who Are Blind or Have Low Vision
 
 The National Federation of the Blind was a member of the advisory committee that recommended the proposed guidelines, but filed a minority report recommending detectable warning surfaces should be required only on curb ramps with slopes of 6.6 percent or less, and at medians and pedestrian refuge islands. Comments on the 2002 draft guidelines from individuals who identified themselves as blind or having low vision supported requiring detectable warning surfaces on all curb ramps by a margin of 2:1.
 
-*Detectable Warning Surfaces on Curb Ramps*
+##### Detectable Warning Surfaces on Curb Ramps
 
 When the Access Board issued the 1991 ADAAG, the guidelines contained a requirement for detectable warning surfaces on curb ramps. The requirement was temporarily suspended between 1994 and 2001 pending additional research and review of issues relating to requirement. The Access Board deferred addressing detectable warning surfaces on curb ramps in the 2004 ADA and ABA Accessibility Guidelines pending completion of the guidelines for pedestrian facilities in the public right-of-way. As a result of these actions, there are different requirements for detectable warning surfaces on curb ramps in the accessibility standards included the regulations issued by the Department of Justice implementing Title II of the Americans with Disabilities Act and by the Department of Transportation implementing Section 504.
 
@@ -321,7 +321,7 @@ The Department of Transportation regulations implementing Section 504 require st
 
 State and local transportation departments will be affected differently by the requirement in the proposed guidelines for detectable warning surfaces on curb ramps depending on the accessibility standards that they use for curb ramps in the public right-of-way. The Access Board reviewed the standard drawings for the design of curb ramps on state transportation department websites and found that the transportation departments in all 50 states and the District of Columbia specify detectable warning surfaces on curb ramps in the standard drawings.29 Most local transportation departments use standard drawings for the design of curb ramps that are consistent with the standard drawings maintained by their state transportation departments. These state and local transportation departments use either the DOJ 1991 Standards, which include the 1991 ADAAG requirement for detectable warning surfaces on curb ramps, or the Department of Transportation accessibility standards, which include the 2004 ADA and ABA Accessibility Guidelines as modified by the Department to include the requirement from the 1991 ADAAG for detectable warning surfaces on curb ramps.30
 
-*Governmental Units Affected*
+##### Governmental Units Affected
 
 State and local transportation departments are divided into four groups for the purpose of evaluating the impacts of the requirement in the proposed guidelines for detectable warning surfaces on curb ramps:
 
@@ -346,43 +346,78 @@ State and local transportation departments are divided into four groups for the 
 
 *Question 7*. The Access Board seeks information on the number of curb ramps that are constructed or altered on an annual basis in the public right-of-way by state and local transportation departments.
 
-*Costs to Provide Detectable Warning Surfaces on Curb Ramps*
+##### Costs to Provide Detectable Warning Surfaces on Curb Ramps
 
 Detectable warning surfaces are available in a variety of materials. The Volpe Center gathered data from local transportation departments and vendors on various detectable warning materials and estimated the costs of 8 square feet of the materials for a typical curb ramp as shown in the table below. The estimates do not include installation costs.
 
-| Detectable Warning Surfaces | Materials Costs for Typical Curb Ramp |
-| --- | --- |
-| Concrete pavers | $48 to $80 |
-| Brick pavers | $128 |
-| Polymer and composite materials | $120 to $200 |
- | Stainless steel or cast iron products | $240 |
- {: .usa-table}
-
+<table class="data">
+<caption>Costs to Provide Detectable Warning Surfaces on Curb Ramps</caption>
+<thead>
+<tr>
+<th>Detectable Warning Surfaces</th>
+<th>Materials Costs for Typical Curb Ramp</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th>
+Concrete pavers
+</th>
+<td>
+$48 to $80
+</td>
+</tr>
+<tr>
+<th>
+Brick pavers
+</th>
+<td>
+$128
+</td>
+</tr>
+<tr>
+<th>
+Polymer and composite materials
+</th>
+<td>
+$120 to $200
+</td>
+</tr>
+<tr>
+<th>
+Stainless steel or cast iron products
+</th>
+<td>
+$240
+</td>
+</tr>
+</tbody>
+</table>
 *Question 8.* The Access Board seeks additional information on the costs for detectable warning materials (8 square feet) and installation of the materials on a typical curb ramp.
 
-*Detectable Warning Surfaces on Boarding Platforms Used by Buses and Rail Vehicles, and Boarding and Alighting Areas Used by Rail Vehicles*
+##### Detectable Warning Surfaces on Boarding Platforms Used by Buses and Rail Vehicles, and Boarding and Alighting Areas Used by Rail Vehicles
 
 The 1991 ADAAG and 2004 ADA and ABA Accessibility Guidelines contain a requirement for detectable warning surfaces on rail platforms.32 The proposed guidelines adapt this requirement to transit stops in the public right-of-way, and require detectable warning surfaces on boarding platforms at transit stops for buses and rail vehicles (i.e., raised platforms used for level boarding by bus rapid transit systems and light rail systems) and at boarding and alighting areas at sidewalk or street level transit stops for rail vehicles. Detectable warning surfaces are not required where the edges of the boarding platform or the boarding and alighting areas facing the rail vehicles are protected by screens or guards.
 
-*Durability and Maintenance of Detectable Warning Surfaces*
+##### Durability and Maintenance of Detectable Warning Surfaces
 
 Transportation officials who commented on the 2002 draft guidelines expressed concern about the durability and maintenance of detectable warning surfaces. The National Cooperative Highway Research Program (NCHRP) has conducted two studies on the durability and maintenance of detectable warning surfaces. The first study was completed in 2005 and reviewed performance information submitted by state and local transportation departments.33 The performance information was limited in terms of the products reviewed and time period of review (about 2 years). The study noted that there were new promising detectable warning products on the market, and recommended that test methods be developed for evaluating the long-term performance and durability of the products. The second study was completed in 2010 and recommended procedures for testing and evaluating detectable warning products.34 The test methods can be used by state and local transportation departments to select detectable warning products that will provide long-term performance and durability under different environmental conditions. Many state and local transportation departments have evaluated and approved detectable warning products that are suited to their environments.
 
-*R209 Accessible Pedestrian Signals and Pedestrian Pushbuttons*
+#### R209 Accessible Pedestrian Signals and Pedestrian Pushbuttons
 
 An accessible pedestrian signal and pedestrian pushbutton is an integrated device that communicates information about the WALK and DON'T WALK intervals at signalized intersections in non-visual formats (i.e., audible tones and vibrotactile surfaces) to pedestrians who are blind or have low vision. The pedestrian pushbutton has a locator tone for detecting the device and a tactile arrow to indicate which pedestrian street crossing is served by the device. The MUTCD contains standards for accessible pedestrian signals and pedestrian pushbuttons, but does not require that they be provided. The proposed guidelines require accessible pedestrian signals and pedestrian pushbuttons to be provided when new pedestrian signals are installed. For existing pedestrian signals, the proposed guidelines require accessible pedestrian signals and pedestrian pushbuttons to be provided when the signal controller and software are altered, or the signal head is replaced. Accessible pedestrian signals and pedestrian pushbuttons must comply with the referenced standards in the MUTCD and the technical requirements for operable parts in Chapter R4. Technical assistance and training on the installation of accessible pedestrian signals and pedestrian pushbuttons is available from the Access Board and transportation industry professional associations.35
 
-*Comments from Individuals Who Are Blind or Have Low Vision*
+##### Comments from Individuals Who Are Blind or Have Low Vision
 
 The National Federation of the Blind was a member of the advisory committee that recommended the proposed guidelines, but filed a minority report recommending that state and local governments consult with the local blind community to determine whether to provide accessible pedestrian signals and pushbuttons on an intersection-by-intersection basis. Comments on the 2002 draft guidelines from individuals who identified themselves as blind or having low vision supported providing accessible pedestrian signals and pushbuttons at each signalized intersection where pedestrian signals are newly installed or replaced by a margin of 2:1.
 
-*Governmental Units Affected*
+##### Governmental Units Affected
 
 The Transportation Equity Act for the 21st Century (TEA-21) directed that audible traffic signals be included in transportation plans and projects where appropriate. See 23 U.S.C. 217 (g). Some state and local transportation departments currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections. The requirement in the proposed guidelines for accessible pedestrian signals and pedestrian pushbuttons will have impacts on state and local transportation departments that do not currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections.
 
 *Question 9.* The Access Board seeks information on how many state and local transportation departments currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections.
 
-*Costs to Provide Accessible Pedestrian Signals and Pedestrian Pushbuttons*
+##### Costs to Provide Accessible Pedestrian Signals and Pedestrian Pushbuttons
 
 The Volpe Center estimated the additional cost for an accessible pedestrian pushbutton compared to conventional pushbutton is $350 per unit. For a typical intersection with four crosswalks, two accessible pedestrian pushbuttons would be required at each corner for a total of eight units per intersection and a total additional cost of $2,800 for the eight units. The cost of the units is expected to decrease as a result of the proposed guidelines due to greater standardization of customer requirements and increased orders. The total additional cost to provide accessible pedestrian signals and pedestrian pushbuttons, including labor and other equipment such as stub poles and conduit, will vary by location. The Volpe Center estimated that the total additional costs are $3,600 per intersection based on a published cost study and interviews with local transportation departments.
 
@@ -399,11 +434,11 @@ The Volpe Center estimated that the total annual costs are $47 million for requi
 
 *Question 11.* Comments are requested on the assumptions used to estimate the total annual costs for requiring accessible pedestrian signals and pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections.
 
-*R210 Protruding Objects*
+#### R210 Protruding Objects
 
 Objects that protrude into pedestrian circulation paths can be hazardous for pedestrians, especially pedestrians who are blind or have low vision. Objects along or overhanging any portion of a pedestrian circulation path must comply with the technical requirements for protruding objects in Chapter R4. Objects also must not reduce the clear width required for pedestrian access routes. An advisory section provides examples of street furniture and other objects that must comply with these requirements, and notes that the AASHTO "Guide for the Planning, Design, and Operation of Pedestrian Facilities" recommends that local governments regulate the use of sidewalks by private entities for activities such as outdoor dining, vending carts and stands, and street fairs under an encroachment permit process that addresses accessibility, including protruding objects and maintaining the clear width of pedestrian access routes.
 
-*R211 Signs*
+#### R211 Signs
 
 Signs that provide directions, warnings, or other information for pedestrians only and signs that identify routes served by transit stops must comply with the technical requirements for visual characters in Chapter R4. An advisory section provides examples of signs that are required and are not required to comply with the technical requirements for visual characters in Chapter R4. Signs displaying the International Symbol of Accessibility must be provided at accessible parking spaces and accessible passenger loading zones.
 
@@ -413,67 +448,67 @@ Audible sign systems and other technologies are widely used today to transmit in
 
 Question 12. The Access Board seeks information on technologies that are currently used or are under development to transmit information that is equivalent to the information contained on pedestrian signs and transit signs provided in the public right-of-way.
 
-*R212 Street Furniture*
+#### R212 Street Furniture
 
 Drinking fountains, public toilet facilities, tables, and counters must comply with applicable requirements in the 2004 ADA and ABA Accessibility Guidelines. Where multiple single-user public toilet facilities are clustered at a single location, at least 5 percent, but no less than one, of the toilet facilities in each cluster must be accessible and identified by the International Symbol of Accessibility. At least 50 percent, but no less than one, of benches at each location must provide a clear space for a wheelchair adjacent to the bench. Benches at tables are not required to comply.
 
-*R213 Transit Stops and Transit Shelters*
+#### R213 Transit Stops and Transit Shelters
 
 Transit stops and transit shelters must comply with the technical requirements for transit stops and transit shelters in Chapter R3. Transit stops in the public right-of-way typically serve fixed route bus systems, including bus rapid transit systems, and light rail transit systems. An advisory section notes that the Federal Highway Administration has issued guidance on the obligation of state and local transportation departments, metropolitan planning organizations, and transit agencies to coordinate the planning and funding of accessibility improvements to transit systems and facilities.
 
-*R214 On-Street Parking Spaces*
+#### R214 On-Street Parking Spaces
 
 Where on-street parking is provided on the block perimeter and the parking is marked or metered, a minimum number of parking spaces must be accessible and comply with the technical requirements for parking spaces in Chapter R3. For every 25 parking spaces on the block perimeter up to 100 spaces, one parking space must be accessible. For every additional 50 parking spaces on the block perimeter between 101 and 200 spaces, an additional parking space must be accessible. Where more than 200 parking spaces are provided on the block perimeter, 4 percent of the parking spaces must be accessible. Metered parking includes parking metered by parking pay stations. Where parking is metered by parking pay stations and the parking is not marked, each 6.1 meters (20 feet) of the block perimeter where parking is permitted is counted as one parking space for determining the minimum number of accessible parking spaces.
 
-*R215 Passenger Loading Zones*
+#### R215 Passenger Loading Zones
 
 Where passenger loading zones are provided, at least one passenger loading zone for each 30 meters (100 feet) of continuous loading zone space or fraction thereof must be accessible and comply with the technical requirements for passenger loading zones in Chapter R3.
 
-*R216 Stairways and Escalators*
+#### R216 Stairways and Escalators
 
 Stairways on pedestrian circulation paths must comply with technical requirements for stairways in Chapter R4. Escalators on pedestrian circulation paths must comply with the applicable technical requirements in the 2004 ADA and ABA Accessibility Guidelines. Stairways and escalators cannot be part of a pedestrian access route.
 
-*R217 Handrails*
+#### R217 Handrails
 
 Handrails are not required on pedestrian circulation paths. However, if handrails are provided on pedestrian circulation paths, the handrails must comply with the technical requirements for handrails in Chapter R4.
 
-*R218 Doors, Doorways, and Gates*
+#### R218 Doors, Doorways, and Gates
 
 Doors, doorways, and gates to pedestrian facilities such as transit shelters must comply with applicable technical requirements in the 2004 ADA and ABA Accessibility Guidelines.
 
-**Chapter R3: Technical Requirements**
+#### Chapter R3: Technical Requirements
 
 Technical requirements specify what design criteria elements, spaces, and facilities must comply with in order to be considered accessible.
 
-*R301 General*
+#### R301 General
 
 The technical requirements in Chapter R3 apply where required by the scoping requirements in Chapter R2, or where referenced by another technical requirement in Chapters R3 or R4.
 
-*R302 Pedestrian Access Routes*
+#### R302 Pedestrian Access Routes
 
-*General (R302.1)*
+##### General (R302.1)
 
 The technical requirements for pedestrian access routes are contained in R302, and adapt the technical requirements for accessible routes in the 2004 ADA and ABA Accessibility Guidelines to the public right-of-way. In alterations where existing physical constraints make it impractical to fully comply with the technical requirements, compliance is required to the extent practicable within the scope of the project (see R202.3.1).
 
-*Components (R302.2)*
+##### Components (R302.2)
 
 The components of pedestrian access routes and the technical requirements for each component are listed in R302.2. Sidewalks and other pedestrian circulation paths, pedestrian street crossings, and pedestrian overpasses and underpasses and similar structures must comply with all the technical requirements in R302.3 through R302.7. Curb ramps and blended transitions must comply with the technical requirements in R302.7 and R304. Ramps must comply with the technical requirements in R407. Elevators, limited use/limited application elevators, platform lifts, and doors, doorways, and gates must comply with applicable technical requirements in the 2004 ADA and ABA Accessibility Guidelines.
 
-*Continuous Width (R302.3)*
+##### Continuous Width (R302.3)
 
 The continuous clear width of pedestrian access routes (exclusive of the width of the curb) must be 1.2 meters (4 feet) minimum, except for medians and pedestrian refuge islands where the clear width must be 1.5 meters (5 feet) minimum in order to allow for passing space. The AASHTO "Guide for the Planning, Design, and Operation of Pedestrian Facilities" recommends that sidewalks be wider than 1.2 meters (4 feet), particularly in urban areas. Where sidewalks are wider than 1.2 meters (4 feet), only a portion of the sidewalk is required to comply with the technical requirements in R302.3 through R302.7.
 
 The advisory committee recommended a minimum width of 1.5 meters (5 feet) for pedestrian access routes. The proposed guidelines specify a minimum width of 1.2 meters (4 feet) in order to allow for street furniture and other objects that may be located on sidewalks. R210 prohibits street furniture and other objects from reducing the clear width required for pedestrian access routes. A minimum width of 1.2 meters (4 feet) will accommodate turns at intersections and building entrances. Advisory information recommends additional maneuvering clearance at turns or changes in direction, recesses and alcoves, building entrances, and along curved or angled routes, particularly where the grade exceeds 5 percent.
 
-*Passing Spaces (R302.4)*
+##### Passing Spaces (R302.4)
 
 Where the clear width of pedestrian access routes is less than 1.5 meters (5 feet), passing spaces must be provided at intervals of 61 meters (200 feet) maximum. Passing spaces must be 1.5 meters (5 feet) minimum by 1.5 meters (5 feet) minimum. Passing spaces are permitted to overlap pedestrian access routes.
 
-*Grade (R302.5)*
+##### Grade (R302.5)
 
 Grade is the slope parallel to the direction of pedestrian travel. Grade is calculated by dividing the vertical change in elevation by the horizontal distance covered, and is expressed as a percent. Where pedestrian access routes are contained within a street or highway right-of-way, the grade of the pedestrian access route is permitted to equal the general grade established for the adjacent street or highway, except that where pedestrian access routes are contained within pedestrian street crossings a maximum grade of 5 percent is required. This is consistent with the AASHTO "Policy on Geometric Design of Highways and Streets" which recommends that the sidewalk grade follow the grade of adjacent roadways, and also recommends maximum cross slopes for roadways. Where pedestrian access routes are not contained within a street or highway right-of-way, a maximum grade of 5 percent is required.
 
-*Cross Slope (R302.6)*
+##### Cross Slope (R302.6)
 
 Cross slope is the slope perpendicular to the direction of pedestrian travel (see R105.5). On a sidewalk, cross slope is measured perpendicular to the curb line or edge of the street or highway. Cross slope impedes travel by pedestrians who use wheeled mobility devices since energy must be expended to counteract the perpendicular force of the cross slope. Cross slope makes it more difficult for pedestrians who use wheelchairs to travel on uphill slopes and to maintain balance and control on downhill slopes. Cross slope also negatively affects pedestrians who use braces, lower limb prostheses, crutches, or walkers, as well as pedestrians who have gait, balance, or stamina impairments. The maximum cross slope permitted on accessible routes in the 2004 ADA and ABA Accessibility Guidelines is 2 percent. In exterior environments, a maximum cross slope of 2 percent is generally accepted as adequate to allow water to drain off paved walking surfaces.
 
@@ -483,7 +518,7 @@ A maximum cross slope of 2 percent is specified for pedestrian access routes, ex
 
 In new construction, where pedestrian access routes within sidewalks intersect at corners, the 2 percent maximum cross slope requirement will result in level corners (i.e., the slope at the corners will not exceed 2 percent in each direction of pedestrian travel). The level corners will provide a platform for providing level spaces for curb ramps and blended transitions, pedestrian street crossings, and accessible pedestrian signals and pedestrian pushbuttons.
 
-*Newly Constructed Tabled Intersections That Contain Pedestrian Street Crossings With Yield or Stop Control*
+##### Newly Constructed Tabled Intersections That Contain Pedestrian Street Crossings With Yield or Stop Control
 
 The 2 percent maximum cross slope requirement applies to pedestrian access routes within pedestrian street crossings with yield or stop control where vehicles slow or stop before proceeding through the intersection. The cross slope of the pedestrian access route within the pedestrian street crossing is the longitudinal grade of the street being crossed, and the 2 percent maximum cross slope requirement will impact the vertical alignment of streets in the vicinity of the intersection. In new construction, street intersections in hilly urban areas are typically cut-and filled to produce relative flat or tabled intersections. Where pedestrian street crossings with yield or stop control are provided at newly constructed tabled intersections, the tabling would be extended to the pedestrian street crossings to comply with the 2 percent maximum cross slope for pedestrian access routes within the pedestrian street crossings.
 
@@ -495,7 +530,7 @@ In new construction, extending the tabling of intersections to pedestrian street
 
 Question 16. The Access Board seeks information on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis by state and local transportation departments.
 
-*Surfaces (R302.7)*
+#### Surfaces (R302.7)
 
 The proposed technical requirements for surfaces apply to pedestrian access routes, including curb ramps and blended transitions, and accessible elements and spaces that connect to pedestrian access routes. An advisory section lists the accessible elements and spaces that connect to pedestrian access routes and are required to comply with the technical requirements for surfaces.
 
@@ -507,19 +542,19 @@ Flangeway gaps at pedestrian at-grade rail crossings must be 64 millimeters (2.5
 
 *Question 17*. The Access Board seeks information on materials and devices that fill the flangeway gap, and any related research and sources of expertise.
 
-*R303 Alternate Pedestrian Access Routes (See R205)*
+#### R303 Alternate Pedestrian Access Routes (See R205)
 
 In the 2005 draft of the proposed guidelines, the technical requirements for alternate pedestrian access routes were contained in Chapter R3. The proposed guidelines reference MUTCD standards for alternate pedestrian access routes in the scoping requirements at R205. This section heading is included in Chapter R3 of the proposed guidelines to notify readers who were familiar with the 2005 draft of the proposed guidelines where to find the requirements for alternate pedestrian access routes. This section heading will not be included in the final guidelines.
 
-*R304 Curb Ramps and Blended Transitions*
+#### R304 Curb Ramps and Blended Transitions
 
-*General (R304.1)*
+##### General (R304.1)
 
 Curb ramps are ramps that are cut through or built up to the curb (see R105.5). Curb ramps can be perpendicular or parallel, or a combination of parallel and perpendicular ramps. Blended transitions are raised pedestrian street crossings, depressed corners, or similar connections between the pedestrian access route at the level of the sidewalk and the level of the pedestrian street crossing that have a grade of 5 percent or less (see R105.5).
 
 The technical requirements for curb ramps and blended transitions are contained in R304 and adapt the technical requirements for curb ramps in the 2004 ADA and ABA Accessibility Guidelines to the public right-of-way. In alterations where existing physical constraints make it impractical to fully comply with the technical requirements, compliance is required to the extent practicable within the scope of the project (see R202.3.1).
 
-*Perpendicular Curb Ramps (R304.2)*
+##### Perpendicular Curb Ramps (R304.2)
 
 Perpendicular curb ramps have a running slope that cuts through or is built up to the curb at right angles or meets the gutter grade break at right angles where the curb is curved. On corners with a large curb radius, it will be necessary to indent the gutter grade break on one side of the curb ramp in order for the curb ramp to meet the gutter grade break at right angles.
 
@@ -531,7 +566,7 @@ A maximum slope of 10 percent is specified for the flared sides of perpendicular
 
 Question 18. Comments are requested on whether the maximum slope for the flared sides of perpendicular curb ramps should be increased from 10 percent to 12.5 percent or 16.7 percent, and what impact such a change would have on providing two perpendicular curb ramps at street corners. Comments are also requested on any public safety issues that may arise from increasing the maximum slope for the flared sides from 10 percent to 12.5 percent or 16.7 percent.
 
-*Parallel Curb Ramps (R304.3)*
+##### Parallel Curb Ramps (R304.3)
 
 Parallel curb ramps have a running slope that is in-line with the direction of sidewalk travel and lower the sidewalk to a level turning space where a turn is made to enter the pedestrian street crossing.
 
@@ -539,37 +574,37 @@ A turning space must be provided at the bottom of parallel curb ramps. The turni
 
 A minimum running slope of 5 percent and a maximum running slope of 8.3 percent are specified for parallel curb ramps, and the ramp length is limited to 4.5 meters (15 feet). A maximum running slope of 2 percent is specified for the turning space at the bottom of the curb ramp. The running slope is measured parallel to the direction of pedestrian travel.
 
-*Blended Transitions (R304.4)*
+##### Blended Transitions (R304.4)
 
 A maximum running slope of 5 percent is specified for blended transitions. The running slope is measured parallel to the direction of pedestrian travel.
 
-*Common Requirements (R304.5)*
+##### Common Requirements (R304.5)
 
 The clear width of curb ramp runs (excluding flared sides), blended transitions, and turning spaces must be 1.2 meters (4 feet) minimum. Grade breaks at the top and bottom of curb ramp runs must be perpendicular to the direction of the ramp run. Grade breaks are not permitted on the surface of ramp runs and turning spaces. Surface slopes that meet at grade breaks must be flush. A maximum cross slope of 2 percent is specified for curb ramps, blended transitions, and turning spaces. At pedestrian street crossings without yield or stop control and at midblock pedestrian street crossings, the cross slope is permitted to equal the street or highway grade. The cross slope is measured perpendicular to the direction of pedestrian travel. A maximum counter slope of 5 percent is specified for the gutter or street at the foot of curb ramp runs, blended transitions, and turning spaces. A clear space must be provided beyond the bottom of the grade break that is within the width of the pedestrian street crossing and wholly outside the parallel vehicle traffic lane. The clear space must be 1.2 meters (4 feet) minimum by 1.2 meters (4 feet) minimum.
 
-*R305 Detectable Warning Surfaces*
+#### R305 Detectable Warning Surfaces
 
 Detectable warning surfaces consist of truncated domes aligned in a square or radial grid pattern. The dimensions for dome size and dome spacing are the same as in the 2004 ADA and ABA Accessibility Guidelines. The detectable warning surfaces must contrast visually with adjacent gutter, street or highway, or pedestrian access route surface, either light-on-dark or dark-on-light. The detectable warning surfaces must extend 610 millimeters (2 feet) minimum in the direction of pedestrian travel. At curb ramps and blended transitions, detectable warning surfaces must extend the full width of the ramp run (excluding flared sides), blended transition, or turning space. At pedestrian at-grade rail crossings not located within a street or highway, detectable warning surfaces must extend the full width of the crossing. At boarding platforms for buses and rail vehicles, detectable warning surfaces must extend the full length of the public use areas of the platform. At boarding and alighting areas at sidewalk or street level transit stops for rail vehicles, detectable warning surfaces must extend the full length of the transit stop. The proposed technical requirements specify where detectable warning surfaces must be placed on perpendicular curb ramps, parallel cub ramps, blended transitions, pedestrian refuge islands, pedestrian at-grade rail crossings, boarding platforms for buses and rail vehicles, and boarding and alighting areas at sidewalk or street level transit stops for rail vehicles.
 
-*R306 Pedestrian Street Crossings*
+#### R306 Pedestrian Street Crossings
 
 The technical requirements in R306 address pedestrian signal phase timing and pedestrian street crossings at roundabouts and multi-lane channelized turn lanes.
 
-*Pedestrian Signal Phase Timing*
+##### Pedestrian Signal Phase Timing
 
 Pedestrian signal phase timing must comply with referenced MUTCD standards and use a pedestrian clearance time that is calculated based on pedestrian walking speed of 1.1 meters/second (3.5 feet/second) or less.
 
-*Roundabouts*
+##### Roundabouts
 
 A roundabout is a circular intersection with yield control at entry, which permits a vehicle on the circulatory roadway to proceed, and with deflection of the approaching vehicle counter-clockwise around a central island (MUTCD section 1A.13). Pedestrian street crossings at roundabouts can be difficult for pedestrians who are blind or have low vision to identify because the crossings are located off to the side of the pedestrian circulation path around the street or highway. Where sidewalks are flush against the curb at roundabouts and pedestrian street crossing is not intended, a continuous and detectable edge treatment must be provided along the street side of the sidewalk at roundabouts. Detectable warning surfaces must not be used for edge treatment. Where chains, fencing, or railings are used for edge protection, the bottom edge of the treatment must be 380 millimeters (15 inches) maximum above the sidewalk to be detectable by cane.
 
 The continuous traffic flow at roundabouts removes many of the audible cues that pedestrians who are blind use to navigate pedestrian street crossings. At roundabouts with multi-lane pedestrian street crossings, a pedestrian activated signal must be provided for each multilane segment of each crossing, including the splitter island (i.e., median island used to separate opposing directions of traffic entering and exiting a roundabout, MUTCD section 1A.13). Transportation officials who commented on the 2002 draft guidelines expressed concern that signalization of roundabouts would interfere with the flow of traffic at roundabout intersections. Pedestrian Hybrid Beacons can be used at roundabouts. See MUTCD sections 4F.01 through 4F.03. Pedestrian Hybrid Beacons are traffic signals that consist of a yellow signal centered below two horizontally aligned red signals. The signals are normally dark (i.e., not illuminated). The signals are initiated only upon pedestrian activation and can be timed to minimize the interruption of traffic. The signals cease operation after the pedestrian clears the crosswalk. When activated by a pedestrian, the following signals are displayed to drivers: a flashing yellow signal, then a steady yellow signal, then two steady red signals during the pedestrian walk interval, and then alternating flashing red signals during the pedestrian clearance interval. The following signals are displayed to pedestrians: a steady upraised hand (symbolizing DON'T WALK) when the flashing or steady yellow signal is operating, then a walking person (symbolizing WALK) when the steady red signals are operating, and then a flashing upraised hand (symbolizing DON'T WALK) when the alternating flashing red signals are operating. Transportation officials may request permission from the Federal Highway Administration to experiment with alternative signals at roundabouts (see MUTCD section 1A.10).41
 
-*Multi-Lane Channelized Turn Lanes*
+##### Multi-Lane Channelized Turn Lanes
 
 Pedestrian activated signals must be provided at pedestrian street crossings at multi-lane channelized turn lanes at roundabouts and other signalized intersections. The pedestrian activated signals must comply with MUTCD standards for accessible pedestrian signals and pedestrian pushbuttons.
 
-*Governmental Units Affected*
+##### Governmental Units Affected
 
 The requirement for pedestrian activated signals at roundabouts with multi-lane pedestrian street crossings will affect state and local transportation departments that construct new roundabouts with multi-lane pedestrian street crossings. The Volpe Center estimated that state and local transportation departments construct 27 new roundabouts with multi-lane pedestrian street crossings on an annual basis.42
 
@@ -579,15 +614,15 @@ The Volpe Center estimated the cost to provide pedestrian activated signals at n
 
 *Question 19*. The Access Board seeks additional information on the number of roundabouts with multi-lane pedestrian street crossings that are newly constructed on an annual basis by state and local transportation departments, and the costs to provide pedestrian activated signals at newly constructed roundabouts with multi-lane pedestrian street crossings.
 
-*R307 Accessible Pedestrian Signals and Pedestrian Pushbuttons (See R209)*
+#### R307 Accessible Pedestrian Signals and Pedestrian Pushbuttons (See R209)
 
 In the 2005 draft of the proposed guidelines, the technical requirements for accessible pedestrian signals and pedestrian pushbuttons were contained in Chapter R3. The proposed guidelines reference MUTCD standards for accessible pedestrian signals and pedestrian pushbuttons in the scoping requirements at R209. This section heading is included in Chapter R3 of the proposed guidelines to notify readers who were familiar with the 2005 draft of the proposed guidelines where to find the requirements for accessible pedestrian signals and pedestrian pushbuttons. This section heading will not be included in the final guidelines.
 
-*R308 Transit Stops and Transit Shelters*
+#### R308 Transit Stops and Transit Shelters
 
 The technical requirements for transit stops and transit shelters are contained in R308 and adapt the technical requirements for transit facilities in the 2004 ADA and ABA Accessibility Guidelines to the public right-of-way.
 
-*Transit Stops (R308.1)*
+##### Transit Stops (R308.1)
 
 Boarding and alighting areas at sidewalk or street level transit stops must be 2.4 meters (8 feet) minimum measured perpendicular to the street or highway, and 1.5 meters (5 feet) minimum measured parallel to the street or highway. The grade of the boarding and alighting area parallel to the street or highway must be equal to street or highway grade to the extent practicable. The grade of the boarding and alighting area perpendicular to the street or highway must not exceed 2 percent. Where transit stops serve vehicles with more than one car, boarding and alighting areas serving each car must comply with these requirements.
 
@@ -595,7 +630,7 @@ Boarding platforms at transit stops must be positioned to coordinate with vehicl
 
 The surfaces of boarding and alighting areas and boarding platforms must comply with the technical requirements for surfaces (see R302.7). Boarding and alighting areas and boarding platforms must be connected to streets, sidewalks, or pedestrian circulation paths by a pedestrian access route.
 
-*Transit Shelters (R308.2)*
+##### Transit Shelters (R308.2)
 
 Transit shelters must be connected by a pedestrian access route to boarding and alighting areas or boarding platforms. A clear space (see R404) must be provided entirely within the transit shelter. Where seating is provided within transit shelters, the clear space must be located either at the end of a seat, or not overlap the area within 460 millimeters (1.5 feet) from the front edge of the seat in order to not interfere with others using the seating. Environmental controls within transit shelters must be proximity actuated. Protruding objects within transit shelters must comply with the technical requirements for protruding objects (see R402).
 
@@ -603,81 +638,81 @@ The Access Board is considering whether to require a turning space in transit sh
 
 *Question 20*. Comments are requested on whether a turning space should be required in transit shelters and what impact such a requirement would have on the design and placement of transit shelters? 
 
-*R309 On-Street Parking Spaces*
+#### R309 On-Street Parking Spaces
 
-*General (R309.1)*
+##### General (R309.1)
 
 The technical requirements for accessible on-street parking spaces are contained in R309 and adapt the technical requirements for accessible parking spaces in the 2004 ADA and ABA Accessibility Guidelines to the public right-of-way.
 
-*Parallel Parking Spaces (R309.2)*
+##### Parallel Parking Spaces (R309.2)
 
 Where the adjacent sidewalk or available right-of-way is more than 4.3 meters (14 feet) wide, an access aisle must be provided at street level for the entire length of each accessible parallel parking space. The access aisle must be 1.5 meters (5 feet) wide minimum and connect to a pedestrian access route. The access aisle must not encroach on the vehicular travel lane and comply with the technical requirements for surfaces (see R302.7). In alterations where the street or sidewalk adjacent to the parking spaces is not altered, an access aisle is not required provided the parking spaces are located at the end of the block face.
 
 Where the adjacent sidewalk or available right-of-way is less than or equal to 4.3 meters (14 feet) wide, an access aisle is not required, but accessible parallel parking spaces must be located at the end of the block face.
 
-*Perpendicular and Angled Parking Spaces (R309.3)*
+##### Perpendicular and Angled Parking Spaces (R309.3)
 
 An access aisle must be provided at street level for the entire length of each accessible perpendicular or angled parking space. The access aisle must be 2.4 meters (8 feet) wide minimum to accommodate vans with lifts, and connect to a pedestrian access route. Two accessible parking spaces are permitted to share a common access aisle. The access aisle must be marked to discourage parking in the aisle and comply with the technical requirements for surfaces (see R302.7).
 
-*Curb Ramps and Blended Transitions (R309.4)*
+##### Curb Ramps and Blended Transitions (R309.4)
 
 Curb ramps or blended transitions must connect the access aisle serving each accessible on-street parking space to the pedestrian access route. Curb ramps are not permitted within the access aisle. Parking spaces at the end of block face can be served by curb ramps or blended transitions at the pedestrian street crossing. Detectable warning surfaces are not required on curb ramps and blended transitions that connect the access aisle to the sidewalk, including where the sidewalk is at the same level as the parking spaces, unless the curb ramps and blended transitions also serve pedestrian street crossings.
 
-*Parking Meters and Parking Pay Stations (R309.5)*
+##### Parking Meters and Parking Pay Stations (R309.5)
 
 Operable parts of parking meters and parking pay stations that serve accessible on-street parking spaces must comply with technical requirements for operable parts in Chapter R4. Displays and information must be visible from a point located 1 meter (3.3 feet) maximum above the center of the clear space in front of the parking meter or parking pay station. At accessible parallel parking spaces, parking meters must be located at the head or foot of the space.
 
-*R310 Passenger Loading Zones*
+#### R310 Passenger Loading Zones
 
 The technical requirements for accessible passenger loading zones are the same as in the 2004 ADA and ABA Accessibility Guidelines. A vehicular pull-up space 2.4 meters (8 feet) wide minimum and 6.1 meters (20 feet) long minimum must be provided at accessible passenger loading zones. An access aisle must be provided at the same level as the vehicle pull-up space. The access aisle must be 1.5 meters (5 feet) wide minimum, extend the entire length of the vehicle pull-up space, and connect to the pedestrian access route. The access aisle must be marked to discourage parking in the aisle and comply with the technical requirements for surfaces (see R302.7).
 
-**Chapter R4: Supplementary Technical Requirements**
+#### Chapter R4: Supplementary Technical Requirements
 
 Chapter R4 contains supplementary technical requirements that are the same as in the 2004 ADA and ABA Accessibility Guidelines unless otherwise noted below.
 
-*R401 General*
+#### R401 General
 
 The supplementary technical requirements in Chapter R4 apply where required by scoping requirements in Chapter R2, or where referenced by another technical requirement in Chapters R3 or R4.
 
-*R402 Protruding Objects*
+#### R402 Protruding Objects
 
 Objects with leading edges between 685 millimeters (2.25 feet) and 2 meters (6.7 feet) above the finish surface must not protrude into pedestrian circulation paths more than 100 millimeters (4 inches). Post-mounted objects such as signs that are between 685 millimeters (2.25 feet) and 2 meters (6.7 feet) above the finish surface must not overhang pedestrian circulation paths more than 100 millimeters (4 inches) measured horizontally from the base of the post. The post base must be 64 millimeters (2.5 inches) thick minimum. Where objects are mounted between posts and the clear distance between the posts is more than 305 millimeters (1 foot), the lowest edge of the object must be 685 millimeters (2.25 feet) minimum or 2 meters (6.7 feet) maximum above the finish surface. The requirement for post-mounted objects differs from the 2004 ADA and ABA Accessibility Guidelines but is consistent with the MUTCD which requires the bottom of signs installed on the sidewalk to be 7 feet minimum above the sidewalk, and the bottom of secondary signs (i.e., signs mounted below another sign) that are lower than 7 feet above the sidewalk to project not more than 4 inches into the sidewalk (see MUTCD section 2A.18).
 
 Guardrails or other barriers to pedestrian travel must be provided where the vertical clearance on pedestrian circulation paths is less than 2 meters (6.7 feet) high. The leading edge of the guardrail or barrier must be 685 millimeters (2.25 feet) maximum above the finish surface.
 
-*R403 Operable Parts*
+#### R403 Operable Parts
 
 An operable part is a component of an element used to insert or withdraw objects, or to activate, deactivate, or adjust the element (see R105.5). The technical requirements for operable parts apply to operable parts on accessible pedestrian signals and pedestrian pushbuttons (see R209) and parking meters and parking pay stations that serve accessible parking spaces (see R309.5). A clear space must be provided at operable parts (see R404). Operable parts must be located within the reach ranges (see R406). Operable parts must be operable with one hand and not require tight grasping, pinching, or twisting of the wrist. The force required to activate operable parts must be no more than 22 newtons (5 pounds).
 
-*R404 Clear Spaces*
+#### R404 Clear Spaces
 
 Clear spaces are required at operable parts (see R403.2), including accessible pedestrian signals and pedestrian pushbuttons (see R209) and parking meters and parking pay stations that serve accessible parking spaces (see R309.5). Clear spaces are also required at benches (see R212.6) and within transit shelters (see R308.2). Clear spaces must be 760 millimeters (2.5 feet) minimum by 1220 millimeters (4 feet) minimum. Additional maneuvering space must be provided where an element is confined on all or part of three sides. Clear spaces are permitted to include knee and toe clearance and to be positioned for either forward or parallel approach to an element, unless another requirement specifies otherwise. The running slope of clear spaces is permitted to be consistent with the grade of the adjacent pedestrian access route. This requirement differs from the 2004 ADA and ABA Accessibility Guidelines which does not permit slopes steeper than 2 percent at clear spaces. A 2 percent maximum cross slope is specified for clear spaces. Clear spaces must comply with the technical requirements for surfaces (see R302.7).
 
-*R405 Knee and Toe Clearance*
+#### R405 Knee and Toe Clearance
 
 The technical requirements for knee and toe clearance apply where space beneath an element is included as part of the clear space.
 
-*R406 Reach Ranges*
+#### R406 Reach Ranges
 
 Forward and side reach ranges must be between 380 millimeters (1.25 feet) and 1220 millimeters (4 feet) above the finish surface. The requirements for reach ranges differ from the 2004 ADA and ABA Accessibility Guidelines in that forward reach over an obstruction is not permitted, and side reach over an obstruction is permitted where the depth of the obstruction between the clear space and the element is 225 millimeters (10 inches) maximum.
 
-*R407 Ramps\
-R408 Stairways\
-R409 Handrails\
-R410 Visual Characters on Signs\
-R411 International Symbol of Accessibility*
+#### R407 Ramps
+#### R408 Stairways
+#### R409 Handrails
+#### R410 Visual Characters on Signs
+#### R411 International Symbol of Accessibility
 
 The technical requirements ramps, stairways, handrails, visual characters on signs, and the International Symbol of Accessibility are the same as in the 2004 ADA and ABA Accessibility Guidelines.
 
-**Other Issues**
+#### Other Issues
 
-*Rollability and Smoothness of Walking Surfaces*
+##### Rollability and Smoothness of Walking Surfaces
 
 Rollability refers to the ease and comfort with which pedestrians using wheelchairs and other wheeled mobility devices can travel on walking surfaces. Rough or jointed walking surfaces can cause pedestrians using wheelchairs and other wheeled mobility devices to expend extra energy or pushing effort that makes it more difficult for them to use the walking surface, and the resulting surface vibration can cause discomfort or pain that may prevent them from using the walking surface all together. There are smoothness measures for road surfaces but no similar measures for walking surfaces. The Access Board is sponsoring preliminary research that will produce a plan for a test protocol and instrumentation to measure the rollability and smoothness of walking surfaces and to establish an index of surface vibration.
 
 Question 21. The Access Board seeks information on related research and sources of expertise on measuring the rollability and smoothness of walking surfaces, including information from the medical community on the effects of surface vibration on individuals with disabilities.
 
-*Shared Streets*
+##### Shared Streets
 
 A shared street is a common space designed for use by pedestrians, bicyclists, and vehicles.44 Shared streets typically do not have curbs and delineated sidewalks. Vehicles typically travel at low speeds on shared streets. Trees, planters, parking areas, and other obstacles may be placed on shared streets to slow vehicles. Shared streets can be in a commercial area or residential area. Shared streets are difficult for pedestrians who are blind or have low vision to navigate because of the absence of curbs and clearly delineated sidewalks.45 The Pedestrian Accessibility and Movement Environment Laboratory at University College London has conducted limited research on the use of tactile surfaces to delineate the space on shared streets that is to be used exclusively by pedestrians, and not vehicles.46 The tactile surfaces tested included raised truncated domes that, in the United States, are used as detectable warning surfaces on curb ramps and blended transitions to indicate the boundary between the pedestrian route and the vehicular route at pedestrian street crossings. Using detectable warning surfaces to facilitate wayfinding along shared streets would be expanding the use of such surfaces.
 
@@ -687,39 +722,144 @@ Question 22. The Access Board seeks information on the design of shared streets 
 
 ### Regulatory Process Matters
 
-*Executive Orders 12866 and 13563*
+#### Executive Orders 12866 and 13563
 
 The Office of Management and Budget has reviewed this proposed rule pursuant to Executive Orders 12866 and 13563.47 The Access Board prepared a regulatory assessment of the potential costs and benefits of the proposed rule. The regulatory assessment is available on the Access Board website at: http://www.access-board.gov/prowac/index.htm, and is also available in the regulatory docket at [http://www.regulations.gov](http://www.regulations.gov/). The information in the regulatory assessment is discussed in the preamble under Impacts on State and Local Governments and under the relevant requirements in the Section-by-Section Analysis. The information in the regulatory assessment is also summarized in the tables below, As indicated in the tables below, the regulatory assessment does not include estimates of the total annual costs for two of the requirements in the proposed guidelines that will have more than minimal impacts because information is not available to estimate the costs. Questions are included in the preamble seeking additional information to assist the Board to estimate the total annual costs of these two requirements and to refine the cost estimates for the other requirements in the proposed guidelines. Consequently, the Access Board has not determined whether the proposed guidelines are an economically significant regulatory action.48 The Access Board will analyze the information received in response to the questions in the preamble. When the final guidelines are issued, the Access Board will revise the regulatory assessment and determine whether the guidelines are an economically significant regulatory action.
 
-*Baseline*
+#### Baseline
 
 All state transportation departments and most local transportation departments maintain design manuals and standard drawings for improvements in the public right-of-way. The local transportation department design manuals and standard drawings are generally consistent with their state transportation department design manuals and standard drawings. State and local transportation departments use publications issued by the American Association of State and Highway Transportation Officials (AASHTO) in their design manuals and standard drawings, including the "Policy on Geometric Design of Highways and Streets" (2004) (commonly referred to as the "AASHTO Green Book") and the "Guide for the Planning, Design, and Operation of Pedestrian Facilities" (2004) which incorporate accessibility in the design of sidewalks and other pedestrian facilities.49 The Federal Highway Administration as part of its stewardship and oversight responsibilities has also worked with state transportation departments to incorporate accessibility in their design manuals and standards drawings. The Federal Highway Administration has issued guidance that the accessibility standards in the Department of Justice regulations implementing Title II of the Americans with Disabilities Act and the Department of Transportation regulations implementing Section 504 are to be used to the extent feasible for the design of pedestrian facilities in the public right-of-way until new accessibility standards are adopted for these facilities.
 
 In the absence of the proposed guidelines, the regulatory assessment assumes that state and local transportation departments will use the DOJ 2010 Standards in the Department of Justice regulations implementing Title II of the Americans with Disabilities Act to the extent feasible when designing, constructing, or altering pedestrian facilities in the public right-of-way, consistent with the guidance issued by the Federal Highway Administration, as well as other applicable standards and industry practices. An analysis of the proposed guidelines compared to the DOJ 2010 Standards, other applicable standards, and industry practices is included in the appendix to the regulatory assessment. The analysis identified four requirements in the proposed guidelines that will have more than minimal impacts on state and local transportation departments. The factors used to identify whether the requirements in the proposed guidelines will have more than minimal impacts are discussed in the regulatory assessment and in the preamble under Impacts on State and Local Governments. The four requirements in the proposed guidelines that will have more than minimal impacts on state and local transportation departments are summarized in the table below, along with a description of the governmental units affected by proposed requirements and questions in the preamble to the proposed guidelines that seek additional information on the governmental units affected.
 
-**Table: Requirements in Proposed Guidelines That Will Have More Than Minimal Impacts on State and Local Transportation Departments**
-
- | Requirement | Governmental Units Affected |
-| --- | --- |
- | Detectable warning surfaces required on newly constructed and altered curb ramps and blended transitions at pedestrian street crossings (R208.1 and R305) | Will affect state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps.<br><br>All state transportation departments currently specify detectable warning surfaces on curb ramps in their standard drawings; most local transportation departments maintain standard drawings that are consistent with standard drawings maintained by their state transportation departments.<br><br>Questions 4, 5, and 6 in preamble seek information on state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps. |
- | Accessible pedestrian signals and pushbuttons required when pedestrian signals newly installed or replaced at signalized intersections (R209) | Will affect state and local transportation departments that do not currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections.<br><br>Some state and local transportation departments currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections; TEA-21 (23 U.S.C. 217 (g)) directed that audible traffic signals be included in transportation plans and projects where appropriate.<br><br>Question 9 in preamble seeks information on state and local transportation departments that currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections. |
-| Maximum cross slope of 2 percent required on pedestrian access routes, including within pedestrian street crossings with yield or stop control (R204.3 and R302.6) | Will affect state and local transportation departments that construct new tabled intersections in hilly urban areas which contain pedestrian street crossings with yield or stop control.<br><br>Question 14 in preamble seeks information on the current design policies and practices of state and local transportation departments with respect to tabling newly constructed intersections in hilly urban areas, particularly with respect to extending the tabling to pedestrian street crossings with yield or stop control. |
-| Pedestrian activated signals required at roundabouts with multi-lane pedestrian crossings (R206 and R306.3.2) | Will affect state and local transportation departments that construct new roundabouts with multi-lane pedestrian street crossings |
-{: .usa-table}
+<table class="data">
+    <caption>Requirements in Proposed Guidelines That Will Have More Than Minimal Impacts on State and Local Transportation Departments</caption>
+	    <thead>
+			<tr>
+                <th>Requirement</th>
+                <th>Governmental Units Affected</th>
+		    </tr>
+        </thead>
+        <tbody>
+		<tr>
+			<th>
+				Detectable warning surfaces required on newly constructed and altered curb ramps and blended transitions at pedestrian street crossings (R208.1 and R305)
+			</th>
+			<td>
+				<p>Will affect state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps</p>
+				<p>All state transportation departments currently specify detectable warning surfaces on curb ramps in their standard drawings; most local transportation departments maintain standard drawings that are consistent with standard drawings maintained by their state transportation departments</p>
+				<p>Questions 4, 5, and 6 in preamble seek information on state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps</p>
+			</td>
+		</tr>
+		<tr>
+			<th>
+				Accessible pedestrian signals and pushbuttons required when pedestrian signals newly installed or replaced at signalized intersections (R209)
+			</th>
+			<td>
+				<p>Will affect state and local transportation departments that do not currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections</p>
+				<p>Some state and local transportation departments currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections; TEA-21 (23 U.S.C. 217 (g)) directed that audible traffic signals be included in transportation plans and projects where appropriate</p>
+				<p>Question 9 in preamble seeks information on state and local transportation departments that currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections</p>
+			</td>
+		</tr>
+		<tr>
+			<th>Maximum cross slope of 2 percent required on pedestrian access routes, including within pedestrian street crossings with yield or stop control (R204.3 and R302.6)</th>
+			<td>
+				<p>Will affect state and local transportation departments that construct new tabled intersections in hilly urban areas which contain pedestrian street crossings with yield or stop control</p>
+				<p>Question 14 in preamble seeks information on the current design policies and practices of state and local transportation departments with respect to tabling newly constructed intersections in hilly urban areas, particularly with respect to extending the tabling to pedestrian street crossings with yield or stop control</p>
+			</td>
+		</tr>
+		<tr>
+			<th>
+				Pedestrian activated signals required at roundabouts with multi-lane pedestrian crossings (R206 and R306.3.2)
+			</th>
+			<td>
+				Will affect state and local transportation departments that construct new roundabouts with multi-lane pedestrian street crossings
+			</td>
+		</tr>
+	</tbody>
+</table>
 
 The Access Board entered into an interagency agreement with the Volpe National Transportation Systems Center (Volpe Center) to gather data and prepare cost estimates for the regulatory assessment. The cost estimates prepared by the Volpe Center are summarized in the table below, along with questions in the preamble to the proposed guidelines that seek additional information to refine the cost estimates.
 
-**Table: Estimated Total Annual Costs for Requirements That Will Have More Than Minimal Impacts on State and Local Transportation Departments**
+<table class="data">
+    <caption>Estimated Total Annual Costs for Requirements That Will Have More Than Minimal Impacts on State and Local Transportation Departments</caption>
+	<thead>
+		<tr>
+			<th>Requirement</th>
+			<th>Additional Costs Per Element or Facility Due to Requirement</th>
+			<th>Number of Elements or Facilities Constructed or Altered on Annual Basis</th>
+			<th>Total Annual Costs for Requirement</th>
+		</tr>
+    </thead>
+    <tbody>
+		<tr>
+			<th>
+				Detectable warning surfaces required on newly constructed and altered curb ramps and blended transitions at pedestrian street crossings (R208.1 and R305)
+			</th>
+			<td>
+				<p>$48 to $240 for detectable warning materials for typical curb ramp</p>
+				<p>Question 8 in preamble seeks additional information on costs for detectable warning materials and installation of the materials on typical curb ramp</p>
+			</td>
+			<td>
+				<p>No information available</p>
+				<p>Question 7 in preamble seeks information on number of curb ramps that are constructed or altered on an annual basis in the public right-of-way</p>
+			</td>
+			<td>
+				<p>No estimate provided</p>
+				<p>Total annual costs will depend on number of state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps, and number of curb ramps that they construct or alter on an annual basis</p>
+			</td>
+		</tr>
+		<tr>
+			<th>
+				Accessible pedestrian signals and pushbuttons required when pedestrian signals newly installed or replaced at signalized intersections (R209)
+			</th>
+			<td>
+				<p>$3,600 per signalized intersection</p>
+				<p>Question 10 in preamble seeks additional information on costs for providing accessible pedestrian signals and pedestrian pushbuttons at signalized intersections</p>
+			</td>
+			<td>
+				Pedestrian signals newly installed or replaced at 13,095 signalized intersections on an annual basis
+			</td>
+			<td>
+				$47 million
+			</td>
+		</tr>
+		<tr>
+			<th>
+				Maximum cross slope of 2 percent required on pedestrian access routes, including within pedestrian street crossings with yield or stop control (R204.3 and R302.6)
+			</th>
+			<td>
+				<p>$60,000 per tabled intersection</p>
+				<p>Question 15 in preamble seeks additional information on costs to extend tabling of newly constructed intersections in hilly urban areas to pedestrian street crossings with yield or stop control</p>
+			</td>
+			<td>
+				<p>No information available</p>
+				<p>Question 16 in preamble seeks information on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis</p>
+			</td>
+			<td>
+				<p>No estimate provided</p>
+				<p>Total annual costs will depend on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis</p>
+			</td>
+		</tr>
+		<tr>
+			<th>
+				Pedestrian activated signals required at roundabouts with multi-lane pedestrian crossings (R206 and R306.3.2)
+			</th>
+			<td>
+				<p>$90,000 to $230,000 per roundabout</p>
+				<p>Question 19 in preamble seeks additional information on costs to provide pedestrian activated signals at roundabouts with multi-lane pedestrian crossings</p>
+			</td>
+			<td>
+				27 new roundabouts with multi-lane pedestrian street crossings constructed on an annual basis
+			</td>
+			<td>
+				$2.4 million to $6.2 million
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-| Requirement | Additional Costs Per Element or Facility Due to Requirement | Number of Elements or Facilities Constructed or Altered on Annual Basis | Total Annual Costs for Requirement |
-| --- | --- | --- | --- |
-| Detectable warning surfaces required on newly constructed and altered curb ramps and blended transitions at pedestrian street crossings (R208.1 and R305) | $48 to $240 for detectable warning materials for typical curb ramp<br><br>Question 8 in preamble seeks additional information on costs for detectable warning materials and installation of the materials on typical curb ramp. | No information available<br><br>Question 7 in preamble seeks information on number of curb ramps that are constructed or altered on an annual basis in the public right-of-way | No estimate provided<br><br>Total annual costs will depend on number of state and local transportation departments that do not currently provide detectable warning surfaces on curb ramps, and number of curb ramps that they construct or alter on an annual basis |
- | Accessible pedestrian signals and pushbuttons required when pedestrian signals newly installed or replaced at signalized intersections (R209) | $3,600 per signalized intersection<br><br>Question 10 in preamble seeks additional information on costs for providing accessible pedestrian signals and pedestrian pushbuttons at signalized intersections | Pedestrian signals newly installed or replaced at 13,095 signalized intersections on an annual basis | $47 million |
-| Maximum cross slope of 2 percent required on pedestrian access routes, including within pedestrian street crossings with yield or stop control (R204.3 and R302.6) | $60,000 per tabled intersection<br><br>Question 15 in preamble seeks additional information on costs to extend tabling of newly constructed intersections in hilly urban areas to pedestrian street crossings with yield or stop control | No information available<br><br>Question 16 in preamble seeks information on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis | No estimate provided<br><br>Total annual costs will depend on number of tabled intersections which contain pedestrian street crossings with yield or stop control that are newly constructed in hilly urban areas on an annual basis |
-| Pedestrian activated signals required at roundabouts with multi-lane pedestrian crossings (R206 and R306.3.2) | $90,000 to $230,000 per roundabout<br><br>Question 19 in preamble seeks additional information on costs to provide pedestrian activated signals at roundabouts with multi-lane pedestrian crossings | 27 new roundabouts with multi-lane pedestrian street crossings constructed on an annual basis | $2.4 million to $6.2 million |
-{: .usa-table}
-
-*Benefits*
+#### Benefits
 
 The proposed guidelines will benefit pedestrians with disabilities. The U.S. Census Bureau reports that 54.4 million Americans, about one in five U.S. residents, reported some level of disability in 2005.50 The number of individuals with disabilities is almost equal to the combined total population of California and Florida. The U.S. Census Bureau provides this breakdown of the population of people aged 15 and older:
 
@@ -734,44 +874,78 @@ Executive Order 13563 states that to the extent permitted by law federal agencie
 
 *Question 23*. Comments are requested on whether the proposed guidelines have other quantitative or qualitative benefits in addition to those discussed above.
 
-*Regulatory Flexibility Act: Initial Regulatory Flexibility Analysis*
+#### Regulatory Flexibility Act: Initial Regulatory Flexibility Analysis
 
 The impacts of the proposed guidelines on small governmental jurisdictions with a population of less than 50,000 are discussed below. This information is required by the Regulatory Flexibility Act (5 U.S.C. §603).
 
-*Reasons for issuing proposed accessibility guidelines*
+#### Reasons for issuing proposed accessibility guidelines
 
 The Access Board's current accessibility guidelines, the 2004 ADA and ABA Accessibility Guidelines, were developed primarily for buildings and facilities on sites. Some of the requirements in the 2004 ADA and ABA Accessibility Guidelines can be readily applied to pedestrian facilities in the public right-of-way, but other requirements need to be adapted for pedestrian facilities in the public right-of-way. The proposed guidelines are developed specifically for pedestrian facilities in the public right-of-way and address conditions and constraints that exist in the public right-of-way.
 
-*Objectives of, and legal basis for, proposed accessibility guidelines*
+#### Objectives of, and legal basis for, proposed accessibility guidelines
 
 The Access Board is required to issue accessibility guidelines by the Americans with Disabilities Act (42 U.S.C. §12204) and Section 502 of the Rehabilitation Act (29 U.S.C. §792) to ensure that newly constructed and altered facilities are readily accessible to and usable by pedestrians with disabilities.
 
-*Small governmental jurisdictions affected by proposed accessibility guidelines*
+#### Small governmental jurisdictions affected by proposed accessibility guidelines
 
 The number of small governmental jurisdictions with a population less than 50,000 affected by the proposed guidelines is shown in the table below.
+<table class="data">
+    <caption>Number of small governmental jurisdictions with a population less than 50,000 affected by the proposed guidelines</caption>
+	<thead>
+		<tr>
+			<th>Governmental Jurisdictions</th>
+			<th>Population Less Than 50,000</th>
+		</tr>
+    </thead>
+    <tbody>
+		<tr>
+			<th>
+				County
+			</th>
+			<td>
+				2,178
+			</td>
+		</tr>
+		<tr>
+			<th>
+				Municipal
+			</th>
+			<td>
+				18,824
+			</td>
+		</tr>
+		<tr>
+			<th>
+				Town or Township
+			</th>
+			<td>
+				16,371
+			</td>
+		</tr>
+		<tr>
+			<th>
+				Total
+			</th>
+			<td class="text-bold">
+				37,375
+			</td>
+		</tr>
+	</tbody>
+</table>
 
-| Governmental Jurisdictions | Population Less Than 50,000 |
-| --- | --- |
-| County | 2,178 |
-| Municipal | 18,824 |
-| Town or Township | 16,371 |
-| **Total** | **37,375** |
-{: .usa-table}
-
-Source: US Census Bureau 2002 Census of Governments available at:\
-<http://www.census.gov/prod/2003pubs/gc021x1.pdf>.
+Source: US Census Bureau 2002 Census of Governments available at: [www.census.gov/prod/2003pubs/gc021x1.pdf](http://www.census.gov/prod/2003pubs/gc021x1.pdf).
 
 Almost 70 percent of municipal governments (13,038) and more than 75 percent of towns and townships (12,331) have a population of less than 2,500. Many of these small governmental jurisdictions are located in rural areas, which generally do not construct pedestrian transportation networks (e.g., sidewalks, pedestrian street crossings, and pedestrian signals).
 
-*Compliance requirements*
+#### Compliance requirements
 
 The proposed accessibility guidelines address the design, construction, and alteration of pedestrian facilities in the public right-of-way, including sidewalks, pedestrian street crossings, pedestrian overpasses and underpasses, curb ramps and blended transitions at pedestrian street crossings, pedestrian signals, street furniture (i.e., drinking fountains, public toilet facilities, tables, counters, and benches), pedestrian signs, transit stops and transit shelters for buses and light rail vehicles, on-street parking that is marked or metered, and passenger loading zones. The Section-by-Section Analysis of the preamble describes the proposed accessibility guidelines. Compliance with the proposed accessibility guidelines is not mandatory until they are adopted, without or without additions and modifications, as accessibility standards by other federal agencies. There are no reporting or recordkeeping requirements.
 
-*Other federal rules*
+#### Other federal rules
 
 The Department of Justice, Department of Transportation, and General Services Administration are responsible for issuing accessibility standards that are consistent with the accessibility guidelines issued by the Access Board and are expected to conduct rulemaking to adopt the proposed guidelines, with or without additions and modifications, as accessibility standards in regulations implementing Title II of the Americans with Disabilities Act (28 CFR part 36 and 49 CFR part 37), Section 504 of the Rehabilitation Act (49 CFR part 27), and the Architectural Barriers Act (41 CFR part 102). Additional information on these laws and regulations is provided under the Statutory and Regulatory Background in the preamble to the proposed guidelines.
 
-*Significant alternatives which minimize any significant economic impacts on small entities*
+#### Significant alternatives which minimize any significant economic impacts on small entities
 
 The regulatory assessment analyzes the following four requirements in the proposed guidelines that will have more than minimal impacts on state and local transportation departments:
 
@@ -782,11 +956,11 @@ The regulatory assessment analyzes the following four requirements in the propos
 
 There are no significant alternatives that will minimize any significant impacts of these requirements on small governmental jurisdictions and achieve the objectives of the Americans with Disabilities Act, Section 504 of the Rehabilitation Act, and the Architectural Barriers Act to eliminate the discriminatory effects of architectural, transportation, and communication barriers in the design and construction of pedestrian facilities in the public right-of-way.
 
-*Executive Order 13132: Federalism*
+#### Executive Order 13132: Federalism
 
 The proposed rule adheres to the fundamental federalism principles and policy making criteria in Executive Order 13132. The proposed rule is issued under the authority of the Americans with Disabilities Act, civil rights legislation that was enacted by Congress pursuant to its authority to enforce the Fourteenth Amendment to the U.S. Constitution and to regulate commerce. The Americans with Disabilities Act was enacted "to provide a clear and comprehensive national mandate for the elimination of discrimination against individuals with disabilities." 42 U.S.C. §12101 (b) (1). The Americans with Disabilities Act recognizes the authority of State and local governments to enact and enforce laws that "provide for greater or equal protection for the rights of individuals with disabilities than are afforded by this chapter." 42 U.S.C. §12201 (b). The proposed rule is based on the recommendations of a federal advisory committee which included representatives of state and local governments. The Access Board made drafts of the proposed rule available for public review and comment. State and local governments provided comments on the drafts of the proposed rule.
 
-*Unfunded Mandates Reform Act*
+#### Unfunded Mandates Reform Act
 
 The Unfunded Mandates Reform Act does not apply to proposed or final rules that enforce constitutional rights of individuals or enforce statutory rights that prohibit discrimination on the basis of race, color, sex, national origin, age, handicap, or disability. Since the proposed rule is issued under the Americans with Disabilities Act, which prohibits discrimination on the basis of disability, an assessment of the rule's effect on State, local, and tribal governments, and the private sector is not required by the Unfunded Mandates Reform Act.
 
@@ -798,7 +972,7 @@ _________________________________
 Nancy Starnes,  
 Chair.
 
-### NOTES
+#### NOTES
 
 1 Thee Access Board consists of 13 members appointed by the President from the public, a majority of which are individuals with disabilities, and the heads of 12 federal agencies or their designees whose positions are Executive Level IV or above. The federal agencies are: The Departments of Commerce, Defense, Education, Health and Human Services, Housing and Urban Development, Interior, Justice, Labor, Transportation, and Veterans Affairs; General Services Administration; and United States Postal Service.
 
@@ -843,7 +1017,7 @@ The DOJ 2010 Standards and the Department of Transportation standards for transp
 
 ---
 
-## Part 1190 - Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
+### Part 1190 - Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
 Sec.
 1190.1 Accessibility guidelines.
@@ -851,7 +1025,7 @@ Appendix to part 1190 -- Accessibility Guidelines for Pedestrian Facilities in t
 
 **Authority:** 29 U.S.C. 792 and 42 U.S.C. 12204.
 
-**§ 1190.1 Accessibility Guidelines.**
+#### § 1190.1 Accessibility Guidelines.
 
 The accessibility guidelines for pedestrian facilities in the public right-of-way are set forth in the appendix to this part. When the guidelines are adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing the Americans with Disabilities Act, Section 504 of the Rehabilitation Act, and the Architectural Barriers Act, compliance with the accessibility standards is mandatory. A copy of the guidelines with figures is available on the Access Board website[.](http://www.access-board.gov/prowac/nprm.htm.) Except for the International Symbol of Accessibility in Figure R411, which is included in the appendix to this part, the figures are for illustration purposes only and do not establish requirements.
 

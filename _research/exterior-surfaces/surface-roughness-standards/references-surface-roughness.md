@@ -1,7 +1,7 @@
 ---
 title: References
 order-number: 7
-research-title: Development of Surface Roughness Standards for Pathways Used by Wheelchair Users
+group-title: Development of Surface Roughness Standards for Pathways Used by Wheelchair Users
 status: completed
 year-completed: 2014
 topic: Exterior Surfaces

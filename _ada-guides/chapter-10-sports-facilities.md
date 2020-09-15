@@ -2,7 +2,7 @@
 title: "Chapter 10: Sports Facilities"
 order-number: 1010
 file: sports.pdf
-file-description: PDF version of Chapter 10 Sports Facilities Guide
+file-description: PDF version of Accessible Sports Facilities
 ---
 <div class="clearfix" markdown="1">
 ![boy using wheelchair playing basketball]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/sports_small.jpg){: .float-right .thumbnail}

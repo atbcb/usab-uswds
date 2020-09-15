@@ -48,9 +48,9 @@ On July 26, 2011, we issued a NPRM requesting comments on proposed accessibility
 
 We are issuing this SNPRM to include specific provisions for shared use paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way published in the Federal Register on July 26, 2011. See [76 FR 44664](https://www.access-board.gov/prowac/nprm.htm) (July 26, 2011). The proposed accessibility guidelines for pedestrian facilities in the public right-of-way will be codified as an appendix to 36 CFR part 1190. The SNPRM would supplement the following sections of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way: R105.5 Defined Terms; R204 and R302 Pedestrian Access Routes; R210 Protruding Objects; R218 Doors, Doorways, and Gates; and R304 Curb Ramps and Blended Transitions. The proposed supplements to these sections are set forth below.
 
-*R105.5 Defined Terms.*
+#### R105.5 Defined Terms.
 
-*Shared Use Path*
+##### Shared Use Path
 
 The SNPRM would add a proposed definition of shared use path in R105.5 to read as follows:
 
@@ -60,7 +60,7 @@ The proposed definition is based on the AASHTO Guide, which defines a shared use
 
 As noted in the AASHTO Guide, the primary factor that distinguishes shared use paths and sidewalks is the intended user. Shared use paths are designed for use by bicyclists and pedestrians, including pedestrians with disabilities. Sidewalks are designed for use by pedestrians, including pedestrians with disabilities, and are not intended for use by bicyclists. See AASHTO Guide, 5.2.2, Shared Use Paths Adjacent to Roadways (Sidepaths).
 
-*Public Right-of-Way*
+##### Public Right-of-Way
 
 The SNPRM would revise the proposed definition of public right-of-way in R105.5 to read as follows:
 
@@ -68,11 +68,11 @@ The SNPRM would revise the proposed definition of public right-of-way in R105.5 
 
 The NPRM proposed to define public right-of-way as public land or property, usually in interconnected corridors, that is acquired for or dedicated to transportation purposes. Some shared use paths may cross private land. In these situations, an easement or other legal means is used to establish a right for the public to use the portion of the land that the shared use path crosses for transportation purposes. The SNPRM would revise the proposed definition of public right-of-way to include these situations.
 
-*R204 and R302 Pedestrian Access Routes*
+#### R204 and R302 Pedestrian Access Routes
 
 The SNPRM would revise these sections relating to pedestrian access routes.
 
-*R204.2 Pedestrian Circulation Paths*
+##### R204.2 Pedestrian Circulation Paths
 
 The SNPRM would revise R204.2 to read as follows:
 
@@ -80,7 +80,7 @@ The SNPRM would revise R204.2 to read as follows:
 
 As proposed in the NPRM, R204.2 would require a pedestrian access route to be provided within sidewalks and other pedestrian circulation paths located in the public right-of-way. The NPRM proposed to define a pedestrian circulation path as a prepared exterior or interior surface provided for pedestrian travel in the public right-of-way. See [R105.5](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/proposed-supplements#1055). Sidewalks and shared use paths are types of pedestrian circulation paths. As revised by the SNPRM, the term "pedestrian circulation paths" in R204.2 includes sidewalks and shared use paths.
 
-*R302.3 Continuous Width*
+##### R302.3 Continuous Width
 
 The SNPRM would revise R302.3 to read as follows:
 
@@ -94,7 +94,7 @@ As proposed in the NPRM, R302.3 would require pedestrian access routes to be 4 f
 
 The SNPRM would add a new provision at R302.3.2 that would require a pedestrian access route to be provided for the full width of a shared use path since shared use paths are typically two-directional and path users travel in each direction on the right hand side of the path, except to pass. The AASHTO Guide recommends that two-directional shared use paths should be 10 feet wide minimum. Where shared use paths are anticipated to serve a high percentage of pedestrians and high user volumes, the AASHTO Guide recommends that the paths should be 11 to 14 feet wide to enable a bicyclist to pass another path user travelling in the same direction, at the same time a path user is approaching from the opposite direction. In certain very rare circumstances, the AASHTO Guide permits the width of shared use paths to be reduced to 8 feet. See AASHTO Guide, 5.2.1 Width and Clearance.
 
-*R302.5 Grade*
+#### R302.5 Grade
 
 The SNPRM would revise R302.5 to read as follows:
 
@@ -118,7 +118,7 @@ The SNPRM would add new provisions at R302.5.4 and R302.5.5 that would require c
 
 The proposed provisions are consistent with the AASHTO Guide. The AASHTO Guide recommends that the grade of a shared use path should not exceed 5 percent; but, where the path is adjacent to a roadway with a grade that exceeds 5 percent, the grade of the path should be less than or equal to the roadway grade. The AASHTO Guide notes that grades steeper than 5 percent are undesirable because ascents are difficult for many path users, and the descents can cause some path users to exceed the speeds at which they are competent or comfortable. See AASHTO Guide, 5.2.7 Grade.
 
-*R210 Protruding Objects*
+#### R210 Protruding Objects
 
 The SNPRM would revise R210 to read as follows:
 
@@ -136,7 +136,7 @@ The SNPRM would add a new provision for shared use paths at R210.3 that would pr
 
 The proposed provision for shared used paths is consistent with the AASHTO Guide. The AASHTO Guide recommends 10 feet vertical clearance along shared use paths, and 8 feet minimum vertical clearance in constrained areas. The AASHTO Guide recommends that fixed objects should not be permitted to protrude within the vertical or horizontal clearance of a shared use path. See AASHTO Guide, 5.2.1 Width and Clearance.
 
-*R218 Doors, Doorways, and Gates*
+#### R218 Doors, Doorways, and Gates
 
 The SNPRM would revise R218 to read as follows:
 
@@ -144,7 +144,7 @@ The SNPRM would revise R218 to read as follows:
 
 The SNPRM would not apply the technical provisions for doors, doorways, and gates referenced in R218 to shared use paths to avoid conflicts with the AASHTO Guide. The AASHTO Guide does not recommend the use of gates or other barriers to prevent unauthorized motor vehicle entry to shared use paths because gates and barriers create permanent obstacles to path users. The AASHTO Guide recommends alternative methods to control unauthorized motor vehicle entry to shared use paths, including posting regulatory signs prohibiting motor vehicle entry and targeted surveillance and enforcement. Where there is a documented history of unauthorized entry by motor vehicles despite the use of alternative methods to control such entry, the need for bollards or other vertical barriers may be justified. The AASHTO Guide includes recommended designs for bollards where justified. The AASHTO Guide recommends the use of one bollard in the center of the shared use path. Where more than one bollard is used, the AASHTO Guide recommends an odd number of posts spaced at 6 feet. The AASHTO Guide does not recommend two posts since they direct opposing path users toward the middle, creating conflict and the possibility of a head-on collision. See AASHTO Guide, 5.3.5 Other Intersection Treatments.
 
-*R304 Curb Ramps and Blended Transitions*
+#### R304 Curb Ramps and Blended Transitions
 
 The SNPRM would revise R304.5.1 to read as follows:
 
@@ -169,104 +169,77 @@ The proposed provision for shared used paths is consistent with the AASHTO Guide
 
 The proposed technical provisions applicable to shared used paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way, as supplemented by the SNPRM, and the design criteria for shared use paths in the AASHTO Guide are compared in the table below.
 
-|
-
-Proposed Accessibility Guidelines for Pedestrian Facilities\
-in the Public Right-of-Way\
-Proposed Technical Provisions Applicable to Shared Use Paths
-
- | AASHTO Guide for the Development of Bicycle Facilities (2012)\
-Chapter 5: Design of Shared Use Paths |
-|
-
-*R302.3.2 Shared Use Paths.* A pedestrian access route shall be provided for the full width of a shared use path.
-
- |
-
-*5.2.1 Width and Clearance*
-
-The minimum paved width for a two-directional shared use path is 10 ft (3.0 m). . . . In very rare circumstances, a reduced width of 8 ft (2.4 m) may be used . . . . Wider pathways, 11 to 14 ft (3.4 to 4.2 m) are recommended in locations that are anticipated to serve a high percentage of pedestrians (30 percent or more of the total pathway volume) and higher user volumes (more than 300 total users in the peak hour).
-
- |
-|
-
-*R302.5 Grade.* The grade of pedestrian access routes shall comply with R302.5.
-
-*R302.5.1 Within Street or Highway Right-of-Way.* Except as provided in R302.5.3, where pedestrian access routes are contained within a street or highway right-of-way, the grade of pedestrian access routes shall not exceed the general grade established for the adjacent street or highway.
-
-*R302.5.2 Not Within Street or Highway Right-of-Way.* Where pedestrian access routes are not contained within a street or highway right-of-way, the grade of pedestrian access routes shall be 5 percent maximum.
-
-*R302.5.3 Within Pedestrian Street Crossings. *Where pedestrian access routes are contained within a pedestrian street crossing, the grade of pedestrian access routes shall be 5 percent maximum.
-
-*R302.5.4 Physical Constraints.* Where compliance with R302.5.1 or R302.5.2 is not practicable due to existing terrain or infrastructure, right-of-way availability, a notable natural feature, or similar existing physical constraints, compliance is required to the extent practicable.
-
-*R302.5.5 Regulatory Constraints. *Where compliance with 302.5.1 or 302.5.2 is precluded by federal, state, or local laws the purpose of which is to preserve threatened or endangered species; the environment; or archaeological, cultural, historical, or significant natural features, compliance is required to the extent practicable.
-
- |
-
-*5.2.7 Grade*
-
-The maximum grade of a shared use path adjacent to a roadway should be 5 percent, but the grade should generally match the grade of the adjacent roadway. Where a shared use path runs along a roadway with a grade that exceeds 5 percent, the sidepath grade may exceed 5 percent but must be less than or equal to the roadway grade. Grades on shared use paths in independent rights-of-way should be kept to a minimum. Grades steeper than 5 percent are undesirable because the ascents are difficult for many path users, and the descents can cause some users to exceed the speeds at which they are competent or comfortable. . . . Grades on paths in independent rights-of-way should also be limited to 5 percent maximum.
-
- |
-|
-
-*R302.6 Cross Slope.* Except as provided in R302.6.1 and R302.6.2, the cross slope of pedestrian access routes shall be 2 percent maximum.
-
-*R302.6.1 Pedestrian Street Crossings Without Yield or Stop Control.* Where pedestrian access routes are contained within pedestrian street crossings without yield or stop control, the cross slope of the pedestrian access route shall be 5 percent maximum.
-
-*R302.6.2 Midblock Pedestrian Street Crossings.* Where pedestrian access routes are contained within midblock pedestrian street crossings, the cross slope of the pedestrian access route shall be permitted to equal the street or highway grade.
-
- |
-
-*5.2.5 Cross Slope*
-
-As described in the previous section, 1 percent cross slopes are recommended on shared use paths, to better accommodate people with disabilities and to provide enough slope to convey surface drainage in most situations.
-
- |
-|
-
-*R302.7 Surfaces. *The surfaces of pedestrian access routes and elements and spaces required to comply with R302.7 that connect to pedestrian access routes shall be firm, stable, and slip resistant and shall comply with R302.7.
-
-*R302.7.1 Vertical Alignment.* Vertical alignment shall be generally planar within pedestrian access routes (including curb ramp runs, blended transitions, turning spaces, and gutter areas within pedestrian access routes) and surfaces at other elements and spaces required to comply with R302.7 that connect to pedestrian access routes. Grade breaks shall be flush. Where pedestrian access routes cross rails at grade, the pedestrian access route surface shall be level and flush with the top of rail at the outer edges of the rails, and the surface between the rails shall be aligned with the top of rail.
-
-*R302.7.2 Vertical Surface Discontinuities*. Vertical surface discontinuities shall be 13 mm (0.5 in) maximum. Vertical surface discontinuities between 6.4 mm (0.25 in) and 13 mm (0.5 in) shall be beveled with a slope not steeper than 50 percent. The bevel shall be applied across the entire vertical surface discontinuity.
-
-*R302.7.3 Horizontal Openings*. Horizontal openings in gratings and joints shall not permit passage of a sphere more than 13 mm (0.5 in) in diameter. Elongated openings in gratings shall be placed so that the long dimension is perpendicular to the dominant direction of travel.
-
-*R302.7.4 Flangeway Gaps*. Flangeway gaps at pedestrian at-grade rail crossings shall be 64 mm (2.5 in) maximum on non-freight rail track and 75 mm (3 in) maximum on freight rail track.
-
- |
-
-*5.2.9 Surface Structure*
-
-Hard, all-weather pavement surfaces are generally preferred over those of crushed aggregate, sand, clay, or stabilized earth. . . . Unpaved surfaces may be appropriate on rural paths, where the intended use of the path is primarily recreational, or as a temporary measure to open a path before funding is available for paving. Unpaved pathways should be constructed of materials that are firm and stable. . . . It is important to construct and maintain a smooth riding surface on shared use paths. . . . Utility covers (i.e., manholes) and bicycle-compatible drainage grates should be flush with the surface of the pavement on all sides. . . . Railroad crossings should be smooth and should be designed at an angle between 60 and 90 degrees to the direction of travel to minimize the possibility of falls.
-
- |
-|
-
-*R210.3 Shared Use Paths.* Objects shall not overhang or protrude into any portion of a shared use path at or below 2.4 m (8.0 ft) measured from the finish surface.
-
- |
-
-*5.2.1 Width and Clearance*
-
-The desirable vertical clearance to obstructions is 10 ft (3.0 m). Fixed objects should not be permitted to protrude within the vertical or horizontal clearance of a shared use path. The recommended minimum vertical clearance that can be used in constrained areas is 8 ft (2.4 m).
-
- |
-|
-
-*R304.5.1.2 Shared Use Paths*. In shared use paths, the width of curb ramps runs and blended transitions shall be equal to the width of the shared use path.
-
-R305.1.4 Size. Detectable warning surfaces shall extend 610 mm (2.0 ft) minimum in the direction of pedestrian travel. At curb ramps and blended transitions, detectable warning surfaces shall extend the full width of the ramp run (excluding any flared sides).
-
- |
-
-*5.3.5 Other Intersection Treatments*
-
-The opening of a shared use path at the roadway should be at least the same width as the shared use path itself. If a curb ramp is provided, the ramp should be the full width of the path, not including any flared sides if utilized. . . . Detectable warnings should be placed across the full width of the ramp.
-
- |
+<table class="data">
+    <caption>Comparison of Proposed Technical Provisions Applicable to Shared Use Paths and AASHTO Guide</caption>
+<thead>
+<tr>
+<th>Proposed Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way Proposed Technical Provisions Applicable to Shared Use Paths</th>
+<th>AASHTO Guide for the Development of Bicycle Facilities (2012) <br />Chapter 5: Design of Shared Use Paths</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<th><span class="text-italic">R302.3.2 Shared Use Paths.</span>A pedestrian access route shall be provided for the full width of a shared use path.
+</th>
+<td>
+<span class="text-italic">5.2.1 Width and Clearance</span>
+<p>The minimum paved width for a two-directional shared use path is 10 ft (3.0 m). . . . In very rare circumstances, a reduced width of 8 ft (2.4 m) may be used . . . . Wider pathways, 11 to 14 ft (3.4 to 4.2 m) are recommended in locations that are anticipated to serve a high percentage of pedestrians (30 percent or more of the total pathway volume) and higher user volumes (more than 300 total users in the peak hour).</p>
+</td>
+</tr>
+<tr><th>
+<p><span class="text-italic">R302.5 Grade.</span> The grade of pedestrian access routes shall comply with R302.5.</p>
+<p><span class="text-italic">R302.5.1 Within Street or Highway Right-of-Way.</span> Except as provided in R302.5.3, where pedestrian access routes are contained within a street or highway right-of-way, the grade of pedestrian access routes shall not exceed the general grade established for the adjacent street or highway.</p>
+<p><span class="text-italic">R302.5.2 Not Within Street or Highway Right-of-Way.</span> Where pedestrian access routes are not contained within a street or highway right-of-way, the grade of pedestrian access routes shall be 5 percent maximum.</p>
+<p><span class="text-italic">R302.5.3 Within Pedestrian Street Crossings. </span>Where pedestrian access routes are contained within a pedestrian street crossing, the grade of pedestrian access routes shall be 5 percent maximum.</p>
+<p><span class="text-italic">R302.5.4 Physical Constraints.</span> Where compliance with R302.5.1 or R302.5.2 is not practicable due to existing terrain or infrastructure, right-of-way availability, a notable natural feature, or similar existing physical constraints, compliance is required to the extent practicable.</p>
+<p><span class="text-italic">R302.5.5 Regulatory Constraints. </span>Where compliance with 302.5.1 or 302.5.2 is precluded by federal, state, or local laws the purpose of which is to preserve threatened or endangered species; the environment; or archaeological, cultural, historical, or significant natural features, compliance is required to the extent practicable.</p>
+</th>
+<td>
+<p><span class="text-italic">5.2.7 Grade</span></p>
+<p>The maximum grade of a shared use path adjacent to a roadway should be 5 percent, but the grade should generally match the grade of the adjacent roadway. Where a shared use path runs along a roadway with a grade that exceeds 5 percent, the sidepath grade may exceed 5 percent but must be less than or equal to the roadway grade. Grades on shared use paths in independent rights-of-way should be kept to a minimum. Grades steeper than 5 percent are undesirable because the ascents are difficult for many path users, and the descents can cause some users to exceed the speeds at which they are competent or comfortable. . . . Grades on paths in independent rights-of-way should also be limited to 5 percent maximum.</p>
+</td>
+</tr>
+<tr><th>
+<p><span class="text-italic">R302.6 Cross Slope.</span> Except as provided in R302.6.1 and R302.6.2, the cross slope of pedestrian access routes shall be 2 percent maximum.</p>
+<p><span class="text-italic">R302.6.1 Pedestrian Street Crossings Without Yield or Stop Control.</span> Where pedestrian access routes are contained within pedestrian street crossings without yield or stop control, the cross slope of the pedestrian access route shall be 5 percent maximum.</p>
+<p><span class="text-italic">R302.6.2 Midblock Pedestrian Street Crossings.</span> Where pedestrian access routes are contained within midblock pedestrian street crossings, the cross slope of the pedestrian access route shall be permitted to equal the street or highway grade.</p>
+</th>
+<td>
+<p><span class="text-italic">5.2.5 Cross Slope</span></p>
+<p>As described in the previous section, 1 percent cross slopes are recommended on shared use paths, to better accommodate people with disabilities and to provide enough slope to convey surface drainage in most situations.</p>
+</td>
+</tr>
+<tr><th>
+<p><span class="text-italic">R302.7 Surfaces. </span>The surfaces of pedestrian access routes and elements and spaces required to comply with R302.7 that connect to pedestrian access routes shall be firm, stable, and slip resistant and shall comply with R302.7.</p>
+<p><span class="text-italic">R302.7.1 Vertical Alignment.</span> Vertical alignment shall be generally planar within pedestrian access routes (including curb ramp runs, blended transitions, turning spaces, and gutter areas within pedestrian access routes) and surfaces at other elements and spaces required to comply with R302.7 that connect to pedestrian access routes. Grade breaks shall be flush. Where pedestrian access routes cross rails at grade, the pedestrian access route surface shall be level and flush with the top of rail at the outer edges of the rails, and the surface between the rails shall be aligned with the top of rail.</p>
+<p><span class="text-italic">R302.7.2 Vertical Surface Discontinuities</span>. Vertical surface discontinuities shall be 13 mm (0.5 in) maximum. Vertical surface discontinuities between 6.4 mm (0.25 in) and 13 mm (0.5 in) shall be beveled with a slope not steeper than 50 percent. The bevel shall be applied across the entire vertical surface discontinuity.</p>
+<p><span class="text-italic">R302.7.3 Horizontal Openings</span>. Horizontal openings in gratings and joints shall not permit passage of a sphere more than 13 mm (0.5 in) in diameter. Elongated openings in gratings shall be placed so that the long dimension is perpendicular to the dominant direction of travel.</p>
+<p><span class="text-italic">R302.7.4 Flangeway Gaps</span>. Flangeway gaps at pedestrian at-grade rail crossings shall be 64 mm (2.5 in) maximum on non-freight rail track and 75 mm (3 in) maximum on freight rail track.</p>
+</th>
+<td>
+<p><span class="text-italic">5.2.9 Surface Structure</span></p>
+<p>Hard, all-weather pavement surfaces are generally preferred over those of crushed aggregate, sand, clay, or stabilized earth. . . . Unpaved surfaces may be appropriate on rural paths, where the intended use of the path is primarily recreational, or as a temporary measure to open a path before funding is available for paving. Unpaved pathways should be constructed of materials that are firm and stable. . . . It is important to construct and maintain a smooth riding surface on shared use paths. . . . Utility covers (i.e., manholes) and bicycle-compatible drainage grates should be flush with the surface of the pavement on all sides. . . . Railroad crossings should be smooth and should be designed at an angle between 60 and 90 degrees to the direction of travel to minimize the possibility of falls.</p>
+</td>
+</tr>
+<tr><th>
+<span class="text-italic">R210.3 Shared Use Paths.</span> Objects shall not overhang or protrude into any portion of a shared use path at or below 2.4 m (8.0 ft) measured from the finish surface.
+</th>
+<td>
+<p><span class="text-italic">5.2.1 Width and Clearance</span></p>
+<p>The desirable vertical clearance to obstructions is 10 ft (3.0 m). Fixed objects should not be permitted to protrude within the vertical or horizontal clearance of a shared use path. The recommended minimum vertical clearance that can be used in constrained areas is 8 ft (2.4 m).</p>
+</td>
+</tr>
+<tr><th>
+<p><span class="text-italic">R304.5.1.2 Shared Use Paths</span>. In shared use paths, the width of curb ramps runs and blended transitions shall be equal to the width of the shared use path.</p>
+<p>R305.1.4 Size. Detectable warning surfaces shall extend 610 mm (2.0 ft) minimum in the direction of pedestrian travel. At curb ramps and blended transitions, detectable warning surfaces shall extend the full width of the ramp run (excluding any flared sides).</p>
+</th>
+<td>
+<p><span class="text-italic">5.3.5 Other Intersection Treatments</span></p>
+<p>The opening of a shared use path at the roadway should be at least the same width as the shared use path itself. If a curb ramp is provided, the ramp should be the full width of the path, not including any flared sides if utilized. . . . Detectable warnings should be placed across the full width of the ramp.</p>
+</td>
+</tr>
+</tbody>
+</table>
  
  
  ---
@@ -276,7 +249,7 @@ The opening of a shared use path at the roadway should be at least the same widt
 
 Public comments submitted in response to the ANPRM expressed concern about the risk of collisions between pedestrians who are blind or have low vision and bicyclists who pass them too closely at fast speeds, and at intersections where a shared use path crosses another shared use path or a sidewalk. According to the AASHTO Guide, the 85th percentile speed for recreational bicyclists is 18 miles per hour. See AASHTO Guide, 5.2.4 Design Speed. The comments noted that bicycles are relatively quiet and pedestrians who are blind or have low vision may not be aware when bicyclists are approaching and passing them or crossing their path at intersections. Pedestrians with other disabilities may also have limited awareness of approaching bicyclists. For example, individuals who are deaf or hard of hearing may not be aware of a bicycle approaching from behind even when riders indicate their presence audibly. Individuals with limited mobility who may be alert to bicyclists may find it difficult to move aside in time to avoid collision. The comments recommended that traffic on shared use paths be regulated and strictly enforced in order to protect pedestrians. For example, a comment stated that bicyclists should be required to always yield to pedestrians. The comments also recommended design solutions to avoid conflicts between users, including separate pathways for pedestrians and bicyclists; and detectable warning surfaces at intersections where a shared use path crosses another shared use path or a sidewalk. These design solutions are discussed below.
 
-*Separate Pathways for Pedestrians and Bicyclists*
+#### Separate Pathways for Pedestrians and Bicyclists
 
 An organization representing individuals who are blind and have low-vision stated that "all shared use paths present an unacceptable safety risk to blind or visually impaired pedestrians unless there is a clear separation between pedestrians and other motorized and non-motorized vehicles including bicyclists." The comments noted that path users cannot be expected to always follow the "rules of the road" and suggested that if paths cannot be physically separated that lanes for pedestrians and other users should be marked tactilely. An organization of educators and rehabilitation professionals who work with individuals who are blind suggested that blind pedestrians may have considerable difficulty maintaining the course, particularly on two-directional shared use paths where all users are expected to travel on the right hand side of the path in each direction and bicyclists pass pedestrians and slower moving path users on their left hand side. In addition to the recommendation to physically separate pedestrians and bicyclists, the comments suggested that it may be necessary to separate the two directions of travel within each pathway, particularly on busy paths. The comments, however, acknowledged that determining what volume of users should require two-directional separation would be a challenge.
 
@@ -288,7 +261,7 @@ The comments suggested that enhanced signage and warnings, including audible sig
 
 We are considering including an advisory section in the final accessibility guidelines on separate pathways for pedestrians and bicyclists. Advisory sections are not mandatory requirements but provide guidance for entities who want to exceed the minimum requirements for accessible design. We request comments on information to include in the advisory section.
 
-*Detectable Warning Surfaces at Shared Use Path Intersections*
+#### Detectable Warning Surfaces at Shared Use Path Intersections
 
 Detectable warning surfaces consist of small truncated domes that are integral to a walking surface and that are detectable underfoot. The proposed accessibility guidelines for pedestrian facilities in the public right-of-way would require the use of detectable warning surfaces to indicate the boundary between a pedestrian route and a vehicular route where there is a curb ramp or blended transition; and the boundary of passenger boarding platforms at transit stops for buses and rail vehicles and at passenger boarding and alighting areas at sidewalk or street level transit stops for rail vehicles. See R208 and R305.
 

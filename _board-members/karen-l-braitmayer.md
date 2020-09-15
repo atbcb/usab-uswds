@@ -1,7 +1,7 @@
 ---
 name: karen-l-braitmayer
 last-name: braitmayer
-full_name: Karen L. Braitmayer
+full_name: 'Karen L. Braitmayer, FAIA'
 chair: false
 vice-chair: false
 member: public

@@ -1,7 +1,7 @@
 ---
 title: Capabilities Resources and Facilities
 order-number: 4
-research-title: Anthropometry for Persons with Disabilities Needs for the 21st Century
+group-title: Anthropometry for Persons with Disabilities Needs for the 21st Century
 status: completed
 year-completed: 1997
 topic: Human Measures - Mobility Aids

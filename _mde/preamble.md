@@ -28,7 +28,7 @@ RIN 3014-AA40
 
 ### I. Executive Summary
 
-**A. Purpose and Legal Authority**
+#### A. Purpose and Legal Authority
 
 The Access Board is an independent federal agency established by Section 502 of the Rehabilitation Act (29 U.S.C. 792). The Access Board is responsible for developing accessibility guidelines and standards under various laws to ensure that individuals with disabilities have access to and use of buildings and facilities, transportation vehicles, and information and communication technology. Pursuant to these laws, other federal agencies have adopted the Access Board's guidelines and standards as mandatory requirements for entities subject to their jurisdiction.
 
@@ -42,13 +42,13 @@ Private parties, including individuals with disabilities, have also entered into
 
 The Commissioner of the Food and Drug Administration designated the Director of the Center for Devices and Radiological Health (FDA-CDRH) to consult with the Access Board on the development of the MDE Standards. The Access Board has worked throughout the process with the FDA-CDRH in developing these Standards.
 
-**B. Summary of Major Provisions and Organization of Technical Criteria**
+#### B. Summary of Major Provisions and Organization of Technical Criteria
 
 The Access Board has divided the MDE Standards into separate technical criteria based on how the diagnostic equipment is used by the patient: (1) supine, prone, or side lying position (M301); (2) seated position (M302); (3) while seated in a wheelchair (M303); and (4) standing position (M304). For each category the Access Board has provided technical criteria to allow independent access to and ensure the diagnostic equipment was usable by patients with disabilities to the maximum extent possible. The technical requirements for diagnostic equipment used by patients in the supine, prone, or side-lying position and diagnostic equipment used by patients in the seated position focus on ensuring the patient can transfer from a mobility device onto the diagnostic equipment. The other two categories, M303 and M304, focus on the necessary technical requirements to allow the patient to use the diagnostic equipment while seated in their wheeled mobility device, or while standing, respectively.
 
 The MDE Standards also include technical criteria for supports (M305), for instructions or other information communicated to patients through the equipment (M306), and for operable parts used by patients (M307).
 
-**C. Costs and Benefits**
+#### C. Costs and Benefits
 
 The MDE Standards are advisory and are not binding until adopted by an enforcing authority. The Access Board's mandate was to establish only the minimum technical criteria, however enforcing authorities may establish scoping requirements in the future. As such, the final rule does not directly impose any obligations on health care providers or medical device manufacturers. Only when another federal agency, through separate rulemaking, adopts the MDE Standards (in whole or in part) as mandatory for entities under its jurisdiction, will compliance be required. At this point, the Access Board does not know whether enforcing authorities will adopt the MDE Standards, nor (if they do) to what extent health care practices or particular types of medical diagnostic equipment will be required to comply with the Standards' technical requirements. For this reason, the Board cannot estimate the incremental monetary or quantitative impacts of the final rule.
 
@@ -96,20 +96,20 @@ The Access Board received nine comments asserting that figures help the reader t
 
 This section of the preamble addresses significant changes made from the MDE NPRM to the final rule in response to the comments received, recommendations from the MDE Advisory Committee, and other information that has come to the Access Board's attention during the rulemaking process. Individual provisions of the rule are discussed in detail under the Section-by-Section Analysis below.
 
-**A. Chapter 2: M201 Scoping**
+#### A. Chapter 2: M201 Scoping
 
 In the final rule, Chapter 2 establishes that the enforcing authority will determine the number and types of diagnostic equipment to which the MDE Standards will apply. There was only one significant change to this section, which added a general exception for diagnostic equipment that is unable to meet one or more of the requirements in the final rule.
 
-*1\. General Exception*
+##### 1. General Exception
 
 The MDE NPRM proposed several limited exceptions to certain provisions addressing the limitations of current technology and design. Through testimony at the public hearings, comments, and MDE Advisory Committee discussions, the manufacturers of imaging equipment consistently raised concerns about inherent barriers to compliance with the proposed MDE Standards due to the location of imaging and mechanical components necessary to achieve the diagnostic aims. Some specific examples include: Dual Energy X-Ray Absorptiometry (DXA) machines, with a mechanism that moves imaging components along a track beneath the patient surface precluding height adjustability for the transfer surface; prone biopsy tables that must be of a sufficient height to permit health care providers access beneath the patient surface to perform procedures, precluding the equipment from meeting the minimum transfer surface height; and mammography machines with low dose radiation detectors that are larger in size than conventional configurations and required to be in locations that partially obstruct clearances for knee and toe space beneath the breast platform. While the MDE NPRM proposed several specific technical exceptions in Chapter 3, the exceptions did not address the manufacturers' overall concerns regarding imaging equipment. Section 510 of the Rehabilitation Act requires the MDE Standards to provide independent access "to the maximum extent possible." The Access Board interprets this language as recognizing that, in some situations, current technology may preclude diagnostic equipment from meeting all of the technical requirements in the MDE Standards. Therefore, the Access Board has added a general exception to Chapter 2 allowing compliance to the maximum extent practicable for the rare circumstance where full compliance would alter diagnostically required structural or operational characteristics of the equipment, and would prevent the use of the equipment for its intended diagnostic purpose. Any equipment utilizing this exception is still required to meet all other applicable provisions of the MDE Standards. We anticipate that this exception will be employed on a very limited basis for a few specialized equipment types, primarily imaging equipment. This provision is not intended to exempt a piece of diagnostic equipment from the MDE Standards as a whole. Limitations resulting from existing equipment designs or manufacturing practices that could be altered to meet the requirements are not a basis for invoking this exception; only diagnostically required structural or operational characteristics that cannot be made to comply with the technical requirements without preventing the use of the equipment for its intended diagnostic purpose are covered by this provision.
 
-**B. M301 Diagnostic Equipment Used by Patients in a Supine, Prone, or Side-lying Position and M302 Diagnostic Equipment Used by Patients in a Seated Position**
+#### B. M301 Diagnostic Equipment Used by Patients in a Supine, Prone, or Side-lying Position and M302 Diagnostic Equipment Used by Patients in a Seated Position
 
 In the final rule M301 and M302 provide the technical requirements for diagnostic equipment used in the supine, prone, or side-lying position, and diagnostic equipment used by patients in the seated position. Sections M301 and M302, which ensure that patients can transfer from their mobility devices onto the diagnostic equipment, share many technical requirements. Therefore, the Significant Changes Section addresses the transfer surface and lift compatibility requirements for M301 and M302 together. New exceptions pertaining to weight scales and to the type of equipment that must comply with M301 and the decision to remove the armrest requirements from M302, are also discussed below.
 
-*1\. Transfer Surface *\
-*a. Transfer Surface Adjustability*
+##### 1. Transfer Surface
+###### a. Transfer Surface Adjustability
 
 The MDE NPRM proposed that the same transfer surface height range of 17 inches minimum to 19 inches maximum be applied to both diagnostic equipment used in the supine, prone, or side-lying position and diagnostic equipment used in the seated position (proposed M301.2.1 and M302.2.1, respectively). The Board considered it likely that diagnostic equipment would be adjustable in height to serve practitioners' needs however, the transfer surface could be fixed within the proposed height range. The Access Board sought public comment in the MDE NPRM preamble on whether the final standards should require the height of the transfer surface to be adjustable from 17 inches minimum to 25 inches maximum. NPRM, 77 FR at 6922-6933, questions 13 and 14. The majority of commenters, including manufacturers and disability advocates, supported both an adjustability requirement and the proposed high transfer height, but disagreed on what should be the low transfer height.
 
@@ -117,7 +117,7 @@ The MDE Advisory Committee recommended a high transfer height of at least 25 inc
 
 After considering the public comments and the recommendations from the MDE Advisory Committee, the Access Board has decided to include in the final rule the following requirements for diagnostic equipment used in the supine, prone or side-lying position, and for diagnostic equipment used in the seated position: an adjustable transfer height range with a minimum high and low height; four intermediate transfer heights within the adjustable range; and a specific method to measure the transfer heights. These new requirements are incorporated into the transfer height provision for diagnostic equipment used in the supine, prone, or side-lying position, and for diagnostic equipment used in the seated position, in the final rule (M301.2.1 and M302.2.1, respectively). These provisions have been renamed "Adjustability," and are discussed in detail below.
 
-*(1) Adjustability: Minimum High Transfer Height*
+####### (1) Adjustability: Minimum High Transfer Height
 
 In the preamble to the MDE NPRM, the Access Board sought comment in question 14 on whether the final rule should require an adjustable height range of 17 inches to 25 inches; whether equipment currently met this proposed requirement and, if not, what would the cost be to achieve that range; and whether intermediate heights should also be required within the adjustable height range. NPRM, 77 FR at 6923. While 20 commenters responded to question 14, only four commenters explicitly addressed the proposed minimum high height of 25 inches. Of these, two commenters (an accessibility consultant and a state agency concerned with accessibility) concurred with a minimum high height of 25 inches. One commenter, a manufacturer, recommended increasing the minimum high height to 28 inches for all diagnostic equipment except magnetic resonance imaging (MRI) equipment, which has limitations that may prevent it from reaching 28 inches. Another manufacturer gave examples of the height ranges of its beds and stretchers, each of which met the 25-inch minimum high height.
 
@@ -129,7 +129,7 @@ MDE Advisory Committee Report, 69, available at [https://www.access-board.gov/g
 
 The Access Board was persuaded by the arguments of commenters and the MDE Advisory Committee in favor of requiring a minimum high transfer surface height of 25 inches. A 25-inch minimum high height will ensure that the transfer surface can be raised up to the height of the vast majority of wheelchair seat heights, which are 25 inches high or lower. The final rule requires a minimum high transfer surface height of 25 inches for both diagnostic equipment used in the supine, prone or side-lying position (M301.2.1), as well as diagnostic equipment used in the seated position (M302.2.1). Nothing in the rule prohibits a manufacturer from providing a high transfer height above 25 inches as long as transfer is provided within the range specified up to 25 inches. 
 
-*(2) Adjustability: Minimum Low Transfer Height*
+####### (2) Adjustability: Minimum Low Transfer Height
 
 The Access Board received many comments from disability rights organizations, individuals, accessibility consultants, and a health care provider supporting the need for lower height adjustable tables. Specifically, these commenters explained the need for adjustable height tables to facilitate and promote independent or semi-independent transfer. These commenters explained the delay in diagnosis and treatment when patients are unable to transfer from their wheeled mobility device to the examination surface and are inadequately examined while remaining in their wheelchair. These commenters also explained that adjustable tables would enhance both the safety of patients, by reducing the risk of falls and injury incurred from assisted transfer, as well as reducing injury to medical staff and caregivers by lessening the likelihood of back and other lifting injuries. One individual commenter recalled being bruised when she was dragged onto medical equipment that was too high, while another commenter noted that the risk to healthcare workers increases when access to medical diagnostic equipment is not optimized.
 
@@ -163,7 +163,7 @@ Id.
 
 After carefully considering the totality of comments received and the MDE Advisory Committee materials, the Access Board has concluded that there is insufficient information to designate a single minimum low height requirement at this time. Specifically, there is insufficient data on the extent to which and how many individuals would benefit from a transfer height lower than 19 inches. Due to this lack of sufficient information, coupled with the lack of consensus among the MDE Advisory Committee and the commenters, the Access Board has decided to establish, for five years only, a range for the minimum low height requirement of 17 inches to 19 inches. During the five-year period following issuance of the final rule, any low transfer height between 17 and 19 inches will meet the MDE Standards. The Access Board acknowledges that this is a temporary solution, and has commissioned a study to quantify the portion of the population that would benefit from a low transfer height below 19 inches. A pilot study was completed prior to the publication of this final rule. A sunset provision has been included in the final rule that will repeal this low height range five years after the date of publication in the Federal Register, leaving only the requirements for the high transfer height and the additional transfer positions below the high transfer height. The Access Board intends to amend this portion of the final rule with a subsequent rulemaking to establish a minimum low transfer surface height once the study has been completed and before the sunset provision takes effect.
 
-*(3) Adjustability: Transfer Surface Intermediate Heights*
+####### (3) Adjustability: Transfer Surface Intermediate Heights
 
 In the MDE NPRM there was no requirement for the transfer surface to have intermediate transfer heights. Under the proposed rule, diagnostic equipment would be in compliance if it provided a low transfer height anywhere within the range of 17 inches minimum and 19 inches maximum. In addition to the matter of low transfer height, the Access Board sought public comment in question 14(c) on whether the final rule should require intermediate heights between a minimum low transfer height and a minimum high transfer height. NPRM, 77 FR at 6923. Three commenters responded (two accessibility consultants and a disability rights advocate) and supported the idea of requiring intermediate heights within a minimum low height and minimum high height of the transfer surface. One commenter, an accessibility consultant, recommended intervals of ½ to 1 inch, indicating that ½ inch increments would be more practical to match the varying heights of wheelchairs and mobility devices, which is critical for many patients in performing independent transfers. The MDE Advisory Committee recommended adjustable height in small, virtually continuous increments. To support this recommendation, the MDE Advisory Committee explained:
 
@@ -171,15 +171,15 @@ that adjustability greatly increases the overall accessibility of equipment for 
 
 The Access Board has decided to require that the height of the transfer surface be adjustable within the range for the minimum low and high heights in at least four unspecified intermediate heights, but has determined that the intermediate heights should be set a minimum of one inch apart. While the Access Board agrees that continuous adjustment is preferable, requiring such adjustability could preclude the use of certain types of lifting devices such as hydraulic systems that work in increments. The intent is to permit manufacturers flexibility in setting intermediate heights and not prohibitively restrict designs to those of particular manufacturers or equipment.
 
-*(4) Adjustability: Method of Measurement*
+####### (4) Adjustability: Method of Measurement
 
 The MDE NPRM proposed that the measurement of the height of the transfer surface for both diagnostic equipment used in the supine, prone, or side-lying position and diagnostic equipment used in the seated position, be taken from the floor to the top of the transfer surface (proposed M301.2.1 and M302.2.1, respectively). The Access Board sought comment in question 13 in the MDE NPRM preamble, on whether the measurement should be taken with the upholstery in static (uncompressed) conditions, or with a certain amount of deflection. NPRM, 77 FR at 6922. The Access Board received eleven comments in response, most of which agreed with measuring the transfer surface in a static condition. A few commenters disagreed: one manufacturer recommended measuring in static conditions, but allowing a ¾ inch bolster in no more than 25 percent of the short side of the transfer surface to be permitted to be outside the height requirement; two commenters (medical association and manufacturer) asserted that the method of measurement should be dependent on the type of diagnostic equipment and left up to the manufacturers; and two commenters (state agency concerned with accessibility and accessibility consultant) recommended that the transfer surface meet the criteria in both dynamic and static conditions. The MDE Advisory Committee concurred with those comments recommending that the measurement be made with the upholstery in a static condition to ensure a consistent point of measurement. The MDE Advisory Committee explained that "[s]ince many transfer surfaces are not perfectly flat, measuring to the highest point in an uncompressed state provides this consistent point of measurement." MDE Advisory Committee Report, 71, available at [https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report.](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report) The Access Board agrees with the Advisory Committee's rationale and the final rule requires that the height be measured from the floor to the top of the uncompressed transfer surface. This method will ensure consistent measurement across all diagnostic equipment. Taking the measurement at the highest point on the transfer surface allows for small bolsters or contours and does not significantly increase the overall height of the transfer for people with disabilities.
 
-*b. Transfer Surface Location*
+###### b. Transfer Surface Location
 
 The MDE NPRM proposed the same location and transfer sides of the transfer surface for diagnostic equipment used by patients in the supine, prone, or side-lying position (M301) and diagnostic equipment used by patients in the seated position (M302). This transfer surface was located at the end of the diagnostic equipment and provided options to transfer from a mobility device onto one short side and one long side of the transfer surface. (proposed M301.2.3 and M302.2.3, respectively). Numerous commenters objected on the basis that this type of transfer is not always possible for certain types of medical diagnostic equipment; the MDE Advisory Committee agreed with commenter concerns. The Access Board is persuaded by many of the concerns raised by commenters and the MDE Advisory Committee. In the final rule the structure and content of the transfer surface provision has been revised for diagnostic equipment used by patients in the supine, prone, or side-lying positions to provide two types of transfer surfaces; end transfer surfaces and side transfer surfaces. For diagnostic equipment used by patients in the seated position, the Access Board has decided to retain the proposed rule requirements for transfer surface location and transfer sides, but has added an exception to the transfer sides provision in the final rule to address the concerns raised by commenters and the MDE Advisory Committee.
 
-*(1) Transfer Surface Location for Diagnostic Equipment Used in the Supine, Prone, or Side-lying Position*
+####### (1) Transfer Surface Location for Diagnostic Equipment Used in the Supine, Prone, or Side-lying Position
 
 Multiple commenters expressed concerns that transfer cannot always occur at the end of the diagnostic equipment as contemplated by the requirements in the proposed rule. One commenter elaborated that stretchers and hospital beds are always entered from one or the other long side of the bed, not the foot end, due to obstructions at the head and foot ends that cannot be removed. Another commenter recommended allowing transfer space at both the center and the end of the transfer surface.
 
@@ -187,7 +187,7 @@ Evidence presented to the MDE Advisory Committee during its deliberations reveal
 
 Based on the comments received and the MDE Advisory Committee recommendations, the Access Board has concluded that for diagnostic equipment used by patients in supine, prone, or side-lying positions two transfer surface orientations are possible depending on the intended location from which the transfer is to be made. These orientations are now identified as an end transfer surface and side transfer surface. This necessitated adding the definition of "end transfer surface" and "side transfer surface" to the defined terms (M102.1) in the final rule and resulted in the removal of the proposed M301.2.3 Transfer Sides, as that is now described within the two types of transfer surfaces provided. The end transfer surface accommodates the transfer method conceived of in the proposed rule; where the transfer occurs at one end of the examination surface and allows the patient the option to transfer at the end and on one adjoining side of the examination surface. The side transfer surface responds to the concerns raised by commenters and the MDE Advisory Committee to accommodate diagnostic equipment where transfer occurs within the length of the examination surface and allows patient transfer at the sides of the examination surface. Side transfer surfaces most typically will be imaging equipment, stretchers, hospital beds, and other equipment where the end is obstructed and cannot be used for transfer. Accordingly, the Access Board has reorganized the requirements regarding the transfer surface for M301 into two types based on where the transfer is to occur: "End Transfer" or "Side Transfer." This revision to provide options for two types of transfer surfaces necessitated adding additional technical criteria addressing transfer surface size (M301.2.3) and transfer supports (M305.2), as well as adding the definition of "end transfer surface" and "side transfer surface" to the defined terms (M102.1) in the final rule. These new requirements are addressed below in the applicable section in the Section-by-Section Analysis.
 
-*(2) Transfer Surface Location for Diagnostic Equipment Used in the Seated Position*
+####### (2) Transfer Surface Location for Diagnostic Equipment Used in the Seated Position
 
 Commenters also raised concerns with the provisions in the MDE NPRM related to transferring to medical diagnostic equipment used by patients in the seated position. Commenters stated that there is certain diagnostic equipment used by patients in the seated position where transfer at the end of the seat by two adjoining sides is not feasible. Specifically, commenters raised concerns about diagnostic equipment with fixed footrests, such as podiatry and dentistry chairs. Transfer onto these types of diagnostic equipment must be made from either long side, similar to the side transfer surface described above. One commenter explained that fixed footrest chairs are meant to treat patients with their legs extended parallel to the ground. If entered as suggested in the proposed rule the patient would have to enter the chair by positioning themselves onto this fixed footrest section that is at a downward angle and would require the patient to slide up an inclined surface to be properly positioned on the diagnostic equipment.
 
@@ -201,7 +201,7 @@ The American Dental Association proposed a complete exemption of dental chairs f
 
 The Access Board does not concur with the comment urging that dental chairs should receive a blanket exemption. The record is replete with evidence that individuals with disabilities do encounter barriers to dental care as a result of inaccessible dental chairs. For example, one commenter, a disability rights organization representing 37,000 members, explained that it asked its members "and others with disabilities about the barriers they encounter when seeking medical care and treatment. The most frequent responses involved access to examination chairs, dentist chairs, scales and mammography and colonoscopy equipment." Comment of United Spinal Association, Notice of Proposed Rulemaking for Medical Diagnostic Equipment, (June 4, 2012), available at <https://www.regulations.gov/document?D=ATBCB-2012-0003-0029>. Additionally, at the public hearing on May 8, 2012, a commenter raised concerns about the ability to obtain dental care when unable to transfer onto the dental chair. The public hearing transcript is available at <https://www.regulations.gov/docket?D=ATBCB-2012-0003>. Accordingly, the Access Board has concluded that dental chairs are appropriately covered by this rule.
 
-*c. Transfer Surface Size for Diagnostic Equipment Used by Patients in the Supine, Prone, or Side-lying Position*
+####### c. Transfer Surface Size for Diagnostic Equipment Used by Patients in the Supine, Prone, or Side-lying Position
 
 The MDE NPRM proposed a transfer surface size for diagnostic equipment used in the supine, prone, or side-lying position of 30 inches wide and 15 inches deep minimum (proposed M301.2.2). These dimensions were based on the dimensions specified in the 2004 ADA and ABA Accessibility Guidelines for rectangular seats in roll-in showers (36 CFR Part 1191, App. D 610.3.1) and the ANSI/AAMI HE 75 which notes that a standard examination table is 27 inches wide and a bariatric table is approximately 30 to 32 inches wide and recommends wider surfaces to make repositioning easier. ANSI/AAMI HE 75, section 16.4.7, available at <http://www.aami.org/he75>. The Access Board sought input in question 15 in the MDE NPRM preamble on whether this size transfer surface was sufficient to effectuate transfer. NPRM, 77 FR at 6923-6924. Of the 12 commenters who responded, only two supported the transfer surface size in the proposed rule. Four of the remaining commenters (manufacturers) felt that the transfer surface width should be decreased, while five (disability rights organizations, a medical association, and an individual) believed a larger surface was needed. The last commenter, recommended one size transfer surface for both seated and supine, prone, or side-lying diagnostic equipment. Commenter recommendations for transfer surface width ranged from 24 inches to 36 inches, while no commenters addressed the proposed depth of 15 inches. Those advocating for a larger width were concerned about the ability of the patient to reposition after transfer and about accommodating obese patients. Those commenters supporting a smaller transfer surface raised concerns about the ability to transfer with a large surface preventing the patient from reaching transfer supports on the opposite side of the transfer surface, while still seated in the wheeled mobility device. The commenters were also concerned that making existing tables comply would require entire base redesigns as product stability would have to be re-evaluated with a wider table. Commenters also raised concerns that a larger transfer surface would conflict with bore size limitations on imaging equipment and that it could limit the health care provider's access to the patient for proper exam. Finally, two commenters, in response to question 15(e), agreed that an adjustable feature such as an extendable platform, should be permitted to meet the transfer surface dimensions so long as it does not move when a load is applied and it is a permanent part of the device.
 
@@ -215,7 +215,7 @@ For diagnostic equipment with side transfer surfaces, the Access Board has decid
 
 Additionally, the Access Board concurs with the MDE Advisory Committee recommendation to provide an exception for the transfer surface size of imaging equipment in the final rule given the physical limitations affecting surface depth for imaging equipment with bores and the fact that it is unclear when technological advances in bore size may permit larger patient examination surfaces. However, the Access Board has narrowed the application of this exception only to imaging equipment with bores. The Access Board has determined that this exception, as recommended, was intended to account for the space constraints of imaging equipment with bores and wants to ensure the exception stays as narrow as possible. Therefore, in the final rule, the Access Board has provided an exception which permits the imaging bed of imaging equipment with bores' to be a minimum of 21 inches wide but requires the transfer surface to be the full width of the examination surface. As this exception applies regardless of whether the imaging equipment has an end transfer surface or a side transfer surface, an exception has been added to each requirement (M301.2.3.1 and M301.2.3.2, respectively). Additionally, the Board has added two definitions to the final rule, "imaging equipment with bores" and "imaging bed" to assist with the application of this exception. (M102.1 final rule).
 
-*d. Unobstructed Transfer*
+####### d. Unobstructed Transfer
 
 The MDE NPRM proposed that each transfer side provide unobstructed access to the transfer surface, with an exception to permit temporary obstructions as long as they could be repositioned during transfer (proposed M301.2.3 and M302.2.3). As explained in the MDE NPRM preamble, the unobstructed access requirement was to ensure that armrests, side rails, stirrups, or other equipment parts attached to the diagnostic equipment did not impede the patient's ability to transfer. NPRM, 77 FR at 6923. The final rule retains the proposed requirements for unobstructed transfer for diagnostic equipment used in a supine, prone, or side-lying position, as well as diagnostic equipment used in the seated position, and has added a new exception described below.
 
@@ -229,13 +229,13 @@ Accordingly, the final rule includes an exception permitting obstructions of no 
 
 As noted above, the Access Board has retained the original exception from the MDE NPRM, permitting temporary obstructions provided that they can be repositioned out of the way during transfer. In the final rule, the Board moved this provision to Exception 2 to accommodate the new exception discussed above, and added language to specify that this exception may also apply to obstructions that qualify for Exception 1. For example, side rails that create a gap of three inches from the transfer side of the diagnostic equipment to the mobility device when moved out of the way for transfer, but also protrude above the top of the transfer surface when in place as a side rail.
 
-*2\. Armrests Requirement*
+###### 2. Armrests Requirement
 
 In the MDE NPRM, the Access Board required diagnostic equipment used by patients in the seated position to provide armrests (proposed M302.3.2). The only commenter that addressed whether armrests should be required was a manufacturer who requested that beds, cots, and stretchers be excluded from the requirements as they are required to have side rails per IEC 60601-2-52. The MDE Advisory Committee addressed the armrest provision during their discussions of transfer supports and explained that "armrests serve a similar function, and occupy the same physical space as the transfer supports as described in the MDE NPRM. The MDE NPRM requires transfer supports for all chairs, so the additional equipment for armrests for chairs was not only redundant, but could potentially create a physical conflict between the two devices." MDE Advisory Committee Report, 104, available at [https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report.](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report) The MDE Advisory Committee recommended that armrests not be required, but if provided they cannot obstruct transfer supports. Additionally, the Committee noted that transfer supports meeting the final requirements, would provide support like that of armrests and enhance patient stability if left in place after a transfer from a mobility device. Id.
 
 After review of the comment and the recommendations of the MDE Advisory Committee, the Access Board is persuaded that requiring armrests as well as transfer supports is redundant and has the potential to cause conflict between the two devices. Therefore, the Access Board has removed the provision requiring armrests from the final rule.
 
-*3\. Lift Compatibility Exception*
+###### 3. Lift Compatibility Exception
 
 The MDE NPRM proposed that diagnostic equipment used by patients in the supine, prone or side-lying position and diagnostic equipment used by patients in the seated position be usable with portable patient lifts. The proposed rule specified base clearance requirements to ensure lift compatibility (M301.4 and M302.4, respectively). The preamble to the MDE NPRM sought comment on whether the final rule should exempt certain diagnostic equipment from these requirements if the equipment was specifically designed to be used with a fixed overhead lift. NPRM, 77 FR at 6927, question 27.
 
@@ -247,7 +247,7 @@ Overhead lifts can provide an alternate means of access instead of clearances ar
 
 After review of the comments received and the recommendations from the MDE Advisory Committee, the Access Board has concluded that fixed overhead lifts may be appropriate and even preferred in certain circumstances. However, the Access Board believes that the determination of the circumstances where an exception is warranted and the types of diagnostic equipment that should be excepted from the portable floor lift requirement is more appropriately left to the enforcing authority. Accordingly, the final rule provides a limited exception to the lift compatibility requirements for fixed overhead lifts in situations where: (1) a fixed overhead lift is provided; (2) the diagnostic equipment is clearly labeled as not compatible with portable floor lifts; and (3) the use of the overhead lift with that diagnostic equipment is specifically permitted by the enforcing authority. The exception applies only if all three conditions are met.
 
-*4\. Exception from the Requirements of M301 for Certain Examination Chairs that Comply with M302*
+###### 4. Exception from the Requirements of M301 for Certain Examination Chairs that Comply with M302
 
 The Access Board proposed in M101.2 in the MDE NPRM to require diagnostic equipment to meet the standards for each patient position supported, meaning that if diagnostic equipment was designed to support a patient in multiple positions then the equipment would have to meet the technical criteria for each of those positions. The Access Board sought public input in question three in the preamble in the MDE NPRM, on whether organizing the technical criteria functionally by patient position was clear. 77 FR at 6919.
 
@@ -255,7 +255,7 @@ Fifteen commenters responded, with only two disability advocates and one medical
 
 In response to the comments and Advisory Committee discussions, the Access Board acknowledges that one of the most important features of making diagnostic equipment used by patients in either the supine, prone, or side-lying position or the seated position accessible, is to ensure the patient has the opportunity to transfer independently to the maximum extent possible. The Access Board concurs with the commenters that there are certain examination chairs, such as dentistry and podiatry chairs, where the patient is only intended to transfer while the chair is in a seated position but is then reclined into a supine position while the diagnostic procedure is being performed. The Access Board concurs with commenters that in this limited situation it is unnecessary for the examination chair, which complies with the technical requirements in M302, to also have to comply with the technical requirements in M301. Therefore, in the final rule the Access Board has added an exception to M301.1 which states that examination chairs that comply with M302 and, after the patient transfers into the seat, reclines to facilitate diagnosis, do not have to comply with M301. Additionally, the Board has added a new definition for examination chair in M102.1 in the final rule to assist with the application of this exception. The other commenter concerns regarding the proposed application provision, M101.2, are addressed below in the Section-by-Section Analysis.
 
-*5\. Exception from the Requirements of M302 for Weight Scales with Integral Seats*
+###### 5\. Exception from the Requirements of M302 for Weight Scales with Integral Seats
 
 The MDE NPRM proposed that diagnostic equipment which could be used by patients in multiple positions must comply with the technical criteria for all positions in which it could be used (proposed M101.2). In the preamble in the MDE NPRM the Access Board proposed an exception to this requirement for folding seats on diagnostic equipment used by patients seated in a wheelchair. The MDE NPRM proposed that this type of diagnostic equipment would have to meet the technical requirements of M302 (diagnostic equipment used by patients in the seated position) and M303 (diagnostic equipment used by patients seated in a wheelchair), with the exception of the lift compatibility requirements in M302.4. NPRM, 77 FR at 6927. The Board explained that because the patients can use the equipment while seated in their wheelchairs, the seat does not have to provide the clearance necessary to be usable with a portable floor lift. Id.
 
@@ -267,11 +267,11 @@ After reviewing the comments and the Subcommittee on Weight Scales Report, the A
 
 The Access Board acknowledges the comments recommending that accessible diagnostic equipment used in the standing position also provide a seat. However, the Access Board has declined to include such a provision in the final rule because of the potential space impact and because, it will ultimately be up to the enforcing authority to determine what types of diagnostic equipment and how many of each type must be provided in medical settings. However, if diagnostic equipment used in a standing position does provide a seat, but does not provide a wheelchair space, then it would have to comply with the requirements of M302 and M304 in the final rule.
 
-**C. M303 Diagnostic Equipment Used by Patients Seated in a Wheelchair**
+#### C. M303 Diagnostic Equipment Used by Patients Seated in a Wheelchair
 
 M303 contains the technical requirements for diagnostic equipment used by patients seated in wheelchairs. In the final rule the Access Board made four significant changes to this section: two significant changes to accommodate the unique challenges of mammography equipment; one significant change to the ramped running slope requirement; and a final significant change to the width and depth of wheelchair spaces.
 
-*1\. Width and Depth of Wheelchair Spaces*
+##### 1. Width and Depth of Wheelchair Spaces
 
 The MDE NPRM proposed to require diagnostic equipment to have a wheelchair space that is at least 36 inches wide (proposed M303.2.2). The MDE NPRM further proposed two alternative depth requirements: 48 inches for wheelchair spaces that are entered from the front or rear, and 60 inches for wheelchair spaces entered from the side (proposed 303.2.3). The MDE NPRM preamble also noted that the Access Board was considering adding exceptions in the final rule to the width and depth requirements for wheelchair spaces on raised platforms. NPRM, 77 FR at 6928-6929. The Access Board sought input in questions 31, 32, and 33, regarding the required size of wheelchair spaces on raised platforms, the use of scooters on raised platforms, and the associated costs. Id.
 
@@ -283,7 +283,7 @@ In order to reconcile the public comments and the MDE Advisory Committee recomme
 
 For the depth of the wheelchair space, the final rule has retained both alternative depth requirements in proposed M303.2.3: 60 inches for wheelchair spaces entered from the side, and 48 inches for wheelchair spaces entered from the front or rear, discussed below in Section VI.10.c (Section-by-Section Analysis -- M303.2.3). However, the Access Board has included an additional requirement for wheelchair spaces that are entered from the front or rear and permit pass-through from one end to the other. This provision requires wheelchair spaces that permit pass-through to have a minimum depth of 40 inches. Less space is required in these circumstances because the wheelchair user does not have to turn around or back out to exit the diagnostic equipment, but can enter and exit continuing on in one direction. Due to the addition of the new requirement, the Board reorganized this provision in the final rule to M303.2.3.1 (front or rear entry depth), M303.2.3.2 (Pass Through Entry), and M303.2.3.3 (side entry depth).
 
-*2\. Equipment Clearances for Breast Platforms *
+##### 2. Equipment Clearances for Breast Platforms
 
 The MDE NPRM proposed knee and toe clearance requirements for diagnostic equipment used by patients seated in wheelchairs that paralleled the knee and toe clearance requirements from the 2004 ADA and ABA Accessibility Guidelines. NPRM, 77 FR at 6929. The proposed rule included a requirement that 17 inches minimum and 25 inches maximum of the 48-inch wheelchair space depth include knee and toe clearance. The knee and toe clearance would be permitted to be located beneath the diagnostic equipment, such as an optometrist diopter. The proposed rule contained a different requirement for breast platforms on mammography equipment, that of the 48-inch depth minimum of the wheelchair space, the knee and toe clearance under a breast platform would be 25 inches deep (proposed M303.2.4).
 
@@ -293,13 +293,13 @@ The MDE Advisory Committee reviewed this provision and gave multiple recommendat
 
 The knee and toe clearance requirements were adopted from the 2004 ADA and ABA Accessibility Guidelines and typically will allow a person seated in a wheelchair to pull underneath a work surface or equipment component or permit forward access to a control located above equipment overhanging the knee and toe space. We are persuaded by the MDE Advisory Committee report that mammography equipment presents a unique use and requires different specifications for the knee and toe clearance to ensure that the patient's breast can rest on top of the platform. The knee and toe clearance underneath mammography equipment must provide sufficient space to allow the patient to get close enough for their breast to be placed on the breast platform in order for the diagnostic procedure to be performed. Thus, the Access Board has reorganized the equipment clearances provision in the final rule into two separate requirements; breast platforms and other equipment. The requirements for breast platforms (M303.2.4.2 in the final rule) account for obstructions in the knee and toe clearance necessary to stabilize the mammography equipment and the location of the patient's body within the depth of the wheelchair space, such that more of the overall space is allocated to knees and toes. As discussed above, these factors result in an exception to allow equipment components of a low profile to extend into the toe end of the wheelchair space. The requirements for other equipment (M303.2.4.2 in the final rule) are substantively unchanged from the NPRM, and are discussed below in the Section VI.C.10.d (Section-by-Section Analysis -- M303.2.4).
 
-*a. Knee and Toe Clearance*
+###### a. Knee and Toe Clearance
 
 The proposed rule recommended a knee and toe clearance depth for breast platforms of 25 inches. There were no comments received on this requirement. The MDE Advisory Committee recommended increasing the overall knee and toe space to a minimum 28 inches deep. MDE Advisory Committee Report, 115-116, available at [https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report.](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report) The MDE Advisory Committee asserted that a minimum of 28 inches in overall knee and toe clearance would accommodate 95 percent of the population. Id.
 
 The Access Board concurs with the MDE Advisory Committee's conclusion that an increase in the overall knee and toe clearance under breast platforms is warranted. However, the Board is concerned that if the Advisory Committee's recommendation is adopted without change, it would significantly impact the requirement in the final rule for a 48-inch deep wheelchair space. Because at least 25 inches of the space must accommodate knees and toes, only 23 inches remains to accommodate that portion of the occupied wheelchair not including knees and toes. If the Access Board were to require 28 inches minimum knee and toe clearance, only 20 inches would remain. After reviewing all the evidence before the MDE Advisory Committee, the Access Board has decided to make a number of changes to the requirements for the knee and toe clearances for breast platforms. These new requirements are described in the Section VI.C.10.d (Section-by-Section Analysis -- M303.2.4). The requirements are intended to ensure that there is adequate space for a patient seated in a wheelchair to position underneath the equipment and align themselves against the breast platform so that the diagnostic procedures can be performed.
 
-*b. Exception for Base Support Allowance and Unobstructed Knee and Toe Space*
+###### b. Exception for Base Support Allowance and Unobstructed Knee and Toe Space
 
 In the proposed rule, obstructions were not permitted within the knee and toe clearance space. This is consistent with the requirement in the existing accessibility guidelines and standards. One manufacturer commented on this provision, asserting that mammography equipment poses unique challenges and requires separate consideration. The commenter explained that the gantry of a mammography machine includes a base lip which is required for structural and seismic stability, and protrudes into the knee and toe clearance. This commenter recommended revisions to allow for a base lip on mammography equipment.
 
@@ -311,7 +311,7 @@ To discuss the maximum base support height, the sub-committee looked at anthropo
 
 The Access Board concurs with the need for permitting base components in the knee and toe clear space for mammography equipment. While the Access Board recognizes that this is a deviation from existing accessibility guidelines and standards, the Board believes that mammography equipment presents special challenges due to the diagnostic, structural, and seismic requirements of the diagnostic equipment. In the final rule, the Access Board has created an exception to the height requirement for breast platforms. This exception permits the profile of base components to extend into the wheelchair space at a height of 1½ inches maximum between 17 inches minimum and 25 inches maximum in depth measured from the leading edge of the breast platform. In addition, the Access Board has found that the profile of the base components should increase toward the rear of the clearance space where a patient's foot and toes will be higher than the heel supporting portion of the footrest. Therefore, the final rule requires that from 25 inches to 28 inches measured from the leading edge of the breast platform, the height of the component above 1½ inches must be beveled at a rate of 2.5:3. This exception preserves a 17-inch minimum of unobstructed floor space measured from the leading edge of the breast platform.
 
-*3\. Exception to Ramp Running Slope*
+##### 3. Exception to Ramp Running Slope
 
 The MDE NPRM proposed that where there is a change in level at the entry of a wheelchair space that is greater than 1½ inches, the entry shall be ramped and have a running slope not steeper than 1:12 (proposed M303.3). The Access Board explained in the MDE NPRM preamble that this provision is consistent with the 2004 ADA and ABA Accessibility Guidelines' technical criteria for changes in level. NPRM, 77 FR at 6929. No commenters addressed this provision. The MDE Advisory Committee, during its discussion of wheelchair spaces on weight scales, extensively addressed the permissible slopes of ramps on raised platforms. Specifically, the Committee noted:
 
@@ -327,7 +327,7 @@ The Access Board agrees with the MDE Advisory Committee that additional allowanc
 
 Therefore, the Access Board has decided to add an exception in the final rule to the requirement that ramped entry wheelchair spaces have ramp runs with a running slope no steeper than 1:12 (M303.3.3.1). This exception permits a running slope not steeper than 1:8 for ramp runs with a maximum height of 2½ inches. Consistent with the MDE Advisory Committee recommendations, ramp runs over 2½ inches in height will have to comply with the general requirement of running slopes of not steeper than 1:12.
 
-*4\. Breast Platform Adjustability*
+##### 4. Breast Platform Adjustability
 
 The MDE NPRM proposed to require diagnostic equipment used by patients seated in a wheelchair that have components which are used to examine specific body parts to be capable of examining the body parts of a patient while seated in a wheelchair (proposed M303.4). Additionally, the Access Board proposed specific technical requirements for breast platforms of mammography equipment. The MDE NPRM proposed a height range for breast platforms of 30 inches minimum and 42 inches maximum above the floor (proposed M303.4.1). In the preamble to the MDE NPRM, the Access Board sought input in question 36, on whether the breast platform height range proposed was sufficient to accommodate a patient seated in a wheelchair. NPRM, 77 FR at 6930.
 
@@ -339,7 +339,7 @@ equipment currently manufactured ranges anywhere between 25 and 28 inches for th
 
 The MDE Advisory Committee recommended, by strong majority, a minimum low height of 26 inches and a minimum high height of 42 inches. After review of the comments and the MDE Advisory Committee recommendations, the Access Board has accepted the MDE Advisory Committee's recommendation of low and high minimum heights. The Access Board believes that this requirement will ensure that the breast platform can be lowered or raised to the proper height for a patient seated in a wheelchair and is also within the range requested from manufacturers for patient accessibility. Therefore, the final rule requires at M303.4.1 that breast platforms have a minimum low height of 26 inches, a minimum high height of 42 inches, and be continually adjustable between the minimum low and high heights.
 
-*5\. Edge Protection*
+##### 5. Edge Protection
 
 The MDE NPRM proposed edge protection on the ramps leading up to the raised platform (proposed M303.3.3.4), but did not require edge protection on the raised platforms themselves. The Access Board sought public input with question 30 in the MDE NPRM preamble, on whether there is diagnostic equipment with wheelchair spaces on raised platforms that does not provide edge protection.
 
@@ -349,11 +349,11 @@ The Advisory Committee made two recommendations for requiring edge protection on
 
 The Access Board concurs with the Advisory Committee that edge protection is necessary on raised platforms to provide a mechanism to ensure that wheelchair users do not fall off the platform. Therefore, the final rule requires in M303.2.6 that platforms with wheelchair spaces that are raised more than 1½ inches in height to provide a minimum 2-inch-high edge protection, measured from the surface of the platform, on each side of the platform not providing entry to or exit from the diagnostic equipment.
 
-**D. M304 Diagnostic Equipment Used by Patients in a Standing Position**
+#### D. M304 Diagnostic Equipment Used by Patients in a Standing Position
 
 M304 provides the technical requirements for diagnostic equipment used by patients in a standing position. There was only one significant change made to the requirement of standing supports on the diagnostic equipment.
 
-*1\. Standing Supports*
+##### 1. Standing Supports
 
 The proposed rule included a provision requiring standing supports on each side of the standing surface and compliance with the technical requirements for standing supports in proposed M305.3 (proposed M304.3). Question 38 in the MDE NPRM preamble requested input on the standing support configurations currently provided, their effectiveness for patients with disabilities, whether alternative criteria would be appropriate, whether angled standing supports are effective, and whether there are any industry standards for structural strength requirements. NPRM, 77 FR at 6931.
 
@@ -369,17 +369,17 @@ The Access Board concurs with the commenters and the MDE Advisory Committee that
 
 With regard to the MDE Advisory Committee recommendations regarding standing supports on diagnostic equipment with raised platforms, the Access Board has decided to include an exception in the final rule for diagnostic equipment with entry and exit that permit pass-through from one end to the other to provide a standing support on only one side of the standing surface, provided that the standing support complies with the requirements in M305.3 for standing supports in a horizontal position. This exception would not just apply to diagnostic equipment on a raised platform designed both for people seated in wheelchairs and in standing positions, it would also apply to equipment designed solely for patients in a standing position and would apply regardless of whether the standing surface is raised on a platform or combined with a wheelchair space. For all other standing surfaces, the Access Board has retained the original requirement of standing supports on two sides of the standing surface from the proposed rule. While the MDE Advisory Committee spoke in terms of raised platforms, the Access Board believes the exception should be permitted where entry and exit permits pass-through from one end to the other, regardless of whether the standing surface is raised. Accordingly, the Access Board has decided to apply this exception to all diagnostic equipment which permits this type of entry and exit in final rule (M304.2.2).
 
-**E. M305 Supports**
+#### E. M305 Supports
 
 M305 provides the technical requirements for supports on medical diagnostic equipment. There were multiple significant changes made to the transfer supports section, including the addition of new requirements as well as the removal of structural strength requirements from the final rule. Additionally, changes were made to the vertical and horizontal standing supports requirements.
 
-*1\. Transfer Supports*
+##### 1. Transfer Supports
 
 The MDE NPRM proposed requirements for transfer supports that applied to all transfer surfaces (proposed M305.2). The requirements were the same for transfer surfaces on diagnostic equipment used by patients in the supine, prone, or side-lying position, as well as diagnostic equipment used by patients in the seated position. The proposed standards required transfer supports to be located within reach of the transfer surface and not obstruct transfer, be capable of resisting vertical and horizontal forces of 250 pounds applied to all points, and not rotate in their fittings. The latter two requirements were taken from the 2004 ADA and ABA Accessibility Guidelines for grab bars. 36 CFR Part 1191, App. D. In the preamble to the MDE NPRM, the Access Board posed multiple questions about whether the final rule should include more specific requirements regarding location, length, size, height, and angle for transfer supports; and whether transfer supports should be allowed to rotate in their fittings. The Access Board received 31 comments to these questions and the MDE Advisory Committee made 10 recommendations regarding the transfer support section.
 
 In response to the comments and the recommendations of the MDE Advisory Committee, and in consideration of the changes to the final rule regarding types of transfer surfaces, the Access Board has made multiple changes and additions to the transfer support requirements, located at M305.2. Specifically, the Access Board has added technical specifications to the requirements for location (M305.2.1) and length (M305.2.2) based on the type of transfer support required; has added new technical requirements for height (M305.2.3), cross section (M305.2.4), absence of surface hazards (M305.2.5), gripping surfaces (M305.2.6), and clearance (M305.2.7); and has made changes to the fittings provision (M305.2.8). These new and revised provisions are based on the 2004 ADA and ABA Accessibility Guidelines for grab bars and handrails, 36 CFR Part 1191, App. D. Finally, the Access Board has removed the requirement for structural strength for transfer supports and has decided not to add any positioning support requirements in the final rule. Each requirement is discussed in detail in the Section-by-Section Analysis below.
 
-*a. Structural Strength*
+###### a. Structural Strength
 
 The MDE NPRM proposed to require transfer supports to be capable of resisting vertical and horizontal forces of 250 pounds at all points (proposed M305.2.2). The Access Board sought input in question 18, on whether current transfer supports are capable of resisting vertical and horizontal forces of 250 pounds at all points. NPRM, 77 FR at 6925. Four commenters (three manufacturers and one accessibility consultant) addressed this requirement: the accessibility consultant concurred with the proposal and the other three commenters opposed this provision. Two of those opposing the 250-pound requirement asserted that very few supports would be able to withstand 250 pounds of force applied to all points in all directions and that the requirements should differ depending on the force vector or live load applied. The remaining opposing commenter supported compliance with the prevailing industry standard IEC 60601 instead of the proposed provision.
 
@@ -387,13 +387,13 @@ The MDE Advisory Committee recommended revising the language proposed in the MDE
 
 After reviewing the comments received and the recommendations from the MDE Advisory Committee, the Access Board has decided to remove this section in the final rule. The prevailing standard used by industry, IEC 60601 adopted under the ANSI/AAMI ES 60601 series in the U.S., contains provisions that address the structural strength of supports. ANSI/AAMI ES60601-1:2005/(R)2012, available at [http://my.aami.org](http://my.aami.org/). The IEC 60601 Standard applies to a wide range of medical equipment including much of the diagnostic equipment covered by the MDE Standards and contains allowances for risk assessment not found in accessibility standards, such that support features on diagnostic equipment that will sustain transfers in a safe manner even without a specific provision in the MDE Standards. Id. Accordingly, it is not necessary for the Access Board to address the structural strength of transfer supports in the final rule as it is already covered by industry standards.
 
-*b. Positioning Supports*
+###### b. Positioning Supports
 
 The Access Board noted in the MDE NPRM preamble that it was considering adding positioning supports to the final rule and sought public input with question 24 on whether positioning supports should be required in the final rule. NPRM, 77 FR at 6927. Six commenters responded: two commenters (disability rights organizations) recommended adding positioning supports; two commenters (manufacturers) recommended providing positioning supports within reach of the patient; one commenter (an accessibility consultant) recommended flexibility to allow for design based on use; and the final commenter (a manufacturer) raised concerns about the technical impact for MRI machines. Additionally, as discussed above in Section IV.D.1 (Significant Changes -- Standing Supports) and below in Section V.C.17 (Section-by-Section Analysis -- M305.2), the MDE Advisory Committee made recommendations to add requirements for positioning supports on mammography equipment and imaging equipment with transfer surfaces having depths greater than 24 inches.
 
 After review of the comments and the MDE Advisory Committee's recommendations, the Access Board has decided not to require positioning supports in the final rule. Although the Access Board considers positioning supports to be helpful, even necessary in some instances, given the wide range of diagnostic equipment addressed by the final rule, we have insufficient information on which to base a meaningful requirement that could apply to all types of equipment. Additionally, where transfer supports are provided, they can also serve to assist patients to position themselves.
 
-*2\. Standing Supports*
+##### 2. Standing Supports
 
 The proposed rule provided technical criteria for vertical and horizontal standing supports. For horizontal standing supports, the Access Board proposed a gripping surface of 4 inches long minimum, the top of which would be required to be located 34 inches minimum and 38 inches maximum above the standing surface (proposed M305.3.1). For vertical standing supports, the Access Board proposed a gripping surface of 18 inches long minimum, the bottom of which would be required to be located 34 inches minimum and 37 inches maximum above the standing surface (proposed M305.3.2). In the preamble to the MDE NPRM the Access Board sought input with question 38 on: a) the current configurations of standing supports, and their effectiveness for persons with disabilities; b) if there were any alternative technical criteria that would be appropriate; c) whether angled supports are effective; and d) whether there are industry standards for the structural strength of standing supports. NPRM, 77 FR at 6931. The Access Board received two comments, one of which addressed standing supports on mammography equipment (discussed above in Section IV.D.1 (Significant Changes -- Standing Supports)) and one commenter (medical association) who noted that angled standing supports would be effective and that they are unaware of any industry standards regarding structural strength.
 
@@ -407,141 +407,141 @@ The Access Board concurs with most of the MDE Advisory Committee's recommendatio
 
 ### V. Section-by-Section Analysis
 
-**A. Chapter 1: Application and Administration**
+#### A. Chapter 1: Application and Administration
 
 In the final rule Chapter 1 establishes the purpose and the general requirements for the application of the MDE Standards. This chapter received 21 comments and no recommendations from the MDE Advisory Committee. The Access Board made a few editorial changes to some of the provisions, and added one provision M101.3 Existing Diagnostic Equipment, which is discussed below.
 
-*M101 General *
+##### M101 General
 
 This is an introductory section
 
-*M101.1 Purpose*
+###### M101.1 Purpose
 
 The MDE NPRM proposed that the purpose of the MDE Standards was to establish technical criteria for diagnostic equipment that is accessible to and usable by patients with disabilities and to provide patients with disabilities independent access to and use of diagnostic equipment to the maximum extent possible. One commenter, a manufacturer, responded to the proposed provision. The commenter asserted that this provision was unclear without a list of applicable disabilities and an explanation on how the maximum extent possible would be determined.
 
 In response to the commenter, the Access Board notes that the term "disability" is defined in the Americans with Disabilities Act (ADA), 42 USC 12102. None of the Standards and Guidelines promulgated by the Access Board include a list of applicable disabilities. Rather, they rely on the definition of disability provided in the ADA. As for determining whether diagnostic equipment provides independent access and egress to the maximum extent possible, that is a decision left to the enforcing authorities that adopt and implement this standard. The Access Board, therefore, declines to implement the commenter's suggested changes. The Access Board has, however, made two editorial changes to this provision clarifying that "medical diagnostic equipment" is referred to as "diagnostic equipment," and that these standards are referred to as "MDE Standards" throughout the rule text.
 
-*M101.2 Application*
+###### M101.2 Application
 
 In the NPRM the Access Board proposed that the MDE Standards would be applied to diagnostic equipment based on the patient position the equipment is designed to support. Additionally, this provision stated that where the equipment was designed to support more than one patient position, the MDE Standards for each patient position supported would be applied to the equipment. Fifteen commenters responded to this provision asserting that some diagnostic equipment should not have to comply with more than one patient position requirement. These concerns have resulted in two added exceptions to the final rule. The first is to exempt examination chairs which comply with M302 and can be reclined to facilitate diagnosis after the patient transfers onto the seat from complying with M301. (M301.1, Exception). This exception is discussed above in Section IV.B.4 (Significant Changes -- Exception from the Requirements of M301 for Certain Examination Chairs that Comply with M302). Additionally, the final rule also exempts weight scales which contain a wheelchair space complying with M303 and that have a seat integral to the equipment from complying with M302 (M302.1, Exception). This exception is discussed above in Section IV.B.5. (Significant Changes -- Exception from the Requirements of M302 for Weight Scales with Integral Seats). In the final rule, the application provision was revised due to the addition of the exceptions and a few editorial changes were made for clarity. This provision now requires that sections M301 through M304 of the MDE Standards be applied to diagnostic equipment based on the patient position that the equipment supports during patient transfer and diagnostic use and sections M306 and M307 will be applied to diagnostic equipment that contains communication features or operable parts that are provided for patient use.
 
-*M101.3 Existing Diagnostic Equipment*
+###### M101.3 Existing Diagnostic Equipment
 
 The MDE NPRM did not address when or how the MDE Standards would be applied to existing medical diagnostic equipment. Commenters raised concerns about the cost of immediate compliance for the more expensive imaging equipment, noting the high cost and the concern that rooms are designed specifically for such equipment. Specifically, at the public hearing on March 14, 2012, two commenters recommended phasing in these requirements for imaging equipment based on when it is replaced. The public hearing transcript is available at <https://www.regulations.gov/docket?D=ATBCB-2012-0003>.
 
 The MDE Standards are advisory and are not binding until adopted by an enforcing authority. The Access Board's mandate was to establish only the minimum technical criteria, however enforcing authorities may establish scoping requirements in the future. In response to the commenters' concerns regarding existing equipment, the Access Board has decided to add a new provision which clarifies that the MDE Standards do not address the accessibility of existing diagnostic equipment and that the enforcing authority will determine whether and how diagnostic equipment will be regulated.
 
-*M101.4 Equivalent Facilitation*
+###### M101.4 Equivalent Facilitation
 
 The MDE NPRM proposed to permit the use of alternative designs or technologies that are substantially equivalent to or provide greater accessibility and usability than strict compliance with provisions in the MDE Standards. One commenter, a manufacturer, requested that the Access Board include examples of acceptable methods for providing equivalent facilitation.
 
 The Access Board is unable to provide examples of acceptable methods of equivalent facilitation, as this section is intended to encompass those design solutions which the Access Board is unaware at the time that this rule is published. Additionally, the final determination of whether a particular design or technology meets this provision will be determined by the enforcing authorities. Therefore, the only change to this provision was to adjust the section number to allow for the addition of the new provision, M101.3 Existing Diagnostic Equipment.
 
-*M101.5 Dimensions*
+###### M101.5 Dimensions
 
 The MDE NPRM proposed that the MDE Standards be based on adult dimensions and anthropometrics. One commenter and the MDE Advisory Committee raised concerns about providing standards for obese patients and pediatric patients. While the Access Board acknowledges that these are additional issues of accessibility, the final rule follows the MDE NPRM framework and provides technical requirements based on adult dimensions and anthropometrics, only. At this point in time the Access Board is focusing on adult dimensions and anthropometrics however, the Access Board may address potential expansions of the MDE Standards to other groups in future rulemakings. The only change to this provision was adjustment of the section number to allow for the addition of the new provision, M101.3 Existing Diagnostic Equipment.
 
-*M101.6 Dimensional Tolerances*
+###### M101.6 Dimensional Tolerances
 
 The MDE NPRM proposed that dimensions were to be subject to conventional industry tolerances for manufacturing processes, material properties, and field conditions. In the preamble of the MDE NPRM, the Access Board sought public input in question five on available information or resources concerning conventional industry tolerances for medical diagnostic equipment. NPRM, 77 FR at 6920. Six commenters responded to the question. Three commenters (two manufacturers and one medical association) indicated that tolerances vary based on the manufacturer, product design, and manufacturing process and that they are unaware of any industry standard. One commenter, a manufacturer, referenced ASME Y14.5-1994 for dimensional tolerances. Another commenter, a medical association, asserted that tolerances are in operator manuals. The final commenter, a manufacturer, recommended providing tolerances when dimensions are specified and recommended defining a specific tolerance, such as +/- 0.5 inch for linear dimensions.
 
 After considering the comments received, the Access Board has decided to retain the original provision. The Access Board was persuaded by arguments from the commenters that there is not one industry-wide standard that can be applied to all MDE and concurs that the Access Board should not attempt to establish manufacturing tolerances. Where available, tolerances are best addressed by industry standards for the specific materials and methods employed in the manufacturing process. The only change to this provision was to adjust the section number to allow for the addition of a new section, M101.3 Existing Diagnostic Equipment.
 
-*M101.7 Units of Measurement*
+###### M101.7 Units of Measurement
 
 In the MDE NPRM there was no explanation of the units of measurement used throughout the rule text. In order to avoid confusion and to align this final rule with the other accessibility guidelines and standards promulgated by the Access Board; this provision has been added to explain that the values stated in each system (U.S. customary and metric units) may not be exact equivalents, and each system must be used independently of the other.
 
-*M102 Definitions*
+##### M102 Definitions
 
 This is an introductory section.
 
-*M102.1 Defined Terms*
+###### M102.1 Defined Terms
 
 The MDE NPRM proposed definitions for enforcing authority, medical diagnostic equipment, operable parts, and transfer surface. The Access Board sought input in question six in the preamble of the MDE NPRM, on whether there were other terms in the proposed standards that should be defined. NPRM, 77 FR at 6920. Ten commenters responded to this question. One commenter, a medical association, did not offer other terms that should be defined, but stated that there were many instances where the Board used acronyms without a definition. However, this commenter failed to provide any examples. Another commenter, a disability rights organization, suggested modifying the definition of medical diagnostic equipment to clarify that the standard is intended for all medical equipment in which any part of the equipment is used for diagnostic purposes for any amount of time. Another commenter, a manufacturer, recommended changing the term "operable part" to "applied part" and adding a new definition of operable part as "caregiver operated parts," asserting that this aligns with IEC 60601. Other commenters (manufacturers, medical associations, disability rights organizations, and an individual) suggested the following terms be defined: health care provider, breast platform, patient support surface, transfer supports, positioning supports, prone position, supine position, examination tables, diagnostic purposes, maximum extent possible, landing area, exam table, procedure table, and procedure chair.
 
 After review of the comments, the Access Board declines to add any of the suggested terms to the defined terms section. The definition of medical diagnostic equipment was taken directly from Section 510 of the Rehabilitation Act and thus for consistency has not been altered. 29 U.S.C. 794f. Some of the definitions proposed by commenters are not terms used in the MDE final rule and, therefore, providing the requested definitions would serve no purpose. The definitions for other proposed terms used in the final rule are the same as the ordinarily accepted meanings in the context that applies, and the Access Board does not believe that the reader would be significantly aided in understanding the final rule by adding the requested definitions. However, the Access Board has decided to add six additional terms to this section; end transfer surface, examination chair, imagining equipment with bores, imagining bed, side transfer surface, and wheelchair space. As described above in Section IV.B.1.b. (Significant Changes -- Transfer Surface Location), the Access Board has added definitions for "end transfer surface" and "side transfer surface" to this provision to describe the two types of transfer surfaces for diagnostic equipment used by patients in the supine, prone, or side-lying position. The "wheelchair space" definition was taken from the 2004 ADA and ABA Accessibility Guidelines and adopted in the MDE final rule to provide consistency across Access Board rulemakings. Examination chair, imagining equipment with bores, and imagining bed were added to help clarify application of exceptions added in the final rule. (See M301.1, M301.2.3, and M305.2.2.2). Finally, the Access Board also made a minor editorial change to the title of "operable part" so that all components and parts are referred to in the plural.
 
-*M102.2 Undefined Terms*
+###### M102.2 Undefined Terms
 
 The MDE NPRM proposed that the meaning of terms not defined in proposed M102.1 or in regulations or policies issued by an enforcing authority, be defined by collegiate dictionaries in the sense that the context implies. There were no comments and no MDE Advisory Committee recommendations on this provision. In the final rule, the Access Board has changed this provision to indicate that the meaning of terms not defined in M102.1 will be given their ordinarily accepted meaning in the context that applies.
 
-*M102.3 Interchangeability*
+###### M102.3 Interchangeability
 
 The MDE NPRM proposed that singular and plural words, terms, and phrases are used interchangeably. There were no comments on this requirement and no changes have been made.
 
-**B. Chapter 2: Scoping**
+#### B. Chapter 2: Scoping
 
 In the final rule, Chapter 2 establishes that the enforcing authority will determine the number and types of diagnostic equipment to which the MDE Standards will apply. The Access Board did not receive any comments regarding Chapter 2 as written; however, several commenters expressed concern regarding the ability of certain types of diagnostic equipment to comply with the MDE Standards. These concerns, discussed above in Section IV.A.1. (Significant Changes -- General Exception), resulted in the addition of the M201.2 General Exception, described below. In addition, the Access Board made one editorial change to M201.1.
 
-*M201 General*
+##### M201 General
 
 This is an introductory section.
 
-*M201.1 Enforcing Authority*
+###### M201.1 Enforcing Authority
 
 The MDE NPRM proposed to explain that the enforcing authority would specify the minimum number of types of accessible diagnostic equipment that would be required to comply with the MDE Standards. There were no public comments regarding this provision. The Access Board has decided to make an editorial change to this section to clarify that the enforcing authority will specify the minimum number and types of accessible diagnostic equipment that will be required to comply with the MDE Standards.
 
-*M201.2 General Exception*
+###### M201.2 General Exception
 
 The MDE NPRM did not propose a general exception for diagnostic equipment that was not capable of meeting the MDE Standards. As described in Section IV.A.1. (Significant Changes -- General Exception), the Access Board received public comments and MDE Advisory Committee recommendations regarding certain types of diagnostic equipment that are unable to meet all of the requirements in the MDE Standards. In response, the Access Board has added a new provision excepting diagnostic equipment from compliance with an applicable requirement in the MDE Standards in the rare circumstance where compliance would alter diagnostically required structural or operational characteristics of the equipment, and would prevent the use of the equipment for its intended diagnostic purpose. Any equipment falling under this exception must comply with the provision(s) in question to the maximum extent practicable, and must fully comply with all other provisions not utilizing this exception.
 
-**C. Chapter 3: Technical Requirements**
+#### C. Chapter 3: Technical Requirements
 
 In the final rule, Chapter 3 establishes the technical requirements for accessible medical diagnostic equipment based on how the diagnostic equipment is used by the patients, including: diagnostic equipment used by patients in a supine prone, or side-lying position (M301); diagnostic equipment used by patients in a seated position (M302); diagnostic equipment used by patients seated in a wheelchair (M303); and diagnostic equipment used by patients in a standing position (M304). Chapter 3 also provides technical criteria for supports (M305), communication (M306), and operable parts (M307). This chapter underwent significant reorganization and changes as described in Section IV.B through IV.E (Significant Changes -- M301 through M305). Additionally, the Access Board made editorial changes which are described below in the applicable Section-by-Section Analysis.
 
-**M301 Diagnostic Equipment used by Patients in a Supine, Prone, or Side-lying Position**
+##### M301 Diagnostic Equipment used by Patients in a Supine, Prone, or Side-lying Position
 
 M301 in the final rule establishes the technical criteria for diagnostic equipment used by patients in a supine, prone, or side-lying position such as, examination tables, imaging tables, hospital beds, and stretchers.
 
-*M301.1 General*
+###### M301.1 General
 
 The MDE NPRM proposed that all diagnostic equipment used by patients in a supine, prone, or side-lying position must comply with the technical requirements of proposed section M301. As discussed in Section IV.B.4. (Significant Changes -- Exception from the Requirements of M301 for Certain Examination Chairs that Comply with M302), in response to public comment and recommendations from the MDE Advisory Committee, in the final rule the Access Board has added an exception to this requirement for examination chairs that can be reclined to facilitate diagnosis after the patient transfers. This new exception exempts these diagnostic chairs from compliance with M301's requirements, as long as the examination chairs comply with the requirements in M302.
 
-*M301.2 Transfer Surface*
+###### M301.2 Transfer Surface
 
 This is an introductory section.
 
-*M301.2.1 Adjustability*
+####### M301.2.1 Adjustability
 
 The MDE NPRM proposed a transfer surface height range for diagnostic equipment used by patients in the supine, prone, or side-lying position of 17 inches minimum and 19 inches maximum. The Access Board received multiple comments on this provision and the MDE Advisory Committee provided four recommendations. As discussed in Section IV.B.1.a. (Significant Changes -- Transfer Surface Adjustability), in the final rule the Access Board has renamed this provision and now requires the transfer surface height to be adjustable to: (1) a low transfer height of 17 inches minimum and 19 inches maximum; (2) a high transfer height of 25 inches; (3) at least four additional transfer heights located between the low and high transfer heights, separated by one inch minimum increments; and (4) the transfer surface height will be measured from the floor to the top of the uncompressed transfer surface.
 
-*M301.2.2 Sunset Provision*
+####### M301.2.2 Sunset Provision
 
 As discussed in Section IV.B.1.a. (Significant Changes -- Transfer Surface Adjustability), this is a new provision that was added to the final rule in conjunction with the new requirement of a low height range in M301.2.1. It provides a sunset for the low transfer height provision of five years from the date of publication of this rule in the Federal Register. The Access Board intends to complete the necessary research to determine an appropriate minimum low transfer height prior to the effective date of the sunset, and will update this provision in a subsequent rulemaking.
 
-*M301.2.3 Size*
+####### M301.2.3 Size
 
 The MDE NPRM proposed a transfer surface size for diagnostic equipment used in the supine, prone, or side-lying position of 30 inches wide and 15 inches deep minimum. (proposed M301.2.2). The Access Board received multiple comments on this provision as well as multiple recommendations from the MDE Advisory Committee. As discussed in Section IV.B.1.c (Significant Changes -- Transfer Surface Size), in the final rule the Access Board has revised this provision to account for the two types of transfer surfaces (end and side), requiring end transfer surfaces to be a minimum of 28 inches wide and 17 inches long and side transfer surfaces to be a minimum of 28 inches wide and 28 inches long and has added an exception for transfer surfaces for imagining equipment with bores.
 
-*M301.2.4 Unobstructed Transfer*
+####### M301.2.4 Unobstructed Transfer
 
 In the MDE NPRM the Access Board proposed that each transfer side provide unobstructed access to the transfer surface, with an exception to permit temporary obstructions as long as they could be repositioned during transfer. Examples of temporary obstructions include folding armrests, removable side rails, retractable footrests, and stirrups. NPRM, 77 FR at 6924. There were no comments received on the proposed provision and the MDE Advisory Committee did not make any recommendations. The final rule retains the requirement for unobstructed transfer, but has reworded the requirement to specify that each transfer surface must provide two unobstructed sides for the patient to transfer.
 
 Additionally, the Access Board sought public input on whether an additional exception to the requirement of unobstructed transfer should be added. NPRM, 77 FR at 6924. Specifically, the Access Board asked whether equipment parts should be permitted to extend a maximum of three inches horizontally beyond the edge of the transfer sides, provided they do not extend above the top of the transfer surface. The Access Board received multiple comments and recommendations from the MDE Advisory Committee on this topic. As discussed above in the Section IV.B.1.d. (Significant Changes -- Unobstructed Transfer), the final rule includes a second exception to the unobstructed transfer provision which permits obstructions of no more than three inches to extend beyond the transfer side of the transfer surface, provided that such obstructions do not protrude above the top of the transfer surface.
 
-*M301.3 Supports*
+###### M301.3 Supports
 
 This is an introductory section. An editorial change was made to this section as a result of the change in M301.3.2, described below, to replace the word "stirrups" with the term "leg supports."
 
-*M301.3.1 Transfer Supports*
+####### M301.3.1 Transfer Supports
 
 The MDE NPRM proposed to require transfer supports to be provided for use with transfer sides on diagnostic equipment used by patients in the supine, prone, or side-lying position, and that these transfer supports comply with the technical requirements for transfer support in M305.2. There were no public comments and no recommendations by the MDE Advisory Committee on this provision. The only change in the final rule was to update the cross reference to applicable transfer surfaces to accommodate the changes made to transfer surfaces, described above in Section IV.B.1. (Significant Changes -- Transfer Surface).
 
-*M301.3.2 Leg Supports*
+####### M301.3.2 Leg Supports
 
 In the MDE NPRM, the Access Board proposed to place the requirements for stirrups on diagnostic equipment used by patients in the supine, prone, or side-lying position in M301. In the final rule the Access Board has decided to move the technical requirements for stirrups to M305, which includes all of the technical requirements for supports. Therefore, in the final rule, this provision instructs that when stirrups are provided on diagnostic equipment used in the supine, prone, or side-lying position leg supports must also be provided and comply with the technical requirements in M305.4. Additionally, in the final rule, the Access Board has made an editorial change in terminology, from stirrups to leg supports, in response to an MDE Advisory Committee recommendation to draw a distinction between stirrups which often only support the feet and leg supports which would support the legs when the patient's feet are in the stirrups and to provide consistency with the headings of other support provisions which are based on the body part supported.
 
-*M301.3.3 Head and Back Support*
+####### M301.3.3 Head and Back Support
 
 In the MDE NPRM the Access Board proposed to place the requirements for head and back support for diagnostic equipment used by patients in the supine, prone, or side-lying position in M301. In the final rule, the Access Board has decided to move the technical requirements for head and back support to M305, which includes all of the technical requirements for supports. Therefore, in the final rule, this provision instructs that where diagnostic equipment is used in a reclined position it must provide head and back support that complies with the technical requirements in M305.5.
 
-*M301.4 Lift Compatibility*
+###### M301.4 Lift Compatibility
 
 The MDE NPRM proposed to require that diagnostic equipment used by patients in the supine, prone, or side-lying position be usable with a patient lift and comply with either the proposed clearance in base (proposed M301.4.1) or clearance around base (proposed M301.4.2) technical requirements. One manufacturer commented on this provision, asserting that the proposed requirement was unclear and should clearly state that the diagnostic equipment only has to be compatible with either the clearance around base or the clearance in base provisions. The Access Board considered this comment, but finds that the language is clear as written. This provision clearly states that diagnostic equipment shall comply with clearance in base or clearance around base. In the final rule the Access Board has made an editorial change to clarify the type of lift; namely portable patient lift, and a change to clarify that the clearance provisions only apply when the diagnostic equipment is being used with the portable patient lift.
 
 Additionally, question 27 in the MDE NPRM preamble requested input on whether the final rule should provide an exception from the lift compatibility requirements where the diagnostic equipment is designed for use with overhead lifts. As discussed above in Section IV.B.3. (Significant Changes -- Lift Compatibility Exception), the Access Board has decided to add this exception for diagnostic equipment that meets the following three criteria: fixed overhead patient lifts are provided for use with the diagnostic equipment; the use with the fixed overhead patient lift with the diagnostic equipment is permitted by an enforcing authority; and the diagnostic equipment is clearly labeled as not compatible with portable patient lifts.
 
-*M301.4.1 Clearance in Base*
+####### M301.4.1 Clearance in Base
 
 The MDE NPRM proposed certain clearance requirements beneath the diagnostic equipment to allow sufficient space for the legs of a portable patient lift to fit underneath the equipment so that the patient could be raised out of their mobility device, moved over to the medical diagnostic equipment, and then be lowered onto the transfer surface. The proposed requirement could be met by providing an open area beneath the equipment, or by configuring the equipment with a wide slot recessed into the base enclosure. NPRM, 77 FR at 6927. The MDE NPRM proposed a clearance in the base of 44 inches wide minimum, 6 inches high minimum measured from the floor, and 36 inches deep minimum measured from the edge of the examination surface. Where the width of the equipment is less than 36 inches wide, the proposed rule required the clearance to extend the full width of the equipment. Id. Additionally, the Access Board proposed to permit equipment components to be located within 8 inches maximum of the centerline of the clearance width. Id. The Access Board sought input in question 25 in the MDE NPRM preamble, on whether the proposed dimensions for the clearance in base requirement is sufficient to allow for the use of portable floor lifts. Id.
 
@@ -551,7 +551,7 @@ The MDE Advisory Committee recommended reducing the equipment base clearance for
 
 The Access Board has reviewed the comments and the recommendations from the MDE Advisory Committee and is persuaded by the arguments in favor of harmonizing the lift clearance requirements with the IEC 60601-2-52. Accordingly, the Access Board has adopted the recommendation from the MDE Advisory Committee, but has decided to apply the reduction in lift clearance width to all medical diagnostic equipment that complies with the clearance in base provision because a lift that deploys effectively under a stretcher should also function properly under other less constrained diagnostic equipment. Secondly, the Access Board has decided to retain the six-inch height clearance requirement but agrees with the commenters that the diagnostic equipment should not have to meet the six-inch height clearance requirement when in position for independent transfer. Therefore, the final rule clarifies that the lift compatibility requirements only apply when the diagnostic equipment is being used with the portable lift, as a lift will only be used when independent transfer is not possible.
 
-*M301.4.2 Clearance Around Base*
+####### M301.4.2 Clearance Around Base
 
 The MDE NPRM proposed certain requirements to provide clearance around the base of the diagnostic equipment to allow the legs of the portable floor lift to straddle the base of the diagnostic equipment with a solid base that sits on or close to the floor. The proposed rule required a minimum clearance of 6 inches high measured from the floor and 36 inches deep measured from the edge of the examination surface. NPRM, 77 FR at 6927. The width of the base permitted within this clearance would be 26 inches maximum at the edge of the examination surface and was permitted to increase at a rate of 1 inch in width for every 3 inches in depth. Id. In addition, where the width of the examination surface is less than 26 inches, the clearance depth would be the full width of the examination surface. Id. The Access Board sought public input in question 26 in the MDE NPRM, on whether the proposed dimensions for clearance around the base of the equipment was sufficient to allow for the use of portable floor lifts. Id.
 
@@ -559,27 +559,27 @@ Two commenters, both manufacturers, responded to this question. One commenter re
 
 The Access Board has reviewed the comments and has decided to retain the provision from the proposed rule. In the final rule, the Access Board has decided to decrease the size of the transfer surface (See final M301.2.3) and thus the commenter's concern regarding an increase in base size is not applicable. As described above, M301.4 does not require the 6-inch height clearance to be maintained when the equipment is lowered to the minimum low height for independent transfer as required by M301.2.1, because portable patient lifts will only be used when independent transfer is not possible. Finally, a portable patient lift is not medical diagnostic equipment and, therefore, not within the purview of the Access Board's regulatory jurisdiction. However, portable patient lifts are integral to ensuring that patients with disabilities who are unable to independently transfer are otherwise able to use the medical diagnostic equipment. Therefore, the Access Board has provided the technical criteria necessary for the portable floor lift to be usable with medical diagnostic equipment.
 
-**M302 Diagnostic Equipment used by Patients in a Seated Position.**
+##### M302 Diagnostic Equipment used by Patients in a Seated Position.
 
 M302 in the final rule establishes the technical criteria for diagnostic equipment used by patients in a seated position such as examination chairs.
 
-*M302.1 General*
+###### M302.1 General
 
 The MDE NPRM proposed that all diagnostic equipment used by patients in a seated position must comply with the technical requirements of proposed section M302. As discussed in Section IV.B.5. (Significant Changes -- Exception from the Requirements of M302 for Weight Scales with Integral Seats), in response to public comment and evidence presented to the MDE Advisory Committee, in the final rule the Access Board has added an exception to this requirement for weight scales that contain wheelchair spaces and also provide a seat integral to the equipment. This new exception exempts these weight scales from compliance with M302's requirements for the seat, as long as the wheelchair space complies with the requirements in M303.
 
-*M302.2 Transfer Surface*
+###### M302.2 Transfer Surface
 
 This is an introductory section.
 
-*M302.2.1 Adjustability*
+####### M302.2.1 Adjustability
 
 The MDE NPRM proposed a transfer surface height range for diagnostic equipment used by patients in a seated position of 17 inches minimum and 19 inches maximum. The Access Board received multiple comments on this provision and the MDE Advisory Committee provided four recommendations. As discussed in Section IV.B.1.a. (Significant Changes -- Transfer Surface Adjustability) in the final rule the Access Board has renamed this provision and now requires the transfer surface to be adjustable to: (1) a low transfer position height at or between 17 inches and 19 inches; (2) a high transfer position of 25 inches; (3) at least four additional transfer positions located between the low and high transfer positions and separated by one inch minimum increments; (4) measured from the floor to the top of the uncompressed transfer surface.
 
-*M302.2.2 Sunset Provision*
+####### M302.2.2 Sunset Provision
 
 As discussed in Section IV.B.1.a. (Significant Changes -- Transfer Surface Adjustability), this is a new provision added to the final rule in conjunction with the new requirement of a low height range in M302.2.1. It provides a sunset for the low transfer height provision of five years from the date of publication of this rule in the Federal Register. The Access Board intends to complete the necessary research to determine an appropriate minimum low transfer height prior to the effective date of the sunset, and will update this provision in a subsequent rulemaking.
 
-*M302.2.3 Size*
+####### M302.2.3 Size
 
 The MDE NPRM proposed a transfer surface size for diagnostic equipment used by patients in the seated position of 21 inches wide and 15 inches deep (proposed M302.2.2). The Access Board also solicited comment in question 16 on whether the transfer surface size proposed for seated position diagnostic equipment was sufficient to facilitate independent transfer. NPRM, 77 FR at 6924. Two of the seven commenters who responded supported the proposed requirements. One commenter, a manufacturer, although in agreement with the 21-inch width, stated that the 15 inches deep requirement should be increased to 17 inches, a disability advocate recommended increasing the width to 23 inches, two of the commenters, accessibility consultant and disability advocate, stated that the proposed dimensions were insufficient citing concerns for persons of larger stature or who are obese and may be unable to safely transfer to a surface of that size. One commenter, a manufacturer, recommended harmonizing with the requirements for the seated position with those of the supine, prone, or side-lying position transfer surface size.
 
@@ -587,61 +587,61 @@ The MDE Advisory Committee considered the dimensions for rectangular seats in ro
 
 Based on the commenters' responses and the MDE Advisory Committee recommendations, the Access Board has decided to increase the transfer surface size for equipment used by patients in a seated position to 17 inches deep and retain the 21-inch-wide requirement from the proposed rule.
 
-*M302.2.4 Transfer Sides*
+####### M302.2.4 Transfer Sides
 
 In the MDE NPRM, the transfer side provision for diagnostic equipment used by patients in the seated position required transfer surfaces to have the option to transfer from a mobility device onto one short side (depth) and one long side (width) of the surface, and provide unobstructed transfer to the surface. The Access Board received multiple comments and recommendations from the MDE Advisory Committee, which are discussed above in Section IV.B.1.b. (Significant Changes -- Transfer Surface Location). In the final rule, the Access Board retained this provision, but made editorial changes to clarify the location of the transfer sides and to relocate the language concerning unobstructed transfer into a new section M302.2.5. The transfer sides are still intended to allow a patient to choose to transfer onto either of two adjoining sides of the transfer surface. Additionally, based on comments and recommendations from the MDE Advisory Committee, the Access Board has decided to add an exception to this provision to accommodate chairs with fixed footrests which prevent transfer onto the adjoining sides. This is discussed in Section IV.B.1.b. (Significant Changes -- Transfer Surface Location). As explained above, in order to provide patients with the ability to choose what side of their body they use to transfer, chairs with fixed footrests will provide the ability to transfer from either opposing side of the transfer surface. This allows the patient to choose to transfer from their right or left side and prevents the patient from having to transfer onto a fixed footrest.
 
-*M302.2.5 Unobstructed Transfer*
+####### M302.2.5 Unobstructed Transfer
 
 In the MDE NPRM the Access Board proposed that each transfer side provide unobstructed access to the transfer surface, with an exception to permit temporary obstructions as long as they could be repositioned during transfer. This requirement is identical to the unobstructed transfer requirement in M301.2.4, and this provision is discussed in the Section V.C.2.d. (Section-by-Section Analysis -- M301.2.4). The final rule retains the requirement for unobstructed transfer, but has been reworded to specify that each transfer surface must provide two unobstructed sides for the patient to transfer.
 
 Additionally, as discussed above in the Section IV.B.1.d. (Significant Changes -- Unobstructed Transfer), the final rule includes a second exception to the unobstructed transfer provision which permits obstructions of no more than three inches to extend beyond the transfer side of the transfer surface, provided that such obstructions do not protrude above the top of the transfer surface.
 
-*M302.3 Supports*
+###### M302.3 Supports
 
 This is an introductory section. An editorial change was made to this section as a result of the change in M302.3.2, described below, to replace the word "stirrups" with the term "leg supports."
 
-*M302.3.1 Transfer Supports*
+####### M302.3.1 Transfer Supports
 
 In the MDE NPRM the Access Board proposed that transfer supports must be provided for use with transfer sides on diagnostic equipment used by patients in the seated position, and that these transfer supports must comply with the technical requirements in M305.2 of the proposed rule. There were no comments on this provision and no recommendations by the MDE Advisory Committee. Based on the restructure of the transfer surface provisions, described above in Section IV.B.1.b. (Significant Changes -- Transfer Surface Location), and the additional technical criteria added to the transfer supports provisions, discussed above in Section IV.E.1 (Significant Changes -- Transfer Supports), the Access Board has made editorial changes to this section. The technical requirements for transfer supports is in M305.2 of the final rule and has been reorganized to mirror the two types of transfer surfaces (end and side) in the final rule for diagnostic equipment used by the patient in the supine, prone, or side-lying position. The transfer surface required for diagnostic equipment used by patients in the seated position is similar to the new end transfer surface and therefore, diagnostic equipment used by patients in the seated position is required to comply with the transfer support provisions for end transfer supports. Additionally, the Access Board has included cross-references to the new transfer support requirements in M305.2.
 
-*M302.3.2 Leg Supports*
+####### M302.3.2 Leg Supports
 
 The MDE NPRM did not propose to require stirrups to provide a method of supporting, positioning, and securing the patient's legs for diagnostic equipment used by patients in the seated position. However, in response to question 23, on whether diagnostic equipment used by patients in a seated position that provide stirrups should have to provide such support, the Board received six comments. NPRM, 77 FR at 6926. All six commenters concurred that when stirrups are provided for use with diagnostic equipment used by patients in the seated position, a method must be provided for supporting, positioning, and securing the patient's legs. The MDE Advisory Committee did not address this provision.
 
 The Access Board concurs with the commenters, and the final rule requires that where stirrups are provided on seated diagnostic equipment, leg supports must also be provided and must comply with the technical requirements for leg supports in M305.4. This will ensure that patients with limited leg strength and control will be able to keep their legs in the appropriate position for examination.
 
-*M302.3.3 Head and Back Support*
+####### M302.3.3 Head and Back Support
 
 In the MDE NPRM the Access Board proposed to place the requirements for head and back support for diagnostic equipment used by patients in the seated position in M302. In the final rule the Access Board has decided to move the technical requirements for head and back support to M305 which includes all of the technical requirements for supports. Therefore, in the final rule, this provision instructs that where diagnostic equipment is used in a reclined position it must provide head and back support that complies with the technical requirements in M305.5.
 
-*M302.4 Lift Compatibility*
+###### M302.4 Lift Compatibility
 
 The MDE NPRM proposed to require that diagnostic equipment used by patients in the seated position be usable with a patient lift and comply with either the proposed clearance in base (proposed M302.4.1) or clearance around base (proposed M302.4.2) technical requirements. This requirement is identical to the lift compatibility requirement for diagnostic equipment used by patients in the supine, prone, or side-lying position, and is discussed in the Section-by Section Analysis for M301.4. In the final rule the Access Board has made an editorial change to clarify the type of lift; namely portable patient lift, reduced the lift clearance to 39 inches and clarified that the clearance provisions only apply when the diagnostic equipment is being used with the portable patient lift. See Section V.C.4. (Section-by-Section Analysis -- M301.4.) Additionally, as discussed above in Section IV.B.3. (Significant Changes -- Lift Compatibility Exception), the Access Board has added an exception for diagnostic equipment that meets the following three criteria: fixed overhead patient lifts are provided for use with the diagnostic equipment; the use with the fixed overhead patient lift with the diagnostic equipment is permitted by an enforcing authority; and the diagnostic equipment is clearly labeled as not compatible with portable patient lifts.
 
-**M303 Diagnostic Equipment Used by Patients in a Wheelchair**
+##### M303 Diagnostic Equipment Used by Patients in a Wheelchair
 
 M303 in the final rule establishes the technical requirements for diagnostic equipment used by patients seated in a wheelchair, such as weight scales with wheelchair spaces and mammography equipment.
 
-*M303.1 General*
+###### M303.1 General
 
 This is an introductory section.
 
-*M303.2 Wheelchair spaces*
+###### M303.2 Wheelchair spaces
 
 This is an introductory section.
 
-*M303.2.1 Orientation*
+####### M303.2.1 Orientation
 
 The MDE NPRM proposed to require wheelchair spaces to be designed so that a patient in a wheelchair using diagnostic equipment would be oriented in the same direction that other non-wheelchair using patients using the equipment are typically oriented. NPRM, 77 FR at 6927. The Access Board received one comment about this requirement. The commenter, an accessibility consultant, recommended that patient positioning be addressed along with orientation of the wheelchair, noting that there are many cases where it is insufficient to simply position the user facing the same direction as a non-wheelchair user. The commenter asserted that body positioning is key for obtaining accurate results when using diagnostic devices, such as x-ray equipment, and recommends amending the rule text to require wheelchair spaces to be designed so that the patient orients and positions their body in the same position as someone who is not in a wheelchair. There was no recommendation from the MDE Advisory Committee on this requirement. The Access Board has retained the original requirement in the final rule. The Board did not include requirements for patient body positioning because the diagnostic equipment cannot override the position in which an individual is seated in his or her wheelchair. Wheelchairs often are contoured to fit the specific and unique needs of the user and to provide support where it is needed. However, the design of a wheelchair space often influences whether a wheelchair user can orient with respect to diagnostic components. For example, without knee and toe space beneath an optometrist diopter, the patient cannot look into the lens.
 
-*M303.2.2 Width*
+####### M303.2.2 Width
 
 The MDE NPRM proposed to require that diagnostic equipment used by patients seated in a wheelchair provide a wheelchair space that was at least 36 inches wide. There were no public comments and no MDE Advisory Committee recommendations regarding this requirement. Thus, the final rule retains the 36-inch wheelchair space width requirement. However, the Board added a new exception for wheelchair spaces on raised platforms, as discussed in Section IV.C.1. (Significant Changes -- Width and Depth of Wheelchair Spaces), and discussed briefly below.
 
 In the preamble to the MDE NPRM, the Access Board sought input on whether an exception to the width requirement was needed for wheelchair spaces on raised platforms. Multiple commenters responded to this provision and the MDE Advisory Committee recommended reducing the width requirement for wheelchair spaces on raised platforms. The Access Board has added an exception in the final rule that permits wheelchair spaces on raised platforms to be 32 inches wide minimum with edge protection no higher than 4 inches, measured from the platform surface.
 
-*M303.2.3 Depth*
+####### M303.2.3 Depth
 
 The MDE NPRM proposed two wheelchair space depth requirements based on how the wheelchair user enters the space: for spaces entered from the front or rear, 48 inches deep minimum; and for spaces that can only be entered from the side, 60 inches deep minimum. In the preamble in the MDE NPRM, the Access Board noted it was considering increasing the minimum depth for wheelchair spaces entered from the front or rear to 58 inches and sought input in question 29 on whether the Access Board should increase this minimum depth requirement. NPRM, 77 FR at 6928.
 
@@ -649,7 +649,7 @@ The Access Board received eight comments in response to this question. Three com
 
 First, the Access Board clarifies that this provision is not a clear space requirement for wheelchair approach, but is instead the wheelchair space integral to diagnostic equipment for a patient seated in a wheelchair, such as mammography equipment or wheelchair accessible scales. Second, based on the comments received and the absence of recommendations from the MDE Advisory Committee to change the proposed requirement, the Access Board has retained the MDE NPRM's requirements for a minimum depth of 48 inches for wheelchair spaces entered from the front or rear, and a minimum depth of 60 inches for wheelchair spaces entered from the side. However, the Access Board has reorganized this provision into three separate requirements based on how the wheelchair space is entered, made an editorial change to clarify that front or rear entry is where the wheelchair space entry and exit is provided at only one end, and as discussed in Section IV.C.1. (Significant Changes -- Width and Depth of Wheelchair Spaces), added an additional requirement to the depth provision for wheelchair spaces entered from the front or rear to permit a minimum of 40 inches if the wheelchair space provides pass-through from one end to the other.
 
-*M303.2.4 Equipment Clearances*
+####### M303.2.4 Equipment Clearances
 
 The MDE NPRM proposed knee and toe clearance for diagnostic equipment used by patients seated in wheelchairs to allow for components in the wheelchair space which the patient could approach successfully to use for its intended diagnostic purpose. The proposed requirements for equipment clearances paralleled the knee and toe clearance requirements from the 2004 ADA and ABA Accessibility Guidelines. The proposed rule provided one additional requirement for breast platforms on mammography equipment, proposing the knee and toe clearance under a breast platform to be 25 inches deep (proposed M303.2.4). The MDE NPRM preamble sought input with question 34 on whether the dimensions recommended by the Wheeled Mobility Anthropometry Project should be adopted.[10](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/final-standards/text-of-the-proposed-standards-7) Three commenters responded. A manufacturer asserted that adopting a different requirement than what is already required under existing accessibility guidelines and standards would cause confusion and increase costs. A medical association asserted that to the best of their knowledge, imaging equipment already meets the Wheeled Mobility Anthropometry Project recommendations. The final commenter, a state agency concerned with accessibility, recommended adopting the new Wheeled Mobility Anthropometry Project recommendations. The MDE Advisory Committee only provided recommendations pertaining to the knee and toe clearance for mammography equipment.
 
@@ -657,73 +657,73 @@ The Access Board has determined that mammography equipment presents a unique cha
 
 For all other equipment, the Access Board has decided to retain the original requirements in the proposed rule for knee and toe clearance. The Access Board is not persuaded to adopt the Wheeled Mobility Anthropometry Project recommendations for knee and toe clearances at this time. These recommendations represent a significant departure from the 2004 ADA and ABA Accessibility Guidelines. Therefore, the Board has elected in the final rule to retain the proposed provisions in the NPRM for knee and toe clearance for other equipment (M303.2.4.2). Due to the reorganization of the equipment clearances provision in the final rule, the knee and toe clearance requirements for the other equipment section have been renamed depth and height and relocated to M303.2.4.2. In addition, the Access Board has made an editorial change to the toe height requirement to clarify that the measurement is taken from the toe end of the wheelchair space.
 
-*M303.2.5 Surfaces*
+####### M303.2.5 Surfaces
 
 The MDE NPRM proposed to require diagnostic equipment used by patients seated in a wheelchair to provide a wheelchair space with a surface that does not slope more than 1:48 in any direction. This provision is consistent with the 2004 ADA and ABA Accessibility Guidelines. There were no comments on this section and it was not addressed by the MDE Advisory Committee. There have been no changes made to this provision.
 
-*M303.2.6 Edge Protection*
+####### M303.2.6 Edge Protection
 
 The MDE NPRM proposed edge protection on the ramps leading up to the raised platform (proposed M303.3.3.4), but did not require edge protection on the raised platforms themselves. The Access Board received two comments and two recommendations from the MDE Advisory Committee regarding edge protection on raised platforms. As discussed in Section IV.C.5. (Significant Changes -- Edge Protection), the final rule requires platforms with wheelchair spaces that are raised more than 1½ inches in height to provide a minimum 2-inch-high edge protection, measured from the surface of the platform, on each side of the platform not providing entry to or exit from the diagnostic equipment.
 
-*M303.3 Entry*
+###### M303.3 Entry
 
 This is an introductory section.
 
-*M303.3.1 Vertical*
+####### M303.3.1 Vertical
 
 The MDE NPRM proposed that for equipment with a change in level at the entry to the wheelchair space, level changes of up to ¼ inch high are permitted to be vertical. This provision is consistent with the 2004 ADA and ABA Accessibility Guidelines. There were no comments on this section and it was not addressed by the MDE Advisory Committee. There have been no changes made to this provision.
 
-*M303.3.2 Beveled*
+####### M303.3.2 Beveled
 
 The MDE NPRM proposed that for equipment with a change in level at the entry to the wheelchair space, level changes greater than ¼ inch but not greater than ½ inch would be required to be beveled with a slope not steeper than 1:2. This provision is consistent with the 2004 ADA and ABA Accessibility Guidelines. There were no comments on this section and it was not addressed by the MDE Advisory Committee. There have been no changes made to this provision.
 
-*M303.3.3 Ramped*
+####### M303.3.3 Ramped
 
 The MDE NPRM proposed that for equipment with a change in level at the entry of a wheelchair space, level changes greater than ½ inch high would be required to be ramped and comply with technical requirements for running slope, cross slope, clear width, edge protection, and handrails. The Access Board received one comment on this provision. The commenter, a medical association, concurred with the requirement for handrails on diagnostic equipment with ramps over six inches in height. The MDE Advisory Committee only reviewed and gave recommendations on the portion of the provision addressing running slope. Therefore, the Access Board has retained the proposed requirements for cross slope, clear width, edge protection, and handrails in the final rule.
 
 Regarding running slope, the MDE NPRM proposed that ramp runs have a running slope not steeper than 1:12. There were no comments on this section; however, as discussed in Section IV.C.3. (Significant Changes -- Exception to Ramp Running Slope), the MDE Advisory Committee made a three-tiered recommendation for the allowable running slope. After careful consideration of the Advisory Committee's recommendations, the Access Board has retained in the final rule the original requirement for running slope, but has added an exception that permits a running slope not steeper than 1:8 for ramp runs with a maximum height of 2½ inches. See Section IV.C.3. (Significant Changes -- Exception to Ramp Running Slope) for a full discussion of the rationale for this exception.
 
-*M303.4 Components*
+###### M303.4 Components
 
 The MDE NPRM proposed to require diagnostic equipment used by patients seated in a wheelchair which has components that are used to examine specific body parts, be capable of examining those body parts of the patient while the patient is seated in a wheelchair. For example, an x-ray platform on which a patient places an arm or hand would have to be capable of examining the arm or hand of the patient while seated in a wheelchair. NPRM, 77 FR at 6930. There were no comments on this requirement and it was not addressed by the MDE Advisory Committee. There have been no changes made to this requirement.
 
-*M303.4.1 Breast Platform Adjustability*
+####### M303.4.1 Breast Platform Adjustability
 
 The MDE NPRM proposed a mammography breast platform height range of 30 inches high minimum and 42 inches high maximum above the floor. The Access Board received three comments on this provision, and the MDE Advisory Committee made several recommendations for changes. As discussed above in the Section IV.C.4. (Significant Changes -- Breast Platform Adjustability), the Access Board has revised this provision to require the breast platform to be continually adjustable from a low height of 26 inches to a high height of 42 inches above the floor and made an editorial change to the provision title changing it from height to adjustability.
 
-**M304 Diagnostic Equipment Used by Patients in Standing Position**
+##### M304 Diagnostic Equipment Used by Patients in Standing Position
 
 M304 in the final rule establishes the technical criteria for diagnostic equipment used by patients in a standing position such as a weight scale or x-ray equipment that is used in a standing position for certain diagnostic procedures.
 
-*M304.1 General*
+###### M304.1 General
 
 This is an introductory section.
 
-*M304.2 Standing Surface*
+###### M304.2 Standing Surface
 
 The MDE NPRM proposed to require that the standing surface on which patients stand be slip resistant. In preparing the final rule, the Board has determined that as previously drafted this provision unintentionally placed requirements on the facility floor, as opposed to restricting the requirements to the diagnostic equipment itself. While the Access Board may choose to promulgate requirements for the building under its other rulemaking authority at a later date, this type of requirement is outside the scope of the MDE Standards and therefore M304 in the final rule has been restructured. The requirement for slip resistant and standing supports has been moved under this new requirement applying to standing surfaces. This reorganization ensures that only diagnostic equipment used by patients in a standing position that provides a surface for the patient to stand on must be slip resistant (M304.2.1) and provide standing supports (M304.2.2) in the final rule. Both of these requirements are discussed below.
 
-*M304.2.1 Slip Resistant.*
+####### M304.2.1 Slip Resistant.
 
 The MDE NPRM proposed to require that the standing surface on which patients stand be slip resistant. One manufacturer commented on this requirement, requesting that the rule provide clarification on how to define or measure a standing surface as "slip resistant." This provision was not addressed by the MDE Advisory Committee. The Access Board has decided to retain the original requirement in the final rule as it is the Board's understanding that various industries employ different testing methods, there is no universally adopted or specified test for slip resistance, and the assessed level varies according to the measuring method used. Other than the change to clarify that the provision applies only to standing surfaces that are part of the diagnostic equipment, there have been no changes to this provision.
 
-*M304.2.2 Standing Supports*
+####### M304.2.2 Standing Supports
 
 The MDE NPRM proposed requiring standing supports on each side of the standing surface of diagnostic equipment used by patients in the standing position, and compliance with the technical requirements for standing supports in proposed M305.3. The Access Board received multiple comments and two recommendations from the MDE Advisory Committee. As discussed above in the Section IV.D.1. (Significant Changes -- Standing Supports) and IV.E.2. (Significant Changes -- Standing Supports), the final rule retains the general requirement that standing supports be provided on two sides of the standing surface. In addition, the Access Board has added a new exception for diagnostic equipment with entry and exit that permits pass-through from one end to another to provide one standing support provided it complies with the requirements for standing supports in the horizontal position in M305.3 in the final rule.
 
-**M305 Supports**
+##### M305 Supports
 
 M305 in the final rule provides the technical requirements for transfer supports, standing supports, leg supports, and head and back supports. Transfer supports are required for diagnostic equipment complying with M301 and M302 and standing supports are required for diagnostic equipment complying with M304. Leg supports and head and back supports apply, where provided, to diagnostic equipment complying with M301 and M302.
 
-*M305.1 General*
+###### M305.1 General
 
 This is an introductory section.
 
-*M305.2 Transfer Supports*
+###### M305.2 Transfer Supports
 
 This is an introductory section. As discussed above in Section IV.E.1. (Significant Changes -- Transfer Supports), the Access Board strengthened the transfer support requirements and added additional requirements in the final rule to ensure that supports are capable of assisting with independent transfer onto and off of the diagnostic equipment. With the changes to the final rule, the Board sought to harmonize as much as possible, these requirements with the 2004 ADA and ABA Accessibility Guidelines for grab bars. 
 
-*M305.2.1 Location*
+####### M305.2.1 Location
 
 The MDE NPRM proposed that transfer supports be located within reach of the transfer surface and not obstruct transfer onto or off of the surface when in position (proposed M305.2.1). In the preamble to the MDE NPRM, the Access Board noted it was considering requiring transfer supports to be located no further than 1½ inches from the transfer surface, when measured horizontally, and requiring the transfer support to be located on the side of the transfer surface opposite the transfer side. NPRM, 77 FR at 6925. The Access Board sought public comment with question 19, which asked for input on multiple proposed changes to the transfer support provision, including whether the proposed location of the transfer support, and the requirement that it be located 1½ inches from the transfer surface, would be sufficient to facilitate transfers. Id.
 
@@ -741,7 +741,7 @@ After review of the public comments and the MDE Advisory Committee recommendatio
 
 In the final rule the Access Board has decided for end transfer supports to require at least one support located on the long side of the transfer surface, opposite the transfer side. For side transfer supports, the Access Board has decided to require a transfer support which is capable of supporting transfer on each side of the transfer surface. A side transfer surface could contain one transfer support which is capable of being repositioned from one side to the other side depending on which side the patient chooses to transfer or it is acceptable to have two transfer supports, one on each long side, which are both capable of being removed or repositioned on the side the patient chooses to transfer. Additionally, the final rule requires both end and side transfer supports to be located a maximum of 1½ inches measured horizontally from the nearest edge of the transfer surface to the transfer support. In reviewing the MDE Advisory Committee's recommendations, the Access Board agrees that transfer supports that fold, collapse, or articulate need more space, but disagrees with the MDE Advisory Committee that an allowance for more space should apply only to stretchers and imaging equipment. The Access Board finds that other types of diagnostic equipment, such as hospital beds, also have transfer supports that collapse on either side to allow transfer. Therefore, the Access Board has provided an exception to the general provision which permits supports that fold, collapse, or articulate to be located three inches maximum from the nearest edge of the transfer surface to the transfer support. Additionally, as discussed in Section IV.E.1.b (Significant Changes -- Positioning Supports), the Access Board has decided not to include positioning supports in the final rule.
 
-*M305.2.2 Length*
+####### M305.2.2 Length
 
 In the MDE NPRM there was no requirement for length of the transfer support; however, the MDE NPRM preamble noted that the Access Board was considering requiring the transfer supports to extend the entire depth of the transfer surface and be a minimum of 15 inches in length. NPRM, 77 FR at 6925. The Access Board specifically sought public input with question 19, asking if the proposed length of the transfer supports would be sufficient to facilitate transfer and maintain position on the diagnostic equipment. Id.
 
@@ -755,7 +755,7 @@ For side transfer supports the Access Board adopted the MDE Advisory Committee r
 
 In question 19 part (e) the Access Board sought input on whether angled or vertical transfer supports should be permitted. 77 FR at 6925. Three commenters, a manufacturer, an accessibility consultant, and a disability rights organization, responded and all concurred with the proposal. The MDE Advisory Committee did not specifically address this proposal, however, in its recommendations for the length of transfer supports on imaging equipment, it did recommend that the transfer support should extend horizontally along the side of the patient table. MDE Advisory Committee Report, 90-91, available at [https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report.](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report) The Access Board considered the public comments and the MDE Advisory Committee's recommendation, and has decided not to require that transfer supports be horizontal, allowing manufacturers flexibility to contour supports appropriate for the diagnostic purpose of the equipment.
 
-*M305.2.3 Height*
+####### M305.2.3 Height
 
 In the MDE NPRM there was no specific requirement regarding the height of the transfer support, only that it be "within reach" of the patient (proposed M305.2.1). The Access Board sought input from the public in question 20 of the MDE NPRM preamble, on whether a transfer support height requirement of 6 inches minimum and 19 inches maximum above the transfer surface would be usable by patients with disabilities. NPRM, 77 FR at 6925. Six commenters responded to question 20. Four commenters (two manufacturers, one disability rights organization, and a state agency concerned with accessibility) supported the proposed height range. Three commenters (a manufacturer, a medical association, and a disability rights organization) did not support the proposal. The manufacturer opposing the proposed range raised concerns with its ability to attain a 19-inch height on its diagnostic equipment. The medical association asserted that radiography exam tables are not equipped with transfer bars, and if required should retract fully into the surface of the table and the disability rights organization expressed concern that 19 inches was too high to facilitate safe transfer.
 
@@ -763,7 +763,7 @@ The MDE Advisory Committee supported adding a requirement setting the height of 
 
 The Access Board considered the public comments and the MDE Advisory Committee's recommendations, and has decided to include a new provision, M305.2.3 in the final rule, that requires the tops of transfer support gripping surfaces to be located 6 inches minimum and 19 inches maximum higher than the top of the associated uncompressed transfer surface during use. This range allows the manufacturer to choose a height between 6 inches and 19 inches to place their transfer supports; it does not require that the transfer supports be 19 inches high. The transfer support is permitted to be horizontal, angled, curved, or a combination of these as long as the top of any point along the gripping surface is located at or between 6 inches and 19 inches. Thus, the commenter's concern about reaching the 19-inch height is not warranted. Secondly, as discussed above in Section IV.E.1.b (Significant Changes --Positioning Supports), the Access Board has declined to include the MDE Advisory Committee's recommended positioning supports in the final rule; however, the Access Board does concur with the MDE Advisory Committee that for imaging equipment with transfer surfaces that exceed 24 inches in width, a lower transfer support is warranted. Therefore, in the final rule, the Access Board has provided an exception that permits transfer supports to be located three inches minimum and six inches maximum higher than the tops of the transfer surfaces for imagining beds that are greater than 24 inches wide.
 
-*M305.2.4 Cross Section*
+####### M305.2.4 Cross Section
 
 The proposed rule did not provide specific requirements for the cross section of transfer supports. However, in the MDE NPRM preamble, the Access Board noted that it was considering adopting the cross sectional dimensions for grab bars from the 2004 ADA and ABA Accessibility Guidelines for transfer supports. NPRM, 77 FR at 6925-6926. Specifically, the Access Board indicated it was considering requiring circular cross sections to have an outside diameter of 1¼ inches minimum and 2 inches maximum, and transfer supports with non-circular cross sections to have a cross section dimension of 2 inches maximum, and a perimeter dimension of 4 inches minimum and 4.8 inches maximum. Id. The Access Board sought input in MDE NPRM preamble question 21, on whether the gripping surfaces of current transfer supports on different types of equipment meet the cross sectional dimensions specified above and whether handholds that meet the above cross section dimensions could be integrated into armrests that are also cushioned to support arms and elbows. Id.
 
@@ -775,13 +775,13 @@ Allowing both noncircular cross sections and circular cross sections gives manuf
 
 After review of the comments and the MDE Advisory Committee's recommendations, the Access Board has decided to apply the 2004 ADA and ABA Accessibility Guidelines for grab bar cross sections to transfer supports in the final rule. Accordingly, the final rule includes a new provision, M305.2.4, requiring transfer supports to have one of two cross sections: circular cross sections, with an outside diameter of 1¼ inches minimum and 2 inches maximum; or non‐circular cross sections, a cross section dimension of 2 inches maximum and a perimeter dimension of 4 inches minimum and 4.8 inches maximum.
 
-*M305.2.5 Surface Hazards*
+####### M305.2.5 Surface Hazards
 
 The proposed rule did not provide any specific restrictions regarding surface hazards around the transfer supports. No public comments were submitted on this issue, but the MDE Advisory Committee voiced concern about surface hazards stating, "gripping surface configurations must provide an effective and safe surface for patients to hold onto. Sharp edges or abrasive elements may injure and cause the patient to lose their grip during positioning or transfer." The MDE Advisory Committee recommended that a provision be added to the final rule requiring "gripping surfaces to be free of sharp or abrasive elements and have rounded edges." The Committee based this recommendation on related provisions in the 2004 ADA and ABA Accessibility Guidelines for handrails and grab bars. MDE Advisory Committee Report, 101, available at [https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report.](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report)
 
 The Access Board concurs with the MDE Advisory Committee's recommendation and views the proposed provision as beneficial and consistent with the cross section requirements of M305.2.4, above. Therefore, the Access Board has added a new provision to the final rule, M305.2.5 Surface Hazards, to ensure that transfer supports and surfaces adjacent to transfer supports are free of sharp or abrasive components and have eased edges.
 
-*M305.2.6 Gripping Surfaces*
+####### M305.2.6 Gripping Surfaces
 
 The proposed rule did not provide any specific requirements regarding gripping surfaces on transfer supports. However, in the MDE NPRM preamble the Access Board repeatedly noted that it was considering applying many of the provisions from the 2004 ABA and ADA Accessibility Guidelines for grab bars and handrails to transfer supports. NPRM, 77 FR at 6924-6926. The MDE Advisory Committee explained that:
 
@@ -789,13 +789,13 @@ The proposed rule did not provide any specific requirements regarding gripping s
 
 The Access Board concurs with the recommendation of the MDE Advisory Committee and views the proposed provision as beneficial and consistent with the existing accessibility guidelines. Therefore, the Access Board has added this new provision to the final rule, M305.2.6, which ensures that an adequate surface area for gripping is provided to the patient.
 
-*M305.2.7 Clearance*
+####### M305.2.7 Clearance
 
 In the MDE NPRM, the Access Board did not provide any specific requirements for clearances around the transfer support. However, in the preamble to the MDE NPRM the Access Board noted that it was considering applying the 2004 ADA and ABA Accessibility Guidelines for clearance around grab bars to the transfer support provision in the final rule. NPRM, 77 FR at 6926. Specifically, the Access Board sought input from the public in question 22, on whether transfer supports on diagnostic equipment could provide 1½ inches minimum clearance around the gripping surface. Id. Two commenters responded, both manufacturers, and indicated that transfer supports could provide 1½ inches minimum clearance around the transfer support. The MDE Advisory Committee concurred with the commenters and expressed support for the use of the 2010 ADA Standards and International Building Code Requirements (ICC/ANSI A117.1-2009), and recommended adding the requirements to the final rule. MDE Advisory Committee Report, 100, available at [https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report.](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report)
 
 Based on public commenter responses and MDE Advisory Committee recommendations, the Access Board has added a new provision to the final rule, M305.2.7, requiring a 1½ inch minimum clearance between the transfer support gripping surface and adjacent surfaces or obstructions.
 
-*M305.2.8 Fittings*
+####### M305.2.8 Fittings
 
 The MDE NPRM proposed to require that transfer supports not rotate in their fittings (proposed M305.2.3). Five commenters addressed this provision. Four of the commenters disagreed with this requirement and explained the need for transfer supports to be able to rotate in their fittings. Specifically, one commenter (manufacturer) asserted that the technical criteria from the 2004 ADA and ABA Accessibility Guidelines for grab bars in bathrooms should not be applied to exam tables as they would restrict the ability for the transfer supports to be moved out of the way after transfer. Further, this commenter noted that the requirement conflicts with proposed M302.2.3, which allows for temporary obstructions such as armrests, footrests, and side rails that can be repositioned to allow for transfer. Another commenter (manufacturer) pointed out that bed rails, which are common on hospital beds, require a latched position and an unlatched position, which allows them to rotate in their fittings when not latched. A different manufacturer stated that its seated diagnostic equipment uses armrests as transfer supports, which can be pushed back toward the rear of the equipment to allow entry. An accessibility consultant recommended swing-away or removable armrests for chairs to allow for transfer on either side. The only commenter (accessibility consultant) opposed to allowing transfer supports to rotate in their fittings, expressed concern for the potential for injury if transfer supports rotated unexpectedly during transfer.
 
@@ -803,7 +803,7 @@ The MDE Advisory Committee recommended amending this provision to allow transfer
 
 The Access Board concurs with the majority of the commenters and the MDE Advisory Committee. As noted in proposed M302.2.3, the Access Board intended to allow manufacturers to provide temporary obstructions such as armrests and bedrails that can be repositioned, or rotate in their fittings, and then be locked into place when needed as a transfer support. Therefore, the Access Board has revised this provision in the final rule to require that transfer supports do not rotate in their fittings when in place for transfer (M305.2.8).
 
-*M305.3 Standing Supports*
+###### M305.3 Standing Supports
 
 M305.3 provides the technical requirements for standing supports which are required on diagnostic equipment covered by M304. This provision has been reorganized in the final rule into requirements for length and height, as opposed to vertical and horizontal.
 
@@ -811,23 +811,23 @@ In the MDE NPRM preamble, the Access Board noted that it was considering adoptin
 
 Additionally, one commenter (manufacturer) requested that requirements for structural strength be added to the standing support provision. For the same reasons the Access Board has removed the requirement of structural strength for transfer supports (See Section IV.E.1.a. (Significant Changes -- Structural Strength) the Access Board declines to adopt such a requirement for standing supports in the final rule.
 
-*M305.3.1 Length*
+####### M305.3.1 Length
 
 In the MDE NPRM, the Access Board proposed a gripping surface length of four inches minimum for horizontal standing supports. No public comments were submitted on this requirement. The MDE Advisory Committee supported the proposed technical provisions, but recommended adding additional criteria for standing supports on raised platforms with wheelchair spaces. As discussed above in the Section IV.E.2. (Significant Changes -- Standing Supports), the final rule requires that horizontal standing supports be positioned horizontally in relation to standing surfaces and retains the proposed requirement of four inches minimum length. The Access Board added a new provision applying to diagnostic equipment containing a wheelchair space that also requires standing supports. This provision, M305.3.1.2 in the final rule, has added two new requirements for this type of equipment. First, for diagnostic equipment containing wheelchair spaces with one entry that also serves as the exit, the length of the gripping surface for horizontal standing supports must be equal to or greater than 80 percent of the overall length of the platform. Second, for diagnostic equipment with wheelchair spaces that permit pass-through from one end to the other, the length of the gripping surface for the horizontal standing support must be at least equal to the length of the platform. In the final rule these requirements are located in M305.3.1.1 Horizontal Position and M305.3.1.2 Diagnostic Equipment Containing a Wheelchair Space.
 
 For vertical standing supports, the MDE NPRM proposed a gripping surface length of 18 inches minimum. There were no public comments submitted on this requirement, and the MDE Advisory Committee supported the proposed technical provisions. In the final rule, the Access Board retained the original requirement for gripping surface length and clarified that the vertical standing supports must be positioned vertically in relation to the standing surface. Both requirements are included in the new M305.3.1.3 Vertical Position provision in the final rule.
 
-*M305.3.2 Height*
+####### M305.3.2 Height
 
 For horizontal supports, the MDE NPRM proposed a gripping surface height of 34 inches minimum and 38 inches maximum above the standing surface. There were no public comments on this requirement, and the MDE Advisory Committee supported the proposed technical provisions. In the final rule the Access Board retains the original requirement. This requirement has been relocated to M305.3.2.1 in the final rule.
 
 For vertical supports, the MDE NPRM proposed that the bottom end of the support be 34 inches high minimum and 37 inches high maximum above the standing surface. There were no public comments on this requirement, and the MDE Advisory Committee supported the proposed technical provisions. In the final rule the Access Board retains the original requirement, but made a few minor editorial changes to the text. This requirement has been relocated to M305.3.2.2 in the final rule.
 
-*M305.3.3 Fittings*
+####### M305.3.3 Fittings
 
 The MDE NPRM proposed to prohibit standing supports from rotating in their fittings. There were no comments on this section and it was not addressed by the MDE Advisory Committee. The Access Board made no changes to this provision.
 
-*M305.4 Leg Supports*
+###### M305.4 Leg Supports
 
 As discussed above in Section V.C.3.b (Section-by-Section Analysis -- M301.3.2) and Section V.C.7.b (Section-by-Section Analysis -- M302.3.2), the technical requirements for leg supports from M301 and M302 have been relocated to M305 Supports. The MDE NPRM proposed that where stirrups are provided, they must provide a method to support, position, and secure the patients legs. Four commenters (medical association, accessibility consultant, disability rights organization, and a state agency) agreed with requiring leg supports when stirrups are provided.
 
@@ -835,41 +835,41 @@ The MDE Advisory Committee agreed that, for procedures that use stirrups and req
 
 After reviewing the MDE Advisory Committee recommendations, the Access Board has decided that the proposed provision is sufficient to require the leg support advocated by the MDE Advisory Committee and has therefore not adopted the MDE Advisory Committee recommendation to require an alternate method of leg supports. However, in the final rule the Access Board has made an editorial change in terminology, from stirrups to leg supports, in response to the MDE Advisory Committee recommendation and to provide consistency with the headings of other support provisions that are based on the body part supported.
 
-*M305.4 Head and Back Support*
+###### M305.4 Head and Back Support
 
 As discussed above in Section V.C.3.c (Section-by-Section Analysis -- M301.3.3) and Section V.C.7.c. (Section-by-Section Analysis -- M302.3.3), the technical requirements for head and back supports from M301 and M302 have been relocated to M305 Supports. The MDE NPRM proposed to require diagnostic equipment used by patients in the supine, prone, or side-lying position and the seated position that can be adjusted to a reclined position to provide head and back support throughout the entire range of the incline. Three manufacturers commented on this provision. One manufacturer asserted that this requirement was ambiguous and that he had to read it multiple times to understand it; however, this commenter also indicated that the tables it currently manufactures meet the proposed requirement. Another manufacturer noted that existing MRI equipment meets this requirement. The final manufacturer asserted that a reclining backrest necessarily provides head and back support, unless the Access Board intended a different meaning for "support." The MDE Advisory Committee did not review the proposed requirement for head and back support, and thus provided no recommendations on this requirement.
 
 After review of the comments, the Access Board has decided not to make any changes to this provision in the final rule. All of the commenters on this topic agree that current diagnostic equipment meets the proposed requirement and the Access Board believes that this requirement is clearly articulated. Therefore, the final rule requires that where diagnostic equipment can be adjusted to a reclined position, head and back support must be provided.
 
-**M306 Communication **
+##### M306 Communication
 
 M306 in the final rule provides the technical criteria for communication from the diagnostic equipment to the patient.
 
-*M306.1 General*
+###### M306.1 General
 
 The MDE NPRM proposed that, where diagnostic equipment communicates instructions or other information to the patient, the instructions or information must be provided in at least two of the following methods: audible, visible, or tactile (proposed M306.1). The Access Board sought public input in question 41 in the preamble to the MDE NPRM, on whether diagnostic equipment that communicates instructions or other information to the patient should provide information in all three methods of communication, and what the cost to provide all three methods would be. NPRM, 77 FR at 6931. Seven commenters responded. Three commenters (a manufacturer, a medical association, and a state agency concerned with accessibility) concurred with the proposed requirement to provide two methods of communication. Three commenters (two disability rights organizations and one medical association) supported requiring all three modes of communication, and the final commenter (a manufacturer) recommended requiring one mode of communication if the medical provider is present and three modes of communication for home use devices. The MDE Advisory Committee did not address this provision.
 
 The Access Board carefully considered the public comments; however, it has decided to retain the provision from the proposed rule, requiring diagnostic equipment that communicates instructions or other information to the patient to provide the communication in two methods. The commenters were split in their support of two or three methods of communication and the commenters supporting the increase to three methods of communication provided no additional information to warrant the increase. The commenter that recommended different requirements for home-use equipment is not dispositive as this rule does not cover any home use equipment. The Access Board has concluded that providing two means of communication will serve the majority of people and that there was not enough information provided to warrant an increase in this requirement in the final rule.
 
-**M307 Operable Parts**
+##### M307 Operable Parts
 
 M307 in the final rule provides the technical criteria for operable parts used by patients to activate, deactivate, or adjust the diagnostic equipment. For example, equipment used for an auditory examination may require the patient to press a button when sounds are heard. M307 does not apply to controls used only by health care personnel or others who are not patients. There were no comments received on the proposed provisions, and as discussed below, the provisions from the proposed rule have been retained in the final rule.
 
 The Access Board did receive comments in response to question 43, which sought public input on whether the final rule should include reach range requirements such as those in the 2004 ADA and ABA Accessibility Guidelines for an unobstructed forward reach or side reach for the operable parts provision. Five commenters responded, one commenter (state agency concerned with accessibility) recommended adopting the reach ranges and four commenters (one medical association, one academic, and two disability rights organizations) recommended against adding reach ranges for operable parts to the final rule. One of these commenters (disability rights organization) explained that the 2004 ADA and ABA requirements are not appropriate for application to operable parts of medical diagnostic equipment. The MDE Advisory Committee did not address this provision. Based on the majority of the commenters response, the Access Board has decided not to add reach ranges to the operable parts section at this time.
 
-*M307.1 General*
+###### M307.1 General
 
 This is an introductory section.
 
-*M307.2 Tactilely Discernible*
+###### M307.2 Tactilely Discernible
 
 The MDE NPRM proposed that operable parts intended for patient use be tactilely discernible without activation. Patients who are blind or have low vision have difficulty distinguishing a flat membrane button or similar control unless it is tactilely discernible from the surrounding surface and any adjacent controls. The most common method to ensure that buttons and similar controls are tactilely discernible is to raise part or all of the control surface above the surrounding surface and at a distance from any adjacent controls such that a relief of each individual control can be determined by touch. There were no public comments on this section and it was not addressed by the MDE Advisory Committee. There have been no changes made to this provision.
 
-*M307.3 Operation*
+###### M307.3 Operation
 
 The MDE NPRM proposed to require operable parts to be operable with one hand and not require tight grasping, pinching, or twisting of the wrist. There were no public comments on this section and it was not addressed by the MDE Advisory Committee. There have been no changes made to this provision.
 
-*M307.4 Operating Force.*
+###### M307.4 Operating Force.
 
 The MDE NPRM proposed to restrict the force required to activate operable parts to 5 pounds. The Access Board sought public input on this provision in question 42 on whether the operating force should be reduced to 2 pounds. NPRM, 77 FR at 6932. One commenter, a state agency concerned with accessibility, responded and concurred with the suggested reduction. The MDE Advisory Committee did not address this requirement. Although the Access Board initially considered a reduction in the force required to activate operable parts, upon further consideration, the Board found no reason to deviate from the long-established maximum of 5 pounds in the 2004 ADA and ABA Accessibility Guidelines. 36 CFR part 1191, App. D 309.4. Therefore, there have been no changes made to this provision.
 
@@ -879,7 +879,7 @@ The MDE NPRM proposed to restrict the force required to activate operable parts 
 
 ### VI. Regulatory Process Matters
 
-**A. Final Regulatory Assessment (EO 13563 and EO 12866)**
+#### A. Final Regulatory Assessment (EO 13563 and EO 12866)
 
 Executive Orders 13563 and 12866 direct agencies to propose or adopt a regulation only upon a reasoned determination that its benefits justify its costs; tailor the regulation to impose the least burden on society, consistent with obtaining the regulatory objectives; and, in choosing among alternative regulatory approaches, select those approaches that maximize net benefits. Important goals of regulatory analysis are to (1) establish whether federal regulation is necessary and justified to achieve a market failure or other social goal and (2) demonstrate that a range of reasonably feasible regulatory alternatives have been considered and that the most efficient and effective alternative has been selected. Executive Order 13563 also recognizes that some benefits are difficult to quantify and provides that, where appropriate and permitted by law, agencies may consider and discuss qualitatively those values that are difficult or impossible to quantify, including equity, human dignity, fairness, and distributive impacts.
 
@@ -897,35 +897,35 @@ In addition, the Standards could yield some immediate benefits, even before any 
 
 The Board thus concludes that the potential benefits of the MDE Standards justify the potential costs; that the MDE Standards will impose the least burden on society, consistent with achieving the regulatory objectives; and that the regulatory approach selected will maximize net benefits.
 
-**B. Regulatory Flexibility Act**
+#### B. Regulatory Flexibility Act
 
 The Regulatory Flexibility Act (RFA) requires federal agencies to analyze the impact of regulatory actions on small entities, unless an agency certifies that the rule will not have a significant impact on a substantial number of small entities. 5 U.S.C. 604, 605 (b). The MDE Standards do not impose any mandatory requirements on any entity, including small entities. Therefore, we did not prepare a final regulatory flexibility analysis for the final rule.
 
-**C. Executive Order 13132: Federalism**
+#### C. Executive Order 13132: Federalism
 
 The MDE Standards do not impose any mandatory requirements on state and local governments. The MDE Standards do not have any direct effects on the state governments, the relationship between the national government and state governments, or the distribution of power and responsibilities among the various levels of government. The MDE Standards do not preempt state law. Therefore, the consultation and other requirements of Executive Order 13132 (Federalism) do not apply.
 
-**D. Unfunded Mandates Reform Act**
+#### D. Unfunded Mandates Reform Act
 
 The proposed standards do not impose any mandatory requirements on state, local, or tribal governments or the private sector. Therefore, the Unfunded Mandates Reform Act does not apply.
 
-**E. Paperwork Reduction Act**
+#### E. Paperwork Reduction Act
 
 Under the Paperwork Reduction Act (PRA), federal agencies are generally prohibited from conducting or sponsoring a "collection of information: as defined by the PRA, absent OMB approval. See 44 U.S.C. 3507 et seq. The MDE Standards do not impose any new or revised collections of information within the meaning of the PRA.
 
-**List of Subjects in 36 CFR Part 1195**\
+**List of Subjects in 36 CFR Part 1195**
 Health care, Individuals with disabilities, Medical devices.
 
-Approved by vote of the Board on September 14, 2016.\
-![David M. Capozzi signature]({{ site.baseurl }}/images/capozzi-signature.jpg)\
-David M. Capozzi,\
+Approved by vote of the Board on September 14, 2016.
+![David M. Capozzi signature]({{ site.baseurl }}/images/capozzi-signature.jpg)
+David M. Capozzi,
 Executive Director.
 
 
 ---
 
 
-### Notes
+#### Notes
 
 1 Patient Protection and Affordable Care Act, Pub. L. 111-148, 124 Stat. 570 (2010).
 

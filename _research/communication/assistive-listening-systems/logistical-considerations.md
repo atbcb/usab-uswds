@@ -1,7 +1,7 @@
 ---
 title: Logistical Considerations Recommendations
 order-number: 5
-research-title: Large Area Assistive Listening Systems
+group-title: Large Area Assistive Listening Systems
 status: completed
 topic: Communication and Information
 ---

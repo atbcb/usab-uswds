@@ -4,23 +4,39 @@ order-number: 1
 ---
 ### M101 General
 
-M101.1 Purpose. These Standards (MDE Standards) contain scoping and technical requirements for medical diagnostic equipment (diagnostic equipment) to ensure accessibility to, and usability of the diagnostic equipment by patients with disabilities. The MDE Standards provide for independent access to, and use of, diagnostic equipment by patients with disabilities to the maximum extent possible.
+#### M101.1 Purpose
 
-M101.2 Application. Sections M301 through M304 shall be applied to diagnostic equipment, based on the patient positions that the equipment supports, during patient transfer and diagnostic use. Sections M306 and M307 shall be applied to diagnostic equipment where communication features or operable parts are provided for patient use.
+These Standards (MDE Standards) contain scoping and technical requirements for medical diagnostic equipment (diagnostic equipment) to ensure accessibility to, and usability of the diagnostic equipment by patients with disabilities. The MDE Standards provide for independent access to, and use of, diagnostic equipment by patients with disabilities to the maximum extent possible.
 
-M101.3 Existing Diagnostic Equipment. The MDE Standards do not address the applicability of scoping or technical requirements to existing diagnostic equipment. Enforcing authorities, such as the Department of Justice or the Department of Health and Human Services, have authority over the accessibility of existing equipment and any regulation of that equipment will be effective only to the extent required by such enforcing authorities.
+#### M101.2 Application
 
-M101.4 Equivalent Facilitation. The use of alternative designs or technologies that result in substantially equivalent or greater accessibility and usability than specified in the MDE Standards is permitted.
+Sections M301 through M304 shall be applied to diagnostic equipment, based on the patient positions that the equipment supports, during patient transfer and diagnostic use. Sections M306 and M307 shall be applied to diagnostic equipment where communication features or operable parts are provided for patient use.
 
-M101.5 Dimensions. The MDE Standards are based on adult dimensions and anthropometrics. Dimensions that are not stated as "maximum" or "minimum" are absolute.
+#### M101.3 Existing Diagnostic Equipment
 
-M101.6 Dimensional Tolerances. Dimensions are subject to conventional industry tolerances for manufacturing processes, material properties, and field conditions.
+The MDE Standards do not address the applicability of scoping or technical requirements to existing diagnostic equipment. Enforcing authorities, such as the Department of Justice or the Department of Health and Human Services, have authority over the accessibility of existing equipment and any regulation of that equipment will be effective only to the extent required by such enforcing authorities.
 
-M101.7 Units of Measurement. Measurements are stated in U.S. customary and metric units. The values stated in each system (U.S. customary and metric units) may not be exact equivalents, and each system shall be used independently of the other.
+#### M101.4 Equivalent Facilitation
+
+The use of alternative designs or technologies that result in substantially equivalent or greater accessibility and usability than specified in the MDE Standards is permitted.
+
+#### M101.5 Dimensions
+
+The MDE Standards are based on adult dimensions and anthropometrics. Dimensions that are not stated as "maximum" or "minimum" are absolute.
+
+#### M101.6 Dimensional Tolerances
+
+Dimensions are subject to conventional industry tolerances for manufacturing processes, material properties, and field conditions.
+
+#### M101.7 Units of Measurement
+
+Measurements are stated in U.S. customary and metric units. The values stated in each system (U.S. customary and metric units) may not be exact equivalents, and each system shall be used independently of the other.
 
 ### M102 Definitions
 
-M102.1 Defined Terms. For the purpose of the MDE Standards, the following terms have the indicated meaning:
+#### M102.1 Defined Terms
+
+For the purpose of the MDE Standards, the following terms have the indicated meaning:
 
 
 End Transfer Surface
@@ -53,9 +69,13 @@ Transfer Surface
 Wheelchair Space
 : Space for a single wheelchair and its occupant.
 
-M102.2 Undefined Terms. Terms not defined in M102.1 or in regulations or policies issued by an enforcing authority shall be given their ordinarily accepted meaning in the sense that the context implies.
+#### M102.2 Undefined Terms
 
-M102.3 Interchangeability. Words, terms, and phrases used in the singular include the plural and those used in the plural include the singular.
+Terms not defined in M102.1 or in regulations or policies issued by an enforcing authority shall be given their ordinarily accepted meaning in the sense that the context implies.
+
+#### M102.3 Interchangeability
+
+Words, terms, and phrases used in the singular include the plural and those used in the plural include the singular.
 
 
 

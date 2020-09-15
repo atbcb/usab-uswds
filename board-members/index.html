@@ -11,13 +11,21 @@ permalink: /board-members/
 <div class="grid-container padding-top-3 maxw-desktop">
   <div class="grid-row">
     <div class="width-desktop usa-prose">
-      <p style="max-width: none;">The Board is structured to function as a coordinating body among federal agencies and directly represent the public, particularly people with disabilities.  Twelve members of the governing Board are representatives from most of the federal departments.  The other thirteen are comprised of members of the public appointed by the President to four-year terms.  Every year the Board elects officers, including a chair and vice-chair.  These posts alternate between a public and a federal member.</p>
-      <p style="max-width: none;">Members of the public who wish to seek appointment to the Access Board should contact the White House Office of Presidential Personnel at (202) 456-9713 or visit the White House website.</p>
+      <p style="max-width: none;">
+        The Board is structured to function as a coordinating body among federal agencies and to directly represent the public, particularly people with disabilities. 
+        Twelve members of the governing Board are representatives from most of the federal departments. 
+        The other thirteen are comprised of members of the public appointed by the President to four-year terms. 
+        Every year the Board elects officers, including a chair and vice-chair. 
+        These posts alternate between a public and a federal member.
+      </p>
+      <p style="max-width: none;">
+        Members of the public who wish to seek appointment to the Access Board should contact the White House Office of Presidential Personnel at 202-456-9713
+        or visit <a href="https://www.whitehouse.gov/">the White House website</a>.
+      </p>
     </div>
-
   </div>
   {% assign p-members = site.board-members | where: "member", "public" | sort: "last-name" %}
-  {% assign f-members = site.board-members | where: "member", "federal" %}
+  {% assign f-members = site.board-members | where: "member", "federal" | sort: "last-name" %}
   {% assign chairs = site.board-members | where: "chair","true" %}
   {% assign vice-chairs = site.board-members | where: "vice-chair","true" %}
   <div class="grid-row">
@@ -37,11 +45,11 @@ permalink: /board-members/
             </div>
             <div class="usa-card__media usa-card__media--inset">
               <div class="usa-card__img">
-                <img src="{{ chair.image }}" alt="Profile picture of {{ chair.full_name }}">
+                <img src="{{ site.baseurl }}{{ chair.image }}" alt="Profile picture of {{ chair.full_name }}">
               </div>
             </div>
             <div class="usa-card__footer margin-x-auto">
-              <a href="{{ site.baseurl }}/board-members/{{ chair.name }}"><button class="usa-button">Biography</button></a>
+              <a href="{{ site.baseurl }}/about/board-members/{{ chair.name }}"><button class="usa-button">Biography</button></a>
             </div>
           </div>
         </li>
@@ -61,11 +69,11 @@ permalink: /board-members/
             </div>
             <div class="usa-card__media usa-card__media--inset">
               <div class="usa-card__img">
-                <img src="{{ vice-chair.image }}" alt="Profile picture of {{ vice-chair.full_name }}">
+                <img src="{{ site.baseurl }}{{ vice-chair.image }}" alt="Profile picture of {{ vice-chair.full_name }}">
               </div>
             </div>
             <div class="usa-card__footer margin-x-auto">
-              <a href="{{ site.baseurl }}/board-members/{{ vice-chair.name }}"><button class="usa-button">Biography</button></a>
+              <a href="{{ site.baseurl }}/about/board-members/{{ vice-chair.name }}"><button class="usa-button">Biography</button></a>
             </div>
           </div>
         </li>
@@ -74,6 +82,7 @@ permalink: /board-members/
     </div>
   </div>  
 
+  <br class="page-break">
 
   <div class="grid-row">
     <div class="grid-container">
@@ -84,7 +93,7 @@ permalink: /board-members/
         <li class="tablet:grid-col-3 usa-card">
           <div class="usa-card__container gray-to-color">            
             <div class="padding-1">
-              <a href="{{ site.baseurl }}/board-members/{{ member.name }}" class="style-inherit">
+              <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
                 <h3 class="card-name">{{ member.full_name }}</h3>
                 {% if member.agency %}
                 <p class="card-text">{{ member.agency }}</p>
@@ -93,8 +102,8 @@ permalink: /board-members/
             </div>
             <div class="usa-card__media usa-card__media--inset">
               <div class="usa-card__img maxw-15 margin-x-auto">
-                <a href="{{ site.baseurl }}/board-members/{{ member.name }}" class="style-inherit">
-                  <img src="{{ member.image }}" alt="Profile picture of {{ member.full_name }}">
+                <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
+                  <img src="{{ site.baseurl }}{{ member.image }}" alt="Profile photo of {{ member.full_name }}">
                 </a>
               </div>
             </div>
@@ -106,6 +115,7 @@ permalink: /board-members/
     </div>
   </div>
 
+<br class="page-break">
   
   <div class="grid-row">
     <div class="grid-container">
@@ -116,7 +126,7 @@ permalink: /board-members/
         <li class="tablet:grid-col-3 usa-card">
           <div class="usa-card__container gray-to-color">            
             <div class="padding-1">
-              <a href="{{ site.baseurl }}/board-members/{{ member.name }}" class="style-inherit">
+              <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
                 <h3 class="card-name">{{ member.full_name }}</h3>
                 {% if member.agency %}
                 <p class="card-text">{{ member.agency }}</p>
@@ -125,8 +135,8 @@ permalink: /board-members/
             </div>
             <div class="usa-card__media usa-card__media--inset">
               <div class="usa-card__img maxw-15 margin-x-auto">
-                <a href="{{ site.baseurl }}/board-members/{{ member.name }}" class="style-inherit">
-                  <img src="{{ member.image }}" alt="Profile picture of {{ member.full_name }}">
+                <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
+                  <img src="{{ site.baseurl }}{{ member.image }}" alt="Profile photo of {{ member.full_name }}">
                 </a>
               </div>
             </div>

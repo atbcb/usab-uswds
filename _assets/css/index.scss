@@ -19,8 +19,12 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 @import "components/table-of-contents-subnav";
 
 
-
 // Add your SASS/CSS here
+
+// override default gray to get 7:1 contrast ratio
+li.usa-nav__secondary-item a {
+  color: #595959;
+}
 
 // temporary blue class to see how grids work
 .blue {
@@ -223,8 +227,9 @@ a.usa-current::after {
 .card-header {
   @extend .usa-card__header;
   text-align: center;
-  background-color: #f1f1f1;
-  padding-top: .25 rem;
+  @include u-bg('secondary-vivid');
+  @include u-text('white');
+  padding: 1rem;
 
 }
 
@@ -236,6 +241,7 @@ a.usa-current::after {
 .gray-to-color:hover {
   -webkit-filter: none;
   filter: none;
+  @include u-bg('primary-lighter')
 }
 
  a.style-inherit {
@@ -256,3 +262,4 @@ a.usa-current::after {
   @include u-text('primary-darker');
   @include u-margin-bottom(0);
 }
+

@@ -1,7 +1,7 @@
 ---
 title: about access board research
 order-number: 0
-research-title:
+group-title:
 status: completed
 year-completed: 
 topic:

@@ -1,7 +1,7 @@
 ---
 title: Additional Resources
 order-number: 7
-research-title: Indoor Environmental Quality
+group-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
 topic: Indoor Environmental QUality
