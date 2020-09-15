@@ -15,13 +15,13 @@ What is <q>readily achievable</q> will be different for each manufacturer based 
 
 Telecommunications products covered include:
 
-- wired and wireless telecommunication devices, such as telephones (including pay phones and cellular phones), pagers, and fax machines
-- other products that have a telecommunication service capability, such as computers with modems
+- wired and wireless telecommunication devices, such as telephones (including pay phones and cellular phones), pagers, and fax machines;
+- other products that have a telecommunication service capability, such as computers with modems; and
 - equipment that carriers use to provide services, such as a phone company’s switching equipment.
 
 The possible functions of a product are key in determining coverage. If a product can provide telecommunication services, then that portion is covered.
 
-Manufacturers must ensure that products are "designed, developed, and fabricated to be accessible to and usable by individuals with disabilities" when it is readily achievable to do so. The Access Board was given the job of developing guidelines that spell out what makes telecommunications products accessible. The Board’s final guidelines, published in February 1998, were developed with help from an advisory committee the Board created for this purpose. The Telecommunications Access Advisory Committee included product manufacturers, service providers, disability groups, and experts in communication access. The final guidelines are based on this committee’s recommendations. The Federal Communications Commission is responsible for rules and policies to enforce the law.
+Manufacturers must ensure that products are "designed, developed, and fabricated to be accessible to and usable by individuals with disabilities" when it is readily achievable to do so. The Access Board was given the job of developing guidelines that describe what makes telecommunications products accessible. The Board’s final guidelines, published in February 1998, were developed with help from an ad hoc advisory committee created by the Board. The Telecommunications Access Advisory Committee included product manufacturers, service providers, disability groups, and experts in communication access. The final guidelines are based on this committee’s recommendations. The Federal Communications Commission is responsible for rules and policies to enforce the law.
 
 * * *
 

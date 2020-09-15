@@ -6,7 +6,7 @@ permalink: /about/members.html
 ---
 # Access {{ page.title }}
 
-The Board is structured to function as a coordinating body among federal agencies and to directly represent the public, particularly people with disabilities.  Twelve members of the governing Board are representatives from most of the federal departments.  The other thirteen are comprised of members of the public appointed by the President to four-year terms.  Every year the Board elects officers, including a chair and vice-chair.  These posts alternate between a public and a federal member.
+The Board is structured to function as a coordinating body among federal agencies and directly represent the public, particularly people with disabilities.  Twelve members of the governing Board are representatives from most of the federal departments.  The other thirteen are comprised of members of the public appointed by the President to four-year terms.  Every year the Board elects officers, including a chair and vice-chair.  These posts alternate between a public and a federal member.
 
 Members of the public who wish to seek appointment to the Access Board should contact the White House Office of Presidential Personnel at 202-456-9713 or visit the [White House website](https://apply.whitehouse.gov).
 

@@ -9,11 +9,11 @@ status: current
 president: Obama
 image: /images/uploads/mccollough.jpg
 bio: >-
-  Mathew McCollough, M.P.A. of Washington, D.C. is the Director of the District
-  of Columbia Office of Disability Rights (ODR) which ensures access to DC
-  programs, services, activities and facilities.  Previously, he served as ODR’s
+  Mathew McCollough, M.P.A. of Washington, D.C., is the Director of the District
+  of Columbia Office of Disability Rights (ODR), which ensures access to DC
+  programs, services, activities, and facilities.  Previously, he served as ODR’s
   Communications Manager and as Executive Director of the DC Developmental
-  Disabilities Council which promotes independence and equal opportunity for
+  Disabilities Council, which promotes independence and equal opportunity for
   individuals with intellectual and developmental disabilities.  He has been
   named to several commissions and boards that focus on health equity and human
   rights, including the DC State Rehabilitation Council, the Mid-Atlantic
