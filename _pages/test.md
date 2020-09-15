@@ -1,6 +1,7 @@
 ---
 title:  Test File
 layout: page
+permalink: /test.html
 ---
 
 page.title is {{ page.title }}  
