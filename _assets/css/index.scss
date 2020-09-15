@@ -22,10 +22,19 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 // Add your SASS/CSS here
 
 // override default gray to get 7:1 contrast ratio
-.usa-nav__secondary-item {
-  color: #595959
+div.usa-nav__secondary ul.usa-nav__secondary-links li.usa-nav__secondary-item a:link {
+  color: #595959;
 }
-  
+div.usa-nav__secondary ul.usa-nav__secondary-links li.usa-nav__secondary-item a:active {
+  color: black;
+}
+div.usa-nav__secondary ul.usa-nav__secondary-links li.usa-nav__secondary-item a:visited {
+  color: gray;
+}
+div.usa-nav__secondary ul.usa-nav__secondary-links li.usa-nav__secondary-item a:hover {
+  background-color: yellow;
+}
+
 // temporary blue class to see how grids work
 .blue {
   background-color: blue;
