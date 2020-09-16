@@ -224,10 +224,10 @@ This document explains requirements in the ABA Standards for outdoor developed a
 
 ## Animations on the ADA and ABA Standards
 
-* [Wheelchair Maneuvering]({{ site.baseurl }}/videos/wheelchair_maneuvering.html) (MP4) (April 2014)  
+* [Wheelchair Maneuvering]({{ site.baseurl }}/ada/guides/animations/#Wheelchair-Maneuvering) (MP4) (April 2014)  
 This 10-minute animation illustrates wheelchair maneuvering and requirements in the ADA and ABA Standards for clearances, floor surfaces, and reach ranges.
 
-* [Maneuvering at Doors]({{ site.baseurl }}/ada/guides/animations/#maneuvering-at-doors) (MP4) (April 2014)  
+* [Maneuvering at Doors]({{ site.baseurl }}/ada/guides/animations/#Maneuvering-at-Doors) (MP4) (April 2014)  
 This 6.5-minute animation explains requirements for maneuvering clearances at doors in the ADA and ABA Standards.
 
 * [Accessible Toilet Rooms]({{ site.baseurl }}/ada/guides/animations/#Accessible-Toilet-Rooms) (MP4) (April 2014)  
