@@ -255,7 +255,7 @@ The clear tread width of trails must be a minimum of 36 inches (figure 2). The 3
 
 Where gates and barriers require users to make 90-degree or 180-degree turns, sufficient space should be provided for people using mobility devices to make the turns (figure 3). Mobility devices that are used in the outdoors typically have a longer wheel base and are wider than mobility devices that are used indoors. The Access Board and National Institute on Disability and Rehabilitation Research sponsored research to collect anthropometric data from a sample of about 500 people who use manual wheelchairs, power wheelchairs, and scooters. The Center for Inclusive Design and Environmental Access in the School of Architecture and Planning, University at Buffalo, The State University of New York conducted the "Anthropometry of Wheeled Mobility Project." The [final report for "Anthropometry of Wheeled Mobility Project"](http://idea.ap.buffalo.edu/wp-content/uploads/sites/110/2020/01/AnthropometryofWheeledMobilityProject_FinalReport.pdf) recommends that, in order to accommodate 95 percent of the users of manual wheelchairs, power wheelchairs, and scooters in the project sample, a minimum clear width of 43 inches is needed to make a 180-degree turn around a barrier similar to a chicane-style gate.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
     text= "Figure 3 - 403.5.2 Clear Width at Turn"
     img-file= "chapter10/outdoor/img_8.jpg"
     img-alt= "Bird's eye view drawings of two configurations allowing people using wheelchairs to negotiate 180-degree turns: a 48- by 84-inch and a 60- by 72-inch space."
@@ -746,7 +746,7 @@ When the surface of the clear ground space is constructed of concrete, asphalt, 
 
 Openings in the surface of the clear ground space must be small enough so that a sphere more than one-half inch in diameter cannot pass through. Where possible, drainage grates should be located outside the clear ground space and elongated openings should be placed perpendicular, or as close to perpendicular as possible, to the dominant direction of travel.
 
-##### Operable Parts [1011.3] 
+##### Operable Parts [1011.3]
 
 ![Operable parts icon]({{ site.baseurl }}{{ page.image-directory }}chapter10/outdoor/img_35.jpg){: .float-right .thumbnail}
 
@@ -842,7 +842,7 @@ The operable parts of utility hookups must be between 15 and 48 inches above the
 
 Because RV dump stations are usually accessed by vehicle, an ORAR is not required to connect to RV dump stations when an accessible vehicle pull-up space is provided at RV dump stations. An accessible vehicle pull-up space must be a minimum of 20 feet wide.
 
-##### Outdoor Rinsing Showers [1011.2, 1011.3, and 1011.7] 
+##### Outdoor Rinsing Showers [1011.2, 1011.3, and 1011.7]
 
 ![Outdoor rinsing shower icon]({{ site.baseurl }}{{ page.image-directory }}chapter10/outdoor/img_50.jpg){: .float-right .thumbnail}
 
@@ -890,7 +890,7 @@ Pit toilets are primitive outhouses that may consist simply of a hole in the gro
 
 ![Line drawing of a pit toilet with no walls]({{ site.baseurl }}{{ page.image-directory }}chapter10/outdoor/img_55.jpg){: .img-large}
 
- 
+
 
 ---
 
@@ -1533,7 +1533,7 @@ The following tables highlight the technical requirements for slope, width, and 
             <th></th>
             <th>Minimum Width</th>
             <th>Surface</th>
-        </tr>    
+        </tr>
     </thead>
 <tbody>
 <tr>

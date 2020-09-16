@@ -61,7 +61,7 @@ used independently of the other.
 {: .advisory}
 **Advisory R103.3 Units of Measurement.** Users should work entirely within one system of measurement, either metric or U.S. customary units. Combining values from the two systems may result in non-compliance.
 
-{# include figure-caption.html
+{# include_cached figure-caption.html
 text= "Figure R103 Graphic Convention for Figures"
 img-file="prowag/103.jpg"
 img-alt= "Dimension lines showing International System of Units (in millimeters
@@ -112,11 +112,11 @@ Transportation Officials, 444 N Capitol Street, NW, Washington, DC 20001
 ([http://www.transportation.org/](http://www.transportation.org/)).
 
 <div class="advisory" markdown="1">
-**Advisory R104.2 MUTCD.** MUTCD definitions and standard statements  
-are referenced in the following sections of this document: 
+**Advisory R104.2 MUTCD.** MUTCD definitions and standard statements
+are referenced in the following sections of this document:
 - R105.2 references definitions in section 1A.13 of the MUTCD;
 - R205 references standard statements in sections 6D.01, 6D.02, 6G.05, 6F.63, 6F.68, and 6F.71 of the MUTCD for providing alternate pedestrian access routes when a pedestrian circulation path is temporarily closed;
-- R209 references standard statements in sections 4E.08 through 4E.13 of the MUTCD for accessible pedestrian signals and pedestrian pushbuttons; and 
+- R209 references standard statements in sections 4E.08 through 4E.13 of the MUTCD for accessible pedestrian signals and pedestrian pushbuttons; and
 - R306.2 references standard statements in section 4E.06 of the MUTCD for pedestrian signal phase timing.
 </div>
 
@@ -160,32 +160,32 @@ corner, or similar connection between the pedestrian access route at
 the level of the sidewalk and the level of the pedestrian street
 crossing that has a grade of 5 percent or less.
 
-*Cross Slope* 
+*Cross Slope*
 : The grade that is perpendicular to the direction of pedestrian travel.
 
-*Curb Line* 
+*Curb Line*
 : A line at the face of the curb that marks the transition between the curb and the gutter, street, or highway.
 
-*Curb Ramp* 
+*Curb Ramp*
 : A ramp that cuts through or is built up to the curb. Curb ramps can be perpendicular or parallel, or a combination of parallel and perpendicular ramps.
 
-*Element* 
+*Element*
 : An architectural or mechanical component of a building, facility, space, site, or public right-of-way.
 
-*Facility* 
+*Facility*
 : All or any portion of buildings, structures, improvements, elements, and pedestrian or vehicular routes located in the public
 right-of-way.
 
-*Grade Break* 
+*Grade Break*
 : The line where two surface planes with different grades meet.
 
-*Operable Part* 
+*Operable Part*
 : A component of an element used to insert or withdraw objects, or to activate, deactivate, or adjust the element.
 
-*Pedestrian Access Route* 
+*Pedestrian Access Route*
 : A continuous and unobstructed path of travel provided for pedestrians with disabilities within or coinciding with a pedestrian circulation path.
 
-*Pedestrian Circulation Path* 
+*Pedestrian Circulation Path*
 : A prepared exterior or interior surface provided for pedestrian travel in the public right-of-way.
 
 *Public Right-of-Way*
@@ -194,11 +194,11 @@ right-of-way.
 *Qualified Historic Facility* 
 : A facility that is listed in or eligible for listing in the National Register of Historic Places, or designated as historic under an appropriate state or local law.
 
-*Running Slope* 
+*Running Slope*
 : The grade that is parallel to the direction of pedestrian travel.
 
 *Shared Use Path*
 : A multi-use path designed primarily for use by bicyclists and pedestrians, including pedestrians with disabilities, for transportation and recreation purposes. Shared use paths are physically separated from motor vehicle traffic by an open space or barrier, and are either within the highway right-of-way or within an independent right-of-way.
 
-*Vertical Surface Discontinuities*  
+*Vertical Surface Discontinuities* 
 : Vertical differences in level between two adjacent surfaces.

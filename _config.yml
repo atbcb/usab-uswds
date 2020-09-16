@@ -340,6 +340,7 @@ defaults:
 
 markdown: kramdown
 plugins:
+  - jekyll-include-cache
   - jekyll-feed
   - jekyll-paginate-v2
   - jekyll-redirect-from
@@ -400,6 +401,11 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
+  # Uncomment below to speed up dev build times
+  # - _ada*
+  # - _prowag*
+  # - _aba*
+  # - _research*
 
 assets:
   sources:

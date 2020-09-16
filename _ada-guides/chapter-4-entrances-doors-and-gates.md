@@ -98,7 +98,7 @@ employee-only entrances requiring keys or access cards or codes but that
 lack the level of security of restricted entrances.
 
 <div class="clearfix border" style="padding: 5px;">
-{%include grid-2col-leftimg-righttextboldstditalic.html
+{%include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter4/4edg6.jpg"
 img-alt= "Two-way communication system at entrance"
 text-title= "<h3>Two-Way Communication Systems</h3> <a href=\"/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-2-scoping-requirements#230%20Two-Way%20Communication%20Systems\">[§230]</a> and <a href=\"/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards/chapter-7-communication-elements-and-features#708%20Two-Way%20Communication%20Systems\">[§708]</a>"

@@ -12,28 +12,28 @@ Four agencies establish the ABA Standards according to guidelines issued by the 
 
 #### Postal Facilities
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter1-aba/1aba-usps.jpg"
 img-alt= "envelope"
 text-title= "Postal Facilities"
 text= "USPS regulations (39 CFR Part 255) and RE-4 Handbook apply the current standards to USPS projects and leases as of October 1, 2005."
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter1-aba/1aba-dod.jpg"
 img-alt= "pentagon"
 text-title= "Defense Facilities"
 text= "A DOD policy memorandum applies the current standards to defense facilities as of October 31, 2008, and exempts facilities or spaces “used exclusively by able-bodied military personnel."
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter1-aba/1aba-hud.jpg"
 img-alt= "house"
 text-title= "Residential Facilities"
 text= "HUD regulations (24 CFR Part 40) apply the standards (currently UFAS) to all residential structures covered by the ABA except those on military installations."
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter1-aba/1aba-gsa.jpg"
 img-alt= "federal building"
 text-title= "All Other Facilities Covered by the ABA"
@@ -83,33 +83,33 @@ The Board also maintains guidelines for non-federal facilities covered by the AD
 
 #### The ABA Standards differ from the ADA Standards in these areas:
 
-##### _Modifications and Waivers (§F103)_  
+##### _Modifications and Waivers (§F103)_
 Requests for a modification or waiver of the ABA Standards must be based on need and processed through the appropriate standard-setting agency, while the ADA Standards permit “equivalent facilitation” alternatives providing equal or greater access.
 
-##### _Work Areas_  
+##### _Work Areas_
 The ABA Standards generally require full access to work areas, while requirements for work areas in the ADA Standards are more limited (§203.9 and §206.2.8).
 
-##### _Additions (§F202.2)_  
+##### _Additions (§F202.2)_
 The ABA Standards provide more stringent requirements for additions.
 
-##### _Leased Facilities (§F202.6)_  
+##### _Leased Facilities (§F202.6)_
 The ABA Standards include requirements for newly leased facilities not contained in the ADA Standards.
 
-##### _Exceptions for Vertical Access/ Elevators (§F206.2.3)_  
+##### _Exceptions for Vertical Access/ Elevators (§F206.2.3)_
 Provisions unique to private sector facilities in the ADA Standards, including an exception from the requirement for vertical access or elevators, are not included in the ABA Standards (a more limited exception for public sector facilities is included in both the ABA and ADA Standards).
 
-##### _Emergency Transportable Housing (§F233, §809)_  
+##### _Emergency Transportable Housing (§F233, §809)_
 The ABA Standards include requirements for emergency transportable housing provided by the government in disasters and emergencies. Corresponding and additional revisions made to §F106.5, § F202.6, §F203.9, §F205.1, §F206, §F208, §F215.5, §F228.2, §405, §409.1, §604.5, §606, §607.4, §608 and §804.3.
 
-##### _Outdoor Developed Areas (§F244 - §F248, §1011 – §1019)_  
+##### _Outdoor Developed Areas (§F244 - §F248, §1011 – §1019)_
 The ABA Standards address access to outdoor areas developed by the federal government, including trails, picnic and camping areas, and beach access routes. The ADA Standards do not yet include similar requirements for non-federal sites.
 
 #### The ADA Standards as implemented by DOT and DOJ include unique provisions not contained in the ABA Standards:
 
-##### _DOT’s ADA Standards for Transportation Facilities_  
+##### _DOT’s ADA Standards for Transportation Facilities_
 DOT’s ADA Standards modify provisions for accessible route location (§206.3), bus stops/stations (§810.2.2), and rail station platform (§810.5.3), and require detectable warnings on curb ramps (§406.8).
 
-##### _DOJ’s ADA Standards and Regulations_  
+##### _DOJ’s ADA Standards and Regulations_
 Unique provisions in the DOJ’s ADA Standards address scoping for assembly areas (221), medical care facilities (223), transient lodging, including housing at places of education (224), detention and correctional facilities (232), and residential dwelling units and social service establishments (233).
 
 ### Model Building Codes and Industry Standards
@@ -126,8 +126,8 @@ The ABA Standards also reference several industry standards, including the ASME 
 
 [[§F101]({{ site.baseurl }}/aba/ch01/#F101-Purpose)]
 
-The ABA Standards apply to newly constructed or leased facilities and to alterations and additions. Since the Board jointly published the ABA guidelines with its ADA guidelines, the letter “F” (for “federal”) precedes section numbers in the application and scoping chapters of the ABA guidelines. While the scoping and technical requirements for new construction also apply to alterations and additions, provisions and exceptions specific to existing facilities and elements are provided throughout the document. Requirements for additions and leased facilities are scoped separately but reference the same technical criteria.  
-  
+The ABA Standards apply to newly constructed or leased facilities and to alterations and additions. Since the Board jointly published the ABA guidelines with its ADA guidelines, the letter “F” (for “federal”) precedes section numbers in the application and scoping chapters of the ABA guidelines. While the scoping and technical requirements for new construction also apply to alterations and additions, provisions and exceptions specific to existing facilities and elements are provided throughout the document. Requirements for additions and leased facilities are scoped separately but reference the same technical criteria.
+
 #### Existing Facilities
 
 In existing facilities, the ABA Standards apply directly to altered areas and additions. While the ABA does not have retrofit mandates, other laws do. Section 504 of the Rehabilitation Act, which requires access to federally funded or conducted programs, may necessitate retrofits where no alterations are planned. While this “program access” requirement can sometimes be satisfied operationally, such as by relocating a program, in many cases retrofits to existing facilities are necessary. The Rehabilitation Act also requires accommodations for employees with disabilities in the federal sector under Section 501.
@@ -185,8 +185,8 @@ Requests for modifications or waivers are reviewed by designated officials or de
 
 [[§F104]({{ site.baseurl }}/aba/ch01/#F104-Conventions)]
 
-Most dimensions in the standards are specified as a minimum, maximum, or range. In a few areas, an absolute dimension is specified.  
-  
+Most dimensions in the standards are specified as a minimum, maximum, or range. In a few areas, an absolute dimension is specified.
+
 #### Construction and Manufacturing Tolerances
 
 A tolerance is an unintended, but permitted (i.e., “tolerated”), variation from a specified dimension resulting from the process of construction or manufacture. The ABA Standards recognize conventional industry tolerances for dimensions not expressed as a range. This applies to field work, not design work. Tolerances necessary for a particular manufacturing process are also permitted. Information on specific tolerances may be available from industry and trade organizations, code groups and building officials, and published references.
