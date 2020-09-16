@@ -150,12 +150,12 @@ An introduction to the Guide on the ABA Accessibility Standards and how it is to
 [PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/using-ABA-standards.pdf) (February 2014)  
 This document explains the general application and purpose of the ADA Standards.
 
-* [Guide to the ABA Standards: New Construction]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-2-new-construction) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1557/new-construction.pdf) (February 2014)  
+* [Guide to the ABA Standards: New Construction]({{ site.baseurl }}/aba/guides/chapter-2-new-construction/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/new-construction-aba.pdf) (February 2014)  
 This document covers application of the ABA Standards in new construction of facilities, including general exceptions and scoping provisions for elements and spaces.
 
-* [Guide to the ABA Standards: Alterations, Additions, Leases]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-2-alterations,-additions,-and-leases) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1552/alterations-ABA.pdf) (February 2014)  
+* [Guide to the ABA Standards: Alterations, Additions, Leases]({{ site.baseurl }}https://beta.access-board.gov/aba/guides/chapter-2-alterations-additions-and-leases/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/alterations-aba.pdf) (February 2014)  
 This document clarifies how the ABA Standards apply to alterations, additions, and leases. 
 
 * [Guide to the ABA Standards: Floor and Ground Surfaces]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-3-floor-and-ground-surfaces) (HTML)
