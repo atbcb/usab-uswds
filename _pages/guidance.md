@@ -170,8 +170,8 @@ This document explains requirements in the ABA Standards for clear floor or grou
 [PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/operable-parts-ABA.pdf) (February 2014)  
 This document explains requirements in the ABA Standards for operable parts, including light switches, electrical and communication receptacles, thermostats, alarm pulls, automatic door controls, and other elements used by facility occupants.
 
-* [Guide to the ABA Standards: Protruding Objects]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-3-protruding-objects) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1556/protruding%20objects-ABA.pdf) (February 2014)  
+* [Guide to the ABA Standards: Protruding Objects]({{ site.baseurl }}/aba/guides/chapter-3-protruding-objects/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/protruding-objects-ABA.pdf) (February 2014)  
 This document explains requirements in the ABA Standards for protruding objects and preventing hazards to people with vision impairments.
 
 * [Guide to the ABA Standards: Accessible Routes]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-4-accessible-routes) (HTML)
