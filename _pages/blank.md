@@ -2,7 +2,7 @@
 title: BlankishNewPage
 layout: page
 sidenav: false
-permalink: /path/
+permalink: /path/filename.md
 ---
 
 # {{ page.title }}
