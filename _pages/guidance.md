@@ -224,32 +224,31 @@ This document explains requirements in the ABA Standards for outdoor developed a
 
 ## Animations on the ADA and ABA Standards
 
-* [Wheelchair Maneuvering]({% include video/video-file-player.html "Wheelchair Maneuvering" {{ site.baseurl }}/files/videos/wheelchair_maneuvering.mp4 {{ site.baseurl }}/files/captions/wheelchair_maneuvering.vtt %}) (MP4) (April 2014)  
+* [Wheelchair Maneuvering]({{ site.baseurl }}/videos/wheelchair_maneuvering.html) (MP4) (April 2014)  
 This 10-minute animation illustrates wheelchair maneuvering and requirements in the ADA and ABA Standards for clearances, floor surfaces, and reach ranges.
 
-* [Maneuvering at Doors]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (April 2014)  
+* [Maneuvering at Doors]({{ site.baseurl }}/ada/guides/animations/#maneuvering-at-doors) (MP4) (April 2014)  
 This 6.5-minute animation explains requirements for maneuvering clearances at doors in the ADA and ABA Standards.
 
-* [Accessible Toilet Rooms]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (April 2014)  
+* [Accessible Toilet Rooms]({{ site.baseurl }}/ada/guides/animations/#Accessible-Toilet-Rooms) (MP4) (April 2014)  
 This 7.5-minute animation explains requirements for accessible toilet rooms in the ADA and ABA Standards.
 
-* [Accessible Bathing Facilities]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (April 2014)  
+* [Accessible Bathing Facilities]({{ site.baseurl }}/ada/guides/animations/#Accessible-Bathing-Facilities) (MP4) (April 2014)  
 This 8-minute animation explains requirements for accessible bathing facilities in the ADA and ABA Standards.
 
-* [Protruding Objects]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (July 2015)  
+* [Protruding Objects]({{ site.baseurl }}/ada/guides/animations/#Protruding-Objects) (MP4) (July 2015)  
 This 9.5-minute animation explains requirements for protruding objects in the ADA and ABA Standards.
 
-* [Parking and Passenger Loading Zones]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (June 2016)  
+* [Parking and Passenger Loading Zones]({{ site.baseurl }}/ada/guides/animations/#Parking-and-Pasenger-Loading-Zones) (MP4) (June 2016)  
 This 8-minute animation explains requirements in the ADA and ABA Standards for accessible parking and passenger loading zones on sites.
 
-* [Signs]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (January 2017)  
+* [Signs]({{ site.baseurl }}/ada/guides/animations/#Signs) (MP4) (January 2017)  
 This 15-minute animation explains requirements for signs in the ADA and ABA Standards.
 
-* [Sales and Service Counters]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (July 2018)  
+* [Sales and Service Counters]({{ site.baseurl }}/ada/guides/animations/#Sales-and-Service-Counters) (MP4) (July 2018)  
 This 12-minute animation explains requirements in the ADA and ABA Standards for sales and service counters, check-out aisles, and food service lines.
 
 ## Guidance on the ADA Accessibility Guidelines for Transportation Vehicles
-
 
 * [Guides to the ADA Guidelines for Transportation Vehicles]({{ site.baseurl }}/guidelines-and-standards/transportation/vehicles/technical-assistance-manuals-on-adaag-for-transportation-vehicles) (HTML) (October 1992)  
 This document explains requirements in the ADA Accessibility Guidelines for Transportation Vehicles, including buses, vans, and rail vehicles.
