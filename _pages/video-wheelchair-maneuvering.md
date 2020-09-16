@@ -2,7 +2,7 @@
 title: Wheelchair Maneuvering Animation
 layout: page
 sidenav: false
-permalink: /videos/wheelchair_maneuvering.md
+permalink: /videos/wheelchair_maneuvering.html
 ---
 
 # {{ page.title }}
