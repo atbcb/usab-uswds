@@ -151,23 +151,23 @@ An introduction to the Guide on the ABA Accessibility Standards and how it is to
 This document explains the general application and purpose of the ADA Standards.
 
 * [Guide to the ABA Standards: New Construction]({{ site.baseurl }}/aba/guides/chapter-2-new-construction/) (HTML)
-[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/new-construction-aba.pdf) (February 2014)  
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/new-construction-ABA.pdf) (February 2014)  
 This document covers application of the ABA Standards in new construction of facilities, including general exceptions and scoping provisions for elements and spaces.
 
-* [Guide to the ABA Standards: Alterations, Additions, Leases]({{ site.baseurl }}https://beta.access-board.gov/aba/guides/chapter-2-alterations-additions-and-leases/) (HTML)
-[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/alterations-aba.pdf) (February 2014)  
+* [Guide to the ABA Standards: Alterations, Additions, Leases]({{ site.baseurl }}/aba/guides/chapter-2-alterations-additions-and-leases/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/alterations-ABA.pdf) (February 2014)  
 This document clarifies how the ABA Standards apply to alterations, additions, and leases. 
 
-* [Guide to the ABA Standards: Floor and Ground Surfaces]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-3-floor-and-ground-surfaces) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1554/surfaces-ABA.pdf) (February 2014)  
+* [Guide to the ABA Standards: Floor and Ground Surfaces]({{ site.baseurl }}/aba/guides/chapter-3-clear-floor-or-ground-space-and-turning-space/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/clear-floor-space-ABA.pdf) (February 2014)  
 This document explains requirements in the ABA Standards for floor and ground surfaces, including surface characteristics, carpeting, openings, and changes in level. 
 
-* [Guide to the ABA Standards: Clear Floor or Ground Space and Turning Space]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-3-clear-floor-or-ground-space-and-turning-space) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1553/clear%20floor%20sapce-ABA.pdf) (February 2014)  
+* [Guide to the ABA Standards: Clear Floor or Ground Space and Turning Space]({{ site.baseurl }}/aba/guides/chapter-3-clear-floor-or-ground-space-and-turning-space/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/clear-floor-space-ABA.pdf) (February 2014)  
 This document explains requirements in the ABA Standards for clear floor or ground space and turning space.
 
-* [Guide to the ABA Standards: Operable Parts]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-3-operable-parts) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1555/operable%20parts-ABA.pdf) (February 2014)  
+* [Guide to the ABA Standards: Operable Parts]({{ site.baseurl }}/aba/guides/chapter-3-operable-parts) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/operable-parts-ABA.pdf) (February 2014)  
 This document explains requirements in the ABA Standards for operable parts, including light switches, electrical and communication receptacles, thermostats, alarm pulls, automatic door controls, and other elements used by facility occupants.
 
 * [Guide to the ABA Standards: Protruding Objects]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-3-protruding-objects) (HTML)
