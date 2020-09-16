@@ -1,5 +1,11 @@
+---
+title: Wheelchair Maneuvering Animation
+layout: page
+sidenav: false
+permalink: /videos/wheelchair_maneuvering.md
+---
 
-## Wheelchair Maneuvering
+# {{ page.title }}
 
 <video
   id="wheelchair-maneuvering-video"
