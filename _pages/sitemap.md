@@ -1,8 +1,11 @@
 ---
+title: Site Map
 layout: page
+permalink: /sitemap.html
 ---
-<h1>Site map</h1>
-<p>Looking for a specific page on our website? See the list of webpages below, or email us for more information</p>
+# Site map
+
+Looking for a specific page on our website? See the list of webpages below, or email us for more information</p>
 
 {% assign collections = site.collections | where_exp:'collection','collection.output != false' %}
 {% for collection in collections %}
