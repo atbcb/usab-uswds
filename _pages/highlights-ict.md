@@ -31,7 +31,7 @@ On January 22, 2018, the Board corrected the final rule to restore provisions fo
 
 - [Final Rule](..) (January 18, 2017)
     - [News Release](https://www.access-board.gov/index.php?option=com_content&view=article&id=1889) (January 9, 2017)
-    - [Notice Postponing Final Rule Effective Date by One Day](..) (March 2, 2017)
+    - [Notice Postponing Final Rule Effective Date by One Day](https://www.federalregister.gov/documents/2017/03/02/2017-04059/information-and-communication-technology-ict-standards-and-guidelines) (March 2, 2017)
     - [Correction to the Final Rule](..) (January 22, 2018)
     - [Final Regulatory Impact Analysis](https://www.regulations.gov/document?D=ATBCB-2015-0002-0143) (January 5, 2017)
 - [Overview of the Final Rule](..)
