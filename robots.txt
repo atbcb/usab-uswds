@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /test.html
+Disallow: /files/
+Sitemap: https://beta.access-board.gov/sitemap.xml
+Crawl-delay: 10
+User-agent: usasearch
+Crawl-delay: 2
