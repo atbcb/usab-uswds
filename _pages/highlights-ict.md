@@ -13,7 +13,7 @@ permalink: /ict.html
 ## Revised Seciton 508 Standards and Section 255 Guidelines (2017)
 
 {% asset icon-tablet-refresh.png class="usa-media-block__img" alt="smart-phone refresh icon" %}
-On January 18, 2017, the Access Board published a [final rule](..) that jointly updates requirements for information and communication technology covered by Section 508 of the Rehabilitation Act and Section 255 of the Communication Act.&nbsp;
+On January 18, 2017, the Access Board published a [final rule]({{ site.baseurl }}/ict/) that jointly updates requirements for information and communication technology covered by Section 508 of the Rehabilitation Act and Section 255 of the Communication Act.&nbsp;
 
 The Section 508 Standards apply to electronic and information technology procured by the federal government, including computer hardware and software, websites, multimedia such as video, phone systems, and copiers.&nbsp;
 The Section 508 Standards are part of the Federal Acquisition Regulation (FAR) and address access for people with physical, sensory, or cognitive disabilities.&nbsp;
