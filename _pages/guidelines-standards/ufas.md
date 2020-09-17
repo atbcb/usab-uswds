@@ -5,7 +5,7 @@ sidenav: false
 permalink: /sarahufas.html
 ---
 
-#Uniform Federal Accessibility Standards (UFAS)
+# { page.title }
 
 [Introduction](#introduction)
 [1. Purpose](#1-purpose)
