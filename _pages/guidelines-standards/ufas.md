@@ -1,10 +1,9 @@
 ---
-title: "Uniform Federal Accessibility Standards (UFAS)"
-layout: page
+title: Uniform Federal Accessibility Standards (UFAS)
+layout: standards
 sidenav: true
-permalink: /sarahufas.html/
+permalink: /sarahufas.html
 ---
-
 
 #Uniform Federal Accessibility Standards (UFAS)
 
