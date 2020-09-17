@@ -1,32 +1,39 @@
-Uniform Federal Accessibility Standards (UFAS)
-----------------------------------------------
+---
+title: "Uniform Federal Accessibility Standards (UFAS)"
+layout: page
+sidenav: true
+permalink: /sarahufas.html/
+---
 
--   [Introduction](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#intro)
--   [1\. Purpose](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#1)
 
-**2\. GENERAL**
+#Uniform Federal Accessibility Standards (UFAS)
 
--   [2.1 Authority](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#2.1)
--   [2.2 Provisions for Adults](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#2.2)
+[Introduction](#introduction)
+[1. Purpose](#1-purpose)
 
-**3\. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS**
+**2. GENERAL**
 
--   [3.1 Graphic Conventions](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#3.1)
--   [3.2 Dimensional Tolerances](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#3.2)
--   [3.3 Notes](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#3.3)
--   [3.4 General Terminology](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#3.4)
--   [3.5 Definitions](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#3.5)
+-   [2.1 Authority](#21-authority)
+-   [2.2 Provisions for Adults](#22-provisions-for-adults)
 
-**4\. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS**
+**3. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS**
+
+-   [3.1 Graphic Conventions](#31-graphic-conventions)
+-   [3.2 Dimensional Tolerances](#32-dimensional-tolerances)
+-   [3.3 Notes](#33-notes)
+-   [3.4 General Terminology](#34-general-terminology)
+-   [3.5 Definitions](#35-definitions)
+
+**4. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS**
 
 **4.1 Minimum Requirements**
 
--   [4.1.1 Accessible Sites and Exterior Facilities: New Construction](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.1.1)
--   [4.1.2 Accessible Buildings: New Construction](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.1.2)
--   [4.1.3 Accessible Housing](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.1.3)
--   [4.1.4 Occupancy Classifications](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.1.4)
--   [4.1.5 Accessible Buildings: Additions](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.1.5)
--   [4.1.6 Accessible Buildings: Alterations](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.1.6)
+-   [4.1.1 Accessible Sites and Exterior Facilities: New Construction](#411-accessible-sites-and-exterior-facilities-new-construction)
+-   [4.1.2 Accessible Buildings: New Construction](#412-accessible-buildings-new-construction)
+-   [4.1.3 Accessible Housing](#413-accessible-housing)
+-   [4.1.4 Occupancy Classifications](#414-occupancy-classifications)
+-   [4.1.5 Accessible Buildings: Additions](#415-accessible-buildings-additions)
+-   [4.1.6 Accessible Buildings: Alterations](#416-accessible-buildings-alterations)
 -   [4.1.7 Accessible Buildings: Historic Preservation](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.1.7)
 -   [4.2 Space Allowance and Reach Ranges](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.2)
 -   [4.3 Accessible Route](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.3)
