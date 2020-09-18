@@ -1,6 +1,7 @@
 ---
 title:  Test File
-layout: page
+layout: standards
+sidenav: true
 permalink: /test.html
 ---
 
