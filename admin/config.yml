@@ -105,21 +105,18 @@ collections:
           format: "LLL",
           dateFormat: "MMMM D, YYYY",
           timeFormat: "hh:mm a",
-          default: '',
           required: false,
         }
       - {
           label: "Registration Link",
           name: "registration-link",
           widget: "string",
-          default: '',
           required: false,
         }
       - {
           label: "Recorded webinar video Link",
           name: "video-link",
           widget: "string",
-          default: '',
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }

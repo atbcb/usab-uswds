@@ -11,9 +11,6 @@ tags:
   - trainings
 webinar: false
 webinar-start: 'September 21, 2020 12:00 AM'
-webinar-end: ''
-registration-link: ''
-video-link: ''
 ---
 
 
