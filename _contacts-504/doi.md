@@ -1,10 +1,10 @@
 ---
 name: doi
 full_name: Department of the Interior
-contact: Mr. Melvin C. Fowler
-job-title: 'Staff Assistant '
-department: ' Civil Rights Office of the Secretary, Office for Equal Opportunity'
-email: melvin_c_fowler@ios.doi.gov
+contact: 'Mr. Melvin C. Fowler'
+job-title: 'Staff Assistant'
+department: 'Civil Rights Office of the Secretary, Office for Equal Opportunity'
+email: 'melvin_c_fowler@ios.doi.gov'
 phone: (202) 208-3455
 phone-g: ''
 tty: ''
