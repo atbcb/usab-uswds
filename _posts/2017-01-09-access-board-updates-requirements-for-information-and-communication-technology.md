@@ -8,7 +8,7 @@ excerpt: >-
   sector covered by Section 508 of the Rehabilitation Act. The rule also
   refreshes guidelines for telecommunications equipment subject to Section 255
   of the Communications Act.
-image: /images/uploads/awrs.png
+image: /images/508-refresh.jpg
 image_alt_text: 508 / 255 Refresh badge
 webinar: false
 webinar-start: ''
@@ -16,7 +16,7 @@ webinar-end: ''
 registration-link: ''
 video-link: ''
 ---
-The Access Board today released a \[final rule]({{ site.baseur }}/ict/preamble/) that updates accessibility requirements for information and communication technology (ICT) in the federal sector covered by Section 508 of the Rehabilitation Act. The rule also refreshes guidelines for telecommunications equipment subject to Section 255 of the Communications Act.
+The Access Board today released a [final rule]({{ site.baseur }}/ict/preamble/) that updates accessibility requirements for information and communication technology (ICT) in the federal sector covered by Section 508 of the Rehabilitation Act. The rule also refreshes guidelines for telecommunications equipment subject to Section 255 of the Communications Act.
 
 “This update is essential to ensure that the Board’s Section 508 standards and the Communications Act guidelines keep pace with the ever-changing technologies covered and continue to meet the access needs of people with disabilities,” states Sachin Pavithran, Chair of the Board’s ICT ad hoc committee. “The Access Board is grateful for the input it received from the public and stakeholders throughout the rulemaking process which greatly enhanced the final product.”
 
@@ -32,4 +32,4 @@ The rule will take effect in one year. The Section 508 standards, which are inco
 
 The Board will conduct a [webinar](https://www.accessibilityonline.org/ao/session/?id=110588) on the rule on February 2.
 
-For further information, visit the Board’s \[website]({{ site.baseurl }}/ict/) or contact Timothy Creagan at 202-272-0016 (v), 202-272-0074 (TTY), or [508@access-board.gov](mailto:508@access-board.gov).
+For further information, visit the Board’s [website]({{ site.baseurl }}/ict/) or contact Timothy Creagan at 202-272-0016 (v), 202-272-0074 (TTY), or <508@access-board.gov>.
