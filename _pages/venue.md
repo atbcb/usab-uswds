@@ -14,7 +14,7 @@ The 2,720 square foot space, which is located two floors below the Board’s 10t
 
 To inquire about use of the space, please contact [Rose Marie Bunales](mailto:bunales@access-board.gov).
 
-![examples of VSA Art]({ site.baseurl }/images/vsa-art-examples.jpg)
+![examples of VSA Art]({{ site.baseurl }}/images/vsa-art-examples.jpg)
 
 ![VSA arts logo]({{ site.baseurl }}/images/vsa.jpg){: .img-right}
 
