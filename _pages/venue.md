@@ -7,8 +7,6 @@ permalink: /about/venue.html
 
 # Board {{ page.title }}
 
-![photo of board meeting in conference space]({% asset conf-space.jpg" %}){{.img-right}
-
 ![photo of board meeting in conference space]({{ site.baseurl }}/images/conf-space.jpg){{.img-right}
 
 Board meetings and other events are held at the Board’s conference space at 1331 F Street NW, Suite 800, in downtown Washington, DC.&nbsp;
@@ -27,7 +25,7 @@ The conference space showcases artwork provided by VSA Arts.
 The Board’s offices and meeting space are located in downtown Washington, DC on F Street, Northwest, mid-block between 13th and 14th streets.&nbsp;
 Metro Center is the closest metro station which has entrances/exits at 12th and G Streets (elevator), 13th and G Streets (escalator and stairs), and 12th and F Streets (escalator and stairs).
 
-![map of downtown DC showing Board location on F Street]({{ site.baseur }}/images/map2.jpg)
+![map of downtown DC showing Board location on F Street]({{ site.baseurl }}/images/map2.jpg)
 
 ### Directions from Metro:
 
