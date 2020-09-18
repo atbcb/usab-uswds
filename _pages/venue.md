@@ -7,7 +7,7 @@ permalink: /about/venue.html
 
 # Board {{ page.title }}
 
-![photo of board meeting in conference space]({{ site.baseurl }}/images/conf-space.jpg){{.img-right}
+![photo of board meeting in conference space]({{ site.baseurl }}/images/conf-space.jpg){: .img-right}
 
 Board meetings and other events are held at the Board’s conference space at 1331 F Street NW, Suite 800, in downtown Washington, DC.&nbsp;
 The 2,720 square foot space, which is located two floors below the Board’s 10th floor offices, features an integrated assistive listening loop system that fully covers meeting and spectator areas, ceiling-mounted projectors, automated projection screens, supplementary monitors, and artwork made available by Easter Seals and VSA Arts.
@@ -16,7 +16,7 @@ To inquire about use of the space, please contact [Rose Marie Bunales](mailto:bu
 
 ![examples of VSA Art]({ site.baseurl }/images/vsa-art-examples.jpg)
 
-![VSA arts logo]({{ site.baseurl }}/images/vsa.jpg){{.img-right}
+![VSA arts logo]({{ site.baseurl }}/images/vsa.jpg){: .img-right}
 
 The conference space showcases artwork provided by VSA Arts.
 
