@@ -13,7 +13,7 @@ permalink: /ict.html
 ## Revised Seciton 508 Standards and Section 255 Guidelines (2017)
 
 {% asset icon-tablet-refresh.png class="usa-media-block__img" alt="smart-phone refresh icon" %}
-On January 18, 2017, the Access Board published a [final rule](..) that jointly updates requirements for information and communication technology covered by Section 508 of the Rehabilitation Act and Section 255 of the Communication Act.&nbsp;
+On January 18, 2017, the Access Board published a [final rule]({{ site.baseurl }}/ict/) that jointly updates requirements for information and communication technology covered by Section 508 of the Rehabilitation Act and Section 255 of the Communication Act.&nbsp;
 
 The Section 508 Standards apply to electronic and information technology procured by the federal government, including computer hardware and software, websites, multimedia such as video, phone systems, and copiers.&nbsp;
 The Section 508 Standards are part of the Federal Acquisition Regulation (FAR) and address access for people with physical, sensory, or cognitive disabilities.&nbsp;
@@ -29,10 +29,10 @@ On January 22, 2018, the Board corrected the final rule to restore provisions fo
 
 ### Final Rule Updating the ICT Standards and Guidelines
 
-- [Final Rule](..) (January 18, 2017)
-    - [News Release](https://www.access-board.gov/index.php?option=com_content&view=article&id=1889) (January 9, 2017)
-    - [Notice Postponing Final Rule Effective Date by One Day](..) (March 2, 2017)
-    - [Correction to the Final Rule](..) (January 22, 2018)
+- [Final Rule]({{ site.baseurl }}/ict/) (January 18, 2017)
+    - [News Release]({{ site.baseurl }}/2017/01/09/access-board-updates-requirements-for-information-and-communication-technology/) (January 9, 2017)
+    - [Notice Postponing Final Rule Effective Date by One Day](https://www.federalregister.gov/documents/2017/03/02/2017-04059/information-and-communication-technology-ict-standards-and-guidelines) (March 2, 2017)
+    - [Correction to the Final Rule](https://www.federalregister.gov/documents/2018/01/22/2018-00848/information-and-communication-technology-ict-standards-and-guidelines) (January 22, 2018)
     - [Final Regulatory Impact Analysis](https://www.regulations.gov/document?D=ATBCB-2015-0002-0143) (January 5, 2017)
 - [Overview of the Final Rule](..)
 - Archives from [Section 508 Best Practices Webinar Series](https://www.accessibilityonline.org/cioc-508) specific to the Revised 508 Standards:
