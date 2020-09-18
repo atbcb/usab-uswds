@@ -150,28 +150,28 @@ An introduction to the Guide on the ABA Accessibility Standards and how it is to
 [PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/using-ABA-standards.pdf) (February 2014)  
 This document explains the general application and purpose of the ADA Standards.
 
-* [Guide to the ABA Standards: New Construction]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-2-new-construction) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1557/new-construction.pdf) (February 2014)  
+* [Guide to the ABA Standards: New Construction]({{ site.baseurl }}/aba/guides/chapter-2-new-construction/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/new-construction-ABA.pdf) (February 2014)  
 This document covers application of the ABA Standards in new construction of facilities, including general exceptions and scoping provisions for elements and spaces.
 
-* [Guide to the ABA Standards: Alterations, Additions, Leases]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-2-alterations,-additions,-and-leases) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1552/alterations-ABA.pdf) (February 2014)  
+* [Guide to the ABA Standards: Alterations, Additions, Leases]({{ site.baseurl }}/aba/guides/chapter-2-alterations-additions-and-leases/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/alterations-ABA.pdf) (February 2014)  
 This document clarifies how the ABA Standards apply to alterations, additions, and leases. 
 
-* [Guide to the ABA Standards: Floor and Ground Surfaces]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-3-floor-and-ground-surfaces) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1554/surfaces-ABA.pdf) (February 2014)  
+* [Guide to the ABA Standards: Floor and Ground Surfaces]({{ site.baseurl }}/aba/guides/chapter-3-clear-floor-or-ground-space-and-turning-space/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/clear-floor-space-ABA.pdf) (February 2014)  
 This document explains requirements in the ABA Standards for floor and ground surfaces, including surface characteristics, carpeting, openings, and changes in level. 
 
-* [Guide to the ABA Standards: Clear Floor or Ground Space and Turning Space]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-3-clear-floor-or-ground-space-and-turning-space) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1553/clear%20floor%20sapce-ABA.pdf) (February 2014)  
+* [Guide to the ABA Standards: Clear Floor or Ground Space and Turning Space]({{ site.baseurl }}/aba/guides/chapter-3-clear-floor-or-ground-space-and-turning-space/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/clear-floor-space-ABA.pdf) (February 2014)  
 This document explains requirements in the ABA Standards for clear floor or ground space and turning space.
 
-* [Guide to the ABA Standards: Operable Parts]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-3-operable-parts) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1555/operable%20parts-ABA.pdf) (February 2014)  
+* [Guide to the ABA Standards: Operable Parts]({{ site.baseurl }}/aba/guides/chapter-3-operable-parts) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/operable-parts-ABA.pdf) (February 2014)  
 This document explains requirements in the ABA Standards for operable parts, including light switches, electrical and communication receptacles, thermostats, alarm pulls, automatic door controls, and other elements used by facility occupants.
 
-* [Guide to the ABA Standards: Protruding Objects]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-3-protruding-objects) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1556/protruding%20objects-ABA.pdf) (February 2014)  
+* [Guide to the ABA Standards: Protruding Objects]({{ site.baseurl }}/aba/guides/chapter-3-protruding-objects/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/protruding-objects-ABA.pdf) (February 2014)  
 This document explains requirements in the ABA Standards for protruding objects and preventing hazards to people with vision impairments.
 
 * [Guide to the ABA Standards: Accessible Routes]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-4-accessible-routes) (HTML)
@@ -224,32 +224,31 @@ This document explains requirements in the ABA Standards for outdoor developed a
 
 ## Animations on the ADA and ABA Standards
 
-* [Wheelchair Maneuvering]({{ site.baseurl }}/ada/guides/animations) (MP4) (April 2014)  
+* [Wheelchair Maneuvering]({{ site.baseurl }}/ada/guides/animations/#Wheelchair-Maneuvering) (MP4) (April 2014)  
 This 10-minute animation illustrates wheelchair maneuvering and requirements in the ADA and ABA Standards for clearances, floor surfaces, and reach ranges.
 
-* [Maneuvering at Doors]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (April 2014)  
+* [Maneuvering at Doors]({{ site.baseurl }}/ada/guides/animations/#Maneuvering-at-Doors) (MP4) (April 2014)  
 This 6.5-minute animation explains requirements for maneuvering clearances at doors in the ADA and ABA Standards.
 
-* [Accessible Toilet Rooms]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (April 2014)  
+* [Accessible Toilet Rooms]({{ site.baseurl }}/ada/guides/animations/#Accessible-Toilet-Rooms) (MP4) (April 2014)  
 This 7.5-minute animation explains requirements for accessible toilet rooms in the ADA and ABA Standards.
 
-* [Accessible Bathing Facilities]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (April 2014)  
+* [Accessible Bathing Facilities]({{ site.baseurl }}/ada/guides/animations/#Accessible-Bathing-Facilities) (MP4) (April 2014)  
 This 8-minute animation explains requirements for accessible bathing facilities in the ADA and ABA Standards.
 
-* [Protruding Objects]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (July 2015)  
+* [Protruding Objects]({{ site.baseurl }}/ada/guides/animations/#Protruding-Objects) (MP4) (July 2015)  
 This 9.5-minute animation explains requirements for protruding objects in the ADA and ABA Standards.
 
-* [Parking and Passenger Loading Zones]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (June 2016)  
+* [Parking and Passenger Loading Zones]({{ site.baseurl }}/ada/guides/animations/#Parking-and-Pasenger-Loading-Zones) (MP4) (June 2016)  
 This 8-minute animation explains requirements in the ADA and ABA Standards for accessible parking and passenger loading zones on sites.
 
-* [Signs]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (January 2017)  
+* [Signs]({{ site.baseurl }}/ada/guides/animations/#Signs) (MP4) (January 2017)  
 This 15-minute animation explains requirements for signs in the ADA and ABA Standards.
 
-* [Sales and Service Counters]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations) (MP4) (July 2018)  
+* [Sales and Service Counters]({{ site.baseurl }}/ada/guides/animations/#Sales-and-Service-Counters) (MP4) (July 2018)  
 This 12-minute animation explains requirements in the ADA and ABA Standards for sales and service counters, check-out aisles, and food service lines.
 
 ## Guidance on the ADA Accessibility Guidelines for Transportation Vehicles
-
 
 * [Guides to the ADA Guidelines for Transportation Vehicles]({{ site.baseurl }}/guidelines-and-standards/transportation/vehicles/technical-assistance-manuals-on-adaag-for-transportation-vehicles) (HTML) (October 1992)  
 This document explains requirements in the ADA Accessibility Guidelines for Transportation Vehicles, including buses, vans, and rail vehicles.
