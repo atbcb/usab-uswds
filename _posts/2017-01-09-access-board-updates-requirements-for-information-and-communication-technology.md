@@ -32,4 +32,4 @@ The rule will take effect in one year. The Section 508 standards, which are inco
 
 The Board will conduct a [webinar](https://www.accessibilityonline.org/ao/session/?id=110588) on the rule on February 2.
 
-For further information, visit the Board’s \[website]({{ site.baseurl }}/ict/) or contact Timothy Creagan at 202-272-0016 (v), 202-272-0074 (TTY), or [508@access-board.gov](mailto:508@access-board.gov).
+For further information, visit the Board’s [website]({{ site.baseurl }}/ict/) or contact Timothy Creagan at 202-272-0016 (v), 202-272-0074 (TTY), or <508@access-board.gov>.
