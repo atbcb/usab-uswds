@@ -6,13 +6,12 @@ chair: false
 vice-chair: false
 member: federal
 status: current
-president: 
 image: /images/uploads/allison-brigati.jpg
 bio: >-
   Allison Fahrenkopf Brigati serves as deputy administrator of the U.S. General
   Services Administration (GSA). Brigati began her GSA service in July 2017 as
-  the associate administrator of GSA’s Office of Governmentwide-Policy. Prior
-  to joining GSA, she served as the general counsel and director of strategic
+  the associate administrator of GSA’s Office of Governmentwide-Policy. Prior to
+  joining GSA, she served as the general counsel and director of strategic
   initiatives for the National Academy of Public Administration where she
   provided counsel to the senior leadership team, including its president and
   board of directors, regarding various legal and policy matters. Previously,
