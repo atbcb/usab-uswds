@@ -176,6 +176,15 @@ li.usa-nav__secondary-item a {
 //add shading to even rows in data tables
 table.data tr:nth-child(even) {background-color: #f2f2f2;}
 
+//layout tables used in ict preamble
+table.layouttable {
+  border-collapse: collapse;
+}
+
+table.layouttable, table.layouttable tr {
+  border: 1px solid black;
+}
+
 //doesn't seem to work; added style to include figure-caption.html
 figcaption {
   font-weight: bold;
