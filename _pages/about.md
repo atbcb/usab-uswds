@@ -1,6 +1,6 @@
 ---
 title: About the U.S. Access Board
-layout: page
+layout: pagetoc
 sidenav: true
 permalink: /about/
 ---
