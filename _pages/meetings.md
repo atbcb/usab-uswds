@@ -7,7 +7,7 @@ permalink: /about/meetings.html
 
 # {{ page.title }}
 
-<img src="../img/webcast.jpg" alt="photo of laptop with meeting on screen" align="right" width="169">
+![photo of laptop with meeting on screen]({{ site.baseurl }}/images/webcast.jpg){: .img-right}
 
 Members of the Access Board meet every two months, and these meetings are primarily open to the public. 
 The meetings typically span three days, with the first two days usually dedicated to committee meetings and presentations and the afternoon of the third day devoted to the agenda of the full Board. 
@@ -15,20 +15,21 @@ The meetings are webcast live, as well as archived.
 
 The next committee and Board meetings will be:
 
-> ***September 14 - 16, 2020***  
+> ***November 14 - 16, 2020***  
 >  
 > **Board Meeting**  
-> **September 16, 1:30 - 3:00**  
+> **November 16, 1:30 - 3:00**  
 >  *\[Join webcast]*
 
-Meetings are held at the Board’s [conference space](venue.html) at 1331 F Street NW, Suite 800, in downtown Washington, DC.
+We have transitioned to a virtual format using [Zoom for Government](https://zoomgov.com).
+
+Meetings were typically held at the Board’s [conference space](venue.html) at 1331 F Street NW, Suite 800, in downtown Washington, DC.
 For the comfort of all participants and to promote a [fragrance-free](policy/ffe.html) environment, attendees are requested not to use perfume, cologne, or other fragrances.
 
 The Board usually substitutes one of its meetings each year for a town hall forum outside Washington, DC.
 
 ## Upcoming Board Meetings
 
-- September 14 - 16, 2020
 - November 16 - 18, 2020
 - January 11 - 13, 2021
 - March 8 - 10, 2021
@@ -45,6 +46,7 @@ The Board usually substitutes one of its meetings each year for a town hall foru
 
 ## Board Meeting Archives
 
+- September 14 - 16, 2020
 - [July 29, 2015](http://www.yorkmedia.com/accessboard/2015/07/29/)
 - [September 10, 2015](http://www.yorkmedia.com/accessboard/2015/09/10/)
 - [November 10, 2015](http://www.yorkmedia.com/accessboard/2015/11/10/)
