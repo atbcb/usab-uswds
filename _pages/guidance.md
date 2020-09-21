@@ -8,7 +8,6 @@ permalink: /guidance.html
 
 Provided here is a complete list of Access Board guidance documents (including animations and videos) currently in effect as required by [Executive Order 13891](https://www.federalregister.gov/documents/2019/10/15/2019-22623/promoting-the-rule-of-law-through-improved-agency-guidance-documents).  Guidance documents lack the force and effect of law, except as authorized by law or as incorporated into a contract.
 
-
 * [Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards](#guidance-on-the-americans-with-disabilities-act-ada-accessibility-standards)
 * [Guidance on Recreation Facilities](#guidance-on-recreation-facilities)
 * [Guidance on the Architectural Barriers Act (ABA) Accessibility Standards](#guidance-on-the-architectural-barriers-act-aba-accessibility-standards)
@@ -174,52 +173,52 @@ This document explains requirements in the ABA Standards for operable parts, inc
 [PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/protruding-objects-ABA.pdf) (February 2014)  
 This document explains requirements in the ABA Standards for protruding objects and preventing hazards to people with vision impairments.
 
-* [Guide to the ABA Standards: Accessible Routes]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-4-accessible-routes) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1751/accessible-routes.pdf) (July 2015)  
+* [Guide to the ABA Standards: Accessible Routes]({{ site.baseurl }}/aba/guides/chapter-4-accessible-routes/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/accessible-routes-ABA.pdf) (July 2015)  
 This document explains scoping and technical requirements for accessible routes in the ABA Standards.
 
-* [Guide to the ABA Standards: Entrances, Doors, and Gates]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-4-entrances,-doors,-and-gates) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1757/entrances-ABA.pdf) (July 2015)  
+* [Guide to the ABA Standards: Entrances, Doors, and Gates]({{ site.baseurl }}/aba/guides/chapter-4-entrances-doors-and-gates/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/entrances-ABA.pdf) (July 2015)  
 This document explains scoping and technical requirements for accessible entrances, doors and gates in the ABA Standards.
 
-* [Guide to the ABA Standards: Ramps and Curb Ramps]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-4-ramps-and-curb-ramps) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1758/ramps-ABA.pdf) (July 2015)  
+* [Guide to the ABA Standards: Ramps and Curb Ramps]({{ site.baseurl }}/aba/guides/chapter-4-ramps-and-curb-ramps/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/ramps-ABA.pdf) (July 2015)  
 This document explains requirements in the ABA Standards for ramps and curb ramps.
 
-* [Guide to the ABA Standards: Elevators and Platform Lifts]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-4-elevators-and-platform-lifts) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1759/elevators-ABA.pdf) (July 2015)  
+* [Guide to the ABA Standards: Elevators and Platform Lifts]({{ site.baseurl }}/aba/guides/chapter-4-elevators-and-platform-lifts/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/elevators-ABA.pdf) (July 2015)  
 This document explains criteria for elevators and platform lifts in the ABA Standards.
 
-* [Guide to the ABA Standards: Accessible Means of Egress]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-4-accessible-means-of-egress) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1756/amoe-ABA.pdf) (July 2015)  
+* [Guide to the ABA Standards: Accessible Means of Egress]({{ site.baseurl }}/aba/guides/chapter-4-accessible-means-of-egress/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/amoe-ABA.pdff) (July 2015)  
 This document explains requirements in the ABA Standards and referenced sections of the International Building Code (IBC) on accessible means of egress. It was developed in cooperation with the International Code Council.
 
-* [Guide to the ABA Standards: Parking Spaces]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-5-parking) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1801/parking-ABA.pdf) (May 2016)  
+* [Guide to the ABA Standards: Parking Spaces]({{ site.baseurl }}/aba/guides/chapter-5-parking/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/parking-ABA.pdf) (May 2016)  
 This document explains requirements in the ABA Standards for parking.
 
-* [Guide to the ABA Standards: Passenger Loading Zones]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-5-passenger-loading-zones) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1802/pl-ABA.pdf) (May 2016)  
+* [Guide to the ABA Standards: Passenger Loading Zones]({{ site.baseurl }}/aba/guides/chapter-5-passenger-loading-zones/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/plz-ABA.pdf) (May 2016)  
 This document explains requirements in the ABA Standards for passenger loading zones.
 
-* [Guide to the ABA Standards: Stairways]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-5-stairways) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1803/stairs-ABA.pdf) (May 2016)  
+* [Guide to the ABA Standards: Stairways]({{ site.baseurl }}/aba/guides/chapter-5-stairways/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/stairs-ABA.pdf) (May 2016)  
 This document explains requirements in the ABA Standards for stairways.
 
-* [Guide to the ABA Standards: Drinking Fountains]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-6-drinking-fountains) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1995/drinking-fountains-ABA.pdf) (May 2020)  
+* [Guide to the ABA Standards: Drinking Fountains]({{ site.baseurl }}/aba/guides/chapter-6-drinking-fountains/) (HTML)
+[PDF]({{ site.baseurl }}//files/ada-aba/guides/aba/drinking-fountains-ABA.pdf) (May 2020)  
  This document explains requirements in the ABA Standards for drinking fountains.
 
-* [Guide to the ABA Standards: Toilet Rooms]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-6-toilet-rooms) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/2000/toilet-rooms-ABA.pdf) (May 2020)  
+* [Guide to the ABA Standards: Toilet Rooms]({{ site.baseurl }}/aba/guides/chapter-6-toilet-rooms/) (HTML)
+[PDF]({{ site.baseurl }}//files/ada-aba/guides/aba/toilet-rooms-ABA.pdf) (May 2020)  
  This document explains requirements in the ABA Standards for toilet rooms.
 
-* [Guide to the ABA Standards: Bathing Rooms]({{ site.baseurl }}/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-6-bathing-rooms) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/2001/bathrooms-ABA.pdf) (May 2020)  
+* [Guide to the ABA Standards: Bathing Rooms]({{ site.baseurl }}/aba/guides/chapter-6-bathing-rooms/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/bathrooms-ABA.pdf) (May 2020)  
  This document explains requirements in the ABA Standards for bathing rooms.
 
-* [Outdoor Developed Areas: A Summary of Accessibility Standards for Federal Outdoor Developed Areas]({{ site.baseurl }}/guidelines-and-standards/recreation-facilities/outdoor-developed-areas/a-summary-of-accessibility-standards-for-federal-outdoor-developed-areas) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1637/outdoor-guide.pdf) (May 2014)  
+* [Outdoor Developed Areas: A Summary of Accessibility Standards for Federal Outdoor Developed Areas]({{ site.baseurl }}/aba/guides/chapter-10-outdoor/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/outdoor-guide.pdff) (May 2014)  
 This document explains requirements in the ABA Standards for outdoor developed areas, including trails, picnic and camping areas, viewing areas, and beach access routes.
 
 ## Animations on the ADA and ABA Standards
