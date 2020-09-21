@@ -12,9 +12,9 @@ Provided here is a complete list of Access Board guidance documents (including a
 * [Guidance on Recreation Facilities](#guidance-on-recreation-facilities)
 * [Guidance on the Architectural Barriers Act (ABA) Accessibility Standards](#guidance-on-the-architectural-barriers-act-aba-accessibility-standards)
 * [Animations on the ADA and ABA Standards](#animations-on-the-ada-and-aba-standards)
-* [Guidance on the ADA Accessibility Guidelines for Transportation Vehicles](#guidance-on-the-ada-accessibility-guidelines-for-transportation-vehicles)
-* [Guidance on Requirements for Information and Communication Technology](#guidance-on-requirements-for-information-and-communication-technology)
-* [Guidance on Public Rights-of-Way](#guidance-on-public-rights-of-way)
+* [Guidance on the ADA Accessibility Guidelines for Transportation Vehicles](#guidance-on-the-ada-accessibility-guidelines-for-transportation-vehicles) {% comment %}
+* [Guidance on Requirements for Information and Communication Technology](#guidance-on-requirements-for-information-and-communication-technology) 
+* [Guidance on Public Rights-of-Way](#guidance-on-public-rights-of-way) {% endcomment %}
 * [Guidance on Prescription Drug Labels](#guidance-on-prescription-drug-labels)
 
 * * * * *
@@ -190,7 +190,7 @@ This document explains requirements in the ABA Standards for ramps and curb ramp
 This document explains criteria for elevators and platform lifts in the ABA Standards.
 
 * [Guide to the ABA Standards: Accessible Means of Egress]({{ site.baseurl }}/aba/guides/chapter-4-accessible-means-of-egress/) (HTML)
-[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/amoe-ABA.pdff) (July 2015)  
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/amoe-ABA.pdf) (July 2015)  
 This document explains requirements in the ABA Standards and referenced sections of the International Building Code (IBC) on accessible means of egress. It was developed in cooperation with the International Code Council.
 
 * [Guide to the ABA Standards: Parking Spaces]({{ site.baseurl }}/aba/guides/chapter-5-parking/) (HTML)
@@ -218,7 +218,7 @@ This document explains requirements in the ABA Standards for stairways.
  This document explains requirements in the ABA Standards for bathing rooms.
 
 * [Outdoor Developed Areas: A Summary of Accessibility Standards for Federal Outdoor Developed Areas]({{ site.baseurl }}/aba/guides/chapter-10-outdoor/) (HTML)
-[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/outdoor-guide.pdff) (May 2014)  
+[PDF]({{ site.baseurl }}/files/ada-aba/guides/aba/outdoor-guide.pdf) (May 2014)  
 This document explains requirements in the ABA Standards for outdoor developed areas, including trails, picnic and camping areas, viewing areas, and beach access routes.
 
 ## Animations on the ADA and ABA Standards
@@ -249,8 +249,10 @@ This 12-minute animation explains requirements in the ADA and ABA Standards for 
 
 ## Guidance on the ADA Accessibility Guidelines for Transportation Vehicles
 
-* [Guides to the ADA Guidelines for Transportation Vehicles]({{ site.baseurl }}/guidelines-and-standards/transportation/vehicles/technical-assistance-manuals-on-adaag-for-transportation-vehicles) (HTML) (October 1992)  
+* [Guides to the ADA Guidelines for Transportation Vehicles]({{ site.baseurl }}/ada/vehicles/guides/) (HTML) (October 1992)  
 This document explains requirements in the ADA Accessibility Guidelines for Transportation Vehicles, including buses, vans, and rail vehicles.
+
+{% comment %}
 
 ## Guidance on Requirements for Information and Communication Technology
 
@@ -259,6 +261,7 @@ This document explains requirements in the original Section 508 Standards (2000)
 
 * [Guidance on the Telecommunications Act Section 255 Guidelines]({{ site.baseurl }}/guidelines-and-standards/communications-and-it/about-the-telecommunications-act-guidelines/guidance-on-the-telecommunications-act-%C2%A7255-guidelines) (HTML) (April 1999)  
 This document explains accessibility requirements for telecommunications products and services covered by Section 255 of the Communications Act.
+
 
 ## Guidance on Public Rights-of-Way
 
@@ -273,7 +276,10 @@ This document summarizes requirements and recommendations for detectable warning
 * [Accessible Sidewalks]({{ site.baseurl }}/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/accessible-sidewalks-video-series) (video) (2003)  
 Accessible Sidewalks  is a four-part video on the design of sidewalks and accessibility for pedestrians with disabilities, including those who use wheelchairs (Part I, 10 minutes), have ambulatory impairments (Part II, 8 minutes), have low vision (Part III, 11.5 minutes), and who are blind (Part IV, 11.5 minutes).
 
+{% endcomment %}
+
 ##  Guidance on Prescription Drug Labels
 
-* [Best Practices for Making Prescription Drug Container Label Information Accessible to Persons Who are Blind or Visually-Impaired or Who are Elderly]({{ site.baseurl }}/guidelines-and-standards/health-care/about-prescription-drug-container-labels/working-group-recommendations) (HTML) (July 2013)  
-This document provides best practices for making information on prescription drug labels accessible to people with vision impairments or who are elderly. It covers braille, large print labels, auditory technologies, and radio frequency identification tags.
+* [Best Practices for Making Prescription Drug Container Label Information Accessible to Persons Who are Blind or Visually-Impaired or Who are Elderly]({{ site.baseurl }}/rx.html#working-group-recommendations) (HTML) (July 2013)  
+This document provides best practices for making information on prescription drug labels accessible to people with vision impairments or who are elderly. 
+It covers braille, large print labels, auditory technologies, and radio frequency identification tags.
