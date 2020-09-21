@@ -270,8 +270,7 @@ An accessible site shall meet the following minimum requirements:
 | 301 to 400 | 8 |
 | 401 to 500 | 9 |
 | 501 to 1000 | * |
-| 1001 and over | ** |
-{: .usa-table}
+| 1001 and over | ** |{: .usa-table}
 
 \* 2 percent of total.
 \** 20 plus 1 for each 100 over 1000.
