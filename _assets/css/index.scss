@@ -21,13 +21,16 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 
 // Add your SASS/CSS here
 // Page header USAB logo override
-.site-logo {
+@media screen and (max-width: 1024px) {
+  .site-logo {
+  max-height: 3rem;
+  }
 }
 
-.usa-logo__text::before {
+/* .usa-logo__text::before {
   background-image: url(../images/usab-logo.svg);
   background-repeat: no-repeat;
-}
+} */
 
 @media (min-width: 30em) {
   .site-title-short {
