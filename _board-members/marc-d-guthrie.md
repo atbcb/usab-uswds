@@ -9,7 +9,7 @@ status: current
 president: Obama
 image: /images/uploads/guthrie.jpg
 bio: >-
-  Marc Guthrie, of Hebron - Buckeye Lake, Ohio is the former director of Public
+  Marc Guthrie of Hebron - Buckeye Lake, Ohio is the former director of Public
   Outreach for the American Council of the Blind of Ohio. Guthrie, a long-time
   advocate for people with disabilities, was Executive Director of United
   Cerebral Palsy of Central Ohio from 1995 to 2001. He previously served as a

@@ -70,7 +70,18 @@ Any person who is affected by information disseminated by the Access Board on or
 
 *9.  Where must complaints be submitted?*
 
-Complaints must be submitted in writing by letter, fax or e-mail to the Office of General Counsel, U.S. Access Board, 1331 F Street NW, Suite 1000, Washington, DC  2004-1111.  Fax number:  202-272-0081.  E-mail address:  quality@access-board.gov.  The Information Quality Officer within the Office of General Counsel is responsible for reviewing complaints and making a decision for the agency.
+Complaints must be submitted in writing by letter, fax, or e-mail to:
+
+The Office of General Counsel
+U.S. Access Board
+1331 F Street NW, Suite 1000
+Washington, DC  2004-1111.  
+
+Fax number:  202-272-0081.  
+
+E-mail address:  quality@access-board.gov.  
+
+The Information Quality Officer within the Office of General Counsel is responsible for reviewing complaints and making a decision for the agency.
 
 *10.  What information must persons filing a complaint provide?*
 

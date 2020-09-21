@@ -11,7 +11,7 @@ image: /images/uploads/rosenblum.jpg
 bio: >-
   Howard A. Rosenblum is the Chief Executive Officer of the National Association
   of the Deaf (NAD). In this capacity, he oversees the operations of the NAD to
-  carry out its mission of preserving, protecting and promoting the civil, human
+  carry out its mission of preserving, protecting, and promoting the civil, human,
   and linguistic rights of deaf and hard of hearing people in the United States.
   He also serves as the Legal Director overseeing the staff lawyers as well as
   policy advocacy and litigation work within the NAD Law and Advocacy Center.

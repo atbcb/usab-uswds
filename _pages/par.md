@@ -37,16 +37,13 @@ Executive Director
 
 ### INTRODUCTION
 
-The Access Board was established in 1973 under section 502 of the Rehabilitation Act and is the only federal agency whose primary mission is accessibility for people with disabilities. We are responsible for developing guidelines under the Americans with Disabilities Act (ADA), the Architectural Barriers Act (ABA), and the Communications Act for ensuring that buildings and facilities, transportation vehicles, and  telecommunications equipment covered by these laws are readily accessible to and usable by people with disabilities. We are also   
-responsible for developing standards under the Rehabilitation Act for accessible information and communication technology procured by federal agencies and establishing standards for accessible medical diagnostic equipment.
+The Access Board was established in 1973 under section 502 of the Rehabilitation Act and is the only federal agency whose primary mission is accessibility for people with disabilities. We are responsible for developing guidelines under the Americans with Disabilities Act (ADA), the Architectural Barriers Act (ABA), and the Communications Act for ensuring that buildings and facilities, transportation vehicles, and  telecommunications equipment covered by these laws are readily accessible to and usable by people with disabilities. We are also responsible for developing standards under the Rehabilitation Act for accessible information and communication technology procured by federal agencies and establishing standards for accessible medical diagnostic equipment.
 
-Under the Help America Vote Act, the Access Board serves on the Election Assistance Commission’s (EAC) Board of Advisors and Technical Guidelines Development Committee, which assist the EAC in developing voluntary guidelines for voting systems, including accessibility for people with disabilities. In addition, under the Food and Drug Administration Safety and Innovation Act, we developed best practices on providing  
-accessible information on prescription drug container labels for individuals who are blind or visually impaired.
+Under the Help America Vote Act, the Access Board serves on the Election Assistance Commission’s (EAC) Board of Advisors and Technical Guidelines Development Committee, which assist the EAC in developing voluntary guidelines for voting systems, including accessibility for people with disabilities. In addition, under the Food and Drug Administration Safety and Innovation Act, we developed best practices on providing accessible information on prescription drug container labels for individuals who are blind or visually impaired.
 
 The Access Board enforces the ABA and provides training and technical assistance on all its guidelines and standards, and on a variety of other accessibility issues. Additionally, we maintain a research program that develops technical assistance materials and provides information needed for rulemaking.
 
-Our programs will result in accessible buildings and facilities, transportation vehicles, medical diagnostic equipment, telecommunications equipment, and information and communication technology across our country and, ultimately, the full economic and social integration of people with disabilities into our society. Achieving these results will depend not only on our activities, but also on the level of commitment and action taken by other federal agencies, State and local governments, and businesses that are required to comply with or enforce the various laws that guarantee the civil rights of people with disabilities. The Access Board’s strategic plan, developed in 2017, includes a vision statement (advancing  
-accessibility and inclusion for all) and a mission statement (promote accessibility through standards and guidelines, education, enforcement, and outreach). The plan includes four goals:
+Our programs will result in accessible buildings and facilities, transportation vehicles, medical diagnostic equipment, telecommunications equipment, and information and communication technology across our country and, ultimately, the full economic and social integration of people with disabilities into our society. Achieving these results will depend not only on our activities, but also on the level of commitment and action taken by other federal agencies, State and local governments, and businesses that are required to comply with or enforce the various laws that guarantee the civil rights of people with disabilities. The Access Board’s strategic plan, developed in 2017, includes a vision statement (advancing accessibility and inclusion for all) and a mission statement (promote accessibility through standards and guidelines, education, enforcement, and outreach). The plan includes four goals:
 
 - Establish state-of-the-art accessibility standards and guidelines
 - Provide training and technical assistance on accessibility
@@ -84,8 +81,7 @@ We have worked collaboratively with the Departments of Justice and Transportatio
 
 _Public Rights-of-Way and Shared Use Paths_
 
-The Board is developing guidelines that will address various issues, including access for blind pedestrians at street crossings, wheelchair access to on-street parking, and various constraints posed by space limitations, roadway design practices, slope, and terrain. The public rights-ofway guidelines will cover pedestrian access to sidewalks and streets, including crosswalks, curb ramps, street furnishings, pedestrian signals, parking, and other components of public rights-ofway. The rulemaking began in October 1999, when we created a 31-member federal advisory committee. The committee presented its report in January 2001\. In June 2002, we released for public comment draft guidelines based on the committee’s recommendations and then in November 2005, we revised the draft   
-guidelines based on public comments on the initial draft. This action was done to assist us in preparing a regulatory assessment of the impacts of the rule. A proposed rule was published for public comment in July 2011.
+The Board is developing guidelines that will address various issues, including access for blind pedestrians at street crossings, wheelchair access to on-street parking, and various constraints posed by space limitations, roadway design practices, slope, and terrain. The public rights-of-way guidelines will cover pedestrian access to sidewalks and streets, including crosswalks, curb ramps, street furnishings, pedestrian signals, parking, and other components of public rights-of-way. The rulemaking began in October 1999, when we created a 31-member federal advisory committee. The committee presented its report in January 2001\. In June 2002, we released for public comment draft guidelines based on the committee’s recommendations and then in November 2005, we revised the draft guidelines based on public comments on the initial draft. This action was done to assist us in preparing a regulatory assessment of the impacts of the rule. A proposed rule was published for public comment in July 2011.
 
 On a separate track, we initiated rulemaking to cover shared use paths (paths designed to serve both bicyclists and pedestrians and used for transportation and recreation purposes). We published an ANPRM in March 2011 and then in February 2013, we published a Supplemental Notice of Proposed Rulemaking to include requirements for shared use paths as part of the public rights-of-way rule. The next step for this rulemaking is a final rule.
 
@@ -140,12 +136,11 @@ In July 2018, we released a new animation on accessible sales and service counte
 
 Our online guide to the ADA and ABA standards also features technical bulletins that explain and illustrate requirements and address common questions. Bulletins are currently available on the first five chapters of the standards, including application and scoping, building blocks, accessible routes, accessible means of egress, parking and passenger loading zones, and stairways.
 
-Planned are technical guides and animations covering Chapters 6 and 7 of the standards. The Chapter 6 guides will address plumbing elements and facilities including drinking fountains,grab bars, washing machines and clothes dryers, and saunas and steam rooms. The Chapter 7 guides will address communication elements and features including fire alarm systems, telephones, detectable warnings, assistive listening systems, automatic teller machines and fare machines, and two-way communication systems. Future installments to the guides will be released as they become available. Users can sign-up to receive email updates on the release of other animations and bulletins in the series.
+Planned are technical guides and animations covering Chapters 6 and 7 of the standards. The Chapter 6 guides will address plumbing elements and facilities including drinking fountains, grab bars, washing machines and clothes dryers, and saunas and steam rooms. The Chapter 7 guides will address communication elements and features including fire alarm systems, telephones, detectable warnings, assistive listening systems, automatic teller machines and fare machines, and two-way communication systems. Future installments to the guides will be released as they become available. Users can sign-up to receive email updates on the release of other animations and bulletins in the series.
 
 We continue to offer our very successful monthly webinar series through a partnership with the National Network of ADA Centers. Sessions are conducted monthly for built environment issues and bi-monthly for information and communication technology issues (in conjunction with the Chief Information Officers Council Accessibility Community of Practice) with most webinars scheduled for 90 minutes. Sessions also provide an opportunity to earn continuing education credits (CEUs) for a fee, but general attendance is free.
 
-Sessions in FY 2018 for built environment issues included: Hospitals and Medical Care Facilities; Harmonization between the ADA Standards and the IBC/ANSI A117.1; Frontier Accessibility Issues; Accessible Alterations; Outdoor Developed Areas; Open Q & A; Accessible Shared Streets: Notable Practices and Considerations for Accommodating Pedestrians with  
-Vision Disabilities; Recreation Facilities; Accessible Airport Terminals; Transportation Facilities; Open Q & A; and, Federal Facilities and the Architectural Barriers Act Accessibility  
+Sessions in FY 2018 for built environment issues included: Hospitals and Medical Care Facilities; Harmonization between the ADA Standards and the IBC/ANSI A117.1; Frontier Accessibility Issues; Accessible Alterations; Outdoor Developed Areas; Open Q & A; Accessible Shared Streets: Notable Practices and Considerations for Accommodating Pedestrians with Vision Disabilities; Recreation Facilities; Accessible Airport Terminals; Transportation Facilities; Open Q & A; and, Federal Facilities and the Architectural Barriers Act Accessibility  
 Standards.
 
 Sessions in FY 2018 on information and communication technology issues included: W3C WCAG 2.0 Resources; A Roadmap for Transitioning to the Revised 508 Standards; Accessibility of Electronic Content; Putting the Revised 508 Standards into Practice for Procurement; How to Update Agency Policies for the Revised Section 508 Standards; and, Incorporation of Accessibility into the ICT Lifecycle.
@@ -191,9 +186,9 @@ The Access Board holds six meetings each year. Five are business meetings in Was
 
 When the Access Board meets in-town, we have begun to reach out to trade associations, other federal agencies, and non-profit organizations to help build partnerships and to get the word out about our services. In FY 2018, Access Board public members and staff have met with representatives from: American Foundation for the Blind; Amtrak; Federal Communications Commission; International Parking Institute; National Institute on Disability, Independent Living, and Rehabilitation Research; and, the Trace Research & Development Center.
 
-As part of our technical assistance program, we often hear from first-time inquirers that they were surprised to learn about our technical assistance services, and we know from anecdotal evidence that accessibility standards are not uniformly followed. To improve effectiveness of our technical assistance program, we plan a concerted effort to promote and publicize our technical assistance services to additional design and construction professionals through targeted outreach.One of the ways we are doing this is through a new Access Board YouTube channel launched in April 2018 to share our already developed animations and to distribute new videos on accessibility issues.
+As part of our technical assistance program, we often hear from first-time inquirers that they were surprised to learn about our technical assistance services, and we know from anecdotal evidence that accessibility standards are not uniformly followed. To improve effectiveness of our technical assistance program, we plan a concerted effort to promote and publicize our technical assistance services to additional design and construction professionals through targeted outreach. One of the ways we are doing this is through a new Access Board YouTube channel launched in April 2018 to share our already developed animations and to distribute new videos on accessibility issues.
 
-We also meet with delegations from around the world (in cooperation with the Department of State’s International Visitor Leadership Program) to spread the word about accessibility and the Access Board’s programs. This year we met with groups from: Russia, Lebanon, Indonesia, Switzerland, and Japan. Afghanistan, Argentina, Australia, Bahrain, Brazil, Ghana, India, Israel,Nigeria, Philippines, Rwanda, Sierra Leone, Sri Lanka.
+We also meet with delegations from around the world (in cooperation with the Department of State’s International Visitor Leadership Program) to spread the word about accessibility and the Access Board’s programs. This year we met with groups from: Russia, Lebanon, Indonesia, Switzerland, and Japan. Afghanistan, Argentina, Australia, Bahrain, Brazil, Ghana, India, Israel, Nigeria, Philippines, Rwanda, Sierra Leone, Sri Lanka.
 
 We conducted a day-long workshop in November comparing how building accessibility is addressed in Australia and the U.S. The workshop featured presentations and a dialogue by experts on how accessibility to the built environment is addressed and enforced in both nations.
 
@@ -239,8 +234,7 @@ Prepared By:
 United States Access Board  
 Washington, D.C.
 
-In our audits of the fiscal years 2018 and 2017 financial statements of the U.S. Access Board (USAB), we  
-found
+In our audits of the fiscal years 2018 and 2017 financial statements of the U.S. Access Board (USAB), we found
 
 - USAB’s financial statements as of and for the fiscal years ended September 30, 2018, and 2017, are presented fairly, in all material respects, in accordance with U.S. generally accepted accounting principles;
 - no material weaknesses in internal control over financial reporting based on the limited procedures we performed; and
@@ -1133,7 +1127,7 @@ The accompanying [notes](#united-states-access-board-notes-to-the-financial-stat
 
 <tr>
 
-<td style="border: 1px solid #000000;">Net adjutstments to unobligated balance brought forward, Oct. 1</td>
+<td style="border: 1px solid #000000;">Net adjustments to unobligated balance brought forward, Oct. 1</td>
 
 <td style="border: 1px solid #000000;">(1,273,881)</td>
 
@@ -2356,7 +2350,7 @@ $8,000,000
 
 <tr>
 
-<td style="border: 1px solid #000000;">Unboligated Balance Not Available</td>
+<td style="border: 1px solid #000000;">Unobligated Balance Not Available</td>
 
 <td style="border: 1px solid #000000;">(1,000,000)</td>
 
