@@ -6,7 +6,7 @@ file-description: PDF version of Chapter 2 Alterations Guide
 ---
 This guide provides an introduction to the scoping requirements of the [ABA Standards]({{ site.baseurl }}/aba/) and is intended to be used with a complete copy of the ABA Standards since it does not contain or address the full content of the Standards. It is important that users familiarize themselves with the specific scoping requirements contained in the ABA Standards.
 
-### General 
+### General
 
 [[§F202.1]({{ site.baseurl }}/aba/ch02/#f2021)]
 
@@ -18,7 +18,7 @@ _Additions, alterations, and leasing actions may require retrofit of existing el
 
 Additions and alterations undertaken at existing facilities are covered by the ABA Standards. The extent of application is largely determined by a project’s scope of work as the standards apply to those elements or spaces that are altered or added. Additional requirements apply to projects that affect or could affect the usability of, or access to, an area containing a primary function. The standards also require certain elements and spaces to comply in existing facilities leased by Federal agencies.
 
-### Additions 
+### Additions
 
 [[§F202.2]({{ site.baseurl }}/aba/ch02/#f2022)]
 
@@ -55,7 +55,7 @@ The standards ensure that the opportunities for accessibility presented by an al
 #### Application of the Standards in Alterations
 
 ![Floor plan with alterations to non-primary function area and to primary function area.  Figure notes:  Altered elements and spaces are required to comply.  In areas not containing a primary function, an accessible route to an altered element or space is required only when the circulation path to the altered element or space is also altered. Alterations made to areas containing a primary function also require an accessible path of travel to the extent that it is not “disproportionate” to the cost. The accessible path of travel must extend to site arrival points, including parking.]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a3.jpg){: .img-large}
-   
+ 
 If alterations are limited only to elements in a room or space, then the standards apply only to the elements altered. Similarly, where spaces are altered, the standards apply to those spaces that are altered. If a room or space is completely altered (or built new as part of an alteration), the entire room or space is fully subject to the standards. Compliance is required to the extent that it is technically feasible.
 
 #### Example: Toilet Room Alterations
@@ -83,35 +83,35 @@ New construction requirements also set the baseline for any alteration that woul
 The standards apply the same requirements used in new construction to alterations but also include provisions unique to alterations. Some provisions clarify application, while others are structured as exceptions that limit coverage or relax technical criteria under certain conditions. Located throughout the standards at the relevant scoping or technical requirement, these provisions and exceptions are distinguished by references to “alterations” or “existing facilities.”
 
 <div class="grid-container">
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter2-ada/a6.jpg"
 img-alt= "escalator symbol"
 text-title= "Vertical Access"
 text= "An accessible route to stories and mezzanines is required in alterations (or additions) where stairs or escalators are added where none existed previously and major structural modifications are necessary (§F206.2.3.1) (or as needed to provide an accessible path of travel to an altered primary function area if not disproportionate to the cost (§F202.4)), unless the building is exempt from the requirement for access between stories."
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter2-ada/a7.jpg"
 img-alt= "elevator symbol"
 text-title= "Elevators"
 text= "If elevators are altered, all cars programmed to respond to the same call control must be similarly modified (§F206.6.1)."
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter2-ada/a8.jpg"
 img-alt= "fire alarm symbol"
 text-title= "Fire Alarms"
 text= "Compliant fire alarm systems are required only in alterations where fire alarm systems are installed new, replaced, or upgraded (§F215.1, Ex. 1)."
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter2-ada/a9.jpg"
 img-alt= "ramp symbol"
 text-title= "Ramps"
 text= "Slightly steeper running slopes are permitted for short ramps (maximum 6\" rise) where space is limited (§405.2, Ex.)."
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter2-ada/a10.jpg"
 img-alt= "stair symbol"
 text-title= "Stairs"

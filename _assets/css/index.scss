@@ -27,6 +27,32 @@ h5, h6 { // default was xs and 2xs
 }
 
 // Add your SASS/CSS here
+// Page header USAB logo override
+@media screen and (max-width: 1024px) {
+  .site-logo {
+  max-height: 3rem;
+  }
+}
+
+/* .usa-logo__text::before {
+  background-image: url(../images/usab-logo.svg);
+  background-repeat: no-repeat;
+} */
+
+@media (min-width: 30em) {
+  .site-title-short {
+      display: none;
+  }
+}
+
+@media screen and (max-width: 29.99em) {
+  .site-title {
+    position: absolute;
+    left: -999em;
+  }
+}
+
+
 
 // override default gray to get 7:1 contrast ratio
 li.usa-nav__secondary-item a {

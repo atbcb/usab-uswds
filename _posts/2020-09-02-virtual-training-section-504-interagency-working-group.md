@@ -8,9 +8,6 @@ authors:
   - sarah-presley
 webinar: false
 webinar-start: 'September 23, 2020 12:00 AM'
-webinar-end: ''
-registration-link: ''
-video-link: ''
 ---
 
 

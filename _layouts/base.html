@@ -7,18 +7,18 @@ The home page uses wide.html layout, since it extends full width of page
 
 <html lang="en">
 
-{% include meta.html %}
+{% include_cached meta.html %}
 
 <body>
-  {% include header.html %}
+  {% include_cached header.html %}
 
   {% include menu.html primary_navigation=site.primary_navigation  secondary_navigation=site.secondary_navigation %}
 
   {{ content }}
 
-  {% include footer.html %}
+  {% include_cached footer.html %}
 
-  {% include scripts.html %}
+  {% include_cached scripts.html %}
 </body>
 
 </html>

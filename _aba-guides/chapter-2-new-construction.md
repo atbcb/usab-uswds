@@ -43,7 +43,7 @@ These structures and spaces are fully exempt from the standards and are not requ
     </div>
 </div>
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter2-ada/nc6.jpg"
 img-alt= "construction barrier"
 text-title= "Construction Sites (§F203.3)"
@@ -51,7 +51,7 @@ text= "Structures directly associated with the actual processes of construction 
 text2= "Examples: scaffolding, bridging, materials hoists, construction trailers"
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter2-ada/nc7.jpg"
 img-alt= "tower"
 text-title= "Areas Raised for Security/ Safety (§F203.4)"
@@ -59,7 +59,7 @@ text= "Areas raised primarily for purposes of security or life/ fire safety"
 text2= "Examples: life guard stands, fire towers, and prison guard towers"
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter2-ada/nc9.jpg"
 img-alt= "structure with ladder"
 text-title= "Limited Access Spaces (§F203.5)"
@@ -67,7 +67,7 @@ text= "Spaces accessed only by ladders, catwalks, crawl spaces, or very narrow p
 text2= "Examples: lighting/ equipment catwalks at stages and performing areas, platforms served only by ladder"
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter2-ada/nc10.jpg"
 img-alt= "valve"
 text-title= "Machinery Spaces (§F203.6)"
@@ -75,7 +75,7 @@ text= "Spaces used only by service personnel for maintenance, repair, or occasio
 text2= "Examples: elevator pits/ penthouses, mechanical/ electrical/ communications equipment rooms, water or sewage treatment pump rooms, electric substations, and transformer vaults"
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter2-ada/nc11.jpg"
 img-alt= "toll booth"
 text-title= "Single Occupant Structures (§F203.7)"

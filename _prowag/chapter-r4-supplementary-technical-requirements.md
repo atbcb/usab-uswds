@@ -21,7 +21,7 @@ mm (2.25 ft) and not more than 2 m (6.7 ft) above the finish surface
 shall protrude 100 mm (4 in) maximum horizontally into pedestrian
 circulation paths.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R402.2 Protrusion Limits"
 img-file= "402-2.jpg"
 img-alt= "A frontal view shows a person using a cane walking along a wall. A
@@ -43,7 +43,7 @@ or pylons is greater than 305 mm (1.0 ft), the lowest edge of the object
 shall be 685 mm (2.25 ft) maximum or 2 m (6.7 ft) minimum above the
 finish surface.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R402.3 Post-Mounted Objects"
 img-file= "402-3.jpg"
 img-alt= "Objects mounted on posts/ pylons 685 mm -- 2 m (27 -- 80 in) above the
@@ -60,7 +60,7 @@ pedestrian travel shall be provided where the vertical clearance is less
 than 2 m (6.7 ft) high. The leading edge of the guardrail or barrier
 shall be located 685 mm (2.25 ft) maximum above the finish surface.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R402.4 Reduced Vertical Clearance"
 img-file= "402-4.jpg"
 img-alt= "Guardrail/barrier with leading edge 685 mm (27 in) above the finish
@@ -164,7 +164,7 @@ mm (1.4 ft) minimum under the element.
 ##### R405.2.4 Width
 Toe clearance shall be 760 mm (2.5 ft) wide minimum.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R405.2 Toe Clearance"
 img-file= "405-2.jpg"
 img-alt= "Toe clearance (elevation) is 230 mm (9 in) high min and 150 mm (6 in)
@@ -201,7 +201,7 @@ height.
 Knee clearance shall be 760 mm (2.5 ft) wide
 minimum.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R405.3 Knee Clearance"
 img-file= "405-3.jpg"
 img-alt= "Knee clearance (elevation) is 685 mm (27) high min for a depth of 205
@@ -222,7 +222,7 @@ unobstructed, the high forward reach shall be 1220 mm (4.0 ft) maximum
 and the low forward reach shall be 380 mm (1.25 ft) minimum above the
 finish surface. Forward reach over an obstruction is not permitted.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R406.2 Unobstructed Forward Reach"
 img-file= "406-2.jpg"
 img-alt= "Unobstructed forward reach shown in elevation to be 1220 mm (48 in)
@@ -238,7 +238,7 @@ shall be 380 mm (1.25 ft) minimum above the finish surface. An
 obstruction shall be permitted between the clear space and the element
 where the depth of the obstruction is 255 mm (10 in) maximum.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R406.3 Unobstructed Side Reach"
 img-file= "406-3.jpg"
 img-alt= "Unobstructed side reach shown in elevation to be 1220 mm (48 in) max
@@ -275,7 +275,7 @@ maximum.
 Ramps shall have landings at the top and the bottom
 of each ramp run. Landings shall comply with R407.6.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R407.6 Landings"
 img-file= "407-6.jpg"
 img-alt= "Straight ramp landings 1.5 m (5 ft) min and at least as wide as ramp
@@ -318,7 +318,7 @@ The surface of the ramp run or
 landing shall extend 305 mm (1.0 ft) minimum beyond the inside face of a
 handrail complying with R409.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R407.9.1 Extended Ramp Surface"
 img-file= "407-9-1.jpg"
 img-alt= "Surface of ramp run/ landing extending 305 mm (12 in) min beyond the
@@ -392,7 +392,7 @@ surfaces, ramp surfaces, and stair nosings. Handrails shall be at a
 consistent height above walking surfaces, ramp surfaces, and stair
 nosings.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R409.4 Height"
 img-file= "409-4.jpg"
 img-alt= "Height of handrail gripping surface 865 -- 965 mm (34 -- 38 in) at
@@ -433,7 +433,7 @@ with a non-circular cross section shall have a perimeter dimension of
 100 mm (4 in) minimum and 160 mm (6.25 in) maximum, and a cross-section
 dimension of 57 mm (2.25 in) maximum.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R409.7.2 Non-Circular Cross Sections"
 img-file= "409-7-2.jpg"
 img-alt= "Non-circular cross sections with a perimeter dimension 100 -- 160 mm (
@@ -466,7 +466,7 @@ the top and bottom of ramp runs. Extensions shall return to a wall,
 guard, or the landing surface, or shall be continuous to the handrail of
 an adjacent ramp run.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R409.10.1 Top and Bottom Extension at Ramps"
 img-file= "409-10-1.jpg"
 img-alt= "Handrail extensions 305 mm (12 in) min long at top and bottom of
@@ -480,7 +480,7 @@ ft) minimum beginning directly above the first riser nosing. Extensions
 shall return to a wall, guard, or the landing surface, or shall be
 continuous to the handrail of an adjacent stair flight.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R409.10.2 Top Extension at Stairways"
 img-file= "409-10-2.jpg"
 img-alt= "Flangeway gaps shown 64 mm (2.5 in) max. (figure a) and 75 mm (3 in)
@@ -495,7 +495,7 @@ riser nosing. Extensions shall return to a wall, guard, or the landing
 surface, or shall be continuous to the handrail of an adjacent stair
 flight.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R409.10.3 Bottom Extension at Stairways"
 img-file= "409-10-3.jpg"
 img-alt= "Bottom stairway handrail extending at slope of stair flight for a
@@ -606,7 +606,7 @@ background shall have a non-glare finish. The symbol shall contrast with
 its background with either a light symbol on a dark background or a dark
 symbol on a light background.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R411 International Symbol of Accessibility"
 img-file= "411.jpg"
 img-alt= "International Symbol of

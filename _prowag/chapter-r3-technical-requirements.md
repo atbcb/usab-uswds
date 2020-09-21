@@ -36,7 +36,7 @@ more of the following components:
 #### R302.3 Continuous Width
 Except as provided in R302.3.1 and R302.3.2, the continuous clear width of pedestrian access routes shall be 1.2 m (4.0 ft) minimum, exclusive of the width of the curb.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R302.3 Continuous Width"
 img-file= "302-3.jpg"
 img-alt= "PAR 1.2 m (4 ft) wide minimum shown within width of sidewalk bounded
@@ -59,7 +59,7 @@ intervals of 61 m (200.0 ft) maximum. Passing spaces shall be 1.5 m (5.0
 ft) minimum by 1.5 m (5.0 ft) minimum. Passing spaces are permitted to
 overlap pedestrian access routes.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R302.4 Passing Spaces"
 img-file= "302-4.jpg"
 img-alt= "Passing space 1.5 m (5 ft) by 1.5 m (5 ft) min. at 61 m (200 ft) max
@@ -140,7 +140,7 @@ discontinuities between 6.4 mm (0.25 in) and 13 mm (0.5 in) shall be
 beveled with a slope not steeper than 50 percent. The bevel shall be
 applied across the entire vertical surface discontinuity.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R302.7.2 Vertical Surface Discontinuities"
 img-file= "302-7-2.jpg"
 img-alt= "Vertical surface discontinuity 6.4 mm (1/4 inch) max with straight
@@ -156,7 +156,7 @@ Horizontal openings in gratings and joints shall not permit passage of a sphere 
 diameter. Elongated openings in gratings shall be placed so that the
 long dimension is perpendicular to the dominant direction of travel.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R302.7.3 Horizontal Openings"
 img-file= "302-7-3.jpg"
 img-alt= "Elongated openings, such as in a grating, are shown in plan view with
@@ -169,7 +169,7 @@ of travel."
 Flangeway gaps at pedestrian at-grade rail crossings shall be 64 mm (2.5 in) maximum on non-freight rail track and
 75 mm (3 in) maximum on freight rail track.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R302.7.4 Flangeway Gaps"
 img-file= "302-7-4.jpg"
 img-alt= "Flangeway gaps shown 64 mm (2.5 in) max. (figure a) and 75 mm (3 in)
@@ -179,7 +179,7 @@ max (figure b)"
 {: .advisory}
 **Advisory R302.7.4 Flangeway Gaps.** Flangeway gaps are necessary to allow the passage of train wheel flanges. Flangeway gaps pose a potential hazard to pedestrians who use wheelchairs because the gaps can entrap the wheelchair casters.
 
-### R303 Alternate Pedestrian Access Routes 
+### R303 Alternate Pedestrian Access Routes
 (See R205)
 
 ### R304 Curb Ramps and Blended Transitions
@@ -211,7 +211,7 @@ turning space shall be 1.2 m (4.0 ft) minimum by 1.5 m (5.0 ft) minimum.
 The 1.5 m (5.0 ft) dimension shall be provided in the direction of the
 ramp run.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R304.2.1 Turning Space"
 img-file= "304-2-1.jpg"
 img-alt= "Turning space 1.2 m (4.0 ft) min by 1.2 m (4.0 ft) min at top of curb
@@ -231,7 +231,7 @@ maximum.
 Where a pedestrian circulation path crosses the curb ramp, flared sides shall be sloped 10 percent maximum, measured
 parallel to the curb line.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure 304.2.3 Flared Sides"
 img-file= "304-2-3.jpg"
 img-alt= "Flared sides sloped 10 percent max at curb ramps where pedestrian
@@ -255,7 +255,7 @@ space shall be 1.2 m (4.0 ft) minimum by 1.5 m (5.0 ft). The 1.5 m (5.0
 ft) dimension shall be provided in the direction of the pedestrian
 street crossing.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R304.3.1 Turning Space"
 img-file= "304-3-1.jpg"
 img-alt= "Turning space 1.2 m (4.0 ft) min by 1.2 m (4.0 ft) min at the bottom
@@ -275,7 +275,7 @@ Blended transitions shall comply with R304.4 and R304.5.
 ##### R304.4.1 Running Slope
 The running slope of blended transitions shall be 5 percent maximum.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R304.4.1 Running Slope"
 img-file= "304-4-1.jpg"
 img-alt= "Curb ramp running slope 5% max"
@@ -293,7 +293,7 @@ In pedestrian circulation paths other than shared use paths, the clear width of 
 ###### R304.5.1.2 Shared Use Paths
 In shared use paths, the width of curb ramp runs and blended transitions shall be equal to the width of the shared use path.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R304.5.1 Width"
 img-file= "304-5-1.jpg"
 img-alt= "Width of curb ramp 1.2 m (4 ft) min"
@@ -304,7 +304,7 @@ Grade breaks at the top and bottom of curb ramp runs shall be perpendicular to t
 breaks shall not be permitted on the surface of ramp runs and turning
 spaces. Surface slopes that meet at grade breaks shall be flush.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R304.5.2 Grade Breaks"
 img-file= "304-5-2.jpg"
 img-alt= "Grade break at curb ramp shown perpendicular to direction of travel"
@@ -329,7 +329,7 @@ Beyond the bottom grade break, a clear space 1.2 m (4.0 ft) minimum by 1.2 m (4.
 within the width of the pedestrian street crossing and wholly outside
 the parallel vehicle travel lane.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R304.5.5 Clear Space"
 img-file= "304-5-5.jpg"
 img-alt= "Clear space 1.2 m (4 ft) min by 1.2 m (4 ft) min at the bottom of curb
@@ -351,7 +351,7 @@ The truncated domes shall have a base diameter of 23 mm (0.9 in) minimum and 36 
 50 percent of the base diameter minimum and 65 percent of the base
 diameter maximum, and a height of 5 mm (0.2 in).
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R305.1.1 Dome Size"
 img-file= "305-1-1.jpg"
 img-alt= "Truncated dome in elevation shown with a base diameter of 23 mm (0.9
@@ -365,7 +365,7 @@ center-to-center spacing of 41 mm (1.6 in) minimum and 61 mm (2.4 in)
 maximum, and a base-to-base spacing of 17 mm (0.65 in) minimum, measured
 between the most adjacent domes.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R305.1.2 Dome Spacing"
 img-file= "305-1-2.jpg"
 img-alt= "Truncated domes in plan view with a center-to-center spacing of 41 mm
@@ -394,7 +394,7 @@ the public use areas of the platform. At boarding and alighting areas at
 sidewalk or street level transit stops for rail vehicles, detectable
 warning surfaces shall extend the full length of the transit stop.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R305.1.4 Size"
 img-file= "305-1-4.jpg"
 img-alt= "Detectable warning area 610 mm (24 in) deep shown extending the full
@@ -417,7 +417,7 @@ detectable warning surfaces shall be placed as follows:
 2. Where the ends of the bottom grade break are behind the back of curb and the distance from either end of the bottom grade brake to the back of curb is 1.5 m (5.0 ft) or less, detectable warning surfaces shall be placed on the ramp run within one dome spacing of the bottom grade break.
 3. Where the ends of the bottom grade break are behind the back of curb and the distance from either end of the bottom grade brake to the back of curb is more than 1.5 m (5.0 ft), detectable warning surfaces shall be placed on the lower landing at the back of curb.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R305.2.1 Perpendicular Curb Ramps"
 img-file= "305-2-1.jpg"
 img-alt= "Detectable warnings located on ramp run where both ends of the bottom
@@ -435,7 +435,7 @@ On parallel curb ramps, detectable
 warning surfaces shall be placed on the turning space at the flush
 transition between the street and sidewalk.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R305.2.2 Parallel Curb Ramps"
 img-file= "305-2-2.jpg"
 img-alt= "Detectable warning located at the back of curb along the bottom
@@ -451,7 +451,7 @@ pedestrian street crossings are provided, detectable warning surfaces
 shall be placed at the flush transition between the street and the
 sidewalk.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R305.2.3 Blended Transitions"
 img-file= "305-2-3.jpg"
 img-alt= "Detectable warning at raised crossing located back of curb along the
@@ -465,7 +465,7 @@ islands, detectable warning surfaces shall be placed at the edges of the
 pedestrian island and shall be separated by a 610 mm (2.0 ft) minimum
 length of surface without detectable warnings.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R 305.2.4 Pedestrian Refuge Island"
 img-file= "305-2-4.jpg"
 img-alt= "Detectable warnings at pedestrian refuge island 1.8 m (ft) min wide
@@ -487,7 +487,7 @@ centerline of the nearest rail. Where pedestrian gates are provided,
 detectable warning surfaces shall be placed on the side of the gates
 opposite the rail.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R305.2.5 Pedestrian At-Grade Rail Crossings"
 img-file= "305-2-5.jpg"
 img-alt= "At pedestrian at-grade rail crossing, detectable warnings shown
@@ -560,7 +560,7 @@ crossings, pedestrian activated signals complying with R209 shall be
 provided at pedestrian street crossings at multi-lane channelized turn
 lanes.
 
-### R307 Accessible Pedestrian Signals and Pedestrian Pushbuttons 
+### R307 Accessible Pedestrian Signals and Pedestrian Pushbuttons
 (See R209)
 
 
@@ -587,7 +587,7 @@ clear length of 2.4 m (8.0 ft) minimum, measured perpendicular to the
 curb or street or highway edge, and a clear width of 1.5 m (5.0 ft)
 minimum, measured parallel to the street or highway.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R308.1.1.1 Dimensions"
 img-file= "308-1-1-1.jpg"
 img-alt= "Boarding/ alighting area 2.4 m (8.0 ft) long min, measured
@@ -636,7 +636,7 @@ Boarding and alighting areas and boarding
 platforms shall be connected to streets, sidewalks, or pedestrian
 circulation paths by pedestrian access routes complying with R302.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R308.1.3.2 Connection"
 img-file= "308-1-3-2.jpg"
 img-alt= "Boarding/ alighting area and bus shelter connected by a pedestrian
@@ -658,7 +658,7 @@ comply with R402.
 
 {: .advisory}
 **Advisory R308.2 Transit Shelters.** The clear space must be located entirely within the transit shelter and not interfere with other persons using the seating.
-  
+
 
 ### R309 On-Street Parking Spaces
 
@@ -683,7 +683,7 @@ of the parking space and shall connect to a pedestrian access route. The
 access aisle shall comply with R302.7 and shall not encroach on the
 vehicular travel lane.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R309.2.1 Wide Sidewalks"
 img-file= "309-2-1.jpg"
 img-alt= "A 1.5 m (5 ft) wide min access aisle running the full length of
@@ -706,7 +706,7 @@ width of the adjacent sidewalk or the available right-of-way is less
 than or equal to 4.3 m (14.0 ft). When an access aisle is not provided,
 the parking spaces shall be located at the end of the block face.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R309.2.2 Narrow Sidewalks"
 img-file= "309-2-2.jpg"
 img-alt= "An accessible parking space without access aisle located at the end of
@@ -726,7 +726,7 @@ shall comply with R302.7 and shall be marked so as to discourage parking
 in the access aisle. Two parking spaces are permitted to share a common
 access aisle.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R309.3 Perpendicular or Angled Parking Spaces"
 img-file= "309-3.jpg"
 img-alt= "Access aisle 2.4 m (8 ft) wide min located between angled parking
@@ -784,7 +784,7 @@ or blended transitions complying with R304 shall connect the access
 aisle to the pedestrian access route. Curb ramps are not permitted
 within the access aisle.
 
-{% include figure-caption.html
+{% include_cached figure-caption.html
 text= "Figure R310.3 Access Aisle"
 img-file= "310-3.jpg"
 img-alt= "Marked passenger loading zone accessible aisle flush with the vehicle

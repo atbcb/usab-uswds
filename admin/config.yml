@@ -105,21 +105,18 @@ collections:
           format: "LLL",
           dateFormat: "MMMM D, YYYY",
           timeFormat: "hh:mm a",
-          default: '',
           required: false,
         }
       - {
           label: "Registration Link",
           name: "registration-link",
           widget: "string",
-          default: '',
           required: false,
         }
       - {
           label: "Recorded webinar video Link",
           name: "video-link",
           widget: "string",
-          default: '',
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
@@ -238,7 +235,14 @@ collections:
           required: false,
         }
       - { label: "Bio", name: "bio", widget: "text", required: false }
-      - { label: "Agency", name: "agency", widget: "string", default: "", required: false }
+      - { 
+        label: "Agency", 
+        name: "agency", 
+        widget: "select", 
+        options: [General Services Administration, Department of Defense, Department of Justice, Department of Housing and Urban Development, Department of Health and Human Services, United States Postal Service, Department of Labor, Department of Education, Department of Commerce, Department of the Interior, Department of Transportation, Department of Veterans Affairs],
+        default: "", 
+        required: false 
+        }
   - label: 504 contacts
     name: contacts-504
     folder: _contacts-504/

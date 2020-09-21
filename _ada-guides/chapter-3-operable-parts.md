@@ -239,7 +239,7 @@ a broader range of users.
 </div>
 
 <div class="grid-container">
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter3/3op19.jpg"
 img-alt= "operable parts icon"
 text-title= "<h5>Push Plates, Buttons, and Bars</h5>"
@@ -247,7 +247,7 @@ text= "Push-activated controls not requiring more than 5 lbf are acceptable. But
 text2= ""
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter3/3op20.jpg"
 img-alt= "door handle"
 text-title= "<h5>Handles, Pulls, and Knobs</h5>"
@@ -255,7 +255,7 @@ text= "Standard U-shaped pulls and lever-shaped handles are acceptable. Stationa
 text2= ""
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter3/3op21.jpg"
 img-alt= "keyhole"
 text-title= "<h5>Latches and Locks</h5>"
@@ -263,7 +263,7 @@ text= "Latches and locks with small parts that must be manipulated can be diffic
 text2= ""
 %}
 
-{% include grid-2col-leftimg-righttextboldstditalic.html
+{% include_cached grid-2col-leftimg-righttextboldstditalic.html
 img-file= "chapter3/3op22.jpg"
 img-alt= "light switch"
 text-title= "<h5>Controls and Switches</h5>"

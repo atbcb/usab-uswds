@@ -1,6 +1,18 @@
-<div class="usa-logo" id="extended-logo">
-  <a href="{{site.baseurl}}/" title="Home"
-    aria-label="Home">{% asset usab-logo.svg alt="star logo" width="64em"  style="float:left" %}</a>
-  <em class="usa-logo__text">{{site.title}}</em>
-  <span class="usa-prose">Advancing Full Access and Inclusion for All</span>
+<div class="usa-logo site-logo" id="logo">
+  <a class="style-inherit" href="/" title="Home" aria-label="{{site.title}} home">
+   <div class="display-flex flex-align-center">
+      <div class="maxw-8">
+        <img src="{{ site.baseurl }}/images/usab-logo.svg" class="width-full maxh-6 tablet:maxh-full ">
+      </div>
+      <div>
+        <span aria-hidden="true" class="site-title-short text-bold">USAB</span>
+        <span class="site-title text-bold">{{site.title}}
+          <br>
+          <span class="text-italic text-bold text-secondary-darker font-ui-sm">Advancing Full Access and Inclusion for All</span>
+        </span>
+      </div>
+    </div>
+  </a>
 </div>
+  
+    

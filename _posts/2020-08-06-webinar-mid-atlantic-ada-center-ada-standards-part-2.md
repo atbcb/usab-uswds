@@ -1,8 +1,8 @@
 ---
 layout: post
-title: 'Webinar: Mid-Atlantic ADA Center (ADA Standards) - Part 2'
+title: 'Webinar: Mid-Atlantic ADA Center - Part 2'
 date: 'August 6, 2020'
-image: /images/uploads/FqpZ6_9s_400x400.png
+image: /images/uploads/logo-mid-atlantic.gif
 authors:
   - dave-yanchulis
 tags:
