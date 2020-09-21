@@ -272,7 +272,7 @@ An accessible site shall meet the following minimum requirements:
 | 501 to 1000 | * |
 | 1001 and over | ** |{: .usa-table}
 
-* 2 percent of total.
+\* 2 percent of total.
 
 ** 20 plus 1 for each 100 over 1000.
 
@@ -389,6 +389,7 @@ Accessible buildings and facilities shall meet the following minimum requirement
 (a) If places of assembly are provided, they shall comply with the following table:
 
 | Capacity of Seating & Assembly Areas | Number of Required Wheelchair Locations |
+| --- | --- |
 | 50 to 75 | 3 |
 | 76 to 100 | 4 |
 | 101 to 150 | 5 |
@@ -399,7 +400,7 @@ Accessible buildings and facilities shall meet the following minimum requirement
 | 501 to 1,000 | * |
 | over 1,000 | ** |{: .usa-table}
 
-* 2 percent of total
+\* 2 percent of total
 
 ** 20 plus 1 for each 100 over 1,000.
 
