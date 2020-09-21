@@ -5,74 +5,72 @@ sidenav: false
 permalink: /sarahufas.html
 ---
 
-#Uniform Federal Accessibility Standards (UFAS)
+# Uniform Federal Accessibility Standards (UFAS)
 
 [Introduction](#introduction)
 [1. Purpose](#1-purpose)
 
 **2. GENERAL**
-
--   [2.1 Authority](#21-authority)
--   [2.2 Provisions for Adults](#22-provisions-for-adults)
+- [2.1 Authority](#21-authority)
+- [2.2 Provisions for Adults](#22-provisions-for-adults)
 
 **3. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS**
-
--   [3.1 Graphic Conventions](#31-graphic-conventions)
--   [3.2 Dimensional Tolerances](#32-dimensional-tolerances)
--   [3.3 Notes](#33-notes)
--   [3.4 General Terminology](#34-general-terminology)
--   [3.5 Definitions](#35-definitions)
+- [3.1 Graphic Conventions](#31-graphic-conventions)
+- [3.2 Dimensional Tolerances](#32-dimensional-tolerances)
+- [3.3 Notes](#33-notes)
+- [3.4 General Terminology](#34-general-terminology)
+- [3.5 Definitions](#35-definitions)
 
 **4. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS**
 
 - 4.1 Minimum Requirements
-*   [4.1.1 Accessible Sites and Exterior Facilities: New Construction](#411-accessible-sites-and-exterior-facilities-new-construction)
-*   [4.1.2 Accessible Buildings: New Construction](#412-accessible-buildings-new-construction)
-*   [4.1.3 Accessible Housing](#413-accessible-housing)
-*   [4.1.4 Occupancy Classifications](#414-occupancy-classifications)
-*   [4.1.5 Accessible Buildings: Additions](#415-accessible-buildings-additions)
-*   [4.1.6 Accessible Buildings: Alterations](#416-accessible-buildings-alterations)
-*   [4.1.7 Accessible Buildings: Historic Preservation](#417-accessible-buildings-historic-preservation)
--   [4.2 Space Allowance and Reach Ranges](#42-space-allowance-and-reach-ranges)
--   [4.3 Accessible Route](#43-accessible-route)
--   [4.4 Protruding Objects](#44-protruding-objects)
--   [4.5 Ground and Floor Surfaces](#45-ground-and-floor-surfaces)
--   [4.6 Parking and Passenger Loading Zones](#46-parking-and-passenger-loading-zones)
--   [4.7 Curb Ramps](#47-curb-ramps)
--   [4.8 Ramps](#48-ramps)
--   [4.9 Stairs](#49-stairs)
--   [4.10 Elevators](#410-elevators)
--   [4.11 Platform Lifts](#411-platform-lifts)
--   [4.12 Windows](#412-windows)
--   [4.13 Doors](#413-doors)
--   [4.14 Entrances](#414-entrances)
--   [4.15 Drinking Fountains and Water Coolers](#415-drinking-fountains-and-water-coolers)
--   [4.16 Water Closets](#416-water-closets)
--   [4.17 Toilet Stalls](#417-toilet-stalls)
--   [4.18 Urinals](#418-urinals)
--   [4.19 Lavatories and Mirrors](#419-lavatories-and-mirrors)
--   [4.20 Bathtubs](#420-bathtubs)
--   [4.21 Shower Stalls](#421-shower-stalls)
--   [4.22 Toilet Rooms](#422-toilet-rooms)
--   [4.23 Bathrooms, Bathing Facilities, and Shower Rooms](#423-bathrooms-bathing-facilities-and-shower-rooms)
--   [4.24 Sinks](#424-sinks)
--   [4.25 Storage](#425-storage)
--   [4.26 Handrails, Grab Bars, Tub and Shower Seats](#426-handrails-grab-bars-tub-and-shower-seats)
--   [4.27 Controls and Operating Mechanisms](#427-controls-and-operating-mechanisms)
--   [4.28 Alarms](#428-alarms)
--   [4.29 Tactile Warnings](#429-tactile-warnings)
--   [4.30 Signage](#430-signage)
--   [4.31 Telephones](#431-telephones)
--   [4.32 Seating, Tables, and Work Surfaces](#432-seating-tables-and-work-surfaces)
--   [4.33 Assembly Areas](#433-assembly-areas)
--   [4.34 Dwelling Units](#434-dwelling-units)
+ * [4.1.1 Accessible Sites and Exterior Facilities: New Construction](#411-accessible-sites-and-exterior-facilities-new-construction)
+ * [4.1.2 Accessible Buildings: New Construction](#412-accessible-buildings-new-construction)
+ * [4.1.3 Accessible Housing](#413-accessible-housing)
+ * [4.1.4 Occupancy Classifications](#414-occupancy-classifications)
+ * [4.1.5 Accessible Buildings: Additions](#415-accessible-buildings-additions)
+ * [4.1.6 Accessible Buildings: Alterations](#416-accessible-buildings-alterations)
+ * [4.1.7 Accessible Buildings: Historic Preservation](#417-accessible-buildings-historic-preservation)
+- [4.2 Space Allowance and Reach Ranges](#42-space-allowance-and-reach-ranges)
+- [4.3 Accessible Route](#43-accessible-route)
+- [4.4 Protruding Objects](#44-protruding-objects)
+- [4.5 Ground and Floor Surfaces](#45-ground-and-floor-surfaces)
+- [4.6 Parking and Passenger Loading Zones](#46-parking-and-passenger-loading-zones)
+- [4.7 Curb Ramps](#47-curb-ramps)
+- [4.8 Ramps](#48-ramps)
+- [4.9 Stairs](#49-stairs)
+- [4.10 Elevators](#410-elevators)
+- [4.11 Platform Lifts](#411-platform-lifts)
+- [4.12 Windows](#412-windows)
+- [4.13 Doors](#413-doors)
+- [4.14 Entrances](#414-entrances)
+- [4.15 Drinking Fountains and Water Coolers](#415-drinking-fountains-and-water-coolers)
+- [4.16 Water Closets](#416-water-closets)
+- [4.17 Toilet Stalls](#417-toilet-stalls)
+- [4.18 Urinals](#418-urinals)
+- [4.19 Lavatories and Mirrors](#419-lavatories-and-mirrors)
+- [4.20 Bathtubs](#420-bathtubs)
+- [4.21 Shower Stalls](#421-shower-stalls)
+- [4.22 Toilet Rooms](#422-toilet-rooms)
+- [4.23 Bathrooms, Bathing Facilities, and Shower Rooms](#423-bathrooms-bathing-facilities-and-shower-rooms)
+- [4.24 Sinks](#424-sinks)
+- [4.25 Storage](#425-storage)
+- [4.26 Handrails, Grab Bars, Tub and Shower Seats](#426-handrails-grab-bars-tub-and-shower-seats)
+- [4.27 Controls and Operating Mechanisms](#427-controls-and-operating-mechanisms)
+- [4.28 Alarms](#428-alarms)
+- [4.29 Tactile Warnings](#429-tactile-warnings)
+- [4.30 Signage](#430-signage)
+- [4.31 Telephones](#431-telephones)
+- [4.32 Seating, Tables, and Work Surfaces](#432-seating-tables-and-work-surfaces)
+- [4.33 Assembly Areas](#433-assembly-areas)
+- [4.34 Dwelling Units](#434-dwelling-units)
 
 [5. RESTAURANTS AND CAFETERIAS](#5-restaurants-and-cafeterias)
--   [6. HEALTH CARE](#6-health-care)
--   [7. MERCANTILE](#7-mercantile)
--   [8. LIBRARIES](#8-libraries)
--   [9. POSTAL FACILITIES](#9-postal-facilities)
--   [APPENDIX](#appendix)
+[6. HEALTH CARE](#6-health-care)
+[7. MERCANTILE](#7-mercantile)
+[8. LIBRARIES](#8-libraries)
+[9. POSTAL FACILITIES](#9-postal-facilities)
+[APPENDIX](#appendix)
 
 ## Introduction
 
@@ -374,7 +372,7 @@ Accessible buildings and facilities shall meet the following minimum requirement
 | 1 bank** | 1 per floor |
 | 2 or more banks** | 1 per bank.<br><br>Accessible unit may be installed as a single unit in proximity (either visible or with signage) to the bank. At least one public telephone per floor shall meet the requirements for a forward reach telephone.*** |{: .usa-table}
 
-* Additional public telephones may be installed at any height. Unless otherwise specified, accessible telephones may be either forward or side reach telephones.
+\* Additional public telephones may be installed at any height. Unless otherwise specified, accessible telephones may be either forward or side reach telephones.
 
 ** A bank consists of two or more adjacent public telephones, often installed as a unit.
 
@@ -514,7 +512,7 @@ Television studios admitting audiences
 
 Theaters
 
-* See Part 8 for special applications.
+\* See Part 8 for special applications.
 
 ** See Part 5 for special applications.
 
@@ -570,7 +568,7 @@ Radio & T.V. stations
 
 Telephone exchanges
 
-* See Part 9 for special applications.
+\* See Part 9 for special applications.
 
 **Application**
 
@@ -704,7 +702,7 @@ Woodworking, cabinet
 
 Postal mail: processing facilities*
 
-* See Part 9 for special applications.
+\* See Part 9 for special applications.
 
 **Application**
 
@@ -795,7 +793,7 @@ Shopping centers
 
 Sales rooms
 
-* See Part 7 for special applications.
+\* See Part 7 for special applications.
 
 **Application**
 
@@ -986,7 +984,7 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 | Steeper than 1:10 but no steeper than 1:8 | 3 in 75 mm | 2 ft 0.6 m |
 | Steeper than 1:12 but no steeper than 1:10 | 6 in 150 mm | 5 ft 1.5 m |{: .usa-table}
 
-* A slope steeper than 1:8 not allowed.
+\* A slope steeper than 1:8 not allowed.
 
 (b) Stairs. Full extension of stair handrails shall not be required in alterations where such extensions would be hazardous or impossible due to plan configuration.
 
@@ -3068,7 +3066,7 @@ Table A1 shows convenient work surface heights for seated persons. The great var
 | Seated in a 16-in (405-mm)<br>-high chair:<br>Manual work | 26 | 660 | 27 | 685 |
 | Light, detailed work | 28 | 710 | 31 | 785 |{: .usa-table}
 
-* All dimensions are based on a work-surface thickness of 1-1/2 in (38 mm) and a clearance of 1-1/2 in (38 mm) between legs and the underside of a work surface.
+\* All dimensions are based on a work-surface thickness of 1-1/2 in (38 mm) and a clearance of 1-1/2 in (38 mm) between legs and the underside of a work surface.
 
 ** This type of wheelchair arm does not interfere with the positioning of a wheelchair under a work surface.
 
