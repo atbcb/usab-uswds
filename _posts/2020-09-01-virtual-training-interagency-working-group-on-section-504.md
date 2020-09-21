@@ -10,8 +10,5 @@ tags:
   - trainings
 webinar: true
 webinar-start: 'September 16, 2020 12:00 AM'
-webinar-end: ''
-registration-link: ''
-video-link: ''
 ---
 Virtual training on signage for the interagency working group on section 504
