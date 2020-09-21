@@ -5,7 +5,7 @@ sidenav: false
 permalink: /sarahufas.html
 ---
 
-# { page.title }
+#Uniform Federal Accessibility Standards (UFAS)
 
 [Introduction](#introduction)
 [1. Purpose](#1-purpose)
@@ -25,56 +25,56 @@ permalink: /sarahufas.html
 
 **4. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS**
 
-**4.1 Minimum Requirements**
+- 4.1 Minimum Requirements
+*   [4.1.1 Accessible Sites and Exterior Facilities: New Construction](#411-accessible-sites-and-exterior-facilities-new-construction)
+*   [4.1.2 Accessible Buildings: New Construction](#412-accessible-buildings-new-construction)
+*   [4.1.3 Accessible Housing](#413-accessible-housing)
+*   [4.1.4 Occupancy Classifications](#414-occupancy-classifications)
+*   [4.1.5 Accessible Buildings: Additions](#415-accessible-buildings-additions)
+*   [4.1.6 Accessible Buildings: Alterations](#416-accessible-buildings-alterations)
+*   [4.1.7 Accessible Buildings: Historic Preservation](#417-accessible-buildings-historic-preservation)
+-   [4.2 Space Allowance and Reach Ranges](#42-space-allowance-and-reach-ranges)
+-   [4.3 Accessible Route](#43-accessible-route)
+-   [4.4 Protruding Objects](#44-protruding-objects)
+-   [4.5 Ground and Floor Surfaces](#45-ground-and-floor-surfaces)
+-   [4.6 Parking and Passenger Loading Zones](#46-parking-and-passenger-loading-zones)
+-   [4.7 Curb Ramps](#47-curb-ramps)
+-   [4.8 Ramps](#48-ramps)
+-   [4.9 Stairs](#49-stairs)
+-   [4.10 Elevators](#410-elevators)
+-   [4.11 Platform Lifts](#411-platform-lifts)
+-   [4.12 Windows](#412-windows)
+-   [4.13 Doors](#413-doors)
+-   [4.14 Entrances](#414-entrances)
+-   [4.15 Drinking Fountains and Water Coolers](#415-drinking-fountains-and-water-coolers)
+-   [4.16 Water Closets](#416-water-closets)
+-   [4.17 Toilet Stalls](#417-toilet-stalls)
+-   [4.18 Urinals](#418-urinals)
+-   [4.19 Lavatories and Mirrors](#419-lavatories-and-mirrors)
+-   [4.20 Bathtubs](#420-bathtubs)
+-   [4.21 Shower Stalls](#421-shower-stalls)
+-   [4.22 Toilet Rooms](#422-toilet-rooms)
+-   [4.23 Bathrooms, Bathing Facilities, and Shower Rooms](#423-bathrooms-bathing-facilities-and-shower-rooms)
+-   [4.24 Sinks](#424-sinks)
+-   [4.25 Storage](#425-storage)
+-   [4.26 Handrails, Grab Bars, Tub and Shower Seats](#426-handrails-grab-bars-tub-and-shower-seats)
+-   [4.27 Controls and Operating Mechanisms](#427-controls-and-operating-mechanisms)
+-   [4.28 Alarms](#428-alarms)
+-   [4.29 Tactile Warnings](#429-tactile-warnings)
+-   [4.30 Signage](#430-signage)
+-   [4.31 Telephones](#431-telephones)
+-   [4.32 Seating, Tables, and Work Surfaces](#432-seating-tables-and-work-surfaces)
+-   [4.33 Assembly Areas](#433-assembly-areas)
+-   [4.34 Dwelling Units](#434-dwelling-units)
 
--   [4.1.1 Accessible Sites and Exterior Facilities: New Construction](#411-accessible-sites-and-exterior-facilities-new-construction)
--   [4.1.2 Accessible Buildings: New Construction](#412-accessible-buildings-new-construction)
--   [4.1.3 Accessible Housing](#413-accessible-housing)
--   [4.1.4 Occupancy Classifications](#414-occupancy-classifications)
--   [4.1.5 Accessible Buildings: Additions](#415-accessible-buildings-additions)
--   [4.1.6 Accessible Buildings: Alterations](#416-accessible-buildings-alterations)
--   [4.1.7 Accessible Buildings: Historic Preservation](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.1.7)
--   [4.2 Space Allowance and Reach Ranges](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.2)
--   [4.3 Accessible Route](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.3)
--   [4.4 Protruding Objects](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.4)
--   [4.5 Ground and Floor Surfaces](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.5)
--   [4.6 Parking and Passenger Loading Zones](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.6)
--   [4.7 Curb Ramps](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.7)
--   [4.8 Ramps](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.8)
--   [4.9 Stairs](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.9)
--   [4.10 Elevators](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.10)
--   [4.11 Platform Lifts](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.11)
--   [4.12 Windows](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.12)
--   [4.13 Doors](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.13)
--   [4.14 Entrances](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.14)
--   [4.15 Drinking Fountains and Water Coolers](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.15)
--   [4.16 Water Closets](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.16)
--   [4.17 Toilet Stalls](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.17)
--   [4.18 Urinals](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.18)
--   [4.19 Lavatories and Mirrors](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.19)
--   [4.20 Bathtubs](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.20)
--   [4.21 Shower Stalls](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.21)
--   [4.22 Toilet Rooms](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.22)
--   [4.23 Bathrooms, Bathing Facilities, and Shower Rooms](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.23)
--   [4.24 Sinks](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.24)
--   [4.25 Storage](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.25)
--   [4.26 Handrails, Grab Bars, Tub and Shower Seats](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.26)
--   [4.27 Controls and Operating Mechanisms](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.27)
--   [4.28 Alarms](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.28)
--   [4.29 Tactile Warnings](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.29)
--   [4.30 Signage](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.30)
--   [4.31 Telephones](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.31)
--   [4.32 Seating, Tables, and Work Surfaces](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.32)
--   [4.33 Assembly Areas](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.33)
--   [4.34 Dwelling Units](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#4.34)
--   [5\. RESTAURANTS AND CAFETERIAS](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#5.)
--   [6\. HEALTH CARE](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#6.)
--   [7\. MERCANTILE](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#7.)
--   [8\. LIBRARIES](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#8.)
--   [9\. POSTAL FACILITIES](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#9.)
--   [APPENDIX](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#APPENDIX)
+[5. RESTAURANTS AND CAFETERIAS](#5-restaurants-and-cafeterias)
+-   [6. HEALTH CARE](#6-health-care)
+-   [7. MERCANTILE](#7-mercantile)
+-   [8. LIBRARIES](#8-libraries)
+-   [9. POSTAL FACILITIES](#9-postal-facilities)
+-   [APPENDIX](#appendix)
 
-**Introduction**
+## Introduction
 
 This document presents uniform standards for the design, construction and alteration of buildings so that physically handicapped persons will have ready access to and use of them in accordance with the Architectural Barriers Act, 42 U.S.C. 4151-4157. The document embodies an agreement to minimize the differences between the standards previously used by four agencies (the General Services Administration, the departments of Housing and Urban Development and Defense, and the United States Postal Service) that are authorized to issue standards under the Architectural Barriers Act, and between those standards and the access standards recommended for facilities that are not federally funded or constructed.
 
@@ -94,30 +94,39 @@ The UFAS was published in the FEDERAL REGISTER on August 7, 1984 (49 FR 31528). 
 
 [Note: Handbook RE-4, was amended effective April 16, 1986, by the addition of Interim Standards, Section 4.1.8, "Accessible Buildings: Leasing of Space in Existing Buildings." While Handbook RE-4, not UFAS, sets forth the governing standards for Postal facility accessibility. Handbook RE-4 may be further amended.]
 
-**1\. PURPOSE.**
+## 1. PURPOSE
 
 This document sets standards for facility accessibility by physically handicapped persons for Federal and federally-funded facilities. These standards are to be applied during the design, construction, and alteration of buildings and facilities to the extent required by the Architectural Barriers Act of 1968, as amended.
 
-**2\. GENERAL.**
+## 2. GENERAL
 
-**2.1 AUTHORITY.** These standards were jointly developed by the General Services Administration, the Department of Housing and Urban Development, the Department of Defense, and the United States Postal Service, under the authority of sections 2, 3, 4, and 4a, respectively, of the Architectural Barriers Act of 1968, as amended, Pub. L. No. 90-480, 42 U.S.C. 4151-4157.
+### 2.1 AUTHORITY
 
-**2.2 PROVISIONS FOR ADULTS.** The specifications in these standards are based upon adult dimensions and anthropometrics.
+These standards were jointly developed by the General Services Administration, the Department of Housing and Urban Development, the Department of Defense, and the United States Postal Service, under the authority of sections 2, 3, 4, and 4a, respectively, of the Architectural Barriers Act of 1968, as amended, Pub. L. No. 90-480, 42 U.S.C. 4151-4157.
 
-**3\. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS.**
+### 2.2 PROVISIONS FOR ADULTS
 
-3.1** GRAPHIC CONVENTIONS.** Graphic conventions are shown in Table 1. Dimensions that are not marked "minimum" or "maximum" are absolute, unless otherwise indicated in the text or captions.
+The specifications in these standards are based upon adult dimensions and anthropometrics.
+
+## 3. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS
+
+### 3.1 GRAPHIC CONVENTIONS
+
+Graphic conventions are shown in Table 1. Dimensions that are not marked "minimum" or "maximum" are absolute, unless otherwise indicated in the text or captions.
 
 ![The table describes graphic conventions for showing dimensions on figures between boundary and element lines, how the direction of approach is denoted, centerline designation and boundary of clear floor area. All dimensions are shown in inches above the measure line, with the metric equivalent below. Where the dimension does not fit conveniently between lines, the measure line is extended beyond the lines and the dimension placed above (and below) the extension.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/table1.gif)
 
-**Table 1\
-Graphic Conventions**
+**Table 1: Graphic Conventions**
 
-3.2** DIMENSIONAL TOLERANCES.** All dimensions are subject to conventional building industry tolerances for field conditions.
+### 3.2 DIMENSIONAL TOLERANCES
 
-3.3** NOTES.** The text of these standards does not contain notes or footnotes. Additional information, explanations, and advisory materials are located in the Appendix. Paragraphs marked with an asterisk have related, nonmandatory material in the Appendix. In the Appendix, the corresponding paragraph numbers are preceded by an A.
+All dimensions are subject to conventional building industry tolerances for field conditions.
 
-**3.4**** GENERAL TERMINOLOGY.**
+### 3.3 NOTES
+
+The text of these standards does not contain notes or footnotes. Additional information, explanations, and advisory materials are located in the Appendix. Paragraphs marked with an asterisk have related, nonmandatory material in the Appendix. In the Appendix, the corresponding paragraph numbers are preceded by an A.
+
+### 3.4 GENERAL TERMINOLOGY
 
 *COMPLY WITH.* Meet one or more specifications of this standard.
 
@@ -129,7 +138,9 @@ Graphic Conventions**
 
 *SHOULD.* Denotes an advisory specification or recommendation.
 
-**3.5**** DEFINITIONS.** The following terms shall, for the purpose of these standards, have the meaning indicated in this section.
+### 3.5 DEFINITIONS
+
+The following terms shall, for the purpose of these standards, have the meaning indicated in this section.
 
 *ACCESS AISLE.* An accessible pedestrian space between elements, such as parking spaces, seating, and desks, that provides clearances appropriate for use of the elements.
 
@@ -229,11 +240,13 @@ Graphic Conventions**
 
 *WALK.* An exterior pathway with a prepared surface intended for pedestrian use, including general pedestrian areas such as plazas and courts.
 
-**4\. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS.**
+## 4. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS
 
-**4.1 MINIMUM REQUIREMENTS.**
+### 4.1 MINIMUM REQUIREMENTS
 
-**4.1.1 ACCESSIBLE SITES AND EXTERIOR FACILITIES: NEW CONSTRUCTION.** An accessible site shall meet the following minimum requirements:
+#### 4.1.1 ACCESSIBLE SITES AND EXTERIOR FACILITIES: NEW CONSTRUCTION
+
+An accessible site shall meet the following minimum requirements:
 
 (1) At least one accessible route complying with 4.3 shall be provided within the boundary of the site from public transportation stops, accessible parking spaces, passenger loading zones if provided, and public streets or sidewalks to an accessible building entrance.
 
@@ -246,6 +259,7 @@ Graphic Conventions**
 (5) (a) If parking spaces are provided for employees or visitors, or both, then accessible spaces, complying with 4.6, shall be provided in each such parking area in conformance with the following table:
 
 | Total Parking in Lot | Required Minimum Number of Accessible Spaces |
+| --- | --- |
 | 1 to 25 | 1 |
 | 26 to 50 | 2 |
 | 51 to 75 | 3 |
@@ -257,9 +271,10 @@ Graphic Conventions**
 | 401 to 500 | 9 |
 | 501 to 1000 | * |
 | 1001 and over | ** |
+{: .usa-table}
 
-  * 2 percent of total.\
-** 20 plus 1 for each 100 over 1000.
+\* 2 percent of total.
+\** 20 plus 1 for each 100 over 1000.
 
 *EXCEPTION:* The total number of accessible parking spaces may be distributed among parking lots, if greater accessibility is achieved.
 
@@ -299,7 +314,9 @@ Graphic Conventions**
 
 (d) accessible toilet and bathing facilities.
 
-**4.1.2 ACCESSIBLE BUILDINGS: NEW CONSTRUCTION.** Accessible buildings and facilities shall meet the following minimum requirements:
+#### 4.1.2 ACCESSIBLE BUILDINGS: NEW CONSTRUCTION
+
+Accessible buildings and facilities shall meet the following minimum requirements:
 
 (1) At least one accessible route complying with 4.3 shall connect accessible building or facility entrances with all accessible spaces and elements within the building or facility.
 
@@ -311,7 +328,7 @@ Graphic Conventions**
 
 (5) One passenger elevator complying with 4.10 shall serve each level in all multi-story buildings and facilities. If more than one elevator is provided, each elevator shall comply with 4.10.
 
-**EXCEPTION:* *Elevator pits, elevator penthouses, mechanical rooms, piping or equipment catwalks are excepted from this requirement.
+*EXCEPTION:* Elevator pits, elevator penthouses, mechanical rooms, piping or equipment catwalks are excepted from this requirement.
 
 *EXCEPTION:* Accessible ramps complying with 4.8 or, if no other alternative is feasible, accessible platform lifts complying with 4.11 may be used in lieu of an elevator.
 
@@ -352,19 +369,17 @@ Graphic Conventions**
 (a) If public telephones are provided, then accessible public telephones shall comply with 4.31, Telephones, and the following table:
 
 | Number of public telephones provided on each floor: | Number of telephones required to be accessible:* |
+| --- | --- |
 | 1 or more single unit installations | 1 per floor |
 | 1 bank** | 1 per floor |
-| 2 or more banks** | 1 per bank.
-
-Accessible unit may be installed as a single unit in proximity (either visible or with signage) to the bank. At least one public telephone per floor shall meet the requirements for a forward reach telephone.***
-
- |
+| 2 or more banks** | 1 per bank.<br><br>Accessible unit may be installed as a single unit in proximity (either visible or with signage) to the bank. At least one public telephone per floor shall meet the requirements for a forward reach telephone.*** |
+{: .usa-table}
 
 * Additional public telephones may be installed at any height. Unless otherwise specified, accessible telephones may be either forward or side reach telephones.
 
 ** A bank consists of two or more adjacent public telephones, often installed as a unit.
 
-*** *EXCEPTION:* For exterior installations only, if dial tone first service is not available, then a side reach telephone may be installed instead of the required forward reach telephone (i.e., one telephone in proximity to each bank shall comply with 4.31).
+*EXCEPTION:* For exterior installations only, if dial tone first service is not available, then a side reach telephone may be installed instead of the required forward reach telephone (i.e., one telephone in proximity to each bank shall comply with 4.31).
 
 (b) At least one of the public telephones complying with 4.31, Telephones, shall be equipped with a volume control. The installation of additional volume controls is encouraged, and these may be installed on any public telephone provided.
 
@@ -384,14 +399,17 @@ Accessible unit may be installed as a single unit in proximity (either visible o
 | 401 to 500 | 9 |
 | 501 to 1,000 | * |
 | over 1,000 | ** |
+{: .usa-table}
 
-##### * 2 percent of total
+* 2 percent of total
 
-##### ** 20 plus 1 for each 100 over 1,000.
+** 20 plus 1 for each 100 over 1,000.
 
 (b) Assembly areas with audio-amplification systems shall have a listening system complying with 4.33 to assist a reasonable number of people, but no fewer than two, with severe hearing loss. For assembly areas without amplification systems and for spaces used primarily as meeting and conference rooms, a permanently installed or portable listening system shall be provided. If portable systems are used for conference or meeting rooms, the system may serve more than one room.
 
-**4.1.3 ACCESSIBLE HOUSING.** Accessible housing shall comply with the requirements of 4.1 and 4.34 except as noted below:
+#### 4.1.3 ACCESSIBLE HOUSING
+
+Accessible housing shall comply with the requirements of 4.1 and 4.34 except as noted below:
 
 **(1) ELEVATORS.** Where provided, elevators shall comply with 4.10. Elevators or other accessible means of vertical movement are not required in residential facilities when:
 
@@ -405,7 +423,9 @@ Accessible unit may be installed as a single unit in proximity (either visible o
 
 **(3) COMMON AREAS.** At least one of each type of common area and amenity in each project shall be accessible and shall be located on an accessible route to any accessible dwelling unit.
 
-**4.1.4 OCCUPANCY CLASSIFICATIONS.** Buildings and facilities shall comply with these standards to the extent noted in this section for various occupancy classifications, unless otherwise modified by a special application section. Occupancy classifications, and the facilities covered under each category include, but are not necessarily limited to, the listing which follows:
+#### 4.1.4 OCCUPANCY CLASSIFICATIONS
+
+Buildings and facilities shall comply with these standards to the extent noted in this section for various occupancy classifications, unless otherwise modified by a special application section. Occupancy classifications, and the facilities covered under each category include, but are not necessarily limited to, the listing which follows:
 
 **(1) GENERAL EXCEPTIONS.** Accessibility is not required to elevator pits, elevator penthouses, mechanical rooms, piping or equipment catwalks, lookout galleries, electrical and telephone closets, and general utility rooms.
 
@@ -495,9 +515,9 @@ Television studios admitting audiences
 
 Theaters
 
-##### * See Part 8 for special applications.
+* See Part 8 for special applications.
 
-##### ** See Part 5 for special applications.
+** See Part 5 for special applications.
 
 **Application**
 
@@ -551,7 +571,7 @@ Radio & T.V. stations
 
 Telephone exchanges
 
-##### * See Part 9 for special applications.
+* See Part 9 for special applications.
 
 **Application**
 
@@ -685,7 +705,7 @@ Woodworking, cabinet
 
 Postal mail: processing facilities*
 
-##### * See Part 9 for special applications.
+* See Part 9 for special applications.
 
 **Application**
 
@@ -736,12 +756,12 @@ All public use, common use, or areas which may result in employment of physicall
 (b) Institutional occupancies used for medical or other treatment or care of persons, some of whom are suffering from physical or mental illness, disease or infirmity, including:
 
 | Facilities | Application |
+| --- | --- |
 | Long Term Care Facilities: (including Skilled Nursing Facilities, Intermediate Care Facilities, Bed & Care, and Nursing Homes). | At least 50 percent of patient toilets and bedrooms; all public use, common use or areas which may result in employment of handicapped persons. |
 | Outpatient Facilities: | All patient toilets and bedrooms, all public use, common use, or areas which may result in employment of physically handicapped persons. |
-| Hospital*:\
-General Purpose Hospital: | At least 10 percent of toilets and bedrooms, all public use, common use, or areas which may result in employment of physically handicapped persons. |
-| Special Purpose Hospital:\
-(Hospitals that treat conditions that affect mobility). | All patient toilets bedrooms, all public use, common use, or areas which may result in employment of physically handicapped persons. |
+| Hospital*: General Purpose Hospital: | At least 10 percent of toilets and bedrooms, all public use, common use, or areas which may result in employment of physically handicapped persons. |
+| Special Purpose Hospital: (Hospitals that treat conditions that affect mobility). | All patient toilets bedrooms, all public use, common use, or areas which may result in employment of physically handicapped persons. |
+{: .usa-table}
 
 *** See Part 6 for special applications.**
 
@@ -761,7 +781,7 @@ Other detention or correctional facilities
 
 5 percent of residential units available, or at least one unit, whichever is greater; all common use, visitor use, or areas which may result in employment of physically handicapped persons.
 
-**(10) MERCANTILE*. **Mercantile occupancy includes, among others, all buildings and structures or parts thereof, for the display and sale of merchandise, and involving stocks of goods, wares or merchandise incidental to such purposes and accessible to the public.
+**(10) MERCANTILE*.** Mercantile occupancy includes, among others, all buildings and structures or parts thereof, for the display and sale of merchandise, and involving stocks of goods, wares or merchandise incidental to such purposes and accessible to the public.
 
 **Facilities**
 
@@ -777,7 +797,7 @@ Shopping centers
 
 Sales rooms
 
-##### * See Part 7 for special applications.
+* See Part 7 for special applications.
 
 **Application**
 
@@ -802,22 +822,22 @@ Boarding houses
 (b) Residential occupancies in multiple dwellings where the occupants are primarily permanent in nature, including:
 
 | Facilities | Application |
-| Multifamily housing
-
-(Apartment houses):
-
- |   |
+| --- | --- |
+| Multifamily housing<br><br>(Apartment houses): |   |
 | Federally assisted | 5 percent of the total, or at least one unit, whichever is greater, in projects of 15 or more dwelling units, or as determined by the appropriate Federal agency following a local needs assessment conducted by local government bodies or states under applicable regulations. |
 | Federally owned | 5 percent of the total, or at least one unit, whichever is greater. |
 | Dormitories | 5 percent of the total or at least one unit, whichever is greater. |
+{: .usa-table}
 
 (c) Residential occupancies in one (1) and two (2) family dwellings where the occupancies are primarily permanent in nature and not classified as preceding residential categories or as institutional.
 
 | Facilities | Application |
+| --- | --- |
 | One and two family dwelling: |   |
 | Federally assisted, rental | 5 percent of the total, or at least one unit, whichever is greater, in projects of 15 or more dwelling units, or as determined by the appropriate Federal agency following a local needs assessment conducted by local government bodies or states under applicable regulations. |
 | Federally assisted, homeownership | To be determined by home buyer. |
 | Federally owned | 5 percent of the total, or at least one unit, whichever is greater. |
+{: .usa-table}
 
 **(12) STORAGE.** Storage occupancy includes, among others, the use of a building or structure, or portion thereof, for storage that is not classified as a Hazardous Occupancy.
 
@@ -891,7 +911,9 @@ Buildings of less than 1,000 sq. ft. such as: Private garages, Carports, Sheds, 
 
 All areas for which the intended use will require public access or which may result in employment of physically handicapped persons shall comply.
 
-**4.1.5 ACCESSIBLE BUILDINGS: ADDITIONS. **Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, Minimum Requirements, except as follows:
+#### 4.1.5 ACCESSIBLE BUILDINGS: ADDITIONS
+
+Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, Minimum Requirements, except as follows:
 
 **(1) ENTRANCES.** If a new addition to a building or facility does not have an entrance, then at least one entrance in the existing building or facility shall comply with 4.1.4, Entrances.
 
@@ -905,7 +927,7 @@ All areas for which the intended use will require public access or which may res
 
 **(5) HOUSING:** (Reserved).
 
-**4.1.6 ACCESSIBLE BUILDINGS. ALTERATIONS.**
+#### 4.1.6 ACCESSIBLE BUILDINGS: ALTERATIONS
 
 **(1) GENERAL.** Alterations to existing buildings or facilities shall comply with the following:
 
@@ -961,13 +983,15 @@ All areas for which the intended use will require public access or which may res
 
 (a) Ramps. Curb ramps and ramps to be constructed on existing sites or in existing buildings or facilities may have slopes and rises as shown in Table 2 if space limitations prohibit the use of a 1:12 slope or less.
 
-> > **Table 2 -- Allowable Ramp Dimensions for Construction in Existing Sites, Buildings, and Facilities**
+**Table 2 -- Allowable Ramp Dimensions for Construction in Existing Sites, Buildings, and Facilities**
 
 | **Slope*** | Maximum Rise | Maximum Run |
+| --- | --- | --- |
 | Steeper than 1:10 but no steeper than 1:8 | 3 in 75 mm | 2 ft 0.6 m |
 | Steeper than 1:12 but no steeper than 1:10 | 6 in 150 mm | 5 ft 1.5 m |
+{: .usa-table}
 
-> > > ##### * A slope steeper than 1:8 not allowed.
+* A slope steeper than 1:8 not allowed.
 
 (b) Stairs. Full extension of stair handrails shall not be required in alterations where such extensions would be hazardous or impossible due to plan configuration.
 
@@ -995,7 +1019,7 @@ All areas for which the intended use will require public access or which may res
 
 **(5) HOUSING.** (Reserved).
 
-4.1.7**ACCESSIBLE BUILDINGS: HISTORIC PRESERVATION.**
+#### 4.1.7 ACCESSIBLE BUILDINGS: HISTORIC PRESERVATION
 
 **(1) APPLICABILITY.**
 
@@ -1021,63 +1045,79 @@ All areas for which the intended use will require public access or which may res
 
 (e) Displays and written information, documents, etc, should be located where they can be seen by a seated person. Exhibits and signage displayed horizontally, e.g., books, should be no higher than 44 in (1120 mm) above the floor surface.
 
-4.2** SPACE ALLOWANCE AND REACH RANGES.**
+### 4.2 SPACE ALLOWANCE AND REACH RANGES
 
-**4.2.1* WHEELCHAIR PASSAGE WIDTH.** The minimum clear width for single wheelchair passage shall be 32 in (815 mm) at a point and 36 in (915 mm) continuously (see Fig. 1 and 24(e)).
+#### 4.2.1 WHEELCHAIR PASSAGE WIDTH
+
+The minimum clear width for single wheelchair passage shall be 32 in (815 mm) at a point and 36 in (915 mm) continuously (see Fig. 1 and 24(e)).
 
 ![The minimum clear passage width for a single wheelchair shall be 36 inches (915 mm) minimum along an accessible route, but may be reduced to 32 inches (815 mm) minimum at a point for a maximum depth of 24 inches (610 mm), such as at a doorway.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig1.gif)
 
-**Figure 1\
+**Figure 1\ 
 Minimum Clear Width for Single Wheelchair**
 
-**4.2.2 WIDTH FOR WHEELCHAIR PASSING.** The minimum width for two wheelchairs to pass is 60 in (1525 mm) (see Fig. 2).
+#### 4.2.2 WIDTH FOR WHEELCHAIR PASSING
+
+The minimum width for two wheelchairs to pass is 60 in (1525 mm) (see Fig. 2).
 
 ![60" minimum passing space ](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig2.gif)
 
 **Figure 2\
 Minimum Clear Width for Two Wheelchairs**
 
-**4.2.3* WHEELCHAIR TURNING SPACE. **The space required for a wheelchair to make a 180-degree turn is a clear space of 60 in (1525 mm) diameter (see Fig. 3(a)) or a T-shaped space (see Fig. 3(b)).
+#### 4.2.3* WHEELCHAIR TURNING SPACE
+
+The space required for a wheelchair to make a 180-degree turn is a clear space of 60 in (1525 mm) diameter (see Fig. 3(a)) or a T-shaped space (see Fig. 3(b)).
 
 ![60" minimum diameter circle and T-shaped turning space](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig3.gif)
 
 **Figure 3\
 Wheelchair Turning Space**
 
-**4.2.4* CLEAR FLOOR OR GROUND SPACE FOR WHEELCHAIRS.**
+#### 4.2.4* CLEAR FLOOR OR GROUND SPACE FOR WHEELCHAIRS
 
-**4.2.4.1 SIZE AND APPROACH.** The minimum clear floor or ground space required to accommodate a single, stationary wheelchair occupant is 30 in by 48 in (760 mm by 1220 mm) (see Fig. 4(a)). The minimum clear floor or ground space for wheelchairs may be positioned for forward or parallel approach to an object (see Fig. 4(b) and (c)). Clear floor or ground space for wheelchairs may be part of the knee space required under some objects.
+##### 4.2.4.1 SIZE AND APPROACH
+
+The minimum clear floor or ground space required to accommodate a single, stationary wheelchair occupant is 30 in by 48 in (760 mm by 1220 mm) (see Fig. 4(a)). The minimum clear floor or ground space for wheelchairs may be positioned for forward or parallel approach to an object (see Fig. 4(b) and (c)). Clear floor or ground space for wheelchairs may be part of the knee space required under some objects.
 
 ![Minimum 30" by 48" clear floor space for wheelchairs with additional clearances shown for clear floor space in alcoves](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig4.gif)
 
 **Figure 4\
 Minimum Clear Floor Space for Wheelchairs**
 
-**4.2.4.2 RELATIONSHIP OF MANEUVERING CLEARANCE TO WHEELCHAIR SPACES.**
+##### 4.2.4.2 RELATIONSHIP OF MANEUVERING CLEARANCE TO WHEELCHAIR SPACES
 
 One full unobstructed side of the clear floor or ground space for a wheelchair shall adjoin or overlap an accessible route or adjoin another wheelchair clear floor space. If a clear floor space is located in an alcove or otherwise confined on all or part of three sides, additional maneuvering clearances shall be provided as shown in Fig. 4(d) and (e).
 
-**4.2.4.3 SURFACES FOR WHEELCHAIR SPACES. Clear floor or ground spaces for wheelchairs shall comply with 4.5.**
+##### 4.2.4.3 SURFACES FOR WHEELCHAIR SPACES
 
-**4.2.5 FORWARD REACH.** If the clear floor space only allows forward approach to an object, the maximum high forward reach allowed shall be 48 in (1220 mm) (see Fig. 5(a)). The minimum low forward reach is 15 in (380 mm). If the high forward reach is over an obstruction, reach and clearances shall be as shown in Fig. 5(b).
+Clear floor or ground spaces for wheelchairs shall comply with 4.5.**
+
+#### 4.2.5 FORWARD REACH
+
+If the clear floor space only allows forward approach to an object, the maximum high forward reach allowed shall be 48 in (1220 mm) (see Fig. 5(a)). The minimum low forward reach is 15 in (380 mm). If the high forward reach is over an obstruction, reach and clearances shall be as shown in Fig. 5(b).
 
 ![forward reach ranges (unobstructed and obstructed)](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig5.gif)
 
 **Figure 5\
 Forward Reach**
 
-**4.2.6* SIDE REACH.** If the clear floor space allows parallel approach by a person in a wheelchair, the maximum high side reach allowed shall be 54 in (1370 mm) and the low side reach shall be no less than 9 in (230 mm) above the floor (Fig. 6(a) and (b)). If the side reach is over an obstruction, the reach and clearances shall be as shown in Fig. 6(c).
+#### 4.2.6* SIDE REACH
+
+If the clear floor space allows parallel approach by a person in a wheelchair, the maximum high side reach allowed shall be 54 in (1370 mm) and the low side reach shall be no less than 9 in (230 mm) above the floor (Fig. 6(a) and (b)). If the side reach is over an obstruction, the reach and clearances shall be as shown in Fig. 6(c).
 
 ![side reach ranges (unobstructed and obstructed)](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig6.gif)
 
 **Figure 6\
 Side Reach**
 
-**4.3 ACCESSIBLE ROUTE.**
+### 4.3 ACCESSIBLE ROUTE
 
-**4.3.1* GENERAL.** All walks, halls, corridors, aisles, and other spaces that are part of an accessible route shall comply with 4.3.
+#### 4.3.1* GENERAL
 
-**4.3.2 LOCATION.**
+All walks, halls, corridors, aisles, and other spaces that are part of an accessible route shall comply with 4.3.
+
+#### 4.3.2 LOCATION
 
 (1) At least one accessible route within the boundary of the site shall be provided from public transportation stops, accessible parking, and accessible passenger loading zones, and public streets or sidewalks to the accessible building entrance they serve.
 
@@ -1087,30 +1127,48 @@ Side Reach**
 
 (4) An accessible route shall connect at least one accessible entrance of each accessible dwelling unit with those exterior and interior spaces and facilities that serve the accessible dwelling unit.
 
-**4.3.3 WIDTH**. The minimum clear width of an accessible route shall be 36 in (915 mm) except at doors (see 4.13.5). If a person in a wheelchair must make a turn around an obstruction, the minimum clear width of the accessible route shall be as shown in Fig. 7.
+#### 4.3.3 WIDTH
+
+The minimum clear width of an accessible route shall be 36 in (915 mm) except at doors (see 4.13.5). If a person in a wheelchair must make a turn around an obstruction, the minimum clear width of the accessible route shall be as shown in Fig. 7.
 
 ![Width of accessible route at 90 degree turn, turn around obstruciton, and changes in level](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig7.gif)
 
 **Figure 7\
 Width of Accessible Route**
 
-**4.3.4 PASSING SPACE.** If an accessible route has less than 60 in (1525 mm) clear width, then passing spaces at least 60 in by 60 in (1525 mm by 1525 mm) shall be located at reasonable intervals not to exceed 200 ft (61 m). A T-intersection of two corridors or walks is an acceptable passing place.
+#### 4.3.4 PASSING SPACE
 
-**4.3.5 HEAD ROOM.** Accessible routes shall comply with 4.4.2.
+If an accessible route has less than 60 in (1525 mm) clear width, then passing spaces at least 60 in by 60 in (1525 mm by 1525 mm) shall be located at reasonable intervals not to exceed 200 ft (61 m). A T-intersection of two corridors or walks is an acceptable passing place.
 
-**4.3.6 SURFACE TEXTURES.** The surface of an accessible route shall comply with 4.5.
+#### 4.3.5 HEAD ROOM
 
-**4.3.7 SLOPE.** An accessible route with a running slope greater than 1:20 is a ramp and shall comply with 4.8. Nowhere shall the cross slope of an accessible route exceed 1:50.
+Accessible routes shall comply with 4.4.2.
 
-**4.3.8 CHANGES IN LEVELS.** Changes in levels along an accessible route shall comply with 4.5.2. If an accessible route has changes in level greater than 1/2 in (13 mm), then a curb ramp, ramp, elevator, or platform lift shall be provided that complies with 4.7, 4.8, 4.10, or 4.11, respectively. Stairs shall not be part of an accessible route.
+#### 4.3.6 SURFACE TEXTURES
 
-**4.3.9 DOORS.** Doors along an accessible route shall comply with 4.13.
+The surface of an accessible route shall comply with 4.5.
 
-**4.3.10* EGRESS.** Accessible routes serving any accessible space or element shall also serve as a means of egress for emergencies or connect to an accessible place of refuge. Such accessible routes and places of refuge shall comply with the requirements of the administrative authority having jurisdiction. Where fire code provisions require more than one means of egress from any space or room, then more than one accessible means of egress shall also be provided for handicapped people. Arrange egress so as to be readily accessible from all accessible rooms and spaces.
+#### 4.3.7 SLOPE
 
-4.4** PROTRUDING OBJECTS**.
+An accessible route with a running slope greater than 1:20 is a ramp and shall comply with 4.8. Nowhere shall the cross slope of an accessible route exceed 1:50.
 
-**4.4.1* GENERAL. **Objects projecting from walls (for example, telephones) with their leading edges between 27 in and 80 in (685 mm and 2030 mm) above the finished floor shall protrude no more than 4 in (100 mm) into walks, halls, corridors, passageways, or aisles (see Fig. 8(a)). Objects mounted with their leading edges at or below 27 in (685 mm) above the finished floor may protrude any amount (see Fig. 8(a) and (b)). Free-standing objects mounted on posts or pylons may overhang 12 in (305 mm) maximum from 27 in to 80 in (685 mm to 2030 mm) above the ground or finished floor (see Fig. 8(c) and (d)). Protruding objects shall not reduce the clear width of an accessible route or maneuvering space (see Fig. 8(e)).
+#### 4.3.8 CHANGES IN LEVELS
+
+Changes in levels along an accessible route shall comply with 4.5.2. If an accessible route has changes in level greater than 1/2 in (13 mm), then a curb ramp, ramp, elevator, or platform lift shall be provided that complies with 4.7, 4.8, 4.10, or 4.11, respectively. Stairs shall not be part of an accessible route.
+
+#### 4.3.9 DOORS
+
+Doors along an accessible route shall comply with 4.13.
+
+#### 4.3.10* EGRESS
+
+Accessible routes serving any accessible space or element shall also serve as a means of egress for emergencies or connect to an accessible place of refuge. Such accessible routes and places of refuge shall comply with the requirements of the administrative authority having jurisdiction. Where fire code provisions require more than one means of egress from any space or room, then more than one accessible means of egress shall also be provided for handicapped people. Arrange egress so as to be readily accessible from all accessible rooms and spaces.
+
+### 4.4 PROTRUDING OBJECTS
+
+#### 4.4.1* GENERAL
+
+Objects projecting from walls (for example, telephones) with their leading edges between 27 in and 80 in (685 mm and 2030 mm) above the finished floor shall protrude no more than 4 in (100 mm) into walks, halls, corridors, passageways, or aisles (see Fig. 8(a)). Objects mounted with their leading edges at or below 27 in (685 mm) above the finished floor may protrude any amount (see Fig. 8(a) and (b)). Free-standing objects mounted on posts or pylons may overhang 12 in (305 mm) maximum from 27 in to 80 in (685 mm to 2030 mm) above the ground or finished floor (see Fig. 8(c) and (d)). Protruding objects shall not reduce the clear width of an accessible route or maneuvering space (see Fig. 8(e)).
 
 ![Prtruding objects on wall surfaces](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig8a.gif)
 
@@ -1163,25 +1221,41 @@ Carpet Tile Thickness**
 **Figure 8(h)\
 Grating Orientation**
 
-**4.4.2 HEAD ROOM.** Walks, halls, corridors, passageways, aisles, or other circulation spaces shall have 80 in (2030 mm) minimum clear head room (see Fig. 8(a)). If vertical clearance of an area adjoining an accessible route is reduced to less than 80 in (nominal dimension), a barrier to warn blind or visually-impaired persons shall be provided (see Fig. 8(c)).
+#### 4.4.2 HEAD ROOM
 
-4.5**GROUND AND FLOOR SURFACES.**
+Walks, halls, corridors, passageways, aisles, or other circulation spaces shall have 80 in (2030 mm) minimum clear head room (see Fig. 8(a)). If vertical clearance of an area adjoining an accessible route is reduced to less than 80 in (nominal dimension), a barrier to warn blind or visually-impaired persons shall be provided (see Fig. 8(c)).
 
-**4.5.1* GENERAL.** Ground and floor surfaces along accessible routes and in accessible rooms and spaces, including floors, walks, ramps, stairs, and curb ramps, shall be stable, firm, slip-resistant, and shall comply with 4.5.
+### 4.5 GROUND AND FLOOR SURFACES
 
-**4.5.2 CHANGES IN LEVEL.** Changes in level up to 1/4 in (6 mm) may be vertical and without edge treatment (see Fig. 7(c)). Changes in level between 1/4 in and 1/2 in (6 mm and 13 mm) shall be beveled with a slope no greater than 1:2 (see Fig. 7(d)). Changes in level greater than 1/2 in (13 mm) shall be accomplished by means of a ramp that complies with 4.7 or 4.8.
+#### 4.5.1* GENERAL
 
-**4.5.3* CARPET.** If carpet or carpet tile is used on a ground or floor surface, then it shall be securely attached; have a firm cushion, pad, or backing or no cushion or pad; and have a level loop, textured loop, level cut pile, or level cut/uncut pile texture. The maximum pile height shall be 1/2 in (13 mm). Exposed edges of carpet shall be fastened to floor surfaces and have trim along the entire length of the exposed edge. Carpet edge trim shall comply with 4.5.2. If carpet tile is used on an accessible ground or floor surface, it shall have a maximum combined thickness of pile, cushion, and backing height of 1/2 in (13 mm) (see Fig. 8(f)).
+Ground and floor surfaces along accessible routes and in accessible rooms and spaces, including floors, walks, ramps, stairs, and curb ramps, shall be stable, firm, slip-resistant, and shall comply with 4.5.
 
-**4.5.4 GRATINGS.** If gratings are located in walking surfaces, then they shall have spaces no greater than 1/2 in (13 mm) wide in one direction (see Fig. 8(g)). If gratings have elongated openings, then they shall be placed so that the long dimension is perpendicular to the dominant direction of travel (see Fig. 8(h)).
+#### 4.5.2 CHANGES IN LEVEL
 
-**4.6 PARKING AND PASSENGER LOADING ZONES.**
+Changes in level up to 1/4 in (6 mm) may be vertical and without edge treatment (see Fig. 7(c)). Changes in level between 1/4 in and 1/2 in (6 mm and 13 mm) shall be beveled with a slope no greater than 1:2 (see Fig. 7(d)). Changes in level greater than 1/2 in (13 mm) shall be accomplished by means of a ramp that complies with 4.7 or 4.8.
 
-**4.6.1 MINIMUM NUMBER.** Parking spaces required to be accessible by 4.1 shall comply with 4.6.2 through 4.6.4. Passenger loading zones required to be accessible by 4.1 shall comply with 4.6.5 and 4.6.6.
+#### 4.5.3* CARPET
 
-**4.6.2 LOCATION.** Parking spaces for disabled people and accessible passenger loading zones that serve a particular building shall be the spaces or zones located closest to the nearest accessible entrance on an accessible route. In separate parking structures or lots that do not serve a particular building, parking spaces for disabled people shall be located on the shortest possible circulation route to an accessible pedestrian entrance of the parking facility.
+If carpet or carpet tile is used on a ground or floor surface, then it shall be securely attached; have a firm cushion, pad, or backing or no cushion or pad; and have a level loop, textured loop, level cut pile, or level cut/uncut pile texture. The maximum pile height shall be 1/2 in (13 mm). Exposed edges of carpet shall be fastened to floor surfaces and have trim along the entire length of the exposed edge. Carpet edge trim shall comply with 4.5.2. If carpet tile is used on an accessible ground or floor surface, it shall have a maximum combined thickness of pile, cushion, and backing height of 1/2 in (13 mm) (see Fig. 8(f)).
 
-**4.6.3* PARKING SPACES.** Parking spaces for disabled people shall be at least 96 in (2440 mm) wide and shall have an adjacent access aisle 60 in (1525 mm) wide minimum (see Fig. 9). Parking access aisles shall be part of an accessible route to the building or facility entrance and shall comply with 4.3. Two accessible parking spaces may share a common access aisle. Parked vehicle overhangs shall not reduce the clear width of an accessible circulation route. Parking spaces and access aisles shall be level with surface slopes not exceeding 1:50 in all directions.
+#### 4.5.4 GRATINGS
+
+If gratings are located in walking surfaces, then they shall have spaces no greater than 1/2 in (13 mm) wide in one direction (see Fig. 8(g)). If gratings have elongated openings, then they shall be placed so that the long dimension is perpendicular to the dominant direction of travel (see Fig. 8(h)).
+
+### 4.6 PARKING AND PASSENGER LOADING ZONES
+
+#### 4.6.1 MINIMUM NUMBER
+
+Parking spaces required to be accessible by 4.1 shall comply with 4.6.2 through 4.6.4. Passenger loading zones required to be accessible by 4.1 shall comply with 4.6.5 and 4.6.6.
+
+#### 4.6.2 LOCATION
+
+Parking spaces for disabled people and accessible passenger loading zones that serve a particular building shall be the spaces or zones located closest to the nearest accessible entrance on an accessible route. In separate parking structures or lots that do not serve a particular building, parking spaces for disabled people shall be located on the shortest possible circulation route to an accessible pedestrian entrance of the parking facility.
+
+#### 4.6.3* PARKING SPACES
+
+Parking spaces for disabled people shall be at least 96 in (2440 mm) wide and shall have an adjacent access aisle 60 in (1525 mm) wide minimum (see Fig. 9). Parking access aisles shall be part of an accessible route to the building or facility entrance and shall comply with 4.3. Two accessible parking spaces may share a common access aisle. Parked vehicle overhangs shall not reduce the clear width of an accessible circulation route. Parking spaces and access aisles shall be level with surface slopes not exceeding 1:50 in all directions.
 
 *EXCEPTION:* If accessible parking spaces for vans designed for handicapped persons are provided, each should have an adjacent access aisle at least 96 in (2440 mm) wide complying with 4.5, Ground and Floor Surfaces.
 
@@ -1190,33 +1264,49 @@ Grating Orientation**
 **Figure 9\
 Dimensions of Parking Spaces**
 
-**4.6.4* SIGNAGE. **Accessible parking spaces shall be designated as reserved for the disabled by a sign showing the symbol of accessibility (see 4.30.5). Such signs shall not be obscured by a vehicle parked in the space.
+#### 4.6.4* SIGNAGE
 
-**4.6.5 PASSENGER LOADING ZONES.** Passenger loading zones shall provide an access aisle at least 60 in (1525 mm) wide and 20 ft (6 m) long adjacent and parallel to the vehicle pull-up space (see Fig. 10). If there are curbs between the access aisle and the vehicle pull-up space, then a curb ramp complying with 4.7 shall be provided. Vehicle standing spaces and access aisles shall be level with surface slopes not exceeding 1:50 in all directions.
+Accessible parking spaces shall be designated as reserved for the disabled by a sign showing the symbol of accessibility (see 4.30.5). Such signs shall not be obscured by a vehicle parked in the space.
+
+#### 4.6.5 PASSENGER LOADING ZONES
+
+Passenger loading zones shall provide an access aisle at least 60 in (1525 mm) wide and 20 ft (6 m) long adjacent and parallel to the vehicle pull-up space (see Fig. 10). If there are curbs between the access aisle and the vehicle pull-up space, then a curb ramp complying with 4.7 shall be provided. Vehicle standing spaces and access aisles shall be level with surface slopes not exceeding 1:50 in all directions.
 
 ![fig10](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig10.gif)
 
 **Figure 10\
 Access Aisle at Passenger Loading Zones**
 
-**4.6.6 VERTICAL CLEARANCE.** Provide minimum vertical clearances of 114 in at accessible passenger loading zones and along vehicle access routes to such areas from site entrances. If accessible van parking spaces are provided, then the minimum vertical clearance should be 114 in.
+#### 4.6.6 VERTICAL CLEARANCE
 
-**4.7 CURB RAMPS.**
+Provide minimum vertical clearances of 114 in at accessible passenger loading zones and along vehicle access routes to such areas from site entrances. If accessible van parking spaces are provided, then the minimum vertical clearance should be 114 in.
 
-**4.7.1 LOCATION.** Curb ramps complying with 4.7 shall be provided wherever an accessible route crosses a curb.
+### 4.7 CURB RAMPS
 
-**4.7.2 SLOPE.** Slopes of curb ramps shall comply with 4.8.2. The slope shall be measured as shown in Fig. 11. Transitions from ramps to walks, gutters, or streets shall be flush and free of abrupt changes. Maximum slopes of adjoining gutters, road surface immediately adjacent to the curb ramp, or accessible route shall not exceed 1.20.
+#### 4.7.1 LOCATION
+
+Curb ramps complying with 4.7 shall be provided wherever an accessible route crosses a curb.
+
+#### 4.7.2 SLOPE
+
+Slopes of curb ramps shall comply with 4.8.2. The slope shall be measured as shown in Fig. 11. Transitions from ramps to walks, gutters, or streets shall be flush and free of abrupt changes. Maximum slopes of adjoining gutters, road surface immediately adjacent to the curb ramp, or accessible route shall not exceed 1.20.
 
 ![The ramp slope is a ratio equal to the vertical rise divided by the horizontal run. The adjoining slope at walk or street shall not exceed 1:20.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig11.gif)
 
 **Figure 11\
 Measurement of Curb Ramp Slopes**
 
-**4.7.3 WIDTH.** The minimum width of a curb ramp shall be 36 in (915 mm), exclusive of flared sides.
+#### 4.7.3 WIDTH
 
-**4.7.4 SURFACE.** Surfaces of curb ramps shall comply with 4.5.
+The minimum width of a curb ramp shall be 36 in (915 mm), exclusive of flared sides.
 
-**4.7.5 SIDES OF CURB RAMPS.** If a curb ramp is located where pedestrians must walk across the ramp, or where it is not protected by handrails or guardrails, then it shall have flared sides; the maximum slope of the flare shall be 1:10 (see Fig. 12(a)). Curb ramps with returned curbs may be used where pedestrians would not normally walk across the ramp (see Fig. 12(b)).
+#### 4.7.4 SURFACE
+
+Surfaces of curb ramps shall comply with 4.5.
+
+#### 4.7.5 SIDES OF CURB RAMPS
+
+If a curb ramp is located where pedestrians must walk across the ramp, or where it is not protected by handrails or guardrails, then it shall have flared sides; the maximum slope of the flare shall be 1:10 (see Fig. 12(a)). Curb ramps with returned curbs may be used where pedestrians would not normally walk across the ramp (see Fig. 12(b)).
 
 ![If the landing depth at the top of a curb ramp is less than 48 inches, then the slope of the flared side shall not exceed 1:12.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig12a.gif)
 
@@ -1232,44 +1322,66 @@ Note: If X is less than 48 inches, then the slope of the flared side shall not e
 Sides of Curb Ramps\
 Returned Curb**
 
-**4.7.6 BUILT-UP CURB RAMPS.** Built-up curb ramps shall be located so that they do not project into vehicular traffic lanes (see Fig. 13).
+#### 4.7.6 BUILT-UP CURB RAMPS
+
+Built-up curb ramps shall be located so that they do not project into vehicular traffic lanes (see Fig. 13).
 
 ![built-up curb ramp](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig13.gif)
 
 **Figure 13\
 Built-Up Curb Ramp**
 
-**4.7.7 WARNING TEXTURES.** (Removed and reserved).
+#### 4.7.7 WARNING TEXTURES
 
-**4.7.8 OBSTRUCTIONS.** Curb ramps shall be located or protected to prevent their obstruction by parked vehicles.
+(Removed and reserved).
 
-**4.7.9 LOCATION AT MARKED CROSSINGS.** Curb ramps at marked crossings shall be wholly contained within the markings, excluding any flared sides (see Fig. 15).
+#### 4.7.8 OBSTRUCTIONS
+
+Curb ramps shall be located or protected to prevent their obstruction by parked vehicles.
+
+#### 4.7.9 LOCATION AT MARKED CROSSINGS
+
+Curb ramps at marked crossings shall be wholly contained within the markings, excluding any flared sides (see Fig. 15).
 
 ![Curb Ramps at Marked Crossings](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig15.gif)
 
 **Figure 15\
 Curb Ramps at Marked Crossings**
 
-**4.7.10 DIAGONAL CURB RAMPS.** If diagonal (or corner type) curb ramps have returned curbs or other well-defined edges, such edges shall be parallel to the direction of pedestrian flow. The bottom of diagonal curb ramps shall have 48 in (1220 mm) minimum clear space as shown in Fig. 15(c) and (d). If diagonal curb ramps are provided at marked crossings, the 48 in (1220 mm) clear space shall be within the markings (see Fig. 15(c) and (d)). If diagonal curb ramps have flared sides, they shall also have at least a 24 in (610 mm) long segment of straight curb located on each side of the curb ramp and within the marked crossing (see Fig. 15(c)).
+#### 4.7.10 DIAGONAL CURB RAMPS
 
-**4.7.11 ISLANDS. **Any raised islands in crossings shall be cut through level with the street or have curb ramps at both sides and a level area at least 48 in (1220 mm) long in the part of the island intersected by the crossings (see Fig. 15(a) and (b)).
+If diagonal (or corner type) curb ramps have returned curbs or other well-defined edges, such edges shall be parallel to the direction of pedestrian flow. The bottom of diagonal curb ramps shall have 48 in (1220 mm) minimum clear space as shown in Fig. 15(c) and (d). If diagonal curb ramps are provided at marked crossings, the 48 in (1220 mm) clear space shall be within the markings (see Fig. 15(c) and (d)). If diagonal curb ramps have flared sides, they shall also have at least a 24 in (610 mm) long segment of straight curb located on each side of the curb ramp and within the marked crossing (see Fig. 15(c)).
 
-**4.7.12 UNCURBED INTERSECTIONS.** (Removed and reserved).
+#### 4.7.11 ISLANDS
 
-**4.8 RAMPS.**
+Any raised islands in crossings shall be cut through level with the street or have curb ramps at both sides and a level area at least 48 in (1220 mm) long in the part of the island intersected by the crossings (see Fig. 15(a) and (b)).
 
-**4.8.1* GENERAL.** Any part of an accessible route with a slope greater than 1:20 shall be considered a ramp and shall comply with 4.8.
+#### 4.7.12 UNCURBED INTERSECTIONS
 
-**4.8.2* SLOPE AND RISE.** The least possible slope shall be used for any ramp. The maximum slope of a ramp in new construction shall be 1:12. The maximum rise for any run shall be 30 in (760 mm) (see Fig. 16). Curb ramps and ramps to be constructed on existing sites or in existing buildings or facilities may have slopes and rises as shown in Table 2 if space limitations prohibit the use of a 1:12 slope or less (see 4.1.6).
+(Removed and reserved).
+
+### 4.8 RAMPS
+
+#### 4.8.1* GENERAL
+
+Any part of an accessible route with a slope greater than 1:20 shall be considered a ramp and shall comply with 4.8.
+
+#### 4.8.2* SLOPE AND RISE
+
+The least possible slope shall be used for any ramp. The maximum slope of a ramp in new construction shall be 1:12. The maximum rise for any run shall be 30 in (760 mm) (see Fig. 16). Curb ramps and ramps to be constructed on existing sites or in existing buildings or facilities may have slopes and rises as shown in Table 2 if space limitations prohibit the use of a 1:12 slope or less (see 4.1.6).
 
 ![If the slope of a ramp is between 1:12 and 1:16, the maximum rise shall be 30 inches (760 mm) and the maximum horizontal run shall be 30 feet (9 m). If the slope of the ramp is between 1:16 and 1:20, the maximum rise shall be 30 inches (760 mm) and the maximum horizontal run shall be 40 feet (12 m).](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig16.gif)
 
 **Figure 16\
 Components of a Single Ramp Run and Sample Ramp Dimensions**
 
-**4.8.3 CLEAR WIDTH. **The minimum clear width of a ramp shall be 36 in (915 mm).
+#### 4.8.3 CLEAR WIDTH
 
-**4.8.4 LANDINGS. **Ramps shall have level landings at the bottom and top of each run. Landings shall have the following features:
+The minimum clear width of a ramp shall be 36 in (915 mm).
+
+#### 4.8.4 LANDINGS
+
+Ramps shall have level landings at the bottom and top of each run. Landings shall have the following features:
 
 (1) The landing shall be at least as wide as the ramp run leading to it.
 
@@ -1279,7 +1391,9 @@ Components of a Single Ramp Run and Sample Ramp Dimensions**
 
 (4) If a doorway is located at a landing, then the area in front of the doorway shall comply with 4.13.6.
 
-**4.8.5* HANDRAILS.** If a ramp run has a rise greater than 6 in (250 mm) or a horizontal projection greater than 72 in (1830 mm), then it shall have handrails on both sides. Handrails are not required on curb ramps. Handrails shall comply with 4.26 and shall have the following features:
+#### 4.8.5* HANDRAILS
+
+If a ramp run has a rise greater than 6 in (250 mm) or a horizontal projection greater than 72 in (1830 mm), then it shall have handrails on both sides. Handrails are not required on curb ramps. Handrails shall comply with 4.26 and shall have the following features:
 
 (1) Handrails shall be provided along both sides of ramp segments. The inside handrail on switchback or dogleg ramps shall always be continuous.
 
@@ -1295,31 +1409,45 @@ Components of a Single Ramp Run and Sample Ramp Dimensions**
 
 (7) Handrails shall not rotate within their fittings.
 
-**4.8.6 CROSS SLOPE AND SURFACES.** The cross slope of ramp surfaces shall be no greater than 1:50. Ramp surfaces shall comply with 4.5.
+#### 4.8.6 CROSS SLOPE AND SURFACES
 
-**4.8.7 EDGE PROTECTION**. Ramps and landings with drop-offs shall have curbs, walls, railings, or projecting surfaces that prevent people from slipping off the ramp. Curbs shall be a minimum of 2 in (50 mm) high (see Fig. 17).
+The cross slope of ramp surfaces shall be no greater than 1:50. Ramp surfaces shall comply with 4.5.
+
+#### 4.8.7 EDGE PROTECTION
+
+Ramps and landings with drop-offs shall have curbs, walls, railings, or projecting surfaces that prevent people from slipping off the ramp. Curbs shall be a minimum of 2 in (50 mm) high (see Fig. 17).
 
 ![Examples of Edge Protection and Handrail Extensions](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig17.gif)
 
 **Figure 17\
 Examples of Edge Protection and Handrail Extensions**
 
-**4.8.8 OUTDOOR CONDITIONS.** Outdoor ramps and their approaches shall be designed so that water will not accumulate on walking surfaces.
+#### 4.8.8 OUTDOOR CONDITIONS
 
-**4.9 STAIRS.**
+Outdoor ramps and their approaches shall be designed so that water will not accumulate on walking surfaces.
 
-**4.9.1 MINIMUM NUMBER.** Stairs required to be accessible by 4.1 shall comply with 4.9.
+### 4.9 STAIRS
 
-**4.9.2 TREADS AND RISERS.** On any given flight of stairs, all steps shall have uniform riser heights and uniform tread widths. Stair treads shall be no less than 11 in (280 mm) wide, measured from riser to riser (see Fig. 18(a)). Open risers are not permitted on accessible routes.
+#### 4.9.1 MINIMUM NUMBER
 
-**4.9.3 NOSINGS.** The undersides of nosings shall not be abrupt. The radius of curvature at the leading edge of the tread shall be no greater than 1/2 in (13 mm). Risers shall be sloped or the underside of the nosing shall have an angle not less than 60 degrees from the horizontal. Nosings shall project no more than 1-1/2 in (38 mm) (see Fig. 18).
+Stairs required to be accessible by 4.1 shall comply with 4.9.
+
+#### 4.9.2 TREADS AND RISERS
+
+On any given flight of stairs, all steps shall have uniform riser heights and uniform tread widths. Stair treads shall be no less than 11 in (280 mm) wide, measured from riser to riser (see Fig. 18(a)). Open risers are not permitted on accessible routes.
+
+#### 4.9.3 NOSINGS
+
+The undersides of nosings shall not be abrupt. The radius of curvature at the leading edge of the tread shall be no greater than 1/2 in (13 mm). Risers shall be sloped or the underside of the nosing shall have an angle not less than 60 degrees from the horizontal. Nosings shall project no more than 1-1/2 in (38 mm) (see Fig. 18).
 
 ![Usable Tread Width and Examples of Acceptable Nosings](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig18.gif)
 
 **Figure 18\
 Usable Tread Width and Examples of Acceptable Nosings**
 
-**4.9.4 HANDRAILS.** Stairways shall have handrails at both sides of all stairs. Handrails shall comply with 4.26 and shall have the following features:
+#### 4.9.4 HANDRAILS
+
+Stairways shall have handrails at both sides of all stairs. Handrails shall comply with 4.26 and shall have the following features:
 
 (1) Handrails shall be continuous along both sides of stairs. The inside handrail on switchback or dogleg stairs shall always be continuous (see Fig. 19(a) and (b)).
 
@@ -1361,17 +1489,27 @@ Note: X is the 12 in minimum handrail extension required at each top riser. Y is
 
 (7) Handrails shall not rotate within their fittings.
 
-**4.9.5 TACTILE WARNINGS AT STAIRS.** (Removed and reserved).
+#### 4.9.5 TACTILE WARNINGS AT STAIRS
 
-**4.9.6 OUTDOOR CONDITIONS.** Outdoor stairs and their approaches shall be designed so that water will not accumulate on walking surfaces.
+(Removed and reserved).
 
-**4.10 ELEVATORS.**
+#### 4.9.6 OUTDOOR CONDITIONS
 
-**4.10.1 GENERAL. **Accessible elevators shall be on an accessible route and shall comply with 4.10 and with the American National Standard Safety Code for Elevators, Dumbwaiters, Escalators, and Moving Walks, ANSI A17.1-1978 and A17.1a-1979. This standard does not preclude the use of residential or fully enclosed wheelchair lifts when appropriate and approved by administrative authorities. Freight elevators shall not be considered as meeting the requirements of this section, unless the only elevators provided are used as combination passenger and freight elevators for the public and employees.
+Outdoor stairs and their approaches shall be designed so that water will not accumulate on walking surfaces.
 
-**4.10.2 AUTOMATIC OPERATION.** Elevator operation shall be automatic. Each car shall be equipped with a self-leveling feature that will automatically bring the car to floor landings within a tolerance of 1/2 in (13 mm) under rated loading to zero loading conditions. This self-leveling feature shall be automatic and independent of the operating device and shall correct the over-travel or undertravel.
+### 4.10 ELEVATORS
 
-**4.10.3 HALL CALL BUTTONS.** Call buttons in elevator lobbies and halls shall be centered at 42 in (1065 mm) above the floor. Such call buttons shall have visual signals to indicate when each call is registered and when each call is answered. Call buttons shall be a minimum of 3/4 in (19 mm) in the smallest dimension. The button designating the up direction shall be on top (see Fig. 20). Buttons shall be raised or flush. Objects mounted beneath hall call buttons shall not project into the elevator lobby more than 4 in (100 mm).
+#### 4.10.1 GENERAL
+
+Accessible elevators shall be on an accessible route and shall comply with 4.10 and with the American National Standard Safety Code for Elevators, Dumbwaiters, Escalators, and Moving Walks, ANSI A17.1-1978 and A17.1a-1979. This standard does not preclude the use of residential or fully enclosed wheelchair lifts when appropriate and approved by administrative authorities. Freight elevators shall not be considered as meeting the requirements of this section, unless the only elevators provided are used as combination passenger and freight elevators for the public and employees.
+
+#### 4.10.2 AUTOMATIC OPERATION
+
+Elevator operation shall be automatic. Each car shall be equipped with a self-leveling feature that will automatically bring the car to floor landings within a tolerance of 1/2 in (13 mm) under rated loading to zero loading conditions. This self-leveling feature shall be automatic and independent of the operating device and shall correct the over-travel or undertravel.
+
+#### 4.10.3 HALL CALL BUTTONS
+
+Call buttons in elevator lobbies and halls shall be centered at 42 in (1065 mm) above the floor. Such call buttons shall have visual signals to indicate when each call is registered and when each call is answered. Call buttons shall be a minimum of 3/4 in (19 mm) in the smallest dimension. The button designating the up direction shall be on top (see Fig. 20). Buttons shall be raised or flush. Objects mounted beneath hall call buttons shall not project into the elevator lobby more than 4 in (100 mm).
 
 ![Hoistway and Elevator Entrances](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig20.gif)
 
@@ -1380,7 +1518,9 @@ Hoistway and Elevator Entrances**
 
 Note: The automatic door reopening device is activated if an object passes through either line A or line B. Line A and line B represent the vertical locations of the door reopening device not requiring contact.
 
-**4.10.4 HALL LANTERNS.** A visible and audible signal shall be provided at each hoistway entrance to indicate which car is answering a call. Audible signals shall sound once for the up direction and twice for the down direction or shall have verbal annunciators that say "up" or "down." Visible signals shall have the following features:
+#### 4.10.4 HALL LANTERNS
+
+A visible and audible signal shall be provided at each hoistway entrance to indicate which car is answering a call. Audible signals shall sound once for the up direction and twice for the down direction or shall have verbal annunciators that say "up" or "down." Visible signals shall have the following features:
 
 (1) Hall lantern fixtures shall be mounted so that their centerline is at least 72 in (1830 mm) above the lobby floor.
 
@@ -1388,11 +1528,17 @@ Note: The automatic door reopening device is activated if an object passes throu
 
 (3) Signals shall be visible from the vicinity of the hall call button. In-car lanterns located in cars, visible from the vicinity of hall call buttons, and conforming to the above requirements, shall be acceptable (see Fig. 20).
 
-**4.10.5 RAISED CHARACTERS ON HOISTWAY ENTRANCES.** All elevator hoistway entrances shall have raised floor designations provided on both jambs. The centerline of the characters shall be 60 in (1525 mm) from the floor. Such characters shall be 2 in (50 mm) high and shall comply with 4.30. Permanently applied plates are acceptable if they are permanently fixed to the jambs. (See Fig. 20).
+#### 4.10.5 RAISED CHARACTERS ON HOISTWAY ENTRANCES
 
-**4.10.6* DOOR PROTECTIVE AND REOPENING DEVICE.** Elevator doors shall open and close automatically. They shall be provided with a reopening device that will stop and reopen a car door and hoistway door automatically if the door becomes obstructed by an object or person. The device shall be capable of completing these operations without requiring contact for an obstruction passing through the opening at heights of 5 in and 29 in (125 mm and 735 mm) from the floor (see Fig. 20). Door reopening devices shall remain effective for at least 20 seconds. After such an interval, doors may close in accordance with the requirements of ANSI A17.1-1978 and A17.1a-1979.
+All elevator hoistway entrances shall have raised floor designations provided on both jambs. The centerline of the characters shall be 60 in (1525 mm) from the floor. Such characters shall be 2 in (50 mm) high and shall comply with 4.30. Permanently applied plates are acceptable if they are permanently fixed to the jambs. (See Fig. 20).
 
-**4.10.7* DOOR AND SIGNAL TIMING FOR HALL CALLS.** The minimum acceptable time from notification that a car is answering a call until the doors of that car start to close shall be calculated from the following equation:
+#### 4.10.6* DOOR PROTECTIVE AND REOPENING DEVICE
+
+Elevator doors shall open and close automatically. They shall be provided with a reopening device that will stop and reopen a car door and hoistway door automatically if the door becomes obstructed by an object or person. The device shall be capable of completing these operations without requiring contact for an obstruction passing through the opening at heights of 5 in and 29 in (125 mm and 735 mm) from the floor (see Fig. 20). Door reopening devices shall remain effective for at least 20 seconds. After such an interval, doors may close in accordance with the requirements of ANSI A17.1-1978 and A17.1a-1979.
+
+#### 4.10.7* DOOR AND SIGNAL TIMING FOR HALL CALLS
+
+The minimum acceptable time from notification that a car is answering a call until the doors of that car start to close shall be calculated from the following equation:
 
 T = D or T = D
 
@@ -1405,20 +1551,30 @@ where T = total time in seconds and D = distance (in feet or millimeters) from a
 **Figure 21\
 Graph of Timing Equation**
 
-**4.10.8 DOOR DELAY FOR CAR CALLS.** The minimum time for elevator doors to remain fully open in response to a car call shall be 3 seconds.
+#### 4.10.8 DOOR DELAY FOR CAR CALLS
 
-**4.10.9 FLOOR PLAN OF ELEVATOR CARS.** The floor area of elevator cars shall provide space for wheelchair users to enter the car, maneuver within reach of controls, and exit from the car. Acceptable door opening and inside dimensions shall be as shown in Fig. 22. The clearance between the car platform sill and the edge of any hoistway landing shall be no greater than 1-1/4 in (32 mm).
+The minimum time for elevator doors to remain fully open in response to a car call shall be 3 seconds.
+
+#### 4.10.9 FLOOR PLAN OF ELEVATOR CARS
+
+The floor area of elevator cars shall provide space for wheelchair users to enter the car, maneuver within reach of controls, and exit from the car. Acceptable door opening and inside dimensions shall be as shown in Fig. 22. The clearance between the car platform sill and the edge of any hoistway landing shall be no greater than 1-1/4 in (32 mm).
 
 ![Minimum Dimensions of Elevator Cars](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig22.gif)
 
 **Figure 22\
 Minimum Dimensions of Elevator Cars**
 
-**4.10.10 FLOOR SURFACES**. Floor surfaces shall comply with 4.5.
+#### 4.10.10 FLOOR SURFACES
 
-**4.10.11 ILLUMINATION LEVELS.** The level of illumination at the car controls, platform, and car threshold and landing sill shall be at least 5 footcandles (53.8 lux).
+Floor surfaces shall comply with 4.5.
 
-**4.10.12* CAR CONTROLS.** Elevator control panels shall have the following features:
+#### 4.10.11 ILLUMINATION LEVELS
+
+The level of illumination at the car controls, platform, and car threshold and landing sill shall be at least 5 footcandles (53.8 lux).
+
+#### 4.10.12* CAR CONTROLS
+
+Elevator control panels shall have the following features:
 
 (1) Buttons. All control buttons shall be at least 3/4 in (19 mm) in their smallest dimension. They may be raised or flush.
 
@@ -1440,7 +1596,7 @@ Panel Detail**
 Car Controls\
 Control Height**
 
-[![Alternate Locations of Panel with Center Opening Door](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig23c.gif)](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#intro)
+[![Alternate Locations of Panel with Center Opening Door](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig23c.gif)](#intro)
 
 **Figure 23(c)\
 Car Controls\
@@ -1452,31 +1608,53 @@ Alternate Locations of Panel with Center Opening Door**
 Car Controls\
 Alternate Locations of Panel with Side Opening Door**
 
-**4.10.13* CAR POSITION INDICATORS.** In elevator cars, a visual car position indicator shall be provided above the car control panel or over the door to show the position of the elevator in the hoistway. As the car passes or stops at a floor served by the elevators, the corresponding numerals shall illuminate, and an audible signal shall sound. Numerals shall be a minimum of 1/2 in (13 mm) high. The audible signal shall be no less than 20 decibels with a frequency no higher than 1500 Hz. An automatic verbal announcement of the floor number at which a car stops or which a car passes may be substituted for the audible signal.
+#### 4.10.13* CAR POSITION INDICATORS
 
-**4.10.14* EMERGENCY COMMUNICATIONS.** If provided, emergency two-way communication systems between the elevator and a point outside the hoistway shall comply with ANSI A17.1-1978 and A17.1a-1979. The highest operable part of a two-way communication system shall be a maximum of 48 in (1220 mm) from the floor of the car. It shall be identified by a raised or recessed symbol and lettering complying with 4.30 and located adjacent to the device. If the system uses a handset, then the length of the cord from the panel to the handset shall be at least 29 in (735 mm). If the system is located in a closed compartment, the compartment door hardware shall conform to 4.27, Controls and Operating Mechanisms. The emergency intercommunication system shall not require voice communication.
+In elevator cars, a visual car position indicator shall be provided above the car control panel or over the door to show the position of the elevator in the hoistway. As the car passes or stops at a floor served by the elevators, the corresponding numerals shall illuminate, and an audible signal shall sound. Numerals shall be a minimum of 1/2 in (13 mm) high. The audible signal shall be no less than 20 decibels with a frequency no higher than 1500 Hz. An automatic verbal announcement of the floor number at which a car stops or which a car passes may be substituted for the audible signal.
 
-**4.11* PLATFORM LIFTS.**
+#### 4.10.14* EMERGENCY COMMUNICATIONS
 
-**4.11.1 LOCATION.** Platform lifts permitted by 4.1 shall comply with the requirements of 4.11.
+If provided, emergency two-way communication systems between the elevator and a point outside the hoistway shall comply with ANSI A17.1-1978 and A17.1a-1979. The highest operable part of a two-way communication system shall be a maximum of 48 in (1220 mm) from the floor of the car. It shall be identified by a raised or recessed symbol and lettering complying with 4.30 and located adjacent to the device. If the system uses a handset, then the length of the cord from the panel to the handset shall be at least 29 in (735 mm). If the system is located in a closed compartment, the compartment door hardware shall conform to 4.27, Controls and Operating Mechanisms. The emergency intercommunication system shall not require voice communication.
 
-**4.11.2 OTHER REQUIREMENTS.** If platform lifts are used, they shall comply with 4.2.4, 4.5, 4.27, and the applicable safety regulations of administrative authorities having jurisdiction.
+### 4.11* PLATFORM LIFTS
 
-**4.11.3 ENTRANCE.** If platform lifts are used, then they should facilitate unassisted entry and exit from the lift in compliance with 4.11.2.
+#### 4.11.1 LOCATION
 
-**4.12 WINDOWS. **(Reserved).
+Platform lifts permitted by 4.1 shall comply with the requirements of 4.11.
 
-**4.13 DOORS.**
+#### 4.11.2 OTHER REQUIREMENTS
 
-**4.13.1 GENERAL.** Doors required to be accessible by 4.1 shall comply with the requirements of 4.13.
+If platform lifts are used, they shall comply with 4.2.4, 4.5, 4.27, and the applicable safety regulations of administrative authorities having jurisdiction.
 
-**4.13.2 REVOLVING DOORS AND TURNSTILES.** Revolving doors or turnstiles shall not be the only means of passage at an accessible entrance or along an accessible route. An accessible gate or door shall be provided adjacent to the turnstile or revolving door and shall be so designed as to facilitate the same use pattern.
+#### 4.11.3 ENTRANCE
 
-**4.13.3 GATES.** Gates, including ticket gates, shall meet all applicable specifications of 4.13.
+If platform lifts are used, then they should facilitate unassisted entry and exit from the lift in compliance with 4.11.2.
 
-**4.13.4 DOUBLE-LEAF DOORWAYS.** If doorways have two independently operated door leaves, then at least one leaf shall meet the specifications in 4.13.5 and 4.13.6. That leaf shall be an active leaf.
+### 4.12 WINDOWS
 
-**4.13.5 CLEAR WIDTH.** Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open 90 degrees, measured between the face of the door and the stop (see Fig. 24(a), (b), (c), and (d)). Openings more than 24 in (610 mm) in depth shall comply with 4.2.1 and 4.3.3 (see Fig. 24(e)).
+(Reserved)
+
+### 4.13 DOORS
+
+#### 4.13.1 GENERAL
+
+Doors required to be accessible by 4.1 shall comply with the requirements of 4.13.
+
+#### 4.13.2 REVOLVING DOORS AND TURNSTILES
+
+Revolving doors or turnstiles shall not be the only means of passage at an accessible entrance or along an accessible route. An accessible gate or door shall be provided adjacent to the turnstile or revolving door and shall be so designed as to facilitate the same use pattern.
+
+#### 4.13.3 GATES
+
+Gates, including ticket gates, shall meet all applicable specifications of 4.13.
+
+#### 4.13.4 DOUBLE-LEAF DOORWAYS
+
+If doorways have two independently operated door leaves, then at least one leaf shall meet the specifications in 4.13.5 and 4.13.6. That leaf shall be an active leaf.
+
+#### 4.13.5 CLEAR WIDTH
+
+Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open 90 degrees, measured between the face of the door and the stop (see Fig. 24(a), (b), (c), and (d)). Openings more than 24 in (610 mm) in depth shall comply with 4.2.1 and 4.3.3 (see Fig. 24(e)).
 
 *EXCEPTION:* Doors not requiring full user passage, such as shallow closets, may have the clear opening reduced to 20 in (510 mm) minimum.
 
@@ -1510,7 +1688,9 @@ Folding Door**
 Clear Doorway Width and Depth\
 Maximum Doorway Depth**
 
-**4.13.6 MANEUVERING CLEARANCES AT DOORS.** Minimum maneuvering clearances at doors that are not automatic or power-assisted shall be as shown in Fig. 25. The floor or ground area within the required clearances shall be level and clear. Entry doors to acute care hospital bedrooms for in-patients shall be exempted from the requirement for space at the latch side of the door (see dimension "x" in Fig. 25) if the door is at least 44 in (1120 mm) wide.
+#### 4.13.6 MANEUVERING CLEARANCES AT DOORS
+
+Minimum maneuvering clearances at doors that are not automatic or power-assisted shall be as shown in Fig. 25. The floor or ground area within the required clearances shall be level and clear. Entry doors to acute care hospital bedrooms for in-patients shall be exempted from the requirement for space at the latch side of the door (see dimension "x" in Fig. 25) if the door is at least 44 in (1120 mm) wide.
 
 ![Maneuvering Clearances at Doo](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/25.gif)
 
@@ -1519,20 +1699,30 @@ Maximum Doorway Depth**
 **Figure 25\
 Maneuvering Clearances at Doors**
 
-**4.13.7 TWO DOORS IN SERIES.** The minimum space between two hinged or pivoted doors in series shall be 48 in (1220 mm) plus the width of any door swinging into the space. Doors in series shall swing either in the same direction or away from the space between the doors (see Fig. 26).
+#### 4.13.7 TWO DOORS IN SERIES
+
+The minimum space between two hinged or pivoted doors in series shall be 48 in (1220 mm) plus the width of any door swinging into the space. Doors in series shall swing either in the same direction or away from the space between the doors (see Fig. 26).
 
 ![Two Hinged Doors in Series](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig26.gif)
 
 **Figure 26\
 Two Hinged Doors in Series**
 
-**4.13.8* THRESHOLDS AT DOORWAYS.** Thresholds at doorways shall not exceed 3/4 in (19 mm) in height for exterior sliding doors or 1/2 in (13 mm) for other types of doors. Raised thresholds and floor level changes at accessible doorways shall be beveled with a slope no greater than 1:2 (see 4.5.2).
+#### 4.13.8* THRESHOLDS AT DOORWAYS
 
-**4.13.9* DOOR HARDWARE.** Handles, pulls, latches, locks, and other operating devices on accessible doors shall have a shape that is easy to grasp with one hand and does not require tight grasping, tight pinching, or twisting of the wrist to operate. Lever-operated mechanisms, push-type mechanisms, and U-shaped handles are acceptable designs. When sliding doors are fully open, operating hardware shall be exposed and usable from both sides. In dwelling units, only doors at accessible entrances to the unit itself shall comply with the requirements of this paragraph. Doors to hazardous areas shall have hardware complying with 4.29.3. Mount no hardware required for accessible door passage higher than 48 in (1220 mm) above finished floor.
+Thresholds at doorways shall not exceed 3/4 in (19 mm) in height for exterior sliding doors or 1/2 in (13 mm) for other types of doors. Raised thresholds and floor level changes at accessible doorways shall be beveled with a slope no greater than 1:2 (see 4.5.2).
 
-**4.13.10* DOOR CLOSERS.** If a door has a closer, then the sweep period of the closer shall be adjusted so that from an open position of 70 degrees, the door will take at least 3 seconds to move to a point 3 in (75 mm) from the latch, measured to the leading edge of the door.
+#### 4.13.9* DOOR HARDWARE
 
-**4.13.11* DOOR OPENING FORCE.** The maximum force for pushing or pulling open a door shall be as follows:
+Handles, pulls, latches, locks, and other operating devices on accessible doors shall have a shape that is easy to grasp with one hand and does not require tight grasping, tight pinching, or twisting of the wrist to operate. Lever-operated mechanisms, push-type mechanisms, and U-shaped handles are acceptable designs. When sliding doors are fully open, operating hardware shall be exposed and usable from both sides. In dwelling units, only doors at accessible entrances to the unit itself shall comply with the requirements of this paragraph. Doors to hazardous areas shall have hardware complying with 4.29.3. Mount no hardware required for accessible door passage higher than 48 in (1220 mm) above finished floor.
+
+#### 4.13.10* DOOR CLOSERS
+
+If a door has a closer, then the sweep period of the closer shall be adjusted so that from an open position of 70 degrees, the door will take at least 3 seconds to move to a point 3 in (75 mm) from the latch, measured to the leading edge of the door.
+
+#### 4.13.11* DOOR OPENING FORCE
+
+The maximum force for pushing or pulling open a door shall be as follows:
 
 (1) Fire doors shall have the minimum opening force allowable by the appropriate administrative authority.
 
@@ -1546,25 +1736,39 @@ Two Hinged Doors in Series**
 
 These forces do not apply to the force required to retract latch bolts or disengage other devices that may hold the door in a closed position.
 
-**4.13.12* AUTOMATIC DOORS AND POWER-ASSISTED DOORS.** If an automatic door is used, then it shall comply with American National Standard for Power-Operated Doors, ANSI A156.10-1979. Slowly opening, low-powered, automatic doors shall be considered a type of custom design installation as described in paragraph 1.1.1 of ANSI A156.10-1979. Such doors shall not open to back check faster than 3 seconds and shall require no more than 15 lbf (66.6N) to stop door movement. If a power-assisted door is used, its door-opening force shall comply with 4.13.11 and its closing shall conform to the requirements in section 10 of ANSI A156.10-1979.
+#### 4.13.12* AUTOMATIC DOORS AND POWER-ASSISTED DOORS
 
-**4.14 ENTRANCES.**
+If an automatic door is used, then it shall comply with American National Standard for Power-Operated Doors, ANSI A156.10-1979. Slowly opening, low-powered, automatic doors shall be considered a type of custom design installation as described in paragraph 1.1.1 of ANSI A156.10-1979. Such doors shall not open to back check faster than 3 seconds and shall require no more than 15 lbf (66.6N) to stop door movement. If a power-assisted door is used, its door-opening force shall comply with 4.13.11 and its closing shall conform to the requirements in section 10 of ANSI A156.10-1979.
 
-**4.14.1 MINIMUM NUMBER.** Entrances required to be accessible by 4.1 shall be part of an accessible route and shall comply with 4.3. Such entrances shall be connected by an accessible route to public transportation stops, to accessible parking and passenger loading zones, and to public streets or sidewalks if available (see 4.3.2(1)). They shall also be connected by an accessible route to all accessible spaces or elements within the building or facility.
+### 4.14 ENTRANCES
 
-**4.14.2 SERVICE ENTRANCES.** A service entrance shall not be the sole accessible entrance unless it is the only entrance to a building or facility (for example, in a factory or garage).
+#### 4.14.1 MINIMUM NUMBER
 
-**4.15 DRINKING FOUNTAINS AND WATER COOLERS.**
+Entrances required to be accessible by 4.1 shall be part of an accessible route and shall comply with 4.3. Such entrances shall be connected by an accessible route to public transportation stops, to accessible parking and passenger loading zones, and to public streets or sidewalks if available (see 4.3.2(1)). They shall also be connected by an accessible route to all accessible spaces or elements within the building or facility.
 
-**4.15.1 MINIMUM NUMBER.** Drinking fountains or water coolers required to be accessible by 4.1 shall comply with 4.15.
+#### 4.14.2 SERVICE ENTRANCES
 
-**4.15.2* SPOUT HEIGHT.** Spouts shall be no higher than 36 in (915 mm), measured from the floor or ground surfaces to the spout outlet (see Fig. 27(a)).
+A service entrance shall not be the sole accessible entrance unless it is the only entrance to a building or facility (for example, in a factory or garage).
 
-**4.15.3 SPOUT LOCATION.** The spouts of drinking fountains and water coolers shall be at the front of the unit and shall direct the water flow in a trajectory that is parallel or nearly parallel to the front of the unit. The spout shall provide a flow of water at least 4 in (100 mm) high so as to allow the insertion of a cup or glass under the flow of water.
+### 4.15 DRINKING FOUNTAINS AND WATER COOLERS
 
-**4.15.4 CONTROLS. **Controls shall comply with 4.27.4. Unit controls shall be front mounted or side mounted near the front edge.
+#### 4.15.1 MINIMUM NUMBER
 
-**4.15.5 CLEARANCES.**
+Drinking fountains or water coolers required to be accessible by 4.1 shall comply with 4.15.
+
+#### 4.15.2* SPOUT HEIGHT
+
+Spouts shall be no higher than 36 in (915 mm), measured from the floor or ground surfaces to the spout outlet (see Fig. 27(a)).
+
+#### 4.15.3 SPOUT LOCATION
+
+The spouts of drinking fountains and water coolers shall be at the front of the unit and shall direct the water flow in a trajectory that is parallel or nearly parallel to the front of the unit. The spout shall provide a flow of water at least 4 in (100 mm) high so as to allow the insertion of a cup or glass under the flow of water.
+
+#### 4.15.4 CONTROLS
+
+Controls shall comply with 4.27.4. Unit controls shall be front mounted or side mounted near the front edge.
+
+#### 4.15.5 CLEARANCES
 
 (1) Wall- and post-mounted cantilevered units shall have a clear knee space between the bottom of the apron and the floor or ground at least 27 in (685 mm) high, 30 in (760 mm) wide, and 17 in to 19 in (430 mm to 485 mm) deep (see Fig. 27(a) and (b)). Such units shall also have a minimum clear floor space 30 in by 48 in (760 mm by 1220 mm) to allow a person in a wheelchair to approach the unit facing forward.
 
@@ -1590,37 +1794,55 @@ Drinking Fountains and Water Coolers - Free-Standing Fountain or Cooler**
 **Figure 27(d)\
 Drinking Fountains and Water Coolers - Built-In Fountain or Cooler**
 
-**4.16 WATER CLOSETS.**
+### 4.16 WATER CLOSETS
 
-**4.16.1 GENERAL.** Accessible water closets shall comply with 4.16. For water closets in accessible dwelling units, see 4.34.5.2.
+#### 4.16.1 GENERAL
 
-**4.16.2 CLEAR FLOOR SPACE.** Clear floor space for water closets not in stalls shall comply with Fig. 28. Clear floor space may be arranged to allow either a left-handed or right-handed approach.
+Accessible water closets shall comply with 4.16. For water closets in accessible dwelling units, see 4.34.5.2.
+
+#### 4.16.2 CLEAR FLOOR SPACE
+
+Clear floor space for water closets not in stalls shall comply with Fig. 28. Clear floor space may be arranged to allow either a left-handed or right-handed approach.
 
 **![For a front transfer to the water closet, the minimum clear floor space at the water closet is a minimum 48 inches (1220 mm) in width by a minimum of 66 inches (1675 mm) in length. For a diagonal transfer to the water closet, the minimum clear floor space is a minimum of 48 inches (1220 mm) in width by a minimum of 56 inches (1420 mm) in length. For a side transfer to the water closet, the minimum clear floor space is a minimum of 60 inches (1525 mm) in width by a minimum of 56 inches (1420 mm) in length.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig28.gif)**
 
 **Figure 28\
 Clear Floor Space at Water Closets**
 
-**4.16.3* HEIGHT.** The height of water closets shall be 17 in to 19 in (430 mm to 485 mm), measured to the top of the toilet seat (see Fig. 29(b)). Seats shall not be sprung to return to a lifted position.
+#### 4.16.3* HEIGHT
 
-**4.16.4* GRAB BARS.** Grab bars for water closets not located in stalls shall comply with Fig. 29 and 4.26.
+The height of water closets shall be 17 in to 19 in (430 mm to 485 mm), measured to the top of the toilet seat (see Fig. 29(b)). Seats shall not be sprung to return to a lifted position.
+
+#### 4.16.4* GRAB BARS
+
+Grab bars for water closets not located in stalls shall comply with Fig. 29 and 4.26.
 
 ![Grab Bars at Water Closets](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig29.gif)
 
 **Figure 29\
 Grab Bars at Water Closets**
 
-**4.16.5* FLUSH CONTROLS.** Flush controls shall be hand operated or automatic and shall comply with 4.27.4. Controls for flush valves shall be mounted on the wide side of toilet areas no more than 44 in (1120 mm) above the floor.
+#### 4.16.5* FLUSH CONTROLS
 
-**4.16.6 DISPENSERS.** Toilet paper dispensers shall be installed within reach, as shown in Fig. 29(b). Dispensers that control delivery, or that do not permit continuous paper flow, shall not be used.
+Flush controls shall be hand operated or automatic and shall comply with 4.27.4. Controls for flush valves shall be mounted on the wide side of toilet areas no more than 44 in (1120 mm) above the floor.
 
-**4.17 TOILET STALLS.**
+#### 4.16.6 DISPENSERS
 
-**4.17.1 LOCATION.** Accessible toilet stalls shall be on an accessible route and shall meet the requirements of 4.17.
+Toilet paper dispensers shall be installed within reach, as shown in Fig. 29(b). Dispensers that control delivery, or that do not permit continuous paper flow, shall not be used.
 
-**4.17.2 WATER CLOSETS.** Water closets in accessible stalls shall comply with 4.16.
+### 4.17 TOILET STALLS
 
-**4.17.3 SIZE AND ARRANGEMENT.** The size and arrangement of toilet stalls shall comply with Fig. 30(a). Toilet stalls with a minimum depth of 56 in (1420 mm) (see Fig. 30(a)) shall have wall-mounted water closets. If the depth of toilet stalls is increased at least 3 in (75 mm), then a floor-mounted water closet may be used. Arrangements shown for stalls may be reversed to allow either a left- or right-hand approach.
+#### 4.17.1 LOCATION
+
+Accessible toilet stalls shall be on an accessible route and shall meet the requirements of 4.17.
+
+#### 4.17.2 WATER CLOSETS
+
+Water closets in accessible stalls shall comply with 4.16.
+
+4.17.3 SIZE AND ARRANGEMENT
+
+The size and arrangement of toilet stalls shall comply with Fig. 30(a). Toilet stalls with a minimum depth of 56 in (1420 mm) (see Fig. 30(a)) shall have wall-mounted water closets. If the depth of toilet stalls is increased at least 3 in (75 mm), then a floor-mounted water closet may be used. Arrangements shown for stalls may be reversed to allow either a left- or right-hand approach.
 
 *EXCEPTION:* In instances of alteration work where provision of a standard stall (Fig. 30(a)) is structurally impracticable or where plumbing code requirements prevent combining existing stalls to provide space, an alternate stall (Fig. 30(b)) may be provided in lieu of the standard stall.
 
@@ -1629,51 +1851,81 @@ Grab Bars at Water Closets**
 **Figure 30\
 Toilet Stalls**
 
-**4.17.4 TOE CLEARANCES.** In standard stalls, the front partition and at least one side partition shall provide a toe clearance of at least 9 in (230 mm) above the floor. If the depth of the stall is greater than 60 in (1525 mm), then the toe clearance is not required.
+#### 4.17.4 TOE CLEARANCES
 
-**4.17.5* DOORS.** Toilet stall doors shall comply with 4.13. If toilet stall approach is from the latch side of the stall door, clearance between the door side of the stall and any obstruction may be reduced to a minimum of 42 in (1065 mm).
+In standard stalls, the front partition and at least one side partition shall provide a toe clearance of at least 9 in (230 mm) above the floor. If the depth of the stall is greater than 60 in (1525 mm), then the toe clearance is not required.
 
-**4.17.6 GRAB BARS.** Grab bars complying with the length and positioning shown in Fig. 30(a), (b), (c), and (d) shall be provided. Grab bars may be mounted with any desired method as long as they have a gripping surface at the locations shown and do not obstruct the required clear floor area. Grab bars shall comply with 4.26.
+#### 4.17.5* DOORS
 
-**4.18 URINALS.**
+Toilet stall doors shall comply with 4.13. If toilet stall approach is from the latch side of the stall door, clearance between the door side of the stall and any obstruction may be reduced to a minimum of 42 in (1065 mm).
 
-**4.18.1 GENERAL.** Accessible urinals shall comply with 4.18.
+#### 4.17.6 GRAB BARS
 
-**4.18.2 HEIGHT.** Urinals shall be stall-type or wall-hung with an elongated rim at a maximum of 17 in (430 mm) above the floor.
+Grab bars complying with the length and positioning shown in Fig. 30(a), (b), (c), and (d) shall be provided. Grab bars may be mounted with any desired method as long as they have a gripping surface at the locations shown and do not obstruct the required clear floor area. Grab bars shall comply with 4.26.
 
-**4.18.3 CLEAR FLOOR SPACE.** A clear floor space 30 in by 48 in (760 mm by 1220 mm) shall be provided in front of urinals to allow forward approach. This clear space shall adjoin or overlap an accessible route and shall comply with 4.2.4. Urinal shields that do not extend beyond the front edge of the urinal rim may be provided with 29 in (735 mm) clearance between them.
+### 4.18 URINALS
 
-**4.18.4 FLUSH CONTROLS.** Flush controls shall be hand operated or automatic, and shall comply with 4.27.4, and shall be mounted no more than 44 in (1120 mm) above the floor.
+#### 4.18.1 GENERAL
 
-**4.19 LAVATORIES AND MIRRORS.**
+Accessible urinals shall comply with 4.18.
 
-**4.19.1 GENERAL.** The requirements of 4.19 shall apply to lavatory fixtures, vanities, and built-in lavatories.
+#### 4.18.2 HEIGHT
 
-**4.19.2 HEIGHT AND CLEARANCES. **Lavatories shall be mounted with the rim or counter surface no higher than 34 in (865 mm) above the finished floor. Provide a clearance of at least 29 in (735 mm) from the floor to the bottom of the apron. Knee and toe clearance shall comply with Fig. 31.
+Urinals shall be stall-type or wall-hung with an elongated rim at a maximum of 17 in (430 mm) above the floor.
+
+#### 4.18.3 CLEAR FLOOR SPACE
+
+A clear floor space 30 in by 48 in (760 mm by 1220 mm) shall be provided in front of urinals to allow forward approach. This clear space shall adjoin or overlap an accessible route and shall comply with 4.2.4. Urinal shields that do not extend beyond the front edge of the urinal rim may be provided with 29 in (735 mm) clearance between them.
+
+#### 4.18.4 FLUSH CONTROLS
+
+Flush controls shall be hand operated or automatic, and shall comply with 4.27.4, and shall be mounted no more than 44 in (1120 mm) above the floor.
+
+### 4.19 LAVATORIES AND MIRRORS
+
+#### 4.19.1 GENERAL
+
+The requirements of 4.19 shall apply to lavatory fixtures, vanities, and built-in lavatories.
+
+#### 4.19.2 HEIGHT AND CLEARANCES
+
+Lavatories shall be mounted with the rim or counter surface no higher than 34 in (865 mm) above the finished floor. Provide a clearance of at least 29 in (735 mm) from the floor to the bottom of the apron. Knee and toe clearance shall comply with Fig. 31.
 
 ![In addition to clearances discussed in the text, the following knee clearance is required underneath the lavatory: 27 inches (685 mm) minimum from the floor to the underside of the lavatory which extends 8 inches (205 mm) minimum measured from the front edge underneath the lavatory back towards the wall; if a minimum 9 inches (230 mm) of toe clearance is provided, a maximum of 6 inches (150 mm) of the 48 inches (1220 mm) of clear floor space required at the fixture may extend into the toe space.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig31.gif)
 
 **Figure 31\
 Lavatory Clearances**
 
-**4.19.3 CLEAR FLOOR SPACE. **A clear floor space 30 in by 48 in (760 mm by 1220 mm) complying with 4.2.4 shall be provided in front of a lavatory to allow forward approach. Such clear floor space shall adjoin or overlap an accessible route and shall extend a maximum of 19 in (485 mm) underneath the lavatory (see Fig. 32).
+#### 4.19.3 CLEAR FLOOR SPACE
+
+A clear floor space 30 in by 48 in (760 mm by 1220 mm) complying with 4.2.4 shall be provided in front of a lavatory to allow forward approach. Such clear floor space shall adjoin or overlap an accessible route and shall extend a maximum of 19 in (485 mm) underneath the lavatory (see Fig. 32).
 
 ![The minimum depth of the lavatory is 17 inches (430 mm).](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig32.gif)
 
 **Figure 32\
 Clear Floor Space at Lavatories**
 
-**4.19.4 EXPOSED PIPES AND SURFACES.** Hot water and drain pipes under lavatories shall be insulated or otherwise covered. There shall be no sharp or abrasive surfaces under lavatories.
+#### 4.19.4 EXPOSED PIPES AND SURFACES
 
-**4.19.5 FAUCETS.** Faucets shall comply with 4.27.4. Lever-operated, push-type, and electronically controlled mechanisms are examples of acceptable designs. Self-closing valves are allowed if the faucet remains open for at least 10 seconds.
+Hot water and drain pipes under lavatories shall be insulated or otherwise covered. There shall be no sharp or abrasive surfaces under lavatories.
 
-**4.19.6* MIRRORS.** Mirrors shall be mounted with the bottom edge of the reflecting surface no higher than 40 in (1015 mm) from the floor (see Fig. 31).
+#### 4.19.5 FAUCETS
 
-**4.20 BATHTUBS.**
+Faucets shall comply with 4.27.4. Lever-operated, push-type, and electronically controlled mechanisms are examples of acceptable designs. Self-closing valves are allowed if the faucet remains open for at least 10 seconds.
 
-**4.20.1 GENERAL.** Accessible bathtubs shall comply with 4.20. For bathtubs in accessible dwelling units, see 4.34.5.4.
+#### 4.19.6* MIRRORS
 
-**4.20.2 FLOOR SPACE.** Clear floor space in front of bathtubs shall be as shown in Fig. 33.
+		Mirrors shall be mounted with the bottom edge of the reflecting surface no higher than 40 in (1015 mm) from the floor (see Fig. 31).
+
+### 4.20 BATHTUBS
+
+#### 4.20.1 GENERAL
+
+Accessible bathtubs shall comply with 4.20. For bathtubs in accessible dwelling units, see 4.34.5.4.
+
+#### 4.20.2 FLOOR SPACE
+
+Clear floor space in front of bathtubs shall be as shown in Fig. 33.
 
 ![fig33](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig33.gif)
 
@@ -1685,23 +1937,37 @@ Clear Floor Space at Bathtubs**
 **Figure 34\
 Grab Bars at Bathtubs**
 
-**4.20.3 SEAT.** An in-tub seat or a seat at the head end of the tub shall be provided as shown in Fig. 33 and 34. The structural strength of seats and their attachments shall comply with 4.26.3. Seats shall be mounted securely and shall not slip during use.
+#### 4.20.3 SEAT
 
-**4.20.4 GRAB BARS.** Grab bars complying with 4.26 shall be provided as shown in Fig. 33 and 34.
+An in-tub seat or a seat at the head end of the tub shall be provided as shown in Fig. 33 and 34. The structural strength of seats and their attachments shall comply with 4.26.3. Seats shall be mounted securely and shall not slip during use.
 
-**4.20.5 CONTROLS.** Faucets and other controls complying with 4.27.4 shall be located as shown in Fig. 34.
+#### 4.20.4 GRAB BARS
 
-**4.20.6 SHOWER UNIT.** A shower spray unit with a hose at least 60 in (1525 mm) long that can be used as a fixed shower head or as a hand-held shower shall be provided.
+Grab bars complying with 4.26 shall be provided as shown in Fig. 33 and 34.
 
-**4.20.7 BATHTUB ENCLOSURES. **If provided, enclosures for bathtubs shall not obstruct controls or transfer from wheelchairs onto bathtub seats or into tubs. Enclosures on bathtubs shall not have tracks mounted on their rims.
+#### 4.20.5 CONTROLS
 
-**4.21 SHOWER STALLS.**
+Faucets and other controls complying with 4.27.4 shall be located as shown in Fig. 34.
 
-**4.21.1* GENERAL. **Accessible shower stalls shall comply with 4.21. For shower stalls in accessible dwelling units, see 4.34.5.5.
+#### 4.20.6 SHOWER UNIT
 
-**4.21.2 SIZE AND CLEARANCES.** Shower stall size and clear floor space shall comply with Fig. 35(a) or (b). The shower stall in Fig. 35(a) shall be 36 in by 36 in (915 mm by 915 mm). The shower stall in Fig. 35(b) will fit into the space required for a bathtub.
+A shower spray unit with a hose at least 60 in (1525 mm) long that can be used as a fixed shower head or as a hand-held shower shall be provided.
 
-[![36-in by 36-in shower stall](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig35a.gif)](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#intro)
+#### 4.20.7 BATHTUB ENCLOSURES
+
+If provided, enclosures for bathtubs shall not obstruct controls or transfer from wheelchairs onto bathtub seats or into tubs. Enclosures on bathtubs shall not have tracks mounted on their rims.
+
+### 4.21 SHOWER STALLS
+
+#### 4.21.1* GENERAL
+
+Accessible shower stalls shall comply with 4.21. For shower stalls in accessible dwelling units, see 4.34.5.5.
+
+#### 4.21.2 SIZE AND CLEARANCES
+
+Shower stall size and clear floor space shall comply with Fig. 35(a) or (b). The shower stall in Fig. 35(a) shall be 36 in by 36 in (915 mm by 915 mm). The shower stall in Fig. 35(b) will fit into the space required for a bathtub.
+
+[![36-in by 36-in shower stall](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig35a.gif)](#intro)
 
 **Figure 35(a)\
 Shower Size and Clearances\
@@ -1713,7 +1979,9 @@ Shower Size and Clearances\
 Shower Size and Clearances\
 30-in by 60-in (760-mm by 1525-mm) Stall**
 
-**4.21.3 SEAT.** A seat shall be provided in shower stalls 36 in by 36 in (915 mm by 915 mm) and shall be as shown in Fig. 36. The seat shall be mounted 17 in to 19 in (430 mm to 485 mm) from the bathroom floor and shall extend the full depth of the stall. The seat shall be on the wall opposite the controls. The structural strength of seats and their attachments shall comply with 4.26.3.
+#### 4.21.3 SEAT
+
+A seat shall be provided in shower stalls 36 in by 36 in (915 mm by 915 mm) and shall be as shown in Fig. 36. The seat shall be mounted 17 in to 19 in (430 mm to 485 mm) from the bathroom floor and shall extend the full depth of the stall. The seat shall be on the wall opposite the controls. The structural strength of seats and their attachments shall comply with 4.26.3.
 
 ![fig36](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig36.gif)
 
@@ -1725,94 +1993,162 @@ Shower Seat Design**
 **Figure 37\
 Grab Bars at Shower Stalls**
 
-**4.21.4 GRAB BARS.** Grab bars complying with 4.26 shall be provided as shown in Fig. 37.
+#### 4.21.4 GRAB BARS
 
-**4.21.5 CONTROLS.** Faucets and other controls complying with 4.27.4 shall be located as shown in Fig. 37. In shower stalls 36 in by 36 in (915 mm by 915 mm), all controls, faucets, and the shower unit shall be mounted on the side wall opposite the seat.
+Grab bars complying with 4.26 shall be provided as shown in Fig. 37.
 
-**4.21.6 SHOWER UNIT.** A shower spray unit with a hose at least 60 in (1525 mm) long that can be used as a fixed shower head or as a hand-held shower shall be provided.
+#### 4.21.5 CONTROLS
+
+Faucets and other controls complying with 4.27.4 shall be located as shown in Fig. 37. In shower stalls 36 in by 36 in (915 mm by 915 mm), all controls, faucets, and the shower unit shall be mounted on the side wall opposite the seat.
+
+#### 4.21.6 SHOWER UNIT
+
+A shower spray unit with a hose at least 60 in (1525 mm) long that can be used as a fixed shower head or as a hand-held shower shall be provided.
 
 *EXCEPTION:* In unmonitored facilities where vandalism is a consideration, a fixed shower head mounted at 48 in (1220 mm) above the shower floor may be used in lieu of a hand-held shower head.
 
-**4.21.7 CURBS. **If provided, curbs in shower stalls 36 in by 36 in (915 mm by 915 mm) shall be no higher than 1/2 in (13 mm). Shower stalls that are 30 in by 60 in (760 mm by 1525 mm) shall not have curbs.
+#### 4.21.7 CURBS
 
-**4.21.8 SHOWER ENCLOSURES.** If provided, enclosures for shower stalls shall not obstruct controls or obstruct transfer from wheelchairs onto shower seats.
+If provided, curbs in shower stalls 36 in by 36 in (915 mm by 915 mm) shall be no higher than 1/2 in (13 mm). Shower stalls that are 30 in by 60 in (760 mm by 1525 mm) shall not have curbs.
 
-**4.22 TOILET ROOMS.**
+#### 4.21.8 SHOWER ENCLOSURES
 
-**4.22.1 MINIMUM NUMBER. **Toilet facilities required to be accessible by 4.1 shall comply with 4.22. Accessible toilet rooms shall be on an accessible route.
+If provided, enclosures for shower stalls shall not obstruct controls or obstruct transfer from wheelchairs onto shower seats.
 
-**4.22.2 DOORS. **All doors to accessible toilet rooms shall comply with 4.13. Doors shall not swing into the clear floor space required for any fixture.
+### 4.22 TOILET ROOMS
 
-**4.22.3 CLEAR FLOOR SPACE.** The accessible fixtures and controls required in 4.22.4, 4.22.5, 4.22.6, and 4.22.7 shall be on an accessible route. An unobstructed turning space complying with 4.2.3 shall be provided within an accessible toilet room. The clear floor space at fixtures and controls, the accessible route, and the turning space may overlap.
+#### 4.22.1 MINIMUM NUMBER
+
+Toilet facilities required to be accessible by 4.1 shall comply with 4.22. Accessible toilet rooms shall be on an accessible route.
+
+#### 4.22.2 DOORS
+
+All doors to accessible toilet rooms shall comply with 4.13. Doors shall not swing into the clear floor space required for any fixture.
+
+#### 4.22.3 CLEAR FLOOR SPACE
+
+The accessible fixtures and controls required in 4.22.4, 4.22.5, 4.22.6, and 4.22.7 shall be on an accessible route. An unobstructed turning space complying with 4.2.3 shall be provided within an accessible toilet room. The clear floor space at fixtures and controls, the accessible route, and the turning space may overlap.
 
 *EXCEPTION:* In toilet rooms with only one water closet and one lavatory, a clear floor space of 30 in by 60 in (815 mm by 1525 mm) may be used in lieu of the unobstructed turning space.
 
-**4.22.4 WATER CLOSETS. **If toilet stalls are provided, then at least one shall comply with 4.17; its water closet shall comply with 4.16. If water closets are not in stalls, then at least one shall comply with 4.16.
+#### 4.22.4 WATER CLOSETS
 
-**4.22.5 URINALS.** If urinals are provided, then at least one shall comply with 4.18.
+If toilet stalls are provided, then at least one shall comply with 4.17; its water closet shall comply with 4.16. If water closets are not in stalls, then at least one shall comply with 4.16.
 
-**4.22.6 LAVATORIES AND MIRRORS.** If lavatories and mirrors are provided, then at least one of each shall comply with 4.19.
+#### 4.22.5 URINALS
 
-**4.22.7 CONTROLS AND DISPENSERS.** If controls, dispensers, receptacles, or other equipment is provided, then at least one of each shall be on an accessible route and shall comply with 4.27.
+If urinals are provided, then at least one shall comply with 4.18.
 
-**4.23 BATHROOMS, BATHING FACILITIES, AND SHOWER ROOMS.**
+#### 4.22.6 LAVATORIES AND MIRRORS
 
-**4.23.1 MINIMUM NUMBER.** Bathrooms, bathing facilities, or shower rooms required to be accessible by 4.1 shall comply with 4.23 and shall be on an accessible route. For adaptable bathrooms in accessible dwelling units, see 4.34.5.
+If lavatories and mirrors are provided, then at least one of each shall comply with 4.19.
 
-**4.23.2 DOORS.** Doors to accessible bathrooms shall comply with 4.13. Doors shall not swing into the floor space required for any fixture.
+#### 4.22.7 CONTROLS AND DISPENSERS
 
-**4.23.3 CLEAR FLOOR SPACE. **The accessible fixtures and controls required in 4.23.4, 4.23.5, 4.23.6, 4.23.7, 4.23.8, and 4.23.9 shall be on an accessible route. An unobstructed turning space complying with 4.2.3 shall be provided within an accessible bathroom. The clear floor spaces at fixtures and controls, the accessible route, and the turning space may overlap.
+If controls, dispensers, receptacles, or other equipment is provided, then at least one of each shall be on an accessible route and shall comply with 4.27.
+
+### 4.23 BATHROOMS, BATHING FACILITIES, AND SHOWER ROOMS
+
+#### 4.23.1 MINIMUM NUMBER
+
+Bathrooms, bathing facilities, or shower rooms required to be accessible by 4.1 shall comply with 4.23 and shall be on an accessible route. For adaptable bathrooms in accessible dwelling units, see 4.34.5.
+
+#### 4.23.2 DOORS
+
+Doors to accessible bathrooms shall comply with 4.13. Doors shall not swing into the floor space required for any fixture.
+
+#### 4.23.3 CLEAR FLOOR SPACE
+
+The accessible fixtures and controls required in 4.23.4, 4.23.5, 4.23.6, 4.23.7, 4.23.8, and 4.23.9 shall be on an accessible route. An unobstructed turning space complying with 4.2.3 shall be provided within an accessible bathroom. The clear floor spaces at fixtures and controls, the accessible route, and the turning space may overlap.
 
 *EXCEPTION:* In bathrooms with only one water closet, one lavatory, and one bathtub or shower, a clear floor space of 30 in by 60 in (760 mm by 1525 mm) may be used in lieu of the unobstructed turning space.
 
-**4.23.4 WATER CLOSETS.** If toilet stalls are provided, then at least one shall comply with 4.17; its water closet shall comply with 4.16. If water closets are not in stalls, then at least one shall comply with 4.16.
+#### 4.23.4 WATER CLOSETS
 
-**4.23.5 URINALS. **If urinals are provided, then at least one shall comply with 4.18.
+If toilet stalls are provided, then at least one shall comply with 4.17; its water closet shall comply with 4.16. If water closets are not in stalls, then at least one shall comply with 4.16.
 
-**4.23.6 LAVATORIES AND MIRRORS.** If lavatories and mirrors are provided, then at least one of each shall comply with 4.19.
+#### 4.23.5 URINALS
 
-**4.23.7 CONTROLS AND DISPENSERS.** If controls, dispensers, receptacles, or other equipment is provided, then at least one of each shall be on an accessible route and shall comply with 4.27.
+If urinals are provided, then at least one shall comply with 4.18.
 
-**4.23.8 BATHING AND SHOWER FACILITIES.** If tubs or showers are provided, then at least one accessible tub that complies with 4.20 or at least one accessible shower that complies with 4.21 shall be provided.
+#### 4.23.6 LAVATORIES AND MIRRORS
 
-**4.23.9* MEDICINE CABINETS. **If medicine cabinets are provided, at least one shall be located with a usable shelf no higher than 44 in (1120 mm) above the floor space. The floor space shall comply with 4.2.4.
+If lavatories and mirrors are provided, then at least one of each shall comply with 4.19.
 
-**4.24 SINKS.**
+#### 4.23.7 CONTROLS AND DISPENSERS
 
-**4.24.1 GENERAL.** Sinks required to be accessible by 4.1 shall comply with 4.24. Sinks in kitchens of accessible dwelling units shall comply with 4.34.6.5.
+If controls, dispensers, receptacles, or other equipment is provided, then at least one of each shall be on an accessible route and shall comply with 4.27.
 
-**4.24.2 HEIGHT.** Sinks shall be mounted with the counter or rim no higher than 34 in (865 mm) from the floor.
+#### 4.23.8 BATHING AND SHOWER FACILITIES
 
-**4.24.3 KNEE CLEARANCE.** Knee clearance that is at least 27 in (685 mm) high, 30 in (760 mm) wide, and 19 in (485 mm) deep shall be provided underneath sinks.
+If tubs or showers are provided, then at least one accessible tub that complies with 4.20 or at least one accessible shower that complies with 4.21 shall be provided.
 
-**4.24.4 DEPTH.** Each sink shall be a maximum of 6-1/2 in (165 mm) deep.
+#### 4.23.9* MEDICINE CABINETS
 
-**4.24.5 CLEAR FLOOR SPACE.** A clear floor space at least 30 in by 48 in (760 mm by 1220 mm) complying with 4.2.4 shall be provided in front of a sink to allow forward approach. The clear floor space shall be on an accessible route and shall extend a maximum of 19 in (485 mm) underneath the sink (see Fig. 32).
+If medicine cabinets are provided, at least one shall be located with a usable shelf no higher than 44 in (1120 mm) above the floor space. The floor space shall comply with 4.2.4.
 
-**4.24.6 EXPOSED PIPES AND SURFACES.** Hot water and drain pipes exposed under sinks shall be insulated or otherwise covered. There shall be no sharp or abrasive surfaces under sinks.
+### 4.24 SINKS
 
-**4.24.7 FAUCETS.** Faucets shall comply with 4.27.4. Lever-operated, push-type, touch-type, or electronically controlled mechanisms are acceptable designs.
+#### 4.24.1 GENERAL
 
-**4.25 STORAGE.**
+Sinks required to be accessible by 4.1 shall comply with 4.24. Sinks in kitchens of accessible dwelling units shall comply with 4.34.6.5.
 
-**4.25.1 GENERAL.** Fixed storage facilities such as cabinets, shelves, closets, and drawers required to be accessible by 4.1 shall comply with 4.25.
+#### 4.24.2 HEIGHT
 
-**4.25.2 CLEAR FLOOR SPACE.** A clear floor space at least 30 in by 48 in (760 mm by 1220 mm) complying with 4.2.4 that allows either a forward or parallel approach by a person using a wheelchair shall be provided at accessible storage facilities.
+Sinks shall be mounted with the counter or rim no higher than 34 in (865 mm) from the floor.
 
-**4.25.3 HEIGHT.** Accessible storage spaces shall be within at least one of the reach ranges specified in 4.2.5 and 4.2.6. Clothes rods shall be a maximum of 54 in (1370 mm) from the floor (see Fig. 38).
+#### 4.24.3 KNEE CLEARANCE
+
+Knee clearance that is at least 27 in (685 mm) high, 30 in (760 mm) wide, and 19 in (485 mm) deep shall be provided underneath sinks.
+
+#### 4.24.4 DEPTH
+
+Each sink shall be a maximum of 6-1/2 in (165 mm) deep.
+
+#### 4.24.5 CLEAR FLOOR SPACE
+
+A clear floor space at least 30 in by 48 in (760 mm by 1220 mm) complying with 4.2.4 shall be provided in front of a sink to allow forward approach. The clear floor space shall be on an accessible route and shall extend a maximum of 19 in (485 mm) underneath the sink (see Fig. 32).
+
+#### 4.24.6 EXPOSED PIPES AND SURFACES
+
+Hot water and drain pipes exposed under sinks shall be insulated or otherwise covered. There shall be no sharp or abrasive surfaces under sinks.
+
+#### 4.24.7 FAUCETS
+
+Faucets shall comply with 4.27.4. Lever-operated, push-type, touch-type, or electronically controlled mechanisms are acceptable designs.
+
+### 4.25 STORAGE
+
+#### 4.25.1 GENERAL
+
+Fixed storage facilities such as cabinets, shelves, closets, and drawers required to be accessible by 4.1 shall comply with 4.25.
+
+#### 4.25.2 CLEAR FLOOR SPACE
+
+A clear floor space at least 30 in by 48 in (760 mm by 1220 mm) complying with 4.2.4 that allows either a forward or parallel approach by a person using a wheelchair shall be provided at accessible storage facilities.
+
+#### 4.25.3 HEIGHT
+
+Accessible storage spaces shall be within at least one of the reach ranges specified in 4.2.5 and 4.2.6. Clothes rods shall be a maximum of 54 in (1370 mm) from the floor (see Fig. 38).
 
 ![Storage Shelves and Closets](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig38.gif)
 
 **Figure 38\
 Storage Shelves and Closets**
 
-**4.25.4 HARDWARE.** Hardware for accessible storage facilities shall comply with 4.27.4. Touch latches and U-shaped pulls are acceptable.
+#### 4.25.4 HARDWARE
 
-**4.26 HANDRAILS, GRAB BARS, AND TUB AND SHOWER SEATS.**
+Hardware for accessible storage facilities shall comply with 4.27.4. Touch latches and U-shaped pulls are acceptable.
 
-**4.26.1* GENERAL.** All handrails, grab bars, and tub and shower seats required to be accessible by 4.1, 4.8, or 4.9 shall comply with 4.26.
+### 4.26 HANDRAILS, GRAB BARS, AND TUB AND SHOWER SEATS
 
-**4.26.2* SIZE AND SPACING OF GRAB BARS AND HANDRAILS.** The diameter or width of the gripping surfaces of a handrail or grab bar shall be 1-1/4 in to 1-1/2 in (32 mm to 38 mm), or the shape shall provide an equivalent gripping surface. If handrails or grab bars are mounted adjacent to a wall, the space between the wall and the grab bar shall be 1-1/2 in (38 mm) (see Fig. 39(a), (b), and (c)). Handrails may be located in a recess if the recess is a maximum of 3 in (75 mm) deep and extends at least 18 in (455 mm) above the top of the rail (see Fig. 39(d)).
+#### 4.26.1* GENERAL
+
+All handrails, grab bars, and tub and shower seats required to be accessible by 4.1, 4.8, or 4.9 shall comply with 4.26.
+
+#### 4.26.2* SIZE AND SPACING OF GRAB BARS AND HANDRAILS
+
+The diameter or width of the gripping surfaces of a handrail or grab bar shall be 1-1/4 in to 1-1/2 in (32 mm to 38 mm), or the shape shall provide an equivalent gripping surface. If handrails or grab bars are mounted adjacent to a wall, the space between the wall and the grab bar shall be 1-1/2 in (38 mm) (see Fig. 39(a), (b), and (c)). Handrails may be located in a recess if the recess is a maximum of 3 in (75 mm) deep and extends at least 18 in (455 mm) above the top of the rail (see Fig. 39(d)).
 
 ![Size and Spacing of Handrails and Grab Bars](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig39a.gif)
 
@@ -1844,7 +2180,9 @@ Handrail**
 Size and Spacing of Handrails and Grab Bars\
 Grab Bar**
 
-**4.26.3 STRUCTURAL STRENGTH.** The structural strength of grab bars, tub and shower seats, fasteners, and mounting devices shall meet the following specification:
+#### 4.26.3 STRUCTURAL STRENGTH
+
+The structural strength of grab bars, tub and shower seats, fasteners, and mounting devices shall meet the following specification:
 
 (1) Bending stress in a grab bar or seat induced by the maximum bending moment from the application of 250 lbf (1112N) shall be less than the allowable stress for the material of the grab bar or seat.
 
@@ -1856,25 +2194,41 @@ Grab Bar**
 
 (5) Grab bars shall not rotate within their fittings.
 
-**4.26.4 ELIMINATING HAZARDS.** A handrail or grab bar and any wall or other surface adjacent to it shall be free of any sharp or abrasive elements. Edges shall have a minimum radius of 1/8 in (3.2 mm).
+#### 4.26.4 ELIMINATING HAZARDS
 
-**4.27 CONTROLS AND OPERATING MECHANISMS.**
+A handrail or grab bar and any wall or other surface adjacent to it shall be free of any sharp or abrasive elements. Edges shall have a minimum radius of 1/8 in (3.2 mm).
 
-**4.27.1 GENERAL.** Controls and operating mechanisms required to be accessible by 4.1 shall comply with 4.27.
+### 4.27 CONTROLS AND OPERATING MECHANISMS
 
-**4.27.2 CLEAR FLOOR SPACE. **Clear floor space complying with 4.2.4 that allows a forward or a parallel approach by a person using a wheelchair shall be provided at controls, dispensers, receptacles, and other operable equipment.
+#### 4.27.1 GENERAL
 
-**4.27.3* HEIGHT. **The highest operable part of all controls, dispensers, receptacles, and other operable equipment shall be placed within at least one of the reach ranges specified in 4.2.5 and 4.2.6. Except where the use of special equipment dictates otherwise, electrical and communications system receptacles on walls shall be mounted no less than 15 in (380 mm) above the floor.
+Controls and operating mechanisms required to be accessible by 4.1 shall comply with 4.27.
 
-**4.27.4 OPERATION.** Controls and operating mechanisms shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate controls shall be no greater than 5 lbf (22.2 N).
+#### 4.27.2 CLEAR FLOOR SPACE
 
-**4.28 ALARMS.**
+Clear floor space complying with 4.2.4 that allows a forward or a parallel approach by a person using a wheelchair shall be provided at controls, dispensers, receptacles, and other operable equipment.
 
-**4.28.1 GENERAL.** Alarm systems required to be accessible by 4.1 shall comply with 4.28.
+#### 4.27.3* HEIGHT
 
-**4.28.2* AUDIBLE ALARMS.** If provided, audible emergency alarms shall produce a sound that exceeds the prevailing equivalent sound level in the room or space by at least 15 decibels or exceeds any maximum sound level with a duration of 30 seconds by 5 decibels, whichever is louder. Sound levels for alarm signals shall not exceed 120 decibels.
+The highest operable part of all controls, dispensers, receptacles, and other operable equipment shall be placed within at least one of the reach ranges specified in 4.2.5 and 4.2.6. Except where the use of special equipment dictates otherwise, electrical and communications system receptacles on walls shall be mounted no less than 15 in (380 mm) above the floor.
 
-**4.28.3* VISUAL ALARMS.** If provided, electrically powered internally illuminated emergency exit signs shall flash as a visual emergency alarm in conjunction with audible emergency alarms. The flashing frequency of visual alarm devices shall be less than 5 Hz. If such alarms use electricity from the building as a power source, then they shall be installed on the same system as the audible emergency alarms.
+#### 4.27.4 OPERATION
+
+Controls and operating mechanisms shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate controls shall be no greater than 5 lbf (22.2 N).
+
+### 4.28 ALARMS
+
+#### 4.28.1 GENERAL
+
+Alarm systems required to be accessible by 4.1 shall comply with 4.28.
+
+#### 4.28.2* AUDIBLE ALARMS
+
+If provided, audible emergency alarms shall produce a sound that exceeds the prevailing equivalent sound level in the room or space by at least 15 decibels or exceeds any maximum sound level with a duration of 30 seconds by 5 decibels, whichever is louder. Sound levels for alarm signals shall not exceed 120 decibels.
+
+#### 4.28.3* VISUAL ALARMS
+
+If provided, electrically powered internally illuminated emergency exit signs shall flash as a visual emergency alarm in conjunction with audible emergency alarms. The flashing frequency of visual alarm devices shall be less than 5 Hz. If such alarms use electricity from the building as a power source, then they shall be installed on the same system as the audible emergency alarms.
 
 *EXCEPTIONS:*
 
@@ -1882,35 +2236,59 @@ Grab Bar**
 
 (2) Specialized systems utilizing advanced technology may be substituted for the visual systems specified above if equivalent protection is afforded handicapped users of the building or facility.
 
-**4.28.4* AUXILIARY ALARMS.** Accessible sleeping accommodations shall have a visual alarm connected to the building emergency alarm system or shall have a standard 110-volt electrical receptacle into which such an alarm could be connected. Instructions for use of the auxiliary alarm or connection shall be provided.
+#### 4.28.4* AUXILIARY ALARMS
 
-**4.29 TACTILE WARNINGS.**
+Accessible sleeping accommodations shall have a visual alarm connected to the building emergency alarm system or shall have a standard 110-volt electrical receptacle into which such an alarm could be connected. Instructions for use of the auxiliary alarm or connection shall be provided.
 
-**4.29.1 GENERAL.** Tactile warnings required to be accessible by 4.1 shall comply with 4.29.
+### 4.29 TACTILE WARNINGS
 
-**4.29.2* TACTILE WARNINGS ON WALKING SURFACES.** (Reserved).
+#### 4.29.1 GENERAL
 
-**4.29.3* TACTILE WARNINGS ON DOORS TO HAZARDOUS AREAS.** Doors that lead to areas that might prove dangerous to a blind person (for example, doors to loading platforms, boiler rooms, stages, and the like) shall be made identifiable to the touch by a textured surface on the door handle, knob, pull or other operating hardware. This textured surface may be made by knurling or roughing or by a material applied to the contact surface. Such textured surfaces shall not be provided for emergency exit doors or any doors other than those to hazardous areas.
+Tactile warnings required to be accessible by 4.1 shall comply with 4.29.
 
-**4.29.4 TACTILE WARNINGS AT STAIRS.** (Reserved).
+#### 4.29.2* TACTILE WARNINGS ON WALKING SURFACES
 
-**4.29.5* TACTILE WARNINGS AT HAZARDOUS VEHICULAR AREAS.** (Reserved).
+(Reserved).
 
-**4.29.6* TACTILE WARNINGS AT REFLECTING POOLS.** (Reserved).
+#### 4.29.3* TACTILE WARNINGS ON DOORS TO HAZARDOUS AREAS
 
-**4.29.7* STANDARDIZATION.** Textured surfaces for tactile door warnings shall be standard within a building, facility, site, or complex of buildings.
+Doors that lead to areas that might prove dangerous to a blind person (for example, doors to loading platforms, boiler rooms, stages, and the like) shall be made identifiable to the touch by a textured surface on the door handle, knob, pull or other operating hardware. This textured surface may be made by knurling or roughing or by a material applied to the contact surface. Such textured surfaces shall not be provided for emergency exit doors or any doors other than those to hazardous areas.
 
-**4.30 SIGNAGE.**
+#### 4.29.4 TACTILE WARNINGS AT STAIRS
 
-**4.30.1* GENERAL.** Signage required to be accessible by 4.1 shall comply with 4.30.
+(Reserved).
 
-**4.30.2* CHARACTER PROPORTION.** Letters and numbers on signs shall have a width-to-height ratio between 3:5 and 1:1 and a stroke width-to-height ratio between 1:5 and 1:10.
+#### 4.29.5* TACTILE WARNINGS AT HAZARDOUS VEHICULAR AREAS
 
-**4.30.3* COLOR CONTRAST.** Characters and symbols shall contrast with their background - either light characters on a dark background or dark characters on a light background.
+(Reserved).
+
+#### 4.29.6* TACTILE WARNINGS AT REFLECTING POOLS
+
+(Reserved).
+
+#### 4.29.7* STANDARDIZATION
+
+Textured surfaces for tactile door warnings shall be standard within a building, facility, site, or complex of buildings.
+
+### 4.30 SIGNAGE
+
+#### 4.30.1* GENERAL
+
+Signage required to be accessible by 4.1 shall comply with 4.30.
+
+#### 4.30.2* CHARACTER PROPORTION
+
+Letters and numbers on signs shall have a width-to-height ratio between 3:5 and 1:1 and a stroke width-to-height ratio between 1:5 and 1:10.
+
+#### 4.30.3* COLOR CONTRAST
+
+Characters and symbols shall contrast with their background - either light characters on a dark background or dark characters on a light background.
 
 **4.30.4* RAISED CHARACTERS OR SYMBOLS.** Letters and numbers on signs shall be raised 1/32 in (0.8 mm) minimum and shall be sans serif characters. Raised characters or symbols shall be at least 5/8 in (16 mm) high, but no higher than 2 in (50 mm). Symbols or pictographs on signs shall be raised 1/32 in (0.8 mm) minimum.
 
-**4.30.5 SYMBOLS OF ACCESSIBILITY.** Accessible facilities required to be identified by 4.1, shall use the international symbol of accessibility. The symbol shall be displayed as shown in Fig. 43.
+#### 4.30.5 SYMBOLS OF ACCESSIBILITY
+
+Accessible facilities required to be identified by 4.1, shall use the international symbol of accessibility. The symbol shall be displayed as shown in Fig. 43.
 
 **![International Symbol of Accessibility](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig43ab.gif)**
 
@@ -1918,74 +2296,118 @@ Grab Bar**
 International Symbol of Accessibility\
 Proportions**
 
-**4.30.6 MOUNTING LOCATION AND HEIGHT. **Interior signage shall be located alongside the door on the latch side and shall be mounted at a height of between 54 in and 66 in (1370 mm and 1675 mm) above the finished floor.
+#### 4.30.6 MOUNTING LOCATION AND HEIGHT
 
-**4.31 TELEPHONES.**
+Interior signage shall be located alongside the door on the latch side and shall be mounted at a height of between 54 in and 66 in (1370 mm and 1675 mm) above the finished floor.
 
-**4.31.1 GENERAL.** Public telephones required to be accessible by 4.1 shall comply with 4.31.
+### 4.31 TELEPHONES
 
-**4.31.2 CLEAR FLOOR OR GROUND SPACE.** A clear floor or ground space at least 30 in by 48 in (760 mm by 1220 mm) that allows either a forward or parallel approach by a person using a wheelchair shall be provided at telephones (see Fig. 44). The clear floor or ground space shall comply with 4.2.4. Bases, enclosures, and fixed seats shall not impede approaches to telephones by people who use wheelchairs.
+#### 4.31.1 GENERAL
+
+Public telephones required to be accessible by 4.1 shall comply with 4.31.
+
+#### 4.31.2 CLEAR FLOOR OR GROUND SPACE
+
+A clear floor or ground space at least 30 in by 48 in (760 mm by 1220 mm) that allows either a forward or parallel approach by a person using a wheelchair shall be provided at telephones (see Fig. 44). The clear floor or ground space shall comply with 4.2.4. Bases, enclosures, and fixed seats shall not impede approaches to telephones by people who use wheelchairs.
 
 ![Mounting Heights and Clearances for Telephones](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig44.gif)
 
 **Figure 44\
 Mounting Heights and Clearances for Telephones**
 
-**4.31.3* MOUNTING HEIGHT.** The highest operable part of the telephone shall be within the reach ranges specified in 4.2.5 or 4.2.6.
+#### 4.31.3* MOUNTING HEIGHT
 
-**4.31.4 PROTRUDING OBJECTS. **Telephones shall comply with 4.4.
+The highest operable part of the telephone shall be within the reach ranges specified in 4.2.5 or 4.2.6.
 
-**4.31.5* EQUIPMENT FOR HEARING IMPAIRED PEOPLE. **Telephones shall be equipped with a receiver that generates a magnetic field in the area of the receiver cap. Volume controls shall be provided in accordance with 4.1.2.
+#### 4.31.4 PROTRUDING OBJECTS
 
-**4.31.6 CONTROLS.** Telephones shall have pushbutton controls where service for such equipment is available.
+Telephones shall comply with 4.4.
 
-**4.31.7 TELEPHONE BOOKS. **Telephone books, if provided, shall be located in a position that complies with the reach ranges specified in 4.2.5 and 4.2.6.
+#### 4.31.5* EQUIPMENT FOR HEARING IMPAIRED PEOPLE
 
-**4.31.8 CORD LENGTH.** The cord from the telephone to the handset shall be at least 29 in (735 mm) long.
+Telephones shall be equipped with a receiver that generates a magnetic field in the area of the receiver cap. Volume controls shall be provided in accordance with 4.1.2.
 
-**4.32 SEATING, TABLES, AND WORK SURFACES.**
+#### 4.31.6 CONTROLS
 
-**4.32.1 MINIMUM NUMBER.** Fixed or built-in seating, tables, or work surfaces required to be accessible by 4.1 shall comply with 4.32.
+Telephones shall have pushbutton controls where service for such equipment is available.
 
-**4.32.2 SEATING.** If seating spaces for people in wheelchairs are provided at tables, counters, or work surfaces, clear floor space complying with 4.2.4 shall be provided. Such clear floor space shall not overlap knee space by more than 19 in (485 mm) (see Fig. 45).
+#### 4.31.7 TELEPHONE BOOKS
+
+Telephone books, if provided, shall be located in a position that complies with the reach ranges specified in 4.2.5 and 4.2.6.
+
+#### 4.31.8 CORD LENGTH
+
+The cord from the telephone to the handset shall be at least 29 in (735 mm) long.
+
+### 4.32 SEATING, TABLES, AND WORK SURFACES
+
+#### 4.32.1 MINIMUM NUMBER
+
+Fixed or built-in seating, tables, or work surfaces required to be accessible by 4.1 shall comply with 4.32.
+
+#### 4.32.2 SEATING
+
+If seating spaces for people in wheelchairs are provided at tables, counters, or work surfaces, clear floor space complying with 4.2.4 shall be provided. Such clear floor space shall not overlap knee space by more than 19 in (485 mm) (see Fig. 45).
 
 ![Minimum Clearances for Seating and Tables](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig45.gif)
 
 **Figure 45\
 Minimum Clearances for Seating and Tables**
 
-**4.32.3 KNEE CLEARANCES.** If seating for people in wheelchairs is provided at tables, counters, and work surfaces, knee spaces at least 27 in (685 mm) high, 30 in (760 mm) wide, and 19 in (485 mm) deep shall be provided (see Fig. 45).
+#### 4.32.3 KNEE CLEARANCES
 
-**4.32.4* HEIGHT OF WORK SURFACES.** The tops of tables and work surfaces shall be from 28 in to 34 in (710 mm to 865 mm) from the floor or ground.
+If seating for people in wheelchairs is provided at tables, counters, and work surfaces, knee spaces at least 27 in (685 mm) high, 30 in (760 mm) wide, and 19 in (485 mm) deep shall be provided (see Fig. 45).
 
-**4.33 ASSEMBLY AREAS.**
+#### 4.32.4* HEIGHT OF WORK SURFACES
 
-**4.33.1 MINIMUM NUMBER. **Assembly and associated areas required to be accessible by 4.1 shall comply with 4.33.
+The tops of tables and work surfaces shall be from 28 in to 34 in (710 mm to 865 mm) from the floor or ground.
 
-**4.33.2* SIZE OF WHEELCHAIR LOCATIONS.** Each wheelchair location shall provide minimum clear ground or floor spaces as shown in Fig. 46.
+### 4.33 ASSEMBLY AREAS
+
+#### 4.33.1 MINIMUM NUMBER
+
+Assembly and associated areas required to be accessible by 4.1 shall comply with 4.33.
+
+#### 4.33.2* SIZE OF WHEELCHAIR LOCATIONS
+
+Each wheelchair location shall provide minimum clear ground or floor spaces as shown in Fig. 46.
 
 ![Space Requirements for Wheelchair Seating Spaces in Series](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig46.gif)
 
 **Figure 46\
 Space Requirements for Wheelchair Seating Spaces in Series**
 
-**4.33.3* PLACEMENT OF WHEELCHAIR LOCATIONS. **Wheelchair areas shall be an integral part of any fixed seating plan and shall be dispersed throughout the seating area. They shall adjoin an accessible route that also serves as a means of egress in case of emergency and shall be located to provide lines of sight comparable to those for all viewing areas.
+#### 4.33.3* PLACEMENT OF WHEELCHAIR LOCATIONS
+
+Wheelchair areas shall be an integral part of any fixed seating plan and shall be dispersed throughout the seating area. They shall adjoin an accessible route that also serves as a means of egress in case of emergency and shall be located to provide lines of sight comparable to those for all viewing areas.
 
 *EXCEPTION:* Accessible viewing positions may be clustered for bleachers, balconies, and other areas having sight lines that require slopes of greater than 5 percent. Equivalent accessible viewing positions may be located on levels having accessible egress.
 
-**4.33.4 SURFACES.** The ground or floor at wheelchair locations shall be level and shall comply with 4.5.
+#### 4.33.4 SURFACES
 
-**4.33.5 ACCESS TO PERFORMING AREAS.** An accessible route shall connect wheelchair seating locations with performing areas, including stages, arena floors, dressing rooms, locker rooms, and other spaces used by performers.
+The ground or floor at wheelchair locations shall be level and shall comply with 4.5.
 
-**4.33.6* PLACEMENT OF LISTENING SYSTEMS.** If the listening system provided serves individual fixed seats, then such seats shall be located within a 50 ft (15 m) viewing distance of the stage or playing area and shall have a complete view of the stage or playing area.
+#### 4.33.5 ACCESS TO PERFORMING AREAS
 
-**4.33.7* TYPES OF LISTENING SYSTEMS.** Audio loops and radio frequency systems are two acceptable types of listening systems.
+An accessible route shall connect wheelchair seating locations with performing areas, including stages, arena floors, dressing rooms, locker rooms, and other spaces used by performers.
 
-**4.34 DWELLING UNITS.**
+#### 4.33.6* PLACEMENT OF LISTENING SYSTEMS
 
-**4.34.1 GENERAL.** The requirements of 4.34 apply to dwelling units required to be accessible by 4.1.
+If the listening system provided serves individual fixed seats, then such seats shall be located within a 50 ft (15 m) viewing distance of the stage or playing area and shall have a complete view of the stage or playing area.
 
-**4.34.2* MINIMUM REQUIREMENTS.** An accessible dwelling unit shall be on an accessible route. An accessible dwelling unit shall have the following accessible elements and spaces as a minimum:
+#### 4.33.7* TYPES OF LISTENING SYSTEMS
+
+Audio loops and radio frequency systems are two acceptable types of listening systems.
+
+### 4.34 DWELLING UNITS
+
+#### 4.34.1 GENERAL
+
+The requirements of 4.34 apply to dwelling units required to be accessible by 4.1.
+
+#### 4.34.2* MINIMUM REQUIREMENTS
+
+An accessible dwelling unit shall be on an accessible route. An accessible dwelling unit shall have the following accessible elements and spaces as a minimum:
 
 (1) Common spaces and facilities serving individual accessible dwelling units (for example, entry walks, trash disposal facilities, and mail boxes) shall comply with 4.2 through 4.33.
 
@@ -2025,9 +2447,13 @@ Space Requirements for Wheelchair Seating Spaces in Series**
 
 (d) Patios, terraces, balconies, carports, and garages, if provided with the dwelling unit.
 
-**4.34.3 ADAPTABILITY. **The specifications for 4.34.5 and 4.34.6 include the concept of adaptability. Accessible dwelling units may be designed for either permanent accessibility or adaptability.
+#### 4.34.3 ADAPTABILITY
 
-**4.34.4 CONSUMER INFORMATION.** To ensure that the existence of adaptable features will be known to the owner or occupant of a dwelling, the following consumer information shall be provided in each adaptable dwelling unit available for occupancy:
+The specifications for 4.34.5 and 4.34.6 include the concept of adaptability. Accessible dwelling units may be designed for either permanent accessibility or adaptability.
+
+#### 4.34.4 CONSUMER INFORMATION
+
+To ensure that the existence of adaptable features will be known to the owner or occupant of a dwelling, the following consumer information shall be provided in each adaptable dwelling unit available for occupancy:
 
 (1) Notification of the alternate heights available for the kitchen counter and sink, and the existence of removable cabinets and bases, if provided, under counters, sinks, and lavatories.
 
@@ -2051,11 +2477,15 @@ In addition, the parties who will be responsible for making adaptations shall be
 
 (5) Instructions for installing a visual emergency alarm system, if the dwelling unit is equipped for such an installation.
 
-**4.34.5* BATHROOMS.** Accessible or adaptable bathrooms shall be on an accessible route and shall comply with the requirements of 4.34.5.
+#### 4.34.5* BATHROOMS
 
-**4.34.5.1 DOORS.** Doors shall not swing into the clear floor space required for any fixture.
+Accessible or adaptable bathrooms shall be on an accessible route and shall comply with the requirements of 4.34.5.
 
-**4.34.5.2 WATER CLOSETS.**
+##### 4.34.5.1 DOORS
+
+Doors shall not swing into the clear floor space required for any fixture.
+
+##### 4.34.5.2 WATER CLOSETS
 
 (1) Clear floor space at the water closet shall be as shown in Fig. 47(a). The water closet may be located with the clear area at either the right or left side of the toilet.
 
@@ -2077,7 +2507,7 @@ Reinforced Areas for Installation of Grab Bars**
 
 Note: The hatched areas are reinforced to receive grab bars.
 
-**4.34.5.3 LAVATORY, MIRRORS, AND MEDICINE CABINETS.**
+##### 4.34.5.3 LAVATORY, MIRRORS, AND MEDICINE CABINETS
 
 (1) The lavatory and mirrors shall comply with 4.22.6.
 
@@ -2085,7 +2515,9 @@ Note: The hatched areas are reinforced to receive grab bars.
 
 (3) If a medicine cabinet is provided above the lavatory, then the bottom of the medicine cabinet shall be located with a usable shelf no higher than 44 in (1120 mm) above the floor.
 
-**4.34.5.4 BATHTUBS.** If a bathtub is provided, then it shall have the following features:
+##### 4.34.5.4 BATHTUBS
+
+If a bathtub is provided, then it shall have the following features:
 
 (1) Floor space. Clear floor space at bathtubs shall be as shown in Fig. 33.
 
@@ -2111,7 +2543,9 @@ Note: The hatched areas are reinforced to receive grab bars.
 
 (5) Shower unit. A shower spray unit with a hose at least 60 in (1525 mm) long that can be used as a fixed shower head or as a hand-held shower shall be provided.
 
-**4.34.5.5 SHOWERS.** If a shower is provided, it shall have the following features:
+##### 4.34.5.5 SHOWERS
+
+If a shower is provided, it shall have the following features:
 
 (1) Size and clearances. Shower stall size and clear floor space shall comply with either Fig. 35(a) or (b). The shower stall in Fig. 35(a) shall be 36 in by 36 in (915 mm by 915 mm). The shower stall in Fig. 35(b) will fit into the same space as a standard 60 in (1525 mm) long bathtub.
 
@@ -2135,19 +2569,33 @@ of Adaptable Showers - 30-in by 60-in Stall**
 
 (5) Shower unit. A shower spray unit with a hose at least 60 in (1525 mm) long that can be used as a fixed shower head at various heights or as a hand-held shower shall be provided.
 
-**4.34.5.6 BATHTUB AND SHOWER ENCLOSURES.** Enclosures for bathtubs or shower stalls shall not obstruct controls or transfer from wheelchairs onto shower or bathtub seats. Enclosures on bathtubs shall not have tracks mounted on their rims.
+##### 4.34.5.6 BATHTUB AND SHOWER ENCLOSURES
 
-**4.34.5.7 CLEAR FLOOR SPACE.** Clear floor space at fixtures may overlap.
+Enclosures for bathtubs or shower stalls shall not obstruct controls or transfer from wheelchairs onto shower or bathtub seats. Enclosures on bathtubs shall not have tracks mounted on their rims.
 
-**4.34.6 KITCHENS. **Accessible or adaptable kitchens and their components shall be on an accessible route and shall comply with the requirements of 4.34.6.
+##### 4.34.5.7 CLEAR FLOOR SPACE
 
-**4.34.6.1* CLEARANCE**. Clearances between all opposing base cabinets, counter tops, appliances, or walls shall be 40 in (1015 mm) minimum, except in U-shaped kitchens, where such clearance shall be 60 in (1525 mm) minimum.
+Clear floor space at fixtures may overlap.
 
-**4.34.6.2 CLEAR FLOOR SPACE.** A clear floor space at least 30 in by 48 in (760 mm by 1220 mm) complying with 4.2.4 that allows either a forward or a parallel approach by a person in a wheelchair shall be provided at all appliances in the kitchen, including the range or cooktop, oven, refrigerator/freezer, dishwasher, and trash compactor. Laundry equipment located in the kitchen shall comply with 4.34.7.
+#### 4.34.6 KITCHENS
 
-**4.34.6.3 CONTROLS. **All controls in kitchens shall comply with 4.27.
+Accessible or adaptable kitchens and their components shall be on an accessible route and shall comply with the requirements of 4.34.6.
 
-**4.34.6.4 WORK SURFACES. **At least one 30 in (760 mm) section of counter shall provide a work surface that complies with the following requirements (see Fig. 50):
+##### 4.34.6.1* CLEARANCE
+
+Clearances between all opposing base cabinets, counter tops, appliances, or walls shall be 40 in (1015 mm) minimum, except in U-shaped kitchens, where such clearance shall be 60 in (1525 mm) minimum.
+
+##### 4.34.6.2 CLEAR FLOOR SPACE
+
+A clear floor space at least 30 in by 48 in (760 mm by 1220 mm) complying with 4.2.4 that allows either a forward or a parallel approach by a person in a wheelchair shall be provided at all appliances in the kitchen, including the range or cooktop, oven, refrigerator/freezer, dishwasher, and trash compactor. Laundry equipment located in the kitchen shall comply with 4.34.7.
+
+##### 4.34.6.3 CONTROLS
+
+All controls in kitchens shall comply with 4.27.
+
+##### 4.34.6.4 WORK SURFACES
+
+At least one 30 in (760 mm) section of counter shall provide a work surface that complies with the following requirements (see Fig. 50):
 
 (1) The counter shall be mounted at a maximum height of 34 in (865 mm) above the floor, measured from the floor to the top of the counter surface, or shall be adjustable or replaceable as a unit to provide alternative heights of 28 in, 32 in, and 36 in (710 mm, 815 mm, and 915 mm), measured from the top of the counter surface.
 
@@ -2164,7 +2612,9 @@ of Adaptable Showers - 30-in by 60-in Stall**
 **Figure 50\
 Counter Work Surface**
 
-**4.34.6.5* SINK.** The sink and surrounding counter shall comply with the following requirements (see Fig. 51):
+##### 4.34.6.5* SINK
+
+The sink and surrounding counter shall comply with the following requirements (see Fig. 51):
 
 (1) The sink and surrounding counter shall be mounted at a maximum height of 34 in (865 mm) above the floor, measured from the floor to the top of the counter surface, or shall be adjustable or replaceable as a unit to provide alternative heights of 28 in, 32 in, and 36 in (710 mm, 815 mm, and 915 mm), measured from the floor to the top of the counter surface or sink rim. The total width of sink and counter area shall be 30 in (760 mm).
 
@@ -2182,21 +2632,27 @@ Counter Work Surface**
 
 (8) There shall be no sharp or abrasive surfaces under sinks. Hot water and drain pipes under sinks shall be insulated or otherwise covered.
 
-[![Kitchen Sink](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig51.gif)](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/ufas#intro)
+[![Kitchen Sink](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig51.gif)](#intro)
 
 **Figure 51\
 Kitchen Sink**
 
-**4.34.6.6* RANGES AND COOKTOPS.** Ranges and cooktops shall comply with 4.34.6.2 and 4.34.6.3. If ovens or cooktops have knee spaces underneath, then they shall be insulated or otherwise protected on the exposed contact surfaces to prevent burns, abrasions, or electrical shock. The clear floor space may overlap the knee space, if provided, by 19 in (485 mm) maximum. The location of controls for ranges and cook-tops shall not require reaching across burners.
+##### 4.34.6.6* RANGES AND COOKTOPS
 
-**4.34.6.7* OVENS.** Ovens shall comply with 4.34.6.2 and 4.34.6.3. Ovens shall be of the self-cleaning type or be located adjacent to an adjustable height counter with knee space below (see Fig. 52). For side-opening ovens, the door latch side shall be next to the open counter space, and there shall be a pull-out shelf under the oven extending the full width of the oven and pulling out not less than 10 in (255 mm) when fully extended. Ovens shall have controls on front panels; they may be located on either side of the door.
+Ranges and cooktops shall comply with 4.34.6.2 and 4.34.6.3. If ovens or cooktops have knee spaces underneath, then they shall be insulated or otherwise protected on the exposed contact surfaces to prevent burns, abrasions, or electrical shock. The clear floor space may overlap the knee space, if provided, by 19 in (485 mm) maximum. The location of controls for ranges and cook-tops shall not require reaching across burners.
+
+##### 4.34.6.7* OVENS
+
+Ovens shall comply with 4.34.6.2 and 4.34.6.3. Ovens shall be of the self-cleaning type or be located adjacent to an adjustable height counter with knee space below (see Fig. 52). For side-opening ovens, the door latch side shall be next to the open counter space, and there shall be a pull-out shelf under the oven extending the full width of the oven and pulling out not less than 10 in (255 mm) when fully extended. Ovens shall have controls on front panels; they may be located on either side of the door.
 
 **![Ovens without Self-Cleaning Feature](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig52.gif)**
 
 **Figure 52\
 Ovens without Self-Cleaning Feature**
 
-**4.34.6.8* REFRIGERATOR/FREEZER.** Refrigerator/freezers shall comply with 4.34.6.3. Provision shall be made for refrigerators which are:
+##### 4.34.6.8* REFRIGERATOR/FREEZER
+
+Refrigerator/freezers shall comply with 4.34.6.3. Provision shall be made for refrigerators which are:
 
 (1) Of the vertical side-by-side refrigerator/freezer type; or
 
@@ -2208,49 +2664,75 @@ Ovens without Self-Cleaning Feature**
 
 Freezers with less than 100 percent of the storage volume within the limits specified in 4.2.5 or 4.2.6 shall be the self-defrosting type.
 
-**4.34.6.9 DISHWASHERS.** Dishwashers shall comply with 4.34.6.2 and 4.34.6.3. Dishwashers shall have all rack space accessible from the front of the machine for loading and unloading dishes.
+##### 4.34.6.9 DISHWASHERS
 
-**4.34.6.10* KITCHEN STORAGE. **Cabinets, drawers, and shelf areas shall comply with 4.25 and shall have the following features:
+Dishwashers shall comply with 4.34.6.2 and 4.34.6.3. Dishwashers shall have all rack space accessible from the front of the machine for loading and unloading dishes.
+
+##### 4.34.6.10* KITCHEN STORAGE
+
+Cabinets, drawers, and shelf areas shall comply with 4.25 and shall have the following features:
 
 (1) Maximum height shall be 48 in (1220 mm) for at least one shelf of all cabinets and storage shelves mounted above work counters (see Fig. 50).
 
 (2) Door pulls or handles for wall cabinets shall be mounted as close to the bottom of cabinet doors as possible. Door pulls or handles for base cabinets shall be mounted as close to the top of cabinet doors as possible.
 
-**4.34.7 LAUNDRY FACILITIES.** If laundry equipment is provided within individual accessible dwelling units, or if separate laundry facilities serve one or more accessible dwelling units, then they shall meet the requirements of 4.34.7.1 through 4.34.7.3.
+#### 4.34.7 LAUNDRY FACILITIES
 
-**4.34.7.1 LOCATION.** Laundry facilities and laundry equipment shall be on an accessible route.
+If laundry equipment is provided within individual accessible dwelling units, or if separate laundry facilities serve one or more accessible dwelling units, then they shall meet the requirements of 4.34.7.1 through 4.34.7.3.
 
-**4.34.7.2 WASHING MACHINES AND CLOTHES DRYERS.** Washing machines and clothes dryers in common use laundry rooms shall be front loading.
+##### 4.34.7.1 LOCATION
 
-**4.34.7.3 CONTROLS.** Laundry equipment shall comply with 4.27.
+Laundry facilities and laundry equipment shall be on an accessible route.
 
-**5\. RESTAURANTS AND CAFETERIAS.**
+##### 4.34.7.2 WASHING MACHINES AND CLOTHES DRYERS
 
-**5.1 GENERAL.** In addition to the requirements of 4.1 to 4.33, the design of at least 5 percent of all fixed seating or tables in a restaurant or cafeteria shall comply with 4.32. Access aisles between tables shall comply with 4.3. Where practical, accessible tables should be distributed throughout the space or facility. In restaurants or cafeterias where there are mezzanine levels, loggias, or raised platforms, accessibility to all such spaces is not required providing that the same services and decorative character are provided in spaces located on accessible routes.
+Washing machines and clothes dryers in common use laundry rooms shall be front loading.
 
-**5.2 FOOD SERVICE LINES. **Food service lines shall have a minimum clear width of 36 in (915 mm), with a preferred clear width of 42 in (1065 mm) where passage of stopped wheelchairs by pedestrians is desired. Tray slides shall be mounted no higher than 34 in (865 mm) above the floor. If self-service shelves are provided, a reasonable portion must be within the ranges shown in Fig. 53.
+##### 4.34.7.3 CONTROLS
+
+Laundry equipment shall comply with 4.27.
+
+## 5. RESTAURANTS AND CAFETERIAS
+
+### 5.1 GENERAL
+
+In addition to the requirements of 4.1 to 4.33, the design of at least 5 percent of all fixed seating or tables in a restaurant or cafeteria shall comply with 4.32. Access aisles between tables shall comply with 4.3. Where practical, accessible tables should be distributed throughout the space or facility. In restaurants or cafeterias where there are mezzanine levels, loggias, or raised platforms, accessibility to all such spaces is not required providing that the same services and decorative character are provided in spaces located on accessible routes.
+
+### 5.2 FOOD SERVICE LINES
+
+Food service lines shall have a minimum clear width of 36 in (915 mm), with a preferred clear width of 42 in (1065 mm) where passage of stopped wheelchairs by pedestrians is desired. Tray slides shall be mounted no higher than 34 in (865 mm) above the floor. If self-service shelves are provided, a reasonable portion must be within the ranges shown in Fig. 53.
 
 **![Food Service Lines](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig53.gif)**
 
 **Figure 53\
 Food Service Lines**
 
-**5.3 TABLEWARE AREAS. **Install tableware, dishware, condiment, food and beverage display shelves, and dispensing devices in compliance with 4.2 (see Fig. 54).
+### 5.3 TABLEWARE AREAS
+
+Install tableware, dishware, condiment, food and beverage display shelves, and dispensing devices in compliance with 4.2 (see Fig. 54).
 
 ![Tableware Areas](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig54.gif)
 
 **Figure 54\
 Tableware Areas**
 
-**5.4 VENDING MACHINES.** Install vending machines in compliance with 4.27.
+### 5.4 VENDING MACHINES
 
-**6\. HEALTH CARE.**
+Install vending machines in compliance with 4.27.
 
-**6.1 GENERAL.** In addition to the requirements of 4.1 to 4.33, Health Care buildings and facilities shall comply with 6.
+## 6. HEALTH CARE
 
-**6.2 ENTRANCES. **At least one accessible entrance that complies with 4.14 shall be protected from the weather by canopy or roof overhang. Such entrances shall incorporate a passenger loading zone that complies with 4.6.5 (see 4.13.6).
+### 6.1 GENERAL
 
-**6.3 PATIENT BEDROOMS.** Provide accessible patient bedrooms in compliance with 4. Accessible patient bedrooms shall comply with the following:
+In addition to the requirements of 4.1 to 4.33, Health Care buildings and facilities shall comply with 6.
+
+### 6.2 ENTRANCES
+
+At least one accessible entrance that complies with 4.14 shall be protected from the weather by canopy or roof overhang. Such entrances shall incorporate a passenger loading zone that complies with 4.6.5 (see 4.13.6).
+
+### 6.3 PATIENT BEDROOMS
+
+Provide accessible patient bedrooms in compliance with 4. Accessible patient bedrooms shall comply with the following:
 
 (1) Each bedroom shall have a turning space that complies with 4.2.3, and preferably that is located near the entrance.
 
@@ -2262,59 +2744,93 @@ Tableware Areas**
 
 (5) Each bedroom shall have a door that complies with 4.13.
 
-**6.4 PATIENT TOILET ROOMS.** Provide each patient bedroom that is required to be accessible with an accessible toilet room that complies with 4.22 or 4.23.
+### 6.4 PATIENT TOILET ROOMS
 
-**7\. MERCANTILE.**
+Provide each patient bedroom that is required to be accessible with an accessible toilet room that complies with 4.22 or 4.23.
 
-**7.1 GENERAL. **In addition to the requirements of 4.1 to 4.33, the design of all areas used for business transactions with the public shall comply with 7.
+## 7. MERCANTILE
 
-**7.2 SERVICE COUNTERS.** Where service counters exceeding 36 in (915 mm) in height are provided for standing sales or distribution of goods to the public, an auxiliary counter or a portion of the main counter shall be provided with a maximum height of between 28 in to 34 in (710 mm to 865 mm) above the floor in compliance with 4.32.4.
+### 7.1 GENERAL
 
-**7.3 CHECK-OUT AISLES.** At least one accessible check-out aisle shall be provided in buildings or facilities with check-out aisles. Clear aisle width shall comply with 4.2.1 and maximum adjoining counter height shall not exceed 36 in (915 mm) above the floor.
+In addition to the requirements of 4.1 to 4.33, the design of all areas used for business transactions with the public shall comply with 7.
 
-**7.4 SECURITY BOLLARDS. **Any device used to prevent the removal of shopping carts from store premises shall not prevent access or egress to those in wheelchairs. An alternate entry that is equally convenient to that provided for the ambulatory population is acceptable.
+### 7.2 SERVICE COUNTERS
 
-**8\. LIBRARIES.**
+Where service counters exceeding 36 in (915 mm) in height are provided for standing sales or distribution of goods to the public, an auxiliary counter or a portion of the main counter shall be provided with a maximum height of between 28 in to 34 in (710 mm to 865 mm) above the floor in compliance with 4.32.4.
 
-**8.1 GENERAL. **In addition to the requirements of 4.1 to 4.33, the design of all public areas of a library shall comply with 8, including reading and study areas, stacks, reference rooms, reserve areas, and special facilities or collections. As provided, elements such as public toilet rooms, telephones, and parking shall be accessible.
+### 7.3 CHECK-OUT AISLES
 
-**8.2 READING AND STUDY AREAS**. At least 5 percent or a minimum of one of each element of fixed seating, tables, or study carrels shall comply with 4.2 and 4.32. Clearances between fixed accessible tables and study carrels shall comply with 4.3.
+At least one accessible check-out aisle shall be provided in buildings or facilities with check-out aisles. Clear aisle width shall comply with 4.2.1 and maximum adjoining counter height shall not exceed 36 in (915 mm) above the floor.
 
-**8.3 CHECK-OUT AREAS.** At least one lane at each check-out area shall comply with 4.32. Any traffic control or book security gates or turnstiles shall comply with 4.13.
+### 7.4 SECURITY BOLLARDS
 
-**8.4 CARD CATALOGS.** Minimum clear aisle space at card catalogs, magazine displays, or reference stacks shall comply with Fig. 55. Maximum reach height shall comply with 4.2, with a height of 48 in (1370 mm) preferred, irrespective of reach allowed.
+Any device used to prevent the removal of shopping carts from store premises shall not prevent access or egress to those in wheelchairs. An alternate entry that is equally convenient to that provided for the ambulatory population is acceptable.
+
+## 8. LIBRARIES
+
+### 8.1 GENERAL
+
+In addition to the requirements of 4.1 to 4.33, the design of all public areas of a library shall comply with 8, including reading and study areas, stacks, reference rooms, reserve areas, and special facilities or collections. As provided, elements such as public toilet rooms, telephones, and parking shall be accessible.
+
+### 8.2 READING AND STUDY AREAS
+
+At least 5 percent or a minimum of one of each element of fixed seating, tables, or study carrels shall comply with 4.2 and 4.32. Clearances between fixed accessible tables and study carrels shall comply with 4.3.
+
+### 8.3 CHECK-OUT AREAS
+
+At least one lane at each check-out area shall comply with 4.32. Any traffic control or book security gates or turnstiles shall comply with 4.13.
+
+### 8.4 CARD CATALOGS
+
+Minimum clear aisle space at card catalogs, magazine displays, or reference stacks shall comply with Fig. 55. Maximum reach height shall comply with 4.2, with a height of 48 in (1370 mm) preferred, irrespective of reach allowed.
 
 **![Card Catalog](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig55.gif)**
 
 **Figure 55\
 Card Catalog**
 
-**8.5 STACKS.** Minimum clear aisle width between stacks shall comply with 4.3, with a minimum clear aisle width of 42 in (1065 mm) preferred where possible. Shelf height in stack areas is unrestricted (see Fig. 56).
+### 8.5 STACKS
+
+Minimum clear aisle width between stacks shall comply with 4.3, with a minimum clear aisle width of 42 in (1065 mm) preferred where possible. Shelf height in stack areas is unrestricted (see Fig. 56).
 
 ![Stacks](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig56.gif)
 
 **Figure 56\
-Stacks** **9\. POSTAL FACILITIES.**
+Stacks**
 
-**9.1 GENERAL.** In addition to the requirements of 4.1 to 4.33, the design of U.S. postal facilities shall comply with the requirements of 9. In addition, employee toilet rooms, water fountains, lunchrooms, lounges, attendance-recording equipment, medical treatment rooms, emergency signals, and switches and controls shall be made accessible or adaptable in accordance with the requirements of these standards.
+## 9. POSTAL FACILITIES
 
-**9.2* POST OFFICE LOBBIES.** Where writing desks or tables are provided, a minimum of at least one writing desk or table that complies with 4.32 must be provided. Clear passageways in front of customer service counters shall be not less than 48 in (1220 mm) clear width to permit maneuvering of a wheelchair. Letter drops shall be mounted at heights that comply with 4.2.
+### 9.1 GENERAL
+
+In addition to the requirements of 4.1 to 4.33, the design of U.S. postal facilities shall comply with the requirements of 9. In addition, employee toilet rooms, water fountains, lunchrooms, lounges, attendance-recording equipment, medical treatment rooms, emergency signals, and switches and controls shall be made accessible or adaptable in accordance with the requirements of these standards.
+
+### 9.2* POST OFFICE LOBBIES
+
+Where writing desks or tables are provided, a minimum of at least one writing desk or table that complies with 4.32 must be provided. Clear passageways in front of customer service counters shall be not less than 48 in (1220 mm) clear width to permit maneuvering of a wheelchair. Letter drops shall be mounted at heights that comply with 4.2.
 
 (1) All fixed partitions must be installed to withstand a 250-pound force applied at any point and from any direction. Avoid designs that call for, or may necessitate, non-fixed partitions in circulation routes of handicapped people.
 
 (2) Walls where handrails are provided for handicapped people must be capable of supporting handrails designed to support a 250-pound pull force in any direction.
 
-**9.3 SELF-SERVICE POSTAL CENTER. **Parcel post depositories, stamp vending machines, multi-commodity vending machines, and currency-coin changing machines shall be installed so that the operating mechanisms of all machines comply with 4.2 and 4.27. All mechanisms must be installed to permit close parallel approach by a wheelchair user.
+### 9.3 SELF-SERVICE POSTAL CENTER
 
-**9.4 POST OFFICE BOXES.** At least 5 percent of the post office boxes in a facility shall be accessible to wheelchair users. The total number of accessible post office boxes provided shall include a representative number of each of the standard USPS boxes currently being installed. Accessible post office boxes shall be located in the second or third set of modules from the floor, approximately 12 in to 36 in (305 mm to 915 mm) above the finished floor. Aisles between post office boxes shall be a minimum of 66 in (1675 mm) clear width.
+Parcel post depositories, stamp vending machines, multi-commodity vending machines, and currency-coin changing machines shall be installed so that the operating mechanisms of all machines comply with 4.2 and 4.27. All mechanisms must be installed to permit close parallel approach by a wheelchair user.
 
-**9.5 LOCKER ROOMS.** Lockers in easily accessible areas must be provided for use by handicapped people. When double-tier lockers are used, only the bottom row of lockers may be assigned for use by wheelchair users. When full length lockers are used all hooks, shelves, etc., intended for use by people in wheelchairs shall be located no higher than 48 in (1220 mm) above the finished floor. Lockers intended for use by handicapped people shall be equipped with latches and latch handles that comply with 4.27. Unobstructed aisle space in front of lockers used by handicapped people shall be a minimum of 42 in (1065 mm) clear width.
+### 9.4 POST OFFICE BOXES
 
-**9.6 ATTENDANCE-RECORDING EQUIPMENT.** Time clocks, card racks, log books, and other work assignment or attendance-recording equipment used by people in wheelchairs must be installed at a height no more than 48 in (1220 mm) above the finished floor. Counter space at check-in areas must be no more than 36 in (915 mm) above the finished floor.
+At least 5 percent of the post office boxes in a facility shall be accessible to wheelchair users. The total number of accessible post office boxes provided shall include a representative number of each of the standard USPS boxes currently being installed. Accessible post office boxes shall be located in the second or third set of modules from the floor, approximately 12 in to 36 in (305 mm to 915 mm) above the finished floor. Aisles between post office boxes shall be a minimum of 66 in (1675 mm) clear width.
+
+### 9.5 LOCKER ROOMS
+
+Lockers in easily accessible areas must be provided for use by handicapped people. When double-tier lockers are used, only the bottom row of lockers may be assigned for use by wheelchair users. When full length lockers are used all hooks, shelves, etc., intended for use by people in wheelchairs shall be located no higher than 48 in (1220 mm) above the finished floor. Lockers intended for use by handicapped people shall be equipped with latches and latch handles that comply with 4.27. Unobstructed aisle space in front of lockers used by handicapped people shall be a minimum of 42 in (1065 mm) clear width.
+
+### 9.6 ATTENDANCE-RECORDING EQUIPMENT
+
+Time clocks, card racks, log books, and other work assignment or attendance-recording equipment used by people in wheelchairs must be installed at a height no more than 48 in (1220 mm) above the finished floor. Counter space at check-in areas must be no more than 36 in (915 mm) above the finished floor.
 
 * * * * *
 
-### APPENDIX
+## APPENDIX
 
 This appendix contains additional information that should help the designer to understand the minimum requirements of the standard or to design buildings or facilities for greater accessibility. The paragraph numbers correspond to the sections or paragraphs of the standard to which the material relates and are therefore not consecutive (for example, A4.2.1 contains additional information relevant to 4.2.1). Sections for which additional material appears in this appendix have been indicated by an asterisk.
 
@@ -2548,25 +3064,21 @@ Table A1 shows convenient work surface heights for seated persons. The great var
 **Table A1 -- Convenient Heights of Work Surfaces for Seated People***
 
 | Conditions of Use | Short Women |   | Tall Men |   |
+| --- | --- | --- | --- | --- |
 |   | in | mm | in | mm |
-| Seated in a wheelchair:Manual work:\
-Desk or removable armrests | 26 | 660 | 30 | 760 |
+| Seated in a wheelchair:Manual work:<br>Desk or removable armrests | 26 | 660 | 30 | 760 |
 | Fixed, full-size armrests** | 32*** | 815 | 32*** | 815 |
-| Light, detailed work:\
-Desk or removable armrests | 29 | 735 | 34 | 865 |
+| Light, detailed work:<br>Desk or removable armrests | 29 | 735 | 34 | 865 |
 | Fixed, full-size armrests** | 32*** | 815 | 34 | 865 |
-| Seated in a 16-in (405-mm)
-
--high chair:
-
-Manual work | 26 | 660 | 27 | 685 |
+| Seated in a 16-in (405-mm)<br>-high chair:<br>Manual work | 26 | 660 | 27 | 685 |
 | Light, detailed work | 28 | 710 | 31 | 785 |
+{: .usa-table}
 
-##### * All dimensions are based on a work-surface thickness of 1-1/2 in (38 mm) and a clearance of 1-1/2 in (38 mm) between legs and the underside of a work surface.
+* All dimensions are based on a work-surface thickness of 1-1/2 in (38 mm) and a clearance of 1-1/2 in (38 mm) between legs and the underside of a work surface.
 
-##### ** This type of wheelchair arm does not interfere with the positioning of a wheelchair under a work surface.
+** This type of wheelchair arm does not interfere with the positioning of a wheelchair under a work surface.
 
-##### *** This dimension is limited by the height of the armrests: a lower height would be preferable. Some people in this group prefer lower work surfaces, which require positioning the wheelchair back from the edge of the counter.
+*** This dimension is limited by the height of the armrests: a lower height would be preferable. Some people in this group prefer lower work surfaces, which require positioning the wheelchair back from the edge of the counter.
 
 **A4.33.7 TYPES OF LISTENING SYSTEMS.** A listening system that can be used from any seat in a seating area is the most flexible way to meet this specification. Earphone jacks with variable volume controls can benefit only people who have slight hearing losses and do not help people with hearing aids. At the present time, audio loops are the most feasible type of listening system for people who use hearing aids, but people without hearing aids or those with hearing aids not equipped with inductive pickups cannot use them. Loops can be portable and moved to various locations within a room. Moreover, for little cost, they can serve a large area within a seating area. Radio frequency systems can be extremely effective and inexpensive. People without hearing aids can use them, but people with hearing aids need custom-designed equipment to use them as they are presently designed. If hearing aids had a jack to allow a by-pass of microphones, then radio frequency systems would be suitable for people with and without hearing aids. Some listening systems may be subject to interference from other equipment and feedback from hearing aids of people who are using the systems. Such interference can be controlled by careful engineering design that anticipates feedback and sources of interference in the surrounding area.
 
