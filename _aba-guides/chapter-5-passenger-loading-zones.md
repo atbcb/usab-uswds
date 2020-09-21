@@ -1,7 +1,7 @@
 ---
 title: "Chapter 5: Passenger Loading Zones"
 order-number: 14
-file: pl-ABA.pdf
+file: plz-ABA.pdf
 file-description: PDF version of Chapter 5 Passenger Loading Zones Guide
 ---
 This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for passenger loading zones.
