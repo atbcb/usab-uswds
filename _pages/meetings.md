@@ -7,7 +7,7 @@ permalink: /about/meetings.html
 
 # {{ page.title }}
 
-[photo of laptop with meeting on screen]({{ site.baseur }}/images/webcast.jpg){: .img-right}
+![photo of laptop with meeting on screen]({{ site.baseurl }}/images/webcast.jpg){: .img-right}
 
 Members of the Access Board meet every two months, and these meetings are primarily open to the public. 
 The meetings typically span three days, with the first two days usually dedicated to committee meetings and presentations and the afternoon of the third day devoted to the agenda of the full Board. 
