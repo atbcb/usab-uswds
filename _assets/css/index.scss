@@ -18,6 +18,13 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 @import "components/sticky";
 @import "components/table-of-contents-subnav";
 
+// Set fonts
+h4 { // default was sm
+  @include u-font('sans', 'md')
+}
+h5, h6 { // default was xs and 2xs
+  @include u-font('sans', 'sm')
+}
 
 // Add your SASS/CSS here
 // Page header USAB logo override
@@ -70,7 +77,6 @@ li.usa-nav__secondary-item a {
 .bold, dt {
   font-weight: bold;
 }
-
 .center {
   display: block;
   margin-left: auto;
@@ -82,45 +88,37 @@ li.usa-nav__secondary-item a {
   display: block;
   padding: 15px;
 }
-
 .img-left {
   float: left;
   display: block;
   padding: 15px;
 }
-
 .img-medium {
   padding: 10px;
-  width: 40%; 
+  width: 40%;
 }
-
 .img-center {
   margin-left: auto;
   margin-right: auto;
   display: block;
 }
-
 .img-grid {
   margin-left: auto;
   margin-right: auto;
-  width: 50%; 
+  width: 50%;
   display: block;
 }
-
 .img-grid-left {
   margin-left: auto;
   margin-right: auto;
-  width: 40%; 
+  width: 40%;
   display: block;
   padding-top: 20px;
-  
 }
-
 .grid-line {
   display: block;
   text-align: center;
 }
-
 .grid-line-left {
   display: block;
   text-align: left;
@@ -132,13 +130,13 @@ li.usa-nav__secondary-item a {
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
-  width: 80%; 
+  width: 80%;
   display: block;
 }
 
 .img-large-caption {
-  margin: auto; 
-  text-align: center; 
+  margin: auto;
+  text-align: center;
   width: 85%;
   font-size: 90%;
   font-style: italic;
@@ -148,7 +146,7 @@ li.usa-nav__secondary-item a {
   padding: 10px;
   margin-left: auto;
   margin-right: auto;
-  width: 100%; 
+  width: 100%;
   display: block;
 }
 
@@ -177,7 +175,6 @@ li.usa-nav__secondary-item a {
 .align-bottom {
   vertical-align: text-bottom;
 }
-
 .align-top {
   vertical-align: text-top;
 }
@@ -185,7 +182,6 @@ li.usa-nav__secondary-item a {
 .clear {
   clear: both;
 }
-
 .clearfix {
   overflow: auto;
 }
@@ -206,10 +202,19 @@ li.usa-nav__secondary-item a {
 //add shading to even rows in data tables
 table.data tr:nth-child(even) {background-color: #f2f2f2;}
 
+//layout tables used in ict preamble
+table.layouttable {
+  border-collapse: collapse;
+}
+
+table.layouttable, table.layouttable tr {
+  border: 1px solid black;
+}
+
 //doesn't seem to work; added style to include figure-caption.html
 figcaption {
   font-weight: bold;
-  text-align: center; 
+  text-align: center;
 }
 
 a.usa-current::after {
@@ -247,8 +252,7 @@ a.usa-current::after {
     display: block;
   }
 }
-}
-
+} // extra closing brace ???
 
 .card-header {
   @extend .usa-card__header;
@@ -256,14 +260,12 @@ a.usa-current::after {
   @include u-bg('secondary-vivid');
   @include u-text('white');
   padding: 1rem;
-
 }
 
 .gray-to-color {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
-
 .gray-to-color:hover {
   -webkit-filter: none;
   filter: none;
@@ -281,11 +283,9 @@ a.usa-current::after {
   @include u-text('primary');
   @include u-margin-bottom(0);
 }
-
 .card-text {
   @include u-font('serif', '3xs');
   @include u-text('center');
   @include u-text('primary-darker');
   @include u-margin-bottom(0);
 }
-

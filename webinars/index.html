@@ -69,10 +69,9 @@ pagination:
           </div>
           <div class="clearfix">
             {% if webinar.image %}
-              <img src="{{ site.baseurl }}{{ webinar.image }}"
-              class="img-right maxw-card-lg" alt="{{ webinar.image_alt_text }}">
-            {% endif %}
-            {{ webinar.excerpt }}
+              <img src="{{ webinar.image }}" alt="{{ webinar.image_alt_text }}" class="img-right maxw-card-lg">
+            {% endif %} {{
+            webinar.excerpt }}
           </div>
         </div>
         {% endif %}
