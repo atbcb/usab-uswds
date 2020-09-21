@@ -272,8 +272,9 @@ An accessible site shall meet the following minimum requirements:
 | 501 to 1000 | * |
 | 1001 and over | ** |{: .usa-table}
 
-\* 2 percent of total.
-\** 20 plus 1 for each 100 over 1000.
+* 2 percent of total.
+
+** 20 plus 1 for each 100 over 1000.
 
 *EXCEPTION:* The total number of accessible parking spaces may be distributed among parking lots, if greater accessibility is achieved.
 
@@ -371,8 +372,7 @@ Accessible buildings and facilities shall meet the following minimum requirement
 | --- | --- |
 | 1 or more single unit installations | 1 per floor |
 | 1 bank** | 1 per floor |
-| 2 or more banks** | 1 per bank.<br><br>Accessible unit may be installed as a single unit in proximity (either visible or with signage) to the bank. At least one public telephone per floor shall meet the requirements for a forward reach telephone.*** |
-{: .usa-table}
+| 2 or more banks** | 1 per bank.<br><br>Accessible unit may be installed as a single unit in proximity (either visible or with signage) to the bank. At least one public telephone per floor shall meet the requirements for a forward reach telephone.*** |{: .usa-table}
 
 * Additional public telephones may be installed at any height. Unless otherwise specified, accessible telephones may be either forward or side reach telephones.
 
@@ -397,8 +397,7 @@ Accessible buildings and facilities shall meet the following minimum requirement
 | 301 to 400 | 8 |
 | 401 to 500 | 9 |
 | 501 to 1,000 | * |
-| over 1,000 | ** |
-{: .usa-table}
+| over 1,000 | ** |{: .usa-table}
 
 * 2 percent of total
 
@@ -759,8 +758,7 @@ All public use, common use, or areas which may result in employment of physicall
 | Long Term Care Facilities: (including Skilled Nursing Facilities, Intermediate Care Facilities, Bed & Care, and Nursing Homes). | At least 50 percent of patient toilets and bedrooms; all public use, common use or areas which may result in employment of handicapped persons. |
 | Outpatient Facilities: | All patient toilets and bedrooms, all public use, common use, or areas which may result in employment of physically handicapped persons. |
 | Hospital*: General Purpose Hospital: | At least 10 percent of toilets and bedrooms, all public use, common use, or areas which may result in employment of physically handicapped persons. |
-| Special Purpose Hospital: (Hospitals that treat conditions that affect mobility). | All patient toilets bedrooms, all public use, common use, or areas which may result in employment of physically handicapped persons. |
-{: .usa-table}
+| Special Purpose Hospital: (Hospitals that treat conditions that affect mobility). | All patient toilets bedrooms, all public use, common use, or areas which may result in employment of physically handicapped persons. |{: .usa-table}
 
 *** See Part 6 for special applications.**
 
@@ -825,8 +823,7 @@ Boarding houses
 | Multifamily housing<br><br>(Apartment houses): |   |
 | Federally assisted | 5 percent of the total, or at least one unit, whichever is greater, in projects of 15 or more dwelling units, or as determined by the appropriate Federal agency following a local needs assessment conducted by local government bodies or states under applicable regulations. |
 | Federally owned | 5 percent of the total, or at least one unit, whichever is greater. |
-| Dormitories | 5 percent of the total or at least one unit, whichever is greater. |
-{: .usa-table}
+| Dormitories | 5 percent of the total or at least one unit, whichever is greater. |{: .usa-table}
 
 (c) Residential occupancies in one (1) and two (2) family dwellings where the occupancies are primarily permanent in nature and not classified as preceding residential categories or as institutional.
 
@@ -835,8 +832,7 @@ Boarding houses
 | One and two family dwelling: |   |
 | Federally assisted, rental | 5 percent of the total, or at least one unit, whichever is greater, in projects of 15 or more dwelling units, or as determined by the appropriate Federal agency following a local needs assessment conducted by local government bodies or states under applicable regulations. |
 | Federally assisted, homeownership | To be determined by home buyer. |
-| Federally owned | 5 percent of the total, or at least one unit, whichever is greater. |
-{: .usa-table}
+| Federally owned | 5 percent of the total, or at least one unit, whichever is greater. |{: .usa-table}
 
 **(12) STORAGE.** Storage occupancy includes, among others, the use of a building or structure, or portion thereof, for storage that is not classified as a Hazardous Occupancy.
 
@@ -987,8 +983,7 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 | **Slope*** | Maximum Rise | Maximum Run |
 | --- | --- | --- |
 | Steeper than 1:10 but no steeper than 1:8 | 3 in 75 mm | 2 ft 0.6 m |
-| Steeper than 1:12 but no steeper than 1:10 | 6 in 150 mm | 5 ft 1.5 m |
-{: .usa-table}
+| Steeper than 1:12 but no steeper than 1:10 | 6 in 150 mm | 5 ft 1.5 m |{: .usa-table}
 
 * A slope steeper than 1:8 not allowed.
 
@@ -3070,8 +3065,7 @@ Table A1 shows convenient work surface heights for seated persons. The great var
 | Light, detailed work:<br>Desk or removable armrests | 29 | 735 | 34 | 865 |
 | Fixed, full-size armrests** | 32*** | 815 | 34 | 865 |
 | Seated in a 16-in (405-mm)<br>-high chair:<br>Manual work | 26 | 660 | 27 | 685 |
-| Light, detailed work | 28 | 710 | 31 | 785 |
-{: .usa-table}
+| Light, detailed work | 28 | 710 | 31 | 785 |{: .usa-table}
 
 * All dimensions are based on a work-surface thickness of 1-1/2 in (38 mm) and a clearance of 1-1/2 in (38 mm) between legs and the underside of a work surface.
 
