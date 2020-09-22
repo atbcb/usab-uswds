@@ -43,12 +43,12 @@ Email:  <info@access-board.gov>
 ***Voice:***  **202-272-0080** or **800-872-2253**  
 ***tty:***  **202-272-0082** or **800-993-2822**
 
-| Executive Director's Office | &nbsp; | &nbsp; |
+|Executive Director's Office | &nbsp; | &nbsp; |
 | --- | --- | --- |
 | Gretchen Jacobs, Acting Executive Director | 202-272-0040 (v) | 202-272-0075 (tty) |
 | Rose Marie Bunales | 202-272-0006 (v) | 202-272-0057 (tty) |
 
-| Office of Administration | &nbsp; | &nbsp; |
+|Office of Administration | &nbsp; | &nbsp; |
 | --- | --- | --- |
 | Earlene Sesker, Director | 202-272-0022 (v) | 202-272-0091 (tty) |
 | Edson Carneiro | 202-272-0008 (v) | 202-272-0077 (tty) |
@@ -59,11 +59,11 @@ Email:  <info@access-board.gov>
 | Charles Washington | 202-272-0005 (v) | 202-272-0061 (tty) |
 | Jianhao Zhen | 202-272-0002 (v) | 202-272-0052 (tty) |
 
-| Public Affairs | &nbsp; | &nbsp; |
+|Public Affairs | &nbsp; | &nbsp; |
 | --- | --- | --- |
-| Dave Yanchulis | 202-272-0026 (v) | 202-272-0027 (tty) |
+|Phil Bratta | 202-272-0012 (v) | 202-272-0072 (tty) |
 
-| Technical and Information Services | &nbsp; | &nbsp; |
+|Technical and Information Services | &nbsp; | &nbsp; |
 | --- | --- | --- |
 | Dave Yanchulis, Director  | 202-272-0026 (v) | 202-272-0027 (tty) |
 | Bruce Bailey | 202-272-0024 (v) | 202-272-0070 (tty) |
@@ -78,7 +78,7 @@ Email:  <info@access-board.gov>
 | Bobby Stinnette | 202-272-0021 (v) | 202-272-0049 (tty) |
 | Scott Windley | 202-272-0025 (v) | 202-272-0028 (tty) |
 
-| Office of the General Counsel | &nbsp; | &nbsp; |
+|Office of the General Counsel | &nbsp; | &nbsp; |
 | --- | --- | --- |
 | Gretchen Jacobs, General Counsel | 202-272-0040 (v) | 202-272-0075 (tty) |
 | Mario Damiani | 202-272-0050 (v) | 202-272-0066 (tty) |
