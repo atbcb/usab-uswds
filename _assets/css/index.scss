@@ -28,16 +28,45 @@ h5, h6 { // default was xs and 2xs
 
 // Add your SASS/CSS here
 // Page header USAB logo override
+.star-logo {
+height: 100%;
+width: 100%;
+}
+
+.site-title {
+  font-weight: bold;
+  @include u-text("primary-darker");
+}
+
+.site-subtitle {
+  font-weight: bold;
+  font-style: italic;
+  @include u-text("secondary-darker");
+}
+
 @media screen and (max-width: 1024px) {
   .site-logo {
   max-height: 3rem;
   }
+  .star-logo-box {
+    max-height: 3rem;
+    max-width: 4rem;
+  }
+  .star-logo {
+    max-height: 3rem;
+  }
 }
 
-/* .usa-logo__text::before {
-  background-image: url(../images/usab-logo.svg);
-  background-repeat: no-repeat;
-} */
+
+@media screen and (min-width: 1024px) {
+  
+  .star-logo-box {
+    max-width: 6rem;
+  }
+  .site-subtitle {
+    @include u-font('sans', 'md')
+  }
+}
 
 @media (min-width: 30em) {
   .site-title-short {
@@ -51,6 +80,14 @@ h5, h6 { // default was xs and 2xs
     left: -999em;
   }
 }
+
+
+/* .usa-logo__text::before {
+  background-image: url(../images/usab-logo.svg);
+  background-repeat: no-repeat;
+} */
+
+
 
 
 
