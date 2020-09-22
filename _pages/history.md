@@ -52,7 +52,7 @@ Later amendments to the Rehabilitation Act of 1973 further stipulated that the B
 
 ## 1982 – Board Publishes Minimum Guidelines for Accessible Design
 
-<img src="../img/ufas-cover.jpg" alt="photo of cover from UFAS manual" align="right">
+![photo of cover from UFAS manual]({{ site.baseurl }}/images/ufas-cover.jpg){: .float-right }
 
 In 1982, the Board published accessibility guidelines for buildings and facilities subject to the ABA, the <q>Minimum Guidelines and Requirements for Accessible Design.</q>&nbsp;
 This was the first comprehensive set of accessibility requirements established by the federal government.&nbsp;
@@ -64,7 +64,7 @@ Later under the ADA, its continued use by state and local governments would be p
 
 ## 1990 – The Americans with Disabilities Act (ADA) Expands the Board’s Mission
 
-<img src="../img/ada-signing.jpg" alt="photo of President George H W Bush signing the ADA" align="right">
+![photo of President George H W Bush signing the ADA]({{ site.baseurl }}/images/ada-signing.jpg){: .float-right }
 
 On July 26, 1990, President George Bush signed into law the Americans with Disabilities Act, a comprehensive measure to protect the rights of people with disabilities.&nbsp;
 The ADA bans discrimination based on disability in the private sector and the state and local government sectors and requires access to programs and services, facilities, transportation, employment, and communication. 
@@ -78,7 +78,7 @@ This greatly expanded the Board’s mission, as its guidelines now addressed not
 
 ## 1991 – Board Publishes the ADA Accessibility Guidelines (ADAAG)
 
-<img src="../img/ada-aba-cover.jpg" alt="photo of cover from ADA-ABA Guidelines" align="right">
+![photo of cover from ADA-ABA Guidelines]({{ site.baseurl }}/images/ada-aba-cover.jpg){: .float-right }
 
 The Board published the ADA Accessibility Guidelines (ADAAG) on the first anniversary of the ADA, July 26, 1991.&nbsp;
 Like UFAS, ADAAG contains detailed design requirements for accessibility in new construction and alterations.&nbsp;
@@ -126,7 +126,7 @@ This resulted in a historic level of harmonization between the Board’s guideli
 
 ## 2010 – Board Addresses Access to Medical Diagnostic Equipment
 
-<img src="../img/aca-bill-signing.jpg" alt="photo of President Barak Obama signing the Affordable Care Act" align="right">
+![photo of President Barak Obama signing the Affordable Care Ac]({{ site.baseurl }}/images/aca-bill-signing.jpg){: .float-right }
 
 On March 23, 2010, President Barack Obama signed into law <q>The Patient Protection and Affordable Care Act</q> to reform and extend the provision of health care.&nbsp;
 The law includes a provision to amend the Rehabilitation Act to address access to medical diagnostic equipment, including examination tables and chairs, weight scales, x-ray machines and other radiological equipment, and mammography equipment.&nbsp;
