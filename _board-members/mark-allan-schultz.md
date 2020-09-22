@@ -1,5 +1,5 @@
 ---
-name: mark-allan-schultz
+name: mark-schultz
 last-name: schultz
 full_name: Mark Allan Schultz
 chair: false
