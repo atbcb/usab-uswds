@@ -53,7 +53,6 @@ Email:  <info@access-board.gov>
 | Earlene Sesker, Director | 202-272-0022 (v) | 202-272-0091 (tty) |
 | Edson Carneiro | 202-272-0008 (v) | 202-272-0077 (tty) |
 | Gainna Ellis | 202-272-0007 (v) | 202-272-0058 (tty) |
-| Susan Little | 202-272-0019 (v) | 202-272-0060 (tty) |
 | Sherrice Macklin | 202-272-0004 (v) | 202-272-0059 (tty) |
 | Shawntail Plotke | 202-272-0003 (v) | 202-272-0068 (tty) |
 | Jeffrey Sargent | 202-272-0038 (v) | 202-272-0055 (tty) |
@@ -69,6 +68,7 @@ Email:  <info@access-board.gov>
 | Dave Yanchulis, Director  | 202-272-0026 (v) | 202-272-0027 (tty) |
 | Bruce Bailey | 202-272-0024 (v) | 202-272-0070 (tty) |
 | William Botten | 202-272-0014 (v) | 202-272-0073 (tty) |
+| Phil Bratta | 202-272-0012 (v) | 202-272-0072 (tty) |
 | Timothy Creagan | 202-272-0016 (v) | 202-272-0074 (tty) |
 | Randall Duchesneau | 202-272-0044 (v) | 202-272-0062 (tty) |
 | Kathy Eng | 202-272-0013 (v) | 202-272-0071 (tty) |
