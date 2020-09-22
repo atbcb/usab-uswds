@@ -7,9 +7,6 @@ permalink: /about/history.html
 
 # History of the U.S. Access Board
 
-![photo of board meeting in conference space]({{ site.baseurl }}/images/conf-space.jpg){: .img-right}
-
-
 ## 1968 – The Architectural Barriers Act Becomes Law
 
 ![President Lyndon Johnson signing law]({{ site.baseurl }}/images/lbj.jpg){: .float-right }
