@@ -11,7 +11,7 @@ permalink: /sarahufas.html
 [1. Purpose](#1-purpose)
 
 **2. GENERAL**
-- [2.1 Authority](#21-authority)
+- [2.1 Authority](#ufas21-authority)
 - [2.2 Provisions for Adults](#22-provisions-for-adults)
 
 **3. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS**
@@ -98,7 +98,7 @@ This document sets standards for facility accessibility by physically handicappe
 
 ## 2. GENERAL
 
-### 2.1 AUTHORITY
+<h3 id="ufas21-authority">2.1 AUTHORITY</h3>
 
 These standards were jointly developed by the General Services Administration, the Department of Housing and Urban Development, the Department of Defense, and the United States Postal Service, under the authority of sections 2, 3, 4, and 4a, respectively, of the Architectural Barriers Act of 1968, as amended, Pub. L. No. 90-480, 42 U.S.C. 4151-4157.
 
@@ -256,6 +256,7 @@ An accessible site shall meet the following minimum requirements:
 
 (5) (a) If parking spaces are provided for employees or visitors, or both, then accessible spaces, complying with 4.6, shall be provided in each such parking area in conformance with the following table:
 
+
 | Total Parking in Lot | Required Minimum Number of Accessible Spaces |
 | --- | --- |
 | 1 to 25 | 1 |
@@ -269,6 +270,7 @@ An accessible site shall meet the following minimum requirements:
 | 401 to 500 | 9 |
 | 501 to 1000 | * |
 | 1001 and over | ** |{: .usa-table}
+
 
 \* 2 percent of total.
 
