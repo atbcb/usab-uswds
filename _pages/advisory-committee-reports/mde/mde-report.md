@@ -743,7 +743,7 @@ R Western University of Health Sciences, University of California - San Francisc
 
 36\. Winters JM, Story MF, Barnekow K, et al. Accessiblity of Medical Instrumentation: A Natilonal Healthcare Consumer Survey. Atlanta, GA: Proceedings of RESNA 2005 Conference; 2005.
 
-p
+
 ---
 
 
@@ -760,59 +760,59 @@ To identify the various categories of MDE, Committee members conducted an exerci
 
 **Table 3.1**
 
-**MDE Advisory Committee Preliminary List of**\
-**Potential Medical Diagnostic Equipment Types**
+| MDE Advisory Committee Preliminary List of <br> Potential Medical Diagnostic Equipment Types |
+|-----------------------------------------------------------------------------------------|
+| Examination tables configured as tables                                                 |
+| Examination tables, configured as chairs                                                |
+| Acupuncture tables                                                                      |
+| Angiography tables                                                                      |
+| Cardiac catheterization tables                                                          |
+| Chiropractic tables                                                                     |
+| Cystoscopy tables                                                                       |
+| “General use” procedure tables\*                                                        |
+| Gynecology tables                                                                       |
+| Massage therapy tables\*                                                                |
+| Operating room tables\*                                                                 |
+| Rehabilitation therapy tables                                                           |
+| Stereotactic breast biopsy tables                                                       |
+| Tilt tables for syncope testing                                                         |
+| Urodynamics tables                                                                      |
+| Stretchers/gurneys\*                                                                    |
+| Audiology testing booths                                                                |
+| Dental chairs                                                                           |
+| Dermatology chairs                                                                      |
+| ENT \(ear, nose, and throat\) exam chairs                                               |
+| Chairs for upper gastrointestinal studies                                               |
+| Mammography positioning chairs                                                          |
+| Ophthalmology exam chairs                                                               |
+| Phlebotomy chairs                                                                       |
+| Podiatry chairs                                                                         |
+| Dialysis chairs\*                                                                       |
+| Infusion chairs\*                                                                       |
+| Couch in mental health clinician’s office\*                                             |
+| Beds\*                                                                                  |
+| Beds with radiolucent components                                                        |
+| X\-ray tables                                                                           |
+| CT \(computed tomography\) equipment                                                    |
+| MRI \(magnetic resonance imaging\) equipment                                            |
+| Mammography equipment                                                                   |
+| Nuclear medicine equipment                                                              |
+| PET \(positron emission tomography\) equipment                                          |
+| Combined PET/CT                                                                         |
+| Combined PET/MRI                                                                        |
+| SPECT \(single\-photon emission computed tomography\)                                   |
+| Ultrasound equipment\*                                                                  |
+| Echocardiogram equipment                                                                |
+| Equipment for barium studies of gastrointestinal tract                                  |
+| Dental panoramic x\-ray equipment                                                       |
+| DEXA scanning equipment                                                                 |
+| Weight scales                                                                           |
+| Treadmill for exercise stress testing\*                                                 |
+| Stationary bicycles for exercise testing\*                                              |
+| Pulmonary function test equipment\*                                                     |
+{: .usa-table}
 
-| Examination tables configured as tables |
-| Examination tables, configured as chairs |
-| Acupuncture tables |
-| Angiography tables |
-| Cardiac catheterization tables |
-| Chiropractic tables |
-| Cystoscopy tables |
-| "General use" procedure tables a |
-| Gynecology tables |
-| Massage therapy tables a |
-| Operating room tables a |
-| Rehabilitation therapy tables |
-| Stereotactic breast biopsy tables |
-| Tilt tables for syncope testing |
-| Urodynamics tables |
-| Stretchers/gurneys a |
-| Audiology testing booths |
-| Dental chairs |
-| Dermatology chairs |
-| ENT (ear, nose, and throat) exam chairs |
-| Chairs for upper gastrointestinal studies |
-| Mammography positioning chairs |
-| Ophthalmology exam chairs |
-| Phlebotomy chairs |
-| Podiatry chairs |
-| Dialysis chairs a |
-| Infusion chairs a |
-| Couch in mental health clinician's office a |
-| Beds a |
-| Beds with radiolucent components |
-| X-ray tables |
-| CT (computed tomography) equipment |
-| MRI (magnetic resonance imaging) equipment |
-| Mammography equipment |
-| Nuclear medicine equipment |
-| PET (positron emission tomography) equipment |
-| Combined PET/CT |
-| Combined PET/MRI |
-| SPECT (single-photon emission computed tomography) |
-| Ultrasound equipment a |
-| Echocardiogram equipment |
-| Equipment for barium studies of gastrointestinal tract |
-| Dental panoramic x-ray equipment |
-| DEXA scanning equipment |
-| Weight scales |
-| Treadmill for exercise stress testing a |
-| Stationary bicycles for exercise testing a |
-| Pulmonary function test equipment a |
-
-a Equipment types discussed to determine whether covered by proposed accessibility standards
+\* Equipment types discussed to determine whether covered by proposed accessibility standards
 
 During the initial Committee exercise mentioned above (to identify potential MDE types), Committee members explained their rationales for including or excluding various categories of equipment. Examples of this discussion include the following:
 
@@ -839,8 +839,7 @@ Throughout the remainder of its tenure, the Committee continued to discuss the a
 
 **Food and Drug Administration Definition of Device**
 
-|
-
+<div class="border" markdown="1">
 Medical devices range from simple tongue depressors and bedpans to complex programmable pacemakers with micro-chip technology and laser surgical devices. In addition, medical devices include in vitro diagnostic products, such as general purpose lab equipment, reagents, and test kits, which may include monoclonal antibody technology. Certain electronic radiation emitting products with medical application and claims meet the definition of medical device. Examples include diagnostic ultrasound products, x-ray machines and medical lasers. If a product is labeled, promoted or used in a manner that meets the following definition in section 201(h) of the Federal Food Drug & Cosmetic (FD&C) Act it will be regulated by the Food and Drug Administration (FDA) as a medical device and is subject to premarketing and postmarketing regulatory controls. A device is:
 
 -   "an instrument, apparatus, implement, machine, contrivance, implant, in vitro reagent, or other similar or related article, including a component part, or accessory which is:
@@ -849,8 +848,8 @@ Medical devices range from simple tongue depressors and bedpans to complex progr
     -   intended to affect the structure or any function of the body of man or other animals, and which does not achieve its primary intended purposes through chemical action within or on the body of man or other animals and which is not dependent upon being metabolized for the achievement of any of its primary intended purposes."
 
 This definition provides a clear distinction between a medical device and other FDA regulated products such as drugs.
+</div>
 
- |
 
 SOURCE: U.S. Food and Drug Administration <http://www.fda.gov/medicaldevices/deviceregulationandguidance/overview/classifyyourdevice/ucm051512.htm>, accessed May 31, 2013.
 
@@ -874,11 +873,13 @@ Given its time constraints, the Advisory Committee chose not to address certain 
 **Number of Meetings**
 
 | **Topic** | **Chairperson** | **# of Meetings** |
+| --- | --- | --- |
 | Examination Tables and Chairs | Kleo King, United Spinal Association | 6 |
 | Stretchers | Renée Kielich, Hill-Rom Company | 5 |
 | Imaging Equipment | John Jaeckle, General Electric Healthcare | 4 |
 | Mammography | Carol Bradley, Sutter Health | 5 |
-| Weight Scales | June Kailes, Harris Family Center for Disability and Health Policy at Western University of Health Sciences | 4 |
+| Weight Scales | June Kailes, Harris Family Center for Disability and Health Policy <br> at Western University of Health Sciences | 4 |
+{: .usa-table}
 
 **3.3 Data Sources**
 
@@ -903,6 +904,7 @@ Although the studies offered helpful data, the Committee felt strongly that it w
 **Clinicians Who Presented to the MDE Advisory Committee**
 
 | **Name** | **Affiliation** | **Discipline** |
+| --- | --- | --- |
 | Barbara Ridley | Alta Bates Summit Medical Center | RN, FNP |
 | Cathy Ellis | National Rehabilitation Hospital | PT |
 | Michael Yochelson | MedStar National Rehabilitation Network | MD |
@@ -910,6 +912,8 @@ Although the studies offered helpful data, the Committee felt strongly that it w
 | Nüket Curran | UPMC Centers for Rehabilitation Services | PT |
 | Douglas Coldwell | University of Louisville | MD |
 | Theresa Branham | American College of Radiology | RT, ARRT |
+{: .usa-table}
+
 
 At the Committee's request, U.S. Access Board staff asked these clinicians to comment on topics primarily related to transferring patients and the implications for recommendations relating to transfer surfaces. The following request was sent to the clinical speakers to formulate their comments to the Committee:[X](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/3-mde-advisory-committee-approach#x)
 
@@ -931,30 +935,19 @@ Committee members representing two stakeholder groups -- manufacturers of imagin
 **Who Presented to the MDE Advisory Committee**
 
 | **Name** | **Affiliation** | **Position** |
+| --- | --- | --- |
 | Willa Crolius | Institute for Human Centered Design | Coordinator of Public Programs |
 | Michelle Lustrino | Hologic, Inc. | Mechanical Engineer |
 | Glenn Nygard | Hologic, Inc. | Senior Principal Engineer |
-| Elisabeth George |
-
-Philips Healthcare
-
-MITA[Y](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/3-mde-advisory-committee-approach#y)
-
- |
-
-Vice President of Global Regulations and Standards\
-Chair of Technical and Regulatory Affairs Committee
-
- |
-| John Jaeckle | GE Healthcare\
-MITA | Chief Regulatory Affairs Strategist\
-Chair of CT─X-ray Committee |
+| Elisabeth George | Philips Healthcare, <br> Medical Imaging & Technology Alliance | Vice President of Global Regulations and Standards, <br> Chair of Technical and Regulatory Affairs Committee |
+| John Jaeckle | GE Healthcare, <br> Medical Imaging & Technology Alliance | Chief Regulatory Affairs Strategist, <br> Chair of CT─X-ray Committee |
 | John Metellus | Siemens Healthcare | Product Marketing Manager |
 | Bob Menke | Midmark Corporation | Engineering Manager |
 | Jon Wells | Midmark Corporation | Vice President of Marketing |
 | Jeff Baker | Medical Technology Industries, Inc. | President |
 | Brad Baker | Medical Technology Industries, Inc. | Executive Vice President |
 | Darren Walters | Medical Technology Industries, Inc. | Engineering Manager |
+{: .usa-table}
 
 **Notes**
 
