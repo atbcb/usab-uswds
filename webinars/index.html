@@ -1,5 +1,6 @@
 ---
 layout: default
+title: Trainings and Webinars
 permalink: /webinars/
 pagination:
   enabled: true
@@ -11,7 +12,7 @@ pagination:
     <div class="grid-row grid-gap margin-top-2">
       <div class="desktop:grid-col-8 usa-prose padding-right-4">
         <!-- This loops through the paginated posts -->
-        {% assign webinars = site.posts | where: "webinar","true" | sort: 'webinar-start'%}
+        {% assign webinars = site.posts | where: "webinar","true" | sort: 'webinar-start' | reverse %}
         {% assign today_date = 'now' | date: '%s' %}
         
         <h2>Upcoming Webinars</h2>
