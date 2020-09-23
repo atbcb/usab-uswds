@@ -5,7 +5,7 @@ group-title: Medical Diagnostic Equipment Accessibility Standards Advisory Commi
 order-number: 2
 ---
 
-![Members of the MDE Accessibility Standards Advisory Committee]({{ site.baseurl }}/images/advisory-committee-reports/mde/mde-committee.JPG)
+![Members of the MDE Accessibility Standards Advisory Committee]({{ site.baseurl }}/images/advisory-committee-reports/mde/mde-committee.jfif){: .img-right}
 
 
 -   The ADA National Network

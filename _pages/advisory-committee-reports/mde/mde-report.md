@@ -523,13 +523,13 @@ Other MDE manufacturers have also begun addressing accessibility issues, primari
 
 **Height Adjustable and Fixed-Height "Box" Examination Tables**
 
- ![Fixed height examination table on right, adjustable height examination  table on left.  Woman in manual wheelchair positioned between the two tables.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/2-1.jpg)\
+ ![Fixed height examination table on right, adjustable height examination  table on left.  Woman in manual wheelchair positioned between the two tables.]({{ site.baseurl }}/images/advisory-committee-reports/mde/2-1.jpg)\
 (SOURCE: Midmark Corporation) Fixed height table on right, adjustable height table on left.\
 **Figure 2.4.1(b)**
 
 **Types of Examination Tables Sold: 2005-2012**
 
- **![A graph depicting the types of examination tables sold between 2005 and 2012.  The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/2-2.jpg)**
+ **![A graph depicting the types of examination tables sold between 2005 and 2012.  The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).]({{ site.baseurl }}/images/advisory-committee-reports/mde/2-2.jpg)**
 
 (SOURCE: Global Healthcare Exchange (GHX)) The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).
 
@@ -1019,7 +1019,7 @@ For those chairs that transform into examination tables, reducing the distance b
 **Support at Lower Thigh/Back of Knee for 17" and 19"**\
 **Distances between Footrest and Seat Heights**
 
-![Two figures of a person seated in a chair, one at a height of 17 inches and the other at 19 inches.  A red circle is drawn on each figure to show the lack of support at the lower thigh/back of knee in relation to the different seat heights.  There us aksi a chart showing the optimal seat height for support for 95% of male, 95% female, 50% male, 50% female, 5% male and 5% female.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/3-1.jpg)
+![Two figures of a person seated in a chair, one at a height of 17 inches and the other at 19 inches.  A red circle is drawn on each figure to show the lack of support at the lower thigh/back of knee in relation to the different seat heights.  There us aksi a chart showing the optimal seat height for support for 95% of male, 95% female, 50% male, 50% female, 5% male and 5% female.]({{ site.baseurl }}/images/advisory-committee-reports/mde/3-1.jpg)
 
 (SOURCE: Medical Technology Industries, Inc.)
 
@@ -1037,7 +1037,7 @@ The Stretchers Subcommittee and full Advisory Committee discussed possibilities 
 
 **Configuration of Features in Current Stretcher Design**
 
-![Picture of a stretcher with arrows identifying features in current stretcher design.  The features identified are the standard 4 inches thick mattress, the 5 inches high oxygen tank holder, 3 inches hight drop seat movement, 6 inches lift clearance, brake pedals, 8 inches casters for transport, lift system, and 1 inch mattress support.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/3-2.jpg)(SOURCE: Hill-Rom, Inc.)\
+![Picture of a stretcher with arrows identifying features in current stretcher design.  The features identified are the standard 4 inches thick mattress, the 5 inches high oxygen tank holder, 3 inches hight drop seat movement, 6 inches lift clearance, brake pedals, 8 inches casters for transport, lift system, and 1 inch mattress support.]({{ site.baseurl }}/images/advisory-committee-reports/mde/3-2.jpg)(SOURCE: Hill-Rom, Inc.)\
 MDE Advisory Committee members also discussed the possibility of developing different types of stretchers for different purposes. For example, stretchers used primarily in outpatient surgery centers for elective operations with patients who are not acutely ill might not require the oxygen cylinders or other equipment features that contribute to the vertical height of current stretchers. However, representatives from health care delivery systems argued that having different types of stretchers with different capabilities could reduce the efficiency of busy clinical settings. Research and development could allow future stretcher technologies to accommodate low-height accessibility standards (Section 5.1.3). But with today's stretcher design, meeting those standards is infeasible given current requirements for multipurpose stretcher functions within health care delivery settings.
 
 **4.3 Diagnostic Imaging Equipment**
@@ -1157,7 +1157,7 @@ To determine the accessibility standard recommendations, understanding mammograp
 
 **Mammography Equipment Components**
 
-![Diagram of mammography equipments with the components identified.  The identified components are the c-arm, x-ray tube, positioning support, breast platform, gantry and the base support.  Diagram also shows double point arrow demonstrating that the c-arm moves up and down.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/3-3.jpg)
+![Diagram of mammography equipments with the components identified.  The identified components are the c-arm, x-ray tube, positioning support, breast platform, gantry and the base support.  Diagram also shows double point arrow demonstrating that the c-arm moves up and down.]({{ site.baseurl }}/images/advisory-committee-reports/mde/3-3.jpg)
 
 (SOURCE: Hologic, Inc.)
 
@@ -1165,7 +1165,7 @@ In order to get an image with sufficient detail, a woman's breast must rest on t
 **Figure 4.4.3(b)**\
 **Features of Mammography Equipment Addressed by Committee**
 
-![Diagram of mammography equipment identifying the features addressed by the Committee.  The addressed features are the positioning supports, knee and toe clearance depth, breast platform height, clear floor space, allowable base support profile,. base support height and toe height.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/3-4.jpg)
+![Diagram of mammography equipment identifying the features addressed by the Committee.  The addressed features are the positioning supports, knee and toe clearance depth, breast platform height, clear floor space, allowable base support profile,. base support height and toe height.]({{ site.baseurl }}/images/advisory-committee-reports/mde/3-4.jpg)
 
 (SOURCE: Hologic, Inc.)\
 **4.5 Weight Scales**
@@ -1224,7 +1224,7 @@ The Committee sought information on the range of seat heights of persons using m
 **Figure 5.1.1 Adjustable Height Medical Table/Chair**\
 ****(SOURCE: Midmark Corporation)
 
-![Picture of 2 adjustable height examination table/chairs.  One chair is positioned at the lowest seat height and the other is at the highest seat height.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-1.jpg)
+![Picture of 2 adjustable height examination table/chairs.  One chair is positioned at the lowest seat height and the other is at the highest seat height.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-1.jpg)
 
 The Committee recognized that some types of imaging equipment do not allow adjustability with today's technology. Specific types of imaging equipment, DXA and some x-ray systems, have the imaging hardware below the table underneath the patient. Imaging industry members acknowledged, as new technologies develop, future generations of equipment might find a way to incorporate adjustability. In the meantime, industry proposed creating a System Accessibility Configuration to provide a means to achieve accessibility where equipment's current design is limited or achieving accessibility is not technically feasible despite best efforts to redesign imaging equipment (see Section 7).
 
@@ -1267,9 +1267,9 @@ Having an accessible transfer surface height is critical to facilitate independe
 **Figure 5.1.4 Illustration of Height Measurement**\
 ****(SOURCE: Midmark Corporation)
 
-![Picture showing the side of an examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-2.jpg)
+![Picture showing the side of an examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-2.jpg)
 
-![Picture showing the foot end of the examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-3.jpg)\
+![Picture showing the foot end of the examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-3.jpg)\
 **5.2 Transfer Surface Size Recommendations**
 
 **5.2.1 Transfer Surface Size Recommendations for M301**
@@ -1298,7 +1298,7 @@ During the discussion, healthcare providers with experience in assisting patient
 **Figure 5.2.1.1 Measurement of Depth and Width from Center-Point of Transfer Surface Sides**\
 ****(SOURCE: Midmark Corporation)
 
-![A picture showing the plan view of an examination table.  Arrows are depicting the measurement of depth and width from the center point of the transfer surface sides.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-4.jpg)\
+![A picture showing the plan view of an examination table.  Arrows are depicting the measurement of depth and width from the center point of the transfer surface sides.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-4.jpg)\
 **5.2.1.2 Transfer Surface Depth Recommendation for M301**
 
 **The Committee recommends a minimum transfer surface depth of 17 inches for all M301 except imaging equipment.**
@@ -1336,7 +1336,7 @@ Manufacturers must determine the location of the transfer surface to facilitate 
 **Figure 5.2.1.4 Schematic of Transfer Surface Size for Diagnostic Imaging Equipment**\
 ****(SOURCE:  GE Healthcare)
 
-![A schematic of a scanning bed for imaging equipment.  The transfer surface is depicted with a dotted area on the bed.  Along the side of the transfer surface area there is an double point arrow showing the transfer surface measures 28 inches wide.  A text box has the Committee recommendation of 28 inches minimum or maximum practicable but no less than 21 inches permitted for the transfer surface width.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-5.jpg)
+![A schematic of a scanning bed for imaging equipment.  The transfer surface is depicted with a dotted area on the bed.  Along the side of the transfer surface area there is an double point arrow showing the transfer surface measures 28 inches wide.  A text box has the Committee recommendation of 28 inches minimum or maximum practicable but no less than 21 inches permitted for the transfer surface width.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-5.jpg)
 
 **5.2.2 Transfer Surface Size Recommendations for M302**
 
@@ -1369,7 +1369,7 @@ Figure 5.2.3 below indicates how these width and depth dimensions are measured f
 **Figure 5.2.3 Measurement of Depth and Width from Center-Point of Transfer Surface Sides**\
 ****(SOURCE: Midmark Corporation)
 
-![A picture showing the plan view of an examination table.  Arrows are depicting the measurement of depth and width from the center point of the transfer surface sides.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-6.jpg)\
+![A picture showing the plan view of an examination table.  Arrows are depicting the measurement of depth and width from the center point of the transfer surface sides.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-6.jpg)\
 **5.3 Transfer Sides Recommendations**
 
 **5.3.1 Permitted Obstructions to Transfer Sides for M301 and M302**
@@ -1394,7 +1394,7 @@ The Committee considered anthropometric data from a research project that examin
 **Figure 5.3.1 Permitted 3-Inch Maximum Obstruction at Transfer Side\
 **(SOURCE: U.S. Access Board)
 
-![Picture of a man in a wheelchair seated beside an examination table.  The transfer support is shown by dotted line positioned between the man and the transfer surface of the table. The transfer supports is shown as a 3 inches maximum obstruction at the transfer side between the man seated in the wheelchair and the transfer surface.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-7.jpg)
+![Picture of a man in a wheelchair seated beside an examination table.  The transfer support is shown by dotted line positioned between the man and the transfer surface of the table. The transfer supports is shown as a 3 inches maximum obstruction at the transfer side between the man seated in the wheelchair and the transfer surface.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-7.jpg)
 
 The 3-inch gap would accommodate a variety of supports including ones foldable, collapsible, removable, and articulating. A common example of an obstruction is the side rails on stretchers. Arm rests and footrests are examples of permitted temporary obstructions because they move out of the way of the transfer. The 3-inch maximum gap applies to two sides of medical diagnostic equipment with a rectangular shape, the long length (width) and the short length (depth), where the transfer surface is located.
 
@@ -1450,22 +1450,22 @@ As currently designed, some examination chairs have fixed footrests that facilit
 **Figure 5.3.3.1(a) Podiatry Chair**\
 (SOURCE: Midmark Corporation)
 
- ![Side view of a podiatry chair with the 17 inches minimum depth and the low height for the transfer surface highlighted.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-8.jpg)
+ ![Side view of a podiatry chair with the 17 inches minimum depth and the low height for the transfer surface highlighted.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-8.jpg)
 
 **Side View**
 
-** ![A top view of a podiatry chair depicting the transfer surface available from each side of the chair.  The transfer surface size is shown as 21 inches wide and 17 inches deep.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-9.jpg)**
+** ![A top view of a podiatry chair depicting the transfer surface available from each side of the chair.  The transfer surface size is shown as 21 inches wide and 17 inches deep.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-9.jpg)**
 
 **Top View**
 
 **Figure 5.3.3.1(b) Dental Chair**\
 (SOURCE: Midmark Corporation)
 
-![Side view of a dental chiar highlighting the depth and low height of the transfer surface.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-10.jpg)
+![Side view of a dental chiar highlighting the depth and low height of the transfer surface.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-10.jpg)
 
 **Side View**
 
-![Top view of dental chair depicting transfer from both sides onto a transfer surface that is 21 inches wide and 17 inches deep.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-11.jpg)
+![Top view of dental chair depicting transfer from both sides onto a transfer surface that is 21 inches wide and 17 inches deep.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-11.jpg)
 
 **Top View**
 
@@ -1488,7 +1488,7 @@ Transfer supports or handholds on adjustable medical equipment facilitate transf
 **Figure 5.4.1 Location and Length of Transfer Supports**\
 (SOURCE: Midmark Corporation)
 
-![Top view of an examination table with A through D highlighted on the table.  A represents the table seat depth of 17 inches minimum; B represents the transfer support length of 15 inches; C represents the 1 1/2 inches distance between the transfer support and the transfer surface and D represents the minimum 80% (12 inches minimum) overlap between the transfer surface support and the transfer surface.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-12.jpg)\
+![Top view of an examination table with A through D highlighted on the table.  A represents the table seat depth of 17 inches minimum; B represents the transfer support length of 15 inches; C represents the 1 1/2 inches distance between the transfer support and the transfer surface and D represents the minimum 80% (12 inches minimum) overlap between the transfer surface support and the transfer surface.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-12.jpg)\
 A: Table seat depth, 17 inches minimum\
 B: Transfer support length, 15 inches minimum\
 C: Distance between transfer support and transfer surface,\
@@ -1509,7 +1509,7 @@ Patients access stretchers on either of the long sides rather than on its end (s
 **Figure 5.4.1.1 Transfer Support Location -- Plan View**\
 (SOURCE: Stryker Medical)
 
-![Stretcher transfer support location 3" max. on opposite side of 28" by 17" transfer surface ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-13.jpg)
+![Stretcher transfer support location 3" max. on opposite side of 28" by 17" transfer surface ]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-13.jpg)
 
 **5.4.1.2 Transfer and Positioning Support Location Recommendations for Imaging Equipment with Transfer Surfaces**
 
@@ -1558,7 +1558,7 @@ The length provides continuous support for patients using the stretchers. This i
 **Figure 5.4.2.1 Transfer Support Location -- Side View**\
 (SOURCE: Stryker Medical)
 
- ![Side view of a stretcher showing the 6 inches minimum and 19 inches maximum location of the transfer support and the length of 28 inches maximum and 15 inches minimum.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-14.jpg)
+ ![Side view of a stretcher showing the 6 inches minimum and 19 inches maximum location of the transfer support and the length of 28 inches maximum and 15 inches minimum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-14.jpg)
 
 **5.4.2.2 Transfer and Positioning Support Length Recommendations for Imaging Equipment with Transfer Surfaces**
 
@@ -1579,7 +1579,7 @@ The two-part standard addresses various widths of tables. (see Section 5.4.1.2).
 **5.4.2.2 Schematic of Transfer Surface and Patient Support for Diagnostic Imaging Equipment**\
 (SOURCE: GE Healthcare)
 
-![A plan view of a scanning bed for imaging equipment.  The transfer surface location is shown and it is noted that the table width is not specified outside of the designated transfer surface.  The location and length  of the transfer support or positioning suppor t is shown.  It is noted that a gap exception is included that allows 3 inches maximum for foldable, collapsible, removable and articulating supports.  ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-15.jpg)\
+![A plan view of a scanning bed for imaging equipment.  The transfer surface location is shown and it is noted that the table width is not specified outside of the designated transfer surface.  The location and length  of the transfer support or positioning suppor t is shown.  It is noted that a gap exception is included that allows 3 inches maximum for foldable, collapsible, removable and articulating supports.  ]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-15.jpg)\
 **5.4.3 Transfer Support Height for M301 and M302**
 
 **Description**: Transfer support height applies to the vertical distance that the gripping area of the support is above the transfer surface (see Figure 5.4.3). The purpose of a minimum height is to ensure that the gripping surface is at an adequate height to facilitate positioning during a transfer.
@@ -1597,7 +1597,7 @@ The location of the transfer supports shall be a minimum of 6 inches to a maximu
 **Figure 5.4.3 Height of Transfer Supports**\
 (SOURCE: Midmark Corporation)
 
-![Side  view of an examination table with A indicating the height of the transfer surface; B indicating the 6 inches minimum and 19 inches maximum location above the transfer surface for the transfer support and C indicaqting the 15 inches minimum transfer support length.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-16.jpg)\
+![Side  view of an examination table with A indicating the height of the transfer surface; B indicating the 6 inches minimum and 19 inches maximum location above the transfer surface for the transfer support and C indicaqting the 15 inches minimum transfer support length.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-16.jpg)\
 B: 6 inches minimum and 19 inches maximum from the top of\
 the transfer surface\
 C: Transfer support length, 15 inches minimum\
@@ -1696,12 +1696,12 @@ The cross section dimensions contained in the 2010 Standards used for grab bars 
 **Figure 5.4.6(a) Gripping Surface Circular Cross Section**\
 (SOURCE: U.S. Access Board)
 
- ![Picture of a hand aroung the circular cross section of a transfer support.  The size of the gripping surface is shown to be 1 1/4 inches minimum to 2 inches maximum.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-17.jpg)
+ ![Picture of a hand aroung the circular cross section of a transfer support.  The size of the gripping surface is shown to be 1 1/4 inches minimum to 2 inches maximum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-17.jpg)
 
 **Figure 5.4.6(b) Gripping Surface Non-Circular Cross Section**\
 (SOURCE: U.S. Access Board)
 
-![Diagram of the cross sections of to non circular transfer support.  The maximum inside diameter is shown as 2 inches with a perimeter of 4 to 4.8.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-18.jpg)\
+![Diagram of the cross sections of to non circular transfer support.  The maximum inside diameter is shown as 2 inches with a perimeter of 4 to 4.8.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-18.jpg)\
 **5.4.7 Transfer Support Gripping Surface Clearance Recommendation for M301 and M302**
 
 **Description:** A clearance around the gripping surface is necessary to ensure sufficient space for a person to grasp the transfer support. This clearance would allow the fingers and knuckles to clear adjacent equipment parts as they grip the support. This clearance location is around the cross section of the gripping surface (see Figure 5.4.7).
@@ -1719,7 +1719,7 @@ As above, this provision is based on precedent of 2010 Standards and Internation
 **Figure 5.4.7 Gripping Surface Clearance**\
 (SOURCE: U.S. Access Board)
 
- ![Picture of a hand around a transfer support.  Arrows at adjacent sides show a gripping surface clearance of 1 1/2 inches.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-20.jpg)\
+ ![Picture of a hand around a transfer support.  Arrows at adjacent sides show a gripping surface clearance of 1 1/2 inches.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-20.jpg)\
 **5.4.8 Transfer Support Gripping Surface Hazard Recommendation for M301 and M302**
 
 **Description:** Gripping surface hazards are sharp or abrasive elements that prevent an individual from sufficiently grasping the support and may pose an injury hazard during use. The provision would prevent such hazards.
@@ -1843,7 +1843,7 @@ Below is a picture of an existing CT room with a ceiling mounted overhead lift. 
 **Figure 5.7.1.2 An existing CT room with a ceiling mounted overhead lift**\
 (SOURCE: GE Healthcare)
 
-![Photo of a CT room shown the CT equipment and an overhead lift mounted on the ceiling.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-21.jpg)
+![Photo of a CT room shown the CT equipment and an overhead lift mounted on the ceiling.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-21.jpg)
 
 **5.8 Wheelchair Spaces Recommendations for M303 Diagnostic Equipment Used by Patients Seated in a Wheelchair**
 
@@ -2084,7 +2084,7 @@ The Wheeled Mobility Anthropometry Project recommends a minimum flat surface of 
 **Figure 5.8.1.1 Clear Platform Size**\
 (SOURCE: U.S. Access Board)
 
-![A plan view of a platform with a ramp showing a 32 inches minimum by 40 inches minimum required clearance on the platform  ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-22.jpg)
+![A plan view of a platform with a ramp showing a 32 inches minimum by 40 inches minimum required clearance on the platform  ]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-22.jpg)
 
 **5.8.1.2 Entry to Wheelchair Spaces on Raised Platforms**\
 **Recommendations**
@@ -2129,7 +2129,7 @@ The edge protection adds a safety feature to prevent wheeled mobility device use
 **5.8.1.2.2 Single Ramp Scale with Edge Protection**\
 (SOURCE: U.S. Access Board)
 
-![Plan view of single ramp scale with edge protection of 2 inches absolute on the side opposite entry and 2 inches minimum on both sides.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-23.jpg)\
+![Plan view of single ramp scale with edge protection of 2 inches absolute on the side opposite entry and 2 inches minimum on both sides.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-23.jpg)\
 **5.8.1.2.3 Double Ramped Entry - Edge Protection on the Platform sides Recommendations**
 
 **The Committee recommends a minimum two-inch high edge protection on both sides of the platform for double ramped entry platforms.**
@@ -2141,7 +2141,7 @@ Edge protection provides an additional safety feature and guides users of wheele
 **5.8.1.2.3 Double Ramp Scale with Edge Protection**\
 (SOURCE: U.S. Access Board)
 
-![A plan view of a double ramp scale with 2 inches minimum edge protection on both sides.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-24.jpg)\
+![A plan view of a double ramp scale with 2 inches minimum edge protection on both sides.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-24.jpg)\
 **5.8.1.2.4 Edge Protection on Platforms 1½ inches or less in Height Recommendations**
 
 **The Committee recommends that no edge protection be required on platforms of 1½ inches or less in height.**
@@ -2192,7 +2192,7 @@ The M303.2.4 proposed NPRM provision and the dimensions recommended by the Wheel
 **Figure 5.8.2 Overview of the Critical Dimensions that Define the Knee and Toe Space Underneath the Breast Platform.\
 **(SOURCE: Hologic, Inc.)
 
-![Side view diagram of mammography equipment showing dimensions that define the knee and toe space under the breast platform.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-25.jpg)\
+![Side view diagram of mammography equipment showing dimensions that define the knee and toe space under the breast platform.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-25.jpg)\
 **Table 5.8.2(b) Critical Equipment Dimensions with the relevant Anthropomorphic Data**
 
 | **Critical Dimension** | **Anthropomorphic Data /Rationale** | **Final Decision** |
@@ -2217,7 +2217,7 @@ The shape of the breast platform affects the shape of the knee and toe space. Th
 
 As indicated by the graphics key, the dotted lines reference the current ADA-ABA standard. Industry has laid an example mammography image over the relevant anthropomorphic model[vv](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#vv).
 
-![Illustration of the relationship between the breast platform height and the clearance required at the patient's knees.  A dotted lines show the current ADA knee and toe clearance.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-26.jpg)
+![Illustration of the relationship between the breast platform height and the clearance required at the patient's knees.  A dotted lines show the current ADA knee and toe clearance.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-26.jpg)
 
 The NPRM proposed measuring the knee clearance under the breast platform at 27 inches above the ground. Industry started with this dimension and determined the proportionate height of the breast platform to be 34 inches. The Committee agreed to this as a "set point" (Identified as "Breast Platform Height" in Figure 5.8.2.1). These dimensions (27 and 34-inch heights) are the same as those defined by the current 2010 Standards to accommodate wheelchair users at desks, which is outlined by the dotted lines in Figure 5.8.2.1.
 
@@ -2290,7 +2290,7 @@ See Table 5.8.2(b).
 **Figure 5.8.2.7(a) Illustration of final committee recommendation on proposed base support configuration.\
 **(SOURCE: Hologic, Inc.)
 
- ![Illustration of final committee recommendation on proposed base support configuration.  Diagram shows a sloped region between 1 1/2 inches and 4 inches above the ground.  The base support height is shown as 1 1/2 maximum at a depth of 25 inches and 4 inches at a depth of 28 inches minimum.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-27.jpg)
+ ![Illustration of final committee recommendation on proposed base support configuration.  Diagram shows a sloped region between 1 1/2 inches and 4 inches above the ground.  The base support height is shown as 1 1/2 maximum at a depth of 25 inches and 4 inches at a depth of 28 inches minimum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-27.jpg)
 
 ***Rationale for the recommendation***
 
@@ -2319,7 +2319,7 @@ The Committee also discussed adding an allowance for a sloped region at the base
 **Figure 5.8.2.7(b)** Checkered region shows location of informational displays and other mechanical and electrical components on many mammography machines.\
 (SOURCE: Hologic, Inc.)
 
-![Side view of mammography equipment showing display area located under breast platform on top of the base support.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-28.jpg)
+![Side view of mammography equipment showing display area located under breast platform on top of the base support.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-28.jpg)
 
 The Committee discussed the additional sloped region. Several members felt strongly that the additional sloped region must be justified by structural stability since displays could be located elsewhere. Members commented that not all equipment has displays in this region, so it seemed possible for industry to redesign the displays to create less interference.
 
@@ -2334,13 +2334,13 @@ Figures 5.8.2.7(c) and 5.8.2.7(d) illustrate this region overlaid with the anthr
 
 The black lines show the areas with no interference between the footrests and caster wheels and the base support interfacevii. However, based on the technical feasibility and clinical use considerations discussed in the above sections, industry proposed the overlay configuration in red.
 
-![A charted of the final Committee recommendation on allowable base support configuration overlaid with anthropomorphic data for manual wheelchairs.  The black lines show the areas with no interference between the footrests and caster wheels and the base support interfacevii.  However, based on the technical feasibility and clinical use considerations discussed in the above sections, industry proposed the overlay configuration in red.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-29.jpg)\
+![A charted of the final Committee recommendation on allowable base support configuration overlaid with anthropomorphic data for manual wheelchairs.  The black lines show the areas with no interference between the footrests and caster wheels and the base support interfacevii.  However, based on the technical feasibility and clinical use considerations discussed in the above sections, industry proposed the overlay configuration in red.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-29.jpg)\
 **Figure 5.8.2.7(d) Committee recommendation on allowable base support configuration overlaid with anthropomorphic data for power wheelchairs.**\
 (SOURCE: Hologic, Inc.)
 
 The black lines show the areas with no interference between the footrests and caster wheels and the base support interface. However, based on the technical feasibility and clinical use considerations discussed in the above sections, industry proposed the overlay configuration in red.
 
-![Chart depicting the Committee recommendation on allowable base support configuration overlaid with anthropomorphic data for power wheelchairs. The black lines show the areas with no interference between the footrests and caster wheels and the base support interface.  However, based on the technical feasibility and clinical use considerations discussed in the above sections, industry proposed the overlay configuration in red.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-30.jpg)
+![Chart depicting the Committee recommendation on allowable base support configuration overlaid with anthropomorphic data for power wheelchairs. The black lines show the areas with no interference between the footrests and caster wheels and the base support interface.  However, based on the technical feasibility and clinical use considerations discussed in the above sections, industry proposed the overlay configuration in red.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-30.jpg)
 
 The green dots in the scatter plot illustrations represent observed values for footrest height (on the vertical axis), and footrest depth (on the horizontal axis) measured for manual wheelchair users to the abdomen point. The footrest heights do not account for the 0.5-inch footrest thickness, so the required footrest clearances are 0.5 inch lower than the footrest heights plotted here. The footrest depth is the horizontal distance from the abdomen to the distal (forward-most) edge of the footrest. The person's toes, however, will extend beyond the front edge of the footrests, so the Committee reviewed different data to determine the overall knee and toe clearance (see Section 5.8.2.3 above).
 
@@ -2361,7 +2361,7 @@ Ultimately, all of the knee and toe clearance recommendations in sections 5.8.2.
 
 The top of the breast platform would be moved to 34 inches above the ground, and then the clearance dimensions would be measured just as they would be on any stationary piece of equipment, with allowance for slopes where shown.
 
-![Diagram charting a summary of the knee and toe clearance recommended by the Committee.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-31.jpg)
+![Diagram charting a summary of the knee and toe clearance recommended by the Committee.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-31.jpg)
 
 **5.8.3 Breast Platform Recommendations**
 
@@ -2385,7 +2385,7 @@ One member expressed support for the lower height in order to facilitate the Mag
 **Figure 5.8.3.1 Illustration of an example mag stand on top of the breast platform.**\
 (SOURCE: Hologic, Inc.)
 
-![Illustration of a mag stand on top of the breast platform on mammography equipment.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-32.jpg)
+![Illustration of a mag stand on top of the breast platform on mammography equipment.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-32.jpg)
 
 **5.9 Standing Support Recommendations for M304 Diagnostic Equipment Used by Patients in a Standing Position**
 
@@ -2632,18 +2632,18 @@ Three figures provide images of potential imaging system accessibility configura
 **Figure 7.3(a).** Illustration of a concept (not to scale) for a detachable floor mounted support. The support could be made to be both height adjustable and detachable at floor level.\
 (SOURCE: GE Healthcare)
 
- ![Illustration of a detachable floor mounted support for imaging equipment.  The support could be made to be both height adjustable and detachable at floor level.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/7-1.jpg)\
+ ![Illustration of a detachable floor mounted support for imaging equipment.  The support could be made to be both height adjustable and detachable at floor level.]({{ site.baseurl }}/images/advisory-committee-reports/mde/7-1.jpg)\
 **Figure 7.3(b).** Illustration of a concept (not to scale) for a wheeled support. The wheels would lock and the base is sufficiently robust and sized for appropriate loadings. The support could be made to be height adjustable.\
 (SOURCE: GE Healthcare)
 
-![Illustration of a wheeled support on a CT Scan. The wheels would lock and the base is sufficiently robust and sized for appropriate loadings. The support could be made to be height adjustable.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/7-2.jpg)
+![Illustration of a wheeled support on a CT Scan. The wheels would lock and the base is sufficiently robust and sized for appropriate loadings. The support could be made to be height adjustable.]({{ site.baseurl }}/images/advisory-committee-reports/mde/7-2.jpg)
 
 **Figure 7.3(c).** Illustration of the concept (not to scale) of various accessories deployed as part of an accessibility configuration. The first illustration shows a floor mounted support combined with a scissor lift. The following illustration shows the floor mounted support combined with the elevated platform.\
 (SOURCE: GE Healthcare)
 
-![Illustration of imaging equipment with various accessories deployed as part of an accessibility configuration. The first illustration shows a floor mounted support combined with a scissor lift. ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/7-3.jpg)
+![Illustration of imaging equipment with various accessories deployed as part of an accessibility configuration. The first illustration shows a floor mounted support combined with a scissor lift. ]({{ site.baseurl }}/images/advisory-committee-reports/mde/7-3.jpg)
 
-![Illustration of the conceptof various accessories deployed as part of an accessibility configuration.  The illustration shows the floor mounted support combined with the elevated platform.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/7-4.jpg)
+![Illustration of the conceptof various accessories deployed as part of an accessibility configuration.  The illustration shows the floor mounted support combined with the elevated platform.]({{ site.baseurl }}/images/advisory-committee-reports/mde/7-4.jpg)
 
 Some committee members expressed concerns about various aspects of the imaging system accessibility configuration concept and examples. One issue involved the practical implications of some components of these suggested accessibility configurations. For example, a detachable handhold might not be readily available to patients (i.e., because they are detachable, the handhold might have been moved elsewhere). Technicians might not be trained adequately in the use of these accessibility aids. Lifts cannot be used independently. Embedding equipment into the floor of rooms in the imaging suite might be expensive and architecturally challenging. Therefore, some of the more "fixed" accessibility configurations might not appeal to some health care providers.
 
@@ -2871,7 +2871,7 @@ Breast biopsies may be performed with the patient in a prone, seated, or decubit
 
 It is critical that there be a method by which all patients can safely access medical diagnostic equipment. During a prone biopsy procedure (Figure 1), the patient lies in the prone position on a cushioned table, with her breast positioned beneath the patient support surface while the physician works underneath the table, out of sight of the patient. This configuration increases patient comfort and thereby is an advantage for the use of prone biopsy tables.
 
-![Photograph of patient on a prone breast biopsy table while physician works underneath the table.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr1.jpg)
+![Photograph of patient on a prone breast biopsy table while physician works underneath the table.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr1.jpg)
 
 **Figure 1. Example prone breast biopsy table. The patient is lying in the prone position on a cushioned table, with her breast positioned beneath the patient support surface while the physician works underneath the table.**
 
@@ -2938,11 +2938,11 @@ Note that 220 N is equivalent to 49.5 pounds of force, significantly lower than 
 
 3\. Midmark has marketed a chair arm accessory for its examination tables for over 10 years that meets a load rating of 250 pounds vertically and 125 pounds horizontally. One of the intended uses of this chair arm is to assist with patient transfer (see image below). This chair arm has proven to be robust and reliable.
 
-![Photograph of woman using a manual wheelchair grabbing the chair arm in preparation to transfer onto the examination surface.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr2.jpg)
+![Photograph of woman using a manual wheelchair grabbing the chair arm in preparation to transfer onto the examination surface.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr2.jpg)
 
 4\. A horizontal force of 250 pounds is unrealistic. This far exceeds the force that a person can generate in the horizontal direction under any realistic transfer scenario (see figure below). Also, because MDE is not typically anchored to the floor, it is likely that the MDE would slide across the floor before a 250 pound force could be applied.
 
-![Table from FAA Human Factors Design Standard, Chapter 14 showing exertable horizon forces when using hands, shoulder, and back and the related coefficient of friction.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr3.jpg)
+![Table from FAA Human Factors Design Standard, Chapter 14 showing exertable horizon forces when using hands, shoulder, and back and the related coefficient of friction.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr3.jpg)
 
 Source: FAA Human Factors Design Standard, Chapter 14\
 <http://www.hf.faa.gov/docs/508/docs/hfdg/ch14.doc> 
@@ -3059,7 +3059,7 @@ Photon counting systems imply a more voluminous breast support, as the detector 
 3.  E. Pisano et. al.: Comparison of Radiologist Performance with Photon-Counting Full-Field Digital Mammography to Conventional Full-Field Digital Mammography, Acad. Radiol. (2012): 19 (8) ,916-922.
 4.  M. Aslund et al.: Physical characterization of a scanning photon counting digital mammography system based on Si-strip detectors, Med Phys. (2007), 34(6):1918-25.
 
-![Photograph of Philips MicroDose Mammography System showing both mammography machine and staff station.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr4.jpg)
+![Photograph of Philips MicroDose Mammography System showing both mammography machine and staff station.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr4.jpg)
 
 **Philips MicroDose Mammography System**
 
@@ -3297,14 +3297,14 @@ The minority report explains why a requirement for a 19 inch lower adjustable he
 
 In the United States, approximately 82 percent[4](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i4) of physicians, hospitals and other health care providers use examination and procedures tables with a 32-inch fixed height, as shown in Figure 1. Industry commonly refers to these tables as "box tables." These tables provide an often-insurmountable barrier to health care for people with mobility disabilities. Since 2001, the number of adjustable-height tables has steadily increased, but continues to represent a minority of examination tables in the United States.
 
-![A table depicting the percentage of fixed height versus adjustable height medical tables (representing the U.S. install base of medical tables)](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr5.jpg)
+![A table depicting the percentage of fixed height versus adjustable height medical tables (representing the U.S. install base of medical tables)]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr5.jpg)
 
 *Figure 1: Percentage of fixed height versus adjustable height medical tables *\
 *(representing the U.S. install base of medical tables)*
 
 One of the primary objectives of the U.S. Access Board's requirements should be to accelerate the growing trend of heath care providers to purchase adjustable height tables. In doing so, care should be taken to not render the progress that has already been made obsolete. For the reasons presented in this minority report, a 19 inch low adjustable height is best suited to achieving this objective. As illustrated in Figure 1 above, a standard lower maximum height that is less than 19" would re-classify the existing adjustable height tables available on the market today as inaccessible and penalize the physicians who have already made a good faith effort at accommodating their disabled patients.
 
-![Fixed height examination table on right, adjustable height examination  table on left.  Woman in manual wheelchair positioned between the two tables.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr6.jpg)
+![Fixed height examination table on right, adjustable height examination  table on left.  Woman in manual wheelchair positioned between the two tables.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr6.jpg)
 
 *Figure 2: Photograph illustrating the height difference between a fixed height and adjustable height medical table*
 
@@ -3314,7 +3314,7 @@ This minority report presents the factors that support a minimum standard of 19 
 
 Second, as a *minimum* standard, establishing a 19-inch highest point standard does not mean that all newly manufactured tables and chairs will necessarily be fixed at a 19-inch height. Unlike fixed transfer surfaces such as toilets or non-adjustable tables, there is no reason to standardize at a single height based on broadest usability. In a marketplace of adjustable tables and chairs, increased range of adjustability will be advantageous to patients and caregivers alike. It is not unreasonable to expect that table and chair manufacturers will seek to compete by offering products with greater degrees of adjustability.
 
-![Picture showing the foot end of the examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr7.jpg)![Picture showing the side of an examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr8.jpg)\
+![Picture showing the foot end of the examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr7.jpg)![Picture showing the side of an examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr8.jpg)\
 *Figure 3. Illustration of measurement height at bolsters relative to lower transfer surface*
 
 **ALIGNMENT OF 19-INCH RECOMMENDATION WITH ACCESS BOARD PROPOSED RULEMAKING**
@@ -3363,7 +3363,7 @@ In 2012, approximately 25 percent of examination tables sold in the U.S. are at 
 
 If adopted by the Access Board, a recommendation of 19-inch maximum height will build on the growing percentage of providers voluntarily purchasing accessible, adjustable height tables, at 25 percent today.[20](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i20) Conversely, if a new standard lower than 19 inches is established, thereby deeming all current adjustable tables inaccessible, the entire U.S. health system will be forced to begin at 0 percent accessible.
 
-![A graph depicting the types of examination tables sold between 2005 and 2012.  The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr9.jpg)
+![A graph depicting the types of examination tables sold between 2005 and 2012.  The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr9.jpg)
 
 *Figure 4: Sales percentages of fixed height versus adjustable height medical tables*\
 *(respesenting sales volume of new medical tables)*
@@ -3390,14 +3390,14 @@ Note further in figure 5 that the rear seat height is considerably lower than th
 
 In addition, a second study commissioned by the U.S. Access Board and evaluated by the Advisory Committee (the Pittsburgh study[26](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i26)) determined that manual wheelchair-users, who are generally the users most likely to have the lowest seated heights, are generally able to accommodate a 2-inch difference in height between one's wheelchair and a transfer surface. Consequently, even if one posited that the AWM Project finding of 17 inches at the rear of the seat compressed corresponded to an uncompressed height of 17 inches at the front edge of the wheelchair, the maximum height of 19 inches at the highest point of a table or chair transfer surface would still fall within the 2-inch differential identified by the Pittsburgh study as accessible to most manual wheelchair users. Of note, Committee members pointed out that the Pittsburgh study utilized a sample of younger and more active subjects than the AWM Project. As such, broad conclusions for a broader population of persons with disabilities, and direct correlations with the AWM Project, should be avoided.
 
-![Adapted diagram from the "Paralyzed Veterans of America's Guide to Wheelchair Selection" showing difference in measured height between the AWM Project, wheelchair manufacturer's height per ISO 7176-7, and the uncompressed upholstery measurement height.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr10.jpg)\
+![Adapted diagram from the "Paralyzed Veterans of America's Guide to Wheelchair Selection" showing difference in measured height between the AWM Project, wheelchair manufacturer's height per ISO 7176-7, and the uncompressed upholstery measurement height.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr10.jpg)\
 *Figure 5: Adapted diagram from the "Paralyzed Veterans of America's Guide to Wheelchair Selection" showing difference in measured height between the AWM Project, wheelchair manufacturer's height per ISO 7176-7, and the uncompressed upholstery measurement height.*
 
-*![Diagram of a wheelchair showing the manufacturer's height and seat construction. ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr11.jpg)![Diagram showing four variatioan in compression when person's weight is applied.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr12.jpg)*
+*![Diagram of a wheelchair showing the manufacturer's height and seat construction. ]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr11.jpg)![Diagram showing four variatioan in compression when person's weight is applied.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr12.jpg)*
 
 *Figure 6: Wheelchair manufacturer's height and seat construction types (showing variation in compression when person's weight is applied) per ISO 7176-7*
 
-![A table of wheelchair manufactures standardized measurements.  Manufacturers are required to disclose their specification in such a table showing measurements for the seat plane angle, effective seat depth, effective seat width, seat surface height at front edge, backrest angle, backrest height, footrest to seat distance, leg to seat surface angle, armrest to seat distance, front armrest to backrest distance, handrim diameter, and horizontal location of axle.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr13.jpg)
+![A table of wheelchair manufactures standardized measurements.  Manufacturers are required to disclose their specification in such a table showing measurements for the seat plane angle, effective seat depth, effective seat width, seat surface height at front edge, backrest angle, backrest height, footrest to seat distance, leg to seat surface angle, armrest to seat distance, front armrest to backrest distance, handrim diameter, and horizontal location of axle.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr13.jpg)
 
 *Figure 7: Wheelchair manufacture standardized measurements per ISO 7176-7*
 
@@ -3443,11 +3443,11 @@ New equipment design with reduced height of 17"  |  17 inch max. height\
 
 To be useful for its intended purpose, examination tables and chairs must maintain a high height of at least 32 inches, so that the health care provider has clinical access to the patient. In fact, 37 inches is the standard high height today for OB/GYN examinations. The need to reach heights above 32 inches interferes with efforts to lower the transfer surface height. The mechanical system necessary to raise the table are located in the base of the table, beneath the seating surface. As the difference between the required low-height and the necessary high-height for health care providers increases, the mechanics necessary to achieve that adjustable range become more complex and expensive.[29](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i29)
 
-![A picture of an examination chair in the current lowest position of 19 inches from the floor to the top of the seat.  ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr14.jpg)
+![A picture of an examination chair in the current lowest position of 19 inches from the floor to the top of the seat.  ]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr14.jpg)
 
 Low Seated Position
 
-![A picture of an examination chair at the highest elevated seated position of 37 inches from the floor to the top of the seat.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr15.jpg)
+![A picture of an examination chair at the highest elevated seated position of 37 inches from the floor to the top of the seat.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr15.jpg)
 
 Elevated Seated Position\
 *Figure 8: Range of medical table heights*
@@ -3500,7 +3500,7 @@ $1.91B |
 
 **BENEFITS AND COSTS: SUMMARY**
 
-![A graph showing the cost versus baselijne and  access versus baseline.  The graph summarizes the cost and implementation scenarios of Table 2.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr16.jpg)\
+![A graph showing the cost versus baselijne and  access versus baseline.  The graph summarizes the cost and implementation scenarios of Table 2.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr16.jpg)\
 *Figure 9: Summary of cost and implementation scenarios of Table 2*
 
 Therefore, while establishing these requirements will result in significant costs to health care providers, establishing a lower adjustable height requirement of 19 inches will maximize the percentage of accessible tables and will cost less than requiring an adjustable height lower than 19 inches.
@@ -3523,7 +3523,7 @@ Bolsters improve patient comfort and stability when seated on table. Note that 
 
 Note that these features are widely used in both tables and chairs. Beds, stretchers, and other types of equipment will have unique features that determine the shapes of their patient support surfaces.
 
-![ Plan view of examination table/chair showing seat contours and bolster.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr17.jpg)![Side view of examination table/chair showing seat bolster.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr18.jpg)![End view of examination table/chair showing seat bolster.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr19.jpg)
+![ Plan view of examination table/chair showing seat contours and bolster.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr17.jpg)![Side view of examination table/chair showing seat bolster.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr18.jpg)![End view of examination table/chair showing seat bolster.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr19.jpg)
 
 *Figure 10: Features of the countered shape of a medical examination table*
 
@@ -3533,7 +3533,7 @@ The design of the corner radii allows closest possible position for wheelchair t
 
 In the diagram below, the upper wheelchair illustrates a typical side transfer, which may optionally utilize a transfer board. The lower wheelchair illustrates a typical diagonal transfer.[30](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i30) 
 
-![Diagram shown transfer surface on examination table chair with wheelchairs located at each corner radii.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr20.jpg)
+![Diagram shown transfer surface on examination table chair with wheelchairs located at each corner radii.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr20.jpg)
 
 *Figure 11: Corner radii of a medical examination table*
 
@@ -3571,45 +3571,45 @@ Excerpt from the MDE Advisory Committee Meeting Minutes, February 26 and 27, 201
 
 Presentation given by Bob Menke, Midmark Corporation, at the February 27, 2013 Advisory Committee Meeting:
 
- ![Two slides from a presentation given by Midmark to the MDE Advisory Committee.  One is the introductory slide with the title of the presentation, ""Examination Table Accessibility Standards", who it was being presented to and the date.  The second slide gives an overview of the presentation.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr21.jpg)
+ ![Two slides from a presentation given by Midmark to the MDE Advisory Committee.  One is the introductory slide with the title of the presentation, ""Examination Table Accessibility Standards", who it was being presented to and the date.  The second slide gives an overview of the presentation.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr21.jpg)
 
-![Third and fourth slides from Midmark's presentation.  Slide three gives information about Bob Menke the Midmark representative and presenter.  Slide four shows two current examination table/chair designs that are currently available.  A woman in a wheelchair is positioned between the two tables.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr22.jpg)
+![Third and fourth slides from Midmark's presentation.  Slide three gives information about Bob Menke the Midmark representative and presenter.  Slide four shows two current examination table/chair designs that are currently available.  A woman in a wheelchair is positioned between the two tables.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr22.jpg)
 
-![Slide 5 contains information on the methodology used in determining the height of current examination tables.  Slide 6 contains the table height from the proposed MDE Standard.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr23.jpg)
+![Slide 5 contains information on the methodology used in determining the height of current examination tables.  Slide 6 contains the table height from the proposed MDE Standard.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr23.jpg)
 
-![Slide 7 contains the existing height requirements from the ADA/ABA Accessibility Guidelines.  Slide 8 contains a graph depicting the types of examination tables sold between 2005 and 2012.  The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr24.jpg)
+![Slide 7 contains the existing height requirements from the ADA/ABA Accessibility Guidelines.  Slide 8 contains a graph depicting the types of examination tables sold between 2005 and 2012.  The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr24.jpg)
 
-![Slide 9 contains a graph showing sales percentages of fixed height versus manual medical tables. Slide 10 contains a graph showing how the health system has been shifting to adjustable height tables.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr25.jpg)
+![Slide 9 contains a graph showing sales percentages of fixed height versus manual medical tables. Slide 10 contains a graph showing how the health system has been shifting to adjustable height tables.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr25.jpg)
 
-![Slide 11 shows what the current population of tables.  Slide 12 compare what the NPRM proposed to what the committee agreed to for the width of the transfer surface.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr26.jpg)
+![Slide 11 shows what the current population of tables.  Slide 12 compare what the NPRM proposed to what the committee agreed to for the width of the transfer surface.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr26.jpg)
 
-![Slide 13 shows the weight capacity for current tables.  Slide 14 shows the NPRM proposal for the depth of the transfer surface and what the committee agreed to. ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr27.jpg)
+![Slide 13 shows the weight capacity for current tables.  Slide 14 shows the NPRM proposal for the depth of the transfer surface and what the committee agreed to. ]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr27.jpg)
 
-![Slide 15 shows the NPRM proposal for transfer supports and armrest and what the committee agreed to.  Slide 16 gives a summary of the current environment for tables height, transfer width, transfer depth, and armrests.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr28.jpg)
+![Slide 15 shows the NPRM proposal for transfer supports and armrest and what the committee agreed to.  Slide 16 gives a summary of the current environment for tables height, transfer width, transfer depth, and armrests.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr28.jpg)
 
-![Slide 17: Benefits and Costs.  Slide 18: Goals -  Maximize percentage of available accessible tables; minimize cost to health care providers.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr29.jpg)
+![Slide 17: Benefits and Costs.  Slide 18: Goals -  Maximize percentage of available accessible tables; minimize cost to health care providers.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr29.jpg)
 
-![Slide 19 contains financial assumptions and slide 20 contains an overview of what contributes to the cost to the provider.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr30.jpg)
+![Slide 19 contains financial assumptions and slide 20 contains an overview of what contributes to the cost to the provider.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr30.jpg)
 
-![Slide 21 contains current cost of the equipment and cost with recommended changes.  Slide 22 contains cost date for lowering the minimum table height](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr31.jpg)
+![Slide 21 contains current cost of the equipment and cost with recommended changes.  Slide 22 contains cost date for lowering the minimum table height]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr31.jpg)
 
-![Slide 23 contains cost increases to add transfer and leg supports.  Slide 24 contains possible scoping scenarios for when the Standard is adopted by a standard setting agency.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr32.jpg)
+![Slide 23 contains cost increases to add transfer and leg supports.  Slide 24 contains possible scoping scenarios for when the Standard is adopted by a standard setting agency.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr32.jpg)
 
-![Slide 25 contains pricing for possible scenarios and slide 26 contains a benefits and cost summary.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr34.jpg)
+![Slide 25 contains pricing for possible scenarios and slide 26 contains a benefits and cost summary.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr34.jpg)
 
-![Slide 27 contains additional information on the benefits and costs and slide 28 is a introductory slide for the summary of findings and recommendations](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr35.jpg)
+![Slide 27 contains additional information on the benefits and costs and slide 28 is a introductory slide for the summary of findings and recommendations]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr35.jpg)
 
-![Slide 29 contains summary of current environment compared to the committee recommendations for width and depth and showing the low height remainging at 17 to 19.  Slide 30 shows a summary of costs and benefits.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr36.jpg)
+![Slide 29 contains summary of current environment compared to the committee recommendations for width and depth and showing the low height remainging at 17 to 19.  Slide 30 shows a summary of costs and benefits.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr36.jpg)
 
-![Slide 31 contains recommendations and slide 32 states back-up slides.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr37.jpg)
+![Slide 31 contains recommendations and slide 32 states back-up slides.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr37.jpg)
 
-![Slide 33 contains weight data and slide 34 contains market projection with baseline scenarios.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr38.jpg)
+![Slide 33 contains weight data and slide 34 contains market projection with baseline scenarios.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr38.jpg)
 
-![Both slides contain costs of different scoping scenarios.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr39.jpg)
+![Both slides contain costs of different scoping scenarios.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr39.jpg)
 
-![Both slide contain more scenarios and costs.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr40.jpg)
+![Both slide contain more scenarios and costs.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr40.jpg)
 
-![Final two slide show more scoping scenarios and cost projections.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr41.jpg)
+![Final two slide show more scoping scenarios and cost projections.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr41.jpg)
 
 **NOTES**
 
@@ -3723,18 +3723,18 @@ The issues were discussed and decided in the full committee meeting as follows: 
 
 The issue of seat depth was discussed and decided during the full committee meetings as follows: depth of 17 inches minimum. The Subcommittee discussed the width and agreed on a 21 inch minimum width based on anthropometric data and industry human factors experience. In addition, examination chairs that cannot be entered on the foot end, such as dental chairs and podiatry chairs, the subcommittee members agreed that the 17 inch minimum depth and 21 inch minimum width be located on both sides of the chair to allow for a left or right transfer (see examples below).
 
-![Side view of a podiatry chair with the 17 inches minimum depth and the low height for the transfer surface highlighted.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-8.jpg)
+![Side view of a podiatry chair with the 17 inches minimum depth and the low height for the transfer surface highlighted.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-8.jpg)
 
 Podiatry Chair, Side View
 
-![A top view of a podiatry chair depicting the transfer surface available from each side of the chair.  The transfer surface size is shown as 21 inches wide and 17 inches deep.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-9.jpg)\
+![A top view of a podiatry chair depicting the transfer surface available from each side of the chair.  The transfer surface size is shown as 21 inches wide and 17 inches deep.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-9.jpg)\
 Podiatry Chair, Top View
 
-![Side view of a dental chiar highlighting the depth and low height of the transfer surface.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-10.jpg)
+![Side view of a dental chiar highlighting the depth and low height of the transfer surface.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-10.jpg)
 
 Dental Chair, Side View
 
-![Top view of dental chair depicting transfer from both sides onto a transfer surface that is 21 inches wide and 17 inches deep.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-11.jpg)\
+![Top view of dental chair depicting transfer from both sides onto a transfer surface that is 21 inches wide and 17 inches deep.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-11.jpg)\
 Dental Chair, Top View
 
 **Height -- M301.2.1 & M302.2.1**
@@ -3794,13 +3794,13 @@ Current Situation: the Vast Majority of Examination and Procedure Tables are 32 
 
 In the United States, approximately 82 percent[5](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#5) of physicians, hospitals and other health care providers use examination and procedures tables with a 32-inch fixed height, as shown in Figure 1. Industry commonly refers to these tables as "box tables." These tables provide an often-insurmountable barrier to health care for people with accessibility needs. Since 2001, the number of adjustable-height tables has steadily increased, but continue to represent a minority of examination tables in the United States.
 
- ![A table depicting the percentage of fixed height versus adjustable height medical tables (representing the U.S. install base of medical tables)](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr5.jpg)
+ ![A table depicting the percentage of fixed height versus adjustable height medical tables (representing the U.S. install base of medical tables)]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr5.jpg)
 
 *Figure 1: Percentage of fixed height versus adjustable height medical tables*
 
 One of the primary objectives of the U.S. Access Board's requirements should be to accelerate the growing trend of heath care providers to purchase adjustable height tables, which will reduce the number of fixed, 32 inch high inaccessible tables.
 
-![Fixed height examination table on right, adjustable height examination  table on left.  Woman in manual wheelchair positioned between the two tables.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr6.jpg)*Figure 2: Illustration of the height difference between a fixed height and adjustable height medical table*
+![Fixed height examination table on right, adjustable height examination  table on left.  Woman in manual wheelchair positioned between the two tables.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr6.jpg)*Figure 2: Illustration of the height difference between a fixed height and adjustable height medical table*
 
 Implications of a 19 Inch Minimum Standard for the Highest Point in the Lowest Adjustable Position
 
@@ -3808,7 +3808,7 @@ This memorandum presents the factors that support a minimum standard of 19 inche
 
 Second, as a minimum standard, establishing a 19-inch highest point standard does not mean that all newly manufactured tables and chairs will necessarily be fixed at a 19-inch height. Unlike fixed transfer surfaces such as toilets or non-adjustable tables, there is no reason to standardize at a single height based on broadest usability. In a marketplace of adjustable tables and chairs, increased range of adjustability will be advantageous to patients and caregivers alike. It is not unreasonable to expect that table and chair manufacturers will seek to compete by offering products with greater degrees of adjustability.
 
-![Picture showing the foot end of the examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr7.jpg)![Picture showing the side of an examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr8.jpg)
+![Picture showing the foot end of the examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr7.jpg)![Picture showing the side of an examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr8.jpg)
 
 *Figure 3. Illustration of measurement height at bolsters relative to lower transfer surface*
 
@@ -3856,7 +3856,7 @@ In 2012, approximately 25 percent of examination tables sold in the U.S. are at 
 
 If adopted by the Access Board, a recommendation of 19-inch maximum height will build on the growing percentage of providers voluntarily purchasing accessible, adjustable height tables, at 25 percent today.[18](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#18) Conversely, if a new standard lower than 19 inches is established, thereby deeming all current adjustable tables inaccessible, the entire U.S. health system will be forced to begin at 0 percent accessible.
 
-![A graph depicting the types of examination tables sold between 2005 and 2012.  The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr9.jpg)
+![A graph depicting the types of examination tables sold between 2005 and 2012.  The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr9.jpg)
 
 *Figure 4: Sales percentages of fixed height versus manual medical tables*
 
@@ -3880,15 +3880,15 @@ Note further in figure 5 that the rear seat height is considerably lower than th
 
 In addition, a second study commissioned by the U.S. Access Board and evaluated by the Advisory Committee (the Pittsburgh study[22](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#22)) determined that manual wheelchair-users, who are generally the users most likely to have the lowest seated heights, are generally able to accommodate a 2-inch difference in height between one's wheelchair and a transfer surface. Consequently, even if one posited that the Steinfeld study finding of 17 inches at the rear of the seat compressed corresponded to an uncompressed height of 17 inches at the front edge of the wheelchair, the maximum height of 19 inches at the highest point of a table or chair transfer surface would still fall within the 2-inch differential identified by the Pittsburgh study as accessible to most manual wheelchair users.
 
-![Adapted diagram from the "Paralyzed Veterans of America's Guide to Wheelchair Selection" showing difference in measured height between the AWM Project, wheelchair manufacturer's height per ISO 7176-7, and the uncompressed upholstery measurement height.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr10.jpg)
+![Adapted diagram from the "Paralyzed Veterans of America's Guide to Wheelchair Selection" showing difference in measured height between the AWM Project, wheelchair manufacturer's height per ISO 7176-7, and the uncompressed upholstery measurement height.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr10.jpg)
 
 *Figure 5: Adapted diagram from the "Paralyzed Veterans of America's Guide to Wheelchair Selection" showing difference in measured height between Steinfeld report, wheelchair manufacturer's height per ISO 7176-7, and the uncompressed upholstery measurement height.*
 
-*![Diagram of a wheelchair showing the manufacturer's height and seat construction. ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr11.jpg)![Diagram showing four variatioan in compression when person's weight is applied.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr12.jpg)*
+*![Diagram of a wheelchair showing the manufacturer's height and seat construction. ]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr11.jpg)![Diagram showing four variatioan in compression when person's weight is applied.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr12.jpg)*
 
 *Figure 6: Wheelchair manufacturer's height and seat construction types (showing variation in compression when person's weight is applied) per ISO 7176-7*
 
-![A table of wheelchair manufactures standardized measurements.  Manufacturers are required to disclose their specification in such a table showing measurements for the seat plane angle, effective seat depth, effective seat width, seat surface height at front edge, backrest angle, backrest height, footrest to seat distance, leg to seat surface angle, armrest to seat distance, front armrest to backrest distance, handrim diameter, and horizontal location of axle.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr13.jpg)
+![A table of wheelchair manufactures standardized measurements.  Manufacturers are required to disclose their specification in such a table showing measurements for the seat plane angle, effective seat depth, effective seat width, seat surface height at front edge, backrest angle, backrest height, footrest to seat distance, leg to seat surface angle, armrest to seat distance, front armrest to backrest distance, handrim diameter, and horizontal location of axle.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr13.jpg)
 
 *Figure 7: Wheelchair manufacture standardized measurements per ISO 7176-7*
 
@@ -3898,9 +3898,9 @@ With a 17" transfer height, chairs with footrests, which the patient rests their
 
 Chairs with no footrest plate and only a breaking knee legrest have similar problems with a short legrest portion also. Patient comfort in the entry/exit position can be compromised even after the chair is raised and the back lowered because of the length of the chair top in the supine position. Even with the addition of a flip-up or slide out footrest/legrest extension, the total length of the average knee break chair is estimated to be 60", and only be able to be a maximum of approximately 68" with extension. We estimate the addition of a manual extension of the footrest could add as much as $750 (15%). An electrical or automatic extension could be a $1300 (26%) addition to the net cost of either a chair with a footrest plate or to one without the plate, which only extends the legrest or calf portion. These chairs would have to have an electrical interlock installed in them to protect the chair and patient from the chair being lowered with the legrest extended. These kinds of additional adjustments and added protection controls tend to discourage the operator from using them and thus the patients could instead be forced to endure a medical procedure in uncomfortable positions.
 
-![Drawing of a foot on a footrest showing the 2" clearance from the floor to the bottom of the footrest required by domestic UL and international IEC standards. ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-1.jpg)
+![Drawing of a foot on a footrest showing the 2" clearance from the floor to the bottom of the footrest required by domestic UL and international IEC standards. ]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-1.jpg)
 
-![Two figures of a person seated in a chair, one at a height of 17 inches and the other at 19 inches.  A red circle is drawn on each figure to show the lack of support at the lower thigh/back of knee in relation to the different seat heights.  There us aksi a chart showing the optimal seat height for support for 95% of male, 95% female, 50% male, 50% female, 5% male and 5% female.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-2.jpg)
+![Two figures of a person seated in a chair, one at a height of 17 inches and the other at 19 inches.  A red circle is drawn on each figure to show the lack of support at the lower thigh/back of knee in relation to the different seat heights.  There us aksi a chart showing the optimal seat height for support for 95% of male, 95% female, 50% male, 50% female, 5% male and 5% female.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-2.jpg)
 
 Adoption of a 19 Inch Height Minimizes Costs to Health Care Providers
 
@@ -3943,11 +3943,11 @@ Costs to Lower Minimum Table Height
 
 To be useful for its intended purpose, examination tables and chairs must maintain a high height of at least 32 inches, so that the health care provider has clinical access to the patient. In fact, 37 inches is the standard high height today for OB/GYN examinations. The need to reach heights above 32 inches interferes with efforts to lower the transfer surface height. The mechanical system necessary to raise the table are located in the base of the table, beneath the seating surface. As the difference between the required low-height and the necessary high-height for health care providers' increases, the mechanics necessary to achieve that adjustable range become more complex and expensive.
 
-![A picture of an examination chair in the current lowest position of 19 inches from the floor to the top of the seat.  ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr14.jpg)
+![A picture of an examination chair in the current lowest position of 19 inches from the floor to the top of the seat.  ]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr14.jpg)
 
 Low Seated Position
 
-![A picture of an examination chair at the highest elevated seated position of 37 inches from the floor to the top of the seat.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr15.jpg)
+![A picture of an examination chair at the highest elevated seated position of 37 inches from the floor to the top of the seat.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr15.jpg)
 
 Elevated Seated Position
 
@@ -3998,7 +3998,7 @@ $1.91B |
 * Existing tables not able to be upgraded to be accessible | 20% | -35% | -$0.53B |
 | 100% | -1% | $1.53B |
 
-![A graph showing the cost versus baselijne and  access versus baseline.  The graph summarizes the cost and implementation scenarios of Table 2.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr16.jpg)\
+![A graph showing the cost versus baselijne and  access versus baseline.  The graph summarizes the cost and implementation scenarios of Table 2.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr16.jpg)\
 *Figure 9: Summary of cost and implementation scenarios of Table 2*
 
 Therefore, while establishing these requirements will result in significant costs to health care providers, establishing a lower adjustable height requirement of 19 inches will maximize the percentage of accessible tables and will cost less than requiring an adjustable height lower than 19 inches.
@@ -4023,13 +4023,13 @@ Note that these features are widely used in both tables and chairs. Beds, stretc
 
 *Figure 10: Features of the countered shape of a medical examination table*
 
-*![ Plan view of examination table/chair showing seat contours and bolster.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr17.jpg)![Side view of examination table/chair showing seat bolster.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr18.jpg)![End view of examination table/chair showing seat bolster.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr19.jpg)*
+*![ Plan view of examination table/chair showing seat contours and bolster.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr17.jpg)![Side view of examination table/chair showing seat bolster.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr18.jpg)![End view of examination table/chair showing seat bolster.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr19.jpg)*
 
 The design of the corner radii allows closest possible position for wheelchair transfers, minimizing potential gaps and improving the patient's ability to transfer independently.
 
 In the diagram below, the upper wheelchair illustrates a typical side transfer, which may optionally utilize a transfer board. The lower wheelchair illustrates a typical diagonal transfer.[24](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#24) 
 
-![Diagram shown transfer surface on examination table chair with wheelchairs located at each corner radii.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/mr20.jpg)
+![Diagram shown transfer surface on examination table chair with wheelchairs located at each corner radii.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr20.jpg)
 
 *Figure 11: Corner radii of a medical examination table*
 
@@ -4227,34 +4227,34 @@ Many X-Ray systems have imaging components such as X-Ray tubes, high voltage gen
 
 Section 4.3 of this report contains additional considerations from the imaging subcommittee.
 
-![This is picture of a CT system (this one has decals on it for use in a children's hospital).  It is also representative of a MR table.  The table on this particular model is 7+ ft long, about 24 inches wide, and has a minimum height of about 18 inches.  Note the emergency extraction handle at the foot end of the table.  Also note that there is not structural material under the table side covers where transfer supports could sufficiently be anchored.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-3.jpg)\
+![This is picture of a CT system (this one has decals on it for use in a children's hospital).  It is also representative of a MR table.  The table on this particular model is 7+ ft long, about 24 inches wide, and has a minimum height of about 18 inches.  Note the emergency extraction handle at the foot end of the table.  Also note that there is not structural material under the table side covers where transfer supports could sufficiently be anchored.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-3.jpg)\
 Figure 5.3-1: This is picture of a CT system (this one has decals on it for use in a children's hospital). It is also representative of a MR table. The table on this particular model is 7+ ft long, about 24 inches wide, and has a minimum height of about 18 inches. Note the emergency extraction handle at the foot end of the table. Also note that there is not structural material under the table side covers where transfer supports could sufficiently be anchored.
 
-![This is a picture of a PET/CT system.  The PET gantry is located behind the CT gantry, under a single cover.  The patient table is virtually identical to the CT table in Figure 5.3-1, however it must be mounted on a transporter (adding 4-5 inches it the minimum height) in order to move it closer to the gantry for the PET scan.  Simply having a longer cradle is not done because the cradle must be of material that is virtually transparent to X-rays, and this requirement results in there being some table "sag" when it is extended with a patient on it.  A longer cradle will have more sag to the point of not being diagnostically acceptable...hence the transporter.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-4.JPG)
+![This is a picture of a PET/CT system.  The PET gantry is located behind the CT gantry, under a single cover.  The patient table is virtually identical to the CT table in Figure 5.3-1, however it must be mounted on a transporter (adding 4-5 inches it the minimum height) in order to move it closer to the gantry for the PET scan.  Simply having a longer cradle is not done because the cradle must be of material that is virtually transparent to X-rays, and this requirement results in there being some table "sag" when it is extended with a patient on it.  A longer cradle will have more sag to the point of not being diagnostically acceptable...hence the transporter.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-4.JPG)
 
 Figure 5.3-2: This is a picture of a PET/CT system. The PET gantry is located behind the CT gantry, under a single cover. The patient table is virtually identical to the CT table in Figure 5.3-1, however it must be mounted on a transporter (adding 4-5 inches it the minimum height) in order to move it closer to the gantry for the PET scan. Simply having a longer cradle is not done because the cradle must be of material that is virtually transparent to X-rays, and this requirement results in there being some table "sag" when it is extended with a patient on it. A longer cradle will have more sag to the point of not being diagnostically acceptable...hence the transporter.
 
-![This is a picture of a NM/CT system.  The NM detector heads are located in front of the CT scanner.  These heads are able to rotate 360 degrees.  The patient table top design is similar to that of a CT system; it is about 24 inches wide in total.  On this model the minimum height is 23.2 inches.  This is due to the different type of lifting mechanism employed because the table base just needs to move straight up and down.  This type of design is also found on other manufactures' CT  and MR tables.  The table side covers have the same issues discussed for the CT table in Figure 5.3-1.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-5.JPG)\
+![This is a picture of a NM/CT system.  The NM detector heads are located in front of the CT scanner.  These heads are able to rotate 360 degrees.  The patient table top design is similar to that of a CT system; it is about 24 inches wide in total.  On this model the minimum height is 23.2 inches.  This is due to the different type of lifting mechanism employed because the table base just needs to move straight up and down.  This type of design is also found on other manufactures' CT  and MR tables.  The table side covers have the same issues discussed for the CT table in Figure 5.3-1.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-5.JPG)\
 Figure 5.3-3: This is a picture of a NM/CT system. The NM detector heads are located in front of the CT scanner. These heads are able to rotate 360 degrees. The patient table top design is similar to that of a CT system; it is about 24 inches wide in total. On this model the minimum height is 23.2 inches. This is due to the different type of lifting mechanism employed because the table base just needs to move straight up and down. This type of design is also found on other manufactures' CT and MR tables. The table side covers have the same issues discussed for the CT table in Figure 5.3-1.
 
-![This picture shows a side view of an Angulating Radiographic and Fluoroscopic Exam Table whose fixed height is approximately 34.5 inches.  The height is the result of the design being able to angulate to perform certain types of diagnostic exams and also to accommodate imaging components under the table such as X-Ray tubes, high voltage generators, and detectors.  The table surface is also able to move in two directions horizontally.  Also note the equipment imaging components on the opposite side of where the patient transfers.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-6.jpg)\
+![This picture shows a side view of an Angulating Radiographic and Fluoroscopic Exam Table whose fixed height is approximately 34.5 inches.  The height is the result of the design being able to angulate to perform certain types of diagnostic exams and also to accommodate imaging components under the table such as X-Ray tubes, high voltage generators, and detectors.  The table surface is also able to move in two directions horizontally.  Also note the equipment imaging components on the opposite side of where the patient transfers.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-6.jpg)\
 Figure 5.3-4a
 
-![Picture of an Angulating Radiographic and Fluoroscopic Exam Table whose fixed height is approximately 34.5 inches.  Tape measure shown beside transfer surface to show height.  Also note the equipment imaging components on the opposite side of where the patient transfers.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-7.jpg)
+![Picture of an Angulating Radiographic and Fluoroscopic Exam Table whose fixed height is approximately 34.5 inches.  Tape measure shown beside transfer surface to show height.  Also note the equipment imaging components on the opposite side of where the patient transfers.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-7.jpg)
 
 Figure 5.3-4c
 
-![Thie pictures show an Angulating Radiographic and Fluoroscopic Exam Table whose fixed height is approximately 34.5 inches.   The table surface is also able to move in two directions horizontally.  ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-8.jpg)
+![Thie pictures show an Angulating Radiographic and Fluoroscopic Exam Table whose fixed height is approximately 34.5 inches.   The table surface is also able to move in two directions horizontally.  ]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-8.jpg)
 
 Figure 5.3-4c
 
 Figure 5.3-4: These pictures show an Angulating Radiographic and Fluoroscopic Exam Table whose fixed height is approximately 34.5 inches. The height is the result of the design being able to angulate to perform certain types of diagnostic exams and also to accommodate imaging components under the table such as X-Ray tubes, high voltage generators, and detectors. The table surface is also able to move in two directions horizontally. Also note the equipment imaging components on the opposite side of where the patient transfers.
 
-![Picture shows a Dual Energy X-ray Absorptiometry (DXA) system for Osteoporosis assessment with a patient lying on the scanning bed.  A technician is standing beside the equipment. The table heights are fixed due to the diagnostic need for a fixed geometry. The table heights are typically 25 - 28 inches and are dictated by the needing the X-Ray source below the table for diagnostic and radiation dose considerations.  Also note the equipment imaging components on the opposite side of where the patient transfers.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-9.jpg)
+![Picture shows a Dual Energy X-ray Absorptiometry (DXA) system for Osteoporosis assessment with a patient lying on the scanning bed.  A technician is standing beside the equipment. The table heights are fixed due to the diagnostic need for a fixed geometry. The table heights are typically 25 - 28 inches and are dictated by the needing the X-Ray source below the table for diagnostic and radiation dose considerations.  Also note the equipment imaging components on the opposite side of where the patient transfers.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-9.jpg)
 
 Figure 5.3-5a
 
-![Picture shows a Dual Energy X-ray Absorptiometry (DXA) system for Osteoporosis assessment with a patient lying on the scanning bed.  A technician is seated beside the equipment viewing a computer monitor. ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-10.jpg)
+![Picture shows a Dual Energy X-ray Absorptiometry (DXA) system for Osteoporosis assessment with a patient lying on the scanning bed.  A technician is seated beside the equipment viewing a computer monitor. ]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-10.jpg)
 
 Figure 5.3-5b
 
@@ -4263,11 +4263,11 @@ The subcommittee and full committee believes alternate criteria or "accessibilit
 
 The following figures show some concepts of accessories to address table height that could be included an accessibility package. The accessory or installation would result in decreasing the distance between the transfer surface and the surface where the mobility device is located.
 
-![Flush mounted scissors lift concept (not to scale).  The left side shows a flush mounted lift as in the down position while the right side shows it in its elevated position.  The lift would need to appropriately sized and ramped and include edge protection.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-11-12.jpg)
+![Flush mounted scissors lift concept (not to scale).  The left side shows a flush mounted lift as in the down position while the right side shows it in its elevated position.  The lift would need to appropriately sized and ramped and include edge protection.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-11-12.jpg)
 
 Figure 5.3-6: Flush mounted scissors lift concept (not to scale). The left side shows a flush mounted lift as in the down position while the right side shows it in its elevated position. The lift would need to appropriately sized and ramped and include edge protection.
 
-![Elevated platform or possibly "full" floor concept (not to scale).  This drawing illustrates the idea of raising the floor instead of lowering the table.  This could possibly be accomplished either by a raised platform on the transfer side as shown in the drawing or by building up the floor in the entire room.  If an installation is new, it may also be possible to lower the mounting surface of the equipment.  An elevated platform would need to appropriately sized and ramped and include edge protection.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-13.jpg)
+![Elevated platform or possibly "full" floor concept (not to scale).  This drawing illustrates the idea of raising the floor instead of lowering the table.  This could possibly be accomplished either by a raised platform on the transfer side as shown in the drawing or by building up the floor in the entire room.  If an installation is new, it may also be possible to lower the mounting surface of the equipment.  An elevated platform would need to appropriately sized and ramped and include edge protection.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-13.jpg)
 
 Figure 5.3-7: Elevated platform or possibly "full" floor concept (not to scale). This drawing illustrates the idea of raising the floor instead of lowering the table. This could possibly be accomplished either by a raised platform on the transfer side as shown in the drawing or by building up the floor in the entire room. If an installation is new, it may also be possible to lower the mounting surface of the equipment. An elevated platform would need to appropriately sized and ramped and include edge protection.\
 **M301.2.2 Transfer Surface Size**
@@ -4292,7 +4292,7 @@ The possible narrowness of some diagnostic imaging tables was addressed by the s
 
 Below is a schematic to help illustrate the proposed requirements.
 
-![A schematic of a scanning bed for imaging equipment.  The transfer surface is depicted with a dotted area on the bed.  Along the side of the transfer surface area there is an double point arrow showing the transfer surface measures 28 inches wide.  A text box has the Committee recommendation of 28 inches minimum or maximum practicable but no less than 21 inches permitted for the transfer surface width.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-14.JPG)
+![A schematic of a scanning bed for imaging equipment.  The transfer surface is depicted with a dotted area on the bed.  Along the side of the transfer surface area there is an double point arrow showing the transfer surface measures 28 inches wide.  A text box has the Committee recommendation of 28 inches minimum or maximum practicable but no less than 21 inches permitted for the transfer surface width.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-14.JPG)
 
 Figure 5.3-8: Schematic of Transfer Surface Size for Diagnostic Imaging Equipment\
 **M301.2.3 Transfer Surface Transfer Sides**
@@ -4336,23 +4336,23 @@ The allowed distance to the transfer or positioning support was chosen to consis
 
 Below is a schematic to help illustrate the proposed requirements.
 
-![A plan view of a scanning bed for imaging equipment.  The tranfer surface location is shown and it is noted that the table width is not specified outside of the designated transfer surface.  The location and length  of the transfer support or positioning suppor t is shown.  It is noted that a gap exception is included that allows 3 inches maximum for foldable, collapsible, removable and articulating supports.  ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-15.JPG)
+![A plan view of a scanning bed for imaging equipment.  The tranfer surface location is shown and it is noted that the table width is not specified outside of the designated transfer surface.  The location and length  of the transfer support or positioning suppor t is shown.  It is noted that a gap exception is included that allows 3 inches maximum for foldable, collapsible, removable and articulating supports.  ]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-15.JPG)
 
 Figure 5.3-9: Schematic of Transfer Surface Size and Patient Support for Diagnostic Imaging Equipment
 
 The following figures show some concepts of accessories to address transfer and positioning supports that could be included an accessibility package.
 
-![Illustration of a detachable floor mounted support for imaging equipment.  The support could be made to be both height adjustable and detachable at floor level.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-16.jpg)
+![Illustration of a detachable floor mounted support for imaging equipment.  The support could be made to be both height adjustable and detachable at floor level.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-16.jpg)
 
 Figure 5.3-10: Illustration of a concept (not to scale) for a detachable floor mounted support. The support could be made to be both height adjustable and detachable at floor level.
 
-![Illustration of a wheeled support on a CT Scan. The wheels would lock and the base is sufficiently robust and sized for appropriate loadings. The support could be made to be height adjustable.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-17.jpg)
+![Illustration of a wheeled support on a CT Scan. The wheels would lock and the base is sufficiently robust and sized for appropriate loadings. The support could be made to be height adjustable.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-17.jpg)
 
 Figure 5.3-11: Illustration of a concept (not to scale) for a wheeled support (wheels would lock and base sufficiently robust and sized for appropriate loadings). The support could be made to be height adjustable.
 
-![Illustration of imaging equipment with various accessories deployed as part of an accessibility configuration. The first illustration shows a floor mounted support combined with a scissor lift. ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-18.jpg)
+![Illustration of imaging equipment with various accessories deployed as part of an accessibility configuration. The first illustration shows a floor mounted support combined with a scissor lift. ]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-18.jpg)
 
-![Illustration of the concept of various accessories deployed as part of an accessibility configuration.  The illustration shows the floor mounted support combined with the elevated platform.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-19.jpg)
+![Illustration of the concept of various accessories deployed as part of an accessibility configuration.  The illustration shows the floor mounted support combined with the elevated platform.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-19.jpg)
 
 Figure 5.3-12: Illustration of the concept (not to scale) of accessories deployed as part of an accessibility package. The top illustration is shows a floor mounted support combined with scissor lift of Figure 5.3-6. The lower illustration shows the floor mounted support combined with the elevated platform of Figure 5.3-7.\
 **M301.4 Lift Compatability**
@@ -4368,7 +4368,7 @@ Overhead lifts are not possible to be used in the MR exam room due to the magnet
 
 Below is a picture of an existing CT room with a ceiling mounted overhead lift. Note the degree of flexibility and advantages that this design provides over a portable lift scenario, such as: either side transfer, desired patient orientation prior to transfer, always being available to the patient, no need to manually move the patient by hand, and the ability to move the lift completely out of the way when not needed.
 
-![Photo of a CT room shown the CT equipment and an overhead lift mounted on the ceiling.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-20.jpg)
+![Photo of a CT room shown the CT equipment and an overhead lift mounted on the ceiling.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-20.jpg)
 
 Figure 5.3-13: An existing CT room with a ceiling mounted overhead lift.\
 **6\. Transfer Surface Height**\
@@ -4407,11 +4407,11 @@ To determine the final criteria for the mammography devices, the subcommittee ba
 
 To determine the recommendation, it was critical for all to have an understanding of the equipment components. The diagram below illustrates the set of terminology and the location on a mammography device used to describing the mammography components below. (Figure 1 below)
 
-![Diagram of mammography equipments with the components identified.  The identified components are the c-arm, x-ray tube, positioning support, breast platform, gantry and the base support.  Diagram also shows double point arrow demonstrating that the c-arm moves up and down.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/3-3.jpg)\
+![Diagram of mammography equipments with the components identified.  The identified components are the c-arm, x-ray tube, positioning support, breast platform, gantry and the base support.  Diagram also shows double point arrow demonstrating that the c-arm moves up and down.]({{ site.baseurl }}/images/advisory-committee-reports/mde/3-3.jpg)\
 **Figure 1. Overview of the subcomponents of a mammography machine.**
 
 In order to get a quality image, the patient's breast needs to rest on top of the breast platform and the chest wall needs to be flush with the front edge of the breast platform. For this to be possible, the breast platform needs to go low enough to accommodate a patient seated in a wheelchair. There also needs to be enough knee and toe clearance to ensure that the patient can get close enough to the breast platform without knees or feet hitting parts of the equipment. One important feature of mammography equipment is the base support, also shown in Figure 1, which is critical for structural support, seismic stability, and installation safety. This base support must be low enough so that a patient's footrests can ride over it and it must allow enough unobstructed floor space to ensure that a wheelchair's front caster wheels do not hit it. Lastly, the configuration of the positioning supports must provide enough flexibility for all patients to be able to reach and hold them. An illustration of each is in Figure 2 below.\
-![Diagram of mammography equipment identifying the features addressed by the Committee.  The addressed features are the positioning supports, knee and toe clearance depth, breast platform height, clear floor space, allowable base support profile,. base support height and toe height.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/3-4.jpg)
+![Diagram of mammography equipment identifying the features addressed by the Committee.  The addressed features are the positioning supports, knee and toe clearance depth, breast platform height, clear floor space, allowable base support profile,. base support height and toe height.]({{ site.baseurl }}/images/advisory-committee-reports/mde/3-4.jpg)
 
 **Figure 2. Overview of the critical dimensions that impact the accessibility of mammography equipment.**
 
@@ -4427,7 +4427,7 @@ Many industry organizations supported the 28-inch minimum. Reasons cited include
 
 One member expressed support for the lower height in order to facilitate the Magnified Cranio Caudal (hereinafter "Mag") view for person needing magnified views of tissue. Mag views require the breast to be located at a specific position in between the x-ray tube and the breast platform. To capture this view, providers place an accessory, often called a "Mag Stand", on the breast platform, as shown in Figure 3 below. The provider will then position the patient's breast on top of the mag stand so that the breast is at the correct position between the x-ray tube and the breast platform. The height of the mag stand can vary between 6" and 10", depending on the characteristics of the x-ray beam and the degree of magnification desired. Since the technologist places this accessory on top of the breast platform, it effectively increases the height and thickness of the breast platform. Beginning with a lower breast platform height could help more patients to have access to the mag view. However, the more significant barrier to patients imaged from a seated position is the increased overall size of the platform (from lap to breast) during a mag view, since it would require the patient to have a very tall torso.
 
-![Illustration of a mag stand on top of the breast platform on mammography equipment.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-32.jpg)
+![Illustration of a mag stand on top of the breast platform on mammography equipment.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-32.jpg)
 
 **Figure 3. Diagram of a Mag Stand positioning on the breast platform.**
 
@@ -4471,7 +4471,7 @@ While discussing these issues, the subcommittee also considered positioning meth
 |  Power Wheelchair Users (n=67) |  4.1 | 6.0  | 7.8  | 10.9  | 17.6  | 19.3  | 21.9  |\
 In applying the various positioning considerations along with the data, measurements of 28 inches (full knee and toe clearance above the base support) and 17 inches (clearance underneath the breast platform) would capture nearly everyone. Looking purely at the anthropomorphic data above, these dimensions accommodate ~90% of the population. In adjusting for the needed upright pose, an adjustment of at least 2.5 inches is likely. If so, the equipment accommodates 95% of the population since the difference is ~2.5 inches less than the 95th percentile of the corresponding anthropomorphic dimensions. Members recognized that these dimensions are an optimal blend of accessibility and technical feasibility[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#two) when balanced with the physical design and operation of the equipment,
 
-![Side view diagram of mammography equipment showing dimensions that define the knee and toe space under the breast platform.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-25.jpg)
+![Side view diagram of mammography equipment showing dimensions that define the knee and toe space under the breast platform.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-25.jpg)
 
 **Figure 4. Overview of the critical dimensions that define the knee and toe space underneath the breast platform.**\
 *Relationship of knee and toe space with breast platform*
@@ -4480,11 +4480,11 @@ The shape of the breast platform affects the shape of the knee and toe space. Si
 
 The NPRM proposed measuring the knee clearance under the breast platform at 27 inches above the ground. Industry used this dimension and determined the proportionate height of the breast platform at a height of 34 inches. The subcommittee agreed to this as a "set point" (Identified as "Breast Platform Height" in Figure 5 below). Thus, when the patient's breast is on the breast platform, there must be sufficient knee clearance at 27 inches above the ground ("Knee Height" in Figure 5 below). These dimensions (27 and 34-inch heights) are the same as is defined by the current ADA/ABA accessibility standard to accommodate wheelchair users at desks. The dotted lines in Figure 6 below illustrates this dimension.
 
-![Illustration of the relationship between the breast platform height and the clearance required at the patient's knees.  A dotted lines show the current ADA knee and toe clearance.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-26.jpg)
+![Illustration of the relationship between the breast platform height and the clearance required at the patient's knees.  A dotted lines show the current ADA knee and toe clearance.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-26.jpg)
 
 **Figure 5. Using the height of the top of the breast platform as a setpoint for the knee and toe clearance measurements.**
 
-![Illustration of current ADA/ABA standard to accommodate wheelchair users sitting at desks.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-21.jpg)\
+![Illustration of current ADA/ABA standard to accommodate wheelchair users sitting at desks.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-21.jpg)\
 **Figure 6. Illustration of current ADA/ABA standard to accommodate wheelchair users sitting at desks.**
 
 The two dimensions define the breast platform requirements for a person with the deep knees and a tall wheelchair. When the breast platform lowers to accommodate shorter patients in wheelchairs, there will be ample knee clearance for those patients. Conversely, as the breast platform moves up for patients who have longer torsos, the breast platform will just be moving away from their knees and legs, thus giving them ample space as well.
@@ -4496,7 +4496,7 @@ The NPRM defined the toe clearance at a height of 9 inches. However, as the brea
 Again, normally a toe space dimension defines a static unobstructed space. In this case, in order to get the maximum accessibility out of all the dimensions, the final recommendation requires the dimension of toe clearance is determined at the 34-inch breast platform height (see discussion above). This higher 16 inches measurement (compared to the originally proposed 9 inches toe height) would minimize the chance of the breast platform hitting patients' toes when the breast platform moves to some of its lower heights. Providing this dimension helps define the outer limits of the breast platform configuration in a way that maximizes the dimensions for accessibility.
 
 When considering toe height, it is more convenient to use the anthropomorphic model that defines toe height specifically, shown below in Figure 7 for manual chairs.\
-![Illustration of the anthropomorphic model used to analyze toe height.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-22.jpg)
+![Illustration of the anthropomorphic model used to analyze toe height.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-22.jpg)
 
 **Figure 7. Anthropomorphic model used to analyze toe height.**
 
@@ -4505,7 +4505,7 @@ If the toe height is at 16 inches above the ground when the breast platform is a
 As discussed above, the minimum range of travel for the breast platform is 26 inches to 42 inches. When the top of the breast platform is at its lowest position of 26 inches, there is no need for knee clearance at 27 inches above the ground (knees will be lower than breast height). Defining knee and toe clearances based the lowest height breast platform at 26 inches may compromise taller patients in higher wheelchairs. As such, it is more appropriate to measure the dimensions of the knee and toe space set the breast platform to a higher height to ensure that the greatest required knee and toe clearances. Then, when the breast platform lowers to accommodate smaller patients, there will be more than enough clearance available.
 
 The diagram below illustrates the final knee and toe clearance recommendations (Figure 8).\
-![Side view diagram of mammography equipment showing dimensions that define the knee and toe space under the breast platform.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-23.jpg)
+![Side view diagram of mammography equipment showing dimensions that define the knee and toe space under the breast platform.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-23.jpg)
 
 **Figure 8. Summary of knee and toe clearance recommendations.**
 
@@ -4537,13 +4537,13 @@ At the full committee meeting, there was extensive discussion regarding the addi
 
 The subcommittee agreed on adding an allowance for a sloped region as defined by Figure 10 below. Figure 11 below illustrates this region overlaid with the anthropomorphic data.
 
-![Side view of mammography equipment showing display area located under breast platform on top of the base support.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-28.jpg)**Figure 9. Location of the display area at the base of many mammography machines.**
+![Side view of mammography equipment showing display area located under breast platform on top of the base support.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-28.jpg)**Figure 9. Location of the display area at the base of many mammography machines.**
 
- ![Illustration of final committee recommendation on proposed base support configuration.  Diagram shows a sloped region between 1 1/2 inches and 4 inches above the ground.  The base support height is shown as 1 1/2 maximum at a depth of 25 inches and 4 inches at a depth of 28 inches minimum.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-24.jpg)
+ ![Illustration of final committee recommendation on proposed base support configuration.  Diagram shows a sloped region between 1 1/2 inches and 4 inches above the ground.  The base support height is shown as 1 1/2 maximum at a depth of 25 inches and 4 inches at a depth of 28 inches minimum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-24.jpg)
 
 **Figure 10. Summary of base support recommendations.**
 
-![A charted of the final Committee recommendation on allowable base support configuration overlaid with anthropomorphic data for manual wheelchairs.  The black lines show the areas with no interference between the footrests and caster wheels and the base support interfacevii.  However, based on the technical feasibility and clinical use considerations discussed in the above sections, industry proposed the overlay configuration in red.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-29.jpg)
+![A charted of the final Committee recommendation on allowable base support configuration overlaid with anthropomorphic data for manual wheelchairs.  The black lines show the areas with no interference between the footrests and caster wheels and the base support interfacevii.  However, based on the technical feasibility and clinical use considerations discussed in the above sections, industry proposed the overlay configuration in red.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-29.jpg)
 
 **Figure 11. Base support configuration in red shown over the anthropomorphic data.**
 
@@ -4553,7 +4553,7 @@ The green dots in the above scatter plot illustration represent observed values 
 
 **Summary Figure:** Figure 12 shows the final recommended component dimensions in one diagram.
 
-![Diagram charting a summary of the knee and toe clearance recommended by the Committee.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-25.jpg)\
+![Diagram charting a summary of the knee and toe clearance recommended by the Committee.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-25.jpg)\
 **Figure 12. Summary of final clearance recommendations, to be measured when the top of the breast platform is at 34".**
 
 **Standing Supports [M305.2]**
@@ -4639,12 +4639,12 @@ This is also coupled with the complication of a 6" tall lift clearance window th
 
 Note: In the healthcare setting having a single stretcher type that services a majority of patient conditions is desired. Patients may use stretchers for transport only, however many patients may also require supporting oxygen during transport to and from diagnostic procedures.
 
-![Picture of a stretcher with arrows identifying features in current stretcher design.  The features identified are the standard 4 inches thick mattress, the 5 inches high oxygen tank holder, 3 inches hight drop seat movement, 6 inches lift clearance, brake pedals, 8 inches casters for transport, lift system, and 1 inch mattress support.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-26.jpg)\
+![Picture of a stretcher with arrows identifying features in current stretcher design.  The features identified are the standard 4 inches thick mattress, the 5 inches high oxygen tank holder, 3 inches hight drop seat movement, 6 inches lift clearance, brake pedals, 8 inches casters for transport, lift system, and 1 inch mattress support.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-26.jpg)\
 **Figure 2: View of Stretcher with Oxygen Tank**\
 Note: Oxygen tanks require a minimum of 5" of vertical height in stretcher configuration\
 (Picture provided by Stryker)
 
-![View of Stretcher with Oxygen Tank ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-27.JPG)
+![View of Stretcher with Oxygen Tank ]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-27.JPG)
 
 **M301.2.2, M302.2.2 Transfer Size**
 
@@ -4715,12 +4715,12 @@ o **Rationale:** Currently, and it is envisioned that transfer supports will c
 **Figure 3: Transfer Support Location -- Plan View**\
 (Drawings designef for Access Board by Stryker)
 
-![Stretcher transfer support location 3" max. on opposite side of 28" by 17" transfer surface ](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-13.jpg)
+![Stretcher transfer support location 3" max. on opposite side of 28" by 17" transfer surface ]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-13.jpg)
 
 **Figure 4: Transfer Support Location -- Side View**\
 (Drawings designef for Access Board by Stryker)
 
- ![Side view of a stretcher showing the 6 inches minimum and 19 inches maximum location of the transfer support and the length of 28 inches maximum and 15 inches minimum.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/5-14.jpg)\
+ ![Side view of a stretcher showing the 6 inches minimum and 19 inches maximum location of the transfer support and the length of 28 inches maximum and 15 inches minimum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-14.jpg)\
 **M301.3.2 Stirrups**
 
 **Proposed requirement:**
@@ -4834,11 +4834,11 @@ Weight scales designed for wheelchair use |
 | **Single Ramp Scale**\
 (Diagram provided by US Access Board) | **Dual Ramp Scale**\
 (Picture provided by Scale --Tronix) |
-| ![sd-30](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-30.jpg) | ![Picture of a manual wheelchair seated on the platform of a dual ramp scale.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-31.jpg) |
+| ![sd-30]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-30.jpg) | ![Picture of a manual wheelchair seated on the platform of a dual ramp scale.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-31.jpg) |
 | **Portable Scales**\
 (Picture provided by Scale -Tronix) | **Wall Mounted or "Stow-A-Weigh"**\
 (Picture provided by Scale -- Tronix) |
-| ![Picture of a portable weight scale.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-32.jpg) | ![Picture of a wall mounted foldable weight scale.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-34.JPG) |
+| ![Picture of a portable weight scale.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-32.jpg) | ![Picture of a wall mounted foldable weight scale.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-34.JPG) |
 
 **Sub-Committee Summary of Scope for Recommendations**
 
@@ -5226,7 +5226,7 @@ The univariate analysis examines AD alone and is appropriate when no other clear
 | Female PWC users (n=89) | 21.6 | 24.8  | 28.1 | 30.4 | 36.7 |
 | Male PWC users (n=100) | 24.6 | 27.7 | 31.2 | 32.0 | 34.0 |
 
-![Picture of a boxplot showing the distribution for abdomen depth (inches) across wheelchair type and occupant gender. There is a  dotted line (30.5 in) which depicts the 95th percentile value for female wheelchair users, both manual and power.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-36.jpg)
+![Picture of a boxplot showing the distribution for abdomen depth (inches) across wheelchair type and occupant gender. There is a  dotted line (30.5 in) which depicts the 95th percentile value for female wheelchair users, both manual and power.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-36.jpg)
 
 **Figure 1: Boxplot showing the distribution for abdomen depth (inches) across wheelchair type and occupant gender. The dotted line (30.5 in) depicts the 95th percentile value for female wheelchair users, both manual and power.**
 
@@ -5268,11 +5268,11 @@ Assuming a 30 in. knee clearance depth, sample profiles of flanges based on the 
 
 Further, it can be assumed that individuals that did not have a footrest (over 30% of manual wheelchair users) have some lower extremity mobility and would be able to lift and place their feet on top of the flange/base.
 
-![Picture of a scatter-plot showing observed values footrest height (on the vertical axis) and Castor-Footrest Depth (on the horizontal axis) measured on the right-side for manual wheelchair users referenced to the abdomen point. The grey curves show sample profiles of castor-wheels.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-37.jpg)
+![Picture of a scatter-plot showing observed values footrest height (on the vertical axis) and Castor-Footrest Depth (on the horizontal axis) measured on the right-side for manual wheelchair users referenced to the abdomen point. The grey curves show sample profiles of castor-wheels.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-37.jpg)
 
 **Figure 2: Scatter-plot showing observed values footrest height (on the vertical axis) and Castor-Footrest Depth (on the horizontal axis) measured on the right-side for manual wheelchair users referenced to the abdomen point. The grey curves show sample profiles of castor-wheels.**
 
-![Scatter-plot showing observed values footrest height (on the vertical axis) and Castor-Footrest Depth (on the horizontal axis) measured on the right-side for power wheelchair users referenced to the abdomen point. The grey curves show sample profiles of castors-wheels.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-38.jpg)
+![Scatter-plot showing observed values footrest height (on the vertical axis) and Castor-Footrest Depth (on the horizontal axis) measured on the right-side for power wheelchair users referenced to the abdomen point. The grey curves show sample profiles of castors-wheels.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-38.jpg)
 
 **Figure 3: Scatter-plot showing observed values footrest height (on the vertical axis) and Castor-Footrest Depth (on the horizontal axis) measured on the right-side for power wheelchair users referenced to the abdomen point. The grey curves show sample profiles of castors-wheels.**
 
@@ -5321,7 +5321,7 @@ Thigh breadth was used to provide an estimate of the width of the seating surfac
 
 Inadequate seat width can be more problematic for individuals that have broader hips and/or thighs. As such, the width dimension should be based on the higher end of the sample distribution to provide a sufficient base of support for as large a proportion of the user population as possible (e.g., 95th or 99th percentile). The 95th percentile and maximum values across the 6 sub-groups were within a range of 22in-28in, and the maximum values were within the 26in-30in. range. A minimum width of 30in would therefore ensure that all individuals of our sample would be accommodated in terms of the width of a static seating surface. If the minimum width were reduced to 28 in. only three individuals in our sample would not be accommodated.
 
-![Box-plot showing the distribution for thigh breadth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-39.jpg)
+![Box-plot showing the distribution for thigh breadth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-39.jpg)
 
 **Figure 1:** Box-plot showing the distribution for thigh breadth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.
 
@@ -5333,14 +5333,14 @@ Inadequate seat width can be more problematic for individuals that have broader 
 
 A wider examination table (i.e., greater than 30in.) may be needed if accommodating individuals that are morbidly obese and/or use bariatric wheelchairs is also a priority. Our study sample is not representative in terms of the bariatric wheelchair user population -- i.e., we had only one bariatric wheelchair user in the sample although we did have many people who were quite obese. The outlier values across thigh breadth and shoulder breadth might serve as a reference for determining the needs of morbidly obese individuals who use wheeled mobility devices (e.g., 34 in.).
 
-![Box-plot showing the distribution for shoulder breadth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-40.jpg)
+![Box-plot showing the distribution for shoulder breadth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-40.jpg)
 
 **Figure 2:** Box-plot showing the distribution for shoulder breadth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.\
 **3\. Buttock-Popliteal Length**
 
 For this study, an estimate of buttock-popliteal length was calculated as the horizontal distance from the proximal (rear) edge of the wheelchair seat cushion to the popliteal fossa (i.e., crease at the back of the knee) of the right leg. The median buttock-popliteal length provides an upper bound for the depth of a seating surface. If seat depth is increased beyond this length, it becomes difficult to engage the backrest as well as exerting pressure to the back of the knees. Figure 3 provides a box-plot showing the distribution for shoulder breadth stratified by gender and mobility device type. The median (50th percentile) values for buttock-popliteal length across the 6 sub-groups ranged from 18.5-19.5 in. Seat depths should preferably not exceed these values (see next section for more information).
 
-![Box-plot showing the distribution for approximate buttock-popliteal length stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-41.jpg)
+![Box-plot showing the distribution for approximate buttock-popliteal length stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-41.jpg)
 
 **Figure 3:** Box-plot showing the distribution for approximate buttock-popliteal length stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.
 
@@ -5350,7 +5350,7 @@ For this study, wheelchair seat depth was calculated as the horizontal distance 
 
 The median (50th percentile) values for wheelchair seat depth across the 6 sub-groups ranged from 14-17 in. The proposed guidelines recommend a transfer surface depth of 15in. which is at about the middle of this range and may be appropriate.
 
-![Box-plot showing the distribution for approximate wheelchair seat depth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.](https://www.access-board.gov/images/guidelines_standards/Medical_Equipment/committee-report/sd-42.jpg)
+![Box-plot showing the distribution for approximate wheelchair seat depth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-42.jpg)
 
 **Figure 4:** Box-plot showing the distribution for approximate wheelchair seat depth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.
 
