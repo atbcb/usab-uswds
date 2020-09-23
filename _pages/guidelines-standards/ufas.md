@@ -1,14 +1,12 @@
 ---
-title:  title should be UFAS
-layout: report
+title:  UFAS, 1984
 permalink: /ufas.html
 layout: page-group
-group-title: this is group title
+group-title: Uniform Federal Accessibility Standards
 file: ufas.pdf
 file-directory: /files/ufas/
 file-description: PDF version of UFAS, 7–1–97 Edition
 ---
-# Uniform Federal Accessibility Standards (UFAS), 1984
 [Introduction](#introduction)
 [1. Purpose](#1-purpose)
 
