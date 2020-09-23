@@ -1,0 +1,6 @@
+---
+title: Background
+layout: page
+---
+
+The Rehabilitation Act (section 510), as amended by the Patient Protection and Affordable Care Act, tasked the Access Board with developing accessibility standards for medical diagnostic equipment in consultation with the Food and Drug Administration. To lay the groundwork for this rulemaking, the Board consulted available research, industry standards, and other resources and held a public meeting to gather additional information and input from stakeholders and experts. In 2012, the Board issued proposed standards for public comment. Following the comment period, the Board organized a panel of stakeholders to develop consensus recommendations on how the standards should be finalized according to the comments received. The MDE Accessibility Standards Advisory Committee, whose 24 members included representatives from disability groups, equipment manufacturers, health care providers, and standard-setting organizations, among others, presented its recommendations in a report to the Board the following year. The final standards, which the Board issued in January 2017, are based on the committee’s recommendations and the public comments received on the proposed standards.

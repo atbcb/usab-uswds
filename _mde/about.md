@@ -2,6 +2,8 @@
 title: "About the Medical Diagnostic Equipment Accessibility Standards"
 order-number: 0
 permalink: /mde/
+file: mde-rule.pdf
+file-directory: /files/mde/
 ---
 
 ![exam table]({{ site.baseurl }}/images/mde/mde.jpg){: .float-right .img-med}
