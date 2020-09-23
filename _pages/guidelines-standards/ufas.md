@@ -28,7 +28,7 @@ The UFAS was published in the FEDERAL REGISTER on August 7, 1984 (49 FR 31528). 
 
 [Note: Handbook RE-4, was amended effective April 16, 1986, by the addition of Interim Standards, Section 4.1.8, "Accessible Buildings: Leasing of Space in Existing Buildings." While Handbook RE-4, not UFAS, sets forth the governing standards for Postal facility accessibility. Handbook RE-4 may be further amended.]
 
-# 1. PURPOSE
+## 1. PURPOSE
 
 This document sets standards for facility accessibility by physically handicapped persons for Federal and federally-funded facilities. These standards are to be applied during the design, construction, and alteration of buildings and facilities to the extent required by the Architectural Barriers Act of 1968, as amended.
 
@@ -42,7 +42,7 @@ These standards were jointly developed by the General Services Administration, t
 
 The specifications in these standards are based upon adult dimensions and anthropometrics.
 
-# 3. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS
+## 3. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS
 
 ### 3.1 GRAPHIC CONVENTIONS
 
