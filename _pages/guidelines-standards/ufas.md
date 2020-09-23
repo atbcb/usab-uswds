@@ -1,11 +1,13 @@
 ---
-title: Uniform Federal Accessibility Standards (UFAS)
-layout: page
-sidenav: false
-permalink: /sarahufas.html
+title:  UFAS
+layout: report
+permalink: /ufas.html
+collection-title: Uniform Federal Accessibility Standards (UFAS), 1984
+file: ufas.pdf
+file-directory: /files/ufas/
 ---
 
-# Uniform Federal Accessibility Standards (UFAS)
+# Uniform Federal Accessibility Standards (UFAS), 1984
 
 [Introduction](#introduction)
 [1. Purpose](#1-purpose)
