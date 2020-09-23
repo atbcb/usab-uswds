@@ -4,7 +4,7 @@ layout: page-group
 group-title: Medical Diagnostic Equipment Accessibility Standards Advisory Committee
 order-number: 3
 ---
-**1\. PURPOSE: **This charter establishes the "Medical Diagnostic Equipment Accessibility Standards Advisory Committee" (Committee) for the Architectural and Transportation Barriers Compliance Board (Access Board) in accordance with the Federal Advisory Committee Act (FACA), as amended, 5 U.S.C. App. 2.
+**1\. PURPOSE:** This charter establishes the "Medical Diagnostic Equipment Accessibility Standards Advisory Committee" (Committee) for the Architectural and Transportation Barriers Compliance Board (Access Board) in accordance with the Federal Advisory Committee Act (FACA), as amended, 5 U.S.C. App. 2.
 
 **2\. AUTHORITY:** The establishment of the Committee is in the public interest and supports the Access Board in performing its duties and responsibilities under Section 510 of the Rehabilitation Act (29 USC 794f), as amended by Section 4203 of the Patient Protection and Affordable Care Act (Pub. L. 111-148, 124 Stat. 570).
 
