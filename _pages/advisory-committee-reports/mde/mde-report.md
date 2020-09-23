@@ -1,7 +1,8 @@
 ---
 title:  Final Report
-layout: report
-collection-title: Medical Diagnostic Equipment Accessibility Standards Advisory Committee
+layout: page-group
+group-title: Medical Diagnostic Equipment Accessibility Standards Advisory Committee
+order-number: 1
 ---
 ## Advancing Equal Access to Diagnostic Services: Recommendations on Standards for the Design of Medical Diagnostic Equipment for Adults with Disabilities
 
