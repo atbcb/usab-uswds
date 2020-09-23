@@ -419,4 +419,5 @@ assets:
     - node_modules/stickyfilljs/dist
     - node_modules/video.js/dist
     - node_modules/videojs-youtube/dist
+    - node_modules/anchor-js
     - images

@@ -4,12 +4,17 @@
   src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap.agency}}{% if site.dap.subagency %}&subagency={{site.dap.subagency}}{% endif %}"
 ></script>
 
+<!-- imported js modules -->
 {% asset uswds.min.js %}
 {% asset stickyfill.js %}
 {% asset purify.min.js %}
-{% asset app.js %}
-{% asset toc-subnav.js %}
-{% asset external-links.js %}
+{% asset anchor.min.js %}
 {% asset video.min.js %}
 {% asset Youtube.min.js %}
+
+<!-- local js modules -->
+{% asset app.js %}
+{% asset anchorify.js %}
+{% asset toc-subnav.js %}
+{% asset external-links.js %}
 {% asset datatables.js %}
