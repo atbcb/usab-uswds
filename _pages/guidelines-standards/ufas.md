@@ -1,13 +1,14 @@
 ---
-title:  Uniform Federal Accessibility Standards (UFAS), 1984
+title:  title should be UFAS
 layout: report
 permalink: /ufas.html
+layout: page-group
+group-title: this is group title
 file: ufas.pdf
 file-directory: /files/ufas/
 file-description: PDF version of UFAS, 7–1–97 Edition
-
 ---
-
+# Uniform Federal Accessibility Standards (UFAS), 1984
 [Introduction](#introduction)
 [1. Purpose](#1-purpose)
 
@@ -113,7 +114,7 @@ The specifications in these standards are based upon adult dimensions and anthro
 
 Graphic conventions are shown in Table 1. Dimensions that are not marked "minimum" or "maximum" are absolute, unless otherwise indicated in the text or captions.
 
-![The table describes graphic conventions for showing dimensions on figures between boundary and element lines, how the direction of approach is denoted, centerline designation and boundary of clear floor area. All dimensions are shown in inches above the measure line, with the metric equivalent below. Where the dimension does not fit conveniently between lines, the measure line is extended beyond the lines and the dimension placed above (and below) the extension.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/table1.gif)
+![The table describes graphic conventions for showing dimensions on figures between boundary and element lines, how the direction of approach is denoted, centerline designation and boundary of clear floor area. All dimensions are shown in inches above the measure line, with the metric equivalent below. Where the dimension does not fit conveniently between lines, the measure line is extended beyond the lines and the dimension placed above (and below) the extension.]({{ site.baseurl }}/images/ufas/table1.gif)
 
 **Table 1: Graphic Conventions**
 
@@ -1047,7 +1048,7 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 
 The minimum clear width for single wheelchair passage shall be 32 in (815 mm) at a point and 36 in (915 mm) continuously (see Fig. 1 and 24(e)).
 
-![The minimum clear passage width for a single wheelchair shall be 36 inches (915 mm) minimum along an accessible route, but may be reduced to 32 inches (815 mm) minimum at a point for a maximum depth of 24 inches (610 mm), such as at a doorway.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig1.gif)
+![The minimum clear passage width for a single wheelchair shall be 36 inches (915 mm) minimum along an accessible route, but may be reduced to 32 inches (815 mm) minimum at a point for a maximum depth of 24 inches (610 mm), such as at a doorway.]({{ site.baseurl }}/images/ufas/fig1.gif)
 
 **Figure 1\
 Minimum Clear Width for Single Wheelchair**
@@ -1056,7 +1057,7 @@ Minimum Clear Width for Single Wheelchair**
 
 The minimum width for two wheelchairs to pass is 60 in (1525 mm) (see Fig. 2).
 
-![60" minimum passing space ](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig2.gif)
+![60" minimum passing space ]({{ site.baseurl }}/images/ufas/fig2.gif)
 
 **Figure 2\
 Minimum Clear Width for Two Wheelchairs**
@@ -1065,7 +1066,7 @@ Minimum Clear Width for Two Wheelchairs**
 
 The space required for a wheelchair to make a 180-degree turn is a clear space of 60 in (1525 mm) diameter (see Fig. 3(a)) or a T-shaped space (see Fig. 3(b)).
 
-![60" minimum diameter circle and T-shaped turning space](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig3.gif)
+![60" minimum diameter circle and T-shaped turning space]({{ site.baseurl }}/images/ufas/fig3.gif)
 
 **Figure 3\
 Wheelchair Turning Space**
@@ -1076,7 +1077,7 @@ Wheelchair Turning Space**
 
 The minimum clear floor or ground space required to accommodate a single, stationary wheelchair occupant is 30 in by 48 in (760 mm by 1220 mm) (see Fig. 4(a)). The minimum clear floor or ground space for wheelchairs may be positioned for forward or parallel approach to an object (see Fig. 4(b) and (c)). Clear floor or ground space for wheelchairs may be part of the knee space required under some objects.
 
-![Minimum 30" by 48" clear floor space for wheelchairs with additional clearances shown for clear floor space in alcoves](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig4.gif)
+![Minimum 30" by 48" clear floor space for wheelchairs with additional clearances shown for clear floor space in alcoves]({{ site.baseurl }}/images/ufas/fig4.gif)
 
 **Figure 4\
 Minimum Clear Floor Space for Wheelchairs**
@@ -1093,7 +1094,7 @@ Clear floor or ground spaces for wheelchairs shall comply with 4.5.**
 
 If the clear floor space only allows forward approach to an object, the maximum high forward reach allowed shall be 48 in (1220 mm) (see Fig. 5(a)). The minimum low forward reach is 15 in (380 mm). If the high forward reach is over an obstruction, reach and clearances shall be as shown in Fig. 5(b).
 
-![forward reach ranges (unobstructed and obstructed)](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig5.gif)
+![forward reach ranges (unobstructed and obstructed)]({{ site.baseurl }}/images/ufas/fig5.gif)
 
 **Figure 5\
 Forward Reach**
@@ -1102,7 +1103,7 @@ Forward Reach**
 
 If the clear floor space allows parallel approach by a person in a wheelchair, the maximum high side reach allowed shall be 54 in (1370 mm) and the low side reach shall be no less than 9 in (230 mm) above the floor (Fig. 6(a) and (b)). If the side reach is over an obstruction, the reach and clearances shall be as shown in Fig. 6(c).
 
-![side reach ranges (unobstructed and obstructed)](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig6.gif)
+![side reach ranges (unobstructed and obstructed)]({{ site.baseurl }}/images/ufas/fig6.gif)
 
 **Figure 6\
 Side Reach**
@@ -1127,7 +1128,7 @@ All walks, halls, corridors, aisles, and other spaces that are part of an access
 
 The minimum clear width of an accessible route shall be 36 in (915 mm) except at doors (see 4.13.5). If a person in a wheelchair must make a turn around an obstruction, the minimum clear width of the accessible route shall be as shown in Fig. 7.
 
-![Width of accessible route at 90 degree turn, turn around obstruciton, and changes in level](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig7.gif)
+![Width of accessible route at 90 degree turn, turn around obstruciton, and changes in level]({{ site.baseurl }}/images/ufas/fig7.gif)
 
 **Figure 7\
 Width of Accessible Route**
@@ -1166,53 +1167,53 @@ Accessible routes serving any accessible space or element shall also serve as a 
 
 Objects projecting from walls (for example, telephones) with their leading edges between 27 in and 80 in (685 mm and 2030 mm) above the finished floor shall protrude no more than 4 in (100 mm) into walks, halls, corridors, passageways, or aisles (see Fig. 8(a)). Objects mounted with their leading edges at or below 27 in (685 mm) above the finished floor may protrude any amount (see Fig. 8(a) and (b)). Free-standing objects mounted on posts or pylons may overhang 12 in (305 mm) maximum from 27 in to 80 in (685 mm to 2030 mm) above the ground or finished floor (see Fig. 8(c) and (d)). Protruding objects shall not reduce the clear width of an accessible route or maneuvering space (see Fig. 8(e)).
 
-![Prtruding objects on wall surfaces](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig8a.gif)
+![Prtruding objects on wall surfaces]({{ site.baseurl }}/images/ufas/fig8a.gif)
 
 **Figure 8(a)\
 Protruding Objects\
 Walking Parallel to a Wall**
 
-**![Protruding objects - walking perpendicular to wall](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig8b.gif)**
+**![Protruding objects - walking perpendicular to wall]({{ site.baseurl }}/images/ufas/fig8b.gif)**
 
 **Figure 8(b)\
 Protruding Objects\
 Walking Perpendicular to a Wall**
 
- ![free-standing overhanging objects](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig8c.gif)
+ ![free-standing overhanging objects]({{ site.baseurl }}/images/ufas/fig8c.gif)
 
 **Figure 8(c)\
 Protruding Objects\
 Free-Standing Overhanging Objects**
 
-![Overhead Hazards. As an example, the diagram illustrates a stair whose underside descends across a pathway. Where the headroom is less than 80 inches, protection is offered by a railing (2030 mm) which can be no higher than 27 inches (685 mm) to ensure detectability.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig8c1.gif)
+![Overhead Hazards. As an example, the diagram illustrates a stair whose underside descends across a pathway. Where the headroom is less than 80 inches, protection is offered by a railing (2030 mm) which can be no higher than 27 inches (685 mm) to ensure detectability.]({{ site.baseurl }}/images/ufas/fig8c1.gif)
 
  **Figure 8(c)**\
 **Protruding Objects**\
 **Overhead Hazards**
 
-**![The diagram illustrates an area where an overhang can be greater than 12 inches (305 mm) because the object cannot be approached in the direction of the overhang.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig8d.gif)**
+**![The diagram illustrates an area where an overhang can be greater than 12 inches (305 mm) because the object cannot be approached in the direction of the overhang.]({{ site.baseurl }}/images/ufas/fig8d.gif)**
 
 **Figure 8(d)\
 Protruding Objects\
 Objects Mounted on Posts or Pylons**
 
-![The minimum clear width for continuous passage is 36 inches. Thirty two (32) inches is the minimum clear width for a maximum distance of 24 inches (610 mm). The maximum distance an object can protrude beyond a wing wall is 4 inches (100 mm).](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig8e.gif)
+![The minimum clear width for continuous passage is 36 inches. Thirty two (32) inches is the minimum clear width for a maximum distance of 24 inches (610 mm). The maximum distance an object can protrude beyond a wing wall is 4 inches (100 mm).]({{ site.baseurl }}/images/ufas/fig8e.gif)
 
 **Figure 8(e)\
 Protruding Objects\
 Example of Protection around Wall-Mounted Objects and Measurements of Clear Widths**
 
-**![carpet tile thickness](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig8f.gif)**
+**![carpet tile thickness]({{ site.baseurl }}/images/ufas/fig8f.gif)**
 
 **Figure 8(f)\
 Carpet Tile Thickness**
 
-**![gratings](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig8g.gif)**
+**![gratings]({{ site.baseurl }}/images/ufas/fig8g.gif)**
 
 **Figure 8(g)**\
 **Gratings**
 
-**![grating orientation](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig8h.gif)**
+**![grating orientation]({{ site.baseurl }}/images/ufas/fig8h.gif)**
 
 **Figure 8(h)\
 Grating Orientation**
@@ -1255,7 +1256,7 @@ Parking spaces for disabled people shall be at least 96 in (2440 mm) wide and sh
 
 *EXCEPTION:* If accessible parking spaces for vans designed for handicapped persons are provided, each should have an adjacent access aisle at least 96 in (2440 mm) wide complying with 4.5, Ground and Floor Surfaces.
 
-![The access aisle shall be a minimum of 60 inches (1525 mm) wide. The accessible route connected to the access aisle at the front of the parking spaces shall be a minimum of 36 inches (915 mm).](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig9.gif)
+![The access aisle shall be a minimum of 60 inches (1525 mm) wide. The accessible route connected to the access aisle at the front of the parking spaces shall be a minimum of 36 inches (915 mm).]({{ site.baseurl }}/images/ufas/fig9.gif)
 
 **Figure 9\
 Dimensions of Parking Spaces**
@@ -1268,7 +1269,7 @@ Accessible parking spaces shall be designated as reserved for the disabled by a 
 
 Passenger loading zones shall provide an access aisle at least 60 in (1525 mm) wide and 20 ft (6 m) long adjacent and parallel to the vehicle pull-up space (see Fig. 10). If there are curbs between the access aisle and the vehicle pull-up space, then a curb ramp complying with 4.7 shall be provided. Vehicle standing spaces and access aisles shall be level with surface slopes not exceeding 1:50 in all directions.
 
-![fig10](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig10.gif)
+![fig10]({{ site.baseurl }}/images/ufas/fig10.gif)
 
 **Figure 10\
 Access Aisle at Passenger Loading Zones**
@@ -1287,7 +1288,7 @@ Curb ramps complying with 4.7 shall be provided wherever an accessible route cro
 
 Slopes of curb ramps shall comply with 4.8.2. The slope shall be measured as shown in Fig. 11. Transitions from ramps to walks, gutters, or streets shall be flush and free of abrupt changes. Maximum slopes of adjoining gutters, road surface immediately adjacent to the curb ramp, or accessible route shall not exceed 1.20.
 
-![The ramp slope is a ratio equal to the vertical rise divided by the horizontal run. The adjoining slope at walk or street shall not exceed 1:20.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig11.gif)
+![The ramp slope is a ratio equal to the vertical rise divided by the horizontal run. The adjoining slope at walk or street shall not exceed 1:20.]({{ site.baseurl }}/images/ufas/fig11.gif)
 
 **Figure 11\
 Measurement of Curb Ramp Slopes**
@@ -1304,7 +1305,7 @@ Surfaces of curb ramps shall comply with 4.5.
 
 If a curb ramp is located where pedestrians must walk across the ramp, or where it is not protected by handrails or guardrails, then it shall have flared sides; the maximum slope of the flare shall be 1:10 (see Fig. 12(a)). Curb ramps with returned curbs may be used where pedestrians would not normally walk across the ramp (see Fig. 12(b)).
 
-![If the landing depth at the top of a curb ramp is less than 48 inches, then the slope of the flared side shall not exceed 1:12.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig12a.gif)
+![If the landing depth at the top of a curb ramp is less than 48 inches, then the slope of the flared side shall not exceed 1:12.]({{ site.baseurl }}/images/ufas/fig12a.gif)
 
 **Figure 12(a)\
 Sides of Curb Ramps\
@@ -1312,7 +1313,7 @@ Flared Sides**
 
 Note: If X is less than 48 inches, then the slope of the flared side shall not exceed 1:12.
 
-**![If X is less than 48 inches, then the slope of the flared sideshall not exceed 1:12.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig12b.gif)**
+**![If X is less than 48 inches, then the slope of the flared sideshall not exceed 1:12.]({{ site.baseurl }}/images/ufas/fig12b.gif)**
 
 **Figure 12(b)\
 Sides of Curb Ramps\
@@ -1322,7 +1323,7 @@ Returned Curb**
 
 Built-up curb ramps shall be located so that they do not project into vehicular traffic lanes (see Fig. 13).
 
-![built-up curb ramp](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig13.gif)
+![built-up curb ramp]({{ site.baseurl }}/images/ufas/fig13.gif)
 
 **Figure 13\
 Built-Up Curb Ramp**
@@ -1339,7 +1340,7 @@ Curb ramps shall be located or protected to prevent their obstruction by parked 
 
 Curb ramps at marked crossings shall be wholly contained within the markings, excluding any flared sides (see Fig. 15).
 
-![Curb Ramps at Marked Crossings](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig15.gif)
+![Curb Ramps at Marked Crossings]({{ site.baseurl }}/images/ufas/fig15.gif)
 
 **Figure 15\
 Curb Ramps at Marked Crossings**
@@ -1366,7 +1367,7 @@ Any part of an accessible route with a slope greater than 1:20 shall be consider
 
 The least possible slope shall be used for any ramp. The maximum slope of a ramp in new construction shall be 1:12. The maximum rise for any run shall be 30 in (760 mm) (see Fig. 16). Curb ramps and ramps to be constructed on existing sites or in existing buildings or facilities may have slopes and rises as shown in Table 2 if space limitations prohibit the use of a 1:12 slope or less (see 4.1.6).
 
-![If the slope of a ramp is between 1:12 and 1:16, the maximum rise shall be 30 inches (760 mm) and the maximum horizontal run shall be 30 feet (9 m). If the slope of the ramp is between 1:16 and 1:20, the maximum rise shall be 30 inches (760 mm) and the maximum horizontal run shall be 40 feet (12 m).](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig16.gif)
+![If the slope of a ramp is between 1:12 and 1:16, the maximum rise shall be 30 inches (760 mm) and the maximum horizontal run shall be 30 feet (9 m). If the slope of the ramp is between 1:16 and 1:20, the maximum rise shall be 30 inches (760 mm) and the maximum horizontal run shall be 40 feet (12 m).]({{ site.baseurl }}/images/ufas/fig16.gif)
 
 **Figure 16\
 Components of a Single Ramp Run and Sample Ramp Dimensions**
@@ -1413,7 +1414,7 @@ The cross slope of ramp surfaces shall be no greater than 1:50. Ramp surfaces sh
 
 Ramps and landings with drop-offs shall have curbs, walls, railings, or projecting surfaces that prevent people from slipping off the ramp. Curbs shall be a minimum of 2 in (50 mm) high (see Fig. 17).
 
-![Examples of Edge Protection and Handrail Extensions](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig17.gif)
+![Examples of Edge Protection and Handrail Extensions]({{ site.baseurl }}/images/ufas/fig17.gif)
 
 **Figure 17\
 Examples of Edge Protection and Handrail Extensions**
@@ -1436,7 +1437,7 @@ On any given flight of stairs, all steps shall have uniform riser heights and un
 
 The undersides of nosings shall not be abrupt. The radius of curvature at the leading edge of the tread shall be no greater than 1/2 in (13 mm). Risers shall be sloped or the underside of the nosing shall have an angle not less than 60 degrees from the horizontal. Nosings shall project no more than 1-1/2 in (38 mm) (see Fig. 18).
 
-![Usable Tread Width and Examples of Acceptable Nosings](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig18.gif)
+![Usable Tread Width and Examples of Acceptable Nosings]({{ site.baseurl }}/images/ufas/fig18.gif)
 
 **Figure 18\
 Usable Tread Width and Examples of Acceptable Nosings**
@@ -1447,26 +1448,26 @@ Stairways shall have handrails at both sides of all stairs. Handrails shall comp
 
 (1) Handrails shall be continuous along both sides of stairs. The inside handrail on switchback or dogleg stairs shall always be continuous (see Fig. 19(a) and (b)).
 
-![Stair Handrails - Plan](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig19a.gif)
+![Stair Handrails - Plan]({{ site.baseurl }}/images/ufas/fig19a.gif)
 
 **Figure 19(a)**\
 **Stair Handrails - Plan**
 
 Note: X is the 12 in minimum handrail extension required at each top riser. Y is the minimum handrail extension of 12 in plus the width of one tread that is required at each bottom riser.
 
-![Stair Handrails - Elevation of Center Handrail](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig19b.gif)
+![Stair Handrails - Elevation of Center Handrail]({{ site.baseurl }}/images/ufas/fig19b.gif)
 
 **Figure 19(b)\
 Stair Handrails - Elevation of Center Handrail**
 
- ![Stair Handrails - Extension at Bottom of Run](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig19c.gif)
+ ![Stair Handrails - Extension at Bottom of Run]({{ site.baseurl }}/images/ufas/fig19c.gif)
 
  **Figure 19(c)**\
 **Stair Handrails - Extension at Bottom of Run**
 
 Note: X is the 12 in minimum handrail extension required at each top riser. Y is the minimum handrail extension of 12 in plus the width of one tread that is required at each bottom riser.
 
-![Stair Handrails - Extension at Top of Run](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig19d.gif)
+![Stair Handrails - Extension at Top of Run]({{ site.baseurl }}/images/ufas/fig19d.gif)
 
 **Figure 19(d)\
 Stair Handrails - Extension at Top of Run**
@@ -1507,7 +1508,7 @@ Elevator operation shall be automatic. Each car shall be equipped with a self-le
 
 Call buttons in elevator lobbies and halls shall be centered at 42 in (1065 mm) above the floor. Such call buttons shall have visual signals to indicate when each call is registered and when each call is answered. Call buttons shall be a minimum of 3/4 in (19 mm) in the smallest dimension. The button designating the up direction shall be on top (see Fig. 20). Buttons shall be raised or flush. Objects mounted beneath hall call buttons shall not project into the elevator lobby more than 4 in (100 mm).
 
-![Hoistway and Elevator Entrances](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig20.gif)
+![Hoistway and Elevator Entrances]({{ site.baseurl }}/images/ufas/fig20.gif)
 
 **Figure 20\
 Hoistway and Elevator Entrances**
@@ -1542,7 +1543,7 @@ T = D or T = D
 
 where T = total time in seconds and D = distance (in feet or millimeters) from a point in the lobby or corridor 60 in (1525 mm) directly in front of the farthest call button controlling that car to the centerline of its hoistway door (see Fig. 21). For cars with in-car lanterns, T begins when the lantern is visible from the vicinity of hall call buttons and an audible signal is sounded. The minimum acceptable notification time shall be 5 seconds.
 
-![Graph of Timing Equation](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig21.gif)
+![Graph of Timing Equation]({{ site.baseurl }}/images/ufas/fig21.gif)
 
 **Figure 21\
 Graph of Timing Equation**
@@ -1555,7 +1556,7 @@ The minimum time for elevator doors to remain fully open in response to a car ca
 
 The floor area of elevator cars shall provide space for wheelchair users to enter the car, maneuver within reach of controls, and exit from the car. Acceptable door opening and inside dimensions shall be as shown in Fig. 22. The clearance between the car platform sill and the edge of any hoistway landing shall be no greater than 1-1/4 in (32 mm).
 
-![Minimum Dimensions of Elevator Cars](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig22.gif)
+![Minimum Dimensions of Elevator Cars]({{ site.baseurl }}/images/ufas/fig22.gif)
 
 **Figure 22\
 Minimum Dimensions of Elevator Cars**
@@ -1580,25 +1581,25 @@ Elevator control panels shall have the following features:
 
 (4) Location. Controls shall be located on a front wall if cars have center opening doors, and at the side wall or at the front wall next to the door if cars have side opening doors (see Fig. 23(c) and (d)).
 
-**![The diagram illustrates the symbols used for the following control buttons: main entry floor, door closed, door open, emergency alarm, and emergency stop. The diagram further states that the octagon symbol for the emergency stop shall be raised but the X (inside the octagon) is not.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig23a.gif)**
+**![The diagram illustrates the symbols used for the following control buttons: main entry floor, door closed, door open, emergency alarm, and emergency stop. The diagram further states that the octagon symbol for the emergency stop shall be raised but the X (inside the octagon) is not.]({{ site.baseurl }}/images/ufas/fig23a.gif)**
 
 **Figure 23(a)\
 Car Controls\
 Panel Detail**
 
-![fig23b](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig23b.gif)
+![fig23b]({{ site.baseurl }}/images/ufas/fig23b.gif)
 
 **Figure 23(b)\
 Car Controls\
 Control Height**
 
-[![Alternate Locations of Panel with Center Opening Door](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig23c.gif)](#intro)
+[![Alternate Locations of Panel with Center Opening Door]({{ site.baseurl }}/images/ufas/fig23c.gif)](#intro)
 
 **Figure 23(c)\
 Car Controls\
 Alternate Locations of Panel with Center Opening Door**
 
-![Alternate Locations of Panel with Side Opening Door](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig23d.gif)
+![Alternate Locations of Panel with Side Opening Door]({{ site.baseurl }}/images/ufas/fig23d.gif)
 
 **Figure 23(d)\
 Car Controls\
@@ -1654,31 +1655,31 @@ Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open
 
 *EXCEPTION:* Doors not requiring full user passage, such as shallow closets, may have the clear opening reduced to 20 in (510 mm) minimum.
 
-**![Clear Doorway Width and Depth](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig24a.gif)**
+**![Clear Doorway Width and Depth]({{ site.baseurl }}/images/ufas/fig24a.gif)**
 
 **Figure 24(a)\
 Clear Doorway Width and Depth\
 Detail**
 
-![Clear Doorway Width and Depth](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig24b.gif)
+![Clear Doorway Width and Depth]({{ site.baseurl }}/images/ufas/fig24b.gif)
 
 **Figure 24(b)\
 Clear Doorway Width and Depth\
 Hinged Door**
 
-![Clear Doorway Width and Depth](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig24c.gif)
+![Clear Doorway Width and Depth]({{ site.baseurl }}/images/ufas/fig24c.gif)
 
 **Figure 24(c)\
 Clear Doorway Width and Depth\
 Sliding Door**
 
-**![Clear Doorway Width and Depth](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig24d.gif)**
+**![Clear Doorway Width and Depth]({{ site.baseurl }}/images/ufas/fig24d.gif)**
 
 **Figure 24(d)\
 Clear Doorway Width and Depth\
 Folding Door**
 
-![Clear Doorway Width and Depth](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig24e.gif)
+![Clear Doorway Width and Depth]({{ site.baseurl }}/images/ufas/fig24e.gif)
 
 **Figure 24(e)\
 Clear Doorway Width and Depth\
@@ -1688,9 +1689,9 @@ Maximum Doorway Depth**
 
 Minimum maneuvering clearances at doors that are not automatic or power-assisted shall be as shown in Fig. 25. The floor or ground area within the required clearances shall be level and clear. Entry doors to acute care hospital bedrooms for in-patients shall be exempted from the requirement for space at the latch side of the door (see dimension "x" in Fig. 25) if the door is at least 44 in (1120 mm) wide.
 
-![Maneuvering Clearances at Doo](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/25.gif)
+![Maneuvering Clearances at Doo]({{ site.baseurl }}/images/ufas/25.gif)
 
-![Maneuvering Clearances at Doors](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig25.gif)
+![Maneuvering Clearances at Doors]({{ site.baseurl }}/images/ufas/fig25.gif)
 
 **Figure 25\
 Maneuvering Clearances at Doors**
@@ -1699,7 +1700,7 @@ Maneuvering Clearances at Doors**
 
 The minimum space between two hinged or pivoted doors in series shall be 48 in (1220 mm) plus the width of any door swinging into the space. Doors in series shall swing either in the same direction or away from the space between the doors (see Fig. 26).
 
-![Two Hinged Doors in Series](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig26.gif)
+![Two Hinged Doors in Series]({{ site.baseurl }}/images/ufas/fig26.gif)
 
 **Figure 26\
 Two Hinged Doors in Series**
@@ -1770,22 +1771,22 @@ Controls shall comply with 4.27.4. Unit controls shall be front mounted or side 
 
 (2) Free standing or built-in units not having a clear space under them shall have a clear floor space at least 30 in by 48 in (760 mm by 1220 mm) that allows a person in a wheelchair to make a parallel approach to the unit (see Fig. 27(c) and (d)). This clear floor space shall comply with 4.2.4.
 
-![In addition to clearances discussed in the text, the following knee clearance is required underneath the fountain: 27 inches (685 mm) minimum from the floor to the underside of the fountain which extends 8 inches (205 mm) minimum measured from the front edge underneath the fountain back towards the wall; if a minimum 9 inches (230 mm) of toe clearance is provided, a maximum of 6 inches (150 mm) of the 48 inches (1220 mm) of clear floor space required at the fixture may extend into the toe space.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig27a.gif)
+![In addition to clearances discussed in the text, the following knee clearance is required underneath the fountain: 27 inches (685 mm) minimum from the floor to the underside of the fountain which extends 8 inches (205 mm) minimum measured from the front edge underneath the fountain back towards the wall; if a minimum 9 inches (230 mm) of toe clearance is provided, a maximum of 6 inches (150 mm) of the 48 inches (1220 mm) of clear floor space required at the fixture may extend into the toe space.]({{ site.baseurl }}/images/ufas/fig27a.gif)
 
 **Figure 27(a)\
 Drinking Fountains and Water Coolers - Spout Height and Knee Clearance**
 
-![fig27b](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig27b.gif)
+![fig27b]({{ site.baseurl }}/images/ufas/fig27b.gif)
 
 **Figure 27(b)\
 Drinking Fountains and Water Coolers - Clear Floor Space**
 
-![Drinking Fountains and Water Coolers - Free-Standing Fountain or Cooler](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig27c.gif)
+![Drinking Fountains and Water Coolers - Free-Standing Fountain or Cooler]({{ site.baseurl }}/images/ufas/fig27c.gif)
 
 **Figure 27(c)\
 Drinking Fountains and Water Coolers - Free-Standing Fountain or Cooler**
 
-![Drinking Fountains and Water Coolers - Built-In Fountain or Cooler](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig27d.gif)
+![Drinking Fountains and Water Coolers - Built-In Fountain or Cooler]({{ site.baseurl }}/images/ufas/fig27d.gif)
 
 **Figure 27(d)\
 Drinking Fountains and Water Coolers - Built-In Fountain or Cooler**
@@ -1800,7 +1801,7 @@ Accessible water closets shall comply with 4.16. For water closets in accessible
 
 Clear floor space for water closets not in stalls shall comply with Fig. 28. Clear floor space may be arranged to allow either a left-handed or right-handed approach.
 
-**![For a front transfer to the water closet, the minimum clear floor space at the water closet is a minimum 48 inches (1220 mm) in width by a minimum of 66 inches (1675 mm) in length. For a diagonal transfer to the water closet, the minimum clear floor space is a minimum of 48 inches (1220 mm) in width by a minimum of 56 inches (1420 mm) in length. For a side transfer to the water closet, the minimum clear floor space is a minimum of 60 inches (1525 mm) in width by a minimum of 56 inches (1420 mm) in length.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig28.gif)**
+**![For a front transfer to the water closet, the minimum clear floor space at the water closet is a minimum 48 inches (1220 mm) in width by a minimum of 66 inches (1675 mm) in length. For a diagonal transfer to the water closet, the minimum clear floor space is a minimum of 48 inches (1220 mm) in width by a minimum of 56 inches (1420 mm) in length. For a side transfer to the water closet, the minimum clear floor space is a minimum of 60 inches (1525 mm) in width by a minimum of 56 inches (1420 mm) in length.]({{ site.baseurl }}/images/ufas/fig28.gif)**
 
 **Figure 28\
 Clear Floor Space at Water Closets**
@@ -1813,7 +1814,7 @@ The height of water closets shall be 17 in to 19 in (430 mm to 485 mm), measured
 
 Grab bars for water closets not located in stalls shall comply with Fig. 29 and 4.26.
 
-![Grab Bars at Water Closets](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig29.gif)
+![Grab Bars at Water Closets]({{ site.baseurl }}/images/ufas/fig29.gif)
 
 **Figure 29\
 Grab Bars at Water Closets**
@@ -1842,7 +1843,7 @@ The size and arrangement of toilet stalls shall comply with Fig. 30(a). Toilet s
 
 *EXCEPTION:* In instances of alteration work where provision of a standard stall (Fig. 30(a)) is structurally impracticable or where plumbing code requirements prevent combining existing stalls to provide space, an alternate stall (Fig. 30(b)) may be provided in lieu of the standard stall.
 
-![Clearances and grab bars at toilet stalls](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig30.gif)
+![Clearances and grab bars at toilet stalls]({{ site.baseurl }}/images/ufas/fig30.gif)
 
 **Figure 30\
 Toilet Stalls**
@@ -1887,7 +1888,7 @@ The requirements of 4.19 shall apply to lavatory fixtures, vanities, and built-i
 
 Lavatories shall be mounted with the rim or counter surface no higher than 34 in (865 mm) above the finished floor. Provide a clearance of at least 29 in (735 mm) from the floor to the bottom of the apron. Knee and toe clearance shall comply with Fig. 31.
 
-![In addition to clearances discussed in the text, the following knee clearance is required underneath the lavatory: 27 inches (685 mm) minimum from the floor to the underside of the lavatory which extends 8 inches (205 mm) minimum measured from the front edge underneath the lavatory back towards the wall; if a minimum 9 inches (230 mm) of toe clearance is provided, a maximum of 6 inches (150 mm) of the 48 inches (1220 mm) of clear floor space required at the fixture may extend into the toe space.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig31.gif)
+![In addition to clearances discussed in the text, the following knee clearance is required underneath the lavatory: 27 inches (685 mm) minimum from the floor to the underside of the lavatory which extends 8 inches (205 mm) minimum measured from the front edge underneath the lavatory back towards the wall; if a minimum 9 inches (230 mm) of toe clearance is provided, a maximum of 6 inches (150 mm) of the 48 inches (1220 mm) of clear floor space required at the fixture may extend into the toe space.]({{ site.baseurl }}/images/ufas/fig31.gif)
 
 **Figure 31\
 Lavatory Clearances**
@@ -1896,7 +1897,7 @@ Lavatory Clearances**
 
 A clear floor space 30 in by 48 in (760 mm by 1220 mm) complying with 4.2.4 shall be provided in front of a lavatory to allow forward approach. Such clear floor space shall adjoin or overlap an accessible route and shall extend a maximum of 19 in (485 mm) underneath the lavatory (see Fig. 32).
 
-![The minimum depth of the lavatory is 17 inches (430 mm).](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig32.gif)
+![The minimum depth of the lavatory is 17 inches (430 mm).]({{ site.baseurl }}/images/ufas/fig32.gif)
 
 **Figure 32\
 Clear Floor Space at Lavatories**
@@ -1923,12 +1924,12 @@ Accessible bathtubs shall comply with 4.20. For bathtubs in accessible dwelling 
 
 Clear floor space in front of bathtubs shall be as shown in Fig. 33.
 
-![fig33](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig33.gif)
+![fig33]({{ site.baseurl }}/images/ufas/fig33.gif)
 
 **Figure 33\
 Clear Floor Space at Bathtubs**
 
-**![Grab Bars at Bathtubs](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig34.gif)**
+**![Grab Bars at Bathtubs]({{ site.baseurl }}/images/ufas/fig34.gif)**
 
 **Figure 34\
 Grab Bars at Bathtubs**
@@ -1963,13 +1964,13 @@ Accessible shower stalls shall comply with 4.21. For shower stalls in accessible
 
 Shower stall size and clear floor space shall comply with Fig. 35(a) or (b). The shower stall in Fig. 35(a) shall be 36 in by 36 in (915 mm by 915 mm). The shower stall in Fig. 35(b) will fit into the space required for a bathtub.
 
-[![36-in by 36-in shower stall](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig35a.gif)](#intro)
+[![36-in by 36-in shower stall]({{ site.baseurl }}/images/ufas/fig35a.gif)](#intro)
 
 **Figure 35(a)\
 Shower Size and Clearances\
 36-in by 36-in (915-mm by 915-mm) Stall**
 
-![30-in by 60-in shower stall](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig35b.jpg)
+![30-in by 60-in shower stall]({{ site.baseurl }}/images/ufas/fig35b.jpg)
 
 **Figure 35(b)\
 Shower Size and Clearances\
@@ -1979,12 +1980,12 @@ Shower Size and Clearances\
 
 A seat shall be provided in shower stalls 36 in by 36 in (915 mm by 915 mm) and shall be as shown in Fig. 36. The seat shall be mounted 17 in to 19 in (430 mm to 485 mm) from the bathroom floor and shall extend the full depth of the stall. The seat shall be on the wall opposite the controls. The structural strength of seats and their attachments shall comply with 4.26.3.
 
-![fig36](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig36.gif)
+![fig36]({{ site.baseurl }}/images/ufas/fig36.gif)
 
 **Figure 36\
 Shower Seat Design**
 
-![Grab Bars at Shower Stalls](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig37.gif)
+![Grab Bars at Shower Stalls]({{ site.baseurl }}/images/ufas/fig37.gif)
 
 **Figure 37\
 Grab Bars at Shower Stalls**
@@ -2127,7 +2128,7 @@ A clear floor space at least 30 in by 48 in (760 mm by 1220 mm) complying with 4
 
 Accessible storage spaces shall be within at least one of the reach ranges specified in 4.2.5 and 4.2.6. Clothes rods shall be a maximum of 54 in (1370 mm) from the floor (see Fig. 38).
 
-![Storage Shelves and Closets](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig38.gif)
+![Storage Shelves and Closets]({{ site.baseurl }}/images/ufas/fig38.gif)
 
 **Figure 38\
 Storage Shelves and Closets**
@@ -2146,31 +2147,31 @@ All handrails, grab bars, and tub and shower seats required to be accessible by 
 
 The diameter or width of the gripping surfaces of a handrail or grab bar shall be 1-1/4 in to 1-1/2 in (32 mm to 38 mm), or the shape shall provide an equivalent gripping surface. If handrails or grab bars are mounted adjacent to a wall, the space between the wall and the grab bar shall be 1-1/2 in (38 mm) (see Fig. 39(a), (b), and (c)). Handrails may be located in a recess if the recess is a maximum of 3 in (75 mm) deep and extends at least 18 in (455 mm) above the top of the rail (see Fig. 39(d)).
 
-![Size and Spacing of Handrails and Grab Bars](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig39a.gif)
+![Size and Spacing of Handrails and Grab Bars]({{ site.baseurl }}/images/ufas/fig39a.gif)
 
 **Figure 39(a)\
 Size and Spacing of Handrails and Grab Bars\
 Handrail**
 
-![Size and Spacing of Handrails and Grab Bars](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig39b.gif)
+![Size and Spacing of Handrails and Grab Bars]({{ site.baseurl }}/images/ufas/fig39b.gif)
 
 **Figure 39(b)\
 Size and Spacing of Handrails and Grab Bars\
 Handrail**
 
-![Size and Spacing of Handrails and Grab Bars](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig39c.gif)
+![Size and Spacing of Handrails and Grab Bars]({{ site.baseurl }}/images/ufas/fig39c.gif)
 
 **Figure 39(c)\
 Size and Spacing of Handrails and Grab Bars\
 Handrail**
 
-![Size and Spacing of Handrails and Grab Bars](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig39d.gif)
+![Size and Spacing of Handrails and Grab Bars]({{ site.baseurl }}/images/ufas/fig39d.gif)
 
 **Figure 39(d)\
 Size and Spacing of Handrails and Grab Bars\
 Handrail**
 
-![Size and Spacing of Handrails and Grab Bars](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig39e.gif)
+![Size and Spacing of Handrails and Grab Bars]({{ site.baseurl }}/images/ufas/fig39e.gif)
 
 **Figure 39(e)\
 Size and Spacing of Handrails and Grab Bars\
@@ -2286,7 +2287,7 @@ Characters and symbols shall contrast with their background - either light chara
 
 Accessible facilities required to be identified by 4.1, shall use the international symbol of accessibility. The symbol shall be displayed as shown in Fig. 43.
 
-**![International Symbol of Accessibility](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig43ab.gif)**
+**![International Symbol of Accessibility]({{ site.baseurl }}/images/ufas/fig43ab.gif)**
 
 **Figure 43(a)\
 International Symbol of Accessibility\
@@ -2306,7 +2307,7 @@ Public telephones required to be accessible by 4.1 shall comply with 4.31.
 
 A clear floor or ground space at least 30 in by 48 in (760 mm by 1220 mm) that allows either a forward or parallel approach by a person using a wheelchair shall be provided at telephones (see Fig. 44). The clear floor or ground space shall comply with 4.2.4. Bases, enclosures, and fixed seats shall not impede approaches to telephones by people who use wheelchairs.
 
-![Mounting Heights and Clearances for Telephones](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig44.gif)
+![Mounting Heights and Clearances for Telephones]({{ site.baseurl }}/images/ufas/fig44.gif)
 
 **Figure 44\
 Mounting Heights and Clearances for Telephones**
@@ -2345,7 +2346,7 @@ Fixed or built-in seating, tables, or work surfaces required to be accessible by
 
 If seating spaces for people in wheelchairs are provided at tables, counters, or work surfaces, clear floor space complying with 4.2.4 shall be provided. Such clear floor space shall not overlap knee space by more than 19 in (485 mm) (see Fig. 45).
 
-![Minimum Clearances for Seating and Tables](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig45.gif)
+![Minimum Clearances for Seating and Tables]({{ site.baseurl }}/images/ufas/fig45.gif)
 
 **Figure 45\
 Minimum Clearances for Seating and Tables**
@@ -2368,7 +2369,7 @@ Assembly and associated areas required to be accessible by 4.1 shall comply with
 
 Each wheelchair location shall provide minimum clear ground or floor spaces as shown in Fig. 46.
 
-![Space Requirements for Wheelchair Seating Spaces in Series](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig46.gif)
+![Space Requirements for Wheelchair Seating Spaces in Series]({{ site.baseurl }}/images/ufas/fig46.gif)
 
 **Figure 46\
 Space Requirements for Wheelchair Seating Spaces in Series**
@@ -2491,12 +2492,12 @@ Doors shall not swing into the clear floor space required for any fixture.
 
 (4) The toilet paper dispenser shall be installed within reach as shown in Fig. 47(b).
 
-![Clear Floor Space for Adaptable Bathrooms](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig47a.gif)
+![Clear Floor Space for Adaptable Bathrooms]({{ site.baseurl }}/images/ufas/fig47a.gif)
 
 **Figure 47(a)\
 Clear Floor Space for Adaptable Bathrooms**
 
-![Reinforced Areas for Installation of Grab Bars](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig47b.gif)
+![Reinforced Areas for Installation of Grab Bars]({{ site.baseurl }}/images/ufas/fig47b.gif)
 
 **Figure 47(b)\
 Reinforced Areas for Installation of Grab Bars**
@@ -2521,13 +2522,13 @@ If a bathtub is provided, then it shall have the following features:
 
 (3) Grab bars. Structural reinforcement or other provisions that will allow installation of grab bars shall be provided in the locations shown in Fig. 48. If provided, grab bars shall be installed as shown in Fig. 34 and shall comply with 4.26.
 
-![Location of Grab Bars and Controls of Adaptable Bathrooms - With Seat in Tub](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig48a.gif)
+![Location of Grab Bars and Controls of Adaptable Bathrooms - With Seat in Tub]({{ site.baseurl }}/images/ufas/fig48a.gif)
 
 **Figure 48(a)\
 Location of Grab Bars and Controls\
 of Adaptable Bathrooms - With Seat in Tub**
 
-![Location of Grab Bars and Controls of Adaptable Bathrooms - With Seat at Head of Tub](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig48b.gif)
+![Location of Grab Bars and Controls of Adaptable Bathrooms - With Seat at Head of Tub]({{ site.baseurl }}/images/ufas/fig48b.gif)
 
 **Figure 48(b)\
 Location of Grab Bars and Controls\
@@ -2549,13 +2550,13 @@ If a shower is provided, it shall have the following features:
 
 (3) Grab bars. Structural reinforcement or other provisions that will allow installation of grab bars shall be provided in the locations shown in Fig. 49. If provided, grab bars shall be installed as shown in Fig. 37 and shall comply with 4.26.
 
-![Location of Grab Bars and Controls of Adaptable Showers - 36-in by 36-in Stall](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig49a.gif)
+![Location of Grab Bars and Controls of Adaptable Showers - 36-in by 36-in Stall]({{ site.baseurl }}/images/ufas/fig49a.gif)
 
 **Figure 49(a)**\
 **Location of Grab Bars and Controls**\
 **of Adaptable Showers - 36-in by 36-in Stall**
 
-![Location of Grab Bars and Controls of Adaptable Showers - 30-in by 60-in Stall](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig49b.gif)
+![Location of Grab Bars and Controls of Adaptable Showers - 30-in by 60-in Stall]({{ site.baseurl }}/images/ufas/fig49b.gif)
 
 **Figure 49(b)\
 Location of Grab Bars and Controls\
@@ -2603,7 +2604,7 @@ At least one 30 in (760 mm) section of counter shall provide a work surface that
 
 (5) There shall be no sharp or abrasive surfaces under such counters.
 
-![Counter Work Surface](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig50.gif)
+![Counter Work Surface]({{ site.baseurl }}/images/ufas/fig50.gif)
 
 **Figure 50\
 Counter Work Surface**
@@ -2628,7 +2629,7 @@ The sink and surrounding counter shall comply with the following requirements (s
 
 (8) There shall be no sharp or abrasive surfaces under sinks. Hot water and drain pipes under sinks shall be insulated or otherwise covered.
 
-[![Kitchen Sink](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig51.gif)](#intro)
+[![Kitchen Sink]({{ site.baseurl }}/images/ufas/fig51.gif)](#intro)
 
 **Figure 51\
 Kitchen Sink**
@@ -2641,7 +2642,7 @@ Ranges and cooktops shall comply with 4.34.6.2 and 4.34.6.3. If ovens or cooktop
 
 Ovens shall comply with 4.34.6.2 and 4.34.6.3. Ovens shall be of the self-cleaning type or be located adjacent to an adjustable height counter with knee space below (see Fig. 52). For side-opening ovens, the door latch side shall be next to the open counter space, and there shall be a pull-out shelf under the oven extending the full width of the oven and pulling out not less than 10 in (255 mm) when fully extended. Ovens shall have controls on front panels; they may be located on either side of the door.
 
-**![Ovens without Self-Cleaning Feature](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig52.gif)**
+**![Ovens without Self-Cleaning Feature]({{ site.baseurl }}/images/ufas/fig52.gif)**
 
 **Figure 52\
 Ovens without Self-Cleaning Feature**
@@ -2698,7 +2699,7 @@ In addition to the requirements of 4.1 to 4.33, the design of at least 5 percent
 
 Food service lines shall have a minimum clear width of 36 in (915 mm), with a preferred clear width of 42 in (1065 mm) where passage of stopped wheelchairs by pedestrians is desired. Tray slides shall be mounted no higher than 34 in (865 mm) above the floor. If self-service shelves are provided, a reasonable portion must be within the ranges shown in Fig. 53.
 
-**![Food Service Lines](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig53.gif)**
+**![Food Service Lines]({{ site.baseurl }}/images/ufas/fig53.gif)**
 
 **Figure 53\
 Food Service Lines**
@@ -2707,7 +2708,7 @@ Food Service Lines**
 
 Install tableware, dishware, condiment, food and beverage display shelves, and dispensing devices in compliance with 4.2 (see Fig. 54).
 
-![Tableware Areas](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig54.gif)
+![Tableware Areas]({{ site.baseurl }}/images/ufas/fig54.gif)
 
 **Figure 54\
 Tableware Areas**
@@ -2780,7 +2781,7 @@ At least one lane at each check-out area shall comply with 4.32. Any traffic con
 
 Minimum clear aisle space at card catalogs, magazine displays, or reference stacks shall comply with Fig. 55. Maximum reach height shall comply with 4.2, with a height of 48 in (1370 mm) preferred, irrespective of reach allowed.
 
-**![Card Catalog](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig55.gif)**
+**![Card Catalog]({{ site.baseurl }}/images/ufas/fig55.gif)**
 
 **Figure 55\
 Card Catalog**
@@ -2789,7 +2790,7 @@ Card Catalog**
 
 Minimum clear aisle width between stacks shall comply with 4.3, with a minimum clear aisle width of 42 in (1065 mm) preferred where possible. Shelf height in stack areas is unrestricted (see Fig. 56).
 
-![Stacks](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig56.gif)
+![Stacks]({{ site.baseurl }}/images/ufas/fig56.gif)
 
 **Figure 56\
 Stacks**
@@ -2840,14 +2841,14 @@ This appendix contains additional information that should help the designer to u
 
 (3) Space Requirements for Passing. Able-bodied people in winter clothing, walking straight ahead with arms swinging, need 32 in (815 mm) of width, which includes 2 in (50 mm) on either side for sway, and another 1 in (25 mm) tolerance on either side for clearing nearby objects or other pedestrians. Almost all wheelchair users and those who use walking aids can also manage within this 32 in (815 mm) width for short distances. Thus, two streams of traffic can pass in 64 in (1625 mm) in a comfortable flow. Sixty inches (1525 mm) provide a minimum width for a somewhat more restricted flow. If the clear width is less than 60 in (1525 mm), two wheelchair users will not be able to pass but will have to seek a wider place for passing. Forty-eight inches (1220 mm) is the minimum width needed for an ambulatory person to pass a nonambulatory or semiambulatory person. Within this 48 in (1220 mm) width, the ambulatory person will have to twist to pass a wheelchair user, a person with a seeing eye dog, or a semiambulatory person. There will be little leeway for swaying or missteps (see Fig. A1).
 
-![Minimum Passage Width for One Wheelchair and One Ambulatory Person](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/figa1.gif)
+![Minimum Passage Width for One Wheelchair and One Ambulatory Person]({{ site.baseurl }}/images/ufas/figa1.gif)
 
 **Figure A1\
 Minimum Passage Width for One Wheelchair and One Ambulatory Person**
 
 **A4.2.3 WHEELCHAIR TURNING SPACE.** This standard specifies a minimum space of 60 in (1525 mm) diameter for a pivoting 180-degree turn of a wheelchair. This space is usually satisfactory for turning around, but many people will not be able to turn without repeated tries and bumping into surrounding objects. The space shown in Fig. A2 will allow most wheelchair users to complete U-turns without difficulty.
 
-![Space Needed for Smooth U-Turn in a Wheelchair](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/figa2.gif)
+![Space Needed for Smooth U-Turn in a Wheelchair]({{ site.baseurl }}/images/ufas/figa2.gif)
 
 **Figure A2\
 Space Needed for Smooth U-Turn in a Wheelchair**
@@ -2856,7 +2857,7 @@ The space needed for a smooth U-turn in a wheelchair is 78 inches (1965 mm) mini
 
 **A4.2.4 CLEAR FLOOR OR GROUND SPACE FOR WHEELCHAIRS. **The wheelchair and user shown in Fig. A3 represent typical dimensions for a large adult male. The space requirements in this standard are based upon maneuvering clearances that will accommodate most larger wheelchairs. Fig. A3 provides a uniform reference for design not covered by this standard.
 
-![The height of the handle is at 36 inches (915 mm). The armrest is 30 inches (760 mm) high. Eye level is between 43 and 51 inches (1090-1295 mm). The lap is at 27 inches (685 mm). The seat is at 19 inches (485 mm). The toe is at 8 inches (205 mm). The width of a wheelchair measured from the outer edges of the back wheels is 26 inches (660 mm), the length is 42 inches (1065 mm), the width measured from the outer edges of the footrests is 18 inches (455 mm). The toes extends 6 inches (150 mm) beyond the edge of the footrests.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/figa3.gif)
+![The height of the handle is at 36 inches (915 mm). The armrest is 30 inches (760 mm) high. Eye level is between 43 and 51 inches (1090-1295 mm). The lap is at 27 inches (685 mm). The seat is at 19 inches (485 mm). The toe is at 8 inches (205 mm). The width of a wheelchair measured from the outer edges of the back wheels is 26 inches (660 mm), the length is 42 inches (1065 mm), the width measured from the outer edges of the footrests is 18 inches (455 mm). The toes extends 6 inches (150 mm) beyond the edge of the footrests.]({{ site.baseurl }}/images/ufas/figa3.gif)
 
 **Figure A3\
 Dimensions of Adult-Sized Wheelchairs**
@@ -2865,7 +2866,7 @@ Note: Footrests may extend further for very large people.
 
 **A4.2.5 & A4.2.6 REACH.** Reach ranges for persons seated in wheelchairs may be further clarified by Fig. A3(a). These drawings approximate in the plan view information shown in Fig. 4, 5, and 6 in other views.
 
-![Dimensions of Adult-Sized Wheelchairs](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/figa3a.gif)
+![Dimensions of Adult-Sized Wheelchairs]({{ site.baseurl }}/images/ufas/figa3a.gif)
 
 **Figure A3(a)\
 Dimensions of Adult-Sized Wheelchairs**
@@ -2886,7 +2887,7 @@ Dimensions of Adult-Sized Wheelchairs**
 
 Potential hazardous objects are noticed only if they fall within the detection range of canes (see Fig. A4). Visually impaired people walking toward an object can detect an overhang if its lowest surface is not higher than 27 in (685 mm). When walking alongside projecting objects, they cannot detect overhangs. Since proper cane and guide dog techniques keep people away from the edge of a path or from walks, a slight overhang of no more than 4 in (100 mm) is not hazardous.
 
-**![The forward pace (right and left sweep of a cane) length is between 36 and 60 inches (915-1525 mm).](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/figa4.gif)**
+**![The forward pace (right and left sweep of a cane) length is between 36 and 60 inches (915-1525 mm).]({{ site.baseurl }}/images/ufas/figa4.gif)**
 
 **Figure A4\
 Cane Technique**
@@ -2961,7 +2962,7 @@ In high-rise buildings, air-pressure differentials may require a modification of
 
 **A4.16.4 GRAB BARS. **Fig. A5(a) and (b)show the diagonal and side approaches most commonly used to transfer from a wheelchair to a water closet. Some wheelchair users can transfer from the front of the toilet, while others use a 90-degree approach. Most people who use the two additional approaches can also use either the diagonal approach or the side approach.
 
-![Wheelchair Transfers](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/figa6.gif)
+![Wheelchair Transfers]({{ site.baseurl }}/images/ufas/figa6.gif)
 
 **Figure A5\
 Wheelchair Transfers**
@@ -2994,7 +2995,7 @@ Wheelchair Transfers**
 
 **A4.27.3 HEIGHT. **Fig. A6 further illustrates mandatory and advisory control mounting height provision for typical equipment. Note distinction between built-in equipment (considered real property) and movable equipment (considered chattel, and not covered by the Architectural Barriers Act of 1968).
 
-**![Control Reach Limitations](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/figa8.gif)**
+**![Control Reach Limitations]({{ site.baseurl }}/images/ufas/figa8.gif)**
 
 **Figure A6\
 Control Reach Limitations**
