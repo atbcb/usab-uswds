@@ -7,70 +7,6 @@ file: ufas.pdf
 file-directory: /files/ufas/
 file-description: PDF version of UFAS, 7–1–97 Edition
 ---
-[Introduction](#introduction)
-[1. Purpose](#1-purpose)
-
-**2. GENERAL**
-- [2.1 Authority](#21-authority)
-- [2.2 Provisions for Adults](#22-provisions-for-adults)
-
-**3. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS**
-- [3.1 Graphic Conventions](#31-graphic-conventions)
-- [3.2 Dimensional Tolerances](#32-dimensional-tolerances)
-- [3.3 Notes](#33-notes)
-- [3.4 General Terminology](#34-general-terminology)
-- [3.5 Definitions](#35-definitions)
-
-**4. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS**
-
-- 4.1 Minimum Requirements
-  * [4.1.1 Accessible Sites and Exterior Facilities: New Construction](#411-accessible-sites-and-exterior-facilities-new-construction)
-  * [4.1.2 Accessible Buildings: New Construction](#412-accessible-buildings-new-construction)
-  * [4.1.3 Accessible Housing](#413-accessible-housing)
-  * [4.1.4 Occupancy Classifications](#414-occupancy-classifications)
-  * [4.1.5 Accessible Buildings: Additions](#415-accessible-buildings-additions)
-  * [4.1.6 Accessible Buildings: Alterations](#416-accessible-buildings-alterations)
-  * [4.1.7 Accessible Buildings: Historic Preservation](#417-accessible-buildings-historic-preservation)
-- [4.2 Space Allowance and Reach Ranges](#42-space-allowance-and-reach-ranges)
-- [4.3 Accessible Route](#43-accessible-route)
-- [4.4 Protruding Objects](#44-protruding-objects)
-- [4.5 Ground and Floor Surfaces](#45-ground-and-floor-surfaces)
-- [4.6 Parking and Passenger Loading Zones](#46-parking-and-passenger-loading-zones)
-- [4.7 Curb Ramps](#47-curb-ramps)
-- [4.8 Ramps](#48-ramps)
-- [4.9 Stairs](#49-stairs)
-- [4.10 Elevators](#410-elevators)
-- [4.11 Platform Lifts](#411-platform-lifts)
-- [4.12 Windows](#412-windows)
-- [4.13 Doors](#413-doors)
-- [4.14 Entrances](#414-entrances)
-- [4.15 Drinking Fountains and Water Coolers](#415-drinking-fountains-and-water-coolers)
-- [4.16 Water Closets](#416-water-closets)
-- [4.17 Toilet Stalls](#417-toilet-stalls)
-- [4.18 Urinals](#418-urinals)
-- [4.19 Lavatories and Mirrors](#419-lavatories-and-mirrors)
-- [4.20 Bathtubs](#420-bathtubs)
-- [4.21 Shower Stalls](#421-shower-stalls)
-- [4.22 Toilet Rooms](#422-toilet-rooms)
-- [4.23 Bathrooms, Bathing Facilities, and Shower Rooms](#423-bathrooms-bathing-facilities-and-shower-rooms)
-- [4.24 Sinks](#424-sinks)
-- [4.25 Storage](#425-storage)
-- [4.26 Handrails, Grab Bars, Tub and Shower Seats](#426-handrails-grab-bars-tub-and-shower-seats)
-- [4.27 Controls and Operating Mechanisms](#427-controls-and-operating-mechanisms)
-- [4.28 Alarms](#428-alarms)
-- [4.29 Tactile Warnings](#429-tactile-warnings)
-- [4.30 Signage](#430-signage)
-- [4.31 Telephones](#431-telephones)
-- [4.32 Seating, Tables, and Work Surfaces](#432-seating-tables-and-work-surfaces)
-- [4.33 Assembly Areas](#433-assembly-areas)
-- [4.34 Dwelling Units](#434-dwelling-units)
-
-[5. RESTAURANTS AND CAFETERIAS](#5-restaurants-and-cafeterias)
-[6. HEALTH CARE](#6-health-care)
-[7. MERCANTILE](#7-mercantile)
-[8. LIBRARIES](#8-libraries)
-[9. POSTAL FACILITIES](#9-postal-facilities)
-[APPENDIX](#appendix)
 
 ## Introduction
 
@@ -92,11 +28,11 @@ The UFAS was published in the FEDERAL REGISTER on August 7, 1984 (49 FR 31528). 
 
 [Note: Handbook RE-4, was amended effective April 16, 1986, by the addition of Interim Standards, Section 4.1.8, "Accessible Buildings: Leasing of Space in Existing Buildings." While Handbook RE-4, not UFAS, sets forth the governing standards for Postal facility accessibility. Handbook RE-4 may be further amended.]
 
-## 1. PURPOSE
+# 1. PURPOSE
 
 This document sets standards for facility accessibility by physically handicapped persons for Federal and federally-funded facilities. These standards are to be applied during the design, construction, and alteration of buildings and facilities to the extent required by the Architectural Barriers Act of 1968, as amended.
 
-## 2. GENERAL
+# 2. GENERAL
 
 ### 2.1 AUTHORITY
 
@@ -106,7 +42,7 @@ These standards were jointly developed by the General Services Administration, t
 
 The specifications in these standards are based upon adult dimensions and anthropometrics.
 
-## 3. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS
+# 3. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS
 
 ### 3.1 GRAPHIC CONVENTIONS
 
@@ -238,7 +174,7 @@ The following terms shall, for the purpose of these standards, have the meaning 
 
 *WALK.* An exterior pathway with a prepared surface intended for pedestrian use, including general pedestrian areas such as plazas and courts.
 
-## 4. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS
+# 4. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS
 
 ### 4.1 MINIMUM REQUIREMENTS
 
