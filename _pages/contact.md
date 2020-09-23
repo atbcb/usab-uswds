@@ -19,6 +19,7 @@ Email:  <info@access-board.gov>
 
 <div>
 {% include ta.html %}
+{% include subscribe-news.html float="right" %}
 </div>
 
 ## E-mail Directory
