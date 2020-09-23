@@ -1,14 +1,13 @@
 ---
-title:  UFAS, 1984
 permalink: /ufas.html
 layout: page-group
-group-title: Uniform Federal Accessibility Standards
+group-title: Uniform Federal Accessibility Standards (UFAS), 1984
 file: ufas.pdf
 file-directory: /files/ufas/
 file-description: PDF version of UFAS, 7–1–97 Edition
 ---
 
-## Introduction
+# Introduction
 
 This document presents uniform standards for the design, construction and alteration of buildings so that physically handicapped persons will have ready access to and use of them in accordance with the Architectural Barriers Act, 42 U.S.C. 4151-4157. The document embodies an agreement to minimize the differences between the standards previously used by four agencies (the General Services Administration, the departments of Housing and Urban Development and Defense, and the United States Postal Service) that are authorized to issue standards under the Architectural Barriers Act, and between those standards and the access standards recommended for facilities that are not federally funded or constructed.
 
@@ -32,7 +31,7 @@ The UFAS was published in the FEDERAL REGISTER on August 7, 1984 (49 FR 31528). 
 
 This document sets standards for facility accessibility by physically handicapped persons for Federal and federally-funded facilities. These standards are to be applied during the design, construction, and alteration of buildings and facilities to the extent required by the Architectural Barriers Act of 1968, as amended.
 
-# 2. GENERAL
+## 2. GENERAL
 
 ### 2.1 AUTHORITY
 
