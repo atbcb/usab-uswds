@@ -1,13 +1,12 @@
 ---
-title:  UFAS
+title:  Uniform Federal Accessibility Standards (UFAS), 1984
 layout: report
 permalink: /ufas.html
-collection-title: Uniform Federal Accessibility Standards (UFAS), 1984
 file: ufas.pdf
 file-directory: /files/ufas/
----
+file-description: PDF version of UFAS, 7–1–97 Edition
 
-# Uniform Federal Accessibility Standards (UFAS), 1984
+---
 
 [Introduction](#introduction)
 [1. Purpose](#1-purpose)
