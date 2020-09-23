@@ -11,7 +11,7 @@ permalink: /sarahufas.html
 [1. Purpose](#1-purpose)
 
 **2. GENERAL**
-- [2.1 Authority](#ufas-2_1-authority)
+- [2.1 Authority](#ufas-21-authority)
 - [2.2 Provisions for Adults](#22-provisions-for-adults)
 
 **3. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS**
@@ -98,7 +98,7 @@ This document sets standards for facility accessibility by physically handicappe
 
 ## 2. GENERAL
 
-<h3 id="ufas-2_1-authority">2.1 AUTHORITY</h3>
+<h3 id="ufas-21-authority">2.1 AUTHORITY</h3>
 
 These standards were jointly developed by the General Services Administration, the Department of Housing and Urban Development, the Department of Defense, and the United States Postal Service, under the authority of sections 2, 3, 4, and 4a, respectively, of the Architectural Barriers Act of 1968, as amended, Pub. L. No. 90-480, 42 U.S.C. 4151-4157.
 
@@ -1048,7 +1048,7 @@ The minimum clear width for single wheelchair passage shall be 32 in (815 mm) at
 
 ![The minimum clear passage width for a single wheelchair shall be 36 inches (915 mm) minimum along an accessible route, but may be reduced to 32 inches (815 mm) minimum at a point for a maximum depth of 24 inches (610 mm), such as at a doorway.](https://www.access-board.gov/images/guidelines_standards/Buildings_Sites/ufas/fig1.gif)
 
-**Figure 1\ 
+**Figure 1\
 Minimum Clear Width for Single Wheelchair**
 
 #### 4.2.2 WIDTH FOR WHEELCHAIR PASSING
