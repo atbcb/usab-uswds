@@ -23,10 +23,21 @@ The next committee and Board meetings will be:
 
 We have transitioned to a virtual format using [Zoom for Government](https://zoomgov.com).
 
-Meetings were typically held at the Board’s [conference space](venue.html) at 1331 F Street NW, Suite 800, in downtown Washington, DC.
+Meetings were typically held at the Board’s conference space at 1331 F Street NW, Suite 800, in downtown Washington, DC.
 For the comfort of all participants and to promote a [fragrance-free](policy/ffe.html) environment, attendees are requested not to use perfume, cologne, or other fragrances.
 
 The Board usually substitutes one of its meetings each year for a town hall forum outside Washington, DC.
+
+## Board Conference Space
+
+![photo of board meeting in conference space]({{ site.baseurl }}/images/conf-space.jpg){: .img-right}
+
+Board meetings and other events are held at the Board’s conference space at 1331 F Street NW, Suite 800, in downtown Washington, DC.&nbsp;
+The 2,720 square foot space, which is located two floors below the Board’s 10th floor offices, features an integrated assistive listening loop system that fully covers meeting and spectator areas, ceiling-mounted projectors, automated projection screens, supplementary monitors, and topical artwork.
+
+See our Contact Us page for [location and directions]({{ site.baseurl }}/contact/#location-and-directions).
+
+To inquire about use of the space, please contact [Rose Marie Bunales](mailto:bunales@access-board.gov).
 
 ## Upcoming Board Meetings
 
