@@ -55,7 +55,7 @@ The Board is currently finalizing the guidelines for public rights-of-way and sh
 
 *Projects Funded by the Federal Highway Administration*
 
-The Federal Highway Administration (FHWA) also encourages the provision of detectable warnings on curb ramps and blended transitions in projects it funds. This policy is established in a FHWA [memorandum](http://www.fhwa.dot.gov/environment/bicycle_pedestrian/guidance/accessibility_guidance/dwm.cfm).
+The Federal Highway Administration (FHWA) also encourages the provision of detectable warnings on curb ramps and blended transitions in projects it funds. This policy is established in a FHWA [memorandum](https://www.fhwa.dot.gov/environment/bicycle_pedestrian/resources/dwm.cfm).
 
 **Further Information**
 
