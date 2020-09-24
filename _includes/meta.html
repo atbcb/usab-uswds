@@ -16,7 +16,16 @@ site, this is the place to do it.
   <meta name="viewport" content="width=device-width, initial-scale=1.0">
   <!-- Title and meta description
     ================================================== -->
-  <title>{{page.title}}</title>
+  <title>
+    {% if page.title %}
+      {{ page.title}}
+    {{ else }}
+      {{ site.title }}
+    {% endif %}
+    {% if paginator %}
+      - page {{ paginator.page }}
+    {% endif %}
+  </title>
   <meta property="og:title" content="{{site.title}} - {{page.title}}">
   <meta name="description" content="{{site.description}}">
   <meta property="og:description" content="{{site.description}}">
