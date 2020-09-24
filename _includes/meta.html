@@ -19,11 +19,11 @@ site, this is the place to do it.
   <title>
     {% if page.title %}
       {{ page.title}}
-    {{ else }}
+    {% else %}
       {{ site.title }}
     {% endif %}
     {% if paginator %}
-      - page {{ paginator.page }}
+      {{ paginator.title }}
     {% endif %}
   </title>
   <meta property="og:title" content="{{site.title}} - {{page.title}}">
