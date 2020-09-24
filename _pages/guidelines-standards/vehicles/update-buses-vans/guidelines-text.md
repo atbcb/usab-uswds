@@ -65,13 +65,13 @@ Appendix A to Part 1192---Accessibility Guidelines for Buses, Over-the-Road Buse
 
 **CHAPTER 2: SCOPING REQUIREMENTS**
 
-[T201 General](#t201-general)
+[T201 Scope](#t201-scope)
 [T202 Accessible Means of Boarding and Alighting](#t202-accessible-means-of-boarding-and-alighting)
 [T203 Steps](#t203-steps)
 [T204 Doorways](#t204-doorways)
 [T205 Illumination](#t205-illumination)
-[T206 Handrails, Stanchions, and Handholds](#t206-handrails-stanchions-and-handholds)
-[T207 Circulation Paths](#t207-circulation-paths)
+[T206 Circulation Paths](#t206-circulation-paths)
+[T207 Handrails, Stanchions, and Handholds](#t207-handrails-stanchions-and-handholds)
 [T208 Passenger Access Routes](#t208-passenger-access-routes)
 [T209 Fare Collection Devices](#t209-fare-collection-devices)
 [T210 Wheelchair Spaces](#t210-wheelchair-spaces)
