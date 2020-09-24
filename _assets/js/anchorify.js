@@ -25,6 +25,29 @@
   }
 })();
 
+$( document ).ready(function() {
+  $( ".anchorjs-link" ).click(function() {    
+    var pageurl = window.location.href;
+    console.log(pageurl);
+    var pageurl = pageurl.split('#')[0];
+    console.log(pageurl);
+    ext = $(this).attr('href');
+    console.log(ext);
+    url = pageurl+ext;
+    console.log(url);
+    var temp = document.createElement('input');
+document.body.appendChild(temp);
+
+temp.value = url;
+temp.select();
+document.execCommand('copy');
+document.body.removeChild(temp);
+
+
+  });
+  
+  });
+
 // Previous example
 // function copyLink(buttonID) {
 //   //	console.log(buttonID);
