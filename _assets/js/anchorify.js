@@ -5,48 +5,32 @@
   });
 
   anchors.add();
-
-  // Figure out how to update the clipboard on each click
-  function copy(element) {
-    return function (event) {
-      const href = element.href;
-      let tmpElement = document.createElement("textarea");
-      tmpElement.innerText = href;
-      tmpElement.select();
-      document.execCommand("copy");
-    }
-  }
-
-  const anchorLinks = document.getElementsByClassName("anchorjs-link");
-
-  for (let i = 0; i < anchorLinks.length; i++) {
-    const anchorLink = anchorLinks[i];
-    anchorLink.addEventListener('click', copy(anchorLink));
-  }
 })();
 
 $( document ).ready(function() {
   $( ".anchorjs-link" ).click(function() {    
     var pageurl = window.location.href;
     console.log(pageurl);
-    var pageurl = pageurl.split('#')[0];
+    var pageurl = pageurl.split('#')[0]; //base page link
     console.log(pageurl);
-    ext = $(this).attr('href');
+    ext = $(this).attr('href'); //specific extension  #XYZ
     console.log(ext);
-    url = pageurl+ext;
+    url = pageurl+ext; //link you want to copy
     console.log(url);
+
+    //Copy To clipboard
     var temp = document.createElement('input');
-document.body.appendChild(temp);
+    document.body.appendChild(temp);
+    temp.value = url;
+    temp.select();
+    document.execCommand('copy');
+    document.body.removeChild(temp);
 
-temp.value = url;
-temp.select();
-document.execCommand('copy');
-document.body.removeChild(temp);
+    //visible alert
 
 
   });
-  
-  });
+});
 
 // Previous example
 // function copyLink(buttonID) {
