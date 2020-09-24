@@ -10,6 +10,10 @@ permalink: /contact/
 
 **United States Access Board**  
 
+<div style="float:right">
+{% include subscribe-news.html %}
+</div>
+
 1331 F Street NW, Suite 1000  
 Washington, DC  20004-1111  
 Phone (voice):  202-272-0080, toll free:  800-872-2253  
@@ -17,9 +21,16 @@ Phone (tty):  202-272-0082, toll free:  800-993-2822
 Fax:  202-272-0081  
 Email:  <info@access-board.gov>
 
-<div>
-{% include ta.html %}
-</div>
+## Technical Assistance
+
+If you have questions on these accessibility guidelines and standards call or email:
+
+-   800-872-2253 (voice)
+-   800-993-2822 (tty)
+-   <ta@access-board.gov>
+
+*Technical assistance is available 10:00 -- 5:00 ET weekdays.*
+
 
 ## E-mail Directory
 
