@@ -99,18 +99,19 @@ If you have questions on these accessibility guidelines and standards call or em
 
 ## Location and Directions
 
-The Board's offices and meeting space are located in downtown Washington, DC on F Street, NW, mid-block between 13th and 14th streets.  Metro Center is the closest metro station which has entrances/exits at 12th and G Streets (elevator), 13th and G Streets (escalator and stairs), and 12th and F Streets (escalator and stairs).
+The Board's offices and meeting space are located in downtown Washington, DC on F Street, Northwest, mid-block between 13th and 14th streets.&nbsp;
+Metro Center is the closest metro station and has entrances/exits at:&nbsp; 12th and G Streets (elevator), 13th and G Streets (escalator and stairs), and 12th and F Streets (escalator and stairs).
 
 ![map of downtown DC showing Board location on F Street]({{ site.baseurl }}/images/map2.jpg)
 
 ### Directions from Metro:
 
-Metro Stop:  [Metro Center](https://www.wmata.com/rider-guide/stations/metro-center.cfm) (red, orange, blue lines)
+Metro Stop:&nbsp; [Metro Center](https://www.wmata.com/rider-guide/stations/metro-center.cfm) (red, orange, blue lines)
 
 Use exit at:
 
-- 12th & G Streets (go 1 block south to F Street, turn right and go 1½ blocks west)
-- 13th & G Streets (go 1 block south to F Street, turn right and go ½ block west), or
-- 12th & F Streets (go 1½ blocks west along F Street past 13th Street)
+- 12th & G Streets (go 1 block south to F Street, turn right and go 1½ blocks west);
+- 13th & G Streets (go 1 block south to F Street, turn right and go ½ block west); or
+- 12th & F Streets (go 1½ blocks west along F Street past 13th Street).
 
-![detail of map showing Board office on F Street, north side, mid-block between 13th and 14th Streets, NW]({{ site.baseurl }}/images/map1.jpg)
+![detail of map showing Board office on F Street, north side, mid-block between 13th and 14th Streets, NW DC]({{ site.baseurl }}/images/map1.jpg)
