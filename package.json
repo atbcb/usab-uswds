@@ -16,6 +16,7 @@
     "anchor-js": "^4.2.2",
     "dompurify": "^2.0.14",
     "jekyll": "^3.0.0-beta1",
+    "jquery": "^3.5.1",
     "netlify-cms": "^2.10.23",
     "stickyfilljs": "^2.1.0",
     "uswds": "^2.8.0",

@@ -420,4 +420,5 @@ assets:
     - node_modules/video.js/dist
     - node_modules/videojs-youtube/dist
     - node_modules/anchor-js
+    - node_modules/jquery/dist
     - images
