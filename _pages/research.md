@@ -7,7 +7,7 @@ permalink: /research/
 
 # {{ page.title }}
 
-<img src="../img/vitruvian_man.jpg" alt="stylized reach range diagram based on da Vinci Vitruvian Man sketch" align="right">
+![stylized reach range diagram based on da Vinci Vitruvian Man sketch]({{ site.baseurl }}/image/vitruvian_man.jpg"){: .img-right}
 
 The Board’s research program is focused on the study of accessibility relating to architecture and design, communication, and transportation.&nbsp;
 A key mission of the Board is developing and maintaining accessibility guidelines and standards under several different laws, including the Americans with Disabilities Act (ADA).&nbsp;
