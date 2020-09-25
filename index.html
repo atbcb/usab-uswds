@@ -16,12 +16,12 @@ We recommend splitting apart your site's components into their own smaller secti
 manage in the long term.
 {% endcomment %}
 
-<script>
-  document.title={{ page.title }};
-</script>
 {% comment %}
     not using include hero
 {% include_cached hero.html %}
 {% endcomment %}
 {% include_cached highlights.html %}
 {% include_cached tagline.html %}
+<script>
+  document.title="{{ page.title }}";
+</script>
