@@ -27,7 +27,7 @@ $( document ).ready(function() {
     document.body.removeChild(temp);
 
     //visible alert
-
+    alert('Copied Link to Clipboard');
 
   });
 });
