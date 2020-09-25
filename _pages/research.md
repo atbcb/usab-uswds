@@ -7,7 +7,7 @@ permalink: /research/
 
 # {{ page.title }}
 
-<img src="../img/vitruvian_man.jpg" alt="stylized reach range diagram based on da Vinci Vitruvian Man sketch" align="right">
+![stylized reach range diagram based on da Vinci Vitruvian Man sketch]({{ site.baseurl }}/images/vitruvian_man.jpg){: .img-right}
 
 The Board’s research program is focused on the study of accessibility relating to architecture and design, communication, and transportation.&nbsp;
 A key mission of the Board is developing and maintaining accessibility guidelines and standards under several different laws, including the Americans with Disabilities Act (ADA).&nbsp;
@@ -19,11 +19,9 @@ As such, they represent the analysis and views of the contractors only and are n
 
 The Board welcomes information on research initiatives related to accessibility and accessible design.&nbsp;
 The Board maintains a strong interest in coordinating research with other entities and in exploring potential partnerships.&nbsp;
-For more information about the Board’s research program, contact Dave Yanchulis, Director of the Office of Technical and Information Services, at [ta@access-board.gov](mailto:ta@access-board.gov).
-
+For more information about the Board’s research program, contact Dave Yanchulis, Director of the Office of Technical and Information Services, at <ta@access-board.gov>.
 
 ---
-
 
 ## Completed Research
 ### Building Elements and Spaces
