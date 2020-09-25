@@ -17,24 +17,21 @@ site, this is the place to do it.
   <!-- Title and meta description
     ================================================== -->
   <title>
-    {% if page.title %}
+    {% if paginator %}
+      {{ paginator.title }} - page {{ paginator.page }} of {{ paginator.total_pages }}
+    {% elsif page.title %}
       {{ page.title}}
     {% else %}
       {{ site.title }}
-    {% endif %}
-    {% if paginator %}
-      {{ paginator.title }}
     {% endif %}
   </title>
   <meta property="og:title" content="{{site.title}} - {{page.title}}">
   <meta name="description" content="{{site.description}}">
   <meta property="og:description" content="{{site.description}}">
-
   <meta name="twitter:card" content="summary" />
   <meta name="twitter:site" content="@{{site.twitter}}" />
   <meta name="twitter:title" content="{{site.title}}" />
   <meta name="twitter:description" content="{{site.description}}" />
-
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
