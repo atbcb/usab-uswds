@@ -12,7 +12,7 @@ permalink: /prowag/detectable-warnings-update.html
 
 **ADA and ABA Accessibility Standards**
 
-Standards issued under the Americans with Disabilities Act (ADA) include requirements for detectable warnings, as do similar standards issued under the Architectural Barriers Act (ABA) for federally funded facilities. Specifications in the [ADA Standards](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/ada-standards) and the [ABA Standards](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards) address spacing, height, and diameter of truncated domes to ensure a distinctive yet uniform texture to the warning surface (§705). They also require that detectable warning surfaces contrast visually with adjacent walking surfaces either light-on-dark, or dark-on-light. Detectable warnings are required on curb ramps at certain transportation facilities and at rail station boarding platforms with unprotected drop-offs.
+Standards issued under the Americans with Disabilities Act (ADA) include requirements for detectable warnings, as do similar standards issued under the Architectural Barriers Act (ABA) for federally funded facilities. Specifications in the [ADA Standards]({{ site.baseurl }}/ada/) and the [ABA Standards]({{ site.baseurl }}/aba/) address spacing, height, and diameter of truncated domes to ensure a distinctive yet uniform texture to the warning surface (§705). They also require that detectable warning surfaces contrast visually with adjacent walking surfaces either light-on-dark, or dark-on-light. Detectable warnings are required on curb ramps at certain transportation facilities and at rail station boarding platforms with unprotected drop-offs.
 
 *Curb Ramps: Public Transportation Facilities*
 
@@ -35,7 +35,7 @@ Other types of facilities covered by the ADA are subject to standards issued by 
  |
 |  ![DOT logo](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/dw-update/dw6.jpg) |
 
-The Access Board is developing new accessibility guidelines for public rights-of-ways. These guidelines will address newly constructed and altered public streets, sidewalks, and shared use paths covered by the ADA and, in the case of those that are federally funded, the ABA. In 2011, the Board released for public comment [proposed guidelines](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines) which address pedestrian access to sidewalks and streets, including crosswalks, curb ramps, street furnishings, pedestrian signals, parking, and other components of public rights-of-way.
+The Access Board is developing new accessibility guidelines for public rights-of-ways. These guidelines will address newly constructed and altered public streets, sidewalks, and shared use paths covered by the ADA and, in the case of those that are federally funded, the ABA. In 2011, the Board released for public comment [proposed guidelines]({{ site.baseurl }}/prowag/) which address pedestrian access to sidewalks and streets, including crosswalks, curb ramps, street furnishings, pedestrian signals, parking, and other components of public rights-of-way.
 
 *Proposed Requirements for Detectable Warnings*
 
@@ -63,8 +63,8 @@ Further guidance on accessible public rights-of-way and detectable warnings is a
 
 *Related Board Resources*
 
--   [Proposed Guidelines for Public Rights-of-Ways](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines) (2011)
--   [Supplemental Notice of Proposed Rulemaking on Shared Use Paths](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice) (2013)
+-   [Proposed Guidelines for Public Rights-of-Ways]({{ site.baseurl }}/prowag/) (2011)
+-   [Supplemental Notice of Proposed Rulemaking on Shared Use Paths]({{ site.baseurl }}/prowag/) (2013)
 -   [List of Detectable Warning Manufacturers](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/manufacturers-of-detectable-warning-products)
 -   [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments](https://www.access-board.gov/research/completed-research/visual-detection-of-detectable-warning-materials) (Board funded research)
 
