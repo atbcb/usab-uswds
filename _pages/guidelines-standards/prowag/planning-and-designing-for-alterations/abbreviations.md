@@ -1,0 +1,30 @@
+---
+title: Abbreviations
+order-number: 1
+group-title: Planning and Design for Alterations
+---
+
+<h2>Abbreviations</h2>
+<blockquote>
+<p>AASHTO—American Association of State Highway and Transportation Officials</p>
+<p>ADA—Americans with Disabilities Act</p>
+<p>ADAAG—ADA Accessibility Guidelines</p>
+<p>APS—Accessible Pedestrian Signal(s)</p>
+<p>APWA—American Public Works Association</p>
+<p>CIP—Capital Improvement Program</p>
+<p>DOJ/USDOJ—United States Department of Justice</p>
+<p>DOT/USDOT—United States Department of Transportation</p>
+<p>DWS—Detectable Warning Surfaces</p>
+<p>FHWA—Federal Highway Administration</p>
+<p>ITE—Institute of Transportation Engineers</p>
+<p>MUTCD—Manual on Uniform Traffic Control Devices</p>
+<p>NCHRP—National Cooperative Highway Research Program</p>
+<p>PAR—Pedestrian Access Route</p>
+<p>PBIC – Pedestrian and Bicycle Information Center (<a href="http://www.pedbikeinfo.org">http://www.pedbikeinfo.org</a>), an FHWA grantee/<br> transportation institute at the University of North Carolina. The PBIC is made up of the core staff of<br> professionals at the UNC Highway Safety Research Center, including engineers and planners who are<br> knowledgeable on walking and bicycling issues.</p>
+<p>PROWAAC—Public Rights-of-Way Access Advisory Committee</p>
+<p>PROWAG—Draft Proposed Right-of-Way Accessibility Guidelines</p>
+<p>STIP—State Transportation Improvement Program</p>
+<p>STP—Surface Transportation Program</p>
+<p>TIP—Transportation Improvement Program</p>
+<p>Title II—ADA implementing regulation for title II, as printed in the Federal Register (7/26/91).<br> The Department of Justice’s regulation implementing Title II, Subtitle A, of the ADA, which prohibits<br> discrimination on the basis of disability in all services, programs, and activities provided to the public by<br> State and local governments, except public transportation services (which are covered by Subtitle B, the DOT<br> regulation).</p>
+</blockquote>	</div>
