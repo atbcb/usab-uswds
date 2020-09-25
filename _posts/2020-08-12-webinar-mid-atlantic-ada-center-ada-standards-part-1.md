@@ -2,7 +2,7 @@
 layout: post
 title: 'Webinar: Mid-Atlantic ADA Center - Part 1'
 date: 'August 12, 2020'
-image: mid-atlantic-ada-center.gif
+image: /images/mid-atlantic-ada-center.gif
 image_alt_text: Mid-Atlantic ADA Center logo
 authors:
   - dave-yanchulis
