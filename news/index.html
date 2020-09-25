@@ -5,7 +5,7 @@ pagination:
   enabled: true
   title: News
 ---
-{% include section-title.html title= "News" %}
+{% include section-title.html title="News - page {{ paginator.page }} of {{ paginator.total_pages }}" %}
 <div class="grid-container maxw-desktop">
   <div class="grid-row">
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
