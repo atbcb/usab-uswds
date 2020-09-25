@@ -9,7 +9,7 @@ authors:
   - bill-botton
 tags:
   - trainings
-webinar: false
+webinar: true
 webinar-start: 'September 21, 2020 12:00 AM'
 ---
 

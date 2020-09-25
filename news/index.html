@@ -6,13 +6,14 @@ pagination:
   title: News
 ---
 
-{% include section-title.html title= "Access in the News" %}
+{% include section-title.html title= "News" %}
 
 <div class="grid-container maxw-desktop">
   <div class="grid-row">
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
       <!-- This loops through the paginated posts -->
       {% for post in paginator.posts %}
+      {% if post.webinar == false %}
       <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
         <h3 class="title">
           <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
@@ -38,6 +39,7 @@ pagination:
               make sure the content is on each post header {% endcomment %}
         </div>
       </div>
+      {% endif %}
       {% endfor %}
       {% include back-to-top.html %}
       <!-- Pagination links -->
