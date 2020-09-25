@@ -6,7 +6,7 @@ excerpt: 'Training on Signage, Section 504 Interagency Working Group'
 authors:
   - dave-yanchulis
   - sarah-presley
-webinar: false
+webinar: true
 webinar-start: 'September 23, 2020 12:00 AM'
 ---
 
