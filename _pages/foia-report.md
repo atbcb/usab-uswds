@@ -80,7 +80,7 @@ permalink: /about/foia-report.html
     9.  **Exemption 9:**  geological information on wells
 3.  Agency Component Abbreviations
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Component Abbreviation</th>
@@ -99,7 +99,7 @@ permalink: /about/foia-report.html
 
 ## IV.  Exemption 3 Statutes
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Statute</th>
@@ -128,7 +128,7 @@ permalink: /about/foia-report.html
 
 ### V.A.  FOIA REQUESTS — RECEIVED, PROCESSED AND PENDING FOIA REQUESTS
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -158,7 +158,7 @@ permalink: /about/foia-report.html
 
 ### V.B.(1).  DISPOSITION OF FOIA REQUESTS — ALL PROCESSED REQUESTS
 
-<table class="data overflow-scroll">
+<table class="usa-table" style="overflow-x:scroll !important;">
 <thead>
 <tr>
 <th rowspan="2" scope="col">Agency / Component</th>
@@ -218,7 +218,7 @@ permalink: /about/foia-report.html
 
 ### V.B.(2).  DISPOSITION OF FOIA REQUESTS — "OTHER" REASONS FOR "FULL DENIALS BASED ON REASONS OTHER THAN EXEMPTIONS"
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -245,7 +245,7 @@ permalink: /about/foia-report.html
 
 ### V.B.(3).  DISPOSITION OF FOIA REQUESTS — NUMBER OF TIMES EXEMPTIONS APPLIED
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -309,7 +309,7 @@ permalink: /about/foia-report.html
 
 ### VI.A.  ADMINISTRATIVE APPEALS OF INITIAL DETERMINATIONS OF FOIA REQUESTS — RECEIVED, PROCESSED, AND PENDING ADMINISTRATIVE APPEALS
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -339,7 +339,7 @@ permalink: /about/foia-report.html
 
 ### VI.B.  DISPOSITION OF ADMINISTRATIVE APPEALS — ALL PROCESSED APPEALS
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -372,7 +372,7 @@ permalink: /about/foia-report.html
 
 ### VI.C.(1).  REASONS FOR DENIAL ON APPEAL — NUMBER OF TIMES EXEMPTIONS APPLIED
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -432,7 +432,7 @@ permalink: /about/foia-report.html
 
 ### VI.C.(2).  REASONS FOR DENIAL ON APPEAL — REASONS OTHER THAN EXEMPTIONS
 
-<table class="data overflow-scroll">
+<table class="usa-table overflow-scroll">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -483,7 +483,7 @@ permalink: /about/foia-report.html
 
 ### VI.C.(3).  REASONS FOR DENIAL ON APPEAL — "OTHER" REASONS
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -510,7 +510,7 @@ permalink: /about/foia-report.html
 
 ### VI.C.(4).  RESPONSE TIME FOR ADMINISTRATIVE APPEALS
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -540,7 +540,7 @@ permalink: /about/foia-report.html
 
 ### VI.C.(5).  TEN OLDEST PENDING ADMINISTRATIVE APPEALS
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -621,7 +621,7 @@ permalink: /about/foia-report.html
 
 ### VII.A.  FOIA REQUESTS — RESPONSE TIME FOR ALL PROCESSED PERFECTED REQUESTS
 
-<table class="data overflow-scroll">
+<table class="usa-table overflow-scroll">
 <thead>
 <tr>
 <th rowspan="2" scope="col">Agency / Component</th>
@@ -680,7 +680,7 @@ permalink: /about/foia-report.html
 
 ### VII.B.  PROCESSED REQUESTS — RESPONSE TIME FOR PERFECTED REQUESTS IN WHICH INFORMATION WAS GRANTED
 
-<table class="data overflow-scroll">
+<table class="usa-table overflow-scroll">
 <thead>
 <tr>
 <th rowspan="2" scope="col">Agency / Component</th>
@@ -739,7 +739,7 @@ permalink: /about/foia-report.html
 
 ### VII.C.  PROCESSED SIMPLE REQUESTS — RESPONSE TIME IN DAY INCREMENTS
 
-<table class="data overflow-scroll">
+<table class="usa-table overflow-scroll">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -799,7 +799,7 @@ permalink: /about/foia-report.html
 
 ### VII.C.  PROCESSED COMPLEX REQUESTS — RESPONSE TIME IN DAY INCREMENTS
 
-<table class="data overflow-scroll">
+<table class="usa-table overflow-scroll">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -859,7 +859,7 @@ permalink: /about/foia-report.html
 
 ### VII.C.  PROCESSED REQUESTS GRANTED EXPEDITED PROCESSING — RESPONSE TIME IN DAY INCREMENTS
 
-<table class="data overflow-scroll">
+<table class="usa-table overflow-scroll">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -919,7 +919,7 @@ permalink: /about/foia-report.html
 
 ### VII.D.  PENDING REQUESTS — ALL PENDING PERFECTED REQUESTS
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th rowspan="2" scope="col">Agency / Component</th>
@@ -969,7 +969,7 @@ permalink: /about/foia-report.html
 
 ### VII.E.  PENDING REQUESTS — TEN OLDEST PENDING PERFECTED REQUESTS
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -1054,7 +1054,7 @@ AGENCY OVERALL
 
 ### VIII.A.  REQUESTS FOR EXPEDITED PROCESSING
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -1087,7 +1087,7 @@ AGENCY OVERALL
 
 ### VIII.B.  Requests for Fee Waiver
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -1119,7 +1119,7 @@ AGENCY OVERALL
 
 ## IX.  FOIA Personnel and Costs
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th rowspan="2" scope="col">Agency / Component</th>
@@ -1161,7 +1161,7 @@ AGENCY OVERALL
 
 ## X.  Fees Collected for Processing Requests
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -1189,7 +1189,7 @@ AGENCY OVERALL
 
 ### XI.A.  Number of Times Subsection (C) Used
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -1212,7 +1212,7 @@ AGENCY OVERALL
 
 ### XI.B.  Number of Subsection (A)(2) Postings
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -1240,7 +1240,7 @@ AGENCY OVERALL
 
 ### XII.A.  Backlogs of FOIA Requests and Administrative Appeals
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -1264,7 +1264,7 @@ AGENCY OVERALL
 
 ### XII.B.  CONSULTATIONS ON FOIA REQUESTS — RECEIVED, PROCESSED, AND PENDING CONSULTATIONS
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -1294,7 +1294,7 @@ AGENCY OVERALL
 
 ### XII.C.  CONSULTATIONS ON FOIA REQUESTS — TEN OLDEST CONSULTATIONS RECEIVED FROM OTHER AGENCIES AND PENDING AT THE AGENCY
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -1371,7 +1371,7 @@ AGENCY OVERALL
 
 ### XII.D.(1).  COMPARISON OF NUMBERS OF REQUESTS FROM PREVIOUS AND CURRENT ANNUAL REPORT — REQUESTS RECEIVED AND PROCESSED
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th rowspan="2" scope="col">Agency / Component</th>
@@ -1405,7 +1405,7 @@ AGENCY OVERALL
 
 ### XII.D.(2).  COMPARISON OF NUMBERS OF REQUESTS FROM PREVIOUS AND CURRENT ANNUAL REPORT — BACKLOGGED REQUESTS
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -1429,7 +1429,7 @@ AGENCY OVERALL
 
 ### XII.E.(1).  COMPARISON OF NUMBERS OF ADMINISTRATIVE APPEALS FROM PREVIOUS AND CURRENT ANNUAL REPORT — APPEALS RECEIVED AND PROCESSED
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th rowspan="2" scope="col">Agency / Component</th>
@@ -1463,7 +1463,7 @@ AGENCY OVERALL
 
 ### XII.E.(2).  COMPARISON OF NUMBERS OF ADMINISTRATIVE APPEALS FROM PREVIOUS AND CURRENT ANNUAL REPORT — BACKLOGGED APPEALS
 
-<table class="data">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
