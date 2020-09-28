@@ -19,7 +19,7 @@ layout: default
       {% if page.toc %}
       {% include {{ page.toc }} %}
       {% endif %}
-      <div id="content" class="desktop:grid-col usa-prose margin-2">
+      <div id="{% if page.make-toc == false %}content-dontmake-toc{% else %}content{% endif %}" class="desktop:grid-col usa-prose margin-2">
         <h2>{{page.title}}</h2>
         {% if page.file %}
         <div class="clearfix">

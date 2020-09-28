@@ -10,10 +10,10 @@
     let urlParsed = pageURL.split('#');
     let hasAnchor = urlParsed.length > 1;
     let currentAnchor = hasAnchor ? urlParsed[urlParsed.length - 1] : null;
-    let standard = document.getElementById("standard");
+    let content = document.getElementById("content");
 
-    if (standard) {
-      elements = standard.querySelectorAll("h3");
+    if (content) {
+      elements = content.querySelectorAll("h3");
     }
 
     let subsections = document.getElementById("subsections");
