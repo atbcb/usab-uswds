@@ -1,12 +1,12 @@
 ---
-title:  Test File
+title:  Test File 3
 layout: universal
-right-sidenav: false
+right-sidenav: sidenav-ada.html
 toc: toc-multi.html
 toc-group: test
-order-number: 1
-permalink: /test.html
-banner-title: Banner-title
+order-number: 3
+permalink: /test3.html
+banner-title: Banner-title 3
 file: /files/ada-ada/ADA-Standards.pdf
 file-description: A pdf file
 
