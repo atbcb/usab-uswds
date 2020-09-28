@@ -33,9 +33,9 @@ Our presenters, Dan Williams, U.S. Web Design System, Technology Transformation 
 
 ### Speakers:
 
-[Ammie Farraj Feijoo](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10847), 21st Century IDEA Implementation Lead, Technology Transformation Services (TTS),**U.S. General Services Administration (GSA)**
+[Ammie Farraj Feijoo](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10847), 21st Century IDEA Implementation Lead, Technology Transformation Services (TTS), **U.S. General Services Administration (GSA)**
 
-[Dan Williams](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10846), U.S. Web Design System, Technology Transformation Services (TTS),**U.S. General Services Administration (GSA)**
+[Dan Williams](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10846), U.S. Web Design System, Technology Transformation Services (TTS), **U.S. General Services Administration (GSA)**
 
 ### Session Questions
 
