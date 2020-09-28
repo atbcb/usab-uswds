@@ -1,6 +1,7 @@
 ---
 title:  Test File 2
 layout: universal
+width: desktop
 right-sidenav: false
 toc: sidenav.html
 toc-group: test

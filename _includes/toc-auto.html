@@ -1,3 +1,13 @@
+{% comment %}
+ This auto generates a table of contents. Front matter of toc-group is required for this to work. toc-group is the group of pages within the same collection that you want to show up in the table of contents. They are sorted by order-number. If you only want a single page with auto generated table of contents based on h3 and the toc-subnav.js give toc-group a unique name. If toc-group is null all pages in the entire collection are shown
+
+ Ex:
+ toc: toc-auto.html
+ toc-group: Indoor Environmental Quality
+
+   This creates a table of contents for all pages in the _research collection with front matter toc-group: Indoor Environmental Quality. (The collection also needs to be assigned default front matter of collection-folder: research)
+
+{% endcomment %}
 
 {% assign ordered_chapters = site[page.collection-folder] | where: "toc-group",  {{page.toc-group}} | sort:"order-number" %}
 
