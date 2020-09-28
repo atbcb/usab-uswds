@@ -7,21 +7,24 @@ permalink: /ict.html
 
 # {{ page.title }}
 
-{% asset communications.jpg class="usa-media-block__img" alt="photo of hands typing on keyboard" width="150" %}
-{% include communications.html %}
+{% asset stock/ict.jpg class="img-right img-medium" alt="photo of hands typing on braille keyboard" %}
+
+Access to information and communication technology (ICT) is addressed by Board standards and guidelines issued under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act.
+
+The Board jointly updated its Section 508 Standards and Section 255 Guidelines in January 2017.
 
 ## Revised Seciton 508 Standards and Section 255 Guidelines (2017)
 
 {% asset icon-tablet-refresh.png class="usa-media-block__img" alt="smart-phone refresh icon" %}
-On January 18, 2017, the Access Board published a [final rule]({{ site.baseurl }}/ict/) that jointly updates requirements for information and communication technology covered by Section 508 of the Rehabilitation Act and Section 255 of the Communication Act.&nbsp;
+On January 18, 2017, the Access Board published a [final rule]({{ site.baseurl }}/ict/) that jointly updates requirements for information and communication technology covered by Section 508 of the Rehabilitation Act and Section 255 of the Communication Act.
 
-The Section 508 Standards apply to electronic and information technology procured by the federal government, including computer hardware and software, websites, multimedia such as video, phone systems, and copiers.&nbsp;
-The Section 508 Standards are part of the Federal Acquisition Regulation (FAR) and address access for people with physical, sensory, or cognitive disabilities.&nbsp;
+The Section 508 Standards apply to electronic and information technology procured by the federal government, including computer hardware and software, websites, multimedia such as video, phone systems, and copiers.
+The Section 508 Standards are part of the Federal Acquisition Regulation (FAR) and address access for people with physical, sensory, or cognitive disabilities.
 These standards are issued under section 508 of the Rehabilitation Act which requires access for both members of the public and federal employees to such technologies when developed, procured, maintained, or used by federal agencies.
 
 The Section 255 Guidelines address access to telecommunications products and services, and apply to manufacturers of telecommunication equipment.
 
-The final rule jointly updates and reorganizes the Section 508 standards and Section 255 guidelines in response to market trends and innovations, such as the convergence of technologies.&nbsp;
+The final rule jointly updates and reorganizes the Section 508 standards and Section 255 guidelines in response to market trends and innovations, such as the convergence of technologies.
 
 The refresh also harmonizes these requirements with other guidelines and standards both in the U.S. and abroad, including standards issued by the European Commission and with the Web Content Accessibility Guidelines (WCAG), a globally recognized voluntary consensus standard for web content and ICT.
 
