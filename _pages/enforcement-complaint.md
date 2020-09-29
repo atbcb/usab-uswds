@@ -30,7 +30,7 @@ Step 4: Review and Submit. If you have any photographs or other supporting docum
 
 Step 5: Confirmation. The confirmation page will appear and show an automatically generated complaint number. You will also have an option to print your complaint. Please keep the complaint number with your records so that you can refer to it if you wish to inquire about the status of your complaint or provide additional information to us in the future.
 
-### [To file an ABA complaint, click here to access the Online ABA Complaint Form.]({{ (https://cts.access-board.gov/formsiq/form.do?form_name=ABA%20Complaint%20Form%20-%20Facility%20Information))
+### [To file an ABA complaint, click here to access the Online ABA Complaint Form.]({{ https://cts.access-board.gov/formsiq/form.do?form_name=ABA%20Complaint%20Form%20-%20Facility%20Information)
 
 ## Alternate ABA Complaint Filing Methods
 
