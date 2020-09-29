@@ -33,6 +33,13 @@ a.usa-current::after {
   content: "→" !important;
 }
 
+ol li ol li {
+  list-style-type: lower-alpha;
+}
+ol li ol li ol li {
+  list-style-type: lower-roman;
+}
+
 // unformated tables should look more like they do in GitHub preview
 table {
   margin-top:1em;
