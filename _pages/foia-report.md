@@ -158,7 +158,8 @@ permalink: /about/foia-report.html
 
 ### V.B.(1).  DISPOSITION OF FOIA REQUESTS — ALL PROCESSED REQUESTS
 
-<table class="usa-table" style="overflow-x:scroll !important;">
+<div style="width:100%;overflow-x:scroll;">
+<table class="usa-table">
 <thead>
 <tr>
 <th rowspan="2" scope="col">Agency / Component</th>
@@ -215,6 +216,7 @@ permalink: /about/foia-report.html
 </tr>
 </tbody>
 </table>
+</div>
 
 ### V.B.(2).  DISPOSITION OF FOIA REQUESTS — "OTHER" REASONS FOR "FULL DENIALS BASED ON REASONS OTHER THAN EXEMPTIONS"
 
@@ -432,7 +434,8 @@ permalink: /about/foia-report.html
 
 ### VI.C.(2).  REASONS FOR DENIAL ON APPEAL — REASONS OTHER THAN EXEMPTIONS
 
-<table class="usa-table overflow-scroll">
+<div style="width:40em;overflow-x:scroll;">
+<table class="usa-table">
 <thead>
 <tr>
 <th scope="col">Agency / Component</th>
@@ -480,6 +483,7 @@ permalink: /about/foia-report.html
 </tr>
 </tbody>
 </table>
+</div>
 
 ### VI.C.(3).  REASONS FOR DENIAL ON APPEAL — "OTHER" REASONS
 
