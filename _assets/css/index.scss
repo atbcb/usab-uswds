@@ -215,7 +215,7 @@ li.usa-nav__secondary-item a {
 
 // we are avoiding layout tables
 table {
-  .usa-table
+  .usa-table { }
 }
 
 // add shading to even rows in data tables -- does not seem to be working
