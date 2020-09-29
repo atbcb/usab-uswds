@@ -1,7 +1,8 @@
 ---
 title: Conclusions
 order-number: 5
-group-title: Development of Surface Roughness Standards for Pathways Used by Wheelchair Users
+toc-group: Development of Surface Roughness Standards for Pathways Used by Wheelchair Users
+banner-title: Development of Surface Roughness Standards for Pathways Used by Wheelchair Users
 status: completed
 year-completed: 2014
 topic: Exterior Surfaces

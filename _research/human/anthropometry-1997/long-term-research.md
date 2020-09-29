@@ -1,7 +1,8 @@
 ---
 title: Long Term Research
 order-number: 3
-group-title: Anthropometry for Persons with Disabilities Needs for the 21st Century
+toc-group: Anthropometry for Persons with Disabilities Needs for the 21st Century
+banner-title: Anthropometry for Persons with Disabilities Needs for the 21st Century
 status: completed
 year-completed: 1997
 topic: Human Measures - Mobility Aids

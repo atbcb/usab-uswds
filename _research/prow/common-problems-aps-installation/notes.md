@@ -1,7 +1,8 @@
 ---
 title: Notes
 order-number: 3
-group-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
+toc-group: Common Problems Arising in the Installation of Accessible Pedestrian Signals
+banner-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 status: completed
 year-completed: 2009
 topic: Public Rights-of-Way

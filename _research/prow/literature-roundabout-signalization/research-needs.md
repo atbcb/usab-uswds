@@ -1,7 +1,8 @@
 ---
 title: Research Needs
 order-number: 6
-group-title: Synthesis of Literature Relevant to Roundabout Signalization to Provide Pedestrian Access
+toc-group: Synthesis of Literature Relevant to Roundabout Signalization to Provide Pedestrian Access
+banner-title: Synthesis of Literature Relevant to Roundabout Signalization to Provide Pedestrian Access
 status: completed
 year-completed: 2007
 topic: Public Rights-of-Way

@@ -1,7 +1,8 @@
 ---
 title: Recommended Actions For Facility Managers and Operations & Maintenance Staff
 order-number: 2
-group-title: Indoor Environmental Quality
+toc-group: Indoor Environmental Quality
+banner-title: Indoor Environmental Quality
 status: completed
 Year-completed: 2006
 topic: Building Elements and Spaces

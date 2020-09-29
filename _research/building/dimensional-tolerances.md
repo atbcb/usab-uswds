@@ -1,7 +1,8 @@
 ---
 title: Final Report
 order-number: 0
-group-title: Dimensional Tolerances in Construction and for Surface Accessibility
+toc-group: Dimensional Tolerances in Construction and for Surface Accessibility
+banner-title: Dimensional Tolerances in Construction and for Surface Accessibility
 status: completed
 year-completed: 2011
 topic: Building Elements and Spaces

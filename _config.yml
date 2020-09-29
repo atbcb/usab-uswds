@@ -312,9 +312,8 @@ defaults:
     values:
       collection-title: "Research"
       collection-folder: research
-      layout: page-group
-      file-directory: /files/research/
-      image-directory: /images/research/
+      layout: universal
+      toc: toc-auto.html
   - scope:
       path: ""
       type: "es"

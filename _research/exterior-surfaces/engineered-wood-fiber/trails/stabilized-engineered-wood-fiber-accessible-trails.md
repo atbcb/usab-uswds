@@ -1,7 +1,8 @@
 ---
 title: Stabilized Engineered Wood Fiber for Accessible Trails
 order-number: 0
-group-title: Stabilized Engineered Wood Fiber for Accessible Trails
+toc-group: Stabilized Engineered Wood Fiber for Accessible Trails
+banner-title: Stabilized Engineered Wood Fiber for Accessible Trails
 status: completed
 year-completed: 2006
 topic: Exterior Surfaces

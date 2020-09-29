@@ -1,7 +1,8 @@
 ---
 title: Attachment Interview Questions
 order-number: 5
-group-title: Toileting and Bathing Facilities for Assisted Transfers
+toc-group: Toileting and Bathing Facilities for Assisted Transfers
+banner-title: Toileting and Bathing Facilities for Assisted Transfers
 status: completed
 year-completed: 2001
 topic: Building Elements and Spaces

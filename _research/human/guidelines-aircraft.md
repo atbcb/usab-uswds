@@ -1,7 +1,8 @@
 ---
 title: Technical Paper
 order-number: 0
-group-title: Guidelines for Aircraft Boarding Chairs
+toc-group: Guidelines for Aircraft Boarding Chairs
+banner-title: Guidelines for Aircraft Boarding Chairs
 status: completed
 year-completed: 1987
 topic: Human Measures - Mobility Aids
