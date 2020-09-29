@@ -29,6 +29,17 @@ h5, h6 { // default was xs and 2xs
 
 // Add your SASS/CSS here
 
+// unformated tables should pretty much look like they do in GitHub preview
+th, td {
+  border: thin solid black;
+}
+th {
+  background-color: gray-10;
+}
+tr:nth-child(even) {
+  background-color: gray-5;
+}
+
 // Page header USAB logo override
 .star-logo {
   height: 100%;
@@ -213,15 +224,6 @@ li.usa-nav__secondary-item a {
   display: table;
 }
 
-// we are avoiding layout tables
-table {
-  .usa-table { }
-}
-
-// add shading to even rows in data tables -- does not seem to be working
-table.data tr:nth-child(even) {
-  background-color: #f2f2f2;
-}
 //layout tables used in ict preamble
 table.layouttable {
   border-collapse: collapse;
