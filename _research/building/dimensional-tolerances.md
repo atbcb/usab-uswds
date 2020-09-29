@@ -319,18 +319,18 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > This method of measurement is consistent with the tolerance requirements of ACI 117 and can check for localized flatness. However, this section defines where the measurements should be taken.
 >
-> ![Figure 1: Non-ramp pedestrian path flatness measurement for running slope (paths up to an including 6 ft wide and paths over 6 feet wide]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig1.jpg)
+> ![Figure 1: Non-ramp pedestrian path flatness measurement for running slope (paths up to an including 6 ft wide and paths over 6 feet wide]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig1.jpg)
 >
 > **1.1.6 Flatness of walk cross slope.** For walks and other pedestrian paths, measure flatness of the cross slope by placing a 24 - in. (600 mm) digital inclinometer perpendicular to the line of travel at 10 ft (3 m) intervals with not less than two measurements. Measure along two paths, each with the end of the digital inclinometer 1 ft (300 mm) from the edge of the path and placed toward the middle of the path. See Fig. 2. If the path is less than 6 ft (1.8 m) wide the ends of the measurement will overlap at each interval.
 >
 > This method of measurement is based on the assumption that most accessible exterior walks will be at least 60 in. (1525 mm) wide due to passing requirements and that users will tend to stay toward one side or the other when traveling, approximately 1 ft (300 mm) from the edge. This method will reveal problematic variations in cross slope even though the overall cross slope may meet the 1:48 (2%) limitation.
 >
-> ![Figure 2 Non-ramp pedestrian path flatness measurement of cross slope]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig2.jpg)
+> ![Figure 2 Non-ramp pedestrian path flatness measurement of cross slope]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig2.jpg)
 >
 >\
 > **1.1.7 Measurement of parking areas.** Only accessible access aisles and passenger loading zones that are part of a larger parking area need to be measured. These areas should be considered as a pedestrian walk with a minimum width of 60 in. and a length of approximately 20 ft and with an ADA/ABA - AG maximum slope of 1:48 in both directions. Overall running slope (in the long dimension) and cross slope (in the short direction) should be measured according to Section 1.1.3 and 1.1.4. This means that the overall slope in the long dimension should be measured along the center of the aisle or zone using the ends of the area as elevation measuring points and cross slope should be measured at each end of the area and at the midpoint of the area. See Fig. 3.
 >
-> ![Figure 3 Parking access aisles and passenger loading zone measurement]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig3.jpg)\
+> ![Figure 3 Parking access aisles and passenger loading zone measurement]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig3.jpg)\
 > **1.1.8 Alternate measurement tools. **Walks may be measured with instruments other than a digital inclinometer if they provide the data required for evaluation of tolerances as given in Sections 1.2.1, 1.2.2, and 1.2.3. If the F - number system is used pedestrian paths should have a minimum FF of 25. Running slope should be measured along the same lines of measurements as given in Section 1.1.3.
 >
 > Although the F - number system can be used to measure surface flatness for smooth surfaces it requires expensive equipment and workers trained to do the measurement.
@@ -351,7 +351,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > **1.1.13 Flatness of ramp running slope.** Measure flatness in the running slope of ramps at 12 - in. (300 mm) increments by using successive, overlapping 24 - in. (600 mm) lengths using a 24 - in. digital inclinometer. For each measurement lay the instrument such that it reads the steepest slope or spans between two high points. See Fig. 4. Alternately, measurement can be made by using a digital inclinometer mounted on a 12 - in. (300 mm) beam or similar instrument with accuracy as stated in 1.1.1. Measuring 12 - in. (300 mm) lengths can account for local variations in slope that may be difficult for a person in a wheelchair or using other mobility aids to use.
 >
-> ![Figure 4 Measuring local ramp slope]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig4.jpg)
+> ![Figure 4 Measuring local ramp slope]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig4.jpg)
 >
 > Measuring one - foot (300 mm) lengths allows for a reasonable check on local variation that can be accomplished easily and inexpensively with a 2 - ft digital inclinometer or other available instruments.
 >
@@ -359,7 +359,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > For ramps over 5 ft (1525 mm) in width between handrails measure along an additional line for each additional 36 in. (915 mm) of width or fraction thereof beyond 5 ft (1525 mm). The additional line or lines should be spaced equidistant between the two outside measurement lines. See Fig. 5(b).
 >
-> ![Figure 5 Ramp flatness measurement for running slope - ramps up to and including 5 feet wide and ramps over 5 feet wide]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig5.jpg)
+> ![Figure 5 Ramp flatness measurement for running slope - ramps up to and including 5 feet wide and ramps over 5 feet wide]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig5.jpg)
 >
 >\
 > Measurement at 6 inches from the handrail or edge of curb ramps is approximately where the inside wheel of a wheelchair would be if the handrail is being used.
@@ -374,7 +374,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > As the ramp gets wider, users may tend to travel toward one side or the other, especially if the ramp is not a curb ramp and has handrails.
 >
-> ![Figure 6 Ramp flatness measurement for cross slope for ramps up to and including 5 feet wide and ramps over 5 feet wide]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig6.jpg)\
+> ![Figure 6 Ramp flatness measurement for cross slope for ramps up to and including 5 feet wide and ramps over 5 feet wide]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig6.jpg)\
 > **1.1.15 Flatness of ramp landings. **Measure ramp landings at the midpoints of each landing in each direction using a 24 - in (600 mm) digital inclinometer. Edges of the ramp landing should coincide with the cross slope measurements as described in Section 1.1.12.
 >
 > **1.1.16 Alternate measurement tools**. Ramps may be measured with instruments other than a digital inclinometer if they provide the data required for evaluation of tolerances as given in Sections 1.2.5, 1.2.6, and 1.2.7. If the F - number system is used ramps should have a minimum FF of 25. Measure running slope along the same lines of measurements as stated in Section 1.1.13
@@ -615,7 +615,7 @@ The following are the tolerances published by the Interlocking Concrete Pavement
 
 
 
-![Figure 1 Concrete paving unit cross section defining joint width]({{ site.baseurl }}/images/research/buildings-elements-spaces/dimensional-tolerances/fig1-appendix.jpg)
+![Figure 1 Concrete paving unit cross section defining joint width]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig1-appendix.jpg)
 
 **Compilation of Instruments and Measurement Methods for Surface Accessibility**
 
