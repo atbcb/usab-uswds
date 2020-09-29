@@ -27,7 +27,6 @@ If you have questions on these accessibility guidelines and standards call or em
 
 *Technical assistance is available 10:00 -- 5:00 ET weekdays.*
 
-
 ## E-mail Directory
 
 | contact us at... | for... |
