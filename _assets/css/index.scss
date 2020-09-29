@@ -213,6 +213,11 @@ li.usa-nav__secondary-item a {
   display: table;
 }
 
+// we are avoiding layout tables
+table {
+  .usa-table;
+}
+
 // add shading to even rows in data tables -- does not seem to be working
 table.data tr:nth-child(even) {
   background-color: #f2f2f2;
