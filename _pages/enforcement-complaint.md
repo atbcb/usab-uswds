@@ -10,7 +10,7 @@ permalink: /enforcement/complaint.html
 
 The Access Board enforces accessibility standards issued under the Architectural Barriers Act of 1968 (ABA). The ABA requires that buildings or facilities that were constructed or altered by or on behalf of the United States, or leased or financed in whole or in part by the United States, after August 12, 1968, be accessible to individuals with physical disabilities. Anyone can submit a complaint about accessibility barriers at buildings or facilities.
 
-Important Note: Please bear in mind that the only complaints that should be filed through this system are complaints alleging violations of the ABA.  Complaints about other government services or issues, such as Social Security Insurance and Social Security Disability Insurance (SSI/SSDI), benefits, tax, motor vehicle, health insurance, welfare, and any other topic unrelated to the accessibility of Federal buildings or facilities, should not be addressed to the Access Board but rather to the appropriate Federal, State, or local entity.  Complaints related to accessibility barriers in State or local government buildings, as well as places of public accommodation (restaurants, hotels, bars, movie theaters, etc.), should be directed to the [United States Department of Justice]({{ https://www.ada.gov/filing_complaint.htm), which enforces the Americans with Disabilities Act of 1990 (ADA).   For information on other Federal laws that address accessibility and protect the rights of people with disabilities, please refer to these resources.
+Important Note: Please bear in mind that the only complaints that should be filed through this system are complaints alleging violations of the ABA.  Complaints about other government services or issues, such as Social Security Insurance and Social Security Disability Insurance (SSI/SSDI), benefits, tax, motor vehicle, health insurance, welfare, and any other topic unrelated to the accessibility of Federal buildings or facilities, should not be addressed to the Access Board but rather to the appropriate Federal, State, or local entity.  Complaints related to accessibility barriers in State or local government buildings, as well as places of public accommodation (restaurants, hotels, bars, movie theaters, etc.), should be directed to the [United States Department of Justice](https://www.ada.gov/filing_complaint.htm), which enforces the Americans with Disabilities Act of 1990 (ADA).   For information on other Federal laws that address accessibility and protect the rights of people with disabilities, please refer to [these resources]({{ site.baseurl }}/other-resources/).
 
 ## Filing a Complaint
 
@@ -30,7 +30,7 @@ Step 4: Review and Submit. If you have any photographs or other supporting docum
 
 Step 5: Confirmation. The confirmation page will appear and show an automatically generated complaint number. You will also have an option to print your complaint. Please keep the complaint number with your records so that you can refer to it if you wish to inquire about the status of your complaint or provide additional information to us in the future.
 
-### [To file an ABA complaint concerning a federally funded or leased building or facility, click here to access the Online ABA Complaint Form.]({{ (https://cts.access-board.gov/formsiq/form.do?form_name=ABA%20Complaint%20Form%20-%20Facility%20Information))
+### [To file an ABA complaint, click here to access the Online ABA Complaint Form.]({{ (https://cts.access-board.gov/formsiq/form.do?form_name=ABA%20Complaint%20Form%20-%20Facility%20Information))
 
 ## Alternate ABA Complaint Filing Methods
 
@@ -42,7 +42,7 @@ Step 5: Confirmation. The confirmation page will appear and show an automaticall
             1331 F Street, N.W., Suite 1000
             Washington, D.C.  20004-1111
             
-#### **Editor's Note**  Due to office closures caused by Covid-19, we recommend not filing by mail or fax since staff is not present in the office to receive that correspondence.
+#### Editor's Note: Due to office closures caused by Covid-19, we recommend not filing by mail or fax since staff is not present in the office to receive that correspondence.
 
 ## How We Handle Your Complaint
 
@@ -54,4 +54,4 @@ We investigate the complaints to determine whether the building or facility is s
 
 Pursuant to the Paperwork Reduction Act of 1995, and its implementing regulations at 5 CFR 1320.8(b)(3), note that the United States Access Board may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a valid OMB Control Number. The Online ABA Complaint Form has OMB Control Number 3014-0012 (Expiration Date: 8/31/2020). 
 
-#### **Editor's Note** The Office of Management is currently reviewing our request to continue using the Online ABA Complaint Form beyond this date; the form is still deemed valid during the review period.
+#### Editor's Note: The Office of Management and Budget (OMB) is currently reviewing our request to continue using the Online ABA Complaint Form beyond this date; the OMB Control Number is still deemed valid during the review period.
