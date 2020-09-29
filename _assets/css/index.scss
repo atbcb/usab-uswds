@@ -28,6 +28,19 @@ h6 { // default was xs and 2xs
 }
 
 // Add your SASS/CSS here
+// unformated tables should look more like they do in GitHub preview
+th,
+td {
+  border-collapse: collapse;
+  border: thin solid black;
+  vertical-align: top;
+}
+th {
+  background-color: color(gray-cool-5);
+}
+tr:nth-child(even) {
+  .bg-gray-cool-10;
+}
 
 // Page header USAB logo override
 .star-logo {
@@ -181,7 +194,7 @@ dt {
       @include u-padding(2);
     }
   }
-} // this brace was missing previously, was at line 259 below
+}
 .thumbnail-wide {
   width: 15%;
   height: auto;
@@ -204,7 +217,8 @@ dt {
   position: sticky;
   top: 0;
 }
-.sticky:before, .sticky:after {
+.sticky:before,
+.sticky:after {
   content: '';
   display: table;
 }
@@ -217,7 +231,8 @@ table.data tr:nth-child(even) {
 table.layouttable {
   border-collapse: collapse;
 }
-table.layouttable, table.layouttable tr {
+table.layouttable,
+table.layouttable tr {
   border: 1px solid black;
 }
 // doesn't seem to work; added style to include figure-caption.html
@@ -256,7 +271,7 @@ a.usa-current::after {
   display: block;
   }
 }
-// } extra closing brace was here !!
+
 .card-header {
   @extend .usa-card__header;
   text-align: center;
