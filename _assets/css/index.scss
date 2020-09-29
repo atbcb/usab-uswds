@@ -31,15 +31,17 @@ h6 { // default was xs and 2xs
 // unformated tables should look more like they do in GitHub preview
 th,
 td {
+  margin:0;
+  border: 1px solid black;
   border-collapse: collapse;
-  border: thin solid black;
   vertical-align: top;
+  padding-left:1em;
 }
 th {
-  background-color: color(gray-cool-5);
+  background-color: color(gray-cool-10);
 }
 tr:nth-child(even) {
-  background-color: color(gray-cool-10);
+  background-color: color(gray-cool-5);
 }
 
 // Page header USAB logo override
@@ -223,10 +225,10 @@ dt {
   display: table;
 }
 
-// add shading to even rows in data tables -- does not seem to be working
+/* // add shading to even rows in data tables -- does not seem to be working
 table.data tr:nth-child(even) {
  background-color: #f2f2f2;
-}
+} // zebra stripping by default */
 // layout tables used in ict preamble
 table.layouttable {
   border-collapse: collapse;
