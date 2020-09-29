@@ -158,7 +158,7 @@ permalink: /about/foia-report.html
 
 ### V.B.(1).  DISPOSITION OF FOIA REQUESTS — ALL PROCESSED REQUESTS
 
-<div style="width:100%;overflow-x:scroll;">
+<div style="width:125%; overflow-x:scroll;">
 <table class="usa-table">
 <thead>
 <tr>
@@ -434,7 +434,7 @@ permalink: /about/foia-report.html
 
 ### VI.C.(2).  REASONS FOR DENIAL ON APPEAL — REASONS OTHER THAN EXEMPTIONS
 
-<div style="width:40em;overflow-x:scroll;">
+<div style="width:80em; overflow-x:scroll;">
 <table class="usa-table">
 <thead>
 <tr>
@@ -625,7 +625,9 @@ permalink: /about/foia-report.html
 
 ### VII.A.  FOIA REQUESTS — RESPONSE TIME FOR ALL PROCESSED PERFECTED REQUESTS
 
-<table class="usa-table overflow-scroll">
+<div style="width:125%; overflow-x:scroll;">
+
+<table class="usa-table">
 <thead>
 <tr>
 <th rowspan="2" scope="col">Agency / Component</th>
@@ -1051,6 +1053,8 @@ AGENCY OVERALL
 </tr>
 </tbody>
 </table>
+
+</div>
 
 * * *
 
