@@ -1,11 +1,11 @@
 ---
 title: About the U.S. Access Board
-layout: page
-sidenav: true
+banner-title: About the U.S. Access Board
+layout: universal
+toc: sidenav.html
 permalink: /about/
 ---
 
-# {{ page.title }}
 
 ![thumbnail photo of office building]({{ site.baseurl }}/images/board-office-small.jpg){: .img-right}
 

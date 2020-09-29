@@ -27,6 +27,20 @@ h5, h6 { // default was xs and 2xs
 }
 
 // Add your SASS/CSS here
+
+// stylish 'page-breaks'
+hr {
+  border-bottom: solid;
+  border-top: solid;
+  box-sizing: border-box;
+  width: 104%;
+  margin-left: -2%;
+  margin-top: 2rem;
+  margin-bottom: 2rem;
+  padding: 1rem;
+  background-color: #f0f0f0; //match div background color, bg-base-lightest 
+}
+
 // Page header USAB logo override
 .star-logo {
 height: 100%;
