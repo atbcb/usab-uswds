@@ -177,14 +177,14 @@ li.usa-nav__secondary-item a {
   @include u-margin(2);
 } // this closeing brace was missing !!
  
-&-box {
-//  &-box {
+/* &-box {
+  &-box {
     @extend .thumbnail;
     @include u-border(2px);
     @include u-radius('lg');
     @include u-padding(2);
-//  }
-}
+  }
+} */
 .thumbnail-wide {
   width: 15%;
   height: auto;
