@@ -11,7 +11,7 @@
 
 $theme-hero-image: asset_path("hero-wc-temp.jpg");
 
-// Import the US Web Design System SASS.
+// Import the US Web Design System SASS
 @import "uswds";
 
 // Import component SASS
@@ -20,60 +20,81 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 
 // Set fonts
 h4 { // default was sm
-  @include u-font('sans', 'md')
+  @include u-font('sans', 'md');
 }
-h5, h6 { // default was xs and 2xs
-  @include u-font('sans', 'sm')
+h5,
+h6 { // default was xs and 2xs
+  @include u-font('sans', 'sm');
 }
 
 // Add your SASS/CSS here
-// Page header USAB logo override
-.star-logo {
-height: 100%;
-width: 100%;
+
+a.usa-current::after {
+  content: "→" !important;
 }
 
+// unformated tables should look more like they do in GitHub preview
+table {
+  margin-top:1em;
+  margin-bottom:1em;
+}
+table, thead, tbody, tr, th, td {
+  border-collapse: collapse;
+}
+td {
+  border: thin solid black;
+  vertical-align: top;
+  padding-left:0.5em;
+  padding-right:0.25em;
+}
+th {
+  background-color: color(gray-cool-10);
+  border: thin solid black;
+  padding-left:0.25em;
+}
+tr:nth-child(even) {
+  background-color: color(gray-cool-5);
+}
+
+// Page header USAB logo override
+.star-logo {
+  height: 100%;
+  width: 100%;
+}
 .site-title {
   font-weight: bold;
   @include u-text("primary-darker");
 }
-
 .site-subtitle {
   font-weight: bold;
   font-style: italic;
   @include u-text("secondary-darker");
 }
-
 @media screen and (max-width: 1024px) {
   .site-logo {
-  max-height: 3rem;
+    max-height: 3rem;
   }
   .star-logo-box {
     max-height: 3rem;
-    max-width: 4rem;
+     max-width: 4rem;
   }
   .star-logo {
     max-height: 3rem;
   }
 }
-
-
 @media screen and (min-width: 1024px) {
-  
   .star-logo-box {
     max-width: 6rem;
   }
   .site-subtitle {
-    @include u-font('sans', 'md')
+    @include u-font('sans', 'md');
   }
 }
-
 @media (min-width: 30em) {
   .site-title-short {
-      display: none;
+  display: none;
   }
 }
-
 @media screen and (max-width: 29.99em) {
   .site-title {
     position: absolute;
@@ -81,39 +102,34 @@ width: 100%;
   }
 }
 
-
 /* .usa-logo__text::before {
   background-image: url(../images/usab-logo.svg);
   background-repeat: no-repeat;
 } */
 
-
-
-
-
-// override default gray to get 7:1 contrast ratio
+// override default gray to get a little higher contrast
 li.usa-nav__secondary-item a {
-  color: #595959;
+  color: color(gray-cool-60);
 }
-
 // temporary blue class to see how grids work
 .blue {
   background-color: blue;
 }
 
-// advisory boxes
+// advisory boxes, might be P or DIV
 .advisory {
-  background-color: #e8f0f8;
+  background-color: color(blue-warm-20);
   padding: 1em;
   margin-left: 1em;
   margin-right: 1em;
 }
 
 // create class that combines about page img classes
-
-.bold, dt {
+.bold,
+dt {
   font-weight: bold;
 }
+
 .center {
   display: block;
   margin-left: auto;
@@ -125,26 +141,31 @@ li.usa-nav__secondary-item a {
   display: block;
   padding: 15px;
 }
+
 .img-left {
   float: left;
   display: block;
   padding: 15px;
 }
+
 .img-medium {
   padding: 10px;
   width: 40%;
 }
+
 .img-center {
   margin-left: auto;
   margin-right: auto;
   display: block;
 }
+
 .img-grid {
   margin-left: auto;
   margin-right: auto;
   width: 50%;
   display: block;
 }
+
 .img-grid-left {
   margin-left: auto;
   margin-right: auto;
@@ -152,17 +173,18 @@ li.usa-nav__secondary-item a {
   display: block;
   padding-top: 20px;
 }
+
 .grid-line {
   display: block;
   text-align: center;
 }
+
 .grid-line-left {
   display: block;
   text-align: left;
 }
 
-/* replace grid-line-left with text-left display-block instead */
-
+// replace grid-line-left with text-left display-block instead
 .img-large {
   padding: 10px;
   margin-left: auto;
@@ -194,13 +216,13 @@ li.usa-nav__secondary-item a {
   //vertical-align: 30%;
   //max-height: 100px;
   @include u-margin(2);
-
-&-box {
   &-box {
-    @extend .thumbnail;
-    @include u-border(2px);
-    @include u-radius('lg');
-    @include u-padding(2);
+    &-box { // nested &-box syntax does not seems odd
+      @extend .thumbnail;
+      @include u-border(2px);
+      @include u-radius('lg');
+      @include u-padding(2);
+    }
   }
 }
 
@@ -212,6 +234,7 @@ li.usa-nav__secondary-item a {
 .align-bottom {
   vertical-align: text-bottom;
 }
+
 .align-top {
   vertical-align: text-top;
 }
@@ -219,6 +242,7 @@ li.usa-nav__secondary-item a {
 .clear {
   clear: both;
 }
+
 .clearfix {
   overflow: auto;
 }
@@ -232,30 +256,27 @@ li.usa-nav__secondary-item a {
 
 .sticky:before,
 .sticky:after {
-    content: '';
-    display: table;
+  content: '';
+  display: table;
 }
 
-//add shading to even rows in data tables
-table.data tr:nth-child(even) {background-color: #f2f2f2;}
-
-//layout tables used in ict preamble
+/* // add shading to even rows in data tables -- does not seem to be working
+table.data tr:nth-child(even) {
+ background-color: #f2f2f2;
+} // zebra stripping by default */
+// layout tables used in ict preamble
 table.layouttable {
   border-collapse: collapse;
 }
-
-table.layouttable, table.layouttable tr {
+table.layouttable,
+table.layouttable tr {
   border: 1px solid black;
 }
 
-//doesn't seem to work; added style to include figure-caption.html
+// doesn't seem to work; added style to include figure-caption.html
 figcaption {
   font-weight: bold;
   text-align: center;
-}
-
-a.usa-current::after {
-  content: "→" !important;
 }
 
 // default mode hide banner
@@ -283,13 +304,12 @@ a.usa-current::after {
 
 @media screen and (max-width: 640px) {
   .paginate-link {
-    display: none;
+  display: none;
   }
   .paginate-button {
-    display: block;
+  display: block;
   }
 }
-} // extra closing brace ???
 
 .card-header {
   @extend .usa-card__header;
@@ -303,15 +323,16 @@ a.usa-current::after {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
+
 .gray-to-color:hover {
   -webkit-filter: none;
   filter: none;
   @include u-bg('primary-lighter')
 }
 
- a.style-inherit {
-  color: inherit; /* blue colors for links too */
-  text-decoration: inherit; /* no underline */
+a.style-inherit {
+  color: inherit; // blue colors for links too
+  text-decoration: inherit; // no underline
 }
 
 .card-name {
@@ -320,6 +341,7 @@ a.usa-current::after {
   @include u-text('primary');
   @include u-margin-bottom(0);
 }
+
 .card-text {
   @include u-font('serif', '3xs');
   @include u-text('center');
