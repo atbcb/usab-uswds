@@ -44,10 +44,13 @@ table, thead, tbody, tr, th, td {
 td {
   border: thin solid black;
   vertical-align: top;
-  padding-left:1em;
+  padding-left:0.5em;
+  padding-right:0.25em;
 }
 th {
   background-color: color(gray-cool-10);
+  border: thin solid black;
+  padding-left:0.25em;
 }
 tr:nth-child(even) {
   background-color: color(gray-cool-5);
