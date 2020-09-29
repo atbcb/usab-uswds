@@ -29,6 +29,10 @@ h6 { // default was xs and 2xs
 
 // Add your SASS/CSS here
 // unformated tables should look more like they do in GitHub preview
+table {
+  margin-top:1em;
+  margin-bottom:1em;
+}
 th,
 td {
   margin:0;
