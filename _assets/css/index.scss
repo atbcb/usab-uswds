@@ -201,7 +201,8 @@ li.usa-nav__secondary-item a {
 .clearfix {
   overflow: auto;
 }
-// sticky fill js .sticky {
+// sticky fill js
+.sticky {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
@@ -284,8 +285,8 @@ a.usa-current::after {
 }
 
 a.style-inherit {
-  color: inherit; /* blue colors for links too */
-  text-decoration: inherit; /* no underline */
+  color: inherit; // blue colors for links too
+  text-decoration: inherit; // no underline
 }
 
 .card-name {
