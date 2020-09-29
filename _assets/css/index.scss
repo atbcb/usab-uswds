@@ -11,7 +11,7 @@
 
 $theme-hero-image: asset_path("hero-wc-temp.jpg");
 
-// Import the US Web Design System SASS.
+// Import the US Web Design System SASS
 @import "uswds";
 
 // Import component SASS
@@ -19,25 +19,25 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 @import "components/table-of-contents-subnav";
 
 // Set fonts
+
 h4 { // default was sm
-  @include u-font('sans', 'md')
+  @include u-font('sans', 'md');
 }
 h5, h6 { // default was xs and 2xs
-  @include u-font('sans', 'sm')
+  @include u-font('sans', 'sm');
 }
 
 // Add your SASS/CSS here
+
 // Page header USAB logo override
 .star-logo {
-height: 100%;
-width: 100%;
+  height: 100%;
+  width: 100%;
 }
-
 .site-title {
   font-weight: bold;
   @include u-text("primary-darker");
 }
-
 .site-subtitle {
   font-weight: bold;
   font-style: italic;
@@ -45,8 +45,8 @@ width: 100%;
 }
 
 @media screen and (max-width: 1024px) {
-  .site-logo {
-  max-height: 3rem;
+  site-logo {
+    max-height: 3rem;
   }
   .star-logo-box {
     max-height: 3rem;
@@ -56,10 +56,7 @@ width: 100%;
     max-height: 3rem;
   }
 }
-
-
 @media screen and (min-width: 1024px) {
-  
   .star-logo-box {
     max-width: 6rem;
   }
@@ -67,13 +64,11 @@ width: 100%;
     @include u-font('sans', 'md')
   }
 }
-
 @media (min-width: 30em) {
   .site-title-short {
-      display: none;
+     display: none;
   }
 }
-
 @media screen and (max-width: 29.99em) {
   .site-title {
     position: absolute;
@@ -81,36 +76,28 @@ width: 100%;
   }
 }
 
-
 /* .usa-logo__text::before {
   background-image: url(../images/usab-logo.svg);
   background-repeat: no-repeat;
 } */
 
-
-
-
-
 // override default gray to get 7:1 contrast ratio
 li.usa-nav__secondary-item a {
   color: #595959;
 }
-
 // temporary blue class to see how grids work
 .blue {
   background-color: blue;
 }
 
-// advisory boxes
+// advisory boxes, might be P or DIV
 .advisory {
   background-color: #e8f0f8;
   padding: 1em;
   margin-left: 1em;
   margin-right: 1em;
 }
-
 // create class that combines about page img classes
-
 .bold, dt {
   font-weight: bold;
 }
@@ -119,7 +106,6 @@ li.usa-nav__secondary-item a {
   margin-left: auto;
   margin-right: auto;
 }
-
 .img-right {
   float: right;
   display: block;
@@ -160,9 +146,7 @@ li.usa-nav__secondary-item a {
   display: block;
   text-align: left;
 }
-
-/* replace grid-line-left with text-left display-block instead */
-
+// replace grid-line-left with text-left display-block instead
 .img-large {
   padding: 10px;
   margin-left: auto;
@@ -170,7 +154,6 @@ li.usa-nav__secondary-item a {
   width: 80%;
   display: block;
 }
-
 .img-large-caption {
   margin: auto;
   text-align: center;
@@ -178,7 +161,6 @@ li.usa-nav__secondary-item a {
   font-size: 90%;
   font-style: italic;
 }
-
 .img-full {
   padding: 10px;
   margin-left: auto;
@@ -186,7 +168,6 @@ li.usa-nav__secondary-item a {
   width: 100%;
   display: block;
 }
-
 .thumbnail {
   width: 15%;
   height: auto;
@@ -194,7 +175,8 @@ li.usa-nav__secondary-item a {
   //vertical-align: 30%;
   //max-height: 100px;
   @include u-margin(2);
-
+} // this closeing brace was missing !!
+ 
 &-box {
   &-box {
     @extend .thumbnail;
@@ -203,52 +185,47 @@ li.usa-nav__secondary-item a {
     @include u-padding(2);
   }
 }
-
 .thumbnail-wide {
   width: 15%;
   height: auto;
 }
-
 .align-bottom {
   vertical-align: text-bottom;
 }
 .align-top {
   vertical-align: text-top;
 }
-
 .clear {
   clear: both;
 }
 .clearfix {
   overflow: auto;
 }
-
-// sticky fill js
-.sticky {
+// sticky fill js .sticky {
   position: -webkit-sticky;
   position: sticky;
   top: 0;
 }
-
 .sticky:before,
 .sticky:after {
-    content: '';
-    display: table;
+  content: '';
+  display: table;
 }
 
-//add shading to even rows in data tables
-table.data tr:nth-child(even) {background-color: #f2f2f2;}
-
+// add shading to even rows in data tables -- does not seem to be working
+table.data tr:nth-child(even) {
+  background-color: #f2f2f2;
+}
 //layout tables used in ict preamble
 table.layouttable {
   border-collapse: collapse;
 }
-
-table.layouttable, table.layouttable tr {
+table.layouttable,
+table.layouttable tr {
   border: 1px solid black;
 }
 
-//doesn't seem to work; added style to include figure-caption.html
+// doesn't seem to work; added style to include figure-caption.html
 figcaption {
   font-weight: bold;
   text-align: center;
@@ -271,7 +248,6 @@ a.usa-current::after {
     float: left;
   }
 }
-
 @media screen and (min-width: 640px) {
   .paginate-link {
     display: initial;
@@ -280,7 +256,6 @@ a.usa-current::after {
     display: none;
   }
 }
-
 @media screen and (max-width: 640px) {
   .paginate-link {
     display: none;
@@ -289,8 +264,7 @@ a.usa-current::after {
     display: block;
   }
 }
-} // extra closing brace ???
-
+// } extra closing brace was here !!
 .card-header {
   @extend .usa-card__header;
   text-align: center;
@@ -309,7 +283,7 @@ a.usa-current::after {
   @include u-bg('primary-lighter')
 }
 
- a.style-inherit {
+a.style-inherit {
   color: inherit; /* blue colors for links too */
   text-decoration: inherit; /* no underline */
 }
