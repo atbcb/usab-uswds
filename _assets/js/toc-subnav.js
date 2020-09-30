@@ -31,8 +31,11 @@
         // if cleanedSection is empty go to next element in loop
         if (cleanedSection === "") continue;
 
-        let idtag = cleanedSection.replace(/ /g,"-");
-        elements[i].setAttribute("id",idtag);
+        let idtag = cleanedSection
+          .replace(/ /g,"-")
+          .toLowerCase()
+          .trim();
+        // elements[i].setAttribute("id",idtag);
 
         let li = document.createElement("li");
         let a = document.createElement("a");
