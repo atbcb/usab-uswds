@@ -19,6 +19,9 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 @import "components/table-of-contents-subnav";
 
 // Set fonts
+h1 { // default was 2xl
+  @include u-font('sans', 'xl')
+}
 h4 { // default was sm
   @include u-font('sans', 'md')
 }
@@ -28,17 +31,21 @@ h5, h6 { // default was xs and 2xs
 
 // Add your SASS/CSS here
 
-// stylish 'page-breaks'
+// stylish faux 'page-breaks'
 hr {
-  border-bottom: solid;
-  border-top: solid;
+  border: solid;
+  border-bottom: solid 1px; // same thickness as "paper" border (outside div border thickness = 1px)
+  border-top: solid 1px; // same thickness as "paper" border
   box-sizing: border-box;
-  width: 104%;
-  margin-left: -2%;
-  margin-top: 2rem;
+  margin-left: -1.6rem; // just larger than 1/2 "paper" padding (outside div padding = 2)
+  margin-right: -1.6rem; // just larger than 1/2 "paper" padding
+  margin-top: 2rem; // desired space above faux page break
   margin-bottom: 2rem;
-  padding: 1rem;
-  background-color: #f0f0f0; //match div background color, bg-base-lightest 
+  padding: 1rem; // thickness of background behind "paper"
+  background-color: #f0f0f0; //  must match background color
+  color: black; // must much outside div border color
+  border-left-color: #f0f0f0; // must match background color
+  border-right-color: #f0f0f0; // must match background color
 }
 
 // Page header USAB logo override
