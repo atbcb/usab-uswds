@@ -421,4 +421,5 @@ assets:
     - node_modules/videojs-youtube/dist
     - node_modules/anchor-js
     - node_modules/jquery/dist
+    - node_modules/jquery-toast-plugin/dist
     - images
