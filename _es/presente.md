@@ -4,6 +4,10 @@ order-number: 5
 permalink: /es/presente.html
 ---
 
+### Introducción
+
+El Consejo de Acceso aplica estándares de accesibilidad promulgadas bajo la Ley de Barreras Arquitectónicas de 1968 (Architectural Barriers Act, o ABA, por sus siglas en ingles). La ABA requiere que los edificios o instalaciones diseñadas, construidas, modificadas o arrendados con ciertos fondos federales sean accesibles. Aceptamos, de cualquier miembro del público, las denuncias sobre las barreras de accesibilidad en edificios o instalaciones. Investigamos las denuncias para determinar si el edificio o instalación está sujeta a la ABA. Si determinamos el edificio o instalación está sujeta a ABA, después comprobamos más si las barreras identificadas violan una norma aplicable. Dependiendo del resultado de nuestra investigación, trabajamos junto con la agencia responsable de remediar las barreras de accesibilidad identificados o, si no encontramos violaciones bajo la ABA, vamos a ofrecerle sugerencias sobre quién más podría ser capaz de ayudarle.
+
 ### Como Presentar una Denuncia
 
 Las denuncias se pueden presentar en una de cuatro maneras:
@@ -17,6 +21,9 @@ Las denuncias se pueden presentar en una de cuatro maneras:
 > U.S. Access Board  
 > 1331 F Street NW, Suite 1000
 > Washington, DC  20004-1111
+
+
+* Debido a la pandemia de covid-19, el personal no está en la oficina, por lo que no recomendamos presentar su denuncia por fax o correo.
 
 Para empezar una investigación, todo lo que el Consejo necesita es el nombre y la dirección del establecimiento y una breve descripción de las barreras para la accesibilidad.\
 La información adicional acerca del edificio, tal como fecha de construcción o fuentes conocidas de financiamiento federal, es útil pero no necesaria.
