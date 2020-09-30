@@ -4,7 +4,7 @@ layout: page
 sidenav: false
 permalink: /enforcement/complaint.html
 ---
-# {{ page.title }}
+# Online Architectural Barriers Act (ABA) Complaint Form
 
 ## Introduction
 
@@ -53,6 +53,5 @@ We investigate the complaints to determine whether the building or facility is s
 
 ##  Statement Concerning the Paperwork Reduction Act
 
-Pursuant to the Paperwork Reduction Act of 1995, and its implementing regulations at 5 CFR 1320.8(b)(3), note that the United States Access Board may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a valid OMB Control Number. The Online ABA Complaint Form has OMB Control Number 3014-0012 (Expiration Date: 8/31/2020). 
+Pursuant to the Paperwork Reduction Act of 1995, and its implementing regulations at 5 CFR 1320.8(b)(3), note that the United States Access Board may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a valid OMB Control Number. The Online ABA Complaint Form has OMB Control Number 3014-0012 (Expiration Date: 9/30/2023). 
 
-#### **Editor's Note:** The Office of Management and Budget (OMB) is currently reviewing our request to continue using the Online ABA Complaint Form beyond this date; the OMB Control Number is still deemed valid during the review period.
