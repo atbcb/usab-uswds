@@ -19,14 +19,17 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 @import "components/table-of-contents-subnav";
 
 // Set fonts
-h1 { // default was 2xl
-  @include u-font('sans', 'xl')
+h1, h2 { // default was 2xl
+  @include u-font('serif', 'xl')
+}
+h3 { // default was 2xl
+  @include u-font('serif', 'lg')
 }
 h4 { // default was sm
-  @include u-font('sans', 'md')
+  @include u-font('serif', 'md')
 }
 h5, h6 { // default was xs and 2xs
-  @include u-font('sans', 'sm')
+  @include u-font('serif', 'sm')
 }
 
 // Add your SASS/CSS here
