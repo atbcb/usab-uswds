@@ -30,22 +30,19 @@ La Ley de Accesibilidad en el Transporte Aéreo (ACAA, 49 U.S.C. § 41705) proh�
 
 DOT ha establecido una línea telefónica gratuita para ofrecer asistencia a pasajeros aéreos con discapacidad. Aquellos pasajeros aéreos que tengan problemas con el servicio relacionados con discapacidad pueden llamar gratis dentro de los Estados Unidos al 1-800-778-4838 (voz) o al 1-800-455-9880 (TTY, servicio para personas con sordera) para obtener asistencia. Al igual que antes, los pasajeros aéreos que deseen que el DOT investigue quejas sobre asuntos relacionados con discapacidad deberán presentar sus quejas por carta o por correo electrónico.
 
-Haga clic en estos enlaces para obtener más detalles:
+Haga clic en este enlace para obtener más detalles:
 
-- <http://airconsumer.ost.dot.gov/spanish/CP_DisabilityandDiscrimination.htm>
-- <http://airconsumer.ost.dot.gov/spanish/ACAAcomplaint.htm>
-- <http://airconsumer.ost.dot.gov/spanish/DiscrimComplaintsContacts.htm>
+- <http://transportation.gov/airconsumer.htm>
 
-#### Seguridad en la Aviación y en los Aeropuertos*
+
+#### Seguridad en la Aviación y en los Aeropuertos
 
 Más de 1,8 millones de pasajeros transitan los aeropuertos en los Estados Unidos de América todos los días. La Administración de Seguridad en el Transporte (Transportation Security Administration, o TSA, por sus siglas en inglés) se ha comprometido a brindar el nivel de seguridad y de servicio de atención al cliente más elevado para los pasajeros que estén transitando a través de los puntos de inspección. Todos los pasajeros, sin importar sus necesidades, reciben el mismo trato, con dignidad, respeto y amabilidad. Para más información, póngase en contacto con TSA.
 
 Llame gratis dentro de los Estados Unidos al (866) 289-9673 (voz) o mande un mensaje por correo electrónico al <TSA-ContactCenter@dhs.gov.>
 
-Mire estos enlaces para obtener más detalles:
+Mire este enlace para obtener más detalles:
 
-- TSA en español: <http://www.tsa.gov/es/espa%C3%B1ol>  
-- Problemas: <http://airconsumer.ost.dot.gov/spanish/DiscrimComplaintsContacts.htm>  
 - Página inicio de TSA (en inglés): <http://www.tsa.gov/>
 
 * * * * *
@@ -87,7 +84,7 @@ Para mandar denuncias por escrito:
 *Títulos I y V de la Ley sobre Estadounidenses con Discapacidades de 1990 (Americans with Disabilities Act, o ADA, por sus siglas en inglés) y Secciones 501 y 505 de la Ley de Rehabilitación de 1973*
 
 Títulos I y V de la ADA prohíben la discriminación en el empleo de individuos cualificados con discapacidades en el sector privado, y en los gobiernos locales y estatales. Estas entidades están obligadas a hacer adaptaciones razonables para empleados o solicitantes con discapacidad. Secciones 501 y 505 de la Ley de Rehabilitación de 1973 prohíben la discriminación de individuos cualificados con discapacidades que trabajan en el gobierno federal.\
-[La Comisión para la Igualdad de Oportunidades en el Empleo](http://www.eeoc.gov/spanish/) (Equal Employment Opportunity Comission, o EEOC, por sus siglas en inglés) ejecuta estas leyes. Las agencias federales también están obligadas a hacer adaptaciones razonables para empleados o solicitantes con discapacidad. Para presentar una denuncia de la sección 501, contacte al oficial de igual oportunidad de empleo (EEO) en la Agencia de empleo. Si usted ya ha planteado la cuestión con oficial del EEO de su agencia y no estaba resuelto, o si tiene cualquier otra pregunta sobre este tema, puede comunicarse con la EEOC.
+[La Comisión para la Igualdad de Oportunidades en el Empleo](https://www.eeoc.gov/es/) (Equal Employment Opportunity Comission, o EEOC, por sus siglas en inglés) ejecuta estas leyes. Las agencias federales también están obligadas a hacer adaptaciones razonables para empleados o solicitantes con discapacidad. Para presentar una denuncia de la sección 501, contacte al oficial de igual oportunidad de empleo (EEO) en la Agencia de empleo. Si usted ya ha planteado la cuestión con oficial del EEO de su agencia y no estaba resuelto, o si tiene cualquier otra pregunta sobre este tema, puede comunicarse con la EEOC.
 
 Para más información, llame gratis dentro de los Estados Unidos al 800-669-4000 (voz) o al 800-669-6820 (TTY, servicio para personas con sordera).
 
@@ -188,7 +185,7 @@ La Sección 255 y la Sección 251(a)(2) de la Ley de Comunicaciones de 1934, seg
 
 La Comisión Federal de Comunicaciones (Federal Communications Commission, o FCC, por sus siglas en inglés) es responsable por la aplicación y cumplimiento de los requisitos de acceso para servicios de telecomunicaciones y equipo general.
 
-[Acceso de las personas con discapacidad en la Comisión Federal de comunicaciones (FCC)](http://www.fcc.gov/encyclopedia/disability-rights-office)
+[Acceso de las personas con discapacidad en la Comisión Federal de comunicaciones (FCC)](http://www.fcc.gov/encyclopedia/disability-rights-office) (en inglés)
 
 > Federal Communications Commission  
 > 445 12th Street SW  
@@ -236,7 +233,7 @@ La accesibilidad es muy importante para votantes con discapacidades, y la ley re
 > 950 Pennsylvania Ave. NW  
 > Washington, DC  20530
 
-La Comisión de Asistencia Electoral de los Estados Unidos (U.S. Election Assistance Commission, o EAC, por sus siglas en inglés) fue establecida por la [Ley de Ayude a América a Votar del 2002](http://www.eac.gov/ley_de_ayude_a_america_a_votar/) (Help America Vote Act, o HAVA, por sus siglas en inglés). La EAC es una comisión independiente bipartidista encargada del desarrollo de la orientación para cumplir con los requisitos de la HAVA, la adopción de directrices voluntarias del sistema de votación, y sirviendo como un repositorio nacional de intercambio de información sobre la administración electoral. La EAC también tiene [recursos para los votantes con discapacidades](http://www.eac.gov/voter_resources/resources_for_voters_with_disabilities.aspx) (en inglés), incluyendo las leyes y reglamentos sobre la accesibilidad para votar y las mejores y más recientes prácticas e investigaciones concernientes a los votantes con discapacidades y a aquellos de edad avanzada.
+La Comisión de Asistencia Electoral de los Estados Unidos (U.S. Election Assistance Commission, o EAC, por sus siglas en inglés) fue establecida por la [Ley de Ayude a América a Votar del 2002](https://www.eac.gov/about_the_eac/help_america_vote_act.aspx) (Help America Vote Act, o HAVA, por sus siglas en inglés) (en inglés). La EAC es una comisión independiente bipartidista encargada del desarrollo de la orientación para cumplir con los requisitos de la HAVA, la adopción de directrices voluntarias del sistema de votación, y sirviendo como un repositorio nacional de intercambio de información sobre la administración electoral. La EAC también tiene [recursos para los votantes con discapacidades](http://www.eac.gov/voter_resources/resources_for_voters_with_disabilities.aspx) (en inglés), incluyendo las leyes y reglamentos sobre la accesibilidad para votar y las mejores y más recientes prácticas e investigaciones concernientes a los votantes con discapacidades y a aquellos de edad avanzada.
 
 [Comisión de asistencia electoral de los Estados Unidos](http://www.eac.gov/translations/spanish/)
 
