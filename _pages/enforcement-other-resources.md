@@ -4,7 +4,7 @@ layout: page
 sidenav: false
 permalink: /enforcement/other-resources.html
 ---
-# {{ page.title }}
+# Other Resources
 Various federal laws enforced by other agencies address accessibility and protect the rights of people with disabilities in air travel, buildings and facilities, employment, housing, information and communication technology, programs and services, transportation, and voting. Provided here is a quick guide to these laws and relevant contact information.
 
 - [Air Travel](#air-travel)
@@ -23,8 +23,7 @@ Various federal laws enforced by other agencies address accessibility and protec
 The Air Carrier Access Act prohibits discrimination in air transportation by domestic and foreign air carriers against qualified individuals with physical or mental impairments. For further information, contact the Department of Transportation's Aviation Consumer Protection Division:
 
 Phone:  202-366-2220 (v) or 202-366-0511 (TTY) 
-E-mail:  <airconsumer@ost.dot.gov> 
-Web:  [www.tsa.gov/travel](https://www.tsa.gov/travel)
+Web:  [www.transportation.gov/airconsumer](https://www.transportation.gov/airconsumer)
 
 ### Airport Security and Passenger Screening Procedures
 
@@ -40,8 +39,8 @@ Web:  [www.tsa.gov/travel](https://www.tsa.gov/travel)
 
 The Americans with Disabilities Act (ADA) requires that state and local government facilities, places of public accommodation (such as stores, restaurants, and other facilities open to the public), and commercial facilities be accessible to people with disabilities. The Department of Justice (DOJ) enforces this requirement according to accessibility standards that are based on guidelines issued by the Access Board. For further information, contact the Disability Rights Section in DOJ's Civil Rights Division:
 
-Phone:  800-514-0301 (v) or 800-514-0383 (TTY)  
-Web:  [www.ada.gov](https://www.ada.gov)
+Phone:  (800) 514-0301 (v) or (800) 514-0383 (TTY)  
+Web:  [www.justice.gov/crt/disability-rights-section](https://www.justice.gov/crt/disability-rights-section)
 
 ### Federally Funded Facilities
 
@@ -56,20 +55,20 @@ Title I of the ADA prohibits discrimination against individuals with disabilitie
 Phone:  800-669-4000 (v) or 800-669-6820 (TTY)  
 Videophone:  844-234-5122  
 E-mail:  <info@eeoc.gov>  
-Web:  [www.eeoc.gov/laws](https://www.eeoc.gov/laws)  
+Web:  [www.eeoc.gov/disability-discrimination](https://www.eeoc.gov/disability-discrimination)  
 
 ### Federal Contractors
 
 Section 503 of the Rehabilitation Act prohibits employment discrimination against individuals with disabilities by federal government contractors and subcontractors with contracts of more than $10,000. For further information, contact the Department of Labor's Office of Federal Contract Compliance Programs:
 
 Phone:  800-397-6251 (v) or 877-889-5627 (TTY)  
-Web: [www.dol.gov/ofccp](https://www.dol.gov/ofccp)
+Web: [https://www.dol.gov/agencies/ofccp/section-503](https://www.dol.gov/agencies/ofccp/section-503)
 
 ### Federal Employment
 
 Section 501 of the Rehabilitation Act requires affirmative action and nondiscrimination in employment by federal agencies of the executive branch. To obtain more information or to file a complaint, employees should contact their agency's Equal Employment Opportunity (EEO) Office. Additional information is available from EEOC:
 
-Web:  [www.eeoc.gov/federal](https://www.eeoc.gov/federal)
+Web:  [www.eeoc.gov/federal-sector/overview-federal-sector-eeo-complaint-process](https://www.eeoc.gov/federal-sector/overview-federal-sector-eeo-complaint-process)
 
 ## Housing
 
@@ -78,14 +77,14 @@ Web:  [www.eeoc.gov/federal](https://www.eeoc.gov/federal)
 The Fair Housing Act prohibits discrimination in housing on the basis of disability, as well as race, color, gender, and religion. It covers housing in the public and private sectors and bans discrimination in any aspect of selling or renting housing. For further information, contact the Office of Fair Housing and Equal Opportunity at the Department of Housing and Urban Development:
 
 Phone:  800-669-9777 (v) or 800-927-9275 (TTY)  
-Web:  [www.hud.gov/program_offices](https://www.hud.gov/program_offices)
+Web:  [https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview](https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_act_overview)
 
 ### Public Housing
 
 The ADA prohibits discrimination in public housing facilities that are owned or operated by state and local governments. For further information, contact DOJ's Disability Rights Section:
 
 Phone:  (800) 514-0301 (v) or (800) 514-0383 (TTY)  
-Web:  [www.ada.gov](https://www.ada.gov)
+Web:  [www.justice.gov/crt/disability-rights-section](https://www.justice.gov/crt/disability-rights-section)
 
 ### Federally Funded Housing
 
@@ -109,7 +108,7 @@ _Note:_  Each federal agency is responsible for enforcing Section 508 with resp
 Phone: 202-418-2517 (v) or 888-835-5322 (TTY)  
 Videophone: (844) 432-2275  
 E-mail:  <dro@fcc.gov>  
-Web:  <https://consumercomplaints.fcc.gov>
+Web:  [www.fcc.gov/accessibility](https://www.fcc.gov/accessibility)
 
 ## Programs and Services
 
@@ -117,8 +116,8 @@ Web:  <https://consumercomplaints.fcc.gov>
 
 Title II of the ADA requires access for individuals with disabilities to programs and services provided by state and local governments.  Title III of the ADA covers access to places of public accommodation and commercial facilities, and includes provisions against discrimination that may apply to the provision of goods and services. For further information, contact DOJ's Disability Rights Section:
 
-Phone:  800-514-0301 (v) or 800-514-0383 (TTY)  
-Web: [www.ada.gov](https://www.ada.gov)
+Phone:  (800) 514-0301 (v) or (800) 514-0383 (TTY)  
+Web:  [www.justice.gov/crt/disability-rights-section](https://www.justice.gov/crt/disability-rights-section)
 
 _Note:_  For programs or services related to public transportation, see [Transportation](#transportation) below.
 
@@ -131,7 +130,7 @@ Section 504 of the Rehabilitation Act states that "no qualified individual with 
 Title II of the ADA addresses services and activities of state and local governments, including actions applicable to public transportation provided by public entities, while Title III covers transportation facilities and vehicles operated by private companies. These transportation provisions are intended to improve access to vehicles, transit facilities, and paratransit. For further information, contact the Federal Transit Administration at the Department of Transportation:
 
 Phone:  888-446-4511  
-Web:  [www.transit.dot.gov/regulations-and-guidance](https://www.transit.dot.gov/regulations-and-guidance)
+Web:  [www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/civil-rightsada](https://www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/civil-rightsada)
 
 ## Voting
 
