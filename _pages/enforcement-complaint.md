@@ -4,7 +4,7 @@ layout: page
 sidenav: false
 permalink: /enforcement/complaint.html
 ---
-# Online Architectural Barriers Act (ABA) Complaint Form
+# {{ page.title }}
 
 ## Introduction
 
