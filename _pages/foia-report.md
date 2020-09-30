@@ -10,7 +10,6 @@ permalink: /about/foia-report.html
 ## Section I:  Basic Information Regarding Report
 
 1.  Provide name, title, address, and telephone number of person(s) to be contacted with questions about the Report.
-
 > Gretchen Jacobs  
 > General Counsel / Chief FOIA Officer  
 > U.S. Access Board  
@@ -18,31 +17,22 @@ permalink: /about/foia-report.html
 > Washington, DC  20004  
 > 202-272-0080  
 > Email:&nbsp; [foia@access-board.gov](mailto:foia@access-board.gov)
-
 2.  Provide an electronic link for access to the report on the agency Web site.
-
 > [www.access-board.gov/the-board/budget-and-performance/foia-annual-report](http://www.access-board.gov/the-board/budget-and-performance/foia-annual-report)
-
 3.  Explain how to obtain a copy of the report in paper form.
-
 > For a paper copy of this annual FOIA report, please contact, Gretchen Jacobs, U.S. Access Board General Counsel.
 
 ## Section II:  Making a FOIA Request
 
 1.  Provide names, addresses, and telephone numbers of all individual agency components that receive FOIA requests.
-
 > U.S. Access Board  
 > 1331 F Street NW, Suite 1000  
 > Washington, DC&nbsp; 20004  
 > 202-272-0080  
 > Email:&nbsp; [foia@access-board.gov](mailto:foia@access-board.gov)
-
 2.  Provide a brief description of why some requests are not granted and an overview of certain general categories of the agency's records to which the FOIA exemptions apply.
-
 > Some requests are not granted because they do not reasonably describe requested records, seek records that are not subject to release under FOIA, or the agency has no responsive records.
-
 3.  Provide a functional electronic link to agency FOIA regulations, including the agency's fee schedule.
-
 > U.S. Access Board's FOIA regulations, including the fee schedule, are codified at [36 C.F.R. part 1120](http://www.ecfr.gov/cgi-bin/text-idx?node=pt36.3.1120).
 
 ## Section III:  Acronyms, Definitions, and Exemptions
@@ -93,9 +83,11 @@ permalink: /about/foia-report.html
     </tr>
       </tbody>
 </table>
+
 * * *
 
 ## IV.  Exemption 3 Statutes
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -123,6 +115,7 @@ permalink: /about/foia-report.html
 ## Section V
 
 ### V.A.  FOIA REQUESTS — RECEIVED, PROCESSED AND PENDING FOIA REQUESTS
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -150,7 +143,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### V.B.(1).  DISPOSITION OF FOIA REQUESTS — ALL PROCESSED REQUESTS
+
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
     <thead>
@@ -210,7 +205,9 @@ permalink: /about/foia-report.html
     </tbody>
   </table>
 </div>
+
 ### V.B.(2).  DISPOSITION OF FOIA REQUESTS — "OTHER" REASONS FOR "FULL DENIALS BASED ON REASONS OTHER THAN EXEMPTIONS"
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -235,7 +232,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### V.B.(3).  DISPOSITION OF FOIA REQUESTS — NUMBER OF TIMES EXEMPTIONS APPLIED
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -293,11 +292,13 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 * * *
 
 ## Section VI
 
 ### VI.A.  ADMINISTRATIVE APPEALS OF INITIAL DETERMINATIONS OF FOIA REQUESTS — RECEIVED, PROCESSED, AND PENDING ADMINISTRATIVE APPEALS
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -325,7 +326,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### VI.B.  DISPOSITION OF ADMINISTRATIVE APPEALS — ALL PROCESSED APPEALS
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -356,7 +359,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### VI.C.(1).  REASONS FOR DENIAL ON APPEAL — NUMBER OF TIMES EXEMPTIONS APPLIED
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -414,7 +419,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### VI.C.(2).  REASONS FOR DENIAL ON APPEAL — REASONS OTHER THAN EXEMPTIONS
+
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
     <thead>
@@ -465,7 +472,9 @@ permalink: /about/foia-report.html
     </tbody>
   </table>
 </div>
+
 ### VI.C.(3).  REASONS FOR DENIAL ON APPEAL — "OTHER" REASONS
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -490,7 +499,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### VI.C.(4).  RESPONSE TIME FOR ADMINISTRATIVE APPEALS
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -518,7 +529,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### VI.C.(5).  TEN OLDEST PENDING ADMINISTRATIVE APPEALS
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -593,11 +606,13 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 * * *
 
 ## Section VII
 
 ### VII.A.  FOIA REQUESTS — RESPONSE TIME FOR ALL PROCESSED PERFECTED REQUESTS
+
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
     <thead>
@@ -656,7 +671,9 @@ permalink: /about/foia-report.html
     </tbody>
   </table>
 </div>
+
 ### VII.B.  PROCESSED REQUESTS — RESPONSE TIME FOR PERFECTED REQUESTS IN WHICH INFORMATION WAS GRANTED
+
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
     <thead>
@@ -715,7 +732,9 @@ permalink: /about/foia-report.html
     </tbody>
   </table>
 </div>
+
 ### VII.C.  PROCESSED SIMPLE REQUESTS — RESPONSE TIME IN DAY INCREMENTS
+
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
     <thead>
@@ -775,7 +794,9 @@ permalink: /about/foia-report.html
     </tbody>
   </table>
 </div>
+
 ### VII.C.  PROCESSED COMPLEX REQUESTS — RESPONSE TIME IN DAY INCREMENTS
+
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
     <thead>
@@ -835,7 +856,9 @@ permalink: /about/foia-report.html
     </tbody>
   </table>
 </div>
+
 ### VII.C.  PROCESSED REQUESTS GRANTED EXPEDITED PROCESSING — RESPONSE TIME IN DAY INCREMENTS
+
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
     <thead>
@@ -895,7 +918,9 @@ permalink: /about/foia-report.html
     </tbody>
   </table>
 </div>
+
 ### VII.D.  PENDING REQUESTS — ALL PENDING PERFECTED REQUESTS
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -943,7 +968,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### VII.E.  PENDING REQUESTS — TEN OLDEST PENDING PERFECTED REQUESTS
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -1018,12 +1045,13 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
-</div>
+
 * * *
 
 ## Section VIII
 
 ### VIII.A.  REQUESTS FOR EXPEDITED PROCESSING
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -1054,7 +1082,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### VIII.B.  Requests for Fee Waiver
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -1082,9 +1112,11 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 * * *
 
 ## IX.  FOIA Personnel and Costs
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -1122,9 +1154,11 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 * * *
 
 ## X.  Fees Collected for Processing Requests
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -1146,11 +1180,13 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 * * *
 
 ## Section XI
 
 ### XI.A.  Number of Times Subsection (C) Used
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -1169,9 +1205,11 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 * * *
 
 ### XI.B.  Number of Subsection (A)(2) Postings
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -1193,6 +1231,7 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 * * *
 
 ## Section XII
@@ -1219,7 +1258,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### XII.B.  CONSULTATIONS ON FOIA REQUESTS — RECEIVED, PROCESSED, AND PENDING CONSULTATIONS
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -1247,7 +1288,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### XII.C.  CONSULTATIONS ON FOIA REQUESTS — TEN OLDEST CONSULTATIONS RECEIVED FROM OTHER AGENCIES AND PENDING AT THE AGENCY
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -1322,7 +1365,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### XII.D.(1).  COMPARISON OF NUMBERS OF REQUESTS FROM PREVIOUS AND CURRENT ANNUAL REPORT — REQUESTS RECEIVED AND PROCESSED
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -1354,7 +1399,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### XII.D.(2).  COMPARISON OF NUMBERS OF REQUESTS FROM PREVIOUS AND CURRENT ANNUAL REPORT — BACKLOGGED REQUESTS
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -1376,7 +1423,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### XII.E.(1).  COMPARISON OF NUMBERS OF ADMINISTRATIVE APPEALS FROM PREVIOUS AND CURRENT ANNUAL REPORT — APPEALS RECEIVED AND PROCESSED
+
 <table class="usa-table">
   <thead>
     <tr>
@@ -1408,7 +1457,9 @@ permalink: /about/foia-report.html
     </tr>
   </tbody>
 </table>
+
 ### XII.E.(2).  COMPARISON OF NUMBERS OF ADMINISTRATIVE APPEALS FROM PREVIOUS AND CURRENT ANNUAL REPORT — BACKLOGGED APPEALS
+
 <table class="usa-table">
   <thead>
     <tr>
