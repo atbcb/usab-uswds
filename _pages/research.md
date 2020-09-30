@@ -1,11 +1,9 @@
 ---
 title: Research
-layout: page
-sidenav: false
+layout: universal
+width: desktop
 permalink: /research/
 ---
-
-# {{ page.title }}
 
 ![stylized reach range diagram based on da Vinci Vitruvian Man sketch]({{ site.baseurl }}/images/vitruvian_man.jpg){: .img-right}
 

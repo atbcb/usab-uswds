@@ -39,14 +39,13 @@ toc-group:
     </div>
   </div>
 
-  <div class="grid-container {% if page.width == 'desktop' %}maxw-desktop{% else %}maxw-full{% endif %}">
+  <div class="{% if page.width == 'desktop' %}grid-container maxw-desktop{% else %}maxw-full{% endif %}">
     <div class="grid-row">
       {% if page.toc %}
       {% include {{ page.toc }} %}
       {% endif %}
       <div class="desktop:grid-col padding-0">
         <div id="content" class="usa-prose margin-3 padding-3 bg-white border">
-          <h2>{{page.title}}</h2>
           {% if page.file %}
           <div class="clearfix">
               <span class="float-right">{{ page.file-description }}

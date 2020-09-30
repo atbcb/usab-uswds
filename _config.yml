@@ -195,9 +195,10 @@ defaults:
       path: ""
       type: "ada-guides"
     values:
-      collection-title: "Guide to the ADA Accessibility Standards"
+      banner-title: "Guide to the ADA Accessibility Standards"
       collection-folder: ada-guides
-      layout: standards
+      layout: universal
+      toc: toc-auto.html
       file-directory: /files/ada-aba/guides/ada/
       image-directory: /images/ada-aba/guides/
       right-sidenav: sidenav-ada.html
