@@ -17,13 +17,13 @@ site, this is the place to do it.
   <!-- Title and meta description
     ================================================== -->
   <title>
-    {% if paginator %}
+    {% if paginator %} {% comment %} paginator conditional didn't help to get page title working {% endcomment %}
       {{ paginator.title }} - page {{ paginator.page }} of {{ paginator.total_pages }}
     {% elsif page.title %}
       {{ page.title}}
     {% else %}
       {{ site.title }}
-    {% endif %}
+    {% endif %} {% comment %} even with this code we ended up using js to set document.title to page.title {% endcomment %}
   </title>
   <meta property="og:title" content="{{site.title}} - {{page.title}}">
   <meta name="description" content="{{site.description}}">
