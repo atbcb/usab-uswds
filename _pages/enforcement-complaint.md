@@ -37,11 +37,11 @@ Step 5: Confirmation. The confirmation page will appear and show an automaticall
 1. E-mail to <enforce@access-board.gov>;
 2. Fax to (202) 272-0081; or
 3. Mail to: 
-- Compliance and Enforcement Section 
-- Office of the General Counsel 
-- U.S. Access Board 
-- 1331 F Street NW, Suite 1000 
-- Washington, DC&nbsp;  20004-1111 
+> Compliance and Enforcement Section  
+> Office of the General Counsel  
+> U.S. Access Board  
+> 1331 F Street NW, Suite 1000  
+> Washington, DC&nbsp;  20004-1111 
             
 #### *Note:* Due to office closures caused by Covid-19, we recommend not filing by mail or fax since staff is not present in the office to receive that correspondence.
 
