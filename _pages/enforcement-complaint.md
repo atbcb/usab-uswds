@@ -37,13 +37,13 @@ Step 5: Confirmation. The confirmation page will appear and show an automaticall
 1. E-mail to <enforce@access-board.gov>;
 2. Fax to (202) 272-0081; or
 3. Mail to: 
-       Compliance and Enforcement Section
-       Office of the General Counsel
-       U.S. Access Board
-       1331 F Street, N.W., Suite 1000
-       Washington, D.C.  20004-1111
+> Compliance and Enforcement Section 
+> Office of the General Counsel 
+> U.S. Access Board 
+> 1331 F Street NW, Suite 1000 
+> Washington, DC&nbsp;  20004-1111 
             
-#### **Editor's Note:** Due to office closures caused by Covid-19, we recommend not filing by mail or fax since staff is not present in the office to receive that correspondence.
+#### *Note:* Due to office closures caused by Covid-19, we recommend not filing by mail or fax since staff is not present in the office to receive that correspondence.
 
 ## How We Handle Your Complaint
 
@@ -53,6 +53,5 @@ We investigate the complaints to determine whether the building or facility is s
 
 ##  Statement Concerning the Paperwork Reduction Act
 
-Pursuant to the Paperwork Reduction Act of 1995, and its implementing regulations at 5 CFR 1320.8(b)(3), note that the United States Access Board may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a valid OMB Control Number. The Online ABA Complaint Form has OMB Control Number 3014-0012 (Expiration Date: 8/31/2020). 
+Pursuant to the Paperwork Reduction Act of 1995, and its implementing regulations at 5 CFR 1320.8(b)(3), note that the United States Access Board may not conduct or sponsor, and a person is not required to respond to, a collection of information unless it displays a valid OMB Control Number. The Online ABA Complaint Form has OMB Control Number 3014-0012 (Expiration Date: 9/30/2023). 
 
-#### **Editor's Note:** The Office of Management and Budget (OMB) is currently reviewing our request to continue using the Online ABA Complaint Form beyond this date; the OMB Control Number is still deemed valid during the review period.
