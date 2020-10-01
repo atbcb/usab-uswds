@@ -4,7 +4,7 @@ layout: page
 sidenav: false
 permalink: /enforcement/investigation.html
 ---
-# How Complaints are Investigated
+# {{ page.title }}
 
 The Board enforces the ABA through the investigation of complaints.
 
