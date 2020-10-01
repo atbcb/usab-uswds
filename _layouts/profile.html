@@ -1,19 +1,22 @@
 ---
-layout: default
+layout: page
+sidenav: true
 ---
 
 {% comment %}
-  This is used in authors posts. The index page can be found at authors/index.html
+  This is used for individula Board Member pages
 {% endcomment %}
-
+<script>
+  document.title="{{ page.full_name }}";
+</script>
 <div class="usa-layout-docs usa-section">
   <div class="grid-container maxw-desktop">
     <div class="grid-row grid-gap">
       <div class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-        <h1 class="title">{{page.full_name}}</h1>
+        <h1 class="title">{{ page.full_name }}</h1>
             <span class="text-base text-bold">{{ page.agency }}</span>
           {% if page.bio %}
-            <img class="img-right maxw-card" src="{{ site.baseurl }}{{page.image}}">
+            <img class="img-right maxw-card" src="{{ site.baseurl }}{{ page.image }}">
             <p>{{ page.bio }}</p>
           {% endif %}  
       </div>
