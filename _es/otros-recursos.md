@@ -16,7 +16,7 @@ Varias leyes federales aplicadas por otras agencias federales abordan la accesib
 - [Transporte](#transit)
 - [Votar](#voting)
 
-*Nota:* Además de las leyes que hemos citado más arriba, le recomendamos que los lectores consideren la publicación, [Guía sobre las Leyes de Derechos de Discapacitados](http://www.ada.gov/cguide_spanish.htm), desarrollado por el Departamento de Justicia de los Estados Unidos.
+*Nota:* Además de las leyes que hemos citado más arriba, le recomendamos que los lectores consideren la publicación, [Guía sobre las Leyes de Derechos de Discapacitados](http://www.ada.gov/cguide_spanish.htm), desarrollado por el Departamento de Justicia de los Estados Unidos, y este enlace: [www.usa.gov/espanol/personas-con-discapacidades] (https://www.usa.gov/espanol/personas-con-discapacidades)
 
 ***Descardo de responsabilidad:**  Proveemos toda esta información como un servicio público a los miembros del público que no leen inglés.  Estos materiales son mantenidos en este servidor con el objetivo de mejorar el acceso público a estos recursos.  Este es un servicio de desarrollo continuo.  El usuario debe estar consciente de que, aunque intentamos mantener la información en esta página precisa y al día, a menudo habrá demoras entre cambios en estos materiales y su aparición o modificación de esta página.  Haremos todo lo posible por corregir los errores que nos sean señalados.*
 
@@ -66,7 +66,7 @@ Mire estos enlaces para obtener más detalles:
 - [Página principal de la Sección de Derechos en Razón a Discapacidad](http://www.justice.gov/crt/about/drs/drshome_spanish.php)
 - [Reglamentos y materiales de asistencia técnica en español referentes a la Ley sobre Estadounidenses con Discapacidades (ADA)](http://www.ada.gov/publicat_spanish.htm)
 - [Preguntas frecuentes sobre los Títulos II y III de la ADA](http://www.ada.gov/faqada_spanish.htm)
-- [Formulario de denuncia de discriminación bajo la ADA](http://www.ada.gov/complaint/?language=es)
+- [Formulario de denuncia de discriminación bajo la ADA](https://civilrights.justice.gov/report/)
 
 Para mandar denuncias por escrito:
 
@@ -123,7 +123,7 @@ Mire estos enlaces para obtener más detalles:
 
 #### Vivienda pública
 
-La ADA prohíbe la discriminación en viviendas públicas. Para más información contacte a la [Sección de Derechos en Razón de Discapacidad](http://www.justice.gov/crt/about/drs/drssec_spanish.php). Para hacer una denuncia, llene el [Formulario en línea de denuncia de discriminación bajo la ADA](http://www.ada.gov/complaint/?language=es).
+La ADA prohíbe la discriminación en viviendas públicas. Para más información contacte a la [Sección de Derechos en Razón de Discapacidad](http://www.justice.gov/crt/about/drs/drssec_spanish.php). Para hacer una denuncia, llene el [Formulario de denuncia de discriminación bajo la ADA](https://civilrights.justice.gov/report/).
 
 * * * * *
 
@@ -156,7 +156,7 @@ Mire estos enlaces para obtener más detalles:
 - [Página principal de la Sección de Derechos en Razón a Discapacidad](http://www.justice.gov/crt/about/drs/drshome_spanish.php)
 - [Reglamentos y materiales de asistencia técnica en español referentes a la Ley sobre Estadounidenses con Discapacidades (ADA)](http://www.ada.gov/publicat_spanish.htm)
 - [Preguntas frecuentes sobre los Títulos II y III de la ADA](http://www.ada.gov/faqada_spanish.htm)
-- [Formulario de denuncia de discriminación bajo la ADA](http://www.ada.gov/complaint/?language=es)
+- [Formulario de denuncia de discriminación bajo la ADA](https://civilrights.justice.gov/report/)
 
 Para mandar denuncias por escrito:
 
@@ -185,7 +185,7 @@ La Sección 255 y la Sección 251(a)(2) de la Ley de Comunicaciones de 1934, seg
 
 La Comisión Federal de Comunicaciones (Federal Communications Commission, o FCC, por sus siglas en inglés) es responsable por la aplicación y cumplimiento de los requisitos de acceso para servicios de telecomunicaciones y equipo general.
 
-[Acceso de las personas con discapacidad en la Comisión Federal de comunicaciones (FCC)](http://www.fcc.gov/encyclopedia/disability-rights-office) (en inglés)
+[Acceso de las personas con discapacidad en la Comisión Federal de comunicaciones (FCC)](https://www.fcc.gov/accessibility) (en inglés)
 
 > Federal Communications Commission  
 > 445 12th Street SW  
@@ -194,7 +194,7 @@ La Comisión Federal de Comunicaciones (Federal Communications Commission, o FCC
 > TTY, servicio para personas con sordera: 1-888-835-5322  
 > Videoteléfono: 1-844-432-2275  
 > Fax: 1-866-418-0232  
-> Correo electrónico: <access@fcc.gov>
+> Correo electrónico: <dro@fcc.gov>
 
 * * * * *
 
