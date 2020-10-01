@@ -4,7 +4,8 @@ layout: page
 sidenav: false
 permalink: /enforcement/other-resources.html
 ---
-# Other Resources
+# {{ page.title }}
+
 Various federal laws enforced by other agencies address accessibility and protect the rights of people with disabilities in air travel, buildings and facilities, employment, housing, information and communication technology, programs and services, transportation, and voting. Provided here is a quick guide to these laws and relevant contact information.
 
 - [Air Travel](#air-travel)
@@ -39,7 +40,7 @@ Web:  [www.tsa.gov/travel](https://www.tsa.gov/travel)
 
 The Americans with Disabilities Act (ADA) requires that state and local government facilities, places of public accommodation (such as stores, restaurants, and other facilities open to the public), and commercial facilities be accessible to people with disabilities. The Department of Justice (DOJ) enforces this requirement according to accessibility standards that are based on guidelines issued by the Access Board. For further information, contact the Disability Rights Section in DOJ's Civil Rights Division:
 
-Phone:  (800) 514-0301 (v) or (800) 514-0383 (TTY)  
+Phone:  800-514-0301 (v) or 800-514-0383 (TTY)  
 Web:  [www.justice.gov/crt/disability-rights-section](https://www.justice.gov/crt/disability-rights-section)
 
 ### Federally Funded Facilities
@@ -83,7 +84,7 @@ Web:  [https://www.hud.gov/program_offices/fair_housing_equal_opp/fair_housing_
 
 The ADA prohibits discrimination in public housing facilities that are owned or operated by state and local governments. For further information, contact DOJ's Disability Rights Section:
 
-Phone:  (800) 514-0301 (v) or (800) 514-0383 (TTY)  
+Phone:  800-514-0301 (v) or 800-514-0383 (TTY)  
 Web:  [www.justice.gov/crt/disability-rights-section](https://www.justice.gov/crt/disability-rights-section)
 
 ### Federally Funded Housing
@@ -94,8 +95,8 @@ Housing that is designed, built, altered, or leased with federal funds may be su
 
 Section 508 of the Rehabilitation Act requires access to information and communication technology (ICT) developed, procured, maintained, or used by federal agencies Access to ICT is addressed by Access Board standards and guidelines issued under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. For technical assistance on the Section 508 and Section 255 requirements, contact:
 
-U.S. Access Board
-Phone:  (800) 872-2253 (v) or (800) 993-2822 (TTY)\
+U.S. Access Board  
+Phone:  800-872-2253 (v) or 800-993-2822 (TTY)  
 E-mail:  <508@access-board.gov>  
 Web:  [www.access-board.gov/ict/]({{ site.baseurl }}/ict/)
 
@@ -106,7 +107,7 @@ Web: [www.section508.gov](https://www.section508.gov)
 _Note:_  Each federal agency is responsible for enforcing Section 508 with respect to its own ICT development, procurement, maintenance, and use.  The Federal Communications Commission (FCC) enforces Section 255.  For further information on Section 255, contact the FCC's Disability Rights Office:
 
 Phone: 202-418-2517 (v) or 888-835-5322 (TTY)  
-Videophone: (844) 432-2275  
+Videophone: 844-432-2275  
 E-mail:  <dro@fcc.gov>  
 Web:  [www.fcc.gov/accessibility](https://www.fcc.gov/accessibility)
 
@@ -116,7 +117,7 @@ Web:  [www.fcc.gov/accessibility](https://www.fcc.gov/accessibility)
 
 Title II of the ADA requires access for individuals with disabilities to programs and services provided by state and local governments.  Title III of the ADA covers access to places of public accommodation and commercial facilities, and includes provisions against discrimination that may apply to the provision of goods and services. For further information, contact DOJ's Disability Rights Section:
 
-Phone:  (800) 514-0301 (v) or (800) 514-0383 (TTY)  
+Phone:  800-514-0301 (v) or 800-514-0383 (TTY)  
 Web:  [www.justice.gov/crt/disability-rights-section](https://www.justice.gov/crt/disability-rights-section)
 
 _Note:_  For programs or services related to public transportation, see [Transportation](#transportation) below.
@@ -138,7 +139,7 @@ Web:  [www.transit.dot.gov/regulations-and-guidance/civil-rights-ada/civil-righ
 
 The Voting Accessibility for the Elderly and Handicapped Act of 1984 generally requires polling places across the United States to be physically accessible to people with disabilities for federal elections. For further information, contact the Voting Section in DOJ's Civil Rights Division:
 
-Phone:  800-253-3931 (v/TTY)\
+Phone:  800-253-3931 (v/TTY)  
 Web:  [www.justice.gov/crt/voting-section](https://www.justice.gov/crt/voting-section)
 
 ### Help America Vote Act
