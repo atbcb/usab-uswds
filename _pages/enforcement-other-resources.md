@@ -45,7 +45,7 @@ Web:  [www.justice.gov/crt/disability-rights-section](https://www.justice.gov/cr
 
 ### Federally Funded Facilities
 
-See [information]({{ site.baseurl }}/enforcement/complaint) on the ABA.
+See [information]({{ site.baseurl }}/enforcement/complaint.html) on the ABA.
 
 ## Employment
 
@@ -89,7 +89,7 @@ Web:  [www.justice.gov/crt/disability-rights-section](https://www.justice.gov/c
 
 ### Federally Funded Housing
 
-Housing that is designed, built, altered, or leased with federal funds may be subject to the [ABA]({{ site.baseurl }}/enforcement/complaint).
+Housing that is designed, built, altered, or leased with federal funds may be subject to the [ABA]({{ site.baseurl }}/enforcement/complaint.html).
 
 ## Information and Communication Technology
 
