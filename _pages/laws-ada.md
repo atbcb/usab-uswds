@@ -1,7 +1,7 @@
 ---
 title: Americans with Disabilities Act
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /laws/ada.html
 ---
 

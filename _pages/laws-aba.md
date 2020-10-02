@@ -1,7 +1,7 @@
 ---
 title: Architectural Barriers Act
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /laws/aba.html
 ---
 

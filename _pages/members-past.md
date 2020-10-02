@@ -1,7 +1,7 @@
 ---
 title: Former Public Board Members
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/members-past.html
 ---
 

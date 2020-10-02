@@ -1,7 +1,7 @@
 ---
 title: Privacy Policy
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/policy/privacy.html
 ---
 

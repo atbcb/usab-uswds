@@ -1,7 +1,7 @@
 ---
 title: TemplateDoc
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/template.html
 ---
 

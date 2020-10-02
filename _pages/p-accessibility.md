@@ -1,7 +1,7 @@
 ---
 title: Accessibility Statement
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/policy/accessibility.html
 ---
 

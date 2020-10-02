@@ -1,7 +1,7 @@
 ---
 title: Employee Survey Results 
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/fevs.html
 ---
 

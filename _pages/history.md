@@ -1,7 +1,7 @@
 ---
 title: Board History
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/history.html
 ---
 

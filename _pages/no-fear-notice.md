@@ -1,7 +1,7 @@
 ---
 title: No FEAR Act Notice
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/policy/no-fear-notice.html
 ---
 

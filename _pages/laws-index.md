@@ -1,7 +1,7 @@
 ---
 title: Laws 
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /laws/
 ---
 

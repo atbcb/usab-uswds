@@ -1,7 +1,7 @@
 ---
 title: Fragrance-Free Environment
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/policy/ffe.html
 ---
 

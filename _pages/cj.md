@@ -1,7 +1,7 @@
 ---
 title: Budget Justification
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /cj/
 ---
 

@@ -58,13 +58,13 @@ datafile: collections
 
 The reference to `datafile` referers to the name of the file in `_data/collections.yml` and loops through the values. Feel free to modify this as needed.
 
-✅  There are two different kinds of `pages`, one does not have a side bar navigation, and the other uses `_includes/sidenav.html`. You can enable this option by adding `sidenav: true` to your page front matter.
+✅  There are two different kinds of `pages`, one does not have a side bar navigation, and the other uses `_includes/sidenav.html`. You can enable this option by adding `toc: sidenav.html` to your page front matter.
 
 ```
 ---
 title: Document with Sidenav
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /document-with-sidenav
 ---
 ```

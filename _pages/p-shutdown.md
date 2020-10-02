@@ -1,7 +1,7 @@
 ---
 title: Shutdown Plan
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/policy/shutdown.html
 ---
 

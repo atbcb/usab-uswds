@@ -1,7 +1,7 @@
 ---
 title: Document with Sidenav
 layout: page
-sidenav: true
+toc: sidenav.html
 ---
 
 # Section heading (h1)

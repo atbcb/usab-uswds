@@ -1,7 +1,8 @@
 ---
 title: About the U.S. Access Board
 banner-title: About the U.S. Access Board
-layout: universal
+layout: page
+banner-title: About the U.S. Access Board
 toc: sidenav.html
 permalink: /about/
 ---

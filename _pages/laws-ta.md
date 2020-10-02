@@ -1,7 +1,7 @@
 ---
 title: Telecommunications Act
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /laws/ta.html
 ---
 

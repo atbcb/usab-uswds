@@ -1,7 +1,7 @@
 ---
 title: Information Quality
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/policy/iq.html
 ---
 

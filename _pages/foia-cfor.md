@@ -1,7 +1,7 @@
 ---
 title: Chief FOIA Officer Report
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/foia-cfor.html
 ---
 

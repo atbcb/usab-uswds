@@ -1,7 +1,7 @@
 ---
 title: Reasonable Accommodation Procedures
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/policy/ra.html
 ---
 

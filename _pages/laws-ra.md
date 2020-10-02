@@ -1,7 +1,7 @@
 ---
 title: Rehabilitation Act
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /laws/ra.html
 ---
 

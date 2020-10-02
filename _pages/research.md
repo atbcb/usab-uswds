@@ -1,7 +1,6 @@
 ---
 title: Research
-layout: universal
-width: desktop
+layout: page
 permalink: /research/
 ---
 
@@ -19,7 +18,7 @@ The Board welcomes information on research initiatives related to accessibility 
 The Board maintains a strong interest in coordinating research with other entities and in exploring potential partnerships.&nbsp;
 For more information about the Board’s research program, contact Dave Yanchulis, Director of the Office of Technical and Information Services, at <ta@access-board.gov>.
 
----
+
 
 ## Completed Research
 ### Building Elements and Spaces

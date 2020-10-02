@@ -1,7 +1,7 @@
 ---
 title: Freedom of Information Act
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/policy/foia.html
 ---
 

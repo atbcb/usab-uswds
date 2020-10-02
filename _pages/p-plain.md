@@ -1,7 +1,7 @@
 ---
 title: Plain Language
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/policy/plain.html
 ---
 

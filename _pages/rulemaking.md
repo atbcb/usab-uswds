@@ -1,7 +1,7 @@
 ---
 title: Rulemaking Process
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/rulemaking.html
 ---
 
