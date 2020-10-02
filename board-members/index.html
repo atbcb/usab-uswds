@@ -33,49 +33,47 @@ title: Board Members
       <ul class="usa-card-group">
         {% for chair in chairs %} 
         <li class="tablet:grid-col-6 usa-card">
-          <div class="usa-card__container gray-to-color">
-            <header class="card-header">
-              <h2 class="usa-card__heading">Chair</h2>
-            </header>
-            <div class="usa-card__body">
-              <h3 class="text-center margin-y-0">{{ chair.full_name }}</h3>
-              {% if chair.agency %}
-              <h4 class="text-center margin-y-0">{{ chair.agency }}</h4>
-              {% endif %}           
-            </div>
-            <div class="usa-card__media usa-card__media--inset">
-              <div class="usa-card__img">
-                <img src="{{ site.baseurl }}{{ chair.image }}" alt="Profile picture of {{ chair.full_name }}">
+          <a class="style-inherit" href="{{ site.baseurl }}/about/board-members/{{ chair.name }}">
+            <div class="usa-card__container gray-to-color card-shadow">
+              <header class="card-header">
+                <h2 class="usa-card__heading">Chair</h2>
+              </header>
+              <div class="usa-card__body">
+                <h3 class="text-center margin-y-0">{{ chair.full_name }}</h3>
+                {% if chair.agency %}
+                <h4 class="text-center margin-y-0">{{ chair.agency }}</h4>
+                {% endif %}           
+              </div>
+              <div class="usa-card__media usa-card__media--inset">
+                <div class="usa-card__img">
+                  <img src="{{ site.baseurl }}{{ chair.image }}" alt="Profile picture of {{ chair.full_name }}">
+                </div>
               </div>
             </div>
-            <div class="usa-card__footer margin-x-auto">
-              <a href="{{ site.baseurl }}/about/board-members/{{ chair.name }}"><button class="usa-button">Biography</button></a>
-            </div>
-          </div>
+          </a>
         </li>
         {% endfor %}  
 
         {% for vice-chair in vice-chairs %}
         <li class="tablet:grid-col-6 usa-card">
-          <div class="usa-card__container gray-to-color">
-            <header class="card-header">
-              <h2 class="usa-card__heading">Vice-Chair</h2>
-            </header>
-            <div class="usa-card__body">
-              <h3 class="text-center margin-y-0">{{ vice-chair.full_name }}</h3>
-              {% if vice-chair.agency %}
-              <h4 class="text-center margin-y-0">{{ vice-chair.agency }}</h4>
-              {% endif %}           
-            </div>
-            <div class="usa-card__media usa-card__media--inset">
-              <div class="usa-card__img">
-                <img src="{{ site.baseurl }}{{ vice-chair.image }}" alt="Profile picture of {{ vice-chair.full_name }}">
+          <a class="style-inherit" href="{{ site.baseurl }}/about/board-members/{{ vice-chair.name }}">
+            <div class="usa-card__container gray-to-color card-shadow">
+              <header class="card-header">
+                <h2 class="usa-card__heading">Vice-Chair</h2>
+              </header>
+              <div class="usa-card__body">
+                <h3 class="text-center margin-y-0">{{ vice-chair.full_name }}</h3>
+                {% if vice-chair.agency %}
+                <h4 class="text-center margin-y-0">{{ vice-chair.agency }}</h4>
+                {% endif %}           
+              </div>
+              <div class="usa-card__media usa-card__media--inset">
+                <div class="usa-card__img">
+                  <img src="{{ site.baseurl }}{{ vice-chair.image }}" alt="Profile picture of {{ vice-chair.full_name }}">
+                </div>
               </div>
             </div>
-            <div class="usa-card__footer margin-x-auto">
-              <a href="{{ site.baseurl }}/about/board-members/{{ vice-chair.name }}"><button class="usa-button">Biography</button></a>
-            </div>
-          </div>
+          </a>
         </li>
         {% endfor %}  
       </ul>
@@ -91,23 +89,21 @@ title: Board Members
       {% for member in p-members %}
       {% if member.status == "current" %}
         <li class="tablet:grid-col-3 usa-card">
-          <div class="usa-card__container gray-to-color">            
-            <div class="padding-1">
-              <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
+          <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
+            <div class="usa-card__container gray-to-color card-shadow">            
+              <div class="padding-1">
                 <h3 class="card-name">{{ member.full_name }}</h3>
-                {% if member.agency %}
-                <p class="card-text">{{ member.agency }}</p>
-                {% endif %}
-              </a>
-            </div>
-            <div class="usa-card__media usa-card__media--inset">
-              <div class="usa-card__img maxw-15 margin-x-auto">
-                <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
+                  {% if member.agency %}
+                  <p class="card-text">{{ member.agency }}</p>
+                  {% endif %}
+              </div>
+              <div class="usa-card__media usa-card__media--inset">
+                <div class="usa-card__img maxw-15 margin-x-auto">
                   <img src="{{ site.baseurl }}{{ member.image }}" alt="Profile photo of {{ member.full_name }}">
-                </a>
+                </div>
               </div>
             </div>
-          </div>
+          </a>
         </li>
         {% endif %} 
         {% endfor %}  
@@ -124,23 +120,21 @@ title: Board Members
       {% for member in f-members %}
       {% if member.status == "current" %}
         <li class="tablet:grid-col-3 usa-card">
-          <div class="usa-card__container gray-to-color">            
-            <div class="padding-1">
-              <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
-                <h3 class="card-name">{{ member.full_name }}</h3>
-                {% if member.agency %}
-                <p class="card-text">{{ member.agency }}</p>
-                {% endif %}
-              </a>
-            </div>
-            <div class="usa-card__media usa-card__media--inset">
-              <div class="usa-card__img maxw-15 margin-x-auto">
-                <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
+          <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
+            <div class="usa-card__container gray-to-color card-shadow">            
+              <div class="padding-1">
+                  <h3 class="card-name">{{ member.full_name }}</h3>
+                  {% if member.agency %}
+                  <p class="card-text">{{ member.agency }}</p>
+                  {% endif %}
+              </div>
+              <div class="usa-card__media usa-card__media--inset">
+                <div class="usa-card__img maxw-15 margin-x-auto">
                   <img src="{{ site.baseurl }}{{ member.image }}" alt="Profile photo of {{ member.full_name }}">
-                </a>
+                </div>
               </div>
             </div>
-          </div>
+          </a>
         </li>
         {% endif %} 
         {% endfor %}  
