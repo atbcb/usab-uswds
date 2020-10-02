@@ -13,6 +13,7 @@
     "test": "bundle exec htmlproofer _site; npx a11y '_site/**/*.html'"
   },
   "dependencies": {
+    "@fortawesome/fontawesome-free": "^5.15.0",
     "anchor-js": "^4.2.2",
     "dompurify": "^2.0.14",
     "jekyll": "^3.0.0-beta1",
