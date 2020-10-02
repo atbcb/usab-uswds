@@ -173,8 +173,8 @@
         if (this.options.placement === 'left') {
           anchor.style.position = 'absolute';
           anchor.style.left = '0';
-          anchor.style.marginLeft = '1em';
-          anchor.style.paddingLeft = '0.5em';
+          anchor.style.marginLeft = '1rem';
+          anchor.style.paddingLeft = '0.75rem';
           //elements[i].style.display = 'inline';
           //elements[i].insertAdjacentElement('afterend',anchor);
           elements[i].appendChild(anchor);
