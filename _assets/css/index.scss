@@ -33,6 +33,14 @@ a.usa-current::after {
   content: "→" !important;
 }
 
+fieldset {
+  background-color: color(gray-cool-10);
+}
+fieldset button {
+  color: color(primary-darker);
+  background-color: color(gray-cool-10);
+}
+
 ol li ol li {
   list-style-type: lower-alpha;
 }
