@@ -37,11 +37,11 @@ fieldset {
   color: inherit;
   background-color: color(gray-cool-10);
 }
-fieldset {
+fieldset legend {
   color: black;
   background-color: white;
 }
-fieldset input.subscribe-button {
+fieldset button {
   color: color(primary-darker);
   background-color: color(gray-cool-10);
 }
