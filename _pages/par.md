@@ -2,6 +2,7 @@
 title: Performance and Accountability Report
 layout: page
 toc: sidenav.html
+banner-title: About the U.S. Access Board
 permalink: /about/par.html
 ---
 

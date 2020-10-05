@@ -2,6 +2,7 @@
 title: Plain Language
 layout: page
 toc: sidenav.html
+banner-title: About the U.S. Access Board
 permalink: /about/policy/plain.html
 ---
 
