@@ -34,9 +34,14 @@ a.usa-current::after {
 }
 
 fieldset {
+  color: inherit;
   background-color: color(gray-cool-10);
 }
-input.submit-button {
+fieldset {
+  color: black;
+  background-color: white;
+}
+fieldset input.subscribe-button {
   color: color(primary-darker);
   background-color: color(gray-cool-10);
 }
