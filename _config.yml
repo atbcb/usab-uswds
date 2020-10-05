@@ -184,13 +184,16 @@ defaults:
       path: ""
       type: "ada"
     values:
-      collection-title: "Americans with Disabilities Act"
-      collection-subtitle: "Accessibility Standards"
+      banner-title: "Americans with Disabilities Act"
+      banner-subtitle: "Accessibility Standards"
       collection-folder: ada
-      layout: standards
-      file-directory: /files/ada-aba/
+      layout: universal
       image-directory: /images/ada-aba/standards/
-      right-sidenav: sidenav-ada.html
+      right-sidenav: sidenav-right-universal.html
+      s-url: /ada/guides/
+      s-image: /images/stock/keyboard-isa.jpg
+      ta-text: Contact the Access Board for guidance on these standards
+      ta-email-pre: ta
   - scope:
       path: ""
       type: "ada-guides"
@@ -201,7 +204,12 @@ defaults:
       toc: toc-auto.html
       file-directory: /files/ada-aba/guides/ada/
       image-directory: /images/ada-aba/guides/
-      right-sidenav: sidenav-ada.html
+      right-sidenav: sidenav-right-universal.html
+      s-url: /ada/
+      s-image: /images/stock/keyboard-isa.jpg
+      ta-text: Contact the Access Board for guidance on these standards
+      ta-email-pre: ta
+
   - scope:
       path: ""
       type: "aba"
@@ -213,8 +221,8 @@ defaults:
       layout: universal
       image-directory: /images/ada-aba/standards/
       right-sidenav: sidenav-right-universal.html
-      url: /aba/guides/
-      image: /images/stock/keyboard-isa.jpg
+      s-url: /aba/guides/
+      s-image: /images/stock/keyboard-isa.jpg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
   - scope:
@@ -227,7 +235,11 @@ defaults:
       collection-folder: aba-guides
       layout: universal
       image-directory: /images/ada-aba/guides/
-      right-sidenav: sidenav-aba.html
+      right-sidenav: sidenav-right-universal.html
+      s-url: /aba/
+      s-image: /images/stock/keyboard-isa.jpg
+      ta-text: Contact the Access Board for guidance on these standards
+      ta-email-pre: ta
   - scope:
       path: ""
       type: "ada-background"
