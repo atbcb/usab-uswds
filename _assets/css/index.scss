@@ -36,14 +36,19 @@ a.usa-current::after {
 fieldset {
   color: inherit;
   background-color: color(gray-cool-10);
+  border: thin solid color(primary-darker);
 }
 fieldset legend {
   color: black;
   background-color: white;
+  border: color(primary-darker);
+  padding-left:.5em;
+  padding-right:.5em;
 }
 fieldset button {
   color: color(gray-cool-10);
   background-color: color(primary-darker);
+  border-radius: 25%;
 }
 
 ol li ol li {
