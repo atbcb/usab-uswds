@@ -45,11 +45,14 @@ fieldset legend {
   padding-left:.5em;
   padding-right:.5em;
 }
+fieldset input {
+  border: thin solid color(primary-darker);
+}
 fieldset button {
   color: color(gray-cool-10);
   background-color: color(primary-darker);
-  border-radius: 50%;
-  margin:.5em;
+  border-radius: .5em;
+  margin-top:.5em;
 }
 
 ol li ol li {
@@ -167,7 +170,6 @@ dt {
   float: right;
   display: block;
   padding: 15px;
-  z-index: 1;
 }
 
 .img-left {
