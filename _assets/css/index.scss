@@ -33,6 +33,28 @@ a.usa-current::after {
   content: "→" !important;
 }
 
+fieldset {
+  color: inherit;
+  background-color: color(gray-cool-10);
+  border: thin solid color(primary-darker);
+}
+fieldset legend {
+  color: black;
+  background-color: white;
+  border: thin solid color(primary-darker);
+  padding-left:.5em;
+  padding-right:.5em;
+}
+fieldset input {
+  border: thin solid color(primary-darker);
+}
+fieldset button {
+  color: color(gray-cool-10);
+  background-color: color(primary-darker);
+  border-radius: .5em;
+  margin-top:.5em;
+}
+
 ol li ol li {
   list-style-type: lower-alpha;
 }
@@ -187,12 +209,11 @@ dt {
   text-align: center;
 }
 
-.grid-line-left {
+.grid-line-left {  // replace grid-line-left with text-left display-block instead
   display: block;
   text-align: left;
 }
 
-// replace grid-line-left with text-left display-block instead
 .img-large {
   padding: 10px;
   margin-left: auto;
