@@ -1,7 +1,7 @@
 ---
 title: "Chapter 6: Bathing Rooms"
 order-number: 18
-file: bathrooms-ABA.pdf
+file: /files/aba/guides/bathrooms-ABA.pdf
 file-description: PDF version of Chapter 6 Bathing Rooms Guide
 ---
 This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for bathing rooms. 

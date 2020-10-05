@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: Protruding Objects"
 order-number: 7
-file: protruding-objects-ABA.pdf
+file: /files/aba/guides/protruding-objects-ABA.pdf
 file-description: PDF version of Chapter 3 Protruding Objects Guide
 ---
 This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for protruding objects.

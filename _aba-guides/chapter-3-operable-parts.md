@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: Operable Parts"
 order-number: 6
-file: operable-parts-ABA.pdf
+file: /files/aba/guides/operable-parts-ABA.pdf
 file-description: PDF version of Chapter 3 Operable Parts Guide
 ---
 This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for operable parts.

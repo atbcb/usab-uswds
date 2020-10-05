@@ -206,22 +206,26 @@ defaults:
       path: ""
       type: "aba"
     values:
-      collection-title: "Architectural Barriers Act"
-      collection-subtitle: "Accessibility Standards"
+      banner-title: "Architectural Barriers Act"
+      banner-subtitle: "Accessibility Standards"
+      toc: toc-auto.html
       collection-folder: aba
-      layout: standards
-      file-directory: /files/ada-aba/
+      layout: universal
       image-directory: /images/ada-aba/standards/
-      right-sidenav: sidenav-aba.html
+      right-sidenav: sidenav-right-universal.html
+      url: /aba/guides/
+      image: /images/stock/keyboard-isa.jpg
+      ta-text: Contact the Access Board for guidance on these standards
+      ta-email-pre: ta
   - scope:
       path: ""
       type: "aba-guides"
     values:
-      collection-title: "Guide to the ABA"
-      collection-subtitle: "Accessibility Standards"
+      banner-title: "Guide to the ABA"
+      banner-subtitle: "Accessibility Standards"
+      toc: toc-auto.html
       collection-folder: aba-guides
-      layout: standards
-      file-directory: /files/ada-aba/guides/aba/
+      layout: universal
       image-directory: /images/ada-aba/guides/
       right-sidenav: sidenav-aba.html
   - scope:

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 6: Drinking Fountains"
 order-number: 16
-file: drinking-fountains-ABA.pdf
+file: /files/aba/guides/drinking-fountains-ABA.pdf
 file-description: PDF version of Chapter 6 Drinking Fountains Guide
 ---
 This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for drinking fountains. 

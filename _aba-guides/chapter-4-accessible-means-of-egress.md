@@ -1,7 +1,7 @@
 ---
 title: "Chapter 4: Accessible Means of Egress"
 order-number: 12
-file: amoe-ABA.pdf
+file: /files/aba/guides/amoe-ABA.pdf
 file-description: PDF version of Chapter 4 Accessible Means of Egress Guide
 ---
 

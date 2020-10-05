@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: Clear Floor or Ground Space and Turning Space"
 order-number: 5
-file: clear-floor-space-ABA.pdf
+file: /files/aba/guides/clear-floor-space-ABA.pdf
 file-description: PDF version of Chapter 3 Clear Floor Space Guide
 ---
 This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for clear floor or ground space and turning space. Clearances are required at accessible elements, fixtures, and controls so that people with disabilities, including those who use wheelchairs, can approach and use them. The standards also address maneuvering space for wheelchair turning. Provisions throughout the standards reference these basic “building block” requirements.

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 4: Elevators and Platform Lifts"
 order-number: 11
-file: elevators-ABA.pdf
+file: /files/aba/guides/elevators-ABA.pdf
 file-description: PDF version of Chapter 4 Elevators and Platform Lifts Guide
 ---
 This guide explains criteria for elevators and platform lifts in the [ABA Standards]({{ site.baseurl }}/aba/).

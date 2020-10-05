@@ -1,7 +1,7 @@
 ---
 title: "Chapter 1: Using the ABA Standards"
 order-number: 1
-file: using-ABA-standards.pdf
+file: /files/aba/guides/using-ABA-standards.pdf
 file-description: PDF version of Chapter 1 ABA Guide
 ---
 ### The Architectural Barriers Act (ABA)

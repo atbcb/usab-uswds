@@ -1,0 +1,29 @@
+{% comment %}
+add this right side navigation to any page using front matter. Easiest to apply it to the entire collection in the _config.yml file by adding  right-sidenav: sidenav-right-universal.html 
+ then add the information you want in the side navigation
+
+s-url:
+s-image:
+ta-text:
+ta-email-pre:
+
+{% endcomment %}
+
+
+<div class="desktop:grid-col-2 margin-top-3 margin-x-1">
+    <div class="padding-2 bg-white border sticky">
+      <div class="">
+        <a class="usa-link" href="{{ site.baseurl }}{{ page.s-url }}">
+        <img class="thumbnail" href="{{ site.baseurl }}{{ page.s-image }}">
+        </a>
+      </div>
+      <h4 id="ta-box" class="font-heading-3xs">Technical Assistance</h4>
+        <span class="font-body-3xs">{{ page.ta-text }}:</span>
+        <ul class="usa-list usa-list--unstyled padding-top-1 font-body-3xs">
+        <li class="padding-bottom-0">800-872-2253 (v)</li>
+        <li class="padding-bottom-0">800-993-2822 (tty)</li>
+        <li class="padding-bottom-0"><a href="mailto:{{ page.ta-email-pre }}@access-board.gov">{{ page.ta-email-pre }}@access-board.gov</a></li>
+        </ul>
+      {% include back-to-top.html %}
+    </div>
+  </div>

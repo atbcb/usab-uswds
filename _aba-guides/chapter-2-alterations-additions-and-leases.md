@@ -1,7 +1,7 @@
 ---
 title: "Chapter 2: Alterations and Additions"
 order-number: 3
-file: alterations-ABA.pdf
+file: /files/aba/guides/alterations-ABA.pdf
 file-description: PDF version of Chapter 2 Alterations Guide
 ---
 This guide provides an introduction to the scoping requirements of the [ABA Standards]({{ site.baseurl }}/aba/) and is intended to be used with a complete copy of the ABA Standards since it does not contain or address the full content of the Standards. It is important that users familiarize themselves with the specific scoping requirements contained in the ABA Standards.
