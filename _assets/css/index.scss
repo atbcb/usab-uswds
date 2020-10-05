@@ -36,7 +36,7 @@ a.usa-current::after {
 fieldset {
   background-color: color(gray-cool-10);
 }
-fieldset button {
+input.submit-button {
   color: color(primary-darker);
   background-color: color(gray-cool-10);
 }
@@ -156,6 +156,7 @@ dt {
   float: right;
   display: block;
   padding: 15px;
+  z-index: 1;
 }
 
 .img-left {
@@ -195,12 +196,11 @@ dt {
   text-align: center;
 }
 
-.grid-line-left {
+.grid-line-left {  // replace grid-line-left with text-left display-block instead
   display: block;
   text-align: left;
 }
 
-// replace grid-line-left with text-left display-block instead
 .img-large {
   padding: 10px;
   margin-left: auto;
