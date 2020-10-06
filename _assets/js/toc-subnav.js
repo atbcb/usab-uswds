@@ -35,7 +35,7 @@
           .replace(/ /g,"-")
           .toLowerCase()
           .trim();
-        // elements[i].setAttribute("id",idtag);
+          elements[i].setAttribute("id",idtag);
 
         let li = document.createElement("li");
         let a = document.createElement("a");
