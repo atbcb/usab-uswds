@@ -192,6 +192,7 @@ defaults:
       image-directory: /images/ada-aba/standards/
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/guides/
+      s-url-text: "Go to the ADA Guides"
       s-image: /images/stock/keyboard-isa.jpg
       ta-text: "Contact the Access Board for guidance on these standards:"
       ta-email-pre: ta
@@ -207,6 +208,7 @@ defaults:
       image-directory: /images/ada-aba/guides/
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/
+      s-url-text: "Go to the ADA Standards"
       s-image: /images/stock/keyboard-isa.jpg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
@@ -223,6 +225,7 @@ defaults:
       image-directory: /images/ada-aba/standards/
       right-sidenav: sidenav-right-universal.html
       s-url: /aba/guides/
+      s-url-text: "Go to the ABA Guides"
       s-image: /images/stock/keyboard-isa.jpg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
@@ -238,6 +241,7 @@ defaults:
       image-directory: /images/ada-aba/guides/
       right-sidenav: sidenav-right-universal.html
       s-url: /aba/
+      s-url-text: "Go to the ABA Standards"
       s-image: /images/stock/keyboard-isa.jpg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
