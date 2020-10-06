@@ -1,16 +1,18 @@
 ---
 title: "Introduction to the ADA standards"
-layout: standards
-collection-folder: ada
-order-number: 1.5
+permalink: /ada/intro.html
+layout: universal
+toc-group: ada
+order-number: 1
 version: original
 ---
 
+### {{ page.title }}
 The ADA standards are issued by the Department of Justice (DOJ) and the Department of Transportation (DOT) and apply to facilities covered by the ADA in new construction and alterations.   DOJ's standards apply to all facilities covered by the ADA, except public transportation facilities, which are subject to DOT's standards.
 
 Both standards are very similar and are closely based on the Board's ADA Accessibility Guidelines (ADAAG).  However, each contains a few unique provisions, which are included in this edition of the standards.
 
-### Department of Justice ADA Standards (2010)
+#### Department of Justice ADA Standards (2010)
 
 ![DOJ seal]({{ site.baseurl }}/images/doj-seal.jpg){: .float-right .thumbnail}
 
@@ -29,7 +31,7 @@ See also on DOJ's website at [www.ada.gov](http://www.ada.gov/):
 -   The full text of DOJ's [2010 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm)
 -   DOJ's [ADA regulations](http://www.ada.gov/2010_regs.htm) implementing the 2010 ADA Standards 
 
-### Department of Transportation ADA Standards for Transportation Facilities (2006)
+#### Department of Transportation ADA Standards for Transportation Facilities (2006)
 
 ![DOT seal]({{ site.baseurl }}/images/dot-seal.jpg){: .float-right .thumbnail}
 DOT's ADA standards (2006) apply to facilities used by state and local governments to provide designated public transportation services, including bus stops and stations, and rail stations.  They include unique provisions concerning:
@@ -43,3 +45,5 @@ See also on DOT's website:
 
 -   [DOT Regulation for Transportation Services](http://www.fta.dot.gov/civilrights/12325_3884.html) 
 -   [DOT rule](http://www.fta.dot.gov/12325_5936.html) adopting the 2006 ADA Standards for Transportation Facilities
+
+

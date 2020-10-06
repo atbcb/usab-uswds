@@ -188,11 +188,12 @@ defaults:
       banner-subtitle: "Accessibility Standards"
       collection-folder: ada
       layout: universal
+      toc: toc-ada.html
       image-directory: /images/ada-aba/standards/
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/guides/
       s-image: /images/stock/keyboard-isa.jpg
-      ta-text: Contact the Access Board for guidance on these standards
+      ta-text: "Contact the Access Board for guidance on these standards:"
       ta-email-pre: ta
   - scope:
       path: ""
