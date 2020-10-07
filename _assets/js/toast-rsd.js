@@ -44,11 +44,11 @@ if ( typeof Object.create !== 'function' ) {
             var _toastContent = '';
             
             this._toastEl = this._toastEl || $('<div role=alert></div>', {
-                class : 'jq-toast-single'
+                class : 'jq-toast-single padding-5'
             });
 
             // For the loader on top
-            _toastContent += '<span class="jq-toast-loader"></span>';            
+            _toastContent += '<span class="jq-toast-loader padding-3"></span>';            
 
             if ( this.options.allowToastClose ) {
                 _toastContent += '<span class="close-jq-toast-single">&times;</span>';

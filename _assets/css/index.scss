@@ -357,3 +357,18 @@ a.usa-current::after {
   @include u-text('primary-darker');
   @include u-margin-bottom(0);
 }
+
+
+//table of contents styling
+.toc-subnav .usa-accordion__button {
+  background-color: white;
+}
+
+.toc-subnav .usa-accordion__content {
+  @include u-bg('base-lightest');
+}
+
+.toc-subnav .usa-sidenav a:hover {
+  @include u-bg('primary-lighter');
+  color: black;
+}
