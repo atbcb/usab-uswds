@@ -1,7 +1,8 @@
 ---
 title: About
 order-number: 1
-group-title: Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments
+toc-group: Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments
+banner-title: Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments
 status: completed
 year-completed: 2006
 topic: Public Rights-of-Way

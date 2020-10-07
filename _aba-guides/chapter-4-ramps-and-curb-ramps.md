@@ -1,7 +1,7 @@
 ---
 title: "Chapter 4: Ramps and Curb Ramps"
 order-number: 10
-file: ramps-ABA.pdf
+file: /files/aba/guides/ramps-ABA.pdf
 file-description: PDF version of Chapter 4 Ramps and Curb Ramps Guide
 ---
 This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for ramps and curb ramps.

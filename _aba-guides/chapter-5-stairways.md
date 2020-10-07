@@ -1,7 +1,7 @@
 ---
 title: "Chapter 5: Stairways"
 order-number: 15
-file: stairs-ABA.pdf
+file: /files/aba/guides/stairs-ABA.pdf
 file-description: PDF version of Chapter 5 Stairways Guide
 ---
 This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for stairways. 

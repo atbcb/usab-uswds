@@ -19,15 +19,40 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 @import "components/table-of-contents-subnav";
 
 // Set fonts
-h4 { // default was sm
-  @include u-font('sans', 'md');
+h1, h2 { // default was 2xl
+  @include u-font('serif', 'xl')
 }
-h5,
-h6 { // default was xs and 2xs
-  @include u-font('sans', 'sm');
+h3 { // default was 2xl
+  @include u-font('serif', 'lg')
+}
+h4 { // default was sm
+  @include u-font('serif', 'md')
+}
+h5, h6 { // default was xs and 2xs
+  @include u-font('serif', 'sm')
 }
 
+
 // Add your SASS/CSS here
+
+
+// stylish faux 'page-breaks'
+hr {
+  border: solid;
+  border-bottom: solid 1px; // same thickness as "paper" border (outside div border thickness = 1px)
+  border-top: solid 1px; // same thickness as "paper" border
+  box-sizing: border-box;
+  margin-left: -1.6rem; // just larger than 1/2 "paper" padding (outside div padding = 2)
+  margin-right: -1.6rem; // just larger than 1/2 "paper" padding
+  margin-top: 2rem; // desired space above faux page break
+  margin-bottom: 2rem;
+  padding: 1rem; // thickness of background behind "paper"
+  background-color: #f0f0f0; //  must match background color
+  color: black; // must much outside div border color
+  border-left-color: #f0f0f0; // must match background color
+  border-right-color: #f0f0f0; // must match background color
+}
+
 
 a.usa-current::after {
   content: "→" !important;
@@ -289,7 +314,7 @@ dt {
   display: table;
 }
 
-/* // add shading to even rows in data tables -- does not seem to be working
+// add shading to even rows in data tables -- does not seem to be working
 table.data tr:nth-child(even) {
  background-color: #f2f2f2;
 } // zebra stripping by default */
@@ -340,6 +365,9 @@ figcaption {
   }
 }
 
+
+// Board member profile cards
+
 .card-header {
   @extend .usa-card__header;
   text-align: center;
@@ -359,6 +387,10 @@ figcaption {
   @include u-bg('primary-lighter')
 }
 
+.card-shadow {
+  box-shadow: 0 0 10px -3px #666;
+}
+
 a.style-inherit {
   color: inherit; // blue colors for links too
   text-decoration: inherit; // no underline
@@ -376,4 +408,19 @@ a.style-inherit {
   @include u-text('center');
   @include u-text('primary-darker');
   @include u-margin-bottom(0);
+}
+
+
+//table of contents styling
+.toc-subnav .usa-accordion__button {
+  background-color: white;
+}
+
+.toc-subnav .usa-accordion__content {
+  @include u-bg('base-lightest');
+}
+
+.toc-subnav .usa-sidenav a:hover {
+  @include u-bg('primary-lighter');
+  color: black;
 }

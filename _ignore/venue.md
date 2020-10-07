@@ -1,7 +1,7 @@
 ---
 title: Conference Space
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/venue.html
 ---
 

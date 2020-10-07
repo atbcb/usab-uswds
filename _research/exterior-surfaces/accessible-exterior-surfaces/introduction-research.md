@@ -1,7 +1,8 @@
 ---
 title: Introduction and Research Objectives
 order-number: 1
-group-title: Accessible Exterior Surfaces
+toc-group: Accessible Exterior Surfaces
+banner-title: Accessible Exterior Surfaces
 status: completed
 year-completed: 1999
 topic: Exterior Surfaces

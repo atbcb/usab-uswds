@@ -1,7 +1,8 @@
 ---
 title: Study Site and Test Procedures
 order-number: 3
-group-title: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces
+toc-group: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces
+banner-title: Stabilized Engineered Wood Fiber for Accessible Playground Surfaces
 status: completed
 year-completed: 2004
 topic: Exterior Surfaces

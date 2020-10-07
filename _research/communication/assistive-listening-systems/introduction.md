@@ -1,10 +1,10 @@
 ---
 title: Introduction
 order-number: 1
-group-title: Large Area Assistive Listening Systems
+toc-group: Large Area Assistive Listening Systems
+banner-title: Large Area Assistive Listening Systems
 status: completed
 topic: Communication and Information
-permalink: /research/communication/assistive-listening-systems/
 ---
 **Acknowledgments:**
 This study is supported by the Rehabilitation Engineering Research Center (RERC) on Hearing Enhancement and Assistive Devices, funded by the National Institute on Disability and Rehabilitation Research (NIDRR), U.S. Department of Education, grant #H133E30015. The opinions contained in this presentation are those of the grantee and do not reflect those of the Department of Education.

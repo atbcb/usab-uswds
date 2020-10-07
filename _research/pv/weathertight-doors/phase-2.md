@@ -1,7 +1,8 @@
 ---
 title: Phase 2 A Risk Management Approach to Reconfiguration Design Solutions
 order-number: 7
-group-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
+toc-group: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
+banner-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2005
 topic: Passenger Vessels

@@ -1,7 +1,8 @@
 ---
 title: Results and Discussion
 order-number: 3
-group-title: "Improved Engineered Wood Fiber (EWF) Surfaces for Accessible Playgrounds"
+toc-group: "Improved Engineered Wood Fiber (EWF) Surfaces for Accessible Playgrounds"
+banner-title: "Improved Engineered Wood Fiber (EWF) Surfaces for Accessible Playgrounds"
 status: completed
 year-completed: 2003
 topic: Exterior Surfaces

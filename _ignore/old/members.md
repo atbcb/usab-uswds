@@ -1,7 +1,7 @@
 ---
 title: Board Members
 layout: page
-sidenav: true
+toc: sidenav.html
 permalink: /about/members.html
 ---
 # Access {{ page.title }}

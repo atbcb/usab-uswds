@@ -1,7 +1,8 @@
 ---
 title: Summary (Phase 1)
 order-number: 4
-group-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
+toc-group: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
+banner-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2004
 topic: Passenger Vessels

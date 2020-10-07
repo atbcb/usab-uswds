@@ -1,7 +1,8 @@
 ---
 title: Fragrance-Free Environment
 layout: page
-sidenav: true
+toc: sidenav.html
+banner-title: About the U.S. Access Board
 permalink: /about/policy/ffe.html
 ---
 

@@ -1,7 +1,8 @@
 ---
 title: No FEAR Act Report
 layout: page
-sidenav: true
+toc: sidenav.html
+banner-title: About the U.S. Access Board
 permalink: /about/no-fear-report.html
 ---
 

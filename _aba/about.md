@@ -1,8 +1,11 @@
 ---
 title: "About the ABA"
 permalink: /aba/
+toc-group: aba-standards
 order-number: 1
 version: new
+file: /files/aba/ABAstandards.pdf
+file-description: Single file PDF of the ABA standards
 ---
 
 ### About the ABA Accessibility Standards

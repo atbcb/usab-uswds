@@ -1,15 +1,31 @@
 ---
 title:  Test File
-layout: standards
-sidenav: true
+layout: universal
+right-sidenav: false
+toc: toc-auto.html
+toc-group: test
+order-number: 1
 permalink: /test.html
+banner-title: Banner-title
+file: /files/ada-ada/ADA-Standards.pdf
+file-description: A pdf file
+
 ---
 
-page.title is {{ page.title }}  
-site.url is {{ site.url }}  
-site.baseurl is {{ site.baseurl }}
-page.layout is {{ page.layout }}
-page.permalink is {{ page.permalink }}
+[Test]({{ site.baseurl }}/test.html)
+[Test 2]({{ site.baseurl }}/test2.html)
+[Test 3]({{ site.baseurl }}/test3.html)
+
+- page.title is {{ page.title }}  
+- site.url is {{ site.url }}  
+- site.baseurl is {{ site.baseurl }}
+- page.layout is {{ page.layout }}
+- page.permalink is {{ page.permalink }}
+- 
+- page.banner-title is {{ page.banner-title }}
+- page.banner-subtitle is {{ page.banner-subtitle }}
+- page.right-sidenav is {{ page.right-sidenav }}
+- page.toc is {{ page.toc }}
 
 # Heading 1
 

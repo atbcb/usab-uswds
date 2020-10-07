@@ -1,7 +1,8 @@
 ---
 title: Appendix B
 order-number: 4
-group-title: Swimming Pool Accessibility
+toc-group: Swimming Pool Accessibility
+banner-title: Swimming Pool Accessibility
 status: completed
 year-completed: 1996
 topic: Building Elements and Spaces

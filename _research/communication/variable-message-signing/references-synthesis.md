@@ -1,7 +1,8 @@
 ---
 title: References
 order-number: 6
-group-title: "Synthesis on the Legibility of Variable Message Signing (VMS) for Readers with Vision Loss"
+toc-group: "Synthesis on the Legibility of Variable Message Signing (VMS) for Readers with Vision Loss"
+banner-title: "Synthesis on the Legibility of Variable Message Signing (VMS) for Readers with Vision Loss"
 status: completed
 year-completed: 2002
 topic: Communication and Information

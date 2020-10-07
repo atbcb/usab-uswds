@@ -1,7 +1,7 @@
 ---
 title: "Chapter 5: Parking Spaces"
 order-number: 13
-file: parking-ABA.pdf
+file: /files/aba/guides/parking-ABA.pdf
 file-description: PDF version of Chapter 5 Parking Spaces Guide
 ---
 This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for parking. 

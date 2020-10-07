@@ -1,7 +1,8 @@
 ---
 title: Research and Resources
 order-number: 4
-group-title: "Pedestrian Access to Modern Roundabouts: Design and Operational Issues for Pedestrians who are Blind"
+toc-group: "Pedestrian Access to Modern Roundabouts: Design and Operational Issues for Pedestrians who are Blind"
+banner-title: "Pedestrian Access to Modern Roundabouts: Design and Operational Issues for Pedestrians who are Blind"
 status: completed
 year-completed: 2001
 topic: Public Rights-of-Way

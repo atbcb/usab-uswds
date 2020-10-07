@@ -1,7 +1,8 @@
 ---
 title: Appendix C (Phase 2)
 order-number: 16
-group-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
+toc-group: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
+banner-title: "ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Weathertight Doors with Coamings"
 status: completed
 year-completed: 2005
 Topoc: ADA Access to Passenger Vessels

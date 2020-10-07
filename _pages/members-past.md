@@ -1,7 +1,8 @@
 ---
 title: Former Public Board Members
 layout: page
-sidenav: true
+toc: sidenav.html
+banner-title: About the U.S. Access Board
 permalink: /about/members-past.html
 ---
 

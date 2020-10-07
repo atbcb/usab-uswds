@@ -1,7 +1,8 @@
 ---
 title: Access for Persons with Disabilities to Passenger Vessels and Shore Facilities
 order-number: 0
-group-title: Access for Persons with Disabilities to Passenger Vessels and Shore Facilities
+toc-group: Access for Persons with Disabilities to Passenger Vessels and Shore Facilities
+banner-title: Access for Persons with Disabilities to Passenger Vessels and Shore Facilities
 status: completed
 year-completed: 1996
 topic: Passenger Vessels

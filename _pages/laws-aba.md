@@ -1,7 +1,8 @@
 ---
 title: Architectural Barriers Act
 layout: page
-sidenav: true
+toc: sidenav.html
+banner-title: About the U.S. Access Board
 permalink: /laws/aba.html
 ---
 

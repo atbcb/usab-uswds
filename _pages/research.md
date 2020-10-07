@@ -1,11 +1,8 @@
 ---
 title: Research
 layout: page
-sidenav: false
 permalink: /research/
 ---
-
-# {{ page.title }}
 
 ![stylized reach range diagram based on da Vinci Vitruvian Man sketch]({{ site.baseurl }}/images/vitruvian_man.jpg){: .img-right}
 
@@ -21,7 +18,7 @@ The Board welcomes information on research initiatives related to accessibility 
 The Board maintains a strong interest in coordinating research with other entities and in exploring potential partnerships.&nbsp;
 For more information about the Board’s research program, contact Dave Yanchulis, Director of the Office of Technical and Information Services, at <ta@access-board.gov>.
 
----
+
 
 ## Completed Research
 ### Building Elements and Spaces

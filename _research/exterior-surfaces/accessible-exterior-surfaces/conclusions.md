@@ -1,7 +1,8 @@
 ---
 title: Conclusions and Recommendations
 order-number: 4
-group-title: Accessible Exterior Surfaces
+toc-group: Accessible Exterior Surfaces
+banner-title: Accessible Exterior Surfaces
 status: completed
 year-completed: 1999
 topic: Exterior Surfaces

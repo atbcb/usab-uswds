@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: Floor and Ground Surfaces"
 order-number: 4
-file: surfaces-ABA.pdf
+file: /files/aba/guides/surfaces-ABA.pdf
 file-description: PDF version of Chapter 3 Floor and Ground Surfaces Guide
 ---
 This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for floor and ground surfaces. Specifications for floor and ground surfaces address surface characteristics, carpeting, openings, and changes in level.  They apply to:

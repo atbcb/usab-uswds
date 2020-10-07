@@ -1,7 +1,8 @@
 ---
 title: Conference Space
 layout: page
-sidenav: true
+toc: sidenav.html
+banner-title: About the U.S. Access Board
 permalink: /about/venue.html
 ---
 

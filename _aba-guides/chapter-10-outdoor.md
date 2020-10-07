@@ -1,7 +1,7 @@
 ---
 title: "Chapter 10: Outdoor Developed Areas"
-order-number: 1000
-file: outdoor-guide.pdf
+order-number: 1011
+file: /files/aba/guides/outdoor-guide.pdf
 file-description: PDF version of Chapter 10 Outdoor Developed Areas Guide
 ---
 ### Introduction

@@ -1,7 +1,8 @@
 ---
 title: Recommendations for Accommodations
 order-number: 9
-group-title: Indoor Environmental Quality
+toc-group: Indoor Environmental Quality
+banner-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
 topic: Building Elements and Spaces

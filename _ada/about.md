@@ -1,20 +1,17 @@
 ---
 title: "About the ADA"
-permalink: /ada/v1/
-order-number: 1
+permalink: /ada/about.html
 version: original
-file: ADA-Standards.pdf
-file-description: Single file PDF version of the ADA Standards
 ---
 
-### About the ADA Accessibility Standards
+# About the ADA Accessibility Standards
 
 Accessibility standards issued under theAmericans with Disabilities Act (ADA) apply to places of public accommodation, commercial facilities, and state and local government facilities in new construction, alterations, and additions.  The ADA Standards are based on minimum guidelines set by the Access Board. 
 
 The Department of Justice (DOJ) and the Department of Transportation (DOT) issue the ADA Standards.  DOJ's ADA Standards apply to all facilities except public transportation facilities, which are subject to DOT's ADA Standards.  This version of the ADA Standards combines both documents and notes unique provisions in the DOJ Standards and the DOT Standards.  The Access Board is responsible for providing technical assistance and training on these Standards. 
 
 
-### Guide to the ADA Standards
+## Guide to the ADA Standards
 The US Access Board has developed guides to the ADA Standards in cooperation with DOJ and DOT.
 
 {%
@@ -24,8 +21,10 @@ The US Access Board has developed guides to the ADA Standards in cooperation wit
 %}
 
 
+---
 
-### Background
+
+## Background
 
 - July 26, 1991 -- The Board publishes the original [ADA Accessibility Guidelines (ADAAG)]({{ site.baseurl }}/adaag-1991-2002.html), which are also adopted as standards by DOJ on the same day.
 
@@ -52,3 +51,4 @@ The US Access Board has developed guides to the ADA Standards in cooperation wit
 - May 7, 2014 -- The Board publishes a supplement to the ADA and ABA Accessibility Guidelines on [emergency transportable housing](https://www.regulations.gov/document?D=ATBCB-2012-0004-0039).
 
 - September 26, 2014 -- The Board issues [correction](https://www.regulations.gov/document?D=ATBCB-2012-0004-0041) to final guidelines for emergency transportable housing.
+

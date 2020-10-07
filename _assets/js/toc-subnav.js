@@ -10,10 +10,10 @@
     let urlParsed = pageURL.split('#');
     let hasAnchor = urlParsed.length > 1;
     let currentAnchor = hasAnchor ? urlParsed[urlParsed.length - 1] : null;
-    let standard = document.getElementById("standard");
+    let content = document.getElementById("toc-source-content");
 
-    if (standard) {
-      elements = standard.querySelectorAll("h3");
+    if (content) {
+      elements = content.querySelectorAll("h3");
     }
 
     let subsections = document.getElementById("subsections");
@@ -35,7 +35,7 @@
           .replace(/ /g,"-")
           .toLowerCase()
           .trim();
-        // elements[i].setAttribute("id",idtag);
+          elements[i].setAttribute("id",idtag);
 
         let li = document.createElement("li");
         let a = document.createElement("a");

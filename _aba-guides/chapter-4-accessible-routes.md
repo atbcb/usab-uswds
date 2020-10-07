@@ -1,7 +1,7 @@
 ---
 title: "Chapter 4: Accessible Routes"
 order-number: 8
-file: accessible-routes-ABA.pdf
+file: /files/aba/guides/accessible-routes-ABA.pdf
 file-description: PDF version of Chapter 4 Accessible Routes Guide
 ---
 This guide explains scoping and technical requirements for accessible routes in the [ABA Standards]({{ site.baseurl }}/aba/). 
