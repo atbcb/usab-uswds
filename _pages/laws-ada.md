@@ -8,13 +8,13 @@ permalink: /laws/ada.html
 
 # {{ page.title }} (ADA) of 1990
 
-<img src="../img/ada-signing.jpg" alt="photo of President George H W Bush signing the ADA" align="right">
+<img src="{{ site.baseurl }}/images/ada-signing.jpg" alt="photo of President George H W Bush signing the ADA" class="img-right">
 
 The ADA recognizes and protects the civil rights of people with disabilities and is modeled after earlier landmark laws prohibiting discrimination on the basis of race and gender.  It was signed into law by George H.W. Bush on July 26, 1990.  The ADA covers a wide range of disability, from physical conditions affecting mobility, stamina, sight, hearing, and speech to conditions such as emotional illness and learning disorders.  The ADA addresses access to:
 
-- the workplace (title I)
-- state and local government services (title II)
-- places of public accommodation and commercial facilities (title III)
+- the workplace (title I)  
+- state and local government services (title II)  
+- places of public accommodation and commercial facilities (title III)  
 - telecommunications for people who have hearing or speech impairments through telecommunications relay services (title IV)
 
 It also includes miscellaneous instructions to Federal agencies that enforce the law (title V).  Regulations issued under the different titles by various Federal agencies set requirements and establish enforcement procedures.  To understand and comply with the ADA, it is important to follow the appropriate regulations.

@@ -9,7 +9,7 @@ permalink: /laws/aba.html
 # {{ page.title }} (ABA) of 1968
 
 <figure style="width:50%; float:right">
-  <img src="{{ site.baseurl }}/img/aba50.png" alt="ABA 50th 1968 - 2018" style="display:block; margin-left:auto; margin-right:auto">
+  <img src="{{ site.baseurl }}/images/aba50.png" alt="ABA 50th 1968 - 2018" class="img-center">
   <figcaption style="text-align:center">
     In September 2018, the Board celebrated the 50th anniversary of the ABA.
   </figcaption>

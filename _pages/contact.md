@@ -27,7 +27,6 @@ If you have questions on these accessibility guidelines and standards call or em
 
 *Technical assistance is available 10:00 -- 5:00 ET weekdays.*
 
-
 ## E-mail Directory
 
 | contact us at... | for... |
@@ -51,12 +50,12 @@ If you have questions on these accessibility guidelines and standards call or em
 ***tty:***  **202-272-0082** or **800-993-2822**
 
 |Executive Director's Office | &nbsp; | &nbsp; |
-| --- | --- | --- |
+|:--- | --- | --- |
 | Gretchen Jacobs, Acting Executive Director | 202-272-0040 (v) | 202-272-0075 (tty) |
 | Rose Marie Bunales | 202-272-0006 (v) | 202-272-0057 (tty) |
 
 |Office of Administration | &nbsp; | &nbsp; |
-| --- | --- | --- |
+|:--- | --- | --- |
 | Earlene Sesker, Director | 202-272-0022 (v) | 202-272-0091 (tty) |
 | Edson Carneiro | 202-272-0008 (v) | 202-272-0077 (tty) |
 | Gainna Ellis | 202-272-0007 (v) | 202-272-0058 (tty) |
@@ -66,13 +65,13 @@ If you have questions on these accessibility guidelines and standards call or em
 | Charles Washington | 202-272-0005 (v) | 202-272-0061 (tty) |
 | Jianhao Zhen | 202-272-0002 (v) | 202-272-0052 (tty) |
 
-|Public Affairs | &nbsp; | &nbsp; |
-| --- | --- | --- |
-|Phil Bratta | 202-272-0012 (v) | 202-272-0072 (tty) |
+| Public Affairs | &nbsp; | &nbsp; |
+|:--- | --- | --- |
+| Phil Bratta | 202-272-0012 (v) | 202-272-0072 (tty) |
 
-|Technical and Information Services | &nbsp; | &nbsp; |
-| --- | --- | --- |
-| Dave Yanchulis, Director  | 202-272-0026 (v) | 202-272-0027 (tty) |
+| Technical and Information Services | &nbsp; | &nbsp; |
+|:--- | --- | --- |
+| Dave Yanchulis, Director | 202-272-0026 (v) | 202-272-0027 (tty) |
 | Bruce Bailey | 202-272-0024 (v) | 202-272-0070 (tty) |
 | William Botten | 202-272-0014 (v) | 202-272-0073 (tty) |
 | Phil Bratta | 202-272-0012 (v) | 202-272-0072 (tty) |
@@ -85,8 +84,8 @@ If you have questions on these accessibility guidelines and standards call or em
 | Bobby Stinnette | 202-272-0021 (v) | 202-272-0049 (tty) |
 | Scott Windley | 202-272-0025 (v) | 202-272-0028 (tty) |
 
-|Office of the General Counsel | &nbsp; | &nbsp; |
-| --- | --- | --- |
+| Office of the General Counsel | &nbsp; | &nbsp; |
+|:--- | --- | --- |
 | Gretchen Jacobs, General Counsel | 202-272-0040 (v) | 202-272-0075 (tty) |
 | Mario Damiani | 202-272-0050 (v) | 202-272-0066 (tty) |
 | Christopher Kuczynski | 202-272-0042 (v) | 202-272-0076 (tty) |

@@ -8,8 +8,6 @@ permalink: /es/directrices-standares.html
 
 El acceso a las tecnologías de información y de comunicación es dirigido por estándares emitidos por el Consejo y directrices publicadas según la Sección 508 de la Ley de Rehabilitación y la Sección 255 de la Ley de Telecomunicaciones.  El Consejo está en el proceso de actualizar estos estándares y directrices.
 
-- [Servidumbres de Paso Públicas](index.php?option=com_content&view=article&id=1043&Itemid=197) (en inglés)
-- [Información Sobre el Proceso de Actualización de los Estándares y Directrices](index.php?option=com_content&view=article&id=1050&Itemid=1040) (en inglés)
 - [Directrices de Accesibilidad Según la Ley de Telecomunicaciones](index.php?option=com_content&view=article&id=810&Itemid=198) (en inglés)
 
 ### Edificios y Sitios
