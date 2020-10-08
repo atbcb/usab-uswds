@@ -1,0 +1,10 @@
+---
+permalink: /aba/sfv.html
+---
+{% assign aba-chapters = site.aba | where: "toc-group","aba-standards" | sort:"order-number" %}
+{% for chapter in aba-chapters %}
+    <div class="chapter">
+        <h1>{{chapter.title}}</h1>
+        {{chapter.content}}
+    </div>
+{% endfor %}
