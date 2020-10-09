@@ -7,7 +7,7 @@ permalink: /about/par.html
 ---
 # {{ page.title }} (2019)
 
-<p>United States Access Board Performance and Accountability Report<br />
+<p style="text-align:center">United States Access Board Performance and Accountability Report<br />
   Independent Auditor's Report and Financial Statements<br />
   for the Fiscal Years Ended September 30, 2019 and 2018<br />
   Prepared By Brown &amp; Company CPAs and Management Consultants, PLLC<br />
@@ -40,7 +40,7 @@ permalink: /about/par.html
 <p>I am pleased to present the Access Board's Performance and Accountability Report for Fiscal Year 2019. This report provides key information on the Access Board's progress in meeting its mission and managing its financial responsibilities. Our agency has a proud history of serving the public through its programs devoted to accessibility for people with disabilities.</p>
 <p>Fiscal Year 2019 was a year of continued success. The Access Board continues to develop accessibility requirements, provide technical assistance and training, and enforce access requirements for the Federal government. We will continue to strive for excellence to fulfill our responsibilities to provide accessibility for people with disabilities.</p>
 <p>Sincerely,</p>
-<p><img src="{{ site.baseurl }}/images/capozzi-signature.jpg" alt="David Capozzi signature"></p>
+<p><img src="{{ site.baseurl }}/images/capozzi-signature.jpg" alt="David Capozzi signature" /></p>
 <p>David M. Capozzi<br />
   Executive Director</p>
 <hr />
@@ -174,16 +174,16 @@ permalink: /about/par.html
 <h4>Limitations of the Financial Statements</h4>
 <p>The principal financial statements for the Access Board have been prepared to report the financial position and results of our operations pursuant to the requirements of 31 U.S.C.3515(b). While the statements have been prepared from the books and records of the Access Board in accordance with generally accepted accounting principles for federal entities and the formats prescribed by OMB, the statements are in addition to the financial reports used to monitor and control budgetary resources, which are prepared from the same books and records. The statements should be read with the realization that they are for a component of the U.S. government, a sovereign entity.</p>
 <hr />
-<h1 id="fs">Financial Section</h1>
-<h3><em>United States Access Board</em><br />
+<h2 id="fs">Financial Section</h2>
+<p style="text-align:center">United States Access Board<br />
   Independent Auditor's Report<br />
   and<br />
-  Financial Statements</h3>
-<h3>For the Fiscal Years Ended<br />
-  <em>September 30, 2019 and 2018</em></h3>
-<h4>Prepared By<br />
+  Financial Statements</p>
+<p style="text-align:center">For the Fiscal Years Ended<br />
+  September 30, 2019 and 2018</p>
+<p style="text-align:center">Prepared By<br />
   Brown &amp; Company CPAs and Management Consultants, PLLC<br />
-  November 13, 2019</h4>
+  November 13, 2019</p>
 <p><img src="{{ site.baseurl }}/images/bc-footer.png" alt="Brown &amp; Company; Certifified Public Accountants and Management Consultants, PLLC" width="100%" /></p>
 <hr />
 <p style="text-align: center;"><img src="{{ site.baseurl }}/images/bc-header.png" alt="Brown &amp; Company header. Certified Public Accountants and Management Consulttants, PLLC" width="100%" /><br />
@@ -246,7 +246,7 @@ permalink: /about/par.html
 <p><img src="{{ site.baseurl }}/images/bc-footer.png" alt="Brown &amp; Company; Certifified Public Accountants and Management Consultants, PLLC" width="100%" /></p>
 <hr />
 <h3 id="bs">Balance Sheet</h3>
-<table class="data">
+<table class="usa-table--borderless">
   <caption>
   UNITED STATES ACCESS BOARD<br />
   BALANCE SHEET<br />
@@ -374,7 +374,7 @@ permalink: /about/par.html
 </table>
 <hr />
 <h3 id="snc">Statement of Net Cost</h3>
-<table class="data">
+<table class="usa-table--borderless">
   <caption>
   UNITED STATES ACCESS BOARD <br />
   STATEMENT OF NET COST<br />
@@ -424,7 +424,7 @@ permalink: /about/par.html
 </table>
 <hr />
 <h3 id="scnp">Statement of Changes in Net Position</h3>
-<table class="data">
+<table class="usa-table--borderless">
   <caption>
   UNITED STATES ACCESS BOARD<br />
   STATEMENT OF CHANGES IN NET POSITION<br />
@@ -542,7 +542,7 @@ permalink: /about/par.html
 </table>
 <hr />
 <h3 id="sbr">Statement of Budgetary Resources</h3>
-<table class="data">
+<table class="usa-table--borderless">
   <caption>
   UNITED STATES ACCESS BOARD<br />
   STATEMENT OF BUDGETARY RESOURCES<br />
@@ -656,7 +656,7 @@ permalink: /about/par.html
 <p>Accounts receivable consists of amounts owed to Access Board by other federal agencies and the general public. Amounts due from federal agencies are considered fully collectible. Accounts receivable from the public include reimbursements from employees. An allowance for uncollectible accounts receivable from the public is established when, based upon a review of outstanding accounts and the failure of all collection efforts, management determines that collection is unlikely to occur considering the debtor's ability to pay.</p>
 <p><strong>F. Property, Equipment, and Software</strong></p>
 <p>Property, equipment and software represent furniture, fixtures, equipment, and information technology hardware and software which are recorded at original acquisition cost and are depreciated or amortized using the straight-line method over their estimated useful lives. Major alterations and renovations are capitalized, while maintenance and repair costs are expensed as incurred. Access Board's capitalization threshold is $50,000 for individual purchases and $500,000 for bulk purchases. Property, equipment, and software acquisitions that do not meet the capitalization criteria are expensed upon receipt. Applicable standard governmental guidelines regulate the disposal and convertibility of agency property, equipment, and software. The useful life classifications for capitalized assets are as follows:</p>
-<table class="data" style="margin-left: auto; margin-right: auto;">
+<table style="margin-left: auto; margin-right: auto;">
   <thead>
     <tr>
       <th scope="col">Description</th>
@@ -710,7 +710,7 @@ permalink: /about/par.html
 <h4>N. Reclassification</h4>
 <p>Certain fiscal year 2018 balances have been reclassified, retitled, or combined with other financial statement line items for consistency with the current year presentation.</p>
 <h3 id="note2">NOTE 2. FUND BALANCE WITH TREASURY</h3>
-<table class="data">
+<table class="usa-table--borderless">
   <caption style="text-align: left;">
   Fund balance with Treasury account balances as of September 30, 2019 and 2018, were as follows:
   </caption>
@@ -756,7 +756,7 @@ permalink: /about/par.html
 <p>The unavailable unobligated fund balances represent the amount of appropriations for which the period of availability for obligation has expired. These balances are available for upward adjustments of obligations incurred only during the period for which the appropriation was available for obligation or for paying claims attributable to the appropriations.</p>
 <p>The obligated balance not yet disbursed includes accounts payable, accrued expenses, and undelivered orders that have reduced unexpended appropriations but have not yet decreased the fund balance on hand.</p>
 <h3 id="note3">NOTE 3. ACCOUNTS RECEIVABLE</h3>
-<table class="data">
+<table class="usa-table--borderless">
   <caption style="text-align: left;">
   Accounts receivable balances as of September 30, 2019 and 2018, were as follows:
   </caption>
@@ -791,7 +791,7 @@ permalink: /about/par.html
 </table>
 <p>The accounts receivable is primarily other receivables with the public. Historical experience has indicated that the majority of the receivables are collectible. There are no material uncollectible accounts as of September 30, 2019 and 2018.</p>
 <h3 id="note4">NOTE 4. PROPERTY, EQUIPMENT, AND SOFTWARE</h3>
-<table class="data">
+<table class="usa-table--borderless">
   <caption style="text-align: left;">
   Schedule of Property, Equipment, and Software as of September 30, 2019:
   </caption>
@@ -828,7 +828,7 @@ permalink: /about/par.html
     </tr>
   </tbody>
 </table>
-<table class="data">
+<table class="usa-table--borderless">
   <caption style="text-align: left;">
   Schedule of Property, Equipment, and Software as of September 30, 2018:
   </caption>
@@ -866,7 +866,7 @@ permalink: /about/par.html
   </tbody>
 </table>
 <h3 id="note5">NOTE 5. OTHER ASSETS</h3>
-<table class="data">
+<table class="usa-table--borderless">
   <caption style="text-align: left;">
   Other assets account balances as of September 30, 2019 and 2018, were as follows:
   </caption>
@@ -897,7 +897,7 @@ permalink: /about/par.html
 <p>Access Board began posting NBC Administrative Office procurement orders as prepayments in 2018.</p>
 <h3 id="note6">NOTE 6. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES</h3>
 <p>The liabilities for Access Board as of September 30, 2019 and 2018, include liabilities not covered by budgetary resources. Congressional action is needed before budgetary resources can be provided. Although future appropriations to fund these liabilities are likely and anticipated, it is not certain that appropriations will be enacted to fund these liabilities.</p>
-<table class="data">
+<table class="usa-table--borderless">
   <caption style="text-align: left;">
   Other assets account balances as of September 30, 2019 and 2018, were as follows:
   </caption>
@@ -939,7 +939,7 @@ permalink: /about/par.html
 <p>The FECA liability represents the unfunded liability for actual workers compensation claims paid on Access Board's behalf and payable to DOL. Access Board also records an actuarial liability for future workers compensation claims based on the liability to benefits paid (LBP) ratio provided by DOL and multiplied by the average of benefits paid over three years.</p>
 <p>Unfunded leave represents a liability for earned leave and is reduced when leave is taken. The balance in the accrued annual leave account is reviewed quarterly and adjusted as needed to accurately reflect the liability at current pay rates and leave balances. Accrued annual leave is paid from future funding sources and, accordingly, is reflected as a liability not covered by budgetary resources. Sick and other leave is expensed as taken.</p>
 <h3 id="note7">NOTE 7. OTHER LIABILITIES</h3>
-<table class="data">
+<table class="usa-table--borderless">
   <caption style="text-align: left;">
   Other liabilities account balances as of September 30, 2019 were as follows:
   </caption>
@@ -1006,7 +1006,7 @@ permalink: /about/par.html
     </tr>
   </tbody>
 </table>
-<table class="data">
+<table class="usa-table--borderless">
   <caption style="text-align: left;">
   Other liabilities account balances as of September 30, 2018 were as follows:
   </caption>
@@ -1076,7 +1076,7 @@ permalink: /about/par.html
 <h3 id="note8">NOTE 8. LEASES</h3>
 <h4>Operating Leases</h4>
 <p>Access Board occupies office space under a lease agreement that is accounted for as an operating lease in Washington, DC. The lease for office space at 1331 F Street NW started on July 1, 2018 and expires December 30, 2021. Lease payments are increased annually based on the adjustments for operating costs and real estate escalations. A schedule of future payments is as follows:</p>
-<table class="data">
+<table class="usa-table--borderless">
   <thead>
     <tr>
       <th style="text-align: left;" scope="col">Fiscal Year</th>
@@ -1104,7 +1104,7 @@ permalink: /about/par.html
 </table>
 <h3 id="note9">NOTE 9. INTER-ENTITY COSTS</h3>
 <p>Access Board recognizes certain inter-entity costs for goods and services that are received from other federal entities at no cost or at a cost less than the full cost. Certain costs of the providing entity that are not fully reimbursed are recognized as imputed cost and are offset by imputed revenue. Such imputed costs relate to employee benefits and claims to be settled by the Treasury Judgement Fund. Access Board recognizes as inter-entity costs the amount of accrued pension and post-retirement benefit expenses for current employees. The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.&nbsp;&nbsp; For the periods ended September 30, 2019 and 2018, respectively, inter-entity costs were as follows:</p>
-<table class="data">
+<table class="usa-table--borderless">
   <thead>
     <tr>
       <th>&nbsp;</th>
@@ -1126,7 +1126,7 @@ permalink: /about/par.html
   </tbody>
 </table>
 <h3 id="note10">NOTE 10. UNDELIVERED ORDERS AT THE END OF THE PERIOD</h3>
-<table class="data">
+<table class="usa-table--borderless">
   <caption style="text-align: left;">
   As of September 30, 2019, budgetary resources obligated for undelivered orders were as follows:
   </caption>
@@ -1159,7 +1159,7 @@ permalink: /about/par.html
     </tr>
   </tbody>
 </table>
-<table class="data">
+<table class="usa-table--borderless">
   <caption style="text-align: left;">
   As of September 30, 2018, budgetary resources obligated for undelivered orders were as follows:
   </caption>
@@ -1194,7 +1194,7 @@ permalink: /about/par.html
 </table>
 <h3 id="note11">NOTE 11. EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT</h3>
 <p>The President's Budget that will include fiscal year 2019 actual budgetary execution information has not yet been published. The President's Budget is scheduled for publication in February 2020 and can be found at the OMB Web site: <a href="http://www.whitehouse.gov/omb">http://www.whitehouse.gov/omb/</a>. The 2020 Budget of the United States Government, with the <q>Actual</q> column completed for 2018, has been reconciled to the Statement of Budgetary Resources and there were no material differences.</p>
-<table class="data">
+<table class="usa-table--borderless">
   <caption style="text-align: left;">
   Note Presentation, rounded to millions
   </caption>
@@ -1238,7 +1238,7 @@ permalink: /about/par.html
 </table>
 <h3 id="note12">NOTE 12. RECONCILIATION OF NET COST TO NET OUTLAYS</h3>
 <p>The reconciliation of net outlays, presented on a budgetary basis, and the net cost, presented on an accrual basis, provides an explanation of the relationship between budgetary and financial accounting information.</p>
-<table class="data">
+<table class="usa-table--borderless">
   <caption>
   BUDGET AND ACCRUAL RECONCILIATION<br />
   FOR THE YEAR ENDED SEPTEMBER 30, 2019<br />
