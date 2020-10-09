@@ -184,9 +184,9 @@ permalink: /about/par.html
 <h4>Prepared By<br />
   Brown &amp; Company CPAs and Management Consultants, PLLC<br />
   November 13, 2019</h4>
-<p><img src="images/the_board/bc-footer.png" alt="Brown &amp; Company; Certifified Public Accountants and Management Consultants, PLLC" width="100%" /></p>
+<p><img src="{{ site.baseurl }}/images/bc-footer.png" alt="Brown &amp; Company; Certifified Public Accountants and Management Consultants, PLLC" width="100%" /></p>
 <hr />
-<p style="text-align: center;"><img src="images/the_board/bc-header.png" alt="Brown &amp; Company header. Certified Public Accountants and Management Consulttants, PLLC" width="100%" /><br />
+<p style="text-align: center;"><img src="{{ site.baseurl }}/images/bc-header.png" alt="Brown &amp; Company header. Certified Public Accountants and Management Consulttants, PLLC" width="100%" /><br />
   6401 Golden Triangle Drive, Suite 310 • Greenbelt, MD 20770<br />
   Phone: (240)770-4900 • Fax: (301)773-2090 • mail@brownco-cpas.com • www.brownco-cpas.com</p>
 <h3 id="iar">Independent Auditor's Report</h3>
@@ -237,13 +237,13 @@ permalink: /about/par.html
 <p>Our tests for compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements disclosed no instances of noncompliance for fiscal year 2019 that would be reportable under U.S. generally accepted government auditing standards. However, the objective of our tests was not to provide an opinion on compliance with laws, regulations, contracts, and grant agreements applicable to USAB. Accordingly, we do not express such an opinion.</p>
 <h5>Intended Purpose of Report on Compliance with Laws, Regulations, Contracts, and Grant Agreements</h5>
 <p>The purpose of this report is solely to describe the scope of our testing of compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements, and the results of that testing, and not to provide an opinion on compliance. This report is an integral part of an audit performed in accordance with U.S. generally accepted government auditing standards in considering compliance. Accordingly, this report on compliance with laws, regulations, contracts, and grant agreements is not suitable for any other purpose.</p>
-<p style="margin-top: -1em; z-index: -1;"><img src="images/the_board/bc-sig.png" alt="Brown &amp; Company" width="222" height="99" /></p>
+<p style="margin-top: -1em; z-index: -1;"><img src="{{ site.baseurl }}/images/bc-sig.png" alt="Brown &amp; Company" width="222" height="99" /></p>
 <p style="margin-top: -4em;">Greenbelt, Maryland<br />
   November 13, 2019</p>
-<p><img src="images/the_board/bc-footer.png" alt="Brown &amp; Company; Certifified Public Accountants and Management Consultants, PLLC" width="100%" /></p>
+<p><img src="{{ site.baseurl }}/images/bc-footer.png" alt="Brown &amp; Company; Certifified Public Accountants and Management Consultants, PLLC" width="100%" /></p>
 <hr />
 <h2 id="fsn">Financial Statements and Notes</h2>
-<p><img src="images/the_board/bc-footer.png" alt="Brown &amp; Company; Certifified Public Accountants and Management Consultants, PLLC" width="100%" /></p>
+<p><img src="{{ site.baseurl }}/images/bc-footer.png" alt="Brown &amp; Company; Certifified Public Accountants and Management Consultants, PLLC" width="100%" /></p>
 <hr />
 <h3 id="bs">Balance Sheet</h3>
 <table class="data">
@@ -636,7 +636,7 @@ permalink: /about/par.html
 </table>
 <hr />
 <h2 id="n-fs">NOTES TO THE FINANCIAL STATEMENTS</h2>
-<p><img src="images/the_board/notes-header.jpg" alt="photo of calculator, paper spreadsheet, and pen" width="100%" /></p>
+<p><img src="{{ site.baseurl }}/images/notes-header.jpg" alt="photo of calculator, paper spreadsheet, and pen" width="100%" /></p>
 <h3 id="note1">NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES</h3>
 <h4>A. Reporting Entity</h4>
 <p>The Access Board is an independent Federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards.</p>
