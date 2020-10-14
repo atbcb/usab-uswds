@@ -14,6 +14,7 @@ excerpt: >-
 tags:
   - jobs
 webinar: false
+category: news
 webinar-start: ''
 webinar-end: ''
 registration-link: ''

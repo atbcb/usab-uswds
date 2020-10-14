@@ -8,6 +8,7 @@ authors:
 tags:
   - events
 webinar: false
+category: news
 webinar-start: 'August 12, 2020 2:00 PM'
 webinar-end: 'August 12, 2020 3:00 PM'
 registration-link: ''
