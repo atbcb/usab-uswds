@@ -1,7 +1,10 @@
 ---
 layout: post
 title: 'Webinar: ADA & ABA Standards Chapter 7: Communication Elements and Features'
-date: 'July 1, 2020'
+date: 'August 6, 2020'
+excerpt: >-
+  This session will review scoping and technical provisions for communication
+  elements and features in the ADA and ABA Accessibility Standards (Chapter 7)
 authors:
   - dave-yanchulis
 tags:

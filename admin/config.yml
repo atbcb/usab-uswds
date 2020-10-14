@@ -1,12 +1,12 @@
 ## Comment out when doing local development
-backend:
-  name: github
-  repo: atbcb/usab-uswds
-  base_url: https://federalistapp.18f.gov
-  auth_endpoint: external/auth/github
-  preview_context: federalist/build
-  branch: master
-  use_graphql: false
+# backend:
+#   name: github
+#   repo: atbcb/usab-uswds
+#   base_url: https://federalistapp.18f.gov
+#   auth_endpoint: external/auth/github
+#   preview_context: federalist/build
+#   branch: master
+#   use_graphql: false
 
 ##
 ## Uncomment when doing local development on Netlify CMS
@@ -15,9 +15,9 @@ backend:
 ## See https://www.netlifycms.org/docs/beta-features/#working-with-a-local-git-repository
 ##
 
-# backend:
-#   name: git-gateway
-# local_backend: true
+backend:
+  name: git-gateway
+local_backend: true
 
 ##
 ##
@@ -30,7 +30,7 @@ logo_url: /images/usab-seal.png
 collections:
   - label: News
     name: posts
-    folder: _posts/
+    folder: news/_posts/
     create: true
     slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
     editor:
@@ -44,6 +44,98 @@ collections:
           widget: "datetime",
           format: "MMMM D, YYYY",
           dateFormat: "MMMM D, YYYY",
+          timeFormat: false,
+        }
+      - { label: "Excerpt", name: "excerpt", widget: "string", required: true }
+      - {
+          label: "Image",
+          name: "image",
+          widget: "image",
+          allow_multiple: false,
+          required: false,
+        }
+      - {
+          label: "Image Alternative Text",
+          name: "image_alt_text",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Authors",
+          name: "authors",
+          widget: "relation",
+          collection: "authors",
+          searchFields: ["first_name", "last_name", "full_name"],
+          valueField: "name",
+          displayFields: ["name"],
+          multiple: true,
+          required: false,
+        }
+      - {
+          label: "Tags",
+          name: "tags",
+          widget: "relation",
+          collection: "tags",
+          searchFields: ["name"],
+          valueField: "name",
+          displayFields: ["name"],
+          multiple: true,
+          required: false
+        }
+      - {
+          label: "Show in Webinars",
+          name: "webinar",
+          widget: "boolean",
+          default: false,
+        }
+      - {
+          label: "Webinar Start Date",
+          name: "webinar-start",
+          widget: "datetime",
+          format: "LLL",
+          dateFormat: "MMMM D, YYYY",
+          timeFormat: "hh:mm a",
+          default: '',
+          required: false,
+        }
+      - {
+          label: "Webinar End Date",
+          name: "webinar-end",
+          widget: "datetime",
+          format: "LLL",
+          dateFormat: "MMMM D, YYYY",
+          timeFormat: "hh:mm a",
+          required: false,
+        }
+      - {
+          label: "Registration Link",
+          name: "registration-link",
+          widget: "string",
+          required: false,
+        }
+      - {
+          label: "Recorded webinar video Link",
+          name: "video-link",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - label: Webinars
+    name: webinars
+    folder: webinars/_posts/
+    create: true
+    slug: "{{date}}-{{slug}}"
+    editor:
+      preview: false
+    fields:
+      - { label: "Layout", name: "layout", widget: "hidden", default: "post" }
+      - { label: "Title", name: "title", widget: "string" }
+      - {
+          label: "Publish Date",
+          name: "date",
+          widget: "datetime",
+          format: "YYYY-MM-DD",
+          dateFormat: "YYYY-MM-DD",
           timeFormat: false,
         }
       - { label: "Excerpt", name: "excerpt", widget: "string", required: true }
@@ -181,14 +273,14 @@ collections:
           hint: 'Just the last name for alphabetical sorting purposes, example "washington")',
           required: true,
         }
-      - { 
+      - {
           label: "Full Name with titles and salutations",
           name: "full_name",
           widget: "string",
-          hint: 'Pres. George Washington, PhD',          
+          hint: 'Pres. George Washington, PhD',
           required: true,
         }
-      - { 
+      - {
           label: "Chairperson",
           name: "chair",
           widget: "boolean",
@@ -196,7 +288,7 @@ collections:
           required: true,
           hint: "If yes, Click to slide right",
         }
-      - { 
+      - {
           label: "Vice-Chairperson",
           name: "vice-chair",
           widget: "boolean",
@@ -211,7 +303,7 @@ collections:
           options: ["public", "federal"],
           required: true,
         }
-      - { 
+      - {
           label: "Status",
           name: "status",
           widget: "select",
@@ -219,7 +311,7 @@ collections:
           required: true,
           hint: "Is this a current or former board member?",
         }
-      - { 
+      - {
           label: "Appointing Presidential Administration",
           name: "president",
           widget: "select",
@@ -235,13 +327,13 @@ collections:
           required: false,
         }
       - { label: "Bio", name: "bio", widget: "text", required: false }
-      - { 
-        label: "Agency", 
-        name: "agency", 
-        widget: "select", 
+      - {
+        label: "Agency",
+        name: "agency",
+        widget: "select",
         options: [General Services Administration, Department of Defense, Department of Justice, Department of Housing and Urban Development, Department of Health and Human Services, United States Postal Service, Department of Labor, Department of Education, Department of Commerce, Department of the Interior, Department of Transportation, Department of Veterans Affairs],
-        default: "", 
-        required: false 
+        default: "",
+        required: false
         }
   - label: 504 contacts
     name: contacts-504
@@ -257,7 +349,7 @@ collections:
           widget: "string",
           hint: 'This is the abbreviated name of the agency with hyphens and in lowercase. ie("doj, hhs, hud")',
         }
-      - { 
+      - {
           label: "Full Agency Name",
           name: "full_name",
           widget: "string",
