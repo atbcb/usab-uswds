@@ -166,9 +166,9 @@ collections:
     permalink: /research/:path/
   es:
     output: true
-  authors:
+  staff:
     output: true
-    permalink: /authors/:name/
+    permalink: /about/staff/:name/
   board-members:
     output: true
     permalink: /about/board-members/:name/
@@ -345,9 +345,9 @@ defaults:
       layout: standards
       image-directory: /images/
   - scope:
-      path: "_authors"
+      path: "#_staff"
     values:
-      layout: author
+      layout: profile
   - scope:
       path: "_board-members"
     values:
@@ -427,6 +427,7 @@ exclude:
   # - _prowag*
   # - _aba*
   # - _research*
+  # other development build tips: include_cached meta.html header.html in the base layout
 
 assets:
   sources:
