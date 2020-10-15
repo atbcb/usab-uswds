@@ -423,10 +423,10 @@ exclude:
   - Gemfile
   - Gemfile.lock
   # Uncomment below to speed up dev build times
-  - _ada*
-  - _prowag*
-  - _aba*
-  - _research*
+  # - _ada*
+  # - _prowag*
+  # - _aba*
+  # - _research*
   # other development build tips: include_cached meta.html header.html in the base layout
 
 assets:
