@@ -119,9 +119,9 @@ collections:
         }
       - {
           label: "Presenters (USAB staff)",
-          name: "authors",
+          name: "presenters",
           widget: "relation",
-          collection: "authors",
+          collection: "staff",
           searchFields: ["first_name", "last_name", "full_name"],
           valueField: "name",
           displayFields: ["name"],
