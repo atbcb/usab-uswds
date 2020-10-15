@@ -4,7 +4,7 @@ title: Trainings and Webinars
 pagination:
   enabled: true
   category: webinars
-  sort_field: 'webinar-start'
+  sort_field: 'date'
   sort_reverse: true
 ---
 
@@ -14,15 +14,16 @@ pagination:
     <div class="grid-row grid-gap margin-top-2">
       <div class="desktop:grid-col-8 usa-prose padding-right-4">
         <!-- This loops through the paginated posts -->
-        {% assign today_date = 'now' | date: '%s' %}
+        {% assign today_date = 'now' | date: '%y-%m-%d' %}
         <h2>Upcoming Webinars</h2>
+        today= {{today_date}}
         {% for post in paginator.posts %}
 
         <p>{{post.title}}</p>
-        <p>{{post.webinar-start}}</p>
-        {% assign webinar_date = post.webinar-start | date: '%s' %}
+        <p>{{post.date}}</p>
+        {% assign date = post.date %}
         
-        {% if webinar_date > today_date %}
+        {% if date > today_date %}
 
         <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
           <h3 class="title">
