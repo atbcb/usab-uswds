@@ -1,15 +1,15 @@
 ---
 layout: post
 title: 'Webinar National Park Service Regions 3,4,5 Accessibility workshop'
-date: 'September 2, 2020'
+date: '2020-10-22'
 excerpt: >-
   Webinar on Outdoor Developed Areas and Recreation Facilities for the National
   Park Service Regions 3,4,5 
-authors:
-  - bill-botton
 tags:
   - trainings
+private: true
+webinar-start: ''
+webinar-end: ''
 webinar: true
-webinar-start: 'October 22, 2020 12:00 AM'
 ---
 Outdoor Developed Areas and Recreation Facilities webinar for the National Park Service Regions 3,4,5 Accessibility workshop
