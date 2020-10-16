@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Webinar Ability Center of Greater Toledo
-date: 'September 2, 2020'
+date: '2020-10-06'
 excerpt: Webinar on Website Accessibility for the Ability Center of Greater Toledo
-authors:
-  - bruce-bailey
 tags:
   - trainings
-webinar: true
+  - webinar
+private: true
 webinar-start: 'October 6, 2020 12:00 AM'
+webinar-end: 'October 16, 2020 10:57 AM'
+webinar: true
 ---
 Webinar on Website Accessibility for the Ability Center of Greater Toledo.
