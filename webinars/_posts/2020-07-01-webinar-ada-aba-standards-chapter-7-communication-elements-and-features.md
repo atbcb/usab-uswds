@@ -12,8 +12,9 @@ excerpt: >-
   frequently asked questions about these provisions.
 tags:
   - ADA
-  - trainings
+  - webinar
 webinar: true
+private: false
 webinar-start: 'August 6, 2020 2:30 PM'
 webinar-end: 'August 6, 2020 3:30 PM'
 registration-link: 'https://www.accessibilityonline.org/ao/session/?id=110832'
