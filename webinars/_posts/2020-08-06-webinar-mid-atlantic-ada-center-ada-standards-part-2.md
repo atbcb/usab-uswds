@@ -11,7 +11,7 @@ presenters:
   - dave-yanchulis
 tags:
   - ADA
-  - trainings
+  - webinar
 private: false
 webinar-start: 'September 18, 2020 10:30 AM'
 webinar-end: 'September 18, 2020 11:30 AM'
