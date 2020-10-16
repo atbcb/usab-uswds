@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Webinar Ability Center of Greater Toledo
+title: Ability Center of Greater Toledo
 date: '2020-10-06'
 excerpt: Webinar on Website Accessibility for the Ability Center of Greater Toledo
 tags:
