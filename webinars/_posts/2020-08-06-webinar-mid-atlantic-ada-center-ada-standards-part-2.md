@@ -1,17 +1,22 @@
 ---
 layout: post
-title: 'Webinar: Mid-Atlantic ADA Center - Part 2'
-date: 'August 6, 2020'
+title: Mid-Atlantic ADA Center - Part 2
+date: '2020-09-18'
+excerpt: >-
+  This two-part session will provide an overview of the 2010 ADA Standards and
+  review scoping and technical requirements for new construction and alterations
+  with a focus on common sources of confusion.
 image: /images/uploads/logo-mid-atlantic.gif
-authors:
+presenters:
   - dave-yanchulis
 tags:
   - ADA
   - trainings
-webinar: true
+private: false
 webinar-start: 'September 18, 2020 10:30 AM'
 webinar-end: 'September 18, 2020 11:30 AM'
 registration-link: ''
+webinar: true
 ---
 **2010 ADA Standards for Accessible Design (Parts I & II)**\
 September 17 & 18, 10:30 - 12:00\
