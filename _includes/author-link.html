@@ -1,9 +1,9 @@
-{% assign authors = site.authors | where: "name", include.author %}
+{% assign staff = site.staff | where: "name", include.author %}
 
-{% for author in authors %}
+{% for person in staff %}
   <span class="text-bold">
-    <a class="usa-link text-no-underline" href="{{ site.baseurl }}/authors/{{ author.name }}">
-      {{ author.full_name }}
+    <a class="usa-link text-no-underline" href="{{ site.baseurl }}/authors/{{ person.name }}">
+      {{ person.full_name }}
     </a>
   </span>
 {% endfor %}

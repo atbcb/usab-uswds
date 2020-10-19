@@ -13,8 +13,9 @@ excerpt: >-
   public. This webinar will review the USWDS and explain how it may be used to
   meet the requirements of the 21st Century IDEA in creating accessible agency
   websites.
-tags: []
-private: false
+tags:
+  - "504"
+  - webinar
 webinar-start: 'November 24, 2020 1:00 PM'
 webinar-end: 'November 24, 2020 2:30 PM'
 registration-link: 'https://www.accessibilityonline.org/cioc-508/session/?id=110879'

@@ -1,13 +1,12 @@
 ---
 layout: post
 title: Virtual Training Section 504 Interagency Working Group
-date: 'September 2, 2020'
+date: '2020-09-23'
 excerpt: 'Training on Signage, Section 504 Interagency Working Group'
-authors:
+presenters:
   - dave-yanchulis
   - sarah-presley
 webinar: true
-webinar-start: 'September 23, 2020 12:00 AM'
 ---
 
 

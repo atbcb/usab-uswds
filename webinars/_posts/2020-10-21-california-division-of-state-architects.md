@@ -4,9 +4,8 @@ title: 'California Division of State Architects '
 date: '2020-10-21'
 excerpt: 'Webinar on Chapter 6 for the California Division of State Architects '
 tags:
-  - trainings
-  - webinar
-private: true
+  - training
+closed: true
 webinar-start: ''
 webinar-end: ''
 webinar: true

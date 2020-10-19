@@ -4,21 +4,14 @@ layout: base
 
 {% comment %}
 This template is for a single page that does not have a date associated with it. For example, an about page.
+
+banner-title or title used by include section-title.html
+toc: file name of toc, or null for no left side table of contents
+
 {% endcomment %}
-<div id="section-title" class="bg-primary-darker usa-content font-serif-md padding-y-2">
-  <div class="grid-container text-center maxw-desktop">
-    <h1 class="text-normal text-white margin-0">
-      {% if page.banner-title %}
-        {{ page.banner-title }}
-      {% else %}
-        {{ page.title }}
-      {% endif %}
-    </h1>
-    {% if page.banner-subtitle %}
-    <h3 class="text-italic text-white margin-0 padding-top-1">{{ page.banner-subtitle }}</h3>
-    {% endif %}
-  </div>
-</div>
+
+
+{% include section-title.html %}
 
 <div class="usa-layout-docs">
   <div class="grid-container maxw-desktop">

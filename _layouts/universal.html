@@ -24,20 +24,7 @@ toc-group:
 
 <div class="usa-layout-docs bg-base-lightest ">
   
-  <div id="section-title" class="bg-primary-darker usa-content font-serif-md padding-y-2">
-    <div class="grid-container text-center maxw-desktop">
-      <h1 class="text-normal text-white margin-0">
-        {% if page.banner-title %}
-          {{ page.banner-title }}
-        {% else %}
-          {{ page.title }}
-        {% endif %}
-      </h1>
-      {% if page.banner-subtitle %}
-      <h3 class="text-italic text-white margin-0 padding-top-1">{{ page.banner-subtitle }}</h3>
-      {% endif %}
-    </div>
-  </div>
+  {% include section-title.html %}
 
   <div class="{% if page.width == 'desktop' %}grid-container maxw-desktop{% else %}maxw-full{% endif %}">
     <div class="grid-row">

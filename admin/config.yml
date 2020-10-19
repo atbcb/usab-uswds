@@ -140,8 +140,8 @@ collections:
           required: false
         }
       - {
-          label: "Private Training",
-          name: "private",
+          label: "Closed or Private Training",
+          name: "closed",
           widget: "boolean",
           default: false,
           hint: "Is this a training for a specific group that is not open to the public?"
@@ -177,11 +177,9 @@ collections:
         }
       - { label: "Body", name: "body", widget: "markdown" }
       - {
-          label: "Webinar or Training",
           name: "webinar",
-          widget: "boolean",
-          default: true,
-          hint: "Don't change this."
+          widget: "hidden",
+          default: true
         }
   - label: Staff
     name: staff
