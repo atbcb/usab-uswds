@@ -140,13 +140,6 @@ collections:
           required: false
         }
       - {
-          label: "Webinar or Training",
-          name: "webinar",
-          widget: "boolean",
-          default: true,
-          hint: "Don't change this."
-        }
-      - {
           label: "Private Training",
           name: "private",
           widget: "boolean",
@@ -183,6 +176,13 @@ collections:
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Webinar or Training",
+          name: "webinar",
+          widget: "boolean",
+          default: true,
+          hint: "Don't change this."
+        }
   - label: Staff
     name: staff
     folder: _staff/
