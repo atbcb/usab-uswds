@@ -145,6 +145,7 @@
         anchor = document.createElement('a');
         anchor.className = 'anchorjs-link ' + this.options.class;
         anchor.setAttribute('aria-label', this.options.ariaLabel);
+        anchor.setAttribute('aria-describedby', elementID);
         anchor.setAttribute('data-anchorjs-icon', this.options.icon);
         if (this.options.titleText) {
           anchor.title = this.options.titleText;
@@ -175,9 +176,11 @@
           anchor.style.left = '0';
           anchor.style.marginLeft = '1rem';
           anchor.style.paddingLeft = '0.75rem';
-          //elements[i].style.display = 'inline';
-          //elements[i].insertAdjacentElement('afterend',anchor);
-          elements[i].appendChild(anchor);
+          const blankDiv = document.createElement('div');
+          elements[i].insertAdjacentElement('afterend',blankDiv);
+          elements[i].style.display = 'inline-block';
+          elements[i].insertAdjacentElement('afterend',anchor);
+          //elements[i].appendChild(anchor);
         } else { // if the option provided is `right` (or anything else).
           anchor.style.paddingLeft = '0.375em';
           elements[i].appendChild(anchor);

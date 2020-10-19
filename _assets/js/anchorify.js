@@ -4,7 +4,7 @@
     //ariaLabel: "Copy URL",
     //class: "",
     //placement: "right",
-    ariaLabel: "copy me",
+    ariaLabel: "copy",
     visible: "hover",
   });
 
