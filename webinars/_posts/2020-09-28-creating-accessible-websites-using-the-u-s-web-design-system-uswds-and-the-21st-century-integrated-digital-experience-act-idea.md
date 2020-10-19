@@ -3,7 +3,7 @@ layout: post
 title: >-
   Creating accessible websites using the U.S. Web Design System (USWDS) and the
   21st Century Integrated Digital Experience Act (IDEA)
-date: 'September 28, 2020'
+date: '2020-11-24'
 excerpt: >-
   The 21st Century Integrated Digital Experience Act (IDEA) aims to improve the
   digital experience for government customers and reinforce existing
@@ -14,10 +14,11 @@ excerpt: >-
   meet the requirements of the 21st Century IDEA in creating accessible agency
   websites.
 tags: []
-webinar: true
+private: false
 webinar-start: 'November 24, 2020 1:00 PM'
 webinar-end: 'November 24, 2020 2:30 PM'
 registration-link: 'https://www.accessibilityonline.org/cioc-508/session/?id=110879'
+webinar: true
 ---
 ### Description
 

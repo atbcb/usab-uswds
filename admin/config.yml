@@ -140,15 +140,17 @@ collections:
           required: false
         }
       - {
-          name: "webinar",
-          default: true,
+          label: "Private Training",
+          name: "private",
+          widget: "boolean",
+          default: false,
+          hint: "Is this a training for a specific group that is not open to the public?"
         }
       - {
           label: "Webinar Start Time",
           name: "webinar-start",
           widget: "datetime",
           format: "LLL",
-          dateFormat: "MMMM D, YYYY",
           timeFormat: "hh:mm a",
           default: '',
           required: false,
@@ -158,7 +160,6 @@ collections:
           name: "webinar-end",
           widget: "datetime",
           format: "LLL",
-          dateFormat: "MMMM D, YYYY",
           timeFormat: "hh:mm a",
           required: false,
         }
@@ -175,6 +176,13 @@ collections:
           required: false,
         }
       - { label: "Body", name: "body", widget: "markdown" }
+      - {
+          label: "Webinar or Training",
+          name: "webinar",
+          widget: "boolean",
+          default: true,
+          hint: "Don't change this."
+        }
   - label: Staff
     name: staff
     folder: _staff/
