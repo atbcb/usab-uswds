@@ -32,9 +32,7 @@ h5, h6 { // default was xs and 2xs
   @include u-font('heading', 'sm')
 }
 
-
 // Add your SASS/CSS here
-
 
 // stylish faux 'page-breaks'
 hr {
@@ -53,28 +51,27 @@ hr {
   border-right-color: #f0f0f0; // must match background color
 }
 
-
 a.usa-current::after {
   content: "→" !important;
 }
 
 fieldset {
-  color: inherit;
-  background-color: color(gray-cool-10);
   border: thin solid color(primary-darker);
 }
 fieldset legend {
   color: black;
-  background-color: white;
+  background-color: color(gray-cool-5);
   border: thin solid color(primary-darker);
   padding-left:.5em;
   padding-right:.5em;
 }
 fieldset input {
+  color: black;
+  background-color: color(gray-cool-5);
   border: thin solid color(primary-darker);
 }
 fieldset button {
-  color: color(gray-cool-10);
+  color: white;
   background-color: color(primary-darker);
   border-radius: .5em;
   margin-top:.5em;
@@ -166,6 +163,7 @@ tr:nth-child(even) {
 li.usa-nav__secondary-item a {
   color: color(gray-cool-60);
 }
+
 // temporary blue class to see how grids work
 .blue {
   background-color: cyan;
@@ -365,9 +363,7 @@ figcaption {
   }
 }
 
-
 // Board member profile cards
-
 .card-header {
   @extend .usa-card__header;
   text-align: center;
@@ -375,27 +371,18 @@ figcaption {
   @include u-text('white');
   padding: 1rem;
 }
-
 .gray-to-color {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
-
 .gray-to-color:hover {
   -webkit-filter: none;
   filter: none;
   @include u-bg('primary-lighter')
 }
-
 .card-shadow {
   box-shadow: 0 0 10px -3px #666;
 }
-
-a.style-inherit {
-  color: inherit; // blue colors for links too
-  text-decoration: inherit; // no underline
-}
-
 .card-name {
   @include u-font('serif', '2xs');
   @include u-text('center');
@@ -409,7 +396,10 @@ a.style-inherit {
   @include u-text('primary-darker');
   @include u-margin-bottom(0);
 }
-
+a.style-inherit {
+  color: inherit; // blue colors for links too
+  text-decoration: inherit; // no underline
+}
 
 //table of contents styling
 .toc-subnav .usa-accordion__button {
