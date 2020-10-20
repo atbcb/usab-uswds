@@ -5,7 +5,7 @@
     //class: "",
     //placement: "right",
     ariaLabel: "copy",
-    visible: "hover",
+    visible: "touch",
   });
 
   anchors.add('.anchored h2, .anchored h3, .anchored h4, .anchored h5, .anchored h6');
