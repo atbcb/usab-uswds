@@ -11,7 +11,7 @@ file-description: Single file PDF version of the Revised 508 Standards and 255 G
 
 {% assign ict-chapters = site.ict | where: "title","About the ICT Accessiblity 508 Standards and 255 Guidelines" %}
 {% for chapter in ict-chapters %}
-	<h2>{{chapter.title}}</h2>
+	<h2 id="about-the-ict-accessibility-standards">{{chapter.title}}</h2>
     <div>{{chapter.content | markdownify}}</div>
 {% endfor %}
 
@@ -31,7 +31,7 @@ file-description: Single file PDF version of the Revised 508 Standards and 255 G
 	<div id="appendixA">
     	<h1>Appendix A to Part 1194 – Section 508 of the Rehabilitation Act: Application and Scoping Requirements</h1>
 			<div class="chapter" id="508chapter1">
-				<h2>508 Chapter 1: Application and Administration</h2>
+				<h2 id="">508 Chapter 1: Application and Administration</h2>
 					<h3 id="E101-general">E101 General</h3>									
 						<h4 id="E101.1">E101.1 Purpose</h4>
 							<p class="dot1desc">These Revised 508 Standards, which consist of 508 Chapters 1 and 2 (Appendix A), along with Chapters 3 through 7 (Appendix C), contain scoping and technical requirements for information and communication technology (ICT) to ensure accessibility and usability by individuals with disabilities. Compliance with these standards is mandatory for Federal agencies subject to Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. 794d).</p>
@@ -856,6 +856,12 @@ file-description: Single file PDF version of the Revised 508 Standards and 255 G
 							</div>							
 			</div> <!-- end 508 chapter 7 -->	
 	</div> <!-- end Appendix C -->
-	
+	<hr>
+
+	{% assign ict-chapters = site.ict | where: "title","Original 508 Standards (2000)" %}
+	{% for chapter in ict-chapters %}
+		
+		<div class="usa-prose">{{chapter.content}}</div>
+	{% endfor %}	
 	
 </div> <!-- end -->

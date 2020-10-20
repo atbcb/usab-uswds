@@ -299,14 +299,16 @@ defaults:
       path: ""
       type: "ict"
     values:
-      collection-title: "Information and Communication Technology"
-      collection-subtitle: "Revised 508 Standards and 255 Guidelines"
+      banner-title: "Information and Communication Technology"
+      banner-subtitle: "Revised 508 Standards and 255 Guidelines"
       collection-folder: ict
       layout: universal
       toc: toc-ict.html
       file-directory: /files/ict/
       image-directory: /images/ict/
-      right-sidenav: sidenav-508.html
+      right-sidenav: sidenav-right-universal.html
+      ta-text: Contact the Access Board for guidance on these standards
+      ta-email-pre: "508"
   - scope:
       path: ""
       type: "mde"
