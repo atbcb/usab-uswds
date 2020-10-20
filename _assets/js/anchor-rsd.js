@@ -176,6 +176,9 @@
           anchor.style.left = '0';
           anchor.style.marginLeft = '1rem';
           anchor.style.paddingLeft = '0.75rem';
+          anchor.style.marginTop = '.5rem';
+          anchor.style.marginBottom = '.5rem';
+          anchor.style.fontSize = '2rem';
           const blankDiv = document.createElement('div');
           elements[i].insertAdjacentElement('afterend',blankDiv);
           elements[i].style.display = 'inline-block';
