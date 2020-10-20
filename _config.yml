@@ -302,7 +302,8 @@ defaults:
       collection-title: "Information and Communication Technology"
       collection-subtitle: "Revised 508 Standards and 255 Guidelines"
       collection-folder: ict
-      layout: standards
+      layout: universal
+      toc: toc-ict.html
       file-directory: /files/ict/
       image-directory: /images/ict/
       right-sidenav: sidenav-508.html
