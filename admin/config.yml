@@ -223,6 +223,13 @@ collections:
           hint: "The name of the tag",
         }
       - {
+          label: "Background color",
+          name: "color",
+          widget: "text",
+          required: false,
+          hint: "HTML hex color",
+        }
+      - {
           label: "Description",
           name: "description",
           widget: "text",

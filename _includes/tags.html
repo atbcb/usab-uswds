@@ -1,7 +1,7 @@
   {% assign tags = site.tags | where: "name", include.tag %}
 
   {% for tag in tags %}
-    <span class="text-bold">
+    <span class="text-bold" style="background-color: {{ tag.color }};">
       {{ tag.name }}
     </span>
   {% endfor %}
