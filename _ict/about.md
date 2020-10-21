@@ -1,12 +1,8 @@
 ---
 title: "About the ICT Accessiblity 508 Standards and 255 Guidelines"
-permalink: /ict/
-order-number: 1
-file: ict-final-rule.pdf
-file-description: Single file PDF version of the Revised 508 Standards and 255 Guidelines
+permalink: /ict/about.html
+version: original
 ---
-
-### About the ICT Accessibility Standards 
 
 These standards address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. 
 
@@ -14,7 +10,7 @@ Section 508 requires access to ICT developed, procured, maintained, or used by f
 
 The Section 255 Guidelines cover telecommunications equipment and customer-premises equipment---such as telephones, cell phones, routers, set-top boxes, and computers with modems, interconnected Voice over Internet Protocol products, and software integral to the operation of telecommunications function of such equipment.
 
-### Background
+## Background
 
 * February 3, 1998 - The Board publishes the original [Telecommunications Act Accessibility Guidelines](https://www.federalregister.gov/d/98-2414).
 * December 21, 2000 - The Board issues the original [Section 508 Standards](https://www.federalregister.gov/d/E6-10562).
