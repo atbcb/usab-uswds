@@ -14,7 +14,12 @@
     if (!domain) return false;
     const segments = domain.split('.');
     const tld = segments[segments.length - 1];
-    return !((tld === 'mil') || (tld === 'gov') || (tld === 'http://localhost'));
+    return !(
+      (tld === 'mil') ||
+      (tld === 'gov') ||
+      (tld === 'http://localhost') ||
+      (tld === '1')
+    );
   }
 
   // Select anchor tags, filter non gov domains and add style
