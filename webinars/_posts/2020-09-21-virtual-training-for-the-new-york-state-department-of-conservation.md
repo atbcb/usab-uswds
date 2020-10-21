@@ -1,16 +1,16 @@
 ---
 layout: post
 title: Virtual Training for the New York State Department of Conservation
-date: 'September 2, 2020'
+date: '2020-09-21'
 excerpt: >-
   Training on Outdoor Developed Areas for the New York State Department of
   Conservation 
-authors:
+presenters:
   - bill-botton
 tags:
-  - trainings
+  - training
 webinar: true
-webinar-start: 'September 21, 2020 12:00 AM'
+closed: true
 ---
 
 

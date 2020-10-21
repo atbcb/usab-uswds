@@ -20,16 +20,20 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 
 // Set fonts
 h1, h2 { // default was 2xl
-  @include u-font('heading', 'xl')
+  @include u-font('heading', 'xl');
+  @include u-margin-y(1)
 }
 h3 { // default was 2xl
-  @include u-font('heading', 'lg')
+  @include u-font('heading', 'lg');
+  @include u-margin-y(1)
 }
 h4 { // default was sm
-  @include u-font('heading', 'md')
+  @include u-font('heading', 'md');
+  @include u-margin-y(1)
 }
 h5, h6 { // default was xs and 2xs
-  @include u-font('heading', 'sm')
+  @include u-font('heading', 'sm');
+  @include u-margin-y(1)
 }
 
 // Add your SASS/CSS here

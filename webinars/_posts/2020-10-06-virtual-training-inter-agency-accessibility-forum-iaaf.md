@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Virtual Training Inter Agency Accessibility Forum (IAAF)
-date: 'September 2, 2020'
+date: '2020-10-06'
 excerpt: FAR/508 panel Inter Agency Accessibility Forum (IAAF)
 webinar: true
 webinar-start: 'October 6, 2020 12:00 AM'

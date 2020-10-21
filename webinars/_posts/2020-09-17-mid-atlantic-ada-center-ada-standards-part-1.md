@@ -1,14 +1,14 @@
 ---
 layout: post
-title: 'Webinar: Mid-Atlantic ADA Center - Part 1'
-date: 'August 12, 2020'
+title: 'Mid-Atlantic ADA Center - Part 1'
+date: '2020-09-17'
 image: /images/mid-atlantic-ada-center.gif
 image_alt_text: Mid-Atlantic ADA Center logo
-authors:
+presenters:
   - dave-yanchulis
 tags:
   - ADA
-  - trainings
+  - training
 webinar: true
 webinar-start: 'September 17, 2020 10:30 AM'
 webinar-end: 'September 17, 2020 11:30 AM'

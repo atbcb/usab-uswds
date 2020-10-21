@@ -1,12 +1,14 @@
 ---
 layout: post
-title: 'Webinar: ADA & ABA Standards Chapter 8: Special Rooms, Spaces, and Elements (Part 1)'
-date: 'August 11, 2020'
-authors:
+title: 'ADA & ABA Standards Chapter 8: Special Rooms, Spaces, and Elements (Part 1)'
+date: '2020-09-03'
+presenters:
   - bill-botton
+  - randall-duchesneau
 tags:
   - ADA
-  - trainings
+  - ABA
+  - webinar
 webinar: true
 webinar-start: 'September 3, 2020 2:30 PM'
 webinar-end: 'September 3, 2020 3:30 PM'

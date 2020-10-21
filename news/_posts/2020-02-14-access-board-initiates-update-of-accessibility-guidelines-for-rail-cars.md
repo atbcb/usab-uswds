@@ -11,7 +11,7 @@ excerpt: >-
   vehicles used in fixed guideway systems, including rapid, light, commuter, and
   intercity rail. The Board requests information from the public for its use in
   developing a proposed rule.
-image: images/uploads/rail.jpg
+image: /images/uploads/rail.jpg
 image_alt_text: Rail Car
 webinar: false
 webinar-start: ''

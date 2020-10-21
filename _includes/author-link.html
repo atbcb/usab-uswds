@@ -1,9 +1,0 @@
-{% assign authors = site.authors | where: "name", include.author %}
-
-{% for author in authors %}
-  <span class="text-bold">
-    <a class="usa-link text-no-underline" href="{{ site.baseurl }}/authors/{{ author.name }}">
-      {{ author.full_name }}
-    </a>
-  </span>
-{% endfor %}

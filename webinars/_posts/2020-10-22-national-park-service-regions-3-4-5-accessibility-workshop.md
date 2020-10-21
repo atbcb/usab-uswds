@@ -6,11 +6,8 @@ excerpt: >-
   Webinar on Outdoor Developed Areas and Recreation Facilities for the National
   Park Service Regions 3,4,5 
 tags:
-  - trainings
-  - webinar
-private: true
-webinar-start: ''
-webinar-end: ''
+  - training
+closed: true
 webinar: true
 ---
 Outdoor Developed Areas and Recreation Facilities webinar for the National Park Service Regions 3,4,5 Accessibility workshop
