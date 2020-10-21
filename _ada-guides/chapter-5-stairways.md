@@ -104,12 +104,10 @@ length is measured to the start of the return radius.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <span class="grid-line bold">Carpet Edge Treatment</span>
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter5/5s6-a.jpg" alt="Top horizontal handrail extension 12 inches long min. at stairs. Note:
 Handrails at the top of stairways must extend 12 inches minimum horizontally above the landing beginning directly above the first riser nosing or be continuous to the handrail of an adjacent stair flight (§505.10.2).">
     </div>
     <div class="tablet:grid-col">
-      <span class="grid-line bold">Carpet to Tile Transition</span>
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter5/5s7a.jpg" alt="Bottom handrail extension sloping beyond the last riser nosing for a
 distance at least equal to one tread depth. Note: Handrails at the bottom must extend beyond the last riser nosing at the slope of the stair flight for a distance at least equal to one tread depth or be continuous to the handrail of an adjacent stair flight protruding objects.">
     </div>
