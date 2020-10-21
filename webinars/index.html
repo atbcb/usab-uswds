@@ -20,19 +20,35 @@ pagination:
         <h3 class="title">
           <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
         </h3>
-        post: {{post_date}}
-        today: {{today_date}}
         {% if post_date > today_date %}
-        <span class="bg-color-green">Upcoming</span>
+        <span class="bg-green">Upcoming</span>
         {% endif %}
         <div class="text-base margin-bottom-2">
           <div class="margin-top-neg-105">
+            <span>Date: {{ post.date | date: '%B %d, %Y' }}</span>
+            {% if post.webinar-start %}
+            <br>
+            <span class="text-italic">{{ post.webinar-start | date: '%I:%M %p' }}{% if post.webinar-end %} - {{ post.webinar-end | date: '%I:%M %p' }}{% endif %}</span>
+            {% endif %}
+            {% if post.registration-link %}
+            <br>
+            <span><a href="{{ post.registration-link }}">Registration Link</a></span>
+            {% endif %}
+            {% if post.presenters %}
+            <br>
             <span>Presenters: </span>
             {% for presenter in post.presenters %}
-              {% include author-link.html staff=presenter %}
+              {% include staff.html staff=presenter %}
             {% endfor %}
+            {% endif %}
+            {% if post.tags %}
             <br>
-            <span>Date: {{ post.date | date: '%B %d, %Y' }}</span>
+            <span>Topics: </span>
+            {% for tag in post.tags %}
+              {% include tags.html tag=tag %}
+            {% endfor %}
+            {% endif %}
+            
              
           </div>
         </div>
@@ -69,7 +85,7 @@ pagination:
       </div>
     </div>
     <aside class="desktop:grid-col-fill margin-top-4 padding-right-4">
-      {% include sidenav-posts.html %}
+      {% include sidenav-webinars.html %}
     </aside>
   </div>
 </div>
