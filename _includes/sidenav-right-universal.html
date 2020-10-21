@@ -13,10 +13,12 @@ ta-email-pre:
 <div class="desktop:grid-col-2 margin-top-3 margin-x-1">
     <div class="padding-2 bg-white border sticky">
       <div class="">
+        {% if page.s-image %}
         <a class="usa-link" href="{{ site.baseurl }}{{ page.s-url }}">
         <img class="" src="{{ site.baseurl }}{{ page.s-image }}">
         <span class="bg-primary text-white bold">{{ page.s-url-text }}</span>
         </a>
+        {% endif %}
       </div>
       <h4 id="ta-box" class="font-heading-3xs">Technical Assistance</h4>
         <span class="font-body-3xs">{{ page.ta-text }}</span>
