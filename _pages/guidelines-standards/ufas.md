@@ -175,7 +175,7 @@ The following terms shall, for the purpose of these standards, have the meaning 
 
 *WALK.* An exterior pathway with a prepared surface intended for pedestrian use, including general pedestrian areas such as plazas and courts.
 
-# 4. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS
+## 4. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS
 
 ### 4.1 MINIMUM REQUIREMENTS
 
