@@ -30,11 +30,13 @@ pagination:
           {% if post.image %}
           <img src="{{ site.baseurl }}{{ post.image }}"
           class="img-right maxw-card-lg maxh-card-lg" alt="{{ post.image_alt_text }}">
-          {% endif %} 
+          {% endif %}
+          {% if post.excerpt %}
           {{ post.excerpt }}
               {% comment %} We default to using post.excerpt, but
               you can also use post.content. If you use excerpt then you have to
               make sure the content is on each post header {% endcomment %}
+          {% endif %}
         </div>
       </div>
       {% endfor %}
