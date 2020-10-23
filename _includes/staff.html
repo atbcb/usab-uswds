@@ -1,9 +1,9 @@
 {% assign staff = site.staff | where: "name", include.staff %}
 
 {% for person in staff %}
-  <span class="text-bold">
+  <span class="text-bold" style="white-space: nowrap;">
     <a class="usa-link text-no-underline" href="{{ site.baseurl }}/staff/{{ person.name }}">
       {{ person.full_name }}
-    </a>
+    </a> | 
   </span>
 {% endfor %}

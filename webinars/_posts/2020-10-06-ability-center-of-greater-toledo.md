@@ -7,8 +7,6 @@ tags:
   - trainings
   - webinar
 closed: true
-webinar-start: ''
-webinar-end: ''
 webinar: true
 ---
 Webinar on Website Accessibility for the Ability Center of Greater Toledo.

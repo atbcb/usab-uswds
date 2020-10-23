@@ -2,14 +2,12 @@
 title: Webinars
 layout: page
 sidenav: false
-permalink: /webinars-about.html
+permalink: /webinars/about
 ---
 
-# Webinars
+## Accessibility Online
 
-## Accessibility Online ##
-
-![Accessibility Online banner with ISA and computer mouse](../img/ao-banner.png){: .img-right}
+![Accessibility Online banner with ISA and computer mouse]({{ site.baseurl }}/images/ao-banner.png){: .img-right}
 
 The Access Board, in cooperation with the National Network of ADA Centers, offers a free monthly webinar series on the Board’s guidelines and standards and other aspects of accessible design.  Sessions also provide an opportunity to earn continuing education credits (CEUs).
 
@@ -20,7 +18,7 @@ Webinars are recorded, and past sessions are available in the site's [archives](
 
 ## Section 508 Best Practices Webinar Series ##
 
-![CIO Council seal](../img/cioc-logo.png){: .img-right}
+![CIO Council seal]({{ site.baseurl }}/images/cioc-logo.png){: .img-right .max-height-card}
 
 The [Section 508 Best Practices Webinar Series](https://www.accessibilityonline.org/cioc-508/schedule) addresses a variety of issues associated with ensuring that federal agencies have the knowledge they need to meet their obligations under Section 508.&nbsp;
 The sessions are 90 minutes in length.&nbsp;

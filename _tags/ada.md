@@ -1,5 +1,6 @@
 ---
 name: ADA
-color: "#f8dfe2"
+color: "#538200"
+title: ADA standards
 ---
 
