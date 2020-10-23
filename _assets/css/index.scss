@@ -170,7 +170,7 @@ li.usa-nav__secondary-item a {
 
 // override light blue heading used in highlights.html to get a little more contrast 
 h3.usa-graphic-list__heading {
-  color: color(primary-light)
+  color: color(primary-lighter)
 }
 
 // temporary blue class to see how grids work
@@ -181,10 +181,16 @@ h3.usa-graphic-list__heading {
 // advisory boxes, might be P or DIV
 .advisory {
   background-color: color(primary-lighter);
+  border: thin solid color(primary);
   padding: 1em;
   margin-left: 1em;
   margin-right: 1em;
-  border: thin solid color(primary);
+}
+div.advisory p.first {
+  margin-top: -1em;
+}
+div.advisory p.last {
+  margin-bottom: -1em;
 }
 
 // create class that combines about page img classes
