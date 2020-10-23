@@ -163,9 +163,14 @@ tr:nth-child(even) {
   background-repeat: no-repeat;
 } */
 
-// override default gray to get a little higher contrast
+// override default gray to get a little more contrast
 li.usa-nav__secondary-item a {
   color: color(gray-cool-60);
+}
+
+// override light blue heading used in highlights.html to get a little more contrast 
+h3.usa-graphic-list__heading {
+  color: color(primary-light)
 }
 
 // temporary blue class to see how grids work
@@ -175,10 +180,11 @@ li.usa-nav__secondary-item a {
 
 // advisory boxes, might be P or DIV
 .advisory {
-  background-color: color(blue-warm-20);
+  background-color: color(primary-lighter);
   padding: 1em;
   margin-left: 1em;
   margin-right: 1em;
+  border: thin solid color(primary);
 }
 
 // create class that combines about page img classes
@@ -236,7 +242,8 @@ dt {
   text-align: center;
 }
 
-.grid-line-left {  // replace grid-line-left with text-left display-block instead
+// overide grid-line-left with text-left display-block instead
+.grid-line-left {
   display: block;
   text-align: left;
 }
