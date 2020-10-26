@@ -7,11 +7,12 @@ excerpt: >-
   afternoon of May 21 at Bankers Life Fieldhouse. The event will provide an open
   forum where members of the public can pose questions to the Board or share
   comments or concerns about accessibility for people with disabilities. There
-  also will be panel discussions with area speakers on accessible recreation and
-  outdoor environments, the Indiana AgrAbility Project, and local compliance
-  initiatives under the Americans with Disabilities Act (ADA).
+  also will be panel . . .
 image: /images/uploads/indianpolis.jfif
 image_alt_text: Indianapolis
+tags:
+  - events
+  - training
 featured: false
 ---
 
@@ -49,8 +50,5 @@ Pacers Square at Bankers Life Fieldhouse\
 
 *Remote Options for the Town Hall Meeting:*\
 Call-in option: (888) 396-7314, passcode: 7394831\
-Online Computer Assisted Real-time Transcription:[www.streamtext.net/player?event=052119](https://www.streamtext.net/player?event=052119)
+Online Computer Assisted Real-time Transcription: [www.streamtext.net/player?event=052119](https://www.streamtext.net/player?event=052119)
 
-
-
-![Bankers Life Fieldhouse]({{ site.baseurl }}/images/uploads/bankerslife.png "Bankers Life Fieldhouse")
