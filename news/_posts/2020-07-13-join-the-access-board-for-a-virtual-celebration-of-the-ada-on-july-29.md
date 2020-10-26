@@ -13,7 +13,7 @@ authors:
   - dave-yanchulis
 tags:
   - events
-featured: true
+featured: false
 ---
 The Access Board will celebrate the ADA's 30th anniversary with a virtual public meeting on July 29 from 1:30 -- 3:00 (ET). The event will feature a discussion of the ADA and its achievements with guest speakers and Access Board members.
 
