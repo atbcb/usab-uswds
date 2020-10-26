@@ -18,7 +18,7 @@ The Access Board unanimously elected Board Member Karen Tamley as its new Chair 
 
 Tamley joined the Board in 2015 as a public member. As head of the Mayor's Office for People with Disabilities, she leads numerous disability policy and compliance initiatives in transportation, city infrastructure, emergency preparedness, housing, schools and technology, and other areas. She also oversees the delivery of independent living services to city residents.
 
-![Lance Robertson]({{ site.baseurl }}{{ site.baseurl }}{{ site.baseurl }}/images/uploads/robertson-chair.jfif "Lance Robertson")
+![Lance Robertson]({{ site.baseurl }}/images/uploads/robertson-chair.jfif "Lance Robertson"){: .img-right}
 
 She succeeds Lance Robertson who represents the U.S. Department of Health and Human Services (HHS) on the Board and who was named Vice Chair by acclamation. He serves as Assistant Secretary for Aging at HHS and heads its Administration for Community Living and previously was Director of Aging Services at the Oklahoma Department of Human Services.
 
