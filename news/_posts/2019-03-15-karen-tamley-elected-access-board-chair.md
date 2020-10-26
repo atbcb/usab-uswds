@@ -11,7 +11,7 @@ featured: false
 ---
 The Access Board unanimously elected Board Member Karen Tamley as its new Chair on March 13. Tamley, who completed a term as Board Vice Chair, has served as the Commissioner of the Chicago Mayor's Office for People with Disabilities since 2005.
 
-![Karen Tamley]({{ site.baseurl }}{{ site.baseurl }}{{ site.baseurl }}/images/uploads/tamley-vchair.jfif "Karen Tamley")
+![Karen Tamley]({{ site.baseurl }}/images/uploads/tamley-vchair.jfif "Karen Tamley"){: .img-right}
 
 
 "I am honored to chair such a dedicated agency that is a true force for change and that has done so much to advance accessibility both in the U.S. and abroad," she stated after the vote. "I look forward to working with Board members and staff in the year ahead."
