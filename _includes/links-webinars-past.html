@@ -1,7 +1,7 @@
 <div class="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
     <h4 class="">Past Webinars</h4>
     <ul class="usa-list usa-list--unstyled padding-top-2">
-      {% assign webinars = site.posts | where: "webinar", true %}      
+      {% assign webinars = site.posts | where: "webinar", true | where: "tags", "webinar" %}      
       {% assign today_date = 'now' | date: '%s' %}
       {% for webinar in webinars limit:10 %}
         {% assign webinar_date = webinar.date | date: '%s' %}
