@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Access Restored to Popular Boardwalk in New York City under ABA
-date: 'December 19, 2019'
+date: '2019-12-19'
 excerpt: >-
   When Super Storm Sandy hit New York City in 2012, it destroyed most of the
   iconic Rockaway Boardwalk in Queens. The following year, the New York City
@@ -9,11 +9,13 @@ excerpt: >-
   using disaster relief assistance from the Federal Emergency Management Agency
   (FEMA) and the Community Development Block Grant Disaster Recovery Program.
   Shortly after the boardwalk reopened in May 2017, a complaint was filed with
-  the Access Board under the Architectural Barriers Act (ABA) alleging that
-  ramps at two locations along the boardwalk that had been destroyed were
-  replaced with stairs.
+  the Access Board . . .
 image: /images/uploads/roackaway.png
 image_alt_text: Rockaway Boardwalk
+tags:
+  - ABA
+  - enforcement
+  - corrective action
 featured: false
 ---
 When Super Storm Sandy hit New York City in 2012, it destroyed most of the iconic Rockaway Boardwalk in Queens. The following year, the New York City Department of Parks and Recreation began work to restore the 5½ mile boardwalk using disaster relief assistance from the Federal Emergency Management Agency (FEMA) and the Community Development Block Grant Disaster Recovery Program. Shortly after the boardwalk reopened in May 2017, a complaint was filed with the Access Board under the [Architectural Barriers Act (ABA)](https://www.access-board.gov/the-board/laws/architectural-barriers-act-aba) alleging that ramps at two locations along the boardwalk that had been destroyed were replaced with stairs.
