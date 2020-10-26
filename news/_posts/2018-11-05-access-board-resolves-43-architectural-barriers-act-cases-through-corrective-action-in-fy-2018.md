@@ -12,11 +12,11 @@ tags:
   - enforcement
 featured: false
 ---
-The Access Board was created in part to enforce the first federal law to address accessibility, the [Architectural Barriers Act (ABA) of 1968]({{ site.baseurl }}/aba/). This law requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board also maintains the guidelines upon which the ABA Standards are based.
+The Access Board was created in part to enforce the first federal law to address accessibility, the [Architectural Barriers Act (ABA)](https://www.access-board.gov/the-board/laws/architectural-barriers-act-aba). This law requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board also maintains the guidelines upon which the ABA Standards are based.
 
 With passage of other laws, including the landmark Americans with Disabilities Act (ADA), the Board's mission has expanded significantly. It is now responsible for developing and keeping up to date accessibility requirements for the wide array of facilities covered by the ADA, as well as for transportation vehicles and systems. It also issues standards for information and communication technology and for medical diagnostic equipment.
 
-Despite these other duties, the Board continues the important work of enforcing the ABA. We do this through the investigation of complaints from the public. Filing a complaint with the Board is easy to do and can be done through an [online form]({{ site.baseurl }}/enforcement/file-a-complaint/). Complaints should include the name and address of the facility and a brief description of the access barriers or issues. Complaints can be filed anonymously.
+Despite these other duties, the Board continues the important work of enforcing the ABA. We do this through the investigation of complaints from the public. Filing a complaint with the Board is easy to do and can be done through an [online form](https://www.access-board.gov/aba-enforcement/file-a-complaint). Complaints should include the name and address of the facility and a brief description of the access barriers or issues. Complaints can be filed anonymously.
 
 The first step of an investigation is to determine whether the facility at issue is covered by the ABA. If so, the next step is to determine whether the facility meets the applicable accessibility standard. If the facility is not subject to the ABA or if it meets the appropriate accessibility standard, the Board will advise the complainant of its findings. Some facilities are not covered by the ABA but by other laws such as the ADA, which is enforced by other agencies and the courts.
 
@@ -27,7 +27,7 @@ If the facility does not meet the applicable standard, the Board will work with 
 
 *U.S. Postal Facilities*
 
-![US Mail logo]({{ site.baseurl }}/images/uploads/usmail.JPG "US Mail logo"){:.img-right}
+![US Mail logo]({{ site.baseurl }}/images/uploads/usmail.jpg "US Mail logo")
 
 * **U.S. Post Office (Charleston, West Virginia)**: The Postal Service installed a required van accessible customer parking space.
 * **U.S. Post Office (Urbana, Illinois)**: The Postal Service repaired a broken platform lift at the accessible customer entrance.
@@ -62,7 +62,7 @@ If the facility does not meet the applicable standard, the Board will work with 
 
 *Military and Veterans Affairs Facilities*
 
-![Military symbol]({{ site.baseurl }}/images/uploads/military.JPG "Military symbol")
+![Military symbol]({{ site.baseurl }}/images/uploads/military.jpg "Military symbol")
 
 * **Gulf Coast Veterans Healthcare System (Biloxi, Mississippi)**: The Department of Veterans Affairs installed additional required accessible parking spaces and altered other accessible parking spaces to bring them into compliance with the applicable Federal accessibility standards.
 * **Keesler Air Force Base (Biloxi, Mississippi)**: The Department of the Air Force took voluntary corrective action to install automatic door openers at the customer entrance of the Exchange Express (Building 1510) at the Base.
@@ -71,21 +71,21 @@ If the facility does not meet the applicable standard, the Board will work with 
 
 *Parks and Historic Sites*
 
-![parks symbol]({{ site.baseurl }}/images/uploads/parks.JPG "parks symbol")
+![parks symbol]({{ site.baseurl }}/images/uploads/parks.jpg "parks symbol")
 
 * **Herbert Hoover Presidential Library and Museum (West Branch, Iowa)**: The National Archives and Records Administration took voluntary corrective action to install automatic door openers on one of the customer entrance doors as well as the men's and women's toilet room doors.
 * **Campgrounds at or near Clearwater Lake (Piedmont, Missouri)**: The U.S. Army Corps of Engineers installed a required van accessible parking space at campsite A6 in Piedmont Park and took corrective action to provide access to the electrical pedestals at campsites 36 and 37 in Webb Creek Park.
 
 *Internal Revenue Service*
 
-![IRS logo]({{ site.baseurl }}/images/uploads/irs.JPG "IRS logo")
+![IRS logo]({{ site.baseurl }}/images/uploads/irs.jpg "IRS logo")
 
 * **Internal Revenue Service (Frederick, Maryland)**: The General Service Administration and the Internal Revenue Service took corrective action to bring the accessible parking spaces into compliance and made repairs to the ramp leading from the parking spaces to the accessible customer entrance.
 * **Internal Revenue Service (Tulsa, Oklahoma)**: The General Services Administration and Internal Revenue Service took corrective action to bring the ramp connecting the lower-level parking lot to the accessible customer entrance into compliance.
 
 *Other Facilities*
 
-![federal government symbol]({{ site.baseurl }}/images/uploads/federal.JPG "federal government symbol")
+![federal government symbol]({{ site.baseurl }}/images/uploads/federal.jpg "federal government symbol")
 
 * **Federal Correctional Institution (Tallahassee, Florida)**: The Bureau of Prisons of the Department of Justice replaced a non-functioning platform lift used by visitors and employees.
 * **Drug Enforcement Administration (Tucson, Arizona)**: The Drug Enforcement Administration installed required accessible parking spaces in different parking lots at the facility.
