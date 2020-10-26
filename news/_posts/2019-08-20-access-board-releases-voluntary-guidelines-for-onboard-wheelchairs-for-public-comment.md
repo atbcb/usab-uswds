@@ -18,11 +18,7 @@ excerpt: >-
   DOT’s planned performance standards.
 image: /images/uploads/onboard-chair.jpg
 image_alt_text: Onboard Chair
-webinar: false
-webinar-start: ''
-webinar-end: ''
-registration-link: ''
-video-link: ''
+featured: false
 ---
 
 
@@ -32,7 +28,7 @@ As indicated in a notice [published](https://www.federalregister.gov/documents/2
 
 As part of a negotiated [rulemaking](https://www.transportation.gov/sites/dot.gov/files/docs/ACCESS%20Committee%20Final%20Resolution.11.21.16.pdf) to improve access for air travelers with disabilities, DOT has put forth plans to supplement its ACAA regulations and require onboard wheelchairs with enhanced functionality on aircraft with more than 125 passenger seats.
 
-Related information, including instructions for submitting comments, is posted at [www.regulations.gov](https://www.regulations.gov/docket?D=ATBCB-2019-0002)(Docket ATBCB-2019-0002). Comments are due October 21, 2019. In addition, on September 12, 2019, the Board will hold a public hearing that will provide an opportunity to submit comments either in person or by phone. Further details will be posted on the Board’s [website](https://www.access-board.gov/onboard). Those who wish to provide testimony at the hearing should contact Rose Marie Bunales at (202) 272-0006 (voice) or [bunales@access-board.gov](mailto:bunales@access-board.gov) by September 5, 2019.
+Related information, including instructions for submitting comments, is posted at [www.regulations.gov](https://www.regulations.gov/docket?D=ATBCB-2019-0002) (Docket ATBCB-2019-0002). Comments are due October 21, 2019. In addition, on September 12, 2019, the Board will hold a public hearing that will provide an opportunity to submit comments either in person or by phone. Further details will be posted on the Board’s [website](https://www.access-board.gov/onboard). Those who wish to provide testimony at the hearing should contact Rose Marie Bunales at (202) 272-0006 (voice) or [bunales@access-board.gov](mailto:bunales@access-board.gov) by September 5, 2019.
 
 For further details on the guidelines or the public hearing, contact Wendy Marshall at (202) 272-0043 (voice) or [marshall@access-board.gov](mailto:marshall@access-board.gov), or Mario Damiani at (202) 272-0050 (voice) or [damiani@access-board.gov](mailto:damiani@access-board.gov).
 
@@ -43,4 +39,4 @@ Communication access real-time translation (CART): <http://streamtext.net/player
 Access Board Conference Center\
 1331 F Street NW, Suite 800\
 Washington, DC 20004-1111\
-Note: For the comfort of all participants and to promote a[fragrance-free](https://www.access-board.gov/the-board/policies/fragrance-free-environment)environment, attendees are requested not to use perfume, cologne, or other fragrances.
+Note: For the comfort of all participants and to promote a [fragrance-free](https://www.access-board.gov/the-board/policies/fragrance-free-environment)environment, attendees are requested not to use perfume, cologne, or other fragrances.
