@@ -10,11 +10,7 @@ excerpt: >-
   requires access to buildings or facilities that were designed, built, or
   altered with federal dollars or leased by federal agencies. The Board also
   maintains the guidelines upon which the ABA Standards are based.
-webinar: false
-webinar-start: ''
-webinar-end: ''
-registration-link: ''
-video-link: ''
+featured: false
 ---
 
 
@@ -104,7 +100,7 @@ If the facility does not meet the applicable standard, the Board will work with 
 
 #### Other Facilities
 
-![Federal Image]({{ site.baseurl }}images/uploads/federal.jfif "Federal Image")
+![Federal Image]({{ site.baseurl }}/images/uploads/federal.jfif "Federal Image")
 
 * **Joel W. Solomon Federal Building and United States Court House (Chattanooga, Tennessee):**The General Services Administration’s Public Buildings Service, in consultation with GSA’s Historic Buildings Program, undertook a major project to install a new compliant ramp at one of the main entrances to the historic building. In addition, GSA enlarged the entrance doorway and vestibule and installed a new automatic door opener. For more information on this case, click [here](https://www.access-board.gov/news/1950-access-board-aba-case-results-in-improved-access-to-historic-federal-building).
 * **United States Bureau of Reclamation (Bend, Oregon):**The Department of the Interior took corrective action (including some voluntary corrective action) to improve the accessibility of two employee toilet rooms through alterations to door hardware and the placement of dispensers and signage.
