@@ -2,7 +2,7 @@
 title: Webinars
 layout: page
 sidenav: false
-permalink: /webinars/about
+permalink: /webinars/about.html
 ---
 
 ## Accessibility Online

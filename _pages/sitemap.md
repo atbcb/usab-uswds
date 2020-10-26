@@ -13,16 +13,22 @@ Looking for a specific page on our website? See the list of webpages below, or e
   <ul>
   {% for doc in docs %}
       {% if forloop.index == 1 %}
-        <h2>{% if doc.collection-title %}{{ doc.collection-title }}{% else %}[Untitled]{% endif %}</h2>
+        <h2>{% if doc.banner-title %}{{ doc.banner-title }}
+            {% elsif doc.collection-title %}{{ doc.collection-title }}
+            {% else %}[Untitled]
+            {% endif %}</h2>
       {% endif %}
       <li class="margin-left-3 ">
         <a href="{{ doc.url | replace:'/index.html','/' | absolute_url }}">{% if doc.title %}{{doc.title}}{% else %}{{ doc.url | replace:'/index.html','/' | absolute_url }}{% endif %}</a>
         <span class="text-italic">
+        {% comment %}
           (Last modified: 
           {% if doc.last_modified_at or doc.date %}
           {{ doc.last_modified_at | default: doc.date | date: '%D at %R' }}
           {% endif %}
           )
+        {% endcomment %}
+        
         </span>
       </li>    
   {% endfor %}

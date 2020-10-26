@@ -1,7 +1,7 @@
 ---
 layout: base
-title: Upcoming Webinars & Trainings
-permalink: /webinars/
+title: Past Webinars & Trainings
+permalink: /webinars/past.html
 ---
 {% include section-title.html %}
 <div class="grid-container maxw-desktop">
@@ -9,25 +9,26 @@ permalink: /webinars/
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
       <!-- This loops through the paginated posts -->
       {% assign today_date = 'now' | date: '%s' %}
-      {% assign webinars = site.posts | where: "webinar", true | reverse %}
+      {% assign webinars = site.posts | where: "webinar", true %}
       {% for post in webinars %}
       {% assign post_date = post.date | date: '%s' %}
-      {% if post_date > today_date %}
-      <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest"> 
-        <h3 class="title">
+      {% if post_date < today_date %}
+      <div class="padding-bottom-2 margin-top-2 usa-prose border-bottom-05 border-base-lightest clearfix"> 
+        <h4 class="title">
           <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
-        </h3>
-
+        </h4>
+        <div>
+          {% if post.image %}
+          <img src="{{ site.baseurl }}{{ post.image }}"
+          class="img-right maxw-card maxh-card" alt="{{ post.image_alt_text }}">
+          {% endif %} 
+        </div>
         <div class="text-base margin-bottom-2">
           <div class="margin-top-neg-105" style="line-height: 200%;">
             <span class="text-bold">{{ post.date | date: '%B %d, %Y' }}</span>
-            {% if post.webinar-start %}
+            {% if post.archive-link %}
             <br>
-            <span class="text-bold text-italic">{{ post.webinar-start | date: '%I:%M %p' }}{% if post.webinar-end %} - {{ post.webinar-end | date: '%I:%M %p' }}{% endif %}</span>
-            {% endif %}
-            {% if post.registration-link %}
-            <br>
-            <span><a href="{{ post.registration-link }}">Registration Link</a></span>
+            <span><a href="{{ post.archive-link }}">Archive Link</a></span>
             {% endif %}
             {% if post.presenters %}
             <br>
@@ -46,21 +47,10 @@ permalink: /webinars/
              
           </div>
         </div>
-        <div class="clearfix">
-          {% if post.image %}
-          <img src="{{ site.baseurl }}{{ post.image }}"
-          class="img-right maxw-card-lg maxh-card-lg" alt="{{ post.image_alt_text }}">
-          {% endif %} 
-          {{ post.excerpt }}
-              {% comment %} We default to using post.excerpt, but
-              you can also use post.content. If you use excerpt then you have to
-              make sure the content is on each post header {% endcomment %}
-        </div>
+
       </div>
       {% endif %}
       {% endfor %}
-      {% include big-button.html link= "/trainings/about.html" text="Request a Training" %}
-      {% include big-button.html link= "/webinars/past.html" text="List of Past Webinars and Trainings" %}
       {% include back-to-top.html %}
     </div>
     <aside class="desktop:grid-col-fill margin-top-4 padding-right-4">
