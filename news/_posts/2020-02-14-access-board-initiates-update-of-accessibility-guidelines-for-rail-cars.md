@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Access Board Initiates Update of Accessibility Guidelines for Rail Cars
-date: 'February 14, 2020'
+date: '2020-02-14'
 excerpt: >-
   The Access Board is initiating rulemaking to update its accessibility
   guidelines for rail cars covered by the Americans with Disabilities Act (ADA)
@@ -13,11 +13,9 @@ excerpt: >-
   developing a proposed rule.
 image: /images/uploads/rail.jpg
 image_alt_text: Rail Car
-webinar: false
-webinar-start: ''
-webinar-end: ''
-registration-link: ''
-video-link: ''
+tags:
+  - ADA
+featured: false
 ---
 
 
@@ -29,11 +27,11 @@ The advance notice discusses the committee’s report and includes questions pos
 
 Questions raised in the notice address coverage of new and remanufactured vehicles, variable message signs, hearing induction loops, vehicle ramps and lifts, car doors, between-car barriers, handrails and stanchions, wheelchair spaces, and vertical access in bi-level cars. The Board will use the information collected to draft a proposed rule which also will be made available for public comment.
 
-The advance notice, which includes Instructions for submitting comments, is posted at [www.regulations.gov](https://www.regulations.gov/docket?D=ATBCB-2020-0002)(Docket ATBCB-2020-0002). Comments are due July 14, 2020. [Note: The comment period was extended 60 days to July 14, 2020, as indicated in a published[notice](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/advance-notice-of-proposed-rulemaking-2).]
+The advance notice, which includes Instructions for submitting comments, is posted at [www.regulations.gov](https://www.regulations.gov/docket?D=ATBCB-2020-0002) (Docket ATBCB-2020-0002). Comments are due July 14, 2020. [Note: The comment period was extended 60 days to July 14, 2020, as indicated in a published [notice](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/advance-notice-of-proposed-rulemaking-2).]
 
 In addition, the Board will hold a public hearing on March 10 from 2:00 – 4:00 (ET) that will provide an opportunity to submit comments either in person or by phone. Those who wish to provide testimony should contact Rose Marie Bunales at (202) 272-0006 or [](mailto:bunales@access-board.gov.)[bunales@access-board.gov](mailto:bunales@access-board.gov).
 
-For further information, visit the [vehicles page](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles) or contact Juliet Shoultz at (202) 272-0045 or [shoultz@access-board.gov](mailto:shoultz@access-board.gov)for technical questions or Wendy Marshall at (202) 272-0043 or [marshall@access-board.gov](mailto:marshall@access-board.gov)for legal questions.
+For further information, visit the [vehicles page](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles) or contact Juliet Shoultz at (202) 272-0045 or [shoultz@access-board.gov](mailto:shoultz@access-board.gov) for technical questions or Wendy Marshall at (202) 272-0043 or [marshall@access-board.gov](mailto:marshall@access-board.gov) for legal questions.
 
 
 
@@ -43,9 +41,9 @@ March 10, 2020 2:00 – 4:00 (ET)\
 [Hearing Notice](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/hearing-notice)\
 Call-In Option: (888) 396-7314 or International: 1 (773) 756-0935, Participant Code: 6538820\
 Communication access real-time translation: [www.streamtext.net/player?event=USAB](https://www.streamtext.net/player?event=USAB)\
-Contact: Rose Marie Bunales, (202) 272-0006,[bunales@access-board.gov](mailto:bunales@access-board.gov)\
+Contact: Rose Marie Bunales, (202) 272-0006, [bunales@access-board.gov](mailto:bunales@access-board.gov)\
 Access Board Conference Center\
 1331 F Street NW, Suite 800\
 Washington, DC 20004-1111
 
-For the comfort of all participants and to promote a[fragrance-free](https://www.access-board.gov/the-board/policies/fragrance-free-environment) environment, attendees are requested not to use perfume, cologne, or other fragrances.
+For the comfort of all participants and to promote a [fragrance-free](https://www.access-board.gov/the-board/policies/fragrance-free-environment) environment, attendees are requested not to use perfume, cologne, or other fragrances.
