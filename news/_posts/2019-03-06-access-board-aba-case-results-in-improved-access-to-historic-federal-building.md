@@ -7,13 +7,10 @@ excerpt: >-
   Solomon Federal Building and United States Court House in Chattanooga,
   Tennessee in response to a complaint filed with the Board under the
   Architectural Barriers Act (ABA). Completed in 1933, the historic building is
-  a notable example of the Art Moderne style typical of government buildings of
-  the era and is listed on the National Register of Historic Places. It has
-  several distinctive architectural features, including two main entrances at
-  end pavilions that are approached by wide granite staircases. The only
-  accessible way into the building was through a steep ramp at a loading dock
-  that served a locked, unsupervised entrance. Visitors at this entrance had to
-  wait until an employee passed to open the door for them.
+  a notable example of the . . .
+tags:
+  - enforcement
+  - ABA
 featured: false
 ---
 
@@ -28,4 +25,4 @@ The ABA applies to facilities designed, built, or altered with federal money or 
 
 
 
-![Solomon Building]({{ site.baseurl }}images/uploads/solomon-bldg2.jfif "Solomon Building"){:.img-right}
+![Solomon Building]({{ site.baseurl }}/images/uploads/solomon-bldg2.jfif "Solomon Building"){:.img-right}
