@@ -12,11 +12,7 @@ excerpt: >-
   initiatives under the Americans with Disabilities Act (ADA).
 image: /images/uploads/indianpolis.jfif
 image_alt_text: Indianapolis
-webinar: false
-webinar-start: ''
-webinar-end: ''
-registration-link: ''
-video-link: ''
+featured: false
 ---
 
 
@@ -26,7 +22,7 @@ The event will take place in the Pacers Square Room at [Bankers Life Fieldhouse]
 
 
 
-![ADA Standards]({{ site.baseurl }}images/uploads/ada-standards.png "ADA Standads")
+![ADA Standards]({{ site.baseurl }}/images/uploads/ada-standards.png "ADA Standads")
 
 *Remote Attendance Options - Town Hall Meeting Only*\
 Those unable to make it in person can attend remotely by phone or streaming CART. To join by phone, call (888) 396-7314 and enter code 7394831. CART will be available online at [www.streamtext.net/player?event=052119](https://www.streamtext.net/player?event=052119).
@@ -57,6 +53,4 @@ Online Computer Assisted Real-time Transcription:[www.streamtext.net/player?even
 
 
 
-
-
-![Bankers Life Fieldhouse]({{ site.baseurl }}images/uploads/bankerslife.png "Bankers Life Fieldhouse")
+![Bankers Life Fieldhouse]({{ site.baseurl }}/images/uploads/bankerslife.png "Bankers Life Fieldhouse")
