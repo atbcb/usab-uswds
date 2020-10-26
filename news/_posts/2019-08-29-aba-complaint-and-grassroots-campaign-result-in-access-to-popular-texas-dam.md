@@ -18,7 +18,7 @@ In 2017, the Access Board received a complaint about the accessibility of the Ca
 
 The Army Corps of Engineers acknowledged that the pedestrian gates were too narrow for many wheeled mobility devices. They were designed to prevent passage of motorized devices as a security precaution following 9/11. The Corps argued that the service road was not intended as a recreational trail and that public access was permitted as a courtesy to the community. It closed the road to the public and stated that the narrow gates also were intended to prevent wheelchair traffic on the road which lacked barriers or edge protection. The closure sparked a strong outcry from local residents who launched the [Dam Community Alliance](https://mycanyonlake.com/crownover-forms-dam-alliance/) as a grassroots campaign to reopen the road to the public. Led by Comal County Commissioner Jen Crownover and composed largely of private citizens, the Alliance lobbied the Corps to reverse its decision.
 
-![Canyon Dam]({{ site.baseurl }}/images/uploads/canyon-dam1.jpg "Canyon Dam")
+![Canyon Dam]({{ site.baseurl }}{{ site.baseurl }}/images/uploads/canyon-dam1.jpg "Canyon Dam")
 
 The Corps eventually agreed to reopen the service road if the community sponsored safety improvements for pedestrians. In response, local supporters, the Water-Oriented Recreation District of Comal County, and the Guadalupe-Blanco River Authority donated funds to purchase over 2,000 wheel stops that the Corps installed as edge protection along the road. In addition, the Canyon Lake High School Agricultural Mechanics Team volunteered its time and talents to design, build, and install a new pedestrian entry gate that is accessible while maintaining the required level of security. Other organizations also aided this effort, including the Comal Trails Alliance and three local Chambers of Commerce.
 
@@ -28,6 +28,6 @@ Upon completion of the accessibility and safety improvements, the Corps has re-o
 
 The ABA, the first federal law to address accessibility, applies to facilities designed, built, or altered with federal money or leased by federal agencies. Visit the Board’s [Enforcement](https://www.access-board.gov/aba-enforcement) page for further information on the law and how to file a complaint.
 
-![Canyon Dam]({{ site.baseurl }}{{ site.baseurl }}images/uploads/canyon-dam2.jpg "Canyon Dam")
+![Canyon Dam]({{ site.baseurl }}/images/uploads/canyon-dam2.jpg "Canyon Dam")
 
 *(The new pedestrian gate designed and built by Canyon Lake High School’s Agricultural Mechanics Team is accessible and provides the required level of security.)*
