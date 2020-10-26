@@ -6,15 +6,12 @@ excerpt: >-
   The Access Board today released a final rule that updates accessibility
   requirements for information and communication technology (ICT) in the federal
   sector covered by Section 508 of the Rehabilitation Act. The rule also
-  refreshes guidelines for telecommunications equipment subject to Section 255
-  of the Communications Act.
+  refreshes guidelines for telecommunications . . .
 image: /images/508-refresh.jpg
 image_alt_text: 508 / 255 Refresh badge
-webinar: false
-webinar-start: ''
-webinar-end: ''
-registration-link: ''
-video-link: ''
+tags:
+  - '508'
+featured: false
 ---
 The Access Board today released a [final rule]({{ site.baseur }}/ict/preamble/) that updates accessibility requirements for information and communication technology (ICT) in the federal sector covered by Section 508 of the Rehabilitation Act. The rule also refreshes guidelines for telecommunications equipment subject to Section 255 of the Communications Act.
 
@@ -24,7 +21,7 @@ The rule jointly updates and reorganizes the Section 508 standards and Section 2
 
 “Throughout this process,” according to Access Board Executive Director David M. Capozzi, “the Board worked very hard to ensure consistency with other consensus guidelines and international standards to promote global harmonization and facilitate compliance.” He noted that, “ICT requirements that are closely aligned remove ambiguity, increase marketplace competition, and lead to better accessibility features and outcomes.”
 
-The updated requirements specify the technologies covered and provide both performance-based and technical requirements for hardware, software, and support documentation and services. Access is addressed for all types of disabilities, including those pertaining to vision, hearing, color perception, speech, cognition, manual dexterity, and reach. The rule, which will be published later this month in the*Federal Register*, restructures provisions so that they are categorized by functionality instead of by product type due to the increasingly multi-functional capabilities of ICT products. Revisions are also made to improve ICT usability, including interoperability with assistive technologies, and to clarify the types of ICT covered, such as electronic documents.
+The updated requirements specify the technologies covered and provide both performance-based and technical requirements for hardware, software, and support documentation and services. Access is addressed for all types of disabilities, including those pertaining to vision, hearing, color perception, speech, cognition, manual dexterity, and reach. The rule, which will be published later this month in the *Federal Register*, restructures provisions so that they are categorized by functionality instead of by product type due to the increasingly multi-functional capabilities of ICT products. Revisions are also made to improve ICT usability, including interoperability with assistive technologies, and to clarify the types of ICT covered, such as electronic documents.
 
 The Board released a proposed version of the rule for public comment in February 2015 and, before that, earlier drafts of the rule. The rule is based on recommendations from an advisory panel the Board chartered, the Telecommunications and Electronic and Information Technology Advisory Committee which included representatives from industry, disability groups, government agencies, foreign countries, and other stakeholders.
 
