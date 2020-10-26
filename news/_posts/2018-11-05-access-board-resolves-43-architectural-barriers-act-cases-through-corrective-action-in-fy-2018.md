@@ -7,13 +7,16 @@ date: 'November 5, 2018'
 excerpt: >-
   ABA Cases Resolved Through Corrective Action (October 1, 2017 to September 30,
   2018)
+tags:
+  - ABA
+  - enforcement
 featured: false
 ---
-The Access Board was created in part to enforce the first federal law to address accessibility, the \[Architectural Barriers Act (ABA) of 1968]({{ site.baseurl }}/aba/). This law requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board also maintains the guidelines upon which the ABA Standards are based.
+The Access Board was created in part to enforce the first federal law to address accessibility, the [Architectural Barriers Act (ABA) of 1968]({{ site.baseurl }}/aba/). This law requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board also maintains the guidelines upon which the ABA Standards are based.
 
 With passage of other laws, including the landmark Americans with Disabilities Act (ADA), the Board's mission has expanded significantly. It is now responsible for developing and keeping up to date accessibility requirements for the wide array of facilities covered by the ADA, as well as for transportation vehicles and systems. It also issues standards for information and communication technology and for medical diagnostic equipment.
 
-Despite these other duties, the Board continues the important work of enforcing the ABA. We do this through the investigation of complaints from the public. Filing a complaint with the Board is easy to do and can be done through an \[online form]({{ site.baseurl }}/enforcement/file-a-complaint/). Complaints should include the name and address of the facility and a brief description of the access barriers or issues. Complaints can be filed anonymously.
+Despite these other duties, the Board continues the important work of enforcing the ABA. We do this through the investigation of complaints from the public. Filing a complaint with the Board is easy to do and can be done through an [online form]({{ site.baseurl }}/enforcement/file-a-complaint/). Complaints should include the name and address of the facility and a brief description of the access barriers or issues. Complaints can be filed anonymously.
 
 The first step of an investigation is to determine whether the facility at issue is covered by the ABA. If so, the next step is to determine whether the facility meets the applicable accessibility standard. If the facility is not subject to the ABA or if it meets the appropriate accessibility standard, the Board will advise the complainant of its findings. Some facilities are not covered by the ABA but by other laws such as the ADA, which is enforced by other agencies and the courts.
 
@@ -24,7 +27,7 @@ If the facility does not meet the applicable standard, the Board will work with 
 
 *U.S. Postal Facilities*
 
-![US Mail logo]({{ site.baseurl }}/images/uploads/usmail.JPG "US Mail logo"){: .img-right}
+![US Mail logo]({{ site.baseurl }}/images/uploads/usmail.JPG "US Mail logo"){:.img-right}
 
 * **U.S. Post Office (Charleston, West Virginia)**: The Postal Service installed a required van accessible customer parking space.
 * **U.S. Post Office (Urbana, Illinois)**: The Postal Service repaired a broken platform lift at the accessible customer entrance.
