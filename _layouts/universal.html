@@ -35,9 +35,9 @@ toc-group:
         <div id="content" class="usa-prose margin-3 padding-3 bg-white border anchored">
           {% if page.file %}
           <div class="clearfix">
-              <span class="float-right">{{ page.file-description }}
-              <a href="{{ site.baseurl }}{{ page.file }}" target="_blank" rel="noreferrer">
-              <button class="usa-button">Download</button>
+              <span class="float-right">
+              <a href="{{ site.baseurl }}/files{{ page.file }}" target="_blank" rel="noreferrer">
+              <button title="{{ page.file-description }}" class="usa-button">PDF</button>
               </a>
               </span>
           </div>
