@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Access Board Initiates Update of Accessibility Guidelines for Rail Cars
-date: 'February 14, 2020'
+date: '2020-02-14'
 excerpt: >-
   The Access Board is initiating rulemaking to update its accessibility
   guidelines for rail cars covered by the Americans with Disabilities Act (ADA)
