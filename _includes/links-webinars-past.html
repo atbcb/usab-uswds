@@ -4,7 +4,7 @@
       {% assign webinars = site.posts | where: "webinar", true %}      
       {% assign today_date = 'now' | date: '%s' %}
       {% for webinar in webinars limit:10 %}
-        {% assign webinar_date = webinar.webinar-start | date: '%s' %}
+        {% assign webinar_date = webinar.date | date: '%s' %}
         {% if webinar_date < today_date %}
         <li class="padding-bottom-1">
           <a class="usa-link" href="{{site.baseurl}}{{webinar.url}}">{{ webinar.title }}</a>
