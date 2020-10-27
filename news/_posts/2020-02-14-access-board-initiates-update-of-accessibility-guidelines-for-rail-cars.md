@@ -46,4 +46,4 @@ Access Board Conference Center\
 1331 F Street NW, Suite 800\
 Washington, DC 20004-1111
 
-For the comfort of all participants and to promote a [fragrance-free](https://www.access-board.gov/the-board/policies/fragrance-free-environment) environment, attendees are requested not to use perfume, cologne, or other fragrances.
+For the comfort of all participants and to promote a [fragrance-free]({{ site.baseurl }}/about/policy/ffe.html) environment, attendees are requested not to use perfume, cologne, or other fragrances.
