@@ -12,6 +12,7 @@ excerpt: >-
   sources of confusion and frequently asked questions about these provisions.
 presenters:
   - dave-yanchulis
+  - josh-schorr
 tags:
   - ADA
   - ABA
