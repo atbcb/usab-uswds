@@ -18,9 +18,9 @@ Desktop and Portable Computers (1194.26)
 ***What products are covered under this provision?***\
 These provisions cover the keyboards, keypads, and other controls on desktop and laptop computers that need to be activated during the normal operation of the system. Examples of controls that are not located on a keyboard but are still covered include but are not limited to, on/off switches, reset buttons, unlocking controls for docking stations, and releases on items such as PCMCIA card slots and drives.
 
- ![close-up of 'J' key and surrounding keys of keyboard](./images/keyboard.jpg)
-
 ***What is meant by "tactilely discernible"?*** Individual keys must be identifiable and distinguishable from adjacent keys by touch. A product can meet this provision by using various shapes, spacing, or tactile markings. The typical desktop computer keyboard, for example, would meet this provision because the tactile marks on the "j" and "f" keys permit a user to locate all other keys tactilely. In addition, the physical spacing of the function, "numpad" and cursor keys make them easy to locate by touch.
+
+![close-up of 'J' key and surrounding keys of keyboard](./images/keyboard.jpg)
 
 Because touch is necessary to discern tactile features, this provision requires keyboards to enable touch that does not automatically activate a function based on mere contact. Fortunately, most keyboards require some pressure on individual keys in order to enable a keystroke.
 
