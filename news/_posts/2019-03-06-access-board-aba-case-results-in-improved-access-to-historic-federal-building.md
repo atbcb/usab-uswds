@@ -21,7 +21,7 @@ The General Services Administration (GSA) has improved access to the Joel W. Sol
 
 In response to the complaint, GSA’s Public Buildings Service, in consultation with GSA’s Historic Buildings Program, undertook a project to improve access to the building. The work, which was recently completed, features a new compliant ramp at one of the main entrances. In addition, the entrance doorway and vestibule were enlarged and an automatic door opener installed. The result is a good example of how accessibility improvements can be integrated into a historic structure’s existing architecture.
 
-The ABA applies to facilities designed, built, or altered with federal money or leased by federal agencies and requires compliance with accessibility standards. While facilities that predate the law are generally not covered, the ABA does apply to any alterations and leasing actions made after it took effect. For further information on filing a complaint under the ABA, visit the [enforcement](https://www.access-board.gov/aba-enforcement) page.
+The ABA applies to facilities designed, built, or altered with federal money or leased by federal agencies and requires compliance with accessibility standards. While facilities that predate the law are generally not covered, the ABA does apply to any alterations and leasing actions made after it took effect. For further information on filing a complaint under the ABA, visit the [enforcement page]({{ site.baseurl }}/enforcement/).
 
 
 

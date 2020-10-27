@@ -39,15 +39,16 @@ Questions about the study can be directed to Mario Damiani of the Access Board a
 
 *Inaugural Meeting of the Committee*
 
-February 5 & 6, 2020\
-Open Sessions:\
-• February 5, 10:15 – 12:15 (ET) [registration link](https://register.gotowebinar.com/register/4086741088536326913)\
-• February 5, 1:15 – 5:00 (ET) [registration link](https://register.gotowebinar.com/register/2729926147674705153)\
+February 5 & 6, 2020
+Open Sessions:
+* February 5, 10:15 – 12:15 (ET) [registration link](https://register.gotowebinar.com/register/4086741088536326913)
+* February 5, 1:15 – 5:00 (ET) [registration link](https://register.gotowebinar.com/register/2729926147674705153)
+
 Access Board Conference Center\
 1331 F Street, NW, Suite 800\
 Washington, D.C.\
 Contact: Anusha Jayasinghe of TRB, [AJayasinghe@nas.edu](mailto:AJayasinghe@nas.edu), (202) 334-2401\
-Note: For the comfort of all participants and to promote a [fragrance-free](https://www.access-board.gov/the-board/policies/fragrance-free-environment) environment, attendees are requested not to use perfume, cologne, or other fragrances.
+Note: For the comfort of all participants and to promote a [fragrance-free]({{ site.baseurl }}/about/policy/ffe.html) environment, attendees are requested not to use perfume, cologne, or other fragrances.
 
 **Related Release**
 
