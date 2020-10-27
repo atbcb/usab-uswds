@@ -39,10 +39,10 @@ Questions about the study can be directed to Mario Damiani of the Access Board a
 
 *Inaugural Meeting of the Committee*
 
-February 5 & 6, 2020\
-Open Sessions:\
-* February 5, 10:15 – 12:15 (ET) [registration link](https://register.gotowebinar.com/register/4086741088536326913)\
-* February 5, 1:15 – 5:00 (ET) [registration link](https://register.gotowebinar.com/register/2729926147674705153)\
+February 5 & 6, 2020
+Open Sessions:
+* February 5, 10:15 – 12:15 (ET) [registration link](https://register.gotowebinar.com/register/4086741088536326913)
+* February 5, 1:15 – 5:00 (ET) [registration link](https://register.gotowebinar.com/register/2729926147674705153)
 
 Access Board Conference Center\
 1331 F Street, NW, Suite 800\
