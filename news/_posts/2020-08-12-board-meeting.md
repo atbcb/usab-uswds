@@ -5,7 +5,7 @@ date: '2020-08-12'
 excerpt: >-
   All are welcome to attend the next bimonthly meeting of the U.S. Access Board,
   which will be open to the public and take place virtually on September 16 from
-  1:00 to 3:00 (ET).  The agenda . . .
+  1:00 to 3:00 (ET). The agenda includes brief reports from . . .
 image: ''
 authors:
   - dave-yanchulis
@@ -31,9 +31,8 @@ Call-in Option: (669) 254-5252 or (646) 828-7666; meeting ID: 160 294 7733
 
 * Welcome
 * Official Business (including Approval of Minutes, Committee Reports, and Interim Executive Director Reports) 
-* New Business 
+* New Business
 * NIDILRR Presentation: Program Overview, Funding Mechanisms, and Innovative Grantee Projects on Accessibility and Technology  
-
   * Dr. Phil Beatty and Dr. Sarah Ruiz, NIDILRR Office of Research Sciences
   * Dr. Jordana Maisel, University at Buffalo, RERC on Physical Access and Transportation, and RERC on Universal Design and the Built Environment
   * Dr. Janice C. Light, Pennsylvania State University, RERC on Augmentative and Alternative Communication 
