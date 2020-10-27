@@ -37,16 +37,16 @@ For further information, contact Dave Yanchulis at [yanchulis@access-board.gov](
 Pacers Square at Bankers Life Fieldhouse\
 125 S. Pennsylvania Street, Indianapolis, IN
 
-*Training Session on the ADA Accessibility Standards (free)*\
-• 8:00 – 9:00 Registration & Welcome\
-• 9:00 – 10:30 Application of the Standards & Common Sources of Confusion (1.5 AIA Credit)\
-• 10:30 – 10:45 Break\
-• 10:45 – 12:15 Recreation Facilities & Outdoor Sites (1.5 AIA Credit)
+*Training Session on the ADA Accessibility Standards (free)*
+* 8:00 – 9:00 Registration & Welcome
+* 9:00 – 10:30 Application of the Standards & Common Sources of Confusion (1.5 AIA Credit)
+* 10:30 – 10:45 Break
+* 10:45 – 12:15 Recreation Facilities & Outdoor Sites (1.5 AIA Credit)
 
-*Town Hall Meeting*\
-• 2:00 – 2:15 Opening Remarks\
-• 2:15 – 3:30 Panel Discussions\
-• 3:30 – 4:30 Overview of the Access Board & Open Forum
+*Town Hall Meeting*
+* 2:00 – 2:15 Opening Remarks
+* 2:15 – 3:30 Panel Discussions
+* 3:30 – 4:30 Overview of the Access Board & Open Forum
 
 *Remote Options for the Town Hall Meeting:*\
 Call-in option: (888) 396-7314, passcode: 7394831\
