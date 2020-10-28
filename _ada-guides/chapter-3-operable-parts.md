@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: Operable Parts"
 order-number: 6
-file: operable-parts.pdf
+file: /files/ada/guides/operable-parts.pdf
 file-description: PDF version of Chapter 3 Operable Parts Guide
 ---
 This guide explains requirements in the [ADA

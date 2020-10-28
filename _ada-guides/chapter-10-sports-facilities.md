@@ -1,7 +1,7 @@
 ---
 title: "Chapter 10: Sports Facilities"
 order-number: 1010
-file: sports.pdf
+file: /files/ada/guides/sports.pdf
 file-description: PDF version of Accessible Sports Facilities
 ---
 <div class="clearfix" markdown="1">

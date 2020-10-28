@@ -1,7 +1,7 @@
 ---
 title: "Chapter 4: Ramps and Curb Ramps"
 order-number: 10
-file: ramps.pdf
+file: /files/ada/guides/ramps.pdf
 file-description: PDF version of Chapter 4 Ramps and Curb Ramps Guide
 ---
 This guide explains requirements in the [ADA

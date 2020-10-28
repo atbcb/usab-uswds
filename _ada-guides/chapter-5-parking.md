@@ -1,7 +1,7 @@
 ---
 title: "Chapter 5 Parking Spaces"
 order-number: 13
-file: parking.pdf
+file: /files/ada/guides/parking.pdf
 file-description: PDF version of Chapter 5 Parking Spaces Guide
 ---
 This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for parking. 

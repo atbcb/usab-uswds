@@ -1,7 +1,7 @@
 ---
 title: "Chapter 4: Elevators and Platform Lifts"
 order-number: 11
-file: elevators.pdf
+file: /files/ada/guides/elevators.pdf
 file-description: PDF version of Chapter 4 Elevators and Platform Lifts Guide
 ---
 This guide explains criteria for elevators and platform lifts in

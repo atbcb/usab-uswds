@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: Clear Floor or Ground Space and Turning Space"
 order-number: 5
-file: clear-floor-space.pdf
+file: /files/ada/guides/clear-floor-space.pdf
 file-description: PDF version of Chapter 3 Clear Floor Space Guide
 ---
 This guide explains requirements in the [ADA

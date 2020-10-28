@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: Protruding objects"
 order-number: 7
-file: protruding-objects.pdf
+file: /files/ada/guides/protruding-objects.pdf
 file-description: PDF version of Chapter 3 Protruding Objects Guide
 ---
 This guide explains requirements in the [ADA

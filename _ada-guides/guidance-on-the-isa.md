@@ -1,7 +1,7 @@
 ---
 title: "Guidance on the International Symbol of Accessibility"
 order-number:  100
-file: ISA-guidance.pdf
+file: /files/ada/guides/ISA-guidance.pdf
 file-description: PDF version of ISA Guidance
 ---
 **March 27, 2017**

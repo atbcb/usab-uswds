@@ -1,7 +1,7 @@
 ---
 title: "Chapter 4: Entrances, Doors, and Gates"
 order-number: 9
-file: entrances.pdf
+file: /files/ada/guides/entrances.pdf
 file-description: PDF version of Chapter 4 Entrances Doors and Gates Guide
 ---
 This guide explains scoping and technical requirements for accessible

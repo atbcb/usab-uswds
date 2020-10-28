@@ -1,7 +1,7 @@
 ---
 title: "Chapter 10: Fishing Piers and Platforms"
 order-number: 1005
-file: fishing.pdf
+file: /files/ada/guides/fishing.pdf
 file-description: PDF version of Accessible Fishing Piers and Platforms
 ---
 

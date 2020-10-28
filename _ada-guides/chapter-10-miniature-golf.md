@@ -1,7 +1,7 @@
 ---
 title: "Chapter 10: Miniature Golf Facilities"
 order-number: 1007
-file: minigolf.pdf
+file: /files/ada/guides/minigolf.pdf
 file-description: PDF version of Accessible Miniature Golf
 ---
 <div class="clearfix" markdown="1">
