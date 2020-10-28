@@ -176,6 +176,8 @@ collections:
     output: false
   contacts-504:
     output: false
+  redirect-tos:
+    output: true
 
 permalink: pretty
 
