@@ -5,7 +5,7 @@ sidenav: false
 permalink: /ict/guide/computer.html
 ---
 
-# { page.title }
+# {{ page.title }}
 
 Updated: August 1, 2001
 
