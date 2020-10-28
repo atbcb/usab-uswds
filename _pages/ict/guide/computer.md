@@ -2,7 +2,7 @@
 title: Desktop and Portable Computers (1194.26)
 layout: page
 sidenav: false
-permalink: /ict/notice-corrections.html
+permalink: /ict/guide/computer.html
 ---
 
 # { page.title }
