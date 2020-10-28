@@ -1,7 +1,13 @@
-Desktop and Portable Computers (1194.26)
-----------------------------------------
+---
+title: Desktop and Portable Computers (1194.26)
+layout: page
+sidenav: false
+permalink: /ict/notice-corrections.html
+---
 
- Updated: August 1, 2001
+# { page.title }
+
+Updated: August 1, 2001
 
 **Desktop and portable computers (1194.26)**
 
