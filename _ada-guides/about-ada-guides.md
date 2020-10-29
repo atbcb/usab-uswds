@@ -2,8 +2,8 @@
 title: "About the ADA Guides"
 order-number: 0
 permalink: /ada/guides/
-file: ADA-Standards-Guide_Chapters1-5.pdf
-file-description: Single file PDF version of the ADA Guides
+file: /files/ada/guides/ADA-Standards-Guide_Chapters1-5.pdf
+file-description: Single file PDF version of the ADA Guides Ch 1-5
 ---
 
 This guide explains requirements in the current editions of the [ADA

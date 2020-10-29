@@ -1,7 +1,7 @@
 ---
 title: "Chapter 3: Floor and Ground Surfaces"
 order-number: 4
-file: surfaces.pdf
+file: /files/ada/guides/surfaces.pdf
 file-description: PDF version of Chapter 3 Floor and Ground Surfaces Guide
 ---
 This guide explains requirements in the [ADA

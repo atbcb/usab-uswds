@@ -1,7 +1,7 @@
 ---
 title: "Chapter 2: Alterations and Additions"
 order-number: 3
-file: alterations.pdf
+file: /files/ada/guides/alterations.pdf
 file-description: PDF version of Chapter 2 Alterations Guide
 ---
 

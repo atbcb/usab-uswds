@@ -1,7 +1,7 @@
 ---
 title: "Chapter 10: Play Areas"
 order-number: 1008
-file: play-areas.pdf
+file: /files/ada/guides/play-areas.pdf
 file-description: PDF version of Chapter 10 Play Areas Guide
 ---
 

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 6: Toilet Rooms"
 order-number: 17
-file: toilet-rooms.pdf
+file: /files/ada/guides/toilet-rooms.pdf
 file-description: PDF version of Chapter 6 Toilet Rooms Guide
 ---
 

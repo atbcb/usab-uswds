@@ -27,9 +27,9 @@ The advance notice discusses the committee’s report and includes questions pos
 
 Questions raised in the notice address coverage of new and remanufactured vehicles, variable message signs, hearing induction loops, vehicle ramps and lifts, car doors, between-car barriers, handrails and stanchions, wheelchair spaces, and vertical access in bi-level cars. The Board will use the information collected to draft a proposed rule which also will be made available for public comment.
 
-The advance notice, which includes Instructions for submitting comments, is posted at [www.regulations.gov](https://www.regulations.gov/docket?D=ATBCB-2020-0002) (Docket ATBCB-2020-0002). Comments are due July 14, 2020. [Note: The comment period was extended 60 days to July 14, 2020, as indicated in a published [notice]({{ site.baseurl }}/ada/vehicles/update/rail-cars/).]
+The advance notice, which includes Instructions for submitting comments, is posted at [www.regulations.gov](https://www.regulations.gov/docket?D=ATBCB-2020-0002) (Docket ATBCB-2020-0002). Comments are due July 14, 2020. [Note: The comment period was extended 60 days to July 14, 2020, as indicated in a published [notice](https://www.regulations.gov/document?D=ATBCB-2020-0002-0008/).]
 
-In addition, the Board will hold a public hearing on March 10 from 2:00 – 4:00 (ET) that will provide an opportunity to submit comments either in person or by phone. Those who wish to provide testimony should contact Rose Marie Bunales at (202) 272-0006 or [](mailto:bunales@access-board.gov.)[bunales@access-board.gov](mailto:bunales@access-board.gov).
+In addition, the Board will hold a public hearing on March 10 from 2:00 – 4:00 (ET) that will provide an opportunity to submit comments either in person or by phone. Those who wish to provide testimony should contact Rose Marie Bunales at (202) 272-0006 or [bunales@access-board.gov](mailto:bunales@access-board.gov).
 
 For further information, visit the [vehicles page]({{ site.baseurl }}/ada/vehicles/) or contact Juliet Shoultz at (202) 272-0045 or [shoultz@access-board.gov](mailto:shoultz@access-board.gov) for technical questions or Wendy Marshall at (202) 272-0043 or [marshall@access-board.gov](mailto:marshall@access-board.gov) for legal questions.
 
@@ -38,7 +38,7 @@ For further information, visit the [vehicles page]({{ site.baseurl }}/ada/vehicl
 ***Public Hearing on the ANPRM***
 
 March 10, 2020 2:00 – 4:00 (ET)\
-[Hearing Notice](https://www.access-board.gov/guidelines-and-standards/transportation/vehicles/update-of-the-guidelines-for-transportation-vehicles/hearing-notice)\
+[Hearing Notice](https://www.regulations.gov/document?D=ATBCB-2020-0002-0008)\
 Call-In Option: (888) 396-7314 or International: 1 (773) 756-0935, Participant Code: 6538820\
 Communication access real-time translation: [www.streamtext.net/player?event=USAB](https://www.streamtext.net/player?event=USAB)\
 Contact: Rose Marie Bunales, (202) 272-0006, [bunales@access-board.gov](mailto:bunales@access-board.gov)\

@@ -1,7 +1,7 @@
 ---
 title: "Chapter 6: Bathing Rooms"
 order-number: 18
-file:  bathrooms.pdf
+file:  /files/ada/guides/bathrooms.pdf
 file-description: PDF version of Chapter 6 Bathing Rooms Guide
 ---
 

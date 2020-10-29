@@ -1,7 +1,7 @@
 ---
 title: "Chapter 5: Stairways"
 order-number: 15
-file: stairs.pdf
+file: /files/ada/guides/stairs.pdf
 file-description: PDF version of Chapter 5 Stairways Guide
 ---
 This guide explains requirements in the [ADA

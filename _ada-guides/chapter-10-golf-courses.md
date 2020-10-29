@@ -1,7 +1,7 @@
 ---
 title: "Chapter 10: Golf Courses"
 order-number: 1006
-file: golf.pdf
+file: /files/ada/guides/golf.pdf
 file-description: PDF version of Accessible Golf Course
 ---
 <div class="clearfix" markdown="1">

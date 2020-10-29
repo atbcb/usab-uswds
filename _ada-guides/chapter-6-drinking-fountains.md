@@ -1,7 +1,7 @@
 ---
 title: "Chapter 6: Drinking Fountains"
 order-number: 16
-file: drinking-fountains.pdf
+file: /files/ada/guides/drinking-fountains.pdf
 file-description: PDF version of Chapter 6 Drinking Fountains Guide
 ---
 

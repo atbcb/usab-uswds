@@ -1,7 +1,7 @@
 ---
 title: "Chapter 10: Swimming Pools, Wading Pools, and Spas"
 order-number: 1009
-file: pools.pdf
+file: /files/ada/guides/pools.pdf
 file-description: PDF version of Accessible Swimming Pools and Spas
 ---
 <div class="clearfix" markdown="1">
