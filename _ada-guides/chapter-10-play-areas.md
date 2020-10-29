@@ -3,6 +3,8 @@ title: "Chapter 10: Play Areas"
 order-number: 1008
 file: /files/ada/guides/play-areas.pdf
 file-description: PDF version of Chapter 10 Play Areas Guide
+redirect_from: 
+    - /guidelines-and-standards/recreation-facilities/guides/play-areas
 ---
 
 #### A Summary of Accessibility Guidelines for Play Areas

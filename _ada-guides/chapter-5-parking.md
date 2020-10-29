@@ -3,6 +3,8 @@ title: "Chapter 5 Parking Spaces"
 order-number: 13
 file: /files/ada/guides/parking.pdf
 file-description: PDF version of Chapter 5 Parking Spaces Guide
+redirect_from: 
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-5-parking
 ---
 This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for parking. 
 

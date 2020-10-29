@@ -3,6 +3,8 @@ title: "Chapter 4: Accessible Routes"
 order-number: 8
 file: /files/ada/guides/accessible-routes.pdf
 file-description: PDF version of Chapter 4 Accessible Routes Guide
+redirect_from: 
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-4-accessible-routes
 ---
 This guide explains scoping and technical requirements for accessible
 routes in the [ADA Standards]({{ site.baseurl }}/ada/).

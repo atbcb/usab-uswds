@@ -3,6 +3,8 @@ title: "Chapter 10: Play Surfaces"
 order-number: 1008.1
 file: /files/ada/guides/play-surfaces.pdf
 file-description: PDF version of Surfacing the Accesible Playground
+redirect_from: 
+    - /guidelines-and-standards/recreation-facilities/guides/surfacing-the-accessible-playground
 ---
 ### Surfacing the Accessible Playground: 7 Things Every Playground Owner Should Know About the Accessibility of Their Playground Surfaces
 
