@@ -3,6 +3,8 @@ title: "Chapter 2: Alterations and Additions"
 order-number: 3
 file: /files/ada/guides/alterations.pdf
 file-description: PDF version of Chapter 2 Alterations Guide
+redirect_from: 
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-2-alterations-and-additions
 ---
 
 This guide provides an introduction to the scoping requirements that form the basis for the Department of Justice's [2010 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) and the Department of Transportation\'s ADA

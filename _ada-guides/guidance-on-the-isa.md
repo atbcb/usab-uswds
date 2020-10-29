@@ -3,6 +3,8 @@ title: "Guidance on the International Symbol of Accessibility"
 order-number:  100
 file: /files/ada/guides/ISA-guidance.pdf
 file-description: PDF version of ISA Guidance
+redirect_from: 
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/guidance-on-the-isa
 ---
 **March 27, 2017**
 
