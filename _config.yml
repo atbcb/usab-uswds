@@ -195,7 +195,7 @@ defaults:
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/guides/
       s-url-text: "Go to the ADA Guides"
-      s-image: /images/stock/keyboard-isa.jpg
+      s-image: /images/stock/guide.svg
       ta-text: "Contact the Access Board for guidance on these standards:"
       ta-email-pre: ta
   - scope:
@@ -211,7 +211,7 @@ defaults:
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/
       s-url-text: "Go to the ADA Standards"
-      s-image: /images/stock/keyboard-isa.jpg
+      s-image: /images/stock/guide.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
 
@@ -228,7 +228,7 @@ defaults:
       right-sidenav: sidenav-right-universal.html
       s-url: /aba/guides/
       s-url-text: "Go to the ABA Guides"
-      s-image: /images/stock/keyboard-isa.jpg
+      s-image: /images/stock/guide.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
   - scope:
@@ -244,7 +244,7 @@ defaults:
       right-sidenav: sidenav-right-universal.html
       s-url: /aba/
       s-url-text: "Go to the ABA Standards"
-      s-image: /images/stock/keyboard-isa.jpg
+      s-image: /images/stock/Guide-preview.png
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
   - scope:
@@ -283,20 +283,32 @@ defaults:
     values:
       collection-title: "ADA Accessibility Guidelines for Vehicles"
       collection-folder: ada-vehicles
-      layout: standards
-      file-directory: /files/vehicles/
+      layout: universal
+      toc: toc-auto.html
+      file: /files/vehicles/vehicle-guidelines.pdf
       image-directory: /images/vehicles/
-      right-sidenav: sidenav-vehicles.html
+      right-sidenav: sidenav-right-universal.html
+      s-url: /ada/vehicles/guides/
+      s-url-text: "Go to the ADA Vehicles Guides"
+      s-image: /images/stock/Guide-preview.png
+      ta-text: Contact the Access Board for assistance on these guidelines
+      ta-email-pre: ta
   - scope:
       path: ""
       type: "ada-vehicles-guides"
     values:
       collection-title: "Guide to ADA Vehicles"
       collection-folder: ada-vehicles-guides
-      layout: standards
-      file-directory: /files/vehicles/
+      layout: universal
+      toc: toc-auto.html
+      toc-group: ada-vehicles-guides
       image-directory: /images/vehicles/
-      right-sidenav: sidenav-vehicles.html
+      right-sidenav: sidenav-right-universal.html
+      s-url: /ada/vehicles/
+      s-url-text: "Go to ADA Vehicles"
+      s-image: /images/stock/Guide-preview.png
+      ta-text: Contact the Access Board for assistance on these guidelines
+      ta-email-pre: ta
   - scope:
       path: ""
       type: "ict"
