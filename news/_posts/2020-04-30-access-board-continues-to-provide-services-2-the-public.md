@@ -6,7 +6,7 @@ excerpt: >-
   Like most of the federal workforce, Board staff have been teleworking since
   mid-March due to the coronavirus pandemic. However, the agency continues to
   provide its services to the public . . .
-image: /images/uploads/board-services.png
+image: ''
 image_alt_text: 'icons for technical assistance, webinars, and casework'
 authors:
   - david-capozzi
