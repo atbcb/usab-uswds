@@ -3,8 +3,7 @@ layout: post
 title: Access Board Cancels Town Hall Meeting and Trainings in Philadelphia
 date: 'March 17, 2020'
 excerpt: >-
-  The Access Board has cancelled its town hall meeting and trainings in
-  Philadelphia on May 6 to protect public health and help prevent . . .
+  The Access Board has cancelled its town hall meeting and trainings in Philadelphia on May 6 to protect public health and help prevent further spread of . . .
 tags:
   - training
 featured: false
