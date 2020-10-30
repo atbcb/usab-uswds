@@ -3,6 +3,8 @@ title: "Chapter 5: Stairways"
 order-number: 15
 file: /files/ada/guides/stairs.pdf
 file-description: PDF version of Chapter 5 Stairways Guide
+redirect_from: 
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-5-stairways
 ---
 This guide explains requirements in the [ADA
 Standards]({{ site.baseurl }}/ada/) for stairways. 

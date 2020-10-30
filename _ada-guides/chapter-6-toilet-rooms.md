@@ -3,6 +3,8 @@ title: "Chapter 6: Toilet Rooms"
 order-number: 17
 file: /files/ada/guides/toilet-rooms.pdf
 file-description: PDF version of Chapter 6 Toilet Rooms Guide
+redirect_from: 
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-6-toilet-rooms
 ---
 
 This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for
