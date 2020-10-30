@@ -27,7 +27,7 @@ If the facility does not meet the applicable standard, the Board will work with 
 
 *U.S. Postal Facilities*
 
-![US Mail logo]({{ site.baseurl }}/images/uploads/usmail.jfif "US Mail logo")
+![US Mail logo]({{ site.baseurl }}/images/uploads/usmail.jfif "US Mail logo"){: .img-right}
 
 * **U.S. Post Office (Charleston, West Virginia)**: The Postal Service installed a required van accessible customer parking space.
 * **U.S. Post Office (Urbana, Illinois)**: The Postal Service repaired a broken platform lift at the accessible customer entrance.
@@ -62,7 +62,7 @@ If the facility does not meet the applicable standard, the Board will work with 
 
 *Military and Veterans Affairs Facilities*
 
-![Military symbol]({{ site.baseurl }}/images/uploads/military.jfif "Military symbol")
+![Military symbol]({{ site.baseurl }}/images/uploads/military.jfif "Military symbol"){: .img-right}
 
 * **Gulf Coast Veterans Healthcare System (Biloxi, Mississippi)**: The Department of Veterans Affairs installed additional required accessible parking spaces and altered other accessible parking spaces to bring them into compliance with the applicable Federal accessibility standards.
 * **Keesler Air Force Base (Biloxi, Mississippi)**: The Department of the Air Force took voluntary corrective action to install automatic door openers at the customer entrance of the Exchange Express (Building 1510) at the Base.
@@ -71,21 +71,21 @@ If the facility does not meet the applicable standard, the Board will work with 
 
 *Parks and Historic Sites*
 
-![parks symbol]({{ site.baseurl }}/images/uploads/parks.jfif "parks symbol")
+![parks symbol]({{ site.baseurl }}/images/uploads/parks.jfif "parks symbol"){: .img-right}
 
 * **Herbert Hoover Presidential Library and Museum (West Branch, Iowa)**: The National Archives and Records Administration took voluntary corrective action to install automatic door openers on one of the customer entrance doors as well as the men's and women's toilet room doors.
 * **Campgrounds at or near Clearwater Lake (Piedmont, Missouri)**: The U.S. Army Corps of Engineers installed a required van accessible parking space at campsite A6 in Piedmont Park and took corrective action to provide access to the electrical pedestals at campsites 36 and 37 in Webb Creek Park.
 
 *Internal Revenue Service*
 
-![IRS logo]({{ site.baseurl }}/images/uploads/irs.jpg "IRS logo")
+![IRS logo]({{ site.baseurl }}/images/uploads/irs.jpg "IRS logo"){: .img-right}
 
 * **Internal Revenue Service (Frederick, Maryland)**: The General Service Administration and the Internal Revenue Service took corrective action to bring the accessible parking spaces into compliance and made repairs to the ramp leading from the parking spaces to the accessible customer entrance.
 * **Internal Revenue Service (Tulsa, Oklahoma)**: The General Services Administration and Internal Revenue Service took corrective action to bring the ramp connecting the lower-level parking lot to the accessible customer entrance into compliance.
 
 *Other Facilities*
 
-![federal government symbol]({{ site.baseurl }}/images/uploads/federal.jfif "federal government symbol")
+![federal government symbol]({{ site.baseurl }}/images/uploads/federal.jfif "federal government symbol"){: .img-right}
 
 * **Federal Correctional Institution (Tallahassee, Florida)**: The Bureau of Prisons of the Department of Justice replaced a non-functioning platform lift used by visitors and employees.
 * **Drug Enforcement Administration (Tucson, Arizona)**: The Drug Enforcement Administration installed required accessible parking spaces in different parking lots at the facility.
