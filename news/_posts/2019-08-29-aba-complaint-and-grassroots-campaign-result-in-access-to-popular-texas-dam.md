@@ -8,8 +8,8 @@ excerpt: >-
   Guadalupe River, Canyon lake and surrounding parkland is a favorite site for
   swimming, boating, fishing, as well as camping and hiking. A prized feature is
   a service road atop the dam that is also enjoyed by many in the area as a
-  scenic walkway. The Board opened an investigation with the U.S. Army Corps of
-  Engineers and found . . .
+  scenic walkway. The Board opened an investigation with . . .
+image: /images/uploads/canyon-dam1.jpg
 tags:
   - enforcement
   - ABA
