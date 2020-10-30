@@ -36,6 +36,8 @@ h5, h6 { // default was xs and 2xs
   @include u-margin-y(1)
 }
 
+
+
 // Add your SASS/CSS here
 
 // stylish faux 'page-breaks'
@@ -384,7 +386,7 @@ figcaption {
 .card-header {
   @extend .usa-card__header;
   text-align: center;
-  @include u-bg('secondary-vivid');
+  @include u-bg('secondary-darker');
   @include u-text('white');
   padding: 1rem;
 }
