@@ -5,9 +5,7 @@ title: >-
   Action in FY 2019
 date: 'October 16, 2019'
 excerpt: >-
-  The Access Board was created in part to enforce the first federal law to
-  address accessibility, the Architectural Barriers Act (ABA) of 1968. This law
-  requires . . .
+  The Access Board was created in part to enforce the first federal law to address accessibility, the Architectural Barriers Act (ABA) of 1968. This law requires access to . . .
 tags:
   - enforcement
   - ABA
