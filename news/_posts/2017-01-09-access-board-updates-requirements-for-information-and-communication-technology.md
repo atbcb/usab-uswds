@@ -3,10 +3,7 @@ layout: post
 title: Access Board Updates Requirements for Information and Communication Technology
 date: 'January 9, 2017'
 excerpt: >-
-  The Access Board today released a final rule that updates accessibility
-  requirements for information and communication technology (ICT) in the federal
-  sector covered by Section 508 of the Rehabilitation Act. The rule also
-  refreshes guidelines for telecommunications . . .
+  The Access Board released a final rule that updates accessibility requirements for information and communication technology (ICT) in the federal sector covered by Section 508 of the Rehabilitation Act. The rule jointly updates and reorganizes the Section 508 standards and Section 255 guidelines in response to market trends and innovations, such as the convergence of technologies. The refresh also harmonizes these requirements with other guidelines and standards both in the U.S. and abroad, including standards issued by . . .
 image: /images/508-refresh.jpg
 image_alt_text: 508 / 255 Refresh badge
 tags:
