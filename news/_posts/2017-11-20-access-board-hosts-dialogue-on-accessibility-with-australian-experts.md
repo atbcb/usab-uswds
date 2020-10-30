@@ -3,11 +3,10 @@ layout: post
 title: Access Board Hosts Dialogue on Accessibility with Australian Experts
 date: 'November 20, 2017'
 excerpt: >-
-  On November 13 the U.S. Access Board held a day-long workshop comparing how
-  building accessibility is addressed in . . .
+  On November 13, the U.S. Access Board held a day-long workshop comparing how building accessibility is addressed in Australia and the U.S. It featured presentations and . . .
 featured: false
 ---
-On November 13 the U.S. Access Board held a day-long workshop comparing how building accessibility is addressed in Australia and the U.S. It featured presentations and a dialogue by experts on how accessibility to the built environment is addressed and enforced in both nations.
+On November 13, the U.S. Access Board held a day-long workshop comparing how building accessibility is addressed in Australia and the U.S. It featured presentations and a dialogue by experts on how accessibility to the built environment is addressed and enforced in both nations.
 
 Representatives from Australia included Michael Small, a former government official in Australia and the recipient of a Churchill Fellowship to study building accessibility from an international perspective, and Robin Banks, a consultant in human rights who formerly headed the Australian Public Interest Advocacy Centre and served as a state Anti-Discrimination Commissioner. They reviewed Australia’s development of accessibility standards under the Disability Discrimination Act of 1992 which were also incorporated into the country’s National Construction Code to facilitate compliance.
 
