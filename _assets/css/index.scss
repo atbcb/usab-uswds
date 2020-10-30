@@ -395,7 +395,14 @@ figcaption {
 .gray-to-color:hover {
   -webkit-filter: none;
   filter: none;
-  @include u-bg('primary-lighter')
+  @include u-bg('primary-lighter');
+}
+
+a.style-inherit:focus>div.gray-to-color {
+  -webkit-filter: none;
+  filter: none;
+  @include u-bg('primary-lighter');
+  border: 3px solid lightskyblue;
 }
 .card-shadow {
   box-shadow: 0 0 10px -3px #666;
@@ -417,6 +424,8 @@ a.style-inherit {
   color: inherit; // blue colors for links too
   text-decoration: inherit; // no underline
 }
+
+
 
 //table of contents styling
 .toc-subnav .usa-accordion__button {
