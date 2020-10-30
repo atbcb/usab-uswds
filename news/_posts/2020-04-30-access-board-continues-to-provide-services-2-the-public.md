@@ -7,7 +7,7 @@ excerpt: >-
   mid-March due to the coronavirus pandemic. However, the agency continues to
   provide its services to the public . . .
 image: ''
-image_alt_text: 'icons for technical assistance, webinars, and casework'
+image_alt_text: ''
 authors:
   - david-capozzi
 featured: false
