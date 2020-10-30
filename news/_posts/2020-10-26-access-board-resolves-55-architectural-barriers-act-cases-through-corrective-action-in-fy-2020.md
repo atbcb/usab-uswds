@@ -12,7 +12,7 @@ tags:
   - enforcement
   - ABA
   - research
-featured: true
+featured: false
 ---
 The Access Board was created in part to enforce the first federal law to address accessibility, the \[Architectural Barriers Act of 1968 (ABA)]({{ site.baseurl }}/laws/aba.html). This law requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board also maintains the guidelines upon which the ABA Standards are based.
 
