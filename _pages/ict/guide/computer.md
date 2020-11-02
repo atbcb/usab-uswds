@@ -53,19 +53,23 @@ Individuals with high spinal cord injuries, arthritis, and other conditions may 
 
 *(b) If a product utilizes touchscreens or touch-operated controls, an input method shall be provided that complies with §1194.23 (k) (1) through (4).*
 
-![woman using a touchscreen](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/touchscreen.jpg)***What products are covered under this provision?***\
+***What products are covered under this provision?***\
+![woman using a touchscreen](./images/touchscreen.jpg)
+
 This provision covers both desktop and portable computers that use touchscreens or other controls which operate through a person's touch. Touchscreens and other controls that operate by sensing a person's touch pose access problems for a range of persons with disabilities. This provision does not prohibit the use of touchscreens and contact sensitive controls, but requires a redundant set of controls that can be used by persons who have access problems with touchscreens.
 
 * * * * *
 
-*(c) When biometric forms of user identification or control are used, an alternative form of identification or activation, which does not require the user to possess particular biological characteristics, shall also be provided.![fingerprint recognizer](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/fingerprint.jpg)*
+*(c) When biometric forms of user identification or control are used, an alternative form of identification or activation, which does not require the user to possess particular biological characteristics, shall also be provided.*
+![fingerprint recognizer](./images/fingerprint.jpg)
 
 ***What are biometric forms of user identification or control?***\
 Biometric controls refer to controls that are activated only if a particular biological feature (e.g., voiceprint) of the user exists and matches specific criteria. Fortunately, many computer software manufacturers are aware that voice recognition is a beneficial input or activation method intended to supplement, not replace, other input controls such as standard keyboards.
 
 * * * * *
 
-*(d) Where provided, at least one of each type of expansion slots, ports and connectors shall comply with publicly available industry standards.![standard PCMCIA slot and PC card](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/pccard.jpg)*
+*(d) Where provided, at least one of each type of expansion slots, ports and connectors shall comply with publicly available industry standards.*
+![standard PCMCIA slot and PC card](./images/pccard.jpg)
 
 ***What does this provision require?***\
 This provision requires connection points on a computer system to comply with an industry standard technical specification that is available to other manufacturers. This assures that the developers of assistive technology will have access to information concerning the design of system connections and thus be able to produce products that can utilize those connections. Examples of publicly available industry standards may include RS-232, Centronics, SCSI interfaces, PCMCIA, or USB.
