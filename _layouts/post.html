@@ -9,24 +9,20 @@ This is used in blog posts. The index page can be found at blog/index.html
   <div class="grid-row">
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
       <h1 class="title">{{page.title}}</h1>
-      <div class="margin-bottom-2"> {% comment %}
-        <div class="margin-top-neg-105"> By
-          {% for author in page.authors %}
-            {% include staff-link.html staff=author %}
-          {% endfor %}
-          {{ page.date | date: '%B %d, %Y' }}
+      <div class="margin-bottom-2">
+        <div class="margin-y-1">
+          <span class="text-bold">{{ page.date | date: '%B %d, %Y' }}</span>
+          {% if page.authors %}
+          <br>
+          <span>By {% for author in page.authors %}{% include staff.html staff=author %}{% endfor %}</span>
+          {% endif %}
         </div>
-        {% endcomment %}
         {% if page.webinar == true %}
           {% assign today_date = 'now' | date: '%s' %}
-          {% assign webinar_date = page.webinar-start | date: '%s' %}
+          {% assign webinar_date = page.date | date: '%s' %}
           {% if webinar_date > today_date %}
             <div class="margin-top-neg-105">
               {% if page.webinar-start %}
-                <span class="text-italic">
-                  {{ page.webinar-start | date: '%B %d, %Y' }}
-                </span>
-                <br>
                 <span class="text-italic">
                   Presentation Time: {{ page.webinar-start | date: '%I:%M %p' }}
                   {% if page.webinar-end %}
@@ -44,7 +40,7 @@ This is used in blog posts. The index page can be found at blog/index.html
           {% else %}
             <div class="margin-top-neg-105">
               <span>
-                Presented on: {{ page.webinar-start | date: '%B %d, %Y' }}
+                Presented on: {{ page.date | date: '%B %d, %Y' }}
               </span>
               {% if page.video-link %}
                 <br>

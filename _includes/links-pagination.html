@@ -5,14 +5,13 @@
         </div>
         <div class="tablet:grid-col-4 text-right tablet:order-3">
           {% if paginator.next_page %}
-          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="paginate-button usa-button margin-top-3 tablet:margin-y-1">Next
-            {{ paginator.per_page }} Posts &rsaquo;</a>
+          <a href="{{ paginator.next_page_path | prepend: site.baseurl }}" class="paginate-button usa-button margin-top-3 tablet:margin-y-1">Next Page &rsaquo;</a>
           {% endif %}
         </div>
         <div class="tablet:grid-col-4 text-left tablet:order-1">
           {% if paginator.previous_page %}
           <a href="{{ paginator.previous_page_path | prepend: site.baseurl }}" class="paginate-button usa-button margin-y-1">&lsaquo;
-            Previous {{ paginator.per_page }} Posts</a>
+            Previous Page</a>
           {% endif %}
         </div>
       </div>
