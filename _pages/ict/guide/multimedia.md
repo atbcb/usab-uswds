@@ -35,7 +35,7 @@ The most common method of broadcasting audio description is through the Secondar
 ***How do audio descriptions assist people with disabilities?***\
 An "audio description" is an audible description of the visual content of a presentation, synchronized with the existing soundtrack. Typically, appropriate portions of the audio description are narrated during what would otherwise be natural silences in the presentation.
 
-***What is a tuner card?***\
+***What is a tuner card?***
 
 ![PC TV tuner card](./images/tvcard.jpg)
 
