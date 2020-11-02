@@ -61,6 +61,7 @@ This provision covers both desktop and portable computers that use touchscreens 
 * * * * *
 
 *(c) When biometric forms of user identification or control are used, an alternative form of identification or activation, which does not require the user to possess particular biological characteristics, shall also be provided.*
+
 ![fingerprint recognizer](./images/fingerprint.jpg)
 
 ***What are biometric forms of user identification or control?***\
