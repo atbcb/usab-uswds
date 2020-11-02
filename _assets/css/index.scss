@@ -60,7 +60,7 @@ a.usa-current::after {
 }
 
 // default to have images float to right (and text wrap left)
-div.content > img {
+#content > p > img {
   display:block;
   float:right;
 }
