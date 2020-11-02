@@ -3,8 +3,7 @@ layout: post
 title: Access Board Holds Public Forum Meeting on Assembly Areas
 date: 'September 21, 2018'
 excerpt: >-
-  On September 6 the Access Board held a day-long public forum on accessibility
-  of assembly areas. . .
+  On September 6, the Access Board held a day-long public forum on accessibility of assembly areas. The event brought together experts on the subject and various stakeholders to advise the Board on how to explain and clarify requirements in the ADA Standards in a technical guide it plans to develop on the subject. Accessibility consultants, people with disabilities, architects and designers, engineers, and facility operators participated in the meeting. Attendees included representatives from the Hearing Loss Association of America and . . . 
 image: /images/uploads/assembly-mtg.jpg
 image_alt_text: People seated around a board room table
 tags:
@@ -12,7 +11,7 @@ tags:
   - ADA
 featured: false
 ---
-On September 6 the Access Board held a day-long public forum on accessibility of assembly areas. The event brought together experts on the subject and various stakeholders to advise the Board on how to explain and clarify requirements in the ADA Standards in a technical guide it plans to develop on the subject. Accessibility consultants, people with disabilities, architects and designers, engineers, and facility operators participated in the meeting Attendees included representatives from the Hearing Loss Association of America and other advocacy organizations, the International Code Council, trade associations such as the National Association of Theater Operators and the American Society of Theatre Consultants, seating manufacturers, performing arts facilities, including Carnegie Hall and the Kennedy Center, federal agencies, and other entities.
+On September 6, the Access Board held a day-long public forum on accessibility of assembly areas. The event brought together experts on the subject and various stakeholders to advise the Board on how to explain and clarify requirements in the ADA Standards in a technical guide it plans to develop on the subject. Accessibility consultants, people with disabilities, architects and designers, engineers, and facility operators participated in the meeting. Attendees included representatives from the Hearing Loss Association of America and other advocacy organizations, the International Code Council, trade associations such as the National Association of Theater Operators and the American Society of Theatre Consultants, seating manufacturers, performing arts facilities, including Carnegie Hall and the Kennedy Center, federal agencies, and other entities.
 
 The Board convened this meeting to collect information and input from the public on access issues and design questions and challenges that are unique to various types of assembly spaces. It will use this information in preparing a technical bulletin on assembly areas as part of its [Guide to the ADA Standards]({{ site.baseurl }}/ada/guides/), as well as its [Guide to the ABA Standards]({{ site.baseurl }}/aba/guides/).
 

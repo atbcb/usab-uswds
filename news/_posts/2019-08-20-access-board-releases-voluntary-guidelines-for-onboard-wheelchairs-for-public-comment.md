@@ -10,12 +10,7 @@ excerpt: >-
   onboard wheelchairs are provided by air carriers as a means of facilitating
   the transfer of passengers with disabilities to aircraft lavatories since
   personal wheelchairs cannot be used in the cabin.  The Department of
-  Transportation (DOT) has expressed its intention to supplement its regulations
-  under the Air Carrier Access Act (ACAA) to include performance standards for
-  onboard wheelchairs on covered aircraft.  The Board is developing these
-  non-binding guidelines as technical assistance to air carriers and
-  manufacturers of onboard wheelchairs by providing an example of how to meet
-  DOT’s planned performance standards.
+  Transportation (DOT) has expressed its intention to supplement its . . .
 image: /images/uploads/onboard-chair.jpg
 image_alt_text: Onboard Chair
 featured: false

@@ -3,11 +3,7 @@ layout: post
 title: 'In Memoriam: President George H.W. Bush'
 date: 'December 3, 2018'
 excerpt: >-
-  As President, George H.W. Bush enacted the Americans with Disabilities Act
-  (ADA) of 1990, a landmark law that bans discrimination on the basis of
-  disability and treats accessibility for people with disabilities as a civil
-  right. He considered the ADA one of his proudest achievements as President and
-  made its implementation a priority of his administration.
+  As President, George H.W. Bush enacted the Americans with Disabilities Act (ADA) of 1990, a landmark law that bans discrimination on the basis of disability and treats accessibility for people with disabilities as a civil right. He considered the ADA one of his proudest achievements as President and made its implementation a priority of his administration. The ADA serves as one of the most enduring legacies of his presidency and his long career in public service. Read the full text of . . .
 image: /images/uploads/ghw-bush.jpg
 image_alt_text: George HW Bush
 tags: []
