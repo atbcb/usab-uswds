@@ -1,6 +1,8 @@
 ---
 title: "About the ADA"
 permalink: /ada/about.html
+toc: /toc/auto.html
+toc-group: ada
 version: original
 ---
 

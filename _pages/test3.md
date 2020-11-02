@@ -2,7 +2,7 @@
 title:  Test File 3
 layout: universal
 right-sidenav: sidenav-ada.html
-toc: toc-auto.html
+toc: /toc/auto.html
 toc-group: test
 order-number: 3
 permalink: /test3.html

@@ -140,9 +140,6 @@ collections:
   prowag-rulemaking:
     output: true
     permalink: /prowag/rulemaking:path/
-  ada-ibc-comparison:
-    output: true
-    permalink: /ada/background/ada-ibc-comparison/:path/
   ada-vehicles:
     output: true
     permalink: /ada/vehicles/:path/
@@ -201,7 +198,7 @@ defaults:
       banner-title: "Guide to the ADA Accessibility Standards"
       collection-folder: ada-guides
       layout: universal
-      toc: toc-auto.html
+      toc: /toc/auto.html
       file-directory: /files/ada-aba/guides/ada/
       image-directory: /images/ada-aba/guides/
       right-sidenav: sidenav-right-universal.html
@@ -210,14 +207,13 @@ defaults:
       s-image: /images/stock/ada.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
-
   - scope:
       path: ""
       type: "aba"
     values:
       banner-title: "Architectural Barriers Act"
       banner-subtitle: "Accessibility Standards"
-      toc: toc-auto.html
+      toc: /toc/auto.html
       collection-folder: aba
       layout: universal
       image-directory: /images/ada-aba/standards/
@@ -233,7 +229,7 @@ defaults:
     values:
       banner-title: "Guide to the ABA"
       banner-subtitle: "Accessibility Standards"
-      toc: toc-auto.html
+      toc: /toc/auto.html
       collection-folder: aba-guides
       layout: universal
       image-directory: /images/ada-aba/guides/
@@ -270,7 +266,7 @@ defaults:
       collection-title: "ADA Accessibility Guidelines for Vehicles"
       collection-folder: ada-vehicles
       layout: universal
-      toc: toc-auto.html
+      toc: /toc/auto.html
       file: /files/vehicles/vehicle-guidelines.pdf
       image-directory: /images/vehicles/
       right-sidenav: sidenav-right-universal.html
@@ -286,7 +282,7 @@ defaults:
       collection-title: "Guide to ADA Vehicles"
       collection-folder: ada-vehicles-guides
       layout: universal
-      toc: toc-auto.html
+      toc: /toc/auto.html
       toc-group: ada-vehicles-guides
       image-directory: /images/vehicles/
       right-sidenav: sidenav-right-universal.html
@@ -303,7 +299,7 @@ defaults:
       banner-subtitle: "Revised 508 Standards and 255 Guidelines"
       collection-folder: ict
       layout: universal
-      toc: toc-ict.html
+      toc: /toc/ict.html
       file-directory: /files/ict/
       image-directory: /images/ict/
       right-sidenav: sidenav-right-universal.html
@@ -338,7 +334,7 @@ defaults:
       collection-title: "Research"
       collection-folder: research
       layout: universal
-      toc: toc-auto.html
+      toc: /toc/auto.html
   - scope:
       path: ""
       type: "es"
