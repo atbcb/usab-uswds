@@ -1,6 +1,6 @@
 ---
 title: "About the ABA"
-permalink: /aba/
+permalink: /aba/about.html
 toc-group: aba-standards
 order-number: 1
 version: new

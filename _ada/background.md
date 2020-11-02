@@ -1,6 +1,7 @@
 ---
 title:  "Background"
-permalink: /ada/background/
+layout: page
+permalink: /ada/background.html
 order-number: 0
 version: original
 ---

@@ -143,9 +143,6 @@ collections:
   ada-ibc-comparison:
     output: true
     permalink: /ada/background/ada-ibc-comparison/:path/
-  ada-background:
-    output: true
-    permalink: /ada/background/:path/
   ada-vehicles:
     output: true
     permalink: /ada/vehicles/:path/
@@ -190,7 +187,6 @@ defaults:
       banner-subtitle: "Accessibility Standards"
       collection-folder: ada
       layout: universal
-      toc: toc-ada.html
       image-directory: /images/ada-aba/standards/
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/guides/
@@ -247,16 +243,6 @@ defaults:
       s-image: /images/stock/aba.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
-  - scope:
-      path: ""
-      type: "ada-background"
-    values:
-      collection-title: "ADA - Background, History and Archive"
-      collection-folder: ada-background
-      layout: data-sidenav
-      datafile: ada-background
-      file-directory: /files/ada-aba/background/
-      image-directory: /images/ada-aba/background/
   - scope:
       path: ""
       type: "prowag"
