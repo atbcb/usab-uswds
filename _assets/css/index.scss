@@ -36,8 +36,6 @@ h5, h6 { // default was xs and 2xs
   @include u-margin-y(1)
 }
 
-
-
 // Add your SASS/CSS here
 
 // stylish faux 'page-breaks'
@@ -59,6 +57,12 @@ hr {
 
 a.usa-current::after {
   content: "→" !important;
+}
+
+// default to have images float to right (and text wrap left)
+div.content img {
+  display:block;
+  float:right;
 }
 
 fieldset {
