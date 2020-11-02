@@ -183,6 +183,7 @@ defaults:
       banner-title: "Americans with Disabilities Act"
       banner-subtitle: "Accessibility Standards"
       collection-folder: ada
+      toc-group: ""
       layout: universal
       image-directory: /images/ada-aba/standards/
       right-sidenav: sidenav-right-universal.html
@@ -198,7 +199,8 @@ defaults:
       banner-title: "Guide to the ADA Accessibility Standards"
       collection-folder: ada-guides
       layout: universal
-      toc: /toc/auto.html
+      toc: "/toc/auto.html"
+      toc-group: ""
       file-directory: /files/ada-aba/guides/ada/
       image-directory: /images/ada-aba/guides/
       right-sidenav: sidenav-right-universal.html
@@ -213,7 +215,8 @@ defaults:
     values:
       banner-title: "Architectural Barriers Act"
       banner-subtitle: "Accessibility Standards"
-      toc: /toc/auto.html
+      toc: "/toc/auto.html"
+      toc-group: ""
       collection-folder: aba
       layout: universal
       image-directory: /images/ada-aba/standards/
@@ -229,7 +232,8 @@ defaults:
     values:
       banner-title: "Guide to the ABA"
       banner-subtitle: "Accessibility Standards"
-      toc: /toc/auto.html
+      toc: "/toc/auto.html"
+      toc-group: ""
       collection-folder: aba-guides
       layout: universal
       image-directory: /images/ada-aba/guides/
@@ -266,7 +270,8 @@ defaults:
       collection-title: "ADA Accessibility Guidelines for Vehicles"
       collection-folder: ada-vehicles
       layout: universal
-      toc: /toc/auto.html
+      toc: "/toc/auto.html"
+      toc-group: ""
       file: /files/vehicles/vehicle-guidelines.pdf
       image-directory: /images/vehicles/
       right-sidenav: sidenav-right-universal.html
@@ -282,7 +287,7 @@ defaults:
       collection-title: "Guide to ADA Vehicles"
       collection-folder: ada-vehicles-guides
       layout: universal
-      toc: /toc/auto.html
+      toc: "/toc/auto.html"
       toc-group: ada-vehicles-guides
       image-directory: /images/vehicles/
       right-sidenav: sidenav-right-universal.html
@@ -300,6 +305,7 @@ defaults:
       collection-folder: ict
       layout: universal
       toc: /toc/ict.html
+      toc-group: ""
       file-directory: /files/ict/
       image-directory: /images/ict/
       right-sidenav: sidenav-right-universal.html
@@ -334,7 +340,8 @@ defaults:
       collection-title: "Research"
       collection-folder: research
       layout: universal
-      toc: /toc/auto.html
+      toc: "/toc/auto.html"
+      toc-group: ""
   - scope:
       path: ""
       type: "es"
@@ -423,8 +430,8 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
-  # Uncomment below to speed up dev build times
-  # - _ada*
+  # - _ada
+  # - _ada-guides
   # - _prowag*
   # - _aba*
   # - _research*

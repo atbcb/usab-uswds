@@ -8,15 +8,15 @@
    This creates a table of contents for all pages in the _research collection with front matter toc-group: Indoor Environmental Quality. (The collection also needs to be assigned default front matter of collection-folder: research)
 
 {% endcomment %}
-
-{% if toc-group %}
-  {% if page.order-number %}
-    {% assign chapters = site[page.collection-folder] | where: "toc-group",  {{page.toc-group}}  | sort:"order-number"%}
-  {% else %}
-    {% assign chapters = site[page.collection-folder] | where: "toc-group",  {{page.toc-group}} %}
+{% if page.collection-folder %}
+  {% if page.toc-group %}
+    {% if page.order-number %}
+      {% assign chapters = site[page.collection-folder] | where: "toc-group",  {{page.toc-group}}  | sort:"order-number"%}
+    {% else %}
+      {% assign chapters = site[page.collection-folder] | where: "toc-group",  {{page.toc-group}} %}
+    {% endif %}
   {% endif %}
 {% endif %}
-
 {% if chapters %}
 <aside id="toc" class="desktop:grid-col-3 margin-bottom-2 padding-right-2 border-right-width-2">
   <div class="padding-2 bg-white height-viewport overflow-y-scroll sticky">
