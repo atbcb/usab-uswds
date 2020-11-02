@@ -1,12 +1,20 @@
-Video and Multimedia Products (1194.24)
----------------------------------------
+---
+title: Video and Multimedia Products (1194.24)
+layout: page
+sidenav: false
+permalink: /ict/guide/multimedia.html
+---
+
+# {{ page.title }}
 
 Updated: June 21, 2001
-----------------------
 
 **(a) All analog television displays 13 inches and larger, and computer equipment that includes analog television receiver or display circuitry, shall be equipped with caption decoder circuitry which appropriately receives, decodes, and displays closed captions from broadcast, cable, videotape, and DVD signals. As soon as practicable, but not later than July 1, 2002, widescreen digital television (DTV) displays measuring at least 7.8 inches vertically, DTV sets with conventional displays measuring at least 13 inches vertically, and stand-alone DTV tuners, whether or not they are marketed with display screens, and computer equipment that includes DTV receiver or display circuitry, shall be equipped with caption decoder circuitry which appropriately receives, decodes, and displays closed captions from broadcast, cable, videotape, and DVD signals.**
 
-![Photo of TV with captions](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/tv.jpg)***What are captions?***\
+***What are captions?***\
+
+![Photo of TV with captions](./images/tv.jpg)
+
 Like subtitles, captions display spoken dialogue as printed words on a television screen or computer monitor. Unlike subtitles, captions are specifically designed for hard-of-hearing and deaf viewers to enable their full participation when viewing video or multimedia productions. Captions are carefully placed to identify speakers. They often include information regarding on- and off-screen sound effects, such as music or laughter. Captions also hold secondary benefits for people who are learning a foreign language, learning how to read, or watching TV in a noisy area, as well as those who understand best by processing visual information.
 
 Captions come in two forms: open or closed captioning:
