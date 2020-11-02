@@ -11,7 +11,7 @@ Updated: June 21, 2001
 
 **(a) All analog television displays 13 inches and larger, and computer equipment that includes analog television receiver or display circuitry, shall be equipped with caption decoder circuitry which appropriately receives, decodes, and displays closed captions from broadcast, cable, videotape, and DVD signals. As soon as practicable, but not later than July 1, 2002, widescreen digital television (DTV) displays measuring at least 7.8 inches vertically, DTV sets with conventional displays measuring at least 13 inches vertically, and stand-alone DTV tuners, whether or not they are marketed with display screens, and computer equipment that includes DTV receiver or display circuitry, shall be equipped with caption decoder circuitry which appropriately receives, decodes, and displays closed captions from broadcast, cable, videotape, and DVD signals.**
 
-***What are captions?***\
+***What are captions?***
 
 ![Photo of TV with captions](./images/tv.jpg)
 
@@ -35,7 +35,10 @@ The most common method of broadcasting audio description is through the Secondar
 ***How do audio descriptions assist people with disabilities?***\
 An "audio description" is an audible description of the visual content of a presentation, synchronized with the existing soundtrack. Typically, appropriate portions of the audio description are narrated during what would otherwise be natural silences in the presentation.
 
-![PC TV tuner card](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/tvcard.jpg)***What is a tuner card?***\
+***What is a tuner card?***\
+
+![PC TV tuner card](./images/tvcard.jpg)
+
 Tuner cards enable a computer to receive television broadcasts. This product is an example of what the industry calls "convergence" and represents a way in which the functions historically provided by TV, PC, cable and Internet products are merging onto multi-function devices. Tuner cards can be internal or external and can work with laptop or desktop computers.
 
 * * * * *
