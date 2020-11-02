@@ -1,8 +1,10 @@
 ---
 title: "Chapter 1: Using the ADA Standards"
 order-number: 1
-file: using-ADAstandards.pdf
+file: /files/ada/guides/using-ADAstandards.pdf
 file-description: PDF version of Chapter 1 ADA Guide
+redirect_from: 
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-1-using-the-ada-standards
 ---
 
 The design standards issued under the Americans with Disabilities Act

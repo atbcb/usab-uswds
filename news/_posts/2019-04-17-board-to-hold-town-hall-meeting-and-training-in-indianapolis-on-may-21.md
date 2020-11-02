@@ -7,16 +7,13 @@ excerpt: >-
   afternoon of May 21 at Bankers Life Fieldhouse. The event will provide an open
   forum where members of the public can pose questions to the Board or share
   comments or concerns about accessibility for people with disabilities. There
-  also will be panel discussions with area speakers on accessible recreation and
-  outdoor environments, the Indiana AgrAbility Project, and local compliance
-  initiatives under the Americans with Disabilities Act (ADA).
+  also will be panel . . .
 image: /images/uploads/indianpolis.jfif
 image_alt_text: Indianapolis
-webinar: false
-webinar-start: ''
-webinar-end: ''
-registration-link: ''
-video-link: ''
+tags:
+  - events
+  - training
+featured: false
 ---
 
 
@@ -26,7 +23,7 @@ The event will take place in the Pacers Square Room at [Bankers Life Fieldhouse]
 
 
 
-![ADA Standards]({{ site.baseurl }}images/uploads/ada-standards.png "ADA Standads")
+![ADA Standards]({{ site.baseurl }}/images/uploads/ada-standards.png "ADA Standads")
 
 *Remote Attendance Options - Town Hall Meeting Only*\
 Those unable to make it in person can attend remotely by phone or streaming CART. To join by phone, call (888) 396-7314 and enter code 7394831. CART will be available online at [www.streamtext.net/player?event=052119](https://www.streamtext.net/player?event=052119).
@@ -40,23 +37,18 @@ For further information, contact Dave Yanchulis at [yanchulis@access-board.gov](
 Pacers Square at Bankers Life Fieldhouse\
 125 S. Pennsylvania Street, Indianapolis, IN
 
-*Training Session on the ADA Accessibility Standards (free)*\
-• 8:00 – 9:00 Registration & Welcome\
-• 9:00 – 10:30 Application of the Standards & Common Sources of Confusion (1.5 AIA Credit)\
-• 10:30 – 10:45 Break\
-• 10:45 – 12:15 Recreation Facilities & Outdoor Sites (1.5 AIA Credit)
+*Training Session on the ADA Accessibility Standards (free)*
+* 8:00 – 9:00 Registration & Welcome
+* 9:00 – 10:30 Application of the Standards & Common Sources of Confusion (1.5 AIA Credit)
+* 10:30 – 10:45 Break
+* 10:45 – 12:15 Recreation Facilities & Outdoor Sites (1.5 AIA Credit)
 
-*Town Hall Meeting*\
-• 2:00 – 2:15 Opening Remarks\
-• 2:15 – 3:30 Panel Discussions\
-• 3:30 – 4:30 Overview of the Access Board & Open Forum
+*Town Hall Meeting*
+* 2:00 – 2:15 Opening Remarks
+* 2:15 – 3:30 Panel Discussions
+* 3:30 – 4:30 Overview of the Access Board & Open Forum
 
 *Remote Options for the Town Hall Meeting:*\
 Call-in option: (888) 396-7314, passcode: 7394831\
-Online Computer Assisted Real-time Transcription:[www.streamtext.net/player?event=052119](https://www.streamtext.net/player?event=052119)
+Online Computer Assisted Real-time Transcription: [www.streamtext.net/player?event=052119](https://www.streamtext.net/player?event=052119)
 
-
-
-
-
-![Bankers Life Fieldhouse]({{ site.baseurl }}images/uploads/bankerslife.png "Bankers Life Fieldhouse")

@@ -1,8 +1,10 @@
 ---
 title: "Chapter 10: Golf Courses"
 order-number: 1006
-file: golf.pdf
+file: /files/ada/guides/golf.pdf
 file-description: PDF version of Accessible Golf Course
+redirect_from: 
+    - /guidelines-and-standards/recreation-facilities/guides/golf-courses
 ---
 <div class="clearfix" markdown="1">
 ![photo of man using wheelchair on golf

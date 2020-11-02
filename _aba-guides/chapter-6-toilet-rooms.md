@@ -1,7 +1,7 @@
 ---
 title: "Chapter 6: Toilet Rooms"
 order-number: 17
-file: toilet-rooms-ABA.pdf
+file: /files/aba/guides/toilet-rooms-ABA.pdf
 file-description: PDF version of Chapter 6 Toilet Rooms Guide
 ---
 This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for toilet rooms. 

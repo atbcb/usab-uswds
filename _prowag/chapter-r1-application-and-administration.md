@@ -1,7 +1,8 @@
 ---
 title: "Chapter R1: Application and Administration"
 order-number: 1
-version: improved
+redirect_from:
+  - /guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/chapter-r1-application-and-administration
 ---
 
 ### R101 Purpose

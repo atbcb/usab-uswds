@@ -1,8 +1,10 @@
 ---
 title: "Chapter 5: Passenger Loading Zones"
 order-number: 14
-file: plz.pdf
+file: /files/ada/guides/plz.pdf
 file-description: PDF version of Chapter 5 Passenger Loading Zones Guide
+redirect_from: 
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-5-passenger-loading-zones
 ---
 This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for passenger loading zones.
 

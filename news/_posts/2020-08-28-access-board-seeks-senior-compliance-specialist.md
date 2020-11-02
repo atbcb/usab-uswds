@@ -5,12 +5,7 @@ date: 'August 28, 2020'
 excerpt: >-
   The Access Board seeks a Senior Compliance Specialist (GS 14) to serve in its
   Office of the General Counsel. The position is open to current or former
-  federal employees who qualify as status candidates, candidates eligible under
-  the Veterans Employment Opportunity Act, the Career Transition Assistance
-  Plan, or the Interagency Career Transition Assistance Plan, and candidates
-  eligible for special hiring authorities (e.g., Schedule A appointment for
-  persons with disabilities) or who are eligible for Veterans' Recruitment
-  Appointment.
+  federal . . . 
 tags:
   - jobs
 webinar: false

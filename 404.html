@@ -1,11 +1,26 @@
 ---
-layout: page
+layout: base
 ---
-
-<div class="grid-row grid-gap">
-  <div class="usa-layout-docs-main_content desktop:grid-col-9 usa-prose">
-    <h1>Page not found</strong></h1>
-    <p>The requested page could not be found (404).</p>
-    <p>Looking for a specific page?&nbsp; Please see our <a href="{{ site.baseurl }}/sitemap.html">sitemap</a></p>
+<div class="usa-layout-docs bg-base-lightest ">
+  <div class="{% if page.width == 'desktop' %}grid-container maxw-desktop{% else %}maxw-full{% endif %}">
+    <div class="grid-row">
+      <div class="desktop:grid-col-6">
+        <div class="margin-x-3 margin-y-9 padding-3 bg-primary-darker text-center text-white">
+        <h1 class="font-sans-3xl margin-3">Page Not Found (404)</h1>
+        <h3>The requested page could not be found.</h3>
+        <p>We've updated our website and some old links may not work.</p>
+        <div class="text-center">
+          <a href="{{ site.baseurl }}/sitemap.html"><button title="{{ page.file-description }}" class="usa-button bg-secondary-darker">SITEMAP</button></a>
+        </div>
+        <p>Looking for a specific page?<br>
+          Please see our <a class="text-primary-light" href="{{ site.baseurl }}/sitemap.html">sitemap</a> or <a class="text-primary-light" href="{{ site.baseurl }}/contact/">contact us</a> for assistance</p>
+        </div>
+      </div>
+      <div class="desktop:grid-col-6">
+        <div class="margin-3 card-shadow">
+          <img src="{{ site.baseurl }}/images/stock/inaccessible-stairs-md.jpg" alt="wheelchair user in front of stairs">
+        </div>
+      </div>
+    </div>
   </div>
 </div>

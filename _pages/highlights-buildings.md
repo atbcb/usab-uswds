@@ -3,6 +3,8 @@ title: Buildings and Sites
 layout: page
 sidenav: false
 permalink: /buildings.html
+redirect_from:
+    - /guidelines-and-standards/buildings-and-sites
 ---
 
 # {{ page.title }}

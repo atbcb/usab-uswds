@@ -1,8 +1,10 @@
 ---
 title: "Chapter 10: Recreational Boating Facilities"
 order-number: 1003
-file: boating.pdf
+file: /files/ada/guides/boating.pdf
 file-description: PDF version of Accessible Boating Facilities
+redirect_from: 
+    - /guidelines-and-standards/recreation-facilities/guides/boating-facilities
 ---
 ![photo of accessible boat
 slip]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/p2boat.jpg){: .img-right}

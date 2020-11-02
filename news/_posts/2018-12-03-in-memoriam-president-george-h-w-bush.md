@@ -3,19 +3,11 @@ layout: post
 title: 'In Memoriam: President George H.W. Bush'
 date: 'December 3, 2018'
 excerpt: >-
-  As President, George H.W. Bush enacted the Americans with Disabilities Act
-  (ADA) of 1990, a landmark law that bans discrimination on the basis of
-  disability and treats accessibility for people with disabilities as a civil
-  right. He considered the ADA one of his proudest achievements as President and
-  made its implementation a priority of his administration.
+  As President, George H.W. Bush enacted the Americans with Disabilities Act (ADA) of 1990, a landmark law that bans discrimination on the basis of disability and treats accessibility for people with disabilities as a civil right. He considered the ADA one of his proudest achievements as President and made its implementation a priority of his administration. The ADA serves as one of the most enduring legacies of his presidency and his long career in public service. Read the full text of . . .
 image: /images/uploads/ghw-bush.jpg
 image_alt_text: George HW Bush
 tags: []
-webinar: false
-webinar-start: ''
-webinar-end: ''
-registration-link: ''
-video-link: ''
+featured: false
 ---
 As President, George H.W. Bush enacted the Americans with Disabilities Act (ADA) of 1990, a landmark law that bans discrimination on the basis of disability and treats accessibility for people with disabilities as a civil right. He considered the ADA one of his proudest achievements as President and made its implementation a priority of his administration.
 
@@ -23,14 +15,9 @@ As President, George H.W. Bush enacted the Americans with Disabilities Act (ADA)
 
 The ADA serves as one of the most enduring legacies of his presidency and his long career in public service. Below is the full text of his remarks on the law that would forever change the American landscape by making it more inclusive and accessible to all.
 
-![ President Bush  seated outside at a desk signing the ADA into law]({{ site.baseurl }}images/uploads/ada-signing.jpg " President George H.W. Bush signing the ADA")
+![President Bush seated outside at a desk signing the ADA into law]({{ site.baseurl }}/images/uploads/ada-signing.jpg "President George H.W. Bush signing the ADA")
 
-
-
-
-
-### Remarks of President George Bush at the Signing\
-of the Americans with Disabilities Act
+### Remarks of President George Bush at the Signing of the Americans with Disabilities Act
 
 Welcome to every one of you, out there in this splendid scene of hope, spread across the South Lawn of the White House. I want to salute the Members of the United States Congress, the House and the Senate who are with us today -- active participants in making this day come true. This is, indeed, an incredible day -- especially for the thousands of people across the Nation who have given so much of their time, their vision, and their courage to see this act become a reality.
 

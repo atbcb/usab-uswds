@@ -1,12 +1,7 @@
 ---
 layout: base
-title: Webinars & Trainings
+title: Upcoming Webinars & Trainings
 permalink: /webinars/
-pagination:
-  enabled: true
-  category: webinars
-  sort_field: 'date'
-  sort_reverse: true
 ---
 {% include section-title.html %}
 <div class="grid-container maxw-desktop">
@@ -14,12 +9,11 @@ pagination:
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
       <!-- This loops through the paginated posts -->
       {% assign today_date = 'now' | date: '%s' %}
-      {% for post in paginator.posts %}
+      {% assign webinars = site.posts | where: "webinar", true | reverse %}
+      {% for post in webinars %}
       {% assign post_date = post.date | date: '%s' %}
-      <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
-        {% if post_date > today_date %}
-        <div class="text-bold text-white text-center bg-mint radius-lg padding-1">Upcoming</div>
-        {% endif %}
+      {% if post_date > today_date %}
+      <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest"> 
         <h3 class="title">
           <a class="usa-link text-no-underline" href="{{ site.baseurl }}{{ post.url }}">{{post.title}}</a>
         </h3>
@@ -63,9 +57,11 @@ pagination:
               make sure the content is on each post header {% endcomment %}
         </div>
       </div>
+      {% endif %}
       {% endfor %}
+      {% include big-button.html link= "/trainings/about.html" text="Request a Training" %}
+      {% include big-button.html link= "/webinars/past.html" text="List of Past Webinars and Trainings" %}
       {% include back-to-top.html %}
-      {% include links-pagination.html %}
     </div>
     <aside class="desktop:grid-col-fill margin-top-4 padding-right-4">
       {% include sidenav-webinars.html %}

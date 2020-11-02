@@ -2,7 +2,7 @@
 title: Trainings
 layout: page
 sidenav: false
-permalink: /trainings/about
+permalink: /trainings/about.html
 ---
 
 ![photo of classroom training session]({{ site.baseurl }}/images/classroom.jpg){: .img-right}
