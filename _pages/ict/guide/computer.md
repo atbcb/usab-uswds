@@ -35,7 +35,8 @@ However, "capacitance" keyboards would not meet this provision because they reac
 ***What is meant by "status of controls" and why do people need that information?***\
 This provision requires that the status of toggle controls, such as the "caps lock" or "scroll lock" keys be identifiable by either touch or sound, in addition to visual means. For example, adding audio patterns, such as ascending and descending pitch tones that indicate when a control is turned on or off, would alleviate the problem of a person who is blind inadvertently pressing the locking or toggle controls. Also, buttons which remain depressed when activated and switched with distinct positions will meet this provision.
 
-***Would the reading of status and diagnostic indicators (e.g., light emitting d![LED on CPU indicating computer is on](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/compaqcpu.jpg)iodes (LEDs)) on a desktop computer's front panel be required to be accessible?***\
+***Would the reading of status and diagnostic indicators (e.g., light emitting diodes (LEDs)) on a desktop computer's front panel be required to be accessible?***\
+![LED on CPU indicating computer is on](./images/compaqcpu.jpg)
 Lights and buttons on control panels which are provided strictly for troubleshooting are not addressed. However, indicators of normal operation are covered. For example, the status of "power on" is accompanied by the sound of a fan, and disk activation is accompanied by the sound of a disk spinning.
 
 ***What does "key repeat" mean?***\
