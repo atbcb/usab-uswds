@@ -6,3 +6,5 @@ This listing includes:
 - FR notices
 - press releases
 - overview
+- Final Regulatory Impact Analysis (fria)
+- Comparison Table of WCAG 2.0 to Existing 508 Standards (wcag2ict)
