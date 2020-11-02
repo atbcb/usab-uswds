@@ -47,7 +47,7 @@ Tuner cards enable a computer to receive television broadcasts. This product is 
 
 **(d) All training and informational video and multimedia productions that support the agency's mission, regardless of format, that contain visual information necessary for the comprehension of the content, shall be audio described.**
 
-***What is a multimedia production?***\
+***What is a multimedia production?***
 The term "multimedia productions" refers to productions that present information in more than one sensory mode, e.g., both audibly and visually. For instance, streaming video with a soundtrack is a multimedia production. A show broadcast through a Federal military radio station is audio only and therefore not covered by this captioning requirement. (However, the procurement of electronic and information technology necessary to operate the radio station would be covered under the 508 standard.)
 
 ***What does it mean for a video or multimedia production to "support the agency's mission"?***\
