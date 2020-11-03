@@ -1,5 +1,11 @@
-Web-based Intranet and Internet Information and Applications (1194.22)
-----------------------------------------------------------------------
+---
+title: Web-based Intranet and Internet Information and Applications (1194.22)
+layout: page
+sidenav: false
+permalink: /ict/guide/web.html
+---
+
+# {{ page.title }}
 
 Updated: June 21, 2001
 
@@ -19,7 +25,7 @@ HTML Source Code: <img src="/art/logo-green.gif" alt="Access Board Logo">
 
 <http://www.access-board.gov/>
 
-![Access Board Logo - The Access Board, a federal agency committed to accessible design](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/accesslogo.jpg)
+![Access Board Logo - The Access Board, a federal agency committed to accessible design](./images/accesslogo.jpg)
 
 *How much information actually needs to be in the text equivalent?*
 
@@ -92,7 +98,7 @@ National Center for Accessible Media (NCAM)\
 
 *Why is this provision necessary?*
 
-![Web page with a green button labled "start" with text above: "Press Green button to Start." There is text above an adjacent red button labeled "cancel" that states "Press Red button to Cancel."](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/gobuttons.jpg)
+![Web page with a green button labled "start" with text above: "Press Green button to Start." There is text above an adjacent red button labeled "cancel" that states "Press Red button to Cancel."](./images/gobuttons.jpg)
 
 When colors are used as the sole method for identifying screen elements or controls, persons who are color blind as well as those people who are blind or have low vision may find the web page unusable.
 
@@ -309,7 +315,7 @@ While assistive technology does not yet widely support the "title" attribute, we
 Example: ADA Technical Assistance Program - The use of frames with "No Frames Link"\
 [www.adata.org](http://www.adata.org/)
 
-![A screen print the Americans with Disabilities Act Home Page](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/frames.jpg)
+![A screen print the Americans with Disabilities Act Home Page](./images/frames.jpg)
 
 * * * * *
 
@@ -471,11 +477,11 @@ Example: USDA Target Center and DOL websites use the Skip Repetitive Navigationa
 
 <http://www.usda.gov/oo/target.htm>
 
-![A screen print of the US Department of Agriculture TARGET Center Home page.](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/skip.jpg)
+![A screen print of the US Department of Agriculture TARGET Center Home page.](./images/skip.jpg)
 
 <http://www.dol.gov/dol/odep/>
 
-![A screen print of the US Department of Labor Office of Disability Employment Policy Home page.](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/skip2.jpg)
+![A screen print of the US Department of Labor Office of Disability Employment Policy Home page.](./images/skip2.jpg)
 
 * * * * *
 
@@ -797,7 +803,7 @@ While assistive technology does not yet widely support the "title" attribute, we
 Example: ADA Technical Assistance Program - The use of frames with "No Frames Link"\
 [www.adata.org](http://www.adata.org/)
 
-![A screen print the Americans with Disabilities Act Home Page](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/frames.jpg)
+![A screen print the Americans with Disabilities Act Home Page](./images/frames.jpg)
 
 * * * * *
 
@@ -959,11 +965,11 @@ Example: USDA Target Center and DOL websites use the Skip Repetitive Navigationa
 
 <http://www.usda.gov/oo/target.htm>
 
-![A screen print of the US Department of Agriculture TARGET Center Home page.](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/skip.jpg)
+![A screen print of the US Department of Agriculture TARGET Center Home page.](./images/skip.jpg)
 
 <http://www.dol.gov/dol/odep/>
 
-![A screen print of the US Department of Labor Office of Disability Employment Policy Home page.](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/skip2.jpg)
+![A screen print of the US Department of Labor Office of Disability Employment Policy Home page.](./images/skip2.jpg)
 
 * * * * *
 
