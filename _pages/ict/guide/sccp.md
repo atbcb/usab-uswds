@@ -27,7 +27,7 @@ Unlike other provisions which allow a product to meet the standards by being com
 
 * * * * *
 
-**(b)** **When a timed response is required, the user shall be alerted and **given sufficient time to indicate more time is required.**
+**(b)** **When a timed response is required, the user shall be alerted and given sufficient time to indicate more time is required.**
 
 ![Person on phone receiving audio message "You have 15 seconds to finish your message."](./images/5mincall.jpg)
 
@@ -137,7 +137,7 @@ No. This provision does not prohibit the use of color to enhance identification 
 
 **(h) When a product permits a user to adjust color and contrast settings, a range of color selections capable of producing a variety of contrast levels shall be provided.**
 
-**Do all products have to provide color selections?**\
+**Do all products have to provide color selections?**
 No. This provision is applied to those products that already allow a user to adjust screen colors.
 
 ![computer screen with yellow text on a blue background](./images/bluyelmonitor.jpg)
