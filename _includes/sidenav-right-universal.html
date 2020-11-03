@@ -16,13 +16,13 @@ ta-email-pre:
       <div class="text-center">
         {% if page.s-image %}
         <a class="usa-link" href="{{ site.baseurl }}{{ page.s-url }}">
-        <img class="maxh-15" src="{{ site.baseurl }}{{ page.s-image }}" alt="">
+          {% asset {{page.s-image}} class="maxh-15" alt="" %}
         <span class="usa-button">{{ page.s-url-text }}</span>
         </a>
         {% endif %}
       </div>
       <div class="margin-top-2 text-center">
-        <img class="maxh-15" src="{{ site.baseurl }}/images/stock/question.svg" alt="">
+        {% asset stock/question.svg class="maxh-15" alt="" %}
         
         <div class="bg-primary-lighter text-center radius-bottom-lg">
           <h4 class="padding-1 bg-secondary-darker text-white">Technical Assistance</h4>
