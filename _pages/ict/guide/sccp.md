@@ -1,5 +1,12 @@
-Self Contained, Closed Products (1194.25)
------------------------------------------
+---
+title: Self Contained, Closed Products (1194.25)
+layout: page
+sidenav: false
+permalink: /ict/guide/sccp.html
+---
+
+# {{ page.title }}
+
 
 *Updated: August 1, 2001*
 
@@ -7,12 +14,22 @@ Self Contained, Closed Products (1194.25)
 
 **(a) Self contained products shall be usable by people with disabilities without requiring an end-user to attach assistive technology to the product. Personal headsets for private listening are not assistive technology.**
 
-**What are self contained, closed products?**\
-![calculator](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/calculator.jpg)Self contained closed products generally have embedded software and are commonly designed in such a fashion that a user cannot easily attach or install assistive technology. For example, one could attach a screen reader to a computer which meets the section 508 standards but one would not be expected to attach a screen reader to a copier machine. A copier machine is an example of a self-contained, closed product. Other examples include, ![credit card transaction machine](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/ccmachine.jpg)calculators, fax machines, information transaction machines, and information kiosks. Unlike other provisions which allow a product to meet the standards by being compatible with assistive technology, this provision requires self contained, closed products to contain built-in accessibility. Although not built-in, a headset is considered an allowable add-on, since it is not considered assistive technology in this case. Headsets might be used for privacy, not accessibility reasons.
+**What are self contained, closed products?**
+
+![calculator](./images/calculator.jpg)
+
+Self contained closed products generally have embedded software and are commonly designed in such a fashion that a user cannot easily attach or install assistive technology. For example, one could attach a screen reader to a computer which meets the section 508 standards but one would not be expected to attach a screen reader to a copier machine. A copier machine is an example of a self-contained, closed product. Other examples include, 
+calculators, fax machines, information transaction machines, and information kiosks. 
+
+![credit card transaction machine](./images/ccmachine.jpg)
+
+Unlike other provisions which allow a product to meet the standards by being compatible with assistive technology, this provision requires self contained, closed products to contain built-in accessibility. Although not built-in, a headset is considered an allowable add-on, since it is not considered assistive technology in this case. Headsets might be used for privacy, not accessibility reasons.
 
 * * * * *
 
-**(b)** **When a timed response is required, the user shall be alerted and **![Person on phone receiving audio message "You have 15 seconds to finish your message."](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/5mincall.jpg)**given sufficient time to indicate more time is required.**
+**(b)** **When a timed response is required, the user shall be alerted and ****given sufficient time to indicate more time is required.**
+
+![Person on phone receiving audio message "You have 15 seconds to finish your message."](./images/5mincall.jpg)
 
 This provision addresses access problems that can arise when self contained, closed products require a response from a user within a certain time. For example, persons with dexterity related disabilities would find entering information such as a social security number within a specified time difficult or impossible. This provision requires that a user be notified if a process is about to time-out and be given an opportunity to answer a prompt asking whether additional time is needed.
 
