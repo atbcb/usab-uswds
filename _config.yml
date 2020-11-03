@@ -188,7 +188,7 @@ defaults:
       image-directory: /images/ada-aba/standards/
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/guides/
-      s-url-text: "Guide to the ADA Standards"
+      s-url-text: "View ADA Guides"
       s-image: stock/guide.svg
       ta-text: "Contact the Access Board for guidance on these standards:"
       ta-email-pre: ta
@@ -204,7 +204,7 @@ defaults:
       image-directory: /images/ada-aba/guides/
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/
-      s-url-text: "ADA Standards"
+      s-url-text: "View ADA Standards"
       s-image: stock/ada.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
@@ -220,7 +220,7 @@ defaults:
       image-directory: /images/ada-aba/standards/
       right-sidenav: sidenav-right-universal.html
       s-url: /aba/guides/
-      s-url-text: "Guide to the ABA Standards"
+      s-url-text: "View ABA Guides"
       s-image: stock/guide.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
@@ -236,7 +236,7 @@ defaults:
       image-directory: /images/ada-aba/guides/
       right-sidenav: sidenav-right-universal.html
       s-url: /aba/
-      s-url-text: "Go to the ABA Standards"
+      s-url-text: "View ABA Standards"
       s-image: 
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
@@ -354,7 +354,7 @@ defaults:
       layout: standards
       image-directory: /images/
   - scope:
-      path: "#_staff"
+      path: "_staff"
     values:
       layout: profile
   - scope:

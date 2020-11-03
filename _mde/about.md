@@ -22,3 +22,7 @@ As issued by the Board, the standards are not mandatory on health care providers
 - December 6, 2013 -- The [MDE Accessibility Standards Advisory Committee submits its report](https://www.regulations.gov/document?D=ATBCB-2013-0009-0001) to the Board.
 
 - January 9, 2017 -- The Board issues [final standards for MDE](https://www.regulations.gov/document?D=ATBCB-2012-0003-0077).
+
+
+---
+

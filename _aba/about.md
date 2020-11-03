@@ -24,6 +24,10 @@ HUD has not yet adopted this version of the standards and continues to apply the
 
 The Access Board provides technical assistance and training on the ABA Standards and UFAS.  It also enforces the ABA Standards through the investigation of complaints.
 
+
+---
+
+
 ### Background
 
 - August 4, 1982 -- The Board publishes the minimum guidelines under the ABA. 
@@ -47,12 +51,19 @@ The Access Board provides technical assistance and training on the ABA Standards
 - September 26, 2014 -- The Board issues a [correction](https://www.regulations.gov/document?D=ATBCB-2012-0004-0041) to final guidelines for emergency transportable housing.
 
 
-### Technical Assistance
 
-Contact the Access Board for guidance on these standards:
+---
 
-800-872-2253 (v)
 
-800-993-2822 (TTY)
+## Guide to the ABA Standards
+The US Access Board has developed guides to the ABA Standards.
 
-[ta@access-board.gov](mailto:ta@access-board.gov)
+{%
+    include big-button.html
+    link= "/aba/guides/"
+    text= "View ABA Guides"
+%}
+
+
+---
+
