@@ -71,8 +71,8 @@ unless otherwise noted) below. Small measurements show the dimension
 with an arrow pointing to the dimension line. Dimension ranges are shown
 above the line in inches and below the line in millimeters. (Min( refers
 to minimum, and (max( refers to the maximum. Mathematical symbols
-indicate (greater than,( "greater than or equal to," (less than,( and
-"less than or equal to." A dashed line identifies the boundary of clear
+indicate (greater than,( \"greater than or equal to,\" (less than,( and
+\"less than or equal to.\" A dashed line identifies the boundary of clear
 floor space or maneuvering space. A line with alternating shot and long
 dashes with a (c( and (l( at the end indicate the centerline. A dashed
 line with longer spaces indicates a permitted element or its extension.

@@ -16,7 +16,7 @@ ta-email-pre:
       <div class="text-center">
         {% if page.s-image %}
         <a class="usa-link" href="{{ site.baseurl }}{{ page.s-url }}">
-        <img class="maxh-15" src="{{ site.baseurl }}{{ page.s-image }}" alt="">
+          {% asset {{page.s-image}} class="maxh-15" alt="" %}
         <span class="usa-button">{{ page.s-url-text }}</span>
         </a>
         {% endif %}

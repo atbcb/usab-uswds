@@ -2,6 +2,7 @@
 title: "About"
 order-number: 0
 permalink: /prowag/
+file: /files/prowag/PROW-SUP-SNPRM-2013.pdf
 redirect_from:
     - /guidelines-and-standards/streets-sidewalks/public-rights-of-way
     - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines
