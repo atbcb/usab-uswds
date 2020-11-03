@@ -2,7 +2,7 @@
 title: Developing Accessible Software Tutorial 
 layout: page
 sidenav: false
-permalink: /ict/guide/computer.html
+permalink: /ict/guide/software_tutorial.html
 ---
 
 # {{ page.title }}
