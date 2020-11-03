@@ -2,7 +2,7 @@
 title: Scope
 layout: page
 sidenav: false
-permalink: /ict/guide/Scope.html
+permalink: /ict/guide/scope.html
 ---
 
 # {{ page.title }}
