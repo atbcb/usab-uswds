@@ -1,5 +1,11 @@
-Scope
------
+---
+title: Scope
+layout: page
+sidenav: false
+permalink: /ict/guide/Scope.html
+---
+
+# {{ page.title }}
 
 Updated: June 21, 2001
 
