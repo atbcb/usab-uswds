@@ -67,6 +67,9 @@ Finally, yet another way of providing a textual description is to include it in 
 Below is a picture of me during my great vacation!\
 <p>\
 <IMG src="/pictureofme.jpg">
+  
+  <p>
+<IMG src="/pictureofme.jpg">
 
 * * * * *
 
