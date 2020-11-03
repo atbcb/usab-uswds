@@ -1,5 +1,11 @@
-Telecommunications Products (1194.23)
--------------------------------------
+---
+title: Telecommunications Products (1194.23) 
+layout: page
+sidenav: false
+permalink: /ict/guide/telecommunications.html
+---
+
+# {{ page.title }}
 
 Updated: June 21, 2001
 
@@ -11,7 +17,9 @@ Section 255 of the Telecommunications Act of 1996 requires phone manufacturers a
 
 **(a) Telecommunications products or systems which provide a function allowing voice communication and which do not themselves provide a TTY functionality shall provide a standard non-acoustic connection point for TTYs. Microphones shall be capable of being turned on and off to allow the user to intermix speech with TTY use.**
 
-**What is a TTY?**![image of a TTY](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/blacktty.jpg)\
+**What is a TTY?**
+![image of a TTY](./images/blacktty.jpg)\
+
 A TTY (Teletypewriter) is a data terminal that allows a person with a communication disability to use the telephone. TTYs traditionally have been stand-alone devices with a keyboard and an electronic display for reading text. TTYs send and receive tones which are converted to text. TTYs transmit and receive baudot code at a rate of 45.5 baud. Baudot refers to the code made from bits of electronic information. Baudot is considered to be an antiquated code. Baud refers to the speed at which data can be transmitted. Some TTYs may transmit at a faster speed using proprietary protocols or ASCII. ASCII (American Standard Code for Information Interchange) is a more conventional code, commonly used by computers and other devices that transmit data.
 
 It is possible to enable some computers to function as TTYs if appropriate communication software (and sometimes a different modem) is installed. Some TTYs can connect directly to the phone or phone line, thus reducing the possibility of noise interfering with the data. Depending on the type of phone, a TTY might connect via a standard RJ-11 phone jack or a 2.5 mm audio jack. A variety of TTY styles exist that include models without acoustic coupling ability and models without keyboards. People select and use TTYs differently depending on their communication preferences and the nature of their disabilities. Basic information on how to use a TTY can be obtained here.
@@ -20,7 +28,9 @@ It is possible to enable some computers to function as TTYs if appropriate commu
 
 VCO is "voice carry over" and HCO is "hearing carry over". These terms refer to strategies for using TTYs. VCO allows people who are hard of hearing or oral deaf (deaf with intelligible speech) to use a TTY without typing. They only use the TTY for reading during the inbound direction of the call. They talk to their party by speaking into a microphone. Similarly, HCO allows a person with a speech disability to hear a response from their party directly. These options are often used in conjunction with a relay service.
 
-![Image of three people representing the relay service: Callers and the Communications Assistant](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/triplet.jpg)**What is a relay service?**
+![Image of three people representing the relay service: Callers and the Communications Assistant](./images/triplet.jpg)
+
+**What is a relay service?**
 
 A telecommunications relay service (TRS) is essentially a telephone interpreting service for people with communication disabilities. It enables a TTY user to converse with a non-TTY user. Relay service operators are called Communication Assistants (CAs) and serve as third parties to facilitate conversations - by typing or speaking information as appropriate. Relay services are available without charge 24 hours per day. These and other TRS provisions are mandated under Title IV of the Americans with Disabilities Act. An FCC report and order mandates 7-1-1 as a toll-free number to use in accessing a relay service. The Federal Relay Service is one of several relay services available throughout the country.
 
@@ -28,7 +38,9 @@ A telecommunications relay service (TRS) is essentially a telephone interpreting
 
 Traditionally, people with communication disabilities used a TTY by placing a telephone handset in an acoustic modem on top of the TTY. Some manufacturers reduced the size of their TTY by removing the acoustic modem, thus requiring the TTY to connect directly to a telephone or wall jack. Therefore, if a new phone system has hardwired cords with no port for direct connection, then a direct connect TTY cannot be used at that phone and the phone will be considered non-conforming with this section 508 provision.
 
-![photo of a man using a microhone while looking at computer screen](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/phonereader.jpg)**Why must phone systems be capable of intermixing speech and TTY tones and why must users be able to turn microphones on and off?**
+![photo of a man using a microhone while looking at computer screen](./images/phonereader.jpg)
+
+**Why must phone systems be capable of intermixing speech and TTY tones and why must users be able to turn microphones on and off?**
 
 This provision supports VCO and HCO. People with communication disabilities have reported instances in which they connected a TTY to a cellular phone, which resulted in a deactivation of the telephone's microphone. In those cases, there was no way to talk into the phone (no way to turn the microphone on). This is frustrating to people with a hearing disability and intelligible speech who prefer to talk instead of type.
 
@@ -40,7 +52,9 @@ On the other extreme, some TTY-phone set-ups keep a microphone on throughout the
 
 At this time, TTYs do not work reliably with most digital **cellular** phones. The industry is working toward a solution on this matter through an FCC order which set a deadline of June 30, 2002 for wireless providers to be able to transmit 911 calls made from TTYs.
 
-![analog and coaxial wall jacks ](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/jacks.jpg)With regard to landline phones, most digital phones from offices or hotels will transmit TTY signals. If a TTY is use in an acoustic mode, then it does not matter whether it is being used with analog or digital phones. However, direct-connect TTYs should only be connected to analog phones to prevent damage to the TTYs. TTYs use analog plugs. Users may experience some confusion in determining whether a phone is analog or digital because of variances in the jacks. Digital jacks are often larger than standard RJ-11 analog plugs, but sometimes they are the same size. Finally, it is important that digital systems enable TTY signals to come out of the system undistorted if signals are compressed along the way.
+![analog and coaxial wall jacks ](./images/jacks.jpg)
+
+With regard to landline phones, most digital phones from offices or hotels will transmit TTY signals. If a TTY is use in an acoustic mode, then it does not matter whether it is being used with analog or digital phones. However, direct-connect TTYs should only be connected to analog phones to prevent damage to the TTYs. TTYs use analog plugs. Users may experience some confusion in determining whether a phone is analog or digital because of variances in the jacks. Digital jacks are often larger than standard RJ-11 analog plugs, but sometimes they are the same size. Finally, it is important that digital systems enable TTY signals to come out of the system undistorted if signals are compressed along the way.
 
 * * * * *
 
@@ -62,7 +76,9 @@ Some TTY manufacturers developed proprietary protocols that enable TTYs to commu
 
 **(c)Voice mail, auto-attendant, and interactive voice response telecommunications systems shall be usable by TTY users with their TTYs.**
 
-![TTY with the text "Press One for Publications..." on its screen](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/VCOdevice.jpg)**What difficulties have TTY experienced with interactive voice response systems (IVRSs)?**
+![TTY with the text "Press One for Publications..." on its screen](./images/VCOdevice.jpg)
+
+**What difficulties have TTY users experienced with interactive voice response systems (IVRSs)?**
 
 IVRSs include a variety of systems such as voice mail, recordings that require selecting a department you wish to connect to and job line announcements. Due to a hearing disability, many TTY users cannot understand prompts indicating which phone buttons to push when encountering IVRSs. Often when calling through relay services, TTY users are not given enough time to respond and get timed-out by the IVRS. Auditory information when typed to a TTY user via relay may not include necessary spacing or punctuation to help a consumer understand sections of what is being conveyed. TTY users have discovered that some voice mail systems corrupt TTY data left in voice mail boxes.
 
@@ -72,7 +88,7 @@ This provision is a performance requirement. It does not require phone systems t
 
 * * * * *
 
-**(d) Voice mail, messaging, auto-attendant, and interactive voice response telecommunications systems that require a response from a user within a time interval, shall give an alert when the time interval is about to run out, and shall provide sufficient time for the user to indicate more time is required.**![Person on phone receiving audio message "You have 15 seconds to finish your message."](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/5mincall.jpg)
+**(d) Voice mail, messaging, auto-attendant, and interactive voice response telecommunications systems that require a response from a user within a time interval, shall give an alert when the time interval is about to run out, and shall provide sufficient time for the user to indicate more time is required.**![Person on phone receiving audio message "You have 15 seconds to finish your message."](./images/5mincall.jpg)
 
 **Why is an alert necessary?**
 
@@ -82,7 +98,9 @@ This provision was included to serve the needs of people, such as those with cog
 
 **(e)Where provided, caller identification and similar telecommunications functions shall also be available for users of TTYs, and for users who cannot see displays.**
 
-![Talking ID box with a spoken word bubble. The phone number and caller name are in the bubble (505-555-2964, Robert Johnson).](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/talkingid.jpg)**What types of challenges have people with disabilities experienced with information displayed on phones?**
+![Talking ID box with a spoken word bubble. The phone number and caller name are in the bubble (505-555-2964, Robert Johnson).](./images/talkingid.jpg)
+
+**What types of challenges have people with disabilities experienced with information displayed on phones?**
 
 Some phones have an LCD (liquid crystal display) window that shows Caller ID or other functions of the phone. People with visual or other disabilities may be unable to read the display. Talking Caller ID would be one means of making that information available in an alternate format.
 
@@ -116,7 +134,9 @@ The provision is adopted from the ADA Accessibility Guidelines (ADAAG), where it
 
 **(h) Where a telecommunications product delivers output by an audio transducer which is normally held up to the ear, a means for effective magnetic wireless coupling to hearing technologies shall be provided.**
 
-![hearing aid compatibility (HAC) phone](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/handset.jpg)**What is hearing aid compatibility (HAC)?**
+![hearing aid compatibility (HAC) phone](./images/handset.jpg)
+
+**What is hearing aid compatibility (HAC)?**
 
 HAC commonly refers to magnetic leakage around a telephone receiver. Hearing aid users desire a phone that emits such a magnetic field because it enables them to listen through a phone handset held up to their ear without getting an annoying squealing sound (acoustic feedback). They accomplish this by turning off their hearing aid microphone and listening "inductively" (via magnetism).
 
@@ -173,7 +193,10 @@ This provision applies to any technologies involved with the transmission of inf
 This provision only applies to products that have mechanically operated controls or keys, such as standard telephone keypads and computer keyboards. It is not intended to apply to touchscreens.
 
 **What is meant by 'tactilely discernible'?**\
-![close-up of "J" key and surrounding keys of keyboard](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/keyboard.jpg) Individual keys must be identifiable and distinguishable from adjacent keys by touch. Compliance with this provision can be accomplished by using various shapes, spacing, or tactile markings. The normal desktop computer keyboard, for example, would meet this provision because the tactile marks on the "j" and "f" keys permit a user to locate all other keys tactilely. Many phones also have a raised dot on the number 5 button, enabling them to orient their fingers around the 12 keys. In addition, the physical spacing of the function, "numpad" and cursor keys make them easy to locate by touch.
+
+![close-up of "J" key and surrounding keys of keyboard](./images/keyboard.jpg) 
+
+Individual keys must be identifiable and distinguishable from adjacent keys by touch. Compliance with this provision can be accomplished by using various shapes, spacing, or tactile markings. The normal desktop computer keyboard, for example, would meet this provision because the tactile marks on the "j" and "f" keys permit a user to locate all other keys tactilely. Many phones also have a raised dot on the number 5 button, enabling them to orient their fingers around the 12 keys. In addition, the physical spacing of the function, "numpad" and cursor keys make them easy to locate by touch.
 
 Because touch is necessary to discern tactile features, this provision requires keyboards to enable touch that does not automatically activate a function based on mere contact. Fortunately most keyboards require some pressure on individual keys in order to enable a keystroke.
 
