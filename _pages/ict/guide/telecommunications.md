@@ -18,7 +18,7 @@ Section 255 of the Telecommunications Act of 1996 requires phone manufacturers a
 **(a) Telecommunications products or systems which provide a function allowing voice communication and which do not themselves provide a TTY functionality shall provide a standard non-acoustic connection point for TTYs. Microphones shall be capable of being turned on and off to allow the user to intermix speech with TTY use.**
 
 **What is a TTY?**
-![image of a TTY](./images/blacktty.jpg)\
+![image of a TTY](./images/blacktty.jpg)
 
 A TTY (Teletypewriter) is a data terminal that allows a person with a communication disability to use the telephone. TTYs traditionally have been stand-alone devices with a keyboard and an electronic display for reading text. TTYs send and receive tones which are converted to text. TTYs transmit and receive baudot code at a rate of 45.5 baud. Baudot refers to the code made from bits of electronic information. Baudot is considered to be an antiquated code. Baud refers to the speed at which data can be transmitted. Some TTYs may transmit at a faster speed using proprietary protocols or ASCII. ASCII (American Standard Code for Information Interchange) is a more conventional code, commonly used by computers and other devices that transmit data.
 
@@ -88,7 +88,9 @@ This provision is a performance requirement. It does not require phone systems t
 
 * * * * *
 
-**(d) Voice mail, messaging, auto-attendant, and interactive voice response telecommunications systems that require a response from a user within a time interval, shall give an alert when the time interval is about to run out, and shall provide sufficient time for the user to indicate more time is required.**![Person on phone receiving audio message "You have 15 seconds to finish your message."](./images/5mincall.jpg)
+**(d) Voice mail, messaging, auto-attendant, and interactive voice response telecommunications systems that require a response from a user within a time interval, shall give an alert when the time interval is about to run out, and shall provide sufficient time for the user to indicate more time is required.**
+
+![Person on phone receiving audio message "You have 15 seconds to finish your message."](./images/5mincall.jpg)
 
 **Why is an alert necessary?**
 
@@ -192,7 +194,7 @@ This provision applies to any technologies involved with the transmission of inf
 
 This provision only applies to products that have mechanically operated controls or keys, such as standard telephone keypads and computer keyboards. It is not intended to apply to touchscreens.
 
-**What is meant by 'tactilely discernible'?**\
+**What is meant by 'tactilely discernible'?**
 
 ![close-up of "J" key and surrounding keys of keyboard](./images/keyboard.jpg) 
 
