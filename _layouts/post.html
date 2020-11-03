@@ -3,36 +3,26 @@ layout: default
 ---
 
 {% comment %}
-This is used in blog posts. The index page can be found at blog/index.html
+This is used in news and webinar posts. The index page can be found at _news/index.html and _webinars/index.html
 {% endcomment %}
 <div class="grid-container usa-section maxw-desktop">
   <div class="grid-row">
     <div class="desktop:grid-col-8 usa-prose padding-right-4">
       <h1 class="title">{{page.title}}</h1>
-      <div class="margin-bottom-2"> {% comment %}
-        <div class="margin-top-neg-105"> By
-          {% for author in page.authors %}
-            {% include staff-link.html staff=author %}
-          {% endfor %}
-          {{ page.date | date: '%B %d, %Y' }}
-        </div>
-        {% endcomment %}
-        {% if page.webinar == true %}
-          {% assign today_date = 'now' | date: '%s' %}
-          {% assign webinar_date = page.webinar-start | date: '%s' %}
-          {% if webinar_date > today_date %}
-            <div class="margin-top-neg-105">
+      <div class="margin-bottom-2">
+        <div class="margin-y-2">
+          <span class="text-bold">{{ page.date | date: '%B %d, %Y' }}</span>
+          {% if page.authors %}
+            <br>
+            <span>By {% for author in page.authors %}{% include staff.html staff=author %}{% endfor %}</span>
+          {% endif %}
+          {% if page.webinar == true %}
+            {% assign today_date = 'now' | date: '%s' %}
+            {% assign webinar_date = page.date | date: '%s' %}
+            {% if webinar_date > today_date %}
               {% if page.webinar-start %}
-                <span class="text-italic">
-                  {{ page.webinar-start | date: '%B %d, %Y' }}
-                </span>
                 <br>
-                <span class="text-italic">
-                  Presentation Time: {{ page.webinar-start | date: '%I:%M %p' }}
-                  {% if page.webinar-end %}
-                    - {{ page.webinar-end | date: '%I:%M %p' }}
-                  {% endif %}
-                </span>
+                <span class="text-bold text-italic">{{ page.webinar-start | date: '%I:%M %p' }}{% if page.webinar-end %} - {{ page.webinar-end | date: '%I:%M %p' }}{% endif %}</span>
               {% endif %}
               {% if page.registration-link %}
                 <br>
@@ -40,21 +30,16 @@ This is used in blog posts. The index page can be found at blog/index.html
                   <a href="{{ page.registration-link }}">Registration Link</a>
                 </span>
               {% endif %}
-            </div>
-          {% else %}
-            <div class="margin-top-neg-105">
-              <span>
-                Presented on: {{ page.webinar-start | date: '%B %d, %Y' }}
-              </span>
+            {% else %}
+              <span>Presented on: {{ page.date | date: '%B %d, %Y' }}</span>
               {% if page.video-link %}
                 <br>
-                <span>
-                  <a href="{{ page.video-link }}">Watch recorded webinar</a>
-                </span>
+                <span><a href="{{ page.video-link }}">Watch recorded webinar</a></span>
               {% endif %}
-            </div>
+            {% endif %}
           {% endif %}
-        {% endif %}
+        </div>
+
         <div>
           {{ content }}
         </div>

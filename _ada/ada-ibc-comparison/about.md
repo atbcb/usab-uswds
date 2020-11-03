@@ -1,7 +1,7 @@
 ---
 title: "Comparison between the ADA and IBC"
-layout: standards
-collection-folder: ada-ibc-comparison
+toc: /toc/auto.html
+toc-group: ada-ibc
 permalink: /ada/ada-ibc-comparison/
 order-number: 0
 version: original

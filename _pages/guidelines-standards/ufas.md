@@ -3,7 +3,7 @@ title: UFAS, 1984
 permalink: /ufas.html
 layout: universal
 banner-title: Uniform Federal Accessibility Standards
-toc: toc-auto.html
+toc: /toc/auto.html
 toc-group: ufas
 file: /files/ufas/ufas.pdf
 file-description: PDF version of UFAS, 7–1–97 Edition

@@ -1,7 +1,7 @@
 ---
 title: "Introduction to the ADA standards"
 permalink: /ada/intro.html
-layout: universal
+toc: /toc/auto.html
 toc-group: ada
 order-number: 1
 version: original

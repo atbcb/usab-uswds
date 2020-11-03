@@ -140,12 +140,6 @@ collections:
   prowag-rulemaking:
     output: true
     permalink: /prowag/rulemaking:path/
-  ada-ibc-comparison:
-    output: true
-    permalink: /ada/background/ada-ibc-comparison/:path/
-  ada-background:
-    output: true
-    permalink: /ada/background/:path/
   ada-vehicles:
     output: true
     permalink: /ada/vehicles/:path/
@@ -189,8 +183,8 @@ defaults:
       banner-title: "Americans with Disabilities Act"
       banner-subtitle: "Accessibility Standards"
       collection-folder: ada
+      toc-group: ""
       layout: universal
-      toc: toc-ada.html
       image-directory: /images/ada-aba/standards/
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/guides/
@@ -205,7 +199,8 @@ defaults:
       banner-title: "Guide to the ADA Accessibility Standards"
       collection-folder: ada-guides
       layout: universal
-      toc: toc-auto.html
+      toc: "/toc/auto.html"
+      toc-group: ""
       file-directory: /files/ada-aba/guides/ada/
       image-directory: /images/ada-aba/guides/
       right-sidenav: sidenav-right-universal.html
@@ -214,14 +209,14 @@ defaults:
       s-image: /images/stock/ada.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
-
   - scope:
       path: ""
       type: "aba"
     values:
       banner-title: "Architectural Barriers Act"
       banner-subtitle: "Accessibility Standards"
-      toc: toc-auto.html
+      toc: "/toc/auto.html"
+      toc-group: ""
       collection-folder: aba
       layout: universal
       image-directory: /images/ada-aba/standards/
@@ -237,7 +232,8 @@ defaults:
     values:
       banner-title: "Guide to the ABA"
       banner-subtitle: "Accessibility Standards"
-      toc: toc-auto.html
+      toc: "/toc/auto.html"
+      toc-group: ""
       collection-folder: aba-guides
       layout: universal
       image-directory: /images/ada-aba/guides/
@@ -247,16 +243,6 @@ defaults:
       s-image: /images/stock/aba.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
-  - scope:
-      path: ""
-      type: "ada-background"
-    values:
-      collection-title: "ADA - Background, History and Archive"
-      collection-folder: ada-background
-      layout: data-sidenav
-      datafile: ada-background
-      file-directory: /files/ada-aba/background/
-      image-directory: /images/ada-aba/background/
   - scope:
       path: ""
       type: "prowag"
@@ -284,7 +270,8 @@ defaults:
       collection-title: "ADA Accessibility Guidelines for Vehicles"
       collection-folder: ada-vehicles
       layout: universal
-      toc: toc-auto.html
+      toc: "/toc/auto.html"
+      toc-group: ""
       file: /files/vehicles/vehicle-guidelines.pdf
       image-directory: /images/vehicles/
       right-sidenav: sidenav-right-universal.html
@@ -300,7 +287,7 @@ defaults:
       collection-title: "Guide to ADA Vehicles"
       collection-folder: ada-vehicles-guides
       layout: universal
-      toc: toc-auto.html
+      toc: "/toc/auto.html"
       toc-group: ada-vehicles-guides
       image-directory: /images/vehicles/
       right-sidenav: sidenav-right-universal.html
@@ -317,7 +304,8 @@ defaults:
       banner-subtitle: "Revised 508 Standards and 255 Guidelines"
       collection-folder: ict
       layout: universal
-      toc: toc-ict.html
+      toc: /toc/ict.html
+      toc-group: ""
       file-directory: /files/ict/
       image-directory: /images/ict/
       right-sidenav: sidenav-right-universal.html
@@ -352,7 +340,8 @@ defaults:
       collection-title: "Research"
       collection-folder: research
       layout: universal
-      toc: toc-auto.html
+      toc: "/toc/auto.html"
+      toc-group: ""
   - scope:
       path: ""
       type: "es"
@@ -441,8 +430,8 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
-  # Uncomment below to speed up dev build times
-  # - _ada*
+  # - _ada
+  # - _ada-guides
   # - _prowag*
   # - _aba*
   # - _research*

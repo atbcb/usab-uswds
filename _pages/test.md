@@ -2,7 +2,7 @@
 title:  Test File
 layout: universal
 right-sidenav: false
-toc: toc-auto.html
+toc: /toc/auto.html
 toc-group: test
 order-number: 1
 permalink: /test.html
