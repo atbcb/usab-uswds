@@ -1,5 +1,12 @@
-Developing Accessible Software Tutorial
----------------------------------------
+---
+title: Developing Accessible Software Tutorial 
+layout: page
+sidenav: false
+permalink: /ict/guide/computer.html
+---
+
+# {{ page.title }}
+
 
 **Creating An Accessible Program, SFCalculator**
 
