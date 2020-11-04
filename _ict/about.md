@@ -3,6 +3,7 @@ title: "About the ICT Accessiblity 508 Standards and 255 Guidelines"
 permalink: /ict/about.html
 version: original
 redirect_from:
+    - /guidelines-and-standards/communications-and-it/about-the-section-508-standards/
     - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/
     - /508/
 ---
