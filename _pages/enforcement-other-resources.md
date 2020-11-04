@@ -124,7 +124,7 @@ _Note:_  For programs or services related to public transportation, see [Trans
 
 ### Federally Funded Programs and Services
 
-Section 504 of the Rehabilitation Act states that "no qualified individual with a disability in the United States shall be excluded from, denied the benefits of, or be subjected to discrimination under" any program or activity that either receives federal financial assistance or is conducted by any Executive agency or the United States Postal Service. Each federal agency has its own set of Section 504 regulations that apply to its own programs.  See the [Section 504 Contact List]({{ site.baseurl }}/enforcement/504contacts.html).
+Section 504 of the Rehabilitation Act states that "no qualified individual with a disability in the United States shall be excluded from, denied the benefits of, or be subjected to discrimination under" any program or activity that either receives federal financial assistance or is conducted by any Executive agency or the United States Postal Service. Each federal agency has its own set of Section 504 regulations that apply to its own programs.  See the [Section 504 Contact List]({{ site.baseurl }}/504-contacts/).
 
 ## Transportation
 

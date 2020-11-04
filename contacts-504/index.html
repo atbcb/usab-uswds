@@ -1,19 +1,11 @@
 ---
-layout: default
+layout: page
 permalink: /504-contacts/
+banner-title: Section 504 Contacts
 ---
 
-<div id="blog" class="bg-primary-darker usa-content font-serif-lg padding-y-6">
-  <div class="grid-container">
-    <h1 class="text-normal text-white margin-0">Section 504 Contacts</h1>
-    <p class="text-base-lighter display-block padding-top-1 text-light">
-       Contacts at other federal agencies responsible for Section 504 compliance.
-    </p>
-  </div>
-</div>
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="desktop:grid-col-8 usa-prose padding-right-4">
+
+<h2 class="text-center">Contacts at other federal agencies responsible for Section 504 compliance.</h2>
       <!-- This loops through the paginated posts -->
       {% for contact in site.contacts-504 %}
       <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
@@ -22,17 +14,17 @@ permalink: /504-contacts/
           {{contact.contact}}<br>
           {{contact.job-title}}<br>
           {{contact.department}}<br>
-          <a href="mailto:{{contact.email}}">{{contact.email}}</a><br>
+          <a href="mailto:{{contact.email}}">{{contact.email}}</a>
+        </p>
+        <p>
           Direct Phone: {{contact.phone}}<br>
           General Phone: {{contact.phone-g}}<br>
           TTY: {{contact.tty}}<br>
           Fax: {{contact.fax}}<br>
           General Email: <a href="mailto:{{contact.email-g}}">{{contact.email-g}}</a><br>
-          <a href="{{contact.website}}">{{contact.website}}</a><br>
-          {{contact.address}}<br>
+          Website: <a href="{{contact.website}}">{{contact.website}}</a><br>
+          Address: {{contact.address}}<br>
         </p>
       </div>
       {% endfor %}
-    </div>
-  </div>
-</div>
+
