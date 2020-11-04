@@ -240,7 +240,7 @@ defaults:
       right-sidenav: sidenav-right-universal.html
       s-url: /aba/
       s-url-text: "View ABA Standards"
-      s-image: 
+      s-image: stock/aba.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
   - scope:
@@ -296,7 +296,7 @@ defaults:
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/vehicles/
       s-url-text: "Go to ADA Vehicles"
-      s-image: stock/guide.svg
+      s-image: stock/ada-vehicles.svg
       ta-text: Contact the Access Board for assistance on these guidelines
       ta-email-pre: ta
   - scope:
