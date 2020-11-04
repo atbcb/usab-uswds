@@ -199,7 +199,8 @@ defaults:
       banner-title: "Guide to the ADA Accessibility Standards"
       collection-folder: ada-guides
       layout: universal
-      toc: "/toc/auto.html"
+      toc: /toc/auto.html
+      toc-group: ada-guides
       file-directory: /files/ada-aba/guides/ada/
       image-directory: /images/ada-aba/guides/
       right-sidenav: sidenav-right-universal.html
@@ -214,7 +215,8 @@ defaults:
     values:
       banner-title: "Architectural Barriers Act"
       banner-subtitle: "Accessibility Standards"
-      toc: "/toc/auto.html"
+      toc: /toc/auto.html
+      toc-group: ""
       collection-folder: aba
       layout: universal
       image-directory: /images/ada-aba/standards/
@@ -230,7 +232,8 @@ defaults:
     values:
       banner-title: "Guide to the ABA"
       banner-subtitle: "Accessibility Standards"
-      toc: "/toc/auto.html"
+      toc: /toc/auto.html
+      toc-group: aba-guides
       collection-folder: aba-guides
       layout: universal
       image-directory: /images/ada-aba/guides/
