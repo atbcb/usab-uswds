@@ -1,6 +1,6 @@
 ---
 title: UFAS, 1984
-permalink: /ufas.html
+permalink: /aba/ufas.html
 layout: universal
 banner-title: Uniform Federal Accessibility Standards
 toc: /toc/auto.html
