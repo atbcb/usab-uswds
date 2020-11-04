@@ -2,7 +2,7 @@
 title: Trainings
 layout: page
 sidenav: false
-permalink: /trainings/about/
+permalink: /trainings/about.html
 redirect_from: 
     - /training/
 ---
