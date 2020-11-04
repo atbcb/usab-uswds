@@ -4,6 +4,7 @@ permalink: /ict/about.html
 version: original
 redirect_from:
     - /guidelines-and-standards/communications-and-it/about-the-ict-refresh
+    - /508
 ---
 
 These standards address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. 
