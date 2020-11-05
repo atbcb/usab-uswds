@@ -31,7 +31,7 @@ HTML Source Code: `<img src="/art/logo-green.gif" alt="Access Board Logo">`
 
 The text information associated with a non-text element should, when possible, communicate the same information as its associated element. For example, when an image indicates an action, the action must be described in the text. The types of non-text elements requiring actual text descriptions are limited to those elements that provide information required for comprehension of content or those used to facilitate navigation. Web page authors often utilize transparent graphics for spacing. Adding a text description to these elements will produce unnecessary clutter for users of screen readers. For such graphics, an empty ALT attribute is useful.
 
-Example of source code: <IMG src="/transparent.gif" alt="">
+Example of source code: `<IMG src="/transparent.gif" alt="">`
 
 *What is meant by the term, non-text element?*
 
@@ -121,7 +121,7 @@ black background. If designers set up their pages to override user-defined style
 
 In general, the "safest" and most useful form of style sheets are "external" style sheets, in which the style rules are set up in a separate file. An example of an external style sheet is:
 
-Example of source code: <link rel=stylesheet type="text / css" href="/section508.css>
+Example of source code: `<link rel=stylesheet type="text / css" href="/section508.css>`
 
 * * * * *
 
@@ -154,11 +154,11 @@ Creating a basic client-side image map requires several steps:
 > `<img src="/navbar.gif" border="0" usemap="#Map">`  
 > `<map name="Map">`  
 > `<area shape="rect" coords="0,2,64,19" href="/general.html" alt="information about us" >`  
-> <area shape="rect" coords="65,2,166,20" href="/jobs.html" alt="job opportunities" >\
-> <area shape="rect" coords="167,2,212,19" href="/faq.html" alt="Frequently Asked Questions" >\
-> <area shape="rect" coords="214,2,318,21" href="/location.html" alt="How to find us" >\
-> <area shape="rect" coords="319,2,399,23" href="/contact.html" alt="How to contact us" >\
-> </map>
+> `<area shape="rect" coords="65,2,166,20" href="/jobs.html" alt="job opportunities" >`  
+> `<area shape="rect" coords="167,2,212,19" href="/faq.html" alt="Frequently Asked Questions" >`  
+> `<area shape="rect" coords="214,2,318,21" href="/location.html" alt="How to find us" >`  
+> `<area shape="rect" coords="319,2,399,23" href="/contact.html" alt="How to contact us" >`  
+> `</map>``
 
 * * * * *
 
@@ -187,17 +187,17 @@ scope="row"
 By simply adding this attribute, the text in that cell becomes associated with every cell in that row. While this technique dramatically improves the usability of a web page, using the scope attribute does not appear to interfere in any way with browsers that do not support the attribute.\
 *Example of source code* -- the following simple table summarizes the work schedule of three employees and demonstrates these principles.
 
-<table>\
-<tr>\
-<th>&nbsp;</th>\
-<th scope="col" >Spring</th> <th scope="col" >Summer</th> <th scope="col" >Autumn</th> <th scope="col" >Winter</th> </tr>\
-<tr> <td scope="row" >Betty</td> <td>9-5</td> <td>10-6</td> <td>8-4</td><td>7-3</td>\
-</tr>\
-<tr> <td scope="row" >Wilma</td> <td>10-6</td> <td>10-6</td> <td>9-5</td> <td>9-5</td>\
-</tr>\
-<tr> <td scope="row" >Fred</td> <td>10-6</td> <td>10-6</td> <td>10-6</td> <td>10-6</td>\
-</tr>\
-</table>
+`<table>`  
+`<tr>`  
+`<th>&nbsp;</th>`  
+`<th scope="col" >Spring</th> <th scope="col" >Summer</th> <th scope="col" >Autumn</th> <th scope="col" >Winter</th> </tr>`  
+`<tr> <td scope="row" >Betty</td> <td>9-5</td> <td>10-6</td> <td>8-4</td><td>7-3</td`  
+`</tr>`  
+`<tr> <td scope="row" >Wilma</td> <td>10-6</td> <td>10-6</td> <td>9-5</td> <td>9-5</td>`  
+`</tr>`  
+`<tr> <td scope="row" >Fred</td> <td>10-6</td> <td>10-6</td> <td>10-6</td> <td>10-6</td>`  
+`</tr>`  
+`</table>`  
 
 This table would be displayed as follows:
 
@@ -215,34 +215,34 @@ Unlike using the "scope" attribute, using the "id" and "headers" attributes requ
 
 The following table is much more complicated than the previous example and demonstrates the use of the "id" and "headers" attributes and then the scope attribute. Both methods provide a means of complying with the requirements for data tables in web pages. The table in this example includes the work schedules for two employees. Each employee has a morning and afternoon work schedule that varies depending on whether the employee is working in the winter or summer months. The "summer" and "winter" columns each span two columns labeled "morning" and "afternoon." Therefore, in each cell identifying the work schedule, the user needs to be told the employee's name (Fred or Wilma), the season (Summer or Winter), and the shift (morning or afternoon).
 
-<table>\
-<tr>\
-<th>&nbsp;</th>\
-<th colspan="2" id="winter" >Winter</th>\
-<th colspan="2" id="summer" >Summer</th>\
-</tr>\
-<tr>\
-<th>&nbsp;</th>\
-<th id="am1" >Morning</th>\
-<th id="pm1" >Afternoon</th>\
-<th id="am2" >Morning</th>\
-<th id="pm2" >Afternoon</th>\
-</tr>\
-<tr>\
-<td id="wilma" >Wilma</td>\
-<td headers="wilma am1 winter" >9-11</td>\
-<td headers="wilma pm1 winter" >12-6</td>\
-<td headers="wilma am2 summer" >7-11</td>\
-<td headers="wilma pm2 summer" >12-3</td>\
-</tr>\
-<tr>\
-<td id="fred" >Fred</td>\
-<td headers="fred am1 winter" >10-11</td>\
-<td headers="fred pm1 winter" >12-6</td>\
-<td headers="fred am2 summer" >9-11</td>\
-<td headers="fred pm2 summer" >12-5</td>\
-</tr>\
-</table>
+`<table>`  
+`<tr>`  
+`<th>&nbsp;</th>`  
+`<th colspan="2" id="winter" >Winter</th>`  
+`<th colspan="2" id="summer" >Summer</th>`  
+`</tr>`  
+`<tr>`  
+`<th>&nbsp;</th>`  
+`<th id="am1" >Morning</th>`  
+`<th id="pm1" >Afternoon</th>`  
+`<th id="am2" >Morning</th>`  
+`<th id="pm2" >Afternoon</th>`  
+`</tr>`  
+`<tr>`  
+`<td id="wilma" >Wilma</td>`  
+`<td headers="wilma am1 winter" >9-11</td>`  
+`<td headers="wilma pm1 winter" >12-6</td>`  
+`<td headers="wilma am2 summer" >7-11</td>`  
+`<td headers="wilma pm2 summer" >12-3</td>`  
+`</tr>`  
+`<tr>`  
+`<td id="fred" >Fred</td>`  
+`<td headers="fred am1 winter" >10-11</td>`  
+`<td headers="fred pm1 winter" >12-6</td>`  
+`<td headers="fred am2 summer" >9-11</td>`  
+`<td headers="fred pm2 summer" >12-5</td>`  
+`</tr>`  
+`</table>`  
 
 This table would be displayed as follows:
 
@@ -253,34 +253,34 @@ This table would be displayed as follows:
 
 Coding each cell of this table with "id" and "headers" attributes is much more complicated than using the "scope" attribute shown below:
 
-<table>\
-<tr>\
-<th>&nbsp;</th>\
-<th colspan="2" scope="col" >Winter</th>\
-<th colspan="2" scope="col" >Summer</th>\
-</tr>\
-<tr>\
-<th>&nbsp;</th>\
-<th scope="col" >Morning</th>\
-<th scope="col" >Afternoon</th>\
-<th scope="col" >Morning</th>\
-<th scope="col" >Afternoon</th>\
-</tr>\
-<tr>\
-<td scope="row" >Wilma</td>\
-<td>9-11</td>\
-<td>12-6</td>\
-<td>7-11</td>\
-<td>12-3</td>\
-</tr>\
-<tr>\
-<td scope="row" >Fred</td>\
-<td>10-11</td>\
-<td>12-6</td>\
-<td>9-11</td>\
-<td>12-5</td>\
-</tr>\
-</table>
+`<table>` 
+`<tr>`  
+`<th>&nbsp;</th>`  
+`<th colspan="2" scope="col" >Winter</th>`  
+`<th colspan="2" scope="col" >Summer</th>`  
+`</tr>`  
+`<tr>`  
+`<th>&nbsp;</th>`  
+`<th scope="col" >Morning</th>`  
+`<th scope="col" >Afternoon</th>`  
+`<th scope="col" >Morning</th>`  
+`<th scope="col" >Afternoon</th>`  
+`</tr>`  
+`<tr>`  
+`<td scope="row" >Wilma</td>`  
+`<td>9-11</td>`  
+`<td>12-6</td>`  
+`<td>7-11</td>`  
+`<td>12-3</td>`  
+`</tr>`  
+`<tr>`  
+`<td scope="row" >Fred</td>`  
+`<td>10-11</td>`  
+`<td>12-6</td>`  
+`<td>9-11</td>`  
+`<td>12-5</td>`  
+`</tr>`  
+`</table>`  
 
 This table would be displayed as follows:
 
@@ -305,10 +305,10 @@ Frames provide a means of visually dividing the computer screen into distinct ar
 
 The most obvious way to accomplish this requirement is to include text within the body of each frame that clearly identifies the frame. For instance, in the case of the navigation bar, a web developer should consider putting words such as "Navigational Links" at the beginning of the contents of the frame to let all users know that the frame depicts navigational links. Providing titles like this at the top of the contents of each frame will satisfy these requirements. An additional measure that should be considered by agencies is to include meaningful text in the <frame> tag's "title" attribute. Although not currently supported by major manufacturers of assistive technology, the "title" attribute is part of the HTML 4.0 specification and was intended to let web developers include a description of the frame as a quote-enclosed string. Demonstrating the use of the "title" attribute requires a basic understanding of how frames are constructed. When frames are used in a web page, the first page that is loaded must include a <frameset> tag that encloses the basic layout of the frames on the page. Within the <frameset> tag, <frame> tags specify the name, initial contents, and appearance of each separate frame. Thus, the following example uses the "title" attribute to label one frame "Navigational Links Frame" and the second frame "Contents Frame."
 
-<frameset cols="30%, 60%">\
-<frame src="/navlinks.html" name="navlinks" title="Navigational Links Frame">\
-<frame src="/geninfo.html" name="contents_page" title="Contents Frame">\
-</frame>
+`<frameset cols="30%, 60%">`  
+`<frame src="/navlinks.html" name="navlinks" title="Navigational Links Frame">`  
+`<frame src="/geninfo.html" name="contents_page" title="Contents Frame">`  
+`</frame>`  
 
 While assistive technology does not yet widely support the "title" attribute, we recommend including this attribute in web pages using frames.
 
@@ -327,7 +327,7 @@ This provision is necessary because some individuals with photosensitive epileps
 
 *How can flashing or flickering elements be identified?*
 
-Flashing or flickering elements are usually added through technologies such as animated gif's, Java applets, or third-party plug-ins or applications. Java applets and third party plug-ins can be identified by the presence of <APPLET> or <OBJECT> tags. Animated gif's are images that download in a single file (like ordinary image files), but have content that changes over short periods of time. Like other images, however, they are usually incorporated through the use of the <IMG> tag.
+Flashing or flickering elements are usually added through technologies such as animated gif's, Java applets, or third-party plug-ins or applications. Java applets and third party plug-ins can be identified by the presence of `<APPLET>` or `<OBJECT>` tags. Animated gif's are images that download in a single file (like ordinary image files), but have content that changes over short periods of time. Like other images, however, they are usually incorporated through the use of the `<IMG>` tag.
 
 * * * * *
 
@@ -337,7 +337,7 @@ Flashing or flickering elements are usually added through technologies such as a
 
 Text-only pages must contain equivalent information or functionality as the primary pages. Also, the text-only page shall be updated whenever the primary page changes.
 
-Example HTML source code: <div ID="textonly"> <p><a HREF="../textonly/default.asp">Text Only</a> </p></div>
+Example HTML source code: `<div ID="textonly"> <p><a HREF="../textonly/default.asp">Text Only</a> </p></div>`  
 
 * * * * *
 
@@ -349,27 +349,28 @@ Web page authors have a responsibility to provide script information in a fashio
 
 *How can web developers comply with this provision?*
 
-Web developers working with JavaScript frequently use so-called JavaScript URL's as an easy way to invoke JavaScript functions. Typically, this technique is used as part of <a> anchor links. For instance, the following link invokes a JavaScript function called myFunction:
+Web developers working with JavaScript frequently use so-called JavaScript URL's as an easy way to invoke JavaScript functions. Typically, this technique is used as part of `<a>` anchor links. For instance, the following link invokes a JavaScript function called myFunction:
 
-<a href="javascript:myFunction();">Start myFunction</a>
+`<a href="javascript:myFunction();">Start myFunction</a>`
 
 This technique does not cause accessibility problems for assistive technology. A more difficult problem occurs when developers use images inside of JavaScript URL's without providing meaningful information about the image or the effect of the anchor link. For instance, the following link alsoinvokes the JavaScript function myFunction, but requires the user to click on an image instead of the text "Start myFunction":
 
-<a href="javascript:myFunction();"><img src="/myFunction.gif"></a>
+`<a href="javascript:myFunction();"><img src="/myFunction.gif"></a>`
 
-This type of link, as written, presents tremendous accessibility problems, but those problems can easily be remedied. The <img> tag, of course, supports the "alt" attribute that can also be used to describe the image and the effect of clicking on the link. Thus, the following revision remedies the accessibility problems created in the previous example:
+This type of link, as written, presents tremendous accessibility problems, but those problems can easily be remedied. The `<img>` tag, of course, supports the "alt" attribute that can also be used to describe the image and the effect of clicking on the link. Thus, the following revision remedies the accessibility problems created in the previous example:
 
-<a href="javascript:myFunction();"><img src="/myFunction.gif" alt="picture link for starting myFunction"></a>
+`<a href="javascript:myFunction();"><img src="/myFunction.gif" alt="picture link for starting myFunction"></a>`
 
-Another technique advocated by some developers is to use the "title" attribute of the <a> tag. For instance, the following example includes a meaningful description in a "title" attribute:
+Another technique advocated by some developers is to use the "title" attribute of the `<a>` tag. For instance, the following example includes a meaningful description in a "title" attribute:
 
-<a title="this link starts myFunction" href="javascript:myFunction();"><img src="/myFunction.gif"></a>
+`<a title="this link starts myFunction" href="javascript:myFunction();"><img src="/myFunction.gif"></a>`
 
 This tag is supported by some but not all assistive technologies. Therefore, while it is part of the HTML 4.0 specifications, authors should use the "alt" tag in the enclosed image.
 
 Finally, the browser's status line (at the bottom of the screen) typically displays the URL of any links that the mouse is currently pointing towards. For instance, if clicking on an anchor link will send the user to [http://www.usdoj.gov](http://www.usdoj.gov/), that URL will be displayed in the status line if the user's mouse lingers on top of the anchor link. In the case of JavaScript URL's, the status line can become filled with meaningless snips of script. To prevent this effect, some web developers use special "event handlers" such as onmouseover and onmouseout to overwrite the contents of the status line with a custom message. For instance, the following link will replace the content in the status line with a custom message "Nice Choice".
 
-<a href="javascript:myFcn();" onmouseover="status='Nice Choice'; return true;" onmouseout="status='';"><img src="/pix.gif"></a>
+`<a href="javascript:myFcn();" onmouseover="status='Nice Choice'; return true;" onmouseout="status='';"><img src="/pix.gif"></a>`
+
 
 This text rewritten into the status line is difficult or impossible to detect with a screen reader. Although rewriting the status line did not interfere with the accessibility or inaccessibility of the JavaScript URL, web developers should ensure that all important information conveyed in the status line also be provided through the "alt" attribute, as described above.
 
@@ -382,7 +383,7 @@ Web developers must exercise some caution when deciding which event handlers to 
 -   onMouseDown and onMouseUp -- The onMouseDown and onMouseUp event handlers each handle the two halves of clicking a mouse while over an element -- the process of (a) clicking down on the mouse button and (b) then releasing the mouse button. Like onDblClick, this tag should be used sparingly, if at all, by web developers because it is quite confusing. In most cases, developers should opt for the onClick event handler instead of onMouseDown.
 -   onMouseOver and onMouseOut -- These two event handlers are very popular on many web sites. For instance, so-called rollover gif's, which swap images on a web page when the mouse passes over an image, typically use both of these event handlers. These event handlers neither can be accessed by the mouse nor interfere with accessibility -- a screen reader simply bypasses them entirely. Accordingly, web designers who use these event handlers should be careful to duplicate the information (if any) provided by these event handlers through other means.
 -   onLoad and onUnload -- Both of these event handlers are used frequently to perform certain functions when a web page has either completed loading or when it unloads. Because neither event handler is triggered by any user interaction with an element on the page, they do not present accessibility problems.
--   onChange -- This event handler is very commonly used for triggering JavaScript functions based on a selection from within a <select> tag. Surprisingly, it presents tremendous accessibility problems for many commonly used screen readers and should be avoided. Instead, web developers should use the onClick event handler (associated with a link or button that is adjacent to a <select> tag) to accomplish the same functions.
+-   onChange -- This event handler is very commonly used for triggering JavaScript functions based on a selection from within a `<select>` tag. Surprisingly, it presents tremendous accessibility problems for many commonly used screen readers and should be avoided. Instead, web developers should use the onClick event handler (associated with a link or button that is adjacent to a <select> tag) to accomplish the same functions.
 -   onBlur and onFocus -- These event handlers are not commonly used in web pages. While they don't necessarily present accessibility problems, their behavior is confusing enough to a web page visitor that they should be avoided.
 
 * * * * *
@@ -395,7 +396,7 @@ While most web browsers can easily read HTML and display it to the user, several
 
 *How can plug-ins and applets be detected?*
 
-Plug-ins can usually be detected by examining a page's HTML for the presence of an <OBJECT> tag. Some plug-in manufacturers, however, may require the use of proprietary tags. Like plug-ins, applets can also be identified by the presence of an <OBJECT> tag in the HTML source for a web page. Also, an <APPLET> tag may also signal the inclusion of an applet in a web page.
+Plug-ins can usually be detected by examining a page's HTML for the presence of an `<OBJECT>`  tag. Some plug-in manufacturers, however, may require the use of proprietary tags. Like plug-ins, applets can also be identified by the presence of an `<OBJECT>` tag in the HTML source for a web page. Also, an `<APPLET>` tag may also signal the inclusion of an applet in a web page.
 
 * * * * *
 
