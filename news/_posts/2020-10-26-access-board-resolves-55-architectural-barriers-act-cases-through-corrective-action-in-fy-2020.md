@@ -7,18 +7,18 @@ date: '2020-10-26'
 excerpt: >-
   The Access Board was created in part to enforce the first federal law to
   address accessibility, the Architectural Barriers Act (ABA) of 1968. This law
-  requires access to . . .
+  requires access . . .
 tags:
   - enforcement
   - ABA
   - research
 featured: false
 ---
-The Access Board was created in part to enforce the first federal law to address accessibility, the \[Architectural Barriers Act of 1968 (ABA)]({{ site.baseurl }}/laws/aba.html). This law requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board also maintains the guidelines upon which the ABA Standards are based.
+The Access Board was created in part to enforce the first federal law to address accessibility, the [Architectural Barriers Act of 1968 (ABA)]({{ site.baseurl }}/laws/aba.html). This law requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board also maintains the guidelines upon which the ABA Standards are based.
 
 With passage of other laws, including the landmark Americans with Disabilities Act (ADA), the Board’s mission has expanded significantly. It is now responsible for developing and keeping up to date accessibility requirements for the wide array of facilities covered by the ADA, as well as for transportation vehicles and systems. It also issues standards for information and communication technology and for medical diagnostic equipment.
 
-Despite these other duties, the Board continues the important work of enforcing the ABA. We do this through the investigation of complaints from the public. \[Filing a complaint]({{ site.baseurl }}/enforcement/complaint.html) with the Board is easy to do and can be done through an [online form](https://cts.access-board.gov/formsiq/form.do?form_name=ABA%20Complaint%20Form%20-%20Facility%20Information). Complaints should include the name and address of the facility and a brief description of the access barriers or issues. Complaints can be filed anonymously.
+Despite these other duties, the Board continues the important work of enforcing the ABA. We do this through the investigation of complaints from the public. [Filing a complaint]({{ site.baseurl }}/enforcement/complaint.html) with the Board is easy to do and can be done through an [online form](https://cts.access-board.gov/formsiq/form.do?form_name=ABA%20Complaint%20Form%20-%20Facility%20Information). Complaints should include the name and address of the facility and a brief description of the access barriers or issues. Complaints can be filed anonymously.
 
 The first step of an investigation is to determine whether the facility at issue is covered by the ABA. If so, the next step is to determine whether the facility meets the applicable accessibility standard. If the facility is not subject to the ABA or if it meets the appropriate accessibility standard, the Board will advise the complainant of its findings. Some facilities are not covered by the ABA but by other laws such as the ADA, which is enforced by other agencies and the courts.
 
@@ -29,7 +29,9 @@ If the facility does not meet the applicable standard, the Board will work with 
 
 *U.S. Postal Facilities – 37 Resolved Cases*
 
-!\[US Mail logo]({{ site.baseurl }}/images/uploads/usmail.jfif "US Mail logo"){: .img-right}
+
+![US Mail logo]({{ site.baseurl }}/images/uploads/usmail.jfif "US Mail logo"){: .img-right}
+
 
 * **![US Mail logo](https://www.access-board.gov/images/News/usmail.JPG)U.S. Post Office (Cullman, Alabama):** The Postal Service took corrective action to adjust the manual opening force of two interior doors and two exterior doors.
 * **U.S. Post Office (Ketchikan, Alaska):** The Postal Service took corrective action to repair the automatic doors at the customer entrance.
@@ -70,7 +72,9 @@ If the facility does not meet the applicable standard, the Board will work with 
 
 *Military and Veterans Affairs Facilities – 10 Resolved Cases*
 
-!\[Military symbol]({{ site.baseurl }}/images/uploads/military.jfif "Military symbol"){: .img-right}
+
+![Military symbol]({{ site.baseurl }}/images/uploads/military.jfif "Military symbol"){: .img-right}
+
 
 * **![Military symbol](https://www.access-board.gov/images/News/military.JPG)Joint Base Elmendorf-Richardson (Anchorage, Alaska):** The Base’s command took corrective action to install an accessible parking space in a lot serving one of the buildings on base.
 * **United States Naval Base Ventura County, Building 1443 (Port Hueneme, California):** The Department of the Navy took corrective action to modernize and repair the elevator providing access to the building’s second floor.
@@ -85,7 +89,9 @@ If the facility does not meet the applicable standard, the Board will work with 
 
 *Recreation Facilities – 5 Resolved Cases*
 
-!\[parks symbol]({{ site.baseurl }}/images/uploads/parks.jfif "parks symbol"){: .img-right}
+
+![parks symbol]({{ site.baseurl }}/images/uploads/parks.jfif "parks symbol"){: .img-right}
+
 
 * **![parks symbol](https://www.access-board.gov/images/News/parks.JPG)Interpretive Center – Lewis and Clark National Historic Trail (Great Falls, Montana):** The U.S. Forest Service installed an assistive listening system in the auditorium/theater in this facility.
 * **Three complaints concerning the Rockaway Boardwalk (Far Rockaway, New York):** The New York City Department of Parks and Recreation took corrective action to install access ramps at two different locations on the Rockaway Boardwalk, which had been rebuilt following Superstorm Sandy using funds from federal grants.
@@ -93,10 +99,10 @@ If the facility does not meet the applicable standard, the Board will work with 
 
 *Other Facilities – 3 Resolved Cases*
 
-!\[federal government symbol]({{ site.baseurl }}/images/uploads/federal.jfif "federal government symbol"){: .img-right}
+
+![federal government symbol]({{ site.baseurl }}/images/uploads/federal.jfif "federal government symbol"){: .img-right}
+
 
 * **![federal government symbol](https://www.access-board.gov/images/News/federal.JPG)United States Customs and Immigration Service (Baltimore, Maryland):** The building’s lessor, in consultation with the General Services Administration, took voluntary corrective action to install a soap dispenser at the accessible lavatory in one of the building’s toilet rooms.
 * **Public sidewalk (Wilson, North Carolina):** The City of Wilson installed a curb ramp at a public sidewalk that had been constructed using funds from a Department of Transportation grant.
 * **Central Puget Sound Regional Transit Authority (Seattle, Washington):** The Authority, commonly referred to as Sound Transit, installed an accessible parking space in an employee lot serving one of its buildings – a building which had been constructed using funds from a Department of Transportation grant.
-
-<!--EndFragment-->
