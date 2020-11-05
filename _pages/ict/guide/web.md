@@ -60,12 +60,12 @@ applet called MyCoolApplet in a web page, and also include a description that th
 
 This applet displays current stock prices for many popular stocks.
 
-</APPLET>
+`</APPLET>`
 
 Finally, yet another way of providing a textual description is to include it in the page in the surrounding context:
 
-Below is a picture of me during my great vacation!\
-`<p>`
+`Below is a picture of me during my great vacation!`  
+`<p>`  
 `<IMG src="/pictureofme.jpg">`
 
 * * * * *
