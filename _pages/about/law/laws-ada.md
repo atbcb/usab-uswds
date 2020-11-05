@@ -3,7 +3,7 @@ title: Americans with Disabilities Act
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /laws/ada.html
+permalink: /law/ada.html
 ---
 
 # {{ page.title }} (ADA) of 1990

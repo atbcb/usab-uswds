@@ -11,7 +11,7 @@ tags:
   - enforcement
 featured: false
 ---
-The Access Board was created in part to enforce the first federal law to address accessibility, the [Architectural Barriers Act (ABA)]({{ site.baseurl }}/laws/aba.html). This law requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board also maintains the guidelines upon which the ABA Standards are based.
+The Access Board was created in part to enforce the first federal law to address accessibility, the [Architectural Barriers Act (ABA)]({{ site.baseurl }}/law/aba.html). This law requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board also maintains the guidelines upon which the ABA Standards are based.
 
 With passage of other laws, including the landmark Americans with Disabilities Act (ADA), the Board's mission has expanded significantly. It is now responsible for developing and keeping up to date accessibility requirements for the wide array of facilities covered by the ADA, as well as for transportation vehicles and systems. It also issues standards for information and communication technology and for medical diagnostic equipment.
 
