@@ -291,7 +291,7 @@ This table would be displayed as follows:
 
 *Is the summary attribute an option?*
 
-Although highly recommended by some webpage designers as a way of summarizing the contents of a table, the "summary" attribute of the TABLE tag is not sufficiently supported by major assistive technology manufacturers to warrant recommendation. Therefore, web developers who are interested in summarizing their tables should consider placing their descriptions either adjacent to their tables or in the body of the table, using such tags as the CAPTION tag. In no event should web developers use summarizing tables as an alternative to making the contents of their tables compliant as described above.
+Although highly recommended by some webpage designers as a way of summarizing the contents of a table, the "summary" attribute of the `<table>` tag is not sufficiently supported by major assistive technology manufacturers to warrant recommendation. Therefore, web developers who are interested in summarizing their tables should consider placing their descriptions either adjacent to their tables or in the body of the table, using such tags as the `<caption>` tag. In no event should web developers use summarizing tables as an alternative to making the contents of their tables compliant as described above.
 
 * * * * *
 
