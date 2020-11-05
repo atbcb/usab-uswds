@@ -21,7 +21,7 @@ The key to compliance with these provisions is adherence to the provisions. Many
 
 A text equivalent means adding words to represent the purpose of a non-text element. This provision requires that when an image indicates a navigational action such as "move to the next screen" or "go back to the top of the page," the image must be accompanied by actual text that states the purpose of the image. This provision also requires that when an image is used to represent page content, the image must have a text description accompanying it that explains the meaning of the image.
 
-HTML Source Code: <img src="/art/logo-green.gif" alt="Access Board Logo">
+HTML Source Code: `<img src="/art/logo-green.gif" alt="Access Board Logo">`
 
 <http://www.access-board.gov/>
 
