@@ -19,10 +19,10 @@ RIN 3014-AA11
 
 **ADDRESSES:**  Submit comments by any of the following methods:
 
--   Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov/#!docketDetail;D=ATBCB-2013-0003).  Follow the instructions for submitting comments.  Regulations.gov ID for this docket is ATBCB-2013-0003.
--   E-mail:  <pvag@access-board.gov>.  Include docket number ATBCB-2013-0003 in the subject line of the message.
--   Fax:  202-272-0081.
--   Mail or Hand Delivery/Courier:  Paul Beatty, Access Board, 1331 F Street, NW, Suite 1000, Washington, DC  20004-1111.
+- Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov/#!docketDetail;D=ATBCB-2013-0003).  Follow the instructions for submitting comments.  Regulations.gov ID for this docket is ATBCB-2013-0003.
+- E-mail:  <pvag@access-board.gov>.  Include docket number ATBCB-2013-0003 in the subject line of the message.
+- Fax:  202-272-0081.
+- Mail or Hand Delivery/Courier:  Paul Beatty, Access Board, 1331 F Street, NW, Suite 1000, Washington, DC  20004-1111.
 
 All comments received, including any personal information provided, will be posted without change to [http://www.regulations.gov](http://www.regulations.gov/) and are available for public viewing.
 
@@ -34,22 +34,22 @@ The hearing will be held in the Access Board Conference Room, 1331 F Street, NW,
 
 #### Table of Contents for Preamble
 
-1.  [Public Participation and Request for Comments](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#comments)
-2.  [Executive Summary](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#summary)
-3.  [Availability of Proposed Guidelines with Figures and Advisory Sections](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#figures)
-4.  [Statutory and Regulatory Background](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#background)
-5.  [Rulemaking History](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#history)
-6.  [Barrier Removal, and Operational and Service Issues Addressed by DOT and DOJ](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#dotdoj)
-7.  [Discussion of Proposed Guidelines](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#discussion)
-8.  [Regulatory Analyses](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#analyses)
+1. [Public Participation and Request for Comments](#1-public-participation-and-request-for-comments)
+2. [Executive Summary](#2-executive-summary)
+3. [Availability of Proposed Guidelines with Figures and Advisory Sections](#3-availability-of-proposed-guidelines-with-figures-and-advisory-sections)
+4. [Statutory and Regulatory Background](#4-statutory-and-regulatory-background)
+5. [Rulemaking History](#5-rulemaking-history)
+6. [Barrier Removal, and Operational and Service Issues Addressed by DOT and DOJ](#6-barrier-removal-and-operational-and-service-issues-addressed-by-dot-and-doj)
+7. [Discussion of Proposed Guidelines](#7-discussion-of-proposed-guidelines)
+8. [Regulatory Analyses](#8-regulatory-analyses)
 
-In this preamble, "we" and "our" refer to the Architectural and Transportation Barriers Compliance Board (Access Board).[1](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote1)
+<p>In this preamble, "we" and "our" refer to the Architectural and Transportation Barriers Compliance Board (Access Board).<a href="#endnote1" aria-label="end note 1" aria-describedby="endnote1"><sup id="footnote1">[1]</sup></a></p>
 
-#### 1\.  Public Participation and Request for Comments
+#### 1.  Public Participation and Request for Comments
 
 We encourage all persons interested in the rulemaking to submit comments on the proposed guidelines and the questions in the preamble.  Instructions for submitting and viewing comments are provided above under Addresses.  We will consider all the comments and may change the proposed guidelines based on the comments.
 
-#### 2\.  Executive Summary
+#### 2.  Executive Summary
 
 ##### Legal Authority and Purpose
 
@@ -65,28 +65,44 @@ The proposed guidelines contain proposed scoping and technical provisions.  The
 
 The most significant provisions in the proposed guidelines include the following:
 
--   An elevator, or on certain passenger vessels a limited use-limited application elevator (LULA) or platform lift, would be required to connect passenger decks, unless one of ten proposed exceptions apply.  The proposed provision would enable passengers with mobility disabilities to access and use the passenger amenities on the vessels.  For new vessels, we estimate an elevator to cost $371,000; a LULA to cost $297,400; and a platform lift to cost $108,700.
--   A minimum number of guest rooms with mobility features would be required on cruise ships.  Cruise ships with 501 to 1,000 guest rooms would be required to provide a minimum of 3 percent of guest rooms with mobility features.  Cruise ships with more than 1,000 guest rooms would be required to provide a minimum of 30 guest rooms with mobility features for the first 1,000 guest rooms (3 percent), plus 2 guest rooms with mobility features for each additional 100 guest rooms or fraction thereof over 1,000 (2 percent).  The minimum number is consistent with data on the percentage of the population who use mobility devices.  The proposed provision would enable passengers who use wheelchairs, scooters, or other mobility devices to access and use the guest rooms.  We estimate the proposed provision would result in a gross revenue loss annualized over 20 years of $50 million discounted at 7 percent, and $58 million discounted at 3 percent for new cruise ships permitted to carry 300 or more overnight passengers.
+- An elevator, or on certain passenger vessels a limited use-limited application elevator (LULA) or platform lift, would be required to connect passenger decks, unless one of ten proposed exceptions apply.  The proposed provision would enable passengers with mobility disabilities to access and use the passenger amenities on the vessels.  For new vessels, we estimate an elevator to cost $371,000; a LULA to cost $297,400; and a platform lift to cost $108,700.
+- A minimum number of guest rooms with mobility features would be required on cruise ships.  Cruise ships with 501 to 1,000 guest rooms would be required to provide a minimum of 3 percent of guest rooms with mobility features.  Cruise ships with more than 1,000 guest rooms would be required to provide a minimum of 30 guest rooms with mobility features for the first 1,000 guest rooms (3 percent), plus 2 guest rooms with mobility features for each additional 100 guest rooms or fraction thereof over 1,000 (2 percent).  The minimum number is consistent with data on the percentage of the population who use mobility devices.  The proposed provision would enable passengers who use wheelchairs, scooters, or other mobility devices to access and use the guest rooms.  We estimate the proposed provision would result in a gross revenue loss annualized over 20 years of $50 million discounted at 7 percent, and $58 million discounted at 3 percent for new cruise ships permitted to carry 300 or more overnight passengers.
 
 ##### Summary of Costs and Benefits
 
 The primary estimates of the costs and benefits of the proposed guidelines are shown in Table 1.  We estimate the total compliance costs of the proposed guidelines annualized over 20 years are $66 million discounted at 7 percent, and $74 million discounted at 3 percent.  We do not quantify the benefits of the proposed guidelines due to the nature of the benefits.  The proposed guidelines would address the discriminatory effects of architectural, transportation, and communication barriers encountered by individuals with mobility, hearing, and vision disabilities on passenger vessels.  The proposed guidelines would afford these individuals equal opportunity to travel on passenger vessels for employment, transportation, public accommodation, and leisure.  The proposed guidelines would enable these individuals to achieve greater participation in society, independent living, and economic self-sufficiency.  The benefits are difficult to quantify, but include important national values recognized in Executive Order 13563 such as equity, human dignity, and fairness.
 
-Table 1.  Primary Estimates of Costs and Benefits of Proposed Guidelines\
-Annualized Over 20 Years (2011 Dollars)
-|   | 7% Discount Rate | 3% Discount Rate |
-| Costs | $66 million | $74 million |
-| Benefits | The proposed guidelines would address the discriminatory effects of architectural, transportation, and communication barriers encountered by individuals with mobility, hearing, and vision disabilities on passenger vessels.  The proposed guidelines would afford these individuals equal opportunity to travel on passenger vessels for employment, transportation, public accommodation, and leisure.  The benefits are difficult to quantify, but include important national values recognized in Executive Order 13563 such as equity, human dignity, and fairness. |
+<table class="data usa-table">
+    <caption>Table 1. Primary Estimates of Costs and Benefits of Proposed Guidelines Annualized Over 20 Years (2011 Dollars)</caption>
+    <thead>
+        <tr>
+            <td></td>
+            <th scope="col">7% Discount Rate</th>
+            <th>3% Discount Rate</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Costs</th>
+            <td>$66 million</td>
+            <td>$74 million</td>
+        </tr>
+        <tr>
+            <th>Benefits</th>
+            <td colspan="2">The proposed guidelines would address the discriminatory effects of architectural, transportation, and communication barriers encountered by individuals with mobility, hearing, and vision disabilities on passenger vessels.  The proposed guidelines would afford these individuals equal opportunity to travel on passenger vessels for employment, transportation, public accommodation, and leisure.  The benefits are difficult to quantify, but include important national values recognized in Executive Order 13563 such as equity, human dignity, and fairness.</td>
+        </tr>
+    </tbody>
+</table>
 
-#### 3\.  Availability of Proposed Guidelines with Figures and Advisory Sections
+#### 3.  Availability of Proposed Guidelines with Figures and Advisory Sections
 
 The proposed guidelines would be codified as an appendix to 36 CFR part 1196.  The proposed guidelines with figures and advisory sections are available at:  [http://www.access-board.gov/pvag/](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines) and [http://www.regulations.gov](http://www.regulations.gov/#!docketDetail;D=ATBCB-2013-0003).  The figures illustrate the technical provisions and do not establish mandatory requirements except for symbols.  The proposed guidelines would require the use of symbols to identify elevator control buttons, the International Symbol of Accessibility, the International Symbol of TTY, and the International Symbol for Access to Hearing Loss.  Since use of these symbols would be mandatory, the figures displaying the symbols are included in the proposed guidelines.  The advisory sections provide guidance and are not mandatory requirements.  However, some advisory sections reference related mandatory requirements to alert readers about those requirements.
 
 *Question 1.*  Can the figures be improved to better illustrate the technical provisions?  Can the advisory sections be improved to provide better guidance?
 
-#### 4\.  Statutory and Regulatory Background
+#### 4.  Statutory and Regulatory Background
 
-The Americans with Disabilities Act (ADA) is a civil rights law that prohibits discrimination against individuals with disabilities.  See 42 U.S.C. 12101 et seq.  Title II of the ADA applies to state and local governments and Title III of the ADA applies to places of public accommodation operated by private entities.[2](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote2)  The ADA covers designated public transportation services provided by state and local governments and specified public transportation services provided by private entities that are primarily engaged in the business of transporting people and whose operations affect commerce.[3](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote3)  See 42 U.S.C. 12141 to 12147 and 12184.  Passenger vessels that provide designated public transportation services and specified public transportation services such as ferries and excursion vessels, and passenger vessels that are places of public accommodation such as vessels that provide dinner or sightseeing cruises are covered by the ADA.
+The Americans with Disabilities Act (ADA) is a civil rights law that prohibits discrimination against individuals with disabilities.  See 42 U.S.C. 12101 et seq.  Title II of the ADA applies to state and local governments and Title III of the ADA applies to places of public accommodation operated by private entities.<a href="#endnote2" aria-label="end note 2" aria-describedby="endnote2"><sup id="footnote2">[2]</sup></a>  The ADA covers designated public transportation services provided by state and local governments and specified public transportation services provided by private entities that are primarily engaged in the business of transporting people and whose operations affect commerce.<a href="#endnote3" aria-label="end note 3" aria-describedby="endnote3"><sup id="footnote3">[3]</sup></a>  See 42 U.S.C. 12141 to 12147 and 12184.  Passenger vessels that provide designated public transportation services and specified public transportation services such as ferries and excursion vessels, and passenger vessels that are places of public accommodation such as vessels that provide dinner or sightseeing cruises are covered by the ADA.
 
 We are required by section 502 of the Rehabilitation Act and section 504 of the ADA to establish and maintain accessibility guidelines for the construction and alteration of passenger vessels covered by the ADA to ensure that the vessels are readily accessible to and usable by individuals with disabilities.  See 29 U.S.C. 792 (b) (3) and 42 U.S.C. 12204.
 
@@ -96,7 +112,7 @@ The U.S. Department of Justice (DOJ) is responsible for issuing regulations to i
 
 Titles II and III of the ADA require DOT and DOJ to issue accessibility standards for the construction and alteration of passenger vessels covered by the law that are consistent with our guidelines.  See 42 U.S.C. 12134 (c), 12149 (b), and 12186 (c).  DOT has reserved a subpart in its regulations for accessibility standards for passenger vessels in anticipation of these proposed guidelines.  See 49 CFR part 39, subpart E.  Passenger vessel owners and operators would not be required to comply with the guidelines until they are adopted by DOT and DOJ as accessibility standards for the construction and alteration of passenger vessels covered by the ADA.
 
-#### 5\.  Rulemaking History
+#### 5.  Rulemaking History
 
 We have developed and maintained accessibility guidelines for landside facilities for over 30 years.  The guidelines for landside facilities represent the state-of-the-art for accessible design.  We worked with passenger vessel owners and operators, the disability community, and other interested parties over the past 15 years to address the unique constraints of the marine environment and adapt the guidelines for landside facilities to passenger vessels.
 
@@ -118,7 +134,7 @@ Between 2005 and 2008, we conducted case studies of ten passenger vessels to ide
 
 ##### Passenger Vessel Emergency Alarms Advisory Committee
 
-Comments on the 2006 draft guidelines raised issues about emergency alarm systems on passenger vessels alerting passengers who are deaf or have a hearing loss.  We convened a Passenger Vessel Emergency Alarms Advisory Committee in 2007 comprised of passenger vessel owners and operators, industry trade groups, organizations representing individuals who are deaf or have a hearing loss, and standard setting organizations to address the comments.  The advisory committee submitted a report with its recommendations in 2008.  The advisory committee recommended that general emergency alarm systems include visible elements to alert passengers who are deaf or have a hearing loss, and recommended safeguards against triggering photosensitive seizures in individuals with epilepsy.  The advisory committee recommended that the visible elements on U.S. flag vessels comply with the NFPA 72 National Fire Alarm Code.  The advisory committee recommended that the U.S. Coast Guard work with the International Maritime Organization to develop guidelines for including visible elements in general emergency alarm systems on foreign flag vessels.  The International Maritime Organization approved non-mandatory guidelines for including visible elements in general emergency alarm systems in 2012.[4](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote4)
+Comments on the 2006 draft guidelines raised issues about emergency alarm systems on passenger vessels alerting passengers who are deaf or have a hearing loss.  We convened a Passenger Vessel Emergency Alarms Advisory Committee in 2007 comprised of passenger vessel owners and operators, industry trade groups, organizations representing individuals who are deaf or have a hearing loss, and standard setting organizations to address the comments.  The advisory committee submitted a report with its recommendations in 2008.  The advisory committee recommended that general emergency alarm systems include visible elements to alert passengers who are deaf or have a hearing loss, and recommended safeguards against triggering photosensitive seizures in individuals with epilepsy.  The advisory committee recommended that the visible elements on U.S. flag vessels comply with the NFPA 72 National Fire Alarm Code.  The advisory committee recommended that the U.S. Coast Guard work with the International Maritime Organization to develop guidelines for including visible elements in general emergency alarm systems on foreign flag vessels.  The International Maritime Organization approved non-mandatory guidelines for including visible elements in general emergency alarm systems in 2012.<a href="#endnote4" aria-label="end note 4" aria-describedby="endnote4"><sup id="footnote1">[4]</sup></a>
 
 The advisory committee recommended that portable devices be permitted in guest rooms, and that the Cruise Lines International Association develop guidelines to ensure that portable devices would be effective and reliable in alerting and awakening passengers who are deaf or have a hearing loss when general emergency alarms and guest room smoke detector alarms are activated.  The Cruise Lines International Association convened a group to develop guidelines for portable devices but, after the group met, it concluded that it did not have the expertise for the task.  The advisory committee also recommended that assistive listening systems and visual displays be used to communicate safety briefings and emergency instructions to passengers who are deaf or have a hearing loss.
 
@@ -128,13 +144,13 @@ Based on the comments on the 2006 draft guidelines and the case studies, we revi
 
 The advisory committee reports, ANPRM, earlier drafts of the guidelines, comments on the ANPRM and earlier drafts of the guidelines, updated case study reports, and other background information on the proposed guidelines are available at:  [http://www.access-board.gov/pvag/](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background).  We used all this information to develop the proposed guidelines.
 
-#### 6\.  Barrier Removal, and Operational and Service Issues Addressed by DOT and DOJ
+#### 6.  Barrier Removal, and Operational and Service Issues Addressed by DOT and DOJ
 
 Comments on earlier drafts of the guidelines were concerned about the impact of the guidelines on barrier removal in existing passenger vessels.  The ADA requires private entities to remove architectural, communication, and transportation barriers in existing facilities where it is readily achievable.  See 42 U.S.C. 12182 (b) (2) (A) (iv).  The ADA defines readily achievable as easily accomplishable and able to be carried out without much difficulty or expense, and includes factors for determining whether an action is readily achievable.  See 42 U.S.C. 12181 (9).  DOJ has issued regulations on barrier removal in public accommodations that apply to public accommodations on passenger vessels.  See 28 CFR 36.304.  The passenger vessels accessibility guidelines are not required to be used for barrier removal until DOJ adopts them as accessibility standards for the construction and alteration of passenger vessels.  When DOJ issues accessibility standards for the construction and alteration of passenger vessels, it will address the application of the passenger vessels standards to barrier removal.
 
 Comments on earlier drafts of the guidelines also noted operational and service issues that affect accessibility, including passageways blocked by luggage or housekeeping carts; need for real time captioning of announcements; and access to shore excursions offered by cruise ships.  DOT and DOJ are responsible for issuing regulations pertaining to operational and service issues.  DOT and DOJ have issued regulations addressing maintenance of accessible features (28 CFR 35.133 and 36.211), and auxiliary aids and services to ensure effective communication (28 CFR 35.160 and 36.303; and 49 CFR 39.51 and 39.89).
 
-#### 7\.  Discussion of Proposed Guidelines
+#### 7.  Discussion of Proposed Guidelines
 
 The proposed guidelines consist of 11 chapters.  Chapter V 1 addresses the application and administration of the proposed guidelines.  Chapter V 2 contains proposed scoping provisions.  Chapters V 3 through V 10 contain proposed technical provisions.  Chapter V 11 contains proposed scoping and technical provisions for tenders.
 
@@ -172,7 +188,7 @@ Earlier drafts of the guidelines considered referencing U.S. safety standards fo
 
 ##### V106 Definitions
 
-This section defines terms used in the proposed guidelines.  The term administrative authority is used throughout the proposed guidelines and is defined in this section.[5](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote5)  For U.S. flag vessels, the administrative authority would be the U.S. Coast Guard.  For foreign flag vessels, the administrative authority would be the entity designated by the foreign nation that adopts or enforces regulations and guidelines for the design, construction, or alteration of passenger vessels.  The other defined terms are discussed under the section where the term is used.  Terms not defined in the proposed guidelines, DOT and DOJ regulations implementing the ADA, U.S. Coast Guard regulations, or standards referenced in the guidelines would be defined by collegiate dictionaries.
+This section defines terms used in the proposed guidelines.  The term administrative authority is used throughout the proposed guidelines and is defined in this section.<a href="#endnote5" aria-label="end note 5" aria-describedby="endnote5"><sup id="footnote5">[5]</sup></a>  For U.S. flag vessels, the administrative authority would be the U.S. Coast Guard.  For foreign flag vessels, the administrative authority would be the entity designated by the foreign nation that adopts or enforces regulations and guidelines for the design, construction, or alteration of passenger vessels.  The other defined terms are discussed under the section where the term is used.  Terms not defined in the proposed guidelines, DOT and DOJ regulations implementing the ADA, U.S. Coast Guard regulations, or standards referenced in the guidelines would be defined by collegiate dictionaries.
 
 ##### Chapter V 2: Scoping Requirements
 
@@ -184,57 +200,78 @@ The proposed guidelines would apply to all areas of newly designed and newly con
 
 ##### V201.1.1 Large Vessels
 
-The Passenger Vessel Access Advisory Committee recommended guidelines for passenger vessels subject to U.S. Coast Guard regulations in 46 CFR Chapter I, Subchapters H and K.[6](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote6)  Subchapter H covers passenger vessels that are 100 gross tons or more, and carry more than 12 passengers or are a ferry and carry at least 1 passenger.[7](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote7)  See 46 CFR 70.05-1.  Subchapter K covers passenger vessels that are less than 100 gross tons, and carry more than 150 passengers or more than 49 overnight passengers.  See 46 CFR 114.110.  Because determining the gross tonnage of a passenger vessel is a complicated process and many foreign flag vessels are not subject to U.S. Coast Guard regulations, the 2004 draft guidelines considered covering passenger vessels based on the Subchapter K passenger capacity (i.e., carry more than 150 passengers or more than 49 overnight passengers).  Comments on the 2004 draft guidelines, including comments from the Passenger Vessel Association, supported this approach.  The proposed guidelines would apply to passenger vessels, other than ferries and tenders, permitted to carry more than 150 passengers or more than 49 overnight passengers.[8](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote8)
+The Passenger Vessel Access Advisory Committee recommended guidelines for passenger vessels subject to U.S. Coast Guard regulations in 46 CFR Chapter I, Subchapters H and K.<a href="#endnote6" aria-label="end note 6" aria-describedby="endnote6"><sup id="footnote6">[6]</sup></a>  Subchapter H covers passenger vessels that are 100 gross tons or more, and carry more than 12 passengers or are a ferry and carry at least 1 passenger.<a href="#endnote7" aria-label="end note 7" aria-describedby="endnote7"><sup id="footnote7">[7]</sup></a>  See 46 CFR 70.05-1.  Subchapter K covers passenger vessels that are less than 100 gross tons, and carry more than 150 passengers or more than 49 overnight passengers.  See 46 CFR 114.110.  Because determining the gross tonnage of a passenger vessel is a complicated process and many foreign flag vessels are not subject to U.S. Coast Guard regulations, the 2004 draft guidelines considered covering passenger vessels based on the Subchapter K passenger capacity (i.e., carry more than 150 passengers or more than 49 overnight passengers).  Comments on the 2004 draft guidelines, including comments from the Passenger Vessel Association, supported this approach.  The proposed guidelines would apply to passenger vessels, other than ferries and tenders, permitted to carry more than 150 passengers or more than 49 overnight passengers.<a href="#endnote8" aria-label="end note 8" aria-describedby="endnote8"><sup id="footnote8">[8]</sup></a>
 
 As shown in Table 2, we estimate there were 346 multi-purpose vessels such as excursion and dinner vessels permitted to carry more than 150 passengers, and 145 cruise ships permitted to carry more than 49 overnight passengers operating in U.S. ports as of 2010 -- 2011.  The vessels are listed in Appendices I and II to the regulatory assessment, along with the data sources.
 
-Table 2.  Multi-Purpose Vessels Permitted to Carry More Than 150 Passengers & Cruise Ships Permitted to Carry More Than 49 Overnight Passengers Operating in U.S. Ports as of 2010 -- 2011
-| Vessel Type | Number of Vessels |
-| --- | --- |
-|
+<table class="data usa-table">
+    <caption>Table 2.  Multi-Purpose Vessels Permitted to Carry More Than 150 Passengers & Cruise Ships Permitted to Carry More Than 49 Overnight Passengers Operating in U.S. Ports as of 2010 to 2011</caption>
+    <thead>
+        <tr>
+            <th scope="col">Vessel Type</th>
+            <th>Number of Vessels</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Multi-Purpose Vessels</th>
+            <td >346 <sup aria-label="superscript 1" aria-describedby="v1">1</sup> </td>
+        </tr>
+        <tr>
+            <th>Small Cruise Ships (50 to 299 overnight passengers)</th>
+            <td>32 <sup aria-label="superscript 1" aria-describedby="v1">1</sup></td>
+        </tr>
+        <tr>
+            <th>Large Cruise Ships (300 or more overnight passengers)</th>
+            <td>113 <sup aria-label="superscript 2" aria-describedby="v2">2</sup></td>
+        </tr>
+    </tbody>
+</table>
 
-**Notes:**\
-1\.  Vessels as of 2010.\
-2\.  Vessels as of 2011.
-
- |
-|
-
-Multi-Purpose Vessels
-
- | 346¹ |
-|
-
-Small Cruise Ships (50 to 299 overnight passengers)
-
- | 32¹ |
-|
-
-Large Cruise Ships (300 or more overnight passengers)
-
- | 113² |
+<p class="text-italic">Table Legend:</p>
+<ol>
+    <li id="v1">Vessels as of 2010</li>
+    <li id="v2">Vessels as of 2011</li>
+</ol>
 
 We request comment on the proposed scoping provision for large passenger vessels.
 
 *Question 3.*  Should alternative scoping provisions apply to large passenger vessels?  Comments should explain the basis for recommending alternative scoping provisions for large passenger vessels.
 
-We conducted case studies of two multi-purpose vessels and one small cruise ship to estimate the incremental cost to construct the vessels in compliance with the proposed guidelines, and the additional annual operation and maintenance costs due to the proposed guidelines.  We did not conduct case studies of large cruise ships because we could not find cruise ship owners or operators to participate in case studies.[9](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote9)
+We conducted case studies of two multi-purpose vessels and one small cruise ship to estimate the incremental cost to construct the vessels in compliance with the proposed guidelines, and the additional annual operation and maintenance costs due to the proposed guidelines.  We did not conduct case studies of large cruise ships because we could not find cruise ship owners or operators to participate in case studies.<a href="#endnote9" aria-label="end note 9" aria-describedby="endnote9"><sup id="footnote9">[9]</sup></a>
 
 We present in Table 3 our estimates of the incremental construction costs for the case study vessels, which is difference between the cost of constructing the vessels in the absence of the proposed guidelines (pre-guidelines construction cost) and the cost of constructing the vessels in compliance with the proposed guidelines (post-guidelines construction cost), as a percent increase in construction costs.  Our estimates of the pre-guidelines construction costs and incremental construction costs for the case study vessels are presented in dollars in the case study reports and in Table 7 in the regulatory assessment.  The construction costs for the case study vessels would increase by 3.2 percent to 9.9 percent.  One case study vessel has two entry decks and currently provides an inclined platform lift to connect the two entry decks.  The inclined platform lift is included in the pre-guidelines construction cost.  If the vessel did not provide an inclined platform lift, the construction costs would increase by 5.3 percent if an inclined lift is provided, and 8.1 percent if a vertical platform lift is provided.  One case study vessel would have a 5 percent to 10 percent annual increase in fuel consumption due to the proposed guidelines.
 
-Table 3.  Estimated Compliance Costs for Case Study\
-Multi-Purpose Vessels & Small Cruise Ship
-| Case Study Vessels | Percent Increase in Construction Costs | Additional Annual Operation & Maintenance Costs |
-| --- | --- | --- |
-|
+<table class="data usa-table">
+    <caption>Table 3.  Estimated Compliance Costs for Case Study <br>Multi-Purpose Vessels & Small Cruise Ship</caption>
+    <thead>
+        <tr>
+            <th scope="col">Case Study Vessels</th>
+            <th>Percent Increase in Construction Costs</th>
+            <th>Additional Annual Operation & Maintenance Costs</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>300 Passenger Excursion Vessel</th>
+            <td>3.2% <sup aria-label="superscript 1" aria-describedby="c1">1</sup></td>
+            <td>Not significant</td>
+        </tr>
+        <tr>
+            <th>600 Passenger Dinner Vessel</th>
+            <td>9.9%</td>
+            <td>5% to 10% increase in fuel consumption</td>
+        </tr>
+        <tr>
+            <th>120 Passenger Small Cruise Ship</th>
+            <td>3.2%</td>
+            <td>Not significant</td>
+        </tr>
+    </tbody>
+</table>
 
-**Note:**\
-1\.  The vessel has two entry decks and currently provides an inclined platform lift to connect the two entry decks.  The inclined platform lift is included in the pre-guidelines construction cost.  If the vessel did not provide an inclined platform lift, the construction costs would increase by 5.3% if an inclined lift is provided, and 8.1% if a vertical platform lift is provided.
-
- |
-| 300 Passenger Excursion Vessel | 3.2%¹ | Not significant |
-| 600 Passenger Dinner Vessel | 9.9% | 5% to 10% increase in fuel consumption |
-| 120 Passenger Small Cruise Ship | 3.2% | Not significant |
+<p class="text-italic">Table Legend:</p>
+1. <span id="c1">The vessel has two entry decks and currently provides an inclined platform lift to connect the two entry decks. The inclined platform lift is included in the pre-guidelines construction cost. If the vessel did not provide an inclined platform lift, the construction costs would increase by 5.3% if an inclined lift is provided, and 8.1% if a vertical platform lift is provided.</span>
 
 ##### V201.1.2 Ferries
 
@@ -242,70 +279,169 @@ A ferry would be defined in V106.5 as a vessel that is used on a regular schedul
 
 Ferries differ from multi-purpose vessels and cruise ships that are used primarily for leisure purposes.  Ferries serve a critical transportation function.  Ferries provide commuter services in major metropolitan areas on both coasts, and link roadways and communities separated by bodies of water.  Ferries transport people to work, school, health care facilities, and other places critical to daily living.  Because ferries serve a critical transportation function, the 2006 draft guidelines considered covering all ferries regardless of passenger capacity.  Comments from ferry owners and operators and the Passenger Vessel Association did not support this approach because it would be more difficult and costly for small ferries to comply with the draft guidelines.  Based on the comments, the 2008 draft guidelines considered covering ferries permitted to carry more than 99 passengers.
 
-Like the 2008 draft guidelines, the proposed guidelines would apply to ferries permitted to carry more than 99 passengers.  The proposed scoping provision for ferries is broader than for multi-purpose vessels because ferries serve a critical transportation function.  The 2008 National Census of Ferry Operators shows that about 700 active ferries provided an estimated 106 million passenger trips in 2007.[10](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote10)  The ferries operated in 37 states and 3 U.S. territories.  We estimate there were 454 ferries permitted to carry more than 99 passengers as of 2010.  As shown in Table 4, 221 of these ferries are permitted to carry between 100 and 150 passengers, and 130 of these ferries are permitted to carry 149 or 150 passengers.[11](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote11)  The ferries are listed in Appendix I to the regulatory assessment, along with the data sources.  Applying the same scoping provision proposed for multi-purpose vessels to ferries would result in many ferries being inaccessible to individuals with disabilities.
+Like the 2008 draft guidelines, the proposed guidelines would apply to ferries permitted to carry more than 99 passengers.  The proposed scoping provision for ferries is broader than for multi-purpose vessels because ferries serve a critical transportation function.  The 2008 National Census of Ferry Operators shows that about 700 active ferries provided an estimated 106 million passenger trips in 2007.<a href="#endnote10" aria-label="end note 10" aria-describedby="endnote10"><sup id="footnote10">[10]</sup></a>  The ferries operated in 37 states and 3 U.S. territories.  We estimate there were 454 ferries permitted to carry more than 99 passengers as of 2010.  As shown in Table 4, 221 of these ferries are permitted to carry between 100 and 150 passengers, and 130 of these ferries are permitted to carry 149 or 150 passengers.<a href="#endnote11" aria-label="end note 11" aria-describedby="endnote11"><sup id="footnote11">[11]</sup></a>  The ferries are listed in Appendix I to the regulatory assessment, along with the data sources.  Applying the same scoping provision proposed for multi-purpose vessels to ferries would result in many ferries being inaccessible to individuals with disabilities.
 
-Table 4.  Ferries Permitted to Carry Between 100 and 150 Passengers as of 2010
-| Passenger Capacity | Multi-Hull Ferries | Mono-Hull Ferries | Total |
-| --- | --- | --- | --- |
-| Passengers Only | Passengers & Vehicles |
-| --- | --- |
-| 150 | 16 | 27 | 7 | **50** |
-| 149 | 28 | 21 | 31 | **80** |
-| 140 - 148 | 4 | 21 | 15 | **40** |
-| 130 - 139 | 0 | 1 | 5 | **6** |
-| 120 - 129 | 1 | 3 | 2 | **6** |
-| 110 - 119 | 2 | 3 | 9 | **14** |
-| 100 - 109 | 2 | 7 | 6 | **15** |
-| Total | **53** | **83** | **75** | **221** |
+<table class="data usa-table">
+    <caption>Table 4. Ferries Permitted to Carry Between 100 and 150 Passengers as of 2010</caption>
+    <thead>
+        <tr>
+            <th scope="col" rowspan="2">Passenger Capacity</th>
+            <th scope="col" rowspan="2">Multi-Hull Ferries</th>
+            <th scope="colgroup" colspan="2">Mono-Hull Ferries</th>
+            <th scope="col" rowspan="2">Total</th>
+        </tr>
+        <tr>
+            <th scope="col">Passengers Only</th>
+            <th scope="col">Passengers & Vehicles</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>150</th>
+            <td>16</td>
+            <td>27</td>
+            <td>7</td>
+            <td><span class="text-bold">50</span></td>
+        </tr>
+        <tr>
+            <th>149</th>
+            <td>28</td>
+            <td>21</td>
+            <td>31</td>
+            <td><span class="text-bold">80</span></td>
+        </tr>
+        <tr>
+            <th>140 - 148</th>
+            <td>4</td>
+            <td>21</td>
+            <td>15</td>
+            <td><span class="text-bold">40</span></td>
+        </tr>
+        <tr>
+            <th>130 - 139</th>
+            <td>0</td>
+            <td>1</td>
+            <td>5</td>
+            <td><span class="text-bold">6</span></td>
+        </tr>
+        <tr>
+            <th>120 - 129</th>
+            <td>1</td>
+            <td>3</td>
+            <td>2</td>
+            <td><span class="text-bold">6</span></td>
+        </tr>
+        <tr>
+            <th>110 - 119</th>
+            <td>2</td>
+            <td>3</td>
+            <td>9</td>
+            <td><span class="text-bold">14</span></td>
+        </tr>
+        <tr>
+            <th>100 - 109</th>
+            <td>2</td>
+            <td>7</td>
+            <td>6</td>
+            <td><span class="text-bold">15</span></td>
+        </tr>
+        <tr>
+            <th><span class="text-bold">Total</span></th>
+            <td><span class="text-bold">53</span></td>
+            <td><span class="text-bold">83</span></td>
+            <td><span class="text-bold">75</span></td>
+            <td><span class="text-bold">221</span></td>
+        </tr>
+    </tbody>
+</table>
 
 We request comment on the proposed scoping provision for ferries.
 
 *Question 4.*  Should alternative scoping provisions apply to ferries?  Comments should explain the basis for recommending alternative scoping provisions for ferries.
 
-We conducted case studies of seven ferries to estimate the incremental construction costs and additional annual operation and maintenance costs due to the proposed guidelines.  Where the proposed guidelines would result in a reduction of passenger or vehicle capacity or a reduction of passenger amenities such as fixed seating or storage space provided on the vessel, the case studies examined two design options.[12](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote12)  The first design option did not increase the ferry size; the second design option increased the ferry size to maintain the passenger and vehicle capacity, and the same passenger amenities.[13](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote13)  As shown in Table 5, the construction costs for the case study ferries permitted to carry more than 300 passengers would increase by 1.2 percent to 4.2 percent.  The construction costs for the case study ferries permitted to carry 149 to 150 passengers would increase by less than 1 percent to 1.8 percent for the first design option (ferry size not increased), and by 6.7 percent to 12.5 percent for the second design option (ferry size increased).  The construction costs for the 108 passenger multi-hull ferry would increase by 1.1 percent for the first design option (ferry size not increased), and 24.5 percent for the second design option (ferry size increased).  The construction cost increase for the 108 passenger multi-hull ferry is high for the second design option because the ferry owner wanted to lengthen the ferry by 10 feet based on the owner's experience with a larger ferry, instead of the 5 feet minimum needed to maintain the ferry's seating and storage capacity.  If the 108 passenger multi-hull ferry is lengthened by 5 feet, instead of 10 feet, the construction costs would increase by 14 percent to 17 percent, instead of 24.5 percent.
+We conducted case studies of seven ferries to estimate the incremental construction costs and additional annual operation and maintenance costs due to the proposed guidelines.  Where the proposed guidelines would result in a reduction of passenger or vehicle capacity or a reduction of passenger amenities such as fixed seating or storage space provided on the vessel, the case studies examined two design options.<a href="#endnote12" aria-label="end note 12" aria-describedby="endnote12"><sup id="footnote12">[12]</sup></a>  The first design option did not increase the ferry size; the second design option increased the ferry size to maintain the passenger and vehicle capacity, and the same passenger amenities.<a href="#endnote13" aria-label="end note 13" aria-describedby="endnote13"><sup id="footnote13">[13]</sup></a>  As shown in Table 5, the construction costs for the case study ferries permitted to carry more than 300 passengers would increase by 1.2 percent to 4.2 percent.  The construction costs for the case study ferries permitted to carry 149 to 150 passengers would increase by less than 1 percent to 1.8 percent for the first design option (ferry size not increased), and by 6.7 percent to 12.5 percent for the second design option (ferry size increased).  The construction costs for the 108 passenger multi-hull ferry would increase by 1.1 percent for the first design option (ferry size not increased), and 24.5 percent for the second design option (ferry size increased).  The construction cost increase for the 108 passenger multi-hull ferry is high for the second design option because the ferry owner wanted to lengthen the ferry by 10 feet based on the owner's experience with a larger ferry, instead of the 5 feet minimum needed to maintain the ferry's seating and storage capacity.  If the 108 passenger multi-hull ferry is lengthened by 5 feet, instead of 10 feet, the construction costs would increase by 14 percent to 17 percent, instead of 24.5 percent.
 
-Table 5.  Estimated Compliance Costs for Case Study Ferries
-|
+<table id="pt5" class="data">
+    <caption>Table 5. Estimated Compliance Costs for Case Study Ferries</caption>
+    <thead>
+        <tr>
+            <th scope="col">Case Study Ferry</th>
+            <th scope="col">Design Option</th>
+            <th scope="col">Percent Increase in Construction Costs</th>
+            <th scope="col">Additional Annual Operation &amp; Maintenance Costs</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th rowspan="2" scope="rowgroup">108 Passenger Multi-Hull Ferry</th>
+            <th scope="row">1: Ferry Size Not Increased</th>
+            <td>1.1%; 6 to 8 seats and storage lost; revenue loss not estimated</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <th scope="row">2: Ferry Size Increased</th>
+            <td>24.5% <sup aria-label="superscript 1" aria-describedby="p1">1</sup>; No seats or storage lost</td>
+            <td>18% increase in fuel consumption</td>
+        </tr>
+        <tr>
+            <th rowspan="2" scope="rowgroup">149 Passenger Multi-Hull Ferry</th>
+            <th scope="row">1: Ferry Size Not Increased</th>
+            <td>1.8%; 7 seats lost; Annual revenue loss: $134,500</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <th scope="row">2: Ferry Size Increased</th>
+            <td>12.5%; No seats lost</td>
+            <td>3% to 6.6% increase in fuel consumption</td>
+        </tr>
+        <tr>
+            <th rowspan="2" scope="rowgroup">150 Passenger &amp; 20 Vehicle Mono-Hull Ferry</th>
+            <th scope="row">1: Ferry Size Not Increased</th>
+            <td>Less than 1%; One vehicle space lost; Annual revenue loss: $51,000 to $86,000</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <th scope="row">2: Ferry Size Increased</th>
+            <td>6.7%; No vehicle space lost</td>
+            <td>Not significant</td>
+        </tr>
+        <tr>
+            <th scope="row">300 Passenger &amp; 40 Vehicle Mono-Hull Ferry</th>
+            <td>n/a</td>
+            <td>3.0%; 2 to 4 seats lost <sup aria-label="superscript 2" aria-describedby="p2">2</sup></td>
+            <td>Not significant</td>
+        </tr>
+        <tr>
+            <th scope="row">399 Passenger Mono-Hull Ferry</th>
+            <td>n/a</td>
+            <td>2.2%; 10 seats lost <sup aria-label="superscript 2" aria-describedby="p2">2</sup></td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <th rowspan="2" scope="rowgroup">450 Passenger Multi-Hull Ferry</th>
+            <th scope="row">1: Ferry Size Not Increased</th>
+            <td>1.2%; 42 to 59 seats lost; Revenue loss not estimated</td>
+            <td>None</td>
+        </tr>
+        <tr>
+            <th scope="row">2: Ferry Size Increased</th>
+            <td>4.2%; <br /> No seats lost</td>
+            <td>10% increase in fuel consumption</td>
+        </tr>
+        <tr>
+            <th scope="row">4,400 Passenger &amp; 30 Vehicle Mono-Hull Ferry</th>
+            <td>n/a</td>
+            <td>1.3%; 50 seats lost <sup aria-label="superscript 2" aria-describedby="p2">2</sup></td>
+            <td>$1,100 to $1,300 per automatic door</td>
+        </tr>
+    </tbody>
+</table>
+<p class="text-italic">Table Legend:</p>
+<ol>
+    <li id="p1">The ferry owner wanted to lengthen the ferry by 10 feet for second design option based on the owner's experience with a larger ferry, instead of the 5 feet minimum needed to maintain the ferry's seating and storage capacity.  If the ferry is lengthened by 5 feet, instead of 10 feet, the construction costs would increase by 14% to 17%, instead of 24.5%.  The annual increase in fuel consumption would also be less if the ferry is lengthened by 5 feet, instead of 10 feet.</li>
+    <li id="p2">The case study does include a second design option because the ferry owner was not concerned about the loss of some fixed seating.</li>
+</ol> 
 
-Case Study Ferry
-
- |
-
-Percent Increase in Construction Costs
-
- |
-
-Additional Annual Operation & Maintenance Costs
-
- |
-| --- | --- | --- |
-|
-
-**Notes:**\
-1\.  The ferry owner wanted to lengthen the ferry by 10 feet for second design option based on the owner's experience with a larger ferry, instead of the 5 feet minimum needed to maintain the ferry's seating and storage capacity.  If the ferry is lengthened by 5 feet, instead of 10 feet, the construction costs would increase by 14% to 17%, instead of 24.5%.  The annual increase in fuel consumption would also be less if the ferry is lengthened by 5 feet, instead of 10 feet.\
-2\.  The case study does include a second design option because the ferry owner was not concerned about the loss of some fixed seating.
-
- |
-| 108 Passenger Multi-Hull Ferry | Design Option 1:  Ferry Size Not Increased |
-| 1.1%; 6 to 8 seats and storage lost; revenue loss not estimated | None |
-| Design Option 2:  Ferry Size Increased |
-| 24.5%¹; No seats or storage lost | 18% increase in fuel consumption |
-| 149 Passenger Multi-Hull Ferry | Design Option 1:  Ferry Size Not Increased |
-| 1.8%; 7 seats lost; Annual revenue loss: $134,500 | None |
-| Design Option 2:  Ferry Size Increased |
-| 12.5%; No seats lost | 3% to 6.6% increase in fuel consumption |
-| 150 Passenger & 20 Vehicle Mono-Hull Ferry | Design Option 1:  Ferry Size Not Increased |
-| Less than 1%; One vehicle space lost; Annual revenue loss: $51,000 to $86,000 | None |
-| Design Option 2:  Ferry Size Increased |
-| 6.7%; No vehicle space lost | Not significant |
-| 300 Passenger & 40 Vehicle Mono-Hull Ferry | 3.0%; 2 to 4 seats lost² | Not significant |
-| 399 Passenger Mono-Hull Ferry | 2.2%; 10 seats lost² | None |
-| 450 Passenger Multi-Hull Ferry | Design Option 1:  Ferry Size Not Increased |
-| 1.2%; 42 to 59 seats lost; Revenue loss not estimated | None |
-| Design Option 2:  Ferry Size Increased |
-| 4.2%;\
-No seats lost | 10% increase in fuel consumption |
-| 4,400 Passenger & 30 Vehicle Mono-Hull Ferry | 1.3%; 50 seats lost ² | $1,100 to $1,300 per automatic door |
 
 The proposed provisions for onboard accessible routes, toilet rooms, wheelchair spaces in transportation seating areas, and assistive listening systems are estimated to have the highest compliance costs for ferries.  As discussed under V206 Onboard Accessible Routes, ten exceptions are proposed for onboard accessible routes to connect decks, and five of these exceptions are proposed to reduce the compliance costs for small vessels and high-speed vessels.
 
@@ -343,21 +479,21 @@ Exception 2 would require alterations to comply with the proposed guidelines to 
 
 Exception 3 would require alterations to provide accessibility to the maximum extent feasible where compliance with the proposed guidelines would result in any of the following:
 
--   An increase in tonnage that changes the passenger vessel's classification from 46 CFR Chapter I, Subchapter T (Small Passenger Vessels (Under 100 Gross Tons)) or 46 CFR Chapter I, Subchapter K (Small Passenger Vessels Carrying More Than 150 Passengers or With Overnight Accommodations For More Than 49 Passengers) to 46 CFR Chapter I, Subchapter H (Passenger Vessels);[14](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote14)
--   A violation of the minimum requirements established by the administrative authority for the stability of the vessel;
--   A reduction in the structural integrity or fire resistance of a Class A or B bulkhead or deck surface; or
--   An increase in power load in excess of the existing power supply.
+- An increase in tonnage that changes the passenger vessel's classification from 46 CFR Chapter I, Subchapter T (Small Passenger Vessels (Under 100 Gross Tons)) or 46 CFR Chapter I, Subchapter K (Small Passenger Vessels Carrying More Than 150 Passengers or With Overnight Accommodations For More Than 49 Passengers) to 46 CFR Chapter I, Subchapter H (Passenger Vessels);<a href="#endnote14" aria-label="end note 14" aria-describedby="endnote14"><sup id="footnote14">[14]</sup></a>
+- A violation of the minimum requirements established by the administrative authority for the stability of the vessel;
+- A reduction in the structural integrity or fire resistance of a Class A or B bulkhead or deck surface; or
+- An increase in power load in excess of the existing power supply.
 
 Specific exceptions are also proposed in certain proposed provisions for alterations to existing passenger vessels, including:
 
--   Platform lifts would be permitted as a component of onboard accessible routes in alterations to existing passenger vessels.  V206.7 Exception.
--   An accessible means of escape would not be required in alterations to existing passenger vessels.  V207.1 Exception 2.
--   A unisex toilet room would be permitted in alterations to existing passenger vessels where it is technically infeasible for existing toilet rooms to comply with the proposed guidelines provided the unisex toilet room is located in the same area and on the same deck as the existing non-complying toilet rooms.  V213.2 Exception 2.
--   Visible alarms in public areas would not be required in alterations to existing passenger vessels unless an existing alarm system is upgraded or replaced, or a new alarm system installed.  V215.1 Exception 2.
--   Thresholds ¾ inch high maximum would be permitted at doorways without coamings in alterations to existing passenger vessels provided the thresholds have a beveled edge on each side with a slope not steeper than 1:2.  V404.2.5.1 Exception.
--   Running slopes not steeper than 1:8 for a maximum rise of 3 inches and not steeper than 1:10 for a maximum rise of 6 inches would be permitted in alterations to existing passenger vessels where necessary due to space limitations.  V405.2 Exception.
--   Elevator cars in altered elevators would not be required to comply with the proposed provision for car dimensions where the existing elevator car configuration provides a clear deck area 16 square feet minimum; an inside clear depth of 54 inches minimum; and an inside clear depth 36 inches minimum.  V407.4.1 Exception.
--   Alternative dimensions are proposed for sales and service counters in alterations to existing passenger vessels where compliance with the proposed provisions would result in a reduction of the number of existing counters at work stations.  V904.4 Exception.
+- Platform lifts would be permitted as a component of onboard accessible routes in alterations to existing passenger vessels.  V206.7 Exception.
+- An accessible means of escape would not be required in alterations to existing passenger vessels.  V207.1 Exception 2.
+- A unisex toilet room would be permitted in alterations to existing passenger vessels where it is technically infeasible for existing toilet rooms to comply with the proposed guidelines provided the unisex toilet room is located in the same area and on the same deck as the existing non-complying toilet rooms.  V213.2 Exception 2.
+- Visible alarms in public areas would not be required in alterations to existing passenger vessels unless an existing alarm system is upgraded or replaced, or a new alarm system installed.  V215.1 Exception 2.
+- Thresholds ¾ inch high maximum would be permitted at doorways without coamings in alterations to existing passenger vessels provided the thresholds have a beveled edge on each side with a slope not steeper than 1:2.  V404.2.5.1 Exception.
+- Running slopes not steeper than 1:8 for a maximum rise of 3 inches and not steeper than 1:10 for a maximum rise of 6 inches would be permitted in alterations to existing passenger vessels where necessary due to space limitations.  V405.2 Exception.
+- Elevator cars in altered elevators would not be required to comply with the proposed provision for car dimensions where the existing elevator car configuration provides a clear deck area 16 square feet minimum; an inside clear depth of 54 inches minimum; and an inside clear depth 36 inches minimum.  V407.4.1 Exception.
+- Alternative dimensions are proposed for sales and service counters in alterations to existing passenger vessels where compliance with the proposed provisions would result in a reduction of the number of existing counters at work stations.  V904.4 Exception.
 
 Where the State Historic Preservation Officer or Advisory Council on Historic Preservation determines that compliance with the proposed provisions for onboard accessible routes or toilet rooms would threaten or destroy the historic significance of a qualified historic passenger vessel, exceptions are proposed for those features in V206.2.1 Exception 10 and V213.2 Exception 2.
 
@@ -397,7 +533,7 @@ This section contains proposed scoping provisions for onboard accessible routes,
 
 The proposed scoping provision in V206.2.1 would require at least one onboard accessible route to connect each passenger deck and mezzanine on multi-deck passenger vessels.  Where a passenger vessel has more than one entry deck, the section would require at least one onboard accessible route to connect each entry deck.  A deck would be defined in V106.5 as a horizontal division of a passenger vessel that contains space designed for passenger occupancy and generally corresponds to a story in a building.  A horizontal division without enclosed space, such as a sun deck, would be considered a deck even though it is not provided with a covering.  An entry deck would be defined in V106.5 as a deck that contains passenger entry and departure points that allow pedestrian passengers to embark or disembark a passenger vessel from fixed or floating piers, the land, or tenders in non-emergency situations.
 
-The proposed scoping provision in V206.6 would require an elevator complying with the proposed technical provisions in V407 to connect the passenger decks.  The proposed scoping provision in V206.6 would permit a limited use-limited application elevator (LULA) complying with the proposed technical provisions in V408 to connect passenger decks on certain passenger vessels.  A LULA is a passenger elevator that is limited in use and application by size, capacity, speed, and rise.  Safety codes limit the maximum rise of a LULA to 25 feet.[15](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote15)  A LULA can be used to connect up to three decks.  The Passenger Vessel Access Advisory Committee recommended that a LULA be permitted to connect decks on passenger vessels that are less than 5,000 gross tonnage calculated in accordance with the International Convention on the Tonnage Measurement of Ships.  The Passenger Vessel Access Advisory Committee also recommended that where more than one elevator is provided on passenger vessels that are less than 10,000 gross tonnage calculated in accordance with the International Convention on the Tonnage Measurement of Ships, that the additional elevators be permitted to be a LULA.  The proposed guidelines would permit a LULA to connect decks on passenger vessels that are less than 10,000 gross tonnage calculated in accordance with the International Convention on the Tonnage Measurement of Ships.  We assume 85 passenger vessels listed in Appendix I to the regulatory assessment, which have 3 passenger decks and are not eligible to use the exceptions discussed below, are less than 10,000 gross tonnage calculated in accordance with the International Convention on the Tonnage Measurement of Ships, and new vessels that replace these vessels would be permitted to provide a LULA to connect the decks.  We also assume 12 passenger vessels listed in Appendix I to the regulatory assessment, which have 2 passenger decks and would need to provide access to passenger amenities that are not located on an entry deck such as transportation seating areas on a vehicle ferry, are less than 10,000 gross tonnage calculated in accordance with the International Convention on the Tonnage Measurement of Ships, and new vessels that replace these vessels would be permitted to provide a LULA to connect the decks.
+The proposed scoping provision in V206.6 would require an elevator complying with the proposed technical provisions in V407 to connect the passenger decks.  The proposed scoping provision in V206.6 would permit a limited use-limited application elevator (LULA) complying with the proposed technical provisions in V408 to connect passenger decks on certain passenger vessels.  A LULA is a passenger elevator that is limited in use and application by size, capacity, speed, and rise.  Safety codes limit the maximum rise of a LULA to 25 feet.<a href="#endnote15" aria-label="end note 15" aria-describedby="endnote15"><sup id="footnote15">[15]</sup></a>  A LULA can be used to connect up to three decks.  The Passenger Vessel Access Advisory Committee recommended that a LULA be permitted to connect decks on passenger vessels that are less than 5,000 gross tonnage calculated in accordance with the International Convention on the Tonnage Measurement of Ships.  The Passenger Vessel Access Advisory Committee also recommended that where more than one elevator is provided on passenger vessels that are less than 10,000 gross tonnage calculated in accordance with the International Convention on the Tonnage Measurement of Ships, that the additional elevators be permitted to be a LULA.  The proposed guidelines would permit a LULA to connect decks on passenger vessels that are less than 10,000 gross tonnage calculated in accordance with the International Convention on the Tonnage Measurement of Ships.  We assume 85 passenger vessels listed in Appendix I to the regulatory assessment, which have 3 passenger decks and are not eligible to use the exceptions discussed below, are less than 10,000 gross tonnage calculated in accordance with the International Convention on the Tonnage Measurement of Ships, and new vessels that replace these vessels would be permitted to provide a LULA to connect the decks.  We also assume 12 passenger vessels listed in Appendix I to the regulatory assessment, which have 2 passenger decks and would need to provide access to passenger amenities that are not located on an entry deck such as transportation seating areas on a vehicle ferry, are less than 10,000 gross tonnage calculated in accordance with the International Convention on the Tonnage Measurement of Ships, and new vessels that replace these vessels would be permitted to provide a LULA to connect the decks.
 
 *Question 10.*  Are any of the vessels listed in Appendix I to the regulatory assessment that we assume to be less than 10,000 gross tonnage calculated in accordance with the International Convention on the Tonnage Measurement of Ships and would be permitted to provide a LULA to connect decks actually 10,000 or more gross tonnage?
 
@@ -405,7 +541,7 @@ The proposed scoping provision in V206.6 would require an elevator complying wit
 
 The proposed scoping provision in V206.6 also would permit a LULA to be provided in passenger vessels eligible to use the exceptions discussed below, and where a platform lift is permitted.
 
-The proposed scoping provision in V206.7 would permit platform lifts complying with the proposed technical provisions in V409 to connect decks that are less than 3,000 square feet.  Safety codes limit the maximum rise of a platform lift to 14 feet.[16](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote16)  The proposed scoping provision in V206.7 also would permit platform lifts to connect to decks where vertical clearance constraints on a passenger vessel route make use of an elevator infeasible.
+The proposed scoping provision in V206.7 would permit platform lifts complying with the proposed technical provisions in V409 to connect decks that are less than 3,000 square feet.  Safety codes limit the maximum rise of a platform lift to 14 feet.<a href="#endnote16" aria-label="end note 16" aria-describedby="endnote16"><sup id="footnote16">[16]</sup></a>  The proposed scoping provision in V206.7 also would permit platform lifts to connect to decks where vertical clearance constraints on a passenger vessel route make use of an elevator infeasible.
 
 ##### Exceptions for Onboard Accessible Routes to Connect Decks
 
@@ -489,7 +625,7 @@ Earlier drafts of the guidelines included a scoping provision for stairs in V209
 
 ##### V210 Rinsing Showers
 
-This section would apply where rinsing showers are provided for passengers.  It does not require rinsing showers to be provided.  The section would require rinsing showers to comply with the proposed technical provisions for rinsing showers in V608, including clear deck space (V608.2.4); shower spray unit and water (V608.6); thresholds (V608.7); and enclosures not obstructing controls (V608.8).[17](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote17)  Where rinsing showers are clustered at a single location, the section would require at least one of the rinsing showers to comply with the proposed technical provisions for rinsing showers in V608.
+This section would apply where rinsing showers are provided for passengers.  It does not require rinsing showers to be provided.  The section would require rinsing showers to comply with the proposed technical provisions for rinsing showers in V608, including clear deck space (V608.2.4); shower spray unit and water (V608.6); thresholds (V608.7); and enclosures not obstructing controls (V608.8).<a href="#endnote17" aria-label="end note 17" aria-describedby="endnote17"><sup id="footnote17">[17]</sup></a>  Where rinsing showers are clustered at a single location, the section would require at least one of the rinsing showers to comply with the proposed technical provisions for rinsing showers in V608.
 
 ##### V211 Drinking Fountains
 
@@ -503,7 +639,7 @@ This section would apply where galleys, pantries, and sinks are provided for pas
 
 ##### V213 Toilet Facilities and Bathing Facilities
 
-This section would apply where toilet facilities and bathing facilities are provided for passengers.  It does not require these facilities to be provided.  The section would require each toilet room and bathing room to comply with the proposed technical provisions in V603, including clearances (V603.2); mirrors (V603.3); and coat hooks and shelves (V603.4).[18](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote18)
+This section would apply where toilet facilities and bathing facilities are provided for passengers.  It does not require these facilities to be provided.  The section would require each toilet room and bathing room to comply with the proposed technical provisions in V603, including clearances (V603.2); mirrors (V603.3); and coat hooks and shelves (V603.4).<a href="#endnote18" aria-label="end note 18" aria-describedby="endnote18"><sup id="footnote18">[18]</sup></a>
 
 Five exceptions are proposed.  Exception 1 would apply to alterations of existing passenger vessels.  Where it is technically infeasible to comply with the proposed technical provisions in V603, existing toilet rooms and bathing rooms would be required to comply to the maximum extent feasible, or to provide an unisex toilet room or bathing room complying with the proposed technical provisions in V603 in the same area and on the same deck as the existing non-complying toilet room or bathing room.
 
@@ -525,13 +661,13 @@ The section would require unisex toilet rooms to contain one lavatory and either
 
 The section would require plumbing fixtures and accessories provided in toilet rooms and bathing rooms complying with V603 to comply with the following proposed technical provisions:
 
--   At least one toilet compartment (stall) would be required to comply with the proposed technical provisions for wheelchair accessible compartments in V604.8.1.  Where six or more toilet compartments are provided, or where the combination of urinals and water closets totals six or more fixtures, at least one toilet compartment would be required to comply with the proposed technical provisions for ambulatory accessible compartments in V604.8.2.  The ambulatory accessible compartment would be in addition to the wheelchair accessible compartment.
--   At least one water closet would be required to comply with the proposed technical provisions for water closets in V604.
--   Where more than one urinal is provided, at least one urinal would be required to comply with the proposed technical provisions for urinals in V605.
--   At least one lavatory would be required to comply with the proposed technical provisions for lavatories in V606 and would not be allowed to be located in a toilet compartment.
--   At least one mirror would be required to comply with the proposed technical provisions for mirrors in V603.3.
--   At least one bathtub would be required to comply with the proposed technical provisions for bathtubs in V607, or at least one shower would be required to comply with the proposed technical provisions for showers in V608.
--   At least one of each type of coat hook and shelf would be required to comply with the proposed technical provisions for coat hooks and shelves in V603.4.
+- At least one toilet compartment (stall) would be required to comply with the proposed technical provisions for wheelchair accessible compartments in V604.8.1.  Where six or more toilet compartments are provided, or where the combination of urinals and water closets totals six or more fixtures, at least one toilet compartment would be required to comply with the proposed technical provisions for ambulatory accessible compartments in V604.8.2.  The ambulatory accessible compartment would be in addition to the wheelchair accessible compartment.
+- At least one water closet would be required to comply with the proposed technical provisions for water closets in V604.
+- Where more than one urinal is provided, at least one urinal would be required to comply with the proposed technical provisions for urinals in V605.
+- At least one lavatory would be required to comply with the proposed technical provisions for lavatories in V606 and would not be allowed to be located in a toilet compartment.
+- At least one mirror would be required to comply with the proposed technical provisions for mirrors in V603.3.
+- At least one bathtub would be required to comply with the proposed technical provisions for bathtubs in V607, or at least one shower would be required to comply with the proposed technical provisions for showers in V608.
+- At least one of each type of coat hook and shelf would be required to comply with the proposed technical provisions for coat hooks and shelves in V603.4.
 
 ##### V214 Washing Machines and Clothes Dryers
 
@@ -539,7 +675,7 @@ This section would apply where washing machines and clothes dryers are provided 
 
 ##### V215 Emergency Alarms
 
-This section would apply where a general alarm system is provided to notify passengers in public areas of emergencies.  The Passenger Vessel Emergency Alarms Advisory Committee recommended that general emergency alarm systems include visible elements to alert passengers who are deaf or have a hearing loss.  This section would require general emergency alarm systems on U.S. flag vessels to provide visible notification appliances complying with the NFPA 72 National Fire Alarm Code.  The International Maritime Organization approved non-mandatory guidelines for including visible elements in general emergency alarm systems in 2012[19](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote19).  For the final guidelines, we are considering requiring general emergency alarm systems on foreign flag vessels that operate in U.S. ports to provide visible notification appliances in public areas and to reference the International Maritime Organization guidelines.  We request comment on this proposal.
+This section would apply where a general alarm system is provided to notify passengers in public areas of emergencies.  The Passenger Vessel Emergency Alarms Advisory Committee recommended that general emergency alarm systems include visible elements to alert passengers who are deaf or have a hearing loss.  This section would require general emergency alarm systems on U.S. flag vessels to provide visible notification appliances complying with the NFPA 72 National Fire Alarm Code.  The International Maritime Organization approved non-mandatory guidelines for including visible elements in general emergency alarm systems in 2012<a href="#endnote19" aria-label="end note 19" aria-describedby="endnote19"><sup id="footnote19">[19]</sup></a>.  For the final guidelines, we are considering requiring general emergency alarm systems on foreign flag vessels that operate in U.S. ports to provide visible notification appliances in public areas and to reference the International Maritime Organization guidelines.  We request comment on this proposal.
 
 *Question 16.*  What additional costs would be associated with providing visible notification appliances in public areas as part of the general emergency alarm systems on foreign flag vessels that operate in U.S. ports?
 
@@ -571,19 +707,19 @@ Where an audio amplification system is provided in an assembly area or transport
 
 Comments on earlier drafts of the guidelines recommended that assistive listening systems be provided in rooms and spaces that do not have audio amplification systems.  Portable assistive listening systems can be used in rooms and spaces that do not have audio amplification systems.  The proposed guidelines do not address portable equipment.  However, portable assistive listening systems may be used to meet the requirements in the DOJ and DOT regulations on use of auxiliary aids and services to ensure effective communication.  See 28 CFR 35.160 and 36.303, and 49 CFR 39.51 and 39.89.
 
-The section does not specify the type of assistive listening system to be provided.  Comments on earlier drafts of the guidelines noted the benefits of induction loop systems over FM and infrared systems.  Individuals who wear hearing aids equipped with telecoils do not need a separate receiver with an induction loop system.[20](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote20)  Where induction loop systems are provided, individuals who do not use hearing aids and individuals who use hearing aids not equipped with telecoils would need a receiver.  A receiver is also needed with FM and infrared systems.
+The section does not specify the type of assistive listening system to be provided.  Comments on earlier drafts of the guidelines noted the benefits of induction loop systems over FM and infrared systems.  Individuals who wear hearing aids equipped with telecoils do not need a separate receiver with an induction loop system.<a href="#endnote20" aria-label="end note 20" aria-describedby="endnote20"><sup id="footnote20">[20]</sup></a>  Where induction loop systems are provided, individuals who do not use hearing aids and individuals who use hearing aids not equipped with telecoils would need a receiver.  A receiver is also needed with FM and infrared systems.
 
 The section would require a minimum number of receivers to be provided for assistive listening systems in accordance with Table V219.3.  The table would reduce the number of receivers as the total seating capacity of the assembly areas and transportation seating areas on the passenger vessel increases.  For example, the table would require assembly areas and transportation seating areas with:
 
--   500 seats to provide a minimum of 20 receivers (4%);
--   1,000 seats to provide a minimum of 36 receivers (3.6%); and
--   2,000 seats to provide a minimum of 55 receivers (2.75%).
+- 500 seats to provide a minimum of 20 receivers (4%);
+- 1,000 seats to provide a minimum of 36 receivers (3.6%); and
+- 2,000 seats to provide a minimum of 55 receivers (2.75%).
 
 A proposed exception would permit the number of receivers to be based on the maximum number of passengers that the passenger vessel is permitted to carry.
 
 At least 25 percent, but no fewer than two, of the receivers would be required to be hearing aid compatible (e.g., neck loops that interface with telecoils in hearing aids).  Because induction loop systems are compatible with hearing aids equipped with telecoils, a proposed exception would reduce the minimum number of receivers by the number that would be required to be hearing aid compatible where induction loop systems are provided.  For example, an assembly area with 500 seats would be required to provide a minimum of 20 receivers, and at least 5 of these receivers would be required to be hearing aid compatible.  If an induction loop system is provided, the proposed exception would require a minimum of 15, instead of 20, receivers since the induction loop system is compatible with hearing aids equipped with telecoils.
 
-There are several national surveys that measure hearing loss.  The surveys vary in question wording and what they measure.  Consequently, the data vary.  The Survey of Income and Program Participation (SIPP) sponsored by the U.S. Census Bureau asks questions about hearing aid use; difficulty hearing a normal conversation (even with a hearing aid); and deafness (unable to hear).  The SIPP data show among persons aged 15 and older 7.6 million (3.1%) had difficulty hearing a normal conversation, including 5.6 million (2.3%) used a hearing aid and 1.1 million (0.5%) were deaf.[21](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote21)  The National Health and Nutritional Examination Surveys (NHANES) sponsored by National Center for Health Statistics asks questions about hearing trouble (no trouble, a little, a lot, deaf) and includes audiometric testing of participants.  The NHANES data show among persons aged 12 and older 30 million (12.7%) had bilateral hearing loss and the number increases to 48.1 million (20.3%) when unilateral hearing loss is included.[22](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote22)
+There are several national surveys that measure hearing loss.  The surveys vary in question wording and what they measure.  Consequently, the data vary.  The Survey of Income and Program Participation (SIPP) sponsored by the U.S. Census Bureau asks questions about hearing aid use; difficulty hearing a normal conversation (even with a hearing aid); and deafness (unable to hear).  The SIPP data show among persons aged 15 and older 7.6 million (3.1%) had difficulty hearing a normal conversation, including 5.6 million (2.3%) used a hearing aid and 1.1 million (0.5%) were deaf.<a href="#endnote21" aria-label="end note 21" aria-describedby="endnote21"><sup id="footnote21">[21]</sup></a>  The National Health and Nutritional Examination Surveys (NHANES) sponsored by National Center for Health Statistics asks questions about hearing trouble (no trouble, a little, a lot, deaf) and includes audiometric testing of participants.  The NHANES data show among persons aged 12 and older 30 million (12.7%) had bilateral hearing loss and the number increases to 48.1 million (20.3%) when unilateral hearing loss is included.<a href="#endnote22" aria-label="end note 22" aria-describedby="endnote22"><sup id="footnote22">[22]</sup></a>
 
 Where an audio amplification system is provided in public areas to communicate emergency information to passengers, such as passenger safety briefings and instructions on evacuation procedures, the section would require an assistive listening system to be provided.  The Passenger Vessel Emergency Alarms Advisory Committee recommended this proposed provision.  We tested a portable FM system on a four passenger deck steel ferry that was 310 feet long, and found that all interior and exterior passenger spaces on the vessel received the FM signal.  Where passengers are assigned to go to specific muster stations in an emergency when the general emergency alarm is activated, an assistive listening system would not be required.
 
@@ -607,11 +743,11 @@ Where automatic teller machines and fare machines are provided on passenger vess
 
 An assembly area would be defined in V106.5 as a portion of a passenger vessel that is used for entertainment, educational gatherings, or similar purposes.  This section would require a minimum number of wheelchair spaces to be provided in assembly areas with fixed seats in accordance with Table V221.2.1.1.  The table would reduce the number of wheelchair spaces as the total seating capacity of the assembly area increases.  For example, the table would require assembly areas with:
 
--   300 seats to provide a minimum of 5 wheelchair spaces (1.6%);
--   500 seats to provide a minimum of 6 wheelchair spaces (1.2%); and
--   1,000 seats to provide a minimum of 10 wheelchair spaces (1%).
+- 300 seats to provide a minimum of 5 wheelchair spaces (1.6%);
+- 500 seats to provide a minimum of 6 wheelchair spaces (1.2%); and
+- 1,000 seats to provide a minimum of 10 wheelchair spaces (1%).
 
-The Survey of Income and Program Participation sponsored by the U.S. Census Bureau show among persons aged 15 and older 3.6 million (1.5%) used a wheelchair or scooter.[23](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote23)
+The Survey of Income and Program Participation sponsored by the U.S. Census Bureau show among persons aged 15 and older 3.6 million (1.5%) used a wheelchair or scooter.<a href="#endnote23" aria-label="end note 23" aria-describedby="endnote23"><sup id="footnote23">[23]</sup></a>
 
 The section would require the wheelchair spaces to be an integral part of the fixed seating plan.  The section includes proposed scoping and technical provisions for dispersion of wheelchair spaces where seats are arranged to provide lines of sight to fixed screens or performance areas to ensure that passengers who use wheelchairs have an equivalent choices of seating locations and viewing angles (V221.2.3 and V802.2).  The section also includes proposed scoping and technical provisions for dispersion of wheelchair spaces where seats are not arranged to provide lines of sight to fixed screens or performance areas (V221.2.4).
 
@@ -623,11 +759,11 @@ The section also would require a companion seat for each wheelchair space, and a
 
 A transportation seating area would be defined in V106.5 as an area, other than an assembly area, where fixed seats are provided for passengers.  This section would require a minimum number of wheelchair spaces in transportation seating areas in accordance with Table V222.3.  The table would reduce the number of wheelchair spaces as the total seating capacity of the transportation seating increases.  For example, the table would require transportation seating areas with:
 
--   100 seats to provide a minimum of 2 wheelchair spaces (2%);
--   300 seats to provide a minimum of 5 wheelchair spaces (1.6%); and
--   650 seats to provide a minimum of 7 wheelchair spaces (1%).
+- 100 seats to provide a minimum of 2 wheelchair spaces (2%);
+- 300 seats to provide a minimum of 5 wheelchair spaces (1.6%); and
+- 650 seats to provide a minimum of 7 wheelchair spaces (1%).
 
-The Survey of Income and Program Participation sponsored by the U.S. Census Bureau show among persons aged 15 and older 3.6 million (1.5%) used a wheelchair or scooter.[24](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote24)
+The Survey of Income and Program Participation sponsored by the U.S. Census Bureau show among persons aged 15 and older 3.6 million (1.5%) used a wheelchair or scooter.<a href="#endnote24" aria-label="end note 24" aria-describedby="endnote24"><sup id="footnote24">[24]</sup></a>
 
 An exception is proposed for passenger vessels that provide more fixed seats in transportation seating areas than the vessel is permitted to carry.  The proposed exception would permit the number of wheelchair spaces to be based on the maximum number of passengers that the passenger vessel is permitted to carry.
 
@@ -651,13 +787,13 @@ This section would require passenger vessels to provide a minimum number of gues
 
 Guest rooms with mobility features are typically larger than other guest rooms to accommodate passengers who use wheelchairs or scooters.  The proposed technical provisions for guest rooms with mobility features would require wider doorways; turning space within the guest room; clear deck space on both sides of a bed or between two beds and at the closet; turning space within the bathroom and clear deck space at the bathtub or shower, lavatory or sink, and toilet (the turning space and clear deck spaces can overlap); and grab bars at the toilet and at the bathtub or shower.
 
-The Survey of Income and Program Participation (SIPP) sponsored by the U.S. Census Bureau has asked questions about use of mobility devices, including wheelchairs, scooters, canes, crutches, and walkers, by persons aged 15 and older since 1990.  The SIPP provides stability in measuring disability over a long period with a large sample that is representative of the U.S. population.  We had a report prepared that converted the SIPP data on individuals who used mobility devices to households that have a member who used a mobility device because families typically go on cruises for vacation and leisure travel.[25](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote25)  This report is referred to as the household report.
+The Survey of Income and Program Participation (SIPP) sponsored by the U.S. Census Bureau has asked questions about use of mobility devices, including wheelchairs, scooters, canes, crutches, and walkers, by persons aged 15 and older since 1990.  The SIPP provides stability in measuring disability over a long period with a large sample that is representative of the U.S. population.  We had a report prepared that converted the SIPP data on individuals who used mobility devices to households that have a member who used a mobility device because families typically go on cruises for vacation and leisure travel.<a href="#endnote25" aria-label="end note 25" aria-describedby="endnote25"><sup id="footnote25">[25]</sup></a>  This report is referred to as the household report.
 
 The household report shows households with a member who used a wheelchair or scooter doubled from 1.5 percent in 1990 to 3 percent in 2010.  If past trends continue, a linear extrapolation to 2025 projects about 4 percent of households will have a member who uses a wheelchair or scooter.  We assume households with a member who uses a wheelchair or scooter would need a guest room with mobility features.
 
-The household report also shows households with a member who used a cane, crutches, or walker grew from 4.5 percent in 1990 to 7 percent in 2010.  If past trends continue, a linear extrapolation to 2025 projects about 9 percent of households will have a member who uses a cane, crutches, or walker.  Households with a member who uses a cane, crutches, or walker may rent a wheelchair or scooter for distance travel on a cruise ship and for shore excursions.[26](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote26)  We assume these households may need a guest room with mobility features.  We assume households with a member who uses a cane, crutches, or walker may also need features such as grab bars at toilets and at bathtubs or showers that are provided in guest rooms with mobility features, regardless of whether they rent a wheelchair or scooter for distance travel on a cruise ship and for shore excursions.
+The household report also shows households with a member who used a cane, crutches, or walker grew from 4.5 percent in 1990 to 7 percent in 2010.  If past trends continue, a linear extrapolation to 2025 projects about 9 percent of households will have a member who uses a cane, crutches, or walker.  Households with a member who uses a cane, crutches, or walker may rent a wheelchair or scooter for distance travel on a cruise ship and for shore excursions.<a href="#endnote26" aria-label="end note 26" aria-describedby="endnote26"><sup id="footnote26">[26]</sup></a>  We assume these households may need a guest room with mobility features.  We assume households with a member who uses a cane, crutches, or walker may also need features such as grab bars at toilets and at bathtubs or showers that are provided in guest rooms with mobility features, regardless of whether they rent a wheelchair or scooter for distance travel on a cruise ship and for shore excursions.
 
-The cruise industry submitted a report indicating that about 70 percent of the passengers who used wheelchairs or scooters on 45 cruise ships in 2005 did not occupy a guest room with mobility features.[27](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote27)  The report suggested that these passengers may have used wheelchairs or scooters for distance travel on the cruise ships and for shore excursions, and may not have needed a guest room with mobility features.  The entry doorway to guest rooms is typically 22 to 24 inches wide and is too narrow for a wheelchair or scooter to pass through.[28](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote28)  The proposed guidelines would require 32 inches minimum clear opening at the entry doorway to guest rooms with mobility features.  The report did not consider other possible reasons why a significant percent of passengers who used wheelchairs or scooters did not occupy a guest room with mobility features.  Passengers who do not have a disability may have reserved guest rooms with mobility features because they are larger than other guest rooms resulting in the rooms not being available to passengers with disabilities.  Some cruise lines had a practice of requesting passengers with disabilities to provide a doctor's note to reserve a guest room with mobility features.  This practice may have discouraged passengers with disabilities from reserving guest rooms with mobility features.  DOT issued regulations in 2010 that require cruise lines to hold guest rooms with mobility features for passengers with disabilities until all other rooms in the same class are sold, and ban the practice of requesting passengers with disabilities to provide a doctor's note to reserve a guest room with mobility features.  See 49 CFR 39.39 (b) (2) and (f).
+The cruise industry submitted a report indicating that about 70 percent of the passengers who used wheelchairs or scooters on 45 cruise ships in 2005 did not occupy a guest room with mobility features.<a href="#endnote27" aria-label="end note 27" aria-describedby="endnote27"><sup id="footnote27">[27]</sup></a>  The report suggested that these passengers may have used wheelchairs or scooters for distance travel on the cruise ships and for shore excursions, and may not have needed a guest room with mobility features.  The entry doorway to guest rooms is typically 22 to 24 inches wide and is too narrow for a wheelchair or scooter to pass through.<a href="#endnote28" aria-label="end note 28" aria-describedby="endnote28"><sup id="footnote28">[28]</sup></a>  The proposed guidelines would require 32 inches minimum clear opening at the entry doorway to guest rooms with mobility features.  The report did not consider other possible reasons why a significant percent of passengers who used wheelchairs or scooters did not occupy a guest room with mobility features.  Passengers who do not have a disability may have reserved guest rooms with mobility features because they are larger than other guest rooms resulting in the rooms not being available to passengers with disabilities.  Some cruise lines had a practice of requesting passengers with disabilities to provide a doctor's note to reserve a guest room with mobility features.  This practice may have discouraged passengers with disabilities from reserving guest rooms with mobility features.  DOT issued regulations in 2010 that require cruise lines to hold guest rooms with mobility features for passengers with disabilities until all other rooms in the same class are sold, and ban the practice of requesting passengers with disabilities to provide a doctor's note to reserve a guest room with mobility features.  See 49 CFR 39.39 (b) (2) and (f).
 
 *Question 24.*  How often are individuals with mobility disabilities or households with a member who has a mobility disability who request a guest room with mobility features unable to reserve the type of guest room (e.g., interior, oceanview, balcony, suite) they request, but the same type of guest rooms without mobility features are available?
 
@@ -681,13 +817,13 @@ As noted above, households with a member who used a cane, crutches, or walker gr
 
 This section would require passenger vessels to provide a minimum number of guest rooms with communication features based on the total number of guest rooms in accordance with Table V224.4.  For instance, a passenger vessel with 501 to 1,000 guest rooms would be required to provide a minimum of 5 percent of guest rooms with communication features.  A passenger vessel with more than 1,000 guest rooms would be required to provide a minimum of 50 of guest rooms with communication features for the first 1,000 guest rooms (5%), plus 3 guest rooms with mobility features for each additional 100 guest rooms over 1,000 (3%).  The section would require guest rooms with communication features to be dispersed among the various classes of guest rooms.  The minimum number of guest rooms with communication features that would be required on passenger vessels is consistent with the guidelines for landside facilities such as hotels and resorts.  We request comment on this proposed scoping provision.
 
-The Survey of Income and Program Participation (SIPP) sponsored by the U.S. Census Bureau asks questions about hearing aid use; difficulty hearing what is said in a normal conversation (even when wearing a hearing aid); and deafness (unable to hear) for persons aged 6 and older.  We had a report prepared that converted the SIPP data on individuals who had hearing impairments to households that have a member who had a hearing impairment because families typically go on cruises for vacation and leisure travel.[29](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote29)  This report is referred to as the household report.
+The Survey of Income and Program Participation (SIPP) sponsored by the U.S. Census Bureau asks questions about hearing aid use; difficulty hearing what is said in a normal conversation (even when wearing a hearing aid); and deafness (unable to hear) for persons aged 6 and older.  We had a report prepared that converted the SIPP data on individuals who had hearing impairments to households that have a member who had a hearing impairment because families typically go on cruises for vacation and leisure travel.<a href="#endnote29" aria-label="end note 29" aria-describedby="endnote29"><sup id="footnote29">[29]</sup></a>  This report is referred to as the household report.
 
 The household report shows about 9 percent of households in 2010 had a member with a hearing impairment (i.e., had difficulty hearing a normal conversation, used a hearing aid, or was deaf).  The percent of households that had a member who used a hearing aid or was deaf is about 5 percent.
 
-The SIPP reports fewer individuals with hearing impairments compared to the National Health and Nutritional Examination Survey (NHANES).  NHANES asks questions about hearing trouble (no trouble, a little, a lot, deaf) and includes audiometric testing of participants.  NHANES data for persons aged 12 and older show 30 million (12.7%) had a bilateral hearing loss and the number increases to 48.1 million (20.3%) when unilateral hearing loss is included.[30](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote30)  SIPP data for persons aged 15 and older show 7.6 million (3.1%) had difficulty hearing a normal conversation, including 5.6 million (2.3%) used a hearing aid and 1.1 million (0.5%) were deaf.[31](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote31)
+The SIPP reports fewer individuals with hearing impairments compared to the National Health and Nutritional Examination Survey (NHANES).  NHANES asks questions about hearing trouble (no trouble, a little, a lot, deaf) and includes audiometric testing of participants.  NHANES data for persons aged 12 and older show 30 million (12.7%) had a bilateral hearing loss and the number increases to 48.1 million (20.3%) when unilateral hearing loss is included.<a href="#endnote30" aria-label="end note 30" aria-describedby="endnote30"><sup id="footnote30">[30]</sup></a>  SIPP data for persons aged 15 and older show 7.6 million (3.1%) had difficulty hearing a normal conversation, including 5.6 million (2.3%) used a hearing aid and 1.1 million (0.5%) were deaf.<a href="#endnote31" aria-label="end note 31" aria-describedby="endnote31"><sup id="footnote31">[31]</sup></a>
 
-Guest rooms with communication features would be required to provide visible notification appliances in the room to alert and awaken passengers who are deaf or who have a hearing loss of general emergency alarms and guest room smoke detector alarms.  For U.S. flag vessels, the visible notification appliances would be required to comply with the NFPA 72 National Fire Alarm Code.  For foreign flag vessels that operate in U.S. ports, we are considering referencing the International Maritime Organization guidelines in the final guidelines.[32](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote32)
+Guest rooms with communication features would be required to provide visible notification appliances in the room to alert and awaken passengers who are deaf or who have a hearing loss of general emergency alarms and guest room smoke detector alarms.  For U.S. flag vessels, the visible notification appliances would be required to comply with the NFPA 72 National Fire Alarm Code.  For foreign flag vessels that operate in U.S. ports, we are considering referencing the International Maritime Organization guidelines in the final guidelines.<a href="#endnote32" aria-label="end note 32" aria-describedby="endnote32"><sup id="footnote32">[32]</sup></a>
 
 *Question 30.*  What additional costs would be associated with providing visible notification appliances in guest rooms with communication features on foreign flag vessels that operate in U.S. ports?
 
@@ -775,7 +911,7 @@ This section would require doorways with coamings to conform to the minimum coam
 
 *Question 32.*  Do passenger vessels exceed the minimum coaming height determined by the administrative authority?  If so, comments should provide information explaining conditions where the minimum coaming height is exceeded.
 
-The Passenger Vessel Access Advisory Committee recommended that single ramp access or double ramp access and automatic doors be provided at doorways with coamings.  We sponsored a research project by the Volpe National Transportation Systems Center to examine potential access solutions to doorways with coamings.[33](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote33)  A working group organized by the U.S. Coast Guard and the Passenger Vessel Association reviewed the research project report.  The proposed technical provisions for doorways with coamings considered in the earlier drafts of the guidelines are revised based on the research project report, case studies, and input from the U.S. Coast Guard and Passenger Vessel Association working group.
+The Passenger Vessel Access Advisory Committee recommended that single ramp access or double ramp access and automatic doors be provided at doorways with coamings.  We sponsored a research project by the Volpe National Transportation Systems Center to examine potential access solutions to doorways with coamings.<a href="#endnote33" aria-label="end note 33" aria-describedby="endnote33"><sup id="footnote33">[33]</sup></a>  A working group organized by the U.S. Coast Guard and the Passenger Vessel Association reviewed the research project report.  The proposed technical provisions for doorways with coamings considered in the earlier drafts of the guidelines are revised based on the research project report, case studies, and input from the U.S. Coast Guard and Passenger Vessel Association working group.
 
 For single ramp access, this section would require a ramp on the side of the doorway to be protected from water infiltration. Changes in level would not be permitted within the maneuvering clearances specified on the other side of the door.
 
@@ -917,14 +1053,14 @@ We estimate 387 of the ferries (85%), 286 of the multi-purpose vessels (83%), an
 
 We conducted case studies of ten vessels to develop estimates of the compliance costs.  We divided the 696 vessels that we assume to be replaced over 20 years into 13 groups by type and size of vessel and extrapolated the compliance costs from the case study vessels to these vessels.  See Table 8 in regulatory assessment for the 13 groups of vessels and case study vessels matched with each group.  The compliance costs include the following components:
 
--   Vertical Access Construction Cost.  This is the cost of installing an elevator, limited use-limited application elevator (LULA), or platform lift to connect passenger decks on a vessel with more than one deck.  See Table 9 in the regulatory assessment for estimates of the vertical access construction costs for the vessels
--   Other Accessible Feature Costs.  This includes the cost to expand toilet rooms; modify doors and thresholds; install automatic doors at doorways with coamings and double ramps; add assistive listening systems; and provide protected waiting areas as part of an accessible means of escape where passengers with disabilities wait for crew assistance during emergencies.  See Table 10 in the regulatory assessment for estimates of the other accessible feature costs for the vessels.
--   Lengthening Cost.  This is the cost of increasing the length of a vessel to accommodate the accessible features and maintain passenger and vehicle capacity.  See Table 11 in the regulatory assessment for estimates of the costs to lengthen the vessels.
--   Redesign Cost.  This is the cost for architectural design drawings for a new vessel that differs in design from the vessel it replaces.  See Table 12 in the regulatory assessment for estimates of the redesign costs for the vessels.
--   Vertical Access Maintenance Cost.  This is the annual cost of maintaining an elevator, LULA, or platform lift to connect passenger decks.  See Table 13 in the regulatory assessment for estimates of the vertical access maintenance costs for the vessels.
--   Automatic Door Maintenance Cost.  This is the annual cost of maintaining and replacing automatic doors at doorways with coamings and double ramps.  See Table 13 in the regulatory assessment for estimates of the automatic door maintenance costs for the vessels.
--   Engine Maintenance Cost.  This is the annual cost for additional engine maintenance due to added weight from the accessible features and vessel lengthening.  See Table 14 in the regulatory assessment for estimates of the engine maintenance costs for the vessels.
--   Fuel Cost.  This is the annual cost for additional fuel consumption due to installing an elevator, LULA, or platform lift to connect passenger decks and vessel lengthening.  See Table 14 in the regulatory assessment for estimates of the additional annual fuel costs for the vessels.
+- Vertical Access Construction Cost.  This is the cost of installing an elevator, limited use-limited application elevator (LULA), or platform lift to connect passenger decks on a vessel with more than one deck.  See Table 9 in the regulatory assessment for estimates of the vertical access construction costs for the vessels
+- Other Accessible Feature Costs.  This includes the cost to expand toilet rooms; modify doors and thresholds; install automatic doors at doorways with coamings and double ramps; add assistive listening systems; and provide protected waiting areas as part of an accessible means of escape where passengers with disabilities wait for crew assistance during emergencies.  See Table 10 in the regulatory assessment for estimates of the other accessible feature costs for the vessels.
+- Lengthening Cost.  This is the cost of increasing the length of a vessel to accommodate the accessible features and maintain passenger and vehicle capacity.  See Table 11 in the regulatory assessment for estimates of the costs to lengthen the vessels.
+- Redesign Cost.  This is the cost for architectural design drawings for a new vessel that differs in design from the vessel it replaces.  See Table 12 in the regulatory assessment for estimates of the redesign costs for the vessels.
+- Vertical Access Maintenance Cost.  This is the annual cost of maintaining an elevator, LULA, or platform lift to connect passenger decks.  See Table 13 in the regulatory assessment for estimates of the vertical access maintenance costs for the vessels.
+- Automatic Door Maintenance Cost.  This is the annual cost of maintaining and replacing automatic doors at doorways with coamings and double ramps.  See Table 13 in the regulatory assessment for estimates of the automatic door maintenance costs for the vessels.
+- Engine Maintenance Cost.  This is the annual cost for additional engine maintenance due to added weight from the accessible features and vessel lengthening.  See Table 14 in the regulatory assessment for estimates of the engine maintenance costs for the vessels.
+- Fuel Cost.  This is the annual cost for additional fuel consumption due to installing an elevator, LULA, or platform lift to connect passenger decks and vessel lengthening.  See Table 14 in the regulatory assessment for estimates of the additional annual fuel costs for the vessels.
 
 We estimate the total compliance costs for the vessels annualized over 20 years are $16 million discounted at 7 percent and 3 percent.  See Table 15 in the regulatory assessment for the total estimated compliance costs.
 
@@ -964,22 +1100,22 @@ We do not estimate costs for tenders because the proposed provisions for tenders
 
 We do not quantify the benefits of the proposed guidelines due to the nature of the benefits.  The proposed guidelines would address the discriminatory effects of architectural, transportation, and communication barriers encountered by individuals with mobility, hearing, and vision disabilities on passenger vessels.  Accessible passenger boarding systems would enable passengers with mobility disabilities to independently board and disembark from passenger vessels.  Wheelchair spaces in seating areas would enable passengers who use wheelchairs or scooters to sit with other passengers.  Passengers with mobility disabilities would be able to use toilet rooms and guest rooms on passenger vessels and cruise ships.  Assistive listening systems would enable passengers who have difficulty hearing to listen to a narrated tour delivered on the public address system of an excursion vessel.  Passengers who have difficulty seeing or are blind would be able to walk around passenger vessels without encountering protruding objects.  The proposed guidelines would afford individuals with disabilities equal opportunity to travel on passenger vessels for employment, transportation, public accommodation, and leisure.  The proposed guidelines would enable individuals with disabilities to achieve greater participation in society, independent living, and economic self-sufficiency.  The benefits are difficult to quantify, but include important national values recognized in Executive Order 13563 such as equity, human dignity, and fairness.
 
-The Survey of Income and Program Participation (SIPP) sponsored by the U.S. Census Bureau asks questions about whether persons have difficulty performing a specific set of functional activities.[34](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote34)  The SIPP provides estimates of disability prevalence that are representative of the civilian non-institutionalized population living in the United States.  We recognize that not all these individuals are likely to directly benefit from the proposed guidelines because some may not use passenger vessels covered by the proposed guidelines.  We do not have information to estimate the number of people with mobility disabilities or their family members who would directly benefit from the proposed guidelines.  We provide the data below for illustrative purposes.
+The Survey of Income and Program Participation (SIPP) sponsored by the U.S. Census Bureau asks questions about whether persons have difficulty performing a specific set of functional activities.<a href="#endnote34" aria-label="end note 34" aria-describedby="endnote34"><sup id="footnote34">[34]</sup></a>  The SIPP provides estimates of disability prevalence that are representative of the civilian non-institutionalized population living in the United States.  We recognize that not all these individuals are likely to directly benefit from the proposed guidelines because some may not use passenger vessels covered by the proposed guidelines.  We do not have information to estimate the number of people with mobility disabilities or their family members who would directly benefit from the proposed guidelines.  We provide the data below for illustrative purposes.
 
 ##### Persons with Mobility Disabilities
 
 The proposed provisions for accessible passenger boarding systems, onboard accessible routes, accessible means of escape, toilet rooms, wheelchair spaces in assembly areas and transportation seating areas, and guest rooms with mobility features would directly benefit persons with mobility disabilities who use passenger vessels covered by the proposed guidelines.  The SIPP data show among persons aged 15 and older, 30.6 million (12.6%) had limitations associated with ambulatory activities of the lower body, including difficulty walking, climbing stairs, or using mobility devices.  This number includes:
 
--   23.9 million (9.9%) had difficulty walking a quarter of a mile;
--   22.3 million (9.2%) had difficulty climbing a flight of stairs;
--   11.6 million (4.8%) used a cane, crutches, or walker to assist with mobility; and
--   3.6 million (1.5%) used a wheelchair or scooter.
+- 23.9 million (9.9%) had difficulty walking a quarter of a mile;
+- 22.3 million (9.2%) had difficulty climbing a flight of stairs;
+- 11.6 million (4.8%) used a cane, crutches, or walker to assist with mobility; and
+- 3.6 million (1.5%) used a wheelchair or scooter.
 
 ##### Persons Who Have Difficulty Hearing or Are Deaf
 
 The proposed provisions for assistive listening systems, general emergency alarms, and guest rooms with communication features would directly benefit persons who have difficulty hearing or are deaf and use passenger vessels covered by the proposed guidelines.  The SIPP data show among persons aged 15 and older 7.6 million (3.1%) had difficulty hearing, including 5.6 million (2.3%) used a hearing aid and 1.1 million (0.5%) were deaf.
 
-The SIPP reports that fewer persons with hearing impairments compared to the National Health and Nutritional Examination Survey (NHANES).  NHANES includes audiometric testing of participants.  NHANES data for persons aged 12 and older show 30 million (12.7%) had a bilateral hearing loss and the number increases to 48.1 million (20.3%) when unilateral hearing loss is included.[35](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#endnote35)
+The SIPP reports that fewer persons with hearing impairments compared to the National Health and Nutritional Examination Survey (NHANES).  NHANES includes audiometric testing of participants.  NHANES data for persons aged 12 and older show 30 million (12.7%) had a bilateral hearing loss and the number increases to 48.1 million (20.3%) when unilateral hearing loss is included.<a href="#endnote35" aria-label="end note 35" aria-describedby="endnote35"><sup id="footnote35">[35]</sup></a>
 
 ##### Persons Who Have Difficulty Seeing or Are Blind
 
@@ -991,15 +1127,27 @@ The proposed provisions for protruding objects, elevator call buttons and signal
 
 The primary estimates of the costs and benefits of the proposed guidelines are shown in Table 6.  We estimate the total compliance costs annualized over 20 years are $66 million discounted at 7 percent, and $74 million discounted at 3 percent.
 
-Table 6.  Primary Estimates of Costs and Benefits of Proposed Guidelines\
-Annualized Over 20 Years (2011 Dollars)
-|   | 7% Discount Rate | 3% Discount Rate |
-| Costs | $66 million | $74 million |
-| Benefits |
-
-The proposed guidelines would address the discriminatory effects of architectural, transportation, and communication barriers encountered by individuals with mobility, hearing, and vision disabilities on passenger vessels.  The proposed guidelines would afford these individuals equal opportunity to travel on passenger vessels for employment, transportation, public accommodation, and leisure.  The benefits are difficult to quantify, but include important national values recognized in Executive Order 13563 such as equity, human dignity, and fairness.
-
- |
+<table class="data usa-table">
+    <caption>Table 6. Primary Estimates of Costs and Benefits of Proposed Guidelines Annualized Over 20 Years (2011 Dollars)</caption>
+    <thead>
+        <tr>
+            <td></td>
+            <th scope="col">7% Discount Rate</th>
+            <th scope="col">3% Discount Rate</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>Costs</th>
+            <td>$66 million</td>
+            <td>$74 million</td>
+        </tr>
+        <tr>
+            <th>Benefits</th>
+            <td colspan="2">The proposed guidelines would address the discriminatory effects of architectural, transportation, and communication barriers encountered by individuals with mobility, hearing, and vision disabilities on passenger vessels.  The proposed guidelines would afford these individuals equal opportunity to travel on passenger vessels for employment, transportation, public accommodation, and leisure.  The benefits are difficult to quantify, but include important national values recognized in Executive Order 13563 such as equity, human dignity, and fairness.</td>
+        </tr>
+    </tbody>
+</table>
 
 *Question 45.*  Are there alternatives in addition to those included in the proposed guidelines that would: (1) achieve the statutory and regulatory objective to ensure that passenger vessels are readily accessible to and usable by passengers with disabilities; and (2) reduce the compliance costs for passenger vessel owners and operators?
 
@@ -1019,13 +1167,39 @@ The objective of the proposed guidelines is to ensure that newly constructed and
 
 The proposed guidelines would affect small businesses identified by the North American Industry Classification System (NAICS) codes listed in Table 7 and small governments with a population of 50,000 or less that own or operate passenger vessels, other than ferries or tenders, permitted to carry more than 150 passengers or more than 49 overnight passengers; ferries permitted to carry more than 99 passengers; and tenders permitted to carry more than 59 passengers.
 
-Table 7.  Small Business Administration Size Standards
-| NAICS Code | Small Business Size |
-| 483112 | Deep Sea Passenger Transportation | 500 or fewer employees |
-| 483114 | Coastal and Great Lakes Passenger Transportation | 500 or fewer employees |
-| 483212 | Inland Water Passenger Transportation | 500 or fewer employees |
-| 487110 | Scenic and Sightseeing Transportation, Water | $7 million or less annual receipts |
-| 713210 | Casinos (except Casino Hotels) | $7 million or less annual receipts |
+<table id="pt7" class="data">
+    <caption>Table 7. Small Business Administration Size Standards</caption>
+<thead>
+    <tr><th colspan="2" scope="col">NAICS Code</th><th scope="col">Small Business Size</th></tr>
+</thead>
+<tbody>
+    <tr>
+    <th scope="row">483112</th>
+    <th scope="row">Deep Sea Passenger Transportation</th>
+    <td>500 or fewer employees</td>
+    </tr>
+    <tr>
+    <th scope="row">483114</th>
+    <th scope="row">Coastal and Great Lakes Passenger Transportation</th>
+    <td>500 or fewer employees</td>
+    </tr>
+    <tr>
+    <th scope="row">483212</th>
+    <th scope="row">Inland Water Passenger Transportation</th>
+    <td>500 or fewer employees</td>
+    </tr>
+    <tr>
+    <th scope="row">487110</th>
+    <th scope="row">Scenic and Sightseeing Transportation, Water</th>
+    <td>$7 million or less annual receipts</td>
+    </tr>
+    <tr>
+    <th scope="row">713210</th>
+    <th scope="row">Casinos (except Casino Hotels)</th>
+    <td>$7 million or less annual receipts</td>
+    </tr>
+</tbody>
+</table>
 
 We estimate 381 small entities own or operate 635 vessels in the size categories covered by the proposed guidelines.  This includes 372 small businesses that own or operate 257 ferries, 338 multi-purpose vessels, and 23 small cruise ships permitted to carry 50 to 299 overnight passengers; and 9 small governments that own or operate 16 ferries and 1 multi-purpose vessel.
 
@@ -1037,24 +1211,44 @@ The proposed guidelines would apply when small entities replace their existing v
 
 We estimate the compliance costs for small entities that construct new vessels to replace existing vessels.  As shown in Table 8, we estimate 533 vessels owned or operated by small entities would reach the end of their expected service life over 20 years beginning in 2011.  We assume small entities would construct new vessels to replace these vessels.  The estimated compliance costs are based on case studies and are adjusted to 2011 dollars.
 
-Table 8.  Small Entity Vessels Replaced by New Vessels Over 20 Years
-| Vessel | Number | Number Replaced Over 20 Years |
-| --- | --- | --- |
-| Ferries | 273 | 238 |
-| Multi-Purpose Vessels | 339 | 279 |
-| Small Cruise Ships | 23 | 16 |
-| Total | **635** | **533** |
+<table id="pt8" class="data">
+    <caption>Table 8. Small Entity Vessels Replaced by New Vessels Over 20 Years</caption>
+<thead>
+<tr><th scope="col">Vessel</th><th scope="col">Number</th><th scope="col">Number Replaced Over 20 Years</th></tr>
+</thead>
+<tbody>
+<tr>
+<th scope="row">Ferries</th>
+<td>273</td>
+<td>238</td>
+</tr>
+<tr>
+<th scope="row">Multi-Purpose Vessels</th>
+<td>339</td>
+<td>279</td>
+</tr>
+<tr>
+<th scope="row">Small Cruise Ships</th>
+<td>23</td>
+<td>16</td>
+</tr>
+<tr><th scope="row"><span class="text-bold">Total</span></th>
+<td><span class="text-bold">635</span></td>
+<td><span class="text-bold">533</span></td>
+</tr>
+</tbody>
+</table>
 
 The compliance costs include the following components:
 
--   Vertical Access Cost.  This is the cost of installing an elevator, limited use-limited application elevator (LULA), or platform lift to connect passenger decks on a vessel with more than one deck.  When small entities construct new vessels to replace existing vessels, we estimate 65 vessels would be required to provide a LULA at a cost of $297,000; 29 vessels would be required to provide an elevator at a cost of $372,000; 5 small cruise ships that currently provide elevators would be required to provide larger elevators at a cost of $2,700; and 16 small cruise ships would be required to provide a platform lift to tender boarding platforms at the stern of the vessel at a cost of $27,700.  See Table 22 in the regulatory assessment for the types and sizes of the vessels that would incur compliance costs for an elevator, LULA, or platform lift.
--   Other Accessible Feature Costs.  This includes the cost to expand toilet rooms; modify doors and thresholds; install automatic doors at doorways with coamings and double ramps; add assistive listening systems; and provide protected waiting areas as part of an accessible means of escape where passengers with disabilities wait for crew assistance during emergencies.  When small entities construct new vessels to replace existing vessels, we estimate 516 vessels would incur compliance costs for other accessible features.  The costs would range from $19,000 for mono-hull ferries permitted to carry 151 to 1,000 passengers plus vehicles to $631,000 for mono-hull ferries permitted to carry 1,001 or more passengers plus vehicles. The costs are higher for mono-hull ferries permitted to carry 1,001 or more passengers plus vehicles because the estimate is based on the case study of a 4,400 passenger and 30 vehicle ferry where the owner wanted to provide automatic sprinkler systems instead of protected waiting areas as part of an accessible means of escape even though the automatic sprinkler systems are more costly. The costs would be lower if protected waiting areas are provided.  See Table 23 in the regulatory assessment for the types and sizes of the vessels that would incur compliance costs for other accessible features.
--   Lengthening Cost.  This is the cost of increasing the length of a vessel to accommodate the accessible features and maintain passenger and vehicle capacity.  When small entities construct new vessels to replace existing vessels, we estimate 217 vessels would need to be lengthened due to the proposed guidelines.  The costs would range from $60,000 for mono-hull ferries permitted to carry 100 to 150 passengers to $2,117,000 for some small cruise ships.  See Table 23 in the regulatory assessment for the types and sizes of the vessels that would incur compliance costs to lengthen the vessel.
--   Redesign Cost.  This is the cost for architectural design drawings for a new vessel that differs in design from the existing vessel it replaces.  When small entities construct new vessels to replace existing vessels, we estimate 470 vessels would need to be redesigned due to the proposed guidelines.  The costs would range from $2,000 for some mono-hull ferries permitted to carry 151 to 1,000 passengers plus vehicles to $261,100 for some small cruise ships.  See Table 23 in the regulatory assessment for the types and sizes of the vessels that would incur compliance costs to redesign the vessel.
--   Additional Fuel Cost.  This is the annual cost for additional fuel consumption due to installing an elevator, LULA, or platform lift to connect passenger decks and vessel lengthening.  When small entities construct new vessels to replace existing vessels, we estimate 243 vessels would incur additional fuel costs due to the proposed guidelines.  The costs would range from $5,000 annually for mono-hull vessels permitted to carry 151 to 1,000 passengers to $214,000 annually for multi-hull vessels permitted to carry 151 to 600 passengers.  See Table 24 in the regulatory assessment for the types and sizes of the vessels that would incur additional fuel costs.
--   Vertical Access Maintenance Cost.  This is the annual cost of maintaining an elevator, LULA, or platform lift to connect passenger decks.  When small entities construct new vessels to replace existing vessels, we estimate 100 vessels would incur these annual maintenance costs.  The costs would be $5,500 for an elevator or LULA, and $2,800 for a platform lift.  See Table 24 in the regulatory assessment for the types and sizes of the vessels that would incur these annual maintenance costs.
--   Additional Engine Maintenance Cost.  This is the annual cost for additional engine maintenance due to added weight from the accessible features or vessel lengthening.  When small entities construct new vessels to replace existing vessels, we estimate 37 vessels would incur these annual maintenance costs.  The costs would be $22,000 for multi-hull ferries permitted to carry 100 to 150 passengers.  See Table 24 in the regulatory assessment for the types and sizes of the vessels that would incur these annual maintenance costs.
--   Automatic Door Maintenance Cost.  This is the annual cost of maintaining and replacing the automatic doors provided at doorways with coamings and double ramps.  When small entities construct new vessels to replace existing vessels, we estimate 54 vessels would incur these annual maintenance costs. The costs would range from $1,000 for mono-hull multi-purpose vessels permitted to carry 500 to 1,000 passengers, to $6,000 for mono-hull multi-purpose vessels permitted to carry 1,001 or more passengers.  See Table 24 in the regulatory assessment for the types and sizes of the vessels that would incur these annual maintenance costs.
+- Vertical Access Cost.  This is the cost of installing an elevator, limited use-limited application elevator (LULA), or platform lift to connect passenger decks on a vessel with more than one deck.  When small entities construct new vessels to replace existing vessels, we estimate 65 vessels would be required to provide a LULA at a cost of $297,000; 29 vessels would be required to provide an elevator at a cost of $372,000; 5 small cruise ships that currently provide elevators would be required to provide larger elevators at a cost of $2,700; and 16 small cruise ships would be required to provide a platform lift to tender boarding platforms at the stern of the vessel at a cost of $27,700.  See Table 22 in the regulatory assessment for the types and sizes of the vessels that would incur compliance costs for an elevator, LULA, or platform lift.
+- Other Accessible Feature Costs.  This includes the cost to expand toilet rooms; modify doors and thresholds; install automatic doors at doorways with coamings and double ramps; add assistive listening systems; and provide protected waiting areas as part of an accessible means of escape where passengers with disabilities wait for crew assistance during emergencies.  When small entities construct new vessels to replace existing vessels, we estimate 516 vessels would incur compliance costs for other accessible features.  The costs would range from $19,000 for mono-hull ferries permitted to carry 151 to 1,000 passengers plus vehicles to $631,000 for mono-hull ferries permitted to carry 1,001 or more passengers plus vehicles. The costs are higher for mono-hull ferries permitted to carry 1,001 or more passengers plus vehicles because the estimate is based on the case study of a 4,400 passenger and 30 vehicle ferry where the owner wanted to provide automatic sprinkler systems instead of protected waiting areas as part of an accessible means of escape even though the automatic sprinkler systems are more costly. The costs would be lower if protected waiting areas are provided.  See Table 23 in the regulatory assessment for the types and sizes of the vessels that would incur compliance costs for other accessible features.
+- Lengthening Cost.  This is the cost of increasing the length of a vessel to accommodate the accessible features and maintain passenger and vehicle capacity.  When small entities construct new vessels to replace existing vessels, we estimate 217 vessels would need to be lengthened due to the proposed guidelines.  The costs would range from $60,000 for mono-hull ferries permitted to carry 100 to 150 passengers to $2,117,000 for some small cruise ships.  See Table 23 in the regulatory assessment for the types and sizes of the vessels that would incur compliance costs to lengthen the vessel.
+- Redesign Cost.  This is the cost for architectural design drawings for a new vessel that differs in design from the existing vessel it replaces.  When small entities construct new vessels to replace existing vessels, we estimate 470 vessels would need to be redesigned due to the proposed guidelines.  The costs would range from $2,000 for some mono-hull ferries permitted to carry 151 to 1,000 passengers plus vehicles to $261,100 for some small cruise ships.  See Table 23 in the regulatory assessment for the types and sizes of the vessels that would incur compliance costs to redesign the vessel.
+- Additional Fuel Cost.  This is the annual cost for additional fuel consumption due to installing an elevator, LULA, or platform lift to connect passenger decks and vessel lengthening.  When small entities construct new vessels to replace existing vessels, we estimate 243 vessels would incur additional fuel costs due to the proposed guidelines.  The costs would range from $5,000 annually for mono-hull vessels permitted to carry 151 to 1,000 passengers to $214,000 annually for multi-hull vessels permitted to carry 151 to 600 passengers.  See Table 24 in the regulatory assessment for the types and sizes of the vessels that would incur additional fuel costs.
+- Vertical Access Maintenance Cost.  This is the annual cost of maintaining an elevator, LULA, or platform lift to connect passenger decks.  When small entities construct new vessels to replace existing vessels, we estimate 100 vessels would incur these annual maintenance costs.  The costs would be $5,500 for an elevator or LULA, and $2,800 for a platform lift.  See Table 24 in the regulatory assessment for the types and sizes of the vessels that would incur these annual maintenance costs.
+- Additional Engine Maintenance Cost.  This is the annual cost for additional engine maintenance due to added weight from the accessible features or vessel lengthening.  When small entities construct new vessels to replace existing vessels, we estimate 37 vessels would incur these annual maintenance costs.  The costs would be $22,000 for multi-hull ferries permitted to carry 100 to 150 passengers.  See Table 24 in the regulatory assessment for the types and sizes of the vessels that would incur these annual maintenance costs.
+- Automatic Door Maintenance Cost.  This is the annual cost of maintaining and replacing the automatic doors provided at doorways with coamings and double ramps.  When small entities construct new vessels to replace existing vessels, we estimate 54 vessels would incur these annual maintenance costs. The costs would range from $1,000 for mono-hull multi-purpose vessels permitted to carry 500 to 1,000 passengers, to $6,000 for mono-hull multi-purpose vessels permitted to carry 1,001 or more passengers.  See Table 24 in the regulatory assessment for the types and sizes of the vessels that would incur these annual maintenance costs.
 
 ##### What Significant Alternatives Did We Consider?
 
@@ -1098,72 +1292,72 @@ The accessibility guidelines for passenger vessels covered by the Americans with
 
 * * * * *
 
-[1.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote1)  The Access Board is an independent federal agency established by section 502 of the Rehabilitation Act.  See 29 U.S.C. 792.  The Access Board consists of 13 members appointed by the President from the public, a majority of which are individuals with disabilities, and the heads of 12 federal agencies or their designees whose positions are Executive Level IV or above.  The federal agencies are: The Departments of Commerce, Defense, Education, Health and Human Services, Housing and Urban Development, Interior, Justice, Labor, Transportation, and Veterans Affairs; General Services Administration; and United States Postal Service.
+[1.](#footnote1) <span id="endnote1">The Access Board is an independent federal agency established by section 502 of the Rehabilitation Act.  See 29 U.S.C. 792.  The Access Board consists of 13 members appointed by the President from the public, a majority of which are individuals with disabilities, and the heads of 12 federal agencies or their designees whose positions are Executive Level IV or above.  The federal agencies are: The Departments of Commerce, Defense, Education, Health and Human Services, Housing and Urban Development, Interior, Justice, Labor, Transportation, and Veterans Affairs; General Services Administration; and United States Postal Service.</span>
 
-[2.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote2)  Title III of the ADA covers twelve categories of places of public accommodation, including places of lodging, establishments serving food or drink, and places of exhibition or entertainment.  See 42 U.S.C. 12181 (7).
+[2.](#footnote2) <span id="endnote2">Title III of the ADA covers twelve categories of places of public accommodation, including places of lodging, establishments serving food or drink, and places of exhibition or entertainment.  See 42 U.S.C. 12181 (7).</span>
 
-[3.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote3)  The definitions of the terms designated public transportation and specified public transportation are similar and mean transportation by bus, rail, or any other conveyance that provides the general public with general or special service, including charter service, on a regular and continuing basis.  See 42 U.S.C. 12141 (2) and 12181 (10).
+[3.](#footnote3) <span id="endnote3">The definitions of the terms designated public transportation and specified public transportation are similar and mean transportation by bus, rail, or any other conveyance that provides the general public with general or special service, including charter service, on a regular and continuing basis.  See 42 U.S.C. 12141 (2) and 12181 (10).</span>
 
-[4.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote4)  International Maritime Organization, Guidelines for the Design and Installation of a Visible Element to the General Emergency Alarm System on Passenger Ships, MSC.1/Circ.1418, June 13, 2012 at: <http://www.imo.org/OurWork/Circulars/Pages/IMODOCS.aspx>.
+[4.](#footnote4) <span id="endnote4">International Maritime Organization, Guidelines for the Design and Installation of a Visible Element to the General Emergency Alarm System on Passenger Ships, MSC.1/Circ.1418, June 13, 2012 at: <http://www.imo.org/OurWork/Circulars/Pages/IMODOCS.aspx>.</span>
 
-[5.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote5)  The administrative authority is referred to in the following sections: V202.3 Exception 3 (alterations); V207.1 (accessible means of escape); V302.3 Exception 2 (openings); V307.4 Exception 2 (vertical clearance at doorways with coamings); V404.2.5 Exception (thresholds and coamings); V404.2.7 Exception 1 (door hardware force); V404.2.9.1 and V404.2.9.2 Exception (door operating force); V503.4 Exception (handrail height along walking surfaces); V604.5.2 Exception 2 (grab bars at water closets); V703.5.6 Exception 2 (mounting height for signs); and V802.1.5 (wheelchair spaces).
+[5.](#footnote5) <span id="endnote5">The administrative authority is referred to in the following sections: V202.3 Exception 3 (alterations); V207.1 (accessible means of escape); V302.3 Exception 2 (openings); V307.4 Exception 2 (vertical clearance at doorways with coamings); V404.2.5 Exception (thresholds and coamings); V404.2.7 Exception 1 (door hardware force); V404.2.9.1 and V404.2.9.2 Exception (door operating force); V503.4 Exception (handrail height along walking surfaces); V604.5.2 Exception 2 (grab bars at water closets); V703.5.6 Exception 2 (mounting height for signs); and V802.1.5 (wheelchair spaces).</span>
 
-[6.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote6)  The advisory committee recommended different guidelines for smaller passenger vessels subject to U.S. Coast Guard regulations in 46 CFR Chapter I, Subchapters C and T.
+[6.](#footnote6) <span id="endnote6">The advisory committee recommended different guidelines for smaller passenger vessels subject to U.S. Coast Guard regulations in 46 CFR Chapter I, Subchapters C and T.</span>
 
-[7.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote7)  Gross tonnage is a measure of a passenger vessel's volume.  See 46 CFR part 69.
+[7.](#footnote7) <span id="endnote7">Gross tonnage is a measure of a passenger vessel's volume.  See 46 CFR part 69.</span>
 
-[8.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote8)  Separate scoping provisions are proposed for ferries and tenders in V201.1.2 and V201.1.3.
+[8.](#footnote8) <span id="endnote8">Separate scoping provisions are proposed for ferries and tenders in V201.1.2 and V201.1.3.</span>
 
-[9.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote9)  New large cruise ships provide many of the accessible features that would be required by the proposed guidelines, including elevators to connect passenger decks; guest rooms with mobility features; guest rooms with communication features; wheelchair spaces and assistive listening systems in assembly areas; and pool lifts.  The cruise industry is concerned that the proposed scoping provision for guest rooms with mobility features would result in a loss of guest rooms and revenue.  We discuss this issue under V224.2 Guest Rooms with Mobility Features.
+[9.](#footnote9) <span id="endnote9">New large cruise ships provide many of the accessible features that would be required by the proposed guidelines, including elevators to connect passenger decks; guest rooms with mobility features; guest rooms with communication features; wheelchair spaces and assistive listening systems in assembly areas; and pool lifts.  The cruise industry is concerned that the proposed scoping provision for guest rooms with mobility features would result in a loss of guest rooms and revenue.  We discuss this issue under V224.2 Guest Rooms with Mobility Features.</span>
 
-[10.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote10)  U.S. Department of Transportation, Research and Innovative Technology Administration, Bureau of Transportation Statistics, 2008 National Census of Ferry Operators Highlights at:  <http://apps.bts.gov/programs/ncfo/>.
+[10.](#footnote10) <span id="endnote10">U.S. Department of Transportation, Research and Innovative Technology Administration, Bureau of Transportation Statistics, 2008 National Census of Ferry Operators Highlights at:  <http://apps.bts.gov/programs/ncfo/>.</span>
 
-[11.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote11)  Ferries that carry 150 or fewer passengers are subject to U.S. Coast Guard regulations in 46 CFR Chapter I, Subchapter T.  Ferries that carry more than 150 passengers or 49 overnight passengers are subject to U.S. Coast Guard regulations in 46 CFR Chapter I, Subchapter K.
+[11.](#footnote11) <span id="endnote11">Ferries that carry 150 or fewer passengers are subject to U.S. Coast Guard regulations in 46 CFR Chapter I, Subchapter T.  Ferries that carry more than 150 passengers or 49 overnight passengers are subject to U.S. Coast Guard regulations in 46 CFR Chapter I, Subchapter K.</span>
 
-[12.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote12)  The U.S. Coast Guard regulations for passenger vessels subject to 46 CFR Chapter I, Subchapters K and T base the maximum number of passengers permitted on the vessels on the length of rail criterion, deck area criterion, or fixed seating criterion, or a combination of these criteria.  See 46 CFR 115.113 and 176.113.
+[12.](#footnote12) <span id="endnote12">The U.S. Coast Guard regulations for passenger vessels subject to 46 CFR Chapter I, Subchapters K and T base the maximum number of passengers permitted on the vessels on the length of rail criterion, deck area criterion, or fixed seating criterion, or a combination of these criteria.  See 46 CFR 115.113 and 176.113.</span>
 
-[13.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote13)  The owners of some of the larger case study ferries were not concerned about the loss of some fixed seating due to the proposed guidelines.  The case studies of these ferries do not include a second design option.
+[13.](#footnote13) <span id="endnote13">The owners of some of the larger case study ferries were not concerned about the loss of some fixed seating due to the proposed guidelines.  The case studies of these ferries do not include a second design option.</span>
 
-[14.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote14)  U.S. Coast Guard regulations in 46 CFR Chapter I, Subchapter H have different requirements for vessels than the regulations in 46 CFR Chapter I, Subchapters T and K.
+[14.](#footnote14) <span id="endnote14">U.S. Coast Guard regulations in 46 CFR Chapter I, Subchapter H have different requirements for vessels than the regulations in 46 CFR Chapter I, Subchapters T and K.</span>
 
-[15.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote15)  ASME 17.1-2010 Safety Code for Elevators and Escalators, section 5.2.1.16.5.
+[15.](#footnote15) <span id="endnote15"> ASME 17.1-2010 Safety Code for Elevators and Escalators, section 5.2.1.16.5.</span>
 
-[16.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote16)  ASME 17.1-2010 Safety Code for Elevators and Escalators, section 5.2.1.16.5.
+[16.](#footnote16) <span id="endnote16">ASME 17.1-2010 Safety Code for Elevators and Escalators, section 5.2.1.16.5.</span>
 
-[17.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote17)  Rinsing showers with transfer type, standard roll-in type, or alternate roll-in type shower compartments would be required to comply with the proposed technical provisions for size and clearances for shower compartments (V608.2); grab bars (V608.3); and seats (V608.4).
+[17.](#footnote17) <span id="endnote17">Rinsing showers with transfer type, standard roll-in type, or alternate roll-in type shower compartments would be required to comply with the proposed technical provisions for size and clearances for shower compartments (V608.2); grab bars (V608.3); and seats (V608.4).</span>
 
-[18.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote18)  Only toilet rooms and bathrooms in passenger guest rooms required to provide mobility features would be required to comply with the proposed technical provisions in V603.
+[18.](#footnote18) <span id="endnote18">Only toilet rooms and bathrooms in passenger guest rooms required to provide mobility features would be required to comply with the proposed technical provisions in V603.</span>
 
-[19.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote19)  International Maritime Organization, Guidelines for the Design and Installation of a Visible Element to the General Emergency Alarm System on Passenger Ships, MSC.1/Circ.1418, June 13, 2012 at:  <http://www.imo.org/OurWork/Circulars/Pages/IMODOCS.aspx>.
+[19.](#footnote19) <span id="endnote19">International Maritime Organization, Guidelines for the Design and Installation of a Visible Element to the General Emergency Alarm System on Passenger Ships, MSC.1/Circ.1418, June 13, 2012 at:  <http://www.imo.org/OurWork/Circulars/Pages/IMODOCS.aspx>.</span>
 
-[20.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote20)  A telecoil is a circuit inside the hearing aid that is designed to pick up electromagnetic signals.
+[20.](#footnote20) <span id="endnote20">A telecoil is a circuit inside the hearing aid that is designed to pick up electromagnetic signals.</span>
 
-[21.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote21)  U.S. Census Bureau, Americans with Disabilities: 2010 at:  <http://www.census.gov/prod/2012pubs/p70-131.pdf>.
+[21.](#footnote21) <span id="endnote21">U.S. Census Bureau, Americans with Disabilities: 2010 at:  <http://www.census.gov/prod/2012pubs/p70-131.pdf>.</span>
 
-[22.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote22)  Frank R. Lin, John K. Niparko, and Luigi Ferrucci, Hearing Loss Prevalence in the United States, JAMA Internal Medicine (November 14, 2011) at:  <http://archinte.jamanetwork.com/article.aspx?articleid=1106004>.
+[22.](#footnote22) <span id="endnote22">Frank R. Lin, John K. Niparko, and Luigi Ferrucci, Hearing Loss Prevalence in the United States, JAMA Internal Medicine (November 14, 2011) at:  <http://archinte.jamanetwork.com/article.aspx?articleid=1106004>.</span>
 
-[23.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote23)  U.S. Census Bureau, Americans with Disabilities: 2010 at:  <http://www.census.gov/prod/2012pubs/p70-131.pdf>.
+[23.](#footnote23) <span id="endnote23">U.S. Census Bureau, Americans with Disabilities: 2010 at:  <http://www.census.gov/prod/2012pubs/p70-131.pdf>.</span>
 
-[24.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote24)  U.S. Census Bureau, Americans with Disabilities: 2010 at:  <http://www.census.gov/prod/2012pubs/p70-131.pdf>.
+[24.](#footnote24) <span id="endnote24">U.S. Census Bureau, Americans with Disabilities: 2010 at:  <http://www.census.gov/prod/2012pubs/p70-131.pdf>.</span>
 
-[25.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote25)  Mitch P. LaPlante and H. Stephen Kaye, Mobility Device Use and Hearing Impairments Among Individuals and Households: 1990 -- 2010 (February 15, 2013) at:  [http://www.access-board.gov/pvag/](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/about/mobility-device-use-and-hearing-impairments-among-individuals-and-households-1990-2010).
+[25.](#footnote25) <span id="endnote25">Mitch P. LaPlante and H. Stephen Kaye, Mobility Device Use and Hearing Impairments Among Individuals and Households: 1990 -- 2010 (February 15, 2013) at:  [http://www.access-board.gov/pvag/](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/about/mobility-device-use-and-hearing-impairments-among-individuals-and-households-1990-2010).</span>
 
-[26.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote26)  Cruise ship passengers can rent wheelchairs and scooters from Special Needs at Seas at:  <http://www.specialneedsatsea.com/>.
+[26.](#footnote26) <span id="endnote26">Cruise ship passengers can rent wheelchairs and scooters from Special Needs at Seas at:  <http://www.specialneedsatsea.com/>.</span>
 
-[27.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote27)  Cruise Lines International Association, Passenger Vessel Access Guidelines Access Scoping Economic Impact Study (June 23, 2008) at:  [http://www.access-board.gov/pvag/](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/about/access-scoping-economic-impact-study).
+[27.](#footnote27) <span id="endnote27">Cruise Lines International Association, Passenger Vessel Access Guidelines Access Scoping Economic Impact Study (June 23, 2008) at:  [http://www.access-board.gov/pvag/](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/about/access-scoping-economic-impact-study).</span>
 
-[28.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote28)  A sample of about 500 wheeled mobility devices shows that the minimum clear width needed for a manual wheelchair user ranges from 27 to 31 inches; for a power wheelchair user ranges from 27 to 33 inches; and for a scooter user ranges from 24 to 33 inches.  Center for Inclusive Design and Environmental Access, Design Resources DR-15 Clear Floor Area for Wheeled Mobility: Redefining the "common wheelchair" (January 4, 2011) at:  <http://udeworld.com/documents/designresources/pdfs/CFA.pdf>.
+[28.](#footnote28) <span id="endnote28">A sample of about 500 wheeled mobility devices shows that the minimum clear width needed for a manual wheelchair user ranges from 27 to 31 inches; for a power wheelchair user ranges from 27 to 33 inches; and for a scooter user ranges from 24 to 33 inches.  Center for Inclusive Design and Environmental Access, Design Resources DR-15 Clear Floor Area for Wheeled Mobility: Redefining the "common wheelchair" (January 4, 2011) at:  <http://udeworld.com/documents/designresources/pdfs/CFA.pdf>.</span>
 
-[29.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote29)  Mitch P. LaPlante and H. Stephen Kaye, Mobility Device Use and Hearing Impairments Among Individuals and Households: 1990 -- 2010 (February 15, 2013) at: [http://www.access-board.gov/pvag/](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/about/mobility-device-use-and-hearing-impairments-among-individuals-and-households-1990-2010).
+[29.](#footnote29) <span id="endnote29">Mitch P. LaPlante and H. Stephen Kaye, Mobility Device Use and Hearing Impairments Among Individuals and Households: 1990 -- 2010 (February 15, 2013) at: [http://www.access-board.gov/pvag/](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/about/mobility-device-use-and-hearing-impairments-among-individuals-and-households-1990-2010).</span>
 
-[30.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote30)  Frank R. Lin, John K. Niparko, and Luigi Ferrucci, Hearing Loss Prevalence in the United States, JAMA Internal Medicine (November 14, 2011) at:  <http://archinte.jamanetwork.com/article.aspx?articleid=1106004>.
+[30.](#footnote30) <span id="endnote30">Frank R. Lin, John K. Niparko, and Luigi Ferrucci, Hearing Loss Prevalence in the United States, JAMA Internal Medicine (November 14, 2011) at:  <http://archinte.jamanetwork.com/article.aspx?articleid=1106004>.</span>
 
-[31.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote31)  U.S. Census Bureau, Americans with Disabilities: 2010 at:  <http://www.census.gov/prod/2012pubs/p70-131.pdf>.
+[31.](#footnote31) <span id="endnote31">U.S. Census Bureau, Americans with Disabilities: 2010 at:  <http://www.census.gov/prod/2012pubs/p70-131.pdf>.</span>
 
-[32.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote32)  International Maritime Organization, Guidelines for the Design and Installation of a Visible Element to the General Emergency Alarm System on Passenger Ships, MSC.1/Circ.1418, June 13, 2012 at:  <http://www.imo.org/OurWork/Circulars/Pages/IMODOCS.aspx>.
+[32.](#footnote32) <span id="endnote32">International Maritime Organization, Guidelines for the Design and Installation of a Visible Element to the General Emergency Alarm System on Passenger Ships, MSC.1/Circ.1418, June 13, 2012 at:  <http://www.imo.org/OurWork/Circulars/Pages/IMODOCS.aspx>.</span>
 
-[33.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote33)  Volpe National Transportation Systems Center, ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Watertight Doors with Coamings at:  [http://www.access-board.gov/pvag/](https://www.access-board.gov/research/completed-research/ada-access-to-passenger-vessels).
+[33.](#footnote33) <span id="endnote33">Volpe National Transportation Systems Center, ADA Access to Passenger Vessels: Finding Safety Equivalence Solutions for Watertight Doors with Coamings at:  [http://www.access-board.gov/pvag/](https://www.access-board.gov/research/completed-research/ada-access-to-passenger-vessels).</span>
 
-[34.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote34)  U.S. Census Bureau, Americans with Disabilities: 2010 at:  <http://www.census.gov/prod/2012pubs/p70-131.pdf>.
+[34.](#footnote34) <span id="endnote34">U.S. Census Bureau, Americans with Disabilities: 2010 at:  <http://www.census.gov/prod/2012pubs/p70-131.pdf>.</span>
 
-[35.](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/proposed-accessibility-guidelines/1381-preamble#footnote35)  Frank R. Lin, John K. Niparko, and Luigi Ferrucci, Hearing Loss Prevalence in the United States, JAMA Internal Medicine (November 14, 2011) at:  <http://archinte.jamanetwork.com/article.aspx?articleid=1106004>.
+[35.](#footnote35) <span id="endnote35">Frank R. Lin, John K. Niparko, and Luigi Ferrucci, Hearing Loss Prevalence in the United States, JAMA Internal Medicine (November 14, 2011) at:  <http://archinte.jamanetwork.com/article.aspx?articleid=1106004>.</span>
