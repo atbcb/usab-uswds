@@ -37,7 +37,7 @@ Example of source code: <IMG src="/transparent.gif" alt="">
 
 A non-text element is an image, graphic, audio clip, or other feature that conveys meaning through a picture or sound. Examples include buttons, check boxes, pictures and embedded or streaming audio or video.
 
-HTML Source Code: <img src="/art/logo-green.gif" alt="Access Board Logo">
+HTML Source Code: `<img src="/art/logo-green.gif" alt="Access Board Logo">`
 
 <http://www.access-board.gov/>
 
@@ -49,7 +49,7 @@ This provision requires that when audio presentations are available on a multime
 
 There are several ways of providing textual information so that it can be recognized by assistive technology devices. For instance, the <IMG> tag can accept an "alt" attribute that will enable a web designer to include text that describes the picture directly in the <IMG> tag.
 
-HTML source code: <img src="/image/ab_logo1.gif" alt="The Architectural and Transportation Barriers Compliance Board emblem-Go to Access Board website">
+HTML source code: `<img src="/image/ab_logo1.gif" alt="The Architectural and Transportation Barriers Compliance Board emblem-Go to Access Board website">`
 
 Link: <http://www.section508.gov/>
 
