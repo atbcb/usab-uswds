@@ -145,9 +145,9 @@ Unlike server-side image maps, the client-side image map allow an author to assi
 
 Creating a basic client-side image map requires several steps:
 
--   Identify an image for the map. First, an image must be used in a client-side image map. This image is identified using the <img> tag. To identify it as a map, use the "usemap" attribute.
--   Use the <MAP> tag to "areas" within the map . The <MAP> tag is a container tag that includes various <AREA> tags that are used to identify specific portions of the image.
--   Use <AREA> tags to identify map regions . To identify regions within a map, simply use <AREA> tags within the <MAP> container tags. Making this client-side image map accessible is considerably easier to describe: simply include the "ALT" attribute and area description inside each <AREA> tag. The following HTML demonstrates how to make a client-side image map:
+-   Identify an image for the map. First, an image must be used in a client-side image map. This image is identified using the `<img>` tag. To identify it as a map, use the "usemap" attribute.
+-   Use the `<MAP>` tag to "areas" within the map . The `<MAP>` tag is a container tag that includes various `<AREA>` tags that are used to identify specific portions of the image.
+-   Use `<AREA>` tags to identify map regions . To identify regions within a map, simply use `<AREA>` tags within the `<MAP>` container tags. Making this client-side image map accessible is considerably easier to describe: simply include the "ALT" attribute and area description inside each `<AREA>` tag. The following HTML demonstrates how to make a client-side image map:
 
 > `<img src="/navbar.gif" border="0" usemap="#Map">`  
 > `<map name="Map">`  
@@ -350,7 +350,7 @@ Web developers working with JavaScript frequently use so-called JavaScript URL's
 
 `<a href="javascript:myFunction();">Start myFunction</a>`
 
-This technique does not cause accessibility problems for assistive technology. A more difficult problem occurs when developers use images inside of JavaScript URL's without providing meaningful information about the image or the effect of the anchor link. For instance, the following link alsoinvokes the JavaScript function myFunction, but requires the user to click on an image instead of the text "Start myFunction":
+This technique does not cause accessibility problems for assistive technology. A more difficult problem occurs when developers use images inside of JavaScript URL's without providing meaningful information about the image or the effect of the anchor link. For instance, the following link also invokes the JavaScript function myFunction, but requires the user to click on an image instead of the text "Start myFunction":
 
 `<a href="javascript:myFunction();"><img src="/myFunction.gif"></a>`
 
@@ -507,7 +507,7 @@ The key to compliance with these provisions is adherence to the provisions. Many
 
 A text equivalent means adding words to represent the purpose of a non-text element. This provision requires that when an image indicates a navigational action such as "move to the next screen" or "go back to the top of the page," the image must be accompanied by actual text that states the purpose of the image. This provision also requires that when an image is used to represent page content, the image must have a text description accompanying it that explains the meaning of the image.
 
-HTML Source Code: <img src="/art/logo-green.gif" alt="Access Board Logo">
+HTML Source Code: `<img src="/art/logo-green.gif" alt="Access Board Logo">`
 
 <http://www.access-board.gov/>
 
