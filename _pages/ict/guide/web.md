@@ -56,7 +56,7 @@ Link: <http://www.section508.gov/>
 Similarly, the <APPLET> tag for Java applets also accepts an "alt" attribute, but it only works for browsers that provide support for Java. Often, users with slower internet connections will turn support for Java applets off. A better alternative for providing textual descriptions is to simply include the alternative text between opening and closing <APPLET> or <OBJECT> tags. For instance, if a web designer wanted to include an\
 applet called MyCoolApplet in a web page, and also include a description that the applet shows a stock ticker displaying the current price of various stocks, the designer would use the following HTML coding for example:
 
-<APPLET CODE="MyCoolApplet.class" WIDTH="200", HEIGHT="100">
+`<APPLET CODE="MyCoolApplet.class" WIDTH="200", HEIGHT="100">`
 
 This applet displays current stock prices for many popular stocks.
 
@@ -151,9 +151,9 @@ Creating a basic client-side image map requires several steps:
 -   Use the <MAP> tag to "areas" within the map . The <MAP> tag is a container tag that includes various <AREA> tags that are used to identify specific portions of the image.
 -   Use <AREA> tags to identify map regions . To identify regions within a map, simply use <AREA> tags within the <MAP> container tags. Making this client-side image map accessible is considerably easier to describe: simply include the "ALT" attribute and area description inside each <AREA> tag. The following HTML demonstrates how to make a client-side image map:
 
-> <img src="/navbar.gif" border="0" usemap="#Map">\
-> <map name="Map">\
-> <area shape="rect" coords="0,2,64,19" href="/general.html" alt="information about us" >\
+> `<img src="/navbar.gif" border="0" usemap="#Map">`  
+> `<map name="Map">`  
+> `<area shape="rect" coords="0,2,64,19" href="/general.html" alt="information about us" >`  
 > <area shape="rect" coords="65,2,166,20" href="/jobs.html" alt="job opportunities" >\
 > <area shape="rect" coords="167,2,212,19" href="/faq.html" alt="Frequently Asked Questions" >\
 > <area shape="rect" coords="214,2,318,21" href="/location.html" alt="How to find us" >\
