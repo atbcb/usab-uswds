@@ -3,7 +3,7 @@ layout: post
 title: Access Board Seeks Technical Writer
 date: 'March 4, 2020'
 excerpt: >-
-  The Access Board seeks a Technical Writer (GS 12) to serve in its Office of Technical and Information Services. Current or former federal employees who qualify as . . ..
+  The Access Board seeks a Technical Writer (GS 12) to serve in its Office of Technical and Information Services. Current or former federal employees who qualify as . . .
 webinar: false
 webinar-start: ''
 webinar-end: ''
