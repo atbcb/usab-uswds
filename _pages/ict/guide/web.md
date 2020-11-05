@@ -410,10 +410,10 @@ The following form demonstrates these problems. Visually, this form is part of a
 
 While the relationship between the titles "First Name" or "Last Name" and their respective input boxes may be obvious from visual inspection, the relationship is not obvious to a screen reader. Instead, a screen reader may simply announce "input box" when encountering each input box. The reason for these difficulties is revealed from inspecting the HTML source for this table. The following code is a simplified version of this table.
 
-<FORM>\
-<TABLE>\
-<TR>\
-<TD><B>FIRST NAME: </B></TD>\
+`<FORM>`  
+`<TABLE>`  
+`<TR>`  
+`<TD><B>FIRST NAME: </B></TD>`  
 <TD><INPUT TYPE="TEXT" NAME="FIRSTNAME"> </TD>\
 </TR>\
 <TR>\
