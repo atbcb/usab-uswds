@@ -33,7 +33,7 @@ If the facility does not meet the applicable standard, the Board will work with 
 ![US Mail logo]({{ site.baseurl }}/images/uploads/usmail.jfif "US Mail logo"){: .img-right}
 
 
-* **![US Mail logo](https://www.access-board.gov/images/News/usmail.JPG)U.S. Post Office (Cullman, Alabama):** The Postal Service took corrective action to adjust the manual opening force of two interior doors and two exterior doors.
+* **U.S. Post Office (Cullman, Alabama):** The Postal Service took corrective action to adjust the manual opening force of two interior doors and two exterior doors.
 * **U.S. Post Office (Ketchikan, Alaska):** The Postal Service took corrective action to repair the automatic doors at the customer entrance.
 * **U.S. Post Office (Oro Valley, Arizona):** The Postal Service took corrective action to repair, adjust, or replace the door closers on the customer entrance doors to reduce the force needed to open them manually.
 * **U.S. Post Office (Fullerton, California):** The Postal Service took corrective action to install a van accessible parking space and a compliant entrance ramp.
@@ -76,7 +76,7 @@ If the facility does not meet the applicable standard, the Board will work with 
 ![Military symbol]({{ site.baseurl }}/images/uploads/military.jfif "Military symbol"){: .img-right}
 
 
-* **![Military symbol](https://www.access-board.gov/images/News/military.JPG)Joint Base Elmendorf-Richardson (Anchorage, Alaska):** The Base’s command took corrective action to install an accessible parking space in a lot serving one of the buildings on base.
+* **Joint Base Elmendorf-Richardson (Anchorage, Alaska):** The Base’s command took corrective action to install an accessible parking space in a lot serving one of the buildings on base.
 * **United States Naval Base Ventura County, Building 1443 (Port Hueneme, California):** The Department of the Navy took corrective action to modernize and repair the elevator providing access to the building’s second floor.
 * **Fleet Readiness Center Southeast, Building 168 (Jacksonville, Florida):** The Department of the Navy took corrective action to install a platform lift to provide access to the building’s second floor.
 * **Fleet Readiness Center Southeast, Building 168 (Jacksonville, Florida):** The Department of the Navy took corrective action to make the men’s and women’s toilet rooms accessible and to install a platform lift to provide access to the building’s second floor.
@@ -93,7 +93,7 @@ If the facility does not meet the applicable standard, the Board will work with 
 ![parks symbol]({{ site.baseurl }}/images/uploads/parks.jfif "parks symbol"){: .img-right}
 
 
-* **![parks symbol](https://www.access-board.gov/images/News/parks.JPG)Interpretive Center – Lewis and Clark National Historic Trail (Great Falls, Montana):** The U.S. Forest Service installed an assistive listening system in the auditorium/theater in this facility.
+* **Interpretive Center – Lewis and Clark National Historic Trail (Great Falls, Montana):** The U.S. Forest Service installed an assistive listening system in the auditorium/theater in this facility.
 * **Three complaints concerning the Rockaway Boardwalk (Far Rockaway, New York):** The New York City Department of Parks and Recreation took corrective action to install access ramps at two different locations on the Rockaway Boardwalk, which had been rebuilt following Superstorm Sandy using funds from federal grants.
 * **Washington Irving South Recreation Area – Keystone Lake (Sand Springs, Oklahoma):** The U.S. Army Corps of Engineers took corrective action to improve the accessibility of the ramp serving the gate house at the facility.
 
@@ -103,6 +103,6 @@ If the facility does not meet the applicable standard, the Board will work with 
 ![federal government symbol]({{ site.baseurl }}/images/uploads/federal.jfif "federal government symbol"){: .img-right}
 
 
-* **![federal government symbol](https://www.access-board.gov/images/News/federal.JPG)United States Customs and Immigration Service (Baltimore, Maryland):** The building’s lessor, in consultation with the General Services Administration, took voluntary corrective action to install a soap dispenser at the accessible lavatory in one of the building’s toilet rooms.
+* **United States Customs and Immigration Service (Baltimore, Maryland):** The building’s lessor, in consultation with the General Services Administration, took voluntary corrective action to install a soap dispenser at the accessible lavatory in one of the building’s toilet rooms.
 * **Public sidewalk (Wilson, North Carolina):** The City of Wilson installed a curb ramp at a public sidewalk that had been constructed using funds from a Department of Transportation grant.
 * **Central Puget Sound Regional Transit Authority (Seattle, Washington):** The Authority, commonly referred to as Sound Transit, installed an accessible parking space in an employee lot serving one of its buildings – a building which had been constructed using funds from a Department of Transportation grant.
