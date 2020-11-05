@@ -414,55 +414,55 @@ While the relationship between the titles "First Name" or "Last Name" and their 
 `<TABLE>`  
 `<TR>`  
 `<TD><B>FIRST NAME: </B></TD>`  
-<TD><INPUT TYPE="TEXT" NAME="FIRSTNAME"> </TD>\
-</TR>\
-<TR>\
-<TD><B>LAST NAME: </B></TD>\
-<TD><INPUT TYPE="TEXT" NAME="LASTNAME"> </TD>\
-</TR>\
-</TABLE>\
-<P>\
-<INPUT TYPE="SUBMIT" VALUE="SUBMIT">\
-</FORM>
+`<TD><INPUT TYPE="TEXT" NAME="FIRSTNAME"> </TD>`  
+`</TR>`  
+`<TR>`  
+`<TD><B>LAST NAME: </B></TD>`  
+`<TD><INPUT TYPE="TEXT" NAME="LASTNAME"> </TD>`  
+`</TR>`  
+`</TABLE>`  
+`<P>`  
+`<INPUT TYPE="SUBMIT" VALUE="SUBMIT">`  
+`</FORM>`  
 
 The two pairs of form elements are indicated in bold above. The problem created by laying out form elements inside of this table is now clear -- the form elements are separated from their labels by the formatting instructions for the table.
 
 *How can developers provide accessible HTML forms?*
 
-The first rule of thumb is to place labels adjacent to input fields, not in separate cells of a table. For the web developer who does not wish to place form elements immediately adjacent to their corresponding titles, the HTML 4.0 specification includes the <LABEL> tag that lets web developers mark specific elements as "labels" and then associate a form element with that label. There are generally two ways to use the label tag: explicit labels and implicit labels.
+The first rule of thumb is to place labels adjacent to input fields, not in separate cells of a table. For the web developer who does not wish to place form elements immediately adjacent to their corresponding titles, the HTML 4.0 specification includes the `<LABEL>` tag that lets web developers mark specific elements as "labels" and then associate a form element with that label. There are generally two ways to use the label tag: explicit labels and implicit labels.
 
 "Explicit Labels" Work Well\
 Experience has shown that explicit labeling works extremely well with all popular assistive technology and are recommended in all but the very simplest of tables. We recommend that all agencies ensure that their web developers are familiar with these important concepts. Using "explicit" labels involves two distinct steps:
 
--   Use the <LABEL> Tag and Associated "FOR" Attribute to Tag Labels. In other words, identify the exact words that you want to use as the label for the form element and enclose those words in a <LABEL> tag. Use the "FOR" attribute to uniquely identify that element.
--   Use the "ID" Attribute in the Associated Form Element. Every form element supports the "ID" attribute. By setting this attribute to the identifier used in the "FOR" attribute of the associated <LABEL> tag, you "tie" that form element to its associated label. For instance, we have rewritten the HTML code for our simple form-inside-a-table to include explicit labels below. The new HTML code for the explicit labels is indicated in bold:
+-   Use the `<LABEL>` Tag and Associated "FOR" Attribute to Tag Labels. In other words, identify the exact words that you want to use as the label for the form element and enclose those words in a `<LABEL>` tag. Use the "FOR" attribute to uniquely identify that element.
+-   Use the "ID" Attribute in the Associated Form Element. Every form element supports the "ID" attribute. By setting this attribute to the identifier used in the "FOR" attribute of the associated `<LABEL>` tag, you "tie" that form element to its associated label. For instance, we have rewritten the HTML code for our simple form-inside-a-table to include explicit labels below. The new HTML code for the explicit labels is indicated in bold:
 
-<FORM>\
-<TABLE>\
-<TR>\
-<TD><B><LABEL FOR="first"> FIRST NAME:</LABEL> </B></TD>\
-<TD><INPUT TYPE="TEXT" NAME="FIRSTNAME" ID="first" ></TD>\
-</TR>\
-<TR>\
-<TD><B><LABEL FOR="last"> LAST NAME:</LABEL> </B></TD>\
-<TD><INPUT TYPE="TEXT" NAME="LASTNAME" ID="last" ></TD>\
-</TR>\
-</TABLE>\
-<P>\
-<INPUT TYPE="SUBMIT" VALUE="SUBMIT">\
-</FORM>
+`<FORM>`  
+`<TABLE>`  
+`<TR>`  
+`<TD><B><LABEL FOR="first"> FIRST NAME:</LABEL> </B></TD>`  
+`<TD><INPUT TYPE="TEXT" NAME="FIRSTNAME" ID="first" ></TD>`  
+`</TR>`  
+`<TR>`  
+`<TD><B><LABEL FOR="last"> LAST NAME:</LABEL> </B></TD>`  
+`<TD><INPUT TYPE="TEXT" NAME="LASTNAME" ID="last" ></TD>`  
+`</TR>`  
+`</TABLE>`  
+`<P>`  
+`<INPUT TYPE="SUBMIT" VALUE="SUBMIT">`  
+`</FORM>`  
 
 In a nutshell, that's all there is to making HTML form elements accessible to assistive technology. Experience has shown that this technique works extremely well in much more complicated and convoluted forms and it should work well in all agency HTML forms.
 
 Avoid Using "Implicit Labels"\
-In "implicit" labels, the form element and its associated label are contained within an opening <LABEL> tag and a closing </LABEL> tag. For instance, in the table above, an implicit label to associate the words "First Name" with its associated input cell, we could use an implicit label as follows:
+In "implicit" labels, the form element and its associated label are contained within an opening `<LABEL>` tag and a closing `</LABEL>` tag. For instance, in the table above, an implicit label to associate the words "First Name" with its associated input cell, we could use an implicit label as follows:
 
-<LABEL >\
-<TR>\
-<TD><B>FIRST NAME:</B></TD>\
-<TD><INPUT TYPE="TEXT" NAME="FIRSTNAME"></TD>\
-</TR>\
-</LABEL >
+`<LABEL >`  
+`<TR>`  
+`<TD><B>FIRST NAME:</B></TD>`  
+`<TD><INPUT TYPE="TEXT" NAME="FIRSTNAME"></TD>`  
+`</TR>'  
+`</LABEL >`  
 
 Experience has shown that implicit labeling should be avoided for two reasons. First, implicit labeling is not reliably supported by many screen readers and, in particular, does not work well if explicit labels are simultaneously used anywhere on the same web page. Often, the output can be wildly inaccurate and confusing. Second, if any text separates a label from its associated form element, an implicit label becomes impractical and confusing because the label itself is no longer easily identified with the form element.
 
