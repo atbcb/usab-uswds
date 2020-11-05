@@ -158,7 +158,7 @@ Creating a basic client-side image map requires several steps:
 > `<area shape="rect" coords="167,2,212,19" href="/faq.html" alt="Frequently Asked Questions" >`  
 > `<area shape="rect" coords="214,2,318,21" href="/location.html" alt="How to find us" >`  
 > `<area shape="rect" coords="319,2,399,23" href="/contact.html" alt="How to contact us" >`  
-> `</map>``
+> `</map>`  
 
 * * * * *
 
