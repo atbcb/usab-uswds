@@ -3,7 +3,7 @@ title: Telecommunications Act
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /laws/ta.html
+permalink: /law/ta.html
 ---
 
 # {{ page.title }} of 1996 (Section 255)
