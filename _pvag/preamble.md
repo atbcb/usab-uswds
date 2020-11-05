@@ -215,15 +215,15 @@ As shown in Table 2, we estimate there were 346 multi-purpose vessels such as ex
     <tbody>
         <tr>
             <th>Multi-Purpose Vessels</th>
-            <td >346 <sup aria-label="superscript 1" aria-describedby="v1">1</sup> </td>
+            <td  aria-describedby="v1">346 <sup aria-label="superscript 1">1</sup></td>
         </tr>
         <tr>
             <th>Small Cruise Ships (50 to 299 overnight passengers)</th>
-            <td>32 <sup aria-label="superscript 1" aria-describedby="v1">1</sup></td>
+            <td aria-describedby="v1">32 <sup aria-label="superscript 1">1</sup></td>
         </tr>
         <tr>
             <th>Large Cruise Ships (300 or more overnight passengers)</th>
-            <td>113 <sup aria-label="superscript 2" aria-describedby="v2">2</sup></td>
+            <td aria-describedby="v2">113 <sup aria-label="superscript 2">2</sup></td>
         </tr>
     </tbody>
 </table>
@@ -254,7 +254,7 @@ We present in Table 3 our estimates of the incremental construction costs for th
     <tbody>
         <tr>
             <th>300 Passenger Excursion Vessel</th>
-            <td>3.2% <sup aria-label="superscript 1" aria-describedby="c1">1</sup></td>
+            <td aria-describedby="c1">3.2% <sup aria-label="superscript 1">1</sup></td>
             <td>Not significant</td>
         </tr>
         <tr>
@@ -380,7 +380,7 @@ We conducted case studies of seven ferries to estimate the incremental construct
         </tr>
         <tr>
             <th scope="row">2: Ferry Size Increased</th>
-            <td>24.5% <sup aria-label="superscript 1" aria-describedby="p1">1</sup>; No seats or storage lost</td>
+            <td aria-describedby="p1">24.5% <sup aria-label="superscript 1">1</sup>; No seats or storage lost</td>
             <td>18% increase in fuel consumption</td>
         </tr>
         <tr>
@@ -408,13 +408,13 @@ We conducted case studies of seven ferries to estimate the incremental construct
         <tr>
             <th scope="row">300 Passenger &amp; 40 Vehicle Mono-Hull Ferry</th>
             <td>n/a</td>
-            <td>3.0%; 2 to 4 seats lost <sup aria-label="superscript 2" aria-describedby="p2">2</sup></td>
+            <td aria-describedby="p2">3.0%; 2 to 4 seats lost <sup aria-label="superscript 2">2</sup></td>
             <td>Not significant</td>
         </tr>
         <tr>
             <th scope="row">399 Passenger Mono-Hull Ferry</th>
             <td>n/a</td>
-            <td>2.2%; 10 seats lost <sup aria-label="superscript 2" aria-describedby="p2">2</sup></td>
+            <td aria-describedby="p2">2.2%; 10 seats lost <sup aria-label="superscript 2">2</sup></td>
             <td>None</td>
         </tr>
         <tr>
@@ -431,7 +431,7 @@ We conducted case studies of seven ferries to estimate the incremental construct
         <tr>
             <th scope="row">4,400 Passenger &amp; 30 Vehicle Mono-Hull Ferry</th>
             <td>n/a</td>
-            <td>1.3%; 50 seats lost <sup aria-label="superscript 2" aria-describedby="p2">2</sup></td>
+            <td aria-describedby="p2">1.3%; 50 seats lost <sup aria-label="superscript 2">2</sup></td>
             <td>$1,100 to $1,300 per automatic door</td>
         </tr>
     </tbody>
