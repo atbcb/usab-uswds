@@ -170,17 +170,17 @@ Creating a basic client-side image map requires several steps:
 
 Paragraphs (g) and (h) permit the use of tables, but require that the tables be coded according to the rules of the markup language being used for creating tables. Large tables of data can be difficult to interpret if a person is using a non-visual means of accessing the web. Users of screen readers can easily get "lost" inside a table because it may be impossible to associate a particular cell that a screen reader is reading with the corresponding column headings and row names. For instance, assume that a salary table includes the salaries for federal employees by grade and step. Each row in the table may represent a grade scale and each column may represent a step. Thus, finding the salary corresponding to a grade 9, step 5 may involve finding the cell in the ninth row and the fifth column. For a salary chart of 15 grade scales and 10 steps, the table will have at least 150 cells. Without a method to associate the headings with each cell, it is easy to imagine the difficulty a user of assistive technology may encounter with the table.
 
-Section 1194.22 (g) and (h) state that when information is displayed in a table format, the information shall be laid out using appropriate table tags as opposed to using a preformatted table in association with the "<pre>" tag. Web authors are also required to use one of several methods to provide an association between a header and its related information.
+Section 1194.22 (g) and (h) state that when information is displayed in a table format, the information shall be laid out using appropriate table tags as opposed to using a preformatted table in association with the `<pre>`   tag. Web authors are also required to use one of several methods to provide an association between a header and its related information.
 
 *How can HTML tables be made readable with assistive technology?*
 
 *Using the "Scope" Attribute in Tables* -- Using the "scope" attribute is one of the most effective ways of making HTML compliant with these requirements. It is also the simplest method to implement. The scope attribute also works with some (but not all) assistive technology in tables that use "colspan" or "rowspan" attributes in table header or data cells.
 
-*Using the Scope Attribute* -- The first row of each table should include column headings. Typically, these column headings are inserted in <TH> tags, although <TD> tags can also be used. These tags at the top of each column should include the following attribute:
+*Using the Scope Attribute* -- The first row of each table should include column headings. Typically, these column headings are inserted in `<TH>` tags, although `<TD>` tags can also be used. These tags at the top of each column should include the following attribute:
 
 scope="col"
 
-By doing this simple step, the text in that cell becomes associated with every cell in that column. Unlike using other approaches (notably "id" and "headers") there is no need to include special attributes in each cell of the table. Similarly, the first column of every table should include information identifying information about each row in the table. Each of the cells in that first column are created by either <TH> or <TD> tags. Include the following attribute in these cells:
+By doing this simple step, the text in that cell becomes associated with every cell in that column. Unlike using other approaches (notably "id" and "headers") there is no need to include special attributes in each cell of the table. Similarly, the first column of every table should include information identifying information about each row in the table. Each of the cells in that first column are created by either `<TH>` or `<TD>` tags. Include the following attribute in these cells:
 
 scope="row"
 
