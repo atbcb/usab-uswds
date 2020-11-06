@@ -381,6 +381,8 @@ Web developers must exercise some caution when deciding which event handlers to 
 -   onMouseOver and onMouseOut -- These two event handlers are very popular on many web sites. For instance, so-called rollover gif's, which swap images on a web page when the mouse passes over an image, typically use both of these event handlers. These event handlers neither can be accessed by the mouse nor interfere with accessibility -- a screen reader simply bypasses them entirely. Accordingly, web designers who use these event handlers should be careful to duplicate the information (if any) provided by these event handlers through other means.
 -   onLoad and onUnload -- Both of these event handlers are used frequently to perform certain functions when a web page has either completed loading or when it unloads. Because neither event handler is triggered by any user interaction with an element on the page, they do not present accessibility problems.
 -   onChange -- This event handler is very commonly used for triggering JavaScript functions based on a selection from within a `<select>` tag. Surprisingly, it presents tremendous accessibility problems for many commonly used screen readers and should be avoided. Instead, web developers should use the onClick event handler (associated with a link or button that is adjacent to a <select> tag) to accomplish the same functions.
+  
+  
 -   onBlur and onFocus -- These event handlers are not commonly used in web pages. While they don't necessarily present accessibility problems, their behavior is confusing enough to a web page visitor that they should be avoided.
 
 
@@ -420,6 +422,7 @@ The following form demonstrates these problems. Visually, this form is part of a
 While the relationship between the titles "First Name" or "Last Name" and their respective input boxes may be obvious from visual inspection, the relationship is not obvious to a screen reader. Instead, a screen reader may simply announce "input box" when encountering each input box. The reason for these difficulties is revealed from inspecting the HTML source for this table. The following code is a simplified version of this table.
 
 
+
 `<FORM>`  
 `<TABLE>`  
 `<TR>`  
@@ -437,22 +440,29 @@ While the relationship between the titles "First Name" or "Last Name" and their 
 
 
 
+
 The two pairs of form elements are indicated in bold above. The problem created by laying out form elements inside of this table is now clear -- the form elements are separated from their labels by the formatting instructions for the table.
+
 
 
 *How can developers provide accessible HTML forms?*
 
 
+
 The first rule of thumb is to place labels adjacent to input fields, not in separate cells of a table. For the web developer who does not wish to place form elements immediately adjacent to their corresponding titles, the HTML 4.0 specification includes the `<LABEL>` tag that lets web developers mark specific elements as "labels" and then associate a form element with that label. There are generally two ways to use the label tag: explicit labels and implicit labels.
+
 
 
 "Explicit Labels" Work Well\
 Experience has shown that explicit labeling works extremely well with all popular assistive technology and are recommended in all but the very simplest of tables. We recommend that all agencies ensure that their web developers are familiar with these important concepts. Using "explicit" labels involves two distinct steps:
 
 
+
 -   Use the `<LABEL>` Tag and Associated "FOR" Attribute to Tag Labels. In other words, identify the exact words that you want to use as the label for the form element and enclose those words in a `<LABEL>` tag. Use the "FOR" attribute to uniquely identify that element.
 
+
 -   Use the "ID" Attribute in the Associated Form Element. Every form element supports the "ID" attribute. By setting this attribute to the identifier used in the "FOR" attribute of the associated `<LABEL>` tag, you "tie" that form element to its associated label. For instance, we have rewritten the HTML code for our simple form-inside-a-table to include explicit labels below. The new HTML code for the explicit labels is indicated in bold:
+
 
 
 `<FORM>`  
@@ -471,11 +481,14 @@ Experience has shown that explicit labeling works extremely well with all popula
 `</FORM>`  
 
 
+
 In a nutshell, that's all there is to making HTML form elements accessible to assistive technology. Experience has shown that this technique works extremely well in much more complicated and convoluted forms and it should work well in all agency HTML forms.
+
 
 
 Avoid Using "Implicit Labels"\
 In "implicit" labels, the form element and its associated label are contained within an opening `<LABEL>` tag and a closing `</LABEL>` tag. For instance, in the table above, an implicit label to associate the words "First Name" with its associated input cell, we could use an implicit label as follows:
+
 
 
 `<LABEL >`  
@@ -486,49 +499,65 @@ In "implicit" labels, the form element and its associated label are contained wi
 `</LABEL >`  
 
 
+
 Experience has shown that implicit labeling should be avoided for two reasons. First, implicit labeling is not reliably supported by many screen readers and, in particular, does not work well if explicit labels are simultaneously used anywhere on the same web page. Often, the output can be wildly inaccurate and confusing. Second, if any text separates a label from its associated form element, an implicit label becomes impractical and confusing because the label itself is no longer easily identified with the form element.
 
 
+
 * * * * *
+
 
 
 (o) A method shall be provided that permits users to skip repetitive navigation links.
 
 
+
 *Why do navigational links present impediments to screen readers and other types of assistive technologies?*
+
 
 
 This provision provides a method to facilitate the easy tracking of page content that provides users of assistive technology the option to skip repetitive navigation links. Web developers routinely place a host of routine navigational links at a standard location -- often across the top, bottom, or side of a page. If a nondisabled user returns to a web page and knows that he or she wants to view the contents of that particular page instead of selecting a navigation link to go to another page, he or she may simply look past the links and begin reading wherever the desired text is located. For those who use screen readers or other types of assistive technologies, however, it can be a tedious and time-consuming chore to wait for the assistive technology to work through and announce each of the standard navigational links before getting to the intended location. In order to alleviate this problem, the section 508 rule requires that when repetitive navigational links are used, there must be a mechanism for users to skip repetitive navigational links.
 
 
+
 Example: USDA Target Center and DOL websites use the Skip Repetitive Navigational Links.
+
 
 
 <http://www.usda.gov/oo/target.htm>
 
 
+
 ![A screen print of the US Department of Agriculture TARGET Center Home page.](./images/skip.jpg)
+
 
 
 <http://www.dol.gov/dol/odep/>
 
 
+
 ![A screen print of the US Department of Labor Office of Disability Employment Policy Home page.](./images/skip2.jpg)
+
 
 
 * * * * *
 
 
+
 (p) When a timed response is required, the user shall be alerted and given sufficient time to indicate more time is required.
+
 
 
 *Why do timed responses present problems to web users with disabilities?*
 
 
+
 Web pages can be designed with scripts so that the web page disappears or "expires" if a response is not received within a specified amount of time. Sometimes, this technique is used for security reasons or to reduce the demands on the computer serving the web pages. Someone's disability can have a direct impact on the speed with which he or she can read, move around, or fill in a web form. For instance, someone with extremely low vision may be a slower-than-average reader. A page may "time out" before he is able to finish reading it. Many forms, when they "time out" automatically, also delete whatever data has been entered. The result is that someone with a disability who is slow to enter data cannot complete the form. For this reason, when a timed response is required, the user shall be alerted via a prompt and given sufficient time to indicate whether additional time is needed.
 
 
+
 Example: Thrift Savings Plan\
+
 
 [www.tsp.gov](http://www.tsp.gov/)Web-based Intranet and Internet Information and Applications (1194.22)
 
