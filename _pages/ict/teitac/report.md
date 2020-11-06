@@ -1,11 +1,14 @@
+---
+title: TEITAC Report to the Access Board
+layout: page
+sidenav: false
+permalink: /ict/teitac/report.html
+---
+
+# {{ page.title }}
 
 
-
-
-
-
-Telecommunications and Electronic and\
-Information Technology Advisory Committee
+Telecommunications and Electronic and Information Technology Advisory Committee
 
 Report to the Access Board:
 
