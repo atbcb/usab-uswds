@@ -511,19 +511,19 @@ HTML Source Code: `<img src="/art/logo-green.gif" alt="Access Board Logo">`
 
 <http://www.access-board.gov/>
 
-![Access Board Logo - The Access Board, a federal agency committed to accessible design](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/accesslogo.jpg)
+![Access Board Logo - The Access Board, a federal agency committed to accessible design](./images/accesslogo.jpg)
 
 *How much information actually needs to be in the text equivalent?*
 
 The text information associated with a non-text element should, when possible, communicate the same information as its associated element. For example, when an image indicates an action, the action must be described in the text. The types of non-text elements requiring actual text descriptions are limited to those elements that provide information required for comprehension of content or those used to facilitate navigation. Web page authors often utilize transparent graphics for spacing. Adding a text description to these elements will produce unnecessary clutter for users of screen readers. For such graphics, an empty ALT attribute is useful.
 
-Example of source code: <IMG src="/transparent.gif" alt="">
+Example of source code: `<IMG src="/transparent.gif" alt="">`  
 
 *What is meant by the term, non-text element?*
 
 A non-text element is an image, graphic, audio clip, or other feature that conveys meaning through a picture or sound. Examples include buttons, check boxes, pictures and embedded or streaming audio or video.
 
-HTML Source Code: <img src="/art/logo-green.gif" alt="Access Board Logo">
+HTML Source Code: `<img src="/art/logo-green.gif" alt="Access Board Logo">`  
 
 <http://www.access-board.gov/>
 
@@ -533,26 +533,25 @@ This provision requires that when audio presentations are available on a multime
 
 *What are ways of assigning text to elements?*
 
-There are several ways of providing textual information so that it can be recognized by assistive technology devices. For instance, the <IMG> tag can accept an "alt" attribute that will enable a web designer to include text that describes the picture directly in the <IMG> tag.
+There are several ways of providing textual information so that it can be recognized by assistive technology devices. For instance, the `<IMG>` tag can accept an "alt" attribute that will enable a web designer to include text that describes the picture directly in the `<IMG>` tag.
 
-HTML source code: <img src="/image/ab_logo1.gif" alt="The Architectural and Transportation Barriers Compliance Board emblem-Go to Access Board website">
+HTML source code: `<img src="/image/ab_logo1.gif" alt="The Architectural and Transportation Barriers Compliance Board emblem-Go to Access Board website">`  
 
 Link: <http://www.section508.gov/>
 
-Similarly, the <APPLET> tag for Java applets also accepts an "alt" attribute, but it only works for browsers that provide support for Java. Often, users with slower internet connections will turn support for Java applets off. A better alternative for providing textual descriptions is to simply include the alternative text between opening and closing <APPLET> or <OBJECT> tags. For instance, if a web designer wanted to include an\
-applet called MyCoolApplet in a web page, and also include a description that the applet shows a stock ticker displaying the current price of various stocks, the designer would use the following HTML coding for example:
+Similarly, the `<APPLET>` tag for Java applets also accepts an "alt" attribute, but it only works for browsers that provide support for Java. Often, users with slower internet connections will turn support for Java applets off. A better alternative for providing textual descriptions is to simply include the alternative text between opening and closing `<APPLET>` or `<OBJECT>` tags. For instance, if a web designer wanted to include an applet called MyCoolApplet in a web page, and also include a description that the applet shows a stock ticker displaying the current price of various stocks, the designer would use the following HTML coding for example:
 
-<APPLET CODE="MyCoolApplet.class" WIDTH="200", HEIGHT="100">
+`<APPLET CODE="MyCoolApplet.class" WIDTH="200", HEIGHT="100">`  
 
-This applet displays current stock prices for many popular stocks.
+`This applet displays current stock prices for many popular stocks.`
 
-</APPLET>
+`</APPLET>`
 
 Finally, yet another way of providing a textual description is to include it in the page in the surrounding context:
 
-Below is a picture of me during my great vacation!\
-<p>\
-<IMG src="/pictureofme.jpg">
+`Below is a picture of me during my great vacation!`  
+`<p>`  
+`<IMG src="/pictureofme.jpg">`  
 
 * * * * *
 
