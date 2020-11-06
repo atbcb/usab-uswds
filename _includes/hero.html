@@ -1,12 +1,10 @@
-{% comment %} 
-This will be displayed on the homepage. Ideally, you want to highlight key goals of the website
-{% endcomment %}
-
-<section class="usa-hero height-card-lg">
-  <div class="grid-container">
-    <div class="usa-hero__callout maxw-none grid-col-6">
-      <h2 class="usa-hero__heading"><em class="usa-hero__heading--alt">Advancing Full Access and Inclusion for All</em>
+<section class="usa-hero height-card-lg" style="background-image: url(/images/{{ include.hero-img | asset_url }});">
+  {% if include.hero-text %}
+  <div class="grid-container">  
+    <div class="usa-hero__callout bg-black opacity-80 center text-center">
+      <h2 class="usa-hero__heading opacity-100"><em class="usa-hero__heading--alt">{{ include.hero-text }}</em>
       </h2>
     </div>
   </div>
+  {% endif %}
 </section>
