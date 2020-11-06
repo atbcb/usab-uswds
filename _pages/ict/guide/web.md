@@ -385,7 +385,7 @@ Web developers must exercise some caution when deciding which event handlers to 
 
 -   onLoad and onUnload -- Both of these event handlers are used frequently to perform certain functions when a web page has either completed loading or when it unloads. Because neither event handler is triggered by any user interaction with an element on the page, they do not present accessibility problems.  
 
--   onChange -- This event handler is very commonly used for triggering JavaScript functions based on a selection from within a `<select>` tag. Surprisingly, it presents tremendous accessibility problems for many commonly used screen readers and should be avoided. Instead, web developers should use the onClick event handler (associated with a link or button that is adjacent to a <select> tag) to accomplish the same functions.  
+-   onChange -- This event handler is very commonly used for triggering JavaScript functions based on a selection from within a `<select>` tag. Surprisingly, it presents tremendous accessibility problems for many commonly used screen readers and should be avoided. Instead, web developers should use the onClick event handler (associated with a link or button that is adjacent to a `<select>` tag) to accomplish the same functions.  
   
   
   
