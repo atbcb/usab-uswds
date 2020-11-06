@@ -433,17 +433,3 @@ collections:
         default: "",
         required: false,
         }
-      - {
-        label: "CFR Assisted",
-        name: "cfr-assisted",
-        widget: "string",
-        default: "",
-        required: false,
-        }
-      - {
-        label: "CFR Conducted",
-        name: "cfr-conducted",
-        widget: "string",
-        default: "",
-        required: false,
-        }
