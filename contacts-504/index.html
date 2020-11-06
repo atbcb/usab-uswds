@@ -6,25 +6,39 @@ banner-title: Section 504 Contacts
 
 
 <h2 class="text-center">Contacts at other federal agencies responsible for Section 504 compliance.</h2>
-      <!-- This loops through the paginated posts -->
+  <div class="usa-accordion" aria-multiselectable="true" aria-label="504 contacts">
+    <ul class="">
+    <!-- This loops through the 504 contacts -->
       {% for contact in site.contacts-504 %}
-      <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
-        <h3 class="title">{{contact.full_name}}</h3>
+      <li class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
+        <button class="top-level-accordion usa-accordion__button"
+                aria-expanded="false"
+                aria-controls="{{contact.name}}"
+              >
+              <h3>{{contact.full_name}}</h3>
+              </button>
+              <div id="{{contact.name}}" class="usa-accordion__content">
         <p>
-          {{contact.contact}}<br>
+          {% if contact.contact %}{{contact.contact}}<br>{% endif %} 
+          <!-- add  if statement around every field below -->
           {{contact.job-title}}<br>
           {{contact.department}}<br>
           <a href="mailto:{{contact.email}}">{{contact.email}}</a>
         </p>
-        <p>
-          Direct Phone: {{contact.phone}}<br>
+        <table>
+          {% if contact.phone %}<tr><td>Direct Phone</td><td>{{contact.phone}}</td></tr>{% endif %}
+          <!-- repeat for the following -->
           General Phone: {{contact.phone-g}}<br>
           TTY: {{contact.tty}}<br>
           Fax: {{contact.fax}}<br>
           General Email: <a href="mailto:{{contact.email-g}}">{{contact.email-g}}</a><br>
           Website: <a href="{{contact.website}}">{{contact.website}}</a><br>
           Address: {{contact.address}}<br>
-        </p>
-      </div>
+        </table>
+      </li>
       {% endfor %}
+
+    </ul>
+  </div>
+
 
