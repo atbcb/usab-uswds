@@ -1,6 +1,8 @@
 ---
 title: Webinars
-layout: page
+layout: page-hero
+hero-text: Webinars presented by the US Access Board
+hero-img: stock/building.jpg
 sidenav: false
 permalink: /webinars/about.html
 ---

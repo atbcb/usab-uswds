@@ -1,6 +1,8 @@
 ---
 title: Trainings
-layout: page
+layout: page-hero
+hero-text: test
+hero-img: stock/ict.jpg
 sidenav: false
 permalink: /webinars/training.html
 redirect_from: 
