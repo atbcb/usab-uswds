@@ -8,7 +8,8 @@ member: public
 status: current
 president: Obama
 image: /images/uploads/hart.jpg
-bio: >-
+---
+
   Christopher S. Hart of Boston, Massachusetts is an accessibility consultant
   who specializes in ADA compliance and Universal Design in the built
   environment and the public realm.  He also serves as a technical advisor to
@@ -20,6 +21,5 @@ bio: >-
   also a board member for Livable Streets Alliance, Disability Law Center, and
   Agassiz Village.  Hart is a graduate of the College of Public and Community
   Service at the University of Massachusetts.
-agency: ''
----
+
 

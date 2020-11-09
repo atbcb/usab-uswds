@@ -1,20 +1,23 @@
 ---
-layout: page
+layout: page-full
 ---
 
 {% comment %}
-  This is used for individula Board Member pages
+  This is used for individula Board Member and Staff pages. Banner title is defined in the _config.yml
 {% endcomment %}
 <div class="usa-layout-docs usa-section">
   <div class="grid-container maxw-desktop">
     <div class="grid-row grid-gap">
-      <div class="usa-layout-docs__main usa-prose">
+      <div class="usa-layout-docs__main">
+        {% if page.image %}<img class="img-right maxw-card" src="{{ site.baseurl }}{{ page.image }}">{% endif %} 
         <h1 class="title">{{ page.full_name }}</h1>
-            <span class="text-base text-bold">{{ page.agency }}</span>
-          {% if page.bio %}
-            <img class="img-right maxw-card" src="{{ site.baseurl }}{{ page.image }}">
-            <p>{{ page.bio }}</p>
-          {% endif %}  
+          {% if page.job-title %}<span class="text-base text-italic text-bold">{{ page.job-title }}</span><br>{% endif %}  
+          {% if page.office %}<span class="text-base text-bold">{{ page.office }}</span><br>{% endif %}  
+          {% if page.agency %}<span class="text-base text-bold">{{ page.agency }}</span><br>{% endif %}  
+          {% if page.department %}<span class="text-base text-bold">{{ page.department }}</span><br>{% endif %}  
+          <div id="bio" class="usa-prose">
+            {{ content }}
+          </div>
       </div>
     </div>
   </div>

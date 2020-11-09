@@ -8,7 +8,10 @@ member: federal
 status: current
 president: Trump
 image: /images/uploads/lance-robertson.jpg
-bio: >-
+agency: Department of Health and Human Services
+
+---
+
   Lance Robertson was named Assistant Secretary for Aging and head of the
   Administration for Community Living at the U.S. Department of Health and Human
   Services (HHS) in August 2017.  Before joining HHS, he served as Director of
@@ -19,6 +22,5 @@ bio: >-
   degree from Oklahoma State University and a master’s degree in public
   administration from the University of Central Oklahoma.  He is a veteran of
   the United States Army.
-agency: Department of Health and Human Services
----
+
 

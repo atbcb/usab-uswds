@@ -360,10 +360,12 @@ defaults:
       path: "_staff"
     values:
       layout: profile
+      banner-title: Access Board Staff
   - scope:
       path: "_board-members"
     values:
       layout: profile
+      banner-title: Access Board Members
   - scope:
       path: ""
       type: "pages"
