@@ -13,14 +13,11 @@ toc: file name of toc, or null for no left side table of contents
 
 {% include section-title.html %}
 
-<div class="usa-layout-docs">
+<div class="">
   <div class="grid-container maxw-desktop">
     <div class="grid-row grid-gap">
-      {% if page.toc %}
-      {% include {{ page.toc }} %}
-      {% endif %}
-      <main id="main-content"class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
-        <div id="content" class="margin-y-2">
+      <main id="main-content"class="grid-col-fill margin-y-5">
+        <div id="content">
           
             {{ content }}
           

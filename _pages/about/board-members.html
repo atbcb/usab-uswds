@@ -36,8 +36,8 @@ title: Access Board Members
               </header>
               <div class="usa-card__body">
                 <h3 class="text-center margin-y-0">{{ chair.full_name }}</h3>
-                {% if chair.agency %}
-                <h4 class="text-center margin-y-0">{{ chair.agency }}</h4>
+                {% if chair.department %}
+                <h4 class="text-center margin-y-0">{{ chair.department }}</h4>
                 {% endif %}           
               </div>
               <div class="usa-card__media usa-card__media--inset">
@@ -59,8 +59,8 @@ title: Access Board Members
               </header>
               <div class="usa-card__body">
                 <h3 class="text-center margin-y-0">{{ vice-chair.full_name }}</h3>
-                {% if vice-chair.agency %}
-                <h4 class="text-center margin-y-0">{{ vice-chair.agency }}</h4>
+                {% if vice-chair.department %}
+                <h4 class="text-center margin-y-0">{{ vice-chair.department }}</h4>
                 {% endif %}           
               </div>
               <div class="usa-card__media usa-card__media--inset">
@@ -89,8 +89,8 @@ title: Access Board Members
             <div class="usa-card__container gray-to-color card-shadow">            
               <div class="padding-1">
                 <h3 class="card-name">{{ member.full_name }}</h3>
-                  {% if member.agency %}
-                  <p class="card-text">{{ member.agency }}</p>
+                  {% if member.department %}
+                  <p class="card-text">{{ member.department }}</p>
                   {% endif %}
               </div>
               <div class="usa-card__media usa-card__media--inset">
@@ -120,8 +120,8 @@ title: Access Board Members
             <div class="usa-card__container gray-to-color card-shadow">            
               <div class="padding-1">
                   <h3 class="card-name">{{ member.full_name }}</h3>
-                  {% if member.agency %}
-                  <p class="card-text">{{ member.agency }}</p>
+                  {% if member.department %}
+                  <p class="card-text">{{ member.department }}</p>
                   {% endif %}
               </div>
               <div class="usa-card__media usa-card__media--inset">

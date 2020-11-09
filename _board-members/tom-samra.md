@@ -7,7 +7,10 @@ vice-chair: false
 member: federal
 status: current
 image: /images/uploads/samra.jpg
-bio: >-
+agency: United States Postal Service
+
+---
+
   Tom Samra was named United States Postal Service Vice President, Facilities,
   in November 2005.  In this role, he is responsible for one of the largest
   civilian construction programs in the U.S. and oversees all Postal Service
@@ -22,6 +25,5 @@ bio: >-
   30 years experience in project development and facilities management both
   domestically and internationally.  He earned a Bachelor of Science degree in
   electrical engineering from the Detroit Institute of Technology in 1975.
-agency: United States Postal Service
----
+
 

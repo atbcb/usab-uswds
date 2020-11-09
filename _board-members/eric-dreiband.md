@@ -7,7 +7,10 @@ vice-chair: false
 member: federal
 status: current
 image: /images/uploads/dreiband.jpg
-bio: >-
+agency: Department of Justice
+
+---
+
   Eric Dreiband serves as the Department of Justice’s Assistant Attorney General
   for the Civil Rights Division.  His background spans the public and private
   sector, and also the issues covered by the Civil Rights Division.  He
@@ -22,6 +25,5 @@ bio: >-
   Washington, D.C. office of the law firm of Jones Day.  He received his J.D.,
   with honors, from Northwestern University Pritzker School of Law, his M.T.S.
   from Harvard Divinity School, and his A.B. from Princeton University.
-agency: Department of Justice
----
+
 

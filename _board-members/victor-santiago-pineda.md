@@ -8,7 +8,8 @@ member: public
 status: current
 president: Obama
 image: /images/uploads/pineda-victor.jpg
-bio: >-
+---
+
   Dr. Victor Santiago Pineda of Berkeley, California is President of the World
   Enabled, an educational non-profit organization that promotes the rights and
   dignities of persons with disabilities, and the Pineda Foundation, positions
@@ -24,6 +25,5 @@ bio: >-
   California at Los Angeles.  At UC Berkeley, he earned a Master’s degree in
   City and Regional Planning and bachelor’s degrees in Political Economy (BA)
   and Business Administration (BS).
-agency: ''
----
+
 

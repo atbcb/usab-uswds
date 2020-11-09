@@ -8,7 +8,8 @@ member: public
 status: current
 president: Obama
 image: /images/uploads/gregory-fehribach.jpg
-bio: >-
+---
+
   Gregory S. Fehribach of Indianapolis, Indiana is principal of the Fehribach
   Group, a consulting firm specializing in accessibility, universal design, and
   compliance with the ADA that he founded in 1995. He is of counsel to the firm
@@ -24,6 +25,5 @@ bio: >-
   Trustees. He received a bachelor’s degree and a master of arts degree from
   Ball State University and a law degree from Ohio Northern University’s Pettit
   College of Law.
-agency: ''
----
+
 

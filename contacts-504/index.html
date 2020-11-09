@@ -1,39 +1,37 @@
 ---
-layout: page
+layout: page-full
 permalink: /504-contacts/
 banner-title: Section 504 Contacts
 ---
 
 
-<h2 class="text-center">Contacts at other federal agencies responsible for Section 504 compliance.</h2>
-  <div class="usa-accordion" aria-multiselectable="true" aria-label="504 contacts">
+<h3 class="text-center margin-bottom-2">Contacts at other federal agencies responsible for Section 504 compliance.</h3>
+  <div class="usa-accordion center" aria-multiselectable="true" aria-label="504 contacts">
     <ul class="usa-list--unstyled">
     <!-- This loops through the 504 contacts -->
       {% for contact in site.contacts-504 %}
-      <li class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
+      <li class="padding-1 usa-prose ">
         <button class="top-level-accordion usa-accordion__button"
                 aria-expanded="false"
                 aria-controls="{{contact.name}}"
               >
-              <h3>{{contact.full_name}}</h3>
+              <h4>{{contact.full_name}}</h4>
               </button>
               <div id="{{contact.name}}" class="usa-accordion__content">
         <p>
-          {% if contact.contact %}{{contact.contact}}<br>{% endif %} 
-          <!-- add  if statement around every field below -->
-          {{contact.job-title}}<br>
-          {{contact.department}}<br>
-          <a href="mailto:{{contact.email}}">{{contact.email}}</a>
+          {% if contact.contact != '' %}{{contact.contact}}<br>{% endif %} 
+          {% if contact.job-title != '' %}{{contact.job-title}}<br>{% endif %} 
+          {% if contact.department != '' %}{{contact.department}}<br>{% endif %} 
+          {% if contact.email != '' %}<a href="mailto:{{contact.email}}">{{contact.email}}</a>{% endif %} 
         </p>
         <table>
-          {% if contact.phone %}<tr><td>Direct Phone</td><td>{{contact.phone}}</td></tr>{% endif %}
-          <!-- repeat for the following -->
-          General Phone: {{contact.phone-g}}<br>
-          TTY: {{contact.tty}}<br>
-          Fax: {{contact.fax}}<br>
-          General Email: <a href="mailto:{{contact.email-g}}">{{contact.email-g}}</a><br>
-          Website: <a href="{{contact.website}}">{{contact.website}}</a><br>
-          Address: {{contact.address}}<br>
+          {% if contact.phone != '' %}<tr><td>Direct Phone</td><td>{{contact.phone}}</td></tr>{% endif %}
+          {% if contact.phone-g != '' %}<tr><td>General Phone</td><td>{{contact.phone-g}}</td></tr>{% endif %}
+          {% if contact.tty != '' %}<tr><td>TTY</td><td>{{contact.tty}}</td></tr>{% endif %}
+          {% if contact.fax != '' %}<tr><td>Fax</td><td>{{contact.fax}}</td></tr>{% endif %}
+          {% if contact.email-g != '' %}<tr><td>General Email</td><td>{{contact.email-g}}</td></tr>{% endif %}
+          {% if contact.website != '' %}<tr><td>Website</td><td>{{contact.website}}</td></tr>{% endif %}
+          {% if contact.address != '' %}<tr><td>Address</td><td>{{contact.address}}</td></tr>{% endif %}
         </table>
       </li>
       {% endfor %}

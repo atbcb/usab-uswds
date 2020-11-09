@@ -181,60 +181,6 @@ collections:
           widget: "hidden",
           default: true
         }
-  - label: Staff
-    name: staff
-    folder: _staff/
-    create: true
-    slug: "{{name}}"
-    editor:
-      preview: false
-    fields:
-      - {
-          label: "Name",
-          name: "name",
-          widget: "string",
-          hint: 'This is the first name and last name appended with a hyphen in lowercase. ie("jane-doe")',
-        }
-      - { label: "First Name", name: "first_name", widget: "string" }
-      - { label: "Last Name", name: "last_name", widget: "string" }
-      - { label: "Full Name", name: "full_name", widget: "string" }
-      - {
-          label: "Image",
-          name: "image",
-          widget: "image",
-          allow_multiple: false,
-          required: false,
-        }
-      - { label: "Bio", name: "bio", widget: "text", required: false }
-      - { label: "Agency", name: "agency", widget: "string", default: "USAB" }
-      - { label: "Department", name: "department", widget: "string" }
-  - label: Tags
-    name: tags
-    folder: _tags/
-    create: true
-    slug: "{{name}}"
-    editor:
-      preview: false
-    fields:
-      - {
-          label: "Name",
-          name: "name",
-          widget: "string",
-          hint: "The name of the tag",
-        }
-      - {
-          label: "Background color",
-          name: "color",
-          widget: "text",
-          required: false,
-          hint: "HTML hex color",
-        }
-      - {
-          label: "Description",
-          name: "description",
-          widget: "text",
-          required: false,
-        }
   - label: Board Members
     name: board-members
     folder: _board-members/
@@ -310,15 +256,48 @@ collections:
           allow_multiple: false,
           required: false,
         }
-      - { label: "Bio", name: "bio", widget: "text", required: false }
       - {
-        label: "Agency",
-        name: "agency",
-        widget: "select",
-        options: [General Services Administration, Department of Defense, Department of Justice, Department of Housing and Urban Development, Department of Health and Human Services, United States Postal Service, Department of Labor, Department of Education, Department of Commerce, Department of the Interior, Department of Transportation, Department of Veterans Affairs],
-        default: "",
+        label: "Job Title",
+        name: "job-title",
+        widget: "text",
         required: false
         }
+      - {
+        label: "Department",
+        name: "department",
+        widget: "select",
+        options: [General Services Administration, Department of Defense, Department of Justice, Department of Housing and Urban Development, Department of Health and Human Services, United States Postal Service, Department of Labor, Department of Education, Department of Commerce, Department of the Interior, Department of Transportation, Department of Veterans Affairs],
+        required: false
+        }
+      - { label: "Bio", name: "body", widget: "markdown", required: false }
+  - label: Staff
+    name: staff
+    folder: _staff/
+    create: true
+    slug: "{{name}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Name",
+          name: "name",
+          widget: "string",
+          hint: 'This is the first name and last name appended with a hyphen in lowercase. ie("jane-doe")',
+        }
+      - { label: "First Name", name: "first_name", widget: "string" }
+      - { label: "Last Name", name: "last_name", widget: "string" }
+      - { label: "Full Name", name: "full_name", widget: "string" }
+      - {
+          label: "Image",
+          name: "image",
+          widget: "image",
+          allow_multiple: false,
+          required: false,
+        }
+      - { label: "Job Title", name: "job-title", widget: "string", required: false }
+      - { label: "Office", name: "office", widget: "string", required: false }
+      - { label: "Agency", name: "agency", widget: "string", default: "United States Access Board", required: false }
+      - { label: "Bio", name: "body", widget: "markdown", required: false }
   - label: 504 contacts
     name: contacts-504
     folder: _contacts-504/
@@ -432,4 +411,31 @@ collections:
         widget: "text",
         default: "",
         required: false,
+        }
+  - label: Tags
+    name: tags
+    folder: _tags/
+    create: true
+    slug: "{{name}}"
+    editor:
+      preview: false
+    fields:
+      - {
+          label: "Name",
+          name: "name",
+          widget: "string",
+          hint: "The name of the tag",
+        }
+      - {
+          label: "Background color",
+          name: "color",
+          widget: "text",
+          required: false,
+          hint: "HTML hex color",
+        }
+      - {
+          label: "Description",
+          name: "description",
+          widget: "text",
+          required: false,
         }
