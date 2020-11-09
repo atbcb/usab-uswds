@@ -20,7 +20,7 @@ pagination:
           <div class="text-bold margin-top-neg-105">
           {% comment %}  By
             {% for author in post.authors %}
-              {% include staff-link.html staff=author %}
+              {% include staff.html staff=author %}
             {% endfor %}
             · {% endcomment %}
              {{ post.date | date: '%B %d, %Y' }}
