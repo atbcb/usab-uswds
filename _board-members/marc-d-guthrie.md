@@ -1,5 +1,5 @@
 ---
-name: marc-d- guthrie
+name: marc-d-guthrie
 last-name: guthrie
 full_name: Marc D. Guthrie
 chair: false
