@@ -332,13 +332,17 @@ defaults:
       path: ""
       type: "pvag"
     values:
-      collection-title: "(Proposed) Passenger Vessels"
-      collection-subtitle: "Accessibility Guidelines"
+      banner-title: "(Proposed) Passenger Vessels"
+      banner-subtitle: "Accessibility Guidelines"
       collection-folder: pvag
-      layout: standards
+      toc: toc/auto.html
+      toc-group: pvag
+      layout: universal
       file-directory: /files/pvag/
       image-directory: /images/pvag/
-      right-sidenav: sidenav-pvag.html
+      right-sidenav: sidenav-right-universal.html
+      ta-text: Contact the Access Board for further guidance on access to passenger vessels
+      ta-email-pre: pvag
   - scope:
       path: ""
       type: "research"
