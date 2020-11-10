@@ -4,7 +4,7 @@ order-number: 12
 file: /files/ada/guides/amoe.pdf
 file-description: PDF version of Chapter 4 Accessible Means of Egress Guide
 redirect_from: 
-    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-4-accessible-means-of-egress
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-4-accessible-means-of-egress/
 ---
 
 

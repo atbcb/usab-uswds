@@ -4,7 +4,7 @@ order-number: 18
 file:  /files/ada/guides/bathrooms.pdf
 file-description: PDF version of Chapter 6 Bathing Rooms Guide
 redirect_from: 
-    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-6-bathing-rooms
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-6-bathing-rooms/
 ---
 
 This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for bathing rooms. 
