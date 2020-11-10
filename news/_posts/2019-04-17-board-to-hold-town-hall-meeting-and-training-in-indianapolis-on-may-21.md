@@ -35,7 +35,7 @@ For further information, contact Dave Yanchulis at [yanchulis@access-board.gov](
 
 ![Bankers Life Fieldhouse logo](https://www.access-board.gov/images/News/bankerslife.png)
 
-Pacers Square at Bankers Life Fieldhouse/
+Pacers Square at Bankers Life Fieldhouse
 125 S. Pennsylvania Street, Indianapolis, IN
 
 *Training Session on the ADA Accessibility Standards (free)*
