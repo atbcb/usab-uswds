@@ -8,8 +8,6 @@ excerpt: >-
   The Access Board has released technical bulletins on accessibility to restrooms, bathing facilities, and drinking fountains. This material explains specifications for water closets, toilet compartments, showers, bathtubs, and drinking fountains in the ADA and ABA Accessibility Standards. Each guide clarifies common sources of confusion, answers frequently asked questions, and offers recommendations for best practice. Examples of compliant restrooms and bathing rooms are included to illustrate how various requirements can be met. These bulletins are the latest installment to . . . 
 image: /images/uploads/chapter6-guides.png
 image_alt_text: Composite screenshot of first page from three technical bulletins.
-authors:
-  - dave-yanchulis
 tags:
   - ADA
 featured: false
