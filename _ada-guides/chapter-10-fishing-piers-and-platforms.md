@@ -4,7 +4,7 @@ order-number: 1005
 file: /files/ada/guides/fishing.pdf
 file-description: PDF version of Accessible Fishing Piers and Platforms
 redirect_from: 
-    - /guidelines-and-standards/recreation-facilities/guides/fishing-piers-and-platforms
+    - /guidelines-and-standards/recreation-facilities/guides/fishing-piers-and-platforms/
 ---
 
 <div class="clearfix" markdown="1">
