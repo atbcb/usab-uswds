@@ -8,7 +8,7 @@ toc-group: ufas
 file: /files/ufas/ufas.pdf
 file-description: PDF version of UFAS, 7–1–97 Edition
 redirect_from:
-    - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/ufas
+    - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/ufas/
 ---
 
 # Introduction

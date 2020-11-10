@@ -3,10 +3,10 @@ title: "About the ICT Accessiblity 508 Standards and 255 Guidelines"
 permalink: /ict/about.html
 version: original
 redirect_from:
-    - /guidelines-and-standards/communications-and-it/about-the-section-508-standards/
-    - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/
     - /508/
----
+-   - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/
+    - /guidelines-and-standards/communications-and-it/about-the-section-508-standards/
+ --
 
 These standards address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. 
 
