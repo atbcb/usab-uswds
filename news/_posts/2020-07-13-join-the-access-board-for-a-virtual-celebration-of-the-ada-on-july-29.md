@@ -3,7 +3,13 @@ layout: post
 title: Join the Access Board for a Virtual Celebration of the ADA on July 29
 date: 'July 13, 2020'
 excerpt: >-
-  The Access Board will celebrate the ADA’s 30th anniversary with a virtual public meeting on July 29 from 1:30 – 3:00 (ET). The event will feature discussion of the ADA and its achievements with guest speakers and Access Board members. It will start off with a documentary that provides a vivid picture of the world before the ADA, including widespread discrimination of people with disabilities and early achievements of the disability rights movement. This virtual meeting is open to . . .
+  The Access Board will celebrate the ADA’s 30th anniversary with a virtual
+  public meeting on July 29 from 1:30 – 3:00 (ET). The event will feature
+  discussion of the ADA and its achievements with guest speakers and Access
+  Board members. It will start off with a documentary that provides a vivid
+  picture of the world before the ADA, including widespread discrimination of
+  people with disabilities and early achievements of the disability rights
+  movement. This virtual meeting is open to . . .
 image: /images/uploads/ada-30.png
 image_alt_text: 'Celebrating 30 years of the ADA 1990-2020, Pres. Bush signing the ADA'
 authors:
@@ -11,7 +17,7 @@ authors:
 tags:
   - events
   - ADA
-featured: false
+featured: true
 ---
 The Access Board will celebrate the ADA's 30th anniversary with a virtual public meeting on July 29 from 1:30 – 3:00 (ET). The event will feature a discussion of the ADA and its achievements with guest speakers and Access Board members.
 

@@ -140,12 +140,6 @@ collections:
   prowag-rulemaking:
     output: true
     permalink: /prowag/rulemaking:path/
-  ada-ibc-comparison:
-    output: true
-    permalink: /ada/background/ada-ibc-comparison/:path/
-  ada-background:
-    output: true
-    permalink: /ada/background/:path/
   ada-vehicles:
     output: true
     permalink: /ada/vehicles/:path/
@@ -189,13 +183,13 @@ defaults:
       banner-title: "Americans with Disabilities Act"
       banner-subtitle: "Accessibility Standards"
       collection-folder: ada
+      toc-group: ""
       layout: universal
-      toc: toc-ada.html
       image-directory: /images/ada-aba/standards/
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/guides/
-      s-url-text: "Guide to the ADA Standards"
-      s-image: /images/stock/guide.svg
+      s-url-text: "View ADA Guides"
+      s-image: stock/guide.svg
       ta-text: "Contact the Access Board for guidance on these standards:"
       ta-email-pre: ta
   - scope:
@@ -205,30 +199,31 @@ defaults:
       banner-title: "Guide to the ADA Accessibility Standards"
       collection-folder: ada-guides
       layout: universal
-      toc: toc-auto.html
+      toc: /toc/auto.html
+      toc-group: ada-guides
       file-directory: /files/ada-aba/guides/ada/
       image-directory: /images/ada-aba/guides/
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/
-      s-url-text: "ADA Standards"
-      s-image: /images/stock/ada.svg
+      s-url-text: "View ADA Standards"
+      s-image: stock/ada.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
-
   - scope:
       path: ""
       type: "aba"
     values:
       banner-title: "Architectural Barriers Act"
       banner-subtitle: "Accessibility Standards"
-      toc: toc-auto.html
+      toc: /toc/auto.html
+      toc-group: ""
       collection-folder: aba
       layout: universal
       image-directory: /images/ada-aba/standards/
       right-sidenav: sidenav-right-universal.html
       s-url: /aba/guides/
-      s-url-text: "Guide to the ABA Standards"
-      s-image: /images/stock/guide.svg
+      s-url-text: "View ABA Guides"
+      s-image: stock/guide.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
   - scope:
@@ -237,37 +232,31 @@ defaults:
     values:
       banner-title: "Guide to the ABA"
       banner-subtitle: "Accessibility Standards"
-      toc: toc-auto.html
+      toc: /toc/auto.html
+      toc-group: aba-guides
       collection-folder: aba-guides
       layout: universal
       image-directory: /images/ada-aba/guides/
       right-sidenav: sidenav-right-universal.html
       s-url: /aba/
-      s-url-text: "Go to the ABA Standards"
-      s-image: /images/stock/aba.svg
+      s-url-text: "View ABA Standards"
+      s-image: stock/aba.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
   - scope:
       path: ""
-      type: "ada-background"
-    values:
-      collection-title: "ADA - Background, History and Archive"
-      collection-folder: ada-background
-      layout: data-sidenav
-      datafile: ada-background
-      file-directory: /files/ada-aba/background/
-      image-directory: /images/ada-aba/background/
-  - scope:
-      path: ""
       type: "prowag"
     values:
-      collection-title: "(Proposed) Public Rights-of-Way"
-      collection-subtitle: "Accessibility Guidelines"
+      banner-title: "(Proposed) Public Rights-of-Way"
+      banner-subtitle: "Accessibility Guidelines"
       collection-folder: prowag
-      layout: standards
-      file-directory: /files/prowag/
+      layout: universal
+      toc: /toc/auto.html
+      toc-group: prowag
       image-directory: /images/prowag/
-      right-sidenav: sidenav-prowag.html
+      right-sidenav: sidenav-right-universal.html
+      ta-text: Contact the Access Board for assistance on these guidelines
+      ta-email-pre: row
   - scope:
       path: ""
       type: "prowag-rulemaking"
@@ -284,13 +273,14 @@ defaults:
       collection-title: "ADA Accessibility Guidelines for Vehicles"
       collection-folder: ada-vehicles
       layout: universal
-      toc: toc-auto.html
+      toc: "/toc/auto.html"
+      toc-group: ""
       file: /files/vehicles/vehicle-guidelines.pdf
       image-directory: /images/vehicles/
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/vehicles/guides/
       s-url-text: "Go to the ADA Vehicles Guides"
-      s-image: /images/stock/Guide-preview.png
+      s-image: stock/guide.svg
       ta-text: Contact the Access Board for assistance on these guidelines
       ta-email-pre: ta
   - scope:
@@ -300,13 +290,13 @@ defaults:
       collection-title: "Guide to ADA Vehicles"
       collection-folder: ada-vehicles-guides
       layout: universal
-      toc: toc-auto.html
+      toc: "/toc/auto.html"
       toc-group: ada-vehicles-guides
       image-directory: /images/vehicles/
       right-sidenav: sidenav-right-universal.html
       s-url: /ada/vehicles/
       s-url-text: "Go to ADA Vehicles"
-      s-image: /images/stock/guide.sed
+      s-image: stock/ada-vehicles.svg
       ta-text: Contact the Access Board for assistance on these guidelines
       ta-email-pre: ta
   - scope:
@@ -317,7 +307,8 @@ defaults:
       banner-subtitle: "Revised 508 Standards and 255 Guidelines"
       collection-folder: ict
       layout: universal
-      toc: toc-ict.html
+      toc: /toc/ict.html
+      toc-group: ""
       file-directory: /files/ict/
       image-directory: /images/ict/
       right-sidenav: sidenav-right-universal.html
@@ -327,13 +318,16 @@ defaults:
       path: ""
       type: "mde"
     values:
-      collection-title: "Medical Diagnostic Equipment"
-      collection-subtitle: "Accessibility Standards"
+      banner-title: "Medical Diagnostic Equipment"
+      banner-subtitle: "Accessibility Standards"
       collection-folder: mde
-      layout: standards
-      file-directory: /files/mde/
+      layout: universal
+      toc: /toc/auto.html
+      toc-group: mde-standards
       image-directory: /images/mde/
-      right-sidenav: sidenav-mde.html
+      right-sidenav: sidenav-right-universal.html
+      ta-text: Contact the Access Board for guidance on these standards
+      ta-email-pre: mde
   - scope:
       path: ""
       type: "pvag"
@@ -352,7 +346,8 @@ defaults:
       collection-title: "Research"
       collection-folder: research
       layout: universal
-      toc: toc-auto.html
+      toc: "/toc/auto.html"
+      toc-group: ""
   - scope:
       path: ""
       type: "es"
@@ -362,13 +357,15 @@ defaults:
       layout: standards
       image-directory: /images/
   - scope:
-      path: "#_staff"
+      path: "_staff"
     values:
       layout: profile
+      banner-title: Access Board Staff
   - scope:
       path: "_board-members"
     values:
       layout: profile
+      banner-title: Access Board Members
   - scope:
       path: ""
       type: "pages"
@@ -441,8 +438,9 @@ exclude:
   - node_modules
   - Gemfile
   - Gemfile.lock
-  # Uncomment below to speed up dev build times
-  # - _ada*
+  #  Uncomment to speed up build times
+  # - _ada
+  # - _ada-guides
   # - _prowag*
   # - _aba*
   # - _research*

@@ -7,6 +7,7 @@ permalink: /ict/guide/telecom_tutorial.html
 
 # {{ page.title }}
 
+
 **Contents**
 
 Part I

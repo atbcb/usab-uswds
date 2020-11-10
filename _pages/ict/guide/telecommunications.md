@@ -18,7 +18,9 @@ Section 255 of the Telecommunications Act of 1996 requires phone manufacturers a
 **(a) Telecommunications products or systems which provide a function allowing voice communication and which do not themselves provide a TTY functionality shall provide a standard non-acoustic connection point for TTYs. Microphones shall be capable of being turned on and off to allow the user to intermix speech with TTY use.**
 
 **What is a TTY?**
+
 ![image of a TTY](./images/blacktty.jpg)
+
 
 A TTY (Teletypewriter) is a data terminal that allows a person with a communication disability to use the telephone. TTYs traditionally have been stand-alone devices with a keyboard and an electronic display for reading text. TTYs send and receive tones which are converted to text. TTYs transmit and receive baudot code at a rate of 45.5 baud. Baudot refers to the code made from bits of electronic information. Baudot is considered to be an antiquated code. Baud refers to the speed at which data can be transmitted. Some TTYs may transmit at a faster speed using proprietary protocols or ASCII. ASCII (American Standard Code for Information Interchange) is a more conventional code, commonly used by computers and other devices that transmit data.
 
@@ -182,13 +184,10 @@ This provision applies to any technologies involved with the transmission of inf
 
 **(k) Products which have mechanically operated controls or keys, shall comply with the following:**
 
-> **(1) Controls and keys shall be tactilely discernible without activating the controls or keys.\
->\
-> (2) Controls and keys shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate controls and keys shall be 5 lbs. (22.2 N) maximum.\
->\
-> (3) If key repeat is supported, the delay before repeat shall be adjustable to at least 2 seconds. Key repeat rate shall be adjustable to 2 seconds per character.\
->\
-> (4) The status of all locking or toggle controls or keys shall be visually discernible, and discernible either through touch or sound.**
+(1) Controls and keys shall be tactilely discernible without activating the controls or keys.  
+(2) Controls and keys shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate controls and keys shall be 5 lbs. (22.2 N) maximum.  
+(3) If key repeat is supported, the delay before repeat shall be adjustable to at least 2 seconds. Key repeat rate shall be adjustable to 2 seconds per character.  
+(4) The status of all locking or toggle controls or keys shall be visually discernible, and discernible either through touch or sound.  
 
 **What products are generally covered under this provision?**
 

@@ -1093,27 +1093,27 @@
 				s-7.53,3.39-7.62-2.96L126.76,638.16z"/>
 		</g>
 	</g>
-	<linearGradient id="SVGID_79_" gradientUnits="userSpaceOnUse" x1="142.9484" y1="425.8728" x2="491.5245" y2="425.8728">
+	<linearGradient id="SVGID_79_" gradientUnits="userSpaceOnUse" x1="142.9484" y1="419.2751" x2="491.5245" y2="419.2751">
 		<stop  offset="0" style="stop-color:#DAE3FE"/>
 		<stop  offset="1" style="stop-color:#E9EFFD"/>
 	</linearGradient>
-	<path class="st88" d="M155.11,412.41c55.85,1.57,270.26,7.36,324.41,8.82c6.83,0.18,12.26,4.57,11.99,9.67l0,0
+	<path class="st88" d="M155.11,405.81c55.85,1.57,270.26,7.36,324.41,8.82c6.83,0.18,12.26,4.57,11.99,9.67l0,0
 		c-0.25,4.86-5.59,8.59-12.09,8.44l-324.26-7.64c-6.25-0.15-11.46-3.84-12.02-8.51l-0.14-1.18
-		C142.35,416.67,147.97,412.21,155.11,412.41z"/>
+		C142.35,410.07,147.97,405.61,155.11,405.81z"/>
 	<linearGradient id="SVGID_80_" gradientUnits="userSpaceOnUse" x1="143.6698" y1="458.4086" x2="377.9763" y2="458.4086">
 		<stop  offset="0" style="stop-color:#DAE3FE"/>
 		<stop  offset="1" style="stop-color:#E9EFFD"/>
 	</linearGradient>
 	<path class="st89" d="M145.24,460.36L145.24,460.36c0.89,1.24,2.58,2.04,4.43,2.11l222.52,7.81c2.8,0.1,5.12-1.49,5.22-3.59
 		l0.56-10.97c0.11-2.18-2.22-4.05-5.13-4.12l-216.45-5.06C146.75,446.32,140.62,453.91,145.24,460.36z"/>
-	<linearGradient id="SVGID_81_" gradientUnits="userSpaceOnUse" x1="142.9484" y1="392.0097" x2="491.5245" y2="392.0097">
+	<linearGradient id="SVGID_81_" gradientUnits="userSpaceOnUse" x1="142.9484" y1="378.5385" x2="491.5245" y2="378.5385">
 		<stop  offset="0" style="stop-color:#DAE3FE"/>
 		<stop  offset="1" style="stop-color:#E9EFFD"/>
 	</linearGradient>
-	<path class="st90" d="M155.11,378.54c55.85,1.57,270.26,7.36,324.41,8.82c6.83,0.18,12.26,4.57,11.99,9.67l0,0
+	<path class="st90" d="M155.11,365.07c55.85,1.57,270.26,7.36,324.41,8.82c6.83,0.18,12.26,4.57,11.99,9.67l0,0
 		c-0.25,4.86-5.59,8.59-12.09,8.44l-324.26-7.64c-6.25-0.15-11.46-3.84-12.02-8.51l-0.14-1.18
-		C142.35,382.8,147.97,378.34,155.11,378.54z"/>
-	<rect x="250.58" y="77.69" class="st91" width="239.28" height="80.15"/>
-	<text transform="matrix(1 0 0 1 250.5837 130.1066)" class="st14 st92 st93">ADA</text>
+		C142.35,369.33,147.97,364.87,155.11,365.07z"/>
+	<rect x="223.83" y="77.69" class="st91" width="239.28" height="80.15"/>
+	<text id="text" transform="matrix(1 0 0 1 265.0346 130.1066)" class="st14 st92 st93">ADA</text>
 </g>
 </svg>

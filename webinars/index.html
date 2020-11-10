@@ -49,7 +49,7 @@ permalink: /webinars/
         <div class="clearfix">
           {% if post.image %}
           <img src="{{ site.baseurl }}{{ post.image }}"
-          class="img-right maxw-card-lg maxh-card-lg" alt="{{ post.image_alt_text }}">
+          class="img-right maxw-card-lg maxh-card" alt="{{ post.image_alt_text }}">
           {% endif %} 
           {{ post.excerpt }}
               {% comment %} We default to using post.excerpt, but
@@ -59,8 +59,8 @@ permalink: /webinars/
       </div>
       {% endif %}
       {% endfor %}
-      {% include big-button.html link= "/trainings/about.html" text="Request a Training" %}
-      {% include big-button.html link= "/webinars/past.html" text="List of Past Webinars and Trainings" %}
+      {% include big-button.html link= "/webinars/training.html" text="Request a Training" %}
+      {% include big-button.html link= "/webinars/past.html" text="View Past Webinars and Trainings" %}
       {% include back-to-top.html %}
     </div>
     <aside class="desktop:grid-col-fill margin-top-4 padding-right-4">

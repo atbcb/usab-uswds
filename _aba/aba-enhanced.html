@@ -1,11 +1,19 @@
 ---
-layout: universal
-permalink: /aba-enhanced.html
+permalink: /aba/
+toc: /toc/aba.html
+file: /files/aba/ABAstandards.pdf
+file-description: Single file PDF of the ABA standards
 redirect_from:
-  - /guidelines-and-standards/buildings-and-sites/about-the-aba-
-  - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards
-  - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/single-file-version
+  - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/
+  - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/
+  - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards/single-file-version/
 ---
+
+{% assign aba-chapters = site.aba | where: "title","About the ABA" %}
+{% for chapter in aba-chapters %}
+    <div>{{chapter.content | markdownify}}</div>
+{% endfor %}
+
 
 <div id="aba-standards">
 <div class="chapter">

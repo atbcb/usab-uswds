@@ -1,6 +1,8 @@
 ---
 title: "About the ADA"
 permalink: /ada/about.html
+toc: /toc/auto.html
+toc-group: ada
 version: original
 ---
 
@@ -20,7 +22,7 @@ The US Access Board has developed guides to the ADA Standards in cooperation wit
 {%
     include big-button.html
     link= "/ada/guides/"
-    text= "Guide to the ADA Standards"
+    text= "View ADA Guides"
 %}
 
 

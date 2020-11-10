@@ -7,7 +7,6 @@ permalink: /ict/guide/sccp.html
 
 # {{ page.title }}
 
-
 *Updated: August 1, 2001*
 
 ### Self contained, closed products (1194.25)
@@ -60,6 +59,7 @@ No. Changing a toner cartridge is considered maintenance, not normal daily opera
 If a panel of lights were used strictly for troubleshooting, they would not be addressed by the standards. However, these controls are usually available for all to use and may be temporarily set for the tasks of co-workers. Adjustments may be needed for features in a copier such as contrast, reduction, double sided, stapling, and sorting. Sometimes, people accidentally hit an exposed button and the user needs to put the system back on-line. Therefore, these controls are necessary for normal daily operation and are required to be accessible.
 
 **What is meant by "tactilely discernible"?**
+
 ![close-up of "J" key and surronding keys on keyboard](./images/keyboard.jpg) 
 
 Individual keys must be identifiable and distinguishable from adjacent keys by touch. A product can meet this provision by using various shapes, spacing, or tactile markings. The normal desktop computer keyboard, for example, would meet this provision because the tactile marks on the "j" and "f" keys permit a user to locate all other keys tactilely. In addition, the physical spacing of the function, "numpad" and cursor keys make them easy to locate by touch. Because touch is necessary to discern tactile features, this provision requires keyboards to enable touch that does not automatically activate a function based on mere contact. Fortunately, most keyboards require some pressure on individual keys in order to enable a keystroke.
@@ -139,6 +139,7 @@ No. This provision does not prohibit the use of color to enhance identification 
 **(h) When a product permits a user to adjust color and contrast settings, a range of color selections capable of producing a variety of contrast levels shall be provided.**
 
 **Do all products have to provide color selections?**
+
 No. This provision is applied to those products that already allow a user to adjust screen colors.
 
 ![computer screen with yellow text on a blue background](./images/bluyelmonitor.jpg)

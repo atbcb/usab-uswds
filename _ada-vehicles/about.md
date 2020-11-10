@@ -4,8 +4,8 @@ permalink: /ada/vehicles/
 toc-group: ada-vehicles
 order-number: 0
 redirect_from:
- - /guidelines-and-standards/transportation/vehicles/about-adaag-for-transportation-vehicles
- - /guidelines-and-standards/transportation/vehicles/adaag-for-transportation-vehicles
+ - /guidelines-and-standards/transportation/vehicles/adaag-for-transportation-vehicles/
+ - /guidelines-and-standards/transportation/vehicles/about-adaag-for-transportation-vehicles/
 ---
 
 ### About the ADA Accessibility Guidelines for Transportation Vehicles

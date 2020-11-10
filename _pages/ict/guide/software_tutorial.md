@@ -7,7 +7,6 @@ permalink: /ict/guide/software_tutorial.html
 
 # {{ page.title }}
 
-
 **Creating An Accessible Program, SFCalculator**
 
 This tutorial illustrates the application of the Section 508, 36 CFR 1194.21, requirements for Software Applications and Operating Systems, Technical Provisions (a)-(l). A program for a six-function calculator is developed, named *SFCalculator*. The accessibility requirements of 1194.21 are illustrated during the development of *SFCalculator***.**

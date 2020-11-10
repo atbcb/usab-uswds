@@ -23,8 +23,6 @@ A text equivalent means adding words to represent the purpose of a non-text elem
 
 HTML Source Code: `<img src="/art/logo-green.gif" alt="Access Board Logo">`
 
-<http://www.access-board.gov/>
-
 ![Access Board Logo - The Access Board, a federal agency committed to accessible design](./images/accesslogo.jpg)
 
 *How much information actually needs to be in the text equivalent?*
@@ -38,8 +36,6 @@ Example of source code: `<IMG src="/transparent.gif" alt="">`
 A non-text element is an image, graphic, audio clip, or other feature that conveys meaning through a picture or sound. Examples include buttons, check boxes, pictures and embedded or streaming audio or video.
 
 HTML Source Code: `<img src="/art/logo-green.gif" alt="Access Board Logo">`
-
-<http://www.access-board.gov/>
 
 *How should audio presentations be treated?*
 
@@ -56,17 +52,14 @@ Link: <http://www.section508.gov/>
 Similarly, the <APPLET> tag for Java applets also accepts an "alt" attribute, but it only works for browsers that provide support for Java. Often, users with slower internet connections will turn support for Java applets off. A better alternative for providing textual descriptions is to simply include the alternative text between opening and closing <APPLET> or <OBJECT> tags. For instance, if a web designer wanted to include an\
 applet called MyCoolApplet in a web page, and also include a description that the applet shows a stock ticker displaying the current price of various stocks, the designer would use the following HTML coding for example:
 
-`<APPLET CODE="MyCoolApplet.class" WIDTH="200", HEIGHT="100">`
-
-This applet displays current stock prices for many popular stocks.
-
-`</APPLET>`
+> `<APPLET CODE="MyCoolApplet.class" WIDTH="200", HEIGHT="100">`  
+> This applet displays current stock prices for many popular stocks.  
+> `</APPLET>`  
 
 Finally, yet another way of providing a textual description is to include it in the page in the surrounding context:
 
-`Below is a picture of me during my great vacation!`  
-`<p>`  
-`<IMG src="/pictureofme.jpg">`
+> `<P>Below is a picture of me during my great vacation!`  
+> `<IMG src="/pictureofme.jpg" alt=""> </P>`  
 
 * * * * *
 
@@ -86,10 +79,10 @@ Yes, this would qualify as a multimedia presentation and would require the speec
 
 Example:
 
-National Endowment for the Humanities\
-[www.neh.gov/media/scottcaptions.ram](http://www.neh.gov/media/scottcaptions.ram)
+National Endowment for the Humanities  
+<www.neh.gov/media/scottcaptions.ram>
 
-National Center for Accessible Media (NCAM)\
+National Center for Accessible Media (NCAM)  
 <http://main.wgbh.org/wgbh/access/dvs/lion.ram>
 
 * * * * *
@@ -176,33 +169,48 @@ Section 1194.22 (g) and (h) state that when information is displayed in a table 
 
 *Using the Scope Attribute* -- The first row of each table should include column headings. Typically, these column headings are inserted in `<TH>` tags, although `<TD>` tags can also be used. These tags at the top of each column should include the following attribute:
 
-scope="col"
+> `scope="col"`
 
 By doing this simple step, the text in that cell becomes associated with every cell in that column. Unlike using other approaches (notably "id" and "headers") there is no need to include special attributes in each cell of the table. Similarly, the first column of every table should include information identifying information about each row in the table. Each of the cells in that first column are created by either `<TH>` or `<TD>` tags. Include the following attribute in these cells:
 
-scope="row"
+> `scope="row"`
 
 By simply adding this attribute, the text in that cell becomes associated with every cell in that row. While this technique dramatically improves the usability of a web page, using the scope attribute does not appear to interfere in any way with browsers that do not support the attribute.\
 *Example of source code* -- the following simple table summarizes the work schedule of three employees and demonstrates these principles.
 
-`<table>`  
-`<tr>`  
-`<th>&nbsp;</th>`  
-`<th scope="col" >Spring</th> <th scope="col" >Summer</th> <th scope="col" >Autumn</th> <th scope="col" >Winter</th> </tr>`  
-`<tr> <td scope="row" >Betty</td> <td>9-5</td> <td>10-6</td> <td>8-4</td><td>7-3</td`  
-`</tr>`  
-`<tr> <td scope="row" >Wilma</td> <td>10-6</td> <td>10-6</td> <td>9-5</td> <td>9-5</td>`  
-`</tr>`  
-`<tr> <td scope="row" >Fred</td> <td>10-6</td> <td>10-6</td> <td>10-6</td> <td>10-6</td>`  
-`</tr>`  
-`</table>`  
+> `<table>`  
+>> `<tr>`  
+>>> `<td> &nbsp; </td>`  
+>>> `<th scope="col" > Spring </th> <th scope="col"> Summer </th> <th scope="col"> Autumn </th> <th scope="col"> Winter </th>`  
+>> `</tr>`  
+>> `<tr> <td scope="row"> Betty </td>`  
+>>> `<td> 9-5 </td> <td> 10-6 </td> <td> 8-4 </td> <td> 7-3 </td>`  
+>> `</tr>`  
+>> `<tr> <td scope="row"> Wilma </td>`
+>>> `<td> 10-6 </td> <td> 10-6 </td> <td> 9-5 </td> <td> 9-5 </td>`  
+>> `</tr>`  
+>> `<tr> <td scope="row" > Fred </td>`  
+>>> `<td> 10-6 </td> <td> 10-6 </td> <td> 10-6 </td> <td> 10-6 </td>`  
+>> `</tr>`  
+> `</table>`  
 
 This table would be displayed as follows:
 
-|   | Spring | Summer | Autumn | Winter |
-| Betty | 9-5 | 10-6 | 8-4 | 7-3 |
-| Wilma | 10-6 | 10-6 | 9-5 | 9-5 |
-| Fred | 10-6 | 10-6 | 10-6 | 10-6 |
+<table>
+<tr>
+<td> &nbsp; </td>
+<th scope="col"> Spring </th> <th scope="col"> Summer </th> <th scope="col"> Autumn </th> <th scope="col"> Winter </th>
+</tr>
+<tr> <td scope="row"> Betty </td>
+<td> 9-5 </td> <td> 10-6 </td> <td> 8-4 </td><td> 7-3 </td>
+</tr>
+<tr> <td scope="row"> Wilma </td>
+<td> 10-6 </td> <td> 10-6 </td> <td> 9-5 </td> <td> 9-5 </td>
+</tr>
+<tr> <td scope="row"> Fred </td>
+<td> 10-6 </td> <td> 10-6 </td> <td> 10-6 </td> <td> 10-6 </td>
+</tr>
+</table>
 
 The efficiency of using the scope attribute becomes more apparent in much larger tables. For instance, if an agency used a table with 20 rows and 20 columns, there would be 400 data cells in the table. To make this table comply with this provision without using the scope attribute would require special coding in all 400 data cells, plus the 40 header and row cells. By contrast, using the scope attribute would only require special attributes in the 40 header and row cells.
 
@@ -212,79 +220,127 @@ Unlike using the "scope" attribute, using the "id" and "headers" attributes requ
 
 The following table is much more complicated than the previous example and demonstrates the use of the "id" and "headers" attributes and then the scope attribute. Both methods provide a means of complying with the requirements for data tables in web pages. The table in this example includes the work schedules for two employees. Each employee has a morning and afternoon work schedule that varies depending on whether the employee is working in the winter or summer months. The "summer" and "winter" columns each span two columns labeled "morning" and "afternoon." Therefore, in each cell identifying the work schedule, the user needs to be told the employee's name (Fred or Wilma), the season (Summer or Winter), and the shift (morning or afternoon).
 
-`<table>`  
-`<tr>`  
-`<th>&nbsp;</th>`  
-`<th colspan="2" id="winter" >Winter</th>`  
-`<th colspan="2" id="summer" >Summer</th>`  
-`</tr>`  
-`<tr>`  
-`<th>&nbsp;</th>`  
-`<th id="am1" >Morning</th>`  
-`<th id="pm1" >Afternoon</th>`  
-`<th id="am2" >Morning</th>`  
-`<th id="pm2" >Afternoon</th>`  
-`</tr>`  
-`<tr>`  
-`<td id="wilma" >Wilma</td>`  
-`<td headers="wilma am1 winter" >9-11</td>`  
-`<td headers="wilma pm1 winter" >12-6</td>`  
-`<td headers="wilma am2 summer" >7-11</td>`  
-`<td headers="wilma pm2 summer" >12-3</td>`  
-`</tr>`  
-`<tr>`  
-`<td id="fred" >Fred</td>`  
-`<td headers="fred am1 winter" >10-11</td>`  
-`<td headers="fred pm1 winter" >12-6</td>`  
-`<td headers="fred am2 summer" >9-11</td>`  
-`<td headers="fred pm2 summer" >12-5</td>`  
-`</tr>`  
-`</table>`  
+> `<table>`  
+>> `<tr>`  
+>>> `<th>&nbsp;</th>`  
+>>> `<th colspan="2" id="winter">Winter</th>`  
+>>> `<th colspan="2" id="summer">Summer</th>`  
+>> `</tr>`  
+>> `<tr>`  
+>>> `<th>&nbsp;</th>`  
+>>> `<th id="am1" >Morning</th>`  
+>>> `<th id="pm1" >Afternoon</th>`  
+>>> `<th id="am2" >Morning</th>`  
+>>> `<th id="pm2" >Afternoon</th>`  
+>> `</tr>`  
+>> `<tr>`  
+>>> `<td id="wilma" >Wilma</td>`  
+>>> `<td headers="wilma am1 winter">9-11</td>`  
+>>> `<td headers="wilma pm1 winter">12-6</td>`  
+>>> `<td headers="wilma am2 summer">7-11</td>`  
+>>> `<td headers="wilma pm2 summer">12-3</td>`  
+>> `</tr>`  
+>> `<tr>`  
+>>> `<td id="fred" >Fred</td>`  
+>>> `<td headers="fred am1 winter">10-11</td>`  
+>>> `<td headers="fred pm1 winter">12-6</td>`  
+>>> `<td headers="fred am2 summer">9-11</td>`  
+>>> `<td headers="fred pm2 summer">12-5</td>`  
+>> `</tr>`  
+> `</table>`  
 
 This table would be displayed as follows:
 
-|   | Winter | Summer |
-|   | Morning | Afternoon | Morning | Afternoon |
-| Wilma | 9-11 | 12-6 | 7-11 | 12-3 |
-| Fred | 10-11 | 12-6 | 9-11 | 12-5 |
+<table>
+<tr>
+<th>&nbsp;</th>
+<th colspan="2" id="winter" >Winter</th>
+<th colspan="2" id="summer" >Summer</th>
+</tr>
+<tr>
+<th>&nbsp;</th>
+<th id="am1">Morning</th>
+<th id="pm1">Afternoon</th>
+<th id="am2">Morning</th>
+<th id="pm2">Afternoon</th>
+</tr>
+<tr>
+<td id="wilma">Wilma</td>
+<td headers="wilma am1 winter">9-11</td>
+<td headers="wilma pm1 winter">12-6</td>
+<td headers="wilma am2 summer">7-11</td>
+<td headers="wilma pm2 summer">12-3</td>
+</tr>
+<tr>
+<td id="fred" >Fred</td>
+<td headers="fred am1 winter">10-11</td>
+<td headers="fred pm1 winter">12-6</td>
+<td headers="fred am2 summer">9-11</td>
+<td headers="fred pm2 summer">12-5</td>
+</tr>
+</table>
 
 Coding each cell of this table with "id" and "headers" attributes is much more complicated than using the "scope" attribute shown below:
 
-`<table>` 
-`<tr>`  
-`<th>&nbsp;</th>`  
-`<th colspan="2" scope="col" >Winter</th>`  
-`<th colspan="2" scope="col" >Summer</th>`  
-`</tr>`  
-`<tr>`  
-`<th>&nbsp;</th>`  
-`<th scope="col" >Morning</th>`  
-`<th scope="col" >Afternoon</th>`  
-`<th scope="col" >Morning</th>`  
-`<th scope="col" >Afternoon</th>`  
-`</tr>`  
-`<tr>`  
-`<td scope="row" >Wilma</td>`  
-`<td>9-11</td>`  
-`<td>12-6</td>`  
-`<td>7-11</td>`  
-`<td>12-3</td>`  
-`</tr>`  
-`<tr>`  
-`<td scope="row" >Fred</td>`  
-`<td>10-11</td>`  
-`<td>12-6</td>`  
-`<td>9-11</td>`  
-`<td>12-5</td>`  
-`</tr>`  
-`</table>`  
+> `<table>`  
+>> `<tr>`  
+>>> `<td>&nbsp;</td>`  
+>>> `<th colspan="2" scope="col"> Winter </th>`  
+>>> `<th colspan="2" scope="col"> Summer </th>`  
+>> `</tr>`  
+>> `<tr>`  
+>>> `<td>&nbsp;</td>`  
+>>> `<th scope="col"> Morning </th>`  
+>>> `<th scope="col"> Afternoon </th>`  
+>>> `<th scope="col"> Morning </th>`  
+>>> `<th scope="col"> Afternoon </th>`  
+>> `</tr>`  
+>> `<tr>`  
+>>> `<td scope="row"> Wilma </td>`  
+>>> `<td>9-11</td>`  
+>>> `<td>12-6</td>`  
+>>> `<td>7-11</td>`  
+>>> `<td>12-3</td>`  
+>> `</tr>`  
+>> `<tr>`  
+>>> `<td scope="row"> Fred </td>`  
+>>> `<td>10-11</td>`  
+>>> `<td>12-6</td>`  
+>>> `<td>9-11</td>`  
+>>> `<td>12-5</td>`  
+>> `</tr>`  
+> `</table>`  
 
 This table would be displayed as follows:
 
-|   | Winter | Summer |
-|   | Morning | Afternoon | Morning | Afternoon |
-| Wilma | 9-11 | 12-6 | 7-11 | 12-3 |
-| Fred | 10-11 | 12-6 | 9-11 | 12-5 |
+<table>
+<tr>
+<td>&nbsp;</td>
+<th colspan="2" scope="col" >Winter</th>
+<th colspan="2" scope="col" >Summer</th>
+</tr>
+<tr>
+<td>&nbsp;</td>
+<th scope="col" >Morning</th>
+<th scope="col" >Afternoon</th>
+<th scope="col" >Morning</th>
+<th scope="col" >Afternoon</th>
+</tr>
+<tr>
+<td scope="row" >Wilma</td>
+<td>9-11</td>
+<td>12-6</td>
+<td>7-11</td>
+<td>12-3</td>
+</tr>
+<tr>
+<td scope="row" >Fred</td>
+<td>10-11</td>
+<td>12-6</td>
+<td>9-11</td>
+<td>12-5</td>
+</tr>
+</table>
 
 *Is the summary attribute an option?*
 
@@ -302,15 +358,15 @@ Frames provide a means of visually dividing the computer screen into distinct ar
 
 The most obvious way to accomplish this requirement is to include text within the body of each frame that clearly identifies the frame. For instance, in the case of the navigation bar, a web developer should consider putting words such as "Navigational Links" at the beginning of the contents of the frame to let all users know that the frame depicts navigational links. Providing titles like this at the top of the contents of each frame will satisfy these requirements. An additional measure that should be considered by agencies is to include meaningful text in the `<frame>` tag's "title" attribute. Although not currently supported by major manufacturers of assistive technology, the "title" attribute is part of the HTML 4.0 specification and was intended to let web developers include a description of the frame as a quote-enclosed string. Demonstrating the use of the "title" attribute requires a basic understanding of how frames are constructed. When frames are used in a web page, the first page that is loaded must include a `<frameset>`  tag that encloses the basic layout of the frames on the page. Within the `<frameset>` tag, `<frame>` tags specify the name, initial contents, and appearance of each separate frame. Thus, the following example uses the "title" attribute to label one frame "Navigational Links Frame" and the second frame "Contents Frame."
 
-`<frameset cols="30%, 60%">`  
-`<frame src="/navlinks.html" name="navlinks" title="Navigational Links Frame">`  
-`<frame src="/geninfo.html" name="contents_page" title="Contents Frame">`  
-`</frame>`  
+> `<frameset cols="30%, 60%">`  
+> `<frame src="/navlinks.html" name="navlinks" title="Navigational Links Frame">`  
+> `<frame src="/geninfo.html" name="contents_page" title="Contents Frame">`  
+> `</frame>`  
 
 While assistive technology does not yet widely support the "title" attribute, we recommend including this attribute in web pages using frames.
 
-Example: ADA Technical Assistance Program - The use of frames with "No Frames Link"\
-[www.adata.org](http://www.adata.org/)
+Example: ADA Technical Assistance Program - The use of frames with "No Frames Link"  
+<http://www.adata.org>
 
 ![A screen print the Americans with Disabilities Act Home Page](./images/frames.jpg)
 
@@ -348,26 +404,25 @@ Web page authors have a responsibility to provide script information in a fashio
 
 Web developers working with JavaScript frequently use so-called JavaScript URL's as an easy way to invoke JavaScript functions. Typically, this technique is used as part of `<a>` anchor links. For instance, the following link invokes a JavaScript function called myFunction:
 
-`<a href="javascript:myFunction();">Start myFunction</a>`
+> `<a href="javascript:myFunction();">Start myFunction</a>`
 
 This technique does not cause accessibility problems for assistive technology. A more difficult problem occurs when developers use images inside of JavaScript URL's without providing meaningful information about the image or the effect of the anchor link. For instance, the following link also invokes the JavaScript function myFunction, but requires the user to click on an image instead of the text "Start myFunction":
 
-`<a href="javascript:myFunction();"><img src="/myFunction.gif"></a>`
+> `<a href="javascript:myFunction();"><img src="/myFunction.gif"></a>`
 
 This type of link, as written, presents tremendous accessibility problems, but those problems can easily be remedied. The `<img>` tag, of course, supports the "alt" attribute that can also be used to describe the image and the effect of clicking on the link. Thus, the following revision remedies the accessibility problems created in the previous example:
 
-`<a href="javascript:myFunction();"><img src="/myFunction.gif" alt="picture link for starting myFunction"></a>`
+> `<a href="javascript:myFunction();"><img src="/myFunction.gif" alt="picture link for starting myFunction"></a>`
 
 Another technique advocated by some developers is to use the "title" attribute of the `<a>` tag. For instance, the following example includes a meaningful description in a "title" attribute:
 
-`<a title="this link starts myFunction" href="javascript:myFunction();"><img src="/myFunction.gif"></a>`
+> `<a title="this link starts myFunction" href="javascript:myFunction();"><img src="/myFunction.gif"></a>`
 
 This tag is supported by some but not all assistive technologies. Therefore, while it is part of the HTML 4.0 specifications, authors should use the "alt" tag in the enclosed image.
 
 Finally, the browser's status line (at the bottom of the screen) typically displays the URL of any links that the mouse is currently pointing towards. For instance, if clicking on an anchor link will send the user to [http://www.usdoj.gov](http://www.usdoj.gov/), that URL will be displayed in the status line if the user's mouse lingers on top of the anchor link. In the case of JavaScript URL's, the status line can become filled with meaningless snips of script. To prevent this effect, some web developers use special "event handlers" such as onmouseover and onmouseout to overwrite the contents of the status line with a custom message. For instance, the following link will replace the content in the status line with a custom message "Nice Choice".
 
-`<a href="javascript:myFcn();" onmouseover="status='Nice Choice'; return true;" onmouseout="status='';"><img src="/pix.gif"></a>`
-
+> `<a href="javascript:myFcn();" onmouseover="status='Nice Choice'; return true;" onmouseout="status='';"><img src="/pix.gif"></a>`
 
 This text rewritten into the status line is difficult or impossible to detect with a screen reader. Although rewriting the status line did not interfere with the accessibility or inaccessibility of the JavaScript URL, web developers should ensure that all important information conveyed in the status line also be provided through the "alt" attribute, as described above.
 
@@ -386,185 +441,114 @@ Web developers must exercise some caution when deciding which event handlers to 
 -   onLoad and onUnload -- Both of these event handlers are used frequently to perform certain functions when a web page has either completed loading or when it unloads. Because neither event handler is triggered by any user interaction with an element on the page, they do not present accessibility problems.  
 
 -   onChange -- This event handler is very commonly used for triggering JavaScript functions based on a selection from within a `<select>` tag. Surprisingly, it presents tremendous accessibility problems for many commonly used screen readers and should be avoided. Instead, web developers should use the onClick event handler (associated with a link or button that is adjacent to a `<select>` tag) to accomplish the same functions.  
-  
-  
-  
+
 -   onBlur and onFocus -- These event handlers are not commonly used in web pages. While they don't necessarily present accessibility problems, their behavior is confusing enough to a web page visitor that they should be avoided.  
 
-
 * * * * *  
-
 
 (m) When a web page requires that an applet, plug-in or other application be present on the client system to interpret page content, the page must provide a link to a plug-in or applet that complies with §1194.21(a) through (l).  
 
-
 *Why is this provision necessary?*  
-
 
 While most web browsers can easily read HTML and display it to the user, several private companies have developed proprietary file formats for transmitting and displaying special content, such as multimedia or very precisely defined documents. Because these file formats are proprietary, web browsers cannot ordinarily display them. To make it possible for these files to be viewed by web browsers, add-on programs or "plug-ins" can be downloaded and installed on the user's computer that will make it possible for their web browsers to display or play the content of the files. This provision requires that web pages that provide content such as Real Audio or PDF (Adobe Acrobat's Portable Document Format) files also provide a link to a plug-in that will meet the software provisions. It is very common for a web page to provide links to needed plug-ins. For example, web pages containing Real Audio almost always have a link to a source for the necessary player. This provision places a responsibility on the web page author to know that a compliant application exists, before requiring a plug-in.  
 
-
 *How can plug-ins and applets be detected?*  
-
 
 Plug-ins can usually be detected by examining a page's HTML for the presence of an `<OBJECT>`  tag. Some plug-in manufacturers, however, may require the use of proprietary tags. Like plug-ins, applets can also be identified by the presence of an `<OBJECT>` tag in the HTML source for a web page. Also, an `<APPLET>` tag may also signal the inclusion of an applet in a web page.  
 
-
 * * * * *  
-
 
 (n) When electronic forms are designed to be completed on-line, the form shall allow people using assistive technology to access the information, field elements, and functionality required for completion and submission of the form, including all directions and cues.  
 
-
 *Why do electronic forms present difficulties to screen readers?*  
-
 
 Currently, the interaction between form controls and screen readers can be unpredictable, depending upon the design of the page containing these controls. HTML forms pose accessibility problems when web developers separate a form element from its associated label or title. For instance, if an input box is intended for receiving a user's last name, the web developer must be careful that the words "last name" (or some similar text) appear near that input box or are somehow associated with it. Although this may seem like an obvious requirement, it is extremely easy to violate because the visual proximity of a form element and its title offers no guarantee that a screen reader will associate the two or that this association will be obvious to a user of assistive technology.  
 
-
 The following form demonstrates these problems. Visually, this form is part of a table and each field is carefully placed in table cells adjacent to their corresponding labels (n.b. formatting forms with tables are by no means the only situation presenting the accessibility problems inherent in forms; tables merely illustrate the problem most clearly).  
-
 
 While the relationship between the titles "First Name" or "Last Name" and their respective input boxes may be obvious from visual inspection, the relationship is not obvious to a screen reader. Instead, a screen reader may simply announce "input box" when encountering each input box. The reason for these difficulties is revealed from inspecting the HTML source for this table. The following code is a simplified version of this table.  
 
-
-
-`<FORM>`     
-`<TABLE>`    
-`<TR>`    
-`<TD><B>FIRST NAME: </B></TD>`    
-`<TD><INPUT TYPE="TEXT" NAME="FIRSTNAME"> </TD>`    
-`</TR>`    
-`<TR>`    
-`<TD><B>LAST NAME: </B></TD>`    
-`<TD><INPUT TYPE="TEXT" NAME="LASTNAME"> </TD>`    
-`</TR>`    
-`</TABLE>`    
-`<P>`    
-`<INPUT TYPE="SUBMIT" VALUE="SUBMIT">`    
-`</FORM>`    
-
-
-
+> `<FORM>`  
+>> `<TABLE>`  
+>>> `<TR>`  
+>>>> `<TH scope="row"> FIRST NAME: </TH>`  
+>>>> `<TD> <INPUT TYPE="TEXT" NAME="FIRSTNAME"> </TD>`  
+>>> `</TR>`  
+>>> `<TR>`  
+>>>> `<TH scope="row"> LAST NAME: </TH>`  
+>>>> `<TD> <INPUT TYPE="TEXT" NAME="LASTNAME"> </TD>`  
+>>> `</TR>`  
+>> `</TABLE>`  
+>> `<P>`  
+>>> `<INPUT TYPE="SUBMIT" VALUE="SUBMIT"> </P>`  
+> `</FORM>`    
 
 The two pairs of form elements are indicated in bold above. The problem created by laying out form elements inside of this table is now clear -- the form elements are separated from their labels by the formatting instructions for the table.  
 
-
-
 *How can developers provide accessible HTML forms?*  
-
-
 
 The first rule of thumb is to place labels adjacent to input fields, not in separate cells of a table. For the web developer who does not wish to place form elements immediately adjacent to their corresponding titles, the HTML 4.0 specification includes the `<LABEL>` tag that lets web developers mark specific elements as "labels" and then associate a form element with that label. There are generally two ways to use the label tag: explicit labels and implicit labels.  
 
+"Explicit Labels" Work Well
 
-
-"Explicit Labels" Work Well\  
 Experience has shown that explicit labeling works extremely well with all popular assistive technology and are recommended in all but the very simplest of tables. We recommend that all agencies ensure that their web developers are familiar with these important concepts. Using "explicit" labels involves two distinct steps:  
-
-
 
 -   Use the `<LABEL>` Tag and Associated "FOR" Attribute to Tag Labels. In other words, identify the exact words that you want to use as the label for the form element and enclose those words in a `<LABEL>` tag. Use the "FOR" attribute to uniquely identify that element.  
 
-
 -   Use the "ID" Attribute in the Associated Form Element. Every form element supports the "ID" attribute. By setting this attribute to the identifier used in the "FOR" attribute of the associated `<LABEL>` tag, you "tie" that form element to its associated label. For instance, we have rewritten the HTML code for our simple form-inside-a-table to include explicit labels below. The new HTML code for the explicit labels is indicated in bold:  
 
-
- 
-`<FORM>`    
-`<TABLE>`   
-`<TR>`    
-`<TD><B><LABEL FOR="first"> FIRST NAME:</LABEL> </B></TD>`    
-`<TD><INPUT TYPE="TEXT" NAME="FIRSTNAME" ID="first" ></TD>`    
-`</TR>`    
-`<TR>`    
-`<TD><B><LABEL FOR="last"> LAST NAME:</LABEL> </B></TD>`    
-`<TD><INPUT TYPE="TEXT" NAME="LASTNAME" ID="last" ></TD>`    
-`</TR>`    
-`</TABLE>`    
-`<P>`  
-`<INPUT TYPE="SUBMIT" VALUE="SUBMIT">`    
-`</FORM>`    
-
-
+> `<FORM>`  
+>> `<TABLE>`  
+>>> `<TR>`  
+>>>> `<TH scope="row"> <LABEL FOR="first">FIRST NAME:</LABEL> </TH>`  
+>>>> `<TD> <INPUT TYPE="TEXT" NAME="FIRSTNAME" ID="first"> </TD>`  
+>>> `</TR>`  
+>>> `<TR>`  
+>>>> `<TH scope="row"> <LABEL FOR="last"> LAST NAME: </LABEL> </TH>`  
+>>>> `<TD> <INPUT TYPE="TEXT" NAME="LASTNAME" ID="last" > </TD>`  
+>>> `</TR>`  
+>> `</TABLE>`  
+>> `<P>'  
+>>> `<INPUT TYPE="SUBMIT" VALUE="SUBMIT"> </P>`  
+> `</FORM>`    
 
 In a nutshell, that's all there is to making HTML form elements accessible to assistive technology. Experience has shown that this technique works extremely well in much more complicated and convoluted forms and it should work well in all agency HTML forms.  
 
+Avoid Using "Implicit Labels"
 
-
-Avoid Using "Implicit Labels"\  
 In "implicit" labels, the form element and its associated label are contained within an opening `<LABEL>` tag and a closing `</LABEL>` tag. For instance, in the table above, an implicit label to associate the words "First Name" with its associated input cell, we could use an implicit label as follows:  
 
-
-
-`<LABEL >`    
-`<TR>`    
-`<TD><B>FIRST NAME:</B></TD>`    
-`<TD><INPUT TYPE="TEXT" NAME="FIRSTNAME"></TD>`    
-`</TR>'    
-`</LABEL >`    
-
-
+> `<LABEL>`  
+>> `FIRST NAME: <INPUT TYPE="TEXT" NAME="FIRSTNAME">`  
+> `</LABEL >`  
 
 Experience has shown that implicit labeling should be avoided for two reasons. First, implicit labeling is not reliably supported by many screen readers and, in particular, does not work well if explicit labels are simultaneously used anywhere on the same web page. Often, the output can be wildly inaccurate and confusing. Second, if any text separates a label from its associated form element, an implicit label becomes impractical and confusing because the label itself is no longer easily identified with the form element.  
 
-
-
 * * * * *  
-
-
 
 (o) A method shall be provided that permits users to skip repetitive navigation links.  
 
-
-
 *Why do navigational links present impediments to screen readers and other types of assistive technologies?*  
-
-
 
 This provision provides a method to facilitate the easy tracking of page content that provides users of assistive technology the option to skip repetitive navigation links. Web developers routinely place a host of routine navigational links at a standard location -- often across the top, bottom, or side of a page. If a nondisabled user returns to a web page and knows that he or she wants to view the contents of that particular page instead of selecting a navigation link to go to another page, he or she may simply look past the links and begin reading wherever the desired text is located. For those who use screen readers or other types of assistive technologies, however, it can be a tedious and time-consuming chore to wait for the assistive technology to work through and announce each of the standard navigational links before getting to the intended location. In order to alleviate this problem, the section 508 rule requires that when repetitive navigational links are used, there must be a mechanism for users to skip repetitive navigational links.  
 
-
-
 Example: USDA Target Center and DOL websites use the Skip Repetitive Navigational Links.  
-
-
 
 <http://www.usda.gov/oo/target.htm>  
 
-
-
 ![A screen print of the US Department of Agriculture TARGET Center Home page.](./images/skip.jpg)  
-
-
 
 <http://www.dol.gov/dol/odep/>  
 
-
-
 ![A screen print of the US Department of Labor Office of Disability Employment Policy Home page.](./images/skip2.jpg)  
-
-
 
 * * * * *  
 
-
-
 (p) When a timed response is required, the user shall be alerted and given sufficient time to indicate more time is required.  
-
-
 
 *Why do timed responses present problems to web users with disabilities?*  
 
-
-
 Web pages can be designed with scripts so that the web page disappears or "expires" if a response is not received within a specified amount of time. Sometimes, this technique is used for security reasons or to reduce the demands on the computer serving the web pages. Someone's disability can have a direct impact on the speed with which he or she can read, move around, or fill in a web form. For instance, someone with extremely low vision may be a slower-than-average reader. A page may "time out" before he is able to finish reading it. Many forms, when they "time out" automatically, also delete whatever data has been entered. The result is that someone with a disability who is slow to enter data cannot complete the form. For this reason, when a timed response is required, the user shall be alerted via a prompt and given sufficient time to indicate whether additional time is needed.  
 
-
-
-Example: Thrift Savings Plan\  
-
-
-[www.tsp.gov](http://www.tsp.gov/)Web-based Intranet and Internet Information and Applications (1194.22)  
-
-----------------------------------------------------------------------  
+Example: Thrift Savings Plan  
+<http://www.tsp.gov>
