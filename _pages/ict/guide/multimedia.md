@@ -55,7 +55,10 @@ Video and multimedia products that "support the agency's mission"are generally r
 
 Raw videotaped footage recorded by a field investigator to document a safety violation could be considered a film "in support of an agency's mission". However, it is not a "production" and therefore does not need to be captioned or audio described. On the other hand, if such footage were subsequently incorporated into agency training or an informational presentation, it would have to be captioned and audio described.
 
-![Monitor with audio description that describes the image on screen: "Blue sky and sun shining on a field of yellow flowers ..."](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/tv-audio.jpg)***When are captioning and audio descriptions required?***\
+***When are captioning and audio descriptions required?***
+
+![Monitor with audio description that describes the image on screen: "Blue sky and sun shining on a field of yellow flowers ..."](./images/tv-audio.jpg)
+
 Captioning and audio descriptions are only required to be provided when important to understand the audio or visual components of a video or multimedia production. That is, even if a production "supports the agency's mission," only those audio portions that are necessary for the comprehension of the production's content need to be captioned.
 
 > Ex: A videotaped lecture would need to capture the lecturer's words in captions if it is intended to be used for future training, but the captions need not also relate that students' chairs were squeaking or that the door at the back of the room was closing loudly as people exited.

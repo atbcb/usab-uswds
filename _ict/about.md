@@ -4,7 +4,7 @@ permalink: /ict/about.html
 version: original
 redirect_from:
     - /508/
--   - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/
+    - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/
     - /guidelines-and-standards/communications-and-it/about-the-section-508-standards/
  --
 
