@@ -4,7 +4,7 @@ order-number: 6
 file: /files/ada/guides/operable-parts.pdf
 file-description: PDF version of Chapter 3 Operable Parts Guide
 redirect_from: 
-    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-3-operable-parts
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-3-operable-parts/
 ---
 This guide explains requirements in the [ADA
 Standards]({{ site.baseurl }}/ada/) for operable parts.
