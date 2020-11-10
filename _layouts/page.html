@@ -17,7 +17,9 @@ toc: file name of toc, or null for no left side table of contents
   <div class="grid-container maxw-desktop">
     <div class="grid-row grid-gap">
       {% if page.toc %}
-      {% include {{ page.toc }} %}
+        {% if page.toc != "" %}
+          {% include {{ page.toc }} %}
+        {% endif %}
       {% endif %}
       <main id="main-content"class="usa-layout-docs__main desktop:grid-col-9 usa-prose">
         <div id="content" class="margin-y-2">
