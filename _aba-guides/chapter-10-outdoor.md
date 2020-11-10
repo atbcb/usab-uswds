@@ -3,6 +3,9 @@ title: "Chapter 10: Outdoor Developed Areas"
 order-number: 1012
 file: /files/aba/guides/outdoor-guide.pdf
 file-description: PDF version of Chapter 10 Outdoor Developed Areas Guide
+redirect_from: 
+    - /guidelines-and-standards/recreation-facilities/outdoor-developed-areas/
+    - /guidelines-and-standards/recreation-facilities/outdoor-developed-areas/a-summary-of-accessibility-standards-for-federal-outdoor-developed-areas/
 ---
 ### Introduction
 
