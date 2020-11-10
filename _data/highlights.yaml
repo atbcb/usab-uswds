@@ -3,8 +3,8 @@
   image-file: highlights/building-square.jpg
   alt: "photo of bulding"
   link:  /buildings.html
-- title: "Communication &amp; IT"
-  description: "Standards issued under the Rehabilitation Act (§508) and the Communications Act."
+- title: "Information &amp; Communication Technology"
+  description: "ICT Accessibilty Standards issued under Section 508 of theRehabilitation Act and Section 255 of the Communications Act."
   image-file: highlights/ict-square.jpg
   alt: "photo of braille keyboard"
   link: /ict.html
