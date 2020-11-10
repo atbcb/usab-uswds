@@ -1,5 +1,6 @@
 ---
 title: Subpart B-Buses, Vans and Systems
+toc-group: ada-vehicles
 order-number: 2.1
 ---
 

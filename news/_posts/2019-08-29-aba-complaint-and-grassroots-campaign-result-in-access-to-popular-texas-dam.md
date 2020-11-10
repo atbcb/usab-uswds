@@ -8,8 +8,8 @@ excerpt: >-
   Guadalupe River, Canyon lake and surrounding parkland is a favorite site for
   swimming, boating, fishing, as well as camping and hiking. A prized feature is
   a service road atop the dam that is also enjoyed by many in the area as a
-  scenic walkway. The Board opened an investigation with the U.S. Army Corps of
-  Engineers and found . . .
+  scenic walkway. The Board opened an investigation with . . .
+image: /images/uploads/canyon-dam1.jpg
 tags:
   - enforcement
   - ABA
@@ -17,7 +17,7 @@ featured: false
 ---
 Canyon Lake is a popular recreation destination in the Hill Country of Texas located between San Antonio and Austin. Created by construction of the Canyon Dam on the Guadalupe River, the lake and surrounding parkland is a favorite site for swimming, boating, fishing, as well as camping and hiking. A prized feature is a service road atop the dam which, although used for dam maintenance, is also enjoyed by many in the area as a scenic walkway because of the lakeside vistas it offers.
 
-In 2017, the Access Board received a complaint about the accessibility of the Canyon Dam’s service road. The complaint was filed under the [Architectural Barriers Act (ABA)]({{ site.baseurl }}/laws/aba.html) which requires access to facilities funded by the federal government. The Board is responsible for enforcing the ABA through the investigation of complaints. The complaint alleged that security fencing at the dam made the road inaccessible because pedestrian gates lacked adequate clearance for wheelchair access. In response, the Board opened an investigation with the U.S. Army Corps of Engineers, which controls the dam and park areas around the lake. The Board found that the ABA applied to the site and that the pedestrian gates did not meet the applicable accessibility standard.
+In 2017, the Access Board received a complaint about the accessibility of the Canyon Dam’s service road. The complaint was filed under the [Architectural Barriers Act (ABA)]({{ site.baseurl }}/law/aba.html) which requires access to facilities funded by the federal government. The Board is responsible for enforcing the ABA through the investigation of complaints. The complaint alleged that security fencing at the dam made the road inaccessible because pedestrian gates lacked adequate clearance for wheelchair access. In response, the Board opened an investigation with the U.S. Army Corps of Engineers, which controls the dam and park areas around the lake. The Board found that the ABA applied to the site and that the pedestrian gates did not meet the applicable accessibility standard.
 
 The Army Corps of Engineers acknowledged that the pedestrian gates were too narrow for many wheeled mobility devices. They were designed to prevent passage of motorized devices as a security precaution following 9/11. The Corps argued that the service road was not intended as a recreational trail and that public access was permitted as a courtesy to the community. It closed the road to the public and stated that the narrow gates also were intended to prevent wheelchair traffic on the road which lacked barriers or edge protection. The closure sparked a strong outcry from local residents who launched the [Dam Community Alliance](https://mycanyonlake.com/crownover-forms-dam-alliance/) as a grassroots campaign to reopen the road to the public. Led by Comal County Commissioner Jen Crownover and composed largely of private citizens, the Alliance lobbied the Corps to reverse its decision.
 

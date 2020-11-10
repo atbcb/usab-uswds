@@ -3,6 +3,8 @@ title: "Chapter 3: Protruding objects"
 order-number: 7
 file: /files/ada/guides/protruding-objects.pdf
 file-description: PDF version of Chapter 3 Protruding Objects Guide
+redirect_from: 
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-3-protruding-objects/
 ---
 This guide explains requirements in the [ADA
 Standards]({{ site.baseurl }}/ada/)

@@ -1,6 +1,6 @@
 ---
 title: "About the ABA"
-permalink: /aba/
+permalink: /aba/about.html
 toc-group: aba-standards
 order-number: 1
 version: new
@@ -20,15 +20,19 @@ This edition of the ABA Accessibility Standards has been adopted by GSA, DOD, an
 -   [DOD policy memorandum](https://federalist-e3fba26d-2806-4f02-bf0e-89c97cfba93c.app.cloud.gov/site/atbcb/usab-uswds/aba/index.php?option=com_content&view=article&id=263&Itemid=1548)
 -   [USPS notice](http://www.gpo.gov/fdsys/pkg/FR-2005-05-17/html/05-9745.htm)
 
-HUD has not yet adopted this version of the standards and continues to apply the [Uniform Federal Accessibility Standards (UFAS)]({{ site.baseurl }}/ufas.html) to residential facilities under its jurisdiction.
+HUD has not yet adopted this version of the standards and continues to apply the [Uniform Federal Accessibility Standards (UFAS)](/aba/ufas.html) to residential facilities under its jurisdiction.
 
 The Access Board provides technical assistance and training on the ABA Standards and UFAS.  It also enforces the ABA Standards through the investigation of complaints.
+
+
+---
+
 
 ### Background
 
 - August 4, 1982 -- The Board publishes the minimum guidelines under the ABA. 
 
-- August 7, 1984 -- The ABA standard-setting agencies jointly adopt the [Uniform Federal Accessibility Standards (UFAS)]({{ site.baseurl }}/ufas.html).
+- August 7, 1984 -- The ABA standard-setting agencies jointly adopt the [Uniform Federal Accessibility Standards (UFAS)](/aba/ufas.html).
 
 - November 16, 1999 -- The Board jointly proposed [updates](https://www.federalregister.gov/documents/1999/11/16/99-29250/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities) to the ABA Accessibility Guidelines and the Americans with Disabilities Act (ADA) Accessibility Guidelines for public comment.
 
@@ -47,12 +51,18 @@ The Access Board provides technical assistance and training on the ABA Standards
 - September 26, 2014 -- The Board issues a [correction](https://www.regulations.gov/document?D=ATBCB-2012-0004-0041) to final guidelines for emergency transportable housing.
 
 
-### Technical Assistance
 
-Contact the Access Board for guidance on these standards:
+---
 
-800-872-2253 (v)
 
-800-993-2822 (TTY)
+## Guide to the ABA Standards
+The US Access Board has developed guides to the ABA Standards.
 
-[ta@access-board.gov](mailto:ta@access-board.gov)
+
+<div class="grid-container margin-y-3 text-center">
+    <a class="usa-button usa-button--big margin-x-auto" href="{{ site.baseurl }}/aba/guides/">View ABA Guides</a>
+</div>
+
+
+---
+

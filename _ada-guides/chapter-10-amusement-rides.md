@@ -3,6 +3,8 @@ title: "Chapter 10: Amusement Rides"
 order-number: 1002
 file: /files/ada/guides/amusement.pdf
 file-description: PDF version of Accessible Amusement Rides
+redirect_from: 
+    - /guidelines-and-standards/recreation-facilities/guides/guide-on-amusement-rides/
 ---
 <div class="clearfix" markdown="1">
 ![roller

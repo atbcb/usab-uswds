@@ -3,6 +3,8 @@ title: "Chapter 3: Floor and Ground Surfaces"
 order-number: 4
 file: /files/ada/guides/surfaces.pdf
 file-description: PDF version of Chapter 3 Floor and Ground Surfaces Guide
+redirect_from: 
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-3-floor-and-ground-surfaces/
 ---
 This guide explains requirements in the [ADA
 Standards]({{ site.baseurl }}/ada/) for floor and ground

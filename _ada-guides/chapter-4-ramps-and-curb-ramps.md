@@ -3,6 +3,8 @@ title: "Chapter 4: Ramps and Curb Ramps"
 order-number: 10
 file: /files/ada/guides/ramps.pdf
 file-description: PDF version of Chapter 4 Ramps and Curb Ramps Guide
+redirect_from: 
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-4-ramps-and-curb-ramps/
 ---
 This guide explains requirements in the [ADA
 Standards]({{ site.baseurl }}/ada/) for ramps and curb ramps.

@@ -10,7 +10,7 @@ This is a universal layout that will create the page based on what front matter 
 
 toc: 
   This is where you can specify what type of table of contents you want. If TOC is null, no table of contents is created and the page with is reduced to desktop instead of wide. TOC options include:
-  toc-auto.html
+  /toc/auto.html
   sidenav.html
   toc-data.html
    and anything else you create input in the _includes folder
@@ -36,14 +36,14 @@ toc-group:
           {% if page.file %}
           <div class="clearfix">
               <span class="float-right">
-              <a href="{{ site.baseurl }}{{ page.file }}" target="_blank" rel="noreferrer">
-              <button title="{{ page.file-description }}" class="usa-button">PDF</button>
+              <a title="{{ page.file-description }}" href="{{ site.baseurl }}{{ page.file }}" target="_blank" rel="noreferrer">
+              <button class="usa-button">PDF</button>
               </a>
               </span>
           </div>
           {% endif %}
   
-          <div id="{% if page.toc == 'toc-auto.html' %}toc-source-content{% endif %}">{{ content }}</div>
+          <div id="{% if page.toc == '/toc/auto.html' %}toc-source-content{% endif %}">{{ content }}</div>
   
           {% include back-to-top.html %}
   

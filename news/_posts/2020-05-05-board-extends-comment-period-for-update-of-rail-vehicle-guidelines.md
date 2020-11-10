@@ -3,8 +3,7 @@ layout: post
 title: Board Extends Comment Period for Update of Rail Vehicle Guidelines
 date: 'May 05, 2020'
 excerpt: >-
-  The Access Board has extended the ANPRM comment period for Rail Vehicle
-  Guidelines from . . . 
+  The Board has extended the comment period another two months to allow additional time for interested parties to submit feedback, as indicated in . . . 
 image: ''
 image_alt_text: ''
 authors:

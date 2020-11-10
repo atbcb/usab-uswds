@@ -3,6 +3,8 @@ title: "Chapter 3: Clear Floor or Ground Space and Turning Space"
 order-number: 5
 file: /files/ada/guides/clear-floor-space.pdf
 file-description: PDF version of Chapter 3 Clear Floor Space Guide
+redirect_from: 
+    - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-3-clear-floor-or-ground-space-and-turning-space/
 ---
 This guide explains requirements in the [ADA
 Standards]({{ site.baseurl }}/ada/) for clear floor or ground space and

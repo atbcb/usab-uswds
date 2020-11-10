@@ -1,8 +1,11 @@
 ---
 title: "Chapter 10: Swimming Pools, Wading Pools, and Spas"
-order-number: 1009
+order-number: 1010
 file: /files/ada/guides/pools.pdf
 file-description: PDF version of Accessible Swimming Pools and Spas
+redirect_from: 
+    - /guidelines-and-standards/recreation-facilities/guides/swimming-pools-wading-pools-and-spas/
+    - /guidelines-and-standards/recreation-facilities/guides/swimming-pools,-wading-pools,-and-spas/
 ---
 <div class="clearfix" markdown="1">
 ![photo of individual entering pool using sloped entry ramp]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/poolramp-male.jpg){: .float-right}

@@ -2,13 +2,24 @@
 title: "About"
 order-number: 0
 permalink: /prowag/
-version: improved
+file: /files/prowag/PROW-SUP-SNPRM-2013.pdf
+redirect_from:
+    - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/
+    - /guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/
+    - /guidelines-and-standards/streets-sidewalks/shared-use-paths/about-this-rulemaking/
+    - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/
 ---
 ### About the ADA and ABA Accessibility Guidelines for the Public Rights-of-Way
+
+{% asset stock/cane.jpg class="img-right shadow radius-lg" alt="cane trailing detectable surface"%}
 
 The Access Board is developing new guidelines under the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA) that will address access to sidewalks and streets, crosswalks, curb ramps, pedestrian signals, on-street parking, and other components of public rights-of-way.  These guidelines also review shared use paths, which are designed primarily for use by bicyclists and pedestrians for transportation and recreation purposes. 
 
 The Access Board issued proposed guidelines for public comment.  The Board is in the process of finalizing these guidelines.    
+
+
+---
+
 
 ### Background
 
