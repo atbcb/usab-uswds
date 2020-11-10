@@ -5,9 +5,10 @@ permalink: /prowag/
 file: /files/prowag/PROW-SUP-SNPRM-2013.pdf
 redirect_from:
     - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/
+    - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/
+    - /guidelines-and-standards/streets-sidewalks/shared-use-paths/
     - /guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/
     - /guidelines-and-standards/streets-sidewalks/shared-use-paths/about-this-rulemaking/
-    - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/
 ---
 ### About the ADA and ABA Accessibility Guidelines for the Public Rights-of-Way
 
