@@ -8,8 +8,6 @@ excerpt: >-
   provide its services to the public . . .
 image: ''
 image_alt_text: ''
-authors:
-  - david-capozzi
 featured: false
 ---
 
