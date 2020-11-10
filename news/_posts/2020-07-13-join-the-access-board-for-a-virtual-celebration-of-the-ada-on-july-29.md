@@ -12,8 +12,6 @@ excerpt: >-
   movement. This virtual meeting is open to . . .
 image: /images/uploads/ada-30.png
 image_alt_text: 'Celebrating 30 years of the ADA 1990-2020, Pres. Bush signing the ADA'
-authors:
-  - dave-yanchulis
 tags:
   - events
   - ADA
