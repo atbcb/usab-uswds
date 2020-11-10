@@ -5,7 +5,7 @@ sidenav: false
 permalink: /healthcare.html
 ---
 
-# {{ page.title }}
+
 {% asset stock/mri.jpg class="img-right shadow radius-lg" alt="photo of an mri" %}
 The Board has issued accessibility standards for medical diagnostic equipment under the “Patient Protection and Affordable Care Act.” The Board also developed guidance on accessible prescription drug container labels.
 

@@ -5,8 +5,6 @@ sidenav: false
 permalink: /ict.html
 ---
 
-# {{ page.title }}
-
 {% asset stock/ict.jpg class="img-right shadow radius-lg" alt="photo of hands typing on braille keyboard" %}
 
 Access to information and communication technology (ICT) is addressed by Board standards and guidelines issued under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act.
