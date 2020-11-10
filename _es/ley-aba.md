@@ -5,7 +5,7 @@ permalink: /es/ley-aba.html
 ---
 
 <figure class="float-right">
-![foto en blanco y negro]({{ site.baseurl }}/images/lbj.jpg)
+{% asset lbj.jpg alt="foto en blanco y negro" %}
 <figcaption>
 Presidente Lyndon Johnson, quien promulgó la ABA en agosto de 1968, caracterizó barreras para acceso como fracasos por parte del gobierno que perpetuaban “la discriminacion cruel.”
 </figcaption>
