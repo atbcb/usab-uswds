@@ -7,8 +7,6 @@ excerpt: >-
   regulations governing federal procurements to . . .
 image: /images/uploads/far.png
 image_alt_text: FAR logo - Federal Acquisition Regulation
-authors:
-  - camara-francis
 tags:
   - '508'
 featured: false
