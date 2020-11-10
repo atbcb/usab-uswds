@@ -1,8 +1,9 @@
 ---
-title: UFAS, 1984
+title: UFAS (1984)
 permalink: /aba/ufas.html
 layout: universal
 banner-title: Uniform Federal Accessibility Standards
+banner-subtitle: ""
 toc: /toc/auto.html
 toc-group: ufas
 file: /files/ufas/ufas.pdf
