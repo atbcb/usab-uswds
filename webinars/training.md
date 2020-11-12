@@ -1,7 +1,7 @@
 ---
 title: Trainings
-layout: page
-sidenav: false
+layout: page-right-sidenav
+right-sidenav: sidenav-training.html
 permalink: /webinars/training.html
 redirect_from: 
     - /training/

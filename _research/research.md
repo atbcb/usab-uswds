@@ -1,7 +1,7 @@
 ---
 title: Research
-layout: page
-toc: ""
+layout: page-right-sidenav
+right-sidenav: sidenav-research.html
 permalink: /research/
 ---
 
