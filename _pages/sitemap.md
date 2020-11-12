@@ -3,7 +3,6 @@ title: Site Map
 layout: universal
 permalink: /sitemap.html
 ---
-# Site map
 
 Looking for a specific page on our website? See the list of webpages below, or email us for more information
 
