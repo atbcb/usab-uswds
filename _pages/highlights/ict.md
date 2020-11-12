@@ -1,10 +1,9 @@
 ---
-title: Communications and Information Technology
+title: Information and Communication Technology
 layout: page
 sidenav: false
 permalink: /ict.html
 ---
-
 {% asset stock/ict.jpg class="img-right shadow radius-lg" alt="photo of hands typing on braille keyboard" %}
 
 Access to information and communication technology (ICT) is addressed by Board standards and guidelines issued under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act.
@@ -77,5 +76,4 @@ On January 18, 2017, the Board published a final rule that updates the Section 2
 
 #### Orginal Section 255 Guidelins (1998)
 
-The original Telecommunication Act Section 255 Accessibility Guidelines (February 3, 1998) can be found in older editions of the Code of Federal Regulations as [36 CFR 1193](https://www.govinfo.gov/content/pkg/CFR-2016-title36-vol3/pdf/CFR-2016-title36-vol3-part1193.pdf).
-{% asset pdf.gif alt="PDF icon" class="img.left" %}
+The original Telecommunication Act Section 255 Accessibility Guidelines (February 3, 1998) can be found in older editions of the Code of Federal Regulations as [36 CFR 1193](https://www.govinfo.gov/content/pkg/CFR-2016-title36-vol3/pdf/CFR-2016-title36-vol3-part1193.pdf). {% asset pdf.gif alt="PDF icon" class="img-left" %}
