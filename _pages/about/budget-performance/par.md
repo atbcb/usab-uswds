@@ -40,7 +40,7 @@ permalink: /about/par.html
 <p>I am pleased to present the Access Board's Performance and Accountability Report for Fiscal Year 2019. This report provides key information on the Access Board's progress in meeting its mission and managing its financial responsibilities. Our agency has a proud history of serving the public through its programs devoted to accessibility for people with disabilities.</p>
 <p>Fiscal Year 2019 was a year of continued success. The Access Board continues to develop accessibility requirements, provide technical assistance and training, and enforce access requirements for the Federal government. We will continue to strive for excellence to fulfill our responsibilities to provide accessibility for people with disabilities.</p>
 <p>Sincerely,</p>
-<p><img src="{{ site.baseurl }}/images/capozzi-signature.jpg" alt="David Capozzi signature" class="img-left" /></p>
+<p><img src="{{ site.baseurl }}/images/capozzi-signature.jpg" alt="David Capozzi signature" /></p>
 <p>David M. Capozzi<br />
   Executive Director</p>
 <hr />
