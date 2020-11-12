@@ -1,5 +1,12 @@
-Accessible Telecommunications Product Design Tutorial
------------------------------------------------------
+---
+title: Accessible Telecommunications Product Design Tutorial 
+layout: page
+sidenav: false
+permalink: /ict/guide/telecom_tutorial.html
+---
+
+# {{ page.title }}
+
 
 **Contents**
 

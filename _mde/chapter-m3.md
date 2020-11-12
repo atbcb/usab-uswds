@@ -184,11 +184,11 @@ Where wheelchair spaces are entered from the rear and includes space beneath com
 
 Wheelchair spaces beneath breast platforms shall comply with M303.2.4.1.
 
-####### M303.2.4.1.1  Depth
+**M303.2.4.1.1  Depth**
 
 Wheelchair spaces shall include knee and toe clearance 25 inches (635 mm) deep minimum and 28 inches (710 mm) deep maximum.
 
-####### M303.2.4.1.2  Height
+**M303.2.4.1.2  Height**
 
 Wheelchair spaces shall include toe clearance 9 inches (230 mm) high minimum above the floor measured to a depth of 6 inches (150 mm) maximum from the toe end of the wheelchair space. Knee clearance shall be provided at a depth of 19 inches (485 mm) minimum and 22 inches (560 mm) maximum at 9 inches (230 mm) above the floor and at a depth of 16 inches (405 mm) minimum at 27 inches (685 mm) above the floor measured from the leading edge of the breast platform. Between 9 inches (230 mm) and 27 inches (685 mm) above the floor, the knee clearance shall be permitted to reduce at a rate of 1 inch (25 mm) in depth for every 6 inches (150 mm) in height.
 >EXCEPTION: Components shall be permitted to extend into the wheelchair space at a height of 1 ½ inches (38 mm) maximum between 17 inches (430 mm) minimum and 25 inches (635 mm) maximum in depth measured from the leading edge of the breast platform. From 25 inches (635 mm) to 28 inches (710 mm) in depth the height of a component above 1 ½ inches (38 mm) shall be beveled at a rate of 2.5:3 maximum.
@@ -197,11 +197,11 @@ Wheelchair spaces shall include toe clearance 9 inches (230 mm) high minimum abo
 
 Wheelchair spaces beneath diagnostic equipment other than breast platforms shall comply with M303.2.4.2.
 
-####### M303.2.4.2.1  Depth
+**M303.2.4.2.1  Depth**
 
 Wheelchair spaces shall include knee and toe clearance 17 inches (430 mm) deep minimum and 25 inches (635 mm) deep maximum.
 
-####### M303.2.4.2.2  Height
+**M303.2.4.2.2  Height**
 
 Wheelchair spaces shall include toe clearance 9 inches (230 mm) high minimum above the floor measured to a depth of 6 inches (150 mm) maximum measured from the toe end of the wheelchair space. Knee clearance shall be provided at a depth of 11 inches (280 mm) minimum and 25 inches (635 mm) maximum at 9 inches (230 mm) above the floor and at a depth of 8 inches (205 mm) minimum at 27 inches (685 mm) above the floor measured from the leading edge of the equipment. Between 9 inches (230 mm) and 27 inches (685 mm) above the floor, the knee clearance shall be permitted to reduce at a rate of 1 inch (25 mm) in depth for every 6 inches (150 mm) in height.
 

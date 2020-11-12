@@ -59,12 +59,6 @@ a.usa-current::after {
   content: "→" !important;
 }
 
-// default to have images float to right (and text wrap left)
-#content > p > img {
-  display:block;
-  float:right;
-}
-
 fieldset {
   border: thin solid color(primary-darker);
 }

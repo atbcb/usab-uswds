@@ -7,7 +7,10 @@ vice-chair: false
 member: federal
 status: current
 image: /images/uploads/sheehy.jpg
-bio: >-
+agency: Department of Labor
+
+---
+
   Jennifer Sheehy is Acting Assistant Secretary for Disability Employment Policy
   and head of the Office of Disability Employment Policy at the U.S. Department
   of Labor.  Previously, she served as Deputy Assistant Secretary in the Office
@@ -23,6 +26,5 @@ bio: >-
   President of the National Organization on Disability and Director of its CEO
   Council.  She earned a B.A. from Cornell University and graduated with honors
   from Georgetown University, where she received her M.B.A.
-agency: Department of Labor
----
+
 

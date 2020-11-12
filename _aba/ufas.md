@@ -1,14 +1,15 @@
 ---
-title: UFAS, 1984
+title: UFAS (1984)
 permalink: /aba/ufas.html
 layout: universal
 banner-title: Uniform Federal Accessibility Standards
+banner-subtitle: ""
 toc: /toc/auto.html
 toc-group: ufas
 file: /files/ufas/ufas.pdf
 file-description: PDF version of UFAS, 7–1–97 Edition
 redirect_from:
-    - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/ufas
+    - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/ufas/
 ---
 
 # Introduction

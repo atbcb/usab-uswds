@@ -76,7 +76,7 @@ primary_navigation:
   - name: Guidelines & Standards
     url: /gs/
     children:
-      - name: IT & Communication (§508)
+      - name: ICT (§508 and §255)
         url: /ict/
       - name: Americans with Disabilities Act
         url: /ada/
@@ -332,13 +332,17 @@ defaults:
       path: ""
       type: "pvag"
     values:
-      collection-title: "(Proposed) Passenger Vessels"
-      collection-subtitle: "Accessibility Guidelines"
+      banner-title: "(Proposed) Passenger Vessels"
+      banner-subtitle: "Accessibility Guidelines"
       collection-folder: pvag
-      layout: standards
+      toc: toc/auto.html
+      toc-group: pvag
+      layout: universal
       file-directory: /files/pvag/
       image-directory: /images/pvag/
-      right-sidenav: sidenav-pvag.html
+      right-sidenav: sidenav-right-universal.html
+      ta-text: Contact the Access Board for further guidance on access to passenger vessels
+      ta-email-pre: pvag
   - scope:
       path: ""
       type: "research"
@@ -348,6 +352,7 @@ defaults:
       layout: universal
       toc: "/toc/auto.html"
       toc-group: ""
+      sitemap-title: Research
   - scope:
       path: ""
       type: "es"
@@ -360,17 +365,28 @@ defaults:
       path: "_staff"
     values:
       layout: profile
+      banner-title: Access Board Staff
+      sitemap: false
   - scope:
       path: "_board-members"
     values:
       layout: profile
+      banner-title: Access Board Members
   - scope:
       path: ""
       type: "pages"
     values:
       collection-title: "Pages"
       collection-folder: pages
-
+  - scope:
+      path: ""
+      type: "posts"
+    values:
+      sitemap-title: Posts
+  - scope:
+      path: "_redirect-tos"
+    values:
+      sitemap: false
 future: true
 
 markdown: kramdown

@@ -21,8 +21,6 @@ The Access Board will hold a town hall meeting in Indianapolis on the afternoon 
 
 The event will take place in the Pacers Square Room at [Bankers Life Fieldhouse](https://www.bankerslifefieldhouse.com/) from 2:00 pm to 4:30 pm. Registration is not required. An assistive listening system, computer assisted real-time transcription, and sign language interpreters will be available. Attendees are requested to refrain from using perfume, cologne, and other fragrances for the comfort of all participants. The meeting will not be streamed online.
 
-
-
 ![ADA Standards]({{ site.baseurl }}/images/uploads/ada-standards.png "ADA Standads")
 
 *Remote Attendance Options - Town Hall Meeting Only*\
@@ -33,8 +31,11 @@ Earlier in the day, the Board will also offer free training sessions on the ADA 
 
 For further information, contact Dave Yanchulis at [yanchulis@access-board.gov](mailto:yanchulis@access-board.gov), (202) 272–0026 (v), or (202) 272–0027 (TTY).
 
-*U.S. Access Board Training and Town Hall Meeting, May 21![Bankers Life Fieldhouse logo](https://www.access-board.gov/images/News/bankerslife.png)*\
-Pacers Square at Bankers Life Fieldhouse\
+*U.S. Access Board Training and Town Hall Meeting, May 21*
+
+![Bankers Life Fieldhouse logo](https://www.access-board.gov/images/News/bankerslife.png)
+
+Pacers Square at Bankers Life Fieldhouse<br>
 125 S. Pennsylvania Street, Indianapolis, IN
 
 *Training Session on the ADA Accessibility Standards (free)*
