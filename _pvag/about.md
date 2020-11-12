@@ -3,7 +3,7 @@ title: About
 permalink: /pvag/
 order-number: 0
 ---
-### Proposed ADA Accessibility Guidelines for Passenger Vessels
+## About the ADA Passenger Vessels Accessibility Guidelines (PVAG)
 {% asset stock/vessel.jpg class="img-right shadow radius-lg" alt="photo of a cruise ship" %}
 The Access Board is developing accessibility guidelines for passenger vessels under the Americans with Disabilities Act (ADA).  It has proposed guidelines for large vessels for public comment.  These guidelines, which are not yet finalized, address onboard routes, vertical access between decks, doorways and coamings, toilet rooms, guest rooms, alarm systems, and other spaces and elements used by passengers. 
 
@@ -17,7 +17,7 @@ The Access Board is developing accessibility guidelines for passenger vessels un
 
 - July 7, 2006 -- The Board issues [revised draft guidelines](https://www.federalregister.gov/documents/2006/07/07/E6-10576/americans-with-disabilities-act-ada-accessibility-guidelines-for-passenger-vessels) for large vessels, ferries, and tenders for public comment.
 
-- August 13, 2007 -- The Board [creates](https://www.federalregister.gov/documents/2007/08/13/07-3934/passenger-vessel-emergency-alarms-advisory-committee) Passenger Vessel Emergency Alarms Advisory Committee.
+- August 13, 2007 -- The Board creates [Passenger Vessel Emergency Alarms Advisory Committee](https://www.federalregister.gov/documents/2007/08/13/07-3934/passenger-vessel-emergency-alarms-advisory-committee).
 
 - October 14, 2008 -- The Passenger Vessel Emergency Alarms Advisory Committee submits its final report to the Board.
 
