@@ -76,4 +76,4 @@ On January 18, 2017, the Board published a final rule that updates the Section 2
 
 #### Orginal Section 255 Guidelins (1998)
 
-The original Telecommunication Act Section 255 Accessibility Guidelines (February 3, 1998) can be found in older editions of the Code of Federal Regulations as [36 CFR 1193](https://www.govinfo.gov/content/pkg/CFR-2016-title36-vol3/pdf/CFR-2016-title36-vol3-part1193.pdf). {% asset pdf.gif alt="PDF icon" class="img-left" %}
+The original Telecommunication Act Section 255 Accessibility Guidelines (February 3, 1998) can be found in older editions of the Code of Federal Regulations as [36 CFR 1193](https://www.govinfo.gov/content/pkg/CFR-2016-title36-vol3/pdf/CFR-2016-title36-vol3-part1193.pdf). {% asset pdf.gif alt="PDF icon" %}
