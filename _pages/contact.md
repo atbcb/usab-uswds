@@ -6,10 +6,7 @@ sidenav: false
 permalink: /contact/
 ---
 
-# {{ page.title }}
-
-**United States Access Board**  
-
+# United States Access Board
 1331 F Street NW, Suite 1000  
 Washington, DC  20004-1111  
 Phone (voice):  202-272-0080, toll free:  800-872-2253  
@@ -44,6 +41,8 @@ If you have questions on these accessibility guidelines and standards call or em
 | [training@access&#8209;board.gov](mailto:training@access-board.gov) | information on the Board's training program or to request training on its guidelines or standards |
 | [508@access&#8209;board.gov](mailto:508@access-board.gov) | questions or comments about the Board's website |
 
+
+{% comment %}
 ## Phone Directory
 
 ***Voice:***  **202-272-0080** or **800-872-2253**  
@@ -92,16 +91,19 @@ If you have questions on these accessibility guidelines and standards call or em
 | Wendy Marshall | 202-272-0043 (v) | 202-272-0056 (tty) |
 | Frances Spiegel | 202-272-0041 (v) | 202-272-0067(tty) |
 
+
+{% endcomment %}
+
 ## Location and Directions
 
 The Board's offices and meeting space are located in downtown Washington, DC on F Street, Northwest, mid-block between 13th and 14th streets.&nbsp;
 Metro Center is the closest metro station and has entrances/exits at:&nbsp; 12th and G Streets (elevator), 13th and G Streets (escalator and stairs), and 12th and F Streets (escalator and stairs).
 
-![map of downtown DC showing Board location on F Street]({{ site.baseurl }}/images/map2.jpg)
+![map of downtown DC showing Board location on F Street]({{ site.baseurl }}/images/map2.jpg){: .center .shadow .radius-lg}
 
 ### Directions from Metro:
 
-Metro Stop:&nbsp; [Metro Center](https://www.wmata.com/rider-guide/stations/metro-center.cfm) (red, orange, blue lines)
+Metro Stop: [Metro Center](https://www.wmata.com/rider-guide/stations/metro-center.cfm) (red, orange, blue lines)
 
 Use exit at:
 
@@ -109,4 +111,4 @@ Use exit at:
 - 13th & G Streets (go 1 block south to F Street, turn right and go ½ block west); or
 - 12th & F Streets (go 1½ blocks west along F Street past 13th Street).
 
-![detail of map showing Board office on F Street, north side, mid-block between 13th and 14th Streets, NW DC]({{ site.baseurl }}/images/map1.jpg)
+![detail of map showing Board office on F Street, north side, mid-block between 13th and 14th Streets, NW DC]({{ site.baseurl }}/images/map1.jpg){: .center .shadow .radius-lg .margin-bottom-5}

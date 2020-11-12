@@ -9,7 +9,8 @@ banner-title: Section 504 Contacts
   <div class="usa-accordion center" aria-multiselectable="true" aria-label="504 contacts">
     <ul class="usa-list--unstyled">
     <!-- This loops through the 504 contacts -->
-      {% for contact in site.contacts-504 %}
+      {% assign contacts = site.contacts-504 | sort: "full_name" %}
+      {% for contact in contacts %}
       <li class="padding-1 usa-prose ">
         <button class="top-level-accordion usa-accordion__button"
                 aria-expanded="false"
