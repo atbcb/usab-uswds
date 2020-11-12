@@ -4,13 +4,8 @@ layout: page
 sidenav: false
 permalink: /rx.html
 ---
-
-# {{ page.title }}
-
-## About
-
 ![pill bottle]({{ site.baseurl }}/images/rx/pill-bottle.jpg){: .img-right}
-The Board has led the development of advisory guidance on making prescription drug container labels accessible to people who are blind or visually impaired or who are elderly. This initiative was authorized by the ["Food and Drug Administration Safety and Innovation Act"](https://www.access-board.gov/guidelines-and-standards/health-care/about-prescription-drug-container-labels/fda-safety-and-innovation-act-section-904) which President Obama signed into law in July 2012.  A provision of the act (section 904) directs the Board to convene a working group to develop best practices for making information on prescription drug container labels accessible to people who are blind or visually impaired.
+The Board has led the development of advisory guidance on making prescription drug container labels accessible to people who are blind or visually impaired or who are elderly. This initiative was authorized by the "[Food and Drug Administration Safety and Innovation Act]({{ site.baseurl }}/rx/fda-section-904.html)" which President Obama signed into law in July 2012.  A provision of the act (section 904) directs the Board to convene a working group to develop best practices for making information on prescription drug container labels accessible to people who are blind or visually impaired.
 
 Shortly after the law was enacted, the Board formed the Working Group on Accessible Prescription Drug Container Labels, an 18-member stakeholder panel comprised of representatives from advocacy organizations and industry. The working group explored various access alternatives, including braille, large print labels, and auditory technologies such as "talking bottles" and radio frequency identification tags. In July 2013, it submitted to the Board its best practice [recommendations](#working-group-recommendations) for pharmacies on providing independent access to prescription drug container labels.  These recommendations are advisory only, not mandatory, and will not have the force of guidelines or standards.
 

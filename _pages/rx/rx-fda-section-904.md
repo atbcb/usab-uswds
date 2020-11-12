@@ -4,10 +4,6 @@ layout: page
 sidenav: false
 permalink: /rx/fda-section-904.html
 ---
-
-# {{ page.title }}
-
-
 **§904. ACCESSIBILITY OF INFORMATION ON PRESCRIPTION DRUG CONTAINER LABELS BY VISUALLY-IMPAIRED AND BLIND CONSUMERS.**
 
 *(a) Establishment of Working Group-*
