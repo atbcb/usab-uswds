@@ -1,21 +1,22 @@
 ---
 name: ed
 full_name: Department of Education
-contact: Ms. Eleanor Baker
-job-title: Customer Service Team
+contact: ''
+job-title: ''
 department: Office for Civil Rights
-email: ocr@ed.gov
-phone: (800) 421-3481
-phone-g: ''
-tty: ''
-fax: '(202) 205-9862 '
-email-g: ''
-website: 'https://www2.ed.gov/about/offices/list/ocr/index.html'
-address: |-
-  330 C Street SW
-  Washington, DC  20202
+email: ''
+phone: ''
+phone-g: (800) 421-3481
+tty: 800-877-8339 (TDD)
+fax: 202-453-6012
+email-g: OCR@ed.gov
+website: 'https://ocrcas.ed.gov/contact-ocr'
+address: |
+  U.S. Department of Education
+  Office for Civil Rights
+  Lyndon Baines Johnson Department of Education Bldg
+  400 Maryland Avenue, SW
+  Washington, DC 20202-1100
 notes: ''
-cfr-assisted: ''
-cfr-conducted: ''
 ---
 

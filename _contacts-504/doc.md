@@ -1,21 +1,21 @@
 ---
 name: doc
 full_name: Department of Commerce
-contact: Ms. Brenda Brittain
-job-title: Disability Program Manager
+contact: Tinisha Agramonte
+job-title: Director
 department: Office of Civil Rights
-email: ' bbrittain@doc.gov'
-phone: '(202) 482-5691 '
-phone-g: ''
+email: ''
+phone: ''
+phone-g: 202-482-0625
 tty: ''
-fax: ' (202) 482-5373 '
+fax: ''
 email-g: ''
 website: 'https://www.commerce.gov/cr/programs-and-services/external-compliance-program'
-address: |-
-  14th Street & Constitution Avenue NW, Room 6010 
-  Washington, DC  20230
+address: |
+  Room 6058
+  U.S. Department of Commerce
+  1401 Constitution Avenue, N.W.
+  Washington, D.C.  20230 
 notes: ''
-cfr-assisted: ''
-cfr-conducted: ''
 ---
 
