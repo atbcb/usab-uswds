@@ -1,21 +1,19 @@
 ---
 name: dhhs
 full_name: Department of Health and Human Services
-contact: Mr. Ronald G. Copeland
-job-title: 'Associate Deputy Director '
-department: Office for Program Operations
-email: rcopelan@os.dhhs.gov
-phone: (202) 619-3339
-phone-g: ''
-tty: (800) 537-7697
-fax: (202) 260-0550
-email-g: ''
-website: 'https://www.hhs.gov/civil-rights/index.html'
+contact: Office for Civil Rights
+job-title: ''
+department: ''
+email: ''
+phone: ''
+phone-g: 1-800-368-1019
+tty: '1-800-537-7697 (TDD) '
+fax: ''
+email-g: ocrmail@hhs.gov
+website: 'http://www.hhs.gov/ocr'
 address: |-
-  200 Independence Avenue SW, Room 509F
+  200 Independence Avenue SW, Room 509F, HHH Building
   Washington, DC  20201
-notes: ''
-cfr-assisted: ''
-cfr-conducted: ''
+notes: 'https://www.hhs.gov/ocr/about-us/contact-us/index.html'
 ---
 
