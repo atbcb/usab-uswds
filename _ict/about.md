@@ -2,6 +2,7 @@
 title: "About the ICT Accessiblity 508 Standards and 255 Guidelines"
 permalink: /ict/about.html
 version: original
+file: /files/ict/ict-final-rule.pdf
 redirect_from:
     - /508/
     - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/
