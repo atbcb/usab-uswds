@@ -1,22 +1,20 @@
 ---
 name: treas
 full_name: Department of the Treasury
-contact: Lydia E. Aponte
+contact: ''
 job-title: ''
-department: Office of Civil Rights and Diversity
-email: Lydia.AponteMorales@do.treas.gov
-phone: 202) 622-8335
+department: Office of Civil Rights and Diversity (OCRD)
+email: ''
+phone: ''
 phone-g: ''
 tty: ' '
-fax: (202) 622-0367
-email-g: ''
+fax: ''
+email-g: CRDcomments@treasury.gov
 website: >-
-  https://www.treasury.gov/about/organizational-structure/offices/Pages/Office-of-Civil-Rights-and-Diversity.aspx
+  https://home.treasury.gov/about/offices/management/civil-rights-and-diversity/federally-assisted-programs-and-federally-conducted-programs
 address: |-
   1500 Pennsylvania Avenue NW
   Washington DC  20220
 notes: ''
-cfr-assisted: ''
-cfr-conducted: ''
 ---
 
