@@ -1,6 +1,6 @@
 ---
 name: doe
-full_name: 'U.S. Department of Energy '
+full_name: U.S. Department of Energy
 contact: ''
 job-title: ''
 department: Office of Civil Rights and Diversity
@@ -12,12 +12,17 @@ fax: 202-586-1009
 email-g: civilrights@hq.doe.gov
 website: >-
   https://www.energy.gov/diversity/services/civil-rights/how-file-complaint-discrimination-recipient-doe-financial-assistance
-address: |
+address: |-
   Office of Civil Rights and Diversity
   U.S. Department of Energy 
   Room 5B-168 
   1000 Independence Avenue, SW 
-  Washington, DC 20585 
-notes: ''
+  Washington, DC  20585
+notes: >-
+  updated 11/13/2020
+
+
+  DOE website title is How to File a Complaint of Discrimination by a Recipient
+  of DOE Financial Assistance
 ---
 
