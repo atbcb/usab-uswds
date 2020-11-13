@@ -1,22 +1,23 @@
 ---
-name: ed
-full_name: Department of Education
+name: doe
+full_name: 'Department of Energy '
 contact: ''
 job-title: ''
-department: Office for Civil Rights
+department: Office of Civil Rights and Diversity
 email: ''
 phone: ''
-phone-g: (800) 421-3481
-tty: 800-877-8339 (TDD)
-fax: 202-453-6012
-email-g: OCR@ed.gov
-website: 'https://ocrcas.ed.gov/contact-ocr'
+phone-g: 202-586-2218
+tty: ''
+fax: 202-586-1009
+email-g: civilrights@hq.doe.gov
+website: >-
+  https://www.energy.gov/diversity/services/civil-rights/how-file-complaint-discrimination-recipient-doe-financial-assistance
 address: |
-  U.S. Department of Education
-  Office for Civil Rights
-  Lyndon Baines Johnson Department of Education Bldg
-  400 Maryland Avenue, SW
-  Washington, DC 20202-1100
+  Office of Civil Rights and Diversity
+  U.S. Department of Energy 
+  Room 5B-168 
+  1000 Independence Avenue, SW 
+  Washington, DC 20585 
 notes: ''
 ---
 
