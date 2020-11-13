@@ -167,6 +167,10 @@ tr:nth-child(even) {
 li.usa-nav__secondary-item a {
   color: color(gray-cool-60);
 }
+// change submenu (Guidelines) font color for better contrast
+li.usa-nav__submenu-item>a {
+  color: white;
+}
 
 // override light blue heading used in highlights.html to get a little more contrast 
 h3.usa-graphic-list__heading {
