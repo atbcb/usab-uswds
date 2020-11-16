@@ -17,16 +17,14 @@ Four agencies establish the ABA Standards according to guidelines issued by the 
 This edition of the ABA Accessibility Standards has been adopted by GSA, DOD, and USPS:
 
 -   [GSA's Federal Management Regulation](https://www.gsa.gov/policy-regulations/regulations/federal-management-regulation-fmr?asset=119604#idtopicx2x71439)
--   [DOD policy memorandum](https://federalist-e3fba26d-2806-4f02-bf0e-89c97cfba93c.app.cloud.gov/site/atbcb/usab-uswds/aba/index.php?option=com_content&view=article&id=263&Itemid=1548)
+-   [DOD policy memorandum]({{ site.baseurl }}/aba/dod-memo.md)
 -   [USPS notice](http://www.gpo.gov/fdsys/pkg/FR-2005-05-17/html/05-9745.htm)
 
 HUD has not yet adopted this version of the standards and continues to apply the [Uniform Federal Accessibility Standards (UFAS)](/aba/ufas.html) to residential facilities under its jurisdiction.
 
 The Access Board provides technical assistance and training on the ABA Standards and UFAS.  It also enforces the ABA Standards through the investigation of complaints.
 
-
 ---
-
 
 ### Background
 
@@ -50,19 +48,13 @@ The Access Board provides technical assistance and training on the ABA Standards
 
 - September 26, 2014 -- The Board issues a [correction](https://www.regulations.gov/document?D=ATBCB-2012-0004-0041) to final guidelines for emergency transportable housing.
 
-
-
 ---
-
 
 ## Guide to the ABA Standards
 The US Access Board has developed guides to the ABA Standards.
-
 
 <div class="grid-container margin-y-3 text-center">
     <a class="usa-button usa-button--big margin-x-auto" href="{{ site.baseurl }}/aba/guides/">View ABA Guides</a>
 </div>
 
-
 ---
-
