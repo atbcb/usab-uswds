@@ -7,6 +7,7 @@ redirect_from:
     - /508/
     - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/
     - /guidelines-and-standards/communications-and-it/about-the-section-508-standards/
+    - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule/
 ---
 These standards address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. 
 
