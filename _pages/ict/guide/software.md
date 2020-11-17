@@ -1,5 +1,11 @@
-Software Applications and Operating Systems (1194.21)
------------------------------------------------------
+---
+title: Software Applications and Operating Systems (1194.21)
+layout: page
+sidenav: false
+permalink: /ict/guide/software.html
+---
+
+# {{ page.title }}
 
 Updated: June 21, 2001
 
@@ -19,7 +25,7 @@ No.  By studying these provisions, a software producer can gain an understandin
 
 *Why is keyboard access to software required?*
 
-![Software drop-down menu that includes alternate keyboard commands](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/menu.jpg)
+![Software drop-down menu that includes alternate keyboard commands](./images/menu.jpg)
 
 When keyboard access to a programs' controls and features is provided, a person who cannot use a mouse or other pointing device will still be able to run the product.  For example, a person with a disability that affects dexterity may find it impossible to move or hold a pointing device with enough accuracy to activate desired features.  A person who cannot see the screen, therefore relying on assistive technology, may have no problems moving the pointer but will be unable to determine what is being pointed to.
 
@@ -107,7 +113,9 @@ The use of animation on a screen can pose serious access problems for users of s
 
 (i) Color coding shall not be used as the only means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.
 
-*How can color coding create accessibility difficulties?![Program window with a green button labled "start" with text above: "Press Green button to Start." There is text above an adjacent red button labeled "cancel" that states "Press Red button to Cancel."](https://www.access-board.gov/images/guidelines_standards/Communications_IT/508_Standards/gobuttons.jpg)*
+*How can color coding create accessibility difficulties?*
+
+![Program window with a green button labled "start" with text above: "Press Green button to Start." There is text above an adjacent red button labeled "cancel" that states "Press Red button to Cancel."](./images/gobuttons.jpg)
 
 A software program that requires a user to distinguish between otherwise identical red and blue squares for different functions (e.g., printing a document versus saving a file) would pose problems for anyone who was color blind and would generally be very difficult to run with assistive technology.  Screen reading software can announce color changes.  However, this is an "on/off" feature.  This means that if a user had to identify a specific color, they would have to have all colors announce which would greatly reduce the usability of the software for that person.
 

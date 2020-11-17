@@ -1,15 +1,13 @@
 ---
 title: Trainings
-layout: page-hero
-hero-text: test
-hero-img: stock/ict.jpg
-sidenav: false
+layout: page-right-sidenav
+right-sidenav: sidenav-training.html
 permalink: /webinars/training.html
 redirect_from: 
     - /training/
 ---
 
-![photo of classroom training session]({{ site.baseurl }}/images/classroom.jpg){: .img-right}
+{% asset stock/training.jpeg class="img-right shadow radius-lg" alt="Audience watching presentation" %}
 
 The Access Board provides training on its accessibility guidelines and standards to various organizations and groups across the country.&nbsp;
 Most training sessions focus on the ADA Accessibility Guidelines (ADAAG) which cover the built environment and transportation vehicles.&nbsp; ADAAG training also addresses new or upcoming sections, such as those covering children’s environments, play areas, state and local government facilities, and recreation facilities. In addition to ADAAG, training is available on design requirements for Federal facilities, telecommunications equipment, and electronic and information technology.

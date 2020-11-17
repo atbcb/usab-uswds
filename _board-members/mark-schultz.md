@@ -8,7 +8,10 @@ member: federal
 status: current
 president: Trump
 image: /images/uploads/shultz-ed.png
-bio: >-
+agency: Department of Education
+
+---
+
   Mark Allan Schultz is the Rehabilitation Services Administration (RSA)
   Commissioner at the U.S. Department of Education and has been delegated the
   authority to perform the functions and duties of the Assistant Secretary of
@@ -26,6 +29,5 @@ bio: >-
   Information Technology Steering Committee. Schultz received a bachelor’s in
   architectural studies from the University of Nebraska, Lincoln and a master’s
   in public administration from the University of Nebraska, Omaha.
-agency: Department of Education
----
+
 

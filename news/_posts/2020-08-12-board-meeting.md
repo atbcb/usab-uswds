@@ -6,9 +6,6 @@ excerpt: >-
   All are welcome to attend the next bimonthly meeting of the U.S. Access Board,
   which will be open to the public and take place virtually on September 16 from
   1:00 to 3:00 (ET). The agenda includes brief reports from . . .
-image: ''
-authors:
-  - dave-yanchulis
 tags:
   - events
   - board meetings

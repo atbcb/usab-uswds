@@ -1,21 +1,23 @@
 ---
-name: ed
-full_name: Department of Education
-contact: Ms. Eleanor Baker
-job-title: Customer Service Team
-department: Office for Civil Rights
-email: ocr@ed.gov
-phone: (800) 421-3481
-phone-g: ''
+name: doe
+full_name: 'Department of Energy '
+contact: ''
+job-title: ''
+department: Office of Civil Rights and Diversity
+email: ''
+phone: ''
+phone-g: 202-586-2218
 tty: ''
-fax: '(202) 205-9862 '
-email-g: ''
-website: 'https://www2.ed.gov/about/offices/list/ocr/index.html'
-address: |-
-  330 C Street SW
-  Washington, DC  20202
+fax: 202-586-1009
+email-g: civilrights@hq.doe.gov
+website: >-
+  https://www.energy.gov/diversity/services/civil-rights/how-file-complaint-discrimination-recipient-doe-financial-assistance
+address: |
+  Office of Civil Rights and Diversity
+  U.S. Department of Energy 
+  Room 5B-168 
+  1000 Independence Avenue, SW 
+  Washington, DC 20585 
 notes: ''
-cfr-assisted: ''
-cfr-conducted: ''
 ---
 

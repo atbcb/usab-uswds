@@ -8,7 +8,8 @@ member: public
 status: current
 president: Obama
 image: /images/uploads/karen-braitmayer.png
-bio: >-
+---
+
   Karen Braitmayer, FAIA is the founder and managing principal of Studio
   Pacifica, an accessibility consulting firm in Seattle. She and her team
   provide consulting services to local governments, school districts,
@@ -22,6 +23,5 @@ bio: >-
   Disabilities). Braitmayer received a bachelor’s degree from Rice University
   and a Master of Architecture from the University of Houston. Karen is also an
   active volunteer and non-profit board member.
-agency: ''
----
+
 

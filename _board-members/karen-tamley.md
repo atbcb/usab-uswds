@@ -8,7 +8,8 @@ member: public
 status: current
 president: Obama
 image: /images/uploads/tamley.jpg
-bio: >-
+---
+
   Karen Tamley of Chicago, Illinois is President and CEO of Access Living, a
   nationally recognized Center for Independent Living serving the city of
   Chicago.  Karen Tamley served for 14 years as Commissioner of the Chicago
@@ -20,6 +21,5 @@ bio: >-
   served at several disability organizations for more than 15 years, including
   ADAPT in Denver and as Director of Programs at Access Living.  Tamley earned a
   bachelor’s degree in Psychology from the University of California, Berkeley.
-agency: ''
----
+
 

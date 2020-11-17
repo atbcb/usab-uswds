@@ -4,8 +4,6 @@ layout: page
 sidenav: false
 permalink: /enforcement/other-resources.html
 ---
-# {{ page.title }}
-
 Various federal laws enforced by other agencies address accessibility and protect the rights of people with disabilities in air travel, buildings and facilities, employment, housing, information and communication technology, programs and services, transportation, and voting. Provided here is a quick guide to these laws and relevant contact information.
 
 - [Air Travel](#air-travel)

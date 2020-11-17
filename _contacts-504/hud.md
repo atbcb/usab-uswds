@@ -1,21 +1,20 @@
 ---
 name: hud
 full_name: Department of Housing & Urban Development
-contact: Ms. Cheryl D. Kent
-job-title: Director
+contact: ''
+job-title: ''
 department: 'Office of Program Compliance & Disability Rights, FHEO'
-email: 'cheryl_d._kent@hud.gov '
-phone: '(202) 708-2333, ext. 7058'
-phone-g: ''
-tty: '(202) 708-1734 '
+email: ''
+phone: ''
+phone-g: 1-800-669-9777 or 1-800-877-8339
+tty: 1-800-877-8339
 fax: ''
 email-g: ''
-website: 'https://www.hud.gov/program_offices/fair_housing_equal_opp/contact_fheo'
-address: |-
-  451 7th Street SW, Room 5240
-  Washington, DC  20410
-notes: ''
-cfr-assisted: ''
-cfr-conducted: ''
+website: 'https://www.hud.gov/program_offices/fair_housing_equal_opp/disability_main'
+address: ''
+notes: |-
+  https://www.hud.gov/program_offices/fair_housing_equal_opp/online-complaint
+  https://www.hud.gov/sites/documents/DOC_12150.PDF
+  https://www.hud.gov/program_offices/fair_housing_equal_opp/contact_fheo
 ---
 

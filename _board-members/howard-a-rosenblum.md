@@ -8,7 +8,8 @@ member: public
 status: current
 president: Obama
 image: /images/uploads/rosenblum.jpg
-bio: >-
+---
+
   Howard A. Rosenblum is the Chief Executive Officer of the National Association
   of the Deaf (NAD). In this capacity, he oversees the operations of the NAD to
   carry out its mission of preserving, protecting, and promoting the civil, human,
@@ -26,6 +27,5 @@ bio: >-
   captioning access to web video content. Rosenblum received his law degree from
   IIT Chicago-Kent College of Law and his Bachelor of Science degree in Computer
   Engineering from the University of Arizona.
-agency: ''
----
+
 

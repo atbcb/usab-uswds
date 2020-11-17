@@ -4,7 +4,7 @@ order-number: 1007
 file: /files/ada/guides/minigolf.pdf
 file-description: PDF version of Accessible Miniature Golf
 redirect_from: 
-    - /guidelines-and-standards/recreation-facilities/guides/minature-golf
+    - /guidelines-and-standards/recreation-facilities/guides/minature-golf/
 ---
 <div class="clearfix" markdown="1">
 ![minature golf

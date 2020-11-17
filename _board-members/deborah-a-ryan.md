@@ -8,7 +8,8 @@ member: public
 status: current
 president: Obama
 image: /images/uploads/d-ryan.jpg
-bio: >-
+---
+
   Deborah A. Ryan of Boston, Massachusetts is head of Deborah A. Ryan &
   Associates, an accessibility consulting firm that specializes in compliance
   with design requirements issued under Massachusetts law and federal laws such
@@ -20,6 +21,5 @@ bio: >-
   director.  The MAAB develops and enforces state requirements for accessible
   buildings and facilities.  Ryan previously served on the U.S. Access Board's
   Public Right-of-Way Access Advisory Committee.
-agency: ''
----
+
 

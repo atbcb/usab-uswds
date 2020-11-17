@@ -4,8 +4,6 @@ layout: page
 sidenav: false
 permalink: /enforcement/investigation.html
 ---
-# {{ page.title }}
-
 The Board enforces the ABA through the investigation of complaints.
 
 Within two weeks after filing a complaint, you will receive a formal acknowledgement letter if you provided your contact information to us. This letter will contain the information about your complaint, as well as the investigation process and applicable federal law, and contact information for the compliance specialist investigating your complaint.

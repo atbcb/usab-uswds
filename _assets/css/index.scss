@@ -59,12 +59,6 @@ a.usa-current::after {
   content: "→" !important;
 }
 
-// default to have images float to right (and text wrap left)
-#content > p > img {
-  display:block;
-  float:right;
-}
-
 fieldset {
   border: thin solid color(primary-darker);
 }
@@ -172,6 +166,10 @@ tr:nth-child(even) {
 // override default gray to get a little more contrast
 li.usa-nav__secondary-item a {
   color: color(gray-cool-60);
+}
+// change submenu (Guidelines) font color for better contrast
+li.usa-nav__submenu-item>a {
+  color: white;
 }
 
 // override light blue heading used in highlights.html to get a little more contrast 

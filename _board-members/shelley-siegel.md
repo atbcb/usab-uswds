@@ -8,7 +8,8 @@ member: public
 status: current
 president: Obama
 image: /images/uploads/siegel-s.jpg
-bio: >-
+---
+
   Shelley Siegel, FASID of Lake Worth, Florida is the founder and president of
   Universal Design and Education Network, an interior design firm that
   specializes in universal design in residential and commercial projects. She
@@ -21,6 +22,5 @@ bio: >-
   ADA Advisory Board. Siegel holds a degree in Interior Design and received a
   graduate degree in Life Span Care/Applied Gerontology Studies from Nova
   Southeastern University.
-agency: ''
----
+
 

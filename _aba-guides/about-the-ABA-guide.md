@@ -5,7 +5,7 @@ permalink: /aba/guides/
 file: /files/aba/guides/ABA-Standards-Guide_Chapters1-5.pdf
 file-description: Single file PDF version of the ABA Guides Ch 1-5
 redirect_from:
-    - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards
+    - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/
 ---
 Standards issued under the Architectural Barriers Act (ABA) apply to facilities designed, built, altered, or leased with federal funds. Four agencies establish the ABA Standards according to guidelines issued by the Access Board:
 

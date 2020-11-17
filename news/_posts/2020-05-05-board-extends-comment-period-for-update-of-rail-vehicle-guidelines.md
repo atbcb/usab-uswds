@@ -6,8 +6,6 @@ excerpt: >-
   The Board has extended the comment period another two months to allow additional time for interested parties to submit feedback, as indicated in . . . 
 image: ''
 image_alt_text: ''
-authors:
-  - juliet-shoultz
 featured: false
 ---
 In February, the Board initiated rulemaking through an Advance Notice of Proposed Rulemaking to update requirements in its ADA Accessibility Guidelines for Transportation Vehicles that apply to rail cars, including those used in rapid, light, commuter, and intercity rail systems. This notice was available for public comment for three months. The Board has extended the comment period another two months to allow additional time for interested parties to submit feedback, as indicated in a published [notice](https://www.federalregister.gov/d/2020-07292).

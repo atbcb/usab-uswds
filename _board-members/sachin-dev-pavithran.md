@@ -8,7 +8,8 @@ member: public
 status: current
 president: Obama
 image: /images/uploads/pavithran.jpg
-bio: >-
+---
+
   Sachin Dev Pavithran is the Program Director of the Utah Assistive Technology
   Program and the Director of Policy for the Center for Persons with
   Disabilities. He provides technical assistance on accessible information
@@ -24,6 +25,5 @@ bio: >-
   bachelor’s degrees in Business Information Systems and in Marketing from Utah
   State University, a master’s degree in Vocational Rehabilitation Counseling,
   and a PhD in Disability Disciplines with an emphasis on disability policy.  
-agency: ''
----
+
 

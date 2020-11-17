@@ -1,11 +1,10 @@
 ---
 title: Site Map
-layout: page
+layout: universal
 permalink: /sitemap.html
 ---
-# Site map
 
-Looking for a specific page on our website? See the list of webpages below, or email us for more information</p>
+Looking for a specific page on our website? See the list of webpages below, or email us for more information
 
 {% assign collections = site.collections | where_exp:'collection','collection.output != false' %}
 {% for collection in collections %}
@@ -13,7 +12,8 @@ Looking for a specific page on our website? See the list of webpages below, or e
   <ul>
   {% for doc in docs %}
       {% if forloop.index == 1 %}
-        <h2>{% if doc.banner-title %}{{ doc.banner-title }}
+        <h2>{% if doc.sitemap-title %}{{ doc.sitemap-title }}
+            {% elsif doc.banner-title %}{{ doc.banner-title }}
             {% elsif doc.collection-title %}{{ doc.collection-title }}
             {% else %}[Untitled]
             {% endif %}</h2>
@@ -21,6 +21,13 @@ Looking for a specific page on our website? See the list of webpages below, or e
       <li class="margin-left-3 ">
         <a href="{{ doc.url | replace:'/index.html','/' | absolute_url }}">{% if doc.title %}{{doc.title}}{% else %}{{ doc.url | replace:'/index.html','/' | absolute_url }}{% endif %}</a>
         <span class="text-italic">
+        {% if doc.collection == "research" %}
+          {% if doc.banner-title %}({{doc.banner-title}}){% endif %}
+        {% endif %}
+        {% if doc.collection == "pages" %}
+          {% if doc.banner-title %}{{doc.banner-title}}
+          {% elsif doc.collection-title %}{{doc.collection-title}}{% endif %}
+        {% endif %}
         {% comment %}
           (Last modified: 
           {% if doc.last_modified_at or doc.date %}
@@ -70,7 +77,7 @@ Looking for a specific page on our website? See the list of webpages below, or e
   {% endif %}
 {% endfor %}
 </ul>
-
+<hr>
 <h2>Videos</h2>
 <ul>
   {% for file in site.static_files %}

@@ -7,7 +7,10 @@ vice-chair: false
 member: federal
 status: current
 image: /images/uploads/donovan-dod.png
-bio: >-
+agency: Department of Defense
+
+---
+
   As the Under Secretary of Defense for Personnel and Readiness, Matthew P.
   Donovan serves as the principal staff assistant and advisor to the Secretary
   of Defense for force readiness, force management, health affairs, National
@@ -26,6 +29,5 @@ bio: >-
   and a Master of Arts degree in Military Arts and Sciences from the Advanced
   Operational Art Studies Fellowship, U.S. Army School of Advanced Military
   Studies.
-agency: Department of Defense
----
+
 

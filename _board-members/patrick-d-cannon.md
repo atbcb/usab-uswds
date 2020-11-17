@@ -8,7 +8,8 @@ member: public
 status: current
 president: Obama
 image: /images/uploads/patrick-cannon.jpg
-bio: >-
+---
+
   Patrick D. Cannon of East Lansing, Michigan was State Director of the Michigan
   Commission for the Blind from 1997 to 2012. He was also President of the
   National Council of State Agencies for the Blind and served as Director of the
@@ -19,6 +20,5 @@ bio: >-
   Rehabilitation, and the Executive Board of the President’s Committee on the
   Employment of People with Disabilities. Cannon previously served as a member
   of the Access Board from 1995 to 2003, including a term as its Chair.
-agency: ''
----
+
 
