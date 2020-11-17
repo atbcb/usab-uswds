@@ -18,9 +18,12 @@ We recommend splitting apart your site's components into their own smaller secti
 manage in the long term.
 {% endcomment %}
 
-
+{%- comment -%}
 {% include hero.html hero-text= "The U.S. Access Board is a federal agency that promotes equality for people with disabilities through leadership in inclusive design and the development of accessibility guidelines and standards.
 " hero-img= 'stock/cane.jpg'%}
+{%- endcomment -%}
+
+
 {% include_cached highlights.html %}
 {% include_cached tagline.html %}
-
+{% include hero.html hero-text= "Accessibility Animations" hero-img= 'stock/hero-Preview.jpg'%}
