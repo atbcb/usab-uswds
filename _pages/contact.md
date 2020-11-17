@@ -39,10 +39,10 @@ If you have questions on these accessibility guidelines and standards call or em
 | [row@access&#8209;board.gov](mailto:row@access-board.gov) | questions about public rights-of-way, including streets and sidewalks |
 | [ta@access&#8209;board.gov](mailto:ta@access-board.gov) | technical assistance on Board guidelines and accessible design |
 | [training@access&#8209;board.gov](mailto:training@access-board.gov) | information on the Board's training program or to request training on its guidelines or standards |
-| [508@access&#8209;board.gov](mailto:508@access-board.gov) | questions or comments about the Board's website |
-
+| [webmaster@access&#8209;board.gov](mailto:webmaster@access-board.gov) | questions or comments about the Board's website |
 
 {% comment %}
+
 ## Phone Directory
 
 ***Voice:***  **202-272-0080** or **800-872-2253**  
@@ -90,7 +90,6 @@ If you have questions on these accessibility guidelines and standards call or em
 | Christopher Kuczynski | 202-272-0042 (v) | 202-272-0076 (tty) |
 | Wendy Marshall | 202-272-0043 (v) | 202-272-0056 (tty) |
 | Frances Spiegel | 202-272-0041 (v) | 202-272-0067(tty) |
-
 
 {% endcomment %}
 
