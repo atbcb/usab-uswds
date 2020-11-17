@@ -1,30 +1,30 @@
 - title: "Building &amp; Sites"
   description: "Accessibility standards for facilities covered by the ADA and the ABA."
   image-file: highlights/building-square.jpg
-  alt: "photo of office building"
+  alt: "office building (photo from outside, showing a dramatic perspective on the leading edge corner)"
   link:  /buildings.html
 - title: "Information &amp; Communication Technology"
   description: "ICT Accessibility Standards issued under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act."
   image-file: highlights/ict-square.jpg
-  alt: "photo of braille keyboard"
+  alt: "refreshable braille keyboard (photo shows fingers on the i/o controls, and the edge of a computer keyboard positioned on top)"
   link: /ict.html
 - title: Transportation Vehicles
   description: "ADA Guidelines for transportation vehicles and systems."
   image-file: highlights/transportation-square.jpg
-  alt: "photo of several large buses in a row"
+  alt: "woman in wheelchair about to get on a bus with ISA in window (photo)"
   link: /ada/vehicles/
 - title: "Streets &amp; Sidewalks"
   description: "Proposed guidelines for public rights-of-way and shared use paths."
   image-file: highlights/cane-square.jpg
-  alt: "photo of cane trailing sidewalk"
+  alt: "cane trailing sidewalk (photo closeup on cane with red stripe and white bulb at end, in front of a blurred shoe)"
   link: /prowag/
 - title: Passenger Vessels
   description: "Proposed guidelines for passenger vessels covered by the ADA."
   image-file: highlights/vessel-square.jpg
-  alt: "photo of cruise ship"
+  alt: "cruise ship at sea (photo is from a birds eye perspective)"
   link: /pvag/
 - title: Healthcare
   description: "Standards for medical diagnostic equipment and guidance on prescription drug labels."
   image-file: highlights/mri-square.jpg
-  alt: "photo of imaging machine"
+  alt: "medical imaging machine (photo shows empty patient table at tunnel entrance of large device)"
   link: /healthcare.html
