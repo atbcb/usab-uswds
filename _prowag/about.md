@@ -32,8 +32,11 @@ The Access Board issued proposed guidelines for public comment.  The Board is 
 
 - November 23, 2005 -- The Board releases [revised draft guidelines ](https://www.federalregister.gov/documents/2005/11/23/05-23161/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities)for purposes of gathering information for a cost analysis.
 
+- August, 2007 -- A subcommittee of the Public Rights-of-Way Access Advisory Committee (PROWAAC)  releases a Special Report on [Planning and Design for Alterations](/prowag/planning-and-design-for-alterations/)
+
 - July 26, 2011 -- The Board issues [proposed guidelines](https://www.regulations.gov/document?D=ATBCB-2011-0004-0347) for public comment.
 
 - March 28, 2011 -- The Board issues an advance notice of proposed rulemaking on supplement for [shared use paths](https://www.regulations.gov/document?D=ATBCB-2011-0002-0001) for public comment.
 
 - February 13, 2013 -- The Board issues a [notice](https://www.regulations.gov/document?D=ATBCB-2013-0002-0001) to supplement its rulemaking on public rights-of-way to address shared use paths.
+
