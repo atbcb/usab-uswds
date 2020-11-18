@@ -1,7 +1,7 @@
 ---
 layout: post
 title: November 2020 Board Meeting
-date: '2020-11-16'
+date: '2020-11-12'
 excerpt: >-
   All are welcome to attend the next bimonthly meeting of the U.S. Access Board,
   which will be open to the public and take place virtually on November 18 from
