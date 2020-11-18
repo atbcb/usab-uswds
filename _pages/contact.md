@@ -6,7 +6,7 @@ sidenav: false
 permalink: /contact/
 ---
 
-{% include links-social.html img-right %}
+{% include links-social.html class="img-right" %}
 
 # United States Access Board
 
