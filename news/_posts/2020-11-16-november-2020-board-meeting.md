@@ -5,7 +5,7 @@ date: '2020-11-12'
 excerpt: >-
   All are welcome to attend the next bimonthly meeting of the U.S. Access Board,
   which will be open to the public and take place virtually on November 18 from
-  3:00 to 4:15 (ET). The agenda includes brief reports from . . .
+  3:00 to 4:15 (ET). The agenda includes brief reports from...
 featured: false
 ---
 ## U.S. Access Board Meeting and Webcast (November 18)
