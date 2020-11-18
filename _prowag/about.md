@@ -37,3 +37,10 @@ The Access Board issued proposed guidelines for public comment.  The Board is 
 - March 28, 2011 -- The Board issues an advance notice of proposed rulemaking on supplement for [shared use paths](https://www.regulations.gov/document?D=ATBCB-2011-0002-0001) for public comment.
 
 - February 13, 2013 -- The Board issues a [notice](https://www.regulations.gov/document?D=ATBCB-2013-0002-0001) to supplement its rulemaking on public rights-of-way to address shared use paths.
+
+
+---
+
+
+### Additional Resources
+- Public Rights-of-Way Access Advisory Committee (PROWAAC)  releases a Special Report on [Planning and Design for Alterations](/prowag/planning-and-design-for-alterations/)
