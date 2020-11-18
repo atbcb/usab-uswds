@@ -3,8 +3,10 @@ title: Guidance Documents
 layout: page
 sidenav: false
 permalink: /guidance.html
+redirect_from:
+ - /guidance/
 ---
-Provided here is a complete list of Access Board guidance documents (including animations and videos) currently in effect as required by [Executive Order 13891](https://www.federalregister.gov/documents/2019/10/15/2019-22623/promoting-the-rule-of-law-through-improved-agency-guidance-documents).  Guidance documents lack the force and effect of law, except as authorized by law or as incorporated into a contract. The Board may cite, use, or rely on only the guidance documents listed below. It cannot use other guidance documents except to establish historical facts. See the Board’s [Guidance Procedures](https://www.federalregister.gov/documents/2020/09/21/2020-18411/guidance-procedures)(36 CFR part 1155).
+Provided here is a complete list of Access Board guidance documents (including animations and videos) currently in effect as required by [Executive Order 13891](https://www.federalregister.gov/documents/2019/10/15/2019-22623/promoting-the-rule-of-law-through-improved-agency-guidance-documents).  Guidance documents lack the force and effect of law, except as authorized by law or as incorporated into a contract. The Board may cite, use, or rely on only the guidance documents listed below. It cannot use other guidance documents except to establish historical facts. See the Board’s [Guidance Procedures](https://federalregister.gov/d/2020-18411) (36 CFR part 1155).
 
 * [Guidance on the Americans with Disabilities Act (ADA) Accessibility Standards](#guidance-on-the-americans-with-disabilities-act-ada-accessibility-standards)
 * [Guidance on Recreation Facilities](#guidance-on-recreation-facilities)
