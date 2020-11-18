@@ -20,7 +20,7 @@ The next committee and Board meetings will be:
 >  
 > **Board Meeting**  
 > **November 16, 1:30 - 3:00** (Eastern)  
-> [Join Zoom webcast](https://www.zoomgov.com/j/1618490824?pwd=U1hWUG9LQk9iRmNrVnBBeEdQSlZnQT09)
+> [Join Zoom webcast](https://www.zoomgov.com/j/1618490824)
 
 We have transitioned to a virtual format using [Zoom for Government](https://zoomgov.com).
 
