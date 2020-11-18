@@ -16,7 +16,7 @@ The meetings are webcast live, as well as archived.
 
 The next committee and Board meetings will be:
 
-> ***November 14 - 16, 2020***  
+> ***November 17 - 18, 2020***  
 >  
 > **Board Meeting**  
 > **November 16, 1:30 - 3:00** (Eastern)  
