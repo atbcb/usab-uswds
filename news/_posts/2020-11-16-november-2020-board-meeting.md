@@ -10,7 +10,7 @@ featured: false
 ---
 **U.S. Access Board Meeting and Webcast (November 18)**
 
-All are welcome to attend the next bimonthly meeting of the U.S. Access Board, which will be open to the public and take place virtually this Wednesday, **November 18**from**3:00 to 4:15 (ET)**. The agenda includes brief reports from Board committees and the Interim Executive Director and features a presentation on the agency’s Architectural Barriers Act (ABA) Enforcement Program.
+All are welcome to attend the next bimonthly meeting of the U.S. Access Board, which will be open to the public and take place virtually this Wednesday, **November 18** from **3:00 to 4:15 (ET)**. The agenda includes brief reports from Board committees and the Interim Executive Director and features a presentation on the agency’s Architectural Barriers Act (ABA) Enforcement Program.
 
 You may attend the meeting through the [Zoom.gov platform](https://www.zoomgov.com/j/1618490824#success) or by phone (listen-only mode). For further information, contact Rose Marie Bunales at [bunales@access-board.gov](mailto:bunales@access-board.gov).
 
