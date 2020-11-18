@@ -1,0 +1,20 @@
+<li class="tablet:grid-col-3 usa-card">
+    <a class="style-inherit" href="{{ site.baseurl }}{{ include.url }}">
+    <div class="usa-card__container card-shadow">
+        <header class="card-header">
+        <h2 class="usa-card__heading">{{ include.heading }}</h2>
+        </header>
+        <div class="usa-card__body">
+        <h3 class="text-center margin-y-0">{{ include.subheading }}</h3>
+        {% if include.subheading-2 %}
+        <h4 class="text-center margin-y-0">{{ include.subheading-2 }}</h4>
+        {% endif %}           
+        </div>
+        <div class="usa-card__media usa-card__media--inset">
+        <div class="usa-card__img">
+            <img src="{{ site.baseurl }}{{ include.image }}" alt="{{ include.alt }}">
+        </div>
+        </div>
+    </div>
+    </a>
+</li>
