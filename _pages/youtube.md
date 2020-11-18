@@ -1,5 +1,5 @@
 ---
-title: Social Links
+title: YouTube redirect
 layout: page
 sidenav: false
 permalink: /youtube/
