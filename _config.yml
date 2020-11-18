@@ -102,6 +102,10 @@ primary_navigation:
     url: /contact/
 
 secondary_navigation:
+  - name: ADA Guides
+    url: /ada/guides/
+  - name: ADA Animations
+    url: /ada/guides/animations/
   - name: En Español
     url: /es/
 
