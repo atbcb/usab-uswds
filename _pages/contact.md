@@ -24,7 +24,7 @@ If you have questions on these accessibility guidelines and standards call or em
 
 *Technical assistance is available 10:00 -- 5:00 ET weekdays.*
 
-<div style="display:block, float:right">
+<div style="display:block; float:right">
 {% include links-social.html %}
 </div>
 
