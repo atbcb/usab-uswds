@@ -7,7 +7,7 @@ excerpt: >-
   www.access-board.gov. The new site features a streamlined design to make
   information easier to find. New menus and cross links enhance navigation of .
   . .
-image: /images/uploads/screenshot of the Board's new home page.jpg
+image: /images/uploads/Newhomepage.jpg
 image_alt_text: Screenshot of the Board's new home page
 featured: true
 ---
