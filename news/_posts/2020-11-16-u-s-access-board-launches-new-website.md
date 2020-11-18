@@ -11,7 +11,7 @@ image: /images/uploads/Screenshot of Access Board's new home page.jpg
 image_alt_text: Screenshot of the Board's new home page
 featured: true
 ---
-The U.S. Access Board has redesigned and updated its website at [www.access-board.gov](http://www.access-board.gov/). The new site features a streamlined design to make information easier to find. New menus and cross links enhance navigation of key resources, including the [ADA Accessibility Standards](https://access-board.gov/ada/) and the [Section 508 Standards](https://beta.access-board.gov/ict/). In addition, the site updates information on Board programs and services, including training and filing of complaints under the ABA.
+The U.S. Access Board has redesigned and updated its website at [www.access-board.gov](http://www.access-board.gov/). The new site features a streamlined design to make information easier to find. New menus and cross links enhance navigation of key resources, including the [ADA Accessibility Standards](https://access-board.gov/ada/) and the [Section 508 Standards](https://access-board.gov/ict/). In addition, the site updates information on Board programs and services, including training and filing of complaints under the ABA.
 
 The Board updated its site based on the [U.S. Web Design System](https://designsystem.digital.gov/) (USWDS). Developed by the General Services Administration (GSA) and U.S. Digital Service, the USWDS helps federal agencies create websites that are accessible, fast, and easy to use on mobile devices.The21st Century Integrated Digital Experience Act requires agencies to aims to update their websites using the USWDS to improve the digital experience for government customers.
 
