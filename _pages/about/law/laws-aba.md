@@ -2,8 +2,7 @@
 title: Architectural Barriers Act
 layout: page
 toc: sidenav.html
-banner-title: About the U.S. Access Board
-permalink: /law/aba.html
+
 ---
 
 # {{ page.title }} (ABA) of 1968
