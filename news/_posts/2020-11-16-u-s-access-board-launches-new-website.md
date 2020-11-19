@@ -5,8 +5,9 @@ date: '2020-11-16'
 excerpt: >-
   The U.S. Access Board has redesigned and updated its website at
   www.access-board.gov. The new site features a streamlined design to make
-  information easier to find. New menus and cross links enhance navigation of .
-  . .
+  information easier to find. New menus and cross links enhance navigation of
+  key resources, including the ADA Accessibility Standards and the Section 508
+  Standards. In addition, the site updates . . . 
 image: /images/uploads/Newhomepage.jpg
 image_alt_text: Screenshot of the Board's new home page
 featured: true
