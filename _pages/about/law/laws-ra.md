@@ -3,7 +3,10 @@ title: Rehabilitation Act
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
+banner-subtitle:  Laws
 permalink: /law/ra.html
+redirect_from:
+    - /the-board/laws/rehabilitation-act-of-1973/
 ---
 
 # {{ page.title }} of 1973
@@ -26,8 +29,8 @@ Several years after the ABA had become law, Congress observed that compliance ha
 
 Section 502 lays out the duties of the Board under the ABA, which include: ensuring compliance with standards issued under the ABA, developing and maintaining guidelines upon which the standards are based, and promoting access throughout all segments of society. This section of the law also outlines the membership and composition of the Board.
 
-> **Text of Section 502 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §792)**
-> 
+### Text of Section 502 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §792)
+
 > §792\. Architectural and Transportation Barriers Compliance Board
 > 
 > > (a) Establishment; membership; chairperson; vice-chairperson; term of office; termination of membership; reappointment; compensation and travel expenses; bylaws; quorum requirements
@@ -177,8 +180,8 @@ On August 7, 1998, President Clinton signed into law the Rehabilitation Act Amen
 
 The Board is responsible for developing accessibility standards for such technology for incorporation into regulations that govern Federal procurement practices. The net result will be that Federal agencies will have to purchase electronic and information technology that is accessible except where it would cause an "undue burden." The law also provides a complaint process under which complaints concerning access to technology will be investigated by the responsible Federal agency.
 
-> **Text of Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §794d)**
-> 
+### Text of Section 508 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §794d)
+
 > §794d. Electronic and information technology
 > 
 > > (a) Requirements for Federal departments and agencies
@@ -289,8 +292,8 @@ The Board is responsible for developing accessibility standards for such technol
 
 On March 23, 2010, President Barack Obama signed into law "The Patient Protection and Affordable Care Act" to reform and extend the provision of health care. The law includes a provision to amend the Rehabilitation Act to address access to medical diagnostic equipment, including examination tables and chairs, weight scales, x-ray machines and other radiological equipment, and mammography equipment. Under this amendment, the Board is authorized to develop access standards for medical diagnostic equipment in consultation with the Food and Drug Administration. The standards address independent access to, and use of, equipment by people with disabilities to the maximum extent possible. The Board is also responsible for periodically reviewing and updating the standards.
 
-> **Text of Section 510 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §794f)**
-> 
+### Text of Section 510 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §794f)
+
 > §794f. Establishment of Standards for Accessible Medical Diagnostic Equipment
 > 
 > > (a) Standards - Not later than 24 months after the date of enactment of the Affordable Health Choices Act, the Architectural and Transportation Barriers Compliance Board shall, in consultation with the Commissioner of the Food and Drug Administration, promulgate regulatory standards in accordance with the Administrative Procedure Act setting forth the minimum technical criteria for medical diagnostic equipment used in (or in conjunction with) physician's offices, clinics, emergency rooms, hospitals, and other medical settings. The standards shall ensure that such equipment is accessible to, and usable by, individuals with accessibility needs, and shall allow independent entry to, use of, and exit from the equipment by such individuals to the maximum extent possible.
