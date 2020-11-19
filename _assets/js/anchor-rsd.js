@@ -172,17 +172,18 @@
         }
 
         if (this.options.placement === 'left') {
-          //anchor.style.position = 'absolute';
-          anchor.style.left = '0';
-          anchor.style.marginLeft = '1rem';
-          anchor.style.paddingLeft = '0.75rem';
+          anchor.style.position = 'relative';
+          anchor.style.left = '-1.5rem';
+          anchor.style.top = '-3rem';
+          //anchor.style.marginLeft = '1rem';
+          //anchor.style.paddingLeft = '0.75rem';
           anchor.style.textDecoration = 'none';
           //anchor.style.marginTop = '.5rem';
           //anchor.style.marginBottom = '.5rem';
           anchor.style.fontSize = '2rem';
           const blankDiv = document.createElement('div');
           elements[i].insertAdjacentElement('afterend',blankDiv);
-          elements[i].style.display = 'inline-block';
+          //elements[i].style.display = 'inline-block';
           elements[i].insertAdjacentElement('afterend',anchor);
           //elements[i].appendChild(anchor);
         } else { // if the option provided is `right` (or anything else).

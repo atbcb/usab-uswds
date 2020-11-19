@@ -19,11 +19,11 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 @import "components/table-of-contents-subnav";
 
 // Set fonts
-h1, h2 { // default was 2xl
+h1 { // default was 2xl
   @include u-font('heading', 'xl');
   @include u-margin-y(1)
 }
-h3 { // default was 2xl
+h2, h3 { // default was 2xl
   @include u-font('heading', 'lg');
   @include u-margin-y(1)
 }
