@@ -16,11 +16,11 @@ The meetings are webcast live, as well as archived.
 
 The next committee and Board meetings will be:
 
-> ***November 14 - 16, 2020***  
+> ***November 17 - 18, 2020***  
 >  
 > **Board Meeting**  
-> **November 16, 1:30 - 3:00**  
->  *\[Join webcast]*
+> **November 18, 3:00 - 4:15** (Eastern)  
+> [Join Zoom webcast](https://www.zoomgov.com/j/1618490824)
 
 We have transitioned to a virtual format using [Zoom for Government](https://zoomgov.com).
 
@@ -42,7 +42,6 @@ To inquire about use of the space, please contact [Rose Marie Bunales](mailto:bu
 
 ## Upcoming Board Meetings
 
-- November 16 - 18, 2020
 - January 11 - 13, 2021
 - March 8 - 10, 2021
 - May 17 - 19 (Philadelphia)
@@ -58,6 +57,7 @@ To inquire about use of the space, please contact [Rose Marie Bunales](mailto:bu
 
 ## Board Meeting Archives
 
+- November 17 - 18, 2020
 - September 14 - 16, 2020
 - [July 29, 2015](http://www.yorkmedia.com/accessboard/2015/07/29/)
 - [September 10, 2015](http://www.yorkmedia.com/accessboard/2015/09/10/)
