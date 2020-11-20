@@ -181,11 +181,14 @@
           //anchor.style.marginTop = '.5rem';
           //anchor.style.marginBottom = '.5rem';
           anchor.style.fontSize = '2rem';
-          var blankDiv = document.createElement('div');
-          blankDiv.innerHTML = "testing" + elements[i];
-          elements[i].insertAdjacentElement('beforeBegin',blankDiv);
+          var oldHTML = elements[i].outerHTML
+          var anchorHTML = anchor.outerHTML
+          var newHTML = "<div>" + oldHTML + anchorHTML + "</div>";
+          //newElement.innerHTML = oldElement + anchor.innerHTML;
+          elements[i].outerHTML = newHTML;
+          //elements[i].insertAdjacentElement('beforeBegin',blankDiv);
           //elements[i].style.display = 'inline-block';
-          elements[i].insertAdjacentElement('afterend',anchor);
+          //elements[i].insertAdjacentElement('afterend',anchor);
           //elements[i].appendChild(anchor);
         } else { // if the option provided is `right` (or anything else).
           anchor.style.paddingLeft = '0.375em';
