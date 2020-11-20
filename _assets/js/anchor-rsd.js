@@ -181,8 +181,9 @@
           //anchor.style.marginTop = '.5rem';
           //anchor.style.marginBottom = '.5rem';
           anchor.style.fontSize = '2rem';
-          const blankDiv = document.createElement('div');
-          elements[i].insertAdjacentElement('afterend',blankDiv);
+          var blankDiv = document.createElement('div');
+          blankDiv.innerHTML = "testing" + elements[i];
+          elements[i].insertAdjacentElement('beforeBegin',blankDiv);
           //elements[i].style.display = 'inline-block';
           elements[i].insertAdjacentElement('afterend',anchor);
           //elements[i].appendChild(anchor);
