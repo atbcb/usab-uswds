@@ -1,5 +1,5 @@
 ---
-title: "About the ICT Accessiblity 508 Standards and 255 Guidelines"
+title: About the ICT Accessiblity 508 Standards and 255 Guidelines
 permalink: /ict/about.html
 version: original
 file: /files/ict/ict-final-rule.pdf
@@ -7,12 +7,15 @@ redirect_from:
     - /508/
     - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/
     - /guidelines-and-standards/communications-and-it/about-the-section-508-standards/
+    - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/
+    - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule/
+    - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines/
 ---
 These standards address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. 
 
 Section 508 requires access to ICT developed, procured, maintained, or used by federal agencies.  Examples include computers, telecommunications equipment, multifunction office machines such as copiers that also operate as printers, software, websites, information kiosks and transaction machines, and electronic documents.  The Section 508 Standards, which are part of the Federal Acquisition Regulation, ensure access for people with physical, sensory, or cognitive disabilities.
 
-The Section 255 Guidelines cover telecommunications equipment and customer-premises equipment---such as telephones, cell phones, routers, set-top boxes, and computers with modems, interconnected Voice over Internet Protocol products, and software integral to the operation of telecommunications function of such equipment.
+The Section 255 Guidelines cover telecommunications equipment and customer-premises equipment --- such as telephones, cell phones, routers, set-top boxes, and computers with modems, interconnected Voice over Internet Protocol products, and software integral to the operation of telecommunications function of such equipment.
 
 ### Background
 
@@ -30,3 +33,5 @@ The Section 255 Guidelines cover telecommunications equipment and customer-premi
 
 * Final Regulatory Impact Analysis ([FRIA]({{ site.baseurl }}/ict/fria.html))
 * [Comparison Table of WCAG 2.0 to Existing 508 Standards]({{ site.baseurl }}/ict/wcag2ict.html)
+* [Mapping of WCAG 2.0 to Functional Performance Criteria](https://section508.gov/content/mapping-wcag-to-fpc)
+
