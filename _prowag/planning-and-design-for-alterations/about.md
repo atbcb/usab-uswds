@@ -7,15 +7,14 @@ banner-subtitle: PROWAAC Special Report
 permalink: /prowag/planning-and-design-for-alterations/
 ---
 
-## Special Report:\
-Accessible Public Rights-of-Way\
-Planning and Design for Alterations
+## Special Report: Accessible Public Rights-of-Way Planning and Design for Alterations
 
 
-![Sketch of improvements to a corner to add a bulb-out, new curb ramps, and APS pedbuttons.]({{ site.baseurl }}}}/images/prowag/guide_clip_image002_0002.gif){: .img-right}
+![Sketch of improvements to a corner to add a bulb-out, new curb ramps, and APS pedbuttons.]({{ site.baseurl }}/images/prowag/guide_clip_image002_0002.gif){: .img-right}
 
 
 **August 2007**
+
 This report and its recommendations are the work of a subcommittee of the Public Rights-of-Way Access Advisory Committee (PROWAAC) and are intended to provide technical assistance only. The report is not a rule and has no legal effect; it has not been endorsed by the U.S. Access Board, the Department of Justice, or the Federal Highway Administration of the Department of Transportation.
 
 Public Rights-of-Way Access Advisory Committee (PROWAAC)\
