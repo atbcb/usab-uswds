@@ -8,7 +8,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Compliance
 
-[[§F209]({{ site.baseurl }}/aba/aba-f209)
+[[§F209]({{ site.baseurl }}/aba/#aba-f209)
 
 Where passenger loading zones are provided, at least one accessible passenger loading zone is required in every continuous 100 linear feet of loading zone or fraction thereof.  Compliance is required only where areas are specifically designed or designated for passenger loading, such as those at airports, many hotels, and convention centers.
 
@@ -29,7 +29,7 @@ Accessible passenger loading zones must be provided at these facilities, whether
 
 ### Accessible Passenger Loading Zones
 
-[[§503]({{ site.baseurl }}/aba/aba-503)
+[[§503]({{ site.baseurl }}/aba/#aba-503)
 
 Requirements for accessible passenger loading zones address vehicle pull-up spaces and access aisles, including their dimensions, surfacing, and vertical clearance.
 

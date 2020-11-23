@@ -8,7 +8,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Compliance
 
-[[§F213]({{ site.baseurl }}/aba/aba-f213)
+[[§F213]({{ site.baseurl }}/aba/#aba-f213)
 
 Plumbing and building codes address the number and type of bathing rooms and fixtures required for a facility. The ABA Standards, on the other hand, address access to bathing rooms where they are provided. In new construction, access is required to all bathing rooms, including those for employees. However, where single user portable units are provided, at least 5% at each cluster must comply and be labelled by the International Symbol of Accessibility (ISA) unless all in a cluster are accessible (§F213.2. Ex. 3, §F216.8).
 
@@ -71,7 +71,7 @@ one urinal is provided."
 
 ### Roll-In Shower Compartments
 
-[[§608]({{ site.baseurl }}/aba/aba-608)
+[[§608]({{ site.baseurl }}/aba/#aba-608)
 
 Roll-in shower compartments provide access for shower chairs and other wheeled mobility aids without the need to transfer to a seat. The Standards provide specifications for a standard type and an alternate type of roll-in compartment.
 
@@ -228,7 +228,7 @@ Whether on the side or back wall, the location of the controls, faucet, and show
 
 ### Transfer Shower Compartment
 
-[[§608]({{ site.baseurl }}/aba/aba-608)
+[[§608]({{ site.baseurl }}/aba/#aba-608)
 
 Transfer shower compartments must have a seat (folding or non-folding) and are sized so that controls and grab bars are usable from the seat. The depth is also limited so that support is available from the back wall once transfer is made to the seat. This is why the width and depth are absolute, not minimum, dimensions of 36".
 
@@ -316,13 +316,13 @@ Note: A folding seat can be included in this solution as specified for roll-in c
 
 ### Controls at Bathtubs and Shower Compartments
 
-[[§607.5]({{ site.baseurl }}/aba/aba-607_5), [§608.5]({{ site.baseurl }}/aba/aba-608_5)]
+[[§607.5]({{ site.baseurl }}/aba/#aba-607_5), [§608.5]({{ site.baseurl }}/aba/#aba-608_5)]
 
 Controls and faucets at showers and bathtubs must be usable with one hand and not require tight grasping, pinching, or twisting of the wrist, or more than 5 pounds of force (lbf) to operate. Their location is specified so that they are within accessible reach range while not obstructing grab bars and are usable from outside transfer shower compartments and bathtubs.
 
 #### Shower Spray Units and Water Temperature at Bathtubs and Shower Compartments
 
-[[§607.6]({{ site.baseurl }}/aba/aba-607_6), [§608.6]({{ site.baseurl }}/aba/aba-608_6)]
+[[§607.6]({{ site.baseurl }}/aba/#aba-607_6), [§608.6]({{ site.baseurl }}/aba/#aba-608_6)]
 
 A hand-held shower spray unit that can also be used in a fixed position is required at all accessible showers and bathtubs. The required on/off control for the hand-held unit must have a "non-positive shut-off" which does not fully stop the flow of water but allows it to be reduced. It also prevents cross-connections and other hazards prohibited by plumbing codes. The water temperature is limited to 120°F.
 
@@ -346,7 +346,7 @@ A fixed shower head at 48" maximum above the shower floor can substitute for a h
 
 ### Grab Bars
 
-[[§607.4]({{ site.baseurl }}/aba/aba-607_4) and [§608.3]({{ site.baseurl }}/aba/aba-608_3)]
+[[§607.4]({{ site.baseurl }}/aba/#aba-607_4) and [§608.3]({{ site.baseurl }}/aba/#aba-608_3)]
 
 So that use of grab bars at shower compartments and bathtubs is not impeded, any projecting objects must be located at least 12" above the top surface of grab bars and at least 1½" from the bottom and ends of grab bars. However, other grab bars and shower controls and fittings can be located at least 1½" above grab bars.  
 
@@ -369,7 +369,7 @@ In dwelling units and in single-user bathing facilities accessed only through a 
 
 ### Shower Seats
 
-[[§608.4]({{ site.baseurl }}/aba/aba-608_4), [§610]({{ site.baseurl }}/aba/aba-610)
+[[§608.4]({{ site.baseurl }}/aba/#aba-608_4), [§610]({{ site.baseurl }}/aba/#aba-610)
 
 Seats at transfer and roll-in shower compartments can be rectangular or L-shaped. The L-shaped seat affords users additional support and stability from the back wall. To facilitate transfer, the seat height (17" – 19" measured to the bathroom finish floor) approximates wheelchair seat heights. Seats must extend to a point within 3" of the compartment entry to minimize the transfer gap. Seats must withstand a vertical or horizontal force of 250 lbs. at any point on the seat, fastener, mounting device, or supporting structure. Folding seats can have legs.
 
@@ -388,7 +388,7 @@ Seats at transfer and roll-in shower compartments can be rectangular or L-shaped
 
 ### Bathtubs
 
-[[§607]({{ site.baseurl }}/aba/aba-607)
+[[§607]({{ site.baseurl }}/aba/#aba-607)
 
 Bathtubs must be equipped with a removable in-tub seat or a permanent seat at the head end of the tub.
 
@@ -446,7 +446,7 @@ Controls (excluding drain stoppers) must be located below grab bars toward the f
 
 #### Bathtub with Permanent Seat
 
-[[§607]({{ site.baseurl }}/aba/aba-607)
+[[§607]({{ site.baseurl }}/aba/#aba-607)
 
 Permanent seats must be located at the head end and extend from the back wall to or beyond the outer edge of the bathtub. Specifications for grab bars and clearances are different for bathtubs with permanent seats. The head end provides back support at the seat and does not contain the 12" minimum grab bar required at bathtubs with removable seats.
 

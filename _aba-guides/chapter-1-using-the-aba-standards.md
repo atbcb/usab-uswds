@@ -124,7 +124,7 @@ The ABA Standards also reference several industry standards, including the ASME 
 
 #### Purpose
 
-[[§F101]({{ site.baseurl }}/aba/aba-f101)
+[[§F101]({{ site.baseurl }}/aba/#aba-f101)
 
 The ABA Standards apply to newly constructed or leased facilities and to alterations and additions. Since the Board jointly published the ABA guidelines with its ADA guidelines, the letter “F” (for “federal”) precedes section numbers in the application and scoping chapters of the ABA guidelines. While the scoping and technical requirements for new construction also apply to alterations and additions, provisions and exceptions specific to existing facilities and elements are provided throughout the document. Requirements for additions and leased facilities are scoped separately but reference the same technical criteria.
 
@@ -153,7 +153,7 @@ It is important that accessible features be properly maintained in working order
 
 #### Dimensions for Adults and Children
 
-[[§F102]({{ site.baseurl }}/aba/aba-f102)
+[[§F102]({{ site.baseurl }}/aba/#aba-f102)
 
 ![girl using wheelchair]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1girl.jpg){: .float-right .thumbnail}
 
@@ -170,7 +170,7 @@ The standards do not specify where or when elements are to be designed for child
 
 ### Modifications and Waivers
 
-[[§F103]({{ site.baseurl }}/aba/aba-f103)
+[[§F103]({{ site.baseurl }}/aba/#aba-f103)
 
 The standard-setting agencies (GSA, DOD, HUD, and USPS) are authorized to grant modifications and waivers of the ABA Standards on a case-by-case basis where clearly necessary. Modifications and waivers are rare and are usually considered only in unique circumstances that make compliance with certain provisions exceptionally problematic. The Access Board is responsible for making sure that modifications and waivers are based on findings of fact and are consistent with the ABA.
 
@@ -183,7 +183,7 @@ Requests for modifications or waivers are reviewed by designated officials or de
 
 ### Conventions
 
-[[§F104]({{ site.baseurl }}/aba/aba-f104)
+[[§F104]({{ site.baseurl }}/aba/#aba-f104)
 
 Most dimensions in the standards are specified as a minimum, maximum, or range. In a few areas, an absolute dimension is specified.
 
@@ -216,7 +216,7 @@ Figures are provided in the standards for informational purposes (unless stated 
 
 ### Referenced Standards
 
-[[§F105]({{ site.baseurl }}/aba/aba-f105)
+[[§F105]({{ site.baseurl }}/aba/#aba-f105)
 
 The standards reference industry standards for certain elements, including automated doors (ANSI/BHMA standards), means of egress (International Building Code), fire alarms (NFPA National Fire Alarm Code), elevators and platform lifts (ASME Safety Code), and play surfaces (ASTM standards).
 
@@ -224,7 +224,7 @@ The specific editions of these documents referenced by the ABA Standards must be
 
 ### Definitions
 
-[[§F106]({{ site.baseurl }}/aba/aba-f106)
+[[§F106]({{ site.baseurl }}/aba/#aba-f106)
 
 Terms used in the standards are defined in this section. Some terms are defined not in the standards, but in regulations and directives from standard-setting agencies, such as those pertaining to alterations to “primary function areas” and requirements for accessible paths of travel. Defined terms in referenced standards govern when not defined in either the ABA Standards or regulations. Definitions provided by collegiate dictionaries are relevant for terms not defined by either the ABA Standards, regulations, or referenced standards.
 

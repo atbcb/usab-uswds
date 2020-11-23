@@ -60,7 +60,7 @@ If entrances are restricted to certain occupants on a controlled basis, at least
     </div>
     <div class="tablet:grid-col">
       <h3>Two-Way Communication Systems</h3>
-      <p>[<a href="{{ site.baseurl }}/aba/aba-230)
+      <p>[<a href="{{ site.baseurl }}/aba/#aba-230)
       <p>Where two-way communication systems are provided to gain entry to a facility or to restricted spaces, they must include visual and audible signals to accommodate people with hearing, speech, or visual impairments. This applies to all entrances equipped with such systems, including those that are inaccessible. Lighted signals should have labels to indicate their meaning. If handsets are provided, cords must be at least 29” long. Control buttons and other operable parts must comply at those systems located at accessible entrances.</p>
     </div>
   </div>
@@ -90,18 +90,18 @@ img-alt= "Historic facility"
 
 ### Doors, Doorways and Gates
 
-[[§F206.5]({{ site.baseurl }}/aba/ch02/#f2065) and [§404]({{ site.baseurl }}/aba/aba-404)
+[[§F206.5]({{ site.baseurl }}/aba/ch02/#f2065) and [§404]({{ site.baseurl }}/aba/#aba-404)
 
 Compliance is required for doors, doorways, and gates providing user passage on accessible routes.  At least one accessible door, doorway, or gate serving each accessible room, space, and entrance must comply.
 
 #### Manual Doors and Gates 
-[[§404.2]({{ site.baseurl }}/aba/aba-404_2)
+[[§404.2]({{ site.baseurl }}/aba/#aba-404_2)
 
 ![Door with hardware 34” – 48” high measured to operable portions, a vision panel 43” max. above the floor measured the bottom edge, and smooth surface on the bottom of the push side 10” high min. extending full width of door.  Notes:  Closing Speed (§404.2.8) Closers: 5 sec. min.  from 90 degrees to 12 degrees (spring hinges: 1.5 sec. min. from 70⁰ to 0⁰), Opening Force (§404.2.9)  5 lbf max. (excluding exterior hinged doors and fire doors), Vision/ Side Lights (if provided) (§404.2.11) , Accessible viewing height 43” max. unless not intended for viewing       (i.e., lowest part above 66”), Hardware (§404.2.7) Operable parts must comply, Smooth Surface (§404.2.10) Required at the bottom on the push side, Thresholds (§404.2.5) 1/2” max. high (beveled if above 1/4”), Maneuvering Clearance (§404.2.4) required on both sides (unless door or gate is used in one direction only), Double-Leaf Doors (§404.2.2) One active leaf of double-leaf doors is required to meet criteria for clear width and maneuvering clearance.  Other door requirements apply to both leaves.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg8ab.jpg){: .img-large}
 
 ### Clear Width
 
-[[§404.2.3]({{ site.baseurl }}/aba/aba-404_23)]
+[[§404.2.3]({{ site.baseurl }}/aba/#aba-404_23)]
 
 <div class="clearfix" markdown="1">
 ![Clear width 32” min. shown measured from the stop to the face of the door open 90 degrees]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg9.jpg){: .img-right}
@@ -110,13 +110,13 @@ The clear width is measured from the stop to the face of doors or gates open 90�
 </div>
 
 #### Clear Width and Vertical Clearance of Doors and Gates 
-[[§404.2.3]({{ site.baseurl }}/aba/aba-404_2_3)
+[[§404.2.3]({{ site.baseurl }}/aba/#aba-404_2_3)
 
 ![Door opening with notes:  32” min*clear width, (36” min if doorway deeper than 24”), in alterations: latch side stop can reduce the clear width 5/8” max. vertical clearance 80” min (78” min. at door closers and stops, 34”- 80” height - Projections 4” max allowed on each side, No projections below 34” height]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg10.jpg){: .img-large}
   
 ### Maneuvering Clearances
 
-[[§404.2.4]({{ site.baseurl }}/aba/aba-404_24)]
+[[§404.2.4]({{ site.baseurl }}/aba/#aba-404_24)]
 
 Required maneuvering clearances provide space for opening and proceeding through doors, doorways, and gates using wheelchairs and other mobility aids.
 
@@ -145,7 +145,7 @@ Clearance beyond the latch side is not required at entry doors to hospital patie
 
 ### Recessed Doors and Gates
 
-[[§404.2.4.3]({{ site.baseurl }}/aba/aba-404_243)]
+[[§404.2.4.3]({{ site.baseurl }}/aba/#aba-404_243)]
 
 ![Door maneuvering clearance 8” max. from face of the door.  Note:  The maneuvering clearance is measured from the wall but cannot be offset more than 8” from the face of the door.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg15a.jpg){: .img-full}
 
@@ -168,7 +168,7 @@ forward approach 8 inches max from face of the door">
 
 ### Thresholds
 
-[[§404.2.5]({{ site.baseurl }}/aba/aba-404_25)]
+[[§404.2.5]({{ site.baseurl }}/aba/#aba-404_25)]
 
 <div class="clearfix" markdown="1">
 ![Threshold at door]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg18.jpg){: .img-right}
@@ -182,7 +182,7 @@ The height of thresholds is limited to 1/2” in new construction.  The edge mu
   
 ### Doors and Gates in Series
 
-[[§404.2.6]({{ site.baseurl }}/aba/aba-404_26)]
+[[§404.2.6]({{ site.baseurl }}/aba/#aba-404_26)]
 
 At hinged or pivoted doors or gates in series, a separation is required that is at least 48” plus the width of doors or gates swinging into the space.  This allows users to clear one door or gate before opening the next and applies to those doors or gates that are opposite each other where travel through both doors is required.
 
@@ -196,7 +196,7 @@ At hinged or pivoted doors or gates in series, a separation is required that is 
 
 ### Door and Gate Hardware
 
-[[§404.2.7]({{ site.baseurl }}/aba/aba-404_27)]
+[[§404.2.7]({{ site.baseurl }}/aba/#aba-404_27)]
 
 ![Door lever pushed with closed fist]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg22.jpg){: .img-right}
 
@@ -218,7 +218,7 @@ text="<ul class=\"margin-left-4\"><li>Specify hardware that is usable with a clo
 
 ### Opening Force
 
-[[§404.2.9]({{ site.baseurl }}/aba/aba-404_29)]
+[[§404.2.9]({{ site.baseurl }}/aba/#aba-404_29)]
 
 The maximum 5 lbf opening force applies to all accessible doors and gates except:
 
@@ -254,7 +254,7 @@ text= "Automation of exterior doors is recommended, especially where the opening
 
 ### Door and Gate Surfaces
 
-[[§404.2.10]({{ site.baseurl }}/aba/aba-404_210)]
+[[§404.2.10]({{ site.baseurl }}/aba/#aba-404_210)]
 
 ![Detail of wheelchair user’s feet and footrests at open door with kickplate]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg24.jpg){: .img-right .img-medium}
 
@@ -272,7 +272,7 @@ These requirements do not apply to:
    
 ### Communication Access at Doors
 
-[[§806.3.2]({{ site.baseurl }}/aba/aba-806_32), [§809.3.2.2]({{ site.baseurl }}/aba/aba-809_552)]
+[[§806.3.2]({{ site.baseurl }}/aba/#aba-806_32), [§809.3.2.2]({{ site.baseurl }}/aba/#aba-809_552)]
 
 <div class="clearfix" markdown="1">
 In addition to requirements for two-way communication systems provided at restricted entrances, the Standards include requirements for communication access in transient lodging and residential facilities:  
@@ -290,7 +290,7 @@ text= "Peepholes and other means of identifying visitors in mobility accessible 
 <div class="border clearfix padding-1 margin-y-05" markdown="1">
 ### Doors and Gates Operated Only By Security Personnel
 
-[[§404.1, Ex]({{ site.baseurl }}/aba/aba-404_1)]
+[[§404.1, Ex]({{ site.baseurl }}/aba/#aba-404_1)]
 
 ![Detention/correctional facility icon]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg28.jpg){: .img-right}
 
@@ -299,7 +299,7 @@ Manual doors, doorways, and gates that are designed to be operated only by secur
 
 ### Automatic and Power-Assisted Doors and Gates
 
-[[§404.3]({{ site.baseurl }}/aba/aba-404_3)]
+[[§404.3]({{ site.baseurl }}/aba/#aba-404_3)]
 
 <div class="clearfix" markdown="1">
 ![Label:  “Automatic Door – Caution”]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg29.jpg){: .float-right .img-medium}
@@ -309,7 +309,7 @@ Doors are not required to be automated, but must comply when provided.  The Sta
 
 ### Power-Assisted Doors and Gates
 
-[[§404.3]({{ site.baseurl }}/aba/aba-404_3)]
+[[§404.3]({{ site.baseurl }}/aba/#aba-404_3)]
 
 Power-assisted devices reduce the opening force of doors with closing mechanisms.  
 They are activated by initial manual force, switches, or sensors. Most reduce, but do not fully eliminate, the manual force needed to open a door. For this reason, they must meet maneuvering clearance requirements.
@@ -319,7 +319,7 @@ They are activated by initial manual force, switches, or sensors. Most reduce, b
 ![Power-assisted automated door.  Notes: Clear Width 32” min., Threshold 1/2” max. high (beveled if above 1/4”), Manual Controls must comply as operable parts if provided  , Maneuvering Clearance required, Doors in Series 48” min. separation required between the swing of doors in series, Industry Standard Compliance with the ANSI/BHMA A156.19 (1997 or 2002 edition)]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg30.jpg){: .img-large}
 
 #### Low Energy Doors and Gates 
-[[§404.3]({{ site.baseurl }}/aba/aba-404_3)
+[[§404.3]({{ site.baseurl }}/aba/#aba-404_3)
 
 Low energy doors and gates usually require activation by the user through a push plate or control and are often used in moderate traffic locations as an alternative to manual operation.  Most function like a manual type but with a powered opener and closer option.
   
@@ -329,7 +329,7 @@ Low energy doors and gates usually require activation by the user through a push
 
 #### Controls
 
-[[§404.3.5]({{ site.baseurl }}/aba/aba-404_35)]
+[[§404.3.5]({{ site.baseurl }}/aba/#aba-404_35)]
 
 Door and gate controls must be compliant as operable parts (operable with one hand and without tight grasping, pinching, twisting of the wrist, or more than 5 lbf). Clear floor space at controls must be located outside the door swing to prevent users from getting hit by the door.
 
@@ -345,7 +345,7 @@ text= "Placing controls in locations that preclude backing-up will facilitate us
    
 ### Full-Powered Automatic Doors and Gates
 
-[[§404.3]({{ site.baseurl }}/aba/aba-404_3)]
+[[§404.3]({{ site.baseurl }}/aba/#aba-404_3)]
 
 Full-powered automatic doors and gates are often found in grocery and retail stores, hotels, and airports to ease passage with shopping carts or luggage.  Most are automatically activated by mats or overhead sensors and do not require manual activation by users.
 
