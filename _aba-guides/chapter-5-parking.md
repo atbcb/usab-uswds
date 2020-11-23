@@ -8,7 +8,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Number
 
-[[§F208]({{ site.baseurl }}/aba/ch02/#F208-Parking-Spaces)]
+[[§F208]({{ site.baseurl }}/aba/aba-f208)
 
 Accessible parking spaces are required for each parking facility on a site, such as lots and garages.  Requirements apply equally to public and employee or restricted parking.  On sites with multiple parking facilities, the minimum number of accessible spaces must be calculated separately for each parking facility instead of on the combined total of parking spaces provided on the site.  At least one of every 6 accessible spaces, or fraction of 6, in each parking facility must be sized to accommodate vans.
 
@@ -339,7 +339,7 @@ Accessible parking at residential facilities is based on the ratio of parking sp
 
 ### Accessible Parking Spaces
 
-[[§502]({{ site.baseurl }}/aba/ch05/#502-Parking-Spaces)]
+[[§502]({{ site.baseurl }}/aba/aba-502)
 
 Requirements for accessible parking spaces address the size and marking of regular and van spaces and access aisles, surfaces, vertical clearance at van spaces, identification, and connecting accessible routes.
 
@@ -357,7 +357,7 @@ text= "Configure accessible routes so that they run in front of, instead of behi
 
 ### Van Accessible Parking Spaces
 
-[[§502.1 - 502.5]({{ site.baseurl }}/aba/ch05/#502-Parking-Spaces)]
+[[§502.1 - 502.5]({{ site.baseurl }}/aba/aba-502)
 
 <div class="clearfix padding-left-1" markdown="1">
 ![Person using wheelchair exiting van with ramp parking in accessible van space.  ]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p17.jpg){: .img-right}
@@ -394,7 +394,7 @@ text= "Where standard (non-van) accessible spaces are angled or otherwise restri
 <div class="clearfix padding-left-1" markdown="1">
 ![Plan view of garage with the following highlighted: vehicular route from entrance to van space, van space and access aisle, and vehicular route from van space to exit.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p21.jpg){: .img-right}
 
-[[§502.5]({{ site.baseurl }}/aba/ch05/#a5025)]
+[[§502.5]({{ site.baseurl }}/aba/aba-502_5)]
 
 A 98” minimum vertical clearance is required for van parking spaces/ access aisles and the vehicle route to these spaces from an entrance and from these spaces to an exit.  Van spaces can be grouped on one level of parking structures.
 </div>
@@ -418,7 +418,7 @@ Requirements for operable parts include:
   
 ### Identification
 
-[§F216.5]({{ site.baseurl }}/aba/ch02/#f2165), [§502.6]({{ site.baseurl }}/aba/ch05/#a5026)]
+[§F216.5]({{ site.baseurl }}/aba/ch02/#f2165), [§502.6]({{ site.baseurl }}/aba/aba-502_6)]
 
 ![Post-mounted accessible parking space sign 60” high min. measured to bottom edge]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p23.jpg){: .float-right .thumbnail}
 

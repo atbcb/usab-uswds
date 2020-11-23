@@ -19,7 +19,8 @@ conditions, platform lifts, can be used as an alternative. Portions of
 accessible routes with running slopes steeper than 5% also must be
 treated as ramps.
 
-#### Ramp Requirements [§405]
+#### Ramp Requirements 
+[[§405]({{ site.baseurl }}/ada/ada-405)
 
 ![Ramp with landings. Notes: Clear Width (§405.5) 36" min. (between
 leading edge of handrails) Handrails (§405.8) on both sides if rise
@@ -285,7 +286,8 @@ Alterations (§406.1) Permitted running slopes where space is limited:
 1:10 max (6" max rise) or 1:8 max (3" max rise).
 ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr18.jpg){: .img-large}
 
-#### Transition to Street [§406.2]
+#### Transition to Street 
+[[§406.2]({{ site.baseurl }}/ada/ada-406_2)
 
 ![Curb ramp profile. Notes: Smooth Transition at grade break (no lips
 or other changes in level), Ramp Running Slope 1:12 max, Counter Slope

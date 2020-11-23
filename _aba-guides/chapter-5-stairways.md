@@ -8,7 +8,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Compliance
 
-[[§F210]({{ site.baseurl }}/aba/ch02/#F210-Stairways)]
+[[§F210]({{ site.baseurl }}/aba/aba-f210)
 
 Interior and exterior stairs that are part of a required means of egress must meet the Standards.  Compliance is required for all stairs on required egress routes, including those comprised of a single riser.  The Standards do not apply to stairways that are not part of a required means of egress nor to alternating tread devices and “ship’s ladders.”  The Standards exempt aisle stairs in assembly areas, stairs in non-public areas of detention and correctional facilities, and stairs of play components.
 
@@ -20,7 +20,7 @@ In alterations, stairs between levels that are connected by an accessible route 
 
 ### Stairways
 
-[[§504]({{ site.baseurl }}/aba/ch05/#504-Stairways)]
+[[§504]({{ site.baseurl }}/aba/aba-504)
 
 Requirements for stairways address treads and risers, surfaces, nosings, and handrails.
 
@@ -34,7 +34,7 @@ text= "Providing visual contrast (light-on-dark or dark-on-light) on the top and
 
 ### Handrails
 
-[[§504.6]({{ site.baseurl }}/aba/ch05/#a5046), [§505]({{ site.baseurl }}/aba/ch05/#505-Handrails)]
+[[§504.6]({{ site.baseurl }}/aba/aba-504_6), [§505]({{ site.baseurl }}/aba/aba-505)
 
 Handrails are required on both sides of stairs and must be continuous within the full length of each stair flight.  Inside handrails on switchback or dogleg stairs must be continuous.
 
@@ -48,7 +48,7 @@ text= "In facilities that primarily serve children, a second set of stairway han
 
 ### Handrail Extensions
 
-[[§505.10]({{ site.baseurl }}/aba/ch05/#a50510)]
+[[§505.10]({{ site.baseurl }}/aba/aba-505_10)]
 
 Handrail extensions at the top and bottom must return to walls, guards, or floors and horizontal portions must comply as protruding objects. The length is measured to the start of the return radius.
 
@@ -72,7 +72,7 @@ distance at least equal to one tread depth. Note: Handrails at the bottom must e
 
 ### Handrail Clearance and Cross Section
 
-[[§505.5]({{ site.baseurl }}/aba/ch05/#a5055), [§505.7]({{ site.baseurl }}/aba/ch05/#a5057)]
+[[§505.5]({{ site.baseurl }}/aba/aba-505_5), [§505.7]({{ site.baseurl }}/aba/aba-505_7)]
 
 Surface requirements and clearances facilitate a power grip along the length of handrails.  Handrails can have circular or non-circular cross-sections, but must have rounded edges.  The gripping surface and adjacent surfaces must be free of abrasive or sharp elements.  Wall-mounted handrails with leading edges higher than 27” cannot protrude more than 4½” into circulation paths (§307.2).
 

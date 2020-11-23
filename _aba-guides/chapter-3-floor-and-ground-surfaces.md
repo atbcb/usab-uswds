@@ -13,7 +13,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/)
 
 ### Firmness, Stability, and Slip Resistance
 
-[[§302.1]({{ site.baseurl }}/aba/ch03/#a3021)]
+[[§302.1]({{ site.baseurl }}/aba/aba-302_1)]
 
 Accessible floor and ground surfaces must be stable, firm, and slip resistant.  Stable surfaces resist movement, while firm surfaces resist deformation by applied forces.  Accessible surfaces remain unchanged by external forces, objects, or materials.
 
@@ -47,7 +47,7 @@ text= "Avoid materials or construction methods that create bumpy and uneven surf
 
 ### Carpet
 
-[[§302.2]({{ site.baseurl }}/aba/ch03/#a3022)]
+[[§302.2]({{ site.baseurl }}/aba/aba-302_2)]
 
 Carpet that is thick, cushiony, or loose impairs accessibility, particularly wheelchair maneuvering.  The standards specify the maximum pile height (1/2” measured to the backing, cushion, or pad) and texture (level or textured loop, level cut pile, or level cut/uncut pile) and require firm backing.  Cushions or pads also must be firm or can be avoided to ensure greater firmness. 
 
@@ -74,7 +74,7 @@ Exposed edges must have trim on the entire length of the exposed edge and be fas
 
 ### Openings
 
-[[§302.3]({{ site.baseurl }}/aba/ch03/#a3023)]
+[[§302.3]({{ site.baseurl }}/aba/aba-302_3)]
 
 Openings in ground and floor surfaces, such as grates, are limited in width to prevent passage of a ½” diameter sphere.  Wheelchair casters can get wedged into wider openings. 
 
@@ -91,7 +91,7 @@ text= "Elongated openings, like those of most grates, must be oriented so that t
 
 ### Changes in Level
 
-[[§303]({{ site.baseurl }}/aba/ch03/#303-Changes-in-Level)]
+[[§303]({{ site.baseurl }}/aba/aba-303)
 
 Changes in level can be up to ¼” without treatment or ½” if beveled with a slope no steeper than 1:2.  Changes in level above a ½” must be treated as a ramp or curb ramp (or a walkway if a slope no steeper than 1:20 can be achieved).  These specifications apply to all portions of accessible routes, including thresholds and carpet trim.
 

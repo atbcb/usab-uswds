@@ -142,7 +142,8 @@ Compliance is required for doors, doorways, and gates providing user
 passage on accessible routes. At least one accessible door, doorway, or
 gate serving each accessible room, space, and entrance must comply.
 
-#### Manual Doors and Gates [§404.2]
+#### Manual Doors and Gates 
+[[§404.2]({{ site.baseurl }}/ada/ada-404_2)
 
 ![Door with hardware 34" -- 48" high measured to operable portions, a
 vision panel 43" max. above the floor measured the bottom edge, and
@@ -466,7 +467,8 @@ Series 48" min. separation required between the swing of doors in
 series, Industry Standard Compliance with the ANSI/BHMA A156.19 (1997 or
 2002 edition)]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg30.jpg){: .img-large}
 
-#### Low Energy Doors and Gates [§404.3]
+#### Low Energy Doors and Gates 
+[[§404.3]({{ site.baseurl }}/ada/ada-404_3)
 
 Low energy doors and gates usually require activation by the user
 through a push plate or control and are often used in moderate traffic

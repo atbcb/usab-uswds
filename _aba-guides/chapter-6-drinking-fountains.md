@@ -8,7 +8,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Compliance
 
-[[§F211]({{ site.baseurl }}/aba/ch02/#F211-Drinking-Fountains)]
+[[§F211]({{ site.baseurl }}/aba/aba-f211)
 
 Where drinking fountains are provided, access is required for both people who use wheelchairs and for standing persons. This dual access must be provided on each floor of a facility equipped with drinking fountains, as well as an exterior site and each secured area of a building where drinking fountains are provided. Where one unit is planned in any of these locations, at least two units or a combination high-low unit must be provided for dual access in each such location. If multiple units are planned on a floor, exterior site, or secured area, then 50% must be wheelchair accessible and 50% accessible for standing persons (rounding up for either type in the case of odd numbers).
 
@@ -30,7 +30,7 @@ The Standards specifically address access to drinking fountains located within s
 
 #### Alterations and Additions
 
-[[§F202]({{ site.baseurl }}/aba/ch02/#F202-Existing-Buildings-and-Facilities)]
+[[§F202]({{ site.baseurl }}/aba/aba-f202)
 
 In alterations, requirements for drinking fountains apply where units are altered, replaced, or added to a facility (§F202.3). Access to drinking fountains is also required when alterations are made to areas containing a primary function (i.e., a major activity intended for a facility). Primary function areas that are altered must be connected by an accessible path of travel which includes, where provided, compliant drinking fountains, as well as restrooms and telephones, that serve the primary function area. The accessible path of travel is required to the extent that it does not cost more than 20% of the cost of the work to the primary function area (§F202.4). See the [Alterations and Additions Guide](/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/chapter-2-alterations,-additions,-and-leases).
 
@@ -52,7 +52,7 @@ Bottle fillers must comply where provided, including when integrated with drinki
 
 ### Wheelchair Accessible Drinking Fountains
 
-[[§602.1 – §602.6]({{ site.baseurl }}/aba/ch06/#602-Drinking-Fountains)]
+[[§602.1 – §602.6]({{ site.baseurl }}/aba/aba-602)
 
 Provisions for wheelchair accessible units require access for a forward approach and address spouts, water flow, and operable parts. Units can be wall mounted or free-standing.
 
@@ -71,7 +71,7 @@ and 5" max. from the unit's front edge.]({{ site.baseurl }}{{ page.image-directo
 
 #### Clear Floor or Ground Space
 
-[[§602.2]({{ site.baseurl }}/aba/ch06/#a6022), [§305]({{ site.baseurl }}/aba/ch03/#305-Clear-Floor-or-Ground-Space)]
+[[§602.2]({{ site.baseurl }}/aba/aba-602_2), [§305]({{ site.baseurl }}/aba/aba-305)
 
 Clear floor or ground space for a forward approach must be centered on the unit. Additional clearance is required if the space is obstructed on both sides for more than half the depth, such as at alcoves.
 
@@ -101,7 +101,7 @@ Knee and toe space is required below the unit. The combined depth of the knee an
 
 ### Drinking Fountains for Children's Use
 
-[[§602.1 – §602.6]({{ site.baseurl }}/aba/ch06/#602-Drinking-Fountains)]
+[[§602.1 – §602.6]({{ site.baseurl }}/aba/aba-602)
 
 
 <div class="grid-container">
@@ -119,7 +119,7 @@ edge, including bumpers">
 
 ### Drinking Fountains for Standing Persons
 
-[[§602.7]({{ site.baseurl }}/aba/ch06/#a6027)]
+[[§602.7]({{ site.baseurl }}/aba/aba-602_7)]
 
 Drinking fountains for standing persons must have spouts 38" to 43" high and compliant operable parts and be located on an accessible route. They cannot obstruct the forward approach clearance, including knee and toe space, required at wheelchair accessible units.
 
@@ -140,7 +140,7 @@ text= "Although cantilevered units for standing persons with knee and toe space 
 
 ### Drinking Fountains as Protruding Objects
 
-[[§602.1]({{ site.baseurl }}/aba/ch06/#a6021), [§307]({{ site.baseurl }}/aba/ch03/#307-Protruding-Objects)]
+[[§602.1]({{ site.baseurl }}/aba/aba-602_1), [§307]({{ site.baseurl }}/aba/aba-307)
 
 Requirements for protruding objects (§307) apply to drinking fountains. Drinking fountains with leading edges higher than 27" must be recessed in alcoves or otherwise treated so that they do not protrude more than 4" into circulation paths. Alcoves must be sized to accommodate the clear floor space required at wheelchair accessible units.
 

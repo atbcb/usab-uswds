@@ -34,7 +34,8 @@ other delivery vehicles, law enforcement vehicles, or vehicular impound
 if accessible passenger loading zones are provided where such lots have
 public access (§208.1, Ex.).]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p2.jpg){: .img-large}
 
-#### Minimum Number of Accessible Parking Spaces [§208.2]
+#### Minimum Number of Accessible Parking Spaces 
+[[§208.2]({{ site.baseurl }}/ada/ada-208_2)
 
 <table class="usa-table">
     <caption> <span class="grid-line">Minimum Number of Accessible Parking Spaces Table</span>
