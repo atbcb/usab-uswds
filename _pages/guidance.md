@@ -262,17 +262,18 @@ This document explains requirements in the original Section 508 Standards (2000)
 * [Guidance on the Telecommunications Act Section 255 Guidelines]({{ site.baseurl }}/guidelines-and-standards/communications-and-it/about-the-telecommunications-act-guidelines/guidance-on-the-telecommunications-act-%C2%A7255-guidelines) (HTML) (April 1999)  
 This document explains accessibility requirements for telecommunications products and services covered by Section 255 of the Communications Act.
 
-
+{% endcomment %}
 ## Guidance on Public Rights-of-Way
 
-* [Accessible Public Rights-of-Way: Planning and Designing for Alterations]({{ site.baseurl }}/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/accessible-public-rights-of-way-planning-and-design-for-alterations) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/756/guide.pdf) (August 2007)  
+* [Accessible Public Rights-of-Way: Planning and Designing for Alterations]({{ site.baseurl }}/prowag/planning-and-design-for-alterations/) (HTML)
+(August 2007)  
 This document provides guidance and best practices on accessibility in planning and designing alterations to public rights-of-way.
 
-* [Detectable Warnings Update]({{ site.baseurl }}/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/detectable-warnings-update) (HTML)
-[PDF]({{ site.baseurl }}/attachments/article/1097/dw-update.pdf) (May 2014)  
+* [Detectable Warnings Update]({{ site.baseurl }}/prowag/other/dw-update.html) (HTML)
+(May 2014)  
 This document summarizes requirements and recommendations for detectable warnings under the ADA.
 
+{% comment %}
 * [Accessible Sidewalks]({{ site.baseurl }}/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/accessible-sidewalks-video-series) (video) (2003)  
 Accessible Sidewalks  is a four-part video on the design of sidewalks and accessibility for pedestrians with disabilities, including those who use wheelchairs (Part I, 10 minutes), have ambulatory impairments (Part II, 8 minutes), have low vision (Part III, 11.5 minutes), and who are blind (Part IV, 11.5 minutes).
 
