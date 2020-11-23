@@ -8,7 +8,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/)
 
 ### Protruding Objects
 
-[[§F204]({{ site.baseurl }}/aba/ch02/#F204-Protruding-Objects)]
+[[§F204]({{ site.baseurl }}/aba/#aba-f204)
 
 To prevent hazards to people with vision impairments, the standards limit the projection of objects into circulation paths. These requirements apply to all circulation paths and are not limited to accessible routes. Circulation paths include interior and exterior walks, paths, hallways, courtyards, elevators, platform lifts, ramps, stairways, and landings.
   
@@ -18,7 +18,7 @@ To prevent hazards to people with vision impairments, the standards limit the pr
 
 ### Protrusion Limits
 
-[[§307.2]({{ site.baseurl }}/aba/ch03/#a3072)]
+[[§307.2]({{ site.baseurl }}/aba/#aba-307_2)]
 
 People with vision impairments often travel closely along walls which can provide wayfinding cues sometime called a “shoreline.” Objects mounted on walls, partitions, columns, and other elements along circulation paths can pose hazards unless their projection is limited. Those with leading edges that are within cane sweep (27” high maximum) or that provide minimum headroom clearance (80” minimum) do not pose hazards and can protrude any amount.
 
@@ -76,7 +76,7 @@ Elements, such as wheelchair accessible drinking fountains, must provide a knee 
 
 ### Post-Mounted Objects
 
-[[§307.3]({{ site.baseurl }}/aba/ch03/#a3073)]
+[[§307.3]({{ site.baseurl }}/aba/#aba-307_3)]
 
 Free-standing objects with leading edges 27” to 80” high that are mounted on posts or pylons cannot protrude more than 12” into circulation paths. The 12” limit also applies to the clearance between multiple posts (excluding the sloping portions of handrails).
 
@@ -88,7 +88,7 @@ Objects with leading edges 27” maximum or above 80” can protrude any amount 
 
 ### Vertical Clearance
 
-[[§307.4]({{ site.baseurl }}/aba/ch03/#a3074)]
+[[§307.4]({{ site.baseurl }}/aba/#aba-307_4)]
 
 Headroom clearance of at least 80” high is required along all circulation paths (except at doors and doorways where a 78” minimum clearance is permitted to accommodate door stops and closers).
 

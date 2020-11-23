@@ -70,7 +70,7 @@ text= "Providing visual contrast (light-on-dark or dark-on-light) on the top and
 
 ### Handrails
 
-[[§504.6]({{ site.baseurl }}/ada/#504.6-Handrails)]
+[[§504.6]({{ site.baseurl }}/ada/#ada-504_6)]
 
 Handrails are required on both sides of stairs and must be continuous
 within the full length of each stair flight. Inside handrails on
@@ -129,7 +129,7 @@ protruding objects if they have leading edges higher than
 
 ### Handrail Clearance and Cross Section
 
-[[§505.5]({{ site.baseurl }}/ada/#505.5-Clearance)]
+[[§505.5]({{ site.baseurl }}/ada/#ada-505_5)]
 
 Surface requirements and clearances facilitate a power grip along the
 length of handrails. Handrails can have circular or non-circular

@@ -12,7 +12,7 @@ Standards]({{ site.baseurl }}/ada/).
 
 ### Accessible Entrances: Minimum Number
 
-[[§206.4]({{ site.baseurl }}/ada/#206.4-Entrances)]
+[[§206.4]({{ site.baseurl }}/ada/#ada-206_4)]
 
 At least 60% of public entrances must be accessible in new construction,
 in addition to entrances directly serving tenancies, parking facilities,
@@ -71,7 +71,7 @@ safety.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg4.JPG){: .img-
 
 ### Security Barriers
 
-[[§206.8]({{ site.baseurl }}/ada/#206.8-Security-Barriers)]
+[[§206.8]({{ site.baseurl }}/ada/#ada-206_8)]
 
 <div class="grid-container">
   <div class="grid-row">
@@ -110,7 +110,7 @@ text= "Where two-way communication systems are provided to gain entry to a facil
 
 ### Alterations
 
-[[§206.4]({{ site.baseurl }}/ada/#206.4-Entrances)]
+[[§206.4]({{ site.baseurl }}/ada/#ada-206_4)]
 
 In alterations to existing facilities, accessible entrances are required:
 
@@ -136,13 +136,14 @@ img-alt= "Historic facility"
 
 ### Doors, Doorways and Gates
 
-[[§206.5]({{ site.baseurl }}/ada/#206.5-Doors,-Doorways,-and-Gates)]
+[[§206.5]({{ site.baseurl }}/ada/#ada-206_5)]
 
 Compliance is required for doors, doorways, and gates providing user
 passage on accessible routes. At least one accessible door, doorway, or
 gate serving each accessible room, space, and entrance must comply.
 
-#### Manual Doors and Gates [§404.2]
+#### Manual Doors and Gates 
+[[§404.2]({{ site.baseurl }}/ada/ada-404_2)
 
 ![Door with hardware 34" -- 48" high measured to operable portions, a
 vision panel 43" max. above the floor measured the bottom edge, and
@@ -424,7 +425,7 @@ text= "Peepholes and other means of identifying visitors in mobility accessible 
 <div class="border clearfix padding-1 margin-y-05" markdown="1">
 ### Doors and Gates Operated Only By Security Personnel
 
-[[§404.1, Ex]({{ site.baseurl }}/ada/#404.1-General)]
+[[§404.1, Ex]({{ site.baseurl }}/ada/#ada-404_1)]
 
 ![Detention/correctional facility icon]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg28.jpg){: .img-right}
 
@@ -433,7 +434,7 @@ Manual doors, doorways, and gates that are designed to be operated only by secur
 
 ### Automatic and Power-Assisted Doors and Gates
 
-[[§404.3]({{ site.baseurl }}/ada/#404.3-Automatic-and-Power-Assisted-Doors-and-Gates)]
+[[§404.3]({{ site.baseurl }}/ada/#ada-404_3)]
 
 <div class="clearfix" markdown="1">
 ![Label: "Automatic Door -- Caution"]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg29.jpg){: .float-right .img-medium}
@@ -449,7 +450,7 @@ others. Doors are classified by their type or level of automation.
 
 ### Power-Assisted Doors and Gates
 
-[[§404.3]({{ site.baseurl }}/ada/#404.3-Automatic-and-Power-Assisted-Doors-and-Gates)]
+[[§404.3]({{ site.baseurl }}/ada/#ada-404_3)]
 
 Power-assisted devices reduce the opening force of doors with closing
 mechanisms.They are activated by initial manual force, switches, or sensors. Most
@@ -466,7 +467,8 @@ Series 48" min. separation required between the swing of doors in
 series, Industry Standard Compliance with the ANSI/BHMA A156.19 (1997 or
 2002 edition)]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg30.jpg){: .img-large}
 
-#### Low Energy Doors and Gates [§404.3]
+#### Low Energy Doors and Gates 
+[[§404.3]({{ site.baseurl }}/ada/ada-404_3)
 
 Low energy doors and gates usually require activation by the user
 through a push plate or control and are often used in moderate traffic
@@ -509,7 +511,7 @@ text= "Placing controls in locations that preclude backing-up will facilitate us
 
 ### Full-Powered Automatic Doors and Gates
 
-[[§404.3]({{ site.baseurl }}/ada/#404.3-Automatic-and-Power-Assisted-Doors-and-Gates)]
+[[§404.3]({{ site.baseurl }}/ada/#ada-404_3)]
 
 Full-powered automatic doors and gates are often found in grocery and
 retail stores, hotels, and airports to ease passage with shopping carts

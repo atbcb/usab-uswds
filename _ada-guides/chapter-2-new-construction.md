@@ -135,7 +135,8 @@ purposes]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc5.jpg){: .i
 These structures and spaces are fully exempt from the standards and are
 not required to be accessible or on an accessible route:
 
-#### Construction Sites [§203.2]
+#### Construction Sites
+[[§203.2]({{ site.baseurl }}/ada/#ada-203_2)]
 
 {% include grid-2col-leftimg-righttextstditalic.html
 img-file= "chapter2-ada/nc6.jpg"
@@ -145,7 +146,8 @@ and portable toilets used only by construction workers"
 text2= "Examples: scaffolding, bridging, materials hoists, construction trailers"
 %}
 
-#### Areas Raised for Security/ Safety [§203.3]
+#### Areas Raised for Security/ Safety
+[[§203.3]({{ site.baseurl }}/ada/#ada-203_3)]
 
 {% include grid-2col-leftimg-righttextstditalic.html
 img-file= "chapter2-ada/nc7.jpg"
@@ -154,7 +156,8 @@ text= "Areas raised primarily for purposes of security or life/ fire safety"
 text2= "Examples: life guard stands, fire towers, and prison guard towers"
 %}
 
-#### Raised Work Areas [§203.9]
+#### Raised Work Areas
+[[§203.9]({{ site.baseurl }}/ada/#ada-203_9)]
 
 {% include grid-2col-leftimg-righttextstditalic.html
 img-file= "chapter2-ada/nc8.jpg"
@@ -166,7 +169,8 @@ text2= "Example: Work areas with equipment/ machinery that must be operated
 from a platform"
 %}
 
-#### Limited Access Spaces [§203.4]
+#### Limited Access Spaces
+[[§203.4]({{ site.baseurl }}/ada/#ada-203_4)]
 
 {% include grid-2col-leftimg-righttextstditalic.html
 img-file= "chapter2-ada/nc9.jpg"
@@ -177,7 +181,8 @@ text2= "Examples: lighting/ equipment catwalks at stages and performing areas,
 platforms served only by ladder"
 %}
 
-#### Machinery Spaces [§203.5]
+#### Machinery Spaces
+[[§203.5]({{ site.baseurl }}/ada/#ada-203_5)]
 
 {% include grid-2col-leftimg-righttextstditalic.html
 img-file= "chapter2-ada/nc10.jpg"
@@ -189,7 +194,8 @@ communications equipment rooms, water or sewage treatment pump rooms,
 electric substations, and transformer vaults"
 %}
 
-#### Single Occupant Structures [§203.6]
+#### Single Occupant Structures 
+[[§203.6]({{ site.baseurl }}/ada/ada-203_6)
 
 {% include grid-2col-leftimg-righttextstditalic.html
 img-file= "chapter2-ada/nc11.jpg"
@@ -223,7 +229,7 @@ text2= ""
 
 ### Employee Work Areas
 
-[[§203.9]({{ site.baseurl }}/ada/#203.9-Employee-Work-Areas)]
+[[§203.9]({{ site.baseurl }}/ada/#ada-203_9)]
 
 {% include imgright-italictextbelow.html
 img-file= "chapter2-ada/nc14.jpg"
@@ -319,7 +325,8 @@ the work function (§403.5, §405.5) and permit later installation of ramp
 handrails
 (§405.8).]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc18.jpg){: .img-full}
 
-### Circulation Paths Serving Exempted Spaces [§203]
+### Circulation Paths Serving Exempted Spaces 
+[[§203]({{ site.baseurl }}/ada/ada-203)
 
 {% include grid-2col-left3imgs-righttextstd.html
 img-file1= "chapter2-ada/nc10.jpg"
@@ -333,7 +340,7 @@ text= "Portions of common use circulation paths serving exempt spaces within a w
 
 ### Wiring for Visible Alarms
 
-[[§215.3]({{ site.baseurl }}/ada/#215.3-Employee-Work-Areas)]
+[[§215.3]({{ site.baseurl }}/ada/#ada-215_3)]
 
 ![fire alarm]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc19.jpg){: .float-right .thumbnail}
 

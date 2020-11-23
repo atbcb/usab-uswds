@@ -63,17 +63,17 @@ Elevators are the typical means of providing an accessible route between stories
 
 ### Elevators
 
-[[§407]({{ site.baseurl }}/aba/ch04/#407-Elevators)]
+[[§407]({{ site.baseurl }}/aba/#aba-407)
 
 #### Elevator Landing Requirements
 
-[[§407.2]({{ site.baseurl }}/aba/ch04/#a4072)]
+[[§407.2]({{ site.baseurl }}/aba/#aba-407_2)]
 
 ![Elevator landing showing hall signals located 72” min. high measured to centerline and call buttons with clear floor space and located within reach range measured to centerline.  Details show hall signal visible indicators 2 ½” high min, call buttons ¾” min. in diameter (smallest dimension) that are raised and flush.  Hoistway sign detail show number 2” high min and raised 1/32” with a 3/8” min. separation from braille below and raised borders.  Notes: Hall Signals (§407.2.2) - Required at each hoistway (including elevators with only 2 stops); Indicate car arrival and travel direction (separate fixtures are not required to indicate direction); Visible indicators can be vertical or side-by-side; Visible from area of hall call button, including those in cars (1 in-car lantern is acceptable if visible from the hall call button); Audible signals: one (up)/ two (down) or annunciator; Frequency: 1500 Hz max. (300 – 3,000 Hz verbal annunciator); Signal level: 10 dB min. above ambient, 80 dB max.  Call Controls (§407.2.1) - ithin reach range, measured to centerline of highest operable part; compliant as operable part; Up button above down button; Visual indication of call registered and call answered; Raised from, or flush with, faceplate or, if provided, trim ring or ferrule.  Hoistway Signs (§407.2.3) - Both jambs, 48” – 60” AFF (measured to raised character baseline); Characters and symbols raised 1/32” min., sans serif; Compliance with other requirements in 703.2 for raised characters (upper case, style ,character proportion and spacing, stroke thickness, and line spacing); Grade II braille complying with 703.3 below raised characters; 	Tactile star with braille (“MA’IN’”) required on both jambs at the main entry level]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl2.jpg){: .img-large}
 
 #### Elevator Door Requirements
 
-[[§407.3]({{ site.baseurl }}/aba/ch04/#a4073)]
+[[§407.3]({{ site.baseurl }}/aba/#aba-407_3)]
 
 ![Timing distance shown measured 60” in front of farthest call button controlling car to centerline of hoistway door.  Caption:  Door and Signal Timing (§407.3.4) - Timing begins at audible and visible notification of car arrival based on when the signal becomes visible from the specified location point in front of the call button. At elevators with in-car lanterns, timing begins once doors open wide enough for the signal to be visible from this point. Minimum timing from car arrival notification to start of door closing: D / 1.5 ft/s (no less than 5 sec.)]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl3a.jpg){: .img-large}
 
@@ -81,7 +81,7 @@ Elevators are the typical means of providing an accessible route between stories
 
 ### Elevator Car Requirements
 
-[[§407.4]({{ site.baseurl }}/aba/ch04/#a4074)]
+[[§407.4]({{ site.baseurl }}/aba/#aba-407_4)]
 
 The ABA Standards specify the minimum car dimensions.  Alternative configurations that provide unobstructed wheelchair turning space (60” diameter circle or T-turn) with the doors closed are permitted.
 
@@ -92,7 +92,7 @@ The ABA Standards specify the minimum car dimensions.  Alternative configuratio
    
 #### Elevator Car Requirements
 
-[[§407.4.2]({{ site.baseurl }}/aba/ch04/#a40742) – [§407.4.5]({{ site.baseurl }}/aba/ch04/#a40745)]
+[[§407.4.2]({{ site.baseurl }}/aba/#aba-407_42) – [§407.4.5]({{ site.baseurl }}/aba/#aba-407_45)]
 
 Other requirements for elevator cars include:
 
@@ -107,7 +107,7 @@ Other requirements for elevator cars include:
 
 #### Car Controls
 
-[[§407.4.6]({{ site.baseurl }}/aba/ch04/#a40746) and [§407.4.7]({{ site.baseurl }}/aba/ch04/#a40747)]
+[[§407.4.6]({{ site.baseurl }}/aba/#aba-407_46) and [§407.4.7]({{ site.baseurl }}/aba/#aba-407_47)]
 
 If more than one car control panel is provided in a car, both must comply (except in existing cars where only 1 panel must comply).
 
@@ -119,7 +119,7 @@ If more than one car control panel is provided in a car, both must comply (excep
 
 #### Car Position Indicators
 
-[[§407.4.8]({{ site.baseurl }}/aba/ch04/#a40748)]
+[[§407.4.8]({{ site.baseurl }}/aba/#aba-407_48)]
 
 ![Car position indicators shown above door or above control panel]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl9.jpg){: .img-right}
 
@@ -133,7 +133,7 @@ Position indicators are required for all cars, including those of 2-stop elevato
 
 #### Emergency Communication
 
-[[§407.4.9]({{ site.baseurl }}/aba/ch04/#a40749)]
+[[§407.4.9]({{ site.baseurl }}/aba/#aba-407_49)]
 
 {% include imgright-italictextbelow.html
 img-file= "chapter4/4epl10.jpg"
@@ -204,7 +204,7 @@ text= "For greater usability, make those altered elements covered by an exceptio
 
 ### Limited-Use/ Limited-Application Elevators
 
-[[§408]({{ site.baseurl }}/aba/ch04/#408-Limited-Use-/-Limited-Application-Elevators)]
+[[§408]({{ site.baseurl }}/aba/#aba-408)
 
 LULA elevators are passenger elevators that are permitted in facilities where an accessible route between stories or mezzanines is not required and as an alternative to private residence elevators and platform lifts.  They cannot substitute for elevators complying with §407 that are required to meet requirements for accessible routes.  For the most part, LULAs are held to the same requirements for elevators in §407 and applicable sections of the ASME safety code.  However, LULAs have smaller car sizes, slower speeds, shorter travel distances, and alternative types of doors.  Besides car size, provisions for LULAs differ from those of §407 in that:
 
@@ -217,7 +217,7 @@ LULA elevators are passenger elevators that are permitted in facilities where an
 
 ### Private Residence Elevators
 
-[[§409]({{ site.baseurl }}/aba/ch04/#409-Private-Residence-Elevators)]
+[[§409]({{ site.baseurl }}/aba/#aba-409)
 
 Private residence elevators are permitted only within a residential dwelling unit or in a multiple dwelling unit facility as a means of access to a single private residence. Elevators in residential facilities not located within or serving individual dwelling units must meet requirements in §407.
 
@@ -247,7 +247,7 @@ text= "In alterations, it is advisable that platforms lifts be used only in inst
 
 ### ASME A18.1 Safety Standard
 
-[[§410.1]({{ site.baseurl }}/aba/ch04/#a4101)]
+[[§410.1]({{ site.baseurl }}/aba/#aba-410_1)]
 
 ![ASME A18.1 Safety Standard for Platform Lifts and Stairway Chairlifts]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl18.jpg){: .float-right .thumbnail}
 

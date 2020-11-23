@@ -38,7 +38,7 @@ accessible (§213.2, Ex. 3, §216.8).
 
 #### Unisex (Single-Use or Family) Toilet Rooms
 
-[[§213.2]({{ site.baseurl }}/ada/#213.2-Toilet-Rooms-and-Bathing-Rooms)]
+[[§213.2]({{ site.baseurl }}/ada/#ada-213_2)]
 
 ![Unisex restroom symbol]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/3.png){: .float-right .thumbnail}
 
@@ -59,7 +59,7 @@ one urinal (or a second water closet) (§213.2.1).
 
 #### Medical Care and Long-Term Care Facilities
 
-[[§223.1]({{ site.baseurl }}/ada/#223.1-General), [§805.4]({{ site.baseurl }}/ada/#805.4-Toilet-and-Bathing-Rooms)]
+[[§223.1]({{ site.baseurl }}/ada/#ada-223_1)]
 
 ![medical care icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/4.png){: .float-right .thumbnail}
 
@@ -90,7 +90,7 @@ The Standards specify the location of toilet rooms in two instances:
 
 #### Additions
 
-[[§202.2]({{ site.baseurl }}/ada/#202.2-Additions)]
+[[§202.2]({{ site.baseurl }}/ada/#ada-202_2)]
 
 Additions are required to comply with requirements in the Standards for
 new construction. Each toilet room of an addition must comply as would
@@ -98,7 +98,7 @@ be required in new construction.
 
 #### Alterations
 
-[[§202.3]({{ site.baseurl }}/ada/#202.3-Alterations)]
+[[§202.3]({{ site.baseurl }}/ada/#ada-202_3)]
 
 When existing toilet rooms are altered, the Standards apply according to
 the planned scope of work. If one toilet room on a floor is altered, the
@@ -140,7 +140,7 @@ compliance is still required to the maximum extent feasible.
 
 #### Alterations and Additions to Primary Function Areas
 
-[[§202.4]({{ site.baseurl }}/ada/#202.4-Alterations-Affecting-Primary-Function-Areas)]
+[[§202.4]({{ site.baseurl }}/ada/#ada-202_4)]
 
 When an area containing a primary function (a major activity intended
 for a facility) is altered or added to a facility, an \"accessible path
@@ -157,7 +157,7 @@ travel. See the [Alterations and Additions Guide](../chapter-2-alterations-and-a
 
 #### Alterations to Qualified Historic Facilities
 
-[[§202.5]({{ site.baseurl }}/ada/#202.5-Alterations-to-Qualified-Historic-Buildings-and-Facilities)]
+[[§202.5]({{ site.baseurl }}/ada/#ada-202_5)]
 
 ![historic site]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/6.png){: .float-right .thumbnail}
 
@@ -229,7 +229,7 @@ text= "Locate flush valves and related plumbing to the side of the water closet 
 
 #### Grab Bars
 
-[[§604.5]({{ site.baseurl }}/ada/#604.5-Grab-Bars)]
+[[§604.5]({{ site.baseurl }}/ada/#ada-604_5)]
 
 Grab bars are required to be mounted on the walls beside and behind the
 water closet. They can be separate or continuous. When returned to
@@ -320,7 +320,7 @@ img-alt= "water closet with vertical grab bar above the horizontal side grab bar
 
 #### Toilet Paper Dispensers
 
-[[§604.7]({{ site.baseurl }}/ada/#604.7-Dispensers)]
+[[§604.7]({{ site.baseurl }}/ada/#ada-604_7)]
 
 <div class="clearfix" markdown="1">
 ![toilet paper
@@ -705,7 +705,7 @@ text= "Keep the lavatory outside the water closet clearance so that space is ava
 
 ### Water Closets and Toilet Compartments for Children's Use
 
-[[§604.1]({{ site.baseurl }}/ada/#604.1-General)]
+[[§604.1]({{ site.baseurl }}/ada/#ada-604_1)]
 
 Specifications based on children\'s dimensions can be followed when
 water closets and toilet compartments are designed primarily for use by

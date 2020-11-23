@@ -18,7 +18,7 @@ file-description: PDF version of Chapter 4 Accessible Means of Egress Guide
 
 ### Required Compliance with the IBC
 
-[[§F207]({{ site.baseurl }}/aba/ch02/#F207-Accessible-Means-of-Egress)]
+[[§F207]({{ site.baseurl }}/aba/#aba-f207)
 
 {% include imgright-italictextbelow.html
 img-file= "chapter4/4amoe2.jpg"
@@ -88,7 +88,7 @@ The IBC contains requirements for exit stairway enclosures that address fire and
   
 ### Stairways
 
-[ADA Standards [§F210]({{ site.baseurl }}/aba/ch02/#F210-Stairways), [§504]({{ site.baseurl }}/aba/ch05/#504-Stairways)]
+[ADA Standards [§F210]({{ site.baseurl }}/aba/#aba-f210)
 
 Stairways and handrails that are part of a means of egress are addressed by the IBC (§1009 (2003), §1003.3.3 (2000)).  In addition, interior and exterior stairs that are part of a means of egress must comply with requirements in the ABA Standards (§504).
 
@@ -120,7 +120,7 @@ img-alt= "standpipe"
 
 ### Handrails
 
-[ADA Standards [§504.6]({{ site.baseurl }}/aba/ch05/#a5046),[§505]({{ site.baseurl }}/aba/ch05/#505-Handrails)]
+[ADA Standards [§504.6]({{ site.baseurl }}/aba/#aba-504_6),[§505]({{ site.baseurl }}/aba/#aba-505)
 
 Specifications in the ABA Standards for handrail surfaces and clearances facilitate a power grip along the handrail length. Handrails can have circular or non-circular cross-sections. The gripping surface and adjacent surfaces must be free of abrasive or sharp elements. Handrails cannot rotate within fittings. The IBC also includes requirements for stairway handrails (§1009 (2003), §1003.3.3 (2000)).
 
@@ -213,7 +213,7 @@ Steep terrain and other constraints can make it difficult to provide an accessib
 
 ### Signs
 
-[ADA Standards [§F216]({{ site.baseurl }}/aba/ch02/#F216-Signs), [§703]({{ site.baseurl }}/aba/ch07/#703-Signs)]
+[ADA Standards [§F216]({{ site.baseurl }}/aba/#aba-f216)
 
 The ABA Standards cover tactile and visual features of signs, including those that serve means of egress.  Only certain signs are subject to requirements for tactile and visual access, while a broader range is subject to the visual criteria only.  Tactile signs must include compliant raised characters and braille characters and be located at doors 48” to 60” above the floor or ground (§703.2).  Visual criteria address the height, style, proportion, and spacing of characters, as well as finish and contrast, line spacing, and other features (§703.5).  Tactile and visual requirements can be met on the same sign or on separate signs.
 
@@ -252,7 +252,7 @@ signs, rules of conduct signs, and posted instructions._
 
 ### Pictograms and Symbols of Accessibility
 
-[ADA Standards [§F216.2]({{ site.baseurl }}/aba/ch02/#f2162), [§703.6]({{ site.baseurl }}/aba/ch07/#a7036), [§703.7]({{ site.baseurl }}/aba/ch07/#a7037)]
+[ADA Standards [§F216.2]({{ site.baseurl }}/aba/ch02/#f2162), [§703.6]({{ site.baseurl }}/aba/#aba-703_6), [§703.7]({{ site.baseurl }}/aba/#aba-703_7)]
 
 ![Sign with “STAIRWAY” in raised letter and braille below stair pictogram that is on field at least 6” high.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe26.jpg){: .img-right}
 

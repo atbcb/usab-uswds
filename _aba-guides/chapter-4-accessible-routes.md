@@ -16,7 +16,8 @@ At least one accessible route must be provided within the site to accessible fac
 -   public streets and sidewalks
 -   each public transportation stop.
 
-#### Accessible Routes from Site Arrival Points [§206.2.1]
+#### Accessible Routes from Site Arrival Points 
+[[§206.2.1]({{ site.baseurl }}/aba/#aba-206_2_1)
 
 ![Figure of site with accessible routes shown leading from public sidewalk, parking, and bus stop top facility entrance.  Notes:  Site arrival points include accessible parking spaces and accessible passenger loading zones, public transit stops located on sites, and pubic streets and sidewalks.  An accessible route must connect site arrival points to each accessible entrance they serve.  Accessible routes must coincide with, or be in the same vicinity as, general circulation paths (§206.3).  If no pedestrian route onto a site is provided and site entry is by vehicle only, an accessible route from the site boundary is not required (§206.2.1, Ex. 2).  Where a vehicular way does provide pedestrian access, such as a shopping center parking lot, an accessible route is required.   ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar2ab.jpg){: .img-large}
 
@@ -151,7 +152,7 @@ The ABA Standards also address accessible routes to amusement rides, boating fa
 
 ### Accessible Routes
 
-[[§402]({{ site.baseurl }}/aba/ch04/#402-Accessible-Routes)]
+[[§402]({{ site.baseurl }}/aba/#aba-402)
 
 Components of accessible routes include walking surfaces, doorways, ramps, curb ramps, elevators, and, where permitted, platform lifts.
 
@@ -161,7 +162,7 @@ Components of accessible routes include walking surfaces, doorways, ramps, curb 
 
 ### Clearances
 
-[[§403.5]({{ site.baseurl }}/aba/ch04/#a4035)]
+[[§403.5]({{ site.baseurl }}/aba/#aba-403_5)]
 
 The minimum 36” continuous clear width of accessible routes can reduce to 32” at points, such as doorways, for a maximum distance of 24”.  Greater clearance is required for 180 degree turns around narrow obstructions and for wheelchair turning space.  The minimum clearance cannot be reduced by any elements, including handrails or protruding objects.
 
@@ -175,7 +176,7 @@ Additional clearance is required at 180 degree turns around an element that is l
 
 ### Passing Space
 
-[[§403.5.3]({{ site.baseurl }}/aba/ch04/#a40353)]
+[[§403.5.3]({{ site.baseurl }}/aba/#aba-403_53)]
 
 Passing space is required every 200 feet and must be provided as a 60” by 60” minimum space or as T-shaped space where each stem is at least 48” long.
 
@@ -194,7 +195,7 @@ Passing space is required every 200 feet and must be provided as a 60” by 60�
 
 ### Handrails Along Walking Surfaces
 
-[[§403.6]({{ site.baseurl }}/aba/ch04/#a4036), [§505]({{ site.baseurl }}/aba/ch05/#505-Handrails)]
+[[§403.6]({{ site.baseurl }}/aba/#aba-403_6), [§505]({{ site.baseurl }}/aba/#aba-505)
 
 Handrails are required at ramps with a rise greater than 6” and at stairs that are part of a means of egress, but not at other locations.  Where handrails are provided along other portions walking surfaces, they must comply.  (Handrails provided in elevator cabs or on platform lifts are not required to comply).
 

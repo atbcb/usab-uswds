@@ -17,7 +17,7 @@ Applicable building codes, design practices, and other factors determine the ele
 
 ### Application
 
-[[§F201]({{ site.baseurl }}/aba/ch02/#F201-Application)]
+[[§F201]({{ site.baseurl }}/aba/#aba-f201)
 
 The ABA Standards apply to the various types of federally funded facilities subject to the ABA, from simple structures to complex, multi-facility sites. Requirements in the standards apply to both exterior and interior spaces and elements provided on a site, usually without distinction. Provisions for parking, for example, apply equally to exterior lots and to parking garages. The standards cover permanent facilities and temporary facilities (other than those used in construction), such as reviewing stands, stages, portable toilets, and temporary classrooms.
 
@@ -28,7 +28,7 @@ In new construction, all areas must be fully accessible, including multiple spac
 
 ### General Exceptions
 
-[[§F203]({{ site.baseurl }}/aba/ch02/#F203-General-Exceptions)]
+[[§F203]({{ site.baseurl }}/aba/#aba-f203)
 
 These structures and spaces are fully exempt from the standards and are not required to be accessible or on an accessible route:
 
@@ -102,7 +102,7 @@ These structures and spaces are also exempt:
 
 ### Scoping Requirements
 
-[[§F204]({{ site.baseurl }}/aba/ch02/#F204-Protruding-Objects) – [§F248]({{ site.baseurl }}/aba/ch02/#F248-Beach-Access-Routes)]
+[[§F204]({{ site.baseurl }}/aba/#aba-f204)
 
 Scoping provisions for elements and spaces, which are summarized here, are further discussed with relevant technical provisions in the following chapters of this guide.
 
