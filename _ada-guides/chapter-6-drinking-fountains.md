@@ -134,7 +134,7 @@ and 5" max. from the unit's front edge.]({{ site.baseurl }}{{ page.image-directo
 
 #### Clear Floor or Ground Space
 
-[[§602.2]({{ site.baseurl }}/ada/#602.2-Clear-Floor-Space)]
+[[§602.2]({{ site.baseurl }}/ada/#ada-602_2)]
 
 Clear floor or ground space for a forward approach must be centered on
 the unit. Additional clearance is required if the space is obstructed on
@@ -184,7 +184,7 @@ the leading edge of the unit, including bumpers.
 
 ### Drinking Fountains for Standing Persons
 
-[[§602.7]({{ site.baseurl }}/ada/#602.7-Drinking-Fountains-for-Standing-Persons)]
+[[§602.7]({{ site.baseurl }}/ada/#ada-602_7)]
 
 Drinking fountains for standing persons must have spouts 38\" to 43\"
 high and compliant operable parts and be located on an accessible route.
@@ -208,7 +208,7 @@ text= "Although cantilevered units for standing persons with knee and toe space 
 
 ### Drinking Fountains as Protruding Objects
 
-[[§602.1]({{ site.baseurl }}/ada/#602.1-General)]
+[[§602.1]({{ site.baseurl }}/ada/#ada-602_1)]
 
 Requirements for protruding objects (§307) apply to drinking fountains.
 Drinking fountains with leading edges higher than 27\" must be recessed

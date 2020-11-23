@@ -212,7 +212,7 @@ img-alt= "standpipe"
 
 ### Handrails
 
-[ADA Standards [§504.6]({{ site.baseurl }}/ada/#504.6-Handrails),[§505]({{ site.baseurl }}/ada/#ada-505)]
+[ADA Standards [§504.6]({{ site.baseurl }}/ada/#ada-504_6)]
 
 Specifications in the ADA Standards for handrail surfaces and clearances
 facilitate a power grip along the handrail length. Handrails can have
@@ -421,7 +421,7 @@ separate signs.
 
 ### Tactile and Visual Signs
 
-[ADA Standards [§216.2]({{ site.baseurl }}/ada/#216.2-Designations), [§216.4.1]({{ site.baseurl }}/ada/#ada-216_4_1)]
+[ADA Standards [§216.2]({{ site.baseurl }}/ada/#ada-216_2)]
 
 The IBC requires exits and exit access doors to be marked by illuminated
 exit signs (§1011, §1003.2.10). In addition, the IBC requires a tactile
@@ -452,7 +452,7 @@ _Exit signs (located at exits) and signs identifying permanent spaces, such as s
 
 ### Visual Signs
 
-[ADA Standards [§216.3]({{ site.baseurl }}/ada/#216.3-Directional-and-Informational-Signs), [§216.4.3]({{ site.baseurl }}/ada/#ada-216_4_3)]
+[ADA Standards [§216.3]({{ site.baseurl }}/ada/#ada-216_3)]
 
 Signs providing direction to, or information about, interior rooms and
 spaces must meet visual criteria in the ADA Standards, but are not
@@ -484,7 +484,7 @@ informational signs, rules of conduct signs, and posted instructions._
 
 ### Pictograms and Symbols of Accessibility 
 
-[ADA Standards [§216.2]({{ site.baseurl }}/ada/#216.2-Designations), [§703.6]({{ site.baseurl }}/ada/#703.6-Pictograms), [§703.7]({{ site.baseurl }}/ada/#703.7-Symbols-of-Accessibility)]
+[ADA Standards [§216.2]({{ site.baseurl }}/ada/#ada-216_2)]
 
 ![Sign with "STAIRWAY" in raised letter and braille below stair
 pictogram that is on field at least 6"

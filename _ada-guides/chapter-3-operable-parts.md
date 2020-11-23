@@ -75,7 +75,7 @@ access.
 
 ### Clear Floor Space
 
-[[§309.2]({{ site.baseurl }}/ada/#309.2-Clear-Floor-Space)]
+[[§309.2]({{ site.baseurl }}/ada/#ada-309_2)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -103,7 +103,7 @@ access.
 
 ### Forward Reach
 
-[[§308.2]({{ site.baseurl }}/ada/#308.2-Forward-Reach)]
+[[§308.2]({{ site.baseurl }}/ada/#ada-308_2)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -137,7 +137,7 @@ depth of reach.
 
 ##### Clear Floor Space
 
-[[§309.2]({{ site.baseurl }}/ada/#309.2-Clear-Floor-Space)]
+[[§309.2]({{ site.baseurl }}/ada/#ada-309_2)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -161,7 +161,7 @@ space.
 
 ### Side Reach
 
-[[§308.3]({{ site.baseurl }}/ada/#308.3-Side-Reach)]
+[[§308.3]({{ site.baseurl }}/ada/#ada-308_3)]
 
 <div class="grid-container">
     <div class="grid-row">
@@ -222,7 +222,7 @@ recommended according to three age groups.
 
 ### Operation
 
-[[§309.4]({{ site.baseurl }}/ada/#309.4-Operation)]
+[[§309.4]({{ site.baseurl }}/ada/#ada-309_4)]
 
 <div class="clearfix">
 <div class="img-right img-medium">

@@ -229,7 +229,7 @@ text2= ""
 
 ### Employee Work Areas
 
-[[§203.9]({{ site.baseurl }}/ada/#203.9-Employee-Work-Areas)]
+[[§203.9]({{ site.baseurl }}/ada/#ada-203_9)]
 
 {% include imgright-italictextbelow.html
 img-file= "chapter2-ada/nc14.jpg"
@@ -340,7 +340,7 @@ text= "Portions of common use circulation paths serving exempt spaces within a w
 
 ### Wiring for Visible Alarms
 
-[[§215.3]({{ site.baseurl }}/ada/#215.3-Employee-Work-Areas)]
+[[§215.3]({{ site.baseurl }}/ada/#ada-215_3)]
 
 ![fire alarm]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc19.jpg){: .float-right .thumbnail}
 
