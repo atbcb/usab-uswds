@@ -8,27 +8,25 @@ image-directory: /images/ict
 file: ict-final-rule.pdf
 file-description: Single file PDF version of the Revised 508 Standards and 255 Guidelines
 redirect_from:
+ - /508/
+ - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/
+ - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/
  - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/single-file-version/
+ - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule/
+ - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines/
 ---
-
 {% assign ict-chapters = site.ict | where: "title","About the ICT Accessiblity 508 Standards and 255 Guidelines" %}
 {% for chapter in ict-chapters %}
 	<h2 id="about-the-ict-accessibility-standards">{{chapter.title}}</h2>
     <div>{{chapter.content | markdownify}}</div>
 {% endfor %}
-
 <hr>
-
 {% assign ict-chapters = site.ict | where: "title","Preamble to the Final Rule" %}
 {% for chapter in ict-chapters %}
-    
     <div class="usa-prose">{{chapter.content}}</div>
 {% endfor %}
-
 <hr>
-
-<!-- STANDARDS -->
-                           
+<!-- STANDARDS -->                           
 <div>
 	<div id="appendixA">
     	<h1>Appendix A to Part 1194 – Section 508 of the Rehabilitation Act: Application and Scoping Requirements</h1>
@@ -865,11 +863,8 @@ redirect_from:
 			</div> <!-- end 508 chapter 7 -->	
 	</div> <!-- end Appendix C -->
 	<hr>
-
 	{% assign ict-chapters = site.ict | where: "title","Original 508 Standards (2000)" %}
 	{% for chapter in ict-chapters %}
-		
 		<div class="usa-prose">{{chapter.content}}</div>
 	{% endfor %}	
-	
 </div> <!-- end -->
