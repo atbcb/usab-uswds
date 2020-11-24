@@ -22,7 +22,7 @@ The Section 255 Guidelines cover telecommunications equipment and customer-premi
 * December 8, 2011 - The Board issues a [revised draft proposed rule](https://federalregister.gov/d/2011-31462) for public comment, [docket ATBCB-2011-0007](https://www.regulations.gov/docket?D=ATBCB-2011-0007), [beta](https://beta.regulations.gov/docket/ATBCB-2011-0007).
 * February 27, 2015 - The Board [ICT proposed rule](https://federalregister.gov/d/2015-03467) for public comment, [docket ATBCB-2015-0002](https://www.regulations.gov/docket?D=ATBCB-2015-0002), [beta](https://beta.regulations.gov/docket/ATBCB-2015-0002).
 * January 18, 2017 - The Board issues the [final rule](https://federalregister.gov/d/2017-00395), [beta docket ATBCB-2015-0002-014](https://beta.regulations.gov/document/ATBCB-2015-0002-0144).
-* January 22, 2018 - The Board issues [correctionto the final rule](https://federalregister.gov/d/2018-00848) to restore provisions for TTY access, [beta docket ATBCB-2015-0002-0146](https://beta.regulations.gov/document/ATBCB-2015-0002-0146).
+* January 22, 2018 - The Board issues [correction to the final rule](https://federalregister.gov/d/2018-00848) to restore provisions for TTY access, [beta docket ATBCB-2015-0002-0146](https://beta.regulations.gov/document/ATBCB-2015-0002-0146).
 
 ### Additional Resources
 
