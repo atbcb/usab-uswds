@@ -1,5 +1,5 @@
 ---
-title: About the ICT Accessiblity 508 Standards and 255 Guidelines
+title: About the ICT Accessibility 508 Standards and 255 Guidelines
 permalink: /ict/about.html
 version: original
 file: /files/ict/ict-final-rule.pdf
