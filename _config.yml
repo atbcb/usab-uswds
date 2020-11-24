@@ -477,5 +477,5 @@ assets:
     - node_modules/jquery-toast-plugin/dist
     - node_modules/@fortawesome/fontawesome-free/css
     - node_modules/@fortawesome/fontawesome-free/js
-    - node_modules/swiper/bundle
+    - node_modules/swiper
     - images

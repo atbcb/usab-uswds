@@ -1,13 +1,26 @@
-// import Swiper bundle with all modules installed
-import Swiper from 'swiper/bundle';
-
-// init Swiper:
-const swiper = new Swiper(...);
 
 var mySwiper = new Swiper('.swiper-container', {
     // Optional parameters
-    direction: 'vertical',
+    direction: 'horizontal',
     loop: true,
+    slidesPerView: 1,
+    spaceBetween: 30,
+    // Responsive breakpoints
+    breakpoints: {
+      // when window width is >= 640px
+      640: {
+        slidesPerView: 3,
+        spaceBetween: 30
+      },
+      // when window width is >=  1024px
+      1024: {
+        slidesPerView: 5,
+        spaceBetween: 30
+      }
+    },
+    keyboard: {
+      enabled: true,
+    },
   
     // If we need pagination
     pagination: {
