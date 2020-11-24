@@ -4,12 +4,7 @@ permalink: /ict/about.html
 version: original
 file: /files/ict/ict-final-rule.pdf
 redirect_from:
-    - /508/
-    - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/
     - /guidelines-and-standards/communications-and-it/about-the-section-508-standards/
-    - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/
-    - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule/
-    - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule/text-of-the-standards-and-guidelines/
 ---
 These standards address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. 
 
@@ -34,4 +29,3 @@ The Section 255 Guidelines cover telecommunications equipment and customer-premi
 * Final Regulatory Impact Analysis ([FRIA]({{ site.baseurl }}/ict/fria.html))
 * [Comparison Table of WCAG 2.0 to Existing 508 Standards]({{ site.baseurl }}/ict/wcag2ict.html)
 * [Mapping of WCAG 2.0 to Functional Performance Criteria](https://section508.gov/content/mapping-wcag-to-fpc)
-
