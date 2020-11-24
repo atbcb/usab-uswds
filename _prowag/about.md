@@ -44,3 +44,5 @@ The Access Board issued proposed guidelines for public comment.  The Board is 
 
 ### Additional Resources
 - Public Rights-of-Way Access Advisory Committee (PROWAAC)  releases a Special Report on [Planning and Design for Alterations](/prowag/planning-and-design-for-alterations/)
+
+- [Detectable Warnings Update](/prowag/other/dw-update.html) (March 2014)
