@@ -3,6 +3,8 @@ title: Information and Communication Technology
 layout: page
 sidenav: false
 permalink: /ict.html
+redirect_from:
+ - /guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-final-rule/
 ---
 {% asset stock/ict.jpg class="img-right shadow radius-lg" alt="photo of hands typing on braille keyboard" %}
 
