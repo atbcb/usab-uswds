@@ -7,38 +7,54 @@
   youtube-url: https://www.youtube.com/watch?v=dF7et0KQ3rg
   video-file: /files/videos/wheelchair_maneuvering.mp4
   caption-file: /files/captions/wheelchair_maneuvering.vtt
+  image: /images/animations/wc-video.jpg
+  url: /ada/guides/animations/wheelchair-maneuvering.html
 
 - video-name: Maneuvering at Doors
   youtube-url: https://www.youtube.com/watch?v=CZw9VtR0wS8
   video-file: /files/videos/maneuvering_doors.mp4
   caption-file: /files/captions/maneuvering_doors.vtt
+  image: /images/animations/doors-video.jpg
+  url: /ada/guides/animations/maneuvering-at-doors.html
 
 - video-name: Protruding Objects
   youtube-url: https://www.youtube.com/watch?v=TSA9gkC_KLc
   video-file: /files/videos/protruding_objects.mp4
   caption-file: /files/captions/protruding_objects.vtt
+  image: /images/animations/po-video.jpg
+  url: /ada/guides/animations/wheelchair-maneuvering.html
 
 - video-name: Signs
   youtube-url: https://www.youtube.com/watch?v=nyo-fGgwWQo
   video-file: /files/videos/signs.mp4
   caption-file: /files/captions/signs.vtt
+  image: /images/animations/signs-video.jpg
+  url: /ada/guides/animations/wheelchair-maneuvering.html
 
 - video-name: Accessible Toilet Rooms
   youtube-url: https://www.youtube.com/watch?v=Jl_wFePnsOA
   video-file: /files/videos/toilet_rooms.mp4
   caption-file: /files/captions/toilet_rooms.vtt
+  image: /images/animations/toiletrooms-video.jpg
+  url: /ada/guides/animations/wheelchair-maneuvering.html
 
 - video-name: Accessible Bathing Facilities
   youtube-url: https://www.youtube.com/watch?v=Q4llEaBkTSQ
   video-file: /files/videos/bathing_facilities.mp4
   caption-file: /files/captions/bathing_facilities.vtt
+  image: /images/animations/bathing-video.jpg
+  url: /ada/guides/animations/wheelchair-maneuvering.html
 
 - video-name: Sales and Service Counters
   youtube-url: https://www.youtube.com/watch?v=w2cnj8SC6Ac
   video-file: /files/videos/counters.mp4
   caption-file: /files/captions/counters.vtt
+  image: /images/animations/counters-video.jpg
+  url: /ada/guides/animations/wheelchair-maneuvering.html
 
 - video-name: Parking and Pasenger Loading Zones
   youtube-url: https://www.youtube.com/watch?v=AQUINJ-NNIo
   video-file: /files/videos/parking_plz.mp4
   caption-file: /files/captions/parking_plz.vtt
+  image: /images/animations/parking-plz.jpg
+  url: /ada/guides/animations/wheelchair-maneuvering.html

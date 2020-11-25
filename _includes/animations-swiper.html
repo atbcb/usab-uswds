@@ -5,24 +5,14 @@
             <!-- Additional required wrapper -->
             <div class="swiper-wrapper">
                 <!-- Slides -->
-                <div class="swiper-slide">Accessibility<br>Animations</div>
-                <div class="swiper-slide" style="background-image: url({{ site.baseurl }}/images/animations/bathing-video.jpg);">Bathing</div>
-                <div class="swiper-slide" style="background-image: url({{ site.baseurl }}/images/animations/counters-video.jpg);">
-                    <a href="{{ site.baseurl }}/ada/guides/animations/" class="style-inherit height-full width-full">
-                        Sales & Service Counters
-                    </a>
-                </div>
-                <div class="swiper-slide">
-                    <a href="{{ site.baseurl }}/ada/guides/animations/" class="style-inherit">
-                        <div class="height-10 radius-lg">
-                            <img src="{{ site.baseurl }}/images/animations/sales.jpg">
-                             
-                        </div>
-                    </a>
-                </div>
-                <a href="{{ site.baseurl }}/ada/guides/animations/" class="swiper-slide" style="background-image: url({{ site.baseurl }}/images/animations/po-video.jpg);">Link Box</a>
-                <div class="swiper-slide">Slide 6</div>
-                ...
+                {% for video in site.data.ada-animations %}
+                <a href="{{ site.baseurl }}{{ video.url }}"
+                    class="swiper-slide"
+                    style="background-image: url({{ site.baseurl }}{{ video.image }});"
+                    >
+                    <span class="padding-2 opacity-70 bold text-white text-no-underline bg-black">{{ video.video-name }}</span>
+                </a>
+                {% endfor %}
             </div>
             <!-- If we need pagination -->
             <div class="swiper-pagination"></div>
