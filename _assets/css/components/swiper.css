@@ -43,7 +43,15 @@
     opacity: 85%;
 }
 
-a.swiper-slide{
+.swiper-pagination {
+    position: static;
+}
+
+.swiper-pagination-bullet {
+    background: white;
+}
+
+a.swiper-slide {
     text-decoration: none;
 }
 
