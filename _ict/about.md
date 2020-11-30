@@ -1,10 +1,7 @@
 ---
 title: About the ICT Accessibility 508 Standards and 255 Guidelines
-permalink: /ict/about.html
 version: original
 file: /files/ict/ict-final-rule.pdf
-redirect_from:
-    - /guidelines-and-standards/communications-and-it/about-the-section-508-standards/
 ---
 These standards address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. 
 
