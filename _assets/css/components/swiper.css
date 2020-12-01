@@ -62,3 +62,9 @@ a.swiper-slide {
     background-color: black;
     opacity: 70%;
  }
+
+.filmstrip {
+  height: 1rem;
+  background: repeating-linear-gradient(90deg, black, black 70%, white, white 100%);
+  background-size: 4rem;
+}
