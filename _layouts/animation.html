@@ -1,0 +1,6 @@
+---
+layout: base
+---
+{% capture caption_path %}{{ site.baseurl }}{{ video.caption-file }}{% endcapture %}
+{% capture video_path %}{{ site.baseurl }}{{ video.video-file }}{% endcapture %}
+{% include video/video-file-player.html name=video.video-name video_path=video_path caption_path=caption_path %}
