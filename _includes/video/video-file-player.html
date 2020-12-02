@@ -3,6 +3,7 @@
   id="{{ include.name | replace: " ", "-" }}-video"
   class="video-js vjs-default-skin vjs-fluid"
   data-setup='{}'
+  poster="{{ site.baseurl }}{{ include.image }}"
   controls
   fluid
   preload

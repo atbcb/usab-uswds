@@ -217,6 +217,7 @@ defaults:
       type: "animations"
     values:
       layout: animation
+      banner-title: Accessibility Animations
   - scope:
       path: ""
       type: "aba"
