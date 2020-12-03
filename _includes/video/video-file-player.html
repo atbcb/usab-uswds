@@ -8,6 +8,6 @@
   fluid
   preload
 >
-  <source src="{{ include.video_path }}" type="video/mp4" />
-  <track src="{{ include.caption_path }}" kind="captions" srclang="en" default="default" ></track>
+  <source src="{{ site.baseurl }}{{ include.video_path }}" type="video/mp4" />
+  <track src=" {{ site.baseurl }}{{ include.caption_path }}" kind="captions" srclang="en" default="default" ></track>
 </video>

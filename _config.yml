@@ -216,7 +216,8 @@ defaults:
       path: ""
       type: "animations"
     values:
-      layout: animation
+      layout: page-right-sidenav
+      right-sidenav: sidenav-animations.html
       banner-title: Accessibility Animations
   - scope:
       path: ""
