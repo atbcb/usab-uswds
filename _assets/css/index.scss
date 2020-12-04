@@ -100,6 +100,10 @@ table.par caption, table.par-money caption, table.par-prose caption {
 	font-weight: bold;
 	text-align: left;
 }
+table.par thead th, table.par-money thead th, table.par thead par-prose {
+	padding-left: 1em;
+	padding-right: 1em;
+}
 table.par thead th, table.par-money thead th {
 	color: white;
 	background-color: color(primary);
@@ -129,8 +133,6 @@ table.par-prose thead th {
 	color: black;
 	background-color: color(primary-lighter);
 	border-bottom: medium solid color(primary);
-	padding-left: 1em;
-	padding-right: 1em;
 }
 table.par-prose tbody th {
 	text-align: left;
