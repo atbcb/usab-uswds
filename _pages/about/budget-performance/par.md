@@ -10,7 +10,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 # {{ page.title }} Fiscal Year 2020
 
 <h2 id="_Toc56977622">Message From the Chair</h2>
-<p> <img width="127" height="169" src="./images/lance-robertson.jpg" alt="Lance Robertson photo" style="float:left"> I am honored to present the Fiscal Year 2020 Performance and Accountability Report (PAR) of the United States Access Board.&nbsp; This report provides information about our financial and programmatic performance, as well as insight into our stewardship of taxpayer dollars and the resources entrusted to the Access Board.</p>
+<p> <img src="{{ site.baseurl }}/images/robertson-hhs.jpg" alt="Lance Robertson photo" style="float:left"> I am honored to present the Fiscal Year 2020 Performance and Accountability Report (PAR) of the United States Access Board.&nbsp; This report provides information about our financial and programmatic performance, as well as insight into our stewardship of taxpayer dollars and the resources entrusted to the Access Board.</p>
 <p>Established nearly 50 years ago, the mission of the Access Board is to promote equality for people with disabilities through leadership in accessible design, education and research, and enforcement of the Architectural Barriers Act.</p>
 <p>Despite the challenges posed by the novel coronavirus pandemic, Fiscal Year 2020 was a year of continuing success.&nbsp; We started the process of &ldquo;refreshing&rdquo; our accessibility guidelines for rail vehicles to keep pace with changing technologies and harmonize with current consensus standards.&nbsp; We expanded our remote training and technical assistance capabilities, which resulted in a 20% increase in training attendance compared to last fiscal year.&nbsp; Our ABA enforcement program closed nearly 170 cases, with 55 resulting in removal of accessibility barriers at federal facilities across the country, from post offices to a VA medical center.&nbsp; And we celebrated the 30<sup>th</sup> anniversary of the Americans with Disabilities Act with a virtual event that drew nearly 1,000 participants.&nbsp; We will continue to strive for excellence in fulfilling our responsibilities to ensure equality and access for people with disabilities.</p>
 <p>I am also pleased to report that, for FY 2020, the Access Board received an unmodified (clean) audit opinion, which represents more than a decade of such opinions.&nbsp; Brown &amp; Company, an independent public accounting firm, audited the Access Board&rsquo;s FY 2020 consolidated financial statements &mdash; which are included in this report &mdash; and did not identify any material weaknesses or significant deficiencies.&nbsp; The Access Board strives to be an outstanding steward of taxpayer funds and prioritizes stringent financial management in carrying out its mission.</p>
@@ -549,7 +549,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 <hr />
 <h2 id="_Toc56977635">Part Three: Financial Information</h2>
 <h3 id="_Toc56977636">Independent Auditor&rsquo;s Report</h3>
-<p style="text-align: center;"><img src="./images/bc-header.png" alt="Brown &amp; Company header -- Certified Public Accountants and Management Consulttants, PLLC" width="675" height="100" /><br />
+<p style="text-align: center;"><img src="{{ site.baseurl }}/images/bc-header.png" alt="Brown &amp; Company header -- Certified Public Accountants and Management Consulttants, PLLC" width="675" height="100" /><br />
   <b>INDEPENDENT AUDITOR&rsquo;S REPORT</b></p>
 <p>United States Access Board<br>
   Washington, D.C.</p>
@@ -598,7 +598,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 <p>Our tests for compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements disclosed no instances of noncompliance for fiscal year 2020 that would be reportable under U.S. generally accepted government auditing standards. However, the objective of our tests was not to provide an opinion on compliance with laws, regulations, contracts, and grant agreements applicable to USAB. Accordingly, we do not express such an opinion.</p>
 <h5>Intended Purpose of Report on Compliance with Laws, Regulations, Contracts, and Grant Agreement</h5>
 <p>The purpose of this report is solely to describe the scope of our testing of compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements, and the results of that testing, and not to provide an opinion on compliance. This report is an integral part of an audit performed in accordance with U.S. generally accepted government auditing standards in considering compliance. Accordingly, this report on compliance with laws, regulations, contracts, and grant agreements is not suitable for any other purpose.</p>
-<p style="margin-top: -1em"><img src="./images/bc-sig.png" alt="Brown &amp; Company signature" width="222" height="99" /></p>
+<p style="margin-top: -1em"><img src="{{ site.baseurl }}/images/bc-sig.png" alt="Brown &amp; Company signature" width="222" height="99" /></p>
 <p style="margin-top: -3em">Greenbelt, Maryland<br />
   &nbsp; November 12, 2020</p>
 <p>&nbsp; </p>
@@ -968,7 +968,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 <p>The accompanying notes are an integral part of these financial statements.</p>
 <hr />
 <h3 id="_Toc56977638">Notes on Financial Statements</h3>
-<p style="text-align:center"> <img src="./images/notes-header.jpg" alt="photo of calculator, paper spreadsheet, and pen" width="816" height="166" /> <br>
+<p style="text-align:center"> <img src="{{ site.baseurl }}/images/notes-header.jpg" alt="photo of calculator, paper spreadsheet, and pen" width="816" height="166" /> <br>
   <strong>ACCESS BOARD <br />
   NOTES TO THE FINANCIAL STATEMENTS</strong> </p>
 <h4 id="n1">NOTE 1.&nbsp; SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES</h4>
