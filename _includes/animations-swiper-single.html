@@ -10,10 +10,10 @@
                     <!-- Slides -->
                     {% for video in site.animations %}
                     <a href="{{ site.baseurl }}{{ video.url }}"
-                        class="swiper-slide"
+                        class="swiper-slide swiper-slide-custom-single"
                         style="background-image: url({{ site.baseurl }}{{ video.image }});"
                         >
-                        <span class="label-overlay">{{ video.title }}</span>
+                        <span class="label-overlay font-sans-xl">{{ video.title }}</span>
                     </a>
                     {% endfor %}
                 </div>
@@ -28,6 +28,6 @@
                 <!-- <div class="swiper-scrollbar"></div> -->
             </div>
         </div>
-        <div class="filmstrip margin-top-2"></div>
+        <div class="filmstrip margin-top-4"></div>
     </div>
 </section>

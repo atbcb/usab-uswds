@@ -2,7 +2,7 @@
 var mySwiper = new Swiper('.swiper-homepage', {
     // Optional parameters
     direction: 'horizontal',
-    loop: true,
+    loop: false,
     slidesPerView: 1,
     spaceBetween: 30,
     // Responsive breakpoints
