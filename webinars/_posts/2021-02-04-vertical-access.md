@@ -13,6 +13,7 @@ excerpt: >-
   submitted in advance of the session or can be posed during the live webinar.
   Webinar attendees can earn continuing education credits.
 presenters:
+  - randall-duchesneau
   - josh-schorr
 tags:
   - ABA
