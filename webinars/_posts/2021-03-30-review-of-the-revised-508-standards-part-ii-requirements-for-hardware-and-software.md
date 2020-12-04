@@ -19,6 +19,8 @@ excerpt: >-
   the live webinar. Webinar attendees can receive a participation certificate.
 presenters:
   - bruce-bailey
+  - tim-creagan
+  - katherine-eng
 tags:
   - webinar
   - '508'
