@@ -127,7 +127,7 @@ This resulted in a historic level of harmonization between the Board’s guideli
 
 ## 2010 – Board Addresses Access to Medical Diagnostic Equipment
 
-![photo of President Barak Obama signing the Affordable Care Ac]({{ site.baseurl }}/images/aca-bill-signing.jpg){: .float-right }
+![photo of President Barak Obama signing the Affordable Care Act]({{ site.baseurl }}/images/aca-bill-signing.jpg){: .float-right }
 
 On March 23, 2010, President Barack Obama signed into law <q>The Patient Protection and Affordable Care Act</q> to reform and extend the provision of health care.&nbsp;
 The law includes a provision to amend the Rehabilitation Act to address access to medical diagnostic equipment, including examination tables and chairs, weight scales, x-ray machines and other radiological equipment, and mammography equipment.&nbsp;
