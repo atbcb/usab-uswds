@@ -4,6 +4,8 @@ layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/par.html
+file: par-fy2020.pdf
+file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2020
 ---
 # {{ page.title }} Fiscal Year 2020
 
