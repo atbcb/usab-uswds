@@ -9,13 +9,16 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 ---
 # {{ page.title }} Fiscal Year 2020
 
-<h2 id="_Toc56977622">Message From the Chair</h2>
-<p> <img src="{{ site.baseurl }}/images/robertson-hhs.jpg" alt="Lance Robertson photo" style="float:left"> I am honored to present the Fiscal Year 2020 Performance and Accountability Report (PAR) of the United States Access Board.&nbsp; This report provides information about our financial and programmatic performance, as well as insight into our stewardship of taxpayer dollars and the resources entrusted to the Access Board.</p>
+## Message From the Chair
+
+{% asset robertson-hhs.jpg class="img-left shadow radius-lg" alt="Lance Robertson photo" %}
+
+<p>I am honored to present the Fiscal Year 2020 Performance and Accountability Report (PAR) of the United States Access Board.&nbsp; This report provides information about our financial and programmatic performance, as well as insight into our stewardship of taxpayer dollars and the resources entrusted to the Access Board.</p>
 <p>Established nearly 50 years ago, the mission of the Access Board is to promote equality for people with disabilities through leadership in accessible design, education and research, and enforcement of the Architectural Barriers Act.</p>
 <p>Despite the challenges posed by the novel coronavirus pandemic, Fiscal Year 2020 was a year of continuing success.&nbsp; We started the process of &ldquo;refreshing&rdquo; our accessibility guidelines for rail vehicles to keep pace with changing technologies and harmonize with current consensus standards.&nbsp; We expanded our remote training and technical assistance capabilities, which resulted in a 20% increase in training attendance compared to last fiscal year.&nbsp; Our ABA enforcement program closed nearly 170 cases, with 55 resulting in removal of accessibility barriers at federal facilities across the country, from post offices to a VA medical center.&nbsp; And we celebrated the 30<sup>th</sup> anniversary of the Americans with Disabilities Act with a virtual event that drew nearly 1,000 participants.&nbsp; We will continue to strive for excellence in fulfilling our responsibilities to ensure equality and access for people with disabilities.</p>
 <p>I am also pleased to report that, for FY 2020, the Access Board received an unmodified (clean) audit opinion, which represents more than a decade of such opinions.&nbsp; Brown &amp; Company, an independent public accounting firm, audited the Access Board&rsquo;s FY 2020 consolidated financial statements &mdash; which are included in this report &mdash; and did not identify any material weaknesses or significant deficiencies.&nbsp; The Access Board strives to be an outstanding steward of taxpayer funds and prioritizes stringent financial management in carrying out its mission.</p>
 <p>The outstanding performance described in the pages that follow is a testament to the dedicated efforts of the Board, its career staff, and our federal partners.&nbsp; As we closed the books on FY 2020, the Access Board is well positioned to meet the challenges that lie ahead.</p>
-<p><img width="193" height="57" src="./images/lr-sig.png" alt="Lance Robertson signature"></p>
+<p><img width="193" height="57" src="{{ site.baseurl }}/images/lr-sig.png" alt="Lance Robertson signature"></p>
 <p style="margin-top:-32px">____________________________</p>
 <p>Lance Robertson</p>
 <p>Chair</p>
@@ -24,7 +27,6 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 <hr />
 <h3 id="toc">Table of Contents</h3>
 <ul>
-  <li><a href="#_Toc56977622">Message From the Chair</a></li>
   <li><a href="#_Toc56977623">Part 1: Management Discussion and Analysis</a>
     <ul>
       <li><a href="#_Toc56977624">Mission</a></li>
