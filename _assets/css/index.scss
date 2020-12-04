@@ -88,28 +88,77 @@ ol li ol li ol li {
   list-style-type: lower-roman;
 }
 
-// unformated tables should look more like they do in GitHub preview
-table {
-  margin-top:1em;
-  margin-bottom:1em;
+// table styles for Performance and Accountability Report
+table.par, table.par-money, table.par-prose {
+	border: none;
+	border-collapse: collapse;
+	margin-left: auto;
+	margin-right: auto;
+	padding-bottom: 1em;
 }
-table, thead, tbody, tr, th, td {
-  border-collapse: collapse;
+table.par caption, table.par-money caption, table.par-prose caption {
+	font-weight: bold;
+	text-align: left;
 }
-td {
-  border: thin solid black;
-  vertical-align: top;
-  padding-left:0.5em;
-  padding-right:0.25em;
+table.par thead th, table.par-money thead th {
+	color: white;
+	background-color: color(primary);
 }
-th {
-  background-color: color(gray-cool-10);
-  border: thin solid black;
-  padding-left:0.25em;
-  padding-right:0.125em;
+table.par th, table.par td, table.par-money th, table.par-money td {
+	border: thin solid color(primary);
 }
-tr:nth-child(even) {
-  background-color: color(gray-cool-5);
+table.par td {
+	text-align: center;
+}
+table.par-money td {
+	text-align: right;
+}
+table.par tbody th, table.par tfoot th, table.par td:first-child, table.par-money tbody th, table.par-money tfoot th, table.par-money td:first-child {
+	text-align: left;
+}
+table.par tr:nth-child(odd), table.par-money tr:nth-child(odd) {
+ background-color: color(primary-lighter);
+}
+table.par-money tfoot tr:first-child {
+	border-top: medium solid color(primary);
+}
+table.par tfoot td, table.par-money tfoot td {
+	font-weight: bold;
+}
+table.par-prose thead th {
+	color: black;
+	background-color: color(primary-lighter);
+	border-bottom: medium solid color(primary);
+	padding-left: 1em;
+	padding-right: 1em;
+}
+table.par-prose tbody th {
+	text-align: left;
+	border-top: thin solid color(primary);
+	border-bottom: thin solid color(primary);
+}
+table.par-prose tbody td {
+	text-align: center;
+	border-left: thin solid color(primary);
+	border-top: thin solid color(primary);
+	border-bottom: thin solid color(primary);
+}
+table.par-prose td:first-child {
+	text-align: left;
+	border-left: none;
+}
+ul.check {
+	list-style: none;
+}
+ul.check li:before {
+	content: '✓ ';
+}
+ul.check li {
+	text-indent: -1em;
+}
+td ul.check {
+	text-align: left;
+	margin-left: -1em;
 }
 
 // Page header USAB logo override
@@ -434,8 +483,6 @@ a.style-inherit {
   color: inherit; // blue colors for links too
   text-decoration: inherit; // no underline
 }
-
-
 
 //table of contents styling
 .toc-subnav .usa-accordion__button {
