@@ -135,7 +135,7 @@ landing.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr8.jpg){: .img
 
 ### Handrails
 
-[[§405.8]({{ site.baseurl }}/ada/#405.8-Handrails]
+[[§405.8]({{ site.baseurl }}/ada/#405.8-Handrails)]
 
 Handrails are required on both sides of ramps with a rise greater than
 6". The Standards do not require lower handrails serving children except
