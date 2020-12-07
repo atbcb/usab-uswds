@@ -24,10 +24,9 @@ I am also pleased to report that, for FY 2020, the Access Board received an unmo
 
 The outstanding performance described in the pages that follow is a testament to the dedicated efforts of the Board, its career staff, and our federal partners.&nbsp; As we closed the books on FY 2020, the Access Board is well positioned to meet the challenges that lie ahead.
 
-{% asset lr-sig.png alt="Lance Robertson signature" %}
-
+<p><img src="{{ site.baseurl }}/images/lr-sig.png" alt="Lance Robertson signature" width="193" height="57"></p>
 <p style="margin-top:-32px">
-  <span style="text-decoration:underline"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><br>
+  <span style="text-decoration:underline; width:20em">&nbsp;</span><br>
   Lance Robertson<br>
   Chair<br>
   United States Access Board<br>
@@ -38,7 +37,7 @@ The outstanding performance described in the pages that follow is a testament to
 ### Table of Contents
 
 <ul>
-  <li><a href="#_Toc56977623">Part 1: Message From the Chair</a>
+  <li><a href="#_Toc56977623">Part 1: Message From the Chair</a></li>
   <li><a href="#_Toc56977623">Part 1: Management Discussion and Analysis</a>
     <ul>
       <li><a href="#_Toc56977624">Mission</a></li>
@@ -353,7 +352,7 @@ Access Board management is responsible for establishing and maintaining effectiv
 
 In addition, the Access Board conducted an assessment of the effectiveness of internal control over financial reporting, which includes safeguarding of assets and compliance with applicable laws and regulations, in accordance with the requirements of Appendix A of OMB Circular A-123.&nbsp; Based on the results of this evaluation, the Access Board can provide reasonable assurance that, as of September 30, 2020, its internal control over financial reporting was operating effectively with no material weaknesses found in the design or operation of the internal control over financial reporting.
 
-{% asset lr-sig.png alt="Lance Robertson signature" %}
+<img src="{{ site.baseurl }}/images/lr-sig.png" alt="Lance Robertson signature" width="193" height="57">
 
 Lance Robertson<br>
 Chair<br>
