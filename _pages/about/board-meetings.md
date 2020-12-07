@@ -5,10 +5,9 @@ toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/meetings.html
 ---
-
 # {{ page.title }}
 
-{% asset webcast.jpg class="img-right alt="laptop showing meeting on screen" %}
+{% asset webcast.jpg class="img-right" alt="laptop showing meeting on screen" %}
 
 Members of the Access Board meet every two months, and these meetings are primarily open to the public. 
 The meetings typically span three days, with the first two days usually dedicated to committee meetings and presentations and the afternoon of the third day devoted to the agenda of the full Board. 
@@ -31,7 +30,7 @@ The Board usually substitutes one of its meetings each year for a town hall foru
 
 ## Board Conference Space
 
-![photo of board meeting in conference space]({{ site.baseurl }}/images/conf-space.jpg){: .img-right}
+{% asset conf-space.jpg class="img-right shadow radius-lg" alt="Board Meeting in conference space (photo)." %}
 
 Board meetings and other events are held at the Board’s conference space at 1331 F Street NW, Suite 800, in downtown Washington, DC.&nbsp;
 The 2,720 square foot space, which is located two floors below the Board’s 10th floor offices, features an integrated assistive listening loop system that fully covers meeting and spectator areas, ceiling-mounted projectors, automated projection screens, supplementary monitors, and topical artwork.
