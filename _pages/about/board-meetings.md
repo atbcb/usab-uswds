@@ -15,12 +15,14 @@ The meetings typically span three days, with the first two days usually dedicate
 The meetings are webcast live, as well as archived.
 
 The next committee and Board meetings will be:
+- January 11 - 13, 2021
 
-> ***November 17 - 18, 2020***  
+
+> ***January 11 - 13, 2021***  
 >  
 > **Board Meeting**  
-> **November 18, 3:00 - 4:15** (Eastern)  
-> [Join Zoom webcast](https://www.zoomgov.com/j/1618490824)
+> **January 13, 3:00 - 4:15** (Eastern)  
+> [Join Zoom webcast]()
 
 We have transitioned to a virtual format using [Zoom for Government](https://zoomgov.com).
 
