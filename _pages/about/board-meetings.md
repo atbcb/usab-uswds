@@ -8,21 +8,19 @@ permalink: /about/meetings.html
 
 # {{ page.title }}
 
-![photo of laptop with meeting on screen]({{ site.baseurl }}/images/webcast.jpg){: .img-right}
+{% asset webcast.jpg class="img-right alt="laptop showing meeting on screen" %}
 
 Members of the Access Board meet every two months, and these meetings are primarily open to the public. 
 The meetings typically span three days, with the first two days usually dedicated to committee meetings and presentations and the afternoon of the third day devoted to the agenda of the full Board. 
 The meetings are webcast live, as well as archived.
 
 The next committee and Board meetings will be:
-- January 11 - 13, 2021
-
 
 > ***January 11 - 13, 2021***  
 >  
 > **Board Meeting**  
 > **January 13, 3:00 - 4:15** (Eastern)  
-> [Join Zoom webcast]()
+> \[Join Zoom webcast]
 
 We have transitioned to a virtual format using [Zoom for Government](https://zoomgov.com).
 
