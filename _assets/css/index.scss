@@ -261,20 +261,20 @@ dt {
 }
 
 .shadow {
-  box-shadow: 10px 10px 5px #dfe1e2;
+  box-shadow: 10px 10px 5px color(bg-base-lightest);
 }
 
 .img-right {
   float: right;
   display: block;
-  margin: 0rem 0rem 2rem 2rem;
+  margin: 0rem 0rem 0rem 2rem;
   max-width: 50%;
 }
 
 .img-left {
   float: left;
   display: block;
-  margin: 0rem 2rem 2rem 0rem;
+  margin: 0rem 2rem 0rem 0rem;
   max-width: 50%;
 }
 
@@ -390,9 +390,8 @@ dt {
   display: table;
 }
 
-// add shading to even rows in data tables -- does not seem to be working
 table.data tr:nth-child(even) {
- background-color: #f2f2f2;
+ background-color: color(bg-primary-lighter);
 } // zebra stripping by default */
 // layout tables used in ict preamble
 table.layouttable {
