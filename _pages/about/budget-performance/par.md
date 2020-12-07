@@ -36,47 +36,33 @@ The outstanding performance described in the pages that follow is a testament to
 
 ### Table of Contents
 
-<ul>
-  <li><a href="#_Toc56977623">Part 1: Message From the Chair</a></li>
-  <li><a href="#_Toc56977623">Part 1: Management Discussion and Analysis</a>
-    <ul>
-      <li><a href="#_Toc56977624">Mission</a></li>
-      <li><a href="#_Toc56977625">Organizational Structure</a></li>
-      <li><a href="#_Toc56977626">Board Members</a></li>
-      <li><a href="#_Toc56977627">Staff Offices</a></li>
-      <li><a href="#_Toc56977628">Performance Highlights</a></li>
-      <li><a href="#_Toc56977629">Financial Highlights</a></li>
-      <li><a href="#_Toc56977630">Controls, Systems and Legal Compliance</a></li>
-      <li><a href="#_Toc56977631">Management Assurance Statement</a></li>
-      <li><a href="#_Toc56977632">Limitations on Financial Statements</a></li>
-    </ul>
-  </li>
-  <li><a href="#_Toc56977633">Part Two: Performance Report</a>
-    <ul>
-      <li><a href="#_Toc56977634">Performance Goals, Objectives, and Results</a></li>
-    </ul>
-  </li>
-  <li><a href="#_Toc56977635">Part Three: Financial Information</a>
-    <ul>
-      <li><a href="#_Toc56977636">Independent Auditor&rsquo;s Report</a></li>
-      <li><a href="#_Toc56977637">Financial Statements</a></li>
-      <li><a href="#_Toc56977638">Notes on Financial Statements</a></li>
-    </ul>
-  </li>
-  <li><a href="#_Toc56977639">Part Four: Other Information</a>
-    <ul>
-      <li><a href="#_Toc56977640">Summary of Financial Statement Audit and Management Assurances</a></li>
-    </ul>
-  </li>
-</ul>
+* [Message From the Chair](#message_from_the_chair)
+* [Part One: Management Discussion and Analysis](part_one_management_discussion_and_analysis)
+    - [Mission](#mission)
+    - [Organizational Structure](#organizational_structure)
+    - [Board Members](#board_members)
+    - [Staff Offices](#staff_offices)
+    - [Performance Highlights](#performance_highlights)
+    - [Financial Highlights](#financial_highlights)
+    - [Controls, Systems and Legal Compliance](#controls_systems_and_legal_compliance)
+    - [Management Assurance Statement](#management_assurance_statement)
+    - [Limitations on Financial Statements](#limitations_on_financial_statements)
+* [Part Two: Performance Report](#part_two_performance_report)
+    - [Performance Goals, Objectives, and Results](#performance_goals_objectives_and_results)
+* [Part Three: Financial Information](#part_three_financial_information)
+    - [Independent Auditor&rsquo;s Report](#independent_auditors_report)
+    - [Financial Statements](#financial_statements)
+    - [Notes on Financial Statements](#notes_on_financial_statements)
+* [Part Four: Other Information](#part_four_other_information)
+    - [Summary of Financial Statement Audit and Management Assurances](#summary_of_financial_statement_audit_and_management_assurances)
 
-## Part 1: Management Discussion and Analysis
+## Part One:&nbsp; Management Discussion and Analysis
 
 ### Mission
 
 Established by the Rehabilitation Act of 1973, the United States Access Board &mdash; which was then known as the &ldquo;Architectural and Transportation Barriers Compliance Board&rdquo; &mdash; is a small, independent federal agency devoted to advancing accessibility and equality for people with disabilities.&nbsp; Originally, in the mid-1970s, the Access Board&rsquo;s primary mission was enforcement of the Architectural Barriers Act (ABA), which requires federal buildings and certain other federally-financed facilities to be accessible to persons with disabilities.&nbsp; Over the years Congress has expanded the agency&rsquo;s mission and responsibilities.&nbsp; Today, the Access Board&rsquo;s mission embraces three main areas: development of accessibility criteria for the built environment and other matters as authorized by Congress (e.g., transit vehicles, information and communication technology, telecommunications equipment, medical diagnostic equipment); training and technical assistance; and ABA enforcement.
 
-<h3 id="_Toc56977625">Organizational Structure</h3>
+### Organizational Structure
 
 The Access Board is governed by a 25-member board, with the Board Chair serving as agency head.&nbsp; The diagram below depicts the agency&rsquo;s organizational structure in FY 2020.
 
@@ -262,38 +248,39 @@ We provide below an overview of the Access Board&rsquo;s performance results for
 
 The Access Board&rsquo;s financial statements summarize the financial activity and position of the agency in FY 2020.&nbsp; In Part Three of this report, we provide a complete copy of the final report of the agency&rsquo;s independent auditor for FY 2020, along with its accompanying financial statements, notes on financial statements, and other required supplementary information.&nbsp; Below, we briefly summarize the Access Board&rsquo;s FY 2020 financial statements.
 
-<h4>Balance Sheet</h4>
-<h5>Assets</h5>
+#### Balance Sheet
+
+##### Assets
 
 At the end of Fiscal Year 2020, the Board&rsquo;s assets were $4.1 million, which represents an $0.4 million increase from the end of FY 2019.&nbsp; The Access Board&rsquo;s largest asset &mdash; Fund Balance with Treasury &mdash; increased due to a modest increase in the agency&rsquo;s annual appropriation.
 
-<h5>Liabilities</h5>
+##### Liabilities
 
 The Board&rsquo;s liabilities were $0.9 million as of September 30, 2020.&nbsp; This amount reflects an increase of $0.1 million compared to the end of FY 2019.&nbsp; In FY 2020, Accounts Payable showed an increase due to the timing of invoiced and goods received but not yet invoiced.
 
-<h4>Statement of Net Position</h4>
+#### Statement of Net Position
 
 At the close of Fiscal Year 2020, the Access Board&rsquo;s net position &mdash; which is the difference between total assets and total liabilities &mdash; was $3.2 million. This amount represents an increase of $0.3 million compared to the FY 2019 year-end balance.&nbsp; This increase is primarily due to a change in agency spending patterns this year.
 
-<h4>Statement of Net Cost</h4>
+#### Statement of Net Cost
 
 The Statement of Net Cost reports the cost of the agency conducting mission-related work during the reporting period.&nbsp; At the close of FY 2020, the Access Board&rsquo;s net cost was $9 million, which amounts to an increase of $0.7 million increase of relative to the FY 2019 year-end balance.&nbsp; This increase is primarily due to a change in spending patterns arising from the agency&rsquo;s modestly increased annual appropriation for FY 2020.
 
-<h4>Statement of Changes in Net Position</h4>
+#### Statement of Changes in Net Position
 
 The Access Board&rsquo;s net position at the close of FY 2020 was $3.2 million &mdash; an increase of $0.3 million compared to FY 2019.&nbsp; This increase is primarily due to a change in FY 2020 spending patterns.
 
-<h4>Statement of Budgetary Resources</h4>
+#### Statement of Budgetary Resources
 
 The Statement of Budgetary Resources shows the Access Board&rsquo;s budget authority for FY 2020, along with the status of those resources at the close of the fiscal year.&nbsp; For FY 2020, the Access Board had $9.9 million in total budgetary resources for FY 2020, which was comprised of direct appropriations and unobligated balance available from the prior fiscal year.&nbsp; During this fiscal year, $9 million was obligated for program and administrative functions; $0.8 million was unobligated from prior years.&nbsp; Net outlays in FY 2020 amounted to $7.5 million.&nbsp; The largest contributor to the increase in budgetary resources this year was the agency&rsquo;s modest increase in its annual appropriation.
 
-<h3 id="_Toc56977630">Controls, Systems and Legal Compliance</h3>
+### Controls, Systems and Legal Compliance
 
 The Access Board recognizes that maintaining integrity and accountability in its financial systems, programs and operations is critical for good government by, among other things, demonstrating responsible stewardship over assets and resources, helping ensure high-quality and responsible leadership, allowing for effective delivery of services to customers and maximizing desired program outcomes.
 
 As a small, independent federal agency, we have found that it is both less costly and more effective to obtain various administrative services (e.g., financial management, human resources, procurement, travel, and EEO investigations) from federal shared service providers, as compared to developing these capabilities in-house capabilities.&nbsp; For financial management, the Access Board relies heavily on the systems, controls, and assurances provided by our shared service provider &mdash; BFS/ARC &mdash; to meet applicable legal requirements, including Office of Management and Budget (OMB) guidelines.&nbsp; In addition, we supplement BFS/ARC&rsquo;s controls with our own internal control processes to ensure the propriety of agency spending, as well as the validity of financial and performance data.&nbsp; Taken together, we believe these measures sufficiently ensure that performance and financial data included in this report is accurate, reliable, and complete.
 
-<h4>Federal Managers&rsquo; Financial Integrity Act of 1982</h4>
+#### Federal Managers&rsquo; Financial Integrity Act of 1982
 
 The objective of the Federal Managers&rsquo; Financial Integrity Act of 1982 (FMFIA) is to ensure that agencies have internal controls and financial systems in place that provide reasonable assurance of the effectiveness and efficiency of operations, reliability of financial reporting, and compliance with regulations and applicable laws.&nbsp; FMFIA, as implemented, requires agencies to establish internal control processes consistent with guidelines established by OMB and the Comptroller General.&nbsp; Agency heads must annually attest &mdash; via written assurance statement &mdash; that the agency&rsquo;s respective internal controls are (or are not) in compliance with applicable FMFIA requirements.
 
@@ -307,52 +294,53 @@ For these reasons, the Access Board can provide reasonable assurance that intern
 
 A copy of the Access Board Chair&rsquo;s FY 2020 assurance statement under FMFIA (Section 2) is located below on page 11 of this report.&nbsp; This statement is based on various sources, including: management&rsquo;s knowledge gained from the daily operation of agency programs and reviews; reports and other data provided by the agency&rsquo;s shared service providers (primarily, financial reports from BFS/ARC); and, the independent auditor&rsquo;s final report for FY 2020 and accompanying financial statements.
 
-<h4>Financial Statement Audit</h4>
+#### Financial Statement Audit
 
 Under the Accountability of Tax Dollars Act of 2002 (codified at 31 U.S.C. &sect; 3515), most small federal agencies (i.e., &ldquo;non-CFO&rdquo; agencies) &mdash; including the Access Board &mdash; are required to have their financial statements audited annually.&nbsp; Such audits concern not only agency finances, but also review of the adequacy of control systems.&nbsp; A complete copy of our independent auditor&rsquo;s FY 2020 final report is reproduced in Part Three of this report.
 
-<h4>Payment Integrity Information Act of 2019</h4>
+#### Payment Integrity Information Act of 2019
 
 The Payment Integrity Information Act of 2019 (PIIA) was enacted into law in spring 2020.&nbsp; The PPIA replaced the prior statutory regime concerning federal agency obligations to prevent, identify, and annually report on, improper payments (e.g., payment of incorrect amount, duplicate payment).&nbsp; Departing from its statutory predecessors, the PPIA establishes a monetary threshold for &ldquo;significance&rdquo;determinations, requires agencies to post improper payment reports on their respective websites, tasks OMB with developing PPIA guidance for agencies, and also requires OMB to create a centralized website for agencies&rsquo; improper payment reports concerning OMB-designated &ldquo;high-priority&rdquo; programs.
 
 Because OMB has not yet issued guidance regarding PPIA implementation, the contours of agencies&rsquo; reporting and/or assurance obligations remain unknown.&nbsp; Nonetheless, the Access Board can definitively state that, based on the PPIA&rsquo;s statutory definition of &ldquo;significance,&rdquo;the agency had no programs/activities at significant risk of improper payments in FY 2020.&nbsp; Nor did the agency make any improper payments in FY 2020 &mdash; regardless of &ldquo;significance&rdquo;level &mdash; according to the independent auditor&rsquo;s final report and our own reviews.&nbsp; In making this statement, we have relied on records and performance metrics produced by our financial services provider, BFS/ARC.
 
-<h4>Debt Collection Improvement Act of 1996</h4>
+#### Debt Collection Improvement Act of 1996
 
 The Debt Collection Improvement Act of 1996 (DCIA) prescribes standards for carrying out federal agency collection actions and referring uncollectible debts to the proper federal agency for collection and litigation. The DCIA has no material effect on our agency because we operate with virtually no delinquent debt. 
 
 In 2014, the DCIA was amended by the Digital Accountability and Transparency Act of 2014 (DATA Act) to require that debts outstanding for more than 120 days be transferred to the Treasury Department for collection under the Treasury Offset Program.&nbsp; We currently have one debt being serviced by the Treasury Department.
 
-<h4>Prompt Payment Act of 1982</h4>
+#### Prompt Payment Act of 1982
 
 The Prompt Payment Act requires federal agencies to make timely payments to vendors for covered supplies and services, pay an interest penalty on tardy payments, and take cash discounts when economically justified.&nbsp; In FY 2020, the Access Board maintained a 100% on-time payment rate and incurred no interest penalties.&nbsp; We will work to maintain 100 % on-time vendor payments in future fiscal years.
 
-<h4>DATA Act</h4>
+#### DATA Act
 
 In addition to revising the requirements for transfer of delinquent debts, the Digital Accountability and Transparency Act of 2014 &mdash; which is commonly referred to as the DATA Act &mdash; also amended requirements with regard to agencies&rsquo; obligation to post financial data on the government-wide website, &ldquo;USASpending.gov.&rdquo; 
 
 The Access Board&rsquo;s shared service provider (BFS/ARC) has implemented software that enables us to comply with DATA Act requirements.&nbsp; In FY 2020, we were compliant with applicable DATA Act requirements and timely submitted all certifications.
 
-<h4>Anti-Deficiency Act</h4>
+#### Anti-Deficiency Act
 
 The Anti-Deficiency Act prohibits federal employees from obligating funds than are not available under an existing appropriation and from volunteering their services to the federal government.&nbsp; The Access Board had no anti-deficiency violations in FY 2020.&nbsp; As required by this act, the agency would notify appropriate authorities were such a violation to occur.
 
-<h4>Computer Information and Security Program</h4>
+#### Computer Information and Security Program
 
 The Federal Information Security Modernization Act of 2014 requires agencies to ensure adequate security protections for federal information technology (IT) systems and networks.&nbsp; The Access Board continues to make improvements to internal controls for the agency&rsquo;s IT systems and networks through new or improved agency policies and procedures, along with an emphasis on employee training.&nbsp; As part of this effort, we are working toward the receipt of an &ldquo;Authority to Operate&rdquo;(ATO) under FISMA for our General Support System.&nbsp; We have been working with an external auditor to assess the effectiveness and efficiency of internal controls and policies, and compliance with applicable federal authorities in accordance with NIST SP 800-53, <cite>Security and Privacy Controls for Federal Information Systems and Organizations</cite> (Revision 4 Jan. 2014).&nbsp; We anticipate receiving ATO certification for our GSS early in FY 2021.&nbsp; Ongoing maintenance and testing will be required to keep our ATO active.&nbsp; In addition, further implementation measures will be needed to meet the new requirements in newly released NIST SP 800-53, Revision 5, which, among other things, incorporates additional provisions related to information privacy.
 
-<h4>Performance Data Verification</h4>
+#### Performance Data Verification
 
 The Access Board requires accurate performance data to assess agency progress towards its strategic goals and make good management and program decisions.&nbsp; The performance data reflected in Part Two of this report were compiled throughout the fiscal year during the normal course of agency business.&nbsp; Although the information herein has not been subject to a formal validation process, it has been reviewed for accuracy by agency leadership.&nbsp; For example, the performance data concerning technical assistance inquiries (see pages 19-20) comes from information collected on an electronic form this is completed by each accessibility specialist after she or he responds to an inquiry, whether by phone or email.&nbsp; Metrics for the Access Board website (see pages 19-20) are drawn directly from the federal government&rsquo;s Digital Analytics Program (DAP), in which the agency participates, using Google&rsquo;s Analytics360 platform.&nbsp; Lastly, all ABA cases-related data (see pages 21-22) were compiled from the agency&rsquo;s cloud-based Complaint Tracking System (CTS), which is the official repository for all active ABA case records.&nbsp; Enforcement program staff use CTS regularly &mdash; if not daily &mdash; as they process, investigate, monitor, and close ABA complaints.
 
-<h3 id="_Toc56977631">Management Assurance Statement</h3>
-<h4>Annual FMFIA Statement of Assurance</h4>
+### Management Assurance Statement
+
+#### Annual FMFIA Statement of Assurance
 
 Access Board management is responsible for establishing and maintaining effective internal controls that meet the objectives of section 2 of the Federal Managers&rsquo; Financial Integrity Act of 1982 (FMFIA).&nbsp; In accordance with OMB Circular A-123, <cite>Management&rsquo;s Responsibility for Enterprise Risk Management and Internal Control</cite>, the Access Board conducted its annual assessment of the effectiveness of internal controls.&nbsp; Based on the results of this assessment, the Access Board can provide reasonable assurance that, as of September 30, 2020, its internal control over operations, reporting, and compliance were operating effectively.
 
 In addition, the Access Board conducted an assessment of the effectiveness of internal control over financial reporting, which includes safeguarding of assets and compliance with applicable laws and regulations, in accordance with the requirements of Appendix A of OMB Circular A-123.&nbsp; Based on the results of this evaluation, the Access Board can provide reasonable assurance that, as of September 30, 2020, its internal control over financial reporting was operating effectively with no material weaknesses found in the design or operation of the internal control over financial reporting.
 
-<img src="{{ site.baseurl }}/images/lr-sig.png" alt="Lance Robertson signature" width="193" height="57">
+<img src="{{ site.baseurl }}/images/lr-sig.png" alt="Lance Robertson signature" width="193" height="57" />
 
 Lance Robertson<br>
 Chair<br>
@@ -367,46 +355,46 @@ The principal financial statements have been prepared to report the financial po
 
 ---
 
-<h2 id="_Toc56977633">Part Two: Performance Report</h2>
-<h3 id="_Toc56977634">Performance Goals, Objectives, and Results</h3>
+## Part Two:&nbsp; Performance Report
+
+### Performance Goals, Objectives, and Results
 
 The Access Board&rsquo;s current strategic plan, which covers FYs 2018 &ndash; 2022, provides the foundation for agency planning and resource allocation.&nbsp; Embracing a vision of &ldquo;advancing accessibility and inclusion for all,&rdquo;this plan establishes four goals, each of which, in turn, is accompanied by two or more objectives.&nbsp; The agency&rsquo;s four strategic goals are:
 
-<ul>
-  <li> <strong>Goal 1:</strong>&nbsp; Establish state-of-the-art accessibility standards and guidelines.</li>
-  <li> <strong>Goal 2:</strong>&nbsp; Provide training and technical assistance on accessibility.</li>
-  <li> <strong>Goal 3:</strong>&nbsp; Increase Architectural Barriers Act awareness and compliance.</li>
-  <li> <strong>Goal 4:</strong>&nbsp; Expand awareness of the Access Board&rsquo;s functions and objectives.</li>
-</ul>
+- **Goal 1:** &nbsp;Establish state-of-the-art accessibility standards and guidelines.
+- **Goal 2:** &nbsp;Provide training and technical assistance on accessibility.
+- **Goal 3:** &nbsp;Increase Architectural Barriers Act awareness and compliance.
+- **Goal 4:** &nbsp;Expand awareness of the Access Board&rsquo;s functions and objectives.
 
 This part highlights some of the Access Board&rsquo;s significant accomplishments in FY 2020.&nbsp; These highlights document our progress toward achievement of these four goals and careful stewardship of federal monies.&nbsp; We trust this performance information will provide the President, Congress, and the public with a better understanding of the agency&rsquo;s work, as we strive to promote a more accessible and inclusive America.
 
-<h4>Goal #1:&nbsp; Establish state-of-the-art accessibility standards and guidelines</h4>
+#### Goal #1:&nbsp; Establish state-of-the-art accessibility standards and guidelines
 
 The first strategic goal is supported by four objectives, which are:
 
-<ul>
-  <li><b>Objective 1.1:</b>&nbsp; Maximize public participation and stakeholder collaboration in the development of standards and guidelines;</li>
-  <li><b>Objective 1.2:</b>&nbsp; Anticipate and respond to emerging barriers to accessibility in a changing environment;</li>
-  <li><b>Objective 1.3:</b>&nbsp; Develop and maintain accessibility standards and guidelines and keep them up to date; and</li>
-  <li><b>Objective 1.4:</b>&nbsp; Promote accessibility through coordination with standards and codes organizations and harmonization of accessibility requirements.</li>
-</ul>
-<h5>Background:</h5>
+- **Objective 1.1:** &nbsp;Maximize public participation and stakeholder collaboration in the development of standards and guidelines;
+- **Objective 1.2:** &nbsp;Anticipate and respond to emerging barriers to accessibility in a changing environment;
+- **Objective 1.3:** &nbsp;Develop and maintain accessibility standards and guidelines and keep them up to date; and
+- **Objective 1.4:** &nbsp;Promote accessibility through coordination with standards and codes organizations and harmonization of accessibility requirements.
+
+##### Background:
 
 With regard to rulemaking, Congress has &mdash; to date &mdash; tasked the Access Board with developing and maintaining accessibility criteria for the built environment, transportation vehicles, information and communication technology (ICT), telecommunications equipment, medical diagnostic equipment, and outdoor recreational areas.&nbsp; In general, the agency has regulatory authority for two different types of accessibility criteria: (1) accessibility &ldquo;standards,&rdquo;which have force of law upon issuance; and (2) accessibility &ldquo;guidelines,&rdquo;which only have force of law when formally adopted through regulation by an enforcing entity &mdash; typically, another federal agency.&nbsp; For example, under the Americans with Disabilities Act (ADA), the Departments of Justice and Transportation are obliged to use our ADA Accessibility Guidelines as the baseline for their implementing regulations respectively addressing public accommodations and transportation vehicles.&nbsp; However, until these departments promulgate these final regulations, our ADA Accessibility Guidelines are not legally enforceable.&nbsp; By contrast, under section 508 of the Rehabilitation Act (codified at 29 U.S.C. &sect; 794d), the Access Board is charged with issuing technical and performance standards for the accessibility of information and communication technology (ICT) that federal agencies develop, procure, maintain, or use and these standards are enforceable upon promulgation by the Board.
 
 Additionally, Objective 1.4 reflects the agency&rsquo;s long-standing history of working with model code groups and standards development organizations (SDOs) on codes and voluntary consensus standards affecting accessibility.&nbsp; Through service on numerous public-private code and standards committees, technical working groups, and cooperative research panels, Board members and staff are able to bring to bear the Access Board&rsquo;s expertise and perspective to the ongoing process of developing and maintaining accessibility-related model codes and standards.&nbsp; We believe such efforts enhance our credibility as a knowledgeable source of information regarding technical aspects of accessibility.&nbsp; Moreover, working cooperatively with codes organizations and SDOs brings a greater likelihood of harmonization between private codes/standards and federal accessibility requirements.
 
-<h5>Summary of Key Accomplishments in FY 2020:</h5>
-<h6>Update of Existing ADA Accessibility Guidelines for Rail Vehicles</h6>
+##### Summary of Key Accomplishments in FY 2020:
+
+###### Update of Existing ADA Accessibility Guidelines for Rail Vehicles
 
 The Access Board&rsquo;s existing accessibility guidelines for ADA-covered rail vehicles (e.g., subway, commuter rail, inter-city rail vehicles) were issued in 1991 and have not been subsequently modified or updated.&nbsp; These guidelines are thus in need of a &ldquo;refresh&rdquo;to keep pace with newer technologies, changes in rail vehicle design, and incorporate more recently developed national and international consensus standards.
 
-In February 2020, we published an Advance Notice of Proposed Rulemaking (ANPRM) to initiate the regulatory process for potentially updating our accessibility guidelines for rail vehicles. This notice served several purposes.&nbsp; First, this notice informed the public that we were considering updates to our existing guidelines.&nbsp; Secondly, we noted our potential reliance on recommendations from the Access-Board sponsored Rail Vehicles Access Advisory Committee for proposed, updated accessibility requirements and sought feedback on this approach, including potential impacts on vehicle design, operations, and costs.&nbsp; Lastly, we also sought information on economic data concerning costs and/or benefits of accessible rail vehicles, as well as emerging designs or technologies that improve rail vehicle accessibility.
+In February 2020, we published an Advance Notice of Proposed Rulemaking (ANPRM) to initiate the regulatory process for potentially updating our accessibility guidelines for rail vehicles.&nbsp; This notice served several purposes.&nbsp; First, this notice informed the public that we were considering updates to our existing guidelines.&nbsp; Secondly, we noted our potential reliance on recommendations from the Access-Board sponsored Rail Vehicles Access Advisory Committee for proposed, updated accessibility requirements and sought feedback on this approach, including potential impacts on vehicle design, operations, and costs.&nbsp; Lastly, we also sought information on economic data concerning costs and/or benefits of accessible rail vehicles, as well as emerging designs or technologies that improve rail vehicle accessibility.
 
 The public comment period on the Rail Vehicle ANPRM closed in mid-July 2020.&nbsp; We received over 200 public comments in response to this notice.&nbsp; As the fiscal year ends, we are in the process of evaluating and analyzing these comments.&nbsp; We will use information provided by commenters to help frame a future proposed rule.
 
-<h6>Advisory Guidelines for Onboard Wheelchairs</h6>
+
+###### Advisory Guidelines for Onboard Wheelchairs
 
 The Access Board is developing voluntary, advisory guidelines for aircraft onboard wheelchairs (OBWAG) used on commercial passenger aircraft to aid the Department of Transportation (DOT) in the department&rsquo;s separate regulatory initiative to improve access to air travel.&nbsp; DOT, as part of a negotiated rulemaking process, plans to supplement its regulations implementing the Air Carrier Access Act by specifying a performance standard calling for enhanced functionality of onboard wheelchairs relative to current requirements for such devices.&nbsp; (Commercial air carriers are currently required to provide onboard wheelchairs on all aircraft, which facilitate the transfer of passengers with disabilities to in-cabin bathrooms since personal wheelchairs cannot be used on these aircraft.) The Access Board&rsquo;s OBWAG will specify technical specifications (e.g., dimensions, features, and capabilities) for onboard wheelchairs.&nbsp; The Access Board expects its non-binding guidelines to serve as technical assistance for air carriers and manufacturers by providing an illustrative technical approach for onboard wheelchairs which, if followed, would provide assurance of compliance with DOT&rsquo;s forthcoming performance standard for onboard wheelchairs.
 
@@ -414,7 +402,8 @@ In FY 2020, the Access Board continued its efforts &mdash; which began in summer
 
 Since the close of public comment on the draft advisory guidelines, our efforts have been mostly &ldquo;behind the scenes&rdquo; to evaluate public comments and better understand relevant technical issues.&nbsp; Access Board staff analyzed the 40 or so comments received in response to our call for public input on the draft OBWAG, with comments having been submitted by individuals, manufacturers, designers, airline associations, academics, and disability rights organizations.&nbsp; Relatedly, following the close of the public comment period in spring 2020 on DOT&rsquo;s proposed rule concerning enhanced requirements for accessible lavatories and onboard wheelchairs on commercial aircraft, we reviewed the nearly 340 comments received by DOT to cull those relating to onboard wheelchairs.&nbsp; We will determine the appropriate next steps for OBWAG finalization after evaluating pertinent comments to DOT&rsquo;s proposed rule (along with those received in response to our prior notice of invitation) and gathering additional technical information, as needed.
 
-<h6>Final Accessibility Guidelines for Public Rights-of-Way and Shared Use Paths</h6>
+
+###### Final Accessibility Guidelines for Public Rights-of-Way and Shared Use Paths
 
 For over a decade, the Access Board has been working towards issuance of accessibility guidelines for public rights-of-way and shared use paths (SUPs), which we collectively refer to as &ldquo;PROWAG&rdquo;.&nbsp; When the Board issued accessibility guidelines for ABA- and ADA-covered buildings and facilities in 2004, those guidelines deferred establishment of accessibility criteria for facilities and elements unique to public rights-of-way &mdash; such as, on-street parking, intersections, pedestrian signals, crosswalks, and street furniture &mdash; for a separate, future PROWAG-specific rulemaking.
 
@@ -424,7 +413,8 @@ In spring 2017, consistent with the deregulatory priorities of the Administratio
 
 Although this rulemaking is formally set aside, in FY 2020, agency staff worked with experts at the Transportation Department&rsquo;s Volpe Center to complete work on a contract that expired at the end of the year for preparatory work related to a final regulatory assessment for the PROWAG final rule.&nbsp; The Access Board remains committed to completing work on the PROWAG final rule &mdash; a rule that promises to improve access to streets, sidewalks, and other pedestrian facilities for millions of Americans with disabilities &mdash; when the rulemaking returns to our regulatory agenda.
 
-<h6>Board and Staff Participation in Development of Voluntary Consensus Standards</h6>
+
+###### Board and Staff Participation in Development of Voluntary Consensus Standards
 
 Under the Help America Vote Act of 2002 (HAVA), the Access Board has two statutory representatives on both the Election Assistance Commission&rsquo;s 35-member Board of Advisors, which advises the EAC, and the 15-member Technical Guidelines Development Committee (TGDC), which assists EAC in the development of voluntary voting system guidelines.&nbsp; These voting system guidelines provide a set of voluntary specifications for voting systems that may be used by states/localities to assess whether their respective voting systems meet basic HAVA-specified standards for system functionality, accessibility, and security.
 
@@ -435,21 +425,22 @@ Access Board staff also serve on numerous committees, technical working groups, 
 In FY 2020, staff served on, or worked with, the following model code groups, SDOs, and research cooperatives:
 
 <ul>
-  <li> American Society of Mechanical Engineers (ASME) A18 Platform Lift and Stairway Chair Lift Committee;</li>
-  <li> American Society of Testing and Materials (ASTM) Committee on Sports Equipment, Playing Surfaces, and Facilities;</li>
-  <li> International Code Council (ICC) Consensus Committee on Accessible and Usable Buildings and Facilities (ASC A117);</li>
-  <li> National Committee on Uniform Traffic Control Devices;</li>
-  <li> National Cooperative Highway Research Panel (sponsored by the Transportation Research Board (TRB:);</li>
-  <li> Transportation Cooperative Research Panel (sponsored by TRB);</li>
-  <li> Rehabilitation Engineering and Assistive Technology Society of North America (RESNA) Standards Committee on Cognitive Accessibility (CA);</li>
-  <li> TRB Standing Committee on Innovative Public Transportation Services and Technologies; </li>
-  <li> RESNA Standards Committee for Assistive Technology for Air Travel (ATAT); and</li>
-  <li> World Wide Web Consortium (W3C) Web Accessibility Initiative &ndash; Accessibility Guidelines Working Group (AG WG).</li>
+  <li> American Society of Mechanical Engineers (ASME) A18 Platform Lift and Stairway Chair Lift Committee;/li>
+*  American Society of Testing and Materials (ASTM) Committee on Sports Equipment, Playing Surfaces, and Facilities;/li>
+*  International Code Council (ICC) Consensus Committee on Accessible and Usable Buildings and Facilities (ASC A117);/li>
+*  National Committee on Uniform Traffic Control Devices;/li>
+*  National Cooperative Highway Research Panel (sponsored by the Transportation Research Board (TRB:);/li>
+*  Transportation Cooperative Research Panel (sponsored by TRB);/li>
+*  Rehabilitation Engineering and Assistive Technology Society of North America (RESNA) Standards Committee on Cognitive Accessibility (CA);/li>
+*  TRB Standing Committee on Innovative Public Transportation Services and Technologies; /li>
+*  RESNA Standards Committee for Assistive Technology for Air Travel (ATAT); and/li>
+*  World Wide Web Consortium (W3C) Web Accessibility Initiative &ndash; Accessibility Guidelines Working Group (AG WG).</li>
 </ul>
 
 Access Board managers and staff also participated in several inter-agency committees and working groups that foster inter-agency cooperation on accessibility-related issues.&nbsp; Among other things, in FY 2020, the Access Board Executive Director represented the agency on the National Institute of Standards and Technology-sponsored Interagency Committee on Standards Policy (ICSP).&nbsp; The ICSP provides a forum for coordination of federal standards policies and promotion of standardization activities; this interagency committee reports to the Secretary of Commerce through the NIST Director.&nbsp; Agency leadership (generally, the Executive Director) represents the agency on the Disability Policy Interagency Working Group (DPG).&nbsp; Meeting monthly, the DPG serves as a collaborative forum for agencies (or components) with similar disability-related missions to share information and best practices and establish new partnerships.&nbsp; Access Board technical staff also served on, and were actively involved with, the technically oriented Chief Information Officers Council&rsquo;s Accessibility Community of Practice and the Federal Communication Commission&rsquo;s Disability Advisory Committee (ex officio member).
 
-<h6>Other Initiatives</h6>
+
+###### Other Initiatives
 
 In addition to the regulatory initiatives and ongoing standards-development work described above, the Access Board also pursued several other projects in FY 2020, which, though not falling neatly within a particular goal-related category, nonetheless broadly supported the agency&rsquo;s overall mission of advancing accessibility and inclusion for all Americans.&nbsp; Several of these other initiatives are highlighted below.
 
@@ -465,21 +456,23 @@ In early 2020, TRB convened a 12-member study committee to carry out the feasibi
 
 Looking ahead, the study committee&rsquo;s remaining meetings in 2021 will be closed sessions to facilitate committee deliberation and report preparation.&nbsp; Publication of the final report is expected by late September 2021.
 
-<h4>Goal #2:&nbsp; Provide training and technical assistance on accessibility</h4>
+#### Goal #2:&nbsp; Provide training and technical assistance on accessibility
 
 Our second strategic goal is supported by three objectives, which are
 
 <ul>
-  <li><b>Objective 2.1:</b>&nbsp; Promote and publicize the Board&rsquo;s training and technical assistance services to reach more customers.</li>
-  <li><b>Objective 2.2:</b>&nbsp; Use multiple communications platforms to reach a broader audience.</li>
-  <li><b>Objective 2.3:</b>&nbsp; Develop and update educational materials to promote understanding of and compliance with accessibility standards and guidelines.</li>
+  <li><b>Objective 2.1:</b>&nbsp; Promote and publicize the Board&rsquo;s training and technical assistance services to reach more customers./li>
+* <b>Objective 2.2:</b>&nbsp; Use multiple communications platforms to reach a broader audience./li>
+* <b>Objective 2.3:</b>&nbsp; Develop and update educational materials to promote understanding of and compliance with accessibility standards and guidelines.</li>
 </ul>
-<h5>Background:</h5>
+
+##### Background:
 
 The Board promotes accessible design through technical assistance to the public, published guidance, and education and training.&nbsp; We provide technical assistance to the public on our accessibility guidelines and standards, as well as other aspects of accessible design.&nbsp; Over the years, the agency has become known for its free, on-demand, and personalized technical assistance, which is provided through our Office of Technical and Information Services (OTIS).&nbsp; We respond to thousands of technical assistance inquiries each year, which we receive by phone, email, and facsimile.&nbsp; In recent years, our website (www.access-board.gov) has also become a go-to resource.&nbsp; Users of our website can, among other things, view our accessibility guidelines and standards, review an online guide to the ADA standards (which includes downloadable animations illustrating the rationale behind the guidelines and standards showing how accessible features are used by individuals with disabilities), and downloadable versions of our published materials.&nbsp; Collectively, our technical assistance services play a critical role in assisting professionals, governmental jurisdictions, and others understand and apply accessible design requirements.
 
-<h5>Summary of Key Accomplishments in FY 2020:</h5>
-<h6>Agency-Sponsored Trainings</h6>
+##### Summary of Key Accomplishments in FY 2020:
+
+###### Agency-Sponsored Trainings
 
 In FY 2020, the Access Board sponsored or conducted 48 webinars and 22 in-person trainings.&nbsp; Collectively, these trainings had 17,115 participants.&nbsp; Despite the impact of the pandemic, this figure represents a 20% increase in training participants compared to last fiscal last year due to our successful transition to distance learning and remote training.
 
@@ -489,7 +482,8 @@ The first webinar series addressed accessible design relating to the built envir
 
 The second webinar series &mdash; which addressed Section 508 best practices &mdash; was offered in conjunction with the Chief Information Officers Council Accessibility Community of Practice (CIO ACoP).&nbsp; This series aims to ensure that federal agencies have the knowledge needed to meet their obligations under Section 508 regarding the accessibility of federal websites and other electronic materials.&nbsp; Sessions were offered bi-monthly, with each session running 90 minutes.&nbsp; Topics covered included the accessibility of social media, electronic documents, and virtual meeting platforms, among others.&nbsp; Overall, this this webinar series logged about 3,300 attendees in FY 2020.
 
-<h6>Technical Assistance</h6>
+
+###### Technical Assistance
 
 As in prior years, our technical assistance services proved to be one of the agency&rsquo;s signature services.&nbsp; In FY 2020, we handled about 5,300 technical assistance (or &ldquo;TA&rdquo;) inquiries.&nbsp; By type, roughly 56% of these requests were submitted by email, while the remaining 44 % came by phone.&nbsp; (We did not receive any TA inquiries by facsimile.)
 
@@ -503,16 +497,17 @@ The Access Board&rsquo;s website also serves a key role in furtherance of our ed
 
 The Access Board also continued to employ other communication strategies to promote and publicize our technical assistance and training services to a broad audience.&nbsp; We use an email subscription system to promote awareness of the work of the Board.&nbsp; Currently, the Board reaches almost 36,000 subscribers through this system and is able to provide them with Board news, including its bimonthly e-newsletter, &ldquo;Access Currents.&rdquo;&nbsp; The Board also has a Twitter handle (@AccessBoard) with almost 1,800 followers and a <a href="https://www.youtube.com/channel/UC5tRWTtV5eSw68N3tSpmyWw">YouTube channel</a> that features videos on the work of the Board and copies of its animations on accessibility.
 
-<h4>Goal #3:&nbsp; Increase Architectural Barriers Act awareness and compliance</h4>
+#### Goal #3:&nbsp; Increase Architectural Barriers Act awareness and compliance
 
 Our third strategic goal is supported by three objectives, which are
 
 <ul>
-  <li><b>Objective 3.1:</b>&nbsp; Proactively promote compliance through outreach to federal agencies and design professionals;</li>
-  <li><b>Objective 3.2:</b>&nbsp; Educate the public about rights under the ABA and the complaint process; and</li>
-  <li><b>Objective 3.3:</b>&nbsp; Improve the efficiency of the complaint resolution process.</li>
+  <li><b>Objective 3.1:</b>&nbsp; Proactively promote compliance through outreach to federal agencies and design professionals;/li>
+* <b>Objective 3.2:</b>&nbsp; Educate the public about rights under the ABA and the complaint process; and/li>
+* <b>Objective 3.3:</b>&nbsp; Improve the efficiency of the complaint resolution process.</li>
 </ul>
-<h5>Background:</h5>
+
+##### Background:
 
 The Access Board is the only federal agency designated by Congress to enforce the Architectural Barriers Act (ABA).&nbsp; The ABA requires most buildings designed, constructed, altered, or leased by the federal government &mdash; along with certain other federally-financed facilities &mdash; to be accessible to, and usable by, persons with disabilities.&nbsp; Our ABA enforcement program processes and investigates complaints, and, when violations are found, works with the appropriate federal agency or facility owner/lease holder to remedy these barriers.&nbsp; In any given year, we receive ABA complaints concerning a wide range of federal buildings and facilities, such as office buildings, service centers, post offices, national parks, military facilities, medical centers, and courthouses.
 
@@ -520,8 +515,9 @@ Enforcement program staff also work proactively with federal agencies and others
 
 Such partnerships with our sister agencies are instrumental in the sustained success of our enforcement program.&nbsp; Indeed, for at least the past decade, we have been able to work cooperatively with federal agencies (or other entities) to remedy accessibility barriers that violate the ABA without having to litigate the matter through formal enforcement proceedings.&nbsp; On occasion, we also succeed in convincing facility owners/lease holders to take corrective action even when the building or facility at issue is not covered by the ABA or, while covered and technically ABA-compliant, nonetheless, consistent with accessibility best practices, warrants modifications.
 
-<h5>Summary of Key Accomplishments in FY 2020:</h5>
-<h6>ABA Cases</h6>
+##### Summary of Key Accomplishments in FY 2020:
+
+###### ABA Cases
 
 During FY 2020, the Access Board received 140 new ABA complaints and closed 167 pending complaints.&nbsp; The total number of ABA complaints filed this year represented a 17% drop relative to complaints filed in the prior fiscal year (FY 2019).&nbsp; Anecdotally, we believe this decrease in ABA complaint filings is most likely pandemic-related in the sense that, since mid-March 2020, many Americans have been staying home more than they normally would be and, thus, federal facilities, such as post offices and national parks, are being visited less frequently and therefore and less violations are being reported. 
 
@@ -687,11 +683,13 @@ Table 3 below provides similar case closure data about the bases for ABA cases c
     </tr>
   </tbody>
 </table>
-<h6>Upgrades to our ABA Complaint Tracking System</h6>
+
+###### Upgrades to our ABA Complaint Tracking System
 
 In FY 2020, we undertook a project to make needed updates to the &ldquo;back-end&rdquo;of our cloud-based Complaint Tracking System (CTS) and worked closely with our contractor to implement those changes as part of a platform-wide system upgrade.&nbsp; The updated CTS back-end launched in August 2020, and we look forward to the benefits from these updates over the next fiscal year, while also continuously seeking other ways to optimize system performance, further expedite complaint handling, and improve program analytics.
 
-<h6>Other Initiatives</h6>
+
+###### Other Initiatives
 
 In October 2018, the National Council on Disability (NCD) issued a report titled, &ldquo;Has the Promise Been Kept? Federal Enforcement of Disability Rights Laws.&rdquo;&nbsp; The report made programmatic recommendations to the Equal Employment Opportunity Commission, Department of Labor, and the Access Board.&nbsp; Several recommendations focused on the Board&rsquo;s ABA enforcement program.&nbsp; In response to one of NCD&rsquo;s recommendations, we made a point this year of publicizing results from our ABA enforcement program more widely through the agency&rsquo;s bi-monthly e-newsletter (about 36,000 subscribers), social media, and press releases.&nbsp; We have also posted new content on the Access Board website that provides information about each ABA complaint closed in the past three fiscal years (FYs 2018 &mdash; 2020) that resulted in removal of accessibility barriers.&nbsp; These steps, we believe, will lead to greater public awareness of the Access Board and its ABA enforcement activities.&nbsp; We continue to evaluate other NCD&rsquo;s other recommendations and will continue to work to incorporate them to the extent feasible into our program going forward. 
 
@@ -699,21 +697,22 @@ The Access Board promulgated an update to the ABA Accessibility Standards (ABAAS
 
 In the upcoming fiscal year, we also aim to produce videos on the ABA enforcement program and complaint filing procedures and plan to post them on the Access Board website and/or YouTube channel, once completed.
 
-<h4>Goal #4:&nbsp; Expand awareness of the Access Board&rsquo;s functions and objectives</h4>
+#### Goal #4:&nbsp; Expand awareness of the Access Board&rsquo;s functions and objectives
 
 Our fourth and final strategic goal is supported by two objectives, which are
 
 <ul>
-  <li><b>Objective 4.1:</b>&nbsp; Engage other organizations and pursue partnerships to promote the Access Board&rsquo;s work; and</li>
-  <li><b>Objective 4.2:</b>&nbsp; Promote accessibility throughout all segments of society, including holding events in various locations across the country.</li>
+  <li><b>Objective 4.1:</b>&nbsp; Engage other organizations and pursue partnerships to promote the Access Board&rsquo;s work; and/li>
+* <b>Objective 4.2:</b>&nbsp; Promote accessibility throughout all segments of society, including holding events in various locations across the country.</li>
 </ul>
-<h5>Background:</h5>
+
+##### Background:
 
 Under the agency&rsquo;s bylaws, the Access Board holds five &ldquo;regular&rdquo;(i.e., business) Board meetings and one Board-sponsored public event each year.&nbsp; In recent years, the five business meetings have been held in-person at the Access Board&rsquo;s office in Washington, DC, while the sixth, public event is held outside the Washington, DC metropolitan area.&nbsp; Most often, Board meetings are held over 2-3 days, which includes both informal (closed) sessions and formal (public) sessions.
 
 Outside the context of Board meetings, staff is also engaged daily in promoting accessibility through not only the program-related work discussed elsewhere in this report, but also other efforts, such as speaking engagements, meetings with international delegations and organizations, and social media campaigns.
 
-<h5>Summary of Key Accomplishments in FY 2020:</h5>
+##### Summary of Key Accomplishments in FY 2020:
 
 In FY 2020, the Board held its regular slate of five business meetings.&nbsp; However, due to the pandemic, only three of these meetings were held in-person in Washington, D.C. (November 2019, January 2020 and March 2020), with the other two meetings being conducted remotely (July 2020 and September 2020).&nbsp; All formal sessions at these Board meetings were open to the public through personal attendance (in-person meetings only) or live web stream.&nbsp; Archival video recordings of public Board meetings are also posted on the Access Board website.
 
@@ -729,8 +728,10 @@ The Access Board&rsquo;s website (<a href="http://www.access-board.gov">www.acce
 
 ---
 
-<h2 id="_Toc56977635">Part Three: Financial Information</h2>
-<h3 id="_Toc56977636">Independent Auditor&rsquo;s Report</h3>
+## Part Three: Financial Information
+
+### Independent Auditor&rsquo;s Report<
+
 <p style="text-align: center;"><img src="{{ site.baseurl }}/images/bc-header.png" alt="Brown &amp; Company header -- Certified Public Accountants and Management Consulttants, PLLC" width="675" height="100" /><br>
   <b>INDEPENDENT AUDITOR&rsquo;S REPORT</b></p>
 <p>United States Access Board<br>
@@ -739,85 +740,87 @@ The Access Board&rsquo;s website (<a href="http://www.access-board.gov">www.acce
 In our audits of the fiscal years 2020 and 2019 financial statements of the U.S. Access Board (USAB), we found:
 
 <ul>
-  <li> USAB&rsquo;s financial statements as of and for the fiscal years ended September 30, 2020, and 2019, are presented fairly, in all material respects, in accordance with U.S. generally accepted accounting principles; </li>
-  <li> no material weaknesses in internal control over financial reporting based on the limited procedures we performed; and </li>
-  <li> no reportable noncompliance for fiscal year 2020 with provisions of applicable laws, regulations, contracts, and grant agreements we tested. </li>
+  <li> USAB&rsquo;s financial statements as of and for the fiscal years ended September 30, 2020, and 2019, are presented fairly, in all material respects, in accordance with U.S. generally accepted accounting principles; /li>
+*  no material weaknesses in internal control over financial reporting based on the limited procedures we performed; and /li>
+*  no reportable noncompliance for fiscal year 2020 with provisions of applicable laws, regulations, contracts, and grant agreements we tested. </li>
 </ul>
 
 The following sections discuss in more detail (1) our report on the financial statements, which includes required supplementary information(RSI) and other information included with the financial statements; (2) our report on internal control over financial reporting; and (3) our report on compliance with laws, regulations, contracts, and grant agreements.
 
-<h4>Report on the Financial Statements</h4>
+#### Report on the Financial Statements
 
 In accordance with the provisions of Accountability of Tax Dollars Act of 2002 (ATDA) (Pub. L. No. 107-289), we have audited USAB&rsquo;s financial statements. USAB&rsquo;s financial statements comprise the balance sheets as of September 30, 2020 and 2019; the related statements of net cost, changes in net position, and budgetary resources for the fiscal years then ended; and the related notes to the financial statements.
 
 We conducted our audits in accordance with U.S. generally accepted government auditing standards.&nbsp; We believe that the audit evidence we obtained is sufficient and appropriate to provide a basis for our audit opinions.
 
-<h5>Management&rsquo;s Responsibility</h5>
+##### Management&rsquo;s Responsibility
 
 USAB&rsquo;s management is responsible for (1) the preparation and fair presentation of these financial statements in accordance with U.S. generally accepted accounting principles; (2) preparing, measuring, and presenting the RSI in accordance with U.S. generally accepted accounting principles; (3) preparing and presenting other information included in documents containing the audited financial statements and auditor&rsquo;s report, and ensuring the consistency of that information with the audited financial statements and the RSI; and (4) maintaining effective internal control over financial reporting, including the design, implementation, and maintenance of internal control relevant to the preparation and fair presentation of financial statements that are free from material misstatement, whether due to fraud or error.
 
-<h5>Auditor&rsquo;s Responsibility</h5>
+##### Auditor&rsquo;s Responsibility
 
 Our responsibility is to express an opinion on these financial statements based on our audits. U.S. generally accepted government auditing standards require that we plan and perform the audit to obtain reasonable assurance about whether the financial statements are free from material misstatement. We are also responsible for applying certain limited procedures to RSI and other information included with the financial statements.
 
 An audit of financial statements involves performing procedures to obtain audit evidence about the amounts and disclosures in the financial statements. The procedures selected depend on the auditor&rsquo;s judgment, including the auditor&rsquo;s assessment of the risks of material misstatement of the financial statements, whether due to fraud or error. In making those risk assessments, the auditor considers internal control relevant to the entity&rsquo;s preparation and fair presentation of the financial statements in order to design audit procedures that are appropriate in the circumstances, but not for the purpose of expressing an opinion on the effectiveness of the entity&rsquo;s internal control. Accordingly, we express no such opinion. An audit of financial statements also involves evaluating the appropriateness of the accounting policies used and the reasonableness of significant accounting estimates made by management, as well as evaluating the overall presentation of the financial statements. Our audits also included performing such other procedures as we considered necessary in the circumstances.
 
-<h5>Opinion on Financial Statements</h5>
+##### Opinion on Financial Statements
 
 In our opinion, USAB&rsquo;s financial statements present fairly, in all material respects, USAB&rsquo;s financial position as of September 30, 2020, and 2019, and its net cost of operations, changes in net position, and budgetary resources for the fiscal years then ended in accordance with U.S. generally accepted accounting principles.
 
-<h5>Other Matters</h5>
-<h6>Required Supplementary Information</h6>
+##### Other Matters
+
+###### Required Supplementary Information
 
 U.S. generally accepted accounting principles issued by the Federal Accounting Standards Advisory Board (FASAB) require that the RSI be presented to supplement the financial statements. Although the RSI is not a part of the financial statements, FASAB considers this information to be an essential part of financial reporting for placing the financial statements in appropriate operational, economic, or historical context. We have applied certain limited procedures to the RSI in accordance with U.S. generally accepted government auditing standards, which consisted of inquiries of management about the methods of preparing the RSI and comparing the information for consistency with management&rsquo;s responses to the auditor&rsquo;s inquiries, the financial statements, and other knowledge we obtained during the audit of the financial statements, in order to report omissions or material departures from FASAB guidelines, if any, identified by these limited procedures. We did not audit and we do not express an opinion or provide any assurance on the RSI because the limited procedures we applied do not provide sufficient evidence to express an opinion or provide any assurance.
 
-<h6>Other Information</h6>
+
+###### Other Information
 
 USAB&rsquo;s other information contains a wide range of information, some of which is not directly related to the financial statements. This information is presented for purposes of additional analysis and is not a required part of the financial statements or the RSI. We read the other information included with the financial statements in order to identify material inconsistencies, if any, with the audited financial statements. Our audit was conducted for the purpose of forming an opinion on USAB&rsquo;s financial statements. We did not audit and do not express an opinion or provide any assurance on the other information.
 
-<h4>Report on Internal Control over Financial Reporting</h4>
+#### Report on Internal Control over Financial Reporting
 
 In connection with our audits of USAB&rsquo;s financial statements, we considered USAB&rsquo;s internal control over financial reporting, consistent with our auditor&rsquo;s responsibility discussed below. We performed our procedures related to USAB&rsquo;s internal control over financial reporting in accordance with U.S. generally accepted government auditing standards.
 
-<h5>Management&rsquo;s Responsibility</h5>
+##### Management&rsquo;s Responsibility
 
 USAB&rsquo;s management is responsible for maintaining effective internal control over financial reporting, including the design, implementation, and maintenance of internal control relevant to the preparation and fair presentation of financial statements that are free from material misstatement, whether due to fraud or error.
 
-<h5>Auditor&rsquo;s Responsibility</h5>
+##### Auditor&rsquo;s Responsibility
 
 In planning and performing our audit of USAB&rsquo;s financial statements as of and for the year ended September 30, 2020, in accordance with U.S. generally accepted government auditing standards, we considered the USAB&rsquo;s internal control over financial reporting as a basis for designing audit procedures that are appropriate in the circumstances for the purpose of expressing our opinion on the financial statements, but not for the purpose of expressing an opinion on the effectiveness of USAB&rsquo;s internal control over financial reporting. Accordingly, we do not express an opinion on USAB&rsquo;s internal control over financial reporting. We are required to report all deficiencies that are considered to be significant deficiencies or material weaknesses. We did not consider all internal controls relevant to operating objectives, such as those controls relevant to preparing performance information and ensuring efficient operations.
 
-<h5>Definition and Inherent Limitations of Internal Control over Financial Reporting</h5>
+##### Definition and Inherent Limitations of Internal Control over Financial Reporting
 
 An entity&rsquo;s internal control over financial reporting is a process effected by those charged with governance, management, and other personnel, the objectives of which are to provide reasonable assurance that (1) transactions are properly recorded, processed, and summarized to permit the preparation of financial statements in accordance with U.S. generally accepted accounting principles, and assets are safeguarded against loss from unauthorized acquisition, use, or disposition, and (2) transactions are executed in accordance with provisions of applicable laws, including those governing the use of budget authority, regulations, contracts, and grant agreements, noncompliance with which could have a material effect on the financial statements.
 
 Because of its inherent limitations, internal control over financial reporting may not prevent, or detect and correct, misstatements due to fraud or error.
 
-<h5>Results of Our Consideration of Internal Control over Financial Reporting</h5>
+##### Results of Our Consideration of Internal Control over Financial Reporting
 
 Our consideration of internal control was for the limited purpose described above, and was not designed to identify all deficiencies in internal control that might be material weaknesses and significant deficiencies or to express an opinion on the effectiveness of USAB&rsquo;s internal control over financial reporting. Given these limitations, during our audit, we did not identify any deficiencies in internal control over financial reporting that we consider to be material weaknesses. However, material weaknesses may exist that have not been identified.
 
-<h5>Intended Purpose of Report on Internal Control over Financial Reporting</h5>
+##### Intended Purpose of Report on Internal Control over Financial Reporting
 
 The purpose of this report is solely to describe the scope of our consideration of USAB&rsquo;s internal control over financial reporting and the results of our procedures, and not to provide an opinion on the effectiveness of the USAB&rsquo;s internal control over financial reporting. This report is an integral part of an audit performed in accordance with U.S. generally accepted government auditing standards in considering internal control over financial reporting. Accordingly, this report on internal control over financial reporting is not suitable for any other purpose.
 
-<h4>Report on Compliance with Laws, Regulations, Contracts, and Grant Agreements</h4>
+#### Report on Compliance with Laws, Regulations, Contracts, and Grant Agreements
 
 In connection with our audits of USAB&rsquo;s financial statements, we tested compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements consistent with our auditor&rsquo;s responsibility discussed below. We caution that noncompliance may occur and not be detected by these tests. We performed our tests of compliance in accordance with U.S. generally accepted government auditing standards.
 
-<h5>Management&rsquo;s Responsibility</h5>
+##### Management&rsquo;s Responsibility
 
 USAB&rsquo;s management is responsible for complying with laws, regulations, contracts, and grant agreements applicable to USAB.
 
-<h5>Auditor&rsquo;s Responsibility</h5>
+##### Auditor&rsquo;s Responsibility
 
 Our responsibility is to test compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements applicable to USAB that have a direct effect on the determination of material amounts and disclosures in USAB&rsquo;s financial statements, and perform certain other limited procedures. Accordingly, we did not test compliance with all laws, regulations, contracts, and grant agreements applicable to USAB.
 
-<h5>Results of Our Tests for Compliance with Laws, Regulations, Contracts, and Grant Agreements</h5>
+##### Results of Our Tests for Compliance with Laws, Regulations, Contracts, and Grant Agreements
 
 Our tests for compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements disclosed no instances of noncompliance for fiscal year 2020 that would be reportable under U.S. generally accepted government auditing standards. However, the objective of our tests was not to provide an opinion on compliance with laws, regulations, contracts, and grant agreements applicable to USAB. Accordingly, we do not express such an opinion.
 
-<h5>Intended Purpose of Report on Compliance with Laws, Regulations, Contracts, and Grant Agreement</h5>
+##### Intended Purpose of Report on Compliance with Laws, Regulations, Contracts, and Grant Agreement
 
 The purpose of this report is solely to describe the scope of our testing of compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements, and the results of that testing, and not to provide an opinion on compliance. This report is an integral part of an audit performed in accordance with U.S. generally accepted government auditing standards in considering compliance. Accordingly, this report on compliance with laws, regulations, contracts, and grant agreements is not suitable for any other purpose.
 
@@ -1213,7 +1216,8 @@ The accompanying notes are an integral part of these financial statements.
 
 ---
 
-<h3 id="_Toc56977638">Notes on Financial Statements</h3>
+### Notes on Financial Statements
+
 <p style="text-align:center; font-weight:bold> <img src="{{ site.baseurl }}/images/notes-header.jpg" alt="photo of calculator, paper spreadsheet, and pen" width="816" height="166" /> <br>
   ACCESS BOARD <br>
   NOTES TO THE FINANCIAL STATEMENTS </p>
@@ -1232,27 +1236,27 @@ General Fund miscellaneous receipts are accounts established for receipts of non
 
 The Access Board has rights and ownership of all assets reported in these financial statements and does not possess any non-entity assets.
 
-<h5>B. &nbsp; Basis of Presentation</h5>
+##### B. &nbsp; Basis of Presentation
 
 The financial statements have been prepared to report the financial position and results of operations of the Access Board.&nbsp; The Balance Sheet presents the financial position of the agency. The Statement of Net Cost presents the agency&rsquo;s operating results; the Statement of Changes in Net Position displays the changes in the agency&rsquo;s equity accounts. The Statement of Budgetary Resources presents the sources, status, and uses of the agency&rsquo;s resources and follows the rules for the Budget of the United States Government.
 
 The statements are a requirement of the Chief Financial Officers Act of 1990, the Government Management Reform Act of 1994 and the Accountability of Tax Dollars Act of 2002.&nbsp; They have been prepared from, and are fully supported by, the books and records of the Access Board in accordance with the hierarchy of accounting principles generally accepted in the United States of America, standards issued by the Federal Accounting Standards Advisory Board (FASAB), Office of Management and Budget (OMB) Circular A-136, <cite>Financial Reporting Requirements</cite>, as amended, and the Access Board accounting policies which are summarized in this note.&nbsp; These statements, with the exception of the Statement of Budgetary Resources, are different from financial management reports, which are also prepared pursuant to OMB directives that are used to monitor and control the Access Board&rsquo;s use of budgetary resources.&nbsp; The financial statements and associated notes are presented on a comparative basis.&nbsp; Unless specified otherwise, all amounts are presented in dollars.
 
-<h5>C. &nbsp; Basis of Accounting</h5>
+##### C. &nbsp; Basis of Accounting
 
 Transactions are recorded on both an accrual accounting basis and a budgetary basis.&nbsp; Under the accrual method, revenues are recognized when earned, and expenses are recognized when a liability is incurred, without regard to receipt or payment of cash.&nbsp; Budgetary accounting facilitates compliance with legal requirements on the use of federal funds.
 
-<h5>D. &nbsp; Fund Balance with Treasury</h5>
+##### D. &nbsp; Fund Balance with Treasury
 
 FBWT is an asset of a reporting entity and a liability of the General Fund. It is the aggregate amount of the Access Board&rsquo;s funds with Treasury in expenditure, receipt fund accounts.&nbsp; Appropriated funds recorded in expenditure accounts are available to pay current liabilities and finance authorized purchases. 
 
 The Access Board does not maintain bank accounts of its own, has no disbursing authority, and does not maintain cash held outside of Treasury.&nbsp; Funds are disbursed for the agency on demand.
 
-<h5>E. &nbsp; Accounts Receivable</h5>
+##### E. &nbsp; Accounts Receivable
 
 Accounts receivable consists of amounts owed to the Access Board by other federal agencies and the general public.&nbsp; Amounts due from federal agencies are considered fully collectible.&nbsp; Accounts receivable from the public include reimbursements from employees.&nbsp; An allowance for uncollectible accounts receivable from the public is established when, based upon a review of outstanding accounts and the failure of all collection efforts, management determines that collection is unlikely to occur considering the debtor&rsquo;s ability to pay.
 
-<h5>F. &nbsp; Property, Equipment, and Software</h5>
+##### F. &nbsp; Property, Equipment, and Software
 
 Property, equipment and software represent furniture, fixtures, equipment, and information technology hardware and software which are recorded at original acquisition cost and are depreciated or amortized using the straight-line method over their estimated useful lives.&nbsp; Major alterations and renovations are capitalized, while maintenance and repair costs are expensed as incurred.&nbsp; The Access Board&rsquo;s capitalization threshold is $50,000 for individual purchases and $500,000 for bulk purchases.&nbsp; Property, equipment, and software acquisitions that do not meet the capitalization criteria are expensed upon receipt.&nbsp; Applicable standard governmental guidelines regulate the disposal and convertibility of agency property, equipment, and software.&nbsp; The useful life classifications for capitalized assets are as follows:
 
@@ -1286,11 +1290,12 @@ Property, equipment and software represent furniture, fixtures, equipment, and i
     </tr>
   </tbody>
 </table>
-<h5>G. &nbsp; Advances and Prepaid Charges</h5>
+
+##### G. &nbsp; Advances and Prepaid Charges
 
 Advance payments are generally prohibited by law.&nbsp; There are some exceptions, such as reimbursable agreements, subscriptions and payments to contractors and employees.&nbsp; Payments made in advance of the receipt of goods and services are recorded as advances or prepaid charges at the time of prepayment and recognized as expenses when the related goods and services are received.
 
-<h5>H. &nbsp; Liabilities</h5>
+##### H. &nbsp; Liabilities
 
 Liabilities represent the amount of funds likely to be paid by the Access Board as a result of transactions or events that have already occurred.
 
@@ -1300,15 +1305,15 @@ Liabilities covered by budgetary resources are liabilities funded by a current a
 
 Liabilities not covered by budgetary resources are liabilities that are not funded by any current appropriation or other funding source.&nbsp; These liabilities consist of accrued annual leave, actuarial FECA (Federal Employees Compensation Act).
 
-<h5>I. &nbsp; Annual, Sick, and Other Leave</h5>
+##### I. &nbsp; Annual, Sick, and Other Leave
 
 Annual leave is accrued as it is earned, and the accrual is reduced as leave is taken.&nbsp; The balance in the accrued leave account is adjusted to reflect current pay rates.&nbsp; Liabilities associated with other types of vested leave, including compensatory, restored leave, and sick leave in certain circumstances, are accrued at year-end, based on latest pay rates and unused hours of leave.&nbsp; Funding will be obtained from future financing sources to the extent that current or prior year appropriations are not available to fund annual and other types of vested leave earned but not taken.&nbsp; Nonvested leave is expensed when used.&nbsp; Any liability for sick leave that is accrued but not taken by a Civil Service Retirement System (CSRS)-covered employee is transferred to the Office of Personnel Management (OPM) upon the retirement of that individual.&nbsp; Credit is given for sick leave balances in the computation of annuities upon the retirement of Federal Employees Retirement System (FERS)-covered employees.
 
-<h5>J. &nbsp; Accrued and Actuarial Workers&rsquo; Compensation</h5>
+##### J. &nbsp; Accrued and Actuarial Workers&rsquo; Compensation
 
 The Federal Employees' Compensation Act (FECA) administered by the U.S. Department of Labor (DOL) addresses all claims brought by the Access Board employees for on-the-job injuries.&nbsp; The DOL bills each agency annually as its claims are paid, but payment of these bills is deferred for two years to allow for funding through the budget process.&nbsp; Similarly, employees that the Access Board terminates without cause may receive unemployment compensation benefits under the unemployment insurance program also administered by the DOL, which bills each agency quarterly for paid claims. Future appropriations will be used for the reimbursement to DOL.&nbsp; The liability consists of (1) the net present value of estimated future payments calculated by the DOL and (2) the unreimbursed cost paid by DOL for compensation to recipients under the FECA.
 
-<h5>K. &nbsp; Retirement Plans</h5>
+##### K. &nbsp; Retirement Plans
 
 The Access Board employees participate in either the CSRS or the FERS.&nbsp; The employees who participate in CSRS are beneficiaries of the agency&rsquo;s matching contribution, equal to seven percent of pay, distributed to their annuity account in the Civil Service Retirement and Disability Fund.
 
@@ -1320,23 +1325,23 @@ The Access Board recognizes the imputed cost of pension and other retirement ben
 
 The Access Board does not report information pertaining to the retirement plans covering its employees. on its financial statements.&nbsp; Reporting amounts such as plan assets, accumulated plan benefits, and related unfunded liabilities, if any, is the responsibility of the OPM, as the administrator.
 
-<h5>L. &nbsp; Other Post-Employment Benefits</h5>
+##### L. &nbsp; Other Post-Employment Benefits
 
 The Access Board employees eligible to participate in the Federal Employees' Health Benefits Plan (FEHBP) and the Federal Employees' Group Life Insurance Program (FEGLIP) may continue to participate in these programs after their retirement.&nbsp; The OPM has provided the Access Board with certain cost factors that estimate the true cost of providing the post-retirement benefit to current employees.&nbsp; The Access Board recognizes a current cost for these and Other Retirement Benefits (ORB) at the time the employee&rsquo;s services are rendered.&nbsp; The ORB expense is financed by OPM and offset by the Access Board through the recognition of an imputed financing source.
 
-<h5>M. &nbsp; Use of Estimates</h5>
+##### M. &nbsp; Use of Estimates
 
 The preparation of the accompanying financial statements in accordance with generally accepted accounting principles requires management to make certain estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, and expenses.&nbsp; Actual results could differ from those estimates.&nbsp;
 
-<h5>N. &nbsp; Reclassification</h5>
+##### N. &nbsp; Reclassification
 
 Certain fiscal year 2019 balances have been reclassified, retitled, or combined with other financial statement line items for consistency with the current year presentation.
 
-<h5>O. &nbsp; Classified Activities</h5>
+##### O. &nbsp; Classified Activities
 
 Accounting standards require all reporting entities to disclose that accounting standards allow certain presentations and disclosures to be modified, if needed, to prevent the disclosure of classified information.
 
-<h4 id="n2">NOTE 2.&nbsp; FUND BALANCE WITH TREASURY</h4>
+#### NOTE 2.&nbsp; FUND BALANCE WITH TREASURY
 
 Fund Balance with Treasury account balances as of September 30, 2020 and 2019, respectively, are shown below.
 
@@ -1385,7 +1390,7 @@ The unavailable unobligated fund balances represent the amount of appropriations
 
 The obligated balance not yet disbursed includes accounts payable, accrued expenses, and undelivered orders that have reduced unexpended appropriations but have not yet decreased the fund balance on hand.
 
-<h4 id="n3">NOTE 3. &nbsp; ACCOUNTS RECEIVABLE, NET</h4>
+#### NOTE 3.&nbsp; ACCOUNTS RECEIVABLE, NET
 
 Accounts receivable balances as of September 30, 2020 and 2019, respectively, are shown below.
 
@@ -1425,7 +1430,7 @@ The accounts receivable is primarily made up of other receivable with the public
 
 Historical experience has indicated that the majority of the receivables are collectible.&nbsp; There are no material uncollectible accounts as of September 30, 2020 and 2019.
 
-<h4 id="n4">NOTE 4.&nbsp; GENERAL PROPERTY, PLANT AND EQUIPMENT, NET</h4>
+#### NOTE 4.&nbsp; GENERAL PROPERTY, PLANT AND EQUIPMENT, NET
 
 Schedule of General Property, Plant and Equipment, Net as of September 30, 2020, are shown below.
 
@@ -1503,7 +1508,8 @@ Schedule of General Property, Plant and Equipment, Net (End of Fiscal Year, 2019
     </tr>
   </tfoot>
 </table>
-<h4 id="n5">NOTE 5.&nbsp; OTHER ASSETS</h4>
+
+#### NOTE 5.&nbsp; OTHER ASSETS
 
 Other assets account balances as of September 30, 2020 and 2019, respectively, are shown below.
 
@@ -1541,7 +1547,7 @@ Other assets account balances as of September 30, 2020 and 2019, respectively, a
 
 The Access Board posts NBC Administrative Office procurement orders as prepayments.
 
-<h4 id="n6">NOTE 6.&nbsp; LIABILITIES NOT COVERED BY BUDGETARY RESOURCES</h4>
+#### NOTE 6.&nbsp; LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
 The liabilities for the Access Board, as of September 30, 2020 and 2019, include liabilities not covered by budgetary resources.&nbsp; Congressional action is needed before budgetary resources can be provided.&nbsp; Although future appropriations to fund these liabilities are likely and anticipated, it is not certain that appropriations will be enacted to fund these liabilities.
 
@@ -1593,7 +1599,7 @@ FECA and the Unemployment Insurance liabilities represent the unfunded liability
 
 Unfunded leave represents a liability for earned leave and is reduced when leave is taken.&nbsp; The balance in the accrued annual leave account is reviewed quarterly and adjusted as needed to accurately reflect the liability at current pay rates and leave balances.&nbsp; Accrued annual leave is paid from future funding sources and, accordingly, is reflected as a liability not covered by budgetary resources.&nbsp; Sick and other leave is expensed as taken.
 
-<h4 id="n7">NOTE 7.&nbsp; OTHER LIABILITIES</h4>
+#### NOTE 7.&nbsp; OTHER LIABILITIES
 
 Account balances for other intragovernmental liabilities, as of September 30, 2020, are shown below.
 
@@ -1758,8 +1764,10 @@ Account balances for other public liabilities, as of September 30, 2019, are sho
     </tr>
   </tfoot>
 </table>
-<h4 id="n8">NOTE 8.&nbsp; LEASES</h4>
-<h5>A. &nbsp; Operating Leases</h5>
+
+#### NOTE 8.&nbsp; LEASES
+
+##### A. &nbsp; Operating Leases
 
 The Access Board occupies office space under a lease agreement that is accounted for as an operating lease in Washington, DC.&nbsp; The lease term begins on July 1, 2018 and expires on January 1, 2022.&nbsp; Lease payments are increased annually based on the adjustments for operating cost and real estate tax escalations.&nbsp; The total operating lease expense for fiscal years 2020 and 2019 were $721,897 and $719,254, respectively.
 
@@ -1811,7 +1819,7 @@ Shown below is a schedule of future payments for the term of the Access Board&rs
 
 The operating lease amount does not include estimated payments for leases with annual renewal options.
 
-<h4 id="n9">NOTE 9.&nbsp; INTER-ENTITY COSTS</h4>
+#### NOTE 9.&nbsp; INTER-ENTITY COSTS
 
 The Access Board recognizes certain inter-entity costs for goods and services that are received from other federal entities at no cost or at a cost less than the full cost.&nbsp; Certain costs of the providing entity that are not fully reimbursed are recognized as imputed cost and are offset by imputed revenue.&nbsp; Such imputed costs and revenues relate to employee benefits and claims to be settled by the Treasury Judgement Fund.&nbsp; The Access Board recognizes as inter-entity costs the amount of accrued pension and post-retirement benefit expenses for current employees.&nbsp; The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.
 
@@ -1843,7 +1851,8 @@ For the periods ended September 30, 2020 and 2019, respectively, inter-entity co
     </tr>
   </tfoot>
 </table>
-<h4 id="n10">NOTE 10.&nbsp; UNDELIVERED ORDERS AT THE END OF THE PERIOD</h4>
+
+#### NOTE 10.&nbsp; UNDELIVERED ORDERS AT THE END OF THE PERIOD
 
 Budgetary resources obligated for undelivered orders, as of September 30, 2020, are shown below.
 
@@ -1920,7 +1929,8 @@ Budgetary resources obligated for undelivered orders, as of September 30, 2019, 
     </tr>
   </tfoot>
 </table>
-<h4 id="n11">NOTE 11.&nbsp; EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT</h4>
+
+#### NOTE 11.&nbsp; EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
 
 The President&rsquo;s Budget that will include fiscal year 2020 actual budgetary execution information has not yet been published.&nbsp; The President&rsquo;s Budget is scheduled for publication in February 2021 and can be found at the <a href="http://www.whitehouse.gov/omb">OMB&rsquo;s website</a>.&nbsp; The 2021 Budget of the United States Government, with the &quot;Actual&quot; column completed for 2019, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
 
@@ -1986,7 +1996,8 @@ Shown below in Figure M are the differences between the Access Board&rsquo;s Sta
     </tr>
   </tfoot>
 </table>
-<h4 id="n12">NOTE 12.&nbsp; RECONCILIATION OF NET COST TO NET OUTLAYS</h4>
+
+#### NOTE 12.&nbsp; RECONCILIATION OF NET COST TO NET OUTLAYS
 
 The reconciliation of net outlays (presented is on a budgetary basis) and net costs (which are presented on an accrual basis) provide an explanation of the relationship between budgetary and financial accounting information.
 
@@ -2236,13 +2247,17 @@ Shown below is a reconciliation of net cost to net outlays, as September 30, 201
     </tr>
   </tfoot>
 </table>
-<hr />
-<h2 id="_Toc56977639">Part Four: Other Information</h2>
-<h3 id="_Toc56977640">Summary of Financial Statement Audit and Management Assurances</h3>
+
+---
+
+## Part Four: Other Information
+
+### Summary of Financial Statement Audit and Management Assurances
 
 As required by OMB Circular A-136 &sect; II.4.4, the Access Board provides the following summary tables that provide information regarding its audited financial statements and management assurances for FY 2020:
 
-<h4>Summary of Financial Statement Audit</h4>
+#### Summary of Financial Statement Audit
+
 <table class="par-prose">
   <tbody>
     <tr>
@@ -2279,8 +2294,9 @@ As required by OMB Circular A-136 &sect; II.4.4, the Access Board provides the f
     </tr>
   </tbody>
 </table>
-<h4>Summary of Management Assurances</h4>
-<h5>Tables for Assurance #1: Financial Reporting</h5>
+#### Summary of Management Assurances
+
+##### Tables for Assurance #1: Financial Reporting
 <table class="par-prose">
   <tbody>
     <tr>
@@ -2317,7 +2333,8 @@ As required by OMB Circular A-136 &sect; II.4.4, the Access Board provides the f
     </tr>
   </tbody>
 </table>
-<h5>Tables for Assurance #2: Internal Controls</h5>
+
+##### Tables for Assurance #2: Internal Controls
 <table class="par-prose">
   <tr>
     <th scope="row">Assurance #2:</th>
