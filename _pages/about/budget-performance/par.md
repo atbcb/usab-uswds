@@ -24,9 +24,9 @@ I am also pleased to report that, for FY 2020, the Access Board received an unmo
 
 The outstanding performance described in the pages that follow is a testament to the dedicated efforts of the Board, its career staff, and our federal partners.&nbsp; As we closed the books on FY 2020, the Access Board is well positioned to meet the challenges that lie ahead.
 
-<p><img src="{{ site.baseurl }}/images/lr-sig.png" alt="Lance Robertson signature" width="193" height="57"></p>
+<p><img src="{{ site.baseurl }}/images/lr-sig.png" alt="Lance Robertson signature" width="193" height="57" /></p>
 <p style="margin-top:-32px">
-  <span style="text-decoration:underline; width:20em">&nbsp;</span><br>
+  <span style="text-decoration:underline"> &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; </span><br>
   Lance Robertson<br>
   Chair<br>
   United States Access Board<br>
@@ -37,7 +37,7 @@ The outstanding performance described in the pages that follow is a testament to
 ### Table of Contents
 
 * [Message From the Chair](#message_from_the_chair)
-* [Part One: Management Discussion and Analysis](part_one_management_discussion_and_analysis)
+* [Part One: Management Discussion and Analysis](#part_one_management_discussion_and_analysis)
     - [Mission](#mission)
     - [Organizational Structure](#organizational_structure)
     - [Board Members](#board_members)
@@ -66,7 +66,7 @@ Established by the Rehabilitation Act of 1973, the United States Access Board &m
 
 The Access Board is governed by a 25-member board, with the Board Chair serving as agency head.&nbsp; The diagram below depicts the agency&rsquo;s organizational structure in FY 2020.
 
-<figure> <a href="{{ site.baseurl }}/images/usab-org-chart.png"><img src="{{ site.baseurl }}/images/usab-org-chart.png" alt="Organizational structure of Access Board showing Executive Director under Board and three offices under Executive Director: OTIS, OA &amp; OGC." class="img-large"></a>
+<figure> <a href="{{ site.baseurl }}/images/usab-org-chart.png"><img src="{{ site.baseurl }}/images/usab-org-chart.png" alt="Organizational structure of Access Board showing Executive Director under Board and three offices under Executive Director: OTIS, OA &amp; OGC." class="img-full" /></a>
   <figcaption>U.S. Access Board Organizational Structures</figcaption>
 </figure>
 
@@ -146,6 +146,9 @@ We provide below an overview of the Access Board&rsquo;s performance results for
     </tr>
   </tbody>
 </table>
+
+<p>hello world</p>
+
 <table class="par-prose" style="width:40em">
   <caption>
   Strategic Goal #2:&nbsp; Provide training and technical assistance on accessibility
@@ -182,6 +185,7 @@ We provide below an overview of the Access Board&rsquo;s performance results for
         </ul></td>
     </tr>
 </table>
+
 <table class="par-prose" style="width:40em">
   <caption>
   Strategic Goal #3:&nbsp; Increase Architectural Barriers Act awareness and compliance
@@ -214,6 +218,7 @@ We provide below an overview of the Access Board&rsquo;s performance results for
     </tr>
   </tbody>
 </table>
+
 <table class="par-prose" style="width:40em">
   <caption>
   Strategic Goal #4:&nbsp; Expand awareness of the Access Board&rsquo;s functions and objectives
@@ -243,6 +248,7 @@ We provide below an overview of the Access Board&rsquo;s performance results for
     </tr>
   </tbody>
 </table>
+
 
 ### Financial Highlights
 
@@ -393,7 +399,6 @@ In February 2020, we published an Advance Notice of Proposed Rulemaking (ANPRM) 
 
 The public comment period on the Rail Vehicle ANPRM closed in mid-July 2020.&nbsp; We received over 200 public comments in response to this notice.&nbsp; As the fiscal year ends, we are in the process of evaluating and analyzing these comments.&nbsp; We will use information provided by commenters to help frame a future proposed rule.
 
-
 ###### Advisory Guidelines for Onboard Wheelchairs
 
 The Access Board is developing voluntary, advisory guidelines for aircraft onboard wheelchairs (OBWAG) used on commercial passenger aircraft to aid the Department of Transportation (DOT) in the department&rsquo;s separate regulatory initiative to improve access to air travel.&nbsp; DOT, as part of a negotiated rulemaking process, plans to supplement its regulations implementing the Air Carrier Access Act by specifying a performance standard calling for enhanced functionality of onboard wheelchairs relative to current requirements for such devices.&nbsp; (Commercial air carriers are currently required to provide onboard wheelchairs on all aircraft, which facilitate the transfer of passengers with disabilities to in-cabin bathrooms since personal wheelchairs cannot be used on these aircraft.) The Access Board&rsquo;s OBWAG will specify technical specifications (e.g., dimensions, features, and capabilities) for onboard wheelchairs.&nbsp; The Access Board expects its non-binding guidelines to serve as technical assistance for air carriers and manufacturers by providing an illustrative technical approach for onboard wheelchairs which, if followed, would provide assurance of compliance with DOT&rsquo;s forthcoming performance standard for onboard wheelchairs.
@@ -401,7 +406,6 @@ The Access Board is developing voluntary, advisory guidelines for aircraft onboa
 In FY 2020, the Access Board continued its efforts &mdash; which began in summer 2019 &mdash; aimed at development and publication of OBWAG.&nbsp; In mid-October 2019, the comment period closed on our &ldquo;notice of invitation&rdquo;for public comment on a draft set of advisory guidelines for onboard wheelchairs.&nbsp; (See 84 Fed. Reg. 43100).&nbsp; In this notice, the Board posed 46 questions about specific provisions in the draft guidelines, while also welcoming input on other aspects of this document.&nbsp; (The Access Board also garnered public input on its draft advisory guidelines by holding a public hearing in mid-September 2019.)
 
 Since the close of public comment on the draft advisory guidelines, our efforts have been mostly &ldquo;behind the scenes&rdquo; to evaluate public comments and better understand relevant technical issues.&nbsp; Access Board staff analyzed the 40 or so comments received in response to our call for public input on the draft OBWAG, with comments having been submitted by individuals, manufacturers, designers, airline associations, academics, and disability rights organizations.&nbsp; Relatedly, following the close of the public comment period in spring 2020 on DOT&rsquo;s proposed rule concerning enhanced requirements for accessible lavatories and onboard wheelchairs on commercial aircraft, we reviewed the nearly 340 comments received by DOT to cull those relating to onboard wheelchairs.&nbsp; We will determine the appropriate next steps for OBWAG finalization after evaluating pertinent comments to DOT&rsquo;s proposed rule (along with those received in response to our prior notice of invitation) and gathering additional technical information, as needed.
-
 
 ###### Final Accessibility Guidelines for Public Rights-of-Way and Shared Use Paths
 
@@ -413,7 +417,6 @@ In spring 2017, consistent with the deregulatory priorities of the Administratio
 
 Although this rulemaking is formally set aside, in FY 2020, agency staff worked with experts at the Transportation Department&rsquo;s Volpe Center to complete work on a contract that expired at the end of the year for preparatory work related to a final regulatory assessment for the PROWAG final rule.&nbsp; The Access Board remains committed to completing work on the PROWAG final rule &mdash; a rule that promises to improve access to streets, sidewalks, and other pedestrian facilities for millions of Americans with disabilities &mdash; when the rulemaking returns to our regulatory agenda.
 
-
 ###### Board and Staff Participation in Development of Voluntary Consensus Standards
 
 Under the Help America Vote Act of 2002 (HAVA), the Access Board has two statutory representatives on both the Election Assistance Commission&rsquo;s 35-member Board of Advisors, which advises the EAC, and the 15-member Technical Guidelines Development Committee (TGDC), which assists EAC in the development of voluntary voting system guidelines.&nbsp; These voting system guidelines provide a set of voluntary specifications for voting systems that may be used by states/localities to assess whether their respective voting systems meet basic HAVA-specified standards for system functionality, accessibility, and security.
@@ -424,21 +427,18 @@ Access Board staff also serve on numerous committees, technical working groups, 
 
 In FY 2020, staff served on, or worked with, the following model code groups, SDOs, and research cooperatives:
 
-<ul>
-  <li> American Society of Mechanical Engineers (ASME) A18 Platform Lift and Stairway Chair Lift Committee;/li>
-*  American Society of Testing and Materials (ASTM) Committee on Sports Equipment, Playing Surfaces, and Facilities;/li>
-*  International Code Council (ICC) Consensus Committee on Accessible and Usable Buildings and Facilities (ASC A117);/li>
-*  National Committee on Uniform Traffic Control Devices;/li>
-*  National Cooperative Highway Research Panel (sponsored by the Transportation Research Board (TRB:);/li>
-*  Transportation Cooperative Research Panel (sponsored by TRB);/li>
-*  Rehabilitation Engineering and Assistive Technology Society of North America (RESNA) Standards Committee on Cognitive Accessibility (CA);/li>
-*  TRB Standing Committee on Innovative Public Transportation Services and Technologies; /li>
-*  RESNA Standards Committee for Assistive Technology for Air Travel (ATAT); and/li>
-*  World Wide Web Consortium (W3C) Web Accessibility Initiative &ndash; Accessibility Guidelines Working Group (AG WG).</li>
-</ul>
+- American Society of Mechanical Engineers (ASME) A18 Platform Lift and Stairway Chair Lift Committee;
+- American Society of Testing and Materials (ASTM) Committee on Sports Equipment, Playing Surfaces, and Facilities;
+- International Code Council (ICC) Consensus Committee on Accessible and Usable Buildings and Facilities (ASC A117);
+- National Committee on Uniform Traffic Control Devices;
+- National Cooperative Highway Research Panel (sponsored by the Transportation Research Board (TRB:);
+- Transportation Cooperative Research Panel (sponsored by TRB);
+- Rehabilitation Engineering and Assistive Technology Society of North America (RESNA) Standards Committee on Cognitive Accessibility (CA);
+- TRB Standing Committee on Innovative Public Transportation Services and Technologies;
+- RESNA Standards Committee for Assistive Technology for Air Travel (ATAT); and
+- World Wide Web Consortium (W3C) Web Accessibility Initiative &ndash; Accessibility Guidelines Working Group (AG WG).
 
 Access Board managers and staff also participated in several inter-agency committees and working groups that foster inter-agency cooperation on accessibility-related issues.&nbsp; Among other things, in FY 2020, the Access Board Executive Director represented the agency on the National Institute of Standards and Technology-sponsored Interagency Committee on Standards Policy (ICSP).&nbsp; The ICSP provides a forum for coordination of federal standards policies and promotion of standardization activities; this interagency committee reports to the Secretary of Commerce through the NIST Director.&nbsp; Agency leadership (generally, the Executive Director) represents the agency on the Disability Policy Interagency Working Group (DPG).&nbsp; Meeting monthly, the DPG serves as a collaborative forum for agencies (or components) with similar disability-related missions to share information and best practices and establish new partnerships.&nbsp; Access Board technical staff also served on, and were actively involved with, the technically oriented Chief Information Officers Council&rsquo;s Accessibility Community of Practice and the Federal Communication Commission&rsquo;s Disability Advisory Committee (ex officio member).
-
 
 ###### Other Initiatives
 
@@ -460,11 +460,9 @@ Looking ahead, the study committee&rsquo;s remaining meetings in 2021 will be cl
 
 Our second strategic goal is supported by three objectives, which are
 
-<ul>
-  <li><b>Objective 2.1:</b>&nbsp; Promote and publicize the Board&rsquo;s training and technical assistance services to reach more customers./li>
-* <b>Objective 2.2:</b>&nbsp; Use multiple communications platforms to reach a broader audience./li>
-* <b>Objective 2.3:</b>&nbsp; Develop and update educational materials to promote understanding of and compliance with accessibility standards and guidelines.</li>
-</ul>
+- **Objective 2.1:** &nbsp;Promote and publicize the Board&rsquo;s training and technical assistance services to reach more customers.
+- **Objective 2.2:** &nbsp;Use multiple communications platforms to reach a broader audience.
+- **Objective 2.3:** &nbsp;Develop and update educational materials to promote understanding of and compliance with accessibility standards and guidelines.
 
 ##### Background:
 
@@ -481,7 +479,6 @@ This year we continued with the two successful webinar series which we have been
 The first webinar series addressed accessible design relating to the built environment.&nbsp; Most sessions focused on our ADA and ABA Accessibility Standards and a year-long chapter-by-chapter review of common sources of confusion.&nbsp; These sessions were offered monthly, in cooperation with the National Network of ADA Centers.&nbsp; Continuing education credits (CEUs) were available to participants, if desired.&nbsp; Overall, in FY 2020, over 6,400 people attended the sessions in this webinar series.
 
 The second webinar series &mdash; which addressed Section 508 best practices &mdash; was offered in conjunction with the Chief Information Officers Council Accessibility Community of Practice (CIO ACoP).&nbsp; This series aims to ensure that federal agencies have the knowledge needed to meet their obligations under Section 508 regarding the accessibility of federal websites and other electronic materials.&nbsp; Sessions were offered bi-monthly, with each session running 90 minutes.&nbsp; Topics covered included the accessibility of social media, electronic documents, and virtual meeting platforms, among others.&nbsp; Overall, this this webinar series logged about 3,300 attendees in FY 2020.
-
 
 ###### Technical Assistance
 
@@ -501,11 +498,9 @@ The Access Board also continued to employ other communication strategies to prom
 
 Our third strategic goal is supported by three objectives, which are
 
-<ul>
-  <li><b>Objective 3.1:</b>&nbsp; Proactively promote compliance through outreach to federal agencies and design professionals;/li>
-* <b>Objective 3.2:</b>&nbsp; Educate the public about rights under the ABA and the complaint process; and/li>
-* <b>Objective 3.3:</b>&nbsp; Improve the efficiency of the complaint resolution process.</li>
-</ul>
+- **Objective 3.1:** &nbsp;Proactively promote compliance through outreach to federal agencies and design professionals;
+- **Objective 3.2:** &nbsp;Educate the public about rights under the ABA and the complaint process; and
+- **Objective 3.3:** &nbsp;Improve the efficiency of the complaint resolution process.
 
 ##### Background:
 
@@ -521,7 +516,7 @@ Such partnerships with our sister agencies are instrumental in the sustained suc
 
 During FY 2020, the Access Board received 140 new ABA complaints and closed 167 pending complaints.&nbsp; The total number of ABA complaints filed this year represented a 17% drop relative to complaints filed in the prior fiscal year (FY 2019).&nbsp; Anecdotally, we believe this decrease in ABA complaint filings is most likely pandemic-related in the sense that, since mid-March 2020, many Americans have been staying home more than they normally would be and, thus, federal facilities, such as post offices and national parks, are being visited less frequently and therefore and less violations are being reported. 
 
-Presented below in Table 1 are ABA caseload statistics for FY 2020, as well as comparative data for FYs 2018 and 2019.&nbsp; (<em>Note:</em>&nbsp; All tabular data provided in this section about ABA cases were compiled from the Access Board&rsquo;s cloud-based Complaint Tracking System (CTS), which is the official repository of all ABA complaint files.)
+Presented below in Table 1 are ABA caseload statistics for FY 2020, as well as comparative data for FYs 2018 and 2019.&nbsp; (_Note:_ &nbsp;All tabular data provided in this section about ABA cases were compiled from the Access Board&rsquo;s cloud-based Complaint Tracking System (CTS), which is the official repository of all ABA complaint files.)
 
 <table class="par">
   <caption>
@@ -561,15 +556,11 @@ Of the 167 ABA cases closed this year, about 33% (55 cases) were closed after th
 
 In brief, the ABA closed cases this year that resulted in corrective action can be broken down into three broad categories, by facility type:
 
-<ul>
-  <li><b>Defense-related and Veterans Facilities:</b>&nbsp; We successfully resolved 10 ABA complaints against the Departments of Defense and Veterans Affairs, including long-pending cases relating to: Naval Air Station Jacksonville; Kilauea Military Camp (a U.S. Armed Forces Morale, Welfare, and Recreation center in Volcano, Hawaii); and the Richard Roudebush VA Medical Center in Indianapolis, Indiana;</li>
-</ul>
-<ul>
-  <li><b>Post Offices:</b>&nbsp; We successfully resolved 37 ABA complaints relating to U.S. Postal Service facilities, with major remedial work completed for post offices Ruther Glen, Virginia; Anchorage, Alaska; Redlands, California; New York City, New York; Cincinnati, Ohio; Lockhart, Texas; and Southaven, Mississippi; and</li>
-</ul>
-<ul>
-  <li><b>Other ABA-Covered Facilities:</b>&nbsp; We also successfully resolved 8 other ABA complaints relating to various other ABA-covered facilities.&nbsp; Notable here were the accessibility fixes made by the New York City Department of Parks and Recreation (NYC-DPR) on the boardwalk in Far Rockaway, New York.&nbsp; The boardwalk had been rebuilt following Superstorm Sandy using federal grant funds but lacked accessible means of accessing the boardwalk in two locations.&nbsp; In FY 2020, NYC-DPR corrected this ABA violation by installing access ramps at two different locations on the boardwalk.</li>
-</ul>
+- **Defense-related and Veterans Facilities:** &nbsp;We successfully resolved 10 ABA complaints against the Departments of Defense and Veterans Affairs, including long-pending cases relating to: Naval Air Station Jacksonville; Kilauea Military Camp (a U.S. Armed Forces Morale, Welfare, and Recreation center in Volcano, Hawaii); and the Richard Roudebush VA Medical Center in Indianapolis, Indiana;
+
+- **Post Offices:** &nbsp;We successfully resolved 37 ABA complaints relating to U.S. Postal Service facilities, with major remedial work completed for post offices Ruther Glen, Virginia; Anchorage, Alaska; Redlands, California; New York City, New York; Cincinnati, Ohio; Lockhart, Texas; and Southaven, Mississippi; and
+
+- **Other ABA-Covered Facilities:** &nbsp;We also successfully resolved 8 other ABA complaints relating to various other ABA-covered facilities.&nbsp; Notable here were the accessibility fixes made by the New York City Department of Parks and Recreation (NYC-DPR) on the boardwalk in Far Rockaway, New York.&nbsp; The boardwalk had been rebuilt following Superstorm Sandy using federal grant funds but lacked accessible means of accessing the boardwalk in two locations.&nbsp; In FY 2020, NYC-DPR corrected this ABA violation by installing access ramps at two different locations on the boardwalk.
 
 The balance of ABA cases closed this year &mdash; or 67% &mdash; were concluded for a range of technical or administrative reasons.&nbsp; Most were referred to other federal agencies for investigation because we lacked ABA jurisdiction over the matters raised in the complaint.&nbsp; In FY 2020, we referred complaints to the Equal Employment Opportunity Commission (employment discrimination-related complaints), as well as the Departments of Transportation (complaints relating to facilities ADA-covered transportation facilities or matters arising under the Air Career Access Act), Justice (complaints related to ADA-covered state or local facilities or public accommodations), and Housing and Urban Development (claims relating to apartment buildings covered by the Fair Housing Act).
 
@@ -688,7 +679,6 @@ Table 3 below provides similar case closure data about the bases for ABA cases c
 
 In FY 2020, we undertook a project to make needed updates to the &ldquo;back-end&rdquo;of our cloud-based Complaint Tracking System (CTS) and worked closely with our contractor to implement those changes as part of a platform-wide system upgrade.&nbsp; The updated CTS back-end launched in August 2020, and we look forward to the benefits from these updates over the next fiscal year, while also continuously seeking other ways to optimize system performance, further expedite complaint handling, and improve program analytics.
 
-
 ###### Other Initiatives
 
 In October 2018, the National Council on Disability (NCD) issued a report titled, &ldquo;Has the Promise Been Kept? Federal Enforcement of Disability Rights Laws.&rdquo;&nbsp; The report made programmatic recommendations to the Equal Employment Opportunity Commission, Department of Labor, and the Access Board.&nbsp; Several recommendations focused on the Board&rsquo;s ABA enforcement program.&nbsp; In response to one of NCD&rsquo;s recommendations, we made a point this year of publicizing results from our ABA enforcement program more widely through the agency&rsquo;s bi-monthly e-newsletter (about 36,000 subscribers), social media, and press releases.&nbsp; We have also posted new content on the Access Board website that provides information about each ABA complaint closed in the past three fiscal years (FYs 2018 &mdash; 2020) that resulted in removal of accessibility barriers.&nbsp; These steps, we believe, will lead to greater public awareness of the Access Board and its ABA enforcement activities.&nbsp; We continue to evaluate other NCD&rsquo;s other recommendations and will continue to work to incorporate them to the extent feasible into our program going forward. 
@@ -701,10 +691,8 @@ In the upcoming fiscal year, we also aim to produce videos on the ABA enforcemen
 
 Our fourth and final strategic goal is supported by two objectives, which are
 
-<ul>
-  <li><b>Objective 4.1:</b>&nbsp; Engage other organizations and pursue partnerships to promote the Access Board&rsquo;s work; and/li>
-* <b>Objective 4.2:</b>&nbsp; Promote accessibility throughout all segments of society, including holding events in various locations across the country.</li>
-</ul>
+- **Objective 4.1:** &nbsp;Engage other organizations and pursue partnerships to promote the Access Board&rsquo;s work; and/li>
+- **Objective 4.2:** &nbsp;Promote accessibility throughout all segments of society, including holding events in various locations across the country.</li>
 
 ##### Background:
 
@@ -730,20 +718,18 @@ The Access Board&rsquo;s website (<a href="http://www.access-board.gov">www.acce
 
 ## Part Three: Financial Information
 
-### Independent Auditor&rsquo;s Report<
+### Independent Auditor&rsquo;s Report
 
-<p style="text-align: center;"><img src="{{ site.baseurl }}/images/bc-header.png" alt="Brown &amp; Company header -- Certified Public Accountants and Management Consulttants, PLLC" width="675" height="100" /><br>
-  <b>INDEPENDENT AUDITOR&rsquo;S REPORT</b></p>
+<p style="text-align: center;font-weight:bold"><img src="{{ site.baseurl }}/images/bc-header.png" alt="Brown &amp; Company header -- Certified Public Accountants and Management Consulttants, PLLC" width="675" height="100" /><br>
+  INDEPENDENT AUDITOR&rsquo;S REPORT</p>
 <p>United States Access Board<br>
-  Washington, D.C.
+  Washington, D.C.</p>
 
 In our audits of the fiscal years 2020 and 2019 financial statements of the U.S. Access Board (USAB), we found:
 
-<ul>
-  <li> USAB&rsquo;s financial statements as of and for the fiscal years ended September 30, 2020, and 2019, are presented fairly, in all material respects, in accordance with U.S. generally accepted accounting principles; /li>
-*  no material weaknesses in internal control over financial reporting based on the limited procedures we performed; and /li>
-*  no reportable noncompliance for fiscal year 2020 with provisions of applicable laws, regulations, contracts, and grant agreements we tested. </li>
-</ul>
+- USAB&rsquo;s financial statements as of and for the fiscal years ended September 30, 2020, and 2019, are presented fairly, in all material respects, in accordance with U.S. generally accepted accounting principles;
+- no material weaknesses in internal control over financial reporting based on the limited procedures we performed; and
+- no reportable noncompliance for fiscal year 2020 with provisions of applicable laws, regulations, contracts, and grant agreements we tested.
 
 The following sections discuss in more detail (1) our report on the financial statements, which includes required supplementary information(RSI) and other information included with the financial statements; (2) our report on internal control over financial reporting; and (3) our report on compliance with laws, regulations, contracts, and grant agreements.
 
@@ -772,7 +758,6 @@ In our opinion, USAB&rsquo;s financial statements present fairly, in all materia
 ###### Required Supplementary Information
 
 U.S. generally accepted accounting principles issued by the Federal Accounting Standards Advisory Board (FASAB) require that the RSI be presented to supplement the financial statements. Although the RSI is not a part of the financial statements, FASAB considers this information to be an essential part of financial reporting for placing the financial statements in appropriate operational, economic, or historical context. We have applied certain limited procedures to the RSI in accordance with U.S. generally accepted government auditing standards, which consisted of inquiries of management about the methods of preparing the RSI and comparing the information for consistency with management&rsquo;s responses to the auditor&rsquo;s inquiries, the financial statements, and other knowledge we obtained during the audit of the financial statements, in order to report omissions or material departures from FASAB guidelines, if any, identified by these limited procedures. We did not audit and we do not express an opinion or provide any assurance on the RSI because the limited procedures we applied do not provide sufficient evidence to express an opinion or provide any assurance.
-
 
 ###### Other Information
 
@@ -861,12 +846,12 @@ The purpose of this report is solely to describe the scope of our testing of com
       <th colspan="3" scope="rowgroup"> Intragovernmental: </th>
     </tr>
     <tr>
-      <td>Fund Balance With Treasury (<a href="#n2">Note 2</a>)</td>
+      <td>Fund Balance With Treasury (<a href="#note_2_fund_balance_with_treasury">Note 2</a>)</td>
       <td>$3,932,248</td>
       <td>$2,331,461</td>
     </tr>
     <tr>
-      <td>Other (Note 5)</td>
+      <td>Other (<a href="#note_5_other_assets">Note 5</a>)</td>
       <td>$0 </td>
       <td>$1,129,703</td>
     </tr>
@@ -876,12 +861,12 @@ The purpose of this report is solely to describe the scope of our testing of com
       <td><strong>$3,461,164</strong></td>
     </tr>
     <tr>
-      <td>Accounts Receivable, Net (<a href="#n3">Note 3</a>)</td>
+      <td>Accounts Receivable, Net (<a href="#note_3_accounts_receivable_net">Note 3</a>)</td>
       <td>$8</td>
       <td>$1,277</td>
     </tr>
     <tr>
-      <td>General Property, Plant, and Equipment, Net (<a href="#n4">Note 4</a>)</td>
+      <td>General Property, Plant, and Equipment, Net (<a href="#note_4_general_property_plant_and_equipment_net">Note 4</a>)</td>
       <td>$207,963</td>
       <td>$263,494</td>
     </tr>
@@ -904,7 +889,7 @@ The purpose of this report is solely to describe the scope of our testing of com
       <td>$194,060</td>
     </tr>
     <tr>
-      <td>Other (<a href="#n7">Note 7</a>)</td>
+      <td>Other (<a href="#note_7_other_liabilities">Note 7</a>)</td>
       <td>$58,463</td>
       <td>$49,171</td>
     </tr>
@@ -919,7 +904,7 @@ The purpose of this report is solely to describe the scope of our testing of com
       <td>$71,936</td>
     </tr>
     <tr>
-      <td>Other (<a href="#n7">Note 7</a>)</td>
+      <td>Other (<a href="#note_7_other_liabilities">Note 7</a>)</td>
       <td>$543,766</td>
       <td>$498,996</td>
     </tr>
@@ -1084,7 +1069,7 @@ The accompanying notes are an integral part of these financial statements.
       <th colspan="3" scope="rowgroup">Other Financing Sources (Non-Exchange):</th>
     </tr>
     <tr>
-      <td>Imputed Financing (Note 9)</td>
+      <td>Imputed Financing (<a href="#note_9_inter-entity_costs">Note 9</a>)</td>
       <td>$202,105</td>
       <td>$243,159</td>
     </tr>
@@ -2270,6 +2255,7 @@ As required by OMB Circular A-136 &sect; II.4.4, the Access Board provides the f
     </tr>
   </tbody>
 </table>
+
 <table class="par-prose">
   <thead>
     <tr>
@@ -2294,9 +2280,11 @@ As required by OMB Circular A-136 &sect; II.4.4, the Access Board provides the f
     </tr>
   </tbody>
 </table>
+
 #### Summary of Management Assurances
 
 ##### Tables for Assurance #1: Financial Reporting
+
 <table class="par-prose">
   <tbody>
     <tr>
@@ -2309,6 +2297,7 @@ As required by OMB Circular A-136 &sect; II.4.4, the Access Board provides the f
     </tr>
   </tbody>
 </table>
+
 <table class="par-prose">
   <thead>
     <tr>
@@ -2335,6 +2324,7 @@ As required by OMB Circular A-136 &sect; II.4.4, the Access Board provides the f
 </table>
 
 ##### Tables for Assurance #2: Internal Controls
+
 <table class="par-prose">
   <tr>
     <th scope="row">Assurance #2:</th>
@@ -2345,6 +2335,7 @@ As required by OMB Circular A-136 &sect; II.4.4, the Access Board provides the f
     <td>Unmodified</td>
   </tr>
 </table>
+
 <table class="par-prose">
   <thead>
     <tr>
