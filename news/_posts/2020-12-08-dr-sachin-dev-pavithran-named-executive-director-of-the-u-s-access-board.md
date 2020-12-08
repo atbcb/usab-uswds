@@ -1,4 +1,3 @@
----
 layout: post
 title: Dr. Sachin Dev Pavithran Named Executive Director of the U.S. Access Board
 date: '2020-12-08'
