@@ -27,7 +27,8 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 <hr />
 <h3 id="toc">Table of Contents</h3>
 <ul>
-  <li><a href="#_Toc56977623">Part 1: Management Discussion and Analysis</a>
+  <li><a href="#message-from-the-chair">Message From the Chair</a></li>
+  <li><a href="#_Toc56977623">Part One: Management Discussion and Analysis</a>
     <ul>
       <li><a href="#_Toc56977624">Mission</a></li>
       <li><a href="#_Toc56977625">Organizational Structure</a></li>
@@ -58,7 +59,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
     </ul>
   </li>
 </ul>
-<h2 id="_Toc56977623">Part 1: Management Discussion and Analysis</h2>
+<h2 id="_Toc56977623">Part One:&nbsp; Management Discussion and Analysis</h2>
 <h3 id="_Toc56977624">Mission</h3>
 <p>Established by the Rehabilitation Act of 1973, the United States Access Board &mdash; which was then known as the &ldquo;Architectural and Transportation Barriers Compliance Board&rdquo; &mdash; is a small, independent federal agency devoted to advancing accessibility and equality for people with disabilities.&nbsp; Originally, in the mid-1970s, the Access Board&rsquo;s primary mission was enforcement of the Architectural Barriers Act (ABA), which requires federal buildings and certain other federally-financed facilities to be accessible to persons with disabilities.&nbsp; Over the years Congress has expanded the agency&rsquo;s mission and responsibilities.&nbsp; Today, the Access Board&rsquo;s mission embraces three main areas: development of accessibility criteria for the built environment and other matters as authorized by Congress (e.g., transit vehicles, information and communication technology, telecommunications equipment, medical diagnostic equipment); training and technical assistance; and ABA enforcement.</p>
 <h3 id="_Toc56977625">Organizational Structure</h3>
@@ -83,7 +84,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 <h4>Office of Administration</h4>
 <p>The Office of Administration (OA) coordinates and manages administrative support for the Access Board.&nbsp; OA&rsquo;s wide range of activities include support services related to human resources, budget and finance, records management, and IT networks and systems.&nbsp; Due to its small size, the Access Board has an inter-agency agreement with the Treasury Department&rsquo;s Bureau of the Fiscal Service/Administrative Resource Center (BFS/ARC) for financial management, human resources, procurement, and travel services.&nbsp; OA is responsible for overseeing BFS/ARC&rsquo;s work as our shared services provider.</p>
 <h3 id="_Toc56977628">Performance Highlights</h3>
-<p>We provide below an overview of the Access Board&rsquo;s performance results for FY 2020, with summaries keyed to the agency&rsquo;s strategic goals and objectives.&nbsp; A more in-depth discussion of the agency&rsquo;s performance results this year follows in Part Two of this report. </p>
+<p>We provide below an overview of the Access Board&rsquo;s performance results for FY 2020, with summaries keyed to the agency&rsquo;s strategic goals and objectives.&nbsp; A more in-depth discussion of the agency&rsquo;s performance results this year follows in Part Two of this report.</p>
 <table class="par-prose" style="width:40em">
   <caption>
   Strategic Goal #1:&nbsp; Establish state-of-the-art accessibility standards and guidelines
@@ -277,7 +278,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 <h3 id="_Toc56977632">Limitations on Financial Statements</h3>
 <p>The principal financial statements have been prepared to report the financial position and results of our operations of the Access Board, pursuant to the requirements of 31 U.S.C. &sect; 3515(b).&nbsp; The statements have been prepared from the books and records of the Access Board in accordance with generally accepted accounting principles for federal entities and are presented in the formats prescribed by OMB.&nbsp; Reports used to monitor and control budgetary resources are prepared from the same books and records.&nbsp; The financial statements should be read with the realization that they are for a component of the U.S. government, a sovereign entity.</p>
 <hr />
-<h2 id="_Toc56977633">Part Two: Performance Report</h2>
+<h2 id="_Toc56977633">Part Two:&nbsp; Performance Report</h2>
 <h3 id="_Toc56977634">Performance Goals, Objectives, and Results</h3>
 <p>The Access Board&rsquo;s current strategic plan, which covers FYs 2018 &ndash; 2022, provides the foundation for agency planning and resource allocation.&nbsp; Embracing a vision of &ldquo;advancing accessibility and inclusion for all,&rdquo;this plan establishes four goals, each of which, in turn, is accompanied by two or more objectives.&nbsp; The agency&rsquo;s four strategic goals are:</p>
 <ul>
@@ -549,7 +550,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 <p>Access Board staff also pursued initiatives outside the context of Board meetings that served to promote the agency&rsquo;s mission and services.&nbsp; For example, agency staff were featured speakers or panelists at numerous conferences, forums, and other public events throughout the year.&nbsp; Agency staff gave presentations at the Federal Transit Administration&rsquo;s Office of Civil Rights annual retreat and the National State Administrators for the Deaf and Hard of Hearing meeting.&nbsp; On the international side, in cooperation with the Department of State&rsquo;s International Visitor Leadership Program, Access Board leadership and other staff met with delegations from around the world to spread the word about the agency and its mission, programs, and accessibility standards.&nbsp; In FY 2020, Access Board staff met with the Canadian Minister of Public Services and Procurement on the Accessible Canada Act and representatives from Japan, Poland, Ukraine, Bangladesh, India, Nepal, and Pakistan.&nbsp; We also spoke at a meeting of the European Economic and Social Committee and hosted a meeting of the International Disability and Development Consortium.</p>
 <p>The Access Board&rsquo;s website (<a href="http://www.access-board.gov">www.access-board.gov</a>) also serves as a leading resource on accessible design, guidance materials, and news about agency activities and events.&nbsp; Through this site, we provide public-facing updates on the work of the Board and agency initiatives in rulemaking, research, ABA enforcement, and other areas.&nbsp; The Board&rsquo;s guidelines and standards, published guidance, animations, and other resources, are also posted on our website.&nbsp; Overall, in FY 2020, our website logged about 1.1 million users and 3.5 million page views.&nbsp; We initiated a project to completely &ldquo;refresh&rdquo;of the agency&rsquo;s website this year that promises to improve its navigation and usability, especially for mobile devices.&nbsp; We are expecting to launch our revamped website in November 2020. </p>
 <hr />
-<h2 id="_Toc56977635">Part Three: Financial Information</h2>
+<h2 id="_Toc56977635">Part Three:&nbsp; Financial Information</h2>
 <h3 id="_Toc56977636">Independent Auditor&rsquo;s Report</h3>
 <p style="text-align: center;"><img src="{{ site.baseurl }}/images/bc-header.png" alt="Brown &amp; Company header -- Certified Public Accountants and Management Consulttants, PLLC" width="675" height="100" /><br />
   <b>INDEPENDENT AUDITOR&rsquo;S REPORT</b></p>
@@ -637,8 +638,8 @@ file-description: PDF version of USAB Performance and Accountability Report for 
       <td>$2,331,461</td>
     </tr>
     <tr>
-      <td>Other (Note 5)</td>
-      <td>$0 </td>
+      <td>Other (<a href="#n5">Note 5</a>)</td>
+      <td>$0</td>
       <td>$1,129,703</td>
     </tr>
     <tr>
@@ -845,7 +846,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
       <th colspan="3" scope="rowgroup">Other Financing Sources (Non-Exchange):</th>
     </tr>
     <tr>
-      <td>Imputed Financing (Note 9)</td>
+      <td>Imputed Financing (<a href="#n9">Note 9</a>)</td>
       <td>$202,105</td>
       <td>$243,159</td>
     </tr>
