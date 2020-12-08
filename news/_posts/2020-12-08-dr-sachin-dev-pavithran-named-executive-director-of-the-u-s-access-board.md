@@ -11,7 +11,7 @@ excerpt: >-
   agency build upon its notable accomplishments so that it can continue to
   provide leadership in accessibility both in the U.S. and across the globe.”
   Dr. Pavithran has served as . . .
-image: {{ site.baseurl }}/images/uploads/sachin-portrait.jpg
+image: /images/uploads/sachin-portrait.jpg
 image_alt_text: Portrait of Dr. Sachin Dev Pavithran
 featured: true
 ---
