@@ -21,22 +21,26 @@ var mySwiper = new Swiper('.swiper-homepage', {
     keyboard: {
       enabled: true,
     },
-  
+
     // If we need pagination
     pagination: {
       el: '.swiper-pagination',
     },
-  
+
     // Navigation arrows
     navigation: {
       nextEl: '.swiper-button-next',
       prevEl: '.swiper-button-prev',
     },
-  
+
     // And if we need scrollbar
     scrollbar: {
       el: '.swiper-scrollbar',
     },
+
+    a11y: {
+      enabled: false
+    }
   })
 
   var mySwiper = new Swiper('.swiper-single', {
@@ -48,18 +52,18 @@ var mySwiper = new Swiper('.swiper-homepage', {
     keyboard: {
       enabled: true,
     },
-  
+
     // If we need pagination
     pagination: {
       el: '.swiper-pagination',
     },
-  
+
     // Navigation arrows
     navigation: {
       nextEl: '.swiper-button-next',
       prevEl: '.swiper-button-prev',
     },
-  
+
     // And if we need scrollbar
     scrollbar: {
       el: '.swiper-scrollbar',

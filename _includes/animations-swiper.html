@@ -12,8 +12,13 @@
                     <a href="{{ site.baseurl }}{{ video.url }}"
                         class="swiper-slide swiper-slide-custom-homepage"
                         style="background-image: url({{ site.baseurl }}{{ video.image }});"
-                        >
-                        <span class="label-overlay">{{ video.title }}</span>
+                        aria-labelledby="title-{{ video.title | slugify: 'latin' }}"
+                        title="{{ forloop.index0 | plus: 1 }} of {{ site.animations.size }}"
+                    >
+                        <span
+                            id="title-{{ video.title | slugify: 'latin' }}"
+                            class="label-overlay">{{ video.title }}
+                        </span>
                     </a>
                     {% endfor %}
                 </div>
