@@ -3,6 +3,7 @@ title: Final Report
 collection-title: Public Rights-of-Way Access Advisory Committee
 layout: universal
 toc: /toc/auto.html
+toc-group: prowaac
 permalink: /prowag/prowaac-report.html
 redirect_from:
     - /prowac/commrept/index.htm
