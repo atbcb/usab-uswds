@@ -34,13 +34,7 @@ toc-group:
       <div class="desktop:grid-col padding-0">
         <div id="content" class="usa-prose margin-3 padding-3 bg-white border anchored">
           {% if page.file %}
-          <div class="clearfix">
-              <span class="float-right">
-              <a title="{{ page.file-description }}" href="{{ site.baseurl }}{{ page.file }}" target="_blank" rel="noreferrer">
-              <button class="usa-button">PDF</button>
-              </a>
-              </span>
-          </div>
+          {% include pdf-button.html file=page.file file-description=page.file-description %}
           {% endif %}
   
           <div id="{% if page.toc == '/toc/auto.html' %}toc-source-content{% endif %}">{{ content }}</div>

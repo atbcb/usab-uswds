@@ -28,7 +28,7 @@ The Access Board issued proposed guidelines for public comment.  The Board is 
 
 - January 10, 2001 - The Public Rights-of-Way Access Advisory Committee submits its report to the Board.
 
-- June 17, 2002 -- The Board releases [draft guidelines](https://www.federalregister.gov/documents/2002/06/17/02-15117/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities) for public comment.
+- June 17, 2002 -- The Board releases [draft guidelines](/prowag/draft-2002.html) for public comment.
 
 - November 23, 2005 -- The Board releases [revised draft guidelines ](https://www.federalregister.gov/documents/2005/11/23/05-23161/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities)for purposes of gathering information for a cost analysis.
 
