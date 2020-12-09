@@ -486,6 +486,36 @@ a.style-inherit {
   text-decoration: inherit; // no underline
 }
 
+.pdf-button-container {
+  position: relative;
+  height: 5rem;
+  overflow: hidden;
+  
+}
+
+.pdf-button {
+  color: white;
+  font-weight: bold;
+  background-color: #005EA2;
+  padding: .4rem 1rem .4rem 1rem;
+  border-radius: .25rem;
+  text-decoration: none;
+  margin-right: .5rem;
+  margin-top: .5rem;
+}
+
+.pdf-button:focus:before {
+  content:attr(title);
+  position: absolute; 
+  bottom: .1rem; 
+  right: .1rem;
+  padding: .1em .2em;
+  background: #ffffff; color: #005EA2;
+  border: 2px solid black;
+  font-size: 80%;
+ 
+}
+
 //table of contents styling
 .toc-subnav .usa-accordion__button {
   background-color: white;
@@ -499,3 +529,4 @@ a.style-inherit {
   @include u-bg('primary-lighter');
   color: black;
 }
+

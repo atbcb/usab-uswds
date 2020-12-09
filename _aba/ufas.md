@@ -3,11 +3,11 @@ title: UFAS (1984)
 permalink: /aba/ufas.html
 layout: universal
 banner-title: Uniform Federal Accessibility Standards
-banner-subtitle: ""
 toc: /toc/auto.html
 toc-group: ufas
+image-directory: /images/ufas/
 file: /files/ufas/ufas.pdf
-file-description: PDF version of UFAS, 7–1–97 Edition
+file-description: UFAS, 7–1–97 Edition
 redirect_from:
     - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/ufas/
 ---
@@ -52,6 +52,12 @@ The specifications in these standards are based upon adult dimensions and anthro
 
 Graphic conventions are shown in Table 1. Dimensions that are not marked "minimum" or "maximum" are absolute, unless otherwise indicated in the text or captions.
 
+{% include figure-caption.html
+    text="Table 1: Graphic Conventions"
+    img-file="table1.gif"
+    img-alt="The table describes graphic conventions for showing dimensions on figures between boundary and element lines, how the direction of approach is denoted, centerline designation and boundary of clear floor area. All dimensions are shown in inches above the measure line, with the metric equivalent below. Where the dimension does not fit conveniently between lines, the measure line is extended beyond the lines and the dimension placed above (and below) the extension."
+%}
+
 ![The table describes graphic conventions for showing dimensions on figures between boundary and element lines, how the direction of approach is denoted, centerline designation and boundary of clear floor area. All dimensions are shown in inches above the measure line, with the metric equivalent below. Where the dimension does not fit conveniently between lines, the measure line is extended beyond the lines and the dimension placed above (and below) the extension.]({{ site.baseurl }}/images/ufas/table1.gif)
 
 **Table 1: Graphic Conventions**
@@ -65,118 +71,172 @@ All dimensions are subject to conventional building industry tolerances for fiel
 The text of these standards does not contain notes or footnotes. Additional information, explanations, and advisory materials are located in the Appendix. Paragraphs marked with an asterisk have related, nonmandatory material in the Appendix. In the Appendix, the corresponding paragraph numbers are preceded by an A.
 
 ### 3.4 GENERAL TERMINOLOGY
+<dl>
+<dt>COMPLY WITH</dt>
+<dd>Meet one or more specifications of this standard</dd>
 
-*COMPLY WITH.* Meet one or more specifications of this standard.
+<dt>IF, IF...THEN</dt>
+<dd>a specification that applies only when the conditions described are present</dd>
 
-*IF, IF...THEN.* Denotes a specification that applies only when the conditions described are present.
+<dt>MAY</dt>
+<dd>an option or alternative</dd>
 
-*MAY. *Denotes an option or alternative.
+<dt>SHALL</dt>
+<dd>a mandatory specification or requirement</dd>
 
-*SHALL.* Denotes a mandatory specification or requirement.
-
-*SHOULD.* Denotes an advisory specification or recommendation.
-
+<dt>SHOULD</dt>
+<dd>an advisory specification or recommendation</dd>
+</dl>
 ### 3.5 DEFINITIONS
 
 The following terms shall, for the purpose of these standards, have the meaning indicated in this section.
+<dl>
+<dt>ACCESS AISLE</dt>
+<dd>An accessible pedestrian space between elements, such as parking spaces, seating, and desks, that provides clearances appropriate for use of the elements</dd>
 
-*ACCESS AISLE.* An accessible pedestrian space between elements, such as parking spaces, seating, and desks, that provides clearances appropriate for use of the elements.
+<dt>ACCESSIBLE</dt>
+<dd>A site, building, facility, or portion thereof that complies with these standards and that can be approached, entered, and used by physically disabled people</dd>
 
-*ACCESSIBLE.* Describes a site, building, facility, or portion thereof that complies with these standards and that can be approached, entered, and used by physically disabled people.
+<dt>ACCESSIBLE ELEMENT</dt>
+<dd>An element specified by these standards (for example, telephone, controls, and the like)</dd>
 
-*ACCESSIBLE ELEMENT.* An element specified by these standards (for example, telephone, controls, and the like).
+<dt>ACCESSIBLE ROUTE</dt>
+<dd>A continuous unobstructed path connecting all accessible elements and spaces in a building or facility</dd> Interior accessible routes may include corridors, floors, ramps, elevators, lifts, and clear floor space at fixtures. Exterior accessible routes may include parking access aisles, curb ramps, walks, ramps, and lifts.
 
-*ACCESSIBLE ROUTE.* A continuous unobstructed path connecting all accessible elements and spaces in a building or facility. Interior accessible routes may include corridors, floors, ramps, elevators, lifts, and clear floor space at fixtures. Exterior accessible routes may include parking access aisles, curb ramps, walks, ramps, and lifts.
+<dt>ACCESSIBLE SPACE</dt>
+<dd>Space that complies with these standards</dd>
 
-*ACCESSIBLE SPACE.* Space that complies with these standards.
+<dt>ADAPTABILITY</dt>
+<dd>The ability of certain building spaces and elements, such as kitchen counters, sinks, and grab bars, to be added or altered so as to accommodate the needs of either disabled or nondisabled persons, or to accommodate the needs of persons with different types or degrees of disability</dd>
 
-*ADAPTABILITY.* The ability of certain building spaces and elements, such as kitchen counters, sinks, and grab bars, to be added or altered so as to accommodate the needs of either disabled or nondisabled persons, or to accommodate the needs of persons with different types or degrees of disability.
+<dt>ADDITION</dt>
+<dd>An expansion, extension, or increase in the gross floor area of a building or facility</dd>
 
-*ADDITION.* An expansion, extension, or increase in the gross floor area of a building or facility.
+<dt>ADMINISTRATIVE AUTHORITY</dt>
+<dd>A governmental agency that adopts or enforces regulations and standards for the design, construction, or alteration of buildings and facilities</dd>
 
-*ADMINISTRATIVE AUTHORITY.* A governmental agency that adopts or enforces regulations and standards for the design, construction, or alteration of buildings and facilities.
+<dt>ALTERATION</dt>
+<dd>As applied to a building or structure, means a change or rearrangement in the structural parts or elements, or in the means of egress or in moving from one location or position to another</dd> It does not include normal maintenance, repair, reroofing, interior decoration, or changes to mechanical and electrical systems.
 
-*ALTERATION.* As applied to a building or structure, means a change or rearrangement in the structural parts or elements, or in the means of egress or in moving from one location or position to another. It does not include normal maintenance, repair, reroofing, interior decoration, or changes to mechanical and electrical systems.
+<dt>ASSEMBLY AREA</dt>
+<dd>A room or space accommodating fifty or more individuals for religious, recreational, educational, political, social, or amusement purposes, or for the consumption of food and drink, including all connected rooms or spaces with a common means of egress and ingress</dd> Such areas as conference rooms would have to be accessible in accordance with other parts of this standard but would not have to meet all of the criteria associated with assembly areas.
 
-*ASSEMBLY AREA.* A room or space accommodating fifty or more individuals for religious, recreational, educational, political, social, or amusement purposes, or for the consumption of food and drink, including all connected rooms or spaces with a common means of egress and ingress. Such areas as conference rooms would have to be accessible in accordance with other parts of this standard but would not have to meet all of the criteria associated with assembly areas.
+<dt>AUTOMATIC DOOR</dt>
+<dd>A door equipped with a power-operated mechanism and controls that open and close the door automatically upon receipt of a momentary actuating signal</dd> The switch that begins the automatic cycle may be a photoelectric device, floor mat, or manual switch mounted on or near the door itself (see power-assisted door).
 
-*AUTOMATIC DOOR.* A door equipped with a power-operated mechanism and controls that open and close the door automatically upon receipt of a momentary actuating signal. The switch that begins the automatic cycle may be a photoelectric device, floor mat, or manual switch mounted on or near the door itself (see power-assisted door).
+<dt>CIRCULATION PATH</dt>
+<dd>An exterior or interior way of passage from one place to another for pedestrians, including, but not limited to, walks, hallways, courtyards, stairways, and stair landings</dd>
 
-*CIRCULATION PATH.* An exterior or interior way of passage from one place to another for pedestrians, including, but not limited to, walks, hallways, courtyards, stairways, and stair landings.
+<dt>CLEAR</dt>
+<dd>Unobstructed</dd>
 
-*CLEAR.* Unobstructed.
+<dt>COMMON USE</dt>
+<dd>Refers to those interior and exterior rooms, spaces, or elements that are made available for the use of a restricted group of people (for example, residents of an apartment building, the occupants of an office building, or the guests of such residents or occupants)</dd>
 
-*COMMON USE.* Refers to those interior and exterior rooms, spaces, or elements that are made available for the use of a restricted group of people (for example, residents of an apartment building, the occupants of an office building, or the guests of such residents or occupants).
+<dt>CROSS SLOPE</dt>
+<dd>The slope that is perpendicular to the direction of travel (see running slope)</dd>
 
-*CROSS SLOPE.* The slope that is perpendicular to the direction of travel (see running slope).
+<dt>CURB RAMP</dt>
+<dd>A short ramp cutting through a curb or built up to it</dd>
 
-*CURB RAMP.* A short ramp cutting through a curb or built up to it.
+<dt>DWELLING UNIT</dt>
+<dd>A single unit of residence which provides a kitchen or food preparation area, in addition to rooms and spaces for living, bathing, sleeping, and the like</dd> A single family home is a dwelling unit, and dwelling units are to be found in such housing types as townhouses and apartment buildings.
 
-*DWELLING UNIT.* A single unit of residence which provides a kitchen or food preparation area, in addition to rooms and spaces for living, bathing, sleeping, and the like. A single family home is a dwelling unit, and dwelling units are to be found in such housing types as townhouses and apartment buildings.
+<dt>EGRESS, MEANS OF</dt>
+<dd>An accessible route of exit that meets all applicable code specifications of the regulatory building agency having jurisdiction over the building or facility</dd>
 
-*EGRESS, MEANS OF.* An accessible route of exit that meets all applicable code specifications of the regulatory building agency having jurisdiction over the building or facility.
+<dt>ELEMENT</dt>
+<dd>An architectural or mechanical component of a building, facility, space, or site, e</dd>g., telephone, curb ramp, door, drinking fountain, seating, water closet.
 
-*ELEMENT.* An architectural or mechanical component of a building, facility, space, or site, e.g., telephone, curb ramp, door, drinking fountain, seating, water closet.
+<dt>ENTRANCE</dt>
+<dd>Any access point to a building or portion of building or facility used for the purpose of entering</dd> An entrance includes the approach walk, the vertical access leading to the entrance platform, the entrance platform itself, vestibules if provided, the entry door(s) or gate(s), and the hardware of the entry door(s) or gate(s). The principal entrance of a building or facility is the main door through which most people enter.
 
-*ENTRANCE.* Any access point to a building or portion of building or facility used for the purpose of entering. An entrance includes the approach walk, the vertical access leading to the entrance platform, the entrance platform itself, vestibules if provided, the entry door(s) or gate(s), and the hardware of the entry door(s) or gate(s). The principal entrance of a building or facility is the main door through which most people enter.
+<dt>ESSENTIAL FEATURES</dt>
+<dd>Those elements and spaces that make a building or facility usable by, or serve the needs of, its occupants or users</dd> Essential features include but are not limited to entrances, toilet rooms, and accessible routes. Essential features do not include those spaces that house the major activities for which the building or facility is intended, such as classrooms and offices.
 
-*ESSENTIAL FEATURES.* Those elements and spaces that make a building or facility usable by, or serve the needs of, its occupants or users. Essential features include but are not limited to entrances, toilet rooms, and accessible routes. Essential features do not include those spaces that house the major activities for which the building or facility is intended, such as classrooms and offices.
+<dt>EXTRAORDINARY REPAIR</dt>
+<dd>The replacement or renewal of any element of an existing building or facility for purposes other than normal maintenance</dd>
 
-*EXTRAORDINARY REPAIR.* The replacement or renewal of any element of an existing building or facility for purposes other than normal maintenance.
+<dt>FACILITY</dt>
+<dd>All or any portion of a building, structure, or area, including the site on which such building, structure or area is located, wherein specific services are provided or activities performed</dd>
 
-*FACILITY.* All or any portion of a building, structure, or area, including the site on which such building, structure or area is located, wherein specific services are provided or activities performed.
+<dt>FULL AND FAIR CASH VALUE</dt>
+<dd> Full and fair cash value is calculated for the estimated date on which work will commence on a project and means:
+<ol>
+<li>The assessed valuation of a building or facility as recorded in the assessor's office of the municipality and as equalized at one hundred percent (100%) valuation, or</li>
 
-*FULL AND FAIR CASH VALUE*. Full and fair cash value is calculated for the estimated date on which work will commence on a project and means:
+<li>The replacement cost, or</li>
 
-(1) The assessed valuation of a building or facility as recorded in the assessor's office of the municipality and as equalized at one hundred percent (100%) valuation, or
+<li>The fair market value.</li>
+</ol>
+</dd>
 
-(2) The replacement cost, or
+<dt>FUNCTIONAL SPACES</dt>
+<dd>The rooms and spaces in a building or facility that house the major activities for which the building or facility is intended</dd>
 
-(3) The fair market value.
+<dt>HOUSING</dt>
+<dd>A building, facility, or portion thereof, excluding inpatient health care facilities, that contains one or more dwelling units or sleeping accommodations</dd> Housing may include, but is not limited to, one and two-family dwellings, apartments, group homes, hotels, motels, dormitories, and mobile homes.
 
-*FUNCTIONAL SPACES.* The rooms and spaces in a building or facility that house the major activities for which the building or facility is intended.
+<dt>MARKED CROSSING</dt>
+<dd>A crosswalk or other identified path intended for pedestrian use in crossing a vehicular way</dd>
 
-*HOUSING.* A building, facility, or portion thereof, excluding inpatient health care facilities, that contains one or more dwelling units or sleeping accommodations. Housing may include, but is not limited to, one and two-family dwellings, apartments, group homes, hotels, motels, dormitories, and mobile homes.
+<dt>MULTIFAMILY DWELLING</dt>
+<dd>Any building containing more than two dwelling units</dd>
 
-*MARKED CROSSING.* A crosswalk or other identified path intended for pedestrian use in crossing a vehicular way.
+<dt>OPERABLE PART</dt>
+<dd>A part of a piece of equipment or appliance used to insert or withdraw objects, or to activate, deactivate, or adjust the equipment or appliance (for example, coin slot, pushbutton, handle)</dd>
 
-*MULTIFAMILY DWELLING.* Any building containing more than two dwelling units.
+<dt>PHYSICALLY HANDICAPPED</dt>
+<dd>An individual who has a physical impairment, including impaired sensory, manual or speaking abilities, which results in a functional limitation in access to and use of a building or facility</dd>
 
-*OPERABLE PART.* A part of a piece of equipment or appliance used to insert or withdraw objects, or to activate, deactivate, or adjust the equipment or appliance (for example, coin slot, pushbutton, handle).
+<dt>POWER-ASSISTED DOOR</dt>
+<dd>A door used for human passage with a mechanism that helps to open the door, or relieve the opening resistance of a door, upon the activation of a switch or a continued force applied to the door itself</dd> If the switch or door is released, such doors immediately begin to close or close completely within 3 to 30 seconds (see automatic door).
 
-*PHYSICALLY HANDICAPPED.* An individual who has a physical impairment, including impaired sensory, manual or speaking abilities, which results in a functional limitation in access to and use of a building or facility.
+<dt>PUBLIC USE</dt>
+<dd>Describes interior or exterior rooms or spaces that are made available to the general public</dd> Public use may be provided at a building or facility that is privately or publicly owned.
 
-*POWER-ASSISTED DOOR.* A door used for human passage with a mechanism that helps to open the door, or relieve the opening resistance of a door, upon the activation of a switch or a continued force applied to the door itself. If the switch or door is released, such doors immediately begin to close or close completely within 3 to 30 seconds (see automatic door).
+<dt>RAMP</dt>
+<dd>A walking surface in an accessible space that has a running slope greater than 1:20</dd>
 
-*PUBLIC USE.* Describes interior or exterior rooms or spaces that are made available to the general public. Public use may be provided at a building or facility that is privately or publicly owned.
+<dt>RUNNING SLOPE</dt>
+<dd>The slope that is parallel to the direction of travel (see cross slope).</dd>
 
-*RAMP.* A walking surface in an accessible space that has a running slope greater than 1:20.
+<dt>SERVICE ENTRANCE</dt>
+<dd>An entrance intended primarily for delivery of services.</dd>
 
-*RUNNING SLOPE. *The slope that is parallel to the direction of travel (see cross slope).
+<dt>SIGNAGE</dt>
+<dd>Verbal, symbolic, tactile, and pictorial information</dd>
 
-*SERVICE ENTRANCE*. An entrance intended primarily for delivery of services.
+<dt>SITE</dt>
+<dd>A parcel of land bounded by a property line or a designated portion of a public right-of-way</dd>
 
-*SIGNAGE.* Verbal, symbolic, tactile, and pictorial information.
+<dt>SITE IMPROVEMENT</dt>
+<dd>Landscaping, paving for pedestrian and vehicular ways, outdoor lighting, recreational facilities, and the like, added to a site</dd>
 
-*SITE.* A parcel of land bounded by a property line or a designated portion of a public right-of-way.
+<dt>SLEEPING ACCOMMODATIONS</dt>
+<dd>Rooms in which people sleep, for example, dormitory and hotel or motel guest rooms</dd>
 
-*SITE IMPROVEMENT.* Landscaping, paving for pedestrian and vehicular ways, outdoor lighting, recreational facilities, and the like, added to a site.
+<dt>SPACE</dt>
+<dd>A definable area, e.g., toilet room, hall, assembly area, entrance, storage room, alcove, courtyard, or lobby.</dd>
 
-*SLEEPING ACCOMMODATIONS.* Rooms in which people sleep, for example, dormitory and hotel or motel guest rooms.
+<dt>STRUCTURAL IMPRACTICABILITY</dt>
+<dd>Changes having little likelihood of being accomplished without removing or altering a load-bearing structural member and/or incurring an increased cost of 50 percent or more of the value of the element of the building or facility involved</dd>
 
-*SPACE*. A definable area, e.g., toilet room, hall, assembly area, entrance, storage room, alcove, courtyard, or lobby.
+<dt>TACTILE</dt>
+<dd>Describes an object that can be perceived using the sense of touch</dd>
 
-*STRUCTURAL IMPRACTICABILITY.* Changes having little likelihood of being accomplished without removing or altering a load-bearing structural member and/or incurring an increased cost of 50 percent or more of the value of the element of the building or facility involved.
+<dt>TACTILE WARNING</dt>
+<dd>A standardized surface texture applied to or built into walking surfaces or other elements to warn visually impaired people of hazards in the path of travel</dd>
 
-*TACTILE.* Describes an object that can be perceived using the sense of touch.
+<dt>TEMPORARY</dt>
+<dd>Applies to facilities that are not of permanent construction but are extensively used or essential for public use for a given (short) period of time, for example, temporary classrooms or classroom buildings at schools and colleges, or facilities around a major construction site to make passage accessible, usable, and safe for everybody. Structures directly associated with the actual processes of major construction, such as porto potties, scaffolding, bridging, trailers, and the like, are not included. Temporary as applied to elements means installed for less than 6 months and not required for safety reasons.</dd>
 
-*TACTILE WARNING.* A standardized surface texture applied to or built into walking surfaces or other elements to warn visually impaired people of hazards in the path of travel.
+<dt>VEHICULAR WAY</dt>
+<dd>A route intended for vehicular traffic, such as a street, driveway, or parking lot</dd>
 
-*TEMPORARY.* Applies to facilities that are not of permanent construction but are extensively used or essential for public use for a given (short) period of time, for example, temporary classrooms or classroom buildings at schools and colleges, or facilities around a major construction site to make passage accessible, usable, and safe for everybody. Structures directly associated with the actual processes of major construction, such as porto potties, scaffolding, bridging, trailers, and the like, are not included. Temporary as applied to elements means installed for less than 6 months and not required for safety reasons.
-
-*VEHICULAR WAY.* A route intended for vehicular traffic, such as a street, driveway, or parking lot.
-
-*WALK.* An exterior pathway with a prepared surface intended for pedestrian use, including general pedestrian areas such as plazas and courts.
+<dt>WALK</dt>
+<dd>An exterior pathway with a prepared surface intended for pedestrian use, including general pedestrian areas such as plazas and courts</dd>
+</dl>
 
 ## 4. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS
 
@@ -196,29 +256,64 @@ An accessible site shall meet the following minimum requirements:
 
 (5) (a) If parking spaces are provided for employees or visitors, or both, then accessible spaces, complying with 4.6, shall be provided in each such parking area in conformance with the following table:
 
+<table>
+    <thead>
+        <tr>
+            <th scope="col">Total Parking in Lot</th>
+            <th>Required Minimum Number of Accessible Spaces</th>
+        </tr>
+    </thead>
+    <tbody>
+        <tr>
+            <th>1 to 25</th>
+            <td>1</td>
+        </tr>
+        <tr>
+            <th>26 to 50</th>
+            <td>2</td>
+        </tr>
+        <tr>
+            <th>51 to 75</th>
+            <td>3</td>
+        </tr>
+        <tr>
+            <th>76 to 100</th>
+            <td>4</td>
+        </tr>
+        <tr>
+            <th>101 to 150</th>
+            <td>5</td>
+        </tr>
+        <tr>
+            <th>151 to 200</th>
+            <td>6</td>
+        </tr>
+        <tr>
+            <th>201 to 300</th>
+            <td>7</td>
+        </tr>
+        <tr>
+            <th>301 to 400</th>
+            <td>8</td>
+        </tr>
+        <tr>
+            <th>401 to 500</th>
+            <td>9</td>
+        </tr>
+        <tr>
+            <th>501 to 1000</th>
+            <td>2 percent of total</td>
+        </tr>
+        <tr>
+            <th>1001 and over</th>
+            <td>20 plus 1 for each 100 over 1000</td>
+        </tr>
+        </tbody>
+</table>
 
-| Total Parking in Lot | Required Minimum Number of Accessible Spaces |
-| --- | --- |
-| 1 to 25 | 1 |
-| 26 to 50 | 2 |
-| 51 to 75 | 3 |
-| 76 to 100 | 4 |
-| 101 to 150 | 5 |
-| 151 to 200 | 6 |
-| 201 to 300 | 7 |
-| 301 to 400 | 8 |
-| 401 to 500 | 9 |
-| 501 to 1000 | * |
-| 1001 and over | ** |
+EXCEPTION: The total number of accessible parking spaces may be distributed among parking lots, if greater accessibility is achieved.
 
-
-\* 2 percent of total.
-
-** 20 plus 1 for each 100 over 1000.
-
-*EXCEPTION:* The total number of accessible parking spaces may be distributed among parking lots, if greater accessibility is achieved.
-
-*EXCEPTION:* This does not apply to parking provided for official government vehicles owned or leased by the government and used exclusively for government purposes.
+EXCEPTION: This does not apply to parking provided for official government vehicles owned or leased by the government and used exclusively for government purposes.
 
 (b) If passenger loading zones are provided, then at least one passenger loading zone shall comply with 4.6.5.
 
@@ -242,7 +337,7 @@ An accessible site shall meet the following minimum requirements:
 
 (6) If toilet facilities are provided on a site, then each such public or common use toilet facility shall comply with 4.22. If bathing facilities are provided on a site, then each such public or common use bathing facility shall comply with 4.23.
 
-*EXCEPTION:* These provisions are not mandatory for single user portable toilet or bathing units clustered at a single location; however, at least one toilet unit complying with 4.22 or one bathing unit complying with 4.23 should be installed at each location whenever standard units are provided.
+EXCEPTION: These provisions are not mandatory for single user portable toilet or bathing units clustered at a single location; however, at least one toilet unit complying with 4.22 or one bathing unit complying with 4.23 should be installed at each location whenever standard units are provided.
 
 (7) All signs shall comply with 4.30. Elements and spaces of accessible facilities which shall be identified by the International Symbol of Accessibility are:
 
@@ -268,9 +363,9 @@ Accessible buildings and facilities shall meet the following minimum requirement
 
 (5) One passenger elevator complying with 4.10 shall serve each level in all multi-story buildings and facilities. If more than one elevator is provided, each elevator shall comply with 4.10.
 
-*EXCEPTION:* Elevator pits, elevator penthouses, mechanical rooms, piping or equipment catwalks are excepted from this requirement.
+EXCEPTION: Elevator pits, elevator penthouses, mechanical rooms, piping or equipment catwalks are excepted from this requirement.
 
-*EXCEPTION:* Accessible ramps complying with 4.8 or, if no other alternative is feasible, accessible platform lifts complying with 4.11 may be used in lieu of an elevator.
+EXCEPTION: Accessible ramps complying with 4.8 or, if no other alternative is feasible, accessible platform lifts complying with 4.11 may be used in lieu of an elevator.
 
 (6) Windows. (Reserved).
 
@@ -284,7 +379,7 @@ Accessible buildings and facilities shall meet the following minimum requirement
 
 (d) Each door required by 4.3.10, Egress, shall comply with 4.13.
 
-*EXCEPTION:* In multiple-story buildings and facilities where at-grade egress from each floor is impossible, either of the following is permitted: the provision within each story of approved fire and smoke partitions that create horizontal exits, or, the provision within each floor of areas of refuge approved by agencies having authority for safety.
+EXCEPTION: In multiple-story buildings and facilities where at-grade egress from each floor is impossible, either of the following is permitted: the provision within each story of approved fire and smoke partitions that create horizontal exits, or, the provision within each floor of areas of refuge approved by agencies having authority for safety.
 
 (8) At least one principal entrance at each grade floor level to a building or facility shall comply with 4.14, Entrances. When a building or facility has entrances which normally serve any of the following functions: transportation facilities, passenger loading zones, accessible parking facilities, taxi stands, public streets and sidewalks, or accessible interior vertical access, then at least one of the entrances serving each such function shall comply with 4.14, Entrances. Because entrances also serve as emergency exits, whose proximity to all parts of buildings and facilities is essential, it is preferable that all or most exits be accessible.
 
@@ -302,11 +397,19 @@ Accessible buildings and facilities shall meet the following minimum requirement
 
 (15) If signs are provided, they shall comply with 4.30.1, 4.30.2 and 4.30.3. In addition, permanent signage that identifies rooms and spaces shall also comply with 4.30.4 and 4.30.6.
 
-*EXCEPTION:* The provisions of 4.30.4 are not mandatory for temporary information on room and space signage, such as current occupant's name, provided the permanent room or space identification complies with 4.30.4.
+EXCEPTION: The provisions of 4.30.4 are not mandatory for temporary information on room and space signage, such as current occupant's name, provided the permanent room or space identification complies with 4.30.4.
 
 (16) Public telephones:
 
 (a) If public telephones are provided, then accessible public telephones shall comply with 4.31, Telephones, and the following table:
+
+<table>
+<thead>
+    <tr>
+        <th scope="col"></th>
+    </tr>
+</thead>
+</table>
 
 | Number of public telephones provided on each floor: | Number of telephones required to be accessible:* |
 | --- | --- |
@@ -318,7 +421,7 @@ Accessible buildings and facilities shall meet the following minimum requirement
 
 ** A bank consists of two or more adjacent public telephones, often installed as a unit.
 
-*EXCEPTION:* For exterior installations only, if dial tone first service is not available, then a side reach telephone may be installed instead of the required forward reach telephone (i.e., one telephone in proximity to each bank shall comply with 4.31).
+EXCEPTION: For exterior installations only, if dial tone first service is not available, then a side reach telephone may be installed instead of the required forward reach telephone (i.e., one telephone in proximity to each bank shall comply with 4.31).
 
 (b) At least one of the public telephones complying with 4.31, Telephones, shall be equipped with a volume control. The installation of additional volume controls is encouraged, and these may be installed on any public telephone provided.
 
@@ -358,7 +461,7 @@ Accessible housing shall comply with the requirements of 4.1 and 4.34 except as 
 
 **(2) ENTRANCES.** Entrances complying with 4.14 shall be provided as necessary to achieve access to and egress from buildings and facilities.
 
-*EXCEPTION:* In projects consisting of one-to-four family dwellings where accessible entrances would be extraordinarily costly due to site conditions or local code restrictions, accessible entrances are required only to those buildings containing accessible dwelling units.
+EXCEPTION: In projects consisting of one-to-four family dwellings where accessible entrances would be extraordinarily costly due to site conditions or local code restrictions, accessible entrances are required only to those buildings containing accessible dwelling units.
 
 **(3) COMMON AREAS.** At least one of each type of common area and amenity in each project shall be accessible and shall be located on an accessible route to any accessible dwelling unit.
 
@@ -897,9 +1000,9 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 
 (d) In making the determination as to what constitutes "substantial alteration," the agency issuing standards for the facility shall consider the total cost of all alterations (including but not limited to electrical, mechanical, plumbing, and structural changes) for a building or facility within any twelve (12) month period. For guidance in implementing this provision, an alteration to any building or facility is to be considered substantial if the total cost for this twelve month period amounts to 50 percent or more of the full and fair cash value of the building as defined in 3.5.
 
-*EXCEPTION:* If the cost of the elements and spaces required by 4.1.6(3)(a), (b), or (c) exceeds 15 percent of the total cost of all other alterations, then a schedule may be established by the standard-setting and/or funding agency to provide the required improvements within a 5-year period.
+EXCEPTION: If the cost of the elements and spaces required by 4.1.6(3)(a), (b), or (c) exceeds 15 percent of the total cost of all other alterations, then a schedule may be established by the standard-setting and/or funding agency to provide the required improvements within a 5-year period.
 
-*EXCEPTION:* Consideration shall be given to providing accessible elements and spaces in each altered building or facility complying with:
+EXCEPTION: Consideration shall be given to providing accessible elements and spaces in each altered building or facility complying with:
 
 (i) 4.6, Parking and Passenger Loading Zones,
 
@@ -944,7 +1047,7 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 
 (e) Toilet rooms. Where alterations to existing facilities make strict compliance with 4.22 and 4.23 structurally impracticable, the addition of one "unisex" toilet per floor containing one water closet complying with 4.16 and one lavatory complying with 4.19, located adjacent to existing toilet facilities, will be acceptable in lieu of making existing toilet facilities for each sex accessible.
 
-*EXCEPTION:* In instances of alteration work where provision of a standard stall (Fig. 30(a)) is structurally impracticable or where plumbing code requirements prevent combining existing stalls to provide space, an alternate stall (Fig. 30(b)) may be provided in lieu of the standard stall.
+EXCEPTION: In instances of alteration work where provision of a standard stall (Fig. 30(a)) is structurally impracticable or where plumbing code requirements prevent combining existing stalls to provide space, an alternate stall (Fig. 30(b)) may be provided in lieu of the standard stall.
 
 (f) Assembly areas.
 
@@ -968,11 +1071,11 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 
 (a) At least one accessible route complying with 4.3 from a site access point to an accessible entrance shall be provided.
 
-*EXCEPTION:* A ramp with a slope no greater than 1:6 for a run not to exceed 2 ft (610 mm) may be used as part of an accessible route at an entrance.
+EXCEPTION: A ramp with a slope no greater than 1:6 for a run not to exceed 2 ft (610 mm) may be used as part of an accessible route at an entrance.
 
 (b) At least one accessible entrance which is used by the public complying with 4.14 shall be provided.
 
-*EXCEPTION:* If it is determined that no entrance used by the public can comply with 4.14, then access at any entrance not used by the general public but open (unlocked) with directional signs at the primary entrance may be used.
+EXCEPTION: If it is determined that no entrance used by the public can comply with 4.14, then access at any entrance not used by the general public but open (unlocked) with directional signs at the primary entrance may be used.
 
 (c) If toilets are provided, then at least one toilet facility complying with 4.22 and 4.1.6 shall be provided along an accessible route that complies with 4.3. Such toilet facility may be "unisex" in design.
 
@@ -1192,7 +1295,7 @@ Parking spaces for disabled people and accessible passenger loading zones that s
 
 Parking spaces for disabled people shall be at least 96 in (2440 mm) wide and shall have an adjacent access aisle 60 in (1525 mm) wide minimum (see Fig. 9). Parking access aisles shall be part of an accessible route to the building or facility entrance and shall comply with 4.3. Two accessible parking spaces may share a common access aisle. Parked vehicle overhangs shall not reduce the clear width of an accessible circulation route. Parking spaces and access aisles shall be level with surface slopes not exceeding 1:50 in all directions.
 
-*EXCEPTION:* If accessible parking spaces for vans designed for handicapped persons are provided, each should have an adjacent access aisle at least 96 in (2440 mm) wide complying with 4.5, Ground and Floor Surfaces.
+EXCEPTION: If accessible parking spaces for vans designed for handicapped persons are provided, each should have an adjacent access aisle at least 96 in (2440 mm) wide complying with 4.5, Ground and Floor Surfaces.
 
 ![The access aisle shall be a minimum of 60 inches (1525 mm) wide. The accessible route connected to the access aisle at the front of the parking spaces shall be a minimum of 36 inches (915 mm).]({{ site.baseurl }}/images/ufas/fig9.gif)
 
@@ -1591,7 +1694,7 @@ If doorways have two independently operated door leaves, then at least one leaf 
 
 Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open 90 degrees, measured between the face of the door and the stop (see Fig. 24(a), (b), (c), and (d)). Openings more than 24 in (610 mm) in depth shall comply with 4.2.1 and 4.3.3 (see Fig. 24(e)).
 
-*EXCEPTION:* Doors not requiring full user passage, such as shallow closets, may have the clear opening reduced to 20 in (510 mm) minimum.
+EXCEPTION: Doors not requiring full user passage, such as shallow closets, may have the clear opening reduced to 20 in (510 mm) minimum.
 
 **![Clear Doorway Width and Depth]({{ site.baseurl }}/images/ufas/fig24a.gif)**
 
@@ -1779,7 +1882,7 @@ Water closets in accessible stalls shall comply with 4.16.
 
 The size and arrangement of toilet stalls shall comply with Fig. 30(a). Toilet stalls with a minimum depth of 56 in (1420 mm) (see Fig. 30(a)) shall have wall-mounted water closets. If the depth of toilet stalls is increased at least 3 in (75 mm), then a floor-mounted water closet may be used. Arrangements shown for stalls may be reversed to allow either a left- or right-hand approach.
 
-*EXCEPTION:* In instances of alteration work where provision of a standard stall (Fig. 30(a)) is structurally impracticable or where plumbing code requirements prevent combining existing stalls to provide space, an alternate stall (Fig. 30(b)) may be provided in lieu of the standard stall.
+EXCEPTION: In instances of alteration work where provision of a standard stall (Fig. 30(a)) is structurally impracticable or where plumbing code requirements prevent combining existing stalls to provide space, an alternate stall (Fig. 30(b)) may be provided in lieu of the standard stall.
 
 ![Clearances and grab bars at toilet stalls]({{ site.baseurl }}/images/ufas/fig30.gif)
 
@@ -1940,7 +2043,7 @@ Faucets and other controls complying with 4.27.4 shall be located as shown in Fi
 
 A shower spray unit with a hose at least 60 in (1525 mm) long that can be used as a fixed shower head or as a hand-held shower shall be provided.
 
-*EXCEPTION:* In unmonitored facilities where vandalism is a consideration, a fixed shower head mounted at 48 in (1220 mm) above the shower floor may be used in lieu of a hand-held shower head.
+EXCEPTION: In unmonitored facilities where vandalism is a consideration, a fixed shower head mounted at 48 in (1220 mm) above the shower floor may be used in lieu of a hand-held shower head.
 
 #### 4.21.7 CURBS
 
@@ -1964,7 +2067,7 @@ All doors to accessible toilet rooms shall comply with 4.13. Doors shall not swi
 
 The accessible fixtures and controls required in 4.22.4, 4.22.5, 4.22.6, and 4.22.7 shall be on an accessible route. An unobstructed turning space complying with 4.2.3 shall be provided within an accessible toilet room. The clear floor space at fixtures and controls, the accessible route, and the turning space may overlap.
 
-*EXCEPTION:* In toilet rooms with only one water closet and one lavatory, a clear floor space of 30 in by 60 in (815 mm by 1525 mm) may be used in lieu of the unobstructed turning space.
+EXCEPTION: In toilet rooms with only one water closet and one lavatory, a clear floor space of 30 in by 60 in (815 mm by 1525 mm) may be used in lieu of the unobstructed turning space.
 
 #### 4.22.4 WATER CLOSETS
 
@@ -1996,7 +2099,7 @@ Doors to accessible bathrooms shall comply with 4.13. Doors shall not swing into
 
 The accessible fixtures and controls required in 4.23.4, 4.23.5, 4.23.6, 4.23.7, 4.23.8, and 4.23.9 shall be on an accessible route. An unobstructed turning space complying with 4.2.3 shall be provided within an accessible bathroom. The clear floor spaces at fixtures and controls, the accessible route, and the turning space may overlap.
 
-*EXCEPTION:* In bathrooms with only one water closet, one lavatory, and one bathtub or shower, a clear floor space of 30 in by 60 in (760 mm by 1525 mm) may be used in lieu of the unobstructed turning space.
+EXCEPTION: In bathrooms with only one water closet, one lavatory, and one bathtub or shower, a clear floor space of 30 in by 60 in (760 mm by 1525 mm) may be used in lieu of the unobstructed turning space.
 
 #### 4.23.4 WATER CLOSETS
 
@@ -2316,7 +2419,7 @@ Space Requirements for Wheelchair Seating Spaces in Series**
 
 Wheelchair areas shall be an integral part of any fixed seating plan and shall be dispersed throughout the seating area. They shall adjoin an accessible route that also serves as a means of egress in case of emergency and shall be located to provide lines of sight comparable to those for all viewing areas.
 
-*EXCEPTION:* Accessible viewing positions may be clustered for bleachers, balconies, and other areas having sight lines that require slopes of greater than 5 percent. Equivalent accessible viewing positions may be located on levels having accessible egress.
+EXCEPTION: Accessible viewing positions may be clustered for bleachers, balconies, and other areas having sight lines that require slopes of greater than 5 percent. Equivalent accessible viewing positions may be located on levels having accessible egress.
 
 #### 4.33.4 SURFACES
 
