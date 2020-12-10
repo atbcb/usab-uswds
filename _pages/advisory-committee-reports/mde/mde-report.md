@@ -742,7 +742,7 @@ R Western University of Health Sciences, University of California - San Francisc
 
 35\. Story MF, Winters JM, Premo B, Kailes JI, Schwier E, Winters JM. Focus Groups on Accessibility of Medical Instrumentation. Atlanta, GA: Proceedings of RESNA 2005 Conference; 2005.
 
-36\. Winters JM, Story MF, Barnekow K, et al. Accessiblity of Medical Instrumentation: A Natilonal Healthcare Consumer Survey. Atlanta, GA: Proceedings of RESNA 2005 Conference; 2005.
+36\. Winters JM, Story MF, Barnekow K, et al. Accessibility of Medical Instrumentation: A Natilonal Healthcare Consumer Survey. Atlanta, GA: Proceedings of RESNA 2005 Conference; 2005.
 
 
 ---

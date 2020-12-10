@@ -60,7 +60,7 @@ If entrances are restricted to certain occupants on a controlled basis, at least
     </div>
     <div class="tablet:grid-col">
       <h3>Two-Way Communication Systems</h3>
-      <p>[<a href="{{ site.baseurl }}/aba/#aba-230)
+      <p>[<a href="{{ site.baseurl }}/aba/#aba-230">230</a>]</p>
       <p>Where two-way communication systems are provided to gain entry to a facility or to restricted spaces, they must include visual and audible signals to accommodate people with hearing, speech, or visual impairments. This applies to all entrances equipped with such systems, including those that are inaccessible. Lighted signals should have labels to indicate their meaning. If handsets are provided, cords must be at least 29” long. Control buttons and other operable parts must comply at those systems located at accessible entrances.</p>
     </div>
   </div>

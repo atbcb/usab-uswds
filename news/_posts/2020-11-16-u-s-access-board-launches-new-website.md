@@ -10,7 +10,7 @@ excerpt: >-
   . .
 image: /images/uploads/Newhomepage.jpg
 image_alt_text: Screenshot of the Board's new home page
-featured: true
+featured: false
 ---
 The U.S. Access Board has redesigned and updated its website at [www.access-board.gov](http://www.access-board.gov/). The new site features a streamlined design to make information easier to find. New menus and cross links enhance navigation of key resources, including the [ADA Accessibility Standards](https://access-board.gov/ada/) and the [Section 508 Standards](https://access-board.gov/ict/). In addition, the site updates information on Board programs and services, including training and filing of complaints under the ABA.
 

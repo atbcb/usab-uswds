@@ -2,6 +2,8 @@
 title: 2002 Draft Guidelines for Accessible Public Rights-of-Way
 layout: page
 permalink: /prowag/draft-2002.html
+redirect_from:
+    - /prowac/draft.htm
 ---
 
 **June 17, 2002**
