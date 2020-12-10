@@ -15,7 +15,7 @@ redirect_from:
 **January 2001**
 
 > **Draft prepared by the Committee's Editorial Subcommittee:**\
-> Janet Barlow, Pat Cannon (Board member), Dan Dawson, HolLynn D'Lil, Laurie Kozisek, Gina Hilberry (Illustrations Manager), Elizabeth Hilton, Jerry Markesino (Committee Chair), Charlie Nagel, Mary O'Connor, Debbie Ryan, Ellen Vanderslice, (Editorial Subcommittee Chair), Francine Wai, and Mark Wales
+> Sarah Janet Barlow, Pat Cannon (Board member), Dan Dawson, HolLynn D'Lil, Laurie Kozisek, Gina Hilberry (Illustrations Manager), Elizabeth Hilton, Jerry Markesino (Committee Chair), Charlie Nagel, Mary O'Connor, Debbie Ryan, Ellen Vanderslice, (Editorial Subcommittee Chair), Francine Wai, and Mark Wales
 >
 > **Assistance provided by Access Board staff members:**\
 > Dennis Cannon, Beth Stewart, Lois Thibault, and Scott Windley
