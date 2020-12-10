@@ -1,22 +1,18 @@
 ---
 title: Final Report
-Collection-title: Public Rights-of-Way Access Advisory Committee
-Layout: Report
+collection-title: Public Rights-of-Way Access Advisory Committee
+layout: universal
+toc: /toc/auto.html
+toc-group: prowaac
+permalink: /prowag/prowaac-report.html
+redirect_from:
+    - /prowac/commrept/index.htm
 ---
 
-Public Rights-of-Way Access Advisory Committee Final Report
------------------------------------------------------------
+## Public Rights-of-Way Access Advisory Committee Final Report
+*Building a True Community*
 
-Building a True Community
--------------------------
-
-![photo of roadway sign](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/prowaac-rpt.jpg)
-
-Final Report\
-Public Rights-of-Way Access Advisory Committee
-------------------------------------------------------------
-
-#### January 2001
+**January 2001**
 
 > **Draft prepared by the Committee's Editorial Subcommittee:**\
 > Janet Barlow, Pat Cannon (Board member), Dan Dawson, HolLynn D'Lil, Laurie Kozisek, Gina Hilberry (Illustrations Manager), Elizabeth Hilton, Jerry Markesino (Committee Chair), Charlie Nagel, Mary O'Connor, Debbie Ryan, Ellen Vanderslice, (Editorial Subcommittee Chair), Francine Wai, and Mark Wales
@@ -28,13 +24,7 @@ Public Rights-of-Way Access Advisory Committee
 ---
 
 
-Part I: Introduction
---------------------
-
--   [The Public Right-of-Way](http://www.access-board.gov/prowac/commrept/part1.htm#The%20Public%20Right-of-Way)
--   [Background](http://www.access-board.gov/prowac/commrept/part1.htm#BACKGROUND)
--   [Some Issues Considered by the Committee](http://www.access-board.gov/prowac/commrept/part1.htm#SOME%20ISSUES%20CONSIDERED%20BY%20THE%20COMMITTEE)
--   [The Structure and Format of this Report](http://www.access-board.gov/prowac/commrept/part1.htm#THE%20STRUCTURE%20AND%20FORMAT%20OF%20THIS%20REPORT)
+### Part I: Introduction
 
 THE PUBLIC RIGHT-OF-WAY
 
@@ -54,7 +44,7 @@ To that end, the PROWAAC developed a toolbox approach to defining standards whic
 
 The guidelines proposed in this report do not call for a minor adjustment here and there, they ask for a dramatic change from the way public rights-of-way have been designed in the past. However, they do not require dramatic changes to streets that were built in the past. It is important to understand that the recommended standards, if adopted, will apply whenever new streets are created and whenever existing streets are reconstructed or otherwise altered in ways that affect their usability by pedestrians. **Implementation of these recommendations will not require jurisdictions to rebuild existing streets solely to meet these standards.**
 
-BACKGROUND
+### BACKGROUND
 
 The Americans with Disabilities Act (ADA) of 1990 is a civil rights statute that prohibits discrimination against people who have disabilities. Under the ADA, designing and constructing facilities for public use that are not usable by people who have disabilities constitutes discrimination.
 
@@ -207,8 +197,7 @@ Eleven appendices to this report are provided. The first two appendices include 
 ---
 
 
-Part II: Executive Summary of Recommended Standards
----------------------------------------------------
+### Part II: Executive Summary of Recommended Standards
 
 The following is a summary of the recommended standards, scoping, and technical provisions, provided as an easy reference. Readers are strongly advised to consult the complete text of the standard language and its associated discussion section for a full understanding of the recommended requirements.
 
@@ -564,14 +553,9 @@ TEMPORARY FACILITIES AND CONSTRUCTION (X03)
 ---
 
 
-Part III: Recommended Standards, Scoping and Technical Provisions: X01 General
-------------------------------------------------------------------------------
+### Part III: Recommended Standards, Scoping and Technical Provisions
 
-> [X01.1 Applicability of this Section.](http://www.access-board.gov/prowac/commrept/part3-01.htm#X01.1%20Applicability%20of%20this%20Section.)\
-> [X01.2 Definitions.](http://www.access-board.gov/prowac/commrept/part3-01.htm#X01.2%20Definitions.)\
-> [X01.3 Existing Public Rights-of-Way.](http://www.access-board.gov/prowac/commrept/part3-01.htm#X01.3%20Existing%20Public%20Rights-of-Way.)
-
-**X01 GENERAL**
+#### X01 GENERAL
 
 X01.1 Applicability of this Section.\
 This report recommends scoping and technical requirements for accessibility within public rights-of-way by individuals with disabilities. These requirements are intended to be applied during the project development, design, construction and alteration of elements in the *public right-of-way* to the extent required by regulations issued by Federal agencies under the Americans with Disabilities Act of 1990.
@@ -930,7 +914,7 @@ Where existing *elements* or *spaces* in the *public right-of-way* are *a
 ---
 
 
-X02 New Construction: Minimum Requirements: X02.1 Public Sidewalks
+#### X02 New Construction: Minimum Requirements: X02.1 Public Sidewalks
 ------------------------------------------------------------------
 
 #### X02.1 Public Sidewalks
