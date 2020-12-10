@@ -72,7 +72,7 @@
 
 .swiper-button-disabled {
     color: black;
-    opacity: "";
+    opacity: 0 !important;
 }
 
 .swiper-pagination {

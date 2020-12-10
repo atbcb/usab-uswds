@@ -68,4 +68,8 @@ var mySwiper = new Swiper('.swiper-homepage', {
     scrollbar: {
       el: '.swiper-scrollbar',
     },
+
+    a11y: {
+      enabled: false
+    }
   })
