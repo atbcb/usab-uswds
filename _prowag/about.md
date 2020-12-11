@@ -3,6 +3,7 @@ title: "About"
 order-number: 0
 permalink: /prowag/
 file: /files/prowag/PROW-SUP-SNPRM-2013.pdf
+file-description: Public Rights-of-Way Accessibility Guidelines (with SUP)
 redirect_from:
     - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/
     - /guidelines-and-standards/streets-sidewalks/public-rights-of-way/proposed-rights-of-way-guidelines/
@@ -12,7 +13,7 @@ redirect_from:
 ---
 ### About the ADA and ABA Accessibility Guidelines for the Public Rights-of-Way
 
-{% asset stock/cane.jpg class="img-right shadow radius-lg" alt="cane trailing detectable surface"%}
+{% asset stock/cane.jpg class="img-right shadow radius-lg" alt="cane trailing detectable surface" %}
 
 The Access Board is developing new guidelines under the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA) that will address access to sidewalks and streets, crosswalks, curb ramps, pedestrian signals, on-street parking, and other components of public rights-of-way.  These guidelines also review shared use paths, which are designed primarily for use by bicyclists and pedestrians for transportation and recreation purposes. 
 
