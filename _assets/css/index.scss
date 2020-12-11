@@ -499,3 +499,10 @@ a.style-inherit {
   @include u-bg('primary-lighter');
   color: black;
 }
+
+
+//filmstrip
+.filmstrip {
+  background: repeating-linear-gradient(45deg, #FFE11A, #FFE11A 50%, #FD7400 50%, #FD7400);
+  background-size: 20px 20px;
+}
