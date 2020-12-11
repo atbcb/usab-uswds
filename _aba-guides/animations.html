@@ -6,12 +6,4 @@ redirect_from:
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/animations/
 ---
 
-{% for video in site.data[page.datafile] %}
-    {% capture caption_path %}{{ site.baseurl }}{{ video.caption-file }}{% endcapture %}
-    {% capture video_path %}{{ site.baseurl }}{{ video.video-file }}{% endcapture %}
-    {% include video/video-file-player.html name=video.video-name video_path=video_path caption_path=caption_path %}
-{% endfor %}
-
-{% comment %}
-This file is a copy from the one in _ADA-guides so we can get the animations to show up also in the ABA guides table of contents
-{% endcomment %}
+{% include animations-swiper-single.html %}
