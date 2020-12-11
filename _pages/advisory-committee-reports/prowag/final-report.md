@@ -9,7 +9,7 @@ redirect_from:
     - /prowac/commrept/index.htm
 ---
 
-## Public Rights-of-Way Access Advisory Committee Final Report
+# Public Rights-of-Way Access Advisory Committee Final Report
 *Building a True Community*
 
 **January 2001**
@@ -24,7 +24,7 @@ redirect_from:
 ---
 
 
-### Part I: Introduction
+## Part I: Introduction
 
 THE PUBLIC RIGHT-OF-WAY
 
@@ -98,13 +98,13 @@ The advisory committee explored many approaches and compromised in many areas to
 
 The PROWAAC presents this report to the Access Board at the Transportation Research Board's (TRB) annual meeting in January, 2001. The report addresses the variety of facilities in the public right-of-way and identifies the features of each facility not adequately addressed by ADAAG. This report presents the recommendations of the PROWAAC for accessibility standards for those features.
 
-#### What's next
+### What's next
 
 The Access Board will consider these recommendations and write a proposed rule, which will be published in a Notice of Proposed Rulemaking (NPRM). Interested parties will then have a chance to comment on the NPRM before the Department of Justice and/or the Department of Transportation considers whether to issue a final rule.
 
 Some agencies may begin to use the recommendations in this report as guidance even before a final rule is adopted. These recommendations represent the best judgment of the committee on a very large number of issues as developed in a relatively short period of time. However, it should be noted that, inevitably, there are some recommendations in this report, as well as some issues for which recommendations were reserved, where the outcome might have been different had there been more time for the committee to discuss and test what is proposed. The period for public comment will allow these recommended standards to be further refined into a final rule that truly embodies the basic principles that guided the committee.
 
-SOME ISSUES CONSIDERED BY THE COMMITTEE
+### SOME ISSUES CONSIDERED BY THE COMMITTEE
 
 -   [The need for larger dimensions in the public right-of-way](http://www.access-board.gov/prowac/commrept/part1.htm#issue1)
 -   [What to call the "corridor of accessible travel" in the public right-of-way](http://www.access-board.gov/prowac/commrept/part1.htm#issue2)
@@ -116,12 +116,14 @@ SOME ISSUES CONSIDERED BY THE COMMITTEE
 -   [Maintenance of pedestrian access routes and accessible features](http://www.access-board.gov/prowac/commrept/part1.htm#issue8)
 -   [Consistency with other reports](http://www.access-board.gov/prowac/commrept/part1.htm#issue9)
 
-**The need for larger dimensions in the public right-of-way**\
+#### The need for larger dimensions in the public right-of-way
+
 While fully understanding that the standards must require the minimum dimensions necessary for access, rather than setting desirable or preferred dimensions, PROWAAC members considered the possibility that larger dimensions were necessary in public rights-of-way to provide adequate accessibility.
 
 The committee recognized that maneuvering clearances needed in the public right-of-way may be greater than the clearances needed in a building or facility. Travel in the public right-of-way is generally faster and often may take place under circumstances requiring larger mobility aids. Pedestrians, including persons with disabilities, are much more likely to travel side-by-side or in groups in the public right-of-way. The committee recognized that some people who use crutches require as much as 42 inches (1065mm) of usable width to support travel, and people with service animals or sighted guides will use a minimum of 48 inches (1220mm). The committee also considered that at least 60 inches (1525mm) of width are required for a variety of wheelchairs currently in use to turn or pass; and that 72 inches (1830mm) are required for two wheelchair users to travel side-by-side.
 
-**What to call the "corridor of accessible travel" in the public right-of-way**\
+#### What to call the "corridor of accessible travel" in the public right-of-way
+
 PROWAAC members spent considerable time working to identify a term that would represent an analog in the public right-of-way to the term "accessible route," the basic unit of accessibility for title III entities under ADAAG. This concept was called "continuous passage" in proposed section 14.
 
 The committee discussed the notion of a three-dimensional corridor through which sidewalk travelers could easily move. Designers should understand this as a spatial concept, not just a given expanse of concrete or asphalt. This continuous corridor of accessible travel, threading its way along sidewalks and across driveways and roadways, free of abrupt changes in level, with a clear width of at least sixty inches and a clear height of at least eighty inches, assures access for all sidewalk travelers, from those who use wheelchairs to those who push strollers to those who find their way with a cane.
@@ -130,46 +132,55 @@ In searching for the right name for this corridor, the committee took into accou
 
 A further concern was to avoid disrespect to any sidewalk travelers. After much debate, the majority of the committee supported the term *pedestrian access route*, and that term is used throughout this report. However, some members felt strongly that the word pedestrian, although defined in this report and commonly used among designers to denote all sidewalk travelers, has its roots in the Latin word for feet, and thus is not the best choice to describe those who use wheelchairs for mobility.
 
-**Wayfinding in public rights-of-way for blind persons or those with low vision**\
+#### Wayfinding in public rights-of-way for blind persons or those with low vision
+
 PROWAAC members recognized there is a significant need for wayfinding for pedestrians who are blind or have low vision. The committee's recommendations to the Access Board include a number of proposed standards that will, if adopted, provide additional guidance about signs, street crossing controls, pedestrian signals, crossing times and other items. The committee also recognizes that technological changes are occurring rapidly, with the potential to greatly improve access for persons with visual impairments over time. The committee recommends continual review of technology in this area to provide advisory guidance to communities in establishing wayfinding systems.
 
-**Flexibility of the standards with respect to emerging technologies**\
+#### Flexibility of the standards with respect to emerging technologies
+
 PROWAAC members understood that new technologies are constantly emerging. These recommended standards are intended to be flexible enough to accommodate new technologies, particularly wayfinding technologies, but also new mobility devices, new signal technologies and other technologies that may emerge to increase access and mobility for pedestrians who have disabilities.
 
-**The variety of needs, sometimes competing, of users with diverse disabilities**\
+#### The variety of needs, sometimes competing, of users with diverse disabilities
+
 PROWAAC members gave great attention to the needs of all users of public rights-of-way who have disabilities. The committee recognized that efforts to increase access and usability for some pedestrians have caused, or may cause, problems for others with different disabilities. For example, the proliferation of curb ramps in the public rights-of-way has greatly increased access for pedestrians using wheelchairs, scooters and other wheeled mobility aids. However, the curb formerly provided an important cue to blind pedestrians, and where curb ramps are installed that cue has now been lost or diminished. The recommendations for detectable warnings at curb ramps and flush landings are an example of the committee's desire to address these issues.
 
-**Extension of the pedestrian access route into the roadway at crosswalks**\
+#### Extension of the pedestrian access route into the roadway at crosswalks
+
 PROWAAC members recognized that travel by pedestrians with disabilities in public rights-of-way is not limited to sidewalks, and that crosswalks in the roadway are an integral part of the pedestrian access route. The committee worked to develop reasonable standards for crosswalks in new roadways that will foster access for all users.
 
-**The need for pedestrian access on all urban roadways**\
+#### The need for pedestrian access on all urban roadways
+
 PROWAAC members conceded that the ADA does not require the construction of sidewalks in public rights-of-way, but only requires that, where provided, such facilities meet the standards for accessibility, and that it is not within the purview of this committee to alter the scope of the law. However, in support of the rights of all users, including those who do not use motor vehicles, to access destinations via public rights-of-way, the committee adopted a resolution to express their support for identifying a mechanism to require that sidewalks be included whenever a road is constructed or reconstructed in a public right-of-way in an urban area. (See Appendix C)
 
-**Maintenance of pedestrian access routes and accessible features**\
+#### Maintenance of pedestrian access routes and accessible features
+
 PROWAAC members recognized the importance of maintaining pedestrian access routes and features such as crosswalk locators and signals, railings, pavement markings and surfaces intended for use by people with disabilities. The committee also recognizes that state and local governments have a maintenance responsibility under the Department of Justice's rules barring discrimination on the basis of disability in state and local government services. However, the committee also recognizes that municipalities differ in how things are accomplished. For example, in some communities, adjacent property owners are required to construct sidewalks, to repair and maintain them, and to clear snow or other hazards from sidewalks. Some communities have the ability to establish proactive programs that look for problems and fix them, while others may only respond to citizen complaints.
 
 Attempting to codify how and when state and local governments must identify problems and resolve them is beyond the scope of the committee. Public entities are encouraged to establish procedures that will assure that maintenance activities are undertaken by the responsible individuals and entities in ways that minimize inconveniences to individuals with disabilities, consistent with Department of Justice regulations.
 
 The committee also attempted to provide information for temporary facilities and construction in the pedestrian access route, including options for warnings, signage and barricades, and alternate circulation paths. Examples of construction barricading standards which maintain pedestrian access routes during construction are available from communities such as San Francisco, California.
 
-**Consistency with other reports**\
+### Consistency with other reports
+
 PROWAAC members attempted to be consistent with the recent recommendations of other Access Board subcommittees, such as the Recreation Access Advisory Committee and the Regulatory Negotiating Committee for Outdoor Developed Areas, regarding elements that are commonly found in parks, recreation areas, and related public rights-of-way. Some examples include benches, tables, trash receptacles, and artwork. The committee also attempted to be consistent with proposed ADAAG and used it as the reference standard to the extent practicable.
 
 The committee identified some potential gray areas, such as whether the guidelines for the public rights-of-way or guidelines for recreation access should be applied in cases of shared use paths or trails within public rights-of-way. The Access Board will need to decide where each set of guidelines applies.
 
 The committee coordinated their efforts with those of national transportation standard-setting organizations like the American Association of State Highway and Transportation Officials (AASHTO) and federal agencies such as the United States Department of Transportation to assure that recommendations are consistent with generally accepted practice among design professionals.
 
-THE STRUCTURE AND FORMAT OF THIS REPORT
+### THE STRUCTURE AND FORMAT OF THIS REPORT
 
 The recommendations of the PROWAAC for standards for construction in the public right-of-way are found in Part III of this report. These recommendations are briefly summarized in Part II, Executive Summary of Recommended Standards. Within the recommendations, information is provided in the form of recommended standards followed by a discussion section, as described below. Numbering has been done using a generic "X" to represent the number of the chapters that will eventually be assigned to the public rights-of-way accessibility guidelines. Where cross references to material in these recommendations or in proposed ADAAG are given, the sections are referenced. Terms that are defined in X01.2 are generally italicized the first time they appear in a numbered provision.
 
-**Executive Summary**\
+#### Executive Summary
+
 An executive summary is provided that highlights the recommended standards in this report and the list of recommended research. Each summary is a short list of the basic technical provisions of the associated standard. The summaries are provided for convenience; however, readers are strongly advised to consult the complete text of the standard language and its associated discussion section for a full understanding of the recommended requirements.
 
-**Recommended Standards**\
+#### Recommended Standards
+
 These are recommendations from the PROWAAC to the Access Board on requirements to achieve accessibility in the public right-of-way. Standards are numbered and arranged according to a hierarchy: some standards have many sub-elements; others do not. Each standard or sub-element of a standard includes the following parts:
 
-**Scoping Provisions**\
+**Scoping Provisions**
 This part describes where the standard applies and which elements must meet the technical provisions.
 
 **Technical Provisions**\
@@ -197,7 +208,7 @@ Eleven appendices to this report are provided. The first two appendices include 
 ---
 
 
-### Part II: Executive Summary of Recommended Standards
+## Part II: Executive Summary of Recommended Standards
 
 The following is a summary of the recommended standards, scoping, and technical provisions, provided as an easy reference. Readers are strongly advised to consult the complete text of the standard language and its associated discussion section for a full understanding of the recommended requirements.
 
