@@ -24,15 +24,13 @@ redirect_from:
 {% endfor %}
 
 <hr>
-{%- comment -%}
+{% comment %}
 {% assign ada-chapters = site.ada | where: "title","DOJ’s 2010 ADA Standards" %}
 {% for chapter in ada-chapters %}
     <h1>{{chapter.title}}</h1>
     <div class="usa-prose">{{chapter.content}}</div>
 {% endfor %}
-{%- endcomment -%}
-
-
+{% endcomment %}
 
 <!-- STANDARDS -->
 
