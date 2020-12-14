@@ -618,7 +618,7 @@ Channelizing Island
 : curbed or painted area outside the vehicular path provided to control and direct traffic movement into the proper lane for its direction. May also serve as a refuge island for *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*.
 
 Cluster
-:two or more similar *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*-related elements located in close proximity in the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)*.
+: two or more similar *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*-related elements located in close proximity in the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)*.
 
 Contrast
 : (See [*Visual Contrast*](http://www.access-board.gov/prowac/commrept/part3-01.htm#vc).)
@@ -749,7 +749,8 @@ Public Right-of-way
 Public Sidewalk
 : that portion of a *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* between the curb line or lateral line of a roadway and the adjacent property line that has an improved surface and is intended primarily for use by *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*.
 
-Push button: *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* detector, switching input device provided for pedestrians to actuate operation of a traffic signal.
+Push button
+: *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* detector, switching input device provided for pedestrians to actuate operation of a traffic signal.
 
 Railing
 : a barrier located near the open sides of elevated walking surfaces to minimize the possibility of an accidental fall from the walking surface to the lower level.
@@ -814,9 +815,10 @@ Walk Interval
 Warp
 : a condition of a surface that is twisted, bent or formed out of a plane.
 
-**X01.3 Existing Public Rights-of-Way.**
+#### X01.3 Existing Public Rights-of-Way
 
-**X01.3.1 General.**\
+##### X01.3.1 General
+
 Additions and alterations to existing *public rights-of-way* shall comply with the provisions of this chapter.
 
 **Discussion:** The committee recognizes that construction work in the public right-of-way consists largely of alterations to existing developed environments. Precedent-setting court cases, existing DOJ and DOT regulations under the ADA, the Rehabilitation Act, and the Architectural Barriers Act, and the range and complexity of public right-of-way design and construction variables make it impossible to develop national standards applicable to all conditions that may be encountered in a local alterations project. Accordingly, the committee deferred to the requirements for alterations in the DOJ title II regulation, which states that:\
@@ -826,10 +828,12 @@ This requirement should be broadly understood to require alterations to conform 
 
 While many questions were posed by and to the committee to clarify the terms "to the maximum extent feasible" and "technical infeasibility", the committee did not take action to establish a separate set of standards for alterations, except in a few instances. Notwithstanding the constraints of time imposed upon the committee, the committee believed that setting lesser standards for public sidewalk and curb ramp slope, warp and flatness, running slope, side flares, curb ramp skew, and directionality would serve only to lower the bar on alterations for those elements and features that might be made accessible in the course of public sidewalk or roadway alteration. Case-by-case professional design judgment, informed by an understanding of the rationale behind access provisions, must be applied to develop the most usable solution for each specific environment. The committee will rely on anticipated technical assistance in guidelines to be developed by the Access Board, in conjunction with any final rule and possible future committee work, to provide further clarification as to best practices in the industry.
 
-**X01.3.2 Additions.**\
+##### X01.3.2 Additions
+
 Each addition to an existing *public right-of-way* shall comply with the requirements for new construction.
 
-**X01.3.3 Alterations.**\
+##### X01.3.3 Alterations
+
 Where existing *elements* or *spaces* in the *public right-of-way* are *altered*, each *altered* *element* or *space* shall comply with the applicable provisions of this chapter.
 
 **EXCEPTIONS:**\
@@ -839,18 +843,21 @@ Where existing *elements* or *spaces* in the *public right-of-way* are *a
 
 **Discussion:** Qualified historic properties are allowed alternative alteration provisions in the ADA, as well as current and proposed ADAAG. These provisions allow certain historic preservation principles to limit the extent to which a historic property is fully required to comply with the alterations provisions of ADAAG. Title 28 of the Code of Federal Regulations, Section 35.150(a)(2) says a program shall be accessible but that this requirement does not "require a public entity to take any action that would threaten or destroy the historic significance of an historic property." However, the commentary states that "the special limitation on program accessibility set forth in paragraph (a)(2) is applicable only to historic preservation programs, as defined in 35.104." Section 35.104 states, "Historic preservation programs means programs conducted by a public entity that have preservation of historic properties as a primary purpose." Therefore, the historic properties provisions apply only to sites where historic preservation is the primary purpose. It is the intent of the committee to create an analog for the current and proposed ADAAG provisions to be applied to the public right-of-way environment. However, the committee wanted to ensure that the alternative alteration provision under this part was not broadly construed to apply to all sites or elements within a historic district, unless the primary purpose of that site or element was historic preservation.
 
-**X01.3.3.1 Prohibited Reduction in Access**. It is prohibited to make an alteration that decreases or has the effect of decreasing the accessibility of a public right-of-way or site arrival points to buildings or facilities adjacent to the altered portion of the public right-of-way, below the requirements for new construction at the time of the alteration.
+###### X01.3.3.1 Prohibited Reduction in Access
 
-**Discussion: **The committee considered text that would require the provision of a pedestrian access route to every address served by a blocked public sidewalk. This would ensure that coincident construction could not eliminate public sidewalks and curb ramps necessary to maintain access. This was deferred as a maintenance issue under the 'Maintenance of Accessible Features' provision in the DOJ title II regulation
+It is prohibited to make an alteration that decreases or has the effect of decreasing the accessibility of a public right-of-way or site arrival points to buildings or facilities adjacent to the altered portion of the public right-of-way, below the requirements for new construction at the time of the alteration.
 
-**X01.3.3.2 Extent of Application.** An alteration of an existing element, space, or area of a public right-of-way shall not impose a requirement for accessibility greater than required for new construction.
+**Discussion: **The committee considered text that would require the provision of a pedestrian access route to every address served by a blocked public sidewalk. This would ensure that coincident construction could not eliminate public sidewalks and curb ramps necessary to maintain access. This was deferred as a maintenance issue under the 'Maintenance of Accessible Features' provision in the DOJ title II regulation.
+
+###### X01.3.3.2 Extent of Application
+
+An alteration of an existing element, space, or area of a public right-of-way shall not impose a requirement for accessibility greater than required for new construction.
 
 
 ---
 
 
-#### X02 New Construction: Minimum Requirements: X02.1 Public Sidewalks
-------------------------------------------------------------------
+### X02 New Construction: Minimum Requirements
 
 #### X02.1 Public Sidewalks
 
