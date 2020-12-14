@@ -15,7 +15,7 @@ redirect_from:
 **January 2001**
 
 > **Draft prepared by the Committee's Editorial Subcommittee:**\
-> Sarah Janet Barlow, Pat Cannon (Board member), Dan Dawson, HolLynn D'Lil, Laurie Kozisek, Gina Hilberry (Illustrations Manager), Elizabeth Hilton, Jerry Markesino (Committee Chair), Charlie Nagel, Mary O'Connor, Debbie Ryan, Ellen Vanderslice, (Editorial Subcommittee Chair), Francine Wai, and Mark Wales
+> Janet Barlow, Pat Cannon (Board member), Dan Dawson, HolLynn D'Lil, Laurie Kozisek, Gina Hilberry (Illustrations Manager), Elizabeth Hilton, Jerry Markesino (Committee Chair), Charlie Nagel, Mary O'Connor, Debbie Ryan, Ellen Vanderslice, (Editorial Subcommittee Chair), Francine Wai, and Mark Wales
 >
 > **Assistance provided by Access Board staff members:**\
 > Dennis Cannon, Beth Stewart, Lois Thibault, and Scott Windley
@@ -255,7 +255,7 @@ The following is a summary of the recommended standards, scoping, and technical 
 
 -   Changes in level on pedestrian access routes shall comply with proposed ADAAG Section 303.
 
-##### Stairs (X02.1.8)**
+##### Stairs (X02.1.8)
 
 -   Stairs within the public right-of-way shall comply with proposed ADAAG Section 504.
 -   Stairs shall not be a part of the pedestrian access route.
@@ -565,29 +565,30 @@ The following is a summary of the recommended standards, scoping, and technical 
 
 ## Part III: Recommended Standards, Scoping and Technical Provisions
 
-#### X01 GENERAL
+### X01 GENERAL
 
-X01.1 Applicability of this Section.\
+#### X01.1 Applicability of this Section
+
 This report recommends scoping and technical requirements for accessibility within public rights-of-way by individuals with disabilities. These requirements are intended to be applied during the project development, design, construction and alteration of elements in the *public right-of-way* to the extent required by regulations issued by Federal agencies under the Americans with Disabilities Act of 1990.
 
 > ***Advisory**: The recommended standards in this report reflect the hierarchical concept of a "path within a path." Some provisions in these recommendations apply to the entire public sidewalk, while other provisions apply only to the pedestrian access route. Within the pedestrian access route is an "inviolate" reduced vibration zone. The scoping provisions for each standard lay out where it is to be applied.*
 
-**X01.1.1 Equivalent Facilitation.** Nothing in this report is intended to prevent the use of designs or technologies as alternatives to those prescribed in this report provided they result in substantially equivalent or greater accessibility and usability.
+##### X01.1.1 Equivalent Facilitation
 
-X01.2 Definitions.
+Nothing in this report is intended to prevent the use of designs or technologies as alternatives to those prescribed in this report provided they result in substantially equivalent or greater accessibility and usability.
 
-**X01.2.1 General.**\
+#### X01.2 Definitions
+
+##### X01.2.1 General
 The provisions of proposed ADAAG Section 106.1, Section 106.2, Section 106.3, Section 106.4 apply to this section.
 
-**X01.2.2 Defined terms**
+##### X01.2.2 Defined terms
 
-Acceptance Angle:
+Acceptance Angle
+: The maximum range of transmission, measured with respect to 90 degrees in all directions, within which *remote infrared audible sign *systems remain operational, as measured at the transmitter.
 
-the maximum range of transmission, measured with respect to 90 degrees in all directions, within which *remote infrared audible sign *systems remain operational, as measured at the transmitter.
-
-Accessible Pedestrian Signal (APS):
-
-A device that communicates information about *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* signal timing in non-visual format, through the use of audible tones (or verbal messages) and vibrating surfaces.
+Accessible Pedestrian Signal (APS)
+: A device that communicates information about *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* signal timing in non-visual format, through the use of audible tones (or verbal messages) and vibrating surfaces.
 
 Actuated Control:
 
