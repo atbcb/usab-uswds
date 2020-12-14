@@ -15,7 +15,7 @@ permalink: /research/prow/common-problems-aps-installation/
 
 
 **June 2009**
-![clip image002 0003]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0003.gif)
+![clip image002 0003]({{ site.baseurl }}/images/research/prow/common-problems-aps-installation/clip_image002_0003.gif)
 
 > Prepared by:\
 > Janet M. Barlow, COMS, Accessible Design for the Blind
