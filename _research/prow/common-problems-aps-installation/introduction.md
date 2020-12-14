@@ -8,12 +8,10 @@ year-completed: 2009
 topic: Public Rights-of-Way
 ---
 
-|   | ![Photo of black rectangular unit with a sign with a print arrow and pedestrian signal. On the bottom part of the unit is a large pushbutton with an arrow.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0005.gif) |
-|   |
+![Photo of black rectangular unit with a sign with a print arrow and pedestrian signal. On the bottom part of the unit is a large pushbutton with an arrow.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0005.gif)
 
 **Figure 1: Pushbutton-integrated APS (Polara)**
 
- |
 
 Today's wide and increasingly congested intersections and complex signalization schemes often fail to provide adequate non-visual information for crossing analysis and decisions by pedestrians who are blind or who have low vision. For the effective communication required by the Americans with Disabilities Act (ADA) of 1990, the WALK/DON'T WALK indications of visual pedestrian signal heads should be conveyed to pedestrians who don't use visual cues. Accessible Pedestrian Signals (APS) provide this information through audible and vibrotactile indications.
 
