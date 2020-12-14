@@ -1,5 +1,5 @@
 ---
-title: Introduction
+title: About
 order-number: 0
 toc-group: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 banner-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
