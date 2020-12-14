@@ -56,7 +56,7 @@ For more information about the Board’s research program, contact Dave Yanchuli
 
 ### Public Rights-of-Way
 
--   [Common Problems Arising in the Installation of Accessible Pedestrian Signals]({{ site.baseurl }}research/prow/common-problems-aps-installation/) (2009)
+-   [Common Problems Arising in the Installation of Accessible Pedestrian Signals]({{ site.baseurl }}/research/prow/common-problems-aps-installation/) (2009)
 -   [Interfacing Audible Pedestrian Signals and Traffic Signal Controllers]({{ site.baseurl }}/research/prow/interfacing-aps/) (2003)
 -   [Pedestrian Access to Modern Roundabouts]({{ site.baseurl }}/research/prow/roundabouts/) (2001)
 -   [Synthesis of Literature Relevant to Roundabout Signalization to Provide Pedestrian Access]({{ site.baseurl }}/research/prow/literature-roundabout-signalization/) (2007)
