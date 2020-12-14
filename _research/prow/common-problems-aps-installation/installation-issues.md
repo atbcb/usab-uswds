@@ -40,7 +40,7 @@ The installer or an assistant should walk approximately 10 feet away from the de
 
 An APS that is mounted outside the crosswalk area may provide misleading information about the crossing location. Pedestrians who are blind may stand beside the pushbutton while waiting to cross, particularly if they use the vibrotactile indication.
 
-|   | ![clip image002 0039](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0039.jpg) |
+|   | ![clip image002 0039]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0039.jpg) |
 |   |
 
 **Figure 5: APS is located about 8 feet from the crosswalk and curb ramp landing.**
@@ -61,7 +61,7 @@ Vehicular signal poles are rarely in optimal position for mounting APS pushbutto
 
 In numerous installations evaluated in the field, where two APS were mounted on the same pole, installers failed to customize the messages and used the manufacturer's default message, 'WALK sign is on'. With two APS located closer than five feet to each other, it is impossible to distinguish which one is sounding based on the location and direction of the sound. Pedestrians standing at one crosswalk could mistake the message of the other crosswalk for their indication to begin crossing.
 
-|   | ![Photo of island with two APS mounted on a signal pole between the two cut-through sidewalk paths. Callout box pointing to one device says: Pushbutton message: Wait to cross Grand at Howard. Wait. Speech walk message: Grand, Walk sign is on to cross Grand. Callout box pointing to other device says: Pushbutton message: Wait to cross Howard at Grand. Wait. Speech walk message: Howard, Walk sign is on to cross Howard.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0044.jpg) |
+|   | ![Photo of island with two APS mounted on a signal pole between the two cut-through sidewalk paths. Callout box pointing to one device says: Pushbutton message: Wait to cross Grand at Howard. Wait. Speech walk message: Grand, Walk sign is on to cross Grand. Callout box pointing to other device says: Pushbutton message: Wait to cross Howard at Grand. Wait. Speech walk message: Howard, Walk sign is on to cross Howard.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0044.jpg) |
 |   |
 
 **Figure 6: Example of pushbutton information messages and speech walk messages, if two APS must be mounted on the same pole Alterations only.**
@@ -80,7 +80,7 @@ Speech messages should include the street name and use this tested format: 'Howa
 
 In Figure 7, APS have been installed on the wrong poles. The APS on the pole in the left of the photo has an arrow pointing toward the street on the right in the photo. Since the APS is closer to the departure curb and curb ramp for crossing straight ahead (in line with the photographer's direction of travel), a pedestrian hearing the sound from that APS would expect that the APS governs that crossing, and may not even be able to hear the further distant APS that is actually for the crossing he/she intends (in the foreground of Figure 7).
 
-| ![Photo of crossing, looking across street from sidewalk, with street parallel to photographer on right.  Pushbutton with arrow pointing toward the right side of the photo (toward parallel street) is on a pole on the left side of the photo, beside the landing and curb ramp for the street in front of the photographer.  Another pushbutton is located on a large signal pole in forefront of the photo, with arrow pointing toward street in front of photographer, close to the ramp for the parallel street, but more than 15 feet from the street the arrow points toward.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0015.gif) |
+| ![Photo of crossing, looking across street from sidewalk, with street parallel to photographer on right.  Pushbutton with arrow pointing toward the right side of the photo (toward parallel street) is on a pole on the left side of the photo, beside the landing and curb ramp for the street in front of the photographer.  Another pushbutton is located on a large signal pole in forefront of the photo, with arrow pointing toward street in front of photographer, close to the ramp for the parallel street, but more than 15 feet from the street the arrow points toward.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0015.gif) |
 |
 
 **Figure 7: Installation where APS are installed in wrong locations; both are too far from street they control and will be heard as closer to the other street.**
@@ -88,7 +88,7 @@ In Figure 7, APS have been installed on the wrong poles. The APS on the pole in 
  |
 |
 
-** ![Photo of crossing, looking across street from sidewalk, with street parallel to photographer on right. Pushbutton with arrow pointing toward the street in front of the photographer is on a pole on the left side of the photo, beside the landing and curb ramp for the street in front of the photographer. Another pedestrian signal pole is located on the right side of the photo, beside the curb ramp for the street to the right in the photo.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0016.gif)**
+** ![Photo of crossing, looking across street from sidewalk, with street parallel to photographer on right. Pushbutton with arrow pointing toward the street in front of the photographer is on a pole on the left side of the photo, beside the landing and curb ramp for the street in front of the photographer. Another pedestrian signal pole is located on the right side of the photo, beside the curb ramp for the street to the right in the photo.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0016.gif)**
 
  |
 |
@@ -109,7 +109,7 @@ Installation of the APS on a stub pole or separate pedestrian signal pole, as sh
 
 |   |
 
-![On left side of photo, APS pushbutton unit with tactile arrow is mounted on a large pole. Crosswalk line extends across street slightly to left; arrow angles right toward center of intersection.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0017.gif)
+![On left side of photo, APS pushbutton unit with tactile arrow is mounted on a large pole. Crosswalk line extends across street slightly to left; arrow angles right toward center of intersection.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0017.gif)
 
  |
 |   |
@@ -119,12 +119,12 @@ Installation of the APS on a stub pole or separate pedestrian signal pole, as sh
  |
 |   |
 
-![On right side of photo, APS pushbutton unit with tactile arrow is mounted on a large pole. Crosswalk line extends across street in line with arrow and pushbutton unit.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0018.gif)
+![On right side of photo, APS pushbutton unit with tactile arrow is mounted on a large pole. Crosswalk line extends across street in line with arrow and pushbutton unit.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0018.gif)
 
  |
 |   | **Figure 10: Location where tactile arrow is aligned with direction of travel on the crosswalk.** |
 |   |   |
-|   | ![APS that was damaged in a crash and temporarily reinstalled with wire. Description:  Photo with pole on right and intersection visible to left.  Several strands of wire are wrapped around the pole and APS unit.  The APS aims diagonally across intersection.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image001_0007.jpg) |
+|   | ![APS that was damaged in a crash and temporarily reinstalled with wire. Description:  Photo with pole on right and intersection visible to left.  Several strands of wire are wrapped around the pole and APS unit.  The APS aims diagonally across intersection.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image001_0007.jpg) |
 |   |
 
 **Figure 11: APS that was damaged in a crash and temporarily reinstalled with wire.**
@@ -132,7 +132,7 @@ Installation of the APS on a stub pole or separate pedestrian signal pole, as sh
  |
 |   |
 
-![At an intersection corner, a man on a scooter is leaning far to his left to try to reach a pushbutton that is located in a grassy area behind a raised curb. It is a couple of feet out of reach.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image001_0002.jpg)
+![At an intersection corner, a man on a scooter is leaning far to his left to try to reach a pushbutton that is located in a grassy area behind a raised curb. It is a couple of feet out of reach.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image001_0002.jpg)
 
  |
 |   |
@@ -142,13 +142,13 @@ Installation of the APS on a stub pole or separate pedestrian signal pole, as sh
  |
 |   |
 
-![Photo of crossing, looking across street from sidewalk, with street parallel to photographer on left. Landscape strips are located between the sidewalks and streets. Pushbutton with arrow pointing toward the street in front of the photographer is on a pole on the right side of the photo, in the landscape strip at the edge of the sidewalk and landing for the street in front of the photographer. Another pedestrian signal pole is located on the left side of the photo, in the landscape strip beside the curb ramp for the street to the left in the photo. Sign and pushbutton are on the back side of pole, barely visible in photo.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image001_0003.jpg)
+![Photo of crossing, looking across street from sidewalk, with street parallel to photographer on left. Landscape strips are located between the sidewalks and streets. Pushbutton with arrow pointing toward the street in front of the photographer is on a pole on the right side of the photo, in the landscape strip at the edge of the sidewalk and landing for the street in front of the photographer. Another pedestrian signal pole is located on the left side of the photo, in the landscape strip beside the curb ramp for the street to the left in the photo. Sign and pushbutton are on the back side of pole, barely visible in photo.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image001_0003.jpg)
 
  |
 |   | **Figure 13: APS installed on poles in the landscape strip, and still within reach from a level paved sidewalk surface.** |
 |   |
 
-![Closeup photo of sign above APS. Pedestrian symbol is centered on sign, with small print label and Braille below it.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0038.jpg)
+![Closeup photo of sign above APS. Pedestrian symbol is centered on sign, with small print label and Braille below it.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0038.jpg)
 
  |
 |   |
@@ -244,7 +244,7 @@ Recent research has shown that a louder locator tone during the flashing DON'T W
 
 |
 
-![Photo from sidewalk looking across street with street parallel to photographer on left. Pedestrian is crossing the street. Pole on right in photo, with two pushbuttons on it, is over 10 feet to the right of the crosswalk line. A fire hydrant is located between pole and crosswalk.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0023.gif)
+![Photo from sidewalk looking across street with street parallel to photographer on left. Pedestrian is crossing the street. Pole on right in photo, with two pushbuttons on it, is over 10 feet to the right of the crosswalk line. A fire hydrant is located between pole and crosswalk.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0023.gif)
 
  |
 |
@@ -254,7 +254,7 @@ Recent research has shown that a louder locator tone during the flashing DON'T W
  |
 |
 
-![Photo from sidewalk looking across street with street parallel to photographer on left. Pole and fire hydrant are on right in photo. Additional small pole, about 4 feet high, is located near the crosswalk line, about 2 feet from the curb; APS is installed on that pole. ](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0024.gif)
+![Photo from sidewalk looking across street with street parallel to photographer on left. Pole and fire hydrant are on right in photo. Additional small pole, about 4 feet high, is located near the crosswalk line, about 2 feet from the curb; APS is installed on that pole. ]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0024.gif)
 
  |
 |
@@ -273,7 +273,7 @@ Requirements for wiring and for mounting poles vary in different areas of the co
 
 Some examples of stub pole installations across the US:
 
-| ![Four photos of poles that are about 4 to 6 inches in diameter and short (less than 4 foot high) with APS installed. First photo shows pole that looks like a pipe installed in sidewalk with a flat base and four bolts into the concrete. Second photo shows a similar pole with a 12 inch square base and a rounded cap on the pole. Third photo show a capped pole just mounted into the concrete. Fourth photo shows a green pole with a flared 12 inch base and a decorative pointed metal cap on the short pole. ](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image001_0004.jpg) |
+| ![Four photos of poles that are about 4 to 6 inches in diameter and short (less than 4 foot high) with APS installed. First photo shows pole that looks like a pipe installed in sidewalk with a flat base and four bolts into the concrete. Second photo shows a similar pole with a 12 inch square base and a rounded cap on the pole. Third photo show a capped pole just mounted into the concrete. Fourth photo shows a green pole with a flared 12 inch base and a decorative pointed metal cap on the short pole. ]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image001_0004.jpg) |
 |
 
 **Figure 17: Examples of stub poles -- different materials and installation.**
@@ -284,7 +284,7 @@ Some examples of stub pole installations across the US:
 
 |   |
 
-![View of corner from the middle of the crosswalk, looking West, with parallel street to photographer's right. APS are visible on pole on left side of crosswalk behind the sidewalk, and on another pole to the right of the crosswalk, also behind the sidewalk. Arrow on APS on right aims northwest. Sidewalk slopes down to a perpendicular ramp with a good deal of cross slope.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0037.jpg)
+![View of corner from the middle of the crosswalk, looking West, with parallel street to photographer's right. APS are visible on pole on left side of crosswalk behind the sidewalk, and on another pole to the right of the crosswalk, also behind the sidewalk. Arrow on APS on right aims northwest. Sidewalk slopes down to a perpendicular ramp with a good deal of cross slope.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0037.jpg)
 
  |
 |   |
@@ -294,7 +294,7 @@ Some examples of stub pole installations across the US:
  |
 |   |
 
-![View of corner from the middle of the crosswalk, approaching the corner. Curb ramp is directly in the middle of the crosswalk with a steep cross slope from the right; both pedestrian signal poles and pushbuttons are to the left of the crosswalk behind raised curbing at the back of the sidewalk. An APS for the crosswalk is visible with arrow pointing toward the right of the photo (should be aligned toward the photographer).](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0028.gif)
+![View of corner from the middle of the crosswalk, approaching the corner. Curb ramp is directly in the middle of the crosswalk with a steep cross slope from the right; both pedestrian signal poles and pushbuttons are to the left of the crosswalk behind raised curbing at the back of the sidewalk. An APS for the crosswalk is visible with arrow pointing toward the right of the photo (should be aligned toward the photographer).]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0028.gif)
 
  |
 |   |
@@ -304,7 +304,7 @@ Some examples of stub pole installations across the US:
  |
 |   |
 
-![A man stands on a corner beside a pole, with a white cane in his left hand and his right hand on top of an APS on the pole.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image001_0001.jpg)
+![A man stands on a corner beside a pole, with a white cane in his left hand and his right hand on top of an APS on the pole.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image001_0001.jpg)
 
  |
 |   |
@@ -314,7 +314,7 @@ Some examples of stub pole installations across the US:
  |
 |   |
 
-![Two men stand beside a pole on a street corner. One has his arm on top of an APS pushbutton and his other hand under the hand of the second man. A woman is to their right gesturing. APS are visible on two sides of the pole.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image001_0005.jpg)
+![Two men stand beside a pole on a street corner. One has his arm on top of an APS pushbutton and his other hand under the hand of the second man. A woman is to their right gesturing. APS are visible on two sides of the pole.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image001_0005.jpg)
 
  |
 |   |
@@ -324,7 +324,7 @@ Some examples of stub pole installations across the US:
  |
 |   |
 
-![Graphic of sidewalks and crosswalks at one corner of an intersection, (representing northwest corner), overhead view, streets are across bottom and right of drawing. One pole near the left side of the graphic is shown, with two APS mounted on it. The pole is near the ramp and crosswalk for a crosswalk labeled B(to cross street across bottom of graphic). Pedestrian is shown facing toward the right of the drawing, waiting on the curb ramp to cross the street that is also on the right side of the drawing, labeled crosswalk A. APS for that street is back by the curb ramp for the other street.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image001_0006.jpg)
+![Graphic of sidewalks and crosswalks at one corner of an intersection, (representing northwest corner), overhead view, streets are across bottom and right of drawing. One pole near the left side of the graphic is shown, with two APS mounted on it. The pole is near the ramp and crosswalk for a crosswalk labeled B(to cross street across bottom of graphic). Pedestrian is shown facing toward the right of the drawing, waiting on the curb ramp to cross the street that is also on the right side of the drawing, labeled crosswalk A. APS for that street is back by the curb ramp for the other street.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image001_0006.jpg)
 
  |
 |   |

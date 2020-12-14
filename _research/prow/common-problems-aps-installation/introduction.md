@@ -8,7 +8,7 @@ year-completed: 2009
 topic: Public Rights-of-Way
 ---
 
-|   | ![Photo of black rectangular unit with a sign with a print arrow and pedestrian signal. On the bottom part of the unit is a large pushbutton with an arrow.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0005.gif) |
+|   | ![Photo of black rectangular unit with a sign with a print arrow and pedestrian signal. On the bottom part of the unit is a large pushbutton with an arrow.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0005.gif) |
 |   |
 
 **Figure 1: Pushbutton-integrated APS (Polara)**
@@ -30,8 +30,8 @@ But first, a brief description of APS features and installation criteria: 
 **Pushbutton-integrated APS **\
 Figures 1 and 2 show several of the pushbutton-integrated APS devices that are available in the US. All include a pushbutton that is at least 50 mm (2 inches) in diameter, audible and vibrotactile WALK indications, a pushbutton locator tone, a tactile arrow, and automatic volume adjustment. Configuration, functioning, and adjustment methods vary somewhat by manufacturer. (See [Interfacing Accessible Pedestrian Signals with Traffic Signal Control Equipment](http://www.access-board.gov/research/APS/report.htm).) 
 
-| ![Campbell pushboutton unit on pole: Flat rectangular black box with black arrow on the pushbutton.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image001_0009.jpg) |   | ![Prisma pushboutton unit on pole: Blue rectangular box with tactile arrow on top of unit, graphic on face of unit.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image001_0010.jpg) |
-| ![Novax pushboutton unit on pole: rectangular box with black tactile arrow on yellow background, above pushbutton.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image001_0011.jpg) |   | ![Pole-mounted oval unit with large silver arrow above large pushbutton. ](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image001_0012.jpg) |
+| ![Campbell pushboutton unit on pole: Flat rectangular black box with black arrow on the pushbutton.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image001_0009.jpg) |   | ![Prisma pushboutton unit on pole: Blue rectangular box with tactile arrow on top of unit, graphic on face of unit.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image001_0010.jpg) |
+| ![Novax pushboutton unit on pole: rectangular box with black tactile arrow on yellow background, above pushbutton.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image001_0011.jpg) |   | ![Pole-mounted oval unit with large silver arrow above large pushbutton. ]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image001_0012.jpg) |
 |
 
 **Figure 2: Examples of pushbutton-integrated APS from various manufacturers (left to right, Campbell, Prisma, Novax, Panich).**
@@ -44,7 +44,7 @@ Pushbutton-integrated APS rely on relative proximity to the crossing location, n
 
 |
 
-![Graphic of sidewalks and crosswalks at one corner of an intersection (representing southeast corner), streets are across top and on left of drawing. Symbol Key on right side of drawing - Lines radiating -- sound from pushbutton speaker; Box with arrow -- pushbutton-integrated APS; Dark circle -- pole. There are two poles and two pushbutton integrated APS shown. Each is located at the top corner of the curb ramp for the crossing, on the side farther from the intersection center. Arrow points toward the street and is in line with the crosswalk direction. Pedestrian is shown facing toward the left of the drawing, waiting on the curb ramp to cross the street that is also on the left side of the drawing. Pole and APS are on his left side and parallel street is on his right side.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0011.gif)
+![Graphic of sidewalks and crosswalks at one corner of an intersection (representing southeast corner), streets are across top and on left of drawing. Symbol Key on right side of drawing - Lines radiating -- sound from pushbutton speaker; Box with arrow -- pushbutton-integrated APS; Dark circle -- pole. There are two poles and two pushbutton integrated APS shown. Each is located at the top corner of the curb ramp for the crossing, on the side farther from the intersection center. Arrow points toward the street and is in line with the crosswalk direction. Pedestrian is shown facing toward the left of the drawing, waiting on the curb ramp to cross the street that is also on the left side of the drawing. Pole and APS are on his left side and parallel street is on his right side.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0011.gif)
 
  |
 |
@@ -54,7 +54,7 @@ Source: NCHRP Web Only Document 117-A, Accessible Pedestrian Signals: A Guide to
 
  |
 |   |
-| ![Photo of corner, looking across a street, with parallel street on photographer's right. APS for crosswalk straight ahead is on a pole to the left of the curb ramp, in line with the crosswalk line. APS for crosswalk to right is on pole on right side of photo, next to the landing for the curb ramp for that crossing.](https://www.access-board.gov/images/research/APS-Installation-Common_Problems/clip_image002_0043.jpg) |
+| ![Photo of corner, looking across a street, with parallel street on photographer's right. APS for crosswalk straight ahead is on a pole to the left of the curb ramp, in line with the crosswalk line. APS for crosswalk to right is on pole on right side of photo, next to the landing for the curb ramp for that crossing.]({{ site.baseurl }}/images/research/common-problems-aps-installation/clip_image002_0043.jpg) |
 |
 
 **Figure 4: Installation of APS on two separated poles, aligned with crosswalk lines\
