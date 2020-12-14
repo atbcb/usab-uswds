@@ -86,6 +86,7 @@
 
 .swiper-pagination-bullet-active {
     background: #73b3e7;
+    border-radius: 0;
     opacity: 1;
 }
 
