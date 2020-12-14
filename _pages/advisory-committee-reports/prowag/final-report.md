@@ -585,310 +585,234 @@ The provisions of proposed ADAAG Section 106.1, Section 106.2, Section 106.3, Se
 ##### X01.2.2 Defined terms
 
 Acceptance Angle
-: The maximum range of transmission, measured with respect to 90 degrees in all directions, within which *remote infrared audible sign *systems remain operational, as measured at the transmitter.
+: the maximum range of transmission, measured with respect to 90 degrees in all directions, within which *remote infrared audible sign *systems remain operational, as measured at the transmitter.
 
 Accessible Pedestrian Signal (APS)
-: A device that communicates information about *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* signal timing in non-visual format, through the use of audible tones (or verbal messages) and vibrating surfaces.
+: a device that communicates information about *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* signal timing in non-visual format, through the use of audible tones (or verbal messages) and vibrating surfaces.
 
-Actuated Control:
+Actuated Control
+: operation of a traffic signal controller unit in which some or all signal phases are operated on the basis of actuation. *[Pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* actuation is typically by *[push button](http://www.access-board.gov/prowac/commrept/part3-01.htm#pb)* operation.
 
-operation of a traffic signal controller unit in which some or all signal phases are operated on the basis of actuation. *[Pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* actuation is typically by *[push button](http://www.access-board.gov/prowac/commrept/part3-01.htm#pb)* operation.
+Actuation
+: initiation of a change in traffic signal phase through the operation of any type of *detector*.
 
-Actuation:
+Alternate Circulation Path
+: a detour or temporary route provided as a substitute for the *[pedestrian access route](http://www.access-board.gov/prowac/commrept/part3-01.htm#par)*.
 
-initiation of a change in traffic signal phase through the operation of any type of *detector*.
+Assistive Listening Device
+: a device to help persons with hearing disabilities listen to audible information.
 
-Alternate Circulation Path:
+Audible Beacon
+: a permanently fixed source emitting sound for directional orientation.
 
-a detour or temporary route provided as a substitute for the *[pedestrian access route](http://www.access-board.gov/prowac/commrept/part3-01.htm#par)*.
+Barricade
+: an obstruction to deter the passage of persons or vehicles.
 
-Assistive Listening Device:
+Central Island
+: raised area around which traffic circulates at a *roundabout*.
 
-a device to help persons with hearing disabilities listen to audible information.
+Changeable Message Sign or Variable Message Sign (CMS, VMS)
+: an electronic sign with the flexibility to display various messages to provide information to *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*.
 
-Audible Beacon:
+Channelizing Island
+: curbed or painted area outside the vehicular path provided to control and direct traffic movement into the proper lane for its direction. May also serve as a refuge island for *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*.
 
-a permanently fixed source emitting sound for directional orientation.
+Cluster
+:two or more similar *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*-related elements located in close proximity in the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)*.
 
-Barricade:
+Contrast
+: (See [*Visual Contrast*](http://www.access-board.gov/prowac/commrept/part3-01.htm#vc).)
 
-an obstruction to deter the passage of persons or vehicles.
+Counter Slope
+: any slope opposing the *[running grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#rg)* of a portion of the [*pedestrian access route*](http://www.access-board.gov/prowac/commrept/part3-01.htm#par); in particular, the *[cross slope](http://www.access-board.gov/prowac/commrept/part3-01.htm#CS)* of the road or gutter pan at the base of a *[curb ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr) *or* [flush landing](http://www.access-board.gov/prowac/commrept/part3-01.htm#fl)*.
 
-Central Island:
+Cross Slope
+: the slope or *[grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#G)* of a surface perpendicular to the *[running grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#rg)*.
 
-raised area around which traffic circulates at a *roundabout*.
+Crosswalk
+: that part of a roadway where motorists are required to yield to *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* crossing, as defined by state and local regulations, whether marked or unmarked.
 
-Changeable Message Sign or Variable Message Sign (CMS, VMS):
+Curb Line
+: a line that represents the extension of the face of the curb and marks the transition between the *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* and the gutter or roadway at a *[curb ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr)* or *[flush landing](http://www.access-board.gov/prowac/commrept/part3-01.htm#fl)*.
 
-an electronic sign with the flexibility to display various messages to provide information to *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*.
+Curb Ramp
+: a short section of the *[pedestrian access route](http://www.access-board.gov/prowac/commrept/part3-01.htm#par)*, with a *[running grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#rg)* greater than 1:20, that joins the street elevation to the *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* elevation, through a cut in the curb face. (Formerly called "perpendicular curb ramp," related subject found at *[Transition Ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#T)*.)
 
-Channelizing Island:
+Detectable Warning
+: a standardized surface feature built in or applied to walking surfaces or other elements to warn people who are blind or visually impaired of specified hazards.
 
-curbed or painted area outside the vehicular path provided to control and direct traffic movement into the proper lane for its direction. May also serve as a refuge island for *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*.
+Detector
+: a device used for determining the presence or passage of vehicles or *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*. May be an active system that requires a pedestrian to push a button, or a passive system that automatically detects vehicles or pedestrians by such means as video, microwave, infrared, or embedded loops.
 
-Cluster:
+Driveway
+: a private vehicular way giving access from a *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* to adjacent property.
 
-two or more similar *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*-related elements located in close proximity in the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)*.
+Eggshell Finish
+: extent of gloss within a range of from 11 to 19 degree gloss on a 60 degree gloss meter. Eggshell is a function of reflectivity, not of color or contrast.
 
-Contrast:
+Field of View
+: the maximum angle of transmission, measured from 90 degrees in all directions, within which remote infrared audible sign systems remain operational, as measured at the receiver.
 
-(See [*Visual Contrast*](http://www.access-board.gov/prowac/commrept/part3-01.htm#vc).)
+Fixture
+: a fixed element in the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* that is not intended for public use and does not require clear ground space for approach or use, such as a street light pole, fire hydrant or signal controller cabinet. (Related subject at *[Street Furniture](http://www.access-board.gov/prowac/commrept/part3-01.htm#sf)*.)
 
-Counter Slope:
+Flare
+: the sloping part of a *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* adjacent to a [*curb ramp*](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr) that provides a transition between the *[running grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#rg)* of the curb ramp and the public sidewalk level.
 
-any slope opposing the *[running grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#rg)* of a portion of the [*pedestrian access route*](http://www.access-board.gov/prowac/commrept/part3-01.htm#par); in particular, the *[cross slope](http://www.access-board.gov/prowac/commrept/part3-01.htm#CS)* of the road or gutter pan at the base of a *[curb ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr) *or* [flush landing](http://www.access-board.gov/prowac/commrept/part3-01.htm#fl)*.
+Flush
+: when two portions of *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* and/or roadway join, without vertical separation or lip.
 
-Cross Slope:
+Flush Landing
+: a landing on the *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* side of a *[sidewalk/street transition](http://www.access-board.gov/prowac/commrept/part3-01.htm#sst)*, or where a median or *[island](http://www.access-board.gov/prowac/commrept/part3-01.htm#island)* is cut through, that is flush with and at the same level as the roadway; often also the lower landing of a *[transition ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#T)*.
 
-the slope or *[grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#G)* of a surface perpendicular to the *[running grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#rg)*.
+Grade
+: the rate of ascent or descent of a surface with respect to a level plane, expressed as a percent; the change in elevation per unit of horizontal length.
 
-Crosswalk:
+Grade Break
+: an abrupt difference between the *[grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#G)* of two adjacent surfaces.
 
-that part of a roadway where motorists are required to yield to *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* crossing, as defined by state and local regulations, whether marked or unmarked.
+Guardrail
+: traffic barrier used to shield errant vehicles from potentially hazardous areas.
 
-Curb Line:
+Handrail
+: a fixed continuous element at a specified height provided for *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* use where there is a change of elevation, such as ramps, stairs and landings
 
-a line that represents the extension of the face of the curb and marks the transition between the *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* and the gutter or roadway at a *[curb ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr)* or *[flush landing](http://www.access-board.gov/prowac/commrept/part3-01.htm#fl)*.
+Hearing Carry Over (HCO)
+: a telecommunication relay service that enables a person with a speech disability to relay a typed telephone message through a text telephone (TTY), and to hear responses directly from the other party.
 
-Curb Ramp:
+Improved Surface
+: an area that, by the addition of materials or its treatment, provides a firm, stable and immovable base for *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* movement. Examples of such materials include asphaltic concrete paving, portland cement concrete, stone, ceramics, wood, metal, fiberglass, or other generally firm, stable material. Surfaces that have only firmly packed earth, gravel base, gravel, vegetation, wood chips, shells, or other malleable material are not considered, for the purpose of this definition, to be improved surfaces.
 
-a short section of the *[pedestrian access route](http://www.access-board.gov/prowac/commrept/part3-01.htm#par)*, with a *[running grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#rg)* greater than 1:20, that joins the street elevation to the *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* elevation, through a cut in the curb face. (Formerly called "perpendicular curb ramp," related subject found at *[Transition Ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#T)*.)
+Island
+: a defined area between traffic lanes for control of vehicular movements or for *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* refuge. Within an intersection area, a *median* is considered to be an *island*.
 
-Detectable Warning:
+Landing
+: a level area with a *[cross slope](http://www.access-board.gov/prowac/commrept/part3-01.htm#CS)* of less than 1:48 in any direction in a *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)*, adjoining a *[transition ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#T)*, [*curb ramp*](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr), ramp or *[sidewalk/street transition](http://www.access-board.gov/prowac/commrept/part3-01.htm#sst)*, used for maneuvering and waiting.
 
-a standardized surface feature built in or applied to walking surfaces or other elements to warn people who are blind or visually impaired of specified hazards.
+Leading Pedestrian Interval (LPI)
+: a pedestrian WALK phase that begins before the green interval serving parallel traffic, rather than at the same time.
 
-Detector:
+Lip
+: a change of level occurring at the meeting point of two elements in the [*public right-of-way*](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw), such as at the boundary between a *[driveway](http://www.access-board.gov/prowac/commrept/part3-01.htm#drive)* apron and the roadway.
 
-a device used for determining the presence or passage of vehicles or *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*. May be an active system that requires a pedestrian to push a button, or a passive system that automatically detects vehicles or pedestrians by such means as video, microwave, infrared, or embedded loops.
+Locator Tone
+: a repeating sound that informs approaching *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* that they are required to push a button to actuate pedestrian timing and that enables pedestrians who are visually impaired to locate the *[push button](http://www.access-board.gov/prowac/commrept/part3-01.htm#pb)*.
 
-Driveway:
+Maneuvering Space
+: an area within the *[crosswalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#cw)* at the foot of a *[curb ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr)* that is provided for users of mobility devices to align properly with the curb ramp.
 
-a private vehicular way giving access from a *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* to adjacent property.
+Median Refuge
+: an area within an *[island](http://www.access-board.gov/prowac/commrept/part3-01.htm#island)* or median that is intended for *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* to wait safely for an opportunity to continue crossing.
 
-Eggshell Finish:
+Mid-block Crosswalk
+: a *[crosswalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#cw)* that is not at an intersection.
 
-extent of gloss within a range of from 11 to 19 degree gloss on a 60 degree gloss meter. Eggshell is a function of reflectivity, not of color or contrast.
+Neighborhood Traffic Circle
+: an intersection treatment in which a small, usually circular, raised *[island](http://www.access-board.gov/prowac/commrept/part3-01.htm#island)* is placed in an intersection, about which traffic circulates. The intersection is typically controlled by a YIELD sign on all approaches. Typically the *[crosswalks](http://www.access-board.gov/prowac/commrept/part3-01.htm#cw)* at the intersection remain unchanged. Sometimes called an intersection island.
 
-Field of View:
+Paging Message
+: a message on a CMS that "pages up" from the bottom rather than moving from side to side.
 
-the maximum angle of transmission, measured from 90 degrees in all directions, within which remote infrared audible sign systems remain operational, as measured at the receiver.
+Passenger Loading Zone
+: an area immediately adjacent to, but offset from the vehicular way, whether marked or unmarked, that is used for the unloading and loading of passengers from a vehicle.
 
-Fixture:
+Pedestrian
+: a person traveling the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* by means of a wheelchair, electric scooter, legs, crutches or other walking devices or mobility aids.
 
-a fixed element in the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* that is not intended for public use and does not require clear ground space for approach or use, such as a street light pole, fire hydrant or signal controller cabinet. (Related subject at *[Street Furniture](http://www.access-board.gov/prowac/commrept/part3-01.htm#sf)*.)
+Pedestrian Access Route (PAR)
+: a corridor of accessible travel through the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* that has, among other properties, a specified minimum width and *[cross slope](http://www.access-board.gov/prowac/commrept/part3-01.htm#CS)*.
 
-Flare:
+Pedestrian Clearance Interval
+: that phase of a traffic signal cycle in which [*pedestrians*](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped) in the *[crosswalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#cw)* may continue to cross but pedestrians on the curb should wait for the next cycle, typically indicated by a flashing illumination of a red hand symbol or the words DON'T WALK.
 
-the sloping part of a *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* adjacent to a [*curb ramp*](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr) that provides a transition between the *[running grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#rg)* of the curb ramp and the public sidewalk level.
+Pedestrian Crossing Interval
+: the combined phases of a traffic signal cycle provided for a *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* crossing in a *[crosswalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#cw)*, after leaving the top of a [*curb ramp*](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr) or *[flush landing](http://www.access-board.gov/prowac/commrept/part3-01.htm#fl)*, to travel to the far side of the vehicular way or to a median, usually consisting of the walk interval plus the *[pedestrian clearance interval](http://www.access-board.gov/prowac/commrept/part3-01.htm#pclear)*.
 
-Flush:
+Pedestrian Overpass
+: a *[grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#G)*-separated structure that carries [pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped) traffic over a road, railroad, waterway or other feature
 
-when two portions of *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* and/or roadway join, without vertical separation or lip.
+Pedestrian Signal Indication
+: the illuminated WALK/DON'T WALK message (or walking person/hand symbols) that communicate the *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* phase of a traffic signal, and their audible equivalents.
 
-Flush Landing:
+Pedestrian Underpass
+: a *[grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#G)*-separated structure that carries *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* traffic under a road or railroad or other feature.
 
-a landing on the *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* side of a *[sidewalk/street transition](http://www.access-board.gov/prowac/commrept/part3-01.htm#sst)*, or where a median or *[island](http://www.access-board.gov/prowac/commrept/part3-01.htm#island)* is cut through, that is flush with and at the same level as the roadway; often also the lower landing of a *[transition ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#T)*.
+Pretimed Control
+: a condition at a traffic signal where the lengths of the red, yellow and green intervals are predetermined.
 
-Grade:
+Project Area
+: the entire width of the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* throughout the length upon which work is proposed or undertaken. Project area may consist of a single route or multiple routes.
 
-the rate of ascent or descent of a surface with respect to a level plane, expressed as a percent; the change in elevation per unit of horizontal length.
+Public Right-of-way
+: land, property, or interest therein, usually in a corridor, acquired for or devoted to transportation purposes and subject to the control of a public agency.
 
-Grade Break:
+Public Sidewalk
+: that portion of a *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* between the curb line or lateral line of a roadway and the adjacent property line that has an improved surface and is intended primarily for use by *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*.
 
-an abrupt difference between the *[grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#G)* of two adjacent surfaces.
+Push button: *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* detector, switching input device provided for pedestrians to actuate operation of a traffic signal.
 
-Guardrail:
+Railing
+: a barrier located near the open sides of elevated walking surfaces to minimize the possibility of an accidental fall from the walking surface to the lower level.
 
-traffic barrier used to shield errant vehicles from potentially hazardous areas.
+Ramp
+: a walking surface, other than a *[curb ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr)* or a *[transition ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#T)*, which has a *[running grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#rg)* greater than 1:20, built in compliance with proposed ADAAG Section 405 to provide *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* access to a building or portion of *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* that is on a different level than the rest of the public sidewalk. Does not include public sidewalks that follow the running grade of the adjacent roadway, even if the running grade exceeds 1:20.
 
-Handrail:
+Reduced Vibration Zone
+: a part of the *[pedestrian access route](http://www.access-board.gov/prowac/commrept/part3-01.htm#par)* that is as free as possible of surface impediments.
 
-a fixed continuous element at a specified height provided for *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* use where there is a change of elevation, such as ramps, stairs and landings
+Remote Infrared Audible Signs (RIAS)
+: technology that allows a blind traveler to hear voice messages relayed by infrared signal from a transmitter, such as at a pedestrian signal, a public building or a private commercial enterprise, to a personal receiver.
 
-Hearing Carry Over (HCO):
+Right/Left Turn Slip Lane
+: a dedicated lane without stop or yield control provided at an intersection for the free flow of vehicles turning right or left.
 
-a telecommunication relay service that enables a person with a speech disability to relay a typed telephone message through a text telephone (TTY), and to hear responses directly from the other party.
+Roundabout
+: a distinctive circular roadway with the following three critical characteristics: 1) a requirement to yield at entry which gives a vehicle on the circular roadway the right-of-way; 2) a deflection of the approaching vehicle around the central *[island](http://www.access-board.gov/prowac/commrept/part3-01.htm#island)*; and 3) a widening of the approach to match the width of the circular roadway. Typically has raised splitter islands at the approaches. Usually used at arterial or collector intersections rather than local streets.
 
-Improved Surface:
+Running Grade
+: the *[grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#G)* that is parallel to the direction of travel.
 
-an area that, by the addition of materials or its treatment, provides a firm, stable and immovable base for *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* movement. Examples of such materials include asphaltic concrete paving, portland cement concrete, stone, ceramics, wood, metal, fiberglass, or other generally firm, stable material. Surfaces that have only firmly packed earth, gravel base, gravel, vegetation, wood chips, shells, or other malleable material are not considered, for the purpose of this definition, to be improved surfaces.
+Scrolling Message
+: a message on a CMS that scrolls evenly from the right to left rather than moving vertically.
 
-Island:
+Shoulder texturing
+: any of a number of warning devices used on the shoulder pavement to alert inattentive drivers that their vehicle is leaving the travel lane.
 
-a defined area between traffic lanes for control of vehicular movements or for *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* refuge. Within an intersection area, a *median* is considered to be an *island*.
+Sidewalk
+: (See *[Public Sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)*.)
 
-Landing:
+Sidewalk/Street Transition
+: the transition between the *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* and the *[crosswalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#cw)*, accessible parking aisle, accessible loading zone, median refuge, *[island](http://www.access-board.gov/prowac/commrept/part3-01.htm#island)*, or other location where a *[pedestrian access route](http://www.access-board.gov/prowac/commrept/part3-01.htm#par)* crosses or enters the roadway or a [*driveway*](http://www.access-board.gov/prowac/commrept/part3-01.htm#drive).
 
-a level area with a *[cross slope](http://www.access-board.gov/prowac/commrept/part3-01.htm#CS)* of less than 1:48 in any direction in a *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)*, adjoining a *[transition ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#T)*, [*curb ramp*](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr), ramp or *[sidewalk/street transition](http://www.access-board.gov/prowac/commrept/part3-01.htm#sst)*, used for maneuvering and waiting.
+Signalized Driveway
+: a *[driveway](http://www.access-board.gov/prowac/commrept/part3-01.htm#drive)* that connects to the public way with a signalized intersection.
 
-Leading Pedestrian Interval (LPI):
+Skew
+: having an axis at any angle other than a right angle.
 
-a pedestrian WALK phase that begins before the green interval serving parallel traffic, rather than at the same time.
+Splitter Island
+: a raised island placed within a leg of a roundabout separating entering and exiting traffic.
 
-Lip:
+Street Furniture
+: fixed elements in the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* that are intended for use by the public and that require clear ground space for approach or use, such as benches, bike racks, public telephones and parking meters. (Related subject at *[Fixture](http://www.access-board.gov/prowac/commrept/part3-01.htm#fix)*.)
 
-a change of level occurring at the meeting point of two elements in the [*public right-of-way*](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw), such as at the boundary between a *[driveway](http://www.access-board.gov/prowac/commrept/part3-01.htm#drive)* apron and the roadway.
+Transition Ramp
+: a short section of the *[pedestrian access route](http://www.access-board.gov/prowac/commrept/part3-01.htm#par)*, with a *[running grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#rg)* greater than 1:20, that connects the vertical separation of the *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* in relationship to a roadway or *[driveway](http://www.access-board.gov/prowac/commrept/part3-01.htm#drive)*. Transition ramps are built with the intention of bringing the entire public sidewalk from the top of curb level down closer to roadway level. (Formerly called "parallel *[curb ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr)*," related subject found at Curb Ramp.)
 
-Locator Tone:
+Variable Message Signs (VMS)
+: (See *[Changeable Message Signs](http://www.access-board.gov/prowac/commrept/part3-01.htm#cms)*.)
 
-a repeating sound that informs approaching *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* that they are required to push a button to actuate pedestrian timing and that enables pedestrians who are visually impaired to locate the *[push button](http://www.access-board.gov/prowac/commrept/part3-01.htm#pb)*.
+Visual Contrast
+: light-versus-dark comparison between two surfaces, an object and its immediate surroundings, or, an object and its perceived background. It is neither an expression of, nor achieved by, color differences. Visual contrast can be quantified with a luminance meter that measures the amount of light reflected by each subject (where zero is total darkness and 100 is theoretical complete light reflection). It is commonly expressed in percentage as Weber Contrast by the formula C = (RH - RL) Ö RH X 100, where C represents Weber Contrast, RH represents the reflectance level of the brighter surface, and RL the reflectance level of the darker.
 
-Maneuvering Space:
+Voice Carry Over (VCO)
+: a telecommunication relay service that enables a person who is hard of hearing, but who wants to use her or his own voice, to speak directly to the receiving party and to receive responses in text form through the text telephone (TTY).
 
-an area within the *[crosswalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#cw)* at the foot of a *[curb ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr)* that is provided for users of mobility devices to align properly with the curb ramp.
+Walk Interval
+: that part of the traffic signal phase in which the *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* is to begin crossing, typically indicated by WALK message or the walking person symbol and its audible equivalent.
 
-Median Refuge:
-
-an area within an *[island](http://www.access-board.gov/prowac/commrept/part3-01.htm#island)* or median that is intended for *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* to wait safely for an opportunity to continue crossing.
-
-Mid-block Crosswalk:
-
-A *[crosswalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#cw)* that is not at an intersection.
-
-Neighborhood Traffic Circle:
-
-an intersection treatment in which a small, usually circular, raised *[island](http://www.access-board.gov/prowac/commrept/part3-01.htm#island)* is placed in an intersection, about which traffic circulates. The intersection is typically controlled by a YIELD sign on all approaches. Typically the *[crosswalks](http://www.access-board.gov/prowac/commrept/part3-01.htm#cw)* at the intersection remain unchanged. Sometimes called an intersection island.
-
-Paging Message:
-
-a message on a CMS that "pages up" from the bottom rather than moving from side to side.
-
-Passenger Loading Zone:
-
-an area immediately adjacent to, but offset from the vehicular way, whether marked or unmarked, that is used for the unloading and loading of passengers from a vehicle.
-
-Pedestrian:
-
-a person traveling the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* by means of a wheelchair, electric scooter, legs, crutches or other walking devices or mobility aids.
-
-Pedestrian Access Route (PAR):
-
-a corridor of accessible travel through the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* that has, among other properties, a specified minimum width and *[cross slope](http://www.access-board.gov/prowac/commrept/part3-01.htm#CS)*.
-
-Pedestrian Clearance Interval:
-
-that phase of a traffic signal cycle in which [*pedestrians*](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped) in the *[crosswalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#cw)* may continue to cross but pedestrians on the curb should wait for the next cycle, typically indicated by a flashing illumination of a red hand symbol or the words DON'T WALK.
-
-Pedestrian Crossing Interval:
-
-the combined phases of a traffic signal cycle provided for a *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* crossing in a *[crosswalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#cw)*, after leaving the top of a [*curb ramp*](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr) or *[flush landing](http://www.access-board.gov/prowac/commrept/part3-01.htm#fl)*, to travel to the far side of the vehicular way or to a median, usually consisting of the walk interval plus the *[pedestrian clearance interval](http://www.access-board.gov/prowac/commrept/part3-01.htm#pclear)*.
-
-Pedestrian Overpass:
-
-a *[grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#G)*-separated structure that carries [pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped) traffic over a road, railroad, waterway or other feature
-
-Pedestrian Signal Indication:
-
-the illuminated WALK/DON'T WALK message (or walking person/hand symbols) that communicate the *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* phase of a traffic signal, and their audible equivalents.
-
-Pedestrian Underpass:
-
-a *[grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#G)*-separated structure that carries *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* traffic under a road or railroad or other feature.
-
-Pretimed Control:
-
-a condition at a traffic signal where the lengths of the red, yellow and green intervals are predetermined.
-
-Project Area:
-
-the entire width of the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* throughout the length upon which work is proposed or undertaken. Project area may consist of a single route or multiple routes.
-
-Public Right-of-way:
-
-land, property, or interest therein, usually in a corridor, acquired for or devoted to transportation purposes and subject to the control of a public agency.
-
-Public Sidewalk:
-
-that portion of a *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* between the curb line or lateral line of a roadway and the adjacent property line that has an improved surface and is intended primarily for use by *[pedestrians](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)*.
-
-Push button:
-
-*[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* detector, switching input device provided for pedestrians to actuate operation of a traffic signal.
-
-Railing:
-
-a barrier located near the open sides of elevated walking surfaces to minimize the possibility of an accidental fall from the walking surface to the lower level.
-
-Ramp:
-
-a walking surface, other than a *[curb ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr)* or a *[transition ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#T)*, which has a *[running grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#rg)* greater than 1:20, built in compliance with proposed ADAAG Section 405 to provide *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* access to a building or portion of *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* that is on a different level than the rest of the public sidewalk. Does not include public sidewalks that follow the running grade of the adjacent roadway, even if the running grade exceeds 1:20.
-
-Reduced Vibration Zone:
-
-a part of the *[pedestrian access route](http://www.access-board.gov/prowac/commrept/part3-01.htm#par)* that is as free as possible of surface impediments.
-
-Remote Infrared Audible Signs (RIAS):
-
-technology that allows a blind traveler to hear voice messages relayed by infrared signal from a transmitter, such as at a pedestrian signal, a public building or a private commercial enterprise, to a personal receiver.
-
-Right/Left Turn Slip Lane:
-
-a dedicated lane without stop or yield control provided at an intersection for the free flow of vehicles turning right or left.
-
-Roundabout:
-
-a distinctive circular roadway with the following three critical characteristics: 1) a requirement to yield at entry which gives a vehicle on the circular roadway the right-of-way; 2) a deflection of the approaching vehicle around the central *[island](http://www.access-board.gov/prowac/commrept/part3-01.htm#island)*; and 3) a widening of the approach to match the width of the circular roadway. Typically has raised splitter islands at the approaches. Usually used at arterial or collector intersections rather than local streets.
-
-Running Grade:
-
-the *[grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#G)* that is parallel to the direction of travel.
-
-Scrolling Message:
-
-a message on a CMS that scrolls evenly from the right to left rather than moving vertically.
-
-Shoulder texturing:
-
-any of a number of warning devices used on the shoulder pavement to alert inattentive drivers that their vehicle is leaving the travel lane.
-
-Sidewalk:
-
-(See *[Public Sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)*.)
-
-Sidewalk/Street Transition:
-
-the transition between the *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* and the *[crosswalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#cw)*, accessible parking aisle, accessible loading zone, median refuge, *[island](http://www.access-board.gov/prowac/commrept/part3-01.htm#island)*, or other location where a *[pedestrian access route](http://www.access-board.gov/prowac/commrept/part3-01.htm#par)* crosses or enters the roadway or a [*driveway*](http://www.access-board.gov/prowac/commrept/part3-01.htm#drive).
-
-Signalized Driveway:
-
-a *[driveway](http://www.access-board.gov/prowac/commrept/part3-01.htm#drive)* that connects to the public way with a signalized intersection.
-
-Skew:
-
-having an axis at any angle other than a right angle.
-
-Splitter Island:
-
-a raised island placed within a leg of a roundabout separating entering and exiting traffic.
-
-Street Furniture:
-
-fixed elements in the *[public right-of-way](http://www.access-board.gov/prowac/commrept/part3-01.htm#prw)* that are intended for use by the public and that require clear ground space for approach or use, such as benches, bike racks, public telephones and parking meters. (Related subject at *[Fixture](http://www.access-board.gov/prowac/commrept/part3-01.htm#fix)*.)
-
-Transition Ramp:
-
-a short section of the *[pedestrian access route](http://www.access-board.gov/prowac/commrept/part3-01.htm#par)*, with a *[running grade](http://www.access-board.gov/prowac/commrept/part3-01.htm#rg)* greater than 1:20, that connects the vertical separation of the *[public sidewalk](http://www.access-board.gov/prowac/commrept/part3-01.htm#pside)* in relationship to a roadway or *[driveway](http://www.access-board.gov/prowac/commrept/part3-01.htm#drive)*. Transition ramps are built with the intention of bringing the entire public sidewalk from the top of curb level down closer to roadway level. (Formerly called "parallel *[curb ramp](http://www.access-board.gov/prowac/commrept/part3-01.htm#cr)*," related subject found at Curb Ramp.)
-
-Variable Message Signs (VMS):
-
-(See *[Changeable Message Signs](http://www.access-board.gov/prowac/commrept/part3-01.htm#cms)*.)
-
-Visual Contrast:
-
-light-versus-dark comparison between two surfaces, an object and its immediate surroundings, or, an object and its perceived background. It is neither an expression of, nor achieved by, color differences. Visual contrast can be quantified with a luminance meter that measures the amount of light reflected by each subject (where zero is total darkness and 100 is theoretical complete light reflection). It is commonly expressed in percentage as Weber Contrast by the formula C = (RH - RL) Ö RH X 100, where C represents Weber Contrast, RH represents the reflectance level of the brighter surface, and RL the reflectance level of the darker.
-
-Voice Carry Over (VCO):
-
-a telecommunication relay service that enables a person who is hard of hearing, but who wants to use her or his own voice, to speak directly to the receiving party and to receive responses in text form through the text telephone (TTY).
-
-Walk Interval:
-
-that part of the traffic signal phase in which the *[pedestrian](http://www.access-board.gov/prowac/commrept/part3-01.htm#ped)* is to begin crossing, typically indicated by WALK message or the walking person symbol and its audible equivalent.
-
-Warp:
-
-a condition of a surface that is twisted, bent or formed out of a plane.
+Warp
+: a condition of a surface that is twisted, bent or formed out of a plane.
 
 **X01.3 Existing Public Rights-of-Way.**
 
