@@ -21,14 +21,19 @@ Each session will focus on a different type of accessibility (e.g., mobility, co
 
 ### Program Schedule
 
-|  Date |  Time |  Session |  Registration Link | Online Discussion \(ePolicyWorks\) |  Materials |
-|---|---|---|---|---|---|
-|  March 10, 2021 | 2:00 p.m. - 3:30 p.m. (EST) | Accessibility for Passengers with Mobility Disabilities: Entering and Exiting Vehicles |  |  |  |
-|  March 24, 2021 | 2:00 p.m. - 3:30 p.m. (EDT) | Accessibility for Passengers with Mobility Disabilities: Maneuvering and Securement in Vehicles |  |  |  |
-|  April 7, 2021  | 2:00 p.m. - 3:30 p.m. (EDT) | Communication Accessibility for Passengers with Sensory or Cognitive Disabilities |  |  |  |
-|  April 21, 2021 | 2:00 p.m. - 3:30 p.m. (EDT) | Findings, Recommendations, Future Research, and Suggested Next Steps |  |  |  |
-{: .usa-table}
+*Accessibility for Passengers with Mobility Disabilities: Entering and Exiting Vehicles*
+March 10, 2021, 2:00 – 3:30 (ET)
 
+*Accessibility for Passengers with Mobility Disabilities: Maneuvering and Securement in Vehicles* 
+March 24, 2021, 2:00 – 3:30 (ET)
+
+*Communication Accessibility for Passengers with Sensory or Cognitive Disabilities*
+April 7, 2021, 2:00 – 3:30 (ET)
+
+*Findings, Recommendations, Future Research, and Suggested Next Steps*
+April 21, 2021, 2:00 – 3:30 (ET)
+
+**Note: Meeting links and other details will be posted at a later date.**
 
 ### Session Format 
 
@@ -36,6 +41,6 @@ Each session will begin with presentations by agency representatives and invited
 
 ### More Information 
 
-Further details will be posted on this page in coming weeks. You can sign up to receive details and other updates on the sessions by email.   
+Further details will be posted on this page in coming weeks. You can [sign up](https://public.govdelivery.com/accounts/USACCESS/subscriber/new?topic_id=USACCESS_13) to receive details and other updates on the sessions by email.   
 
 Direct questions to Randall Duchesneau III at [duchesneau@access-board.gov](mailto: duchesneau@access-board.gov) or (202) 272-0044.
