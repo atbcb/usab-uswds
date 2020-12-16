@@ -40,4 +40,4 @@ Each session will begin with presentations by agency representatives and invited
 
 Further details will be posted on this page in coming weeks. You can sign up to receive details and other updates on the sessions by email.   
 
-Direct questions to Randall Duchesneau III at [duchesneau@access-board.gov](mailto: duchesneau@access-board.gov) or (202) 272-0044. 
+Direct questions to Randall Duchesneau III at [duchesneau@access-board.gov](mailto: duchesneau@access-board.gov) or (202) 272-0044.
