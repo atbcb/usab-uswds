@@ -21,16 +21,16 @@ Each session will focus on a different type of accessibility (e.g., mobility, co
 
 ### Program Schedule
 
-*Accessibility for Passengers with Mobility Disabilities: Entering and Exiting Vehicles*
+*Accessibility for Passengers with Mobility Disabilities: Entering and Exiting Vehicles* \
 March 10, 2021, 2:00 – 3:30 (ET)
 
-*Accessibility for Passengers with Mobility Disabilities: Maneuvering and Securement in Vehicles* 
+*Accessibility for Passengers with Mobility Disabilities: Maneuvering and Securement in Vehicles* \
 March 24, 2021, 2:00 – 3:30 (ET)
 
-*Communication Accessibility for Passengers with Sensory or Cognitive Disabilities*
+*Communication Accessibility for Passengers with Sensory or Cognitive Disabilities* \
 April 7, 2021, 2:00 – 3:30 (ET)
 
-*Findings, Recommendations, Future Research, and Suggested Next Steps*
+*Findings, Recommendations, Future Research, and Suggested Next Steps* \
 April 21, 2021, 2:00 – 3:30 (ET)
 
 **Note: Meeting links and other details will be posted at a later date.**
