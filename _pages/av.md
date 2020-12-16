@@ -1,15 +1,13 @@
 ---
 banner-title: Autonomous Vehicles
-title: Information Session Series
+title: 'Inclusive Design of Autonomous Vehicles: A Public Dialogue'
 layout: page-right-sidenav
 right-sidenav: sidenav-av.html
 permalink: /av/
 ---
-## {{page.title}}
+### {{page.title}}
 
-### Inclusive Design of Autonomous Vehicles:  A Public Dialogue 
-
-![Autonomous Bus]({{ site.baseurl }}/images/autonomous-bus.jpg){: .img-right}
+{% asset autonomous-bus.jpg alt="Autonomous Bus" class="float-right" %}
 
 Self-driving or “autonomous” vehicles stand to revolutionize road transportation in the U.S. and around the world. Their cutting-edge technologies and engineering innovations have the potential to dramatically expand transit options for many people, including those with disabilities. It is important that autonomous vehicles (AVs) are designed to be inclusive of everyone.   
 
