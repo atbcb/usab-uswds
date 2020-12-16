@@ -25,10 +25,10 @@ Each session will focus on a different type of accessibility (e.g., mobility, co
 
 |  Date |  Time |  Session |  Registration Link | Online Discussion \(ePolicyWorks\) |  Materials |
 |---|---|---|---|---|---|
-|  March 10th | 2:00 p.m. - 3:30 p.m. (EST) | Accessibility for Passengers with Mobility Disabilities: Entering and Exiting Vehicles |  |  |  |
-|  March 24th | 2:00 p.m. - 3:30 p.m. (EDT) | Accessibility for Passengers with Mobility Disabilities: Maneuvering and Securement in Vehicles |  |  |  |
-|  April 7th  | 2:00 p.m. - 3:30 p.m. (EDT) | Communication Accessibility for Passengers with Sensory or Cognitive Disabilities |  |  |  |
-|  April 21st | 2:00 p.m. - 3:30 p.m. (EDT) | Findings, Recommendations, Future Research, and Suggested Next Steps |  |  |  |
+|  March 10, 2021 | 2:00 p.m. - 3:30 p.m. (EST) | Accessibility for Passengers with Mobility Disabilities: Entering and Exiting Vehicles |  |  |  |
+|  March 24, 2021 | 2:00 p.m. - 3:30 p.m. (EDT) | Accessibility for Passengers with Mobility Disabilities: Maneuvering and Securement in Vehicles |  |  |  |
+|  April 7, 2021  | 2:00 p.m. - 3:30 p.m. (EDT) | Communication Accessibility for Passengers with Sensory or Cognitive Disabilities |  |  |  |
+|  April 21, 2021 | 2:00 p.m. - 3:30 p.m. (EDT) | Findings, Recommendations, Future Research, and Suggested Next Steps |  |  |  |
 {: .usa-table}
 
 
