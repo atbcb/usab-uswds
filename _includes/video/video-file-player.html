@@ -8,8 +8,29 @@
     controls
     fluid
     preload
+    autoplay
   >
     <source src="{{ site.baseurl }}{{ include.video_path }}" type="video/mp4" />
     <track src=" {{ site.baseurl }}{{ include.caption_path }}" kind="captions" srclang="en" default="default" ></track>
-  </video>  
+  </video>
 </div>
+
+<script>
+  (function() {
+    let currentTime = "0";
+    let currentURL = window.location.href
+    let currentUrlElements = currentURL.split('?');
+
+    if (currentUrlElements.length > 1) {
+      let currentTimeValue = currentUrlElements.pop();
+
+      if (currentTimeValue.startsWith("s=")) {
+        currentTime=currentTimeValue.replace("s=", "");
+      }
+    }
+
+    // Todo Pull in videojs after it has loaded
+    let pagePlayer = videojs("{{ include.name | replace: " ", "-" }}-video");
+
+  })();
+</script>
