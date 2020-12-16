@@ -6,24 +6,38 @@ right-sidenav: sidenav-av.html
 permalink: /av/
 ---
 ## {{page.title}}
-![Autonomous vehicle]({{ site.baseurl }}/images/stock/av.jpg){: .img-right .shadow .radius-lg}
 
+### Inclusive Design of Autonomous Vehicles:  A Public Dialogue 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Mi bibendum neque egestas congue quisque egestas. Mattis vulputate enim nulla aliquet porttitor. Magna fermentum iaculis eu non diam phasellus. Sem et tortor consequat id porta nibh. Diam maecenas ultricies mi eget mauris pharetra et. A cras semper auctor neque vitae. Curabitur vitae nunc sed velit dignissim sodales ut eu. Tellus at urna condimentum mattis pellentesque id nibh. Nibh cras pulvinar mattis nunc sed blandit libero volutpat. Quam id leo in vitae turpis massa sed.
+![Autonomous vehicle]({{ site.baseurl }}/images/autonomous-bus.jpg){: .img-right}
 
-Dignissim suspendisse in est ante in nibh. Cursus metus aliquam eleifend mi in nulla. Eget aliquet nibh praesent tristique magna sit amet. Cursus in hac habitasse platea dictumst quisque sagittis purus. Justo laoreet sit amet cursus sit amet dictum. Eget mi proin sed libero enim sed faucibus. Cursus mattis molestie a iaculis. Bibendum enim facilisis gravida neque convallis a cras. Tortor consequat id porta nibh venenatis cras sed felis. Accumsan tortor posuere ac ut consequat semper viverra nam libero. Vulputate sapien nec sagittis aliquam malesuada bibendum arcu. At tempor commodo ullamcorper a lacus. Turpis massa sed elementum tempus. At erat pellentesque adipiscing commodo. Dignissim enim sit amet venenatis urna cursus eget nunc. Ultrices in iaculis nunc sed augue lacus viverra vitae.
+Self-driving or “autonomous” vehicles stand to revolutionize road transportation in the U.S. and around the world. Their cutting-edge technologies and engineering innovations have the potential to dramatically expand transit options for many people, including those with disabilities. It is important that autonomous vehicles (AVs) are designed to be inclusive of everyone.   
 
-### Schedule
+This spring, the U.S. Access Board will host a four-part series of virtual meetings on making AVs accessible to passengers with disabilities. In partnership with several other federal agencies, the Board will provide an open forum where members of the public and stakeholders can discuss considerations, challenges, and solutions in designing accessible AVs. The sessions are free and open to the public. Attendees will be able to pose questions and share comments, suggestions, and information. 
 
-|  Date |  Time |  Registration Link |  Online Discussion \(ePolicyWorks\) |  Materials |
-|---|---|---|---|---|
-|  March 10th | 2 p.m. - 3:30 p.m. (EST) |  [link](https://www.access-board.gov) |  |  |
-|  March 24th | 2 p.m. - 3:30 p.m. (EDT) |  |  |  |
-|  April 7th | 2 p.m. - 3:30 p.m. (EDT) |  |  |  |
-|  April 21st | 2 p.m. - 3:30 p.m. (EDT) |  |  |  |
+### Series Platform and Format 
+
+The forum will be conducted through the Zoom platform with open chat and discussion features. The forum’s four sessions will be in intervals of two weeks. Each 1.5-hour webinar discussion will be recorded and supplemented by an online crowdsourcing discussion platform (ePolicyWorks) that will be active for two weeks after each session. 
+
+Each session will focus on a different type of accessibility (e.g., mobility, communication, cognitive).  A final session will review findings and recommendations, identify areas for further study, and recommended next steps.
+
+### Program Schedule
+
+|  Date |  Time |  Session |  Registration Link | Online Discussion \(ePolicyWorks\) |  Materials |
+|---|---|---|---|---|---|
+|  March 10th | 2:00 p.m. - 3:30 p.m. (EST) | Accessibility for Passengers with Mobility Disabilities: Entering and Exiting Vehicles |  |  |  |
+|  March 24th | 2:00 p.m. - 3:30 p.m. (EDT) | Accessibility for Passengers with Mobility Disabilities: Maneuvering and Securement in Vehicles |  |  |  |
+|  April 7th  | 2:00 p.m. - 3:30 p.m. (EDT) | Communication Accessibility for Passengers with Sensory or Cognitive Disabilities |  |  |  |
+|  April 21st | 2:00 p.m. - 3:30 p.m. (EDT) | Findings, Recommendations, Future Research, and Suggested Next Steps |  |  |  |
 {: .usa-table}
 
 
-Pellentesque elit eget gravida cum sociis natoque penatibus et magnis. Nibh tortor id aliquet lectus proin nibh nisl condimentum id. Quam quisque id diam vel quam elementum. Sit amet massa vitae tortor condimentum lacinia quis vel eros. Vulputate ut pharetra sit amet aliquam id diam maecenas. Placerat in egestas erat imperdiet sed euismod nisi porta lorem. Aliquam purus sit amet luctus. Faucibus a pellentesque sit amet porttitor eget. Ut tristique et egestas quis. Scelerisque mauris pellentesque pulvinar pellentesque. Dictumst quisque sagittis purus sit. Quam adipiscing vitae proin sagittis nisl rhoncus. Turpis egestas sed tempus urna et pharetra. Tincidunt vitae semper quis lectus nulla at volutpat diam ut. In ornare quam viverra orci sagittis eu. Suscipit tellus mauris a diam maecenas sed enim ut.
+### Session Format 
 
-For more information contact Randall Duchesneau at [duchesneau@access-board.gov](mailto: duchesneau@access-board.gov)
+Each session will begin with presentations by agency representatives and invited speakers who will review relevant sources and research and outline issues and questions for discussion. These presentations will be followed by an open dialogue with attendees through the webinar platform. 
+
+### More Information 
+
+Further details will be posted on this page in coming weeks. You can sign up to receive details and other updates on the sessions by email.   
+
+Direct questions to Randall Duchesneau III at [duchesneau@access-board.gov](mailto: duchesneau@access-board.gov) or (202) 272-0044. 
