@@ -861,16 +861,21 @@ An alteration of an existing element, space, or area of a public right-of-way sh
 
 #### X02.1 Public Sidewalks
 
-**X02.1.1 General**.\
+##### X02.1.1 General
+
 Where provided, *public sidewalks* shall comply with this section.
 
-#### X02.1.2 Pedestrian Access Route
+##### X02.1.2 Pedestrian Access Route
 
-**X02.1.2.1 General.** Where *public sidewalks* are provided, they shall contain a *pedestrian access route*. The pedestrian access route shall connect to elements required to be accessible in Section X02.3 and shall meet the requirements set forth in Section X02.1.1 through Section X02.1.7.
+###### X02.1.2.1 General
+
+Where *public sidewalks* are provided, they shall contain a *pedestrian access route*. The pedestrian access route shall connect to elements required to be accessible in Section X02.3 and shall meet the requirements set forth in Section X02.1.1 through Section X02.1.7.
 
 **Discussion:** The pedestrian access route must comply with the provisions of Section X02.1.1 through Section X02.1.7. However, if the public sidewalk is wider than the pedestrian access route, the portion of the public sidewalk outside the pedestrian access route is not required to comply with these sections. While the pedestrian access route is designed to be universally accessible, there are additional elements in the public sidewalk, such as stairs and handrails, that are used by some pedestrians with disabilities. These elements must also meet applicable standards in order to be accessible to those who choose to use them. The committee had a lengthy discussion of planning the public/private interface at the edge of the right-of-way to ensure access to new construction and to remove barriers to existing private sites and facilities that abut a new or altered public sidewalk. However, it was determined that conditions in the public right-of-way are so variable that it would be impossible to develop a provision covering such public/private coordination. The Access Board will use best practices case studies that illustrate a range of approaches as they develop technical assistance information during 2001.
 
-**X02.1.2.2 Reduced Vibration Zone.** Within the pedestrian access route, there shall be an unobstructed *reduced vibration zone* meeting the requirements of this section. The reduced vibration zone shall be a contiguous part of the pedestrian access route that connects to elements required to be accessible in Section X02.3, and shall meet the requirements set forth in Section X02.1.1 through Section X02.1.7.
+###### X02.1.2.2 Reduced Vibration Zone
+
+Within the pedestrian access route, there shall be an unobstructed *reduced vibration zone* meeting the requirements of this section. The reduced vibration zone shall be a contiguous part of the pedestrian access route that connects to elements required to be accessible in Section X02.3, and shall meet the requirements set forth in Section X02.1.1 through Section X02.1.7.
 
 ***Advisory:** : The reduced vibration zone is intended to result in an unobstructed, smooth, and navigable path that is aligned to be as direct and free of meanders as possible.*
 
@@ -878,9 +883,11 @@ Where provided, *public sidewalks* shall comply with this section.
 
 **Research need:** The committee wished to adopt a standard for the smoothness of the pedestrian access route but was not able to identify suitable technical provisions, such as a measurement of the rolling vibration of pedestrian surfaces. Paved surfaces for vehicles are evaluated according to a roughness index (the IRI) for which there is an American Society for Testing and Materials (ASTM) measurement protocol that employs a profilometer. The committee encourages research to determine if the IRI could be adapted to the evaluation of pedestrian surfaces. The committee believes that research on the relationship of surface roughness, surface wavelength (amplitude and frequency), and caster and wheel diameter and materials may also be a fruitful area for research. In addition, ASTM standards are currently being developed for application in Hawaii. The committee recommends review of the Hawaii standard when available for possible incorporation into any new guidelines.
 
-#### X02.1.3 Clear Width
+##### X02.1.3 Clear Width
 
-**X02.1.3.1 General.** The minimum clear width of a pedestrian access route shall be 60 inches (1525mm), exclusive of the width of the curb. Within the pedestrian access route, the minimum clear width of the *reduced vibration zone* shall be 48 inches (1220mm), exclusive of the width of the curb.
+###### X02.1.3.1 General
+
+The minimum clear width of a pedestrian access route shall be 60 inches (1525mm), exclusive of the width of the curb. Within the pedestrian access route, the minimum clear width of the *reduced vibration zone* shall be 48 inches (1220mm), exclusive of the width of the curb.
 
 ***Advisory:** Designers are encouraged to provide additional width where possible, especially in high use areas such as in downtown urban environments, near shopping centers, schools, civic facilities. It is recommended that the pedestrian access route be no less than 72 inches wide in high use areas.*
 
@@ -891,13 +898,13 @@ Where provided, *public sidewalks* shall comply with this section.
 
 ***Advisory:** Excessive cross slope or change in cross slope on driveway aprons can be a significant barrier to public sidewalk use. Even with narrow public sidewalks along the curb, it is possible to design a public sidewalk to pass across the driveway apron without exceeding the 1:48 cross slope limitation. Existing non-complying aprons can be reconstructed to achieve a usable cross slope for a width of 48 inches. By breaking the driveway apron into three parts Ð the apron on the roadway side, the sidewalk, and the apron on the property side Ð vehicles must slow to negotiate the two steeper ramps on either side of the sidewalk crossing. When properly designed and constructed, these driveways will not cause vehicles to "bottom out."*
 
-#### Figure X02.1 A Sidewalk/Alley or Driveway Connections
+**Figure X02.1 A Sidewalk/Alley or Driveway Connections**
 
 ![Figure X02.1 A Sidewalk/Alley or Driveway Connections - Isometric views of five public sidewalk and driveway or alleyway connections. ](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/X02.1a.gif)
 
 *Isometric views of five public sidewalk and driveway or alleyway connections. Illustrations show minimum PAR width of 48 inches (1220mm) at the driving area and indicate maximum allowable cross slopes.*
 
-#### Figure X02.1 B Reconstruction of Driveway Aprons
+**Figure X02.1 B Reconstruction of Driveway Aprons**
 
 ![Isometric views of a public sidewalk and driveway showing before and after conditions. The before view shows a driveway crossing a public sidewalk and a typical steep cross slope condition. The after view shows transition ramps approaching a lowered driveway apron which allows a 48-inch wide PAR with 1:48 cross slope to complete the connection.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/X02.1B.gif)
 
@@ -920,15 +927,17 @@ Where provided, *public sidewalks* shall comply with this section.
 
 **Discussion:** The committee recognizes that public rights-of-way, unlike most corridors in buildings, are frequently the locations of numerous items of street furniture and fixtures that serve a wide variety of public and private purposes. In order to ensure that public sidewalks are accessible and usable by persons with disabilities, an unobstructed pedestrian access route must be provided. The committee also realizes that some flexibility is needed in placing utilities and other fixtures that share the public rights-of-way. Therefore, street fixtures, such as street light poles and bollards may be allowed to encroach slightly into the 60-inch pedestrian access route, though they should be located outside of the public sidewalk wherever possible. Street furniture, on the other hand, attracts stationary pedestrians, which can block the pedestrian access route further. Thus, fixed street furniture such as mailboxes, newspaper boxes, litter containers, benches, and bicycle racks should not be allowed within the pedestrian access route and should be located with their clear floor or ground space at the edge of public sidewalks wherever possible.
 
-#### X02.1.4 Cross Slope.
+##### X02.1.4 Cross Slope.
 
 **X02.1.4.1 General.** The *cross slope* of the *pedestrian access route* cross slope shall not exceed 1:48.
 
 **Discussion:** This requirement is consistent with current and proposed ADAAG standards that set a maximum 1:48 cross slope on accessible routes.
 
-#### X02.1.5 Grade.
+##### X02.1.5 Grade.
 
-**X02.1.5.1 General.** The minimum feasible *running grade* consistent with *grades* established for the adjacent roadway shall be provided in the *pedestrian access route*.
+###### X02.1.5.1 General
+
+The minimum feasible *running grade* consistent with *grades* established for the adjacent roadway shall be provided in the *pedestrian access route*.
 
 **EXCEPTION**: The running grade of a pedestrian access route may be steeper than the adjacent roadway, provided that the pedestrian access route grade is either:
 
@@ -942,9 +951,11 @@ Where provided, *public sidewalks* shall comply with this section.
 
 In some locations it is not feasible to construct a roadway at less than a 5 percent *grade*, and right-of-way constraints or lot configurations may preclude separating the pedestrian access route significantly from the roadway. In such cases the *running grade* of the pedestrian access route may be as steep as the running grade of the roadway.
 
-#### X02.1.6 Surfaces.
+##### X02.1.6 Surfaces.
 
-**X02.1.6.1 General.** The surfaces of the *pedestrian access route* shall comply with proposed ADAAG Section 302 and shall be as free of jointed surfaces and as visually uniform as possible.
+###### X02.1.6.1 General
+
+The surfaces of the *pedestrian access route* shall comply with proposed ADAAG Section 302 and shall be as free of jointed surfaces and as visually uniform as possible.
 
 **EXCEPTION:** Surfaces may contain control joints and similar joints that are associated with established construction practices for those surfaces or structures that include pedestrian access routes.
 
@@ -956,11 +967,13 @@ In some locations it is not feasible to construct a roadway at less than a 5 per
 
 The committee understands that the Access Board and the Construction Specifications Institute will pursue the issue of visual contrast in a joint technical assistance project in 2001 and recommends including guidelines developed from this or other research identified during this project.
 
-**X02.1.6.2 Utility covers, gratings and other covers.** Utility covers, gratings, and other coverings over below-grade construction shall not be placed within the minimum clear width of the *reduced vibration zone*.
+###### X02.1.6.2 Utility covers, gratings and other covers
+
+Utility covers, gratings, and other coverings over below-grade construction shall not be placed within the minimum clear width of the *reduced vibration zone*.
 
 ***Advisory:****Placement of utility covers, gratings and other covers should be outside the entire public sidewalk to the maximum extent feasible.*
 
-#### X02.1.6.3 Surface gaps at rail crossings.
+###### X02.1.6.3 Surface gaps at rail crossings
 
 **(A) General.** Where the pedestrian access route crosses rail systems at *grade*, the horizontal gap at the inner edge of each rail shall be constructed to the minimum dimension necessary to allow passage of railroad car wheel flanges and shall not exceed 2 1/2 inches maximum. This allowance for a gap of 2-1/2-inches shall expire four years after the Access Board publishes the final rule on public rights-of-way, after which time the maximum gap shall be in accordance with proposed ADAAG Section 302.3 without the exception allowed in proposed ADAAG Section 1003.
 
@@ -978,9 +991,11 @@ The committee understands that the Access Board and the Construction Specificati
 
 **Discussion:** When a pedestrian who is blind or visually impaired is in the crosswalk, a detectable warning installed for a rail crossing could be confusing and be mistaken as an indication of the other side of the street or as a median refuge. The detectable warning at each sidewalk/street transition will provide an indication of the presence of vehicular traffic of any type within the vehicular way.
 
-**X02.1.7 Changes in Level**.
+##### X02.1.7 Changes in Level
 
-**X02.1.7.1 General.** Where changes in level are permitted in the *pedestrian access route* they shall comply with proposed ADAAG Section 303.
+###### X02.1.7.1 General
+
+Where changes in level are permitted in the *pedestrian access route* they shall comply with proposed ADAAG Section 303.
 
 ***Advisory:**** Changes in level between 1/4 inch and 1/2 inch are highly discouraged, even if permitted when beveled, in the public right-of-way. Changes in level exceeding 1/4 inch should be spaced at least 24 inches apart in the predominant direction of pedestrian travel to accommodate the average wheelbase of a wheelchair.* 
 
@@ -988,15 +1003,21 @@ The committee understands that the Access Board and the Construction Specificati
 
 The committee considered limiting the number of abrupt vertical surface changes that exceed 1/4 inch that could be introduced along a length of the pedestrian access route. It was agreed that the standard 24-inch length of a wheelchair wheelbase could serve as a minimum distance between changes.
 
-**X02.1.7.2 Changes in level at rail crossings.** Where the pedestrian access route crosses rail systems at *grade*, the surface of the pedestrian access route shall be level and flush with the top of the rail at the outer edge and between the rails.
+###### X02.1.7.2 Changes in level at rail crossings
 
-#### X02.1.8 Stairs
+Where the pedestrian access route crosses rail systems at *grade*, the surface of the pedestrian access route shall be level and flush with the top of the rail at the outer edge and between the rails.
 
-**X02.1.8.1 General.** Where provided in *public right-of-way*, stairs shall comply with proposed ADAAG Section 504. Stairs shall not be part of the *pedestrian access route*.
+##### X02.1.8 Stairs
 
-**X02.1.8.2 Visual contrast at the leading edges of steps.** Each tread of stairs in the public right-of-way shall have a high *visual contrast* strip marking the full width of the tread for a depth of 2 inches minimum from the leading edge of the tread.
+###### X02.1.8.1 General
 
-#### Figure X02.1 D Visual Contrast at Steps
+Where provided in *public right-of-way*, stairs shall comply with proposed ADAAG Section 504. Stairs shall not be part of the *pedestrian access route*.
+
+###### X02.1.8.2 Visual contrast at the leading edges of steps
+
+Each tread of stairs in the public right-of-way shall have a high *visual contrast* strip marking the full width of the tread for a depth of 2 inches minimum from the leading edge of the tread.
+
+**Figure X02.1 D Visual Contrast at Steps**
 
 ![Isometric views of treads and risers indicating contrast strip at leading edge. One shows the strip limited to the flat surface of the tread, one shows the strip wrapping over the nose of the tread.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/X02.1D.gif)
 
@@ -1004,17 +1025,21 @@ The committee considered limiting the number of abrupt vertical surface changes 
 
 **Discussion:** While stairways are not considered part of a pedestrian access route, they are often constructed at pedestrian grade separations that are also served by elevators or a ramping system that does provide accessibility. Often persons with low vision are also elderly and prefer to use stairs rather than ramps because of joint deterioration, which causes difficulty in negotiating ramps. Providing higher contrast and improved visibility of stairways significantly improves these users' ability to negotiate stairways. Marking the lead 2 inches of tread the full width of the step with a strip of high visual contrast or safety yellow material will improve visibility.
 
-#### X02.1.9 Elevators and Lifts.
+##### X02.1.9 Elevators and Lifts.
 
-**X02.1.9.1 General.** Where provided in public rights-of-way, elevators shall comply with proposed ADAAG Section 407 and lifts shall comply with proposed ADAAG Section 408 and shall remain unlocked during the operating hours of the facility served by the elevator.
+###### X02.1.9.1 General
+
+Where provided in public rights-of-way, elevators shall comply with proposed ADAAG Section 407 and lifts shall comply with proposed ADAAG Section 408 and shall remain unlocked during the operating hours of the facility served by the elevator.
 
 **Discussion:** The requirement that elevators and lifts remain unlocked is necessary to ensure that they are independently operable and available when the facility they serve is open for use by the public.
 
 **Frontier issue:** The committee discussed the fact that larger wheelchairs and electric scooters are used more frequently in the outdoor environment and that the clear ground space of 32 inches by 48 inches provided in proposed ADAAG Section 408 may not accommodate these larger mobility aids. In some sections, such as for the approach to *push buttons*, the committee recommended a larger clear ground space. The committee suggests future work to establish a uniform recommendation on these dimensions for outdoor environments.
 
-#### X02.1.10 Separation.
+##### X02.1.10 Separation
 
-**X02.1.10.1 General.** Reserved
+###### X02.1.10.1 General
+
+Reserved
 
 ***Advisory:**** Designers should consider providing sidewalks with both a vertical and horizontal separation from the adjacent roadway. Vertical separation can be created through the installation of curbs. Horizontal separation should be at least 24 inches (610mm) wide, and can be created through the installation of landscaping or furniture zones for benches, planters, literature display boxes, or similar clearly defined features or surfaces that will help guide persons who may otherwise unintentionally enter the vehicular way.*
 
@@ -1022,11 +1047,11 @@ The committee considered limiting the number of abrupt vertical surface changes 
 
 The committee considered requiring the acquisition of sufficient ROW width to ensure public sidewalk accessibility. However, it was recognized that ROW conditions are so variable that it would not be possible to develop provisions applicable to a wide range of locations and circumstances.
 
-#### X02.1.11 Edge Conditions.
+##### X02.1.11 Edge Conditions
 
-1
+###### X02.1.11.1 General
 
-**X02.1.11.1 General. **Reserved.
+Reserved.
 
 ***Advisories:\
 (A) Tactile and visual cues.****Pedestrians with visual impairments use visual and tactile boundaries (shorelines) for directional orientation. Public sidewalks with clearly defined edges will be more accessible for these pedestrians. Where public sidewalks abut other paved areas such as parking lots and pedestrian plazas, the use of a visually contrasting and tactile material at the edge of the pedestrian route is desirable.*
@@ -1037,15 +1062,19 @@ The committee considered requiring the acquisition of sufficient ROW width to en
 
 **Discussion:** The committee discussed the need for a safe edge condition along the public sidewalk. People with disabilities often have limited agility and need additional protection if there is a drop off or other potential hazard next to the public right-of-way. Where buildings abut the public sidewalk, they provide a clearly defined edge to the pedestrian circulation area. Where no building is present, a landscaped or other clearly defined space, level with the public sidewalk, provides a discernible edge for the pedestrian. Where the landscaped or other clearly defined space is not generally level or cannot be provided, or where slopes steeper than 1:3 abut the sidewalk, other edge protection should be considered.
 
-#### X02.1.12 Handrails.
+##### X02.1.12 Handrails
 
-**X02.1.12.1 General.** Where provided in the *public right-of-way*, *handrails* shall comply with proposed ADAAG Section 505.
+###### X02.1.12.1 General
+
+Where provided in the *public right-of-way*, *handrails* shall comply with proposed ADAAG Section 505.
 
 ***Advisory:** Placement of the handrail extension return at a height lower than 27 inches will improve detectability for blind pedestrians.*
 
-#### X02.1.13 Parking structure exit warnings.
+##### X02.1.13 Parking structure exit warnings
 
-**X02.1.13.1 General. **Reserved.
+###### X02.1.13.1 General
+
+Reserved.
 
 ***Advisory:****Where the public sidewalk crosses a vehicular exit for a parking structure, a vehicle-triggered audible and visual warning may be useful for all pedestrians, especially those with visual and hearing impairments. Research is needed to determine the specifications for such a warning system. Developers of parking structures are encouraged to provide drivers exiting the structure with an alert when a pedestrian is present.*
 
@@ -1061,18 +1090,19 @@ The committee also recommends research on pedestrian sensor systems that can adv
 ---
 
 
-X02.2 Protruding Objects
-------------------------
+#### X02.2 Protruding Objects
 
-**X02.2.1 General.**\
+##### X02.2.1 General
+
 Where provided, *public sidewalks* shall comply with the requirements of this section.
 
-**X02.2.2 Wall mounted objects.**\
+##### X02.2.2 Wall mounted objects
+
 Objects with leading edges more than 27 inches (685mm) from the ground and not more than 80 inches (2030mm) above the ground shall protrude no more than 4 inches (100mm) maximum horizontally into the *public sidewalk*.
 
 **EXCEPTION:***Handrails* serving stairs and *ramps* shall protrude no more than 41/2 inches (115mm) maximum from the wall.
 
-#### Figure X02.2 A Wall Mounted Objects
+**Figure X02.2 A Wall Mounted Objects**
 
 ![Wall-mounted object dimensioned to a maximum projection of four inches.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.2A.gif)
 
@@ -1084,16 +1114,17 @@ Objects with leading edges more than 27 inches (685mm) from the ground and not m
 
 Pilot research (Karnes et al.) indicates that numerous body contacts are likely to be made with objects that protrude four inches from walls or twelve inches from a post or pylon, even by adults who travel using a long cane proficiently in one of the three principal cane techniques. For persons of short stature, including children, simple geometry indicates that they will be unlikely to detect objects with a long cane before contacting them with the body when the leading edge is as high as 27 inches above the floor or ground. Many persons do not consistently use proficient techniques with a long cane; they are particularly at risk.
 
-**X02.2.3 Post-mounted objects.**\
+##### X02.2.3 Post-mounted objects
+
 Freestanding objects mounted on posts or pylons shall overhang a maximum of 4 inches (100mm) when located more than 27 inches (685mm) from the ground and less than 80 inches (2030mm) above the floor or ground. Where a sign or other obstruction is mounted between posts or pylons and the clear distance between the posts or pylons is greater than 12 inches (305mm), there shall be a bar or similarly detectable element 15 inches (380mm) above the floor or ground connecting the two posts or pylons. Such bar or other element shall provide *visual contrast* with the ground surface.
 
-#### Figure X02.2 B Post-Mounted Object
+**Figure X02.2 B Post-Mounted Object**
 
 ![Post-mounted object seen in elevation, dimensioned to indicate 4" maximum protrusion.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.2B.gif)
 
 *Post-mounted object seen in elevation, dimensioned to indicate 4" maximum protrusion.*
 
-#### Figure X02.2 C Sign with Cane Detection Bar
+**Figure X02.2 C Sign with Cane Detection Bar**
 
 ![Elevation view of a sign mounted between two posts, less than 80" above grade, with a cane detection bar at 15" above grade. Contrasting finish on bar is indicated.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.2C.gif)
 
@@ -1101,12 +1132,13 @@ Freestanding objects mounted on posts or pylons shall overhang a maximum of 4 in
 
 **Discussion:** Persons who travel with the aid of a long cane are frequently able to use acoustic information to recognize the location of walls. Even when they do not contact walls, they frequently travel parallel to walls, a short distance away - far enough to miss objects that protrude four inches. They are less likely to be aware of and able to use acoustic information to recognize the location of posts or pylons. Thus, they are less likely to avoid posts and pylons unless they contact them with the long cane. Even a small error in body coverage using a long cane is highly likely to lead to body contact with a post or pylon-mounted sign that protrudes as much as 12 inches. Persons who are blind are more likely to have body contact with objects that protrude even four inches from a pole than they are to have body contact with objects that protrude four inches from a wall. Stop signs that are mounted low in the public right-of-way have been particularly noted as problems.
 
-**X02.2.4 Reduced Vertical Clearance.**\
+##### X02.2.4 Reduced Vertical Clearance
+
 Railings or other barriers shall be provided where the vertical clearance is less than 80 inches (2030mm) high. The leading edge of such railing or barrier shall be located no more than 27 inches (685mm) above the floor or ground.
 
 ***Advisory:**** : Designers should consider placing the leading edge of the railing or barrier at or below 15 inches (380mm) in order to accommodate a greater variety of users. Maintenance of trees and other landscape features that might encroach on the vertical clearance must be performed for the entire public sidewalk, not just the pedestrian access route.*
 
-#### Figure X02.2 D Barrier for Vertical Clearance < 80"
+**Figure X02.2 D Barrier for Vertical Clearance < 80"**
 
 ![Sketch of a barrier preventing a person from running into a vertical clearance less than 80 inches.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.2D.gif)
 
@@ -1122,22 +1154,27 @@ However, pedestrians who use wheelchairs require a minimum height of 27 inches a
 ---
 
 
-X02.3 Street Fixtures and Furniture
------------------------------------
+#### X02.3 Street Fixtures and Furniture
 
-#### X02.3.1 Requirement for accessible street furniture.
+##### X02.3.1 Requirement for accessible street furniture
 
-**X02.3.1.1 General. **Where provided for *pedestrian* use or operation, *street furniture* installed on or adjacent to a *public sidewalk* and accessed from the *public right-of-way* shall be provided in accordance with Section X02. This section excludes fixtures in the public right-of-way that are not intended for use by the public , such as traffic control cabinets, and items that can be accessed only from private property, such as fenced-off sidewalk cafe tables.
+###### X02.3.1.1 General
+
+Where provided for *pedestrian* use or operation, *street furniture* installed on or adjacent to a *public sidewalk* and accessed from the *public right-of-way* shall be provided in accordance with Section X02. This section excludes fixtures in the public right-of-way that are not intended for use by the public , such as traffic control cabinets, and items that can be accessed only from private property, such as fenced-off sidewalk cafe tables.
 
 ***Advisory:**** When replacement of an existing item of street furniture with a new, fully accessible item of street furniture is beyond the practicable scope of the public sidewalk alteration, it is recommended that a sign indicating the location of the nearest fully accessible item of furniture should be affixed to the existing (unmodified) facility. Such a sign would comply with Section X02.3.8. This recommendation is similar to requirements for on-site furnishings in ADAAG.*
 
 **Discussion:** Street furniture tends to be scattered unevenly throughout the public right-of-way, and may be widely spaced and unpredictably located. It is more difficult, especially in inclement weather, on poorly maintained sidewalks, or in crowded conditions, to seek out furniture that is accessible. Each *cluster* of street furniture, therefore, must contain accessible units. The scoping level for the public right-of-way is thus higher in concentration than what is required for on-site facilities.
 
-**X02.3.1.2 Connection to the pedestrian access route. Street*** furniture* required by X02.3 to be accessible, shall be accessible from the *pedestrian access route*.
+###### X02.3.1.2 Connection to the pedestrian access route
+
+*Street furniture* required by X02.3 to be accessible, shall be accessible from the *pedestrian access route*.
 
 **Discussion:** This section is analogous to proposed ADAAG Section 206.2.2, which requires that at least one accessible route shall connect with all accessible spaces and elements that are on the same site or building. The intention is the same, that any elements provided for use by the public in the public right-of-way shall be accessible to persons with disabilities. While the entire public sidewalk and all of its street furniture may not be accessible (e.g., due to excessive cross slopes, changes in level, or obstructions), each fixed item of street furniture required to be accessible must tie into the pedestrian access route.
 
-**X02.3.1.3 Clear floor or ground space and related provisions. Street*** furniture* intended for public use by *pedestrians*, and required by Section X02 to be accessible, shall comply with proposed ADAAG Section 305 (Clear Floor and Ground Space), Section 306 (Knee and Toe Clearance), Section 308 (Reach Ranges), Section 309 (Operable Parts) and other sections as applicable. For all street furniture, the clear floor or ground space shall not encroach into the 60-inch (1525mm) wide pedestrian access route by more than 24 inches (610mm).
+###### X02.3.1.3 Clear floor or ground space and related provisions
+
+*Street furniture* intended for public use by *pedestrians*, and required by Section X02 to be accessible, shall comply with proposed ADAAG Section 305 (Clear Floor and Ground Space), Section 306 (Knee and Toe Clearance), Section 308 (Reach Ranges), Section 309 (Operable Parts) and other sections as applicable. For all street furniture, the clear floor or ground space shall not encroach into the 60-inch (1525mm) wide pedestrian access route by more than 24 inches (610mm).
 
 **EXCEPTION:** Clear floor and ground space for *push buttons* may encroach entirely into the pedestrian access route.
 
@@ -1147,15 +1184,19 @@ X02.3 Street Fixtures and Furniture
 
 **Frontier issue: **The committee discussed the fact that larger wheelchairs and electric scooters are used more frequently in the outdoor environment and that the clear ground space of 32 inches by 48 inches provided in proposed ADAAG Section 305 is a leftover standard developed for returning veterans during a certain era that may not accommodate these larger mobility aids. Members felt it is not an appropriate standard for the ADA, which embraces the rights of the entire disability population. In some sections of this report, such as for the approach to push buttons, the committee recommended a larger clear ground space. The committee suggests future work to establish a uniform recommendation on these dimensions for outdoor environments.
 
-#### X02.3.2 Drinking fountains and water coolers.
+##### X02.3.2 Drinking fountains and water coolers
 
-**X02.3.2.1 General.** Where drinking fountains and water coolers are provided, they shall be provided in accordance with Section X02.
+###### X02.3.2.1 General
 
-**X02.3.2.2 Multiple installations.** A minimum of two drinking fountains or water coolers is required in any one location. Fifty percent of all drinking fountains and water coolers in a *cluster* shall comply with proposed ADAAG Section 602.1 through Section 602.6. The remainder of the drinking fountains and water coolers in the cluster shall comply with Section 602.7.
+Where drinking fountains and water coolers are provided, they shall be provided in accordance with Section X02.
+
+###### X02.3.2.2 Multiple installations
+
+A minimum of two drinking fountains or water coolers is required in any one location. Fifty percent of all drinking fountains and water coolers in a *cluster* shall comply with proposed ADAAG Section 602.1 through Section 602.6. The remainder of the drinking fountains and water coolers in the cluster shall comply with Section 602.7.
 
 **EXCEPTION:** Single installations of "hi-lo" type drinking fountains or water fountains complying with proposed ADAAG Section 602 shall be considered as meeting the requirements of minimum number of *fixtures*.
 
-#### Figure X02.3 Hi-Lo Drinking Fountain
+**Figure X02.3 Hi-Lo Drinking Fountain**
 
 ![Plan, side and front elevation views of an accessible hi-lo drinking fountain. Fountains are mounted on a short wall that turns a 90 degree corner at the end by the high fixture, forming a cane detectable barricade adjacent to the fixture group. The low fountain has its bottom edge at 27" above grade and does not have a barrier wall.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.3A.gif)
 
@@ -1165,23 +1206,33 @@ X02.3 Street Fixtures and Furniture
 
 ***Advisory:**** In order to avoid creating a situation where people with disabilities have to travel inordinately long distances between drinking fountains or water coolers, all drinking fountains and water coolers should be accessible to individuals who use wheelchairs, as well as to individuals who have difficulty bending or stooping. This will have the added advantage of making drinking fountains and water coolers accessible to children and people of short stature.*
 
-#### X02.3.3 Public telephones.
+##### X02.3.3 Public telephones
 
-**X02.3.3.1 General.** Where public telephones are provided within the *public right-of-way*, they shall comply with the provisions of this section.
+###### X02.3.3.1 General
 
-**X02.3.3.2 Single unit.** Where a single public telephone is provided, it shall comply with proposed ADAAG Section 704.2, Section 704.4, and Section 704.5.
+Where public telephones are provided within the *public right-of-way*, they shall comply with the provisions of this section.
 
-**X02.3.3.3 Multiple units.** Where two or more public telephones are *clustered *together, such as in a bank of telephones, at least one shall comply with proposed ADAAG Section 704.2, Section 704.4, and Section 704.5.
+###### X02.3.3.2 Single unit
 
-**X02.3.3.4 Volume Controls.** All public telephones shall provide volume controls in compliance with proposed ADAAG Section 704.3.
+Where a single public telephone is provided, it shall comply with proposed ADAAG Section 704.2, Section 704.4, and Section 704.5.
+
+###### X02.3.3.3 Multiple units
+
+Where two or more public telephones are *clustered *together, such as in a bank of telephones, at least one shall comply with proposed ADAAG Section 704.2, Section 704.4, and Section 704.5.
+
+###### X02.3.3.4 Volume Controls
+
+All public telephones shall provide volume controls in compliance with proposed ADAAG Section 704.3.
 
 **Discussion:** Volume control is especially important in the public right-of-way, where the ambient noise level tends to be much higher. The committee also discussed the need for telephones to accommodate people of different heights and the possibility that telephones could be designed with either dual or adjustable keypads or that possibly the keypad could be on the handset.
 
 **Recommended question:** The committee heard comments that the function of the text telephone (TTY), when placed on the wheelchair-accessible telephone, may be problematic for two reasons. First, the installation of the lowered phone may interfere with the ability of a wheelchair user to make a forward approach to the phone with appropriate knee space; second, the use of the TTY by a standing person is ergonomically inappropriate, requiring bending or stooping while typing. Thus, the committee recommends that the Access Board ask a question whether an exception should be allowed for the TTY features to be placed on a higher phone when multiple phones are provided and that the Access Board seek input from users regarding the most usable location for the TTY features to be provided.
 
-#### X02.3.4 Public toilet facilities.
+##### X02.3.4 Public toilet facilities
 
-**X02.3.4.1 General.** Where permanent public toilet facilities are provided in the *public right-of-way*, they shall comply with Section X02.3.4.
+###### X02.3.4.1 General
+
+Where permanent public toilet facilities are provided in the *public right-of-way*, they shall comply with Section X02.3.4.
 
 **(A) Toilet compartments.** Where toilet compartments are provided, at least one shall be a wheelchair accessible compartment complying with proposed ADAAG Section 604.8.1. Where six or more toilet compartments are provided, an ambulatory accessible compartment complying with proposed ADAAG Section 604.8.2 shall be provided in addition to the compartment complying with proposed ADAAG Section 604.8.1
 
@@ -1201,9 +1252,11 @@ X02.3 Street Fixtures and Furniture
 
 **Frontier issue:** The reach ranges specified in proposed ADAAG Section 308 (referenced by Section 309) accommodate people in wheelchairs who have the upper body abilities necessary to raise their arms over their shoulders or move their upper arms away from their body. These reach ranges do not accommodate people with limited upper body abilities. The vast majority of people can reach between 40 and 42 inches. Some committee members felt that the highest operable parts of accessible controls and dispensers should be between 40 and 42 inches above the finished floor. The committee did make such a recommendation for *push buttons* and parking meter controls, but did not extend to the controls for toilet facilities in the public right -of-way. The committee suggests future work to establish a uniform recommendation on reach ranges that accommodate a broader range of persons with disabilities.
 
-**X02.3.4.2 Permanent toilet facilities.** Permanent public toilet facilities in the public right-of-way shall be accessible in accordance with proposed ADAAG Section 603 and shall provide a minimum of 48 inches (1220mm) clearance in front of the water closet.
+###### X02.3.4.2 Permanent toilet facilities
 
-#### Figure X02.3 B Clearance at Public Toilets
+Permanent public toilet facilities in the public right-of-way shall be accessible in accordance with proposed ADAAG Section 603 and shall provide a minimum of 48 inches (1220mm) clearance in front of the water closet.
+
+**Figure X02.3 B Clearance at Public Toilets**
 
 ![Plan view of a toilet stall with 48-inch clear space shown between the center front of the toilet bowl and the wall opposite.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.3B.jpg)
 
@@ -1211,11 +1264,13 @@ X02.3 Street Fixtures and Furniture
 
 **Discussion:** The committee intends that the toilets in the public right-of-way exceed toilet size in on-site facilities to allow scooter and larger power chair users to use these toilets. People with disabilities and people who are among the aging population use electric scooters more often in the outdoor environment than they do in the indoor environment. The 48-inch clearance in front of the toilet allows for an even longer clearance when the toilet is approached diagonally. This 48-inch clearance in front of the toilet is in addition to the clear floor or ground space required in front of the door to the toilet enclosure.
 
-#### X02.3.5 Fixed tables, counters and benches.
+##### X02.3.5 Fixed tables, counters and benches
 
-**X02.3.5.1 General.** Fixed tables, counters and benches shall comply with Section X02.3.
+###### X02.3.5.1 General
 
-#### X02.3.5.2 Number and type of units to be provided.
+Fixed tables, counters and benches shall comply with Section X02.3.
+
+###### X02.3.5.2 Number and type of units to be provided
 
 **(A) Tables and counters.** Where fixed tables or counters are provided in a single location, at least five percent but not less than one, shall comply with Section X02.3.5.3 for clear ground space and Section X02.3.5.4 for table and counter height.
 
@@ -1227,11 +1282,13 @@ X02.3 Street Fixtures and Furniture
 
 **Discussion:** The committee discussed the need for larger clear ground space in the public right-of-way. See discussion at Section X02.3.1.3.
 
-**X02.3.5.4 Height of tables.** The tops of tables and counters required to be accessible shall be 28 inches (710 mm) minimum to 34 inches (865 mm) maximum above the floor or ground.
+###### X02.3.5.4 Height of tables
+
+The tops of tables and counters required to be accessible shall be 28 inches (710 mm) minimum to 34 inches (865 mm) maximum above the floor or ground.
 
 **EXCEPTION:** When accessible tables are provided for children's use, the tops of tables shall be 26 inches (660 mm) minimum to 30 inches (760 mm) maximum above the floor or ground.
 
-#### Figure X02.3 C Bench with Adjacent Clear Area
+**Figure X02.3 C Bench with Adjacent Clear Area**
 
 ![Bench with adjacent clear area for wheelchair user (plan view).](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.3C.gif)
 
@@ -1245,16 +1302,21 @@ X02.3 Street Fixtures and Furniture
 
 **Discussion:** The committee agreed that there can be design solutions to the competing constraints of the maximum height of a leading edge detectable by cane and the minimum clear space a wheelchair user requires for knee room, and recommends future work on this issue . See frontier issue under Section X02.2.4.
 
-**X02.3.6 Bus stop pads and shelters.**\
+##### X02.3.6 Bus stop pads and shelters
+
 Bus stop pads and shelters shall comply with proposed ADAAG Chapter 10.
 
 **Discussion:** A route to and into a shelter and the size of a bus stop pad for the deployment of onboard lifts and ramps are already covered by existing regulations of the US Department of Transportation, the title II regulations of the US Department of Justice, and proposed ADAAG Chapter 10.
 
-**X02.3.7 Depositories, vending machines, change machines and trash receptacles.**
+##### X02.3.7 Depositories, vending machines, change machines and trash receptacles
 
-**X02.3.7.1 General.** Depositories, vending machines, change machines, trash receptacles and similar fixed equipment with operable parts shall comply with Section X02.3.7.
+###### X02.3.7.1 General
 
-**X02.3.7.2 Fixed equipment.** Where provided at a single location, at least one of each type of fixed depository, vending machine, change machine, and trash receptacle provided shall comply with proposed ADAAG Section 305, Section 308, and Section 309. The clear ground space shall not encroach into the 60-inch (1525mm) wide *pedestrian access route* by more than 24 inches (610mm).
+Depositories, vending machines, change machines, trash receptacles and similar fixed equipment with operable parts shall comply with Section X02.3.7.
+
+###### X02.3.7.2 Fixed equipment
+
+Where provided at a single location, at least one of each type of fixed depository, vending machine, change machine, and trash receptacle provided shall comply with proposed ADAAG Section 305, Section 308, and Section 309. The clear ground space shall not encroach into the 60-inch (1525mm) wide *pedestrian access route* by more than 24 inches (610mm).
 
 **EXCEPTION:** Drive-up-only depositories shall not be required to comply with this section.
 
@@ -1262,13 +1324,15 @@ Bus stop pads and shelters shall comply with proposed ADAAG Chapter 10.
 
 **Discussion:** The committee discussed the need for larger dimensions in the public right-of-way. See discussion under Section X02.3.1.3.
 
-#### X02.3.8 Street identification and other pedestrian signage.
+##### X02.3.8 Street identification and other pedestrian signage
 
-**X02.3.8.1 General.** Street identification and other *pedestrian* signage shall comply with proposed ADAAG Section 703, except as noted in Section X02.3.8.3, Section X02.3.8.4, and Section X02.3.8.5. Braille signs shall comply with proposed ADAAG Section 703.5.
+###### X02.3.8.1 General
+
+Street identification and other *pedestrian* signage shall comply with proposed ADAAG Section 703, except as noted in Section X02.3.8.3, Section X02.3.8.4, and Section X02.3.8.5. Braille signs shall comply with proposed ADAAG Section 703.5.
 
 **Discussion:** The committee is recommending some provisions for tactile signage which are more stringent than in proposed ADAAG Section 703 because, in outdoor environments, touch is frequently less sensitive due to cold. The intent is to maximize legibility of tactile signs in adverse conditions.
 
-#### X02.3.8.2 Types of signage
+###### X02.3.8.2 Types of signage
 
 **(A) Street Identification. **Street signs shall comply with requirements of Section X02.3.8.5. Where an Accessible Pedestrian Signal is provided, visual and tactile street identification complying with Section X02.3.8.3 and Braille complying with proposed ADAAG Section 703.5 is required above the *push button*.
 
@@ -1284,7 +1348,7 @@ Bus stop pads and shelters shall comply with proposed ADAAG Chapter 10.
 
 **Research need:** While the committee believes that informational and warning signs in the public right-of-way should be provided in an accessible format, there were concerns regarding methods of making that information readily accessible to individuals who are blind or visually impaired. Signs at construction barriers were of particular concern to the committee. Research is recommended to determine whether audible and/or tactile signage is appropriate, or what other methods can be used to make informational and warning signs accessible. Research in the use of geographic information systems (GIS) should include consideration of the needs of pedestrians who are visually impaired or blind and the collection of data that could provide orientation and wayfinding information.
 
-#### X02.3.8.3 Characters that are both tactile and visual.
+###### X02.3.8.3 Characters that are both tactile and visual
 
 **(A) Finish and Contrast.***Eggshell finish* shall be used for street identification and other pedestrian signage. A minimum 70 percent *visual contrast* is required.
 
@@ -1302,7 +1366,7 @@ Bus stop pads and shelters shall comply with proposed ADAAG Chapter 10.
 
 A sign usable for touch reading should not have sharp corners that can injure the fingers that must find and read them. A requirement for rounded corners was also not previously addressed in ADAAG.
 
-#### X02.3.8.4 Tactile characters.
+###### X02.3.8.4 Tactile characters
 
 **(A) Character width. **Character width shall be 60 percent minimum and 100 percent maximum (3:5 minimum and 1:1 maximum) the height of the character, with the width based on the uppercase letter "O" and the height based on the uppercase letter "I."
 
@@ -1314,13 +1378,15 @@ A sign usable for touch reading should not have sharp corners that can injure th
 
 **Discussion:** The committee agreed with most of the requirements in proposed ADAAG Section 703.3 for tactile characters. They recommend the substitute requirements above for Section 703.3.2.3, Section 703.3.2.4, and Section 703.3.2.5, as discussed above. They added a requirement regarding rounded sign corners.
 
-#### Figure X02.3 E Tactile Character Section
+**Figure X02.3 E Tactile Character Section**
 
 ![Diagrammatic section of a tactile character illustrating rounded and trapezoidal edges.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.3E.gif)
 
 *Diagrammatic section of a tactile character illustrating rounded and trapezoidal edges.*
 
-**X02.3.8.5 Visual characters.** Visual characters shall comply with proposed ADAAG Section 703.4, except the requirement in Section X02.3.8.5 (A) shall replace the requirement in proposed ADAAG Section 703.4.1.
+###### X02.3.8.5 Visual characters
+
+Visual characters shall comply with proposed ADAAG Section 703.4, except the requirement in Section X02.3.8.5 (A) shall replace the requirement in proposed ADAAG Section 703.4.1.
 
 **(A) Finish and contrast.***Eggshell finish* shall be used for street identification and other pedestrian signage. A minimum 70 percent *visual contrast* is required
 
@@ -1330,7 +1396,7 @@ A sign usable for touch reading should not have sharp corners that can injure th
 
 **Discussion:** Requirements of proposed ADAAG Section 703 for visual characters, except for those for finish and contrast, were considered appropriate by the committee. Viewing distances in the public right-of-way may be further than typical indoor situations, accordingly, character height may need to be larger to result in equivalent legibility.
 
-#### X02.3.8.6 Sign mounting locations.
+###### X02.3.8.6 Sign mounting locations
 
 **(A) Mounting height.** Mounting height for all signs that include tactile characters shall be 60 inches (1525 mm) above the finish floor to the centerline of the sign.
 
@@ -1339,13 +1405,13 @@ A sign usable for touch reading should not have sharp corners that can injure th
 1.  Bus shelters. Bus shelter signage shall be mounted on the shelter wall closest to the front of the bus, as close to the street as possible, at 60 inches (1525 mm) above the adjacent clear landing.
 2.  Bus stops. Bus stop signage where no shelter is present shall be mounted on the pole at 60 inches (1525mm) above adjacent *grade*.
 
-#### Figure X02.3 F Bus Shelter Signage
+**Figure X02.3 F Bus Shelter Signage**
 
 ![Isometric view of a bus shelter indicating the location of accessible signage at the leading (front) end of the side wall at the end where the front of the bus will stop.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.3F.gif)
 
 *Isometric view of a bus shelter indicating the location of accessible signage at the leading (front) end of the side wall at the end where the front of the bus will stop.*
 
-#### X02.3.8.7 Changeable message signs.
+###### X02.3.8.7 Changeable message signs
 
 **(A) Viewing distance.***Changeable message signs* presented using LED, LCD, flip-dot or other means shall be legible from the same distance as conventional print signs.
 
@@ -1357,11 +1423,11 @@ A sign usable for touch reading should not have sharp corners that can injure th
 
 **Research need:** Research is needed to determine specifications for changeable message signs that will result in equivalent legibility for readers having visual acuities from 20/20 to 20/200, in outdoor situations. Technical specifications are needed for changeable message signs of different types and colors, in situations in which messages are either static or dynamic, and in situations in which either the viewer or the sign are in motion.
 
-#### X02.3.8.8 Audible Signs.
+###### X02.3.8.8 Audible Signs
 
 **(A) General.** Where there are audible signs, a visual equivalent shall be provided.
 
-#### (B) Requirements for Remote Infrared Audible Sign (RIAS) Receivers.
+(B) Requirements for Remote Infrared Audible Sign (RIAS) Receivers.
 
 1.  Where personal receivers are used to make information on signs accessible to persons who are blind or who have print disabilities, basic speech messages shall be frequency modulated at 25 kHz (+/- 10 percent deviation), and shall have an infrared wavelength from 850 to 950 nanometer (nm).
 2.  Receiver shall produce a 12 decibel (dB) signal-plus-noise-to-noise ratio with a kHz modulation tone at +/- 2.5 kHz deviation of the 25 kHz subcarrier at an optical power density of 26 picowatts per square millimeter measured at the receiver photosensor aperture.
@@ -1369,7 +1435,7 @@ A sign usable for touch reading should not have sharp corners that can injure th
 4.  The receiver photo sensor aperture shall be 80 degrees in acceptance angle.
 5.  The receiver shall be designed for a high dynamic range and capable of operating in full-sun background illumination.
 
-(6) Capture of the receiver by the stronger of two signals in the receiver field of view requires a received power ratio on the order of 20dB for negligible interference; adjacent transmitter frequency tolerance of 50 Hz to 100 Hz improves the intelligibility of interfering signals.
+6.  Capture of the receiver by the stronger of two signals in the receiver field of view requires a received power ratio on the order of 20dB for negligible interference; adjacent transmitter frequency tolerance of 50 Hz to 100 Hz improves the intelligibility of interfering signals.
 
 ***Advisory:**** Transit stations and platforms are routinely used by persons who are blind. Tactile signs do not necessarily help persons who are blind to locate station entrances and exits, fare gates, fare machines, stairs and escalators, platforms, and other amenities, because tactile signs cannot be located consistently enough for persons who are blind to find them efficiently. Remote infrared audible signs are suggested as a wayfinding system because, like vision, they enable users to scan the environment (using a personal receiver) and "read messages" from a distance. They are able to provide directional and informational messages in a way that enables persons who are blind to travel as independently as persons who can read print signs.* 
 
@@ -1387,21 +1453,26 @@ A sign usable for touch reading should not have sharp corners that can injure th
 ---
 
 
-X02.4 Sidewalk/Street Transitions
+#### X02.4 Sidewalk/Street Transitions
 ---------------------------------
 
-**X02.4.1 General.**\
+##### X02.4.1 General
+
 Sidewalk/street transitions, curb ramps, transition ramps, and landings in the public right-of-way shall comply with Section X02.4.
 
 **Discussion:** In keeping with a "kit of parts" approach, the committee recommends new names for the parts of the system that transition from roadway to public sidewalk level. The new terms identify function rather than geometric orientation of the ramp. Curb ramps cut though the face of the curb, and may or may not be perpendicular to the curb line. Transition ramps transition between upper and lower landings within the public sidewalk. Some transition ramps are used to allow the public sidewalk to dip down at driveways, at intermediate locations in the block.
 
 By using this flexible kit of parts, designers can create access between public sidewalk and roadway level with a combination of approaches.
 
-**X02.4.1.1 Where required.** A curb ramp or flush landing shall be provided wherever the pedestrian access route crosses a sidewalk/street transition, including intersections, mid-block crosswalks, medians and islands traversed by crosswalks, alleys, accessible parking aisles, passenger loading zones, and locations where the public sidewalk ends and pedestrian travel continues in the roadway.
+###### X02.4.1.1 Where required
+
+A curb ramp or flush landing shall be provided wherever the pedestrian access route crosses a sidewalk/street transition, including intersections, mid-block crosswalks, medians and islands traversed by crosswalks, alleys, accessible parking aisles, passenger loading zones, and locations where the public sidewalk ends and pedestrian travel continues in the roadway.
 
 **EXCEPTION:** A curb ramp or flush landing is not required where the pedestrian access route crosses a driveway and the elevation of the pedestrian access route is maintained.
 
-**X02.4.1.2 Corners.** At any intersection in the public right-of-way that has at least one corner served by a public sidewalk or a pedestrian access route, all corners of the intersection served by a crosswalk shall have curb ramps or flush landings.
+###### X02.4.1.2 Corners
+
+At any intersection in the public right-of-way that has at least one corner served by a public sidewalk or a pedestrian access route, all corners of the intersection served by a crosswalk shall have curb ramps or flush landings.
 
 **Figure X02.4 A Curb Ramp**
 
@@ -1417,7 +1488,7 @@ By using this flexible kit of parts, designers can create access between public 
 
 **Figure X02.4 C Shared Curb Ramp**
 
-**![Shared ramp shows a single ramp used for two crossing directions.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.4C.gif)**
+![Shared ramp shows a single ramp used for two crossing directions.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.4C.gif)
 
 *Shared ramp shows a single ramp used for two crossing directions.*
 
@@ -1441,7 +1512,9 @@ By using this flexible kit of parts, designers can create access between public 
 
 **Discussion:** The committee concurred that curb ramps or flush landings were required at every corner, to eliminate the possibility of a pedestrian entering a road, traveling across the road, then finding no refuge at the other end of the crosswalk. The intent is that there be, at minimum, a landing at each corner, either at roadway level (flush landing) or sidewalk level (behind a curb ramp). If there are two curb ramps or flush landings placed on an otherwise undeveloped corner, they should be connected to each other and to any pedestrian call button, so that a pedestrian can have a refuge while deciding whether to continue on the shoulder or turn around.
 
-**X02.4.1.3 Number.** Where curb ramps or flush landings are required, there shall be a separate curb ramp or flush landing serving each direction of travel, whenever technically feasible.
+###### X02.4.1.3 Number
+
+Where curb ramps or flush landings are required, there shall be a separate curb ramp or flush landing serving each direction of travel, whenever technically feasible.
 
 **Discussion:** The committee strongly discourages the use of shared curb ramps, formerly called diagonal curb ramps, or shared flush landings , formerly called single parallel curb ramps, unless there is no alternative. No specific exceptions were agreed upon. The committee clearly did not want jurisdictions to use shared curb ramps or flush landings as a matter of course, simply because they are cheaper to install. Some of the reasons against shared curb ramps and shared flush landings are:
 
@@ -1469,7 +1542,9 @@ There are some situations in which a shared curb ramp or flush landing can be ma
 2.  Flush landings large enough such that pedestrians can easily line up with either direction of travel, and such that accessible pedestrian signal call buttons can be spaced properly.
 3.  Corners where there is basically a flush transition for the full length of the curve.
 
-**X02.4.1.4 Landings.** There shall be a landing at the top of each curb ramp. There shall be a landing at the top and at the bottom of each transition ramp. At each sidewalk/street transition where a curb ramp is not needed (for example , where the sidewalk elevation is dropped to roadway elevation), there shall be a flush landing provided at the roadway level, in the pedestrian access route. Landings may overlap with adjacent landings or a single landing may serve multiple ramps.
+###### X02.4.1.4 Landings
+
+There shall be a landing at the top of each curb ramp. There shall be a landing at the top and at the bottom of each transition ramp. At each sidewalk/street transition where a curb ramp is not needed (for example , where the sidewalk elevation is dropped to roadway elevation), there shall be a flush landing provided at the roadway level, in the pedestrian access route. Landings may overlap with adjacent landings or a single landing may serve multiple ramps.
 
 **EXCEPTION:** Where the public sidewalk or pedestrian access route elevation is lowered to cross an unsignalized driveway, landings are not required. However, successive curb ramps or transition ramps shall be separated by at least 60 inches (1525mm) in the direction of travel on the pedestrian access route.
 
@@ -1479,10 +1554,13 @@ There was considerable debate about the recommendation to require landings at th
 
 The committee found that an exception to the landings requirement was necessary for some types of driveways that cross public sidewalks. The exception is limited to driveways that lower the sidewalk elevation across the driveway opening. In many locations, it would be difficult to make the sidewalk relatively flat at each driveway. Since the pedestrian is traveling on a public sidewalk, and a driveway is a crossing of a public sidewalk, the pedestrian retains the right-of-way over the vehicle. The pedestrian is not required to stop and wait for vehicles, therefore the landing is not necessary. However, at signalized driveway crossings, where traffic volumes are greater and pedestrians are compelled to wait to cross, a landing is required for pedestrian safety.
 
-**X02.4.2 Placement.**\
+##### X02.4.2 Placement
+
 Curb ramps, transition ramps, flush landings and maneuvering spaces shall be placed in accordance with this section.
 
-**X02.4.2.1 Street interface.** The bottom of the curb ramp run, exclusive of flares, shall be wholly contained within the markings of the crosswalk or access aisle that the curb ramp serves and may not protrude beyond the curb line into the path of vehicles. Beyond the curb line, there shall be a minimum maneuvering space of 48 inches by 48 inches (1220 by 1220mm). The maneuvering space shall be wholly contained within the crosswalk and shall be wholly outside the parallel vehicular travel path. Where flush landings are provided, they shall be placed so that the expected path of a pedestrian entering the crosswalk or access aisle is wholly contained within the crosswalk or access aisle and wholly outside the parallel vehicular travel path. At passenger loading zones, the curb ramp or flush landing shall be placed in accordance with section Section X02.6.3.
+###### X02.4.2.1 Street interface
+
+The bottom of the curb ramp run, exclusive of flares, shall be wholly contained within the markings of the crosswalk or access aisle that the curb ramp serves and may not protrude beyond the curb line into the path of vehicles. Beyond the curb line, there shall be a minimum maneuvering space of 48 inches by 48 inches (1220 by 1220mm). The maneuvering space shall be wholly contained within the crosswalk and shall be wholly outside the parallel vehicular travel path. Where flush landings are provided, they shall be placed so that the expected path of a pedestrian entering the crosswalk or access aisle is wholly contained within the crosswalk or access aisle and wholly outside the parallel vehicular travel path. At passenger loading zones, the curb ramp or flush landing shall be placed in accordance with section Section X02.6.3.
 
 **EXCEPTION:** A curb ramp may project into an accessible parking aisle if the ramp does not intrude into maneuvering and unloading areas.
 
@@ -1492,15 +1570,19 @@ When a curb ramp is placed at a slight skew to the crosswalk, the same problems 
 
 Curb ramps that project into the vehicular travel path are prohibited because they are a hazard to pedestrian and vehicular travel. Projected curb ramps may result in ponding of storm water and the accumulation of ice.
 
-**X02.4.2.2 Sidewalk interface.** Curb ramps shall be wholly contained within the public sidewalk.
+###### X02.4.2.2 Sidewalk interface
 
-**X02.4.3 Directionality**. RESERVED.
+Curb ramps shall be wholly contained within the public sidewalk.
+
+##### X02.4.3 Directionality
+
+RESERVED.
 
 **Advisory:** The curb ramp should generally align with the expected path of travel to provide directionality, provided that the cross slope of the ramp does not exceed 1:48.
 
 **Figure X02.4 G Curb Ramp Directionality**
 
-**![Illustration of a curb ramp that exhibits directionality to the crosswalk and the sidewalk, while complying with warping and cross slope requirements.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5G.gif)**
+![Illustration of a curb ramp that exhibits directionality to the crosswalk and the sidewalk, while complying with warping and cross slope requirements.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5G.gif)
 
 *Illustration of a curb ramp that exhibits directionality to the crosswalk and the sidewalk, while complying with warping and cross slope requirements.*
 
@@ -1518,14 +1600,16 @@ Corners with very small corner return radii have straight sections of curb withi
 
 **Research need:** The committee identified a need for additional information and research on the use of tactile cues for directionality that do not rely on the curb ramp direction. A number of possible strategies to provide directional and alignment information to individuals who are blind or visually impaired were considered by the committee. These included tactile guidestrips, directional bar tiles, alignment of the detectable warning, and raised crosswalk lines. Tactile guide strips have been used in some locations in San Diego and San Francisco. These have been constructed of metal, concrete, or plastic and embedded in the street in the center of the crosswalk area. Directional bar tiles have lozenge shaped raised sections (similar in height to the truncated domes of detectable warnings) intended to be oriented in the direction of travel. These are used in England, Sweden and Japan. Raised crosswalk lines were also suggested, with photos presented of an example using concrete tiles to outline the crosswalk as well as a discussion of the use of thermoplastic markings. However, concerns regarding detectability and maintenance were raised, as well as concerns about the impact of such surfaces on wheelchair users.
 
-**X02.4.4 Width.**\
+##### X02.4.4 Width
+
 The clear width of a curb ramp run shall be not less than 48 inches (1220mm), excluding flares. The clear width of a transition ramp shall not be less than the width of the pedestrian access route.
 
 **Discussion:** Recognizing that the curb ramp can be a bottleneck to pedestrian flow, the minimum clear width of four feet matches the minimum 48-inch width of the pedestrian access route in several areas where exceptions to the 60-inch width are permitted. Wheelchair bases have gotten wider in recent years and three-wheeled scooter use has become more prevalent. In addition, the wider curb ramp widths allow for some wheelchair maneuvering on the curb ramp to adjust for approaching curb ramp bottoms that are skewed. Where possible, a wider ramp with a 60-inch width is encouraged to allow for two wheelchairs to pass, particularly in areas where higher wheelchair usage is prevalent. In the past, wider curb ramps raised some concern because the width of depressed curb might confuse a blind pedestrian. With the inclusion of detectable warning surfaces (see Section X02.5.7) at the foot of curb ramps, this concern is no longer significant.
 
 Transition ramps must be the width of the entire pedestrian access route to accommodate all pedestrian traffic wishing to enter the street. Since they do not have flared sides, transition ramps could introduce a tripping hazard or be undetected by pedestrians with low vision if they are not the full width of the public sidewalk. Unlike curb ramps, which can be used selectively by those pedestrians that prefer them, a transition ramp is generally used by all pedestrians. Therefore, it should be wide enough to allow for pedestrians that travel with a service animal or a pedestrian guide, and still allow for pedestrian traffic in the opposite direction to pass.
 
-**X02.4.5 Landing size.**\
+##### X02.4.5 Landing size
+
 Landings, including flush landings, shall have a minimum clear dimension of a 60-inch by 60-inch (1525 by 1525mm) square or 60-inch diameter circle. Landings may overlap with adjacent landings or a single landing may serve multiple curb ramps or transition ramps. Landings may overlap with the clear ground or floor space required at push buttons.
 
 **Discussion:** Landings provide the clear level space at the top of the curb ramp, or flush with the street behind the sidewalk/street interface, that allow space for the user to maneuver and wait. Minimum landing dimensions are derived from the need to provide a five-foot diameter turning circle. Landings need to be positioned at locations that provide the user with directional choices or where the user must wait for a suitable time to cross the street. As with the width of curb ramps, landing dimensions must provide for turning and maneuvering needs of three-wheel scooters, which have longer turning radii than wheelchairs. Landings are critical to maneuvering at curb ramps, and they allow for passing between two wheelchairs or scooters. Landings may also provide access to pedestrian signal call buttons, and must be large enough so that the pedestrian can approach the button, operate it, leave the button, and orient to the crosswalk while awaiting the signal. All of this must occur on an unobstructed level surface.
@@ -1534,7 +1618,8 @@ Utility supports and other obstructions may not be located within the minimum cl
 
 Flush landings provide a clear level space on the sidewalk, prior to entering the street, for the user to maneuver or wait.
 
-**X02.4.6 Running grade.**\
+##### X02.4.6 Running grade
+
 The maximum running grade of any portion of any curb ramp or transition ramp shall be 1:12 as measured from a level plane.
 
 **EXCEPTION:** Curb ramps and transition ramps are not required to be longer than 15 feet.
@@ -1543,7 +1628,8 @@ The maximum running grade of any portion of any curb ramp or transition ramp sha
 
 The committee discussed the fact that there are situations where a curb ramp or transition ramp would need to be greater than 15 feet in order to achieve the 1:12 grade and it would not be difficult to do so because the grade of the terrain or adjoining roadway is not steep. One example is where the sidewalk elevation is 15 inches or more above the street. Where the construction of a curb ramp or transition ramp longer than 15 feet is possible, the 15-foot limitation should not be invoked to create unnecessarily inaccessible sidewalks. The committee agreed that the limitation should apply only to curb ramps or transition ramps adjacent to roadways or terrain having a grade greater than a certain percentage, but, due to insufficient time for consideration, did not determine what that percentage should be.
 
-**X02.4.7 Cross slope and warp.**\
+##### X02.4.7 Cross slope and warp
+
 The maximum cross slope of curb ramps and transition ramps, measured perpendicular to the direction of travel, is 1:48. The maximum cross slope at landings is 1:48 in any direction. Surfaces shall generally lie in continuous planes with a minimum of surface warping.
 
 **EXCEPTION:** Where the base of the curb ramp or the edge of the flush landing must join a street with a running grade greater than 1:48, the base of the curb ramp or the edge of the flush landing may be warped to meet the street running grade.
@@ -1552,7 +1638,8 @@ The maximum cross slope of curb ramps and transition ramps, measured perpendicul
 
 **Research need:** Research is needed to indicate what maximum warp condition can be tolerated without causing a tipping hazard for pedestrians using wheelchairs, scooters, walkers or other mobility aids. Research is also recommended to develop design alternatives to minimize adverse effects on wheelchair travel from surfaces that are warped.
 
-**X02.4.8 Counter slopes.**\
+##### X02.4.8 Counter slopes
+
 The grade break between the counter slopes of gutter and/or road surfaces within 24 inches of the curb ramp and the running grade of the curb ramp shall not exceed the algebraic difference of 11 percent. If two or more plane changes are present, they shall be separated by 24 inches (455mm).
 
 **Figure X02.4 H Counter Slope Conditions**
@@ -1564,10 +1651,13 @@ The grade break between the counter slopes of gutter and/or road surfaces within
 
 Some members felt that the existing 13.33 percent limit would be adequate if constructed properly and that more enforcement, rather than stricter requirements, was necessary. Other members suggested that more research on riding surface angles and clearances under the wheelchair footrest were necessary. Some members felt that wheelchair designers and manufacturers had some obligation to produce wheelchairs that would accommodate the users needs and have the ability to safely operate in a street environment. Some recent innovations in the caster wheel design do show some promise in making wheelchairs better at negotiating grade changes.
 
-**X02.4.9 Edge conditions.**\
+##### X02.4.9 Edge conditions
+
 The edges of the public sidewalk shall comply with the requirements of this section.
 
-**X02.4.9.1 Flares.** Curb ramps located where pedestrians may walk across the curb ramp shall have flared sides. The length of the flares shall be at least ten times the curb height, measured along the curb line. Curb ramps with returned curbs shall be permitted where pedestrians would not normally walk across the curb ramp. Where a sidewalk splits, and only part goes down a transitional ramp, the split edge shall be protected with landscaping, railings, or other fixed barriers. Curbs may be used to separate landscaping or other features from landings but should not be placed so as to block permitted travel to an unimproved surface.
+###### X02.4.9.1 Flares
+
+Curb ramps located where pedestrians may walk across the curb ramp shall have flared sides. The length of the flares shall be at least ten times the curb height, measured along the curb line. Curb ramps with returned curbs shall be permitted where pedestrians would not normally walk across the curb ramp. Where a sidewalk splits, and only part goes down a transitional ramp, the split edge shall be protected with landscaping, railings, or other fixed barriers. Curbs may be used to separate landscaping or other features from landings but should not be placed so as to block permitted travel to an unimproved surface.
 
 **Discussion:** Notice that the slope of the flare is 1:10 relative to the plane of the curb, not to a level plane. In the public right-of-way, flares are not considered a part of the pedestrian access route. The 1:10 slope relative to the plane of the sidewalk is sufficient to avoid a tripping hazard, and allows the flares to be built symmetrically, even on sloping terrain. The majority of curb ramps are already built this way.
 
@@ -1579,22 +1669,30 @@ Since there is a mandatory 60-inch top landing at each curb ramp, there is no ne
 
 *Isometric view of curb ramp with sloped sides describing the required length of the slope and measurement method (10x the curb height, measured at the face of the curb).*
 
-**X02.4.9.2 Curb returns.** Curb ramps with returned curbs shall be permitted where pedestrians would not normally walk across the curb ramp.
+###### X02.4.9.2 Curb returns
+
+Curb ramps with returned curbs shall be permitted where pedestrians would not normally walk across the curb ramp.
 
 **Discussion:** Flares are not necessary where pedestrians would not be expected to cross the edges of curb ramps, such as in medians or where there is landscaping or a fixed obstruction blocking such circulation.
 
-**X02.4.9.3 Diverging grades.** Where a public sidewalk diverges, with only part becoming a *transition ramp*, the area where the surface *grades* diverge shall be protected with clearly defined surfaces such as landscaping, railings, or other fixed barriers.
+###### X02.4.9.3 Diverging grades
 
-**X02.4.9.4 Curb placement.** Curbs may be used to separate landscaping or other features from landings but should not be placed so as to block permitted travel to an unimproved surface.
+Where a public sidewalk diverges, with only part becoming a *transition ramp*, the area where the surface *grades* diverge shall be protected with clearly defined surfaces such as landscaping, railings, or other fixed barriers.
+
+###### X02.4.9.4 Curb placement
+
+Curbs may be used to separate landscaping or other features from landings but should not be placed so as to block permitted travel to an unimproved surface.
 
 **Discussion:** At some corners, there is an improved sidewalk entering from one direction, and an unimproved pedestrian path behind the curb entering from the other direction. The landings should not be built with curbing around the back that would be a barrier to travel on the unimproved surface.
 
-**X02.4.10 Surfaces.**\
+##### X02.4.10 Surfaces
+
 The surface of *curb ramps* and landings shall be stable, firm and slip resistant and shall lie generally in a continuous plane with a minimum of surface warping. Gratings, access covers and similar surfaces shall not be located on curb ramps, *transition ramps*, landings, or gutter pans at the *sidewalk/street transition*.
 
 **Discussion:** The surface requirements for curb ramps and landings in the public right-of-way are consistent with the surface requirements in proposed ADAAG.
 
-**X02.4.11 Vertical grade breaks and lips.**\
+##### X02.4.11 Vertical grade breaks and lips
+
 There shall be no vertical change in level on a *curb ramp* or *transition ramp*, on a *flare*, in a landing, in the gutter pan at a *sidewalk/street transition*, or between curb ramps, flares, landings, gutter pans, and adjacent *public sidewalk* and road elements.
 
 **Discussion:** This proposed standard prohibits vertical changes in level in other transitional areas such as flare/ramp, flare/sidewalk, ramp/landing, ramp/sidewalk, landing/sidewalk, and gutter/pavement. All connections must be flush, within reasonable construction tolerances.
@@ -1603,19 +1701,23 @@ Vertical changes in level at the base of curb ramps and landings , called "lips"
 
 **Research need: **Research is needed to develop design alternatives to minimize the adverse effect on wheelchair travel of surfaces that contain grade breaks.
 
-**X02.4.12 Detectable warnings.**\
+##### X02.4.12 Detectable warnings
+
 *Sidewalk/street transitions* shall have a *detectable warning* complying with Section X02.5.7.
 
 **EXCEPTION:** Detectable warnings shall not be provided where the sidewalk/street transition occurs at an unsignalized *driveway*.
 
 **Discussion:** The committee recognized that some currently manufactured detectable warning products cannot be installed on warped surfaces or surfaces with grade breaks. The industry will need to accept the challenge to develop detectable warning surface materials that will be usable in non-planar applications.
 
-**X02.4.13 Vehicular obstructions.**\
+##### X02.4.13 Vehicular obstructions
+
 *Curb ramps* and *flush landings* shall be located or protected so that legally parked vehicles do not obstruct the *pedestrian access route*.
 
 **Discussion:** It was agreed that there is a need for a provision related to preventing the obstruction of the pedestrian access route by legally parked cars. The recommended provision is consistent with Interim Final Rule section 14.2.4. Public agencies should consider lengthening the no parking zone adjacent to a crosswalk, since wheelchair users and people of short stature may be hidden from a motorist's view by parked cars.
 
-**X02.4.14 Curb type.** Reserved.
+##### X02.4.14 Curb type
+
+Reserved.
 
 **Frontier issue:** The committee discussed and wishes to add the following proposal to the list of frontier issues: To aid in the protection of all pedestrians at intersection corners, and to make intersection geometry more cane detectable, the committee suggests that where rolled or "rollover" curb sections are proposed in new construction, a transition be provided from the rolled curb section to a barrier or vertical curb section of at least the same height and running the entire return of the curb return, and within 10 feet of the edge of each curb ramp (excluding *flares*) or the flush street transition.
 
@@ -1623,14 +1725,17 @@ Vertical changes in level at the base of curb ramps and landings , called "lips"
 ---
 
 
-X02.5 Pedestrian Street Crossings
----------------------------------
+#### X02.5 Pedestrian Street Crossings
 
-#### X02.5.1 Pedestrian signal push buttons.
+##### X02.5.1 Pedestrian signal push buttons
 
-**X02.5.1.1 General.** Where new traffic signals with *pedestrian* controls are installed, they shall comply with this section.
+###### X02.5.1.1 General
 
-**X02.5.1.2 Features.***Push buttons* shall have the following features.
+Where new traffic signals with *pedestrian* controls are installed, they shall comply with this section.
+
+###### X02.5.1.2 Features
+
+*Push buttons* shall have the following features.
 
 **(A) Size.** Push buttons shall be a minimum of 2 inches (51mm) across in at least one dimension.
 
@@ -1650,7 +1755,9 @@ X02.5 Pedestrian Street Crossings
 
 **Discussion:** These specifications are intended to make pedestrian push buttons accessible. The recommended change to a reduced maximum operating force is based in part, on the preamble to proposed ADAAG309 Operable Parts (p 62262, 2nd col): "Information indicates that most control buttons of keys can meet a 3.5 maximum pounds of force and a maximum stroke depth of 1/10 inches." The closed fist requirement is based on the Access Board's design guidelines: "Devices that can be operated by a closed fist acting on any point on the surface will be most usable by pedestrians who have mobility impairments." The provision of visual contrast and a locator tone enable blind or visually impaired pedestrians to locate the push button. The visible and audible indicator informs both visually impaired and sighted individuals that the request for a walk signal has been received.
 
-**X02.5.1.3 Push button location.** The location of *push buttons* shall be in accordance with the following minimum requirements.
+###### X02.5.1.3 Push button location
+
+The location of *push buttons* shall be in accordance with the following minimum requirements.
 
 **(A) Adjacent to landing.** The push button shall be mounted adjacent to a clear ground space or a landing on the *pedestrian access route* leading to the *crosswalk*. The clear ground space shall be at least 32 inches by 54 inches (815 by 1370mm), shall slope no more than 1:48 in any direction, and shall be provided with a stable, firm and slip resistant surface from which to operate controls. This clear ground space may overlap entirely with the pedestrian access route.
 
@@ -1670,18 +1777,18 @@ X02.5 Pedestrian Street Crossings
 
 **EXCEPTION:** If the requirement for separation cannot be met due to location requirements (A) through (G), two accessible pedestrian signal-related push buttons may be installed on a single pole. If installed on the same pole, the APS must be equipped to provide speech-transmitted data or other technology that delivers an unambiguous message about which crosswalk has the walk signal indication.
 
-#### Figure X02.5 A Curb Ramp APS Zones
+**Figure X02.5 A Curb Ramp APS Zones**
 
 ![Curb ramps at an intersection with APS zones indicated in plan.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5A.gif)*\
 Curb ramps at an intersection with APS zones indicated **in plan.*
 
-#### Figure X02.5 B Transition Ramp APS Zones
+**Figure X02.5 B Transition Ramp APS Zones**
 
 ![Transition ramps at an intersection with APS zones indicated in plan.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5B.gif)
 
 *Transition ramps at an intersection with APS zones indicated in plan.*
 
-#### Figure X02.5 C Shared Curb Ramp APS Zones
+**Figure X02.5 C Shared Curb Ramp APS Zones**
 
 ![Shared ramp at an intersection with APS zones indicated in plan.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5C.gif)
 
@@ -1689,13 +1796,13 @@ Curb ramps at an intersection with APS zones indicated **in plan.*
 
 **Discussion:** Requirements for push button location were discussed in detail by the subcommittee and are essentially the same as requirements proposed by FHWA for inclusion in the Manual on Uniform Traffic Control Devices (MUTCD) in December 1999. The committee's intent is to standardize some elements of pedestrian push button location to make the push button more accessible to pedestrians who are blind or who have vision impairments. Locating the pedestrian push buttons at some distance from the crosswalk, which is common now, makes it difficult for a pedestrian, particularly a blind pedestrian or a pedestrian using a mobility aid, to push the button and return to the crosswalk location in time for the walk phase. Users of wheelchairs and mobility aids need to be able to push the button from a level surface. The control face of the push button or the push button housing will include a tactile arrow to inform a blind pedestrian about the direction of the crosswalk, so the location and direction of the control must be aligned with the crosswalk. Since the APS will provide an audible indication of the walk interval from the pedestrian push button, the blind pedestrian must be able to discern which signal is sounding at each phase. This is much harder if both APS are on the same pole, since using only different tones to distinguish the directions is prohibited in Section X02.5.2.2 (A). The separation is intended to allow the blind pedestrian to determine which APS is sounding through sound localization while standing at the curb preparing to cross the street. While the separation is not required for call buttons that are not associated with an APS or locator tone, routinely separating the call buttons will result in a more uniform and predictable location, and will facilitate future APS and/or locator tone installation.
 
-#### X02.5.1.4 Push Button Signage.
+###### X02.5.1.4 Push Button Signage
 
 **(A) Tactile arrow.** Where there is a *push button*, there shall be a tactile arrow pointing in the direction of pedestrian travel controlled by the button. The arrow shall be raised at least 1/32 inch (0.8 mm), 1 1/2 inches (38mm) in length. Stroke width shall be between 10 percent minimum and 15 percent maximum the length of the arrow. The arrowhead shall be open and at 45 degrees to the shaft. The arrowhead shall be no more than 33 percent of the length of the arrow shaft.
 
 ***Advisory:****If the curb ramp is not aligned with the crosswalk, the arrow will point in the direction of travel, not in the direction of the curb ramp orientation.*
 
-#### Figure X02.5 D Tactile Arrow
+**Figure X02.5 D Tactile Arrow**
 
 ![Diagrammatic view of arrow illustrating proportional relationships.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5D.gif)
 
@@ -1703,7 +1810,7 @@ Curb ramps at an intersection with APS zones indicated **in plan.*
 
 **(B) Universal symbol.** Controls are to include a universal tactile and visual symbol (if established by the Access Board) that will go on or at the push button indicating the presence or absence of an accessible pedestrian signal at a *crosswalk*.
 
-#### Figure X02.5 E APS Symbol
+**Figure X02.5 E APS Symbol**
 
 ![Diagram of three Braille dots forming an equilateral triangle centered on the face of a 2" push button.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5E.gif)
 
@@ -1723,7 +1830,9 @@ Curb ramps at an intersection with APS zones indicated **in plan.*
 
 ***Advisory:****The above elements should be arranged at a push button as follows : symbol on the push button, arrow on or immediately above the push button, and signage above the arrow.*
 
-**X02.5.1.5 Locator tone**. Where provided, *locator tones *shall meet the following requirements.
+###### X02.5.1.5 Locator tone
+
+Where provided, *locator tones *shall meet the following requirements.
 
 **(A) Volume.** Volume of the locator tone shall be at least 2 dB and no more than 5 dB greater than the ambient noise level and shall be responsive to level changes. At installation, signal system is to be adjusted to be audible at no more than 5 to 12 feet (1.5 - 3.7m) from the system or at building line, whichever is closer.
 
@@ -1741,9 +1850,11 @@ Curb ramps at an intersection with APS zones indicated **in plan.*
 
 **Research need:** A variety of tones are currently utilized as locator tones. The above specifications describe the repetition rate of the tone, however the exact nature of the tone is not specified. Research is recommended to determine the most localizable tone in the presence of traffic sounds.
 
-#### X02.5.2 Accessible pedestrian signals (APS).
+##### X02.5.2 Accessible pedestrian signals (APS)
 
-**X02.5.2.1 General.** Where new traffic signals are installed, *accessible pedestrian signals (APS)* shall be provided when any of the following conditions are present:
+###### X02.5.2.1 General
+
+Where new traffic signals are installed, *accessible pedestrian signals (APS)* shall be provided when any of the following conditions are present:
 
 **(A) Actuation.** An accessible pedestrian signal shall be provided where the timing of pedestrian phases is affected by *push button* actuation.
 
@@ -1755,7 +1866,9 @@ Curb ramps at an intersection with APS zones indicated **in plan.*
 
 **Discussion:** The primary technique that people who are blind or visually impaired have used to cross streets at signalized locations is to initiate their crossing when they hear the traffic alongside them begin to move, corresponding to the onset of the green interval. The effectiveness of this technique has been reduced by several factors including: increasingly quiet cars, the availability of right turn on red (which masks the beginning of the through phase), complex signal operations and wide streets. Further, low traffic volumes make it difficult for pedestrians who are blind or visually impaired to discern signal phase changes. The increasing use of actuated signals, at which the pedestrian must push a button and cross during the pedestrian phase, requires blind pedestrians to locate the pedestrian push button and to cross only at the proper time during that phase. These changes in signalization make it necessary to provide the pedestrian signal information in an accessible format. In responding to a request for an accessible pedestrian signal at an existing intersection, the jurisdiction may find it useful to work closely with the blind pedestrian(s) who will be using the intersection and with an orientation and mobility specialist.
 
-**X02.5.2.2 Required features.** Where *accessible pedestrian signals* are provided, they shall comply with the following requirements.
+###### X02.5.2.2 Required features
+
+Where *accessible pedestrian signals* are provided, they shall comply with the following requirements.
 
 **(A) Crosswalk indication.** Accessible pedestrian signals shall clearly indicate which *crosswalk* has the walk interval. The use of two different tones as sole indication of which crosswalk has the walk interval is not permitted.
 
@@ -1783,7 +1896,7 @@ Where the APS provides signal information using tones, the tone shall consist of
 
 ***Advisory:****The APS specifications and sound levels recommended here are intended to provide precise information about the onset of the walk interval. Using special actuation as specified below, they may also function as audible beacons, giving assistance in alignment and crossing within the crosswalk.*
 
-#### X02.5.2.3 Optional Features.
+###### X02.5.2.3 Optional Features
 
 **(A) Prolonged push button press.** Additional features which may be required to make a specific intersection accessible shall be brought up by a prolonged press of the *push button*.
 
@@ -1805,27 +1918,39 @@ While sound beaconing is an alternative that may assist a blind pedestrian in al
 
 **Research need:** A variety of tones, speech messages, or melodies are currently utilized to indicate the walk interval. Research is recommended to determine the most localizable tone in the presence of traffic sounds. The committee felt there was enough information to provide basic specifications for the walk interval tones. Research now being conducted by the National Institutes of Health on accessible pedestrian signals will compare usability of overhead and pedestrian button mounted speakers for orientation and alignment and provide additional information regarding the use of tones, speech messages, or alternating signals for localization.
 
-#### X02.5.3 Other pedestrian signals and timing controls.
+##### X02.5.3 Other pedestrian signals and timing controls
 
-**X02.5.3.1** Other *pedestrian* signals and timing controls not specifically described elsewhere shall comply with the requirements of this section.
+###### X02.5.3.1 General
+
+Other *pedestrian* signals and timing controls not specifically described elsewhere shall comply with the requirements of this section.
 
 ***Advisory:** When a dedicated phase for left-turning auto traffic precedes the through movement and the walk interval, it increases the difficulty for persons using auditory cues to accurately determine the appropriate time to start crossing. It is easier to determine the appropriate time to start when the through movement occurs first and the left-turning movement afterward.*
 
-**X02.5.3.2 Mid-block crosswalks.** Reserved.
+###### X02.5.3.2 Mid-block crosswalks
+
+Reserved.
 
 **Research need:** The committee had a lengthy discussion about how best to notify blind and visually impaired pedestrians of the availability of a mid-block crosswalk. The committee discussed requiring a push button with a locator tone at mid-block unsignalized crosswalks. The button would initiate a speech message notifying the user of the unsignalized condition. However, the committee was concerned about diluting the meaning of a locator tone. The committee decided that a guidance surface would be preferable to a locator tone. However, at this time the information necessary to fully specify the texture, placement, material, contrast or other characteristics of guidance surfaces is not available. As this research is completed, requirement for a detectable surface may be appropriate.
 
-**X02.5.3.3 Near side pedestrian signals. **Reserved.
+###### X02.5.3.3 Near side pedestrian signals
+
+Reserved.
 
 **Discussion:** Providing pedestrian signal indication on the near side of the crosswalk is of direct benefit to persons with low vision and to persons benefited by redundancies. Use of larger devices and signage which is visible at near side curbs is encouraged.
 
-#### X02.5.4 Crosswalks
+##### X02.5.4 Crosswalks
 
-**X02.5.4.1 General.** Where provided, *crosswalks* shall comply with the following requirements.
+###### X02.5.4.1 General
 
-**X02.5.4.2 Cross slope.** The *cross slope* of crosswalks, at either marked or unmarked locations, shall be not more than 1:48 measured perpendicular to the direction of *pedestrian* travel.
+Where provided, *crosswalks* shall comply with the following requirements.
 
-**X02.5.4.3 Running grade.** The *running grade* of crosswalks, at either marked or unmarked locations, shall be not more than 1:20 (5 percent) in the direction of pedestrian travel in the crosswalk.
+###### X02.5.4.2 Cross slope
+
+The *cross slope* of crosswalks, at either marked or unmarked locations, shall be not more than 1:48 measured perpendicular to the direction of *pedestrian* travel.
+
+###### X02.5.4.3 Running grade
+
+The *running grade* of crosswalks, at either marked or unmarked locations, shall be not more than 1:20 (5 percent) in the direction of pedestrian travel in the crosswalk.
 
 **Discussion:** It is not uncommon for streets to be constructed with constant profile grades up to 9 percent or 10 percent. This standard requires reduction of these profile grades to 2 percent at both marked and unmarked crosswalks. It applies wherever applicable law defines a crosswalk. Street design will need to include a "tabled" area at locations of crosswalks (generally at intersections) that provides 2 percent or less grade at the intersection. Transitions into and out of the intersection can be accomplished with vertical curves in the street profile.
 
@@ -1833,23 +1958,31 @@ In addition, superelevation (or banking) can result in steeper cross slopes. The
 
 Cross slope increases the difficulty and amount of energy expended by a person in a wheelchair. Often cross slope is harder to negotiate than running grade. At more than 1:48, a person in a manual wheelchair will be pushing forward on the downhill wheel and braking with the uphill wheel to keep the chair from turning downhill. A study by the Veterans Administration published in the Journal of Rehabilitation Research and Development in 1986 (Vol. 23, no. 2) indicates that a person on a level, smooth surface in a good quality chair with precision bearings will expend four times as much energy traveling 100 feet as a person walking the same distance, and that a 3 percent cross slope requires 50 percent more effort than a 2 percent cross slope.
 
-**X02.5.4.4 Markings.***Crosswalks* at signalized intersections shall be marked on the roadway with pavement markings.
+###### X02.5.4.4 Markings
+
+*Crosswalks* at signalized intersections shall be marked on the roadway with pavement markings.
 
 ***Advisory:**** Crosswalk markings are especially important to pedestrians with low vision and pedestrians with cognitive disabilities. Consider marking crosswalks at unsignalized locations in any case where pedestrians and/or motorists need additional cues about the safest location for crossing.*
 
 **Discussion:** The committee would have liked to recommend requiring crosswalk markings at every crosswalk, whether signalized or not, but some research indicates that crosswalk markings at unsignalized crosswalks can reduce safety for pedestrians. Although it seems likely that safety would be increased if all crosswalks were marked, the committee concluded that putting this requirement in the recommendation would be likely to generate an undesirable level of controversy.
 
-**X02.5.4.5 Width.** Crosswalks shall be at least 8 feet wide
+###### X02.5.4.5 Width
+
+Crosswalks shall be at least 8 feet wide.
 
 ***Advisory:**** The minimum width of the crosswalk should be measured from inside edge to inside edge in the case of parallel crosswalk markings or any markings that use parallel bordering lines, and from outside edge to outside edge in the case of piano key crosswalk markings or any other markings that do not use parallel bordering lines.*
 
 **Discussion:** The MUTCD requires a minimum of 6 feet of width for a crosswalk. Since blind, visually impaired and wheelchair users must pass each other in a crosswalk in an environment that demands rapid crossing times in vehicular controlled spaces, it is important for crosswalks to provide adequate width so quick and easy passing occurs without delaying clearance of the crosswalk.
 
-#### X02.5.5 Crossing times.
+##### X02.5.5 Crossing times
 
-**X02.5.5.1 General.** Pedestrian crossing intervals shall be calculated in compliance with the following requirements.
+###### X02.5.5.1 General
 
-**X02.5.5.2 Pedestrian walk speed.** All *pedestrian* signal phase timing shall be calculated using a pedestrian walk speed of 3.5 feet per second (1.1 m/s) or less.
+Pedestrian crossing intervals shall be calculated in compliance with the following requirements.
+
+###### X02.5.5.2 Pedestrian walk speed
+
+All *pedestrian* signal phase timing shall be calculated using a pedestrian walk speed of 3.5 feet per second (1.1 m/s) or less.
 
 ***Advisory:**** Designers should consider extending the time for pedestrian crossing beyond the calculated requirement if any of the following factors are present: running grade of the crosswalk greater than 1:20; cross slope of the crosswalk greater than 1:48; or crosswalk length greater than 50 feet with no intermediate pedestrian refuges.*
 
@@ -1857,17 +1990,21 @@ Cross slope increases the difficulty and amount of energy expended by a person i
 
 **Discussion:** The committee recognized that the current standard for rate of pedestrian travel in a crosswalk is 4 feet per second, but was unconvinced that this rate is representative of the general population, particularly persons with disabilities. Many people with mobility impairments can move at only very slow speeds; a rate of about 1.5 feet per second on level ground. The committee understood that some jurisdictions are considering changing the rate used for calculating crossing timing from 4 feet per second to 2.5 feet per second. Recognizing that extending crossing times for pedestrians will have impacts on traffic flow, the committee wishes to encourage the use of flexible systems that respond to demand for extended crossing times, either through passive detection or the use of a long button press.
 
-**X02.5.5.3 Length of crosswalk defined.** The total crosswalk distance used in calculating pedestrian signal phase timing shall include the entire length of the crosswalk plus the length of one *curb ramp*.
+###### X02.5.5.3 Length of crosswalk defined
+
+The total crosswalk distance used in calculating pedestrian signal phase timing shall include the entire length of the crosswalk plus the length of one *curb ramp*.
 
 **EXCEPTION:** If the crosswalk has an APS signal, the starting point of the overall crosswalk length used for timing calculation is to extend to the vibrotactile signal pad or to the top of the curb ramp, whichever results in the longer distance.
 
 **Discussion:** One reason for providing a level landing at the top of a curb ramp is so that pedestrians using wheelchairs or other mobility aids can safely wait for the walk interval, since waiting on the running grade of the curb ramp is not safe. It follows that this additional distance must be included in the length of the crosswalk used in calculating the pedestrian crossing interval.
 
-#### X02.5.6 Medians and pedestrian refuge islands.
+##### X02.5.6 Medians and pedestrian refuge islands
 
-**X02.5.6.1 General.** Raised medians and pedestrian refuge islands in *crosswalks* shall be cut through level with the street or have *curb ramps *complying with Section X02.4 at both sides. If cut through, there shall be a *flush landing* within the cut and the edges of the cut shall be aligned perpendicular to the street being crossed, or parallel to the direction of the *pedestrian access route* if the pedestrian access route is not perpendicular to the street. Where curb ramps are used there shall be a landing at the top of the curb ramp in the part of the *island* intersected by the crosswalks.
+###### X02.5.6.1 General
 
-#### Figure X02.5 F Raised Island Landing
+Raised medians and pedestrian refuge islands in *crosswalks* shall be cut through level with the street or have *curb ramps *complying with Section X02.4 at both sides. If cut through, there shall be a *flush landing* within the cut and the edges of the cut shall be aligned perpendicular to the street being crossed, or parallel to the direction of the *pedestrian access route* if the pedestrian access route is not perpendicular to the street. Where curb ramps are used there shall be a landing at the top of the curb ramp in the part of the *island* intersected by the crosswalks.
+
+**Figure X02.5 F Raised Island Landing**
 
 ![Partial plan view of an island with a landing 60 inches by 60 inches.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5F.gif)
 
@@ -1875,23 +2012,29 @@ Cross slope increases the difficulty and amount of energy expended by a person i
 
 **Discussion:** Adequate stopping, queuing and passing places are necessary in mid-street pedestrian refuge locations. A five foot by five foot space is the minimum required for two persons traveling opposite directions to wait, out of the street, for opportunities to continue crossing the street.
 
-**X02.5.6.2 Detectable Warnings.** Curb ramps at medians and refuge islands, and locations where medians and refuge islands are cut through level with the street at crosswalks, shall have *detectable warnings* complying with Section X02.5.7.
+###### X02.5.6.2 Detectable Warnings
 
-#### X02.5.7 Detectable warnings
+Curb ramps at medians and refuge islands, and locations where medians and refuge islands are cut through level with the street at crosswalks, shall have *detectable warnings* complying with Section X02.5.7.
 
-**X02.5.7.1 General.** Where required, *detectable warnings* shall comply with Section X02.5.7.
+##### X02.5.7 Detectable warnings
 
-**X02.5.7.2 Application.** Detectable warnings shall be provided *only* at the following locations:
+###### X02.5.7.1 General
+
+Where required, *detectable warnings* shall comply with Section X02.5.7.
+
+###### X02.5.7.2 Application
+
+Detectable warnings shall be provided *only* at the following locations:
 
 **(A)** Where a sidewalk crosses a vehicular way, excluding unsignalized *driveway* crossings.
 
-#### Figure X02.5 G Detectable Warning at Curb Ramp
+**Figure X02.5 G Detectable Warning at Curb Ramp**
 
 ![Illustrates 24" deep detectable warning located near the street edge of the curb ramp.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5G.gif)
 
 *Illustrates 24" deep detectable warning located near the street edge of the curb ramp.*
 
-#### Figure X02.5 H Transition Ramp with Detectable Warning
+**Figure X02.5 H Transition Ramp with Detectable Warning**
 
 ![Shows detectable warning at a transition ramp.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5H.gif)
 
@@ -1907,7 +2050,7 @@ Cross slope increases the difficulty and amount of energy expended by a person i
 ![Shows detectable warning at blended curb](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5J.gif)\
 *Shows detectable warning at blended curb.*
 
-#### Figure X02.5 K Detectable Warnings at Multi-Use Path
+**Figure X02.5 K Detectable Warnings at Multi-Use Path**
 
 ![Plan view of a multi-use path and road intersection. Detectable warnings are indicated at the intersection.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5K.gif)
 
@@ -1915,7 +2058,7 @@ Cross slope increases the difficulty and amount of energy expended by a person i
 
 **(B)** Where a rail system crosses *pedestrian* facilities that are not shared with vehicular ways.
 
-#### Figure X02.5 L Detectable Warnings at Railroad Crossing
+**Figure X02.5 L Detectable Warnings at Railroad Crossing**
 
 ![Plan view of detectable warnings at a railroad crossing.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5L.gif)
 
@@ -1925,7 +2068,7 @@ Cross slope increases the difficulty and amount of energy expended by a person i
 
 **(D)** At islands and medians that are cut through level with the roadway.
 
-#### Figure X02.5 M Refuge Island with Detectable Warnings
+**Figure X02.5 M Refuge Island with Detectable Warnings**
 
 ![Plan view of pedestrian passage that cuts through a refuge island at the same level as the street. Detectable warnings are shown at each end of the cuts.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5M.gif)
 
@@ -1937,7 +2080,7 @@ Cross slope increases the difficulty and amount of energy expended by a person i
 
 **Discussion:** The detectable warning is a unique and standardized surface intended to function much like a stop sign to alert pedestrians who are blind or visually impaired to the presence of hazards in the line of travel. The truncated dome surface should not be used for wayfinding or directional information. The removal of curbs, which provided a clearly defined indication of the location of the edge of the street, has caused difficulty for individuals who are blind or visually impaired. The locations above were identified by the committee as being appropriate for the installation of detectable warnings. Detectable warnings are not required at unsignalized driveways based on comments to the committee that installation at driveways would make it harder to truly identify the streets.
 
-#### X02.5.7.3 Specifications.
+###### X02.5.7.3 Specifications
 
 **(A) Size.** Detectable warnings shall be 24 inches (610mm) in the direction of travel and extend the full width of the *curb ramp* or flush surface.
 
@@ -1953,13 +2096,13 @@ A few committee members did not fully support this recommendation, feeling there
 
 **(C) Dome size and spacing.** Truncated domes shall have a diameter of 0.9 inch (23 mm) at the bottom, a diameter of 0.4 inch (10 mm) at the top, a height of 0.2 inch (5 mm) and a center-to-center spacing of 2.35 inches (60 mm) measured along one side of a square arrangement.
 
-#### **Figure X02.5 N Dome Section**
+**Figure X02.5 N Dome Section**
 
 ![Section of dome from a detectable warning. Drawing shows height, top and bottom dimensions.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5N.gif)
 
 *Section of dome from a detectable warning. Drawing shows height, top and bottom dimensions.*
 
-#### Figure X02.5 O Dome Spacing
+**Figure X02.5 O Dome Spacing**
 
 ![Plan and section views of detectable warning domes and their relative spacing on the x and y axis.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5O.gif)
 
@@ -1971,7 +2114,7 @@ A few members of the committee felt that there needed to be more flexibility in 
 
 **(D) Dome alignment.** Domes shall be aligned on a square grid in the predominant direction of travel to permit wheels to roll between domes.
 
-#### Figure X02.5 P Dome Alignment
+**Figure X02.5 P Dome Alignment**
 
 ![Plan view of a detectable warning surface showing domes aligned in rows, not skewed diagonally.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5P.gif)
 
@@ -1991,17 +2134,27 @@ Some members of the committee noted that safety yellow is not conspicuous to man
 
 **Research need:** The committee encourages the transportation industry to broaden its testing of color and contrast of typical construction materials and to include pedestrians with vision impairments in the development of standards. Work performed at The Lighthouse in New York City and research by Bentzen et al. (1994) can provide a useful basis for future research.
 
-#### X02.5.8 Pedestrian Overpasses and Underpasses
+##### X02.5.8 Pedestrian Overpasses and Underpasses
 
-**X02.5.8.1 General.** Where pedestrian overpasses and underpasses are provided to cross public rights-of-ways, each shall meet the requirements set forth in this section.
+###### X02.5.8.1 General
 
-**X02.5.8.2****Pedestrian access route.** Where pedestrian overpasses and underpasses are provided as a primary means to cross a street, they must have continuous *pedestrian access routes* and shall provide an accessible connection to adjacent pedestrian facilities. When the continuous pedestrian access route of an overpass or underpass requires a *ramp* (i.e. with a *grade* greater than 1:20) and the vertical rise is greater than five feet, an elevator complying with proposed ADAAG Section 407.2 is required.
+Where pedestrian overpasses and underpasses are provided to cross public rights-of-ways, each shall meet the requirements set forth in this section.
 
-**X02.5.8.3 Stairs.** Stairs, when provided, shall comply with proposed ADAAG Section 504.
+###### X02.5.8.2****Pedestrian access route
 
-**X02.5.8.4 Signs.** Signs, where provided, shall be both tactile and visual and shall comply with proposed ADAAG Section 703.2.
+Where pedestrian overpasses and underpasses are provided as a primary means to cross a street, they must have continuous *pedestrian access routes* and shall provide an accessible connection to adjacent pedestrian facilities. When the continuous pedestrian access route of an overpass or underpass requires a *ramp* (i.e. with a *grade* greater than 1:20) and the vertical rise is greater than five feet, an elevator complying with proposed ADAAG Section 407.2 is required.
 
-**X02.5.8.5 Lighting. **Reserved.
+###### X02.5.8.3 Stairs
+
+Stairs, when provided, shall comply with proposed ADAAG Section 504.
+
+###### X02.5.8.4 Signs
+
+Signs, where provided, shall be both tactile and visual and shall comply with proposed ADAAG Section 703.2.
+
+###### X02.5.8.5 Lighting
+
+Reserved.
 
 ***Advisory:****When artificial lighting is used to illuminate a pedestrian underpass, variable level lighting should be considered to maximize accessibility for persons with low vision. The difference between external lighting conditions and those in the overpass or underpass should be limited. Extreme differences in illumination levels can result in temporarily blinding individuals whose eyes adapt slowly to lighting changes.*
 
@@ -2009,9 +2162,11 @@ Some members of the committee noted that safety yellow is not conspicuous to man
 
 The committee discussed the problems associated with current overpass/underpass designs. Although they may be designed in compliance with proposed ADAAG Section 405, the length of travel required uphill is simply beyond many users' abilities.
 
-#### X02.5.9 Roundabouts.
+##### X02.5.9 Roundabouts.
 
-**X02.5.9.1 General.** Where marked or unmarked pedestrian *crosswalks* are provided at roundabouts, each shall meet the requirements set forth in this section.
+###### X02.5.9.1 General
+
+Where marked or unmarked pedestrian *crosswalks* are provided at roundabouts, each shall meet the requirements set forth in this section.
 
 **(A) Separation.** Continuous shrubbery, planters, landscaping, guardrails or other barriers shall be provided along the street side of the *public sidewalk* where pedestrian crossing is prohibited. Where railings are used they shall have a bottom rail no more than 15 inches (380mm) above the pedestrian access route so as to be detectable by cane in time to prevent street entry.
 
@@ -2033,9 +2188,11 @@ Pedestrians report that vehicles at roundabouts, right slip lanes, and other uns
 
 **Recommended question:** The committee distinguished between a roundabout (typically a larger, total intersection design) and a neighborhood traffic circle (typically a small circle installed within the confines of an existing intersection). The committee limited its recommendations to roundabouts, since those traffic configurations appear to be the most complex and provide the most difficulty for pedestrians with disabilities to cross. However, the committee recommends that the Board ask a question inquiring whether the same mobility problems that are present at large roundabouts also pose similar problems at smaller neighborhood traffic circles.
 
-**X02.5.10****Turn lanes at intersections.**
+##### X02.5.10 Turn lanes at intersections
 
-**X02.5.10.1 General.** Where marked or unmarked pedestrian *crosswalks* are provided at right or left turn slip lanes, each shall meet the requirements set forth in this section.
+######X02.5.10.1 General
+
+Where marked or unmarked pedestrian *crosswalks* are provided at right or left turn slip lanes, each shall meet the requirements set forth in this section.
 
 **(A) Cue.** A cue shall be provided to allow blind and visually impaired pedestrians to locate the crosswalk.
 
@@ -2051,12 +2208,11 @@ Pedestrians report that vehicles at roundabouts, right slip lanes, and other uns
 ---
 
 
-X02.6 Vehicular Ways and Facilities
------------------------------------
+#### X02.6 Vehicular Ways and Facilities
 
-#### X02.6.1 On-street parking.
+##### X02.6.1 On-street parking
 
-#### X02.6.1.1 Minimum number required.
+###### X02.6.1.1 Minimum number required
 
 **(A) Accessible spaces.** Where on-street public convenience parking is provided in commercial districts and at civic facilities, accessible on-street parking spaces shall be included in the total provided in the project or project area in accordance with proposed ADAAG Section 208.2 and shall be dispersed within the project area.
 
@@ -2066,7 +2222,9 @@ X02.6 Vehicular Ways and Facilities
 
 **Discussion:** A vast amount of public parking in urban areas is located along public streets and within the public right-of-way. A portion of this parking needs to be accessible. For consistency, the committee agreed to use the same ratios as are already in use for parking lots.
 
-**X02.6.1.2 Location.** Accessible spaces and van accessible spaces shall be dispersed within the project area and shall be provided at locations with minimum street and sidewalk slope to the extent this is consistent with reasonable dispersion within the area.
+###### X02.6.1.2 Location
+
+Accessible spaces and van accessible spaces shall be dispersed within the project area and shall be provided at locations with minimum street and sidewalk slope to the extent this is consistent with reasonable dispersion within the area.
 
 **EXCEPTIONS**:\
 1\. Accessible on-street spaces shall be permitted to be clustered if equivalent or greater access is provided, with respect to distance from an accessible entrance, user cost, and convenience.
@@ -2075,96 +2233,137 @@ X02.6 Vehicular Ways and Facilities
 
 ***Advisory:** The placement of accessible on-street parking spaces should take into account the type and composition of buildings and facilities located within the project area that is served by the on-street parking. Typically, no single site is served and therefore, parking should be dispersed throughout the project area. When accessible parking is dispersed within the project area, the spaces should be located in close proximity to the entrances of buildings or facilities located within the project area. In select circumstances, a project area may contain only one or two buildings within a project area (example: a municipal library that encompasses an entire city block, with only one public entrance), in which case the accessible parking spaces are permitted to be clustered together at the single entrance in order to provide equal or greater access. Also, if off-street parking is provided serving the same project area (example: a municipal park has both on-street parking as well as a lot serving the park), the total number of accessible parking spaces may be provided in the lot in lieu of the on-street parking spaces in order to provide equal or greater access to the park.*
 
-**X02.6.1.3 Minimum width and length.** Accessible spaces shall not be smaller in width or length than that specified by the local jurisdictions for other spaces and in no case less than 8 feet (2449 mm) wide and 18 feet (5490 mm) long.
+###### X02.6.1.3 Minimum width and length
 
-**X02.6.1.4 Parallel parking spaces.** Where accessible parallel parking is provided, a parallel access aisle at least 60 inches (1525 mm) wide shall be provided at street level the full length of the accessible parking space. The parallel access aisle shall connect at the head or foot of the parking space to a 60-inch wide minimum perpendicular access aisle that shall extend the full width of the parking space. Two parallel parking spaces may share a perpendicular access aisle. The vehicular travel lane shall not encroach on any required access aisle. The area between any curb and the *pedestrian access route* shall comply with Section X02.1.5 in order to allow the deployment of a side lift from a wheelchair accessible space and shall be connected to the pedestrian access route.
+Accessible spaces shall not be smaller in width or length than that specified by the local jurisdictions for other spaces and in no case less than 8 feet (2449 mm) wide and 18 feet (5490 mm) long.
+
+###### X02.6.1.4 Parallel parking spaces
+
+Where accessible parallel parking is provided, a parallel access aisle at least 60 inches (1525 mm) wide shall be provided at street level the full length of the accessible parking space. The parallel access aisle shall connect at the head or foot of the parking space to a 60-inch wide minimum perpendicular access aisle that shall extend the full width of the parking space. Two parallel parking spaces may share a perpendicular access aisle. The vehicular travel lane shall not encroach on any required access aisle. The area between any curb and the *pedestrian access route* shall comply with Section X02.1.5 in order to allow the deployment of a side lift from a wheelchair accessible space and shall be connected to the pedestrian access route.
 
 **EXCEPTION**: Where the width of the public pedestrian right-of-way between the extension of the normal curb and boundary of the public right-of-way is less than 12 feet (3660 mm), a parallel access aisle is not required at parallel parking spaces.
 
-**X02.6.1.5 Perpendicular or angled parking spaces.** Where perpendicular or angled parking is provided, a parallel access aisle at least 60 inches (1525 mm) wide shall be provided at street level the full length of the accessible parking space. At van accessible parking spaces, a parallel access aisle at least 96 inches wide shall be provided at street level the full length of the van accessible parking space. Two perpendicular parking spaces may share an access aisle.
+###### X02.6.1.5 Perpendicular or angled parking spaces
+
+Where perpendicular or angled parking is provided, a parallel access aisle at least 60 inches (1525 mm) wide shall be provided at street level the full length of the accessible parking space. At van accessible parking spaces, a parallel access aisle at least 96 inches wide shall be provided at street level the full length of the van accessible parking space. Two perpendicular parking spaces may share an access aisle.
 
 ***Advisory*:***Where angled parking is provided, the entire area comprising the parking space and the access aisle should be marked uniformly to allow the driver to determine which side to park in to allow for egress from the vehicle for the person with a disability. An alternative is to provide a marked access aisle on both sides of the marked parking space.*
 
-**X02.6.1.6 Slope.** The slope of the accessible space, van accessible space, access aisle for the accessible space, and access aisle for the van accessible space shall not exceed 1:48 slope in any direction.
+###### X02.6.1.6 Slope
+
+The slope of the accessible space, van accessible space, access aisle for the accessible space, and access aisle for the van accessible space shall not exceed 1:48 slope in any direction.
 
 **EXCEPTION:** Where steep terrain prevents the provision of on-street parking with compliant slopes, off-street parking in compliance with proposed ADAAG Section 502 may be provided as long as an accessible connection to the pedestrian access route is provided.
 
 **Discussion:** For many people with disabilities, a sloped parking space is useless because of the potential hazards it presents. Not only may a sloped space be hazardous to use, a sloped space can damage a van lift.
 
-**X02.6.1.7 Curb ramps.** A *curb ramp* complying with Section X02.4 shall connect the access aisle to the pedestrian access route.
+###### X02.6.1.7 Curb ramps
 
-**X02.6.1.8 Parking space signage.** Parking spaces required to be accessible shall be designated as reserved by a sign that complies with proposed ADAAG Section 502.6. Van accessible spaces shall contain an additional sign "Van Accessible" mounted below the symbol of accessibility. Signs shall be located within the width or length of the space they serve and located within 3 feet (915 mm) of the head of the parking space so as not to interfere with the operation of a side lift or a passenger side transfer.
+A *curb ramp* complying with Section X02.4 shall connect the access aisle to the pedestrian access route.
 
-**X02.6.1.9 Markings.** Access aisles shall be marked so as to discourage parking in them.
+###### X02.6.1.8 Parking space signage
 
-**X02.6.1.10 Obstructions. **Obstructions such as *street furniture*, fire hydrants, parking meters, signs, mailboxes, landscaping, and trash receptacles shall not be placed adjacent to the accessible space in a manner that may interfere with the operation of a side lift or a passenger side transfer.
+Parking spaces required to be accessible shall be designated as reserved by a sign that complies with proposed ADAAG Section 502.6. Van accessible spaces shall contain an additional sign "Van Accessible" mounted below the symbol of accessibility. Signs shall be located within the width or length of the space they serve and located within 3 feet (915 mm) of the head of the parking space so as not to interfere with the operation of a side lift or a passenger side transfer.
+
+###### X02.6.1.9 Markings
+
+Access aisles shall be marked so as to discourage parking in them.
+
+###### X02.6.1.10 Obstructions
+
+Obstructions such as *street furniture*, fire hydrants, parking meters, signs, mailboxes, landscaping, and trash receptacles shall not be placed adjacent to the accessible space in a manner that may interfere with the operation of a side lift or a passenger side transfer.
 
 **Discussion:** The committee also discussed problems with accessible spaces being located next to a public sidewalk cluttered with street furniture such as trash receptacles, sign posts, trees, etc. Since various types of vehicles are driven by people with disabilities, the public sidewalk next to the parking space needs to be clear of obstructions in case it is needed for a side lift or passenger side transfer directly to the public sidewalk.
 
-#### Figure X02.6 A Parallel Parking
+**Figure X02.6 A Parallel Parking**
 
-*![Two accessible parallel parking spaces sharing a perpendicular access aisle between the two spaces. The access aisle is 5' wide, minimum. In one space, the vehicle is shown parked close to the curb, while in the other space, the car is parked closer to traffic to allow exiting the vehicle on the curb side.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.6A.gif)\
-Two accessible parallel parking spaces sharing a perpendicular access aisle between the two spaces. The access aisle is 5' wide, minimum. In one space, the vehicle is shown parked close to the curb, while in the other space, the car is parked closer to traffic to allow exiting the vehicle on the curb side.*
+![Two accessible parallel parking spaces sharing a perpendicular access aisle between the two spaces. The access aisle is 5' wide, minimum. In one space, the vehicle is shown parked close to the curb, while in the other space, the car is parked closer to traffic to allow exiting the vehicle on the curb side.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.6A.gif)\
 
-#### Figure X02.6 B Parallel Parking Space without Access Aisle
+*Two accessible parallel parking spaces sharing a perpendicular access aisle between the two spaces. The access aisle is 5' wide, minimum. In one space, the vehicle is shown parked close to the curb, while in the other space, the car is parked closer to traffic to allow exiting the vehicle on the curb side.*
+
+**Figure X02.6 B Parallel Parking Space without Access Aisle**
 
 ![A single accessible parallel parking space with a 5' access aisle at the rear of the space. Dimensions depict the exception proposed in this report to not require the access aisle if there is less than 12' of available right of way from the normal curb line to the right of way line.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.6B.gif)
 
 *A single accessible parallel parking space with a 5' access aisle at the rear of the space. Dimensions depict the exception proposed in this report to not require the access aisle if there is less than 12' of available right of way from the normal curb line to the right of way line.*
 
-#### Figure X02.6 C Perpendicular Parking
+**Figure X02.6 C Perpendicular Parking**
 
 ![A single perpendicular accessible parking space with a 5' access aisle to the right of the space. On the right, the figure shows two van accessible perpendicular parking spaces with a common 8' access aisle between them.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.6C.gif)
 
 *A single perpendicular accessible parking space with a 5' access aisle to the right of the space. On the right, the figure shows two van accessible perpendicular parking spaces with a common 8' access aisle between them.*
 
-#### Figure X02.6 D Angle Parking
+**Figure X02.6 D Angle Parking**
 
 ![Two angle accessible parking spaces with a 5' access aisle between them and two van accessible angle parking spaces with an 8' access aisle between them. The figure depicts a total of 4 parking spaces with a curb ramp for each access aisle.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.6D.gif)
 
 *Two angle accessible parking spaces with a 5' access aisle between them and two van accessible angle parking spaces with an 8' access aisle between them. The figure depicts a total of 4 parking spaces with a curb ramp for each access aisle.*
 
-#### X02.6.2 Parking meters.
+##### X02.6.2 Parking meters
 
-**X02.6.2.1 General.** Where public meters are provided, each shall comply with the requirements set forth in this section.
+###### X02.6.2.1 General
 
-**X02.6.2.2 Controls.** The centerline of controls on all parking meters shall be no more than 42 inches (1065mm) above the *pedestrian access route*. Controls and operating mechanisms shall be operable from the pedestrian access route with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate controls shall be no greater than 5 pounds.
+Where public meters are provided, each shall comply with the requirements set forth in this section.
+
+###### X02.6.2.2 Controls
+
+The centerline of controls on all parking meters shall be no more than 42 inches (1065mm) above the *pedestrian access route*. Controls and operating mechanisms shall be operable from the pedestrian access route with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate controls shall be no greater than 5 pounds.
 
 **Discussion:** The 42-inch high dimension for parking control mounting height was selected to be consistent with the mounting height for pedestrian push buttons on traffic signal poles.
 
-**X02.6.2.3 Clear space.** Where parking meters serve accessible parking spaces required under this section, a stable, firm, and slip-resistant clear ground space complying with proposed ADAAG Section 305 shall be provided at the controls. Where only a parallel approach is provided, controls shall be within 10 inches horizontally of, and centered on, the clear ground space. Where only a forward approach is provided, controls shall abut and be centered on the clear ground space.
+###### X02.6.2.3 Clear space
+
+Where parking meters serve accessible parking spaces required under this section, a stable, firm, and slip-resistant clear ground space complying with proposed ADAAG Section 305 shall be provided at the controls. Where only a parallel approach is provided, controls shall be within 10 inches horizontally of, and centered on, the clear ground space. Where only a forward approach is provided, controls shall abut and be centered on the clear ground space.
 
 **Discussion:** Some committee members felt that a larger clear ground space is necessary in the public right-of-way. See discussion under X02.3.1.3.
 
-**X02.6.2.4 Location.** A parking meter shall be located within 3 feet (915 mm) of the head or foot of the parking space so as not to interfere with the operation of a side lift or a passenger side transfer.
+###### X02.6.2.4 Location
+
+A parking meter shall be located within 3 feet (915 mm) of the head or foot of the parking space so as not to interfere with the operation of a side lift or a passenger side transfer.
 
 **EXCEPTION:** Where meters are not provided at the accessible space, but payment for parking in the accessible space is included in a centralized collection box/paying station, the accessible space shall be connected to the centralized collection point with a pedestrian access route.
 
-**X02.6.2.5 Display.** Where instructions such as hours of operation are provided, they shall not be displayed solely on a horizontal surface of the meter.
+###### X02.6.2.5 Display
+
+Where instructions such as hours of operation are provided, they shall not be displayed solely on a horizontal surface of the meter.
 
 **Discussion:** Parking meter instructions are frequently located on a horizontal plate mounted near the top of the meter. These instructions can not be viewed by a person in a wheelchair or a person of short stature.
 
-#### X02.6.3 Passenger Loading Zones
+##### X02.6.3 Passenger Loading Zones
 
-**X02.6.3.1 General.** Where passenger loading and drop-off zones are provided in the *public right-of-way* for use by the general public, each shall meet the requirements set forth in this section.
+###### X02.6.3.1 General
 
-**X02.6.3.2 Minimum number of curb ramps.** Where a curb adjoins a passenger loading zone serving multiple vehicle pull-up spaces (e.g., at transportation facilities), a minimum of one *curb ramp* complying with Section X02.4 shall be provided at intervals not to exceed 100 feet (30mm).
+Where passenger loading and drop-off zones are provided in the *public right-of-way* for use by the general public, each shall meet the requirements set forth in this section.
 
-**X02.6.3.3 Width and length.** Loading zones shall not be smaller in width or length than that specified by the local jurisdiction and in no case less than 8 feet wide and 20 feet long (2440 by 6100mm).
+###### X02.6.3.2 Minimum number of curb ramps
 
-**X02.6.3.4 Access Aisle.** Each passenger loading zone shall provide a parallel access aisle at least 60 inches wide and 20 feet long (1525 x 6100mm) adjacent and parallel to the vehicle pull-up space. The access aisle shall connect to the *pedestrian access route* in compliance with Section X02.
+Where a curb adjoins a passenger loading zone serving multiple vehicle pull-up spaces (e.g., at transportation facilities), a minimum of one *curb ramp* complying with Section X02.4 shall be provided at intervals not to exceed 100 feet (30mm).
 
-**X02.6.3.5 Signage**. Where signage is provided, it shall comply with Section X02.3.8.
+###### X02.6.3.3 Width and length
+
+Loading zones shall not be smaller in width or length than that specified by the local jurisdiction and in no case less than 8 feet wide and 20 feet long (2440 by 6100mm).
+
+###### X02.6.3.4 Access Aisle
+
+Each passenger loading zone shall provide a parallel access aisle at least 60 inches wide and 20 feet long (1525 x 6100mm) adjacent and parallel to the vehicle pull-up space. The access aisle shall connect to the *pedestrian access route* in compliance with Section X02.
+
+###### X02.6.3.5 Signage
+
+Where signage is provided, it shall comply with Section X02.3.8.
 
 ***Advisory:**** Signing an accessible loading zone is not required. However, if signage is provided, it shall comply with specifications for accessibility.*
 
-**X02.6.4 Motorist aid communication systems.**
+##### X02.6.4 Motorist aid communication systems
 
-**X02.6.4.1 General.** Where motorist aid communication systems are provided, each shall comply with the requirements set forth in this section.
+###### X02.6.4.1 General
+
+Where motorist aid communication systems are provided, each shall comply with the requirements set forth in this section.
 
 ***Advisory****: When communication systems such as call boxes are located in an urban area and parking is provided, an accessible parking space should be located near the system and connected to the system with an pedestrian access route *.
 
-**X02.6.4.2 Controls and operating mechanisms.** Controls and operating mechanisms shall comply with the following requirements:
+###### X02.6.4.2 Controls and operating mechanisms
+
+Controls and operating mechanisms shall comply with the following requirements:
 
 **(A)** Controls and operating mechanisms shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate controls shall be no greater than 5 pounds (22.2 N).
 
@@ -2176,35 +2375,51 @@ Two accessible parallel parking spaces sharing a perpendicular access aisle betw
 
 **Discussion:** The 48-inch dimension for the highest operable part is retained to avoid creating a roadside safety concern for vehicles leaving the roadway. Once there, the device must be designed such that persons with a variety of disabilities can use it. The user of the device is not always the driver, hence the need for Braille and large print instructions.
 
-**X02.6.4.3 Clear ground space.** A stable, firm, and slip-resistant clear ground space a minimum of 72 inches by 72 inches (1830 mm by 1830 mm), with a slope no greater than 1:48 in any direction and with at least 2-inch (51mm) edge protection except at the entrance from the pedestrian access route, shall be provided at the controls and shall comply with proposed ADAAG Section 306.
+###### X02.6.4.3 Clear ground space
+
+A stable, firm, and slip-resistant clear ground space a minimum of 72 inches by 72 inches (1830 mm by 1830 mm), with a slope no greater than 1:48 in any direction and with at least 2-inch (51mm) edge protection except at the entrance from the pedestrian access route, shall be provided at the controls and shall comply with proposed ADAAG Section 306.
 
 **Discussion:** A clear ground space of 72 inches by 72 inches is required since users are typically required to leave the roadway, approach a communication system in the public right-of-way, and then make a 180 degree turn to return to their vehicle. It would be undesirable to require users to back out of a location and return to the vehicular way without a clear view of traffic. All turns will have to be made within the confines of the clear ground space due to the requirement for edge protection.
 
-**X02.6.4.4 Motor vehicle turnouts.** A motor vehicle turnout with a minimum paved area of 16 feet (4880 mm) wide by 23 feet (7015 mm) long, and not exceeding a 1:48 slope in any direction, shall be provided and shall connect to the clear ground space at the motorist aid communication system with a pedestrian access route. Where shoulder texturing is used, it shall be discontinued at the turnout.
+###### X02.6.4.4 Motor vehicle turnouts
+
+A motor vehicle turnout with a minimum paved area of 16 feet (4880 mm) wide by 23 feet (7015 mm) long, and not exceeding a 1:48 slope in any direction, shall be provided and shall connect to the clear ground space at the motorist aid communication system with a pedestrian access route. Where shoulder texturing is used, it shall be discontinued at the turnout.
 
 **Discussion:** A person with a disability needing assistance needs sufficient space to pull out of the traffic lanes, exit their vehicle, and traverse an accessible route to the communication device. A vehicle turnout is required to ensure that enough space is available for a person with a disability to exit their vehicle, travel around the vehicle if necessary, and travel to the motorist communication device.
 
-**X02.6.4.5 Two-way communication.** Where two-way voice communication is provided, the system shall comply with proposed ADAAG Section 704 and Section 708 and shall include volume controls and a permanent text telephone (TTY). The system shall also provide for VCO and HCO.
+###### X02.6.4.5 Two-way communication
 
-**X02.6.4.6 Handsets.** Handsets, if provided, shall be hearing aid compatible with inductive coupling capability and shall not cause interference with hearing aids. Handset cords shall be at least 29 inches (735 mm) long.
+Where two-way voice communication is provided, the system shall comply with proposed ADAAG Section 704 and Section 708 and shall include volume controls and a permanent text telephone (TTY). The system shall also provide for VCO and HCO.
 
-**X02.6.4.7 Volume control.** Volume controls, if provided, shall provide a gain adjustable to a minimum of 20dB. For incremental volume control, at least one intermediate step of 12dB of gain shall be provided. An automatic reset shall be provided.
+###### X02.6.4.6 Handsets
+
+Handsets, if provided, shall be hearing aid compatible with inductive coupling capability and shall not cause interference with hearing aids. Handset cords shall be at least 29 inches (735 mm) long.
+
+###### X02.6.4.7 Volume control
+
+Volume controls, if provided, shall provide a gain adjustable to a minimum of 20dB. For incremental volume control, at least one intermediate step of 12dB of gain shall be provided. An automatic reset shall be provided.
 
 **Discussion:** Because the roadway is a very noisy environment, at least 20dB of gain is necessary for some callers to be able to hear above the ambient noise level.
 
-**X02.6.4.8 TTY.** Text telephone (TTY) communications, if provided, shall include automatic notification to the recipient that the call is a TTY call, and visual notification to the user that the call has been received.
+###### X02.6.4.8 TTY
 
-#### X02.6.5 Overlooks and viewing areas.
+Text telephone (TTY) communications, if provided, shall include automatic notification to the recipient that the call is a TTY call, and visual notification to the user that the call has been received.
+
+##### X02.6.5 Overlooks and viewing areas
 
 **Discussion:** The committee noted that overlooks and viewing areas often occur as part of the public right-of-way, particularly as a vehicular pull-off from the roadway coupled with an area which permits the passenger to exit his or her car and to look at the scenery. The committee recognized that the Access Board's Regulatory Negotiation Committee for Outdoor Developed Areas proposed recommendations for such areas in their report published in September 1999. Rather than duplicate the work of that committee, the PROWAAC recommends that overlooks and viewing areas follow the same technical specifications as those proposed in 16.10 of the Report on Outdoor Developed Areas.
 
-#### X02.6.6 Vertical and horizontal deflection measures.
+##### X02.6.6 Vertical and horizontal deflection measures
 
-**X02.6.6.1 General**. Where no *pedestrian access route* is provided within the *public right-of-way*, a passage of at least 36 inches (915 mm) must be provided between the vertical deflection and the curb or gutter, free of changes in level and with a *cross slope* not to exceed 1:48. Parking shall not be permitted at these locations.
+###### X02.6.6.1 General
+
+Where no *pedestrian access route* is provided within the *public right-of-way*, a passage of at least 36 inches (915 mm) must be provided between the vertical deflection and the curb or gutter, free of changes in level and with a *cross slope* not to exceed 1:48. Parking shall not be permitted at these locations.
 
 **Discussion:** Although the committee did not provide any technical or scoping provisions for vertical or horizontal deflections, per se, they did acknowledge that there are situations where there is no pedestrian access route (or public sidewalk) on the adjacent side of the roadway and pedestrians, including wheelchair users, often use the roadway for walking. In those instances, the presence of a deflection in the roadway which traverses the entire width of the roadway will present a major barrier for wheelchair users. Thus, the committee recommended in those situations that a clear width of 36 inches without vertical deflection be provided at the outer width of the roadway to permit passage of a wheelchair user.
 
-**X02.6.6.2 Location. **Reserved.
+###### X02.6.6.2 Location
+
+Reserved.
 
 ***Advisory:**** Vertical deflection measures are devices placed in the roadway that use the forces of vertical acceleration to discourage speeding by motorists. Vertical deflection measures include, but are not limited to, speed bumps, speed humps, speed tables and raised intersections. Horizontal deflection measures are devices placed in the roadway that use the forces of lateral acceleration to discourage speeding by motorists. Horizontal deflection measures include, but are not limited to, traffic circles, chicanes, and lateral shifts. The committee heard significant testimony from the public during each of its public meetings from individuals with a variety of disabilities, most notably spinal cord injuries or neurological conditions, about the installation of vertical or horizontal deflection measures. Anecdotal evidence presented by those testifying argued that the vertical and horizontal deflection measures were not only painful, but often exacerbated existing conditions when riding as a passenger in a motor vehicle. While the committee was not presented with data sufficient to make a policy recommendation in the area of a final recommended guideline, the committee did acknowledge and recognize that the impact of these traffic calming measures on persons with disabilities as motor vehicle passengers, rather than pedestrians, using the roadway or public rights-of-way, had not been fully addressed or researched. The committee further acknowledged that any traffic device which is intended to jolt or jar a driver in a vehicle with sufficient notice to alter (reduce) their driving speed, would similarly be felt by a person who is a passenger in the same vehicle. In the absence of research and in the face of anecdotal evidence, the committee suggests that entities consider other traffic calming measures which might achieve the same result of improved traffic safety in the design of a specific roadway and/or intersection. The Access Board has also received comments from operators of vehicles with low floors. These vehicles appear to be gaining popularity within the taxi industry for transporting persons with disabilities, and for personal vehicles adapted for use by a person with a disability. These operators report problems associated with bottoming out on various vertical deflection measures.*
 
@@ -2212,7 +2427,9 @@ Two accessible parallel parking spaces sharing a perpendicular access aisle betw
 
 **Research need:** The committee recommends that the Access Board establish a priority in its next budget/research cycle to study the effects of vertical and horizontal deflections used as traffic calming measures on persons with disabilities, especially those with spinal cord injuries or other neurological conditions, when they are passengers in motor vehicles (including paratransit and other public transportation vehicles).
 
-**X02.6.7 Motor vehicle turnouts.** Reserved.
+##### X02.6.7 Motor vehicle turnouts
+
+Reserved.
 
 ***Advisory:***A motor vehicle turnout is a widened, unobstructed shoulder which allows slow moving or non-functioning motor vehicles to pull out of the through lane to give passing opportunities to following vehicles. Where motor vehicle turnouts are provided, it is desirable for the turnout to have a minimum paved area of 16 feet (4880) wide by 23 feet(7015 mm) long and slopes not exceeding a 1:48 slope in any direction. This dimension will allow the turnout to also be used by a person with a disability who needs to service their vehicle. If use by people with disabilities can be accommodated at the turnout, any shoulder texturing such as rumble strips should be discontinued at the turnout.
 
@@ -2222,30 +2439,34 @@ Two accessible parallel parking spaces sharing a perpendicular access aisle betw
 ---
 
 
-X03 Temporary Facilities and Construction
------------------------------------------
+### X03 Temporary Facilities and Construction
 
-#### X03.1 Alternate Circulation Paths.
+#### X03.1 Alternate Circulation Paths
 
-**X03.1.1 General.**\
+##### X03.1.1 General
+
 An alternate circulation path shall be provided whenever the existing *pedestrian access route* in the *public right-of-way* is blocked by construction, alteration, maintenance, or other temporary conditions. The alternate circulation path shall comply with Section X03.1.
 
 **Discussion:** The removal, even for only a short time, of a pedestrian access route, curb ramp, or pedestrian street crossing may severely limit or totally preclude a person with a disability from navigating in the public right-of-way. It may also preclude access to buildings, facilities, or sites on adjacent properties. Jurisdictions and their contractors should ensure that an alternate circulation path that can be located visually and audibly is available to pedestrians during construction, parades, and other temporary conditions that block pedestrian passage through the public right-of-way. The committee considered but did not include an exception to the required pedestrian access route width permitting an alternate circulation path to be as narrow as 36 inches in order to provide usable minimum passage by a construction site, along a public sidewalk narrowed by construction, or borrowed temporarily from a roadway parking lane.
 
-**X03.1.2 Location.**\
+##### X03.1.2 Location
+
 Where possible, the alternate circulation path shall parallel the disrupted pedestrian access route, on the same side of the street.
 
 **Discussion:** A poorly placed alternate circulation path may require an individual to take a lengthy or circuitous route to bypass a site in order to reach a desired destination. The alternate path should be convenient and accessible for all users and should minimize or avoid extra travel distance.
 
-**X03.1.3 Alternate circulation path protection.**\
+##### X03.1.3 Alternate circulation path protection
+
 The alternate circulation path shall have no protrusions up to a height of eighty inches, including scaffolding and scaffolding braces. Where the alternate circulation path is adjacent to potentially hazardous conditions, the path shall be protected with a barricade consistent with Section X03.2.
 
-#### X03.2 Barricades.
+#### X03.2 Barricades
 
-**X03.2.1 General.**\
+##### X03.2.1 General
+
 Construction sites in or adjacent to the *pedestrian access route* shall be protected with a barricade in accordance with Section X03.2.
 
-**X03.2.2 Barricade locations.**\
+##### X03.2.2 Barricade locations
+
 Barricades shall be installed in the following locations:
 
 1.  Between the pedestrian access route and any adjacent construction site,
@@ -2256,30 +2477,33 @@ Barricades shall be installed in the following locations:
 
 **EXCEPTION.** Barricades are not required where the construction site or alternate circulation path is enclosed with a solid, cane-detectable fence or wall. Where protection is provided using a solid fence or wall, a painted or applied horizontal 6-inch (150mm) minimum stripe in 70 percent contrast shall be provided at between 42 inches (1065mm) and 60 inches (1525mm) above the adjacent grade.
 
-#### Figure X03.2 A A Section of Barricade
+**Figure X03.2 A A Section of Barricade**
 
 ![Isometric view shows toe and protective rails at required heights.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/3.2A.gif)
 
 *Isometric view shows toe and protective rails at required heights.*
 
-#### Figure X03.2 B Curb Ramp Barricade
+**Figure X03.2 B Curb Ramp Barricade**
 
 ![Isometric view shows a continuous toe rail and protective railing blocking](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/3.2B.gif)
 
 *Isometric view shows a continuous toe rail and protective railing blocking\
 the leading end and sides of a curb ramp.*
 
-**X03.2.3 Barricade specifications.**\
+##### X03.2.3 Barricade specifications
+
 The construction barricade at the alternate circulation path shall be continuous, stable and non-flexible. It shall have a solid toe rail with its top edge at 6 inches (150mm) minimum in height and its bottom edge no higher than 1-1/2 inches (38mm) above the adjacent surface. It shall have a continuous railing mounted at a top height of 36 to 42 inches (915-1065mm)with diagonal stripes having at least 70 percent contrast. The top rail shall be parallel to the toe rail and be situated to allow pedestrians to use the rail as a guide for their hand(s) for wayfinding purposes. No barricade support member shall protrude more than 4 inches beyond the toe rail into the alternate circulation path.
 
 **Discussion:** Construction within or adjacent to the public right-of-way is particularly hazardous to people with visual impairments or mobility impairments if the site is not adequately protected with a barrier or barricade. In particular, people who use canes may not detect a tape or a series of widely spaced traffic cones placed around a construction site. Such markings do not provide sufficient cues to enable a blind pedestrian to anticipate a hazard, nor do they provide an edge along which to travel around an obstruction. Barriers should be detectable, with edge protection and a railing, and be distinguishable, with contrasting graphics for individuals with low vision. Barricades that are supported by "feet", such as inverted "T" supports, can be a tripping hazard if the feet extend too far into the alternate circulation path. Additionally, the barricade is intended to protect individuals with visual and mobility impairments from precipitous drop-offs into construction sites such as trenches. Caution tape does not provide an adequate barricade and cannot be used to delineate the alternate circulation path. The committee discussed the desirability of allowing a barricade that public entities already use for roadway construction in compliance with the MUTCD. However, the primary focus of the markings required here is to ensure the minimum 70 percent contrast is attained so that the barrier will be highly visible to pedestrians.
 
-#### X03.3 Warnings and Signage.
+#### X03.3 Warnings and Signage
 
-**X03.3.1 General.**\
+##### X03.3.1 General
+
 When an alternate circulation path or a barricade is created in the *public right-of-way*, a warning shall be provided and comply with Section X03.3.
 
-**X03.3.2 Warning locations.**\
+##### X03.3.2 Warning locations
+
 Warning shall be located at both the near side and the far side of the intersection preceding a temporarily completely blocked pedestrian way. Signage located at the intersection preceding the blocked way shall comply with Section X02.3.8.
 
 ***Advisory.****Where directional signage or warnings are provided, they should be located to minimize backtracking, especially if there is no safe refuge at a corner under construction. In some cases, this could mean locating a warning or sign at the beginning of a route, not just at the inaccessible site, such as the construction site. The committee recommends that signage indicating the temporary closure of public sidewalks during construction include information accessible to pedestrians who are blind. Broadcast signage or flashing beacon lights accompanied by an audible tone are examples of media that could be effectively used to alert people to construction zones. It is important that the tone be distinguishable from other common indicators such as back-up tones on trucks or locator tones at signalized intersections. Other forms of audible signage may also be very useful at these locations.*
@@ -2288,30 +2512,37 @@ Warning shall be located at both the near side and the far side of the intersect
 
 **Research need:** The committee recommends that the National Committee on Uniform Traffic Control Devices (NCUTCD) support research and development necessary to develop and include in MUTCD guidance on audible and/or Braille systems and devices approved for accessible signage indicating temporary closure of public sidewalks.
 
-#### X03.4 Temporary Facilities.
+#### X03.4 Temporary Facilities
 
-**X03.4.1 General.**\
+##### X03.4.1 General
+
 Temporary facilities in the *public right-of-way* shall conform to the accessibility requirements of permanent facilities. Temporary facilities shall not decrease the accessibility of the *pedestrian access route* as required by Section X02.1.1.
 
 ***Advisory:****Temporary facilities in the public right-of-way include, but are not limited to, parade bleachers, review stands, and similar amenities, regardless of the length of time for which they are placed.*
 
-#### X03.4.2 Temporary and portable toilet facilities.
+##### X03.4.2 Temporary and portable toilet facilities
 
-**X03.4.2.1 Single-user temporary and portable toilet facilities.**\
+###### X03.4.2.1 Single-user temporary and portable toilet facilities
+
 Where only one single-user toilet facility is provided in a *public right-of-way*, it shall be accessible in accordance with proposed ADAAG Section 603 and shall provide a minimum of 48 inches clearance in front of the water closet.
 
 **Discussion:** People with disabilities and people who are among the aging population use electric scooters more often in the outdoor environment than they do in the indoor environment. The clearance of 48 inches in front of the toilet is needed to provide extra space required for people who use scooters and the larger wheelchairs in the outdoor environment and allows for an even longer clearance when the toilet is approached diagonally. This 48-inch clearance in front of the toilet is in addition to the clear floor or ground space required in front of the door to the toilet enclosure. This requirement is well established in current standards in the California Building Code.
 
-**X03.4.2.2 Multiple single-user portable toilet facilities.** Where multiple single-user temporary and portable toilet rooms are clustered at a single location in a public right-of-way, 25 percent per cluster, but not less than one toilet unit for each use at each cluster, shall comply with proposed ADAAG Section 603 and shall provide a minimum of 48 inches clearance in front of the water closet.
+###### X03.4.2.2 Multiple single-user portable toilet facilities
+
+Where multiple single-user temporary and portable toilet rooms are clustered at a single location in a public right-of-way, 25 percent per cluster, but not less than one toilet unit for each use at each cluster, shall comply with proposed ADAAG Section 603 and shall provide a minimum of 48 inches clearance in front of the water closet.
 
 **EXCEPTION:**\
 Where unisex toilet facilities are used, 25 percent but not less than one unit at each *cluster* shall comply with proposed ADAAG Section 603 and shall provide a minimum of 48 inches clearance in front of the water closet.
 
 **Discussion:** The requirement that 25 percent of temporary and portable toilet facilities be accessible recognizes that a minimum of one accessible toilet in a cluster is inadequate for the outdoor environment. In addition, in the outdoor environment maintenance is more difficult and breakdowns due to overuse and/or vandalism occur more frequently than in the indoor environment. The requirement for 25 percent accessible toilets will help to ensure that an accessible toilet is available.
 
-**X03.4.2.3 Multiple-user temporary and portable toilet facilities.** . Where a single facility containing *fixtures* for simultaneous use by multiple users is provided in a public right-of-way, plumbing fixtures and accessories shall comply with Section X02.3.4.
+###### X03.4.2.3 Multiple-user temporary and portable toilet facilities
 
-**X03.4.3 Non-fixed street furnishings.**\
+Where a single facility containing *fixtures* for simultaneous use by multiple users is provided in a public right-of-way, plumbing fixtures and accessories shall comply with Section X02.3.4.
+
+##### X03.4.3 Non-fixed street furnishings
+
 Non-fixed street furnishings such as depositories, vending machines, newspaper vending machines, change machines, mailboxes, temporary kiosks, stands and trash receptacles placed in the *public right-of-way* shall not be placed so as to reduce the pedestrian access route. Non-fixed street furnishings shall comply with Section X02.2.
 
 **EXCEPTION:** The clear floor space required to use depositories, vending machines, change machines, mailboxes, and similar pedestrian amenities shall be permitted to overlap the pedestrian access route a maximum of 24 inches (610mm).
@@ -2322,8 +2553,7 @@ Non-fixed street furnishings such as depositories, vending machines, newspaper v
 ---
 
 
-Part IV: Appendices
--------------------
+## Part IV: Appendices
 
 -   [A: PROWAAC Charter, List of Members, Meeting Schedule](http://www.access-board.gov/prowac/commrept/appendices.htm#A:%20PROWAAC%20Charter,%20List%20of%20Members,%20Meeting%20Schedule)
 -   [B: Subcommittee Structure and Areas of Responsibility](http://www.access-board.gov/prowac/commrept/appendices.htm#B:%20%20Subcommittee%20Structure%20and%20Areas%20of%20Responsibility)
@@ -2339,11 +2569,11 @@ Part IV: Appendices
 
 * * * * *
 
-#### APPENDIX A: PROWAAC Charter, List of Members, Meeting Schedule
+### APPENDIX A: PROWAAC Charter, List of Members, Meeting Schedule
 
 #### CHARTER
 
-#### PUBLIC RIGHTS-OF-WAY ACCESS ADVISORY COMMITTEE
+##### PUBLIC RIGHTS-OF-WAY ACCESS ADVISORY COMMITTEE
 
 1.*PURPOSE:* This charter establishes the "Public Rights-of-Way Access Advisory Committee" (Committee) for the Architectural and Transportation Barriers Compliance Board (Access Board) in accordance with the Federal Advisory Committee Act (FACA), 5 U.S.C. App. 2, and the administrative guidelines issued by the General Services Administration's Committee Management Secretariat, 41 C.F.R. Part 101-6.
 
@@ -2378,7 +2608,7 @@ GSA Review Date
 *November 16, 1999*\
 Date Filed with Congress
 
-#### LIST OF COMMITTEE MEMBERS
+##### LIST OF COMMITTEE MEMBERS
 
 **Name:** Janet M. Barlow\
 **Affiliation:** Association for Education and Rehabilitation of the Blind and Visually Impaired
@@ -2480,7 +2710,7 @@ Date Filed with Congress
 **Name:** Bill Wilkinson\
 **Affiliation:** National Center for Bicycling & Walking
 
-#### LIST OF ALTERNATE COMMITTEE MEMBERS
+##### LIST OF ALTERNATE COMMITTEE MEMBERS
 
 **Name:** Patricia Beattie\
 **Affiliation:** Council of Citizens with Low Vision International
@@ -2527,7 +2757,7 @@ Date Filed with Congress
 **Name:** Rod Wilson\
 **Affiliation:** State of Alaska
 
-#### LIST OF LIAISONS
+##### LIST OF LIAISONS
 
 **Name:** Patrick D. Cannon\
 **Affiliation:** US Access Board
@@ -2551,7 +2781,7 @@ December 19th, 2000, by teleconference
 
 * * * * *
 
-#### APPENDIX B: Subcommittee Structure and Areas of Responsibility
+### APPENDIX B: Subcommittee Structure and Areas of Responsibility
 
 **I. Intersections Subcommittee\
 *Chair: William Hecker***
@@ -2623,7 +2853,7 @@ A. Report production and coordination
 
 * * * * *
 
-#### APPENDIX C: Resolution of the Public Rights-of-Way Access Advisory Committee Regarding Construction of Sidewalks
+### APPENDIX C: Resolution of the Public Rights-of-Way Access Advisory Committee Regarding Construction of Sidewalks
 
 **WHEREAS,** the public is entitled to access to public rights-of-way; and
 
@@ -2640,7 +2870,7 @@ October 20, 2000
 
 * * * * *
 
-#### APPENDIX D: Alterations and Project Scope Limits
+### APPENDIX D: Alterations and Project Scope Limits
 
 The work of the committee focused on new construction in the public right-of-way environment. However, it recognized that the majority of work undertaken in the public right-of-way consists of alterations. A major recurring question which was raised by the committee was, "To what extent is a public entity, when undertaking work in the public right-of-way, obligated to undertake additional work beyond the initial scope, to make surrounding areas accessible to people with disabilities?" In other words, what are the limits of a given project? For example, if one curb ramp on one portion of an intersection is altered, to what degree does this trigger modifications on the other corners? As another example, if the sidewalk in the middle of a block is altered, to what extent does a public entity have to modify the sidewalk on the rest of the block? These were constant, but unanswered, questions of the committee. To a large degree, the question reflected a desire of the committee to provide clarification as to how the concepts of "path of travel," "substantial alteration," "primary function area" and "disproportionality" currently found in the ADA buildings and facilities environment would translate into the public right-of-way environment.
 
@@ -2660,7 +2890,7 @@ The identification and clear articulation of those projects which 'trigger' addi
 
 * * * * *
 
-#### APPENDIX E: Research Needs, Recommended Questions and Frontier Issues
+### APPENDIX E: Research Needs, Recommended Questions and Frontier Issues
 
 #### RESEARCH NEEDS
 
@@ -2759,7 +2989,7 @@ The committee discussed and wishes to add the following proposal to the list of 
 
 * * * * *
 
-#### Appendix F: Selected Abbreviations and Acronyms Found in this Report
+### Appendix F: Selected Abbreviations and Acronyms Found in this Report
 
 **AASHTO:** American Association of State Highway and Transportation Officials
 
@@ -2817,7 +3047,8 @@ The committee discussed and wishes to add the following proposal to the list of 
 
 * * * * *
 
-**Appendix G:  Minority Report  from the National Federation of the Blind\
+### Appendix G:  Minority Report  from the National Federation of the Blind
+
 **Submitted by\
 Peggy Pinder Elliott and Scott C. LaBarre
 
@@ -2865,8 +3096,9 @@ Note: This section of the minority report proposes changes only to Paragraphs B 
 
 * * * * *
 
-**Appendix H: Minority Report on What to Call the "Accessible Route"\
-**Submitted by HolLynn D'Lil
+### Appendix H: Minority Report on What to Call the "Accessible Route"
+
+**Submitted by HolLynn D'Lil**
 
 #### WHAT TO CALL THE "ACCESSIBLE ROUTE"
 
@@ -2886,10 +3118,11 @@ We have replaced our antiquated and damaging labels such as "handicapped," "crip
 
 * * * * *
 
-**Appendix I: Minority Report on the Corridor of Accessible Travel\
-**Submitted by Don Brandon
+### Appendix I: Minority Report on the Corridor of Accessible Travel
 
-#### CORRIDOR OF ACCESSIBLE TRAVEL (C.A.T).
+**Submitted by Don Brandon**
+
+**CORRIDOR OF ACCESSIBLE TRAVEL (C.A.T).**
 
 The Sidewalk Subcommittee final report outlines several phrases used to describe the area required to be accessible in the public right-of-way (PROW). Many phrases and the one the committee voted on via the Internet use or incorporate the word pedestrian. It is my opinion that we are not at all concerned with pedestrians but we are concerned with the area needed to travel in the PROW using many forms of travel. Wayfinding is the phrase used for a person who is blind and traveling along a hallway or in the PROW. A wheelchair user pushes a manual chair or initiates power in a motorized chair to travel down a hallway or in the PROW and able-bodied people ambulate down a hallway or in a PROW.
 
@@ -2905,15 +3138,17 @@ A C.A.T. is a spatial concept, not a brick and mortar substance. As a spatial co
 
 * * * * *
 
-**APPENDIX J: Minority Reports**\
-Submitted by: William D. Jordan, Jr.
+### APPENDIX J: Minority Reports
+
+**Submitted by: William D. Jordan, Jr.**
 
 **TOPIC A:** 70 percent contrast of curb ramps to surroundings\
 **TOPIC B:** 11 percent maximum combined curb ramp slope and gutter counter slope.\
 **TOPIC C:** Detectable warnings on curb ramps.\
 **TOPIC D:** Scoping for accessible phones.
 
-**TOPIC A:** 70 percent contrast of curb ramps to surroundings\
+#### TOPIC A: 70 percent contrast of curb ramps to surroundings
+
 **RECOMMENDATION:** Curb ramps be required to have a 33 percent contrast to the sidewalk they serve (not the gutter or street where they terminate).
 
 **RATIONALE:** A 70 percent contrast is not realistically attainable in concrete, the most common material for curb ramps and sidewalks, without extreme pigmenting of both elements. Such extreme pigmenting weakens the concrete (most municipalities require the use of a high strength, "City Mix" concrete that would be degraded by high levels of doping), and is costly ("unduly burdensome"). A distinct contrast is warranted to aid persons with low vision, but to expect good enforcement, a requirement must be reasonably attainable.
@@ -2924,14 +3159,15 @@ Safety Yellow actually offers only about a 20 percent contrast (often less) agai
 
 [*Editor's note:* two illustrations, a color photograph of tiles in yellow, tan and black and a gray-scaled photograph of the same tiles, were attached to the original minority report but have not been included here due to reproduction constraints.]
 
-**TOPIC B:** 11 percent maximum combined curb ramp slope and gutter counter slope.\
+#### TOPIC B: 11 percent maximum combined curb ramp slope and gutter counter slope
+
 **RECOMMENDATION:** No requirement. The 8.33 percent limit on curb ramp slope combined with the 5 percent limit on gutter counter slope is quite adequate to produce a completely safe transition.
 
 **RATIONALE:** It is true that many curb ramps and gutter returns have historically formed a "V" transition which is very dangerous to persons in wheelchairs. Richard Skaff of our committee broke both legs when he crashed at the bottom of such a combination. However, these conditions have not been caused by insufficient regulation; they are caused by errant construction and negligent enforcement. These "crash pits" are the result of curb ramps and gutter counter slopes that greatly exceed the required maximums. Imposing unnecessary requirements, especially requirements that are numerically inconsistent with the existing, proven requirements, does little more than promote disrespect for and disregard for the exiting needed requirements.
 
 Wheelchairs that are particularly vulnerable to this type of crash hazard are those whose foot peddle plates are low to the ground and extend longer distances forward of the front a caster axles. A nearly worst-case wheelchair was selected for a trigonometric study which demonstrated that the combined crash angle would be just under 27 percent. Calculation of the combined angle that would assure at least 1 inch of clearance under the foot paddle at all times resulted in a measurement of 19 percent. To require a combined angle of 11 percent, which is less than the sum of the two allowable slopes (8.33 percent + 5 percent = 13.33 percent) is unnecessarily restrictive and will promote rebellious, non-compliant, dangerous curb ramps.
 
-#### ILLUSTRATION
+##### ILLUSTRATION
 
 **SUPPORTING DOCUMENTATION:** One of the most hazardous and hidden barriers that might be present in streets is the drainage swale or gutter at the bottom of a curb cut. It is "hidden" by the fact that everyone is accustomed to seeing it without thinking of its potential hazard. It is a hazard because of the geometry of a wheelchair and its intolerance to significant changes in the plane of the rolling surface. A person may bottom out their foot paddles suddenly and unexpectedly with the result that their chair suddenly stops and they are propelled forward out of the chair. This often results in broken legs. People that have been non-weightbearing for a number of years will predictably have osteoporosis and be particularly vulnerable. I and many, many people I know have broken legs this way. With the reduced circulation in non-active limbs, healing takes much, much longerÉoften close to a year. If the person is experienced enough to recognize the hazard and tries crossing the swale very cautiously they will merely come to a stop when the chair bottoms out, and experience it as a barrier.
 
@@ -2947,7 +3183,7 @@ If there were a lip at the bottom of the curb cut (as previously required in Cal
 
 Conclusion: From these calculations, I conclude and advise that the gutter return slope be limited to no more than 10 percent or 1.2 inches in 12 inches. It certainly wouldn't hurt to undercut this limit to allow for field variances. Furthermore, it was determined long before any of us that a 1:12 slope is the maximum most wheelchair users can reliably ascend without flipping over backward, and without becoming exhausted in an unreasonably short distance. Therefore, it seems logical and proper to limit the climb up the crown of the road to a 1:12 slope. This would appear to ensure safety.
 
-**TOPIC C:** Detectable warnings on curb ramps.\
+#### TOPIC C: Detectable warnings on curb ramps
 **RECOMMENDATION:** Require detectable warnings on the bottom two feet of curb ramps having a slope of 1:15 or less. Such warnings to consist of an array of partial domes arranged in a uniform pattern with the domes in-line with the prevailing direction of pedestrian travel. The domes shall be semi-spherical 1-inch diameter segments standing 0.2 inches high and placed on 3-inch centers. The array shall be of a material which contrasts with the surrounding surfaces by at least 33 percent and is at least as slip resistant as troweled concrete. Other materials surfaces may be textured to insure this level of slip resistance.
 
 Curb ramps which have a slope greater than 1:15 (but equal to or less than 1:12) shall have a similarly sized and positioned section of ramp that contrasts in an identical manner with the surrounding surfaces. This contrasting pad must be as slip resistant as trowel concrete.
@@ -2960,16 +3196,16 @@ About seven years ago, the State of California introduced the concept of requiri
 
 At least two studies, and common sense, have demonstrated that domes placed in line with the path of travel statistically pose less of a burden to persons in wheelchairs, while having no adverse effect on delectability. Dr. Beezy Bentzen reported to members of the Committee that other studies indicated that domes placed on centers greater that the currently required 2.35 inches are actually more detectable. Simple observation illustrates that increasing the spacing of the domes creates greater level areas between and greater statistical chance for wheelchair wheels to avoid the bumpy domes. Studies done in Sacramento demonstrated that round domes, rather than truncated domes offered less rolling resistance, and less bumpiness to wheelchair users while not degrading their delectability. This is consistent with a report by Dr. Bentzen that the more "pointy" the domes, the more detectable they are. Much of this knowledge has been gained in the last ten years since the current ADAAG specification was established. It would seem negligent and blindly one-minded to not apply this knowledge at this timely juncture of requiring detectable warnings on curb ramps.
 
-#### ILLUSTRATION:
+ILLUSTRATION:
 
-**TOPIC D:** Scoping for accessible phones.\
+#### TOPIC D: Scoping for accessible phones
 **RECOMMENDATION:** Require all new telephones installed later than four years after the effective date of these regulations to accommodate both short and tall people, by providing dual keypads such that, when mounted, one will be below 48 inches and one will be above 60 inches, OR provide the keypad on the handset.
 
 **RATIONALE:** There is no way to predict, at any given time, the stature of the next person needing the use of a public telephone. That person may be a person in a wheelchair, a person of short stature, a tall person with a bad back, or a person with very poor vision who has put their face right up to the keypad to discern the numbers. Every time a public telephone doesn't accommodate the needs of that particular individual, he or she has been the victim of discrimination. Clearly, the technology exists right now to implement either of the proposed solutions to this dilemma; it would merely take a relatively simple tooling change. It is, in fact, criminal that it has not been done before now. It is time to place a time limit on the continuance of such inexcusable discrimination.
 
 * * * * *
 
-**APPENDIX K: Minority Report Regarding Surface Gaps at Rail Crossings**\
+### APPENDIX K: Minority Report Regarding Surface Gaps at Rail Crossings
 Submitted by the American Public Transportation Association
 
 The American Public Transportation Association (APTA) was pleased to participate in the development of the accessibility guidelines for public rights-of-way published by the Public Rights-of-Way Access Advisory Committee (PROWAAC); however, our commuter rail members have specific concerns that prompt us to file this minority report on one aspect of the guidelines. APTA represents major commuter railroads that both construct and operate over pedestrian crossings.
