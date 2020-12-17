@@ -16,9 +16,9 @@ The next meeting of the Board will be held January 13 from 2:00 – 4:00 (ET) an
 > ***Meeting of the U.S. Access Board***  
 >  
 > **January 13, 2021 2:00 - 4:00 (ET)**  
-> \Zoom link: [forthcoming]
-> \Call-in numbers: [forthcoming]  
-> \Contact: Rose Marie Bunales at [bunales@access-board.gov](mailto:bunales@access-board.gov)
+> Zoom link: [forthcoming]<br>
+> Call-in numbers: [forthcoming]  
+> Contact: Rose Marie Bunales at [bunales@access-board.gov](mailto:bunales@access-board.gov)
 
 ### Agenda
 
