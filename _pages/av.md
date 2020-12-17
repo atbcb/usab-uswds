@@ -11,7 +11,7 @@ permalink: /av/
 
 Self-driving or “autonomous” vehicles stand to revolutionize road transportation in the U.S. and around the world. Their cutting-edge technologies and engineering innovations have the potential to dramatically expand transit options for many people, including those with disabilities. It is important that autonomous vehicles (AVs) are designed to be inclusive of everyone.   
 
-This spring, the U.S. Access Board will host a four-part series of virtual meetings on making AVs accessible to passengers with disabilities. In partnership with several other federal agencies, the Board will provide an open forum where members of the public and stakeholders can discuss considerations, challenges, and solutions in designing accessible AVs. The sessions are free and open to the public. Attendees will be able to pose questions and share comments, suggestions, and information. 
+This spring, the U.S. Access Board will host a four-part series of virtual meetings on making AVs accessible to passengers with disabilities. The Board will provide an open forum where members of the public and stakeholders can discuss considerations, challenges, and solutions in designing accessible AVs. The Board is undertaking this initiative jointly with other agencies, including the Department of Labor’s Office of Disability Employment Policy and the Department of Health and Human Service’s Administration for Community Living. The sessions are free and open to the public. Attendees will be able to pose questions and share comments, suggestions, and information.
 
 ### Series Platform and Format 
 
