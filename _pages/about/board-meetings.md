@@ -9,31 +9,35 @@ permalink: /about/meetings.html
 
 {% asset webcast.jpg class="img-right" alt="laptop showing meeting on screen" %}
 
-Members of the Access Board meet every two months, and these meetings are primarily open to the public. 
-The meetings typically span three days, with the first two days usually dedicated to committee meetings and presentations and the afternoon of the third day devoted to the agenda of the full Board. 
-The meetings are webcast live, as well as archived.
+Every two months, members of the Access Board hold a meeting, which is primarily open to the public. The meetings typically span three days, with the first two days usually dedicated to committee meetings and presentations and the afternoon of the third day devoted to the agenda of the full Board. The meetings are webcast live, as well as archived. 
 
-The next committee and Board meetings will be:
+The next meeting of the Board will be held January 13 from 2:00 – 4:00 (ET) and will feature a presentation on conducting virtual meetings and events that are accessible to persons with disabilities. Guest speakers from the Department of Homeland Security and the Federal Communications Commission will explain what makes virtual platforms accessible and highlight common access issues. They will also cover best practice recommendations and resources for platform accessibility. The public is encouraged to attend.
 
-> ***January 11 - 13, 2021***  
+> ***Meeting of the U.S. Access Board***  
 >  
-> **Board Meeting**  
-> **January 13, 3:00 - 4:15** (Eastern)  
-> \[Join Zoom webcast]
+> **January 13, 2021 2:00 - 4:00 (ET)**  
+> \Zoom link: [forthcoming]
+> \Call-in numbers: [forthcoming]  
+> \Contact: Rose Marie Bunales at [bunales@access-board.gov](mailto:bunales@access-board.gov)
 
-We have transitioned to a virtual format using [Zoom for Government](https://zoomgov.com).
+### Agenda
 
-Meetings were typically held at the Board’s conference space at 1331 F Street NW, Suite 800, in downtown Washington, DC.
-For the comfort of all participants and to promote a [fragrance-free](policy/ffe.html) environment, attendees are requested not to use perfume, cologne, or other fragrances.
+* Welcome
+* Executive Director's Report
+* Presentation on "Accessible Virtual Meeting Platforms"
+  * Brandon Pace, Department of Homeland Security 
+  * Gerard Williams, Federal Communications Commission 
+* Official and New Business
 
-The Board usually substitutes one of its meetings each year for a town hall forum outside Washington, DC.
+During the pandemic, the Board is conducting its meetings remotely using [Zoom for Government](https://zoomgov.com).
+
+Meetings were typically held at the Board’s conference space at 1331 F Street NW, Suite 800, in downtown Washington, DC. The Board usually substitutes one of its meetings each year for a town hall forum outside Washington, DC. For the comfort of all participants and to promote a [fragrance-free](policy/ffe.html) environment, attendees are requested not to use perfume, cologne, or other fragrances.
 
 ## Board Conference Space
 
 {% asset conf-space.jpg class="img-right shadow radius-lg" alt="Board Meeting in conference space (photo)." %}
 
-Board meetings and other events are held at the Board’s conference space at 1331 F Street NW, Suite 800, in downtown Washington, DC.&nbsp;
-The 2,720 square foot space, which is located two floors below the Board’s 10th floor offices, features an integrated assistive listening loop system that fully covers meeting and spectator areas, ceiling-mounted projectors, automated projection screens, supplementary monitors, and topical artwork.
+Board meetings and other events are held at the Board’s conference space at 1331 F Street NW, Suite 800, in downtown Washington, DC. The 2,720 square foot space, which is located two floors below the Board’s 10th floor offices, features an integrated assistive listening loop system that fully covers meeting and spectator areas, ceiling-mounted projectors, automated projection screens, supplementary monitors, and topical artwork. 
 
 See our Contact Us page for [location and directions]({{ site.baseurl }}/contact/#location-and-directions).
 
@@ -42,17 +46,17 @@ To inquire about use of the space, please contact [Rose Marie Bunales](mailto:bu
 ## Upcoming Board Meetings
 
 - January 11 - 13, 2021
-- March 8 - 10, 2021
-- May 17 - 19 (Philadelphia)
-- July 12 - 14, 2021
-- September 20 - 22, 2021
-- November 8 - 10, 2021
-- January 10 - 12, 2022
-- March 7 - 9, 2022
-- May 10 - 12 (New Orleans)
-- July 11 - 13, 2022
-- September 12 - 14, 2022
-- November 7 - 9, 2022
+- March 8 - 10, 2021 
+- May 17 - 19, 2021 (Philadelphia)
+- July 12 - 14, 2021 
+- September 20 - 22, 2021 
+- November 8 - 10, 2021 
+- January 10 - 12, 2022 
+- March 7 - 9, 2022 
+- May 10 - 12, 2022 (New Orleans) 
+- July 11 - 13, 2022 
+- September 12 - 14, 2022 
+- November 7 - 9, 2022 
 
 ## Board Meeting Archives
 
