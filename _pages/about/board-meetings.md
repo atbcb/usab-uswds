@@ -13,7 +13,7 @@ Every two months, members of the Access Board hold a meeting, which is primarily
 
 The next meeting of the Board will be held January 13 from 2:00 – 4:00 (ET) and will feature a presentation on conducting virtual meetings and events that are accessible to persons with disabilities. Guest speakers from the Department of Homeland Security and the Federal Communications Commission will explain what makes virtual platforms accessible and highlight common access issues. They will also cover best practice recommendations and resources for platform accessibility. The public is encouraged to attend.
 
-> ***Meeting of the U.S. Access Board***  
+### Meeting of the U.S. Access Board 
 >  
 > **January 13, 2021 2:00 - 4:00 (ET)**  
 > Zoom link: [forthcoming]<br>
