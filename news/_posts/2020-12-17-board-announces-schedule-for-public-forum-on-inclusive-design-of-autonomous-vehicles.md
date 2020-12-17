@@ -13,9 +13,11 @@ tags:
   - events
 featured: false
 ---
+{% asset autonomous-bus.jpg alt="Autonomous Bus" class="float-right" %}
+
 This spring, the U.S. Access Board, in partnership with other federal agencies, will host a series of virtual meetings on making autonomous vehicles (AVs) accessible to all passengers, including those with disabilities. The four-part series will provide an open forum where members of the public and stakeholders can discuss considerations, challenges, and solutions in designing AVs that are inclusive of everyone. The sessions are free and open to the public.  Attendees will be able to share comments, suggestions, and information and pose questions. 
 
-The sessions will be conducted through a virtual platform (Zoom) and will focus on different types of accessibility and user groups. The final session will review findings and recommendations, identify areas for further study, and recommend next steps.  
+The Board is undertaking this initiative jointly with other agencies, including the Department of Labor’s Office of Disability Employment Policy and the Department of Health and Human Service’s Administration for Community Living. The sessions will be conducted through a virtual platform (Zoom) and will focus on different types of accessibility and user groups. The final session will review findings and recommendations, identify areas for further study, and recommend next steps.  
 
 The planned schedule is: 
 
