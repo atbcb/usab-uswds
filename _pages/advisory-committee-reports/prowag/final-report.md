@@ -2557,17 +2557,17 @@ Non-fixed street furnishings such as depositories, vending machines, newspaper v
 
 ## Part IV: Appendices
 
--   [A: PROWAAC Charter, List of Members, Meeting Schedule](http://www.access-board.gov/prowac/commrept/appendices.htm#A:%20PROWAAC%20Charter,%20List%20of%20Members,%20Meeting%20Schedule)
--   [B: Subcommittee Structure and Areas of Responsibility](http://www.access-board.gov/prowac/commrept/appendices.htm#B:%20%20Subcommittee%20Structure%20and%20Areas%20of%20Responsibility)
--   [C: Resolution of the Public Rights-of-Way Access Advisory Committee Regarding Construction of Sidewalks](http://www.access-board.gov/prowac/commrept/appendices.htm#C:%20%20Resolution%20of%20the%20Public%20Rights-of-Way%20Access%20Advisory%20Committee%20Regarding%20Construction%20of%20Sidewalks)
--   [D: Alterations and Project Scope Limits](http://www.access-board.gov/prowac/commrept/appendices.htm#D:%20%20ALTERATIONS%20AND%20PROJECT%20SCOPE%20LIMITS)
--   [E: Research Needs, Recommended Questions and Frontier Issues](http://www.access-board.gov/prowac/commrept/appendices.htm#E:%20%20Research%20Needs,%20Recommended%20Questions%20and%20Frontier%20Issues)
--   [F: Selected Abbreviations and Acronyms Found in this Report](http://www.access-board.gov/prowac/commrept/appendices.htm#F:%20%20Selected%20Abbreviations%20and%20Acronyms%20Found%20in%20this%20Report)
--   [G: Minority Report from the National Federation of the Blind](http://www.access-board.gov/prowac/commrept/appendices.htm#G:%20%20Minority%20Report%20%20from%20the%20National%20Federation%20of%20the%20Blind)
--   [H: Minority Report on What to Call the "Accessible Route"](http://www.access-board.gov/prowac/commrept/appendices.htm#H:%20%20Minority%20Report%20on%20What%20to%20Call%20the%20Accessible%20Route)
--   [I: Minority Report on the Corridor of Accessible Travel](http://www.access-board.gov/prowac/commrept/appendices.htm#I:%20%20Minority%20Report%20on%20the%20Corridor%20of%20Accessible%20Travel)
--   [J: Minority Reports](http://www.access-board.gov/prowac/commrept/appendices.htm#J:%20%20Minority%20Reports)
--   [K: Minority Report Regarding Surface Gaps at Rail Crossings](http://www.access-board.gov/prowac/commrept/appendices.htm#K:%20%20Minority%20Report%20Regarding%20Surface%20Gaps%20at%20Rail%20Crossings)
+-   A: PROWAAC Charter, List of Members, Meeting Schedule
+-   B: Subcommittee Structure and Areas of Responsibility
+-   C: Resolution of the Public Rights-of-Way Access Advisory Committee Regarding Construction of Sidewalks
+-   D: Alterations and Project Scope Limits
+-   E: Research Needs, Recommended Questions and Frontier Issues
+-   F: Selected Abbreviations and Acronyms Found in this Report
+-   G: Minority Report from the National Federation of the Blind
+-   H: Minority Report on What to Call the "Accessible Route"
+-   I: Minority Report on the Corridor of Accessible Travel
+-   J: Minority Reports
+-   K: Minority Report Regarding Surface Gaps at Rail Crossings
 
 * * * * *
 
@@ -3168,7 +3168,7 @@ Safety Yellow actually offers only about a 20 percent contrast (often less) agai
 
 Wheelchairs that are particularly vulnerable to this type of crash hazard are those whose foot peddle plates are low to the ground and extend longer distances forward of the front a caster axles. A nearly worst-case wheelchair was selected for a trigonometric study which demonstrated that the combined crash angle would be just under 27 percent. Calculation of the combined angle that would assure at least 1 inch of clearance under the foot paddle at all times resulted in a measurement of 19 percent. To require a combined angle of 11 percent, which is less than the sum of the two allowable slopes (8.33 percent + 5 percent = 13.33 percent) is unnecessarily restrictive and will promote rebellious, non-compliant, dangerous curb ramps.
 
-**#ILLUSTRATION**
+**ILLUSTRATION**
 
 **SUPPORTING DOCUMENTATION:** One of the most hazardous and hidden barriers that might be present in streets is the drainage swale or gutter at the bottom of a curb cut. It is "hidden" by the fact that everyone is accustomed to seeing it without thinking of its potential hazard. It is a hazard because of the geometry of a wheelchair and its intolerance to significant changes in the plane of the rolling surface. A person may bottom out their foot paddles suddenly and unexpectedly with the result that their chair suddenly stops and they are propelled forward out of the chair. This often results in broken legs. People that have been non-weightbearing for a number of years will predictably have osteoporosis and be particularly vulnerable. I and many, many people I know have broken legs this way. With the reduced circulation in non-active limbs, healing takes much, much longerÉoften close to a year. If the person is experienced enough to recognize the hazard and tries crossing the swale very cautiously they will merely come to a stop when the chair bottoms out, and experience it as a barrier.
 
