@@ -106,15 +106,15 @@ Some agencies may begin to use the recommendations in this report as guidance ev
 
 ### SOME ISSUES CONSIDERED BY THE COMMITTEE
 
--   [The need for larger dimensions in the public right-of-way](http://www.access-board.gov/prowac/commrept/part1.htm#issue1)
--   [What to call the "corridor of accessible travel" in the public right-of-way](http://www.access-board.gov/prowac/commrept/part1.htm#issue2)
--   [Wayfinding in public rights-of-way for blind persons or those with low vision](http://www.access-board.gov/prowac/commrept/part1.htm#issue3)
--   [Flexibility of the standards with respect to emerging technologies](http://www.access-board.gov/prowac/commrept/part1.htm#issue4)
--   [The variety of needs, sometimes competing, of users with diverse disabilities](http://www.access-board.gov/prowac/commrept/part1.htm#issue5)
--   [Extension of the pedestrian access route into the roadway at crosswalks](http://www.access-board.gov/prowac/commrept/part1.htm#issue6)
--   [The need for pedestrian access on all urban roadways](http://www.access-board.gov/prowac/commrept/part1.htm#issue7)
--   [Maintenance of pedestrian access routes and accessible features](http://www.access-board.gov/prowac/commrept/part1.htm#issue8)
--   [Consistency with other reports](http://www.access-board.gov/prowac/commrept/part1.htm#issue9)
+-   The need for larger dimensions in the public right-of-way
+-   What to call the "corridor of accessible travel" in the public right-of-way
+-   Wayfinding in public rights-of-way for blind persons or those with low vision
+-   Flexibility of the standards with respect to emerging technologies
+-   The variety of needs, sometimes competing, of users with diverse disabilities
+-   Extension of the pedestrian access route into the roadway at crosswalks
+-   The need for pedestrian access on all urban roadways
+-   Maintenance of pedestrian access routes and accessible features
+-   Consistency with other reports
 
 #### The need for larger dimensions in the public right-of-way
 
@@ -211,10 +211,6 @@ Eleven appendices to this report are provided. The first two appendices include 
 ## Part II: Executive Summary of Recommended Standards
 
 The following is a summary of the recommended standards, scoping, and technical provisions, provided as an easy reference. Readers are strongly advised to consult the complete text of the standard language and its associated discussion section for a full understanding of the recommended requirements.
-
--   [General (X01)](http://www.access-board.gov/prowac/commrept/part2.htm#GENERAL%20%28X01%29)
--   [New Construction: Minimum Requirements (X02)](http://www.access-board.gov/prowac/commrept/part2.htm#NEW%20CONSTRUCTION:%20MINIMUM%20REQUIREMENTS)
--   [Temporary Facility and Construction (X03)](http://www.access-board.gov/prowac/commrept/part2.htm#TEMPORARY%20FACILITIES%20AND%20CONSTRUCTION%20%28X03%29)
 
 ### GENERAL (X01)
 
@@ -435,9 +431,11 @@ The following is a summary of the recommended standards, scoping, and technical 
 -   Tactile arrows on controls shall indicate directionality.
 -   When a map of a crosswalk is provided with a push button, it shall be visual and tactile.
 -   Locator tones, where required, shall be 2dB - 5dB greater than ambient noise, be 0.15 seconds in duration, have one second repetition intervals, and deactivate during flashing intervals.
-##### Accessible pedestrian signals (X02.5.2)
 
--   Accessible pedestrian signals are required in certain situations:\
+XXX ##### Accessible pedestrian signals (X02.5.2)
+
+Accessible pedestrian signals are required in certain situations:
+
     1) where pedestrian phase timing is pedestrian actuated;\
     2) where there is a leading pedestrian interval (LPI);\
     3) where there is a pretimed signal with pedestrian signal information.
@@ -543,7 +541,7 @@ The following is a summary of the recommended standards, scoping, and technical 
 
 ### TEMPORARY FACILITIES AND CONSTRUCTION (X03)
 
-####Alternate Circulation Path (X03.1)
+#### Alternate Circulation Path (X03.1)
 
 -   An alternate route (alternate circulation path) shall be provided whenever the pedestrian access route is blocked.
 
@@ -1276,7 +1274,9 @@ Fixed tables, counters and benches shall comply with Section X02.3.
 
 **(B) Benches. Where** fixed benches are provided without tables, at a single location, at least 50 percent, but no less than one, shall have a back and armrests.
 
-**X02.3.5.3 Clear floor and ground space. **For benches without tables, a clear ground space complying with proposed ADAAG Section 305 shall be provided at one end of at least one bench at each location where a single fixed bench or *cluster* of benches are provided. The clear ground space shall be positioned to allow a wheelchair user to be seated shoulder-to-shoulder with an individual seated on the bench. A clear floor or ground space, where required at tables and counters, shall be provided for a forward approach to the table or counter, with required knee and toe clearance, in accordance with Section 306.
+###### X02.3.5.3 Clear floor and ground space
+
+For benches without tables, a clear ground space complying with proposed ADAAG Section 305 shall be provided at one end of at least one bench at each location where a single fixed bench or *cluster* of benches are provided. The clear ground space shall be positioned to allow a wheelchair user to be seated shoulder-to-shoulder with an individual seated on the bench. A clear floor or ground space, where required at tables and counters, shall be provided for a forward approach to the table or counter, with required knee and toe clearance, in accordance with Section 306.
 
 **EXCEPTION:** When tables are provided for children's use, a clear floor or ground space complying with proposed ADAAG Section 305, positioned for a forward approach, shall be provided. Knee and toe clearance complying with proposed ADAAG Section 306 shall be provided, except that knee clearance 24 inches (610mm) minimum above the floor or ground shall be permitted.
 
@@ -2140,7 +2140,7 @@ Some members of the committee noted that safety yellow is not conspicuous to man
 
 Where pedestrian overpasses and underpasses are provided to cross public rights-of-ways, each shall meet the requirements set forth in this section.
 
-###### X02.5.8.2****Pedestrian access route
+###### X02.5.8.2 Pedestrian access route
 
 Where pedestrian overpasses and underpasses are provided as a primary means to cross a street, they must have continuous *pedestrian access routes* and shall provide an accessible connection to adjacent pedestrian facilities. When the continuous pedestrian access route of an overpass or underpass requires a *ramp* (i.e. with a *grade* greater than 1:20) and the vertical rise is greater than five feet, an elevator complying with proposed ADAAG Section 407.2 is required.
 
@@ -2573,7 +2573,7 @@ Non-fixed street furnishings such as depositories, vending machines, newspaper v
 
 #### CHARTER
 
-##### PUBLIC RIGHTS-OF-WAY ACCESS ADVISORY COMMITTEE
+**PUBLIC RIGHTS-OF-WAY ACCESS ADVISORY COMMITTEE**
 
 1.*PURPOSE:* This charter establishes the "Public Rights-of-Way Access Advisory Committee" (Committee) for the Architectural and Transportation Barriers Compliance Board (Access Board) in accordance with the Federal Advisory Committee Act (FACA), 5 U.S.C. App. 2, and the administrative guidelines issued by the General Services Administration's Committee Management Secretariat, 41 C.F.R. Part 101-6.
 
@@ -2608,7 +2608,7 @@ GSA Review Date
 *November 16, 1999*\
 Date Filed with Congress
 
-##### LIST OF COMMITTEE MEMBERS
+#### LIST OF COMMITTEE MEMBERS
 
 **Name:** Janet M. Barlow\
 **Affiliation:** Association for Education and Rehabilitation of the Blind and Visually Impaired
@@ -2710,7 +2710,7 @@ Date Filed with Congress
 **Name:** Bill Wilkinson\
 **Affiliation:** National Center for Bicycling & Walking
 
-##### LIST OF ALTERNATE COMMITTEE MEMBERS
+#### LIST OF ALTERNATE COMMITTEE MEMBERS
 
 **Name:** Patricia Beattie\
 **Affiliation:** Council of Citizens with Low Vision International
@@ -2757,7 +2757,7 @@ Date Filed with Congress
 **Name:** Rod Wilson\
 **Affiliation:** State of Alaska
 
-##### LIST OF LIAISONS
+#### LIST OF LIAISONS
 
 **Name:** Patrick D. Cannon\
 **Affiliation:** US Access Board
@@ -3049,15 +3049,14 @@ The committee discussed and wishes to add the following proposal to the list of 
 
 ### Appendix G:  Minority Report  from the National Federation of the Blind
 
-**Submitted by\
-Peggy Pinder Elliott and Scott C. LaBarre
+Submitted by Peggy Pinder Elliott and Scott C. LaBarre
 
 **INTRODUCTION**
 
 This minority report is based on the majority report published by the Public Rights-of-Way Access Advisory Committee. This report identifies sections of the majority report that the National Federation of the Blind finds objectionable. Our text identifies the particular section by its designation in the majority report and then provides alternative language. Following the alternate language is a section discussing why the Federation finds the majority's draft objectionable.\
 In general the National Federation of the Blind believes that blind and visually impaired people can and do function successfully in the built environment. Therefore it is not necessary to rebuild or restructure the existing environment dramatically. The Federation acknowledges, however, that there are circumstances in the built environment which do not permit blind and visually impaired individuals to use non-visual techniques efficiently. In such circumstances it is prudent to provide additional non-visual cues.
 
-#### ALTERNATIVE PROPOSALS
+**ALTERNATIVE PROPOSALS**
 
 **X02.5.2.1 General.** Accessible Pedestrian Signals may be provided when the following conditions are present:
 
@@ -3098,9 +3097,9 @@ Note: This section of the minority report proposes changes only to Paragraphs B 
 
 ### Appendix H: Minority Report on What to Call the "Accessible Route"
 
-**Submitted by HolLynn D'Lil**
+Submitted by HolLynn D'Lil
 
-#### WHAT TO CALL THE "ACCESSIBLE ROUTE"
+**WHAT TO CALL THE "ACCESSIBLE ROUTE"**
 
 **Minority Report Recommendation:** The route within the public right of way designed to insure that the public right of way is readily accessible to and usable by people with disabilities should be called the "Universal Access Corridor."
 
@@ -3120,7 +3119,7 @@ We have replaced our antiquated and damaging labels such as "handicapped," "crip
 
 ### Appendix I: Minority Report on the Corridor of Accessible Travel
 
-**Submitted by Don Brandon**
+Submitted by Don Brandon
 
 **CORRIDOR OF ACCESSIBLE TRAVEL (C.A.T).**
 
@@ -3140,7 +3139,7 @@ A C.A.T. is a spatial concept, not a brick and mortar substance. As a spatial co
 
 ### APPENDIX J: Minority Reports
 
-**Submitted by: William D. Jordan, Jr.**
+Submitted by: William D. Jordan, Jr.
 
 **TOPIC A:** 70 percent contrast of curb ramps to surroundings\
 **TOPIC B:** 11 percent maximum combined curb ramp slope and gutter counter slope.\
@@ -3167,7 +3166,7 @@ Safety Yellow actually offers only about a 20 percent contrast (often less) agai
 
 Wheelchairs that are particularly vulnerable to this type of crash hazard are those whose foot peddle plates are low to the ground and extend longer distances forward of the front a caster axles. A nearly worst-case wheelchair was selected for a trigonometric study which demonstrated that the combined crash angle would be just under 27 percent. Calculation of the combined angle that would assure at least 1 inch of clearance under the foot paddle at all times resulted in a measurement of 19 percent. To require a combined angle of 11 percent, which is less than the sum of the two allowable slopes (8.33 percent + 5 percent = 13.33 percent) is unnecessarily restrictive and will promote rebellious, non-compliant, dangerous curb ramps.
 
-##### ILLUSTRATION
+**#ILLUSTRATION**
 
 **SUPPORTING DOCUMENTATION:** One of the most hazardous and hidden barriers that might be present in streets is the drainage swale or gutter at the bottom of a curb cut. It is "hidden" by the fact that everyone is accustomed to seeing it without thinking of its potential hazard. It is a hazard because of the geometry of a wheelchair and its intolerance to significant changes in the plane of the rolling surface. A person may bottom out their foot paddles suddenly and unexpectedly with the result that their chair suddenly stops and they are propelled forward out of the chair. This often results in broken legs. People that have been non-weightbearing for a number of years will predictably have osteoporosis and be particularly vulnerable. I and many, many people I know have broken legs this way. With the reduced circulation in non-active limbs, healing takes much, much longerÉoften close to a year. If the person is experienced enough to recognize the hazard and tries crossing the swale very cautiously they will merely come to a stop when the chair bottoms out, and experience it as a barrier.
 
