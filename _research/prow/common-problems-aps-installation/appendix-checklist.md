@@ -1,5 +1,4 @@
 ---
-title: "Appendix: Checklist for APS Installations"
 order-number: 4
 toc-group: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 banner-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
@@ -7,7 +6,7 @@ status: completed
 year-completed: 2009
 topic: Public Rights-of-Way
 ---
-## {{ page.title }}
+## Appendix: Checklist for APS Installations
 
 (adapted from [Accessible Pedestrian Signals: A Guide to Best Practice](http://www.trb.org/news/blurb_detail.asp?id=9102), NCHRP Web-only document 117A).
 
@@ -85,7 +84,7 @@ Designate a person and phone number to call and report any malfunctioning device
 
 **Intersection:** ________________________________________
 
-| Begin on SW corner;</br> walk around intersection</br> clockwise | West Crosswalk<br> APS 1 | West Crosswalk<br> APS 2 | North Crosswalk<br> APS 1 | North Crosswalk<br> APS 2 | East Crosswalk<br> APS 1 | East Crosswalk<br> APS 2 | South Crosswalk<br> APS 1 |South Crosswalk<br> APS 2 |
+| Begin on SW corner;<br> walk around intersection clockwise | West Crosswalk<br> APS 1 | West Crosswalk<br> APS 2 | North Crosswalk<br> APS 1 | North Crosswalk<br> APS 2 | East Crosswalk<br> APS 1 | East Crosswalk<br> APS 2 | South Crosswalk<br> APS 1 |South Crosswalk<br> APS 2 |
 | --- | --- | --- | --- | --- | --- | --- | --- | --- |
 | APS/pushbutton located by crosswalk it controls | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
 | Pushbuttons at 42" above ground/level surface? | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
