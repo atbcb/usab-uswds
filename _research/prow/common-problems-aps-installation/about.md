@@ -1,9 +1,8 @@
 ---
-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
+title: Common Problems Arising in the Installation of APS
 order-number: 0
 toc-group: Common Problems Arising in the Installation of Accessible Pedestrian Signals
-banner-title: Completed Research
-banner-subtilte:  Public Rights-of-Way
+banner-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 status: completed
 year-completed: 2009
 topic: Public Rights-of-Way
