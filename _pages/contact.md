@@ -40,7 +40,7 @@ If you have questions on these accessibility guidelines and standards call or em
 | <ta@access-board.gov> | technical assistance on Board guidelines and accessible design |
 | <training@access-board.gov> | information on the Board's training program or to request training on its guidelines or standards |
 | <webmaster@access-board.gov> | questions or comments about the Board's website |
-{: .usa-table-borderless }
+{: .usa-table--borderless }
 
 {% comment %}
 
