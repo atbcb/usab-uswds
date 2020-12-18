@@ -8,7 +8,7 @@ status: completed
 year-completed: 2009
 topic: Public Rights-of-Way
 file: /files/research/APS-common-problems.pdf
-file-description: Single file PDF of the ABA standards
+file-description: Common Problems Arising in the Installation of Accessible Pedestrian Signals, PDF version
 permalink: /research/prow/common-problems-aps-installation/
 ---
 ## {{ page.title }}
