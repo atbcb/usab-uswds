@@ -11,7 +11,7 @@ file: /files/research/APS-common-problems.pdf
 file-description: Single file PDF of the ABA standards
 permalink: /research/prow/common-problems-aps-installation/
 ---
-## { page.title }
+## {{ page.title }}
 
 *This technical assistance guide is designed to provide information on common problems that arise in the installation of accessible pedestrian signals (APS). APS are most frequently provided at the request of a pedestrian who has a vision impairment. Current Federal Highway Administration (FHWA) policy requires State and local highway agencies to consider APS and to develop a "reasonable and consistent plan to facilitate safe street crossings" in existing developed rights-of-way. Chapter 4E.06 of the Manual on Uniform Traffic Control Devices (MUTCD 2003), adopted by State Departments of Transportation under the Federal-aid Highways Act, contains technical provisions for APS, where they are newly installed. The Access Board's draft Public Rights-of-Way Accessibility Guidelines (draft PROWAG) includes APS provisions that have been harmonized with MUTCD. However, the Access Board has not yet finalized its rights-of-way rulemaking, nor has it been adopted as an enforceable standard by either the Department of Justice under Title II of the Americans with Disabilities Act or the Department of Transportation under Section 504 of the Rehabilitation Act of 1973.*
 
