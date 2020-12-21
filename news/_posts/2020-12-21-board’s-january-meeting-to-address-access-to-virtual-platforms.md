@@ -19,9 +19,9 @@ The public is encouraged to attend the meeting which will take place on **Janua
 
 For further information, contact Rose Marie Bunales at [bunales@access-board.gov](mailto:bunales@access-board.gov). 
 
-> *Meeting of the U.S. Access Board (Virtual)*
-> January 13, 2:00 – 4:00 (ET) 
-> Zoom link: \[forthcoming]  
+> *Meeting of the U.S. Access Board (Virtual)* \
+> January 13, 2:00 – 4:00 (ET) \
+> Zoom link: \[forthcoming] \
 > Call-in numbers: \[forthcoming] 
 
 ### Agenda
