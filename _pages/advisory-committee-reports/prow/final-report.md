@@ -5,6 +5,7 @@ layout: universal
 toc: /toc/auto.html
 toc-group: prowaac
 permalink: /prowag/prowaac-report.html
+file: /files/advisory-committee-reports/prow-report.pdf
 redirect_from:
     - /prowac/commrept/index.htm
 ---
@@ -899,13 +900,13 @@ The minimum clear width of a pedestrian access route shall be 60 inches (1525mm)
 
 **Figure X02.1 A Sidewalk/Alley or Driveway Connections**
 
-![Figure X02.1 A Sidewalk/Alley or Driveway Connections - Isometric views of five public sidewalk and driveway or alleyway connections. ](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/X02.1a.gif)
+![Figure X02.1 A Sidewalk/Alley or Driveway Connections - Isometric views of five public sidewalk and driveway or alleyway connections. ]({{ site.baseurl }}/images/advisory-committee-reports/prow/X02.1a.gif)
 
 *Isometric views of five public sidewalk and driveway or alleyway connections. Illustrations show minimum PAR width of 48 inches (1220mm) at the driving area and indicate maximum allowable cross slopes.*
 
 **Figure X02.1 B Reconstruction of Driveway Aprons**
 
-![Isometric views of a public sidewalk and driveway showing before and after conditions. The before view shows a driveway crossing a public sidewalk and a typical steep cross slope condition. The after view shows transition ramps approaching a lowered driveway apron which allows a 48-inch wide PAR with 1:48 cross slope to complete the connection.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/X02.1B.gif)
+![Isometric views of a public sidewalk and driveway showing before and after conditions. The before view shows a driveway crossing a public sidewalk and a typical steep cross slope condition. The after view shows transition ramps approaching a lowered driveway apron which allows a 48-inch wide PAR with 1:48 cross slope to complete the connection.]({{ site.baseurl }}/images/advisory-committee-reports/prow/X02.1B.gif)
 
 *Isometric views of a public sidewalk and driveway showing before and after conditions. The before view shows a driveway crossing a public sidewalk and a typical steep cross slope condition. The after view shows transition ramps approaching a lowered driveway apron which allows a 48-inch wide PAR with 1:48 cross slope to complete the connection.*
 
@@ -920,7 +921,7 @@ The minimum clear width of a pedestrian access route shall be 60 inches (1525mm)
 
 **Figure X02.1 C Placement of Street Fixtures**
 
-![Plan view of a wall and street fixtures in relationship to the public sidewalk. Illustrates that the width of the pedestrian access route may be reduced to 48 inches and minimum spacing of 60 inches between objects intruding into the full 60-inch pedestrian access route.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/X02.1C.gif)
+![Plan view of a wall and street fixtures in relationship to the public sidewalk. Illustrates that the width of the pedestrian access route may be reduced to 48 inches and minimum spacing of 60 inches between objects intruding into the full 60-inch pedestrian access route.]({{ site.baseurl }}/images/advisory-committee-reports/prow/X02.1C.gif)
 
 *Plan view of a wall and street fixtures in relationship to the public sidewalk. Illustrates that the width of the pedestrian access route may be reduced to 48 inches and minimum spacing of 60 inches between objects intruding into the full 60-inch pedestrian access route.*
 
@@ -1018,7 +1019,7 @@ Each tread of stairs in the public right-of-way shall have a high *visual contr
 
 **Figure X02.1 D Visual Contrast at Steps**
 
-![Isometric views of treads and risers indicating contrast strip at leading edge. One shows the strip limited to the flat surface of the tread, one shows the strip wrapping over the nose of the tread.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/X02.1D.gif)
+![Isometric views of treads and risers indicating contrast strip at leading edge. One shows the strip limited to the flat surface of the tread, one shows the strip wrapping over the nose of the tread.]({{ site.baseurl }}/images/advisory-committee-reports/prow/X02.1D.gif)
 
 *Isometric views of treads and risers indicating contrast strip at leading edge. One shows the strip limited to the flat surface of the tread, one shows the strip wrapping over the nose of the tread.*
 
@@ -1103,7 +1104,7 @@ Objects with leading edges more than 27 inches (685mm) from the ground and not m
 
 **Figure X02.2 A Wall Mounted Objects**
 
-![Wall-mounted object dimensioned to a maximum projection of four inches.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.2A.gif)
+![Wall-mounted object dimensioned to a maximum projection of four inches.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.2A.gif)
 
 *Wall-mounted object dimensioned to a maximum projection of four inches.*
 
@@ -1119,13 +1120,13 @@ Freestanding objects mounted on posts or pylons shall overhang a maximum of 4 in
 
 **Figure X02.2 B Post-Mounted Object**
 
-![Post-mounted object seen in elevation, dimensioned to indicate 4" maximum protrusion.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.2B.gif)
+![Post-mounted object seen in elevation, dimensioned to indicate 4" maximum protrusion.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.2B.gif)
 
 *Post-mounted object seen in elevation, dimensioned to indicate 4" maximum protrusion.*
 
 **Figure X02.2 C Sign with Cane Detection Bar**
 
-![Elevation view of a sign mounted between two posts, less than 80" above grade, with a cane detection bar at 15" above grade. Contrasting finish on bar is indicated.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.2C.gif)
+![Elevation view of a sign mounted between two posts, less than 80" above grade, with a cane detection bar at 15" above grade. Contrasting finish on bar is indicated.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.2C.gif)
 
 *Elevation view of a sign mounted between two posts, less than 80" above grade, with a cane detection bar at 15" above grade. Contrasting finish on bar is indicated.*
 
@@ -1139,7 +1140,7 @@ Railings or other barriers shall be provided where the vertical clearance is les
 
 **Figure X02.2 D Barrier for Vertical Clearance < 80"**
 
-![Sketch of a barrier preventing a person from running into a vertical clearance less than 80 inches.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.2D.gif)
+![Sketch of a barrier preventing a person from running into a vertical clearance less than 80 inches.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.2D.gif)
 
 *Sketch of a barrier preventing a person from running into a vertical clearance less than 80 inches.*
 
@@ -1197,7 +1198,7 @@ A minimum of two drinking fountains or water coolers is required in any one loca
 
 **Figure X02.3 Hi-Lo Drinking Fountain**
 
-![Plan, side and front elevation views of an accessible hi-lo drinking fountain. Fountains are mounted on a short wall that turns a 90 degree corner at the end by the high fixture, forming a cane detectable barricade adjacent to the fixture group. The low fountain has its bottom edge at 27" above grade and does not have a barrier wall.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.3A.gif)
+![Plan, side and front elevation views of an accessible hi-lo drinking fountain. Fountains are mounted on a short wall that turns a 90 degree corner at the end by the high fixture, forming a cane detectable barricade adjacent to the fixture group. The low fountain has its bottom edge at 27" above grade and does not have a barrier wall.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.3A.gif)
 
 *Plan, side and front elevation views of an accessible hi-lo drinking fountain. Fountains are mounted on a short wall that turns a 90 degree corner at the end by the high fixture, forming a cane detectable barricade adjacent to the fixture group. The low fountain has its bottom edge at 27" above grade and does not have a barrier wall.*
 
@@ -1257,7 +1258,7 @@ Permanent public toilet facilities in the public right-of-way shall be accessibl
 
 **Figure X02.3 B Clearance at Public Toilets**
 
-![Plan view of a toilet stall with 48-inch clear space shown between the center front of the toilet bowl and the wall opposite.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.3B.jpg)
+![Plan view of a toilet stall with 48-inch clear space shown between the center front of the toilet bowl and the wall opposite.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.3B.jpg)
 
 *Plan view of a toilet stall with 48-inch clear space shown between the center front of the toilet bowl and the wall opposite.*
 
@@ -1291,13 +1292,13 @@ The tops of tables and counters required to be accessible shall be 28 inches (71
 
 **Figure X02.3 C Bench with Adjacent Clear Area**
 
-![Bench with adjacent clear area for wheelchair user (plan view).](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.3C.gif)
+![Bench with adjacent clear area for wheelchair user (plan view).]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.3C.gif)
 
 *Bench with adjacent clear area for wheelchair user (plan view).*
 
 **Figure X02.3 D Bench with Arm/Backrests**
 
-![](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.3D.gif)
+![]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.3D.gif)
 
 *Side view of bench with arms and back.*
 
@@ -1381,7 +1382,7 @@ A sign usable for touch reading should not have sharp corners that can injure th
 
 **Figure X02.3 E Tactile Character Section**
 
-![Diagrammatic section of a tactile character illustrating rounded and trapezoidal edges.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.3E.gif)
+![Diagrammatic section of a tactile character illustrating rounded and trapezoidal edges.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.3E.gif)
 
 *Diagrammatic section of a tactile character illustrating rounded and trapezoidal edges.*
 
@@ -1408,7 +1409,7 @@ Visual characters shall comply with proposed ADAAG Section 703.4, except the req
 
 **Figure X02.3 F Bus Shelter Signage**
 
-![Isometric view of a bus shelter indicating the location of accessible signage at the leading (front) end of the side wall at the end where the front of the bus will stop.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.3F.gif)
+![Isometric view of a bus shelter indicating the location of accessible signage at the leading (front) end of the side wall at the end where the front of the bus will stop.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.3F.gif)
 
 *Isometric view of a bus shelter indicating the location of accessible signage at the leading (front) end of the side wall at the end where the front of the bus will stop.*
 
@@ -1477,37 +1478,37 @@ At any intersection in the public right-of-way that has at least one corner serv
 
 **Figure X02.4 A Curb Ramp**
 
-![Curb Ramp: isometric view of a curb ramp as currently defined. The illustration is based on the old "perpendicular" style ramp.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.4A.gif)
+![Curb Ramp: isometric view of a curb ramp as currently defined. The illustration is based on the old "perpendicular" style ramp.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.4A.gif)
 
 *Curb Ramp: isometric view of a curb ramp as currently defined. The illustration is based on the old "perpendicular" style ramp.*
 
 **Figure X02.4 B Transition Ramp**
 
-**![Transition Ramp: isometric view of a transition ramp as currently defined. The illustration is based on the old "parallel" style ramp.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.4B.gif)**
+**![Transition Ramp: isometric view of a transition ramp as currently defined. The illustration is based on the old "parallel" style ramp.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.4B.gif)**
 
 *Transition Ramp: isometric view of a transition ramp as currently defined. The illustration is based on the old "parallel" style ramp.*
 
 **Figure X02.4 C Shared Curb Ramp**
 
-![Shared ramp shows a single ramp used for two crossing directions.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.4C.gif)
+![Shared ramp shows a single ramp used for two crossing directions.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.4C.gif)
 
 *Shared ramp shows a single ramp used for two crossing directions.*
 
 **Figure X02.4 D Combination Assemblies**
 
-![The top one shows an assembly that might be used at a mid-block crosswalk, and combines transition ramps leading to a landing and from there access to a single curb ramp at right angles to the transition ramps. The bottom one shows a corner where the sidewalk is dropped by transition ramps to a lowered elevation, from which two separated curb ramps provide access to the street.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.4D.gif)
+![The top one shows an assembly that might be used at a mid-block crosswalk, and combines transition ramps leading to a landing and from there access to a single curb ramp at right angles to the transition ramps. The bottom one shows a corner where the sidewalk is dropped by transition ramps to a lowered elevation, from which two separated curb ramps provide access to the street.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.4D.gif)
 
 *The top one shows an assembly that might be used at a mid-block crosswalk, and combines transition ramps leading to a landing and from there access to a single curb ramp at right angles to the transition ramps. The bottom one shows a corner where the sidewalk is dropped by transition ramps to a lowered elevation, from which two separated curb ramps provide access to the street.*
 
 **Figure X02.4 E Projecting Curb Ramps**
 
-![The top diagram shows a built-up curb ramp entirely beyond the curb line with a note that this arrangement is not to be used in traffic lanes. The lower diagram shows a curb ramp that projects partially beyond the curb line.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.4E.gif)
+![The top diagram shows a built-up curb ramp entirely beyond the curb line with a note that this arrangement is not to be used in traffic lanes. The lower diagram shows a curb ramp that projects partially beyond the curb line.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.4E.gif)
 
 *The top diagram shows a built-up curb ramp entirely beyond the curb line with a note that this arrangement is not to be used in traffic lanes. The lower diagram shows a curb ramp that projects partially beyond the curb line.*
 
 **Figure X02.4 F Shared Flush Landing**
 
-![Shared Transition: a combined approach with two transition ramps on a curved corner approaching a single landing area that is blended with the vehicular way.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.4F.gif)
+![Shared Transition: a combined approach with two transition ramps on a curved corner approaching a single landing area that is blended with the vehicular way.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.4F.gif)
 
 *Shared Transition: a combined approach with two transition ramps on a curved corner approaching a single landing area that is blended with the vehicular way.*
 
@@ -1583,7 +1584,7 @@ RESERVED.
 
 **Figure X02.4 G Curb Ramp Directionality**
 
-![Illustration of a curb ramp that exhibits directionality to the crosswalk and the sidewalk, while complying with warping and cross slope requirements.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5G.gif)
+![Illustration of a curb ramp that exhibits directionality to the crosswalk and the sidewalk, while complying with warping and cross slope requirements.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5G.gif)
 
 *Illustration of a curb ramp that exhibits directionality to the crosswalk and the sidewalk, while complying with warping and cross slope requirements.*
 
@@ -1645,7 +1646,7 @@ The grade break between the counter slopes of gutter and/or road surfaces within
 
 **Figure X02.4 H Counter Slope Conditions**
 
-![Sectional view of wheelchair at a counter slope condition with grades indicating the algebraic differences and limitations. Second view showing double grade break.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.4H.gif)\
+![Sectional view of wheelchair at a counter slope condition with grades indicating the algebraic differences and limitations. Second view showing double grade break.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.4H.gif)\
 *Sectional view of wheelchair at a counter slope condition with grades indicating the algebraic differences and limitations. Second view showing double grade break.*
 
 **Discussion:** Gutter counter slope is the angle point or grade change where the down slope of the curb ramp meets the up cross slope of the gutter. Steep counter slopes will cause some wheelchairs to catch on back rollers and lose drive wheel traction. For others, the steep counter slope will catch footrests. Many road standards set a standard gutter cross slope at 5 percent. The committee voted to set the maximum grade change at 11 percent to avoid causing problems for some wheelchair users. The committee did consider other alternatives, including maintaining the current 13.33 percent, however due to insufficient data, the committee felt that the flatter 11 percent standard would be safer. If the curb ramp is set at 1:12 (8.33 percent) and both were built to maximum standard, then the resulting algebraic difference in grade would be 13.33 percent. Consequently, gutter cross slope may need to be lessened at intersections or other locations where curb ramps are placed. Also, this standard could be met by lessening the grade of the curb ramp.
@@ -1666,7 +1667,7 @@ Since there is a mandatory 60-inch top landing at each curb ramp, there is no ne
 
 **Figure X02.4 I Sloped Curb Ramp Sides**
 
-![Isometric view of curb ramp with sloped sides describing the required length of the slope and measurement method (10x the curb height, measured at the face of the curb).](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.4I.gif)
+![Isometric view of curb ramp with sloped sides describing the required length of the slope and measurement method (10x the curb height, measured at the face of the curb).]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.4I.gif)
 
 *Isometric view of curb ramp with sloped sides describing the required length of the slope and measurement method (10x the curb height, measured at the face of the curb).*
 
@@ -1780,19 +1781,19 @@ The location of *push buttons* shall be in accordance with the following minim
 
 **Figure X02.5 A Curb Ramp APS Zones**
 
-![Curb ramps at an intersection with APS zones indicated in plan.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5A.gif)
+![Curb ramps at an intersection with APS zones indicated in plan.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5A.gif)
 
 *Curb ramps at an intersection with APS zones indicated in plan.*
 
 **Figure X02.5 B Transition Ramp APS Zones**
 
-![Transition ramps at an intersection with APS zones indicated in plan.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5B.gif)
+![Transition ramps at an intersection with APS zones indicated in plan.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5B.gif)
 
 *Transition ramps at an intersection with APS zones indicated in plan.*
 
 **Figure X02.5 C Shared Curb Ramp APS Zones**
 
-![Shared ramp at an intersection with APS zones indicated in plan.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5C.gif)
+![Shared ramp at an intersection with APS zones indicated in plan.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5C.gif)
 
 *Shared ramp at an intersection with APS zones indicated in plan.*
 
@@ -1806,7 +1807,7 @@ The location of *push buttons* shall be in accordance with the following minim
 
 **Figure X02.5 D Tactile Arrow**
 
-![Diagrammatic view of arrow illustrating proportional relationships.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5D.gif)
+![Diagrammatic view of arrow illustrating proportional relationships.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5D.gif)
 
 *Diagrammatic view of arrow illustrating proportional relationships.*
 
@@ -1814,7 +1815,7 @@ The location of *push buttons* shall be in accordance with the following minim
 
 **Figure X02.5 E APS Symbol**
 
-![Diagram of three Braille dots forming an equilateral triangle centered on the face of a 2" push button.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5E.gif)
+![Diagram of three Braille dots forming an equilateral triangle centered on the face of a 2" push button.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5E.gif)
 
 *Diagram of three Braille dots forming an equilateral triangle centered on the face of a 2" push button.*
 
@@ -2008,7 +2009,7 @@ Raised medians and pedestrian refuge islands in *crosswalks* shall be cut thro
 
 **Figure X02.5 F Raised Island Landing**
 
-![Partial plan view of an island with a landing 60 inches by 60 inches.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5F.gif)
+![Partial plan view of an island with a landing 60 inches by 60 inches.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5F.gif)
 
 *Partial plan view of an island with a landing 60 inches by 60 inches.*
 
@@ -2032,29 +2033,29 @@ Detectable warnings shall be provided *only* at the following locations:
 
 **Figure X02.5 G Detectable Warning at Curb Ramp**
 
-![Illustrates 24" deep detectable warning located near the street edge of the curb ramp.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5G.gif)
+![Illustrates 24" deep detectable warning located near the street edge of the curb ramp.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5G.gif)
 
 *Illustrates 24" deep detectable warning located near the street edge of the curb ramp.*
 
 **Figure X02.5 H Transition Ramp with Detectable Warning**
 
-![Shows detectable warning at a transition ramp.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5H.gif)
+![Shows detectable warning at a transition ramp.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5H.gif)
 
 *Shows detectable warning at a transition ramp.*
 
 **Figure X02.5 I Shared Curb Ramp with Detectable Warning**
 
-![Shows detectable warning at a shared curb ramp.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5I.gif)\
+![Shows detectable warning at a shared curb ramp.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5I.gif)\
 *Shows detectable warning at a shared curb ramp.*
 
 **Figure X02.5 J Detectable Warning at Blended Curb**
 
-![Shows detectable warning at blended curb](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5J.gif)\
+![Shows detectable warning at blended curb]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5J.gif)\
 *Shows detectable warning at blended curb.*
 
 **Figure X02.5 K Detectable Warnings at Multi-Use Path**
 
-![Plan view of a multi-use path and road intersection. Detectable warnings are indicated at the intersection.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5K.gif)
+![Plan view of a multi-use path and road intersection. Detectable warnings are indicated at the intersection.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5K.gif)
 
 *Plan view of a multi-use path and road intersection. Detectable warnings are indicated at the intersection.*
 
@@ -2062,7 +2063,7 @@ Detectable warnings shall be provided *only* at the following locations:
 
 **Figure X02.5 L Detectable Warnings at Railroad Crossing**
 
-![Plan view of detectable warnings at a railroad crossing.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5L.gif)
+![Plan view of detectable warnings at a railroad crossing.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5L.gif)
 
 *Plan view of detectable warnings at a railroad crossing.*
 
@@ -2072,7 +2073,7 @@ Detectable warnings shall be provided *only* at the following locations:
 
 **Figure X02.5 M Refuge Island with Detectable Warnings**
 
-![Plan view of pedestrian passage that cuts through a refuge island at the same level as the street. Detectable warnings are shown at each end of the cuts.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5M.gif)
+![Plan view of pedestrian passage that cuts through a refuge island at the same level as the street. Detectable warnings are shown at each end of the cuts.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5M.gif)
 
 *Plan view of pedestrian passage that cuts through a refuge island at the same level as the street. Detectable warnings are shown at each end of the cuts.*
 
@@ -2100,13 +2101,13 @@ A few committee members did not fully support this recommendation, feeling there
 
 **Figure X02.5 N Dome Section**
 
-![Section of dome from a detectable warning. Drawing shows height, top and bottom dimensions.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5N.gif)
+![Section of dome from a detectable warning. Drawing shows height, top and bottom dimensions.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5N.gif)
 
 *Section of dome from a detectable warning. Drawing shows height, top and bottom dimensions.*
 
 **Figure X02.5 O Dome Spacing**
 
-![Plan and section views of detectable warning domes and their relative spacing on the x and y axis.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5O.gif)
+![Plan and section views of detectable warning domes and their relative spacing on the x and y axis.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5O.gif)
 
 *Plan and section views of detectable warning domes and their relative spacing on the x and y axis.*
 
@@ -2118,7 +2119,7 @@ A few members of the committee felt that there needed to be more flexibility in 
 
 **Figure X02.5 P Dome Alignment**
 
-![Plan view of a detectable warning surface showing domes aligned in rows, not skewed diagonally.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.5P.gif)
+![Plan view of a detectable warning surface showing domes aligned in rows, not skewed diagonally.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.5P.gif)
 
 *Plan view of a detectable warning surface showing domes aligned in rows, not skewed diagonally.*
 
@@ -2279,25 +2280,25 @@ Obstructions such as *street furniture*, fire hydrants, parking meters, signs, 
 
 **Figure X02.6 A Parallel Parking**
 
-![Two accessible parallel parking spaces sharing a perpendicular access aisle between the two spaces. The access aisle is 5' wide, minimum. In one space, the vehicle is shown parked close to the curb, while in the other space, the car is parked closer to traffic to allow exiting the vehicle on the curb side.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.6A.gif)
+![Two accessible parallel parking spaces sharing a perpendicular access aisle between the two spaces. The access aisle is 5' wide, minimum. In one space, the vehicle is shown parked close to the curb, while in the other space, the car is parked closer to traffic to allow exiting the vehicle on the curb side.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.6A.gif)
 
 *Two accessible parallel parking spaces sharing a perpendicular access aisle between the two spaces. The access aisle is 5' wide, minimum. In one space, the vehicle is shown parked close to the curb, while in the other space, the car is parked closer to traffic to allow exiting the vehicle on the curb side.*
 
 **Figure X02.6 B Parallel Parking Space without Access Aisle**
 
-![A single accessible parallel parking space with a 5' access aisle at the rear of the space. Dimensions depict the exception proposed in this report to not require the access aisle if there is less than 12' of available right of way from the normal curb line to the right of way line.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.6B.gif)
+![A single accessible parallel parking space with a 5' access aisle at the rear of the space. Dimensions depict the exception proposed in this report to not require the access aisle if there is less than 12' of available right of way from the normal curb line to the right of way line.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.6B.gif)
 
 *A single accessible parallel parking space with a 5' access aisle at the rear of the space. Dimensions depict the exception proposed in this report to not require the access aisle if there is less than 12' of available right of way from the normal curb line to the right of way line.*
 
 **Figure X02.6 C Perpendicular Parking**
 
-![A single perpendicular accessible parking space with a 5' access aisle to the right of the space. On the right, the figure shows two van accessible perpendicular parking spaces with a common 8' access aisle between them.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.6C.gif)
+![A single perpendicular accessible parking space with a 5' access aisle to the right of the space. On the right, the figure shows two van accessible perpendicular parking spaces with a common 8' access aisle between them.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.6C.gif)
 
 *A single perpendicular accessible parking space with a 5' access aisle to the right of the space. On the right, the figure shows two van accessible perpendicular parking spaces with a common 8' access aisle between them.*
 
 **Figure X02.6 D Angle Parking**
 
-![Two angle accessible parking spaces with a 5' access aisle between them and two van accessible angle parking spaces with an 8' access aisle between them. The figure depicts a total of 4 parking spaces with a curb ramp for each access aisle.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/2.6D.gif)
+![Two angle accessible parking spaces with a 5' access aisle between them and two van accessible angle parking spaces with an 8' access aisle between them. The figure depicts a total of 4 parking spaces with a curb ramp for each access aisle.]({{ site.baseurl }}/images/advisory-committee-reports/prow/2.6D.gif)
 
 *Two angle accessible parking spaces with a 5' access aisle between them and two van accessible angle parking spaces with an 8' access aisle between them. The figure depicts a total of 4 parking spaces with a curb ramp for each access aisle.*
 
@@ -2481,13 +2482,13 @@ Barricades shall be installed in the following locations:
 
 **Figure X03.2 A A Section of Barricade**
 
-![Isometric view shows toe and protective rails at required heights.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/3.2A.gif)
+![Isometric view shows toe and protective rails at required heights.]({{ site.baseurl }}/images/advisory-committee-reports/prow/3.2A.gif)
 
 *Isometric view shows toe and protective rails at required heights.*
 
 **Figure X03.2 B Curb Ramp Barricade**
 
-![Isometric view shows a continuous toe rail and protective railing blocking](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/3.2B.gif)
+![Isometric view shows a continuous toe rail and protective railing blocking]({{ site.baseurl }}/images/advisory-committee-reports/prow/3.2B.gif)
 
 *Isometric view shows a continuous toe rail and protective railing blocking\
 the leading end and sides of a curb ramp.*
