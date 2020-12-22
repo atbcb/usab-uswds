@@ -26,7 +26,7 @@ The Access Board issued proposed guidelines for public comment.  The Board is 
 
 - October 20, 1999 -- The Board [organizes](https://www.federalregister.gov/documents/1999/10/20/99-27329/public-rights-of-way-access-advisory-committee-meeting) the Public Rights-of-Way Access Advisory Committee.
 
-- January 10, 2001 - The Public Rights-of-Way Access Advisory Committee submits its [report]({{ site.baseurl }}/prowag/prowaac-report.html) to the Board.
+- January 10, 2001 - The Public Rights-of-Way Access Advisory Committee submits its [report](/prowag/prowaac-report.html) to the Board.
 
 - June 17, 2002 -- The Board releases [draft guidelines](/prowag/draft-2002.html) for public comment.
 
