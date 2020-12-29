@@ -12,7 +12,7 @@ ta-email-pre:
 
 <div class="desktop:grid-col-2 margin-top-3 margin-x-1">
   <div class="height-viewport sticky">
-    <div class="padding-2 bg-white border maxh-viewport">
+    <div class="padding-2 bg-white border maxh-viewport overflow-y-auto">
       <div class="text-center">
         {% if page.s-image %}
         <a class="usa-link" href="{{ site.baseurl }}{{ page.s-url }}">
@@ -36,7 +36,9 @@ ta-email-pre:
         </div>
 
       </div>
-
+      {% if page.subscribe-value %}
+        {% include subscribe.html %}
+      {% endif %}
       {% include back-to-top.html %}
     </div>
 

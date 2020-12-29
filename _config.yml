@@ -195,6 +195,8 @@ defaults:
       s-image: stock/guide.svg
       ta-text: "Contact the Access Board for guidance on these standards:"
       ta-email-pre: ta
+      subscribe-name: buildings and sites
+      subscribe-value: USACCESS_28
   - scope:
       path: ""
       type: "ada-guides"
@@ -212,6 +214,8 @@ defaults:
       s-image: stock/ada.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
+      subscribe-name: buildings and sites
+      subscribe-value: USACCESS_28
   - scope:
       path: ""
       type: "animations"
@@ -236,6 +240,8 @@ defaults:
       s-image: stock/guide.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
+      subscribe-name: buildings and sites
+      subscribe-value: USACCESS_28
   - scope:
       path: ""
       type: "aba-guides"
@@ -253,6 +259,8 @@ defaults:
       s-image: stock/aba.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
+      subscribe-name: buildings and sites
+      subscribe-value: USACCESS_28
   - scope:
       path: ""
       type: "prowag"
@@ -267,6 +275,8 @@ defaults:
       right-sidenav: sidenav-right-universal.html
       ta-text: Contact the Access Board for assistance on these guidelines
       ta-email-pre: row
+      subscribe-name: streets and sidewalks
+      subscribe-value: USACCESS_12
   - scope:
       path: ""
       type: "prowag-rulemaking"
@@ -293,6 +303,8 @@ defaults:
       s-image: stock/guide.svg
       ta-text: Contact the Access Board for assistance on these guidelines
       ta-email-pre: ta
+      subscribe-name: transportation
+      subscribe-value: USACCESS_13
   - scope:
       path: ""
       type: "ada-vehicles-guides"
@@ -309,6 +321,8 @@ defaults:
       s-image: stock/ada-vehicles.svg
       ta-text: Contact the Access Board for assistance on these guidelines
       ta-email-pre: ta
+      subscribe-name: transportation
+      subscribe-value: USACCESS_13
   - scope:
       path: ""
       type: "ict"
@@ -324,6 +338,8 @@ defaults:
       right-sidenav: sidenav-right-universal.html
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: "508"
+      subscribe-name: information and communication technology
+      subscribe-value: USACCESS_3
   - scope:
       path: ""
       type: "mde"
@@ -338,6 +354,8 @@ defaults:
       right-sidenav: sidenav-right-universal.html
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: mde
+      subscribe-name: healthcare
+      subscribe-value: USACCESS_20
   - scope:
       path: ""
       type: "pvag"
@@ -353,6 +371,8 @@ defaults:
       right-sidenav: sidenav-right-universal.html
       ta-text: Contact the Access Board for further guidance on access to passenger vessels
       ta-email-pre: pvag
+      subscribe-name: transportation
+      subscribe-value: USACCESS_13
   - scope:
       path: ""
       type: "research"
