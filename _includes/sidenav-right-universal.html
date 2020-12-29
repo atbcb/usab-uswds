@@ -16,18 +16,17 @@ ta-email-pre:
       <div class="text-center">
         {% if page.s-image %}
         <a class="usa-link" href="{{ site.baseurl }}{{ page.s-url }}">
-          {% asset {{page.s-image}} class="maxh-15" alt="" %}
+          {% asset {{page.s-image}} class="maxh-15" alt="guides or standards icon" %}
         <span class="usa-button">{{ page.s-url-text }}</span>
         </a>
         {% endif %}
       </div>
       <div class="margin-top-2 text-center">
-        {% asset stock/question.svg class="maxh-15" alt="" %}
+        {% asset stock/question.svg class="maxh-15" alt="questions icon" %}
         
-        <div class="text-center">
-          <h4 class="padding-1 bg-secondary-darker text-white">Technical Assistance</h4>
-          <span class="font-body-3xs">{{ page.ta-text }}</span>
-          <br>
+        <div class="text-center line-height-sans-2 bg-secondary-lighter padding-x-1 padding-bottom-1">
+          <p class="padding-1 bg-secondary-darker text-white text-bold margin-bottom-1 margin-x-neg-1">Technical Assistance</p>
+          <p class="font-body-3xs">{{ page.ta-text }}</p>
           <ul class="usa-list usa-list--unstyled padding-top-1 font-body-3xs">
           <li class="padding-bottom-0">800-872-2253 (v)</li>
           <li class="padding-bottom-0">800-993-2822 (tty)</li>
