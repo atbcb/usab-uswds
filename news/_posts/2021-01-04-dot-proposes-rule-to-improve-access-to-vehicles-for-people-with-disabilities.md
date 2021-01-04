@@ -3,8 +3,8 @@ layout: post
 title: DOT Proposes Rule to Improve Access to Vehicles for People with Disabilities
 date: 2021-01-04
 excerpt: The U.S. Department of Transportation’s National Highway Traffic Safety
-  Administration has released for public comment a proposed rule to improve
-  access to . . .
+  Administration has released for public comment a proposed rule to improve . .
+  .
 tags:
   - current events
 featured: false
