@@ -21,16 +21,16 @@ The Board is undertaking this initiative jointly with other agencies, including 
 
 The planned schedule is: 
 
-> *Accessibility for Passengers with Mobility Disabilities: Entering and Exiting Vehicles* 
+> *Accessibility for Passengers with Mobility Disabilities: Entering and Exiting Vehicles*\
 > March 10, 2021, 2:00 – 3:30 (ET) 
 >
 > *Accessibility for Passengers with Mobility Disabilities: Maneuvering and Securement in Vehicles*\
 > March 24, 2021, 2:00 – 3:30 (ET) 
 >
-> *Communication Accessibility for Passengers with Sensory or Cognitive Disabilities* 
+> *Communication Accessibility for Passengers with Sensory or Cognitive Disabilities*\
 > April 7, 2021, 2:00 – 3:30 (ET) 
 >
-> *Findings, Recommendations, Future Research, and Suggested Next Steps* 
+> *Findings, Recommendations, Future Research, and Suggested Next Steps*\
 > April 21, 2021, 2:00 – 3:30 (ET) 
 
 Each session will feature presentations by agency representatives and invited speakers who will review relevant information and research and outline issues and questions for discussion. An open dialogue with attendees will follow. In addition, an online crowdsourcing platform (ePolicyWorks) will provide a forum for continued discussion after the live session.  
