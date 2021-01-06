@@ -20,7 +20,7 @@ Additions and alterations undertaken at existing facilities are covered by the A
 
 ### Additions
 
-[[§F202.2]({{ site.baseurl }}/aba/ch02/#f2022)]
+[[§F202.2]({{ site.baseurl }}/aba/#f2022)]
 
 Projects that increase, expand, or extend a facility’s gross floor area or height of a facility are considered additions (as defined in §F106.5) and must comply with requirements of the standards applicable to new construction. However, existing elements and spaces affected by an addition are treated as alterations and qualify for certain allowances or exceptions that are not permitted in new construction.
 
@@ -46,7 +46,7 @@ _If not included in an addition, these elements and spaces must be made accessib
 
 ### Alterations
 
-[[§F202.3]({{ site.baseurl }}/aba/ch02/#f2023)]
+[[§F202.3](/aba/#f2023)]
 
 Alterations are defined in the standards (§F106.5) as “a change in a building or facility that affects or could affect the usability of a building or facility or portion thereof.” Many types of projects are covered as “alterations”, including remodeling, renovation, rehabilitation, reconstruction, restoration, resurfacing of circulation paths or vehicular ways, and changes or rearrangement of structural parts, elements, or walls. Normal maintenance, reroofing, painting or wallpapering, or changes to mechanical and electrical systems are not considered alterations unless they affect a facility’s usability. For example, a project limited to an HVAC system that includes the addition of thermostats would affect a facility’s usability because it involves elements (operable parts) covered by the standards.
 
