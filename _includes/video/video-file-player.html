@@ -1,24 +1,29 @@
 <div class="padding-2 border bg-white shadow">
   <h3 class="border-bottom-05 border-primary-dark margin-bottom-2 text-left">{{ include.name }}</h3>
   <video
-    id="{{ include.name | replace: " ", "-" }}-video"
+    id="{{ include.name | slugify: 'latin' }}-video"
     class="video-js vjs-default-skin vjs-fluid"
     data-setup='{}'
     poster="{{ site.baseurl }}{{ include.image }}"
     controls
     fluid
     preload
-    autoplay
   >
     <source src="{{ site.baseurl }}{{ include.video_path }}" type="video/mp4" />
     <track src=" {{ site.baseurl }}{{ include.caption_path }}" kind="captions" srclang="en" default="default" ></track>
   </video>
+  <h4>Share Video</h4>
 </div>
 
+{% asset video.min.js %}
+
 <script>
-  (function() {
+  let pagePlayer;
+
+  (function playVideo() {
+    let elementId = "{{ include.name | slugify: 'latin' }}-video";
     let currentTime = "0";
-    let currentURL = window.location.href
+    let currentURL = window.location.href;
     let currentUrlElements = currentURL.split('?');
 
     if (currentUrlElements.length > 1) {
@@ -29,8 +34,12 @@
       }
     }
 
-    // Todo Pull in videojs after it has loaded
-    let pagePlayer = videojs("{{ include.name | replace: " ", "-" }}-video");
+    pagePlayer = videojs(elementId);
 
+    pagePlayer.ready(function() {
+      pagePlayer.currentTime(currentTime);
+    })
   })();
+
+  setInterval(console.log(pagePlayer.currentTime()), 1000);
 </script>
