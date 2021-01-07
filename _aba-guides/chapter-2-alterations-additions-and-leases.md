@@ -8,7 +8,7 @@ This guide provides an introduction to the scoping requirements of the [ABA Stan
 
 ### General
 
-[[§F202.1]({{ site.baseurl }}/aba/#f202_1)]
+[[§F202.1]({{ site.baseurl }}/aba/#f2021)]
 
 <div class="clearfix border float-right padding-left-1 padding-right-1 margin-1" markdown="1" style="width: 35%;">
 ![cover of the Uniform Federal Accessibility Standards (UFAS)]({{ site.baseurl }}{{ page.image-directory }}chapter2-aba/nc3.jpg){: .float-right .img-right}
@@ -20,7 +20,7 @@ Additions and alterations undertaken at existing facilities are covered by the A
 
 ### Additions
 
-[[§F202.2]({{ site.baseurl }}/aba/#f202_2)]
+[[§F202.2]({{ site.baseurl }}/aba/#f2022)]
 
 Projects that increase, expand, or extend a facility’s gross floor area or height of a facility are considered additions (as defined in §F106.5) and must comply with requirements of the standards applicable to new construction. However, existing elements and spaces affected by an addition are treated as alterations and qualify for certain allowances or exceptions that are not permitted in new construction.
 
