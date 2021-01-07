@@ -60,7 +60,7 @@ The US Access Board has developed guides to the ABA Standards.
 
 
 <div class="grid-container margin-y-3 text-center">
-    <a class="usa-button usa-button--big margin-x-auto" href="{{ site.baseurl }}/aba/guides/">View ABA Guides</a>
+    <a class="usa-button usa-button--big margin-x-auto" href="/aba/guides/">View ABA Guides</a>
 </div>
 
 
