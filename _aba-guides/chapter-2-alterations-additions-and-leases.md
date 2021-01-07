@@ -8,7 +8,7 @@ This guide provides an introduction to the scoping requirements of the [ABA Stan
 
 ### General
 
-[[§F202.1]({{ site.baseurl }}/aba/ch02/#f2021)]
+[[§F202.1]({{ site.baseurl }}/aba/#f2021)]
 
 <div class="clearfix border float-right padding-left-1 padding-right-1 margin-1" markdown="1" style="width: 35%;">
 ![cover of the Uniform Federal Accessibility Standards (UFAS)]({{ site.baseurl }}{{ page.image-directory }}chapter2-aba/nc3.jpg){: .float-right .img-right}
@@ -46,7 +46,7 @@ _If not included in an addition, these elements and spaces must be made accessib
 
 ### Alterations
 
-[[§F202.3](/aba/#f2023)]
+[[§F202.3]({{ site.baseurl }}/aba/#f2023)]
 
 Alterations are defined in the standards (§F106.5) as “a change in a building or facility that affects or could affect the usability of a building or facility or portion thereof.” Many types of projects are covered as “alterations”, including remodeling, renovation, rehabilitation, reconstruction, restoration, resurfacing of circulation paths or vehicular ways, and changes or rearrangement of structural parts, elements, or walls. Normal maintenance, reroofing, painting or wallpapering, or changes to mechanical and electrical systems are not considered alterations unless they affect a facility’s usability. For example, a project limited to an HVAC system that includes the addition of thermostats would affect a facility’s usability because it involves elements (operable parts) covered by the standards.
 
