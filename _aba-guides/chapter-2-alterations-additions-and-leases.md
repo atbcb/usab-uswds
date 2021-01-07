@@ -141,7 +141,7 @@ Other examples where compliance could potentially be technically infeasible incl
 
 ### Alterations Affecting Primary Function Areas
 
-[[§F202.4]({{ site.baseurl }}/aba/ch02/#f2024)]
+[[§F202.4]({{ site.baseurl }}/aba/#aba-f202_4)]
 
 Additional requirements apply when alterations are made to areas containing a “primary function”, which is a major activity intended for a facility. Examples of primary function areas include dining areas of a restaurant, retail space in a store, exam rooms in a doctor’s office, classrooms in a school, and offices and other work areas where the activities of a covered entity are carried out. Spaces not considered primary function areas include entrances, corridors, restrooms, break rooms, employee locker rooms, and mechanical or electrical closets. Restrooms are not primary function areas unless their provision is the primary purpose of a facility, such as a highway rest stop.
 
@@ -176,7 +176,7 @@ Compliance is required up to the point the 20% cost cap is reached, even where i
 
 ### Alterations to Qualified Historic Facilities
 
-[[§F202.5]({{ site.baseurl }}/aba/ch02/#f2025)]
+[[§F202.5]({{ site.baseurl }}/aba/#aba-f202_5)]
 
 ![Historic designation plaque: "This property has been placed on the National Register of Historic Places"]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a14.jpg){: .float-right .thumbnail-wide}
 
@@ -190,7 +190,7 @@ The standards also provide several exceptions where compliance with the standard
 
 ### Leases
 
-[[§F202.6]({{ site.baseurl }}/aba/ch02/#f2026)]
+[[§F202.6]({{ site.baseurl }}/aba/#aba-f202_6)]
 
 <div class="border float-right padding-left-1 padding-right-1" markdown="1" style="width: 35%;">
 ![GSA logo]({{ site.baseurl }}{{ page.image-directory }}chapter2-aba/a4.jpg){: .float-right .img-right}
