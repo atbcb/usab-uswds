@@ -12,7 +12,11 @@
     <source src="{{ site.baseurl }}{{ include.video_path }}" type="video/mp4" />
     <track src=" {{ site.baseurl }}{{ include.caption_path }}" kind="captions" srclang="en" default="default" ></track>
   </video>
-  <h4>Share Video</h4>
+  <div>
+    <h4>Share Video</h4>
+    <p id="timer"></p>
+  </div>
+  
 </div>
 
 {% asset video.min.js %}
@@ -39,7 +43,14 @@
     pagePlayer.ready(function() {
       pagePlayer.currentTime(currentTime);
     })
+
+    //document.getElementById("timer").innerHTML = currentTime;
   })();
 
-  setInterval(console.log(pagePlayer.currentTime()), 1000);
+document.getElementById("{{ include.name | slugify: 'latin' }}-video_html5_api").addEventListener('timeupdate', function() {
+  document.getElementById("timer").innerHTML = this.currentTime;
+  currentTime = this.currentTime;
+});
+
+
 </script>
