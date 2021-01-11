@@ -8,7 +8,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/)
 
 ### Protruding Objects
 
-[[§F204]({{ site.baseurl }}/aba/#aba-f204)
+[[§F204]({{ site.baseurl }}/aba/#aba-f204)]
 
 To prevent hazards to people with vision impairments, the standards limit the projection of objects into circulation paths. These requirements apply to all circulation paths and are not limited to accessible routes. Circulation paths include interior and exterior walks, paths, hallways, courtyards, elevators, platform lifts, ramps, stairways, and landings.
   
