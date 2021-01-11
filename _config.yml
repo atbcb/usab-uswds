@@ -131,6 +131,9 @@ collections:
   ada-guides:
     output: true
     permalink: /ada/guides/:path/
+  animations:
+    output: true
+    permalink: /animations/:path/
   aba-guides:
     output: true
     permalink: /aba/guides/:path/
@@ -209,6 +212,13 @@ defaults:
       s-image: stock/ada.svg
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: ta
+  - scope:
+      path: ""
+      type: "animations"
+    values:
+      layout: page-right-sidenav
+      right-sidenav: sidenav-animations.html
+      banner-title: Accessibility Animations
   - scope:
       path: ""
       type: "aba"
@@ -477,4 +487,5 @@ assets:
     - node_modules/jquery-toast-plugin/dist
     - node_modules/@fortawesome/fontawesome-free/css
     - node_modules/@fortawesome/fontawesome-free/js
+    - node_modules/swiper
     - images

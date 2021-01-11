@@ -209,6 +209,20 @@ td ul.check {
   }
 }
 
+
+//usa hero custom styling
+
+@media (min-width: 40em) {
+  .usa-hero__callout {
+  max-width: 30rem;
+  }
+}
+
+.usa-hero__callout {
+  padding: 1rem;
+  }
+
+  
 /* .usa-logo__text::before {
   background-image: url(../images/usab-logo.svg);
   background-repeat: no-repeat;
@@ -486,6 +500,30 @@ a.style-inherit {
   text-decoration: inherit; // no underline
 }
 
+.pdf-button-container {
+  position: relative;
+  height: 5rem;
+  overflow: hidden;
+  
+}
+
+.pdf-button {
+  margin-right: .5rem;
+  margin-top: .5rem;
+}
+
+.pdf-button:focus:before {
+  content:attr(title);
+  position: absolute; 
+  bottom: .1rem; 
+  right: .1rem;
+  padding: .1em .2em;
+  background: #ffffff; color: #005EA2;
+  border: 2px solid black;
+  font-size: 80%;
+  font-weight: 800;
+}
+
 //table of contents styling
 .toc-subnav .usa-accordion__button {
   background-color: white;
@@ -499,3 +537,10 @@ a.style-inherit {
   @include u-bg('primary-lighter');
   color: black;
 }
+
+//filmstrip
+.filmstrip {
+  background: repeating-linear-gradient(45deg, #FFE11A, #FFE11A 50%, #FD7400 50%, #FD7400);
+  background-size: 20px 20px;
+}
+

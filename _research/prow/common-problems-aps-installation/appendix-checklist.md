@@ -1,5 +1,4 @@
 ---
-title: Appendix Checklist for APR Installations
 order-number: 4
 toc-group: Common Problems Arising in the Installation of Accessible Pedestrian Signals
 banner-title: Common Problems Arising in the Installation of Accessible Pedestrian Signals
@@ -7,8 +6,9 @@ status: completed
 year-completed: 2009
 topic: Public Rights-of-Way
 ---
+## Appendix: Checklist for APS Installations
 
- (adapted from ["Accessible Pedestrian Signals: A Guide to Best Practice"](http://www.trb.org/news/blurb_detail.asp?id=9102), NCHRP Web-only document 117A).
+(adapted from [Accessible Pedestrian Signals: A Guide to Best Practice](http://www.trb.org/news/blurb_detail.asp?id=9102), NCHRP Web-only document 117A).
 
 Once installation is complete, the installer should perform the following steps, for each APS at the intersection:
 
@@ -70,143 +70,34 @@ Confirm that braille dots are raised to the touch. If possible, have a person wh
 *Check Optional Features, if available*\
 Pushbutton information message - Press the pushbutton for an extended button press to see if the pushbutton information message plays and that it accurately identifies the crossing controlled by the pushbutton and that other information, if provided, is accurate.
 
-Crosswalk map - Confirm that a tactile map accurately represents the crossing features.
+Crosswalk map -- Confirm that a tactile map accurately represents the crossing features.
 
 Audible beaconing -- If installed, press the pushbutton for an extended button press and confirm that the locator tone sound is boosted on that crosswalk during the following pedestrian phase (FDW), and walk across the street during the pedestrian phase and evaluate placement and aiming of devices for providing sound in the crosswalk area.
 
-**Recheck Device Functioning at a Later Time**
+### Recheck Device Functioning at a Later Time
 
 Follow up during the first few weeks after installation, checking device and volume at a different time of day to ensure proper functioning. 
 
 Designate a person and phone number to call and report any malfunctioning device. Share that information with agencies serving individuals who are blind and with community organizations of individuals who are blind.
 
-|
+## APS Checklist
 
-APS Checklist
+**Intersection:** ________________________________________
 
- |
+| Begin on SW corner;<br> walk around intersection clockwise | West Crosswalk<br> APS 1 | West Crosswalk<br> APS 2 | North Crosswalk<br> APS 1 | North Crosswalk<br> APS 2 | East Crosswalk<br> APS 1 | East Crosswalk<br> APS 2 | South Crosswalk<br> APS 1 |South Crosswalk<br> APS 2 |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+| APS/pushbutton located by crosswalk it controls | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Pushbuttons at 42" above ground/level surface? | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Tactile arrow aimed in line crosswalk direction? | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Audible WALK indication correct? | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Vibrotactile WALK indication works? | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| WALK indication audible at crosswalk beginning | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Locator tone volume only audible 6 -- 12 ft from pushbutton? | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Automatic volume adjustment functioning? | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Braille correct? | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Optional features -- pushbutton information message correct? | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Optional features -- crosswalk map correct? | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+| Optional features - Audible beaconing functioning properly? | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; | &nbsp; |
+{: .usa-table }
 
-Intersection:
-
- |
-|
-
-**Begin on SW corner;\
-walk around intersection\
-clockwise**
-
- |
-
-West crosswalk
-
- |
-
-North crosswalk
-
- |
-
-East crosswalk
-
- |
-
-South crosswalk
-
- |
-|   |
-
-APS 1
-
- |
-
-APS 2
-
- |
-
-APS 3
-
- |
-
-APS 4
-
- |
-
-APS 5
-
- |
-
-APS 6
-
- |
-
-APS 7
-
- |
-
-APS 8
-
- |
-|
-
-APS/pushbutton located by crosswalk it controls
-
- |   |   |   |   |   |   |   |   |
-|
-
-Pushbuttons at 42" above ground/level surface?
-
- |   |   |   |   |   |   |   |   |
-|
-
-Tactile arrow aimed in line crosswalk direction?
-
- |   |   |   |   |   |   |   |   |
-|
-
-Audible WALK indication correct?
-
- |   |   |   |   |   |   |   |   |
-|
-
-Vibrotactile WALK indication works?
-
- |   |   |   |   |   |   |   |   |
-|
-
-WALK indication audible at crosswalk beginning
-
- |   |   |   |   |   |   |   |   |
-|
-
-Locator tone volume only audible 6 -- 12 ft from pushbutton?
-
- |   |   |   |   |   |   |   |   |
-|
-
-Automatic volume adjustment functioning?
-
- |   |   |   |   |   |   |   |   |
-|
-
-Braille correct?
-
- |   |   |   |   |   |   |   |   |
-|
-
-Optional features -- pushbutton information message correct?
-
- |   |   |   |   |   |   |   |   |
-|
-
-Optional features -- crosswalk map correct?
-
- |   |   |   |   |   |   |   |   |
-|
-
-Optional features - Audible beaconing functioning properly?
-
- |   |   |   |   |   |   |   |   |
-|
-
-Comments/notes
-
- |
+Comments / notes:

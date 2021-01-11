@@ -5,7 +5,7 @@ full_name: Sachin Dev Pavithran
 chair: false
 vice-chair: false
 member: public
-status: current
+status: former
 president: Obama
 image: /images/uploads/pavithran.jpg
 ---

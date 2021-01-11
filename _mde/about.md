@@ -3,7 +3,7 @@ title: About
 order-number: 0
 permalink: /mde/
 file: /files/mde/mde-rule.pdf
-file-description: PDF version of Final Rule
+file-description: Standards for Accessible Medical Diagnostic Equipment
 ---
 
 ### About the Accessibility Standards for Medical Diagnostic Equipment
