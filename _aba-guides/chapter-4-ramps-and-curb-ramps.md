@@ -168,7 +168,7 @@ Landings subject to wet conditions must be designed to prevent the accumulation 
 
 ### Curb Ramps
 
-[[§406]({{ site.baseurl }}/aba/#aba-406)
+[[§406]({{ site.baseurl }}/aba/#aba-406)]
 
 Requirements for curb ramps apply to ramps that cut through curbs or are built up to them.  New guidelines the Board is developing for public rights-of-way will further address curb ramps located along public streets and sidewalks, but they are not discussed in this guide.
 
