@@ -6,7 +6,7 @@ permalink: /aircraft/
 ---
 ##  Feasibility Study
 
-{% asset autonomous-bus.jpg alt="Autonomous Bus" class="float-right" %}
+{% asset stock/aircraft.jpg alt="airplane flying into sunset" class="img-right shadow radius-lg" %}
 
 [Phil to add content]
 
