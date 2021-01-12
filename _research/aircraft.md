@@ -1,10 +1,9 @@
 ---
-banner-title: Accessibility on Aircraft
+banner-title: Study on the Feasibility of Wheelchair Securement Systems on Aircraft
 layout: page-right-sidenav
 right-sidenav: sidenav-aircraft.html
 permalink: /aircraft/
 ---
-## Study on the Feasibility of Wheelchair Securement Systems on Aircraft 
 
 {% asset stock/aircraft.jpg alt="airplane flying into sunset" class="img-right shadow radius-lg" %}
 
