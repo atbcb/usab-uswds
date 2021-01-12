@@ -20,7 +20,7 @@ The committee held a series of closed and open meetings in 2020.  It will contin
 
 Visit [TRB’s website](https://www8.nationalacademies.org/pa/projectview.aspx?key=51840) for further information on this project.  Direct questions to Mario Damiani of the Access Board at (202) 272-0050 or [damiani@access-board.gov](damiani@access-board.gov) or to Anusha Jayasinghe of TRB at [AJayasinghe@nas.edu](AJayasinghe@nas.edu) or (202) 334-2401. 
 
-FAA Reauthorization Act of 2018 (Public Law 115-254) 
+### FAA Reauthorization Act of 2018 (Public Law 115-254) 
 
 *SEC. 432. STUDY ON IN-CABIN WHEELCHAIR RESTRAINT SYSTEMS.** 
 
