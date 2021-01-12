@@ -8,7 +8,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Compliance
 
-[[§F209]({{ site.baseurl }}/aba/#aba-f209)
+[[§F209]({{ site.baseurl }}/aba/#aba-f209)]
 
 Where passenger loading zones are provided, at least one accessible passenger loading zone is required in every continuous 100 linear feet of loading zone or fraction thereof.  Compliance is required only where areas are specifically designed or designated for passenger loading, such as those at airports, many hotels, and convention centers.
 
@@ -29,7 +29,7 @@ Accessible passenger loading zones must be provided at these facilities, whether
 
 ### Accessible Passenger Loading Zones
 
-[[§503]({{ site.baseurl }}/aba/#aba-503)
+[[§503]({{ site.baseurl }}/aba/#aba-503)]
 
 Requirements for accessible passenger loading zones address vehicle pull-up spaces and access aisles, including their dimensions, surfacing, and vertical clearance.
 
@@ -37,7 +37,7 @@ Requirements for accessible passenger loading zones address vehicle pull-up spac
 
 ### Bus Loading Areas and On-Street Bus Stops
 
-[[§F209.2.2]({{ site.baseurl }}/aba/ch02/#f20922) and [§F209.2.3]({{ site.baseurl }}/aba/ch02/#f20923)]
+[[§F209.2.2]({{ site.baseurl }}/aba/#aba-f209_2_2) and [§F209.2.3]({{ site.baseurl }}/aba/#aba-f209_2_3)]
 
 Loading zones designed for buses that provide general or special service, including charter service, to the public on a regular and continuing basis are required to comply with provisions for bus boarding and alighting areas (§810.2) in the transportation facility section of the Standards.  This includes bus service provided by public transit agencies and other state or local government entities, excluding public school transportation (referred to as “designated public transportation” in ADA regulations issued by the Department of Transportation (DOT)).  It also applies to those serving tour, charter, and shuttle buses operated by private entities (referred to as “specified public transportation” in DOT’s regulations).  On-street bus stops also must comply with requirements in §810.2 to the maximum extent practicable.
 
