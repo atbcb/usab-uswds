@@ -21,7 +21,7 @@ Visit [TRB’s website](https://www8.nationalacademies.org/pa/projectview.aspx?k
 
 ### FAA Reauthorization Act of 2018 (Public Law 115-254) 
 
-*SEC. 432. STUDY ON IN-CABIN WHEELCHAIR RESTRAINT SYSTEMS.** 
+*SEC. 432. STUDY ON IN-CABIN WHEELCHAIR RESTRAINT SYSTEMS.* * 
 
 *(a) STUDY. Not later than 2 years after the date of enactment of this Act, the Architectural and Transportation Barriers Compliance Board, in consultation with the Secretary of Transportation, aircraft manufacturers, air carriers, and disability advocates, shall conduct a study to determine:*
 
