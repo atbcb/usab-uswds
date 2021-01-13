@@ -52,10 +52,6 @@ site, this is the place to do it.
   <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{% asset favicon.ico @path %}">
 
-{% asset jquery-3.3.1.js %}
-{% asset jquery.dataTables.minke.js %}
-{% asset natural.js %}
-
   <!-- CSS
     ================================================== -->
   {% asset index.scss %}
@@ -67,6 +63,9 @@ site, this is the place to do it.
 
 {% if page.title == "Map of WCAG to Section 508 FPC" %}
 <meta name=viewport content="width=device-width, initial-scale=1">
+{% asset jquery-3.3.1.js %}
+{% asset jquery.dataTables.minke.js %}
+{% asset natural.js %}
 {% asset components/jquery.dataTables.min_ke.css %}
 {% asset components/responsive.dataTables.minke.css %}
 <style>
