@@ -4,6 +4,7 @@
   src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency={{site.dap.agency}}{% if site.dap.subagency %}&subagency={{site.dap.subagency}}{% endif %}"
 ></script>
 
+{% asset accResponsiveTable.js %}
 <!-- imported js modules -->
 {% asset uswds.min.js %}
 {% asset stickyfill.js %}
@@ -11,7 +12,12 @@
 {% asset anchor-rsd.js %}
 {% asset video.min.js %}
 {% asset Youtube.min.js %}
-{% asset jquery.min.js %}
+<!--{% if page.title == "Map of WCAG to Section 508 FPC" %}-->
+ 
+  <!--{% endif %} 
+{% unless page.title == "Map of WCAG to Section 508 FPC" %}
+  {% asset jquery.min.js %}
+{% endunless %}-->
 {% asset swiper-bundle.js %}
 <!-- {% asset jquery.toast.min.js %} -->
 {% asset toast-rsd.js %}
