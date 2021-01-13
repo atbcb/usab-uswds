@@ -14,9 +14,7 @@ The Board welcomes information on research initiatives related to accessibility 
 For more information about the Board’s research program, contact Dave Yanchulis, Director of the Office of Technical and Information Services, at <ta@access-board.gov>.
 
 ## Ongoing Research
-- [Study on Aircraft Wheelchair Restraint Systems]()
-- [Onboard Wheelchair in Aircraft]()
-
+- [Study on Aircraft Wheelchair Restraint Systems]({{ site.baseurl }}/aircraft/)
 
 ## Completed Research
 ### Building Elements and Spaces
