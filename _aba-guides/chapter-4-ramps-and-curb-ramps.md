@@ -13,7 +13,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba
 Ramps and curb ramps are required along accessible routes to span changes in level greater than ½”.  Elevators and, under certain specified conditions, platform lifts, can be used as an alternative.  Portions of accessible routes with running slopes steeper than 5% also must be treated as ramps.
 
 #### Ramp Requirements 
-[[§405]({{ site.baseurl }}/aba/#aba-405)
+[[§405]({{ site.baseurl }}/aba/#aba-405)]
 
 ![Ramp with landings.  Notes:  Clear Width (§405.5) 36” min. (between leading edge of handrails) Handrails (§405.8) on both sides if rise greater than 6”, Running Slope (§405.2) 1:12 max Cross Slope (§405.3), 1:48 max, Rise (§405.6) 30” max per run, Cross Slope (§405.3)    1:48 max, Surfaces (§405.4) firm, stable, and slip-resistant (run and landing surfaces),  Edge Protection (§405.9) along ramp run and landings, Level Landings (§405.7)   at top and bottom, Alterations (§405.2), Permitted running slopes where space is limited: 1:10 max (6” max rise) or 1:8 max (3” max rise), Wet Conditions (§405.10), Landings must be designed to prevent the accumulation of water.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr2.jpg){: .img-large}
 
@@ -67,7 +67,7 @@ Intermediate landings between runs must be at least 60” wide clear and 60” l
 
 ### Doorways at Landings
 
-[[§405.7.5]({{ site.baseurl }}/aba/#aba-405_75)]
+[[§405.7.5]({{ site.baseurl }}/aba/#aba-405_7_5)]
 
 Required door maneuvering clearances can overlap ramp landings (it is advisable to locate the swing of doors outside ramp landings for greater safety).
 
@@ -77,7 +77,7 @@ Required door maneuvering clearances can overlap ramp landings (it is advisable 
 
 ### Handrails
 
-[[§405.8]({{ site.baseurl }}/aba/#aba-405_8), [§505]({{ site.baseurl }}/aba/#aba-505)
+[[§405.8]({{ site.baseurl }}/aba/#aba-405_8), [§505]({{ site.baseurl }}/aba/#aba-505)]
 
 Handrails are required on both sides of ramps with a rise greater than 6”.  The Standards do not require lower handrails serving children except at ramps serving play areas, but include a recommended height (28” max.) and separation (9” min.) from the required handrail to minimize entrapment hazards.
 
@@ -168,14 +168,14 @@ Landings subject to wet conditions must be designed to prevent the accumulation 
 
 ### Curb Ramps
 
-[[§406]({{ site.baseurl }}/aba/#aba-406)
+[[§406]({{ site.baseurl }}/aba/#aba-406)]
 
 Requirements for curb ramps apply to ramps that cut through curbs or are built up to them.  New guidelines the Board is developing for public rights-of-way will further address curb ramps located along public streets and sidewalks, but they are not discussed in this guide.
 
 ![Curb ramp.  Notes:  Top Landing (§406.4) facilitates maneuvering to and from ramp without travel across side flares, Grade Breaks At top and bottom must be perpendicular to the direction of ramp runs to prevent cross-slope issues and uneven surfaces, Side Flares (where provided) (§406.3), 1:10 max slope, Running Slope (§406.1) 1:12 max, Cross Slope (§406.1) 1:48 max, Location (§406.5) Cannot project into vehicular traffic lanes, parking spaces, or access aisles.  Wet Conditions (§406.1), Curb ramps must be designed to prevent accumulation of water. Alterations (§406.1) Permitted running slopes where space is limited: 1:10 max (6” max rise) or 1:8 max (3” max rise). ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr18.jpg){: .img-large}
   
 #### Transition to Street 
-[[§406.2]({{ site.baseurl }}/aba/#aba-406_2)
+[[§406.2]({{ site.baseurl }}/aba/#aba-406_2)]
 
 ![Curb ramp profile.  Notes:   Smooth Transition at grade break (no lips or other changes in level), Ramp Running Slope 1:12 max, Counter Slope 1:20 max]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr19.jpg){: .img-large}
   
@@ -297,7 +297,7 @@ A 48” min. long separation is necessary between curb ramps so that people usin
 
 #### Detectable Warnings
 
-[[§406.8]({{ site.baseurl }}/aba/#aba-406_8), (DOT’s Standards), [§705]({{ site.baseurl }}/aba/#aba-705)
+[[§406.8]({{ site.baseurl }}/aba/#aba-406_8), (DOT’s Standards), [§705]({{ site.baseurl }}/aba/#aba-705)]
 
 ![Transit icon ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr33.jpg){: .float-right .thumbnail}
 

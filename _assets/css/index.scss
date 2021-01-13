@@ -209,6 +209,20 @@ td ul.check {
   }
 }
 
+
+//usa hero custom styling
+
+@media (min-width: 40em) {
+  .usa-hero__callout {
+  max-width: 30rem;
+  }
+}
+
+.usa-hero__callout {
+  padding: 1rem;
+  }
+
+  
 /* .usa-logo__text::before {
   background-image: url(../images/usab-logo.svg);
   background-repeat: no-repeat;
