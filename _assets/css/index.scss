@@ -220,7 +220,7 @@ li.usa-nav__secondary-item a {
 }
 // change submenu (Guidelines) font color for better contrast
 li.usa-nav__submenu-item>a {
-  color: white;
+  color: white !important;
 }
 
 // override light blue heading used in highlights.html to get a little more contrast 
