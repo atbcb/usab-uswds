@@ -8,7 +8,7 @@ This guide explains criteria for elevators and platform lifts in the [ABA Stand
 
 ### Required Compliance
 
-[[§F206.6]({{ site.baseurl }}/aba/ch02/#f206-Accessible-Routes)]
+[[§F206.6]({{ site.baseurl }}/aba/#aba-f206_6)]
 
 Elevators are the typical means of providing an accessible route between stories and to mezzanines.  In facilities not required to have an accessible route between stories or to mezzanines (see the Accessible Routes guide), a limited-use/ limited-application (LULA) elevator is permitted.  LULAs also are allowed as an alternative to platform lifts and private residence elevators.
 
@@ -63,7 +63,7 @@ Elevators are the typical means of providing an accessible route between stories
 
 ### Elevators
 
-[[§407]({{ site.baseurl }}/aba/#aba-407)
+[[§407]({{ site.baseurl }}/aba/#aba-407)]
 
 #### Elevator Landing Requirements
 
@@ -92,7 +92,7 @@ The ABA Standards specify the minimum car dimensions.  Alternative configuratio
    
 #### Elevator Car Requirements
 
-[[§407.4.2]({{ site.baseurl }}/aba/#aba-407_42) – [§407.4.5]({{ site.baseurl }}/aba/#aba-407_45)]
+[[§407.4.2]({{ site.baseurl }}/aba/#aba-407_4_2) – [§407.4.5]({{ site.baseurl }}/aba/#aba-407_4_5)]
 
 Other requirements for elevator cars include:
 
@@ -107,7 +107,7 @@ Other requirements for elevator cars include:
 
 #### Car Controls
 
-[[§407.4.6]({{ site.baseurl }}/aba/#aba-407_46) and [§407.4.7]({{ site.baseurl }}/aba/#aba-407_47)]
+[[§407.4.6]({{ site.baseurl }}/aba/#aba-407_4_6) and [§407.4.7]({{ site.baseurl }}/aba/#aba-407_4_7)]
 
 If more than one car control panel is provided in a car, both must comply (except in existing cars where only 1 panel must comply).
 
@@ -119,7 +119,7 @@ If more than one car control panel is provided in a car, both must comply (excep
 
 #### Car Position Indicators
 
-[[§407.4.8]({{ site.baseurl }}/aba/#aba-407_48)]
+[[§407.4.8]({{ site.baseurl }}/aba/#aba-407_4_8)]
 
 ![Car position indicators shown above door or above control panel]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl9.jpg){: .img-right}
 
@@ -133,7 +133,7 @@ Position indicators are required for all cars, including those of 2-stop elevato
 
 #### Emergency Communication
 
-[[§407.4.9]({{ site.baseurl }}/aba/#aba-407_49)]
+[[§407.4.9]({{ site.baseurl }}/aba/#aba-407_4_9)]
 
 {% include imgright-italictextbelow.html
 img-file= "chapter4/4epl10.jpg"
@@ -204,7 +204,7 @@ text= "For greater usability, make those altered elements covered by an exceptio
 
 ### Limited-Use/ Limited-Application Elevators
 
-[[§408]({{ site.baseurl }}/aba/#aba-408)
+[[§408]({{ site.baseurl }}/aba/#aba-408)]
 
 LULA elevators are passenger elevators that are permitted in facilities where an accessible route between stories or mezzanines is not required and as an alternative to private residence elevators and platform lifts.  They cannot substitute for elevators complying with §407 that are required to meet requirements for accessible routes.  For the most part, LULAs are held to the same requirements for elevators in §407 and applicable sections of the ASME safety code.  However, LULAs have smaller car sizes, slower speeds, shorter travel distances, and alternative types of doors.  Besides car size, provisions for LULAs differ from those of §407 in that:
 
@@ -217,7 +217,7 @@ LULA elevators are passenger elevators that are permitted in facilities where an
 
 ### Private Residence Elevators
 
-[[§409]({{ site.baseurl }}/aba/#aba-409)
+[[§409]({{ site.baseurl }}/aba/#aba-409)]
 
 Private residence elevators are permitted only within a residential dwelling unit or in a multiple dwelling unit facility as a means of access to a single private residence. Elevators in residential facilities not located within or serving individual dwelling units must meet requirements in §407.
 
@@ -228,7 +228,7 @@ Private residence elevators are permitted only within a residential dwelling uni
 
 #### Where Platform Lifts are Permitted
 
-[[§F206.7]({{ site.baseurl }}/aba/ch02/#f2067)]
+[[§F206.7]({{ site.baseurl }}/aba/#aba-f206_7)]
 
 Platform lifts can be part of an accessible route in existing facilities that are altered. In new construction, platform lifts can be used to provide an accessible route to these areas only:
 
@@ -337,3 +337,4 @@ Attendant operation, although recognized by the ASME A18.1 Standard, is expressl
 ##### Can platform lifts be portable or provided after construction as an adaptation?
 
 Platform lifts must be permanent and installed at the time of construction or alteration with few exceptions. Platform lifts can be provided after construction only to provide access to raised work stations in courtrooms (sufficient space and electrical service must be provided in design to facilitate installation). Only platform lifts serving temporary structures can be temporary or portable.
+

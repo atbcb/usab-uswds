@@ -20,11 +20,7 @@ redirect_from:
     <div>{{chapter.content | markdownify}}</div>
 {% endfor %}
 <hr>
-{% assign ict-chapters = site.ict | where: "title","Preamble to the Final Rule" %}
-{% for chapter in ict-chapters %}
-    <div class="usa-prose">{{chapter.content}}</div>
-{% endfor %}
-<hr>
+
 <!-- STANDARDS -->                           
 <div>
 	<div id="appendixA">
@@ -866,4 +862,10 @@ redirect_from:
 	{% for chapter in ict-chapters %}
 		<div class="usa-prose">{{chapter.content}}</div>
 	{% endfor %}	
+	<hr>
+	{% assign ict-chapters = site.ict | where: "title","Preamble to the Final Rule" %}
+{% for chapter in ict-chapters %}
+    <div class="usa-prose">{{chapter.content}}</div>
+{% endfor %}
+
 </div> <!-- end -->

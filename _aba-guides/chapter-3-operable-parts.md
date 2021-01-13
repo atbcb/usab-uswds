@@ -8,7 +8,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/)
 
 ### Operable Parts Covered
 
-[[§F205]({{ site.baseurl }}/aba/#aba-f205)
+[[§F205]({{ site.baseurl }}/aba/#aba-f205)]
 
 Compliance is required for operable parts located in accessible spaces and along accessible routes. Operable parts include light switches, electrical and communication receptacles, thermostats, alarm pulls, automatic door controls, and other elements used by facility occupants.
 
@@ -22,7 +22,7 @@ Compliance is required for operable parts located in accessible spaces and along
 
 ### Operable Parts
 
-[[§309]({{ site.baseurl }}/aba/#aba-309)
+[[§309]({{ site.baseurl }}/aba/#aba-309)]
 
 Requirements apply generally to all types of operable parts covered. They are also referenced by technical sections of the standards covering drinking fountains, faucet and flush controls, ATM and fare machines, appliances, storage, windows, and door and gate hardware, and other elements.
 
