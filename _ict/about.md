@@ -25,5 +25,6 @@ The Section 255 Guidelines cover telecommunications equipment and customer-premi
 
 * Final Regulatory Impact Analysis ([FRIA]({{ site.baseurl }}/ict/fria.html))
 * [Comparison Table of WCAG 2.0 to Existing 508 Standards]({{ site.baseurl }}/ict/wcag2ict.html)
-* [Mapping of WCAG 2.0 to Functional Performance Criteria](https://section508.gov/content/mapping-wcag-to-fpc)
+* [Mapping of WCAG 2.0 to Functional Performance Criteria]({{ site.baseurl }}/ict/wcagtofpc.html)
 * [Section508.gov](https://section508.gov) --- GSA’s Government-wide IT Accessibility Program
+

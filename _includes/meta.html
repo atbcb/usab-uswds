@@ -33,6 +33,7 @@ site, this is the place to do it.
   <meta property="og:type" content="article">
   <link rel="canonical" href="{{ page.url | absolute_url }}" />
   <meta property="og:url" content="{{ page.url | absolute_url }}" />
+   
   <!-- Favicons
     ================================================== -->
   <!-- 128x128 -->
@@ -50,13 +51,95 @@ site, this is the place to do it.
   <link rel="apple-touch-icon-precomposed" sizes="114x114" href="{% asset favicon.ico @path %}">
   <!-- 144x144 (precomposed) for iPad 3rd and 4th generation -->
   <link rel="apple-touch-icon-precomposed" sizes="144x144" href="{% asset favicon.ico @path %}">
+
   <!-- CSS
     ================================================== -->
   {% asset index.scss %}
   {% asset components/toast-rsd.css %}
   {% asset all.min.css %} <!-- fontawesome -->
-
   {% asset video-js.min.css %}
   {% asset swiper-bundle.min.css %}
   {% asset components/swiper-rsd.css %}
+
+{% if page.title == "Map of WCAG to Section 508 FPC" %}
+<meta name=viewport content="width=device-width, initial-scale=1">
+{% asset jquery-3.3.1.js %}
+{% asset jquery.dataTables.minke.js %}
+{% asset natural.js %}
+{% asset components/jquery.dataTables.min_ke.css %}
+{% asset components/responsive.dataTables.minke.css %}
+<style>
+div.wcagfpc {
+  display: block;
+  box-sizing: border-box;
+  width: auto;
+  padding: 1em 2vw;
+  margin: 1em 2vw;
+  
+}
+td {
+  text-align: center;
+  }
+
+
+table.fixedHeader-floating {
+  position:fixed !important;	
+  background-color:white;
+  }
+
+table.fixedHeader-floating.no-footer{border-bottom-width:0;}
+table.fixedHeader-locked{
+  position:absolute !important;
+  background-color:white;
+  }
+caption {
+  font-weight: bold;
+  padding-top: 1em;
+  white-space: nowrap;
+  }
+#tablecontainer {
+  padding: 1.5rem;
+  overflow: auto;
+}
+#topleft {
+	background-color: white; 
+	opacity: 1; 
+	white-space: nowrap;
+	border: 2px solid #365788;
+}
+th.stickyleft {
+  position: -webkit-sticky;
+  position: -moz-sticky;
+  position: -ms-sticky;
+  position: -o-sticky;
+  position: sticky;
+  left: 0px;
+  text-align: left;
+  border-right: 2px solid #365788;
+	border-left: 2px solid #365788;
+	opacity: 1; 
+	padding-top: 0.5px;
+  }
+#tablesearch {
+  float: right;
+  border: 1px solid black;
+	}
+</style>
+
+<script>
+$(document).ready(
+  function() {
+  $('#example').dataTable( 
+  {
+    "columnDefs": 
+    [{ type: 'natural', targets: [0, 9] }
+    ],
+    "scrollY": '60vh',
+		"scrollX": true
+  } 
+  );
+} 
+);
+</script>
+{% endif %}
 </head>
