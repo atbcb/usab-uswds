@@ -8,7 +8,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Compliance
 
-[[§F210]({{ site.baseurl }}/aba/#aba-f210)
+[[§F210]({{ site.baseurl }}/aba/#aba-f210)]
 
 Interior and exterior stairs that are part of a required means of egress must meet the Standards.  Compliance is required for all stairs on required egress routes, including those comprised of a single riser.  The Standards do not apply to stairways that are not part of a required means of egress nor to alternating tread devices and “ship’s ladders.”  The Standards exempt aisle stairs in assembly areas, stairs in non-public areas of detention and correctional facilities, and stairs of play components.
 
@@ -20,7 +20,7 @@ In alterations, stairs between levels that are connected by an accessible route 
 
 ### Stairways
 
-[[§504]({{ site.baseurl }}/aba/#aba-504)
+[[§504]({{ site.baseurl }}/aba/#aba-504)]
 
 Requirements for stairways address treads and risers, surfaces, nosings, and handrails.
 
@@ -34,7 +34,7 @@ text= "Providing visual contrast (light-on-dark or dark-on-light) on the top and
 
 ### Handrails
 
-[[§504.6]({{ site.baseurl }}/aba/#aba-504_6), [§505]({{ site.baseurl }}/aba/#aba-505)
+[[§504.6]({{ site.baseurl }}/aba/#aba-504_6), [§505]({{ site.baseurl }}/aba/#aba-505)]
 
 Handrails are required on both sides of stairs and must be continuous within the full length of each stair flight.  Inside handrails on switchback or dogleg stairs must be continuous.
 

@@ -8,7 +8,7 @@ version: original
 
 # About the ADA Accessibility Standards
 
-Accessibility standards issued under theAmericans with Disabilities Act (ADA) apply to places of public accommodation, commercial facilities, and state and local government facilities in new construction, alterations, and additions.  The ADA Standards are based on minimum guidelines set by the Access Board. 
+Accessibility standards issued under the Americans with Disabilities Act (ADA) apply to places of public accommodation, commercial facilities, and state and local government facilities in new construction, alterations, and additions.  The ADA Standards are based on minimum guidelines set by the Access Board. 
 
 The Department of Justice (DOJ) and the Department of Transportation (DOT) issue the ADA Standards.  DOJ's ADA Standards apply to all facilities except public transportation facilities, which are subject to DOT's ADA Standards.  This version of the ADA Standards combines both documents and notes unique provisions in the DOJ Standards and the DOT Standards.  The Access Board is responsible for providing technical assistance and training on these Standards. 
 
