@@ -8,7 +8,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Number
 
-[[§F208]({{ site.baseurl }}/aba/#aba-f208)
+[[§F208]({{ site.baseurl }}/aba/#aba-f208)]
 
 Accessible parking spaces are required for each parking facility on a site, such as lots and garages.  Requirements apply equally to public and employee or restricted parking.  On sites with multiple parking facilities, the minimum number of accessible spaces must be calculated separately for each parking facility instead of on the combined total of parking spaces provided on the site.  At least one of every 6 accessible spaces, or fraction of 6, in each parking facility must be sized to accommodate vans.
 
@@ -242,7 +242,7 @@ Accessible spaces are required where parking facilities are altered or added.  
 
 ### Location
 
-[[§F208.3]({{ site.baseurl }}/aba/ch02/#f2083)]
+[[§F208.3]({{ site.baseurl }}/aba/#aba-f208_3)]
 
 {% include imgright-italictextbelow.html
 img-file= "chapter5/5p5.jpg"
@@ -303,7 +303,7 @@ Accessible parking spaces are not required in mechanical access parking garages 
 
 ### Hospital Outpatient Facilities
 
-[[§F208.2.1]({{ site.baseurl }}/aba/ch02/#f20821)]
+[[§F208.2.1]({{ site.baseurl }}/aba/#aba-f208_2_1)]
 
 The Standards require a higher level of accessible parking at hospital outpatient facilities.  At least 10% of patient and visitor parking spaces that serve such facilities must comply.  This applies to those units in hospitals that provide regular or continuing medical treatment without overnight stay.  Other types of medical facilities not located in hospitals, including doctors’ offices and independent clinics, are not subject to this requirement but to the regular scoping table.
 
@@ -313,7 +313,7 @@ The Standards require a higher level of accessible parking at hospital outpatien
 
 ### Rehabilitation and Outpatient Physical Therapy Facilities
 
-[[§F208.2.2]({{ site.baseurl }}/aba/ch02/#f20822)]
+[[§F208.2.2]({{ site.baseurl }}/aba/#aba-f208_2_2)]
 
 At least 20% of patient and visitor parking spaces must be accessible at outpatient physical therapy facilities (including those not located at hospitals) and at rehabilitation facilities that specialize in treating conditions that affect mobility. Conditions affecting mobility include:
 
@@ -326,7 +326,7 @@ Rehabilitation facilities that provide, but that do not specialize in, services 
 
 ### Residential Facilities
 
-[[§F208.2.3]({{ site.baseurl }}/aba/ch02/#f20823), [§F208.3.2]({{ site.baseurl }}/aba/ch02/#f20832)]
+[[§F208.2.3]({{ site.baseurl }}/aba/#aba-f208_2_3), [§F208.3.2]({{ site.baseurl }}/aba/#aba-f208_3_2)]
 
 <div class="clearfix padding-left-1" markdown="1">
 ![house symbol]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p13.jpg){: .float-right .thumbnail}
@@ -339,7 +339,7 @@ Accessible parking at residential facilities is based on the ratio of parking sp
 
 ### Accessible Parking Spaces
 
-[[§502]({{ site.baseurl }}/aba/#aba-502)
+[[§502]({{ site.baseurl }}/aba/#aba-502)]
 
 Requirements for accessible parking spaces address the size and marking of regular and van spaces and access aisles, surfaces, vertical clearance at van spaces, identification, and connecting accessible routes.
 
@@ -357,7 +357,7 @@ text= "Configure accessible routes so that they run in front of, instead of behi
 
 ### Van Accessible Parking Spaces
 
-[[§502.1 - 502.5]({{ site.baseurl }}/aba/#aba-502)
+[[§502.1 - 502.5]({{ site.baseurl }}/aba/#aba-502_1)]
 
 <div class="clearfix padding-left-1" markdown="1">
 ![Person using wheelchair exiting van with ramp parking in accessible van space.  ]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p17.jpg){: .img-right}
@@ -418,7 +418,7 @@ Requirements for operable parts include:
   
 ### Identification
 
-[§F216.5]({{ site.baseurl }}/aba/ch02/#f2165), [§502.6]({{ site.baseurl }}/aba/#aba-502_6)]
+[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5), [§502.6]({{ site.baseurl }}/aba/#aba-502_6)]
 
 ![Post-mounted accessible parking space sign 60” high min. measured to bottom edge]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p23.jpg){: .float-right .thumbnail}
 
