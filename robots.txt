@@ -1,6 +1,5 @@
 User-Agent: *
 Disallow: /test.html
-Disallow: /files/
 Sitemap: https://wwww.access-board.gov/sitemap.xml
 User-Agent: *
 Crawl-delay: 5
