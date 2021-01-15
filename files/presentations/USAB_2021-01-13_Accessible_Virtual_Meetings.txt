@@ -1,0 +1,718 @@
+Accessible 
+Virtual 
+Meetings
+
+
+January 13, 2021
+
+
+
+●Gerard Williams
+○Section 504 Compliance Officer, Federal Communications Commission
+○Nationally Certified American Sign Language Interpreter (NIC Advanced)
+
+
+
+
+
+●Brandon Pace
+○HQ Section 508 Program Manager, U.S. Department of Homeland Security
+○Former President of Deaf & Hard-of-Hearing DHS (employee resource group) 
+○Certified Professional in Accessibility Core Competencies
+
+
+
+
+
+
+
+Disclaimer
+
+
+▪The assessments provided herein should not be construed to be 
+an endorsement or approval by the Federal Government of any 
+specific platform or program.
+▪No representations are made in this presentation as to whether 
+or how certain platforms are or are not in compliance with legal 
+or regulatory requirements fromFCC, DHS, or other 
+Federalagencies or legislation.
+▪To view this presentation incontext withpresenter remarks, 
+please see:https://www.youtube.com/watch?v=rR9RfhvM2sU
+
+
+
+
+●Accommodations vs. Accessibility
+●Challenges and Opportunities
+●Best Practices 
+●Equipment and Technology Recommendations 
+●Virtual Conferencing Platforms Overview
+○Zoom
+○Cisco WebEx
+○Google Meet
+○Adobe Connect
+○Microsoft Teams
+○Live Streaming (e.g. YouTube, Facebook, Twitter)
+
+
+
+●So how do I pick a platform?
+●Q&A Session 
+
+
+
+
+Quote to share
+For most people, technology makes things easier. 
+For people with disabilities, however, 
+technology makes thingspossible.
+
+Mary Pat Radabaugh
+
+Director of IBM’s National Support Center for People with Disabilities
+
+1998
+
+
+“
+
+Graphic of 3 different situations: Equality (with three people, of differing heights, all reaching for the same blackboard, which is several feet up from the floor. A wheelchair user cannot reach the board. A short man can barely reach the bottom of the board. A tall woman can reach the middle of the Board. Scenario 2 - Accommodation - shows the same 3 people, all raised on platforms of different heights so that they can all draw on the blackboard at the same height. Scenario 3 - Accessibility -- the blackboard is lowered so that it is closer to the floor. Everyone can use it from their own starting position.
+Accommodationisnotthe same as accessibility.
+
+●Accommodations are for individualsand are reactive.
+●Accessibility is for populationsand is proactive. 
+●Accessibility should make content available to all,in equally effective 
+ways, at the same time. 
+●Accessibility is the goal, accommodations are just tools to reach it.
+
+
+
+
+Virtual Meetings: Challenges
+
+
+●Platform limitations (Technical)
+●Environmental limitations (Security, budgetary)
+●Licensing limitations
+○Some features not uniformly available (e.g. higher-tier licenses). 
+
+
+
+●Diverse access methods/user interface (UI)
+○Inconsistent user experience
+
+
+
+●Limited ability to provide technical support
+○Screen share does not share screen share tools
+
+
+
+●Turn taking awkwardness 
+○Lack of access to conversational cues
+
+
+
+●Conflicting accommodations
+○Limited screen space and bandwidth
+
+
+
+●Lack of experience and/or training
+
+
+
+Low contrast, low demand box = contains a red minus sign
+Low ControlsHigh
+
+
+Low control, low demand - red minus sign
+High controls, high demand - contains green plus sign 
+
+Virtual Meetings: Opportunities
+
+
+●Interface customization
+●User control of Assistive Technology
+●Expanded pool of participants
+○Geographic, disability, time
+
+
+
+●Productivity 
+●Richer remote interactions (as opposed to “conference call”)
+●…?
+
+
+
+wall showing a row of doorways, indicating choices or opportunities 
+
+Virtual Meetings: Universal Meeting Design
+
+
+●Establish a single Point of Contact
+●Ask for help
+●Do a technologytestin advance
+●Broadcast the CommunicationRules
+○Sample at the beginning of this presentation 
+
+
+
+●Embrace good meeting managementtechniques
+
+
+
+
+Meeting Management Techniques
+
+
+Agenda: Distribute a detailed agenda prior to your meeting*
+
+Attendee List: Make available a list of confirmed attendees
+
+Moderator: Assign one participant to serve as meeting 
+moderator
+
+Name Announcements: Remind participants to identify 
+themselves before they begin to speak
+
+Manage turn-taking: Establish a clear procedure (or utilize a 
+digital tool) to manage turn taking
+
+Document sharing: Distribute any relevant documents well in 
+advance of the meeting*
+
+*Any/all document distribution should consider accessibility of those documents 
+(e.g. word format, PDF, plaintext, braille, videos to be captioned & audio described)
+
+
+Graphic of a document indicating "document sharing" 
+Graphic of people in a circle, indicating "manage turn-taking" 
+Graphic of a man with a megaphone, indicating "name announcements" 
+Graphic of a person, illustrating "Moderator" 
+Graphic of a clipboard and a list of checked off items, illustrating both "Agenda" and "Attendee list"
+
+Meeting Management Techniques -continued
+
+
+Communication style:Describe the content of the graphics, 
+speak at a moderate rate and stay on topic for ease of 
+communication 
+
+Check In: At the beginning of your meeting take a moment to 
+ask whether all attendees have what they need for effective 
+communication.
+
+Solicit Feedback: Provide a contact for and specifically solicit 
+feedback on accessibility of the meeting. 
+
+Screen share sparingly:Screen/content is not accessible to 
+screen readers users and can take screen space away from 
+video that may be needed. Use with caution and consider 
+toggling shared content on and off only when needed.
+
+
+Graphic of 3 hands overlapping, illustrating "check in" 
+Graphic of people seated around a conference table with talking balloons overhead, illustrating "Solicit feedback"
+Graphic of a figure at a lectern, speaking to a seated audience, illustrating "Communication Style" 
+Graphic of a document, illustrating "Screen share sparingly" 
+
+Equipment and Tech Recommendations
+
+
+Fine tune your audio
+
+○Use a headset whenever possible
+○Split your audio between input and output; input via device’s built-in 
+microphone, output to headphones or other isolated audio device
+○Only use oneaudio connection method (phone or computer, not both)
+
+
+
+
+Fine tune your video
+
+○Frame your shot
+○Consider an external webcam
+○Disable autofocus if possible
+○Consider turning off your video when it is not needed*
+
+
+
+
+Provide multiple connection options
+
+○Maintain flexibility for your attendees by allowing for as many different 
+connections as possible (e.g. IP audio, phone audio, audio only, video 
+only)
+
+
+
+
+
+Graphic of a horn, illustrating "Fine tune your audio"
+Graphic of a camera, illustrating "Fine tune your video"
+Graphic of a power strip with multiple connections, illustrating "Provide multiple connection options"
+
+Closed Captioning trademark "CC" 
+Equipment and TechRecommendations-ASR
+
+●Different ASRperformance oncaptioning
+●Example between2different platforms:
+○MicrosoftTeams(usingMicrosoftAzureSpeechAI)
+○Google Meetup(usingGoogleCloud Speech toText AI
+●Edgar Allen Poe’s poem“The Raven”
+Once Upon a midnight dreary.
+While I pondered weak and weary.
+Over many acquaint, incurious volume of
+forgotten lore.
+While I nodded, nearly napping, suddenly
+there came a tapping.
+As of someone gently wrapping wrapping up
+my chambered or just some visitor I
+muttered tapping at my chain. Would or
+only this and nothing more.
+Once Upon a Midnight dreary while I pondered
+weak and weary over many a quaint and curious
+volume of Forgotten lore while I nodded nearly
+napping suddenly there came a tapping as of
+someone gently rapping rapping at my chamber 
+door tis some visitor. I muttered tapping at my
+chamber door only this and nothing more.
+Google trademark
+Microsoft trademark
+
+Platforms: Zoom
+
+
+Pros
+
+
+Cons
+
+
+●Highly accessible via screen reader
+●Simple intuitive User Interface (UI)
+●Side by side mode/dual monitor support
+●High quality video/audio with low stutter 
+rate
+●Non-video participants can be hidden
+●Built-in support for captioning 
+(via participant or vendor)
+●Supports up to 100 video participants (350 
+total)
+●Multi-pinning and multi-spotlight support
+●Can move captions box around the window
+
+
+
+●Integrated meeting 
+management tools lack 
+sophistication
+●Captioning display lacks 
+customization, sophistication, 
+consistency.
+●Security concerns continue to 
+be prevalent, especially 
+amongst government entities
+●Built-in live ASR using Otter.ai 
+-but for Business or Pro 
+accounts only (not gov)
+
+
+
+
+
+Zoom trademark
+
+Platforms: Zoom
+
+
+screen capture of users on a Zoom platform call - there are 3 rows of 4 pictures of different users, and a 5th bottom row of one person
+
+Platforms: Zoom
+
+
+Split screen capture illustrating Zoom platform. Left hand screen illustrates an icon menu; the right hand picture illustrates 6 participant screens in user view
+
+Platforms: Zoom (Placement of Captions)
+
+
+Zoom trademark
+screen capture of Zoom captions placed on screen.
+
+Platforms: Zoom (Roll-up captioning)
+
+
+Zoom trademark
+screen capture of captions on a Zoom platform, illustrating roll-up captioning
+
+Platforms: Cisco WebEx
+
+
+Pros
+
+
+Cons
+
+
+●Easy to procure; security and 
+enterprise ready
+●Capability to create a separate 
+module for captioning 
+(Multimedia viewer)
+●Centralized feature management 
+(administrators)
+
+
+
+●Not usable for screen reader 
+users.
+●Complex user interface requires 
+training to navigate
+●Unintuitive video “pinning” 
+functionality 
+●Inflexible video interface 
+●Centralized feature management 
+(administrators)
+●Additional steps to join a meeting
+
+
+
+
+
+Cisco Webex Trademark
+screen capture of woman in a Cisco Webex platform call
+
+Platforms: Cisco WebEx
+
+
+Screen capture of attendees on a Cisco Webex call - 4 rows with 4 pictures in each row. 
+
+Platforms: Cisco WebEx
+
+
+Screen capture of Cisco Webex meeting platform meeting center page, showing different features available to users. 
+
+Platforms: Google Meet
+
+
+Pros
+
+
+Cons
+
+
+●FedRAMP approved for some agencies 
+●Easy to use and intuitive 
+●Automated captioning has high accuracy 
+and names speakers (isolated audio 
+channels) 
+●Grid layout for video 
+●Screen reader and keyboard accessible
+●Audio via phone connection
+●Browser based-no download required
+
+
+
+●Not widely available to 
+government agencies 
+●Max number of video 
+participants depends on 
+license (100, 150, 250)
+
+
+
+
+
+Trademark of Google Meet Platform 
+
+Platforms: Google Meet
+
+
+Screen capture of users on a Google Meet platform, showing 3 simultaneous users on a call.
+Google Meet platforms trademark
+
+Platforms: Adobe Connect
+
+
+Pros
+
+
+Cons
+
+
+●Majority of federal agencies use it 
+●Easy to procure; security and 
+enterprise ready
+●Grid layout for video feed
+●Maximum user interface flexibility; 
+can add a dedicated pod for 
+captioning 
+●HTML5 client and desktop 
+application available 
+
+
+
+●Bandwidth intensive, 
+deprioritize video
+●Complex user interface
+●Not usable for screen reader 
+users
+●No video pinning functionality
+●Requires additional licenses for 
+add-ons such as conference lines
+
+
+
+
+
+Adobe Connect platform trademark
+
+Platforms: Adobe Connect
+
+
+Screen capture of different screens from Adobe Connect platform, illustrating different functions: Chat, share, web links, notes, file and attendees.
+
+Platforms: Adobe Connect
+
+
+Screen capture of users on Adobe Connect Platform. 3 rows of attendees with 3 people in each row. 
+
+Platforms: Adobe Connect
+
+
+Screen capture of Adobe Connect Platform illustrating different features - "share my screen", video, captioning, attendees and chat. 
+
+Platforms: Microsoft Teams
+
+
+Pros
+
+
+Cons
+
+
+●Easy to procure; security 
+and enterprise ready
+●Available to almost all 
+government agencies with 
+Office 365
+●Built-in across Office 365 
+applications for real-time 
+collaboration
+●Embedded invite for one 
+click meetings via Outlook
+●Multi-pinning enabled
+
+
+
+●“All-in-one” platform with numerous features 
+that may confuse users 
+●Accessibility issues (e.g. guests unable to pin, 
+unreliable captioning, screen reader access)
+●Not user-friendly & not intuitive
+●Captioning only feasible using their Azure AI; 
+no other way to feed captions from CART 
+provider 
+●License dilemma to obtain alternative methods 
+for accommodations
+
+
+
+
+
+Microsoft Teams trademark
+
+Platforms: Microsoft Teams
+
+
+screen capture of attendees on a Microsoft Teams call - 3 rows of 3 people per row. 
+
+Platforms: Microsoft Teams (Captioning example)
+
+
+Microsoft Teams trademark.
+Window illustrating captioning GIF on Microsoft Teams platform
+
+Platforms: Live Streaming
+
+
+Pros
+
+
+Cons
+
+
+●Less bandwidth 
+●More control of broadcasting 
+various content and video feeds to 
+audience, especially picture-in-
+picture ASL interpreter and burn-
+on captioning 
+●Ease of access to virtually 
+everybody who have a computer 
+or mobile device
+
+
+
+●Requires many moving parts along with 
+technical-intensive knowledge to 
+implement solutions, especially with 
+accessibility
+●Burn-in or embedded captions on 
+streams are not accessible to screen 
+reader or refreshable braille display users
+●Streaming services can be over reliant on 
+ASR generated captioning
+●Does not allow for a great degree of user 
+customization
+
+
+
+
+
+Twiter trademark
+YouTube Trademark
+Facebook trademark
+
+Platforms: Live Streaming (Bad example)
+
+
+Twitter trademark
+YouTube Trademark
+Facebook trademark
+screen capture of live streaming video with captioning (bad example)
+
+Platforms: Live Streaming (Good example)
+
+
+Twitter trademark
+YouTube Trademark
+Facebook trademark
+Screen capture of live streaming video feed with good captioning shown.
+
+Platforms: Live Streaming (Size & Transition)
+
+
+Twitter trademark
+YouTube trademark
+Facebook trademark
+Screen capture of live streaming video, showing transitions between multiple windows and speakers on the screen . 
+
+Platforms: Live Streaming (Burn-on Captions)
+
+
+Twitter trademark 
+YouTube trademark
+Facebook trademark
+Screen capture of live streaming video feed with burnt-on captions.
+
+Platforms: Virtual Event Platform
+
+
+Pros
+
+
+Cons
+
+
+●Less bandwidth 
+●More control of broadcasting 
+various content and video feeds to 
+audience, especially picture-in-
+picture ASL interpreter and burn-
+on captioning 
+●Ease of access to virtually 
+everybody who have a computer 
+or mobile device
+●Some vendors incorporated 
+accessibility features in their 
+platform and/or design
+
+
+
+●Cost-intensive 
+●Requires many moving parts along with 
+technical-intensive knowledge to 
+implement solutions, especially with 
+accessibility
+●Burn-in or embedded captions on 
+streams are not accessible to screen 
+reader or refreshable braille display users
+●Does not allow for a great degree of user 
+customization
+
+
+
+
+
+Trademark "On24"
+Trademark "rivetlogic"
+Trademark "BigMarker" 
+Trademark "Hey Summit" 
+Trademark "hopin"
+
+Platforms: Virtual Event Platform
+
+
+Trademark "ON24"
+Trademark "rivetlogic" 
+Trademark "BigMarker" 
+Trademark "HeySummit" 
+Trademark "hopin"
+Screen capture of virtual event platform illustrating pa nel of speakers with a separate window for the ASL interpreter and the Q&A box.
+
+Platforms: Virtual Event Platform
+
+
+Trademark "ON24"
+Trademark "rivetlogic"
+Trademark "BigMarker"
+Trademark "HeySummit" 
+Trademark "hopin"
+Screen capture of virtual event platform showing speaker, with voiceover, captioning and ASL interpreter. Also shown is the sponsorship (MS) slate of speakers and name of the session. 
+
+So how do I pick a platform?
+
+
+None of the virtual meeting platforms are perfect.
+
+Sorry
+
+●Check with your agency/organization to identify which platforms 
+you already have access to
+●Engage people with disabilities to test and evaluate those 
+platforms with you
+●Implement meeting management strategies to compensate for 
+weaknesses in your platform
+●Utilize other services as possible to compensate for weaknesses 
+in your platform (e.g. separate captioning streaming website, 
+hand raising tool)
+
+
+
+
+Wrap Up
+
+
+●Ask: “How can I help?”
+●Don’t let the perfect be the enemy of the good, but…
+○Don’t stop collecting feedback and iterating
+
+
+
+●Stay flexible
+●Spend time to save time
+
+
+Contact Us
+
+●Gerard Williams (FCC):gerard.williams@fcc.gov
+●Brandon Pace (DHS): Brandon.Pace@hq.dhs.gov
+●Archived Presentation:
+https://www.accessibilityonline.org/cioc-508/archives/110839
+
+
+
+

@@ -16,17 +16,19 @@ The next meeting of the Board will be held January 13 from 2:00 – 4:00 (ET) an
 ### Meeting of the U.S. Access Board 
 
 > **January 13, 2021; 2:00--4:00 (ET)**  
-> Zoom link:&nbsp; <https://www.zoomgov.com/j/1610020084>  
+> Zoom link:&nbsp; https://www.zoomgov.com/j/1610020084  
 > Call-in numbers:&nbsp; 669-254-5252 or 646-828-7666 or 551-285-1373  
 > &nbsp; &nbsp; Meeting ID:&nbsp; 161 002 0084  
 > Contact:&nbsp; Rose Marie Bunales at <bunales@access-board.gov>
 
 ### Agenda
+
 * Welcome
 * Executive Director's Report
 * Presentation on "Accessible Virtual Meeting Platforms"
   * Brandon Pace, Department of Homeland Security 
   * Gerard Williams, Federal Communications Commission 
+  * Download presentation:&nbsp; [PPT version, 14.2 MB]({{ site.baseurl }}/files/presentations/USAB_2021-01-13_Accessible_Virtual_Meetings.pptx); [PDF version, 2.6 MB]({{ site.baseurl }}/files/presentations/USAB_2021-01-13_Accessible_Virtual_Meetings.pdf) 
 * Official and New Business
 
 During the pandemic, the Board is conducting its meetings remotely using [Zoom for Government](https://zoomgov.com).
