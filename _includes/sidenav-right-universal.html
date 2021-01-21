@@ -25,20 +25,30 @@ ta-email-pre:
         {% asset stock/question.svg class="maxh-10" alt="questions icon" %}
         
         <div class="text-center line-height-sans-2 bg-secondary-lighter padding-x-1 padding-bottom-1">
-          <p class="padding-1 bg-secondary-darker text-white text-bold margin-bottom-1 margin-x-neg-1">Technical Assistance</p>
+          <p class="padding-1 bg-secondary-darker text-white text-bold margin-bottom-1 margin-top-0 margin-x-neg-1">Technical Assistance</p>
           <!-- <p class="font-body-3xs">{{ page.ta-text }}</p> -->
-          <ul class="usa-list usa-list--unstyled font-body-3xs">
+          <ul class="usa-list usa-list--unstyled font-body-2xs">
           <li class="padding-bottom-0">800-872-2253 (v)</li>
-          <li class="padding-bottom-0">800-993-2822 (tty)</li>
+          <!-- <li class="padding-bottom-0">800-993-2822 (tty)</li> -->
           <li class="padding-bottom-0"><a href="mailto:{{ page.ta-email-pre }}@access-board.gov">{{ page.ta-email-pre }}@access-board.gov</a></li>
           </ul>
         </div>
 
       </div>
-      {% if page.subscribe-value %}
-        {% include subscribe.html %}
-      {% endif %}
-      {% include back-to-top.html %}
+      <div class="margin-top-2 text-center">
+        {% if page.subscribe-value %}
+        <a class="usa-link" href="https://public.govdelivery.com/accounts/USACCESS/subscriber/new?topic_id={{page.subscribe-value}}">
+          {% asset stock/news.svg class="maxh-10" alt="news icon" %}
+        <span class="usa-button">Subscribe to Newsletter</span>
+        </a>
+        {% endif %}
+      </div>
+      <div class="margin-top-2 text-center">
+        <a class="usa-link" href="#">
+          {% asset angle-arrow-up-primary.svg class="maxh-5 padding-bottom-0" aria-hidden="true" %}
+          <span class="usa-button">Back to Top</span>
+        </a>
+      </div>
     </div>
 
   </div>
