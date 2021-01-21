@@ -15,4 +15,4 @@ Federal law generally prohibits making a vehicle’s safety features inoperable.
 
 Public comments are due January 27, 2021. For further information, visit [DOT’s website](https://www.nhtsa.gov/press-releases/rule-proposed-expand-mobility-people-with-disabilities) or contact Gunyoung Lee of NHTSA Office of Crash Avoidance Standards at (202) 366-6005, Daniel Koblenz of NHTSA Office of Chief Counsel at (202) 366-5329, or David Jasinski at (202) 366-5552.
 
-To receive updates on transportation, sign up for the [Access Board’s Transportation subscription](https://public.govdelivery.com/accounts/USACCESS/subscriber/qualify?commit=Subscribe&topic_id=USACCESS_13).
+To receive updates on transportation, sign up for the [Access Board’s Transportation subscription](https://public.govdelivery.com/accounts/USACCESS/subscriber/new?topic_id=USACCESS_13).
