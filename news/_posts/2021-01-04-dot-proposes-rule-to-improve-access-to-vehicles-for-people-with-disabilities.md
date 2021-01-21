@@ -14,3 +14,5 @@ The U.S. Department of Transportation’s National Highway Traffic Safety Admini
 Federal law generally prohibits making a vehicle’s safety features inoperable. One proposed change would permit rental car companies to temporarily disable a driver’s air bag to install hand controls. In an accident, the deployment of the knee bolster air bag can result in the hand controls hitting and injuring the driver. A second proposed change would allow installation of rear-mounted transporters for wheelchairs and scooters. These transporters may obstruct the view of a vehicle’s backup camera.  
 
 Public comments are due January 27, 2021. For further information, visit [DOT’s website](https://www.nhtsa.gov/press-releases/rule-proposed-expand-mobility-people-with-disabilities) or contact Gunyoung Lee of NHTSA Office of Crash Avoidance Standards at (202) 366-6005, Daniel Koblenz of NHTSA Office of Chief Counsel at (202) 366-5329, or David Jasinski at (202) 366-5552.
+
+To receive updates on transportation, sign up for the [Access Board’s Transportation subscription](https://public.govdelivery.com/accounts/USACCESS/subscriber/qualify?commit=Subscribe&topic_id=USACCESS_13).
