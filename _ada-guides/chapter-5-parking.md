@@ -1,5 +1,5 @@
 ---
-title: "Chapter 5 Parking Spaces"
+title: "Chapter 5: Parking Spaces"
 order-number: 13
 file: /files/ada/guides/parking.pdf
 file-description: PDF version of Chapter 5 Parking Spaces Guide
