@@ -14,7 +14,7 @@ featured: false
 ---
 The World Wide Web Consortium (W3C) Web Accessibility Initiative (WAI) has published the First Public Working Draft (FPWD) of its W3C Accessibility Guidelines (WCAG) 3.0, which are developed through the W3C process in cooperation with individuals and organizations around the world. [WCAG 3.0](http://www.w3.org/TR/wcag3) provides new ways to evaluate web content accessibility for people with disabilities by addressing more types of disabilities, concentrating on both mobile and desktop applications, and developing new tests and scoring to determine accessibility. 
 
-For the latest updated information about WCAG 3, see [WCAG 3 Introduction](http://w3.org/WAI/standards-guidelines/wcag/wcag3-intro) or <w3.org/WAI/wcag3>.
+For the latest updated information about WCAG 3, please see the [WCAG 3 Introduction](http://w3.org/WAI/standards-guidelines/wcag/wcag3-intro) or their short link:  [w3.org/WAI/wcag3](http://w3.org/WAI/wcag3).
 
 While WCAG 3.0 would succeed WCAG 2.1 and 2.0, it would not deprecate these earlier versions. WCAG 3.0 covers a wider set of user and disability needs, publishing requirements, and emerging technologies such as web XR (augmented, virtual, and mixed reality) and voice input. WCAG 3.0 also includes non-normative information about web technologies working in conjunction with authoring tools, user agents, and assistive technologies. The WCAG 3.0 model is designed to support better coverage across disabilities and be easier to maintain so that the model keeps pace with accelerating technology change.
 
