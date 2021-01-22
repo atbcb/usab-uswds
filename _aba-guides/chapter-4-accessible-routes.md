@@ -63,7 +63,9 @@ An accessible route between stories is required in multi-story facilities except
 
 The Standards also include limited exceptions for accessible routes between stories in air traffic control towers and, under certain conditions, detention and correctional facilities, residential facilities, multi-story transient lodging guest rooms, and qualified historic facilities.
 
-### Mezzanines (Private and Public Sector Facilities) [§2F06.2.4, Ex. 3]
+### Mezzanines (Private and Public Sector Facilities)
+
+[[§F206.2.4, Ex. 3]({{ site.baseurl }}/aba/#aba-f206_2_4)]
 
 An accessible route must serve mezzanines in multi-story facilities where vertical access between stories is required or provided. An accessible route to mezzanines is not required in:
 
