@@ -11,7 +11,7 @@
 
 ## USAB Notes
 
-Remember to login via [FederalistApp](https://federalistapp.18f.gov/sites/).&nbsp; Netlify CMS interface is available via:  <https://access-board.gov/admin>
+Remember to login via [FederalistApp](https://federalistapp.18f.gov/sites/).&nbsp; Netlify CMS interface is available via:  [{{ site.baseurl }}/admin](https://{{ site.baseurl }}/admin)
 
 Reference implementation of USWDS 2.0 for Jekyll on Federalist includes [repo](https://github.com/18F/federalist-uswds-jekyll) and [demo](https://federalist-ce810add-9092-4627-8246-9b65cf94623c.app.cloud.gov/site/18f/federalist-uswds-jekyll/).
 
