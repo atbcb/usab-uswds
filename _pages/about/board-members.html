@@ -50,10 +50,10 @@ title: Access Board Members
             </div>
           </a>
         </li>
-        {% endfor %}  
+        {% endfor %}
 
         {% for vice-chair in vice-chairs %}
-        <li class="tablet:grid-col-6 usa-card">
+        <li class="tablet:grid-col-6 usa-card margin-x-auto"> <!-- remove margin x auto when going back to chair and vice chair -->
           <a class="style-inherit" href="{{ site.baseurl }}/about/board-members/{{ vice-chair.name }}">
             <div class="usa-card__container gray-to-color card-shadow">
               <header class="card-header">
