@@ -5,7 +5,7 @@ full_name: Jennifer Sheehy
 chair: false
 vice-chair: false
 member: federal
-status: current
+status: former
 image: /images/uploads/sheehy.jpg
 agency: Department of Labor
 

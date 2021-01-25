@@ -245,7 +245,7 @@ collections:
           label: "Appointing Presidential Administration",
           name: "president",
           widget: "select",
-          options: ["Trump", "Obama", "Bush", "Clinton", "HW Bush", "Reagan", "Carter"],
+          options: ["Biden", "Trump", "Obama", "Bush", "Clinton", "HW Bush", "Reagan", "Carter"],
           required: false,
           hint: "Which administration appointed this board member?",
         }

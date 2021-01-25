@@ -5,7 +5,7 @@ full_name: Allison Fahrenkopf Brigati
 chair: false
 vice-chair: false
 member: federal
-status: current
+status: former
 image: /images/uploads/allison-brigati.jpg
 job-title: Deputy Administrator
 agency: General Services Administration

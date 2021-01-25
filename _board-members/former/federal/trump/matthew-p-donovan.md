@@ -5,7 +5,7 @@ full_name: Matthew P. Donovan
 chair: false
 vice-chair: false
 member: federal
-status: current
+status: former
 image: /images/uploads/donovan-dod.png
 agency: Department of Defense
 
