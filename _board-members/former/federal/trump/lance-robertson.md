@@ -2,10 +2,10 @@
 name: lance-robertson
 last-name: robertson
 full_name: Lance Robertson
-chair: true
+chair: false
 vice-chair: false
 member: federal
-status: current
+status: former
 president: Trump
 image: /images/uploads/lance-robertson.jpg
 agency: Department of Health and Human Services

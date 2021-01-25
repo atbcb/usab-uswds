@@ -5,7 +5,7 @@ full_name: Eric Dreiband
 chair: false
 vice-chair: false
 member: federal
-status: current
+status: former
 image: /images/uploads/dreiband.jpg
 agency: Department of Justice
 

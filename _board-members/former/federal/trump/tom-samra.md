@@ -5,7 +5,7 @@ full_name: Tom Samra
 chair: false
 vice-chair: false
 member: federal
-status: current
+status: former
 image: /images/uploads/samra.jpg
 agency: United States Postal Service
 

@@ -5,7 +5,7 @@ full_name: Anna Maria Farías
 chair: false
 vice-chair: false
 member: federal
-status: current
+status: former
 image: /images/uploads/farias.jpg
 job-title: Assistant Secretary
 agency: Department of Housing and Urban Development

@@ -5,7 +5,7 @@ full_name: Mark Allan Schultz
 chair: false
 vice-chair: false
 member: federal
-status: current
+status: former
 president: Trump
 image: /images/uploads/shultz-ed.png
 agency: Department of Education
