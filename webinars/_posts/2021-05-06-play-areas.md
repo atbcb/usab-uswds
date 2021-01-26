@@ -16,6 +16,7 @@ excerpt: Requirements for play areas in the ADA and ABA Accessibility Standards
   Webinar attendees can earn continuing education credits.
 presenters:
   - bill-botten
+  - sarah-presley
 tags:
   - ABA
   - ADA
