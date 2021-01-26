@@ -14,6 +14,9 @@ excerpt: Ensuring access to public streets and sidewalks can be a challenge
   will include video remote interpreting (VRI) and real-time captioning.
   Questions can be submitted in advance of the session or can be posed during
   the live webinar. Webinar attendees can earn continuing education credits.
+presenters:
+  - juliet-shoultz
+  - scott-windley
 tags:
   - ABA
   - ADA
