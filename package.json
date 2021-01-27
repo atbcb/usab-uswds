@@ -15,6 +15,7 @@
   "dependencies": {
     "@fortawesome/fontawesome-free": "^5.15.1",
     "anchor-js": "^4.3.0",
+    "datatables": "^1.10.18",
     "dompurify": "^2.2.3",
     "jekyll": "^3.0.0-beta1",
     "jquery": "^3.5.1",

@@ -484,6 +484,8 @@ assets:
     - node_modules/videojs-youtube/dist
     - node_modules/anchor-js
     - node_modules/jquery/dist
+    # - node_modules/datatables/dist/js
+    # - node_modules/datatables/dist/css
     - node_modules/jquery-toast-plugin/dist
     - node_modules/@fortawesome/fontawesome-free/css
     - node_modules/@fortawesome/fontawesome-free/js
