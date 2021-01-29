@@ -1,9 +1,12 @@
 ---
-title:  Final Report
+title:  Designing Accessible Courthouses
 layout: report
 collection-title: Courthouse Access Advisory Committee
+toc: toc/auto.html
+toc-group: other
 file: caac-report.pdf
 file-directory: /files/advisory-committee-reports/
+permalink: /ada/additional-resources/designing-accessible-courthouses.html
 ---
 
 ## Justice for All: Designing Accessible Courthouses
@@ -26,7 +29,7 @@ This report contains recommendations of the Courthouse Access Advisory Committee
 - Appendices
 
 
-### **Acknowledgements**
+### Acknowledgements
 
 The Courthouse Access Advisory Committee is grateful to the many organizations and individuals who participated in its meetings and provided comment and insight on different aspects of courthouse accessibility. The real-world experiences shared by those involved in courthouse management and design, accessibility, and disability rights were valuable to the Committee's information gathering efforts.
 
@@ -50,7 +53,7 @@ In addition, the Committee appreciates the expertise, information, and guidance 
 
 * * * * *
 
-### **Members of the Courthouse Access Advisory Committee**
+### Members of the Courthouse Access Advisory Committee
 
 -   Accessibility Equipment Manufacturers Association, Gregory L. Harmon
 -   Administrative Office of the U.S. Courts, Gate Lew, AIA
@@ -106,7 +109,7 @@ Also active in the work of the Committee were:
 
 * * * * *
 
-### **I. Introduction**
+### I. Introduction
 
 The design of courthouses poses challenges to access due to unique features, such as courtroom areas that are elevated within confined spaces. Determining the best way to provide access to these spaces can be difficult. While the U.S. Access Board has established guidelines for courthouses which cover access to courtrooms, many have sought guidance on how access can best be achieved.  Additional information is needed that explores new or innovative design solutions. In October, 2004, the U.S. Access Board organized an advisory committee to develop such guidance and to promote access to courthouses as part of an overall plan for targeted outreach on different aspects or spheres of accessibility.
 
@@ -129,15 +132,15 @@ The report provides recommendations for outreach, marketing, and partnership str
 
 * * * * *
 
-### **II. Recommendations for Accessible Courthouse Design**
+### II. Recommendations for Accessible Courthouse Design
 
--   [Exterior Route](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#exterior)
--   [Courthouse Entrance](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#entrance)
--   [Interior Accessible Route, Protruding Objects and Signage](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#interior)
--   [Accessible Means of Egress](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#egress)
--   [Specific Function Areas](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#function)
+-   Exterior Route
+-   Courthouse Entrance
+-   Interior Accessible Route, Protruding Objects, and Signage
+-   Accessible Means of Egress
+-   Specific Function Areas
 
-**Exterior Route**
+#### Exterior Route
 
 The site arrival point must be as close as possible to an accessible entrance while allowing for security measures. The exterior route should provide a safe and integrated way for people with disabilities to access the courthouse.
 
@@ -272,7 +275,7 @@ Applicable Guidelines:
 > Technical:\
 > Chapter 4 Accessible Routes
 
-**Courthouse Entrance**
+#### Courthouse Entrance
 
 Courthouse entrances often serve different groups of users. Public entrances are used by spectators, visitors, witnesses, jury pool, attorneys, public safety officers, victim and witness advocates, and court employees. Restricted entrances are used by judges, jurors, public safety officers, victims, and court employees. Detainees enter the courthouse only via secure entrances. It is important that access is provided for each type of entrance, including public, restricted, and secure entrances.
 
@@ -339,7 +342,7 @@ Applicable Guidelines:
 > 703 Signs (sections 703.5 and 703.7)\
 > 708 Two-Way Communication Systems
 
-**Interior Accessible Route, Protruding Objects and Signage**
+#### Interior Accessible Route, Protruding Objects and Signage
 
 Minimum Requirements:\
 At least one accessible route is required to connect all accessible elements and spaces in the building. Specifications for accessible routes cover doors, clear width, walking surfaces, running and cross slopes, and changes in level. The guidelines require floor surfaces to be firm, stable and slip resistant. With the exception of fire doors, the maximum door opening force is 5 pounds.
@@ -402,7 +405,7 @@ Applicable Guidelines:
 > 703 Signs\
 > 708 Two-Way Communication Systems
 
-**Accessible Means of Egress**
+#### Accessible Means of Egress
 
 The guidelines provide requirements for notification and evacuation for emergency situations. Accessible means of egress is a three-step process that requires planning, notification, and physical evacuation.
 
@@ -491,7 +494,7 @@ Applicable Guidelines:
 > Technical:\
 > International Building Code, 2000 edition and 2001 supplement, section 1003.2.13 or 2003 edition, section 1007 (referenced by 207/ F207)
 
-**Specific Function Areas**
+#### Specific Function Areas
 
 Courthouses have many functional areas beyond the courtrooms and chambers that are unique to a courthouse. All of the following areas must comply with the requirements in the guidelines for accessible route, fixed seating, protruding objects, reach range, signage, telephones, work surfaces, and other relevant provisions.
 
@@ -660,23 +663,23 @@ Access requirements for a grand jury hearing room are identical to that of a cou
 
 ### III. Recommendations for Accessible Court Suite Design
 
--   [Courtroom Entry](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#entry)
--   [Main Aisle](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#aisle)
--   [Accessible Route](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#ROUTE)
--   [Spectator (Gallery) Seating](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#gallery)
--   [Rail (Bar)](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#rail)
--   [Jury Box](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#jury)
--   [Witness Stand](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#witness)
--   [Judge's Bench](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#bench)
--   [Clerk's and Bailiff's Stations](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#clerk)
--   [Court Reporter](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#reporter)
--   [Furnishings](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#furnishings)
--   [Judges' Chambers](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#chambers)
--   [Jury Deliberation Suite](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#deliberation)
--   [Holding Cells](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#cells)
--   [Assistive Listening Systems in Courtrooms](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#als)
+-   Courtroom Entry
+-   Main Aisle
+-   Accessible Route
+-   Spectator (Gallery) Seating
+-   Rail (Bar)
+-   Jury Box
+-   Witness Stand
+-   Judge's Bench
+-   Clerk's and Bailiff's Stations
+-   Court Reporter
+-   Furnishings
+-   Judges' Chambers
+-   Jury Deliberation Suite
+-   Holding Cells
+-   Assistive Listening Systems in Courtrooms
 
-**Courtroom Entry**
+#### Courtroom Entry
 
 Minimum Requirements:\
 Doors must require no more than 5 pounds of force to push or pull open. Doors must provide at least 32 inches of clear opening width. Maneuvering clearances on the latch and pull side must be provided. Vision panels, accessible door hardware, and kick plates must be provided. For double doors, at least one door must meet the requirements. Doors in series must also provide space between the doors for maneuvering. Vision panels, where provided, must be accessible with a bottom edge 43 inches maximum above the finished floor.
@@ -705,7 +708,7 @@ Applicable Guidelines:
 > Technical:\
 > 404 Doors, Doorways, and Gates
 
-**Main Aisle**
+#### Main Aisle
 
 Minimum Requirements:\
 The main aisle must be at least 36 inches wide and the surface of the floor must be level, firm and slip resistant. Carpeting must be securely attached and have a firm cushion, pad, or backing, or no cushion or pad. The pile height is limited to ½ inch maximum.
@@ -730,7 +733,7 @@ Applicable Guidelines:
 > Technical:\
 > Chapter 4 Accessible Routes
 
-**Accessible Route**
+#### Accessible Route
 
 Minimum Requirements:\
 An accessible route is required throughout the courtroom, including from the jury box to the jury deliberation room, from the judge's bench to chambers, and from the holding area to the defendant's table, and any other routes intended for users of the courtroom. The route must be at least 36 inches wide, provide a running slope of no more than 1:20 (unless a ramp is provided) and a cross slope of no more than 1:48. Elements in the courtroom must have sufficient clear floor space, minimum 30 x 48 inches, and maneuvering clearances for people who use wheelchairs. Doors along the accessible route must be accessible and meet specifications for hardware, clear width, opening force, and maneuvering clearances, among others.
@@ -750,7 +753,7 @@ Applicable Guidelines:
 > Technical:\
 > Chapter 4 Accessible Routes
 
-**Spectator Seating**
+#### Spectator Seating
 
 Minimum Requirements:\
 Wheelchair spaces are required in assembly areas based on the fixed seating capacity. For example, at least one wheelchair space is required in assembly areas with up to 25 seats, and at least two are required in those with 26 to 50 seats. Wheelchair seating locations must adjoin an accessible route. The wheelchair seating location must not overlap the main aisle.
@@ -787,7 +790,7 @@ Applicable Guidelines:
 > Technical:\
 > 802 Wheelchair Spaces, Companion Seats, and Designated Aisle Seats
 
-**Rail (Bar)**
+#### Rail (Bar)
 
 Minimum Requirements:\
 If a rail is used, the gate or opening in the rail must be a minimum of 32 inches clear width and meet maneuvering clearances. If a gate is provided, at least one leaf must comply. In addition, gates must have compliant hardware and meet specifications for opening force (5 pounds of force maximum), closing speed, and surfacing. The lower portion of gates (within 10 inches above the floor) on the push side must be smooth the full width.
@@ -814,7 +817,7 @@ Applicable Guidelines:
 > Technical:\
 > 404 Doors, Doorways, and Gates
 
-**Jury Box**
+#### Jury Box
 
 Minimum Requirements:\
 Each jury box must have, within its defined area, wheelchair space that is connected by an accessible route. In general, clear floor space for wheelchairs must be at least 30 inches wide and at least 48 inches deep. Additional maneuvering room is required where the space is confined on three sides by fixed elements such as walls, elevations, railings, or seating. Space entered from the front or back that is confined on both sides more than 2 feet horizontally must be at least 36 inches wide. Space entered from the side that is confined at the front and back more than 15 inches horizontally must be at least 60 inches deep to permit adequate maneuvering space for a parallel approach. The design needs to provide sufficient clear floor space for the person using a wheelchair to get into the space provided,
@@ -865,7 +868,7 @@ Applicable Guidelines:
 > Chapter 4 Accessible Routes\
 > 808 Courtrooms (sections 808.2 and 808.3)
 
-**Witness Stand**
+#### Witness Stand
 
 Minimum Requirements:\
 The witness stand must be on an accessible route. If the witness stand is raised, either a ramp or a platform lift may be used to provide access. If a lift is used, it shall provide unassisted entry, operation, and exit. The witness stand shall provide sufficient clear floor space to accommodate a witness who uses a wheelchair. The witness chair shall be easily removable.
@@ -913,7 +916,7 @@ Applicable Guidelines:
 > Chapter 4 Accessible Routes\
 > 808 Courtrooms (sections 808.2 and 808.3)
 
-**Judge's Bench**
+#### Judge's Bench
 
 Minimum Requirements:\
 The route from the judge's chamber to the bench must be accessible. The bench platform is typically elevated above the courtroom well and often above the floor level of the judge's chamber. Vertical access to the bench may be accessible or adaptable. Access to the bench platform to overcome a vertical offset can be achieved by either a ramp or lift. If a lift is used, it must provide unassisted entry, operation, and exit. If adaptable, provision for utilities and space for future accessibility must be included in the design. Adequate space for a future ramp or lift must be provided, including, in the case of lifts, power and a pit, if required.\
@@ -951,7 +954,7 @@ Applicable Guidelines:
 > 808 Courtrooms (sections 808.2 and 808.4)\
 > 902 Dining Surfaces and Work Surfaces
 
-**Clerk's and Bailiff's Stations**
+#### Clerk's and Bailiff's Stations
 
 Minimum Requirements:\
 The route to the clerk's and bailiff's stations must be accessible. The station platform is typically elevated above the courtroom well and often above the floor level of the secured corridor. Vertical access to a raised station may be accessible or adaptable. Access to the station platform to overcome a vertical offset can be achieved by either a ramp or lift. If a lift is used, it must provide unassisted entry, operation, and exit. If adaptable, provision for utilities and space for future accessibility must be included in the design.
@@ -990,7 +993,7 @@ Applicable Guidelines:
 > 808 Courtrooms (sections 808.2 and 808.4)\
 > 902 Dining Surfaces and Work Surfaces
 
-**Court Reporter Station**
+#### Court Reporter Station
 
 Minimum Requirements:\
 The route to court reporter stations must be accessible. The station platform is sometimes elevated above the courtroom well and/or above the floor level of the secured corridor. Vertical access to a raised employee station may be accessible or adaptable. Access to the station platform to overcome a vertical offset can be achieved by either a ramp or lift. If a lift is used, it must provide unassisted entry, operation, and exit. If adaptable, provision for utilities and space for future accessibility must be included in the design.
@@ -1039,7 +1042,7 @@ Applicable Guidelines:
 > 808 Courtrooms (sections 808.2 and 808.4)\
 > 902 Dining Surfaces and Work Surfaces
 
-**Furnishings**
+#### Furnishings
 
 Counsel tables, lecterns, audio/visual carts and other common items in the courtroom may be fixed or non-fixed. Furnishings are commonly included in design plans and drawings, even when they are non-fixed. If they are fixed elements, they must comply with the ADA/ABA Guidelines. It is recommended that non-fixed elements be designed to meet the ADA/ABA Guidelines.
 
@@ -1120,7 +1123,7 @@ Applicable Guidelines:
 > Technical:\
 > 309 Operable Parts
 
-**Judge's Chambers**
+#### Judge's Chambers
 
 The design of judge's chambers vary by courthouse. The chambers typically include the judge's private office. They may include an outer office for the judge's clerks, a reception area, a conference room and office work spaces. Some chambers include single occupant bathrooms and kitchenettes.
 
@@ -1159,7 +1162,7 @@ Applicable Guidelines:
 > 804 Kitchens and Kitchenettes\
 > 902 Dining Surfaces and Work Surfaces
 
-**Jury Deliberation Room**
+#### Jury Deliberation Room
 
 Minimum Requirements:\
 Jury rooms must be accessible. If furnishings are fixed elements, they must comply with the ADA/ABA Guidelines. It is recommended that non-fixed elements be designed to meet the ADA/ABA Guidelines There must be an accessible circulation path to the jury table and from the jury table to other elements provided for the jury. Service unit (kitchenette) facilities are required to be accessible. Side approach to sinks in service units is permitted. Coat racks, where provided, must be placed at levels within accessible reach.
@@ -1241,7 +1244,7 @@ Applicable Guidelines:
 > 804 Kitchens and Kitchenettes\
 > 902 Dining Surfaces and Work Surfaces
 
-**Holding Cells**
+#### Holding Cells
 
 Minimum Requirements:\
 Where central holding cells are provided, at least one of each type shall be accessible. In addition, at least one holding cell serving each courtroom shall be accessible. Requirements for central and courtroom holding cells provide adequate turning space, access to benches, where provided, and accessible toilet facilities.
@@ -1315,7 +1318,7 @@ Applicable Guidelines:
 > 902 Dining Surfaces and Work Surfaces\
 > 904.4 Sales and Service Counters
 
-**Assistive Listening Systems in Courtrooms**
+#### Assistive Listening Systems in Courtrooms
 
 Because of the importance of privacy issues, infrared assistive listening systems are preferable in courtrooms. Some areas may be served by portable systems. However, the courtroom must be served by a permanent system. Assistive listening systems, however, are only usable for people with hearing loss who communicate verbally and have sufficient ability to discriminate sound. Other people may rely on Communication Access Real-Time Translation (CART), sign language interpreters, deaf interpreters, transliterators, or oral interpreters. Most issues regarding access for people with hearing loss are operational, as opposed to construction, issues. [See [Appendix A](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#a)]
 
@@ -1411,11 +1414,11 @@ Applicable Guidelines:
 
 ### IV. Access to Raised Elements in Courtrooms and Courthouses
 
--   [Ramps v. Lifts](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#general)
--   [Ramps](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#ramps)
--   [Lifts](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#lifts)
+-   [Ramps v. Lifts
+-   [Ramps
+-   [Lifts
 
-**Access to Raised Elements in Courtrooms and Courthouses**
+#### Ramps v. Lifts
 
 One of the most common problems in courthouses and courtrooms is the access to entrances and other raised elements. In new construction, elements inside the courtroom, such as jury boxes, witness stands, and clerk stations, are best designed with floor level access. If it is determined that any of these elements need to be raised, the use of permanently installed ramps for vertical access is preferred to lifts. (Ramps are to be fixed elements; portable ramps are not permitted in new construction and rarely in existing facilities.)
 
@@ -1431,7 +1434,8 @@ The ADA and ABA guidelines provide an exception for vertical access to judges' b
 
 In existing facilities, these same preferences apply. However, space limitations may require installation of a lift. In these situations, strict adherence to the Courtroom Lift section of ASME A18.1 Safety Standards is essential.
 
-**Ramps**\
+#### Ramps
+
 Ramps are utilized outside and throughout the courthouse, including within the courtroom to provide accessible routes for both ingress and egress. When ramps also serve as part of the general path of travel, applicable building codes may have additional requirements. For example, if a ramp at the main entrance is the general path for everyone entering the building, the width requirements may be greater than 36 inches minimum.
 
 Minimum Requirements:\
@@ -1532,7 +1536,7 @@ Applicable Guidelines:
 > See also:\
 > Model building codes such as the International Building Code (sections 1010 Ramps, 1009.11 through 1009.11.7, Handrails, and 1012 Guards in the 2003 edition).
 
-**Lifts**
+#### Lifts
 
 There are 6 types of wheelchair platform lifts in use to provide access to elevated stations in the courtroom and in other locations throughout the courthouse. In order to minimize the visual impact on the courtroom or courthouse, the lifts are typically enclosed in millwork matching the surrounding surfaces.
 
@@ -1623,11 +1627,11 @@ Applicable Guidelines:
 
 ### V. Recommendations for Outreach and Marketing of Information on Accessible Courthouse & Courtroom Design
 
--   [Marketing and Outreach Plan](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#market)
--   [Website Content](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#web)
--   [Training Course Outlines](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#courses)
+-   Marketing and Outreach Plan
+-   Website Content
+-   Training Course Outlines
 
-**Marketing and Outreach Plan**
+#### Marketing and Outreach Plan
 
 In addition to providing clear requirements for accessible design, best practices, and implementation strategies, it is important to market accessibility information to a variety of audiences who can implement the requirements, practices, and strategies. This Report provides recommendations for outreach and marketing to target audiences, including design professionals, judicial officers, court managers, court staff, and disability groups. Because the Access Board shares responsibility over access to courthouses with several other agencies, including the Department of Justice and the Equal Employment Opportunity Commission, these outreach efforts should be coordinated with those agencies as appropriate. The Courthouse Access Advisory Committee recommends that educational tools be developed in coordination with these agencies for all audiences.
 
@@ -1664,8 +1668,7 @@ Time Frame for Marketing and Maintaining Website
 -   Create advisory committee or steering committee to review and approve new materials, discuss trends
 -   Track responses to facilitate feedback, user tracking, "How did you learn about the website?" etc.
 
-**Website Content\
-**
+#### Website Content
 
 |
 
@@ -2053,11 +2056,11 @@ Program Abstract:
 
 ### VI. Background
 
--   [Demographics of Disability](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#demographics)
--   [Accessible Design as a Component of Construction and Operating Budgets](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#budget)
--   [Accessibility Laws, Regulations, and Standards](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#laws)
+-   Demographics of Disability
+-   Accessible Design as a Component of Construction and Operating Budgets
+-   Accessibility Laws, Regulations, and Standards
 
-**Demographics of Disability**
+#### Demographics of Disability
 
 Total Number of People with Disabilities\
 In 1987, when the first drafts of the ADA were being seriously considered, official estimates were that 43 million people would be covered by this Federal law. Today that number has risen to 58 million according to the International Center for Disability Information (ICDI).  Various summaries, including those issued by the ICDI and the National Institute on Disability and Rehabilitation Research, indicate that 20% of the population have one or more disabilities and that approximately 10% have severe disabilities.
@@ -2108,7 +2111,7 @@ Sources
 > 2000 N.O.D./Harris Community Participation Study, April, 2000.\
 > 2000 and 2004 N.O.D./Harris Surveys of Americans with Disabilities.
 
-**Accessible Design as a Component of Construction and Operating Budgets**
+#### Accessible Design as a Component of Construction and Operating Budgets
 
 Judicial proceedings are required to be accessible to the public. Failure to provide accessible proceedings can result in monetary penalties and court-imposed retrofits of inaccessible elements. Courthouses present a higher percentage of use by members of the public with disabilities, due to disability-related civil rights litigation, personal injuries and violent crime matters. Accessible proceedings require accessible witness stands and spectator areas, and other areas. In addition, a jury of one's peers may require the participation of senior citizens or persons with disabilities. Integration of accessible elements within the initial design avoids potential legal disputes later and expensive re-construction accommodations.
 
@@ -2118,7 +2121,7 @@ The notion that accessibility is a large budget item is incorrect. Fixed accessi
 
 In short, the benefits of accessible design elements are rarely limited to court users with permanent disabilities, and, if integrated early in the planning and design process, represent a relatively small portion of the overall construction and operations budget and create an accessible court experience for all.
 
-**Accessibility Laws, Regulations, and Standards**
+#### Accessibility Laws, Regulations, and Standards
 
 There are several Federal laws that require access to the built environment, including courthouses, through adopted accessibility standards. These laws include the Architectural Barriers Act (ABA), the Rehabilitation Act, and the Americans with Disabilities Act (ADA).
 
@@ -2167,32 +2170,21 @@ State and local buildings codes, many of which reference the ICC/ANSI A117.1 -- 
 
 ### Appendices
 
-[Appendix A -- Communication Access in Courthouses](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#a)
+-  Appendix A -- Communication Access in Courthouses
+-  Appendix B -- Wayfinding for People with Vision Impairments
+-  Appendix C -- Biographies of CAAC Members and Alternatives
+-  Appendix D -- Glossary of Terms
 
-[Appendix B -- Wayfinding for People with Vision Impairments](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#b)
+-  Appendix E -- Federal Disability Information Contacts
+-  Appendix F -- Judicial Conferences and Court Management Associations
+-  Appendix G -- State Bars
 
-[Appendix C -- Biographies of CAAC Members and Alternatives](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#c)
+-  Appendix H -- Architecture, Engineering, and Construction Organizations
+-  Appendix I -- Disability Rights and Consumer Organizations
+-  Appendix J -- Resources to Support Training Courses
+-  Appendix K - Prototype Courtroom Plans [pending]
 
-[Appendix D -- Glossary of Terms](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#d)
-
-[Appendix E -- Federal Disability Information Contacts](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#e)
-
-[Appendix F -- Judicial Conferences and Court Management Associations](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#f)
-
-[Appendix G -- State Bars](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#g)
-
-[Appendix H -- Architecture, Engineering, and Construction Organizations](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#h)
-
-[Appendix I -- Disability Rights and Consumer Organizations](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#i)
-
-[Appendix J -- Resources to Support Training Courses](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/120-ada-standards/background/courthouse-access#j)
-
-Appendix K - Prototype Courtroom Plans [pending]
-
-* * * * *
-
-###\
-**Appendix A - Communication Access in Courthouses**
+#### Appendix A - Communication Access in Courthouses
 
 Courthouse managers must be prepared to provide a variety of types of access for individuals with hearing loss.
 
@@ -2261,7 +2253,7 @@ Cued Speech is not a language in itself, but shows the spoken word through hand 
 
 * * * * *
 
-### Appendix B - Wayfinding for People with Vision Impairments
+#### Appendix B - Wayfinding for People with Vision Impairments
 
 When entering a courthouse for the first time, finding one's way around is largely dependent upon clear and concise directional signage.
 
@@ -2304,7 +2296,7 @@ Note -- in some communities where the RIAS technology is already widely used, ma
 
 * * * * *
 
-### Appendix C - Biographies of CAAC Members and Alternates and Access Board Representatives
+#### Appendix C - Biographies of CAAC Members and Alternates and Access Board Representatives
 
 *Robert L. Andrukonis, AIA*\
 Andrukonis represents the General Services Administrative (GSA) on the Committee. As director of GSA's Center for Courthouse Programs, he is responsible for the oversight, program management, and budgeting of this $10 billion program which includes approximately 160 new courthouses or courthouse annexes throughout the country. Prior to joining the Center, he was part of GSA's National Capital Region's Architectural Section for 22 years where he was responsible for design and design review of regional projects and ensured project compliance with applicable accessibility standards.
@@ -2470,7 +2462,7 @@ Stewart is an attorney in Florida whose practice focuses on family law. She prev
 
 * * * * *
 
-### Appendix D - Glossary of Terms
+#### Appendix D - Glossary of Terms
 
 504: Section 504 of the Rehabilitation Act of 1973
 
@@ -2535,7 +2527,7 @@ WDBG: (Whole Building Design Guide) A website created and supported by Steven Wi
 
 * * * * *
 
-### Appendix E - Federal Disability Information Contacts
+#### Appendix E - Federal Disability Information Contacts
 
 Note: These resources are intended to support the Enforcement pages.
 
@@ -2585,7 +2577,7 @@ Note: These resources are intended to support the Enforcement pages.
 
 * * * * *
 
-### Appendix F - Judicial Conferences and Court Management Associations
+#### Appendix F - Judicial Conferences and Court Management Associations
 
 >\
 > NAME: American Judges Association\
@@ -2732,7 +2724,7 @@ Note: These resources are intended to support the Enforcement pages.
 
 * * * * *
 
-### Appendix G - State Bars
+#### Appendix G - State Bars
 
 >\
 > NAME: American Bar Association\
@@ -3198,7 +3190,7 @@ Note: These resources are intended to support the Enforcement pages.
 
 * * * * *
 
-### Appendix H - Architecture, Engineering and Construction Organizations
+#### Appendix H - Architecture, Engineering and Construction Organizations
 
 >\
 > NAME: The American Institute of Architects (AIA)\
@@ -3319,7 +3311,7 @@ Note: These resources are intended to support the Enforcement pages.
 
 * * * * *
 
-### Appendix I - Disability Rights and Consumer Organizations
+#### Appendix I - Disability Rights and Consumer Organizations
 
 >\
 > NAME: Access Center for Independent Living\
@@ -3588,7 +3580,8 @@ Note: These resources are intended to support the Enforcement pages.
 
 * * * * *
 
-### Appendix J - Resources to Support Training Courses\
+#### Appendix J - Resources to Support Training Courses
+
 ADA/ABA Guidelines, July 23, 2004
 
 Access to the California State Courts, A Survey of Court Users, Attorneys, and Court Personnel, 1997
