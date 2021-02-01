@@ -53,12 +53,11 @@ title: Access Board Members
         {% endfor %}
 
         {% for vice-chair in vice-chairs %}
-        <li class="tablet:grid-col-6 usa-card margin-x-auto"> <!-- remove margin x auto when going back to chair and vice chair -->
+        <li class="tablet:grid-col-6 usa-card">
           <a class="style-inherit" href="{{ site.baseurl }}/about/board-members/{{ vice-chair.name }}">
             <div class="usa-card__container gray-to-color card-shadow">
               <header class="card-header">
-                <!-- <h2 class="usa-card__heading">Vice-Chair</h2> -->
-                <h2 class="usa-card__heading">Acting Chair</h2>
+                <h2 class="usa-card__heading">Vice-Chair</h2>
               </header>
               <div class="usa-card__body">
                 <h3 class="text-center margin-y-0">{{ vice-chair.full_name }}</h3>
