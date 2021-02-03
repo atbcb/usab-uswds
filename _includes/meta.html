@@ -8,7 +8,9 @@ site, this is the place to do it.
     ================================================== -->
   <meta charset="utf-8">
   <meta http-equiv="X-UA-Compatible" content="IE=edge">
-  <meta name="robots" content="noindex, nofollow">
+  {% unless site.branch == "master" %}
+    <meta name="robots" content="noindex, nofollow">
+  {% endunless %}
   <!-- Mobile Specific Metas
     ================================================== -->
   <meta name="HandheldFriendly" content="True">
