@@ -151,16 +151,12 @@ Where a passenger loading/drop-off zone is provided, an access aisle that is 60 
 
 If a valet parking service is provided, there must also be an accessible passenger loading zone.
 
-| ![drop off area at courthouse]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0000.jpg) |   |
+![drop off area at courthouse]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0000.jpg) 
 
 ![another example of a courthouse drop off area]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0001.jpg)
 
- |
-|
+Figures: Drop off areas that provide clear and level entry.
 
-Figures. Drop off areas that provide clear and level entry.
-
- |\
 Recommendations for Best Practice:
 
 -   Though not required by regulations, a passenger drop-off area is often needed for individuals with mobility impairments who may find travel distances from parking areas excessive.
@@ -1414,9 +1410,9 @@ Applicable Guidelines:
 
 ### IV. Access to Raised Elements in Courtrooms and Courthouses
 
--   [Ramps v. Lifts
--   [Ramps
--   [Lifts
+-   Ramps v. Lifts
+-   Ramps
+-   Lifts
 
 #### Ramps v. Lifts
 
