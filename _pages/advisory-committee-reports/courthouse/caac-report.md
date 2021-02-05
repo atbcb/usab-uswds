@@ -1924,16 +1924,16 @@ Learning Objectives
 
     Regulatory and Legislative Authority
 
-    - 504, ABA, ADA
-    - Documented legislative history of discrimination
-    - Building codes
-    - State accessibility laws
+-   504, ABA, ADA
+-   Documented legislative history of discrimination
+-   Building codes
+-   State accessibility laws
 
 Roles and Responsibilities of the Design Community
 
-    - Integrated Design Process within the respective phases of the project (key decisions)
-    - Integrated Design Process requires dialogue with community/other stakeholders
-    - Design as an expression of civil rights (proactive, approaching accessible design)
+-   Integrated Design Process within the respective phases of the project (key decisions)
+-   Integrated Design Process requires dialogue with community/other stakeholders
+-   Design as an expression of civil rights (proactive, approaching accessible design)
 
 Program Abstract:
 
@@ -1976,10 +1976,10 @@ Program Format and Length:
 
 Program Abstract:
 
-> I. Introductions
-> A. Historical Background (focus on the why)
+> I. Introductions\
+> A. Historical Background (focus on the why)\
 > - Disability access as a civil right
-> - Demographics of court users with disabilities
+> - Demographics of court users with disabilities\
 > B. Regulatory and Legislative Authority
 > - 504, ABA, ADA
 > - Documented legislative history of discrimination
