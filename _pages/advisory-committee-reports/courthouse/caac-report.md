@@ -12,7 +12,7 @@ permalink: /ada/additional-resources/designing-accessible-courthouses.html
 
 *Recommendations from the Courthouse Access Advisory Committee*
 
-This report contains recommendations of the Courthouse Access Advisory Committee for the U.S. Access Board's use in developing and disseminating guidance on accessible courthouse design under the Americans with Disabilities Act and the Architectural Barriers Act. This is not a regulation./p>
+This report contains recommendations of the Courthouse Access Advisory Committee for the U.S. Access Board's use in developing and disseminating guidance on accessible courthouse design under the Americans with Disabilities Act and the Architectural Barriers Act. This is not a regulation.
 
 ### Contents
 ![symbol of lady justice]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002.jpg){: .img-right}
@@ -1705,8 +1705,7 @@ State Bars**
 
  |
 
-**Design Community\
-**
+**Design Community**
 
  |
 
@@ -2414,9 +2413,8 @@ Judge Roberts represents the 10th Judicial Circuit of Florida on the Committee w
 *Tom Rowe, AIA*\
 Rowe is a principal with Michael Graves & Associates, a professional architectural design firm located in Princeton, New Jersey and New York City. He has worked at Michael Graves & Associates since 1984 and manages one of Mr. Grave's four design studios. He has been involved in numerous civic building projects, including a Federal courthouse in Washington, D.C.
 
-*Robert W. Schwartz, AIA, LEED AP\
-*Schwartz has been a leader in the planning and design effort for Hellmuth, Obata + Kassabaum, Inc. (HOK) on significant court projects throughout the United States.. He was also a major contributor to the National Center for State Courts' The Courthouse: A Planning and Design Guide for Court Facilities. He has served on a Federal panel of architects, engineers, contractors and developers to establish methods to reduce the cost of Federal courthouses.*\
-*
+*Robert W. Schwartz, AIA, LEED AP*\
+Schwartz has been a leader in the planning and design effort for Hellmuth, Obata + Kassabaum, Inc. (HOK) on significant court projects throughout the United States. He was also a major contributor to the National Center for State Courts' The Courthouse: A Planning and Design Guide for Court Facilities. He has served on a Federal panel of architects, engineers, contractors and developers to establish methods to reduce the cost of Federal courthouses.*\
 
 *Marlene Walli Shade, AIA LEED* *AP*\
 Shade is an architect with PSA-Dewberry, Inc., which is involved in courts planning and design on a national, state, and local level. The work of her firm has included design of new facilities and retrofit of existing facilities for accessibility, as well as compliance reviews through a contract with the Administrative Office of the U.S. Courts.
