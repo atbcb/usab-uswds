@@ -1922,7 +1922,7 @@ Learning Objectives
 -   Discuss common concerns of individuals with disabilities regarding courthouse design.
 -   Discussion of design solutions that respond to the barriers identified.
 
-    Regulatory and Legislative Authority
+Regulatory and Legislative Authority
 
 -   504, ABA, ADA
 -   Documented legislative history of discrimination
@@ -1977,40 +1977,40 @@ Program Format and Length:
 Program Abstract:
 
 > I. Introductions\
-> A. Historical Background (focus on the why)\
+> A. Historical Background (focus on the why)
 > - Disability access as a civil right
 > - Demographics of court users with disabilities\
 > B. Regulatory and Legislative Authority
 > - 504, ABA, ADA
 > - Documented legislative history of discrimination
 > - Building codes
-> - State accessibility laws
+> - State accessibility laws\
 > C. Roles and Responsibilities of the Design Community
 > - Integrated Design Process within the respective phases of the project (key decisions)
 > - Integrated Design Process requires dialogue with community/other stakeholders
-> - Design as an expression of civil rights (proactive, approaching accessible design)
+> - Design as an expression of civil rights (proactive, approaching accessible design)\
 > D. Enforcement
-> U.S. Department of Justice, Civil Rights Division
-> U.S. Access Board
-> U.S. General Services Administration
-> Building code officials (enforcement by state)
+> - U.S. Department of Justice, Civil Rights Division
+> - U.S. Access Board
+> - U.S. General Services Administration
+> - Building code officials (enforcement by state)
 >
-> II. Accessibility Guidelines for Courthouses (ADA) -- issue driven, what regulations say
+> II. Accessibility Guidelines for Courthouses (ADA) -- issue driven, what regulations say\
 > A. Exterior Accessible Route
 > - Security concerns result in designs for parking lots to be located a significant distance from the entrance
-> - Avoid design for raised (plinth) front entrances that result in separate accessible entrances
+> - Avoid design for raised (plinth) front entrances that result in separate accessible entrances\
 > B. Entrance (with case studies)
 > - Entrances
 > - Security systems
-> - Restricted/Secured entrances -- two-way communication systems
-> D. Interior Accessible Route
+> - Restricted/Secured entrances -- two-way communication systems\
+> D		. Interior Accessible Route
 > - Paths of travel
 > - Vertical Access: Ramps and Platform lifts (access between floor levels), Elevators (access between stories)
-> - Protruding Objects
+> - Protruding Objects\
 > E. Means of Egress
 > - Emergency fire and safety evacuation planning
-> Audible/Visible Alarms (NFPA)
-> Means of Egress (IBC)
+> - Audible/Visible Alarms (NFPA)
+> - Means of Egress (IBC)\
 > F. Specific Function Areas (with case studies)
 > - Jury Assembly Room
 > - Grand Jury
@@ -2018,7 +2018,7 @@ Program Abstract:
 > - Information Services
 > - Holding Cells
 > - Counters and Work Surfaces
-> - Other public areas -- restrooms, etc.
+> - Other public areas -- restrooms, etc.\
 > G. Courtrooms (ordered as Courtroom subcommittee grouped by
 > area) (with case studies)
 > - Courtroom Entry
@@ -2034,19 +2034,19 @@ Program Abstract:
 > - Judges' Bench
 > - Staff Station
 > - Court Reporter
-> - Bailiff's Station
-> H. Design Discussion of Ramps vs. Platform lifts
-> I. Communication Access (CART and ALS)
+> - Bailiff's Station\
+> H. Design Discussion of Ramps vs. Platform lifts\
+> I. Communication Access (CART and ALS)\
 > J. Areas Outside Courtrooms
 > - Judge's Chambers
 > - Courtroom Holding Cells
 > - Jury Deliberation Suite
 >
-> III. Trends and Innovations
-> A. Accessible Design
-> B. Building Information Modeling (BIM)
-> C. Access Board working with model codes (ICC and NFPA)
-> D. Others (e.g., multiple chemical sensitivities)
+> III. Trends and Innovations\
+> A. Accessible Design\
+> B. Building Information Modeling (BIM)\
+> C. Access Board working with model codes (ICC and NFPA)\
+> D. Others (e.g., multiple chemical sensitivities)\
 > E. Leadership in Energy and Environmental Design (LEED)
 >
 > IV. Resources
