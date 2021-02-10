@@ -25,17 +25,25 @@
 
     if (elements) {
       for (let i = 0; i < elements.length; i++) {
-        let section = elements[i].innerText;
+        let idtag;
+        let element = elements[i];
+
+        let section = element.innerText;
         let cleanedSection = DOMPurify.sanitize(section);
 
         // if cleanedSection is empty go to next element in loop
         if (cleanedSection === "") continue;
 
-        let idtag = cleanedSection
-          .replace(/ /g,"-")
-          .toLowerCase()
-          .trim();
-          elements[i].setAttribute("id",idtag);
+        if (element.id) {
+          idtag = element.id
+        } else {
+          idtag = cleanedSection
+            .replace(/ /g,"-")
+            .toLowerCase()
+            .trim();
+
+          element.setAttribute("id",idtag);
+        }
 
         let li = document.createElement("li");
         let a = document.createElement("a");
