@@ -19,7 +19,7 @@ The Board is undertaking this initiative jointly with other agencies, including 
 
 The forum will be conducted through the Zoom webinar. The forum’s four sessions will be in intervals of two weeks. Each 90-minute webinar discussion will be recorded and supplemented by an online crowdsourcing discussion platform (ePolicyWorks) that will be active for two weeks after each session. The sessions will begin with presentations by agency representatives and invited speakers who will review relevant sources and research and outline issues and questions for discussion. These presentations will be followed by an open dialogue with attendees through the webinar platform. 
 
-### Program Schedule
+### Webinar Schedule and Registration
 
 **Accessibility for Passengers with Mobility Disabilities: Part 1** \
 *This session will cover methods and technologies for entering and exiting autonomous vehicles.* \
