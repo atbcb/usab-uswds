@@ -29,28 +29,22 @@ The Board is undertaking this initiative jointly with other agencies, including 
 > **Accessibility for Passengers with Mobility Disabilities: Part 1**\
 > *This session will cover methods and technologies for entering and exiting autonomous vehicles.*
 > March 10, 2021, 2:00 – 3:30 (ET)
-> [Register for the March 10 session](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A) 
-
+> [Register for the March 10 session](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A) \
 > The [ePolicyWorks](https://epolicyworks.ideascale.com/a/pages/about) discussion platform will open February 22. 
 >
 > **Accessibility for Passengers with Mobility Disabilities: Part 2**\
 > *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.*
-> March 24, 2021, 2:00 – 3:30 (ET)
-
+> March 24, 2021, 2:00 – 3:30 (ET)\
 > [Register for the March 24 session](https://www.zoomgov.com/webinar/register/WN_EiK6nemcTUyg4IEUMu2RxQ) 
 >
 > **Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1**\
-> *This session will address ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.*
-
-> April 7, 2021, 2:00 – 3:30 (ET)
-
+> *This session will address ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.*\
+> April 7, 2021, 2:00 – 3:30 (ET)\
 > [Register for the April 7 session](https://www.zoomgov.com/webinar/register/WN_MWvyBgaxTtCk1nALFNl58g)  
 >
 > **Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2**\
-> *This session will continue discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities.*
-
-> April 21, 2021, 2:00 – 3:30 (ET)
-
+> *This session will continue discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities.*\
+> April 21, 2021, 2:00 – 3:30 (ET)\
 > [Register for the April 21 session](https://www.zoomgov.com/webinar/register/WN_FOFPmlQtRC6Jconf5-vvxg) 
 
 Each session will feature presentations by agency representatives and invited speakers who will review relevant information and research and outline issues and questions for discussion. An open dialogue with attendees will follow. In addition, an online crowdsourcing platform (ePolicyWorks) will provide a forum for continued discussion after the live session.  
