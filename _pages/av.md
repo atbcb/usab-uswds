@@ -43,6 +43,8 @@ April 21, 2021, 2:00 – 3:30 (ET) \
 
 ### ePolicyWorks Discussion Platform 
 
+{% asset epolicyworks.gif alt="ePolicyWorks icon" class="float-right" %}
+
 Members of the public are also welcome to share their ideas, comments, and information on AV accessibility through an online discussion platform (ePolicyWorks) that will offer another opportunity for dialogue throughout the webinar series.  Sponsored by ODEP, ePolicyWorks engages citizens and stakeholders and enables government to gather the public's input on key policy issues related to employment of people with disabilities.  Visit the [ePolicyworks](https://epolicyworks.ideascale.com/) website for further information on the platform. Registration for the dialogue on AV accessibility will open February 22.   
 
 ### More Information 
