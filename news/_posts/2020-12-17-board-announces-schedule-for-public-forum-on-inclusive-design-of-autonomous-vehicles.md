@@ -31,7 +31,7 @@ The Board is undertaking this initiative jointly with other agencies, including 
 > March 10, 2021, 2:00 – 3:30 (ET)\
 > [Register for the March 10 session](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A) 
 
-> The ePolicyWorks discussion platform will open February 22. 
+> The [ePolicyWorks](https://epolicyworks.ideascale.com/a/pages/about) discussion platform will open February 22. 
 >
 > **Accessibility for Passengers with Mobility Disabilities: Part 2**\
 > *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.*\
