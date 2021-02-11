@@ -39,7 +39,7 @@ April 7, 2021, 2:00 – 3:30 (ET) \
 **Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2** \
 *This session will continue discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities.* \
 April 21, 2021, 2:00 – 3:30 (ET) \
-[Register for the April 24 session](https://www.zoomgov.com/webinar/register/WN_FOFPmlQtRC6Jconf5-vvxg)
+[Register for the April 21 session](https://www.zoomgov.com/webinar/register/WN_FOFPmlQtRC6Jconf5-vvxg)
 
 ### ePolicyWorks Discussion Platform 
 
