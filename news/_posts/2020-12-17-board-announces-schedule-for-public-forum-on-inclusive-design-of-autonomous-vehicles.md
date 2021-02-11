@@ -16,7 +16,7 @@ featured: false
 
 In March and April, the U.S. Access Board, in partnership with other federal agencies, will host a series of virtual meetings on making autonomous vehicles (AVs) accessible to passengers with disabilities. The four-part series will provide an open forum where members of the public and stakeholders can discuss considerations, challenges, and solutions in designing accessible AVs. All are welcome to attend. 
 
-“Self-driving vehicles have the potential to dramatically expand transit options for people with disabilities, so it’s important that they accommodate everyone,” notes Access Board Executive director Sachin Pavithran, Ph.D. “We are undertaking this series to share information and ideas to promote inclusiveness into design and operation of autonomous vehicles.”   
+“Self-driving vehicles have the potential to dramatically expand transit options for people with disabilities, so it’s important that they accommodate everyone,” notes Access Board Executive Director Sachin Pavithran, Ph.D. “We are undertaking this series to share information and ideas to promote inclusiveness into design and operation of autonomous vehicles.”   
 
 The series will cover accessibility for passengers with mobility disabilities (sessions 1 and 2) and accessibility for passengers with sensory or cognitive disabilities (sessions 3 and 4). Each 90-minute session will be conducted through a webinar (Zoom) platform and feature presentations by agency representatives and invited speakers who will review relevant sources and research and outline issues and questions for discussion. These presentations will be followed by an open dialogue where attendees can pose questions or share comments or information. 
 
