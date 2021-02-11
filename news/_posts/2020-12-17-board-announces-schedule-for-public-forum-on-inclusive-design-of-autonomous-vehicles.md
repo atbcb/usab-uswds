@@ -27,13 +27,13 @@ The Board is undertaking this initiative jointly with other agencies, including 
 ### Inclusive Design of Autonomous Vehicles: A Public Dialogue 
 
 > **Accessibility for Passengers with Mobility Disabilities: Part 1**\
-> *This session will cover methods and technologies for entering and exiting autonomous vehicles.*
-> March 10, 2021, 2:00 – 3:30 (ET)
-> [Register for the March 10 session](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A) \
+> *This session will cover methods and technologies for entering and exiting autonomous vehicles.*\
+> March 10, 2021, 2:00 – 3:30 (ET)\
+> [Register for the March 10 session](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A)\
 > The [ePolicyWorks](https://epolicyworks.ideascale.com/a/pages/about) discussion platform will open February 22. 
 >
 > **Accessibility for Passengers with Mobility Disabilities: Part 2**\
-> *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.*
+> *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.*\
 > March 24, 2021, 2:00 – 3:30 (ET)\
 > [Register for the March 24 session](https://www.zoomgov.com/webinar/register/WN_EiK6nemcTUyg4IEUMu2RxQ) 
 >
