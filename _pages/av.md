@@ -22,23 +22,23 @@ The forum will be conducted through the Zoom webinar. The forum’s four session
 ### Program Schedule
 
 **Accessibility for Passengers with Mobility Disabilities: Part 1** \
-*This session will cover methods and technologies for entering and exiting autonomous vehicles.* 
-March 10, 2021, 2:00 – 3:30 (ET)
+*This session will cover methods and technologies for entering and exiting autonomous vehicles.* \
+March 10, 2021, 2:00 – 3:30 (ET) \
 [Register for the March 10 session](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A)
 
 **Accessibility for Passengers with Mobility Disabilities: Part 2** \
-*This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.*
-March 24, 2021, 2:00 – 3:30 (ET)
+*This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.* \
+March 24, 2021, 2:00 – 3:30 (ET) \
 [Register for the March 24 session](https://www.zoomgov.com/webinar/register/WN_EiK6nemcTUyg4IEUMu2RxQ)
 
 **Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1** \
-*This session will address ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.*
-April 7, 2021, 2:00 – 3:30 (ET)
+*This session will address ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.* \
+April 7, 2021, 2:00 – 3:30 (ET) \
 [Register for the April 7 session](https://www.zoomgov.com/webinar/register/WN_MWvyBgaxTtCk1nALFNl58g)
 
 **Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2** \
-*This session will continue discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities.*
-April 21, 2021, 2:00 – 3:30 (ET)
+*This session will continue discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities.* \
+April 21, 2021, 2:00 – 3:30 (ET) \
 [Register for the April 24 session](https://www.zoomgov.com/webinar/register/WN_FOFPmlQtRC6Jconf5-vvxg)
 
 ### ePolicyWorks Discussion Platform 
