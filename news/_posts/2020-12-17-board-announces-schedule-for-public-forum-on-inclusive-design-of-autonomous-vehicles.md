@@ -24,7 +24,7 @@ In addition, an online discussion platform (ePolicyWorks) will provide furt
 
 The Board is undertaking this initiative jointly with other agencies, including the Department of Labor’s Office of Disability Employment Policy and the Department of Health and Human Service’s Administration for Community Living.
 
-### Inclusive Design of Autonomous Vehicles:  A Public Dialogue 
+### Inclusive Design of Autonomous Vehicles: A Public Dialogue 
 
 > **Accessibility for Passengers with Mobility Disabilities: Part 1**\
 > *This session will cover methods and technologies for entering and exiting autonomous vehicles.*\
