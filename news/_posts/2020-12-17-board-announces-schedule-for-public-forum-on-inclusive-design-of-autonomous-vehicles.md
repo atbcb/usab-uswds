@@ -20,7 +20,7 @@ In March and April, the U.S. Access Board, in partnership with other federal ag
 
 The series will cover accessibility for passengers with mobility disabilities (sessions 1 and 2) and accessibility for passengers with sensory or cognitive disabilities (sessions 3 and 4). Each 90-minute session will be conducted through a webinar (Zoom) platform and feature presentations by agency representatives and invited speakers who will review relevant sources and research and outline issues and questions for discussion. These presentations will be followed by an open dialogue where attendees can pose questions or share comments or information. 
 
-In addition, an online discussion platform (ePolicyWorks) will provide further opportunity for dialogue and information sharing following the webinar sessions. This discussion forum will be active for two weeks following each session.   
+In addition, an online discussion platform (ePolicyWorks) will provide further opportunity for dialogue and information sharing following the webinar sessions. This discussion forum will be active for two weeks following each session. The [ePolicyWorks](https://epolicyworks.ideascale.com/) discussion platform will open February 22.  
 
 The Board is undertaking this initiative jointly with other agencies, including the Department of Labor’s Office of Disability Employment Policy and the Department of Health and Human Service’s Administration for Community Living.
 
@@ -30,7 +30,7 @@ The Board is undertaking this initiative jointly with other agencies, including 
 > *This session will cover methods and technologies for entering and exiting autonomous vehicles.*\
 > March 10, 2021, 2:00 – 3:30 (ET)\
 > [Register for the March 10 session](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A)\
-> The [ePolicyWorks](https://epolicyworks.ideascale.com/a/pages/about) discussion platform will open February 22. 
+> The ePolicyWorks discussion platform will open February 22. 
 >
 > **Accessibility for Passengers with Mobility Disabilities: Part 2**\
 > *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.*\
