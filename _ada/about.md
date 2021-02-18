@@ -27,7 +27,7 @@ A Guide to the ADA Standards is also available.  This companion resource explain
 
 ## Figures
 
-Figures in the ADA Standards are available for [download (zip file of figures in .dwg format)({{ site.baseurl }}/files/ada/ada-aba-figures.zip).
+Figures in the ADA Standards are available for [download (zip file of figures in .dwg format)]({{ site.baseurl }}/files/ada/ada-aba-figures.zip).
 
 ---
 
