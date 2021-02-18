@@ -94,3 +94,4 @@ If you believe others should be informed of the vulnerability prior to our imple
 | Version | Date | Description |
 |---|---|---|
 | 1.0 | February 18, 2021 | First issuance. |
+{: .usa-table}
