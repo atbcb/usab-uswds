@@ -69,7 +69,7 @@ If not, you should work with the vendor to obtain authorization.
 **Any service not expressly listed above, such as any connected services, are excluded from scope** and are not authorized for testing.
 Additionally, vulnerabilities found in systems from our vendors fall outside of this policy's scope and should be reported directly to
 the vendor according to their disclosure policy (if any). If you are not sure whether a system is in scope or not, contact us at <security@access-board.gov>
-before starting your research (or at the security contact for the system's domain name listed in the[.gov WHOIS](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml)).
+before starting your research (or at the security contact for the system's domain name listed in the [.gov WHOIS](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml)).
 
 ## Reporting a Vulnerability
 
