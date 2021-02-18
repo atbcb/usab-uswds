@@ -91,6 +91,6 @@ If you believe others should be informed of the vulnerability prior to our imple
 
 ## Document Change History
 
-| Version | Date | Description |
+| Version | Date | Description |{.usa-table}
 |---|---|---|
 | 1.0 | February 18, 2021 | First issuance. |
