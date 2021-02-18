@@ -255,7 +255,8 @@ The Board is responsible for developing accessibility standards for such technol
 > > > 
 > > > (2) Biennial reports
 > > > 
-> > > <a name="attn-doj"></a> Not later than 3 years after August 7, 1998, and every 2 years thereafter, the Attorney General shall prepare and submit to the President and Congress a report containing information on and recommendations regarding the state of Federal department and agency compliance with the requirements of this section, including actions regarding individual complaints under subsection (f).
+> > > Not later than 3 years after August 7, 1998, and every 2 years thereafter, the Attorney General shall prepare and submit to the President and Congress a report containing information on and recommendations regarding the state of Federal department and agency compliance with the requirements of this section, including actions regarding individual complaints under subsection (f).
+{: #attn-doj}
 > > 
 > > (e) Cooperation
 > > 
