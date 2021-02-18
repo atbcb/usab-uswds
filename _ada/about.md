@@ -10,24 +10,26 @@ version: original
 
 Accessibility standards issued under the Americans with Disabilities Act (ADA) apply to places of public accommodation, commercial facilities, and state and local government facilities in new construction, alterations, and additions.  The ADA Standards are based on minimum guidelines set by the Access Board. 
 
-The Department of Justice (DOJ) and the Department of Transportation (DOT) issue the ADA Standards.  DOJ's ADA Standards apply to all facilities except public transportation facilities, which are subject to DOT's ADA Standards.  This version of the ADA Standards combines both documents and notes unique provisions in the DOJ Standards and the DOT Standards.  The Access Board is responsible for providing technical assistance and training on these Standards. 
-
+The Department of Justice (DOJ) and the Department of Transportation (DOT) issue the ADA Standards.  DOJ's ADA Standards apply to all facilities except public transportation facilities, which are subject to DOT's ADA Standards.  This version of the ADA Standards combines both documents and notes unique provisions in the DOJ Standards and the DOT Standards.  The Access Board is responsible for providing technical assistance and training on these Standards.
 
 ---
 
-
 ## Guide to the ADA Standards
-The US Access Board has developed guides to the ADA Standards in cooperation with DOJ and DOT.
 
+A Guide to the ADA Standards is also available.  This companion resource explains and illustrates provisions in the standards and includes a series of animations on accessibility. The Board developed this information in cooperation with DOJ and DOT.
+
+{% asset stock/guide.svg class="img-center" alt="guides icon" width="20%" %}
 {%
     include big-button.html
     link= "/ada/guides/"
     text= "View ADA Guides"
 %}
 
+## Figures
+
+Figures in the ADA Standards are available for [download (zip file of figures in .dwg format)]({{ site.baseurl }}/files/ada/ada-aba-figures.zip).
 
 ---
-
 
 ## Background
 
