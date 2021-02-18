@@ -68,8 +68,9 @@ If not, you should work with the vendor to obtain authorization.
 
 **Any service not expressly listed above, such as any connected services, are excluded from scope** and are not authorized for testing.
 Additionally, vulnerabilities found in systems from our vendors fall outside of this policy's scope and should be reported directly to
-the vendor according to their disclosure policy (if any). If you are not sure whether a system is in scope or not, contact us at <security@access-board.gov>
-before starting your research (or at the security contact for the system's domain name listed in the [.gov WHOIS](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml)).
+the vendor according to their disclosure policy (if any).
+If you are not sure whether a system is in scope or not, contact us at <security@access-board.gov> before starting your research (or at
+the security contact for the system's domain name listed in the [.gov WHOIS](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml)).
 
 ## Reporting a Vulnerability
 
@@ -82,10 +83,14 @@ USAB pledges to be as transparent as possible about what step we are taking duri
 
 ## Disclosure
 
-The USAB is committed to timely correction of vulnerabilities. However, we recognize that public disclosure of a vulnerability in absence of a readily available corrective action likely increases versus decreases risk. Accordingly, we require that you refrain from sharing information about discovered vulnerabilities for 90 calendar days after you have received our acknowledgement of receipt of your report. If you believe others should be informed of the vulnerability prior to our implementation of corrective actions, we require that you coordinate in advance with us.
+The USAB is committed to timely correction of vulnerabilities.
+However, we recognize that public disclosure of a vulnerability in absence of a readily available corrective action likely increases versus decreases risk.
+Accordingly, we require that you refrain from sharing information about discovered vulnerabilities for 90 calendar days after you have received our
+acknowledgement of receipt of your report.
+If you believe others should be informed of the vulnerability prior to our implementation of corrective actions, we require that you coordinate in advance with us.
 
 ## Document Change History
 
 | Version | Date | Description |
 |---|---|---|
-| 1.0 | February 11, 2021 | Version 1 |
+| 1.0 | February 18, 2021 | First issuance. |
