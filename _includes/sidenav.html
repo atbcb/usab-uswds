@@ -195,6 +195,13 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
                   <a href="{{ site.baseurl }}/about/policy/shutdown.html">Shutdown Plan</a>
                   {% endif %}
                 </li>
+                <li class="usa-sidenav__item">
+                  {% if page.title == "Vulnerability Disclosure Policy" %}
+                  <a name="vdp" class="usa-current">Vulnerability Disclosure Policy &rarr;</a>
+                  {% else %}
+                  <a href="{{ site.baseurl }}/vulnerability-disclosure-policy/">Vulnerability Disclosure Policy</a>
+                  {% endif %}
+                </li>
               </ul>
             </li>
           </ul>
