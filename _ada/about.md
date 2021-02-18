@@ -18,7 +18,7 @@ The Department of Justice (DOJ) and the Department of Transportation (DOT) issue
 
 A Guide to the ADA Standards is also available.  This companion resource explains and illustrates provisions in the standards and includes a series of animations on accessibility. The Board developed this information in cooperation with DOJ and DOT.
 
-{% asset stock/guide.svg class="img-center" alt="guides icon" %}
+{% asset stock/guide.svg class="img-center" alt="guides icon" width="20%" %}
 {%
     include big-button.html
     link= "/ada/guides/"
