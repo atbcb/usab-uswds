@@ -3,7 +3,7 @@ title: Vulnerability Disclosure Policy
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /about/policy/privacy.html
+permalink: /vulnerability-disclosure-policy/
 ---
 
 # {{ page.title }}
