@@ -3,7 +3,6 @@ title: "About the ADA"
 permalink: /ada/about.html
 toc: /toc/auto.html
 toc-group: ada
-version: original
 ---
 
 # About the ADA Accessibility Standards
@@ -12,18 +11,15 @@ Accessibility standards issued under the Americans with Disabilities Act (ADA) a
 
 The Department of Justice (DOJ) and the Department of Transportation (DOT) issue the ADA Standards.  DOJ's ADA Standards apply to all facilities except public transportation facilities, which are subject to DOT's ADA Standards.  This version of the ADA Standards combines both documents and notes unique provisions in the DOJ Standards and the DOT Standards.  The Access Board is responsible for providing technical assistance and training on these Standards.
 
----
+<div class="bg-primary-lighter border border-primary padding-2 margin-x-neg-2">
+    <h2>Guide to the ADA Standards</h2>
+    <div class="float-right width-card">
+        {% asset stock/guide.svg class="" alt="guides icon" %}
+    </div>
+    <p>A Guide to the ADA Standards is also available.  This companion resource explains and illustrates provisions in the standards and includes a series of animations on accessibility. The Board developed this information in cooperation with DOJ and DOT.</p>
+    {% include big-button.html link= "/ada/guides/" text= "View ADA Guides" %}
+</div>
 
-## Guide to the ADA Standards
-
-A Guide to the ADA Standards is also available.  This companion resource explains and illustrates provisions in the standards and includes a series of animations on accessibility. The Board developed this information in cooperation with DOJ and DOT.
-
-{% asset stock/guide.svg class="img-center" alt="guides icon" width="20%" %}
-{%
-    include big-button.html
-    link= "/ada/guides/"
-    text= "View ADA Guides"
-%}
 
 ## Figures
 
