@@ -14,15 +14,12 @@ The Department of Justice (DOJ) and the Department of Transportation (DOT) issue
 
 
 ## Guide to the ADA Standards
-
-{% asset stock/guide.svg class="img-right" alt="guides icon" width="20%" %}
+<div class="img-right" width="20%">
+    {% asset stock/guide.svg class="" alt="guides icon" %}
+    {% include big-button.html link= "/ada/guides/" text= "View ADA Guides" %}
+</div>
 A Guide to the ADA Standards is also available.  This companion resource explains and illustrates provisions in the standards and includes a series of animations on accessibility. The Board developed this information in cooperation with DOJ and DOT.
 
-{%
-    include big-button.html
-    link= "/ada/guides/"
-    text= "View ADA Guides"
-%}
 
 ## Figures
 
