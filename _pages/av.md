@@ -17,7 +17,7 @@ The Board is undertaking this initiative jointly with other agencies, including 
 
 ### Series Platform and Format 
 
-The forum will be conducted through the Zoom webinar. The forum’s four sessions will be in intervals of two weeks. Each 90-minute webinar discussion will be recorded and supplemented by an online crowdsourcing discussion platform (ePolicyWorks) that will be active for two weeks after each session. The sessions will begin with presentations by agency representatives and invited speakers who will review relevant sources and research and outline issues and questions for discussion. These presentations will be followed by an open dialogue with attendees through the webinar platform. 
+The forum will be conducted through the Zoom webinar. The forum’s four sessions will be in intervals of two weeks. Each 90-minute webinar discussion will be recorded and supplemented by an online crowdsourcing [dialogue platform](https://transportationinnovation.ideascale.com/) that will be active for two weeks after each session. The sessions will begin with presentations by agency representatives and invited speakers who will review relevant sources and research and outline issues and questions for discussion. These presentations will be followed by an open dialogue with attendees through the webinar platform.
 
 ### Webinar Schedule and Registration
 
@@ -41,11 +41,9 @@ April 7, 2021, 2:00 – 3:30 (ET) \
 April 21, 2021, 2:00 – 3:30 (ET) \
 [Register for the April 21 session](https://www.zoomgov.com/webinar/register/WN_FOFPmlQtRC6Jconf5-vvxg)
 
-### ePolicyWorks Discussion Platform 
+### Online Dialogue Platform
 
-![epolicyworks]({{ site.baseurl }}/images/epolicyworks.gif){: .img-right }
-
-Members of the public are also welcome to share their ideas, comments, and information on AV accessibility through an online discussion platform (ePolicyWorks) that will offer another opportunity for dialogue throughout the webinar series.  Sponsored by ODEP, ePolicyWorks engages citizens and stakeholders and enables government to gather the public's input on key policy issues related to employment of people with disabilities.  Visit the [ePolicyworks](https://epolicyworks.ideascale.com/) website for further information on the platform. Registration for the dialogue on AV accessibility will open February 22.   
+Members of the public are also welcome to share their ideas, comments, and information on AV accessibility through an online crowdsourcing [dialogue platform](https://transportationinnovation.ideascale.com/) that will offer another opportunity for input throughout the webinar series. Discussion of accessibility for passengers with mobility disabilities is active now. Dialogues on accessibility for passengers with sensory or cognitive disabilities and next steps will open March 25.  
 
 ### More Information 
 
