@@ -2,6 +2,7 @@
 title: Planning and Design for Alterations
 order-number: 0
 toc-group: pda
+file: prowag/planning-and-design-for-alterations.pdf
 banner-title: Planning and Design for Alterations
 banner-subtitle: PROWAAC Special Report
 permalink: /prowag/planning-and-design-for-alterations/
