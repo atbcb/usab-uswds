@@ -26,10 +26,24 @@ The forum will be conducted through the Zoom webinar. The forum’s four session
 March 10, 2021, 2:00 – 3:30 (ET) \
 [Register for the March 10 session](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A)
 
+*Session I Presenters*
+* [Gregory S. Fehribach](https://www.access-board.gov/about/board-members/gregory-fehribach/), Chair of the U.S. Access Board
+*	Randall Duchesneau, U.S. Access Board
+*	Victor Paquet, Ph.D., University at Buffalo
+*	Amy Schoppman, National Mobility Equipment Dealers Association
+*	Kevin Frayne, BraunAbility
+
 **Accessibility for Passengers with Mobility Disabilities: Part 2** \
 *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.* \
 March 24, 2021, 2:00 – 3:30 (ET) \
 [Register for the March 24 session](https://www.zoomgov.com/webinar/register/WN_EiK6nemcTUyg4IEUMu2RxQ)
+
+*Session II Presenters*
+*	[Jennifer Sheehy](https://www.dol.gov/agencies/odep/about/organizational-chart/deputy-assistant-secretary), Deputy Assistant Secretary of Office of Disability Employment Policy
+*	Scott Windley, U.S. Access Board
+*	Bryan Brillhart, Robotics Research
+*	Dr. Kathleen D. Klinich, University of Michigan 
+*	Dr. Jordana Maisal, University at Buffalo
 
 **Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1** \
 *This session will address ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.* \
