@@ -19,4 +19,4 @@ Join the dialogue at any time now through May 5 to submit your ideas or to 
 
 *Virtual Public Meetings on AVs* 
 
-The dialogue is being held in conjunction with the Board's public series of four virtual meetings on making AVs accessible to passengers with disabilities. Visit the Board’s [AV webpage](https://www.access-board.gov/av/) for more information about the series.
+The dialogue is being held in conjunction with the Board's public series of four virtual meetings on making AVs accessible to passengers with disabilities. Visit the Board’s [AV webpage](https://www.access-board.gov/av/) for more information about the series.
