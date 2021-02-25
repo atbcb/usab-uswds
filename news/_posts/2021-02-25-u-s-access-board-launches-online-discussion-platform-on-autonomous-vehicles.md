@@ -15,7 +15,7 @@ This national online dialogue is open to the public at this time. You’re invi
 * Accessible ride hailing, on-board communication, and interacting with AVs for passengers with hearing, visual or cognitive disabilities; and 
 * Ideas for future research needs and next steps required to ensure accessible design and development of AVs for those with disabilities.  
 
-Join the dialogue at any time now through May 5 to submit your ideas or to comment and vote on ideas submitted by others. Visit [TransportationInnovation.IdeaScale.com](https://transportationinnovation.ideascale.com/a/index%22%20HYPERLINK%20%22https://transportationinnovation.ideascale.com/a/index) to participate at your convenience.  
+Join the dialogue at any time now through May 5 to submit your ideas or to comment and vote on ideas submitted by others. Visit [TransportationInnovation.IdeaScale.com](https://transportationinnovation.ideascale.com/) to participate at your convenience. 
 
 *Virtual Public Meetings on AVs* 
 
