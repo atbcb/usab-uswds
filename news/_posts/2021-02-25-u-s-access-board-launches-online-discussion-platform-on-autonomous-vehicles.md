@@ -2,9 +2,9 @@
 layout: post
 title: "U.S. Access Board Launches Online Discussion Platform on Autonomous Vehicles "
 date: 2021-02-25
-excerpt: "The national online dialogue on autonomous vehicles is currently open.
+excerpt: The national online dialogue on autonomous vehicles is currently open.
   The dialogue is being held in conjunction with the U.S. Access Board's public
-  series of four virtual meetings on making . . . "
+  series of four . . .
 featured: false
 ---
 Self-driving or “autonomous” vehicles (AVs) stand to revolutionize transportation in the U.S. and around the world. It’s important that they’re designed to be inclusive of everyone. To promote accessibility for people with disabilities in the design of AVs, the U.S. Access Board is hosting “[Inclusive Design of Autonomous Vehicles: A Public Dialogue](https://transportationinnovation.ideascale.com/a/index#active-dialogues%22%20HYPERLINK%20%22https://transportationinnovation.ideascale.com/a/index#active-dialogues)” with the U.S. Department of Labor’s Office of Disability Employment Policy, the U.S. Department of Health and Human Services’ Administration for Community Living, and other federal agencies. 
