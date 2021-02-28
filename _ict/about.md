@@ -12,7 +12,7 @@ The Section 255 Guidelines cover telecommunications equipment and customer-premi
 ### Background
 
 * February 3, 1998 -- The Board publishes the [original Telecommunications Act Accessibility Guidelines](https://federalregister.gov/d/98-2414).
-* December 21, 2000 -- The Board issues the [original Section 508 Standards](https://federalregister.gov/d/E6-10562).
+* December 21, 2000 -- The Board issues the [original Section 508 Standards](https://federalregister.gov/d/00-32017).
 * July 6, 2006 -- The [Board organizes TEITAC](https://federalregister.gov/d/E6-10562), the Telecommunications and Electronic and Information Technology Advisory Committee, to assist in updating the Section 508 Standards and Telecommunications Act Guidelines.
 * April 3, 2008 -- The Advisory Committee presents its final report to the Board.
 * March 22, 2010 -- The Board releases a [draft proposed rule](https://federalregister.gov/d/2010-6245) for public comment, [docket ATBCB-2010-0001](https://www.regulations.gov/docket?D=ATBCB-2010-0001), [beta](https://beta.regulations.gov/docket/ATBCB-2010-0001).
@@ -28,4 +28,3 @@ The Section 255 Guidelines cover telecommunications equipment and customer-premi
 * [Comparison Table of WCAG 2.0 to Existing 508 Standards]({{ site.baseurl }}/ict/wcag2ict.html)
 * [Mapping of WCAG 2.0 to Functional Performance Criteria]({{ site.baseurl }}/ict/wcagtofpc.html)
 * [Section508.gov](https://section508.gov) --- GSA’s Government-wide IT Accessibility Program
-
