@@ -29,7 +29,7 @@ March 10, 2021, 2:00 – 3:30 (ET) \
 *Session I Presenters*
 * [Gregory S. Fehribach](https://www.access-board.gov/about/board-members/gregory-fehribach/), Chair of the U.S. Access Board
 *	Randall Duchesneau, U.S. Access Board
-*	Victor Paquet, Ph.D., University at Buffalo
+*	Victor Paquet, ScD., University at Buffalo
 *	Amy Schoppman, National Mobility Equipment Dealers Association
 *	Kevin Frayne, BraunAbility
 
