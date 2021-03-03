@@ -11,25 +11,35 @@ permalink: /about/meetings.html
 
 Every two months, members of the Access Board hold a meeting, which is primarily open to the public. The meetings typically span three days, with the first two days usually dedicated to committee meetings and presentations and the afternoon of the third day devoted to the agenda of the full Board. The meetings are webcast live, as well as archived. 
 
-The next meeting of the Board will be held January 13 from 2:00 – 4:00 (ET) and will feature a presentation on conducting virtual meetings and events that are accessible to persons with disabilities. Guest speakers from the Department of Homeland Security and the Federal Communications Commission will explain what makes virtual platforms accessible and highlight common access issues. They will also cover best practice recommendations and resources for platform accessibility. The public is encouraged to attend.
+The next meeting of the Board will be held **March 10** from **2:00 – 5:00** (ET) and will feature a public forum on accessibility to autonomous vehicles (AVs). This is the first in a [series](https://www.access-board.gov/av/) of four virtual public meetings that will cover different aspects of accessibility to AVs for passengers with mobility, sensory, or cognitive disabilities.
+
+This session will focus on mobility access for entering and exiting AVs and will include guest speakers who will review relevant sources and research. An open dialogue will follow where members of the public can discuss considerations, challenges, and solutions in designing AVs that are inclusive of everyone. Attendees will be able to share comments, suggestions, and information and pose questions. The public is encouraged to attend. Registration is required.  
+
+After the AV Forum and a break, the Board will reconvene to conduct regular business.  
 
 ### Meeting of the U.S. Access Board 
 
-> **January 13, 2021; 2:00--4:00 (ET)**  
-> Zoom link:&nbsp; https://www.zoomgov.com/j/1610020084  
-> Call-in numbers:&nbsp; 669-254-5252 or 646-828-7666 or 551-285-1373  
-> &nbsp; &nbsp; Meeting ID:&nbsp; 161 002 0084  
-> Contact:&nbsp; Rose Marie Bunales at <bunales@access-board.gov>
+> **March 10, 2021; 2:00 – 5:00 (ET)**  
+> Registration (required): [www.zoomgov.com/webinar/register/](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A)
+> Contact: Rose Marie Bunales at <events@access-board.gov>
 
 ### Agenda
+2:00 – 3:30 AV Forum: Accessibility for Passengers with Mobility Disabilities: Part 1
+* Welcome: Gregory S. Fehribach, U.S. Access Board Chair 
+*	Randall Duchesneau, U.S. Access Board
+*	Dr. Victor Paquet, University at Buffalo
+*	Amy Schoppman, National Mobility Equipment Dealers Association
+*	Kevin Frayne, BraunAbility
 
-* Welcome
-* Executive Director's Report
-* Presentation on "Accessible Virtual Meeting Platforms"
-  * Brandon Pace, Department of Homeland Security 
-  * Gerard Williams, Federal Communications Commission 
-  * Download presentation:&nbsp; [PPT version, 14.2 MB]({{ site.baseurl }}/files/presentations/USAB_2021-01-13_Accessible_Virtual_Meetings.pptx); [PDF version, 2.6 MB]({{ site.baseurl }}/files/presentations/USAB_2021-01-13_Accessible_Virtual_Meetings.pdf) 
-* Official and New Business
+3:30 – 4:00 Break
+
+4:00 – 5:00 Board Meeting
+* Introductory Remarks 
+*	Election of Officers (Vote)
+*	Standing and Ad Hoc Committee Reports 
+*	Election Assistance Commission
+*	Executive Director’s Report
+*	New Business
 
 During the pandemic, the Board is conducting its meetings remotely using [Zoom for Government](https://zoomgov.com).
 
@@ -47,9 +57,8 @@ To inquire about use of the space, please contact [Rose Marie Bunales](mailto:bu
 
 ## Upcoming Board Meetings
 
-- January 11 - 13, 2021
 - March 8 - 10, 2021 
-- May 17 - 19, 2021 (Philadelphia)
+- May 17 - 19, 2021
 - July 12 - 14, 2021 
 - September 20 - 22, 2021 
 - November 8 - 10, 2021 
@@ -62,8 +71,6 @@ To inquire about use of the space, please contact [Rose Marie Bunales](mailto:bu
 
 ## Board Meeting Archives
 
-- November 17 - 18, 2020
-- September 14 - 16, 2020
 - [July 29, 2015](http://www.yorkmedia.com/accessboard/2015/07/29/)
 - [September 10, 2015](http://www.yorkmedia.com/accessboard/2015/09/10/)
 - [November 10, 2015](http://www.yorkmedia.com/accessboard/2015/11/10/)
@@ -89,3 +96,6 @@ To inquire about use of the space, please contact [Rose Marie Bunales](mailto:bu
 - [November 6, 2019](http://www.yorkmedia.com/accessboard/2019/11/06/)
 - [January 15, 2020](http://www.yorkmedia.com/accessboard/2020/01/15/)
 - [March 11, 2020](http://www.yorkmedia.com/accessboard/2020/03/11/)
+- September 14 - 16, 2020
+- November 17 - 18, 2020
+- January  11 - 13, 2021 [PPT version, 14.2 MB]({{ site.baseurl }}/files/presentations/USAB_2021-01-13_Accessible_Virtual_Meetings.pptx); [PDF version, 2.6 MB]({{ site.baseurl }}/files/presentations/USAB_2021-01-13_Accessible_Virtual_Meetings.pdf)
