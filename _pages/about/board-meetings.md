@@ -20,20 +20,20 @@ After the AV Forum and a break, the Board will reconvene to conduct regular busi
 ### Meeting of the U.S. Access Board 
 
 > **March 10, 2021; 2:00 – 5:00 (ET)**  
-> Registration (required): [www.zoomgov.com/webinar/register/](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A)
+> Registration (required): [www.zoomgov.com/webinar/register/](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A) \
 > Contact: Rose Marie Bunales at <events@access-board.gov>
 
-### Agenda
-2:00 – 3:30 AV Forum: Accessibility for Passengers with Mobility Disabilities: Part 1
+**Agenda** \
+2:00 – 3:30  AV Forum: Accessibility for Passengers with Mobility Disabilities: Part 1
 * Welcome: Gregory S. Fehribach, U.S. Access Board Chair 
 *	Randall Duchesneau, U.S. Access Board
 *	Dr. Victor Paquet, University at Buffalo
 *	Amy Schoppman, National Mobility Equipment Dealers Association
 *	Kevin Frayne, BraunAbility
 
-3:30 – 4:00 Break
+3:30 – 4:00  Break
 
-4:00 – 5:00 Board Meeting
+4:00 – 5:00  Board Meeting
 * Introductory Remarks 
 *	Election of Officers (Vote)
 *	Standing and Ad Hoc Committee Reports 
