@@ -19,9 +19,9 @@ After the AV Forum and a break, the Board will reconvene to conduct regular busi
 
 ### Meeting of the U.S. Access Board 
 
-> **March 10, 2021; 2:00 – 5:00 (ET)**  
-> Registration (required): [www.zoomgov.com/webinar/register/](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A) \
-> Contact: Rose Marie Bunales at <events@access-board.gov>
+**March 10, 2021; 2:00 – 5:00 (ET)**  
+Registration (required): [www.zoomgov.com/webinar/register/](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A) \
+Contact: Rose Marie Bunales at <events@access-board.gov>
 
 **Agenda** \
 2:00 – 3:30  AV Forum: Accessibility for Passengers with Mobility Disabilities: Part 1
