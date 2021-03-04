@@ -29,9 +29,9 @@ March 10, 2021, 2:00 – 3:30 (ET) \
 *Session I Presenters*
 * [Gregory S. Fehribach](https://www.access-board.gov/about/board-members/gregory-fehribach/), Chair of the U.S. Access Board
 *	Randall Duchesneau, U.S. Access Board
-*	Dr. Victor Paquet, University at Buffalo
+*	[Dr. Victor Paquet](http://engineering.buffalo.edu/industrial-systems/people/faculty-directory/paquet-victor.html), University at Buffalo
 *	Amy Schoppman, National Mobility Equipment Dealers Association
-*	Kevin Frayne, BraunAbility
+*	[Kevin Frayne](https://www.linkedin.com/in/kevin-frayne-3635545/), BraunAbility
 
 **Accessibility for Passengers with Mobility Disabilities: Part 2** \
 *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.* \
@@ -43,7 +43,7 @@ March 24, 2021, 2:00 – 3:30 (ET) \
 *	Scott Windley, U.S. Access Board
 *	Bryan Brillhart, Robotics Research
 *	Dr. Kathleen D. Klinich, University of Michigan 
-*	Dr. Jordana Maisal, University at Buffalo
+*	[Dr. Jordana Maisal](http://ap.buffalo.edu/People/faculty.host.html/content/shared/ap/students-faculty-alumni/faculty/Maisel.detail.html), University at Buffalo
 
 **Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1** \
 *This session will address ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.* \
