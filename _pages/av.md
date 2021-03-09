@@ -28,6 +28,8 @@ March 10, 2021, 2:00 – 3:30 (ET) \
 [Download session 1 PowerPoint]({{ site.baseurl }}/files/presentations/AV-Forum-session-1-xs.pptx)
 
 *Session I Presenters*
+* Message from Secretary of Transportation Pete Buttigieg
+* Robin Hutcheson, DOT Deputy Assistant Secretary for Safety Policy
 * [Gregory S. Fehribach](https://www.access-board.gov/about/board-members/gregory-fehribach/), Chair of the U.S. Access Board
 *	Randall Duchesneau, U.S. Access Board
 *	[Dr. Victor Paquet](http://engineering.buffalo.edu/industrial-systems/people/faculty-directory/paquet-victor.html), University at Buffalo
