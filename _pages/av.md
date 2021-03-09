@@ -24,7 +24,8 @@ The forum will be conducted through the Zoom webinar. The forum’s four session
 **Accessibility for Passengers with Mobility Disabilities: Part 1** \
 *This session will cover methods and technologies for entering and exiting autonomous vehicles.* \
 March 10, 2021, 2:00 – 3:30 (ET) \
-[Register for the March 10 session](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A)
+[Register for the March 10 session](https://www.zoomgov.com/webinar/register/WN_cIt88H14ScyLgOoKDvX8-A) \
+[Download session 1 PowerPoint]({{ site.baseurl }}/files/presentations/AV-Forum-session-1-xs.pptx)
 
 *Session I Presenters*
 * [Gregory S. Fehribach](https://www.access-board.gov/about/board-members/gregory-fehribach/), Chair of the U.S. Access Board
