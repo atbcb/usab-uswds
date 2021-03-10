@@ -67,3 +67,11 @@ Members of the public are also welcome to share their ideas, comments, and infor
 Further details will be posted on this page in coming weeks. You can [sign up](https://public.govdelivery.com/accounts/USACCESS/subscriber/new?topic_id=USACCESS_13) to receive details and other updates on the sessions by email.   
 
 Direct questions to Randall Duchesneau III at [events@access-board.gov](mailto: events@access-board.gov) or (202) 272-0044.
+
+### Resources
+* [Updated Guidelines for Buses and Vans (2016)](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/)
+* [ADA accessibility standards for transportation vehicles (1991, 1998)](https://www.access-board.gov/ada/vehicles/)
+* [DOT AV reference hub](https://www.transportation.gov/AV/hub)
+* [DOT Inclusive Design challenge](https://www.transportation.gov/AV/hub)
+* [University at Buffalo IDEA Center](http://idea.ap.buffalo.edu/)
+
