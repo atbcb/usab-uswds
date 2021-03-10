@@ -59,65 +59,65 @@ Appendix A to Part 1192---Accessibility Guidelines for Buses, Over-the-Road Buse
 
 **CHAPTER 1: APPLICATION AND ADMINISTRATION**
 
-[T101 Purpose](#t101-purpose)
-[T102 Conventions](#t102-conventions)
-[T103 Definitions](#t103-definitions)
+[T101 Purpose](#t101-purpose) \
+[T102 Conventions](#t102-conventions) \
+[T103 Definitions](#t103-definitions) \
 
 **CHAPTER 2: SCOPING REQUIREMENTS**
 
-[T201 Scope](#t201-scope)
-[T202 Accessible Means of Boarding and Alighting](#t202-accessible-means-of-boarding-and-alighting)
-[T203 Steps](#t203-steps)
-[T204 Doorways](#t204-doorways)
-[T205 Illumination](#t205-illumination)
-[T206 Circulation Paths](#t206-circulation-paths)
-[T207 Handrails, Stanchions, and Handholds](#t207-handrails-stanchions-and-handholds)
-[T208 Passenger Access Routes](#t208-passenger-access-routes)
-[T209 Fare Collection Devices](#t209-fare-collection-devices)
-[T210 Wheelchair Spaces](#t210-wheelchair-spaces)
-[T211 Wheelchair Securement Systems](#t211-wheelchair-securement-systems)
-[T212 Seat Belts and Shoulder Belts](#t212-seat-belts-and-shoulder-belts)
-[T213 Seats](#t213-seats)
-[T214 Operable Parts](#t214-operable-parts)
-[T215 Communication Features](#t215-communication-features)
+[T201 Scope](#t201-scope) \
+[T202 Accessible Means of Boarding and Alighting](#t202-accessible-means-of-boarding-and-alighting) \
+[T203 Steps](#t203-steps) \
+[T204 Doorways](#t204-doorways) \
+[T205 Illumination](#t205-illumination) \
+[T206 Circulation Paths](#t206-circulation-paths) \
+[T207 Handrails, Stanchions, and Handholds](#t207-handrails-stanchions-and-handholds) \
+[T208 Passenger Access Routes](#t208-passenger-access-routes) \
+[T209 Fare Collection Devices](#t209-fare-collection-devices) \
+[T210 Wheelchair Spaces](#t210-wheelchair-spaces) \
+[T211 Wheelchair Securement Systems](#t211-wheelchair-securement-systems) \
+[T212 Seat Belts and Shoulder Belts](#t212-seat-belts-and-shoulder-belts) \
+[T213 Seats](#t213-seats) \
+[T214 Operable Parts](#t214-operable-parts) \
+[T215 Communication Features](#t215-communication-features) \
 
 **CHAPTER 3: BUILDING BLOCKS**
 
-[T301 General](#t301-general)
-[T302 Walking Surfaces](#t302-walking-surfaces)
-[T303 Handrails, Stanchions, and Handholds](#t303-handrails-stanchions-and-handholds)
-[T304 Operable Parts](#t304-operable-parts)
+[T301 General](#t301-general) \
+[T302 Walking Surfaces](#t302-walking-surfaces) \
+[T303 Handrails, Stanchions, and Handholds](#t303-handrails-stanchions-and-handholds) \
+[T304 Operable Parts](#t304-operable-parts) \
 
 **CHAPTER 4: BOARDING AND ALIGHTING**
 
-[T401 General](#t401-general)
-[T402 Ramps and Bridgeplates](#t402-ramps-and-bridgeplates)
-[T403 Lifts](#t403-lifts)
-[T404 Level Boarding and Alighting](#t404-level-boarding-and-alighting)
-[T405 Steps](#t405-steps)
+[T401 General](#t401-general) \
+[T402 Ramps and Bridgeplates](#t402-ramps-and-bridgeplates) \
+[T403 Lifts](#t403-lifts) \
+[T404 Level Boarding and Alighting](#t404-level-boarding-and-alighting) \
+[T405 Steps](#t405-steps) \
 
 **CHAPTER 5: DOORWAYS, PASSENGER ACCESS ROUTES, AND FARE COLLECTION DEVICES**
 
-[T501 General](#t501-general)
-[T502 Doorways](#t502-doorways)
-[T503 Illumination](#t503-illumination)
-[T504 Passenger Access Routes](#t504-passenger-access-routes)
-[T505 Fare Collection Devices](#t505-fare-collection-devices)
+[T501 General](#t501-general) \
+[T502 Doorways](#t502-doorways) \
+[T503 Illumination](#t503-illumination) \
+[T504 Passenger Access Routes](#t504-passenger-access-routes) \
+[T505 Fare Collection Devices](#t505-fare-collection-devices) \
 
 **CHAPTER 6: WHEELCHAIR SPACES AND SECUREMENT SYSTEMS**
 
-[T601 General](#t601-general)
-[T602 Wheelchair Spaces](#t602-wheelchair-spaces)
-[T603 Wheelchair Securement Systems](#t603-wheelchair-securement-systems)
-[T604 Stowage](#t604-stowage)
-[T605 Seat Belts and Shoulder Belts](#t605-seat-belts-and-shoulder-belts)
+[T601 General](#t601-general) \
+[T602 Wheelchair Spaces](#t602-wheelchair-spaces) \
+[T603 Wheelchair Securement Systems](#t603-wheelchair-securement-systems) \
+[T604 Stowage](#t604-stowage) \
+[T605 Seat Belts and Shoulder Belts](#t605-seat-belts-and-shoulder-belts) \
 
 **CHAPTER 7: COMMUNICATION FEATURES**
 
-[T701 General](#t701-general)
-[T702 Signs](#t702-signs)
-[T703 International Symbol of Accessibility](#t703-international-symbol-of-accessibility)
-[T704 Announcement Systems](#t704-announcement-systems)
+[T701 General](#t701-general) \
+[T702 Signs](#t702-signs) \
+[T703 International Symbol of Accessibility](#t703-international-symbol-of-accessibility) \
+[T704 Announcement Systems](#t704-announcement-systems) \
 
 
 ---
