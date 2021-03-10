@@ -16,6 +16,8 @@ The Americans with Disabilities Act (ADA) requires access to new or remanufact
 
 The Access Board has updated its accessibility guidelines for [buses and vans]({{ site.baseurl }}/ada/vehicles/update/buses-vans/) in 2016.  These updated provisions are not yet part of DOT's enforceable vehicle standards.  The Board is also [updating]({{ site.baseurl }}/ada/vehicles/update/rail-cars/) its guidelines for rail cars.  
 
+{% include big-button.html link= "{{ site.baseurl }}/guidelines-standards/vehicles/update-buses-vans/guidelines-text/" text= "View Updated Guidelines for Buses and Vans" %}
+
 ### Background
 
 - September 6, 1991 -- The Board publishes the ADAAG for Transportation Vehicles, which are also adopted by DOT on the same day.
@@ -32,6 +34,6 @@ The Access Board has updated its accessibility guidelines for [buses and vans]({
 
 - July 29, 2015 -- The Rail Vehicles Access Advisory Committee submits its [final report](https://www.regulations.gov/document?D=ATBCB-2013-0006-0179) to the Board.
 
-- December 14, 2016 -- The Board issues a [final rule](https://www.regulations.gov/document?D=ATBCB-2010-0004-0092) updating the guidelines for buses and vans.
+- December 14, 2016 -- The Board issues a [final rule](https://www.regulations.gov/document?D=ATBCB-2010-0004-0092) updating the [guidelines for buses and vans]({{ site.baseurl }}/guidelines-standards/vehicles/update-buses-vans/guidelines-text/).
 
 - February 14, 2020 -- The Board issues [advance notice](https://www.regulations.gov/document?D=ATBCB-2020-0002-0001) for public comment on update of guidelines for rail cars: [Docket](https://www.regulations.gov/document?D=ATBCB-2020-0002-0001/).
