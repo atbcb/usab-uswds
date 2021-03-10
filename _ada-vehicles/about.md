@@ -16,7 +16,7 @@ The Americans with Disabilities Act (ADA) requires access to new or remanufact
 
 The Access Board has updated its accessibility guidelines for [buses and vans]({{ site.baseurl }}/ada/vehicles/update/buses-vans/) in 2016.  These updated provisions are not yet part of DOT's enforceable vehicle standards.  The Board is also [updating]({{ site.baseurl }}/ada/vehicles/update/rail-cars/) its guidelines for rail cars.  
 
-{% include big-button.html link= "{{ site.baseurl }}/guidelines-standards/vehicles/update-buses-vans/guidelines-text/" text= "View Updated Guidelines for Buses and Vans" %}
+{% include big-button.html link="/guidelines-standards/vehicles/update-buses-vans/guidelines-text/" text="View Updated Guidelines for Buses and Vans" %}
 
 ### Background
 
