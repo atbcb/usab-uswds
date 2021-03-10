@@ -74,4 +74,5 @@ Direct questions to Randall Duchesneau III at [events@access-board.gov](mailto: 
 * [DOT AV reference hub](https://www.transportation.gov/AV/hub)
 * [DOT Inclusive Design challenge](https://www.transportation.gov/AV/hub)
 * [University at Buffalo IDEA Center](http://idea.ap.buffalo.edu/)
+* (More resources to be added. If you would like to be added as a resource, please email events@access-board.gov)
 
