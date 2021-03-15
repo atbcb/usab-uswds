@@ -9,7 +9,8 @@ excerpt: The U.S. Access Board held its first of four virtual public meetings on
   presentations by guest speakers from Department of Transportation, University
   at Buffalo, National Mobility Equipment Dealers Association, and BraunAbility
   . . .
-featured: false
+image: /images/uploads/autonomous-bus.jpg
+featured: true
 ---
 The U.S. Access Board held its first of four virtual public meetings on inclusive design of autonomous vehicles (AVs) last week. The first session focused on accessibility for passengers with mobility disabilities in entering and exiting vehicles. It included presentations by guest speakers and opportunities for members of the public to share comments, suggestions, and information and pose questions. 
 
