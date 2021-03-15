@@ -21,16 +21,18 @@ The forum will be conducted through the Zoom webinar. The forum’s four session
 
 ### Webinar Schedule and Registration
 
-**Accessibility for Passengers with Mobility Disabilities: Part 1** \
+#### Accessibility for Passengers with Mobility Disabilities: Part 1
+
 *This session covered methods and technologies for entering and exiting autonomous vehicles.* \
 March 10, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 1](https://www.youtube.com/watch?v=xI1j1V1SyjE) \
 [Presentation materials from Session 1]({{ site.baseurl }}/files/presentations/AV-Forum-session-1-final.pptx)
 
-*Session I Presenters*
+##### Session I Presenters
+
 * Message from Secretary of Transportation Pete Buttigieg
 
-<div class="margin-x-10"><iframe width="373" height="210" src="https://www.youtube.com/embed/WPP4s413T6k" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="margin-x-10"><iframe title="YouTube ebed" width="373" height="210" src="https://www.youtube.com/embed/WPP4s413T6k" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 * Robin Hutcheson, DOT Deputy Assistant Secretary for Safety Policy
 * [Gregory S. Fehribach](https://www.access-board.gov/about/board-members/gregory-fehribach/), Chair of the U.S. Access Board
@@ -39,24 +41,28 @@ March 10, 2021, 2:00 – 3:30 (ET) \
 *	Amy Schoppman, National Mobility Equipment Dealers Association
 *	[Kevin Frayne](https://www.linkedin.com/in/kevin-frayne-3635545/), BraunAbility
 
-**Accessibility for Passengers with Mobility Disabilities: Part 2** \
+#### Accessibility for Passengers with Mobility Disabilities: Part 2
+
 *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.* \
 March 24, 2021, 2:00 – 3:30 (ET) \
 [Register for the March 24 session](https://www.zoomgov.com/webinar/register/WN_EiK6nemcTUyg4IEUMu2RxQ)
 
-*Session II Presenters*
+##### Session II Presenters
+
 *	[Jennifer Sheehy](https://www.dol.gov/agencies/odep/about/organizational-chart/deputy-assistant-secretary), Deputy Assistant Secretary of Office of Disability Employment Policy
 *	Scott Windley, U.S. Access Board
 *	Bryan Brillhart, Robotics Research
 *	Dr. Kathleen D. Klinich, University of Michigan 
 *	[Dr. Jordana Maisal](http://ap.buffalo.edu/People/faculty.host.html/content/shared/ap/students-faculty-alumni/faculty/Maisel.detail.html), University at Buffalo
 
-**Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1** \
+#### Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1
+
 *This session will address ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.* \
 April 7, 2021, 2:00 – 3:30 (ET) \
 [Register for the April 7 session](https://www.zoomgov.com/webinar/register/WN_MWvyBgaxTtCk1nALFNl58g)
 
-**Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2** \
+#### Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2
+
 *This session will continue discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities.* \
 April 21, 2021, 2:00 – 3:30 (ET) \
 [Register for the April 21 session](https://www.zoomgov.com/webinar/register/WN_FOFPmlQtRC6Jconf5-vvxg)
