@@ -6,9 +6,7 @@ date: 2021-03-15
 excerpt: The U.S. Access Board held its first of four virtual public meetings on
   inclusive design of autonomous vehicles (AVs) last week. The first session
   included a message from Secretary of Transportation Pete Buttigieg and
-  presentations by guest speakers from Department of Transportation, University
-  at Buffalo, National Mobility Equipment Dealers Association, and BraunAbility
-  . . .
+  presentations by . . .
 image: /images/uploads/autonomous-bus.jpg
 featured: true
 ---
