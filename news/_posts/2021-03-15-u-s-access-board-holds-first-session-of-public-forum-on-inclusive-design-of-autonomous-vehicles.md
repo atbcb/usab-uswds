@@ -12,7 +12,7 @@ featured: true
 ---
 The U.S. Access Board held its first of four virtual public meetings on inclusive design of autonomous vehicles (AVs) last week. The first session focused on accessibility for passengers with mobility disabilities in entering and exiting vehicles. It included presentations by guest speakers and opportunities for members of the public to share comments, suggestions, and information and pose questions. 
 
-![Pete Buttigieg]({{ site.baseurl }}/images/uploads/buttigieg.jpg "Pete Buttigieg"){: .img-right}
+![Pete Buttigieg]({{ site.baseurl }}/images/buttigieg.jpg "Pete Buttigieg"){: .img-right}
 
 Access Board Chair Gregory S. Fehribach opened the session and introduced a [message](https://www.youtube.com/watch?v=WPP4s413T6k) from Secretary of Transportation Pete Buttigieg who emphasized the need to make AVs both safe and accessible for people with disabilities and remove barriers to transportation resources at large. Department of Transportation Deputy Assistant Secretary for Safety Policy Robin Hutcheson called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.
 
