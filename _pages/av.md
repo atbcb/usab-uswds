@@ -53,7 +53,7 @@ March 24, 2021, 2:00 – 3:30 (ET) \
 *	Scott Windley, U.S. Access Board
 *	Bryan Brillhart, Robotics Research
 *	Dr. Kathleen D. Klinich, University of Michigan 
-*	[Dr. Jordana Maisal](http://ap.buffalo.edu/People/faculty.host.html/content/shared/ap/students-faculty-alumni/faculty/Maisel.detail.html), University at Buffalo
+*	[Dr. Jordana Maisel](http://ap.buffalo.edu/People/faculty.host.html/content/shared/ap/students-faculty-alumni/faculty/Maisel.detail.html), University at Buffalo
 
 #### Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1
 
