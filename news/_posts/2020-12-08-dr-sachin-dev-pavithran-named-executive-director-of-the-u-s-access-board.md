@@ -1,21 +1,20 @@
 ---
 layout: post
 title: Dr. Sachin Dev Pavithran Named Executive Director of the U.S. Access Board
-date: '2020-12-08'
-excerpt: >-
-  The U.S. Access Board has named Dr. Sachin Dev Pavithran as its new Executive
-  Director. Dr. Pavithran, a member of the Board for eight years, succeeds David
-  M. Capozzi, who retired in June. “I am both excited and humbled to lead an
-  agency that has done so much to make our world a more welcoming and inclusive
-  place for everyone,” Dr. Pavithran stated. “I look forward to helping the
-  agency build upon its notable accomplishments so that it can continue to
-  provide leadership in accessibility both in the U.S. and across the globe.”
-  Dr. Pavithran has served as . . .
-image: /images/uploads/sachin-portrait.jpg
+date: 2020-12-08
+excerpt: The U.S. Access Board has named Dr. Sachin Dev Pavithran as its new
+  Executive Director. Dr. Pavithran, a member of the Board for eight years,
+  succeeds David M. Capozzi, who retired in June. “I am both excited and humbled
+  to lead an agency that has done so much to make our world a more welcoming and
+  inclusive place for everyone,” Dr. Pavithran stated. “I look forward to
+  helping the agency build upon its notable accomplishments so that it can
+  continue to provide leadership in accessibility both in the U.S. and across
+  the globe.” Dr. Pavithran has served as . . .
 image_alt_text: Portrait of Dr. Sachin Dev Pavithran
-featured: true
 redirect_from:
- - /sachin/
+  - /sachin/
+image: /images/uploads/sachin-portrait.jpg
+featured: false
 ---
 The U.S. Access Board has named Dr. Sachin Dev Pavithran as its new Executive Director. Dr. Pavithran, a member of the Board for eight years, succeeds David M. Capozzi, who retired in June.
 
