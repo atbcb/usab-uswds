@@ -46,6 +46,7 @@ March 10, 2021, 2:00 – 3:30 (ET) \
 *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.* \
 March 24, 2021, 2:00 – 3:30 (ET) \
 [Register for the March 24 Session](https://www.zoomgov.com/webinar/register/WN_EiK6nemcTUyg4IEUMu2RxQ)
+[Presentation Materials for Session 1]({{ site.baseurl }}/files/presentations/AV-Forum-Session 2-Final-without-animations.pptx)
 
 ##### Session II Presenters
 
