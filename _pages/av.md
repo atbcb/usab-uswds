@@ -26,7 +26,7 @@ The forum will be conducted through the Zoom webinar. The forum’s four session
 *This session covered methods and technologies for entering and exiting autonomous vehicles.* \
 March 10, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 1](https://www.youtube.com/watch?v=xI1j1V1SyjE) \
-[Presentation materials from Session 1]({{ site.baseurl }}/files/presentations/AV-Forum-session-1-final.pptx)
+[Presentation Materials from Session 1]({{ site.baseurl }}/files/presentations/AV-Forum-session-1-final.pptx)
 
 ##### Session I Presenters
 
@@ -45,27 +45,28 @@ March 10, 2021, 2:00 – 3:30 (ET) \
 
 *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.* \
 March 24, 2021, 2:00 – 3:30 (ET) \
-[Register for the March 24 session](https://www.zoomgov.com/webinar/register/WN_EiK6nemcTUyg4IEUMu2RxQ)
+[Register for the March 24 Session](https://www.zoomgov.com/webinar/register/WN_EiK6nemcTUyg4IEUMu2RxQ)
 
 ##### Session II Presenters
 
 *	[Jennifer Sheehy](https://www.dol.gov/agencies/odep/about/organizational-chart/deputy-assistant-secretary), Deputy Assistant Secretary of Office of Disability Employment Policy
 *	Scott Windley, U.S. Access Board
 *	Bryan Brillhart, Robotics Research
-*	Dr. Kathleen D. Klinich, University of Michigan 
+*	Dr. Kathleen D. Klinich, University of Michigan
+*	Miriam A. Manary, University of Michigan 
 *	[Dr. Jordana Maisel](http://ap.buffalo.edu/People/faculty.host.html/content/shared/ap/students-faculty-alumni/faculty/Maisel.detail.html), University at Buffalo
 
 #### Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1
 
 *This session will address ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.* \
 April 7, 2021, 2:00 – 3:30 (ET) \
-[Register for the April 7 session](https://www.zoomgov.com/webinar/register/WN_MWvyBgaxTtCk1nALFNl58g)
+[Register for the April 7 Session](https://www.zoomgov.com/webinar/register/WN_MWvyBgaxTtCk1nALFNl58g)
 
 #### Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2
 
 *This session will continue discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities.* \
 April 21, 2021, 2:00 – 3:30 (ET) \
-[Register for the April 21 session](https://www.zoomgov.com/webinar/register/WN_FOFPmlQtRC6Jconf5-vvxg)
+[Register for the April 21 Session](https://www.zoomgov.com/webinar/register/WN_FOFPmlQtRC6Jconf5-vvxg)
 
 ### Online Dialogue Platform
 
