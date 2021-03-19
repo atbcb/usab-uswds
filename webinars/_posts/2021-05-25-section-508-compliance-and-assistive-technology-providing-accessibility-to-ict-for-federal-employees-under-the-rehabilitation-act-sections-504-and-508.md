@@ -12,10 +12,13 @@ excerpt: This introductory session will address how Section 504 and Section 508
   services through the provision of reasonable accommodations, including
   assistive technology. Section 508 requires federal agencies to ensure that
   persons with disabilities (both employees and members of the public) have
-  comparable access to and use of ICT. This webinar will include video remote
-  interpreting (VRI) and real-time captioning. Questions can be submitted in
-  advance of the session or can be posed during the live webinar. Webinar
-  attendees can receive a participation certificate.
+  comparable access to and use of ICT. Presenters will define and review
+  real-life examples of the concepts of accessibility, assistive technology, and
+  (reasonable) accommodations. They will also discuss barriers to information
+  access and possible solutions to overcoming them. This webinar will include
+  video remote interpreting (VRI) and real-time captioning. Questions can be
+  submitted in advance of the session or can be posed during the live webinar.
+  Webinar attendees can receive a participation certificate.
 tags:
   - Communication & IT
   - webinar
