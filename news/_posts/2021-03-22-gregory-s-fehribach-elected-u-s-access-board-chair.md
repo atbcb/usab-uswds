@@ -9,7 +9,7 @@ image: /images/uploads/fehribach.png
 image_alt_text: Portrait of Gregory S. Fehribach
 tags:
   - current events
-featured: false
+featured: true
 ---
 At its March meeting, the U.S. Access Board unanimously elected Board Member Gregory S. Fehribach as its new Chair. Fehribach previously served as Vice Chair of the Board. He is counsel to the Indianapolis law firm Tuohy Bailey & Moore LLP.  Fehribach has been in private practice for over 34 years, and he counsels numerous clients at the national, state, and local level regarding the nuances of the Americans with Disabilities Act.
 
