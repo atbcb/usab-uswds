@@ -452,60 +452,60 @@ permalink: /about/foia-report.html
     </thead>
     <tbody>
       <tr>
-        <td scope="row">USAB</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">1</td>
+        <td scope="row"> USAB </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
       </tr>
       <tr>
-        <td scope="row">AGENCY OVERALL</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">1</td>
+        <td scope="row"> AGENCY OVERALL </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
       </tr>
     </tbody>
   </table>
 </div>
 
-### VI.C.(3).  REASONS FOR DENIAL ON APPEAL — "OTHER" REASONS
+### VI.C.(3).  REASONS FOR DENIAL ON APPEAL — “OTHER” REASONS
 
 <table class="usa-table">
   <thead>
     <tr>
       <th scope="col">Agency / Component</th>
-      <th scope="col">Description of "Other" Reasons for Denial on Appeal from Chart C(2)</th>
-      <th scope="col">Number of Times "Other" Reason Was Relied Upon</th>
+      <th scope="col">Description of “Other” Reasons for Denial on Appeal from Chart C(2)</th>
+      <th scope="col">Number of Times “Other” Reason Was Relied Upon</th>
       <th scope="col">TOTAL</th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td>USAB</td>
-      <td style="text-align: center;">untimely</td>
-      <td style="text-align: center;">1</td>
-      <td style="text-align: center;">1</td>
+      <td> USAB </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
-      <td scope="row">AGENCY OVERALL</td>
-      <td></td>
-      <td></td>
-      <td style="text-align: center;">1</td>
+      <td scope="row"> AGENCY OVERALL </td>
+      <td> </td>
+      <td> </td>
+      <td style="text-align: center;"> 0 </td>
     </tr>
   </tbody>
 </table>
@@ -524,18 +524,18 @@ permalink: /about/foia-report.html
   </thead>
   <tbody>
     <tr>
-      <td> USAB</td>
-      <td style="text-align: center;">20 </td>
-      <td style="text-align: center;"> 20</td>
-      <td style="text-align: center;"> 20</td>
-      <td style="text-align: center;"> 20</td>
+      <td> USAB </td>
+      <td style="text-align: center;"> 20 </td>
+      <td style="text-align: center;"> 20 </td>
+      <td style="text-align: center;"> 20 </td>
+      <td style="text-align: center;"> 20 </td>
     </tr>
     <tr>
-      <td scope="row">AGENCY OVERALL</td>
-      <td style="text-align: center;">20</td>
-      <td style="text-align: center;">20</td>
-      <td style="text-align: center;">20</td>
-      <td style="text-align: center;">20</td>
+      <td scope="row"> AGENCY OVERALL </td>
+      <td style="text-align: center;"> 20 </td>
+      <td style="text-align: center;"> 20 </td>
+      <td style="text-align: center;"> 20 </td>
+      <td style="text-align: center;"> 20 </td>
     </tr>
   </tbody>
 </table>
@@ -561,58 +561,58 @@ permalink: /about/foia-report.html
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2"> USAB</td>
+      <td rowspan="2"> USAB </td>
+      <td scope="row"> Date of Appeal </td>
+      <td style="text-align: center;"> N/A</td>
+      <td style="text-align: center;">N/A </td>
+      <td style="text-align: center;">N/A </td>
+      <td style="text-align: center;">N/A </td>
+      <td style="text-align: center;"> N/A</td>
+      <td style="text-align: center;"> N/A</td>
+      <td style="text-align: center;"> N/A</td>
+      <td style="text-align: center;"> N/A</td>
+      <td style="text-align: center;"> N/A</td>
+      <td style="text-align: center;"> N/A</td>
+    </tr>
+    <tr>
+      <td scope="row"> Number of Days Pending </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+    </tr>
+    <tr>
+      <td rowspan="2"> AGENCY OVERALL </td>
       <td scope="row">Date of Appeal</td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;">N/A </td>
-      <td style="text-align: center;">N/A </td>
-      <td style="text-align: center;">N/A </td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;"> N/A</td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
     </tr>
     <tr>
       <td scope="row">Number of Days Pending</td>
-      <td style="text-align: center;"> 0</td>
-      <td style="text-align: center;"> 0</td>
-      <td style="text-align: center;"> 0</td>
-      <td style="text-align: center;"> 0</td>
-      <td style="text-align: center;"> 0</td>
-      <td style="text-align: center;"> 0</td>
-      <td style="text-align: center;"> 0</td>
-      <td style="text-align: center;"> 0</td>
-      <td style="text-align: center;"> 0</td>
-      <td style="text-align: center;"> 0</td>
-    </tr>
-    <tr>
-      <td rowspan="2">AGENCY OVERALL</td>
-      <td scope="row">Date of Appeal</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">N/A</td>
-    </tr>
-    <tr>
-      <td scope="row">Number of Days Pending</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
     </tr>
   </tbody>
 </table>
