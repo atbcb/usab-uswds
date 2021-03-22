@@ -8,5 +8,6 @@ Please keep in mind:
 - Shorter filesnames are preferable, even though that means they are less descriptive.
 - _If_ the the filename has date, put the date at the end, and use a format so that year/month/day is unambiguous and sorts correctly.  E.g.:  2001-02-03 _not_ 02-03-01
 
-* The _presentations_ directory contains PPT files.
-* FOIA annual report is in CSV format.
+The `presentations` directory contains MS PowerPoint files.
+
+FOIA annual report is in `CSV` format.
