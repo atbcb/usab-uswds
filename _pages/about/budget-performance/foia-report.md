@@ -6,7 +6,7 @@ banner-title: About the U.S. Access Board
 permalink: /about/foia-report.html
 ---
 
-# {{ page.title }} (FY 2019)
+# {{ page.title }} (FY 2020)
 
 ## Section I:  Basic Information Regarding Report
 
@@ -70,16 +70,17 @@ permalink: /about/foia-report.html
     8.  **Exemption 8:**  information relating to the supervision of financial institutions
     9.  **Exemption 9:**  geological information on wells
 3.  Agency Component Abbreviations
+
 <table class="usa-table">
   <thead>
         <tr>
-      <th scope="col">Component Abbreviation</th>
-      <th scope="col">Component Name</th>
+      <th scope="col"> Component Abbreviation </th>
+      <th scope="col"> Component Name </th>
     </tr>
       </thead>
   <tbody>
         <tr>
-      <td> USAB</td>
+      <td> USAB </td>
       <td> U.S. Access Board</td>
     </tr>
       </tbody>
@@ -92,25 +93,34 @@ permalink: /about/foia-report.html
 <table class="usa-table">
   <thead>
     <tr>
-      <th scope="col">Statute</th>
-      <th scope="col">Type of Information Withheld</th>
-      <th scope="col">Case Citation</th>
-      <th scope="col">Agency / Component</th>
-      <th scope="col">Number of Times Relied upon by Agency / Component</th>
-      <th scope="col">Total Number of Times Relied upon by Agency Overall</th>
+      <th scope="col"> Statute </th>
+      <th scope="col"> Type of Information Withheld </th>
+      <th scope="col"> Case Citation </th>
+      <th scope="col"> Agency / Component </th>
+      <th scope="col"> Number of Times Relied upon by Agency / Component </th>
+      <th scope="col"> Total Number of Times Relied upon by Agency Overall </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td> 5 U.S.C. app. 4 § 107(a)(2) (Ethics in Government Act of 1978)</td>
-      <td> Confidential financial disclosure report pertaining to certain government employees.</td>
-      <td> Meyerhoff v. EPA, 958 F.2d 1498, 1500-02 (9th Cir. 1992); Boyd v. Exec. Office for U.S. Attorneys, 161 F. Supp. 3d 1, 7 (D.D.C. 2015); Seife v. NIH, 874 F. Supp. 2d 248, 254 (S.D.N.Y. 2012).</td>
-      <td> USAB</td>
-      <td>1 </td>
-      <td>1 </td>
+      <td> 42 U.S.C. § 12112(d)(3)(B) </td>
+      <td> Certain information obtained regarding the medical condition or history of an applicant, including examinations and inquiries, that are collected and maintained on separate forms and in separate medical files and are treated as confidential medical records </td>
+      <td> N/A </td>
+      <td> USAB </td>
+      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 1 </td>
+    </tr>
+    <tr>
+      <td> 5 U.S.C. app. 3 § 7(b) </td>
+      <td> Names of employees who provide information or complaints to the Inspector General </td>
+      <td> N/A </td>
+      <td> USAB </td>
+      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 1 </td>
     </tr>
   </tbody>
 </table>
+
 * * *
 
 ## Section V
@@ -130,17 +140,17 @@ permalink: /about/foia-report.html
   <tbody>
     <tr>
       <td scope="row">USAB</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">34</td>
-      <td style="text-align: center;">26</td>
-      <td style="text-align: center;">8</td>
+      <td style="text-align: center;"> 8 </td>
+      <td style="text-align: center;"> 24 </td>
+      <td style="text-align: center;"> 31 </td>
+      <td style="text-align: center;"> 1 </td>
     </tr>
     <tr>
-      <td scope="row">AGENCY OVERALL</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">34</td>
-      <td style="text-align: center;">26</td>
-      <td style="text-align: center;">8</td>
+      <td scope="row">USAB</td>
+      <td style="text-align: center;"> 8 </td>
+      <td style="text-align: center;"> 24 </td>
+      <td style="text-align: center;"> 31 </td>
+      <td style="text-align: center;"> 1 </td>
     </tr>
   </tbody>
 </table>
