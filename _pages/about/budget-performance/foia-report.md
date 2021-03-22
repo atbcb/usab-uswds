@@ -19,7 +19,7 @@ permalink: /about/foia-report.html
 > 202-272-0080  
 > Email:&nbsp; <foia@access-board.gov>
 2.  Provide an electronic link for access to the report on the agency Web site:
-* [<{{ site.baseurl }}{{ page.permalink }}><{{ site.baseurl }}]({{ page.permalink }})
+* [<{{ site.baseurl }}{{ page.permalink }}]({{ site.baseurl }}{{ page.permalink }})
 * [{{ site.baseurl }}/files/usab-foia-annual-report-raw-data-fy2020.csv]({{ site.baseurl }}/files/usab-foia-annual-report-raw-data-fy2020.csv)
 3.  Explain how to obtain a copy of the report in paper form.
 > For a paper copy of this annual FOIA report, please contact, Gretchen Jacobs, U.S. Access Board General Counsel.
@@ -1276,10 +1276,10 @@ permalink: /about/foia-report.html
   <thead>
     <tr>
       <th scope="col">Agency / Component</th>
-      <th scope="col">Number of Consultations Received from Other Agencies that were _Pending_ at the Agency as of _Start_ of the Fiscal Year</th>
-      <th scope="col">Number of Consultations _Received_ from Other Agencies During the Fiscal Year</th>
-      <th scope="col">Number of Consultations Received from Other Agencies that were _Processed_ by the Agency During the Fiscal Year</th>
-      <th scope="col">Number of Consultations Received from Other Agencies that were _Pending_ at the Agency as of _End_ of the Fiscal Year</th>
+      <th scope="col">Number of Consultations Received from Other Agencies that were <em>Pending</em> at the Agency as of <em>Start</em> of the Fiscal Year</th>
+        <th scope="col">Number of Consultations <em>Received</em> from Other Agencies During the Fiscal Year</th>
+      <th scope="col">Number of Consultations Received from Other Agencies that were <em>Processed</em> by the Agency During the Fiscal Year</th>
+      <th scope="col">Number of Consultations Received from Other Agencies that were <em>Pending</em> at the Agency as of <em>End</em> of the Fiscal Year</th>
     </tr>
   </thead>
   <tbody>
@@ -1383,8 +1383,8 @@ permalink: /about/foia-report.html
   <thead>
     <tr>
       <th rowspan="2" scope="col">Agency / Component</th>
-      <th colspan="2" scope="col">NUMBER OF REQUESTS _RECEIVED_</th>
-      <th colspan="2" scope="col">NUMBER OF REQUESTS _PROCESSED_</th>
+      <th colspan="2" scope="col">NUMBER OF REQUESTS <em>RECEIVED</em></th>
+      <th colspan="2" scope="col">NUMBER OF REQUESTS <em>PROCESSED</em></th>
     </tr>
     <tr>
       <th style="font-weight: normal;" scope="col">Number Received During Fiscal Year from Last Year's Annual Report</th>
@@ -1441,8 +1441,8 @@ permalink: /about/foia-report.html
   <thead>
     <tr>
       <th rowspan="2" scope="col">Agency / Component</th>
-      <th colspan="2" scope="col">NUMBER OF APPEALS _RECEIVED_</th>
-      <th colspan="2" scope="col">NUMBER OF APPEALS _PROCESSED_</th>
+      <th colspan="2" scope="col">NUMBER OF APPEALS <em>RECEIVED</em></th>
+      <th colspan="2" scope="col">NUMBER OF APPEALS <em>PROCESSED</em></th>
     </tr>
     <tr>
       <th style="font-weight: normal;" scope="col">Number Received During Fiscal Year from Last Year's Annual Report</th>
