@@ -139,14 +139,14 @@ permalink: /about/foia-report.html
   </thead>
   <tbody>
     <tr>
-      <td scope="row">USAB</td>
+      <td scope="row"> USAB </td>
       <td style="text-align: center;"> 8 </td>
       <td style="text-align: center;"> 24 </td>
       <td style="text-align: center;"> 31 </td>
       <td style="text-align: center;"> 1 </td>
     </tr>
     <tr>
-      <td scope="row">USAB</td>
+      <td scope="row"> AGENCY OVERALL </td>
       <td style="text-align: center;"> 8 </td>
       <td style="text-align: center;"> 24 </td>
       <td style="text-align: center;"> 31 </td>
@@ -182,36 +182,36 @@ permalink: /about/foia-report.html
     </thead>
     <tbody>
       <tr>
-        <td scope="row">USAB</td>
-        <td style="text-align: center;">2</td>
-        <td style="text-align: center;">12</td>
-        <td style="text-align: center;">2</td>
-        <td style="text-align: center;">5</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">3</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">2</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">26</td>
+        <td scope="row"> USAB </td>
+        <td style="text-align: center;"> 2 </td>
+        <td style="text-align: center;"> 10 </td>
+        <td style="text-align: center;"> 1 </td>
+        <td style="text-align: center;"> 14 </td>
+        <td style="text-align: center;"> 1 </td>
+        <td style="text-align: center;"> 3 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 31 </td>
       </tr>
       <tr>
-        <td scope="row">AGENCY OVERALL</td>
-        <td style="text-align: center;">2</td>
-        <td style="text-align: center;">12</td>
-        <td style="text-align: center;">2</td>
-        <td style="text-align: center;">5</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">3</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">2</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">26</td>
+        <td scope="row"> AGENCY OVERALL </td>
+        <td style="text-align: center;"> 2 </td>
+        <td style="text-align: center;"> 10 </td>
+        <td style="text-align: center;"> 1 </td>
+        <td style="text-align: center;"> 14 </td>
+        <td style="text-align: center;"> 1 </td>
+        <td style="text-align: center;"> 3 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 31 </td>
       </tr>
     </tbody>
   </table>
