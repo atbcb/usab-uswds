@@ -52,7 +52,7 @@ March 24, 2021, 2:00 – 3:30 (ET) \
 
 *	[Jennifer Sheehy](https://www.dol.gov/agencies/odep/about/organizational-chart/deputy-assistant-secretary), Deputy Assistant Secretary of Office of Disability Employment Policy
 *	Scott Windley, U.S. Access Board
-*	Bryan Brillhart, Robotics Research
+*	Bryan Brilhart, Robotic Research
 *	Dr. Kathleen D. Klinich and Miriam A. Manary, University of Michigan 
 *	[Dr. Jordana Maisel](http://ap.buffalo.edu/People/faculty.host.html/content/shared/ap/students-faculty-alumni/faculty/Maisel.detail.html), University at Buffalo
 
