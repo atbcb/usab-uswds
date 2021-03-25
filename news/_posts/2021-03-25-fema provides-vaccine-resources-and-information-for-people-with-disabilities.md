@@ -3,7 +3,7 @@ layout: post
 title: FEMA Provides Vaccine Resources and Information for People with Disabilities
 date: 2021-03-25
 excerpt: The Biden Administration has tasked the Federal Emergency Management
-  Agency (FEMA) with managing set-up and operations for [Community Vaccination
+  Agency (FEMA) with managing set-up and operations for Community Vaccination
   Centers across the country. With other federal agencies, FEMA established a
   Civil Rights Advisory Group that developed . . .
 featured: false
