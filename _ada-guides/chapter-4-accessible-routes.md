@@ -308,7 +308,7 @@ connecting accessible route to the work area, a compliant entrance,
 including entry doors or gates, and a wheelchair space within the work
 area. Work areas must also be served by an accessible means of egress,
 as required by the International Building Code. (See the [ADA Scoping:
-New Construction Guide]({{ site.baseurl }}/ada-guides/chapter-2-new-construction/).
+New Construction Guide]({{ site.baseurl }}/ada/guides/chapter-2-new-construction/).
 
 #### Common Use Circulation Paths in Employee Work Areas Over 1,000 SF
 
