@@ -62,6 +62,13 @@ March 24, 2021, 2:00 – 3:30 (ET) \
 April 7, 2021, 2:00 – 3:30 (ET) \
 [Register for the April 7 Session](https://www.zoomgov.com/webinar/register/WN_MWvyBgaxTtCk1nALFNl58g)
 
+##### Session III Presenters
+
+* Andrea Lubin and Cecilia Feely, Voorhees Transportation Center at Rutgers 
+* Dr. Robin Brewer, University of Michigan
+* Anil Lewis, National Federation of the Blind
+* Dr. Christian Vogler, Gallaudet University; Director, Technology Access Program Research Group
+
 #### Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2
 
 *This session will continue discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities.* \
