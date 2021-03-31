@@ -6,7 +6,7 @@ date: 2021-03-25
 excerpt: The U.S. Access Board held its second virtual public meeting on
   inclusive design of autonomous vehicles (AVs) yesterday. The session continued
   discussion on entering and exiting AVs and addressed wheelchair maneuvering
-  and securement in AVs . . .
+  and securement in . . .
 image: /images/uploads/autonomous-bus.jpg
 tags:
   - events
