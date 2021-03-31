@@ -15,7 +15,7 @@ featured: false
 ---
 The Americans with Disabilities Act National Network will be hosting the ADA State of the Science virtual conference on April 13-15. The conference will highlight recent research related to successes and challenges in fulfilling the promise of the ADA.  
 
-On the second day of the conference, Executive Director of the Board Dr. Sachin D. Pavithran will be the Keynote Speaker and highlight the Board’s ongoing efforts to promote equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards. Board Member Dr. Victor Santiago Pineda will be the Closing Speaker and remark on the day's sessions focused on emergency management, transition planning, local governments and the ADA, and ADA implementation for cities and towns. 
+On the second day of the conference, Executive Director of the Board Dr. Sachin D. Pavithran will be the Keynote Speaker and highlight the Board's ongoing efforts to promote equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards. Board Member Dr. Victor Santiago Pineda Board Member Dr. Victor Santiago Pineda will be the Closing Speaker and remark on the day's sessions focused on emergency management, transition planning, local governments and the ADA, and ADA implementation for cities and towns. 
 
 Each day, the virtual conference will feature research presentations focusing on a unique theme.  
 
