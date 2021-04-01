@@ -986,74 +986,75 @@ permalink: /about/foia-report.html
 <table class="usa-table">
   <thead>
     <tr>
-      <th scope="col">Agency / Component</th>
+      <th scope="col"> Agency / Component </th>
       <td></td>
-      <th scope="col">10th Oldest Request</th>
-      <th scope="col">9th</th>
-      <th scope="col">8th</th>
-      <th scope="col">7th</th>
-      <th scope="col">6th</th>
-      <th scope="col">5th</th>
-      <th scope="col">4th</th>
-      <th scope="col">3rd</th>
-      <th scope="col">2nd</th>
-      <th scope="col">Oldest Request</th>
+      <th scope="col"> 10th Oldest Request </th>
+      <th scope="col"> 9th </th>
+      <th scope="col"> 8th </th>
+      <th scope="col"> 7th </th>
+      <th scope="col"> 6th </th>
+      <th scope="col"> 5th </th>
+      <th scope="col"> 4th </th>
+      <th scope="col"> 3rd </th>
+      <th scope="col"> 2nd </th>
+      <th scope="col"> Oldest Request </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td rowspan="2"> usab</td>
-      <td>Date of Receipt</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;">2019-08-05 </td>
-      <td style="text-align: center;">2019-06-18 </td>
-      <td style="text-align: center;"> 2019-05-16</td>
-      <td style="text-align: center;"> 2019-02-22</td>
-      <td style="text-align: center;"> 2019-02-22</td>
-      <td style="text-align: center;"> 2019-02-22</td>
-      <td style="text-align: center;">2019-02-22 </td>
-      <td style="text-align: center;"> 2019-02-20</td>
+      <td rowspan="2"> USAB </td>
+      <td> Date of Receipt </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
     </tr>
     <tr>
-      <td scope="row">Number of Days Pending</td>
-      <td style="text-align: center;"> 0</td>
-      <td style="text-align: center;"> 0</td>
-      <td style="text-align: center;"> 39</td>
-      <td style="text-align: center;"> 72</td>
-      <td style="text-align: center;"> 86</td>
-      <td style="text-align: center;"> 145</td>
-      <td style="text-align: center;"> 145</td>
-      <td style="text-align: center;"> 145</td>
-      <td style="text-align: center;"> 145</td>
-      <td style="text-align: center;"> 146</td>
+      <td scope="row"> Number of Days Pending </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
       <td rowspan="2"> AGENCY OVERALL </td>
       <td>Date of Receipt</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">2019-08-05</td>
-      <td style="text-align: center;">2019-06-18</td>
-      <td style="text-align: center;">2019-05016</td>
-      <td style="text-align: center;">2019-02-22</td>
-      <td style="text-align: center;">2019-02-22</td>
-      <td style="text-align: center;">2019-02-22</td>
-      <td style="text-align: center;">2019-02-22</td>
-      <td style="text-align: center;">2019-02-20</td>
+      <td> Date of Receipt </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
     </tr>
     <tr>
-      <td scope="row">Number of Days Pending</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">39</td>
-      <td style="text-align: center;">72</td>
-      <td style="text-align: center;">86</td>
-      <td style="text-align: center;">145</td>
-      <td style="text-align: center;">145</td>
-      <td style="text-align: center;">145</td>
-      <td style="text-align: center;">145</td>
-      <td style="text-align: center;">146</td>
+      <td scope="row"> Number of Days Pending </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
     </tr>
   </tbody>
 </table>
@@ -1067,30 +1068,30 @@ permalink: /about/foia-report.html
 <table class="usa-table">
   <thead>
     <tr>
-      <th scope="col">Agency / Component</th>
-      <th scope="col">Number Granted</th>
-      <th scope="col">Number Denied</th>
-      <th scope="col">Median Number of Days to Adjudicate</th>
-      <th scope="col">Average Number of Days to Adjudicate</th>
-      <th scope="col">Number Adjudicated Within Ten Calendar Days</th>
+      <th scope="col"> Agency / Component </th>
+      <th scope="col"> Number Granted </th>
+      <th scope="col"> Number Denied </th>
+      <th scope="col"> Median Number of Days to Adjudicate </th>
+      <th scope="col"> Average Number of Days to Adjudicate </th>
+      <th scope="col"> Number Adjudicated Within Ten Calendar Days </th>
     </tr>
   </thead>
   <tbody>
     <tr>
-      <td> USAB</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">0</td>
+      <td> USAB </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
-      <td scope="row">AGENCY OVERALL</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">1</td>
+      <td scope="row"> AGENCY OVERALL </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> 0 </td>
     </tr>
   </tbody>
 </table>
