@@ -18,9 +18,11 @@ permalink: /about/foia-report.html
 > Washington, DC  20004  
 > 202-272-0080  
 > Email:&nbsp; <foia@access-board.gov>
+
 2.  Provide an electronic link for access to the report on the agency Web site:
 * [{{ site.baseurl }}{{ page.permalink }}]({{ site.baseurl }}{{ page.permalink }})
-* The report data is also available in [../foia/usab-foia-annual-report-raw-data-fy2020.csv](CSV) and [../foia/usab-foia-annual-report-fy2020.xml](NIEM XL) formats.
+* The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2020.csv) and [NIEM XL]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2020.xml) formats.
+
 3.  Explain how to obtain a copy of the report in paper form.
 > For a paper copy of this annual FOIA report, please contact, Gretchen Jacobs, U.S. Access Board General Counsel.
 
