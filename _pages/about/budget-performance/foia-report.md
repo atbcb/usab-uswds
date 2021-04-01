@@ -232,15 +232,15 @@ permalink: /about/foia-report.html
   <tbody>
     <tr>
       <td>USAB</td>
-      <td style="text-align: center;">N/A</td>
-      <td style="text-align: center;">0</td>
-      <td style="text-align: center;">0</td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
       <td scope="row">AGENCY OVERALL</td>
       <td></td>
       <td></td>
-      <td style="text-align: center;">0</td>
+      <td style="text-align: center;"> 0 </td>
     </tr>
   </tbody>
 </table>
@@ -564,16 +564,16 @@ permalink: /about/foia-report.html
     <tr>
       <td rowspan="2"> USAB </td>
       <td scope="row"> Date of Appeal </td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;">N/A </td>
-      <td style="text-align: center;">N/A </td>
-      <td style="text-align: center;">N/A </td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;"> N/A</td>
-      <td style="text-align: center;"> N/A</td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
     </tr>
     <tr>
       <td scope="row"> Number of Days Pending </td>
@@ -650,34 +650,34 @@ permalink: /about/foia-report.html
     </thead>
     <tbody>
       <tr>
-        <td>USAB </td>
-        <td style="text-align: center;"> N/A</td>
-        <td style="text-align: center;"> N/A</td>
-        <td style="text-align: center;"> N/A</td>
-        <td style="text-align: center;"> N/A</td>
-        <td style="text-align: center;"> 19</td>
-        <td style="text-align: center;"> 24</td>
-        <td style="text-align: center;"> 1</td>
-        <td style="text-align: center;">120 </td>
-        <td style="text-align: center;"> N/A</td>
-        <td style="text-align: center;"> N/A</td>
-        <td style="text-align: center;"> N/A</td>
-        <td style="text-align: center;"> N/A</td>
+        <td> USAB </td>
+        <td style="text-align: center;"> 3 </td>
+        <td style="text-align: center;"> 43 </td>
+        <td style="text-align: center;"> <1 </td>
+        <td style="text-align: center;"> 217 </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
       </tr>
       <tr>
-        <td scope="row">AGENCY OVERALL</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">0</td>
-        <td style="text-align: center;">N/A</td>
-        <td style="text-align: center;">N/A</td>
-        <td style="text-align: center;">19</td>
-        <td style="text-align: center;">24</td>
-        <td style="text-align: center;">1</td>
-        <td style="text-align: center;">120</td>
-        <td style="text-align: center;">N/A</td>
-        <td style="text-align: center;">N/A</td>
-        <td style="text-align: center;">N/A</td>
-        <td style="text-align: center;">N/A</td>
+        <td scope="row"> AGENCY OVERALL </td>
+        <td style="text-align: center;"> 3 </td>
+        <td style="text-align: center;"> 43 </td>
+        <td style="text-align: center;"> <1 </td>
+        <td style="text-align: center;"> 217 </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
+        <td style="text-align: center;"> N/A </td>
       </tr>
     </tbody>
   </table>
