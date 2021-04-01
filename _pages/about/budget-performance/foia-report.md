@@ -413,6 +413,7 @@ permalink: /about/foia-report.html
       <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
+      <td scope="row"> AGENCY OVERALL </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
