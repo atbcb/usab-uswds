@@ -5,7 +5,7 @@ layout: page-right-sidenav
 right-sidenav: sidenav-av.html
 permalink: /av/
 ---
-### {{page.title}}
+## {{page.title}}
 
 {% asset autonomous-bus.jpg alt="Autonomous Bus" class="float-right" %}
 
@@ -26,10 +26,9 @@ The forum will be conducted through the Zoom webinar. The forum’s four session
 *This session covered methods and technologies for entering and exiting autonomous vehicles.* \
 March 10, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 1](https://www.youtube.com/watch?v=xI1j1V1SyjE) \
-[Presentation Materials from Session 1]({{ site.baseurl }}/files/presentations/AV-Forum-session-1-final.pptx)
+[Presentation Materials from Session 1]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pptx) (PPT, 23MB)
 
 ##### Session I Presenters
-
 
 <div class="margin-x-10"><iframe title="Welcome message from Pete Buttigieg, introduction avideo" width="373" height="210" src="https://www.youtube.com/embed/WPP4s413T6k" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
@@ -46,7 +45,7 @@ March 10, 2021, 2:00 – 3:30 (ET) \
 *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.* \
 March 24, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 2](https://youtu.be/d9xc-mRrlxY?t=38) \
-[Presentation Materials for Session 2]({{ site.baseurl }}/files/presentations/AV-Forum-Session 2-Final-without-animations.pptx)
+[Presentation Materials for Session 2]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pptx) (PPT, 29MB)
 
 ##### Session II Presenters
 
@@ -60,7 +59,8 @@ March 24, 2021, 2:00 – 3:30 (ET) \
 
 *This session will address ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.* \
 April 7, 2021, 2:00 – 3:30 (ET) \
-[Register for the April 7 Session](https://www.zoomgov.com/webinar/register/WN_MWvyBgaxTtCk1nALFNl58g)
+[Register for the April 7 Session](https://www.zoomgov.com/webinar/register/WN_MWvyBgaxTtCk1nALFNl58g) \
+Presentation Materials for Session 3: [PPT, 46MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07.pptx) or [PDF, 6MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07.pdf)
 
 ##### Session III Presenters
 
