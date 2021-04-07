@@ -26,8 +26,7 @@ The forum will be conducted through the Zoom webinar. The forum’s four session
 *This session covered methods and technologies for entering and exiting autonomous vehicles.* \
 March 10, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 1](https://www.youtube.com/watch?v=xI1j1V1SyjE) \
-[Presentation Materials from Session 1]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pptx) (PPT, 23MB)
-
+Presentation Materials from Session 1: [PPT, 23MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pptx) or [PDF, 4MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pdf)
 
 ##### Session I Presenters
 
@@ -47,8 +46,7 @@ March 10, 2021, 2:00 – 3:30 (ET) \
 *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.* \
 March 24, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 2](https://youtu.be/d9xc-mRrlxY?t=38) \
-[Presentation Materials for Session 2]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pptx) (PPT, 29MB)
-
+Presentation Materials from Session 2: [PPT, 18MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pptx) or [PDF, 6MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pdf)
 
 ##### Session II Presenters
 
