@@ -5,7 +5,7 @@ layout: page-right-sidenav
 right-sidenav: sidenav-av.html
 permalink: /av/
 ---
-### {{page.title}}
+## {{page.title}}
 
 {% asset autonomous-bus.jpg alt="Autonomous Bus" class="float-right" %}
 
@@ -26,7 +26,7 @@ The forum will be conducted through the Zoom webinar. The forum’s four session
 *This session covered methods and technologies for entering and exiting autonomous vehicles.* \
 March 10, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 1](https://www.youtube.com/watch?v=xI1j1V1SyjE) \
-[Presentation Materials from Session 1]({{ site.baseurl }}/files/presentations/AV-Forum-session-1-final.pptx)
+Presentation Materials from Session 1: [PPT, 23MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pptx) or [PDF, 4MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pdf)
 
 ##### Session I Presenters
 
@@ -35,7 +35,7 @@ March 10, 2021, 2:00 – 3:30 (ET) \
 
 * Pete Buttigieg, Secretary of Transportation 
 * Robin Hutcheson, DOT Deputy Assistant Secretary for Safety Policy
-* [Gregory S. Fehribach](https://www.access-board.gov/about/board-members/gregory-fehribach/), Chair of the U.S. Access Board
+* [Gregory S. Fehribach]({{ site.baseurl }}/about/board-members/gregory-fehribach/), Chair of the U.S. Access Board
 *	Randall Duchesneau, U.S. Access Board
 *	[Dr. Victor Paquet](http://engineering.buffalo.edu/industrial-systems/people/faculty-directory/paquet-victor.html), University at Buffalo
 *	Amy Schoppman, National Mobility Equipment Dealers Association
@@ -46,7 +46,7 @@ March 10, 2021, 2:00 – 3:30 (ET) \
 *This session will address maneuvering and securement in vehicles and continued discussion of entering and exiting autonomous vehicles.* \
 March 24, 2021, 2:00 – 3:30 (ET) \
 [Recording of Session 2](https://youtu.be/d9xc-mRrlxY?t=38) \
-[Presentation Materials for Session 2]({{ site.baseurl }}/files/presentations/AV-Forum-Session 2-Final-without-animations.pptx)
+Presentation Materials from Session 2: [PPT, 18MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pptx) or [PDF, 6MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pdf)
 
 ##### Session II Presenters
 
@@ -60,12 +60,13 @@ March 24, 2021, 2:00 – 3:30 (ET) \
 
 *This session will address ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.* \
 April 7, 2021, 2:00 – 3:30 (ET) \
-[Register for the April 7 Session](https://www.zoomgov.com/webinar/register/WN_MWvyBgaxTtCk1nALFNl58g)
+[Register for the April 7 Session](https://www.zoomgov.com/webinar/register/WN_MWvyBgaxTtCk1nALFNl58g) \
+Presentation Materials for Session 3: [PPT, 46MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07_for_web.pptx) or [PDF, 6MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07.pdf)
 
 ##### Session III Presenters
 
-* [Dr. Cecilia Feeley](https://cait.rutgers.edu/autism-project/) and [Andrea Lubin](http://vtc.rutgers.edu/51/), Rutgers University 
-* [Dr. Robin Brewer](http://robinbrewer.com/), University of Michigan
+* [Dr. Cecilia Feeley](http://cait.rutgers.edu/autism-project) and [Andrea Lubin](http://vtc.rutgers.edu/51), Rutgers University 
+* [Dr. Robin Brewer](http://robinbrewer.com), University of Michigan
 * Anil Lewis, National Federation of the Blind
 * Dr. Christian Vogler, Gallaudet University; Director, Technology Access Program Research Group
 
@@ -83,15 +84,15 @@ Members of the public are also welcome to share their ideas, comments, and infor
 
 Further details will be posted on this page in coming weeks. You can [sign up](https://public.govdelivery.com/accounts/USACCESS/subscriber/new?topic_id=USACCESS_13) to receive details and other updates on the sessions by email.   
 
-Direct questions to Randall Duchesneau III at [events@access-board.gov](mailto: events@access-board.gov) or (202) 272-0044.
+Direct questions to Randall Duchesneau at [events@access-board.gov](mailto: events@access-board.gov) or call (202)272-0044.
 
 ### Resources
-* [Updated Guidelines for Buses and Vans (2016)](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/)
-* [ADA accessibility standards for transportation vehicles (1991, 1998)](https://www.access-board.gov/ada/vehicles/)
-* [DOT AV reference hub](https://www.transportation.gov/AV/hub)
-* [DOT Inclusive Design challenge](https://www.transportation.gov/AV/hub)
-* [Partners for Automated Vehicle Education (PAVE) Resource List on Inclusive AV Design](https://pavecampaign.org/avs-for-all-inspiring-solutions-for-accessible-design-additional-resources/)
-* [University at Buffalo IDEA Center](http://idea.ap.buffalo.edu/)
 
-(More resources to be added. If you would like to be added as a resource, please email events@access-board.gov)
+* [Updated Guidelines for Buses and Vans (2016)]({{ site.baseurl }}/guidelines-standards/vehicles/update-buses-vans/guidelines-text/)
+* [ADA accessibility standards for transportation vehicles (1991, 1998)]({{ site.baseurl }}/ada/vehicles)
+* [DOT AV reference hub](http://www.transportation.gov/AV/hub)
+* [DOT Inclusive Design challenge](http://www.transportation.gov/AV/hub)
+* [Partners for Automated Vehicle Education (PAVE) Resource List on Inclusive AV Design](https://pavecampaign.org/avs-for-all-inspiring-solutions-for-accessible-design-additional-resources)
+* [University at Buffalo IDEA Center](http://idea.ap.buffalo.edu)
 
+More resources to be added. If you would like to be added as a resource, please email <events@access-board.gov>.
