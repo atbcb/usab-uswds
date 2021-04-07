@@ -61,7 +61,7 @@ Presentation Materials from Session 2: [PPT, 18MB]({{ site.baseurl }}/files/pres
 *This session will address ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.* \
 April 7, 2021, 2:00 – 3:30 (ET) \
 [Register for the April 7 Session](https://www.zoomgov.com/webinar/register/WN_MWvyBgaxTtCk1nALFNl58g) \
-Presentation Materials for Session 3: [PPT, 46MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07.pptx) or [PDF, 6MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07.pdf)
+Presentation Materials for Session 3: [PPT, 46MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07_for_web.pptx) or [PDF, 6MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07.pdf)
 
 ##### Session III Presenters
 
