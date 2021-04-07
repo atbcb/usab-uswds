@@ -64,7 +64,7 @@ April 7, 2021, 2:00 – 3:30 (ET) \
 
 ##### Session III Presenters
 
-* [Dr. Cecilia Feeley](https://cait.rutgers.edu/autism-project/) and Andrea Lubin, Rutgers University 
+* [Dr. Cecilia Feeley](https://cait.rutgers.edu/autism-project/) and [Andrea Lubin](http://vtc.rutgers.edu/51/), Rutgers University 
 * [Dr. Robin Brewer](http://robinbrewer.com/), University of Michigan
 * Anil Lewis, National Federation of the Blind
 * Dr. Christian Vogler, Gallaudet University; Director, Technology Access Program Research Group
