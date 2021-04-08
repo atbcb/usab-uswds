@@ -10,7 +10,7 @@ excerpt: The U.S. Access Board held its second virtual public meeting on
 image: /images/uploads/autonomous-bus.jpg
 tags:
   - events
-featured: true
+featured: false
 ---
 The U.S. Access Board held its second virtual public meeting on inclusive design of autonomous vehicles (AVs) yesterday. The session continued discussion on entering and exiting AVs and addressed wheelchair maneuvering and securement in AVs. Guest speakers presented research findings and solutions, and members of the public were able to share comments, suggestions, and information and pose questions. 
 
