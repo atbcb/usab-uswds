@@ -76,6 +76,14 @@ Presentation Materials for Session 3: [PPT, 46MB]({{ site.baseurl }}/files/prese
 April 21, 2021, 2:00 – 3:30 (ET) \
 [Register for the April 21 Session](https://www.zoomgov.com/webinar/register/WN_FOFPmlQtRC6Jconf5-vvxg)
 
+##### Session IV Presenters
+
+* Dr. Aaron Steinfeld, Carnegie Mellon University
+* Dr. Gregg Vanderheiden, University of Maryland
+* Darryl Cooper, Disability Rights Office, Federal Communications Commission
+* Ted Guild, World Wide Web Consortium (W3C)
+* Bruce Bailey, United States Access Board
+
 ### Online Dialogue Platform
 
 Members of the public are also welcome to share their ideas, comments, and information on AV accessibility through an online crowdsourcing [dialogue platform](https://transportationinnovation.ideascale.com/) that will offer another opportunity for input throughout the webinar series. Discussion of accessibility for passengers with mobility disabilities is active now. Dialogues on accessibility for passengers with sensory or cognitive disabilities and next steps will open March 25.  
