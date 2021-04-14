@@ -30,8 +30,7 @@ Presentation Materials from Session 1: [PPT, 23MB]({{ site.baseurl }}/files/pres
 
 ##### Session I Presenters
 
-
-<div class="margin-x-10"><iframe title="Welcome message from Pete Buttigieg, introduction avideo" width="373" height="210" src="https://www.youtube.com/embed/WPP4s413T6k" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
+<div class="margin-x-10"><iframe sandbox title="Welcome message from Pete Buttigieg, introduction avideo" width="373" height="210" src="https://www.youtube.com/embed/WPP4s413T6k" frameborder="0" allow="accelerometer; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe></div>
 
 * Pete Buttigieg, Secretary of Transportation 
 * Robin Hutcheson, DOT Deputy Assistant Secretary for Safety Policy
