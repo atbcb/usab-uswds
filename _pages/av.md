@@ -78,7 +78,7 @@ April 21, 2021, 2:00 – 3:30 (ET) \
 ##### Session IV Presenters
 
 * Howard A. Rosenblum, Public Member of the U.S. Access Board
-* Dr. Aaron Steinfeld, Carnegie Mellon University
+* [Dr. Aaron Steinfeld](https://tbd.ri.cmu.edu/), Carnegie Mellon University
 * Dr. Gregg Vanderheiden, University of Maryland
 * Darryl Cooper, Disability Rights Office, Federal Communications Commission
 * Ted Guild, World Wide Web Consortium (W3C)
