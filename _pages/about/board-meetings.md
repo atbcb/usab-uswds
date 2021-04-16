@@ -9,9 +9,9 @@ permalink: /about/meetings.html
 
 {% asset webcast.jpg class="img-right" alt="laptop showing meeting on screen" %}
 
-Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Since the covid pandemic, Board meetings are held virtually.  
+Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Since the COVID-19 pandemic, Board meetings are held virtually.  
 
-The next Access Board meeting on **May 19** will feature panel discussions on access to self-service transaction machines.
+The next Board meeting on **May 19** will feature panel discussions on access to self-service transaction machines.
 
 ### Next Meeting of the U.S. Access Board
 
