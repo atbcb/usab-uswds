@@ -16,7 +16,7 @@ The next Board meeting on **May 19** will feature panel discussions on access to
 ### Next Meeting of the U.S. Access Board
 
 **May 19, 2021, 1:00 -- 4:30 (ET)**\
-Meeting Link: [To be posted]\
+Meeting Link: [www.zoomgov.com/j/1604334769](www.zoomgov.com/j/1604334769) \
 Contact: Rose Marie Bunales at <events@access-board.gov>
 
 #### Agenda
