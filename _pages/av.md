@@ -77,7 +77,7 @@ April 21, 2021, 2:00 – 3:30 (ET) \
 
 ##### Session IV Presenters
 
-* [Karen L. Braitmayer, FAIA]({{ site.baseurl }}/about/board-members/karen-l-braitmayer/), Public Member of the U.S. Access Board
+* [Karen Tamley]({{ site.baseurl }}/about/board-members/karen-tamley/), Public Member of the U.S. Access Board
 * [Dr. Aaron Steinfeld](https://tbd.ri.cmu.edu/), Carnegie Mellon University
 * [Dr. Gregg Vanderheiden](https://trace.umd.edu/), University of Maryland
 * [Darryl Cooper](https://www.fcc.gov/accessibility), Disability Rights Office, Federal Communications Commission
