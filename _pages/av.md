@@ -74,6 +74,7 @@ Presentation Materials for Session 3: [PPT, 46MB]({{ site.baseurl }}/files/prese
 *This session will continue discussion of communication accessibility in hailing and interacting with autonomous vehicles for passengers with hearing, visual, or cognitive disabilities.* \
 April 21, 2021, 2:00 – 3:30 (ET) \
 [Register for the April 21 Session](https://www.zoomgov.com/webinar/register/WN_FOFPmlQtRC6Jconf5-vvxg)
+Presentation Materials for Session 3: [PPT, 5MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-21.pptx) or [PDF, 3MB]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-21.pdf)
 
 ##### Session IV Presenters
 
