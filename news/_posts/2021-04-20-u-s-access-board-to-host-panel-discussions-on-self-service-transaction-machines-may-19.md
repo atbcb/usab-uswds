@@ -15,7 +15,7 @@ tags:
   - board meetings
 featured: true
 ---
-The U.S. Access Board will host panel discussions on access to self-service transaction machines (SSTMs), including point-of-sales machines and ticket kiosks, as part of its next virtual Board meeting on May 19 from **1:00 – 3:15 (ET)**. One panel will include representatives from advocacy organizations who will discuss usability issues and accessibility barriers. Another panel will address efforts by research and industry to improve access to SSTMs. The public is welcome to attend this event. Registration is not required. 
+The U.S. Access Board will host panel discussions on access to self-service transaction machines (SSTMs), including point-of-sales machines and ticket kiosks, as part of its next virtual Board meeting on **May 19** from **1:00 – 3:15 (ET)**. One panel will include representatives from advocacy organizations who will discuss usability issues and accessibility barriers. Another panel will address efforts by research and industry to improve access to SSTMs. The public is welcome to attend this event. Registration is not required. 
 
 Following the panel discussions and a short break, the Board will reconvene to conduct regular business from **3:30 – 4:30 (ET)**. The agenda includes brief reports from the Executive Director, Board committees, and Election Assistance Commission. For more information, visit the [Board Meetings webpage](https://www.access-board.gov/about/meetings.html). Additional details will be provided in the coming weeks. 
 
