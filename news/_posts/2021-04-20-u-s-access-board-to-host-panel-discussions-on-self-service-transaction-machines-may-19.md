@@ -8,7 +8,7 @@ excerpt: "The U.S. Access Board will host panel discussions on access to
   and ticket kiosks, as part of its next virtual Board meeting on May 19 from
   1:00 – 3:15 (ET). One panel will include representatives from advocacy
   organizations who will discuss usability issues and accessibility barriers.
-  Another panel will address . . . "
+  Another panel will . . . "
 image: /images/uploads/sstm-animation.jpg
 tags:
   - board meetings
