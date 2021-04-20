@@ -19,7 +19,7 @@ You may attend the meeting through the [Zoom.gov platform](http://www.zoomgov.c
 
 > Meeting of the U.S. Access Board (Virtual) \
 > May 19, 1:00 – 4:30 (ET) \
-> Meeting Link: www.zoomgov.com/j/1604334769 \
+> Meeting Link: [www.zoomgov.com/j/1604334769](www.zoomgov.com/j/1604334769) \
 > Call-in Option: (669) 254-5252 or (646) 828-7666; meeting ID: 160 433 4769  
 
 ### Agenda 
