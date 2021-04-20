@@ -17,7 +17,7 @@ Following the panel discussions and a short break, the Board will reconvene to
 
 You may attend the meeting through the [Zoom.gov platform](http://www.zoomgov.com/j/1604334769) or by phone (listen-only mode). The meeting will include video remote interpreting (VRI) and real-time captioning. For further information, visit the [Board’s website](https://www.access-board.gov/about/meetings.html) or contact Rose Marie Bunales at events@access-board.gov. 
 
-> Meeting of the U.S. Access Board (Virtual) \
+> *Meeting of the U.S. Access Board (Virtual)* \
 > May 19, 1:00 – 4:30 (ET) \
 > Meeting Link: [www.zoomgov.com/j/1604334769](www.zoomgov.com/j/1604334769) \
 > Call-in Option: (669) 254-5252 or (646) 828-7666; meeting ID: 160 433 4769  
@@ -25,6 +25,7 @@ You may attend the meeting through the [Zoom.gov platform](http://www.zoomgov.c
 ### Agenda 
 
 1:00 – 3:15 Inclusive Interfaces: Accessibility to Self-Service Transaction Machines (SSTMs) 
+
 * Welcome, Sachin Pavithran, Executive Director 
 * Panel Discussion on Usability Issues (1:00 – 2:00) 
 * Break (2:00 – 2:15) 
@@ -33,6 +34,7 @@ You may attend the meeting through the [Zoom.gov platform](http://www.zoomgov.c
 3:15 – 3:30 Break 
 
 3:30 – 4:30 Regular Board Business 
+
 * Introductory Remarks 
 * Standing and Ad Hoc Committee Reports 
 * Election Assistance Commission 
