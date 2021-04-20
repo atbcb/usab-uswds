@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Board’s January Meeting to Address Access to Virtual Platforms  "
+title: "U.S. Access Board’s January Meeting to Address Access to Virtual Platforms  "
 date: 2020-12-21
 excerpt: The widespread transition to telework due to the coronavirus pandemic
   has made use of virtual meetings and conferences commonplace. It is important

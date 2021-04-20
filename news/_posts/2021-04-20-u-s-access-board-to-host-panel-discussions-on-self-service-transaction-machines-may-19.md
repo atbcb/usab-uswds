@@ -1,0 +1,46 @@
+---
+layout: post
+title: U.S. Access Board to Host Panel Discussions on Self-Service Transaction
+  Machines
+date: 2021-04-20
+excerpt: The U.S. Access Board will host panel discussions on access to
+  self-service transaction machines (SSTMs), including point-of-sales machines
+  and ticket kiosks, as part of its next virtual Board meeting on May 19 from
+  1:00 – 3:15 (ET). One panel will include representatives from advocacy
+  organizations who will discuss usability issues and accessibility
+  barriers.  Another panel will address efforts by research and industry to
+  improve access to SSTMs. The public is welcome to attend this event . . .
+image: /images/uploads/sstm-animation.jpg
+tags:
+  - board meetings
+featured: true
+---
+The U.S. Access Board will host panel discussions on access to self-service transaction machines (SSTMs), including point-of-sales machines and ticket kiosks, as part of its next virtual Board meeting on May 19 from **1:00 – 3:15 (ET)**. One panel will include representatives from advocacy organizations who will discuss usability issues and accessibility barriers. Another panel will address efforts by research and industry to improve access to SSTMs. The public is welcome to attend this event. Registration is not required. 
+
+Following the panel discussions and a short break, the Board will reconvene to conduct regular business from **3:30 – 4:30 (ET)**. The agenda includes brief reports from the Executive Director, Board committees, and Election Assistance Commission. For more information, visit the [Board Meetings webpage](https://www.access-board.gov/about/meetings.html). Additional details will be provided in the coming weeks. 
+
+You may attend the meeting through the [Zoom.gov platform](http://www.zoomgov.com/j/1604334769) or by phone (listen-only mode). The meeting will include video remote interpreting (VRI) and real-time captioning. For further information, visit the [Board’s website](https://www.access-board.gov/about/meetings.html) or contact Rose Marie Bunales at <events@access-board.gov>. 
+
+> *Meeting of the U.S. Access Board (Virtual)* \
+> May 19, 1:00 – 4:30 (ET) \
+> Meeting Link: [www.zoomgov.com/j/1604334769](www.zoomgov.com/j/1604334769) \
+> Call-in Option: (669) 254-5252 or (646) 828-7666; meeting ID: 160 433 4769  
+
+### Agenda 
+
+1:00 – 3:15 Inclusive Interfaces: Accessibility to Self-Service Transaction Machines (SSTMs) 
+
+* Welcome, Sachin Pavithran, Executive Director 
+* Panel Discussion on Usability Issues (1:00 – 2:00) 
+* Break (2:00 – 2:15) 
+* Panel Discussion on SSTM Accessibility (2:15 – 3:15) 
+
+3:15 – 3:30 Break 
+
+3:30 – 4:30 Regular Board Business 
+
+* Introductory Remarks 
+* Standing and Ad Hoc Committee Reports 
+* Election Assistance Commission 
+* Executive Director’s Report 
+* New Business
