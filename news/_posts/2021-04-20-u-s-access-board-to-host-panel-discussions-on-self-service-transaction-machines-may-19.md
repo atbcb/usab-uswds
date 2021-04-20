@@ -7,6 +7,7 @@ excerpt: "The U.S. Access Board will host panel discussions on access to
   self-service transaction machines (SSTMs), including point-of-sales machines
   and ticket kiosks, as part of its next virtual Board meeting on May 19 from .
   . . "
+image: /images/uploads/sstm-animation.jpg
 tags:
   - board meetings
 featured: true
