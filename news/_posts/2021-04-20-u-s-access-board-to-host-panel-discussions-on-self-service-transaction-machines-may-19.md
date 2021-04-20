@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "U.S. Access Board to Host Panel Discussions on Self-Service Transaction
-  Machines (May 19) "
+title: U.S. Access Board to Host Panel Discussions on Self-Service Transaction
+  Machines
 date: 2021-04-20
 excerpt: "The U.S. Access Board will host panel discussions on access to
   self-service transaction machines (SSTMs), including point-of-sales machines
