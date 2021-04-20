@@ -19,7 +19,7 @@ The U.S. Access Board will host panel discussions on access to self-service tr
 
 Following the panel discussions and a short break, the Board will reconvene to conduct regular business from **3:30 – 4:30 (ET)**. The agenda includes brief reports from the Executive Director, Board committees, and Election Assistance Commission. For more information, visit the [Board Meetings webpage](https://www.access-board.gov/about/meetings.html). Additional details will be provided in the coming weeks. 
 
-You may attend the meeting through the [Zoom.gov platform](http://www.zoomgov.com/j/1604334769) or by phone (listen-only mode). The meeting will include video remote interpreting (VRI) and real-time captioning. For further information, visit the [Board’s website](https://www.access-board.gov/about/meetings.html) or contact Rose Marie Bunales at events@access-board.gov. 
+You may attend the meeting through the [Zoom.gov platform](http://www.zoomgov.com/j/1604334769) or by phone (listen-only mode). The meeting will include video remote interpreting (VRI) and real-time captioning. For further information, visit the [Board’s website](https://www.access-board.gov/about/meetings.html) or contact Rose Marie Bunales at <events@access-board.gov>. 
 
 > *Meeting of the U.S. Access Board (Virtual)* \
 > May 19, 1:00 – 4:30 (ET) \
