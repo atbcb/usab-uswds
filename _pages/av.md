@@ -87,7 +87,7 @@ Presentation Materials for Session 4: [PPT, 5MB]({{ site.baseurl }}/files/presen
 
 ### Online Dialogue Platform
 
-Members of the public are also welcome to share their ideas, comments, and information on AV accessibility through an online crowdsourcing [dialogue platform](https://transportationinnovation.ideascale.com/) that will offer another opportunity for input throughout the webinar series. Discussion of accessibility for passengers with mobility disabilities is active now. Dialogues on accessibility for passengers with sensory or cognitive disabilities and next steps will open March 25.  
+Members of the public are also welcome to share their ideas, comments, and information on AV accessibility through an online crowdsourcing [dialogue platform](https://transportationinnovation.ideascale.com/) that will offer another opportunity for input throughout the webinar series. Discussion of accessibility for passengers with mobility disabilities is active now. Dialogues on accessibility for passengers with sensory or cognitive disabilities and next steps will be open until May 5.  
 
 ### More Information 
 
