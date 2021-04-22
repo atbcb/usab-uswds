@@ -10,7 +10,7 @@ excerpt: The U.S. Access Board held its third virtual public meeting on
 image: /images/uploads/autonomous-bus.jpg
 tags:
   - events
-featured: true
+featured: false
 ---
 The U.S. Access Board held its third virtual public meeting on inclusive design of autonomous vehicles (AVs) yesterday. The session addressed ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities. It included invited speakers who presented on research findings, solutions, and implications, as well as members of the public who shared comments, suggestions, and information and posed questions. 
 
