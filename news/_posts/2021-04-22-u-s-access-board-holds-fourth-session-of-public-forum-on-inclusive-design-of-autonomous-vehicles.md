@@ -22,6 +22,6 @@ Ted Guild spoke about the role of the W3C Web Accessibility Initiative for opera
 
 A recording of the session and copies of the presentations are available on the [Board’s AV webpage](https://www.access-board.gov/av/).  
 
-In addition to the virtual meetings, an online [discussion platform](https://transportationinnovation.ideascale.com/) is currently open to the public to share ideas and questions on designing AVs that are accessible to individuals with mobility disabilities. Dialogues on accessibility for passengers with sensory or cognitive disabilities and next steps are open for comment until May 5. 
+In addition to the virtual meetings, an online [discussion platform](https://transportationinnovation.ideascale.com/) is currently open to the public to share ideas and questions on designing AVs that are accessible to individuals with mobility disabilities. Dialogues on accessibility for passengers with sensory or cognitive disabilities and next steps are also open for comment until May 5. 
 
 Direct questions about the forum to Randall Duchesneau III at [events@access-board.gov](mailto:%20events@access-board.gov) or (202) 272-0044.
