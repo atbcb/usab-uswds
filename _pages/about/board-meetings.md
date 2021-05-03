@@ -27,8 +27,8 @@ Contact: Rose Marie Bunales at <events@access-board.gov>
 
 - Welcome, Sachin Pavithran, Executive Director
 - Panel Discussion on Usability Issues (1:00 -- 2:00)
-- Break (2:00 -- 2:15)
-- Panel Discussion on SSTM Accessibility (2:15 -- 3:15)
+- Overview of Existing ADA & Section 508 Standards (2:00 -- 2:10)
+- Panel Discussion on SSTM Accessibility (2:10 -- 3:15)
 
 ##### 3:15 -- 3:30 Break
 
