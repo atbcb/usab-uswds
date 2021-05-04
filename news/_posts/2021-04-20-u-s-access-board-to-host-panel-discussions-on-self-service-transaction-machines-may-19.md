@@ -2,7 +2,7 @@
 layout: post
 title: U.S. Access Board to Host Panel Discussions on Self-Service Transaction
   Machines
-date: 2021-04-20
+date: 2021-05-04
 excerpt: The U.S. Access Board will host panel discussions on access to
   self-service transaction machines (SSTMs), including point-of-sales machines
   and ticket kiosks, as part of its next virtual Board meeting on May 19 from
