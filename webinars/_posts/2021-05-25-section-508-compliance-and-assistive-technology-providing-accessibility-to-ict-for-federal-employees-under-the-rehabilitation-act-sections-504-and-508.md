@@ -24,7 +24,7 @@ tags:
   - webinar
   - "508"
 closed: false
-webinar-start: May 25, 2021 12:00 AM
+webinar-start: May 25, 2021 1:00 PM
 webinar-end: May 25, 2021 2:30 PM
 registration-link: https://www.accessibilityonline.org/cioc-508/session/?id=110922
 webinar: true
