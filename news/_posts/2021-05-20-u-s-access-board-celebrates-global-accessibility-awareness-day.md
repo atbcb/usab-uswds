@@ -5,7 +5,7 @@ date: 2021-05-20
 excerpt: "Today, the U.S. Access Board celebrates the tenth annual Global
   Accessibility Awareness Day to promote discussion and learning about digital
   access and inclusion for people with disabilities. The Board is a leading
-  source of information on accessible design, including access to . . . "
+  source of information on accessible design, including . . . "
 image: /images/uploads/map-of-earth.png
 image_alt_text: Map of Earth with countries are outlined and filled with nodes and connectors
 featured: false
