@@ -10,7 +10,7 @@ image: /images/uploads/map-of-earth.png
 image_alt_text: Map of Earth with countries are outlined and filled with nodes and connectors
 featured: false
 ---
-Today, the U.S. Access Board celebrates the tenth annual Global Accessibility Awareness Day to promote discussion and learning about digital access and inclusion for people with disabilities. The Board is a leading source of information on accessible design, including access to [information and communication technology (ICT)](https://www.access-board.gov/ict/) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. The Board also issues guidelines and standards for the built environment, outdoor sites, transportation, and medical diagnostic equipment.  
+Today, the U.S. Access Board celebrates the tenth annual Global Accessibility Awareness Day to promote discussion and learning about digital access and inclusion for people with disabilities. The Board is a leading source of information on accessible design, including access to [information and communication (ICT](https://www.access-board.gov/ict/) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. The Board also issues guidelines and standards for the built environment, outdoor sites, transportation, and medical diagnostic equipment.  
 
 “Accessibility should not just be a national dialog but a global effort where we all work together to create inclusive communities,” U.S. Access Board Executive Director Sachin Dev Pavithran stated. “The Access Board will continue to work with international partners to develop an accessible world for all people with disabilities.” 
 
