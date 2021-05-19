@@ -17,9 +17,9 @@ The next Board meeting on **May 19** will feature panel discussions on access to
 
 **May 19, 2021, 1:00 -- 4:30 (ET)**\
 Meeting Link: [www.zoomgov.com/j/1604334769](www.zoomgov.com/j/1604334769) \
-Phone (listen only): 1 (646) 828 7666 (New York) or 1 (669) 254 5252 (San Jose); see [international numbers](https://www.zoomgov.com/zoomconference?m=MTYwNDMzNDc2OQ.QOrHBDefO-E_IVvq8sV66JoW_DBjQbeG) \
-Webinar ID: 160 433 4769 \
-Contact: Rose Marie Bunales at <events@access-board.gov>
+Phone (listen only): 1-646-828-7666 (New York) or 1-669-254-5252 (San Jose); see [international numbers](https://www.zoomgov.com/zoomconference?m=MTYwNDMzNDc2OQ.QOrHBDefO-E_IVvq8sV66JoW_DBjQbeG) \
+Webinar ID:  160 433 4769 \
+Contact:  Rose Marie Bunales at <events@access-board.gov>
 
 #### Agenda
 
@@ -29,6 +29,8 @@ Contact: Rose Marie Bunales at <events@access-board.gov>
 - Panel Discussion on Usability Issues (1:00 -- 2:00)
 - Overview of Existing ADA & Section 508 Standards (2:00 -- 2:10)
 - Panel Discussion on SSTM Accessibility (2:10 -- 3:15)
+
+Presentation materials are available in [PPT (9MB)]({{ site.baseurl }}/files/presentations/usab-sstm-presentation-2021-05-19.pptx) or [PDF (2MB)]({{ site.baseurl }}/files/presentations/usab-sstm-presentation-2021-05-19.pdf) formats.  The second panel discussion includes a [spreadsheet (.xlsx on Google Docs)](https://docs.google.com/spreadsheets/d/1FnvzuhrOSfCYDMeEtAbZjq7had7O_rEb) and [video (YouTube)](https://www.youtube.com/watch?v=5G61H2hhdeo).
 
 ##### 3:15 -- 3:30 Break
 
