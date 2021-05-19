@@ -30,8 +30,7 @@ Contact:  Rose Marie Bunales at <events@access-board.gov>
 - Overview of Existing ADA & Section 508 Standards (2:00 -- 2:10)
 - Panel Discussion on SSTM Accessibility (2:10 -- 3:15)
 
-**Presentation file** is available as PPT (9MB) and PDF (2MB).
-
+Presentation materials are available in [PPT (9MB)]({{ site.baseurl }}/files/presentations/usab-sstm-presentation-2021-05-19.pptx) or [PDF (2MB)]({{ site.baseurl }}/files/presentations/usab-sstm-presentation-2021-05-19.pdf) formats.  The second panel discussion includes a [spreadsheet (.xlsx on Google Docs)](https://docs.google.com/spreadsheets/d/1FnvzuhrOSfCYDMeEtAbZjq7had7O_rEb) and [video (YouTube)](https://www.youtube.com/watch?v=5G61H2hhdeo).
 
 ##### 3:15 -- 3:30 Break
 
