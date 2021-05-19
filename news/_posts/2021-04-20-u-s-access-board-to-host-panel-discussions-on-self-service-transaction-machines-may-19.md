@@ -19,11 +19,11 @@ The U.S. Access Board will host panel discussions on access to self-service tr
 
 Following the panel discussions and a short break, the Board will reconvene to conduct regular business from **3:30 – 4:30 (ET)**. The agenda includes brief reports from the Executive Director, Board committees, and Election Assistance Commission. For more information, visit the [Board's webpage](https://www.access-board.gov/about/meetings.html). 
 
-You may attend the meeting through the [Zoom.gov platform](http://www.zoomgov.com/j/1604334769) or by phone (listen-only mode). The meeting will include video remote interpreting (VRI) and real-time captioning. For further information, visit the [Board’s website](https://www.access-board.gov/about/meetings.html) or contact Rose Marie Bunales at <events@access-board.gov>. 
+You may attend the meeting through the [Zoom.gov platform](https://www.zoomgov.com/j/1604334769) or by phone (listen-only mode). The meeting will include video remote interpreting (VRI) and real-time captioning. For further information, visit the [Board’s website](https://www.access-board.gov/about/meetings.html) or contact Rose Marie Bunales at <events@access-board.gov>. 
 
 > *Meeting of the U.S. Access Board (Virtual)* \
 > May 19, 1:00 – 4:30 (ET) \
-> Meeting Link: [www.zoomgov.com/j/1604334769](www.zoomgov.com/j/1604334769) \
+> Meeting Link: [zoomgov.com/j/1604334769](https://www.zoomgov.com/j/1604334769) \
 > Meeting ID: 160 433 4769 \
 > Call-in numbers: Phone (listen only): 1 (646) 828 7666 (New York) or 1 (669) 254 5252 (San Jose); see [international numbers](https://www.zoomgov.com/zoomconference?m=MTYwNDMzNDc2OQ.QOrHBDefO-E_IVvq8sV66JoW_DBjQbeG)
 
