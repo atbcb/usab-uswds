@@ -39,9 +39,8 @@ Presentation materials are available in [PPT (9MB)]({{ site.baseurl }}/files/pre
 ##### 3:15 -- 3:30 Break
 
 ##### 3:30 -- 4:30 Regular Board Business
-
  
-### Upcoming Board Meetings
+## Upcoming Board Meetings
 
 -   September 20 - 22, 2021
 -   November 8 - 10, 2021
@@ -52,7 +51,7 @@ Presentation materials are available in [PPT (9MB)]({{ site.baseurl }}/files/pre
 -   September 12 - 14, 2022
 -   November 7 - 9, 2022
 
-### Board Meeting Archives
+## Board Meeting Archives
 
 - [March 10, 2021](https://www.youtube.com/watch?v=xI1j1V1SyjE)
 - [May 19, 2021](https://www.youtube.com/watch?v=-0YkBZZEoss)
