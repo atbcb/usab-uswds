@@ -1,4 +1,3 @@
-
 ---
 title: Access Board Meetings
 layout: page
@@ -6,6 +5,7 @@ toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/meetings.html
 ---
+
 ## {{ page.title }}
 
 {% asset webcast.jpg class="img-right" alt="laptop showing meeting on screen" %}
