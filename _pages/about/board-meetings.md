@@ -1,3 +1,4 @@
+
 ---
 title: Access Board Meetings
 layout: page
@@ -11,15 +12,18 @@ permalink: /about/meetings.html
 
 Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Since the COVID-19 pandemic, Board meetings are held virtually.  
 
-The next Board meeting on **May 19** will feature panel discussions on access to self-service transaction machines.
+The meeting of the Board on **May 19** featured panel discussions on access to self-service transaction machines.
 
 ### Next Meeting of the U.S. Access Board
 
+**July 14, 2021**\
+[Details to be posted.]
+Contact:  Rose Marie Bunales at <events@access-board.gov>
+
+### May Meeting of the U.S. Access Board
+
 **May 19, 2021, 1:00 -- 4:30 (ET)**\
-Meeting Link: [www.zoomgov.com/j/1604334769](www.zoomgov.com/j/1604334769) \
-Phone (listen only): 1-646-828-7666 (New York) or 1-669-254-5252 (San Jose); see [international numbers](https://www.zoomgov.com/zoomconference?m=MTYwNDMzNDc2OQ.QOrHBDefO-E_IVvq8sV66JoW_DBjQbeG) \
-Webinar ID:  160 433 4769 \
-Contact:  Rose Marie Bunales at <events@access-board.gov>
+View recording:  [www.youtube.com/watch?v=-0YkBZZEoss](https://www.youtube.com/watch?v=-0YkBZZEoss) \
 
 #### Agenda
 
@@ -36,15 +40,9 @@ Presentation materials are available in [PPT (9MB)]({{ site.baseurl }}/files/pre
 
 ##### 3:30 -- 4:30 Regular Board Business
 
-- Introductory Remarks
-- Standing and Ad Hoc Committee Reports
-- Election Assistance Commission
-- Executive Director's Report
-- New Business
  
 ### Upcoming Board Meetings
 
--   July 12 - 14, 2021
 -   September 20 - 22, 2021
 -   November 8 - 10, 2021
 -   January 10 - 12, 2022
@@ -57,3 +55,4 @@ Presentation materials are available in [PPT (9MB)]({{ site.baseurl }}/files/pre
 ### Board Meeting Archives
 
 - [March 10, 2021](https://www.youtube.com/watch?v=xI1j1V1SyjE)
+- [May 19, 2021](https://www.youtube.com/watch?v=-0YkBZZEoss)
