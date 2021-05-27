@@ -27,7 +27,7 @@ March 15, 2012. DOJ's ADA Standards apply to all facilities covered by
 the ADA except public transit facilities.
 
 DOT issued its current edition of the [ADA
-Standards for Transportation Facilities]({{ site.baseurl }}/files/ada-aba/ADAdotstandards.pdf) in 2006. These standards apply to facilities used by state and local
+Standards for Transportation Facilities]({{ site.baseurl }}/files/ada/ADAdotstandards.pdf) in 2006. These standards apply to facilities used by state and local
 governments to provide public transportation. They became effective on
 November 29, 2006 and replace earlier standards issued by DOT in 1991.
 
