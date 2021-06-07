@@ -219,8 +219,7 @@ In FY 2020, we released a major installment to the online guide that include com
 
 We continue to offer our very successful monthly webinar series through a partnership with the National Network of ADA Centers.  Sessions are conducted monthly for built environment issues and bi-monthly for information and communication technology issues (in conjunction with the Chief Information Officers Council Accessibility Community of Practice) with most webinars scheduled for 90 minutes.  Sessions also provide an opportunity to earn continuing education credits (CEUs) for a fee, but general attendance is free.  
 
-In FY 2020 we devoted our monthly webinar series on built environment issues 
-to a chapter-by-chapter review of the ADA Standards.  These standards govern the construction and alteration of a wide range of facilities covered by the ADA. The sessions covered similar standards that apply under the ABA to facilities that are federally funded.  Presenters focused on common sources of confusion in the ADA and ABA Standards and frequently asked questions.  The first session reviewed application of the standards (Chapter 1).  Presenters explained how the ADA and ABA Standards apply in new construction, alterations, and additions, dimensions for adults and children, equivalent facilitation and modifications or waivers, construction tolerances and other conventions, referenced standards, and definitions.  Subsequent webinars addressed Chapter 2: Scoping - New Construction (Part 1); Chapter 2: Scoping – Alterations (Part 2); Chapter 3: Building Blocks; Chapter 4: Accessible Routes; Chapter 5: General Site and Building Elements; Chapter 6: Plumbing Elements and Facilities; Chapter 7: Communication Elements and Features; and Chapter 8: Special Rooms, Spaces, and Elements (Part 1).  Three additional sessions in early FY 2021 covered the remaining chapters of the standards.
+In FY 2020 we devoted our monthly webinar series on built environment issues to a chapter-by-chapter review of the ADA Standards.  These standards govern the construction and alteration of a wide range of facilities covered by the ADA. The sessions covered similar standards that apply under the ABA to facilities that are federally funded.  Presenters focused on common sources of confusion in the ADA and ABA Standards and frequently asked questions.  The first session reviewed application of the standards (Chapter 1).  Presenters explained how the ADA and ABA Standards apply in new construction, alterations, and additions, dimensions for adults and children, equivalent facilitation and modifications or waivers, construction tolerances and other conventions, referenced standards, and definitions.  Subsequent webinars addressed Chapter 2: Scoping - New Construction (Part 1); Chapter 2: Scoping – Alterations (Part 2); Chapter 3: Building Blocks; Chapter 4: Accessible Routes; Chapter 5: General Site and Building Elements; Chapter 6: Plumbing Elements and Facilities; Chapter 7: Communication Elements and Features; and Chapter 8: Special Rooms, Spaces, and Elements (Part 1).  Three additional sessions in early FY 2021 covered the remaining chapters of the standards.
 
 Webinar sessions in FY 2020 on information and communication technology issues included: Section 508 in the Acquisition Lifecycle, Section 508 Questions and Answers with the Access Board and GSA, Accessible Social Media, Accessible Office Documents, Accessible Virtual Meeting Platforms, and Managing for Accessibility Throughout the Acquisition Lifecycle.
 
@@ -651,7 +650,7 @@ In July 2010, the Board held a public information meeting on this rulemaking to 
 *  committee presented draft recommendations to the Board – July 10, 2013
 *  committee report completed – December 6, 2013
 *  final rule – January 9, 2017
- 
+
 * * *
 
 ### Completed Access Board Rulemakings
@@ -958,7 +957,7 @@ Corrections to the Information and Communication Technology (ICT) Final Standard
       <td style="text-align: right;"> 65 </td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td> &nbsp; </td>
       <td scope="row"> after our investigation resulted in a determination that we did not have jurisdiction </td>
       <td style="text-align: right;"> 2 </td>
       <td style="text-align: right;"> 7 </td>
