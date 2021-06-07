@@ -87,7 +87,7 @@ We will continue to develop and update accessibility guidelines and standards an
 
 A summary of recently completed and ongoing standards and guidelines activities is presented below.
 
-#### ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles -- Update (rail vehicles)
+#### ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles — Update (rail vehicles)
 
 The Access Board’s existing accessibility guidelines for ADA-covered rail vehicles (e.g., subway, commuter rail, inter-city rail vehicles) were issued in 1991 and have not been subsequently modified or updated.  These guidelines are thus in need of a “refresh” to keep pace with newer technologies, changes in rail vehicle design, and incorporate more recently developed national and international consensus standards.
 
@@ -502,7 +502,7 @@ The Board is requesting a total budget authority in FY 2022 of $9,750,000.  Pub.
   </tbody>
   <tbody>
     <tr>
-      <th colspan="2" scope="rowgroup"> INFORMATION TECHNOLOGY SUPPORT SERVICESs </th>
+      <th colspan="2" scope="rowgroup"> INFORMATION TECHNOLOGY SUPPORT SERVICES </th>
       <td rowspan="3"><p> This is the yearly cost of the Board’s telephone and desktop computing needs including desktop and laptop computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service).  A large portion of our IT budget goes toward the provision of network security and operational integrity of the Board’s network.  This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, “Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.”  These expenditures will help us meet the Federal Information Security Management Act and provide certification of the Board’s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service’s HR Connect System for personnel services).  Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program, computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service).  A large portion of our IT budget goes toward the provision of network security and operational integrity of the Board’s network.  This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, “Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.”  These expenditures will help us meet the Federal Information Security Management Act and provide certification of the Board’s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service’s HR Connect System for personnel services).  Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program. </p></td>
     </tr>
     <tr>
@@ -566,7 +566,7 @@ The Board is requesting a total budget authority in FY 2022 of $9,750,000.  Pub.
 
 _May 2021_
 
-#### ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles --- Update (rail vehicles)
+#### ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles – Update (rail vehicles)
 
 This rulemaking would update the Board’s existing accessibility guidelines for transportation vehicles that operate on fixed guideway systems (e.g., rapid rail, light rail, commuter rail, and intercity rail) covered by the ADA.  The existing rail vehicles guidelines were initially promulgated in 1991, and need an update to, among other things, keep pace with newer accessibility-related technologies, harmonize with recently developed national and international consensus standards, and incorporate recommendations from the Board’s Rail Vehicles Access Advisory Committee’s report.  In May 2013, we created a federal advisory committee to develop recommendations that the Board can use to update its rail vehicle guidelines which were originally issued in 1991.  The committee met from November 2013 through June 2015 and provided its final report to the Board in July 2015.  The next step for this rulemaking is an ANPRM planned for FY 2020.  Compliance with any revised rail vehicles guidelines would not be required until they are adopted by DOT in a separate rulemaking.  Past and recent efforts related to this regulatory initiative include:
 
