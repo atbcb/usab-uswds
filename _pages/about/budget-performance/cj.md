@@ -87,7 +87,7 @@ We will continue to develop and update accessibility guidelines and standards an
 
 A summary of recently completed and ongoing standards and guidelines activities is presented below.
 
-#### ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles -- Update (rail vehicles)
+#### ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles — Update (rail vehicles)
 
 The Access Board’s existing accessibility guidelines for ADA-covered rail vehicles (e.g., subway, commuter rail, inter-city rail vehicles) were issued in 1991 and have not been subsequently modified or updated.  These guidelines are thus in need of a “refresh” to keep pace with newer technologies, changes in rail vehicle design, and incorporate more recently developed national and international consensus standards.
 
@@ -219,8 +219,7 @@ In FY 2020, we released a major installment to the online guide that include com
 
 We continue to offer our very successful monthly webinar series through a partnership with the National Network of ADA Centers.  Sessions are conducted monthly for built environment issues and bi-monthly for information and communication technology issues (in conjunction with the Chief Information Officers Council Accessibility Community of Practice) with most webinars scheduled for 90 minutes.  Sessions also provide an opportunity to earn continuing education credits (CEUs) for a fee, but general attendance is free.  
 
-In FY 2020 we devoted our monthly webinar series on built environment issues 
-to a chapter-by-chapter review of the ADA Standards.  These standards govern the construction and alteration of a wide range of facilities covered by the ADA. The sessions covered similar standards that apply under the ABA to facilities that are federally funded.  Presenters focused on common sources of confusion in the ADA and ABA Standards and frequently asked questions.  The first session reviewed application of the standards (Chapter 1).  Presenters explained how the ADA and ABA Standards apply in new construction, alterations, and additions, dimensions for adults and children, equivalent facilitation and modifications or waivers, construction tolerances and other conventions, referenced standards, and definitions.  Subsequent webinars addressed Chapter 2: Scoping - New Construction (Part 1); Chapter 2: Scoping – Alterations (Part 2); Chapter 3: Building Blocks; Chapter 4: Accessible Routes; Chapter 5: General Site and Building Elements; Chapter 6: Plumbing Elements and Facilities; Chapter 7: Communication Elements and Features; and Chapter 8: Special Rooms, Spaces, and Elements (Part 1).  Three additional sessions in early FY 2021 covered the remaining chapters of the standards.
+In FY 2020 we devoted our monthly webinar series on built environment issues to a chapter-by-chapter review of the ADA Standards.  These standards govern the construction and alteration of a wide range of facilities covered by the ADA. The sessions covered similar standards that apply under the ABA to facilities that are federally funded.  Presenters focused on common sources of confusion in the ADA and ABA Standards and frequently asked questions.  The first session reviewed application of the standards (Chapter 1).  Presenters explained how the ADA and ABA Standards apply in new construction, alterations, and additions, dimensions for adults and children, equivalent facilitation and modifications or waivers, construction tolerances and other conventions, referenced standards, and definitions.  Subsequent webinars addressed Chapter 2: Scoping - New Construction (Part 1); Chapter 2: Scoping – Alterations (Part 2); Chapter 3: Building Blocks; Chapter 4: Accessible Routes; Chapter 5: General Site and Building Elements; Chapter 6: Plumbing Elements and Facilities; Chapter 7: Communication Elements and Features; and Chapter 8: Special Rooms, Spaces, and Elements (Part 1).  Three additional sessions in early FY 2021 covered the remaining chapters of the standards.
 
 Webinar sessions in FY 2020 on information and communication technology issues included: Section 508 in the Acquisition Lifecycle, Section 508 Questions and Answers with the Access Board and GSA, Accessible Social Media, Accessible Office Documents, Accessible Virtual Meeting Platforms, and Managing for Accessibility Throughout the Acquisition Lifecycle.
 
@@ -503,7 +502,7 @@ The Board is requesting a total budget authority in FY 2022 of $9,750,000.  Pub.
   </tbody>
   <tbody>
     <tr>
-      <th colspan="2" scope="rowgroup"> INFORMATION TECHNOLOGY SUPPORT SERVICESs </th>
+      <th colspan="2" scope="rowgroup"> INFORMATION TECHNOLOGY SUPPORT SERVICES </th>
       <td rowspan="3"><p> This is the yearly cost of the Board’s telephone and desktop computing needs including desktop and laptop computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service).  A large portion of our IT budget goes toward the provision of network security and operational integrity of the Board’s network.  This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, “Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.”  These expenditures will help us meet the Federal Information Security Management Act and provide certification of the Board’s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service’s HR Connect System for personnel services).  Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program, computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service).  A large portion of our IT budget goes toward the provision of network security and operational integrity of the Board’s network.  This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, “Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.”  These expenditures will help us meet the Federal Information Security Management Act and provide certification of the Board’s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service’s HR Connect System for personnel services).  Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program. </p></td>
     </tr>
     <tr>
@@ -567,7 +566,7 @@ The Board is requesting a total budget authority in FY 2022 of $9,750,000.  Pub.
 
 _May 2021_
 
-#### ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles --- Update (rail vehicles)
+#### ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles – Update (rail vehicles)
 
 This rulemaking would update the Board’s existing accessibility guidelines for transportation vehicles that operate on fixed guideway systems (e.g., rapid rail, light rail, commuter rail, and intercity rail) covered by the ADA.  The existing rail vehicles guidelines were initially promulgated in 1991, and need an update to, among other things, keep pace with newer accessibility-related technologies, harmonize with recently developed national and international consensus standards, and incorporate recommendations from the Board’s Rail Vehicles Access Advisory Committee’s report.  In May 2013, we created a federal advisory committee to develop recommendations that the Board can use to update its rail vehicle guidelines which were originally issued in 1991.  The committee met from November 2013 through June 2015 and provided its final report to the Board in July 2015.  The next step for this rulemaking is an ANPRM planned for FY 2020.  Compliance with any revised rail vehicles guidelines would not be required until they are adopted by DOT in a separate rulemaking.  Past and recent efforts related to this regulatory initiative include:
 
@@ -651,7 +650,7 @@ In July 2010, the Board held a public information meeting on this rulemaking to 
 *  committee presented draft recommendations to the Board – July 10, 2013
 *  committee report completed – December 6, 2013
 *  final rule – January 9, 2017
- 
+
 * * *
 
 ### Completed Access Board Rulemakings
@@ -886,7 +885,9 @@ In July 2010, the Board held a public information meeting on this rulemaking to 
 *   committee report completed – December 6, 2013
 *   final rule – January 9, 2017
 
-**Information and Communication Technology.**  In July 2006, the Board created an advisory committee to update and revise the Section 508 standards and the Telecommunications Act Accessibility Guidelines.  Forty-one organizations served on the Telecommunications and Electronic and Information Technology Advisory Committee.  The committee’s membership included representatives from industry, disability groups, standard-setting bodies in the U.S. and abroad, and government agencies, among others.  The committee completed its work and presented its report to the Board in April 2008.  In March 2010, we published an ANPRM and held two public hearings during the comment period.  In response to this input, we published a second ANPRM in December 2011; two hearings were held.  A proposed rule was published in February 2015.  Three public hearings and a webinar on the proposed rule were held during the comment period.  A final rule was published in January 2017.
+#### Information and Communication Technology
+
+In July 2006, the Board created an advisory committee to update and revise the Section 508 standards and the Telecommunications Act Accessibility Guidelines.  Forty-one organizations served on the Telecommunications and Electronic and Information Technology Advisory Committee.  The committee’s membership included representatives from industry, disability groups, standard-setting bodies in the U.S. and abroad, and government agencies, among others.  The committee completed its work and presented its report to the Board in April 2008.  In March 2010, we published an ANPRM and held two public hearings during the comment period.  In response to this input, we published a second ANPRM in December 2011; two hearings were held.  A proposed rule was published in February 2015.  Three public hearings and a webinar on the proposed rule were held during the comment period.  A final rule was published in January 2017.
 
 On January 22, 2018, we issued a correction to our updated accessibility requirements for ICT to restore provisions on TTY access that were inadvertently omitted.  The original Section 508 standards and Section 255 guidelines required that devices with two-way voice communication support use of TTY devices which provide text communication across phone connections for persons with hearing or speech impairments.  In its ICT refresh, the Board had proposed replacing this provision with a requirement for real-time text (RTT) functionality, a new technology with significant advantages over TTYs.  In finalizing the rule, however, the Board chose to reserve the RTT requirement because the Federal Communications Commission had initiated its own rulemaking to address RTT functionality.  In doing so, the Board intended to add the original TTY provision back into the rule, but the necessary language was unintentionally omitted.  The correction notice restored the TTY requirement with minor editorial changes for consistency with the new format and terminology of the updated requirements and corrected two typographical errors in other sections of the rule.
 
@@ -956,7 +957,7 @@ Corrections to the Information and Communication Technology (ICT) Final Standard
       <td style="text-align: right;"> 65 </td>
     </tr>
     <tr>
-      <td>&nbsp;</td>
+      <td> &nbsp; </td>
       <td scope="row"> after our investigation resulted in a determination that we did not have jurisdiction </td>
       <td style="text-align: right;"> 2 </td>
       <td style="text-align: right;"> 7 </td>
