@@ -23,7 +23,7 @@ Section 301 of the No FEAR Act and EEOC's implementing regulations (29 CFR Part 
 | Number of Complaints Filed | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
 | Number of Complainants | 0 | 0 | 0 | 1 | 1 | 1 | 0 |
 | Repeat Filers | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-{: usa-table :}
+{: .usa-table }
 
 ## No FEAR Act Annual Report
 
