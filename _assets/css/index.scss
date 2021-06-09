@@ -38,12 +38,6 @@ h5, h6 { // default was xs and 2xs
 
 // Add your SASS/CSS here
 
-// links in hero
-div.usa-hero__callout a:link { color:white }
-div.usa-hero__callout a:hover { color:aqua !important }
-div.usa-hero__callout a:active { color:yellow !impportant }
-div.usa-hero__callout a:visited { color:silver }
-
 // stylish faux 'page-breaks'
 hr {
   border: solid;
@@ -223,18 +217,10 @@ td ul.check {
 }
 .usa-hero__callout {
   padding: 1rem;
-	a:link {
-		color:white;
-	}
-	a:hover {
-		color:aqua !important;
-	}
-	a:active {
-		color:yellow !impportant;
-	}
-	a:visited {
-		color:silver;
-	}
+  a:link { color:white; }
+  a:hover { color:aqua !important; }
+  a:active { color:yellow !impportant; }
+  a:visited { color:silver; }
 }
 
 // override default gray to get a little more contrast
