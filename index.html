@@ -22,6 +22,9 @@ manage in the long term.
 <!-- we are not using include hero by default but are swapping out as needed -->
 <!-- please use Jekyll comment syntax to hide hero include when not in use -->
 <!-- html comment syntax is be avoided, always -->
+{% endcomment %}
+{% include_cached sidekick.html %}
+{% comment %}
 {% include_cached hero.html %}
 {% include_cached hero-av.html %}
 {% include_cached hero.html 
