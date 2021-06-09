@@ -39,10 +39,10 @@ h5, h6 { // default was xs and 2xs
 // Add your SASS/CSS here
 
 // links in hero
-div.usa-hero__callout a:link { color:yellow; } 
-div.usa-hero__callout a:hover { color:aqua; }
-div.usa-hero__callout a:active { color:white; }
-div.usa-hero__callout a:visited { color:silver; }
+div.usa-hero__callout a:link { color:white }
+div.usa-hero__callout a:hover { color:aqua !important }
+div.usa-hero__callout a:active { color:yellow !impportant }
+div.usa-hero__callout a:visited { color:silver }
 
 // stylish faux 'page-breaks'
 hr {
@@ -215,24 +215,27 @@ td ul.check {
   }
 }
 
-
 //usa hero custom styling
-
 @media (min-width: 40em) {
   .usa-hero__callout {
   max-width: 30rem;
   }
 }
-
 .usa-hero__callout {
   padding: 1rem;
-  }
-
-  
-/* .usa-logo__text::before {
-  background-image: url(../images/usab-logo.svg);
-  background-repeat: no-repeat;
-} */
+	a:link {
+		color:white;
+	}
+	a:hover {
+		color:aqua !important;
+	}
+	a:active {
+		color:yellow !impportant;
+	}
+	a:visited {
+		color:silver;
+	}
+}
 
 // override default gray to get a little more contrast
 li.usa-nav__secondary-item a {
