@@ -3,22 +3,24 @@ This will be displayed on the homepage.
 Ideally, you want to highlight key goals of the website.
 The idea (6/7/21) is that this hero will be used when we are not promoting something more time sensitive.
 {% endcomment %}
-<section class="usa-hero" style="background-image: url({{ site.baseurl }}{{ include.image }});">
+<section class="usa-hero">
   <div class="grid-container maxw-desktop">
-      <h2 class="usa-hero__heading">
+      <h2 class="usa-hero__callout">
         Recents Events and Highlights
       </h2>
-      <ul>
-        <li>
+      <p>
           Public dialog series on
           <a href="{{ site.baseurl }}/av/">Inclusive Design of Autonomous Vehicles</a>
           (3/10/2021 through 4/21/2021)
-        </li>
-        <li>
-          Panel presentation on
+    </p>
+        <p>  Panel presentation on
           <a href="{{ site.baseurl }}/about/meetings.html#may-meeting-of-the-us-access-board">Accessibility to Self-Service Transaction Machines</a>
           (5/19/21)
-        </li>
+        </p>
+      <h2 class="usa-hero__callout">
+        Highlights
+      </h2>
+    <ul>
         <li>
           <a href="{{ site.baseurl }}/webinars/">Upcoming Webinars &amp; Trainings</a>
         </li>
@@ -26,11 +28,5 @@ The idea (6/7/21) is that this hero will be used when we are not promoting somet
           <a href="{{ site.baseurl }}/news/">News from the U.S. Access Board</a>
         </li>
       </ul>
-      <h2 class="usa-hero__callout">
-        Recents Events and Highlights
-      </h2>
-      <h2 class="usa-hero__callout-alt">
-        Recents Events and Highlights
-      </h2>
     </div>
 </section>
