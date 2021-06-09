@@ -39,10 +39,10 @@ h5, h6 { // default was xs and 2xs
 // Add your SASS/CSS here
 
 // links in hero
-a.test:link { color:white } 
-a.test:hover { color:aqua }
-a.test:active { color:yellow }
-a.test:visited { color:silver }
+div.usa-hero__callout a:link { color:yellow; } 
+div.usa-hero__callout a:hover { color:aqua; }
+div.usa-hero__callout a:active { color:white; }
+div.usa-hero__callout a:visited { color:silver; }
 
 // stylish faux 'page-breaks'
 hr {
