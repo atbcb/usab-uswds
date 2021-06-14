@@ -6,7 +6,7 @@ var mySwiper = new Swiper('.swiper-homepage', {
     slidesPerView: 1,
     spaceBetween: 30,
     // Responsive breakpoints
-    breakpoints: {
+/*     breakpoints: {
       // when window width is >= 640px
       640: {
         slidesPerView: 3,
@@ -17,7 +17,7 @@ var mySwiper = new Swiper('.swiper-homepage', {
         slidesPerView: 5,
         spaceBetween: 30
       }
-    },
+    }, */
     keyboard: {
       enabled: true,
     },
@@ -56,6 +56,39 @@ var mySwiper = new Swiper('.swiper-homepage', {
     // If we need pagination
     pagination: {
       el: '.swiper-pagination',
+    },
+
+    // Navigation arrows
+    navigation: {
+      nextEl: '.swiper-button-next',
+      prevEl: '.swiper-button-prev',
+    },
+
+    // And if we need scrollbar
+    scrollbar: {
+      el: '.swiper-scrollbar',
+    },
+
+    a11y: {
+      enabled: false
+    }
+  })
+
+
+
+  var mySwiper = new Swiper('.swiper-hero-carousel', {
+    // Optional parameters
+    direction: 'horizontal',
+    loop: false,
+    slidesPerView: 1,
+    spaceBetween: 30,
+    keyboard: {
+      enabled: true,
+    },
+
+    // If we need pagination
+    pagination: {
+      el: '.swiper-pagination-hero-carousel',
     },
 
     // Navigation arrows
