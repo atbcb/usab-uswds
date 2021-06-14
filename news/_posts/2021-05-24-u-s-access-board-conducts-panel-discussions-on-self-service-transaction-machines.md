@@ -3,10 +3,7 @@ layout: post
 title: "U.S. Access Board Conducts Panel Discussions on Self-Service Transaction
   Machines "
 date: 2021-05-24
-excerpt: The U.S. Access Board hosted panel discussions on access to
-  self-service transaction machines (SSTMs) as part of its virtual Board meeting
-  on May 19. One panel addressed usability issues and barriers that people with
-  . . .
+excerpt: The U.S. Access Board hosted panel discussions on access to self-service transaction machines (SSTMs) as part of its virtual Board meeting on May 19. One panel addressed usability issues and barriers that people with sensory, cognitive, physical, or multiple disabilities encounter using kiosks, point-of-sales machines, and other SSTMs. Speakers included representatives from . . .
 image: /images/uploads/sstm.jpg
 tags:
   - events
@@ -27,16 +24,14 @@ Presentation materials are available in [PPT (9MB)](https://www.access-board.go
 ### Agenda  
 
 1:00 – 3:15 Inclusive Interfaces: Accessibility to Self-Service Transaction Machines (SSTMs)  
-
 * Welcome, Sachin Pavithran, Executive Director  
-* 1:00 – 2:00 Panel Discussion on Usability Issues 
-* 2:00 – 2:10 Overview of Existing ADA & Section 508 Standards, Bruce Bailey 
-* 2:10 – 3:15 Panel Discussion on SSTM Accessibility
+  * 1:00 – 2:00 Panel Discussion on Usability Issues 
+  * 2:00 – 2:10 Overview of Existing ADA & Section 508 Standards, Bruce Bailey 
+  * 2:10 – 3:15 Panel Discussion on SSTM Accessibility
 
 3:15 – 3:30 Break  
 
 3:30 – 4:30 Regular Board Business  
-
 * Introductory Remarks  
 * Standing and Ad Hoc Committee Reports  
 * Election Assistance Commission  
