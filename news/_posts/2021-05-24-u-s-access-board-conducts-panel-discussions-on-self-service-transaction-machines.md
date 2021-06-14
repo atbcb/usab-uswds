@@ -24,10 +24,18 @@ Presentation materials are available in [PPT (9MB)](https://www.access-board.go
 ### Agenda  
 
 1:00 – 3:15 Inclusive Interfaces: Accessibility to Self-Service Transaction Machines (SSTMs)  
-* Welcome, Sachin Pavithran, Executive Director  
-  * 1:00 – 2:00 Panel Discussion on Usability Issues 
-  * 2:00 – 2:10 Overview of Existing ADA & Section 508 Standards, Bruce Bailey 
-  * 2:10 – 3:15 Panel Discussion on SSTM Accessibility
+* Welcome, Sachin Pavithran, Executive Director
+* 1:00 – 2:00 Panel Discussion on Usability Issues
+  * Mark Hill, Deaf and Hard of Hearing Consumer Advocacy Network
+  * Donald D. Overton, Jr., Blinded Veterans Association
+  * Clayton Lewis, Coleman Institute for Cognitive Disabilities
+  * Dave Pierson, United Spinal Association
+* 2:00 – 2:10 Overview of Existing ADA & Section 508 Standards, Bruce Bailey 
+* 2:10 – 3:15 Panel Discussion on SSTM Accessibility
+  * Craig Keefner, Kiosk Manufacturer Association
+  * Dr. Gregg Vanderheiden and Bern Jordan, The Trace Center
+  * Phil Day, NCR
+  * Laura Boniello Miller, Vispero
 
 3:15 – 3:30 Break  
 
