@@ -12,13 +12,24 @@ permalink: /about/meetings.html
 
 Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Since the COVID-19 pandemic, Board meetings are held virtually.  
 
-The meeting of the Board on **May 19** featured panel discussions on access to self-service transaction machines.
+The next virtual meeting of the Board on **July 14** will feature panel discussions on access to fitness equipment.
 
-### Next Meeting of the U.S. Access Board
+### Moving Forward: Access to Inclusive Fitness Equipment  
 
-**July 14, 2021** \
-[Details to be posted.] \
+**July 14, 2021, 1:00 – 3:15 (ET)** \
+Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/webinar/register/WN_ZMxz1SE1SOKF60tEi_2smg) \
 Contact:  Rose Marie Bunales at <events@access-board.gov>
+
+#### Agenda
+
+- Welcome/ Opening Remarks 
+- Panel on Need for Inclusive Fitness Equipment 
+- Panel on the Development of Standards 
+- Panel on implementation of Inclusive Fitness Equipment 
+- Closing Remarks
+
+The Board’s business meeting, which is also open to the public, will follow this event. 
+
 
 ### May Meeting of the U.S. Access Board
 
