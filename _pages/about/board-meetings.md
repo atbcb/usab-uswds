@@ -30,26 +30,6 @@ Contact:  Rose Marie Bunales at <events@access-board.gov>
 
 The Board’s business meeting, which is also open to the public, will follow this event. 
 
-
-### May Meeting of the U.S. Access Board
-
-**May 19, 2021, 1:00 -- 4:30 (ET)**\
-View recording:  [www.youtube.com/watch?v=-0YkBZZEoss](https://www.youtube.com/watch?v=-0YkBZZEoss)
-
-#### Agenda
-
-##### 1:00 -- 3:15 Inclusive Interfaces: Accessibility to Self-Service Transaction Machines (SSTMs)
-
-- Welcome, Sachin Pavithran, Executive Director
-- Panel Discussion on Usability Issues (1:00 -- 2:00)
-- Overview of Existing ADA & Section 508 Standards (2:00 -- 2:10)
-- Panel Discussion on SSTM Accessibility (2:10 -- 3:15)
-
-Presentation materials are available in [PPT (9MB)]({{ site.baseurl }}/files/presentations/usab-sstm-presentation-2021-05-19.pptx) or [PDF (2MB)]({{ site.baseurl }}/files/presentations/usab-sstm-presentation-2021-05-19.pdf) formats.  The second panel discussion includes a [spreadsheet (.xlsx on Google Docs)](https://docs.google.com/spreadsheets/d/1FnvzuhrOSfCYDMeEtAbZjq7had7O_rEb) and [video (YouTube)](https://www.youtube.com/watch?v=5G61H2hhdeo).
-
-##### 3:15 -- 3:30 Break
-
-##### 3:30 -- 4:30 Regular Board Business
  
 ## Upcoming Board Meetings
 
@@ -65,4 +45,4 @@ Presentation materials are available in [PPT (9MB)]({{ site.baseurl }}/files/pre
 ## Board Meeting Archives
 
 - [March 10, 2021](https://www.youtube.com/watch?v=xI1j1V1SyjE)
-- [May 19, 2021](https://www.youtube.com/watch?v=-0YkBZZEoss)
+- [May 19, 2021](https://www.access-board.gov/news/2021/05/24/u-s-access-board-conducts-panel-discussions-on-self-service-transaction-machines/)
