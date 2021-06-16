@@ -87,15 +87,17 @@
   max-width: 1024px;
   margin-top: 4rem;
   margin-bottom: 4rem;
+  margin-left: 2rem;
+  text-align: left;
 }
 
 .swiper-button-prev, .swiper-button-next {
-    color: #fee685;
+    color: white;
     align-self: stretch;
     height:  100%;
     top: 0;
     margin-top: 0;
-    padding: 0 1rem;
+    padding: 2rem;
     margin: 0 -1rem;
     background-color: black;
     opacity: 85%;
