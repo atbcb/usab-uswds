@@ -58,11 +58,10 @@
   }
 
   .swiper-slide-hero-carousel {
-    /* text-align: center;
+    text-align: center;
     font-size: 18px;
-    background: #fff; */
-    /* height: 10rem; */
-    /* border-radius: .5rem; */
+    background: #fff; 
+
     /* Center slide text vertically */
     display: -webkit-box;
     display: -ms-flexbox;
@@ -83,6 +82,12 @@
     background-position: center;
   }  
 
+.hero-container {
+  width: 100%;
+  max-width: 1024px;
+  margin-top: 4rem;
+  margin-bottom: 4rem;
+}
 
 .swiper-button-prev, .swiper-button-next {
     color: #fee685;
@@ -102,7 +107,7 @@
 }
 
 .swiper-pagination {
-    position: static;
+    /* position: static; */
 }
 
 .swiper-pagination-bullet {
