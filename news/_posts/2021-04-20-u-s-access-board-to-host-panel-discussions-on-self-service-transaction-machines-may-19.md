@@ -12,8 +12,8 @@ excerpt: The U.S. Access Board will host panel discussions on access to
   improve access to SSTMs. The public is welcome to attend this event . . .
 image: /images/uploads/sstm-animation.jpg
 tags:
-  - board meetings
-featured: true
+  - events
+featured: false
 ---
 The U.S. Access Board will host panel discussions on access to self-service transaction machines (SSTMs), including point-of-sales machines and ticket kiosks, as part of its next virtual Board meeting on **May 19** from **1:00 – 3:15 (ET)**. One panel will include representatives from advocacy organizations who will discuss usability issues and accessibility barriers. Another panel will address efforts by research and industry to improve access to SSTMs. The public is welcome to attend this event. Registration is not required. 
 

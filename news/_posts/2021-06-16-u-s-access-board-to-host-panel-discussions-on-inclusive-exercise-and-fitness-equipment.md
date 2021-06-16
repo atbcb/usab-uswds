@@ -19,7 +19,7 @@ The U.S. Access Board will host the event “Moving Forward: Access to Inclusiv
 
 The event will include video remote interpreting (VRI) and real-time captioning. For further information, visit the [Board’s website](https://www.access-board.gov/about/meetings.html) or contact Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov). 
 
-> *Moving Forward: Access to Inclusive Fitness Equipment* 
+> *Moving Forward: Access to Inclusive Fitness Equipment* \
 > July 14, 2021, 1:00 – 3:15 (ET) \
-> Registration (free): [www.zoomgov.com/webinar/register ](https://www.zoomgov.com/webinar/register/WN_ZMxz1SE1SOKF60tEi_2smg)
+> Registration (free): [www.zoomgov.com/webinar/register ](https://www.zoomgov.com/webinar/register/WN_ZMxz1SE1SOKF60tEi_2smg) \
 > Contact: Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov)
