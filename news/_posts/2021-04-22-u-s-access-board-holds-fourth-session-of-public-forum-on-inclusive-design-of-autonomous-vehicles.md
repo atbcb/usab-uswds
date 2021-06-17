@@ -10,7 +10,7 @@ image: /images/uploads/autonomous-bus.jpg
 image_alt_text: Graphic of Autonomous Bus
 tags:
   - events
-featured: true
+featured: false
 ---
 The U.S. Access Board held its fourth and final virtual public meeting on inclusive design of autonomous vehicles (AVs) yesterday. The session continued to discuss ride hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities. It included invited speakers who presented on challenges, research findings, and solutions, as well as members of the public who shared comments, suggestions, and information and posed questions. 
 
