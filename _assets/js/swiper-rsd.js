@@ -6,7 +6,7 @@ var mySwiper = new Swiper('.swiper-homepage', {
     slidesPerView: 1,
     spaceBetween: 30,
     // Responsive breakpoints
-/*     breakpoints: {
+    breakpoints: {
       // when window width is >= 640px
       640: {
         slidesPerView: 3,
@@ -17,7 +17,7 @@ var mySwiper = new Swiper('.swiper-homepage', {
         slidesPerView: 5,
         spaceBetween: 30
       }
-    }, */
+    },
     keyboard: {
       enabled: true,
     },
@@ -88,7 +88,7 @@ var mySwiper = new Swiper('.swiper-homepage', {
 
     // If we need pagination
     pagination: {
-      el: '.swiper-pagination-hero-carousel',
+      el: '.swiper-pagination',
     },
 
     // Navigation arrows
@@ -106,3 +106,22 @@ var mySwiper = new Swiper('.swiper-homepage', {
       enabled: false
     }
   })
+
+
+ //try this effect
+var swiper = new Swiper(".hero-coverflow", {
+    effect: "coverflow",
+    grabCursor: true,
+    centeredSlides: true,
+    slidesPerView: "auto",
+    coverflowEffect: {
+      rotate: 50,
+      stretch: 0,
+      depth: 100,
+      modifier: 1,
+      slideShadows: true,
+    },
+    pagination: {
+      el: ".swiper-pagination",
+    },
+  });

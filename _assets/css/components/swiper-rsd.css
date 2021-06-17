@@ -87,8 +87,10 @@
   max-width: 1024px;
   margin-top: 4rem;
   margin-bottom: 4rem;
-  margin-left: 2rem;
+  margin-left: 3rem;
+  margin-right: 3rem;
   text-align: left;
+  height: 20rem;
 }
 
 .swiper-button-prev, .swiper-button-next {
@@ -109,7 +111,9 @@
 }
 
 .swiper-pagination {
-    /* position: static; */
+    position: static;
+    background-color: black;
+    opacity: 70%;
 }
 
 .swiper-pagination-bullet {

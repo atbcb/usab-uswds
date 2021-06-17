@@ -1,7 +1,7 @@
 <section class="usa-graphic-list bg-primary-darker">
         <div class="">
             <!-- Slider main container -->
-            <div class="swiper-container swiper-homepage">
+            <div class="swiper-container swiper-hero-carousel">
                 <!-- Additional required wrapper -->
                 <div class="swiper-wrapper">
                     <!-- Slides -->
@@ -12,14 +12,14 @@
                         title="{{ forloop.index0 | plus: 1 }} of {{ site.data.heroes.size }}"
                     >
                         <div class="hero-container">
-                            <div class="usa-hero__callout margin-left-0 bg-primary-darker">
-                                <h2 class="usa-hero__heading"><em class="usa-hero__heading--alt {% if hero.titlecolor %} {{ hero.titlecolor }} {% endif %}">{{ hero.title }}</em>
+                            <div class="usa-hero__callout margin-left-0 bg-white opacity-90">
+                                <h2 class="usa-hero__heading"><em class="usa-hero__heading--alt opacity-100 text-black {% if hero.titlecolor %} {{ hero.titlecolor }} {% endif %}">{{ hero.title }}</em>
                                 </h2>
-                                <p class="text-white text-bold">
+                                <p class="opacity-100 text-black text-bold">
                                 {{ hero.text }}
                                 </p>
                                 {% if hero.linkto %}
-                                <a href="{{ site.baseurl }}{{ hero.linkto }}" class="usa-button">{{ hero.linktext }}</a>
+                                <a href="{{ site.baseurl }}{{ hero.linkto }}" class="usa-button opacity-100">{{ hero.linktext }}</a>
                                 {% endif %}
                             </div>
                         </div>
