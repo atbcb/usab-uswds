@@ -1,0 +1,24 @@
+- title: Upcoming Event
+  titlecolor: text-secondary
+  text: "Fitness equipment"
+  image: /images/stock/av-hero.jpg
+  linkto: /av/
+  linktext: Learn More
+
+- title: Autonomous Vehicles
+  text: "Public forum on autonomous vehicles (March-April 2021)"
+  image: /images/stock/av-hero.jpg
+  linkto: /av/
+  linktext: Learn More
+
+- title: Kiosks
+  text: "kiosk"
+  image: /images/stock/kiosk.jpeg
+  linkto: /av/
+  linktext: Learn More
+
+- title: Trainings
+  text: " upcoming webinar on  accessible kitchens"
+  image: /images/stock/training.jpeg
+  linkto: /webinars/
+  linktext: Learn More
