@@ -57,49 +57,14 @@
     background-position: center;
   }
 
-  .swiper-slide-hero-carousel {
-    text-align: center;
-    font-size: 18px;
-    background: #fff; 
-
-    /* Center slide text vertically */
-    display: -webkit-box;
-    display: -ms-flexbox;
-    display: -webkit-flex;
-    display: flex;
-    -webkit-box-pack: center;
-    -ms-flex-pack: center;
-    -webkit-justify-content: center;
-    justify-content: center;
-    -webkit-box-align: center;
-    -ms-flex-align: center;
-    -webkit-align-items: center;
-    align-items: center;
-    /* background image styling */
-    background-repeat: no-repeat;
-    background-size: cover;
-    /* background-attachment: fixed; */
-    background-position: center;
-  }  
-
-.hero-container {
-  width: 100%;
-  max-width: 1024px;
-  margin-top: 4rem;
-  margin-bottom: 4rem;
-  margin-left: 3rem;
-  margin-right: 3rem;
-  text-align: left;
-  height: 20rem;
-}
 
 .swiper-button-prev, .swiper-button-next {
-    color: white;
+    color: #fee685;
     align-self: stretch;
     height:  100%;
     top: 0;
     margin-top: 0;
-    padding: 2rem;
+    padding: 0 1rem;
     margin: 0 -1rem;
     background-color: black;
     opacity: 85%;
@@ -112,8 +77,6 @@
 
 .swiper-pagination {
     position: static;
-    background-color: black;
-    opacity: 70%;
 }
 
 .swiper-pagination-bullet {
