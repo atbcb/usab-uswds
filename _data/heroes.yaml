@@ -13,30 +13,30 @@
 
 - title: Kiosks
   text: "Learn more about the Board’s event on access to self-service transaction machines (SSTMs)."
-  image: /images/stock/kiosk.jpeg
+  image: /images/stock/kiosk.jpg
   linkto: /news/2021/05/24/u-s-access-board-conducts-panel-discussions-on-self-service-transaction-machines/
   linktext: Learn More
 
 - title: Training & Webinars
   text: "Request a virtual training or attend a free monthly webinar on the ADA guidelines and standards and accessible design."
-  image: /images/stock/hero-training.jpeg
+  image: /images/stock/hero-training.jpg
   linkto: /webinars/
   linktext: Learn More
   
 - title: Featured News & Events
   text: "Read about upcoming events and the latest news on the Board’s announcements and activities related to accessibility and disability."
-  image: /images/stock/hero-news.jpeg
+  image: /images/stock/hero-news.jpg
   linkto: /news/
   linktext: Learn More
   
 - title: Board Meetings
   text: "Register and access the agenda for the U.S. Access Board’s bimonthly meeting that are open to the public."
-  image: /images/stock/hero-boardmeeting.jpeg
+  image: /images/stock/hero-boardmeeting.jpg
   linkto: /meetings/
   linktext: Learn More
   
 - title: ABA Complaints
   text: "File an Architectural Barriers Act of 1968 (ABA) complaint for encounters or awareness of an accessibility barrier at a federal building or facility."
-  image: /images/stock/hero-abacomplaint.jpeg
+  image: /images/stock/hero-abacomplaint.jpg
   linkto: /enforcement/
   linktext: Learn More
