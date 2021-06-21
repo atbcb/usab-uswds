@@ -1,0 +1,40 @@
+<section class="usa-graphic-list bg-primary-darker">
+        <div class="">
+            <!-- Slider main container -->
+            <div class="swiper-container swiper-hero-carousel">
+                <!-- Additional required wrapper -->
+                <div class="swiper-wrapper">
+                    <!-- Slides -->
+                    {% for hero in site.data.heroes %}
+                    <div class="swiper-slide swiper-slide-hero-carousel"
+                        aria-label="{{ hero.title }}"
+                        style="background-image: url({{ site.baseurl }}{{ hero.image }});"
+                        title="{{ forloop.index0 | plus: 1 }} of {{ site.data.heroes.size }}"
+                    >
+                        <div class="hero-container">
+                            <div class="usa-hero__callout margin-left-0 bg-white opacity-90">
+                                <h2 class="usa-hero__heading"><em class="usa-hero__heading--alt opacity-100 text-black {% if hero.titlecolor %} {{ hero.titlecolor }} {% endif %}">{{ hero.title }}</em>
+                                </h2>
+                                <p class="opacity-100 text-black text-bold">
+                                {{ hero.text }}
+                                </p>
+                                {% if hero.linkto %}
+                                <a href="{{ site.baseurl }}{{ hero.linkto }}" class="usa-button opacity-100">{{ hero.linktext }}</a>
+                                {% endif %}
+                            </div>
+                        </div>
+                    </div>
+                    {% endfor %}
+                </div>
+                <!-- If we need pagination -->
+                <div class="swiper-pagination"></div>
+
+                <!-- If we need navigation buttons -->
+                <div class="swiper-button-prev"></div>
+                <div class="swiper-button-next"></div>
+
+                <!-- If we need scrollbar -->
+                <!-- <div class="swiper-scrollbar"></div> -->
+            </div>
+        </div>
+</section>
