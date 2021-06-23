@@ -40,3 +40,9 @@
   image: /images/stock/hero-abacomplaint.jpeg
   linkto: /enforcement/
   linktext: Learn More
+  
+- title: Research
+  text: "Learn about the Board’s ongoing and completed research initiatives."
+  image: /images/stock/hero-research.jpeg
+  linkto: /research/
+  linktext: Learn More
