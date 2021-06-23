@@ -22,10 +22,10 @@ Contact:  Rose Marie Bunales at <events@access-board.gov>
 
 #### Agenda
 
-- Welcome/ Opening Remarks 
+- Welcome/Opening Remarks 
 - Panel on Need for Inclusive Fitness Equipment 
-- Panel on the Development of Standards 
-- Panel on implementation of Inclusive Fitness Equipment 
+- Panel on Ongoing Inclusive Fitness Initiatives
+- Panel on Implementation of Inclusive Fitness Equipment 
 - Closing Remarks
 
 The Board’s business meeting, which is also open to the public, will follow this event. 
