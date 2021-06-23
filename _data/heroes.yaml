@@ -32,7 +32,7 @@
 - title: Board Meetings
   text: "Register and access the agenda for the U.S. Access Board’s bimonthly meetings that are open to the public."
   image: /images/stock/hero-boardmeeting.jpeg
-  linkto: /meetings/
+  linkto: /about/meetings.html
   linktext: Learn More
   
 - title: ABA Complaints
