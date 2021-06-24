@@ -1,7 +1,7 @@
 ---
 layout: post
 title: U.S. Access Board to Host Panel Presentations on Inclusive Exercise and Fitness Equipment
-date: 2021-06-16
+date: 2021-06-24
 excerpt: "The U.S. Access Board will host the event “Moving Forward: Access to
   Inclusive Fitness Equipment” on July 14 from 1:00 – 3:15 pm (ET). The virtual
   event will feature panel discussions on the importance and need for all people
