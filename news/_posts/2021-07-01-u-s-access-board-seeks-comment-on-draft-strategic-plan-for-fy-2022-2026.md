@@ -6,7 +6,7 @@ excerpt: The U.S. Access Board will hold a virtual forum on its draft Strategic
   Plan on July 13 at 2:30 – 4:00 ET for the purpose of obtaining public feedback
   on the agency’s goals and objectives for the next five years. The draft plan
   includes a new focus on . . .
-image: /images/uploads/adobestock_264788727.jpeg
+image: /images/uploads/strategic-plan-arrows.jpg
 image_alt_text: Blue arrow with "strategic plan" text
 tags:
   - events
