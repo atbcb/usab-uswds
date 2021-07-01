@@ -16,7 +16,7 @@ The forum is open to the public, but registration is required. Individuals�
 
 The virtual forum will be hosted on Zoom and include video remote interpreting (VRI) and real-time captioning. 
 
-Public Comment on Draft Strategic Plan \
-July 13, 2021, 2:30 – 4:00 (ET) \
-Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/webinar/register/WN_ZMxz1SE1SOKF60tEi_2smg) \
-Contact: Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov)
+#### *Public Comment on Draft Strategic Plan*
+#### July 13, 2021, 2:30 – 4:00 (ET)
+> Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/webinar/register/WN_ZMxz1SE1SOKF60tEi_2smg) \
+> Contact: Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov)
