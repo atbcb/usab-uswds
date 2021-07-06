@@ -22,11 +22,23 @@ Contact:  Rose Marie Bunales at <events@access-board.gov>
 
 #### Agenda
 
-- Welcome/Opening Remarks 
-- Panel on Need for Inclusive Fitness Equipment 
-- Panel on Ongoing Inclusive Fitness Initiatives
-- Panel on Implementation of Inclusive Fitness Equipment 
-- Closing Remarks
+* Welcome, Karen Tamley, Access Board Public Member
+* Opening Remarks
+  * U.S. Senator Tammy Duckworth 
+  * Lex Gillette, Paralympian
+* Panel on Need for Inclusive Fitness Equipment
+  * Kelly Bonner, National Center on Health, Physical Activity and Disability, Lakeshore
+  * Clark Rachfal, American Council for the Blind 
+* Panel on Ongoing Inclusive Fitness Initiatives
+  * Dr. Stephanie Schnorbus Stephens, Beneficial Designs, Inc. and Rehabilitation Engineering and Assistive Technology Society of North America (RESNA) 
+  * Richard Thesing, Mobility Fitness
+  * Dr. Beth Barstow and Sangeetha Padalabalanarayanan, The University of Alabama at Birmingham
+* Panel on Implementation of Inclusive Fitness Equipment
+  * Gus LaZear, Ability360 Sports & Fitness Center 
+  * Dr. Catherine Carty, Munster Technological University
+  * Jon Walker and Lloyd Reese, Playcore 
+  * Ileana Rodriguez, I Design Access, LLC 
+* Closing Remarks
 
 The Board’s business meeting, which is also open to the public, will follow this event. 
 
