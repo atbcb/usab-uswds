@@ -49,7 +49,7 @@ The Board’s business meeting, which is also open to the public, will follow th
 -   November 8 - 10, 2021
 -   January 10 - 12, 2022
 -   March 7 - 9, 2022
--   May 10 - 12, 2022 (New Orleans)
+-   May 10 - 12, 2022
 -   July 11 - 13, 2022
 -   September 12 - 14, 2022
 -   November 7 - 9, 2022
