@@ -1,6 +1,7 @@
 ---
 layout: post
-title: "Section 508: New approaches to web accessibility requirements under WCAG3"
+title: "Section 508 Best Practices: New Approaches to Web Accessibility
+  Requirements under WCAG3"
 date: 2021-07-27
 excerpt: This session will feature new and differing approaches to web
   accessibility requirements proposed for the next generation of these
@@ -17,6 +18,9 @@ excerpt: This session will feature new and differing approaches to web
   participation certificate.
 presenters:
   - bruce-bailey
+tags:
+  - "508"
+  - Communication & IT
 closed: false
 webinar-start: July 27, 2021 1:00 PM
 webinar-end: July 27, 2021 2:30 PM
