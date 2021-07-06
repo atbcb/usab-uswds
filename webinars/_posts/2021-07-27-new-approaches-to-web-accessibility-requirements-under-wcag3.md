@@ -1,6 +1,6 @@
 ---
 layout: post
-title: New approaches to web accessibility requirements under WCAG3
+title: "Section 508: New approaches to web accessibility requirements under WCAG3"
 date: 2021-07-27
 excerpt: This session will feature new and differing approaches to web
   accessibility requirements proposed for the next generation of these
