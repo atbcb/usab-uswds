@@ -20,6 +20,6 @@ The virtual forum will be hosted on Zoom and include video remote interpreting 
 
 #### *Public Comment on Draft Strategic Plan*
 #### July 13, 2021, 2:30 – 4:00 (ET)
-> Registration (free): [www.zoomgov.com/j/1614347490](https://www.zoomgov.com/j/1614347490?pwd=N3FuZ0hPa2FDYXMrNnUwYnNUbnpOZz09) \
+> Meeting Link: [www.zoomgov.com/j/1614347490](https://www.zoomgov.com/j/1614347490?pwd=N3FuZ0hPa2FDYXMrNnUwYnNUbnpOZz09) \
 > Call-in numbers: 1 (646) 828-7666 (New York) or 1 (669) 254-5252 (San Jose) \
 > Contact: Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov)
