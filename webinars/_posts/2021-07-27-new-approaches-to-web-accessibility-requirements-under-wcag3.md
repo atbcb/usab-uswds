@@ -18,6 +18,7 @@ excerpt: This session will feature new and differing approaches to web
   participation certificate.
 presenters:
   - bruce-bailey
+  - Jeanne Spellman
 tags:
   - "508"
   - Communication & IT
