@@ -27,7 +27,7 @@ The event is free, but registration is required. The event will include video re
 > Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/webinar/register/WN_ZMxz1SE1SOKF60tEi_2smg) \
 > Contact: Rose Marie Bunales at <events@access-board.gov>
 
-Presentation materials are available in [PPT (25MB)]({{ site.baseurl }}/files/presentations/usab-inclusive-fitness-2021-07-14.pptx) or [PDF (7MB)]({{ site.baseurl }}/files/presentations/usab-inclusive-fitness-2021-07-14.pdf) formats.
+Presentation materials are available in [PPT (24MB)]({{ site.baseurl }}/files/presentations/usab-inclusive-fitness-2021-07-14.pptx) or [PDF (7MB)]({{ site.baseurl }}/files/presentations/usab-inclusive-fitness-2021-07-14.pdf) formats.
 
 ### Agenda
 
