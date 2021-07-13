@@ -18,15 +18,21 @@ The U.S. Access Board invites the public to a virtual meeting on advancing acces
 
 Scheduled panelists include representatives from the National Center on Health, Physical Activity and Disability, the American Council for the Blind, Mobility Fitness, the Rehabilitation Engineering and Assistive Technology Society of North America, ASTM International, Universal Fitness Innovation & Transformation, Ability 360, I Design Access, and equipment manufacturers.  They will discuss the importance of access to exercise equipment, resources and initiatives to promote inclusive design of equipment, and examples of inclusive equipment and fitness centers. 
 
-The event is free, but registration is required. The event will include video remote interpreting (VRI) and real-time captioning. For further information, visit the [Board’s website](https://www.access-board.gov/about/meetings.html). Direct questions to Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov). 
+The event is free, but registration is required. The event will include video remote interpreting (VRI) and real-time captioning. For further information, visit the [Board’s website]({{ site.baseurl }}/about/meetings.html). Direct questions to Rose Marie Bunales at <events@access-board.gov>. 
 
-#### *Moving Forward: Access to Inclusive Fitness Equipment* 
-#### July 14, 2021, 1:00 – 3:15 (ET) 
-> Registration (free): [www.zoomgov.com/webinar/register ](https://www.zoomgov.com/webinar/register/WN_ZMxz1SE1SOKF60tEi_2smg) \
-> Contact: Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov)
+## Moving Forward: Access to Inclusive Fitness Equipment
+
+***July 14, 2021, 1:00 – 3:15 (ET)***
+
+> Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/webinar/register/WN_ZMxz1SE1SOKF60tEi_2smg) \
+> Contact: Rose Marie Bunales at <events@access-board.gov>
+
+Presentation materials are available in [PPT (24MB)]({{ site.baseurl }}/files/presentations/usab-inclusive-fitness-2021-07-14.pptx) or [PDF (7MB)]({{ site.baseurl }}/files/presentations/usab-inclusive-fitness-2021-07-14.pdf) formats.
 
 ### Agenda
+
 1:00 – 3:15 Moving Forward: Access to Inclusive Fitness Equipment
+
 * Welcome, Karen Tamley, Access Board Public Member
 * Opening Remarks
   * U.S. Senator Tammy Duckworth 
@@ -48,10 +54,10 @@ The event is free, but registration is required. The event will include video re
 3:15 – 3:30 Break  
 
 3:30 – 4:30 Regular Board Business  
+
 * Introductory Remarks  
 * Executive Director’s Report  
 * Standing Committee Reports  
 * Election Assistance Commission  
 * Ad Hoc Committee Reports   
 * New Business
-

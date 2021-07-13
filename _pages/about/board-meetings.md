@@ -16,9 +16,12 @@ The next virtual meeting of the Board on **July 14** will feature panel discussi
 
 ### Moving Forward: Access to Inclusive Fitness Equipment  
 
-**July 14, 2021, 1:00 – 3:15 (ET)** \
+**July 14, 2021, 1:00 – 3:15 (ET)**
+
 Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/webinar/register/WN_ZMxz1SE1SOKF60tEi_2smg) \
 Contact:  Rose Marie Bunales at <events@access-board.gov>
+
+Presentation materials are available in [PPT (24MB)]({{ site.baseurl }}/files/presentations/usab-inclusive-fitness-2021-07-14.pptx) or [PDF (7MB)]({{ site.baseurl }}/files/presentations/usab-inclusive-fitness-2021-07-14.pdf) formats.
 
 #### Agenda
 
@@ -41,7 +44,6 @@ Contact:  Rose Marie Bunales at <events@access-board.gov>
 * Closing Remarks
 
 The Board’s business meeting, which is also open to the public, will follow this event. 
-
  
 ## Upcoming Board Meetings
 
