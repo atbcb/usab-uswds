@@ -33,7 +33,7 @@ The event is free, but registration is required. The event will include video re
   * Lex Gillette, Paralympian
 * Panel on Need for Inclusive Fitness Equipment
   * Kelly Bonner, National Center on Health, Physical Activity and Disability, Lakeshore
-  * Clark Rachfal, American Council for the Blind 
+  * Clark Rachfal, American Council of the Blind 
 * Panel on Ongoing Inclusive Fitness Initiatives
   * Dr. Stephanie Schnorbus Stephens, Beneficial Designs, Inc. and Rehabilitation Engineering and Assistive Technology Society of North America (RESNA) 
   * Richard Thesing, Mobility Fitness
