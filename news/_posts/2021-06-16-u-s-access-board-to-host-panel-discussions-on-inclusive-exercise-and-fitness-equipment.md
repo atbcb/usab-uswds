@@ -1,6 +1,7 @@
 ---
 layout: post
-title: U.S. Access Board to Host Panel Presentations on Inclusive Exercise and Fitness Equipment
+title: U.S. Access Board to Host Panel Presentations on Inclusive Exercise and
+  Fitness Equipment
 date: 2021-06-16
 excerpt: "The U.S. Access Board will host the event “Moving Forward: Access to
   Inclusive Fitness Equipment” on July 14 from 1:00 – 3:15 pm (ET). The virtual
@@ -12,7 +13,7 @@ image: /images/uploads/fitness.jpg
 tags:
   - events
   - board meetings
-featured: true
+featured: false
 ---
 The U.S. Access Board invites the public to a virtual meeting on advancing access to fitness equipment on **July 14** from **1:00 – 3:15 pm (ET)**. The event, “Moving Forward: Access to Inclusive Fitness Equipment,” will feature panel presentations on the need for access to fitness equipment, initiatives to address equipment accessibility, and implementation of inclusive fitness equipment.
 
