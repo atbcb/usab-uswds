@@ -16,11 +16,11 @@ featured: true
 ---
 The U.S. Access Board held its virtual public meeting on inclusive exercise and fitness equipment yesterday. The event featured panel presentations on the need for access to fitness equipment, efforts to address equipment accessibility, and implementation of inclusive fitness equipment. Invited speakers included advocates, researchers, industry representatives, and three current and former Paralympians.
 
-![Tammy Duckworth]({{ site.baseurl }}/images/uploads/duckworth.jpg "Senator Tammy Duckworth"){: .float-right}
+![Tammy Duckworth]({{ site.baseurl }}/images/uploads/duckworth.jpg "Senator Tammy Duckworth"){: .img-right}
 
 Access Board Public Member Karen Tamley hosted the event and began by introducing [Senator Tammy Duckworth](https://www.duckworth.senate.gov/), a decorated veteran who has championed the cause of accessible fitness equipment for persons with disabilities. In her video message, Senator Duckworth remarked that "significant work remains to be done to make sure that Americans with disabilities have equal opportunity to exercise" and "increasing the accessibility of exercise equipment would help all Americans achieve better health outcomes." Later this month, Senator Duckworth plans to re-introduce the Exercise for All Act that would require the Access Board to issue guidelines and scoping requirements of exercise equipment in fitness facilities and the Department of Justice to implement regulations.
 
-![Lex Gillette]({{ site.baseurl }}/images/uploads/gillette.jpg "Lex Gillette"){: .float-left}
+![Lex Gillette]({{ site.baseurl }}/images/uploads/gillette.jpg "Lex Gillette"){: .img-left}
 
 Next, [Lex Gillette](https://lexgillette.com/), the best totally blind long and triple jumper in U.S. Paralympic movement history, discussed his experiences with fitness equipment and facilities, stating "myself and other people who have a disability sometimes have to come up with different hacks and tricks to be able to operate these pieces of equipment. In representing team USA, it is very important that I maintain a high level of training so that I can be the best athlete I can be, not only for myself but for team USA."
 
