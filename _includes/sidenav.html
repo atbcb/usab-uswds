@@ -42,6 +42,13 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               <a name="bp">Budget and Performance</a>
               <ul class="usa-sidenav__sublist">
                 <li class="usa-sidenav__item">
+                  {% if page.title == "Strategic Plan FY 2022-2026" %}
+                  <a name="par" class="usa-current">Strategic Plan FY 2022 - 2026 &rarr;</a>
+                  {% else %}
+                  <a href="{{ site.baseurl }}/about/strategic-plan-fy2022.html">Strategic Plan FY 2022 - 2026</a>
+                  {% endif %}
+                </li>
+                <li class="usa-sidenav__item">
                   {% if page.title == "Performance and Accountability Report" %}
                   <a name="par" class="usa-current">Performance and Accountability Report &rarr;</a>
                   {% else %}

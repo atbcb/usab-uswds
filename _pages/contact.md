@@ -31,6 +31,7 @@ If you have questions on these accessibility guidelines and standards call or em
 | <508@access-board.gov> | questions on the Board's standards for electronic and information technology issued under Section 508 of the Rehabilitation Act |
 | <enforce@access-board.gov> | filing a complaint about facility access under the Architectural Barriers Act |
 | <foia@access-board.gov> | submitting a request under the Freedom Of Information Act |
+| <generalcounsel@access-board.gov> | legal questions about Access Board statutory authorities, programs, operations, or ethics iling a complaint about facility access under the Architectural Barriers Act |
 | <info@access-board.gov> | general inquiries about the Board, its mission, services, members, and meetings |
 | <mde@access-board.gov> | questions about medical diagnostic equipment |
 | <news@access-board.gov> | media inquiries, Board news, public affairs, or subscriptions to its newsletter |
