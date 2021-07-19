@@ -13,7 +13,7 @@ image: /images/uploads/sstm.jpg
 tags:
   - events
   - Communication & IT
-featured: false
+featured: true
 ---
 The U.S. Access Board hosted panel discussions on access to self-service transaction machines (SSTMs) as part of its virtual Board meeting on May 19. One panel addressed usability issues and barriers that people with sensory, cognitive, physical, or multiple disabilities encounter using kiosks, point-of-sales machines, and other SSTMs. Speakers included representatives from the Blinded Veterans Association, the Coleman Institute for Cognitive Disabilities, the Deaf and Hard of Hearing Consumer Advocacy Network, and the United Spinal Association.  
 
