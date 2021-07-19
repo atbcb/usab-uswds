@@ -195,7 +195,7 @@ electric substations, and transformer vaults"
 %}
 
 #### Single Occupant Structures 
-[[§203.6]({{ site.baseurl }}/ada/ada-203_6)]
+[[§203.6]({{ site.baseurl }}/ada/ada-203_6)
 
 {% include grid-2col-leftimg-righttextstditalic.html
 img-file= "chapter2-ada/nc11.jpg"
