@@ -1,20 +1,20 @@
-- title: Upcoming Event
+- title: Recent Event
   titlecolor: text-secondary
-  text: "Moving Forward: Access to Inclusive Fitness Equipment (July 14)"
+  text: "Learn more about the Board's virtual meeting on inclusive exercise and fitness equipment (July 14)."
   image: /images/stock/hero-fitness02.jpeg
   description: Background image of fitness exercise equipment
   linkto: /news/2021/06/16/u-s-access-board-to-host-panel-discussions-on-inclusive-exercise-and-fitness-equipment/
   linktext: Learn More
 
 - title: Autonomous Vehicles
-  text: "Learn more about the Board's public forum on autonomous vehicles (March-April 2021)"
+  text: "Learn more about the Board's public forum on autonomous vehicles (March-April 2021)."
   image: /images/stock/av-hero.jpg
   description: Background CAD drawing of a vehicle
   linkto: /av/
   linktext: Learn More
 
 - title: Kiosks
-  text: "Learn more about the Board’s event on access to self-service transaction machines (SSTMs)."
+  text: "Learn more about the Board’s event on access to kiosks and other self-service transaction machines (SSTMs)."
   image: /images/stock/hero-kiosk.jpeg
   description: Background image of person using airport kiosk
   linkto: /news/2021/05/24/u-s-access-board-conducts-panel-discussions-on-self-service-transaction-machines/
