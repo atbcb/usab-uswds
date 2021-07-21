@@ -12,7 +12,7 @@ permalink: /about/meetings.html
 
 Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Since the COVID-19 pandemic, Board meetings are held virtually.  
 
-The next virtual meeting of the Board on **September 22** will feature a briefing on the results of a Board [study]({{ site.baseurl }}/aircraft/) on the feasibility of installing wheelchair securement systems on aircraft. Further details will be posted. 
+The next virtual meeting of the Board on **September 22** will feature a briefing on the results of a Board [Study on the Feasibility of Wheelchair Securement Systems on Aircraft]({{ site.baseurl }}/aircraft/). Further details will be posted. 
 
 At its last meeting on July 14, the Board conducted a program on "[Moving Forward: Access to Inclusive Fitness Equipment]({{ site.baseurl }}/news/2021/07/15/u-s-access-board-holds-virtual-meeting-on-inclusive-exercise-and-fitness-equipment/)".
  
