@@ -27,9 +27,9 @@ permalink: /av/report.html
 
 ## Introduction
 
-Self-driving cars, shuttles, and other vehicles stand to revolutionize transportation and potentially expand transit options for people with disabilities. In the spring of 2021, the U.S. Access Board, in partnership with other federal agencies, conducted a series of virtual meetings on making autonomous vehicles (AVs) accessible to passengers with disabilities. The Department of Labor's Office of Disability Employment Policy, the Department of Health and Human Service's Administration for Community Living, and other agencies joined the Board in this initiative. This report summaries the Board's forum and the information, ideas, and comments provided in the sessions and on the discussion platform. 
+Self-driving cars, shuttles, and other vehicles stand to revolutionize transportation and potentially expand transit options for people with disabilities.  In the spring of 2021, the U.S. Access Board, in partnership with other federal agencies, conducted a series of virtual meetings on making autonomous vehicles (AVs) accessible to passengers with disabilities.  The Department of Labor's Office of Disability Employment Policy, the Department of Health and Human Service's Administration for Community Living, and other agencies joined the Board in this initiative.  This report summaries the Board's forum and the information, ideas, and comments provided in the sessions and on the discussion platform. 
 
-The four-part series provided an open forum where members of the public and stakeholders shared information on designing AVs that are inclusive of everyone, including passengers with mobility, sensory, or cognitive disabilities.  Each 90-minute  session featured presentations by invited speakers who shared information and research results on design considerations and accessibility solutions.    After the presentations, members of the public had the opportunity to ask questions and to share comments, recommendations, and ideas.  The sessions were conducted through a webinar (ZoomGov) platform and recorded.  Recordings and other materials are available on the Board's [website](./). 
+The four-part series provided an open forum where members of the public and stakeholders shared information on designing AVs that are inclusive of everyone, including passengers with mobility, sensory, or cognitive disabilities.  Each 90-minute  session featured presentations by invited speakers who shared information and research results on design considerations and accessibility solutions.  After the presentations, members of the public had the opportunity to ask questions and to share comments, recommendations, and ideas.  The sessions were conducted through a webinar (ZoomGov) platform and recorded.  Recordings and other materials are available on the Board's [website](./forums.html). 
 
 The sessions covered:
 
@@ -38,13 +38,13 @@ The sessions covered:
 - Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1 (April 7)
 - Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2 (April 21)
 
-In addition, an online discussion platform (ePolicyWorks) provided further opportunity for dialogue and information sharing following the webinar sessions. This discussion forum was active during the series and remained so until two weeks after the last session. 
+In addition, an online discussion platform (ePolicyWorks) provided further opportunity for dialogue and information sharing following the webinar sessions.  This discussion forum was active during the series and remained so until two weeks after the last session. 
 
 ## Accessibility for Passengers with Mobility Disabilities: Part 1
 
 ![Greg Fehribach thumbnail portrait photo](./images/101-fehirbach.jpg){: .img-right }
 
-U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
+U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
 
 Fehribach then introduced a message from Secretary of Transportation **Pete Buttigieg** who emphasized the need to make AVs both safe and accessible for people with disabilities and remove barriers to transportation resources at large.  
 
@@ -59,7 +59,7 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
 
 ![Robin Hutcheson thumbnail portrait photo](./images/103-hutcheson.png){: .img-left }
 
-He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living. "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
+He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
 
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles{: .clear }
 
@@ -69,7 +69,7 @@ The session program focused on accessibility for passengers with mobility disabi
 
 The ADA vehicle guidelines do not specifically address AVs but may be applicable or informative to certain types of AVs.  DOT, not the Board, has the authority to determine which vehicles and transit systems are covered by the ADA and subject to its vehicle standards.  Duchesneau highlighted various provisions in the Board's vehicle guidelines solely as a resource or reference in addressing accessible design. 
 
-![An autonomous vehicle with doors open](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image016.png)The ADA guidelines for buses and vans address various features, including:
+![An autonomous vehicle with doors open](./images/105-av1of2.png){: .img-float }The ADA guidelines for buses and vans address various features, including:
 
 - walking surfaces;
 - vehicles ramps, bridge plates, and lifts;
