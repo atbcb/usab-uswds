@@ -1,6 +1,6 @@
 ---
 banner-title: Autonomous Vehicles
-title: Summary Report from Public Dialogue
+title: Public Forum on Inclusive Design of AVs: Summary Report
 layout: page-right-sidenav
 right-sidenav: sidenav-av.html
 permalink: /av/report.html
@@ -123,13 +123,13 @@ Frayne noted that BraunAbility has developed a number of solutions for AV access
 
 While the ADA standards also have a 56-inch minimum interior height, BraunAbility has created vehicles in the range of 59 to 61 inches.  Raising the height is not only desired but also more practical on a daily basis. 
 
-![Man using wheelchair exiting accessible minivan on a ramp](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image030.jpg)
+![Man using wheelchair exiting accessible minivan on a ramp](./images/110-av-ramp.jpg){: img-right }
 
 Frayne concluded by underscoring the need to innovate for both the present moment and the future, particularly regarding step-in, geometry, and batteries. BraunAbility continues to conduct research and create solutions with its recent opening of the Global Innovation Lab in Carmel, Indiana, that will work with Purdue to accelerate market shaping innovation in EVs, AVs, sensing, and Internet of things (IoT). 
 
 ### Public Comments and Questions - Session 1
 
-![Microphone at a podium](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image032.jpg)
+![Microphone at a podium](./images/000-microphone.jpg){: img-right }
 
 Following the presentations, a public forum allowed attendees to offer comments or pose questions on various topics related to the session.  Several commenters urged researchers and designers to consider accessibility in relation to the whole AV "ecosystem" and cover infrastructure design and the interaction or interoperability with vehicles with a "complete trip" paradigm.  One speaker specifically called attention to rural areas and ramp deployment in areas without sidewalks.
 
@@ -143,13 +143,13 @@ Speakers also addressed accessibility for other types of disabilities, including
 
 ## Accessibility for Passengers with Mobility Disabilities: Part 2
 
-![Dr. Sachin Dev Pavithran](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image034.jpg)The second session continued discussion of accessibility for passengers with mobility disabilities and focused on maneuvering and securement in vehicles. 
+![Dr. Sachin Dev Pavithran](./images/201-pavithran.jpg){: img-right }The second session continued discussion of accessibility for passengers with mobility disabilities and focused on maneuvering and securement in vehicles. 
 
 U.S. Access Board Executive Director **Sachin Pavithran** opened the program.  He noted, "As a blind person myself, I look forward to the day when accessible transportation is a conversation of the past where all transportation is accessible.  And autonomous vehicles could be an answer to some of those innovations that could take place." 
 
 He then introduced **Jennifer Sheehy **who is the Acting Director of [Office of Disability Employment Policy ](https://www.dol.gov/agencies/odep)(ODEP).  ODEP was an active partner on this forum and hosted the dialog platform that was open throughout the series. 
 
-![Jennifer Sheehy](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image036.png)
+![Jennifer Sheehy](./images/202-sheehy.jpg){: img-left }
 
 *"Many people don't realize that transportation is one of the most important and, perhaps, least appreciated components of employment success for people with disabilities.  After all, the best employment program or job opportunity means nothing and provides little benefit if people cannot access reliable transportation to work."*
 
@@ -159,26 +159,26 @@ Acting Director, ODEP
 
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles
 
-![Scott Windley](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image038.png)**Scott Windley**, an Accessibility Specialist with the U.S. Access Board, reviewed existing guidelines for transportation vehicles issued by the Board under the ADA.The [ADA Accessibility Guidelines for Transportation Vehicles](https://www.access-board.gov/ada/vehicles/) (1991) cover buses, vans, rail cars, and other transportation vehicles and serve as the basis for enforceable standards implemented by DOT.  The Board [updated](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/)  sections of the guidelines covering buses and vans in 2016, but these provisions are not yet included in DOT's enforceable standards.
+![Scott Windley](./images/203-windley.png){: img-right }**Scott Windley**, an Accessibility Specialist with the U.S. Access Board, reviewed existing guidelines for transportation vehicles issued by the Board under the ADA.  The [ADA Accessibility Guidelines for Transportation Vehicles](https://www.access-board.gov/ada/vehicles/) (1991) cover buses, vans, rail cars, and other transportation vehicles and serve as the basis for enforceable standards implemented by DOT.  The Board [updated](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/) sections of the guidelines covering buses and vans in 2016, but these provisions are not yet included in DOT's enforceable standards.
 
-![image of AV with ramp deployed person in power chair inside AV.  ](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image040.png)In addition to requirements for boarding and alighting access, the vehicle guidelines address:
+![image of AV with ramp deployed person in power chair inside AV.  ](./images/204-av1of2.png){: img-right }In addition to requirements for boarding and alighting access, the vehicle guidelines address:
 
 - walking surfaces;
 - accessible routes;
 - wheelchair space; and
 - securement systems.
 
-![Overhead image of AV with a clear floor space inside. Person in powerchair is in the clear floor space. ](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image042.png)These provisions specify sufficient clearances that allow passengers using wheelchairs and power chairs to proceed from vehicle entry to designated wheelchair spaces, position for securement within the space, and exit the vehicle.  Wheelchair turning space is recommended, though not required, to provide greater maneuverability and usability. 
+![Overhead image of AV with a clear floor space inside. Person in powerchair is in the clear floor space. ](./images/205-av2of2.png){: img-left }These provisions specify sufficient clearances that allow passengers using wheelchairs and power chairs to proceed from vehicle entry to designated wheelchair spaces, position for securement within the space, and exit the vehicle.  Wheelchair turning space is recommended, though not required, to provide greater maneuverability and usability. 
 
 ![Text Box: The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image043.png)Wheelchair spaces must be at least 30 inches wide and 48 inches long. An accessible route from the vehicle door must adjoin or overlap one unobstructed side of each wheelchair space. A securement system is required that typically is required to front-facing securement. 
 
 ### Presentation: Robotic Research Projects: New Flyer and Paralift
 
-![Bryan Brillhart](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image036.png)**Bryan Brilhart**, Director of Operations at [Robotic Research](https://www.roboticresearch.com/), gave a presentation on Robotic Research projects related to autonomous vehicles.  Robotic Research is a technology company and developer of autonomous systems for numerous military and commercial applications.
+![Bryan Brillhart](./images/206-brilhart.jpg){: img-right }**Bryan Brilhart**, Director of Operations at [Robotic Research](https://www.roboticresearch.com/), gave a presentation on Robotic Research projects related to autonomous vehicles.  Robotic Research is a technology company and developer of autonomous systems for numerous military and commercial applications.
 
 Brilhart discussed various applications of Robotic Research technology, including a project that involved the development of a precision docking system for an electric automated bus released earlier this year (New Flyer's Excelsior AV™).  The system enables the bus to pull up to boarding platforms within very close tolerances in a repeatable process for safe, level boarding at every stop. Another application of its technology is an autonomous system in a Local Motors low-speed shuttle.
 
-Robotic Research also developed an automatic loading and securement system, named Paralift ™. Designed to work with various types of vehicles, it allows passengers using wheelchairs to enter and exit vehicles independently.  The system uses Light Detection and Ranging (LIDAR) to ![A yellow and black van parked in a parking lot with lift deployed](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image046.png)generate 3D maps of surroundings.  It also detects the presence of passengers and the position of a ramp or lift, ensures area under the ramp or lift is clear before lowering, and halts operation if there is an obstruction.
+Robotic Research also developed an automatic loading and securement system, named Paralift™.  Designed to work with various types of vehicles, it allows passengers using wheelchairs to enter and exit vehicles independently.  The system uses Light Detection and Ranging (LIDAR) to ![A yellow and black van parked in a parking lot with lift deployed](./images/207-paralift.png){: img-right }generate 3D maps of surroundings.  It also detects the presence of passengers and the position of a ramp or lift, ensures area under the ramp or lift is clear before lowering, and halts operation if there is an obstruction.
 
 Key features of the Paralift system include:
 
@@ -194,19 +194,19 @@ Key features of the Paralift system include:
 
 - Voice-automated controls that allow passengers to hear what is going on with what the process is. 
 
-![Image of quantum securement system with scooter](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image049.png)Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https://www.qstraint.com/quantum/) securement system, which is intended to accommodate various types and sizes.  It uses a pair of arms to clamp onto the wheels of a wheelchair to secure it in place.  A three-point seat belt system (NHTSA crash-tested) is designed to rapidly and automatically secure passengers.
+![Image of quantum securement system with scooter](./images/208-securement1of4.png){: img-left }Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https://www.qstraint.com/quantum/) securement system, which is intended to accommodate various types and sizes.  It uses a pair of arms to clamp onto the wheels of a wheelchair to secure it in place.  A three-point seat belt system (NHTSA crash-tested) is designed to rapidly and automatically secure passengers.
 
 ![Text Box: Q'Straint's QUANTUM securement system](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image047.png)
 
 ### Presentation: University of Michigan Transportation Research Institute Project on Automated Wheelchair Tiedown & and Occupant Restraint System
 
-![Dr. Kathleen Klinich](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image036.png)![Miriam Manary ](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image036.png)**Dr. Kathleen Klinich** and **Miriam Manary** of the [University of Michigan's Transportation Research Institute](https://umtri.umich.edu/) (UMTRI) gave a presentation on research that is underway to develop an automated wheelchair tiedown and occupant restraint system. Funded by National Highway Traffic Safety Administration, the [project](https://umtri.umich.edu/research/projects/development-of-an-automated-wheelchair-tiedown-and-occupant-restraint-system/)  will test a "universal docking interface geometry" (UDIG) that features an anchorage system in the vehicle that can be used with any wheelchair equipped with the attachment hardware, similar in concept to a semi-truck trailer hitch.  While this kind of technology has been available, field tested, and evaluated for decades, it has not been widely implemented because it needs to be installed extensively on both wheelchairs and in vehicles. The need for independent docking options may have renewed interest in such a solution. 
+![Dr. Kathleen Klinich](./images/209-klinich.png){: img-right }![Miriam Manary ](./images/210-manary.jpg){: img-right }**Dr. Kathleen Klinich** and **Miriam Manary** of the [University of Michigan's Transportation Research Institute](https://umtri.umich.edu/) (UMTRI) gave a presentation on research that is underway to develop an automated wheelchair tiedown and occupant restraint system. Funded by National Highway Traffic Safety Administration, the [project](https://umtri.umich.edu/research/projects/development-of-an-automated-wheelchair-tiedown-and-occupant-restraint-system/)  will test a "universal docking interface geometry" (UDIG) that features an anchorage system in the vehicle that can be used with any wheelchair equipped with the attachment hardware, similar in concept to a semi-truck trailer hitch.  While this kind of technology has been available, field tested, and evaluated for decades, it has not been widely implemented because it needs to be installed extensively on both wheelchairs and in vehicles. The need for independent docking options may have renewed interest in such a solution. 
 
 Klinich and Manary's project, which started in October 2019, will develop an automated wheelchair docking station and seat belt through a combination of computational models, assessments of usability by volunteers, and dynamic sled testing. Klinich and Manary are currently using crash test modelling to determine the best place to position the wheelchair relative to the anchorage system and the positioning of shoulder and lap belt anchors. Additionally, they are evaluating the potential benefits of an airbag restraint for occupants using wheelchairs.
 
 |  |  |  |  |
 |  | ![UDIG anchorage dock design rendering
-showing two lateral facing anchor hooks that deploy using a two smaller actuators.  ](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image054.png) |  | ![Rear view of manual wheelchair showing UDIG attachments. Two vertical posts are located between the rear wheels, and attached to the frame with horizontal rods at the top and bottom that extend back to near the tiedown hooks.](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image055.png) |
+showing two lateral facing anchor hooks that deploy using a two smaller actuators.  ](./images/211-securement2of4.png) |  | ![Rear view of manual wheelchair showing UDIG attachments. Two vertical posts are located between the rear wheels, and attached to the frame with horizontal rods at the top and bottom that extend back to near the tiedown hooks.](./images/212-securement3of4.jpg) |
 
 |  |  |  |  |
 |  |
@@ -217,7 +217,7 @@ Wheelchair attachment for UDIG system.
  |
  |
 
-Klinich and Manary designed a prototype with attachments for both manual and power wheelchairs. Both attachment styles have a vertical bar spaced in between the rear wheels. ![Universal docking interface geometry installed in vehicle used in testing](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image057.png)Users back their wheelchair into the station and align the attachments on their wheelchair against the docking system which has two hooks that deploy outward and connect to the attachments.
+Klinich and Manary designed a prototype with attachments for both manual and power wheelchairs. Both attachment styles have a vertical bar spaced in between the rear wheels. ![Universal docking interface geometry installed in vehicle used in testing](./images/213-securement4of4.png){: img-right }Users back their wheelchair into the station and align the attachments on their wheelchair against the docking system which has two hooks that deploy outward and connect to the attachments.
 
 While the geometry for the vertical components is specified, the method for attachment would differ depending upon the structure of the wheelchair itself. Klinich and Manary noted that securement near the hooks would aid in using the four-point strap tiedown because those parts of the wheelchair have been crash-tested and should be durable and sturdy enough to work with the attachment system. The next phase of their research will involve minimizing the size of the attachments and better integration of them with the design of wheelchairs. The presentation included a video showing how the docking and seat belt system operates.
 
@@ -226,11 +226,11 @@ Klinich and Manary expect to complete the project in June 2021 and plan to have 
 ### Presentation: Research on Vehicle Interior Seating Layout and Wheelchair Securement by the Center for Inclusive Design and Environmental Access
 
 ![Dr. Jordana Maisel
-](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image059.png)
+](./images/214-maisel.png){: img-right }
 
 **Dr. Jordana L. Maisel** co-directs research at the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu/) (IDeA Center) at the University of Buffalo, which has been engaged in over a decade of research related to accessible public transportation. She shared information on research the IDeA Center has conducted on wheelchair maneuvering and securement on fixed route buses that may be pertinent to AVs.
 
-![Photograph of a participant, who uses a walking aid, rising up from longitudinal seating in the bus simulator.](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image061.png)
+![Photograph of a participant, who uses a walking aid, rising up from longitudinal seating in the bus simulator.](./images/215-busstudy1of2.png){: img-left }
 
 One [study](http://idea.ap.buffalo.edu/2019/04/05/improving-bus-interior-design/)  used full-scale simulated buses to assess the impact of interior bus seating layouts on movement and usability for individuals who use wheeled mobility devices, who are blind or have low vision, or who use walking aids. The project involved three bus layouts and mannequins to explore reconfigurable seating layouts and simulate crowding conditions. The study included 90 participants (48 wheeled mobility device users, 18 individuals who are blind or have low vision, and 24 walking aid users).  All participants undertook a simulated bus journey that included boarding from a sidewalk, using a smart card for fare payment, locating and moving to a vacant seat, getting into and out of the seat, and moving to the exit door. 
 
@@ -244,7 +244,7 @@ The IDeA Center also conducted a [lab study](https://www.tandfonline.com/doi/abs
 
 The four-point system took significantly longer to secure than the three-point forward-facing and the semiautomated rear-facing systems.  The semiautomated rear-facing system was significantly faster than both the four-point and three-point systems.  Most participants preferred the semiautomated rear-facing system (9 of 15 manual chair users, 10 of 15 power chair users, and all 6 scooter users).
 
-![Photo of woman using the 3-point tie-down systems on an actual fixed-route bus.](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image063.png)
+![Photo of woman using the 3-point tie-down systems on an actual fixed-route bus.](./images/216-busstudy2of2.jpg){: img-right }
 
 The IDeA Center then field tested the three-point and semiautomated securement systems to determine if usability findings in the lab are generally applicable to every day transit conditions that include time pressures, crowding, and interactions with professional bus operators.  The study involved 40 participants (14 manual wheelchair users, 19 power wheelchair users, and 7 scooter users). 
 
@@ -259,7 +259,7 @@ Findings indicated:
 
 ### Public Comments and Questions - Session 2
 
-![Microphone at a podium](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image064.png)
+![Microphone at a podium](./images/000-microphone.jpg){: img-right }
 
 In the public forum that followed, a number of public comments and questions concerned wheelchair securement systems.  Questions were posed on how to provide a universal securement system and whether systems will accommodate all wheeled mobility aids, including pediatric wheelchairs.  One commenter asked how passengers who need assistance will use a vehicle or its securement system.  Another asked whether securement systems are needed on all AVs since some AVs operate in systems with low speeds. 
 
@@ -337,7 +337,7 @@ Vogler concluded his presentation by discussing how communication systems, both 
 
 ### Public Comments and Questions - Session 3
 
-![Microphone at a podium](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image064.png)**Bruce Bailey**, an Accessibility Specialist with the U.S. Access Board, moderated the public forum that followed.  One commenter called attention to providing access for passengers with multiple disabilities, as well as the need to address access in all conditions, including emergencies.  In response to a question about the Rutgers focus group, Andrea Lubin and Dr. Cecilia Feeley noted that participants were not hesitant to use vehicle on-board communication systems, but they would prefer to use their own phones to schedule the ride.  
+![Microphone at a podium](./images/000-microphone.jpg){: img-right }**Bruce Bailey**, an Accessibility Specialist with the U.S. Access Board, moderated the public forum that followed.  One commenter called attention to providing access for passengers with multiple disabilities, as well as the need to address access in all conditions, including emergencies.  In response to a question about the Rutgers focus group, Andrea Lubin and Dr. Cecilia Feeley noted that participants were not hesitant to use vehicle on-board communication systems, but they would prefer to use their own phones to schedule the ride.  
 
 One commenter requested that passengers with electromagnetic sensitivities be involved in the design of AVs so that their needs are addressed, such as hardwiring systems to avoid exposure to wireless signals.  Another speaker recommended that designers consider higher levels of automation, which is where innovation is heading, instead of where the technology is starting today.  In addition, research on AVs and disability needs should cover the full range of users and should not be segmented by disability type.  
 
@@ -433,7 +433,7 @@ The Clinger-Cohen definition of IT seems perfectly applicable to automata, inclu
 
 ### Public Comments and Questions - Session 4
 
-![Microphone at a podium](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image064.png)
+![Microphone at a podium](./images/000-microphone.jpg){: img-right }
 
 Bailey moderated the open forum that followed. One attendee called attention to the need for people with cognitive disabilities to be able to identify their assigned AV. Some questions concerned adequate legislation and regulation for AV accessibility.  For example, one addressed whether conversation between a passenger and an artificial intelligence device is covered by FCC regulations which apply primarily to conversation between people.  Another asked about regulations needed to address access to privately owned AVs used for ride-share services. There was also a discussion about the importance of personalization, and how the W3C, including the Accessible Platform Architectures Working Group, was well-suited as a coordination point for specifications of the data formats and interoperability.
 
