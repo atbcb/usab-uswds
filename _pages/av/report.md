@@ -12,6 +12,8 @@ permalink: /av/report.html
 
 **July 2021**
 
+We also have this [AV Forum Summary Report in PDF format]({{ site.baseref }}/files/presentations/usab-av-forum-summary-report.pdf).
+
 ### Important Note
 
 *The U.S. Access Board presented a series of virtual events entitled "Inclusive Design of Autonomous Vehicles: A Public Dialogue" in March and April 2021 for the purpose of exchanging facts and information about autonomous vehicle (AV) accessibility, and to hear thoughts from individuals on how to ensure that autonomous vehicles are accessible to and usable by persons with disabilities.*
@@ -130,9 +132,10 @@ While the ADA standards also have a 56-inch minimum interior height, BraunAbil
 
 ![Man using wheelchair exiting accessible minivan on a ramp](./images/110-av-ramp.jpg){: .img-right }
 
-Frayne concluded by underscoring the need to innovate for both the present moment and the future, particularly regarding step-in, geometry, and batteries. BraunAbility continues to conduct research and create solutions with its recent opening of the Global Innovation Lab in Carmel, Indiana, that will work with Purdue to accelerate market shaping innovation in EVs, AVs, sensing, and Internet of things (IoT). 
+Frayne concluded by underscoring the need to innovate for both the present moment and the future, particularly regarding step-in, geometry, and batteries. BraunAbility continues to conduct research and create solutions with its recent opening of the Global Innovation Lab in Carmel, Indiana, that will work with Purdue to accelerate market shaping innovation in EVs, AVs, sensing, and Internet of things (IoT).
 
 ### Public Comments and Questions - Session 1
+{: .clear }
 
 ![Microphone at a podium](./images/000-microphone.jpg){: .img-right }
 
@@ -160,18 +163,18 @@ He then introduced **Jennifer Sheehy **who is the Acting Director of [Office of
 
 *"Many people don't realize that transportation is one of the most important and, perhaps, least appreciated components of employment success for people with disabilities.  After all, the best employment program or job opportunity means nothing and provides little benefit if people cannot access reliable transportation to work."*
 
-Jennifer Sheehy 
-
+Jennifer Sheehy /
 Acting Director, ODEP
 
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles
+{: .clear }
 
 ![Scott Windley](./images/203-windley.jpg){: .img-right }
 
 **Scott Windley**, an Accessibility Specialist with the U.S. Access Board, reviewed existing guidelines for transportation vehicles issued by the Board under the ADA.  The [ADA Accessibility Guidelines for Transportation Vehicles](https://www.access-board.gov/ada/vehicles/) (1991) cover buses, vans, rail cars, and other transportation vehicles and serve as the basis for enforceable standards implemented by DOT.  The Board [updated](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/) sections of the guidelines covering buses and vans in 2016, but these provisions are not yet included in DOT's enforceable standards.
 {: .clear }
 
-![image of AV with ramp deployed person in power chair inside AV.  ](./images/204-av1of2.jpg){: .img-right }
+![Illustration of AV with ramp deployed person in power chair inside AV.](./images/204-av1of2.jpg){: .img-right }
 
 In addition to requirements for boarding and alighting access, the vehicle guidelines address:
 
@@ -180,11 +183,11 @@ In addition to requirements for boarding and alighting access, the vehicle guide
 - wheelchair space; and
 - securement systems.
 
-![Overhead image of AV with a clear floor space inside. Person in powerchair is in the clear floor space. ](./images/205-av2of2.jpg){: .img-left }
+![Overhead illustration of AV with a clear floor space inside, showing person in powerchair in the clear floor space.](./images/205-av2of2.jpg){: .img-left }
+
+*The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.*
 
 These provisions specify sufficient clearances that allow passengers using wheelchairs and power chairs to proceed from vehicle entry to designated wheelchair spaces, position for securement within the space, and exit the vehicle.  Wheelchair turning space is recommended, though not required, to provide greater maneuverability and usability. 
-
-![Text Box: The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image043.png)
 
 Wheelchair spaces must be at least 30 inches wide and 48 inches long. An accessible route from the vehicle door must adjoin or overlap one unobstructed side of each wheelchair space. A securement system is required that typically is required to front-facing securement. 
 
@@ -196,11 +199,13 @@ Wheelchair spaces must be at least 30 inches wide and 48 inches long. An accessi
 
 Brilhart discussed various applications of Robotic Research technology, including a project that involved the development of a precision docking system for an electric automated bus released earlier this year (New Flyer's Excelsior AV™).  The system enables the bus to pull up to boarding platforms within very close tolerances in a repeatable process for safe, level boarding at every stop. Another application of its technology is an autonomous system in a Local Motors low-speed shuttle.
 
-Robotic Research also developed an automatic loading and securement system, named Paralift™.  Designed to work with various types of vehicles, it allows passengers using wheelchairs to enter and exit vehicles independently.  The system uses Light Detection and Ranging (LIDAR) to ![A yellow and black van parked in a parking lot with lift deployed](./images/207-paralift.png){: .img-right }generate 3D maps of surroundings.  It also detects the presence of passengers and the position of a ramp or lift, ensures area under the ramp or lift is clear before lowering, and halts operation if there is an obstruction.
+![A yellow and black van parked in a parking lot with lift deployed](./images/207-paralift.jpg){: .img-right }
+
+*Robotic Research's Paralift System*
+
+Robotic Research also developed an automatic loading and securement system, named Paralift™.  Designed to workwith various types of vehicles, it allows passengers using wheelchairs to enter and exit vehicles independently.  The system uses Light Detection and Ranging (LIDAR) to generate 3D maps of surroundings.  It also detects the presence of passengers and the position of a ramp or lift, ensures area under the ramp or lift is clear before lowering, and halts operation if there is an obstruction.
 
 Key features of the Paralift system include:
-
-![Text Box: Robotic Research's Paralift System](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image047.png)
 
 - Vehicle doors and a hydraulic lift activate automatically by using sensors that scan the environment, including curbs;
 - Automated door opening and wheelchair lift system that waits for the passenger to board the lift, verifies safety surrounding the lift, and then raises the lift to the boarding level of the vehicle;
@@ -210,17 +215,17 @@ Key features of the Paralift system include:
 
 ![Image of quantum securement system with scooter](./images/208-securement1of4.png){: .img-left }
 
+*Q'Straint's QUANTUM securement system*
+
 Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https://www.qstraint.com/quantum/) securement system, which is intended to accommodate various types and sizes.  It uses a pair of arms to clamp onto the wheels of a wheelchair to secure it in place.  A three-point seat belt system (NHTSA crash-tested) is designed to rapidly and automatically secure passengers.
 
-![Text Box: Q'Straint's QUANTUM securement system](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image047.png)
-
-### Presentation: University of Michigan Transportation Research Institute Project on Automated Wheelchair Tiedown & and Occupant Restraint System
+### Presentation: University of Michigan Transportation Research Institute Project on Automated Wheelchair Tiedown and Occupant Restraint System
 
 ![Dr. Kathleen Klinich](./images/209-klinich.jpg){: .img-right }
 
 **Dr. Kathleen Klinich** and **Miriam Manary** of the [University of Michigan's Transportation Research Institute](https://umtri.umich.edu/) (UMTRI) gave a presentation on research that is underway to develop an automated wheelchair tiedown and occupant restraint system. Funded by National Highway Traffic Safety Administration, the [project](https://umtri.umich.edu/research/projects/development-of-an-automated-wheelchair-tiedown-and-occupant-restraint-system/)  will test a "universal docking interface geometry" (UDIG) that features an anchorage system in the vehicle that can be used with any wheelchair equipped with the attachment hardware, similar in concept to a semi-truck trailer hitch.  While this kind of technology has been available, field tested, and evaluated for decades, it has not been widely implemented because it needs to be installed extensively on both wheelchairs and in vehicles. The need for independent docking options may have renewed interest in such a solution. 
 
-![Miriam Manary ](./images/210-manary.jpg){: img-right }
+![Miriam Manary ](./images/210-manary.jpg){: .img-right }
 
 Klinich and Manary's project, which started in October 2019, will develop an automated wheelchair docking station and seat belt through a combination of computational models, assessments of usability by volunteers, and dynamic sled testing. Klinich and Manary are currently using crash test modelling to determine the best place to position the wheelchair relative to the anchorage system and the positioning of shoulder and lap belt anchors. Additionally, they are evaluating the potential benefits of an airbag restraint for occupants using wheelchairs.
 
@@ -246,7 +251,7 @@ Klinich and Manary expect to complete the project in June 2021 and plan to have 
 
 **Dr. Jordana L. Maisel** co-directs research at the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu) (IDeA Center) at the University of Buffalo, which has been engaged in over a decade of research related to accessible public transportation. She shared information on research the IDeA Center has conducted on wheelchair maneuvering and securement on fixed route buses that may be pertinent to AVs.
 
-![Photograph of a participant, who uses a walking aid, rising up from longitudinal seating in the bus simulator.](./images/215-busstudy1of2.png){: .img-left }
+![photo of a participant, who uses a walking aid, rising up from longitudinal seating in the bus simulator](./images/215-busstudy1of2.png){: .img-left }
 
 One [study](http://idea.ap.buffalo.edu/2019/04/05/improving-bus-interior-design/)  used full-scale simulated buses to assess the impact of interior bus seating layouts on movement and usability for individuals who use wheeled mobility devices, who are blind or have low vision, or who use walking aids. The project involved three bus layouts and mannequins to explore reconfigurable seating layouts and simulate crowding conditions. The study included 90 participants (48 wheeled mobility device users, 18 individuals who are blind or have low vision, and 24 walking aid users).  All participants undertook a simulated bus journey that included boarding from a sidewalk, using a smart card for fare payment, locating and moving to a vacant seat, getting into and out of the seat, and moving to the exit door. 
 
@@ -288,7 +293,6 @@ Additional comments addressed access to AVs used for taxi service, payment syste
 ![Dr. Victor Pineda](./images/301-pineda.png){: .img-right }
 
 The third session focused on ride-hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.  U.S. Access Board Public Member Dr. Victor Santiago Pineda, who is a Professor of Urban Planning at University of California-Berkley and President of [World Enabled](https://worldenabled.org), opened the meeting. 
-{: .clear }
 
 ![Sarah Pressley](./images/302-presley.jpg){: .img-right }
 
@@ -298,13 +302,15 @@ The third session focused on ride-hailing and on-board communication for passeng
 
 ### Presentation: Results of Focus Groups on AVs and Persons with Disabilities by Rutgers University and Princeton University
 
-![Text Box: Dr. Cecilia Feeley](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image069.png)![Text Box: Andrea Lubin](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image070.png)
-
 ![Andrea Lubin](.images/304-lubin.jpg){: .img-right }
+
+*Andrea Lubin*
 
 Dr. Cecilia Feeley, Transportation Autism Project Manager, and Andrea Lubin, Senior Researcher, at Rutgers University gave a presentation on their findings from a series of focus groups of adults with disabilities who took short autonomous shuttle rides. A core intent of this [research](https://cait.rutgers.edu/research/autonomous-vehicles-capturing-in-vehicle-experience-focus-group-follow-up-with-persons-with-autism-and-other-disabilities-at-the-2019-princeton-university-smartdrivingcar-summit/)  was to gather feedback and recommendations from persons with visual or cognitive disabilities.  Conducted jointly by Rutgers University and Princeton University, the study convened four focus groups with a total of 21 participants.
 
 ![Dr. Cecilia Feeley](./images/303-feeley.jpg){: .img-right }
+
+*Dr. Cecilia Feeley*
 
 The majority of participants said that they do not use personal assistance for their current modes of transportation and would not need personal assistance using AVs, at least not in the long term. Some participants with developmental disabilities did say that they would like the option of having a family member accompany them on AV trips until they felt comfortable traveling independently using this new mode of transportation. Some participants who are blind or have low vision said that it would be helpful if assistance was always available to open and close vehicle doors, provide guidance to available seats, help with passenger bags, and secure wheelchairs or other mobility devices. 
 
@@ -490,7 +496,7 @@ Bailey moderated the open forum that followed. One attendee called attention to 
 
 ### References - Session 4
 
-[Session Recording](https://youtu.be/ImQoLk0CQoc?t=1 "external link")  Presentations: [PowerPoint](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-21.pptx)  (5 MB) [PDF](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-21.pdf)  (3 MB)
+[Session Recording](https://youtu.be/ImQoLk0CQoc?t=1 "external link") Presentations: [PowerPoint](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-21.pptx)  (5 MB) [PDF](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-21.pdf)  (3 MB)
 
 ## Summary of Comments from AV Online Dialogue
 
