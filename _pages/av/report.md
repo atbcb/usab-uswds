@@ -19,11 +19,11 @@ permalink: /av/report.html
 ### Table of Contents
 
 - [Introduction](introduction)
-- [Accessibility for Passengers with Mobility Disabilities: Part 1](accessibility-for-passengers-with-mobility-disabilities-part-1)
-- [Accessibility for Passengers with Mobility Disabilities: Part 2](accessibility-for-passengers-with-mobility-disabilities-part-2)
-- [Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1](accessibility-for-passengers-with-sensory-and-cognitive-disabilities-part-1)
-- [Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2](accessibility-for-passengers-with-sensory-and-cognitive-disabilities-part-2)
-- [Summary of Comments from AV Online Dialogue](summary-of-comments-from-av-online-dialogue)
+- [Accessibility for Passengers with Mobility Disabilities: Part 1](#accessibility-for-passengers-with-mobility-disabilities-part-1)
+- [Accessibility for Passengers with Mobility Disabilities: Part 2](#accessibility-for-passengers-with-mobility-disabilities-part-2)
+- [Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1](#accessibility-for-passengers-with-sensory-and-cognitive-disabilities-part-1)
+- [Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2](#accessibility-for-passengers-with-sensory-and-cognitive-disabilities-part-2)
+- [Summary of Comments from AV Online Dialogue](#summary-of-comments-from-av-online-dialogue)
 
 ## Introduction
 
