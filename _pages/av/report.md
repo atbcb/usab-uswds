@@ -1,6 +1,6 @@
 ---
 banner-title: Autonomous Vehicles
-title: Public Forum on Inclusive Design of AVs: Summary Report
+title: 'Public Forum on Inclusive Design of AVs: Summary Report'
 layout: page-right-sidenav
 right-sidenav: sidenav-av.html
 permalink: /av/report.html
