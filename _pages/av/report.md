@@ -3,13 +3,12 @@ banner-title: Autonomous Vehicles
 title: 'Public Forum on Inclusive Design of AVs: Summary Report'
 layout: page-right-sidenav
 right-sidenav: sidenav-av.html
-file: /files/presentations/usab-av-forum-summary-report.pdf
-file-description: PDF version of AV Forum Summary Report
 permalink: /av/report.html
 ---
 
 ## {{page.title}}
 
+![Access Board seal with star](./images/AB-seal.png){: img-right }
 **July 2021**
 
 ### Important Note
@@ -111,7 +110,7 @@ In summary, the IDeA Center's project supports a maximum slope for vehicle 
 
 ### Presentation: National Mobility Equipment Dealers Association and BraunAbility
 
-![NMEDA logo](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image026.png) 
+![NMEDA logo](./images/1-nmeda.png){: img-right } 
 
 **Amy Schoppman**, Director of Governmental Affairs at the [National Mobility Equipment Dealers Association](https://nmeda.org/) (NMEDA), spoke briefly about the need to work collectively to ensure that the associated complexities and challenges of AVs are addressed for accessibility and inclusivity.  She introduced the next speaker, **Kevin Frayne** who is Director of Advanced Mobility Solutions at [BraunAbility](https://www.braunability.com/us/en.html), which is one of NMEDA's member companies. 
 
@@ -309,7 +308,7 @@ Brewer concluded with a couple points for future researchers and designers. Firs
 
 ### Presentation: Anil Lewis of the National Federation of the Blind
 
-![Anil Lewis ](./images/308-lewis.png){: img-right }The next speaker was Anil Lewis who is Executive Director of Blindness Initiatives at the National Federation of the Blind(NFB), which has developed some relationships with automobile manufacturers and researchers through its work with the [Blind Driver Challenge](https://nfb.org/programs-services/center-excellence-nonvisual-access/blind-driver-challenge).Lewis invited the audience to take an imaginary virtual trip in an AV as a passenger who is blind, from requesting service for the vehicle, to taking the ride, and to arriving at the destination. 
+![Anil Lewis](./images/308-lewis.png){: img-right }The next speaker was Anil Lewis who is Executive Director of Blindness Initiatives at the National Federation of the Blind(NFB), which has developed some relationships with automobile manufacturers and researchers through its work with the [Blind Driver Challenge](https://nfb.org/programs-services/center-excellence-nonvisual-access/blind-driver-challenge).Lewis invited the audience to take an imaginary virtual trip in an AV as a passenger who is blind, from requesting service for the vehicle, to taking the ride, and to arriving at the destination. 
 
 As Lewis took forum attendees through this virtual trip, he noted several complications and complexities for individuals who are blind interacting with AVs. He observed that the ridesharing model provides a viable model for requesting the vehicle via a smart phone app, but this app must be accessible to people who are blind. For those who are less tech savvy, requesting the ride through traditional telephone may provide an option, either by speaking with a customer service representative or working through an automated system.  
 
@@ -327,7 +326,7 @@ Lewis stressed that a blind person's level of travel training will inform their
 
 ### Presentation: AVs from a Deaf/Hard of Hearing Perspective
 
-![Dr. Christian Vogler](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image059.png)Dr. Christian Vogler, Director of the [Technology Access Program at Gallaudet University](https://tap.gallaudet.edu/), presented on AV communication from a deaf or hard of hearing perspective. Dr. Vogler noted that there is very little research on making AVs accessible for people who are deaf or hard of hearing, thus one must look to research on other topics and integrate that research into what would be useful for AVs. He posed several broad questions that warrant attention: how do passengers who are deaf or hard of hearing tell the vehicle what to do, where to go, and what to look for? How does the vehicle give passengers who are deaf or hard of hearing information, such as direction of travel and detours? How is the deaf passenger alerted to an emergency situation? And how does the deaf passenger communicate with the outside world from inside the AV?
+![Dr. Christian Vogler](./images/309-vogler.png){: img-right }Dr. Christian Vogler, Director of the [Technology Access Program at Gallaudet University](https://tap.gallaudet.edu/), presented on AV communication from a deaf or hard of hearing perspective. Dr. Vogler noted that there is very little research on making AVs accessible for people who are deaf or hard of hearing, thus one must look to research on other topics and integrate that research into what would be useful for AVs. He posed several broad questions that warrant attention: how do passengers who are deaf or hard of hearing tell the vehicle what to do, where to go, and what to look for? How does the vehicle give passengers who are deaf or hard of hearing information, such as direction of travel and detours? How is the deaf passenger alerted to an emergency situation? And how does the deaf passenger communicate with the outside world from inside the AV?
 
 Currently, the main way of communicating with vehicles is through voice interface systems, similar to Alexa or Google Assistant. These interfaces are good in that one is not as distracted as one might be by looking at a keyboard, but they are not usable for someone who does not communicate by voice or who has speech that the interface may not understand. Research is needed into designing full-featured, safe, and effective alternatives to these voice interface systems. Researchers at Gallaudet University are currently investigating the feasibility of using a limited set of gestures, signs, and tactile methods to replace the voice control for such an interface. Technology is not yet available to use more than a limited set of gestures and signs.  
 
@@ -349,13 +348,13 @@ One commenter requested that passengers with electromagnetic sensitivities be in
 
 ## Accessibility for Passengers with Sensory & Cognitive Disabilities: Part 2
 
-![Karen Tamley ](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image036.png)The fourth and final session in the series continued discussion of communication accessibility in hailing and interacting with AVs for passengers with hearing, visual, or cognitive disabilities. U.S. Access Board Public Member **Karen Tamley** opened the session with remarks on the value of AVs in expanding travel options for passengers with disabilities.
+![Karen Tamley ](./images/401-tamley.jpg){: img-right }The fourth and final session in the series continued discussion of communication accessibility in hailing and interacting with AVs for passengers with hearing, visual, or cognitive disabilities. U.S. Access Board Public Member **Karen Tamley** opened the session with remarks on the value of AVs in expanding travel options for passengers with disabilities.
 
 U.S. Access Board Accessibility Specialist **Sarah Presley** hosted the event and introduced the guest speakers.
 
 ### Presentation: Communication Accessibility in Hailing and Interacting with Autonomous Vehicles
 
-![Dr. Aaron Steinfeld ](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image038.png)
+![Dr. Aaron Steinfeld ](./images/402-steinfeld.png){: img-right }
 
 **Dr. Aaron Steinfeld**, Associate Research Professor at Carnegie Mellon University, leads the Transportation, Bots, and Disability (TBD) Lab of the [Robotics Institute at Carnegie Mellon University](https://www.ri.cmu.edu/robotics-groups/tbd-lab/). Steinfeld emphasized that the design of accessible AVs requires collaboration and teamwork across institutions and organizations. Correspondingly, his presentation drew on several different projects and sponsors, including National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR), National Science Foundation's National Robotics Initiative, and DOT.
 
@@ -373,7 +372,7 @@ Researchers and designers will need to account for how weather conditions, unant
 
 ### Presentation: Cognitive Access to Autonomous Vehicles
 
-![Dr. Gregg Vanderheiden ](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image038.png)**Dr. Gregg Vanderheiden**, Professor in the College of Information Studies and Director of the [Trace Research and Development Center](https://trace.umd.edu/)  at the University of Maryland-College Park discussed cognitive access to AVs.  He noted that cognitive disabilities are not a singular group but encompass a wide range of groups and oftentimes present concurrent with other physical, visual, or hearing disabilities. This calls for a spectrum of interface solutions that allows passengers to choose a method of interacting with AVs that work best for them at a given moment. Addressing the needs of myriad users with cognitive disabilities will result in more useable products for everyone.
+![Dr. Gregg Vanderheiden ](./images/403-vanderheiden.png){: img-right }**Dr. Gregg Vanderheiden**, Professor in the College of Information Studies and Director of the [Trace Research and Development Center](https://trace.umd.edu/)  at the University of Maryland-College Park discussed cognitive access to AVs.  He noted that cognitive disabilities are not a singular group but encompass a wide range of groups and oftentimes present concurrent with other physical, visual, or hearing disabilities. This calls for a spectrum of interface solutions that allows passengers to choose a method of interacting with AVs that work best for them at a given moment. Addressing the needs of myriad users with cognitive disabilities will result in more useable products for everyone.
 
 Vanderheiden focused on issues and challenges when a passenger is aboard an AV. For example, passengers may change their desired destination while in transit, and AVs must be able to adjust to such requests in an accessible way. AVs need to cover or provide options for a wide range of travelers, including those with memory loss, those who are easily confused, those who are not able to give clear instructions, and those who use unique words or phrases that are only meaningful to themselves and other people but not to AVs.  In addition, systems must also accommodate those who have accents, non-English speakers, individuals who communicate in sign language, and those unfamiliar with apps.
 
@@ -403,17 +402,17 @@ He also reviewed concerns for privacy and potential for data abuse, supplementin
 
 ### Presentation: Federal Communications Commission (FCC) Rules Related to AVs
 
-![Darryl Cooper](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image038.png)**Darryl Cooper**, Attorney Advisor with the FCC Disability Rights Office, addressed FCC rules that that are applicable to AV communication systems. He noted that two-way live wireless communications are covered by FCC rules, as well as text messages.  In-car entertainment systems are already explicitly covered, and there are well established accessibility requirements for captioning, audio description, emergency communications, user interface, and program guides. Additionally, FCC rules require that user interfaces and program guides for communication and video programming need to be accessible. From a layperson's perspective, these in-car entertainment systems would be expected to be leveraged as the default tool for interacting with an AV.
+![Darryl Cooper](./images/404-cooper.png){: img-right }**Darryl Cooper**, Attorney Advisor with the FCC Disability Rights Office, addressed FCC rules that that are applicable to AV communication systems. He noted that two-way live wireless communications are covered by FCC rules, as well as text messages.  In-car entertainment systems are already explicitly covered, and there are well established accessibility requirements for captioning, audio description, emergency communications, user interface, and program guides. Additionally, FCC rules require that user interfaces and program guides for communication and video programming need to be accessible. From a layperson's perspective, these in-car entertainment systems would be expected to be leveraged as the default tool for interacting with an AV.
 
-![FCC seal](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image086.png)He noted that the FCC [Disability Rights Office](https://www.fcc.gov/accessibility) is available for guidance on resolving communication accessibility issues that fall under FCC rules. He also mentioned that solutions to communication service issues are already in the marketplace. For example, people who are blind or have cognitive disabilities can activate a user interface to begin a phone call or text message. Voice activation also works, as well as automatic speech recognition (ASR). For people who are deaf, hard of hearing, deafblind, or have speech disabilities, text-based solutions such as real-time text and ASR providers are researching how to program their ASR for people with speech disabilities.
+![FCC seal](./images/405-fcc.png){: img-left }He noted that the FCC [Disability Rights Office](https://www.fcc.gov/accessibility) is available for guidance on resolving communication accessibility issues that fall under FCC rules. He also mentioned that solutions to communication service issues are already in the marketplace. For example, people who are blind or have cognitive disabilities can activate a user interface to begin a phone call or text message. Voice activation also works, as well as automatic speech recognition (ASR). For people who are deaf, hard of hearing, deafblind, or have speech disabilities, text-based solutions such as real-time text and ASR providers are researching how to program their ASR for people with speech disabilities.
 
 ### Presentation: Accessible Transportation and the World Wide Web Consortium (W3C)
 
-![Ted Guild ](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image066.png)**Ted Guild** of the [World Wide Web Consortium](https://www.w3.org/) (W3C) spoke about the W3C's current activity with the "internet of things" and the implications for automotive and transportations industries. He described activities of the [Web Accessibility Initiative](https://www.w3.org/WAI/) (WAI) to make the web accessible through the development of normative specifications, documented technical assistance, and best practices. These include [Accessible Rich Internet Applications](https://www.w3.org/WAI/standards-guidelines/aria/)  (WAI-ARIA), [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) (WCAG), and specification review by the[Accessible Platform Architectures Working Group](https://www.w3.org/WAI/APA/) (APA WG).
+![Ted Guild ](./images/406-guild.jpg){: img-right }**Ted Guild** of the [World Wide Web Consortium](https://www.w3.org/) (W3C) spoke about the W3C's current activity with the "internet of things" and the implications for automotive and transportations industries. He described activities of the [Web Accessibility Initiative](https://www.w3.org/WAI/) (WAI) to make the web accessible through the development of normative specifications, documented technical assistance, and best practices. These include [Accessible Rich Internet Applications](https://www.w3.org/WAI/standards-guidelines/aria/)  (WAI-ARIA), [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) (WCAG), and specification review by the[Accessible Platform Architectures Working Group](https://www.w3.org/WAI/APA/) (APA WG).
 
 From his work leading the [W3C Automotive Working Group](https://www.w3.org/groups/wg/auto), Guild pointed out that auto manufacturers all work with data differently and have their own proprietary application programming interfaces (API) for their vehicles, which is a software intermediary that provides communication between two applications. These myriad methods and proprietary statuses create an environment of challenges to interoperability, and consequently, inaccessibility. To resolve these issues, the Working Group has developed a common API and common data model. These developments will be accompanied by artificial intelligence machine learning that will enable decisions by and performance assessment of autonomous vehicles.
 
-![](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image089.png)Guild described other W3C working groups related to the design of accessible AVs. The [Linked Building Data Community Group](https://www.w3.org/community/lbd/) is creating ontologies to describe building capabilities and infrastructure. This work relates to accessibility concerns of various elements, such as wheelchair ramps and egress. The [Linked Data for Accessibility Community Group](https://www.w3.org/community/lda/2020/04/03/what-is-the-linked-data-for-accessibility-group/) is researching both buildings and transportation. For example, the group seeks to make available information on the location of restaurants that are wheelchair accessible with ramps.
+![W3C logo](./images/407-w3c.png){: img-right }Guild described other W3C working groups related to the design of accessible AVs. The [Linked Building Data Community Group](https://www.w3.org/community/lbd/) is creating ontologies to describe building capabilities and infrastructure. This work relates to accessibility concerns of various elements, such as wheelchair ramps and egress. The [Linked Data for Accessibility Community Group](https://www.w3.org/community/lda/2020/04/03/what-is-the-linked-data-for-accessibility-group/) is researching both buildings and transportation. For example, the group seeks to make available information on the location of restaurants that are wheelchair accessible with ramps.
 
 Guild concluded with some takeaways to consider for AVs:
 
@@ -423,7 +422,7 @@ Guild concluded with some takeaways to consider for AVs:
 
 ### Presentation: Applicability of Section 508 Definitions for Information and Communication Technology to AVs
 
-![Bruce Bailey](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image038.png)**Bruce Bailey**, Information Technology Accessibility Specialist at the U.S. Access Board, briefly discussed the Section 508 definition of "Information and Communication Technology (ICT)" and how it builds on the Clinger-Cohen Act's definition of "Information Technology (IT)". ICT is defined in the [Section 508 Standards](https://www.access-board.gov/ict/) as:
+![Bruce Bailey](./images/408-bailey.png){: img-right }**Bruce Bailey**, Information Technology Accessibility Specialist at the U.S. Access Board, briefly discussed the Section 508 definition of "Information and Communication Technology (ICT)" and how it builds on the Clinger-Cohen Act's definition of "Information Technology (IT)". ICT is defined in the [Section 508 Standards](https://www.access-board.gov/ict/) as:
 
 "information technology *and* other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content. Examples of ICT include but are not limited to computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; Web sites; videos; and electronic documents."
 
@@ -445,7 +444,7 @@ Bailey moderated the open forum that followed. One attendee called attention to 
 
 ## Summary of Comments from AV Online Dialogue
 
-![Icon of people and comment bubbles](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image092.png)Members of the public were invited to share their ideas, comments, and information on AV accessibility through an online crowd-sourcing [dialogue platform](https://transportationinnovation.ideascale.com/) that provided another opportunity for input throughout the webinar series.  This platform was open for comment throughout the series and closed on May 5, 2021. 
+![Icon of people and comment bubbles](./images/500-epolicyworks.png){: img-right }Members of the public were invited to share their ideas, comments, and information on AV accessibility through an online crowd-sourcing [dialogue platform](https://transportationinnovation.ideascale.com/) that provided another opportunity for input throughout the webinar series.  This platform was open for comment throughout the series and closed on May 5, 2021. 
 
 Specific discussion topics included: 
 
