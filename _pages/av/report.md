@@ -69,7 +69,7 @@ The session program focused on accessibility for passengers with mobility disabi
 
 The ADA vehicle guidelines do not specifically address AVs but may be applicable or informative to certain types of AVs.  DOT, not the Board, has the authority to determine which vehicles and transit systems are covered by the ADA and subject to its vehicle standards.  Duchesneau highlighted various provisions in the Board's vehicle guidelines solely as a resource or reference in addressing accessible design. 
 
-![An autonomous vehicle with doors open](./images/105-av1of2.png){: .img-float }The ADA guidelines for buses and vans address various features, including:
+![An autonomous vehicle with doors open](./images/105-av1of2.png){: .img-right }The ADA guidelines for buses and vans address various features, including:
 
 - walking surfaces;
 - vehicles ramps, bridge plates, and lifts;
@@ -80,9 +80,12 @@ The ADA vehicle guidelines do not specifically address AVs but may be applicable
 
 Under the guidelines, vehicles must provide accessible boarding and alighting through either a ramp or bridge plate, lift or level boarding.  At least one means of access must be able to deploy to the roadway so that access is provided where no curb or level boarding platform is present or during an emergency.
 
-Level boarding is the best way to provide access where vehicle floor heights can be coordinated with boarding platforms. The gap between the boarding platform and the vehicle is limited to 2 inches so that casters and crutch tips do not get trapped.  Otherwise, a ramp or bridge plate is needed to span the gap. Vertical differentials between both surfaces cannot exceed 5/8 inch.  "Kneeling" vehicles with automated self-adjusting ride heights could achieve ![Man using a power wheelchair going up a ramp into an autonomous vehicle](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image018.png)level boarding at various boarding platforms.  Specifications also address the surfaces of ramps, bridge plates, lifts, and vehicle floors, including slip-resistance, openings, and surface discontinuities. 
+![Man using a power wheelchair going up a ramp into an autonomous vehicle](./images/106-av2of2.png){: .img-left }
+![Text Box: The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.]
 
-![Text Box: The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image019.png)Ramps are permitted to fold or telescope and need to support either 300 or 600 pounds depending on the length of the ramp and have manual operational capability in case of power failure.  Lifts must permit users the option of boarding the platform either toward or away from the vehicle and comply with the Federal Motor Vehicle Safety Standards.
+Level boarding is the best way to provide access where vehicle floor heights can be coordinated with boarding platforms. The gap between the boarding platform and the vehicle is limited to 2 inches so that casters and crutch tips do not get trapped.  Otherwise, a ramp or bridge plate is needed to span the gap.  Vertical differentials between both surfaces cannot exceed 5/8 inch.  "Kneeling" vehicles with automated self-adjusting ride heights could achieve level boarding at various boarding platforms.  Specifications also address the surfaces of ramps, bridge plates, lifts, and vehicle floors, including slip-resistance, openings, and surface discontinuities. 
+
+Ramps are permitted to fold or telescope and need to support either 300 or 600 pounds depending on the length of the ramp and have manual operational capability in case of power failure.  Lifts must permit users the option of boarding the platform either toward or away from the vehicle and comply with the Federal Motor Vehicle Safety Standards.
 
 Doorways must open to a clear width of at least 32 inches and have a contrasting color stripe along the bottom that marks the edge of the doorway. A minimum vertical clearance of 56 inches is required for smaller vehicles, and up to 68 inches for larger vehicles.  Shielded lights should be provided that can illuminate ramps and doorways with a minimum of two foot candles and boarding areas, with a minimum of one foot candle.
 
