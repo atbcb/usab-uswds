@@ -42,7 +42,7 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
 
 ## Accessibility for Passengers with Mobility Disabilities: Part 1
 
-![Greg Fehribach thumbnail portrait photo](./images/101-fehirbach.png){: .float-right }
+![Greg Fehribach thumbnail portrait photo](./images/101-fehirbach.jpg){: .float-right }
 
 U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
 
