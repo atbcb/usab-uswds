@@ -88,7 +88,7 @@ Doorways must open to a clear width of at least 32 inches and have a contrasting
 
 ### Presentation: Research on Vehicle Ramps by the Center for Inclusive Design and Environmental Access
 
-![Victor Paquet thumbnail portrait photo](107-paquet.png){: .img-right }
+![Victor Paquet thumbnail portrait photo](./images/107-paquet.png){: .img-right }
 
 **Dr. Victor Paquet** of the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu/) (IDeA Center) at the University at Buffalo presented results of two vehicle ramp research studies that focused on the effects of ramp slope and multi-segment ramp configuration on human performance during ascension and descension for people with disabilities including users of manual wheelchairs, power wheelchairs, scooters, white canes, and other walking aids under ideal laboratory environmental conditions.
 
