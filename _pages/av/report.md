@@ -18,15 +18,14 @@ permalink: /av/report.html
 
 ### Table of Contents
 
-* [Introduction](intro)
-* [Accessibility for Passengers with Mobility Disabilities: Part 1](s1of4)
-* [Accessibility for Passengers with Mobility Disabilities: Part 2](s2of4)
-* [Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1](s3of4)
-* [Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2](s4of4)
-* [Summary of Comments from AV Online Dialogue](comments)
+- [Introduction](introduction)
+- [Accessibility for Passengers with Mobility Disabilities: Part 1](accessibility-for-passengers-with-mobility-disabilities-part-1)
+- [Accessibility for Passengers with Mobility Disabilities: Part 2](accessibility-for-passengers-with-mobility-disabilities-part-2)
+- [Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1](accessibility-for-passengers-with-sensory-and-cognitive-disabilities-part-1)
+- [Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2](accessibility-for-passengers-with-sensory-and-cognitive-disabilities-part-2)
+- [Summary of Comments from AV Online Dialogue](summary-of-comments-from-av-online-dialogue)
 
-
-## Introduction {#intro}
+## Introduction
 
 Self-driving cars, shuttles, and other vehicles stand to revolutionize transportation and potentially expand transit options for people with disabilities. In the spring of 2021, the U.S. Access Board, in partnership with other federal agencies, conducted a series of virtual meetings on making autonomous vehicles (AVs) accessible to passengers with disabilities. The Department of Labor's Office of Disability Employment Policy, the Department of Health and Human Service's Administration for Community Living, and other agencies joined the Board in this initiative. This report summaries the Board's forum and the information, ideas, and comments provided in the sessions and on the discussion platform. 
 
@@ -41,9 +40,9 @@ The sessions covered:
 
 In addition, an online discussion platform (ePolicyWorks) provided further opportunity for dialogue and information sharing following the webinar sessions. This discussion forum was active during the series and remained so until two weeks after the last session. 
 
-## Accessibility for Passengers with Mobility Disabilities: Part 1 {s1of4}
+## Accessibility for Passengers with Mobility Disabilities: Part 1
 
-![Greg Fehribach thumbnail portrait photo](./images/101-fehirbach.pnt){: .float-right }
+![Greg Fehribach thumbnail portrait photo](./images/101-fehirbach.png){: .float-right }
 
 U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
 
@@ -58,7 +57,7 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
   </figcaption>
 </figure>
 
-![Robin Hutcheson thumbnail portrait photo](./images/102-hutcheson.png){: .float-left }
+![Robin Hutcheson thumbnail portrait photo](./images/103-hutcheson.png){: .float-left }
 
 He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living. "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked. 
 
@@ -135,7 +134,7 @@ Speakers also addressed accessibility for other types of disabilities, including
 
 [Session Recording](https://www.youtube.com/watch?v=xI1j1V1SyjE "external link") Presentations: [PowerPoint](https://www.access-board.gov/files/presentations/usab-av-forum-2021-03-10.pptx) (23 MB) [PDF](https://www.access-board.gov/files/presentations/usab-av-forum-2021-03-10.pdf)  (4 MB)
 
-## Accessibility for Passengers with Mobility Disabilities: Part 2 {#s2of4}
+## Accessibility for Passengers with Mobility Disabilities: Part 2
 
 ![Dr. Sachin Dev Pavithran](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image034.jpg)The second session continued discussion of accessibility for passengers with mobility disabilities and focused on maneuvering and securement in vehicles. 
 
@@ -264,7 +263,7 @@ Additional comments addressed access to AVs used for taxi service, payment syste
 
 [Session Recording](https://youtu.be/d9xc-mRrlxY?t=38 "external link") Presentations: [PowerPoint](https://www.access-board.gov/files/presentations/usab-av-forum-2021-03-24.pptx)  (18 MB) [PDF](https://www.access-board.gov/files/presentations/usab-av-forum-2021-03-24.pdf)  (6 MB)
 
-## Accessibility for Passengers with Sensory & Cognitive Disabilities: Part 1 {#s3of4}
+## Accessibility for Passengers with Sensory & Cognitive Disabilities: Part 1
 
 ![Dr. Victor Pineda](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image066.png)The third session focused on ride-hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.  U.S. Access Board Public Member Dr. Victor Santiago Pineda, who is a Professor of Urban Planning at University of California-Berkley and President of [World Enabled](https://worldenabled.org/), opened the meeting. 
 
@@ -340,7 +339,7 @@ One commenter requested that passengers with electromagnetic sensitivities be in
 
 [Session Recording](https://www.youtube.com/watch?v=nfh-MpcNCB8 "external link") Presentations: [PowerPoint](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-07_for_web.pptx)  (46 MB) [PDF](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-07.pdf)  (6 MB)
 
-## Accessibility for Passengers with Sensory & Cognitive Disabilities: Part 2 {#s4of4}
+## Accessibility for Passengers with Sensory & Cognitive Disabilities: Part 2
 
 ![Karen Tamley ](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image036.png)The fourth and final session in the series continued discussion of communication accessibility in hailing and interacting with AVs for passengers with hearing, visual, or cognitive disabilities. U.S. Access Board Public Member **Karen Tamley** opened the session with remarks on the value of AVs in expanding travel options for passengers with disabilities.
 
@@ -436,7 +435,7 @@ Bailey moderated the open forum that followed. One attendee called attention to 
 
 [Session Recording](https://youtu.be/ImQoLk0CQoc?t=1 "external link")  Presentations: [PowerPoint](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-21.pptx)  (5 MB) [PDF](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-21.pdf)  (3 MB)
 
-## Summary of Comments from AV Online Dialogue {#comments}
+## Summary of Comments from AV Online Dialogue
 
 ![Icon of people and comment bubbles](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image092.png)Members of the public were invited to share their ideas, comments, and information on AV accessibility through an online crowd-sourcing [dialogue platform](https://transportationinnovation.ideascale.com/) that provided another opportunity for input throughout the webinar series.  This platform was open for comment throughout the series and closed on May 5, 2021. 
 
