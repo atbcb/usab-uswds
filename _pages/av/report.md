@@ -124,7 +124,7 @@ While the ADA standards also have a 56-inch minimum interior height, BraunAbil
 ![Man using wheelchair exiting accessible minivan on a ramp](./images/110-av-ramp.jpg){: .img-right }Frayne concluded by underscoring the need to innovate for both the present moment and the future, particularly regarding step-in, geometry, and batteries. BraunAbility continues to conduct research and create solutions with its recent opening of the Global Innovation Lab in Carmel, Indiana, that will work with Purdue to accelerate market shaping innovation in EVs, AVs, sensing, and Internet of things (IoT). 
 
 ### Public Comments and Questions - Session 1
-
+{: .clear }
 ![Microphone at a podium](./images/000-microphone.jpg){: .img-right }
 
 Following the presentations, a public forum allowed attendees to offer comments or pose questions on various topics related to the session.  Several commenters urged researchers and designers to consider accessibility in relation to the whole AV "ecosystem" and cover infrastructure design and the interaction or interoperability with vehicles with a "complete trip" paradigm.  One speaker specifically called attention to rural areas and ramp deployment in areas without sidewalks.
@@ -154,7 +154,7 @@ Jennifer Sheehy 
 Acting Director, ODEP
 
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles
-
+{: .clear }
 ![Scott Windley](./images/203-windley.png){: .img-right }**Scott Windley**, an Accessibility Specialist with the U.S. Access Board, reviewed existing guidelines for transportation vehicles issued by the Board under the ADA.  The [ADA Accessibility Guidelines for Transportation Vehicles](https://www.access-board.gov/ada/vehicles/) (1991) cover buses, vans, rail cars, and other transportation vehicles and serve as the basis for enforceable standards implemented by DOT.  The Board [updated](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/) sections of the guidelines covering buses and vans in 2016, but these provisions are not yet included in DOT's enforceable standards.
 
 ![image of AV with ramp deployed person in power chair inside AV.  ](./images/204-av1of2.png){: .img-right }In addition to requirements for boarding and alighting access, the vehicle guidelines address:
@@ -195,7 +195,7 @@ Key features of the Paralift system include:
 ![Text Box: Q'Straint's QUANTUM securement system](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image047.png)
 
 ### Presentation: University of Michigan Transportation Research Institute Project on Automated Wheelchair Tiedown & and Occupant Restraint System
-
+{: .clear }
 ![Dr. Kathleen Klinich](./images/209-klinich.png){: .img-right }![Miriam Manary ](./images/210-manary.jpg){: img-right }**Dr. Kathleen Klinich** and **Miriam Manary** of the [University of Michigan's Transportation Research Institute](https://umtri.umich.edu/) (UMTRI) gave a presentation on research that is underway to develop an automated wheelchair tiedown and occupant restraint system. Funded by National Highway Traffic Safety Administration, the [project](https://umtri.umich.edu/research/projects/development-of-an-automated-wheelchair-tiedown-and-occupant-restraint-system/)  will test a "universal docking interface geometry" (UDIG) that features an anchorage system in the vehicle that can be used with any wheelchair equipped with the attachment hardware, similar in concept to a semi-truck trailer hitch.  While this kind of technology has been available, field tested, and evaluated for decades, it has not been widely implemented because it needs to be installed extensively on both wheelchairs and in vehicles. The need for independent docking options may have renewed interest in such a solution. 
 
 Klinich and Manary's project, which started in October 2019, will develop an automated wheelchair docking station and seat belt through a combination of computational models, assessments of usability by volunteers, and dynamic sled testing. Klinich and Manary are currently using crash test modelling to determine the best place to position the wheelchair relative to the anchorage system and the positioning of shoulder and lap belt anchors. Additionally, they are evaluating the potential benefits of an airbag restraint for occupants using wheelchairs.
@@ -348,7 +348,7 @@ One commenter requested that passengers with electromagnetic sensitivities be in
 U.S. Access Board Accessibility Specialist **Sarah Presley** hosted the event and introduced the guest speakers.
 
 ### Presentation: Communication Accessibility in Hailing and Interacting with Autonomous Vehicles
-
+{: .clear }
 ![Dr. Aaron Steinfeld ](./images/402-steinfeld.png){: .img-right }
 
 **Dr. Aaron Steinfeld**, Associate Research Professor at Carnegie Mellon University, leads the Transportation, Bots, and Disability (TBD) Lab of the [Robotics Institute at Carnegie Mellon University](https://www.ri.cmu.edu/robotics-groups/tbd-lab/). Steinfeld emphasized that the design of accessible AVs requires collaboration and teamwork across institutions and organizations. Correspondingly, his presentation drew on several different projects and sponsors, including National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR), National Science Foundation's National Robotics Initiative, and DOT.
