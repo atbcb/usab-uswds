@@ -59,9 +59,9 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
 
 ![Robin Hutcheson thumbnail portrait photo](./images/103-hutcheson.png){: .img-left }
 
-He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living. "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked. {: .clear }
+He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living. "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
 
-### ADA Accessibility Guidelines and Standards for Transportation Vehicles
+### ADA Accessibility Guidelines and Standards for Transportation Vehicles  {: .clear }
 
 ![Randall Duchesneau thumbnail portrait photo](./images/104-duschesneau.png){: .img-right }
 
@@ -88,7 +88,7 @@ Doorways must open to a clear width of at least 32 inches and have a contrasting
 
 ### Presentation: Research on Vehicle Ramps by the Center for Inclusive Design and Environmental Access
 
-![Victor Paquet thumbnail portrait photo](107-paquet.png){: .float-right }
+![Victor Paquet thumbnail portrait photo](107-paquet.png){: .img-right }
 
 **Dr. Victor Paquet** of the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu/) (IDeA Center) at the University at Buffalo presented results of two vehicle ramp research studies that focused on the effects of ramp slope and multi-segment ramp configuration on human performance during ascension and descension for people with disabilities including users of manual wheelchairs, power wheelchairs, scooters, white canes, and other walking aids under ideal laboratory environmental conditions.
 
