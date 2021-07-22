@@ -42,7 +42,7 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
 
 ## Accessibility for Passengers with Mobility Disabilities: Part 1
 
-![Greg Fehribach thumbnail portrait photo](./images/101-fehirbach.jpg){: .img-right}
+![Greg Fehribach thumbnail portrait photo](./images/101-fehirbach.jpg){: .img-right }
 
 U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
 
@@ -57,13 +57,15 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
   </figcaption>
 </figure>
 
-![Robin Hutcheson thumbnail portrait photo](./images/103-hutcheson.png){: .img-left}
+![Robin Hutcheson thumbnail portrait photo](./images/103-hutcheson.png){: .img-left }
 
-He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living. "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked. 
+He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living. "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked. {: .clear }
 
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles
 
-![Randall Duchesneau](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image014.png)*The session program *focused on accessibility for passengers with mobility disabilities in boarding and exiting vehicles.  **Randall Duchesneau**, an Accessibility Specialist at the U.S. Access Board, provided an overview of the accessibility guidelines for transportation vehicles the Board issued under the Americans with Disabilities Act (ADA).  The Board published the original [ADA Accessibility Guidelines for Transportation Vehicles](https://www.access-board.gov/ada/vehicles/) in 1991, one year after the law's passage.  They address buses, vans, rail cars, and other transportation vehicles.  These guidelines serve as the basis for standards DOT uses to enforce the ADA.  In 2016, the Board [updated](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/)  the sections of the guidelines covering buses and vans.  DOT has not yet implemented these updated provisions as enforceable standards.
+![Randall Duchesneau thumbnail portrait photo](./images/104-duschesneau.png){: .img-right }
+
+The session program focused on accessibility for passengers with mobility disabilities in boarding and exiting vehicles.  **Randall Duchesneau**, an Accessibility Specialist at the U.S. Access Board, provided an overview of the accessibility guidelines for transportation vehicles the Board issued under the Americans with Disabilities Act (ADA).  The Board published the original [ADA Accessibility Guidelines for Transportation Vehicles]({{ site.baseurl }}/ada/vehicles/) in 1991, one year after the law's passage.  They address buses, vans, rail cars, and other transportation vehicles.  These guidelines serve as the basis for standards DOT uses to enforce the ADA.  In 2016, the Board updated the sections of the [guidelines covering buses and vans]({{ site.baseurl }}/guidelines-standards/vehicles/update-buses-vans/guidelines-text/).  DOT has not yet implemented these updated provisions as enforceable standards.
 
 The ADA vehicle guidelines do not specifically address AVs but may be applicable or informative to certain types of AVs.  DOT, not the Board, has the authority to determine which vehicles and transit systems are covered by the ADA and subject to its vehicle standards.  Duchesneau highlighted various provisions in the Board's vehicle guidelines solely as a resource or reference in addressing accessible design. 
 
