@@ -163,11 +163,11 @@ Jennifer Sheehy 
 Acting Director, ODEP
 
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles
-{: .clear }
 
 ![Scott Windley](./images/203-windley.jpg){: .img-right }
 
 **Scott Windley**, an Accessibility Specialist with the U.S. Access Board, reviewed existing guidelines for transportation vehicles issued by the Board under the ADA.  The [ADA Accessibility Guidelines for Transportation Vehicles](https://www.access-board.gov/ada/vehicles/) (1991) cover buses, vans, rail cars, and other transportation vehicles and serve as the basis for enforceable standards implemented by DOT.  The Board [updated](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/) sections of the guidelines covering buses and vans in 2016, but these provisions are not yet included in DOT's enforceable standards.
+{: .clear }
 
 ![image of AV with ramp deployed person in power chair inside AV.  ](./images/204-av1of2.jpg){: .img-right }
 
@@ -182,7 +182,9 @@ In addition to requirements for boarding and alighting access, the vehicle guide
 
 These provisions specify sufficient clearances that allow passengers using wheelchairs and power chairs to proceed from vehicle entry to designated wheelchair spaces, position for securement within the space, and exit the vehicle.  Wheelchair turning space is recommended, though not required, to provide greater maneuverability and usability. 
 
-![Text Box: The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image043.png)Wheelchair spaces must be at least 30 inches wide and 48 inches long. An accessible route from the vehicle door must adjoin or overlap one unobstructed side of each wheelchair space. A securement system is required that typically is required to front-facing securement. 
+![Text Box: The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image043.png)
+
+Wheelchair spaces must be at least 30 inches wide and 48 inches long. An accessible route from the vehicle door must adjoin or overlap one unobstructed side of each wheelchair space. A securement system is required that typically is required to front-facing securement. 
 
 ### Presentation: Robotic Research Projects: New Flyer and Paralift
 
@@ -199,13 +201,9 @@ Key features of the Paralift system include:
 ![Text Box: Robotic Research's Paralift System](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image047.png)
 
 - Vehicle doors and a hydraulic lift activate automatically by using sensors that scan the environment, including curbs;
-
 - Automated door opening and wheelchair lift system that waits for the passenger to board the lift, verifies safety surrounding the lift, and then raises the lift to the boarding level of the vehicle;
-
-- Automated securement system, made by [Q'Straint](https://www.qstraint.com/), that activates after the passenger enters the vehicle once the wheelchair is in position, passengers can press a button and the securement system will secure the chair in place;
-
+- Automated securement system, made by [Q'Straint](https://www.qstraint.com), that activates after the passenger enters the vehicle once the wheelchair is in position, passengers can press a button and the securement system will secure the chair in place;
 - User-controlled options where users can control the system with buttons or through an app on their personal device; and
-
 - Voice-automated controls that allow passengers to hear what is going on with what the process is. 
 
 ![Image of quantum securement system with scooter](./images/208-securement1of4.png){: .img-left }
@@ -215,28 +213,22 @@ Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https:/
 ![Text Box: Q'Straint's QUANTUM securement system](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image047.png)
 
 ### Presentation: University of Michigan Transportation Research Institute Project on Automated Wheelchair Tiedown & and Occupant Restraint System
-{: .clear }
 
 ![Dr. Kathleen Klinich](./images/209-klinich.jpg){: .img-right }
 
-![Miriam Manary ](./images/210-manary.jpg){: img-right }
-
 **Dr. Kathleen Klinich** and **Miriam Manary** of the [University of Michigan's Transportation Research Institute](https://umtri.umich.edu/) (UMTRI) gave a presentation on research that is underway to develop an automated wheelchair tiedown and occupant restraint system. Funded by National Highway Traffic Safety Administration, the [project](https://umtri.umich.edu/research/projects/development-of-an-automated-wheelchair-tiedown-and-occupant-restraint-system/)  will test a "universal docking interface geometry" (UDIG) that features an anchorage system in the vehicle that can be used with any wheelchair equipped with the attachment hardware, similar in concept to a semi-truck trailer hitch.  While this kind of technology has been available, field tested, and evaluated for decades, it has not been widely implemented because it needs to be installed extensively on both wheelchairs and in vehicles. The need for independent docking options may have renewed interest in such a solution. 
+
+![Miriam Manary ](./images/210-manary.jpg){: img-right }
 
 Klinich and Manary's project, which started in October 2019, will develop an automated wheelchair docking station and seat belt through a combination of computational models, assessments of usability by volunteers, and dynamic sled testing. Klinich and Manary are currently using crash test modelling to determine the best place to position the wheelchair relative to the anchorage system and the positioning of shoulder and lap belt anchors. Additionally, they are evaluating the potential benefits of an airbag restraint for occupants using wheelchairs.
 
-|  |  |  |  |
-|  | ![UDIG anchorage dock design rendering
-showing two lateral facing anchor hooks that deploy using a two smaller actuators.  ](./images/211-securement2of4.png) |  | ![Rear view of manual wheelchair showing UDIG attachments. Two vertical posts are located between the rear wheels, and attached to the frame with horizontal rods at the top and bottom that extend back to near the tiedown hooks.](./images/212-securement3of4.jpg) |
+![UDIG anchorage dock design rendering showing two lateral facing anchor hooks that deploy using a two smaller actuators.  ](./images/211-securement2of4.png){: img-left }
 
-|  |  |  |  |
-|  |
-| Universal docking interface geometry (UDIG) |
-  |  |
-|
+![Rear view of manual wheelchair showing UDIG attachments. Two vertical posts are located between the rear wheels, and attached to the frame with horizontal rods at the top and bottom that extend back to near the tiedown hooks.](./images/212-securement3of4.jpg){: img-right }
+
+Universal docking interface geometry (UDIG)
+
 Wheelchair attachment for UDIG system.
- |
- |
 
 ![Universal docking interface geometry installed in vehicle used in testing](./images/213-securement4of4.png){: img-right }
 
@@ -273,11 +265,9 @@ The IDeA Center then field tested the three-point and semiautomated securement s
 Findings indicated:
 
 - A slight majority preferred the semiautomated system over the three-point system;
-
 - Scooter users consistently rated both securement systems as more difficult to use and requiring greater physical effort than other participants;
-
--   Power chair and scooter users were nearly evenly divided between using fixed-route, often due to the presence of the semiautomated system; and
--   Design research is needed to explore the capacity for scooters to be secured (rear-facing) safely in public transportation vehicles.
+- Power chair and scooter users were nearly evenly divided between using fixed-route, often due to the presence of the semiautomated system; and
+- Design research is needed to explore the capacity for scooters to be secured (rear-facing) safely in public transportation vehicles.
 
 ### Public Comments and Questions - Session 2
 
@@ -291,11 +281,12 @@ Additional comments addressed access to AVs used for taxi service, payment syste
 
 [Session Recording](https://youtu.be/d9xc-mRrlxY?t=38 "external link") Presentations: [PowerPoint](https://www.access-board.gov/files/presentations/usab-av-forum-2021-03-24.pptx)  (18 MB) [PDF](https://www.access-board.gov/files/presentations/usab-av-forum-2021-03-24.pdf)  (6 MB)
 
-## Accessibility for Passengers with Sensory & Cognitive Disabilities: Part 1
+## Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1
 
 ![Dr. Victor Pineda](./images/301-pineda.png){: .img-right }
 
 The third session focused on ride-hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.  U.S. Access Board Public Member Dr. Victor Santiago Pineda, who is a Professor of Urban Planning at University of California-Berkley and President of [World Enabled](https://worldenabled.org), opened the meeting. 
+{: .clear }
 
 ![Sarah Pressley](./images/302-presley.jpg){: .img-right }
 
@@ -307,19 +298,21 @@ The third session focused on ride-hailing and on-board communication for passeng
 
 ![Text Box: Dr. Cecilia Feeley](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image069.png)![Text Box: Andrea Lubin](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image070.png)
 
-![Andrea Lubin](.images/304-lubin.png){: .img-right }
-
-![Dr. Cecilia Feeley](./images/303-feeley.png){: .img-right }
+![Andrea Lubin](.images/304-lubin.jpg){: .img-right }
 
 Dr. Cecilia Feeley, Transportation Autism Project Manager, and Andrea Lubin, Senior Researcher, at Rutgers University gave a presentation on their findings from a series of focus groups of adults with disabilities who took short autonomous shuttle rides. A core intent of this [research](https://cait.rutgers.edu/research/autonomous-vehicles-capturing-in-vehicle-experience-focus-group-follow-up-with-persons-with-autism-and-other-disabilities-at-the-2019-princeton-university-smartdrivingcar-summit/)  was to gather feedback and recommendations from persons with visual or cognitive disabilities.  Conducted jointly by Rutgers University and Princeton University, the study convened four focus groups with a total of 21 participants.
+
+![Dr. Cecilia Feeley](./images/303-feeley.jpg){: .img-right }
 
 The majority of participants said that they do not use personal assistance for their current modes of transportation and would not need personal assistance using AVs, at least not in the long term. Some participants with developmental disabilities did say that they would like the option of having a family member accompany them on AV trips until they felt comfortable traveling independently using this new mode of transportation. Some participants who are blind or have low vision said that it would be helpful if assistance was always available to open and close vehicle doors, provide guidance to available seats, help with passenger bags, and secure wheelchairs or other mobility devices. 
 
 Safety-related concerns were the most discussed issue by participants. Suggestions for addressing these concerns included use of on-board cameras to capture safety-related issues and use of audio and visual sensors that can assist AVs in identifying and responding appropriately to approaching emergency vehicles. Recommendations to address vehicle malfunction or accident concerns focused on the presence of an on-board attendant. 
 
-![The Olli Shuttle stopped on the street with the door open and the sidewalk in front.](./images/305-av.png){: .img-right }
+![photo of Olli Shuttle stopped on the street with the door open and the sidewalk in front](./images/305-av.png){: .img-right }
 
-![Text Box: AV Shuttle used in the focus group study.](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image076.png)Other questions and concerns focused on the communication interface with the vehicle, primarily on how passengers were supposed to indicate their destination and schedule their trip. They wanted to know if they preferred to use the GPS on their smart phones if they could, or if they would have to indicate their destination upon boarding the vehicle. Some participants wanted to know if they would be able to engage with the vehicle in a conversational style, asking about topics such as the weather; others wanted to know if they could secure needed assistance while traveling via the vehicle communication interface. Several participants recommended that the on-board communication interface should permit passengers to access a call center to secure live operator assistance, especially vital in case of an emergency. 
+AV Shuttle used in the focus group study.
+
+Other questions and concerns focused on the communication interface with the vehicle, primarily on how passengers were supposed to indicate their destination and schedule their trip. They wanted to know if they preferred to use the GPS on their smart phones if they could, or if they would have to indicate their destination upon boarding the vehicle. Some participants wanted to know if they would be able to engage with the vehicle in a conversational style, asking about topics such as the weather; others wanted to know if they could secure needed assistance while traveling via the vehicle communication interface. Several participants recommended that the on-board communication interface should permit passengers to access a call center to secure live operator assistance, especially vital in case of an emergency. 
 
 Passengers who are blind or have low vision noted that several design features should be incorporated: utilization of contrast, texture, and color on any vehicle steps; installation of a handrail on vehicle steps; and non-slip finish on vehicle steps and flooring. They appreciated the lower step between the ground and the floor of the shuttle. These participants wanted AVs to be on-demand, as are current ride-hailing services, and suggested that there be several options for paying for rides, including cash, smart card, or payment via smart phone. 
 
@@ -387,7 +380,7 @@ One commenter requested that passengers with electromagnetic sensitivities be in
 
 [Session Recording](https://www.youtube.com/watch?v=nfh-MpcNCB8 "external link") Presentations: [PowerPoint](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-07_for_web.pptx)  (46 MB) [PDF](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-07.pdf)  (6 MB)
 
-## Accessibility for Passengers with Sensory & Cognitive Disabilities: Part 2
+## Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2
 
 ![Karen Tamley ](./images/401-tamley.jpg){: .img-right }
 
@@ -396,7 +389,6 @@ The fourth and final session in the series continued discussion of communication
 U.S. Access Board Accessibility Specialist **Sarah Presley** hosted the event and introduced the guest speakers.
 
 ### Presentation: Communication Accessibility in Hailing and Interacting with Autonomous Vehicles
-{: .clear }
 
 ![Dr. Aaron Steinfeld ](./images/402-steinfeld.png){: .img-right }
 
