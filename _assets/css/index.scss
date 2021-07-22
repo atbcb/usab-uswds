@@ -400,6 +400,7 @@ dt {
 }
 
 // add shading to even rows in data tables -- does not seem to be working
+
 table.data tr:nth-child(even) {
  background-color: #f2f2f2;
 } // zebra stripping by default */
@@ -410,12 +411,6 @@ table.layouttable {
 table.layouttable,
 table.layouttable tr {
   border: 1px solid black;
-}
-
-// doesn't seem to work; added style to include figure-caption.html
-figcaption {
-  font-weight: bold;
-  text-align: center;
 }
 
 // default mode hide banner
@@ -451,6 +446,7 @@ figcaption {
 }
 
 // Board member profile cards
+
 .card-header {
   @extend .usa-card__header;
   text-align: center;
@@ -458,10 +454,12 @@ figcaption {
   @include u-text('white');
   padding: 1rem;
 }
+
 .gray-to-color {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
+
 .gray-to-color:hover {
   -webkit-filter: none;
   filter: none;
@@ -474,9 +472,11 @@ a.style-inherit:focus>div.gray-to-color {
   @include u-bg('primary-lighter');
   border: 3px solid lightskyblue;
 }
+
 .card-shadow {
   box-shadow: 0 0 10px -3px #666;
 }
+
 .card-name {
   @include u-font('serif', '2xs');
   @include u-text('center');
@@ -490,6 +490,7 @@ a.style-inherit:focus>div.gray-to-color {
   @include u-text('primary-darker');
   @include u-margin-bottom(0);
 }
+
 a.style-inherit {
   color: inherit; // blue colors for links too
   text-decoration: inherit; // no underline
@@ -513,7 +514,7 @@ a.style-inherit {
   bottom: .1rem; 
   right: .1rem;
   padding: .1em .2em;
-  background: #ffffff; color: #005EA2;
+  background: #ffffff; color: #005ea2;
   border: 2px solid black;
   font-size: 80%;
   font-weight: 800;
@@ -534,7 +535,8 @@ a.style-inherit {
 }
 
 //filmstrip
+
 .filmstrip {
-  background: repeating-linear-gradient(45deg, #FFE11A, #FFE11A 50%, #FD7400 50%, #FD7400);
+  background: repeating-linear-gradient(45deg, #ffe11a, #ffe11a 50%, #fd7400 50%, #fd7400);
   background-size: 20px 20px;
 }
