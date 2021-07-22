@@ -22,11 +22,11 @@ Attendees were able to pose questions and share comments, suggestions, and infor
 
 The Board undertook this initiative jointly with other agencies, including the Department of Labor’s Office of Disability Employment Policy (ODEP) and the Department of Health and Human Service’s Administration for Community Living. 
 
-For more detailed description of the forum, please visit the [Summary Report from Public Dialog](./report.html).
+For more detailed description of the forum, please visit the [Public Forum on Inclusive Design of AVs: Summary Report](./report.html).
 
 Vistors interested in the AV forum and sessions might also wish to review the following:
 
-* [Forum Session Descriptions](forums.html)
+* [Forum Session Recordings and Presentation Materials](forums.html)
 * [Original Press Release]({{ site.baseurl }}/news/2021/02/11/board-announces-schedule-for-public-forum-on-inclusive-design-of-autonomous-vehicles) (February 11, 2021)
 * [Press Release on Session I]({{ site.baseurl }}/news/2021/03/15/u-s-access-board-holds-first-session-of-public-forum-on-inclusive-design-of-autonomous-vehicles) (March 15, 2021)
 * [Press Release on Session II]({{ site.baseurl }}/news/2021/03/25/u-s-access-board-holds-second-session-of-public-forum-on-inclusive-design-of-autonomous-vehicles) (March 25, 2021)
