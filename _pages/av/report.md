@@ -61,7 +61,7 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
 
 He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
 
-### ADA Accessibility Guidelines and Standards for Transportation Vehicles{: .clear }
+### ADA Accessibility Guidelines and Standards for Transportation Vehicles{: .clear}
 
 ![Randall Duchesneau thumbnail portrait photo](./images/104-duschesneau.png){: .img-right }
 
