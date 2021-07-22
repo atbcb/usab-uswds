@@ -8,7 +8,6 @@ permalink: /av/report.html
 
 ## {{page.title}}
 
-![Access Board seal with star](./images/AB-seal.png){: img-right }
 **July 2021**
 
 ### Important Note
