@@ -92,7 +92,7 @@ Doorways must open to a clear width of at least 32 inches and have a contrasting
 
 ### Presentation: Research on Vehicle Ramps by the Center for Inclusive Design and Environmental Access
 
-![Victor Paquet thumbnail portrait photo](./images/107-paquet.png){: .img-right }
+![Victor Paquet thumbnail portrait photo](./images/107-paquet.jpg){: .img-right }
 
 **Dr. Victor Paquet** of the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu/) (IDeA Center) at the University at Buffalo presented results of two vehicle ramp research studies that focused on the effects of ramp slope and multi-segment ramp configuration on human performance during ascension and descension for people with disabilities including users of manual wheelchairs, power wheelchairs, scooters, white canes, and other walking aids under ideal laboratory environmental conditions.
 
@@ -149,8 +149,7 @@ U.S. Access Board Executive Director **Sachin Pavithran** opened the program
 
 He then introduced **Jennifer Sheehy **who is the Acting Director of [Office of Disability Employment Policy ](https://www.dol.gov/agencies/odep)(ODEP).  ODEP was an active partner on this forum and hosted the dialog platform that was open throughout the series. 
 
-![Jennifer Sheehy
-](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image036.png)
+![Jennifer Sheehy](file:///C:/Users/bailey/AppData/Local/Temp/msohtmlclip1/01/clip_image036.png)
 
 *"Many people don't realize that transportation is one of the most important and, perhaps, least appreciated components of employment success for people with disabilities.  After all, the best employment program or job opportunity means nothing and provides little benefit if people cannot access reliable transportation to work."*
 
