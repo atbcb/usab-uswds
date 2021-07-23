@@ -313,7 +313,7 @@ Klinich and Manary's project, which started in October 2019, will develop an aut
       <em>Wheelchair attachment for UDIG system.</em>
     </figcaption>
   </figure>
-  <span class="clear"> </span>
+  <br class="clear" />
 </div>
 
 ![Universal docking interface geometry installed in vehicle used in testing](./images/213-securement4of4.png){: .img-right }
