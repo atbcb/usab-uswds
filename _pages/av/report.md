@@ -64,7 +64,6 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
      Secretary Pete Buttigieg, U.S. Department of Transportation
   </figcaption>
 </figure>
-
 <figure class="img-left">
   <img src="./images/103-hutcheson.png" alt="Robin Hutcheson thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
@@ -315,7 +314,6 @@ Klinich and Manary's project, which started in October 2019, will develop an aut
       <em>Wheelchair attachment for UDIG system.</em>
     </figcaption>
   </figure>
-  <span class="clear> </span>
 </div>
 
 ![Universal docking interface geometry installed in vehicle used in testing](./images/213-securement4of4.png){: .img-right }
