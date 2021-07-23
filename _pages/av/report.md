@@ -12,7 +12,7 @@ permalink: /av/report.html
 
 **July 2021**
 
-We also have this [AV Forum Summary Report in PDF format]({{ site.baseref }}/files/presentations/usab-av-forum-summary-report.pdf).
+[AV Forum Summary Report in PDF format]({{ site.baseref }}/files/presentations/usab-av-forum-summary-report.pdf).
 
 ### Important Note
 
@@ -46,8 +46,13 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
 
 ## Accessibility for Passengers with Mobility Disabilities: Part 1
 
-![Greg Fehribach thumbnail portrait photo](./images/101-fehirbach.jpg){: .img-right } 
-<em><figcaption>Greg Fehribach</figcaption></em>
+<figure class="right">
+  <img src="./images/101-fehirbach.jpg" alt="Greg Fehribach thumbnail portrait photo" class="img-right">
+  <figcaption style="text-align:center">
+      <figcaption class="right">
+   <em>Greg Fehirbach</em> <br />
+   </figcaption>
+</figure>
     
 U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
 
@@ -90,6 +95,7 @@ Under the guidelines, vehicles must provide accessible boarding and alighting th
 <figure class="left">
   <img src="./images/106-av2of2.png" alt="Man using a power wheelchair going up a ramp into an autonomous vehicle. Caption: The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp." class="img-left">
   <figcaption style="text-align:center">
+      <figcaption class="left">
    <em>The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.</em> <br />
    </figcaption>
 </figure>
