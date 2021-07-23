@@ -12,7 +12,7 @@ permalink: /av/report.html
 
 **July 2021**
 
-<button><a href="{{ site.baseurl }}/files/presentations/usab-av-forum-summary-report.pdf">AV Forum Summary Report in PDF format</a></button>
+<button class="usa-button"><a href="{{ site.baseurl }}/files/presentations/usab-av-forum-summary-report.pdf">AV Forum Summary Report in PDF format</a></button>
 
 ### Important Note
 
@@ -222,12 +222,12 @@ Acting Director, ODEP
 
 ![Illustration of AV with ramp deployed person in power chair inside AV.](./images/204-av1of2.jpg){: .img-left }
 
-In addition to requirements for boarding and alighting access, the vehicle guidelines address:
+<p style="margin-left:-1em">In addition to requirements for boarding and alighting access, the vehicle guidelines address:</p>
 
-> > - walking surfaces;
-> > - accessible routes;
-> > - wheelchair space; and
-> > - securement systems.
+- walking surfaces;
+- accessible routes;
+- wheelchair space; and
+- securement systems.
 
 <figure class="img-right">
   <img src="./images/205-av2of2.jpg" alt="Overhead illustration of AV with a clear floor space inside, showing person in powerchair in the clear floor space. Caption: The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems." class="center">
