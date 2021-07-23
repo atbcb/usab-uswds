@@ -53,17 +53,19 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
   </figcaption>
 </figure>
     
-U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
+U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "these vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
 
 Fehribach then introduced a message from Secretary of Transportation **Pete Buttigieg** who emphasized the need to make AVs both safe and accessible for people with disabilities and remove barriers to transportation resources at large.
 
-<figure class="center">
-  <img src="./images/102-buttigieg.png" alt="Pete Buttigieg photo at podium, U.S. Department of Transportaion" class="img-center">
+<figure class="img-center">
+  <img src="./images/102-buttigieg.png" alt="Pete Buttigieg photo at podium, U.S. Department of Transportaion" class="center">
   <figcaption style="text-align:center">
     <em><q>We have an opportunity to incorporate access, equity and accessibility for all from the beginning of our coming major policy and technology decisions.</q></em> <br>
-     Secretary Pete Buttigieg, U.S. Department of Transportation
+     Secretary Pete Buttigieg <br>
+     U.S. Department of Transportation <br>
   </figcaption>
 </figure>
+
 <figure class="img-left">
   <img src="./images/103-hutcheson.png" alt="Robin Hutcheson thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
@@ -98,10 +100,10 @@ The ADA guidelines for buses and vans address various features, including:
 - doorways; and
 - illumination.
 
-Under the guidelines, vehicles must provide accessible boarding and alighting through either a ramp or bridge plate, lift or level boarding.  At least one means of access must be able to deploy to the roadway so that access is provided where no curb or level boarding platform is present or during an emergency.
+Under the guidelines, vehicles must provide accessible boarding and alighting through either a ramp or bridge plate, lift, or level boarding.  At least one means of access must be able to deploy to the roadway so that access is provided where no curb or level boarding platform is present or during an emergency.
 
 <figure class="img-left">
-  <img src="./images/106-av2of2.png" alt="Man using a power wheelchair going up a ramp into an autonomous vehicle.">
+  <img src="./images/106-av2of2.png" alt="Man using a power wheelchair going up a ramp into an autonomous vehicle. Caption: The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.">
   <figcaption style="text-align:center">
     <em>The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.</em>
   </figcaption>
@@ -122,15 +124,15 @@ Doorways must open to a clear width of at least 32 inches and have a contrasting
   </figcaption>
 </figure>
 
-**Dr. Victor Paquet** of the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu) (IDeA Center) at the University at Buffalo presented results of two vehicle ramp research studies that focused on the effects of ramp slope and multi-segment ramp configuration on human performance during ascension and descension for people with disabilities including users of manual wheelchairs, power wheelchairs, scooters, white canes, and other walking aids under ideal laboratory environmental conditions.
+**Dr. Victor Paquet** of the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu/) (IDeA Center) at the University at Buffalo presented results of two vehicle ramp research studies that focused on the effects of ramp slope and multi-segment ramp configuration on human performance during ascension and descension for people with disabilities including users of manual wheelchairs, power wheelchairs, scooters, white canes, and other walking aids under ideal laboratory environmental conditions.
 
 The first study investigated the effects of ramp slope on human performance during ramp ascent and descent.  Each research participant ascended and descended ramps of different slopes, including those with a rise to run of 1:12, 1:8, 1:6, and 1:4.  Unsurprisingly, ramp ascent times and perceived exertion decreased as slope decreased.  Ramp slopes of 1:8 and 1:12 were the easiest for all user groups, while the 1:4 slope and 1:6 slope hampered 33% and 15% of users from independently completing ascent, respectively.  Power wheelchair users, individuals with visual impairments, and other ambulation aid users rated descent, or going down steep ramps, more difficult than going up.  
 
 <figure class="img-right">
   <img src="./images/108-rampstudy.png" alt="A photograph showing a manual wheelchair user on a ramp." class="center">
   <figcaption style="text-align:center">
-    <em>A study participant tests a ramp with a <br>
-    1:8 slope using a manual wheelchair.</em>
+    <em>A study participant tests a ramp with <br>
+    a 1:8 slope using a manual wheelchair.</em>
   </figcaption>
 </figure>
 
@@ -180,7 +182,7 @@ Speakers also addressed accessibility for other types of disabilities, including
 
 ### References - Session 1
 
-[Session Recording](https://www.youtube.com/watch?v=xI1j1V1SyjE "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pptx) (23 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pdf) (4 MB)
+[Session Recording](https://www.youtube.com/watch?v=xI1j1V1SyjE "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pptx) (23 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pdf)  (4 MB)
 
 ## Accessibility for Passengers with Mobility Disabilities: Part 2
 
@@ -204,8 +206,7 @@ He then introduced **Jennifer Sheehy** who is the Acting Director of [Office of 
   </figcaption>
 </figure>
 
-*"Many people don't realize that transportation is one of the most important and, perhaps, least appreciated components of employment success for people with disabilities.  After all, the best employment program or job opportunity means nothing and provides little benefit if people cannot access reliable transportation to work."*
-
+*"Many people don't realize that transportation is one of the most important and, perhaps, least appreciated components of employment success for people with disabilities.  After all, the best employment program or job opportunity means nothing and provides little benefit if people cannot access reliable transportation to work."* <br>
 Jennifer Sheehy <br>
 Acting Director, ODEP
 
@@ -221,8 +222,7 @@ Acting Director, ODEP
 
 **Scott Windley**, an Accessibility Specialist with the U.S. Access Board, reviewed existing guidelines for transportation vehicles issued by the Board under the ADA.  The [ADA Accessibility Guidelines for Transportation Vehicles]({{ site.baseurl }}/ada/vehicles/) (1991) cover buses, vans, rail cars, and other transportation vehicles and serve as the basis for enforceable standards implemented by DOT.  The Board [updated]({{ site.baseurl }}/guidelines-standards/vehicles/update-buses-vans/guidelines-text/) sections of the guidelines covering buses and vans in 2016, but these provisions are not yet included in DOT's enforceable standards.
 
-![Illustration of AV with ramp deployed person in power chair inside AV.](./images/204-av1of2.jpg){: .img-right }
-{: .clear }
+![Illustration of AV with ramp deployed person in power chair inside AV.](./images/204-av1of2.jpg){: .img-left }
 
 In addition to requirements for boarding and alighting access, the vehicle guidelines address:
 
@@ -231,7 +231,7 @@ In addition to requirements for boarding and alighting access, the vehicle guide
 - wheelchair space; and
 - securement systems.
 
-<figure class="img-left">
+<figure class="img-right">
   <img src="./images/205-av2of2.jpg" alt="Overhead illustration of AV with a clear floor space inside, showing person in powerchair in the clear floor space. Caption: The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems." class="center">
   <figcaption style="text-align:center">
     <em>The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.</em>
@@ -290,6 +290,7 @@ Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https:/
     <em>Miriam Manary</em>
   </figcaption>
 </figure>
+
 <figure class="img-right">
   <img src="./images/209-klinich.jpg" alt="Dr. Kathleen Klinich thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
@@ -370,7 +371,7 @@ Additional comments addressed access to AVs used for taxi service, payment syste
 
 ### References - Session 2
 
-[Session Recording](https://youtu.be/d9xc-mRrlxY?t=38 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pptx) (18 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pdf) (6 MB)
+[Session Recording](https://youtu.be/d9xc-mRrlxY?t=38 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pptx)  (18 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pdf)  (6 MB)
 
 ## Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1
 
@@ -385,7 +386,7 @@ The third session focused on ride-hailing and on-board communication for passeng
 
 "This topic could not be more important as cities around the world are deploying, testing, and piloting technology that has tremendous implications for the lives of persons with sensory and cognitive disabilities," Dr. Pineda remarked.  "We want to make sure that nobody is left behind.  We want to make sure that there are clear standards and guidelines.  But most importantly, we want to all be on the same page of understanding what is the future we want."  He also stressed the need for people with disabilities to be actively engaged in helping shape technology and infrastructure.
 
-<figure class="float-right">
+<figure class="img-right">
   <img src="./images/302-presley.jpg" alt="Sarah Presley thumbnail portrait photo">
   <figcaption style="text-align:center">
     <em>Sarah Presley</em>
@@ -403,6 +404,7 @@ The third session focused on ride-hailing and on-board communication for passeng
     <em>Andrea Lubin</em>
   </figcaption>
 </figure>
+
 <figure class="img-right">
   <img src="./images/303-feeley.jpg" alt="Cecilia Feeley thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
@@ -464,7 +466,7 @@ Brewer concluded with a couple points for future researchers and designers.  Fir
   </figcaption>
 </figure>
 
-The next speaker was Anil Lewis who is Executive Director of Blindness Initiatives at the National Federation of the Blind(NFB), which has developed some relationships with automobile manufacturers and researchers through its work with the [Blind Driver Challenge](https://nfb.org/programs-services/center-excellence-nonvisual-access/blind-driver-challenge).  Lewis invited the audience to take an imaginary virtual trip in an AV as a passenger who is blind, from requesting service for the vehicle, to taking the ride, and to arriving at the destination. 
+The next speaker was Anil Lewis who is Executive Director of Blindness Initiatives at the National Federation of the Blind (NFB), which has developed some relationships with automobile manufacturers and researchers through its work with the [Blind Driver Challenge](https://nfb.org/programs-services/center-excellence-nonvisual-access/blind-driver-challenge).  Lewis invited the audience to take an imaginary virtual trip in an AV as a passenger who is blind, from requesting service for the vehicle, to taking the ride, and to arriving at the destination. 
 
 As Lewis took forum attendees through this virtual trip, he noted several complications and complexities for individuals who are blind interacting with AVs.  He observed that the ridesharing model provides a viable model for requesting the vehicle via a smart phone app, but this app must be accessible to people who are blind.  For those who are less tech savvy, requesting the ride through traditional telephone may provide an option, either by speaking with a customer service representative or working through an automated system.  
 
@@ -509,7 +511,7 @@ One commenter requested that passengers with electromagnetic sensitivities be in
 
 ### References - Session 3
 
-[Session Recording](https://www.youtube.com/watch?v=nfh-MpcNCB8 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07_for_web.pptx)  (46 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07.pdf) (6 MB)
+[Session Recording](https://www.youtube.com/watch?v=nfh-MpcNCB8 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07_for_web.pptx)  (46 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07.pdf)  (6 MB)
 
 ## Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2
 
@@ -638,7 +640,7 @@ Guild concluded with some takeaways to consider for AVs:
 
 Section 508 relies on a definition by the [Clinger-Cohen Act of 1996, 40 U.S.C. 11101(6)](https://www.govinfo.gov/content/pkg/USCODE-2013-title40/html/USCODE-2013-title40-subtitleIII.htm) for "information technology."  With respect to an executive agency, IT means:
 
-> "any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use of that equipment; or of that equipment to a significant extent in the performance of a service or the furnishing of a product."  IT "includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but does not include any equipment acquired by a federal contractor incidental to a federal contract."
+"any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use of that equipment; or of that equipment to a significant extent in the performance of a service or the furnishing of a product."  IT "includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but does not include any equipment acquired by a federal contractor incidental to a federal contract."
 
 The Clinger-Cohen definition of IT seems perfectly applicable to automata, including robots and AVs.  Section 508 requires that ICT, and IT, be accessible to individuals with disabilities.  The Section 508 Standards are the base metrics for that accessibility, and they comprehensively address information kiosks and other hardware and could be used for assessing the accessibility of AVs.
 
