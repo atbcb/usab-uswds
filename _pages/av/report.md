@@ -49,9 +49,7 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
 <figure class="right">
   <img src="./images/101-fehirbach.jpg" alt="Greg Fehribach thumbnail portrait photo" class="img-right">
   <figcaption style="text-align:center">
-      <figcaption class="right">
-   <em>Greg Fehirbach</em> <br />
-    </figcaption class>
+   <em>Greg Fehirbach</em>
     </figcaption>
 </figure>
     
