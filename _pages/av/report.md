@@ -57,15 +57,14 @@ U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "these v
 
 Fehribach then introduced a message from Secretary of Transportation **Pete Buttigieg** who emphasized the need to make AVs both safe and accessible for people with disabilities and remove barriers to transportation resources at large.
 
-<figure class="img-center">
-  <img src="./images/102-buttigieg.png" alt="Pete Buttigieg photo at podium, U.S. Department of Transportaion" class="center">
+<figure class="center">
+  <img src="./images/102-buttigieg.png" alt="Pete Buttigieg photo at podium, U.S. Department of Transportaion" class="img-center">
   <figcaption style="text-align:center">
     <em><q>We have an opportunity to incorporate access, equity and accessibility for all from the beginning of our coming major policy and technology decisions.</q></em> <br>
      Secretary Pete Buttigieg <br>
      U.S. Department of Transportation <br>
   </figcaption>
 </figure>
-
 <figure class="img-left">
   <img src="./images/103-hutcheson.png" alt="Robin Hutcheson thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
