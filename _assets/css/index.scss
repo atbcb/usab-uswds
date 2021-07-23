@@ -224,9 +224,9 @@ td ul.check {
 }
 
 button {
-  a:link { color:white; }
-  a:hover { color:aqua; }
-  a:active { color:yellow; }
+  a:link { color:white; text-decoration:none; }
+  a:hover { color:aqua !important; }
+  a:active { color:yellow !important; text-decoration:none; }
   a:visited { color:silver; }
 }
 
