@@ -220,7 +220,7 @@ Acting Director, ODEP
 
 **Scott Windley**, an Accessibility Specialist with the U.S. Access Board, reviewed existing guidelines for transportation vehicles issued by the Board under the ADA.  The [ADA Accessibility Guidelines for Transportation Vehicles](https://www.access-board.gov/ada/vehicles/) (1991) cover buses, vans, rail cars, and other transportation vehicles and serve as the basis for enforceable standards implemented by DOT.  The Board [updated](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/) sections of the guidelines covering buses and vans in 2016, but these provisions are not yet included in DOT's enforceable standards.
 
-![Illustration of AV with ramp deployed person in power chair inside AV.](./images/204-av1of2.jpg){: .img-right }
+![Illustration of AV with ramp deployed person in power chair inside AV.](./images/204-av1of2.jpg){: .img-left }
 {: .clear }
 
 In addition to requirements for boarding and alighting access, the vehicle guidelines address:
@@ -230,7 +230,7 @@ In addition to requirements for boarding and alighting access, the vehicle guide
 - wheelchair space; and
 - securement systems.
 
-<figure class="img-left">
+<figure class="img-right">
   <img src="./images/205-av2of2.jpg" alt="Overhead illustration of AV with a clear floor space inside, showing person in powerchair in the clear floor space. Caption: The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems." class="center">
   <figcaption style="text-align:center">
    <em>The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.</em>
@@ -285,6 +285,13 @@ Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https:/
 {: .clear }
 
 <figure class="img-right">
+  <img src="./images/210-manary.jpg" alt="Miriam Manary thumbnail portrait photo" class="center">
+  <figcaption style="text-align:center">
+   <em>Miriam Manary</em>
+    </figcaption>
+</figure>
+
+<figure class="img-right">
   <img src="./images/209-klinich.jpg" alt="Dr. Kathleen Klinich thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Kathleen Klinich</em>
@@ -292,13 +299,6 @@ Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https:/
 </figure>
 
 **Dr. Kathleen Klinich** and **Miriam Manary** of the [University of Michigan's Transportation Research Institute](https://umtri.umich.edu/) (UMTRI) gave a presentation on research that is underway to develop an automated wheelchair tiedown and occupant restraint system.  Funded by National Highway Traffic Safety Administration, the [project](https://umtri.umich.edu/research/projects/development-of-an-automated-wheelchair-tiedown-and-occupant-restraint-system/)  will test a "universal docking interface geometry" (UDIG) that features an anchorage system in the vehicle that can be used with any wheelchair equipped with the attachment hardware, similar in concept to a semi-truck trailer hitch.  While this kind of technology has been available, field tested, and evaluated for decades, it has not been widely implemented because it needs to be installed extensively on both wheelchairs and in vehicles.  The need for independent docking options may have renewed interest in such a solution. 
-
-<figure class="img-right">
-  <img src="./images/210-manary.jpg" alt="Miriam Manary thumbnail portrait photo" class="center">
-  <figcaption style="text-align:center">
-   <em>Miriam Manary</em>
-    </figcaption>
-</figure>
 
 Klinich and Manary's project, which started in October 2019, will develop an automated wheelchair docking station and seat belt through a combination of computational models, assessments of usability by volunteers, and dynamic sled testing.  Klinich and Manary are currently using crash test modelling to determine the best place to position the wheelchair relative to the anchorage system and the positioning of shoulder and lap belt anchors.  Additionally, they are evaluating the potential benefits of an airbag restraint for occupants using wheelchairs.
 
@@ -394,8 +394,6 @@ The third session focused on ride-hailing and on-board communication for passeng
 </figure>
 
 **Sarah Presley**, an Accessibility Specialist with the U.S. Access Board, provided an overview of the program agenda and introduced the first presenters. 
-{: .clear }
-{: .clear }
 
 ### Presentation: Results of Focus Groups on AVs and Persons with Disabilities by Rutgers University and Princeton University
 {: .clear }
@@ -414,7 +412,7 @@ The third session focused on ride-hailing and on-board communication for passeng
     </figcaption>
 </figure>
 
-Dr. Cecilia Feeley, Transportation Autism Project Manager, and Andrea Lubin, Senior Researcher, at Rutgers University gave a presentation on their findings from a series of focus groups of adults with disabilities who took short autonomous shuttle rides.  A core intent of this [research](https://cait.rutgers.edu/research/autonomous-vehicles-capturing-in-vehicle-experience-focus-group-follow-up-with-persons-with-autism-and-other-disabilities-at-the-2019-princeton-university-smartdrivingcar-summit/)  was to gather feedback and recommendations from persons with visual or cognitive disabilities.  Conducted jointly by Rutgers University and Princeton University, the study convened four focus groups with a total of 21 participants.
+**Dr. Cecilia Feeley**, Transportation Autism Project Manager, and **Andrea Lubin**, Senior Researcher, at Rutgers University gave a presentation on their findings from a series of focus groups of adults with disabilities who took short autonomous shuttle rides.  A core intent of this [research](https://cait.rutgers.edu/research/autonomous-vehicles-capturing-in-vehicle-experience-focus-group-follow-up-with-persons-with-autism-and-other-disabilities-at-the-2019-princeton-university-smartdrivingcar-summit/)  was to gather feedback and recommendations from persons with visual or cognitive disabilities.  Conducted jointly by Rutgers University and Princeton University, the study convened four focus groups with a total of 21 participants.
 
 The majority of participants said that they do not use personal assistance for their current modes of transportation and would not need personal assistance using AVs, at least not in the long term.  Some participants with developmental disabilities did say that they would like the option of having a family member accompany them on AV trips until they felt comfortable traveling independently using this new mode of transportation.  Some participants who are blind or have low vision said that it would be helpful if assistance was always available to open and close vehicle doors, provide guidance to available seats, help with passenger bags, and secure wheelchairs or other mobility devices. 
 
