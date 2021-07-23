@@ -303,22 +303,22 @@ Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https:/
 
 Klinich and Manary's project, which started in October 2019, will develop an automated wheelchair docking station and seat belt through a combination of computational models, assessments of usability by volunteers, and dynamic sled testing.  Klinich and Manary are currently using crash test modelling to determine the best place to position the wheelchair relative to the anchorage system and the positioning of shoulder and lap belt anchors.  Additionally, they are evaluating the potential benefits of an airbag restraint for occupants using wheelchairs.
 
-<figure class="img-left">
-  <img src="./images/211-securement2of4.png" alt="UDIG anchorage dock design rendering showing two lateral facing anchor hooks that deploy using a two smaller actuators. Caption: Universal docking interface geometry (UDIG)" class="center">
-  <figcaption style="text-align:center">
-   <em>Universal docking interface geometry (UDIG)</em>
+<div>
+  <figure class="img-left">
+    <img src="./images/211-securement2of4.png" alt="UDIG anchorage dock design rendering showing two lateral facing anchor hooks that deploy using a two smaller actuators." class="center">
+    <figcaption style="text-align:center">
+      <em>Universal docking interface geometry (UDIG)</em>
     </figcaption>
-</figure>
-
-<figure class="img-right">
-  <img src="./images/212-securement3of4.jpg" alt="Rear view of manual wheelchair showing UDIG attachments. Two vertical posts are located between the rear wheels, and attached to the frame with horizontal rods at the top and bottom that extend back to near the tiedown hooks. Caption: Wheelchair attachment for UDIG system.">
-  <figcaption style="text-align:center">
-   <em>Wheelchair attachment for UDIG system.</em>
+  </figure>
+  <figure class="img-right">
+    <img src="./images/212-securement3of4.jpg" alt="Rear view of manual wheelchair showing UDIG attachments. Two vertical posts are located between the rear wheels, and attached to the frame with horizontal rods at the top and bottom that extend back to near the tiedown hooks.">
+    <figcaption style="text-align:center">
+      <em>Wheelchair attachment for UDIG system.</em>
     </figcaption>
-</figure>
+  </figure>
+</div>
 
 ![Universal docking interface geometry installed in vehicle used in testing](./images/213-securement4of4.png){: .img-right }
-{: .clear }
 
 Klinich and Manary designed a prototype with attachments for both manual and power wheelchairs.  Both attachment styles have a vertical bar spaced in between the rear wheels.  Users back their wheelchair into the station and align the attachments on their wheelchair against the docking system which has two hooks that deploy outward and connect to the attachments.
 
@@ -377,7 +377,7 @@ Additional comments addressed access to AVs used for taxi service, payment syste
 ## Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1
 
 <figure class="img-right">
-  <img src="./images/301-pineda.png" alt="Dr. Victor Pineda thumbnail portrait photo" class="center">
+  <img src="./images/301-pineda.png" alt="Victor Pineda thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Victor Pineda</em>
     </figcaption>
@@ -407,7 +407,7 @@ The third session focused on ride-hailing and on-board communication for passeng
 </figure>
 
 <figure class="img-right">
-  <img src="./images/303-feeley.jpg" alt="Dr. Cecilia Feeley thumbnail portrait photo" class="center">
+  <img src="./images/303-feeley.jpg" alt="Cecilia Feeley thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Cecilia Feeley</em>
     </figcaption>
@@ -420,7 +420,7 @@ The majority of participants said that they do not use personal assistance for 
 Safety-related concerns were the most discussed issue by participants.  Suggestions for addressing these concerns included use of on-board cameras to capture safety-related issues and use of audio and visual sensors that can assist AVs in identifying and responding appropriately to approaching emergency vehicles.  Recommendations to address vehicle malfunction or accident concerns focused on the presence of an on-board attendant. 
 
 <figure class="img-right">
-  <img src="./images/305-av.png" alt="photo of Olli Shuttle stopped on the street with the door open and the sidewalk in front. Caption: AV Shuttle used in the focus group study." class="center">
+  <img src="./images/305-av.png" alt="Photo of Olli shuttle stopped on the street with the door open and the sidewalk in front." class="center">
   <figcaption style="text-align:center">
    <em>AV Shuttle used in the focus group study.</em>
     </figcaption>
@@ -433,7 +433,7 @@ Passengers who are blind or have low vision noted that several design features s
 ### Presentation: Research on AVs for Blind and Low Vision People by the University of Michigan
 
 <figure class="img-right">
-  <img src="./images/306-brewer.jpg" alt="Dr. Robin Brewer thumbnail portrait photo" class="center">
+  <img src="./images/306-brewer.jpg" alt="Robin Brewer thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Robin Brewer</em>
     </figcaption>
@@ -445,7 +445,12 @@ Participants were primarily concerned about control when a vehicle malfunction
 
 Several focus group participants expressed a preference to use semi-autonomous vehicles, contrary to what some in industry might expect.  They pointed out that some people who are blind may have prior experience with driving and may still connect their identity with driving. 
 
-![Image from design focus groups where 1 participant is passing around 3 popsicle sticks arranged on a corkboard such that one stick is in the center of the board, one stick is attached to the end of the stick in the center and pointed up, and the other stick is also attached to the end of the center but pointed down. ](./images/307-userstudy.jpg){: .img-right }
+<figure class="img-right">
+  <img src="./images/307-userstudy.jpg" alt="One participant is passing around three popsicle sticks arranged on a corkboard such that one stick is in the center of the board, one stick is attached to the end of the stick in the center and pointed up, and the other stick is also attached to the end of the center but pointed down." class="center">
+  <figcaption style="text-align:center">
+   <em>Photograph from design focus group activity.</em>
+    </figcaption>
+</figure>
 
 The findings indicate that the effort to make AVs accessible cannot focus exclusively on vehicle design and must also consider the overall process or context for using the automated vehicles.  Brewer and her co-researchers interviewed passengers and drivers to determine what can be learned from ride-sharing experiences of people who are blind and the drivers transporting them.  One issue raised was that drivers cannot always independently locate passengers due to GPS inaccuracies, and passengers who are blind must direct drivers to their pick-up locations.  In addition, persons who are blind may ask drivers to help them find their destinations once the car has arrived at the designated location, and to help them unload luggage or packages from the car. 
 
@@ -481,7 +486,7 @@ Lewis stressed that a blind person's level of travel training will inform their
 ### Presentation: AVs from a Deaf/Hard of Hearing Perspective
 
 <figure class="img-right">
-  <img src="./images/309-vogler.png" alt="Dr. Christian Vogler thumbnail portrait photo" class="center">
+  <img src="./images/309-vogler.png" alt="Christian Vogler thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Christian Vogler</em>
     </figcaption>
@@ -526,7 +531,7 @@ U.S. Access Board Accessibility Specialist **Sarah Presley** hosted the event an
 {: .clear }
 
 <figure class="img-right">
-  <img src="./images/402-steinfeld.png" alt="Dr. Aaron Steinfeld thumbnail portrait photo" class="center">
+  <img src="./images/402-steinfeld.png" alt="Aaron Steinfeld thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Aaron Steinfeld</em>
     </figcaption>
@@ -549,7 +554,7 @@ Researchers and designers will need to account for how weather conditions, unant
 ### Presentation: Cognitive Access to Autonomous Vehicles
 
 <figure class="img-right">
-  <img src="./images/403-vanderheiden.png" alt="Dr. Gregg Vanderheiden thumbnail portrait photo" class="center">
+  <img src="./images/403-vanderheiden.png" alt="Gregg Vanderheiden thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Gregg Vanderheiden</em>
     </figcaption>
@@ -594,7 +599,7 @@ He also reviewed concerns for privacy and potential for data abuse, supplementin
 
 **Darryl Cooper**, Attorney Advisor with the FCC Disability Rights Office, addressed FCC rules that that are applicable to AV communication systems.  He noted that two-way live wireless communications are covered by FCC rules, as well as text messages.  In-car entertainment systems are already explicitly covered, and there are well established accessibility requirements for captioning, audio description, emergency communications, user interface, and program guides.  Additionally, FCC rules require that user interfaces and program guides for communication and video programming need to be accessible.  From a layperson's perspective, these in-car entertainment systems would be expected to be leveraged as the default tool for interacting with an AV.
 
-![FCC seal](./images/405-fcc.png){: .img-left }
+![FCC seal](./images/405-fcc.jpg){: .img-left }
 
 He noted that the FCC [Disability Rights Office](https://www.fcc.gov/accessibility) is available for guidance on resolving communication accessibility issues that fall under FCC rules.  He also mentioned that solutions to communication service issues are already in the marketplace.  For example, people who are blind or have cognitive disabilities can activate a user interface to begin a phone call or text message.  Voice activation also works, as well as automatic speech recognition (ASR).  For people who are deaf, hard of hearing, deafblind, or have speech disabilities, text-based solutions such as real-time text and ASR providers are researching how to program their ASR for people with speech disabilities.
 
@@ -652,7 +657,7 @@ Bailey moderated the open forum that followed.  One attendee called attention to
 
 ## Summary of Comments from AV Online Dialogue
 
-![Icon of people and comment bubbles](./images/500-epolicyworks.png){: .img-right }Members of the public were invited to share their ideas, comments, and information on AV accessibility through an online crowd-sourcing [dialogue platform](https://transportationinnovation.ideascale.com/) that provided another opportunity for input throughout the webinar series.  This platform was open for comment throughout the series and closed on May 5, 2021. 
+![icon of people and comment bubbles](./images/500-epolicyworks.png){: .img-right }Members of the public were invited to share their ideas, comments, and information on AV accessibility through an online crowd-sourcing [dialogue platform](https://transportationinnovation.ideascale.com/) that provided another opportunity for input throughout the webinar series.  This platform was open for comment throughout the series and closed on May 5, 2021. 
 
 Specific discussion topics included: 
 
