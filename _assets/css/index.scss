@@ -223,6 +223,13 @@ td ul.check {
   a:visited { color:silver; }
 }
 
+button {
+  a:link { color:white; }
+  a:hover { color:aqua; }
+  a:active { color:yellow; }
+  a:visited { color:silver; }
+}
+
 // override default gray to get a little more contrast
 li.usa-nav__secondary-item a {
   color: color(gray-cool-60);
