@@ -49,7 +49,7 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
 <figure class="img-right">
   <img src="./images/101-fehirbach.jpg" alt="Greg Fehribach thumbnail portrait photo">
   <figcaption style="text-align:center">
-   <em>Greg Fehirbach</em>
+   <em>Greg Fehribach</em>
     </figcaption>
 </figure>
     
@@ -66,15 +66,24 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
   </figcaption>
 </figure>
 
-![Robin Hutcheson thumbnail portrait photo](./images/103-hutcheson.png){: .img-left }
-<figcaption>Robin Hutcheson</figcaption>
+<figure class="img-left">
+  <img src="./images/103-hutcheson.png" alt="Robin Hutcheson thumbnail portrait photo">
+  <figcaption style="text-align:center">
+   <em>Robin Hutcheson</em>
+    </figcaption>
+</figure>
 
 He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
 
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles
 {: .clear }
 
-![Randall Duchesneau thumbnail portrait photo](./images/104-duschesneau.png){: .img-right }
+<figure class="img-right">
+  <img src="./images/104-duschesneau.png" alt="Randall Duchesneau thumbnail portrait photo">
+  <figcaption style="text-align:center">
+   <em>Randall Duchesneau</em>
+    </figcaption>
+</figure>
 
 The session program focused on accessibility for passengers with mobility disabilities in boarding and exiting vehicles.  **Randall Duchesneau**, an Accessibility Specialist at the U.S. Access Board, provided an overview of the accessibility guidelines for transportation vehicles the Board issued under the Americans with Disabilities Act (ADA).  The Board published the original [ADA Accessibility Guidelines for Transportation Vehicles]({{ site.baseurl }}/ada/vehicles/) in 1991, one year after the law's passage.  They address buses, vans, rail cars, and other transportation vehicles.  These guidelines serve as the basis for standards DOT uses to enforce the ADA.  In 2016, the Board updated the sections of the [guidelines covering buses and vans]({{ site.baseurl }}/guidelines-standards/vehicles/update-buses-vans/guidelines-text/).  DOT has not yet implemented these updated provisions as enforceable standards.
 
@@ -91,14 +100,13 @@ The ADA vehicle guidelines do not specifically address AVs but may be applicable
 
 Under the guidelines, vehicles must provide accessible boarding and alighting through either a ramp or bridge plate, lift or level boarding.  At least one means of access must be able to deploy to the roadway so that access is provided where no curb or level boarding platform is present or during an emergency.
 
-<figure class="left">
-  <img src="./images/106-av2of2.png" alt="Man using a power wheelchair going up a ramp into an autonomous vehicle. Caption: The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp." class="img-left">
+<figure class="img-left">
+  <img src="./images/106-av2of2.png" alt="Man using a power wheelchair going up a ramp into an autonomous vehicle. Caption: The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.">
   <figcaption style="text-align:center">
-      <figcaption class="left">
-   <em>The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.</em> <br />
-   </figcaption>
+   <em>The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.</em>
+    </figcaption>
 </figure>
-
+  
 Level boarding is the best way to provide access where vehicle floor heights can be coordinated with boarding platforms.  The gap between the boarding platform and the vehicle is limited to 2 inches so that casters and crutch tips do not get trapped.  Otherwise, a ramp or bridge plate is needed to span the gap.  Vertical differentials between both surfaces cannot exceed 5/8 inch.  "Kneeling" vehicles with automated self-adjusting ride heights could achieve level boarding at various boarding platforms.  Specifications also address the surfaces of ramps, bridge plates, lifts, and vehicle floors, including slip-resistance, openings, and surface discontinuities. 
 
 Ramps are permitted to fold or telescope and need to support either 300 or 600 pounds depending on the length of the ramp and have manual operational capability in case of power failure.  Lifts must permit users the option of boarding the platform either toward or away from the vehicle and comply with the Federal Motor Vehicle Safety Standards.
@@ -107,15 +115,23 @@ Doorways must open to a clear width of at least 32 inches and have a contrasting
 
 ### Presentation: Research on Vehicle Ramps by the Center for Inclusive Design and Environmental Access
 
-![Victor Paquet thumbnail portrait photo](./images/107-paquet.jpg){: .img-right }
+<figure class="img-right">
+  <img src="./images/107-paquet.jpg" alt="Victor Paquet thumbnail portrait photo">
+  <figcaption style="text-align:center">
+   <em>Victor Paquet</em>
+    </figcaption>
+</figure>
 
 **Dr. Victor Paquet** of the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu/) (IDeA Center) at the University at Buffalo presented results of two vehicle ramp research studies that focused on the effects of ramp slope and multi-segment ramp configuration on human performance during ascension and descension for people with disabilities including users of manual wheelchairs, power wheelchairs, scooters, white canes, and other walking aids under ideal laboratory environmental conditions.
 
 The first study investigated the effects of ramp slope on human performance during ramp ascent and descent.  Each research participant ascended and descended ramps of different slopes, including those with a rise to run of 1:12, 1:8, 1:6, and 1:4.  Unsurprisingly, ramp ascent times and perceived exertion decreased as slope decreased.  Ramp slopes of 1:8 and 1:12 were the easiest for all user groups, while the 1:4 slope and 1:6 slope hampered 33% and 15% of users from independently completing ascent, respectively.  Power wheelchair users, individuals with visual impairments, and other ambulation aid users rated descent, or going down steep ramps, more difficult than going up.  
 
-![A photograph showing a manual wheelchair user on ramps of 1 to 8.](./images/108-rampstudy.png){: .img-right }
-
-![Text Box: A study participant tests a ramp with a 1:8 slope using a manual wheelchair.]
+<figure class="img-right">
+  <img src="./images/108-rampstudy.png" alt="A photograph showing a manual wheelchair user on ramps of 1 to 8. Caption: A study participant tests a ramp with a 1:8 slope using a manual wheelchair.">
+  <figcaption style="text-align:center">
+   <em>A study participant tests a ramp with a 1:8 slope using a manual wheelchair.</em>
+    </figcaption>
+</figure>
 
 The second study investigated the effects of a different multi-segmented ramp configuration.  Test conditions simulated a three-segment ramp deployed to below street level, street level, a 3.3-inch curb, 4.5-inch curb, 6-inch curb, and 8-inch curb.  Slopes for the middle segment of the ramp were approximately 1:6 for street level and below street level conditions and negligible for deployment to curbs.  Slopes for the bottom segment of the ramp ranged from approximately 1:5 for below street level conditions to 1:15 for the 8-inch curb condition.  
 
@@ -125,13 +141,18 @@ In summary, the IDeA Center's project supports a maximum slope for vehicle 
 
 ### Presentation: National Mobility Equipment Dealers Association and BraunAbility
 
-![NMEDA logo](./images/1-nmeda.png){: .img-right }
+![National Mobility Equipment Dealers Association logo](./images/1-nmeda.png){: .img-right }
 
 **Amy Schoppman**, Director of Governmental Affairs at the [National Mobility Equipment Dealers Association](https://nmeda.org) (NMEDA), spoke briefly about the need to work collectively to ensure that the associated complexities and challenges of AVs are addressed for accessibility and inclusivity.  She introduced the next speaker, **Kevin Frayne** who is Director of Advanced Mobility Solutions at [BraunAbility](https://www.braunability.com/us/en.html), which is one of NMEDA's member companies. 
 
 Frayne discussed accessible ramps, challenges with underfloor batteries, and innovative flooring solutions.  He noted that autonomous vehicles are not forthcoming but operating at the present moment.  Working with Navya, a company specializing in the design and construction of AVs, BraunAbility recently developed an ADA ramp solution as part of a pilot project in a Detroit neighborhood and medical center.  
 
-![Kevin Frayne](./images/109-frayne.jpg){: .img-right }
+<figure class="img-right">
+  <img src="./images/109-frayne.jpg" alt="Kevin Frayne thumbnail portrait photo">
+  <figcaption style="text-align:center">
+   <em>Kevin Frayne</em>
+    </figcaption>
+</figure>
 
 Accessible solutions are often contingent upon the geometry of the vehicle.  For example, an inordinately high paratransit van has to use a lift, but vehicles that can achieve a 10-inch or, preferably, an 8-inch step-in height can use a ramp.  Frayne noted that lifts do not lend themselves to full autonomous operation.  Moreover, wheelchair users in the disability advocacy community are pushing for the normalcy of ramps.  Thus, the ideal solution for an AV would be a step-in design that can support a ramp angle.
 
@@ -162,7 +183,12 @@ Speakers also addressed accessibility for other types of disabilities, including
 
 ## Accessibility for Passengers with Mobility Disabilities: Part 2
 
-![Dr. Sachin Dev Pavithran](./images/201-pavithran.jpg){: .img-right }
+<figure class="img-right">
+  <img src="./images/201-pavithran.jpg" alt="Dr. Sachin Dev Pavithran thumbnail portrait photo">
+  <figcaption style="text-align:center">
+   <em>Dr. Sachin Dev Pavithran</em>
+    </figcaption>
+</figure>
 
 The second session continued discussion of accessibility for passengers with mobility disabilities and focused on maneuvering and securement in vehicles. 
 
@@ -170,7 +196,12 @@ U.S. Access Board Executive Director **Sachin Pavithran** opened the program
 
 He then introduced **Jennifer Sheehy **who is the Acting Director of [Office of Disability Employment Policy ](https://www.dol.gov/agencies/odep)(ODEP).  ODEP was an active partner on this forum and hosted the dialog platform that was open throughout the series. 
 
-![Jennifer Sheehy](./images/202-sheehy.jpg){: .img-left }
+<figure class="img-left">
+  <img src="./images/202-sheehy.jpg" alt="Jennifer Sheehy thumbnail portrait photo">
+  <figcaption style="text-align:center">
+   <em>Jennifer Sheehy</em>
+    </figcaption>
+</figure>
 
 *"Many people don't realize that transportation is one of the most important and, perhaps, least appreciated components of employment success for people with disabilities.  After all, the best employment program or job opportunity means nothing and provides little benefit if people cannot access reliable transportation to work."*
 
@@ -180,11 +211,18 @@ Acting Director, ODEP
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles
 {: .clear }
 
-![Scott Windley](./images/203-windley.jpg){: .img-right }**Scott Windley**, an Accessibility Specialist with the U.S. Access Board, reviewed existing guidelines for transportation vehicles issued by the Board under the ADA.  The [ADA Accessibility Guidelines for Transportation Vehicles](https://www.access-board.gov/ada/vehicles/) (1991) cover buses, vans, rail cars, and other transportation vehicles and serve as the basis for enforceable standards implemented by DOT.  The Board [updated](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/) sections of the guidelines covering buses and vans in 2016, but these provisions are not yet included in DOT's enforceable standards.
-{: .clear }
+<figure class="img-right">
+  <img src="./images/203-windley.jpg" alt="Scott Windley thumbnail portrait photo">
+  <figcaption style="text-align:center">
+   <em>Scott Windley</em>
+    </figcaption>
+</figure>
+
+**Scott Windley**, an Accessibility Specialist with the U.S. Access Board, reviewed existing guidelines for transportation vehicles issued by the Board under the ADA.  The [ADA Accessibility Guidelines for Transportation Vehicles](https://www.access-board.gov/ada/vehicles/) (1991) cover buses, vans, rail cars, and other transportation vehicles and serve as the basis for enforceable standards implemented by DOT.  The Board [updated](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/) sections of the guidelines covering buses and vans in 2016, but these provisions are not yet included in DOT's enforceable standards.
 
 ![Illustration of AV with ramp deployed person in power chair inside AV.](./images/204-av1of2.jpg){: .img-right }
 {: .clear }
+
 In addition to requirements for boarding and alighting access, the vehicle guidelines address:
 
 - walking surfaces;
@@ -192,9 +230,12 @@ In addition to requirements for boarding and alighting access, the vehicle guide
 - wheelchair space; and
 - securement systems.
 
-![Overhead illustration of AV with a clear floor space inside, showing person in powerchair in the clear floor space.](./images/205-av2of2.jpg){: .img-left }
-
-*The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.*
+<figure class="img-right">
+  <img src="./images/101-fehirbach.jpg" alt="Overhead illustration of AV with a clear floor space inside, showing person in powerchair in the clear floor space. Caption: The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.">
+  <figcaption style="text-align:center">
+   <em>The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.</em>
+    </figcaption>
+</figure>
 
 These provisions specify sufficient clearances that allow passengers using wheelchairs and power chairs to proceed from vehicle entry to designated wheelchair spaces, position for securement within the space, and exit the vehicle.  Wheelchair turning space is recommended, though not required, to provide greater maneuverability and usability. 
 
@@ -202,7 +243,12 @@ Wheelchair spaces must be at least 30 inches wide and 48 inches long.  An access
 
 ### Presentation: Robotic Research Projects: New Flyer and Paralift
 
-![Bryan Brillhart](./images/206-brilhart.jpg){: .img-right }
+<figure class="img-right">
+  <img src="./images/206-brilhart.jpg" alt="Bryan Brillhart thumbnail portrait photo">
+  <figcaption style="text-align:center">
+   <em>Bryan Brillhart</em>
+    </figcaption>
+</figure>
 
 **Bryan Brilhart**, Director of Operations at [Robotic Research](https://www.roboticresearch.com), gave a presentation on Robotic Research projects related to autonomous vehicles.  Robotic Research is a technology company and developer of autonomous systems for numerous military and commercial applications.
 
