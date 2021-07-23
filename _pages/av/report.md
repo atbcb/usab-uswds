@@ -194,7 +194,7 @@ The second session continued discussion of accessibility for passengers with mob
 
 U.S. Access Board Executive Director **Sachin Pavithran** opened the program.  He noted, "As a blind person myself, I look forward to the day when accessible transportation is a conversation of the past where all transportation is accessible.  And autonomous vehicles could be an answer to some of those innovations that could take place." 
 
-He then introduced **Jennifer Sheehy **who is the Acting Director of [Office of Disability Employment Policy](https://www.dol.gov/agencies/odep) (ODEP).  ODEP was an active partner on this forum and hosted the dialog platform that was open throughout the series. 
+He then introduced **Jennifer Sheehy** who is the Acting Director of [Office of Disability Employment Policy](https://www.dol.gov/agencies/odep) (ODEP).  ODEP was an active partner on this forum and hosted the dialog platform that was open throughout the series. 
 
 <figure class="img-left">
   <img src="./images/202-sheehy.jpg" alt="Jennifer Sheehy thumbnail portrait photo" class="center">
@@ -242,6 +242,7 @@ These provisions specify sufficient clearances that allow passengers using wheel
 Wheelchair spaces must be at least 30 inches wide and 48 inches long.  An accessible route from the vehicle door must adjoin or overlap one unobstructed side of each wheelchair space.  A securement system is required that typically is required to front-facing securement. 
 
 ### Presentation: Robotic Research Projects: New Flyer and Paralift
+{: .clear }
 
 <figure class="img-right">
   <img src="./images/206-brilhart.jpg" alt="Bryan Brilhart thumbnail portrait photo" class="center">
@@ -316,6 +317,7 @@ Klinich and Manary's project, which started in October 2019, will develop an aut
 </figure>
 
 ![Universal docking interface geometry installed in vehicle used in testing](./images/213-securement4of4.png){: .img-right }
+{: .clear }
 
 Klinich and Manary designed a prototype with attachments for both manual and power wheelchairs.  Both attachment styles have a vertical bar spaced in between the rear wheels.  Users back their wheelchair into the station and align the attachments on their wheelchair against the docking system which has two hooks that deploy outward and connect to the attachments.
 
@@ -399,16 +401,16 @@ The third session focused on ride-hailing and on-board communication for passeng
 {: .clear }
 
 <figure class="img-right">
-  <img src="./images/303-feeley.jpg" alt="Dr. Cecilia Feeley thumbnail portrait photo" class="center">
+  <img src="./images/304-lubin.jpg" alt="Andrea Lubin thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Dr. Cecilia Feeley</em>
+   <em>Andrea Lubin</em>
     </figcaption>
 </figure>
 
 <figure class="img-right">
-  <img src="./images/304-lubin.jpg" alt="Andrea Lubin thumbnail portrait photo" class="center">
+  <img src="./images/303-feeley.jpg" alt="Dr. Cecilia Feeley thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Andrea Lubin</em>
+   <em>Dr. Cecilia Feeley</em>
     </figcaption>
 </figure>
 
