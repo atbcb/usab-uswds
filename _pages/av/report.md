@@ -129,7 +129,8 @@ The first study investigated the effects of ramp slope on human performance du
 <figure class="img-right">
   <img src="./images/108-rampstudy.png" alt="A photograph showing a manual wheelchair user on ramps of 1 to 8. Caption: A study participant tests a ramp with a 1:8 slope using a manual wheelchair." class="center">
   <figcaption style="text-align:center">
-   <em>A study participant tests a ramp with a 1:8 slope using a manual wheelchair.</em>
+   <em>A study participant tests a ramp <br/>
+     with a 1:8 slope using a manual wheelchair.</em>
     </figcaption>
 </figure>
 
