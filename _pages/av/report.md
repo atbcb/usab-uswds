@@ -67,9 +67,7 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
 </figure>
 
 <figure>
-<figure class="left">
-    <img src="./images/103-hutcheson.png" alt="Robin Hutcheson thumbnail portrait photo" class="img-left">
-    <figcaption style="text-align:left">
+![Robin Hutcheson thumbnail portrait photo](./images/103-hutcheson.png){: .img-left }
   </figcaption>Robin Hutcheson</figcaption>
 </figure>
 
@@ -253,9 +251,7 @@ Klinich and Manary expect to complete the project in June 2021 and plan to have 
 
 ### Presentation: Research on Vehicle Interior Seating Layout and Wheelchair Securement by the Center for Inclusive Design and Environmental Access
 
-![Dr. Jordana Maisel](./images/214-maisel.png){: .img-right }
-
-**Dr. Jordana L. Maisel** co-directs research at the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu) (IDeA Center) at the University of Buffalo, which has been engaged in over a decade of research related to accessible public transportation. She shared information on research the IDeA Center has conducted on wheelchair maneuvering and securement on fixed route buses that may be pertinent to AVs.
+![Dr. Jordana Maisel](./images/214-maisel.png){: .img-right }**Dr. Jordana L. Maisel** co-directs research at the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu) (IDeA Center) at the University of Buffalo, which has been engaged in over a decade of research related to accessible public transportation. She shared information on research the IDeA Center has conducted on wheelchair maneuvering and securement on fixed route buses that may be pertinent to AVs.
 {: .clear }
 ![photo of a participant, who uses a walking aid, rising up from longitudinal seating in the bus simulator](./images/215-busstudy1of2.png){: .img-left }
 
