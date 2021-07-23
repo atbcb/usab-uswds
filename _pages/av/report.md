@@ -12,7 +12,7 @@ permalink: /av/report.html
 
 **July 2021**
 
-<button><a href="{{ site.baseurl }}/files/presentations/usab-av-forum-summary-report.pdf">AV Forum Summary Report in PDF format</button>
+<button><a href="{{ site.baseurl }}/files/presentations/usab-av-forum-summary-report.pdf">AV Forum Summary Report in PDF format</a></button>
 
 ### Important Note
 
@@ -222,7 +222,8 @@ Acting Director, ODEP
 
 ![Illustration of AV with ramp deployed person in power chair inside AV.](./images/204-av1of2.jpg){: .img-left }
 
-> In addition to requirements for boarding and alighting access, the vehicle guidelines address:
+In addition to requirements for boarding and alighting access, the vehicle guidelines address:
+
 > > - walking surfaces;
 > > - accessible routes;
 > > - wheelchair space; and
