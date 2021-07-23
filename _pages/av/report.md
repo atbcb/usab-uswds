@@ -46,16 +46,13 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
 
 ## Accessibility for Passengers with Mobility Disabilities: Part 1
 
-<div class=figure>
-  <p><img src="./images/101-fehirbach.jpg" alt="Greg Fehribach thumbnail portrait photo" class="img-right">
-    <figcaption style="text-align:right">
-    </figcaption>Greg Fehribach</figcaption>
-</figure>
-</div>
-    
-<p>U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."<p>
+![Greg Fehribach thumbnail portrait photo](./images/101-fehirbach.jpg){: .img-right }
 
-<p>Fehribach then introduced a message from Secretary of Transportation **Pete Buttigieg** who emphasized the need to make AVs both safe and accessible for people with disabilities and remove barriers to transportation resources at large.<p> 
+{{< caption >}}Greg Fehribach{{< /caption >}}
+    
+U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
+
+Fehribach then introduced a message from Secretary of Transportation **Pete Buttigieg** who emphasized the need to make AVs both safe and accessible for people with disabilities and remove barriers to transportation resources at large.
 
 <figure class="center">
   <img src="./images/102-buttigieg.png" alt="Pete Buttigieg photo at podium, U.S. Department of Transportaion" class="img-center">
@@ -66,12 +63,11 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
   </figcaption>
 </figure>
 
-<figure>
 ![Robin Hutcheson thumbnail portrait photo](./images/103-hutcheson.png){: .img-left }
-  </figcaption>Robin Hutcheson</figcaption>
-</figure>
 
-<p>He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.<p>
+</figcaption>Robin Hutcheson</figcaption>
+
+He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
 
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles
 {: .clear }
