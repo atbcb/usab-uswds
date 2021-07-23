@@ -46,7 +46,7 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
 
 ## Accessibility for Passengers with Mobility Disabilities: Part 1
 
-![Greg Fehribach thumbnail portrait photo](./images/101-fehirbach.jpg){{< caption >}}Greg Fehribach{{< /caption >}}{: .img-right }
+![Greg Fehribach thumbnail portrait photo](./images/101-fehirbach.jpg){{< caption >}}Greg Fehribach{{< /caption >}}{: .img-float }
     
 U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
 
@@ -61,7 +61,8 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
   </figcaption>
 </figure>
 
-![Robin Hutcheson thumbnail portrait photo](./images/103-hutcheson.png){: .img-left }{{< caption >}}Robin Hutcheson{{< /caption >}}
+![Robin Hutcheson thumbnail portrait photo](./images/103-hutcheson.png){: .img-left }
+*Robin Hutcheson*
 
 He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
 
