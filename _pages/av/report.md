@@ -222,7 +222,7 @@ Acting Director, ODEP
 
 ![Illustration of AV with ramp deployed person in power chair inside AV.](./images/204-av1of2.jpg){: .img-left }
 
-<p style="margin-left:-4rem">In addition to requirements for boarding and alighting access, the vehicle guidelines address:</p>
+<p style="margin-left:-4rem !important">In addition to requirements for boarding and alighting access, the vehicle guidelines address:</p>
 
 - walking surfaces;
 - accessible routes;
