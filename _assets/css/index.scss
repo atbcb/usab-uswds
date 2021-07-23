@@ -274,16 +274,16 @@ dt {
 }
 
 .img-right {
-  float: right;
   display: block;
-  margin: 0rem 0rem 1rem 2rem;
+  float: right;
+  margin: 1rem 0rem 1rem 2rem;
   max-width: 50%;
 }
 
 .img-left {
-  float: left;
   display: block;
-  margin: 0rem 2rem 1rem 0rem;
+  float: left;
+  margin: 1rem 2rem 1rem 0rem;
   max-width: 50%;
 }
 
@@ -293,9 +293,11 @@ dt {
 }
 
 .img-center {
+  display: block;
   margin-left: auto;
   margin-right: auto;
-  display: block;
+  margin: 1rem 0rem 1rem 0rem;
+  max-width: 90%;
 }
 
 .img-grid {
