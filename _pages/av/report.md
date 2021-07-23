@@ -12,7 +12,7 @@ permalink: /av/report.html
 
 **July 2021**
 
-[AV Forum Summary Report in PDF format]({{ site.baseref }}/files/presentations/usab-av-forum-summary-report.pdf).
+[AV Forum Summary Report in PDF format]({{ site.baseurl }}/files/presentations/usab-av-forum-summary-report.pdf).
 
 ### Important Note
 
@@ -194,7 +194,7 @@ The second session continued discussion of accessibility for passengers with mob
 
 U.S. Access Board Executive Director **Sachin Pavithran** opened the program.  He noted, "As a blind person myself, I look forward to the day when accessible transportation is a conversation of the past where all transportation is accessible.  And autonomous vehicles could be an answer to some of those innovations that could take place." 
 
-He then introduced **Jennifer Sheehy **who is the Acting Director of [Office of Disability Employment Policy ](https://www.dol.gov/agencies/odep)(ODEP).  ODEP was an active partner on this forum and hosted the dialog platform that was open throughout the series. 
+He then introduced **Jennifer Sheehy **who is the Acting Director of [Office of Disability Employment Policy](https://www.dol.gov/agencies/odep) (ODEP).  ODEP was an active partner on this forum and hosted the dialog platform that was open throughout the series. 
 
 <figure class="img-left">
   <img src="./images/202-sheehy.jpg" alt="Jennifer Sheehy thumbnail portrait photo">
@@ -315,7 +315,9 @@ Klinich and Manary's project, which started in October 2019, will develop an aut
     </figcaption>
 </figure>
 
-![Universal docking interface geometry installed in vehicle used in testing](./images/213-securement4of4.png){: .img-right }Klinich and Manary designed a prototype with attachments for both manual and power wheelchairs.  Both attachment styles have a vertical bar spaced in between the rear wheels.  Users back their wheelchair into the station and align the attachments on their wheelchair against the docking system which has two hooks that deploy outward and connect to the attachments.
+![Universal docking interface geometry installed in vehicle used in testing](./images/213-securement4of4.png){: .img-right }
+
+Klinich and Manary designed a prototype with attachments for both manual and power wheelchairs.  Both attachment styles have a vertical bar spaced in between the rear wheels.  Users back their wheelchair into the station and align the attachments on their wheelchair against the docking system which has two hooks that deploy outward and connect to the attachments.
 
 While the geometry for the vertical components is specified, the method for attachment would differ depending upon the structure of the wheelchair itself.  Klinich and Manary noted that securement near the hooks would aid in using the four-point strap tiedown because those parts of the wheelchair have been crash-tested and should be durable and sturdy enough to work with the attachment system.  The next phase of their research will involve minimizing the size of the attachments and better integration of them with the design of wheelchairs.  The presentation included a video showing how the docking and seat belt system operates.
 
@@ -331,10 +333,10 @@ Klinich and Manary expect to complete the project in June 2021 and plan to have 
 </figure>
 
 **Dr. Jordana L. Maisel** co-directs research at the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu) (IDeA Center) at the University of Buffalo, which has been engaged in over a decade of research related to accessible public transportation.  She shared information on research the IDeA Center has conducted on wheelchair maneuvering and securement on fixed route buses that may be pertinent to AVs.
-{: .clear }
+
 ![photo of a participant, who uses a walking aid, rising up from longitudinal seating in the bus simulator](./images/215-busstudy1of2.png){: .img-left }
 
-One [study](http://idea.ap.buffalo.edu/2019/04/05/improving-bus-interior-design/)  used full-scale simulated buses to assess the impact of interior bus seating layouts on movement and usability for individuals who use wheeled mobility devices, who are blind or have low vision, or who use walking aids.  The project involved three bus layouts and mannequins to explore reconfigurable seating layouts and simulate crowding conditions.  The study included 90 participants (48 wheeled mobility device users, 18 individuals who are blind or have low vision, and 24 walking aid users).  All participants undertook a simulated bus journey that included boarding from a sidewalk, using a smart card for fare payment, locating and moving to a vacant seat, getting into and out of the seat, and moving to the exit door. 
+One [study](http://idea.ap.buffalo.edu/2019/04/05/improving-bus-interior-design/) used full-scale simulated buses to assess the impact of interior bus seating layouts on movement and usability for individuals who use wheeled mobility devices, who are blind or have low vision, or who use walking aids.  The project involved three bus layouts and mannequins to explore reconfigurable seating layouts and simulate crowding conditions.  The study included 90 participants (48 wheeled mobility device users, 18 individuals who are blind or have low vision, and 24 walking aid users).  All participants undertook a simulated bus journey that included boarding from a sidewalk, using a smart card for fare payment, locating and moving to a vacant seat, getting into and out of the seat, and moving to the exit door. 
 
 The study found several challenges among the three layouts.  First, many participants found the turning space at the front of the bus too narrow, especially if another occupant was positioned in the securement space.  Second, the side-facing seats were less desirable because they caused an increased sense of fear and risk of injuring others.  On a related note, many participants had limited reach capability to access the fare payment machine.
 
@@ -390,9 +392,7 @@ The third session focused on ride-hailing and on-board communication for passeng
 </figure>
 
 **Sarah Presley**, an Accessibility Specialist with the U.S. Access Board, provided an overview of the program agenda and introduced the first presenters. 
-{: .clear }
-{: .clear }
-{: .clear }
+
 ### Presentation: Results of Focus Groups on AVs and Persons with Disabilities by Rutgers University and Princeton University
 
 <figure class="img-right">
