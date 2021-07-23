@@ -49,8 +49,8 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
 <figure class="img-right">
   <img src="./images/101-fehirbach.jpg" alt="Greg Fehribach thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Greg Fehribach</em>
-    </figcaption>
+    <em>Greg Fehribach</em>
+  </figcaption>
 </figure>
     
 U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
@@ -60,17 +60,17 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
 <figure class="img-center">
   <img src="./images/102-buttigieg.png" alt="Pete Buttigieg photo at podium, U.S. Department of Transportaion" class="center">
   <figcaption style="text-align:center">
-   <em><q>We have an opportunity to incorporate access, equity and accessibility for all from the beginning of our coming major policy and technology decisions.</q></em> <br />
-   Secretary Pete Buttigieg <br />
-   U.S. Department of Transportation <br />
+    <em><q>We have an opportunity to incorporate access, equity and accessibility for all from the beginning of our coming major policy and technology decisions.</q></em> <br>
+     Secretary Pete Buttigieg <br>
+     U.S. Department of Transportation <br>
   </figcaption>
 </figure>
 
 <figure class="img-left">
   <img src="./images/103-hutcheson.png" alt="Robin Hutcheson thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Robin Hutcheson</em>
-    </figcaption>
+    <em>Robin Hutcheson</em>
+  </figcaption>
 </figure>
 
 He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
@@ -81,15 +81,17 @@ He was followed by Department of Transportation (DOT) Deputy Assistant Secretary
 <figure class="img-right">
   <img src="./images/104-duschesneau.png" alt="Randall Duchesneau thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Randall Duchesneau</em>
-    </figcaption>
+    <em>Randall Duchesneau</em>
+  </figcaption>
 </figure>
 
 The session program focused on accessibility for passengers with mobility disabilities in boarding and exiting vehicles.  **Randall Duchesneau**, an Accessibility Specialist at the U.S. Access Board, provided an overview of the accessibility guidelines for transportation vehicles the Board issued under the Americans with Disabilities Act (ADA).  The Board published the original [ADA Accessibility Guidelines for Transportation Vehicles]({{ site.baseurl }}/ada/vehicles/) in 1991, one year after the law's passage.  They address buses, vans, rail cars, and other transportation vehicles.  These guidelines serve as the basis for standards DOT uses to enforce the ADA.  In 2016, the Board updated the sections of the [guidelines covering buses and vans]({{ site.baseurl }}/guidelines-standards/vehicles/update-buses-vans/guidelines-text/).  DOT has not yet implemented these updated provisions as enforceable standards.
 
 The ADA vehicle guidelines do not specifically address AVs but may be applicable or informative to certain types of AVs.  DOT, not the Board, has the authority to determine which vehicles and transit systems are covered by the ADA and subject to its vehicle standards.  Duchesneau highlighted various provisions in the Board's vehicle guidelines solely as a resource or reference in addressing accessible design. 
 
-![An autonomous vehicle with doors open](./images/105-av1of2.png){: .img-right }The ADA guidelines for buses and vans address various features, including:
+![An autonomous vehicle with doors open](./images/105-av1of2.png){: .img-right }
+
+The ADA guidelines for buses and vans address various features, including:
 
 - walking surfaces;
 - vehicles ramps, bridge plates, and lifts;
@@ -103,8 +105,8 @@ Under the guidelines, vehicles must provide accessible boarding and alighting th
 <figure class="img-left">
   <img src="./images/106-av2of2.png" alt="Man using a power wheelchair going up a ramp into an autonomous vehicle. Caption: The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.">
   <figcaption style="text-align:center">
-   <em>The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.</em>
-    </figcaption>
+    <em>The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.</em>
+  </figcaption>
 </figure>
   
 Level boarding is the best way to provide access where vehicle floor heights can be coordinated with boarding platforms.  The gap between the boarding platform and the vehicle is limited to 2 inches so that casters and crutch tips do not get trapped.  Otherwise, a ramp or bridge plate is needed to span the gap.  Vertical differentials between both surfaces cannot exceed 5/8 inch.  "Kneeling" vehicles with automated self-adjusting ride heights could achieve level boarding at various boarding platforms.  Specifications also address the surfaces of ramps, bridge plates, lifts, and vehicle floors, including slip-resistance, openings, and surface discontinuities. 
@@ -118,8 +120,8 @@ Doorways must open to a clear width of at least 32 inches and have a contrasting
 <figure class="img-right">
   <img src="./images/107-paquet.jpg" alt="Dr. Victor Paquet thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Dr. Victor Paquet</em>
-    </figcaption>
+    <em>Dr. Victor Paquet</em>
+  </figcaption>
 </figure>
 
 **Dr. Victor Paquet** of the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu/) (IDeA Center) at the University at Buffalo presented results of two vehicle ramp research studies that focused on the effects of ramp slope and multi-segment ramp configuration on human performance during ascension and descension for people with disabilities including users of manual wheelchairs, power wheelchairs, scooters, white canes, and other walking aids under ideal laboratory environmental conditions.
@@ -127,11 +129,11 @@ Doorways must open to a clear width of at least 32 inches and have a contrasting
 The first study investigated the effects of ramp slope on human performance during ramp ascent and descent.  Each research participant ascended and descended ramps of different slopes, including those with a rise to run of 1:12, 1:8, 1:6, and 1:4.  Unsurprisingly, ramp ascent times and perceived exertion decreased as slope decreased.  Ramp slopes of 1:8 and 1:12 were the easiest for all user groups, while the 1:4 slope and 1:6 slope hampered 33% and 15% of users from independently completing ascent, respectively.  Power wheelchair users, individuals with visual impairments, and other ambulation aid users rated descent, or going down steep ramps, more difficult than going up.  
 
 <figure class="img-right">
-  <img src="./images/108-rampstudy.png" alt="A photograph showing a manual wheelchair user on ramps of 1 to 8. Caption: A study participant tests a ramp with a 1:8 slope using a manual wheelchair." class="center">
+  <img src="./images/108-rampstudy.png" alt="A photograph showing a manual wheelchair user on a ramp." class="center">
   <figcaption style="text-align:center">
-   <em>A study participant tests a ramp <br/>
-     with a 1:8 slope using a manual wheelchair.</em>
-    </figcaption>
+    <em>A study participant tests a ramp with <br>
+    a 1:8 slope using a manual wheelchair.</em>
+  </figcaption>
 </figure>
 
 The second study investigated the effects of a different multi-segmented ramp configuration.  Test conditions simulated a three-segment ramp deployed to below street level, street level, a 3.3-inch curb, 4.5-inch curb, 6-inch curb, and 8-inch curb.  Slopes for the middle segment of the ramp were approximately 1:6 for street level and below street level conditions and negligible for deployment to curbs.  Slopes for the bottom segment of the ramp ranged from approximately 1:5 for below street level conditions to 1:15 for the 8-inch curb condition.  
@@ -151,8 +153,8 @@ Frayne discussed accessible ramps, challenges with underfloor batteries, and
 <figure class="img-right">
   <img src="./images/109-frayne.jpg" alt="Kevin Frayne thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Kevin Frayne</em>
-    </figcaption>
+    <em>Kevin Frayne</em>
+   </figcaption>
 </figure>
 
 Accessible solutions are often contingent upon the geometry of the vehicle.  For example, an inordinately high paratransit van has to use a lift, but vehicles that can achieve a 10-inch or, preferably, an 8-inch step-in height can use a ramp.  Frayne noted that lifts do not lend themselves to full autonomous operation.  Moreover, wheelchair users in the disability advocacy community are pushing for the normalcy of ramps.  Thus, the ideal solution for an AV would be a step-in design that can support a ramp angle.
@@ -180,15 +182,15 @@ Speakers also addressed accessibility for other types of disabilities, including
 
 ### References - Session 1
 
-[Session Recording](https://www.youtube.com/watch?v=xI1j1V1SyjE "external link") Presentations: [PowerPoint](https://www.access-board.gov/files/presentations/usab-av-forum-2021-03-10.pptx) (23 MB) [PDF](https://www.access-board.gov/files/presentations/usab-av-forum-2021-03-10.pdf)  (4 MB)
+[Session Recording](https://www.youtube.com/watch?v=xI1j1V1SyjE "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pptx) (23 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-10.pdf)  (4 MB)
 
 ## Accessibility for Passengers with Mobility Disabilities: Part 2
 
 <figure class="img-right">
   <img src="./images/201-pavithran.jpg" alt="Dr. Sachin Dev Pavithran thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Dr. Sachin Dev Pavithran</em>
-    </figcaption>
+    <em>Dr. Sachin Dev Pavithran</em>
+  </figcaption>
 </figure>
 
 The second session continued discussion of accessibility for passengers with mobility disabilities and focused on maneuvering and securement in vehicles. 
@@ -200,12 +202,11 @@ He then introduced **Jennifer Sheehy** who is the Acting Director of [Office of 
 <figure class="img-left">
   <img src="./images/202-sheehy.jpg" alt="Jennifer Sheehy thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Jennifer Sheehy</em>
-    </figcaption>
+    <em>Jennifer Sheehy</em>
+  </figcaption>
 </figure>
 
-*"Many people don't realize that transportation is one of the most important and, perhaps, least appreciated components of employment success for people with disabilities.  After all, the best employment program or job opportunity means nothing and provides little benefit if people cannot access reliable transportation to work."*
-
+*"Many people don't realize that transportation is one of the most important and, perhaps, least appreciated components of employment success for people with disabilities.  After all, the best employment program or job opportunity means nothing and provides little benefit if people cannot access reliable transportation to work."* <br>
 Jennifer Sheehy <br>
 Acting Director, ODEP
 
@@ -215,14 +216,13 @@ Acting Director, ODEP
 <figure class="img-right">
   <img src="./images/203-windley.jpg" alt="Scott Windley thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Scott Windley</em>
-    </figcaption>
+    <em>Scott Windley</em>
+  </figcaption>
 </figure>
 
-**Scott Windley**, an Accessibility Specialist with the U.S. Access Board, reviewed existing guidelines for transportation vehicles issued by the Board under the ADA.  The [ADA Accessibility Guidelines for Transportation Vehicles](https://www.access-board.gov/ada/vehicles/) (1991) cover buses, vans, rail cars, and other transportation vehicles and serve as the basis for enforceable standards implemented by DOT.  The Board [updated](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/) sections of the guidelines covering buses and vans in 2016, but these provisions are not yet included in DOT's enforceable standards.
+**Scott Windley**, an Accessibility Specialist with the U.S. Access Board, reviewed existing guidelines for transportation vehicles issued by the Board under the ADA.  The [ADA Accessibility Guidelines for Transportation Vehicles]({{ site.baseurl }}/ada/vehicles/) (1991) cover buses, vans, rail cars, and other transportation vehicles and serve as the basis for enforceable standards implemented by DOT.  The Board [updated]({{ site.baseurl }}/guidelines-standards/vehicles/update-buses-vans/guidelines-text/) sections of the guidelines covering buses and vans in 2016, but these provisions are not yet included in DOT's enforceable standards.
 
 ![Illustration of AV with ramp deployed person in power chair inside AV.](./images/204-av1of2.jpg){: .img-left }
-{: .clear }
 
 In addition to requirements for boarding and alighting access, the vehicle guidelines address:
 
@@ -234,8 +234,8 @@ In addition to requirements for boarding and alighting access, the vehicle guide
 <figure class="img-right">
   <img src="./images/205-av2of2.jpg" alt="Overhead illustration of AV with a clear floor space inside, showing person in powerchair in the clear floor space. Caption: The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems." class="center">
   <figcaption style="text-align:center">
-   <em>The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.</em>
-    </figcaption>
+    <em>The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.</em>
+  </figcaption>
 </figure>
 
 These provisions specify sufficient clearances that allow passengers using wheelchairs and power chairs to proceed from vehicle entry to designated wheelchair spaces, position for securement within the space, and exit the vehicle.  Wheelchair turning space is recommended, though not required, to provide greater maneuverability and usability. 
@@ -243,13 +243,12 @@ These provisions specify sufficient clearances that allow passengers using wheel
 Wheelchair spaces must be at least 30 inches wide and 48 inches long.  An accessible route from the vehicle door must adjoin or overlap one unobstructed side of each wheelchair space.  A securement system is required that typically is required to front-facing securement. 
 
 ### Presentation: Robotic Research Projects: New Flyer and Paralift
-{: .clear }
 
 <figure class="img-right">
   <img src="./images/206-brilhart.jpg" alt="Bryan Brilhart thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Bryan Brilhart</em>
-    </figcaption>
+    <em>Bryan Brilhart</em>
+  </figcaption>
 </figure>
 
 **Bryan Brilhart**, Director of Operations at [Robotic Research](https://www.roboticresearch.com), gave a presentation on Robotic Research projects related to autonomous vehicles.  Robotic Research is a technology company and developer of autonomous systems for numerous military and commercial applications.
@@ -257,10 +256,10 @@ Wheelchair spaces must be at least 30 inches wide and 48 inches long.  An access
 Brilhart discussed various applications of Robotic Research technology, including a project that involved the development of a precision docking system for an electric automated bus released earlier this year (New Flyer's Excelsior AV™).  The system enables the bus to pull up to boarding platforms within very close tolerances in a repeatable process for safe, level boarding at every stop.  Another application of its technology is an autonomous system in a Local Motors low-speed shuttle.
 
 <figure class="img-right">
-  <img src="./images/207-paralift.jpg" alt="A yellow and black van parked in a parking lot with lift deployed. Caption: Robotic Research's Paralift System" class="center">
+  <img src="./images/207-paralift.jpg" alt="A yellow and black van parked in a parking lot with lift deployed." class="center">
   <figcaption style="text-align:center">
-   <em>Robotic Research's Paralift™ System</em>
-    </figcaption>
+    <em>Robotic Research's Paralift™ System</em>
+  </figcaption>
 </figure>
 
 Robotic Research also developed an automatic loading and securement system, named Paralift™.  Designed to workwith various types of vehicles, it allows passengers using wheelchairs to enter and exit vehicles independently.  The system uses Light Detection and Ranging (LIDAR) to generate 3D maps of surroundings.  It also detects the presence of passengers and the position of a ramp or lift, ensures area under the ramp or lift is clear before lowering, and halts operation if there is an obstruction.
@@ -274,10 +273,10 @@ Key features of the Paralift system include:
 - Voice-automated controls that allow passengers to hear what is going on with what the process is. 
 
 <figure class="img-left">
-  <img src="./images/208-securement1of4.png" alt="Image of quantum securement system with scooter. Caption: Q'Straint's QUANTUM securement system" class="center">
+  <img src="./images/208-securement1of4.png" alt="Image of quantum securement system with scooter." class="center">
   <figcaption style="text-align:center">
-   <em>Q'Straint's QUANTUM securement system</em>
-    </figcaption>
+    <em>Q'Straint's QUANTUM securement system</em>
+  </figcaption>
 </figure>
 
 Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https://www.qstraint.com/quantum/) securement system, which is intended to accommodate various types and sizes.  It uses a pair of arms to clamp onto the wheels of a wheelchair to secure it in place.  A three-point seat belt system (NHTSA crash-tested) is designed to rapidly and automatically secure passengers.
@@ -288,15 +287,15 @@ Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https:/
 <figure class="img-right">
   <img src="./images/210-manary.jpg" alt="Miriam Manary thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Miriam Manary</em>
-    </figcaption>
+    <em>Miriam Manary</em>
+  </figcaption>
 </figure>
 
 <figure class="img-right">
   <img src="./images/209-klinich.jpg" alt="Dr. Kathleen Klinich thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Dr. Kathleen Klinich</em>
-    </figcaption>
+    <em>Dr. Kathleen Klinich</em>
+  </figcaption>
 </figure>
 
 **Dr. Kathleen Klinich** and **Miriam Manary** of the [University of Michigan's Transportation Research Institute](https://umtri.umich.edu/) (UMTRI) gave a presentation on research that is underway to develop an automated wheelchair tiedown and occupant restraint system.  Funded by National Highway Traffic Safety Administration, the [project](https://umtri.umich.edu/research/projects/development-of-an-automated-wheelchair-tiedown-and-occupant-restraint-system/)  will test a "universal docking interface geometry" (UDIG) that features an anchorage system in the vehicle that can be used with any wheelchair equipped with the attachment hardware, similar in concept to a semi-truck trailer hitch.  While this kind of technology has been available, field tested, and evaluated for decades, it has not been widely implemented because it needs to be installed extensively on both wheelchairs and in vehicles.  The need for independent docking options may have renewed interest in such a solution. 
@@ -331,8 +330,8 @@ Klinich and Manary expect to complete the project in June 2021 and plan to have 
 <figure class="img-right">
   <img src="./images/214-maisel.png" alt="Dr. Jordana Maisel thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Dr. Jordana Maisel</em>
-    </figcaption>
+    <em>Dr. Jordana Maisel</em>
+  </figcaption>
 </figure>
 
 **Dr. Jordana L. Maisel** co-directs research at the [Center for Inclusive Design and Environmental Access](http://idea.ap.buffalo.edu) (IDeA Center) at the University of Buffalo, which has been engaged in over a decade of research related to accessible public transportation.  She shared information on research the IDeA Center has conducted on wheelchair maneuvering and securement on fixed route buses that may be pertinent to AVs.
@@ -372,15 +371,15 @@ Additional comments addressed access to AVs used for taxi service, payment syste
 
 ### References - Session 2
 
-[Session Recording](https://youtu.be/d9xc-mRrlxY?t=38 "external link") Presentations: [PowerPoint](https://www.access-board.gov/files/presentations/usab-av-forum-2021-03-24.pptx)  (18 MB) [PDF](https://www.access-board.gov/files/presentations/usab-av-forum-2021-03-24.pdf)  (6 MB)
+[Session Recording](https://youtu.be/d9xc-mRrlxY?t=38 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pptx)  (18 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pdf)  (6 MB)
 
 ## Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1
 
 <figure class="img-right">
   <img src="./images/301-pineda.png" alt="Victor Pineda thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Dr. Victor Pineda</em>
-    </figcaption>
+    <em>Dr. Victor Pineda</em>
+  </figcaption>
 </figure>
 
 The third session focused on ride-hailing and on-board communication for passengers with hearing, visual, or cognitive disabilities.  U.S. Access Board Public Member Dr. Victor Santiago Pineda, who is a Professor of Urban Planning at University of California-Berkley and President of [World Enabled](https://worldenabled.org), opened the meeting. 
@@ -390,8 +389,8 @@ The third session focused on ride-hailing and on-board communication for passeng
 <figure class="float-right">
   <img src="./images/302-presley.jpg" alt="Sarah Presley thumbnail portrait photo">
   <figcaption style="text-align:center">
-   <em>Sarah Presley</em>
-    </figcaption>
+    <em>Sarah Presley</em>
+  </figcaption>
 </figure>
 
 **Sarah Presley**, an Accessibility Specialist with the U.S. Access Board, provided an overview of the program agenda and introduced the first presenters. 
@@ -402,15 +401,15 @@ The third session focused on ride-hailing and on-board communication for passeng
 <figure class="img-right">
   <img src="./images/304-lubin.jpg" alt="Andrea Lubin thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Andrea Lubin</em>
-    </figcaption>
+    <em>Andrea Lubin</em>
+  </figcaption>
 </figure>
 
 <figure class="img-right">
   <img src="./images/303-feeley.jpg" alt="Cecilia Feeley thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Dr. Cecilia Feeley</em>
-    </figcaption>
+    <em>Dr. Cecilia Feeley</em>
+  </figcaption>
 </figure>
 
 **Dr. Cecilia Feeley**, Transportation Autism Project Manager, and **Andrea Lubin**, Senior Researcher, at Rutgers University gave a presentation on their findings from a series of focus groups of adults with disabilities who took short autonomous shuttle rides.  A core intent of this [research](https://cait.rutgers.edu/research/autonomous-vehicles-capturing-in-vehicle-experience-focus-group-follow-up-with-persons-with-autism-and-other-disabilities-at-the-2019-princeton-university-smartdrivingcar-summit/)  was to gather feedback and recommendations from persons with visual or cognitive disabilities.  Conducted jointly by Rutgers University and Princeton University, the study convened four focus groups with a total of 21 participants.
@@ -422,8 +421,8 @@ Safety-related concerns were the most discussed issue by participants.  Suggesti
 <figure class="img-right">
   <img src="./images/305-av.png" alt="Photo of Olli shuttle stopped on the street with the door open and the sidewalk in front." class="center">
   <figcaption style="text-align:center">
-   <em>AV Shuttle used in the focus group study.</em>
-    </figcaption>
+    <em>AV Shuttle used in the focus group study.</em>
+  </figcaption>
 </figure>
 
 Other questions and concerns focused on the communication interface with the vehicle, primarily on how passengers were supposed to indicate their destination and schedule their trip.  They wanted to know if they preferred to use the GPS on their smart phones if they could, or if they would have to indicate their destination upon boarding the vehicle.  Some participants wanted to know if they would be able to engage with the vehicle in a conversational style, asking about topics such as the weather; others wanted to know if they could secure needed assistance while traveling via the vehicle communication interface.  Several participants recommended that the on-board communication interface should permit passengers to access a call center to secure live operator assistance, especially vital in case of an emergency. 
@@ -435,11 +434,11 @@ Passengers who are blind or have low vision noted that several design features s
 <figure class="img-right">
   <img src="./images/306-brewer.jpg" alt="Robin Brewer thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Dr. Robin Brewer</em>
-    </figcaption>
+    <em>Dr. Robin Brewer</em>
+  </figcaption>
 </figure>
 
-Dr. Robin N. Brewer, Assistant Professor of Information at the [University of Michigan's School of Information](https://www.si.umich.edu/) and Assistant Professor of Electrical Engineering and Computer Science at the College of Engineering, presented findings from a two-year study designing autonomous and automated vehicles for persons who are blind or have low vision.  Specifically, the project explored how to design AVs that are accessible to people who are blind or have low vision with differing levels of user control through focus groups and interviews with ridesharing passengers and drivers. 
+Dr. Robin N. Brewer, Assistant Professor of Information at the [University of Michigan's School of Information](https://www.si.umich.edu) and Assistant Professor of Electrical Engineering and Computer Science at the College of Engineering, presented findings from a two-year study designing autonomous and automated vehicles for persons who are blind or have low vision.  Specifically, the project explored how to design AVs that are accessible to people who are blind or have low vision with differing levels of user control through focus groups and interviews with ridesharing passengers and drivers. 
 
 Participants were primarily concerned about control when a vehicle malfunctions or misinterprets their actions.  Suggestions on design solutions to address these concerns were based largely on existing assistive technology, such as screen readers and refreshable braille displays.  For example, a refreshable tactile display in the steering wheel would give the driver feedback on where other vehicles are in relation to their occupied vehicle.  This focus group suggested that there are ways to leverage existing frameworks, assistive technology, and experience for designing automated transportation. 
 
@@ -448,8 +447,8 @@ Several focus group participants expressed a preference to use semi-autonomous v
 <figure class="img-right">
   <img src="./images/307-userstudy.jpg" alt="One participant is passing around three popsicle sticks arranged on a corkboard such that one stick is in the center of the board, one stick is attached to the end of the stick in the center and pointed up, and the other stick is also attached to the end of the center but pointed down." class="center">
   <figcaption style="text-align:center">
-   <em>Photograph from design focus group activity.</em>
-    </figcaption>
+    <em>Photograph from design focus group activity.</em>
+  </figcaption>
 </figure>
 
 The findings indicate that the effort to make AVs accessible cannot focus exclusively on vehicle design and must also consider the overall process or context for using the automated vehicles.  Brewer and her co-researchers interviewed passengers and drivers to determine what can be learned from ride-sharing experiences of people who are blind and the drivers transporting them.  One issue raised was that drivers cannot always independently locate passengers due to GPS inaccuracies, and passengers who are blind must direct drivers to their pick-up locations.  In addition, persons who are blind may ask drivers to help them find their destinations once the car has arrived at the designated location, and to help them unload luggage or packages from the car. 
@@ -463,8 +462,8 @@ Brewer concluded with a couple points for future researchers and designers.  Fir
 <figure class="img-right">
   <img src="./images/308-lewis.png" alt="Anil Lewis thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Anil Lewis</em>
-    </figcaption>
+    <em>Anil Lewis</em>
+  </figcaption>
 </figure>
 
 The next speaker was Anil Lewis who is Executive Director of Blindness Initiatives at the National Federation of the Blind(NFB), which has developed some relationships with automobile manufacturers and researchers through its work with the [Blind Driver Challenge](https://nfb.org/programs-services/center-excellence-nonvisual-access/blind-driver-challenge).  Lewis invited the audience to take an imaginary virtual trip in an AV as a passenger who is blind, from requesting service for the vehicle, to taking the ride, and to arriving at the destination. 
@@ -488,8 +487,8 @@ Lewis stressed that a blind person's level of travel training will inform their
 <figure class="img-right">
   <img src="./images/309-vogler.png" alt="Christian Vogler thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Dr. Christian Vogler</em>
-    </figcaption>
+    <em>Dr. Christian Vogler</em>
+  </figcaption>
 </figure>
 
 Dr. Christian Vogler, Director of the [Technology Access Program at Gallaudet University](https://tap.gallaudet.edu/), presented on AV communication from a deaf or hard of hearing perspective.  Dr. Vogler noted that there is very little research on making AVs accessible for people who are deaf or hard of hearing, thus one must look to research on other topics and integrate that research into what would be useful for AVs.  He posed several broad questions that warrant attention: how do passengers who are deaf or hard of hearing tell the vehicle what to do, where to go, and what to look for?  How does the vehicle give passengers who are deaf or hard of hearing information, such as direction of travel and detours?  How is the deaf passenger alerted to an emergency situation? And how does the deaf passenger communicate with the outside world from inside the AV?
@@ -512,15 +511,15 @@ One commenter requested that passengers with electromagnetic sensitivities be in
 
 ### References - Session 3
 
-[Session Recording](https://www.youtube.com/watch?v=nfh-MpcNCB8 "external link") Presentations: [PowerPoint](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-07_for_web.pptx)  (46 MB) [PDF](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-07.pdf)  (6 MB)
+[Session Recording](https://www.youtube.com/watch?v=nfh-MpcNCB8 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07_for_web.pptx)  (46 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07.pdf)  (6 MB)
 
 ## Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2
 
 <figure class="img-right">
   <img src="./images/401-tamley.jpg" alt="Karen Tamley thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Karen Tamley</em>
-    </figcaption>
+    <em>Karen Tamley</em>
+  </figcaption>
 </figure>
 
 The fourth and final session in the series continued discussion of communication accessibility in hailing and interacting with AVs for passengers with hearing, visual, or cognitive disabilities.  U.S. Access Board Public Member **Karen Tamley** opened the session with remarks on the value of AVs in expanding travel options for passengers with disabilities.
@@ -533,8 +532,8 @@ U.S. Access Board Accessibility Specialist **Sarah Presley** hosted the event an
 <figure class="img-right">
   <img src="./images/402-steinfeld.png" alt="Aaron Steinfeld thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Dr. Aaron Steinfeld</em>
-    </figcaption>
+    <em>Dr. Aaron Steinfeld</em>
+  </figcaption>
 </figure>
 
 **Dr. Aaron Steinfeld**, Associate Research Professor at Carnegie Mellon University, leads the Transportation, Bots, and Disability (TBD) Lab of the [Robotics Institute at Carnegie Mellon University](https://www.ri.cmu.edu/robotics-groups/tbd-lab).  Steinfeld emphasized that the design of accessible AVs requires collaboration and teamwork across institutions and organizations.  Correspondingly, his presentation drew on several different projects and sponsors, including National Institute on Disability, Independent Living, and Rehabilitation Research (NIDILRR), National Science Foundation's National Robotics Initiative, and DOT.
@@ -556,8 +555,8 @@ Researchers and designers will need to account for how weather conditions, unant
 <figure class="img-right">
   <img src="./images/403-vanderheiden.png" alt="Gregg Vanderheiden thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Dr. Gregg Vanderheiden</em>
-    </figcaption>
+    <em>Dr. Gregg Vanderheiden</em>
+  </figcaption>
 </figure>
 
 **Dr. Gregg Vanderheiden**, Professor in the College of Information Studies and Director of the [Trace Research and Development Center](https://trace.umd.edu/)  at the University of Maryland-College Park discussed cognitive access to AVs.  He noted that cognitive disabilities are not a singular group but encompass a wide range of groups and oftentimes present concurrent with other physical, visual, or hearing disabilities.  This calls for a spectrum of interface solutions that allows passengers to choose a method of interacting with AVs that work best for them at a given moment.  Addressing the needs of myriad users with cognitive disabilities will result in more useable products for everyone.
@@ -593,8 +592,8 @@ He also reviewed concerns for privacy and potential for data abuse, supplementin
 <figure class="img-right">
   <img src="./images/404-cooper.png" alt="Darryl Cooper thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Darryl Cooper</em>
-    </figcaption>
+    <em>Darryl Cooper</em>
+  </figcaption>
 </figure>
 
 **Darryl Cooper**, Attorney Advisor with the FCC Disability Rights Office, addressed FCC rules that that are applicable to AV communication systems.  He noted that two-way live wireless communications are covered by FCC rules, as well as text messages.  In-car entertainment systems are already explicitly covered, and there are well established accessibility requirements for captioning, audio description, emergency communications, user interface, and program guides.  Additionally, FCC rules require that user interfaces and program guides for communication and video programming need to be accessible.  From a layperson's perspective, these in-car entertainment systems would be expected to be leveraged as the default tool for interacting with an AV.
@@ -608,8 +607,8 @@ He noted that the FCC [Disability Rights Office](https://www.fcc.gov/accessibili
 <figure class="img-right">
   <img src="./images/406-guild.jpg" alt="Ted Guild thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Ted Guild</em>
-    </figcaption>
+    <em>Ted Guild</em>
+  </figcaption>
 </figure>
 
 **Ted Guild** of the [World Wide Web Consortium](https://www.w3.org) (W3C) spoke about the W3C's current activity with the "internet of things" and the implications for automotive and transportations industries.  He described activities of the [Web Accessibility Initiative](https://www.w3.org/wai) (WAI) to make the web accessible through the development of normative specifications, documented technical assistance, and best practices.  These include [Accessible Rich Internet Applications](https://www.w3.org/WAI/standards-guidelines/aria/)  (WAI-ARIA), [Web Content Accessibility Guidelines](https://www.w3.org/WAI/standards-guidelines/wcag/) (WCAG), and specification review by the [Accessible Platform Architectures Working Group](https://www.w3.org/WAI/APA/) (APA WG).
@@ -631,11 +630,11 @@ Guild concluded with some takeaways to consider for AVs:
 <figure class="img-right">
   <img src="./images/408-bailey.jpg" alt="Bruce Bailey thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Bruce Bailey</em>
-    </figcaption>
+    <em>Bruce Bailey</em>
+  </figcaption>
 </figure>
 
-**Bruce Bailey**, Information Technology Accessibility Specialist at the U.S. Access Board, briefly discussed the Section 508 definition of "Information and Communication Technology (ICT)" and how it builds on the Clinger-Cohen Act's definition of "Information Technology (IT)".  ICT is defined in the [Section 508 Standards](https://www.access-board.gov/ict/) as:
+**Bruce Bailey**, Information Technology Accessibility Specialist at the U.S. Access Board, briefly discussed the Section 508 definition of "Information and Communication Technology (ICT)" and how it builds on the Clinger-Cohen Act's definition of "Information Technology (IT)".  ICT is defined in the [Section 508 Standards]({{ site.baseurl }}/ict/) as:
 
 "information technology *and* other equipment, systems, technologies, or processes, for which the principal function is the creation, manipulation, storage, display, receipt, or transmission of electronic data and information, as well as any associated content.  Examples of ICT include but are not limited to computers and peripheral equipment; information kiosks and transaction machines; telecommunications equipment; customer premises equipment; multifunction office machines; software; applications; Web sites; videos; and electronic documents."
 
@@ -653,11 +652,13 @@ Bailey moderated the open forum that followed.  One attendee called attention to
 
 ### References - Session 4
 
-[Session Recording](https://youtu.be/ImQoLk0CQoc?t=1 "external link") Presentations: [PowerPoint](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-21.pptx)  (5 MB) [PDF](https://www.access-board.gov/files/presentations/usab-av-forum-2021-04-21.pdf)  (3 MB)
+[Session Recording](https://youtu.be/ImQoLk0CQoc?t=1 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-21.pptx)  (5 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-21.pdf)  (3 MB)
 
 ## Summary of Comments from AV Online Dialogue
 
-![icon of people and comment bubbles](./images/500-epolicyworks.png){: .img-right }Members of the public were invited to share their ideas, comments, and information on AV accessibility through an online crowd-sourcing [dialogue platform](https://transportationinnovation.ideascale.com/) that provided another opportunity for input throughout the webinar series.  This platform was open for comment throughout the series and closed on May 5, 2021. 
+![icon of people and comment bubbles](./images/500-epolicyworks.png){: .img-right }
+
+Members of the public were invited to share their ideas, comments, and information on AV accessibility through an online crowd-sourcing [dialogue platform](https://transportationinnovation.ideascale.com/) that provided another opportunity for input throughout the webinar series.  This platform was open for comment throughout the series and closed on May 5, 2021. 
 
 Specific discussion topics included: 
 
