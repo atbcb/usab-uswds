@@ -405,14 +405,14 @@ The third session focused on ride-hailing and on-board communication for passeng
     </figcaption>
 </figure>
 
-Dr. Cecilia Feeley, Transportation Autism Project Manager, and Andrea Lubin, Senior Researcher, at Rutgers University gave a presentation on their findings from a series of focus groups of adults with disabilities who took short autonomous shuttle rides.  A core intent of this [research](https://cait.rutgers.edu/research/autonomous-vehicles-capturing-in-vehicle-experience-focus-group-follow-up-with-persons-with-autism-and-other-disabilities-at-the-2019-princeton-university-smartdrivingcar-summit/)  was to gather feedback and recommendations from persons with visual or cognitive disabilities.  Conducted jointly by Rutgers University and Princeton University, the study convened four focus groups with a total of 21 participants.
-
 <figure class="img-right">
   <img src="./images/304-lubin.jpg" alt="Andrea Lubin thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Andrea Lubin</em>
     </figcaption>
 </figure>
+
+Dr. Cecilia Feeley, Transportation Autism Project Manager, and Andrea Lubin, Senior Researcher, at Rutgers University gave a presentation on their findings from a series of focus groups of adults with disabilities who took short autonomous shuttle rides.  A core intent of this [research](https://cait.rutgers.edu/research/autonomous-vehicles-capturing-in-vehicle-experience-focus-group-follow-up-with-persons-with-autism-and-other-disabilities-at-the-2019-princeton-university-smartdrivingcar-summit/)  was to gather feedback and recommendations from persons with visual or cognitive disabilities.  Conducted jointly by Rutgers University and Princeton University, the study convened four focus groups with a total of 21 participants.
 
 The majority of participants said that they do not use personal assistance for their current modes of transportation and would not need personal assistance using AVs, at least not in the long term.  Some participants with developmental disabilities did say that they would like the option of having a family member accompany them on AV trips until they felt comfortable traveling independently using this new mode of transportation.  Some participants who are blind or have low vision said that it would be helpful if assistance was always available to open and close vehicle doors, provide guidance to available seats, help with passenger bags, and secure wheelchairs or other mobility devices. 
 
@@ -473,7 +473,7 @@ Once in the vehicle, blind passengers will need a way to orient themselves in th
 
 Controls in the vehicle would be more accessible if they are tactile knobs and buttons, and these elements could be supplemented with tactile symbols indicating the function of the controls.  Touch screens with speech output are also a possibility for those who have mastered using them with smart phones.  However, Lewis posited that giving spoken commands to the vehicle and receiving verbal feedback would be a great option.
 
-Lewis propounded on other questions and issues with vehicle controls in AVs, such as temperature control, radio control, and navigation and destination preferences.  In addition, Lewis questioned what information AVs would be able to provide to passengers during their ride, including the route taken and points of interest.  Any of these functions must be accessible to persons who are blind. As much as possible, controls should be customizable, including the option to turn off any feature.  Lewis noted that designers should not assume what passengers will need or want. 
+Lewis propounded on other questions and issues with vehicle controls in AVs, such as temperature control, radio control, and navigation and destination preferences.  In addition, Lewis questioned what information AVs would be able to provide to passengers during their ride, including the route taken and points of interest.  Any of these functions must be accessible to persons who are blind.  As much as possible, controls should be customizable, including the option to turn off any feature.  Lewis noted that designers should not assume what passengers will need or want. 
 
 Lewis stressed that a blind person's level of travel training will inform their confidence using AVs.  It may not be possible to design autonomous vehicles to accommodate persons who are not confident to travel because they have not had mobility training.  He encourages designers not to base their research on persons who may not be properly trained, which may cause them to rule out accessibility options that could be valid for many other passengers who are blind. 
 
@@ -636,7 +636,7 @@ Section 508 relies on a definition by the [Clinger-Cohen Act of 1996, 40 U.S.C. 
 
 "any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use of that equipment; or of that equipment to a significant extent in the performance of a service or the furnishing of a product."  IT "includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but does not include any equipment acquired by a federal contractor incidental to a federal contract."
 
-The Clinger-Cohen definition of IT seems perfectly applicable to automata, including robots and AVs. Section 508 requires that ICT, and IT, be accessible to individuals with disabilities.  The Section 508 Standards are the base metrics for that accessibility, and they comprehensively address information kiosks and other hardware and could be used for assessing the accessibility of AVs.
+The Clinger-Cohen definition of IT seems perfectly applicable to automata, including robots and AVs.  Section 508 requires that ICT, and IT, be accessible to individuals with disabilities.  The Section 508 Standards are the base metrics for that accessibility, and they comprehensively address information kiosks and other hardware and could be used for assessing the accessibility of AVs.
 
 ### Public Comments and Questions - Session 4
 
