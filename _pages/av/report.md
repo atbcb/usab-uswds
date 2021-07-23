@@ -46,6 +46,7 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
 
 ## Accessibility for Passengers with Mobility Disabilities: Part 1
 
+<figure>
 <figure class="right">
     <img src="./images/101-fehirbach.jpg" alt="Greg Fehribach thumbnail portrait photo" class="img-right">
     <figcaption style="text-align:right">
@@ -64,7 +65,8 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
    U.S. Department of Transportation <br />
   </figcaption>
 </figure>
-    
+
+<figure>
 <figure class="left">
     <img src="./images/103-hutcheson.png" alt="Robin Hutcheson thumbnail portrait photo" class="img-left">
     <figcaption style="text-align:left">
@@ -171,7 +173,7 @@ He then introduced **Jennifer Sheehy **who is the Acting Director of [Office of
 
 *"Many people don't realize that transportation is one of the most important and, perhaps, least appreciated components of employment success for people with disabilities.  After all, the best employment program or job opportunity means nothing and provides little benefit if people cannot access reliable transportation to work."*
 
-Jennifer Sheehy
+Jennifer Sheehy /
 Acting Director, ODEP
 
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles
@@ -181,7 +183,7 @@ Acting Director, ODEP
 {: .clear }
 
 ![Illustration of AV with ramp deployed person in power chair inside AV.](./images/204-av1of2.jpg){: .img-right }
-
+{: .clear }
 In addition to requirements for boarding and alighting access, the vehicle guidelines address:
 
 - walking surfaces;
