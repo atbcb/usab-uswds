@@ -46,8 +46,8 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
 
 ## Accessibility for Passengers with Mobility Disabilities: Part 1
 
-<figure class="right">
-  <img src="./images/101-fehirbach.jpg" alt="Greg Fehribach thumbnail portrait photo" class="img-right">
+<figure class="img-right">
+  <img src="./images/101-fehirbach.jpg" alt="Greg Fehribach thumbnail portrait photo">
   <figcaption style="text-align:center">
    <em>Greg Fehirbach</em>
     </figcaption>
