@@ -290,7 +290,6 @@ Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https:/
     <em>Miriam Manary</em>
   </figcaption>
 </figure>
-
 <figure class="img-right">
   <img src="./images/209-klinich.jpg" alt="Dr. Kathleen Klinich thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
@@ -315,6 +314,7 @@ Klinich and Manary's project, which started in October 2019, will develop an aut
       <em>Wheelchair attachment for UDIG system.</em>
     </figcaption>
   </figure>
+  <span class="clear"> </span>
 </div>
 
 ![Universal docking interface geometry installed in vehicle used in testing](./images/213-securement4of4.png){: .img-right }
