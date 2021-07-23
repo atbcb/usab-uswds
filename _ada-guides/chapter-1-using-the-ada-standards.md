@@ -19,8 +19,7 @@ private sectors are covered by the ADA.
 
 #### State and Local Government Facilities
 
-![government
-building]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/gov.jpg){: .float-right .thumbnail}
+![government building]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/gov.jpg){: .float-right .thumbnail}
 
 Units of government at the state, county, and local levels are subject
 to the ADA and must comply with the ADA Standards in new construction
@@ -32,8 +31,7 @@ similar, standards.
 
 #### Places of Public Accommodation and Commercial Facilities
 
-![store front and
-factory]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada2.jpg){: .float-right .thumbnail}
+![store front and factory]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1ada2.jpg){: .float-right .thumbnail}
 
 In the private sector, the ADA Standards apply to places of public
 accommodation and commercial facilities. Places of public accommodation
