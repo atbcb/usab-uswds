@@ -87,8 +87,12 @@ The ADA vehicle guidelines do not specifically address AVs but may be applicable
 
 Under the guidelines, vehicles must provide accessible boarding and alighting through either a ramp or bridge plate, lift or level boarding.  At least one means of access must be able to deploy to the roadway so that access is provided where no curb or level boarding platform is present or during an emergency.
 
-![Man using a power wheelchair going up a ramp into an autonomous vehicle](./images/106-av2of2.png){: .img-left }
-![Text Box: The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.]
+<figure class="left">
+  <img src="./images/106-av2of2.png" alt="Man using a power wheelchair going up a ramp into an autonomous vehicle. Caption: The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp." class="img-left">
+  <figcaption style="text-align:center">
+   <em>The ADA Guidelines require ramps to have a clear width of at least 30 inches, edge guards at least 2 inches high and visual contrast striping along the perimeter of the ramp.</em> <br />
+   </figcaption>
+</figure>
 
 Level boarding is the best way to provide access where vehicle floor heights can be coordinated with boarding platforms.  The gap between the boarding platform and the vehicle is limited to 2 inches so that casters and crutch tips do not get trapped.  Otherwise, a ramp or bridge plate is needed to span the gap.  Vertical differentials between both surfaces cannot exceed 5/8 inch.  "Kneeling" vehicles with automated self-adjusting ride heights could achieve level boarding at various boarding platforms.  Specifications also address the surfaces of ramps, bridge plates, lifts, and vehicle floors, including slip-resistance, openings, and surface discontinuities. 
 
@@ -165,7 +169,7 @@ He then introduced **Jennifer Sheehy **who is the Acting Director of [Office of
 
 *"Many people don't realize that transportation is one of the most important and, perhaps, least appreciated components of employment success for people with disabilities.  After all, the best employment program or job opportunity means nothing and provides little benefit if people cannot access reliable transportation to work."*
 
-Jennifer Sheehy /
+Jennifer Sheehy <br>
 Acting Director, ODEP
 
 ### ADA Accessibility Guidelines and Standards for Transportation Vehicles
@@ -293,7 +297,9 @@ The third session focused on ride-hailing and on-board communication for passeng
 "This topic could not be more important as cities around the world are deploying, testing, and piloting technology that has tremendous implications for the lives of persons with sensory and cognitive disabilities," Dr. Pineda remarked.  "We want to make sure that nobody is left behind.  We want to make sure that there are clear standards and guidelines.  But most importantly, we want to all be on the same page of understanding what is the future we want."  He also stressed the need for people with disabilities to be actively engaged in helping shape technology and infrastructure.
 
 ![Sarah Pressley](./images/302-presley.jpg){: .img-right }**Sarah Presley**, an Accessibility Specialist with the U.S. Access Board, provided an overview of the program agenda and introduced the first presenters. 
-
+{: .clear }
+{: .clear }
+{: .clear }
 ### Presentation: Results of Focus Groups on AVs and Persons with Disabilities by Rutgers University and Princeton University
 
 ![Andrea Lubin](./images/304-lubin.jpg){: .img-right }
