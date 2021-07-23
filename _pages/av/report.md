@@ -51,7 +51,8 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
   <figcaption style="text-align:center">
       <figcaption class="right">
    <em>Greg Fehirbach</em> <br />
-   </figcaption>
+    </figcaption class>
+    </figcaption>
 </figure>
     
 U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
@@ -68,7 +69,7 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
 </figure>
 
 ![Robin Hutcheson thumbnail portrait photo](./images/103-hutcheson.png){: .img-left }
-*<figcaption>Robin Hutcheson</figcaption>*
+<figcaption>Robin Hutcheson</figcaption>
 
 He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
 
