@@ -47,7 +47,7 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
 ## Accessibility for Passengers with Mobility Disabilities: Part 1
 
 <figure class="img-right">
-  <img src="./images/101-fehirbach.jpg" alt="Greg Fehribach thumbnail portrait photo">
+  <img src="./images/101-fehirbach.jpg" alt="Greg Fehribach thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Greg Fehribach</em>
     </figcaption>
@@ -57,8 +57,8 @@ U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These v
 
 Fehribach then introduced a message from Secretary of Transportation **Pete Buttigieg** who emphasized the need to make AVs both safe and accessible for people with disabilities and remove barriers to transportation resources at large.
 
-<figure class="center">
-  <img src="./images/102-buttigieg.png" alt="Pete Buttigieg photo at podium, U.S. Department of Transportaion" class="img-center">
+<figure class="img-center">
+  <img src="./images/102-buttigieg.png" alt="Pete Buttigieg photo at podium, U.S. Department of Transportaion" class="center">
   <figcaption style="text-align:center">
    <em><q>We have an opportunity to incorporate access, equity and accessibility for all from the beginning of our coming major policy and technology decisions.</q></em> <br />
    Secretary Pete Buttigieg <br />
@@ -67,7 +67,7 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
 </figure>
 
 <figure class="img-left">
-  <img src="./images/103-hutcheson.png" alt="Robin Hutcheson thumbnail portrait photo">
+  <img src="./images/103-hutcheson.png" alt="Robin Hutcheson thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Robin Hutcheson</em>
     </figcaption>
@@ -79,7 +79,7 @@ He was followed by Department of Transportation (DOT) Deputy Assistant Secretary
 {: .clear }
 
 <figure class="img-right">
-  <img src="./images/104-duschesneau.png" alt="Randall Duchesneau thumbnail portrait photo">
+  <img src="./images/104-duschesneau.png" alt="Randall Duchesneau thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Randall Duchesneau</em>
     </figcaption>
@@ -116,7 +116,7 @@ Doorways must open to a clear width of at least 32 inches and have a contrasting
 ### Presentation: Research on Vehicle Ramps by the Center for Inclusive Design and Environmental Access
 
 <figure class="img-right">
-  <img src="./images/107-paquet.jpg" alt="Dr. Victor Paquet thumbnail portrait photo">
+  <img src="./images/107-paquet.jpg" alt="Dr. Victor Paquet thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Victor Paquet</em>
     </figcaption>
@@ -127,7 +127,7 @@ Doorways must open to a clear width of at least 32 inches and have a contrasting
 The first study investigated the effects of ramp slope on human performance during ramp ascent and descent.  Each research participant ascended and descended ramps of different slopes, including those with a rise to run of 1:12, 1:8, 1:6, and 1:4.  Unsurprisingly, ramp ascent times and perceived exertion decreased as slope decreased.  Ramp slopes of 1:8 and 1:12 were the easiest for all user groups, while the 1:4 slope and 1:6 slope hampered 33% and 15% of users from independently completing ascent, respectively.  Power wheelchair users, individuals with visual impairments, and other ambulation aid users rated descent, or going down steep ramps, more difficult than going up.  
 
 <figure class="img-right">
-  <img src="./images/108-rampstudy.png" alt="A photograph showing a manual wheelchair user on ramps of 1 to 8. Caption: A study participant tests a ramp with a 1:8 slope using a manual wheelchair.">
+  <img src="./images/108-rampstudy.png" alt="A photograph showing a manual wheelchair user on ramps of 1 to 8. Caption: A study participant tests a ramp with a 1:8 slope using a manual wheelchair." class="center">
   <figcaption style="text-align:center">
    <em>A study participant tests a ramp with a 1:8 slope using a manual wheelchair.</em>
     </figcaption>
@@ -148,7 +148,7 @@ In summary, the IDeA Center's project supports a maximum slope for vehicle 
 Frayne discussed accessible ramps, challenges with underfloor batteries, and innovative flooring solutions.  He noted that autonomous vehicles are not forthcoming but operating at the present moment.  Working with Navya, a company specializing in the design and construction of AVs, BraunAbility recently developed an ADA ramp solution as part of a pilot project in a Detroit neighborhood and medical center.  
 
 <figure class="img-right">
-  <img src="./images/109-frayne.jpg" alt="Kevin Frayne thumbnail portrait photo">
+  <img src="./images/109-frayne.jpg" alt="Kevin Frayne thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Kevin Frayne</em>
     </figcaption>
@@ -184,7 +184,7 @@ Speakers also addressed accessibility for other types of disabilities, including
 ## Accessibility for Passengers with Mobility Disabilities: Part 2
 
 <figure class="img-right">
-  <img src="./images/201-pavithran.jpg" alt="Dr. Sachin Dev Pavithran thumbnail portrait photo">
+  <img src="./images/201-pavithran.jpg" alt="Dr. Sachin Dev Pavithran thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Sachin Dev Pavithran</em>
     </figcaption>
@@ -197,7 +197,7 @@ U.S. Access Board Executive Director **Sachin Pavithran** opened the program
 He then introduced **Jennifer Sheehy **who is the Acting Director of [Office of Disability Employment Policy](https://www.dol.gov/agencies/odep) (ODEP).  ODEP was an active partner on this forum and hosted the dialog platform that was open throughout the series. 
 
 <figure class="img-left">
-  <img src="./images/202-sheehy.jpg" alt="Jennifer Sheehy thumbnail portrait photo">
+  <img src="./images/202-sheehy.jpg" alt="Jennifer Sheehy thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Jennifer Sheehy</em>
     </figcaption>
@@ -212,7 +212,7 @@ Acting Director, ODEP
 {: .clear }
 
 <figure class="img-right">
-  <img src="./images/203-windley.jpg" alt="Scott Windley thumbnail portrait photo">
+  <img src="./images/203-windley.jpg" alt="Scott Windley thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Scott Windley</em>
     </figcaption>
@@ -231,7 +231,7 @@ In addition to requirements for boarding and alighting access, the vehicle guide
 - securement systems.
 
 <figure class="img-left">
-  <img src="./images/205-av2of2.jpg" alt="Overhead illustration of AV with a clear floor space inside, showing person in powerchair in the clear floor space. Caption: The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.">
+  <img src="./images/205-av2of2.jpg" alt="Overhead illustration of AV with a clear floor space inside, showing person in powerchair in the clear floor space. Caption: The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems." class="center">
   <figcaption style="text-align:center">
    <em>The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems.</em>
     </figcaption>
@@ -244,7 +244,7 @@ Wheelchair spaces must be at least 30 inches wide and 48 inches long.  An access
 ### Presentation: Robotic Research Projects: New Flyer and Paralift
 
 <figure class="img-right">
-  <img src="./images/206-brilhart.jpg" alt="Bryan Brillhart thumbnail portrait photo">
+  <img src="./images/206-brilhart.jpg" alt="Bryan Brillhart thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Bryan Brillhart</em>
     </figcaption>
@@ -255,7 +255,7 @@ Wheelchair spaces must be at least 30 inches wide and 48 inches long.  An access
 Brilhart discussed various applications of Robotic Research technology, including a project that involved the development of a precision docking system for an electric automated bus released earlier this year (New Flyer's Excelsior AV™).  The system enables the bus to pull up to boarding platforms within very close tolerances in a repeatable process for safe, level boarding at every stop.  Another application of its technology is an autonomous system in a Local Motors low-speed shuttle.
 
 <figure class="img-right">
-  <img src="./images/207-paralift.jpg" alt="A yellow and black van parked in a parking lot with lift deployed. Caption: Robotic Research's Paralift System">
+  <img src="./images/207-paralift.jpg" alt="A yellow and black van parked in a parking lot with lift deployed. Caption: Robotic Research's Paralift System" class="center">
   <figcaption style="text-align:center">
    <em>Robotic Research's Paralift System</em>
     </figcaption>
@@ -272,7 +272,7 @@ Key features of the Paralift system include:
 - Voice-automated controls that allow passengers to hear what is going on with what the process is. 
 
 <figure class="img-left">
-  <img src="./images/208-securement1of4.png" alt="Image of quantum securement system with scooter. Caption: Q'Straint's QUANTUM securement system">
+  <img src="./images/208-securement1of4.png" alt="Image of quantum securement system with scooter. Caption: Q'Straint's QUANTUM securement system" class="center">
   <figcaption style="text-align:center">
    <em>Q'Straint's QUANTUM securement system</em>
     </figcaption>
@@ -284,7 +284,7 @@ Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https:/
 {: .clear }
 
 <figure class="img-right">
-  <img src="./images/209-klinich.jpg" alt="Dr. Kathleen Klinich thumbnail portrait photo">
+  <img src="./images/209-klinich.jpg" alt="Dr. Kathleen Klinich thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Kathleen Klinich</em>
     </figcaption>
@@ -293,7 +293,7 @@ Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https:/
 **Dr. Kathleen Klinich** and **Miriam Manary** of the [University of Michigan's Transportation Research Institute](https://umtri.umich.edu/) (UMTRI) gave a presentation on research that is underway to develop an automated wheelchair tiedown and occupant restraint system.  Funded by National Highway Traffic Safety Administration, the [project](https://umtri.umich.edu/research/projects/development-of-an-automated-wheelchair-tiedown-and-occupant-restraint-system/)  will test a "universal docking interface geometry" (UDIG) that features an anchorage system in the vehicle that can be used with any wheelchair equipped with the attachment hardware, similar in concept to a semi-truck trailer hitch.  While this kind of technology has been available, field tested, and evaluated for decades, it has not been widely implemented because it needs to be installed extensively on both wheelchairs and in vehicles.  The need for independent docking options may have renewed interest in such a solution. 
 
 <figure class="img-right">
-  <img src="./images/210-manary.jpg" alt="Miriam Manary thumbnail portrait photo">
+  <img src="./images/210-manary.jpg" alt="Miriam Manary thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Miriam Manary</em>
     </figcaption>
@@ -302,7 +302,7 @@ Brilhart closed his presentation by discussing the Q'Straint's [QUANTUM](https:/
 Klinich and Manary's project, which started in October 2019, will develop an automated wheelchair docking station and seat belt through a combination of computational models, assessments of usability by volunteers, and dynamic sled testing.  Klinich and Manary are currently using crash test modelling to determine the best place to position the wheelchair relative to the anchorage system and the positioning of shoulder and lap belt anchors.  Additionally, they are evaluating the potential benefits of an airbag restraint for occupants using wheelchairs.
 
 <figure class="img-left">
-  <img src="./images/211-securement2of4.png" alt="UDIG anchorage dock design rendering showing two lateral facing anchor hooks that deploy using a two smaller actuators. Caption: Universal docking interface geometry (UDIG)">
+  <img src="./images/211-securement2of4.png" alt="UDIG anchorage dock design rendering showing two lateral facing anchor hooks that deploy using a two smaller actuators. Caption: Universal docking interface geometry (UDIG)" class="center">
   <figcaption style="text-align:center">
    <em>Universal docking interface geometry (UDIG)</em>
     </figcaption>
@@ -330,7 +330,7 @@ Klinich and Manary expect to complete the project in June 2021 and plan to have 
 ### Presentation: Research on Vehicle Interior Seating Layout and Wheelchair Securement by the Center for Inclusive Design and Environmental Access
 
 <figure class="img-right">
-  <img src="./images/214-maisel.png" alt="Dr. Jordana Maisel thumbnail portrait photo">
+  <img src="./images/214-maisel.png" alt="Dr. Jordana Maisel thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Jordana Maisel</em>
     </figcaption>
@@ -378,7 +378,7 @@ Additional comments addressed access to AVs used for taxi service, payment syste
 ## Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1
 
 <figure class="img-right">
-  <img src="./images/301-pineda.png" alt="Dr. Victor Pineda thumbnail portrait photo">
+  <img src="./images/301-pineda.png" alt="Dr. Victor Pineda thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Victor Pineda</em>
     </figcaption>
@@ -400,14 +400,14 @@ The third session focused on ride-hailing and on-board communication for passeng
 ### Presentation: Results of Focus Groups on AVs and Persons with Disabilities by Rutgers University and Princeton University
 
 <figure class="img-right">
-  <img src="./images/303-feeley.jpg" alt="Dr. Cecilia Feeley thumbnail portrait photo">
+  <img src="./images/303-feeley.jpg" alt="Dr. Cecilia Feeley thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Cecilia Feeley</em>
     </figcaption>
 </figure>
 
 <figure class="img-right">
-  <img src="./images/304-lubin.jpg" alt="Andrea Lubin thumbnail portrait photo">
+  <img src="./images/304-lubin.jpg" alt="Andrea Lubin thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Andrea Lubin</em>
     </figcaption>
@@ -420,7 +420,7 @@ The majority of participants said that they do not use personal assistance for 
 Safety-related concerns were the most discussed issue by participants.  Suggestions for addressing these concerns included use of on-board cameras to capture safety-related issues and use of audio and visual sensors that can assist AVs in identifying and responding appropriately to approaching emergency vehicles.  Recommendations to address vehicle malfunction or accident concerns focused on the presence of an on-board attendant. 
 
 <figure class="img-right">
-  <img src="./images/305-av.png" alt="photo of Olli Shuttle stopped on the street with the door open and the sidewalk in front. Caption: AV Shuttle used in the focus group study.">
+  <img src="./images/305-av.png" alt="photo of Olli Shuttle stopped on the street with the door open and the sidewalk in front. Caption: AV Shuttle used in the focus group study." class="center">
   <figcaption style="text-align:center">
    <em>AV Shuttle used in the focus group study.</em>
     </figcaption>
@@ -433,7 +433,7 @@ Passengers who are blind or have low vision noted that several design features s
 ### Presentation: Research on AVs for Blind and Low Vision People by the University of Michigan
 
 <figure class="img-right">
-  <img src="./images/306-brewer.jpg" alt="Dr. Robin Brewer thumbnail portrait photo">
+  <img src="./images/306-brewer.jpg" alt="Dr. Robin Brewer thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Robin Brewer</em>
     </figcaption>
@@ -456,7 +456,7 @@ Brewer concluded with a couple points for future researchers and designers.  Fir
 ### Presentation: Anil Lewis of the National Federation of the Blind
 
 <figure class="img-right">
-  <img src="./images/308-lewis.png" alt="Anil Lewis thumbnail portrait photo">
+  <img src="./images/308-lewis.png" alt="Anil Lewis thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Anil Lewis</em>
     </figcaption>
@@ -481,7 +481,7 @@ Lewis stressed that a blind person's level of travel training will inform their
 ### Presentation: AVs from a Deaf/Hard of Hearing Perspective
 
 <figure class="img-right">
-  <img src="./images/309-vogler.png" alt="Dr. Christian Vogler thumbnail portrait photo">
+  <img src="./images/309-vogler.png" alt="Dr. Christian Vogler thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Christian Vogler</em>
     </figcaption>
@@ -512,7 +512,7 @@ One commenter requested that passengers with electromagnetic sensitivities be in
 ## Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2
 
 <figure class="img-right">
-  <img src="./images/401-tamley.jpg" alt="Karen Tamley thumbnail portrait photo">
+  <img src="./images/401-tamley.jpg" alt="Karen Tamley thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Karen Tamley</em>
     </figcaption>
@@ -525,7 +525,7 @@ U.S. Access Board Accessibility Specialist **Sarah Presley** hosted the event an
 ### Presentation: Communication Accessibility in Hailing and Interacting with Autonomous Vehicles
 
 <figure class="img-right">
-  <img src="./images/402-steinfeld.png" alt="Dr. Aaron Steinfeld thumbnail portrait photo">
+  <img src="./images/402-steinfeld.png" alt="Dr. Aaron Steinfeld thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Aaron Steinfeld</em>
     </figcaption>
@@ -548,7 +548,7 @@ Researchers and designers will need to account for how weather conditions, unant
 ### Presentation: Cognitive Access to Autonomous Vehicles
 
 <figure class="img-right">
-  <img src="./images/403-vanderheiden.png" alt="Dr. Gregg Vanderheiden thumbnail portrait photo">
+  <img src="./images/403-vanderheiden.png" alt="Dr. Gregg Vanderheiden thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Dr. Gregg Vanderheiden</em>
     </figcaption>
@@ -585,7 +585,7 @@ He also reviewed concerns for privacy and potential for data abuse, supplementin
 ### Presentation: Federal Communications Commission (FCC) Rules Related to AVs
 
 <figure class="img-right">
-  <img src="./images/404-cooper.png" alt="Darryl Cooper thumbnail portrait photo">
+  <img src="./images/404-cooper.png" alt="Darryl Cooper thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Darryl Cooper</em>
     </figcaption>
@@ -600,7 +600,7 @@ He noted that the FCC [Disability Rights Office](https://www.fcc.gov/accessibili
 ### Presentation: Accessible Transportation and the World Wide Web Consortium (W3C)
 
 <figure class="img-right">
-  <img src="./images/406-guild.jpg" alt="Ted Guild thumbnail portrait photo">
+  <img src="./images/406-guild.jpg" alt="Ted Guild thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Ted Guild</em>
     </figcaption>
@@ -623,7 +623,7 @@ Guild concluded with some takeaways to consider for AVs:
 ### Presentation: Applicability of Section 508 Definitions for Information and Communication Technology to AVs
 
 <figure class="img-right">
-  <img src="./images/408-bailey.png" alt="Bruce Bailey thumbnail portrait photo">
+  <img src="./images/408-bailey.jpg" alt="Bruce Bailey thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
    <em>Bruce Bailey</em>
     </figcaption>
