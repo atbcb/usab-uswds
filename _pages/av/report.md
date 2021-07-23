@@ -619,7 +619,7 @@ Guild concluded with some takeaways to consider for AVs:
 ### Presentation: Applicability of Section 508 Definitions for Information and Communication Technology to AVs
 
 <figure class="img-right">
-  <img src="./images/408-bailey.png" alt="Bruce Bailey thumbnail portrait photo">
+  <img src="./images/408-bailey.jpg" alt="Bruce Bailey thumbnail portrait photo">
   <figcaption style="text-align:center">
    <em>Bruce Bailey</em>
     </figcaption>
