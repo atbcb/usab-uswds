@@ -116,9 +116,9 @@ Doorways must open to a clear width of at least 32 inches and have a contrasting
 ### Presentation: Research on Vehicle Ramps by the Center for Inclusive Design and Environmental Access
 
 <figure class="img-right">
-  <img src="./images/107-paquet.jpg" alt="Victor Paquet thumbnail portrait photo">
+  <img src="./images/107-paquet.jpg" alt="Dr. Victor Paquet thumbnail portrait photo">
   <figcaption style="text-align:center">
-   <em>Victor Paquet</em>
+   <em>Dr. Victor Paquet</em>
     </figcaption>
 </figure>
 
@@ -315,7 +315,11 @@ Klinich and Manary's project, which started in October 2019, will develop an aut
     </figcaption>
 </figure>
 
+{: .clear }
+
 ![Universal docking interface geometry installed in vehicle used in testing](./images/213-securement4of4.png){: .img-right }
+
+{: .clear }
 
 Klinich and Manary designed a prototype with attachments for both manual and power wheelchairs.  Both attachment styles have a vertical bar spaced in between the rear wheels.  Users back their wheelchair into the station and align the attachments on their wheelchair against the docking system which has two hooks that deploy outward and connect to the attachments.
 
@@ -396,6 +400,13 @@ The third session focused on ride-hailing and on-board communication for passeng
 ### Presentation: Results of Focus Groups on AVs and Persons with Disabilities by Rutgers University and Princeton University
 
 <figure class="img-right">
+  <img src="./images/303-feeley.jpg" alt="Dr. Cecilia Feeley thumbnail portrait photo">
+  <figcaption style="text-align:center">
+   <em>Dr. Cecilia Feeley</em>
+    </figcaption>
+</figure>
+
+<figure class="img-right">
   <img src="./images/304-lubin.jpg" alt="Andrea Lubin thumbnail portrait photo">
   <figcaption style="text-align:center">
    <em>Andrea Lubin</em>
@@ -403,13 +414,6 @@ The third session focused on ride-hailing and on-board communication for passeng
 </figure>
 
 Dr. Cecilia Feeley, Transportation Autism Project Manager, and Andrea Lubin, Senior Researcher, at Rutgers University gave a presentation on their findings from a series of focus groups of adults with disabilities who took short autonomous shuttle rides.  A core intent of this [research](https://cait.rutgers.edu/research/autonomous-vehicles-capturing-in-vehicle-experience-focus-group-follow-up-with-persons-with-autism-and-other-disabilities-at-the-2019-princeton-university-smartdrivingcar-summit/)  was to gather feedback and recommendations from persons with visual or cognitive disabilities.  Conducted jointly by Rutgers University and Princeton University, the study convened four focus groups with a total of 21 participants.
-
-<figure class="img-right">
-  <img src="./images/303-feeley.jpg" alt="Dr. Cecilia Feeley thumbnail portrait photo">
-  <figcaption style="text-align:center">
-   <em>Dr. Cecilia Feeley</em>
-    </figcaption>
-</figure>
 
 The majority of participants said that they do not use personal assistance for their current modes of transportation and would not need personal assistance using AVs, at least not in the long term.  Some participants with developmental disabilities did say that they would like the option of having a family member accompany them on AV trips until they felt comfortable traveling independently using this new mode of transportation.  Some participants who are blind or have low vision said that it would be helpful if assistance was always available to open and close vehicle doors, provide guidance to available seats, help with passenger bags, and secure wheelchairs or other mobility devices. 
 
@@ -619,7 +623,7 @@ Guild concluded with some takeaways to consider for AVs:
 ### Presentation: Applicability of Section 508 Definitions for Information and Communication Technology to AVs
 
 <figure class="img-right">
-  <img src="./images/408-bailey.jpg" alt="Bruce Bailey thumbnail portrait photo">
+  <img src="./images/408-bailey.png" alt="Bruce Bailey thumbnail portrait photo">
   <figcaption style="text-align:center">
    <em>Bruce Bailey</em>
     </figcaption>
