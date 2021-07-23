@@ -47,12 +47,11 @@ In addition, an online discussion platform (ePolicyWorks) provided further o
 ## Accessibility for Passengers with Mobility Disabilities: Part 1
 
 <figure class="right">
-  <img src="./images/101-fehirbach.jpg" alt="Greg Fehribach thumbnail portrait photo" class="img-right">
-  <figcaption style="text-align:right">
-   <em><q>Greg Fehribach <br />
-  </figcaption>
+    <img src="./images/101-fehirbach.jpg" alt="Greg Fehribach thumbnail portrait photo" class="img-right">
+    <figcaption style="text-align:right">
+    </figcaption>Greg Fehribach</figcaption>
 </figure>
-
+    
 U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "These vehicles can also open up a whole new world of travel options for people with disabilities, but only if they are able to get into them and use them."  He also noted that, as with any new technology or innovation, "it is critical that inclusivity is integrated into design and development from the outset."
 
 Fehribach then introduced a message from Secretary of Transportation **Pete Buttigieg** who emphasized the need to make AVs both safe and accessible for people with disabilities and remove barriers to transportation resources at large.  
@@ -65,12 +64,11 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
    U.S. Department of Transportation <br />
   </figcaption>
 </figure>
-
+    
 <figure class="left">
-  <img src="./images/103-hutcheson.png" alt="Robin Hutcheson thumbnail portrait photo" class="img-left">
-  <figcaption style="text-align:left">
-   <em><q>Robin Hutcheson <br />
-  </figcaption>
+    <img src="./images/103-hutcheson.png" alt="Robin Hutcheson thumbnail portrait photo" class="img-left">
+    <figcaption style="text-align:left">
+  </figcaption>Robin Hutcheson</figcaption>
 </figure>
 
 He was followed by Department of Transportation (DOT) Deputy Assistant Secretary for Safety Policy **Robin Hutcheson** who called attention to accessible transportation as pivotal to employment, education, health care, housing, and community living.  "Making vehicles and infrastructure safe and accessible to everyone and, most importantly, making vehicles and infrastructure safe for people with disabilities from the outset is so critical," she remarked.
