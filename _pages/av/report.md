@@ -12,7 +12,7 @@ permalink: /av/report.html
 
 **July 2021**
 
-[AV Forum Summary Report in PDF format]({{ site.baseurl }}/files/presentations/usab-av-forum-summary-report.pdf)
+[AV Forum Summary Report in PDF format]({{ site.baseurl }}/files/presentations/usab-av-forum-summary-report.pdf){: .button }
 
 ### Important Note
 
@@ -61,8 +61,7 @@ Fehribach then introduced a message from Secretary of Transportation **Pete Butt
   <img src="./images/102-buttigieg.png" alt="Pete Buttigieg photo at podium, U.S. Department of Transportaion" class="center">
   <figcaption style="text-align:center">
     <em><q>We have an opportunity to incorporate access, equity and accessibility for all from the beginning of our coming major policy and technology decisions.</q></em> <br>
-     Secretary Pete Buttigieg <br>
-     U.S. Department of Transportation <br>
+     Secretary Pete Buttigieg, U.S. Department of Transportation <br>
   </figcaption>
 </figure>
 <figure class="img-left">
@@ -130,8 +129,8 @@ The first study investigated the effects of ramp slope on human performance du
 <figure class="img-right">
   <img src="./images/108-rampstudy.png" alt="A photograph showing a manual wheelchair user on a ramp." class="center">
   <figcaption style="text-align:center">
-    <em>A study participant tests a ramp with <br>
-    a 1:8 slope using a manual wheelchair.</em>
+    <em>A study participant tests a ramp with a <br>
+    1:8 slope using a manual wheelchair.</em>
   </figcaption>
 </figure>
 
@@ -225,10 +224,10 @@ Acting Director, ODEP
 
 In addition to requirements for boarding and alighting access, the vehicle guidelines address:
 
-- walking surfaces;
-- accessible routes;
-- wheelchair space; and
-- securement systems.
+> - walking surfaces;
+> - accessible routes;
+> - wheelchair space; and
+> - securement systems.
 
 <figure class="img-right">
   <img src="./images/205-av2of2.jpg" alt="Overhead illustration of AV with a clear floor space inside, showing person in powerchair in the clear floor space. Caption: The ADA Guidelines require buses and vans to provide wheelchair spaces and securement systems." class="center">
@@ -304,7 +303,7 @@ Klinich and Manary's project, which started in October 2019, will develop an aut
   <figure class="img-left">
     <img src="./images/211-securement2of4.png" alt="UDIG anchorage dock design rendering showing two lateral facing anchor hooks that deploy using a two smaller actuators." class="center">
     <figcaption style="text-align:center">
-      <em>Universal docking interface geometry (UDIG)</em>
+      <em>Universal Docking Interface Geometry (UDIG)</em>
     </figcaption>
   </figure>
   <figure class="img-right">
@@ -370,7 +369,7 @@ Additional comments addressed access to AVs used for taxi service, payment syste
 
 ### References - Session 2
 
-[Session Recording](https://youtu.be/d9xc-mRrlxY?t=38 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pptx)  (18 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pdf)  (6 MB)
+[Session Recording](https://youtu.be/d9xc-mRrlxY?t=38 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pptx) (18 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-03-24.pdf) (6 MB)
 
 ## Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 1
 
@@ -496,7 +495,7 @@ Currently, the main way of communicating with vehicles is through voice interfa
 
 Talking GPS systems give much more information by voice than what is provided visually, which may be true for AVs as well.  Appropriate visual information must be provided if the AV is to be functionally equivalent to a voice system; however, it is imperative not to overload the visual modality, resulting in too much distraction.  Research is needed on how and when to display relevant information and how to prioritize that information while providing functionally equivalent service.
 
-Another area that is often overlooked is how persons using hearing aids or cochlear implants get an effective, clean audio feed to their devices.  Background noise can prevent a clean audio feed from the voice interface of something like an AV.  It is critical to consider direct connection options for hearing aids.  But if a direct connection is used, persons using hearing aids may have to choose between focusing on the communication of others around them in the vehicle or on the communication coming from the vehicle itself.  Future design has to fully integrate the/ idea of multiple audio output options, supported in parallel.  
+Another area that is often overlooked is how persons using hearing aids or cochlear implants get an effective, clean audio feed to their devices.  Background noise can prevent a clean audio feed from the voice interface of something like an AV.  It is critical to consider direct connection options for hearing aids.  But if a direct connection is used, persons using hearing aids may have to choose between focusing on the communication of others around them in the vehicle or on the communication coming from the vehicle itself.  Future design has to fully integrate the idea of multiple audio output options, supported in parallel.  
 
 Vogler concluded his presentation by discussing how communication systems, both inside and outside of the vehicle, are generally audio based.  These systems must provide alternatives such as video and text capabilities and cannot be only voice-activated.
 
@@ -504,13 +503,13 @@ Vogler concluded his presentation by discussing how communication systems, both 
 
 ![Microphone at a podium](./images/000-microphone.jpg){: .img-right }
 
-**Bruce Bailey**, an Accessibility Specialist with the U.S. Access Board, moderated the public forum that followed.  One commenter called attention to providing access for passengers with multiple disabilities, as well as the need to address access in all conditions, including emergencies.  In response to a question about the Rutgers focus group, Andrea Lubin and Dr. Cecilia Feeley noted that participants were not hesitant to use vehicle on-board communication systems, but they would prefer to use their own phones to schedule the ride.  
+**Bruce Bailey**, an IT Specialist with the U.S. Access Board, moderated the public forum that followed.  One commenter called attention to providing access for passengers with multiple disabilities, as well as the need to address access in all conditions, including emergencies.  In response to a question about the Rutgers focus group, Andrea Lubin and Dr. Cecilia Feeley noted that participants were not hesitant to use vehicle on-board communication systems, but they would prefer to use their own phones to schedule the ride.  
 
 One commenter requested that passengers with electromagnetic sensitivities be involved in the design of AVs so that their needs are addressed, such as hardwiring systems to avoid exposure to wireless signals.  Another speaker recommended that designers consider higher levels of automation, which is where innovation is heading, instead of where the technology is starting today.  In addition, research on AVs and disability needs should cover the full range of users and should not be segmented by disability type.  
 
 ### References - Session 3
 
-[Session Recording](https://www.youtube.com/watch?v=nfh-MpcNCB8 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07_for_web.pptx)  (46 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07.pdf)  (6 MB)
+[Session Recording](https://www.youtube.com/watch?v=nfh-MpcNCB8 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07_for_web.pptx) (46 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-07.pdf) (6 MB)
 
 ## Accessibility for Passengers with Sensory and Cognitive Disabilities: Part 2
 
@@ -639,7 +638,7 @@ Guild concluded with some takeaways to consider for AVs:
 
 Section 508 relies on a definition by the [Clinger-Cohen Act of 1996, 40 U.S.C. 11101(6)](https://www.govinfo.gov/content/pkg/USCODE-2013-title40/html/USCODE-2013-title40-subtitleIII.htm) for "information technology."  With respect to an executive agency, IT means:
 
-"any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use of that equipment; or of that equipment to a significant extent in the performance of a service or the furnishing of a product."  IT "includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but does not include any equipment acquired by a federal contractor incidental to a federal contract."
+> *"any equipment or interconnected system or subsystem of equipment, used in the automatic acquisition, storage, analysis, evaluation, manipulation, management, movement, control, display, switching, interchange, transmission, or reception of data or information by the executive agency, if the equipment is used by the executive agency directly or is used by a contractor under a contract with the executive agency that requires the use of that equipment; or of that equipment to a significant extent in the performance of a service or the furnishing of a product."  IT "includes computers, ancillary equipment (including imaging peripherals, input, output, and storage devices necessary for security and surveillance), peripheral equipment designed to be controlled by the central processing unit of a computer, software, firmware and similar procedures, services (including support services), and related resources; but does not include any equipment acquired by a federal contractor incidental to a federal contract.*
 
 The Clinger-Cohen definition of IT seems perfectly applicable to automata, including robots and AVs.  Section 508 requires that ICT, and IT, be accessible to individuals with disabilities.  The Section 508 Standards are the base metrics for that accessibility, and they comprehensively address information kiosks and other hardware and could be used for assessing the accessibility of AVs.
 
@@ -651,7 +650,7 @@ Bailey moderated the open forum that followed.  One attendee called attention to
 
 ### References - Session 4
 
-[Session Recording](https://youtu.be/ImQoLk0CQoc?t=1 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-21.pptx)  (5 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-21.pdf)  (3 MB)
+[Session Recording](https://youtu.be/ImQoLk0CQoc?t=1 "external link") Presentations: [PowerPoint]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-21.pptx) (5 MB) [PDF]({{ site.baseurl }}/files/presentations/usab-av-forum-2021-04-21.pdf) (3 MB)
 
 ## Summary of Comments from AV Online Dialogue
 
