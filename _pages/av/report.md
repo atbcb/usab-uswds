@@ -244,9 +244,9 @@ Wheelchair spaces must be at least 30 inches wide and 48 inches long.  An access
 ### Presentation: Robotic Research Projects: New Flyer and Paralift
 
 <figure class="img-right">
-  <img src="./images/206-brilhart.jpg" alt="Bryan Brillhart thumbnail portrait photo" class="center">
+  <img src="./images/206-brilhart.jpg" alt="Bryan Brilhart thumbnail portrait photo" class="center">
   <figcaption style="text-align:center">
-   <em>Bryan Brillhart</em>
+   <em>Bryan Brilhart</em>
     </figcaption>
 </figure>
 
@@ -257,7 +257,7 @@ Brilhart discussed various applications of Robotic Research technology, includin
 <figure class="img-right">
   <img src="./images/207-paralift.jpg" alt="A yellow and black van parked in a parking lot with lift deployed. Caption: Robotic Research's Paralift System" class="center">
   <figcaption style="text-align:center">
-   <em>Robotic Research's Paralift System</em>
+   <em>Robotic Research's Paralift™ System</em>
     </figcaption>
 </figure>
 
@@ -392,6 +392,8 @@ The third session focused on ride-hailing and on-board communication for passeng
 </figure>
 
 **Sarah Presley**, an Accessibility Specialist with the U.S. Access Board, provided an overview of the program agenda and introduced the first presenters. 
+{: .clear }
+{: .clear }
 
 ### Presentation: Results of Focus Groups on AVs and Persons with Disabilities by Rutgers University and Princeton University
 {: .clear }
