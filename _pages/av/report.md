@@ -12,7 +12,7 @@ permalink: /av/report.html
 
 **July 2021**
 
-[AV Forum Summary Report in PDF format]({{ site.baseurl }}/files/presentations/usab-av-forum-summary-report.pdf).
+[AV Forum Summary Report in PDF format]({{ site.baseurl }}/files/presentations/usab-av-forum-summary-report.pdf)
 
 ### Important Note
 
@@ -386,7 +386,7 @@ The third session focused on ride-hailing and on-board communication for passeng
 
 "This topic could not be more important as cities around the world are deploying, testing, and piloting technology that has tremendous implications for the lives of persons with sensory and cognitive disabilities," Dr. Pineda remarked.  "We want to make sure that nobody is left behind.  We want to make sure that there are clear standards and guidelines.  But most importantly, we want to all be on the same page of understanding what is the future we want."  He also stressed the need for people with disabilities to be actively engaged in helping shape technology and infrastructure.
 
-<figure class="img-right">
+<figure class="float-right">
   <img src="./images/302-presley.jpg" alt="Sarah Presley thumbnail portrait photo">
   <figcaption style="text-align:center">
    <em>Sarah Presley</em>
@@ -524,6 +524,7 @@ The fourth and final session in the series continued discussion of communication
 U.S. Access Board Accessibility Specialist **Sarah Presley** hosted the event and introduced the guest speakers.
 
 ### Presentation: Communication Accessibility in Hailing and Interacting with Autonomous Vehicles
+{: .clear }
 
 <figure class="img-right">
   <img src="./images/402-steinfeld.png" alt="Dr. Aaron Steinfeld thumbnail portrait photo" class="center">
