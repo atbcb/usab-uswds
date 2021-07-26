@@ -8,7 +8,7 @@ permalink: /av/
 
 ## {{page.title}}
 
-[![Inclusive Design of Autonomous Vehicles: A Public Dialog; Summary Report cover page, U.S. Access Board, July 2021](./images/av-report-cvr.jpg "link to report"){: .img-right }](./report.html)
+[![Inclusive Design of Autonomous Vehicles: A Public Dialog; Summary Report cover page, U.S. Access Board, July 2021](./images/av-report-cvr.jpg "link to report")](./report.html){: .img-right }
 
 Self-driving or “autonomous” vehicles stand to revolutionize road transportation in the U.S. and around the world.&nbsp;
 Their cutting-edge technologies and engineering innovations have the potential to significantly expand transit options for many people, including those with disabilities.&nbsp;
