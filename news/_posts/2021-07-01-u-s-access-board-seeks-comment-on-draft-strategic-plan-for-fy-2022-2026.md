@@ -10,7 +10,7 @@ image: /images/uploads/strategic-plan-arrows.jpg
 image_alt_text: Blue arrow with "strategic plan" text
 tags:
   - events
-featured: false
+featured: true
 ---
 The U.S. Access Board will hold a virtual forum on its draft Strategic Plan on **July 13** at **2:30 – 4:00 ET** for the purpose of obtaining public feedback on the agency’s goals and objectives for the next five years. The draft plan includes a new focus on equity and inclusion consistent with recent executive orders and updated goals and objectives that strengthen the Board’s services and programs. The draft plan is available for review on the [Board’s website](https://www.access-board.gov/about/strategic-plan-fy2022.html).
 
