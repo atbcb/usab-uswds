@@ -10,9 +10,9 @@ permalink: /av/report.html
 
 ## {{page.title}}
 
-**July 2021**
+<button class="usa-button" title="AV Forum Summary Report in PDF format" style="float:right"><a href="{{ site.baseurl }}/files/presentations/usab-av-forum-summary-report.pdf">PDF</a></button>
 
-<button class="usa-button"><a href="{{ site.baseurl }}/files/presentations/usab-av-forum-summary-report.pdf">PDF</a></button>
+**July 2021** 
 
 ### Important Note
 
