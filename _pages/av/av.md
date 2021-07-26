@@ -8,7 +8,7 @@ permalink: /av/
 
 ## {{page.title}}
 
-{% asset autonomous-bus.jpg alt="Autonomous Bus" class="float-right" %}
+[![Inclusive Design of Autonomous Vehicles: A Public Dialog; Summary Report cover page, U.S. Access Board, July 2021](./images/av-report-cvr.jpg "link to report"){: .img-right }](./report.html)
 
 Self-driving or “autonomous” vehicles stand to revolutionize road transportation in the U.S. and around the world.&nbsp;
 Their cutting-edge technologies and engineering innovations have the potential to significantly expand transit options for many people, including those with disabilities.&nbsp;
@@ -22,7 +22,7 @@ Attendees were able to pose questions and share comments, suggestions, and infor
 
 The Board undertook this initiative jointly with other agencies, including the Department of Labor’s Office of Disability Employment Policy (ODEP) and the Department of Health and Human Service’s Administration for Community Living. 
 
-For more detailed description of the forum, please visit the [Public Forum on Inclusive Design of AVs: Summary Report](./report.html).
+A summary report on the forum is [available online](./report.html).
 
 Vistors interested in the AV forum and sessions might also wish to review the following:
 

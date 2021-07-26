@@ -225,9 +225,9 @@ td ul.check {
 
 button {
   a:link { color:white; text-decoration:none; }
-  a:hover { color:aqua !important; }
-  a:active { color:yellow !important; text-decoration:none; }
-  a:visited { color:silver; }
+  a:hover { color:aqua !important; text-decoration:underline; }
+  a:active { color:yellow !important; text-decoration:underline; }
+  a:visited { color:silver; text-decoration:none; }
 }
 
 // override default gray to get a little more contrast
@@ -285,6 +285,7 @@ dt {
   float: right;
   margin: 1rem 0rem 1rem 2rem;
   max-width: 50%;
+  border: thin inset;
 }
 
 .img-left {
@@ -292,11 +293,13 @@ dt {
   float: left;
   margin: 1rem 2rem 1rem 0rem;
   max-width: 50%;
+  border: thin inset;
 }
 
 .img-medium {
   padding: 1rem;
   width: 40%;
+  border: thin inset;
 }
 
 .img-center {
@@ -305,6 +308,7 @@ dt {
   margin-right: auto;
   margin: 1rem 0rem 1rem 0rem;
   max-width: 90%;
+  border: thin inset;
 }
 
 .img-grid {
@@ -509,7 +513,6 @@ a.style-inherit {
   position: relative;
   height: 5rem;
   overflow: hidden;
-  
 }
 
 .pdf-button {
