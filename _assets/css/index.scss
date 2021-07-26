@@ -218,8 +218,8 @@ td ul.check {
 .usa-hero__callout {
   padding: 1rem;
   a:link { color:white; }
-  a:hover { color:aqua !important; }
-  a:active { color:yellow !important; }
+  a:hover { color:aqua !important; text-decoration:underline; }
+  a:active { color:yellow !important; text-decoration:underline; }
   a:visited { color:silver; }
 }
 
@@ -304,9 +304,7 @@ dt {
 
 .img-center {
   display: block;
-  margin-left: auto;
-  margin-right: auto;
-  margin: 1rem 0rem 1rem 0rem;
+  margin: 1rem auto 1rem auto;
   max-width: 90%;
   border: thin inset;
 }

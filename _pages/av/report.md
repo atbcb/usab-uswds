@@ -57,7 +57,7 @@ U.S. Access Board Chair **Greg Fehribach** opened the forum and stated, "these v
 
 Fehribach then introduced a message from Secretary of Transportation **Pete Buttigieg** who emphasized the need to make AVs both safe and accessible for people with disabilities and remove barriers to transportation resources at large.
 
-<figure class="center">
+<figure class="img-center">
   <img src="./images/102-buttigieg.png" alt="Pete Buttigieg photo at podium, U.S. Department of Transportaion" class="center">
   <figcaption style="text-align:center">
     <em><q>We have an opportunity to incorporate access, equity and accessibility for all from the beginning of our coming major policy and technology decisions.</q></em> <br>
@@ -307,7 +307,7 @@ Klinich and Manary's project, which started in October 2019, will develop an aut
     </figcaption>
   </figure>
   <figure class="img-right">
-    <img src="./images/212-securement3of4.jpg" alt="Rear view of manual wheelchair showing UDIG attachments. Two vertical posts are located between the rear wheels, and attached to the frame with horizontal rods at the top and bottom that extend back to near the tiedown hooks.">
+    <img src="./images/212-securement3of4.jpg" alt="Rear view of manual wheelchair showing UDIG attachments. Two vertical posts are located between the rear wheels, and attached to the frame with horizontal rods at the top and bottom that extend back to near the tiedown hooks." class="center">
     <figcaption style="text-align:center">
       <em>Wheelchair attachment for UDIG system.</em>
     </figcaption>
