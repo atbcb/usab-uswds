@@ -22,7 +22,7 @@ Attendees were able to pose questions and share comments, suggestions, and infor
 
 The Board undertook this initiative jointly with other agencies, including the Department of Labor’s Office of Disability Employment Policy (ODEP) and the Department of Health and Human Service’s Administration for Community Living. 
 
-For more detailed description of the forum, please visit the [Public Forum on Inclusive Design of AVs: Summary Report](./report.html).
+A summary report on the forum is [available online](./report.html).
 
 Visitors interested in the AV forum and sessions might also wish to review the following:
 
