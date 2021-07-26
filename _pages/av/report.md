@@ -307,7 +307,7 @@ Klinich and Manary's project, which started in October 2019, will develop an aut
     </figcaption>
   </figure>
   <figure class="img-right">
-    <img src="./images/212-securement3of4.jpg" alt="Rear view of manual wheelchair showing UDIG attachments. Two vertical posts are located between the rear wheels, and attached to the frame with horizontal rods at the top and bottom that extend back to near the tiedown hooks.">
+    <img src="./images/212-securement3of4.jpg" alt="Rear view of manual wheelchair showing UDIG attachments. Two vertical posts are located between the rear wheels, and attached to the frame with horizontal rods at the top and bottom that extend back to near the tiedown hooks." class="center">
     <figcaption style="text-align:center">
       <em>Wheelchair attachment for UDIG system.</em>
     </figcaption>
