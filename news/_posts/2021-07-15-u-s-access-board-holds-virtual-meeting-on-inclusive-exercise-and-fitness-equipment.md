@@ -12,7 +12,7 @@ image: /images/uploads/fitness.jpg
 image_alt_text: Row of treadmills with person with disability walking alongside them
 tags:
   - events
-featured: true
+featured: false
 ---
 The U.S. Access Board held its virtual public meeting on inclusive exercise and fitness equipment yesterday. The event featured panel presentations on the need for access to fitness equipment, efforts to address equipment accessibility, and implementation of inclusive fitness equipment. Invited speakers included advocates, researchers, industry representatives, and three current and former Paralympians.
 
