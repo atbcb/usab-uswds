@@ -31,7 +31,7 @@ webinar: true
 ---
 ### Description
 
-The Access Board will soon issue new technical guides on various plumbed elements covered in Chapter 6 of the ADA and ABA Accessibility Standards, including lavatories and sinks, washers and dryers, and saunas and steam rooms. In this webinar session, presenters will review the guidance, clarifications, and best practice recommendations provided in the new guides and explain how to meet various provisions for these fixtures and appliances. They will also address frequently asked questions and common sources of confusion. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
+The Access Board will soon issue new technical guides on various plumbed elements covered in Chapter 6 of the ADA and ABA Accessibility Standards, including lavatories and sinks, washers and dryers, and saunas and steam rooms. In this webinar session, presenters will review the guidance, clarifications, and best practice recommendations provided in the new guides and explain how to met various provisions for these fixtures and appliances. They will also address frequently asked questions and common sources of confusion. This webinar will include video remote interpreting (VRI) and real-time captioning. Questions can be submitted in advance of the session or can be posed during the live webinar. Webinar attendees can earn continuing education credits.
 
 ### Continuing Education Recognition Available
 
