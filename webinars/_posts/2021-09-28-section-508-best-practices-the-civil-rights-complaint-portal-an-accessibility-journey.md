@@ -48,4 +48,4 @@ The presenters will address pre-submitted questions as well as respond to partic
 
 ### Session Questions
 
-This session is accepting questions from registered users. After you have registered to participate in this session you can submit your questions on your **[Account Manager page.](https://www.accessibilityonline.org/cioc-508/accountManager)** Please note: the number of questions will be limited and submissions will be closed well before the session starts to provide time to prepare answers.
+This session is accepting questions from registered users. After you have registered to participate in this session, you can submit your questions on your **[Account Manager page.](https://www.accessibilityonline.org/cioc-508/accountManager)** Please note: the number of questions will be limited and submissions will be closed well before the session starts to provide time to prepare answers.
