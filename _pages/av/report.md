@@ -665,7 +665,7 @@ Specific discussion topics included: 
 - Accessibility for Passengers with Sensory or Cognitive Disabilities
 - Next Steps for Accessible Design of AVs
 
-The public comments and ideas submitted through this platform are summarized below.  A summary report on the dialogue platform by the platform host, ePolicyWorks, is attached.
+The public comments and ideas submitted through this platform are summarized below. A [summary report](https://app.ideascale.com/userimages/accounts/90/909643/Online-Dialogue-Summary-Report_Inclusive-Design-of-AVs-Final.pdf) on the dialogue platform is available from the platform host, ePolicyWorks.
 
 The Board extends its appreciation to the Office of Disability Employment Policy for providing use of its ePolicyWorks platform for this online conversation.
 
