@@ -98,8 +98,6 @@ primary_navigation:
     url: /enforcement/
   - name: Research
     url: /research/
-  - name: AV
-    url: /av/
   - name: Contact Us
     url: /contact/
 
@@ -163,6 +161,9 @@ collections:
   research:
     output: true
     permalink: /research/:path/
+  av:
+    output: true
+    permalink: /av/:path/
   es:
     output: true
   staff:
