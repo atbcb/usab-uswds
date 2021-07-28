@@ -96,8 +96,10 @@ primary_navigation:
     url: /webinars/
   - name: File an ABA Complaint
     url: /enforcement/
-  - name: Research
+  - name: AV
     url: /research/
+  - name: Research
+    url: /av/
   - name: Contact Us
     url: /contact/
 
@@ -112,7 +114,7 @@ secondary_navigation:
 searchgov:
   endpoint: https://search.usa.gov # You should not change this.
   affiliate: usab # replace this with your search.gov account
-  access_key: 2ptOZyLyu778gjQEYJAYBc-0b0wXGJ8XylYt-LhPTXc= # this is usab API Access Key 2020-09-17
+  access_key: 2ptOZyLyu778gjQEYJAYBc-0b0wXGJ8XylYt-LhPTXc= # this is Access Board API Access Key 2020-09-17
   inline: true #this renders the results on the same domain. Otherwise, it will render the results in the search.gov domain
 
 ##########################################################################################
