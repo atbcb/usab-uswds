@@ -9,21 +9,22 @@ excerpt: Testing information and communication technology (ICT), including
   with the General Services Administration (GSA) and the ICT Baseline Working
   Group in coordination with the CIO Council Accessibility Community of Practice
   (CIOC ACOP), the U.S. Access Board has released . . .
+image: /images/uploads/screenshot-baseline.jpg
 tags:
   - "508"
 featured: true
 ---
-Testing information and communication technology (ICT), including websites, for accessibility is essential to ensure conformance with the Section 508 Standards that apply to ICT in the federal sector. However, there are two ways to test webpages for conformance: manual review and fully automated tools. Often a mix of manual and automated testing is needed to fully evaluate most websites.  The results, however, may vary according to the test methods used. It is important that test procedures align to an established framework or “Baseline” to ensure that the results accurately evaluate conformance with the standards.    
+Testing information and communication technology (ICT), including websites, for accessibility is essential to ensure conformance with the Section 508 Standards that apply to ICT in the federal sector. However, there are two ways to test webpages for conformance: manual review and fully automated tools. Often a mix of manual and automated testing is needed to fully evaluate most websites.  The results, however, may vary according to the test methods used. It is important that test procedures align to an established framework or “baseline” to ensure that the results accurately evaluate conformance with the standards.    
 
-In partnership with the General Services Administration (GSA) and the ICT Baseline Working Group in coordination with the CIO Council Accessibility Community of Practice (CIOC ACOP), the U.S. Access Board has released the Baseline for testing web content. The [ICT Testing Baseline for Web Accessibility](https://ictbaseline.access-board.gov/) sets minimum testing criteria and evaluation guidance to determine if web content meets the 508 Standards that incorporate by reference the Web Content Accessibility Guidelines (WCAG) 2.0 Level AA. Issued by the W3C’s Web Accessibility Initiative, WCAG 2.0 is a globally recognized, technology-neutral standard for web content. 
+In partnership with the General Services Administration (GSA) and the ICT Baseline Working Group in coordination with the CIO Council Accessibility Community of Practice (CIOC ACOP), the U.S. Access Board has released a baseline for testing web content. The [ICT Testing Baseline for Web Accessibility](https://ictbaseline.access-board.gov/) sets minimum testing criteria and evaluation guidance to determine if web content meets the 508 Standards that incorporate by reference the Web Content Accessibility Guidelines (WCAG) 2.0 Level AA. Issued by the W3C’s Web Accessibility Initiative, WCAG 2.0 is a globally recognized, technology-neutral standard for web content. 
 
 The ICT Testing Baseline describes how to evaluate conformance and is organized by categories to help users easily identify applicable requirements. The Baseline itself is not a test process and does not include testing tools, but it can be used to create an accessibility test process. It can also be used to assess how well an existing test process evaluates conformance with the Section 508 requirements. 
 
-To aid comprehension of the Section 508/WCAG test requirements, the Baseline Tests for Web are in categories such as images, forms, keyboard, synchronized media, and sensory characteristics. Each test includes the applicable Accessibility Requirements, Test Method Rationale, and procedures and instructions to assess accessibility properties and determine test results. Some Baseline tests have multiple accessibility requirements. For example, the Forms Baseline Test has eight accessibility requirements and test procedures for each requirement. 
+To aid comprehension of the Section 508/WCAG test requirements, the Baseline Tests for Web are in categories such as images, forms, keyboard, synchronized media, and sensory characteristics. Each test includes the applicable accessibility requirements, test method rationale, and procedures and instructions to assess accessibility properties and determine test results. Some Baseline tests have multiple accessibility requirements. For example, the Forms Baseline Test has eight accessibility requirements and test procedures for each requirement. 
 
-Below is a sample test procedure from the Forms Baseline to show the format of all Baseline tests:  Identify Content (what to test), Test Instructions (what to check), and Test Results (what determines a pass/fail outcome). 
+Test procedures indicate the content to test (Identify Content), what to check (Test Instructions), and what determines a pass/fail outcome (Test Results) as illustrated in this example from the Forms Baseline: 
 
-> **10.5 Test Procedure for Form has a Label** /
+> **10.5 Test Procedure for Form has a Label** \
 > **Baseline Test ID:** 10.5-FormHasLabel 
 
 > **Identify Content** 
