@@ -12,11 +12,25 @@ permalink: /about/meetings.html
 
 Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Since the COVID-19 pandemic, Board meetings are held virtually.  
 
-The next virtual meeting of the Board on **September 22** will feature a briefing on the results of a Board [Study on the Feasibility of Wheelchair Securement Systems on Aircraft]({{ site.baseurl }}/aircraft/). Further details will be posted. 
+At its last meeting on July 14, the Board conducted a program on "[Moving Forward: Access to Inclusive Fitness Equipment]({{ site.baseurl }}/news/2021/07/15/u-s-access-board-holds-virtual-meeting-on-inclusive-exercise-and-fitness-equipment/)."
 
-At its last meeting on July 14, the Board conducted a program on "[Moving Forward: Access to Inclusive Fitness Equipment]({{ site.baseurl }}/news/2021/07/15/u-s-access-board-holds-virtual-meeting-on-inclusive-exercise-and-fitness-equipment/)".
- 
-## Upcoming Board Meetings
+## Next Board Meeting
+
+The next virtual meeting of the Board on **September 22** will feature a briefing on the results of a Board [Study on the Feasibility of Wheelchair Securement Systems on Aircraft]({{ site.baseurl }}/aircraft/) conducted by the Transportation Research Board (TRB). 
+
+> *Public Briefing on the Feasibility of Wheelchair Securement Systems on Aircraft*
+> September 22, 1:00 PM – 3:00 PM (ET)
+> Registration required (free): [www.zoomgov.com/webinar/register/](https://www.zoomgov.com/webinar/register/WN_0qGkUge8Sgeh_igXH1TpLw) 
+
+> Agenda
+
+> - Welcome, Greg Fehribach, U.S. Access Board Chair
+> - Briefing by Dr. Alan M. Jette, Chair of the TRB Study Committee
+> - Questions and Answers
+
+> The Board will hold its business meeting, which is also open to the public through the same registration, at 3:30 (ET) following a break.   
+
+## Future Board Meetings
 
 - November 8 - 10, 2021
 - January 10 - 12, 2022
