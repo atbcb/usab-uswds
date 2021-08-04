@@ -12,7 +12,7 @@ tags:
   - events
   - current events
   - ADA
-featured: true
+featured: false
 ---
 The U.S. Access Board commemorates the 31st anniversary of the [Americans with Disabilities Act (ADA)](https://www.access-board.gov/ada/) today. Signed into law on July 26, 1990, by President George H.W. Bush, the ADA is a landmark piece of legislation that makes accessibility a civil right and ensures that all people with disabilities have equal access to goods and services, public accommodations, employment, transportation, and other areas of public life. The ADA greatly expanded the Board’s mission by giving it responsibility for issuing accessibility guidelines for the wide range of facilities in the private and public sectors and transportation systems covered by the law. Over the last thirty-one years, the Board’s work developing, supplementing, and updating accessibility guidelines has played a key role in fulfilling the promise of the ADA in making our country more accessible to, and inclusive of, everyone. 
 
