@@ -8,7 +8,7 @@ permalink: /about/meetings.html
 
 ## {{ page.title }}
 
-![Airplane Departure]({{ site.baseurl }}/images/uploads/airplanedeparture.jpg border="0" "Airplane departing"){: .img-right}
+![Airplane Departure]({{ site.baseurl }}/images/uploads/airplanedeparture.jpg "Airplane departing" border="0"){: .img-right}
 
 Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Since the COVID-19 pandemic, Board meetings are held virtually.  
 
