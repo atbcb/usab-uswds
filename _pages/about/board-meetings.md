@@ -8,7 +8,7 @@ permalink: /about/meetings.html
 
 ## {{ page.title }}
 
-{% asset webcast.jpg class="img-right" alt="laptop showing meeting on screen" %}
+{% asset airplanedeparture.jpg class="img-right" alt="airplane departing" %}
 
 Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Since the COVID-19 pandemic, Board meetings are held virtually.  
 
@@ -18,11 +18,11 @@ At its last meeting on July 14, the Board conducted a program on "[Moving Forwar
 
 The next virtual meeting of the Board on **September 22** will feature a briefing on the results of a Board [Study on the Feasibility of Wheelchair Securement Systems on Aircraft]({{ site.baseurl }}/aircraft/) conducted by the Transportation Research Board (TRB). 
 
-> *Public Briefing on the Feasibility of Wheelchair Securement Systems on Aircraft*
-> September 22, 1:00 PM – 3:00 PM (ET)
+> *Public Briefing on the Feasibility of Wheelchair Securement Systems on Aircraft* \
+> September 22, 1:00 PM – 3:00 PM (ET) \
 > Registration required (free): [www.zoomgov.com/webinar/register/](https://www.zoomgov.com/webinar/register/WN_0qGkUge8Sgeh_igXH1TpLw) 
 
-> Agenda
+> ### Agenda
 
 > - Welcome, Greg Fehribach, U.S. Access Board Chair
 > - Briefing by Dr. Alan M. Jette, Chair of the TRB Study Committee
