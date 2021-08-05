@@ -234,6 +234,7 @@ button {
 li.usa-nav__secondary-item a {
   color: color(gray-cool-60);
 }
+
 // change submenu (Guidelines) font color for better contrast
 li.usa-nav__submenu-item>a {
   color: white !important;
@@ -270,17 +271,23 @@ dt {
   font-weight: bold;
 }
 
+.shadow {
+  box-shadow: 10px 10px 5px #dfe1e2;
+}
+
 .center {
   display: block;
   margin-left: auto;
   margin-right: auto;
 }
 
-.shadow {
-  box-shadow: 10px 10px 5px #dfe1e2;
-}
-
 .img-left {
+  display: block;
+  float: left;
+  margin: 1rem 2rem 1rem 0rem;
+  max-width: 50%;
+}
+.img-left-border {
   display: block;
   float: left;
   margin: 1rem 2rem 1rem 0rem;
@@ -291,6 +298,14 @@ dt {
   float: right;
   margin: 1rem 0rem 1rem 2rem;
   max-width: 50%;
+  border: thin inset;
+}
+.img-right-border {
+  display: block;
+  float: right;
+  margin: 1rem 0rem 1rem 2rem;
+  max-width: 50%;
+  border: thin inset;
 }
 .img-center {
   display: block;
