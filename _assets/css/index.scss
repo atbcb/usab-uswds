@@ -292,25 +292,25 @@ dt {
   margin: 1rem 0rem 1rem 2rem;
   max-width: 50%;
 }
-.img-left-border {
+.img-center {
+  display: block;
+  margin: 1rem auto 1rem auto;
+  max-width: 90%;
+}
+
+figure.img-left {
   display: block;
   float: left;
   margin: 1rem 2rem 1rem 0rem;
   max-width: 50%;
   border: thin inset;
 }
-.img-right-border {
+figure.img-right {
   display: block;
   float: right;
   margin: 1rem 0rem 1rem 2rem;
   max-width: 50%;
   border: thin inset;
-}
-
-.img-center {
-  display: block;
-  margin: 1rem auto 1rem auto;
-  max-width: 90%;
 }
 
 .img-medium {
