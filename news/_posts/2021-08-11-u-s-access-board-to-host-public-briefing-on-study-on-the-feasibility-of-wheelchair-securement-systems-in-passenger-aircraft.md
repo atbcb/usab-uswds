@@ -4,14 +4,10 @@ title: U.S. Access Board to Host Public Briefing on Study on the Feasibility of
   Wheelchair Securement Systems in Passenger Aircraft
 date: 2021-08-11
 excerpt: The inability to use one’s wheelchair on airplanes makes air travel
-  very difficult, if not impossible, for many people with disabilities. It
-  requires multiple transfers between boarding chairs and aircraft seats, posing
-  injury risks. To address these challenges, the U.S. Access Board commissioned
-  a study to assess the feasibility of equipping aircraft with securement
-  systems so that passengers can remain in their wheelchairs on flights. The
-  U.S. Access Board will host a public briefing on the Transportation Research
-  Board (TRB) final report on September 22 from 1:00 – 3:00 pm (ET). The
-  briefing will feature a presentation by . . .
+  very difficult, if not impossible, for many people with disabilities. The U.S.
+  Access Board will host a public briefing on the Transportation Research
+  Board's final report on September 22 from 1:00 – 3:00 pm (ET). The briefing
+  will feature a presentation by . . .
 image: /images/uploads/airplanedeparture.jpg
 image_alt_text: Airplane departing
 tags:
