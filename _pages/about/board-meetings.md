@@ -24,9 +24,13 @@ The next virtual meeting of the Board on **September 22** will feature a briefin
 
 > ### Agenda
 
-> - Welcome, Greg Fehribach, U.S. Access Board Chair
-> - Briefing by Dr. Alan M. Jette, Chair of the TRB Study Committee
-> - Questions and Answers
+> * Welcome, Greg Fehribach, U.S. Access Board Chair
+> * Briefing 
+>> * Dr. Alan M. Jette, Chair of the TRB Study Committee
+>> * Gary Weissel, TRB Study Committee Member
+>> * Naomi Armenta, TRB Study Committee Member
+>> * Dr. Miriam Manary, TRB Study Committee Member
+> * Questions and Answers
 
 > The Board will hold its business meeting, which is also open to the public through the same registration, at 3:30 (ET) following a break.   
 
