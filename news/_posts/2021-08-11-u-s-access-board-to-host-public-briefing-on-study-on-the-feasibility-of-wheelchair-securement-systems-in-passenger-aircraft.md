@@ -36,4 +36,4 @@ Visit [TRB’s website](https://www8.nationalacademies.org/pa/projectview.aspx?
 >   * Dr. Miriam Manary, TRB Study Committee Member, Lead Research Engineer at University of Michigan Transportation Research Institute (UMTRI)
 > * Questions and Answers 
 
-Following the briefing will be a short break and then the regular Access Board business meeting, which is open for the public to attend.
+> Following the briefing will be a short break and then the regular Access Board business meeting, which is open for the public to attend.
