@@ -18,7 +18,6 @@ Board staff often reserve time for question-and-answer sessions at training even
 This kind of interaction is particularly helpful in gauging the information needs of the Board’s various audiences.
 
 Most training sessions are held at the request of, or in partnership with, organizations or groups holding conferences and seminars that include accessibility or the ADA on the agenda.&nbsp;
-Due to budget constraints, the Board usually requests reimbursement of travel costs for its participation.&nbsp;
 The Board likes to arrange additional training opportunities once it is scheduled to be in a particular area.&nbsp;
 We also have a [conference space](/about/venue.html) which is sometimes used for trainings.
 
