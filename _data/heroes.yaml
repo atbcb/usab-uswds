@@ -1,5 +1,12 @@
-- title: Recent Event
+- title: Upcoming Event
   titlecolor: text-secondary
+  text: "Learn more about the Board's public briefing on wheelchair securement systems in passenger aircraft (September 22)."
+  image: /images/stock/aircraft.jpg
+  description: Airplane flying into sunset
+  linkto: /news/2021/08/11/u-s-access-board-to-host-public-briefing-on-study-on-the-feasibility-of-wheelchair-securement-systems-in-passenger-aircraft/
+  linktext: Learn More
+
+- title: Inclusive Exercise and Fitness Equipment
   text: "Learn more about the Board's virtual meeting on inclusive exercise and fitness equipment (July 14)."
   image: /images/stock/hero-fitness02.jpeg
   description: Background image of fitness exercise equipment
