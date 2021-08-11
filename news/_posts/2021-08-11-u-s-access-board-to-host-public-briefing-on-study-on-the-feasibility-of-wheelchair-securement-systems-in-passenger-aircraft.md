@@ -30,7 +30,6 @@ Visit [TRB’s website](https://www8.nationalacademies.org/pa/projectview.aspx?
 >
 > * Welcome, Greg Fehribach, U.S. Access Board Chair 
 > * Briefing  
->
 >   * Dr. Alan M. Jette, TRB Study Committee Chair, Professor and Dean Emeritus at Boston University 
 >   * Gary Weissel, TRB Study Committee Member, Founder and Managing Office at Tronos Aviation Consulting 
 >   * Naomi Armenta, TRB Study Committee Member, Senior Associate at Nelson Nygaard 
