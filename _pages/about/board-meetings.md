@@ -16,7 +16,7 @@ At its last meeting on July 14, the Board conducted a program on "[Moving Forwar
 
 ## Next Board Meeting
 
-The next virtual meeting of the Board on **September 22** will feature a briefing on the results of a Board [Study on the Feasibility of Wheelchair Securement Systems on Aircraft]({{ site.baseurl }}/aircraft/) conducted by the Transportation Research Board (TRB). 
+The next virtual meeting of the Board on **September 22** will feature a briefing on the results of a Board-sponsored [Study on the Feasibility of Wheelchair Securement Systems on Aircraft]({{ site.baseurl }}/aircraft/) conducted by the Transportation Research Board (TRB). 
 
 > *Public Briefing on the Feasibility of Wheelchair Securement Systems on Aircraft* \
 > September 22, 1:00 PM – 3:00 PM (ET) \
