@@ -7,8 +7,6 @@ excerpt: Scott Windley, a long-time U.S. Access Board Accessibility Specialist,
   manage the Board’s technical assistance program and oversee the agency's
   technical guidance to the public . . .
 image: /images/uploads/windley-portrait-bordered.jpg
-authors:
-  - scott-windley
 tags:
   - staff
 featured: false
