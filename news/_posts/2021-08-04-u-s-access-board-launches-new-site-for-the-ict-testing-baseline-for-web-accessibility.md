@@ -12,7 +12,7 @@ excerpt: Testing information and communication technology (ICT), including
 image: /images/uploads/screenshot-baseline.jpg
 tags:
   - "508"
-featured: true
+featured: false
 ---
 Testing information and communication technology (ICT), including websites, for accessibility is essential to ensure conformance with the Section 508 Standards that apply to ICT in the federal sector. However, there are two ways to test webpages for conformance: manual review and fully automated tools. Often a mix of manual and automated testing is needed to fully evaluate most websites.  The results, however, may vary according to the test methods used. It is important that test procedures align to an established framework or “baseline” to ensure that the results accurately evaluate conformance with the standards.    
 
