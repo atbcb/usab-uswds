@@ -32,7 +32,7 @@ Visit [TRB’s website](https://www8.nationalacademies.org/pa/projectview.aspx?
 > * Briefing  
 >   * Dr. Alan M. Jette, TRB Study Committee Chair, Professor and Dean Emeritus of Boston University 
 >   * Gary Weissel, TRB Study Committee Member, Founder and Managing Officer of Tronos Aviation Consulting 
->   * Naomi Armenta, TRB Study Committee Member, Senior Associate of Nelson Nygaard 
+>   * Naomi Armenta, TRB Study Committee Member, Principal Planner of Nelson Nygaard 
 >   * Dr. Miriam Manary, TRB Study Committee Member, Lead Research Engineer of University of Michigan Transportation Research Institute (UMTRI)
 > * Questions and Answers 
 
