@@ -17,9 +17,9 @@ permalink: /about/foia-report-2019fy.html
 > 1331 F Street NW, Suite 1000  
 > Washington, DC  20004  
 > 202-272-0080  
-> Email:&nbsp; [foia@access-board.gov](mailto:foia@access-board.gov)
+> Email:&nbsp; <foia@access-board.gov>
 2.  Provide an electronic link for access to the report on the agency Web site.
-> [www.access-board.gov/the-board/budget-and-performance/foia-annual-report](http://www.access-board.gov/the-board/budget-and-performance/foia-annual-report)
+> <www.access-board.gov/the-board/budget-and-performance/foia-annual-report>
 3.  Explain how to obtain a copy of the report in paper form.
 > For a paper copy of this annual FOIA report, please contact, Gretchen Jacobs, U.S. Access Board General Counsel.
 
