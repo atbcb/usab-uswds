@@ -33,8 +33,7 @@
       const nonGovDomain = isNonGovDomain(domain);
 
       if (nonGovDomain) {
-        a.className = a.className + " " + "usa-link--external";
-        a.setAttribute("title", "external link")
+        a.className = "external";
       }
     }
   }
