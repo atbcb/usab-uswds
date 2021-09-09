@@ -38,6 +38,8 @@ h5, h6 { // default was xs and 2xs
 
 // Add your SASS/CSS here
 
+a.external::after { content: " [external link] "; }
+
 // stylish faux 'page-breaks'
 hr {
   border: solid;
