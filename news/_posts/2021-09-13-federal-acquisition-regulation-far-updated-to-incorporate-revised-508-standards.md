@@ -8,7 +8,7 @@ excerpt: On August 11, 2021, the Federal Acquisition Regulatory (FAR) Council
   to officially incorporate the U.S. Access Board’s revised Section 508
   Standards. The FAR Council supplemented provisions in the Federal Acquisition
   Regulation (FAR) supporting the requirements for . . .
-image: ""
+image: /images/uploads/ictsection508key.jpg
 image_alt_text: Keyboard with Section 508 key highlighted in blue
 tags:
   - Communication & IT
