@@ -12,7 +12,7 @@ topic: Exterior Surfaces
 
 A wheelchair user on the beach path described the Vitri-Turf surface as "nice and firm" and the Soil-Sement surface as "kind of soft" (Fig. 12). Maneuvering the chair was noted to be "easy" on the Vitri-Turf and "not as easy" on the Soil-Sement. The user also noted that the raised curb made her feel comfortable about moving to the end of the path. With-out the curb, she felt she would have had to stop a few feet back from the water's edge.
 
-![Figure 12---Testing bonded beach path with (a) battery-powered and (b) hand-powered wheelchairs. Shadow near the waterline indicates terminal curb of beach path. ](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0012.jpg)
+![Figure 12---Testing bonded beach path with (a) battery-powered and (b) hand-powered wheelchairs. Shadow near the waterline indicates terminal curb of beach path. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0012.jpg)
 
 **Figure 12---Testing bonded beach path with\
 (a) battery-powered and (b) hand-powered wheelchairs. Shadow near the waterline indicates terminal curb of beach path.**
@@ -51,21 +51,20 @@ Vitri-Turf SEWF durability with exposure to weather was good and reflected our e
 
 During the 10-month period of this testing, the firmness and stability of the SEWF surfaces were measured with the rota-tional penetrometer (Fig. 14). Both the Vitri-Turf and Soil-Sement showed good performance for accessibility during this period. The Vitri-Turf SEWF indicated "firm" and "sta-ble" during the entire period, with some fluctuation traceable to the changes in moisture with long rainy spells. Soil-Sement SEWF was rated as "moderately firm" and "stable" during the testing period (Figs. 15 and 16).
 
- ![Figure 13---Impact testing on beach path was similar to impact test conducted at a playground using a 3.05-m (10-ft) drop-height. ](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0013.jpg)
+ ![Figure 13---Impact testing on beach path was similar to impact test conducted at a playground using a 3.05-m (10-ft) drop-height. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0013.jpg)
 
 **Figure 13---Impact testing on beach path was similar to impact test conducted at a playground using a 3.05-m (10-ft) drop-height.**
 
-**![Figure 14---Rotational penetrometer used to measure accessibility. ](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0014.jpg)**
+**![Figure 14---Rotational penetrometer used to measure accessibility. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0014.jpg)**
 
 **Figure 14---Rotational penetrometer used to measure accessibility.**
 
-|
 
-![Figure 15---Firmness of Soil-Sement and Vitri-Turf treatments on beach path over first 10 months of installation. ](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0016.jpg)
+![Figure 15---Firmness of Soil-Sement and Vitri-Turf treatments on beach path over first 10 months of installation. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0016.jpg)
 
 **Figure 15---Firmness of Soil-Sement and Vitri-Turf treatments on beach path over first 10 months of installation.**
 
-![Figure 16---Stability of Soil-Sement and Vitri-Turf treatments on beach path over first 10 months of installation.](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image004_0000.jpg)
+![Figure 16---Stability of Soil-Sement and Vitri-Turf treatments on beach path over first 10 months of installation.]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image004_0000.jpg)
 
 **Figure 16---Stability of Soil-Sement and Vitri-Turf treatments on beach path over\
 first 10 months of installation.**
