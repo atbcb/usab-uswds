@@ -72,8 +72,9 @@ The following summary of costs and time estimates is not meant to be definitive.
 | Drainage system installation, 25 h @ $15/h       |       $ 375 |
 | Unbonded EWF installation, 60 h @ $10/h          |         600 |
 | Bonded surface installation, 24 h @ $15/h        |         360 |
+{: .usa-table}
 
-Installation of the two surface treatments was completed during one work day. Approximate effort for installation of 300 ft2 of each material (600 ft2 total) was 24 h (four people for 6 h).
+*Installation of the two surface treatments was completed during one work day. Approximate effort for installation of 300 ft2 of each material (600 ft2 total) was 24 h (four people for 6 h).*
 
 
 **Summary of costs for 0.3-m- (12-in.-) depth surface treatment - Cost ($/ft 2 )**
@@ -91,13 +92,13 @@ Installation of the two surface treatments was completed during one work day. Ap
 
 Follow manufacturer's instructions for storage and handling of the binder. Binder materials must be stored indoors in cool dry storage out of sunlight. Observe recommended limits on binder shelf life as reactivity will diminish after that time. Read material safety data sheets carefully prior to opening containers. Wear protective clothing and eye gear at all times. The EWF should be less than 30% moisture content for correct absorption and curing of SEWF.
 
-*Mixing of Binder With EWF*
+**Mixing of Binder With EWF**
 
 > 1\. Mix Vitri-Turf binder with EWF at ratio of 77/23 by weight. This is approximately 1.25 gal of Vitri-Turf binder to 1.8 bushels of EWF (depending on density of EWF\
 > particles).\
 > 2\. Use a mechanical drum mixer to mix binder and EWF. To mix a small batch for repairs, use a trough and hoe. Be sure that EWF particles are thoroughly coated. Adequate mix-ing takes about 2 min in a typical mortar or cement mixer. Check the mixer at the end of each mix to ensure that binder and fine wood particles are not accumulating on the paddles or drum.
 
-*Application of SEWF*
+**Application of SEWF**
 
 > 1\. Transport SEWF mixture to site in a wheelbarrow. Dump mixture onto site and apply binder--EWF mixture to a thickness (uncompacted) of about 75 mm (3 in.) using a screed bar or rake.\
 > 2\. Compact and smooth the surface using a large trowel or a 1.2-m by 1.2-m by 16-mm (4-ft by 4-ft by 5/8-in.) piece of plywood covered with a heavy-mil sheet of polyethylene as a release. If the material sticks, lubricate the trowel or\
@@ -105,11 +106,11 @@ Follow manufacturer's instructions for storage and handling of the binder. Binde
 > 3\. Apply a moderate downward pressure onto the surface so that the mixture compacts tightly. If plywood is used to compact the surface, a 90-kg (200-lb) person stepping on the four quadrants of the panel should provide adequate compaction.\
 > 4\. Allow the surface to cure for a minimum of 24 h.
 
-*Cleanup*
+**Cleanup**
 
 Clean all tools and surface spots immediately with diesel fuel prior to drying. Once the binder has dried it will be extremely difficult to remove from tools, surfaces, or hands.
 
-*General Precautions*
+**General Precautions**
 
 -   Wear protective clothing and eye gear.
 -   Provide a minimum of 1% slope for all substrates for drainage.
