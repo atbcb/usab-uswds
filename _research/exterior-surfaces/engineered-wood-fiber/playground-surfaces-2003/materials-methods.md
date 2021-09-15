@@ -11,7 +11,7 @@ topic: Exterior Surfaces
 
 Eight different surface test specimens were formed with surface dimensions of 1.2m x 1.2m with a depth of 0.3m (48"x48"x 12") in Madison WI (Figure 1). Seven had a top layer of bonded resin/EWF and the eighth was a full-depth EWF control. Two additional surfaces were made (Figure 1, A1 and E1) and each were duplicates of other surfacing test areas. A1 and E1 were on a slope to assure drainage of the entire test surface. All surfaces used Engineered Wood Fiber (EWF), as defined by ASTM F2075-01. All surfaced specimens were compacted to simulate the finished surface of a play area. Given that there is no industry, governmental, or association definition or standard for compacting EWF, we followed playground industry installation practices.
 
-![Test bed surfaces (photo)](https://www.access-board.gov/images/research/ewf/fig3.jpg)
+![Test bed surfaces (photo)]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig3.jpg)
 
 > > Figure 1. Overview of the test surfaces in Madison, Wisconsin. From top left along the concrete edge the test surfaces are A1, A2, B, C, D; then from top right toward the bottom, E1, F, G, E2, H (Note: A1 and E1 were not useable due to slope in excess of 5%).
 
@@ -77,7 +77,7 @@ e) If required, place the single layer of geotextile onto the EWF.
 
 f)Immediately dump the resin/EWF mixture onto the target pad, spread with hand tools to even thickness and flatten with a 1.2 m x 1.2 m x 16 mm (4 ft. x 4 ft. x 5/8-inch) piece of plywood using firm pressure to bring the cushioning pad thickness to the full 0.3 m (12 in.) depth required for unbonded EWF.
 
-![Cross section of installed surfaces, from top to bottom: EWF 12" thicks, geotextile, 3/4" washed rock 3" thick, geotextile, subsoil](https://www.access-board.gov/images/research/ewf/fig4.gif)
+![Cross section of installed surfaces, from top to bottom: EWF 12" thicks, geotextile, 3/4" washed rock 3" thick, geotextile, subsoil]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig4.gif)
 
 > > > > > Figure 2. Representational cross-section of the installed surfaces. Note that the EWF thickness includes the thickness of any stabilized EWF layer.
 
