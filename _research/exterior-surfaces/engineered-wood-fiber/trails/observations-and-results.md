@@ -80,8 +80,8 @@ The following summary of costs and time estimates is not meant to be definitive 
 - Soil-Sement 35 gal (45% solids)
 
 
-**Market value of material for materials used**
-| | |
+
+| Market value of material for materials used |  |
 |--------------------------------------------------|------------:|
 | EWF - $21/yd uncompacted (incl. shipping)        |     $ 126 |
 | Vitri-Turf $18/gal (100% solids, 11 lb/gal)      | 270 |
@@ -103,7 +103,8 @@ Installation of the two surface treatments was completed during one work day. Ap
 | Binder | Labor | Materials | Surface w/labor | 
 |--------------------------------|-------|-----------|------------|
 | Vitri-turf (38 mm, 1.5 in.)    | 0.70  | 1.87      | 2.57       |
-| Soil-sement (63.5 mm, 2.5 in.) | 0.70  | 1.74     | 2.44    |{: .usa-table}
+| Soil-sement (63.5 mm, 2.5 in.) | 0.70  | 1.74     | 2.44    |
+{: .usa-table}
 
 #### Preliminary Guidelines for SEWF Installation
 
