@@ -54,7 +54,7 @@ The following summary of costs and time estimates is not meant to be definitive.
 > Vitri-Turf 35 gal\
 > Soil-Sement 80 gal (45% solids)
 
-*Market value of material for materials used*
+**Market value of material for materials used**
 
 | EWF - $21/yd uncompacted (incl. shipping)        | $ 2,520 |
 | Vitri-Turf $18/gal (100% solids, 11 lb/gal)      | 630     |
@@ -65,7 +65,7 @@ The following summary of costs and time estimates is not meant to be definitive.
 
 |*Equipment and tool rental (market value)*|$1,500|
 
-*Personnel time*
+**Personnel time**
 
 |Drainage system installation, 25 h @ $15/h|$375|
 |Unbonded EWF installation, 60 h @ $10/h|600|
