@@ -16,13 +16,13 @@ The park manager conducted a series of surveys of play surface users within 1 mo
 
 During the 10-month period of the test, firmness and stability of the SEWF surfaces were measured with the rotational penetrometer (Figs. 12 and 13, respectively). The Soil-Sement SEWF showed poor binding early in the exposure period, compared to the unsurfaced EWF. Only the Vitri-Turf SEWF showed acceptable performance for accessibility during the entire trial installation.
 
-![Figure 12--- Firmness of Play playground surface , as firmness measured with the by Rotational rotational Penetrometer penetrometer, over the nine 9- month installation.](https://www.access-board.gov/images/research/ewf/report-surfaces_clip_image002_0011.jpg)
+![Figure 12--- Firmness of Play playground surface , as firmness measured with the by Rotational rotational Penetrometer penetrometer, over the nine 9- month installation.]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2004/report-surfaces_clip_image002_0011.jpg)
 
 > **Figure 12--- Firmness of Play playground surface , as firmness measured with the by Rotational rotational Penetrometer penetrometer, over the nine 9- month installation.**
 
-![Figure 13--- Stability of playground surface, as measured by rotational penetrometer, over 9-month installation.](https://www.access-board.gov/images/research/ewf/report-surfaces_clip_image002_0012.jpg)
+![Figure 13--- Stability of playground surface, as measured by rotational penetrometer, over 9-month installation.]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2004/report-surfaces_clip_image002_0012.jpg)
 
-> > **Figure 13--- Stability of playground surface, as measured by rotational penetrometer, over 9-month installation.**
+> **Figure 13--- Stability of playground surface, as measured by rotational penetrometer, over 9-month installation.**
 
 *Impact Attenuation*
 
@@ -34,11 +34,11 @@ Measures of surface durability are usually quite subjective unless the loss of d
 
 The durability of Vitri-Turf SEWF with exposure to weather was good and reflected similar experience with a prior exterior installation (Laufenberg and Winandy 2003). The integrity of the Vitri-Turf SEWF surface was maintained for the first 9 months. We then found that the edge of the Vitri-Turf SEWF had been lifted and the material torn off in large (0.2- to 0.8-m2, 2- to 8-ft2 ) plates and tossed about on the play surface (Fig. 14). This damage occurred at the unprotected and unsecured interface with the unstabilized EWF. It did not occur at the edge of the playground where the Vitri-Turf had bonded to the wood landscape ties that surround the area. Differential settlement of the Vitri-Turf SEWF and the EWF (due to extensive rainfall) was approximately 38 mm (1.5 in.). As a result of the damage, the Vitri-Turf SEWF was removed 9 months after installation. The material showed little evidence of fungal propagation or insect infestation. The thickness of the removed material, measured at 24 locations, was an average of 30.4 mm (1.2 in.).
 
-![Figure 14--- Exposed and torn edge of Vitri-Turf SEWF. ](https://www.access-board.gov/images/research/ewf/report-surfaces_clip_image002_0013.jpg)
+![Figure 14--- Exposed and torn edge of Vitri-Turf SEWF. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2004/report-surfaces_clip_image002_0013.jpg)
 
 **Figure 14--- Exposed and torn edge of Vitri-Turf SEWF.**
 
-**![Figure 15---Hyphal growth on surface of wood chip from biodeterioration sample. Fungal growth was present at all depths of EWF surface after 6 months. ](https://www.access-board.gov/images/research/ewf/report-surfaces_clip_image002_0014.jpg)**
+![Figure 15---Hyphal growth on surface of wood chip from biodeterioration sample. Fungal growth was present at all depths of EWF surface after 6 months. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2004/report-surfaces_clip_image002_0014.jpg)
 
 **Figure 15---Hyphal growth on surface of wood chip from biodeterioration sample. Fungal growth was present at all depths of EWF surface after 6 months.**
 
@@ -56,79 +56,20 @@ The following summary of costs and time estimates is not meant to be definitive.
 
 *Market value of material for materials used*
 
-|
+|EWF - $21/yd uncompacted (incl. shipping)|$ 2,520|
+|Vitri-Turf $18/gal (100% solids, 11 lb/gal)|630|
+|Soil-Sement $7/gal (45% binder/55% water)|560|
+|Drainage system (rock, geotextile, and drainage)|800|
+|   |$4,510|
 
-> EWF - $21/yd uncompacted (incl. shipping)
 
- |
-
-$ 2,520
-
- |
-|
-
-> Vitri-Turf $18/gal (100% solids, 11 lb/gal)
-
- |
-
-630
-
- |
-|
-
-> Soil-Sement $7/gal (45% binder/55% water)
-
- |
-
-560
-
- |
-|
-
-> Drainage system (rock, geotextile, and drainage)
-
- |
-
-800
-
- |
-|   |
-
-$4,510
-
- |
-
-*Equipment and tool rental (market value) *$1,500
+|*Equipment and tool rental (market value)*|$1,500|
 
 *Personnel time*
 
-|
-
-> Drainage system installation, 25 h @ $15/h
-
- |
-
-$375
-
- |
-|
-
-> Unbonded EWF installation, 60 h @ $10/h
-
- |
-
-600
-
- |
-|
-
-> Bonded surface installation, 24 h @ $15/h
-
- |
-
-360
-
- |
+|Drainage system installation, 25 h @ $15/h|$375|
+|Unbonded EWF installation, 60 h @ $10/h|600|
+|Bonded surface installation, 24 h @ $15/h|360|
 
 Installation of the two surface treatments was completed during one work day. Approximate effort for installation of 300 ft2 of each material (600 ft2 total) was 24 h (four people for 6 h).
 
