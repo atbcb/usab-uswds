@@ -27,7 +27,7 @@ The report documents several findings: 
 
 The report recommends that the U.S. Department of Transportation and the Federal Aviation Administration (FAA) establish a program of research, in collaboration with RESNA and the assistive technology industry, to test and evaluate an appropriate selection of WC19-compliant wheelchairs in accordance with applicable FAA crashworthiness and safety performance criteria. It also recommends that the Access Board sponsor further studies to assess the likely demand for air travel by people who prefer to remain seated in their personal wheelchairs on flights. 
 
-To read the full report, visit [www.nap.edu/catalog/26323/technical-feasibility-of-a-wheelchair-securement-concept-for-airline-travel].
+To read the full report, visit www.nap.edu/catalog/26323/technical-feasibility-of-a-wheelchair-securement-concept-for-airline-travel.
 
 The Access Board will host a public briefing on the final report on **September 22** from **1:00 – 3:00 pm (ET)**. The briefing will feature a presentation by the TRB Study Committee Members, including Committee Chair Dr. Alan M. Jette, on the two-year research study. The event is free, but registration is required. Members of the public will be able to pose questions during the event. 
 
