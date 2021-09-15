@@ -16,13 +16,10 @@ An Access Board solicitation for potential study sites yielded numerous response
 
 The playground was originally designed with some structural provisions for accessibility. A transfer point/platform was incorporated in the climbing structure; however, the surface leading to it was fine beach sand. Total fall height was determined to be 3.1 m (10 ft). Discussions with the park staff provided insight to the usage of this area. In response, the staff decided to retain sand on a portion of an adjacent (but not conjoining) playground. The remaining area of approximately 190 m2 (2,020 ft2) was converted to a full-depth EWF surface (Fig. 1).
 
-#### ![Figure 1---Schematic plan of playground site at Governor Nelson State Park.](https://www.access-board.gov/images/research/ewf/report-surfaces_clip_image002_0001.jpg)
+![Figure 1---Schematic plan of playground site at Governor Nelson State Park.]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2004/report-surfaces_clip_image002_0001.jpg)
 
-|
+> *Figure 1---Schematic plan plan of playground site at Governor Nelson State Park playground site.*
 
-**Figure 1---Schematic plan plan of playground site at Governor Nelson State Park playground site .**
-
- |
 
 *Preparation of Playground Subsurface and Drainage*
 
@@ -32,21 +29,22 @@ Our efforts began by removing the existing sand surface to a depth of 0.38 m (15
 
 Following industry standard EWF installation practices, we ensured that the excavated surface had a minimum of 1% slope for drainage. A lightweight landscaping geotextile fabric was placed on the surface, followed by a 0.08-m (3-in.) layer of 18-mm (3/4-in.) washed, angular drainage rock (Fig. 3). Half the rock was placed using a skid-steer loader and the other half was placed manually using wheel-barrows. All the rock was shoveled and raked by hand to a uniform depth. Another layer of geotextile fabric was laid on top of the rock layer (Fig. 4). Handfuls of rock were thrown on the fabric to keep the wind from blowing it out of place. The layers of geotextile fabric kept soil and fiber from clogging the rock and thus preserved the drainage quality of the rock layer. Approximately 25 metric tons (28 tons) of rock was used. Placing the rock and geotextile required 25 h of manual labor and 3 h of skid-loader use.
 
-![Figure 2---Removal of sand from existing playground surface.](https://www.access-board.gov/images/research/ewf/report-surfaces_clip_image002_0002.jpg)
+![Figure 2---Removal of sand from existing playground surface.]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2004/report-surfaces_clip_image002_0002.jpg)
 
-**Figure 2---Removal of sand from existing playground surface.**
+> *Figure 2---Removal of sand from existing playground surface.*
 
-**![Figure 3 ---Placement of drainage fabric and rock on playground subsurface. ](https://www.access-board.gov/images/research/ewf/report-surfaces_clip_image004_0001.jpg)**
+![Figure 3 ---Placement of drainage fabric and rock on playground subsurface. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2004/report-surfaces_clip_image004_0001.jpg)
 
-**Figure 3 ---Placement of drainage fabric and rock on playground subsurface.**
+> *Figure 3 ---Placement of drainage fabric and rock on playground subsurface.*
 
-![Figure 4--- Completion of drainage system; second layer of fabric laid over drainage rock. ](https://www.access-board.gov/images/research/ewf/report-surfaces_clip_image002_0004.jpg)
+![Figure 4--- Completion of drainage system; second layer of fabric laid over drainage rock. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2004/report-surfaces_clip_image002_0004.jpg)
 
-**Figure 4--- Completion of drainage system; second layer of fabric laid over drainage rock.**
+> *Figure 4--- Completion of drainage system; second layer of fabric laid over drainage rock.*
 
-**![Figure 5---Application of engineered wood fiber (EWF). ](https://www.access-board.gov/images/research/ewf/report-surfaces_clip_image004_0003.jpg)**
+![Figure 5---Application of engineered wood fiber (EWF). ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2004/report-surfaces_clip_image004_0003.jpg)
 
-**Figure 5---Application of engineered wood fiber (EWF).**
+> *Figure 5---Application of engineered wood fiber (EWF).*
+
 
 *EWF Application*
 
