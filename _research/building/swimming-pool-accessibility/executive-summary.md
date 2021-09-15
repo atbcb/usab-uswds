@@ -6,6 +6,8 @@ banner-title: Swimming Pool Accessibility
 status: completed
 year-completed: 1996
 topic: Building Elements and Spaces
+file: /files/research/poolsreport.pdf
+file-description: PDF of Pools Report
 permalink: research/building/swimming-pool-accessibility/
 ---
 **September 1996**
