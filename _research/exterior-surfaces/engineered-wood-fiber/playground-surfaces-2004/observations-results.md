@@ -54,138 +54,31 @@ The following summary of costs and time estimates is not meant to be definitive.
 > Vitri-Turf 35 gal\
 > Soil-Sement 80 gal (45% solids)
 
-| **Market value of material for materials used**  |            |
-|--------------------------------------------------|------------|
-| EWF - $21/yd uncompacted (incl. shipping)        | $ 2,520    |
-| Vitri-Turf $18/gal (100% solids, 11 lb/gal)      | 630        |
-| Soil-Sement $7/gal (45% binder/55% water)        | 560        |
-| Drainage system (rock, geotextile, and drainage) | 800        |
-|                                                  | **$4,510** |
-
-
-|*Equipment and tool rental (market value)*|$1,500|
-
-**Personnel time**
-
-|Drainage system installation, 25 h @ $15/h|$375|
-|Unbonded EWF installation, 60 h @ $10/h|600|
-|Bonded surface installation, 24 h @ $15/h|360|
+| **Market value of material for materials used**  |             |
+|--------------------------------------------------|------------:|
+| EWF - $21/yd uncompacted (incl. shipping)        |     $ 2,520 |
+| Vitri-Turf $18/gal (100% solids, 11 lb/gal)      |         630 |
+| Soil-Sement $7/gal (45% binder/55% water)        |         560 |
+| Drainage system (rock, geotextile, and drainage) |         800 |
+|                                                  | **$ 4,510** |
+|                                                  |             |
+| **Equipment and tool rental (market value)**     | **$ 1,500** |
+|                                                  |             |
+| **Personal Time**                                |             |
+| Drainage system installation, 25 h @ $15/h       |       $ 375 |
+| Unbonded EWF installation, 60 h @ $10/h          |         600 |
+| Bonded surface installation, 24 h @ $15/h        |         360 |
 
 Installation of the two surface treatments was completed during one work day. Approximate effort for installation of 300 ft2 of each material (600 ft2 total) was 24 h (four people for 6 h).
 
-*Summary of costs for 0.3-m- (12-in.-) depth surface treatment - Cost ($/ft 2 )*
+**Summary of costs for 0.3-m- (12-in.-) depth surface treatment - Cost ($/ft 2 )**
 
-|   |   |
-|   |   |   |
-
-Play Surface
-
- |
-|
-
-*Component*
-
- |
-
-*Labor*
-
- |
-
-*Materials*
-
- |
-
-*Paid Labor*
-
- |
-
-*Volunteer Labor*
-
- |
-|
-
-Drainage system
-
- |
-
-0 .20
-
- |
-
-0 .40
-
- |
-
----
-
- |
-
----
-
- |
-|
-
-E WF ( 0.3 m, 12 in. )
-
- |
-
-0 .30
-
- |
-
-1.17
-
- |
-
-2.07
-
- |
-
-1.57
-
- |
-|
-
-Vitri-turf (38 mm, 1.5 in. )
-
- |
-
-0 .60
-
- |
-
-2.10
-
- |
-
-4.77
-
- |
-
-3.67
-
- |
-|
-
-Soil-sement (63.5 mm, 2.5 in. )
-
- |
-
-0 .60
-
- |
-
-1.87
-
- |
-
-4.54
-
- |
-
-3.44
-
- |
+| Component                      | Labor | Materials | Paid labor | Volunteer labor |
+|--------------------------------|-------|-----------|------------|-----------------|
+| Drainage system                | 0.20  | 0.40      | -          | -               |
+| EWF (0.3 m, 12 in.)            | 0.30  | 1.17      | 2.07       | 1.57            |
+| Vitri-turf (38 mm, 1.5 in.)    | 0.60  | 2.10      | 4.77       | 3.67            |
+| Soil-sement (63.5 mm, 2.5 in.) | 0.60  | 1.87      | 4.54       | 3.44            |
 
 #### Preliminary Guidelines for Vitri-Turf SEWF Installation
 
