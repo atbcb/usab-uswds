@@ -8,18 +8,16 @@ year-completed: 2006
 topic: Exterior Surfaces
 ---
 
-*Field Observations*
+### Field Observations
 
 A wheelchair user on the beach path described the Vitri-Turf surface as "nice and firm" and the Soil-Sement surface as "kind of soft" (Fig. 12). Maneuvering the chair was noted to be "easy" on the Vitri-Turf and "not as easy" on the Soil-Sement. The user also noted that the raised curb made her feel comfortable about moving to the end of the path. With-out the curb, she felt she would have had to stop a few feet back from the water's edge.
 
 ![Figure 12---Testing bonded beach path with (a) battery-powered and (b) hand-powered wheelchairs. Shadow near the waterline indicates terminal curb of beach path. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0012.jpg)
-
-**Figure 12---Testing bonded beach path with\
-(a) battery-powered and (b) hand-powered wheelchairs. Shadow near the waterline indicates terminal curb of beach path.**
+> *Figure 12---Testing bonded beach path with (a) battery-powered and (b) hand-powered wheelchairs. Shadow near the waterline indicates terminal curb of beach path.*
 
 The bridle paths suffered near total loss of integrity within the first 2 months of installation. Shoed horse hooves broke the thin 50- to 70-mm (2- to 3-in.) surfaces. Material was first broken into dinner-plate-sized pieces and then smaller pieces. The horses did not avoid the SEWF area and were clearly comfortable walking on it. Although a thicker surface would have lasted longer, the clear implication is that eques-trian traffic requires a much tougher surface to resist the forces applied. Because this system failed prematurely due to mechanical loads, it did not remain in place long enough to confirm its ability to control trail erosion.
 
-*Impact Attenuation*
+**Impact Attenuation**
 
 Impact testing (ASTM F1292, ASTM 1999)) of the Vitri Turf and Soil-Sement surfaces was conducted 8 weeks after installation (Fig. 13).
 
@@ -41,35 +39,30 @@ For the second and third drop tests at 1.82 m (6 ft),
 Recall that these recreational trails were installed directly on the sand and not on the 0.3 m (12 in) of EWF found at a typical playground site. If the trails were evaluated as play surfaces, both beach path SEWF surfaces would fail the criteria of <200 for g and <1,000 for HIC. When using the 1.82-m (6-ft) fall height (which would be appropriate for people of average height playing volleyball), the Soil-Sement surface was just able to meet the g criteria but failed the HIC. However, given the alternatives available, both surfaces are softer and less likely to cause injury than is\
 an asphalt path.
 
-*Durability*
+**Durability**
 
 Measures of surface durability are quite subjective unless the loss of durability is a dramatic failure. The curing of Soil-Sement, as evidenced by the stiffening of the SEWF mixture, was slower than that of the Vitri-Turf, and the Soil-Sement surface was "softer" according to one wheelchair user. In the rotational penetrometer test, the Soil-Sement SEWF showed some indication for the top surface particles to detach from the overall top layer faster than did the Vitri-Turf SEWF top particles. The rotational penetrometer readings also reflected changes in stability and firmness of the Soil-Sement surface.
 
 Vitri-Turf SEWF durability with exposure to weather was good and reflected our experience with this material during the past 2 years at the Phase II test site at the Forest Products Laboratory in Madison, Wisconsin. During the spring of 2004 Wisconsin experienced record-setting rainfalls. This caused the level of Cox Hollow Lake in Governer Dodge State Park to rise over 0.3 m (1 ft) for a short period. Park staff reported that the path "floated" off the gravel pad at the path terminus for a distance of approximately 2 m (6-1/2 ft). After the water had subsided, there was no evidence that the path had been lifted and the overall performance of the sur-face seemed comparable to that noted before the high water level.
 
-*Accessibility Measures*
+**Accessibility Measures**
 
 During the 10-month period of this testing, the firmness and stability of the SEWF surfaces were measured with the rota-tional penetrometer (Fig. 14). Both the Vitri-Turf and Soil-Sement showed good performance for accessibility during this period. The Vitri-Turf SEWF indicated "firm" and "sta-ble" during the entire period, with some fluctuation traceable to the changes in moisture with long rainy spells. Soil-Sement SEWF was rated as "moderately firm" and "stable" during the testing period (Figs. 15 and 16).
 
  ![Figure 13---Impact testing on beach path was similar to impact test conducted at a playground using a 3.05-m (10-ft) drop-height. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0013.jpg)
-
-**Figure 13---Impact testing on beach path was similar to impact test conducted at a playground using a 3.05-m (10-ft) drop-height.**
+> *Figure 13---Impact testing on beach path was similar to impact test conducted at a playground using a 3.05-m (10-ft) drop-height.*
 
 ![Figure 14---Rotational penetrometer used to measure accessibility. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0014.jpg)
-
-**Figure 14---Rotational penetrometer used to measure accessibility.**
-
+> *Figure 14---Rotational penetrometer used to measure accessibility.*
 
 ![Figure 15---Firmness of Soil-Sement and Vitri-Turf treatments on beach path over first 10 months of installation. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0016.jpg)
-
-**Figure 15---Firmness of Soil-Sement and Vitri-Turf treatments on beach path over first 10 months of installation.**
+> *Figure 15---Firmness of Soil-Sement and Vitri-Turf treatments on beach path over first 10 months of installation.*
 
 ![Figure 16---Stability of Soil-Sement and Vitri-Turf treatments on beach path over first 10 months of installation.]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image004_0000.jpg)
+> *Figure 16---Stability of Soil-Sement and Vitri-Turf treatments on beach path over\
+first 10 months of installation.*
 
-**Figure 16---Stability of Soil-Sement and Vitri-Turf treatments on beach path over\
-first 10 months of installation.**
 
- |
 
 #### Costs and Personnel Time for Beach Path Installation
 The following summary of costs and time estimates is not meant to be definitive but to document data for the beach path installation.
@@ -94,8 +87,9 @@ The following summary of costs and time estimates is not meant to be definitive 
 | **Personal Time**                                |             |
 | Base prep and geotextile installation, 4 h @ $10/h       |       $ 40 |
 | Bonded surface installation, 16 h @ $15/h        | 240 |
+{: .usa-table}
 
-Installation of the two surface treatments was completed during one work day. Approximate effort for installation of 200 ft2 of each material (400 ft2 total) was 16 h (4 people for 4 h).
+*Installation of the two surface treatments was completed during one work day. Approximate effort for installation of 200 ft2 of each material (400 ft2 total) was 16 h (4 people for 4 h).*
 
 
 **Summary of costs for beach path surface - Cost ($/ft 2 )**
