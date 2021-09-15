@@ -38,21 +38,24 @@ The durability of Vitri-Turf SEWF with exposure to weather was good and reflecte
 
 **Figure 14--- Exposed and torn edge of Vitri-Turf SEWF.**
 
+
 ![Figure 15---Hyphal growth on surface of wood chip from biodeterioration sample. Fungal growth was present at all depths of EWF surface after 6 months. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2004/report-surfaces_clip_image002_0014.jpg)
 
 **Figure 15---Hyphal growth on surface of wood chip from biodeterioration sample. Fungal growth was present at all depths of EWF surface after 6 months.**
 
+
 To test the durability of the EWF playground system, the biodeterioration samples were removed from various depths of the unsurfaced portion of the playground 6 months after installation. The samples were cleaned, ovendried, and re-weighed; weight loss ranged from 1.4% to 1.9%. These values are consistent and reasonable for EWF. In spite of 4 months of freezing conditions above the surface, fungal hyphae were present at all levels (Fig. 15). If the EWF surface is maintained, further results will be gathered from this site at 6-month intervals.
+
 
 #### Costs and Personnel Time for EWF Installation
 
 The following summary of costs and time estimates is not meant to be definitive. Markup for contractors or other over-head and profits is not included. No costs were incurred for edging since treated wood edging was already installed. The estimates do not include the significant amount of personnel time required to remove the sand from the playground.
 
-*Quantity of material*
+**Quantity of material**
+- EWF 120 yd3 uncompacted\
+- Vitri-Turf 35 gal\
+- Soil-Sement 80 gal (45% solids)
 
-> EWF 120 yd3 uncompacted\
-> Vitri-Turf 35 gal\
-> Soil-Sement 80 gal (45% solids)
 
 | **Market value of material for materials used**  |             |
 |--------------------------------------------------|------------:|
@@ -71,6 +74,7 @@ The following summary of costs and time estimates is not meant to be definitive.
 
 Installation of the two surface treatments was completed during one work day. Approximate effort for installation of 300 ft2 of each material (600 ft2 total) was 24 h (four people for 6 h).
 
+
 **Summary of costs for 0.3-m- (12-in.-) depth surface treatment - Cost ($/ft 2 )**
 
 | Component                      | Labor | Materials | Paid labor | Volunteer labor |
@@ -78,7 +82,8 @@ Installation of the two surface treatments was completed during one work day. Ap
 | Drainage system                | 0.20  | 0.40      | -          | -               |
 | EWF (0.3 m, 12 in.)            | 0.30  | 1.17      | 2.07       | 1.57            |
 | Vitri-turf (38 mm, 1.5 in.)    | 0.60  | 2.10      | 4.77       | 3.67            |
-| Soil-sement (63.5 mm, 2.5 in.) | 0.60  | 1.87      | 4.54       | 3.44            |
+| Soil-sement (63.5 mm, 2.5 in.) | 0.60  | 1.87      | 4.54       | 3.44            |{: .usa-table}
+
 
 #### Preliminary Guidelines for Vitri-Turf SEWF Installation
 
