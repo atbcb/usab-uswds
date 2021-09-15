@@ -12,15 +12,15 @@ topic: Exterior Surfaces
 
 Tests of the surfaces with the rotational penetrometer (Figure 3 and 4) began one week after the surfaces were formed and continued monthly (Tables 2 and 3). The test was performed at a different location each time so that the variability of the results may be seen in large part to the test being run in different locations. There is an inherent inaccuracy in the test method and a temperature-related fluctuations in the Resin-EWF surface properties present two other contributors to the fluctuation of the penetrometer readings.
 
-![Rotational penetrometer on test bed suface (photo)](https://www.access-board.gov/images/research/ewf/fig5.jpg)
+![Rotational penetrometer on test bed suface (photo)]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig5.jpg)
 
 Figure 3. Rotational penetrometer shown in use on surface A2.
 
-![Rotational penetrometer reading on test surface showing higher surface stability (photo)](https://www.access-board.gov/images/research/ewf/fig7.jpg) 
+![Rotational penetrometer reading on test surface showing higher surface stability (photo)]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig7.jpg) 
 
  Figure 3. Rotational penetrometer shown in use on surface A2.
 
-![Rotational Betrometer reading on silicone coated EWF shows poor stability (photo)](https://www.access-board.gov/images/research/ewf/fig6.jpg)
+![Rotational Betrometer reading on silicone coated EWF shows poor stability (photo)]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig6.jpg)
 
 Figure 4. After the rotational penetrometer caster wheel is rotated on the surface 360 degrees, the stability reading is taken. In this case, the left photo shows surface A2 indicates poor stability as shown by the amount of silcone-coated EWF displaced by the rotated caster wheel. The right photo shows surface G with little damage from the rotated caster wheel.
 
@@ -74,7 +74,7 @@ In the six months of testing, the stability of the A2 and B Silicone surfaces co
 
 On September 24, 2002, a sunny day with a temperature of 15C, Doug Zeager and Ted Illjes from Zeager Brothers, Inc. came to FPL and performed the ASTM F-1292 testing on the eight experimental exterior surfaces. A tripod was erected to center the impactor over each surface (Figure 5). The results are summarized in Table 4.
 
-![Tripod erected over test surface to conduct ASTM F-1292 test (photo)](https://www.access-board.gov/images/research/ewf/fig8.jpg)
+![Tripod erected over test surface to conduct ASTM F-1292 test (photo)]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig8.jpg)
 
 > > > > Figure 5. A 4.5 kg (10 lb.) hemispherical impact head is shown installed over the D surface at a height of 3 meters (10 feet). The handheld instrumentation package is being held by Ted Illjes on the ladder and is connected to the impactor via the coiled wire. Doug Zeager awaits the impactor's arrival and will catch it on its first rebound from the surface.
 
@@ -104,19 +104,19 @@ A significant difference in behavior (Tukey tests, α=.10) differentiates the po
 
 Due to the in-situ nature of this testing and the size of the test surfaces, we did not have a means for non-destructively evaluating moisture or durability in these surfacing systems. Thus, the visual evaluation of the surfaces was relied upon during the 6 months and MC samples were removed after the test period (Figure 6 and 7). A summary of the surface layer density and moisture content and the EWF moisture content just under the surface layer is given in Table 5 and Figure 8.
 
-![Tested surfaces shown with a small portion removed following the impact test (photo)](https://www.access-board.gov/images/research/ewf/fig9.jpg)
+![Tested surfaces shown with a small portion removed following the impact test (photo)]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig9.jpg)
 
 > > > Figure 6. Each tested surface had a small portion removed following the impact test to determine density and moisture content of the layer and the EWF beneath the surface.
 
-![A close-up view of the archeological-type excavation done to determine the moisture profile of a test surface (photo)](https://www.access-board.gov/images/research/ewf/fig10.jpg)
+![A close-up view of the archeological-type excavation done to determine the moisture profile of a test surface (photo)]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig10.jpg)
 
 > > > Figure 7. A close-up view of the archeological-type excavation done to determine the moisture profile of the E2 surface. Note the gravel is shown at the bottom of the .3m (12") excavation.
 
-![A graph of the data on moisture content provided in Table 5](https://www.access-board.gov/images/research/ewf/fig11.gif)
+![A graph of the data on moisture content provided in Table 5]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig11.gif)
 
 > Figure 8. A comparison of the average moisture content of the stabilized surface layers with the moisture content immediately below that surface.
 
-Table 5. Surface layer specific gravity and moisture content of EWF under surface [[text version](https://www.access-board.gov/table5.htm)]
+Table 5. Surface layer specific gravity and moisture content of EWF under surface
 
 | Surface | Surface layer dry specific gravity | Average moisture content of surface layer (%) | Moisture Content (%) under surface layer |
 | A2 | .265 | 22 | 131 |
@@ -130,7 +130,7 @@ Table 5. Surface layer specific gravity and moisture content of EWF under surfac
 
 Moisture content measurements indicate that the bonded surface layers, on average, are not as wet (by weight) as the E2 surface (unstabilized EWF). This measurement is misleading due to the binder's non-hygroscopic properties. However, the EWF under the stabilized surfaces would appear to be much wetter. This would lead one to presume that the binder/EWF surface layer is retarding the drying process. This in turn causes the underlying EWF to be saturated. Another representation of the moisture in the EWF is shown from the data of Table 6 and illustrated in the moisture content profile of Figure 9. The trendline fitted to the data of the moisture profile in E2 indicates that it is saturated at a depth of approximately 100 mm (4") and continues to be saturated to the drainage bed. This is an area where additional study would yield some knowledge of the rate of decay under these very wet/saturated conditions. We have no quantified model for predicting the loss (decay) of woody material under these moisture conditions. We could easily presume development of a Resin-EWF System with reduced MC in the unbound EWF would result in a beneficial reduction of decay rates. This in-turn would then extend the life of EWF in-situ for playground surfaces.
 
-![Profile of moisture content through the EWF of surface E2 and a trendline fitted through the measurements based on data provided in Table 6](https://www.access-board.gov/images/research/ewf/fig12.gif)
+![Profile of moisture content through the EWF of surface E2 and a trendline fitted through the measurements based on data provided in Table 6]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig12.gif)
 
 > > Figure 9. Profile of moisture content through the EWF of surface E2 and a trendline fitted through the measurements.
 

@@ -20,7 +20,7 @@ Discussions with the park staff provided insight to the usage of the beach path.
 
 Layout of the path across the beach was sloped so that the edge of the path would not hold water. Park personnel were concerned that sand would wash or get kicked over the path surface, which would decrease accessibility and increase maintenance requirements. Slope along the upper edge was a minimum of 1%. Nearer the waterline the slope of the path increased to a maximum of approximately 5% for the final few meters (feet). The amount of waterline fluctuation was considered minimal at this beach because of the proximity of water control structures.
 
-![Figure 1---Schematic plan of Governor Dodge State Park Cox Hollow beach path site (not to scale).](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002.jpg)
+![Figure 1---Schematic plan of Governor Dodge State Park Cox Hollow beach path site (not to scale).]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002.jpg)
 
 **Figure 1---Schematic plan of Governor Dodge State Park Cox Hollow beach path site (not to scale).**
 
@@ -47,29 +47,29 @@ The two binder systems used to fabricate the beach path surface were
 
 Because the installation occurred in the fall, we monitored air temperature; both stabilizing binders required 4°C (40°F) for proper curing. On the date of installation, the overnight temperature was 7°C (44°F). The binders had been stored at room temperature. When the binders were mixed with EWF, the temperature of the mixture was well above 10°C (50°F). The EWF was shoveled directly from the truck into a 160-L (40 gal) portable mortar mixer. The amount of binder added was determined as a proportion (30%) of EWF dry weight (volumetrically equivalent to 0.041 m3 (1.45.ft3) of EWF to 5.3 L (1.25 gal) of Vitri-Turf or 10.6 L (2.5 gal) of Soil-Sement. Weight proportion was 77:23. The binder and EWF were mixed for approximately 2 min and transported to the target pad in polyethylene tray wheelbarrows (Fig. 3). The binder--EWF mixture was spread with hand tools to an even thickness (Figs. 4 and 5). The area was then compacted and flattened with a 1.2-m by 1.2-m by 16-mm (4-ft by 4-ft by 5/8-in.) piece of plywood covered with a polyethylene re-lease sheet. A 90-kg (198-lb) person walked on the plywood in each quadrant to apply firm compaction pressure. At the termination of the path at the waterline a 0.1-m (3.5-in.) curb was formed to reduce any inadvertent rolling of the path into the water and to stiffen the edge directly in contact with wave action.
 
-![Figure 2---Grading of beach path to waterline. ](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0000.jpg)
+![Figure 2---Grading of beach path to waterline. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0000.jpg)
 
 **Figure 2---Grading of beach path to waterline.**
 
-![Figure 3---Loading of binder--EWF mixture from mortar mixer into wheelbarrow. ](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0002.jpg)
+![Figure 3---Loading of binder--EWF mixture from mortar mixer into wheelbarrow. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0002.jpg)
 
 **Figure 3---Loading of binder--EWF mixture from mortar mixer into wheelbarrow.**
 
-![Figure 4---Leveling and compaction of binder--EWF mixture near junction with asphalt path.](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0003.jpg)
+![Figure 4---Leveling and compaction of binder--EWF mixture near junction with asphalt path.]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0003.jpg)
 
 **Figure 4---Leveling and compaction of binder-- EWF mixture near junction with asphalt path.**
 
-**![Figure 5---Termination of Soil-Sement portion of beach path. Geotextile fabric visible under completed SEWF surface. ](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0004.jpg)**
+![Figure 5---Termination of Soil-Sement portion of beach path. Geotextile fabric visible under completed SEWF surface. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0004.jpg)
 
 **Figure 5---Termination of Soil-Sement portion of beach path. Geotextile fabric visible under completed SEWF surface.**
 
 The two SEWF surfaces were allowed to cure or bond for 5 days prior to use (Fig. 6). Because rain was not predicted, the entire surface was left exposed. Overnight temperatures stayed above 4°C (40°F) for 2 days after installation. Within 2 h of installing the Vitri-Turf, the surface was somewhat rigid to hand pressure. The Soil-Sement surface was slower to stiffen and was deemed stiff within 48 h. Five days after installation, the barriers were removed and the edge of the path was backfilled with beach sand using rakes. The com-pleted beach path after 2 months of weathering is shown in Figure 7.
 
-![Figure 6---Completed beach path area looking west, shown with temporary barrier for 5-day SEWF curing period. ](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0005.jpg)
+![Figure 6---Completed beach path area looking west, shown with temporary barrier for 5-day SEWF curing period. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0005.jpg)
 
 **Figure 6---Completed beach path area looking west, shown with temporary barrier for 5-day SEWF curing period.**
 
-**![Figure 7---Beach path after 2 months of weathering. Junction of Soil-Sement and Vitri-Turf surfaces is just above the shadow cast by the picnic bench.](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0007.jpg)**
+![Figure 7---Beach path after 2 months of weathering. Junction of Soil-Sement and Vitri-Turf surfaces is just above the shadow cast by the picnic bench.]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0007.jpg)
 
 **Figure 7---Beach path after 2 months of weathering. Junction of Soil-Sement and Vitri-Turf surfaces is just above the shadow cast by the picnic bench.**
 
@@ -81,22 +81,22 @@ Prior to the date of installation, the overnight temperature was 9°C (48°F). T
 
 For both systems, the layer of EWF placed on the soil surface was 0.05 to 0.07 m (2 to 3 in.) deep and was raked smooth. A backpack sprayer and drip-bucket were used to apply the Soil-Sement (approximately 50% solids content) with a target application proportion of 30% binder based on the weight/volume of EWF (Figs. 8 and 9). The Vitri-Turf was much more viscous (100% solids) and thus only a drip bucket approach was used to apply the binder (Fig. 10).
 
-![Figure 8---Installation of Soil-Sement surface on bridle path: (a) application of Soil-Sement by backpack-type sprayer; (b) trail crew mixed, leveled, and compacted the narrow trail filled with SEWF.](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0008.jpg)
+![Figure 8---Installation of Soil-Sement surface on bridle path: (a) application of Soil-Sement by backpack-type sprayer; (b) trail crew mixed, leveled, and compacted the narrow trail filled with SEWF.]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0008.jpg)
 
 **Figure 8---Installation of Soil-Sement surface on bridle path: (a) application of Soil-Sement by backpack-type sprayer; (b) trail crew mixed, leveled, and compacted the narrow trail filled with SEWF.**
 
- ![Figure 9---Application of Soil-Sement to bridle trail by drip-bucket method. Rakes were used to mix binder with EWF and level the trail. ](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0009.jpg)
+ ![Figure 9---Application of Soil-Sement to bridle trail by drip-bucket method. Rakes were used to mix binder with EWF and level the trail. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0009.jpg)
 
 **Figure 9---Application of Soil-Sement to bridle trail by drip-bucket method. Rakes were used to mix binder with EWF and level the trail.**
 
-**![Figure 10---Application of Vitri-Turf to bridle trail by drip-bucket method. Holes drilled in bottom of 19-L (5-gal) container allowed uniform application over 0.4- by 20-m (1.3- by 66-ft) trail.](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image004.jpg)**
+![Figure 10---Application of Vitri-Turf to bridle trail by drip-bucket method. Holes drilled in bottom of 19-L (5-gal) container allowed uniform application over 0.4- by 20-m (1.3- by 66-ft) trail.]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image004.jpg)
 
 **Figure 10---Application of Vitri-Turf to bridle trail by drip-bucket method. Holes drilled in bottom of 19-L (5-gal) container allowed uniform application over 0.4- by 20-m\
 (1.3- by 66-ft) trail.**
 
 With a known weight of EWF at an application proportion of 30%, 19 L (5 gal) of binder was applied by moving a perfo-rated bucket (holes 6 mm (0.2 in.) in diameter) quickly over the surface. Immediately after applying the binder, the binder was mixed into the EWF with forks and garden rakes. On the narrow bridle path, the SEWF was compacted using the flat end of a rake. The wider path was compacted using a poly-ethylene-covered 1.2-m by 1.2-m by 16-mm (4-ft by 4-ft by 5/8-in.) piece of plywood; a 90-kg (198-lb) person walked on the plywood in each quadrant to apply firm compaction pressure (Fig. 11). The SEWF areas were roped off for 5 days to provide time for curing prior to usage.
 
-![Figure 11---Treatment of wide bridle trail (site 2): spray application of Vitri-Turf in background and drip-bucket application of Soil-Sement in foreground. Note use of polyethylene-covered plywood for compaction and leveling of Vitri-Turf SEWF.](https://www.access-board.gov/images/research/ewf/report-trailshtm_clip_image002_0011.jpg)
+![Figure 11---Treatment of wide bridle trail (site 2): spray application of Vitri-Turf in background and drip-bucket application of Soil-Sement in foreground. Note use of polyethylene-covered plywood for compaction and leveling of Vitri-Turf SEWF.]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0011.jpg)
 
 **Figure 11---Treatment of wide bridle trail (site 2): spray application of Vitri-Turf in ackground and drip-bucket application of Soil-Sement in foreground. Note use of polyethylene-covered plywood for compaction and leveling of Vitri-Turf SEWF.**
 
