@@ -55,7 +55,7 @@ During the 10-month period of this testing, the firmness and stability of the SE
 
 **Figure 13---Impact testing on beach path was similar to impact test conducted at a playground using a 3.05-m (10-ft) drop-height.**
 
-**![Figure 14---Rotational penetrometer used to measure accessibility. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0014.jpg)**
+![Figure 14---Rotational penetrometer used to measure accessibility. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0014.jpg)
 
 **Figure 14---Rotational penetrometer used to measure accessibility.**
 
@@ -72,193 +72,38 @@ first 10 months of installation.**
  |
 
 #### Costs and Personnel Time for Beach Path Installation
-
 The following summary of costs and time estimates is not meant to be definitive but to document data for the beach path installation.
 
-*Quantity of material*
-
-|
-
-EWF
-
- |
-
-6 yd 3
-
- |
-|
-
-Vitri-Turf
-
- |
-
-15 gal
-
- |
-|
-
-Soil-Sement
-
- |
-
-35 gal (45% solids)
-
- |
-
-*Market value of material*
-
-|
-
-EWF
-
- |
-
-$21/yd uncompacted (includes shipping)
-
- |
-
-$126
-
- |
-|
-
-Vitri-Turf
-
- |
-
-$18/gal (100% solids, 11 lb/gal)
-
- |
-
-270
-
- |
-|
-
-Soil-Sement
-
- |
-
-$7/gal (45% solids, 9 lb/gal)
-
- |
-
-245
-
- |
-|
-
-Drainage system
-
- |
-
-Geotextile
-
- |
-
-80
-
- |
-|   |   |
-
-$721
-
- |
-
-|
-
-*Equipment and tool rental (market value)*
-
- |
-
-*$100*
-
- |
-
-*Personnel time*
-
-|
-
-Base prep and geotextile installation, 4 h @ $10/h
-
- |
-
-$40
-
- |
-|
-
-Bonded surface install, 16 h @ $15/h
-
- |
-
-240
-
- |
-
-The installation of the two surface treatments was completed during one workday. Approximate efforts for the installation of 200 ft 2 of each material (400 ft 2 total) were 16 h (4 people for 4 h).
-
-|
-
-*Summary of costs for beach path surface*
-
- |
-|   |
-
-Cost ($/ft 2 )
-
- |
-|
-
-Binder
-
- |
-
-Labor
-
- |
-
-Materials
-
- |
-
-Surface w/labor
-
- |
-|
-
-Vitri-turf (38 mm, 1.5 in.)
-
- |
-
-0.70
-
- |
-
-1.87
-
- |
-
-2.57
-
- |
-|
-
-Soil-Sement (63.5 mm, 2.5 in.)
-
- |
-
-0.70
-
- |
-
-1.74
-
- |
-
-2.44
-
- |
+**Quantity of material**
+- EWF 6 yd3 uncompacted\
+- Vitri-Turf 15 gal\
+- Soil-Sement 35 gal (45% solids)
+
+
+**Market value of material for materials used**
+| | |
+|--------------------------------------------------|------------:|
+| EWF - $21/yd uncompacted (incl. shipping)        |     $ 126 |
+| Vitri-Turf $18/gal (100% solids, 11 lb/gal)      | 270 |
+| Soil-Sement $7/gal (45% binder/55% water)        | 245 |
+| Drainage system (rock, geotextile, and drainage) |         80 |
+|                                                  | **$ 721** |
+|                                                  |             |
+| **Equipment and tool rental (market value)**     | **$ 100** |
+|                                                  |             |
+| **Personal Time**                                |             |
+| Base prep and geotextile installation, 4 h @ $10/h       |       $ 40 |
+| Bonded surface installation, 16 h @ $15/h        | 240 |
+
+Installation of the two surface treatments was completed during one work day. Approximate effort for installation of 200 ft2 of each material (400 ft2 total) was 16 h (4 people for 4 h).
+
+
+**Summary of costs for beach path surface - Cost ($/ft 2 )**
+
+| Binder | Labor | Materials | Surface w/labor | 
+|--------------------------------|-------|-----------|------------|
+| Vitri-turf (38 mm, 1.5 in.)    | 0.70  | 1.87      | 2.57       |
+| Soil-sement (63.5 mm, 2.5 in.) | 0.70  | 1.74     | 2.44    |{: .usa-table}
 
 #### Preliminary Guidelines for SEWF Installation
 
