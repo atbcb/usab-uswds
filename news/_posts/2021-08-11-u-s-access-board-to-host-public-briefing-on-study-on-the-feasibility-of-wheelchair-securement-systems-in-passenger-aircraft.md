@@ -33,7 +33,7 @@ Visit [TRB’s website](https://www8.nationalacademies.org/pa/projectview.aspx?
 >   * Dr. Alan M. Jette, TRB Study Committee Chair, Professor and Dean Emeritus of Boston University 
 >   * Gary Weissel, TRB Study Committee Member, Founder and Managing Officer of Tronos Aviation Consulting 
 >   * Naomi Armenta, TRB Study Committee Member, Principal Planner of Nelson Nygaard 
->   * Dr. Miriam Manary, TRB Study Committee Member, Lead Research Engineer of University of Michigan Transportation Research Institute (UMTRI)
+>   * Miriam Manary, TRB Study Committee Member, Lead Research Engineer of University of Michigan Transportation Research Institute (UMTRI)
 > * Questions and Answers 
 
 > Following the briefing will be a short break and then the regular Access Board business meeting, which is open for the public to attend.
