@@ -3,6 +3,8 @@ name: josh-schorr
 first_name: Josh
 last_name: Schorr
 full_name: Josh Schorr
+executive-director: false
+director: false
 image: /images/uploads/ab-seal.png
 job-title: Accessibility Specialist
 office: Office of Technical and Information Services

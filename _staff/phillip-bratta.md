@@ -3,6 +3,8 @@ name: phillip-bratta
 first_name: Phillip
 last_name: Bratta
 full_name: Phillip Bratta
+executive-director: false
+director: false
 image: /images/uploads/bratta-522x526.jpg
 job-title: Technical Writer
 office: Office of Technical and Information Services
