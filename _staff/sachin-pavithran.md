@@ -3,7 +3,7 @@ name: sachin-pavithran
 first_name: Sachin
 last_name: Pavithran
 full_name: Dr. Sachin Dev Pavithran
-image: /images/uploads/pavithran.jpg
+image: /images/uploads/sachin-portrait.jpg
 job-title: Executive Director
 executive-director: true
 office: Office of Executive Director
