@@ -44,10 +44,6 @@ title: Access Board Staff
             </div>
           </a>
         </li>
-        {% endfor %}
-      </ul>
-    </div>
-  </div>
 
   <br class="page-break">
         
@@ -63,7 +59,6 @@ title: Access Board Staff
               <div class="usa-card__body">
                 <h3 class="text-center margin-y-0">{{ director.full_name }}</h3>
                 <h4 class="text-center margin-y-0">{{ director.agency }}</h4>  
-              {% endif %}
               </div>
               <div class="usa-card__media usa-card__media--inset">
                 <div class="usa-card__img">
@@ -72,10 +67,6 @@ title: Access Board Staff
               </div>
             </a>
           </li>
-          {% endfor %}
-        </ul>
-      </div>
-    </div>
         
   <br class="page-break">
               
@@ -99,16 +90,12 @@ title: Access Board Staff
                   <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                   {% else %}
                   <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
-                  {% endif %}
                 </div>
               </div>
             </div>
           </a>
         </li>
-        {% endfor %}  
-      </ul>
-    </div>
-  </div>
+   
 
 <br class="page-break">
   
@@ -135,11 +122,6 @@ title: Access Board Staff
             </div>
           </a>
         </li>
-        {% endif %} 
-        {% endfor %}  
-      </ul>
-    </div>
-  </div>
 
 <!-- Add past member accordion here -->
 
