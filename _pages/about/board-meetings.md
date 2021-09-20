@@ -29,7 +29,7 @@ The next virtual meeting of the Board on **September 22** will feature a briefin
 >   * Dr. Alan M. Jette, TRB Study Committee Chair, Professor and Dean Emeritus of Boston University 
 >   * Gary Weissel, TRB Study Committee Member, Founder and Managing Officer of Tronos Aviation Consulting 
 >   * Naomi Armenta, TRB Study Committee Member, Principal Planner of Nelson Nygaard 
->   * Dr. Miriam Manary, TRB Study Committee Member, Lead Research Engineer of University of Michigan Transportation Research Institute (UMTRI)
+>   * Miriam Manary, TRB Study Committee Member, Lead Research Engineer of University of Michigan Transportation Research Institute (UMTRI)
 > * Questions and Answers
 
 > The Board will hold its business meeting, which is also open to the public through the same registration, at 3:30 (ET) following a break.   
