@@ -34,6 +34,7 @@ title: Access Board Staff
               <div class="usa-card__body">
                 <h3 class="text-center margin-y-0">{{ executive-director.full_name }}</h3>
                 <h4 class="text-center margin-y-0">{{ executive-director.agency }}</h4>  
+              {% endif %}           
               </div>
               <div class="usa-card__media usa-card__media--inset">
                 <div class="usa-card__img">
@@ -43,6 +44,7 @@ title: Access Board Staff
             </div>
           </a>
         </li>
+        {% endfor %}
 
   <br class="page-break">
         
@@ -58,18 +60,22 @@ title: Access Board Staff
               <div class="usa-card__body">
                 <h3 class="text-center margin-y-0">{{ director.full_name }}</h3>
                 <h4 class="text-center margin-y-0">{{ director.agency }}</h4>  
+              {% endif %}
               </div>
               <div class="usa-card__media usa-card__media--inset">
                 <div class="usa-card__img">
                   <img src="{{ site.baseurl }}{{ director.image }}" alt="Profile picture of {{ director.full_name }}">
                 </div>
               </div>
+            </a>
+          </li>
+              {% endfor %}
         
   <br class="page-break">
               
   <div class="grid-row">
     <div class="grid-container">
-      <h2>Office of Tehnical and Information Services</h2>
+      <h2>Office of Technical and Information Services</h2>
       <ul class="usa-card-group">
       {% for person in otis %}
         <li class="tablet:grid-col-3 usa-card">
