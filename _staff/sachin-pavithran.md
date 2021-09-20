@@ -3,7 +3,7 @@ name: "sachin-pavithran "
 first_name: Sachin
 last_name: "Dev Pavithran "
 full_name: "Sachin Dev Pavithran "
-image: /images/uploads/sachin-portrait-thumbnail.jpg
+image: /images/uploads/executive-director.sachin_pavithran.jpg
 job-title: Executive Director
 office: Executive Director's Office
 agency: United States Access Board
