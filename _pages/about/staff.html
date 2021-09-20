@@ -18,9 +18,10 @@ title: Access Board Staff
   {% assign otis = site.staff | where: "office", "Office of Technical and Information Services" | sort: "last-name" %}
   {% assign oa = site.staff | where: "office", "Office of Administration" | sort: "last-name" %}
   {% assign ogc = site.staff | where: "office", "Office of General Counsel" | sort: "last-name" %}
-  {% assign f-members = site.board-members | where: "member", "federal" | sort: "last-name" %}
   {% assign executive-director = site.staff | where: "executive-director", true %}
-  {% assign vice-chairs = site.board-members | where: "vice-chair","true" %}
+  {% assign directors = site.staff | where: "director", "Office of Administration" | sort: "last-name" %}
+  {% assign directors = site.staff | where: "director", "Office of Technical and Information Services" | sort: "last-name" %}
+  {% assign directors = site.staff | where: "director", "Office of General Counsel" | sort: "last-name" %}
   <div class="grid-row">
     <div class="grid-container padding-top-6 maxw-tablet">
       <ul class="usa-card-group">
