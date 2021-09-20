@@ -15,13 +15,12 @@ title: Access Board Staff
       </p>
     </div>
   </div>
-  {% assign oa = site.staff | where: "office", "Office of Administration" | sort: "last-name" %}
   {% assign otis = site.staff | where: "office", "Office of Technical and Information Services" | sort: "last-name" %}
+  {% assign oa = site.staff | where: "office", "Office of Administration" | sort: "last-name" %}
   {% assign ogc = site.staff | where: "office", "Office of General Counsel" | sort: "last-name" %}
+  {% assign f-members = site.board-members | where: "member", "federal" | sort: "last-name" %}
   {% assign executive-director = site.staff | where: "executive-director", true %}
-  {% assign directors = site.staff | where: "director", "Office of Administration" | sort: "last-name" %}
-  {% assign directors = site.staff | where: "director", "Office of Technical and Information Services" | sort: "last-name" %}
-  {% assign directors = site.staff | where: "director", "Office of General Counsel" | sort: "last-name" %}
+  {% assign vice-chairs = site.board-members | where: "vice-chair","true" %}
   <div class="grid-row">
     <div class="grid-container padding-top-6 maxw-tablet">
       <ul class="usa-card-group">
@@ -33,7 +32,7 @@ title: Access Board Staff
               </header>
               <div class="usa-card__body">
                 <h3 class="text-center margin-y-0">{{ executive-director.full_name }}</h3>
-                <h4 class="text-center margin-y-0">{{ executive-director.agency }}</h4>            
+                <h4 class="text-center margin-y-0">{{ executive-director.agency }}</h4>  
               </div>
               <div class="usa-card__media usa-card__media--inset">
                 <div class="usa-card__img">
@@ -45,42 +44,20 @@ title: Access Board Staff
         </li>
 
   <br class="page-break">
-        
-  <div class="grid-row">
-    <div class="grid-container padding-top-6 maxw-tablet">
-      <ul class="usa-card-group">
-        <li class="tablet:grid-col-6 usa-card">
-          <a class="style-inherit" href="{{ site.baseurl }}/about/staff/{{ director.name }}">
-            <div class="usa-card__container gray-to-color card-shadow">
-              <header class="card-header">
-                <h2 class="usa-card__heading">Director</h2>
-              </header>
-              <div class="usa-card__body">
-                <h3 class="text-center margin-y-0">{{ director.full_name }}</h3>
-                <h4 class="text-center margin-y-0">{{ director.agency }}</h4>  
-              </div>
-              <div class="usa-card__media usa-card__media--inset">
-                <div class="usa-card__img">
-                  <img src="{{ site.baseurl }}{{ director.image }}" alt="Profile picture of {{ director.full_name }}">
-                </div>
-              </div>
-            </div>
-          </a>
-        </li>
-        
-  <br class="page-break">
-              
+
   <div class="grid-row">
     <div class="grid-container">
       <h2>Office of Technical and Information Services</h2>
       <ul class="usa-card-group">
-        <li class="tablet:grid-col-6 usa-card">
+      {% for person in otis %}
+        <li class="tablet:grid-col-3 usa-card">
           <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
             <div class="usa-card__container gray-to-color card-shadow">            
               <div class="padding-1">
                 <h3 class="card-name">{{ person.full_name }}</h3>
                   {% if person.job-title %}
                   <p class="card-text">{{ person.job-title }}</p>
+                  {% endif %}
               </div>
               <div class="usa-card__media usa-card__media--inset">
                 <div class="usa-card__img maxw-15 margin-x-auto">
@@ -88,12 +65,16 @@ title: Access Board Staff
                   <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                   {% else %}
                   <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                  {% endif %}
                 </div>
               </div>
             </div>
           </a>
         </li>
-   
+        {% endfor %}  
+      </ul>
+    </div>
+  </div>
 
 <br class="page-break">
   
@@ -101,14 +82,16 @@ title: Access Board Staff
     <div class="grid-container">
       <h2>Office of Administration</h2>
       <ul class="usa-card-group">
-      {% if person.status == "current" %}
+      {% for member in f-members %}
+      {% if member.status == "current" %}
         <li class="tablet:grid-col-3 usa-card">
           <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
             <div class="usa-card__container gray-to-color card-shadow">            
               <div class="padding-1">
                   <h3 class="card-name">{{ person.full_name }}</h3>
-                  {% if member.agency %}
-                  <p class="card-text">{{ person.agency }}</p>
+                  {% if person.job-title %}
+                  <p class="card-text">{{ person.job-title }}</p>
+                  {% endif %}
               </div>
               <div class="usa-card__media usa-card__media--inset">
                 <div class="usa-card__img maxw-15 margin-x-auto">
@@ -118,6 +101,11 @@ title: Access Board Staff
             </div>
           </a>
         </li>
+        {% endif %} 
+        {% endfor %}  
+      </ul>
+    </div>
+  </div>
 
 <!-- Add past member accordion here -->
 
