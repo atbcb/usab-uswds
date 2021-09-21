@@ -15,7 +15,7 @@ tags:
   - events
 featured: false
 ---
-In the Federal Aviation Administration Reauthorization Act, Congress called on the U.S. Access Board to examine the feasibility of wheelchair securement systems for passenger use in airplane cabins. In response, the Access Board commissioned the Transportation Research Board (TRB), of the National Academies of Sciences, Engineering, and Medicine, to conduct a study and issue a report. TRB organized a committee to conduct this assessment that included experts in aircraft interiors and safety engineering, accessibility, wheelchair design and crashworthiness, airline operations, and other disciplines. The committee’s findings are contained in the report "Technical Feasibility of a Wheelchair Securement Concept for Airline Travel: A Preliminary Assessment." 
+In the Federal Aviation Administration Reauthorization Act, Congress called on the U.S. Access Board to examine the feasibility of wheelchair securement systems for passenger use in airplane cabins. In response, the Access Board commissioned the Transportation Research Board (TRB), of the National Academies of Sciences, Engineering, and Medicine, to conduct a study and issue a report. TRB organized a committee to conduct this assessment that included experts in aircraft interiors and safety engineering, accessibility, wheelchair design and crashworthiness, airline operations, and other disciplines. The committee’s findings are contained in their report [Technical Feasibility of a Wheelchair Securement Concept for Airline Travel: A Preliminary Assessment]({{ site.baseurl}}/files/research/trb-final-report-sept2021.pdf) (PDF, 6MB). 
 
 According to the report, the committee did not identify any design or engineering challenges that would likely call into question the technical feasibility of an in-cabin wheelchair securement system. The report provides a preliminary assessment of the technical issues and recommends actions to fill gaps in technical information needed for more definitive assessments of feasibility and for public policy considerations about the systems to expand air travel opportunities for people with disabilities. 
 
@@ -27,7 +27,7 @@ The report documents several findings: 
 
 The report recommends that the U.S. Department of Transportation and the Federal Aviation Administration (FAA) establish a program of research, in collaboration with RESNA and the assistive technology industry, to test and evaluate an appropriate selection of WC19-compliant wheelchairs in accordance with applicable FAA crashworthiness and safety performance criteria. It also recommends that the Access Board sponsor further studies to assess the likely demand for air travel by people who prefer to remain seated in their personal wheelchairs on flights. 
 
-To read the full report, visit the [National Academies Press webpage](https://www.nap.edu/catalog/26323/technical-feasibility-of-a-wheelchair-securement-concept-for-airline-travel).
+The report is also available from [National Academies Press](https://www.nap.edu/catalog/26323/technical-feasibility-of-a-wheelchair-securement-concept-for-airline-travel).
 
 The Access Board will host a public briefing on the final report on **September 22** from **1:00 – 3:00 pm (ET)**. The briefing will feature a presentation by the TRB Study Committee Members, including Committee Chair Dr. Alan M. Jette, on the two-year research study. The event is free, but registration is required. Members of the public will be able to pose questions during the event. 
 
