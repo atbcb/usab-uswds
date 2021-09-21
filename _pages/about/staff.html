@@ -49,8 +49,7 @@ title: Access Board Staff
     <div class="grid-container">
       <h2>Office of Administration</h2>
       <ul class="usa-card-group">
-       {% for member in f-members %}
-       {% if member.status == "current" %}
+       {% for member in p-members %}
         <li class="tablet:grid-col-3 usa-card">
           <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
             <div class="usa-card__container gray-to-color card-shadow">            
@@ -62,12 +61,20 @@ title: Access Board Staff
               </div>
               <div class="usa-card__media usa-card__media--inset">
                 <div class="usa-card__img maxw-15 margin-x-auto">
+                 {% if person.image %}
                   <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
+                  {% else %}
+                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                  {% endif %}
                 </div>
               </div>
             </div>
           </a>
         </li>
+        {% endfor %}  
+      </ul>
+    </div>
+  </div>
         
  <br class="page-break">
       
