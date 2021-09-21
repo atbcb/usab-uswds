@@ -41,6 +41,8 @@ The Americans with Disabilities Act (ADA) requires that state and local governme
 Phone:  800-514-0301 (v) or 800-514-0383 (TTY)  
 Web:  [www.justice.gov/crt/disability-rights-section](https://www.justice.gov/crt/disability-rights-section)
 
+To file an ADA complaint, visit DOJ's [Civil Rights Reporting Portal](https://civilrights.justice.gov/report/)
+
 ### Federally Funded Facilities
 
 See [information]({{ site.baseurl }}/aba/) on the ABA.
@@ -84,6 +86,8 @@ The ADA prohibits discrimination in public housing facilities that are owned or 
 
 Phone:  800-514-0301 (v) or 800-514-0383 (TTY)  
 Web:  [www.justice.gov/crt/disability-rights-section](https://www.justice.gov/crt/disability-rights-section)
+
+To file an ADA complaint, visit DOJ's [Civil Rights Reporting Portal](https://civilrights.justice.gov/report/)
 
 ### Federally Funded Housing
 
