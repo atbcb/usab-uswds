@@ -7,7 +7,7 @@ permalink: /aircraft/
 
 {% asset stock/aircraft.jpg alt="airplane flying into sunset" class="img-right shadow radius-lg" %}
 
-The Access Board is sponsoring a *Study on the Feasibility of Wheelchair Restraint Systems in Passenger Aircraft*. The Transportation Research Board (TRB), a component of the National Academies of Science, Engineering, and Medicine, is conducting the study and issued their final report in mid-September 2021. The final report presents research findings on the technical feasibility of wheelchair securement systems as an option for enhancing accessibility in air travel.  
+The Access Board is sponsoring a *Study on the Feasibility of Wheelchair Restraint Systems in Passenger Aircraft*. The Transportation Research Board (TRB), a component of the National Academies of Science, Engineering, and Medicine, is conducting the study and issued their final report in mid-September 2021. The final report presents research findings on the [Technical Feasibility of a Wheelchair Securement Concept for Airline Travel: A Preliminary Assessment]({{ site.baseurl}}/files/research/trb-final-report-sept2021.pdf) (PDF, 6MB).
 
 In the FAA Reauthorization Act of 2018, Congress directed the Access Board to conduct a study to determine the feasibility of equipping aircraft with securement systems so that passengers can remain in their wheelchairs on flights. In order to address the many complex technological and engineering questions involved with such a study, the Access Board enlisted TRB, which has conducted extensive peer-reviewed studies on transportation-related issues. 
 
