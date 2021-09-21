@@ -26,28 +26,6 @@ title: Access Board Staff
   <br class="page-break">
   
   <div class="grid-row">
-    <div class="grid-container padding-top-6 maxw-tablet">
-      <ul class="usa-card-group">
-        <li class="tablet:grid-col-6 usa-card">
-          <a class="style-inherit" href="{{ site.baseurl }}/about/staff/{{ executive-director.name }}">
-            <div class="usa-card__container gray-to-color card-shadow">
-              <header class="card-header">
-                <h2 class="usa-card__heading">Executive Director</h2>
-              </header>
-              <div class="usa-card__body">
-                <h3 class="text-center margin-y-0">{{ executive-director.full_name }}</h3>
-                <h4 class="text-center margin-y-0">{{ executive-director.agency }}</h4>  
-              </div>
-              <div class="usa-card__media usa-card__media--inset">
-                <div class="usa-card__img">
-                  <img src="{{ site.baseurl }}{{ executive-director.image }}" alt="Profile picture of {{ executive-director.full_name }}">
-                </div>
-              </div>
-            </div>
-          </a>
-        </li>
-
-  <div class="grid-row">
     <div class="grid-container">
       <h2> Executive Director's Office </h2>
       <ul class="usa-card-group">
@@ -87,11 +65,11 @@ title: Access Board Staff
           <a class="style-inherit" href="{{ site.baseurl }}/about/staff/{{ executive-director.name }}">
             <div class="usa-card__container gray-to-color card-shadow">
               <header class="card-header">
-                <h2 class="usa-card__heading">Director</h2>
+                <h2 class="usa-card__heading">Executive Director</h2>
               </header>
               <div class="usa-card__body">
-                <h3 class="text-center margin-y-0">{{ director.full_name }}</h3>
-                <h4 class="text-center margin-y-0">{{ director.agency }}</h4>  
+                <h3 class="text-center margin-y-0">{{ executive-director.full_name }}</h3>
+                <h4 class="text-center margin-y-0">{{ executive-director.agency }}</h4>  
               </div>
               <div class="usa-card__media usa-card__media--inset">
                 <div class="usa-card__img">
@@ -107,6 +85,27 @@ title: Access Board Staff
   <div class="grid-row">
     <div class="grid-container">
       <h2> Office of Technical and Information Services</h2>
+      <div class="grid-row">
+    <div class="grid-container padding-top-6 maxw-tablet">
+      <ul class="usa-card-group">
+        <li class="tablet:grid-col-6 usa-card">
+          <a class="style-inherit" href="{{ site.baseurl }}/about/staff/{{ executive-director.name }}">
+            <div class="usa-card__container gray-to-color card-shadow">
+              <header class="card-header">
+                <h2 class="usa-card__heading">Director</h2>
+              </header>
+              <div class="usa-card__body">
+                <h3 class="text-center margin-y-0">{{ director.full_name }}</h3>
+                <h4 class="text-center margin-y-0">{{ director.agency }}</h4>  
+              </div>
+              <div class="usa-card__media usa-card__media--inset">
+                <div class="usa-card__img">
+                  <img src="{{ site.baseurl }}{{ executive-director.image }}" alt="Profile picture of {{ executive-director.full_name }}">
+                </div>
+              </div>
+            </div>
+          </a>
+        </li>
       <ul class="usa-card-group">
       {% for person in otis %}
         <li class="tablet:grid-col-3 usa-card">
