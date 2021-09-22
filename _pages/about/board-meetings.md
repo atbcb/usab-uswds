@@ -12,27 +12,12 @@ permalink: /about/meetings.html
 
 Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Since the COVID-19 pandemic, Board meetings are held virtually.  
 
-At its last meeting on July 14, the Board conducted a program on "[Moving Forward: Access to Inclusive Fitness Equipment]({{ site.baseurl }}/news/2021/07/15/u-s-access-board-holds-virtual-meeting-on-inclusive-exercise-and-fitness-equipment/)."
+At its last meeting on September 22, the Board held a briefing on the results of a Board-sponsored [Study on the Feasibility of Wheelchair Securement Systems on Aircraft]({{ site.baseurl }}/aircraft/) conducted by the Transportation Research Board (TRB). 
 
 ## Next Board Meeting
 
-The next virtual meeting of the Board on **September 22** will feature a briefing on the results of a Board-sponsored [Study on the Feasibility of Wheelchair Securement Systems on Aircraft]({{ site.baseurl }}/aircraft/) conducted by the Transportation Research Board (TRB). 
+The next virtual meeting of the Board on **November 10** will take place from 1:00 p.m. to 4:30 p.m.  
 
-> *Public Briefing on the Feasibility of Wheelchair Securement Systems on Aircraft* \
-> September 22, 1:00 PM – 3:00 PM (ET) \
-> Registration required (free): [www.zoomgov.com/webinar/register/](https://www.zoomgov.com/webinar/register/WN_0qGkUge8Sgeh_igXH1TpLw) 
-
-> ### Agenda
-
-> * Welcome, Greg Fehribach, U.S. Access Board Chair
-> * Briefing 
->   * Dr. Alan M. Jette, TRB Study Committee Chair, Professor and Dean Emeritus of Boston University 
->   * Gary Weissel, TRB Study Committee Member, Founder and Managing Officer of Tronos Aviation Consulting 
->   * Naomi Armenta, TRB Study Committee Member, Principal Planner of Nelson Nygaard 
->   * Miriam Manary, TRB Study Committee Member, Lead Research Engineer of University of Michigan Transportation Research Institute (UMTRI)
-> * Questions and Answers
-
-> The Board will hold its business meeting, which is also open to the public through the same registration, at 3:30 (ET) following a break.   
 
 ## Future Board Meetings
 
@@ -49,3 +34,4 @@ The next virtual meeting of the Board on **September 22** will feature a briefin
 - [March 10, 2021](https://www.youtube.com/watch?v=xI1j1V1SyjE)
 - [May 19, 2021](https://www.youtube.com/watch?v=-0YkBZZEoss)
 - [July 14, 2021](https://www.youtube.com/watch?v=078ZOzcZaSs)
+- [September 22, 2021]
