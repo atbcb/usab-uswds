@@ -33,7 +33,7 @@ title: Access Board Staff
         <li class="tablet:grid-col-3 usa-card">
           <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
             <div class="usa-card__container gray-to-color card-shadow">            
-              <div class="padding-3">
+              <div class="padding-1">
                 <h3 class="card-name">{{ person.full_name }}</h3>
                   {% if person.job-title %}
                   <p class="card-text">{{ person.job-title }}</p>
@@ -59,7 +59,7 @@ title: Access Board Staff
   <br class="page-break">
         
   <div class="grid-row">
-    <div class="grid-container padding-top-6 maxw-tablet">
+    <div class="grid-container padding-top-3 maxw-tablet">
       <ul class="usa-card-group">
         <li class="tablet:grid-col-6 usa-card">
           <a class="style-inherit" href="{{ site.baseurl }}/about/staff/{{ executive-director.name }}">
@@ -79,6 +79,11 @@ title: Access Board Staff
             </div>
           </a>
         </li>
+        {% endif %} 
+        {% endfor %}  
+      </ul>
+    </div>
+  </div>
 
   <br class="page-break">
 
@@ -88,7 +93,7 @@ title: Access Board Staff
       <div class="grid-row">
     <div class="grid-container padding-top-6 maxw-tablet">
       <ul class="usa-card-group">
-        <li class="tablet:grid-col-6 usa-card">
+        <li class="tablet:grid-col-3 usa-card">
           <a class="style-inherit" href="{{ site.baseurl }}/about/staff/{{ director.name }}">
             <div class="usa-card__container gray-to-color card-shadow">
               <header class="card-header">
@@ -111,7 +116,7 @@ title: Access Board Staff
         <li class="tablet:grid-col-6 usa-card">
           <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
             <div class="usa-card__container gray-to-color card-shadow">            
-              <div class="padding-3">
+              <div class="padding-1">
                 <h3 class="card-name">{{ person.full_name }}</h3>
                   {% if person.job-title %}
                   <p class="card-text">{{ person.job-title }}</p>
@@ -123,12 +128,12 @@ title: Access Board Staff
                   <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                   {% else %}
                   <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
-                  {% endif %}
                 </div>
               </div>
             </div>
           </a>
         </li>
+        {% endif %} 
         {% endfor %}  
       </ul>
     </div>
@@ -140,9 +145,9 @@ title: Access Board Staff
     <div class="grid-container">
       <h2> Office of Administration </h2>
       <div class="grid-row">
-    <div class="grid-container padding-top-1 maxw-tablet">
+    <div class="grid-container padding-top-6 maxw-tablet">
       <ul class="usa-card-group">
-        <li class="tablet:grid-col-6 usa-card">
+        <li class="tablet:grid-col-3 usa-card">
           <a class="style-inherit" href="{{ site.baseurl }}/about/staff/{{ director.name }}">
             <div class="usa-card__container gray-to-color card-shadow">
               <header class="card-header">
@@ -165,7 +170,7 @@ title: Access Board Staff
         <li class="tablet:grid-col-6 usa-card">
           <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
             <div class="usa-card__container gray-to-color card-shadow">            
-              <div class="padding-3">
+              <div class="padding-1">
                 <h3 class="card-name">{{ person.full_name }}</h3>
                   {% if person.job-title %}
                   <p class="card-text">{{ person.job-title }}</p>
@@ -177,12 +182,12 @@ title: Access Board Staff
                   <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                   {% else %}
                   <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
-                  {% endif %}
                 </div>
               </div>
             </div>
           </a>
         </li>
+        {% endif %} 
         {% endfor %}  
       </ul>
     </div>
@@ -194,9 +199,9 @@ title: Access Board Staff
     <div class="grid-container">
       <h2> Office of General Counsel </h2>
       <div class="grid-row">
-    <div class="grid-container padding-top-1 maxw-tablet">
+    <div class="grid-container padding-top-6 maxw-tablet">
       <ul class="usa-card-group">
-        <li class="tablet:grid-col-6 usa-card">
+        <li class="tablet:grid-col-3 usa-card">
           <a class="style-inherit" href="{{ site.baseurl }}/about/staff/{{ director.name }}">
             <div class="usa-card__container gray-to-color card-shadow">
               <header class="card-header">
@@ -216,7 +221,7 @@ title: Access Board Staff
         </li>
       <ul class="usa-card-group">
       {% for person in ogc %}
-        <li class="tablet:grid-col-6 usa-card">
+        <li class="tablet:grid-col-3 usa-card">
           <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
             <div class="usa-card__container gray-to-color card-shadow">            
               <div class="padding-1">
@@ -231,12 +236,12 @@ title: Access Board Staff
                   <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                   {% else %}
                   <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
-                  {% endif %}
                 </div>
               </div>
             </div>
           </a>
         </li>
+        {% endif %} 
         {% endfor %}  
       </ul>
     </div>
