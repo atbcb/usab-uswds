@@ -108,29 +108,6 @@ title: Access Board Staff
             </div>
           </a>
         </li>
-      <ul class="usa-card-group">
-      {% for person in otis %}
-        <li class="tablet:grid-col-4 usa-card">
-          <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
-            <div class="usa-card__container gray-to-color card-shadow">            
-              <div class="padding-1">
-                <h3 class="card-name">{{ person.full_name }}</h3>
-                  {% if person.job-title %}
-                  <p class="card-text">{{ person.job-title }}</p>
-                  {% endif %}
-              </div>
-              <div class="usa-card__media usa-card__media--inset">
-                <div class="usa-card__img maxw-15 margin-x-auto">
-                  {% if person.image %}
-                  <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
-                  {% else %}
-                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
-                  {% endif %}
-                </div>
-              </div>
-            </div>
-          </a>
-        </li>
         {% endfor %}  
       </ul>
     </div>
