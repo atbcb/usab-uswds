@@ -15,7 +15,7 @@ title: Access Board Staff
       </p>
     </div>
   </div>
-  {% assign edo = site.staff | where: "office", "Executive Director's Office" | sort: "last-name" %}
+  {% assign oed = site.staff | where: "office", "Office of Executive Director" | sort: "last-name" %}
   {% assign otis = site.staff | where: "office", "Office of Technical and Information Services" | sort: "last-name" %}
   {% assign oa = site.staff | where: "office", "Office of Administration" | sort: "last-name" %}
   {% assign ogc = site.staff | where: "office", "Office of General Counsel" | sort: "last-name" %}
@@ -27,9 +27,9 @@ title: Access Board Staff
   
   <div class="grid-row">
     <div class="grid-container">
-      <h2> Executive Director's Office </h2>
+      <h2> Office of Executive Director </h2>
       <ul class="usa-card-group">
-      {% for person in edo %}
+      {% for person in oed %}
         <li class="tablet:grid-col-3 usa-card">
           <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
             <div class="usa-card__container gray-to-color card-shadow">            
