@@ -11,238 +11,74 @@ title: Access Board Staff
          [introductory paragraph about staff, etc.]
       </p>
       <p style="max-width: none;">
-         [introductory paragraph about job openings?] <a href=https://www.usajobs.gov>USA jobs</a> for further information.
+         [introductory paragraph about job openings?] <a href="https://www.usajobs.gov">USA jobs</a> for further information.
       </p>
     </div>
   </div>
-  {% assign oed = site.staff | where: "office", "Office of Executive Director" | sort: "last-name" %}
-  {% assign otis = site.staff | where: "office", "Office of Technical and Information Services" | sort: "last-name" %}
-  {% assign oa = site.staff | where: "office", "Office of Administration" | sort: "last-name" %}
-  {% assign ogc = site.staff | where: "office", "Office of General Counsel" | sort: "last-name" %}
-  {% assign f-members = site.board-members | where: "member", "federal" | sort: "last-name" %}
-  {% assign executive-director = site.staff | where: "executive-director", true %}
-  {% assign vice-chairs = site.board-members | where: "vice-chair","true" %}
-  
-  <br class="page-break">
-  
-  <div class="grid-row">
-    <div class="grid-container">
-      <h2> Office of Executive Director </h2>
-      <ul class="usa-card-group">
-      {% for person in oed %}
-        <li class="tablet:grid-col-4 usa-card">
-          <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
-            <div class="usa-card__container gray-to-color card-shadow">            
-              <div class="padding-1">
-                <h3 class="card-name">{{ person.full_name }}</h3>
-                  {% if person.job-title %}
-                  <p class="card-text">{{ person.job-title }}</p>
-                  {% endif %}
-              </div>
-              <div class="usa-card__media usa-card__media--inset">
-                <div class="usa-card__img maxw-15 margin-x-auto">
-                  {% if person.image %}
-                  <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
-                  {% else %}
-                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
-                  {% endif %}
-                </div>
-              </div>
-            </div>
-          </a>
-        </li>
-        {% endfor %}  
-      </ul>
-    </div>
-  </div>
-
-  <br class="page-break">
-        
-  <div class="grid-row">
-    <div class="grid-container padding-top-3 maxw-tablet">
-      <ul class="usa-card-group">
-        <li class="tablet:grid-col-6 usa-card">
-          <a class="style-inherit" href="{{ site.baseurl }}/about/staff/{{ executive-director.name }}">
-            <div class="usa-card__container gray-to-color card-shadow">
-              <header class="card-header">
-                <h2 class="usa-card__heading">Executive Director</h2>
-              </header>
-              <div class="usa-card__body">
-                <h3 class="text-center margin-y-0">{{ executive-director.full_name }}</h3>
-                <h4 class="text-center margin-y-0">{{ executive-director.agency }}</h4>  
-              </div>
-              <div class="usa-card__media usa-card__media--inset">
-                <div class="usa-card__img">
-                  <img src="{{ site.baseurl }}{{ executive-director.image }}" alt="Profile picture of {{ executive-director.full_name }}">
-                </div>
-              </div>
-            </div>
-          </a>
-        </li>
-
-  <br class="page-break">
-
-<div class="grid-row">
-    <div class="grid-container">
-      <h2> Office of Technical and Information Services </h2>
-      <div class="grid-row">
-    <div class="grid-container padding-top-3 maxw-tablet">
-      <ul class="usa-card-group">
-        <li class="tablet:grid-col-6 usa-card">
-          <a class="style-inherit" href="{{ site.baseurl }}/about/staff/{{ director.name }}">
-            <div class="usa-card__container gray-to-color card-shadow">
-              <header class="card-header">
-                <h2 class="usa-card__heading">Director</h2>
-              </header>
-              <div class="usa-card__body">
-                <h3 class="text-center margin-y-0">{{ director.full_name }}</h3>
-                <h4 class="text-center margin-y-0">{{ director.agency }}</h4>  
-              </div>
-              <div class="usa-card__media usa-card__media--inset">
-                <div class="usa-card__img">
-                  <img src="{{ site.baseurl }}{{ director.image }}" alt="Profile picture of {{ director.full_name }}">
-                </div>
-              </div>
-            </div>
-          </a>
-        </li>
-      <ul class="usa-card-group">
-      {% for person in otis %}
-        <li class="tablet:grid-col-4 usa-card">
-          <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
-            <div class="usa-card__container gray-to-color card-shadow">            
-              <div class="padding-1">
-                <h3 class="card-name">{{ person.full_name }}</h3>
-                  {% if person.job-title %}
-                  <p class="card-text">{{ person.job-title }}</p>
-                  {% endif %}
-              </div>
-              <div class="usa-card__media usa-card__media--inset">
-                <div class="usa-card__img maxw-15 margin-x-auto">
-                  {% if person.image %}
-                  <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
-                  {% else %}
-                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
-                  {% endif %}
-                </div>
-              </div>
-            </div>
-          </a>
-        </li>
-        {% endfor %}  
-      </ul>
-    </div>
-  </div>
-
-  <br class="page-break">
+  {% assign otis = site.staff | where: "office", "Office of Technical and Information Services" | sort: "last_name" %}
+  {% assign oa = site.staff | where: "office", "Office of Administration" | sort: "last_name" %}
+  {% assign ogc = site.staff | where: "office", "Office of General Counsel" | sort: "last_name" %}
+  {% assign oed = site.staff | where: "office", "Office of Executive Director" | sort: "last_name" %}
 
   <div class="grid-row">
-    <div class="grid-container">
-      <h2> Office of Administration </h2>
-      <div class="grid-row">
-    <div class="grid-container padding-top-3 maxw-tablet">
+    {% for person in otis %}
+    {% if person.director == true %}
+    <h3 class="site-preview-heading">{{ person.office }}</h3>
       <ul class="usa-card-group">
-        <li class="tablet:grid-col-6 usa-card">
-          <a class="style-inherit" href="{{ site.baseurl }}/about/staff/{{ director.name }}">
-            <div class="usa-card__container gray-to-color card-shadow">
-              <header class="card-header">
-                <h2 class="usa-card__heading">Director</h2>
-              </header>
-              <div class="usa-card__body">
-                <h3 class="text-center margin-y-0">{{ director.full_name }}</h3>
-                <h4 class="text-center margin-y-0">{{ director.agency }}</h4>  
-              </div>
-              <div class="usa-card__media usa-card__media--inset">
-                <div class="usa-card__img">
-                  <img src="{{ site.baseurl }}{{ director.image }}" alt="Profile picture of {{ director.full_name }}">
-                </div>
+        <li class="tablet:grid-col-6 usa-card usa-card--flag">
+          <div class="usa-card__container">
+            <header class="usa-card__header">
+              <h2 class="usa-card__heading">{{ person.full_name }}</h2>
+            </header>
+            <div class="usa-card__media">
+              <div class="usa-card__img">
+                {% if person.image %}
+                <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
+                {% else %}
+                <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                {% endif %}
               </div>
             </div>
-          </a>
-        </li>
-      <ul class="usa-card-group">
-      {% for person in oa %}
-        <li class="tablet:grid-col-4 usa-card">
-          <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
-            <div class="usa-card__container gray-to-color card-shadow">            
-              <div class="padding-1">
-                <h3 class="card-name">{{ person.full_name }}</h3>
-                  {% if person.job-title %}
-                  <p class="card-text">{{ person.job-title }}</p>
-                  {% endif %}
-              </div>
-              <div class="usa-card__media usa-card__media--inset">
-                <div class="usa-card__img maxw-15 margin-x-auto">
-                  {% if person.image %}
-                  <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
-                  {% else %}
-                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
-                  {% endif %}
-                </div>
-              </div>
+            <div class="usa-card__body">
+              <p>{{ person.job-title }}</p>
             </div>
-          </a>
+          </div>
         </li>
-        {% endfor %}  
       </ul>
-    </div>
+    {% endif %}
+  {% endfor %}
   </div>
-        
-<br class="page-break">
-  
-<div class="grid-row">
-    <div class="grid-container">
-      <h2> Office of General Counsel </h2>
-      <div class="grid-row">
-    <div class="grid-container padding-top-3 maxw-tablet">
-      <ul class="usa-card-group">
-        <li class="tablet:grid-col-6 usa-card">
-          <a class="style-inherit" href="{{ site.baseurl }}/about/staff/{{ director.name }}">
-            <div class="usa-card__container gray-to-color card-shadow">
-              <header class="card-header">
-                <h2 class="usa-card__heading">Director</h2>
-              </header>
-              <div class="usa-card__body">
-                <h3 class="text-center margin-y-0">{{ director.full_name }}</h3>
-                <h4 class="text-center margin-y-0">{{ director.agency }}</h4>  
-              </div>
-              <div class="usa-card__media usa-card__media--inset">
-                <div class="usa-card__img">
-                  <img src="{{ site.baseurl }}{{ director.image }}" alt="Profile picture of {{ director.full_name }}">
-                </div>
+  <div class="grid-row">
+    <ul class="usa-card-group">
+    {% for person in otis %}
+      {% if person.director != true %}
+      <li class="tablet:grid-col-3 usa-card">
+        <a href="{{ site.baseurl }}/about/board-members/{{ person.name }}" class="style-inherit">
+          <div class="usa-card__container gray-to-color card-shadow">            
+            <div class="padding-1">
+              <h3 class="card-name">{{ person.full_name }}</h3>
+                {% if person.job-title %}
+                <p class="card-text">{{ person.job-title }}</p>
+                {% endif %}
+            </div>
+            <div class="usa-card__media usa-card__media--inset">
+              <div class="usa-card__img maxw-15 margin-x-auto">
+                {% if person.image %}
+                <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
+                {% else %}
+                <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                {% endif %}
               </div>
             </div>
-          </a>
-        </li>
-      <ul class="usa-card-group">
-      {% for person in ogc %}
-        <li class="tablet:grid-col-4 usa-card">
-          <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
-            <div class="usa-card__container gray-to-color card-shadow">            
-              <div class="padding-1">
-                <h3 class="card-name">{{ person.full_name }}</h3>
-                  {% if person.job-title %}
-                  <p class="card-text">{{ person.job-title }}</p>
-                  {% endif %}
-              </div>
-              <div class="usa-card__media usa-card__media--inset">
-                <div class="usa-card__img maxw-15 margin-x-auto">
-                  {% if person.image %}
-                  <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
-                  {% else %}
-                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
-                  {% endif %}
-                </div>
-              </div>
-            </div>
-          </a>
-        </li>
-        {% endfor %}  
-      </ul>
-    </div>
+          </div>
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+
   </div>
 
 
-<!-- Add past member accordion here -->
 
 </div>

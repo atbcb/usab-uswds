@@ -4,7 +4,6 @@ first_name: Phil
 last_name: Bratta
 full_name: Phil Bratta
 executive-director: false
-director: false
 image: /images/uploads/bratta-522x526.jpg
 job-title: Technical Writer
 office: Office of Technical and Information Services
