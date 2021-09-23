@@ -1,8 +1,8 @@
 ---
+name: bill-botten
 first_name: Bill
 last_name: Botten
 full_name: Bill Botten
-name: bill-botten
 image: /images/uploads/bill-botten.jpg
 job-title: Training Coordinator
 office: Office of Technical and Information Services
