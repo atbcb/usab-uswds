@@ -1,8 +1,8 @@
 ---
-last-name: Taylor
+last-name: "[Currently Vacant]"
 agency: Department of the Interior
 name: federal-doi
-full_name: Rachael Taylor
+full_name: "[Currently Vacant]"
 chair: false
 vice-chair: false
 member: federal

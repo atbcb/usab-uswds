@@ -1,12 +1,12 @@
 ---
-last-name: Hutcheson
+last-name: "[Currently Vacant]"
 agency: Department of Transportation
 name: federal-dot
-full_name: Robin Hutcheson
+full_name: "[Currently Vacant]"
 chair: false
 vice-chair: false
 member: federal
 status: current
-image: /images/uploads/robin-hutcheson.png
+image: ""
 job-title: null
 ---
