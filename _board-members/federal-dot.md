@@ -7,6 +7,6 @@ chair: false
 vice-chair: false
 member: federal
 status: current
-image: ""
+image: /images/uploads/vacant.svg
 job-title: null
 ---
