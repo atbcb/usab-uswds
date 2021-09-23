@@ -5,7 +5,7 @@ last_name: Pavithran
 full_name: Dr. Sachin Dev Pavithran
 image: /images/uploads/sachin-portrait.jpg
 job-title: Executive Director
-executive-director: true
+director: true
 office: Office of Executive Director
 agency: USAB
 ---

@@ -3,7 +3,7 @@ name: bruce-bailey
 first_name: Bruce
 last_name: Bailey
 full_name: Bruce Bailey
-job-title: Accessibility Specialist/Information Technology Specialist
+job-title: Accessibility Specialist / Information Technology
 office: Office of Technical and Information Services
 agency: USAB
 ---
