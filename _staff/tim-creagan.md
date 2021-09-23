@@ -5,8 +5,8 @@ last_name: Creagan
 full_name: Tim Creagan
 image: /images/uploads/usab-logo.png
 job-title: Senior Accessibility Specialist/Information Technology
-office: "Office of General Counsel "
-agency: USAB
+office: Office of Technical and Information Services
+agency: "United States Access Board "
 ---
 Mr. Creagan is a Senior Accessibility Specialist with the US Access Board. He provides technical assistance and training on the Revised Section 508 Standards and the Revised Section 255 Guidelines, and he frequently presents on accessible electronic and information technology and telecommunications. He is co-chair of the Education subcommittee of the Accessibility Community of Practice of the Chief Information Officers’ Council. He currently serves on the Disability Advisory Committee of the Federal Communications Commission.\
 \
