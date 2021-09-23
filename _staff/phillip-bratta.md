@@ -3,7 +3,7 @@ name: phillip-bratta
 first_name: Phillip
 last_name: Bratta
 full_name: Phillip Bratta
-image: /images/uploads/bratta-522x526.jpg
+image: /images/uploads/phil-bratta.jpg
 job-title: Technical Writer
 office: Office of Technical and Information Services
 agency: "United States Access Board "
