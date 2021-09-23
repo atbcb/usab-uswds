@@ -8,7 +8,7 @@ director: false
 image: /images/uploads/ab-seal.png
 job-title: Accessibility Specialist
 office: Office of Technical and Information Services
-agency: USAB
+agency: United States Access Board
 ---
 Josh Schorr is an Accessibility Specialist working for the U.S. Access-Board. Originally hired as a contractor to create animation guides helping explain ADA Standards in 2010, Josh began working directly for the U.S. Access-Board in 2019. After graduating from the University of Oregon with a Bachelor’s degree in Multimedia Design, he has spent his professional career working as a teacher and trainer. He has ranged from teaching middle school aged children videogame design, to creating training manuals and software for an alternative financial service, to teaching a course at George Washington University on 3D Motion Graphics.
 
