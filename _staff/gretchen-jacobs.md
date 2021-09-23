@@ -5,6 +5,7 @@ full_name: Gretchen Jacobs
 name: gretchen-jacobs
 office: Office of General Counsel
 director: true
-agency: USAB
+job-title: Director
+agency: United States Access Board
 ---
 [sample text]
