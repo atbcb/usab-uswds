@@ -3,11 +3,7 @@ layout: post
 title: "U.S. Access Board Holds Public Briefing on Study on the Feasibility of
   Wheelchair Securement Systems in Passenger Aircraft "
 date: 2021-09-23
-excerpt: "The U.S. Access Board held its public briefing on the results of a
-  Board-sponsored [Study on the Feasibility of Wheelchair Securement Systems on
-  Aircraft](https://www.access-board.gov/aircraft/) conducted by the
-  Transportation Research Board (TRB) yesterday. The event featured
-  presentations by . . . "
+excerpt: "The U.S. Access Board held a public briefing yesterday on the results of a Board-sponsored study on the feasibility of installing wheelchair securement systems on passenger aircraft conducted by the Transportation Research Board (TRB). The event featured presentations by . . . "
 image: /images/uploads/airplanedeparture.jpg
 image_alt_text: Airplane departing
 tags:
