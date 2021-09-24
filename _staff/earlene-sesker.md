@@ -1,10 +1,10 @@
----
-name: earlene-sesker
 first_name: Earlene
 last_name: Sesker
 full_name: Earlene Sesker
-job-title: Director
+name: earlene-sesker
 office: Office of Administration
-agency: "United States Access Board "
+director: true
+job-title: Director
+agency: United States Access Board
 ---
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.
+Earlene Sesker serves as the Director of the Administrative Services at the Access Board. In this position she oversees and coordinates all administrative activities of the Board including budget management, fiscal accounting, personnel, payroll services, contracts management, procurement, information technology, travel management, space and property management, records administration, policy development, and employee services. 

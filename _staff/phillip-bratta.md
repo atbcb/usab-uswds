@@ -1,6 +1,6 @@
 ---
 name: phillip-bratta
-first_name: Phillip
+first_name: Phil
 last_name: Bratta
 full_name: Phillip Bratta
 image: /images/uploads/phil-bratta.jpg
