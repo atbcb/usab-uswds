@@ -44,7 +44,6 @@ Building and life safety codes require that facilities provide accessible means 
 | ICC                         | 1.5              |
 | LA CES                      | 1.5              |
 
-\
 ### Speakers:
 
 [Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator, Senior Accessibility Specialist, **Office of Technical and Information Services**, **U.S. Access Board**
