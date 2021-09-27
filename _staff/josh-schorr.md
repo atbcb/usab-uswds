@@ -8,6 +8,6 @@ department: Office of Technical and Information Services
 first_name: Josh
 last_name: Schorr
 full_name: Josh Schorr
-image: /images/uploads/ab-seal.png
+image: ""
 office: Office of Technical and Information Services
 ---
