@@ -295,7 +295,8 @@ collections:
           required: false,
         }
       - { label: "Job Title", name: "job-title", widget: "string", required: false }
-      - { label: "Office", name: "office", widget: "string", required: false }
+      - { label: "Office", name: "office", widget: "select", options: [Office of Executive Director, Office of Technical and Information Services, Office of General Counsel, Office of Administration],
+         }
       - { label: "Agency", name: "agency", widget: "string", default: "United States Access Board", required: false }
       - { label: "Bio", name: "body", widget: "markdown", required: false }
   - label: 504 contacts
