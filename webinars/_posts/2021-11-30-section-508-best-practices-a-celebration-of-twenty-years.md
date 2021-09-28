@@ -12,7 +12,7 @@ excerpt: This year marks the 20th anniversary of the initial enforcement of the
   Department of Homeland Security (retired); Terry Weaver, General Services
   Administration (retired); John Sullivan, General Services Administration; and
   Sachin Pavithran, Executive Director of the U.S. Access Board. To allow more
-  time for the speakers, there will be no live question and answer session. This
+  time for the speakers, there will be no live question and answer session, but registrants may submit questions in advance. This
   webinar will include video remote interpreting (VRI) and real-time captioning.
   Webinar attendees can receive a participation certificate.
 presenters:
