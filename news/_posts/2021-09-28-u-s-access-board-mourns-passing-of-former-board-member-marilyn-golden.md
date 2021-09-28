@@ -11,7 +11,7 @@ excerpt: "With deep sorrow, the U.S. Access Board announces the passing of
 image: /images/uploads/marilyn-golden.jpg
 featured: true
 ---
-With deep sorrow, the U.S. Access Board announces the passing of former Board Member Marilyn Golden. Appointed to the Board in 1996 by President Bill Clinton, she was a member until 2005. Golden’s advocacy work on disability rights spanned four decades, and she had been serving as senior policy analyst for the Disability Rights Education & Defense Fund (DREDF) before her passing when she was surrounded by her family at her home on September 21, 2021. 
+With deep sorrow, the U.S. Access Board announces the passing of former Board Member Marilyn Golden. Appointed to the Board in 1996 by President Bill Clinton, she was a member until 2005. Golden's advocacy work on disability rights spanned four decades, and she had been serving as senior policy analyst for the Disability Rights Education & Defense Fund (DREDF) before her passing when she was surrounded by her family at her home on September 21, 2021. 
 
 “Marilyn was a true pillar of the Disability Rights Movement,” stated Access Board Executive Director Sachin Pavithran.  “Through her dynamic leadership and skilled advocacy, she played a major role in making our world a more inclusive place by shaping legislation and policy, crafting regulations and codes, and educating and mentoring countless others.”
 
