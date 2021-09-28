@@ -13,7 +13,7 @@ image_alt_text: Keyboard with Section 508 key highlighted in blue
 tags:
   - Communication & IT
   - Rulemaking
-featured: true
+featured: false
 ---
 On August 11, 2021, the Federal Acquisition Regulatory (FAR) Council issued a [final rule](https://www.federalregister.gov/documents/2021/08/11/2021-16363/federal-acquisition-regulation-section-508-based-standards-in-information-and-communication) updating the federal government's procurement regulations to officially incorporate the U.S. Access Board's [revised Section 508 Standards](https://www.access-board.gov/ict/). The FAR Council is comprised of the Administrator for Federal Procurement Policy and representatives from the Department of Defense, the General Services Administration, and the National Aeronautics and Space Administration. The FAR Council supplemented provisions in the Federal Acquisition Regulation (FAR) supporting the requirements for Information and Communication Technology (ICT) procured by federal agencies to be accessible. This update to the FAR went into effect **September 10, 2021**.
 
