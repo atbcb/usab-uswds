@@ -19,6 +19,7 @@ excerpt: Building and life safety codes require that facilities provide
   attendees can earn continuing education credits.
 presenters:
   - bill-botten
+  - Kim Paarlberg
 tags:
   - Building & Sites
   - ABA
