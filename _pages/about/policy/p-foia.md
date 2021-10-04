@@ -12,14 +12,15 @@ permalink: /about/policy/foia.html
 
 Welcome to the Access Board's Freedom of Information Act (FOIA) page.  We hope to provide you helpful information about the Access Board and about the [Freedom of Information Act](http://www.justice.gov/oip/foia_updates/Vol_XVII_4/page2.htm).  Below is a description of that Act, as well as a list of frequently asked questions (FAQs).
 
-> **FOIA Officer**  
-Frances Spiegel, Attorney Advisor  
-U.S. Access Board  
-1331 F Street NW, Suite 1000  
-Washington, DC  20004  
-202-272-0041 (voice)  
-202-272-0081 (fax)  
-<foia@access-board.gov>
+### FOIA Officer
+
+> Frances Spiegel, Attorney Advisor  
+> U.S. Access Board  
+> 1331 F Street NW, Suite 1000  
+> Washington, DC&nbsp; 20004  
+> 202-272-0041 (voice)  
+> 202-272-0081 (fax)  
+> <foia@access-board.gov>
 
 ## The Freedom of Information Act
 
