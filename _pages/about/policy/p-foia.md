@@ -44,15 +44,15 @@ It is important to understand that there is no central office in the government 
 Individuals wishing to file a FOIA request must write a letter to submit a FOIA request. Address your letter to:
 
 > FOIA Officer  
-U.S. Access Board  
-1331 F Street NW, Suite 1000  
-Washington, DC  20004
+> U.S. Access Board  
+> 1331 F Street NW, Suite 1000  
+> Washington, DC&nbsp; 20004
 
-You may also fax your letter to: 202-272-0081, or send your request by e-mail to:  foia@access-board.gov.
+You may also fax your letter to: 202-272-0081, or send your request by e-mail to:&nbsp; <foia@access-board.gov>.
 
 *4. Do I need to submit a particular form to request documents under FOIA?*
 
-No.  However, in order to process your request, you need to reasonably describe the records you are looking for, providing as much information as possible (in order for the Access Board to search for them). The Access Board may also contact you to request that you provide more detail.
+No.&nbsp; However, in order to process your request, you need to reasonably describe the records you are looking for, providing as much information as possible (in order for the Access Board to search for them). The Access Board may also contact you to request that you provide more detail.
 
 *5. Is there a fee to submit a FOIA request?*
 
@@ -80,7 +80,7 @@ The FOIA Act gives the Access Board a minimum of 20 working days (that's excludi
 
 *7. What if I have concerns about the processing of my FOIA request or about the response I receive to my FOIA request?*
 
-If you have questions or concerns about the status or processing of your request, you may call the FOIA officer, at 202-272-0046.  The FOIA Officer is available to assist you in answering questions that you have about your request.
+If you have questions or concerns about the status or processing of your request, you may [email](email:foia@access-board.gov) or call the FOIA officer, at 202-272-0041.&nbsp; The FOIA Officer is available to assist you in answering questions that you have about your request.
 
 ___
 
@@ -88,7 +88,9 @@ ___
 
 -   [Chief FOIA Officer Report]({{ site.baseurl }}/about/foia-cfor.html)
 -   [FOIA Annual Report]({{ site.baseurl }}/about/foia-report.html)
-{% comment %} -   [FOIA Annual Report FY 2018](https://www.access-board.gov/the-board/policies/freedom-of-information-act-foia/foia-annual-report-fy-2018)
+{% comment %}
+-   [FOIA Annual Report FY 2018](https://www.access-board.gov/the-board/policies/freedom-of-information-act-foia/foia-annual-report-fy-2018)
 -   [FOIA Annual Report FY 2017](https://www.access-board.gov/the-board/policies/freedom-of-information-act-foia/foia-annual-report-fy-2017)
 -   [FOIA Annual Report FY 2016](https://www.access-board.gov/the-board/policies/freedom-of-information-act-foia/foia-annual-report-fy-2016)
--   [FOIA Annual Report FY 2015](https://www.access-board.gov/the-board/policies/freedom-of-information-act-foia/foia-annual-report-fy-2015) {% endcomment %}
+-   [FOIA Annual Report FY 2015](https://www.access-board.gov/the-board/policies/freedom-of-information-act-foia/foia-annual-report-fy-2015)
+{% endcomment %}
