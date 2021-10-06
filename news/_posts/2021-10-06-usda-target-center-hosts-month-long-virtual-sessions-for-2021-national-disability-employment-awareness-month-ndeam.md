@@ -6,7 +6,7 @@ date: 2021-10-06
 excerpt: "During the month of October, the U.S. Department of Agriculture (USDA)
   Technology & Accessible Resources Give Employment Today (TARGET) Center is
   hosting a series of virtual sessions on understanding disability‑related
-  initiatives, current trends, and new technology that "
+  initiatives, current trends, and new technology that . . . "
 image: /images/uploads/2021-NDEAM-Eng-800x418.jpg
 image_alt_text: "Image of map of United States with about 100 people populated
   within it and text that reads \"America's Recovery: Powered by Inclusion\""
