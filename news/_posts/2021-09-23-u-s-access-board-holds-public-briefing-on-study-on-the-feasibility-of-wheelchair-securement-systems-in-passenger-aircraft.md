@@ -9,7 +9,7 @@ image_alt_text: Airplane departing
 tags:
   - events
   - research
-featured: true
+featured: false
 ---
 The U.S. Access Board held a public briefing yesterday on the results of a Board-sponsored study on the feasibility of installing wheelchair securement systems on passenger aircraft conducted by the Transportation Research Board (TRB). The event featured presentations by the TRB Study Committee Members: Chair Dr. Alan M. Jette, Professor and Dean Emeritus of Boston University; Gary Weissel, Founder and Managing Officer of Tronos Aviation Consulting; Naomi Armenta, Principal Planner at Nelson/Nygaard; and Miriam Manary, Lead Research Engineer of University of Michigan Transportation Research Institute (UMTRI). Presenters discussed the findings and recommendations from their two-year research study and final report, [“Technical Feasibility of a Wheelchair Securement Concept for Airline Travel: A Preliminary Assessment.”](https://www.access-board.gov/files/research/trb-final-report-sept2021.pdf) (PDF, 6MB) 
 
