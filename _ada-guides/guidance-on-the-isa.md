@@ -1,6 +1,6 @@
 ---
 title: "Guidance on the International Symbol of Accessibility"
-order-number:  699
+order-number: 699
 file: /files/ada/guides/ISA-guidance.pdf
 file-description: PDF version of ISA Guidance
 redirect_from: 
