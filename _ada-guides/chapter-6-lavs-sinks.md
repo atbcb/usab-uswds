@@ -14,9 +14,9 @@ The Standards cover access to sink and to lavatories, which are sinks used for h
 Where sinks are provided in accessible rooms or spaces, at least 5%, but no less than one, of each type must comply. This provision applies to sinks in breakrooms, kitchens and kitchenettes, classrooms, and other spaces required to be accessible. Mop or service sinks, which are intended to be used for janitorial or maintenance purposes, are exempt. Other types of sinks used only by employees to perform work are not required to comply (§203.9), although compliance is advisable.
 
 <figure class="img-center">
-  <img src="({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/lab.jpg){: .img-large }" alt="A classroom lab with individual sink stations, including sinks and work surfaces with forward approach access." class="center">
+  <img src="({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/lab.jpg)" alt="A classroom lab with individual sink stations, including sinks and work surfaces with forward approach access." class="center">
   <figcaption style="text-align:center">
-    <em><q>At least 5% of sinks, but no less than one sink of each type, must comply in each accessible room or space, such as classroom labs (§212.3). At least 5% of work surfaces must also comply (§226.1). <br>
+    At least 5% of sinks, but no less than one sink of each type, must comply in each accessible room or space, such as classroom labs (§212.3). At least 5% of work surfaces must also comply (§226.1).
   </figcaption>
 </figure>
 
