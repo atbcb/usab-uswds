@@ -36,19 +36,24 @@ Specifications for lavatories address clear floor space for a forward approach, 
 
 Sinks are subject to the same criteria as lavatories, but some sinks are permitted a parallel approach instead of a forward approach. In kitchens, kitchenettes, and breakrooms without a cooktop or conventional range, a parallel approach is permitted at kitchen sinks (§606.2, Ex. 1). A parallel approach is also permitted at wet bars (i.e., bars or counters that have sinks with running water and are used for mixing drinks). Where multi-bowl sinks are provided, only one bowl must comply with knee and toe space clearance (§606.2, Ex. 7).
 
-![A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Clear floor space for a parallel approach in front of the sink is highlighted.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png){: .img-large }
+<figure class="img-center">
+  <img src="({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png)" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Clear floor space for a parallel approach in front of the sink is highlighted." class="center">
+  <figcaption style="text-align:center">
+     <em>A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).<em>
+  </figcaption>
+</figure>
 
-A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).
-
+<div class="clearfix border" style="padding: 5px;" markdown="1">
 {% include recommendation.html text="When a parallel approach is permitted to a kitchen sink, it is advisable to provide a forward approach for greater usability. An option is to install cabinet doors that can be opened to provide a forward approach. Make sure that slide-in doors do not obstruct the required clear floor space. However, where a forward approach is required, it is important that the knee and toe space that the knee and toe space remain clear." %}
 
 ![A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Base kitchen cabinet with pocket doors open to provide a forward approach to sink.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-no_cfs.png){: .img-large }
-
+</div>
+    
 ### Lavatories and Sinks in Residential Dwelling Units [§606.2, §606.3]
 
 In mobility accessible dwelling units, lavatories and sinks must comply. Additional exceptions are permitted for fixtures in these facilities.
 
-Exceptions for Lavatories and Sinks in Residential Dwelling Units
+**Exceptions for Lavatories and Sinks in Residential Dwelling Units**<center>
 
 ![Single-user toilet room with undermounted lavatory. Base cabinetry is partially removed to show finish floor and wall. Note: Lavatory knee and toe space: Cabinetry is permitted under lavatories if it can be taken out without removal or replacement of the fixture, the finish floor extends beneath it, and the walls behind and surrounding the cabinetry are finished (§606.2, exception 3).]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/2.jpg){: .img-large }
 
@@ -62,11 +67,14 @@ Specifications based on children's dimensions may be followed when lavatories or
 
 A parallel approach is permitted to lavatories or sinks used primarily by children 5 and younger (§606.2, Ex. 5). For this age group, the standard fixture height is too low to accommodate a forward approach.
 
-Sink for Children Ages 5 and Younger
+**Sink for Children Ages 5 and Younger**
 
-![A 5-year-old child using a wheelchair is positioned for a parallel approach to a sink at counter with base cabinetry.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/child_at_sink.jpg){: .img-large }
-
-A parallel approach is permitted at sinks and lavatories for children 5 and younger.
+<figure class="img-center">
+  <img src="({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/child_at_sink.jpg)" alt="A 5-year-old child using a wheelchair is positioned for a parallel approach to a sink at counter with base cabinetry." class="center">
+  <figcaption style="text-align:center">
+     <em>A parallel approach is permitted at sinks and lavatories for children 5 and younger.<em>
+  </figcaption>
+</figure>
 
 A forward approach is required at lavatories and sinks primarily used by children 6 through 12. However, a lower knee clearance (24" minimum) is permitted if the rim or counter surface is no higher than 31" above the finish floor or ground (§606.2, Ex. 4).
 
