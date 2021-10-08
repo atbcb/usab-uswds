@@ -1,5 +1,5 @@
 ---
-title: "Washing Machines and Clothes Dryers"
+title: "Chapter 6: Washing Machines and Clothes Dryers"
 order-number: 611
 file:  /files/ada/guides/washers.pdf
 file-description: PDF version of Chapter 6 Washing Machines and Clothes Dryers Guide
