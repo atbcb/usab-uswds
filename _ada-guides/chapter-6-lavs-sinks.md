@@ -25,7 +25,7 @@ Specifications for lavatories address clear floor space for a forward approach, 
 
 ![An elongated lavatory with a two-lever manual faucet. ](./img/lavs-sinks/hospital_sink.png)
 
-{% include recommendation.html text="Standard size lavatories should be used instead of elongated fixtures that project significantly from walls. Elongated sinks require a greater reach to faucets and controls and reduce available maneuvering space. %}
+{% include recommendation.html text="Standard size lavatories should be used instead of elongated fixtures that project significantly from walls. Elongated sinks require a greater reach to faucets and controls and reduce available maneuvering space." %}
 
 ### Sinks [§606]
 
@@ -35,7 +35,7 @@ Sinks are subject to the same criteria as lavatories, but some sinks are permitt
 
 A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).
 
-{% include recommendation.html text="When a parallel approach is permitted to a kitchen sink, it is advisable to provide a forward approach for greater usability. An option is to install cabinet doors that can be opened to provide a forward approach. Make sure that slide-in doors do not obstruct the required clear floor space. However, where a forward approach is required, it is important that the knee and toe space that the knee and toe space remain clear. %}
+{% include recommendation.html text="When a parallel approach is permitted to a kitchen sink, it is advisable to provide a forward approach for greater usability. An option is to install cabinet doors that can be opened to provide a forward approach. Make sure that slide-in doors do not obstruct the required clear floor space. However, where a forward approach is required, it is important that the knee and toe space that the knee and toe space remain clear." %}
 
 ![A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Base kitchen cabinet with pocket doors open to provide a forward approach to sink. ](./img/lavs-sinks/kitchenette_-_no_cfs.png)
 
@@ -81,11 +81,15 @@ In single-occupant toilet rooms or bathrooms accessed only through a private off
 
 Knee and toe space must be at least 30" wide and 17" to 25" deep from the leading edge of the clear floor space. These specified clearances allow space for plumbing, enclosures, and supports outside the minimum clearances. No object may protrude into the required clearances other than the dip of the overflow.
 
-![A perspective diagram of knee and toe space and clear floor space. The leading edge of the knee and toe space clearance is labeled and highlighted. Floor dimensions for knee and toe space are 30 inches wide min. and 17 to 25 inches deep max. from leading edge of clear floor space. Note: No protrusions into minimum space permitted other than dip of overflow.  ](./img/lavs-sinks/5.jpg) ![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow. ](./img/lavs-sinks/6.jpg)
+![A perspective diagram of knee and toe space and clear floor space. The leading edge of the knee and toe space clearance is labeled and highlighted. Floor dimensions for knee and toe space are 30 inches wide min. and 17 to 25 inches deep max. from leading edge of clear floor space. Note: No protrusions into minimum space permitted other than dip of overflow.](./img/lavs-sinks/5.jpg
+
+![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow. ](./img/lavs-sinks/6.jpg)
 
 Beyond a depth of 8" measured from the leading edge, the 27" minimum high knee clearance can reduce 18" to a height of 9" minimum (toe space) over a 3" span (6:1 slope). When the knee and toe is deeper than 17", the additional depth must provide full knee clearance at least 27" high.
 
-![Side view diagram of knee and toe space, showing toe space 9 inches high and 6 inches deep max. The knee space slopes up 18 inches from the 9 inches height to a 27 inches height over a 3 inch horizontal span (6:1 ratio). The knee space is 8 inches deep at a full height of 27 inches (for a depth of 11 inches for knee space and a total depth of 17 inches including the 6 inch toe space). ](./img/lavs-sinks/7.jpg) ![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep max. with additional depth (beyond the minimum knee and toe space) providing full knee clearance. ](./img/lavs-sinks/8.png)
+![Side view diagram of knee and toe space, showing toe space 9 inches high and 6 inches deep max. The knee space slopes up 18 inches from the 9 inches height to a 27 inches height over a 3 inch horizontal span (6:1 ratio). The knee space is 8 inches deep at a full height of 27 inches (for a depth of 11 inches for knee space and a total depth of 17 inches including the 6 inch toe space). ](./img/lavs-sinks/7.jpg)
+
+![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep max. with additional depth (beyond the minimum knee and toe space) providing full knee clearance. ](./img/lavs-sinks/8.png)
 
 ### Knee and Toe Space and Reach Depth
 
@@ -99,7 +103,9 @@ To avoid issues with garbage disposals protruding into knee and toe space, use a
 
 The maximum reach of 48" is reduced to 44" when the depth of the forward reach over an obstruction exceeds 20".
 
-![Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over countertop.  Dimensions show  48 inches max. reach height above obstruction (counter) if reach depth is 20 inches max. ](./img/lavs-sinks/10.jpg) ![Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over a deep countertop. Dimensions show 44 inches max. reach height above obstruction (counter) if reach depth is greater than 20 inches (25 inches max.). ](./img/lavs-sinks/11.jpg)
+![Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over countertop.  Dimensions show  48 inches max. reach height above obstruction (counter) if reach depth is 20 inches max. ](./img/lavs-sinks/10.jpg)
+
+![Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over a deep countertop. Dimensions show 44 inches max. reach height above obstruction (counter) if reach depth is greater than 20 inches (25 inches max.). ](./img/lavs-sinks/11.jpg)
 
 {% include recommendation.html text="Towel dispensers should be usable at the accessible lavatory so that people do not need to operate mobility devices with wet hands. Make sure that dispensers or any other elements do not overlap the lavatory clear floor space outside the designated knee and toe space." %}
 
@@ -125,7 +131,7 @@ Motion-activated or touch-free faucets and dispensers provide easier access and 
 
 To avoid injury or burns, water supply and drainage pipes under lavatories and sinks must be insulated, enclosed, or configured to prevent contact. There cannot be sharp or abrasive surfaces under lavatories and sinks. Enclosure of pipes and surfaces must comply with knee and toe space clearance.
 
-{% include recommendation.html text="Where multiple lavatories are provided, insulate pipes at each lavatory since it may not be apparent which fixture is compliant. %}
+{% include recommendation.html text="Where multiple lavatories are provided, insulate pipes at each lavatory since it may not be apparent which fixture is compliant." %}
 
 ### Common Questions
 
