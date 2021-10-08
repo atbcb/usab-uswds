@@ -1,4 +1,4 @@
-This directory contains Guide to the ADA Accessibility Standards.
+This directory contains Guide to the ADA Accessibility Standards.&nbsp;
 Each guide is a Markdown files, and there multiple guides per file.
 
-The images folder contains images used for the guides.
+The `img` folder contains images used for some of the guides.
