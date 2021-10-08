@@ -167,7 +167,7 @@ The Standards do not specify where sinks or lavatories must be designed specific
 
 No. Only the dip of the overflow is permitted within the required knee and toe clearance.
 
-#### Does space beyond the 6" maximum toe space need to be enclosed?
+#### Does space beyond the 6&Prime; maximum toe space need to be enclosed?
 
 No, it does not need to be enclosed. Open space beyond the 6" maximum toe space is permitted.
 
