@@ -26,9 +26,11 @@ Specifications for lavatories address clear floor space for a forward approach, 
 
 ![Wall-mounted lavatory with mirror and highlighted clear floor space. Notes: faucets (§606.4) to comply as operable parts, mirror height (§603.3) measured to the bottom of the reflecting surface (40 inches maximum), lavatory height (§606.3) measured to the rim or counter, whichever is higher (34 inches maximum), exposed plumbing (§606.5) protected against contact, and clear floor space (§606.3) for a forward approach. ]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/1.jpg){: .img-large }
 
+<div class="clearfix border" style="padding: 5px;" markdown="1">
 ![An elongated lavatory with a two-lever manual faucet. ]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/hospital_sink.png){: .img-large }
 
 {% include recommendation.html text="Standard size lavatories should be used instead of elongated fixtures that project significantly from walls. Elongated sinks require a greater reach to faucets and controls and reduce available maneuvering space." %}
+</div>
 
 ### Sinks [§606]
 
