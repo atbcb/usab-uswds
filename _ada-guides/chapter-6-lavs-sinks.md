@@ -16,7 +16,7 @@ Where sinks are provided in accessible rooms or spaces, at least 5%, but no less
 <figure class="img-center">
   <img src="({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/lab.jpg)" alt="A classroom lab with individual sink stations, including sinks and work surfaces with forward approach access." class="center">
   <figcaption style="text-align:center">
-    At least 5% of sinks, but no less than one sink of each type, must comply in each accessible room or space, such as classroom labs (§212.3). At least 5% of work surfaces must also comply (§226.1).
+    <em>At least 5% of sinks, but no less than one sink of each type, must comply in each accessible room or space, such as classroom labs (§212.3). At least 5% of work surfaces must also comply (§226.1).</em>
   </figcaption>
 </figure>
 
@@ -39,7 +39,7 @@ Sinks are subject to the same criteria as lavatories, but some sinks are permitt
 <figure class="img-center">
   <img src="({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png)" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Clear floor space for a parallel approach in front of the sink is highlighted." class="center">
   <figcaption style="text-align:center">
-     <em>A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).<em>
+     <em>A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).</em>
   </figcaption>
 </figure>
 
@@ -56,7 +56,8 @@ In mobility accessible dwelling units, lavatories and sinks must comply. Additio
 **Exceptions for Lavatories and Sinks in Residential Dwelling Units**<center>
 
 ![Single-user toilet room with undermounted lavatory. Base cabinetry is partially removed to show finish floor and wall. Note: Lavatory knee and toe space: Cabinetry is permitted under lavatories if it can be taken out without removal or replacement of the fixture, the finish floor extends beneath it, and the walls behind and surrounding the cabinetry are finished (§606.2, exception 3).]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/2.jpg){: .img-large }
-
+<br>
+  </br>
 Kitchen sinks that are adjustable to 29" minimum and 36" maximum height are allowed if rough-in plumbing permits connections of supply and drainage pipes for sinks mounted at 29" high (§606.3, Ex. 2).
 
 ![A residential dwelling unit kitchen with base cabinetry and conventional range. Open space beneath kitchen sink provides clearance for a forward approach.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchen.png){: .img-large }
@@ -72,13 +73,13 @@ A parallel approach is permitted to lavatories or sinks used primarily by childr
 <figure class="img-center">
   <img src="({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/child_at_sink.jpg)" alt="A 5-year-old child using a wheelchair is positioned for a parallel approach to a sink at counter with base cabinetry." class="center">
   <figcaption style="text-align:center">
-     <em>A parallel approach is permitted at sinks and lavatories for children 5 and younger.<em>
+     <em>A parallel approach is permitted at sinks and lavatories for children 5 and younger.</em>
   </figcaption>
 </figure>
 
 A forward approach is required at lavatories and sinks primarily used by children 6 through 12. However, a lower knee clearance (24" minimum) is permitted if the rim or counter surface is no higher than 31" above the finish floor or ground (§606.2, Ex. 4).
 
-Clear Floor or Ground Space [§606.2, §305]
+### Clear Floor or Ground Space [§606.2, §305]
 
 Clear floor space at lavatories and most sinks must provide a forward approach and include knee and toe space clearance. It is advisable, but not required, that the clear floor space be centered under the fixture. The knee and toe space must underlie the bowl, faucet controls, and other operable parts of the fixture with must be 17" to 25" deep. If the clear floor space is obstructed on both sides for more than half the depth, such as with alcoves, additional clearance is required for maneuvering.
 
@@ -88,7 +89,7 @@ Clear floor space at lavatories and most sinks must provide a forward approach a
 
 No element, including towel dispensers, hand dryers, etc., can overlap the clear floor space outside the designated knee and toe space.
 
-Private Office Toilet and Bathing Facilities
+**Private Office Toilet and Bathing Facilities**
 
 In single-occupant toilet rooms or bathrooms accessed only through a private office and not for common or public use, lavatories do not have to meet height or knee and toe space requirements (§606.2, Ex. 2, §606.3, Ex. 1). Where cabinetry is provided below lavatories, it is advisable that cabinetry be readily removable with finish floor below and finished walls behind it, similar to requirements for lavatories in residential dwelling units.
 
