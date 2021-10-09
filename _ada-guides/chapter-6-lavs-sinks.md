@@ -14,7 +14,10 @@ The Standards cover access to sink and to lavatories, which are sinks used for h
 Where sinks are provided in accessible rooms or spaces, at least 5%, but no less than one, of each type must comply. This provision applies to sinks in breakrooms, kitchens and kitchenettes, classrooms, and other spaces required to be accessible. Mop or service sinks, which are intended to be used for janitorial or maintenance purposes, are exempt. Other types of sinks used only by employees to perform work are not required to comply (§203.9), although compliance is advisable.
 
 ![A classroom lab with individual sink stations, including sinks and work surfaces with forward approach access.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/lab.jpg){: .img-large}
-<p class="text-italic text-center margin-6">At least 5% of sinks, but no less than one sink of each type, must comply in each accessible room or space, such as classroom labs (§212.3). At least 5% of work surfaces must also comply (§226.1).</p>
+
+<div class="margin-left-8 margin-right-8 text-center" markdown="1">
+_At least 5% of sinks, but no less than one sink of each type, must comply in each accessible room or space, such as classroom labs (§212.3). At least 5% of work surfaces must also comply (§226.1)._
+</div>
 
 ### Lavatories [§606]
 
@@ -33,7 +36,10 @@ Specifications for lavatories address clear floor space for a forward approach, 
 Sinks are subject to the same criteria as lavatories, but some sinks are permitted a parallel approach instead of a forward approach. In kitchens, kitchenettes, and breakrooms without a cooktop or conventional range, a parallel approach is permitted at kitchen sinks (§606.2, Ex. 1). A parallel approach is also permitted at wet bars (i.e., bars or counters that have sinks with running water and are used for mixing drinks). Where multi-bowl sinks are provided, only one bowl must comply with knee and toe space clearance (§606.2, Ex. 7).
 
 ![A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Clear floor space for a parallel approach in front of the sink is highlighted.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png){: .img-large}
-<p class="text-italic text-center margin-6">A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).</p>
+
+<div class="margin-left-8 margin-right-8 text-center" markdown="1">
+_A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1)._
+</div>
 
 <div class="border padding-1 clearfix">
     <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-no_cfs.png" class="img-right" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Base kitchen cabinet with pocket doors open to provide a forward approach to sink.">
