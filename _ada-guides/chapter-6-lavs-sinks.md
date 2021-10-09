@@ -32,12 +32,8 @@ Specifications for lavatories address clear floor space for a forward approach, 
 
 Sinks are subject to the same criteria as lavatories, but some sinks are permitted a parallel approach instead of a forward approach. In kitchens, kitchenettes, and breakrooms without a cooktop or conventional range, a parallel approach is permitted at kitchen sinks (§606.2, Ex. 1). A parallel approach is also permitted at wet bars (i.e., bars or counters that have sinks with running water and are used for mixing drinks). Where multi-bowl sinks are provided, only one bowl must comply with knee and toe space clearance (§606.2, Ex. 7).
 
-<figure class="img-center">
-  <img src="({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png)" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Clear floor space for a parallel approach in front of the sink is highlighted." class="center">
-  <figcaption style="text-align:center">
-     <em>A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).</em>
-  </figcaption>
-</figure>
+![A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Clear floor space for a parallel approach in front of the sink is highlighted.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png){: .img-large}
+<p class="text-italic text-center margin-6">A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).</p>
 
 <div class="border padding-1 clearfix">
     <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-no_cfs.png" class="img-right" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Base kitchen cabinet with pocket doors open to provide a forward approach to sink.">
