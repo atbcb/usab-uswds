@@ -28,7 +28,7 @@ The Standards address both top-loading and front-loading washing machines and cl
 
 ### Clear Floor Space [§611.2]
 
-Clear floor space must be centered on the appliance and positioned for a parallel approach. Enclosures, including doors when open, cannot overlap or obstruct the clear floor space. Where clear floor space is recessed in alcoves and confined on three sides, additional maneuvering clearance is required. (See the Clear Floor or Ground Space and Turning Space Guide)
+Clear floor space must be centered on the appliance and positioned for a parallel approach. Enclosures, including doors when open, cannot overlap or obstruct the clear floor space. Where clear floor space is recessed in alcoves and confined on three sides, additional maneuvering clearance is required. (See the [Clear Floor or Ground Space and Turning Space Guide](https://www.access-board.gov/ada/guides/chapter-3-clear-floor-or-ground-space-and-turning-space/))
 
 ![Plan view of highlighted clear floor space centered on dryer and dimensions 30 inches minimum by 48 inches minimum measured for clear floor space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/3.png)
 <p class="text-italic text-center margin-6">Clear floor space must comply with §305 and be centered on each appliance.</p>
@@ -46,19 +46,32 @@ Height of top-loading machines must be 36" maximum above the finish floor. For f
 
 ### Operable Parts [§611.3, §309]
 
-![Perspective view of person using wheelchair in front of a top-loading washing machine and reaching over the closed door to use the rear controls.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/washer_controls.png)
-
-Operable parts of machines, including controls, doors, detergent and bleach compartments, and lint screens must comply. They also must be within accessible reach range and usable with one hand and without tight grasping, pinching, twisting of the wrist, or more than 5 pounds force.
-
-Coin slides or payment units need to comply with operable parts requirements. Change machines and vending machines also must comply (§228.1).
+<div class="grid-container">
+    <div class="grid-row">
+        <div class="tablet:grid-col">
+            <p>Operable parts of machines, including controls, doors, detergent and bleach compartments, and lint screens must comply. They also must be within accessible reach range and usable with one hand and without tight grasping, pinching, twisting of the wrist, or more than 5 pounds force.</p>
+<p>Coin slides or payment units need to comply with operable parts requirements. Change machines and vending machines also must comply (§228.1).</p>
+        </div>
+        <div class="tablet:grid-col">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/washers/washer_controls.png" alt="Perspective view of person using wheelchair in front of a top-loading washing machine and reaching over the closed door to use the rear controls.">
+        </div>
+    </div>
+</div>
 
 {% include recommendation.html text="To accommodate people who have visual impairments, operable parts should be discernable by touch or sound without activation." %}
 
 ### Obstructed Side Reach and Unit Height [§308]
 
-![Side-Elevation view of washing machine with a person using a wheelchair positioned for a parallel approach at a top-loading washer and reaching to use rear controls.  Dimensions show 24 inches max. between the leading edge of the washer and control panel and 36 inches max. height of washer, excluding the controls.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/5.jpg)
-
-Although top-loading washing machines create an obstruction for users with side reach to operable parts, washing machines and clothes dryers are permitted to be 36" maximum in height above the finish floor (§308.3.2, Ex. 1). The side reach for parallel approach is 24" maximum depth.
+<div class="grid-container">
+    <div class="grid-row">
+        <div class="tablet:grid-col">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/washers/5.jpg" alt="Side-Elevation view of washing machine with a person using a wheelchair positioned for a parallel approach at a top-loading washer and reaching to use rear controls.  Dimensions show 24 inches max. between the leading edge of the washer and control panel and 36 inches max. height of washer, excluding the controls.">
+        </div>
+        <div class="tablet:grid-col">
+            <p> Although top-loading washing machines create an obstruction for users with side reach to operable parts, washing machines and clothes dryers are permitted to be 36" maximum in height above the finish floor (§308.3.2, Ex. 1). The side reach for parallel approach is 24" maximum depth.</p>
+        </div>
+    </div>
+</div>
 
 {% include recommendation.html text="Recommendation: Washers and dryers with controls, including coin slides or payment units, located at the front of the machine provide easier access and accommodate a broader range of users." %}
 
