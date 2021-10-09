@@ -4,8 +4,7 @@ order-number: 611
 file:  /files/ada/guides/washers.pdf
 file-description: PDF version of Chapter 6 Washing Machines and Clothes Dryers Guide
 ---
-
-This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for Washing Machines and Clothes Dryers. 
+This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for Washing Machines and Clothes Dryers.
 
 ![washer icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/1.png){: .img-right }
 
