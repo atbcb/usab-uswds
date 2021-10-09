@@ -34,7 +34,10 @@ Clear floor space must be centered on the appliance and positioned for a paralle
 <p class="text-italic text-center margin-6">Clear floor space must comply with §305 and be centered on each appliance.</p>
 
 ![Elevated perspective view of washers and dryers in recessed area with open bifold doors.  A clear floor space is centered at each appliance, and the two clear floor spaces partially overlap in the center. The opened doors are located outside of both clear floor spaces.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/overlapping_cfs.jpg)
-<p class="text-italic text-center margin-6">Centered clear floor spaces for each machine may partially overlap.</p>
+
+<div class="margin-left-8 margin-right-8 text-center" markdown="1">
+_Centered clear floor spaces for each machine may partially overlap._
+</div>
 
 ### Height [§611.4]
 
