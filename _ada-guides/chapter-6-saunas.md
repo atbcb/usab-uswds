@@ -4,9 +4,9 @@ order-number: 612
 file:  /files/ada/guides/saunas.pdf
 file-description: PDF version of Chapter 6 Saunas and Steam Rooms Guide
 ---
-This guide explains scoping and technical requirements for saunas and steam rooms in the [ADA Standards]({{ site.baseurl }}/ada/) for Saunas and Steam Rooms.
+This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for for Saunas and Steam Rooms.
 
-![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/sauna.png){: img-right }
+![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/sauna.png){: .img-right }
 
 #### Required Compliance [§241]
 
