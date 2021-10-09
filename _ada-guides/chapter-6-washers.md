@@ -31,7 +31,10 @@ The Standards address both top-loading and front-loading washing machines and cl
 Clear floor space must be centered on the appliance and positioned for a parallel approach. Enclosures, including doors when open, cannot overlap or obstruct the clear floor space. Where clear floor space is recessed in alcoves and confined on three sides, additional maneuvering clearance is required. (See the [Clear Floor or Ground Space and Turning Space Guide](https://www.access-board.gov/ada/guides/chapter-3-clear-floor-or-ground-space-and-turning-space/))
 
 ![Plan view of highlighted clear floor space centered on dryer and dimensions 30 inches minimum by 48 inches minimum measured for clear floor space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/3.png)
-<p class="text-italic text-center margin-6">Clear floor space must comply with §305 and be centered on each appliance.</p>
+
+<div class="margin-left-8 margin-right-8 text-center" markdown="1">
+_Clear floor space must comply with §305 and be centered on each appliance._
+</div>
 
 ![Elevated perspective view of washers and dryers in recessed area with open bifold doors.  A clear floor space is centered at each appliance, and the two clear floor spaces partially overlap in the center. The opened doors are located outside of both clear floor spaces.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/overlapping_cfs.jpg)
 
