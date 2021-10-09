@@ -28,15 +28,21 @@ Wheelchair turning space is required in accessible saunas and steam rooms. This 
 
 Seating in saunas and steam rooms must have at least one compliant bench when seating is provided. The accessible bench must be fixed or built in. Unobstructed clear floor space 30" minimum by 48" minimum is required at the end of the bench and parallel to the short side of the bench. Doors cannot swing into this space. Other readily removable benches may obstruct the clear floor space of the accessible bench, but it is advisable that they be placed outside this space.
 
-![Elevated perspective view of fixed bench inside a sauna. A highlighted clear floor space is adjacent to the bench and labeled dimensions of 30 inches deep minimum and 48 inches wide minimum.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/2.jpg)
-
-Clear Floor Space is required at the end of the bench and parallel to the short axis of the bench.
+![Elevated perspective view of fixed bench inside a sauna. A highlighted clear floor space is adjacent to the bench and labeled dimensions of 30 inches deep minimum and 48 inches wide minimum.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/2.jpg){: .img-large}
+<p class="text-italic text-center margin-6">Clear Floor Space is required at the end of the bench and parallel to the short axis of the bench.</p>
 
 The seat of the bench must be 42" long minimum, 20" to 24" deep, and 17" to 19" high. Walls may be used as back support for the bench. Benches not fixed to the wall must provide back support that is 42" long minimum, extends from a point 2" maximum above the seat surface to a point 18" minimum above the seat surface, and is 2½" maximum from the rear edge of the seat measured horizontally (§903.4).
 
-![Side view of a wooden bench with slats on the seat and back rest, and a zoomed-in inset of the portion where the seating connects to the back support. Dimensions show the floor or ground to the top of the seating surface is 17 inches to 19 inches; the leading edge of the seat to the back support is 20 inches to 24 inches; and the top of the back support to surface of the seating slats is 18 inches minimum. The inset image shows dimensions of 2 inches maximum from the top surface of seating slat to the bottom edge of back support slat; and a 2 ½ inches maximum from rear edge of seating slat to front of back support slat.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/3.png)
-
-![Elevated perspective view of bench fixed to the wall inside a sauna. Dimensions show 42 inches minimum length of the seat and 42 inches minimum length of the wall acting as back support.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/4.png)
+<div class="grid-container">
+    <div class="grid-row">
+        <div class="tablet:grid-col">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/3.png" alt="Side view of a wooden bench with slats on the seat and back rest, and a zoomed-in inset of the portion where the seating connects to the back support. Dimensions show the floor or ground to the top of the seating surface is 17 inches to 19 inches; the leading edge of the seat to the back support is 20 inches to 24 inches; and the top of the back support to surface of the seating slats is 18 inches minimum. The inset image shows dimensions of 2 inches maximum from the top surface of seating slat to the bottom edge of back support slat; and a 2 ½ inches maximum from rear edge of seating slat to front of back support slat.">
+        </div>
+        <div class="tablet:grid-col">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/4.png" alt="Elevated perspective view of bench fixed to the wall inside a sauna. Dimensions show 42 inches minimum length of the seat and 42 inches minimum length of the wall acting as back support.">
+        </div>
+    </div>
+</div>
 
 The structural strength of benches and back support must withstand a vertical or horizontal force of 250 lbs. In wet locations, the surface of the seat must be slip resistant and not accumulate water.
 
