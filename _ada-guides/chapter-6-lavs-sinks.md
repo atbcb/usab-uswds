@@ -180,7 +180,6 @@ Faucet controls, soap dispensers, and other elements that require manual operati
     <div class="grid-row">
         <div class="tablet:grid-col">
             <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/faucet-auto.png" alt=" Close-up view of faucet with motion-activated sensor.">
-          <p> Motion-activated or touch-free faucets and dispensers provide easier access and accommodate a broader range of users. This type of control does not have to remain active for a minimum amount of time.</p>
         </div>
         <div class="tablet:grid-col">
             <p> Motion-activated or touch-free faucets and dispensers provide easier access and accommodate a broader range of users. This type of control does not have to remain active for a minimum amount of time.</p>
