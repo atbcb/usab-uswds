@@ -155,13 +155,13 @@ The maximum reach of 48" is reduced to 44" when the depth of the forward reach o
 
 ![Plan view of person using wheelchair at multi-user bathroom sink and reaching for towel dispenser located on side wall, adjacent to sink, and outside highlighted clear floor space for lavatory.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/reach-paper_towel.jpg)
 
-<div class="clearfix border" style="padding: 5px;" markdown="1">
-{% include recommendation.html text="When a parallel approach is provided at a sink, locate the fixture and operable parts away from corners so that they are within reach from the clear floor space." %}
-
-![Plan view of person using wheelchair with their back positioned against side wall and extending arm for side reach over counter. Difficult to reach counter space approximately 12 inches from side wall is highlighted. ]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/12.jpg){: .img-large }
-
-![Plan view of person using wheelchair with their toes against side wall and reaching toward corner over counter. Reach radius of approximately 24 inches shows difficulty in reaching highlighted corner area.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/13.jpg){: .img-large }
-</div>
+{% include recommendation-2imgs.html
+text= " When a parallel approach is provided at a sink, locate the fixture and operable parts away from corners so that they are within reach from the clear floor space."
+img-file1= "chapter6/lavs-sinks/12.jpg"
+img-alt1= "Plan view of person using wheelchair with their back positioned against side wall and extending arm for side reach over counter. Difficult to reach counter space approximately 12 inches from side wall is highlighted."
+img-file2= "chapter6/lavs-sinks/13.jpg "
+img-alt2= "Plan view of person using wheelchair with their toes against side wall and reaching toward corner over counter. Reach radius of approximately 24 inches shows difficulty in reaching highlighted corner area."
+%}
 
 ### Faucets [§606.4] and Operable Parts [§205, §309]
 
@@ -181,10 +181,11 @@ Faucet controls, soap dispensers, and other elements that require manual operati
 <div class="grid-container">
     <div class="grid-row">
         <div class="tablet:grid-col">
-            <p> Motion-activated or touch-free faucets and dispensers provide easier access and accommodate a broader range of users. This type of control does not have to remain active for a minimum amount of time.</p>
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/faucet-auto.png" alt=" Close-up view of faucet with motion-activated sensor.">
+          <p> Motion-activated or touch-free faucets and dispensers provide easier access and accommodate a broader range of users. This type of control does not have to remain active for a minimum amount of time.</p>
         </div>
         <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/faucet-auto.png" alt=" Close-up view of faucet with motion-activated sensor.">
+            <p> Motion-activated or touch-free faucets and dispensers provide easier access and accommodate a broader range of users. This type of control does not have to remain active for a minimum amount of time.</p>
         </div>
     </div>
 </div>
