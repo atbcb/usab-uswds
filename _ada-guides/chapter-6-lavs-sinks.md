@@ -26,10 +26,10 @@ Specifications for lavatories address clear floor space for a forward approach, 
 
 ![Wall-mounted lavatory with mirror and highlighted clear floor space. Notes: faucets (§606.4) to comply as operable parts, mirror height (§603.3) measured to the bottom of the reflecting surface (40 inches maximum), lavatory height (§606.3) measured to the rim or counter, whichever is higher (34 inches maximum), exposed plumbing (§606.5) protected against contact, and clear floor space (§606.3) for a forward approach. ]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/1.jpg){: .img-large }
 
-<div class="clearfix border" style="padding: 5px;" markdown="1">
-![An elongated lavatory with a two-lever manual faucet. ]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/hospital_sink.png){: .img-large }
-
-{% include recommendation.html text="Standard size lavatories should be used instead of elongated fixtures that project significantly from walls. Elongated sinks require a greater reach to faucets and controls and reduce available maneuvering space." %}
+<div class="border padding-1 clearfix">
+    <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/hospital_sink.png" class="img-right" alt=" An elongated lavatory with a two-lever manual faucet.">
+    <img src="{{ site.baseurl }}/images/ada-aba/guides/compass.jpg" alt="design compass" class="float-left margin-1">
+    <p><em>Recommendation: </em> Standard size lavatories should be used instead of elongated fixtures that project significantly from walls. Elongated sinks require a greater reach to faucets and controls and reduce available maneuvering space.</p>
 </div>
 
 ### Sinks [§606]
@@ -43,10 +43,10 @@ Sinks are subject to the same criteria as lavatories, but some sinks are permitt
   </figcaption>
 </figure>
 
-<div class="clearfix border" style="padding: 5px;" markdown="1">
-{% include recommendation.html text="When a parallel approach is permitted to a kitchen sink, it is advisable to provide a forward approach for greater usability. An option is to install cabinet doors that can be opened to provide a forward approach. Make sure that slide-in doors do not obstruct the required clear floor space. However, where a forward approach is required, it is important that the knee and toe space that the knee and toe space remain clear." %}
-
-![A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Base kitchen cabinet with pocket doors open to provide a forward approach to sink.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-no_cfs.png){: .img-large }
+<div class="border padding-1 clearfix">
+    <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-no_cfs.png" class="img-right" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Base kitchen cabinet with pocket doors open to provide a forward approach to sink.">
+    <img src="{{ site.baseurl }}/images/ada-aba/guides/compass.jpg" alt="design compass" class="float-left margin-1">
+    <p><em>Recommendation: </em> When a parallel approach is permitted to a kitchen sink, it is advisable to provide a forward approach for greater usability. An option is to install cabinet doors that can be opened to provide a forward approach. Make sure that slide-in doors do not obstruct the required clear floor space. However, where a forward approach is required, it is important that the knee and toe space that the knee and toe space remain clear.</p>
 </div>
     
 ### Lavatories and Sinks in Residential Dwelling Units [§606.2, §606.3]
