@@ -4,13 +4,11 @@ order-number: 612
 file:  /files/ada/guides/saunas.pdf
 file-description: PDF version of Chapter 6 Saunas and Steam Rooms Guide
 ---
-This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for Saunas and Steam Rooms. 
+This guide explains scoping and technical requirements for saunas and steam rooms in the [ADA Standards]({{ site.baseurl }}/ada/) for Saunas and Steam Rooms.
 
 ![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/sauna.png){: img-right }
 
-This guide explains scoping and technical requirements for saunas and steam rooms in the ADA Standards.
-
-### Required Compliance [§241]
+#### Required Compliance [§241]
 
 Saunas and steam rooms, where provided, must be accessible. Where two or more saunas or steam rooms are clustered at a single location (i.e., next to, or close to, one another), at least 5%, but no less than one of each type, must comply. Examples of different types include, but are not limited to, those designated by gender or features such as wet or dry heat and temperature capacity.
 
