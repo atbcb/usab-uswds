@@ -24,7 +24,6 @@ Requirements for saunas and steam rooms address doors, wheelchair turning space,
 
 ### Turning Space [§612.3, §304]
 
-
 Wheelchair turning space is required in accessible saunas and steam rooms. This turning space must be a 60" diameter circle or T-shaped. Readily removable benches may obstruct the turning space, but it is advisable that they be placed outside the turning space.
 
 ### Benches [§612.2, §903]
@@ -55,9 +54,7 @@ For more information on door requirements, see the Entrances, Doors, and Gates 
 
 ![Elevated perspective view of entrance to sauna with door ajar and scooter parked to the left of the door outside of the required maneuvering space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/outside_sauna.png)
 
-
-Recommendation: Some users may leave their mobility device outside the sauna or steam room. Where possible, space should be available outside saunas or steam rooms and near the entrance (but outside the door maneuvering clearance) for mobility devices.
-
+{% include recommendation.html text="Some users may leave their mobility device outside the sauna or steam room. Where possible, space should be available outside saunas or steam rooms and near the entrance (but outside the door maneuvering clearance) for mobility devices." %}
 
 ### Common Questions
 
