@@ -58,11 +58,13 @@ For more information on door requirements, see the Entrances, Doors, and Gates 
 
 ### Common Questions
 
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .img-right }
+
 #### Is access required to all saunas or steam rooms when clustered?
 
 Where two or more saunas or steam rooms are clustered at a single location, no more than 5% of the saunas and steam rooms, but no fewer than one, of each type in each cluster shall comply (§241).
 
-### Can the entrance to saunas and steam rooms be ramped?
+#### Can the entrance to saunas and steam rooms be ramped?
 
 Yes, ramps can serve accessible routes to saunas and steam rooms. However, ramp landings and door maneuvering clearances must be level. Entrance landings must also be designed to accommodate door maneuvering clearances.
 
@@ -70,11 +72,11 @@ Yes, ramps can serve accessible routes to saunas and steam rooms. However, ramp 
 
 No, wheelchair storage space is not required, but it is advisable to provide adequate space outside of the accessible route and door maneuvering clearance for those who wish to leave their mobility device outside the sauna or steam room.
 
-### Do requirements for floor or ground surfaces apply to saunas and steam rooms?
+#### Do requirements for floor or ground surfaces apply to saunas and steam rooms?
 
 Yes, floor or ground surfaces in saunas and steam rooms must be stable, firm, and slip resistant and meet all applicable requirements in §302 of the standards.
 
-### What is the door width requirement for saunas and steam rooms?
+#### What is the door width requirement for saunas and steam rooms?
 
 Doors must meet all requirements of §404 and have a clear opening width of 32" minimum. There is no exception for saunas or steam rooms.
 
