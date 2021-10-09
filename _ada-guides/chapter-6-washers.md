@@ -30,19 +30,17 @@ The Standards address both top-loading and front-loading washing machines and cl
 
 Clear floor space must be centered on the appliance and positioned for a parallel approach. Enclosures, including doors when open, cannot overlap or obstruct the clear floor space. Where clear floor space is recessed in alcoves and confined on three sides, additional maneuvering clearance is required. (See the Clear Floor or Ground Space and Turning Space Guide)
 
-![blah blah blah]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/3.png)
-
-Clear floor space must comply with §305 and be centered on each appliance.
+![Plan view of highlighted clear floor space centered on dryer and dimensions 30 inches minimum by 48 inches minimum measured for clear floor space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/3.png)
+<p class="text-italic text-center margin-6">Clear floor space must comply with §305 and be centered on each appliance.</p>
 
 ![Elevated perspective view of washers and dryers in recessed area with open bifold doors.  A clear floor space is centered at each appliance, and the two clear floor spaces partially overlap in the center. The opened doors are located outside of both clear floor spaces.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/overlapping_cfs.jpg)
-
-Centered clear floor spaces for each machine may partially overlap.
+<p class="text-italic text-center margin-6">Centered clear floor spaces for each machine may partially overlap.</p>
 
 ### Height [§611.4]
 
 Height of top-loading machines must be 36" maximum above the finish floor. For front-loading machines, the height of the bottom of the opening of the door must be between 15" and 36" above the finish floor.
 
-![Front elevation view of washer and dryer.  The top-loading washing machine opening is dimensioned at 36 inches max. above the finish floor.  The bottom of the front-loading machine opening (not the door) is dimensioned between 15 inches and 36 inches above the finish floor.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/4.jpg)
+![Front elevation view of washer and dryer.  The top-loading washing machine opening is dimensioned at 36 inches max. above the finish floor. The bottom of the front-loading machine opening (not the door) is dimensioned between 15 inches and 36 inches above the finish floor.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/4.jpg)
 
 {% include recommendation.html text="Top-loading machines with doors hinged on the side provide easier access than those with doors hinged at the back. Doors on front-loading machines should be hinged at the side instead of the bottom and swing as close to 180 degrees as feasible to allow greater access to the drum." %}
 
