@@ -45,11 +45,11 @@ Sinks are subject to the same criteria as lavatories, but some sinks are permitt
     <p><em>Recommendation: </em> When a parallel approach is permitted to a kitchen sink, it is advisable to provide a forward approach for greater usability. An option is to install cabinet doors that can be opened to provide a forward approach. Make sure that slide-in doors do not obstruct the required clear floor space. However, where a forward approach is required, it is important that the knee and toe space that the knee and toe space remain clear.</p>
 </div>
     
-### Lavatories and Sinks in Residential Dwelling Units [§606.2, §606.3]
+#### Lavatories and Sinks in Residential Dwelling Units [§606.2, §606.3]
 
 In mobility accessible dwelling units, lavatories and sinks must comply. Additional exceptions are permitted for fixtures in these facilities.
 
-**Exceptions for Lavatories and Sinks in Residential Dwelling Units**<center>
+#### Exceptions for Lavatories and Sinks in Residential Dwelling Units
 
 ![Single-user toilet room with undermounted lavatory. Base cabinetry is partially removed to show finish floor and wall. Note: Lavatory knee and toe space: Cabinetry is permitted under lavatories if it can be taken out without removal or replacement of the fixture, the finish floor extends beneath it, and the walls behind and surrounding the cabinetry are finished (§606.2, exception 3).]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/2.jpg){: .img-large }
 <br>
@@ -64,7 +64,7 @@ Specifications based on children's dimensions may be followed when lavatories or
 
 A parallel approach is permitted to lavatories or sinks used primarily by children 5 and younger (§606.2, Ex. 5). For this age group, the standard fixture height is too low to accommodate a forward approach.
 
-**Sink for Children Ages 5 and Younger**
+#### Sink for Children Ages 5 and Younger
 
 <figure class="img-center">
   <img src="({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/child_at_sink.jpg)" alt="A 5-year-old child using a wheelchair is positioned for a parallel approach to a sink at counter with base cabinetry." class="center">
@@ -92,7 +92,7 @@ Clear floor space at lavatories and most sinks must provide a forward approach a
 
 No element, including towel dispensers, hand dryers, etc., can overlap the clear floor space outside the designated knee and toe space.
 
-**Private Office Toilet and Bathing Facilities**
+#### Private Office Toilet and Bathing Facilities
 
 In single-occupant toilet rooms or bathrooms accessed only through a private office and not for common or public use, lavatories do not have to meet height or knee and toe space requirements (§606.2, Ex. 2, §606.3, Ex. 1). Where cabinetry is provided below lavatories, it is advisable that cabinetry be readily removable with finish floor below and finished walls behind it, similar to requirements for lavatories in residential dwelling units.
 
