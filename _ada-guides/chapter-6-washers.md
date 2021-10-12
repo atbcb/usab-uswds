@@ -10,6 +10,7 @@ This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/
 
 #### Required Compliance
 [[§214]({{ site.baseurl }}/ada/#ada-214)]
+
 Scoping for washing machines and clothes dryers is applied independently. Where up to three washing machines are provided, at least one must comply. If more than three washing machines are provided, at least two must comply. The same level of accessibility is required for clothes dryers.
 
 These requirements apply to various types of laundry facilities, including, but not limited to, those serving residential dwelling units, dormitories and other types of transient lodging, laundromats, and recreation facilities.
@@ -22,12 +23,14 @@ Washing machines and clothes dryers only used by employees to perform work are n
 
 ### Washing Machines and Clothes Dryers
 [[§611]({{ site.baseurl }}/ada/#ada-611)]
+
 The Standards address both top-loading and front-loading washing machines and clothes dryers. Requirements address clear floor space, operable parts, and height.
 
 ![Person in a wheelchair loading clothes into a dryer and positioned within a highlighted clear floor space. Notes: clear floor space (§611.2) for a parallel approach centered on the appliance; operable parts (§611.3) must comply, including controls, doors, and detergent and bleach compartments; and door height (§611.4) specified for top-loading and front-loading machines.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/2.jpg)
 
 ### Clear Floor Space
 [[§611.2]({{ site.baseurl }}/ada/#ada-611_2)]
+
 Clear floor space must be centered on the appliance and positioned for a parallel approach. Enclosures, including doors when open, cannot overlap or obstruct the clear floor space. Where clear floor space is recessed in alcoves and confined on three sides, additional maneuvering clearance is required. (See the [Clear Floor or Ground Space and Turning Space Guide]({{ site.baseurl }}/ada/guides/chapter-3-clear-floor-or-ground-space-and-turning-space/))
 
 <figure class="img-center">
@@ -46,6 +49,7 @@ Clear floor space must be centered on the appliance and positioned for a paralle
 
 ### Height
 [[§611.4]({{ site.baseurl }}/ada/#ada-611_4)]
+
 Height of top-loading machines must be 36" maximum above the finish floor. For front-loading machines, the height of the bottom of the opening of the door must be between 15" and 36" above the finish floor.
 
 ![Front elevation view of washer and dryer.  The top-loading washing machine opening is dimensioned at 36 inches max. above the finish floor. The bottom of the front-loading machine opening (not the door) is dimensioned between 15 inches and 36 inches above the finish floor.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/4.jpg)
@@ -54,6 +58,7 @@ Height of top-loading machines must be 36" maximum above the finish floor. For f
 
 ### Operable Parts
 [[§611.3]({{ site.baseurl }}/ada/#ada-611_3), [§309]({{ site.baseurl }}/ada/#ada-309)]
+
 <div class="grid-container">
     <div class="grid-row">
         <div class="tablet:grid-col">
@@ -70,6 +75,7 @@ Height of top-loading machines must be 36" maximum above the finish floor. For f
 
 ### Obstructed Side Reach and Unit Height
 [[§308]({{ site.baseurl }}/ada/#ada-308)]
+
 <div class="grid-container">
     <div class="grid-row">
         <div class="tablet:grid-col">
