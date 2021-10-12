@@ -6,7 +6,7 @@ file-description: PDF version of Chapter 6 Saunas and Steam Rooms Guide
 ---
 This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for for Saunas and Steam Rooms.
 
-![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/sauna.png){: .img-right }{img-small}
+![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/sauna.png){: .img-right }{: .img-small}
 
 #### Required Compliance [§241]
 
