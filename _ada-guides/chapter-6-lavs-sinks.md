@@ -36,11 +36,12 @@ Specifications for lavatories address clear floor space for a forward approach, 
 
 Sinks are subject to the same criteria as lavatories, but some sinks are permitted a parallel approach instead of a forward approach. In kitchens, kitchenettes, and breakrooms without a cooktop or conventional range, a parallel approach is permitted at kitchen sinks (§606.2, Ex. 1). A parallel approach is also permitted at wet bars (i.e., bars or counters that have sinks with running water and are used for mixing drinks). Where multi-bowl sinks are provided, only one bowl must comply with knee and toe space clearance (§606.2, Ex. 7).
 
-![A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Clear floor space for a parallel approach in front of the sink is highlighted.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png){: .img-large}
-
-<div class="margin-left-8 margin-right-8 text-center" markdown="1">
-_A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1)._
-</div>
+<figure class="img-center">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Clear floor space for a parallel approach in front of the sink is highlighted." class="center">
+  <figcaption style="text-align:center">
+    A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).
+  </figcaption>
+</figure>
 
 <div class="border padding-1 clearfix">
     <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-no_cfs.png" class="img-right" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Base kitchen cabinet with pocket doors open to provide a forward approach to sink.">
@@ -55,7 +56,6 @@ In mobility accessible dwelling units, lavatories and sinks must comply. Additio
 #### Exceptions for Lavatories and Sinks in Residential Dwelling Units
 
 ![Single-user toilet room with undermounted lavatory. Base cabinetry is partially removed to show finish floor and wall. Note: Lavatory knee and toe space: Cabinetry is permitted under lavatories if it can be taken out without removal or replacement of the fixture, the finish floor extends beneath it, and the walls behind and surrounding the cabinetry are finished (§606.2, exception 3).]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/2.jpg){: .img-large }
-<br>
 
 Kitchen sinks that are adjustable to 29" minimum and 36" maximum height are allowed if rough-in plumbing permits connections of supply and drainage pipes for sinks mounted at 29" high (§606.3, Ex. 2).
 
@@ -131,7 +131,7 @@ Beyond a depth of 8" measured from the leading edge, the 27" minimum high knee c
 
 The knee and toe space must be as deep as the required reach to faucet controls, soap dispensers, and other operable parts. This requirement is necessary because the forward reach for most people typically does not extend beyond the toes. Open space beyond the required toe clearance is permitted.
 
-![Person using wheelchair reaching over counter to use faucet controls. A vertical red dotted line indicates reach range to faucet controls does not extend beyond the leading edge of a highlighted knee and toe clearance space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/9.jpg){: .img-large }
+![Person using wheelchair reaching over counter to use faucet controls. A vertical red dotted line indicates reach range to faucet controls does not extend beyond the leading edge of a highlighted knee and toe clearance space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/9.jpg)
 
 To avoid issues with garbage disposals protruding into knee and toe space, use a sink with a drain located at the rear of the bowl instead of the center. At sinks with two bowls, knee and toe space is required beneath only one bowl (§606.2, Ex. 7).
 
