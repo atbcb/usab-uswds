@@ -33,7 +33,7 @@ Wheelchair turning space is required in accessible saunas and steam rooms. This 
 Seating in saunas and steam rooms must have at least one compliant bench when seating is provided. The accessible bench must be fixed or built in. Unobstructed clear floor space 30" minimum by 48" minimum is required at the end of the bench and parallel to the short side of the bench. Doors cannot swing into this space. Other readily removable benches may obstruct the clear floor space of the accessible bench, but it is advisable that they be placed outside this space.
 
 <figure class="img-center">
-  <img src="{{ page.image-directory }}chapter6/saunas/2.jpg" alt="Elevated perspective view of fixed bench inside a sauna. A highlighted clear floor space is adjacent to the bench and labeled dimensions of 30 inches deep minimum and 48 inches wide minimum." class="center">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/2.jpg" alt="Elevated perspective view of fixed bench inside a sauna. A highlighted clear floor space is adjacent to the bench and labeled dimensions of 30 inches deep minimum and 48 inches wide minimum." class="center">
   <figcaption style="text-align:center">
     Clear floor space is required at the end of the bench and parallel to the short axis of the bench.
   </figcaption>
