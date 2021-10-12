@@ -7,8 +7,8 @@ file-description: PDF version of Chapter 6 Lavatories and Sinks Guide
 
 This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for Lavatories and Sinks. 
 
-### Required Compliance [§212, §213.3.4]
-
+### Required Compliance
+[[§212]({{ site.baseurl }}/ada/#ada-212), [§213.3.4]({{ site.baseurl }}/ada/#ada-213_3_4)]
 The Standards cover access to sink and to lavatories, which are sinks used for handwashing in toilet and bathing facilities. At least one lavatory, where provided, must comply in each accessible toilet or bathing room and be located outside a toilet compartment.
 
 Where sinks are provided in accessible rooms or spaces, at least 5%, but no less than one, of each type must comply. This provision applies to sinks in breakrooms, kitchens and kitchenettes, classrooms, and other spaces required to be accessible. Mop or service sinks, which are intended to be used for janitorial or maintenance purposes, are exempt. Other types of sinks used only by employees to perform work are not required to comply (§203.9), although compliance is advisable.
@@ -20,8 +20,8 @@ Where sinks are provided in accessible rooms or spaces, at least 5%, but no less
   </figcaption>
 </figure>
 
-### Lavatories [§606]
-
+### Lavatories
+[[§606]({{ site.baseurl }}/ada/#ada-606)]
 Specifications for lavatories address clear floor space for a forward approach, height, faucets, and exposed pipes and surfaces. The Standards also address mirrors, where provided.
 
 ![Wall-mounted lavatory with mirror and highlighted clear floor space. Notes: faucets (§606.4) to comply as operable parts, mirror height (§603.3) measured to the bottom of the reflecting surface (40 inches maximum), lavatory height (§606.3) measured to the rim or counter, whichever is higher (34 inches maximum), exposed plumbing (§606.5) protected against contact, and clear floor space (§606.3) for a forward approach. ]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/1.jpg){: .img-large }
@@ -32,8 +32,8 @@ Specifications for lavatories address clear floor space for a forward approach, 
     <p><em>Recommendation: </em> Standard size lavatories should be used instead of elongated fixtures that project significantly from walls. Elongated sinks require a greater reach to faucets and controls and reduce available maneuvering space.</p>
 </div>
 
-### Sinks [§606]
-
+### Sinks
+[[§606]({{ site.baseurl }}/ada/#ada-606)]
 Sinks are subject to the same criteria as lavatories, but some sinks are permitted a parallel approach instead of a forward approach. In kitchens, kitchenettes, and breakrooms without a cooktop or conventional range, a parallel approach is permitted at kitchen sinks (§606.2, Ex. 1). A parallel approach is also permitted at wet bars (i.e., bars or counters that have sinks with running water and are used for mixing drinks). Where multi-bowl sinks are provided, only one bowl must comply with knee and toe space clearance (§606.2, Ex. 7).
 
 <figure class="img-center">
@@ -46,11 +46,11 @@ Sinks are subject to the same criteria as lavatories, but some sinks are permitt
 <div class="border padding-1 clearfix">
     <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-no_cfs.png" class="img-right" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range. Base kitchen cabinet with pocket doors open to provide a forward approach to sink.">
     <img src="{{ site.baseurl }}/images/ada-aba/guides/compass.jpg" alt="design compass" class="float-left margin-1">
-    <p><em>Recommendation: </em> When a parallel approach is permitted to a kitchen sink, it is advisable to provide a forward approach for greater usability. An option is to install cabinet doors that can be opened to provide a forward approach. Make sure that slide-in doors do not obstruct the required clear floor space. However, where a forward approach is required, it is important that the knee and toe space that the knee and toe space remain clear.</p>
+    <p><em>Recommendation: </em> When a parallel approach is permitted to a kitchen sink, it is advisable to provide a forward approach for greater usability. An option is to install cabinet doors that can be opened to provide a forward approach. Make sure that slide-in doors do not obstruct the required clear floor space. However, where a forward approach is required, it is important that the knee and toe space remain clear.</p>
 </div>
     
-#### Lavatories and Sinks in Residential Dwelling Units [§606.2, §606.3]
-
+#### Lavatories and Sinks in Residential Dwelling Units
+[[§606.2]({{ site.baseurl }}/ada/#ada-606_2), [§606.3]({{ site.baseurl }}/ada/#ada-606_3)]
 In mobility accessible dwelling units, lavatories and sinks must comply. Additional exceptions are permitted for fixtures in these facilities.
 
 #### Exceptions for Lavatories and Sinks in Residential Dwelling Units
@@ -78,9 +78,9 @@ A parallel approach is permitted to lavatories or sinks used primarily by childr
 
 A forward approach is required at lavatories and sinks primarily used by children 6 through 12. However, a lower knee clearance (24" minimum) is permitted if the rim or counter surface is no higher than 31" above the finish floor or ground (§606.2, Ex. 4).
 
-### Clear Floor or Ground Space [§606.2, §305]
-
-Clear floor space at lavatories and most sinks must provide a forward approach and include knee and toe space clearance. It is advisable, but not required, that the clear floor space be centered under the fixture. The knee and toe space must underlie the bowl, faucet controls, and other operable parts of the fixture with must be 17" to 25" deep. If the clear floor space is obstructed on both sides for more than half the depth, such as with alcoves, additional clearance is required for maneuvering.
+### Clear Floor or Ground Space
+[[§606.2]({{ site.baseurl }}/ada/#ada-606_2), [§305]({{ site.baseurl }}/ada/#ada-305)]
+Clear floor space at lavatories and most sinks must provide a forward approach and include knee and toe space clearance. It is advisable, but not required, that the clear floor space be centered under the fixture. The knee and toe space must underlie the bowl, faucet controls, and other operable parts of the fixture and must be 17" to 25" deep. If the clear floor space is obstructed on both sides for more than half the depth, such as with alcoves, additional clearance is required for maneuvering.
   
 <div class="grid-container">
     <div class="grid-row">
@@ -162,9 +162,9 @@ img-file2= "chapter6/lavs-sinks/13.jpg "
 img-alt2= "Plan view of person using wheelchair with their toes against side wall and reaching toward corner over counter. Reach radius of approximately 24 inches shows difficulty in reaching highlighted corner area."
 %}
 
-### Faucets [§606.4] and Operable Parts [§205, §309]
-
-Faucet controls, soap dispensers, and other elements that require manual operation must be usable with one hand and not require tight grasping, pinching, or twisting of the wrist, or more than five pounds force (lbf) to operate. Metering faucets with manual or touch controls must remain open for at least 10 seconds.
+### Faucets and Operable Parts
+[[§606.4]({{ site.baseurl }}/ada/#ada-606_4), [§205]({{ site.baseurl }}/ada/#ada-205), [§309]({{ site.baseurl }}/ada/#ada-309)]
+Faucet controls, soap dispensers, and other elements that require manual operation must be usable with one hand and not require tight grasping, pinching, or twisting of the wrist, or more than five pounds of force (lbf) to operate. Metering faucets with manual or touch controls must remain open for at least 10 seconds.
 
 <div class="grid-container">
     <div class="grid-row">
@@ -190,8 +190,8 @@ Faucet controls, soap dispensers, and other elements that require manual operati
 
 ![Person using a wheelchair at a sink in multi-user bathroom and operating a motion-activated soap dispenser.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/soap_dispenser-reflection.png){: .img-large }
 
-### Exposed Pipes and Surfaces [§606.5]
-
+### Exposed Pipes and Surfaces
+[[§606.5]({{ site.baseurl }}/ada/#ada-606_5)]
 To avoid injury or burns, water supply and drainage pipes under lavatories and sinks must be insulated, enclosed, or configured to prevent contact. There cannot be sharp or abrasive surfaces under lavatories and sinks. Enclosure of pipes and surfaces must comply with knee and toe space clearance.
 
 {% include recommendation.html text="Where multiple lavatories are provided, insulate pipes at each lavatory since it may not be apparent which fixture is compliant." %}
