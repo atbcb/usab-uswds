@@ -70,9 +70,9 @@ A parallel approach is permitted to lavatories or sinks used primarily by childr
 #### Sink for Children Ages 5 and Younger
 
 <figure class="img-center">
-  <img src="({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/child_at_sink.jpg)" alt="A 5-year-old child using a wheelchair is positioned for a parallel approach to a sink at counter with base cabinetry." class="center">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/child_at_sink.jpg" alt="A 5-year-old child using a wheelchair is positioned for a parallel approach to a sink at counter with base cabinetry." class="center">
   <figcaption style="text-align:center">
-     <em>A parallel approach is permitted at sinks and lavatories for children 5 and younger.</em>
+     A parallel approach is permitted at sinks and lavatories for children 5 and younger.
   </figcaption>
 </figure>
 
