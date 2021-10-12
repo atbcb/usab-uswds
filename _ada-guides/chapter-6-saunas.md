@@ -10,22 +10,26 @@ This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/
 
 #### Required Compliance
 [[§242]({{ site.baseurl }}/ada/#ada-241)]
+
 Saunas and steam rooms, where provided, must be accessible. Where two or more saunas or steam rooms are clustered at a single location (i.e., next to, or close to, one another), at least 5%, but no less than one of each type, must comply. Examples of different types include, but are not limited to, those designated by gender or features such as wet or dry heat and temperature capacity.
 
 ![The inside of a sauna showing fixed seating, temperature controls, clothes hooks, and a door with a glazing panel.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/realistic.png)
 
 ### Saunas and Steam Rooms
 [[§612]({{ site.baseurl }}/ada/#ada-612)]
+
 Requirements for saunas and steam rooms address doors, wheelchair turning space, benches, and controls and other operable parts.
 
 ![Elevated perspective view of the inside of a sauna. A highlighted circle of wheelchair turning space is in front of the door, and a highlighted rectangle of clear floor space is adjacent to the short axis of the accessible bench. Notes: Doors (§404, §903.2) shall not swing into the bench clear floor space; compliant bench (§612.2, §903) if seating is provided; wheelchair turning space (§612.3, §304); and controls (§309) intended for users must comply with operable parts requirements.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/1.jpg)
 
 ### Turning Space
 [[§612.3]({{ site.baseurl }}/ada/#ada-612_3), [§304]({{ site.baseurl }}/ada/#ada-304)]
+
 Wheelchair turning space is required in accessible saunas and steam rooms. This turning space must be a 60" diameter circle or T-shaped. Readily removable benches may obstruct the turning space, but it is advisable that they be placed outside the turning space.
 
 ### Benches
 [[§612.2]({{ site.baseurl }}/ada/#ada-612_2), [§903]({{ site.baseurl }}/ada/#ada-903)]
+
 Seating in saunas and steam rooms must have at least one compliant bench when seating is provided. The accessible bench must be fixed or built in. Unobstructed clear floor space 30" minimum by 48" minimum is required at the end of the bench and parallel to the short side of the bench. Doors cannot swing into this space. Other readily removable benches may obstruct the clear floor space of the accessible bench, but it is advisable that they be placed outside this space.
 
 <figure class="img-center">
@@ -52,6 +56,7 @@ The structural strength of benches and back support must withstand a vertical or
 
 ### Doors
 [[§404]({{ site.baseurl }}/ada/#ada-404)]
+
 Doors to saunas and steam rooms must meet all applicable requirements, including those for clear width (32" minimum), maneuvering clearance, thresholds, hardware, opening force (5 lbf maximum), closing speed, and smooth surfacing at the bottom of the push side. Doors that have a window or glazed panel that permits viewing shall have the bottom edge of the panel no higher than 43" above the floor so that it can be used from a seated position. If the bottom edge of a window or glazed panel is higher than 66" above the floor, it is not intended for viewing.
 
 If thresholds are provided at doorways, they cannot exceed ½" high. The edge must be beveled 1:2 maximum above a height of ¼". Where changes in level are higher than ½" because of pre-fabricated unit configurations, compliant ramps and landings must be provided.
