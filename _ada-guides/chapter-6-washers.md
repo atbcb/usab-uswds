@@ -30,17 +30,19 @@ The Standards address both top-loading and front-loading washing machines and cl
 
 Clear floor space must be centered on the appliance and positioned for a parallel approach. Enclosures, including doors when open, cannot overlap or obstruct the clear floor space. Where clear floor space is recessed in alcoves and confined on three sides, additional maneuvering clearance is required. (See the [Clear Floor or Ground Space and Turning Space Guide]({{ site.baseurl }}/ada/guides/chapter-3-clear-floor-or-ground-space-and-turning-space/))
 
-![Plan view of highlighted clear floor space centered on dryer and dimensions 30 inches minimum by 48 inches minimum measured for clear floor space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/3.png)
+<figure class="img-center">
+  <img src="{{ site.baseurl }}{{ site.baseurl }}{{ page.image-directory }}chapter6/washers/3.png" alt="Plan view of highlighted clear floor space centered on dryer and dimensions 30 inches minimum by 48 inches minimum measured for clear floor space." class="center">
+  <figcaption style="text-align:center">
+    Clear floor space must comply with §305 and be centered on each appliance.
+  </figcaption>
+</figure>
 
-<div class="margin-left-8 margin-right-8 text-center" markdown="1">
-_Clear floor space must comply with §305 and be centered on each appliance._
-</div>
-
-![Elevated perspective view of washers and dryers in recessed area with open bifold doors.  A clear floor space is centered at each appliance, and the two clear floor spaces partially overlap in the center. The opened doors are located outside of both clear floor spaces.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/overlapping_cfs.jpg)
-
-<div class="margin-left-8 margin-right-8 text-center" markdown="1">
-_Centered clear floor spaces for each machine may partially overlap._
-</div>
+<figure class="img-center">
+  <img src="{{ site.baseurl }}{{ site.baseurl }}{{ page.image-directory }}chapter6/washers/overlapping_cfs.jpg" alt="Elevated perspective view of washers and dryers in recessed area with open bifold doors.  A clear floor space is centered at each appliance, and the two clear floor spaces partially overlap in the center. The opened doors are located outside of both clear floor spaces." class="center">
+  <figcaption style="text-align:center">
+    Centered clear floor spaces for each machine may partially overlap.
+  </figcaption>
+</figure>
 
 ### Height [§611.4]
 
@@ -79,7 +81,7 @@ Height of top-loading machines must be 36" maximum above the finish floor. For f
     </div>
 </div>
 
-{% include recommendation.html text="Recommendation: Washers and dryers with controls, including coin slides or payment units, located at the front of the machine provide easier access and accommodate a broader range of users." %}
+{% include recommendation.html text="Washers and dryers with controls, including coin slides or payment units, located at the front of the machine provide easier access and accommodate a broader range of users." %}
 
 ### Common Questions
 
