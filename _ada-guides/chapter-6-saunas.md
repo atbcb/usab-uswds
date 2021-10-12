@@ -6,7 +6,7 @@ file-description: PDF version of Chapter 6 Saunas and Steam Rooms Guide
 ---
 This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for for Saunas and Steam Rooms.
 
-![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/sauna.png){: .img-right }
+![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/sauna.png){: .img-right }{img-small}
 
 #### Required Compliance [§241]
 
@@ -28,11 +28,12 @@ Wheelchair turning space is required in accessible saunas and steam rooms. This 
 
 Seating in saunas and steam rooms must have at least one compliant bench when seating is provided. The accessible bench must be fixed or built in. Unobstructed clear floor space 30" minimum by 48" minimum is required at the end of the bench and parallel to the short side of the bench. Doors cannot swing into this space. Other readily removable benches may obstruct the clear floor space of the accessible bench, but it is advisable that they be placed outside this space.
 
-![Elevated perspective view of fixed bench inside a sauna. A highlighted clear floor space is adjacent to the bench and labeled dimensions of 30 inches deep minimum and 48 inches wide minimum.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/2.jpg){: .img-large}
-
-<div class="margin-left-8 margin-right-8 text-center" markdown="1">
-_Clear Floor Space is required at the end of the bench and parallel to the short axis of the bench._
-</div>
+<figure class="img-center">
+  <img src="{{ page.image-directory }}chapter6/saunas/2.jpg" alt="Elevated perspective view of fixed bench inside a sauna. A highlighted clear floor space is adjacent to the bench and labeled dimensions of 30 inches deep minimum and 48 inches wide minimum." class="center">
+  <figcaption style="text-align:center">
+    Clear floor space is required at the end of the bench and parallel to the short axis of the bench.
+  </figcaption>
+</figure>
 
 The seat of the bench must be 42" long minimum, 20" to 24" deep, and 17" to 19" high. Walls may be used as back support for the bench. Benches not fixed to the wall must provide back support that is 42" long minimum, extends from a point 2" maximum above the seat surface to a point 18" minimum above the seat surface, and is 2½" maximum from the rear edge of the seat measured horizontally (§903.4).
 
