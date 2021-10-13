@@ -16,7 +16,14 @@ At its last meeting on September 22, the Board held a briefing on the results of
 
 ## Next Board Meeting
 
-The next virtual meeting of the Board on **November 10** will take place from 1:00 p.m. to 4:30 p.m.  
+The next virtual meeting of the Board on **November 10** will feature presentations by **Board Members Karen Braitmayer, FAIA** and **Deborah Ryan** who will review current trends in architectural design, including those that have emerged in response to the COVID-19 pandemic, highlight aspects of those trends that advance equity and inclusion, and discuss design alternatives to trends that are not fully accessible to all. Members of the public will be able to pose questions during the event. Registrtation (free) is required.
+
+> *Designing for Inclusion: Architectural Trends and Social Justice*\
+November 10, 2021, 2:30 – 4:00 pm (ET)\
+Registration (free): [www.zoomgov.com/webinar/register](www.zoomgov.com/webinar/register/WN_jbIFJ0jTRdWF1j4ICXOerQ)\
+Contact: Rose Marie Bunales at events@access-board.gov 
+
+Prior to the event, the Board will hold at its regular business meeting at 1:00 pm (ET), which is also open to the public to attend.   
 
 ## Future Board Meetings
 
