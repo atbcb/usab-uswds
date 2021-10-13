@@ -56,7 +56,6 @@ Sinks are subject to the same criteria as lavatories, but some sinks are permitt
   </figcaption>
 </figure>
 
-
 {% include recommendation-1img.html
   text="When a parallel approach is permitted to a kitchen sink, it is advisable to provide a forward approach for greater usability.&nbsp; An option is to install cabinet doors that can be opened to provide a forward approach.&nbsp; Make sure that slide-in doors do not obstruct the required clear floor space.&nbsp; However, where a forward approach is required, it is important that the knee and toe space remain clear."
   img-file="chapter6/lavs-sinks/kitchenette-no_cfs.png"
@@ -94,7 +93,7 @@ A parallel approach is permitted to lavatories or sinks used primarily by childr
 
 <figure class="img-center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/child_at_sink.jpg" alt="A 5-year-old child using a wheelchair is positioned for a parallel approach to a sink at counter with base cabinetry." class="center">
-  <figcaption style="text-align:center">
+  <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
      A parallel approach is permitted at sinks and lavatories for children 5 and younger.
   </figcaption>
 </figure>
@@ -106,28 +105,16 @@ A forward approach is required at lavatories and sinks primarily used by childre
 [[§606.2]({{ site.baseurl }}/ada/#ada-606_2), [§305]({{ site.baseurl }}/ada/#ada-305)]
 
 Clear floor space at lavatories and most sinks must provide a forward approach and include knee and toe space clearance.&nbsp; It is advisable, but not required, that the clear floor space be centered under the fixture.&nbsp; The knee and toe space must underlie the bowl, faucet controls, and other operable parts of the fixture and must be 17&Prime; to 25&Prime; deep.&nbsp; If the clear floor space is obstructed on both sides for more than half the depth, such as with alcoves, additional clearance is required for maneuvering.
-  
-<div class="grid-container">
-    <div class="grid-row">
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/3.jpg" alt=" Plan view of clear floor space underlying lavatory.  Highlighted clear floor space with dimensions of 30 inches wide minimum and 48 inches deep minimum.  The clear floor space underlies the lavatory 17 to 25 inches.">
-        </div>
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/4.png" alt=" Plan view of larger highlighted clear floor space underlying recessed lavatory in alcove.  Clear floor space recessed more than 24 inches deep into an alcove must be 36 inches wide minimum and 48 inches deep minimum.">
-        </div>
-    </div>
-</div>
 
+![Plan view of clear floor space underlying lavatory.  Highlighted clear floor space with dimensions of 30 inches wide minimum and 48 inches deep minimum.  The clear floor space underlies the lavatory 17 to 25 inches.]({{ site.baseurl }}{{ page.image-directory }}{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/3.png){: .img-left }
 
-
-
-
+![Plan view of larger highlighted clear floor space underlying recessed lavatory in alcove.  Clear floor space recessed more than 24 inches deep into an alcove must be 36 inches wide minimum and 48 inches deep minimum.]({{ site.baseurl }}{{ page.image-directory }}{{ site.baseurl }}{{ page.image-directory }}(chapter6/lavs-sinks/4.png){: .img-right }
 
 No element, including towel dispensers, hand dryers, etc., can overlap the clear floor space outside the designated knee and toe space.
 
 #### Private Office Toilet and Bathing Facilities
 
-In single-occupant toilet rooms or bathrooms accessed only through a private office and not for common or public use, lavatories do not have to meet height or knee and toe space requirements (§606.2, Ex. 2, §606.3, Ex. 1).&nsbsp; Where cabinetry is provided below lavatories, it is advisable that cabinetry be readily removable with finish floor below and finished walls behind it, similar to requirements for lavatories in residential dwelling units.{: advisory }
+In single-occupant toilet rooms or bathrooms accessed only through a private office and not for common or public use, lavatories do not have to meet height or knee and toe space requirements (§606.2, Ex. 2, §606.3, Ex. 1).&nsbsp; Where cabinetry is provided below lavatories, it is advisable that cabinetry be readily removable with finish floor below and finished walls behind it, similar to requirements for lavatories in residential dwelling units.{: .advisory }
 
 ### Knee and Toe Clearances
 
