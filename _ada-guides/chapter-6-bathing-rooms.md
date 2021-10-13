@@ -1235,7 +1235,7 @@ water so that the main shut-off is still used.
 
 #### Bathtubs
 
-Do requirements for bathtubs also apply to spa tubs, or tubs used for rehabilitation, physical therapy, or sports training?
+##### Do requirements for bathtubs also apply to spa tubs, or tubs used for rehabilitation, physical therapy, or sports training?
 
 The requirements for bathtubs apply only to bathtubs used for bathing.
 Requirements for spas (§242.4), which specify access by lifts or
