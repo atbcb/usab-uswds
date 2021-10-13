@@ -16,7 +16,7 @@ At its last meeting on September 22, the Board held a briefing on the results of
 
 ## Next Board Meeting
 
-The next virtual meeting of the Board on **November 10** will feature presentations by **Board Members Karen Braitmayer, FAIA** and **Deborah Ryan** who will review current trends in architectural design, including those that have emerged in response to the COVID-19 pandemic, highlight aspects of those trends that advance equity and inclusion, and discuss design alternatives to trends that are not fully accessible to all. Members of the public will be able to pose questions during the event. Registrtation (free) is required.
+The next virtual meeting of the Board on **November 10** will feature presentations by **Board Members Karen Braitmayer, FAIA** and **Deborah Ryan** who will provide an accessibility review of current trends in architectural design, including those that have emerged in response to the COVID-19 pandemic. They will highlight aspects of those trends that advance equity and inclusion and discuss design alternatives to trends that are not fully accessible to all. Members of the public will be able to pose questions during the event. Registration (free) is required.
 
 > *Designing for Inclusion: Architectural Trends and Social Justice*\
 November 10, 2021, 2:30 – 4:00 pm (ET)\
