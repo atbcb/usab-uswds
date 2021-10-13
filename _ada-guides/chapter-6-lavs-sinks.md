@@ -16,7 +16,7 @@ Where sinks are provided in accessible rooms or spaces, at least 5%, but no less
 
 <figure>
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/lab.jpg" alt="A classroom lab with individual sink stations, including sinks and work surfaces with forward approach access." class="img-large">
-  <figcaption>
+  <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
     At least 5% of sinks, but no less than one sink of each type, must comply in each accessible room or space, such as classroom labs (§212.3).&nbsp; At least 5% of work surfaces must also comply (§226.1).
   </figcaption>
 </figure>
@@ -106,9 +106,9 @@ A forward approach is required at lavatories and sinks primarily used by childre
 
 Clear floor space at lavatories and most sinks must provide a forward approach and include knee and toe space clearance.&nbsp; It is advisable, but not required, that the clear floor space be centered under the fixture.&nbsp; The knee and toe space must underlie the bowl, faucet controls, and other operable parts of the fixture and must be 17&Prime; to 25&Prime; deep.&nbsp; If the clear floor space is obstructed on both sides for more than half the depth, such as with alcoves, additional clearance is required for maneuvering.
 
-![Plan view of clear floor space underlying lavatory.  Highlighted clear floor space with dimensions of 30 inches wide minimum and 48 inches deep minimum.  The clear floor space underlies the lavatory 17 to 25 inches.]({{ site.baseurl }}{{ page.image-directory }}{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/3.png){: .img-left }
+![Plan view of clear floor space underlying lavatory.  Highlighted clear floor space with dimensions of 30 inches wide minimum and 48 inches deep minimum.  The clear floor space underlies the lavatory 17 to 25 inches.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/3.png){: .img-left }
 
-![Plan view of larger highlighted clear floor space underlying recessed lavatory in alcove.  Clear floor space recessed more than 24 inches deep into an alcove must be 36 inches wide minimum and 48 inches deep minimum.]({{ site.baseurl }}{{ page.image-directory }}{{ site.baseurl }}{{ page.image-directory }}(chapter6/lavs-sinks/4.png){: .img-right }
+![Plan view of larger highlighted clear floor space underlying recessed lavatory in alcove.  Clear floor space recessed more than 24 inches deep into an alcove must be 36 inches wide minimum and 48 inches deep minimum.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/4.png){: .img-right }
 
 No element, including towel dispensers, hand dryers, etc., can overlap the clear floor space outside the designated knee and toe space.
 
