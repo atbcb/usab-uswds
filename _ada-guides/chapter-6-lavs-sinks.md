@@ -56,14 +56,13 @@ Sinks are subject to the same criteria as lavatories, but some sinks are permitt
   </figcaption>
 </figure>
 
-<div class="border padding-1 clearfix">
-    <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-no_cfs.png" class="img-right" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range.&nbsp; Base kitchen cabinet with pocket doors open to provide a forward approach to sink.">
-    <img src="{{ site.baseurl }}/images/ada-aba/guides/compass.jpg" alt="design compass" class="float-left margin-1">
-    <p>
-      <em>Recommendation: </em> When a parallel approach is permitted to a kitchen sink, it is advisable to provide a forward approach for greater usability.&nbsp; An option is to install cabinet doors that can be opened to provide a forward approach.&nbsp; Make sure that slide-in doors do not obstruct the required clear floor space.&nbsp; However, where a forward approach is required, it is important that the knee and toe space remain clear.
-  </p>
-</div>
-    
+
+{% include recommendation-1img.html
+  text="When a parallel approach is permitted to a kitchen sink, it is advisable to provide a forward approach for greater usability.&nbsp; An option is to install cabinet doors that can be opened to provide a forward approach.&nbsp; Make sure that slide-in doors do not obstruct the required clear floor space.&nbsp; However, where a forward approach is required, it is important that the knee and toe space remain clear."
+  img-file="chapter6/lavs-sinks/kitchenette-no_cfs.png"
+  img-alt="A breakroom or kitchenette with base cabinetry and no cooktop or conventional range.  Base kitchen cabinet with pocket doors open to provide a forward approach to sink."
+%}
+
 #### Lavatories and Sinks in Residential Dwelling Units
 
 [[§606.2]({{ site.baseurl }}/ada/#ada-606_2), [§606.3]({{ site.baseurl }}/ada/#ada-606_3)]
