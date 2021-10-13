@@ -14,11 +14,10 @@ The Standards cover access to sink and to lavatories, which are sinks used for h
 
 Where sinks are provided in accessible rooms or spaces, at least 5%, but no less than one, of each type must comply.&nbsp; This provision applies to sinks in breakrooms, kitchens and kitchenettes, classrooms, and other spaces required to be accessible.&nbsp; Mop or service sinks, which are intended to be used for janitorial or maintenance purposes, are exempt.&nbsp; Other types of sinks used only by employees to perform work are not required to comply (§203.9), although compliance is advisable.
 
-<figure class="img-center">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/lab.jpg" alt="A classroom lab with individual sink stations, including sinks and work surfaces with forward approach access." class="center">
-  <figcaption style="text-align:center">
-    At least 5% of sinks, but no less than one sink of each type, must comply in each accessible room or space, such as classroom labs (§212.3). <br />
-    At least 5% of work surfaces must also comply (§226.1).
+<figure>
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/lab.jpg" alt="A classroom lab with individual sink stations, including sinks and work surfaces with forward approach access." class="img-large">
+  <figcaption>
+    At least 5% of sinks, but no less than one sink of each type, must comply in each accessible room or space, such as classroom labs (§212.3).&nbsp; At least 5% of work surfaces must also comply (§226.1).
   </figcaption>
 </figure>
 
@@ -28,9 +27,9 @@ Where sinks are provided in accessible rooms or spaces, at least 5%, but no less
 
 Specifications for lavatories address clear floor space for a forward approach, height, faucets, and exposed pipes and surfaces.&nbsp; The Standards also address mirrors, where provided.
 
-<figure class="img-center">
+<figure>
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/1.jpg" alt="Wall-mounted lavatory with mirror and highlighted clear floor space." class="img-large">
-  <figcaption style="text-align:center">
+  <figcaption>
     <strong>Faucets (§606.4)</strong> comply as operable parts.&nbsp;
     <strong>Mirror Height (§603.3)</strong> measured to the bottom of the reflecting surface (40 inches maximum).&nbsp;
     <strong>Lavatory Height (§606.3)</strong> measured to the rim or counter, whichever is higher (34 inches maximum).&nbsp;
