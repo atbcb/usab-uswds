@@ -106,27 +106,22 @@ A forward approach is required at lavatories and sinks primarily used by childre
 
 Clear floor space at lavatories and most sinks must provide a forward approach and include knee and toe space clearance.&nbsp; It is advisable, but not required, that the clear floor space be centered under the fixture.&nbsp; The knee and toe space must underlie the bowl, faucet controls, and other operable parts of the fixture and must be 17&Prime; to 25&Prime; deep.&nbsp; If the clear floor space is obstructed on both sides for more than half the depth, such as with alcoves, additional clearance is required for maneuvering.
 
-![Plan view of clear floor space underlying lavatory.  Highlighted clear floor space with dimensions of 30 inches wide minimum and 48 inches deep minimum.  The clear floor space underlies the lavatory 17 to 25 inches.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/4.png){: .img-left }
+![Plan view of clear floor space underlying lavatory.  Highlighted clear floor space with dimensions of 30 inches wide minimum and 48 inches deep minimum.  The clear floor space underlies the lavatory 17 to 25 inches.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/3.png){: .img-left }
 
 ![Plan view of larger highlighted clear floor space underlying recessed lavatory in alcove.  Clear floor space recessed more than 24 inches deep into an alcove must be 36 inches wide minimum and 48 inches deep minimum.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/4.png){: .img-right }
 
 No element, including towel dispensers, hand dryers, etc., can overlap the clear floor space outside the designated knee and toe space.
-{: .clear }
 
 <aside class="advisory" markdown="1">
 #### Private Office Toilet and Bathing Facilities
 In single-occupant toilet rooms or bathrooms accessed only through a private office and not for common or public use, lavatories do not have to meet height or knee and toe space requirements (§606.2, Ex. 2, §606.3, Ex. 1).&nbsp; Where cabinetry is provided below lavatories, it is advisable that cabinetry be readily removable with finish floor below and finished walls behind it, similar to requirements for lavatories in residential dwelling units.
 </aside>
 
-site.baseurl is {{ site.baseurl }}
-
-page.image-directory is {{ page.image-directory }}
-
-![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow.]({{ site.baseurl }}{{ page.image-directory }}/chapter6/lavs-sinks/6.png){: .img-right }
-
-### Knee and Toe Clearances {: .clear }
+### Knee and Toe Clearances
 
 Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; deep from the leading edge of the clear floor space.&nbsp; These specified clearances allow space for plumbing, enclosures, and supports outside the minimum clearances.&nbsp; No object may protrude into the required clearances other than the dip of the overflow.
+
+
 
 ![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/6.png){: .img-right }
 
@@ -137,7 +132,12 @@ Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; de
   </figcaption>
 </figure>
 
+
+
 Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum high knee clearance can reduce 18&Prime; to a height of 9&Prime; minimum (toe space) over a 3&Prime; span (6:1 slope).&nspb; When the knee and toe is deeper than 17&Prime;, the additional depth must provide full knee clearance at least 27&Prime; high.
+{: .clear }
+
+
 
 <div class="grid-container">
     <div class="grid-row">
@@ -149,6 +149,28 @@ Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum
         </div>
     </div>
 </div>
+
+![Side view diagram of knee and toe space, showing toe space 9 inches high and 6 inches deep max.  The knee space slopes up 18 inches from the 9 inches height to a 27 inches height over a 3 inch horizontal span (6:1 ratio).  The knee space is 8 inches deep at a full height of 27 inches (for a depth of 11 inches for knee space and a total depth of 17 inches including the 6 inch toe space)]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/7.png){: .img-left }
+
+![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum with additional depth (beyond the minimum knee and toe space) providing full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }
+
+
+
+
+
+
+<div class="grid-container">
+    <div class="grid-row">
+        <div class="tablet:grid-col">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/7.jpg" alt="Side view diagram of knee and toe space, showing toe space 9 inches high and 6 inches deep max.  The knee space slopes up 18 inches from the 9 inches height to a 27 inches height over a 3 inch horizontal span (6:1 ratio).  The knee space is 8 inches deep at a full height of 27 inches (for a depth of 11 inches for knee space and a total depth of 17 inches including the 6 inch toe space).">
+        </div>
+        <div class="tablet:grid-col">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png" alt="Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum with additional depth (beyond the minimum knee and toe space) providing full knee clearance.">
+        </div>
+    </div>
+</div>
+
+
 
 ### Knee and Toe Space and Reach Depth
 
@@ -179,59 +201,24 @@ The maximum reach of 48&Prime; is reduced to 44&Prime; when the depth of the for
   img-alt2="Plan view of person using wheelchair with their toes against side wall and reaching toward corner over counter.  Reach radius of approximately 24 inches shows difficulty in reaching highlighted corner area."
 %}
 
+
+
+
+
+
 ### Faucets and Operable Parts
 
 [[§606.4]({{ site.baseurl }}/ada/#ada-606_4), [§205]({{ site.baseurl }}/ada/#ada-205), [§309]({{ site.baseurl }}/ada/#ada-309)]
 
 Faucet controls, soap dispensers, and other elements that require manual operation must be usable with one hand and not require tight grasping, pinching, or twisting of the wrist, or more than five pounds of force (lbf) to operate.&nbsp; Metering faucets with manual or touch controls must remain open for at least 10 seconds.
 
-
-
-
-<div class="grid-container">
-    <div class="grid-row">
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/faucet-lever.png" alt="Close-up view of a single-lever manual faucet.">
-        </div>
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/faucet-push-finger.png" alt="Close-up view of hand pressing a push-button metering faucet.">
-        </div>
-    </div>
-</div>
-
-
-
 ![Close-up view of a single-lever manual faucet.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/faucet-lever.png){: .img-left }
 
 ![Close-up view of hand pressing a push-button metering faucet.]({{ site.baseurl }}{{ page.image-directory }}faucet-push-finger.png){: .img-right }
 
+![Close-up view of faucet with motion-activated sensor.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/faucet-auto.png){: .img-left }
 
-
-<div class="grid-container">
-    <div class="grid-row">
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/faucet-lever.png" alt="Close-up view of a single-lever manual faucet.">
-        </div>
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/faucet-push-finger.png" alt="Close-up view of hand pressing a push-button metering faucet.">
-        </div>
-    </div>
-</div>
-
-
-
-<div class="grid-container">
-    <div class="grid-row">
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/faucet-auto.png" alt=" Close-up view of faucet with motion-activated sensor.">
-        </div>
-        <div class="tablet:grid-col">
-          <p>
-              Motion-activated or touch-free faucets and dispensers provide easier access and accommodate a broader range of users. This type of control does not have to remain active for a minimum amount of time.
-          </p>
-        </div>
-    </div>
-</div>
+Motion-activated or touch-free faucets and dispensers provide easier access and accommodate a broader range of users.&nbsp; This type of control does not have to remain active for a minimum amount of time.
 
 ![Person using a wheelchair at a sink in multi-user bathroom and operating a motion-activated soap dispenser.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/soap_dispenser-reflection.png){: .img-large }
 
