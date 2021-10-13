@@ -291,11 +291,25 @@ dt {
   margin: 1rem 2rem 1rem 0rem;
   max-width: 50%;
 }
+figure.img-left {
+  display: block;
+  float: left;
+  margin: 1rem 2rem 1rem 0rem;
+  max-width: 50%;
+  border: thin inset;
+}
 .img-right {
   display: block;
   float: right;
   margin: 1rem 0rem 1rem 2rem;
   max-width: 50%;
+}
+figure.img-right {
+  display: block;
+  float: right;
+  margin: 1rem 0rem 1rem 2rem;
+  max-width: 50%;
+  border: thin inset;
 }
 .img-left-border {
   display: block;
@@ -311,27 +325,10 @@ dt {
   max-width: 50%;
   border: thin inset;
 }
-
-figure.img-left {
-  display: block;
-  float: left;
-  margin: 1rem 2rem 1rem 0rem;
-  max-width: 50%;
-  border: thin inset;
-}
-figure.img-right {
-  display: block;
-  float: right;
-  margin: 1rem 0rem 1rem 2rem;
-  max-width: 50%;
-  border: thin inset;
-}
-
 .img-medium {
   padding: 1rem;
   width: 40%;
 }
-
 .img-grid {
   margin-left: auto;
   margin-right: auto;
@@ -363,7 +360,6 @@ figure.img-right {
   width: 80%;
   display: block;
 }
-
 .img-large-caption {
   margin: auto;
   text-align: center;
@@ -371,7 +367,6 @@ figure.img-right {
   font-size: 90%;
   font-style: italic;
 }
-
 .img-full {
   padding: 10px;
   margin-left: auto;
@@ -379,7 +374,6 @@ figure.img-right {
   width: 100%;
   display: block;
 }
-
 .thumbnail {
   width: 15%;
   height: auto;
@@ -396,7 +390,6 @@ figure.img-right {
     }
   }
 }
-
 .thumbnail-wide {
   width: 15%;
   height: auto;
@@ -405,7 +398,6 @@ figure.img-right {
 .align-bottom {
   vertical-align: text-bottom;
 }
-
 .align-top {
   vertical-align: text-top;
 }
@@ -413,7 +405,6 @@ figure.img-right {
 .clear {
   clear: both;
 }
-
 .clearfix {
   overflow: auto;
 }
