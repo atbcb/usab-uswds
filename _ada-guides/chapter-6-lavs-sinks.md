@@ -47,7 +47,7 @@ Specifications for lavatories address clear floor space for a forward approach, 
 
 [[§606]({{ site.baseurl }}/ada/#ada-606)]
 
-Sinks are subject to the same criteria as lavatories, but some sinks are permitted a parallel approach instead of a forward approach.&nsp; In kitchens, kitchenettes, and breakrooms without a cooktop or conventional range, a parallel approach is permitted at kitchen sinks (§606.2, Ex. 1).&nbsp; A parallel approach is also permitted at wet bars (i.e., bars or counters that have sinks with running water and are used for mixing drinks).&nbsp; Where multi-bowl sinks are provided, only one bowl must comply with knee and toe space clearance (§606.2, Ex. 7).
+Sinks are subject to the same criteria as lavatories, but some sinks are permitted a parallel approach instead of a forward approach.&nbsp; In kitchens, kitchenettes, and breakrooms without a cooktop or conventional range, a parallel approach is permitted at kitchen sinks (§606.2, Ex. 1).&nbsp; A parallel approach is also permitted at wet bars (i.e., bars or counters that have sinks with running water and are used for mixing drinks).&nbsp; Where multi-bowl sinks are provided, only one bowl must comply with knee and toe space clearance (§606.2, Ex. 7).
 
 <figure class="img-center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range.&nbsp; Clear floor space for a parallel approach in front of the sink is highlighted." class="center">
@@ -112,12 +112,11 @@ Clear floor space at lavatories and most sinks must provide a forward approach a
 
 No element, including towel dispensers, hand dryers, etc., can overlap the clear floor space outside the designated knee and toe space.
 
-<div class="border padding-1" markdown="1" style="background-color: #e2e1ef;">
+<aside class="advisory" markdown="1">
 #### Private Office Toilet and Bathing Facilities
 
-In single-occupant toilet rooms or bathrooms accessed only through a private office and not for common or public use, lavatories do not have to meet height or knee and toe space requirements (§606.2, Ex. 2, §606.3, Ex. 1).&nsbsp; Where cabinetry is provided below lavatories, it is advisable that cabinetry be readily removable with finish floor below and finished walls behind it, similar to requirements for lavatories in residential dwelling units.
-</div>
-
+In single-occupant toilet rooms or bathrooms accessed only through a private office and not for common or public use, lavatories do not have to meet height or knee and toe space requirements (§606.2, Ex. 2, §606.3, Ex. 1).&nbsp; Where cabinetry is provided below lavatories, it is advisable that cabinetry be readily removable with finish floor below and finished walls behind it, similar to requirements for lavatories in residential dwelling units.
+</aside>
 
 ### Knee and Toe Clearances
 
@@ -153,24 +152,16 @@ The knee and toe space must be as deep as the required reach to faucet controls,
 
 ![Person using wheelchair reaching over counter to use faucet controls.  A vertical red dotted line indicates reach range to faucet controls does not extend beyond the leading edge of a highlighted knee and toe clearance space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/9.jpg)
 
-<div class="border padding-1" markdown="1" style="background-color: #e2e1ef;">
 To avoid issues with garbage disposals protruding into knee and toe space, use a sink with a drain located at the rear of the bowl instead of the center.&nbsp; At sinks with two bowls, knee and toe space is required beneath only one bowl (§606.2, Ex. 7).
-</div>
+{: .advisory }
 
 ### Reach at a Lavatory
 
 The maximum reach of 48&Prime; is reduced to 44&Prime; when the depth of the forward reach over an obstruction exceeds 20&Prime;.
 
-  <div class="grid-container">
-    <div class="grid-row">
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/10.jpg" alt="Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over countertop. Dimensions show 48 inches max. reach height above obstruction (counter) if reach depth is 20 inches max.">
-        </div>
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/11.jpg" alt="Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over a deep countertop.  Dimensions show 44 inches maximum reach height above obstruction (counter) if reach depth is greater than 20 inches (25 inches maximum).">
-        </div>
-    </div>
-</div>
+![Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over countertop.  Dimensions show 48 inches maximum reach height above obstruction (counter) if reach depth is 20 inches maximum]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/10.png){: .img-left }
+
+![Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over a deep countertop.  Dimensions show 44 inches maximum reach height above obstruction (counter) if reach depth is greater than 20 inches (25 inches maximum).]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/11.png){: .img-right }
 
 {% include recommendation.html text="Towel dispensers should be usable at the accessible lavatory so that people do not need to operate mobility devices with wet hands.&nbsp; Make sure that dispensers or any other elements do not overlap the lavatory clear floor space outside the designated knee and toe space." %}
 
