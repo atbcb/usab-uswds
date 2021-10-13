@@ -47,7 +47,7 @@ The seat of the bench must be 42" long minimum, 20" to 24" deep, and 17" to 19" 
             <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/3.png" alt="Side view of a wooden bench with slats on the seat and back rest, and a zoomed-in inset of the portion where the seating connects to the back support. Dimensions show the floor or ground to the top of the seating surface is 17 inches to 19 inches; the leading edge of the seat to the back support is 20 inches to 24 inches; and the top of the back support to surface of the seating slats is 18 inches minimum. The inset image shows dimensions of 2 inches maximum from the top surface of seating slat to the bottom edge of back support slat; and a 2 ½ inches maximum from rear edge of seating slat to front of back support slat.">
         </div>
         <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/4.png" alt="Elevated perspective view of bench fixed to the wall inside a sauna. Dimensions show 42 inches minimum length of the seat and 42 inches minimum length of the wall acting as back support.">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/4.png" alt="Elevated perspective view of bench fixed to the wall inside a sauna. Dimensions show 42 inches minimum length of the seat and 42 inches minimum length of the wall acting as back support. ">
         </div>
     </div>
 </div>
