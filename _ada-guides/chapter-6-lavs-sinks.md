@@ -112,9 +112,12 @@ Clear floor space at lavatories and most sinks must provide a forward approach a
 
 No element, including towel dispensers, hand dryers, etc., can overlap the clear floor space outside the designated knee and toe space.
 
+<div class="border padding-1" markdown="1" style="background-color: #e2e1ef;">
 #### Private Office Toilet and Bathing Facilities
 
-In single-occupant toilet rooms or bathrooms accessed only through a private office and not for common or public use, lavatories do not have to meet height or knee and toe space requirements (§606.2, Ex. 2, §606.3, Ex. 1).&nsbsp; Where cabinetry is provided below lavatories, it is advisable that cabinetry be readily removable with finish floor below and finished walls behind it, similar to requirements for lavatories in residential dwelling units.{: .advisory }
+In single-occupant toilet rooms or bathrooms accessed only through a private office and not for common or public use, lavatories do not have to meet height or knee and toe space requirements (§606.2, Ex. 2, §606.3, Ex. 1).&nsbsp; Where cabinetry is provided below lavatories, it is advisable that cabinetry be readily removable with finish floor below and finished walls behind it, similar to requirements for lavatories in residential dwelling units.
+</div>
+
 
 ### Knee and Toe Clearances
 
@@ -150,7 +153,9 @@ The knee and toe space must be as deep as the required reach to faucet controls,
 
 ![Person using wheelchair reaching over counter to use faucet controls.  A vertical red dotted line indicates reach range to faucet controls does not extend beyond the leading edge of a highlighted knee and toe clearance space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/9.jpg)
 
+<div class="border padding-1" markdown="1" style="background-color: #e2e1ef;">
 To avoid issues with garbage disposals protruding into knee and toe space, use a sink with a drain located at the rear of the bowl instead of the center.&nbsp; At sinks with two bowls, knee and toe space is required beneath only one bowl (§606.2, Ex. 7).
+</div>
 
 ### Reach at a Lavatory
 
