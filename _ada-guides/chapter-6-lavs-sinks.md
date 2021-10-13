@@ -163,7 +163,7 @@ The maximum reach of 48" is reduced to 44" when the depth of the forward reach o
 text= " When a parallel approach is provided at a sink, locate the fixture and operable parts away from corners so that they are within reach from the clear floor space."
 img-file1= "chapter6/lavs-sinks/12.jpg"
 img-alt1= "Plan view of person using wheelchair with their back positioned against side wall and extending arm for side reach over counter. Difficult to reach counter space approximately 12 inches from side wall is highlighted."
-img-file2= "chapter6/lavs-sinks/13.jpg "
+img-file2= "chapter6/lavs-sinks/13.jpg"
 img-alt2= "Plan view of person using wheelchair with their toes against side wall and reaching toward corner over counter. Reach radius of approximately 24 inches shows difficulty in reaching highlighted corner area."
 %}
 
