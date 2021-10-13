@@ -1,3 +1,10 @@
+- title: Designing for Inclusion: Architectural Trends and Social Justice
+  text: "Learn more about the Board's virtual public event on architectural trends and social justice (November 10)."
+  image: /images/stock/architecturesky.jpg
+  description: Architectural building frame lines organized diagonally with open space in center for viewing sky
+  linkto: /about/meetings.html 
+  linktext: Learn More
+
 - title: Wheelchair Securement Systems in Passenger Aircraft
   text: "Learn more about the Board's public briefing on wheelchair securement systems in passenger aircraft (September 22)."
   image: /images/stock/aircraft.jpg
@@ -52,11 +59,4 @@
   image: /images/stock/hero-abacomplaint.jpeg
   description: Background image of eyeglasses on a complaint form
   linkto: /enforcement/
-  linktext: Learn More
-  
-- title: Research
-  text: "Learn about the Board’s ongoing and completed research initiatives."
-  image: /images/stock/hero-research.jpeg
-  description: Background image of gears with the words "research, expertise, knowledge, consulting"
-  linkto: /research/
   linktext: Learn More
