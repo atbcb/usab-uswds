@@ -4,7 +4,6 @@ order-number: 606
 file:  /files/ada/guides/lavs-sinks.pdf
 file-description: PDF version of Chapter 6 Lavatories and Sinks Guide
 ---
-
 This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for Lavatories and Sinks. 
 
 ### Required Compliance
@@ -22,6 +21,7 @@ Where sinks are provided in accessible rooms or spaces, at least 5%, but no less
 </figure>
 
 ### Lavatories
+
 [[§606]({{ site.baseurl }}/ada/#ada-606)]
 
 Specifications for lavatories address clear floor space for a forward approach, height, faucets, and exposed pipes and surfaces. The Standards also address mirrors, where provided.
@@ -35,6 +35,7 @@ Specifications for lavatories address clear floor space for a forward approach, 
 </div>
 
 ### Sinks
+
 [[§606]({{ site.baseurl }}/ada/#ada-606)]
 
 Sinks are subject to the same criteria as lavatories, but some sinks are permitted a parallel approach instead of a forward approach. In kitchens, kitchenettes, and breakrooms without a cooktop or conventional range, a parallel approach is permitted at kitchen sinks (§606.2, Ex. 1). A parallel approach is also permitted at wet bars (i.e., bars or counters that have sinks with running water and are used for mixing drinks). Where multi-bowl sinks are provided, only one bowl must comply with knee and toe space clearance (§606.2, Ex. 7).
@@ -53,15 +54,23 @@ Sinks are subject to the same criteria as lavatories, but some sinks are permitt
 </div>
     
 #### Lavatories and Sinks in Residential Dwelling Units
+
 [[§606.2]({{ site.baseurl }}/ada/#ada-606_2), [§606.3]({{ site.baseurl }}/ada/#ada-606_3)]
 
 In mobility accessible dwelling units, lavatories and sinks must comply. Additional exceptions are permitted for fixtures in these facilities.
 
 #### Exceptions for Lavatories and Sinks in Residential Dwelling Units
 
-![Single-user toilet room with undermounted lavatory. Base cabinetry is partially removed to show finish floor and wall. Note: Lavatory knee and toe space: Cabinetry is permitted under lavatories if it can be taken out without removal or replacement of the fixture, the finish floor extends beneath it, and the walls behind and surrounding the cabinetry are finished (§606.2, exception 3).]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/2.jpg){: .img-large }
+##### Lavatory knee and toe space
 
-Kitchen sinks that are adjustable to 29" minimum and 36" maximum height are allowed if rough-in plumbing permits connections of supply and drainage pipes for sinks mounted at 29" high (§606.3, Ex. 2).
+<figure class="img-center">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/removable_cabinet.png" alt="Cut-away illustration of cabinet under bathroom sink, showing tiled floor." class="center">
+  <figcaption style="text-align:center">
+     Cabinetry is permitted under lavatories if it can be taken out without removal or replacement of the fixture, the finish floor extends beneath it, and the walls behind and surrounding the cabinetry are finished (§606.2, exception 3).
+  </figcaption>
+</figure>
+
+Kitchen sinks that are adjustable to 29&Prime; minimum and 36&Prime; maximum height are allowed if rough-in plumbing permits connections of supply and drainage pipes for sinks mounted at 29&Prime; high (§606.3, Ex. 2).
 
 ![A residential dwelling unit kitchen with base cabinetry and conventional range. Open space beneath kitchen sink provides clearance for a forward approach.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchen.png){: .img-large }
 
@@ -83,6 +92,7 @@ A parallel approach is permitted to lavatories or sinks used primarily by childr
 A forward approach is required at lavatories and sinks primarily used by children 6 through 12. However, a lower knee clearance (24" minimum) is permitted if the rim or counter surface is no higher than 31" above the finish floor or ground (§606.2, Ex. 4).
 
 ### Clear Floor or Ground Space
+
 [[§606.2]({{ site.baseurl }}/ada/#ada-606_2), [§305]({{ site.baseurl }}/ada/#ada-305)]
 
 Clear floor space at lavatories and most sinks must provide a forward approach and include knee and toe space clearance. It is advisable, but not required, that the clear floor space be centered under the fixture. The knee and toe space must underlie the bowl, faucet controls, and other operable parts of the fixture and must be 17" to 25" deep. If the clear floor space is obstructed on both sides for more than half the depth, such as with alcoves, additional clearance is required for maneuvering.
@@ -142,7 +152,7 @@ To avoid issues with garbage disposals protruding into knee and toe space, use a
 
 ### Reach at a Lavatory
 
-The maximum reach of 48" is reduced to 44" when the depth of the forward reach over an obstruction exceeds 20".
+The maximum reach of 48&Prime; is reduced to 44&Prime; when the depth of the forward reach over an obstruction exceeds 20&Prime;.
 
   <div class="grid-container">
     <div class="grid-row">
@@ -159,15 +169,13 @@ The maximum reach of 48" is reduced to 44" when the depth of the forward reach o
 
 ![Plan view of person using wheelchair at multi-user bathroom sink and reaching for towel dispenser located on side wall, adjacent to sink, and outside highlighted clear floor space for lavatory.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/reach-paper_towel.jpg)
 
-{% include recommendation-2imgs.html
-text= " When a parallel approach is provided at a sink, locate the fixture and operable parts away from corners so that they are within reach from the clear floor space."
-img-file1= "chapter6/lavs-sinks/12.jpg"
-img-alt1= "Plan view of person using wheelchair with their back positioned against side wall and extending arm for side reach over counter. Difficult to reach counter space approximately 12 inches from side wall is highlighted."
+{% include recommendation-2imgs.html text= "When a parallel approach is provided at a sink, locate the fixture and operable parts away from corners so that they are within reach from the clear floor space." img-file1= "chapter6/lavs-sinks/12.jpg" img-alt1= "Plan view of person using wheelchair with their back positioned against side wall and extending arm for side reach over counter. Difficult to reach counter space approximately 12 inches from side wall is highlighted."
 img-file2= "chapter6/lavs-sinks/13.jpg"
 img-alt2= "Plan view of person using wheelchair with their toes against side wall and reaching toward corner over counter. Reach radius of approximately 24 inches shows difficulty in reaching highlighted corner area."
 %}
 
 ### Faucets and Operable Parts
+
 [[§606.4]({{ site.baseurl }}/ada/#ada-606_4), [§205]({{ site.baseurl }}/ada/#ada-205), [§309]({{ site.baseurl }}/ada/#ada-309)]
 
 Faucet controls, soap dispensers, and other elements that require manual operation must be usable with one hand and not require tight grasping, pinching, or twisting of the wrist, or more than five pounds of force (lbf) to operate. Metering faucets with manual or touch controls must remain open for at least 10 seconds.
@@ -197,6 +205,7 @@ Faucet controls, soap dispensers, and other elements that require manual operati
 ![Person using a wheelchair at a sink in multi-user bathroom and operating a motion-activated soap dispenser.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/soap_dispenser-reflection.png){: .img-large }
 
 ### Exposed Pipes and Surfaces
+
 [[§606.5]({{ site.baseurl }}/ada/#ada-606_5)]
 
 To avoid injury or burns, water supply and drainage pipes under lavatories and sinks must be insulated, enclosed, or configured to prevent contact. There cannot be sharp or abrasive surfaces under lavatories and sinks. Enclosure of pipes and surfaces must comply with knee and toe space clearance.
