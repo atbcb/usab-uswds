@@ -50,7 +50,7 @@ Specifications for lavatories address clear floor space for a forward approach, 
 Sinks are subject to the same criteria as lavatories, but some sinks are permitted a parallel approach instead of a forward approach.&nbsp; In kitchens, kitchenettes, and breakrooms without a cooktop or conventional range, a parallel approach is permitted at kitchen sinks (§606.2, Ex. 1).&nbsp; A parallel approach is also permitted at wet bars (i.e., bars or counters that have sinks with running water and are used for mixing drinks).&nbsp; Where multi-bowl sinks are provided, only one bowl must comply with knee and toe space clearance (§606.2, Ex. 7).
 
 <figure class="img-center">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range.&nbsp; Clear floor space for a parallel approach in front of the sink is highlighted." class="center">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range.  Clear floor space for a parallel approach in front of the sink is highlighted." class="center">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
     A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).
   </figcaption>
@@ -106,7 +106,7 @@ A forward approach is required at lavatories and sinks primarily used by childre
 
 Clear floor space at lavatories and most sinks must provide a forward approach and include knee and toe space clearance.&nbsp; It is advisable, but not required, that the clear floor space be centered under the fixture.&nbsp; The knee and toe space must underlie the bowl, faucet controls, and other operable parts of the fixture and must be 17&Prime; to 25&Prime; deep.&nbsp; If the clear floor space is obstructed on both sides for more than half the depth, such as with alcoves, additional clearance is required for maneuvering.
 
-![Plan view of clear floor space underlying lavatory.  Highlighted clear floor space with dimensions of 30 inches wide minimum and 48 inches deep minimum.  The clear floor space underlies the lavatory 17 to 25 inches.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/3.png){: .img-left }
+![Plan view of clear floor space underlying lavatory.  Highlighted clear floor space with dimensions of 30 inches wide minimum and 48 inches deep minimum.  The clear floor space underlies the lavatory 17 to 25 inches.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/4.png){: .img-left }
 
 ![Plan view of larger highlighted clear floor space underlying recessed lavatory in alcove.  Clear floor space recessed more than 24 inches deep into an alcove must be 36 inches wide minimum and 48 inches deep minimum.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/4.png){: .img-right }
 
@@ -114,13 +114,24 @@ No element, including towel dispensers, hand dryers, etc., can overlap the clear
 
 <aside class="advisory" markdown="1">
 #### Private Office Toilet and Bathing Facilities
-
+{: .clear }
 In single-occupant toilet rooms or bathrooms accessed only through a private office and not for common or public use, lavatories do not have to meet height or knee and toe space requirements (§606.2, Ex. 2, §606.3, Ex. 1).&nbsp; Where cabinetry is provided below lavatories, it is advisable that cabinetry be readily removable with finish floor below and finished walls behind it, similar to requirements for lavatories in residential dwelling units.
 </aside>
 
 ### Knee and Toe Clearances
 
 Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; deep from the leading edge of the clear floor space.&nbsp; These specified clearances allow space for plumbing, enclosures, and supports outside the minimum clearances.&nbsp; No object may protrude into the required clearances other than the dip of the overflow.
+
+![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/6.png){: .img-right }
+
+<figure class="img-left">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/5.png" alt="A perspective diagram of knee and toe space and clear floor space.  The leading edge of the knee and toe space clearance is labeled and highlighted." class="center">
+  <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
+       Note:&nbsp; No protrusions into minimum space permitted other than dip of overflow.Floor dimensions for knee and toe space are 30 inches wide minimum and 17 to 25 inches deep maximum from leading edge of clear floor space.
+  </figcaption>
+</figure>
+
+
 
 <div class="grid-container">
     <div class="grid-row">
@@ -132,6 +143,10 @@ Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; de
         </div>
     </div>
 </div>
+
+
+
+
 
 Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum high knee clearance can reduce 18&Prime; to a height of 9&Prime; minimum (toe space) over a 3&Prime; span (6:1 slope).&nspb; When the knee and toe is deeper than 17&Prime;, the additional depth must provide full knee clearance at least 27&Prime; high.
 
