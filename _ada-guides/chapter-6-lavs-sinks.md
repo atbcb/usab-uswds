@@ -27,9 +27,9 @@ Where sinks are provided in accessible rooms or spaces, at least 5%, but no less
 
 Specifications for lavatories address clear floor space for a forward approach, height, faucets, and exposed pipes and surfaces.&nbsp; The Standards also address mirrors, where provided.
 
-<figure>
+<figure class="img-center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/1.jpg" alt="Wall-mounted lavatory with mirror and highlighted clear floor space." class="img-large">
-  <figcaption>
+  <figcaption style="text-align:center; font-size:smaller; line-height:85% }">
     <strong>Faucets (§606.4)</strong> comply as operable parts.&nbsp;
     <strong>Mirror Height (§603.3)</strong> measured to the bottom of the reflecting surface (40 inches maximum).&nbsp;
     <strong>Lavatory Height (§606.3)</strong> measured to the rim or counter, whichever is higher (34 inches maximum).&nbsp;
@@ -39,8 +39,8 @@ Specifications for lavatories address clear floor space for a forward approach, 
 
 {% include recommendation-1img.html
   text="Standard size lavatories should be used instead of elongated fixtures that project significantly from walls.&nbsp; Elongated sinks require a greater reach to faucets and controls and reduce available maneuvering space."
-  img="chapter6/lavs-sinks/hospital_sink.png"
-  alt="An elongated lavatory with a two-lever manual faucet."
+  img-file="chapter6/lavs-sinks/hospital_sink.png"
+  img-alt="An elongated lavatory with a two-lever manual faucet."
 %}
 
 ### Sinks
@@ -51,7 +51,7 @@ Sinks are subject to the same criteria as lavatories, but some sinks are permitt
 
 <figure class="img-center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range.&nbsp; Clear floor space for a parallel approach in front of the sink is highlighted." class="center">
-  <figcaption style="text-align:center">
+  <figcaption style="text-align:center; font-size:smaller; line-height:85% }">
     A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).
   </figcaption>
 </figure>
@@ -76,7 +76,7 @@ In mobility accessible dwelling units, lavatories and sinks must comply.&nbsp; A
 
 <figure class="img-center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/removable_cabinet.png" alt="Cut-away illustration of cabinet under bathroom sink, showing tiled floor." class="center">
-  <figcaption style="text-align:center">
+  <figcaption style="text-align:center; font-size:smaller; line-height:85% }">
      Cabinetry is permitted under lavatories if it can be taken out without removal or replacement of the fixture, the finish floor extends beneath it, and the walls behind and surrounding the cabinetry are finished (§606.2, exception 3).
   </figcaption>
 </figure>
