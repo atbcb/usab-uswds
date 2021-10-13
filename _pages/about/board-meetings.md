@@ -30,6 +30,7 @@ The next virtual meeting of the Board on **November 10** will take place from 1:
 
 ## Board Meeting Archives
 
+- [January 13, 2021](https://www.youtube.com/watch?v=rR9RfhvM2sU&t=859s)
 - [March 10, 2021](https://www.youtube.com/watch?v=xI1j1V1SyjE)
 - [May 19, 2021](https://www.youtube.com/watch?v=-0YkBZZEoss)
 - [July 14, 2021](https://www.youtube.com/watch?v=078ZOzcZaSs)
