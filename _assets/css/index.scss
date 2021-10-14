@@ -99,10 +99,10 @@ ol li ol li ol li {
 .clearfix {
   overflow: auto;
 }
-.clearfix::after {
-  clear: both;
+.clearfix::before {
   display: block;
-  content: "&nbsp;";
+  clear: both;
+  content: " ";
 }
 
 // table styles for Performance and Accountability Report
