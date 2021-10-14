@@ -88,6 +88,19 @@ ol li ol li ol li {
   list-style-type: lower-roman;
 }
 
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.clear {
+  clear: both;
+}
+.clearfix {
+  clear: both;
+  overflow: auto;
+}
+
 // table styles for Performance and Accountability Report
 table.par, table.par-money, table.par-prose {
 	border: none;
@@ -266,20 +279,13 @@ div.advisory p.last {
 }
 
 // create class that combines about page img classes
-.bold,
-dt {
+.bold, dt {
   font-weight: bold;
 }
-
 .shadow {
   box-shadow: 10px 10px 5px #dfe1e2;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 .img-center {
   display: block;
   margin: 1rem auto 1rem auto;
@@ -295,7 +301,14 @@ figure.img-left {
   display: block;
   float: left;
   margin: 1rem 2rem 1rem 0rem;
-  max-width: 25%;
+  max-width: 45%;
+  border: thin inset;
+}
+.img-left-border {
+  display: block;
+  float: left;
+  margin: 1rem 2rem 1rem 0rem;
+  max-width: 50%;
   border: thin inset;
 }
 .img-right {
@@ -308,14 +321,7 @@ figure.img-right {
   display: block;
   float: right;
   margin: 1rem 0rem 1rem 2rem;
-  max-width: 25%;
-  border: thin inset;
-}
-.img-left-border {
-  display: block;
-  float: left;
-  margin: 1rem 2rem 1rem 0rem;
-  max-width: 50%;
+  max-width: 45%;
   border: thin inset;
 }
 .img-right-border {
@@ -324,10 +330,6 @@ figure.img-right {
   margin: 1rem 0rem 1rem 2rem;
   max-width: 50%;
   border: thin inset;
-}
-.img-medium {
-  padding: 1rem;
-  width: 40%;
 }
 .img-grid {
   margin-left: auto;
@@ -353,6 +355,10 @@ figure.img-right {
   text-align: left;
 }
 
+.img-medium {
+  padding: 1rem;
+  width: 40%;
+}
 .img-large {
   padding: 10px;
   margin-left: auto;
@@ -400,14 +406,6 @@ figure.img-right {
 }
 .align-top {
   vertical-align: text-top;
-}
-
-.clear {
-  clear: both;
-}
-.clearfix {
-  clear: both;
-  overflow: auto;
 }
 
 // sticky fill js
