@@ -195,67 +195,67 @@ To avoid injury or burns, water supply and drainage pipes under lavatories and s
 
 ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .img-right }
 
-#### What type of sinks are exempt as "service sinks"?
+### What type of sinks are exempt as "service sinks"?
 
 As used in the Standards, the term "service sinks" is similar in meaning as "mop sinks" and refers to sinks used for janitorial or maintenance purposes.
 
-#### Are work use sinks required to comply?
+### Are work use sinks required to comply?
 
 Sinks and other elements used only by employees for work are not required to comply (§203.9).&nbsp; Examples include sinks in restaurant kitchens and in laboratories not used for instruction.&nbsp; Providing access to work use sinks is advisable.&nbsp; Sinks in public and common use spaces not used solely by employees for work, including classrooms and laboratories used for instruction, must comply.&nbsp; Where multiple sinks are provided, at least 5%, but no less than one, of each type must comply (§212.3).
 
-#### Are laundry room sinks required to comply?
+### Are laundry room sinks required to comply?
 
 Sinks in laundry facilities not used solely by employees for work, such as those provided for use by residents or guests in residential facilities, dormitories, and other transient lodging, must comply.&nbsp; Those located in commercial laundry facilities and used only by employees, as well as mop or service sinks located in laundry rooms, are not required to comply.
 
-#### Must the clear floor space at lavatories and sinks be centered?
+### Must the clear floor space at lavatories and sinks be centered?
 
 No.&nbsp; It is advisable, though not required, that the clear floor space be nominally centered on the fixture.&nbsp; However, the clear floor space must fully underlie the fixture.
 
-#### When must sinks or lavatories be designed for use by children?
+### When must sinks or lavatories be designed for use by children?
 
 The Standards do not specify where sinks or lavatories must be designed specifically for children.&nbsp; This determination is usually made based on other building codes or regulations, good practice, client preference, or other factors.&nbsp; Instead, the Standards provide exceptions that can be used when the decision is made to design fixtures for use primarily by children ages 12 and younger.
 
-#### Can pipes, garbage disposals, or other elements protrude into the knee or toe clearance?
+### Can pipes, garbage disposals, or other elements protrude into the knee or toe clearance?
 
 No.&nbsp; Only the dip of the overflow is permitted within the required knee and toe clearance.
 
-#### Does space beyond the 6&Prime; maximum toe space need to be enclosed?
+### Does space beyond the 6&Prime; maximum toe space need to be enclosed?
 
 No, it does not need to be enclosed.&nbsp; Open space beyond the 6" maximum toe space is permitted.
 
-#### How can garbage disposals be accommodated at sinks?
+### How can garbage disposals be accommodated at sinks?
 
 One option is to select a sink with a drain located at the rear of the bowl instead of the center.&nbsp; Another option is a two-bowl sink where knee and toe space is provided below only one bowl.
 
-#### Is the exception permitting a side approach to certain kitchen sinks applicable only to those located in kitchens?
+### Is the exception permitting a side approach to certain kitchen sinks applicable only to those located in kitchens?
 
 The exception applies to kitchen sinks (i.e., used for food preparation or cooking) located in break rooms, kitchenettes and kitchens, party rooms, and similar spaces if they do not contain a cooktop or range.&nbsp; Other types of cooking appliances, including microwave ovens, do not impact application of this exception.
 
-#### Can a lavatory be located outside of a toilet room?
+### Can a lavatory be located outside of a toilet room?
 
 Yes.&nbsp; The Standards do not prohibit location of lavatories outside toilet rooms where permitted by codes and other regulations.
 
-#### Can a lavatory be provided in a wheelchair accessible toilet compartment?
+### Can a lavatory be provided in a wheelchair accessible toilet compartment?
 
 Yes.&nbsp; However, the toilet compartment must meet requirements for toilet rooms, including turning space (§604.8).&nbsp; A second accessible lavatory must be provided outside the compartment (§213.3.4).
 
-#### Are touch-free (motion sensor) faucets required to remain open for at least 10 seconds?
+### Are touch-free (motion sensor) faucets required to remain open for at least 10 seconds?
 
 No.&nbsp; Manually operated faucet controls that are metered and activate for a set period of time must remain open for at least 10 seconds.&nbsp; Motion-activated faucet controls are not required to remain open for a minimum duration.
 
-#### Can accessible mirrors be located above lavatories?
+### Can accessible mirrors be located above lavatories?
 
 Yes.&nbsp; Accessible mirrors can be located above lavatories or countertops if the bottom of the reflecting surface is 40&Prime; maximum above the finish floor (§603.3).&nbsp; The bottom of the reflecting surface of mirrors not located above lavatories or countertops must be 35&Prime; maximum above the finish floor.
 
-#### If a toilet room has a full-length mirror and a mirror above a countertop or lavatory, must both types comply?
+### If a toilet room has a full-length mirror and a mirror above a countertop or lavatory, must both types comply?
 
 No.&nbsp; The Standards require only one mirror in a toilet room to comply.&nbsp; If mirrors are provided above lavatories or counters and at other locations in a toilet room, it is advisable, but not required, that one of each type comply.
 
-#### Are lavatories and sinks provided at outdoor locations required to comply with the Standards?
+### Are lavatories and sinks provided at outdoor locations required to comply with the Standards?
 
 Yes.&nbsp; At both indoor or outdoor locations, lavatories and sinks that serve accessible facilities or spaces, including, but not limited to, fishing piers, recreational boating facilities, and picnic and camping facilities, must comply.
 
-#### Are eyewash stations required to be accessible?
+### Are eyewash stations required to be accessible?
 
 Yes.&nbsp; Eye wash stations must comply as operable parts (§309), including requirements for clear floor space and controls that are within accessible reach range and operable without tight grasping, pinching, twisting of the wrist, or more than 5 lbf.&nbsp; Products that are usable while standing and from seated positions, including forward approach access at those with basins or bowls, are recommended for greater usability.
 
