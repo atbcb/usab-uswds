@@ -6,7 +6,7 @@ file-description: PDF version of Chapter 6 Lavatories and Sinks Guide
 ---
 This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for Lavatories and Sinks.
 
-![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/sauna.png){: .img-right }{: .thumbnail }
+![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/sink.png){: .img-right }{: .thumbnail }
 
 ## Required Compliance
 
@@ -131,7 +131,7 @@ Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; de
   </figcaption>
 </figure>
 
-![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/6.jpg){: .img-center }
+![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/6.jpg){: .img-medium .center }
 
 Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum high knee clearance can reduce 18&Prime; to a height of 9&Prime; minimum (toe space) over a 3&Prime; span (6:1 slope).&nspb; When the knee and toe is deeper than 17&Prime;, the additional depth must provide full knee clearance at least 27&Prime; high.
 {: .clear }
@@ -141,7 +141,7 @@ Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum
 ![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum with additional depth (beyond the minimum knee and toe space) providing full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }
 
 #### Knee and Toe Space and Reach Depth
-{: .clear }
+{: .clearfix }
 
 The knee and toe space must be as deep as the required reach to faucet controls, soap dispensers, and other operable parts.&nbsp; This requirement is necessary because the forward reach for most people typically does not extend beyond the toes.&nbsp; Open space beyond the required toe clearance is permitted.
 
