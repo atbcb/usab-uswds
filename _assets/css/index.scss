@@ -98,7 +98,12 @@ ol li ol li ol li {
 }
 .clearfix {
   clear: both;
-  overflow: auto;
+  overflow: auto;::after 
+}
+.clearfix:: after {
+  clear: both;
+  display: block;
+  content: "&nbsp;";
 }
 
 // table styles for Performance and Accountability Report
@@ -476,36 +481,30 @@ table.layouttable tr {
   @include u-text('white');
   padding: 1rem;
 }
-
 .gray-to-color {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
-
 .gray-to-color:hover {
   -webkit-filter: none;
   filter: none;
   @include u-bg('primary-lighter');
 }
-
 a.style-inherit:focus>div.gray-to-color {
   -webkit-filter: none;
   filter: none;
   @include u-bg('primary-lighter');
   border: 3px solid lightskyblue;
 }
-
 .card-shadow {
   box-shadow: 0 0 10px -3px #666;
 }
-
 .card-name {
   @include u-font('serif', '2xs');
   @include u-text('center');
   @include u-text('primary');
   @include u-margin-bottom(0);
 }
-
 .card-text {
   @include u-font('serif', '3xs');
   @include u-text('center');
@@ -523,12 +522,10 @@ a.style-inherit {
   height: 5rem;
   overflow: hidden;
 }
-
 .pdf-button {
   margin-right: .5rem;
   margin-top: .5rem;
 }
-
 .pdf-button:focus:before {
   content:attr(title);
   position: absolute; 
