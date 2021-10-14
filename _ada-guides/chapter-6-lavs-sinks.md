@@ -138,7 +138,7 @@ Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum
 
 ![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum with additional depth (beyond the minimum knee and toe space) providing full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }
 
-#### Knee and Toe Space and Reach Depth{: .clear }
+#### Knee and Toe Space and Reach Depth
 
 The knee and toe space must be as deep as the required reach to faucet controls, soap dispensers, and other operable parts.&nbsp; This requirement is necessary because the forward reach for most people typically does not extend beyond the toes.&nbsp; Open space beyond the required toe clearance is permitted.
 
