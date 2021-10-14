@@ -125,7 +125,7 @@ Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; de
 ![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/6.jpg){: .img-right }
 
 <figure class="img-left">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/5.png" alt="A perspective diagram of knee and toe space and clear floor space.  The leading edge of the knee and toe space clearance is labeled and highlighted. " class="center">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/5.jpg" alt="A perspective diagram of knee and toe space and clear floor space.  The leading edge of the knee and toe space clearance is labeled and highlighted." class="center">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
     No protrusions into minimum space permitted other than dip of overflow.&nbsp; Floor dimensions for knee and toe space are 30 inches wide minimum and 17 to 25 inches deep maximum from leading edge of clear floor space.
   </figcaption>
@@ -139,6 +139,7 @@ Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum
 ![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum with additional depth (beyond the minimum knee and toe space) providing full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }
 
 #### Knee and Toe Space and Reach Depth
+{: clear }
 
 The knee and toe space must be as deep as the required reach to faucet controls, soap dispensers, and other operable parts.&nbsp; This requirement is necessary because the forward reach for most people typically does not extend beyond the toes.&nbsp; Open space beyond the required toe clearance is permitted.
 
@@ -217,11 +218,11 @@ The Standards do not specify where sinks or lavatories must be designed specific
 
 #### Can pipes, garbage disposals, or other elements protrude into the knee or toe clearance?
 
-No.&nsp; Only the dip of the overflow is permitted within the required knee and toe clearance.
+No.&nbsp; Only the dip of the overflow is permitted within the required knee and toe clearance.
 
 #### Does space beyond the 6&Prime; maximum toe space need to be enclosed?
 
-No, it does not need to be enclosed.&nsp; Open space beyond the 6" maximum toe space is permitted.
+No, it does not need to be enclosed.&nbsp; Open space beyond the 6" maximum toe space is permitted.
 
 #### How can garbage disposals be accommodated at sinks?
 
@@ -237,7 +238,7 @@ Yes.&nbsp; The Standards do not prohibit location of lavatories outside toilet r
 
 #### Can a lavatory be provided in a wheelchair accessible toilet compartment?
 
-Yes.&nbsp; However, the toilet compartment must meet requirements for toilet rooms, including turning space (§604.8).&nsp; A second accessible lavatory must be provided outside the compartment (§213.3.4).
+Yes.&nbsp; However, the toilet compartment must meet requirements for toilet rooms, including turning space (§604.8).&nbsp; A second accessible lavatory must be provided outside the compartment (§213.3.4).
 
 #### Are touch-free (motion sensor) faucets required to remain open for at least 10 seconds?
 
