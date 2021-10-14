@@ -6,7 +6,7 @@ file-description: PDF version of Chapter 6 Lavatories and Sinks Guide
 ---
 This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for Lavatories and Sinks. 
 
-### Required Compliance
+## Required Compliance
 
 [[§212]({{ site.baseurl }}/ada/#ada-212), [§213.3.4]({{ site.baseurl }}/ada/#ada-213_3_4)]
 
@@ -62,15 +62,15 @@ Sinks are subject to the same criteria as lavatories, but some sinks are permitt
   img-alt="A breakroom or kitchenette with base cabinetry and no cooktop or conventional range.  Base kitchen cabinet with pocket doors open to provide a forward approach to sink."
 %}
 
-#### Lavatories and Sinks in Residential Dwelling Units
+## Lavatories and Sinks in Residential Dwelling Units
 
 [[§606.2]({{ site.baseurl }}/ada/#ada-606_2), [§606.3]({{ site.baseurl }}/ada/#ada-606_3)]
 
 In mobility accessible dwelling units, lavatories and sinks must comply.&nbsp; Additional exceptions are permitted for fixtures in these facilities.
 
-#### Exceptions for Lavatories and Sinks in Residential Dwelling Units
+### Exceptions for Lavatories and Sinks in Residential Dwelling Units
 
-##### Lavatory knee and toe space
+### Lavatory knee and toe space
 
 <figure class="img-center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/removable_cabinet.png" alt="Cut-away illustration of cabinet under bathroom sink, showing tiled floor." class="center">
@@ -106,16 +106,12 @@ A forward approach is required at lavatories and sinks primarily used by childre
 
 Clear floor space at lavatories and most sinks must provide a forward approach and include knee and toe space clearance.&nbsp; It is advisable, but not required, that the clear floor space be centered under the fixture.&nbsp; The knee and toe space must underlie the bowl, faucet controls, and other operable parts of the fixture and must be 17&Prime; to 25&Prime; deep.&nbsp; If the clear floor space is obstructed on both sides for more than half the depth, such as with alcoves, additional clearance is required for maneuvering.
 
-
-
-![Plan view of clear floor space underlying lavatory.  Highlighted clear floor space with dimensions of 30 inches wide minimum and 48 inches deep minimum.  The clear floor space underlies the lavatory 17 to 25 inches.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/sink-30.png){: .img-left }
+![Plan view of clear floor space underlying lavatory.  Highlighted clear floor space with dimensions of 30 inches wide minimum and 48 inches deep minimum.  The clear floor space underlies the lavatory 17 to 25 inches.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/sink-30.jpg){: .img-left }
 
 ![Plan view of larger highlighted clear floor space underlying recessed lavatory in alcove.  Clear floor space recessed more than 24 inches deep into an alcove must be 36 inches wide minimum and 48 inches deep minimum.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/sink-36.png){: .img-right }
 
 No element, including towel dispensers, hand dryers, etc., can overlap the clear floor space outside the designated knee and toe space.
 {: .clear }
-
-
 
 <aside class="advisory" markdown="1">
 #### Private Office Toilet and Bathing Facilities
@@ -126,10 +122,7 @@ In single-occupant toilet rooms or bathrooms accessed only through a private off
 
 Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; deep from the leading edge of the clear floor space.&nbsp; These specified clearances allow space for plumbing, enclosures, and supports outside the minimum clearances.&nbsp; No object may protrude into the required clearances other than the dip of the overflow.
 
-
-
-
-![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/6.png){: .img-right }
+![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/6.jpg){: .img-right }
 
 <figure class="img-left">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/5.png" alt="A perspective diagram of knee and toe space and clear floor space.  The leading edge of the knee and toe space clearance is labeled and highlighted. " class="center">
@@ -138,48 +131,14 @@ Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; de
   </figcaption>
 </figure>
 
-
-
 Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum high knee clearance can reduce 18&Prime; to a height of 9&Prime; minimum (toe space) over a 3&Prime; span (6:1 slope).&nspb; When the knee and toe is deeper than 17&Prime;, the additional depth must provide full knee clearance at least 27&Prime; high.
 {: .clear }
 
-
-
-{% comment %}
-<div class="grid-container">
-    <div class="grid-row">
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/7.jpg" alt="Side view diagram of knee and toe space, showing toe space 9 inches high and 6 inches deep max.  The knee space slopes up 18 inches from the 9 inches height to a 27 inches height over a 3 inch horizontal span (6:1 ratio).  The knee space is 8 inches deep at a full height of 27 inches (for a depth of 11 inches for knee space and a total depth of 17 inches including the 6 inch toe space).">
-        </div>
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png" alt="Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum with additional depth (beyond the minimum knee and toe space) providing full knee clearance.">
-        </div>
-    </div>
-</div>
-{% endcomment %}
-
-
-
-![Side view diagram of knee and toe space, showing toe space 9 inches high and 6 inches deep max.  The knee space slopes up 18 inches from the 9 inches height to a 27 inches height over a 3 inch horizontal span (6:1 ratio).  The knee space is 8 inches deep at a full height of 27 inches (for a depth of 11 inches for knee space and a total depth of 17 inches including the 6 inch toe space).]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/7.png){: .img-left }
+![Side view diagram of knee and toe space, showing toe space 9 inches high and 6 inches deep max.  The knee space slopes up 18 inches from the 9 inches height to a 27 inches height over a 3 inch horizontal span (6:1 ratio).  The knee space is 8 inches deep at a full height of 27 inches (for a depth of 11 inches for knee space and a total depth of 17 inches including the 6 inch toe space).]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/7.jpg){: .img-left }
 
 ![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum with additional depth (beyond the minimum knee and toe space) providing full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }
 
-{% comment %}
-<div class="grid-container">
-    <div class="grid-row">
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/7.jpg" alt="Side view diagram of knee and toe space, showing toe space 9 inches high and 6 inches deep max.  The knee space slopes up 18 inches from the 9 inches height to a 27 inches height over a 3 inch horizontal span (6:1 ratio).  The knee space is 8 inches deep at a full height of 27 inches (for a depth of 11 inches for knee space and a total depth of 17 inches including the 6 inch toe space).">
-        </div>
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png" alt="Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum with additional depth (beyond the minimum knee and toe space) providing full knee clearance.">
-        </div>
-    </div>
-</div>
-{% endcomment %}
-
-
-
-### Knee and Toe Space and Reach Depth
+#### Knee and Toe Space and Reach Depth
 
 The knee and toe space must be as deep as the required reach to faucet controls, soap dispensers, and other operable parts.&nbsp; This requirement is necessary because the forward reach for most people typically does not extend beyond the toes.&nbsp; Open space beyond the required toe clearance is permitted.
 
@@ -192,9 +151,9 @@ To avoid issues with garbage disposals protruding into knee and toe space, use a
 
 The maximum reach of 48&Prime; is reduced to 44&Prime; when the depth of the forward reach over an obstruction exceeds 20&Prime;.
 
-![Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over countertop.  Dimensions show 48 inches maximum reach height above obstruction (counter) if reach depth is 20 inches maximum.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/10.png){: .img-left }
+![Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over countertop.  Dimensions show 48 inches maximum reach height above obstruction (counter) if reach depth is 20 inches maximum.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/10.jpg){: .img-left }
 
-![Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over a deep countertop.  Dimensions show 44 inches maximum reach height above obstruction (counter) if reach depth is greater than 20 inches (25 inches maximum).]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/11.png){: .img-right }
+![Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over a deep countertop.  Dimensions show 44 inches maximum reach height above obstruction (counter) if reach depth is greater than 20 inches (25 inches maximum).]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/11.jpg){: .img-right }
 
 {% include recommendation.html text="Towel dispensers should be usable at the accessible lavatory so that people do not need to operate mobility devices with wet hands.&nbsp; Make sure that dispensers or any other elements do not overlap the lavatory clear floor space outside the designated knee and toe space." %}
 
@@ -224,7 +183,7 @@ Motion-activated or touch-free faucets and dispensers provide easier access and 
 
 ![Person using a wheelchair at a sink in multi-user bathroom and operating a motion-activated soap dispenser.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/soap_dispenser-reflection.png){: .img-large }
 
-### Exposed Pipes and Surfaces
+#### Exposed Pipes and Surfaces
 
 [[§606.5]({{ site.baseurl }}/ada/#ada-606_5)]
 
@@ -232,7 +191,7 @@ To avoid injury or burns, water supply and drainage pipes under lavatories and s
 
 {% include recommendation.html text="Where multiple lavatories are provided, insulate pipes at each lavatory since it may not be apparent which fixture is compliant." %}
 
-### Common Questions
+## Common Questions
 
 ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .img-right }
 
