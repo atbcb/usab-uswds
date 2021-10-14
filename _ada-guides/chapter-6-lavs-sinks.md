@@ -196,7 +196,7 @@ To avoid injury or burns, water supply and drainage pipes under lavatories and s
 
 ## Common Questions
 
-![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .img-right }
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .img-right }{: .thumbnail }
 
 ### What type of sinks are exempt as "service sinks"?
 
