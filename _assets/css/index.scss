@@ -97,10 +97,9 @@ ol li ol li ol li {
   clear: both;
 }
 .clearfix {
-  clear: both;
-  overflow: auto;::after 
+  overflow: auto;
 }
-.clearfix:: after {
+.clearfix::after {
   clear: both;
   display: block;
   content: "&nbsp;";
