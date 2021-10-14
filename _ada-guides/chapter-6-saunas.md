@@ -14,7 +14,7 @@ This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/
 
 Saunas and steam rooms, where provided, must be accessible. Where two or more saunas or steam rooms are clustered at a single location (i.e., next to, or close to, one another), at least 5%, but no less than one of each type, must comply. Examples of different types include, but are not limited to, those designated by gender or features such as wet or dry heat and temperature capacity.
 
-![The inside of a sauna showing fixed seating, temperature controls, clothes hooks, and a door with a glazing panel.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/realistic.png)
+![The inside of a sauna showing fixed seating, temperature controls, clothes hooks, and a door with a glazing panel.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/realistic.png){. img-large }{: img-center }
 
 ## Saunas and Steam Rooms
 
@@ -22,12 +22,10 @@ Saunas and steam rooms, where provided, must be accessible. Where two or more sa
 
 Requirements for saunas and steam rooms address doors, wheelchair turning space, benches, and controls and other operable parts.
 
-![Elevated perspective view of the inside of a sauna. A highlighted circle of wheelchair turning space is in front of the door, and a highlighted rectangle of clear floor space is adjacent to the short axis of the accessible bench. Notes: Doors (§404, §903.2) shall not swing into the bench clear floor space; compliant bench (§612.2, §903) if seating is provided; wheelchair turning space (§612.3, §304); and controls (§309) intended for users must comply with operable parts requirements.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/1.jpg)
-
-<figure>
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/lab.jpg" alt="A classroom lab with individual sink stations, including sinks and work surfaces with forward approach access." class="img-large">
+<figure class="img-center">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/1.jpg" alt="Elevated perspective view of the inside of a sauna.  A highlighted circle of wheelchair turning space is in front of the door, and a highlighted rectangle of clear floor space is adjacent to the short axis of the accessible bench." class="img-large">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
-    At least 5% of sinks, but no less than one sink of each type, must comply in each accessible room or space, such as classroom labs (§212.3).&nbsp; At least 5% of work surfaces must also comply (§226.1).
+    <strong>Doors (§404, §903.2)</strong> shall not swing into the bench clear floor space.  <strong>Compliant bench (§612.2, §903)</strong> if seating is provided.  <strong>Wheelchair Turning Space (§612.3, §304)</strong>.  <strong>Controls (§309)</strong> intended for users must comply with operable parts requirements.
   </figcaption>
 </figure>
 
@@ -45,7 +43,7 @@ Seating in saunas and steam rooms must have at least one compliant bench when se
 
 <figure class="img-center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/2.jpg" alt="Elevated perspective view of fixed bench inside a sauna. A highlighted clear floor space is adjacent to the bench and labeled dimensions of 30 inches deep minimum and 48 inches wide minimum." class="center">
-  <figcaption style="text-align:center">
+  <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
     Clear floor space is required at the end of the bench and parallel to the short axis of the bench.
   </figcaption>
 </figure>
@@ -94,7 +92,7 @@ For more information on door requirements, see the [Entrances, Doors, and Gates
 
 ## Common Questions
 
-![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .img-right }
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .img-right }{: .thumbnail }
 
 ### Is access required to all saunas or steam rooms when clustered?
 
