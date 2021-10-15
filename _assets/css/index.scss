@@ -305,7 +305,6 @@ dt {
   float: left;
   margin: 1rem 2rem 1rem 0rem;
   max-width: 45%;
-  overflow: auto; // did not work
 }
 .img-left-border {
   display: block;
@@ -319,8 +318,6 @@ dt {
   float: right;
   margin: 1rem 0rem 1rem 2rem;
   max-width: 45%;
-  height: auto; // new
-  overflow: hidden; // new
 }
 .img-right-border {
   display: block;
@@ -354,19 +351,16 @@ dt {
 }
 
 .img-small {
-  padding: 1rem;
-  width: 15%;
+  width: 20%;
 }
 .img-medium {
-  padding: 1rem;
   width: 40%;
 }
 .img-large {
-  padding: 1rem;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-  display: block;
 }
 .img-large-caption {
   margin: auto;
