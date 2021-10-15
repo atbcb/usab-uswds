@@ -133,13 +133,14 @@ Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; de
 
 ![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/6.jpg){: .img-medium .center }
 
-Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum high knee clearance can reduce 18&Prime; to a height of 9&Prime; minimum (toe space) over a 3&Prime; span (6:1 slope).&nspb; When the knee and toe is deeper than 17&Prime;, the additional depth must provide full knee clearance at least 27&Prime; high.
+Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum high knee clearance can reduce 18&Prime; to a height of 9&Prime; minimum (toe space) over a 3&Prime; span (6:1 slope).&nbsp; When the knee and toe is deeper than 17&Prime;, the additional depth must provide full knee clearance at least 27&Prime; high.
 
 ![Side view diagram of knee and toe space, showing toe space 9 inches high and 6 inches deep max.  The knee space slopes up 18 inches from the 9 inches height to a 27 inches height over a 3 inch horizontal span (6:1 ratio).  The knee space is 8 inches deep at a full height of 27 inches (for a depth of 11 inches for knee space and a total depth of 17 inches including the 6 inch toe space).]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/7.jpg){: .img-left }
 
-![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum with additional depth (beyond the minimum knee and toe space) providing full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }
+![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum.  Note over arrow reads: Additional depth must provide full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }
 
-{: .clear }
+&nbsp;
+{: .clear } {% comment %} clear attached to heading below did not have desired effect {% endcomment %}
 
 #### Knee and Toe Space and Reach Depth
 
