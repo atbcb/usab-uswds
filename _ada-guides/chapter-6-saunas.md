@@ -90,9 +90,9 @@ For more information on door requirements, see the [Entrances, Doors, and Gates
 
 {% include recommendation.html text="Some users may leave their mobility device outside the sauna or steam room. Where possible, space should be available outside saunas or steam rooms and near the entrance (but outside the door maneuvering clearance) for mobility devices." %}
 
-## Common Questions
-
 ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .img-right }{: .thumbnail }
+
+## Common Questions
 
 ### Is access required to all saunas or steam rooms when clustered?
 
