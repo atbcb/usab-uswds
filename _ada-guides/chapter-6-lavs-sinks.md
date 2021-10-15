@@ -131,7 +131,7 @@ Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; de
   </figcaption>
 </figure>
 
-![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/6.jpg){: .center }
+![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/6.jpg){: .center .img-medium }
 
 Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum high knee clearance can reduce 18&Prime; to a height of 9&Prime; minimum (toe space) over a 3&Prime; span (6:1 slope).&nbsp; When the knee and toe is deeper than 17&Prime;, the additional depth must provide full knee clearance at least 27&Prime; high.
 
@@ -199,9 +199,9 @@ To avoid injury or burns, water supply and drainage pipes under lavatories and s
 
 {% include recommendation.html text="Where multiple lavatories are provided, insulate pipes at each lavatory since it may not be apparent which fixture is compliant." %}
 
-## Common Questions
-
 ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .img-right }{: .thumbnail }
+
+## Common Questions
 
 ### What type of sinks are exempt as "service sinks"?
 
