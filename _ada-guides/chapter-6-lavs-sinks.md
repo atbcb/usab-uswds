@@ -54,7 +54,7 @@ Specifications for lavatories address clear floor space for a forward approach, 
 Sinks are subject to the same criteria as lavatories, but some sinks are permitted a parallel approach instead of a forward approach.&nbsp; In kitchens, kitchenettes, and breakrooms without a cooktop or conventional range, a parallel approach is permitted at kitchen sinks (§606.2, Ex. 1).&nbsp; A parallel approach is also permitted at wet bars (i.e., bars or counters that have sinks with running water and are used for mixing drinks).&nbsp; Where multi-bowl sinks are provided, only one bowl must comply with knee and toe space clearance (§606.2, Ex. 7).
 
 <figure class="center">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range.  Clear floor space for a parallel approach in front of the sink is highlighted." class="center img-large">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range.  Clear floor space for a parallel approach in front of the sink is highlighted." class="img-large">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
     A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).
   </figcaption>
@@ -77,7 +77,7 @@ In mobility accessible dwelling units, lavatories and sinks must comply.&nbsp; A
 ##### Lavatory knee and toe space
 
 <figure class="center">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/removable_cabinet.png" alt="Cut-away illustration of cabinet under bathroom sink, showing tiled floor." class="center img-large border">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/removable_cabinet.png" alt="Cut-away illustration of cabinet under bathroom sink, showing tiled floor." class="img-large border">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
      Cabinetry is permitted under lavatories if it can be taken out without removal or replacement of the fixture, the finish floor extends beneath it, and the walls behind and surrounding the cabinetry are finished (§606.2, exception 3).
   </figcaption>
@@ -85,7 +85,7 @@ In mobility accessible dwelling units, lavatories and sinks must comply.&nbsp; A
 
 Kitchen sinks that are adjustable to 29&Prime; minimum and 36&Prime; maximum height are allowed if rough-in plumbing permits connections of supply and drainage pipes for sinks mounted at 29&Prime; high (§606.3, Ex. 2).
 
-![A residential dwelling unit kitchen with base cabinetry and conventional range.  Open space beneath kitchen sink provides clearance for a forward approach.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchen.png){: .center }{: .img-large }{: .border }
+![A residential dwelling unit kitchen with base cabinetry and conventional range.  Open space beneath kitchen sink provides clearance for a forward approach.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchen.png){: .img-large }{: .border }
 
 ##### Lavatories and Sinks for Children's Use
 
@@ -96,7 +96,7 @@ A parallel approach is permitted to lavatories or sinks used primarily by childr
 ###### Sink for Children Ages 5 and Younger
 
 <figure class="center">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/child_at_sink.jpg" alt="A 5-year-old child using a wheelchair is positioned for a parallel approach to a sink at counter with base cabinetry." class="center img-large">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/child_at_sink.jpg" alt="A 5-year-old child using a wheelchair is positioned for a parallel approach to a sink at counter with base cabinetry." class="img-large">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
      A parallel approach is permitted at sinks and lavatories for children 5 and younger.
   </figcaption>
@@ -127,7 +127,7 @@ In single-occupant toilet rooms or bathrooms accessed only through a private off
 Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; deep from the leading edge of the clear floor space.&nbsp; These specified clearances allow space for plumbing, enclosures, and supports outside the minimum clearances.&nbsp; No object may protrude into the required clearances other than the dip of the overflow.
 
 <figure class="center">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/5.jpg" alt="A perspective diagram of knee and toe space and clear floor space.  The leading edge of the knee and toe space clearance is labeled and highlighted." class="center img-large">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/5.jpg" alt="A perspective diagram of knee and toe space and clear floor space.  The leading edge of the knee and toe space clearance is labeled and highlighted." class="img-large">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
     No protrusions into minimum space permitted (other than dip of overflow).&nbsp; Floor dimensions for knee and toe space are 30 inches wide minimum and 17 to 25 inches deep maximum from leading edge of clear floor space.
   </figcaption>
@@ -154,7 +154,7 @@ Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum
 
 The knee and toe space must be as deep as the required reach to faucet controls, soap dispensers, and other operable parts.&nbsp; This requirement is necessary because the forward reach for most people typically does not extend beyond the toes.&nbsp; Open space beyond the required toe clearance is permitted.
 
-![Person using wheelchair reaching over counter to use faucet controls.  A vertical red dotted line indicates reach range to faucet controls does not extend beyond the leading edge of a highlighted knee and toe clearance space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/9.jpg){: .center }{: img-large }
+![Person using wheelchair reaching over counter to use faucet controls.  A vertical red dotted line indicates reach range to faucet controls does not extend beyond the leading edge of a highlighted knee and toe clearance space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/9.jpg){: img-large }
 
 To avoid issues with garbage disposals protruding into knee and toe space, use a sink with a drain located at the rear of the bowl instead of the center.&nbsp; At sinks with two bowls, knee and toe space is required beneath only one bowl (§606.2, Ex. 7).
 {: .advisory }
@@ -169,7 +169,7 @@ The maximum reach of 48&Prime; is reduced to 44&Prime; when the depth of the for
 
 {% include recommendation.html text="Towel dispensers should be usable at the accessible lavatory so that people do not need to operate mobility devices with wet hands.&nbsp; Make sure that dispensers or any other elements do not overlap the lavatory clear floor space outside the designated knee and toe space." %}
 
-![Plan view of person using wheelchair at multi-user bathroom sink and reaching for towel dispenser located on side wall, adjacent to sink, and outside highlighted clear floor space for lavatory.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/reach-paper_towel.jpg){: .center }{: .img-large }{: .border }
+![Plan view of person using wheelchair at multi-user bathroom sink and reaching for towel dispenser located on side wall, adjacent to sink, and outside highlighted clear floor space for lavatory.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/reach-paper_towel.jpg){: .img-large }{: .border }
 
 {% include recommendation-2imgs.html
   text="When a parallel approach is provided at a sink, locate the fixture and operable parts away from corners so that they are within reach from the clear floor space."
@@ -193,7 +193,7 @@ Faucet controls, soap dispensers, and other elements that require manual operati
 
 Motion-activated or touch-free faucets and dispensers provide easier access and accommodate a broader range of users.&nbsp; This type of control does not have to remain active for a minimum amount of time.
 
-![Person using a wheelchair at a sink in multi-user bathroom and operating a motion-activated soap dispenser.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/soap_dispenser-reflection.png){: .center }{: .img-large }{: .border }
+![Person using a wheelchair at a sink in multi-user bathroom and operating a motion-activated soap dispenser.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/soap_dispenser-reflection.png){: .img-large }{: .border }
 
 #### Exposed Pipes and Surfaces
 
