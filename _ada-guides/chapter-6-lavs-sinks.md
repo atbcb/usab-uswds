@@ -127,7 +127,7 @@ Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; de
 <figure class="center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/5.jpg" alt="A perspective diagram of knee and toe space and clear floor space.  The leading edge of the knee and toe space clearance is labeled and highlighted." class="center">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
-    No protrusions into minimum space permitted other than dip of overflow.&nbsp; Floor dimensions for knee and toe space are 30 inches wide minimum and 17 to 25 inches deep maximum from leading edge of clear floor space.
+    No protrusions into minimum space permitted (other than dip of overflow).&nbsp; Floor dimensions for knee and toe space are 30 inches wide minimum and 17 to 25 inches deep maximum from leading edge of clear floor space.
   </figcaption>
 </figure>
 
@@ -135,16 +135,16 @@ Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; de
 
 Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum high knee clearance can reduce 18&Prime; to a height of 9&Prime; minimum (toe space) over a 3&Prime; span (6:1 slope).&nbsp; When the knee and toe is deeper than 17&Prime;, the additional depth must provide full knee clearance at least 27&Prime; high.
 
-<figure class="img-right">
+<figure class="img-left">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/7.jpg" alt="Side view diagram of knee and toe space.  Labels read: TOW SPACE and KNEE SPACE." class="center">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
-    Tow space toe dimention line shows 9 inches high and 6 inches deep maximum.&nbsp; 
+    Toe space toe dimention line shows 9 inches high and 6 inches deep maximum.&nbsp; 
     The knee space slopes up 18 inches from the 9 inches height to a 27 inches height over a 3 inch horizontal span (6:1 ratio).&nbsp; 
     The knee space is 8 inches deep at a full height of 27 inches (for a depth of 11 inches for knee space and a total depth of 17 inches including the 6 inch toe space).
   </figcaption>
 </figure>
 
-![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum.  Note over arrow reads: Additional depth must provide full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-left }
+![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum.  Note over arrow reads: Additional depth must provide full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }
 
 #### Knee and Toe Space and Reach Depth
 
@@ -165,7 +165,10 @@ The maximum reach of 48&Prime; is reduced to 44&Prime; when the depth of the for
 
 {% include recommendation.html text="Towel dispensers should be usable at the accessible lavatory so that people do not need to operate mobility devices with wet hands.&nbsp; Make sure that dispensers or any other elements do not overlap the lavatory clear floor space outside the designated knee and toe space." %}
 
-![Plan view of person using wheelchair at multi-user bathroom sink and reaching for towel dispenser located on side wall, adjacent to sink, and outside highlighted clear floor space for lavatory.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/reach-paper_towel.jpg){: .center }
+![Plan view of person using wheelchair at multi-user bathroom sink and reaching for towel dispenser located on side wall, adjacent to sink, and outside highlighted clear floor space for lavatory.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/reach-paper_towel.jpg){: .center }{: .img-large }
+
+![Plan view of person using wheelchair at multi-user bathroom sink and reaching for towel dispenser located on side wall, adjacent to sink, and outside highlighted clear floor space for lavatory.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/reach-paper_towel.jpg){: .center }{: .img-medium }
+
 
 {% include recommendation-2imgs.html
   text="When a parallel approach is provided at a sink, locate the fixture and operable parts away from corners so that they are within reach from the clear floor space."
