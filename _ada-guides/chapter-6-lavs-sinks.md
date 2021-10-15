@@ -269,7 +269,7 @@ Yes.&nbsp; At both indoor or outdoor locations, lavatories and sinks that serve 
 
 #### Are eyewash stations required to be accessible?
 
-Yes.&nbsp; Eye wash stations must comply as operable parts (§309), including requirements for clear floor space and controls that are within accessible reach range and operable without tight grasping, pinching, twisting of the wrist, or more than 5lbs force.&nbsp; Products that are usable while standing and from seated positions, including forward approach access at those with basins or bowls, are recommended for greater usability.
+Yes.&nbsp; Eye wash stations must comply as operable parts (§309), including requirements for clear floor space and controls that are within accessible reach range and operable without tight grasping, pinching, twisting of the wrist, or more than 5lbf.&nbsp; Products that are usable while standing and from seated positions, including forward approach access at those with basins or bowls, are recommended for greater usability.
 
 ----
 
