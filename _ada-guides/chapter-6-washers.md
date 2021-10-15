@@ -4,11 +4,13 @@ order-number: 611
 file:  /files/ada/guides/washers.pdf
 file-description: PDF version of Chapter 6 Washing Machines and Clothes Dryers Guide
 ---
+## {{ page.title }}
+
 This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for washing machines and clothes dryers.
 
 ![washer icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/1.png){: .img-right }{: .thumbnail }
 
-## Required Compliance
+### Required Compliance
 
 [[§214]({{ site.baseurl }}/ada/#ada-214)]
 
@@ -22,7 +24,7 @@ Washing machines and clothes dryers only used by employees to perform work are n
 
 {% include recommendation.html text="It is advisable to make most or all washing machines and clothes dryers accessible since those that are accessible may at times be unavailable." %}
 
-### Washing Machines and Clothes Dryers
+#### Washing Machines and Clothes Dryers
 
 [[§611]({{ site.baseurl }}/ada/#ada-611)]
 
@@ -37,7 +39,7 @@ The Standards address both top-loading and front-loading washing machines and cl
   </figcaption>
 </figure>
 
-## Clear Floor Space
+### Clear Floor Space
 
 [[§611.2]({{ site.baseurl }}/ada/#ada-611_2)]
 
@@ -57,7 +59,7 @@ Clear floor space must be centered on the appliance and positioned for a paralle
   </figcaption>
 </figure>
 
-## Height
+### Height
 
 [[§611.4]({{ site.baseurl }}/ada/#ada-611_4)]
 
@@ -73,7 +75,7 @@ Height of top-loading machines must be 36" maximum above the finish floor. For f
 
 {% include recommendation.html text="Top-loading machines with doors hinged on the side provide easier access than those with doors hinged at the back. Doors on front-loading machines should be hinged at the side instead of the bottom and swing as close to 180 degrees as feasible to allow greater access to the drum." %}
 
-## Operable Parts
+### Operable Parts
 
 [[§611.3]({{ site.baseurl }}/ada/#ada-611_3), [§309]({{ site.baseurl }}/ada/#ada-309)]
 
@@ -85,7 +87,7 @@ Coin slides or payment units need to comply with operable parts requirements.  C
 
 {% include recommendation.html text="To accommodate people who have visual impairments, operable parts should be discernable by touch or sound without activation." %}
 
-## Obstructed Side Reach and Unit Height
+### Obstructed Side Reach and Unit Height
 
 [[§308]({{ site.baseurl }}/ada/#ada-308)]
 
@@ -102,25 +104,25 @@ Although top-loading washing machines create an obstruction for users with side 
 
 ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .img-right }{: .thumbnail }
 
-## Common Questions
+### Common Questions
 
-### Can a combination single-unit washer and dryer be used if compliant?
+#### Can a combination single-unit washer and dryer be used if compliant?
 
 An all-in-one unit with a single drum that functions as both a washer and a dryer can be used if it complies with all applicable requirements. If separate washers and dryers are otherwise provided, then it is important that accessible washers and dryers also be separate appliances for equivalent usability and convenience. Where appliances are stacked, including combination washers dryers, accessible units typically need to be separate (i.e., side-by-side) to meet reach range and door opening requirements.
 
-### Are washers and dryers used by employees required to comply?
+#### Are washers and dryers used by employees required to comply?
 
 Washers and dryers used only by employees for work purposes, such as those in laundry rooms used by staff in hotels and hospitals, are not required to meet accessibility requirements.  However, washers and dryers provided for non-work use by employees, such as those in laundry facilities in an employee dormitory, are required to comply.
 
-### Can closet or laundry room doors overlap clear floor space at washers and dryers?
+#### Can closet or laundry room doors overlap clear floor space at washers and dryers?
 
 No.  Closet or laundry room doors must fully clear the required wheelchair space when open.
 
-### Do compliant washers and dryers need to be labeled as accessible in laundry facilities with multiple washers and dryers?
+#### Do compliant washers and dryers need to be labeled as accessible in laundry facilities with multiple washers and dryers?
 
 No.  However, in laundry facilities where not all appliances are accessible, it is advisable to identify those that are with the International Symbol of Accessibility.
 
-### Do portable or temporary washers and dryers need to comply?
+#### Do portable or temporary washers and dryers need to comply?
 
 Yes.  Where three or fewer portable or temporary washers are provided, at least one must comply.  Where more than three washers are provided, at least two units must comply.  The same scoping applies to dryers.
 
