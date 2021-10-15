@@ -56,7 +56,7 @@ Seating in saunas and steam rooms must have at least one compliant bench when se
 The seat of the bench must be 42" long minimum, 20" to 24" deep, and 17" to 19" high. Walls may be used as back support for the bench. Benches not fixed to the wall must provide back support that is 42" long minimum, extends from a point 2" maximum above the seat surface to a point 18" minimum above the seat surface, and is 2½" maximum from the rear edge of the seat measured horizontally (§903.4).
 
 <figure class="center">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/3.png" alt="Side view of a wooden bench with slats on the seat and back rest, and a zoomed-in inset of the portion where the seating connects to the back support." class="img-large">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/3.png" alt="Side view of a wooden bench with slats on the seat and back rest, and a zoomed-in inset of the portion where the seating connects to the back support." class="center">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
     Dimensions show the floor or ground to the top of the seating surface is 17&Prime; to 19&Prime; the leading edge of the seat to the back support is 20&Prime; to 24&Prime; and the top of the back support to surface of the seating slats is 18 inches minimum.  
     The inset image shows dimensions of 2&Prime; maximum from the top surface of seating slat to the bottom edge of back support slat; and a 2½&Prime; maximum from rear edge of seating slat to front of back support slat.
