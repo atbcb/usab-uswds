@@ -1,5 +1,7 @@
-// Import individual theme settings
+// Import the US Web Design System SASS
+@import "uswds";
 
+// Import individual theme settings
 @import "uswds-theme-general";
 @import "uswds-theme-typography";
 @import "uswds-theme-spacing";
@@ -11,9 +13,6 @@
 
 $theme-hero-image: asset_path("hero-wc-temp.jpg");
 
-// Import the US Web Design System SASS
-@import "uswds";
-
 // Import component SASS
 @import "components/sticky";
 @import "components/table-of-contents-subnav";
@@ -21,19 +20,20 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 // Set fonts
 h1, h2 { // default was 2xl
   @include u-font('heading', 'xl');
-  @include u-margin-y(1)
+  @include u-margin-y(1);
 }
 h3 { // default was 2xl
   @include u-font('heading', 'lg');
-  @include u-margin-y(1)
+  @include u-margin-y(1);
 }
 h4 { // default was sm
   @include u-font('heading', 'md');
-  @include u-margin-y(1)
+  @include u-margin-y(1);
+  display:block;
 }
 h5, h6 { // default was xs and 2xs
   @include u-font('heading', 'sm');
-  @include u-margin-y(1)
+  @include u-margin-y(1);
 }
 
 // Add your SASS/CSS here
