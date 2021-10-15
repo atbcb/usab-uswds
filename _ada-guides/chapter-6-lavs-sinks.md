@@ -72,7 +72,7 @@ In mobility accessible dwelling units, lavatories and sinks must comply.&nbsp; A
 
 ### Exceptions for Lavatories and Sinks in Residential Dwelling Units
 
-### Lavatory knee and toe space
+#### Lavatory knee and toe space
 
 <figure class="img-center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/removable_cabinet.png" alt="Cut-away illustration of cabinet under bathroom sink, showing tiled floor." class="center">
@@ -85,13 +85,13 @@ Kitchen sinks that are adjustable to 29&Prime; minimum and 36&Prime; maximum hei
 
 ![A residential dwelling unit kitchen with base cabinetry and conventional range.  Open space beneath kitchen sink provides clearance for a forward approach.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchen.png){: .img-large }
 
-### Lavatories and Sinks for Children's Use
+#### Lavatories and Sinks for Children's Use
 
 Specifications based on children's dimensions may be followed when lavatories or sinks are designed primarily for use by children ages 12 and younger.&nbsp; Structured as exceptions, these provisions are optional and serve as alternatives to adult-based dimensions.&nbsp; The Standards do not require building elements, including lavatories and sinks, to be designed or constructed for use primarily by children.&nbsp; This determination is left to other building requirements or regulations, good practice, client preference, or other factors.&nbsp; Exceptions are provided based on two age groups: children 6 to 12 years and children 5 years and younger.
 
 A parallel approach is permitted to lavatories or sinks used primarily by children 5 and younger (§606.2, Ex. 5).&nbsp; For this age group, the standard fixture height is too low to accommodate a forward approach.
 
-#### Sink for Children Ages 5 and Younger
+##### Sink for Children Ages 5 and Younger
 
 <figure class="center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/child_at_sink.jpg" alt="A 5-year-old child using a wheelchair is positioned for a parallel approach to a sink at counter with base cabinetry." class="center">
@@ -113,6 +113,7 @@ Clear floor space at lavatories and most sinks must provide a forward approach a
 ![Plan view of larger highlighted clear floor space underlying recessed lavatory in alcove.  Clear floor space recessed more than 24 inches deep into an alcove must be 36 inches wide minimum and 48 inches deep minimum.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/sink-36.png){: .img-right }
 
 No element, including towel dispensers, hand dryers, etc., can overlap the clear floor space outside the designated knee and toe space.
+{: .clear }
 
 <aside class="advisory" markdown="1">
 #### Private Office Toilet and Bathing Facilities
@@ -136,9 +137,10 @@ Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum
 
 ![Side view diagram of knee and toe space, showing toe space 9 inches high and 6 inches deep max.  The knee space slopes up 18 inches from the 9 inches height to a 27 inches height over a 3 inch horizontal span (6:1 ratio).  The knee space is 8 inches deep at a full height of 27 inches (for a depth of 11 inches for knee space and a total depth of 17 inches including the 6 inch toe space).]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/7.jpg){: .img-left }
 
-![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum with additional depth (beyond the minimum knee and toe space) providing full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }{: .clearfix }
+![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum with additional depth (beyond the minimum knee and toe space) providing full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }
 
 #### Knee and Toe Space and Reach Depth
+{: .clear }
 
 The knee and toe space must be as deep as the required reach to faucet controls, soap dispensers, and other operable parts.&nbsp; This requirement is necessary because the forward reach for most people typically does not extend beyond the toes.&nbsp; Open space beyond the required toe clearance is permitted.
 
