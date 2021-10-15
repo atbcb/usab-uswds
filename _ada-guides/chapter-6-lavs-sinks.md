@@ -85,7 +85,7 @@ In mobility accessible dwelling units, lavatories and sinks must comply.&nbsp; A
 
 Kitchen sinks that are adjustable to 29&Prime; minimum and 36&Prime; maximum height are allowed if rough-in plumbing permits connections of supply and drainage pipes for sinks mounted at 29&Prime; high (§606.3, Ex. 2).
 
-![A residential dwelling unit kitchen with base cabinetry and conventional range.  Open space beneath kitchen sink provides clearance for a forward approach.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchen.png){: .center }{: .img-large } {: .border }
+![A residential dwelling unit kitchen with base cabinetry and conventional range.  Open space beneath kitchen sink provides clearance for a forward approach.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchen.png){: .center }{: .img-large }{: .border }
 
 ##### Lavatories and Sinks for Children's Use
 
@@ -148,13 +148,13 @@ Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum
 
 ![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum.  Note over arrow reads: Additional depth must provide full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }
 
-<br style="clear" />
+<p style="clear">&nbsp;</p>
 
 #### Knee and Toe Space and Reach Depth
 
 The knee and toe space must be as deep as the required reach to faucet controls, soap dispensers, and other operable parts.&nbsp; This requirement is necessary because the forward reach for most people typically does not extend beyond the toes.&nbsp; Open space beyond the required toe clearance is permitted.
 
-![Person using wheelchair reaching over counter to use faucet controls.  A vertical red dotted line indicates reach range to faucet controls does not extend beyond the leading edge of a highlighted knee and toe clearance space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/9.jpg){: .center }
+![Person using wheelchair reaching over counter to use faucet controls.  A vertical red dotted line indicates reach range to faucet controls does not extend beyond the leading edge of a highlighted knee and toe clearance space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/9.jpg){: .center }{: img-large }
 
 To avoid issues with garbage disposals protruding into knee and toe space, use a sink with a drain located at the rear of the bowl instead of the center.&nbsp; At sinks with two bowls, knee and toe space is required beneath only one bowl (§606.2, Ex. 7).
 {: .advisory }
