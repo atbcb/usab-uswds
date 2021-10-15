@@ -148,7 +148,7 @@ Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum
 
 ![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum.  Note over arrow reads: Additional depth must provide full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }
 
-<p class="clear">&nbsp;</p>
+<br class="clear" />
 
 #### Knee and Toe Space and Reach Depth
 
