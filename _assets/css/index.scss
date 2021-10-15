@@ -29,7 +29,6 @@ h3 { // default was 2xl
 h4 { // default was sm
   @include u-font('heading', 'md');
   @include u-margin-y(1);
-  display:block;
 }
 h5, h6 { // default was xs and 2xs
   @include u-font('heading', 'sm');
@@ -37,6 +36,14 @@ h5, h6 { // default was xs and 2xs
 }
 
 // Add your SASS/CSS here
+
+a.usa-current::after {
+  content: "→" !important;
+}
+a.style-inherit {
+  color: inherit; // blue colors for links too
+  text-decoration: inherit; // no underline
+}
 
 // stylish faux 'page-breaks'
 hr {
@@ -53,10 +60,6 @@ hr {
   color: black; // must much outside div border color
   border-left-color: #f0f0f0; // must match background color
   border-right-color: #f0f0f0; // must match background color
-}
-
-a.usa-current::after {
-  content: "→" !important;
 }
 
 fieldset {
@@ -194,6 +197,7 @@ td ul.check {
   font-style: italic;
   @include u-text("secondary-darker");
 }
+
 @media screen and (max-width: 1024px) {
   .site-logo {
     max-height: 3rem;
@@ -283,7 +287,8 @@ div.advisory p.last {
 }
 
 // create class that combines about page img classes
-.bold, dt {
+.bold,
+dt {
   font-weight: bold;
 }
 .shadow {
@@ -368,7 +373,7 @@ figure.img-right {
   width: 40%;
 }
 .img-large {
-  padding: 10px;
+  padding: 1rem;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
@@ -433,7 +438,7 @@ figure.img-right {
 
 table.data tr:nth-child(even) {
  background-color: #f2f2f2;
-} // zebra stripping by default */
+} // zebra stripping by default 
 // layout tables used in ict preamble
 table.layouttable {
   border-collapse: collapse;
@@ -465,7 +470,6 @@ table.layouttable tr {
     display: block;
   }
 }
-
 @media screen and (max-width: 640px) {
   .paginate-link {
   display: none;
@@ -476,7 +480,6 @@ table.layouttable tr {
 }
 
 // Board member profile cards
-
 .card-header {
   @extend .usa-card__header;
   text-align: center;
@@ -515,11 +518,6 @@ a.style-inherit:focus>div.gray-to-color {
   @include u-margin-bottom(0);
 }
 
-a.style-inherit {
-  color: inherit; // blue colors for links too
-  text-decoration: inherit; // no underline
-}
-
 .pdf-button-container {
   position: relative;
   height: 5rem;
@@ -545,18 +543,15 @@ a.style-inherit {
 .toc-subnav .usa-accordion__button {
   background-color: white;
 }
-
 .toc-subnav .usa-accordion__content {
   @include u-bg('base-lightest');
 }
-
 .toc-subnav .usa-sidenav a:hover {
   @include u-bg('primary-lighter');
   color: black;
 }
 
 //filmstrip
-
 .filmstrip {
   background: repeating-linear-gradient(45deg, #ffe11a, #ffe11a 50%, #fd7400 50%, #fd7400);
   background-size: 20px 20px;
