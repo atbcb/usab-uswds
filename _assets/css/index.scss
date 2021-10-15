@@ -99,7 +99,7 @@ ol li ol li ol li {
 .clearfix {
   overflow: auto;
 }
-.clearfix::before {
+.clearfix::after {
   display: block;
   clear: both;
   content: " ";
