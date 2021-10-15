@@ -305,13 +305,7 @@ dt {
   float: left;
   margin: 1rem 2rem 1rem 0rem;
   max-width: 45%;
-  overflow: auto;
-}
-figure.img-left {
-  display: block;
-  float: left;
-  margin: 1rem 2rem 1rem 0rem;
-  max-width: 45%;
+  overflow: auto; // did not work
 }
 .img-left-border {
   display: block;
@@ -325,14 +319,8 @@ figure.img-left {
   float: right;
   margin: 1rem 0rem 1rem 2rem;
   max-width: 45%;
-  height: auto;
-  overflow: auto; // did not work
-}
-figure.img-right {
-  display: block;
-  float: right;
-  margin: 1rem 0rem 1rem 2rem;
-  max-width: 45%;
+  height: auto; // new
+  overflow: hidden; // new
 }
 .img-right-border {
   display: block;
