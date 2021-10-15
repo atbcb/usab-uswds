@@ -325,7 +325,8 @@ figure.img-left {
   float: right;
   margin: 1rem 0rem 1rem 2rem;
   max-width: 45%;
-  overflow: auto;
+  height: auto;
+  overflow: auto; // did not work
 }
 figure.img-right {
   display: block;
