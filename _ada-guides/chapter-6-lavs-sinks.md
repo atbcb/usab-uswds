@@ -146,6 +146,8 @@ Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum
 
 ![Side view diagram of knee and toe space, showing knee and toe space 25 inches deep maximum.  Note over arrow reads: Additional depth must provide full knee clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/8.png){: .img-right }
 
+<br style="clear" />
+
 #### Knee and Toe Space and Reach Depth
 
 The knee and toe space must be as deep as the required reach to faucet controls, soap dispensers, and other operable parts.&nbsp; This requirement is necessary because the forward reach for most people typically does not extend beyond the toes.&nbsp; Open space beyond the required toe clearance is permitted.
@@ -166,8 +168,6 @@ The maximum reach of 48&Prime; is reduced to 44&Prime; when the depth of the for
 {% include recommendation.html text="Towel dispensers should be usable at the accessible lavatory so that people do not need to operate mobility devices with wet hands.&nbsp; Make sure that dispensers or any other elements do not overlap the lavatory clear floor space outside the designated knee and toe space." %}
 
 ![Plan view of person using wheelchair at multi-user bathroom sink and reaching for towel dispenser located on side wall, adjacent to sink, and outside highlighted clear floor space for lavatory.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/reach-paper_towel.jpg){: .center }{: .img-large }
-
-![Plan view of person using wheelchair at multi-user bathroom sink and reaching for towel dispenser located on side wall, adjacent to sink, and outside highlighted clear floor space for lavatory.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/reach-paper_towel.jpg){: .center }{: .img-medium }
 
 
 {% include recommendation-2imgs.html
