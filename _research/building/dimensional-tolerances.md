@@ -53,7 +53,7 @@ In order to eliminate uncertainty in compliance with accessibility standards, th
 ---
 
 ### Part I
-**Summary of the project**
+#### Summary of the project
 
 Throughout the course of the project representatives from various trade organizations that represent the following materials that may be used for exterior surfaces were invited and encouraged to participate to develop industry standard tolerances, installation methods, and measurement protocols unique to the individual materials their organizations represent.
 
@@ -103,8 +103,7 @@ Second, trade groups have certain priorities, such as the promotion of a specifi
 
 Third, the typical structure of a trade group makes it difficult to complete standards development. Trade organizations vary in their size, membership, funding, and type of full - time administration support. Most trade associations rely on volunteer participation of their membership to develop standards and produce publications, which takes a significant amount of (generally unpaid) time. Leadership also varies, ranging from members elected to short - term positions (a president, for example) to full - time (and long term) administrators with extensive office support. A long - term project often lacks a continuity of leadership and commitment, especially in smaller organizations. A limited budget may also prelude participation. 
 
-**Current industry standard practices resulting from this project\
-**
+#### Current industry standard practices resulting from this project
 
 *Interlocking Concrete Pavement Institute (ICPI)*\
 The ICPI, along with the Brick Industry Association and the National Concrete Masonry Association, funded research in 2002 to evaluate the vibration exposure during electric and manual wheelchair propulsion over several types of sidewalk surfaces. Studies were repeated in 2003 and 2004 to determine the effects of environmental factors and evaluate additional surface types. The research was conducted by the University of Pittsburgh Human Engineering Research Laboratory and was based on exposure limits of vibration to the human body established in ISO 2631, Evaluation of Human Exposure to Whole - Body Vibration.
@@ -119,14 +118,11 @@ The BIA participated in the funding of the research conducted at the University 
 *Tile Council of North America (TCNA)*\
 The TCNA participated in this project and developed guidelines for ramp slopes, changes in level, flatness and lippage. These were published in the 2009 edition of the TCA Handbook for Ceramic Tile Installation. Refer to the TCNA document in Part 3 for the full text of the guidelines. 
 
-**Areas for further work\
-**
+#### Areas for further work
 
 In the process of assisting the various organizations that represent surface materials and professional groups the following issues were identified as parameters that might be considered in the development of any industry standards. Of course, it was not expected that all of these would be included in any one industry's standards, but they do indicate the range and complexity of issues related to construction tolerances and accessibility, both with surfaces and any other aspect of accessible construction. This list may be useful for any future work.
 
-> *Design issues:\
-> *
->
+##### Design issues:
 > - Existing industry tolerances
 > - Units of measure
 > - Measurement instruments
@@ -135,7 +131,7 @@ In the process of assisting the various organizations that represent surface mat
 > - Metric conversions or dual unit standards
 > - Measurement of dimensions that involve two or more trades/materials
 >
-> *Construction issues:*
+#### Construction issues:
 >
 > - How/where to take measurements/precision of measurement
 > - Accuracy of construction/tolerances for individual materials
@@ -146,8 +142,7 @@ In the process of assisting the various organizations that represent surface mat
 > - Maintenance/durability of surfaces
 > - Workforce training
 >
-> *Usability issues:\
-> *
+#### Usability issues:
 >
 > - Planarity
 > - Maneuverability
@@ -166,16 +161,14 @@ In the end, most of these issues were not considered by the trade and material o
 
 ### Part II
 
-**Suggested best practices for architects and other design professionals**
-
+#### Suggested best practices for architects and other design professionals
 As the construction industry works to develop standards for construction tolerances related to specific materials and applications for accessible surfaces, design professionals must also work to minimize problems caused by tolerance issues. In fact, one of the easiest ways to avoid problems is to design construction elements that take the reality of construction tolerances into account.
 
 Design professionals have the tools with existing construction practices to minimize problems with construction tolerances. It is simply a matter of clearly communicating four things: (1) what is wanted, (2) the standards used, (3) how compliance will be verified, and (4) what the result of noncompliance will be. Of course, if industry standards do not exist, the architect or designer must create their own for each project. The following suggestions describe how design, drawings, specifications, pre - construction meetings, and construction observation can be used in this effort. In some cases, designers can use these tools as they exist. In other cases only slight changes may be required to adapt them to communicate and achieve accessibility requirements.
 
-**1 - Design and drawing\
-**
+#### 1 - Design and drawing
 
-*Current practice*\
+##### Current practice
 It is typical practice for architects to use the values published in guidelines and standards and repeat the values on the drawings. If the value is a minimum or maximum or a range, this fact may not be communicated to the contractor, who may think that there is a tolerance allowed.
 
 In the preamble adopting the 2004 guidelines as the 2010 Standards for Accessible Design the Department of Justice clarified Sections 104.1 and 104.1.1 saying that conventional industry tolerances apply to absolute dimensions (for example, a single number) as well as to dimensions that are stated as either a minimum or maximum value. Tolerances do not apply where a requirement states a range; for example, that grab bars must be installed between 33 inches and 36 inches above the finished floor.
@@ -188,7 +181,7 @@ When a dimension is especially important, drafters may use the word "HOLD" or so
 
 Although significant figures could be used as a way to state expected accuracy or certainty in a measurement, the practice of using feet, inches, and fractions of an inch do not allow this as the method is currently used. However, the use of SI units can imply the accuracy intended by varying the number of digits beyond the decimal place.
 
-**1.1 Best practices for design**
+##### 1.1 Best practices for design
 
 > **1.1.1** When a maximum or minimum dimension is a regulatory requirement use a drawing dimension that is less than a maximum limit or more than a minimum limit. The dimension should be determined by the expected tolerance of the construction element.
 >
@@ -210,20 +203,19 @@ Although significant figures could be used as a way to state expected accuracy o
 >
 > For accessible surfaces constructed of small, individual units, such as concrete pavers or wood slats, the drawings (along with the specifications) should include the best method to install the material to minimize variations in smoothness and maintain a uniform surface over the life span of the material.
 
-**1.2 Best practices for drawing\
-**
+##### 1.2 Best practices for drawing
 
 > **1.2.1** Use the plus - or - minus symbol (Â±) after a dimension when it must be made clear what the expected tolerance is. This should be coordinated with the specification requirements. Although current practice dictates that tolerances only be included in the specifications, many workers reading the drawings do not read the specifications so it makes sense to show critical tolerances on the drawings as well. Also include a general note stating that no additional allowances either plus or minus will be allowed. For example, use a format such as 6' - 4" (Â±1/8") or 1930 (Â±3 mm).
 >
 > **1.2.2** Use datum dimensioning referenced to a primary or secondary control point on the construction site when the position of one item is particularly important. Do not dimension it based on one or more dimensions in a string.
 
-**2 - Specifications**
+#### 2 - Specifications
 
 Specifications provide an ideal place to prevent many of the problems associated with construction tolerances. Specifications allow the requirements to be stated as succinctly or as elaborately as required. The four items that should be communicated as stated in the introduction to this guide can clearly be defined in the specifications with corresponding dimensions shown on the drawings. These include: (1) tolerance requirements (what is wanted), (2) the standards used, (3) how compliance will be verified, and (4) what the result of noncompliance will be.
 
 If specific tolerances or requirements are not stated in the specifications (or drawings) it is generally held by the courts that industry standards apply. However, many industries do not have tolerance standards or the problematic element may be part of a larger assembly for which there are no standard tolerances, the placement of a toilet, for example. When tolerances do not exist and there are no clear standards, disputes arise and the courts may decide the issue, with the accompanying cost and time implications for the design professional. If there are conflicts between drawings and specifications, specification requirements generally override the drawings.
 
-*Current practice*\
+##### Current practice
 Nearly all architects use the 3 - part format, developed by the Construction Specifications Institute, for writing individual specification sections. The 3 - part format has places to include all requirements related to tolerances and measurement protocols. One or more of them should be used as needed to describe the requirements of a project. These include the following.
 
 - References to industry standards: Part 1, References
@@ -236,47 +228,42 @@ Nearly all architects use the 3 - part format, developed by the Construction Spe
 
 Many manufacturers and trade groups have guide specifications that include their product's tolerances. In addition, master specifications, such as SPECTEXTÂ® and MasterSpecÂ® include tolerances in many of their sections.
 
-> **2.1 Best practices for stating tolerances in the specifications\
-> **
+##### 2.1 Best practices for stating tolerances in the specifications
 >
-> **2.1.1 **Clearly state the required installed tolerances for critical construction elements. In most cases, it is best to refer to industry standard tolerances or other industry documents when they exist. For example, ACI 117, Specifications for Tolerances for Concrete Construction and Materials and Commentary can be included without having to list the hundreds of individual tolerances given in the standard. If tolerances stricter than those given in an industry standard are required for a specific project, these should be stated, with the recognition that tighter tolerances may increase construction cost or time or both.
+> **2.1.1** Clearly state the required installed tolerances for critical construction elements. In most cases, it is best to refer to industry standard tolerances or other industry documents when they exist. For example, ACI 117, Specifications for Tolerances for Concrete Construction and Materials and Commentary can be included without having to list the hundreds of individual tolerances given in the standard. If tolerances stricter than those given in an industry standard are required for a specific project, these should be stated, with the recognition that tighter tolerances may increase construction cost or time or both.
 >
 > **2.1.2** State the required tolerances for elements for which there are no industry standards. These may also include elements for which there is an industry tolerance for one aspect of the element but not others. For example, a product may have a manufacturing tolerance and an installed positional tolerance but not have an orientation tolerance for plumb.
 >
 > **2.1.3** State requirements for critical accumulated tolerances. These are instances where individual products and installation procedures may conform to industry standard tolerances but the final installed element may not meet regulatory, functional, or aesthetic requirements.\
 >\
-> **2.2 Best practices for stating standards**
+
+##### 2.2 Best practices for stating standards
 >
 > **2.2.1** List all applicable industry standards that define tolerances and measurement protocols, if any.
 >
 > **2.2.2** Set requirements for independent testing agencies that may be required to perform measurement for compliance. Specify the measurement tools that should be used to determine compliance with the tolerances.
 >
-> **2.3 Best practices for stating how compliance will be verified\
-> **
+##### 2.3 Best practices for stating how compliance will be verified
 >
 > **2.3.1** Define the measurement protocols to be used to check for compliance with the tolerances and standards. This may include where measurements are made, how many should be made, and the number or percentage of measurements that must fall within the limits to be considered acceptable. For example, specifications may include limits on the number of local variations (dips and humps) on an accessible ramp to a maximum of 10 percent slope for no more than 20 percent of the measurements taken. If industry standards exist for measurement protocols, these should be referenced.
 >
 > **2.3.2** Define the measurement tools that should be used. The acceptable tools should be selected based on the accuracy required and a reasonable balance between the accuracy of the tool and the time, cost, and experience required for measurement. For example, floor profilers can provide a very accurate measurement of surface flatness but are expensive and require training to use. For exterior surfaces, a surveyor's transit or digital inclinometer may provide acceptable measurement for the same task.
 >
-> **2.4 Best practices for stating the result of noncompliance\
-> **
+##### 2.4 Best practices for stating the result of noncompliance
 >
 > **2.4.1** Based on the methods for measuring compliance, define what remedial actions are acceptable when construction elements exceed tolerances. These may include total replacement, partial replacement, adjustment, moving, filling, patching, or other operations as appropriate for the construction element.
 >
 > **2.4.2** When defining acceptable methods of correction for a non - complying element, give reasonable consideration to how the remedial action may affect construction time, cost, adjacent construction, and appearance. If possible, give the contractor options for how the element may be brought into compliance.
 
-**3 - Best practices for pre - construction meetings\
-**
+#### 3 - Best practices for pre - construction meetings
 
 Pre - construction meetings provide another commonly used technique to communicate the required needs of the project. All interested parties are together (or on a conference call or teleconference). The designer can ask if everyone has read the specification requirements and interpreted the drawings correctly. Unusual or particularly tight tolerances can be discussed, questions asked, construction techniques suggested, measurement methods outlined, and how compliance will be checked can all be brought into the open. Requirements for pre - construction meetings should be clearly stated in the specifications.
 
-**4 - Best practices for construction observation\
-**
+#### 4 - Best practices for construction observation
 
 Construction observation is the final step in building an accessible element to meet design and regulatory requirements. Even though the final responsibility rests with the contractor, the architect, or other design professional should be observing construction and requiring the contractor to use the measurement protocols outlined in the specifications. For large projects for where extensive accessible surfaces are required, early checking should be done to suggest needed adjustments to construction techniques. The final check, of course, is with the regulatory agencies.
 
-**Suggested accessibility guidelines for exterior concrete surfaces\
-**
+#### Suggested accessibility guidelines for exterior concrete surfaces
 
 Current standards for ramps, sidewalks, and intersections and other concrete tolerances are given in ACI 117, Specification for Tolerances for Concrete Construction and materials and Commentary. The following tolerances may be applicable for exterior accessible surfaces. Other tolerances and measurement protocols are given using various methods but these are for interior surfaces.
 
@@ -288,10 +275,9 @@ Current standards for ramps, sidewalks, and intersections and other concrete tol
 
 If a more detailed method of specifying tolerances and measurement protocols are required the following are suggested. These suggestions are detailed enough to provide information necessary to determine if the surface is suitable for the majority of disabled users but simple enough to allow workers of various skill levels using basic tools to complete the necessary measurements for installations of all sizes.
 
-**1 Accessibility for walks, ramps, and stairs**
+#### 1 Accessibility for walks, ramps, and stairs
 
-**1.1 Measurement protocols\
-**
+##### 1.1 Measurement protocols
 
 > **1.1.1 Measurement tools.** Distance measuring devices should be capable of measuring to a precision of 1/16 in. (1 mm). Angular or slope measuring devices should be capable of measuring to a precision of 0.1 degree and elevation measuring devices should be capable of measuring to a precision of 0.01 ft (1/8 in. or 3 mm).
 >
@@ -331,7 +317,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 > **1.1.7 Measurement of parking areas.** Only accessible access aisles and passenger loading zones that are part of a larger parking area need to be measured. These areas should be considered as a pedestrian walk with a minimum width of 60 in. and a length of approximately 20 ft and with an ADA/ABA - AG maximum slope of 1:48 in both directions. Overall running slope (in the long dimension) and cross slope (in the short direction) should be measured according to Section 1.1.3 and 1.1.4. This means that the overall slope in the long dimension should be measured along the center of the aisle or zone using the ends of the area as elevation measuring points and cross slope should be measured at each end of the area and at the midpoint of the area. See Fig. 3.
 >
 > ![Figure 3 Parking access aisles and passenger loading zone measurement]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig3.jpg)\
-> **1.1.8 Alternate measurement tools. **Walks may be measured with instruments other than a digital inclinometer if they provide the data required for evaluation of tolerances as given in Sections 1.2.1, 1.2.2, and 1.2.3. If the F - number system is used pedestrian paths should have a minimum FF of 25. Running slope should be measured along the same lines of measurements as given in Section 1.1.3.
+> **1.1.8 Alternate measurement tools.** Walks may be measured with instruments other than a digital inclinometer if they provide the data required for evaluation of tolerances as given in Sections 1.2.1, 1.2.2, and 1.2.3. If the F - number system is used pedestrian paths should have a minimum FF of 25. Running slope should be measured along the same lines of measurements as given in Section 1.1.3.
 >
 > Although the F - number system can be used to measure surface flatness for smooth surfaces it requires expensive equipment and workers trained to do the measurement.
 >
@@ -343,7 +329,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > **1.1.10 Ramps.** Measure accessible ramps for overall running slope and cross slope as well as local running slope and cross slope variations (flatness) in accordance with Sections 1.1.11, 1.1.12, 1.1.13, and 1.1.14. Accessible ramps include curb ramps as well as other exterior ramps.
 >
-> **1.1.11 Ramp running slope. **Measure for overall running slope of ramps by determining elevations at the top and bottom of the ramp at the midpoint of the width of each ramp run and calculate the slope using the horizontal ramp length and difference between top and bottom elevations (i.e. the rise over the run).
+> **1.1.11 Ramp running slope.** Measure for overall running slope of ramps by determining elevations at the top and bottom of the ramp at the midpoint of the width of each ramp run and calculate the slope using the horizontal ramp length and difference between top and bottom elevations (i.e. the rise over the run).
 >
 > **1.1.12 Ramp cross slope.** Measure for overall cross slope of ramps by establishing elevations at the extreme edges of the ramp at the top and bottom of the ramp and calculate the cross slope at these two locations using the horizontal ramp width and difference between elevations at the edges of the ramp (i.e. the rise over the run). A simple method of establishing the relative elevations of the top and bottom of each ramp is to use a rotating laser level on a tripod and document the difference in height on a stiff metal tape measure or surveyor's rod.
 >
@@ -366,7 +352,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > Requiring measurement along the running slope for every additional 36 inches means that measurements will always be taken to account for a distance between 24 inches and 42 inches. This is approximately where the path of a wheelchair or other mobility aids would be used without requiring excessive lines of measurement for wide ramps.
 >
-> **1.1.14 Flatness of ramp cross slope. **For ramps, measure flatness of cross slope by placing a 24 - in. (600 mm) digital inclinometer perpendicular to the line of travel at 4 ft (1200 mm) intervals with not less than two measurements per ramp. For short ramps where only two measurements are made, measure cross slope at the top and bottom of the ramp. For ramps up to and including 5 ft (1525 mm) wide between the handrails, measure cross slope in the center of the ramp. See Fig. 6(a).
+> **1.1.14 Flatness of ramp cross slope.** For ramps, measure flatness of cross slope by placing a 24 - in. (600 mm) digital inclinometer perpendicular to the line of travel at 4 ft (1200 mm) intervals with not less than two measurements per ramp. For short ramps where only two measurements are made, measure cross slope at the top and bottom of the ramp. For ramps up to and including 5 ft (1525 mm) wide between the handrails, measure cross slope in the center of the ramp. See Fig. 6(a).
 >
 > Because most exterior ramps will be 5 ft wide or less and the most common path of travel would be approximately in the middle of the path it seems reasonable to measure at the center of the ramp.
 >
@@ -375,7 +361,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 > As the ramp gets wider, users may tend to travel toward one side or the other, especially if the ramp is not a curb ramp and has handrails.
 >
 > ![Figure 6 Ramp flatness measurement for cross slope for ramps up to and including 5 feet wide and ramps over 5 feet wide]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig6.jpg)\
-> **1.1.15 Flatness of ramp landings. **Measure ramp landings at the midpoints of each landing in each direction using a 24 - in (600 mm) digital inclinometer. Edges of the ramp landing should coincide with the cross slope measurements as described in Section 1.1.12.
+> **1.1.15 Flatness of ramp landings.** Measure ramp landings at the midpoints of each landing in each direction using a 24 - in (600 mm) digital inclinometer. Edges of the ramp landing should coincide with the cross slope measurements as described in Section 1.1.12.
 >
 > **1.1.16 Alternate measurement tools**. Ramps may be measured with instruments other than a digital inclinometer if they provide the data required for evaluation of tolerances as given in Sections 1.2.5, 1.2.6, and 1.2.7. If the F - number system is used ramps should have a minimum FF of 25. Measure running slope along the same lines of measurements as stated in Section 1.1.13
 >
@@ -393,14 +379,13 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > For exterior stairs sloped from the riser to the nosing for drainage, measure the slope of each tread using a digital inclinometer placed along a line as indicated in 1.1.17.
 
-**1.2 Suggested tolerances\
-**
+##### 1.2 Suggested tolerances
 
 > **1.2.1 Walks and other non - ramp surfaces.** When overall running slope for walks is measured according to Section 1.1.3 a recommended tolerance for running slope is +1%. When overall cross slope for sidewalks is measured according to 1.1.4 a recommended tolerance for cross slope is +0.5%.
 >
 > **1.2.2** When flatness of running slope for an accessible surface other than a ramp is measured according to Section 1.1.5 no more than 20% (rounded to the nearest whole number) of the measurements should exceed Â±1/4 in. in 10 ft (Â±6 mm in 3 m). When flatness of cross slope for an accessible surface other than a ramp is measured according to Section 1.1.6 at least 80% (rounded to the nearest whole number) of the measurements should not exceed a 2% slope. The remaining measurements should not exceed a 2.5% slope.
 >
-> **1.2.3 Landings. **Both measurements of ramp landings as described in Section 1.1.15 should not exceed a plus tolerance of 0.5%.
+> **1.2.3 Landings.** Both measurements of ramp landings as described in Section 1.1.15 should not exceed a plus tolerance of 0.5%.
 >
 > **1.2.4** When local horizontal discontinuities and vertical alignments are measured according to Section 1.1.9 a recommended tolerance is Â±1/8 in. (3 mm).
 >
