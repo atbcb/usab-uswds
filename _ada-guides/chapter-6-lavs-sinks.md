@@ -54,7 +54,7 @@ Specifications for lavatories address clear floor space for a forward approach, 
 Sinks are subject to the same criteria as lavatories, but some sinks are permitted a parallel approach instead of a forward approach.&nbsp; In kitchens, kitchenettes, and breakrooms without a cooktop or conventional range, a parallel approach is permitted at kitchen sinks (§606.2, Ex. 1).&nbsp; A parallel approach is also permitted at wet bars (i.e., bars or counters that have sinks with running water and are used for mixing drinks).&nbsp; Where multi-bowl sinks are provided, only one bowl must comply with knee and toe space clearance (§606.2, Ex. 7).
 
 <figure class="center">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range.  Clear floor space for a parallel approach in front of the sink is highlighted." class="img-large">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchenette-w_cfs.png" alt="A breakroom/kitchenette with base cabinetry and no cooktop or conventional range.  Clear floor space for a parallel approach in front of the sink is highlighted." class="center">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
     A parallel approach is permitted at kitchen sinks (i.e., sinks used for food preparation) located in breakrooms, kitchenettes, and similar spaces that do not have either a cooktop or conventional range (§606.2, Ex. 1).
   </figcaption>
@@ -77,7 +77,7 @@ In mobility accessible dwelling units, lavatories and sinks must comply.&nbsp; A
 ##### Lavatory knee and toe space
 
 <figure class="center">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/removable_cabinet.png" alt="Cut-away illustration of cabinet under bathroom sink, showing tiled floor." class="img-large border">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/removable_cabinet.png" alt="Cut-away illustration of cabinet under bathroom sink, showing tiled floor." class="center border">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
      Cabinetry is permitted under lavatories if it can be taken out without removal or replacement of the fixture, the finish floor extends beneath it, and the walls behind and surrounding the cabinetry are finished (§606.2, exception 3).
   </figcaption>
@@ -96,7 +96,7 @@ A parallel approach is permitted to lavatories or sinks used primarily by childr
 ###### Sink for Children Ages 5 and Younger
 
 <figure class="center">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/child_at_sink.jpg" alt="A 5-year-old child using a wheelchair is positioned for a parallel approach to a sink at counter with base cabinetry." class="img-large">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/child_at_sink.jpg" alt="A 5-year-old child using a wheelchair is positioned for a parallel approach to a sink at counter with base cabinetry." class="center">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
      A parallel approach is permitted at sinks and lavatories for children 5 and younger.
   </figcaption>
@@ -127,7 +127,7 @@ In single-occupant toilet rooms or bathrooms accessed only through a private off
 Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; deep from the leading edge of the clear floor space.&nbsp; These specified clearances allow space for plumbing, enclosures, and supports outside the minimum clearances.&nbsp; No object may protrude into the required clearances other than the dip of the overflow.
 
 <figure class="center">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/5.jpg" alt="A perspective diagram of knee and toe space and clear floor space.  The leading edge of the knee and toe space clearance is labeled and highlighted." class="img-large">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/5.jpg" alt="A perspective diagram of knee and toe space and clear floor space.  The leading edge of the knee and toe space clearance is labeled and highlighted." class="center">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
     No protrusions into minimum space permitted (other than dip of overflow).&nbsp; Floor dimensions for knee and toe space are 30 inches wide minimum and 17 to 25 inches deep maximum from leading edge of clear floor space.
   </figcaption>
@@ -154,7 +154,7 @@ Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum
 
 The knee and toe space must be as deep as the required reach to faucet controls, soap dispensers, and other operable parts.&nbsp; This requirement is necessary because the forward reach for most people typically does not extend beyond the toes.&nbsp; Open space beyond the required toe clearance is permitted.
 
-![Person using wheelchair reaching over counter to use faucet controls.  A vertical red dotted line indicates reach range to faucet controls does not extend beyond the leading edge of a highlighted knee and toe clearance space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/9.jpg){: img-large }
+![Person using wheelchair reaching over counter to use faucet controls.  A vertical red dotted line indicates reach range to faucet controls does not extend beyond the leading edge of a highlighted knee and toe clearance space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/9.jpg){: .img-large }
 
 To avoid issues with garbage disposals protruding into knee and toe space, use a sink with a drain located at the rear of the bowl instead of the center.&nbsp; At sinks with two bowls, knee and toe space is required beneath only one bowl (§606.2, Ex. 7).
 {: .advisory }
@@ -269,7 +269,7 @@ Yes.&nbsp; At both indoor or outdoor locations, lavatories and sinks that serve 
 
 #### Are eyewash stations required to be accessible?
 
-Yes.&nbsp; Eye wash stations must comply as operable parts (§309), including requirements for clear floor space and controls that are within accessible reach range and operable without tight grasping, pinching, twisting of the wrist, or more than 5 lbf.&nbsp; Products that are usable while standing and from seated positions, including forward approach access at those with basins or bowls, are recommended for greater usability.
+Yes.&nbsp; Eye wash stations must comply as operable parts (§309), including requirements for clear floor space and controls that are within accessible reach range and operable without tight grasping, pinching, twisting of the wrist, or more than 5lbs force.&nbsp; Products that are usable while standing and from seated positions, including forward approach access at those with basins or bowls, are recommended for greater usability.
 
 ----
 
