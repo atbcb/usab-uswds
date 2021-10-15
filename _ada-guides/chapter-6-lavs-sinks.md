@@ -6,7 +6,7 @@ file-description: PDF version of Chapter 6 Lavatories and Sinks Guide
 ---
 ## {{ page.title }}
 
-This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for Lavatories and Sinks.
+This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for lavatories and sinks.
 
 ![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/sink.png){: .img-right }{: .thumbnail }
 
