@@ -16,7 +16,7 @@ Saunas and steam rooms, where provided, must be accessible. Where two or more sa
 
 ![The inside of a sauna showing fixed seating, temperature controls, clothes hooks, and a door with a glazing panel.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/realistic.png){: .img-center }
 
-## Saunas and Steam Rooms
+### Saunas and Steam Rooms
 
 [[§612]({{ site.baseurl }}/ada/#ada-612)]
 
@@ -32,13 +32,13 @@ Requirements for saunas and steam rooms address doors, wheelchair turning space,
   </figcaption>
 </figure>
 
-### Turning Space
+## Turning Space
 
 [[§612.3]({{ site.baseurl }}/ada/#ada-612_3), [§304]({{ site.baseurl }}/ada/#ada-304)]
 
 Wheelchair turning space is required in accessible saunas and steam rooms. This turning space must be a 60" diameter circle or T-shaped. Readily removable benches may obstruct the turning space, but it is advisable that they be placed outside the turning space.
 
-### Benches
+## Benches
 
 [[§612.2]({{ site.baseurl }}/ada/#ada-612_2), [§903]({{ site.baseurl }}/ada/#ada-903)]
 
@@ -53,31 +53,36 @@ Seating in saunas and steam rooms must have at least one compliant bench when se
 
 The seat of the bench must be 42" long minimum, 20" to 24" deep, and 17" to 19" high. Walls may be used as back support for the bench. Benches not fixed to the wall must provide back support that is 42" long minimum, extends from a point 2" maximum above the seat surface to a point 18" minimum above the seat surface, and is 2½" maximum from the rear edge of the seat measured horizontally (§903.4).
 
-<div class="grid-container">
-    <div class="grid-row">
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/3.png" alt="Side view of a wooden bench with slats on the seat and back rest, and a zoomed-in inset of the portion where the seating connects to the back support. Dimensions show the floor or ground to the top of the seating surface is 17 inches to 19 inches; the leading edge of the seat to the back support is 20 inches to 24 inches; and the top of the back support to surface of the seating slats is 18 inches minimum. The inset image shows dimensions of 2 inches maximum from the top surface of seating slat to the bottom edge of back support slat; and a 2 ½ inches maximum from rear edge of seating slat to front of back support slat.">
-        </div>
-        <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/4.png" alt="Elevated perspective view of bench fixed to the wall inside a sauna. Dimensions show 42 inches minimum length of the seat and 42 inches minimum length of the wall acting as back support. ">
-        </div>
-    </div>
-</div>
+<figure class="center">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/3.png" alt="Side view of a wooden bench with slats on the seat and back rest, and a zoomed-in inset of the portion where the seating connects to the back support." class="img-large">
+  <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
+    Dimensions show the floor or ground to the top of the seating surface is 17&Prime; to 19&Prime; the leading edge of the seat to the back support is 20&Prime; to 24&Prime; and the top of the back support to surface of the seating slats is 18 inches minimum.  
+    The inset image shows dimensions of 2&Prime; maximum from the top surface of seating slat to the bottom edge of back support slat; and a 2½&Prime; maximum from rear edge of seating slat to front of back support slat.
+  </figcaption>
+</figure>
+
+![Elevated perspective view of bench fixed to the wall inside a sauna.  Dimensions show 42 inches minimum length of the seat and 42 inches minimum length of the wall acting as back support.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/4.png){: .img-center }
+
+
+
 
 <div class="grid-container">
     <div class="grid-row">
         <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/3.png" alt="Side view of a wooden bench with slats on the seat and back rest, and a zoomed-in inset of the portion where the seating connects to the back support. Dimensions show the floor or ground to the top of the seating surface is 17 inches to 19 inches; the leading edge of the seat to the back support is 20 inches to 24 inches; and the top of the back support to surface of the seating slats is 18 inches minimum. The inset image shows dimensions of 2 inches maximum from the top surface of seating slat to the bottom edge of back support slat; and a 2 ½ inches maximum from rear edge of seating slat to front of back support slat.">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/3.png" alt="Side view of a wooden bench with slats on the seat and back rest, and a zoomed-in inset of the portion where the seating connects to the back support. Dimensions show the floor or ground to the top of the seating surface is 17 inches to 19 inches; the leading edge of the seat to the back support is 20 inches to 24 inches; and the top of the back support to surface of the seating slats is 18 inches minimum. The inset image shows dimensions of 2 inches maximum from the top surface of seating slat to the bottom edge of back support slat; and a 2½ inches maximum from rear edge of seating slat to front of back support slat.">
         </div>
         <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/4.png" alt="Elevated perspective view of bench fixed to the wall inside a sauna. Dimensions show 42 inches minimum length of the seat and 42 inches minimum length of the wall acting as back support. ">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/4.png" alt="Elevated perspective view of bench fixed to the wall inside a sauna. Dimensions show 42 inches minimum length of the seat and 42 inches minimum length of the wall acting as back support.">
         </div>
     </div>
 </div>
+
+
+
 
 The structural strength of benches and back support must withstand a vertical or horizontal force of 250 lbs. In wet locations, the surface of the seat must be slip resistant and not accumulate water.
 
-### Doors
+## Doors
 
 [[§404]({{ site.baseurl }}/ada/#ada-404)]
 
@@ -103,7 +108,7 @@ Where two or more saunas or steam rooms are clustered at a single location, no m
 
 ### Can the entrance to saunas and steam rooms be ramped?
 
-Yes, ramps can serve accessible routes to saunas and steam rooms. However, ramp landings and door maneuvering clearances must be level. Entrance landings must also be designed to accommodate door maneuvering clearances.
+Yes, ramps can serve accessible routes to saunas and steam rooms.  However, ramp landings and door maneuvering clearances must be level. Entrance landings must also be designed to accommodate door maneuvering clearances.
 
 ### Is space for storing a wheelchair or other mobility device required?
 
@@ -115,7 +120,7 @@ Yes, floor or ground surfaces in saunas and steam rooms must be stable, firm, an
 
 ### What is the door width requirement for saunas and steam rooms?
 
-Doors must meet all requirements of §404 and have a clear opening width of 32" minimum. There is no exception for saunas or steam rooms.
+Doors must meet all requirements of §404 and have a clear opening width of 32" minimum.  There is no exception for saunas or steam rooms.
 
 ### Are windows or vision lights on doors required?
 
@@ -123,19 +128,19 @@ No. But if provided, vision lights and glazing panels that permit viewing shall 
 
 ### Must saunas and steam rooms be identified by the International Symbol of Accessibility (ISA)?
 
-Labeling accessible saunas and steam rooms with the ISA is required only where inaccessible ones are present. At least 5% of saunas and steam rooms of the same type in each cluster must comply and be identified by the ISA unless all are accessible (§213.2., Ex. 3, §216.8).
+Labeling accessible saunas and steam rooms with the ISA is required only where inaccessible ones are present.  At least 5% of saunas and steam rooms of the same type in each cluster must comply and be identified by the ISA unless all are accessible (§213.2., Ex. 3, §216.8).
 
 ### Are rules or informational signage required?
 
-Information signage is not required. However, where provided, informational signs, such as rules of conduct, must comply with requirements for visual characters (§703.5). Signs are more legible for persons with low vision when characters contrast as much as possible with their background.
+Information signage is not required. However, where provided, informational signs, such as rules of conduct, must comply with requirements for visual characters (§703.5).  Signs are more legible for persons with low vision when characters contrast as much as possible with their background.
 
 ### If clothes hooks or shelves are provided, do they need to be accessible?
 
-Yes, storage elements, including clothes hooks or shelves, must comply (§225.2). At least one of each type of storage must be within reach range.
+Yes, storage elements, including clothes hooks or shelves, must comply (§225.2).  At least one of each type of storage must be within reach range.
 
 ### Do controls for saunas and steam rooms need to comply with operable parts requirements?
 
-Yes, controls intended for users need to comply with operable parts requirements (§309). Controls must be within reach range and operable with one hand and without tight grasping, pinching, twisting of the wrist, or more than 5 lbf to operate.
+Yes, controls intended for users need to comply with operable parts requirements (§309).  Controls must be within reach range and operable with one hand and without tight grasping, pinching, twisting of the wrist, or more than 5 lbf to operate.
 
 ### Can sauna and steam room walls be used to provide back support for benches?
 
