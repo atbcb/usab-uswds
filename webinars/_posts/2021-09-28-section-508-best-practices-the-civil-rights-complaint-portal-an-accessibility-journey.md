@@ -14,6 +14,9 @@ excerpt: This webinar session will provide an overview by staff from the U.S.
   webinar will include video remote interpreting (VRI) and real-time captioning.
   Questions can be submitted in advance of the session or can be posed during
   the live webinar. Webinar attendees can receive a participation certificate.
+tags:
+  - "508"
+  - webinar
 closed: false
 webinar-start: September 28, 2021 1:00 PM
 webinar-end: September 28, 2021 2:30 PM

@@ -1,7 +1,9 @@
 ---
-first_name: Phillip
-last_name: Bratta
-full_name: Phillip Bratta
 name: phillip-bratta
-agency: USAB
+first_name: Phil
+last_name: Bratta
+full_name: Phil Bratta
+job-title: Technical Writer
+office: Office of Technical and Information Services
+agency: "United States Access Board "
 ---

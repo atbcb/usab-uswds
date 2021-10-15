@@ -6,6 +6,8 @@ banner-title: Indoor Environmental Quality
 status: completed
 year-completed: 2006
 topic: Building and Elements
+file: /files/research/IEQ-Report.pdf
+file-description: PDF of IEQ Report
 permalink: /research/building/indoor-environmental-quality/
 ---
 *A project of the National Institute of Building Sciences (NIBS) with funding support from The Architectural and Transportation Barriers Compliance Board (Access Board)*

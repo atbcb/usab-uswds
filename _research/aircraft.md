@@ -7,29 +7,26 @@ permalink: /aircraft/
 
 {% asset stock/aircraft.jpg alt="airplane flying into sunset" class="img-right shadow radius-lg" %}
 
-The inability to use one’s wheelchair on airplanes makes air travel very difficult, if not impossible, for many people with disabilities. It requires multiple transfers between boarding chairs and aircraft seats, posing injury risks. Airline seats are a poor alternative to personal wheelchairs, which are typically customized for the user’s safety, comfort, and specific medical needs. Further, passengers’ wheelchairs are stowed in the cargo hold and often damaged, mishandled, or lost as a result. 
+The Access Board sponsored a *Study on the Feasibility of Wheelchair Restraint Systems in Passenger Aircraft* in collaboration with the Transportation Research Board (TRB), a component of the National Academies of Science, Engineering, and Medicine.  The TRB conducted their study and issued their final report in mid-September 2021.  The final report presents research findings on the [Technical Feasibility of a Wheelchair Securement Concept for Airline Travel: A Preliminary Assessment]({{ site.baseurl}}/files/research/trb-final-report-sept2021.pdf) (PDF, 6MB).
 
-To address these challenges, the U.S. Access Board is undertaking a study to assess the feasibility of equipping aircraft with securement systems so that passengers can remain in their wheelchairs on flights. Congress directed the Board to study this issue in the [Reauthorization Act](https://www.congress.gov/bill/115th-congress/house-bill/302/text?q=%7B%22search%22%3A%5B%22FAA+Reauthorization%22%5D%7D).  
+The Access Board hosted a virtual public briefing on TRB’s final report on September 22, 2021.  Presenters included four members of the TRB Study Committee, including Chair Dr. Alan Jette. Members of the public were able to pose questions during the event. Slides from the public briefing are available in [PowerPoint (2MB)]({{ site.baseurl}}/files/presentations/usab-trb-public-briefing-2021-09-22.pptx) and [PDF (.5MB)]({{ site.baseurl}}/files/presentations/usab-trb-public-briefing-2021-09-22.pdf) formats.  A [recording (YouTube)](https://www.youtube.com/watch?v=VBJBi-DQRRk) from the live event is also available.
 
-The Board is conducting this study in partnership with the Transportation Research Board, a component of the National Academies of Science, Engineering, and Medicine. To thoroughly address the research topic, TRB has organized a committee of experts in aircraft interiors and safety engineering, accessibility, wheelchair design and crashworthiness, airline operations, and other disciplines. The committee held its first meeting in February 2020. 
+In the FAA Reauthorization Act of 2018, Congress directed the Access Board to conduct a study to determine the feasibility of equipping aircraft with securement systems so that passengers can remain in their wheelchairs on flights.  In order to address the many complex technological and engineering questions involved with such a study, the Access Board enlisted the TRB, which has conducted extensive peer-reviewed studies on transportation-related issues. 
 
-Committee members are evaluating the design, engineering, and safety requirements for equipping aircraft with locking or tiedown mechanisms for non-motorized and motorized wheelchairs used as seats. If the committee determines that the use of such systems in passenger aircraft is feasible, it will then assess how the systems can be used to accommodate passengers using wheelchairs through all phases of flight, from boarding to deplaning. 
+To examine the design, engineering, and safety requirements for equipping aircraft with securement mechanisms for wheelchairs, TRB empaneled a study committee of experts in aircraft interiors and safety engineering, accessibility, wheelchair design and crashworthiness, airline operations, and other disciplines.  The committee held numerous open and closed sessions throughout 2020 and 2021, which included presentations from:  disability advocates, manufacturers (of aircraft, wheelchairs, and wheelchair securement systems),  air carriers, and flight attendants. 
 
-The committee held a series of closed and open meetings in 2020.  It will continue to meet in closed sessions throughout 2021 and expects to publish a final report in September 2021.  TRB will submit its report to the Board and to Congress. 
-
-Visit [TRB’s website](https://www8.nationalacademies.org/pa/projectview.aspx?key=51840) for further information on this project.  Direct questions to Mario Damiani of the Access Board at (202) 272-0050 or [damiani@access-board.gov](damiani@access-board.gov) or to Anusha Jayasinghe of TRB at [AJayasinghe@nas.edu](AJayasinghe@nas.edu) or (202) 334-2401. 
+Please visit [TRB’s website](https://www8.nationalacademies.org/pa/projectview.aspx?key=51840) for further information on this project.  Question may also be directed to Mario Damiani of the Access Board at <events@access-board.gov> or to Anusha Jayasinghe of TRB at <ajayasinghe@nas.edu> or 202-334-2401. 
 
 ### FAA Reauthorization Act of 2018 (Public Law 115-254) 
 
-*SEC. 432. STUDY ON IN-CABIN WHEELCHAIR RESTRAINT SYSTEMS.* * 
+#### SEC. 432.&nbsp; STUDY ON IN-CABIN WHEELCHAIR RESTRAINT SYSTEMS. *
 
-*(a) STUDY. Not later than 2 years after the date of enactment of this Act, the Architectural and Transportation Barriers Compliance Board, in consultation with the Secretary of Transportation, aircraft manufacturers, air carriers, and disability advocates, shall conduct a study to determine:*
+(a) STUDY.&nbsp;  Not later than 2 years after the date of enactment of this Act, the Architectural and Transportation Barriers Compliance Board, in consultation with the Secretary of Transportation, aircraft manufacturers, air carriers, and disability advocates, shall conduct a study to determine:
 
-*(1) the feasibility of in-cabin wheelchair restraint systems; and*
+> (1) the feasibility of in-cabin wheelchair restraint systems; and
 
-*(2) if feasible, the ways in which individuals with significant disabilities using wheelchairs, including power wheelchairs, can be accommodated with in-cabin wheelchair restraint systems.*
+> (2) if feasible, the ways in which individuals with significant disabilities using wheelchairs, including power wheelchairs, can be accommodated with in-cabin wheelchair restraint systems.
 
-*(b) REPORT. Not later than 1 year after the initiation of the study under subsection (a), the Architectural and Transportation Barriers Compliance Board shall submit to the appropriate committees of Congress a report on the findings of the study.*
+(b) REPORT.&nbsp; Not later than 1 year after the initiation of the study under subsection (a), the Architectural and Transportation Barriers Compliance Board shall submit to the appropriate committees of Congress a report on the findings of the study.*
 
-*Also known as “wheelchair securement systems.” 
-
+\* Also known as “wheelchair securement systems.” 

@@ -66,7 +66,7 @@ site, this is the place to do it.
 {% if page.title == "Map of WCAG to Section 508 FPC" %}
 <!-- <meta name=viewport content="width=device-width, initial-scale=1"> -->
 {% asset jquery.min.js %}
-{% asset jquery.dataTables.minke.js %}
+{% asset jquery.dataTables.min.js %}
 {% asset natural.js %}
 {% asset components/jquery.dataTables.min_ke.css %}
 {% asset components/responsive.dataTables.minke.css %}
@@ -92,7 +92,7 @@ caption {
   padding: 1.5rem;
   overflow: auto;
 }
-#tablesearch {
+input[type=search] {
   float: right;
   border: 1px solid black;
 	}
@@ -106,8 +106,11 @@ $(document).ready(
     "columnDefs":
     [{ type: 'natural', targets: [0, 9] }
     ],
-    fixedHeader: true
+    fixedHeader: true,
+    "language": {
+    "search": "Dynamic Search:"
   }
+}
   );
 }
 );

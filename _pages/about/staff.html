@@ -1,0 +1,282 @@
+---
+layout: default
+permalink: /about/staff/
+title: Access Board Staff
+---
+{% include section-title.html %}
+<div id="content" class="grid-container padding-top-3 maxw-desktop">
+  <div class="grid-row">
+    <div class="width-desktop usa-prose">
+      <p style="max-width: none;">
+         [introductory paragraph about staff, etc.]
+      </p>
+      <p style="max-width: none;">
+         [introductory paragraph about job openings?] <a href="https://www.usajobs.gov">USA jobs</a> for further information.
+      </p>
+    </div>
+  </div>
+  {% assign otis = site.staff | where: "office", "Office of Technical and Information Services" | sort: "last_name" %}
+  {% assign oa = site.staff | where: "office", "Office of Administration" | sort: "last_name" %}
+  {% assign ogc = site.staff | where: "office", "Office of General Counsel" | sort: "last_name" %}
+  {% assign oed = site.staff | where: "office", "Office of Executive Director" | sort: "last_name" %}
+
+
+
+   <!-- Office of Executive Director -->
+   <div class="">
+    {% for person in oed %}
+    {% if person.director == true %}
+    <h2 class="site-preview-heading">{{ person.office }}</h2>
+      <ul class="usa-card-group">
+        <li class="height-card-lg usa-card usa-card--flag">
+          <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
+            <div class="usa-card__container gray-to-color card-shadow">
+              <header class="usa-card__header">
+                <h2 class="usa-card__heading">{{ person.full_name }}</h2>
+              </header>
+              <div class="usa-card__media">
+                <div class="usa-card__img">
+                  {% if person.image %}
+                  <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
+                  {% else %}
+                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                  {% endif %}
+                </div>
+              </div>
+              <div class="usa-card__body">
+                <p>{{ person.job-title }}</p>
+              </div>
+            </div>
+          </a>
+        </li>
+      </ul>
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="">
+    <ul class="usa-card-group">
+    {% for person in oed %}
+      {% if person.director != true %}
+      <li class="usa-card">
+        <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
+          <div class="usa-card__container gray-to-color card-shadow">            
+            <div class="maxw-card padding-1">
+              <h3 class="card-name">{{ person.full_name }}</h3>
+                {% if person.job-title %}
+                <p class="card-text">{{ person.job-title }}</p>
+                {% endif %}
+            </div>
+            <div class="usa-card__media usa-card__media--inset">
+              <div class="usa-card__img maxw-15 margin-x-auto">
+                {% if person.image %}
+                <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
+                {% else %}
+                <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+
+  </div>
+
+  <br class="page-break">
+
+  <!-- Office of Administration -->
+  <div class="">
+    {% for person in oa %}
+    {% if person.director == true %}
+    <h2 class="site-preview-heading">{{ person.office }}</h2>
+      <ul class="usa-card-group">
+        <li class="height-card-lg usa-card usa-card--flag">
+          <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
+            <div class="usa-card__container gray-to-color card-shadow">
+              <header class="usa-card__header">
+                <h2 class="usa-card__heading">{{ person.full_name }}</h2>
+              </header>
+              <div class="usa-card__media">
+                <div class="usa-card__img">
+                  {% if person.image %}
+                  <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
+                  {% else %}
+                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                  {% endif %}
+                </div>
+              </div>
+              <div class="usa-card__body">
+                <p>{{ person.job-title }}</p>
+              </div>
+            </div>
+          </a>
+        </li>
+      </ul>
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="">
+    <ul class="usa-card-group">
+    {% for person in oa %}
+      {% if person.director != true %}
+      <li class="usa-card">
+        <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
+          <div class="usa-card__container gray-to-color card-shadow">            
+            <div class="maxw-card padding-1">
+              <h3 class="card-name">{{ person.full_name }}</h3>
+                {% if person.job-title %}
+                <p class="card-text">{{ person.job-title }}</p>
+                {% endif %}
+            </div>
+            <div class="usa-card__media usa-card__media--inset">
+              <div class="usa-card__img maxw-15 margin-x-auto">
+                {% if person.image %}
+                <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
+                {% else %}
+                <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+
+  </div>
+
+  <br class="page-break">
+
+  <!-- Office of General Counsel -->
+  <div class="">
+    {% for person in ogc %}
+    {% if person.director == true %}
+    <h2 class="site-preview-heading">{{ person.office }}</h2>
+      <ul class="usa-card-group">
+        <li class="height-card-lg usa-card usa-card--flag">
+          <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
+            <div class="usa-card__container gray-to-color card-shadow">
+              <header class="usa-card__header">
+                <h2 class="usa-card__heading">{{ person.full_name }}</h2>
+              </header>
+              <div class="usa-card__media">
+                <div class="usa-card__img">
+                  {% if person.image %}
+                  <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
+                  {% else %}
+                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                  {% endif %}
+                </div>
+              </div>
+              <div class="usa-card__body">
+                <p>{{ person.job-title }}</p>
+              </div>
+            </div>
+          </a>
+        </li>
+      </ul>
+    {% endif %}
+  {% endfor %}
+  </div>
+  <div class="">
+    <ul class="usa-card-group">
+    {% for person in ogc %}
+      {% if person.director != true %}
+      <li class="usa-card">
+        <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
+          <div class="usa-card__container gray-to-color card-shadow">            
+            <div class="maxw-card padding-1">
+              <h3 class="card-name">{{ person.full_name }}</h3>
+                {% if person.job-title %}
+                <p class="card-text">{{ person.job-title }}</p>
+                {% endif %}
+            </div>
+            <div class="usa-card__media usa-card__media--inset">
+              <div class="usa-card__img maxw-15 margin-x-auto">
+                {% if person.image %}
+                <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
+                {% else %}
+                <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                {% endif %}
+              </div>
+            </div>
+          </div>
+        </a>
+      </li>
+      {% endif %}
+    {% endfor %}
+    </ul>
+
+  </div>
+
+  <br class="page-break">
+
+    <!-- Office of Technical and Information Services -->
+    <div class="">
+      {% for person in otis %}
+      {% if person.director == true %}
+      <h2 class="site-preview-heading">{{ person.office }}</h2>
+        <ul class="usa-card-group">
+          <li class="height-card-lg usa-card usa-card--flag">
+            <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
+              <div class="usa-card__container gray-to-color card-shadow">
+                <header class="usa-card__header">
+                  <h2 class="usa-card__heading">{{ person.full_name }}</h2>
+                </header>
+                <div class="usa-card__media">
+                  <div class="usa-card__img">
+                    {% if person.image %}
+                    <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
+                    {% else %}
+                    <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                    {% endif %}
+                  </div>
+                </div>
+                <div class="usa-card__body">
+                  <p>{{ person.job-title }}</p>
+                </div>
+              </div>
+            </a>
+          </li>
+        </ul>
+      {% endif %}
+    {% endfor %}
+    </div>
+    <div class="">
+      <ul class="usa-card-group">
+      {% for person in otis %}
+        {% if person.director != true %}
+        <li class="usa-card">
+          <a href="{{ site.baseurl }}/about/staff/{{ person.name }}" class="style-inherit">
+            <div class="usa-card__container gray-to-color card-shadow">            
+              <div class="maxw-card padding-1">
+                <h3 class="card-name">{{ person.full_name }}</h3>
+                  {% if person.job-title %}
+                  <p class="card-text">{{ person.job-title }}</p>
+                  {% endif %}
+              </div>
+              <div class="usa-card__media usa-card__media--inset">
+                <div class="usa-card__img maxw-15 margin-x-auto">
+                  {% if person.image %}
+                  <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
+                  {% else %}
+                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                  {% endif %}
+                </div>
+              </div>
+            </div>
+          </a>
+        </li>
+        {% endif %}
+      {% endfor %}
+      </ul>
+  
+    </div>
+  
+    <br class="page-break">
+
+
+</div>

@@ -1,11 +1,11 @@
 ---
-title: Comparison Table of WCAG 2.0 to Existing 508 Standards
+title: Comparison Table of WCAG 2.0 to Original 508 Standards
 layout: page
 sidenav: false
 permalink: /ict/wcag2ict.html
 ---
 <p>The WCAG 2.0 Success Criteria are more explicit than the existing 508 Standards.&nbsp; Careful attention has been given to ensure that the Success Criteria are written as objectively testable requirements.&nbsp; In addition, unlike the existing 508 Standards, WCAG 2.0 is written in a way that is technology neutral and is therefore directly applicable to a wide range of content types and formats.&nbsp; We are providing this table comparing the WCAG 2.0 Level A and AA Success Criteria and the corresponding requirements in the existing 508 Standards to clarify the differences.&nbsp; Where a WCAG 2.0 success criterion is new and does not correspond to a provision in the existing 508 standards, it addresses a deficiency with the existing 508 Standards as identified by the developers of WCAG.&nbsp; In most cases, agencies with Section 508 compliance testing processes have adapted their procedures to address these accessibility concerns.</p>
-<p>There are 38 Level A and AA Success Criteria.&nbsp; Of these, 22 are phrased differently but equivalent in substance to current 508 requirements.&nbsp; Content that meets the current 508 requirements would not have to be changed to meet the corresponding success criteria.&nbsp; Sixteen success criteria are new and content that meets the current 508 requirements might not meet these success criteria.</p>
+<p>There are 38 Level A and AA Success Criteria.&nbsp; Of these, 22 are phrased differently but equivalent in substance to the Original 508 Standards.&nbsp; Content that meets the current 508 requirements would not have to be changed to meet the corresponding success criteria.&nbsp; Sixteen success criteria are new and content that meets the current 508 requirements might not meet these success criteria.</p>
 <table style="border: 1px solid #000000;">
   <thead>
     <tr>
