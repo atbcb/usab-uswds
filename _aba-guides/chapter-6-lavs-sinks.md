@@ -12,22 +12,22 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Compliance
 
-[[§212]({{ site.baseurl }}/ada/#ada-212), [§213.3.4]({{ site.baseurl }}/ada/#ada-213_3_4)]
+[[§F212]({{ site.baseurl }}/aba/#aba-212), [§F213.3.4]({{ site.baseurl }}/aba/#aba-213_3_4)]
 
 The Standards cover access to sink and to lavatories, which are sinks used for handwashing in toilet and bathing facilities.&nbsp; At least one lavatory, where provided, must comply in each accessible toilet or bathing room and be located outside a toilet compartment.
 
-Where sinks are provided in accessible rooms or spaces, at least 5%, but no less than one, of each type must comply.&nbsp; This provision applies to sinks in breakrooms, kitchens and kitchenettes, classrooms, and other spaces required to be accessible.&nbsp; Mop or service sinks, which are intended to be used for janitorial or maintenance purposes, are exempt.&nbsp; Other types of sinks used only by employees to perform work are not required to comply (§203.9), although compliance is advisable.
+Where sinks are provided in accessible rooms or spaces, at least 5%, but no less than one, of each type must comply.&nbsp; This provision applies to sinks in breakrooms, kitchens and kitchenettes, classrooms, and other spaces required to be accessible.&nbsp; Mop or service sinks, which are intended to be used for janitorial or maintenance purposes, are exempt.
 
 <figure class="center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/lab.jpg" alt="A classroom lab with individual sink stations, including sinks and work surfaces with forward approach access.">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
-    At least 5% of sinks, but no less than one sink of each type, must comply in each accessible room or space, such as classroom labs (§212.3).&nbsp; At least 5% of work surfaces must also comply (§226.1).
+    At least 5% of sinks, but no less than one sink of each type, must comply in each accessible room or space, such as classroom labs (§F212.3).&nbsp; At least 5% of work surfaces must also comply (§F226.1).
   </figcaption>
 </figure>
 
 #### Lavatories
 
-[[§606]({{ site.baseurl }}/ada/#ada-606)]
+[[§606]({{ site.baseurl }}/aba/#aba-606)]
 
 Specifications for lavatories address clear floor space for a forward approach, height, faucets, and exposed pipes and surfaces.&nbsp; The Standards also address mirrors, where provided.
 
@@ -49,7 +49,7 @@ Specifications for lavatories address clear floor space for a forward approach, 
 
 #### Sinks
 
-[[§606]({{ site.baseurl }}/ada/#ada-606)]
+[[§606]({{ site.baseurl }}/aba/#aba-606)]
 
 Sinks are subject to the same criteria as lavatories, but some sinks are permitted a parallel approach instead of a forward approach.&nbsp; In kitchens, kitchenettes, and breakrooms without a cooktop or conventional range, a parallel approach is permitted at kitchen sinks (§606.2, Ex. 1).&nbsp; A parallel approach is also permitted at wet bars (i.e., bars or counters that have sinks with running water and are used for mixing drinks).&nbsp; Where multi-bowl sinks are provided, only one bowl must comply with knee and toe space clearance (§606.2, Ex. 7).
 
@@ -68,7 +68,7 @@ Sinks are subject to the same criteria as lavatories, but some sinks are permitt
 
 ### Lavatories and Sinks in Residential Dwelling Units
 
-[[§606.2]({{ site.baseurl }}/ada/#ada-606_2), [§606.3]({{ site.baseurl }}/ada/#ada-606_3)]
+[[§606.2]({{ site.baseurl }}/aba/#aba-606_2), [§606.3]({{ site.baseurl }}/aba/#aba-606_3)]
 
 In mobility accessible dwelling units, lavatories and sinks must comply.&nbsp; Additional exceptions are permitted for fixtures in these facilities.
 
@@ -106,7 +106,7 @@ A forward approach is required at lavatories and sinks primarily used by childre
 
 ### Clear Floor or Ground Space
 
-[[§606.2]({{ site.baseurl }}/ada/#ada-606_2), [§305]({{ site.baseurl }}/ada/#ada-305)]
+[[§606.2]({{ site.baseurl }}/aba/#aba-606_2), [§305]({{ site.baseurl }}/aba/#aba-305)]
 
 Clear floor space at lavatories and most sinks must provide a forward approach and include knee and toe space clearance.&nbsp; It is advisable, but not required, that the clear floor space be centered under the fixture.&nbsp; The knee and toe space must underlie the bowl, faucet controls, and other operable parts of the fixture and must be 17\" to 25\" deep.&nbsp; If the clear floor space is obstructed on both sides for more than half the depth, such as with alcoves, additional clearance is required for maneuvering.
 
@@ -181,7 +181,7 @@ The maximum reach of 48\" is reduced to 44\" when the depth of the forward reach
 
 ### Faucets and Operable Parts
 
-[[§606.4]({{ site.baseurl }}/ada/#ada-606_4), [§205]({{ site.baseurl }}/ada/#ada-205), [§309]({{ site.baseurl }}/ada/#ada-309)]
+[[§606.4]({{ site.baseurl }}/aba/#aba-606_4), [§205]({{ site.baseurl }}/aba/#aba-205), [§309]({{ site.baseurl }}/aba/#aba-309)]
 
 Faucet controls, soap dispensers, and other elements that require manual operation must be usable with one hand and not require tight grasping, pinching, or twisting of the wrist, or more than five pounds of force (lbf) to operate.&nbsp; Metering faucets with manual or touch controls must remain open for at least 10 seconds.
 
@@ -197,7 +197,7 @@ Motion-activated or touch-free faucets and dispensers provide easier access and 
 
 #### Exposed Pipes and Surfaces
 
-[[§606.5]({{ site.baseurl }}/ada/#ada-606_5)]
+[[§606.5]({{ site.baseurl }}/aba/#aba-606_5)]
 
 To avoid injury or burns, water supply and drainage pipes under lavatories and sinks must be insulated, enclosed, or configured to prevent contact.&nbsp; There cannot be sharp or abrasive surfaces under lavatories and sinks.&nbsp; Enclosure of pipes and surfaces must comply with knee and toe space clearance.
 
@@ -210,14 +210,6 @@ To avoid injury or burns, water supply and drainage pipes under lavatories and s
 #### What type of sinks are exempt as "service sinks"?
 
 As used in the Standards, the term "service sinks" is similar in meaning as "mop sinks" and refers to sinks used for janitorial or maintenance purposes.
-
-#### Are work use sinks required to comply?
-
-Sinks and other elements used only by employees for work are not required to comply (§203.9).&nbsp; Examples include sinks in restaurant kitchens and in laboratories not used for instruction.&nbsp; Providing access to work use sinks is advisable.&nbsp; Sinks in public and common use spaces not used solely by employees for work, including classrooms and laboratories used for instruction, must comply.&nbsp; Where multiple sinks are provided, at least 5%, but no less than one, of each type must comply (§212.3).
-
-#### Are laundry room sinks required to comply?
-
-Sinks in laundry facilities not used solely by employees for work, such as those provided for use by residents or guests in residential facilities, dormitories, and other transient lodging, must comply.&nbsp; Those located in commercial laundry facilities and used only by employees, as well as mop or service sinks located in laundry rooms, are not required to comply.
 
 #### Must the clear floor space at lavatories and sinks be centered?
 
@@ -249,7 +241,7 @@ Yes.&nbsp; The Standards do not prohibit location of lavatories outside toilet r
 
 #### Can a lavatory be provided in a wheelchair accessible toilet compartment?
 
-Yes.&nbsp; However, the toilet compartment must meet requirements for toilet rooms, including turning space (§604.8).&nbsp; A second accessible lavatory must be provided outside the compartment (§213.3.4).
+Yes.&nbsp; However, the toilet compartment must meet requirements for toilet rooms, including turning space (§604.8).&nbsp; A second accessible lavatory must be provided outside the compartment (§F213.3.4).
 
 #### Are touch-free (motion sensor) faucets required to remain open for at least 10 seconds?
 
