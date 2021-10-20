@@ -12,7 +12,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Compliance
 
-[[§F212]({{ site.baseurl }}/aba/#aba-212), [§F213.3.4]({{ site.baseurl }}/aba/#aba-213_3_4)]
+[[§F212]({{ site.baseurl }}/aba/#aba-f212), [§F213.3.4]({{ site.baseurl }}/aba/#aba-f213_3_4)]
 
 The Standards cover access to sink and to lavatories, which are sinks used for handwashing in toilet and bathing facilities.&nbsp; At least one lavatory, where provided, must comply in each accessible toilet or bathing room and be located outside a toilet compartment.
 
