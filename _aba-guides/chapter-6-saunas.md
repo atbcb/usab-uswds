@@ -12,7 +12,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Compliance
 
-[[§241]({{ site.baseurl }}/ada/#ada-241)]
+[[§F241]({{ site.baseurl }}/aba/#aba-241)]
 
 Saunas and steam rooms, where provided, must be accessible. Where two or more saunas or steam rooms are clustered at a single location (i.e., next to, or close to, one another), at least 5%, but no less than one of each type, must comply. Examples of different types include, but are not limited to, those designated by gender or features such as wet or dry heat and temperature capacity.
 
@@ -20,7 +20,7 @@ Saunas and steam rooms, where provided, must be accessible. Where two or more sa
 
 #### Saunas and Steam Rooms
 
-[[§612]({{ site.baseurl }}/ada/#ada-612)]
+[[§612]({{ site.baseurl }}/aba/#aba-612)]
 
 Requirements for saunas and steam rooms address doors, wheelchair turning space, benches, and controls and other operable parts.
 
@@ -36,13 +36,13 @@ Requirements for saunas and steam rooms address doors, wheelchair turning space,
 
 ### Turning Space
 
-[[§612.3]({{ site.baseurl }}/ada/#ada-612_3), [§304]({{ site.baseurl }}/ada/#ada-304)]
+[[§612.3]({{ site.baseurl }}/aba/#aba-612_3), [§304]({{ site.baseurl }}/aba/#aba-304)]
 
 Wheelchair turning space is required in accessible saunas and steam rooms. This turning space must be a 60\" diameter circle or T-shaped. Readily removable benches may obstruct the turning space, but it is advisable that they be placed outside the turning space.
 
 ### Benches
 
-[[§612.2]({{ site.baseurl }}/ada/#ada-612_2), [§903]({{ site.baseurl }}/ada/#ada-903)]
+[[§612.2]({{ site.baseurl }}/aba/#aba-612_2), [§903]({{ site.baseurl }}/aba/#aba-903)]
 
 Seating in saunas and steam rooms must have at least one compliant bench when seating is provided. The accessible bench must be fixed or built in. Unobstructed clear floor space 30\" minimum by 48\" minimum is required at the end of the bench and parallel to the short side of the bench. Doors cannot swing into this space. Other readily removable benches may obstruct the clear floor space of the accessible bench, but it is advisable that they be placed outside this space.
 
@@ -69,7 +69,7 @@ The structural strength of benches and back support must withstand a vertical or
 
 ### Doors
 
-[[§404]({{ site.baseurl }}/ada/#ada-404)]
+[[§404]({{ site.baseurl }}/aba/#aba-404)]
 
 Doors to saunas and steam rooms must meet all applicable requirements, including those for clear width (32\" minimum), maneuvering clearance, thresholds, hardware, opening force (5 pounds of force maximum), closing speed, and smooth surfacing at the bottom of the push side. Doors that have a window or glazed panel that permits viewing shall have the bottom edge of the panel no higher than 43\" above the floor so that it can be used from a seated position. If the bottom edge of a window or glazed panel is higher than 66\" above the floor, it is not intended for viewing.
 
@@ -77,7 +77,7 @@ If thresholds are provided at doorways, they cannot exceed ½\" high. The edge m
 
 If entrance landings and ramps are provided to doors, they must accommodate door maneuvering clearances. Maneuvering clearances for wheelchairs apply to both sides of the entry door. Doors cannot swing into the clear floor space required at benches.
 
-For more information on door requirements, see the [Entrances, Doors, and Gates Guide]({{ site.baseurl }}/ada/guides/chapter-4-entrances-doors-and-gates/).
+For more information on door requirements, see the [Entrances, Doors, and Gates Guide]({{ site.baseurl }}/aba/guides/chapter-4-entrances-doors-and-gates/).
 
 ![Elevated perspective view of entrance to sauna with door ajar and scooter parked to the left of the door outside of the required maneuvering space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/outside_sauna.png){: .img-large }
 
@@ -89,7 +89,7 @@ For more information on door requirements, see the [Entrances, Doors, and Gates
 
 #### Is access required to all saunas or steam rooms when clustered?
 
-Where two or more saunas or steam rooms are clustered at a single location, no more than 5% of the saunas and steam rooms, but no fewer than one, of each type in each cluster shall comply (§241).
+Where two or more saunas or steam rooms are clustered at a single location, no more than 5% of the saunas and steam rooms, but no fewer than one, of each type in each cluster shall comply (§F241).
 
 #### Can the entrance to saunas and steam rooms be ramped?
 
@@ -113,7 +113,7 @@ No. But if provided, vision lights and glazing panels that permit viewing shall 
 
 #### Must saunas and steam rooms be identified by the International Symbol of Accessibility (ISA)?
 
-Labeling accessible saunas and steam rooms with the ISA is required only where inaccessible ones are present.  At least 5% of saunas and steam rooms of the same type in each cluster must comply and be identified by the ISA unless all are accessible (§213.2., Ex. 3, §216.8).
+Labeling accessible saunas and steam rooms with the ISA is required only where inaccessible ones are present.  At least 5% of saunas and steam rooms of the same type in each cluster must comply and be identified by the ISA unless all are accessible (§F213.2., Ex. 3, §F216.8).
 
 #### Are rules or informational signage required?
 
@@ -121,11 +121,11 @@ Information signage is not required. However, where provided, informational sign
 
 #### If clothes hooks or shelves are provided, do they need to be accessible?
 
-Yes, storage elements, including clothes hooks or shelves, must comply (§225.2).  At least one of each type of storage must be within reach range.
+Yes, storage elements, including clothes hooks or shelves, must comply (§F225.2).  At least one of each type of storage must be within reach range.
 
 #### Do controls for saunas and steam rooms need to comply with operable parts requirements?
 
-Yes, controls intended for users need to comply with operable parts requirements (§309).  Controls must be within reach range and operable with one hand and without tight grasping, pinching, twisting of the wrist, or more than 5 lbf to operate.
+Yes, controls intended for users need to comply with operable parts requirements (§309).  Controls must be within reach range and operable with one hand and without tight grasping, pinching, twisting of the wrist, or more than 5 pounds of force to operate.
 
 #### Can sauna and steam room walls be used to provide back support for benches?
 
