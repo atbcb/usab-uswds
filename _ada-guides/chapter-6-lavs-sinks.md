@@ -83,7 +83,7 @@ In mobility accessible dwelling units, lavatories and sinks must comply.&nbsp; A
   </figcaption>
 </figure>
 
-Kitchen sinks that are adjustable to 29&Prime; minimum and 36&Prime; maximum height are allowed if rough-in plumbing permits connections of supply and drainage pipes for sinks mounted at 29&Prime; high (§606.3, Ex. 2).
+Kitchen sinks that are adjustable to 29\" minimum and 36\" maximum height are allowed if rough-in plumbing permits connections of supply and drainage pipes for sinks mounted at 29\" high (§606.3, Ex. 2).
 
 ![A residential dwelling unit kitchen with base cabinetry and conventional range.  Open space beneath kitchen sink provides clearance for a forward approach.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/kitchen.png){: .img-large }{: .border }
 
@@ -102,13 +102,13 @@ A parallel approach is permitted to lavatories or sinks used primarily by childr
   </figcaption>
 </figure>
 
-A forward approach is required at lavatories and sinks primarily used by children 6 through 12.&nbsp; However, a lower knee clearance (24&Prime; minimum) is permitted if the rim or counter surface is no higher than 31&Prime; above the finish floor or ground (§606.2, Ex. 4).
+A forward approach is required at lavatories and sinks primarily used by children 6 through 12.&nbsp; However, a lower knee clearance (24\" minimum) is permitted if the rim or counter surface is no higher than 31\" above the finish floor or ground (§606.2, Ex. 4).
 
 ### Clear Floor or Ground Space
 
 [[§606.2]({{ site.baseurl }}/ada/#ada-606_2), [§305]({{ site.baseurl }}/ada/#ada-305)]
 
-Clear floor space at lavatories and most sinks must provide a forward approach and include knee and toe space clearance.&nbsp; It is advisable, but not required, that the clear floor space be centered under the fixture.&nbsp; The knee and toe space must underlie the bowl, faucet controls, and other operable parts of the fixture and must be 17&Prime; to 25&Prime; deep.&nbsp; If the clear floor space is obstructed on both sides for more than half the depth, such as with alcoves, additional clearance is required for maneuvering.
+Clear floor space at lavatories and most sinks must provide a forward approach and include knee and toe space clearance.&nbsp; It is advisable, but not required, that the clear floor space be centered under the fixture.&nbsp; The knee and toe space must underlie the bowl, faucet controls, and other operable parts of the fixture and must be 17\" to 25\" deep.&nbsp; If the clear floor space is obstructed on both sides for more than half the depth, such as with alcoves, additional clearance is required for maneuvering.
 
 ![Plan view of clear floor space underlying lavatory.  Highlighted clear floor space with dimensions of 30 inches wide minimum and 48 inches deep minimum.  The clear floor space underlies the lavatory 17 to 25 inches.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/sink-30.jpg){: .img-left }
 
@@ -124,7 +124,7 @@ In single-occupant toilet rooms or bathrooms accessed only through a private off
 
 ### Knee and Toe Clearances
 
-Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; deep from the leading edge of the clear floor space.&nbsp; These specified clearances allow space for plumbing, enclosures, and supports outside the minimum clearances.&nbsp; No object may protrude into the required clearances other than the dip of the overflow.
+Knee and toe space must be at least 30\" wide and 17\" to 25\" deep from the leading edge of the clear floor space.&nbsp; These specified clearances allow space for plumbing, enclosures, and supports outside the minimum clearances.&nbsp; No object may protrude into the required clearances other than the dip of the overflow.
 
 <figure class="center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/5.jpg" alt="A perspective diagram of knee and toe space and clear floor space.  The leading edge of the knee and toe space clearance is labeled and highlighted." class="center">
@@ -135,7 +135,7 @@ Knee and toe space must be at least 30&Prime; wide and 17&Prime; to 25&Prime; de
 
 ![Side view of sink bowl, drainage pipe, and a highlighted dip of the overflow.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/6.jpg){: .center .img-medium }
 
-Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum high knee clearance can reduce 18&Prime; to a height of 9&Prime; minimum (toe space) over a 3&Prime; span (6:1 slope).&nbsp; When the knee and toe is deeper than 17&Prime;, the additional depth must provide full knee clearance at least 27&Prime; high.
+Beyond a depth of 8\" measured from the leading edge, the 27\" minimum high knee clearance can reduce 18\" to a height of 9\" minimum (toe space) over a 3\" span (6:1 slope).&nbsp; When the knee and toe is deeper than 17\", the additional depth must provide full knee clearance at least 27\" high.
 
 <figure class="img-left">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/7.jpg" alt="Side view diagram of knee and toe space.  Labels read: TOW SPACE and KNEE SPACE." class="center">
@@ -161,7 +161,7 @@ To avoid issues with garbage disposals protruding into knee and toe space, use a
 
 ### Reach at a Lavatory
 
-The maximum reach of 48&Prime; is reduced to 44&Prime; when the depth of the forward reach over an obstruction exceeds 20&Prime;.
+The maximum reach of 48\" is reduced to 44\" when the depth of the forward reach over an obstruction exceeds 20\".
 
 ![Side view of person using a wheelchair positioned for a forward approach at a sink and reaching over countertop.  Dimensions show 48 inches maximum reach height above obstruction (counter) if reach depth is 20 inches maximum.]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/10.jpg){: .img-left }
 
@@ -231,7 +231,7 @@ The Standards do not specify where sinks or lavatories must be designed specific
 
 No.&nbsp; Only the dip of the overflow is permitted within the required knee and toe clearance.
 
-#### Does space beyond the 6&Prime; maximum toe space need to be enclosed?
+#### Does space beyond the 6\" maximum toe space need to be enclosed?
 
 No, it does not need to be enclosed.&nbsp; Open space beyond the 6" maximum toe space is permitted.
 
@@ -257,7 +257,7 @@ No.&nbsp; Manually operated faucet controls that are metered and activate for a 
 
 #### Can accessible mirrors be located above lavatories?
 
-Yes.&nbsp; Accessible mirrors can be located above lavatories or countertops if the bottom of the reflecting surface is 40&Prime; maximum above the finish floor (§603.3).&nbsp; The bottom of the reflecting surface of mirrors not located above lavatories or countertops must be 35&Prime; maximum above the finish floor.
+Yes.&nbsp; Accessible mirrors can be located above lavatories or countertops if the bottom of the reflecting surface is 40\" maximum above the finish floor (§603.3).&nbsp; The bottom of the reflecting surface of mirrors not located above lavatories or countertops must be 35\" maximum above the finish floor.
 
 #### If a toilet room has a full-length mirror and a mirror above a countertop or lavatory, must both types comply?
 
