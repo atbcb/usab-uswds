@@ -1,18 +1,17 @@
-// Import individual theme settings
-
-//@import "uswds-theme-general";
-@import "uswds-theme-typography";
-@import "uswds-theme-spacing";
-//@import "uswds-theme-color";
-//@import "uswds-theme-utilities";
-
-// components import needs to be last
-//@import "uswds-theme-components";
-
-$theme-hero-image: asset_path("hero-wc-temp.jpg");
-
 // Import the US Web Design System SASS
 @import "uswds";
+
+// Import individual theme settings
+@import "uswds-theme-general";
+@import "uswds-theme-typography";
+@import "uswds-theme-spacing";
+@import "uswds-theme-color";
+@import "uswds-theme-utilities";
+
+// components import needs to be last
+@import "uswds-theme-components";
+
+$theme-hero-image: asset_path("hero-wc-temp.jpg");
 
 // Import component SASS
 @import "components/sticky";
@@ -21,22 +20,30 @@ $theme-hero-image: asset_path("hero-wc-temp.jpg");
 // Set fonts
 h1, h2 { // default was 2xl
   @include u-font('heading', 'xl');
-  @include u-margin-y(1)
+  @include u-margin-y(1);
 }
 h3 { // default was 2xl
   @include u-font('heading', 'lg');
-  @include u-margin-y(1)
+  @include u-margin-y(1);
 }
 h4 { // default was sm
   @include u-font('heading', 'md');
-  @include u-margin-y(1)
+  @include u-margin-y(1);
 }
 h5, h6 { // default was xs and 2xs
   @include u-font('heading', 'sm');
-  @include u-margin-y(1)
+  @include u-margin-y(1);
 }
 
 // Add your SASS/CSS here
+
+a.usa-current::after {
+  content: "→" !important;
+}
+a.style-inherit {
+  color: inherit; // blue colors for links too
+  text-decoration: inherit; // no underline
+}
 
 // stylish faux 'page-breaks'
 hr {
@@ -53,10 +60,6 @@ hr {
   color: black; // must much outside div border color
   border-left-color: #f0f0f0; // must match background color
   border-right-color: #f0f0f0; // must match background color
-}
-
-a.usa-current::after {
-  content: "→" !important;
 }
 
 fieldset {
@@ -86,6 +89,23 @@ ol li ol li {
 }
 ol li ol li ol li {
   list-style-type: lower-roman;
+}
+
+.center {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
+.clear {
+  clear: both;
+}
+.clearfix {
+  overflow: auto;
+}
+.clearfix::after {
+  display: block;
+  clear: both;
+  content: " ";
 }
 
 // table styles for Performance and Accountability Report
@@ -177,6 +197,7 @@ td ul.check {
   font-style: italic;
   @include u-text("secondary-darker");
 }
+
 @media screen and (max-width: 1024px) {
   .site-logo {
     max-height: 3rem;
@@ -270,16 +291,10 @@ div.advisory p.last {
 dt {
   font-weight: bold;
 }
-
 .shadow {
   box-shadow: 10px 10px 5px #dfe1e2;
 }
 
-.center {
-  display: block;
-  margin-left: auto;
-  margin-right: auto;
-}
 .img-center {
   display: block;
   margin: 1rem auto 1rem auto;
@@ -289,13 +304,7 @@ dt {
   display: block;
   float: left;
   margin: 1rem 2rem 1rem 0rem;
-  max-width: 50%;
-}
-.img-right {
-  display: block;
-  float: right;
-  margin: 1rem 0rem 1rem 2rem;
-  max-width: 50%;
+  max-width: 45%;
 }
 .img-left-border {
   display: block;
@@ -304,6 +313,12 @@ dt {
   max-width: 50%;
   border: thin inset;
 }
+.img-right {
+  display: block;
+  float: right;
+  margin: 1rem 0rem 1rem 2rem;
+  max-width: 45%;
+}
 .img-right-border {
   display: block;
   float: right;
@@ -311,27 +326,6 @@ dt {
   max-width: 50%;
   border: thin inset;
 }
-
-figure.img-left {
-  display: block;
-  float: left;
-  margin: 1rem 2rem 1rem 0rem;
-  max-width: 50%;
-  border: thin inset;
-}
-figure.img-right {
-  display: block;
-  float: right;
-  margin: 1rem 0rem 1rem 2rem;
-  max-width: 50%;
-  border: thin inset;
-}
-
-.img-medium {
-  padding: 1rem;
-  width: 40%;
-}
-
 .img-grid {
   margin-left: auto;
   margin-right: auto;
@@ -356,14 +350,18 @@ figure.img-right {
   text-align: left;
 }
 
+.img-small {
+  width: 20%;
+}
+.img-medium {
+  width: 40%;
+}
 .img-large {
-  padding: 10px;
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 80%;
-  display: block;
 }
-
 .img-large-caption {
   margin: auto;
   text-align: center;
@@ -371,7 +369,6 @@ figure.img-right {
   font-size: 90%;
   font-style: italic;
 }
-
 .img-full {
   padding: 10px;
   margin-left: auto;
@@ -379,7 +376,6 @@ figure.img-right {
   width: 100%;
   display: block;
 }
-
 .thumbnail {
   width: 15%;
   height: auto;
@@ -396,7 +392,6 @@ figure.img-right {
     }
   }
 }
-
 .thumbnail-wide {
   width: 15%;
   height: auto;
@@ -405,17 +400,8 @@ figure.img-right {
 .align-bottom {
   vertical-align: text-bottom;
 }
-
 .align-top {
   vertical-align: text-top;
-}
-
-.clear {
-  clear: both;
-}
-
-.clearfix {
-  overflow: auto;
 }
 
 // sticky fill js
@@ -435,7 +421,7 @@ figure.img-right {
 
 table.data tr:nth-child(even) {
  background-color: #f2f2f2;
-} // zebra stripping by default */
+} // zebra stripping by default 
 // layout tables used in ict preamble
 table.layouttable {
   border-collapse: collapse;
@@ -467,7 +453,6 @@ table.layouttable tr {
     display: block;
   }
 }
-
 @media screen and (max-width: 640px) {
   .paginate-link {
   display: none;
@@ -478,7 +463,6 @@ table.layouttable tr {
 }
 
 // Board member profile cards
-
 .card-header {
   @extend .usa-card__header;
   text-align: center;
@@ -486,36 +470,30 @@ table.layouttable tr {
   @include u-text('white');
   padding: 1rem;
 }
-
 .gray-to-color {
   -webkit-filter: grayscale(100%);
   filter: grayscale(100%);
 }
-
 .gray-to-color:hover {
   -webkit-filter: none;
   filter: none;
   @include u-bg('primary-lighter');
 }
-
 a.style-inherit:focus>div.gray-to-color {
   -webkit-filter: none;
   filter: none;
   @include u-bg('primary-lighter');
   border: 3px solid lightskyblue;
 }
-
 .card-shadow {
   box-shadow: 0 0 10px -3px #666;
 }
-
 .card-name {
   @include u-font('serif', '2xs');
   @include u-text('center');
   @include u-text('primary');
   @include u-margin-bottom(0);
 }
-
 .card-text {
   @include u-font('serif', '3xs');
   @include u-text('center');
@@ -523,22 +501,15 @@ a.style-inherit:focus>div.gray-to-color {
   @include u-margin-bottom(0);
 }
 
-a.style-inherit {
-  color: inherit; // blue colors for links too
-  text-decoration: inherit; // no underline
-}
-
 .pdf-button-container {
   position: relative;
   height: 5rem;
   overflow: hidden;
 }
-
 .pdf-button {
   margin-right: .5rem;
   margin-top: .5rem;
 }
-
 .pdf-button:focus:before {
   content:attr(title);
   position: absolute; 
@@ -555,18 +526,15 @@ a.style-inherit {
 .toc-subnav .usa-accordion__button {
   background-color: white;
 }
-
 .toc-subnav .usa-accordion__content {
   @include u-bg('base-lightest');
 }
-
 .toc-subnav .usa-sidenav a:hover {
   @include u-bg('primary-lighter');
   color: black;
 }
 
 //filmstrip
-
 .filmstrip {
   background: repeating-linear-gradient(45deg, #ffe11a, #ffe11a 50%, #fd7400 50%, #fd7400);
   background-size: 20px 20px;
