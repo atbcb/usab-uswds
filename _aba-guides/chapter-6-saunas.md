@@ -12,7 +12,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Compliance
 
-[[§F241]({{ site.baseurl }}/aba/#aba-241)]
+[[§F241]({{ site.baseurl }}/aba/#aba-f241)]
 
 Saunas and steam rooms, where provided, must be accessible. Where two or more saunas or steam rooms are clustered at a single location (i.e., next to, or close to, one another), at least 5%, but no less than one of each type, must comply. Examples of different types include, but are not limited to, those designated by gender or features such as wet or dry heat and temperature capacity.
 
