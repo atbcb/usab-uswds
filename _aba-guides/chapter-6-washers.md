@@ -12,13 +12,13 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Compliance
 
-[[§214]({{ site.baseurl }}/ada/#ada-214)]
+[[§F214]({{ site.baseurl }}/aba/#aba-214)]
 
 Scoping for washing machines and clothes dryers is applied independently.  Where up to three washing machines are provided, at least one must comply.  If more than three washing machines are provided, at least two must comply.  The same level of accessibility is required for clothes dryers.
 
 These requirements apply to various types of laundry facilities, including, but not limited to, those serving residential dwelling units, dormitories and other types of transient lodging, laundromats, and recreation facilities.
 
-Washing machines and clothes dryers only used by employees to perform work are not required to comply, although compliance is advisable (§203.9).
+Washing machines and clothes dryers only used by employees to perform work are not required to comply, although compliance is advisable (§F214.1 Ex.).
 
 ![A laundromat showing an area with washers at ground level and additional raised machines in the background.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/laudromat.png){: .center }
 
@@ -26,7 +26,7 @@ Washing machines and clothes dryers only used by employees to perform work are n
 
 #### Washing Machines and Clothes Dryers
 
-[[§611]({{ site.baseurl }}/ada/#ada-611)]
+[[§611]({{ site.baseurl }}/aba/#aba-611)]
 
 The Standards address both top-loading and front-loading washing machines and clothes dryers.  Requirements address clear floor space, operable parts, and height.
 
@@ -41,9 +41,9 @@ The Standards address both top-loading and front-loading washing machines and cl
 
 ### Clear Floor Space
 
-[[§611.2]({{ site.baseurl }}/ada/#ada-611_2)]
+[[§611.2]({{ site.baseurl }}/aba/#aba-611_2)]
 
-Clear floor space must be centered on the appliance and positioned for a parallel approach. Enclosures, including doors when open, cannot overlap or obstruct the clear floor space. Where clear floor space is recessed in alcoves and confined on three sides, additional maneuvering clearance is required. (See the [Clear Floor or Ground Space and Turning Space Guide]({{ site.baseurl }}/ada/guides/chapter-3-clear-floor-or-ground-space-and-turning-space/))
+Clear floor space must be centered on the appliance and positioned for a parallel approach. Enclosures, including doors when open, cannot overlap or obstruct the clear floor space. Where clear floor space is recessed in alcoves and confined on three sides, additional maneuvering clearance is required. (See the [Clear Floor or Ground Space and Turning Space Guide]({{ site.baseurl }}/aba/guides/chapter-3-clear-floor-or-ground-space-and-turning-space/))
 
 <figure class="center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/washers/3.png" alt="Plan view of highlighted clear floor space centered on dryer and dimensions 30 inches minimum by 48 inches minimum measured for clear floor space." class="center">
@@ -61,7 +61,7 @@ Clear floor space must be centered on the appliance and positioned for a paralle
 
 ### Height
 
-[[§611.4]({{ site.baseurl }}/ada/#ada-611_4)]
+[[§611.4]({{ site.baseurl }}/aba/#aba-611_4)]
 
 Height of top-loading machines must be 36\" maximum above the finish floor. For front-loading machines, the height of the bottom of the opening of the door must be between 15\" and 36\" above the finish floor.
 
@@ -77,19 +77,19 @@ Height of top-loading machines must be 36\" maximum above the finish floor. For 
 
 ### Operable Parts
 
-[[§611.3]({{ site.baseurl }}/ada/#ada-611_3), [§309]({{ site.baseurl }}/ada/#ada-309)]
+[[§611.3]({{ site.baseurl }}/aba/#aba-611_3), [§309]({{ site.baseurl }}/aba/#aba-309)]
 
 ![Perspective view of person using wheelchair in front of a top-loading washing machine and reaching over the closed door to use the rear controls.]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/washer_controls.png){: .img-right }
 
 Operable parts of machines, including controls, doors, detergent and bleach compartments, and lint screens must comply.  They also must be within accessible reach range and usable with one hand and without tight grasping, pinching, twisting of the wrist, or more than 5 pounds of force.
 
-Coin slides or payment units need to comply with operable parts requirements.  Change machines and vending machines also must comply (§228.1).
+Coin slides or payment units need to comply with operable parts requirements.  Change machines and vending machines also must comply (§F228.1).
 
 {% include recommendation.html text="To accommodate people who have visual impairments, operable parts should be discernable by touch or sound without activation." %}
 
 ### Obstructed Side Reach and Unit Height
 
-[[§308]({{ site.baseurl }}/ada/#ada-308)]
+[[§308]({{ site.baseurl }}/aba/#aba-308)]
 
 <figure class="img-left">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/washers/5.jpg" alt="Side-Elevation view of washing machine with a person using a wheelchair positioned for a parallel approach at a top-loading washer and reaching to use rear controls." class="center">
