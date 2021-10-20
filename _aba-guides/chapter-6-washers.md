@@ -12,7 +12,7 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/
 
 ### Required Compliance
 
-[[§F214]({{ site.baseurl }}/aba/#aba-214)]
+[[§F214]({{ site.baseurl }}/aba/#aba-f214)]
 
 Scoping for washing machines and clothes dryers is applied independently.  Where up to three washing machines are provided, at least one must comply.  If more than three washing machines are provided, at least two must comply.  The same level of accessibility is required for clothes dryers.
 
