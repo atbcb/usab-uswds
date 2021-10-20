@@ -63,7 +63,7 @@ Clear floor space must be centered on the appliance and positioned for a paralle
 
 [[§611.4]({{ site.baseurl }}/ada/#ada-611_4)]
 
-Height of top-loading machines must be 36" maximum above the finish floor. For front-loading machines, the height of the bottom of the opening of the door must be between 15" and 36" above the finish floor.
+Height of top-loading machines must be 36\" maximum above the finish floor. For front-loading machines, the height of the bottom of the opening of the door must be between 15\" and 36\" above the finish floor.
 
 <figure class="center">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter6/washers/4.jpg" alt="Front elevation view of washer and dryer." class="center">
@@ -98,7 +98,7 @@ Coin slides or payment units need to comply with operable parts requirements.  C
   </figcaption>
 </figure>
 
-Although top-loading washing machines create an obstruction for users with side reach to operable parts, washing machines and clothes dryers are permitted to be 36" maximum in height above the finish floor (§308.3.2, Ex. 1).  The side reach for parallel approach is 24" maximum depth.
+Although top-loading washing machines create an obstruction for users with side reach to operable parts, washing machines and clothes dryers are permitted to be 36\" maximum in height above the finish floor (§308.3.2, Ex. 1).  The side reach for parallel approach is 24\" maximum depth.
 
 {% include recommendation.html text="Washers and dryers with controls, including coin slides or payment units, located at the front of the machine provide easier access and accommodate a broader range of users." %}
 
