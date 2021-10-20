@@ -1202,7 +1202,7 @@ not required, to provide wheelchair accessible toilet compartments for
 both user groups, but the Standards require only one wheelchair
 accessible toilet compartment in all toilet rooms.
 
-Can elements with knee and toe space overlap the required turning space?
+##### Can elements with knee and toe space overlap the required turning space?
 
 Yes. Elements that provide compliant knee and toe space, such as
 lavatories, can overlap a portion of the turning space.
