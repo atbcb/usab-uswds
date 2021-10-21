@@ -12,7 +12,7 @@ image_alt_text: "Image of map of United States with about 100 people populated
   within it and text that reads \"America's Recovery: Powered by Inclusion\""
 tags:
   - events
-featured: true
+featured: false
 ---
 During the month of October, the U.S. Department of Agriculture (USDA) Technology & Accessible Resources Give Employment Today (TARGET) Center is hosting a series of virtual sessions on understanding disability‑related initiatives, current trends, and new technology that support employees, their colleagues, customers, families, and friends. The events are part of National Disability Employment Awareness Month (NDEAM) and its theme “America’s Recovery: Powered by Inclusion.” The virtual sessions will include presentations and workshops by USDA TARGET Center's accessibility experts, disability professionals, ergonomics experts, and trusted partners. 
 
