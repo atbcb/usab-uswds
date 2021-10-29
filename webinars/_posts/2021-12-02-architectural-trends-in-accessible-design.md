@@ -19,6 +19,7 @@ tags:
 closed: false
 webinar-start: December 2, 2021 2:30 PM
 webinar-end: December 2, 2021 4:00 PM
+registration-link: https://www.accessibilityonline.org/ao/session/?id=110980
 webinar: true
 ---
 ### Description
