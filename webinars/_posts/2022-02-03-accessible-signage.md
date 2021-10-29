@@ -27,6 +27,7 @@ tags:
 closed: false
 webinar-start: February 3, 2022 2:30 PM
 webinar-end: February 3, 2022 4:00 PM
+registration-link: https://www.accessibilityonline.org/ao/session/?id=110982
 webinar: true
 ---
 ### Description
