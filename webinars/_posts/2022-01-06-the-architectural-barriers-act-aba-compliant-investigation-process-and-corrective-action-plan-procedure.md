@@ -27,6 +27,7 @@ tags:
 closed: false
 webinar-start: January 6, 2022 2:30 PM
 webinar-end: January 6, 2022 4:00 PM
+registration-link: https://www.accessibilityonline.org/ao/session/?id=110981
 webinar: true
 ---
 ### Description
