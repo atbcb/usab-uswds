@@ -18,7 +18,7 @@ During National Disability Employment Awareness Month (NDEAM), U.S. Access Board
 <figure class="img-left">
     <img src="{{ site.baseurl }}{{ page.image-directory }}images/uploads/pavithran_m-enabling-keynote.jpg" alt="Sachin Pavithran standing at podium for keynote address." class="center">
   <figcaption style="text-align:center">
-    <em>Sachiin Pavithran standing at podium for his keynote address</em>
+    <em>Sachin Pavithran standing at podium for his keynote address</em>
   </figcaption>
 </figure>
 
@@ -45,7 +45,7 @@ Board Executive Director Pavithran also presented in the IAAF session on digit
 Creagan also presented at the Federal Reserve Board’s NDEAM panel that raised awareness of disability issues in the federal workplace on October 20. Creagan talked about the role of the Board in developing ABA Guidelines and Section 508 Standards to ensure and improve access in the federal workplace. At the USDA Section 508 Awareness Event on October 21, Creagan was a panelist for “The Value of a Section 508 Program,” where he responded to attendees’ questions about Section 508 implementation, testing, and standards. 
 
 <figure class="img-left">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}_pages/av/images/408-bailey.jpg" alt="Bruce Bailey thumbnail portrait photo" class="center">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}_pages/av/images/408-bailey.jpg" alt="Portrait of Bruce Bailey" class="center">
   <figcaption style="text-align:center">
     <em>Bruce Bailey</em>
   </figcaption>
@@ -54,7 +54,7 @@ Creagan also presented at the Federal Reserve Board’s NDEAM panel that raise
 On October 25, **Bruce Bailey**, IT Specialist, presented to [MITRE](https://mitre.org/) as part of their National Disability Employment Awareness Month (NDEAM) and ten-day long Accessibility Technical Exchange Meeting (TEM). Bailey gave an overview of the history and current work of the Board and outlined the interplay between W3C WCAG 1.0, the Original 508 Standards, WCAG 2.0, and the Revised 508 Standards, showing how the Standards extended WCAG requirements to be applicable to documents and software in addition to web content. 
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}_pages/av/images/104-duschesneau.png" alt="Randall Duchesneau thumbnail portrait photo" class="center">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}_pages/av/images/104-duschesneau.png" alt="Portrait of Randall Duchesneau" class="center">
   <figcaption style="text-align:center">
     <em>Randall Duchesneau</em>
   </figcaption>
