@@ -18,12 +18,11 @@ For more detailed information on the No Fear Act, please read the Access Board's
 
 Section 301 of the No FEAR Act and EEOC's implementing regulations (29 CFR Part 1614) require each federal agency to post summary statistical data about complaints of employment discrimination filed employees, former employees, and job applicants.  The Access Board's summary data for the current fiscal year (FY), as well as prior fiscal years, is as follows:
 
-| EEO Complaint Activity |  FY15  |  FY16  |  FY17  |  FY18  |  FY19  |  FY20  | Through Q2 FY21|
-| :--- | :---: | :---: | :---: | :---: | :---: | :---: | :---: |
-| Number of Complaints Filed | 0 | 0 | 0 | 1 | 0 | 0 | 0 |
-| Number of Complainants | 0 | 0 | 0 | 1 | 1 | 1 | 0 |
-| Repeat Filers | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
-{: .usa-table }
+| EEO Complaint Activity |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     FY22 Q1 (thru 10/15/2021)     |
+|     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     | 
+| Number of Complaints Filed |     0     |     1     |     0     |     0     |     0     |     0     | 
+| Number of Complainants |     0     |     1     |     0     |     0     |     0     |     0     |     0     |
+| Repeat Filers |     0     |     0     |     0     |     0     |     0     |     0     |
 
 ## No FEAR Act Annual Report
 
