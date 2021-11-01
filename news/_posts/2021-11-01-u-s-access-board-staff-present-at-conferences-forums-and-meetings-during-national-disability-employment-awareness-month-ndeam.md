@@ -40,7 +40,7 @@ Several Board staff presented at the [2021 Interagency Accessibility Forum](htt
   </figcaption>
 </figure>
 
-Board Executive Director Pavithran also presented in the IAAF session on digital accessibility, answering questions about its broader role as part of the government-wide diversity, equity, inclusion, and accessibility efforts. **Tim Creagan**, Senior Accessibility Specialist, was also a panelist at IAAF for the keynote address \"Accessibility: A Look at the Foundation (Past, Present, and Future).\" Creagan discussed accessibility as one of the foundations of diversity, equity and inclusion, including its past, present, and future. 
+Board Executive Director Pavithran also presented in the IAAF session on digital accessibility, answering questions about its broader role as part of the government-wide diversity, equity, inclusion, and accessibility efforts. **Tim Creagan**, Senior Accessibility Specialist, was also a panelist at IAAF for the keynote address \"Accessibility: A Look at the Foundation (Past, Present, and Future).\" Creagan discussed accessibility as one of the foundations of diversity, equity, and inclusion, including its past, present, and future. 
 
 Creagan also presented at the Federal Reserve Board’s NDEAM panel that raised awareness of disability issues in the federal workplace on October 20. Creagan talked about the role of the Board in developing ABA Guidelines and Section 508 Standards to ensure and improve access in the federal workplace. At the USDA Section 508 Awareness Event on October 21, Creagan was a panelist for \"The Value of a Section 508 Program,\" where he responded to attendees’ questions about Section 508 implementation, testing, and standards. 
 
