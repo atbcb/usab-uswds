@@ -45,7 +45,7 @@ Board Executive Director Pavithran also presented in the IAAF session on digit
 Creagan also presented at the Federal Reserve Board’s NDEAM panel that raised awareness of disability issues in the federal workplace on October 20. Creagan talked about the role of the Board in developing ABA Guidelines and Section 508 Standards to ensure and improve access in the federal workplace. At the USDA Section 508 Awareness Event on October 21, Creagan was a panelist for \"The Value of a Section 508 Program,\" where he responded to attendees’ questions about Section 508 implementation, testing, and standards. 
 
 <figure class="img-left">
-  <img src="{{ site.baseurl }}/images/uploads/bailey.jpg" alt="Portrait of Bruce Bailey" class="center">
+  <img src="{{ site.baseurl }}/images/uploads/bailey.jpg" alt="Portrait of  Bruce Bailey" class="center">
   <figcaption style="text-align:center">
     <em>Bruce Bailey</em>
   </figcaption>
