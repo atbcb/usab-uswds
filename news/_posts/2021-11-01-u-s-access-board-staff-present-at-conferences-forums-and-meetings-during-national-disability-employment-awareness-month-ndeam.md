@@ -25,7 +25,7 @@ During National Disability Employment Awareness Month (NDEAM), U.S. Access Board
 On October 4, **Sachin Pavithran**, Executive Director of the Board, delivered a keynote at the [M-Enabling Summit 2021](https://m-enabling.com/) on perspectives on digital inclusion as related to President’s Biden Executive Order on Diversity, Equity, Inclusion, and Accessibility (DEIA) in the Federal Workforce. The Executive Order requires the Board to coordinate with other agencies to support the federal government’s effort to ensure that agencies comply with applicable laws related to disability, including Section 508, which requires access to information and communication technology developed, procured, maintained, or used by federal agencies, and the ABA, which requires access to facilities designed, built, altered, or leased with federal funds. Pavithran discussed the value of thinking about accessibility as a unique skill set and a different way of approaching workplaces, particularly within an organization. He noted that \"cultural shifts take time. The conversation of accessibility needs to be part of the organization's culture.\"
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}/_pages/av/images/eng.jpg" alt="Portrait of Kathy Eng" class="center">
+  <img src="{{ site.baseurl }}/images/eng.jpg" alt="Portrait of Kathy Eng" class="center">
   <figcaption style="text-align:center">
     <em>Kathy Eng</em>
   </figcaption>
@@ -34,7 +34,7 @@ On October 4, **Sachin Pavithran**, Executive Director of the Board, delivered
 Several Board staff presented at the [2021 Interagency Accessibility Forum](https://www.section508.gov/iaaf/) (IAAF), which includes Board staff on the planning committee, on October 12-14. **Kathy Eng**, Senior ICT Accessibility Specialist, discussed the [ICT Accessibility Testing Baseline Portfolio](https://ictbaseline.access-board.gov/) and reviewed updates on progress and ongoing efforts related to the portfolio. Eng noted the benefits of federal agencies adopting and implementing a Baseline-aligned test process and provided suggestions to agencies for preparing to evaluate their existing test processes to validate alignment with the ICT Testing Baseline. More information and an example from the Forms Baseline can be found in the Board’s [August 4 news release](https://www.access-board.gov/news/2021/08/04/u-s-access-board-launches-new-site-for-the-ict-testing-baseline-for-web-accessibility/).  
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}/_pages/av/images/creagan-bordered.jpg" alt="Portrait of Tim Creagan" class="center">
+  <img src="{{ site.baseurl }}/images/creagan-bordered.jpg" alt="Portrait of Tim Creagan" class="center">
   <figcaption style="text-align:center">
     <em>Tim Creagan</em>
   </figcaption>
@@ -45,7 +45,7 @@ Board Executive Director Pavithran also presented in the IAAF session on digit
 Creagan also presented at the Federal Reserve Board’s NDEAM panel that raised awareness of disability issues in the federal workplace on October 20. Creagan talked about the role of the Board in developing ABA Guidelines and Section 508 Standards to ensure and improve access in the federal workplace. At the USDA Section 508 Awareness Event on October 21, Creagan was a panelist for \"The Value of a Section 508 Program,\" where he responded to attendees’ questions about Section 508 implementation, testing, and standards. 
 
 <figure class="img-left">
-  <img src="{{ site.baseurl }}/_pages/av/images/408-bailey.jpg" alt="Portrait of Bruce Bailey" class="center">
+  <img src="{{ site.baseurl }}_pages/av/images/408-bailey.jpg" alt="Portrait of Bruce Bailey" class="center">
   <figcaption style="text-align:center">
     <em>Bruce Bailey</em>
   </figcaption>
@@ -54,7 +54,7 @@ Creagan also presented at the Federal Reserve Board’s NDEAM panel that raise
 On October 25, **Bruce Bailey**, IT Specialist, presented to [MITRE](https://mitre.org/) as part of their National Disability Employment Awareness Month (NDEAM) and ten-day long Accessibility Technical Exchange Meeting (TEM). Bailey gave an overview of the history and current work of the Board and outlined the interplay between W3C WCAG 1.0, the Original 508 Standards, WCAG 2.0, and the Revised 508 Standards, showing how the Standards extended WCAG requirements to be applicable to documents and software in addition to web content. 
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}/_pages/av/images/104-duschesneau.png" alt="Portrait of Randall Duchesneau" class="center">
+  <img src="{{ site.baseurl }}_pages/av/images/104-duschesneau.png" alt="Portrait of Randall Duchesneau" class="center">
   <figcaption style="text-align:center">
     <em>Randall Duchesneau</em>
   </figcaption>
