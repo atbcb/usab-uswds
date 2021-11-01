@@ -54,7 +54,7 @@ Creagan also presented at the Federal Reserve Board’s NDEAM panel that raise
 On October 25, **Bruce Bailey**, IT Specialist, presented to [MITRE](https://mitre.org/) as part of their National Disability Employment Awareness Month (NDEAM) and ten-day long Accessibility Technical Exchange Meeting (TEM). Bailey gave an overview of the history and current work of the Board and outlined the interplay between W3C WCAG 1.0, the Original 508 Standards, WCAG 2.0, and the Revised 508 Standards, showing how the Standards extended WCAG requirements to be applicable to documents and software in addition to web content. 
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}images/uploads/duschesneau-bordered.png" alt="Portrait of Randall Duchesneau" class="center">
+  <img src="{{ site.baseurl }}/images/uploads/duschesneau-bordered.jpg" alt="Portrait of Randall Duchesneau" class="center">
   <figcaption style="text-align:center">
     <em>Randall Duchesneau</em>
   </figcaption>
