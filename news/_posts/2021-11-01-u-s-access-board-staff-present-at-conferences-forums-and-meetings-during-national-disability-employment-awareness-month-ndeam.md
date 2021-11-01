@@ -15,9 +15,30 @@ featured: true
 ---
 During National Disability Employment Awareness Month (NDEAM), U.S. Access Board staff presented at conferences, forums, and events to advance accessibility and inclusion for people with disabilities. Board staff presented on various topics, such as the President’s Executive Orders, emerging technology and trends, information and communication technology resources, and the guidelines and standards under the [Americans with Disabilities Act](https://www.access-board.gov/ada/) (ADA), the [Architectural Barriers Act of 1973](https://www.access-board.gov/aba/) (ABA), and [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/).   
 
-On October 4, **Sachin Pavithran**, Executive Director of the Board, delivered a keynote at the [M-Enabling Summit 2021](https://m-enabling.com/) on perspectives on digital inclusion as related to President’s Biden Executive Order on Diversity, Equity, Inclusion, and Accessibility (DEIA) in the Federal Workforce. The Executive Order requires the Board to coordinate with other agencies to support the federal government’s effort to ensure that agencies comply with applicable laws related to disability, including Section 508, which requires access to information and communication technology developed, procured, maintained, or used by federal agencies, and the ABA, which requires access to facilities designed, built, altered, or leased with federal funds. Pavithran discussed the value of thinking about accessibility as a unique skill set and a different way of approaching workplaces, particularly within an organization. He noted that “cultural shifts take time. The conversation of accessibility needs to be part of the organization's culture.” 
+<figure class="img-left">
+    <img src="{{ site.baseurl }}{{ page.image-directory }}images/uploads/pavithran_m-enabling-keynote.jpg" alt="Sachin Pavithran standing at podium for keynote address." class="center">
+  <figcaption style="text-align:center">
+    <em>Sachiin Pavithran standing at podium for his keynote address</em>
+  </figcaption>
+</figure>
+
+On October 4, **Sachin Pavithran**, Executive Director of the Board, delivered a keynote at the [M-Enabling Summit 2021](https://m-enabling.com/) on perspectives on digital inclusion as related to President’s Biden Executive Order on Diversity, Equity, Inclusion, and Accessibility (DEIA) in the Federal Workforce. The Executive Order requires the Board to coordinate with other agencies to support the federal government’s effort to ensure that agencies comply with applicable laws related to disability, including Section 508, which requires access to information and communication technology developed, procured, maintained, or used by federal agencies, and the ABA, which requires access to facilities designed, built, altered, or leased with federal funds. Pavithran discussed the value of thinking about accessibility as a unique skill set and a different way of approaching workplaces, particularly within an organization. He noted that “cultural shifts take time. The conversation of accessibility needs to be part of the organization's culture.”
+
+<figure class="img-right">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}_pages/av/images/eng.jpg" alt="Portrait of Kathy Eng" class="center">
+  <figcaption style="text-align:center">
+    <em>Kathy Eng</em>
+  </figcaption>
+</figure>
 
 Several Board staff presented at the [2021 Interagency Accessibility Forum](https://www.section508.gov/iaaf/) (IAAF), which includes staff on the planning committee, on October 12-14. **Kathy Eng**, Senior ICT Accessibility Specialist, discussed the [ICT Accessibility Testing Baseline Portfolio](https://ictbaseline.access-board.gov/) and reviewed updates on progress and ongoing efforts related to the portfolio. Eng noted the benefits of federal agencies adopting and implementing a Baseline-aligned test process and provided suggestions to agencies for preparing to evaluate their existing test processes to validate alignment with the ICT Testing Baseline. More information and an example from the Forms Baseline can be found in the Board’s [August 4 news release](https://www.access-board.gov/news/2021/08/04/u-s-access-board-launches-new-site-for-the-ict-testing-baseline-for-web-accessibility/).  
+
+<figure class="img-right">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}_pages/av/images/creagan-bordered.jpg" alt="Portrait of Tim Creagan" class="center">
+  <figcaption style="text-align:center">
+    <em>Tim Creagan</em>
+  </figcaption>
+</figure>
 
 Board Executive Director Pavithran also presented in the IAAF session on digital accessibility, answering questions about its broader role as part of the government-wide diversity, equity, inclusion, and accessibility efforts. **Tim Creagan**, Senior Accessibility Specialist, was also a panelist at IAAF for the keynote address “Accessibility: A Look at the Foundation (Past, Present, and Future).” Creagan discussed accessibility as one of the foundations of diversity, equity and inclusion, including its past, present, and future. 
 
@@ -40,6 +61,13 @@ On October 25, **Bruce Bailey**, IT Specialist, presented to [MITRE](https://
 </figure>
 
 On October 27, **Randall Duchesneau**, Accessibility Specialist, and **Juliet Shoultz**, Transportation Systems Engineer, presented at a virtual discussion hosted by [Partners for Automated Vehicle Education](https://pavecampaign.org/) (PAVE) on accessible infrastructure and autonomous vehicles (AV). Duchesneau briefly reviewed guidelines for transportation vehicles and what would be the necessary technical requirements to make AVs accessible, particularly regarding ramp slopes and boarding platforms. In discussing some of his personal experiences, Duchesneau also underscored the value of universal design and holistic thinking of AVs within a larger system.  
+
+<figure class="img-right">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}images/uploads/shoultz.jpg" alt="Portrait of Juliet Shoultz" class="center">
+  <figcaption style="text-align:center">
+    <em>Juliet Shoultz</em>
+  </figcaption>
+</figure>
 
 Shoultz elaborated on this value by emphasizing that AV designers need to consider how AVs would operate in the existing infrastructure and what barriers currently exist. Similarly, transportation designers, Shoultz also noted, must think about the current infrastructure and barriers in place if AVs are to operate within the system. In moving forward, Duchesneau and Shoultz suggested that AV and transportation designers consult and request input from those who will face those barriers as a way to determine how to maximize the accessibility of AVs and the infrastructure. A [recording](https://youtu.be/43LIQLb8Br8) of the panel discussion is available on PAVE’s YouTube Channel. 
 
