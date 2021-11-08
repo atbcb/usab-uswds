@@ -17,7 +17,7 @@ Karen Braitmayer, FAIA is the founder and managing principal of Studio Pacifi
 
 Deborah Ryan of Boston, Massachusetts is head of Deborah A. Ryan & Associates, an accessibility consulting firm that specializes in compliance with design requirements issued under Massachusetts law and federal laws such as the ADA, the Rehabilitation Act, and the Fair Housing Act. As a consultant, she is active in accessibility surveys, plan reviews, technical assistance, training, and guidance on complaint resolution. Before creating her firm in 2002, Ryan served for over 25 years at the Massachusetts Architectural Access Board (MAAB), including 15 years as its executive director. Ryan has been a public member of the Access Board since her presidential appointment in 2011. 
 
-The event is free, but registration is required. For further information on registration, visit the [Access Board’s website](https://www.access-board.gov/about/meetings.html) or contact Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov). The event will include video remote interpreting (VRI) and real-time captioning. 
+The event is free, but registration is required. For further information on registration, visit the [Access Board’s website](https://www.access-board.gov/about/meetings.html) or contact Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov). The event will include video remote interpreting (VRI) and real-time captioning. Presentation materials are available in [PDF (6MB)]( https://www.access-board.gov/files/presentations/usab-designing-for-inclusion-2021-11-10.pdf) format.
 
 > *Designing for Inclusion: Architectural Trends and Social Justice*  \
 November 10, 2021, 2:30 – 4:00 pm (ET)  \
