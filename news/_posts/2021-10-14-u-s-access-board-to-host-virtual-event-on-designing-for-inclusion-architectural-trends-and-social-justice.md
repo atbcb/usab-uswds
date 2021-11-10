@@ -25,3 +25,8 @@ Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/
 Contact: Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov) 
 
 Prior to the event, the Board will hold at its regular business meeting at 1:00 ET, which is also open to the public to attend.
+
+> *Meeting of the U.S. Access Board* \
+November 10, 2021, 1:00 – 2:00 pm (ET) \
+Meeting link: www.zoomgov.com/j/1600456180?pwd=c0UzTnEwcFNUMU9ML1JmK0JueEZkUT09 (registration not required)
+
