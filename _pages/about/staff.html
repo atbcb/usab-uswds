@@ -8,10 +8,12 @@ title: Access Board Staff
   <div class="grid-row">
     <div class="width-desktop usa-prose">
       <p style="max-width: none;">
-         [introductory paragraph about staff, etc.]
+         The Board employs approximately 30 staff members across four units: Office of the Executive Director, Office of Administration, Office of General Counsel, and Office of Technical and Information Services. Job openings are posted on <a href="https://www.usajobs.gov">USA jobs</a>.
       </p>
+      
+        <br class="page-break">
+
       <p style="max-width: none;">
-         [introductory paragraph about job openings?] <a href="https://www.usajobs.gov">USA jobs</a> for further information.
       </p>
     </div>
   </div>
@@ -21,8 +23,7 @@ title: Access Board Staff
   {% assign oed = site.staff | where: "office", "Office of Executive Director" | sort: "last_name" %}
 
 
-
-   <!-- Office of Executive Director -->
+ <!-- Office of Executive Director -->
    <div class="">
     {% for person in oed %}
     {% if person.director == true %}
@@ -39,7 +40,7 @@ title: Access Board Staff
                   {% if person.image %}
                   <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                   {% else %}
-                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                  <img src="{{ site.baseurl }}/images/uploads/usab-logo.svg" alt="photo unavailable icon">
                   {% endif %}
                 </div>
               </div>
@@ -71,7 +72,7 @@ title: Access Board Staff
                 {% if person.image %}
                 <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                 {% else %}
-                <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                <img src="{{ site.baseurl }}/images/uploads/usab-logo.svg" alt="photo unavailable icon">
                 {% endif %}
               </div>
             </div>
@@ -103,7 +104,7 @@ title: Access Board Staff
                   {% if person.image %}
                   <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                   {% else %}
-                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                  <img src="{{ site.baseurl }}/images/uploads/usab-logo.svg" alt="photo unavailable icon">
                   {% endif %}
                 </div>
               </div>
@@ -135,7 +136,7 @@ title: Access Board Staff
                 {% if person.image %}
                 <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                 {% else %}
-                <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                <img src="{{ site.baseurl }}/images/uploads/usab-logo.svg" alt="photo unavailable icon">
                 {% endif %}
               </div>
             </div>
@@ -167,7 +168,7 @@ title: Access Board Staff
                   {% if person.image %}
                   <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                   {% else %}
-                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                  <img src="{{ site.baseurl }}/images/uploads/usab-logo.svg" alt="photo unavailable icon">
                   {% endif %}
                 </div>
               </div>
@@ -199,7 +200,7 @@ title: Access Board Staff
                 {% if person.image %}
                 <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                 {% else %}
-                <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                <img src="{{ site.baseurl }}/images/uploads/usab-logo.svg" alt="photo unavailable icon">
                 {% endif %}
               </div>
             </div>
@@ -231,7 +232,7 @@ title: Access Board Staff
                     {% if person.image %}
                     <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                     {% else %}
-                    <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                    <img src="{{ site.baseurl }}/images/uploads/usab-logo.svg" alt="photo unavailable icon">
                     {% endif %}
                   </div>
                 </div>
@@ -263,7 +264,7 @@ title: Access Board Staff
                   {% if person.image %}
                   <img src="{{ site.baseurl }}{{ person.image }}" alt="Profile photo of {{ person.full_name }}">
                   {% else %}
-                  <img src="{{ site.baseurl }}/images/uploads/vacant.svg" alt="photo unavailable icon">
+                  <img src="{{ site.baseurl }}/images/uploads/usab-logo.svg" alt="photo unavailable icon">
                   {% endif %}
                 </div>
               </div>
