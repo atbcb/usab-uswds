@@ -23,7 +23,7 @@ November 10, 2021, 2:30 – 4:00 pm (ET)\
 Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/webinar/register/WN_jbIFJ0jTRdWF1j4ICXOerQ) \
 Contact: Rose Marie Bunales at events@access-board.gov 
 
-Prior to the event, the Board will hold at its regular business meeting at 1:00 pm (ET), which is also open to the public to attend.
+Prior to the event, the Board will hold at its regular business meeting at 1:00 pm (ET), which is also open to the public to attend:
 
 > *Meeting of the U.S. Access Board* \
 November 10, 2021, 1:00 – 2:00 pm (ET) \
