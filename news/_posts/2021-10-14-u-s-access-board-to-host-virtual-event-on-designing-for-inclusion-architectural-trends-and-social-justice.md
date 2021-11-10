@@ -28,5 +28,5 @@ Prior to the event, the Board will hold at its regular business meeting at 1:00 
 
 > *Meeting of the U.S. Access Board* \
 November 10, 2021, 1:00 – 2:00 pm (ET) \
-Meeting link: [ZoomGov](www.zoomgov.com/j/1600456180?pwd=c0UzTnEwcFNUMU9ML1JmK0JueEZkUT09) (registration not required)
+Meeting link: [ZoomGov Platform](www.zoomgov.com/j/1600456180?pwd=c0UzTnEwcFNUMU9ML1JmK0JueEZkUT09) (registration not required)
 
