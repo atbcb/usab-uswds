@@ -10,7 +10,7 @@ permalink: /about/meetings.html
 
 Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Since the COVID-19 pandemic, Board meetings are held virtually.  
 
-At its last meeting on November 10, Access Board member Karen Braitmayer, FAIA provided a presentation on Designing for Inclusion: Architectural Trends and Social Justice.   
+At its last meeting on November 10, Access Board member Karen Braitmayer, FAIA provided a presentation on ["Designing for Inclusion: Architectural Trends and Social Justice"](https://youtu.be/49KcnqvTI28?t=1).   
 
 ## Next Board Meeting
 
