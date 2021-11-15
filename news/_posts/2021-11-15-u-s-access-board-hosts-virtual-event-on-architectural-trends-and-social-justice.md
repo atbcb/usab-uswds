@@ -14,8 +14,9 @@ tags:
   - ADA
 featured: true
 ---
-<figure class="img-right
-    <img src="{{ site.baseurl }}/images/uploads/karen-braitmayer.png" alt="Portrait of Board Member Karen Braitmayer" class="center">
+
+<figure class="img-right>
+    <img src="{{ site.baseurl }}/images/uploads/braitmayer.jpg" alt="Portrait of Board Member Karen Braitmayer" class="center">
   <figcaption style="text-align:center">
     <em>Karen Braitmayer</em>
   </figcaption>
