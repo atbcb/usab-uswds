@@ -15,14 +15,14 @@ tags:
 featured: true
 ---
 
+The U.S. Access Board hosted the virtual public event “Designing for Inclusion: Architectural Trends and Social Justice” last week on November 10. Board Member Karen Braitmayer reviewed current trends in architectural design for toilet rooms, lavatories, adult changing tables, self-service transaction machines, wayfinding, dining surfaces and tables, and accessible routes, including those that have emerged in response to the COVID-19 pandemic. She highlighted aspects of those trends that advance equity and inclusion and discussed design alternatives to trends that are not fully accessible to all. Board Training Coordinator Bill Botten moderated the session with questions from members of the public during the event.
+
 <figure class="img-right>
     <img src="{{ site.baseurl }}/images/uploads/braitmayer.jpg" alt="Portrait of Board Member Karen Braitmayer" class="center">
   <figcaption style="text-align:center">
     <em>Karen Braitmayer</em>
   </figcaption>
 </figure>
-
-The U.S. Access Board hosted the virtual public event “Designing for Inclusion: Architectural Trends and Social Justice” last week on November 10. Board Member Karen Braitmayer reviewed current trends in architectural design for toilet rooms, lavatories, adult changing tables, self-service transaction machines, wayfinding, dining surfaces and tables, and accessible routes, including those that have emerged in response to the COVID-19 pandemic. She highlighted aspects of those trends that advance equity and inclusion and discussed design alternatives to trends that are not fully accessible to all. Board Training Coordinator Bill Botten moderated the session with questions from members of the public during the event. 
 
 A [recording](https://youtu.be/49KcnqvTI28) of the session is available on the Board’s [YouTube Channel](https://www.youtube.com/channel/UC5tRWTtV5eSw68N3tSpmyWw). Presentation materials are available in [PDF (6MB)](https://www.access-board.gov/files/presentations/usab-designing-for-inclusion-2021-11-10.pdf) format.  
 
