@@ -11,7 +11,7 @@ excerpt: "During National Disability Employment Awareness Month (NDEAM), U.S.
   resources, and the guidelines and standards under the Americans with
   Disabilities Act (ADA), the Architectural Barriers Act of 1973 (ABA), and . .
   . "
-featured: true
+featured: false
 ---
 During National Disability Employment Awareness Month (NDEAM), U.S. Access Board staff presented at conferences, forums, and events to advance accessibility and inclusion for people with disabilities. Board staff presented on various topics, such as the President’s Executive Orders, emerging technology and trends, information and communication technology resources, and the guidelines and standards under the [Americans with Disabilities Act](https://www.access-board.gov/ada/) (ADA), the [Architectural Barriers Act of 1973](https://www.access-board.gov/aba/) (ABA), and [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/).   
 
