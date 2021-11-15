@@ -6,10 +6,13 @@ date: 2021-10-14
 excerpt: The U.S. Access Board will host a virtual public event on architectural
   trends and social justice on November 10 from 2:30 – 4:00 pm (ET). The event
   will feature presentations by Board Members Karen Braitmayer and Deborah Ryan
-  who will provide an accessibility review of current trends in architectural design, including those that have emerged in response to the COVID-19 pandemic. They will highlight aspects of those trends that advance equity and inclusion and discuss . . .
+  who will provide an accessibility review of current trends in architectural
+  design, including those that have emerged in response to the COVID-19
+  pandemic. They will highlight aspects of those trends that advance equity and
+  inclusion and discuss . . .
 image: /images/uploads/inclusion-event-flyer.jpg
 tags: []
-featured: true
+featured: false
 ---
 The U.S. Access Board will host a virtual public event on architectural trends and social justice on **November 10** from **2:30 – 4:00 pm (ET)**. The event will feature presentations by Board Members Karen Braitmayer and Deborah Ryan who will provide an accessibility review of current trends in architectural design, including those that have emerged in response to the COVID-19 pandemic. They will highlight aspects of those trends that advance equity and inclusion and discuss design alternatives to trends that are not fully accessible to all. Members of the public will be able to pose questions during the event. 
 
