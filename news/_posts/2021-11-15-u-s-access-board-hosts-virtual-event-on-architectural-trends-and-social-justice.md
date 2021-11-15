@@ -14,7 +14,12 @@ tags:
   - ADA
 featured: true
 ---
-![Karen Braitmayer]({{ site.baseurl }}/images/uploads/karen-braitmayer.png "Portrait of Board Member Karen Braitmayer"){: .img-right}
+<figure class="img-right
+    <img src="{{ site.baseurl }}/images/uploads/karen-braitmayer.png" alt="Portrait of Board Member Karen Braitmayer" class="center">
+  <figcaption style="text-align:center">
+    <em>Karen Braitmayer</em>
+  </figcaption>
+</figure>
 
 The U.S. Access Board hosted the virtual public event “Designing for Inclusion: Architectural Trends and Social Justice” last week on November 10. Board Member Karen Braitmayer reviewed current trends in architectural design for toilet rooms, lavatories, adult changing tables, self-service transaction machines, wayfinding, dining surfaces and tables, and accessible routes, including those that have emerged in response to the COVID-19 pandemic. She highlighted aspects of those trends that advance equity and inclusion and discussed design alternatives to trends that are not fully accessible to all. Board Training Coordinator Bill Botten moderated the session with questions from members of the public during the event. 
 
