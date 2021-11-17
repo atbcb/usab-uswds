@@ -3,7 +3,7 @@ layout: post
 title: "U.S. Access Board Seeks Public Affairs Specialist "
 date: 2021-11-16
 excerpt: The U.S. Access Board seeks a Public Affairs Specialist (GS 12-13) to
-  serve in its Office of the Executive Director. . . .
+  serve in its Office of the Executive Director. Current or former federal employees who qualify as . . .
 tags:
   - jobs
 featured: false
