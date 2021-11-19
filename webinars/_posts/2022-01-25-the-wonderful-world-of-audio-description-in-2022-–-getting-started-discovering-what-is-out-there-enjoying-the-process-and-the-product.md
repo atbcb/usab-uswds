@@ -1,6 +1,6 @@
 ---
 layout: post
-title: The Wonderful World of Audio Description in 2022 – Getting Started,
+title: The Wonderful World of Audio Description in 2022: Getting Started,
   Discovering What is Out There, Enjoying the Process and the Product
 date: 2022-01-25
 excerpt: Section 508 of the Rehabilitation Act requires federal agencies to make
