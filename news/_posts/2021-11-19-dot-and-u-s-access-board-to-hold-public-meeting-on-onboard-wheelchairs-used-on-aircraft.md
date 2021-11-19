@@ -12,7 +12,7 @@ tags:
   - Rulemaking
 featured: false
 ---
-The Department of Transportation (DOT) and the U.S. Access Board will hold a virtual public meeting on **December 16** to collect information on wheelchairs that are specifically deisgned for use on aircraft during flights. The agencies will use this information to finalize performance standards and advisory guidelines for aircraft onboard wheelchairs.  
+The Department of Transportation (DOT) and the U.S. Access Board will hold a virtual public meeting on **December 16** to collect information on wheelchairs that are specifically designed for use on aircraft during flights. The agencies will use this information to finalize performance standards and advisory guidelines for aircraft onboard wheelchairs.  
 
 DOT is undertaking rulemaking under the Air Carrier Access Act to improve access to lavatories on single-aisle aircraft with 125 or more passenger seats. In January 2020, it released for public comment a [proposed rule](https://www.federalregister.gov/documents/2020/01/02/2019-27631/accessible-lavatories-on-single-aisle-aircraft-part-1) that would require aircraft lavatories to have various accessibility features, including assist handles, lower door sills, attendant call buttons, and controls and faucets that are easier to use. The rule also includes enhanced performance standards for onboard wheelchairs.  
 
