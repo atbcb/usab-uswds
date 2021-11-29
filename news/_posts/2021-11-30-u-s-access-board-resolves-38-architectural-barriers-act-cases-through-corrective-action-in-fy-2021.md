@@ -29,7 +29,7 @@ If the facility does not meet the applicable accessibility standard, the Board
 
 *U.S. Postal Facilities – 32 Resolved Cases*
 
-!\[US Mail logo]({{ site.baseurl }}/images/uploads/usmail.jfif "US Mail logo"){: .img-right}
+![US Mail logo]({{ site.baseurl }}/images/uploads/usmail.jfif "US Mail logo"){: .img-right}
 
 * U.S. Post Office (Williams, Arizona): USPS removed an obstruction impacting maneuvering clearance at the accessible customer entrance door.  
 * U.S. Post Office (Walnut Creek, California): USPS replaced the hinges on the customer entrance doors to make them easier to open manually. 
@@ -64,21 +64,18 @@ If the facility does not meet the applicable accessibility standard, the Board
 * U.S. Post Office (Milwaukee, Wisconsin): USPS adjusted the manual opening force of the customer entrance doors. 
 * U.S. Post Office (Ripley, West Virginia): USPS installed a van accessible parking space with associated signage and access aisle. 
 
-*Military Facilities – 2 Resolved Cases*
+*Military and Veterans Affairs Facilities – 4 Resolved Cases*
 
-!\[Military symbol]({{ site.baseurl }}/images/uploads/military.jfif "Military symbol"){: .img-right}
+![Military symbol]({{ site.baseurl }}/images/uploads/military.jfif "Military symbol"){: .img-right}
 
 * Hawthorne Army Depot (Hawthorne, Nevada): The Department of the Army completed corrective action to bring accessible parking spaces into compliance. 
 * Saber and Quill (Fort Knox, Kentucky): At this U.S. Army Morale, Welfare, and Recreation (MWR) facility, the Department of the Army installed automatic entrance doors and made modifications to the toilet rooms to make them accessible.    
-
-*Veterans Affairs Facilities – 2 Resolved Cases*
-
 * Hayden VA Medical Center (Phoenix, Arizona): The VA brought various toilet rooms into compliance with applicable accessibility specifications.  
 * Hines VA Medical Center (Hines, Illinois): The VA completed the installation of new accessible parking spaces as part of overall parking upgrades. 
 
 *Other Facilities – 2 Resolved Cases*
 
-!\[federal government symbol]({{ site.baseurl }}/images/uploads/federal.jfif "federal government symbol"){: .img-right}
+![federal government symbol]({{ site.baseurl }}/images/uploads/federal.jfif "federal government symbol"){: .img-right}
 
 * U.S. Department of Education, Office of Civil Rights (Cleveland, Ohio): GSA worked with the lessor to correct dozens of ABA violations throughout the building, related to issues with doors, signage, parking, accessible routes, and maneuvering clearances. The work included the installation of several new automatic door openers.  
 * Federal Election Commission (Washington, D.C.): GSA worked with the lessor to adjust manual opening forces for certain doors and to install automatic door openers on others.
