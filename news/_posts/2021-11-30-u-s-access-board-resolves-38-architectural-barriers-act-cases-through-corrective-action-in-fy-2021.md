@@ -15,7 +15,7 @@ featured: false
 ---
 The U.S. Access Board investigated 38 cases under the [Architectural Barriers Act](https://www.access-board.gov/aba/) (ABA) of 1968 that were resolved through corrective action in FY 2021. The ABA requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board [enforces the ABA](https://www.access-board.gov/enforcement/) through investigating complaints from the public. 
 
-The majority of cases concerned access to U.S. post offices, which is typical of the Board’s yearly caseload. Most of the complaints involved entrance doors, particularly the opening force of manual doors, and customer parking. The U.S. Postal Service completed action to correct accessibility issues at 32 facilities. Other cases involved military facilities (2), Department of Veterans Affairs (VA) medical centers (2), and facilities leased by the General Services Administration (GSA) for other agencies (2).   
+The majority of cases concerned access to U.S. post offices, which is typical of the Board’s yearly caseload. Most of the complaints involved entrance doors, particularly the opening force of manual doors, and customer parking. The U.S. Postal Service completed action to correct accessibility issues at 32 facilities. Other cases involved military facilities (2), Department of Veterans Affairs (VA) medical centers (2), and facilities leased by the General Services Administration (GSA) for other agencies (2).   
 
 Filing a complaint with the Board can be easily accomplished by completing an [online form](https://www.access-board.gov/enforcement/complaint.html). Complaints should include the name and address of the facility and a brief description of the access barriers or issues. Complaints can be filed anonymously. 
 
@@ -27,7 +27,7 @@ If the facility does not meet the applicable accessibility standard, the Board
 
 (October 1, 2020 to September 30, 2021) 
 
-*U.S. Postal Facilities* *– 32 Resolved Cases*
+*U.S. Postal Facilities – 32 Resolved Cases*
 
 !\[US Mail logo]({{ site.baseurl }}/images/uploads/usmail.jfif "US Mail logo"){: .img-right}
 
@@ -64,19 +64,19 @@ If the facility does not meet the applicable accessibility standard, the Board
 31. U.S. Post Office (Milwaukee, Wisconsin): USPS adjusted the manual opening force of the customer entrance doors. 
 32. U.S. Post Office (Ripley, West Virginia): USPS installed a van accessible parking space with associated signage and access aisle. 
 
-*Military Facilities* *– 2 Resolved Cases*
+*Military Facilities – 2 Resolved Cases*
 
 !\[Military symbol]({{ site.baseurl }}/images/uploads/military.jfif "Military symbol"){: .img-right}
 
 * Hawthorne Army Depot (Hawthorne, Nevada): The Department of the Army completed corrective action to bring accessible parking spaces into compliance. 
 * Saber and Quill (Fort Knox, Kentucky): At this U.S. Army Morale, Welfare, and Recreation (MWR) facility, the Department of the Army installed automatic entrance doors and made modifications to the toilet rooms to make them accessible.    
 
-*Veterans Affairs Facilities* *– 2 Resolved Cases*
+*Veterans Affairs Facilities – 2 Resolved Cases*
 
 * Hayden VA Medical Center (Phoenix, Arizona): The VA brought various toilet rooms into compliance with applicable accessibility specifications.  
 * Hines VA Medical Center (Hines, Illinois): The VA completed the installation of new accessible parking spaces as part of overall parking upgrades. 
 
-*Other Facilities* *– 2 Resolved Cases*
+*Other Facilities – 2 Resolved Cases*
 
 !\[federal government symbol]({{ site.baseurl }}/images/uploads/federal.jfif "federal government symbol"){: .img-right}
 
