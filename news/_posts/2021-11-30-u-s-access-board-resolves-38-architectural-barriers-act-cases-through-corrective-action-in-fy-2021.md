@@ -31,38 +31,38 @@ If the facility does not meet the applicable accessibility standard, the Board
 
 !\[US Mail logo]({{ site.baseurl }}/images/uploads/usmail.jfif "US Mail logo"){: .img-right}
 
-1. U.S. Post Office (Williams, Arizona): USPS removed an obstruction impacting maneuvering clearance at the accessible customer entrance door.  
-2. U.S. Post Office (Walnut Creek, California): USPS replaced the hinges on the customer entrance doors to make them easier to open manually. 
-3. U.S. Post Office (Kernville, California): USPS adjusted the manual opening force of the customer entrance doors. 
-4. U.S. Post Office (San Francisco, California): USPS adjusted the manual opening force of the customer entrance doors.  
-5. U.S. Post Office (Cañon City, Colorado): USPS installed two new accessible parking spaces—with associated signage and access aisles—as well as a new curb ramp. 
-6. U.S. Post Office (Sterling, Colorado): USPS repaired the automatic doors at the customer entrance. 
-7. U.S. Post Office (Greenwood Village, Colorado): USPS completed a variety of corrective actions related to accessible parking spaces, the accessible route into the facility, and the manual opening force of the customer entrance doors. 
-8. U.S. Post Office (Wilmington, Delaware): USPS adjusted the manual opening force of the customer entrance doors. 
-9. U.S. Post Office (LeGrand, Iowa): USPS installed a ramp leading to the accessible customer entrance. 
-10. U.S. Post Office (Northbrook, Illinois): USPS installed four accessible parking spaces in the employee parking lot. 
-11. U.S. Post Office (Cicero, Indiana): USPS adjusted the manual opening force of the customer entrance doors. 
-12. U.S. Post Office (Colwich, Kansas): USPS adjusted the closing speed of the customer entrance doors. 
-13. USPS Distribution Center (Kansas City, Kansas): USPS adjusted the manual opening force of the employee entrance doors.  
-14. U.S. Post Office (California, Maryland): USPS adjusted the manual opening force of the customer entrance doors. 
-15. U.S. Post Office (Lutherville-Timonium, Maryland): USPS completed a variety of corrective actions related to accessible parking spaces, the manual opening force of the customer and employee entrance doors, the accessible service counter, the men’s and women’s toilet rooms, the entrance ramp, and maneuvering clearance at the customer entrance.  
-16. U.S. Post Office (Centreville, Maryland): USPS repaired the automatic doors at the customer entrance.  
-17. U.S. Post Office (Takoma Park, Maryland): USPS adjusted the manual opening force of the customer entrance doors. 
-18. U.S. Post Office (Olney, Maryland): USPS installed an accessible route from the public sidewalk to the facility entrance.  
-19. U.S. Post Office (Royal Oak, Michigan): USPS adjusted the manual opening force of the customer entrance doors. 
-20. U.S. Post Office (Marshall, Minnesota): USPS installed an accessible entrance ramp.  
-21. U.S. Post Office (Rio Rancho, New Mexico): USPS replaced the door closers on the customer entrance doors to reduce the force needed to open them manually. 
-22. U.S. Post Office (Boulder City, Nevada): USPS replaced the door closers on the customer entrance doors and doors leading to the retail section to reduce the force needed to open them manually.  
-23. U.S. Post Office (Addyston, Ohio): USPS installed an accessible entrance ramp and adjusted the door closers of the entrance doors to make them easier to open manually. 
-24. U.S. Post Office (Smithville, Tennessee): USPS adjusted the closing speeds of the manual entrance doors.  
-25. U.S. Post Office (Lewisville, Texas): USPS completed corrective action to install a new accessible parking space and to bring other accessible parking spaces into compliance with the standards. 
-26. U.S. Post Office (McLean, Virginia): USPS adjusted the manual opening force of the customer entrance doors. 
-27. U.S. Post Office (Evergreen, Virginia): USPS installed a new van accessible parking space, a new entrance ramp, and a new entrance staircase, and made accessibility improvements to the customer entrance.  
-28. U.S. Post Office (Killington, Vermont): USPS completed a variety of corrective actions related to accessible parking spaces, the manual opening force of the customer and employee entrance doors, the accessible service counter, the men’s and women’s toilet rooms, the entrance ramp, and maneuvering clearance at the customer entrance. 
-29. U.S. Post Office (Rutland, Vermont): USPS installed signage at the van accessible parking space serving the facility 
-30. U.S. Post Office (Quilcene, Washington): USPS installed a van accessible parking space and adjusted the door closers on the customer entrance doors to reduce the force needed to open them manually.  
-31. U.S. Post Office (Milwaukee, Wisconsin): USPS adjusted the manual opening force of the customer entrance doors. 
-32. U.S. Post Office (Ripley, West Virginia): USPS installed a van accessible parking space with associated signage and access aisle. 
+* U.S. Post Office (Williams, Arizona): USPS removed an obstruction impacting maneuvering clearance at the accessible customer entrance door.  
+* U.S. Post Office (Walnut Creek, California): USPS replaced the hinges on the customer entrance doors to make them easier to open manually. 
+* U.S. Post Office (Kernville, California): USPS adjusted the manual opening force of the customer entrance doors. 
+* U.S. Post Office (San Francisco, California): USPS adjusted the manual opening force of the customer entrance doors.  
+* U.S. Post Office (Cañon City, Colorado): USPS installed two new accessible parking spaces—with associated signage and access aisles—as well as a new curb ramp. 
+* U.S. Post Office (Sterling, Colorado): USPS repaired the automatic doors at the customer entrance. 
+* U.S. Post Office (Greenwood Village, Colorado): USPS completed a variety of corrective actions related to accessible parking spaces, the accessible route into the facility, and the manual opening force of the customer entrance doors. 
+* U.S. Post Office (Wilmington, Delaware): USPS adjusted the manual opening force of the customer entrance doors. 
+* U.S. Post Office (LeGrand, Iowa): USPS installed a ramp leading to the accessible customer entrance. 
+* U.S. Post Office (Northbrook, Illinois): USPS installed four accessible parking spaces in the employee parking lot. 
+* U.S. Post Office (Cicero, Indiana): USPS adjusted the manual opening force of the customer entrance doors. 
+* U.S. Post Office (Colwich, Kansas): USPS adjusted the closing speed of the customer entrance doors. 
+* USPS Distribution Center (Kansas City, Kansas): USPS adjusted the manual opening force of the employee entrance doors.  
+* U.S. Post Office (California, Maryland): USPS adjusted the manual opening force of the customer entrance doors. 
+* U.S. Post Office (Lutherville-Timonium, Maryland): USPS completed a variety of corrective actions related to accessible parking spaces, the manual opening force of the customer and employee entrance doors, the accessible service counter, the men’s and women’s toilet rooms, the entrance ramp, and maneuvering clearance at the customer entrance.  
+* U.S. Post Office (Centreville, Maryland): USPS repaired the automatic doors at the customer entrance.  
+* U.S. Post Office (Takoma Park, Maryland): USPS adjusted the manual opening force of the customer entrance doors. 
+* U.S. Post Office (Olney, Maryland): USPS installed an accessible route from the public sidewalk to the facility entrance.  
+* U.S. Post Office (Royal Oak, Michigan): USPS adjusted the manual opening force of the customer entrance doors. 
+* U.S. Post Office (Marshall, Minnesota): USPS installed an accessible entrance ramp.  
+* U.S. Post Office (Rio Rancho, New Mexico): USPS replaced the door closers on the customer entrance doors to reduce the force needed to open them manually. 
+* U.S. Post Office (Boulder City, Nevada): USPS replaced the door closers on the customer entrance doors and doors leading to the retail section to reduce the force needed to open them manually.  
+* U.S. Post Office (Addyston, Ohio): USPS installed an accessible entrance ramp and adjusted the door closers of the entrance doors to make them easier to open manually. 
+* U.S. Post Office (Smithville, Tennessee): USPS adjusted the closing speeds of the manual entrance doors.  
+* U.S. Post Office (Lewisville, Texas): USPS completed corrective action to install a new accessible parking space and to bring other accessible parking spaces into compliance with the standards. 
+* U.S. Post Office (McLean, Virginia): USPS adjusted the manual opening force of the customer entrance doors. 
+* U.S. Post Office (Evergreen, Virginia): USPS installed a new van accessible parking space, a new entrance ramp, and a new entrance staircase, and made accessibility improvements to the customer entrance.  
+* U.S. Post Office (Killington, Vermont): USPS completed a variety of corrective actions related to accessible parking spaces, the manual opening force of the customer and employee entrance doors, the accessible service counter, the men’s and women’s toilet rooms, the entrance ramp, and maneuvering clearance at the customer entrance. 
+* U.S. Post Office (Rutland, Vermont): USPS installed signage at the van accessible parking space serving the facility 
+* U.S. Post Office (Quilcene, Washington): USPS installed a van accessible parking space and adjusted the door closers on the customer entrance doors to reduce the force needed to open them manually.  
+* U.S. Post Office (Milwaukee, Wisconsin): USPS adjusted the manual opening force of the customer entrance doors. 
+* U.S. Post Office (Ripley, West Virginia): USPS installed a van accessible parking space with associated signage and access aisle. 
 
 *Military Facilities – 2 Resolved Cases*
 
