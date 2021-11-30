@@ -9,7 +9,7 @@ tags:
   - ABA
   - ADA
   - Guides
-featured: true
+featured: false
 ---
 The U.S. Access Board has released technical bulletins on accessibility to lavatories and sinks, washing machines and clothes dryers, and saunas and steam rooms. This material addresses specifications for clear floor space, knee and toe space, forward and side reach, operable parts, height, turning space, benches, and doors in the ADA and ABA Accessibility Standards. Each bulletin clarifies common sources of confusion, answers frequently asked questions, and offers recommendations for best practice. Examples of compliant lavatories, sinks, washing machines, clothes dryers, saunas, and steam rooms are included to illustrate how various requirements can be met.
 
