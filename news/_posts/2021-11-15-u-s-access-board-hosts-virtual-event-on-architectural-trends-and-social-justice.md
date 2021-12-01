@@ -12,7 +12,7 @@ tags:
   - events
   - ABA
   - ADA
-featured: true
+featured: false
 ---
 
 ![Karen Braitmayer]({{ site.baseurl }}/images/uploads/braitmayer.jpg "Portrait of Board Member Karen Braitmayer"){: .img-right}
