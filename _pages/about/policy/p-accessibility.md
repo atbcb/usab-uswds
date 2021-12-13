@@ -22,7 +22,7 @@ Our Section 508 coordinator and webmaster is Bruce Bailey. If you have feedback 
 
 If you would like to file a Section 508 related complaint, please contact Earlene Sesker, Director of Administration at <sesker@access-board.gov> or phone 1-202-272-0042.  Letters should be addressed to: 
 > Earlene Sesker \
-> Director of Administration \ 
+> Director of Administration \
 > Access Board \
 > 1331 F Street NW \
 > Suite 1000 \
