@@ -16,10 +16,10 @@ At its last meeting on November 10, Access Board member Karen Braitmayer, FAIA p
 
 The next virtual meeting of the Board will take place on **January 12, 2022** at **2:30 p.m. (ET)** and address access to healthcare for people with disabilities, including relevant standards, resources, and best practices. Prior to the event, the Board will hold at its regular business meeting from 1:00 – 2:00 p.m. (ET), which is also open to the public.
 
-> **Equity in Healthcare for People with Disabilities** 
-> January 12, 2022, 2:30 – 4:00 (ET)
-> Meeting link (registration required): www.zoomgov.com/webinar/register/WN_urM-7I0qSaqj-ZcPnZyxSQ
-> Contact: events@access-board.gov
+> **Equity in Healthcare for People with Disabilities** \
+> January 12, 2022, 2:30 – 4:00 (ET) \
+> Meeting link (registration required): [www.zoomgov.com/webinar/register/WN_urM-7I0qSaqj-ZcPnZyxSQ](https://www.zoomgov.com/webinar/register/WN_urM-7I0qSaqj-ZcPnZyxSQ) \
+> Contact: <events@access-board.gov> \
 >
 > ### Agenda
 > * Welcome, Greg Fehribach, U.S. Access Board Chair
@@ -36,20 +36,19 @@ The next virtual meeting of the Board will take place on **January 12, 2022** at
 >   * Zainab Alkebsi, National Association of the Deaf
 > * Closing Remarks
 
-> **Meeting of the U.S. Access Board Meeting** 
-> January 12, 2022, 1:00 – 2:00 (ET)
-> Meeting link: https://www.zoomgov.com/j/1609418629
-> Meeting ID: 160 941 8629
-> Dial in: (646) 828-7666
-> Meeting ID: 160 941 8629
-> Contact: events@access-board.gov
+> **Meeting of the U.S. Access Board Meeting** \
+> January 12, 2022, 1:00 – 2:00 (ET) \
+> Meeting link: [www.zoomgov.com/j/1609418629](https://www.zoomgov.com/j/1609418629) \
+> Meeting ID: 160 941 8629 \
+> Dial in: (646) 828-7666 \
+> Contact: <events@access-board.gov> \
 
 > ### Agenda 
-> * Introductory Remarks 
-> * Executive Director’s Report 
-> * Standing Committee Reports 
-> *	Ad Hoc Committee Reports 
-> * New Business 
+> * Introductory Remarks
+> * Executive Director’s Report
+> * Standing Committee Reports
+> *	Ad Hoc Committee Reports
+> * New Business
 
 ## Future Board Meetings
 
