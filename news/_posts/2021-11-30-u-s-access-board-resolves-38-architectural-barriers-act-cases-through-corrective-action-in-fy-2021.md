@@ -12,7 +12,7 @@ tags:
   - ABA
   - corrective action
   - enforcement
-featured: true
+featured: false
 ---
 The U.S. Access Board investigated 38 cases under the [Architectural Barriers Act](https://www.access-board.gov/aba/) (ABA) of 1968 that were resolved through corrective action in FY 2021. The ABA requires access to buildings or facilities that were designed, built, or altered with federal dollars or leased by federal agencies. The Board [enforces the ABA](https://www.access-board.gov/enforcement/) through investigating complaints from the public. 
 
