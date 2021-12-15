@@ -24,7 +24,7 @@ The next virtual meeting of the Board will take place on **January 12, 2022** at
 > ### Agenda
 > * Welcome, Greg Fehribach, U.S. Access Board Chair
 > * Introduction, Bobby Stinnette, U.S. Access Board
-> *	Relevant Standards and Resources
+> * Relevant Standards and Resources
 >   * Bobby Stinnette, U.S. Access Board
 >   * Bill Botten, U.S. Access Board
 >   * Kathy Eng, U.S. Access Board
@@ -47,7 +47,7 @@ The next virtual meeting of the Board will take place on **January 12, 2022** at
 > * Introductory Remarks
 > * Executive Director’s Report
 > * Standing Committee Reports
-> *	Ad Hoc Committee Reports
+> * Ad Hoc Committee Reports
 > * New Business
 
 ## Future Board Meetings
