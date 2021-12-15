@@ -36,7 +36,7 @@ The next virtual meeting of the Board will take place on **January 12, 2022** at
 >>   * Zainab Alkebsi, National Association of the Deaf
 >> * Closing Remarks
 
-> **Meeting of the U.S. Access Board Meeting** \
+> **Meeting of the U.S. Access Board** \
 > January 12, 2022, 1:00 – 2:00 (ET) \
 > Meeting link: [www.zoomgov.com/j/1609418629](https://www.zoomgov.com/j/1609418629) \
 > Meeting ID: 160 941 8629 \
