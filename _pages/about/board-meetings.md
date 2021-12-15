@@ -21,20 +21,20 @@ The next virtual meeting of the Board will take place on **January 12, 2022** at
 > Meeting link (registration required): [www.zoomgov.com/webinar/register/WN_urM-7I0qSaqj-ZcPnZyxSQ](https://www.zoomgov.com/webinar/register/WN_urM-7I0qSaqj-ZcPnZyxSQ) \
 > Contact: <events@access-board.gov> \
 >
-> ### Agenda
-> * Welcome, Greg Fehribach, U.S. Access Board Chair
-> * Introduction, Bobby Stinnette, U.S. Access Board
-> * Relevant Standards and Resources
->   * Bobby Stinnette, U.S. Access Board
->   * Bill Botten, U.S. Access Board
->   * Kathy Eng, U.S. Access Board
-> * Enforceable Accessible Medical Equipment Standards 
->   * Ana Torres-Davis, National Council on Disability (NCD)
-> * Designing Inclusive Healthcare Environments
->   * Bill Zellmer, Sutter Health Care
-> * Communication Access in Healthcare Environments
->   * Zainab Alkebsi, National Association of the Deaf
-> * Closing Remarks
+>> ### Agenda
+>> * Welcome, Greg Fehribach, U.S. Access Board Chair
+>> * Introduction, Bobby Stinnette, U.S. Access Board
+>> * Relevant Standards and Resources
+>>   * Bobby Stinnette, U.S. Access Board
+>>   * Bill Botten, U.S. Access Board
+>>   * Kathy Eng, U.S. Access Board
+>> * Enforceable Accessible Medical Equipment Standards 
+>>   * Ana Torres-Davis, National Council on Disability (NCD)
+>> * Designing Inclusive Healthcare Environments
+>>   * Bill Zellmer, Sutter Health Care
+>> * Communication Access in Healthcare Environments
+>>   * Zainab Alkebsi, National Association of the Deaf
+>> * Closing Remarks
 
 > **Meeting of the U.S. Access Board Meeting** \
 > January 12, 2022, 1:00 – 2:00 (ET) \
@@ -43,12 +43,12 @@ The next virtual meeting of the Board will take place on **January 12, 2022** at
 > Dial in: (646) 828-7666 \
 > Contact: <events@access-board.gov> \
 
-> ### Agenda 
-> * Introductory Remarks
-> * Executive Director’s Report
-> * Standing Committee Reports
-> * Ad Hoc Committee Reports
-> * New Business
+>> ### Agenda 
+>> * Introductory Remarks
+>> * Executive Director’s Report
+>> * Standing Committee Reports
+>> * Ad Hoc Committee Reports
+>> * New Business
 
 ## Future Board Meetings
 
