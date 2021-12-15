@@ -14,7 +14,7 @@ At its last meeting on November 10, Access Board member Karen Braitmayer, FAIA p
 
 ## Next Board Meeting
 
-The next virtual meeting of the Board will take place on **January 12, 2022** at **2:30 p.m. (ET)** and address access to healthcare for people with disabilities, including relevant standards, resources, and best practices. Prior to the event, the Board will hold at its regular business meeting from 1:00 – 2:00 p.m. (ET), which is also open to the public.
+The next virtual meeting of the Board will take place on **January 12, 2022** at **2:30 p.m. (ET)** and address access to healthcare for people with disabilities, including relevant standards, resources, and best practices. Prior to the event, the Board will hold its regular business meeting from 1:00 – 2:00 p.m. (ET), which is also open to the public.
 
 > **Equity in Healthcare for People with Disabilities** \
 > January 12, 2022, 2:30 – 4:00 (ET) \
