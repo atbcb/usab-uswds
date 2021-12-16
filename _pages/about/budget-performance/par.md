@@ -50,13 +50,13 @@ I am pleased to present the Performance and Accountability Report (PAR) of the U
 
 In FY 2021, the Access Board continued its mission to promote accessibility through standards and guidelines, education, enforcement, and outreach. We take stock of the progress we have made and the challenges we have confronted in the past year.
 
-Despite the challenges posed by the ongoing coronavirus pandemic, Access Board staff have risen to the occasion for  a successful  FY 2021. We  have been working hard with our rulemaking to improve accessibility in various segments of society. We revived the final guidelines for public rights-of-way and shared use paths, began drafting a proposed rule to update its accessibility guidelines for rail vehicles, initiated the process of developing advisory guidelines  for  onboard wheelchaus  used on  commercial passenger  aircraft, and undertook rulemaking that addresses  access  to  self-service  transaction machines. With our  remote training and technical assistance, Access Board staff have provided 85 webinars and virtual trainings to over 23,000 participants, as well as handled assistance to over 4,400 inquirers. We also hosted a four-part senes of virtual meetings, which included over 2,300 total attendees, on making autonomous vehicles accessible to passengers with disabilities. Our ABA enforcement program closed 174 pending complaints, with 38 resulting in removal of accessibility barriers at various federal facilities, from post offices to defense-related and VA facilities.
+Despite the challenges posed by the ongoing coronavirus pandemic, Access Board staff have risen to the occasion for  a successful  FY 2021. We  have been working hard with our rulemaking to improve accessibility in various segments of society. We revived the final guidelines for public rights-of-way and shared use paths, began drafting a proposed rule to update its accessibility guidelines for rail vehicles, initiated the process of developing advisory guidelines for onboard wheelchaus used on commercial passenger  aircraft, and undertook rulemaking that addresses access to self-service transaction machines. With our remote training and technical assistance, Access Board staff have provided 85 webinars and virtual trainings to over 23,000 participants, as well as handled assistance to over 4,400 inquirers. We also hosted a four-part series of virtual meetings, which included over 2,300 total attendees, on making autonomous vehicles accessible to passengers with disabilities. Our ABA enforcement program closed 174 pending complaints, with 38 resulting in removal of accessibility barriers at various federal facilities, from post offices to defense-related and VA facilities.
 
-The Access Board has implemented  strategies  to  raise its public profile by redesigning and updating its website, enhancing its communication efforts, and developing new strategies to engage with the public. In accordance with Executive Orders issued by President Eiden, the Access Board has also begun to enhance its efforts to reach underserved communities by meeting with other federal agencies, presenting to organizations, and developing strategies and actions to better serve those with disabilities m underserved communities.
+The Access Board has implemented strategies to raise its public profile by redesigning and updating its website, enhancing its communication efforts, and developing new strategies to engage with the public. In accordance with Executive Orders issued by President Eiden, the Access Board has also begun to enhance its efforts to reach underserved communities by meeting with other federal agencies, presenting to organizations, and developing strategies and actions to better serve those with disabilities in underserved communities.
 
-For FY 2021, I am also pleased to report that the Access Board received an unmodified (clean) audit opinion, which represents more than a decade of  such  opiruons. Brown  & Company,  an independent  public accounting firm, audited the Access Board's FY 2021 consolidated fmancial statements, which are included in this report, and did not identify any material weaknesses or significant deficiencies. The  Access Board continues to aspire to be an outstanding steward of taxpayer funds and prioritizes stringent financial management in carrying out its rniss10n.
+For FY 2021, I am also pleased to report that the Access Board received an unmodified (clean) audit opinion, which represents more than a decade of such opinion. Brown & Company, an independent public accounting firm, audited the Access Board's FY 2021 consolidated fmancial statements, which are included in this report, and did not identify any material weaknesses or significant deficiencies. The Access Board continues to aspire to be an outstanding steward of taxpayer funds and prioritizes stringent financial management in carrying out its mission.
 
-The following report evinces the outstanding performance of the dedicated efforts of the  Board, its career staff, and its federal partners. In closing the books on FY 2021, the Access Board commits  to  using the lessons from the last year, facing forthcoming challenges, and continuing to strive for excellence in fulfilling our responsibilities to ensure equality and access for people with disabilities.
+The following report evinces the outstanding performance of the dedicated efforts of the Board, its career staff, and its federal partners. In closing the books on FY 2021, the Access Board commits to using the lessons from the last year, facing forthcoming challenges, and continuing to strive for excellence in fulfilling our responsibilities to ensure equality and access for people with disabilities.
 
 ![Sachin Dev signature]({{ site.baseurl }}/images/sdp-sig.jpg)
 {: .img-small }
@@ -72,7 +72,7 @@ November 12, 2021
 
 ## Management Discussion and Analysis
 
-### Performance and Accountability Report\
+### Performance and Accountability Report
 October 2021
 
 --- 
@@ -81,11 +81,11 @@ October 2021
 
 ### Mission
 
-Established by the Rehabilitation Act of 1973, the United States Access Board --- which was then known as the "Architectural and Transportation Barriers Compliance Board" --- is a small, independent federal agency devoted to advancing accessibility and equality for people with disabilities.  Originally, in the mid-1970s, the Access Board's primary mission was enforcement of the Architectural Barriers Act (ABA), which requires federal buildings and certain other federally-financed facilities to be accessible to persons with disabilities.  Congress has, however, expanded the agency's mission and responsibilities over the years.  Today, the Access Board's mission embraces three main areas: development of accessibility criteria for the built environment and other matters as directed by Congress (e.g., transit vehicles, information and communication technology, telecommunications equipment, medical diagnostic equipment); training and technical assistance; and ABA enforcement.
+Established by the Rehabilitation Act of 1973, the United States Access Board --- which was then known as the "Architectural and Transportation Barriers Compliance Board" --- is a small, independent federal agency devoted to advancing accessibility and equality for people with disabilities. Originally, in the mid-1970s, the Access Board's primary mission was enforcement of the Architectural Barriers Act (ABA), which requires federal buildings and certain other federally-financed facilities to be accessible to persons with disabilities.  Congress has, however, expanded the agency's mission and responsibilities over the years. Today, the Access Board's mission embraces three main areas: development of accessibility criteria for the built environment and other matters as directed by Congress (e.g., transit vehicles, information and communication technology, telecommunications equipment, medical diagnostic equipment); training and technical assistance; and ABA enforcement.
 
 ### Organizational Structure
 
-The Access Board is governed by a 25-member board, with the Board Chair serving as agency head.  The figurew below depicts the agency's organizational structure in FY 2021.
+The Access Board is governed by a 25-member board, with the Board Chair serving as agency head.  The figure below depicts the agency's organizational structure in FY 2021.
 
 <figure>
   <a href="{{ site.baseurl }}/images/usab-org-chart.png">
@@ -100,7 +100,7 @@ The Access Board is governed by a 25-member board, with the Board Chair serving 
 
 The agency's 25-member governing Board acts as a coordinating body among senior officials from twelve federal agencies (referred to as "Federal Members") and thirteen presidentially-appointed members of the general public (referred to as "Public Members"), a majority of whom must be persons with disabilities.
 
-By statute, Federal Members collectively represent ten federal departments (i.e., the Departments of Health and Human Services, Transportation, Housing and Urban Development, Labor, Interior, Defense, Justice, Veterans Affairs, Education, and Commerce), as well as the General Services Administration and the United States Postal Service.  Agency heads have the discretion to designate their agencies' respective Federal Member so long as such members are drawn from the ranks of senior-level appointees (i.e., officials whose positions are compensated on the Executive Scheduled at Level IV or higher).  Consequently, the "terms"of Federal Members have no pre-determined length.
+By statute, Federal Members collectively represent ten federal departments (i.e., the Departments of Health and Human Services, Transportation, Housing and Urban Development, Labor, Interior, Defense, Justice, Veterans Affairs, Education, and Commerce), as well as the General Services Administration and the United States Postal Service.  Agency heads have the discretion to designate their agencies' respective Federal Member so long as such members are drawn from the ranks of senior-level appointees (i.e., officials whose positions are compensated on the Executive Scheduled at Level IV or higher).  Consequently, the "terms" of Federal Members have no pre-determined length.
 
 Public Members, on the other hand, are appointed for staggered, 4-year terms with the possibility of one, successive reappointment term.  Public Members serve as Special Government Employees (SGEs) and, when performing their official duties, are paid at Executive Scheduled Level IV.
 
@@ -126,7 +126,7 @@ The Office of General Counsel (OGC) provides legal advice and counsel to the Boa
 
 #### Office of Administration
 
-The Office of Administration (OA) coordinates and manages administrative support for the Access Board.  OA's wide range of activities include support services related to human resources, budget and finance, records management, and IT networks and systems.  Due to its small size, the Access Board has an inter-agency agreement with the Treasury Department's Bureau of the Fiscal Service/Administrative Resource Center (BFS/ARC) for financial management, human resources, procurement, and travel services.  OA is responsible for overseeing BFS/ARC's work as our shared services provider.
+The Office of Administration (OA) coordinates and manages administrative support for the Access Board.  OA's wide range of activities include support services related to human resources, budget and finance, records management, and IT networks and systems. Due to its small size, the Access Board has an inter-agency agreement with the Treasury Department's Bureau of the Fiscal Service/Administrative Resource Center (BFS/ARC) for financial management, human resources, procurement, and travel services.  OA is responsible for overseeing BFS/ARC's work as our shared services provider.
 
 ### Controls, Systems and Legal Compliance
 
@@ -136,19 +136,19 @@ As a small, independent federal agency, we have found that it is both less costl
 
 #### Federal Managers' Financial Integrity Act of 1982 (FMIA)
 
-The objective of the Federal Managers' Financial Integrity Act of 1982 (FMFIA) is to ensure that agencies have internal controls and financial systems in place that provide reasonable assurance of: the effectiveness and efficiency of operations, reliability of financial reporting, and compliance with regulations and applicable laws. To that end, the FMFIA, as implemented, requires agencies to establish internal control processes consistent with guidelines established by OMB and the Comptroller General. Agency heads must annually attest -- via a written assurance statement -- whether the agency's does/does comply with applicable FMFIA requirements.
+The objective of the Federal Managers' Financial Integrity Act of 1982 (FMFIA) is to ensure that agencies have internal controls and financial systems in place that provide reasonable assurance of: the effectiveness and efficiency of operations, reliability of financial reporting, and compliance with regulations and applicable laws. To that end, the FMFIA, as implemented, requires agencies to establish internal control processes consistent with guidelines established by OMB and the Comptroller General. Agency heads must annually attest -- via a written assurance statement --- whether the agency's does/does comply with applicable FMFIA requirements.
 
 During FY 2021, the Access Board had several inter-agency agreements with other federal agencies for shared administrative services. We contracted with BFS/ARC for financial management, human resources, procurement, and travel services. Other shared service providers included the General Services Administration (Internet, voice communication, PIV card administration, and web hosting), USDA's National Financial Center (payroll), DOI's Interior Business Center (HR security and drug testing), and the United States Postal Service (EEO complaint investigation).
 
 With respect to financial management and payroll systems, certain aspects of the Access Board's financial management system are largely influenced by the controls, practices, and procedures employed by BFS/ARC and NFC. Each has established practices and procedures that assure appropriate internal controls. BFS/ARC's financial management system is audited annually for compliance with Statement on Standards for Attestation Engagements (SSAE) 18 and we receive quarterly SSAE 18 SOC 1 Type II Reports on the ongoing effectiveness of the system's internal controls. Likewise, NFC annually provides its customers/stakeholders with a written statement of assurance concerning the effectiveness of its financial reporting controls.
 
-Moreover, the Access Board's implemented its own, internal controls and procedures to complement the measures employed by our shared service providers. For example, the Access Board Chief Financial Officer (CFO) reviews and reconciles financial reports from BFS/ARC quarterly to ensure that the agency's obligations and disbursements have been properly recorded; as well, year-end financial statements are reviewed to make sure they are correctly stated. Agency procedure also requires the CFO to prospectively certify funds availability for all obligations. In addition, the CFO and Director of Administration conduct periodic reviews of internal systems, including travel, payroll, and procurement. Lastly, the Access Board's financial statements undergo annual audits by an independent accountant, which include review of the adequacy of our internal control systems.
+Moreover, the Access Board has implemented its own internal controls and procedures to complement the measures employed by our shared service providers. For example, the Access Board Chief Financial Officer (CFO) reviews and reconciles financial reports from BFS/ARC quarterly to ensure that the agency's obligations and disbursements have been properly recorded; as well, year-end financial statements are reviewed to make sure they are correctly stated. Agency procedure also requires the CFO to prospectively certify funds availability for all obligations. In addition, the CFO and Director of Administration conduct periodic reviews of internal systems, including travel, payroll, and procurement. Lastly, the Access Board's financial statements undergo annual audits by an independent accountant, which include review of the adequacy of our internal control systems.
 
 For these reasons, the Access Board can provide reasonable assurance that internal controls over financial reporting are operating effectively and there are no material weaknesses relating to the design or operation of internal controls over financial reporting.
 
 #### Financial Statement Audit
 
-Under the Accountability of Tax Dollars Act of 2002 (codified at 31 U.S.C. § 3515), most small (i.e., "non-CFO") agencies -- such as the Access Board -- are required to have their financial statements audited annually. Consequently, the Access Board's financial statements have undergone audit annually by independent accountants, including reviews of the adequacy of our control systems.
+Under the Accountability of Tax Dollars Act of 2002 (codified at 31 U.S.C. § 3515), most small (i.e., "non-CFO") agencies --- such as the Access Board --- are required to have their financial statements audited annually. Consequently, the Access Board's financial statements have undergone audit annually by independent accountants, including reviews of the adequacy of our control systems.
 
 #### Payment Integrity Information Act of 2019 (PIIA)
 
@@ -156,9 +156,9 @@ In spring 2020, the Payment Integrity Information Act of 2019 (PIIA) became law.
 
 Because OMB has not yet issued implementing guidance under the PPIA, the contours of agencies' reporting and/or assurance obligations remains unknown. Nonetheless, the Access Board can definitively state that, based on the PPIA's statutory definition of "significance," the agency had no programs/activities at significant risk of improper payments.
 
-Debt Collection Improvement Act of 1996 (DCIA)
+#### Debt Collection Improvement Act of 1996 (DCIA)
 
-The Debt Collection Improvement Act of 1996 (DCIA), as amended, maximizes collection of delinquent debts owed to the federal government by facilitating timely action to collect outstanding debts and minimizing collection costs through use of centralized and / or cross-agency collection mechanisms for most non-tax debts. Under the DCLA, federal agencies are required to refer non-tax debts that have been delinquent for more than 120 days to the Treasury Department for collection.
+The Debt Collection Improvement Act of 1996 (DCIA), as amended, maximizes collection of delinquent debts owed to the federal government by facilitating timely action to collect outstanding debts and minimizing collection costs through use of centralized and/or cross-agency collection mechanisms for most non-tax debts. Under the DCLA, federal agencies are required to refer non-tax debts that have been delinquent for more than 120 days to the Treasury Department for collection.
 
 The Access Board pursues the collection of delinquent debt, when it does have DCLA-covered accounts that have been past due for more than 120 days, these debts are referred to the U.S. Treasury for collection.
 
@@ -168,7 +168,7 @@ The Prompt Payment Act requires federal agencies to make timely payments to vend
 
 #### DATA Act
 
-The Digital Accountability and Transparency Act of 2014 -- which is commonly referred to as the DATA Act -- requires agencies to establish common standards for financial data provided by all government agencies and to expand the amount of data that agencies must provide to the government website, "USAspending.gov."
+The Digital Accountability and Transparency Act of 2014 --- which is commonly referred to as the DATA Act --- requires agencies to establish common standards for financial data provided by all government agencies and to expand the amount of data that agencies must provide to the government website, "USAspending.gov."
 
 The Access Board's shared service provider (BFS/ARC) has implemented software that enables the agency to comply with DATA Act requirements. In FY 2021, we were compliant with applicable DATA Act requirements and timely submitted all certifications.
 
