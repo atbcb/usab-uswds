@@ -25,7 +25,7 @@ On December 15, 2021, the Smithsonian National Museum of Natural History held 
 
 Previously, the museum entrance from the National Mall only provided a monumental staircase that caused those with disabilities to navigate around the large building to the Constitution Avenue entrance. But now the two new sloped walkways provide greater access to all museum patrons. The walkways are sloped between 1-3% and are eight feet wide, which permits space for two-way pedestrian traffic. The walkways also include bronze handrails and resting landings with a bench at the switchback turns. 
 
-<figure class="img-right">
+<figure class="img-left">
   <img src="{{ site.baseurl }}/images/uploads/NMNH-bench" alt="image of persepctive view of bench on landing of switchback sloped walkway." class="center">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
     <em>Resting bench on the landing at the mid-point of the walkway.<em>
