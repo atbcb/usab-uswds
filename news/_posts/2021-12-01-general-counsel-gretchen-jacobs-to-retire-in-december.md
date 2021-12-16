@@ -8,7 +8,7 @@ excerpt: Gretchen Jacobs, the U.S. Access Board’s General Counsel, plans to
   Act. Jacobs was also instrumental in . . .
 image: /images/uploads/jacobs.jpg
 image_alt_text: Portrait of Gretchen Jacobs
-featured: true
+featured: false
 ---
 Gretchen Jacobs, the U.S. Access Board’s General Counsel, plans to retire at the end of this year. As General Counsel, she guided the Board’s legal affairs and led enforcement efforts under the Architectural Barriers Act. Jacobs was also instrumental in the Board’s development of guidelines and standards, which, during her tenure, included publication of updated accessibility guidelines for [buses and vans](https://www.access-board.gov/ada/vehicles/) (December 2016), refreshed Section [508 Standards](https://www.access-board.gov/ict/) for information and communication technology in the federal sector (January 2017), and new accessibility standards for [medical diagnostic equipment](https://www.access-board.gov/mde/) (January 2017).
 
