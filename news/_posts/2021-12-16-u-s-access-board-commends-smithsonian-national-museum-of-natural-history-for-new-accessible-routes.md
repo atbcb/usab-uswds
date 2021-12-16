@@ -17,7 +17,7 @@ featured: true
 <figure class="img-left">
     <img src="{{ site.baseurl }}/images/uploads/ribbon-cutting.jpg" alt="Bill Botten and National Museum of Natural History representatives cutting the ceremony ribbon." class="center">
   <figcaption style="text-align:center">
-    <em>Access Board Training Coordinator Bill Botten and National Museum of Natural History representatives cutting the ceremony ribbon</em>
+    <em>Access Board Training Coordinator Bill Botten and National Museum of Natural History representatives cutting the ceremony ribbon.</em>
   </figcaption>
 </figure>
 
@@ -25,17 +25,16 @@ On December 15, 2021, the Smithsonian National Museum of Natural History held 
 
 Previously, the museum entrance from the National Mall only provided a monumental staircase that caused those with disabilities to navigate around the large building to the Constitution Avenue entrance. But now the two new sloped walkways provide greater access to all museum patrons. The walkways are sloped between 1-3% and are eight feet wide, which permits space for two-way pedestrian traffic. The walkways also include bronze handrails and resting landings with a bench at the switchback turns. 
 
-<figure class="img-left">
+<figure class="img-right">
   <img src="{{ site.baseurl }}/images/uploads/NMNH-bench" alt="image of persepctive view of bench on landing of switchback sloped walkway." class="center">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
-    Resting bench on the landing at the mid-point of the walkway.
+    <em>Resting bench on the landing at the mid-point of the walkway.<em>
   </figcaption>
 </figure>
-
 <figure class="img-right">
   <img src="{{ site.baseurl }}/images/uploads/NMNH-walkway" alt="image of full walkway from the landing." class="center">
   <figcaption style="text-align:center; font-size:smaller; font-style:oblique;">
-    Northside sloped walkway.
+    <em>Northside sloped walkway.<em>
   </figcaption>
 </figure>
 
