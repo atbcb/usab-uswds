@@ -3,7 +3,6 @@ name: wendy-marshall
 first_name: Wendy
 last_name: Marshall
 full_name: Wendy Marshall
-image: /images/uploads/ab-seal.png
 job-title: "Attorney Advisor "
 office: Office of General Counsel
 agency: United States Access Board

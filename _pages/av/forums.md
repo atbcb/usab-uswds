@@ -10,7 +10,7 @@ permalink: /av/forums.html
 
 ### Series Platform and Format 
 
-The forum was be conducted through the Zoom webinar.&nbsp;
+The forum was conducted through the Zoom webinar.&nbsp;
 The forum’s four sessions were held in intervals of two weeks.&nbsp;
 Each 90-minute webinar discussion was recorded and supplemented by an online crowdsourcing [dialogue platform](https://transportationinnovation.ideascale.com) that was be active for two weeks after each session.&nbsp;
 The sessions began with presentations by agency representatives and invited speakers who will reviewed relevant sources and research and outline issues and questions for discussion.&nbsp;
