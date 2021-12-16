@@ -4,7 +4,7 @@ layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
 banner-subtitle: Performance and Accountability Report Fiscal Year 2021
-permalink: /about/par/
+permalink: /about/par.html
 file: par-fy2021.pdf
 file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2021
 ---
@@ -395,3 +395,9 @@ Such partnerships with our sister agencies are instrumental in the sustained suc
 During FY 2020, the Access Board received 140 new ABA complaints and closed 167 pending complaints.  The total number of ABA complaints filed this year represented a 17% drop relative to complaints filed in the prior fiscal year (FY 2019).  Anecdotally, we believe this decrease in ABA complaint filings is most likely pandemic-related in the sense that, since mid-March 2020, many Americans have been staying home more than they normally would be and, thus, federal facilities, such as post offices and national parks, are being visited less frequently and therefore and less violations are being reported.
 
 Presented below in Table 1 are ABA caseload statistics for FY 2020, as well as comparative data for FYs 2018 and 2019.  (*Note:*  All tabular data provided in this section about ABA cases were compiled from the Access Board's cloud-based Complaint Tracking System (CTS), which is the official repository of all ABA complaint files.)
+
+
+
+## Test
+
+{% include_relative par-2021-tables.html %}
