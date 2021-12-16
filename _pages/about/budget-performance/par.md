@@ -87,13 +87,13 @@ Established by the Rehabilitation Act of 1973, the United States Access Board --
 
 The Access Board is governed by a 25-member board, with the Board Chair serving as agency head.  The figurew below depicts the agency's organizational structure in FY 2021.
 
-[![Organizational structure of Access Board showing Executive Director under Board and three offices under Executive Director: OTIS, OA & OGC.](https://federalist-e3fba26d-2806-4f02-bf0e-89c97cfba93c.app.cloud.gov/preview/atbcb/usab-uswds/par2021/images/usab-org-chart.png)](https://federalist-e3fba26d-2806-4f02-bf0e-89c97cfba93c.app.cloud.gov/preview/atbcb/usab-uswds/par2021/images/usab-org-chart.png)
-
 <figure>
   <a href="{{ site.baseurl }}/images/usab-org-chart.png">
     <img width="622" height="359" src="{{ site.baseurl }}/images/usab-org-chart.png" alt="Organizational structure of Access Board showing Executive Director under Board and three offices under Executive Director: OTIS, OA &amp; OGC.">
   </a>
-  <figcaption>Figure 1:&nbsp; U.S. Access Board Organizational Structure</figcaption>
+  <figcaption>
+    Figure 1:&nbsp; U.S. Access Board Organizational Structure
+  </figcaption>
 </figure>
 
 ### Board Members
