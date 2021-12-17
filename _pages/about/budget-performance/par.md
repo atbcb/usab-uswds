@@ -508,5 +508,7 @@ The purpose of this report is solely to describe the scope of our testing of com
 Greenbelt, Maryland \
 November 12, 2021
 
+![Brown & Company pencil footer -- Certified Public Accountants and Management Consulttants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
+
 {% include_relative par-2021-tables.html %}
 
