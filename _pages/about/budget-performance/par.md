@@ -328,7 +328,7 @@ During FY 2021, the Access Board received 180 new ABA complaints and closed 174 
 
 Presented below in Table 1 are ABA caseload statistics for FY 2021, as well as comparative data for FYs 2019 and 2020. (*Note:* All tabular data provided in this section about ABA cases were compiled from the Access Board’s cloud-based Complaint Tracking System (CTS), which is the official repository of all ABA complaint files.)
 
-{% include_relative par-2021-tables.html %}
+[INSERT TABLE 1]
 
 Of the 174 ABA cases closed this year, about 22% (38 cases) were closed after the federal agency (or other facility owner/leaseholder) took corrective action to remedy building elements or features determined by our investigative findings to be ABA violations under the applicable accessibility standard. This figure represents a 31% drop compared to cases closed in the prior fiscal year (FY 2020) following corrective action. This decrease is explained by the fact that, during FY 2021, agencies were faced with pandemic-related delays (mostly related to supply and budget issues and delays on the part of construction contractors) that resulted in corrective actions planned to be completed in FY 2021 being pushed back into FY 2022.
 
@@ -342,11 +342,11 @@ The balance of ABA cases closed this year --- or 78% --- were concluded for a ra
 
 Table 2 below provides data for ABA cases closed in FY 2021 concerning reasons for case closure, which, as noted above, included everything from closures after the facility owner/leaseholder removed accessibility barriers to closures for various administrative reasons.
 
-NEED TABLE
+[[[[INSERT TABLE 2]]]]
 
 Table 3 below provides similar case closure data about the bases for ABA cases closures, but from a longitudinal perspective for FYs 2019 – 2021.
 
-NEED TABLE
+[[[[INSERT TABLE 3]]]]
 
 ##### Other Initiatives
 
@@ -410,6 +410,7 @@ As noted above under Goal #3, in FY 2021 President Biden issued Executive Order 
 
 At the beginning of his administration, President Biden also issued a Memorandum on Tribal Consultation and Strengthening Nation-to-Nation Relationships, which requires each agency to implement the policies and directives of Executive Order 13175. Pursuant to this directive, the Board has reached out to inter-tribal organizations and Tribal officials to apprise them of the agency’s technical services and public programs, provide information about the agency’s ABA complaint process, and inquire about developing a contact list of Tribal community leaders and professionals. Board staff has also presented to inter-tribal organizations and participated in stakeholder meetings for inclusive planning in Tribal communities.
 
-INSERT INDEPENDENT AUDITOR'S REPORT??
+[INSERT AUDITOR'S REPORT]
 
-Financial Statements and Notes
+{% include_relative par-2021-tables.html %}
+
