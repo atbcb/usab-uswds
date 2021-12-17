@@ -410,9 +410,6 @@ As noted above under Goal #3, in FY 2021 President Biden issued Executive Order 
 
 At the beginning of his administration, President Biden also issued a Memorandum on Tribal Consultation and Strengthening Nation-to-Nation Relationships, which requires each agency to implement the policies and directives of Executive Order 13175. Pursuant to this directive, the Board has reached out to inter-tribal organizations and Tribal officials to apprise them of the agency’s technical services and public programs, provide information about the agency’s ABA complaint process, and inquire about developing a contact list of Tribal community leaders and professionals. Board staff has also presented to inter-tribal organizations and participated in stakeholder meetings for inclusive planning in Tribal communities.
 
-[INSERT AUDITOR'S REPORT]
-
-
 ![Brown & Company pencil footer -- Certified Public Accountants and Management Consulttants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
 
 ### Independent Auditor's Report
@@ -435,7 +432,7 @@ The following sections discuss in more detail (1) our report on the financial st
 
 In accordance with the provisions of the Accountability of Tax Dollars Act of 2002 (ATDA) (Pub. L. No. 107-289), we have audited USAB's financial statements. USAB's financial statements comprise the balance sheets as of September 30, 2021 and 2020; the related statements of net cost, changes in net position, and budgetary resources for the fiscal years then ended; and the related notes to the financial statements.
 
-We conducted our audits in accordance with U.S. generally accepted government auditing standards and the provisions of OMB Bulletin No. 21-04, Audit Requirements for Federal Financial Statements. We believe that the audit evidence we obtained is sufficient and appropriate to provide a basis for our audit opinions.
+We conducted our audits in accordance with U.S. generally accepted government auditing standards and the provisions of OMB Bulletin No. 21-04, *Audit Requirements for Federal Financial Statements*. We believe that the audit evidence we obtained is sufficient and appropriate to provide a basis for our audit opinions.
 
 ##### Management’s Responsibility
 
@@ -456,7 +453,7 @@ In our opinion, USAB's financial statements present fairly, in all material resp
 > U.S. generally accepted accounting principles issued by the Federal Accounting Standards Advisory Board (FASAB) require that the RSI be presented to supplement the financial statements. Although the RSI is not a part of the financial statements, FASAB considers this information to be an essential part of financial reporting for placing the financial statements in appropriate operational, economic, or historical context. We have applied certain limited procedures to the RSI in accordance with U.S. generally accepted government auditing standards, which consisted of inquiries of management about the methods of preparing the RSI and comparing the information for consistency with management's responses to the auditor's inquiries, the financial statements, and other knowledge we obtained during the audit of the financial statements, in order to report omissions or material departures from FASAB guidelines, if any, identified by these limited procedures. We did not audit and we do not express an opinion or provide any assurance on the RSI because the limited procedures we applied do not provide sufficient evidence to express an opinion or provide any assurance.
 
 > ##### Other Information
-> USAB’s other information contains a wide range of information, some of which is not directly related to the financial statements. This information is presented for purposes of additional analysis and is not a required part of the financial statements or the RSI. We read the other information included with the financial statements in order to identify material inconsistencies, if any, with the audited financial statements. Our audit was conducted for the purpose of forming an opinion on USAB’s financial statements. We did not audit and do not express an opinion or provide any assurance on the other information.
+> USAB's other information contains a wide range of information, some of which is not directly related to the financial statements. This information is presented for purposes of additional analysis and is not a required part of the financial statements or the RSI. We read the other information included with the financial statements in order to identify material inconsistencies, if any, with the audited financial statements. Our audit was conducted for the purpose of forming an opinion on USAB’s financial statements. We did not audit and do not express an opinion or provide any assurance on the other information.
 
 #### Report on Internal Control over Financial Reporting
 
@@ -508,8 +505,7 @@ The purpose of this report is solely to describe the scope of our testing of com
 
 ![Brown and Company signature]({{ site.baseurl }}/images/bc-sig.jpg)
 {: .img-small }
-
-Greenbelt, Maryland
+Greenbelt, Maryland \
 November 12, 2021
 
 {% include_relative par-2021-tables.html %}
