@@ -12,7 +12,7 @@ featured: true
 ---
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/ribbon-cutting.jpg">
-    <img src="{{ site.baseurl }}/images/uploads/ribbon-cutting.jpg" alt="Photo of four people outside holding blue ribbon and scissors, Smithsonian Instituion is engraved in stone behind them." class="center">
+    <img src="{{ site.baseurl }}/images/uploads/ribbon-cutting.png" alt="Photo of four people outside holding blue ribbon and scissors, Smithsonian Instituion is engraved in stone behind them." class="center">
   </a>
   <figcaption style="text-align:center">
     <em>Access Board Training Coordinator Bill Botten and National Museum of Natural History representatives cutting the ceremony ribbon.</em>
