@@ -11,7 +11,7 @@ tags:
 featured: true
 ---
 <figure class="img-left">
-  <a href="{{ site.baseurl }}/images/uploads/ribbon-cutting.jpg">
+  <a href="{{ site.baseurl }}/images/ribbon-cutting.jpg">
     <img src="{{ site.baseurl }}/images/uploads/ribbon-cutting.jpg" alt="Photo of four people outside holding blue ribbon and scissors, Smithsonian Instituion is engraved in stone behind them." class="center">
   </a>
   <figcaption style="text-align:center">
