@@ -77,15 +77,15 @@ October 2021
 
 --- 
 
-## Part 1:  Management Discussion and Analysis
+## Part 1: Management Discussion and Analysis
 
 ### Mission
 
-Established by the Rehabilitation Act of 1973, the United States Access Board --- which was then known as the "Architectural and Transportation Barriers Compliance Board" --- is a small, independent federal agency devoted to advancing accessibility and equality for people with disabilities. Originally, in the mid-1970s, the Access Board's primary mission was enforcement of the Architectural Barriers Act (ABA), which requires federal buildings and certain other federally-financed facilities to be accessible to persons with disabilities.  Congress has, however, expanded the agency's mission and responsibilities over the years. Today, the Access Board's mission embraces three main areas: development of accessibility criteria for the built environment and other matters as directed by Congress (e.g., transit vehicles, information and communication technology, telecommunications equipment, medical diagnostic equipment); training and technical assistance; and ABA enforcement.
+Established by the Rehabilitation Act of 1973, the United States Access Board --- which was then known as the "Architectural and Transportation Barriers Compliance Board" --- is a small, independent federal agency devoted to advancing accessibility and equality for people with disabilities. Originally, in the mid-1970s, the Access Board's primary mission was enforcement of the Architectural Barriers Act (ABA), which requires federal buildings and certain other federally-financed facilities to be accessible to persons with disabilities. Congress has, however, expanded the agency's mission and responsibilities over the years. Today, the Access Board's mission embraces three main areas: development of accessibility criteria for the built environment and other matters as directed by Congress (e.g., transit vehicles, information and communication technology, telecommunications equipment, medical diagnostic equipment); training and technical assistance; and ABA enforcement.
 
 ### Organizational Structure
 
-The Access Board is governed by a 25-member board, with the Board Chair serving as agency head.  The figure below depicts the agency's organizational structure in FY 2021.
+The Access Board is governed by a 25-member board, with the Board Chair serving as agency head. The figure below depicts the agency's organizational structure in FY 2021.
 
 <figure>
   <a href="{{ site.baseurl }}/images/usab-org-chart.png">
@@ -100,33 +100,33 @@ The Access Board is governed by a 25-member board, with the Board Chair serving 
 
 The agency's 25-member governing Board acts as a coordinating body among senior officials from twelve federal agencies (referred to as "Federal Members") and thirteen presidentially-appointed members of the general public (referred to as "Public Members"), a majority of whom must be persons with disabilities.
 
-By statute, Federal Members collectively represent ten federal departments (i.e., the Departments of Health and Human Services, Transportation, Housing and Urban Development, Labor, Interior, Defense, Justice, Veterans Affairs, Education, and Commerce), as well as the General Services Administration and the United States Postal Service.  Agency heads have the discretion to designate their agencies' respective Federal Member so long as such members are drawn from the ranks of senior-level appointees (i.e., officials whose positions are compensated on the Executive Scheduled at Level IV or higher).  Consequently, the "terms" of Federal Members have no pre-determined length.
+By statute, Federal Members collectively represent ten federal departments (i.e., the Departments of Health and Human Services, Transportation, Housing and Urban Development, Labor, Interior, Defense, Justice, Veterans Affairs, Education, and Commerce), as well as the General Services Administration and the United States Postal Service. Agency heads have the discretion to designate their agencies' respective Federal Member so long as such members are drawn from the ranks of senior-level appointees (i.e., officials whose positions are compensated on the Executive Scheduled at Level IV or higher). Consequently, the "terms" of Federal Members have no pre-determined length.
 
-Public Members, on the other hand, are appointed for staggered, 4-year terms with the possibility of one, successive reappointment term.  Public Members serve as Special Government Employees (SGEs) and, when performing their official duties, are paid at Executive Scheduled Level IV.
+Public Members, on the other hand, are appointed for staggered, 4-year terms with the possibility of one, successive reappointment term. Public Members serve as Special Government Employees (SGEs) and, when performing their official duties, are paid at Executive Scheduled Level IV.
 
-Under the Access Board's Bylaws, the Board generally meets bi-monthly, with one meeting annually taking place outside the Washington, DC area.  The Board is led by a Chair and Vice-Chair, each of whom are elected by majority vote of their fellow Board members and serve one-year terms.  To foster a balance of interests, the Chair and Vice-Chair must alternate annually between Federal and Public Members, such that, when the Chair is a Federal Member, the Vice-Chair is a Public Member and vice-versa.  The Board Chair (or his or her written delegee) act on the agency's behalf on matters reserved for agency heads under federal law or regulation.
+Under the Access Board's Bylaws, the Board generally meets bi-monthly, with one meeting annually taking place outside the Washington, DC area. The Board is led by a Chair and Vice-Chair, each of whom are elected by majority vote of their fellow Board members and serve one-year terms. To foster a balance of interests, the Chair and Vice-Chair must alternate annually between Federal and Public Members, such that, when the Chair is a Federal Member, the Vice-Chair is a Public Member and vice-versa. The Board Chair (or his or her written delegee) act on the agency's behalf on matters reserved for agency heads under federal law or regulation.
 
 ### Staff Offices
 
-The Access Board's career staff is organized into four units/offices.  At the close of FY2020, the agency had 28 full-time employees --- most of whom are professionals with subject-matter expertise in accessibility matters within the Access Board's jurisdiction.  The agency's physical office is located in Washington, DC.
+The Access Board's career staff is organized into four units/offices. At the close of FY2020, the agency had 28 full-time employees --- most of whom are professionals with subject-matter expertise in accessibility matters within the Access Board's jurisdiction. The agency's physical office is located in Washington, DC.
 
 #### Office of the Executive Director
 
-The Office of the Executive Director (OED), through the Executive Director, is responsible for providing overall administrative leadership of the agency.  The Executive Director --- who is appointed by the Board --- oversees the day-to-day operation of the agency, including: setting agency-wide priorities and overseeing their performance, supervising agency personnel; ensuring that the budget is administered effectively and efficiently; coordinating Board meetings; and representing the Access Board on inter-agency committees and at other official events.
+The Office of the Executive Director (OED), through the Executive Director, is responsible for providing overall administrative leadership of the agency. The Executive Director --- who is appointed by the Board --- oversees the day-to-day operation of the agency, including: setting agency-wide priorities and overseeing their performance, supervising agency personnel; ensuring that the budget is administered effectively and efficiently; coordinating Board meetings; and representing the Access Board on inter-agency committees and at other official events.
 
 In addition, the Rehabilitation Act tasks the Executive Director with directing the Access Board's ABA enforcement program, including --- when needed --- the issuance of formal citations (which initiate formal administrative proceedings when ABA complaints cannot be resolved voluntarily), as well as the filing of civil actions to enforce final orders.
 
 #### Office of Technical and Information Services
 
-The Office of Technical and Information Services (OTIS) leads the agency's development of accessibility guidelines and standards for the built environment, transportation vehicles, information and communications technology, medical diagnostic equipment, and other statutorily-designated areas.  OTIS provides technical assistance and guidance to the public on these guidelines and standards.  It also conducts webinars and training on accessibility and manages the Board's communication with the public, including through the agency's website.
+The Office of Technical and Information Services (OTIS) leads the agency's development of accessibility guidelines and standards for the built environment, transportation vehicles, information and communications technology, medical diagnostic equipment, and other statutorily-designated areas. OTIS provides technical assistance and guidance to the public on these guidelines and standards. It also conducts webinars and training on accessibility and manages the Board's communication with the public, including through the agency's website.
 
 #### Office of General Counsel
 
-The Office of General Counsel (OGC) provides legal advice and counsel to the Board and staff regarding the work and operations of the agency, including matters relating to Access Board jurisdiction or authorities and the legal sufficiency of agency regulatory initiatives.  OGC also manages the agency's ethics, FOIA, and privacy programs and oversees the Board's Architectural Barriers Act (ABA) Compliance and Enforcement program.  As the agency's legal officers, OGC attorneys represent the agency in administrative proceedings and, where permitted by statute, civil actions that arise under the ABA or section 502 of the Rehabilitation Act.
+The Office of General Counsel (OGC) provides legal advice and counsel to the Board and staff regarding the work and operations of the agency, including matters relating to Access Board jurisdiction or authorities and the legal sufficiency of agency regulatory initiatives. OGC also manages the agency's ethics, FOIA, and privacy programs and oversees the Board's Architectural Barriers Act (ABA) Compliance and Enforcement program. As the agency's legal officers, OGC attorneys represent the agency in administrative proceedings and, where permitted by statute, civil actions that arise under the ABA or section 502 of the Rehabilitation Act.
 
 #### Office of Administration
 
-The Office of Administration (OA) coordinates and manages administrative support for the Access Board.  OA's wide range of activities include support services related to human resources, budget and finance, records management, and IT networks and systems. Due to its small size, the Access Board has an inter-agency agreement with the Treasury Department's Bureau of the Fiscal Service/Administrative Resource Center (BFS/ARC) for financial management, human resources, procurement, and travel services.  OA is responsible for overseeing BFS/ARC's work as our shared services provider.
+The Office of Administration (OA) coordinates and manages administrative support for the Access Board. OA's wide range of activities include support services related to human resources, budget and finance, records management, and IT networks and systems. Due to its small size, the Access Board has an inter-agency agreement with the Treasury Department's Bureau of the Fiscal Service/Administrative Resource Center (BFS/ARC) for financial management, human resources, procurement, and travel services. OA is responsible for overseeing BFS/ARC's work as our shared services provider.
 
 ### Controls, Systems and Legal Compliance
 
@@ -273,6 +273,7 @@ The Committee then completed its draft final report and, as required by TRB prot
 The report, entitled "Technical Feasibility of a Wheelchair Securement Concept for Airline Travel: A Preliminary Assessment," was published in September 2021. The publication was preceded by a closed briefings for Access Board Members and Congress. On September 22, the Board hosted a public briefing on the report's findings by four members of the committee, and the public had an opportunity to ask questions about the report's findings and recommendations. A recording of that public briefing, as well as the final report, can be accessed on the Board's website at: <https://www.access-board.gov/aircraft/>. As noted in the report, the committee did not identify any issues in this preliminary assessment that seem likely to present design and engineering challenges so formidable that they call into question the technical feasibility of an in-cabin wheelchair securement system and the value of exploring the concept further. The report identifies several important airline operational and passenger accommodation issues and recommends further areas that merit further study.
 
 ### Goal #2: Provide training and technical assistance on accessibility
+
 Our second strategic goal is supported by three objectives, which are:
 
 - **Objective 2.1:**  Promote and publicize the Board’s training and technical assistance services to reach more customers.
@@ -280,10 +281,12 @@ Our second strategic goal is supported by three objectives, which are:
 - **Objective 2.3:**  Develop and update educational materials to promote understanding of and compliance with accessibility standards and guidelines.
 
 #### Background:
+
 The Board promotes accessible design through technical assistance to the public, published guidance, and education and training. We provide technical assistance to the public on our accessibility guidelines and standards, as well as other aspects of accessible design. Over the years, the agency has become known for its free, on-demand, and personalized technical assistance, which is provided through our Office of Technical and Information Services (OTIS). We respond to thousands of technical assistance inquiries each year, which we receive by phone, e-mail, and fax. In recent years, our website (www.access-board.gov) has also become a go-to resource. Users of our website can, among other things, view our accessibility guidelines and standards, review an online guide to the ADA standards (which includes downloadable animations illustrating the rationale behind the guidelines and standards and showing how accessible features are used by individuals with disabilities), and downloadable versions of our published materials. Collectively, our technical assistance services play a critical role in assisting professionals, governmental jurisdictions, and others understand and apply accessible design requirements.
 
 #### Summary of Key Accomplishments in FY 2021:
 ##### Agency-Sponsored Trainings
+
 Since the onset of the COVID-19 pandemic, the Board has conducted training sessions remotely instead of in person. In FY 2021, the Access Board sponsored or conducted 85 webinars and virtual trainings. Collectively, these trainings had 23,000 participants. This figure represents a 36% increase over the total number of people trained in FY 2020 (17,115) and is at least partly due to our successful transition to distance learning and remote training.
 
 Our webinars this year continued the two successful series we have presented in recent years. Both webinar series are provided free of charge and allow participants to join live or view on-demand via archived recordings posted on the web.
@@ -293,6 +296,7 @@ The first webinar series addressed accessible design relating to the built envir
 The second webinar series – which addressed Section 508 best practices – was offered in conjunction with the Chief Information Officers Council Accessibility Community of Practice (CIO ACOP). This series aims to ensure that federal agencies have the knowledge needed to meet their obligations under Section 508 regarding the accessibility of ICT, particularly federal websites and other electronic materials. Sessions were offered bi-monthly, with each session running 90 minutes. Topics included the accessibility of social media, electronic documents, and virtual meeting platforms. Overall, this this webinar series logged approximately 2,158 attendees in FY 2021.
 
 ##### Technical Assistance
+
 As in prior years, our technical assistance services proved to be one of the agency’s signature services. In FY 2021, we handled over 4,400 technical assistance inquiries. The Board operates a technical assistance help line and responds to technical inquiries submitted by e-mail. Most inquiries concern clarification or interpretation of specific provisions in the Board guidelines and standards.
 
 To improve its technical system, the Board has developed a knowledge management system (KMS) to collect and store information and guidance generated in its provision of technical assistance. Answers to questions received are filed into the system so that they can be easily retrieved and consulted by accessibility specialists in the future when responding to inquiries. Information housed in the KMS includes hyper-linked cross-references to agency guidance relevant a given provision or topic, responses to past TA inquiries, and notations about accessibility or design issues that may warrant future attention by the agency (such as, for example, development of educational materials). We expect this critical tool to pay great dividends by enhancing the clarity and consistency of the technical assistance we provide to the public daily.
@@ -302,6 +306,7 @@ In FY 2021, the Access Board redesigned and updated its website. The new site fe
 The Access Board also continued to employ other communication strategies to promote and publicize our technical assistance and training services to a broad audience. We use an e-mail subscription system to promote awareness of the work of the Board. Through this system, we reach over 42,000 subscribers (and over 121,000 subscriptions) to Board news topics. The Board also has a Twitter handle (@AccessBoard) with over 2,000 followers and a YouTube channel that has over 2,500 subscribers and features videos on the work of the Board and copies of its animations on accessibility. In addition, the Board in FY 2021 created agency accounts on Facebook, which has over 100 followers, and LinkedIn, which has over 500 followers, to further extend its social media outreach.
 
 ### Goal #3: Increase Architectural Barriers Act awareness and compliance
+
 Our third strategic goal is supported by three objectives, which are:
 
 - **Objective 3.1:**  Proactively promote compliance through outreach to federal agencies and design professionals.
@@ -309,6 +314,7 @@ Our third strategic goal is supported by three objectives, which are:
 - **Objective 3.3:**  Improve the efficiency of the complaint resolution process.
 
 #### Background:
+
 The Access Board is the only federal agency designated by Congress to enforce the Architectural Barriers Act (ABA). The ABA requires most buildings designed, constructed, altered, or leased by the federal government --- along with certain other federally-financed facilities --- to be accessible to, and usable by, persons with disabilities. Our ABA enforcement program processes and investigates complaints, and, when violations are found, works with the appropriate federal agency or facility owner/lease holder to remedy these barriers. In any given year, we receive ABA complaints concerning a wide range of federal buildings and facilities, such as office buildings, service centers, post offices, national parks, military facilities, medical centers, and courthouses.
 
 Enforcement program staff also work proactively with federal agencies and others to ensure that relevant officials at headquarters, regional and field offices, and local sites have a working knowledge of their accessibility obligations. We have cultivated productive working relationships with senior leaders at our sister federal agencies, particularly those that own, manage, or lease federal properties or see frequent ABA complaints. We also meet regularly (i.e., quarterly, or more frequently) with headquarters officials at the General Services Administration and Department of Defense to review the status of pending ABA cases and progress on planned remedial measures, as applicable.
@@ -317,6 +323,7 @@ Such partnerships with our sister agencies are instrumental in the sustained suc
 
 #### Summary of Key Accomplishments in FY 2021:
 ##### ABA Cases
+
 During FY 2021, the Access Board received 180 new ABA complaints and closed 174 pending complaints. The total number of ABA complaints filed this year represented a 17% increase relative to complaints filed in the prior fiscal year (FY 2020). This increase represents a return to typical complaint filings which, anecdotally, we believe is consistent with the easing of some pandemic-related restrictions. In our opinion, the more stringent restrictions during FY 2020 had led to a drop in complaint filings that year since many Americans were staying home more than usual and, thus, were going to post offices, national parks, and other federal facilities less frequently.
 
 Presented below in Table 1 are ABA caseload statistics for FY 2021, as well as comparative data for FYs 2019 and 2020. (*Note:* All tabular data provided in this section about ABA cases were compiled from the Access Board’s cloud-based Complaint Tracking System (CTS), which is the official repository of all ABA complaint files.)
@@ -342,6 +349,7 @@ Table 3 below provides similar case closure data about the bases for ABA cases c
 NEED TABLE
 
 ##### Other Initiatives
+
 In January 2021, President Biden issued Executive Order 13985, *Advancing Racial Equity and Support for Underserved Communities Through the Federal Government* (Jan. 2021). The Executive Order required agencies "to select certain of the agency’s programs and policies for a review that will assess whether underserved communities and their members face systemic barriers in accessing benefits and opportunities available pursuant to those policies and programs." Agencies then must develop action plans, to be published on the first anniversary of the issuance of the Executive Order (or by January 20, 2022), addressing any identified disparities. In our equity assessment, we identified a previously unmet need to improve the accessibility of federal buildings and facilities where in-person services are provided to individuals in communities with high incidences of disability. We are developing a strategy of collaboration with sister agencies with oversight of such facilities, such as the Department of the Interior (including the Bureaus of Indian Affairs, Indian Education, and Trust Fund Administration), the Department of Health and Human Services (including the Indian Health Service), and the U.S. Postal Service and General Services Administration (which own or lease tens of thousands of facilities across the country, most of which are public facing).
 
 In FY 2021, President Biden issued Executive Order 14035, *Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce* (June 2021), which, among other things, requires the Board to work with agencies to ensure that their facilities not only comply with the ABA and related standards but also go beyond those legal requirements to maximize the accessibility of agency workplaces. The EO also requires that agencies provide periodic notice to their employees that ABA complaints can be filed with the Access Board. We plan to develop a strategy to address these mandates and work closely with the General Services Administration, OPM, and OMB to conduct ABA-related outreach to agencies.
@@ -353,17 +361,20 @@ Of the four ABA standard-setting agencies, only the Department of Housing and Ur
 We had aimed during this fiscal year to produce videos on the ABA enforcement program and complaint filing procedures, but production of the videos was delayed while the Board developed a sought approval for an updated ABA complaint form. The Board hopes to complete the videos in FY 2022 and post them on the Access Board website and/or YouTube channel.
 
 ### Goal #4: Expand awareness of the Access Board’s functions and objectives
+
 Our fourth and final strategic goal is supported by two objectives, which are:
 
 - **Objective 4.1:**  Engage other organizations and pursue partnerships to promote the Access Board’s work.
 - **Objective 4.2:**  Promote accessibility throughout all segments of society, including holding events in various locations across the country.
 
 #### Background:
+
 Under the agency’s bylaws, the Access Board holds five "regular" (i.e., business) Board meetings and one Board-sponsored public event each year. In recent years, the five business meetings have been held in-person at the Access Board's office in Washington, D.C., while the sixth, public event is held outside the D.C. metropolitan area. Most often, Board meetings are held over 2-3 days, which includes both informal (closed) sessions and formal (public) sessions. Due to the ongoing COVID-19 pandemic, all meetings have been held virtually.
 
 Outside the context of Board meetings, staff is also engaged daily in promoting accessibility through not only the program-related work discussed elsewhere in this report, but also other efforts, such as speaking engagements, meetings with international delegations and organizations, news releases, and social media campaigns.
 
 #### Summary of Key Accomplishments in FY 2021:
+
 In FY 2021, the Board held its regular slate of five business meetings. Similar to most of the meetings in FY 2020, the meetings were conducted remotely due to the pandemic (November 2020, January 2021, March 2021, July 2021 and September 2021). Due to the COVID pandemic a sixth business meeting was conducted in May 2021, in lieu of our regularly scheduled public event. All formal sessions at these Board meetings were open to the public through live web streams. Archival video recordings of public Board meetings are also posted on the Access Board’s YouTube Channel.
 
 At the November 2020 Board meeting, the Board hosted a virtual public event where the Access Board's Senior Compliance Specialist presented an overview of the FY 2020 ABA Enforcement Program In January 2021, the Board held a virtual public event on accessible virtual meeting platforms with presentations by representatives of the Department of Homeland Security and the Federal Communications Commission. Presenters explained features that make virtual platforms accessible and highlighted common access issues. They also covered best practice recommendations and resources for platform accessibility. Attendance for this event was 712 registrants.
@@ -400,3 +411,5 @@ As noted above under Goal #3, in FY 2021 President Biden issued Executive Order 
 At the beginning of his administration, President Biden also issued a Memorandum on Tribal Consultation and Strengthening Nation-to-Nation Relationships, which requires each agency to implement the policies and directives of Executive Order 13175. Pursuant to this directive, the Board has reached out to inter-tribal organizations and Tribal officials to apprise them of the agency’s technical services and public programs, provide information about the agency’s ABA complaint process, and inquire about developing a contact list of Tribal community leaders and professionals. Board staff has also presented to inter-tribal organizations and participated in stakeholder meetings for inclusive planning in Tribal communities.
 
 INSERT INDEPENDENT AUDITOR'S REPORT??
+
+Financial Statements and Notes
