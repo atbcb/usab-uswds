@@ -598,11 +598,11 @@ In our opinion, USAB's financial statements present fairly, in all material resp
 
 ###### Required Supplementary Information
 
-U.S. generally accepted accounting principles issued by the Federal Accounting Standards Advisory Board (FASAB) require that the RSI be presented to supplement the financial statements. Although the RSI is not a part of the financial statements, FASAB considers this information to be an essential part of financial reporting for placing the financial statements in appropriate operational, economic, or historical context. We have applied certain limited procedures to the RSI in accordance with U.S. generally accepted government auditing standards, which consisted of inquiries of management about the methods of preparing the RSI and comparing the information for consistency with management's responses to the auditor's inquiries, the financial statements, and other knowledge we obtained during the audit of the financial statements, in order to report omissions or material departures from FASAB guidelines, if any, identified by these limited procedures. We did not audit and we do not express an opinion or provide any assurance on the RSI because the limited procedures we applied do not provide sufficient evidence to express an opinion or provide any assurance.
+> U.S. generally accepted accounting principles issued by the Federal Accounting Standards Advisory Board (FASAB) require that the RSI be presented to supplement the financial statements. Although the RSI is not a part of the financial statements, FASAB considers this information to be an essential part of financial reporting for placing the financial statements in appropriate operational, economic, or historical context. We have applied certain limited procedures to the RSI in accordance with U.S. generally accepted government auditing standards, which consisted of inquiries of management about the methods of preparing the RSI and comparing the information for consistency with management's responses to the auditor's inquiries, the financial statements, and other knowledge we obtained during the audit of the financial statements, in order to report omissions or material departures from FASAB guidelines, if any, identified by these limited procedures. We did not audit and we do not express an opinion or provide any assurance on the RSI because the limited procedures we applied do not provide sufficient evidence to express an opinion or provide any assurance.
 
 ###### Other Information
 
-USAB's other information contains a wide range of information, some of which is not directly related to the financial statements. This information is presented for purposes of additional analysis and is not a required part of the financial statements or the RSI. We read the other information included with the financial statements in order to identify material inconsistencies, if any, with the audited financial statements. Our audit was conducted for the purpose of forming an opinion on USAB’s financial statements. We did not audit and do not express an opinion or provide any assurance on the other information.
+> USAB's other information contains a wide range of information, some of which is not directly related to the financial statements. This information is presented for purposes of additional analysis and is not a required part of the financial statements or the RSI. We read the other information included with the financial statements in order to identify material inconsistencies, if any, with the audited financial statements. Our audit was conducted for the purpose of forming an opinion on USAB’s financial statements. We did not audit and do not express an opinion or provide any assurance on the other information.
 
 #### Report on Internal Control over Financial Reporting
 
@@ -679,15 +679,17 @@ November 12, 2021
 #### As of September 30, 2021 and 2020 <br /> (In Dollars)
 
 <table class="par-money">
- <caption>
- Gross Program Costs
-</caption>
  <thead>
   <tr>
-   <td>&nbsp;  </td>
+    <td> &nbsp; </td>
    <th scope="col">2021</th>
    <th scope="col">2020</th>
   </tr>
+   <tr>
+    <th colspan="3" scope="rowgroup">
+      Gross Program Costs:
+     </th>
+   </tr>
  </thead>
  <tbody>
   <tr>
@@ -697,7 +699,7 @@ November 12, 2021
   </tr>
   <tr>
    <td>Less: Earned Revenue</td>
-   <td>  - </td>
+   <td>-</td>
    <td> ($8,318) </td>
   </tr>
  </tbody>
@@ -715,4 +717,481 @@ November 12, 2021
 #### As of September 30, 2021 and 2020 <br /> (In Dollars)
 
 {% include_relative par-fy2021-table-scnp.html %}
+
+--- 
+
+
+--- 
+
+### Notes to the Financial Statements
+
+![photo of calculator, paper spreadsheet, and pen]({{ site.baseurl }}/images/notes-header.jpg)
+
+#### NOTE 1. SUMMARY OF SIGNIFICANT ACCOUNTING POLICIES
+
+##### A. Reporting Entity
+
+The Access Board is an independent Federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards.
+
+Created in 1973 under section 502 of the Rehabilitation Act to ensure access to federally funded facilities, the Access Board now is a leading source of information on accessible design.  The agency develops and maintains design criteria for the built environment, transit, vehicles, telecommunications equipment, medical diagnostic equipment and information technology. It also provides technical assistance and training on these requirements and on accessible design and continues to enforce accessibility standards that cover federally funded facilities.
+
+The Access Board's reporting entity is comprised of General Funds and General Miscellaneous Receipts. General Funds are accounts used to record financial transactions arising under congressional appropriations or other authorizations to spend general revenues.
+
+General Fund miscellaneous receipts are accounts established for receipts of non-recurring activity, such as fines, penalties, fees and other miscellaneous receipts for services and benefits.
+
+The Access Board has rights and ownership of all assets reported in these financial statements and does not possess any non-entity assets.
+
+##### B. Basis of Presentation
+
+The financial statements have been prepared to report the financial position and results of operations of the Access Board.  The Balance Sheet presents the financial position of the agency. The Statement of Net Cost presents the agency's operating results; the Statement of Changes in Net Position displays the changes in the agency's equity accounts. The Statement of Budgetary Resources presents the sources, status, and uses of the agency's resources and follows the rules for the Budget of the United States Government.
+
+The statements are a requirement of the Chief Financial Officers Act of 1990, the Government Management Reform Act of 1994 and the Accountability of Tax Dollars Act of 2002.  They have been prepared from, and are fully supported by, the books and records of the Access Board in accordance with the hierarchy of accounting principles generally accepted in the United States of America, standards issued by the Federal Accounting Standards Advisory Board (FASAB), Office of Management and Budget (OMB) Circular A-136, *Financial Reporting Requirements*, as amended, and the Access Board accounting policies which are summarized in this note.  These statements, with the exception of the Statement of Budgetary Resources, are different from financial management reports, which are also prepared pursuant to OMB directives that are used to monitor and control the Access Board's use of budgetary resources.  The financial statements and associated notes are presented on a comparative basis.  Unless specified otherwise, all amounts are presented in dollars.
+
+##### C. Basis of Accounting
+
+Transactions are recorded on both an accrual accounting basis and a budgetary basis.  Under the accrual method, revenues are recognized when earned, and expenses are recognized when a liability is incurred, without regard to receipt or payment of cash.  Budgetary accounting facilitates compliance with legal requirements on the use of federal funds.
+
+##### D. Fund Balance with Treasury
+
+FBWT is an asset of a reporting entity and a liability of the General Fund. It is the aggregate amount of the Access Board's funds with Treasury in expenditure, receipt fund accounts.  Appropriated funds recorded in expenditure accounts are available to pay current liabilities and finance authorized purchases.
+
+The Access Board does not maintain bank accounts of its own, has no disbursing authority, and does not maintain cash held outside of Treasury.  Funds are disbursed for the agency on demand.
+
+##### E. Accounts Receivable
+
+Accounts receivable consists of amounts owed to the Access Board by other federal agencies and the general public.  Amounts due from federal agencies are considered fully collectible.  Accounts receivable from the public include reimbursements from employees.  An allowance for uncollectible accounts receivable from the public is established when, based upon a review of outstanding accounts and the failure of all collection efforts, management determines that collection is unlikely to occur considering the debtor's ability to pay.
+
+##### F. Property, Equipment, and Software
+
+Property, equipment and software represent furniture, fixtures, equipment, and information technology hardware and software which are recorded at original acquisition cost and are depreciated or amortized using the straight-line method over their estimated useful lives.  Major alterations and renovations are capitalized, while maintenance and repair costs are expensed as incurred.  The Access Board's capitalization threshold is $50,000 for individual purchases and $500,000 for bulk purchases.  Property, equipment, and software acquisitions that do not meet the capitalization criteria are expensed upon receipt.  Applicable standard governmental guidelines regulate the disposal and convertibility of agency property, equipment, and software.  The useful life classifications for capitalized assets are as follows:
+
+| Description | Useful Life (years) |
+| --- | --- |
+| Leasehold Improvements | 9 |
+| Office Furniture | 5 |
+| Computer Equipment | 3 |
+| Office Equipment | 5 |
+| Software | 5 |
+{: .par }
+
+##### G. Advances and Prepaid Charges
+
+Advance payments are generally prohibited by law.  There are some exceptions, such as reimbursable agreements, subscriptions and payments to contractors and employees.  Payments made in advance of the receipt of goods and services are recorded as advances or prepaid charges at the time of prepayment and recognized as expenses when the related goods and services are received.
+
+##### H. Liabilities
+
+Liabilities represent the amount of funds likely to be paid by the Access Board as a result of transactions or events that have already occurred.
+
+The Access Board reports its liabilities under two categories, Intragovernmental and With the Public.  Intragovernmental liabilities represent funds owed to another government agency.  Liabilities with the Public represent funds owed to any entity or person that is not a federal agency, including private sector firms and federal employees.  Each of these categories may include liabilities that are covered by budgetary resources and liabilities not covered by budgetary resources.
+
+Liabilities covered by budgetary resources are liabilities funded by a current appropriation or other funding source.  These consist of accounts payable and accrued payroll and benefits.  Accounts payable represent amounts owed to another entity for goods ordered and received and for services rendered except for employees.  Accrued payroll and benefits represent payroll costs earned by employees during the fiscal year which are not paid until the next fiscal year.
+
+Liabilities not covered by budgetary resources are liabilities that are not funded by any current appropriation or other funding source.  These liabilities consist of accrued annual leave, actuarial FECA (Federal Employees Compensation Act).
+
+##### I. Annual, Sick, and Other Leave
+
+Annual leave is accrued as it is earned, and the accrual is reduced as leave is taken.  The balance in the accrued leave account is adjusted to reflect current pay rates.  Liabilities associated with other types of vested leave, including compensatory, restored leave, and sick leave in certain circumstances, are accrued at year-end, based on latest pay rates and unused hours of leave.  Funding will be obtained from future financing sources to the extent that current or prior year appropriations are not available to fund annual and other types of vested leave earned but not taken.  Nonvested leave is expensed when used.  Any liability for sick leave that is accrued but not taken by a Civil Service Retirement System (CSRS)-covered employee is transferred to the Office of Personnel Management (OPM) upon the retirement of that individual.  Credit is given for sick leave balances in the computation of annuities upon the retirement of Federal Employees Retirement System (FERS)-covered employees.
+
+##### J. Accrued and Actuarial Workers' Compensation
+
+The Federal Employees' Compensation Act (FECA) administered by the U.S. Department of Labor (DOL) addresses all claims brought by the Access Board employees for on-the-job injuries.  The DOL bills each agency annually as its claims are paid, but payment of these bills is deferred for two years to allow for funding through the budget process.  Similarly, employees that the Access Board terminates without cause may receive unemployment compensation benefits under the unemployment insurance program also administered by the DOL, which bills each agency quarterly for paid claims. Future appropriations will be used for the reimbursement to DOL.  The liability consists of (1) the net present value of estimated future payments calculated by the DOL and (2) the unreimbursed cost paid by DOL for compensation to recipients under the FECA.
+
+##### K. Retirement Plans
+
+The Access Board employees participate in either the CSRS or the FERS.  The employees who participate in CSRS are beneficiaries of the agency's matching contribution, equal to seven percent of pay, distributed to their annuity account in the Civil Service Retirement and Disability Fund.
+
+Prior to December 31, 1983, all employees were covered under the CSRS program.  From January 1, 1984 through December 31, 1986, employees had the option of remaining under CSRS or joining FERS and Social Security.  Employees hired as of January 1, 1987 are automatically covered by the FERS program.  Both CSRS and FERS employees may participate in the federal Thrift Savings Plan (TSP).  FERS employees receive an automatic agency contribution equal to one percent of pay and the Access Board matches any employee contribution up to an additional four percent of pay.  For FERS participants, the Access Board also contributes the employer's matching share of Social Security.
+
+FERS employees and certain CSRS reinstatement employees are eligible to participate in the Social Security program after retirement.  In these instances, the Access Board remits the employer's share of the required contribution.
+
+The Access Board recognizes the imputed cost of pension and other retirement benefits during the employees' active years of service.  OPM actuaries determine pension cost factors by calculating the value of pension benefits expected to be paid in the future and communicate these factors to the Access Board for current period expense reporting.  OPM also provides information regarding the full cost of health and life insurance benefits.  The Access Board recognized the offsetting revenue as imputed financing sources to the extent these expenses will be paid by OPM.
+
+The Access Board does not report information pertaining to the retirement plans covering its employees. on its financial statements.  Reporting amounts such as plan assets, accumulated plan benefits, and related unfunded liabilities, if any, is the responsibility of the OPM, as the administrator.
+
+##### L. Other Post-Employment Benefits
+
+The Access Board employees eligible to participate in the Federal Employees' Health Benefits Plan (FEHBP) and the Federal Employees' Group Life Insurance Program (FEGLIP) may continue to participate in these programs after their retirement.  The OPM has provided the Access Board with certain cost factors that estimate the true cost of providing the post-retirement benefit to current employees.  The Access Board recognizes a current cost for these and Other Retirement Benefits (ORB) at the time the employee's services are rendered.  The ORB expense is financed by OPM and offset by the Access Board through the recognition of an imputed financing source.
+
+##### M. Use of Estimates
+
+The preparation of the accompanying financial statements in accordance with generally accepted accounting principles requires management to make certain estimates and assumptions that affect the reported amounts of assets, liabilities, revenues, and expenses.  Actual results could differ from those estimates. 
+
+##### N. Reclassification
+
+Certain fiscal year 2019 balances have been reclassified, retitled, or combined with other financial statement line items for consistency with the current year presentation.
+
+##### O. Classified Activities
+
+Accounting standards require all reporting entities to disclose that accounting standards allow certain presentations and disclosures to be modified, if needed, to prevent the disclosure of classified information.
+
+#### NOTE 2. FUND BALANCE WITH TREASURY
+
+<table class="par-money">
+  <caption>
+    Fund Balance with Treasury account balances as of September 30, 2021 and 2020, respectively, are shown below.
+  </caption>
+ <thead>
+  <tr>
+    <td>&nbsp;</td>
+   <th scope="col">2021</th>
+   <th scope="col">2020</th>
+  </tr>
+ </thead>
+ <tbody>
+   <tr>
+     <th colspan="3" scope="rowgroup">
+       Status of Fund Balance with Treasury
+     </th>
+   </tr>
+  <tr>
+   <td>Unobligated Balance Available</td>
+   <td>$ 423,722</td>
+   <td>$ 276,987</td>
+  </tr>
+  <tr>
+   <td>Unobligated Balance Unavailable</td>
+   <td>$ 930,692</td>
+   <td>$ 729,035</td>
+  </tr>
+  <tr>
+   <td>Obligated Balance Not Yet Disbursed</td>
+   <td>$ 2,695,757</td>
+   <td>$ 2,926,226</td>
+  </tr>
+ </tbody>
+ <tfoot>
+  <tr>
+   <th scope="row">Total</th>
+   <td><strong>$ 4,050,171</strong></td>
+   <td><strong>$ 3,932,248</strong></td>
+  </tr>
+ </tfoot>
+</table>
+
+No discrepancies exist between the Fund Balance reflected on the Balance Sheet and the balances in the Treasury accounts.
+
+The available unobligated fund balances represent the current-period amount available for obligation or commitment.  At the start of the next fiscal year, this amount will become part of the unavailable balance as described in the following paragraph.
+
+The unavailable unobligated fund balances represent the amount of appropriations for which the period of availability for obligation has expired.  These balances are available for upward adjustments of obligations incurred only during the period for which the appropriation was available for obligation or for paying claims attributable to the appropriations.
+
+The obligated balance not yet disbursed includes accounts payable, accrued expenses, and undelivered orders that have reduced unexpended appropriations but have not yet decreased the fund balance on hand.
+
+#### NOTE 3. ACCOUNTS RECEIVABLE, NET
+
+<table class="par-money">
+  <caption>
+    Accounts receivable balances as of September 30, 2021 and 2020, respectively, were as follows.
+  </caption>
+ <thead>
+  <tr>
+    <td>&nbsp;</td>
+   <th scope="col">2021</th>
+   <th scope="col">2011</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <th scope="col">Accounts Receivable</th>
+   <td>Intragovernmental</td>
+   <td>$0</td>
+   <td>$0</td>
+  </tr>
+  <tr>
+   <td>
+     With the Public <br />
+     &nbsp; Accounts Receivable
+    </td>
+   <td>$ 315</td>
+   <td>$ &nbsp; 8</td>
+  </tr>
+ </tbody>
+ <tbody>
+  <tr>
+   <th scope="row">Total Public Accounts Receivable</th>
+   <td><strong>$ 315</strong></td>
+   <td><strong>$ &nbsp; 8</strong></td>
+  </tr>
+ </body>
+ <tfoot>
+  <tr>
+   <th scope="row">Total Accounts Receivable</th>
+   <td><strong>$ 315</strong></td>
+   <td><strong>$ &nbsp; 8</strong></td>
+  </tr>
+ </tfoot>
+</table>
+
+The accounts receivable is primarily made up of other receivable with the public for reimbursable work.
+
+Historical experience has indicated that the majority of the receivables are collectible.  There are no material uncollectible accounts as of September 30, 2021 and 2020.
+
+#### NOTE 4. GENERAL PROPERTY, PLANT AND EQUIPMENT, NET
+
+<table class="par-money">
+ <caption>
+   Schedule of General Property, Plant and Equipment, Net as of September 30, 2021:
+ </caption>
+ <thead>
+  <tr>
+   <th scope="col">Major Class</th>
+   <th scope="col">Acquisition<br />
+    Cost</th>
+   <th scope="col">Accumulated<br />
+    Amortization /<br />
+    Depreciation</th>
+   <th scope="col">Net Book<br />
+    Value</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Building</td>
+   <td>$ 657,414</td>
+   <td>$ 449,451</td>
+   <td>$ 207,963</td>
+  </tr>
+  <tr>
+   <td>Construction-in-Progress/td>
+   <td>$ 168,414</td>
+   <td> N/A</td>
+   <td>$ 168,414</td>
+  </tr>
+ </tbody>
+ <tfoot>
+  <tr>
+   <th scope="row">Total</th>
+   <td><strong>$ 825,066</strong></td>
+   <td><strong>$ 500,387</strong></td>
+   <td><strong>$ 324,679</strong></td>
+  </tr>
+ </tfoot>
+</table>
+
+| Major Class | Acquisition\
+Cost | Accumulated\
+Amortization /\
+Depreciation | Net Book\
+Value |
+| --- | --- | --- | --- |
+| Building | $657,414 | $449,451 | $207,963 |
+| Total | **$657,414** | **$449,451** | **$207,963** |
+
+Schedule of General Property, Plant and Equipment, Net as of September 30, 2019 are shown below.
+
+Schedule of General Property, Plant and Equipment, Net (End of Fiscal Year, 2019)
+
+| Major Class | Acquisition\
+Cost | Accumulated\
+Amortization /\
+Depreciation | Net Book\
+Value |
+| --- | --- | --- | --- |
+| Building | $475,220 | $391,616 | $83,604 |
+| Construction-in-Progress | $179,890 | $0 | $179,890 |
+| Total | **$655,110** | **$391,616** | **$263,494** |
+
+
+
+
+#### NOTE 5.  OTHER ASSETS
+
+Other assets account balances as of September 30, 2020 and 2019, respectively, are shown below.
+
+Other Assets (End of Fiscal Year, FYs 2020 & 2019)
+| Other Assets -- Intragovernmental | 2020 | 2019 |
+| --- | --- | --- |
+| Advances and Prepayments | $0 | $1,129,703 |
+| Oher Assets | $0 | $0 |
+| Total Intragovernmental Other Assets | **$0** | **$1,129,703** |
+
+The Access Board posts NBC Administrative Office procurement orders as prepayments.
+
+#### NOTE 6.  LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
+
+The liabilities for the Access Board, as of September 30, 2020 and 2019, include liabilities not covered by budgetary resources.  Congressional action is needed before budgetary resources can be provided.  Although future appropriations to fund these liabilities are likely and anticipated, it is not certain that appropriations will be enacted to fund these liabilities.
+
+Liabilities not covered by budgetary resources, as of September 30, 2020 and 2019, respectively, are shown below.
+
+Liabilities Not Covered by Budgetary Resources (End of Fiscal Year, FYs 2020 & 2019)
+| Liabilities | 2020 | 2019 |
+| --- | --- | --- |
+| Unfunded FECA (Intragovernmental Liability ) | $5,837 | $5,837 |
+| Unfunded Leave (Public Liability) | $366,157 | $319,639 |
+| Sub-Total (Liabilities Not Covered) | **$371,994** | **$325,476** |
+| Liabilities Covered by Budgetary Resources | **$563,194** | **$488,687** |
+| Total Liabilities | **$935,188** | **$814,163** |
+
+FECA and the Unemployment Insurance liabilities represent the unfunded liability for actual workers compensation claims and unemployment benefits paid on the Access Board's name behalf and payable to the DOL.
+
+Unfunded leave represents a liability for earned leave and is reduced when leave is taken.  The balance in the accrued annual leave account is reviewed quarterly and adjusted as needed to accurately reflect the liability at current pay rates and leave balances.  Accrued annual leave is paid from future funding sources and, accordingly, is reflected as a liability not covered by budgetary resources.  Sick and other leave is expensed as taken.
+
+#### NOTE 7.  OTHER LIABILITIES
+
+Account balances for other intragovernmental liabilities, as of September 30, 2020, are shown below.
+
+Other Intragovernmental Liabilities (End of Fiscal Year, 2020)
+| Other Liabilities -- Intragovernmental | Current | Non-Current | Total |
+| --- | --- | --- | --- |
+| FECA Liability | $5,837 | $0 | $5,837 |
+| Payroll Taxes Payable | $52,626 | $0 | $52,626 |
+| Total Intragovernmental Other Liabilities | **$58,463** | **$0** | **$58,463** |
+
+Account balances for other public liabilities, as of September 30, 2020, are shown below.
+
+Other Public Liabilities (End of Fiscal Year, 2020
+| Other Liabilities -- Public | Current | Non-Current | Total |
+| --- | --- | --- | --- |
+| Payroll Taxes Payable | $7,657 | $0 | $7,657 |
+| Accrued Funded Payroll and Leave | $169,953 | $0 | $169,953 |
+| Unfunded Leave | $366,156 | $0 | $366,156 |
+| Total Public Other Liabilities | **$543,766** | **$0** | **$543,766** |
+
+Account balances for other intragovernmental liabilities, as of September 30, 2019, are shown below.
+
+Other Intragovernmental Liabilities (End of Fiscal Year 2019)
+| Other Liabilities -- Intragovernmental | Current | Non-Current | Total |
+| --- | --- | --- | --- |
+| FECA Liability | $5,837 | $0 | $5,837 |
+| Payroll Taxes Payable | $43,334 | $0 | $43,334 |
+| Total Intragovernmental Other Liabilities | $49,171 | $0 | $49,171 |
+
+Account balances for other public liabilities, as of September 30, 2019, are shown below.
+
+Other Public Liabilities (End of Fiscal Year, 2019
+| Other Liabilities -- Public | Current | Non-Current | Total |
+| --- | --- | --- | --- |
+| Payroll Taxes Payable | $6,524 | $0 | $6,524 |
+| Accrued Funded Payroll and Leave | $172,833 | $0 | $172,833 |
+| Unfunded Leave | $319,639 | $0 | $319,639 |
+| Total Public Other Liabilities | $498,996 | $0 | $498,996 |
+
+#### NOTE 8.  LEASES
+
+##### A.   Operating Leases
+
+The Access Board occupies office space under a lease agreement that is accounted for as an operating lease in Washington, DC.  The lease term begins on July 1, 2018 and expires on January 1, 2022.  Lease payments are increased annually based on the adjustments for operating cost and real estate tax escalations.  The total operating lease expense for fiscal years 2020 and 2019 were $721,897 and $719,254, respectively.
+
+Shown below is a schedule of future payments for the term of the Access Board's current office lease.
+
+Office Lease -- Schedule of Future Payments (Fiscal Years 2021 and Later)
+| Fiscal Year | Lease Payment |
+| --- | --- |
+| 2021 | $694,409 |
+| 2022 | $186,946 |
+| 2023 | $563,169 |
+| 2024 | $726,168 |
+| 2025 | $735,207 |
+| Later Years (FYs 2026 -- 2037) | $9,187,603 |
+| Total Future Payments | $12,093,502 |
+
+The operating lease amount does not include estimated payments for leases with annual renewal options.
+
+#### NOTE 9.  INTER-ENTITY COSTS
+
+The Access Board recognizes certain inter-entity costs for goods and services that are received from other federal entities at no cost or at a cost less than the full cost.  Certain costs of the providing entity that are not fully reimbursed are recognized as imputed cost and are offset by imputed revenue.  Such imputed costs and revenues relate to employee benefits and claims to be settled by the Treasury Judgement Fund.  The Access Board recognizes as inter-entity costs the amount of accrued pension and post-retirement benefit expenses for current employees.  The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.
+
+For the periods ended September 30, 2020 and 2019, respectively, inter-entity costs are shown below.
+
+Inter-Entity Costs (End of Fiscal Year, FYs 2020 & 2019)
+| Inter-Entity Costs | 2020 | 2019 |
+| --- | --- | --- |
+| Office of Personnel Management | $202,105 | $243,159 |
+| Total Imputed Financing Sources | $202,105 | $243,159 |
+
+#### NOTE 10.  UNDELIVERED ORDERS AT THE END OF THE PERIOD
+
+Budgetary resources obligated for undelivered orders, as of September 30, 2020, are shown below.
+
+Obligations for Undelivered Orders (End of Fiscal Year, 2020)
+| Order Type | Federal | Non-Federal | Total |
+| --- | --- | --- | --- |
+| Paid Undelivered Orders | $0 | $0 | $0 |
+| Unpaid Undelivered Orders | $1,229,172 | $1,133,859 | $2,363,031 |
+| Total Undelivered Orders | $1,229,172 | $1,133,859 | $2,363,031 |
+
+Budgetary resources obligated for undelivered orders, as of September 30, 2019, are shown below.
+
+Obligations for Undelivered Orders (End of Fiscal Year, 2019)
+| Order Type | Federal | Non-Federal | Total |
+| --- | --- | --- | --- |
+| Paid Undelivered Orders | $1,129,703 | $0 | $1,129,703 |
+| Unpaid Undelivered Orders | $1,105,082 | $35,708 | $1,140,790 |
+| Total Undelivered Orders | $2,234,785 | $35,708 | $2,270,493 |
+
+#### NOTE 11.  EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
+
+The President's Budget that will include fiscal year 2020 actual budgetary execution information has not yet been published.  The President's Budget is scheduled for publication in February 2021 and can be found at the [OMB's website](http://www.whitehouse.gov/omb).  The 2021 Budget of the United States Government, with the "Actual" column completed for 2019, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
+
+Shown below in Figure M are the differences between the Access Board's Statement of Budgetary Resources and the FY 2021 Presidential Budget.
+
+Differences Between Agency Statement of Budgetary Resources and FY 2021 Presidential Budget (in millions, rounded)
+| Budgetary Items | Budgetary\
+Resources | New\
+Obligations\
+& Upward\
+Adjustments | Distributed\
+Offsetting\
+Receipts | Net\
+Outlays |
+| --- | --- | --- | --- | --- |
+| Combined Statement of Budgetary Resources | $9 | $8 | $0 | $9 |
+| Spending Authority from Offsetting Collections | $0 | $0 | $0 | $0 |
+| Unobligated Balance Not Available | $0 | $0 | $0 | $0 |
+| Difference -- Due to Rounding | ($1) | $0 | $0 | $0 |
+| Budget of the U.S. Government | $8 | $8 | $0 | $9 |
+
+#### NOTE 12.  RECONCILIATION OF NET COST TO NET OUTLAYS
+
+The reconciliation of net outlays (presented is on a budgetary basis) and net costs (which are presented on an accrual basis) provide an explanation of the relationship between budgetary and financial accounting information.
+
+Shown below is a reconciliation of net cost to net outlays, as September 30, 2020.
+
+Reconciliation of Net Cost to Net Outlays (End of Fiscal Year, 2020)
+| Costs and Outlays | Intragovernmental | With the\
+Public | Total |
+| --- | --- | --- | --- |
+| Net Operating Cost (SNC) | **$4,436,331** | **$4,586,853** | **$9,023,184** |
+| Components of Net Operating Cost Not Part of the Budgetary Outlays: |
+| Property, plant, and equipment depreciation | $0 | ($57,836) | ($57,836) |
+| (Increase)/decrease in assets not affecting Budget Outlays: |
+| Accounts receivable | $0 | ($1,269) | ($1,269) |
+| Other assets | ($1,129,704) | $0 | ($1,129,704) |
+| (Increase)/decrease in assets not affecting Budget Outlays: |
+| Accounts payable | $48,122 | ($115,085) | ($66,963) |
+| Salaries and benefits | ($9,291) | $1,748 | ($7,543) |
+| Other liabilities | $0 | ($46,518) | ($46,518) |
+| Other financing sources: |
+| Imputed federal employee retirement benefit costs | ($202,105) | $0 | ($202,105) |
+| Total Components of Net Operating Cost Not Part of the Budget Outlays | **($1,292,978)** | **($218,960)** | **($1,511,938)** |
+| Components of the Budget Outlays That Are Not Part of Net Operating Cost: |
+| Acquisition of capital assets | $2,305 | $0 | $2,305 |
+| Total Components of the Budget Outlays That Are Not Part of Net Operating Cost | **$2,305** | **$0** | **$2,305** |
+| Net Outlays (Calculated Total) | $3,145,658 | $4,367,893 | $7,513,551 |
+| Related Amounts on the Statement of Budgetary Resources: |
+| Agency Outlays, Net (SBR 4210) | $7,513,551 |
+
+Shown below is a reconciliation of net cost to net outlays, as September 30, 2019.
+
+Reconciliation of Net Cost to Net Outlays (End of Fiscal Year, 2019)
+| Costs and Outlays | Intragovernmental | With the Public | Total |
+| --- | --- | --- | --- |
+| Net Operating Cost (SNC) | **$4,310,749** | **$4,024,861** | **$8,335,610** |
+| Components of Net Operating Cost Not Part of the Budgetary Outlays: |
+| Property, plant, and equipment depreciation | $0 | ($52,802) | ($52,802) |
+| (Increase)/decrease in assets not affecting Budget Outlays: |
+| Accounts receivable | $0 | ($2,758) | ($2,758) |
+| Other assets | $692,540 | $0 | $692,540 |
+| (Increase)/decrease in assets not affecting Budget Outlays: |
+| Accounts payable | ($135,863) | ($61,763) | ($197,626 |
+| Salaries and benefits | ($10,177) | ($58,062) | ($68,239) |
+| Other liabilities | $0 | ($56,091) | ($56,091) |
+| Other financing sources: |
+| Imputed federal employee retirement benefit costs | ($243,159) | $0 | ($243,159) |
+| Total Components of Net Operating Cost Not Part of the Budget Outlays | **$303,341** | **($231,476)** | **$71,865** |
+| Components of the Budget Outlays That Are Not Part of Net Operating Cost: |
+| Acquisition of capital assets | $179,890 | $0 | $179,890 |
+| Total Components of the Budget Outlays That Are Not Part of Net Operating Cost | **$179,890** | **$0** | **$179,890** |
+| Net Outlays (Calculated Total) | $4,793,980 | $3,793,385 | $8,587,365 |
+| Related Amounts on the Statement of Budgetary Resources: |
+| Agency Outlays, Net (SBR 4210) | $8,587,365 |
 
