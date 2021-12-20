@@ -18,16 +18,16 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 
 ### Table of Contents
 
-[Agency Head Message](#message-from-the-executive-director)
-: [Management Discussion and Analysis](#part-1-management-discussion-and-analysis)
-: [Performance Report](#performance-report)
-[Financial Section](#independent-auditors-report)
-:[Independent Auditor's Report on the Financial Statements](#independent-auditors-report-on-the-financial-statements)
-:[Balance Sheet](#balance-sheet)
-:[Statement of Net Cost](#statement-of-net_cost)
-:[Statement of Changes in Net Position](#statement-of-changes-in-net-position)
-:[Statement of Budgetary Resources](#statement-of-budgetary-resources)
-:[Note to the Financial Statements](#notes-to-the-financial-statements)
+- [Agency Head Message](#message-from-the-executive-director)
+  * [Management Discussion and Analysis](#part-1-management-discussion-and-analysis)
+  * [Performance Report](#performance-report)
+- [Financial Section](##independent-auditors-report--and--financial-statements)
+  * [Independent Auditor's Report on the Financial Statements](#independent-auditors-report-on-the-financial-statements)
+  * [Balance Sheet](#balance-sheet)
+  * [Statement of Net Cost](#statement-of-net-cost)
+  * [Statement of Changes in Net Position](#statement-of-changes-in-net-position)
+  * [Statement of Budgetary Resources](#statement-of-budgetary-resources)
+  * [Note to the Financial Statements](#notes-to-the-financial-statements)
 
 ## Message From the Executive Director
 
@@ -559,7 +559,7 @@ At the beginning of his administration, President Biden also issued a Memorandum
 
 ![BC -- Brown & Company pencil header -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-header.png)
 
-## Independent Auditor's Report
+### Independent Auditor's Report
 
 United States Access Board \
 Washington, D.C.
@@ -727,7 +727,7 @@ November 12, 2021
 
 **United States Access Board**
 
-### Statement of Changes in Net Position
+### Statement of Budgetary Resources
 
 **As of September 30, 2021 and 2020 <br /> (In Dollars)**
 
@@ -979,28 +979,13 @@ Historical experience has indicated that the majority of the receivables are col
  </tfoot>
 </table>
 
-| Major Class | Acquisition\
-Cost | Accumulated\
-Amortization /\
-Depreciation | Net Book\
-Value |
-| --- | --- | --- | --- |
-| Building | $657,414 | $449,451 | $207,963 |
-| Total | **$657,414** | **$449,451** | **$207,963** |
+
 
 Schedule of General Property, Plant and Equipment, Net as of September 30, 2019 are shown below.
 
 Schedule of General Property, Plant and Equipment, Net (End of Fiscal Year, 2019)
 
-| Major Class | Acquisition\
-Cost | Accumulated\
-Amortization /\
-Depreciation | Net Book\
-Value |
-| --- | --- | --- | --- |
-| Building | $475,220 | $391,616 | $83,604 |
-| Construction-in-Progress | $179,890 | $0 | $179,890 |
-| Total | **$655,110** | **$391,616** | **$263,494** |
+
 
 
 
@@ -1009,12 +994,7 @@ Value |
 
 Other assets account balances as of September 30, 2020 and 2019, respectively, are shown below.
 
-Other Assets (End of Fiscal Year, FYs 2020 & 2019)
-| Other Assets -- Intragovernmental | 2020 | 2019 |
-| --- | --- | --- |
-| Advances and Prepayments | $0 | $1,129,703 |
-| Oher Assets | $0 | $0 |
-| Total Intragovernmental Other Assets | **$0** | **$1,129,703** |
+
 
 The Access Board posts NBC Administrative Office procurement orders as prepayments.
 
@@ -1024,14 +1004,6 @@ The liabilities for the Access Board, as of September 30, 2020 and 2019, include
 
 Liabilities not covered by budgetary resources, as of September 30, 2020 and 2019, respectively, are shown below.
 
-Liabilities Not Covered by Budgetary Resources (End of Fiscal Year, FYs 2020 & 2019)
-| Liabilities | 2020 | 2019 |
-| --- | --- | --- |
-| Unfunded FECA (Intragovernmental Liability ) | $5,837 | $5,837 |
-| Unfunded Leave (Public Liability) | $366,157 | $319,639 |
-| Sub-Total (Liabilities Not Covered) | **$371,994** | **$325,476** |
-| Liabilities Covered by Budgetary Resources | **$563,194** | **$488,687** |
-| Total Liabilities | **$935,188** | **$814,163** |
 
 FECA and the Unemployment Insurance liabilities represent the unfunded liability for actual workers compensation claims and unemployment benefits paid on the Access Board's name behalf and payable to the DOL.
 
@@ -1041,41 +1013,17 @@ Unfunded leave represents a liability for earned leave and is reduced when leave
 
 Account balances for other intragovernmental liabilities, as of September 30, 2020, are shown below.
 
-Other Intragovernmental Liabilities (End of Fiscal Year, 2020)
-| Other Liabilities -- Intragovernmental | Current | Non-Current | Total |
-| --- | --- | --- | --- |
-| FECA Liability | $5,837 | $0 | $5,837 |
-| Payroll Taxes Payable | $52,626 | $0 | $52,626 |
-| Total Intragovernmental Other Liabilities | **$58,463** | **$0** | **$58,463** |
 
 Account balances for other public liabilities, as of September 30, 2020, are shown below.
 
-Other Public Liabilities (End of Fiscal Year, 2020
-| Other Liabilities -- Public | Current | Non-Current | Total |
-| --- | --- | --- | --- |
-| Payroll Taxes Payable | $7,657 | $0 | $7,657 |
-| Accrued Funded Payroll and Leave | $169,953 | $0 | $169,953 |
-| Unfunded Leave | $366,156 | $0 | $366,156 |
-| Total Public Other Liabilities | **$543,766** | **$0** | **$543,766** |
+
 
 Account balances for other intragovernmental liabilities, as of September 30, 2019, are shown below.
 
-Other Intragovernmental Liabilities (End of Fiscal Year 2019)
-| Other Liabilities -- Intragovernmental | Current | Non-Current | Total |
-| --- | --- | --- | --- |
-| FECA Liability | $5,837 | $0 | $5,837 |
-| Payroll Taxes Payable | $43,334 | $0 | $43,334 |
-| Total Intragovernmental Other Liabilities | $49,171 | $0 | $49,171 |
 
 Account balances for other public liabilities, as of September 30, 2019, are shown below.
 
-Other Public Liabilities (End of Fiscal Year, 2019
-| Other Liabilities -- Public | Current | Non-Current | Total |
-| --- | --- | --- | --- |
-| Payroll Taxes Payable | $6,524 | $0 | $6,524 |
-| Accrued Funded Payroll and Leave | $172,833 | $0 | $172,833 |
-| Unfunded Leave | $319,639 | $0 | $319,639 |
-| Total Public Other Liabilities | $498,996 | $0 | $498,996 |
+
 
 #### NOTE 8.  LEASES
 
@@ -1095,6 +1043,7 @@ Office Lease -- Schedule of Future Payments (Fiscal Years 2021 and Later)
 | 2025 | $735,207 |
 | Later Years (FYs 2026 -- 2037) | $9,187,603 |
 | Total Future Payments | $12,093,502 |
+{: .par-money }
 
 The operating lease amount does not include estimated payments for leases with annual renewal options.
 
@@ -1109,6 +1058,7 @@ Inter-Entity Costs (End of Fiscal Year, FYs 2020 & 2019)
 | --- | --- | --- |
 | Office of Personnel Management | $202,105 | $243,159 |
 | Total Imputed Financing Sources | $202,105 | $243,159 |
+{: .par-money }
 
 #### NOTE 10.  UNDELIVERED ORDERS AT THE END OF THE PERIOD
 
@@ -1120,6 +1070,7 @@ Obligations for Undelivered Orders (End of Fiscal Year, 2020)
 | Paid Undelivered Orders | $0 | $0 | $0 |
 | Unpaid Undelivered Orders | $1,229,172 | $1,133,859 | $2,363,031 |
 | Total Undelivered Orders | $1,229,172 | $1,133,859 | $2,363,031 |
+{: .par-money }
 
 Budgetary resources obligated for undelivered orders, as of September 30, 2019, are shown below.
 
@@ -1129,6 +1080,7 @@ Obligations for Undelivered Orders (End of Fiscal Year, 2019)
 | Paid Undelivered Orders | $1,129,703 | $0 | $1,129,703 |
 | Unpaid Undelivered Orders | $1,105,082 | $35,708 | $1,140,790 |
 | Total Undelivered Orders | $2,234,785 | $35,708 | $2,270,493 |
+{: .par-money }
 
 #### NOTE 11.  EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
 
@@ -1136,21 +1088,7 @@ The President's Budget that will include fiscal year 2020 actual budgetary execu
 
 Shown below in Figure M are the differences between the Access Board's Statement of Budgetary Resources and the FY 2021 Presidential Budget.
 
-Differences Between Agency Statement of Budgetary Resources and FY 2021 Presidential Budget (in millions, rounded)
-| Budgetary Items | Budgetary\
-Resources | New\
-Obligations\
-& Upward\
-Adjustments | Distributed\
-Offsetting\
-Receipts | Net\
-Outlays |
-| --- | --- | --- | --- | --- |
-| Combined Statement of Budgetary Resources | $9 | $8 | $0 | $9 |
-| Spending Authority from Offsetting Collections | $0 | $0 | $0 | $0 |
-| Unobligated Balance Not Available | $0 | $0 | $0 | $0 |
-| Difference -- Due to Rounding | ($1) | $0 | $0 | $0 |
-| Budget of the U.S. Government | $8 | $8 | $0 | $9 |
+
 
 #### NOTE 12.  RECONCILIATION OF NET COST TO NET OUTLAYS
 
@@ -1158,52 +1096,5 @@ The reconciliation of net outlays (presented is on a budgetary basis) and net co
 
 Shown below is a reconciliation of net cost to net outlays, as September 30, 2020.
 
-Reconciliation of Net Cost to Net Outlays (End of Fiscal Year, 2020)
-| Costs and Outlays | Intragovernmental | With the\
-Public | Total |
-| --- | --- | --- | --- |
-| Net Operating Cost (SNC) | **$4,436,331** | **$4,586,853** | **$9,023,184** |
-| Components of Net Operating Cost Not Part of the Budgetary Outlays: |
-| Property, plant, and equipment depreciation | $0 | ($57,836) | ($57,836) |
-| (Increase)/decrease in assets not affecting Budget Outlays: |
-| Accounts receivable | $0 | ($1,269) | ($1,269) |
-| Other assets | ($1,129,704) | $0 | ($1,129,704) |
-| (Increase)/decrease in assets not affecting Budget Outlays: |
-| Accounts payable | $48,122 | ($115,085) | ($66,963) |
-| Salaries and benefits | ($9,291) | $1,748 | ($7,543) |
-| Other liabilities | $0 | ($46,518) | ($46,518) |
-| Other financing sources: |
-| Imputed federal employee retirement benefit costs | ($202,105) | $0 | ($202,105) |
-| Total Components of Net Operating Cost Not Part of the Budget Outlays | **($1,292,978)** | **($218,960)** | **($1,511,938)** |
-| Components of the Budget Outlays That Are Not Part of Net Operating Cost: |
-| Acquisition of capital assets | $2,305 | $0 | $2,305 |
-| Total Components of the Budget Outlays That Are Not Part of Net Operating Cost | **$2,305** | **$0** | **$2,305** |
-| Net Outlays (Calculated Total) | $3,145,658 | $4,367,893 | $7,513,551 |
-| Related Amounts on the Statement of Budgetary Resources: |
-| Agency Outlays, Net (SBR 4210) | $7,513,551 |
 
 Shown below is a reconciliation of net cost to net outlays, as September 30, 2019.
-
-Reconciliation of Net Cost to Net Outlays (End of Fiscal Year, 2019)
-| Costs and Outlays | Intragovernmental | With the Public | Total |
-| --- | --- | --- | --- |
-| Net Operating Cost (SNC) | **$4,310,749** | **$4,024,861** | **$8,335,610** |
-| Components of Net Operating Cost Not Part of the Budgetary Outlays: |
-| Property, plant, and equipment depreciation | $0 | ($52,802) | ($52,802) |
-| (Increase)/decrease in assets not affecting Budget Outlays: |
-| Accounts receivable | $0 | ($2,758) | ($2,758) |
-| Other assets | $692,540 | $0 | $692,540 |
-| (Increase)/decrease in assets not affecting Budget Outlays: |
-| Accounts payable | ($135,863) | ($61,763) | ($197,626 |
-| Salaries and benefits | ($10,177) | ($58,062) | ($68,239) |
-| Other liabilities | $0 | ($56,091) | ($56,091) |
-| Other financing sources: |
-| Imputed federal employee retirement benefit costs | ($243,159) | $0 | ($243,159) |
-| Total Components of Net Operating Cost Not Part of the Budget Outlays | **$303,341** | **($231,476)** | **$71,865** |
-| Components of the Budget Outlays That Are Not Part of Net Operating Cost: |
-| Acquisition of capital assets | $179,890 | $0 | $179,890 |
-| Total Components of the Budget Outlays That Are Not Part of Net Operating Cost | **$179,890** | **$0** | **$179,890** |
-| Net Outlays (Calculated Total) | $4,793,980 | $3,793,385 | $8,587,365 |
-| Related Amounts on the Statement of Budgetary Resources: |
-| Agency Outlays, Net (SBR 4210) | $8,587,365 |
-
