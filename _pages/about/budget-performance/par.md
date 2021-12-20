@@ -657,6 +657,7 @@ The purpose of this report is solely to describe the scope of our testing of com
 
 Greenbelt, Maryland \
 November 12, 2021
+{: .clear }
 
 ![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
 
@@ -668,15 +669,19 @@ November 12, 2021
 
 --- 
 
+**United States Access Board**
+
 ### Balance Sheet
 
-#### As of September 30, 2021 and 2020 <br /> (In Dollars)
+**As of September 30, 2021 and 2020 <br /> (In Dollars)**
 
 {% include_relative par-fy2021-table-bs.html %}
 
+**United States Access Board**
+
 ### Statement of Net Cost
 
-#### As of September 30, 2021 and 2020 <br /> (In Dollars)
+**As of September 30, 2021 and 2020 <br /> (In Dollars)**
 
 <table class="par-money">
  <thead>
@@ -685,12 +690,12 @@ November 12, 2021
    <th scope="col">2021</th>
    <th scope="col">2020</th>
   </tr>
+ </thead>
    <tr>
     <th colspan="3" scope="rowgroup">
       Gross Program Costs:
      </th>
    </tr>
- </thead>
  <tbody>
   <tr>
    <td>Gross Costs</td>
@@ -712,14 +717,21 @@ November 12, 2021
  </tfoot>
 </table>
 
+**United States Access Board**
+
 ### Statement of Changes in Net Position
 
-#### As of September 30, 2021 and 2020 <br /> (In Dollars)
+**As of September 30, 2021 and 2020 <br /> (In Dollars)**
 
 {% include_relative par-fy2021-table-scnp.html %}
 
---- 
+**United States Access Board**
 
+### Statement of Changes in Net Position
+
+**As of September 30, 2021 and 2020 <br /> (In Dollars)**
+
+{% include_relative par-fy2021-table-sbr.html %}
 
 --- 
 
@@ -993,7 +1005,7 @@ Value |
 
 
 
-#### NOTE 5.  OTHER ASSETS
+#### NOTE 5. OTHER ASSETS
 
 Other assets account balances as of September 30, 2020 and 2019, respectively, are shown below.
 
@@ -1006,7 +1018,7 @@ Other Assets (End of Fiscal Year, FYs 2020 & 2019)
 
 The Access Board posts NBC Administrative Office procurement orders as prepayments.
 
-#### NOTE 6.  LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
+#### NOTE 6. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
 The liabilities for the Access Board, as of September 30, 2020 and 2019, include liabilities not covered by budgetary resources.  Congressional action is needed before budgetary resources can be provided.  Although future appropriations to fund these liabilities are likely and anticipated, it is not certain that appropriations will be enacted to fund these liabilities.
 
@@ -1025,7 +1037,7 @@ FECA and the Unemployment Insurance liabilities represent the unfunded liability
 
 Unfunded leave represents a liability for earned leave and is reduced when leave is taken.  The balance in the accrued annual leave account is reviewed quarterly and adjusted as needed to accurately reflect the liability at current pay rates and leave balances.  Accrued annual leave is paid from future funding sources and, accordingly, is reflected as a liability not covered by budgetary resources.  Sick and other leave is expensed as taken.
 
-#### NOTE 7.  OTHER LIABILITIES
+#### NOTE 7. OTHER LIABILITIES
 
 Account balances for other intragovernmental liabilities, as of September 30, 2020, are shown below.
 
