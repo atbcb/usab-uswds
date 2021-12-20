@@ -20,23 +20,14 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 
 [Agency Head Message](#message-from-the-executive-director)
 : [Management Discussion and Analysis](#part-1-management-discussion-and-analysis)
-
-<dl>
-<dt><a ="#independent-auditors-report">Financial Section</></dt>
-<dd>
-  <a href="#independent-auditors-report-on-the-financial-statements">Independent Auditor&rsquo;s Report on the Financial Statements</a>
-  </dd>
-<dd>
-  <a href="#balance-sheet">Balance Sheet</a></dd>
-<dd>
-  <a href="#statement-of-net_cost">Statement of Net Cost</a></dd>
-<dd>
-  <a href="#statement-of-changes-in-net-position">Statement of Changes in Net Position</a></dd>
-<dd>
-  <a href="#statement-of-budgetary-resources">Statement of Budgetary Resources</a></dd>
-<dd>
-  <a href="#note-to-the-financial-statements">Note to the Financial Statements</a></dd>
-</dl>
+: [Performance Report](#performance-report)
+[Financial Section](#independent-auditors-report)
+:[Independent Auditor's Report on the Financial Statements](#independent-auditors-report-on-the-financial-statements)
+:[Balance Sheet](#balance-sheet)
+:[Statement of Net Cost](#statement-of-net_cost)
+:[Statement of Changes in Net Position](#statement-of-changes-in-net-position)
+:[Statement of Budgetary Resources](#statement-of-budgetary-resources)
+:[Note to the Financial Statements](#notes-to-the-financial-statements)
 
 ## Message From the Executive Director
 
@@ -187,6 +178,8 @@ The Access Board requires accurate performance data to assess agency progress to
 ### Limitations on Financial Statements
 
 The principal financial statements have been prepared to report the financial position and results of our operations of the Access Board, pursuant to the requirements of 31 U.S.C. § 3515(b). The statements have been prepared from the books and records of the Access Board in accordance with generally accepted accounting principles for federal entities and the formats prescribed by OMB. Reports used to monitor and control budgetary resources are prepared from the same books and records. The financial statements should be read with the realization that they are for a component of the U.S. government, a sovereign entity.
+
+--- 
 
 ## Performance Report
 
@@ -660,7 +653,7 @@ Our tests for compliance with selected provisions of applicable laws, regulation
 The purpose of this report is solely to describe the scope of our testing of compliance with selected provisions of applicable laws, regulations, contracts, and grant agreements, and the results of that testing, and not to provide an opinion on compliance. This report is an integral part of an audit performed in accordance with U.S. generally accepted government auditing standards in considering compliance. Accordingly, this report on compliance with laws, regulations, contracts, and grant agreements is not suitable for any other purpose.
 
 ![Brown and Company signature]({{ site.baseurl }}/images/bc-sig.jpg)
-{: .img-small }
+{: .img-left }
 
 Greenbelt, Maryland \
 November 12, 2021
