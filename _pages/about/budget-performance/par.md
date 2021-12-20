@@ -10,10 +10,11 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 ---
 ## Performance and Accountability Report, <br /> Independent Auditor's Report  <br /> and  <br /> Financial Statements
 
-### For the Fiscal Years Ended 
-September 30, 2021 and 2020
+### For the Fiscal Years Ended <br /> September 30, 2021 and 2020
 
 #### Prepared By <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> November 12, 2021
+
+![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
 
 ### Table of Contents
 
@@ -22,9 +23,9 @@ September 30, 2021 and 2020
     <a href="#message-from-the-executive-director">Agency Head Message</a>
   </dt>
 <dd>
-  <a href="#management-discussion-and-analysis">Management Discussion and Analysis</a>
+  <a href="part-1-management-discussion-and-analysis">Management Discussion and Analysis</a>
   </dd>
-<dt>Financial Section</dt>
+<dt><a ="#independent-auditors-report">Financial Section</></dt>
 <dd>
   <a href="#independent-auditors-report-on-the-financial-statements">Independent Auditor&rsquo;s Report on the Financial Statements</a>
   </dd>
@@ -39,8 +40,6 @@ September 30, 2021 and 2020
 <dd>
   <a href="#note-to-the-financial-statements">Note to the Financial Statements</a></dd>
 </dl>
-
-![Brown & Company pencil footer -- Certified Public Accountants and Management Consulttants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
 
 ## Message From the Executive Director
 
@@ -61,19 +60,23 @@ The following report evinces the outstanding performance of the dedicated effort
 ![Sachin Dev signature]({{ site.baseurl }}/images/sdp-sig.jpg)
 {: .img-small }
 
-\____________________________
-
-Sachin Dev Pavithran\
-Executive Director\
-United States Access Board\
+Sachin Dev Pavithran \
+Executive Director \
+United States Access Board \
 November 12, 2021
 
 --- 
 
+# United States Access Board
+
+![United States Access Board circular star seal]({{ site.baseurl }}/images/usab-seal.svg)
+{: .center }
+
 ## Management Discussion and Analysis
 
 ### Performance and Accountability Report
-October 2021
+
+#### October 2021
 
 --- 
 
@@ -252,7 +255,7 @@ In FY 2021, staff served on, or worked with, the following model code groups, st
 - Rehabilitation Engineering and Assistive Technology Society of North America (RESNA) Standards Committee on Cognitive Accessibility (CA);
 - TRB Standing Committee on Innovative Public Transportation Services and Technologies;
 - RESNA Standards Committee for Assistive Technology for Air Travel (ATAT); and
-- World Wide Web Consortium (W3C) Web Accessibility Initiative - Accessibility Guidelines Working Group (AG WG).
+- World Wide Web Consortium (W3C) Web Accessibility Initiative -- Accessibility Guidelines Working Group (AG WG).
 
 Access Board managers and staff also participated in several inter-agency committees and working groups that foster cooperation on accessibility-related issues. Among other things, in FY 2021, the Access Board served on the National Institute of Standards and Technology (NIST)-sponsored Interagency Committee on Standards Policy (ICSP), which provides a forum for coordination of federal standards policies and promotion of standardization activities and reports to the Secretary of Commerce through the NIST Director.
 
@@ -285,6 +288,7 @@ Our second strategic goal is supported by three objectives, which are:
 The Board promotes accessible design through technical assistance to the public, published guidance, and education and training. We provide technical assistance to the public on our accessibility guidelines and standards, as well as other aspects of accessible design. Over the years, the agency has become known for its free, on-demand, and personalized technical assistance, which is provided through our Office of Technical and Information Services (OTIS). We respond to thousands of technical assistance inquiries each year, which we receive by phone, e-mail, and fax. In recent years, our website (www.access-board.gov) has also become a go-to resource. Users of our website can, among other things, view our accessibility guidelines and standards, review an online guide to the ADA standards (which includes downloadable animations illustrating the rationale behind the guidelines and standards and showing how accessible features are used by individuals with disabilities), and downloadable versions of our published materials. Collectively, our technical assistance services play a critical role in assisting professionals, governmental jurisdictions, and others understand and apply accessible design requirements.
 
 #### Summary of Key Accomplishments in FY 2021:
+
 ##### Agency-Sponsored Trainings
 
 Since the onset of the COVID-19 pandemic, the Board has conducted training sessions remotely instead of in person. In FY 2021, the Access Board sponsored or conducted 85 webinars and virtual trainings. Collectively, these trainings had 23,000 participants. This figure represents a 36% increase over the total number of people trained in FY 2020 (17,115) and is at least partly due to our successful transition to distance learning and remote training.
@@ -322,31 +326,51 @@ Enforcement program staff also work proactively with federal agencies and others
 Such partnerships with our sister agencies are instrumental in the sustained success of our enforcement program. Indeed, for at least the past two decades, we have been able to work cooperatively with federal agencies (or other entities) to remedy accessibility barriers that violate the ABA without having to litigate the matter through formal enforcement proceedings. On occasion, we also succeed in convincing facility owners/leaseholders to take corrective action even when the building or facility at issue is not covered by the ABA or, while covered and technically ABA-compliant, nonetheless warrants barrier remediation, consistent with accessibility best practices.
 
 #### Summary of Key Accomplishments in FY 2021:
+
 ##### ABA Cases
 
 During FY 2021, the Access Board received 180 new ABA complaints and closed 174 pending complaints. The total number of ABA complaints filed this year represented a 17% increase relative to complaints filed in the prior fiscal year (FY 2020). This increase represents a return to typical complaint filings which, anecdotally, we believe is consistent with the easing of some pandemic-related restrictions. In our opinion, the more stringent restrictions during FY 2020 had led to a drop in complaint filings that year since many Americans were staying home more than usual and, thus, were going to post offices, national parks, and other federal facilities less frequently.
 
-Presented below in Table 1 are ABA caseload statistics for FY 2021, as well as comparative data for FYs 2019 and 2020. (*Note:* All tabular data provided in this section about ABA cases were compiled from the Access Board’s cloud-based Complaint Tracking System (CTS), which is the official repository of all ABA complaint files.)
+Presented below in Table 1 are ABA caseload statistics for FY 2021, as well as comparative data for FYs 2019 and 2020. (***Note:*** All tabular data provided in this section about ABA cases were compiled from the Access Board’s cloud-based Complaint Tracking System (CTS), which is the official repository of all ABA complaint files.)
+
+
 
 [INSERT TABLE 1]
+
+
+
 
 Of the 174 ABA cases closed this year, about 22% (38 cases) were closed after the federal agency (or other facility owner/leaseholder) took corrective action to remedy building elements or features determined by our investigative findings to be ABA violations under the applicable accessibility standard. This figure represents a 31% drop compared to cases closed in the prior fiscal year (FY 2020) following corrective action. This decrease is explained by the fact that, during FY 2021, agencies were faced with pandemic-related delays (mostly related to supply and budget issues and delays on the part of construction contractors) that resulted in corrective actions planned to be completed in FY 2021 being pushed back into FY 2022.
 
 In brief, the ABA closed cases this year that resulted in corrective action can be broken down into three broad categories, by facility type:
 
-> * **Defense-related and Veterans Facilities:** We successfully resolved 4 ABA complaints against the Departments of Defense and Veterans Affairs, including long-pending cases relating to: a U.S. Army Morale, Welfare, and Recreation (MWR) facility at Fort Knox, Kentucky; the Hawthorne Army Depot in Hawthorne, Nevada; the Hines VA Medical Center in Hines, Illinois; and the Hayden VA Medical Center in Phoenix, Arizona.
-> * **Post Offices:** We successfully resolved 32 ABA complaints relating to U.S. Postal Service facilities, with major remedial work completed for post offices in Olney, Maryland; Evergreen, Virginia; Addyston, Ohio; LeGrand, Iowa; Greenwood Village, Colorado; and Lewisville, Texas.
-> * **Other ABA-Covered Facilities:** We also successfully resolved 2 other ABA complaints relating to facilities leased by the General Services Administration on behalf of the Federal Election Commission (in Washington, D.C.) and the Department of Education (in Cleveland, Ohio).
+* **Defense-related and Veterans Facilities:** We successfully resolved 4 ABA complaints against the Departments of Defense and Veterans Affairs, including long-pending cases relating to: a U.S. Army Morale, Welfare, and Recreation (MWR) facility at Fort Knox, Kentucky; the Hawthorne Army Depot in Hawthorne, Nevada; the Hines VA Medical Center in Hines, Illinois; and the Hayden VA Medical Center in Phoenix, Arizona.
+ 
+* **Post Offices:** We successfully resolved 32 ABA complaints relating to U.S. Postal Service facilities, with major remedial work completed for post offices in Olney, Maryland; Evergreen, Virginia; Addyston, Ohio; LeGrand, Iowa; Greenwood Village, Colorado; and Lewisville, Texas.
+
+* **Other ABA-Covered Facilities:** We also successfully resolved 2 other ABA complaints relating to facilities leased by the General Services Administration on behalf of the Federal Election Commission (in Washington, D.C.) and the Department of Education (in Cleveland, Ohio).
 
 The balance of ABA cases closed this year --- or 78% --- were concluded for a range of technical or administrative reasons. Most involved referring complainants to other federal agencies because we lacked ABA jurisdiction over the matters raised in the complaint. In FY 2021, we mainly referred complainants to DOJ (complaints related to ADA-covered state or local facilities or places of public accommodation) and the Department of Housing and Urban Development (claims relating to apartment buildings covered by the Fair Housing Act). Administrative closures of ABA complaints occur for a variety of reasons ranging from unintelligibility or “spam” filings to complaints that provide insufficient detail to discern the nature of the allegations or to allow enforcement staff to contact the complainant to gather additional/clarifying information. This year, many of our administrative closures resulted from complaints that raised matters clearly falling outside our ABA jurisdiction --- or the purview of any other federal or state agency.
 
 Table 2 below provides data for ABA cases closed in FY 2021 concerning reasons for case closure, which, as noted above, included everything from closures after the facility owner/leaseholder removed accessibility barriers to closures for various administrative reasons.
 
+
+
+
 [[[[INSERT TABLE 2]]]]
+
+
+
 
 Table 3 below provides similar case closure data about the bases for ABA cases closures, but from a longitudinal perspective for FYs 2019 – 2021.
 
+
+
+
 [[[[INSERT TABLE 3]]]]
+
+
+
 
 ##### Other Initiatives
 
@@ -356,7 +380,7 @@ In FY 2021, President Biden issued Executive Order 14035, *Diversity, Equity, In
 
 We continue to publicize results from our ABA enforcement program (specifically, on completed corrective actions) on our website and social media accounts.
 
-Of the four ABA standard-setting agencies, only the Department of Housing and Urban Development (HUD) has not yet adopted our ABA Accessibility Standards (ABAAS), which were promulgated in 2004. HUD still uses an older, circa 1980s accessibility standard --- the Uniform Federal Accessibility Standards (UFAS) --- as the basis for evaluating housing accessibility under the ABA and Rehabilitation Act of 1973. In its FY 2021 Spring Semiannual Regulatory Agenda, HUD announced its intention to issue a proposed rule to update and improve its ABA standards applicable to residential structures subject to the ABA (https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202104&RIN=2529-AB04).
+Of the four ABA standard-setting agencies, only the Department of Housing and Urban Development (HUD) has not yet adopted our ABA Accessibility Standards (ABAAS), which were promulgated in 2004. HUD still uses an older, circa 1980s accessibility standard --- the Uniform Federal Accessibility Standards (UFAS) --- as the basis for evaluating housing accessibility under the ABA and Rehabilitation Act of 1973. In its FY 2021 Spring Semiannual Regulatory Agenda, HUD announced its intention to issue a proposed rule to update and improve its ABA standards applicable to residential structures subject to the ABA (<https://www.reginfo.gov/public/do/eAgendaViewRule?pubId=202104&RIN=2529-AB04>).
 
 We had aimed during this fiscal year to produce videos on the ABA enforcement program and complaint filing procedures, but production of the videos was delayed while the Board developed a sought approval for an updated ABA complaint form. The Board hopes to complete the videos in FY 2022 and post them on the Access Board website and/or YouTube channel.
 
@@ -410,10 +434,28 @@ As noted above under Goal #3, in FY 2021 President Biden issued Executive Order 
 
 At the beginning of his administration, President Biden also issued a Memorandum on Tribal Consultation and Strengthening Nation-to-Nation Relationships, which requires each agency to implement the policies and directives of Executive Order 13175. Pursuant to this directive, the Board has reached out to inter-tribal organizations and Tribal officials to apprise them of the agency’s technical services and public programs, provide information about the agency’s ABA complaint process, and inquire about developing a contact list of Tribal community leaders and professionals. Board staff has also presented to inter-tribal organizations and participated in stakeholder meetings for inclusive planning in Tribal communities.
 
-![Brown & Company pencil footer -- Certified Public Accountants and Management Consulttants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
+--- 
 
-### Independent Auditor's Report
-November 2021
+# United States Access Board
+
+## Independent Auditor's Report <br /> and <br /> Financial Statements
+
+### For the Fiscal Years Ended <br /> *September 30, 2021 and 2020*
+
+![United States Access Board circular star seal]({{ site.baseurl }}/images/usab-seal.svg)
+{: .center }
+
+#### Prepared by <br /> Brown & Company CPAs and Management Consultants, PLLC
+
+##### November 12, 2021
+
+![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
+
+--- 
+
+![BC -- Brown & Company pencil header -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-header.png)
+
+## Independent Auditor's Report
 
 United States Access Board \
 Washington, D.C.
@@ -449,11 +491,14 @@ An audit of financial statements involves performing procedures to obtain audit 
 In our opinion, USAB's financial statements present fairly, in all material respects, USAB's financial position as of September 30, 2021, and 2020, and its net cost of operations, changes in net position, and budgetary resources for the fiscal years then ended in accordance with U.S. generally accepted accounting principles.
 
 ##### Other Matters
-> ##### Required Supplementary Information
-> U.S. generally accepted accounting principles issued by the Federal Accounting Standards Advisory Board (FASAB) require that the RSI be presented to supplement the financial statements. Although the RSI is not a part of the financial statements, FASAB considers this information to be an essential part of financial reporting for placing the financial statements in appropriate operational, economic, or historical context. We have applied certain limited procedures to the RSI in accordance with U.S. generally accepted government auditing standards, which consisted of inquiries of management about the methods of preparing the RSI and comparing the information for consistency with management's responses to the auditor's inquiries, the financial statements, and other knowledge we obtained during the audit of the financial statements, in order to report omissions or material departures from FASAB guidelines, if any, identified by these limited procedures. We did not audit and we do not express an opinion or provide any assurance on the RSI because the limited procedures we applied do not provide sufficient evidence to express an opinion or provide any assurance.
 
-> ##### Other Information
-> USAB's other information contains a wide range of information, some of which is not directly related to the financial statements. This information is presented for purposes of additional analysis and is not a required part of the financial statements or the RSI. We read the other information included with the financial statements in order to identify material inconsistencies, if any, with the audited financial statements. Our audit was conducted for the purpose of forming an opinion on USAB’s financial statements. We did not audit and do not express an opinion or provide any assurance on the other information.
+###### Required Supplementary Information
+
+U.S. generally accepted accounting principles issued by the Federal Accounting Standards Advisory Board (FASAB) require that the RSI be presented to supplement the financial statements. Although the RSI is not a part of the financial statements, FASAB considers this information to be an essential part of financial reporting for placing the financial statements in appropriate operational, economic, or historical context. We have applied certain limited procedures to the RSI in accordance with U.S. generally accepted government auditing standards, which consisted of inquiries of management about the methods of preparing the RSI and comparing the information for consistency with management's responses to the auditor's inquiries, the financial statements, and other knowledge we obtained during the audit of the financial statements, in order to report omissions or material departures from FASAB guidelines, if any, identified by these limited procedures. We did not audit and we do not express an opinion or provide any assurance on the RSI because the limited procedures we applied do not provide sufficient evidence to express an opinion or provide any assurance.
+
+###### Other Information
+
+USAB's other information contains a wide range of information, some of which is not directly related to the financial statements. This information is presented for purposes of additional analysis and is not a required part of the financial statements or the RSI. We read the other information included with the financial statements in order to identify material inconsistencies, if any, with the audited financial statements. Our audit was conducted for the purpose of forming an opinion on USAB’s financial statements. We did not audit and do not express an opinion or provide any assurance on the other information.
 
 #### Report on Internal Control over Financial Reporting
 
@@ -505,10 +550,20 @@ The purpose of this report is solely to describe the scope of our testing of com
 
 ![Brown and Company signature]({{ site.baseurl }}/images/bc-sig.jpg)
 {: .img-small }
+
 Greenbelt, Maryland \
 November 12, 2021
 
-![Brown & Company pencil footer -- Certified Public Accountants and Management Consulttants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
+![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
+
+--- 
+
+## Financial Statements and Notes
+
+![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
+
+--- 
+
+### Balance Sheet
 
 {% include_relative par-2021-tables.html %}
-
