@@ -18,13 +18,10 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 
 ### Table of Contents
 
+[Agency Head Message](#message-from-the-executive-director)
+: [Management Discussion and Analysis](#part-1-management-discussion-and-analysis)
+
 <dl>
-  <dt>
-    <a href="#message-from-the-executive-director">Agency Head Message</a>
-  </dt>
-<dd>
-  <a href="part-1-management-discussion-and-analysis">Management Discussion and Analysis</a>
-  </dd>
 <dt><a ="#independent-auditors-report">Financial Section</></dt>
 <dd>
   <a href="#independent-auditors-report-on-the-financial-statements">Independent Auditor&rsquo;s Report on the Financial Statements</a>
@@ -70,7 +67,7 @@ November 12, 2021
 # United States Access Board
 
 ![United States Access Board circular star seal]({{ site.baseurl }}/images/usab-seal.svg)
-{: .center }
+{: .img-grid }
 
 ## Management Discussion and Analysis
 
@@ -333,12 +330,39 @@ During FY 2021, the Access Board received 180 new ABA complaints and closed 174 
 
 Presented below in Table 1 are ABA caseload statistics for FY 2021, as well as comparative data for FYs 2019 and 2020. (***Note:*** All tabular data provided in this section about ABA cases were compiled from the Access Board’s cloud-based Complaint Tracking System (CTS), which is the official repository of all ABA complaint files.)
 
-
-
-[INSERT TABLE 1]
-
-
-
+<table class="par">
+  <caption>
+  Table 1:&nbsp; ABA Caseload Statistics (FYs 2019 &ndash; 2021)
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">ABA Cases</th>
+      <th scope="col">FY 2019</th>
+      <th scope="col">FY 2020</th>
+      <th scope="col">FY 2021</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Complaints Pending (start of fiscal year)</td>
+      <td>98</td>
+      <td>104</td>
+      <td>167</td>
+    </tr>
+    <tr>
+      <td>Complaints Received</td>
+      <td>168</td>
+      <td>140</td>
+      <td>180</td>
+    </tr>
+    <tr>
+      <td>Complaints Closed (end of fiscal year)</td>
+      <td>162</td>
+      <td>167</td>
+      <td>174</td>
+    </tr>
+  </tbody>
+</table>
 
 Of the 174 ABA cases closed this year, about 22% (38 cases) were closed after the federal agency (or other facility owner/leaseholder) took corrective action to remedy building elements or features determined by our investigative findings to be ABA violations under the applicable accessibility standard. This figure represents a 31% drop compared to cases closed in the prior fiscal year (FY 2020) following corrective action. This decrease is explained by the fact that, during FY 2021, agencies were faced with pandemic-related delays (mostly related to supply and budget issues and delays on the part of construction contractors) that resulted in corrective actions planned to be completed in FY 2021 being pushed back into FY 2022.
 
@@ -350,27 +374,116 @@ In brief, the ABA closed cases this year that resulted in corrective action can 
 
 * **Other ABA-Covered Facilities:** We also successfully resolved 2 other ABA complaints relating to facilities leased by the General Services Administration on behalf of the Federal Election Commission (in Washington, D.C.) and the Department of Education (in Cleveland, Ohio).
 
-The balance of ABA cases closed this year --- or 78% --- were concluded for a range of technical or administrative reasons. Most involved referring complainants to other federal agencies because we lacked ABA jurisdiction over the matters raised in the complaint. In FY 2021, we mainly referred complainants to DOJ (complaints related to ADA-covered state or local facilities or places of public accommodation) and the Department of Housing and Urban Development (claims relating to apartment buildings covered by the Fair Housing Act). Administrative closures of ABA complaints occur for a variety of reasons ranging from unintelligibility or “spam” filings to complaints that provide insufficient detail to discern the nature of the allegations or to allow enforcement staff to contact the complainant to gather additional/clarifying information. This year, many of our administrative closures resulted from complaints that raised matters clearly falling outside our ABA jurisdiction --- or the purview of any other federal or state agency.
+The balance of ABA cases closed this year --- or 78% --- were concluded for a range of technical or administrative reasons. Most involved referring complainants to other federal agencies because we lacked ABA jurisdiction over the matters raised in the complaint. In FY 2021, we mainly referred complainants to DOJ (complaints related to ADA-covered state or local facilities or places of public accommodation) and the Department of Housing and Urban Development (claims relating to apartment buildings covered by the Fair Housing Act). Administrative closures of ABA complaints occur for a variety of reasons ranging from unintelligibility or "spam" filings to complaints that provide insufficient detail to discern the nature of the allegations or to allow enforcement staff to contact the complainant to gather additional/clarifying information. This year, many of our administrative closures resulted from complaints that raised matters clearly falling outside our ABA jurisdiction -- or the purview of any other federal or state agency.
 
 Table 2 below provides data for ABA cases closed in FY 2021 concerning reasons for case closure, which, as noted above, included everything from closures after the facility owner/leaseholder removed accessibility barriers to closures for various administrative reasons.
 
-
-
-
-[[[[INSERT TABLE 2]]]]
-
-
-
+<table class="par">
+  <caption>
+  Table 2: Reasons for ABA Case Closures (FY 2021)
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">Reasons for ABA Case Closure</th>
+      <th scope="col"># Cases</th>
+      <th scope="col">% of All Closed Cases<br>
+        (FY 2020)</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Corrective action taken / accessibility barriers addressed</td>
+      <td>38</td>
+      <td>21.8</td>
+    </tr>
+    <tr>
+      <td>No ABA jurisdiction</td>
+      <td>23</td>
+      <td>13.2</td>
+    </tr>
+    <tr>
+      <td>Investigation found no ABA violation</td>
+      <td>20</td>
+      <td>11.5</td>
+    </tr>
+    <tr>
+      <td>Waiver/modification issued by standard-setting agency</td>
+      <td>1</td>
+      <td>0.6</td>
+    </tr>
+    <tr>
+      <td>Referral to another federal agency</td>
+      <td>56</td>
+      <td>32.2</td>
+    </tr>
+    <tr>
+      <td>Administrative closure</td>
+      <td>36</td>
+      <td>20.7</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th scope="row">Totals =</th>
+      <td>174</td>
+      <td>100%</td>
+    </tr>
+  </tfoot>
+</table>
 
 Table 3 below provides similar case closure data about the bases for ABA cases closures, but from a longitudinal perspective for FYs 2019 – 2021.
 
-
-
-
-[[[[INSERT TABLE 3]]]]
-
-
-
+<table class="par">
+  <caption>
+  Table 3: Reasons for ABA Case Closures (FYs 2019 &ndash; 2021)
+  </caption>
+  <thead>
+    <tr>
+      <th scope="col">Basis for ABA Case Closure</th>
+      <th scope="col">FY 2019</th>
+      <th scope="col">FY 2020</th>
+      <th scope="col">FY 2021</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Corrective action taken (accessibility barriers addressed)</td>
+      <td>48</td>
+      <td>55</td>
+      <td>38</td>
+    </tr>
+    <tr>
+      <td>No ABA jurisdiction</td>
+      <td>2</td>
+      <td>7</td>
+      <td>23</td>
+    </tr>
+    <tr>
+      <td>Investigation found no ABA violation</td>
+      <td>16</td>
+      <td>15</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Waiver/modification issued by standard-setting agency</td>
+      <td>0</td>
+      <td>0</td>
+      <td>1</td>
+    </tr>
+    <tr>
+      <td>Referral to another federal agency</td>
+      <td>70</td>
+      <td>43</td>
+      <td>56</td>
+    </tr>
+    <tr>
+      <td>Administrative closure</td>
+      <td>26</td>
+      <td>47</td>
+      <td>36</td>
+    </tr>
+  </tbody>
+</table>
 
 ##### Other Initiatives
 
@@ -443,11 +556,9 @@ At the beginning of his administration, President Biden also issued a Memorandum
 ### For the Fiscal Years Ended <br /> *September 30, 2021 and 2020*
 
 ![United States Access Board circular star seal]({{ site.baseurl }}/images/usab-seal.svg)
-{: .center }
+{: .img-grid }
 
-#### Prepared by <br /> Brown & Company CPAs and Management Consultants, PLLC
-
-##### November 12, 2021
+#### Prepared by <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> November 12, 2021
 
 ![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
 
@@ -566,4 +677,49 @@ November 12, 2021
 
 ### Balance Sheet
 
-{% include_relative par-2021-tables.html %}
+#### As of September 30, 2021 and 2020 <br /> (In Dollars)
+
+{% include_relative par-fy2021-table-bs.html %}
+
+### Statement of Net Cost
+
+#### As of September 30, 2021 and 2020 <br /> (In Dollars)
+
+<table class="par-money">
+ <caption>
+ Gross Program Costs
+</caption>
+ <thead>
+  <tr>
+   <td>&nbsp;  </td>
+   <th scope="col">2021</th>
+   <th scope="col">2020</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Gross Costs</td>
+   <td>$ 8,958,174</td>
+   <td>$ 9,031,502</td>
+  </tr>
+  <tr>
+   <td>Less: Earned Revenue</td>
+   <td>  - </td>
+   <td> ($8,318) </td>
+  </tr>
+ </tbody>
+ <tfoot>
+  <tr>
+   <th scope="row">Net Cost of Operations</th>
+   <td> $ 8,958,174 </td>
+   <td> $ 9,023,184 </td>
+  </tr>
+ </tfoot>
+</table>
+
+### Statement of Changes in Net Position
+
+#### As of September 30, 2021 and 2020 <br /> (In Dollars)
+
+{% include_relative par-fy2021-table-scnp.html %}
+
