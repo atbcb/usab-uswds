@@ -361,11 +361,11 @@ Of the 174 ABA cases closed this year, about 22% (38 cases) were closed after th
 
 In brief, the ABA closed cases this year that resulted in corrective action can be broken down into three broad categories, by facility type:
 
-* **Defense-related and Veterans Facilities:** We successfully resolved 4 ABA complaints against the Departments of Defense and Veterans Affairs, including long-pending cases relating to: a U.S. Army Morale, Welfare, and Recreation (MWR) facility at Fort Knox, Kentucky; the Hawthorne Army Depot in Hawthorne, Nevada; the Hines VA Medical Center in Hines, Illinois; and the Hayden VA Medical Center in Phoenix, Arizona.
+- **Defense-related and Veterans Facilities:** We successfully resolved 4 ABA complaints against the Departments of Defense and Veterans Affairs, including long-pending cases relating to: a U.S. Army Morale, Welfare, and Recreation (MWR) facility at Fort Knox, Kentucky; the Hawthorne Army Depot in Hawthorne, Nevada; the Hines VA Medical Center in Hines, Illinois; and the Hayden VA Medical Center in Phoenix, Arizona.
  
-* **Post Offices:** We successfully resolved 32 ABA complaints relating to U.S. Postal Service facilities, with major remedial work completed for post offices in Olney, Maryland; Evergreen, Virginia; Addyston, Ohio; LeGrand, Iowa; Greenwood Village, Colorado; and Lewisville, Texas.
+- **Post Offices:** We successfully resolved 32 ABA complaints relating to U.S. Postal Service facilities, with major remedial work completed for post offices in Olney, Maryland; Evergreen, Virginia; Addyston, Ohio; LeGrand, Iowa; Greenwood Village, Colorado; and Lewisville, Texas.
 
-* **Other ABA-Covered Facilities:** We also successfully resolved 2 other ABA complaints relating to facilities leased by the General Services Administration on behalf of the Federal Election Commission (in Washington, D.C.) and the Department of Education (in Cleveland, Ohio).
+- **Other ABA-Covered Facilities:** We also successfully resolved 2 other ABA complaints relating to facilities leased by the General Services Administration on behalf of the Federal Election Commission (in Washington, D.C.) and the Department of Education (in Cleveland, Ohio).
 
 The balance of ABA cases closed this year --- or 78% --- were concluded for a range of technical or administrative reasons. Most involved referring complainants to other federal agencies because we lacked ABA jurisdiction over the matters raised in the complaint. In FY 2021, we mainly referred complainants to DOJ (complaints related to ADA-covered state or local facilities or places of public accommodation) and the Department of Housing and Urban Development (claims relating to apartment buildings covered by the Fair Housing Act). Administrative closures of ABA complaints occur for a variety of reasons ranging from unintelligibility or "spam" filings to complaints that provide insufficient detail to discern the nature of the allegations or to allow enforcement staff to contact the complainant to gather additional/clarifying information. This year, many of our administrative closures resulted from complaints that raised matters clearly falling outside our ABA jurisdiction -- or the purview of any other federal or state agency.
 
@@ -597,10 +597,12 @@ In our opinion, USAB's financial statements present fairly, in all material resp
 ##### Other Matters
 
 ###### Required Supplementary Information
+{: .par }
 
 > U.S. generally accepted accounting principles issued by the Federal Accounting Standards Advisory Board (FASAB) require that the RSI be presented to supplement the financial statements. Although the RSI is not a part of the financial statements, FASAB considers this information to be an essential part of financial reporting for placing the financial statements in appropriate operational, economic, or historical context. We have applied certain limited procedures to the RSI in accordance with U.S. generally accepted government auditing standards, which consisted of inquiries of management about the methods of preparing the RSI and comparing the information for consistency with management's responses to the auditor's inquiries, the financial statements, and other knowledge we obtained during the audit of the financial statements, in order to report omissions or material departures from FASAB guidelines, if any, identified by these limited procedures. We did not audit and we do not express an opinion or provide any assurance on the RSI because the limited procedures we applied do not provide sufficient evidence to express an opinion or provide any assurance.
 
 ###### Other Information
+{: .par }
 
 > USAB's other information contains a wide range of information, some of which is not directly related to the financial statements. This information is presented for purposes of additional analysis and is not a required part of the financial statements or the RSI. We read the other information included with the financial statements in order to identify material inconsistencies, if any, with the audited financial statements. Our audit was conducted for the purpose of forming an opinion on USAB’s financial statements. We did not audit and do not express an opinion or provide any assurance on the other information.
 
@@ -677,6 +679,10 @@ November 12, 2021
 
 {% include_relative par-fy2021-table-bs.html %}
 
+The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
+
+--- 
+
 **United States Access Board**
 
 ### Statement of Net Cost
@@ -717,6 +723,10 @@ November 12, 2021
  </tfoot>
 </table>
 
+The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
+
+--- 
+
 **United States Access Board**
 
 ### Statement of Changes in Net Position
@@ -725,6 +735,10 @@ November 12, 2021
 
 {% include_relative par-fy2021-table-scnp.html %}
 
+The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
+
+--- 
+
 **United States Access Board**
 
 ### Statement of Budgetary Resources
@@ -732,6 +746,8 @@ November 12, 2021
 **As of September 30, 2021 and 2020 <br /> (In Dollars)**
 
 {% include_relative par-fy2021-table-sbr.html %}
+
+The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
 
 --- 
 
@@ -784,7 +800,6 @@ Property, equipment and software represent furniture, fixtures, equipment, and i
 | Computer Equipment | 3 |
 | Office Equipment | 5 |
 | Software | 5 |
-{: .par }
 
 ##### G. Advances and Prepaid Charges
 
