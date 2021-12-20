@@ -109,6 +109,11 @@ ol li ol li ol li {
 }
 
 // table styles for Performance and Accountability Report
+
+h6.par {
+	margin-left: 2em;
+}
+
 table.par, table.par-money, table.par-prose {
 	border: none;
 	border-collapse: collapse;
