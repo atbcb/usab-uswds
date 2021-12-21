@@ -157,7 +157,7 @@ The Prompt Payment Act requires federal agencies to make timely payments to vend
 
 #### DATA Act
 
-The Digital Accountability and Transparency Act of 2014 --- which is commonly referred to as the DATA Act --- requires agencies to establish common standards for financial data provided by all government agencies and to expand the amount of data that agencies must provide to the government website, "USAspending.gov."
+The Digital Accountability and Transparency Act of 2014 --- which is commonly referred to as the DATA Act --- requires agencies to establish common standards for financial data provided by all government agencies and to expand the amount of data that agencies must provide to the government website, "[USAspending.gov](https://www.usaspending.gov)."
 
 The Access Board's shared service provider (BFS/ARC) has implemented software that enables the agency to comply with DATA Act requirements. In FY 2021, we were compliant with applicable DATA Act requirements and timely submitted all certifications.
 
