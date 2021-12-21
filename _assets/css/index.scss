@@ -113,7 +113,17 @@ ol li ol li ol li {
 h6.par {
 	margin-left: 2em;
 }
-
+figure.par {
+	float: left;
+}
+figure.par figcaption {
+	font-weight: bold;
+	text-align: left;
+}
+figure.par img {
+	float: left;
+	width: 50%;
+}
 table.par, table.par-money, table.par-prose {
 	border: none;
 	border-collapse: collapse;
