@@ -800,6 +800,7 @@ Property, equipment and software represent furniture, fixtures, equipment, and i
 | Computer Equipment | 3 |
 | Office Equipment | 5 |
 | Software | 5 |
+{: .par-prose }
 
 ##### G. Advances and Prepaid Charges
 
@@ -853,10 +854,8 @@ Accounting standards require all reporting entities to disclose that accounting 
 
 #### NOTE 2. FUND BALANCE WITH TREASURY
 
+Fund Balance with Treasury account balances as of September 30, 2021 and 2020, respectively, are shown below.
 <table class="par-money">
-  <caption>
-    Fund Balance with Treasury account balances as of September 30, 2021 and 2020, respectively, are shown below.
-  </caption>
  <thead>
   <tr>
     <td>&nbsp;</td>
@@ -905,21 +904,19 @@ The obligated balance not yet disbursed includes accounts payable, accrued expen
 
 #### NOTE 3. ACCOUNTS RECEIVABLE, NET
 
+Accounts receivable balances as of September 30, 2021 and 2020, respectively, were as follows.
+
 <table class="par-money">
-  <caption>
-    Accounts receivable balances as of September 30, 2021 and 2020, respectively, were as follows.
-  </caption>
  <thead>
   <tr>
     <td>&nbsp;</td>
    <th scope="col">2021</th>
-   <th scope="col">2011</th>
+   <th scope="col">2020</th>
   </tr>
  </thead>
  <tbody>
   <tr>
    <th scope="col">Accounts Receivable</th>
-   <td>Intragovernmental</td>
    <td>$0</td>
    <td>$0</td>
   </tr>
@@ -938,7 +935,7 @@ The obligated balance not yet disbursed includes accounts payable, accrued expen
    <td><strong>$ 315</strong></td>
    <td><strong>$ &nbsp; 8</strong></td>
   </tr>
- </body>
+ </tbody>
  <tfoot>
   <tr>
    <th scope="row">Total Accounts Receivable</th>
@@ -954,10 +951,9 @@ Historical experience has indicated that the majority of the receivables are col
 
 #### NOTE 4. GENERAL PROPERTY, PLANT AND EQUIPMENT, NET
 
+Schedule of General Property, Plant and Equipment, Net as of September 30, 2021:
+
 <table class="par-money">
- <caption>
-   Schedule of General Property, Plant and Equipment, Net as of September 30, 2021:
- </caption>
  <thead>
   <tr>
    <th scope="col">Major Class</th>
@@ -997,6 +993,9 @@ Historical experience has indicated that the majority of the receivables are col
 
 
 Schedule of General Property, Plant and Equipment, Net as of September 30, 2019 are shown below.
+
+
+
 
 Schedule of General Property, Plant and Equipment, Net (End of Fiscal Year, 2019)
 
@@ -1049,6 +1048,7 @@ The Access Board occupies office space under a lease agreement that is accounted
 Shown below is a schedule of future payments for the term of the Access Board's current office lease.
 
 Office Lease -- Schedule of Future Payments (Fiscal Years 2021 and Later)
+
 | Fiscal Year | Lease Payment |
 | --- | --- |
 | 2021 | $694,409 |
@@ -1069,6 +1069,7 @@ The Access Board recognizes certain inter-entity costs for goods and services th
 For the periods ended September 30, 2020 and 2019, respectively, inter-entity costs are shown below.
 
 Inter-Entity Costs (End of Fiscal Year, FYs 2020 & 2019)
+
 | Inter-Entity Costs | 2020 | 2019 |
 | --- | --- | --- |
 | Office of Personnel Management | $202,105 | $243,159 |
@@ -1080,6 +1081,7 @@ Inter-Entity Costs (End of Fiscal Year, FYs 2020 & 2019)
 Budgetary resources obligated for undelivered orders, as of September 30, 2020, are shown below.
 
 Obligations for Undelivered Orders (End of Fiscal Year, 2020)
+
 | Order Type | Federal | Non-Federal | Total |
 | --- | --- | --- | --- |
 | Paid Undelivered Orders | $0 | $0 | $0 |
@@ -1090,6 +1092,7 @@ Obligations for Undelivered Orders (End of Fiscal Year, 2020)
 Budgetary resources obligated for undelivered orders, as of September 30, 2019, are shown below.
 
 Obligations for Undelivered Orders (End of Fiscal Year, 2019)
+
 | Order Type | Federal | Non-Federal | Total |
 | --- | --- | --- | --- |
 | Paid Undelivered Orders | $1,129,703 | $0 | $1,129,703 |
