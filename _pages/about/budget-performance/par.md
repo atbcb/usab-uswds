@@ -654,6 +654,7 @@ The purpose of this report is solely to describe the scope of our testing of com
 
 ![Brown and Company signature]({{ site.baseurl }}/images/bc-sig.jpg)
 {: .img-left }
+
 Greenbelt, Maryland \
 November 12, 2021
 {: .clear }
@@ -694,12 +695,12 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
    <th scope="col">2020</th>
   </tr>
  </thead>
+ <tbody>
    <tr>
     <th colspan="3" scope="rowgroup">
       Gross Program Costs:
      </th>
    </tr>
- <tbody>
   <tr>
    <td>Gross Costs</td>
    <td>$ 8,958,174</td>
@@ -708,14 +709,14 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
   <tr>
    <td>Less: Earned Revenue</td>
    <td>-</td>
-   <td> ($8,318) </td>
+   <td>(8,318)</td>
   </tr>
  </tbody>
  <tfoot>
   <tr>
    <th scope="row">Net Cost of Operations</th>
-   <td> $ 8,958,174 </td>
-   <td> $ 9,023,184 </td>
+   <td><strong>$ 8,958,174</strong></td>
+   <td><strong>$ 9,023,184</strong></td>
   </tr>
  </tfoot>
 </table>
