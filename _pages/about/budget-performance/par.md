@@ -21,7 +21,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 - [Agency Head Message](#message-from-the-executive-director)
   * [Management Discussion and Analysis](#part-1-management-discussion-and-analysis)
   * [Performance Report](#performance-report)
-- [Financial Section](##independent-auditors-report--and--financial-statements)
+- [Financial Section](#independent-auditors-report--and--financial-statements)
   * [Independent Auditor's Report on the Financial Statements](#independent-auditors-report-on-the-financial-statements)
   * [Balance Sheet](#balance-sheet)
   * [Statement of Net Cost](#statement-of-net-cost)
@@ -78,13 +78,11 @@ Established by the Rehabilitation Act of 1973, the United States Access Board --
 
 The Access Board is governed by a 25-member board, with the Board Chair serving as agency head. The figure below depicts the agency's organizational structure in FY 2021.
 
-<figure>
-  <a href="{{ site.baseurl }}/images/usab-org-chart.png">
-    <img width="622" height="359" src="{{ site.baseurl }}/images/usab-org-chart.png" alt="Organizational structure of Access Board showing Executive Director under Board and three offices under Executive Director: OTIS, OA &amp; OGC.">
-  </a>
+<figure class="par">
   <figcaption>
     Figure 1:&nbsp; U.S. Access Board Organizational Structure
   </figcaption>
+  <a href="{{ site.baseurl }}/images/usab-org-chart.png"><img src="{{ site.baseurl }}/images/usab-org-chart.png" alt="Organizational structure of Access Board showing Executive Director under Board and three offices under Executive Director: OTIS, OA &amp; OGC."></a>
 </figure>
 
 ### Board Members
@@ -738,7 +736,7 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 --- 
 
-**United States Access Board** 
+**United States Access Board**
 
 ### Statement of Budgetary Resources
 
@@ -906,42 +904,40 @@ The obligated balance not yet disbursed includes accounts payable, accrued expen
 Accounts receivable balances as of September 30, 2021 and 2020, respectively, were as follows.
 
 <table class="par-money">
- <thead>
-  <tr>
-    <td>&nbsp;</td>
-   <th scope="col">2021</th>
-   <th scope="col">2020</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <th scope="col">Accounts Receivable</th>
-   <td>$0</td>
-   <td>$0</td>
-  </tr>
-  <tr>
-   <td>
-     With the Public <br />
-     &nbsp; Accounts Receivable
-    </td>
-   <td>$ 315</td>
-   <td>$ &nbsp; 8</td>
-  </tr>
- </tbody>
- <tbody>
-  <tr>
-   <th scope="row">Total Public Accounts Receivable</th>
-   <td><strong>$ 315</strong></td>
-   <td><strong>$ &nbsp; 8</strong></td>
-  </tr>
- </tbody>
- <tfoot>
-  <tr>
-   <th scope="row">Total Accounts Receivable</th>
-   <td><strong>$ 315</strong></td>
-   <td><strong>$ &nbsp; 8</strong></td>
-  </tr>
- </tfoot>
+  <thead>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="col">2021</th>
+      <th scope="col">2020</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="col">Accounts Receivable</th>
+      <td>$0</td>
+      <td>$0</td>
+    </tr>
+    <tr>
+      <td> With the Public <br />
+        &nbsp; Accounts Receivable </td>
+      <td>$ 315</td>
+      <td>$ &nbsp; 8</td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th scope="row">Total Public Accounts Receivable</th>
+      <td><strong>$ 315</strong></td>
+      <td><strong>$ &nbsp; 8</strong></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th scope="row">Total Accounts Receivable</th>
+      <td><strong>$ 315</strong></td>
+      <td><strong>$ &nbsp; 8</strong></td>
+    </tr>
+  </tfoot>
 </table>
 
 The accounts receivable is primarily made up of other receivable with the public for reimbursable work.
@@ -953,43 +949,41 @@ Historical experience has indicated that the majority of the receivables are col
 Schedule of General Property, Plant and Equipment, Net as of September 30, 2021:
 
 <table class="par-money">
- <thead>
-  <tr>
-   <th scope="col">Major Class</th>
-   <th scope="col">Acquisition<br />
-    Cost</th>
-   <th scope="col">Accumulated<br />
-    Amortization /<br />
-    Depreciation</th>
-   <th scope="col">Net Book<br />
-    Value</th>
-  </tr>
- </thead>
- <tbody>
-  <tr>
-   <td>Building</td>
-   <td>$ 657,414</td>
-   <td>$ 449,451</td>
-   <td>$ 207,963</td>
-  </tr>
-  <tr>
-   <td>Construction-in-Progress/td>
-   <td>$ 168,414</td>
-   <td> N/A</td>
-   <td>$ 168,414</td>
-  </tr>
- </tbody>
- <tfoot>
-  <tr>
-   <th scope="row">Total</th>
-   <td><strong>$ 825,066</strong></td>
-   <td><strong>$ 500,387</strong></td>
-   <td><strong>$ 324,679</strong></td>
-  </tr>
- </tfoot>
+  <thead>
+    <tr>
+      <th scope="col">Major Class</th>
+      <th scope="col">Acquisition<br />
+        Cost</th>
+      <th scope="col">Accumulated<br />
+        Amortization /<br />
+        Depreciation</th>
+      <th scope="col">Net Book<br />
+        Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Building</td>
+      <td>$ 657,414</td>
+      <td>$ 449,451</td>
+      <td>$ 207,963</td>
+    </tr>
+    <tr>
+      <td>Construction-in-Progress</td>
+      <td>$ 168,414</td>
+      <td> N/A</td>
+      <td>$ 168,414</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th scope="row">Total</th>
+      <td><strong>$ 825,066</strong></td>
+      <td><strong>$ 500,387</strong></td>
+      <td><strong>$ 324,679</strong></td>
+    </tr>
+  </tfoot>
 </table>
-
-
 
 Schedule of General Property, Plant and Equipment, Net as of September 30, 2019 are shown below.
 
@@ -1038,9 +1032,9 @@ Account balances for other public liabilities, as of September 30, 2019, are sho
 
 
 
-#### NOTE 8.  LEASES
+#### NOTE 8. LEASES
 
-##### A.   Operating Leases
+##### A. Operating Leases
 
 The Access Board occupies office space under a lease agreement that is accounted for as an operating lease in Washington, DC.  The lease term begins on July 1, 2018 and expires on January 1, 2022.  Lease payments are increased annually based on the adjustments for operating cost and real estate tax escalations.  The total operating lease expense for fiscal years 2020 and 2019 were $721,897 and $719,254, respectively.
 
@@ -1061,7 +1055,7 @@ Office Lease -- Schedule of Future Payments (Fiscal Years 2021 and Later)
 
 The operating lease amount does not include estimated payments for leases with annual renewal options.
 
-#### NOTE 9.  INTER-ENTITY COSTS
+#### NOTE 9. INTER-ENTITY COSTS
 
 The Access Board recognizes certain inter-entity costs for goods and services that are received from other federal entities at no cost or at a cost less than the full cost.  Certain costs of the providing entity that are not fully reimbursed are recognized as imputed cost and are offset by imputed revenue.  Such imputed costs and revenues relate to employee benefits and claims to be settled by the Treasury Judgement Fund.  The Access Board recognizes as inter-entity costs the amount of accrued pension and post-retirement benefit expenses for current employees.  The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.
 
@@ -1075,7 +1069,7 @@ Inter-Entity Costs (End of Fiscal Year, FYs 2020 & 2019)
 | Total Imputed Financing Sources | $202,105 | $243,159 |
 {: .par-money }
 
-#### NOTE 10.  UNDELIVERED ORDERS AT THE END OF THE PERIOD
+#### NOTE 10. UNDELIVERED ORDERS AT THE END OF THE PERIOD
 
 Budgetary resources obligated for undelivered orders, as of September 30, 2020, are shown below.
 
@@ -1099,19 +1093,20 @@ Obligations for Undelivered Orders (End of Fiscal Year, 2019)
 | Total Undelivered Orders | $2,234,785 | $35,708 | $2,270,493 |
 {: .par-money }
 
-#### NOTE 11.  EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
+#### NOTE 11. EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
 
-The President's Budget that will include fiscal year 2020 actual budgetary execution information has not yet been published.  The President's Budget is scheduled for publication in February 2021 and can be found at the [OMB's website](http://www.whitehouse.gov/omb).  The 2021 Budget of the United States Government, with the "Actual" column completed for 2019, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
+The President's Budget that will include fiscal year 2021 actual budgetary execution information has not yet been published.  The President's Budget is scheduled for publication in February 2022 and can be found at the OMB web site: <https://www.whitehouse.gov/omb/>.  The 2022 Budget of the United States Government, with the "Actual" column completed for 2020, has been reconciled to the Statement of Budgetary Resources and there were no material differences.
 
-Shown below in Figure M are the differences between the Access Board's Statement of Budgetary Resources and the FY 2021 Presidential Budget.
-
-
-
-#### NOTE 12.  RECONCILIATION OF NET COST TO NET OUTLAYS
-
-The reconciliation of net outlays (presented is on a budgetary basis) and net costs (which are presented on an accrual basis) provide an explanation of the relationship between budgetary and financial accounting information.
-
-Shown below is a reconciliation of net cost to net outlays, as September 30, 2020.
+In Millions
 
 
-Shown below is a reconciliation of net cost to net outlays, as September 30, 2019.
+
+
+#### NOTE 12. RECONCILIATION OF NET COST TO NET OUTLAYS
+
+The reconciliation of net outlays, presented on a budgetary basis, and the net cost, presented on an accrual basis, provides an explanation of the relationship between budgetary and financial accounting information.
+
+Reconciliation of Net Costs to Net Outlays, as September 30, 2021.
+
+
+Reconciliation of Net Cost to Net Outlays, as September 30, 2020.
