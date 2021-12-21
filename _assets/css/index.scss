@@ -109,12 +109,12 @@ ol li ol li ol li {
 }
 
 // table styles for Performance and Accountability Report
-
 h6.par {
 	margin-left: 2em;
 }
 figure.par {
-	float: left;
+	display: block;
+	margin-left:0;
 }
 figure.par figcaption {
 	font-weight: bold;
@@ -122,7 +122,7 @@ figure.par figcaption {
 }
 figure.par img {
 	float: left;
-	width: 50%;
+	width: 100%;
 }
 table.par, table.par-money, table.par-prose {
 	border: none;
