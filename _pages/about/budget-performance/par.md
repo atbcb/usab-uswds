@@ -798,7 +798,7 @@ Property, equipment and software represent furniture, fixtures, equipment, and i
 | Computer Equipment | 3 |
 | Office Equipment | 5 |
 | Software | 5 |
-{: .par-prose }
+{: .par }
 
 ##### G. Advances and Prepaid Charges
 
@@ -986,25 +986,46 @@ Schedule of General Property, Plant and Equipment, Net as of September 30, 2021:
   </tfoot>
 </table>
 
-Schedule of General Property, Plant and Equipment, Net as of September 30, 2019 are shown below.
+Schedule of General Property, Plant and Equipment, Net as of September 30, 2020.
 
-
-
-
-Schedule of General Property, Plant and Equipment, Net (End of Fiscal Year, 2019)
-
-
-
-
-
+<table class="par-money">
+  <thead>
+    <tr>
+      <th scope="col">Major Class</th>
+      <th scope="col">Acquisition<br />
+        Cost</th>
+      <th scope="col">Accumulated<br />
+        Amortization /<br />
+        Depreciation</th>
+      <th scope="col">Net Book<br />
+        Value</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Building</td>
+      <td>$ 657,414</td>
+      <td>$ 449,451</td>
+      <td>$ 207,963</td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th scope="row">Total</th>
+      <td>$ 657,414</td>
+      <td>$ 449,451</td>
+      <td>$ 207,963</td>
+    </tr>
+  </tfoot>
+</table>
 
 #### NOTE 5. OTHER ASSETS
 
-Other assets account balances as of September 30, 2020 and 2019, respectively, are shown below.
+Other assets account balances as of September 30, 2021 and 2020, were as follows:
 
 
 
-The Access Board posts NBC Administrative Office procurement orders as prepayments.
+Access Board posts NBC Administrative Office procurement orders as prepayments.
 
 #### NOTE 6. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
