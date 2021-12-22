@@ -22,7 +22,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
   * [Management Discussion and Analysis](#part-1-management-discussion-and-analysis)
   * [Performance Report](#performance-report)
 - [Financial Section](#independent-auditors-report--and--financial-statements)
-  * [Independent Auditor's Report on the Financial Statements](#independent-auditors-report-on-the-financial-statements)
+  * [Independent Auditor's Report on the Financial Statements](#independent-auditors-report)
   * [Balance Sheet](#balance-sheet)
   * [Statement of Net Cost](#statement-of-net-cost)
   * [Statement of Changes in Net Position](#statement-of-changes-in-net-position)
