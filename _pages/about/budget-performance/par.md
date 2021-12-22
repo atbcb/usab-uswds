@@ -19,7 +19,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 ### Table of Contents
 
 - [Agency Head Message](#message-from-the-executive-director)
-  * [Management Discussion and Analysis](#pmanagement-discussion-and-analysis)
+  * [Management Discussion and Analysis](#management-discussion-and-analysis)
   * [Performance Report](#performance-report)
 - [Financial Section](#independent-auditors-report--and--financial-statements)
   * [Independent Auditor's Report on the Financial Statements](#independent-auditors-report)
