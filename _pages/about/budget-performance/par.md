@@ -1109,47 +1109,205 @@ Sick and other leave is expensed as taken.
 
 Other liabilities account balances as of September 30, 2021 were as follows:
 
-
+<table class="par-money">
+  <thead>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="col">Current</th>
+      <th scope="col">Non&nbsp;Current</th>
+      <th scope="col">Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="rowgroup">Intragovernmental</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+		  &nbsp; Employer Contributions and Payroll Taxes Payable (without reciprocals)</td>
+      <td>$ 13,480</td>
+      <td>$ -</td>
+      <td>$ 13,480</td>
+    </tr>
+    <tr>
+      <td>
+		  &nbsp; Employer Contributions and Payroll Taxes Payable </td>
+      <td>47,618</td>
+      <td>-</td>
+      <td>47,618</td>
+    </tr>
+    <tr>
+      <td>
+		  &nbsp; Unfunded FECA Liability</td>
+      <td>5,837</td>
+      <td>-</td>
+      <td>5,837</td>
+    </tr>
+    <tr>
+      <th scope="row">Total lntragovernmental Other Liabilities</th>
+      <td><strong>$ 66,935</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>$ 66,935</strong></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th scope="rowgroup">With the Public</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+		  &nbsp; Accrued Funded Payroll and Leave</td>
+      <td>$ 190,154</td>
+      <td>$ -</td>
+      <td>$ 190,154</td>
+    </tr>
+    <tr>
+      <td>
+		  &nbsp; Other Liabilities w/ Related Budgetary Obligations </td>
+      <td>789</td>
+      <td>-</td>
+      <td>789</td>
+    </tr>
+    <tr>
+      <th scope="row">Total Public Other Liabilitiess</th>
+      <td><strong>$ 190,943</strong></td>
+      <td><strong>$ -</strong></td>
+      <td><strong>$ 190,943</strong></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th scope="row">Total Other Liabilities</th>
+      <td>$ 257,878</td>
+      <td>$ -</td>
+      <td>$ 257,878</td>
+    </tr>
+  </tfoot>
+</table>
 
 Other liabilities account balances as of September 30, 2020 were as follows:
 
-
+<table class="par-money">
+  <thead>
+    <tr>
+      <td>&nbsp;</td>
+      <th scope="col">Current</th>
+      <th scope="col">Non&nbsp;Current</th>
+      <th scope="col">Total</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="rowgroup">Intragovernmental</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+		  &nbsp; Employer Contributions and Payroll Taxes Payable (without reciprocals)</td>
+      <td>$ 12,235</td>
+      <td>$ -</td>
+      <td>$ 12,235</td>
+    </tr>
+    <tr>
+      <td>
+		  &nbsp; Employer Contributions and Payroll Taxes Payable </td>
+      <td>40,391</td>
+      <td>-</td>
+      <td>40,391</td>
+    </tr>
+    <tr>
+      <td>
+		  &nbsp; Unfunded FECA Liability</td>
+      <td>5,837</td>
+      <td>-</td>
+      <td>5,837</td>
+    </tr>
+    <tr>
+      <th scope="row">Total lntragovernmental Other Liabilities</th>
+      <td><strong>$ 66,935</strong></td>
+      <td><strong>-</strong></td>
+      <td><strong>$ 66,935</strong></td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <th scope="rowgroup">With the Public</th>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+      <td>&nbsp;</td>
+    </tr>
+    <tr>
+      <td>
+		  &nbsp; Accrued Funded Payroll and Leave</td>
+      <td>$ 169,953</td>
+      <td>$ -</td>
+      <td>$ 169,953</td>
+    </tr>
+    <tr>
+      <th scope="row">Total Public Other Liabilitiess</th>
+      <td><strong>$ 169,953</strong></td>
+      <td><strong>$ -</strong></td>
+      <td><strong>$ 169,953</strong></td>
+    </tr>
+  </tbody>
+  <tfoot>
+    <tr>
+      <th scope="row">Total Other Liabilities</th>
+      <td>$ 228,416</td>
+      <td>$ -</td>
+      <td>$ 228,416</td>
+    </tr>
+  </tfoot>
+</table>
 
 #### NOTE 8. LEASES
 
-##### A. Operating Leases
+##### Operating Leases
 
-The Access Board occupies office space under a lease agreement that is accounted for as an operating lease in Washington, DC.  The lease term begins on July 1, 2018 and expires on January 1, 2022.  Lease payments are increased annually based on the adjustments for operating cost and real estate tax escalations.  The total operating lease expense for fiscal years 2020 and 2019 were $721,897 and $719,254, respectively.
+Access Board occupies office space under a lease agreement that is accounted for as an operating lease in Washington, DC.&nbsp;
+The lease term begins on July 1, 2018 and expires on January 1, 2022.&nbsp;
+Lease payments are increased annually based on the adjustments for operating cost and real estate tax escalations.&nbsp;
+The total operating lease expense for fiscal years 2021 and 2020 were $715,410 and $686,729, respectively.&nbsp;
+Below is a schedule of future payments for the term of the lease.
 
-Shown below is a schedule of future payments for the term of the Access Board's current office lease.
+Access Board signed a new lease agreement that will be accounted for as an operating lease in Washington, DC.&nbsp;
+The lease term will begin January 1, 2022 and run for a period of 180 months, expiring in FY37.&nbsp;
+Lease payments will be increased annually based on the adjustments for operating cost and real estate tax escalations.
 
-Office Lease -- Schedule of Future Payments (Fiscal Years 2021 and Later)
-
-| Fiscal Year | Lease Payment |
+| Fiscal Year | Asset Category <br> Building |
 | --- | --- |
-| 2021 | $694,409 |
-| 2022 | $186,946 |
-| 2023 | $563,169 |
-| 2024 | $726,168 |
-| 2025 | $735,207 |
-| Later Years (FYs 2026 -- 2037) | $9,187,603 |
-| Total Future Payments | $12,093,502 |
+| 2022 | $ 186,946 |
+| 2023 | 563,169 |
+| 2024 | 726,168 |
+| 2025 | 735,207 |
+| 2026 | 744,516 |
+| Thereafter | $ 8,443,087 |
+| **Total Future Payments** | **$ 11,399,094** |
 {: .par-money }
 
 The operating lease amount does not include estimated payments for leases with annual renewal options.
 
 #### NOTE 9. INTER-ENTITY COSTS
 
-The Access Board recognizes certain inter-entity costs for goods and services that are received from other federal entities at no cost or at a cost less than the full cost.  Certain costs of the providing entity that are not fully reimbursed are recognized as imputed cost and are offset by imputed revenue.  Such imputed costs and revenues relate to employee benefits and claims to be settled by the Treasury Judgement Fund.  The Access Board recognizes as inter-entity costs the amount of accrued pension and post-retirement benefit expenses for current employees.  The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.
+The Access Board recognizes certain inter-entity costs for goods and services that are received from other federal entities at no cost or at a cost less than the full cost.&nbsp;
+Certain costs of the providing entity that are not fully reimbursed are recognized as imputed cost and are offset by imputed revenue.&nbsp;
+Such imputed costs and revenues relate to employee benefits and claims to be settled by the Treasury Judgement Fund.&nbsp;
+Access Board recognizes as inter-entity costs the amount of accrued pension and post-retirement benefit expenses for current employees.&nbsp;
+The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.
+For the periods ended September 30, 2021 and 2020, respectively, inter-entity costs were as follows:
 
-For the periods ended September 30, 2020 and 2019, respectively, inter-entity costs are shown below.
-
-Inter-Entity Costs (End of Fiscal Year, FYs 2020 & 2019)
-
-| Inter-Entity Costs | 2020 | 2019 |
+| | 2021 | 2020 |
 | --- | --- | --- |
-| Office of Personnel Management | $202,105 | $243,159 |
-| Total Imputed Financing Sources | $202,105 | $243,159 |
+| Office of Personnel Management | $ 223,543 | $ 202,105 |
+| **Total Imputed Financing Sources** | **$ 223,543** | **$ 202,105** |
 {: .par-money }
 
 #### NOTE 10. UNDELIVERED ORDERS AT THE END OF THE PERIOD
