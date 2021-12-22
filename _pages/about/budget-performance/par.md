@@ -1340,16 +1340,32 @@ The President's Budget that will include fiscal year 2021 actual budgetary execu
 
 In Millions
 
-
-
+| &nbsp; | Budgetary <br /> Resources | New Obligations<br />  &amp; Upward<br /> Adjustments (Total) | Distributed<br /> Offsetting<br /> Receipts | Net <br /> Outlays |
+| --- | --- | --- | --- | --- |
+| Combined Statement of Budgetary Resources | $ 10 | $ 9 | $ - | $ 7 |
+| Difference -- Due to Rounding | (1) | - | - | - |
+| **Budget of the U.S. Government** | **$ 9** | **$ 9** | **$ -** | **$ 7** |
 
 #### NOTE 12. RECONCILIATION OF NET COST TO NET OUTLAYS
 
 The reconciliation of net outlays, presented on a budgetary basis, and the net cost, presented on an accrual basis, provides an explanation of the relationship between budgetary and financial accounting information.
 
-Reconciliation of Net Costs to Net Outlays, as September 30, 2021.
+Reconciliation of Net Costs to Net Outlays as September 30, 2021:
+
+**Reconciliation of Net Cost to Net Outlays**
+
+###### Budget and Accrual Reconciliation <br /> For the Years Ended September 30, 2021
+
+**(In Dollars)**
 
 
-Reconciliation of Net Cost to Net Outlays, as September 30, 2020.
+
+Reconciliation of Net Cost to Net Outlays, as September 30, 2020:
+
+**Reconciliation of Net Cost to Net Outlays**
+
+###### Budget and Accrual Reconciliation <br /> For the Years Ended September 30, 2020
+
+**(In Dollars)**
 
 {% include_relative par-fy2021-table-note12-2020.html %}
