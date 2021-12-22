@@ -690,7 +690,7 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 <table class="par-money">
  <thead>
   <tr>
-    <td> &nbsp; </td>
+    <td>&nbsp;</td>
    <th scope="col">2021</th>
    <th scope="col">2020</th>
   </tr>
@@ -715,8 +715,8 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
  <tfoot>
   <tr>
    <th scope="row">Net Cost of Operations</th>
-   <td><strong>$ 8,958,174</strong></td>
-   <td><strong>$ 9,023,184</strong></td>
+   <td>$ 8,958,174</td>
+   <td>$ 9,023,184</td>
   </tr>
  </tfoot>
 </table>
@@ -1023,34 +1023,95 @@ Schedule of General Property, Plant and Equipment, Net as of September 30, 2020.
 
 Other assets account balances as of September 30, 2021 and 2020, were as follows:
 
-
+<table class="par-money">
+ <thead>
+  <tr>
+    <td>&nbsp;</td>
+   <th scope="col">2021</th>
+   <th scope="col">2020</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Intragovernmental <br> 
+   &nbsp; Advances and Payments </td>
+   <td>$ 2,000,000</td>
+   <td>$ -</td>
+  </tr>
+ </tbody>
+ <tfoot>
+  <tr>
+   <th scope="row">Togal Intragovernmental Other Assets </th>
+   <td>$ 2,000,000</td>
+   <td>$ -</td>
+  </tr>
+  </tr>
+ </tfoot>
+</table>
 
 Access Board posts NBC Administrative Office procurement orders as prepayments.
 
 #### NOTE 6. LIABILITIES NOT COVERED BY BUDGETARY RESOURCES
 
-The liabilities for the Access Board, as of September 30, 2020 and 2019, include liabilities not covered by budgetary resources.  Congressional action is needed before budgetary resources can be provided.  Although future appropriations to fund these liabilities are likely and anticipated, it is not certain that appropriations will be enacted to fund these liabilities.
+The liabilities for Access Board as of September 30, 2021 and 2020, include liabilities not covered by budgetary resources.&nbsp;
+Congressional action is needed before budgetary resources can be provided.&nbsp;
+Although future appropriations to fund these liabilities are likely and anticipated, it is not certain that appropriations will be enacted to fund these liabilities.
 
-Liabilities not covered by budgetary resources, as of September 30, 2020 and 2019, respectively, are shown below.
+<table class="par-money">
+ <thead>
+  <tr>
+    <td>&nbsp;</td>
+   <th scope="col">2021</th>
+   <th scope="col">2020</th>
+  </tr>
+ </thead>
+ <tbody>
+  <tr>
+   <td>Intragovernmental &mdash; FECA</td>
+   <td>$ 5,837</td>
+   <td>$ 5,837</td>
+  </tr>
+  <tr>
+   <td>Unfunded Leave</td>
+   <td>396,344</td>
+   <td>366,157</td>
+  </tr>
+ </tbody>
+ <tbody>
+  <tr>
+   <td>Total Liabilities Not Covered by Budgetary Resources</td>
+   <td>$ 402,181</td>
+   <td>$ 371,994</td>
+  </tr>
+  <tr>
+   <td>Total Liabilities Covered by Budgetary Resources</td>
+   <td>598,919</td>
+   <td>563,194</td>
+  </tr>
+ </tbody>
+ <tfoot>
+  <tr>
+   <th scope="row">Total Liabilities</th>
+   <td>$ 1,001,100</td>
+   <td>$ 935,188</td>
+  </tr>
+ </tfoot>
+</table>
 
+FECA and the Unemployment Insurance liabilities represent the unfunded liability for actual workers compensation claims and unemployment benefits paid on Access Board's name behalf and payable to the DOL.
 
-FECA and the Unemployment Insurance liabilities represent the unfunded liability for actual workers compensation claims and unemployment benefits paid on the Access Board's name behalf and payable to the DOL.
-
-Unfunded leave represents a liability for earned leave and is reduced when leave is taken.  The balance in the accrued annual leave account is reviewed quarterly and adjusted as needed to accurately reflect the liability at current pay rates and leave balances.  Accrued annual leave is paid from future funding sources and, accordingly, is reflected as a liability not covered by budgetary resources.  Sick and other leave is expensed as taken.
+Unfunded leave represents a liability for earned leave and is reduced when leave is taken.&nbsp;
+The balance in the accrued annual leave account is reviewed quarterly and adjusted as needed to accurately reflect the liability at current pay rates and leave balances.&nbsp;
+Accrued annual leave is paid from future funding sources and, accordingly, is reflected as a liability not covered by budgetary resources.&nbsp;
+Sick and other leave is expensed as taken.
 
 #### NOTE 7. OTHER LIABILITIES
 
-Account balances for other intragovernmental liabilities, as of September 30, 2020, are shown below.
-
-
-Account balances for other public liabilities, as of September 30, 2020, are shown below.
+Other liabilities account balances as of September 30, 2021 were as follows:
 
 
 
-Account balances for other intragovernmental liabilities, as of September 30, 2019, are shown below.
-
-
-Account balances for other public liabilities, as of September 30, 2019, are shown below.
+Other liabilities account balances as of September 30, 2020 were as follows:
 
 
 
