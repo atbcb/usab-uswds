@@ -965,23 +965,23 @@ Schedule of General Property, Plant and Equipment, Net as of September 30, 2021:
   <tbody>
     <tr>
       <td>Building</td>
-      <td>$ 657,414</td>
-      <td>$ 449,451</td>
-      <td>$ 207,963</td>
+      <td>$ 656,425</td>
+      <td>$ 500,387</td>
+      <td>$ 156,038</td>
     </tr>
     <tr>
       <td>Construction-in-Progress</td>
-      <td>$ 168,414</td>
+      <td>$ 168,641</td>
       <td> N/A</td>
-      <td>$ 168,414</td>
+      <td>$ 168,641</td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <th scope="row">Total</th>
-      <td><strong>$ 825,066</strong></td>
-      <td><strong>$ 500,387</strong></td>
-      <td><strong>$ 324,679</strong></td>
+      <td>$ 825,066</td>
+      <td>$ 500,387</td>
+      <td>$ 324,679</td>
     </tr>
   </tfoot>
 </table>
