@@ -19,7 +19,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 ### Table of Contents
 
 - [Agency Head Message](#message-from-the-executive-director)
-  * [Management Discussion and Analysis](#part-1-management-discussion-and-analysis)
+  * [Management Discussion and Analysis](#pmanagement-discussion-and-analysis)
   * [Performance Report](#performance-report)
 - [Financial Section](#independent-auditors-report--and--financial-statements)
   * [Independent Auditor's Report on the Financial Statements](#independent-auditors-report)
@@ -68,7 +68,7 @@ November 12, 2021
 
 --- 
 
-## Part 1: Management Discussion and Analysis
+## Management Discussion and Analysis
 
 ### Mission
 
@@ -798,7 +798,7 @@ Property, equipment and software represent furniture, fixtures, equipment, and i
 | Computer Equipment | 3 |
 | Office Equipment | 5 |
 | Software | 5 |
-{: .par }
+{: .par-prose }
 
 ##### G. Advances and Prepaid Charges
 
@@ -914,13 +914,8 @@ Accounts receivable balances as of September 30, 2021 and 2020, respectively, we
   </thead>
   <tbody>
     <tr>
-      <th scope="col">Accounts Receivable</th>
-      <td>$0</td>
-      <td>$0</td>
-    </tr>
-    <tr>
-      <td> With the Public <br />
-        &nbsp; Accounts Receivable </td>
+      <th scope="rowgroup">With the Public <br />
+        &nbsp; Accounts Receivable </th>
       <td>$ 315</td>
       <td>$ &nbsp; 8</td>
     </tr>
@@ -928,15 +923,15 @@ Accounts receivable balances as of September 30, 2021 and 2020, respectively, we
   <tbody>
     <tr>
       <th scope="row">Total Public Accounts Receivable</th>
-      <td><strong>$ 315</strong></td>
-      <td><strong>$ &nbsp; 8</strong></td>
+      <td>$ 315 </td>
+      <td>$ &nbsp; 8</td>
     </tr>
   </tbody>
   <tfoot>
     <tr>
       <th scope="row">Total Accounts Receivable</th>
-      <td><strong>$ 315</strong></td>
-      <td><strong>$ &nbsp; 8</strong></td>
+      <td>$ 315</td>
+      <td>$ &nbsp; 8</td>
     </tr>
   </tfoot>
 </table>
@@ -1041,10 +1036,9 @@ Other assets account balances as of September 30, 2021 and 2020, were as follows
  </tbody>
  <tfoot>
   <tr>
-   <th scope="row">Togal Intragovernmental Other Assets </th>
+   <th scope="row">Total Intragovernmental Other Assets </th>
    <td>$ 2,000,000</td>
    <td>$ -</td>
-  </tr>
   </tr>
  </tfoot>
 </table>
@@ -1304,7 +1298,7 @@ Access Board recognizes as inter-entity costs the amount of accrued pension and 
 The assets and liabilities associated with such benefits are the responsibility of the administering agency, OPM.
 For the periods ended September 30, 2021 and 2020, respectively, inter-entity costs were as follows:
 
-| | 2021 | 2020 |
+| &nbsp; | 2021 | 2020 |
 | --- | --- | --- |
 | Office of Personnel Management | $ 223,543 | $ 202,105 |
 | **Total Imputed Financing Sources** | **$ 223,543** | **$ 202,105** |
@@ -1312,26 +1306,22 @@ For the periods ended September 30, 2021 and 2020, respectively, inter-entity co
 
 #### NOTE 10. UNDELIVERED ORDERS AT THE END OF THE PERIOD
 
-Budgetary resources obligated for undelivered orders, as of September 30, 2020, are shown below.
+As of September 30, 2021, budgetary resources obligated for undelivered orders were as follows.
 
-Obligations for Undelivered Orders (End of Fiscal Year, 2020)
-
-| Order Type | Federal | Non-Federal | Total |
+| &nbsp; | Federal | Non-Federal | Total |
 | --- | --- | --- | --- |
-| Paid Undelivered Orders | $0 | $0 | $0 |
-| Unpaid Undelivered Orders | $1,229,172 | $1,133,859 | $2,363,031 |
-| Total Undelivered Orders | $1,229,172 | $1,133,859 | $2,363,031 |
+| Paid Undelivered Orders | $ 200,000 | $ - | $ 200,000 |
+| Unpaid Undelivered Orders | 796,040 | 1,300,798 | 2,296,838 |
+| **Total Undelivered Orders** | **$ 996,040** | **$ 1,300,798** | **$ 2,296,838** |
 {: .par-money }
 
-Budgetary resources obligated for undelivered orders, as of September 30, 2019, are shown below.
+As of September 30, 2020, budgetary resources obligated for undelivered orders were as follows:
 
-Obligations for Undelivered Orders (End of Fiscal Year, 2019)
 
-| Order Type | Federal | Non-Federal | Total |
+| &nbsp; | Federal | Non-Federal | Total |
 | --- | --- | --- | --- |
-| Paid Undelivered Orders | $1,129,703 | $0 | $1,129,703 |
-| Unpaid Undelivered Orders | $1,105,082 | $35,708 | $1,140,790 |
-| Total Undelivered Orders | $2,234,785 | $35,708 | $2,270,493 |
+| Unpaid Undelivered Orders | $ 1,229,172 | $ 1,133,859 | $ 2,363,031 |
+| **Total Undelivered Orders** | **$ 1,229,172** | **$ 1,133,859** | **$ 2,363,031** |
 {: .par-money }
 
 #### NOTE 11. EXPLANATION OF DIFFERENCES BETWEEN THE SBR AND THE BUDGET OF THE U.S. GOVERNMENT
@@ -1345,6 +1335,7 @@ In Millions
 | Combined Statement of Budgetary Resources | $ 10 | $ 9 | $ - | $ 7 |
 | Difference -- Due to Rounding | (1) | - | - | - |
 | **Budget of the U.S. Government** | **$ 9** | **$ 9** | **$ -** | **$ 7** |
+{: .par-money }
 
 #### NOTE 12. RECONCILIATION OF NET COST TO NET OUTLAYS
 
