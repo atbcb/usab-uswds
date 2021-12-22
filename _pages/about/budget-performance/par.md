@@ -1358,7 +1358,7 @@ Reconciliation of Net Costs to Net Outlays as September 30, 2021:
 
 **(In Dollars)**
 
-
+{% include_relative par-fy2021-table-note12-2021.html %}
 
 Reconciliation of Net Cost to Net Outlays, as September 30, 2020:
 
