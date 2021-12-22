@@ -156,8 +156,11 @@ table.par tbody th, table.par tfoot th, table.par td:first-child, table.par-mone
 table.par tr:nth-child(odd), table.par-money tr:nth-child(odd) {
  background-color: color(primary-lighter);
 }
-table.par-money tbody tr:first-child, table.par-money tfoot tr:first-child,  {
+table.par-money tbody tr:first-child, table.par-money tfoot tr:first-child  {
 	border-top: medium solid color(primary);
+}
+table.par-money tfoot {
+	border-bottom: medium solid color(primary);
 }
 table.par tfoot td, table.par-money tfoot td {
 	font-weight: bold;
