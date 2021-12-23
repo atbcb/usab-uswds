@@ -109,11 +109,24 @@ ol li ol li ol li {
 }
 
 // table styles for Performance and Accountability Report
+h6.par {
+	margin-left: 2em;
+}
+figure.par {
+	display: block;
+	margin-left:0;
+}
+figure.par figcaption {
+	font-weight: bold;
+	text-align: left;
+}
+figure.par img {
+	float: left;
+	width: 100%;
+}
 table.par, table.par-money, table.par-prose {
 	border: none;
 	border-collapse: collapse;
-	margin-left: auto;
-	margin-right: auto;
 	margin-bottom: 1em;
 }
 table.par caption, table.par-money caption, table.par-prose caption {
@@ -143,8 +156,11 @@ table.par tbody th, table.par tfoot th, table.par td:first-child, table.par-mone
 table.par tr:nth-child(odd), table.par-money tr:nth-child(odd) {
  background-color: color(primary-lighter);
 }
-table.par-money tfoot tr:first-child {
+table.par-money tbody tr:first-child, table.par-money tfoot tr:first-child  {
 	border-top: medium solid color(primary);
+}
+table.par-money tfoot {
+	border-bottom: medium solid color(primary);
 }
 table.par tfoot td, table.par-money tfoot td {
 	font-weight: bold;
