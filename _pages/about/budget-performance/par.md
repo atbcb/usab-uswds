@@ -5,9 +5,10 @@ toc: sidenav.html
 banner-title: About the U.S. Access Board
 banner-subtitle: Performance and Accountability Report Fiscal Year 2021
 permalink: /about/par.html
-file: par-fy2021.pdf
+file: usab-par-fy2021.pdf
 file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2021
 ---
+<button class="usa-button" title="PAR FY2021 in PDF format" style="float:right"><a href="{{ site.baseurl }}/files/usab-par-fy2021.pdf">PDF</a></button>
 ## Performance and Accountability Report, <br /> Independent Auditor's Report  <br /> and  <br /> Financial Statements
 
 ### For the Fiscal Years Ended <br /> September 30, 2021 and 2020
