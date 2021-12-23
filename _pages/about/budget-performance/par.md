@@ -8,8 +8,9 @@ permalink: /about/par.html
 file: usab-par-fy2021.pdf
 file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2021
 ---
-<button class="usa-button" style="float:right" title="{{ page.file-description }}"><a href="{{ site.baseurl }}/files/{{ page.file }}">PDF</a></button>
 ## Performance and Accountability Report, <br /> Independent Auditor's Report  <br /> and  <br /> Financial Statements
+
+<button class="usa-button" style="float:right" title="{{ page.file-description }}"><a href="{{ site.baseurl }}/files/{{ page.file }}">PDF</a></button>
 
 ### For the Fiscal Years Ended <br /> September 30, 2021 and 2020
 
