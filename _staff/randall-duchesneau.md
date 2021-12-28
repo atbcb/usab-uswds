@@ -4,6 +4,7 @@ first_name: Randall
 last_name: Duchesneau
 full_name: Randall Duchesneau
 office: Office of Technical and Information Services
+job-title: Accessibility Specialist
 agency: United States Access Board
 ---
 Randall Duchesneau is an Accessibility Specialist at the Access Board with a focus on autonomous vehicles, buildings and facilities. 
