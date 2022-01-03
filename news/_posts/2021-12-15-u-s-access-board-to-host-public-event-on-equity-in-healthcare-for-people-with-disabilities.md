@@ -18,24 +18,24 @@ The event is free, but registration is required. For further information on regi
 
 Prior to the event, the Board will hold its regular business meeting from 1:00 to 2:00 p.m. (ET), which is also open to the public. 
 
-> ***Equity in Healthcare for People with Disabilities***  \
+> **_Equity in Healthcare for People with Disabilities_**  \
 > January 12, 2022, 2:30 – 4:00 p.m. (ET)  \
 > Meeting link (registration required): [www.zoomgov.com/webinar/register/WN_urM-7I0qSaqj-ZcPnZyxSQ](https://www.zoomgov.com/webinar/register/WN_urM-7I0qSaqj-ZcPnZyxSQ)  
 > Contact: Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov) 
 
->> *Agenda* 
+>> _Agenda_ 
 >> * Welcome, Greg Fehribach, U.S. Access Board Chair 
 >> * Introduction, Bobby Stinnette, U.S. Access Board 
 >> * Relevant Standards and Resources 
->>   * Bobby Stinnette, U.S. Access Board 
->>   * Bill Botten, U.S. Access Board 
->>   * Kathy Eng, U.S. Access Board 
+>>   - Bobby Stinnette, U.S. Access Board 
+>>   - Bill Botten, U.S. Access Board 
+>>   - Kathy Eng, U.S. Access Board 
 >> * Enforceable Accessible Medical Equipment Standards  
->>   * Ana Torres-Davis, National Council on Disability (NCD) 
+>>   - Ana Torres-Davis, National Council on Disability (NCD) 
 >> * Designing Inclusive Healthcare Environments 
->>   * Bill Zellmer, Sutter Health Care 
+>>   - Bill Zellmer, Sutter Health Care 
 >> * Communication Access in Healthcare Environments 
->>   * Zainab Alkebsi, National Association of the Deaf 
+>>   - Zainab Alkebsi, National Association of the Deaf 
 >> * Closing Remarks 
 
 > ***Meeting of the U.S. Access Board*** \
@@ -45,7 +45,7 @@ Prior to the event, the Board will hold its regular business meeting from 1:00
 > Dial in: (646) 828-7666 \
 > Contact: <events@access-board.gov> 
 
->> *Agenda*  
+>> _Agenda_  
 >> * Introductory Remarks  
 >> * Executive Director’s Report  
 >> * Standing Committee Reports  
