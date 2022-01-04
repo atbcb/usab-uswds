@@ -143,7 +143,7 @@ Wendy Marshall, Attorney Advisor
 ## Senior Agency Official for Privacy (SAOP)
 
 Christopher J. Kuczynski, Acting General Counsel  
-1-202-272-0042 (voice)
+1-202-272-0042 (voice) \
 <kuczynski@access-board.gov> (email) 
 
 * * * * *
