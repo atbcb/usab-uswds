@@ -142,10 +142,9 @@ Wendy Marshall, Attorney Advisor
 
 ## Senior Agency Official for Privacy (SAOP)
 
-Gretchen Jacobs, General Counsel  
-202-272-0040 (voice)  
-202-272-0062 (TTY)  
-<jacobs@access-board.gov>
+Christopher J. Kuczynski, Acting General Counsel  
+1-202-272-0042 (voice)
+<kuczynski@access-board.gov> (email) 
 
 * * * * *
 
