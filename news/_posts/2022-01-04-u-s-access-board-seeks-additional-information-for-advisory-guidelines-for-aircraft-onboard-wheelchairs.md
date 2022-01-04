@@ -21,4 +21,4 @@ Individuals may submit comments to the Board via any of the following methods:
 > 1331 F Street NW, Suite 1000 \
 > Washington, DC 20004-1111 
 
-For access to the docket to read background documents or comments received, go to [https://www.regulations.gov/ document/ ATBCB-2019-0002-0001](https://www.regulations.gov/document/ATBCB-2019-0002-0001).
+For access to the docket to read background documents or comments received, go to [https://www.regulations.gov/document/ATBCB-2019-0002-0001](https://www.regulations.gov/document/ATBCB-2019-0002-0001).
