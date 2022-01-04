@@ -80,7 +80,7 @@ Washington, DC  2004-1111 \
 
 Fax number:  1-202-272-0081  
 
-E-mail address:  quality@access-board.gov.  
+E-mail address: <quality@access-board.gov>  
 
 The Information Quality Officer within the Office of General Counsel is responsible for reviewing complaints and making a decision for the agency.
 
