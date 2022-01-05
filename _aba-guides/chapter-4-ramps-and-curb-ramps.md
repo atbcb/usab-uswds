@@ -51,7 +51,7 @@ In employee work areas, ramps on common use circulation paths are permitted exce
 
 The height of runs is limited (30” max.), but there is no limit on the number of runs a ramp may have. Long ramps with many runs can be strenuous for people using manual wheelchairs.  While intermediate landings offer resting points, they do not reduce the amount of effort that must be exerted to negotiate multiple runs.
 
-Landings
+### Landings
 
 [[§405.7]({{ site.baseurl }}/aba/#aba-405_7)]
 
