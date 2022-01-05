@@ -20,7 +20,7 @@ accessible routes with running slopes steeper than 5% also must be
 treated as ramps.
 
 #### Ramp Requirements 
-[[§405]({{ site.baseurl }}/ada/ada-405)
+[[§405]({{ site.baseurl }}/ada/ada-405)]
 
 ![Ramp with landings. Notes: Clear Width (§405.5) 36" min. (between
 leading edge of handrails) Handrails (§405.8) on both sides if rise
