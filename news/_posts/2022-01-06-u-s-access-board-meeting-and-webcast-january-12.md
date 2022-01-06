@@ -9,17 +9,22 @@ All are welcome to attend the next bimonthly meeting of the U.S. Access Board, w
 
 Members of the public may attend the meeting through the [Zoom.gov platform](http://www.zoomgov.com/j/1609418629) or by phone (listen-only mode). For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)
 
-***Meeting of the U.S. Access Board*** 
-January 12, 2022, 1:00 – 2:00 p.m. (ET)
-Meeting link: [www.zoomgov.com/j/1609418629](https://www.zoomgov.com/j/1609418629)
-Meeting ID: 160 941 8629
-Dial in: (646) 828-7666
-Contact: [events@access-board.gov](mailto:events@access-board.gov)
+> ***Meeting of the U.S. Access Board***
+>  
+> January 12, 2022, 1:00 – 2:00 p.m. (ET)
+> 
+> Meeting link: [www.zoomgov.com/j/1609418629](https://www.zoomgov.com/j/1609418629)
+> 
+> Meeting ID: 160 941 8629
+> 
+> Dial in: (646) 828-7666
+> 
+> Contact: [events@access-board.gov](mailto:events@access-board.gov)
 
 *Agenda*
 
-* Introductory Remarks
-* Executive Director&#39;s Report
-* Standing Committee Reports
-* Ad Hoc Committee Reports
-* New Business
+Introductory Remarks \
+Executive Director&#39;s Report \
+Standing Committee Reports \
+Ad Hoc Committee Reports \
+New Business
