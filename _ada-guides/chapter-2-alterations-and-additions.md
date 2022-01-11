@@ -6,8 +6,9 @@ file-description: PDF version of Chapter 2 Alterations Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-2-alterations-and-additions/
 ---
+{% include sr-dimension-markings.html %}
 
-This guide provides an introduction to the scoping requirements that form the basis for the Department of Justice's [2010 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) and the Department of Transportation\'s ADA
+This guide provides an introduction to the scoping requirements that form the basis for the Department of Justice's [2010 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) and the Department of Transportation\'s ADA
 Standards and is not intended to be comprehensive or used as a stand-alone technical guide to those requirements. Users of this guide must familiarize themselves with the specific scoping requirements that apply to each element, building, facility, or site that is subject to the Standards adopted to implement titles II and III of the ADA. See the introduction to the guide on "ADA Scoping: New Construction" for further discussion.
 
 ### General
@@ -93,7 +94,7 @@ text= "Compliant fire alarm systems are required only in alterations where fire 
 img-file= "chapter2-ada/a9.jpg"
 img-alt= "ramp symbol"
 text-title= "Ramps"
-text= "Slightly steeper running slopes are permitted for short ramps (maximum 6\" rise) where space is limited (§405.2, Ex.)."
+text= "Slightly steeper running slopes are permitted for short ramps (maximum 6&Prime; rise) where space is limited (§405.2, Ex.)."
 %}
 
 {% include grid-2col-leftimg-righttext.html
@@ -131,7 +132,7 @@ infeasible include:
     components of the structural frame, including structural
     reinforcement of the floor slab.
 
- 
+
 
 ### Alterations Affecting Primary Function Areas
 

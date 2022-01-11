@@ -6,6 +6,8 @@ file-description: PDF version of Chapter 2 New Construction Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-2-new-construction/
 ---
+{% include sr-dimension-markings.html %}
+
 This guide provides an introduction to the scoping
 requirements that form the basis for the Department of Justice's [2010
 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) and the
@@ -118,7 +120,7 @@ and to other employee areas not used for work
 purposes]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc5.jpg){: .img-large}
 
 <div class="border" style="background-color: #deecf7; padding: 10px;">
-<h4>Exception Based on Structural Impracticability in DOJ's 2010 ADA Standards and DOT"s ADA Regulations</h4>
+<h4>Exception Based on Structural Impracticability in DOJ's 2010 ADA Standards and DOT's ADA Regulations</h4>
 
 <p>DOJ’s 2010 ADA Standards and DOT's ADA regulations specify that full compliance is not required in new construction in rare circumstances where unique characteristics of terrain make the incorporation of accessibility features “structurally impracticable.” In such a case, the new construction requirements apply except where the responsible entity can demonstrate that it is structurally impracticable to meet those requirements. This exception is very narrow and should not be used in cases of merely hilly terrain.</p>
 
@@ -162,7 +164,7 @@ text2= "Examples: life guard stands, fire towers, and prison guard towers"
 {% include grid-2col-leftimg-righttextstditalic.html
 img-file= "chapter2-ada/nc8.jpg"
 img-alt= "boiler"
-text= "Employee work areas under 300 s.f. that are elevated at least 7\" as an
+text= "Employee work areas under 300 s.f. that are elevated at least 7&Prime; as an
 essential functional condition of the space (excluding raised courtroom
 stations)"
 text2= "Example: Work areas with equipment/ machinery that must be operated
@@ -273,7 +275,7 @@ International Building Code.
 **Access for Approach, Entry, and Exit**
 
 ![Doorway to office illustrates access for approach, entry, and exit to
-employee work area. Figure notes: Wheelchair space (30" x 48" min.) in
+employee work area. Figure notes: Wheelchair space (30 inches by 48 inches minimum) in
 the work area Accessible entry door/ gate (including maneuvering
 clearances on the exterior) Connecting accessible route and accessible
 means of egress Wiring must be designed to allow later installation of
@@ -335,7 +337,7 @@ img-file2= "chapter2-ada/nc9.jpg"
 img-alt2= "structure with ladder"
 img-file3= "chapter2-ada/nc8.jpg"
 img-alt3= "boiler"
-text= "Portions of common use circulation paths serving exempt spaces within a work area are not required to comply, including routes to or within: <ul><li>machinery spaces used only by service personnel;</li><li>spaces accessed only by ladders, catwalks, crawl spaces, or very narrow passageways;</li><li>employee work areas under 300 sq. ft. that are elevated at least 7\" as an essential functional condition of the space (excluding raised courtroom stations)</li><li>and other exempted spaces.</li></ul>"
+text= "Portions of common use circulation paths serving exempt spaces within a work area are not required to comply, including routes to or within: <ul><li>machinery spaces used only by service personnel;</li><li>spaces accessed only by ladders, catwalks, crawl spaces, or very narrow passageways;</li><li>employee work areas under 300 sq. ft. that are elevated at least 7&Prime; as an essential functional condition of the space (excluding raised courtroom stations)</li><li>and other exempted spaces.</li></ul>"
 %}
 
 ### Wiring for Visible Alarms

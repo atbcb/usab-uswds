@@ -550,6 +550,18 @@ a.style-inherit:focus>div.gray-to-color {
   color: black;
 }
 
+//info for screen readers only
+.sr-only {
+  border: 0; 
+  clip: rect(0 0 0 0); 
+  height: 1px; 
+  margin: -1px;
+  overflow: hidden;
+  padding: 0;
+  position: absolute;
+  width: 1px;
+}
+
 //filmstrip
 .filmstrip {
   background: repeating-linear-gradient(45deg, #ffe11a, #ffe11a 50%, #fd7400 50%, #fd7400);
