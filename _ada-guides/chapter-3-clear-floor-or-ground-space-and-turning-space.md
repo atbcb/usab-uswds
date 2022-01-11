@@ -6,9 +6,11 @@ file-description: PDF version of Chapter 3 Clear Floor Space Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-3-clear-floor-or-ground-space-and-turning-space/
 ---
+{% include sr-dimension-markings.html %}
+
 This guide explains requirements in the [ADA
 Standards]({{ site.baseurl }}/ada/) for clear floor or ground space and
-turning space. Clearances are required at accessible elements, fixtures,
+turning space. Clearances are required at accessible elements, fixtures,
 and controls so that people with disabilities, including those who use
 wheelchairs, can approach and use them. The standards also address
 maneuvering space for wheelchair turning. Provisions throughout the
@@ -72,7 +74,7 @@ text= "Centering the clear floor or ground space on elements is often advisable 
       <p>The minimum size (30” by 48”) applies whether the space is positioned for forward or side approaches. Additional space is required when the space is confined on three sides and is obstructed for more than half the depth, such as when elements are recessed in alcoves.</p>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs6.jpg" alt="clear floor space for forward approach 48 inches long min. and 30 inches min wide (or 36 inches min. wide if located in alcove and obstructed on both sides more than 24 inches">
+      <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs6.jpg" alt="clear floor space for forward approach 48 inches long minimum and 30 inches min wide (or 36 inches minimum wide if located in alcove and obstructed on both sides more than 24 inches">
     </div>
   </div>
 </div>
@@ -83,7 +85,7 @@ text= "Centering the clear floor or ground space on elements is often advisable 
 
 Where the space is obstructed on both sides for more than half the depth, additional clearance is required for maneuvering. Accessible routes must connect to the unobstructed side of the space.
 
-![clear floor space for side approach 60\" long min. located in alcove and obstructed on both sides more than 15\"]({{ site.base.url }}{{ page.image-directory }}chapter3/3cfs7.jpg){: .img-large}
+![clear floor space for side approach 60 inches long minimum located in alcove and obstructed on both sides more than 15 inches]({{ site.base.url }}{{ page.image-directory }}chapter3/3cfs7.jpg){: .img-large}
 
 ### Knee and Toe Space
 
@@ -112,7 +114,7 @@ using wheelchairs can pull up to them.
 
 {% include grid-2col-largeleftimg-righttext.html
 img-file= "chapter3/3cfs10.jpg"
-img-alt= "Knee and toe space 30 inches wide min. and 25 inches deep max. (no protrusions into minimum space permitted other than dip of overflow)"
+img-alt= "Knee and toe space 30 inches wide minimum and 25 inches deep maximum (no protrusions into minimum space permitted other than dip of overflow)"
 text-title= ""
 text= "Knee and toe space must be at least 30” wide and up to 25” deep measured to the leading edge of the clear floor space.  The specifications allow space for plumbing, enclosures, and supports outside the minimum clearances.  No object can protrude into the required clearances (other than the dip of the overflow at lavatories and sinks)."
 %}
@@ -127,7 +129,7 @@ text= "Knee and toe space must be at least 30” wide and up to 25” deep measu
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs11.jpg" alt="drinking fountain, lavatory/sink, and dining surface icons">
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full"  src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs12.jpg" alt="Person using wheelchair reaching over counter with knee and toe space that is 17 inches deep min.">
+      <img class="img-full"  src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs12.jpg" alt="Person using wheelchair reaching over counter with knee and toe space that is 17 inches deep minimum">
     </div>
   </div>
 </div>
@@ -136,7 +138,7 @@ text= "Knee and toe space must be at least 30” wide and up to 25” deep measu
 
 {% include grid-2col-largeleftimg-righttext.html
 img-file= "chapter3/3cfs13.jpg"
-img-alt= "Person using wheelchair shown reaching over counter with reach depth 25 inches max. from the leading edge and the knee and toe space below equal or greter than the reach depth (25 inches max.)"
+img-alt= "Person using wheelchair shown reaching over counter with reach depth 25 inches maximum from the leading edge and the knee and toe space below equal or greter than the reach depth (25 inches maximum)"
 text-title= ""
 text= "At any element, the knee and toe space must be as deep as the required reach to operable parts. This facilitates access since a forward reach does not extend far beyond the toes. Both the reach depth and the knee and toe space depth are limited to 25” measured from the leading edge of obstructions. Space beyond this depth is not usable."
 %}
@@ -145,14 +147,14 @@ text= "At any element, the knee and toe space must be as deep as the required re
 
 {% include grid-2col-largeleftimg-righttext.html
 img-file= "chapter3/3cfs14.jpg"
-img-alt= "Toe space 9 inches high and 6 inches deep max. and knee space that slopes up 18 inches from a 9 inch height to a 27 inche height over a 3 inche span and is 8 inches deep at a full height of 27 inches (for a total depth of 11 inches for knee and 17 inches including the 6 inch toe space)"
+img-alt= "Toe space 9 inches high and 6 inches deep maximum and knee space that slopes up 18 inches from a 9 inch height to a 27 inche height over a 3 inche span and is 8 inches deep at a full height of 27 inches (for a total depth of 11 inches for knee and 17 inches including the 6 inch toe space)"
 text-title= ""
 text= "<p>Where knee and toe space is required at an element, it must be at least 17” deep.</p><p>Beyond a depth of 8” measured from the leading edge, the 27” minimum high knee clearance can reduce 18” (to the 9” toe space) over a 3” span.</p>"
 %}
 
 {% include grid-2col-largeleftimg-righttext.html
 img-file= "chapter3/3cfs15.jpg"
-img-alt= "Knee and toe space 25 inches deep max. with the additional depth (above the 17 inch min.) providing full knee clearance"
+img-alt= "Knee and toe space 25 inches deep maximum with the additional depth (above the 17 inch minimum) providing full knee clearance"
 text-title= ""
 text= "When the knee and toe depth exceeds the 17” minimum, the additional space must provide full knee clearance at least 27” high. "
 %}
@@ -186,8 +188,8 @@ degree turn around an obstruction less than 48" wide is required
 
 #### Clear Width at 180 Degree Turn Around a Narrow Obstruction
 
-![Turning space at obstructions less than 48\" long require a clearance
-of 60\" min. (or 48\" min. if both connecting routes are 42\" min.
+![Turning space at obstructions less than 48 inches long require a clearance
+of 60 inches minimum (or 48 inches minimum if both connecting routes are 42 inches minimum
 wide)]({{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs16.jpg){: .img-large}
 
 {% include recommendation.html
@@ -219,12 +221,12 @@ with knee and toe space can overlap a portion of the turning space.
 
 #### Circular Turning Space
 
-![Sink with knee and toe space overlapping portion of 60\" min. diameter
+![Sink with knee and toe space overlapping portion of 60 inches minimum diameter
 turning
 circle]({{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs20.jpg){: .img-large}
 
 {% include recommendation.html
-text= "To provide easier access, locate elements with knee and toe space outside the turning space or, with circular space, limit overlap to approximately 12\" so that wheelchair space 48\" long minimum remains clear."
+text= "To provide easier access, locate elements with knee and toe space outside the turning space or, with circular space, limit overlap to approximately 12&Prime; so that wheelchair space 48&Prime; long minimum remains clear."
 %}
 
 #### T-Shaped Turning Space
@@ -232,8 +234,8 @@ text= "To provide easier access, locate elements with knee and toe space outside
 T-shaped space can be configured for approach on any segment (stem or
 either arm).
 
-![T-shaped turning space with overall width of 60\" min. and overall
-depth of 60\" min. with each arm and stem 36\" wide min. Object with
+![T-shaped turning space with overall width of 60 inches minimum and overall
+depth of 60 inches minimum with each arm and stem 36 inches wide minimum Object with
 knee and toe space, such as a sink, can overlap only one segment of the
 the T; the other 2 segments must be clear for approach and backing
 up.]({{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs21.jpg){: .img-large}
