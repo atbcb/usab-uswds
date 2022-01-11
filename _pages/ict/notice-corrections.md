@@ -7,7 +7,7 @@ permalink: /ict/notice-corrections.html
 
 # {( page.title }}
 
-Published in the [Federal Register](https://www.federalregister.gov/d/2018-00848) on January 22, 2018.
+Published in the [Federal Register](https://www.federalregister.gov/d/2018-00848) on January 22, 2018.
 
 36 CFR Part 1194  
 \[Docket No. ATBCB-2015-0002]  
@@ -19,20 +19,20 @@ RIN 3014-AA37
 
 **ACTION:**  Direct final rule; request for comments.
 
-**SUMMARY:**  The Architectural and Transportation Barriers Compliance Board (we, Access Board, or Board) is issuing this direct final rule to amend its regulations addressing accessibility requirements for information and communication technology to correct several inadvertent drafting errors in a [final rule](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule) published in the **Federal Register** on January 18, 2017. Specifically, this direct final rule corrects two typographical errors and the unintentional deletion of longstanding requirements for TTY compatibility and functionality that have been in place for nearly two decades. These minor amendments neither establish new substantive accessibility requirements, nor impose any costs on regulated entities. The Access Board is issuing these amendments directly as a final rule because we believe they are noncontroversial, unlikely to receive adverse comment, and will prevent confusion.
+**SUMMARY:**  The Architectural and Transportation Barriers Compliance Board (we, Access Board, or Board) is issuing this direct final rule to amend its regulations addressing accessibility requirements for information and communication technology to correct several inadvertent drafting errors in a [final rule](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/final-rule) published in the **Federal Register** on January 18, 2017. Specifically, this direct final rule corrects two typographical errors and the unintentional deletion of longstanding requirements for TTY compatibility and functionality that have been in place for nearly two decades. These minor amendments neither establish new substantive accessibility requirements, nor impose any costs on regulated entities. The Access Board is issuing these amendments directly as a final rule because we believe they are noncontroversial, unlikely to receive adverse comment, and will prevent confusion.
 
-**DATE:**  This direct final rule is effective March 23, 2018, without further action, unless adverse comment is received by February 21, 2018. If timely adverse comment is received, the Access Board will publish a notification of withdrawal of the rule in the Federal Register before the effective date. Such notification may withdraw the direct final rule in whole or in part.
+**DATE:**  This direct final rule is effective March 23, 2018, without further action, unless adverse comment is received by February 21, 2018. If timely adverse comment is received, the Access Board will publish a notification of withdrawal of the rule in the Federal Register before the effective date. Such notification may withdraw the direct final rule in whole or in part.
 
-**ADDRESSES:** Submit comments by any one of the following methods:
+**ADDRESSES:** Submit comments by any one of the following methods:
 
--   Federal eRulemaking Portal: [www.regulations.gov](https://www.regulations.gov/document?D=ATBCB-2015-0002-0146).  Follow the instructions for submitting comments.  The identifier for this docket is ATBCB-2015-0002.
--   Email: <docket@access-board.gov>.  Include ATBCB-2015-0002 in the subject line of the message.
+-   Federal eRulemaking Portal: [www.regulations.gov](https://www.regulations.gov/document?D=ATBCB-2015-0002-0146).  Follow the instructions for submitting comments.  The identifier for this docket is ATBCB-2015-0002.
+-   Email: <docket@access-board.gov>.  Include ATBCB-2015-0002 in the subject line of the message.
 -   Facsimile:  202-272-0081.
 -   Mail/Hand Delivery/Courier:  Office of Technical and Information Services, Access Board, 1331 F Street NW, Suite 1000, Washington, DC  20004-1111
 
-All comments, including any personal information provided, will be posted without change to <http://regulations.gov> and available for public viewing.
+All comments, including any personal information provided, will be posted without change to <http://regulations.gov> and available for public viewing.
 
-**FOR FURTHER INFORMATION CONTACT:** Timothy Creagan, Access Board, 1331 F Street NW, Suite 1000, Washington, DC  20004-1111. Telephone: 202-272-0016 (voice) or 202-272-0074 (TTY). Or Bruce Bailey, Access Board, 1331 F Street NW, Suite 1000, Washington, DC  20004-1111. Telephone: 202-272-0024 (voice) or 202-272-0070 (TTY). E-mail: <508@access-board.gov>.
+**FOR FURTHER INFORMATION CONTACT:** Timothy Creagan, Access Board, 1331 F Street NW, Suite 1000, Washington, DC  20004-1111. Telephone: 202-272-0016 (voice) or 202-272-0074 (TTY). Or Bruce Bailey, Access Board, 1331 F Street NW, Suite 1000, Washington, DC  20004-1111. Telephone: 202-272-0024 (voice) or 202-272-0070 (TTY). E-mail: <508@access-board.gov>.
 
 ### SUPPLEMENTARY INFORMATION:
 
@@ -44,19 +44,19 @@ Section 255 of the Communications Act of 1934 (hereafter, "Section 255"), as ame
 
 #### Purpose of Direct Final Rule
 
-On January 18, 2017, the Access Board published a final rule in the *Federal Register* (82 FR 5790) (hereafter, "ICT Final Rule"), which revised and updated -- in a single rulemaking -- the standards for Section 508-covered ICT developed, procured, maintained, or used by Federal agencies (hereafter, "508 Standards"), as well as the guidelines for telecommunications equipment and customer premises equipment covered by Section 255 (hereafter, "255 Guidelines"). Because nearly two decades had passed since the original issuance of our then-existing 508 Standards and 255 Guidelines, the ICT Final Rule was aimed at "refreshing" these regulations by, among other things, addressing changing technology and harmonizing with ICT accessibility standards that had been developed worldwide in recent years.
+On January 18, 2017, the Access Board published a final rule in the *Federal Register* (82 FR 5790) (hereafter, "ICT Final Rule"), which revised and updated -- in a single rulemaking -- the standards for Section 508-covered ICT developed, procured, maintained, or used by Federal agencies (hereafter, "508 Standards"), as well as the guidelines for telecommunications equipment and customer premises equipment covered by Section 255 (hereafter, "255 Guidelines"). Because nearly two decades had passed since the original issuance of our then-existing 508 Standards and 255 Guidelines, the ICT Final Rule was aimed at "refreshing" these regulations by, among other things, addressing changing technology and harmonizing with ICT accessibility standards that had been developed worldwide in recent years.
 
 Subsequently, we discovered several small drafting errors in the ICT Final Rule. These errors included a few typographical errors and the inadvertent deletion of then-existing provisions that require telecommunications products and systems with two-way voice communication capabilities to also provide TTY compatibility and functionality. By this rule, the Access Board corrects these typographical errors and restores mistakenly deleted TTY requirements for ICT with two-way voice communication, albeit with slightly updated organization and wording (with no change in substance) for consistency with the ICT Final Rule.
 
 The Access Board is publishing this direct final rule without prior notice and comment. The Administrative Procedure Act permits agencies to publish final rules without prior notice and comment when, for good cause, they determine such procedures are unnecessary. See 5 U.S.C. 553(b)(B). We view the minor, technical corrections in this rule as noncontroversial and do not anticipate adverse comment. Moreover, the public interest is best served by having these corrections without delay to prevent confusion concerning these errors in the ICT Final Rule and ensure that there are no gaps in accessibility requirements for ICT covered by Sections 508 or 255. Accordingly, there is good cause for waiver of prior notice and comment.
 
-This direct final rule will take effect on the specified effective date, without further action, unless the Access Board receives adverse comment within the comment period. We consider an adverse comment to be a comment that challenges the propriety of the rule or asserts that it would be ineffective or unacceptable without material change. If the Access Board receives timely adverse comment, we will publish a notification in the **Federal Register** announcing full or partial withdrawal of this rule. If an adverse comment applies only to one part of this direct final rule, and it is possible to withdraw that part without defeating the purpose of the remaining parts of the rule, we may adopt, as final, those parts of this rule that received no adverse comment. Should the Access Board withdraw this rule due to adverse comment (in whole in part), we may subsequently incorporate such comment(s) into another direct final rule or publish a notice of proposed rulemaking.
+This direct final rule will take effect on the specified effective date, without further action, unless the Access Board receives adverse comment within the comment period. We consider an adverse comment to be a comment that challenges the propriety of the rule or asserts that it would be ineffective or unacceptable without material change. If the Access Board receives timely adverse comment, we will publish a notification in the **Federal Register** announcing full or partial withdrawal of this rule. If an adverse comment applies only to one part of this direct final rule, and it is possible to withdraw that part without defeating the purpose of the remaining parts of the rule, we may adopt, as final, those parts of this rule that received no adverse comment. Should the Access Board withdraw this rule due to adverse comment (in whole in part), we may subsequently incorporate such comment(s) into another direct final rule or publish a notice of proposed rulemaking.
 
 ### Discussion of Changes
 
 #### A. Administrative Corrections
 
-This direct final rule remedies two typographical errors on the ICT Final Rule.  First,the table of contents for appendix A to part 1194 (Section 508 of the Rehabilitation Act: Application and Scoping Requirements) incorrectly lists the title of E205 as "Content."  The correct title for this section is "Electronic Content."  In this rule, we correct this error by inserting the word "Electronic" before "Content" in the table of contents entry for E205 in appendix A.  Second, also in appendix A to part 1194, there is a mistaken cross-reference in E202.6, Undue Burden or Fundamental Alteration.  E202.6 currently reads, in pertinent part: "Where an agency determines in accordance with E202.5 that conformance to requirements in the Revised 508 Standards would impose an undue burden of would result in a fundamental alternation in the nature of the ICT ..." (emphasis added). This text should instead refer to E202.6.  This direct final rule revises the cross-reference in the first sentence of E202.6 from "E202.5" to "E202.6."
+This direct final rule remedies two typographical errors on the ICT Final Rule.  First,the table of contents for appendix A to part 1194 (Section 508 of the Rehabilitation Act: Application and Scoping Requirements) incorrectly lists the title of E205 as "Content."  The correct title for this section is "Electronic Content."  In this rule, we correct this error by inserting the word "Electronic" before "Content" in the table of contents entry for E205 in appendix A.  Second, also in appendix A to part 1194, there is a mistaken cross-reference in E202.6, Undue Burden or Fundamental Alteration.  E202.6 currently reads, in pertinent part: "Where an agency determines in accordance with E202.5 that conformance to requirements in the Revised 508 Standards would impose an undue burden of would result in a fundamental alternation in the nature of the ICT ..." (emphasis added). This text should instead refer to E202.6.  This direct final rule revises the cross-reference in the first sentence of E202.6 from "E202.5" to "E202.6."
 
 #### B. Restoration of TTY-Related Accessibility Requirements
 
@@ -169,15 +169,15 @@ EXCEPTION: Components of telecommunications equipment and customer premises equi
 
 \* * * * *
 
-412.8 *Legacy TTY Support*. ICT equipment or systems with two-way voice communication that do not themselves provide TTY functionality shall conform to 412.8.
+412.8 *Legacy TTY Support*. ICT equipment or systems with two-way voice communication that do not themselves provide TTY functionality shall conform to 412.8.
 
-412.8.1 *TTY Connectability.* ICT shall include a standard non-acoustic connection point for TTYs.
+412.8.1 *TTY Connectability.* ICT shall include a standard non-acoustic connection point for TTYs.
 
-412.8.2 *Voice and Hearing Carry Over.* ICT shall provide a microphone capable of being turned on and off to allow the user to intermix speech with TTY use.
+412.8.2 *Voice and Hearing Carry Over.* ICT shall provide a microphone capable of being turned on and off to allow the user to intermix speech with TTY use.
 
-412.8.3 *Signal Compatibility*. ICT shall support all commonly used cross-manufacturer non-proprietary standard TTY signal protocols where the system interoperates with the Public Switched Telephone Network (PSTN).
+412.8.3 *Signal Compatibility*. ICT shall support all commonly used cross-manufacturer non-proprietary standard TTY signal protocols where the system interoperates with the Public Switched Telephone Network (PSTN).
 
-412.8.4 *Voice Mail and Other Messaging Systems.* Where provided, voice mail, auto-attendant, interactive voice response, and caller identification systems shall be usable with a TTY.
+412.8.4 *Voice Mail and Other Messaging Systems.* Where provided, voice mail, auto-attendant, interactive voice response, and caller identification systems shall be usable with a TTY.
 
 \* * * * *
 

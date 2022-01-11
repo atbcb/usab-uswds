@@ -12,7 +12,7 @@ permalink: /prowag/detectable-warnings-update.html
 
 **ADA and ABA Accessibility Standards**
 
-Standards issued under the Americans with Disabilities Act (ADA) include requirements for detectable warnings, as do similar standards issued under the Architectural Barriers Act (ABA) for federally funded facilities. Specifications in the [ADA Standards]({{ site.baseurl }}/ada/) and the [ABA Standards]({{ site.baseurl }}/aba/) address spacing, height, and diameter of truncated domes to ensure a distinctive yet uniform texture to the warning surface (§705). They also require that detectable warning surfaces contrast visually with adjacent walking surfaces either light-on-dark, or dark-on-light. Detectable warnings are required on curb ramps at certain transportation facilities and at rail station boarding platforms with unprotected drop-offs.
+Standards issued under the Americans with Disabilities Act (ADA) include requirements for detectable warnings, as do similar standards issued under the Architectural Barriers Act (ABA) for federally funded facilities. Specifications in the [ADA Standards]({{ site.baseurl }}/ada/) and the [ABA Standards]({{ site.baseurl }}/aba/) address spacing, height, and diameter of truncated domes to ensure a distinctive yet uniform texture to the warning surface (§705). They also require that detectable warning surfaces contrast visually with adjacent walking surfaces either light-on-dark, or dark-on-light. Detectable warnings are required on curb ramps at certain transportation facilities and at rail station boarding platforms with unprotected drop-offs.
 
 *Curb Ramps: Public Transportation Facilities*
 
@@ -26,16 +26,16 @@ Other types of facilities covered by the ADA are subject to standards issued by 
 
 **Proposed Guidelines for Accessible Public Rights-of-Way**
 
-| **![Proposed rights-of-way guidelines and pedestrian icon](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/dw-update/dw4.jpg)**  |
-|  ![Detectable warning dome specifications (base diameter .9" - 1.4", top 50% - 65% of base diameter, height 0.2") and dome space (.65" min. separation at base and 1.6" - 2.4" center-to-center spacing)](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/dw-update/dw5.jpg) |
+| **![Proposed rights-of-way guidelines and pedestrian icon](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/dw-update/dw4.jpg)**  |
+|  ![Detectable warning dome specifications (base diameter .9" - 1.4", top 50% - 65% of base diameter, height 0.2") and dome space (.65" min. separation at base and 1.6" - 2.4" center-to-center spacing)](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/dw-update/dw5.jpg) |
 |
 
 *The proposed rights-of-way guidelines, like the ADA and ABA Standards, address dome size, truncation, and spacing.*
 
  |
-|  ![DOT logo](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/dw-update/dw6.jpg) |
+|  ![DOT logo](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/dw-update/dw6.jpg) |
 
-The Access Board is developing new accessibility guidelines for public rights-of-ways. These guidelines will address newly constructed and altered public streets, sidewalks, and shared use paths covered by the ADA and, in the case of those that are federally funded, the ABA. In 2011, the Board released for public comment [proposed guidelines]({{ site.baseurl }}/prowag/) which address pedestrian access to sidewalks and streets, including crosswalks, curb ramps, street furnishings, pedestrian signals, parking, and other components of public rights-of-way.
+The Access Board is developing new accessibility guidelines for public rights-of-ways. These guidelines will address newly constructed and altered public streets, sidewalks, and shared use paths covered by the ADA and, in the case of those that are federally funded, the ABA. In 2011, the Board released for public comment [proposed guidelines]({{ site.baseurl }}/prowag/) which address pedestrian access to sidewalks and streets, including crosswalks, curb ramps, street furnishings, pedestrian signals, parking, and other components of public rights-of-way.
 
 *Proposed Requirements for Detectable Warnings*
 
@@ -55,22 +55,22 @@ The Board is currently finalizing the guidelines for public rights-of-way and sh
 
 *Projects Funded by the Federal Highway Administration*
 
-The Federal Highway Administration (FHWA) also encourages the provision of detectable warnings on curb ramps and blended transitions in projects it funds. This policy is established in a FHWA [memorandum](https://www.fhwa.dot.gov/environment/bicycle_pedestrian/resources/dwm.cfm).
+The Federal Highway Administration (FHWA) also encourages the provision of detectable warnings on curb ramps and blended transitions in projects it funds. This policy is established in a FHWA [memorandum](https://www.fhwa.dot.gov/environment/bicycle_pedestrian/resources/dwm.cfm).
 
 **Further Information**
 
-Further guidance on accessible public rights-of-way and detectable warnings is available from the Access Board at (800) 872-2253 (v), (800) 993-2822 (TTY), or <row@access-board.gov>.
+Further guidance on accessible public rights-of-way and detectable warnings is available from the Access Board at (800) 872-2253 (v), (800) 993-2822 (TTY), or <row@access-board.gov>.
 
 *Related Board Resources*
 
--   [Proposed Guidelines for Public Rights-of-Ways]({{ site.baseurl }}/prowag/) (2011)
--   [Supplemental Notice of Proposed Rulemaking on Shared Use Paths]({{ site.baseurl }}/prowag/) (2013)
+-   [Proposed Guidelines for Public Rights-of-Ways]({{ site.baseurl }}/prowag/) (2011)
+-   [Supplemental Notice of Proposed Rulemaking on Shared Use Paths]({{ site.baseurl }}/prowag/) (2013)
 -   [List of Detectable Warning Manufacturers](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/manufacturers-of-detectable-warning-products)
--   [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments](https://www.access-board.gov/research/completed-research/visual-detection-of-detectable-warning-materials) (Board funded research)
+-   [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments](https://www.access-board.gov/research/completed-research/visual-detection-of-detectable-warning-materials) (Board funded research)
 
 *Other Resources*
 
--   Department of Transportation [www.fta.dot.gov](http://www.fta.dot.gov/) (888) 446-4511 (voice/relay)
--   FHWA [memorandum](https://www.fhwa.dot.gov/environment/bicycle_pedestrian/resources/dwm.cfm) on compliance with detectable warning requirements (May 2002)
--   Department of Justice [www.ada.gov](http://www.ada.gov/) (800) 514-0301 (voice) (800) 514-0383 (TTY)
--   Accessible Design for the Blind [www.accessforblind.org](http://www.accessforblind.org/) (978) 838-2307
+-   Department of Transportation [www.fta.dot.gov](http://www.fta.dot.gov/) (888) 446-4511 (voice/relay)
+-   FHWA [memorandum](https://www.fhwa.dot.gov/environment/bicycle_pedestrian/resources/dwm.cfm) on compliance with detectable warning requirements (May 2002)
+-   Department of Justice [www.ada.gov](http://www.ada.gov/) (800) 514-0301 (voice) (800) 514-0383 (TTY)
+-   Accessible Design for the Blind [www.accessforblind.org](http://www.accessforblind.org/) (978) 838-2307

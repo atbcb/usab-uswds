@@ -6,10 +6,12 @@ file-description: PDF version of Chapter 4 Accessible Routes Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-4-accessible-routes/
 ---
+{% include sr-dimension-markings.html %}
+
 This guide explains scoping and technical requirements for accessible
 routes in the [ADA Standards]({{ site.baseurl }}/ada/).
 
-### Where Required: Site Arrival Points 
+### Where Required: Site Arrival Points 
 
 [[§206.2.1]({{ site.baseurl }}/ada/#ada-206_2_1)]
 
@@ -90,7 +92,7 @@ clear floor space required at accessible
 elements.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar5.jpg){: .img-large}
 
 {% include recommendation.html
-text= "In alterations and additions, an accessible route is required where circulation paths are altered or built (§202.3).  Also, alterations or additions to areas containing a primary function (a major activity for which a facility is intended) require an accessible path of travel that extends to site arrival points to the extent that the additional cost does not exceed 20% (§202.4). Otherwise, if a space or element is altered, but the circulation path to it is not, an accessible route is not required."
+text= "In alterations and additions, an accessible route is required where circulation paths are altered or built (§202.3).  Also, alterations or additions to areas containing a primary function (a major activity for which a facility is intended) require an accessible path of travel that extends to site arrival points to the extent that the additional cost does not exceed 20% (§202.4). Otherwise, if a space or element is altered, but the circulation path to it is not, an accessible route is not required."
 %}
 
 ### Where Required: Multi-Story Buildings and Facilities
@@ -187,7 +189,7 @@ and equivalent services and décor are provided on an accessible level
 
 ### Alterations and Additions
 
-[[§206.2.3.1]({{ site.baseurl }}/ada/#ada-206_2_3_1), [§202.4]({{ site.baseurl }}/ada/#ada-202_4)]
+[[§206.2.3.1]({{ site.baseurl }}/ada/#ada-206_2_3_1), [§202.4]({{ site.baseurl }}/ada/#ada-202_4)]
 
 In alterations and additions to multi-story facilities, an accessible
 route to stories and mezzanines is required where a stair or escalator
@@ -239,12 +241,12 @@ a story and mezzanine.
 
 #### Dining Areas in Restaurants and Cafeterias
 
-  In newly built restaurants and cafeterias, an accessible route must serve all dining areas, including those that are raised or sunken or located outdoors (§206.2.5).  If a story or mezzanine is exempt from the requirement for vertical access, an accessible route within each story or mezzanine is still required to connect dining areas and other spaces and elements even though an elevator (or ramp) does not serve the story or mezzanine.
+  In newly built restaurants and cafeterias, an accessible route must serve all dining areas, including those that are raised or sunken or located outdoors (§206.2.5). If a story or mezzanine is exempt from the requirement for vertical access, an accessible route within each story or mezzanine is still required to connect dining areas and other spaces and elements even though an elevator (or ramp) does not serve the story or mezzanine.
   
-  ![Restaurant dining area]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar14.jpg){: .img-large} 
+  ![Restaurant dining area]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar14.jpg){: .img-large}
 
 {% include recommendation.html
-text= "In alterations, an accessible route is not required to existing raised/ sunken dining areas or to all parts of outdoor dining areas if the same services and decor are available in other dining areas that are accessible (§206.2.5, Ex. 2).  A platform lift (or limited use-limited application elevator) can be used to provide access to such areas in alterations, but not in new construction (§206.7)."
+text= "In alterations, an accessible route is not required to existing raised/ sunken dining areas or to all parts of outdoor dining areas if the same services and decor are available in other dining areas that are accessible (§206.2.5, Ex. 2). A platform lift (or limited use-limited application elevator) can be used to provide access to such areas in alterations, but not in new construction (§206.7)."
 %}
 
 <div style="margin-top: 10px; padding-top: 10px;" class="border">
@@ -261,7 +263,7 @@ An accessible route is required to press boxes except where the
 aggregate area of all press boxes serving a playing field or assembly
 area is no more than 500 sq. ft. if press boxes are either:
 
-- free-standing and elevated above grade at least 12' or
+- free-standing and elevated above grade at least 12&prime; or
 - located in bleachers with points of entry on one level.
 
 <div class="grid-container">
@@ -284,7 +286,7 @@ highlighted."
 text-title= ""
 text= "The 500 sq. ft. maximum applies to the gross floor area,
 including exterior floor space, of all press boxes serving a playing
-field, stadium, or other assembly area.  If a site has multiple assembly
+field, stadium, or other assembly area. If a site has multiple assembly
 areas with press boxes, the aggregate area of press boxes is to be
 calculated separately for each assembly area."
 %}
@@ -312,7 +314,7 @@ New Construction Guide]({{ site.baseurl }}/ada/guides/chapter-2-new-construction
 
 #### Common Use Circulation Paths in Employee Work Areas Over 1,000 SF
 
- ![Large office area with over 15 work station cubicle seen from above.
+![Large office area with over 15 work station cubicle seen from above.
 Notes: The requirement applies to employee work areas that are at least
 1,000 sq. ft. in size as defined by permanently installed partitions,
 counters, casework, or furnishings. Access is required for common use
@@ -333,7 +335,7 @@ use circulation paths must
 comply.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar21.jpg){: .img-large}
 
 <div class="border clearfix" markdown="1" style="padding: 5px;">
-#### Recreation Facilities [§206.2.9 -- §206.2.17]
+#### Recreation Facilities [§206.2.9 to §206.2.17]
 
 ![Golfing icon]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar22.jpg){: .float-right .thumbnail}
 
@@ -352,18 +354,18 @@ ramps, curb ramps, elevators, and, where permitted, platform lifts.
 ![Accessible route extends from ramp to door and elevator. Handrail
 shown along a portion of the route. Notes: Doors, Doorways, and Gates
 (§404). Doors, doorways, and gates along accessible routes and to
-accessible spaces must comply. Vertical Access (§405 - §410) Changes in
-level great than ½" must be spanned by ramps, curb ramps, or elevators.
+accessible spaces must comply. Vertical Access (§405 to §410) Changes in
+level great than ½ inch must be spanned by ramps, curb ramps, or elevators.
 Platform lifts are allowed only in certain specified locations and in
 alterations. Handrails (§403.6) Handrails provided along walking
 surfaces must comply (and are required at most ramps and stairs).
-Limited Changes in Level (§403.4) Changes in level up to ½" must be
-beveled (but can have a vertical edge if ¼" maximum). Walking Surface
+Limited Changes in Level (§403.4) Changes in level up to ½ inch must be
+beveled (but can have a vertical edge if ¼ inch maximum). Walking Surface
 Slope (§403.3) The running slope of walking surfaces cannot exceed 1:20
 (5%), but other components of accessible routes, such as ramps and curb
-ramps, can be more steeply sloped. Cross slopes must be 1:48 max.
-Clearances (§403.5) The continuous clear width must be at least 36" (32"
-min. for short distances, such as doorways), and additional clearances
+ramps, can be more steeply sloped. Cross slopes must be 1:48 maximum
+Clearances (§403.5) The continuous clear width must be at least 36 inches (32 inches
+minimum for short distances, such as doorways), and additional clearances
 are required for passing space and 180⁰ turns around narrow
 obstructions. Surfaces (§403.2) All surfaces of accessible routes must
 be firm, stable, and slip resistant. Carpeting and surface openings,
@@ -374,23 +376,23 @@ where provided, must comply.
 
 [[§403.5]({{ site.baseurl }}/ada/#ada-403_5)]
 
-The minimum 36" continuous clear width of accessible routes can reduce
-to 32" at points, such as doorways, for a maximum distance of 24".
+The minimum 36&Prime; continuous clear width of accessible routes can reduce
+to 32&Prime; at points, such as doorways, for a maximum distance of 24&Prime;.
 Greater clearance is required for 180 degree turns around narrow
 obstructions and for wheelchair turning space. The minimum clearance
 cannot be reduced by any elements, including handrails or protruding
 objects.
 
-![Plan view or route shown to be 36" wide min. with areas that are 32"
-wide min. that are 24" long max. and separated by 48"
-min.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar24.jpg){: .img-large}
+![Plan view or route shown to be 36 inches wide minimum with areas that are 32 inches
+wide minimum that are 24 inches long maximum and separated by 48 inches
+minimum]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar24.jpg){: .img-large}
 
 #### 180 Turns Around Obstructions
 
 Additional clearance is required at 180 degree turns around an element
-that is less than 48" wide. The clear width must be at least 48" at the
-turn and 42" minimum approaching the turn (unless the clear width at the
-turn is 60" minimum).
+that is less than 48&Prime; wide. The clear width must be at least 48&Prime; at the
+turn and 42&Prime; minimum approaching the turn (unless the clear width at the
+turn is 60&Prime; minimum).
 
 ![Two alternative plan views are shown of an accessible route that has a
 180 degree turn about an object less than 48 inches wide. In one figure,
@@ -404,15 +406,15 @@ turn.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar25.jpg){: .img-la
 
 [[§403.5.3]({{ site.baseurl }}/ada/#ada-403_5_3)]
 
-Passing space is required every 200 feet and must be provided as a 60"
-by 60" minimum space or as T-shaped space where each stem is at least
-48" long.
+Passing space is required every 200 feet and must be provided as a 60&Prime;
+by 60&Prime; minimum space or as T-shaped space where each stem is at least
+48&Prime; long.
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4ar26.jpg" alt="Two people using wheelchairs passing in corridor with 60 inches by 60 inches passing space shown.">
-      <span class="grid-line bold">60” Min. by 60” Min. Passing Space</span>
+      <span class="grid-line bold">60&Prime; Minimum by 60&Prime; Minimum Passing Space</span>
     </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4ar27.jpg" alt="T-shaped passing space in corridor with each stem at least 48 inches long measured from the intersection. ">
@@ -425,7 +427,7 @@ by 60" minimum space or as T-shaped space where each stem is at least
 
 [[§403.6]({{ site.baseurl }}/ada/#ada-403_6)]
 
-Handrails are required at ramps with a rise greater than 6" and at
+Handrails are required at ramps with a rise greater than 6&Prime; and at
 stairs that are part of a means of egress, but not at other locations.
 Where handrails are provided along other portions walking surfaces, they
 must comply. (Handrails provided in elevator cabs or on platform lifts
@@ -435,7 +437,7 @@ are not required to comply).
 
 ![Corridor with doorway and adjacent handrail.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar28.jpg){: .img-right .img-medium}
 
-- 34" to 38" high measured to the top of the gripping
+- 34&Prime; to 38&Prime; high measured to the top of the gripping
     surface.
 - Gripping surface must be continuous the full length and top and
     sides cannot be obstructed.
@@ -452,7 +454,7 @@ adjacent surfaces must be free of abrasive or sharp elements.
 
 #### Circular Cross Section and Clearance (§505.5, §505.7)
 
-![Handrail circular cross section 1/1/4" to 2" in diameter with a 1 ½"
+![Handrail circular cross section 1/1/4 inches to 2 inches in diameter with a 1 ½ inches
 clearance behind and below. Note: Specifications for handrails also
 address the diameter of circular cross sections and required knuckle
 clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar29.jpg){: .img-large}
@@ -460,12 +462,12 @@ clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar29.jpg){: .i
 #### Non-Circular Cross Section and Clearance (§505.5, §505.7)
 
 ![Handrail non-circular cross section (square with rounded corners) with
-2 ¼" max. dimension, rounded edges, 4" to 6 ¼" perimeter dimension, 1 ½"
-clearance behind, and clearance below that is 1 ½" (less 1/8" for each
-½" additional perimeter dimension. Note: Non-circular cross sections
+2 ¼ inches maximum dimension, rounded edges, 4 inches to 6 ¼ inches perimeter dimension, 1 ½ inches
+clearance behind, and clearance below that is 1 ½ inches (less 1/8 inches for each
+½ inch additional perimeter dimension. Note: Non-circular cross sections
 must have rounded edges and meet perimeter and cross-section dimensions.
 Other profiles meeting these criteria are
-permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}  
+permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}
 
 ### Common Questions
 

@@ -8,7 +8,7 @@ topic: Public Rights-of-Way
 ---
 ## Appendix: Checklist for APS Installations
 
-(adapted from [Accessible Pedestrian Signals: A Guide to Best Practice](http://www.trb.org/news/blurb_detail.asp?id=9102), NCHRP Web-only document 117A).
+(adapted from [Accessible Pedestrian Signals: A Guide to Best Practice](http://www.trb.org/news/blurb_detail.asp?id=9102), NCHRP Web-only document 117A).
 
 Once installation is complete, the installer should perform the following steps, for each APS at the intersection:
 
@@ -60,7 +60,7 @@ Approach the corner from the crosswalk and note when the pushbutton locator tone
 Listen through several cycles at times when traffic is noisy and at times when traffic is quiet and adjust the locator tone volume as necessary.
 
 *Set the Automatic Volume Adjustment*\
-Evaluate and set the sensitivity level of the automatic volume adjustment. If volumes are adequate in quiet conditions, but do not increase enough or quickly enough when ambient noise increases, the microphone sensitivity, or automatic gain control, may need to be increased. 
+Evaluate and set the sensitivity level of the automatic volume adjustment. If volumes are adequate in quiet conditions, but do not increase enough or quickly enough when ambient noise increases, the microphone sensitivity, or automatic gain control, may need to be increased. 
 
 Increase the microphone sensitivity in 10% to 20% steps until the response is as desired. It might be necessary to readjust the volume of the locator tone and Walk indications after the microphone or "dB over ambient" setting is adjusted.
 
@@ -76,7 +76,7 @@ Audible beaconing -- If installed, press the pushbutton for an extended button p
 
 ### Recheck Device Functioning at a Later Time
 
-Follow up during the first few weeks after installation, checking device and volume at a different time of day to ensure proper functioning. 
+Follow up during the first few weeks after installation, checking device and volume at a different time of day to ensure proper functioning. 
 
 Designate a person and phone number to call and report any malfunctioning device. Share that information with agencies serving individuals who are blind and with community organizations of individuals who are blind.
 

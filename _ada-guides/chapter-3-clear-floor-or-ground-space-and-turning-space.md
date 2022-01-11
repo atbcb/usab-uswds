@@ -71,7 +71,7 @@ text= "Centering the clear floor or ground space on elements is often advisable 
   <div class="grid-row">
     <div class="tablet:grid-col">
       <p>Clear floor spaces must meet requirements for ground and floor surfaces, including criteria for firmness, stability, and slip resistance. They must be free of level changes and not slope more than 1:48.</p>
-      <p>The minimum size (30” by 48”) applies whether the space is positioned for forward or side approaches. Additional space is required when the space is confined on three sides and is obstructed for more than half the depth, such as when elements are recessed in alcoves.</p>
+      <p>The minimum size (30&Prime; by 48&Prime;) applies whether the space is positioned for forward or side approaches. Additional space is required when the space is confined on three sides and is obstructed for more than half the depth, such as when elements are recessed in alcoves.</p>
     </div>
     <div class="tablet:grid-col">
       <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs6.jpg" alt="clear floor space for forward approach 48 inches long minimum and 30 inches min wide (or 36 inches minimum wide if located in alcove and obstructed on both sides more than 24 inches">
@@ -107,7 +107,7 @@ using wheelchairs can pull up to them.
     <div class="tablet:grid-col">
       <span class="grid-line bold">Knee Space</span>
       <img class="img-full" style="padding-bottom: 0px;" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs9.jpg" alt="Counter-type object with knee and toe clearance overlapping portion of clear floor space for forward approach">
-      <span class="grid-line text-italic" style="padding: 30px;">Objects that provide clearance for knees and toes can overlap a greater portion of the clear floor space (up to a depth of 25”).</span>
+      <span class="grid-line text-italic" style="padding: 30px;">Objects that provide clearance for knees and toes can overlap a greater portion of the clear floor space (up to a depth of 25&Prime;).</span>
     </div>
   </div>
 </div>
@@ -116,7 +116,7 @@ using wheelchairs can pull up to them.
 img-file= "chapter3/3cfs10.jpg"
 img-alt= "Knee and toe space 30 inches wide minimum and 25 inches deep maximum (no protrusions into minimum space permitted other than dip of overflow)"
 text-title= ""
-text= "Knee and toe space must be at least 30” wide and up to 25” deep measured to the leading edge of the clear floor space.  The specifications allow space for plumbing, enclosures, and supports outside the minimum clearances.  No object can protrude into the required clearances (other than the dip of the overflow at lavatories and sinks)."
+text= "Knee and toe space must be at least 30&Prime; wide and up to 25&Prime; deep measured to the leading edge of the clear floor space.  The specifications allow space for plumbing, enclosures, and supports outside the minimum clearances.  No object can protrude into the required clearances (other than the dip of the overflow at lavatories and sinks)."
 %}
 
 #### Knee and Toe Space Depth
@@ -124,7 +124,7 @@ text= "Knee and toe space must be at least 30” wide and up to 25” deep measu
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <p class="text-italic">Where knee and toe space is required, it must be at least 17” deep. In all cases, the minimum depth may be further determined by the required reach to operable parts served by the clear floor space.</p>
+      <p class="text-italic">Where knee and toe space is required, it must be at least 17&Prime; deep. In all cases, the minimum depth may be further determined by the required reach to operable parts served by the clear floor space.</p>
       <p class="text-italic">Knee and toe space is required below drinking fountains, lavatories and sinks, dining and work surfaces, and those sales and service counters that provide a forward approach.</p>
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs11.jpg" alt="drinking fountain, lavatory/sink, and dining surface icons">
     </div>
@@ -140,7 +140,7 @@ text= "Knee and toe space must be at least 30” wide and up to 25” deep measu
 img-file= "chapter3/3cfs13.jpg"
 img-alt= "Person using wheelchair shown reaching over counter with reach depth 25 inches maximum from the leading edge and the knee and toe space below equal or greter than the reach depth (25 inches maximum)"
 text-title= ""
-text= "At any element, the knee and toe space must be as deep as the required reach to operable parts. This facilitates access since a forward reach does not extend far beyond the toes. Both the reach depth and the knee and toe space depth are limited to 25” measured from the leading edge of obstructions. Space beyond this depth is not usable."
+text= "At any element, the knee and toe space must be as deep as the required reach to operable parts. This facilitates access since a forward reach does not extend far beyond the toes. Both the reach depth and the knee and toe space depth are limited to 25&Prime; measured from the leading edge of obstructions. Space beyond this depth is not usable."
 %}
 
 #### Knee and Toe Clearances
@@ -149,14 +149,14 @@ text= "At any element, the knee and toe space must be as deep as the required re
 img-file= "chapter3/3cfs14.jpg"
 img-alt= "Toe space 9 inches high and 6 inches deep maximum and knee space that slopes up 18 inches from a 9 inch height to a 27 inche height over a 3 inche span and is 8 inches deep at a full height of 27 inches (for a total depth of 11 inches for knee and 17 inches including the 6 inch toe space)"
 text-title= ""
-text= "<p>Where knee and toe space is required at an element, it must be at least 17” deep.</p><p>Beyond a depth of 8” measured from the leading edge, the 27” minimum high knee clearance can reduce 18” (to the 9” toe space) over a 3” span.</p>"
+text= "<p>Where knee and toe space is required at an element, it must be at least 17&Prime; deep.</p><p>Beyond a depth of 8&Prime; measured from the leading edge, the 27&Prime; minimum high knee clearance can reduce 18&Prime; (to the 9&Prime; toe space) over a 3&Prime; span.</p>"
 %}
 
 {% include grid-2col-largeleftimg-righttext.html
 img-file= "chapter3/3cfs15.jpg"
 img-alt= "Knee and toe space 25 inches deep maximum with the additional depth (above the 17 inch minimum) providing full knee clearance"
 text-title= ""
-text= "When the knee and toe depth exceeds the 17” minimum, the additional space must provide full knee clearance at least 27” high. "
+text= "When the knee and toe depth exceeds the 17&Prime; minimum, the additional space must provide full knee clearance at least 27&Prime; high. "
 %}
 
 ### Turning Space

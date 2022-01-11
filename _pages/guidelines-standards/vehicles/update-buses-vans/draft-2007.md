@@ -6,7 +6,7 @@ permalink: /ada/vehicles/draft-2007.html
 
 # {{page.title}}
 
-Published in the *Federal Register* on April 11, 2007.
+Published in the *Federal Register* on April 11, 2007.
 
 36 CFR Part 1192
 
@@ -15,19 +15,19 @@ RIN 3014-AA38
 
 ### Americans with Disabilities Act (ADA) Accessibility Guidelines for Transportation Vehicles
 
-**AGENCY:** Architectural and Transportation Barriers Compliance Board.
+**AGENCY:** Architectural and Transportation Barriers Compliance Board.
 
-**ACTION:** Availability of draft revisions to guidelines.
+**ACTION:** Availability of draft revisions to guidelines.
 
-**SUMMARY:** The Architectural and Transportation Barriers Compliance Board (Access Board) has placed in the docket and on its web site for public review and comment draft revisions to the Americans with Disabilities Act (ADA) Accessibility Guidelines for Transportation Vehicles. The draft revisions to the guidelines cover only buses, vans and similar vehicles. Draft revisions to the guidelines for other modes will be issued later. Comments will be accepted on the draft revisions to the guidelines, and the Access Board will consider those comments prior to issuing a notice of proposed rulemaking to update the guidelines.
+**SUMMARY:** The Architectural and Transportation Barriers Compliance Board (Access Board) has placed in the docket and on its web site for public review and comment draft revisions to the Americans with Disabilities Act (ADA) Accessibility Guidelines for Transportation Vehicles. The draft revisions to the guidelines cover only buses, vans and similar vehicles. Draft revisions to the guidelines for other modes will be issued later. Comments will be accepted on the draft revisions to the guidelines, and the Access Board will consider those comments prior to issuing a notice of proposed rulemaking to update the guidelines.
 
-**DATES:** Comments on the draft revisions to the guidelines must be received by June 11, 2007.
+**DATES:** Comments on the draft revisions to the guidelines must be received by June 11, 2007.
 
-**ADDRESSES:** Comments should be sent to Docket 2007-1, Office of Technical and Informational Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street NW, suite 1000, Washington, DC 20004-1111. E-mail comments should be sent to <cannon@access-board.gov>. Comments sent by e-mail will be considered only if they contain the full name and address of the sender in the text. Comments will be available for inspection at the above address from 9 a.m. to 5 p.m. on regular business days.
+**ADDRESSES:** Comments should be sent to Docket 2007-1, Office of Technical and Informational Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street NW, suite 1000, Washington, DC 20004-1111. E-mail comments should be sent to <cannon@access-board.gov>. Comments sent by e-mail will be considered only if they contain the full name and address of the sender in the text. Comments will be available for inspection at the above address from 9 a.m. to 5 p.m. on regular business days.
 
-**FOR FURTHER INFORMATION CONTACT:** Dennis Cannon, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street, NW, suite 1000, Washington DC 20004-1111. Telephone number: (202) 272-0015 (voice); (202) 272-0082 (TTY). Electronic mail address: <cannon@access-board.gov>.
+**FOR FURTHER INFORMATION CONTACT:** Dennis Cannon, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street, NW, suite 1000, Washington DC 20004-1111. Telephone number: (202) 272-0015 (voice); (202) 272-0082 (TTY). Electronic mail address: <cannon@access-board.gov>.
 
-**SUPPLEMENTARY INFORMATION:** In 1991, the Architectural and Transportation Barriers Compliance Board (Access Board) issued the Americans with Disabilities Act (ADA) Accessibility Guidelines for Transportation Vehicles, which is codified at 36 CFR part 1192. The guidelines have not been updated since they were issued, except for modifications for over-the-road buses in 1994. The Access Board is beginning the process of updating the guidelines by publishing draft revisions to subparts A and B of 36 CFR part 1192, which contain general provisions and cover buses, vans and similar vehicles. Draft revisions to other subparts, which cover other modes, will be available later. Changes are proposed to accommodate new technology and vehicles, and new system designs, particularly Bus Rapid Transit.
+**SUPPLEMENTARY INFORMATION:** In 1991, the Architectural and Transportation Barriers Compliance Board (Access Board) issued the Americans with Disabilities Act (ADA) Accessibility Guidelines for Transportation Vehicles, which is codified at 36 CFR part 1192. The guidelines have not been updated since they were issued, except for modifications for over-the-road buses in 1994. The Access Board is beginning the process of updating the guidelines by publishing draft revisions to subparts A and B of 36 CFR part 1192, which contain general provisions and cover buses, vans and similar vehicles. Draft revisions to other subparts, which cover other modes, will be available later. Changes are proposed to accommodate new technology and vehicles, and new system designs, particularly Bus Rapid Transit.
 
 Subsequent to issuance of the guidelines in 1991, the National Highway Traffic Safety Administration (NHTSA) issued regulations for vehicle lifts. The Access Board will coordinate its rulemaking with NHTSA to ensure consistency.
 
@@ -117,25 +117,25 @@ Departures from particular technical and scoping requirements of these guideline
 
 *1192.3 Definitions.*
 
-*Accessible* means, with respect to vehicles covered by this part, compliance with the provisions of this part.
+*Accessible* means, with respect to vehicles covered by this part, compliance with the provisions of this part.
 
-*Bridgeplate* means a short plate or ramp designed to bridge a horizontal or vertical gap between a vehicle floor and a boarding area.
+*Bridgeplate* means a short plate or ramp designed to bridge a horizontal or vertical gap between a vehicle floor and a boarding area.
 
-*Bus* means any of several types of self-propelled vehicles, other than an over-the-road bus, generally rubber tired, intended for use on city streets, highways, and busways, including but not limited to minibuses, forty- and thirty-foot transit buses, articulated buses, double-deck buses, and electric powered trolley buses, used to provide designated or specified public transportation services. Self-propelled, rubber tire vehicles designed to look like antique or vintage trolleys or street cars are considered buses.
+*Bus* means any of several types of self-propelled vehicles, other than an over-the-road bus, generally rubber tired, intended for use on city streets, highways, and busways, including but not limited to minibuses, forty- and thirty-foot transit buses, articulated buses, double-deck buses, and electric powered trolley buses, used to provide designated or specified public transportation services. Self-propelled, rubber tire vehicles designed to look like antique or vintage trolleys or street cars are considered buses.
 
-*Demand responsive system* means any system of transporting individuals, including the provision of designated public transportation service by public entities and the provision of transportation service by private entities, including but not limited to specified public transportation service, which is not a fixed route system.
+*Demand responsive system* means any system of transporting individuals, including the provision of designated public transportation service by public entities and the provision of transportation service by private entities, including but not limited to specified public transportation service, which is not a fixed route system.
 
-*Designated public transportation* means transportation provided by a public entity (other than public school transportation) by bus, rail, or other conveyance (other than transportation by aircraft or intercity or commuter rail transportation) that provides the general public with general or special service, including charter service, on a regular and continuing basis.
+*Designated public transportation* means transportation provided by a public entity (other than public school transportation) by bus, rail, or other conveyance (other than transportation by aircraft or intercity or commuter rail transportation) that provides the general public with general or special service, including charter service, on a regular and continuing basis.
 
-*Fixed route system* means a system of transporting individuals (other than by aircraft), including the provision of designated public transportation service by public entities and the provision of transportation service by private entities, including but not limited to specified public transportation service, on which a vehicle is operated along a prescribed route according to a fixed schedule or having a general frequency or headway, which may vary according to time of day.
+*Fixed route system* means a system of transporting individuals (other than by aircraft), including the provision of designated public transportation service by public entities and the provision of transportation service by private entities, including but not limited to specified public transportation service, on which a vehicle is operated along a prescribed route according to a fixed schedule or having a general frequency or headway, which may vary according to time of day.
 
-*New vehicle* means a vehicle which is offered for sale or lease after manufacture without any prior use.
+*New vehicle* means a vehicle which is offered for sale or lease after manufacture without any prior use.
 
-*Remanufactured vehicle* means a vehicle which has been structurally restored and has had new or rebuilt major components installed to extend its service life.
+*Remanufactured vehicle* means a vehicle which has been structurally restored and has had new or rebuilt major components installed to extend its service life.
 
-*Specified public transportation* means transportation by bus, rail, or any other conveyance (other than aircraft) provided by a private entity to the general public, with general or special service (including charter service) on a regular and continuing basis.
+*Specified public transportation* means transportation by bus, rail, or any other conveyance (other than aircraft) provided by a private entity to the general public, with general or special service (including charter service) on a regular and continuing basis.
 
-*Used vehicle* means a vehicle with prior use.
+*Used vehicle* means a vehicle with prior use.
 
 *1192.4 Miscellaneous instructions.*
 

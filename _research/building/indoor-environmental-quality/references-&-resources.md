@@ -15,8 +15,8 @@ The Committee extends a generous thank you to Sharon Toji, Access Communications
 **References**
 
 1.  California Access Compliance Reference Manual, Division of the State Architecture, Chapter 11B Part 2 Title 24, California Code of Regulations 110 November 1, 2002.
-2.  American National Standards Institute (ANSI) Accredited Standards Committee A117, [Committee on Accessible and Usable Buildings and Facilities](http://www.iccsafe.org/cs/standards/A117/)
-3.  LEED™ Green Building Rating System for New Construction & Major Renovation, (LEED-NC), Version 2.1, [US Green Building Council](http://www.usgbc.org/), pages 68 and 69.\
+2.  American National Standards Institute (ANSI) Accredited Standards Committee A117, [Committee on Accessible and Usable Buildings and Facilities](http://www.iccsafe.org/cs/standards/A117/)
+3.  LEED™ Green Building Rating System for New Construction & Major Renovation, (LEED-NC), Version 2.1, [US Green Building Council](http://www.usgbc.org/), pages 68 and 69.\
     LEED Controllability of Systems:\
     6.1 Provide at least an average of one operable window and one lighting control zone per 200 SF for all regularly occupied areas within 15 feet of the perimeter wall.\
     6.2 Provide controls for each individual for airflow, temperature and lighting for at least 50% of the non-perimeter, regularly occupied areas.

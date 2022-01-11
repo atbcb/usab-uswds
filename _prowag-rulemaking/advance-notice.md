@@ -4,7 +4,7 @@ order-number: 12
 version: improved
 file:  ""
 ---
-Published in the *Federal Register* on March 28, 2011.      
+Published in the *Federal Register* on March 28, 2011.      
 
 36 CFR Chapter XI\
 \[Docket No. 2011-02\]\
@@ -12,11 +12,11 @@ RIN 3014-AA41
 
 ### Shared Use Path Accessibility Guidelines
 
-**AGENCY:**  Architectural and Transportation Barriers Compliance Board.
+**AGENCY:**  Architectural and Transportation Barriers Compliance Board.
 
-**ACTION:**  Advance Notice of Proposed Rulemaking.
+**ACTION:**  Advance Notice of Proposed Rulemaking.
 
-**SUMMARY:** The Architectural and Transportation Barriers Compliance
+**SUMMARY:** The Architectural and Transportation Barriers Compliance
 Board (Access Board) is issuing this Advance Notice of Proposed
 Rulemaking (ANPRM) to develop accessibility guidelines for shared use
 paths. Shared use paths are designed for both transportation and
@@ -27,9 +27,9 @@ covered by the Americans with Disabilities Act of 1990 (ADA) and the
 Architectural Barriers Act of 1968 (ABA) accessible to persons with
 disabilities.
 
-**DATES:**  Submit comments by June 27, 2011.
+**DATES:**  Submit comments by June 27, 2011.
 
-**ADDRESSES:**  Submit comments by any of the following methods:
+**ADDRESSES:**  Submit comments by any of the following methods:
 
 -   Federal eRulemaking Portal
     ([http://www.regulations.gov](http://www.regulations.gov/)). Follow
@@ -49,7 +49,7 @@ All comments received will be posted without change to
 [http://www.regulations.gov](http://www.regulations.gov/), including any
 personal information provided.
 
-**FOR FURTHER INFORMATION CONTACT:** Peggy H. Greenwell, Office of
+**FOR FURTHER INFORMATION CONTACT:** Peggy H. Greenwell, Office of
 Technical and Information Services, Access Board, 1331 F Street, NW,
 suite 1000, Washington, DC 20004-1111. Telephone number: 202-272-0017
 (voice); 202-272-0082 (TTY). Electronic mail address: [This email
@@ -147,22 +147,22 @@ Accessible Routes**
 
 Shared use paths are a type of trail designed to be part of a
 transportation system, providing off-road routes for a variety of
-users.  The primary users of shared use paths are bicyclists and
+users.  The primary users of shared use paths are bicyclists and
 pedestrians, including pedestrians using mobility devices such as manual
-or motorized wheelchairs.  While they may coincidently provide a
+or motorized wheelchairs.  While they may coincidently provide a
 recreational experience, shared use paths differ from other types of
 trails with their transportation focus and serving as a supplement to
 on-road bike lanes, shared roadways, bike boulevards, and paved
 shoulders. They may extend or complement a roadway network. Shared use
 path design is similar to roadway design but on a smaller scale and for
-lower speeds.  Whether located within a highway right-of-way, provided
+lower speeds.  Whether located within a highway right-of-way, provided
 along a riverbank, or established over natural terrain within an
 independent right-of-way, shared use paths differ from sidewalks and
 trails in that they are primarily designed for bicyclists and others for
 transportation purposes such as commuting to work.
 
 Trails, on the other hand, are designed primarily for recreational
-purposes.  Since they are not designed with a transportation focus, they
+purposes.  Since they are not designed with a transportation focus, they
 are typically not parallel to a roadway. Trails are pedestrian routes
 developed primarily for outdoor recreational purposes and do not connect
 elements, spaces, or facilities within a site. Trails are largely
@@ -173,8 +173,8 @@ transportation purposes.
 Sidewalks are located in a public right-of-way and typically are
 parallel to a roadway. Consequently, sidewalk grades (running slopes)
 must be generally consistent with roadway grades so that they fit into
-the right-of-way.  Sidewalks are designed for pedestrians and are not
-designed for bicycles or other recreational purposes. 
+the right-of-way.  Sidewalks are designed for pedestrians and are not
+designed for bicycles or other recreational purposes. 
 
 **American Association of State Highway and Transportation Officials
 (AASHTO) Guide on Bicycle Facilities and Shared Use Paths**
@@ -848,8 +848,8 @@ as pedestrian facilities in the public right-of-way appears to be a
 logical choice. In addition, many of the draft technical provisions for
 shared use paths (i.e., intersection and curb ramps/blended transitions,
 detectable warning surfaces, 4 inch limit on post-mounted protruding
-objects (signs),  and rail flangeway gaps) are the same as those in
-draft guidelines for pedestrian facilities in the public-right-of-way. 
+objects (signs),  and rail flangeway gaps) are the same as those in
+draft guidelines for pedestrian facilities in the public-right-of-way. 
 
 *Question 10.* Should the accessibility guidelines for shared use paths
 be included in the same document as the accessibility guidelines for
@@ -902,14 +902,14 @@ Housing and Urban Development, and United States Postal Service are
 authorized to issue enforceable accessibility standards for the ABA.
 
 ::: {#YontooLocationStore2 style="display: none;"}
- 
+ 
 :::
 
 ::: {#YontooLocationStore style="display: none;"}
- 
+ 
 :::
 
- 
+ 
 :::
 
 []{.clear}

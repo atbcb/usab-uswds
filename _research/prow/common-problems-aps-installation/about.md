@@ -28,18 +28,18 @@ permalink: /research/prow/common-problems-aps-installation/
 > 3 Manila Street\
 > Asheville, NC  28806\
 > Phone: 770-317-0611\
-> Email: <jmbarlow@accessforblind.org>\
-Pedestrians who are blind or have low vision using APS devices, as well as orientation and mobility professionals and signals engineers reviewing recently-installed APS in the field, have noted many deficiencies in the location, operation, and usability of pedbuttons and pedestrian signals. This technical assistance bulletin highlights key issues that have figured in many of these reports; its countermeasures are consistent with usability for pedestrians who have vision loss, with APS specifications in the current (2003) Manual on Uniform Traffic Control Devices (MUTCD) and the proposed MUTCD (2009), with recently-completed [NCHRP research](http://www.trb.org/news/blurb_detail.asp?id=9102), and with APS provisions in the draft Public Rights-of-Way Accessibility Guidelines (PROWAG).
+> Email: <jmbarlow@accessforblind.org>\
+Pedestrians who are blind or have low vision using APS devices, as well as orientation and mobility professionals and signals engineers reviewing recently-installed APS in the field, have noted many deficiencies in the location, operation, and usability of pedbuttons and pedestrian signals. This technical assistance bulletin highlights key issues that have figured in many of these reports; its countermeasures are consistent with usability for pedestrians who have vision loss, with APS specifications in the current (2003) Manual on Uniform Traffic Control Devices (MUTCD) and the proposed MUTCD (2009), with recently-completed [NCHRP research](http://www.trb.org/news/blurb_detail.asp?id=9102), and with APS provisions in the draft Public Rights-of-Way Accessibility Guidelines (PROWAG).
 
 ### ACKNOWLEDGEMENTS
 
-Photos in this paper are by the author, Lukas Franck, The Seeing Eye, Rafael Martinez, Martinez Engineering Group, Brett Rouillier, District of Columbia Department of Transportation, Dona Sauerburger, COMS, and Lois Thibault, US Access Board. Figures 2, 3, and 6 are from Accessible Pedestrian Signals: A Guide to Best Practice, developed for NCHRP Project 3-62. 
+Photos in this paper are by the author, Lukas Franck, The Seeing Eye, Rafael Martinez, Martinez Engineering Group, Brett Rouillier, District of Columbia Department of Transportation, Dona Sauerburger, COMS, and Lois Thibault, US Access Board. Figures 2, 3, and 6 are from Accessible Pedestrian Signals: A Guide to Best Practice, developed for NCHRP Project 3-62. 
 
 ### SUMMARY
 
 Incorrectly aligned or located APS devices provide ambiguous information in an environment in which few other cues may be available. Careful evaluation of every pedestrian signal installation is needed to assure that it meets the goals of providing accurate and helpful information to pedestrians who have vision impairments, particularly those who may also have hearing loss. Whether APS are installed at the request of a local resident or as part of a new pedestrian signalization scheme, they must function properly if they are to be useful in communicating the information provided to sighted pedestrians by visual pedestrian signals.
 
-For more information, see resource material developed as part of the National Cooperative Highway Research Program Project 3-62: Guidelines for Accessible Pedestrian Signals at <http://www.walkinginfo.org/aps/> or NCHRP Web Only[Document 117A](http://www.trb.org/news/blurb_detail.asp?id=9102).
+For more information, see resource material developed as part of the National Cooperative Highway Research Program Project 3-62: Guidelines for Accessible Pedestrian Signals at <http://www.walkinginfo.org/aps/> or NCHRP Web Only[Document 117A](http://www.trb.org/news/blurb_detail.asp?id=9102).
 
 Appendix\
 A checklist for evaluation of installations, adapted from Accessible Pedestrian Signals: A Guide to Best Practice, NCHRP Web Only Document 117A, is included here as Appendix A.

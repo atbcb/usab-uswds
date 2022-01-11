@@ -60,7 +60,7 @@ amount.]({{ site.baseurl }}{{ page.image-directory }}chapter3/3po3-text.jpg){: .
 
 <div class="clearfix">
 <img src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3po4.jpg" alt="Protruding object located above another with leading edge 27 inches maximum
-AFF. Note: 4 inches max projection can be measured from the leading edge of fixed elements below objects that are within cane sweep" class="float-right img-medium">
+AFF. Note: 4 inches maximum projection can be measured from the leading edge of fixed elements below objects that are within cane sweep" class="float-right img-medium">
 Objects located above elements that are within cane sweep can protrude
 4&Prime; maximum from the leading edge of such elements provided that any
 required reach or clear floor space is not obstructed.

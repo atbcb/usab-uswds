@@ -19,15 +19,15 @@ Like subtitles, captions display spoken dialogue as printed words on a televisio
 
 Captions come in two forms: open or closed captioning:
 
--   *Open captions* are displayed automatically as part of the video, without having to be selected by the user.
--   *Closed captions* normally do not appear as part of the video portion of a multimedia presentation unless the viewer has selected them to appear. The person viewing the presentation must be using technology that includes a closed caption decoder. The decoder will allow the otherwise-hidden data within the television signal to be displayed on the user's TV screen or computer monitor. Many newer television models allow viewers to toggle captions on or off with ease.
+-   *Open captions* are displayed automatically as part of the video, without having to be selected by the user.
+-   *Closed captions* normally do not appear as part of the video portion of a multimedia presentation unless the viewer has selected them to appear. The person viewing the presentation must be using technology that includes a closed caption decoder. The decoder will allow the otherwise-hidden data within the television signal to be displayed on the user's TV screen or computer monitor. Many newer television models allow viewers to toggle captions on or off with ease.
 
 ***What television display formats are required to include caption decoder circuitry?***\
 Analog and digital television displays, as well as stand-alone digital television tuners and computer equipment that includes digital television receiver or display circuitry, must include caption decoder circuitry. Section 508 does not require small analog or digital television displays to include caption decoder circuitry. Specifically, analog televisions with screens smaller than 13 inches diagonally and DTVs with displays smaller than 7.8 inches vertically are exempted. The Television Decoder Circuitry Act of 1990 and the Telecommunications Act of 1996 contain similar provisions.
 
 * * * * *
 
-**(b) Television tuners, including tuner cards for use in computers, shall be equipped with secondary audio program playback circuitry.**
+**(b) Television tuners, including tuner cards for use in computers, shall be equipped with secondary audio program playback circuitry.**
 
 ***What is a secondary audio channel and why is special circuitry required?***\
 The most common method of broadcasting audio description is through the Secondary Audio Program (SAP) feature of stereo televisions. Each television channel has what is called a "secondary audio channel" associated with it. The secondary audio channel may contain audio descriptions or foreign language translations of dialogue. If used to deliver audio descriptions, SAP can greatly enhance the multimedia experience for those who are blind or who have low vision. When television tuners, including tuner cards for use in computers, are equipped with SAP playback circuitry, people who are blind or who have low vision may access whatever audio description has been associated with the presentation.
@@ -43,7 +43,7 @@ Tuner cards enable a computer to receive television broadcasts. This product is 
 
 * * * * *
 
-**(c) All training and informational video and multimedia productions which support the agency's mission, regardless of format, that contain speech or other audio information necessary for the comprehension of the content, shall be open or closed captioned.**
+**(c) All training and informational video and multimedia productions which support the agency's mission, regardless of format, that contain speech or other audio information necessary for the comprehension of the content, shall be open or closed captioned.**
 
 **(d) All training and informational video and multimedia productions that support the agency's mission, regardless of format, that contain visual information necessary for the comprehension of the content, shall be audio described.**
 
@@ -74,7 +74,7 @@ Agencies will likely find that captions will assist many nondisabled individuals
 
 * * * * *
 
-**(e) Display or presentation of alternate text presentation or audio descriptions shall be user-selectable unless permanent.**
+**(e) Display or presentation of alternate text presentation or audio descriptions shall be user-selectable unless permanent.**
 
 ***Does this provision apply differently to audio description than it does to captioning?***\
 Given the current state and prevalence of analog technology, the "user-selectable" language generally applies to closed captioning, which the viewer can turn on or off. Audio description on VHS format videos is permanently encoded and is always "on." If a user wanted to watch a video without listening to the audio description, he or she would need to find a separate version of the production that was not audio described. The same is true with open captioning.

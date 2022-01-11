@@ -220,7 +220,7 @@ exempt."
 text2= ""
 %}
 
-#### Certain Sports/ Recreation and Other Structures [§203.10 - §203.14]
+#### Certain Sports/ Recreation and Other Structures [§203.10 to §203.14]
 
 {% include grid-2col-leftimg-righttextstditalic.html
 img-file= "chapter2-ada/nc13.jpg"
@@ -261,7 +261,7 @@ for public use, but elements within used only by employees for work are
 not required to comply.
   
 {% include recommendation.html
-text= "Although areas used only by employees for work are not required to be fully accessible, consider designing such areas to include non-required turning spaces, and provide accessible elements whenever possible.  Under the ADA, employees with disabilities are entitled to reasonable accommodations in the workplace.  Accommodations can include alterations to spaces within the facility.  Designing employee work areas to be more accessible at the outset will eliminate or reduce the need for more costly retrofits in providing reasonable accommodations for employees with disabilities."
+text= "Although areas used only by employees for work are not required to be fully accessible, consider designing such areas to include non-required turning spaces, and provide accessible elements whenever possible. Under the ADA, employees with disabilities are entitled to reasonable accommodations in the workplace. Accommodations can include alterations to spaces within the facility. Designing employee work areas to be more accessible at the outset will eliminate or reduce the need for more costly retrofits in providing reasonable accommodations for employees with disabilities."
 %}
 
 #### Access to Approach, Enter, and Exit Work Areas
@@ -359,7 +359,7 @@ text= "In facilities where an above-average number of employees with hearing imp
 
 ### Scoping Requirements for Elements and Spaces
 
-[[§204]({{ site.baseurl }}/ada/#ada-204) - [§243]({{ site.baseurl }}/ada/#ada-243)]
+[[§204]({{ site.baseurl }}/ada/#ada-204) to [§243]({{ site.baseurl }}/ada/#ada-243)]
 
 Scoping provisions for elements and spaces, which are summarized here,
 are further discussed with relevant technical provisions in the
@@ -416,7 +416,7 @@ facilities.]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc21.jpg){
 
 #### Communication Elements
 
-![Figure of corridor with overhead sign ("East Wing Rooms 300 -- 350"),
+![Figure of corridor with overhead sign ("East Wing Rooms 300 to 350"),
 sign at door, fire alarm, and pay telephone. Figure notes: Fire Alarm
 Systems (§215) Fire alarms, if provided, must comply with the National
 Fire Alarm Code (NFPA 72) which covers audible and visual features.
@@ -566,7 +566,7 @@ text= "<h5 aria-describedby=\"asterisk\">Residential Facilities [§233]*</h5>"
 {% include grid-2col-leftimg-righttext.html
 img-file= "chapter2-ada/nc34.jpg"
 img-alt= "swimmer"
-text= "<h5>Recreation Facilities [§234 - §243]</h5>"
+text= "<h5>Recreation Facilities [§234 to §243]</h5>"
 %}
 
 </div>

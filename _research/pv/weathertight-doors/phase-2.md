@@ -19,7 +19,7 @@ topic: Passenger Vessels
 > Cambridge, Massachusetts
 >
 > Michael G. Dyer\
-NOTICE: *Neither the United States Government nor any agency thereof, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or use of any information, apparatus, product, or process disclosed. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. The views and opinions of authors expressed herein do not necessarily state or reflect those of the United State Government or any agency thereof.*
+NOTICE: *Neither the United States Government nor any agency thereof, nor any of their employees, makes any warranty, express or implied, or assumes any legal liability or responsibility for the accuracy, completeness, or use of any information, apparatus, product, or process disclosed. Reference herein to any specific commercial product, process, or service by trade name, trademark, manufacturer, or otherwise, does not necessarily constitute or imply its endorsement, recommendation, or favoring by the United States Government or any agency thereof. The views and opinions of authors expressed herein do not necessarily state or reflect those of the United State Government or any agency thereof.*
 
 **Abstract**
 

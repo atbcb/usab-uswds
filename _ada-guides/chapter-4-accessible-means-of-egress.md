@@ -6,7 +6,7 @@ file-description: PDF version of Chapter 4 Accessible Means of Egress Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-4-accessible-means-of-egress/
 ---
-
+{% include sr-dimension-markings.html %}
 
 <div class="grid-container">
   <div class="grid-row">
@@ -53,7 +53,7 @@ exit, and exit discharge.
 building to an exit; exits that are doors to leading to outside,
 enclosed exit stairways, and horizontal exits; and exit discharge as a
 path from an exit to a public way such as a street or
-alley.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe3.jpg){: .img-large} 
+alley.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe3.jpg){: .img-large} 
 
 ### Required Means of Egress [IBC §1007.1 (2003), §1003.2.13 (2000)]
 
@@ -125,7 +125,7 @@ smoke protected areas where those unable to use stairs can register a
 call for help and await evacuation assistance. These areas must provide
 direct access to exit stairways and can be located adjacent to stairway
 enclosures or on stair landings outside the minimum exit
-width.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe6.jpg){: .img-large} 
+width.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe6.jpg){: .img-large}  
 
 #### Exit Stairway Enclosures [IBC §1007.3 and 1019 (2003), §1003.2.13.2 and 1005.3.2 (2000)]
 
@@ -135,7 +135,7 @@ The IBC contains requirements for exit stairway enclosures
 that address fire-resistance and smoke protection, stairways and
 handrails, signs, and other features. The ADA Standards apply
 requirements for stairways to each stair that is part of a required
-means of egress (§210). 
+means of egress (§210). 
 
 ##### Exit Stairway Enclosures
 
@@ -160,7 +160,7 @@ doors (§404.2.9).]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe7.
 
 ### Stairways 
 
-[ADA Standards [§210]({{ site.baseurl }}/ada/#ada-210), [§504]({{ site.baseurl }}/ada/#ada-504)]
+[ADA Standards [§210]({{ site.baseurl }}/ada/#ada-210), [§504]({{ site.baseurl }}/ada/#ada-504)]
 
 Stairways and handrails that are part of a means of egress are addressed
 by the IBC (§1009 (2003), §1003.3.3 (2000)). In addition, interior and
@@ -176,24 +176,24 @@ the ADA Standards, but handrails must comply when the stairs are altered
 
 #### Treads and Riser Specifications in the ADA Standards (§504)
 
-![Stairs with treads 11" deep min. and risers 4" -- 7" high. Note: All
+![Stairs with treads 11 inches deep minimum and risers 4 inches to 7 inches high. Note: All
 steps on a flight must have uniform riser heights and uniform tread
 depths. Open risers are prohibited.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe8.JPG){: .img-large}
 
 #### Nosing Specifications
 
-![Nosing details show: tread edge radius ½" max; angled riser nosing
-30 degrees max from vertical; and curved or beveled nosing 1 ½" max.
-projection (IBC: 1 ¼" max).]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe9.jpg){: .img-large}
+![Nosing details show: tread edge radius ½ inch maximum; angled riser nosing
+30 degrees maximum from vertical; and curved or beveled nosing 1 ½ inch maximum
+projection (IBC: 1 ¼ inches maximum).]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe9.jpg){: .img-large}
 
 #### Stairway Handrails Requirements in the ADA Standards (§504)
 
 ![Stairway handrail requirements. Notes: Handrails are required on
 both sides and must be continuous within the full length of each stair
-flight. 12" min. linear top extension; 34" - 38" (consistent height)
+flight. 12 inches minimum linear top extension; 34 inches to 38 inches (consistent height)
 above nosing to top of gripping surface; linear bottom extension 1 tread
-depth min.; Top and bottom extensions must return to wall, guard, or
-floor (min. length measured to the start of the return radius); Inside
+depth minimum; Top and bottom extensions must return to wall, guard, or
+floor (minimum length measured to the start of the return radius); Inside
 handrails at switchback/ dogleg stairs must be continuous (extension not
 required); Top and sides of gripping surface cannot be obstructed;
 bottom can be obstructed up to 20% of the length; In alterations, full
@@ -204,7 +204,7 @@ hazardously into circulation paths (§505.10, Ex.
 <div class="clearfix border padding-left-1">
 {% include grid-2col-lefttextboldstd-rightimg.html
 text-title= "Protruding Objects"
-text= "The ADA Standards address hazards posed by protruding objects, such as standpipe valves, along circulation paths, including stairways and inaccessible routes (§204). The standards limit the protrusion of objects with leading edges that are above 27” high and no more than 80” high. Such objects are limited to a 4” protrusion into circulation paths, but a 4 ½” protrusion is allowed for handrails. Protrusions up to 12” are specified for objects mounted on posts or pylons (§307)."
+text= "The ADA Standards address hazards posed by protruding objects, such as standpipe valves, along circulation paths, including stairways and inaccessible routes (§204). The standards limit the protrusion of objects with leading edges that are above 27&Prime; high and no more than 80&Prime; high. Such objects are limited to a 4&Prime; protrusion into circulation paths, but a 4 ½” protrusion is allowed for handrails. Protrusions up to 12&Prime; are specified for objects mounted on posts or pylons (§307)."
 img-file= "chapter4/4amoe11.jpg"
 img-alt= "standpipe"
 %}
@@ -223,7 +223,7 @@ stairway handrails (§1009 (2003), §1003.3.3 (2000)).
 
 #### Circular Cross Section and Clearance (§505.5, §505.7)
 
-![Handrail circular cross section 1/1/4" to 2" in diameter with a 1 ½"
+![Handrail circular cross section 1/1/4 inches to 2 inches in diameter with a 1 ½ inch
 clearance behind and below. Note: Specifications for handrails also
 address the diameter of circular cross sections and required knuckle
 clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar29.jpg){: .img-large}
@@ -231,11 +231,11 @@ clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar29.jpg){: .i
 #### Non-Circular Cross Section and Clearance (§505.5, §505.7)
 
 ![Handrail non-circular cross section (square with rounded corners) with
-2 ¼" max. dimension, rounded edges, 4" to 6 ¼" perimeter dimension, 1 ½"
-clearance behind, and clearance below that is 1 ½" (less 1/8" for each
-½" additional perimeter dimension. Note: Non-circular cross sections
+2 ¼ inches maximum dimension, rounded edges, 4 inches to 6 ¼ inches perimeter dimension, 1 ½ inch
+clearance behind, and clearance below that is 1 ½ inch (less 1/8 inches for each
+½ inch additional perimeter dimension. Note: Non-circular cross sections
 must have rounded edges and meet perimeter and cross-section dimensions.
-Other profiles meeting these criteria are permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}  
+Other profiles meeting these criteria are permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}   
 
 ### Areas of Refuge [IBC §1007.6 (2003), §1003.2.13.5 (2000)]
 
@@ -261,11 +261,11 @@ control point (and to a public telephone system if the central control
 point is not constantly attended) under the IBC. Their location must be
 approved by the fire department. Operable parts are subject to the ADA
 Standards (§309). Wheelchair Spaces - The IBC requires 1 wheelchair
-space (30" min. by 48" min.) for every 200 occupants or portion thereof
+space (30&Prime; minimum by 48&Prime; minimum) for every 200 occupants or portion thereof
 served by the area of refuge. Spaces cannot reduce the required egress
 width and must be entered directly from an accessible route or one
 adjacent wheelchair space. Stairway Width - The IBC requires stairs
-serving areas of refuge to have a clear width of 48" min. between
+serving areas of refuge to have a clear width of 48&Prime; minimum between
 handrails to accommodate assisted
 evacuation.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe12.jpg){: .img-large}
 
@@ -285,7 +285,7 @@ located next to "Area of Refuge"). Notes: The ISA must be included on
 signs labeling areas of refuge but does not have to be raised. Area of
 refuge signs can be incorporated into required exit signs. Requirements
 for tactile signs address raised characters, braille, finish and
-contrast, separation from raised borders, and location (i.e., 48" -- 60"
+contrast, separation from raised borders, and location (i.e., 48&Prime; to 60&Prime;
 AFF measured to the baseline of raised characters), and other features.
 ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe13.jpg){: .img-large}
 
@@ -319,7 +319,7 @@ features.
 #### Horizontal Exit
 
 ![Schematic of horizontal exit shows compliant fire wall or barrier with
-a 2 hour min. fire-resistance rating; compliant opening protectives,
+a 2 hour minimum fire-resistance rating; compliant opening protectives,
 including self-closing or automatic closing fire doors, and no
 connecting ductwork or utilities between
 areas.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe16.jpg){: .img-large}
@@ -328,9 +328,9 @@ areas.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe16.jpg){: .img
 
 ![Plan view of horizontal exit and enclosed exit stairways. Notes: No
 more than half the required exits can be horizontal exits. At least one
-exit must lead directly to an exit enclosure or to the exterior. A 48"
-min. stairway width is not required where horizontal exits are
-provided.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe17.jpg){: .img-large} 
+exit must lead directly to an exit enclosure or to the exterior. A 48 inches
+minimum stairway width is not required where horizontal exits are
+provided.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe17.jpg){: .img-large}  
 
 ### Elevators with Standby Power [IBC §1007.4 (2003), §1003.2.13.3 (2000)]
 
@@ -348,7 +348,7 @@ egress can contain an elevator with standby power; In sprinklered
 buildings, an elevator with standby power is not required on floors with
 either a: horizontal exit (excluding floors below the level of exit
 discharge); a compliant exit access
-ramp.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe19.jpg){: .img-large} 
+ramp.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe19.jpg){: .img-large}  
 
 ### Exit Discharge [IBC §1023 (2003), §1006 (2000)]
 
@@ -392,11 +392,11 @@ sprinklered.
 
 ![Exterior area for assisted rescue. Notes: Openness - Area must be at
 least 50% open to minimize accumulation of smoke or toxic gases.
-Fire-rated Separation - One hour min. fire-rated separation within 10'
+Fire-rated Separation - One hour minimum fire-rated separation within 10 feet
 (horizontal and vertical) of the exterior area of assisted rescue (3/4
 hour rating for opening protectives within this area). Exterior Exit
-Stairway - 48" min, clear width between handrails. Wheelchair Space - 1
-space (30" min. by 48" min.) for every 200 occupants or portion thereof
+Stairway - 48 inches min, clear width between handrails. Wheelchair Space - 1
+space (30 inches minimum by 48 inches minimum) for every 200 occupants or portion thereof
 served by the exterior area for assisted rescue. Spaces cannot reduce
 the required egress width and must be entered directly from an
 accessible route or one adjacent wheelchair space. Identification ("Area
@@ -406,14 +406,14 @@ leading to exterior area for assisted rescue.]({{ site.baseurl }}{{ page.image-d
 
 ### Signs
 
-[ADA Standards [§216]({{ site.baseurl }}/ada/#ada-216), [§703]({{ site.baseurl }}/ada/#ada-703)]
+[ADA Standards [§216]({{ site.baseurl }}/ada/#ada-216), [§703]({{ site.baseurl }}/ada/#ada-703)]
 
 The ADA Standards cover tactile and visual features of signs, including
 those that serve means of egress. Only certain signs are subject to
 requirements for tactile and visual access, while a broader range is
 subject to the visual criteria only. Tactile signs must include
 compliant raised characters and braille characters and be located at
-doors 48" to 60" above the floor or ground (§703.2). Visual criteria
+doors 48&Prime; to 60&Prime; above the floor or ground (§703.2). Visual criteria
 address the height, style, proportion, and spacing of characters, as
 well as finish and contrast, line spacing, and other features (§703.5).
 Tactile and visual requirements can be met on the same sign or on
@@ -479,7 +479,7 @@ instructions.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe25a.jpg
 
 <div class="padding-left-7 padding-right-7" markdown="1">
 _Visual criteria, but not tactile criteria, apply to directional signs,
-informational signs, rules of conduct signs, and posted instructions._
+informational signs, rules of conduct signs, and posted instructions._
 </div>
 
 ### Pictograms and Symbols of Accessibility 
@@ -487,27 +487,27 @@ informational signs, rules of conduct signs, and posted instructions._
 [ADA Standards [§216.2]({{ site.baseurl }}/ada/#ada-216_2)]
 
 ![Sign with "STAIRWAY" in raised letter and braille below stair
-pictogram that is on field at least 6"
+pictogram that is on field at least 6 inches
 high.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe26.jpg){: .img-right}
 
 Where pictograms are provided to identify a permanent room
 or space, such as a stairway, they must include text descriptors that
 comply with requirements for raised characters and braille (§216.2). In
 addition, the pictogram must meet finish and contrast criteria and be
-located on a field at least 6" high.
+located on a field at least 6&Prime; high.
 
 Pictograms that provide information about a room or space, including the
 International Symbol of Accessibility (ISA), or that are included on
 directional signs must comply with requirements for finish and contrast
 but are not required to include the verbal equivalent in raised and
-braille characters or to be located on a 6" minimum high field. The ISA
+braille characters or to be located on a 6&Prime; minimum high field. The ISA
 and other required accessibility symbols must comply with the specified
 symbol referenced in the ADA Standards.
 
 <div class="border clearfix padding-left-1" markdown="1">
 ![International Symbol of Accessibility and fire extinguisher symbol]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe27.jpg){: .img-right}
 
-Pictograms that provide information about a space or that are included on directional signs must meet finish and contrast requirements but are not required to have text descriptors or to be located on a 6" min. high field. The ISA must conform to the illustration in the ADA Standards (§703.7.2.1). 
+Pictograms that provide information about a space or that are included on directional signs must meet finish and contrast requirements but are not required to have text descriptors or to be located on a 6&Prime; minimum high field. The ISA must conform to the illustration in the ADA Standards (§703.7.2.1). 
 </div>
 
 ### Other Requirements in the ADA Standards
@@ -526,7 +526,7 @@ Platform lifts, where permitted on an accessible means of egress, must have stan
 
 Where fire alarms systems are provided, they must meet requirements for
 audible and visual features in the ADA Standards and the referenced
-NFPA 72 Fire Alarm Code (§215).
+NFPA 72 Fire Alarm Code (§215).
 </div>
 
 <div class="clearfix" markdown="1">
@@ -549,11 +549,11 @@ Standards.
 #### Automated Doors
 Maneuvering clearance is required on the egress side of automated doors
 unless they are equipped with standby power or they stay open in
-power-off mode (§404.3.2). The standards also require a minimum 32"
+power-off mode (§404.3.2). The standards also require a minimum 32&Prime;
 break out opening for doors unless equipped with standby power or a
 compliant manual swinging door also serves the same means of egress
 (§404.3.6).
-</div> 
+</div> 
 
 #### Fire Safety Evacuation Planning
 
@@ -570,14 +570,14 @@ Rehabilitation Engineering and Assistive Technology Society of North
 America (RESNA), [www.resna.org](http://www.resna.org), has developed
 consensus Standards for emergency stair travel devices through the
 American National Standards Institute (RESNA ED-1:2013 -- American
-National Standard for Evacuation Devices -- Volume 1: Emergency Stair
+National Standard for Evacuation Devices -- Volume 1: Emergency Stair
 Travel Devices Used by Individuals with Disabilities). It is important
 that evacuation chairs be located so that they do not obstruct required
 means of egress.
 
 ###  Common Questions
 
-![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail}      
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail}      
 
 #### Are exit doors usable only in one direction required to comply on both sides?
 
@@ -593,7 +593,7 @@ sides is required.
 
 No, handrails and other elements cannot overlap door maneuvering
 clearances. However, the door maneuvering clearance can be offset up to
-8" from the face of the door to accommodate wall thickness, casework,
+8&Prime; from the face of the door to accommodate wall thickness, casework,
 handrails, moldings, and other elements at doorways.
 
 #### Are fire extinguishers required to comply with the ADA Standards?
@@ -614,11 +614,11 @@ Yes, requirements for protruding objects are not limited to accessible
 routes and apply to all circulation paths, including stairways and their
 landings.
 
-#### When door vision lights are limited to 100 square inches by the fire code, is compliance with the specified maximum height of 43" to the bottom edge still required?
+#### When door vision lights are limited to 100 square inches by the fire code, is compliance with the specified maximum height of 43&Prime; to the bottom edge still required?
 
 Yes. The Standards do not exempt such doors from the requirement for
 vision lights (§404.2.11). However, compliance is not required when the
-lowest part of the vision light is more than 66" from the finish floor
+lowest part of the vision light is more than 66&Prime; from the finish floor
 or ground.
 
 #### Do requirements of accessible means of egress apply to employee work areas?
@@ -635,4 +635,4 @@ must have compliant common use circulation paths.
 #### Where can one get further information or technical assistance on the IBC, including its requirements for means of egress?
 
 Technical assistance on the IBC is available from the International Code
-Council (ICC) at (888) ICC-SAFE (422-7233) or by email at [CareCenter@iccsafe.org](CareCenter@iccsafe.org). For further information, visit the ICC's website at [www.iccsafe.org](http://www.iccsafe.org). 
+Council (ICC) at (888) ICC-SAFE (422-7233) or by email at [CareCenter@iccsafe.org](CareCenter@iccsafe.org). For further information, visit the ICC's website at [www.iccsafe.org](http://www.iccsafe.org). 

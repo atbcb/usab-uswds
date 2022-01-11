@@ -38,7 +38,7 @@ Vibrotactile-only APS provide only vibration at the pedestrian pushbutton. The a
 
 Receiver-based APS provide a message transmitted by infrared or LED technology from the pedhead to a personal receiver. The pedestrian scans the intersection with the receiver to receive the message emitted on the pedhead. These devices may also give other types of information, including information about the name of the streets or the shape of the intersection. Manufacturers include Relume and Talking Signs.
 
-The section on APS devices provides details of each of the APS devices available at the time of this report. Information was obtained from phone, e-mail, Internet, and mail contacts with manufacturers and from the draft report, *Accessible Pedestrian Signals: Synthesis and Guide to Best Practice* by Accessible Design for the Blind [[www.accessforblind.org]](http://www.accessforblind.org/), being prepared as part of NCHRP Project 3-62: *Guidelines for Accessible Pedestrians Signals *(7). A matrix summarizing features provided by each device is also included.
+The section on APS devices provides details of each of the APS devices available at the time of this report. Information was obtained from phone, e-mail, Internet, and mail contacts with manufacturers and from the draft report, *Accessible Pedestrian Signals: Synthesis and Guide to Best Practice* by Accessible Design for the Blind [[www.accessforblind.org]](http://www.accessforblind.org/), being prepared as part of NCHRP Project 3-62: *Guidelines for Accessible Pedestrians Signals *(7). A matrix summarizing features provided by each device is also included.
 
 Information about APS devices produced by the following manufacturers is included in this publication:
 

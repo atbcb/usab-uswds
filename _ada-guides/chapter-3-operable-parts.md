@@ -86,7 +86,7 @@ access.
             <p class="text-italic">If clear floor space is obstructed on both sides more than half the minimum required depth, a wider clearance (36&Prime; minimum) is required for maneuvering and sway. </p>
         </div>
         <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op5.jpg" alt="Clear floor space 48 inches minimum long and 30 inches minimum wide (36 inches min wide if obstructed on both side more than 24 inches">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op5.jpg" alt="Clear floor space 48 inches minimum long and 30 inches minimum wide (36 inches minimum wide if obstructed on both side more than 24 inches">
         </div>
     </div>
 </div>
@@ -110,7 +110,7 @@ access.
 <div class="grid-container">
     <div class="grid-row">
         <div class="tablet:grid-col">
-            <p>The range for unobstructed reaches (15&Prime; – 48&Prime;) applies only to those portions of elements that are operable. Non-operable portions can be located outside the range.</p>
+            <p>The range for unobstructed reaches (15&Prime; to 48&Prime;) applies only to those portions of elements that are operable. Non-operable portions can be located outside the range.</p>
         </div>
         <div class="tablet:grid-col">
             <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op7.jpg" alt="Unobstructed forward reach range 15 inches minimum to 48 inches maximum. shown in side view">
@@ -214,7 +214,7 @@ img-alt2= "Person using wheelchair in corner (facing side wall) with 24 inches r
 #### Advisory Reach Range for Children
 
 <div class="clearfix">
-<img class="float-right maxw-mobile" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op17.jpg" alt="Children's reach ranges: 16 inches to 44 inches (9-12 years); 18 inches to 40 inches (5-8 years); 20 inches to 36 inches (3 & 4 years)">
+<img class="float-right maxw-mobile" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op17.jpg" alt="Children's reach ranges: 16 inches to 44 inches (9 to 12 years); 18 inches to 40 inches (5 to 8 years); 20 inches to 36 inches (3 & 4 years)">
 
 The standards include advisory (non-mandatory) reach ranges based on
 children's dimensions that can be followed when operable parts are

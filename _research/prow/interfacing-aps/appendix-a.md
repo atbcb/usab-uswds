@@ -28,7 +28,7 @@ The Type 170 controller standard differed from NEMA standards in that it was a h
 
 The Type 170 specification required that hardware be interchangeable among manufacturers. Since the software was independent, the controller was basically a general purpose field computer that could be used for a variety of applications beyond traffic signal control. With the necessary software, a Type 170 controller could operate in a simple 2-phase operation or control the most complex interchange. In 1986, the NYS DOT developed the Model 179 controller standard, and in the early 1990's, Caltrans developed the Model 170E controller standard. Both were enhancements to the Model 170 standard to meet current needs, and increased processing power, improved user display capabilities, provided larger memory storage, and enhanced communications capabilities.
 
-Only a few years later, in 1995, the rapid advances in computer technology led Caltrans to develop yet another standard, titled the Model 2070. The goal of the 2070 standard was to provide an advanced controller platform to serve a variety of applications and further define processor, operating system, and software language, while maintaining general compatibility with previous controller (Model 170) standards.  Expanded processing power in the Model 2070 controller allowed for use in a wide variety of applications and provided multiple configurations to fit specific system requirements. The addition of optional VMEBUS modules or serial ports provided additional functionality to include video-imaging, changeable message sign control, and various other communication-based functions. The software and hardware interface was standardized, yet the software remained independent of the controller hardware, allowing for software developed specifically for the desired application.
+Only a few years later, in 1995, the rapid advances in computer technology led Caltrans to develop yet another standard, titled the Model 2070. The goal of the 2070 standard was to provide an advanced controller platform to serve a variety of applications and further define processor, operating system, and software language, while maintaining general compatibility with previous controller (Model 170) standards.  Expanded processing power in the Model 2070 controller allowed for use in a wide variety of applications and provided multiple configurations to fit specific system requirements. The addition of optional VMEBUS modules or serial ports provided additional functionality to include video-imaging, changeable message sign control, and various other communication-based functions. The software and hardware interface was standardized, yet the software remained independent of the controller hardware, allowing for software developed specifically for the desired application.
 
 Several different configuration profiles were developed with the Type 2070 family, including the Type 2070N which is compatible with NEMA interfaces and cabinets. Some issues exist today with the Type 2070 platform, specifically related to the limited number of software vendors and the high cost of the controller hardware.
 
@@ -247,9 +247,9 @@ Peek Traffic, Inc., Sarasota, FL 34236\
 
 * * * * *
 
-| **US Traffic Type of Controller 820A** |   |   |
-| ![US Traffic Controller Showing Keypad for Entering Information and Wiring Connections.](https://www.access-board.gov/images/research/interface-aps/report47.jpg) |   | ![US Traffic Controller Showing Keypad for Entering Information and Wiring Connections.](https://www.access-board.gov/images/research/interface-aps/report48.jpg) |
-| Figure 40 (left). US Traffic Controller Showing Keypad for Entering Information and Wiring Connections. |   | Figure 41 (right). US Traffic 820A Controller Showing Keypad for Entering Information and Wiring Connections. |
+| **US Traffic Type of Controller 820A** |   |   |
+| ![US Traffic Controller Showing Keypad for Entering Information and Wiring Connections.](https://www.access-board.gov/images/research/interface-aps/report47.jpg) |   | ![US Traffic Controller Showing Keypad for Entering Information and Wiring Connections.](https://www.access-board.gov/images/research/interface-aps/report48.jpg) |
+| Figure 40 (left). US Traffic Controller Showing Keypad for Entering Information and Wiring Connections. |   | Figure 41 (right). US Traffic 820A Controller Showing Keypad for Entering Information and Wiring Connections. |
 
 #### Standard features
 
@@ -413,11 +413,11 @@ Naztec, Inc., Sugarland, TX\
 Type of Controller
 
 Type 170/179/2070 | ![US Traffic 170 Controller Showing Keypad for Entering Information and Wiring Connections.](https://www.access-board.gov/images/research/interface-aps/report54.jpg) |
-|   | Figure 46 (upper left). US Traffic 170 Controller Showing Keypad for Entering Information and Wiring Connections. |
-|   | ![US Traffic 179 Controller Showing Keypad for Entering Information and Wiring Connections.](https://www.access-board.gov/images/research/interface-aps/report55.jpg) |
-|   | Figure 47 (upper right). US Traffic 179 Controller Showing Keypad for Entering Information and Wiring Connections. |
-|   | ![US Traffic 2070 Controller Showing Keypad for Entering Information and Wiring Connections.](https://www.access-board.gov/images/research/interface-aps/report56.jpg) |
-|   | Figure 48 (lower center). US Traffic 2070 Controller Showing Keypad for Entering Information and Wiring Connections. |
+|   | Figure 46 (upper left). US Traffic 170 Controller Showing Keypad for Entering Information and Wiring Connections. |
+|   | ![US Traffic 179 Controller Showing Keypad for Entering Information and Wiring Connections.](https://www.access-board.gov/images/research/interface-aps/report55.jpg) |
+|   | Figure 47 (upper right). US Traffic 179 Controller Showing Keypad for Entering Information and Wiring Connections. |
+|   | ![US Traffic 2070 Controller Showing Keypad for Entering Information and Wiring Connections.](https://www.access-board.gov/images/research/interface-aps/report56.jpg) |
+|   | Figure 48 (lower center). US Traffic 2070 Controller Showing Keypad for Entering Information and Wiring Connections. |
 
 #### Standard features
 
@@ -519,7 +519,7 @@ Detector
 
 #### Standard features
 
-The Inductive Loop Detector provides vehicle detection. Frequency and sensitivity can be set to eliminate problems with interference and false calls (cross-talk) from adjacent loops. In *Pulse Mode*, the detector provides an 150 millisecond pulse in response to a detection. In *Presence Mode*, the output from the detector is active as long as a vehicle is present on the loop. An LED indicates when a vehicle is on the loop or if Delay or Extension is active. Photo shows a rack-mounted detector. Detectors also come as a stand-alone unit.
+The Inductive Loop Detector provides vehicle detection. Frequency and sensitivity can be set to eliminate problems with interference and false calls (cross-talk) from adjacent loops. In *Pulse Mode*, the detector provides an 150 millisecond pulse in response to a detection. In *Presence Mode*, the output from the detector is active as long as a vehicle is present on the loop. An LED indicates when a vehicle is on the loop or if Delay or Extension is active. Photo shows a rack-mounted detector. Detectors also come as a stand-alone unit.
 
 #### Manufacturer
 
@@ -537,45 +537,45 @@ The manufacturers listed below offer traffic signal controller and related produ
 Austin, TX 78754-3899\
 Telephone: (512) 837-8310\
 Fax: (512) 837-0196\
-E-mail: <info@eagletcs.com>\
-Web site: [http://www.eagletcs.com](http://www.eagletcs.com/)
+E-mail: <info@eagletcs.com>\
+Web site: [http://www.eagletcs.com](http://www.eagletcs.com/)
 
 **Econolite Control Products, Inc.**\
 3360 E. La Palma\
 Anahim, CA 92806-2856\
 Telephone: (714) 630-3700\
 Fax: (714) 630-6349\
-E-mail: <sales@econolite.com>\
-Web site: [http://www.econolite.com](http://www.econolite.com/)
+E-mail: <sales@econolite.com>\
+Web site: [http://www.econolite.com](http://www.econolite.com/)
 
 **Peek Traffic, Inc.**\
 1500 N. Washington Blvd.\
 Sarasota, FL 34236\
 Telephone: (941) 366-8770\
 Fax: (941) 365-0837\
-E-mail: <usinfo@peekglobal.com>\
-Web site: [http://www.peekglobal.com](http://www.peekglobal.com/)
+E-mail: <usinfo@peekglobal.com>\
+Web site: [http://www.peekglobal.com](http://www.peekglobal.com/)
 
 **Naztec, Inc**\
 820 Park Two Dr.\
 Sugar Land, TX 77478, USA.\
 Telephone: (281) 240-7233\
 Fax: (281) 240-7238\
-E-mail: <naztec@naztec.com>\
-Web site: [http://www.naztec.com](http://www.naztec.com/)
+E-mail: <naztec@naztec.com>\
+Web site: [http://www.naztec.com](http://www.naztec.com/)
 
 **McCain Traffic Supply**\
 2575 Pioneer Avenue\
 Vista, CA 92083\
 Telephone: (760) 727-8100\
 Fax: (760) 727-8264\
-E-mail: <mccain@mccaintraffic.com>\
-Web site: [http://www.mccaintraffic.com](http://www.mccaintraffic.com/)
+E-mail: <mccain@mccaintraffic.com>\
+Web site: [http://www.mccaintraffic.com](http://www.mccaintraffic.com/)
 
 **U.S. Traffic Corporation**\
 9603 John Street\
 Santa Fe Springs, CA 90670\
 Telephone: (562) 923-9600\
 Fax: (562) 923-7555\
-E-mail: <info@ustraffic.net>\
-Web site: [http://www.ustraffic.net](http://www.ustraffic.net/)
+E-mail: <info@ustraffic.net>\
+Web site: [http://www.ustraffic.net](http://www.ustraffic.net/)

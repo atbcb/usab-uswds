@@ -26,31 +26,31 @@ The Access Board has established ADA Accessibility Guidelines (ADAAG) for Buildi
 
 **Table 1: ADAAG- Accessible Route Guidelines**
 
-| **Parameter ** | **Requirement ** |
+| **Parameter ** | **Requirement ** |
 | **Clear Width** | Minimum 36" |
 | **Openings** | Maximum 1/2" |
-| **Obstacle Height** |   |
+| **Obstacle Height** |   |
 | 1/4" | No slope required |
 | 1/4"-1/2" | Beveled with Maximum 1:2 slope |
-| **Ramps Max Slope** |   |
-| 1:12-1:16 | Maximum 30" high, 30' long  |
-| 1:16-1:20  | Maximum 30" high, 40' long  |
+| **Ramps Max Slope** |   |
+| 1:12-1:16 | Maximum 30" high, 30' long  |
+| 1:16-1:20  | Maximum 30" high, 40' long  |
 | **Cross Slope** | Maximum 1:50 |
 
 A study done by Wolf et al. looked at the effects of roughness of nine different sidewalk surfaces; six studied over three years and three surfaces added in the last year. Wolf et al. compared poured concrete (control) to different types of brick sidewalks. They varied in composition (Concrete, Clay), spacing (bevel size, no bevel) and degree of herringbone placement (45, 90) as shown in Table 2. Sidewalks were installed by an Interlocking Concrete Pavement Institute (ICPI) certified contractor. Ten nondisabled subjects were recruited over the three year period. Accelerations were recorded on the seat and footrest of the chair as the subjects drove over the surfaces. They concluded that for manual WCs, the 90 degree surfaces with 0 and 2mm bevels resulted in significantly lower WBV than the standard poured concrete surface. For power WCs, the 90 degree surface with no bevel resulted in significantly less WBV at the seat and the 90 degree surfaces with 0, 2 and 4mm bevels resulted in significantly less WBV at the footrest than the poured concrete surface. The results also showed that the 90 degree surface with an 8mm bevel had the highest WBV while the 90 degree surface with no bevel resulted in the lowest WBV. The fact that the poured concrete surface resulted in significantly higher vibrations than some brick surfaces was most likely caused by the large gaps between the slabs of concrete. (Wolf et al, 2007)
 
 **Table 2: Specifications of Surfaces Tested**
 
-| **  Surface** | **  Name** | **  Edge Detail** | ** Composition ** | **Dimension (mm)** | **Installed Pattern** |
+| **  Surface** | **  Name** | **  Edge Detail** | ** Composition ** | **Dimension (mm)** | **Installed Pattern** |
 | **Length** | **Width** | **Height** |
-| 1  |  Poured Concrete |  --- | Concrete  | --- | --- | --- | Smooth |
+| 1  |  Poured Concrete |  --- | Concrete  | --- | --- | --- | Smooth |
 | 2 | Holland Paver | Square (no bevel) | Concrete | 198 | 98 | 60 | 90° |
-| 3 | Holland Paver | 2 mm bevel | Concrete | 198 | 98 | 80 | 90°  |
-| 4 | Holland Paver | 8 mm bevel | Concrete | 198 | 98 | 60 | 90°  |
-| 5 | Whitacre-Greer | 4 mm bevel | Clay | 204 | 102 | 57 | 45°  |
+| 3 | Holland Paver | 2 mm bevel | Concrete | 198 | 98 | 80 | 90°  |
+| 4 | Holland Paver | 8 mm bevel | Concrete | 198 | 98 | 60 | 90°  |
+| 5 | Whitacre-Greer | 4 mm bevel | Clay | 204 | 102 | 57 | 45°  |
 | 6 | Pathway Paver | Square (no bevel) | Clay | 204 | 102 | 57 | 45° |
-| 7 | Holland Paver | 6 mm bevel | Concrete | 198 | 98 | 60 | 90°  |
-| 8 |  Holland Paver | 6 mm bevel  | Concrete  | 198 | 98 | 60 | 45° |
+| 7 | Holland Paver | 6 mm bevel | Concrete | 198 | 98 | 60 | 90°  |
+| 8 |  Holland Paver | 6 mm bevel  | Concrete  | 198 | 98 | 60 | 45° |
 | 9 | Holland Paver | 4 mm bevel | Concrete | 198 | 98 | 60 | 90° |
 
 Another study conducted on 6 of the same surfaces (Poured concrete; 90 degree with 0, 2, and 8mm bevels; 45 degree with 0 and 4mm bevels) showed that for power WCs traveling at a speed of 1 m/s, the ISO 2631 limit for an 8-hour exposure to vibrations was exceeded by the 90-degree, 8mm bevel surface and the 45-degree, 4mm bevel surface. At a speed of 2 m/s the exposure limit would be exceeded in less than 3 hours of continuous driving on all surfaces. (Cooper et al, 2004) While WC users do not typically drive continuously for 3 hours, they do travel above 8 hours a day on average and experience some amount of vibrations during all movement. (Tolerico, 2006)

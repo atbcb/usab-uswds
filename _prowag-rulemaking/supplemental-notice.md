@@ -1,4 +1,4 @@
-Published in the Federal Register on February 13, 2013.      
+Published in the Federal Register on February 13, 2013.      
 
 36 CFR Part 1190\
 \[Docket No. 2013-02\]\
@@ -6,11 +6,11 @@ RIN 3014-AA26
 
 ### Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way; Shared Use Paths
 
-**AGENCY:**  Architectural and Transportation Barriers Compliance Board.
+**AGENCY:**  Architectural and Transportation Barriers Compliance Board.
 
-**ACTION:**  Supplemental Notice of Proposed Rulemaking.
+**ACTION:**  Supplemental Notice of Proposed Rulemaking.
 
-**SUMMARY:** We, the Architectural and Transportation Barriers
+**SUMMARY:** We, the Architectural and Transportation Barriers
 Compliance Board (Access Board), issued an advance notice of proposed
 rulemaking (ANPRM) announcing our intent to develop accessibility
 guidelines for shared used paths. Shared use paths are multi-use paths
@@ -36,9 +36,9 @@ Act and the Architectural Barriers Act, and would ensure that the
 facilities are readily accessible to and usable by individuals with
 disabilities.
 
-**DATES:**  Submit comments by May 14, 2013.
+**DATES:**  Submit comments by May 14, 2013.
 
-**ADDRESSES:**  Submit comments by any of the following methods:
+**ADDRESSES:**  Submit comments by any of the following methods:
 
 -   Federal eRulemaking Portal:
     [http://www.regulations.gov](http://www.regulations.gov/). Follow

@@ -54,7 +54,7 @@ In addition, the Committee appreciates the expertise, information, and guidance 
 
 ### Members of the Courthouse Access Advisory Committee
 
--   Accessibility Equipment Manufacturers Association, Gregory L. Harmon
+-   Accessibility Equipment Manufacturers Association, Gregory L. Harmon
 -   Administrative Office of the U.S. Courts, Gate Lew, AIA
 -   American Institute of Architects, James L. Beight, AIA and Andrew Goldberg, Assoc. AIA
 -   American Bar Association, Honorable Norma L. Shapiro
@@ -110,7 +110,7 @@ Also active in the work of the Committee were:
 
 ### I. Introduction
 
-The design of courthouses poses challenges to access due to unique features, such as courtroom areas that are elevated within confined spaces. Determining the best way to provide access to these spaces can be difficult. While the U.S. Access Board has established guidelines for courthouses which cover access to courtrooms, many have sought guidance on how access can best be achieved.  Additional information is needed that explores new or innovative design solutions. In October, 2004, the U.S. Access Board organized an advisory committee to develop such guidance and to promote access to courthouses as part of an overall plan for targeted outreach on different aspects or spheres of accessibility.
+The design of courthouses poses challenges to access due to unique features, such as courtroom areas that are elevated within confined spaces. Determining the best way to provide access to these spaces can be difficult. While the U.S. Access Board has established guidelines for courthouses which cover access to courtrooms, many have sought guidance on how access can best be achieved.  Additional information is needed that explores new or innovative design solutions. In October, 2004, the U.S. Access Board organized an advisory committee to develop such guidance and to promote access to courthouses as part of an overall plan for targeted outreach on different aspects or spheres of accessibility.
 
 The Courthouse Access Advisory Committee's (CAAC) 35 members included designers and architects, disability groups, attorneys, members of the judiciary, court administrators, representatives of the codes community and standard-setting entities, government agencies, and other volunteers with an interest in the issues to be explored. The members were selected among applications the Board received in response to a published notice. The Committee was charged with developing design solutions and best practice recommendations for accessible courthouses. In addition, the Committee's charter called for recommendations on outreach and educational strategies for disseminating this information most effectively to various audiences.
 
@@ -227,7 +227,7 @@ Recommendations for Best Practice:
 -   If raising the building entrance off grade is necessary, the change in elevation should be as minimal as possible. This will allow shorter routes and, where necessary, shorter ramps with more gradual slopes. Consider eliminating steps, even at raised entrances, so that all public visitors ascend a wide, gradually sloped walkway. It is most equitable if people with and without disabilities use the same path of travel to the courthouse entrance.
 -   If a ramp is necessary, the slope should be as gradual as possible. The ramp should be wide enough to allow for ambulatory companions, thus exceeding the minimum width of 36 inches between the handrails. To provide integration, the ramp should begin with the general circulation path.
 
-| ![bench]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0004.jpg) |   |
+| ![bench]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0004.jpg) |   |
 
 ![Plinth with stairs creating access problems]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0005.jpg)
 
@@ -236,7 +236,7 @@ Recommendations for Best Practice:
 
 Figure: resting area for excessive paths of entry
 
- |   |
+ |   |
 
 > Figure: Plinth with stairs creating access problems
 
@@ -365,8 +365,8 @@ Figure: Building directory that can be read from a wheelchair
 -   Becaus e many courthouses are large buildings, an informative and user-friendly building directory and/or map at the entrance will provide assistance to the public for finding the rooms they need as well, as the shortest, most accessible route. They can also help identify the availability of accessible elements, such as assistive listening systems and TTY-equipped phones. When provided, a building directory should be mounted at a height that allows both a person who is seated and one who is standing to read it. Three-dimensional or tactile maps help people with vision impairments in finding their way around the building. The directory near the courthouse's entrance and at other locations throughout the courthouse should be legible with a Sans Serif font that contrasts with its background and is of sufficient size to be easily readable. If an electronic building directory or information kiosk is used, consider including an audio component so that it is usable by people with visual impairments.
 -   The guidelines require that people with disabilities follow the same route as that of the general public but where the routes must diverge -- at stairs, for example - signage clearly identifying the alternate, accessible path of travel should be provided so that no backtracking is necessary. Where the interior accessible route includes an elevator, the elevator should be located within close proximity to, and visible from, the stairs.
 -   For all doors along accessible routes, consider accessible approaches and clearances from all directions.\
-    It is important to consider the wayfinding needs of people with vision impairments. See Appendix B on Wayfinding.
--   It is important to consider acoustics in courtrooms and other areas to provide access for people with hearing loss. See Appendix A.
+    It is important to consider the wayfinding needs of people with vision impairments. See Appendix B on Wayfinding.
+-   It is important to consider acoustics in courtrooms and other areas to provide access for people with hearing loss. See Appendix A.
 -   Courthouses often require people to travel substantial distances between areas. Providing benches, rest areas and railings are recommended to accommodate people with stamina and mobility limitations.
 -   Limiting distance from primary function areas to restrooms is recommended.
 
@@ -424,7 +424,7 @@ Audible alarms are required to be heard throughout all occupied spaces in the co
 
 Recommendations for Best Practice:
 
--   Notification should be rapid and redundant, with alternative systems and strategies for notifying courthouse occupants. These may include: visible and audible fire alarm signals, text messages to pagers, cell phones, and PDAs, public address system announcements, monitors and signs with text messages, instant mail, telephonic public address announcements, and instructions by the security/emergency personnel.
+-   Notification should be rapid and redundant, with alternative systems and strategies for notifying courthouse occupants. These may include: visible and audible fire alarm signals, text messages to pagers, cell phones, and PDAs, public address system announcements, monitors and signs with text messages, instant mail, telephonic public address announcements, and instructions by the security/emergency personnel.
 -   When designing control panel boards for the fire alarm system, allow a minimum of 20% of the private offices to have visible alarms added later.
 
 Common Errors:
@@ -493,7 +493,7 @@ Applicable Guidelines:
 
 Courthouses have many functional areas beyond the courtrooms and chambers that are unique to a courthouse. All of the following areas must comply with the requirements in the guidelines for accessible route, fixed seating, protruding objects, reach range, signage, telephones, work surfaces, and other relevant provisions.
 
-Rooms may be reconfigured for different purposes.  A room or space that is intended to be occupied at different times for different purposes must comply with all of the requirements that are applicable to each of the purposes for which the room or space will be occupied.
+Rooms may be reconfigured for different purposes.  A room or space that is intended to be occupied at different times for different purposes must comply with all of the requirements that are applicable to each of the purposes for which the room or space will be occupied.
 
 *Public Waiting Areas, Witness Reception/Waiting Areas, Attorney Waiting Areas*
 
@@ -649,7 +649,7 @@ Applicable Guidelines:
 
 *Grand Jury Suite*
 
-A grand jury courtroom may have a variety of configurations.  Alternatives extend from a space similar to a conference room, to a typical courtroom setting, and any combination in between.  The accessibility requirements for a space would depend on which type of space the grand jury courtroom most closely resembled.
+A grand jury courtroom may have a variety of configurations.  Alternatives extend from a space similar to a conference room, to a typical courtroom setting, and any combination in between.  The accessibility requirements for a space would depend on which type of space the grand jury courtroom most closely resembled.
 
 Minimum Requirements:\
 Access requirements for a grand jury hearing room are identical to that of a courtroom. Counsel table, podium, witness stand, lectern and stadium seating must be accessible. Dedicated toilet rooms and deliberation rooms serving these grand jury areas must provide access to persons with disabilities. (See Part III: Recommendations for Accessible Courtroom Design.)
@@ -960,7 +960,7 @@ Bailiffs' duties differ by jurisdiction. Sometimes they are aides to the judge, 
 
 Recommendation for Best Practice:
 
--   Provide an accessible/adaptable path to both the private circulation corridor and the courtroom well. If the route is adaptable, leave space for future lift or ramp including power to both locations. Select a specific ramp or lift, complete the design and either install at the time of construction or at a later date. Ramps are preferable to lifts for access to the clerk's and bailiff's stations for a variety of reasons (See Access to Raised Elements).
+-   Provide an accessible/adaptable path to both the private circulation corridor and the courtroom well. If the route is adaptable, leave space for future lift or ramp including power to both locations. Select a specific ramp or lift, complete the design and either install at the time of construction or at a later date. Ramps are preferable to lifts for access to the clerk's and bailiff's stations for a variety of reasons (See Access to Raised Elements).
 -   The clerk's station should be designed to enable the clerk to enter and exit the bench moving forward and to move freely to interact with the judge, courtroom personnel, lawyers or witnesses when handling evidence and exchanging documents. When located next to the judge, the clerk's station should be no more than two steps below the bench for ease of communication and passage of materials between the clerk and the judge.
 
 | ![Clerk's Station]({{ site.baseurl }}/images/advisory-committee-reports/courthouse/002_0005.gif) |
@@ -1136,7 +1136,7 @@ Recommendations for Best Practice:
 -   In a kitchenette, because the counter is typically not very long, the entire counter is often located at 34 inches in height rather than just lowering the sink. If access is provided to lower cabinets, it is not necessary to move the upper cabinets down to within reach range.
 -   If an adaptable bathroom is provided for the judge, the adaptable features are as follows: providing blocking for the future installation of grab bars; the toilet does not need to meet the 17-19 inch seat height; the lavatory does not need to meet the knee and toe clearances or height requirements; and the door may swing into the space without requiring a wheelchair space past the swing of the door provided the door swing can be reversed. Planning for the cabinetry to be easily removable at a later date will improve the 'adaptability' of the private toilet room. If a bathtub or shower is located within the private bathroom, blocking should be installed for future installation of grab bars or seats.
 
-Figures: See Jury Deliberation Room section for figures of accessible single-user restrooms and kitchenettes.
+Figures: See Jury Deliberation Room section for figures of accessible single-user restrooms and kitchenettes.
 
 Common Errors:
 
@@ -1244,7 +1244,7 @@ Applicable Guidelines:
 Minimum Requirements:\
 Where central holding cells are provided, at least one of each type shall be accessible. In addition, at least one holding cell serving each courtroom shall be accessible. Requirements for central and courtroom holding cells provide adequate turning space, access to benches, where provided, and accessible toilet facilities.
 
-Viewing windows in visitor areas, where provided, must be accessible on both sides. If fixed seating is provided, at least one seat must be removable or adjustable to provide wheelchair access. If telephone handsets are provided in visiting areas they must comply with access requirement for people with hearing loss (See Appendix A).
+Viewing windows in visitor areas, where provided, must be accessible on both sides. If fixed seating is provided, at least one seat must be removable or adjustable to provide wheelchair access. If telephone handsets are provided in visiting areas they must comply with access requirement for people with hearing loss (See Appendix A).
 
 Recommendations for Best Practice:
 
@@ -1315,7 +1315,7 @@ Applicable Guidelines:
 
 #### Assistive Listening Systems in Courtrooms
 
-Because of the importance of privacy issues, infrared assistive listening systems are preferable in courtrooms. Some areas may be served by portable systems. However, the courtroom must be served by a permanent system. Assistive listening systems, however, are only usable for people with hearing loss who communicate verbally and have sufficient ability to discriminate sound. Other people may rely on Communication Access Real-Time Translation (CART), sign language interpreters, deaf interpreters, transliterators, or oral interpreters. Most issues regarding access for people with hearing loss are operational, as opposed to construction, issues. (See Appendix A.)
+Because of the importance of privacy issues, infrared assistive listening systems are preferable in courtrooms. Some areas may be served by portable systems. However, the courtroom must be served by a permanent system. Assistive listening systems, however, are only usable for people with hearing loss who communicate verbally and have sufficient ability to discriminate sound. Other people may rely on Communication Access Real-Time Translation (CART), sign language interpreters, deaf interpreters, transliterators, or oral interpreters. Most issues regarding access for people with hearing loss are operational, as opposed to construction, issues. (See Appendix A.)
 
 Assistive Listening Systems are often seen as "binoculars" for the ears. They work by increasing the loudness of sounds, minimizing background noise, reducing the effect of distance, and overriding poor acoustics. There are four major kinds of ALS on the market today: FM, Infrared, Audio Induction Loop and hard-wired. All of them require that the person who is speaking use a microphone. Sound is converted and transferred by radio waves (FM), invisible light waves (Infrared) or electromagnetic field (Audio Induction Loop) to the listener. The listener uses a receiver with headphones to hear the speaker. If the listener wears hearing aids or a cochlear implant processor which have a telecoil (T-coil), a neckloop can be used in place of the headphones with the FM or Infrared systems. Neckloops provide the sound directly from the receiver into the aid or processor. Sound provided by an Audio Induction Loop can be heard by a wearer of hearing aids or a cochlear implant processor with T-coils, without an additional receiver or neckloop. All systems can be integrated with existing PA systems.
 
@@ -1425,7 +1425,7 @@ Installed lifts usually require a greater financial investment. Regular maintena
 
 The Courtroom Lift section of the ASME A18.1 Safety Standard for Platform Lifts and Stairway Chairlifts is the current standard for any lift used. Only lifts complying with this standard may be used as floors to elements, e.g., witness stands or judge's benches, and would not require a variance for an operating permit. Many current installations improperly rely on the use of a key and/or assistance from courtroom staff for simple operation. (Assisted key operation is not permitted under accessibility standards.) An operation requiring assistance will temporarily halt the proceedings, create noise, and draw attention to the person using a wheelchair, which may affect the perception of the individual's contribution to the proceedings.
 
-The ADA and ABA guidelines provide an exception for vertical access to judges' benches and raised employee stations that allows adaptable design to facilitate later installation of a ramp or lift as needed. Under this exception, clear floor space, maneuvering space, and electrical service for lifts must be provided at the time of initial construction. A preferred practice for vertical access to judges' benches is locating ramps or lifts *outside* the courtroom or at least out of view from the well and gallery. Further, for purposes of emergency or security evacuation, as well as ease of independent operation, judges have expressed a preference for ramp access.
+The ADA and ABA guidelines provide an exception for vertical access to judges' benches and raised employee stations that allows adaptable design to facilitate later installation of a ramp or lift as needed. Under this exception, clear floor space, maneuvering space, and electrical service for lifts must be provided at the time of initial construction. A preferred practice for vertical access to judges' benches is locating ramps or lifts *outside* the courtroom or at least out of view from the well and gallery. Further, for purposes of emergency or security evacuation, as well as ease of independent operation, judges have expressed a preference for ramp access.
 
 In existing facilities, these same preferences apply. However, space limitations may require installation of a lift. In these situations, strict adherence to the Courtroom Lift section of ASME A18.1 Safety Standards is essential.
 
@@ -1673,7 +1673,7 @@ Time Frame for Marketing and Maintaining Website
  |
 |
 
-**Introduction to the Disability Community** with a cross-disabilities focus\
+**Introduction to the Disability Community** with a cross-disabilities focus\
 (Who are we trying to serve and why?)
 
  |
@@ -1772,7 +1772,7 @@ Links to:
 
 *Website Content: Introduction to Courts and People with Disabilities*
 
-The population of people with disabilities continues to grow in both size and complexity. Various factors, such as advances in medical care and technology, shifting demographics, and the aging population are leading to significant growth in this population.
+The population of people with disabilities continues to grow in both size and complexity. Various factors, such as advances in medical care and technology, shifting demographics, and the aging population are leading to significant growth in this population.
 
 In 1990, President George H. W. Bush signed into law the Americans with Disabilities Act (ADA) (42 U.S.C. Sec. 12101 et seq.). Congress found that discrimination against individuals with disabilities was a serious and pervasive social problem and included intentional exclusion, architectural barriers, overprotective rules, and relegation to lesser services and opportunities.
 
@@ -1794,7 +1794,7 @@ Standards used to enforce the design requirements of the ADA and ABA are based o
 In 2004, the Board completed a comprehensive review and update of its facility guidelines so that they continue to meet the needs of people with disabilities and keep pace with technological innovations. The Board updated the ADA guidelines and the ABA guidelines jointly so that a consistent level of accessibility is specified under both laws. The ADA and ABA Accessibility Guidelines contain new and revised provisions that enhance coverage of accessibility and facilitate compliance. As part of this update, the Board harmonized the guidelines with model building codes and industry standards.
 
 The updated guidelines provide a new baseline for the enforceable standards of the ADA and the ABA. These standards are maintained by other agencies, including the General Services Administration (GSA) and the U.S. Department of Justice (DOJ). In 2005, GSA adopted new standards based on the guidelines that apply to most federally funded facilities covered by the ABA (except postal, military, and housing facilities, which are covered by standards issued by other agencies). DOJ and the U.S. Department of Transportation (DOT) are responsible for updating standards for facilities covered by the ADA according to the guidelines.\
-A list of Federal agencies involved in disability enforcement is provided at Appendix E.
+A list of Federal agencies involved in disability enforcement is provided at Appendix E.
 
 Architectural Barriers Act\
 The Architectural Barriers Act (ABA), enacted in 1968, requires access to facilities designed, built, altered or leased by Federal agencies. It also applies to certain facilities financed by Federal grants or loans. The law covers a wide range of facilities, including Federal courthouses. The ABA is the first law passed by Congress to require access to the built environment by people with disabilities. Facilities that pre-date the law generally are not covered.
@@ -1803,14 +1803,14 @@ Four Federal agencies maintain the standards used to enforce the ABA. Those adop
 
 The Access Board enforces the ABA by investigating complaints concerning particular facilities. The first step of an investigation is to determine whether the facility is covered by the law. Where a facility is covered by the ABA, the next step is to verify whether the facility meets the applicable accessibility standards. If it does not, then the Access Board will work with the responsible entities to develop a plan to bring the facility into compliance. Cases are closed only after the necessary corrective action is completed.
 
-The standards and other information on the ABA are available at [www.access-board.gov](https://www.access-board.gov/index.htm).
+The standards and other information on the ABA are available at [www.access-board.gov](https://www.access-board.gov/index.htm).
 
 Americans with Disabilities Act\
 Title II of the Americans with Disabilities Act (ADA), enacted in 1990, requires state and local governments to make all of their programs, services, and activities, when viewed in their entirety, accessible to people with disabilities. New construction or alterations to facilities covered by Title II, which include state and local courthouses, must comply with the ADA Accessibility Standards for Accessible Design, adopted by DOJ in 1992. In addition, Title II imposes non-architectural obligations, such as effective communication and reasonable modification of policies on state and local government agencies. DOJ will update the standards in the future according to the new ADA-ABA Accessibility Guidelines issued by the Access Board.
 
 The DOJ has enforcement responsibilities for all programs, services, and activities relating to law enforcement and the administration of justice, including state and local courts and correctional institutions. Under Title II, an administrative complaint concerning a state or local courthouse may be filed with the DOJ or a lawsuit may be filed in Federal district court. If an individual files an administrative complaint, the DOJ will investigate the allegations of discrimination. Should the agency conclude that the public entity violated title II, it will attempt to negotiate a settlement with the public entity to remedy the violations. Where voluntary compliance cannot be achieved, the complaint may be referred for litigation.
 
-Information on ADA Title II is available at [www.usdoj.gov/crt/ada/adahom1.htm](http://www.usdoj.gov/crt/ada/adahom1.htm).
+Information on ADA Title II is available at [www.usdoj.gov/crt/ada/adahom1.htm](http://www.usdoj.gov/crt/ada/adahom1.htm).
 
 Section 504 of the Rehabilitation Act\
 Section 504 of the Rehabilitation Act of 1973 covers access to programs or activities that receive Federal financial assistance. Most state and local courthouses are subject to Section 504. The substantive standards adopted for ADA Title II (see below) are generally the same as those required under Section 504, but Title II does not displace any existing Section 504 jurisdiction. Section 504 requires courthouses constructed or altered since its effective date to be fully accessible, as well as requiring other activities to provide accessible programs effective communication, and inclusion of people with disabilities.
@@ -1857,22 +1857,22 @@ Initially during the design process and then during the construction process, fu
 
 Many individuals and entities, in a variety of roles, have responsibilities for the design, construction, operation, and maintenance of accessible courthouses and courtrooms. It is important that all these individuals and organizations understand the need to provide ready accessibility of the courthouse, the reasons for accessibility requirements, and the techniques for achieving accessibility.
 
-This Section describes persons and organizations who participate in the design and implementation of accessible courthouse and courtroom elements.  As a result, the following individuals and organizations are target audiences for information about the importance of accessible design. 
+This Section describes persons and organizations who participate in the design and implementation of accessible courthouse and courtroom elements.  As a result, the following individuals and organizations are target audiences for information about the importance of accessible design. 
 
 Judicial Conferences and Court Management Associations.\
-Judicial officers and court administrators are involved in the planning and construction of courthouses, particularly in terms of budgeting and design. These court officials belong to judicial conferences and court management associations. One of the responsibilities of these professional organizations is to provide education, training, resources, and information to their members on issues of importance in improving the administration of justice, including access to courts. These organizations can educate members about the necessity to plan and participate in the design of courthouses to provide access for persons with disabilities; suggest options for outreach to the community for input in courthouse design in relation to issues of accessibility; provide mechanisms to educate and train colleagues and court staff in the necessity and requirement of providing access to all; educate members about the necessity of providing adequate funding for courthouse design and reconstruction if necessary in order to allow access to those with disabilities; inform members of the necessity of taking a leadership role in making sure that all courthouses comply with the ADA and other requirements for access; identify, study, and propose solutions to issues related to courthouse and courtroom accessibility; and identify information sources for members about courthouse accessibility. A list of judicial conferences and court management associations is provided at Appendix F.
+Judicial officers and court administrators are involved in the planning and construction of courthouses, particularly in terms of budgeting and design. These court officials belong to judicial conferences and court management associations. One of the responsibilities of these professional organizations is to provide education, training, resources, and information to their members on issues of importance in improving the administration of justice, including access to courts. These organizations can educate members about the necessity to plan and participate in the design of courthouses to provide access for persons with disabilities; suggest options for outreach to the community for input in courthouse design in relation to issues of accessibility; provide mechanisms to educate and train colleagues and court staff in the necessity and requirement of providing access to all; educate members about the necessity of providing adequate funding for courthouse design and reconstruction if necessary in order to allow access to those with disabilities; inform members of the necessity of taking a leadership role in making sure that all courthouses comply with the ADA and other requirements for access; identify, study, and propose solutions to issues related to courthouse and courtroom accessibility; and identify information sources for members about courthouse accessibility. A list of judicial conferences and court management associations is provided at Appendix F.
 
 Local ADA Coordinator.\
 An ADA Coordinator is a designated person who handles access issues in a courthouse, including making necessary accommodations and answering questions pertinent to courthouse accessibility. On a case-by-case basis, the ADA Coordinator assists individuals with disabilities who need access, assists in providing access to court hearings, services or programs by providing auxiliary aids, alternative formats (e.g., large print) and other accommodations, or by providing flexibility in schedules. The ADA Coordinator is also available to assist judicial officers and courthouse personnel with ADA accommodation and accessibility questions or requests. An ADA Coordinator will have valuable information about the integration of courthouse operations, security, and accessibility that should be taken into consideration in courthouse design.
 
-Owners and Operators (Federal, state and local governments, and facility landlords and tenants).\
-Owners and operators of court facilities are responsible for planning, prioritizing, and funding accessibility elements. They should take a lead role in consulting with people with disabilities and disability groups in all appropriate aspects of developing accessibility plans. They should maintain effective ongoing dialogue with architects and contractors during the construction phase to provide accessible design and construction.
+Owners and Operators (Federal, state and local governments, and facility landlords and tenants).\
+Owners and operators of court facilities are responsible for planning, prioritizing, and funding accessibility elements. They should take a lead role in consulting with people with disabilities and disability groups in all appropriate aspects of developing accessibility plans. They should maintain effective ongoing dialogue with architects and contractors during the construction phase to provide accessible design and construction.
 
 Facilities Managers.\
-The managers of courthouse facilities carry out responsibilities to verify plans are in place and accomplished regarding access to courthouses. They disseminate disability information and training on an ongoing basis for staff and community and carry out responsibilities for maintaining accessible features, including non-fixtures.  
+The managers of courthouse facilities carry out responsibilities to verify plans are in place and accomplished regarding access to courthouses. They disseminate disability information and training on an ongoing basis for staff and community and carry out responsibilities for maintaining accessible features, including non-fixtures.  
 
 State Bar Associations.\
-State Bars provide continuing legal education and other relevant attorney updates regarding rights and responsibilities for access by persons with disabilities to judicial facilities and services. Bar associations can act as liaison to state judicial associations in order to provide assistance in judicial interaction with courthouse users with disabilities, including staff, attorneys and members of the public. Bar Associations can also consider and adopt timely resolutions or establish committees to pursue statewide goals of accessibility, along with practical workplans and outcome measurement.    A list of State Bar disability resources is provided in Appendix G. 
+State Bars provide continuing legal education and other relevant attorney updates regarding rights and responsibilities for access by persons with disabilities to judicial facilities and services. Bar associations can act as liaison to state judicial associations in order to provide assistance in judicial interaction with courthouse users with disabilities, including staff, attorneys and members of the public. Bar Associations can also consider and adopt timely resolutions or establish committees to pursue statewide goals of accessibility, along with practical workplans and outcome measurement.    A list of State Bar disability resources is provided in Appendix G. 
 
 Architects.\
 Architects are involved in every stage of the planning, design and construction of the built environment, including space planning, site selection, design, construction documentation, materials specification, building code compliance and permit applications, and construction administration. Architects should work with their clients, engineers, contractors and others to verify that all issues relating to a building's design are carefully considered, including accessibility, and that the health, safety and welfare of the public are assured. Currently 33 states require that architects undergo continuing education as a condition of their licensure, ensuring that their understanding of accessibility issues keeps up with advances in technology and practice.
@@ -1886,15 +1886,15 @@ Interior designers provide a scope of services to protect and enhance the life, 
 Information Technology (IT) Engineers.\
 IT engineers deal with the design and integration of multiple systems of structured cable and wireless information technologies relating to buildings and building occupants. Information systems will affect all design objectives of the complex modern commercial, institutional, or governmental building including access to telecommunications and security devices.
 
-A list of design community organizations is provided at Appendix H.
+A list of design community organizations is provided at Appendix H.
 
 Building Code Officials.\
-The code official is authorized to enforce the building and safety code(s) adopted by the applicable state or local jurisdiction.  The code official is not required or responsible for interpreting or enforcing any Federal regulations, and no attempt should be made to represent that any of the Federal regulations are being interpreted or enforced by the code official or the jurisdiction.  Permit applicants should be advised that the work they propose is not being reviewed for compliance with Federal regulations. 
+The code official is authorized to enforce the building and safety code(s) adopted by the applicable state or local jurisdiction.  The code official is not required or responsible for interpreting or enforcing any Federal regulations, and no attempt should be made to represent that any of the Federal regulations are being interpreted or enforced by the code official or the jurisdiction.  Permit applicants should be advised that the work they propose is not being reviewed for compliance with Federal regulations. 
 
-The model codes have worked extensively with the Access Board to coordinate requirements between the building codes and the ADA/ABA Guidelines.  The format, text and graphics are very similar.
+The model codes have worked extensively with the Access Board to coordinate requirements between the building codes and the ADA/ABA Guidelines.  The format, text and graphics are very similar.
 
 Disability Rights and Consumer Organizations.\
-Disability organizations educate, advise, advocate, and provide resource connections to people with disabilities, court personnel and attorneys to facilitate achievement of accessible judicial proceedings.  They ensure that communities of persons with disabilities have equal opportunity to inform and advise participants in the decision-making process for building and maintaining accessible courthouses.  A list of disability organizations is provided at Appendix I.
+Disability organizations educate, advise, advocate, and provide resource connections to people with disabilities, court personnel and attorneys to facilitate achievement of accessible judicial proceedings.  They ensure that communities of persons with disabilities have equal opportunity to inform and advise participants in the decision-making process for building and maintaining accessible courthouses.  A list of disability organizations is provided at Appendix I.
 
 *Website Content: Resources*
 
@@ -1948,9 +1948,9 @@ The following presentations address physical access issues in courts, which is t
 Justice and Accessibility
 
 Course Description:\
-Courthouses pose unique challenges to accessibility for people with disabilities. Access to courthouses has been problematic, as reflected in cases filed under the landmark ADA. This educational course responds to these issues and challenges by featuring design solutions and best practices for integrating accessibility into the design of courthouses, particularly courtrooms. These solutions demonstrate how access can be achieved without compromising the features and conventions of traditional courtroom design.  This course also provides the background on accessibility, the regulatory environment, and enforcement, with an overview of the various roles design professionals play in solving the problems of access.
+Courthouses pose unique challenges to accessibility for people with disabilities. Access to courthouses has been problematic, as reflected in cases filed under the landmark ADA. This educational course responds to these issues and challenges by featuring design solutions and best practices for integrating accessibility into the design of courthouses, particularly courtrooms. These solutions demonstrate how access can be achieved without compromising the features and conventions of traditional courtroom design.  This course also provides the background on accessibility, the regulatory environment, and enforcement, with an overview of the various roles design professionals play in solving the problems of access.
 
-Users of this material will learn the about guidelines for courthouses issued under the ADA and ABA and how specific design alternatives and best practices meet or exceed these criteria. The focus is on innovative alternatives that improve access by making it integral to design and that benefit all facility occupants. The course introduces the courthouse and each element of the courtroom with a focus on the accessibility requirements and features to be addressed while offering solutions and guidance through an integrated design approach.
+Users of this material will learn the about guidelines for courthouses issued under the ADA and ABA and how specific design alternatives and best practices meet or exceed these criteria. The focus is on innovative alternatives that improve access by making it integral to design and that benefit all facility occupants. The course introduces the courthouse and each element of the courtroom with a focus on the accessibility requirements and features to be addressed while offering solutions and guidance through an integrated design approach.
 
 This guidance, recently developed by an advisory committee that included representation from designers, court operators, the judiciary, and the disability community, breaks new ground in demonstrating how various types of courtrooms can be made fully accessible. Additional information and resources are provided that offers a view into future issues and trends in the design community that will have an impact on courthouse design.
 
@@ -2061,7 +2061,7 @@ Program Abstract:
 #### Demographics of Disability
 
 Total Number of People with Disabilities\
-In 1987, when the first drafts of the ADA were being seriously considered, official estimates were that 43 million people would be covered by this Federal law. Today that number has risen to 58 million according to the International Center for Disability Information (ICDI).  Various summaries, including those issued by the ICDI and the National Institute on Disability and Rehabilitation Research, indicate that 20% of the population have one or more disabilities and that approximately 10% have severe disabilities.
+In 1987, when the first drafts of the ADA were being seriously considered, official estimates were that 43 million people would be covered by this Federal law. Today that number has risen to 58 million according to the International Center for Disability Information (ICDI).  Various summaries, including those issued by the ICDI and the National Institute on Disability and Rehabilitation Research, indicate that 20% of the population have one or more disabilities and that approximately 10% have severe disabilities.
 
 Who We Are Describing\
 According to the 2004 National Organization on Disability (NOD)/Harris Survey, three times as many people with disabilities live in poverty with annual household incomes below $15,000 (26% versus 9%). 59% of respondents in a previous Harris survey thought that people with disabilities face some discrimination while an additional 19% think there is "a great deal" of prejudice and discrimination.
@@ -2076,13 +2076,13 @@ A large percentage of individuals in this category (34%) have significant orthop
 
 This demographic includes blind and visually impaired persons. As few as 10-15% of people with vision impairments use braille. Therefore, many people with vision impairments prefer printed information to be presented in large print, audiotapes or computer generated formats.
 
-NOD/Harris surveys have found that the numbers of individuals who are deaf or hard of hearing roughly matches the numbers of those with vision impairments.  Best estimates indicate that 15% to 20% of this group use American Sign Language (ASL) and are a part of the Deaf Culture. The remainder, many of whom are late on-set deaf, consider English (or their native language) as their primary information source and need written text, whether real time captioning, open or closed captioning of materials or print scripts.
+NOD/Harris surveys have found that the numbers of individuals who are deaf or hard of hearing roughly matches the numbers of those with vision impairments.  Best estimates indicate that 15% to 20% of this group use American Sign Language (ASL) and are a part of the Deaf Culture. The remainder, many of whom are late on-set deaf, consider English (or their native language) as their primary information source and need written text, whether real time captioning, open or closed captioning of materials or print scripts.
 
 Other research has found that the population of people with hearing loss is much greater. Recent research conducted by Sergei Kochkin, Ph.D., of the Better Hearing Institute, indicates that the population of people with hearing loss has grown from an estimated 28 million people in 1989 to over 31 million people in 2004 and is anticipated to grow by a third in less than a generation to 40 million people. Of this population of people, approximately 99% generally communicate verbally. These individuals have a hearing loss ranging from mild to profound and rely on hearing aids, cochlear implants, assistive listening systems, captioning and other forms of technology to communicate. The remainder, approximately 1 percent of the total, are deaf and generally communicate using sign language, most frequently ASL (American Sign Language).
 
 -   4% of those with disabilities have developmental or cognitive disabilities.
 
-The vast majority of this group is defined as moderately to mildly limited in their cognitive abilities.  3% can be classified as having severe developmental disabilities. Currently approximately 97% of those designated as having developmental or cognitive disabilities are living in their communities, whether in their own homes or in group settings.
+The vast majority of this group is defined as moderately to mildly limited in their cognitive abilities.  3% can be classified as having severe developmental disabilities. Currently approximately 97% of those designated as having developmental or cognitive disabilities are living in their communities, whether in their own homes or in group settings.
 
 -   5% of those with disabilities have mental illnesses.
 
@@ -2092,7 +2092,7 @@ Of this group, 10% have a significant heart or circulatory problem that seriousl
 
 There are also a significant number of people who are sensitive to chemicals and electromagnetic fields. Surveys conducted by the California and New Mexico Departments of Health and by medical researchers in North Carolina found 16 to 33% of the people interviewed reported that they are unusually sensitive to chemicals, and 2% to 6% reported that they have been diagnosed as having multiple chemical sensitivities. Another California Department of Health Services survey has found that 3% of the people interviewed reported that they are unusually sensitive to electric appliances or power lines.
 
-A report from the [Indoor Environmental Quality Project](http://ieq.nibs.org/), which the Board sponsored, provides recommendations for providing indoor air quality responsive to the needs of people with multiple chemical sensitivities and allergies. See also C. Miller and N. Ashford, "Multiple Chemical Intolerance and Indoor Air Quality," in Indoor Air Quality Handbook Chapter 27.8 (McGraw-Hill 2001).
+A report from the [Indoor Environmental Quality Project](http://ieq.nibs.org/), which the Board sponsored, provides recommendations for providing indoor air quality responsive to the needs of people with multiple chemical sensitivities and allergies. See also C. Miller and N. Ashford, "Multiple Chemical Intolerance and Indoor Air Quality," in Indoor Air Quality Handbook Chapter 27.8 (McGraw-Hill 2001).
 
 -   40% of those with disabilities report they have more than one disabling condition.
 
@@ -2130,7 +2130,7 @@ In 2004, the Board completed a comprehensive review and update of its facility g
 
 The updated guidelines provide a new baseline for the enforceable standards of the ADA and the ABA. These standards are maintained by other agencies, including the General Services Administration (GSA) and the U.S. Department of Justice (DOJ). In 2005, GSA adopted new standards based on the guidelines that apply to most federally funded facilities covered by the ABA (except postal, military, and housing facilities, which are covered by standards issued by other agencies). DOJ and the U.S. Department of Transportation (DOT) are responsible for updating standards for facilities covered by the ADA according to the guidelines.
 
-A list of Federal agencies involved in disability enforcement is provided at Appendix E.
+A list of Federal agencies involved in disability enforcement is provided at Appendix E.
 
 *Architectural Barriers Act*\
 The Architectural Barriers Act (ABA), enacted in 1968, requires access to facilities designed, built, altered or leased by Federal agencies. It also applies to certain facilities financed by Federal grants or loans. The law covers a wide range of facilities, including Federal courthouses. The ABA is the first law passed by Congress to require access to the built environment by people with disabilities. Facilities that pre-date the law generally are not covered.
@@ -2139,14 +2139,14 @@ Four Federal agencies maintain the standards used to enforce the ABA. Those adop
 
 The Access Board enforces the ABA by investigating complaints concerning particular facilities. The first step of an investigation is to determine whether the facility is covered by the law. Where a facility is covered by the ABA, the next step is to verify whether the facility meets the applicable accessibility standards. If it does not, then the Access Board will work with the responsible entities to develop a plan to bring the facility into compliance. Cases are closed only after the necessary corrective action is completed.
 
-The standards and other information on the ABA are available at [www.access-board.gov](https://www.access-board.gov/index.htm).
+The standards and other information on the ABA are available at [www.access-board.gov](https://www.access-board.gov/index.htm).
 
 *Americans with Disabilities Act*\
 Title II of the Americans with Disabilities Act (ADA), enacted in 1990, requires state and local governments to make all of their programs, services, and activities, when viewed in their entirety, accessible to people with disabilities. New construction or alterations to facilities covered by Title II, which include state and local courthouses, must comply with the ADA Accessibility Standards for Accessible Design, adopted by DOJ in 1992. In addition, Title II imposes non-architectural obligations, such as effective communication and reasonable modification of policies on state and local government agencies. DOJ will update the standards in the future according to the new ADA-ABA Accessibility Guidelines issued by the Access Board.
 
 The DOJ has enforcement responsibilities for all programs, services, and activities relating to law enforcement and the administration of justice, including state and local courts and correctional institutions. Under Title II, an administrative complaint concerning a state or local courthouse may be filed with the DOJ or a lawsuit may be filed in Federal district court. If an individual files an administrative complaint, the DOJ will investigate the allegations of discrimination. Should the agency conclude that the public entity violated Title II, it will attempt to negotiate a settlement with the public entity to remedy the violations. Where voluntary compliance cannot be achieved, the complaint may be referred for litigation.
 
-Information on ADA Title II is available at [www.usdoj.gov/crt/ada/adahom1.htm](http://www.usdoj.gov/crt/ada/adahom1.htm).
+Information on ADA Title II is available at [www.usdoj.gov/crt/ada/adahom1.htm](http://www.usdoj.gov/crt/ada/adahom1.htm).
 
 *Section 504 of the Rehabilitation Act*\
 Section 504 of the Rehabilitation Act of 1973 covers access to programs or activities that receive Federal financial assistance. Most state and local courthouses are subject to Section 504. The substantive standards adopted for ADA Title II (see below) are generally the same as those required under Section 504, but Title II does not displace any existing Section 504 jurisdiction. Section 504 requires courthouses constructed or altered since its effective date to be fully accessible, as well as requiring other activities to provide accessible programs effective communication, and inclusion of people with disabilities.
@@ -2216,14 +2216,14 @@ Good acoustics require the use of more absorbent surfaces, carpeting and heavier
 See Assistive Listening Systems in Courtrooms (above).
 
 *Communication Access Realtime Translation (CART)*\
-A skilled "real time" reporter uses a steno machine, a laptop computer and realtime software to provide instant word-for-word speech-to-text translation on a computer or TV screen or on a large projection screen. The person with a hearing loss then reads the text. A court stenographer who has had additional training in CART generally provides this service. CART is also referred to as "realtime captioning". CART provides not only the words, but also the spirit of the proceedings by including text describing environmental sounds, such as laughter. More information on CART can be found on the National Court Reporter's Association website at [www.cartinfo.org](http://www.cartinfo.org/).
+A skilled "real time" reporter uses a steno machine, a laptop computer and realtime software to provide instant word-for-word speech-to-text translation on a computer or TV screen or on a large projection screen. The person with a hearing loss then reads the text. A court stenographer who has had additional training in CART generally provides this service. CART is also referred to as "realtime captioning". CART provides not only the words, but also the spirit of the proceedings by including text describing environmental sounds, such as laughter. More information on CART can be found on the National Court Reporter's Association website at [www.cartinfo.org](http://www.cartinfo.org/).
 
 *Interpreters and Transliterators*\
 The majority of Deaf people communicate by American Sign Language (ASL) or Pidgin Signed English, a combination of English and ASL. In addition to not being able to hear speech, English is not their first language and, therefore, a qualified sign language interpreter is needed for communication access. It is recommended that in life-altering situations such as court proceedings, that a Deaf-Hearing interpreter team (ASL and Deaf Interpreters) be used to allow for the most accurate communication possible. Qualified interpreters, with experience and extra training in courtrooms are preferred. The Americans With Disabilities Act (ADA) defines the term "qualified interpreter" in its Title III regulations to mean: "an interpreter who is able to interpret effectively, accurately and impartially both receptively and expressively, using any necessary specialized vocabulary."
 
 Interpreter certification varies by state but most states require some experience in court room interpreting. The National Registry of Interpreters for the Deaf (RID) provides testing for national certification. Assessments by the National Association for the Deaf (NAD) and other state agencies may also be accepted.
 
-Interpreters require ample space to allow them to gesture while facing those who require their services.  Adequate frontal lighting must be provided so both their facial expressions and gestures can be seen. There are several kinds of interpreters who serve people who are deaf and occasionally those who are hard of hearing. The following definitions are taken from the University of Illinois at Chicago website, [www.disabilityresource.uic.edu](http://www.disabilityresource.uic.edu/).
+Interpreters require ample space to allow them to gesture while facing those who require their services.  Adequate frontal lighting must be provided so both their facial expressions and gestures can be seen. There are several kinds of interpreters who serve people who are deaf and occasionally those who are hard of hearing. The following definitions are taken from the University of Illinois at Chicago website, [www.disabilityresource.uic.edu](http://www.disabilityresource.uic.edu/).
 
 *American Sign Language (ASL) Interpreter*\
 The ASL interpreter is the most common interpreter used in court. States and localities usually have their own specific qualifications for ASL interpreters. ASL interpreters are usually hired in pairs so they can alternate duties. ASL is a visual sign language with its own structure and grammatical rules. ASL uses gesture, space and facial expression to convey spoken words.
@@ -2416,7 +2416,7 @@ Rowe is a principal with Michael Graves & Associates, a professional architectur
 *Robert W. Schwartz, AIA, LEED AP*\
 Schwartz has been a leader in the planning and design effort for Hellmuth, Obata + Kassabaum, Inc. (HOK) on significant court projects throughout the United States. He was also a major contributor to the National Center for State Courts' The Courthouse: A Planning and Design Guide for Court Facilities. He has served on a Federal panel of architects, engineers, contractors and developers to establish methods to reduce the cost of Federal courthouses.
 
-*Marlene Walli Shade, AIA LEED* *AP*\
+*Marlene Walli Shade, AIA LEED* *AP*\
 Shade is an architect with PSA-Dewberry, Inc., which is involved in courts planning and design on a national, state, and local level. The work of her firm has included design of new facilities and retrofit of existing facilities for accessibility, as well as compliance reviews through a contract with the Administrative Office of the U.S. Courts.
 
 *Honorable Norma L. Shapiro*\
@@ -2531,15 +2531,15 @@ Note: These resources are intended to support the Enforcement pages.
 >\
 > **Disability and Business Technical Assistance Centers**\
 > Phone: 800-949-4232 (V/TTY)\
-> Website: [www.adata.org](http://www.adata.org/)
+> Website: [www.adata.org](http://www.adata.org/)
 >
 > Since 1991, local ADA and IT Technical Assistance Centers have been providing information, materials, technical assistance and training on the ADA. In 2001, their responsibilities expanded to include providing those same services in the area of accessible information technology, including assuring that technology purchases are those which best work with assistive devices used by people with disabilities.
 >
 > **Federal Technical Assistance Resources**\
-> [www.disabilityinfo.gov](http://www.disabilityinfo.gov/) -- one-stop online access to resources, services, and information available throughout the Federal government, including information on the New Freedom Initiative.
+> [www.disabilityinfo.gov](http://www.disabilityinfo.gov/) -- one-stop online access to resources, services, and information available throughout the Federal government, including information on the New Freedom Initiative.
 >
 > **National Council on Disability**\
-> Visit NCD's [Resources page](http://www.ncd.gov/resources.htm). [www.ncd.gov](http://www.ncd.gov/)\
+> Visit NCD's [Resources page](http://www.ncd.gov/resources.htm). [www.ncd.gov](http://www.ncd.gov/)\
 > 1331 F St., NW, Suite 850\
 > Washington, DC 20004\
 > Phone: 202-272-2004 (Voice); 202-272-2074 (TTY)
@@ -2553,8 +2553,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Washington, DC 20004-1111\
 > Phone: 800-872-2253 (voice) or 800-993-2822 (TTY), weekdays 10-5:30 EST (Wed. 10-2)\
 > Fax: 202-272-0081\
-> Email:  <ta@access-board.gov> (or <508@access-board.gov> for technical assistance on the standards for electronic and information technology)\
-> Website: [www.access-board.gov](https://www.access-board.gov/index.htm)
+> Email:  <ta@access-board.gov> (or <508@access-board.gov> for technical assistance on the standards for electronic and information technology)\
+> Website: [www.access-board.gov](https://www.access-board.gov/index.htm)
 >
 > **U.S. Department of Justice**\
 > 950 Pennsylvania Avenue, NW\
@@ -2562,7 +2562,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Disability Rights Section\
 > Washington, D.C. 20530\
 > Phone: 800-514-0301 (voice) and 800-514-0383 (TTY)\
-> Website: [www.ada.gov](http://www.ada.gov/)
+> Website: [www.ada.gov](http://www.ada.gov/)
 >
 > U.S. DOJ's Disability Rights Home Page; links to other relevant Federal agencies. ADA Specialists are available to provide ADA information and answers to technical questions on Monday, Tuesday, Wednesday, and Friday from 9:30 a.m. until 5:30 p.m. or on Thursday from 12:30 p.m. until 5:30 p.m. (Eastern Time).
 >
@@ -2570,7 +2570,7 @@ Note: These resources are intended to support the Enforcement pages.
 > P.O. Box 7033\
 > Lawrence, Kansas 66044\
 > 800-669-4000 (voice) and 800-669-6820 (TTY)\
-> Website: [www.eeoc.gov](http://www.eeoc.gov/)
+> Website: [www.eeoc.gov](http://www.eeoc.gov/)
 
 * * * * *
 
@@ -2583,7 +2583,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Williamsburg, VA 23185-4147\
 > PHONE: 757-259-1841\
 > FAX: 757-259-1520\
-> EMAIL: <aja@ncsc.dni.us>
+> EMAIL: <aja@ncsc.dni.us>
 >
 > NAME: Conference of Chief Justices\
 > ADDRESS: c/o Association Management, National Center for State Courts\
@@ -2591,7 +2591,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Williamsburg, VA 23185-4147\
 > PHONE: 757-259-1841\
 > FAX: 757-259-1520\
-> EMAIL: <ccj@ncsc.dni.us>
+> EMAIL: <ccj@ncsc.dni.us>
 >
 > NAME: Conference of Court Public Information Officers\
 > ADDRESS: National Center for State Courts\
@@ -2599,7 +2599,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Williamsburg, VA 23185-4147\
 > PHONE: 757-259-1841\
 > FAX: 757-259-1520\
-> WEBSITE: [www.courtpio.org](http://www.courtpio.org/)
+> WEBSITE: [www.courtpio.org](http://www.courtpio.org/)
 >
 > NAME: Conference of State Court Administrators\
 > ADDRESS: National Center for State Courts\
@@ -2607,7 +2607,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Williamsburg, VA 23185-4147\
 > PHONE: 800-877-1233\
 > FAX: 757-564-2022\
-> EMAIL: <webmaster@ncsc.dni.us>
+> EMAIL: <webmaster@ncsc.dni.us>
 >
 > NAME: Court Information Technology Officers Consortium\
 > ADDRESS: National Center for State Courts\
@@ -2615,7 +2615,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Williamsburg, VA 23185-4147\
 > PHONE: 757-259-1841\
 > FAX: 757-259-1520\
-> WEBSITE: [www.ncsconline.org](http://www.ncsconline.org/)
+> WEBSITE: [www.ncsconline.org](http://www.ncsconline.org/)
 >
 > NAME: The Judicial Education Reference, Information and Technical Transfer\
 > ADDRESS: JERITT Project, Michigan State University\
@@ -2623,7 +2623,7 @@ Note: These resources are intended to support the Enforcement pages.
 > East Lansing, MI 48823-5239\
 > PHONE: 517-353-8603\
 > FAX: 517-432-3965\
-> EMAIL: <jeritt@ssc.msu.edu>
+> EMAIL: <jeritt@ssc.msu.edu>
 >
 > NAME: Judicial Family Institute\
 > ADDRESS: National Center for State Courts\
@@ -2631,20 +2631,20 @@ Note: These resources are intended to support the Enforcement pages.
 > Williamsburg, VA 23185-4147\
 > PHONE: 757-259-1841\
 > FAX: 757-259-1520\
-> WEBSITE: <http://jfi.ncsconline.org/>
+> WEBSITE: <http://jfi.ncsconline.org/>
 >
 > NAME: Justice Management Institute\
 > ADDRESS: 1900 Grant Street, Suite 630\
 > Denver, CO 80203\
 > PHONE: 303-831-7564\
 > FAX: 303-831-4564\
-> WEBSITE: [www.jmijustice.org/Home/PublicWeb](http://www.jmijustice.org/Home/PublicWeb)
+> WEBSITE: [www.jmijustice.org/Home/PublicWeb](http://www.jmijustice.org/Home/PublicWeb)
 >
 > NAME: Mid-Atlantic Association for Court Management\
 > ADDRESS: Administrative Office of the Pennsylvania Courts\
 > 5001 Louise Drive\
 > Mechanicsburg, PA 17055\
-> WEBSITE: [www.maacm.org/](http://www.maacm.org/)
+> WEBSITE: [www.maacm.org/](http://www.maacm.org/)
 >
 > NAME: National Association for Court Management\
 > ADDRESS: c/o Association Management, National Center for State Courts\
@@ -2652,8 +2652,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Williamsburg, VA 23185-4147\
 > PHONE: 757-259-1841 or 800-616-6165\
 > FAX: 757-259-1520\
-> EMAIL: <nacm@ncsc.dni.us>\
-> WEBSITE: [www.nacmnet.org](http://www.nacmnet.org/)
+> EMAIL: <nacm@ncsc.dni.us>\
+> WEBSITE: [www.nacmnet.org](http://www.nacmnet.org/)
 >
 > NAME: National Association of State Judicial Educators\
 > ADDRESS: National Center for State Courts\
@@ -2661,22 +2661,22 @@ Note: These resources are intended to support the Enforcement pages.
 > Williamsburg, VA 23185-4147\
 > PHONE: 757-259-1841\
 > FAX: 757-259-1520\
-> WEBSITE: [http://nasje.org](http://nasje.org/)
+> WEBSITE: [http://nasje.org](http://nasje.org/)
 >
 > NAME: National Association of Women Judges\
 > ADDRESS: 1112 16th Street, N.W., Suite 520\
 > Washington, D.C. 20036-4807\
 > PHONE: 202-393-0125\
-> EMAIL: <NAWJ@NAWJ.ORG>\
-> WEBSITE: [www.nawj.org](http://www.nawj.org/)
+> EMAIL: <NAWJ@NAWJ.ORG>\
+> WEBSITE: [www.nawj.org](http://www.nawj.org/)
 >
 > NAME: National Center for State Courts\
 > ADDRESS: 300 Newport Avenue\
 > Williamsburg, VA 23185-4147\
 > PHONE: 800-616-6164\
 > FAX: 757-564-2022\
-> EMAIL: <webmaster@ncsc.dni.us>\
-> WEBSITE: [www.ncsconline.org](http://www.ncsconline.org/)
+> EMAIL: <webmaster@ncsc.dni.us>\
+> WEBSITE: [www.ncsconline.org](http://www.ncsconline.org/)
 >
 > NAME: National College of Probate Judges\
 > ADDRESS: National Center for State Courts\
@@ -2684,7 +2684,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Williamsburg, VA 23185-4147\
 > PHONE: 757-259-1841\
 > FAX: 757-259-1520\
-> WEBSITE: [www.ncpj.org](http://www.ncpj.org/)
+> WEBSITE: [www.ncpj.org](http://www.ncpj.org/)
 >
 > NAME: National Conference of Appellate Court Clerks\
 > ADDRESS: National Center for State Courts\
@@ -2692,8 +2692,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Williamsburg, VA 23185-4147\
 > PHONE: 757-259-1841\
 > FAX: 757-259-1520\
-> EMAIL: <inquires@appellatecourtclerks.org>\
-> WEBSITE: [www.appellatecourtclerks.org](http://www.appellatecourtclerks.org/)
+> EMAIL: <inquires@appellatecourtclerks.org>\
+> WEBSITE: [www.appellatecourtclerks.org](http://www.appellatecourtclerks.org/)
 >
 > NAME: National Conference of State Trial Judges of the American Bar Association\
 > ADDRESS: ABA Judicial Division\
@@ -2702,22 +2702,22 @@ Note: These resources are intended to support the Enforcement pages.
 > Chicago, Illinois 60610\
 > PHONE: 800-238-2667 x5705\
 > FAX: 312-988-5709\
-> EMAIL: <abajd@abanet.org>\
-> WEBSITE: [www.abanet.org/jd/ncstj/home.html](http://www.abanet.org/jd/ncstj/home.html)
+> EMAIL: <abajd@abanet.org>\
+> WEBSITE: [www.abanet.org/jd/ncstj/home.html](http://www.abanet.org/jd/ncstj/home.html)
 >
 > NAME: National Consortium on Racial and Ethnic Fairness in the Courts\
 > ADDRESS: National Center for State Courts\
 > 2425 Wilson Blvd., Suite 350\
 > Arlington, VA 22201\
 > PHONE: 703-841-5610\
-> WEBSITE: [www.consortiumonline.net/](http://www.consortiumonline.net/)
+> WEBSITE: [www.consortiumonline.net/](http://www.consortiumonline.net/)
 >
 > NAME: State Justice Institute\
 > ADDRESS: 1650 King Street, Suite 600\
 > Alexandria, VA 22314\
 > PHONE: 703-684-6100\
 > FAX: 703-684-7618\
-> WEBSITE: [www.statejustice.org/](http://www.statejustice.org/)
+> WEBSITE: [www.statejustice.org/](http://www.statejustice.org/)
 
 * * * * *
 
@@ -2730,15 +2730,15 @@ Note: These resources are intended to support the Enforcement pages.
 > Washington, DC 20005\
 > PHONE: 202-662-1570\
 > FAX: 202-662-1032 (Fax)\
-> WEBSITE: [www.abanet.org/disability/home.html](http://www.abanet.org/disability/home.html)\
-> EMAIL: <cmpdl@abanet.org>
+> WEBSITE: [www.abanet.org/disability/home.html](http://www.abanet.org/disability/home.html)\
+> EMAIL: <cmpdl@abanet.org>
 >
 > NAME: Alabama State Bar\
 > ADDRESS: 415 Dexter Avenue\
 > Montgomery, Alabama 36104\
 > PHONE: 334-269-1515\
 > FAX: 334-261-6310\
-> WEBSITE: [www.alabar.org](http://www.alabar.org/)
+> WEBSITE: [www.alabar.org](http://www.alabar.org/)
 >
 > > Disability Law Section\
 > > This section, created in 1995, is open to attorneys who serve the needs of a variety of clients (individuals, corporations and municipalities) in the rapidly developing field of disabilities law. Joining the section will give members an opportunity to network with attorneys of similar interests and attend professional educational seminars, as well as forum to exchange ideas and information.
@@ -2748,8 +2748,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Anchorage, AK 99510-0279\
 > PHONE: 907-272-7469\
 > FAX: 907-272-2932\
-> EMAIL: [](mailto:info@alaskabar.org%20)<info@alaskabar.org>\
-> WEBSITE: [www.alaskabar.org](http://www.alaskabar.org/)
+> EMAIL: [](mailto:info@alaskabar.org%20)<info@alaskabar.org>\
+> WEBSITE: [www.alaskabar.org](http://www.alaskabar.org/)
 >
 > NAME: State Bar of Arizona\
 > Committee on Persons with Disabilities in the Legal Profession\
@@ -2757,7 +2757,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Phoenix, Arizona 85016-6288\
 > PHONE: 602-252-4804\
 > FAX: 602-271-4930\
-> WEBSITE: [www.azbar.org](http://www.azbar.org/)
+> WEBSITE: [www.azbar.org](http://www.azbar.org/)
 >
 > > Southern Regional Office/Tucson\
 > > 320 South Convent\
@@ -2769,8 +2769,8 @@ Note: These resources are intended to support the Enforcement pages.
 > ADDRESS: 400 West Markham\
 > Little Rock, AR 72201\
 > PHONE: 501-375-4606\
-> WEBSITE: [www.arkbar.com](http://www.arkbar.org/)\
-> CONTACT: <arkbar1@swbell.net>
+> WEBSITE: [www.arkbar.com](http://www.arkbar.org/)\
+> CONTACT: <arkbar1@swbell.net>
 >
 > > Disability Law Section\
 > > The Disability Law Section shall promote the objects of the Association within the field of disability law, including Social Security Law and including all related Federal and state laws. It pledges to promote professionalism, excellence, and understanding and cooperation among those attorneys engaged in this field of law.
@@ -2780,7 +2780,7 @@ Note: These resources are intended to support the Enforcement pages.
 > ADDRESS: 180 Howard Street\
 > San Francisco, CA 94105\
 > PHONE: 415-538-2000\
-> WEBSITE: [www.calbar.org](http://www.calbar.org/)
+> WEBSITE: [www.calbar.org](http://www.calbar.org/)
 >
 > > Committee on Legal Professionals with Disabilities\
 > > The Committee on Legal Professionals with Disabilities (CLPD) is one of five Access & Fairness committees which seek to eliminate bias in the bar and the legal profession. CLPD consists of attorney and public members including legal professionals with disabilities, advocates, and educators experienced in addressing legal rights of persons with disabilities.
@@ -2790,8 +2790,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Denver CO 80203\
 > PHONE: 303-860-1115\
 > FAX: 303-894-0821\
-> EMAIL: <Comments@cobar.org>\
-> WEBSITE: [www.cobar.org](http://www.cobar.org/)
+> EMAIL: <Comments@cobar.org>\
+> WEBSITE: [www.cobar.org](http://www.cobar.org/)
 >
 > > Disability Law Section\
 > > Concentrates on the laws and procedures governing or related to disabilities. The committee makes recommendations to the Board of Governors concerning legislation or procedural improvements in the disability law field. The committee also publishes a semi-annual column in The Colorado Lawyer, sponsors a session on a current legal topic of interest at the annual CBA convention, and co-sponsors occasional training events in the area of disability law.
@@ -2802,7 +2802,7 @@ Note: These resources are intended to support the Enforcement pages.
 > New Britain, CT 06050-0350\
 > PHONE: 860-223-4400\
 > FAX: 860-223-4488\
-> WEBSITE: [www.ctbar.org](http://www.ctbar.org/)
+> WEBSITE: [www.ctbar.org](http://www.ctbar.org/)
 >
 > > Committee on Disability Law\
 > > Examines the law as it pertains to the physically and mentally impaired, promotes change where indicated, through the CBA and committee action, assures the safeguarding of the rights of the disabled.
@@ -2812,15 +2812,15 @@ Note: These resources are intended to support the Enforcement pages.
 > Wilmington, Delaware 19801\
 > PHONE: 302-658-5279\
 > FAX: 302-658-5212\
-> WEBSITE: [www.dsba.org](http://www.dsba.org/)
+> WEBSITE: [www.dsba.org](http://www.dsba.org/)
 >
 > NAME: District of Columbia Bar\
 > ADDRESS: 1250 H Street NW, Sixth Floor\
 > Washington, DC 20005-5937\
 > PHONE: 202-737-4700\
 > FAX: 202-626-3471\
-> EMAIL: <executive.office@dcbar.org>\
-> WEBSITE: [www.dcbar.org](http://www.dcbar.org/)
+> EMAIL: <executive.office@dcbar.org>\
+> WEBSITE: [www.dcbar.org](http://www.dcbar.org/)
 >
 > NAME: The Florida Bar\
 > ADDRESS: 651 East Jefferson Street\
@@ -2841,51 +2841,51 @@ Note: These resources are intended to support the Enforcement pages.
 > Atlanta, Georgia 30303\
 > PHONE: 404-527-8700\
 > FAX: 404-527-8717\
-> WEBSITE: [www.gabar.org](http://www.gabar.org/)
+> WEBSITE: [www.gabar.org](http://www.gabar.org/)
 >
 > NAME: Hawaii State Bar Association\
 > ADDRESS: 1132 Bishop Street, Suite 906\
 > Honolulu, HI 96813\
 > PHONE: 808-537-1868\
 > FAX: 808-521-7936\
-> WEBSITE: [www.hsba.org](http://www.hsba.org/)
+> WEBSITE: [www.hsba.org](http://www.hsba.org/)
 >
 > NAME: Idaho State Bar\
 > ADDRESS: P.O. Box 895\
 > Boise, ID 83701\
 > PHONE: 208-334-4500\
 > FAX: 208-834-4515\
-> WEBSITE: [www.state.id.us/ISB](http://www.state.id.us/ISB%20)
+> WEBSITE: [www.state.id.us/ISB](http://www.state.id.us/ISB%20)
 >
 > NAME: Illinois State Bar Association\
 > Illinois Bar Center\
 > ADDRESS: 424 S. Second Street\
 > Springfield, IL 62701\
 > PHONE: 217-525-1760\
-> WEBSITE: [www.isba.org](http://www.isba.org%20/)
+> WEBSITE: [www.isba.org](http://www.isba.org%20/)
 >
 > NAME: Indiana State Bar Association\
 > ADDRESS: One Indiana Square, Suite 530\
 > Indianapolis, IN 46204\
 > PHONE: 317-639-5465\
 > FAX: 317-266-2588\
-> EMAIL: <isbaadmin@inbar.org>\
-> WEBSITE: [www.inbar.org](http://www.inbar.org/)
+> EMAIL: <isbaadmin@inbar.org>\
+> WEBSITE: [www.inbar.org](http://www.inbar.org/)
 >
 > NAME: Iowa State Bar Association\
 > ADDRESS: 521 East Locust\
 > Des Moines IA 50309-1939\
 > PHONE: 515-243-3179\
-> EMAIL: <isba@iowabar.org>\
-> WEBSITE: [www.iowabar.org](http://www.iowabar.org/)
+> EMAIL: <isba@iowabar.org>\
+> WEBSITE: [www.iowabar.org](http://www.iowabar.org/)
 >
 > NAME: Kansas Bar Association\
 > ADDRESS: 1200 SW Harrison\
 > Topeka, KS 66612-1806\
 > PHONE: 785-234-5696\
 > FAX: 785-234-3813\
-> EMAIL: <info@ksbar.org>\
-> WEBSITE: [www.ksbar.org](http://www.ksbar.org/)
+> EMAIL: <info@ksbar.org>\
+> WEBSITE: [www.ksbar.org](http://www.ksbar.org/)
 >
 > NAME: Kentucky Bar Association\
 > ADDRESS: Education Committee\
@@ -2893,13 +2893,13 @@ Note: These resources are intended to support the Enforcement pages.
 > Frankfort, KY 40601-1883\
 > PHONE: 502-564-3795\
 > FAX: 502-564-3225\
-> WEBSITE: [www.kybar.org](http://www.kybar.org/)
+> WEBSITE: [www.kybar.org](http://www.kybar.org/)
 >
 > NAME: Louisiana State Bar Association\
 > ADDRESS: 601 St. Charles Avenue\
 > New Orleans, LA 70130-3404\
 > PHONE: 504-566-1600\
-> WEBSITE: [www.lsba.org](http://www.lsba.org/)
+> WEBSITE: [www.lsba.org](http://www.lsba.org/)
 >
 > > Legal Services for Persons with Disabilities\
 > > The mission of the Legal Services for Persons with Disabilities Committee shall be to provide members of the bench, bar and the general public with a greater understanding and knowledge of the legal needs and rights of persons with disabilities; to better meet the legal needs of persons with disabilities, and to increase the knowledge that persons with disabilities have regarding their rights and resources.
@@ -2909,14 +2909,14 @@ Note: These resources are intended to support the Enforcement pages.
 > Augusta, ME 04332-0788\
 > PHONE: 207-622-7523\
 > FAX: 207-623-0083\
-> WEBSITE: [www.mainebar.org](http://www.mainebar.org/)
+> WEBSITE: [www.mainebar.org](http://www.mainebar.org/)
 >
 > NAME: Maryland State Bar Association\
 > ADDRESS: 520 West Fayette Street\
 > Baltimore, MD 21201\
 > PHONE: 410-685-7878\
 > FAX: 410-685-1016\
-> WEBSITE: [www.msba.org](http://www.msba.org/)
+> WEBSITE: [www.msba.org](http://www.msba.org/)
 >
 > > Delivery of Legal Services\
 > > The purposes of this Section are to promote the administration of justice in the State of Maryland by providing and encouraging others to provide legal services in those areas of law practice in which legal representation is not adequately and routinely available through the normal fee-for-services private law practice, either because adequate fees are not available or because the client needs to identify a lawyer to represent him. Those areas of law practice may include, for example, legal services for the indigent, both civil and criminal; public interest law; civil rights law; law clinics for persons of modest means; consumer advocacy; legal services for the handicapped; prepaid legal service plans; and lawyer referral service.
@@ -2927,7 +2927,7 @@ Note: These resources are intended to support the Enforcement pages.
 > ADDRESS: 20 West Street\
 > Boston, MA 02111-1204\
 > PHONE: 617-338-0500\
-> WEBSITE: [www.massbar.org](http://www.massbar.org/)
+> WEBSITE: [www.massbar.org](http://www.massbar.org/)
 >
 > > Individual Rights and Responsibilities Section\
 > > The Individual Rights and Responsibilities Section advocates for the protection of individual rights, with an emphasis on those who are under-represented in the judicial system.
@@ -2937,18 +2937,18 @@ Note: These resources are intended to support the Enforcement pages.
 > Lansing, MI 48933-2083\
 > PHONE: 517-346-6300\
 > FAX: 517-482-6248\
-> WEBSITE: [www.michbar.org](http://www.michbar.org/)
+> WEBSITE: [www.michbar.org](http://www.michbar.org/)
 >
 > > Equal Access Initiative\
 > > This initiative's work is the development of policies and programs to underserved population groups as well as groups who present with special needs or who face barriers to access.
 > >
-> > The initiative's Disability Project addresses issues faced by people with disabilities in the courthouse setting. More information can be found at the Equal Access Initiative's website at <http://www.michbar.org/programs/equalaccess.cfm>.
+> > The initiative's Disability Project addresses issues faced by people with disabilities in the courthouse setting. More information can be found at the Equal Access Initiative's website at <http://www.michbar.org/programs/equalaccess.cfm>.
 >
 > NAME: Minnesota State Bar Association\
 > ADDRESS: 600 Nicollet Mall #380\
 > Minneapolis, MN 55402\
 > PHONE: 612-333-1183\
-> WEBSITE: [www.mnbar.org](http://www.mnbar.org/)
+> WEBSITE: [www.mnbar.org](http://www.mnbar.org/)
 >
 > > Human Rights Committee\
 > > Purpose: To develop appropriate goals and missions, and study and make recommendations in the area of human rights including, without limitation, the rights of children, the elderly, the mentally ill, those serving in penal institutions, and persons identified by race, color, creed, religion, national origin, gender, sexual orientation, marital status, low-income status, disability, and age.\
@@ -2959,15 +2959,15 @@ Note: These resources are intended to support the Enforcement pages.
 > Jackson, MS 39225-2168\
 > PHONE: 601-948-4471\
 > FAX: 601-355-8635\
-> EMAIL: <info@msbar.org>\
-> WEBSITE: [www.msbar.org](http://www.msbar.org/)
+> EMAIL: <info@msbar.org>\
+> WEBSITE: [www.msbar.org](http://www.msbar.org/)
 >
 > NAME: The Missouri Bar\
 > ADDRESS: 326 Monroe\
 > P.O. Box 119\
 > Jefferson City, MO 65102-0119\
-> EMAIL: <mobar@mobar.org>\
-> WEBSITE: [www.mobar.org](http://www.mobar.org/)
+> EMAIL: <mobar@mobar.org>\
+> WEBSITE: [www.mobar.org](http://www.mobar.org/)
 >
 > NAME: State Bar of Montana\
 > ADDRESS: W. 6th Ave., Ste. 2B\
@@ -2975,8 +2975,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Helena MT 59624\
 > PHONE: 406-442-7660\
 > FAX: 406-442-7763\
-> EMAIL: <mailbox@montanabar.org>\
-> WEBSITE: [www.montanabar.org](http://www.montanabar.org/)
+> EMAIL: <mailbox@montanabar.org>\
+> WEBSITE: [www.montanabar.org](http://www.montanabar.org/)
 >
 > NAME: Nebraska State Bar Association\
 > ADDRESS: 635 South 14th Street\
@@ -2984,7 +2984,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Lincoln, NE 68501\
 > PHONE: 402-475-7091\
 > FAX: 402-475-7098\
-> WEBSITE: [www.nebar.com](http://www.nebar.com/)
+> WEBSITE: [www.nebar.com](http://www.nebar.com/)
 >
 > > Minority and Justice Task Force / Implementation Committee\
 > > The Nebraska Supreme Court and the Nebraska State Bar Association, with the assistance of the Public Policy Center, established the Minority and Justice Task Force in 2001 to identify actual or perceived racial/ethnic bias and discrimination in the Nebraska justice system and make recommendations to the Supreme Court on how to address any identified inequities. Research was coordinated by the University of Nebraska Public Policy Center and was partially funded by two large grants from the State Justice Institute (SJI). The Final Report of the Minority and Justice Task Force was released to the public Friday, January 31, concluding the two-year study of the Nebraska court system and legal profession. The major recommendation of the Final Report was to establish a standing committee to implement the Task Force's recommendations. The Minority and Justice Implementation Committee, consisting of a racially and ethnically diverse group of judges, lawyers and community leaders, has been formed and is currently working on a number of initiatives.
@@ -2994,15 +2994,15 @@ Note: These resources are intended to support the Enforcement pages.
 > Las Vegas, NV 89104\
 > PHONE: 702-382-2200\
 > FAX: 702-385-2878\
-> WEBSITE: [www.nvbar.org](http://www.nvbar.org/)
+> WEBSITE: [www.nvbar.org](http://www.nvbar.org/)
 >
 > NAME: New Hampshire Bar Association\
 > ADDRESS: 112 Pleasant Street\
 > Concord, NH 03301\
 > PHONE: 603-224-6942\
 > FAX: 603-224-2910\
-> EMAIL: <nhbainfo@nhbar.org>\
-> WEBSITE: [www.nhbar.org](http://www.nhbar.org/)
+> EMAIL: <nhbainfo@nhbar.org>\
+> WEBSITE: [www.nhbar.org](http://www.nhbar.org/)
 >
 > > Mental & Physical Disabilities Law Section
 >
@@ -3011,7 +3011,7 @@ Note: These resources are intended to support the Enforcement pages.
 > New Brunswick, NJ 08901-1520\
 > PHONE: 732-249-5000\
 > FAX: 732-249-2815\
-> WEBSITE: [www.njsba.com](http://www.njsba.com/)
+> WEBSITE: [www.njsba.com](http://www.njsba.com/)
 >
 > > Elder and Disability Law Section
 >
@@ -3020,39 +3020,39 @@ Note: These resources are intended to support the Enforcement pages.
 > Albuquerque, NM 87199\
 > PHONE: 505-797-6000\
 > FAX: 505-828-3765\
-> EMAIL: <sbnm@nmbar.org>\
-> WEBSITE: [www.nmbar.org](http://www.nmbar.org/)
+> EMAIL: <sbnm@nmbar.org>\
+> WEBSITE: [www.nmbar.org](http://www.nmbar.org/)
 >
-> > Delivery of Legal Services to People With Disabilities\
-> > Mission:  To enhance awareness of the law and other issues as they relate to disability by the legal and lay community through education, and recognition.
+> > Delivery of Legal Services to People With Disabilities\
+> > Mission:  To enhance awareness of the law and other issues as they relate to disability by the legal and lay community through education, and recognition.
 >
 > NAME: New York State Bar Association\
 > ADDRESS: 1 Elk Street\
 > Albany, NY 12207\
 > PHONE: 518-463-3200\
-> WEBSITE: [www.nysba.org](http://www.nysba.org/)
+> WEBSITE: [www.nysba.org](http://www.nysba.org/)
 >
 > NAME: North Carolina Bar Association\
 > ADDRESS: P.O. Box 3688\
 > Cary, NC 27519-3688\
-> EMAIL: <ncba@ncbar.org>\
-> WEBSITE: [www.ncbar.org](http://www.ncbar.org/)
+> EMAIL: <ncba@ncbar.org>\
+> WEBSITE: [www.ncbar.org](http://www.ncbar.org/)
 >
 > NAME: State Bar Association of North Dakota\
 > ADDRESS: 504 N. Washington St.\
 > Bismarck, ND 58501\
 > PHONE: 701-255-1404\
 > FAX: 701-244-1621\
-> EMAIL: <info@sband.org>\
-> WEBSITE: [www.sband.org](http://www.sband.org/)
+> EMAIL: <info@sband.org>\
+> WEBSITE: [www.sband.org](http://www.sband.org/)
 >
 > NAME: Ohio State Bar Association\
 > ADDRESS: P.O. Box 16562\
 > Columbus, OH 43216-6562\
 > PHONE: 614-487-2050\
 > FAX: 614-487-1008\
-> EMAIL: <osba@ohiobar.org>\
-> WEBSITE: [www.ohiobar.org](http://www.ohiobar.org/)
+> EMAIL: <osba@ohiobar.org>\
+> WEBSITE: [www.ohiobar.org](http://www.ohiobar.org/)
 >
 > NAME: Oklahoma Bar Association\
 > ADDRESS: P.O. Box 53036\
@@ -3060,7 +3060,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Oklahoma City, OK 73152-3036\
 > PHONE: 405-416-7000\
 > FAX: 405-416-7001\
-> WEBSITE: [www.okbar.org](http://www.okbar.org/)
+> WEBSITE: [www.okbar.org](http://www.okbar.org/)
 >
 > > Lawyers with Physical Challenges Committee
 >
@@ -3069,8 +3069,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Lake Oswego, OR 97035\
 > PHONE: 503-620-0222\
 > FAX: 502-684-1366\
-> EMAIL: <info@osbar.org>\
-> WEBSITE: [www.osbar.org](http://www.osbar.org/)
+> EMAIL: <info@osbar.org>\
+> WEBSITE: [www.osbar.org](http://www.osbar.org/)
 >
 > > Disability Law Section
 >
@@ -3079,8 +3079,8 @@ Note: These resources are intended to support the Enforcement pages.
 > P.O. Box 186\
 > Harrisburg, PA 17108-0186\
 > PHONE: 717-238-6715\
-> EMAIL: <info@pabar.org>\
-> WEBSITE: [www.pabar.org](http://www.pabar.org/)
+> EMAIL: <info@pabar.org>\
+> WEBSITE: [www.pabar.org](http://www.pabar.org/)
 >
 > > Legal Services to Persons with Disabilities Committee\
 > > The Legal Services to Persons with Disabilities Committee has approximately 50 member lawyers who practice throughout the commonwealth. The committee's goal is to ensure that individuals with disabilities have equal access to legal representation. The committee actively reviews legal issues and legislation affecting individuals with disabilities and, when appropriate, drafts and recommends resolutions to the Pennsylvania Bar Association Board of Governors. The committee, together with the Pennsylvania Bar Association, has been instrumental in establishing a lawyer referral panel to provide legal representation to client with disabilities in a wide array of legal matters. Lawyers wishing to become a member of the Legal Services to Persons with Disabilities Committee must be licensed members of the bar and the Pennsylvania Bar Association. Committee meetings are held several times a year. If you are interested in becoming a member, please plan on attending the next meeting.
@@ -3090,30 +3090,30 @@ Note: These resources are intended to support the Enforcement pages.
 > Providence, RI 02903\
 > PHONE: 401-421-5740\
 > FAX: 401-421-2703\
-> EMAIL: <info@ribar.com>\
-> WEBSITE: [www.ribar.com](http://www.ribar.com/)
+> EMAIL: <info@ribar.com>\
+> WEBSITE: [www.ribar.com](http://www.ribar.com/)
 >
 > NAME: South Carolina Bar\
 > ADDRESS: 950 Taylor Street\
 > Columbia, SC 29202\
 > PHONE: 803-799-6653\
 > FAX: 803-799-4118\
-> EMAIL: <scbar-info@scbar.org>\
-> WEBSITE: [www.scbar.org](http://www.scbar.org/)
+> EMAIL: <scbar-info@scbar.org>\
+> WEBSITE: [www.scbar.org](http://www.scbar.org/)
 >
 > NAME: State Bar of South Dakota\
 > ADDRESS: 222 East Capitol Avenue\
 > Pierre, SD 57501\
 > PHONE: 605-224-7554\
-> WEBSITE: [www.sdbar.org](http://www.sdbar.org/)
+> WEBSITE: [www.sdbar.org](http://www.sdbar.org/)
 >
 > NAME: Tennessee Bar Association\
 > ADDRESS: 221 Fourth Ave. North, Ste. 400\
 > Nashville, TN 37219-2198\
 > PHONE: 615-383-7421\
 > FAX: 615-297-8058\
-> EMAIL: <email@tnbar.org>\
-> WEBSITE: [www.tba.org](http://www.tba.org/)
+> EMAIL: <email@tnbar.org>\
+> WEBSITE: [www.tba.org](http://www.tba.org/)
 >
 > > Disability Law Section\
 > > The Disability Law Section intends to be a valuable resource for Tennessee lawyers practicing in the area of disability rights or having an interest in building a disability rights practice. Legal practice within this section includes a wide range of Federal and state law advocacy, including casework under the Constitutions, the Americans with Disabilities Act, the Individuals with Disabilities Education Act, the Rehabilitation Act of 1973, the Social Security Act, the Older Americans Act, the Fair Housing Act Amendments of 1988, the Tennessee special education statute, guardianship and conservatorship law, and other areas. The section produces an annual CLE program.
@@ -3123,7 +3123,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Austin, TX 78704\
 > PHONE: 512-463-1453\
 > FAX: 512-936-2269\
-> WEBSITE: [www.texasbardisabilityissues.org](http://www.texasbardisabilityissues.org/)
+> WEBSITE: [www.texasbardisabilityissues.org](http://www.texasbardisabilityissues.org/)
 >
 > > Disabilities Issues Committee\
 > > To study the concerns of Texas lawyers with disabilities, as well as clients and members of the public, and make recommendations to the Board of Directors of the State Bar of Texas.
@@ -3133,8 +3133,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Salt Lake City, UT 84111\
 > PHONE: 801-531-9077\
 > FAX: 801-531-0660\
-> WEBSITE: [www.utahbar.org](http://www.utahbar.org/)\
-> EMAIL: <info@utahbar.org>
+> WEBSITE: [www.utahbar.org](http://www.utahbar.org/)\
+> EMAIL: <info@utahbar.org>
 >
 > NAME: Vermont Bar Association\
 > ADDRESS: 35-37 Court Street\
@@ -3142,7 +3142,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Montpelier, VT 05601-0100\
 > PHONE: 802-223-2020\
 > FAX: 802-223-1573\
-> WEBSITE: [www.vtbar.org](http://www.vtbar.org/)
+> WEBSITE: [www.vtbar.org](http://www.vtbar.org/)
 >
 > > Disability Law Section
 >
@@ -3150,15 +3150,15 @@ Note: These resources are intended to support the Enforcement pages.
 > ADDRESS: 707 East Main Street, Ste. 1500\
 > Richmond, VA 23219-2800\
 > PHONE: 804-775-0500\
-> WEBSITE: [www.vsb.org](http://www.vsb.org/)\
+> WEBSITE: [www.vsb.org](http://www.vsb.org/)\
 >\
 > NAME: Washington State Bar Association\
 > ADDRESS: 2101 Fourth Avenue, Suite 400\
 > Seattle, WA 98121-2330\
 > PHONE: 206-443-9722\
 > FAX: 206-727-8319\
-> WEBSITE: [www.wsba.org](http://www.wsba.org/)\
-> EMAIL: <questions@wsba.org>
+> WEBSITE: [www.wsba.org](http://www.wsba.org/)\
+> EMAIL: <questions@wsba.org>
 >
 > > Access to Justice
 >
@@ -3167,15 +3167,15 @@ Note: These resources are intended to support the Enforcement pages.
 > Charleston, WV 25311-2204\
 > PHONE: 304-558-2456\
 > FAX: 304-558-2467\
-> WEBSITE: [www.wvbar.org](http://www.wvbar.org/)
+> WEBSITE: [www.wvbar.org](http://www.wvbar.org/)
 >
 > NAME: State Bar of Wisconsin\
 > ADDRESS: 5302 Eastpark Blvd.\
 > Madison, WI 53718-2101\
 > PHONE: 608-257-3838\
 > FAX: 608-257-5502\
-> WEBSITE: [www.wisbar.org](http://www.wisbar.org/)\
-> EMAIL: <service@wisbar.org>
+> WEBSITE: [www.wisbar.org](http://www.wisbar.org/)\
+> EMAIL: <service@wisbar.org>
 >
 > NAME: Wyoming State Bar\
 > ADDRESS: 500 Randall Ave\
@@ -3183,7 +3183,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Cheyenne WY 82003\
 > PHONE: 307-632-9061\
 > FAX: 307-632-3737\
-> WEBSITE: [www.wyomingbar.org](http://www.wyomingbar.org/)
+> WEBSITE: [www.wyomingbar.org](http://www.wyomingbar.org/)
 
 * * * * *
 
@@ -3195,32 +3195,32 @@ Note: These resources are intended to support the Enforcement pages.
 > Washington, DC 20006-5292\
 > PHONE: 800-AIA-3837 or 202-626-7300\
 > FAX: 202-626-7547\
-> EMAIL: <infocentral@aia.org>\
-> WEBSITE: [www.aia.org](http://www.aia.org/)
+> EMAIL: <infocentral@aia.org>\
+> WEBSITE: [www.aia.org](http://www.aia.org/)
 >
 > NAME: AIA Academy of Architecture for Justice\
 > ADDRESS: 1735 New York Avenue, NW\
 > Washington, DC 20006-5292\
 > PHONE: 800-AIA-3837 or 202-626-7300\
 > FAX: 202-626-7547\
-> EMAIL: <caj@aia.org>\
-> WEBSITE: [www.aia.org/aaj](http://www.aia.org/aaj)\
+> EMAIL: <caj@aia.org>\
+> WEBSITE: [www.aia.org/aaj](http://www.aia.org/aaj)\
 >\
 > NAME : Association of Collegiate Schools of Architecture (ACSA)\
 > ADDRESS: 1735 New York Avenue, NW\
 > Washington, D.C. 20006\
 > PHONE: 202-785-2324\
 > FAX: 202-628-0448\
-> EMAIL: <info@acsa-arch.org>\
-> WEBSITE: [www.acsa-arch.org](http://www.acsa-arch.org/)
+> EMAIL: <info@acsa-arch.org>\
+> WEBSITE: [www.acsa-arch.org](http://www.acsa-arch.org/)
 >
 > NAME : American Institute of Architecture Students (AIAS)\
 > ADDRESS: 1735 New York Avenue, NW\
 > Washington, D.C. 20006\
 > PHONE: 202-626-7472\
 > FAX: 202-626-7414\
-> EMAIL: <mailbox@aias.org>\
-> WEBSITE: [www.aias.org](http://www.aias.org/)
+> EMAIL: <mailbox@aias.org>\
+> WEBSITE: [www.aias.org](http://www.aias.org/)
 >
 > NAME: Center for Universal Design\
 > ADDRESS: College of Design, North Carolina University\
@@ -3228,59 +3228,59 @@ Note: These resources are intended to support the Enforcement pages.
 > Raleigh, NC 27695-8613\
 > PHONE: 919-515-3082\
 > FAX: 919-515-8951\
-> WEBSITE: [www.design.ncsu.edu/cud](http://www.design.ncsu.edu/cud/)
+> WEBSITE: [www.design.ncsu.edu/cud](http://www.design.ncsu.edu/cud/)
 >
 > NAME: International Code Council\
 > ADDRESS: 5203 Leesburg Pike, Suite 600\
 > Falls Church, Virginia 22041\
 > PHONE: 888-ICC-SAFE (422-7233)\
 > FAX: (703) 379-1546\
-> WEBSITE: [www.iccsafe.org](http://www.iccsafe.org/)
+> WEBSITE: [www.iccsafe.org](http://www.iccsafe.org/)
 >
 > NAME : National Architectural Accrediting Board (NAAB)\
 > ADDRESS: 1735 New York Avenue, NW\
 > Washington, D.C. 20006\
 > PHONE: 202-783-2007\
 > FAX: 202-783-2822\
-> EMAIL: <info@naab.org>\
-> WEBSITE: [www.naab.org](http://www.naab.org/)
+> EMAIL: <info@naab.org>\
+> WEBSITE: [www.naab.org](http://www.naab.org/)
 >
 > NAME: National Council of Architectural Registration Boards (NCARB)\
 > ADDRESS: 1801 K Street, NW, Suite 1100-K\
 > Washington, DC 20006-1310\
 > PHONE: 202-783-6500\
 > FAX: 202-783-0290\
-> EMAIL: <customerservice@ncarb.org>\
-> WEBSITE: [www.ncarb.org](http://www.ncarb.org/)
+> EMAIL: <customerservice@ncarb.org>\
+> WEBSITE: [www.ncarb.org](http://www.ncarb.org/)
 >
 > NAME: National Fire Protection Association\
 > ADDRESS: 1 Batterymarch Park,\
 > Quincy, Massachusetts 02169-7471\
 > PHONE: (617) 770-3000\
 > FAX: (617) 770-0700\
-> WEBSITE: [www.nfpa.org](http://www.nfpa.org/)
+> WEBSITE: [www.nfpa.org](http://www.nfpa.org/)
 >
 > NAME: American Society of Interior Designers (ASID)\
 > ADDRESS: 608 Massachusetts Ave NE\
 > Washington, DC 20002-6006\
 > PHONE: 202-546-3480\
 > FAX: 202-546-3240\
-> EMAIL: <asid@asid.org>\
-> WEBSITE: [www.asid.org](http://www.asid.org/)
+> EMAIL: <asid@asid.org>\
+> WEBSITE: [www.asid.org](http://www.asid.org/)
 >
 > NAME: American Society of Landscape Architects (ASLA)\
 > ADDRESS: 636 Eye Street, NW\
 > Washington, DC 20001\
 > PHONE: 202-898-2444\
 > FAX: 202-898-1185\
-> EMAIL: Ron Leighton, Continuing Education, <rleighton@asla.org>\
-> WEBSITE: [www.asla.org](http://www.asla.org/)
+> EMAIL: Ron Leighton, Continuing Education, <rleighton@asla.org>\
+> WEBSITE: [www.asla.org](http://www.asla.org/)
 >
 > NAME: American Society of Civil Engineers (ASCE)\
 > ADDRESS: 1801 Alexander Bell Drive\
 > Reston, VA 20191\
 > PHONE: 800-548-2723\
-> WEBSITE: [www.asce.org](http://www.asce.org/)
+> WEBSITE: [www.asce.org](http://www.asce.org/)
 >
 > NAME: American Society of Heating, Refrigerating and Air- Conditioning Engineers, Inc.\
 > ADDRESS: 1791 Tullie Circle, N.E.\
@@ -3288,23 +3288,23 @@ Note: These resources are intended to support the Enforcement pages.
 > PHONE: Toll-free for Customer Service: 800-527-4723 (U.S. and Canada only)\
 > 404-636-8400\
 > FAX: 404-321-5478\
-> WEBSITE: [www.ashrae.org](http://www.ashrae.org/)\
+> WEBSITE: [www.ashrae.org](http://www.ashrae.org/)\
 >\
 > NAME: Construction Specifications Institute\
 > ADDRESS: 99 Canal Center Plaza, Suite 300\
 > Alexandria VA 22314\
 > PHONE: 800-689-2900, Local: 703-684-0300\
 > FAX: 703-684-8436\
-> EMAIL: <csi@csinet.org>\
-> WEBSITE: [www.csinet.org](http://www.csinet.org/)
+> EMAIL: <csi@csinet.org>\
+> WEBSITE: [www.csinet.org](http://www.csinet.org/)
 >
 > NAME: International Facility Management Association\
 > ADDRESS: 1 E. Greenway Plaza, Suite 1100\
 > Houston, TX 77046-0194 USA\
 > PHONE: 713-623-4362\
 > FAX: 713-623-6124\
-> EMAIL: <webmaster@ifma.org>\
-> WEBSITE: [www.ifma.org](http://www.ifma.org/)
+> EMAIL: <webmaster@ifma.org>\
+> WEBSITE: [www.ifma.org](http://www.ifma.org/)
 
 * * * * *
 
@@ -3316,8 +3316,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Dayton, Ohio 45324\
 > PHONE: 937-341-5202\
 > FAX: 937-341-5217\
-> EMAIL: <webmaster@acils.com>\
-> WEBSITE: [www.acils.com](http://www.acils.com/)
+> EMAIL: <webmaster@acils.com>\
+> WEBSITE: [www.acils.com](http://www.acils.com/)
 >
 > NAME: Alexander Graham Bell Association for the\
 > Deaf and Hard of Hearing\
@@ -3325,16 +3325,16 @@ Note: These resources are intended to support the Enforcement pages.
 > Washington, DC 20007\
 > PHONE: 202-337-5220\
 > FAX: 202-337-8314\
-> EMAIL: <info@agbell.org>\
-> WEBSITE: [www.agbell.org](http://www.agbell.org/)
+> EMAIL: <info@agbell.org>\
+> WEBSITE: [www.agbell.org](http://www.agbell.org/)
 >
 > NAME: American Association of People with Disabilities\
 > ADDRESS: 1629 K Street NW\
 > Suite 503\
 > Washington, DC 20006\
 > PHONE: 202-457-0046 or 800-840-8844\
-> EMAIL: <aapd@aol.com>\
-> WEBSITE [www.aapd.com](http://www.aapd.com/)
+> EMAIL: <aapd@aol.com>\
+> WEBSITE [www.aapd.com](http://www.aapd.com/)
 >
 > NAME: ADA Watch\
 > ADDRESS: 1201 Pennsylvania Avenue, NW\
@@ -3342,8 +3342,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Washington, DC 20004\
 > PHONE: 202-661-4722\
 > FAX: 202-318-4040\
-> EMAIL: <info@adawatch.org>\
-> WEBSITE [www.adawatch.org](http://www.adawatch.org/)
+> EMAIL: <info@adawatch.org>\
+> WEBSITE [www.adawatch.org](http://www.adawatch.org/)
 >
 > NAME: American Council of the Blind\
 > ADDRESS: 1155 15th Street, NW\
@@ -3351,23 +3351,23 @@ Note: These resources are intended to support the Enforcement pages.
 > Washington, DC 20005\
 > PHONE: 202-467-5081 or 800-424-8666\
 > FAX: 202-467-5085\
-> EMAIL: <info@acb.org>\
-> WEBSITE: [www.acb.org](http://www.acb.org/)
+> EMAIL: <info@acb.org>\
+> WEBSITE: [www.acb.org](http://www.acb.org/)
 >
 > NAME: American Foundation for the Blind (AFB)\
 > ADDRESS: 820 First Street, NE, Ste. 400\
 > Washington, DC 20002\
 > PHONE: 202-408-0200 (office/TDD)\
 > 202-289-7880\
-> EMAIL: <afbgov@afb.net>\
-> WEBSITE: [www.afb.org](http://www.afb.org/)
+> EMAIL: <afbgov@afb.net>\
+> WEBSITE: [www.afb.org](http://www.afb.org/)
 >
 > NAME: American Speech-Language-Hearing Association (ASHA)\
 > ADDRESS: 444 N. Capitol Street, NW, Ste. 204\
 > Washington, DC 20001\
 > PHONE: 202-624-5953 (office)\
 > FAX: 202-624-5955\
-> WEBSITE: [www.asha.org](http://www.asha.org/default.htm)
+> WEBSITE: [www.asha.org](http://www.asha.org/default.htm)
 >
 > NAME: Bazelon Center for Mental Health Law\
 > ADDRESS: 1101 15th Street, NW\
@@ -3375,8 +3375,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Washington, DC 20005\
 > PHONE: 202-467-5730\
 > FAX: 202-223-0409\
-> EMAIL: <webmaster@bazelon.org>\
-> WEBSITE: [www.bazelon.org](http://www.bazelon.org/)
+> EMAIL: <webmaster@bazelon.org>\
+> WEBSITE: [www.bazelon.org](http://www.bazelon.org/)
 >
 > NAME: Center on Disabilities at\
 > California State University at Northridge\
@@ -3384,26 +3384,26 @@ Note: These resources are intended to support the Enforcement pages.
 > Northridge, CA 91330-8264\
 > PHONE: 818-677-2684\
 > FAX: 818-677-4932\
-> EMAIL: <sdr@csun.edu>\
-> WEBSITE: [www.csun.edu](http://www.csun.edu/)\
+> EMAIL: <sdr@csun.edu>\
+> WEBSITE: [www.csun.edu](http://www.csun.edu/)\
 > CONTACT: Center of Disabilities Administration\
 > PHONE: 818-677-2578\
-> EMAIL: <ctrdis@csun.edu>
+> EMAIL: <ctrdis@csun.edu>
 >
 > NAME: Community Living Exchange Collaborative\
 > ADDRESS: Boston College GSSW\
 > 140 Commonwealth Avenue\
 > Chestnut Hill, MA 02062\
 > PHONE: 617-552-3484\
-> EMAIL: <hcbs_admin@hcbs.org>\
-> WEBSITE: [www.hcbs.org](http://www.hcbs.org/)
+> EMAIL: <hcbs_admin@hcbs.org>\
+> WEBSITE: [www.hcbs.org](http://www.hcbs.org/)
 >
 > NAME: Disabled American Veterans\
 > ADDRESS: National Headquarters\
 > 3725 Alexandria Pike\
 > Cold Spring, KY 41076\
 > PHONE: 859-441-7300\
-> WEBSITE: [www.dav.org](http://www.dav.org/)
+> WEBSITE: [www.dav.org](http://www.dav.org/)
 >
 > NAME: Disabilityinfo.gov: The New Freedom Initiative's Online Resource for American with Disabilities\
 > ADDRESS: FirstGov.gov\
@@ -3413,15 +3413,15 @@ Note: These resources are intended to support the Enforcement pages.
 > 1800 F Street, NW\
 > Washington, DC 20405\
 > PHONE: 800-333-4636\
-> EMAIL: <firstgov1@mailfedinfo.gov>\
-> WEBSITE [www.disabilityinfo.gov](http://www.disabilityinfo.gov/)
+> EMAIL: <firstgov1@mailfedinfo.gov>\
+> WEBSITE [www.disabilityinfo.gov](http://www.disabilityinfo.gov/)
 >
 > NAME: Disability Rights Education and Defense Fund, Inc. (DREDF)\
 > ADDRESS: 1629 K Street, N.W., Ste. 802\
 > Washington, DC 20006\
 > PHONE: 202-986-0375\
 > FAX: 202-775-7465\
-> WEBSITE: [www.dredf.org](http://www.dredf.org/)
+> WEBSITE: [www.dredf.org](http://www.dredf.org/)
 >
 > NAME: Easter Seals Disability Services\
 > ADDRESS: 230 West Monroe Street\
@@ -3429,7 +3429,7 @@ Note: These resources are intended to support the Enforcement pages.
 > Chicago, IL 60606\
 > PHONE: 312-726-6200 or 800-221-6827\
 > FAX: 312-726-1494\
-> WEBSITE: [www.easterseals.com](http://www.easterseals.com/)
+> WEBSITE: [www.easterseals.com](http://www.easterseals.com/)
 >
 > NAME: Hearing Loss Association of America\
 > ADDRESS: 7910 Woodmont Avenue\
@@ -3437,8 +3437,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Bethesda, Maryland 20814\
 > PHONE: 301-657-2248\
 > FAX: 301-913-9413\
-> EMAIL: <webteam@hearingloss.org>\
-> WEBSITE: [www.hearingloss.org](http://www.hearingloss.org/)
+> EMAIL: <webteam@hearingloss.org>\
+> WEBSITE: [www.hearingloss.org](http://www.hearingloss.org/)
 >
 > NAME: Little People of America, Inc.\
 > ADDRESS: 5289 NE Elam Young Parkway\
@@ -3446,8 +3446,8 @@ Note: These resources are intended to support the Enforcement pages.
 > Hillsboro, OR 97124\
 > PHONE: 503-846-1562 or 888-PA-2001 (English and Spanish)\
 > FAX: 503-846-1590\
-> EMAIL: <info@lpaonline.org>\
-> WEBSITE: [www.lpaonline.org](http://www.lpaonline.org/)
+> EMAIL: <info@lpaonline.org>\
+> WEBSITE: [www.lpaonline.org](http://www.lpaonline.org/)
 >
 > NAME: Multiple Sclerosis Association of America\
 > ADDRESS: National Headquarters\
@@ -3455,31 +3455,31 @@ Note: These resources are intended to support the Enforcement pages.
 > Cherry Hill, NJ 08002\
 > PHONE: 856-488-4500 or 1-800-532-7667\
 > FAX: 856-661-9797\
-> EMAIL: <webmaster@msaa.com>\
-> WEBSITE: [www.msaa.com](http://www.msaa.com/)
+> EMAIL: <webmaster@msaa.com>\
+> WEBSITE: [www.msaa.com](http://www.msaa.com/)
 >
 > NAME: Muscular Dystrophy Association -- USA\
 > ADDRESS: National Headquarters\
 > 3300 E. Sunrise Drive\
 > Tucson, AZ 85718\
 > PHONE: 800-572-1717\
-> EMAIL: <mda@mdausa.org>\
-> WEBSITE: [www.mdausa.org](http://www.mdausa.org/)
+> EMAIL: <mda@mdausa.org>\
+> WEBSITE: [www.mdausa.org](http://www.mdausa.org/)
 >
 > NAME: National Association of ADA Coordinators\
-> ADDRESS:   P.O. Box 958\
+> ADDRESS:   P.O. Box 958\
 > Rancho Mirage, CA 92270\
-> PHONE:    800-722-4-ADA (722-4232)\
-> FAX:    800-9-FAX-ADA (932-9232)\
-> WEBSITE: [www.jan.wvu.edu/naadac/](http://www.jan.wvu.edu/naadac/)
+> PHONE:    800-722-4-ADA (722-4232)\
+> FAX:    800-9-FAX-ADA (932-9232)\
+> WEBSITE: [www.jan.wvu.edu/naadac/](http://www.jan.wvu.edu/naadac/)
 >
 > NAME: National Association of the Deaf\
 > ADDRESS: 8630 Fenton Street, Suite 820\
 > Silver Spring, MD 20910-3876\
 > PHONE: 301-587-1788 Voice, 301-587-1789 TTY\
 > FAX: 301-587-1791\
-> EMAIL: <NADinfo@nad.org>\
-> WEBSITE: [www.nad.org](http://www.nad.org/)
+> EMAIL: <NADinfo@nad.org>\
+> WEBSITE: [www.nad.org](http://www.nad.org/)
 >
 > NAME: National Center on Accessibility\
 > ADDRESS: 501 North Morton Street\
@@ -3487,16 +3487,16 @@ Note: These resources are intended to support the Enforcement pages.
 > Bloomington, IN 47404-3732\
 > PHONE: 812-856-4422\
 > FAX: 812-856-4480\
-> EMAIL: <nca@indiana.edu>\
-> WEBSITE: [www.ncaonline.org](http://www.ncaonline.org/)
+> EMAIL: <nca@indiana.edu>\
+> WEBSITE: [www.ncaonline.org](http://www.ncaonline.org/)
 >
 > NAME: National Council on Disability\
 > ADDRESS: 1331 F Street, NW\
 > Suite 850\
 > Washington, DC 20004\
 > PHONE: 202-272-2004\
-> EMAIL: <info@ncd.gov>\
-> WEBSITE: [www.ncd.gov](http://www.ncd.gov/)
+> EMAIL: <info@ncd.gov>\
+> WEBSITE: [www.ncd.gov](http://www.ncd.gov/)
 >
 > NAME: National Council on Independent Living\
 > ADDRESS: 1916 Wilson Blvd\
@@ -3504,28 +3504,28 @@ Note: These resources are intended to support the Enforcement pages.
 > Arlington, VA 22201\
 > PHONE: 703-525-3406\
 > FAX: 703-525-3409\
-> EMAIL: <ncil@ncil.org>\
-> WEBSITE: [www.ncil.org](http://www.ncil.org/)
+> EMAIL: <ncil@ncil.org>\
+> WEBSITE: [www.ncil.org](http://www.ncil.org/)
 >
 > NAME: National Disability Rights Network\
 > ADDRESS: 900 Second Street, NE, Suite 211\
 > Washington, DC 20002\
 > PHONE: Phone: 202-408-9514\
-> EMAIL: <info@ndrn.org>\
-> WEBSITE: [www.ndrn.org](http://www.ndrn.org/)
+> EMAIL: <info@ndrn.org>\
+> WEBSITE: [www.ndrn.org](http://www.ndrn.org/)
 >
 > NAME: National Federation of the Blind\
 > ADDRESS: 1800 Johnson Street\
 > Baltimore, MD 21230-4998\
 > PHONE: 410-659-9314, ext. 2272\
-> WEBSITE: [www.nfb.org](http://www.nfb.org/)
+> WEBSITE: [www.nfb.org](http://www.nfb.org/)
 >
 > NAME: National Mental Health Association\
 > ADDRESS: 2001 N. Beauregard Street, 12th Floor\
 > Alexandria, Virginia 22311\
 > PHONE: 703-684-7722 or 800-969-6642\
 > FAX: 703-684-5968\
-> WEBSITE: [www.nmha.org](http://www.nmha.org/)
+> WEBSITE: [www.nmha.org](http://www.nmha.org/)
 >
 > NAME: National Organization on Disability\
 > ADDRESS: 910 Sixteenth Street, NW\
@@ -3533,39 +3533,39 @@ Note: These resources are intended to support the Enforcement pages.
 > Washington, DC 20006\
 > PHONE: 202-293-5960\
 > FAX: 202-293-7999\
-> EMAIL: <ability@nod.org>\
-> WEBSITE: [www.nod.org](http://www.nod.org/)\
+> EMAIL: <ability@nod.org>\
+> WEBSITE: [www.nod.org](http://www.nod.org/)\
 >\
 > NAME: National Stroke Association\
 > ADDRESS: 9707 E. Easter Lane\
 > Englewood, Co. 80112\
 > PHONE: 1-800-STROKES or 303-649-9299\
 > FAX: 303-649-1328\
-> EMAIL: <cgriffin@stroke.org>\
-> WEBSITE [www.stroke.org](http://www.stroke.org/)
+> EMAIL: <cgriffin@stroke.org>\
+> WEBSITE [www.stroke.org](http://www.stroke.org/)
 >
 > NAME: Paralyzed Veterans of America\
 > ADDRESS: National Office\
 > 801 Eighteenth Street, NW\
 > Washington, DC 20006-3517\
 > PHONE: 800-424-8200\
-> EMAIL: <info@pva.org>\
-> WEBSITE: [www.pva.org](http://www.pva.org/)
+> EMAIL: <info@pva.org>\
+> WEBSITE: [www.pva.org](http://www.pva.org/)
 >
 > NAME: United Spinal Association\
 > ADDRESS: 75-20 Astoria Boulevard\
 > Jackson Heights, New York 11370\
 > PHONE: 718) 803-3782\
 > FAX: 718) 803-0414\
-> EMAIL: <info@unitedspinal.org>\
-> WEBSITE: [www.unitedspinal.org](http://www.unitedspinal.org/)
+> EMAIL: <info@unitedspinal.org>\
+> WEBSITE: [www.unitedspinal.org](http://www.unitedspinal.org/)
 >
 > NAME: World Association of Persons with Disabilities\
 > ADDRESS: 5016 Alan Lane\
 > Oklahoma City, Oklahoma 73135\
 > PHONE: 405-672-4440\
 > FAX: 405-672-4441\
-> WEBSITE: [www.wapd.org](http://www.wapd.org/)
+> WEBSITE: [www.wapd.org](http://www.wapd.org/)
 >
 > World Institute on Disability\
 > ADDRESS: 510 16th St., Ste 100\
@@ -3573,7 +3573,7 @@ Note: These resources are intended to support the Enforcement pages.
 > PHONE: 510-763-4100\
 > TTY: 510-208-9496\
 > FAX: 510-763-4109\
-> WEBSITE: [www.wid.org](http://www.wid.org/)
+> WEBSITE: [www.wid.org](http://www.wid.org/)
 
 * * * * *
 
@@ -3605,9 +3605,9 @@ Court Design Guide
 
 Court Tech Forum---specialized court technology site with pages about new courthouses and the architects that design them.
 
-Demographic Aspects of Hearing Impairment: Questions and Answers, <http://gri.gallaudet.edu/Demographics/factsheet.html>
+Demographic Aspects of Hearing Impairment: Questions and Answers, <http://gri.gallaudet.edu/Demographics/factsheet.html>
 
-Disability Etiquette, 2nd Edition by United Spinal Association. Jackson Heights, NY: United Spinal Association, 2003. To order: Call 800-444-0120 or Email:[ publications@unitedspinal.org](mailto:publications@unitedspinal.org)
+Disability Etiquette, 2nd Edition by United Spinal Association. Jackson Heights, NY: United Spinal Association, 2003. To order: Call 800-444-0120 or Email:[ publications@unitedspinal.org](mailto:publications@unitedspinal.org)
 
 Enforcement Activities under the ADA Title II: Programs, Services and Activities of the State and Local Courts, 1994-2004, NCSC, Denver, CO
 
@@ -3616,7 +3616,7 @@ Judicial Council of California, Subcommittee on Access for Persons with Disabili
 GSA Mechanical Lift Analysis, by HDR, 2004
 
 Judicial Branch of Georgia, A Handbook for Georgia Court Officials on Courtroom Accessibility for Individuals with Disabilities---new guide adopted by the Georgia Administrative Office of the Courts. Draft version\
-Hearing Loss Association of American, [www.hearingloss.org/learn/assistivetech.asp](http://www.hearingloss.org/learn/assistivetech.asp)
+Hearing Loss Association of American, [www.hearingloss.org/learn/assistivetech.asp](http://www.hearingloss.org/learn/assistivetech.asp)
 
 Judicial Council of California, Public Hearings Report---Access for Persons with Disabilities
 

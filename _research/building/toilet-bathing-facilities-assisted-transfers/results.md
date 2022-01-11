@@ -10,14 +10,14 @@ topic: Building Elements and Spaces
 
 #### Types of Alternative Designs
 
-All of the participants responded that their firms had designed facilities that incorporated bathroom designs that deviated from, or went beyond the minimum specifications in the ADA Accessibility Guidelines. Although the question was broadly posed, requesting *any* designs that varied from ADAAG, not only those that would promote assisted toileting and bathing, providing for caregiver assistance was the primary consideration in developing design alternatives. Moreover, the types of design solutions implemented were relatively consistent across projects.
+All of the participants responded that their firms had designed facilities that incorporated bathroom designs that deviated from, or went beyond the minimum specifications in the ADA Accessibility Guidelines. Although the question was broadly posed, requesting *any* designs that varied from ADAAG, not only those that would promote assisted toileting and bathing, providing for caregiver assistance was the primary consideration in developing design alternatives. Moreover, the types of design solutions implemented were relatively consistent across projects.
 
 *Typical Alternatives*.\
 Respondents reported the following types of design alternatives:
 
 -   Water Closet: The water closet was moved further away from the sidewall (> 18+" from the sidewall to the centerline of toilet as specified in ADAAG) to provide more clearance between the sidewall and the water closet. The positioning and type of grab bars were also changed to provide more room and flexibility. Swing-away grab bars were typically located on both sides of the toilet rather than fixed grab bars on the side and rear walls as indicated in ADAAG.-   Shower: Roll-in showers were used, but sidewalls were minimized to permit access by a caregiver from outside the fixture. Built-in shower seats were typically omitted in favor of movable shower chairs or benches to provide more room and flexibility in accommodating people who required different levels of assistance.-   Bathtub: Typical residential-style bathtubs were rarely used. Whirlpool baths were generally used, although these ranged from large, institutional whirlpool tubs without grab bars for transfer to walk-in-type tubs with grab bars that were based on ADAAG.
 
-*Design Intent*. 
+*Design Intent*. 
 
 Participants reported that each of the alternative designs was intended to provide sufficient flexibility such that both independent use and assisted use of the fixtures could be accommodated. Specific design decisions were based on a number of assumptions about the ways in which the fixtures were expected to be used. These included:
 
@@ -64,7 +64,7 @@ In order to accommodate independent wheelchair use, guidelines for clear floor s
 
 *Toilet Room Configuration.*
 
-The most common practice amongthe innovative designs was the placement of the bathroom located in a corner of a resident room with an out-swinging bathroom door oriented at 450 to the resident room. The 450 angle facilitated maneuvering by eliminating the need for sharp turns in small spaces. In addition, the location of the door also permitted the toilet and lavatory in many facilities to be located at right angles to each other. This configuration provided room for a 5' wheelchair turning radius as well as sufficient room for assistance on both sides of the toilet. Furthermore, the out-swinging door not only permitted a 5' turning radius in the toilet room, but also facilitated entry by staff in the event of a resident fall or other incapacity inside the room that might block the door. This basic configuration was found in numerous facilities including: a nursing care addition at Pennswood Village Retirement Community, Newton, PA (Lewis and Rodgers Architects, Fort Washington, PA) (Figure 1); Bridges Medical Services, Ada, MN (Horty, Elving & Associates, Inc., Minneapolis, MN) (Figure 2); and *The Heritage* at Landis Homes Retirement Community, Lititz, PA, (RLPS) (Figure 3).
+The most common practice amongthe innovative designs was the placement of the bathroom located in a corner of a resident room with an out-swinging bathroom door oriented at 450 to the resident room. The 450 angle facilitated maneuvering by eliminating the need for sharp turns in small spaces. In addition, the location of the door also permitted the toilet and lavatory in many facilities to be located at right angles to each other. This configuration provided room for a 5' wheelchair turning radius as well as sufficient room for assistance on both sides of the toilet. Furthermore, the out-swinging door not only permitted a 5' turning radius in the toilet room, but also facilitated entry by staff in the event of a resident fall or other incapacity inside the room that might block the door. This basic configuration was found in numerous facilities including: a nursing care addition at Pennswood Village Retirement Community, Newton, PA (Lewis and Rodgers Architects, Fort Washington, PA) (Figure 1); Bridges Medical Services, Ada, MN (Horty, Elving & Associates, Inc., Minneapolis, MN) (Figure 2); and *The Heritage* at Landis Homes Retirement Community, Lititz, PA, (RLPS) (Figure 3).
 
 ![Plan view of Pennswood Village shows placement of the bathroom in a corner of each resident room;  out-swinging bathroom door is oriented at 45 degrees to the resident room](https://www.access-board.gov/images/research/assisted-transfer/tb-1.jpg)
 
@@ -74,9 +74,9 @@ sd
 
 #### Figure 2. Toilet Room Configuration at Bridges Medical Services, Ada, MN (Horty, Elving & Associates)
 
- ![Plan view of a Heritage resident room with a bathroom in a corner;  out-swinging bathroom door is oriented at 45 degrees to the resident room](https://www.access-board.gov/images/research/assisted-transfer/tb-3.jpg)
+ ![Plan view of a Heritage resident room with a bathroom in a corner;  out-swinging bathroom door is oriented at 45 degrees to the resident room](https://www.access-board.gov/images/research/assisted-transfer/tb-3.jpg)
 
-#### Figure 3. Toilet Room Configuration at *T*he Heritage at Landis Homes Retirement Community, Lititz, PA(RLPS)
+#### Figure 3. Toilet Room Configuration at *T*he Heritage at Landis Homes Retirement Community, Lititz, PA(RLPS)
 
 *Water Closet Location*.\
 In contrast to ADAAG, which specifies that the centerline of the toilet shall be located 18" from a sidewall, every innovative design located the toilet further away from the sidewall in order to provide space for caregivers to stand alongside one or both sides of the toilet. However, without research data upon which to determine how much space was adequate, side clearance varied, usually dependent on the amount of space available within the overall design of the room or facility. Although 24" seemed to be the norm, the location of the toilet ranged from as little as 22" to as much as 30" from the sidewall.
@@ -88,7 +88,7 @@ For example, at two skilled nursing facilities, one for people with Multiple Scl
 #### Figure 4. Water Closet Location at Beechwood Home (Dorsky Hodgson and Partners)
 
 In contrast, at Covenant Oaks at Oakwood Village, a dementia-specific assisted living facility in Madison, WI, OWP&P was only able to provide 22" from the sidewall to the centerline of the toilet (Figure 5). Although more space was preferable, it was not available in this facility. Nonetheless, this deviation from ADAAG as well as Wisconsin's accessibility code was requested by the owner to facilitate assisted transfers and required a variance from the City of Madison.\
- ![Elevation drawing shows water closet 1 foot 10 inches from the sidewall that has swing away grab bars ](https://www.access-board.gov/images/research/assisted-transfer/tb-5.jpg)
+ ![Elevation drawing shows water closet 1 foot 10 inches from the sidewall that has swing away grab bars ](https://www.access-board.gov/images/research/assisted-transfer/tb-5.jpg)
 
 #### Figure 5. Water Closet Location at Covenant Oaks at Oakwood Village, Madison, WI (OWP&P)
 
@@ -97,13 +97,13 @@ The general sentiment among designers was that more space was better. As a resul
 ![Plan view of toilet room with a toilet located so that the cetnerline is 2 feet 2 inches from a sidewall.](https://www.access-board.gov/images/research/assisted-transfer/tb-6.jpg)
 
 #### Figure 6. Water Closet Location atCreekview at Evergreen Retirement Community, Oshkosh, WI (Nelson Tremain Partnership)\
- ![Elevation drawing of toilet with fold down grab bars on each side. One grab bar is 1 foot 4 inches from the toilet centerline and 1 foot 4 inches form the sidewall; the other grab bar is 1 foot  6 inches from the toilet centerline and 4 inches from an adjacent lavatory counter.](https://www.access-board.gov/images/research/assisted-transfer/tb-7.jpg)
+ ![Elevation drawing of toilet with fold down grab bars on each side. One grab bar is 1 foot 4 inches from the toilet centerline and 1 foot 4 inches form the sidewall; the other grab bar is 1 foot  6 inches from the toilet centerline and 4 inches from an adjacent lavatory counter.](https://www.access-board.gov/images/research/assisted-transfer/tb-7.jpg)
 
 #### Figure 7. Water Closet Location atVillage Shalom, Overland Park, KS (Nelson Tremain Pertnership)\
 ![Plan drawing of a toilet with 2' feet clearance on each side; a lavatory counter is located on the opposite wall.](https://www.access-board.gov/images/research/assisted-transfer/tb-8.jpg)
 
 #### Figure 8. Water Closet Location at Memorial Hospital, Martinsville, VA (Ellerbe Becket)\
- The most unique concept was that of a "training toilet" developed by OWP&P based on the European model of "bathroom as shower room." Ostensibly, the idea of the training toilet was to circumvent the limitations of accessibility requirements, by designing bathroom facilities that were intended for training residents rather than for their actual use. Training toilets were either located in a separate room as a unisex toilet or combined with a bathing facility, for use by staff in retraining residents in toileting skills. Typically, these designs included swing away grab bars on both sides of the water closet and up to 3 feet of clearance on either side. As a result, the floor area needed for a "training toilet" was substantially more than for a conventional ADA-compliant toilet room. When this configuration was used at the Memory Loss Unit, a dementia care assisted living facility at C.C. Young Retirement Community in Dallas, TX (Figure 9), it was challenged by both the Dallas Building Department as well as the reviewer for compliance with the Texas Accessibility Standards (TAS). Approval was granted when it was demonstrated that other readily available toilet rooms complying with ADAAG and TAS were provided.
+ The most unique concept was that of a "training toilet" developed by OWP&P based on the European model of "bathroom as shower room." Ostensibly, the idea of the training toilet was to circumvent the limitations of accessibility requirements, by designing bathroom facilities that were intended for training residents rather than for their actual use. Training toilets were either located in a separate room as a unisex toilet or combined with a bathing facility, for use by staff in retraining residents in toileting skills. Typically, these designs included swing away grab bars on both sides of the water closet and up to 3 feet of clearance on either side. As a result, the floor area needed for a "training toilet" was substantially more than for a conventional ADA-compliant toilet room. When this configuration was used at the Memory Loss Unit, a dementia care assisted living facility at C.C. Young Retirement Community in Dallas, TX (Figure 9), it was challenged by both the Dallas Building Department as well as the reviewer for compliance with the Texas Accessibility Standards (TAS). Approval was granted when it was demonstrated that other readily available toilet rooms complying with ADAAG and TAS were provided.
 
 ![Plan view of toilet room with a toilet with swing away grab bars on both sides, a sink and counter on the opposite wall, and a tub with a grab bar.](https://www.access-board.gov/images/research/assisted-transfer/tb-9.jpg)
 
@@ -115,7 +115,7 @@ All of the institutional designs included a raised toilet within the 17"-19" ran
 *4.16.4 Grab Bars.*\
 Among the various specifications for grab bars in general, including diameter, spacing, and structural strength (ADAAG 4.26) and for toilets in particular, including length and positioning, only the latter two were adjusted to accommodate assisted transfers.
 
-*Positioning.* According to ADAAG, positioning is dependent on two factors, height and location of grab bars, both of which were altered by designers to better accommodate an older population.
+*Positioning.* According to ADAAG, positioning is dependent on two factors, height and location of grab bars, both of which were altered by designers to better accommodate an older population.
 
 *Height*. Only two firms, OWP&P and Nelson Tremain Partnership specifically addressed the issue of height. OWP&P used the high end of ADAAG (33") whereas Nelson Tremain used 10" above the seat height. Although OWP&P did not deviate from ADAAG, the intent was to account for the reduced stature of many older adults as well as to optimize their potential leverage. The maximum height in ADAAG was used because there was no other objective information available upon which to base a decision on effective height for assisted transfers.
 
@@ -127,7 +127,7 @@ In contrast, Nelson Tremain, in the absence of objective data, rationalized that
 
 Subsequently, the rear grab bar behind the toilet was omitted in all configurations intended to accommodate assisted transfer. Similarly, the sidewall grab bar was often omitted. When this grab bar was used (e.g. Memorial Hospital of Iowa County, Dodgeville, WI, Nelson Tremain Partnership), it was intended to be used as a support for a standing individual during dressing and a swing away grab bar was provided on the opposite side of the toilet (Figure 10).
 
- ![Elevation views (forward and side) of a toilet that is 2 feet from a side wall with a grab bar; a grab bar on the other side is 1 feet 3 inches from toilet centerline. The wall mounted grab is 1 foot from the toilet wall and is 3 feet 6 inches long. ](https://www.access-board.gov/images/research/assisted-transfer/tb-10.jpg)
+ ![Elevation views (forward and side) of a toilet that is 2 feet from a side wall with a grab bar; a grab bar on the other side is 1 feet 3 inches from toilet centerline. The wall mounted grab is 1 foot from the toilet wall and is 3 feet 6 inches long. ](https://www.access-board.gov/images/research/assisted-transfer/tb-10.jpg)
 
 #### Figure 10. Grab Bar Location at Memorial Hospital of Iowa County, Dodgeville, WI (Nelson Tremain Partnership)
 
@@ -139,7 +139,7 @@ Rear-mounted (either floor or wall), swing away (or fold up) grab bars (e.g., Li
 
 > "grab bars on both sides of water closets that either swing up or away obviously afford the ability for one or more caregivers to stand beside the resident and brace them while mounting or dismounting the toilet. Yet these grab bars, when in the extended position alongside the water closet provide superior leverage to the frail older adult, dependent on his or her waning upper body strength, in lowering or lifting themselves during independent toileting. Installing grab bars on both sides is important, particularly for stroke victims with hemiplegia, as a conventional sidewall grab bar on the "wrong" side is virtually useless for transferring."
 
-**Length.* Whereas none of the respondents specifically addressed the issue of grab bar length, drawings submitted clearly indicate that many of the alternate swing away grab bars were considerably shorter (usually 24"-30") than the 42" minimum requirement for grab bars alongside the toilet (Figure 12). As these bars were used by individuals who often had unsteady gait and were at risk of falls, the shorter bars were likely to have been used to enable both older individuals and caregivers to get as close to the toilet as possible and thereby minimize ambulation.*
+**Length.* Whereas none of the respondents specifically addressed the issue of grab bar length, drawings submitted clearly indicate that many of the alternate swing away grab bars were considerably shorter (usually 24"-30") than the 42" minimum requirement for grab bars alongside the toilet (Figure 12). As these bars were used by individuals who often had unsteady gait and were at risk of falls, the shorter bars were likely to have been used to enable both older individuals and caregivers to get as close to the toilet as possible and thereby minimize ambulation.*
 
 #### **![Side elevation of grab bar 2 feet 6 icnhes long at a toilet](https://www.access-board.gov/images/research/assisted-transfer/tb-12.jpg)**
 
@@ -154,7 +154,7 @@ Few of the respondents specifically addressed the issue of dispensers, even thou
 
 ![Side elevation of a toilet and grab bar with the location of the toilet paper dispenser shown to be 1 foot above the floor measured to the dispenser centerline.](https://www.access-board.gov/images/research/assisted-transfer/tb-13.jpg)
 
-####  **Figure 13. Location of Dispenser at Creekview at Evergreen, Oshkosh, WI (Nelson Tremain Partnership)**
+####  **Figure 13. Location of Dispenser at Creekview at Evergreen, Oshkosh, WI (Nelson Tremain Partnership)**
 
 #### Bathtubs (ADAAG 4.20)
 
@@ -174,11 +174,11 @@ As tub seats are intended to keep users from being immersed, the use of tub seat
 
 ADAAG specifications for grab bars vary slightly for bathtubs with in-tub and head of tub seats (the latter having longer bars on the sidewall and no bar on the head wall). Nonetheless, in both conditions, grab bars are located to help individuals get into the tub and then to lower and raise themselves to and from a seated position. Because these positional changes were deemed safety risks for older adults, grab bars that would permit older adults to raise and lower themselves were not included in most bathtub designs (see Alternative Designs below). Rather, in most designs, grab bars were provided adjacent to the tub for temporary support to enable an individual to steady him/herself while a care provider assisted with removal and replacement of clothing. In fact, in instances where local building authorities required bathing fixtures with ADAAG compliant grab bar configurations, roll-in showers were installed instead due to safety concerns, even though the former were readily available from a number of manufacturers.
 
-*4.20.5 Controls.* 
+*4.20.5 Controls.* 
 
 None of the respondents indicated that there were any variations from ADAAG regarding controls.
 
-*4.20.6 Shower Unit.* 
+*4.20.6 Shower Unit.* 
 
 None of the respondents indicated that there were any variations from ADAAG regarding the shower unit.
 
@@ -221,7 +221,7 @@ None of the respondents indicated that there were any variations from ADAAG rega
 
 None of the respondents indicated that there were any variations from ADAAG regarding the shower unit.
 
-*4.21.7 Curbs.* 
+*4.21.7 Curbs.* 
 
 All of the designs reviewed were curbless, roll-in showers.
 
@@ -233,7 +233,7 @@ None of the respondents indicated that there were any variations from ADAAG rega
 
 The bathroom-as-shower-room is a concept adapted from the common European residential model by OWP&P as an alternative for including a shower in every resident bathroom. Due to space constraints at the Oakwood facility (Figure 16), a separate shower stall could not be accommodated in each resident toilet room. Having a shower close to the resident room was particularly important in this dementia facility to allow for impromptu clean-ups in the event of incontinent episodes without the indignity of leading residents down a corridor to a central bathing facility. As a result, each resident bathroom was designed as a shower room that permitted either independent or assisted showering. The latter is facilitated by use of a hand-held shower wand, which can be manipulated by the caregiver standing outside the area enclosed by the shower curtain. Given that this is a dementia care unit, there was a concern that residents might inadvertently douse themselves when left unattended. Thus, care providers can remove shower hoses and wands by a quick-release coupling at the outlet. When this feature was specified, it was expected that it would also cut off the flow of water even if the valve were to be opened. This turned out not to be the case, and a retrofit with an after-market in-line valve installed on the upstream side of the coupling turned out to be impractical due to the danger of backflow.
 
-*![Plan drawing of a bathroom-as-shower room that is 6'6" by 6'6" with a shower head in one corner on a 2' angled wall and a shower curtain attached to the ceiling.  In the opposite corner is a toilet with fold-down grab bars.  Next to the toilet is a sink in the corner on an angled wall.  The ceramic tile floor slopes 1/4" per 1' in the direction of the floor drain located below the sink. A turning cirle is shown within the room, overlapping clear space in front of the sink.](https://www.access-board.gov/images/research/assisted-transfer/tb-16.jpg)* 
+*![Plan drawing of a bathroom-as-shower room that is 6'6" by 6'6" with a shower head in one corner on a 2' angled wall and a shower curtain attached to the ceiling.  In the opposite corner is a toilet with fold-down grab bars.  Next to the toilet is a sink in the corner on an angled wall.  The ceramic tile floor slopes 1/4" per 1' in the direction of the floor drain located below the sink. A turning cirle is shown within the room, overlapping clear space in front of the sink.](https://www.access-board.gov/images/research/assisted-transfer/tb-16.jpg)* 
 
 #### Figure 16. Shower Configuration at Covenant Oaks at Oakwood Village, Madison, WI (OWP&P)
 

@@ -26,6 +26,6 @@ However, previous studies focused only on independent transfer, which is the und
 
 Prior research suggests that some toilet and grab bar configurations that were the most radical departures from ADAAG (e.g., swing-away grab bars) were not only associated with greater safety and ease of independent transfer, but also potentially offered greater flexibility in facilitating assisted transfers. This suggests that alternative designs that can accommodate both individuals with disabilities as well as those who provide assistance to them need to be identified, particularly in the design of facilities that will be used mainly by older adults.
 
-### PURPOSE OF THE PROJECT
+### PURPOSE OF THE PROJECT
 
 ADAAG was developed with the intention of providing greater access for individuals with disabilities. These guidelines, as most other accessibility codes, standards, and guidelines, are generally based upon the stature, strength, and abilities of younger adults. Little consideration has been given to the needs of frail individuals and those requiring assistance from caregivers. This is particularly true of the majority of users in health care and long term care facilities. Therefore, the specific objective of this project was to identify and analyze best practice exemplars of design solutions that accommodate assisted use of toilet and bathing fixtures. This information is intended to assist the Access Board to identify, understand, and evaluate key issues and features.

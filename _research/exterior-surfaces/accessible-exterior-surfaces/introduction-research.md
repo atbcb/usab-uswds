@@ -12,7 +12,7 @@ The Americans with Disabilities Act (ADA) Accessibility Guidelines currently spe
 
 -   **Stability**- the degree to which a surface resists change from contaminants or applied force, so that when the contaminant or force is removed, the surface returns to its original condition;
 -   **Firmness**- the degree of surface resistance to deformation, especially by indentation or the movement of objects; and
--   **Slip-resistance** - the degree to which a surface provides frictional counterforce to the forces exerted in walking to permit safe ambulation (USATBCB, 1994).
+-   **Slip-resistance** - the degree to which a surface provides frictional counterforce to the forces exerted in walking to permit safe ambulation (USATBCB, 1994).
 
 Questions have arisen relating to the appropriateness and usability of various surface materials in outdoor environments required to be accessible. Additional information is necessary to provide guidance to designers and operators in order that they can provide non-discriminatory access for people with disabilities. Outdoor surface accessibility guidelines would also improve accessibility for all persons, regardless of their abilities, to a vast number of areas, including recreational facilities, playgrounds, beaches, parks, outdoor stadiums, boating and fishing docks, campgrounds, and hiking trails.
 

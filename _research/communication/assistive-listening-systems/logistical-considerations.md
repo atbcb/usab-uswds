@@ -9,7 +9,7 @@ topic: Communication and Information
 
 5.1 Public Notification of Availability
 
-People have to know that ALS are available *before* they attend a performance or lecture and where to get them once they enter the facility. While some of these suggestions are already in place (e.g. some newspaper advertisements, signage in facilities), their practice is not universal or standardized. We recommend that all venues providing ALS comply with the following:
+People have to know that ALS are available *before* they attend a performance or lecture and where to get them once they enter the facility. While some of these suggestions are already in place (e.g. some newspaper advertisements, signage in facilities), their practice is not universal or standardized. We recommend that all venues providing ALS comply with the following:
 
 -   Newspaper advertisements should include notification that the venue provides an ALS. This notification should be of the same order of visibility and location as information regarding other attributes of a performance ("Dolby Sound", etc.). Eventually, with public education, printing the international symbol of "communication access" would be sufficient (much like the CC symbol signified "closed captioning").
 -   Recorded telephone information from movie houses and theatres should include a comment that ALS are available for people with hearing loss.

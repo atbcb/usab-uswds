@@ -8,23 +8,23 @@ Layout:
 
 ### Notice of Availability of Revised Draft Guidelines
 
-Published in the *Federal Register* on November 23, 2005.
+Published in the *Federal Register* on November 23, 2005.
 
-**AGENCY:** Architectural and Transportation Barriers Compliance Board.
+**AGENCY:** Architectural and Transportation Barriers Compliance Board.
 
-**ACTION:** Notice of availability of draft guidelines.
+**ACTION:** Notice of availability of draft guidelines.
 
-**SUMMARY:** The Architectural and Transportation Barriers Compliance Board (Access Board) has placed in the docket and on its web site for public review draft guidelines which address accessibility in the public right-of-way. The draft guidelines are under consideration by the Board. The purpose of placing the draft guidelines in the docket is to facilitate gathering of additional information for the regulatory assessment and the preparation of technical assistance materials to accompany a future rule. The Board is not seeking comments on the draft guidelines. The Board will issue a notice of proposed rulemaking at a future date and will solicit comments at that time, prior to issuing a final rule.
+**SUMMARY:** The Architectural and Transportation Barriers Compliance Board (Access Board) has placed in the docket and on its web site for public review draft guidelines which address accessibility in the public right-of-way. The draft guidelines are under consideration by the Board. The purpose of placing the draft guidelines in the docket is to facilitate gathering of additional information for the regulatory assessment and the preparation of technical assistance materials to accompany a future rule. The Board is not seeking comments on the draft guidelines. The Board will issue a notice of proposed rulemaking at a future date and will solicit comments at that time, prior to issuing a final rule.
 
-**FOR FURTHER INFORMATION CONTACT:**Scott Windley, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street, NW, suite 1000, Washington DC 20004-1111. Telephone number (202) 272-0025 (voice); (202) 272-0082 (TTY). Electronic mail address: <windley@access-board.gov>.
+**FOR FURTHER INFORMATION CONTACT:**Scott Windley, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street, NW, suite 1000, Washington DC 20004-1111. Telephone number (202) 272-0025 (voice); (202) 272-0082 (TTY). Electronic mail address: <windley@access-board.gov>.
 
-**SUPPLEMENTARY INFORMATION:** In 1999, the Architectural and Transportation Barriers Compliance Board (Access Board) established the Public Rights-of-Way Access Advisory Committee (Committee) to make recommendations on accessibility guidelines for newly constructed and altered public rights-of-way covered by the Americans with Disabilities Act of 1990 and the Architectural Barriers Act of 1968. The Committee was comprised of representatives from disability organizations, public works departments, transportation and traffic engineering groups, design professionals and civil engineers, pedestrian and bicycle organizations, Federal agencies, and standard-setting bodies. The Committee met on five occasions between December 1999 and January 2001. On January 10, 2001, the Committee presented its recommendations on accessible public rights-of-way in a report entitled "Building a True Community." The Committee's report provided recommendations on access to sidewalks, street crossings, and other related pedestrian facilities and addressed various issues and design constraints specific to public rights of way. The report is available on the Access Board's website at [www.access-board.gov/prowac/commrept/index.htm](https://www.access-board.gov/commrept/index.htm) or can be ordered by calling the Access Board at (202) 272-0080. Persons using a TTY should call (202) 272-0082. The report is available in alternate formats upon request. Persons who want a copy in an alternate format should specify the type of format (cassette tape, braille, large print, or ASCII disk).
+**SUPPLEMENTARY INFORMATION:** In 1999, the Architectural and Transportation Barriers Compliance Board (Access Board) established the Public Rights-of-Way Access Advisory Committee (Committee) to make recommendations on accessibility guidelines for newly constructed and altered public rights-of-way covered by the Americans with Disabilities Act of 1990 and the Architectural Barriers Act of 1968. The Committee was comprised of representatives from disability organizations, public works departments, transportation and traffic engineering groups, design professionals and civil engineers, pedestrian and bicycle organizations, Federal agencies, and standard-setting bodies. The Committee met on five occasions between December 1999 and January 2001. On January 10, 2001, the Committee presented its recommendations on accessible public rights-of-way in a report entitled "Building a True Community." The Committee's report provided recommendations on access to sidewalks, street crossings, and other related pedestrian facilities and addressed various issues and design constraints specific to public rights of way. The report is available on the Access Board's website at [www.access-board.gov/prowac/commrept/index.htm](https://www.access-board.gov/commrept/index.htm) or can be ordered by calling the Access Board at (202) 272-0080. Persons using a TTY should call (202) 272-0082. The report is available in alternate formats upon request. Persons who want a copy in an alternate format should specify the type of format (cassette tape, braille, large print, or ASCII disk).
 
-The Access Board convened an ad hoc committee of Board members to review the Committee's recommendations. After reviewing the report in detail, the Board's ad hoc committee prepared recommendations for guidelines addressing accessibility in the public right-of-way. On June 17, 2002, the Board made the recommendations of the ad hoc committee available for public comment and review by notice in the *Federal Register* (67 FR 41206).
+The Access Board convened an ad hoc committee of Board members to review the Committee's recommendations. After reviewing the report in detail, the Board's ad hoc committee prepared recommendations for guidelines addressing accessibility in the public right-of-way. On June 17, 2002, the Board made the recommendations of the ad hoc committee available for public comment and review by notice in the *Federal Register* (67 FR 41206).
 
-Over 1,400 comments were received from the public in response to the publication of the draft. Of this total, almost 900 comments were from persons with disabilities and groups representing them; the great preponderance of comments in this category came from people who indicated that they were blind or had low vision. Respondents from the transportation industry, including design engineers and consultants, submitted slightly over 200 comments. Another 100 were received from State and local government administrative agencies. Comments are posted on the Board's website at <http://www.access-board.gov/prowac/comments/index.htm>. Further discussion of the comments received is available in the supplementary information accompanying the draft guidelines.
+Over 1,400 comments were received from the public in response to the publication of the draft. Of this total, almost 900 comments were from persons with disabilities and groups representing them; the great preponderance of comments in this category came from people who indicated that they were blind or had low vision. Respondents from the transportation industry, including design engineers and consultants, submitted slightly over 200 comments. Another 100 were received from State and local government administrative agencies. Comments are posted on the Board's website at <http://www.access-board.gov/prowac/comments/index.htm>. Further discussion of the comments received is available in the supplementary information accompanying the draft guidelines.
 
-The members of the Board's ad hoc committee subsequently reviewed and considered the comments received in response to the 2002 *Federal Register* notice. The draft guidelines made available today on the Board's website are the result of those deliberations. The Access Board is making the draft guidelines available in order to facilitate the gathering of additional information for a regulatory assessment prior to publishing a notice of proposed rulemaking and to assist in the development of technical assistance materials. The Board is not soliciting comments on the draft guidelines. The Board will solicit comments when a proposed rule is issued in conjunction with the regulatory assessment. The draft guidelines along with supplementary information have been placed in the rulemaking docket (Docket No. 02-1) for public review. The draft guidelines and supplementary information are also available on the Access Board's website at <http://www.access-board.gov/prowac/draft.htm>. You may also obtain a copy of the draft guidelines and supplementary information by contacting the Access Board at (202) 272-0080. Persons using a TTY should call (202) 272-0082. The documents are available in alternate formats upon request. Persons who want a copy in an alternate format should specify the type of format (cassette tape, braille, large print, or ASCII disk).
+The members of the Board's ad hoc committee subsequently reviewed and considered the comments received in response to the 2002 *Federal Register* notice. The draft guidelines made available today on the Board's website are the result of those deliberations. The Access Board is making the draft guidelines available in order to facilitate the gathering of additional information for a regulatory assessment prior to publishing a notice of proposed rulemaking and to assist in the development of technical assistance materials. The Board is not soliciting comments on the draft guidelines. The Board will solicit comments when a proposed rule is issued in conjunction with the regulatory assessment. The draft guidelines along with supplementary information have been placed in the rulemaking docket (Docket No. 02-1) for public review. The draft guidelines and supplementary information are also available on the Access Board's website at <http://www.access-board.gov/prowac/draft.htm>. You may also obtain a copy of the draft guidelines and supplementary information by contacting the Access Board at (202) 272-0080. Persons using a TTY should call (202) 272-0082. The documents are available in alternate formats upon request. Persons who want a copy in an alternate format should specify the type of format (cassette tape, braille, large print, or ASCII disk).
 
 
 ---
@@ -221,47 +221,47 @@ Alterations are projects planned for implementation by a jurisdiction. Program a
 Question: A multi-block length of roadway is being resurfaced. The corners have curb ramps that meet some but not all of the current specifications; for example the cross slope may be too steep or the curb ramps do not have detectable warnings. Must the curb ramps be reconstructed as part of the resurfacing project?\
 Answer: Yes, if it is technically feasible to provide complying features. The work should be done at the same time the resurfacing is being done.
 
-*Question:* New curb ramps are being installed at an existing developed corner. New construction standards require the curb ramp to be within the crosswalk, but an existing underground utility vault is located where the ramp should be. Must the utility vault be moved?\
-*Answer:* The scope of this project will determine the answer. If utilities are being moved for other reasons within the project limits, it may be possible to alter or relocate the vault. If project construction will not involve the vault, it may be technically infeasible to locate the curb ramp optimally. It may be possible to widen the crosswalk markings to include the curb ramp.
+*Question:* New curb ramps are being installed at an existing developed corner. New construction standards require the curb ramp to be within the crosswalk, but an existing underground utility vault is located where the ramp should be. Must the utility vault be moved?\
+*Answer:* The scope of this project will determine the answer. If utilities are being moved for other reasons within the project limits, it may be possible to alter or relocate the vault. If project construction will not involve the vault, it may be technically infeasible to locate the curb ramp optimally. It may be possible to widen the crosswalk markings to include the curb ramp.
 
-*Question:* What if the curb ramp can be placed over the vault, but the access cover would be located on the curb ramp?\
+*Question:* What if the curb ramp can be placed over the vault, but the access cover would be located on the curb ramp?\
 Answer: If the access cover must be located on the curb ramp, it should meet the surface requirements of the pedestrian access route.
 
-*Question:* One corner of an intersection is being altered by curb and gutter reconstruction and paired curb ramps are being installed as part of this project. The other three corners of the intersection are not being altered. Must curb ramps be provided at the unaltered corners as part of this work?\
-*Answer:* No. The scope of the project requires curb ramps only at the altered corner.
+*Question:* One corner of an intersection is being altered by curb and gutter reconstruction and paired curb ramps are being installed as part of this project. The other three corners of the intersection are not being altered. Must curb ramps be provided at the unaltered corners as part of this work?\
+*Answer:* No. The scope of the project requires curb ramps only at the altered corner.
 
 **Sidewalks**\
-*Question:* A project will be undertaken to connect a series of sidewalk segments near a school. Must the existing segments of sidewalk be modified if they do not meet width or cross slope provisions?\
-*Answer:* Yes, to the maximum extent feasible within the scope of the project. Agencies are not required to expand a planned scope of work to include other items of accessibility.
+*Question:* A project will be undertaken to connect a series of sidewalk segments near a school. Must the existing segments of sidewalk be modified if they do not meet width or cross slope provisions?\
+*Answer:* Yes, to the maximum extent feasible within the scope of the project. Agencies are not required to expand a planned scope of work to include other items of accessibility.
 
-*Question:* A new sidewalk is being built along an existing road that contains driveway access points. Must those driveways be modified if their cross slope exceeds 2%?\
-*Answer:* Yes, to the maximum extent feasible within the scope of the project.
+*Question:* A new sidewalk is being built along an existing road that contains driveway access points. Must those driveways be modified if their cross slope exceeds 2%?\
+*Answer:* Yes, to the maximum extent feasible within the scope of the project.
 
-*Question:* A city is rebuilding a sidewalk along Main Street. The distance between the edge of the right-of-way and the existing road does not provide sufficient room for a 4-foot-wide pedestrian access route. Does the municipality have to acquire more right-of-way on private property or narrow the roadway to provide the necessary space?\
-*Answer:* No, these guidelines do not require the municipality to obtain right-of-way or to narrow roadways. A municipality may decide to do either for other reasons (for instance, the roadway may be narrowed as a larger traffic calming effort or as part of a larger project in the roadway).
+*Question:* A city is rebuilding a sidewalk along Main Street. The distance between the edge of the right-of-way and the existing road does not provide sufficient room for a 4-foot-wide pedestrian access route. Does the municipality have to acquire more right-of-way on private property or narrow the roadway to provide the necessary space?\
+*Answer:* No, these guidelines do not require the municipality to obtain right-of-way or to narrow roadways. A municipality may decide to do either for other reasons (for instance, the roadway may be narrowed as a larger traffic calming effort or as part of a larger project in the roadway).
 
 **Signals**\
 *Question*: Curb ramps are being installed at a signalized intersection as part of a roadway improvement project. Existing pedestrian signals are pedestrian actuated but the pushbuttons are not accessible or placed in accessible locations. Must accessible pedestrian signals be installed at the existing pedestrian signals?\
-*Answer: *If work on pedestrian pushbuttons is not planned as part of this project, there is no need to expand its scope to include APS.
+*Answer: *If work on pedestrian pushbuttons is not planned as part of this project, there is no need to expand its scope to include APS.
 
-*Question:* The pedestrian signals in a corridor are being replaced with new combined count-down signals. Must APS be included in the new system?\
-*Answer:* Yes. The installation of a new system is an alteration that requires compliance with the new construction guidelines to the maximum extent feasible. However, the addition of a new feature, such as a countdown face or larger display, to an existing installed system does not require that the scope of work be expanded to include other features.
+*Question:* The pedestrian signals in a corridor are being replaced with new combined count-down signals. Must APS be included in the new system?\
+*Answer:* Yes. The installation of a new system is an alteration that requires compliance with the new construction guidelines to the maximum extent feasible. However, the addition of a new feature, such as a countdown face or larger display, to an existing installed system does not require that the scope of work be expanded to include other features.
 
-*Question:* Count-down signal displays are being added to the existing pedestrian signal heads at an intersection, but the software and signal controller are not being altered. Must APS be installed?\
-*Answer:* No, simply adding a display to the existing WALK/DON'T WALK signal would not involve the system changes needed to implement APS.
+*Question:* Count-down signal displays are being added to the existing pedestrian signal heads at an intersection, but the software and signal controller are not being altered. Must APS be installed?\
+*Answer:* No, simply adding a display to the existing WALK/DON'T WALK signal would not involve the system changes needed to implement APS.
 
-*Question:* An intersection is being signalized and will include APS. The installation of stub poles on the existing sidewalks to mount the new pedbuttons will not involve disturbing the roadway or sidewalk. Must curb ramps be installed if none existed?\
-*Answer:* No. This is a project to install pedbuttons; it is not an alteration to the sidewalk or street that would require the installation of curb ramps, as required by 28 CFR 35.151(e).
+*Question:* An intersection is being signalized and will include APS. The installation of stub poles on the existing sidewalks to mount the new pedbuttons will not involve disturbing the roadway or sidewalk. Must curb ramps be installed if none existed?\
+*Answer:* No. This is a project to install pedbuttons; it is not an alteration to the sidewalk or street that would require the installation of curb ramps, as required by 28 CFR 35.151(e).
 
-*Question:* The pushbutton on an existing pedestrian signal is being replaced with a sturdier model. Must APS be installed?\
-*Answer:* No, but the new pushbutton must meet applicable requirements (i.e., location, height, operable parts).
+*Question:* The pushbutton on an existing pedestrian signal is being replaced with a sturdier model. Must APS be installed?\
+*Answer:* No, but the new pushbutton must meet applicable requirements (i.e., location, height, operable parts).
 
-*Question:* An intersection with sidewalks and pedestrian signals is being widened to include a right turn lane. Must APS be installed as a consequence of the widening project?\
-*Answer:* No, installing APS is not within scope of the project. Any new pedestrian pushbuttons installed in the course of the work must meet applicable requirements. Note that this project is an alteration to the street and sidewalk and thus must provide compliant curb ramps.
+*Question:* An intersection with sidewalks and pedestrian signals is being widened to include a right turn lane. Must APS be installed as a consequence of the widening project?\
+*Answer:* No, installing APS is not within scope of the project. Any new pedestrian pushbuttons installed in the course of the work must meet applicable requirements. Note that this project is an alteration to the street and sidewalk and thus must provide compliant curb ramps.
 
 **General**\
-*Question:* The local public transit agency has designated a bus stop by placing a sign in the ground along a roadway with no sidewalk. Must a concrete or other improved surface be installed?\
-*Answer:* No, the placement of a bus stop sign alone does not require other site improvements. When other site improvements are provided they should meet the applicable access requirements.
+*Question:* The local public transit agency has designated a bus stop by placing a sign in the ground along a roadway with no sidewalk. Must a concrete or other improved surface be installed?\
+*Answer:* No, the placement of a bus stop sign alone does not require other site improvements. When other site improvements are provided they should meet the applicable access requirements.
 
 
 ---
@@ -273,7 +273,7 @@ Answer: If the access cover must be located on the curb ramp, it should meet the
 
 **R101 Purpose**
 
-**R101.1 General.** This document contains scoping and technical requirements for accessibility to facilities for pedestrian circulation and use located in the public right-of-way. Advisory notes are for informational purposes only. These requirements are to be applied during the design, construction, additions to, and alterations of facilities in the public right-of-way to the extent required by regulations issued by Federal agencies.
+**R101.1 General.** This document contains scoping and technical requirements for accessibility to facilities for pedestrian circulation and use located in the public right-of-way. Advisory notes are for informational purposes only. These requirements are to be applied during the design, construction, additions to, and alterations of facilities in the public right-of-way to the extent required by regulations issued by Federal agencies.
 
 |
 
@@ -283,7 +283,7 @@ Answer: If the access cover must be located on the curb ramp, it should meet the
 
  |
 
-**R101.2 Effect on Existing Facilities.** This document does not address existing facilities unless they are included in the scope of an alteration undertaken at the discretion of a covered entity. The U.S. Department of Justice and U.S. Department of Transportation have issued and enforce separate regulations for existing facilities subject to their requirements for program accessibility under the Americans with Disabilities Act.
+**R101.2 Effect on Existing Facilities.** This document does not address existing facilities unless they are included in the scope of an alteration undertaken at the discretion of a covered entity. The U.S. Department of Justice and U.S. Department of Transportation have issued and enforce separate regulations for existing facilities subject to their requirements for program accessibility under the Americans with Disabilities Act.
 
 |
 
@@ -298,9 +298,9 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 
 **R103 Conventions**
 
-**R103.1 Dimensions. **Dimensions that are not stated as "maximum" or "minimum" are absolute.
+**R103.1 Dimensions. **Dimensions that are not stated as "maximum" or "minimum" are absolute.
 
-> **R103.1.1 Construction and Manufacturing Tolerances.** All dimensions are subject to conventional industry tolerances except where the requirement is stated as a range with specific minimum and maximum end points.
+> **R103.1.1 Construction and Manufacturing Tolerances.** All dimensions are subject to conventional industry tolerances except where the requirement is stated as a range with specific minimum and maximum end points.
 
 |
 
@@ -310,21 +310,21 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 
  |
 
-**R103.2 Calculation of Percentages.** Where the required number of elements or facilities to be provided is determined by calculations of ratios or percentages and remainders or fractions result, the next greater whole number of such elements or facilities shall be provided. Where the determination of the required size or dimension of an element or facility involves ratios or percentages, rounding down for values less than one half shall be permitted.
+**R103.2 Calculation of Percentages.** Where the required number of elements or facilities to be provided is determined by calculations of ratios or percentages and remainders or fractions result, the next greater whole number of such elements or facilities shall be provided. Where the determination of the required size or dimension of an element or facility involves ratios or percentages, rounding down for values less than one half shall be permitted.
 
-**R103.3 Figures.** Unless specifically stated otherwise, figures are provided for informational purposes only.
+**R103.3 Figures.** Unless specifically stated otherwise, figures are provided for informational purposes only.
 
-**R103.4 Units of Measurement.** Measurements are presented in this document in both metric and U.S. customary units and were developed independently within each system. The relationship between the metric and U.S. customary values is neither an exact (soft) conversion nor a completely rationalized (hard) conversion. The metric values are those that would have been used had the requirements been presented exclusively in metric units; the U.S. customary values are those that would have been used had the requirements been presented exclusively in U.S. customary units. Therefore, the user is advised to work entirely in one system and not attempt to convert directly between the two.
+**R103.4 Units of Measurement.** Measurements are presented in this document in both metric and U.S. customary units and were developed independently within each system. The relationship between the metric and U.S. customary values is neither an exact (soft) conversion nor a completely rationalized (hard) conversion. The metric values are those that would have been used had the requirements been presented exclusively in metric units; the U.S. customary values are those that would have been used had the requirements been presented exclusively in U.S. customary units. Therefore, the user is advised to work entirely in one system and not attempt to convert directly between the two.
 
 **R104 Referenced Guidelines and Standards**
 
-**R104.1 General.** The guidelines and standards listed in R104.2 are incorporated by reference in this document and are part of the requirements to the prescribed extent of each such reference. The Director of the Federal Register has approved these guidelines and standards for incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of the referenced guidelines and standards may be inspected at the Architectural and Transportation Barriers Compliance Board, 1331 F Street, NW, Suite 1000, Washington, DC 20004; at the Department of Justice, Civil Rights Division, Disability Rights Section, 1425 New York Avenue, NW, Washington, DC; at the Department of Transportation, 400 Seventh Street, SW, Room 10424, Washington DC; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: <http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html>.
+**R104.1 General.** The guidelines and standards listed in R104.2 are incorporated by reference in this document and are part of the requirements to the prescribed extent of each such reference. The Director of the Federal Register has approved these guidelines and standards for incorporation by reference in accordance with 5 U.S.C. 552(a) and 1 CFR part 51. Copies of the referenced guidelines and standards may be inspected at the Architectural and Transportation Barriers Compliance Board, 1331 F Street, NW, Suite 1000, Washington, DC 20004; at the Department of Justice, Civil Rights Division, Disability Rights Section, 1425 New York Avenue, NW, Washington, DC; at the Department of Transportation, 400 Seventh Street, SW, Room 10424, Washington DC; or at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to: <http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html>.
 
-**R104.2 Referenced Guidelines and Standards.** The specific edition of the guidelines and standards listed below are referenced in this document. Where differences occur between this document and the reference, this document applies.
+**R104.2 Referenced Guidelines and Standards.** The specific edition of the guidelines and standards listed below are referenced in this document. Where differences occur between this document and the reference, this document applies.
 
-> **R104.2.1 MUTCD.** Manual on Uniform Traffic Control Devices for Streets and Highways (MUTCD), 2003 edition. Copies of the referenced standard may be obtained on-line from the Federal Highway Administration at [http://mutcd.fhwa.dot.gov](http://mutcd.fhwa.dot.gov/). (see R205 and R302.4).
+> **R104.2.1 MUTCD.** Manual on Uniform Traffic Control Devices for Streets and Highways (MUTCD), 2003 edition. Copies of the referenced standard may be obtained on-line from the Federal Highway Administration at [http://mutcd.fhwa.dot.gov](http://mutcd.fhwa.dot.gov/). (see R205 and R302.4).
 >
-> **R104.2.2 ANSI/BHMA.** Copies of the referenced standards may be obtained from the Builders Hardware Manufacturers Association, 355 Lexington Avenue, 17th floor, New York, NY 10017 ([http://www.buildershardware.com](http://www.buildershardware.com/)).
+> **R104.2.2 ANSI/BHMA.** Copies of the referenced standards may be obtained from the Builders Hardware Manufacturers Association, 355 Lexington Avenue, 17th floor, New York, NY 10017 ([http://www.buildershardware.com](http://www.buildershardware.com/)).
 >
 > ANSI/BHMA A156.10-1999 American National Standard for Power Operated Pedestrian Doors (see R411.3).
 >
@@ -332,49 +332,49 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 >
 > ANSI/BHMA A156.19-2002 American National Standard for Power Assist and Low Energy Power Operated Doors (see R411.3).
 >
-> **R104.2.3 ASME.** Copies of the referenced standard may be obtained from the American Society of Mechanical Engineers, Three Park Avenue, New York, NY 10016 ([http://www.asme.org](http://www.asme.org/)).
+> **R104.2.3 ASME.** Copies of the referenced standard may be obtained from the American Society of Mechanical Engineers, Three Park Avenue, New York, NY 10016 ([http://www.asme.org](http://www.asme.org/)).
 >
 > ASME A17.1-2000 Safety Code for Elevators and Escalators, including ASME A17.1a-2002 Addenda and ASME A17.1b-2003 Addenda (see R220; R305.5.5).
 
 **R105 Definitions**
 
-**R105.1 General.** For the purpose of this document, the terms defined in R105.5 have the indicated meaning.
+**R105.1 General.** For the purpose of this document, the terms defined in R105.5 have the indicated meaning.
 
-**R105.2 Terms Defined in Referenced Guidelines and Standards.** Terms not defined in R105.5 or in regulations issued by Federal agencies, but specifically defined in a referenced guideline or standard, shall have the specified meaning from the referenced guideline or standard unless otherwise stated.
+**R105.2 Terms Defined in Referenced Guidelines and Standards.** Terms not defined in R105.5 or in regulations issued by Federal agencies, but specifically defined in a referenced guideline or standard, shall have the specified meaning from the referenced guideline or standard unless otherwise stated.
 
-**R105.3 Undefined Terms.** The meaning of terms not specifically defined in R105.5 or in regulations issued by Federal agencies or in referenced guidelines and standards shall be as defined by collegiate dictionaries in the sense that the context implies.
+**R105.3 Undefined Terms.** The meaning of terms not specifically defined in R105.5 or in regulations issued by Federal agencies or in referenced guidelines and standards shall be as defined by collegiate dictionaries in the sense that the context implies.
 
-**R105.4 Interchangeability.** Words, terms and phrases used in the singular include the plural and those used in the plural include the singular.
+**R105.4 Interchangeability.** Words, terms and phrases used in the singular include the plural and those used in the plural include the singular.
 
 **R105.5 Defined Terms.**
 
-> *Accessible.* Describes a facility in the public right-of-way that complies with this part.
+> *Accessible.* Describes a facility in the public right-of-way that complies with this part.
 >
-> *Accessible Pedestrian Signal.* A device that communicates information about the WALK phase in audible and vibrotactile formats.
+> *Accessible Pedestrian Signal.* A device that communicates information about the WALK phase in audible and vibrotactile formats.
 >
-> *Alteration.* A change to a facility in the public right-of-way that affects or could affect access, circulation, or use.
+> *Alteration.* A change to a facility in the public right-of-way that affects or could affect access, circulation, or use.
 >
-> *Blended Transition.* A connection with a grade of 5 percent or less between the level of the pedestrian walkway and the level of the crosswalk.
+> *Blended Transition.* A connection with a grade of 5 percent or less between the level of the pedestrian walkway and the level of the crosswalk.
 >
-> *Channelization.* The separation or regulation of conflicting traffic movements into definite paths of travel by devices such as cones, tubular markers, vertical panels, drums, barricades, temporary raised islands and barriers, to facilitate the orderly movements of traffic, to separate vehicles and pedestrians, and to protect them from construction or hazardous areas.
+> *Channelization.* The separation or regulation of conflicting traffic movements into definite paths of travel by devices such as cones, tubular markers, vertical panels, drums, barricades, temporary raised islands and barriers, to facilitate the orderly movements of traffic, to separate vehicles and pedestrians, and to protect them from construction or hazardous areas.
 >
-> *Channelized Intersection.* An at-grade intersection in which traffic is directed into definite paths by islands.
+> *Channelized Intersection.* An at-grade intersection in which traffic is directed into definite paths by islands.
 >
-> *Crosswalk.* (Shall have the meaning in MUTCD Section 1A13.18).\
+> *Crosswalk.* (Shall have the meaning in MUTCD Section 1A13.18).\
 >\
-> *Cross Slope.* The grade that is perpendicular to the direction of accessible pedestrian travel. On a sidewalk, shoulder, or blended transition, it is measured perpendicular to the curb line or edge of the street or highway; on a curb ramp, it is measured perpendicular to the running grade.
+> *Cross Slope.* The grade that is perpendicular to the direction of accessible pedestrian travel. On a sidewalk, shoulder, or blended transition, it is measured perpendicular to the curb line or edge of the street or highway; on a curb ramp, it is measured perpendicular to the running grade.
 >
-> *Curb Line.* A line at the face of the curb that marks the transition between the curb and the gutter, street, or highway.
+> *Curb Line.* A line at the face of the curb that marks the transition between the curb and the gutter, street, or highway.
 >
-> *Curb Ramp.* A perpendicular or parallel ramp and its landing that cuts through or is built up to the curb.
+> *Curb Ramp.* A perpendicular or parallel ramp and its landing that cuts through or is built up to the curb.
 >
-> *Detectable Warning.* A surface feature of truncated dome material built in or applied to the walking surface to advise of an upcoming change from pedestrian to vehicular way.
+> *Detectable Warning.* A surface feature of truncated dome material built in or applied to the walking surface to advise of an upcoming change from pedestrian to vehicular way.
 >
 > *Element*. An architectural or mechanical component of a building, facility, space, site, or public right-of-way.
 >
-> *Facility.* All or any portion of buildings, structures, improvements, elements, and pedestrian or vehicular routes located in a public right-of-way.
+> *Facility.* All or any portion of buildings, structures, improvements, elements, and pedestrian or vehicular routes located in a public right-of-way.
 >
-> *Grade Break.* The meeting line of two adjacent surface planes of different grade.
+> *Grade Break.* The meeting line of two adjacent surface planes of different grade.
 >
 > *Highway*. (Shall have the meaning in MUTCD Section 1A13.32).
 >
@@ -384,7 +384,7 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 >
 > *Median*. (Shall have the meaning in MUTCD Section 1A13.48).
 >
-> *Operable Part.* A component of an element used to insert or withdraw objects, or to activate, deactivate, or adjust the element.
+> *Operable Part.* A component of an element used to insert or withdraw objects, or to activate, deactivate, or adjust the element.
 >
 > *Pedestrian*. (Shall have the meaning in MUTCD Section 1A13.55).
 >
@@ -394,23 +394,23 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 >
 > *Pushbutton Locator Tone*. A repeating sound that identifies the pushbutton location and indicates the need to actuate pedestrian timing.
 >
-> *Public Right-of-Way.* Public land or property, usually in interconnected corridors, that is acquired for or devoted to transportation purposes.
+> *Public Right-of-Way.* Public land or property, usually in interconnected corridors, that is acquired for or devoted to transportation purposes.
 >
 > *Roundabout Intersection*. (Shall have the meaning in MUTCD Section 1A13.68).
 >
 > *Running Slope*. The grade that is parallel to the direction of travel, expressed as a ratio of rise to run or as a percent.
 >
-> *Sidewalk.* (Shall have the meaning in MUTCD Section 1A13.73).
+> *Sidewalk.* (Shall have the meaning in MUTCD Section 1A13.73).
 >
-> *Splitter Island.* A flush or raised island that separates entering and exiting traffic in a roundabout intersection.
+> *Splitter Island.* A flush or raised island that separates entering and exiting traffic in a roundabout intersection.
 >
-> *Street.* (Shall have the meaning in MUTCD Section 1A13.84).
+> *Street.* (Shall have the meaning in MUTCD Section 1A13.84).
 >
 > *Street Furniture*. Sidewalk equipment or furnishings.
 >
 > *Vibrotactile*. A vibrating surface, located on the accessible pedestrian signal button, that communicates information through touch.
 >
-> *Walk Interval.* That phase of a traffic signal cycle during which the pedestrian is to begin crossing, typically indicated by a WALK message or the walking person symbol and its audible equivalent.
+> *Walk Interval.* That phase of a traffic signal cycle during which the pedestrian is to begin crossing, typically indicated by a WALK message or the walking person symbol and its audible equivalent.
 >
 > *Walkway*. The continuous portion of the pedestrian access route that is connected to street crossings by curb ramps or blended transitions.
 
@@ -424,7 +424,7 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 
 **R201 Application**
 
-**R201.1 Scope.** All newly designed and newly constructed facilities located in the public right-of-way shall comply with these requirements. All altered portions of existing facilities located in the public right-of-way shall comply with these requirements to the maximum extent feasible.
+**R201.1 Scope.** All newly designed and newly constructed facilities located in the public right-of-way shall comply with these requirements. All altered portions of existing facilities located in the public right-of-way shall comply with these requirements to the maximum extent feasible.
 
 |
 
@@ -434,7 +434,7 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 
  |
 
-**R201.2 Temporary and Permanent Facilities.** These requirements shall apply to temporary and permanent facilities.
+**R201.2 Temporary and Permanent Facilities.** These requirements shall apply to temporary and permanent facilities.
 
 |
 
@@ -444,27 +444,27 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 
  |
 
-**R201.3 Requirements for Buildings and Structures.** Buildings, structures, and similar facilities constructed in the public right-of-way but not specified in this document shall comply with the applicable requirements in 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
+**R201.3 Requirements for Buildings and Structures.** Buildings, structures, and similar facilities constructed in the public right-of-way but not specified in this document shall comply with the applicable requirements in 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
 
-> **R201.3.1 Buildings and Structures Covered by the Americans with Disabilities Act. **Buildings, structures, and similar facilities covered by the Americans with Disabilities Act (ADA) shall comply with Appendices B and D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
+> **R201.3.1 Buildings and Structures Covered by the Americans with Disabilities Act. **Buildings, structures, and similar facilities covered by the Americans with Disabilities Act (ADA) shall comply with Appendices B and D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
 >
-> **R201.3.2 Buildings and Structures Covered by the Architectural Barriers Act.** Buildings, structures, and similar facilities covered by the Architectural Barriers Act (ABA) shall comply with Appendices C and D to 36 CFR part 1191.
+> **R201.3.2 Buildings and Structures Covered by the Architectural Barriers Act.** Buildings, structures, and similar facilities covered by the Architectural Barriers Act (ABA) shall comply with Appendices C and D to 36 CFR part 1191.
 
 **R202 Alterations and Additions to Existing Facilities**
 
-**R202.1 General.** Additions and alterations to existing facilities shall comply with R202.
+**R202.1 General.** Additions and alterations to existing facilities shall comply with R202.
 
 |
 
 *Advisory R202.1 General. Alterations include, but are not limited to, renovation, rehabilitation, reconstruction, historic restoration, resurfacing of circulation paths or vehicular ways, or changes or rearrangement of structural parts or elements of a facility.*
 
-*The U.S. Department of Justice Title II regulation at 28 CFR 35.151(e) requires that curb ramps be installed whenever pedestrian walkways on sidewalks and across streets are newly constructed or altered. A 1993 case, Kinney v. Yerusalim, 9 F.3d 1067 (3d Cir. 1993), cert. denied, 511 U.S. 1033 (1994), held that resurfacing of a street constitutes an alteration that requires the installation of curb ramps (for text see <http://www.ada.gov/deldot.htm>).*
+*The U.S. Department of Justice Title II regulation at 28 CFR 35.151(e) requires that curb ramps be installed whenever pedestrian walkways on sidewalks and across streets are newly constructed or altered. A 1993 case, Kinney v. Yerusalim, 9 F.3d 1067 (3d Cir. 1993), cert. denied, 511 U.S. 1033 (1994), held that resurfacing of a street constitutes an alteration that requires the installation of curb ramps (for text see <http://www.ada.gov/deldot.htm>).*
 
 *Pavement patching and liquid-applied sealing, lane restriping, and short-term maintenance activities are not alterations.*
 
  |
 
-**R202.1.1 Transitional Segments.** Transitional segments connecting to existing unaltered segments shall comply with R301 to the maximum extent feasible.
+**R202.1.1 Transitional Segments.** Transitional segments connecting to existing unaltered segments shall comply with R301 to the maximum extent feasible.
 
 |
 
@@ -472,7 +472,7 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 
  |
 
-**R202.1.2 Added Elements.** Where elements are added and the circulation path is not altered, a pedestrian access route is not required.
+**R202.1.2 Added Elements.** Where elements are added and the circulation path is not altered, a pedestrian access route is not required.
 
 |
 
@@ -480,9 +480,9 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 
  |
 
-**R202.2 Additions.** Each addition to an existing facility shall comply with the requirements for new construction. Where an existing pedestrian circulation path is extended, the extension shall contain a pedestrian access route complying with R301.
+**R202.2 Additions.** Each addition to an existing facility shall comply with the requirements for new construction. Where an existing pedestrian circulation path is extended, the extension shall contain a pedestrian access route complying with R301.
 
-**R202.3 Alterations.** Where existing elements or spaces are altered, each altered element or space within the limits or scope of the project shall comply with the applicable requirements for new construction to the maximum extent feasible.
+**R202.3 Alterations.** Where existing elements or spaces are altered, each altered element or space within the limits or scope of the project shall comply with the applicable requirements for new construction to the maximum extent feasible.
 
 |
 
@@ -496,7 +496,7 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 
  |
 
-> **R202.3.1 Prohibited Reduction in Required Access.** An alteration shall not decrease or have the effect of decreasing the accessibility of a facility or an accessible connection to an adjacent building or site below the requirements for new construction in effect at the time of the alteration.
+> **R202.3.1 Prohibited Reduction in Required Access.** An alteration shall not decrease or have the effect of decreasing the accessibility of a facility or an accessible connection to an adjacent building or site below the requirements for new construction in effect at the time of the alteration.
 
 |
 
@@ -512,9 +512,9 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 
  |
 
-> **R202.3.2 Extent of Application.** An alteration of an existing element, space, or area of a facility shall not impose a requirement for accessibility greater than required for new construction.
+> **R202.3.2 Extent of Application.** An alteration of an existing element, space, or area of a facility shall not impose a requirement for accessibility greater than required for new construction.
 >
-> **R202.3.3 Alterations to Qualified Historic Facilities. **Where the State Historic Preservation Officer or Advisory Council on Historic Preservation determines that compliance with these requirements would threaten or destroy the historic significance of a qualified facility or element, compliance shall be required to the maximum extent that does not threaten or destroy the historic significance.
+> **R202.3.3 Alterations to Qualified Historic Facilities. **Where the State Historic Preservation Officer or Advisory Council on Historic Preservation determines that compliance with these requirements would threaten or destroy the historic significance of a qualified facility or element, compliance shall be required to the maximum extent that does not threaten or destroy the historic significance.
 
 |
 
@@ -522,7 +522,7 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 
  |
 
-> > **R202.3.3.1 Historic District.** Location of the facility or element within an historic district is not a sufficient condition for qualification as an historic facility.
+> > **R202.3.3.1 Historic District.** Location of the facility or element within an historic district is not a sufficient condition for qualification as an historic facility.
 
 |
 
@@ -530,19 +530,19 @@ Nothing in these requirements prevents the use of designs, products, or technolo
 
  |
 
-> > **R202.3.3.2 Reproductions or Replications.** Reproductions or replications of historic facilities shall not qualify as historic facilities.
+> > **R202.3.3.2 Reproductions or Replications.** Reproductions or replications of historic facilities shall not qualify as historic facilities.
 
 **R203 General Exceptions**
 
-**R203.1 General.** Facilities, sites, spaces, and elements are exempt from these requirements to the extent specified by R203.
+**R203.1 General.** Facilities, sites, spaces, and elements are exempt from these requirements to the extent specified by R203.
 
-> **R203.1.1 Construction Sites.** Structures and sites directly associated with the actual processes of construction, including but not limited to, scaffolding, bridging, materials hoists, materials storage, portable toilet units provided for use exclusively by construction personnel, and construction trailers, shall not be required to comply with this part.
+> **R203.1.1 Construction Sites.** Structures and sites directly associated with the actual processes of construction, including but not limited to, scaffolding, bridging, materials hoists, materials storage, portable toilet units provided for use exclusively by construction personnel, and construction trailers, shall not be required to comply with this part.
 >
-> **R203.1.2 Limited Access Spaces.** Spaces accessed only by ladders, catwalks, crawl spaces, or very narrow passageways shall not be required to comply with this part.
+> **R203.1.2 Limited Access Spaces.** Spaces accessed only by ladders, catwalks, crawl spaces, or very narrow passageways shall not be required to comply with this part.
 >
-> **R203.1.3 Machinery Spaces.** Spaces or elements frequented only by service personnel for maintenance, repair, or occasional monitoring of equipment shall not be required to comply with this part. Machinery spaces include, but are not limited to, elevator pits or elevator penthouses; mechanical, electrical or communications equipment cabinets and vaults; electric substations and transformer vaults; and highway and tunnel utility facilities.
+> **R203.1.3 Machinery Spaces.** Spaces or elements frequented only by service personnel for maintenance, repair, or occasional monitoring of equipment shall not be required to comply with this part. Machinery spaces include, but are not limited to, elevator pits or elevator penthouses; mechanical, electrical or communications equipment cabinets and vaults; electric substations and transformer vaults; and highway and tunnel utility facilities.
 >
-> **R203.1.4 Single Occupant Structures.** Single occupant structures accessed only by passageways below grade or elevated above standard curb height, including but not limited to toll booths that are accessed only by underground tunnels, shall not be required to comply with this part.
+> **R203.1.4 Single Occupant Structures.** Single occupant structures accessed only by passageways below grade or elevated above standard curb height, including but not limited to toll booths that are accessed only by underground tunnels, shall not be required to comply with this part.
 
 **R204 Pedestrian Access Route**\
 Pedestrian circulation paths shall contain a pedestrian access route complying with R301 which connects to facilities, elements, and spaces required to be accessible by Chapter R2 and to accessible routes required to connect to public streets and sidewalks by section 206.2.1 of appendix B to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines) or section F206.2.1 of appendix C of 36 CFR 1191 (the ADA and ABA Accessibility Guidelines). Where a pedestrian circulation path is provided in the street, along a highway, or within a shoulder, it shall contain a pedestrian access route.
@@ -588,11 +588,11 @@ Protruding objects along or overhanging any portion of a pedestrian circulation 
 
 **R210 Pedestrian Signs**
 
-**R210.1 General.** Signs designed primarily for pedestrian use shall comply with R210.
+**R210.1 General.** Signs designed primarily for pedestrian use shall comply with R210.
 
-**R210.2 Bus Route Identification. **Bus route identification signs shall comply with R409.5.1 through R409.5.4, and R409.5.7 and R409.5.8. In addition, to the maximum extent practicable, bus route identification signs shall comply with R409.5.5. Bus route identification signs located at bus shelters shall provide raised and braille characters complying with R409.2, and shall have rounded corners. Signs shall not be required to comply with R409.2 where audible signs are user- or proximity-actuated or are remotely transmitted to a portable receiver carried by an individual. Bus schedules, timetables and maps that are posted at the bus stop or bus shelter are not required to comply.
+**R210.2 Bus Route Identification. **Bus route identification signs shall comply with R409.5.1 through R409.5.4, and R409.5.7 and R409.5.8. In addition, to the maximum extent practicable, bus route identification signs shall comply with R409.5.5. Bus route identification signs located at bus shelters shall provide raised and braille characters complying with R409.2, and shall have rounded corners. Signs shall not be required to comply with R409.2 where audible signs are user- or proximity-actuated or are remotely transmitted to a portable receiver carried by an individual. Bus schedules, timetables and maps that are posted at the bus stop or bus shelter are not required to comply.
 
-**R210.3 Directional, Informational, and Warning Signs.** Directional, informational, and warning signs shall comply with R409.5.
+**R210.3 Directional, Informational, and Warning Signs.** Directional, informational, and warning signs shall comply with R409.5.
 
 |
 
@@ -776,13 +776,13 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
 **R301 Pedestrian Access Route**
 
-**R301.1 General.** Pedestrian access routes shall comply with R301 and shall connect pedestrian elements and facilities required to be accessible.
+**R301.1 General.** Pedestrian access routes shall comply with R301 and shall connect pedestrian elements and facilities required to be accessible.
 
-**R301.2 Components.** Pedestrian access routes shall consist of one or more of the following components: walkways, ramps, curb ramps (excluding flared sides) and landings, blended transitions, crosswalks, and pedestrian overpasses and underpasses, elevators, and platform lifts. Stairways and escalators shall not be part of a pedestrian access route. All components of a pedestrian access route shall comply with the applicable portions of this document.
+**R301.2 Components.** Pedestrian access routes shall consist of one or more of the following components: walkways, ramps, curb ramps (excluding flared sides) and landings, blended transitions, crosswalks, and pedestrian overpasses and underpasses, elevators, and platform lifts. Stairways and escalators shall not be part of a pedestrian access route. All components of a pedestrian access route shall comply with the applicable portions of this document.
 
 **R301.3 Width**
 
-> **R301.3.1 Continuous Width.** The minimum continuous and unobstructed clear width of a pedestrian access route shall be 1.2 m (4.0 ft), exclusive of the width of the curb.
+> **R301.3.1 Continuous Width.** The minimum continuous and unobstructed clear width of a pedestrian access route shall be 1.2 m (4.0 ft), exclusive of the width of the curb.
 
 |
 
@@ -796,19 +796,19 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R301.3.2 Width at Passing Spaces.** Walkways in pedestrian access routes that are less than 1.5 m (5.0 ft) in clear width shall provide passing spaces at intervals of 61 m (200 ft) maximum. Pedestrian access routes at passing spaces shall be 1.5 m (5.0 ft) wide for a distance of 1.5m (5.0 ft).
+> **R301.3.2 Width at Passing Spaces.** Walkways in pedestrian access routes that are less than 1.5 m (5.0 ft) in clear width shall provide passing spaces at intervals of 61 m (200 ft) maximum. Pedestrian access routes at passing spaces shall be 1.5 m (5.0 ft) wide for a distance of 1.5m (5.0 ft).
 >
-> **R301.3.3 Width at Elevators and Lifts. **The pedestrian access route at elevators and platform lifts shall be permitted to comply with the applicable requirements of section 407, 408, and 410 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
+> **R301.3.3 Width at Elevators and Lifts. **The pedestrian access route at elevators and platform lifts shall be permitted to comply with the applicable requirements of section 407, 408, and 410 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
 >
-> **R301.3.4 Width at Doors, Doorways, and Gates.** The pedestrian access route through doors, doorways, and gates shall be permitted to comply with R411.2.3.
+> **R301.3.4 Width at Doors, Doorways, and Gates.** The pedestrian access route through doors, doorways, and gates shall be permitted to comply with R411.2.3.
 
 **R301.4 Walkway Grade and Cross Slope**
 
-> **R301.4.1 Cross Slope.** The cross slope of the walkway of a pedestrian access route shall be 2 percent maximum.
+> **R301.4.1 Cross Slope.** The cross slope of the walkway of a pedestrian access route shall be 2 percent maximum.
 >
-> **R301.4.2 Street or Highway Grade. **Where the walkway of a pedestrian access route is contained within a street or highway border, its grade shall not exceed the general grade established for the adjacent street or highway.
+> **R301.4.2 Street or Highway Grade. **Where the walkway of a pedestrian access route is contained within a street or highway border, its grade shall not exceed the general grade established for the adjacent street or highway.
 >
-> **R301.4.3 Supported Slope.** Where the walkway of a pedestrian access route is supported by a structure, it shall comply with R305.5.
+> **R301.4.3 Supported Slope.** Where the walkway of a pedestrian access route is supported by a structure, it shall comply with R305.5.
 
 |
 
@@ -816,7 +816,7 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R301.5 Surface.** The surface of the pedestrian access route shall be firm, stable and slip resistant.
+**R301.5 Surface.** The surface of the pedestrian access route shall be firm, stable and slip resistant.
 
 |
 
@@ -824,9 +824,9 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R301.5.1 Vertical Alignment.** Vertical alignment shall be planar within curb ramp runs, blended transitions, landings, and gutter areas within the pedestrian access route, and within clear spaces required for accessible pedestrian signals, street furniture, and operable parts. Grade breaks shall be flush. Where the pedestrian access route crosses rail tracks at grade, the surface of the pedestrian access route shall be level and flush with the top of the rail at the outer edges of the rail. The surface between the rails shall be aligned with the top of the rail.
+> **R301.5.1 Vertical Alignment.** Vertical alignment shall be planar within curb ramp runs, blended transitions, landings, and gutter areas within the pedestrian access route, and within clear spaces required for accessible pedestrian signals, street furniture, and operable parts. Grade breaks shall be flush. Where the pedestrian access route crosses rail tracks at grade, the surface of the pedestrian access route shall be level and flush with the top of the rail at the outer edges of the rail. The surface between the rails shall be aligned with the top of the rail.
 >
-> **R301.5.2 Surface Discontinuities.** Surface discontinuities shall not exceed 13 mm (0.50 in) maximum. Vertical discontinuities between 6.4 mm (0.25 in) and 13 mm (0.5 in) maximum shall be beveled at 1:2 minimum. The bevel shall be applied across the entire level change.
+> **R301.5.2 Surface Discontinuities.** Surface discontinuities shall not exceed 13 mm (0.50 in) maximum. Vertical discontinuities between 6.4 mm (0.25 in) and 13 mm (0.5 in) maximum shall be beveled at 1:2 minimum. The bevel shall be applied across the entire level change.
 
 |
 
@@ -836,17 +836,17 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
 **R301.7 Horizontal Openings**
 
-> **R301.7.1 Walkway Joints and Gratings.** Openings shall not permit passage of a sphere more than 13 mm (0.5 in) in diameter. Elongated openings shall be placed so that the long dimension is perpendicular to the dominant direction of travel.
+> **R301.7.1 Walkway Joints and Gratings.** Openings shall not permit passage of a sphere more than 13 mm (0.5 in) in diameter. Elongated openings shall be placed so that the long dimension is perpendicular to the dominant direction of travel.
 >
-> **R301.7.2 Clearances at Elevator and Platform Lift Sills. **Clearances between elevator car platform sills and associated hoistways and between a platform lift sill and any landing shall comply with the applicable requirements in sections 407.4.3, 408.4.3, and 410.4 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
+> **R301.7.2 Clearances at Elevator and Platform Lift Sills. **Clearances between elevator car platform sills and associated hoistways and between a platform lift sill and any landing shall comply with the applicable requirements in sections 407.4.3, 408.4.3, and 410.4 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
 >
-> **R301.7.3 Flangeway Gaps at Non-Freight Rail Crossings.** Openings for wheel flanges at pedestrian crossings of non-freight rail track shall be 64 mm (2.5 in) maximum.
+> **R301.7.3 Flangeway Gaps at Non-Freight Rail Crossings.** Openings for wheel flanges at pedestrian crossings of non-freight rail track shall be 64 mm (2.5 in) maximum.
 >
-> **R301.7.4 Flangeway Gaps at Freight Rail Crossings.** Openings for wheel flanges at pedestrian crossings of freight rail track shall be 75 mm (3 in) maximum.
+> **R301.7.4 Flangeway Gaps at Freight Rail Crossings.** Openings for wheel flanges at pedestrian crossings of freight rail track shall be 75 mm (3 in) maximum.
 
 **R302 Alternate Circulation Path**
 
-**R302.1 General.** Alternate circulation paths shall comply with R302 and shall contain a pedestrian access route complying with R301.
+**R302.1 General.** Alternate circulation paths shall comply with R302 and shall contain a pedestrian access route complying with R301.
 
 |
 
@@ -854,7 +854,7 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R302.2 Location.** To the maximum extent feasible, the alternate circulation path shall be provided on the same side of the street as the disrupted route.
+**R302.2 Location.** To the maximum extent feasible, the alternate circulation path shall be provided on the same side of the street as the disrupted route.
 
 |
 
@@ -862,7 +862,7 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R302.3 Protection.** Where the alternate circulation path is exposed to adjacent construction, excavation drop-offs, traffic, or other hazards, it shall be protected with a pedestrian barricade or channelizing device complying with R302.4.
+**R302.3 Protection.** Where the alternate circulation path is exposed to adjacent construction, excavation drop-offs, traffic, or other hazards, it shall be protected with a pedestrian barricade or channelizing device complying with R302.4.
 
 |
 
@@ -872,15 +872,15 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R302.4 Pedestrian Barricades and Channelizing Devices.** Pedestrian barricades and channelizing devices shall be continuous, stable, and non-flexible and shall consist of a wall, fence, or enclosures specified in section 6F-58, 6F-63, and 6F-66 of the MUTCD (incorporated by reference; see R104.2.4).
+**R302.4 Pedestrian Barricades and Channelizing Devices.** Pedestrian barricades and channelizing devices shall be continuous, stable, and non-flexible and shall consist of a wall, fence, or enclosures specified in section 6F-58, 6F-63, and 6F-66 of the MUTCD (incorporated by reference; see R104.2.4).
 
-> **R302.4.1 Detectable Base.** A continuous bottom edge shall be provided 150 mm (6 in) maximum above the ground or walkway surface.
+> **R302.4.1 Detectable Base.** A continuous bottom edge shall be provided 150 mm (6 in) maximum above the ground or walkway surface.
 >
-> **R302.4.2 Height.** Devices shall provide a continuous surface or upper rail at 0.9 m (3.0 ft) minimum above the ground or walkway surface. Support members shall not protrude into the alternate circulation path.
+> **R302.4.2 Height.** Devices shall provide a continuous surface or upper rail at 0.9 m (3.0 ft) minimum above the ground or walkway surface. Support members shall not protrude into the alternate circulation path.
 
 **R303 Curb Ramps and Blended Transitions**
 
-**R303.1 General.** Curb ramps and blended transitions shall comply with R303.
+**R303.1 General.** Curb ramps and blended transitions shall comply with R303.
 
 |
 
@@ -888,7 +888,7 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R303.2 Types.** Perpendicular curb ramps shall comply with R303.2.1 and R303.3; parallel curb ramps shall comply with R303.2.2 and R303.3; blended transitions shall comply with R303.2.3 and R303.3.
+**R303.2 Types.** Perpendicular curb ramps shall comply with R303.2.1 and R303.3; parallel curb ramps shall comply with R303.2.2 and R303.3; blended transitions shall comply with R303.2.3 and R303.3.
 
 |
 
@@ -900,15 +900,15 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R303.2.1 Perpendicular Curb Ramps.** Perpendicular curb ramps shall have a running slope that cuts through or is built up to the curb at right angles or meets the gutter grade break at right angles.
+> **R303.2.1 Perpendicular Curb Ramps.** Perpendicular curb ramps shall have a running slope that cuts through or is built up to the curb at right angles or meets the gutter grade break at right angles.
 >
-> > **R303.2.1.1 Running Slope.** The running slope shall be 5 percent minimum and 8.3 percent maximum but shall not require the ramp length to exceed 4.5 m (15.0 ft).
+> > **R303.2.1.1 Running Slope.** The running slope shall be 5 percent minimum and 8.3 percent maximum but shall not require the ramp length to exceed 4.5 m (15.0 ft).
 > >
-> > **R303.2.1.2 Cross Slope.** The cross slope at intersections shall be 2 percent maximum. The cross slope at midblock crossings shall be permitted to be warped to meet street or highway grade.
+> > **R303.2.1.2 Cross Slope.** The cross slope at intersections shall be 2 percent maximum. The cross slope at midblock crossings shall be permitted to be warped to meet street or highway grade.
 > >
-> > **R303.2.1.3 Landing.** A landing 1.2 m (4.0 ft) minimum by 1.2 m (4.0 ft) minimum shall be provided at the top of the curb ramp and shall be permitted to overlap other landings and clear space. Running and cross slopes at intersections shall be 2 percent maximum. Running and cross slope at midblock crossings shall be permitted to be warped to meet street or highway grade.
+> > **R303.2.1.3 Landing.** A landing 1.2 m (4.0 ft) minimum by 1.2 m (4.0 ft) minimum shall be provided at the top of the curb ramp and shall be permitted to overlap other landings and clear space. Running and cross slopes at intersections shall be 2 percent maximum. Running and cross slope at midblock crossings shall be permitted to be warped to meet street or highway grade.
 > >
-> > **R303.2.1.4 Flares.** Flared sides with a slope of 10 percent maximum, measured parallel to the curb line, shall be provided where a pedestrian circulation path crosses the curb ramp.
+> > **R303.2.1.4 Flares.** Flared sides with a slope of 10 percent maximum, measured parallel to the curb line, shall be provided where a pedestrian circulation path crosses the curb ramp.
 
 |
 
@@ -916,37 +916,37 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R303.2.2 Parallel Curb Ramps.** Parallel curb ramps shall comply with R303.2.2, and shall have a running slope that is in-line with the direction of sidewalk travel.
+> **R303.2.2 Parallel Curb Ramps.** Parallel curb ramps shall comply with R303.2.2, and shall have a running slope that is in-line with the direction of sidewalk travel.
 >
-> > **R303.2.2.1 Running Slope. **The running slope shall be 5 percent minimum and 8.3 percent maximum but shall not require the ramp length to exceed 4.5 m (15.0 ft).
+> > **R303.2.2.1 Running Slope. **The running slope shall be 5 percent minimum and 8.3 percent maximum but shall not require the ramp length to exceed 4.5 m (15.0 ft).
 > >
-> > **R303.2.2.2 Cross Slope.** The cross slope shall be 2 percent maximum.
+> > **R303.2.2.2 Cross Slope.** The cross slope shall be 2 percent maximum.
 > >
-> > **R303.2.2.3 Landing.** A landing 1.2 m (4.0 ft) minimum by 1.2 m (4.0 ft) minimum shall be provided at the bottom of the ramp run and shall be permitted to overlap other landings and clear floor or ground space. Running slope and cross slopes at intersections shall be 2 percent maximum. Running and cross slope at midblock crossings shall be permitted to be warped to meet street or highway grade.
+> > **R303.2.2.3 Landing.** A landing 1.2 m (4.0 ft) minimum by 1.2 m (4.0 ft) minimum shall be provided at the bottom of the ramp run and shall be permitted to overlap other landings and clear floor or ground space. Running slope and cross slopes at intersections shall be 2 percent maximum. Running and cross slope at midblock crossings shall be permitted to be warped to meet street or highway grade.
 > >
-> > **R303.2.2.4 Diverging Sidewalks.** Where a parallel curb ramp does not occupy the entire width of a sidewalk, drop-offs at diverging segments shall be protected.
+> > **R303.2.2.4 Diverging Sidewalks.** Where a parallel curb ramp does not occupy the entire width of a sidewalk, drop-offs at diverging segments shall be protected.
 > >
-> > **R303.2.3 Blended Transitions.** Blended transitions shall comply with R303.3. Running slope shall be 5 percent maximum and cross slope shall be 2 percent maximum.
+> > **R303.2.3 Blended Transitions.** Blended transitions shall comply with R303.3. Running slope shall be 5 percent maximum and cross slope shall be 2 percent maximum.
 
-**R303.3 Common Elements.** Curb ramps and blended transitions shall comply with R303.3.
+**R303.3 Common Elements.** Curb ramps and blended transitions shall comply with R303.3.
 
-> **R303.3.1 Width.** The clear width of landings, blended transitions, and curb ramps, excluding flares, shall be 1.2 m (4.0 ft) minimum.
+> **R303.3.1 Width.** The clear width of landings, blended transitions, and curb ramps, excluding flares, shall be 1.2 m (4.0 ft) minimum.
 >
-> **R303.3.2 Detectable Warnings.** Detectable warning surfaces complying with R304 shall be provided, where a curb ramp, landing, or blended transition connects to a street.
+> **R303.3.2 Detectable Warnings.** Detectable warning surfaces complying with R304 shall be provided, where a curb ramp, landing, or blended transition connects to a street.
 >
-> **R303.3.3 Surfaces.** Surfaces of curb ramps, blended transitions, and landings shall comply with R301. Gratings, access covers, and other appurtenances shall not be located on curb ramps, landings, blended transitions, and gutters within the pedestrian access route.
+> **R303.3.3 Surfaces.** Surfaces of curb ramps, blended transitions, and landings shall comply with R301. Gratings, access covers, and other appurtenances shall not be located on curb ramps, landings, blended transitions, and gutters within the pedestrian access route.
 >
-> **R303.3.4 Grade Breaks.** Grade breaks at the top and bottom of perpendicular curb ramps shall be perpendicular to the direction of ramp run. At least one end of the bottom grade break shall be at the back of curb. Grade breaks shall not be permitted on the surface of curb ramps, blended transitions, landings, and gutter areas within the pedestrian access route. Surface slopes that meet at grade breaks shall be flush.
+> **R303.3.4 Grade Breaks.** Grade breaks at the top and bottom of perpendicular curb ramps shall be perpendicular to the direction of ramp run. At least one end of the bottom grade break shall be at the back of curb. Grade breaks shall not be permitted on the surface of curb ramps, blended transitions, landings, and gutter areas within the pedestrian access route. Surface slopes that meet at grade breaks shall be flush.
 >
-> **R303.3.5 Counter Slopes.** The counter slope of the gutter or street at the foot of a curb ramp, landing, or blended transition shall be 5 percent maximum.
+> **R303.3.5 Counter Slopes.** The counter slope of the gutter or street at the foot of a curb ramp, landing, or blended transition shall be 5 percent maximum.
 >
-> **R303.3.6 Clear Space.** Beyond the curb face, a clear space of 1.2 m (4.0 ft) minimum by 1.2 m (4.0 ft) minimum shall be provided within the width of the crosswalk and wholly outside the parallel vehicle travel lane.
+> **R303.3.6 Clear Space.** Beyond the curb face, a clear space of 1.2 m (4.0 ft) minimum by 1.2 m (4.0 ft) minimum shall be provided within the width of the crosswalk and wholly outside the parallel vehicle travel lane.
 
 **R304 Detectable Warning Surfaces**
 
-**R304.1 General.** Detectable warnings shall consist of a surface of truncated domes aligned in a square or radial grid pattern and shall comply with R304.
+**R304.1 General.** Detectable warnings shall consist of a surface of truncated domes aligned in a square or radial grid pattern and shall comply with R304.
 
-> **R304.1.1 Dome Size.** Truncated domes in a detectable warning surface shall have a base diameter of 23 mm (0.9 in) minimum to 36 mm (1.4 in) maximum, a top diameter of 50 percent of the base diameter minimum to 65 percent of the base diameter maximum, and a height of 5 mm (0.2 in).
+> **R304.1.1 Dome Size.** Truncated domes in a detectable warning surface shall have a base diameter of 23 mm (0.9 in) minimum to 36 mm (1.4 in) maximum, a top diameter of 50 percent of the base diameter minimum to 65 percent of the base diameter maximum, and a height of 5 mm (0.2 in).
 
 |
 
@@ -954,7 +954,7 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R304.1.2 Dome Spacing.** Truncated domes in a detectable warning surface shall have a center-to-center spacing of 41 mm (1.6 in) minimum and 61 mm (2.4 in) maximum, and a base-to-base spacing of 17 mm (0.65 in) minimum, measured between the most adjacent domes.
+> **R304.1.2 Dome Spacing.** Truncated domes in a detectable warning surface shall have a center-to-center spacing of 41 mm (1.6 in) minimum and 61 mm (2.4 in) maximum, and a base-to-base spacing of 17 mm (0.65 in) minimum, measured between the most adjacent domes.
 
 |
 
@@ -962,7 +962,7 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R304.1.3 Contrast.** Detectable warning surfaces shall contrast visually with adjacent gutter, street or highway, or walkway surfaces, either light-on-dark or dark-on-light.
+> **R304.1.3 Contrast.** Detectable warning surfaces shall contrast visually with adjacent gutter, street or highway, or walkway surfaces, either light-on-dark or dark-on-light.
 
 |
 
@@ -970,11 +970,11 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R304.1.4 Size. **Detectable warning surfaces shall extend 610 mm (24 in) minimum in the direction of travel and the full width of the curb ramp (exclusive of flares), the landing, or the blended transition.
+> **R304.1.4 Size. **Detectable warning surfaces shall extend 610 mm (24 in) minimum in the direction of travel and the full width of the curb ramp (exclusive of flares), the landing, or the blended transition.
 
 **R304.2 Location and Alignment**
 
-> **R304.2.1 Perpendicular Curb Ramps.** Where both ends of the bottom grade break complying with R303.3.4 are 1.5 m (5.0 ft) or less from the back of curb, the detectable warning shall be located on the ramp surface at the bottom grade break. Where either end of the bottom grade break is more than 1.5 m (5.0 ft) from the back of curb, the detectable warning shall be located on the lower landing.
+> **R304.2.1 Perpendicular Curb Ramps.** Where both ends of the bottom grade break complying with R303.3.4 are 1.5 m (5.0 ft) or less from the back of curb, the detectable warning shall be located on the ramp surface at the bottom grade break. Where either end of the bottom grade break is more than 1.5 m (5.0 ft) from the back of curb, the detectable warning shall be located on the lower landing.
 
 |
 
@@ -982,9 +982,9 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R304.2.2 Landings and Blended Transitions.** The detectable warning shall be located on the landing or blended transition at the back of curb.
+> **R304.2.2 Landings and Blended Transitions.** The detectable warning shall be located on the landing or blended transition at the back of curb.
 >
-> **R304.2.3 Alignment.** The rows of truncated domes in a detectable warning surface shall be aligned to be perpendicular or radial to the grade break between the ramp, landing, or blended transition and the street.
+> **R304.2.3 Alignment.** The rows of truncated domes in a detectable warning surface shall be aligned to be perpendicular or radial to the grade break between the ramp, landing, or blended transition and the street.
 
 |
 
@@ -992,31 +992,31 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R304.2.3 Rail Crossings.** The detectable warning surface shall be located so that the edge nearest the rail crossing is 1.8 m (6 ft) minimum and 4.6 m (15 ft) maximum from the centerline of the nearest rail. The rows of truncated domes in a detectable warning surface shall be aligned to be parallel with the direction of wheelchair travel.
+> **R304.2.3 Rail Crossings.** The detectable warning surface shall be located so that the edge nearest the rail crossing is 1.8 m (6 ft) minimum and 4.6 m (15 ft) maximum from the centerline of the nearest rail. The rows of truncated domes in a detectable warning surface shall be aligned to be parallel with the direction of wheelchair travel.
 
 **R305 Pedestrian Crossings**
 
-**R305.1 General.** Pedestrian crossings shall comply with R305.
+**R305.1 General.** Pedestrian crossings shall comply with R305.
 
-**R305.2 Crosswalks. **Crosswalks shall comply with R305.2 and shall contain a pedestrian access route that connects to departure and arrival walkways through any median or pedestrian refuge island.
+**R305.2 Crosswalks. **Crosswalks shall comply with R305.2 and shall contain a pedestrian access route that connects to departure and arrival walkways through any median or pedestrian refuge island.
 
-> **R305.2.1 Width.** Marked crosswalks shall be 1.8 m (6 ft) wide minimum.
+> **R305.2.1 Width.** Marked crosswalks shall be 1.8 m (6 ft) wide minimum.
 >
 > **R305.2.2 Cross Slope**
 >
-> > **R305.2.2.1 Crossings with Stop Control.** The cross slope shall be 2 percent maximum.
+> > **R305.2.2.1 Crossings with Stop Control.** The cross slope shall be 2 percent maximum.
 > >
-> > **R305.2.2.2 Crossings without Stop Control. **The cross slope shall be 5 percent maximum.
+> > **R305.2.2.2 Crossings without Stop Control. **The cross slope shall be 5 percent maximum.
 > >
-> > **R305. 2.2.3 Midblock Crossings.** The cross slope at midblock crossings shall be permitted to be warped to meet street or highway grade.
+> > **R305. 2.2.3 Midblock Crossings.** The cross slope at midblock crossings shall be permitted to be warped to meet street or highway grade.
 > >
-> > **R305.2.3 Running Slope.** The running slope shall be 5 percent maximum, measured parallel to the direction of pedestrian travel in the crosswalk.
+> > **R305.2.3 Running Slope.** The running slope shall be 5 percent maximum, measured parallel to the direction of pedestrian travel in the crosswalk.
 
-**R305.3 Pedestrian Signal Phase Timing.** All pedestrian signal phase timing shall be calculated using a pedestrian walk speed of 1.1 m/s (3.5 ft/s) maximum. The crosswalk distance used in calculating pedestrian signal phase timing shall include the entire length of the crosswalk.
+**R305.3 Pedestrian Signal Phase Timing.** All pedestrian signal phase timing shall be calculated using a pedestrian walk speed of 1.1 m/s (3.5 ft/s) maximum. The crosswalk distance used in calculating pedestrian signal phase timing shall include the entire length of the crosswalk.
 
-**R305.4 Medians and Pedestrian Refuge Islands.** Medians and pedestrian refuge islands in crosswalks shall comply with R305.4 and shall contain a pedestrian access route, including passing space, complying with R301 and connecting to each crosswalk.
+**R305.4 Medians and Pedestrian Refuge Islands.** Medians and pedestrian refuge islands in crosswalks shall comply with R305.4 and shall contain a pedestrian access route, including passing space, complying with R301 and connecting to each crosswalk.
 
-> **R305.4.1 Length.** Medians and pedestrian refuge islands shall be 1.8 m (6.0 ft) minimum in length in the direction of pedestrian travel.
+> **R305.4.1 Length.** Medians and pedestrian refuge islands shall be 1.8 m (6.0 ft) minimum in length in the direction of pedestrian travel.
 
 |
 
@@ -1024,13 +1024,13 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R305.4.2 Detectable Warnings.** Medians and pedestrian refuge islands shall have detectable warnings complying with R304 at curb ramps and blended transitions. Detectable warnings at cut-through islands shall be located at the curbline in-line with the face of curb and shall be separated by a 61 cm (2.0 ft) minimum length of walkway without detectable warnings. Where the island has no curb, the detectable warning shall be located at the edge of roadway.
+> **R305.4.2 Detectable Warnings.** Medians and pedestrian refuge islands shall have detectable warnings complying with R304 at curb ramps and blended transitions. Detectable warnings at cut-through islands shall be located at the curbline in-line with the face of curb and shall be separated by a 61 cm (2.0 ft) minimum length of walkway without detectable warnings. Where the island has no curb, the detectable warning shall be located at the edge of roadway.
 
-**R305.5 Pedestrian Overpasses and Underpasses.** Pedestrian overpasses and underpasses shall comply with R305.5.
+**R305.5 Pedestrian Overpasses and Underpasses.** Pedestrian overpasses and underpasses shall comply with R305.5.
 
-> **R305.5.1 Pedestrian Access Route.** Pedestrian overpasses and underpasses shall contain a pedestrian access route complying with R301.
+> **R305.5.1 Pedestrian Access Route.** Pedestrian overpasses and underpasses shall contain a pedestrian access route complying with R301.
 >
-> **R305.5.2 Approach.** Where the approach slope exceeds 5 percent, the approach shall be a ramp 1.2 m (4.0 ft) minimum in width complying with R406 or an elevator, a limited use/limited application elevator, or platform lift complying with the applicable requirements in section 407, 408, and 410 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines) and providing for independent operation.
+> **R305.5.2 Approach.** Where the approach slope exceeds 5 percent, the approach shall be a ramp 1.2 m (4.0 ft) minimum in width complying with R406 or an elevator, a limited use/limited application elevator, or platform lift complying with the applicable requirements in section 407, 408, and 410 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines) and providing for independent operation.
 
 |
 
@@ -1038,13 +1038,13 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R305.5.3 Stairs.** Stairs shall comply with R407.
+> **R305.5.3 Stairs.** Stairs shall comply with R407.
 >
-> **R305.5.4 Escalators.** Escalators shall comply with sections 6.1.3.5.6 and 6.1.3.6.5 of ASME A17.1 (incorporated by reference; see R104.2.3) and shall have a clear width of 82 cm (32 in) minimum.
+> **R305.5.4 Escalators.** Escalators shall comply with sections 6.1.3.5.6 and 6.1.3.6.5 of ASME A17.1 (incorporated by reference; see R104.2.3) and shall have a clear width of 82 cm (32 in) minimum.
 
-**R305.6 Roundabout Intersections.** Where pedestrian facilities are provided at roundabout intersections, they shall comply with R305.6 and shall contain a pedestrian access route complying with R301.
+**R305.6 Roundabout Intersections.** Where pedestrian facilities are provided at roundabout intersections, they shall comply with R305.6 and shall contain a pedestrian access route complying with R301.
 
-> **R305.6.1 Separation.** If walkways are curb-attached, there shall be a continuous and detectable edge treatment along the street side of the walkway wherever pedestrian crossing is not intended. Where chains, fencing, or railings are used, they shall have a bottom element 38 cm (15 in) maximum above the pedestrian access route.
+> **R305.6.1 Separation.** If walkways are curb-attached, there shall be a continuous and detectable edge treatment along the street side of the walkway wherever pedestrian crossing is not intended. Where chains, fencing, or railings are used, they shall have a bottom element 38 cm (15 in) maximum above the pedestrian access route.
 
 |
 
@@ -1054,7 +1054,7 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R305.6.2 Signals.** At roundabouts with multi-lane crossings, a pedestrian activated signal complying with R306 shall be provided for each segment of each crosswalk, including the splitter island. Signals shall clearly identify which crosswalk segment the signal serves.
+> **R305.6.2 Signals.** At roundabouts with multi-lane crossings, a pedestrian activated signal complying with R306 shall be provided for each segment of each crosswalk, including the splitter island. Signals shall clearly identify which crosswalk segment the signal serves.
 
 |
 
@@ -1064,7 +1064,7 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R305.7 Channelized Turn Lanes at Intersections.** Where pedestrian crosswalks are provided at multi-lane right or left channelized turn lanes at intersections with pedestrian signal indications, a pedestrian activated signal complying with R306 shall be provided.
+**R305.7 Channelized Turn Lanes at Intersections.** Where pedestrian crosswalks are provided at multi-lane right or left channelized turn lanes at intersections with pedestrian signal indications, a pedestrian activated signal complying with R306 shall be provided.
 
 |
 
@@ -1076,9 +1076,9 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
 **R306 Accessible Pedestrian Signals (APS)**
 
-**R306.1 General.** Pedestrian signals shall comply with R306.
+**R306.1 General.** Pedestrian signals shall comply with R306.
 
-**R306.2 Pedestrian Signals.** Each crosswalk with pedestrian signal indication shall have an accessible pedestrian signal which includes audible and vibrotactile indications of the WALK interval. Where a pedestrian pushbutton is provided, it shall be integrated into the accessible pedestrian signal and shall comply with R306.2.
+**R306.2 Pedestrian Signals.** Each crosswalk with pedestrian signal indication shall have an accessible pedestrian signal which includes audible and vibrotactile indications of the WALK interval. Where a pedestrian pushbutton is provided, it shall be integrated into the accessible pedestrian signal and shall comply with R306.2.
 
 |
 
@@ -1086,17 +1086,17 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R306.2.1 Location. **Accessible pedestrian signals shall be located so that the vibrotactile feature can be contacted from the level landing serving a curb ramp, if provided, or from a clear floor or ground space that is in line with the crosswalk line adjacent to the vehicle stop line.
+> **R306.2.1 Location. **Accessible pedestrian signals shall be located so that the vibrotactile feature can be contacted from the level landing serving a curb ramp, if provided, or from a clear floor or ground space that is in line with the crosswalk line adjacent to the vehicle stop line.
 >
-> > **R306.2.1.1 Crossings.** Accessible pedestrian signal devices shall be 3.0 m (10.0 ft) minimum from other accessible pedestrian signals at a crossing. The control face of the accessible pedestrian signal shall be installed to face the intersection and be parallel to the direction of the crosswalk it serves.
+> > **R306.2.1.1 Crossings.** Accessible pedestrian signal devices shall be 3.0 m (10.0 ft) minimum from other accessible pedestrian signals at a crossing. The control face of the accessible pedestrian signal shall be installed to face the intersection and be parallel to the direction of the crosswalk it serves.
 > >
-> > **R306.2.1.2 Medians and Islands.** Accessible pedestrian signals located in medians and islands shall be 1.5 m (5.0 ft) minimum from other accessible pedestrian signals.
+> > **R306.2.1.2 Medians and Islands.** Accessible pedestrian signals located in medians and islands shall be 1.5 m (5.0 ft) minimum from other accessible pedestrian signals.
 >
 > **R306.2.2 Reach and Clear Floor or Ground Space**. Accessible pedestrian pushbuttons shall be located within a reach range complying with R404. A clear floor or ground space complying with R402 shall be provided at the pushbutton and shall connect to or overlap the pedestrian access route.
 >
-> **R306.2.3 Audible Walk Indication. **The audible indication of the WALK interval shall be by tone or speech message.
+> **R306.2.3 Audible Walk Indication. **The audible indication of the WALK interval shall be by tone or speech message.
 >
-> > **R306.2.3.1 Tones.** Tones shall consist of multiple frequencies with a dominant component at 880 Hz. The duration of the tone shall be 0.15 s and shall repeat at intervals of 0.15 s.
+> > **R306.2.3.1 Tones.** Tones shall consist of multiple frequencies with a dominant component at 880 Hz. The duration of the tone shall be 0.15 s and shall repeat at intervals of 0.15 s.
 
 |
 
@@ -1104,7 +1104,7 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> > **R306.2.3.2 Volume.** Tone or voice volume measured at 92 cm (3.0 ft) from the pedestrian signal device shall be 2 dB minimum and 5 dB maximum above ambient noise level in standard operation and shall be responsive to ambient noise level changes.
+> > **R306.2.3.2 Volume.** Tone or voice volume measured at 92 cm (3.0 ft) from the pedestrian signal device shall be 2 dB minimum and 5 dB maximum above ambient noise level in standard operation and shall be responsive to ambient noise level changes.
 
 |
 
@@ -1112,27 +1112,27 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R306.3 Pedestrian Pushbuttons.** Pedestrian pushbuttons shall comply with R306.3.
+**R306.3 Pedestrian Pushbuttons.** Pedestrian pushbuttons shall comply with R306.3.
 
-> **R306.3.1 Operation.** Pedestrian pushbuttons shall comply with R405.4.
+> **R306.3.1 Operation.** Pedestrian pushbuttons shall comply with R405.4.
 >
-> **R306.3.2 Pushbutton Locator Tone.** Pedestrian pushbuttons shall incorporate a locator tone at the pushbutton. Pushbutton locator tone volume measured at 92 cm (3.0 ft) from the pushbutton shall be 2 dB minimum and 5 dB maximum above ambient noise level and shall be responsive to ambient noise level changes. The duration of the locator tone shall be 0.15 s maximum and shall repeat at intervals of one second. The locator tone shall operate during the DON'T WALK and flashing DON'T WALK intervals only and shall be deactivated when the pedestrian signal is not operative.
+> **R306.3.2 Pushbutton Locator Tone.** Pedestrian pushbuttons shall incorporate a locator tone at the pushbutton. Pushbutton locator tone volume measured at 92 cm (3.0 ft) from the pushbutton shall be 2 dB minimum and 5 dB maximum above ambient noise level and shall be responsive to ambient noise level changes. The duration of the locator tone shall be 0.15 s maximum and shall repeat at intervals of one second. The locator tone shall operate during the DON'T WALK and flashing DON'T WALK intervals only and shall be deactivated when the pedestrian signal is not operative.
 >
-> **R306.3.3 Size and Contrast. **Pedestrian pushbuttons shall be a minimum of 0.5 cm (2 in) across in one dimension and shall contrast visually with their housing or mounting.
+> **R306.3.3 Size and Contrast. **Pedestrian pushbuttons shall be a minimum of 0.5 cm (2 in) across in one dimension and shall contrast visually with their housing or mounting.
 >
-> **R306.3.4 Optional Features.** An extended button press shall be permitted to activate additional features. Buttons that provide additional features shall be marked with three braille dots forming an equilateral triangle in the center of the pushbutton.
+> **R306.3.4 Optional Features.** An extended button press shall be permitted to activate additional features. Buttons that provide additional features shall be marked with three braille dots forming an equilateral triangle in the center of the pushbutton.
 
-**R306.4 Directional Information and Signs.** Pedestrian signal devices shall provide tactile and visual signs complying with 306.4 on the face of the device or its housing or mounting to indicate crosswalk direction and the name of the street containing the crosswalk served by the pedestrian signal.
+**R306.4 Directional Information and Signs.** Pedestrian signal devices shall provide tactile and visual signs complying with 306.4 on the face of the device or its housing or mounting to indicate crosswalk direction and the name of the street containing the crosswalk served by the pedestrian signal.
 
-> **R306.4.1 Arrow.** Signs shall include a tactile arrow aligned parallel to the crosswalk direction. The arrow shall be raised 0.8 mm (.03 inch) minimum and shall be 4 mm (1.5 in) minimum in length. The arrowhead shall be open at 45 degrees to the shaft and shall be 33 percent of the length of the shaft. Stroke width shall be 10 percent minimum and 15 percent maximum of arrow length. The arrow shall contrast with the background.
+> **R306.4.1 Arrow.** Signs shall include a tactile arrow aligned parallel to the crosswalk direction. The arrow shall be raised 0.8 mm (.03 inch) minimum and shall be 4 mm (1.5 in) minimum in length. The arrowhead shall be open at 45 degrees to the shaft and shall be 33 percent of the length of the shaft. Stroke width shall be 10 percent minimum and 15 percent maximum of arrow length. The arrow shall contrast with the background.
 >
-> **R306.4.2 Street Name.** Accessible pedestrian signals (APS) shall include street name information aligned parallel to the crosswalk direction and shall comply with R409.3 or shall provide street name information in audible format.
+> **R306.4.2 Street Name.** Accessible pedestrian signals (APS) shall include street name information aligned parallel to the crosswalk direction and shall comply with R409.3 or shall provide street name information in audible format.
 >
-> **R306.4.3 Crosswalk Configuration.** Where provided, graphic indication of crosswalk configuration shall be tactile.
+> **R306.4.3 Crosswalk Configuration.** Where provided, graphic indication of crosswalk configuration shall be tactile.
 
 **R307 Street Furniture**
 
-**R307.1 General.** Street furniture shall comply with R307.
+**R307.1 General.** Street furniture shall comply with R307.
 
 |
 
@@ -1142,31 +1142,31 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R307.2 Clear Floor or Ground Space.** Street furniture shall have clear space complying with R402 and shall be connected to the pedestrian access route.
+**R307.2 Clear Floor or Ground Space.** Street furniture shall have clear space complying with R402 and shall be connected to the pedestrian access route.
 
-**R307.3 Drinking Fountains.** Where drinking fountains are provided, they shall comply with R413.
+**R307.3 Drinking Fountains.** Where drinking fountains are provided, they shall comply with R413.
 
-**R307.4 Public Telephones.** Where public telephones are provided, they shall comply with R307.4.
+**R307.4 Public Telephones.** Where public telephones are provided, they shall comply with R307.4.
 
-> **R307.4.1 Single Telephone. **Where a single public telephone is provided, it shall comply with sections 704.2 and 704.4 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
+> **R307.4.1 Single Telephone. **Where a single public telephone is provided, it shall comply with sections 704.2 and 704.4 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
 >
-> **R307.4.2 Multiple Telephones.** Where a bank of public telephones is provided, at least one telephone shall comply with section 704.2 of Appendix D to 36 CFR part 1191, and at least one additional telephone shall comply with section 704.4 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
+> **R307.4.2 Multiple Telephones.** Where a bank of public telephones is provided, at least one telephone shall comply with section 704.2 of Appendix D to 36 CFR part 1191, and at least one additional telephone shall comply with section 704.4 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
 >
-> **R307.4.3 Volume Controls.** All public telephones shall provide volume controls complying with section 704.3 of Appendix D to 36 CFR 1191.
+> **R307.4.3 Volume Controls.** All public telephones shall provide volume controls complying with section 704.3 of Appendix D to 36 CFR 1191.
 
-**R307.5 Public Toilet Facilities.** Permanent or portable public toilet facilities shall comply with section 603 of Appendix D to 36 CFR part 1191. At least one fixture of each type provided shall comply with sections 604 through 610 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines). Operable parts, dispensers, receptacles, or other equipment shall comply with R405. Where multiple single-user toilet facilities are clustered at a single location, at least 5 percent, but no fewer than one single-user toilet at each cluster shall comply with section 603 of Appendix D to 36 CFR part 1191 and shall be identified by the International Symbol of Accessibility complying with R409.7.2.1.
+**R307.5 Public Toilet Facilities.** Permanent or portable public toilet facilities shall comply with section 603 of Appendix D to 36 CFR part 1191. At least one fixture of each type provided shall comply with sections 604 through 610 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines). Operable parts, dispensers, receptacles, or other equipment shall comply with R405. Where multiple single-user toilet facilities are clustered at a single location, at least 5 percent, but no fewer than one single-user toilet at each cluster shall comply with section 603 of Appendix D to 36 CFR part 1191 and shall be identified by the International Symbol of Accessibility complying with R409.7.2.1.
 
-**R307.6 Tables, Counters, and Benches. **Tables, counters, and benches shall comply with R307.6.
+**R307.6 Tables, Counters, and Benches. **Tables, counters, and benches shall comply with R307.6.
 
-> **R307.6.1 Tables.** Where tables are provided in a single location, at least 5 percent but no fewer than one, shall comply with section 902 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
+> **R307.6.1 Tables.** Where tables are provided in a single location, at least 5 percent but no fewer than one, shall comply with section 902 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
 >
-> **R307.6.2 Counters.** Where provided, counters shall comply with section 904 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
+> **R307.6.2 Counters.** Where provided, counters shall comply with section 904 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
 >
 > **R307.6.3 Benches.**
 >
-> > **R307.6.3.1 Clear Space for Wheelchairs at Benches.** Where benches without tables are provided at a single location, at least 50 percent, but no fewer than one, shall provide clear space complying with R402 positioned at the end of the bench seat and located for shoulder-to-shoulder seating.
+> > **R307.6.3.1 Clear Space for Wheelchairs at Benches.** Where benches without tables are provided at a single location, at least 50 percent, but no fewer than one, shall provide clear space complying with R402 positioned at the end of the bench seat and located for shoulder-to-shoulder seating.
 > >
-> > **R307.6.3.2 Benches.** Where benches without tables are provided at a single location, at least 50 percent, but no fewer than one, shall have a seat height at the front edge of 43 cm (17 in) minimum and 49 cm (19 in) maximum above the ground or floor space.
+> > **R307.6.3.2 Benches.** Where benches without tables are provided at a single location, at least 50 percent, but no fewer than one, shall have a seat height at the front edge of 43 cm (17 in) minimum and 49 cm (19 in) maximum above the ground or floor space.
 
 |
 
@@ -1176,11 +1176,11 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
 **R308 On-Street Parking**
 
-**R308.1 General.** On-street parking spaces shall comply with R308.
+**R308.1 General.** On-street parking spaces shall comply with R308.
 
 **R308.2 Parallel Parking Spaces.**
 
-> **R308.2.1 Wide Walkways.** Where the width of the adjacent walkway exceeds 4.3 m (14 ft), an access aisle at least 1.5 m (5.0 ft) wide shall be provided at street level the full length of the parking space and shall connect to a pedestrian access route serving the space. The access aisle shall not encroach on the vehicular travel lane.
+> **R308.2.1 Wide Walkways.** Where the width of the adjacent walkway exceeds 4.3 m (14 ft), an access aisle at least 1.5 m (5.0 ft) wide shall be provided at street level the full length of the parking space and shall connect to a pedestrian access route serving the space. The access aisle shall not encroach on the vehicular travel lane.
 
 |
 
@@ -1190,7 +1190,7 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R308.2.2 Narrow Walkways.** An access aisle is not required where the width of the adjacent walkway is less than or equal to 4.3 m (14 ft). When an access aisle is not provided, the parking space shall be located at either end of the block face.
+> **R308.2.2 Narrow Walkways.** An access aisle is not required where the width of the adjacent walkway is less than or equal to 4.3 m (14 ft). When an access aisle is not provided, the parking space shall be located at either end of the block face.
 
 |
 
@@ -1198,7 +1198,7 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R308.3 Perpendicular or Angled Parking Spaces.** Where perpendicular or angled parking is provided, an access aisle 2.4 m (8.0 ft) wide minimum shall be provided at street level the full length of the parking space and shall connect to a pedestrian access route serving the space. Access aisles shall be marked so as to discourage parking in them.
+**R308.3 Perpendicular or Angled Parking Spaces.** Where perpendicular or angled parking is provided, an access aisle 2.4 m (8.0 ft) wide minimum shall be provided at street level the full length of the parking space and shall connect to a pedestrian access route serving the space. Access aisles shall be marked so as to discourage parking in them.
 
 |
 
@@ -1206,9 +1206,9 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R308.4 Curb Ramps or Blended Transitions.** A curb ramp or blended transition complying with R303 shall connect the access aisle to the pedestrian access route.
+**R308.4 Curb Ramps or Blended Transitions.** A curb ramp or blended transition complying with R303 shall connect the access aisle to the pedestrian access route.
 
-**R308.5 Signs. **Parking space identification signs shall include the International Symbol of Accessibility complying with R409.5.10. Signs shall be located at the head or foot of the parking space so as not to interfere with the operation of a side lift or a passenger side transfer.
+**R308.5 Signs. **Parking space identification signs shall include the International Symbol of Accessibility complying with R409.5.10. Signs shall be located at the head or foot of the parking space so as not to interfere with the operation of a side lift or a passenger side transfer.
 
 |
 
@@ -1216,17 +1216,17 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R308.6 Parking Meters.** Where parking meters are provided, they shall comply with R308.6. Operable parts shall comply with R405.
+**R308.6 Parking Meters.** Where parking meters are provided, they shall comply with R308.6. Operable parts shall comply with R405.
 
-> **R308.6.1 Meters at Parking Spaces. **A parking meter shall be located at the head or foot of a parallel parking space so as not to interfere with the operation of a side lift or a passenger side transfer.
+> **R308.6.1 Meters at Parking Spaces. **A parking meter shall be located at the head or foot of a parallel parking space so as not to interfere with the operation of a side lift or a passenger side transfer.
 >
-> **R308.6.2 Remote Meters.** Where payment for parking in a space is included in a centralized collection box or paying station, the space shall be connected to the centralized collection point with a pedestrian access route.
+> **R308.6.2 Remote Meters.** Where payment for parking in a space is included in a centralized collection box or paying station, the space shall be connected to the centralized collection point with a pedestrian access route.
 >
-> **R308.6.3 Displays and Information.** Displays and information shall be visible from a point located 1.0 m (3.3 ft) maximum above the center of the clear floor space in front of the meter.
+> **R308.6.3 Displays and Information.** Displays and information shall be visible from a point located 1.0 m (3.3 ft) maximum above the center of the clear floor space in front of the meter.
 
 **R309 Call Boxes**
 
-**R309.1 General.** Call boxes shall comply with R309. Where provided, labeling shall comply with R409.2 and R409.3.
+**R309.1 General.** Call boxes shall comply with R309. Where provided, labeling shall comply with R409.2 and R409.3.
 
 |
 
@@ -1236,19 +1236,19 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
 **R309.2 Operable Parts.**
 
-> **R309.2.1 Electronic Operation.** Operable parts shall comply with R405.
+> **R309.2.1 Electronic Operation.** Operable parts shall comply with R405.
 >
-> **R309.2.2 Mechanical Operation.** Operable parts shall comply with R404 and R405.2. Mechanically operated systems in which the signal is initiated by a lever pull shall be permitted to have an activating force of 53.4 N (12 lbs) maximum.
+> **R309.2.2 Mechanical Operation.** Operable parts shall comply with R404 and R405.2. Mechanically operated systems in which the signal is initiated by a lever pull shall be permitted to have an activating force of 53.4 N (12 lbs) maximum.
 
-**R309.3 Edge Protection.** Edge protection complying with R406.8 shall be provided where the use area at the call box is adjacent to an abrupt level change.
+**R309.3 Edge Protection.** Edge protection complying with R406.8 shall be provided where the use area at the call box is adjacent to an abrupt level change.
 
-**R309.4 Motor Vehicle Turnouts.** Where provided, a motor vehicle turnout shall have a minimum paved area of 4.9 m (16 ft) wide minimum and 7.0 m (23 ft) long minimum and shall connect to the clear space at the call box with a pedestrian access route complying with R301. Where shoulder texturing is used, it shall be discontinued at the turnout.
+**R309.4 Motor Vehicle Turnouts.** Where provided, a motor vehicle turnout shall have a minimum paved area of 4.9 m (16 ft) wide minimum and 7.0 m (23 ft) long minimum and shall connect to the clear space at the call box with a pedestrian access route complying with R301. Where shoulder texturing is used, it shall be discontinued at the turnout.
 
-**R309.5 Two-Way Communication.** Where provided, two-way voice communication shall comply with R309.5, and with sections 708.2 and 708.3 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
+**R309.5 Two-Way Communication.** Where provided, two-way voice communication shall comply with R309.5, and with sections 708.2 and 708.3 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines).
 
-> **R309.5.1 Volume Controls.** Volume controls complying with section 704.3 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines) shall be provided.
+> **R309.5.1 Volume Controls.** Volume controls complying with section 704.3 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines) shall be provided.
 >
-> **R309.5.2 TTY.** A TTY complying with section 704.4 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines) shall be provided.
+> **R309.5.2 TTY.** A TTY complying with section 704.4 of Appendix D to 36 CFR part 1191 (the ADA and ABA Accessibility Guidelines) shall be provided.
 
 
 ---
@@ -1260,7 +1260,7 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
 **R401 Protruding Objects**
 
-**R401.1 General.** Protruding objects on sidewalks and other pedestrian circulation paths shall comply with R401 and shall not reduce the clear width required for pedestrian access routes.
+**R401.1 General.** Protruding objects on sidewalks and other pedestrian circulation paths shall comply with R401 and shall not reduce the clear width required for pedestrian access routes.
 
 |
 
@@ -1268,35 +1268,35 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R401.2 Protrusion Limits. **Objects with leading edges more than 685 mm (27 in) and not more than 2 m (80 in) above the finish surface or ground shall protrude 100 mm (4 in) maximum horizontally into the pedestrian circulation path.
+**R401.2 Protrusion Limits. **Objects with leading edges more than 685 mm (27 in) and not more than 2 m (80 in) above the finish surface or ground shall protrude 100 mm (4 in) maximum horizontally into the pedestrian circulation path.
 
-**R401.3 Post-Mounted Objects.** Objects mounted on free-standing posts or pylons, 685 mm (27 inches) minimum and 2030 mm (80 inches) maximum above the finish surface or ground, shall overhang circulation paths 100 mm (4 inches) maximum beyond the post or pylon base measured 150 mm (6 inches) minimum above the finish surface or ground. Where a sign or other obstruction is mounted between posts or pylons and the clear distance between the posts or pylons is greater than 305 mm (12 in), the lowest edge of such sign or obstruction shall be 685 mm (27 in) maximum or 2 m (80 in) minimum above the finish surface.
+**R401.3 Post-Mounted Objects.** Objects mounted on free-standing posts or pylons, 685 mm (27 inches) minimum and 2030 mm (80 inches) maximum above the finish surface or ground, shall overhang circulation paths 100 mm (4 inches) maximum beyond the post or pylon base measured 150 mm (6 inches) minimum above the finish surface or ground. Where a sign or other obstruction is mounted between posts or pylons and the clear distance between the posts or pylons is greater than 305 mm (12 in), the lowest edge of such sign or obstruction shall be 685 mm (27 in) maximum or 2 m (80 in) minimum above the finish surface.
 
-**R401.4 Reduced Vertical Clearance.** Guardrails or other barriers shall be provided where the vertical clearance is less than 2 m (80 in) high. The leading edge of such guardrail or barrier shall be located 685 mm (27 in) maximum above the finish surface or ground.
+**R401.4 Reduced Vertical Clearance.** Guardrails or other barriers shall be provided where the vertical clearance is less than 2 m (80 in) high. The leading edge of such guardrail or barrier shall be located 685 mm (27 in) maximum above the finish surface or ground.
 
 **R402 Clear Space**
 
-**R402.1 General.** Clear space at accessible pedestrian signals (APS), street furniture, and operable parts shall comply with R402.
+**R402.1 General.** Clear space at accessible pedestrian signals (APS), street furniture, and operable parts shall comply with R402.
 
-**R402.2 Surface Characteristics.** Surfaces of clear spaces shall comply with R301.5 and shall have a slope and cross slope of 2 percent maximum.
+**R402.2 Surface Characteristics.** Surfaces of clear spaces shall comply with R301.5 and shall have a slope and cross slope of 2 percent maximum.
 
-**R402.3 Size.** The clear space shall be 760 mm (30 in) minimum by 1220 mm (48 in) minimum.
+**R402.3 Size.** The clear space shall be 760 mm (30 in) minimum by 1220 mm (48 in) minimum.
 
-**R402.4 Knee and Toe Clearance.** Unless otherwise specified, clear space shall be permitted to include knee and toe clearance complying with R403.
+**R402.4 Knee and Toe Clearance.** Unless otherwise specified, clear space shall be permitted to include knee and toe clearance complying with R403.
 
-**R402.5.Position.** Unless otherwise specified, clear space shall be positioned for either forward or parallel approach to an element.
+**R402.5.Position.** Unless otherwise specified, clear space shall be positioned for either forward or parallel approach to an element.
 
-**R402.6 Approach.** One full unobstructed side of the clear space shall adjoin a pedestrian access route or adjoin another clear space.
+**R402.6 Approach.** One full unobstructed side of the clear space shall adjoin a pedestrian access route or adjoin another clear space.
 
-**R402.7 Maneuvering Space.** Where a clear space is located in an alcove or otherwise confined on all or part of three sides, additional maneuvering space shall be provided in accordance with R402.7.1 and R402.7.2.
+**R402.7 Maneuvering Space.** Where a clear space is located in an alcove or otherwise confined on all or part of three sides, additional maneuvering space shall be provided in accordance with R402.7.1 and R402.7.2.
 
-> **R402.7.1 Forward Approach.** Alcoves shall be 915 mm (36 in) wide minimum where the depth exceeds 610 mm (24 in).
+> **R402.7.1 Forward Approach.** Alcoves shall be 915 mm (36 in) wide minimum where the depth exceeds 610 mm (24 in).
 >
-> **R402.7.2 Parallel Approach.** Alcoves shall be 1525 mm (60 in) wide minimum where the depth exceeds 380 mm (15 in).
+> **R402.7.2 Parallel Approach.** Alcoves shall be 1525 mm (60 in) wide minimum where the depth exceeds 380 mm (15 in).
 
 **R403 Knee and Toe Clearance**
 
-**R403.1 General. **Where space beneath an element is included as part of clear space, the space shall comply with R403. Additional space shall not be prohibited beneath an element but shall not be considered as part of the clear space.
+**R403.1 General. **Where space beneath an element is included as part of clear space, the space shall comply with R403. Additional space shall not be prohibited beneath an element but shall not be considered as part of the clear space.
 
 |
 
@@ -1306,59 +1306,59 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
 **R403.2 Toe Clearance.**
 
-> **R403.2.1 General.** Space under an element between the finish surface and 230 mm (9 in) above the finish surface shall be considered toe clearance and shall comply with R403.2.
+> **R403.2.1 General.** Space under an element between the finish surface and 230 mm (9 in) above the finish surface shall be considered toe clearance and shall comply with R403.2.
 >
-> **R403.2.2 Maximum Depth. **Toe clearance shall extend 635 mm (25 in) maximum under an element.
+> **R403.2.2 Maximum Depth. **Toe clearance shall extend 635 mm (25 in) maximum under an element.
 >
-> **R403.2.3 Minimum Required Depth.** Where toe clearance is required at an element as part of a clear space, the toe clearance shall extend 430 mm (17 in) minimum under the element.
+> **R403.2.3 Minimum Required Depth.** Where toe clearance is required at an element as part of a clear space, the toe clearance shall extend 430 mm (17 in) minimum under the element.
 >
-> **R403.2.4 Additional Clearance.** Space extending more than 150 mm (6 in) beyond the available knee clearance at 230 mm (9 in) above the finish surface shall not be considered toe clearance.
+> **R403.2.4 Additional Clearance.** Space extending more than 150 mm (6 in) beyond the available knee clearance at 230 mm (9 in) above the finish surface shall not be considered toe clearance.
 >
-> **R403.2.5 Width.** Toe clearance shall be 760 mm (30 in) wide minimum.
+> **R403.2.5 Width.** Toe clearance shall be 760 mm (30 in) wide minimum.
 
 **R403.3 Knee Clearance.**
 
-> **R403.3.1 General.** Space under an element between 230 mm (9 in) and 685 mm (27 in) above the finish surface shall be considered knee clearance and shall comply with R403.3.
+> **R403.3.1 General.** Space under an element between 230 mm (9 in) and 685 mm (27 in) above the finish surface shall be considered knee clearance and shall comply with R403.3.
 >
-> **R403.3.2 Maximum Depth.** Knee clearance shall extend 635 mm (25 in) maximum under an element at 230 mm (9 in) above the finish surface.
+> **R403.3.2 Maximum Depth.** Knee clearance shall extend 635 mm (25 in) maximum under an element at 230 mm (9 in) above the finish surface.
 >
-> **R403.3.3 Minimum Required Depth.** Where knee clearance is required under an element as part of a clear space, the knee clearance shall be 280 mm (11 in) deep minimum at 230 mm (9 in) above the finish surface, and 205 mm (8 in) deep minimum at 685 mm (27 in) above the finish surface.
+> **R403.3.3 Minimum Required Depth.** Where knee clearance is required under an element as part of a clear space, the knee clearance shall be 280 mm (11 in) deep minimum at 230 mm (9 in) above the finish surface, and 205 mm (8 in) deep minimum at 685 mm (27 in) above the finish surface.
 >
-> **R403.3.4 Clearance Reduction.** Between 230 mm (9 in) and 685 mm (27 in) above the finish surface, the knee clearance shall be permitted to reduce at a rate of 25 mm (one inch) in depth for each 150 mm (6 in) in height.
+> **R403.3.4 Clearance Reduction.** Between 230 mm (9 in) and 685 mm (27 in) above the finish surface, the knee clearance shall be permitted to reduce at a rate of 25 mm (one inch) in depth for each 150 mm (6 in) in height.
 >
-> **R403.3.5 Width.** Knee clearance shall be 760 mm (30 in) wide minimum.
+> **R403.3.5 Width.** Knee clearance shall be 760 mm (30 in) wide minimum.
 
 **R404 Reach Ranges**
 
-**R404.1 General. **Reach ranges shall comply with R404.
+**R404.1 General. **Reach ranges shall comply with R404.
 
 **R404.2 Forward Reach.**
 
-> **R404.2.1 Unobstructed.** Where a forward reach is unobstructed, the high forward reach shall be 1220 mm (48 in) maximum and the low forward reach shall be 380 mm (15 in) minimum above the finish surface.
+> **R404.2.1 Unobstructed.** Where a forward reach is unobstructed, the high forward reach shall be 1220 mm (48 in) maximum and the low forward reach shall be 380 mm (15 in) minimum above the finish surface.
 >
-> **R404.2.2 Obstructed High Reach.** Where a high forward reach is over an obstruction, the clear space shall extend beneath the element for a distance not less than the required reach depth over the obstruction. The high forward reach shall be 1220 mm (48 in) maximum where the reach depth is 510 mm (20 in) maximum. Where the reach depth exceeds 510 mm (20 in), the high forward reach shall be 1120 mm (44 in) maximum and the reach depth shall be 635 mm (25 in) maximum.
+> **R404.2.2 Obstructed High Reach.** Where a high forward reach is over an obstruction, the clear space shall extend beneath the element for a distance not less than the required reach depth over the obstruction. The high forward reach shall be 1220 mm (48 in) maximum where the reach depth is 510 mm (20 in) maximum. Where the reach depth exceeds 510 mm (20 in), the high forward reach shall be 1120 mm (44 in) maximum and the reach depth shall be 635 mm (25 in) maximum.
 
 **R404.3 Side Reach.**
 
-> **R404.3.1 Unobstructed.** Where a clear space allows a parallel approach to an element and the side reach is unobstructed, the high side reach shall be 1220 mm (48 in) maximum and the low side reach shall be 380 mm (15 in) minimum above the finish surface. An obstruction shall be permitted between the clear space and the element where the depth of the obstruction is 255 mm (10 in) maximum.
+> **R404.3.1 Unobstructed.** Where a clear space allows a parallel approach to an element and the side reach is unobstructed, the high side reach shall be 1220 mm (48 in) maximum and the low side reach shall be 380 mm (15 in) minimum above the finish surface. An obstruction shall be permitted between the clear space and the element where the depth of the obstruction is 255 mm (10 in) maximum.
 >
-> **R404.3.2 Obstructed High Reach.** Where a clear space allows a parallel approach to an element and the high side reach is over an obstruction, the height of the obstruction shall be 865 mm (34 in) maximum and the depth of the obstruction shall be 610 mm (24 in) maximum. The high side reach shall be 1220 mm (48 in) maximum for a reach depth of 255 mm (10 in) maximum. Where the reach depth exceeds 266 mm (10 in), the high side reach shall be 1170 mm (46 in) maximum for a reach depth of 610 mm (24 in) maximum.
+> **R404.3.2 Obstructed High Reach.** Where a clear space allows a parallel approach to an element and the high side reach is over an obstruction, the height of the obstruction shall be 865 mm (34 in) maximum and the depth of the obstruction shall be 610 mm (24 in) maximum. The high side reach shall be 1220 mm (48 in) maximum for a reach depth of 255 mm (10 in) maximum. Where the reach depth exceeds 266 mm (10 in), the high side reach shall be 1170 mm (46 in) maximum for a reach depth of 610 mm (24 in) maximum.
 
 **R405 Operable Parts**
 
-**R405.1 General.** Operable parts shall comply with R405.
+**R405.1 General.** Operable parts shall comply with R405.
 
-**R405.2 Clear Space.** A clear space complying with R402 shall be provided.
+**R405.2 Clear Space.** A clear space complying with R402 shall be provided.
 
-**R405.3 Height.** Operable parts shall be placed within one or more of the reach ranges specified in R404.
+**R405.3 Height.** Operable parts shall be placed within one or more of the reach ranges specified in R404.
 
-**R405.4 Operation. **Operable parts shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate operable parts shall be 22 N (5 lbs) maximum.
+**R405.4 Operation. **Operable parts shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate operable parts shall be 22 N (5 lbs) maximum.
 
 **R406 Ramps**
 
-**R406.1 General.** Ramps shall comply with R406.
+**R406.1 General.** Ramps shall comply with R406.
 
-**R406.2 Slope.** Ramp runs shall have a running slope between 5 percent minimum and 8.3 percent maximum.
+**R406.2 Slope.** Ramp runs shall have a running slope between 5 percent minimum and 8.3 percent maximum.
 
 |
 
@@ -1366,27 +1366,27 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R406.3 Cross Slope.** Cross slope of ramp runs shall be 2 percent maximum.
+**R406.3 Cross Slope.** Cross slope of ramp runs shall be 2 percent maximum.
 
-**R406.4 Surfaces.** Ramp run surfaces shall comply with R301.5.
+**R406.4 Surfaces.** Ramp run surfaces shall comply with R301.5.
 
-**R406.5 Rise. **The rise for any ramp run shall be 76 cm (30 in) maximum.
+**R406.5 Rise. **The rise for any ramp run shall be 76 cm (30 in) maximum.
 
-**R406.6 Landings.** Ramps shall have landings at the top and the bottom of each ramp run. Landings shall comply with R406.6.
+**R406.6 Landings.** Ramps shall have landings at the top and the bottom of each ramp run. Landings shall comply with R406.6.
 
-> **R406.6.1 Slope.** Perpendicular and parallel ramp landing slopes shall be 2 percent maximum.
+> **R406.6.1 Slope.** Perpendicular and parallel ramp landing slopes shall be 2 percent maximum.
 >
-> **R406.6.2 Width.** The landing clear width shall be at least as wide as the widest ramp run leading to the landing.
+> **R406.6.2 Width.** The landing clear width shall be at least as wide as the widest ramp run leading to the landing.
 >
-> **R406.6.3 Length. **The landing clear length shall be 1.5 m (5.0 ft) long minimum.
+> **R406.6.3 Length. **The landing clear length shall be 1.5 m (5.0 ft) long minimum.
 >
-> **R406.6.4 Change in Direction. **Ramps that change direction between runs at landings shall have a clear landing 1.5 m (5.0 ft) minimum by 1.5 m (5.0 ft) minimum.
+> **R406.6.4 Change in Direction. **Ramps that change direction between runs at landings shall have a clear landing 1.5 m (5.0 ft) minimum by 1.5 m (5.0 ft) minimum.
 
-**R406.7 Handrails.** Ramp runs with a rise greater than 15 cm (6 in) shall have handrails complying with R408.
+**R406.7 Handrails.** Ramp runs with a rise greater than 15 cm (6 in) shall have handrails complying with R408.
 
-**R406.8 Edge Protection. **Edge protection complying with R406.8.1 or R406.8.2 shall be provided on each side of ramp runs. Edge protection shall not be required on curb ramps and their landings.
+**R406.8 Edge Protection. **Edge protection complying with R406.8.1 or R406.8.2 shall be provided on each side of ramp runs. Edge protection shall not be required on curb ramps and their landings.
 
-> **R406.8.1 Extended Ramp Surface. **The surface of the ramp run or landing shall extend 31 cm (12 in) minimum beyond the inside face of a handrail complying with R408.
+> **R406.8.1 Extended Ramp Surface. **The surface of the ramp run or landing shall extend 31 cm (12 in) minimum beyond the inside face of a handrail complying with R408.
 
 |
 
@@ -1394,25 +1394,25 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R406.8.2 Curb or Barrier.** A curb or barrier shall be provided that prevents the passage of a 100 mm (4 in) diameter sphere, where any portion of the sphere is within 100 mm (4 in) of the ramp surface.
+> **R406.8.2 Curb or Barrier.** A curb or barrier shall be provided that prevents the passage of a 100 mm (4 in) diameter sphere, where any portion of the sphere is within 100 mm (4 in) of the ramp surface.
 
 **R407 Stairways**
 
-**R407.1 General.** Stairways shall comply with R407.
+**R407.1 General.** Stairways shall comply with R407.
 
-**R407.2 Treads and Risers.** All steps on a flight of stairs shall have uniform riser heights and uniform tread depths. Risers shall be 100 mm (4 in) high minimum and 180 mm (7 in) high maximum. Treads shall be 28 cm (11 in) deep minimum.
+**R407.2 Treads and Risers.** All steps on a flight of stairs shall have uniform riser heights and uniform tread depths. Risers shall be 100 mm (4 in) high minimum and 180 mm (7 in) high maximum. Treads shall be 28 cm (11 in) deep minimum.
 
-**R407.3 Open Risers.** Open risers are not permitted.
+**R407.3 Open Risers.** Open risers are not permitted.
 
-**R407.4 Tread Surface.** Stairway treads shall comply with R301.5. Stairway treads shall have a 51 mm (2 in) minimum wide strip that contrasts visually with the tread and riser. The strip shall be located at the front of each tread and run the full width of the tread.
+**R407.4 Tread Surface.** Stairway treads shall comply with R301.5. Stairway treads shall have a 51 mm (2 in) minimum wide strip that contrasts visually with the tread and riser. The strip shall be located at the front of each tread and run the full width of the tread.
 
-**R407.5 Nosings.** The radius of curvature at the leading edge of the tread shall be 13 mm (0.5 inch) maximum. Nosings that project beyond risers shall have the underside of the leading edge curved or beveled. Risers shall be permitted to slope under the tread at an angle of 30 degrees maximum from vertical. The permitted projection of the nosing shall extend 38 mm (1.5 in) maximum over the tread below.
+**R407.5 Nosings.** The radius of curvature at the leading edge of the tread shall be 13 mm (0.5 inch) maximum. Nosings that project beyond risers shall have the underside of the leading edge curved or beveled. Risers shall be permitted to slope under the tread at an angle of 30 degrees maximum from vertical. The permitted projection of the nosing shall extend 38 mm (1.5 in) maximum over the tread below.
 
-**R407.6 Handrails.** Stairs shall have handrails complying with R408.
+**R407.6 Handrails.** Stairs shall have handrails complying with R408.
 
 **R408 Handrails**
 
-**R408.1 General.** Handrails provided along walking surfaces complying with R301, required at ramps complying with R406, and required at stairs complying with R407 shall comply with R408.
+**R408.1 General.** Handrails provided along walking surfaces complying with R301, required at ramps complying with R406, and required at stairs complying with R407 shall comply with R408.
 
 |
 
@@ -1420,15 +1420,15 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R408.2 Where Required.** Handrails shall be provided on both sides of stairs and ramps.
+**R408.2 Where Required.** Handrails shall be provided on both sides of stairs and ramps.
 
-**R408.3 Continuity.** Handrails shall be continuous within the full length of each stair flight or ramp run. Inside handrails on switchback or dogleg stairs and ramps shall be continuous between flights or runs.
+**R408.3 Continuity.** Handrails shall be continuous within the full length of each stair flight or ramp run. Inside handrails on switchback or dogleg stairs and ramps shall be continuous between flights or runs.
 
-**R408.4 Height.** Top of gripping surfaces of handrails shall be 87 cm mm (34 in) minimum and 97 cm (38 in) maximum vertically above walking surfaces, stair nosings, and ramp surfaces. Handrails shall be at a consistent height above walking surfaces, stair nosings, and ramp surfaces.
+**R408.4 Height.** Top of gripping surfaces of handrails shall be 87 cm mm (34 in) minimum and 97 cm (38 in) maximum vertically above walking surfaces, stair nosings, and ramp surfaces. Handrails shall be at a consistent height above walking surfaces, stair nosings, and ramp surfaces.
 
-**R408.5 Clearance.** Clearance between handrail gripping surfaces and adjacent surfaces shall be 38 mm (1.5 in) minimum.
+**R408.5 Clearance.** Clearance between handrail gripping surfaces and adjacent surfaces shall be 38 mm (1.5 in) minimum.
 
-**R408.6 Gripping Surface.** Handrail gripping surfaces shall be continuous along their length and shall not be obstructed along their tops or sides. The bottoms of handrail gripping surfaces shall not be obstructed for more than 20 percent of their length. Where provided, horizontal projections shall occur 38 mm (1.5 in) minimum below the bottom of the handrail gripping surface.
+**R408.6 Gripping Surface.** Handrail gripping surfaces shall be continuous along their length and shall not be obstructed along their tops or sides. The bottoms of handrail gripping surfaces shall not be obstructed for more than 20 percent of their length. Where provided, horizontal projections shall occur 38 mm (1.5 in) minimum below the bottom of the handrail gripping surface.
 
 |
 
@@ -1436,29 +1436,29 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-**R408.7 Cross Section.** Handrail gripping surfaces shall have a cross section complying with R408.7.1 or R408.7.2.
+**R408.7 Cross Section.** Handrail gripping surfaces shall have a cross section complying with R408.7.1 or R408.7.2.
 
-> **R408.7.1 Circular Cross Section.** Handrail gripping surfaces with a circular cross section shall have an outside diameter of 32 mm (1.25 in) minimum and 51 mm (2 in) maximum.
+> **R408.7.1 Circular Cross Section.** Handrail gripping surfaces with a circular cross section shall have an outside diameter of 32 mm (1.25 in) minimum and 51 mm (2 in) maximum.
 >
-> **R408.7.2 Non-Circular Cross Sections.** Handrail gripping surfaces with a non-circular cross section shall have a perimeter dimension of 100 mm (4 in) minimum and 160 mm (6.25 in) maximum, and a cross-section dimension of 57 mm (2.25 in) maximum.
+> **R408.7.2 Non-Circular Cross Sections.** Handrail gripping surfaces with a non-circular cross section shall have a perimeter dimension of 100 mm (4 in) minimum and 160 mm (6.25 in) maximum, and a cross-section dimension of 57 mm (2.25 in) maximum.
 
-**R408.8 Surfaces.** Handrail gripping surfaces and any surfaces adjacent to them shall be free of sharp or abrasive elements and shall have rounded edges.
+**R408.8 Surfaces.** Handrail gripping surfaces and any surfaces adjacent to them shall be free of sharp or abrasive elements and shall have rounded edges.
 
-**R408.9 Fittings.** Handrails shall not rotate within their fittings.
+**R408.9 Fittings.** Handrails shall not rotate within their fittings.
 
-**R408.10 Handrail Extensions.** Handrail gripping surfaces shall extend beyond and in the same direction of stair flights and ramp runs in accordance with R408.10. Extensions shall not be required for continuous handrails at the inside turn of switchback or dogleg stairs and ramps.
+**R408.10 Handrail Extensions.** Handrail gripping surfaces shall extend beyond and in the same direction of stair flights and ramp runs in accordance with R408.10. Extensions shall not be required for continuous handrails at the inside turn of switchback or dogleg stairs and ramps.
 
-> **R408.10.1 Top and Bottom Extension at Ramps.** Ramp handrails shall extend horizontally above the landing for 31 cm (12 in) minimum beyond the top and bottom of ramp runs. Extensions shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent ramp run.
+> **R408.10.1 Top and Bottom Extension at Ramps.** Ramp handrails shall extend horizontally above the landing for 31 cm (12 in) minimum beyond the top and bottom of ramp runs. Extensions shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent ramp run.
 >
-> **R408.10.2 Top Extension at Stairways.** At the top of a stair flight, handrails shall extend horizontally above the landing for 31 cm (12 in) minimum beginning directly above the first riser nosing. Extensions shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent stair flight.
+> **R408.10.2 Top Extension at Stairways.** At the top of a stair flight, handrails shall extend horizontally above the landing for 31 cm (12 in) minimum beginning directly above the first riser nosing. Extensions shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent stair flight.
 >
-> **R408.10.3 Bottom Extension at Stairways.** At the bottom of a stair flight, handrails shall extend at the slope of the stair flight for a horizontal distance at least equal to one tread depth beyond the last riser nosing. Extension shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent stair flight.
+> **R408.10.3 Bottom Extension at Stairways.** At the bottom of a stair flight, handrails shall extend at the slope of the stair flight for a horizontal distance at least equal to one tread depth beyond the last riser nosing. Extension shall return to a wall, guard, or the landing surface, or shall be continuous to the handrail of an adjacent stair flight.
 
 **R409 Signs**
 
-**R409.1 General.** Signs shall comply with R409. Where both visual and tactile characters are required, either one sign with both visual and tactile characters, or two separate signs, one with visual, and one with tactile characters, shall be provided.
+**R409.1 General.** Signs shall comply with R409. Where both visual and tactile characters are required, either one sign with both visual and tactile characters, or two separate signs, one with visual, and one with tactile characters, shall be provided.
 
-**R409.2 Raised Characters.** Raised characters shall comply with R409.2 and shall be duplicated in braille complying with R409.3. Raised characters shall be installed in accordance with R409.4.
+**R409.2 Raised Characters.** Raised characters shall comply with R409.2 and shall be duplicated in braille complying with R409.3. Raised characters shall be installed in accordance with R409.4.
 
 |
 
@@ -1468,23 +1468,23 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
 > **R409.2.1 Depth**. Raised characters shall be 0.8 mm (.03 in) minimum above their background.
 >
-> **R409.2.2 Case.** Characters shall be uppercase.
+> **R409.2.2 Case.** Characters shall be uppercase.
 >
-> **R409.2.3 Style.** Characters shall be sans serif. Characters shall not be italic, oblique, script, highly decorative, or of other unusual forms.
+> **R409.2.3 Style.** Characters shall be sans serif. Characters shall not be italic, oblique, script, highly decorative, or of other unusual forms.
 >
-> **R409.2.4 Character Proportions.** Characters shall be selected from fonts where the width of the uppercase letter "O" is 55 percent minimum and 110 percent maximum of the height of the uppercase letter "I".
+> **R409.2.4 Character Proportions.** Characters shall be selected from fonts where the width of the uppercase letter "O" is 55 percent minimum and 110 percent maximum of the height of the uppercase letter "I".
 >
-> **R409.2.5 Character Height.** Character height measured vertically from the baseline of the character shall be 16 mm (0.625 in) minimum and 51 mm (2 in) maximum based on the height of the uppercase letter "I". Where separate raised and visual characters with the same information are provided, raised character height shall be permitted to be 13 mm (0.5 in) minimum.
+> **R409.2.5 Character Height.** Character height measured vertically from the baseline of the character shall be 16 mm (0.625 in) minimum and 51 mm (2 in) maximum based on the height of the uppercase letter "I". Where separate raised and visual characters with the same information are provided, raised character height shall be permitted to be 13 mm (0.5 in) minimum.
 >
-> **R409.2.6 Stroke Thickness.** Stroke thickness of the uppercase letter "I" shall be 15 percent maximum of the height of the character.
+> **R409.2.6 Stroke Thickness.** Stroke thickness of the uppercase letter "I" shall be 15 percent maximum of the height of the character.
 >
-> **R409.2.7 Character Spacing.** Character spacing shall be measured between the two closest points of adjacent raised characters within a message, excluding word spaces. Where characters have rectangular cross sections, spacing between individual raised characters shall be 3.2 mm (0.125 in) minimum and 4 times the raised character stroke width maximum. Where characters have other cross sections, spacing between individual raised characters shall be 1.6 mm (.625 in) minimum and 4 times the raised character stroke width maximum at the base of the cross sections, and 3.2 mm (0.125 in) minimum and 4 times the raised character stroke width maximum at the top of the cross sections. Characters shall be separated from raised borders and decorative elements 9.5 mm (.375 in) minimum.
+> **R409.2.7 Character Spacing.** Character spacing shall be measured between the two closest points of adjacent raised characters within a message, excluding word spaces. Where characters have rectangular cross sections, spacing between individual raised characters shall be 3.2 mm (0.125 in) minimum and 4 times the raised character stroke width maximum. Where characters have other cross sections, spacing between individual raised characters shall be 1.6 mm (.625 in) minimum and 4 times the raised character stroke width maximum at the base of the cross sections, and 3.2 mm (0.125 in) minimum and 4 times the raised character stroke width maximum at the top of the cross sections. Characters shall be separated from raised borders and decorative elements 9.5 mm (.375 in) minimum.
 >
-> **R409.2.8 Line Spacing.** Spacing between the baselines of separate lines of raised characters within a message shall be 135 percent minimum and 170 percent maximum of the raised character height.
+> **R409.2.8 Line Spacing.** Spacing between the baselines of separate lines of raised characters within a message shall be 135 percent minimum and 170 percent maximum of the raised character height.
 >
-> **R409.3 Braille.** Braille shall be contracted (Grade 2) and shall comply with R409.3 and R409.4.
+> **R409.3 Braille.** Braille shall be contracted (Grade 2) and shall comply with R409.3 and R409.4.
 >
-> **R409.3.1 Dimensions and Capitalization.** Braille dots shall have a domed or rounded shape and shall comply with Table R409.3.1. The indication of an uppercase letter or letters shall only be used before the first word of sentences, proper nouns and names, individual letters of the alphabet, initials, and acronyms.
+> **R409.3.1 Dimensions and Capitalization.** Braille dots shall have a domed or rounded shape and shall comply with Table R409.3.1. The indication of an uppercase letter or letters shall only be used before the first word of sentences, proper nouns and names, individual letters of the alphabet, initials, and acronyms.
 >
 > R409.3.1 Braille Dimensions
 >
@@ -1543,17 +1543,17 @@ Where provided, doors, doorways, and gates shall comply with R411.
 > 10 mm (0.395 in) to 10.2 mm (0.400 in)
 >
 >  |
-> | 1. Measured center to center. |   |
+> | 1. Measured center to center. |   |
 >
-> **R409.3.2 Position.** Braille shall be positioned below the corresponding text. If text is multi-lined, braille shall be placed below the entire text. Braille shall be separated 9.5 mm (.375 in) minimum from any other tactile characters and 9.5 mm (.375 in) minimum from raised borders and decorative elements. Braille provided on elevator car controls shall be separated 4.8 mm (.1875 in) minimum and shall be located either directly below or adjacent to the corresponding raised characters or symbols.
+> **R409.3.2 Position.** Braille shall be positioned below the corresponding text. If text is multi-lined, braille shall be placed below the entire text. Braille shall be separated 9.5 mm (.375 in) minimum from any other tactile characters and 9.5 mm (.375 in) minimum from raised borders and decorative elements. Braille provided on elevator car controls shall be separated 4.8 mm (.1875 in) minimum and shall be located either directly below or adjacent to the corresponding raised characters or symbols.
 
-**R409.4 Installation Height and Location.** Signs with tactile characters shall comply with R409.4.
+**R409.4 Installation Height and Location.** Signs with tactile characters shall comply with R409.4.
 
-> **R409.4.1 Height Above Finish Floor or Ground.** Tactile characters on signs shall be located 1.2 m (4.0 ft) minimum above the finish floor or ground surface, measured from the baseline of the lowest tactile character and 1.5 m (5.0 ft) maximum above the finish floor or ground surface, measured from the baseline of the highest tactile character. Tactile characters for elevator car controls shall not be required to comply with R409.4.1.
+> **R409.4.1 Height Above Finish Floor or Ground.** Tactile characters on signs shall be located 1.2 m (4.0 ft) minimum above the finish floor or ground surface, measured from the baseline of the lowest tactile character and 1.5 m (5.0 ft) maximum above the finish floor or ground surface, measured from the baseline of the highest tactile character. Tactile characters for elevator car controls shall not be required to comply with R409.4.1.
 
-**R409.5 Visual Characters.** Visual characters shall comply with R409.5. Where visual characters comply with R409.2 and are accompanied by braille complying with R409.3, they shall not be required to comply with R409.5.2 through R409.5.9.
+**R409.5 Visual Characters.** Visual characters shall comply with R409.5. Where visual characters comply with R409.2 and are accompanied by braille complying with R409.3, they shall not be required to comply with R409.5.2 through R409.5.9.
 
-> **R409.5.1 Finish and Contrast.** Characters and their background shall have a non-glare finish. Characters shall contrast with their background with either light characters on a dark background or dark characters on a light background.
+> **R409.5.1 Finish and Contrast.** Characters and their background shall have a non-glare finish. Characters shall contrast with their background with either light characters on a dark background or dark characters on a light background.
 
 |
 
@@ -1561,13 +1561,13 @@ Where provided, doors, doorways, and gates shall comply with R411.
 
  |
 
-> **R409.5.2 Case.** Characters shall be uppercase or lowercase or a combination of both.
+> **R409.5.2 Case.** Characters shall be uppercase or lowercase or a combination of both.
 >
-> **R409.5.3 Style.** Characters shall be conventional in form. Characters shall not be italic, oblique, script, highly decorative, or of other unusual forms.
+> **R409.5.3 Style.** Characters shall be conventional in form. Characters shall not be italic, oblique, script, highly decorative, or of other unusual forms.
 >
-> **R409.5.4 Character Proportions.** Characters shall be selected from fonts where the width of the uppercase letter "O" is 55 percent minimum and 110 percent maximum of the height of the uppercase letter "I".
+> **R409.5.4 Character Proportions.** Characters shall be selected from fonts where the width of the uppercase letter "O" is 55 percent minimum and 110 percent maximum of the height of the uppercase letter "I".
 >
-> **R409.5.5 Character Height.** Minimum character height shall comply with Table R409.5.5. Viewing distance shall be measured as the horizontal distance between the character and an obstruction preventing further approach towards the sign. Character height shall be based on the uppercase letter "I".
+> **R409.5.5 Character Height.** Minimum character height shall comply with Table R409.5.5. Viewing distance shall be measured as the horizontal distance between the character and an obstruction preventing further approach towards the sign. Character height shall be based on the uppercase letter "I".
 
 R409.5.5 Visual Character Height
 
@@ -1652,15 +1652,15 @@ less than 6.4 m (21 ft)
 
  |
 
-> **R409.5.6 Height from Finish Floor or Ground.** Visual characters shall be 1.0 m (3.25 ft) minimum above the finish floor or ground. Visual characters indicating elevator car controls shall not be required to comply with R409.5.6.
+> **R409.5.6 Height from Finish Floor or Ground.** Visual characters shall be 1.0 m (3.25 ft) minimum above the finish floor or ground. Visual characters indicating elevator car controls shall not be required to comply with R409.5.6.
 >
-> **R409.5.7 Stroke Thickness.** Stroke thickness of the uppercase letter "I" shall be 10 percent minimum and 30 percent maximum of the height of the character.
+> **R409.5.7 Stroke Thickness.** Stroke thickness of the uppercase letter "I" shall be 10 percent minimum and 30 percent maximum of the height of the character.
 >
-> **R409.5.8 Character Spacing.** Character spacing shall be measured between the two closest points of adjacent characters, excluding word spaces. Spacing between individual characters shall be 10 percent minimum and 35 percent maximum of character height.
+> **R409.5.8 Character Spacing.** Character spacing shall be measured between the two closest points of adjacent characters, excluding word spaces. Spacing between individual characters shall be 10 percent minimum and 35 percent maximum of character height.
 >
-> **R409.5.9 Line Spacing.** Spacing between the baselines of separate lines of characters within a message shall be 135 percent minimum and 170 percent maximum of the character height.
+> **R409.5.9 Line Spacing.** Spacing between the baselines of separate lines of characters within a message shall be 135 percent minimum and 170 percent maximum of the character height.
 >
-> **R409.5.10 The International Symbol of Accessibility.** The International Symbols of Accessibility shall comply with Figure 409.5.10.\
+> **R409.5.10 The International Symbol of Accessibility.** The International Symbols of Accessibility shall comply with Figure 409.5.10.\
 ![Pictogram that shows the simplified profile of a person seated in a wheelchair.](https://www.access-board.gov/images/guidelines_standards/Streets_Sidewalks/PROW/draft-revised_clip_image001.gif)
 
 **Figure R409.5.10\

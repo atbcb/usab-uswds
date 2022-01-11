@@ -67,8 +67,8 @@ The proposed risk categories and factors appear below, with numerical values in 
 "Position 2" is between the point 0.25L aft of the bow and the stern\
 Per definition of International Load Line Convention and the LLTM*
 
-|   | Height of deck at door < [8 feet] above waterline (WL) | Height of deck at door >/= [8 feet] above WL |
-|   |
+|   | Height of deck at door < [8 feet] above waterline (WL) | Height of deck at door >/= [8 feet] above WL |
+|   |
 
 Position 1
 
@@ -161,8 +161,8 @@ Table 2. Downflooding path risk scoring**\
 *X = distance from door to downflooding point\
 Y = height of downflooding point above deck*
 
-|   | X< [20 feet] | X>/= [20 feet] |
-|   |
+|   | X< [20 feet] | X>/= [20 feet] |
+|   |
 
 **Y < [2 feet]**
 
@@ -218,7 +218,7 @@ Protected
 
  |
 
-[0] [4](https://www.access-board.gov/research/completed-research/ada-access-to-passenger-vessels/3-risk-management-methodology#note4)
+[0] [4](https://www.access-board.gov/research/completed-research/ada-access-to-passenger-vessels/3-risk-management-methodology#note4)
 
  |
 |

@@ -29,7 +29,7 @@ The revision reads as follows:
 
 \* \* \* \* \*
 
-(b) Dimensional tolerances. All dimensions are subject to conventional engineering tolerances for manufacturing processes, material properties, and field conditions, including normal anticipated wear not exceeding accepted industry-wide standards and practices. 
+(b) Dimensional tolerances. All dimensions are subject to conventional engineering tolerances for manufacturing processes, material properties, and field conditions, including normal anticipated wear not exceeding accepted industry-wide standards and practices. 
 
 \* \* \* \* \*
 
@@ -37,7 +37,7 @@ The revision reads as follows:
 
 4\. Revise the heading for subpart B to this part to read as set forth above.
 
-5\. Revise § 1192.21 to read as follows:
+5\. Revise § 1192.21 to read as follows:
 
 **§ 1192.21 General.**
 
@@ -125,7 +125,7 @@ Appendix A to Part 1192---Accessibility Guidelines for Buses, Over-the-Road Buse
 
 ### CHAPTER 1: APPLICATION AND ADMINISTRATION
 
-#### T101 Purpose 
+#### T101 Purpose 
 
 T101.1 Purpose. These Non-Rail Vehicle Guidelines, which consist of Chapters 1 through 7, contain scoping and technical requirements for new, used or remanufactured non-rail vehicles to ensure their accessibility to, and usability by, individuals with disabilities. The Non-Rail Vehicle Guidelines apply to the extent required by regulations issued by the Department of Transportation under the Americans with Disabilities Act, as amended (42 U.S.C. 12101 et seq.).
 
@@ -149,21 +149,21 @@ T103.4 Defined Terms. For the purpose of the Non-Rail Vehicle Guidelines, the fo
 
 *Boarding platform*. A platform in a level boarding bus system raised above standard curb height in order to align vertically with the transit vehicle entry for level boarding and alighting.
 
-*Fixed route service (or fixed route).* Operation of a non-rail vehicle along a prescribed route according to a fixed schedule.
+*Fixed route service (or fixed route).* Operation of a non-rail vehicle along a prescribed route according to a fixed schedule.
 
-*Large transit entity.* A provider of public transportation that is required to report to the National Transportation Database (49 U.S.C. 5335), and that, for an any given calendar year, reports to such database the operation of 100 or more buses in annual maximum service for all fixed-route service bus modes collectively, through either direct operation or purchased transportation.
+*Large transit entity.* A provider of public transportation that is required to report to the National Transportation Database (49 U.S.C. 5335), and that, for an any given calendar year, reports to such database the operation of 100 or more buses in annual maximum service for all fixed-route service bus modes collectively, through either direct operation or purchased transportation.
 
 *Large non-rail vehicle*. Non-rail vehicles that are more than 25 feet (7.6 m) in length.
 
-*Level boarding bus system.* A system in which buses operate where some or all of the designated stops have boarding platforms and the design of boarding platforms and non-rail vehicles are coordinated to provide boarding having little or no change in level between the vehicle floor and the boarding platform.
+*Level boarding bus system.* A system in which buses operate where some or all of the designated stops have boarding platforms and the design of boarding platforms and non-rail vehicles are coordinated to provide boarding having little or no change in level between the vehicle floor and the boarding platform.
 
-*Non-rail vehicle.* A self-propelled, rubber-tired vehicle used to provide transportation services and intended for use on city streets, highways, or busways that constitutes either a bus, over-the-road bus, or van.
+*Non-rail vehicle.* A self-propelled, rubber-tired vehicle used to provide transportation services and intended for use on city streets, highways, or busways that constitutes either a bus, over-the-road bus, or van.
 
-*Operable part.* A component of a device or system used to insert or withdraw objects, or to activate, deactivate, adjust, or connect to the device or system. Operable parts include, but are not limited to, buttons, levers, knobs, smart card targets, coin and card slots, pull-cords, jacks, data ports, electrical outlets, and touchscreens.
+*Operable part.* A component of a device or system used to insert or withdraw objects, or to activate, deactivate, adjust, or connect to the device or system. Operable parts include, but are not limited to, buttons, levers, knobs, smart card targets, coin and card slots, pull-cords, jacks, data ports, electrical outlets, and touchscreens.
 
-*Small non-rail vehicle.* Non-rail vehicles that are equal to or less than 25 feet (7.6 m) in length.
+*Small non-rail vehicle.* Non-rail vehicles that are equal to or less than 25 feet (7.6 m) in length.
 
-*Surface discontinuities.* Differences in level between two adjacent surfaces. Elevation changes due to ramps or stairs do not, themselves, constitute surface discontinuities. However, abrupt changes in level on the walking surface of ramps or stairs are surface discontinuities.\
+*Surface discontinuities.* Differences in level between two adjacent surfaces. Elevation changes due to ramps or stairs do not, themselves, constitute surface discontinuities. However, abrupt changes in level on the walking surface of ramps or stairs are surface discontinuities.\
 
 
 ---
@@ -379,7 +379,7 @@ T402.8 Running Slope. The maximum running slope of ramps and bridgeplates shall 
 
 >T402.8.1 Deployment to Roadways or to Curb Height Boarding and Alighting Areas. The running slope of ramps and bridgeplates used for deployment to the roadway or to curb-height boarding and alighting areas shall be 1:6 maximum, as measured to ground level with the non-rail vehicle resting on a flat surface.
 
->T402.8.2 Deployment to Boarding Platforms. The running slope of ramps and bridgeplates used for deployment to platforms shall be 1:8 maximum, as measured to the boarding platform with the non-rail vehicle resting on a flat surface. 
+>T402.8.2 Deployment to Boarding Platforms. The running slope of ramps and bridgeplates used for deployment to platforms shall be 1:8 maximum, as measured to the boarding platform with the non-rail vehicle resting on a flat surface. 
 
 T402.9 Transitions. Vertical surface discontinuities at transitions from boarding and alighting areas to ramps and bridgeplates shall comply with T302.4.
 
@@ -509,7 +509,7 @@ T603.3 Design Load. Wheelchair securement systems shall comply with the design l
 
 T603.4 Movement. Wheelchair securement systems shall limit the movement of an occupied wheelchair to 2 inches (51 mm) maximum in any direction when secured in accordance with the manufacturer's instructions and when the non-rail vehicle is operating in normal conditions.
 
-T603.5 Securement Systems for Rear-Facing Wheelchair Positions. Rear-facing wheelchair securement systems shall provide forward excursion barriers and padded head rests that comply with ISO 10865-1:2012(E), Wheelchair containment and occupant retention systems for accessible transport vehicles designed for use by both sitting and standing passengers --- Part 1: Systems for rearward facing wheelchair-seated passengers, First Edition, June 5, 2012 [ISO Standard 10865-1:2012(E)]. ISO Standard 10865-1:2012(E) is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, a notice of change must be published in the Federal Register and the material must be made available to the public. All approved material is available for inspection at the U.S. Access Board, 1331 F Street NW, Suite 1000, Washington, DC 20004-1111, (202) 272-0080 (voice), (202) 272-0082 (TTY) and is available from the International Organization for Standardization, ISO Central Secretariat, 1, ch. de la Voie-Creuse, CP 56, CH-1211, Geneva 20, Switzerland (<http://www.iso.org/iso/home/store.htm>). It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to <http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.>
+T603.5 Securement Systems for Rear-Facing Wheelchair Positions. Rear-facing wheelchair securement systems shall provide forward excursion barriers and padded head rests that comply with ISO 10865-1:2012(E), Wheelchair containment and occupant retention systems for accessible transport vehicles designed for use by both sitting and standing passengers --- Part 1: Systems for rearward facing wheelchair-seated passengers, First Edition, June 5, 2012 [ISO Standard 10865-1:2012(E)]. ISO Standard 10865-1:2012(E) is incorporated by reference into this section with the approval of the Director of the Federal Register under 5 U.S.C. 552(a) and 1 CFR part 51. To enforce any edition other than that specified in this section, a notice of change must be published in the Federal Register and the material must be made available to the public. All approved material is available for inspection at the U.S. Access Board, 1331 F Street NW, Suite 1000, Washington, DC 20004-1111, (202) 272-0080 (voice), (202) 272-0082 (TTY) and is available from the International Organization for Standardization, ISO Central Secretariat, 1, ch. de la Voie-Creuse, CP 56, CH-1211, Geneva 20, Switzerland (<http://www.iso.org/iso/home/store.htm>). It is also available for inspection at the National Archives and Records Administration (NARA). For information on the availability of this material at NARA, call (202) 741-6030, or go to <http://www.archives.gov/federal_register/code_of_federal_regulations/ibr_locations.html.>
 
 #### T604 Stowage
 

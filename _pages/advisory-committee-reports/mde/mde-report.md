@@ -38,155 +38,155 @@ The MDE Advisory Committee met from September 2012 through May 2013. Much of the
 
 **5.1 Transfer Surface Height**
 
->**5.1.1 Transfer Surface Height Adjustability.** The transfer surface should have an adjustable height in small virtually continuous increments.
+>**5.1.1 Transfer Surface Height Adjustability.** The transfer surface should have an adjustable height in small virtually continuous increments.
 
->**5.1.2 Transfer Surface High Height.** The transfer surface should have an adjustable height range with an upper height measuring at least 25 inches.
+>**5.1.2 Transfer Surface High Height.** The transfer surface should have an adjustable height range with an upper height measuring at least 25 inches.
 
->**5.1.3 Transfer Surface Low Height.** No agreement on final low height
+>**5.1.3 Transfer Surface Low Height.** No agreement on final low height
 
->**5.1.4 Transfer Surface Height Measurement.** The transfer surface height should be measured from the floor to the highest point on the seat in an uncompressed state, inclusive of bolsters.
+>**5.1.4 Transfer Surface Height Measurement.** The transfer surface height should be measured from the floor to the highest point on the seat in an uncompressed state, inclusive of bolsters.
 
 **5.2 Transfer Surface Size for Equipment Used by Patients in Supine, Prone, or Side-Lying Position.**
 
 >**5.2.1 Transfer Surface Size**
 
->>**5.2.1.1 Transfer Surface Width.** The transfer surface should be 28 inches wide minimum for equipment used by patients in a supine, side-lying, or prone position.
+>>**5.2.1.1 Transfer Surface Width.** The transfer surface should be 28 inches wide minimum for equipment used by patients in a supine, side-lying, or prone position.
 
->>**5.2.1.2 Transfer Surface Depth.** The transfer surface should be 17 inches deep minimum for all equipment used by patients in a supine, side-lying, or prone position with the exception of imaging equipment.
+>>**5.2.1.2 Transfer Surface Depth.** The transfer surface should be 17 inches deep minimum for all equipment used by patients in a supine, side-lying, or prone position with the exception of imaging equipment.
 
->>**5.2.1.3 Transfer Surface Size for Stretchers.** The transfer surface should be 28 inches wide minimum and 17 inches deep minimum located on both long sides of stretchers.
+>>**5.2.1.3 Transfer Surface Size for Stretchers.** The transfer surface should be 28 inches wide minimum and 17 inches deep minimum located on both long sides of stretchers.
 
->>**5.2.1.4 Transfer Surface Size for Imaging Equipment.** The transfer surface should be 28 inches wide minimum and 21 inches deep minimum. The transfer surface should be located such that the long dimension of 28 inches is located parallel to the patient scanning/imaging side of the table. The specific location is to be designated by the manufacturer so as to carry out the functions for the diagnostic procedure. The width of the patient scanning/imaging table (side to side) at the designated transfer location should be 28 inches minimum or the maximum extent technically feasible, but in all cases no less than 21 inches.
+>>**5.2.1.4 Transfer Surface Size for Imaging Equipment.** The transfer surface should be 28 inches wide minimum and 21 inches deep minimum. The transfer surface should be located such that the long dimension of 28 inches is located parallel to the patient scanning/imaging side of the table. The specific location is to be designated by the manufacturer so as to carry out the functions for the diagnostic procedure. The width of the patient scanning/imaging table (side to side) at the designated transfer location should be 28 inches minimum or the maximum extent technically feasible, but in all cases no less than 21 inches.
 
 >**5.2.2 Transfer Surface Size for Equipment Used by Patients in Seated Position.**
 
->>**5.2.2.1 Transfer Surface Width.** The transfer surface should be 21 inches wide minimum for examination chairs and other equipment used by patients in a seated position.
+>>**5.2.2.1 Transfer Surface Width.** The transfer surface should be 21 inches wide minimum for examination chairs and other equipment used by patients in a seated position.
 
 >>**5.2.2.2 Transfer Surface Depth**. The transfer surface should be 17 inches deep minimum for equipment used by patients in a seated position.
 
->**5.2.3 Transfer Surface Measurement.** The transfer surface should be measured from the center-point of each side of the transfer surface.
+>**5.2.3 Transfer Surface Measurement.** The transfer surface should be measured from the center-point of each side of the transfer surface.
 
 **5.3 Transfer Sides.**
 
->**5.3.1 Permitted Obstructions to Transfer Sides for Equipment Used by Patients in a Supine, Prone, Side-Lying or Seated Position.** A 3-inch maximum obstruction is permitted at transfer sides.
+>**5.3.1 Permitted Obstructions to Transfer Sides for Equipment Used by Patients in a Supine, Prone, Side-Lying or Seated Position.** A 3-inch maximum obstruction is permitted at transfer sides.
 
->**5.3.2 Transfer Sides for Equipment Used by Patients in a Supine, Prone, or Side-Lying Position.**
+>**5.3.2 Transfer Sides for Equipment Used by Patients in a Supine, Prone, or Side-Lying Position.**
 
 >>**5.3.2.1 Transfer Sides for Stretchers**. The transfer surface shall be located to provide the ability to transfer from a mobility device onto both long sides of the surface.
 
->>**5.3.2.2 Transfer Sides for Imaging Equipment.** The transfer surface should be provided on at least one long side of the table.
+>>**5.3.2.2 Transfer Sides for Imaging Equipment.** The transfer surface should be provided on at least one long side of the table.
 
 >**5.3.3 Transfer Sides for Equipment Used by Patients in Seated Position.**
 
->>**5.3.3.1 Transfer Sides for Exam Chairs with Fixed Footrests.** The 17 inch minimum depth and 21 inch minimum width should be located on both sides of examination chairs with a fixed footrest to allow for a left or right transfer.
+>>**5.3.3.1 Transfer Sides for Exam Chairs with Fixed Footrests.** The 17 inch minimum depth and 21 inch minimum width should be located on both sides of examination chairs with a fixed footrest to allow for a left or right transfer.
 
 **5.4 Transfer Supports.**
 
->**5.4.1 Transfer Support Location for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** Transfer supports should be required on both sides of the transfer surface and be movable or removable so they can be out of the way during transfer.
+>**5.4.1 Transfer Support Location for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** Transfer supports should be required on both sides of the transfer surface and be movable or removable so they can be out of the way during transfer.
 
->>**5.4.1.1 Transfer Support Location for Stretchers.** The transfer surface for stretchers should be oriented along the long side of the surface.
+>>**5.4.1.1 Transfer Support Location for Stretchers.** The transfer surface for stretchers should be oriented along the long side of the surface.
 
->>**5.4.1.2 Transfer and Positioning Support Location for Imaging Equipment.** Transfer supports should be provided for imaging equipment with transfer surfaces with depths of less than or equal to 24 inches. Positioning supports should be provided for imaging equipment with transfer surfaces with depths greater than 24 inches. The transfer supports or positioning supports should be located opposite the transfer side.
+>>**5.4.1.2 Transfer and Positioning Support Location for Imaging Equipment.** Transfer supports should be provided for imaging equipment with transfer surfaces with depths of less than or equal to 24 inches. Positioning supports should be provided for imaging equipment with transfer surfaces with depths greater than 24 inches. The transfer supports or positioning supports should be located opposite the transfer side.
 
->**5.4.2 Transfer Support Length for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The transfer support should be a minimum length of 15 inches positioned so that the transfer support overlaps the minimum depth of the transfer surface by 80%.
+>**5.4.2 Transfer Support Length for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The transfer support should be a minimum length of 15 inches positioned so that the transfer support overlaps the minimum depth of the transfer surface by 80%.
 
->>**5.4.2.1 Transfer Support Length for Stretchers.** Transfer supports on stretchers should be a minimum of 15 inches long.
+>>**5.4.2.1 Transfer Support Length for Stretchers.** Transfer supports on stretchers should be a minimum of 15 inches long.
 
->>**5.4.2.2 Transfer and Positioning Support Length for Imaging Equipment with Transfer Surfaces.** Transfer supports for imaging equipment should be 28 inches minimum in length and positioning supports shall be 12 to 16 inches minimum in length.
+>>**5.4.2.2 Transfer and Positioning Support Length for Imaging Equipment with Transfer Surfaces.** Transfer supports for imaging equipment should be 28 inches minimum in length and positioning supports shall be 12 to 16 inches minimum in length.
 
->**5.4.3 Transfer Support Height for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** Transfer supports should be positioned 6 inches minimum and 19 inches maximum above the transfer surface.
+>**5.4.3 Transfer Support Height for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** Transfer supports should be positioned 6 inches minimum and 19 inches maximum above the transfer surface.
 
->>**5.4.3.1 Positioning Support Height for Imaging Equipment.** Positioning supports should be positioned 3 to 6 inches above the transfer surface.
+>>**5.4.3.1 Positioning Support Height for Imaging Equipment.** Positioning supports should be positioned 3 to 6 inches above the transfer surface.
 
->**5.4.4 Transfer Support Distance From Transfer Surface for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The transfer support should be located a maximum distance of 1½ inches from the transfer surface.
+>**5.4.4 Transfer Support Distance From Transfer Surface for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The transfer support should be located a maximum distance of 1½ inches from the transfer surface.
 
->>**5.4.4.1 Transfer Support Distance from Transfer Surface for Stretchers.** Transfer supports should be located along the long side of the transfer surface on the opposite side of the transfer. The horizontal distance from the transfer surface should be no more than 3 inches from the edge of the patient support surface.
+>>**5.4.4.1 Transfer Support Distance from Transfer Surface for Stretchers.** Transfer supports should be located along the long side of the transfer surface on the opposite side of the transfer. The horizontal distance from the transfer surface should be no more than 3 inches from the edge of the patient support surface.
 
->>**5.4.4.2 Transfer Support Distance from Transfer Surface for Imaging Equipment.** Supports (transfer or positioning) should be located 1 ½ inches maximum from the transfer surface. The distance may extend up to 3 inches where the support must fold, collapse, come off, or articulate.
+>>**5.4.4.2 Transfer Support Distance from Transfer Surface for Imaging Equipment.** Supports (transfer or positioning) should be located 1 ½ inches maximum from the transfer surface. The distance may extend up to 3 inches where the support must fold, collapse, come off, or articulate.
 
->**5.4.5 Transfer Support Position for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The transfer gripping surface should be located within the minimum and maximum heights.
+>**5.4.5 Transfer Support Position for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The transfer gripping surface should be located within the minimum and maximum heights.
 
->>**5.4.5.1 Transfer and Positioning Support Position for Imaging Equipment.** The transfer or positioning support should be oriented horizontally on imaging equipment with transfer surfaces.
+>>**5.4.5.1 Transfer and Positioning Support Position for Imaging Equipment.** The transfer or positioning support should be oriented horizontally on imaging equipment with transfer surfaces.
 
->**5.4.6 Transfer Support Gripping Surface Cross Section for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The gripping surface cross section should comply with the provisions for gripping surface cross section configurations contained in the 2010 Standards.
+>**5.4.6 Transfer Support Gripping Surface Cross Section for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The gripping surface cross section should comply with the provisions for gripping surface cross section configurations contained in the 2010 Standards.
 
->**5.4.7 Transfer Support Gripping Surface Clearance for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** There should be a 1½ inches minimum clearance around the gripping of transfer supports as proposed by the Access Board.
+>**5.4.7 Transfer Support Gripping Surface Clearance for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** There should be a 1½ inches minimum clearance around the gripping of transfer supports as proposed by the Access Board.
 
->**5.4.8 Transfer Support Gripping Surface Hazard for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The gripping surfaces of the transfer support must be free of sharp or abrasive elements and have rounded edges.
+>**5.4.8 Transfer Support Gripping Surface Hazard for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The gripping surfaces of the transfer support must be free of sharp or abrasive elements and have rounded edges.
 
->**5.4.9 Interruptions Along Transfer Support Gripping for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The bottom of the transfer support shall have no obstruction affecting more than 20% of its length.
+>**5.4.9 Interruptions Along Transfer Support Gripping for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The bottom of the transfer support shall have no obstruction affecting more than 20% of its length.
 
->**5.4.10 Transfer Support Fittings for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The transfer supports shall not rotate when locked in place for patient transfer or use.
+>**5.4.10 Transfer Support Fittings for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The transfer supports shall not rotate when locked in place for patient transfer or use.
 
->**5.4.11 Transfer Support Structural Strength for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The transfer supports and connections must contain the strength to resist vertical and horizontal forces of 250 pounds at locations determined by the intended use of the equipment.
+>**5.4.11 Transfer Support Structural Strength for Equipment Used in a Supine, Prone, Side-Lying, or Seated Position.** The transfer supports and connections must contain the strength to resist vertical and horizontal forces of 250 pounds at locations determined by the intended use of the equipment.
 
 **5.5 Armrest Recommendations**
 
->**5.5.1 Armrest Provision for Equipment Used by Patient in Seated Position.** Armrests are not required but if provided cannot obstruct transfer supports.
+>**5.5.1 Armrest Provision for Equipment Used by Patient in Seated Position.** Armrests are not required but if provided cannot obstruct transfer supports.
 
 **5.6 Stirrups.**
 
->**5.6.1 Stirrups for Equipment Used by Patient in Supine, Prone, or Side-Lying Position.** Where the equipment provides stirrups, it must also provide an alternate method to support, position, and secure the patient's legs (specifically including sufficient support of the patient's thigh, knee, and calf to stabilize the leg). This method will either supplement or serve as a substitute for the stirrups.
+>**5.6.1 Stirrups for Equipment Used by Patient in Supine, Prone, or Side-Lying Position.** Where the equipment provides stirrups, it must also provide an alternate method to support, position, and secure the patient's legs (specifically including sufficient support of the patient's thigh, knee, and calf to stabilize the leg). This method will either supplement or serve as a substitute for the stirrups.
 
 **5.7 Lift Compatibility.**
 
 >**5.7.1 Lift Compatibility Clearance in Base for Equipment Used by Patient in Supine, Prone, or Side-Lying Position.**
 
->>**5.7.1.1 Lift Compatibility Clearance in Base for Stretchers.** The base of the equipment must provide a clearance of 39 inches wide minimum.
+>>**5.7.1.1 Lift Compatibility Clearance in Base for Stretchers.** The base of the equipment must provide a clearance of 39 inches wide minimum.
 
->>**5.7.1.2 Lift Compatibility Clearance in Base for Imaging Equipment.** An overhead lift may be used as an alternative option in lieu of the provisions for clearances in and around the equipment base where portable lifts are not feasible.
+>>**5.7.1.2 Lift Compatibility Clearance in Base for Imaging Equipment.** An overhead lift may be used as an alternative option in lieu of the provisions for clearances in and around the equipment base where portable lifts are not feasible.
 
 **5.8 Wheelchair Spaces for Diagnostic Equipment Used by Patients Seated in a Wheelchair.**
 
 >**5.8.1 Wheelchair Spaces on Raised Platforms.**
 
->>**5.8.1.1 Clear Platform Size.** The platform should be a minimum clear width of 32-inches and a minimum clear length of 40-inches.
+>>**5.8.1.1 Clear Platform Size.** The platform should be a minimum clear width of 32-inches and a minimum clear length of 40-inches.
 
 >>**5.8.1.2 Entry to Wheelchair Spaces on Raised Platforms.**
 
->>>**5.8.1.2.1 Ramped Entry Slope.** Raised platforms should have a ramp with slopes that do not exceed the following:
+>>>**5.8.1.2.1 Ramped Entry Slope.** Raised platforms should have a ramp with slopes that do not exceed the following:
 
 >>>Rise 0 to 1 ½ inches – 1:2 Slope
 >>>Rise >1 ½ to 2 ½ inches – 1:8 Slope
 >>>Rise >2 ½ inches – 1:12 Slope
 
->>>**5.8.1.2.2 Single Ramped Entry -- Edge Protection on the Platform and Platform Sides.** A 2 inch high edge protection must be provided on the back of the platform, opposite the entry ramp and a minimum 2 inch high edge protection on the sides of the platform.
+>>>**5.8.1.2.2 Single Ramped Entry -- Edge Protection on the Platform and Platform Sides.** A 2 inch high edge protection must be provided on the back of the platform, opposite the entry ramp and a minimum 2 inch high edge protection on the sides of the platform.
 
->>>**5.8.1.2.3 Double Ramped Entry -- Edge Protection on the Platform Sides.** A minimum 2 inch high edge protection must be provided on both sides of the platform for double ramped entry platforms.
+>>>**5.8.1.2.3 Double Ramped Entry -- Edge Protection on the Platform Sides.** A minimum 2 inch high edge protection must be provided on both sides of the platform for double ramped entry platforms.
 
->>>**5.8.1.2.4 Edge Protection on Platforms 1½ inches or less in Height.** Edge protection is not required on platforms 1 ½ inches or less in height.
+>>>**5.8.1.2.4 Edge Protection on Platforms 1½ inches or less in Height.** Edge protection is not required on platforms 1 ½ inches or less in height.
 
->**5.8.2 Knee and Toe Clearance Under Breast Platform.** The overall knee and toe space should be increased to a minimum of 28 inches deep, from the initially proposed 25 inch absolute dimension; increasing the knee clearance directly underneath the breast platform to a minimum of 18 inches; and assuring unobstructed floor space in front of the base support at a minimum of 17 inches.
+>**5.8.2 Knee and Toe Clearance Under Breast Platform.** The overall knee and toe space should be increased to a minimum of 28 inches deep, from the initially proposed 25 inch absolute dimension; increasing the knee clearance directly underneath the breast platform to a minimum of 18 inches; and assuring unobstructed floor space in front of the base support at a minimum of 17 inches.
 
->>**5.8.2.1 Height of Breast Platform At Time of Measurement.** All knee and toe clearances should be measured when the top of the breast platform is set at 34 inches above the floor.
+>>**5.8.2.1 Height of Breast Platform At Time of Measurement.** All knee and toe clearances should be measured when the top of the breast platform is set at 34 inches above the floor.
 
->>**5.8.2.2 Knee Clearance Depth at 27" Above the Ground.** The knee clearance should be increased at 27 inches above the ground to 18 inches minimum.
+>>**5.8.2.2 Knee Clearance Depth at 27" Above the Ground.** The knee clearance should be increased at 27 inches above the ground to 18 inches minimum.
 
->>**5.8.2.3 Overall Knee and Toe Clearance.** The overall knee and toe space should be increased to a minimum of 28 inches.
+>>**5.8.2.3 Overall Knee and Toe Clearance.** The overall knee and toe space should be increased to a minimum of 28 inches.
 
->>**5.8.2.4 Unobstructed Floor Space.** The unobstructed floor space in front of the base support should be a minimum of 17 inches deep.
+>>**5.8.2.4 Unobstructed Floor Space.** The unobstructed floor space in front of the base support should be a minimum of 17 inches deep.
 
->>**5.8.2.5 Toe Height.** The toe height should be 18 inches minimum, measured above the ground when the top of the breast platform is 34 inches above the ground.
+>>**5.8.2.5 Toe Height.** The toe height should be 18 inches minimum, measured above the ground when the top of the breast platform is 34 inches above the ground.
 
->>**5.8.2.6 Clearance Depth at Toe Height Above the Ground.** The toe clearance depth should be 22 inches minimum at toe height.
+>>**5.8.2.6 Clearance Depth at Toe Height Above the Ground.** The toe clearance depth should be 22 inches minimum at toe height.
 
->>**5.8.2.7 Base Support Allowance.** Base support is permitted to obstruct the clear floor space if it fits within the allowed base support volume. Base supports can be a maximum of 1½ inches high. An additional sloped region above the base support is permitted at a depth of 25 inches from the front edge of the breast platform at 1½ inches above the floor, and can extend to a height of 4 inches above the floor at a depth of 28 inches from the front edge of the breast platform.
+>>**5.8.2.7 Base Support Allowance.** Base support is permitted to obstruct the clear floor space if it fits within the allowed base support volume. Base supports can be a maximum of 1½ inches high. An additional sloped region above the base support is permitted at a depth of 25 inches from the front edge of the breast platform at 1½ inches above the floor, and can extend to a height of 4 inches above the floor at a depth of 28 inches from the front edge of the breast platform.
 
->>>**5.8.2.7.1 Mammography Chair Footrest.** Mammography chairs must meet the requirements for equipment used for patient in a seated position with the additional requirement that any footrests must accommodate and ride over the base support.
+>>>**5.8.2.7.1 Mammography Chair Footrest.** Mammography chairs must meet the requirements for equipment used for patient in a seated position with the additional requirement that any footrests must accommodate and ride over the base support.
 
 >**5.8.3 Breast Platform**
 
->>**5.8.3.1 Breast Platform Height.** The height of the top of the breast platform should be decreased to 26 inches above the floor. The upper height range for the breast platform was not controversial and remained as proposed. The final version of the criteria must clarify that the specified height range is a minimum range of travel.
+>>**5.8.3.1 Breast Platform Height.** The height of the top of the breast platform should be decreased to 26 inches above the floor. The upper height range for the breast platform was not controversial and remained as proposed. The final version of the criteria must clarify that the specified height range is a minimum range of travel.
 
 **5.9 Standing Support for Equipment Used by Patients in a Standing Position.**
 
->**5.9.1 Standing Supports In Reference To Mammography Equipment.** The requirement for standing supports should be removed for mammography equipment. To be useful, positioning supports must be shaped for grasping, positioned within reach range of all users, and be 12 inches long minimum when located on the moving C-arm or 18 inches long minimum when in a fixed location.
+>**5.9.1 Standing Supports In Reference To Mammography Equipment.** The requirement for standing supports should be removed for mammography equipment. To be useful, positioning supports must be shaped for grasping, positioned within reach range of all users, and be 12 inches long minimum when located on the moving C-arm or 18 inches long minimum when in a fixed location.
 
 >**5.9.2 Standing Supports on Ramped Entry Raised Platforms with Wheelchair Spaces.**
 
->>**5.9.2.1 Standing Supports on Single Ramped Entry Raised Platforms with Wheelchair Spaces.** Standing supports should be located on both sides of platforms, a minimum of 34 inches between supports, integrated into the platform, and 32 inches minimum length (at least 80% of the platform length) at the platform entry edge for a single ramp entry raised platform.
+>>**5.9.2.1 Standing Supports on Single Ramped Entry Raised Platforms with Wheelchair Spaces.** Standing supports should be located on both sides of platforms, a minimum of 34 inches between supports, integrated into the platform, and 32 inches minimum length (at least 80% of the platform length) at the platform entry edge for a single ramp entry raised platform.
 
->>**5.9.2.2 Standing Supports on Dual Ramped Entry Raised Platforms with Wheelchair Spaces.** Standing supports should be located on one side of the platform, integrated into the platform and stretching the full length of the platform (40 inch minimum) for dual ramped entry raised platforms.
+>>**5.9.2.2 Standing Supports on Dual Ramped Entry Raised Platforms with Wheelchair Spaces.** Standing supports should be located on one side of the platform, integrated into the platform and stretching the full length of the platform (40 inch minimum) for dual ramped entry raised platforms.
 
 
 
@@ -417,15 +417,15 @@ Section 2 describes important contextual considerations that guided the thinking
 
 **2.1 Health Care Experiences of Persons with Disabilities**
 
-The approximately 57 million U.S. residents living with disabilities vary widely in the nature of the conditions underlying their disabilities and their overall health care needs. On one level, most persons with disabilities require the same services recommended for all individuals to maintain their health and diagnose diseases at early, more treatable stages, such as the screening and preventive services recommended by the U.S. Preventive Services Task Force.[A](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#a) Many persons also require specific diagnostic and therapeutic services because of the health conditions causing their functional impairments and disability. Other persons might need diagnostic testing or therapeutic treatments to address secondary disabilities or conditions related to their primary disabilities.[B](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#b) In addition, as they age, persons with disabilities experience many of the same chronic conditions as do others in late middle-age and older years, such as hypertension, diabetes, cardiovascular and pulmonary diseases, and cancers, necessitating the full range of diagnostic and therapeutic health care services.
+The approximately 57 million U.S. residents living with disabilities vary widely in the nature of the conditions underlying their disabilities and their overall health care needs. On one level, most persons with disabilities require the same services recommended for all individuals to maintain their health and diagnose diseases at early, more treatable stages, such as the screening and preventive services recommended by the U.S. Preventive Services Task Force.[A](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#a) Many persons also require specific diagnostic and therapeutic services because of the health conditions causing their functional impairments and disability. Other persons might need diagnostic testing or therapeutic treatments to address secondary disabilities or conditions related to their primary disabilities.[B](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#b) In addition, as they age, persons with disabilities experience many of the same chronic conditions as do others in late middle-age and older years, such as hypertension, diabetes, cardiovascular and pulmonary diseases, and cancers, necessitating the full range of diagnostic and therapeutic health care services.
 
-Regardless of their health care needs, persons with disabilities are particularly susceptible to experiencing substandard care. Reasons for quality shortfalls run the gamut, from: clinicians' failures to understand the values, preferences, needs, and expectations of persons with disabilities for their health care (such failures contribute to inadequate or faulty communication, which can compromise care); to financial barriers caused by insufficient or missing health insurance coverage; to inaccessible buildings and medical equipment. In 2000, Healthy People 2010 from the U.S. Department of Health and Human Services, which sets decennial national health priorities, cautioned that "as a potentially underserved group, people with disabilities would be expected to experience disadvantages in health and well-being compared with the general population."[1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#1) The report asserted that common misconceptions about people with disabilities contribute to troubling disparities in the services they receive, especially due to an "underemphasis on health promotion and disease prevention activities."
+Regardless of their health care needs, persons with disabilities are particularly susceptible to experiencing substandard care. Reasons for quality shortfalls run the gamut, from: clinicians' failures to understand the values, preferences, needs, and expectations of persons with disabilities for their health care (such failures contribute to inadequate or faulty communication, which can compromise care); to financial barriers caused by insufficient or missing health insurance coverage; to inaccessible buildings and medical equipment. In 2000, Healthy People 2010 from the U.S. Department of Health and Human Services, which sets decennial national health priorities, cautioned that "as a potentially underserved group, people with disabilities would be expected to experience disadvantages in health and well-being compared with the general population."[1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#1) The report asserted that common misconceptions about people with disabilities contribute to troubling disparities in the services they receive, especially due to an "underemphasis on health promotion and disease prevention activities."
 
-Numerous other federal reports have highlighted concerns about health care disparities among persons with disabilities. On July 26, 2005, the fifteenth anniversary of the signing of the Americans with Disabilities Act (ADA, P.L. 101-336), the U.S. Surgeon General issued a Call to Action, warning that people with disabilities can lack equal access to health care and urging their inclusion in studies of health care disparities.[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#2) The National Healthcare Disparities Reports, released annually by the Agency for Healthcare Research and Quality examine disparities in health[3](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#3) and dental[4](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#4) care for persons with disabilities, among other populations that experience disabilities (e.g., racial and ethnic minorities).[C](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#c) In its 2009 report, the National Council on Disability echoed concerns about health care disparities among persons with disabilities, but underscored the need to gather better data on this issue.[5](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#5) The current iteration of Healthy People -- Healthy People 2020, the decennial report from the U.S. Department of Health and Human Services that identifies national health improvement priorities for 2010 through 2020 -- continues to note health care disparities for persons with disabilities. Among its various objectives for this population, Healthy People 2020 includes decreasing barriers within health care facilities ([www.healthypeople.gov/2020](http://www.healthypeople.gov/2020)).
+Numerous other federal reports have highlighted concerns about health care disparities among persons with disabilities. On July 26, 2005, the fifteenth anniversary of the signing of the Americans with Disabilities Act (ADA, P.L. 101-336), the U.S. Surgeon General issued a Call to Action, warning that people with disabilities can lack equal access to health care and urging their inclusion in studies of health care disparities.[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#2) The National Healthcare Disparities Reports, released annually by the Agency for Healthcare Research and Quality examine disparities in health[3](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#3) and dental[4](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#4) care for persons with disabilities, among other populations that experience disabilities (e.g., racial and ethnic minorities).[C](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#c) In its 2009 report, the National Council on Disability echoed concerns about health care disparities among persons with disabilities, but underscored the need to gather better data on this issue.[5](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#5) The current iteration of Healthy People -- Healthy People 2020, the decennial report from the U.S. Department of Health and Human Services that identifies national health improvement priorities for 2010 through 2020 -- continues to note health care disparities for persons with disabilities. Among its various objectives for this population, Healthy People 2020 includes decreasing barriers within health care facilities ([www.healthypeople.gov/2020](http://www.healthypeople.gov/2020)).
 
-A growing body of research documents the specific health care disparities experienced by persons with disabilities. Systematically examining this evidence is beyond the scope of this report, but to provide context for later discussions about MDE, we provide one example that exemplifies this research -- findings from the National Health Interview Survey (NHIS)[D](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#d) about mammography screening and Pap testing among women with and without disabilities.[6](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#6) As shown in Table 2.1, women with self-reported disabilities of different types are substantially less likely than other women to receive these critical screening tests. Among women who self-report mobility difficulties, screening rates fall linearly as the severity of mobility limitations increases. For women reporting the most severe mobility limitations, only 54.9% and 54.2% receive mammography and Pap tests respectively, compared with 74.4% and 82.5% respectively for women reporting no disability.
+A growing body of research documents the specific health care disparities experienced by persons with disabilities. Systematically examining this evidence is beyond the scope of this report, but to provide context for later discussions about MDE, we provide one example that exemplifies this research -- findings from the National Health Interview Survey (NHIS)[D](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#d) about mammography screening and Pap testing among women with and without disabilities.[6](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#6) As shown in Table 2.1, women with self-reported disabilities of different types are substantially less likely than other women to receive these critical screening tests. Among women who self-report mobility difficulties, screening rates fall linearly as the severity of mobility limitations increases. For women reporting the most severe mobility limitations, only 54.9% and 54.2% receive mammography and Pap tests respectively, compared with 74.4% and 82.5% respectively for women reporting no disability.
 
-The NHIS does not ask survey respondents why they do not receive these screening services. Many factors could explain these disparities, including differing health priorities and persons' preferences for care.[E](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#e) Additional considerations include financial access disparities (e.g., inadequate or absent insurance coverage), transportation problems, and other socioeconomic discrepancies. However, especially for women with mobility disabilities, one explanation is physical barriers to accessing medical equipment, such as examination tables and mammography machines.
+The NHIS does not ask survey respondents why they do not receive these screening services. Many factors could explain these disparities, including differing health priorities and persons' preferences for care.[E](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#e) Additional considerations include financial access disparities (e.g., inadequate or absent insurance coverage), transportation problems, and other socioeconomic discrepancies. However, especially for women with mobility disabilities, one explanation is physical barriers to accessing medical equipment, such as examination tables and mammography machines.
 
 **Table 2.1**
 
@@ -433,7 +433,7 @@ The NHIS does not ask survey respondents why they do not receive these screening
 **Women with and without Different Disabling Conditions**
 
 
-| Type of difficulty           | Mammography in past 2 years\* | Pap tests in past 3 years\*\* |
+| Type of difficulty           | Mammography in past 2 years\* | Pap tests in past 3 years\*\* |
 |------------------------------|-------------------------------|-------------------------------|
 | No disability                | 74\.4%                        | 82\.5%                        |
 | Movement difficulty \(any\)  | 66\.4                         | 69\.3                         |
@@ -451,29 +451,29 @@ The NHIS does not ask survey respondents why they do not receive these screening
 *Women age 50 and older **Women age 18 and older\
 ADAPTED FROM: Altman B, Bernstein A. Disability and Health in the United States, 2001-2005. Hyattsville, MD: National Center for Health Statistics; 2008
 
-The consequences of these health care disparities for persons with disabilities have not yet been fully explored. Healthy People 2010 speculated about the potential for disadvantages in health and well-being for persons with disabilities.[1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#1) The possibilities of diagnostic delays and poor patient outcomes from lower use of highly-rated tests like mammography and Pap testing seem clear. More studies are needed to quantify precisely how health care disparities affect the longevity, health, well-being, and quality of life of persons with disabilities.
+The consequences of these health care disparities for persons with disabilities have not yet been fully explored. Healthy People 2010 speculated about the potential for disadvantages in health and well-being for persons with disabilities.[1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#1) The possibilities of diagnostic delays and poor patient outcomes from lower use of highly-rated tests like mammography and Pap testing seem clear. More studies are needed to quantify precisely how health care disparities affect the longevity, health, well-being, and quality of life of persons with disabilities.
 
 **2.2 Evidence of Physical Accessibility Barriers**
 
-A growing number of research publications document physical access barriers involving MDE, including reports concerning: individual patients;7-9 findings from focus groups, in-depth individual interviews, or surveys of relatively small numbers of patients[10-21](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#10) or practitioners;[18](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#18), [22](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#22) and several larger studies.[23-25](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#23) One challenge with identifying specific accessibility barriers is the extreme diversity of persons with disabilities and complexity of health care delivery system settings.[26](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#26), [27](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#27) Nonetheless, the group and individual interview studies give voice to the experiences of persons with disabilities, offering insights into their often-shared experiences of physical access barriers involving medical equipment in both diagnosis and treatment settings.[7-20](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#7)
+A growing number of research publications document physical access barriers involving MDE, including reports concerning: individual patients;7-9 findings from focus groups, in-depth individual interviews, or surveys of relatively small numbers of patients[10-21](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#10) or practitioners;[18](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#18), [22](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#22) and several larger studies.[23-25](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#23) One challenge with identifying specific accessibility barriers is the extreme diversity of persons with disabilities and complexity of health care delivery system settings.[26](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#26), [27](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#27) Nonetheless, the group and individual interview studies give voice to the experiences of persons with disabilities, offering insights into their often-shared experiences of physical access barriers involving medical equipment in both diagnosis and treatment settings.[7-20](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#7)
 
-For example, in a study of 20 women with significant mobility difficulties who subsequently developed early-stage breast cancer, women described various strategies for getting onto fixed-height examination tables.[11](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#11) Several women dismissed as unhelpful step stools or the step built into fixed height tables, including a woman with paraplegia from the long-term effects of childhood polio:
+For example, in a study of 20 women with significant mobility difficulties who subsequently developed early-stage breast cancer, women described various strategies for getting onto fixed-height examination tables.[11](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#11) Several women dismissed as unhelpful step stools or the step built into fixed height tables, including a woman with paraplegia from the long-term effects of childhood polio:
 
 I can't use the little thing they pull out for you to step up on. No, no, no, that doesn't work for me. I have to go on the side ... in the middle of the table. I belly flop on the table and use my arms to pull me so my body is [lying across the table]. Then I take my arm and lift the leg with the brace ... up on the table, and the other one will follow with my body as I try to turn over. Of course, everyone is scared to death that I'm going to fall off the other side. ... Mind you, I'm still on my stomach. Now I'm shifting so my head is going towards the top of the table. ... Now I'm lengthwise, but I'm on my stomach, so I've got to turn over.[11](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#11)
 
-Women reported needing assistance getting onto inaccessible equipment, such as a woman with spinal cord injury who was lifted onto examining tables "by either a couple of nurses or some guys in the hallway."[11](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#11) A woman with multiple sclerosis would "usually just ask someone to lift my feet up and to stabilize whatever I'm transferring to if it doesn't look stable." Another woman with rheumatoid arthritis said, "I'm afraid of people grabbing me the wrong way. So I have to be careful, and I have to tell them how to handle me." One woman with cerebral palsy described her staff-assisted transfer onto the examining table as "very awkward and very hard. I had a couple of doctors and nurses. One nurse ... strained her back when she was trying to help me get up on the table. I really felt bad about that."
+Women reported needing assistance getting onto inaccessible equipment, such as a woman with spinal cord injury who was lifted onto examining tables "by either a couple of nurses or some guys in the hallway."[11](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#11) A woman with multiple sclerosis would "usually just ask someone to lift my feet up and to stabilize whatever I'm transferring to if it doesn't look stable." Another woman with rheumatoid arthritis said, "I'm afraid of people grabbing me the wrong way. So I have to be careful, and I have to tell them how to handle me." One woman with cerebral palsy described her staff-assisted transfer onto the examining table as "very awkward and very hard. I had a couple of doctors and nurses. One nurse ... strained her back when she was trying to help me get up on the table. I really felt bad about that."
 
-Most troubling, studies have found that sometimes patients are not transferred onto examination tables for complete physical examinations: instead clinicians examine patients who remain seated in their wheelchairs or scooters. While sometimes this might be reasonable (e.g., if the patient has a condition that does not require complete physical examination), in many situations such limited examinations represent substandard care. For example, in the breast cancer study, physicians often examined women who remained seated in their wheelchairs.[11](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#11) This represents poor quality care,[F](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#f) as a woman disabled by polio who uses a scooter observed:
+Most troubling, studies have found that sometimes patients are not transferred onto examination tables for complete physical examinations: instead clinicians examine patients who remain seated in their wheelchairs or scooters. While sometimes this might be reasonable (e.g., if the patient has a condition that does not require complete physical examination), in many situations such limited examinations represent substandard care. For example, in the breast cancer study, physicians often examined women who remained seated in their wheelchairs.[11](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#11) This represents poor quality care,[F](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#f) as a woman disabled by polio who uses a scooter observed:
 
 Even when I go to my oncologist, he will say, "Oh, don't bother to get on the table. Just sit in the chair." Well, I don't feel I can get an adequate breast examination ... from that particular doctor without being able to ... lay down.[11](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#11)
 
-One woman's breast surgeon, during their first appointment, said he would examine her in her wheelchair.[11](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#11) But the woman insisted on being moved to an examining table for a complete evaluation. The surgeon "and this other person lifted me onto the table, but I had to ask to have the breast exam on the table." These types of stories raise questions about whether diagnoses are delayed by inadequate physical examinations. One woman, who is quadriplegic from polio, reported that her primary care physician always refused to get her out of her wheelchair and instead examined her as she remained seated.[14 ](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#14)When she visited a gastroenterologist for inflammatory bowel disease, that physician conducted a complete physical examination with her supine on an exam table. As the woman's husband observed, the gastroenterologist ''was basically filling in as her primary care.'' The woman described how her breast cancer was detected: ''He [the gastroenterologist] was examining me, and he went, 'Uh-oh.' 'Uh-oh, what?' 'I found a lump.' So that's when we found the lump.''[14](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#14)
+One woman's breast surgeon, during their first appointment, said he would examine her in her wheelchair.[11](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#11) But the woman insisted on being moved to an examining table for a complete evaluation. The surgeon "and this other person lifted me onto the table, but I had to ask to have the breast exam on the table." These types of stories raise questions about whether diagnoses are delayed by inadequate physical examinations. One woman, who is quadriplegic from polio, reported that her primary care physician always refused to get her out of her wheelchair and instead examined her as she remained seated.[14 ](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#14)When she visited a gastroenterologist for inflammatory bowel disease, that physician conducted a complete physical examination with her supine on an exam table. As the woman's husband observed, the gastroenterologist ''was basically filling in as her primary care.'' The woman described how her breast cancer was detected: ''He [the gastroenterologist] was examining me, and he went, 'Uh-oh.' 'Uh-oh, what?' 'I found a lump.' So that's when we found the lump.''[14](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#14)
 
-No nationally-representative studies have reported on MDE accessibility barriers across the range of health care delivery systems (e.g., private physician offices, health centers, hospital clinics, public health facilities, urgent care centers, practices of other health care professionals such as nurse practitioners, physician assistants, and rehabilitation therapists). Several larger studies give a sense of the prevalence of selected physical access barriers. Although not specific to MDE, one round of the biennial Los Angeles County Health Survey offers prevalence estimates of physical access barriers to health care offices.[23](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#23) This random-digit-dialed telephone survey of adult (age >18 years), non-institutionalized residents of Los Angeles County occurred from October 2002 through February 2003, with interviews conducted in English, Spanish, and four Asian languages. Of the 14,154 eligible adults contacted, 8,167 (57.7%) completed the telephone interview. Persons who answered "yes" to at least one of three questions about impairments expected to last 3 months were considered disabled.[G](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#g) The survey asked about five barriers to participation in community life, including health care.[H](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#h) Among individuals reporting sensory or physical disabilities, 22.0% indicated difficulty accessing offices of health care providers because of its physical layout or location. Among non-Hispanic respondents, blacks were significantly more likely than whites to report access barriers (33.0 versus 14.4%). Persons with the most severe disabilities reported significantly more difficulties than did persons with the least severe disabilities (30.9 versus 13.8%). Commenting on these results, which appeared in their publication, the editors of Morbidity and Mortality Weekly Report from the CDC noted, "Accessibility to offices of healthcare providers could be improved by lowering service counters and examination tables and ensuring that scales are wheelchair accessible."[23](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#23)
+No nationally-representative studies have reported on MDE accessibility barriers across the range of health care delivery systems (e.g., private physician offices, health centers, hospital clinics, public health facilities, urgent care centers, practices of other health care professionals such as nurse practitioners, physician assistants, and rehabilitation therapists). Several larger studies give a sense of the prevalence of selected physical access barriers. Although not specific to MDE, one round of the biennial Los Angeles County Health Survey offers prevalence estimates of physical access barriers to health care offices.[23](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#23) This random-digit-dialed telephone survey of adult (age >18 years), non-institutionalized residents of Los Angeles County occurred from October 2002 through February 2003, with interviews conducted in English, Spanish, and four Asian languages. Of the 14,154 eligible adults contacted, 8,167 (57.7%) completed the telephone interview. Persons who answered "yes" to at least one of three questions about impairments expected to last 3 months were considered disabled.[G](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#g) The survey asked about five barriers to participation in community life, including health care.[H](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#h) Among individuals reporting sensory or physical disabilities, 22.0% indicated difficulty accessing offices of health care providers because of its physical layout or location. Among non-Hispanic respondents, blacks were significantly more likely than whites to report access barriers (33.0 versus 14.4%). Persons with the most severe disabilities reported significantly more difficulties than did persons with the least severe disabilities (30.9 versus 13.8%). Commenting on these results, which appeared in their publication, the editors of Morbidity and Mortality Weekly Report from the CDC noted, "Accessibility to offices of healthcare providers could be improved by lowering service counters and examination tables and ensuring that scales are wheelchair accessible."[23](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#23)
 
-Another report from California provides perhaps the most specific information about the prevalence of physical access barriers, including MDE. Mudrick and colleagues analyzed findings from a 55-item instrument that assessed medical office or clinic parking, exterior access, building entrances, interior public spaces, doctor's office interiors, and the presence of accessible examination equipment.[24](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#24) Using this instrument, 5 health plans serving California Medicaid patients conducted reviews of providers that had signed with their plans. These data were merged across plans for analysis. With the exception of van accessible parking (which was inadequate), parking, exterior access, building access, and interior public spaces generally complied with the access criteria. However, barriers were found frequently in bathrooms and examination rooms. In particular, only 3.6% of the sites had an accessible weight scale, and just 8.4% had a height adjustable examination table.[24](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#24)
+Another report from California provides perhaps the most specific information about the prevalence of physical access barriers, including MDE. Mudrick and colleagues analyzed findings from a 55-item instrument that assessed medical office or clinic parking, exterior access, building entrances, interior public spaces, doctor's office interiors, and the presence of accessible examination equipment.[24](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#24) Using this instrument, 5 health plans serving California Medicaid patients conducted reviews of providers that had signed with their plans. These data were merged across plans for analysis. With the exception of van accessible parking (which was inadequate), parking, exterior access, building access, and interior public spaces generally complied with the access criteria. However, barriers were found frequently in bathrooms and examination rooms. In particular, only 3.6% of the sites had an accessible weight scale, and just 8.4% had a height adjustable examination table.[24](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#24)
 
-To learn about the accessibility of medical and surgical subspecialist practices for patients who use wheelchairs, Lagu and colleagues conducted a "secret shopper"-type telephone survey.[25](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#25) The researchers called subspecialty offices ostensibly to make an appointment for a fictional patient with hemiparesis who was obese, used a wheelchair, and could not self-transfer from the wheelchair chair to an examination table. They spoke with 256 endocrinology, gynecology, orthopedic surgery, rheumatology, urology, ophthalmology, otolaryngology, and psychiatry practices in 4 U.S. cities and asked about the accessibility of the practice, reasons for lack of accessibility, and the planned method of transfer of the patient to an examination table. Of the 256 practices, 56 (22%) reported that they could not accommodate the patient; 9 (4%) indicated that their building was inaccessible; and 47 (18%) said they could not transfer the patient from the wheelchair to an examination table. Only 22 (9%) reported use of either a height-adjustable examination table or a lift for transfer. Among the various specialties, gynecology had the highest rate of inaccessible practices (44%).[25](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#25)
+To learn about the accessibility of medical and surgical subspecialist practices for patients who use wheelchairs, Lagu and colleagues conducted a "secret shopper"-type telephone survey.[25](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#25) The researchers called subspecialty offices ostensibly to make an appointment for a fictional patient with hemiparesis who was obese, used a wheelchair, and could not self-transfer from the wheelchair chair to an examination table. They spoke with 256 endocrinology, gynecology, orthopedic surgery, rheumatology, urology, ophthalmology, otolaryngology, and psychiatry practices in 4 U.S. cities and asked about the accessibility of the practice, reasons for lack of accessibility, and the planned method of transfer of the patient to an examination table. Of the 256 practices, 56 (22%) reported that they could not accommodate the patient; 9 (4%) indicated that their building was inaccessible; and 47 (18%) said they could not transfer the patient from the wheelchair to an examination table. Only 22 (9%) reported use of either a height-adjustable examination table or a lift for transfer. Among the various specialties, gynecology had the highest rate of inaccessible practices (44%).[25](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#25)
 
 **2.3 Implications of MDE Accessibility for Clinical Staff**
 
@@ -497,17 +497,17 @@ SOURCE: Chen PW, "Disability and Discrimination at the Doctor's Office," New Yor
 
  |
 
-Thousands of health care personnel are injured every year from manually lifting patients, including persons with and without disabilities. Direct-care registered nurses rank tenth among all occupations for developing musculoskeletal disorders.[28](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#28) Because of back injuries from manually moving patients, 12% of nurses leave the profession every year.[29](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#29) In 2010, nursing aides, orderlies, and attendants experienced:[30](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#30)
+Thousands of health care personnel are injured every year from manually lifting patients, including persons with and without disabilities. Direct-care registered nurses rank tenth among all occupations for developing musculoskeletal disorders.[28](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#28) Because of back injuries from manually moving patients, 12% of nurses leave the profession every year.[29](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#29) In 2010, nursing aides, orderlies, and attendants experienced:[30](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#30)
 
 -   An incident rate of 249 cases/10,000 full-time workers for musculoskeletal disorder (MSD) cases with days away from work;
 -   27,020 MSD cases with days away from work; and
 -   An incident rate of 283 cases/10,000 full-time workers for nonfatal occupational injuries and illnesses involving days away from work.
 
-This high incidence of injuries among clinical staff has heightened attention by government, health care professional, and industry leaders. In 2009, federal legislation was introduced to address this problem: The Nurse and Healthcare Worker Protection Act (H.R 2381). While this legislative effort failed, it is likely that similar legislation will be proposed in future Congressional sessions. Currently, "Safe Patient Handling" (SPH) laws have been enacted in 10 states,[31](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#31) and Hawaii has passed a SPH resolution. As of June 2013, the American Nurses Association had released National Practice Standards for Safe Patient Handling.[32](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#32)
+This high incidence of injuries among clinical staff has heightened attention by government, health care professional, and industry leaders. In 2009, federal legislation was introduced to address this problem: The Nurse and Healthcare Worker Protection Act (H.R 2381). While this legislative effort failed, it is likely that similar legislation will be proposed in future Congressional sessions. Currently, "Safe Patient Handling" (SPH) laws have been enacted in 10 states,[31](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#31) and Hawaii has passed a SPH resolution. As of June 2013, the American Nurses Association had released National Practice Standards for Safe Patient Handling.[32](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#32)
 
-The National Institute for Occupational Safety and Health (NIOSH), in the CDC, recommends manual lifting of no more than 51 pounds in ideal conditions. In 1994, NIOSH/CDC) released the Application Manual for the Revised NIOSH Lifting Equation,[33](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#33) which provides an ergonomics assessment tool for calculating the recommended weight limit for two-handed manual-lifting tasks. However, NIOSH excluded assessment of patient-handling tasks from the uses of the revised equation, arguing that such tasks involve too many variables. Nevertheless, the NIOSH Lifting Equation can be used to calculate a recommended weight limit for a limited range of patient-handling tasks in which the patient is cooperative and unlikely to move suddenly during the task. In general, the revised equation yields a recommended 35-pound maximum weight limit for these patient-handling tasks. When the weight to be lifted exceeds 35 pounds, assistive devices should be used.[34](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#34)
+The National Institute for Occupational Safety and Health (NIOSH), in the CDC, recommends manual lifting of no more than 51 pounds in ideal conditions. In 1994, NIOSH/CDC) released the Application Manual for the Revised NIOSH Lifting Equation,[33](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#33) which provides an ergonomics assessment tool for calculating the recommended weight limit for two-handed manual-lifting tasks. However, NIOSH excluded assessment of patient-handling tasks from the uses of the revised equation, arguing that such tasks involve too many variables. Nevertheless, the NIOSH Lifting Equation can be used to calculate a recommended weight limit for a limited range of patient-handling tasks in which the patient is cooperative and unlikely to move suddenly during the task. In general, the revised equation yields a recommended 35-pound maximum weight limit for these patient-handling tasks. When the weight to be lifted exceeds 35 pounds, assistive devices should be used.[34](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#34)
 
-As suggested above,[25](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#25) the availability of these assistive devices is still quite limited especially in doctors' offices, clinics, and specialists' offices where many examinations and medical diagnostic tests occur. When assistive devices are not available, clinical staff must manually transfer patients to exam tables and onto diagnostic equipment. Such transfers greatly exceed the 35-lb maximum weight limit and place health care workers at significant risk of injury. However, if equipment is designed such that patients in wheelchairs and scooters can transfer independently or with moderate assistance, the risk of injury to health care workers can be greatly reduced for this task. The use of lifts also can reduce the risk of injury for patients and staff. The risk of injury will also decrease with improved accessibility of medical diagnostic equipment for other individuals with limited mobility, such as the older individuals, pregnant women, and persons with extreme obesity.
+As suggested above,[25](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#25) the availability of these assistive devices is still quite limited especially in doctors' offices, clinics, and specialists' offices where many examinations and medical diagnostic tests occur. When assistive devices are not available, clinical staff must manually transfer patients to exam tables and onto diagnostic equipment. Such transfers greatly exceed the 35-lb maximum weight limit and place health care workers at significant risk of injury. However, if equipment is designed such that patients in wheelchairs and scooters can transfer independently or with moderate assistance, the risk of injury to health care workers can be greatly reduced for this task. The use of lifts also can reduce the risk of injury for patients and staff. The risk of injury will also decrease with improved accessibility of medical diagnostic equipment for other individuals with limited mobility, such as the older individuals, pregnant women, and persons with extreme obesity.
 
 **2.4 MDE Manufacturers and Accessibility**
 
@@ -515,23 +515,23 @@ As suggested above,[25](https://www.access-board.gov/guidelines-and-standards/he
 
 The Americans with Disabilities Act and Section 504 of the Rehabilitation Act of 1973 already require that covered medical care providers ensure the provision of medical care and services to persons with disabilities in a nondiscriminatory manner. These federal laws also require that persons with disabilities have an equal opportunity to participate in and benefit from the providers' medical services, including having access to health care facilities and to the medical equipment used to provide services. Accessible medical equipment is required in order to meet this nondiscrimination obligation and eliminate the barriers that inaccessible equipment can create for persons with disabilities. As is discussed below, the regulations implementing these federal laws do not currently include specific technical requirements for the accessibility of non-fixed medical equipment, although steps are underway by the Department of Justice to propose specific ADA technical standards for medical equipment.
 
-Even without specific technical requirements for non-fixed medical equipment, the examination table marketplace is developing and selling more equipment intended to meet accessibility needs. As noted above, historically, fixed-height examination tables set at 32" for the convenience of clinicians have dominated the health care delivery system. Increasingly, these so-called "box tables" are being replaced by examination tables that are height adjustable, such as that shown in Figure 2.4.1(a). Typically, height adjustable tables today lower to about 19" from the floor.[I](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#i) Sales figures from examination table manufacturers indicate that in 2012, about 25% of examination tables sold are height-adjustable (Figure 2.4.1(b)).
+Even without specific technical requirements for non-fixed medical equipment, the examination table marketplace is developing and selling more equipment intended to meet accessibility needs. As noted above, historically, fixed-height examination tables set at 32" for the convenience of clinicians have dominated the health care delivery system. Increasingly, these so-called "box tables" are being replaced by examination tables that are height adjustable, such as that shown in Figure 2.4.1(a). Typically, height adjustable tables today lower to about 19" from the floor.[I](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#i) Sales figures from examination table manufacturers indicate that in 2012, about 25% of examination tables sold are height-adjustable (Figure 2.4.1(b)).
 
-Other MDE manufacturers have also begun addressing accessibility issues, primarily within certain specialized populations. For example, manufacturers of diagnostic imaging equipment have produced equipment specifically to serve pediatric populations and persons with extreme obesity (so-called "bariatric" equipment).[J](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#j) Diagnostic imaging equipment manufacturers are also designing equipment for specific health care delivery settings, including facilities with lower financial resources (e.g., institutions in rural regions, developing countries) and hospital emergency departments. As part of designing for broader patient populations and delivery settings, new equipment designs incorporate patient and clinician usability considerations, such as adjustable table heights and table minimum heights.
+Other MDE manufacturers have also begun addressing accessibility issues, primarily within certain specialized populations. For example, manufacturers of diagnostic imaging equipment have produced equipment specifically to serve pediatric populations and persons with extreme obesity (so-called "bariatric" equipment).[J](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#j) Diagnostic imaging equipment manufacturers are also designing equipment for specific health care delivery settings, including facilities with lower financial resources (e.g., institutions in rural regions, developing countries) and hospital emergency departments. As part of designing for broader patient populations and delivery settings, new equipment designs incorporate patient and clinician usability considerations, such as adjustable table heights and table minimum heights.
 
 **Figure 2.4.1(a)**
 
 **Height Adjustable and Fixed-Height "Box" Examination Tables**
 
- ![Fixed height examination table on right, adjustable height examination  table on left.  Woman in manual wheelchair positioned between the two tables.]({{ site.baseurl }}/images/advisory-committee-reports/mde/2-1.jpg)\
-(SOURCE: Midmark Corporation) Fixed height table on right, adjustable height table on left.\
+ ![Fixed height examination table on right, adjustable height examination  table on left.  Woman in manual wheelchair positioned between the two tables.]({{ site.baseurl }}/images/advisory-committee-reports/mde/2-1.jpg)\
+(SOURCE: Midmark Corporation) Fixed height table on right, adjustable height table on left.\
 **Figure 2.4.1(b)**
 
 **Types of Examination Tables Sold: 2005-2012**
 
- **![A graph depicting the types of examination tables sold between 2005 and 2012.  The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).]({{ site.baseurl }}/images/advisory-committee-reports/mde/2-2.jpg)**
+ **![A graph depicting the types of examination tables sold between 2005 and 2012.  The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).]({{ site.baseurl }}/images/advisory-committee-reports/mde/2-2.jpg)**
 
-(SOURCE: Global Healthcare Exchange (GHX)) The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).
+(SOURCE: Global Healthcare Exchange (GHX)) The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).
 
 **2.4.2 Considerations of Manufacturers in Accessible MDE Design**
 
@@ -544,7 +544,7 @@ These standards, regulations, and recommended practices provide details concerni
 -   Instability hazards: including the risk of the equipment tipping. Avoiding dangerous tipping is particularly important as patients transfer onto or off of MDE or reposition themselves upon it. As the width of MDE, such as examination tables and chairs increases, equipment may require redesign to address changes in tipping hazards. To mitigate tipping risks, the size of table and chair bases can be increased. This increase in base size can affect lift capability, reduce the open areas around equipment in the examination room, and require significant product redesigns (e.g., to ensure lift compatibility).
 -   Patient support safety factors: Patient support devices must meet applicable safety factors as delineated in IEC 60601-1. These factors typically range from 4x to 8x. This means a patient table labeled to support a 500 lb. patient must actually be designed and tested at up to 4,000 lbs. This has significant implications for adjustable height table design as many designs lose mechanical advantages as they go lower.
 
-To guide their design efforts, manufacturers rely on anthropometric information,[L](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#l) such as the specific measurements of men and women from the 5th to 95th percentiles. They also must consider the use of the MDE for the operator, including accessibility for the operator, topics which are not addressed in the NPRM. For example, accessibility standards could define operator requirements for communication (M306) and operable parts (M307). This is particularly important regarding standards for proper ergonomics for lifting and bending, which should meet Occupational Safety and Health Administration (OSHA) Standards (Section 2.3).[M](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#m)
+To guide their design efforts, manufacturers rely on anthropometric information,[L](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#l) such as the specific measurements of men and women from the 5th to 95th percentiles. They also must consider the use of the MDE for the operator, including accessibility for the operator, topics which are not addressed in the NPRM. For example, accessibility standards could define operator requirements for communication (M306) and operable parts (M307). This is particularly important regarding standards for proper ergonomics for lifting and bending, which should meet Occupational Safety and Health Administration (OSHA) Standards (Section 2.3).[M](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#m)
 
 For clinical personnel, as the size of the transfer surface increases, the likelihood rises of putting clinical personnel into an unfavorable ergonomic position as a result of increasing their need to reach, lean or stretch. OSHA standards speak directly to this issue of ergonomic hazards within health care, including specific concerns about awkward postures and patient handling.[N](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#n)
 
@@ -552,7 +552,7 @@ Another critical factor that must be considered is the ability of clinical staff
 
 **2.4.3 Impetus for Manufacturers to Improve MDE Accessibility**
 
-MDE manufacturers have strong ties to health care professionals and interests in meeting patient care needs. They are committed to making devices that improve and expand the capability of clinical practitioners to provide high quality care. Their design processes are centered around delivering high quality medical devices based on advice primarily from medical professionals, although some manufacturers occasionally seek input from patients during the design phase (e.g., by asking persons with disabilities to test different design options). Manufacturers must follow FDA quality system regulations that require them not only to verify that their devices operate per design but also to validate that the devices meet the needs of health care professionals. MDE manufacturers also are aware of the existing requirements under the ADA and the Rehabilitation Act. Furthermore, highly-publicized legal settlements with medical providers that have required the provision of accessible medical equipment are driving increased demand and an expanding market for accessible MDE.[O](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#o) Equipment designed for accessibility that is currently on the market has satisfied these settlement agreements
+MDE manufacturers have strong ties to health care professionals and interests in meeting patient care needs. They are committed to making devices that improve and expand the capability of clinical practitioners to provide high quality care. Their design processes are centered around delivering high quality medical devices based on advice primarily from medical professionals, although some manufacturers occasionally seek input from patients during the design phase (e.g., by asking persons with disabilities to test different design options). Manufacturers must follow FDA quality system regulations that require them not only to verify that their devices operate per design but also to validate that the devices meet the needs of health care professionals. MDE manufacturers also are aware of the existing requirements under the ADA and the Rehabilitation Act. Furthermore, highly-publicized legal settlements with medical providers that have required the provision of accessible medical equipment are driving increased demand and an expanding market for accessible MDE.[O](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#o) Equipment designed for accessibility that is currently on the market has satisfied these settlement agreements
 
 Thus, the needs of their institutional and clinical customers strongly influence MDE manufacturers. Health care facilities that would be required to acquire equipment to satisfy new accessibility regulations will quickly look to equipment manufacturers for solutions that are compliant, cost effective, and functional in their workflows and work environments. Being able to fulfill this customer need will thus become both a design input consideration as well as a point of competition among manufacturers.
 
@@ -570,9 +570,9 @@ FDA's Quality System Regulation was codified in Title 21, Part 820 of the Code o
 
 FDA classifies medical devices based on the level of risk of harm they present to patients and users. There are three classes, ordered from low to high risk: Class I, II, and III. With few exceptions, the medical diagnostic equipment covered by the proposed accessibility standards is either FDA Class I or Class II.
 
--   **Class I** devices typically do not require any form of premarket clearance or approval from the FDA, but the manufacturers are still required to follow the FDA Quality System Regulation (in 21 CFR 820) and are subject to FDA audit. Examples include examination tables and chairs.
--   **Class II** devices are required to follow the FDA Quality System Regulation and usually must receive FDA clearance prior to being introduced into commerce in the US. To receive FDA clearance, the manufacturer must submit a premarket notification (known as a "510(k)" per 21 CFR 807, Subpart E) if a device is being introduced into commercial distribution for the first time, or if a device has been changed in a way that could significantly affect the device's safety or effectiveness. The FDA performs scientific and clinical reviews of the contents of 510(k) submissions to determine whether the device is substantially equivalent to a predicate device already in commercial distribution. Examples include most diagnostic imaging systems.
--   **Class III** devices either represent new device technologies or are devices (such as life supporting devices) that are associated with the highest levels of risk because they have the greatest potential for adverse public health effects if problems, such as device malfunctions or use errors, occur. This class of devices must go through a more rigorous FDA premarket process, specified in 21 CFR 814, for premarket approval (PMA). Currently only some digital mammography devices covered under the proposed accessibility standards fall into this classification.
+-   **Class I** devices typically do not require any form of premarket clearance or approval from the FDA, but the manufacturers are still required to follow the FDA Quality System Regulation (in 21 CFR 820) and are subject to FDA audit. Examples include examination tables and chairs.
+-   **Class II** devices are required to follow the FDA Quality System Regulation and usually must receive FDA clearance prior to being introduced into commerce in the US. To receive FDA clearance, the manufacturer must submit a premarket notification (known as a "510(k)" per 21 CFR 807, Subpart E) if a device is being introduced into commercial distribution for the first time, or if a device has been changed in a way that could significantly affect the device's safety or effectiveness. The FDA performs scientific and clinical reviews of the contents of 510(k) submissions to determine whether the device is substantially equivalent to a predicate device already in commercial distribution. Examples include most diagnostic imaging systems.
+-   **Class III** devices either represent new device technologies or are devices (such as life supporting devices) that are associated with the highest levels of risk because they have the greatest potential for adverse public health effects if problems, such as device malfunctions or use errors, occur. This class of devices must go through a more rigorous FDA premarket process, specified in 21 CFR 814, for premarket approval (PMA). Currently only some digital mammography devices covered under the proposed accessibility standards fall into this classification.
 
 FDA would become involved in implementation of the proposed accessibility standards when a manufacturer wants to introduce into commercial distribution in the U.S. a new medical device or device accessory that complies with the standards or to modify an existing device to comply with the standards (Section 7.4 describes this process in greater detail). All devices that fall into Class II or Class III are subject to the FDA premarket clearance or approval process. FDA reviews the premarket submission to confirm that the device is safe and effective for its intended uses and user population. In addition, a manufacturer stating in its labeling that the device conforms to the new standards would be making a marketing claim that FDA would then be required to review and verify was accurate. A manufacturer who could comply only partially with the new standards could identify the aspects of the device that meet the requirements in the standards and, therefore, meet the criteria for FDA to allow them to be described in the device labeling as "accessible." However, any final determinations of accessibility would be made by the Department of Justice, which will be responsible for issuing any enforceable medical equipment standards. Such determinations will stem not only from the design of the medical equipment but also other concerns, such as the placement of the equipment in examination rooms.
 
@@ -594,23 +594,23 @@ IEC 60601-1 is also accompanied by a set of "Part 2" or "Particular" standards, 
 
 Conformance to these series of standards is accessed via testing by an Occupational Safety and Health Administration (OSHA) certified Nationally Recognized Testing Laboratory (NRTL) such as Underwriters Laboratories (UL). The NRTL authorizes the manufacturer to apply the test house's symbol to the medical device. This certification is required by electrical inspectors prior to introducing a piece of medical electrical equipment into a medical facility. In addition, as part of its premarket notification (510(k)) clearance process and its premarket approval process (PMA), the FDA requires manufacturers to submit evidence of conformance to these standards as part of the information they provide to demonstrate that the device is safe and effective.
 
-**2.5.2.2 International Organization for Standardization (ISO) Standards**
+**2.5.2.2 International Organization for Standardization (ISO) Standards**
 
 The primary standard from ISO used in the design of medical devices is ISO 14971, "Medical devices - Application of risk management to medical devices." Risk management plays a critical and central role in the design of medical devices, and it also ties into IEC 60601-1 and FDA's expectations for quality systems and premarket clearance or approval. Potential hazards must be identified and then assigned ratings of the probability of occurrence of harm and of the severity of the consequences of that harm. These ratings are combined to generate a risk level. If the risk level is high enough, the design must incorporate mitigations to control the risk. The risk mitigation measures must also be assessed to confirm their effectiveness at reducing the risks to acceptable levels and to ensure that they did not introduce any new hazards or risks.
 
 **2.5.2.3 FDA Standards**
 
-The FDA maintains a list of recognized consensus standards on their web site,[P](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#p) which includes standards from IEC, ISO, and other organizations. Manufacturers and assemblers of systems use these standards to demonstrate that a product is safe and effective. Depending on the classification of the equipment (see Section 2.5.1), supporting evidence of compliance to the applicable performance standards may need to be submitted to the FDA for review and approval.
+The FDA maintains a list of recognized consensus standards on their web site,[P](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#p) which includes standards from IEC, ISO, and other organizations. Manufacturers and assemblers of systems use these standards to demonstrate that a product is safe and effective. Depending on the classification of the equipment (see Section 2.5.1), supporting evidence of compliance to the applicable performance standards may need to be submitted to the FDA for review and approval.
 
-Notably, among the FDA's recognized consensus standards is ANSI/AAMI HE 75,[Q](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#q) recommended practices for human factors design principles for medical devices. Chapter 16 of ANSI/AAMI HE 75 contains recommended practices regarding accessibility for patients and health care personnel with disabilities.
+Notably, among the FDA's recognized consensus standards is ANSI/AAMI HE 75,[Q](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#q) recommended practices for human factors design principles for medical devices. Chapter 16 of ANSI/AAMI HE 75 contains recommended practices regarding accessibility for patients and health care personnel with disabilities.
 
 For radiation emitting devices (such as some diagnostic imaging equipment), FDA has a set of performance standards that focus on radiation safety to the operator and patient. These are found in the Code of Federal Regulations, specifically in Title 21, Part 1020 (21 CFR 1020), Performance Standards for Ionizing Radiation-Emitting Products, and Part 1050 (21 CFR 1050), Performance Standards for Sonic, Infrasonic and Ultrasonic Radiation-Emitting Products. Manufacturers and assemblers of applicable systems must file a report to FDA that includes test data that demonstrates compliance to the applicable performance standards for the device in question.
 
-**2.6 Brief History of Section 4203 of the Patient Protection and Affordable Care Act**
+**2.6 Brief History of Section 4203 of the Patient Protection and Affordable Care Act**
 
 The Section 4203 provisions of the Patient Protection and Affordable Care Act (ACA), which required this accessibility standard setting, apply exclusively to medical diagnostic equipment and thus leave unaddressed equipment used only for therapeutic purposes. Therefore, to set the full context for the MDE Advisory Committee's role and the recommended accessibility standards, this section briefly reviews the origins of what became Section 4203.
 
-In 2002, the National Institute on Disability and Rehabilitation Research (NIDRR) in the U.S. Department of Education awarded a five-year grant to Marquette University and its collaborators[R](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#r) to form the Rehabilitation Engineering Research Center (RERC) on Accessible Medical Instrumentation. One of the major projects funded by the grant was a study about the types of medical equipment that were most difficult for patients with disabilities to use and what caused any use difficulties discovered. The project used research methods that included (in chronological order) a national online survey, a series of regional focus groups, and a set of targeted usability studies.[21](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#21), [35](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#35), [36](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#36)
+In 2002, the National Institute on Disability and Rehabilitation Research (NIDRR) in the U.S. Department of Education awarded a five-year grant to Marquette University and its collaborators[R](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#r) to form the Rehabilitation Engineering Research Center (RERC) on Accessible Medical Instrumentation. One of the major projects funded by the grant was a study about the types of medical equipment that were most difficult for patients with disabilities to use and what caused any use difficulties discovered. The project used research methods that included (in chronological order) a national online survey, a series of regional focus groups, and a set of targeted usability studies.[21](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#21), [35](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#35), [36](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#36)
 
 The national survey results showed that the following five types of medical equipment were moderately difficult, extremely difficult, or impossibly difficult to use by ≥ 50% of the respondents:
 
@@ -626,19 +626,19 @@ The researchers investigated the details of use difficulties through a series of
 
 In 2007, as the RERC-AMI was finishing its projects, members of the U.S. Senate and the House of Representatives introduced legislation to address the problem. In the Senate, Senator Tom Harkin (D-IA) introduced S. 1050 and in the House, Representative Nita Lowey (D-NY) introduced the companion bill, H.R. 3294. Titled the "Promoting Wellness for Individuals with Disabilities Act," the bills sought to establish standards for basic medical equipment, among other provisions. These bills were later incorporated into the ACA as Section 4203, "Removing Barriers and Improving Access to Wellness for Individuals with Disabilities." As described in Section 1.1, this ACA provision adds to Title V of the Rehabilitation Act of 1973 a new Section 510, "Establishment of standards for accessible medical diagnostic equipment." The law requires the US Access Board, in consultation with the U.S. Food and Drug Administration (FDA), to develop such standards, which are to apply specifically to examination tables, examination chairs (e.g., for eye or dental examinations and procedures), weight scales and imaging equipment (e.g., mammography equipment, x-ray machines).
 
-**2.7 Existing ADA and Rehabilitation Act Requirements for Accessible Medical Care**
+**2.7 Existing ADA and Rehabilitation Act Requirements for Accessible Medical Care**
 
 The Americans with Disabilities Act (ADA) and Section 504 of the Rehabilitation Act are civil rights laws that prohibit discrimination on the basis of disability. Title II of the ADA (42 U.S.C. 12131 to 12165) applies to state and local governments, and Title III of the ADA (42 U.S.C. 12189 to 12189) applies to private entities that are public accommodations such as health care providers. Section 504 of the Rehabilitation Act (29 U.S.C. 794) applies to recipients of federal financial assistance, such as Medicare, Medicaid, and other federal programs. ADA and Section 504 of the Rehabilitation Act require health care practitioners and delivery systems to provide individuals with disabilities full and equal access to their health care services and facilities. DOJ has entered into settlement agreements with health care providers to enforce these requirements. The settlement agreements require the health care providers to acquire accessible medical equipment.
 
-In July 2010, DOJ and the Department of Health and Human Services issued a guidance document for health care providers regarding their responsibilities to make their services and facilities accessible to individuals with mobility disabilities under the ADA and Section 504 of the Rehabilitation Act (see Access to Medical Care for Individuals with Mobility Disabilities available at: <http://www.ada.gov/medcare_ta.htm>). The guidance document includes information on accessible examination rooms and the clear floor space needed adjacent to medical equipment for individuals who use mobility devices to approach the equipment for transfer; accessible medical equipment (e.g., examination tables and chairs, mammography equipment, weight scales); patient lifts and other methods for transferring individuals from their mobility devices to medical equipment; and training health care personnel. In July 2010, DOJ also issued an advance notice of proposed rulemaking (ANPRM) announcing that, because of the obligation that has always existed under the ADA for covered entities to provide accessible equipment and furniture, DOJ was considering amending its regulations implementing Titles II and III of the ADA to include specific standards for the design and use of accessible equipment and furniture that is not fixed or built into a facility. These changes would ensure that programs and services provided by state and local governments and by public accommodations are accessible to individuals with disabilities (see 75 FR 43452, July 26, 2010).
+In July 2010, DOJ and the Department of Health and Human Services issued a guidance document for health care providers regarding their responsibilities to make their services and facilities accessible to individuals with mobility disabilities under the ADA and Section 504 of the Rehabilitation Act (see Access to Medical Care for Individuals with Mobility Disabilities available at: <http://www.ada.gov/medcare_ta.htm>). The guidance document includes information on accessible examination rooms and the clear floor space needed adjacent to medical equipment for individuals who use mobility devices to approach the equipment for transfer; accessible medical equipment (e.g., examination tables and chairs, mammography equipment, weight scales); patient lifts and other methods for transferring individuals from their mobility devices to medical equipment; and training health care personnel. In July 2010, DOJ also issued an advance notice of proposed rulemaking (ANPRM) announcing that, because of the obligation that has always existed under the ADA for covered entities to provide accessible equipment and furniture, DOJ was considering amending its regulations implementing Titles II and III of the ADA to include specific standards for the design and use of accessible equipment and furniture that is not fixed or built into a facility. These changes would ensure that programs and services provided by state and local governments and by public accommodations are accessible to individuals with disabilities (see 75 FR 43452, July 26, 2010).
 
 **Notes**
 
-A As for persons without disabilities, individual patients with disabilities have their own set of health conditions, including coexisting diseases and health risk factors that might affect the cost-benefit equation of obtaining various health care services. For example, although the U.S. Preventive Services Task Force gives colonoscopy screening to detect colorectal cancers a Grade A (service recommended: high certainty that the net benefit of the service is substantial), individual patients might determine in consultation with their physicians that the clinical risks of the bowel cleansing process required before colonoscopy outweigh the potential benefit of the test in their particular case. This decision should be based on clinical considerations and informed patients' preferences, not on the inability to accommodate the needs of persons with disabilities during the bowel preparation.
+A As for persons without disabilities, individual patients with disabilities have their own set of health conditions, including coexisting diseases and health risk factors that might affect the cost-benefit equation of obtaining various health care services. For example, although the U.S. Preventive Services Task Force gives colonoscopy screening to detect colorectal cancers a Grade A (service recommended: high certainty that the net benefit of the service is substantial), individual patients might determine in consultation with their physicians that the clinical risks of the bowel cleansing process required before colonoscopy outweigh the potential benefit of the test in their particular case. This decision should be based on clinical considerations and informed patients' preferences, not on the inability to accommodate the needs of persons with disabilities during the bowel preparation.
 
-B Secondary disabilities are conditions or complications that are related to a person's primary disability and are also potentially disabling. Examples include injuries from falls, pressure ulcers, urinary tract complications, and depression.
+B Secondary disabilities are conditions or complications that are related to a person's primary disability and are also potentially disabling. Examples include injuries from falls, pressure ulcers, urinary tract complications, and depression.
 
-C Each year, the National Healthcare Disparities Reports look at different measures of disparities, such as different types of service use or different measures of patients' experiences with care.
+C Each year, the National Healthcare Disparities Reports look at different measures of disparities, such as different types of service use or different measures of patients' experiences with care.
 
 D The National Health Interview Survey is a continuous federal survey overseen by the National Center for Health Statistics within the Centers for Disease Control and Prevention (CDC). Over the years, NHIS has been a major source of information about health care disparities for persons with disabilities among other vulnerable populations.
 
@@ -646,7 +646,7 @@ E Although the U.S. Preventive Services Task Force recommends mammography screen
 
 F The clinical breast exam requires clinicians to palpate the entire breast, its perimeter, and immediately adjacent areas including the axilla (e.g., checking for lymph nodes). The breast tissue must be spread evenly over the chest wall, which requires women to be supine. With the woman lying flat on her back on an examination table, positioning her arm toward her head and rotating her hip and torso can assist in spreading the breast tissue.
 
-G (1) "Are you limited in any way in any activities because of a physical, mental, or emotional problem?" (2) "Do you now have any health problems that require you to use special equipment such as a cane, a wheelchair, a special bed, or a special telephone?" and (3) "Do you consider yourself a person with a disability?"[23](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#23) Those classified as having a disability were then asked about whether their disability was physical, sensory, mental, or learning (they could report more than one type) and whether their disability was slight, moderate, or severe (based on their own perceptions).
+G (1) "Are you limited in any way in any activities because of a physical, mental, or emotional problem?" (2) "Do you now have any health problems that require you to use special equipment such as a cane, a wheelchair, a special bed, or a special telephone?" and (3) "Do you consider yourself a person with a disability?"[23](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#23) Those classified as having a disability were then asked about whether their disability was physical, sensory, mental, or learning (they could report more than one type) and whether their disability was slight, moderate, or severe (based on their own perceptions).
 
 H (1) Experiencing restricted social activity. (2) Not knowing where to obtain disability resource information. (3) Needing home modifications but not having them. (4) Having difficulty accessing a health care provider's office because of its physical layout or location. (5) being treated unfairly at a health care provider's office.[23](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/2-background#23)
 
@@ -658,15 +658,15 @@ K Association for the Advancement of Medical Instrumentation. ANSI/AAMI ES60601-
 
 L Tilley, Alvin R. The Measure of Man and Woman: Human Factors in Design. New York: Wiley, 2002.
 
-M U.S. Department of Labor. OSHA Technical Manual, Section VII, Chapter 1, Back Disorders and Injuries. OSHA website: <http://www.osha.gov/dts/osta/otm/otm_vii/otm_vii_1.html> (visited May 17, 2012).
+M U.S. Department of Labor. OSHA Technical Manual, Section VII, Chapter 1, Back Disorders and Injuries. OSHA website: <http://www.osha.gov/dts/osta/otm/otm_vii/otm_vii_1.html> (visited May 17, 2012).
 
-N U.S. Department of Labor. Hospital eTool: Healthcare Wide Hazards -- Ergonomics. OSHA website: <http://www.osha.gov/SLTC/etools/hospital/hazards/ergo/ergo.html> (visited May 17, 2012).
+N U.S. Department of Labor. Hospital eTool: Healthcare Wide Hazards -- Ergonomics. OSHA website: <http://www.osha.gov/SLTC/etools/hospital/hazards/ergo/ergo.html> (visited May 17, 2012).
 
-O Examples of settlements include Metzler v. Kaiser Permanente, Olson v. Sutter Health, University of California San Francisco Medical Center. Full settlement agreements are available online: <http://thebarrierfreehealthcareinitiative.org/?page_id=16>
+O Examples of settlements include Metzler v. Kaiser Permanente, Olson v. Sutter Health, University of California San Francisco Medical Center. Full settlement agreements are available online: <http://thebarrierfreehealthcareinitiative.org/?page_id=16>
 
-P This list of consensus standards recognized by the FDA is available at: <http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfstandards/search.cfm>
+P This list of consensus standards recognized by the FDA is available at: <http://www.accessdata.fda.gov/scripts/cdrh/cfdocs/cfstandards/search.cfm>
 
-Q Information about the human factors design principles for medical devices is available at: <http://www.aami.org/he75>
+Q Information about the human factors design principles for medical devices is available at: <http://www.aami.org/he75>
 
 R Western University of Health Sciences, University of California - San Francisco/Berkeley, University of Connecticut, University of Wisconsin-Milwaukee
 
@@ -728,13 +728,13 @@ R Western University of Health Sciences, University of California - San Francisc
 
 28\. Representative John Conyers Jr. (D-MI14). Nurse and health care worker protection act of 2009. 2009;H.R. 2381 (111th).
 
-29\. American Nurses Association. AMA leads initiative to develop national safe patient handling standards. multidisciplinary group seeks to establish evidence based guidelines to address deficiency. <http://nursingworld.org/MainMenuCategories/WorkplaceSafety/Healthy-Work-Environment/SafePatient/ANA-Leads-National-Safe-Patient-Handling-Standards.pdf.> Accessed May 31, 2013.
+29\. American Nurses Association. AMA leads initiative to develop national safe patient handling standards. multidisciplinary group seeks to establish evidence based guidelines to address deficiency. <http://nursingworld.org/MainMenuCategories/WorkplaceSafety/Healthy-Work-Environment/SafePatient/ANA-Leads-National-Safe-Patient-Handling-Standards.pdf.> Accessed May 31, 2013.
 
 30\. Bureau of Labor Statistics, U.S. Department of Labor. News release: Nonfatal occupational injuries and illnesses requiring days away from work, 2011. November 8, 2012;USDL-12-2204.
 
-31\. American Nurses Association, Nursing World. Saftey patient handling and mobility, health and safety. <http://nursingworld.org/handlewithcare.> Accessed April 27, 2012.
+31\. American Nurses Association, Nursing World. Saftey patient handling and mobility, health and safety. <http://nursingworld.org/handlewithcare.> Accessed April 27, 2012.
 
-32\. American Nurses Association, Nursing World. Safe patient handling and mobility (SPHM), state legislative agenda. <http://nursingworld.org/MainMenuCategories/Policy-Advocacy/State/Legislative-Agenda->[Reports/State-SafePatientHandling.](http://nursingworld.org/MainMenuCategories/Policy-Advocacy/State/Legislative-Agenda-Reports/State-SafePatientHandling.) Accessed April 27, 2012. 
+32\. American Nurses Association, Nursing World. Safe patient handling and mobility (SPHM), state legislative agenda. <http://nursingworld.org/MainMenuCategories/Policy-Advocacy/State/Legislative-Agenda->[Reports/State-SafePatientHandling.](http://nursingworld.org/MainMenuCategories/Policy-Advocacy/State/Legislative-Agenda-Reports/State-SafePatientHandling.) Accessed April 27, 2012. 
 
 33\. Waters TR, Putz-Anderson V, Garg A. Application Manual for the Revised NIOSH Lifting Equation. Pub. No. 94-110 ed. Cincinnati, OH: Centers for Disease Control and Prevention, National Institute for Occupational Safety and Health, Division of Biomedical and Behavioral Science, DHHS (NIOSH); 1994.
 
@@ -819,10 +819,10 @@ During the initial Committee exercise mentioned above (to identify potential MDE
 
 -   Persons undergoing hemodialysis often sit in chairs configured to facilitate circulatory system access (e.g., through an arteriovenous fistula) and ensure patient comfort and safety during the procedure. Hemodialysis is explicitly therapeutic (i.e., a treatment). However, over the course of dialysis sessions, which can last for several hours, patients are monitored to identify potential complications that require immediate attention. This monitoring could be viewed as diagnostic.
 -   Operating room tables are typically used for surgeries that definitively treat or significantly palliate disease. However, surgery can be required to make a diagnosis (e.g., to get tissue for pathological evaluation to determine the presence of cancer). Sometimes operations that begin with therapeutic intent conclude as diagnostic or prognostic (e.g., operations aiming to remove cancerous tumors end when surgeons find the tumor has spread too widely to remove; in these situations surgeons often close the incision, having found evidence that will inform the patient's cancer prognosis). Whether for therapeutic or diagnostic surgery, however, virtually all patients are transferred onto the operating room table by clinical staff from a stretcher after being transported from a pre-operative area where they likely received initial sedation. Since almost no patients get themselves onto operating room tables, it is not necessary to produce accessibility standards for tables in sterile operating room settings.
--   Stretchers or gurneys are typically seen as transport equipment, used to move recumbent patients within inpatient facilities, emergency departments, and other health care delivery settings where patients require supine transport. Although clinical personnel frequently transfer patients to stretchers,[U](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/3-mde-advisory-committee-approach#u) in many instances patients get onto stretchers independently. Furthermore, sometimes patients undergo extensive diagnostic evaluations while on these stretchers (e.g., in emergency departments). Differentiating stretchers used exclusively for transportation versus diagnostic evaluation is possible. But questions arise about the practicality of having different types of stretchers with different capabilities in busy health care institutions where efficiency and ease of use are at a premium.
+-   Stretchers or gurneys are typically seen as transport equipment, used to move recumbent patients within inpatient facilities, emergency departments, and other health care delivery settings where patients require supine transport. Although clinical personnel frequently transfer patients to stretchers,[U](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/3-mde-advisory-committee-approach#u) in many instances patients get onto stretchers independently. Furthermore, sometimes patients undergo extensive diagnostic evaluations while on these stretchers (e.g., in emergency departments). Differentiating stretchers used exclusively for transportation versus diagnostic evaluation is possible. But questions arise about the practicality of having different types of stretchers with different capabilities in busy health care institutions where efficiency and ease of use are at a premium.
 -   Hospital beds serve the same basic function as do ordinary beds, but these beds often have specific features to address needs of both patients and staff (e.g., controls to raise and lower the head and foot areas, controls to raise and lower the height of the entire bed, mattresses with circulating air to prevent pressure ulcer development). Patients lying in hospital beds sometimes receive diagnostic testing: routine phlebotomy is a common example. But overall, relatively little diagnostic testing is performed while patients are in hospital beds.
 -   To get ultrasound testing or pulmonary function testing, patients must have access to the equipment. But often the ultrasonography or pulmonary function testing equipment is in a unit next to the table, stretcher, or chair where the patient is lying or sitting. In these circumstances, the focus should be on accessibility of the table, stretcher, or chair rather than on the MDE itself. For instance, the ultrasound transducer is easily moved to the patient, wherever the patient is.
--   Exercise stress testing equipment, such as treadmills or stationary bicycles, are used for diagnostic purposes (i.e., to diagnose potential coronary insufficiency, angina, or other heart ailments). However, it is questionable whether this testing would be used for persons with physical disabilities who would not be able to perform the required physical activities (walking or jogging on the treadmill, riding the stationary bicycle). For some patients, stimulating cardiac stress through other forms of exercise (e.g., hand cycles) might be possible. But there are a variety of ways to diagnose coronary artery disease for all patients, regardless of disability. For each individual patient, regardless of disability, a variety of factors might affect the choice of diagnostic tests.[V](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/3-mde-advisory-committee-approach#v) These decisions are made by patients in consultation with their physicians and reflect individual personal and clinical circumstances and patients' preferences.
+-   Exercise stress testing equipment, such as treadmills or stationary bicycles, are used for diagnostic purposes (i.e., to diagnose potential coronary insufficiency, angina, or other heart ailments). However, it is questionable whether this testing would be used for persons with physical disabilities who would not be able to perform the required physical activities (walking or jogging on the treadmill, riding the stationary bicycle). For some patients, stimulating cardiac stress through other forms of exercise (e.g., hand cycles) might be possible. But there are a variety of ways to diagnose coronary artery disease for all patients, regardless of disability. For each individual patient, regardless of disability, a variety of factors might affect the choice of diagnostic tests.[V](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/3-mde-advisory-committee-approach#v) These decisions are made by patients in consultation with their physicians and reflect individual personal and clinical circumstances and patients' preferences.
 
 Although this "naming" exercise helped clarify the potential range of MDE, Committee members still felt they needed more explicit guidance to define MDE appropriate for setting accessibility standards. A subgroup of Committee member agreed to develop a screen for identifying MDE for making accessibility standard recommendations, which they presented at the outset of the second day of the September 2012 meeting. They started with the definition of "medical device" used by the Food and Drug Administration (FDA, Box 3.1). The proposed screen for MDE for Committee consideration has five components as follows:
 
@@ -834,7 +834,7 @@ Although this "naming" exercise helped clarify the potential range of MDE, Commi
 
 Questions 1-4 must be answered in the affirmative and Question 5 must be answered in the negative for a product to be considered under the requirements of the proposed rule.
 
-Throughout the remainder of its tenure, the Committee continued to discuss the applicability of certain equipment types for the accessibility standards.[W](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/3-mde-advisory-committee-approach#w) The general sense of the Committee was that the standards they recommend (Section 5) cover the vast majority of MDE. Nonetheless, certain specific types of MDE might need additional attention in future rulemaking about accessibility standards (Section 8.2).
+Throughout the remainder of its tenure, the Committee continued to discuss the applicability of certain equipment types for the accessibility standards.[W](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/3-mde-advisory-committee-approach#w) The general sense of the Committee was that the standards they recommend (Section 5) cover the vast majority of MDE. Nonetheless, certain specific types of MDE might need additional attention in future rulemaking about accessibility standards (Section 8.2).
 
 **Box 3.1**
 
@@ -852,7 +852,7 @@ This definition provides a clear distinction between a medical device and other 
 </div>
 
 
-SOURCE: U.S. Food and Drug Administration <http://www.fda.gov/medicaldevices/deviceregulationandguidance/overview/classifyyourdevice/ucm051512.htm>, accessed May 31, 2013.
+SOURCE: U.S. Food and Drug Administration <http://www.fda.gov/medicaldevices/deviceregulationandguidance/overview/classifyyourdevice/ucm051512.htm>, accessed May 31, 2013.
 
 **3.2 MDE Advisory Committee Process**
 
@@ -940,7 +940,7 @@ Committee members representing two stakeholder groups -- manufacturers of imagin
 | Willa Crolius | Institute for Human Centered Design | Coordinator of Public Programs |
 | Michelle Lustrino | Hologic, Inc. | Mechanical Engineer |
 | Glenn Nygard | Hologic, Inc. | Senior Principal Engineer |
-| Elisabeth George | Philips Healthcare, <br> Medical Imaging & Technology Alliance | Vice President of Global Regulations and Standards, <br> Chair of Technical and Regulatory Affairs Committee |
+| Elisabeth George | Philips Healthcare, <br> Medical Imaging & Technology Alliance | Vice President of Global Regulations and Standards, <br> Chair of Technical and Regulatory Affairs Committee |
 | John Jaeckle | GE Healthcare, <br> Medical Imaging & Technology Alliance | Chief Regulatory Affairs Strategist, <br> Chair of CT─X-ray Committee |
 | John Metellus | Siemens Healthcare | Product Marketing Manager |
 | Bob Menke | Midmark Corporation | Engineering Manager |
@@ -1001,7 +1001,7 @@ As noted in the NPRM for MDE accessibility standards, when equipment is designed
 
 For several reasons including patient comfort and safety, the surfaces of many examination tables and chairs are not flat. Instead, they are contoured, such as by using bolsters along the perimeters, to provide greater security once patients are lying or seated on the table or chair. This contouring complicates efforts to measure the distance between the floor and the height of the surface onto which patients transfer for their examinations. Thus, contouring must be addressed in considering minimum height standards for accessibility of transfer surfaces (Section 5.1.4).
 
-As noted in Section 2.4.1, the height measurement method recommended by the Advisory Committee (Section 5.1.4) differs from the heights that manufacturers publish today. Currently, the de facto industry practice is to publish table or chair heights as measured while patients are seated on the equipment (i.e., while patients' weights are compressing the table's or chair's foam padding).[Z](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/4-overview-of-equipment-types#z) This dimension is typically measured at the back of a patient's knees and includes compression of the seat foam. This method is consistent with the internationally recognized standard for the measurement of wheelchairs, ISO 7176-7:1998.
+As noted in Section 2.4.1, the height measurement method recommended by the Advisory Committee (Section 5.1.4) differs from the heights that manufacturers publish today. Currently, the de facto industry practice is to publish table or chair heights as measured while patients are seated on the equipment (i.e., while patients' weights are compressing the table's or chair's foam padding).[Z](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/4-overview-of-equipment-types#z) This dimension is typically measured at the back of a patient's knees and includes compression of the seat foam. This method is consistent with the internationally recognized standard for the measurement of wheelchairs, ISO 7176-7:1998.
 
 In contrast, the Advisory Committee recommends that measurement be taken from the highest point of the transfer surface, irrespective of contours, and with uncompressed foam (Section 5.1.4). Committee members recommend this measurement method because it ensures that the entire transfer surface is below the recommended height. This allows patients to choose the transfer location and technique that best meets their individual needs. For consistency, all transfer surface height measurements referenced in this report use the measurement method specified in Section 5.1.4, unless otherwise noted.
 
@@ -1100,7 +1100,7 @@ As described further in Section 5, an issue closely related to transfer surfaces
 **4.3.3 Imaging Equipment Used for Interventional and Biopsy Procedures with Sedated Patients**
 
 The MDE Advisory Committee viewed imaging systems used for both interventional radiology and biopsy procedures as raising special issues. Biopsies are explicitly diagnostic (i.e., biopsies provide tissue for pathological evaluation), even if they are followed by a procedure viewed as potentially therapeutic (e.g., an excisional biopsy, when an entire mass is removed). Interventional radiology includes such procedures as placement of stents in coronary arteries, opening narrowed blood vessels by dilating balloon catheters, and transarterial chemoembolization to block blood supplies to malignant tumors.\
-In most instances, patients undergoing these procedures receive some form of sedation prior to transfer.[CC](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/4-overview-of-equipment-types#cc) When sedated, all patients -- regardless of their physical abilities -- are assisted onto the transfer surface. For this reason, the Committee viewed imaging systems used for interventions and biopsies in patients who are typically sedated as outside the scope of the accessibility standards.
+In most instances, patients undergoing these procedures receive some form of sedation prior to transfer.[CC](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/4-overview-of-equipment-types#cc) When sedated, all patients -- regardless of their physical abilities -- are assisted onto the transfer surface. For this reason, the Committee viewed imaging systems used for interventions and biopsies in patients who are typically sedated as outside the scope of the accessibility standards.
 
 **4.3.4 Industry Considerations in Designing Accessible Imaging Equipment**
 
@@ -1135,7 +1135,7 @@ According to figures from the CDC, breast cancer is the most common malignancy a
 
 Mammography is a specialized diagnostic imaging study that raises particular considerations. As noted in Section 4.3.1, technologists participate actively in all imaging studies. In the case of mammography, technologists provide hands-on help to all women, assisting them in positioning their bodies and breasts on the equipment's breast plates to obtain the necessary images. Technologists report that conducting mammography studies of adequate quality is difficult when women remain seated in wheelchairs or scooters during the test. Depending on the configuration of the mammography machine, women seated in wheelchairs may not be able to get close enough to the equipment to position their breast as needed on the breast platform. In other instances, the breast platform might not go low enough to image their breasts while in the seated position.
 
-Although for convenience throughout this section we refer to women as the users of mammography, men do -- albeit rarely -- undergo mammography. Generally men undergo mammography to evaluate breast enlargement, tenderness, or a palpable lump. Breast cancers occur in men, although rarely.[DD](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/4-overview-of-equipment-types#dd) Therefore, since women are the primary users of this equipment, the Committee focused on anthropometric measurements of women when possible.
+Although for convenience throughout this section we refer to women as the users of mammography, men do -- albeit rarely -- undergo mammography. Generally men undergo mammography to evaluate breast enlargement, tenderness, or a palpable lump. Breast cancers occur in men, although rarely.[DD](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/4-overview-of-equipment-types#dd) Therefore, since women are the primary users of this equipment, the Committee focused on anthropometric measurements of women when possible.
 
 **4.4.1 Overview of Mammography Accessibility Considerations**
 
@@ -1147,7 +1147,7 @@ Because of the movable breast platform and C-arm, each recommendation defines th
 
 **4.4.2 Mammography Equipment and Scooters**
 
-The Committee considered the interaction of women who use scooters with mammography equipment. As noted above, to obtain acceptable images, a woman's chest wall must be flush with the breast platform. However, the steering column and other front components of many scooters prevent this necessary proximity without the woman swiveling their seat to a side position. Once the scooter user swivels to the side, she may be able to be positioned on the equipment without any interference between her scooter and the equipment.[EE](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/4-overview-of-equipment-types#ee) The Committee's mammography accessibility recommendations focus on interactions with wheelchair users. Mammography equipment recommendations also apply to use of a mammography chair for women who need to sit for the procedure but do not use a wheelchair and to women of short stature.
+The Committee considered the interaction of women who use scooters with mammography equipment. As noted above, to obtain acceptable images, a woman's chest wall must be flush with the breast platform. However, the steering column and other front components of many scooters prevent this necessary proximity without the woman swiveling their seat to a side position. Once the scooter user swivels to the side, she may be able to be positioned on the equipment without any interference between her scooter and the equipment.[EE](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/4-overview-of-equipment-types#ee) The Committee's mammography accessibility recommendations focus on interactions with wheelchair users. Mammography equipment recommendations also apply to use of a mammography chair for women who need to sit for the procedure but do not use a wheelchair and to women of short stature.
 
 **4.4.3 Implications of Mammography Equipment Components**
 
@@ -1182,17 +1182,17 @@ Alternative types of equipment that have integrated scales -- such as examinatio
 
 **Notes**
 
-Z Seated height became the de facto height measurement method because this height is most relevant to clinicians as they conduct physical examinations of patients.  Consequentially, health care professionals who are purchasing examination tables and chairs typically focus on the seated height dimension.
+Z Seated height became the de facto height measurement method because this height is most relevant to clinicians as they conduct physical examinations of patients.  Consequentially, health care professionals who are purchasing examination tables and chairs typically focus on the seated height dimension.
 
-AA For adjustable height chairs with footplates, as the height of the chair seat (transfer surface) moves up and down, the footplate moves up and down at the same time (i.e., with a fixed vertical distance between the seat and footplate). Therefore, reducing the low height of the seat will increase the likelihood of the footplate colliding with the floor.  However, shortening the vertical distance between the seat and the footplate could result in the uncomfortable body positions shown in Figure 4.1.
+AA For adjustable height chairs with footplates, as the height of the chair seat (transfer surface) moves up and down, the footplate moves up and down at the same time (i.e., with a fixed vertical distance between the seat and footplate). Therefore, reducing the low height of the seat will increase the likelihood of the footplate colliding with the floor.  However, shortening the vertical distance between the seat and the footplate could result in the uncomfortable body positions shown in Figure 4.1.
 
-BB The Advisory Committee did not compare the relative effectiveness and safety of the prone breast biopsy table and the alternative upright stereotactic biopsy system to determine whether these are equivalent options for breast biopsies.
+BB The Advisory Committee did not compare the relative effectiveness and safety of the prone breast biopsy table and the alternative upright stereotactic biopsy system to determine whether these are equivalent options for breast biopsies.
 
-CC Patients are typically sedated to: minimize their discomfort during the procedure; and minimize their movements during procedures that often require very careful manipulation of instruments within constrained spaces (e.g., blood vessels). Patient movements in these circumstances could cause potentially life-threatening complications.
+CC Patients are typically sedated to: minimize their discomfort during the procedure; and minimize their movements during procedures that often require very careful manipulation of instruments within constrained spaces (e.g., blood vessels). Patient movements in these circumstances could cause potentially life-threatening complications.
 
-DD According to the National Cancer Institute, less than 1% of breast cancers occur in men (<http://www.cancer.gov/cancertopics/pdq/treatment/malebreast/Patient>).
+DD According to the National Cancer Institute, less than 1% of breast cancers occur in men (<http://www.cancer.gov/cancertopics/pdq/treatment/malebreast/Patient>).
 
-EE The ability of a scooter user to remain seated in her swiveled scooter seat and receive a successful mammogram image depends on multiple factors, including the size of her scooter, the ability to raise and lower the scooter seat, whether there is sufficient room to maneuver the scooter, her physical abilities (e.g., to rotate her torso), and the skill of the technologist.
+EE The ability of a scooter user to remain seated in her swiveled scooter seat and receive a successful mammogram image depends on multiple factors, including the size of her scooter, the ability to raise and lower the scooter seat, whether there is sufficient room to maneuver the scooter, her physical abilities (e.g., to rotate her torso), and the skill of the technologist.
 
 
 
@@ -1203,13 +1203,13 @@ EE The ability of a scooter user to remain seated in her swiveled scooter seat 
 ### 5\. Recommendations
 **5.1 Transfer Surface Height Recommendations**
 
-**Description:** The transfer height is set above the finished floor surface to permit transfers form mobility devices onto the transfer surface. This height is also critical for patients who use mobility aids such as walkers and canes and may find it difficult to get up onto or down from an examination chair or table or imaging bed platform, and for facilitating assisted transfers. The height provision is the same for MDE used by patients in supine, prone, or side-lying positions (M301) and patients in seated positions (M302).
+**Description:** The transfer height is set above the finished floor surface to permit transfers form mobility devices onto the transfer surface. This height is also critical for patients who use mobility aids such as walkers and canes and may find it difficult to get up onto or down from an examination chair or table or imaging bed platform, and for facilitating assisted transfers. The height provision is the same for MDE used by patients in supine, prone, or side-lying positions (M301) and patients in seated positions (M302).
 
-**NPRM Proposed Provision:** M301.2.1 and M302.2.1 Height. The height of the transfer surface during patient transfer shall be 17 inches minimum and 19 inches maximum measured from the floor to the top of the transfer surface.
+**NPRM Proposed Provision:** M301.2.1 and M302.2.1 Height. The height of the transfer surface during patient transfer shall be 17 inches minimum and 19 inches maximum measured from the floor to the top of the transfer surface.
 
 Advisory M301.2.1 and M302.2.1 Height. The transfer surface position may be outside of the specified height range when not needed to facilitate transfer.
 
-**NPRM Preamble Discussion:** The technical criteria allow the height of transfer surfaces to be either fixed or adjustable within the 17 inches minimum and 19 inches maximum range. Based on the information discussed below (see NPRM discussion), the Access Board is considering requiring in the final standards that the height of transfer surfaces be adjustable from 17 inches minimum to 25 inches maximum during patient transfer.
+**NPRM Preamble Discussion:** The technical criteria allow the height of transfer surfaces to be either fixed or adjustable within the 17 inches minimum and 19 inches maximum range. Based on the information discussed below (see NPRM discussion), the Access Board is considering requiring in the final standards that the height of transfer surfaces be adjustable from 17 inches minimum to 25 inches maximum during patient transfer.
 
 **5.1.1 Transfer Surface Height Adjustability Recommendation for M301 and M302**
 
@@ -1219,10 +1219,10 @@ Advisory M301.2.1 and M302.2.1 Height. The transfer surface position may be outs
 
 The Committee agreed that adjustability greatly increases the overall accessibility of equipment for all persons. Adjustable height MDE, such as exam tables, imaging tables and chairs, will make it possible to position the transfer surface near the height of the seat of the mobility device. For some, independent transfers are only possible when there is minimal or no change in vertical height between the seat of the mobility device and the transfer surface. People may prefer or, in some cases, require, transfer to a slightly lower surface moving the transfer surface lower than the seat of the mobility device; then adjusting the transfer surface to above the seat for the return transfer.
 
-The Committee sought information on the range of seat heights of persons using mobility devices for this recommendation. The research documented a wider range in the seat heights of mobility devices than existed in the past. The Wheeled Mobility Anthropometry Project found a range of occupied seat heights from 16.3 inches to 23.9 inches for manual wheelchair users;16.2 inches to 28.9 inches for power wheelchair users; and 18.8 inches to 25.3 inches for scooter users. In determining these heights, project researchers measured the seat heights from underneath the buttocks at the center of the occupied seats, a spot likely to be lower than the front of the seat where a person transfers.[FF](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#ff) Some Committee members pointed out that this likely made the seat height measurements lower than the actual spot from where a person actually transfers. The adjustability of medical diagnostic equipment will facilitate transfers for all types of patient populations by providing the ability to "pair" the transfer surface of diagnostic equipment at or near the height of the mobility device. People who use wheelchairs, most of which have no adjustability, will directly benefit from medical diagnostic equipment that moves up or down; as will people who use scooters, some of which have height adjustable seats that swivel to assist with alignment for transfers. Persons who are older, have stability/balance issues, and use a walker or cane, will also benefit from adjustability of the equipment when getting on and off the equipment. Industry experts noted that adjustability is readily available in many existing products. Both electronic and manual pump chairs have the ability to stop at any position and are not limited to set points within the range. Thus, the committee adopted a standard of adjustability in small, virtually infinite increments.
+The Committee sought information on the range of seat heights of persons using mobility devices for this recommendation. The research documented a wider range in the seat heights of mobility devices than existed in the past. The Wheeled Mobility Anthropometry Project found a range of occupied seat heights from 16.3 inches to 23.9 inches for manual wheelchair users;16.2 inches to 28.9 inches for power wheelchair users; and 18.8 inches to 25.3 inches for scooter users. In determining these heights, project researchers measured the seat heights from underneath the buttocks at the center of the occupied seats, a spot likely to be lower than the front of the seat where a person transfers.[FF](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#ff) Some Committee members pointed out that this likely made the seat height measurements lower than the actual spot from where a person actually transfers. The adjustability of medical diagnostic equipment will facilitate transfers for all types of patient populations by providing the ability to "pair" the transfer surface of diagnostic equipment at or near the height of the mobility device. People who use wheelchairs, most of which have no adjustability, will directly benefit from medical diagnostic equipment that moves up or down; as will people who use scooters, some of which have height adjustable seats that swivel to assist with alignment for transfers. Persons who are older, have stability/balance issues, and use a walker or cane, will also benefit from adjustability of the equipment when getting on and off the equipment. Industry experts noted that adjustability is readily available in many existing products. Both electronic and manual pump chairs have the ability to stop at any position and are not limited to set points within the range. Thus, the committee adopted a standard of adjustability in small, virtually infinite increments.
 
 **Figure 5.1.1 Adjustable Height Medical Table/Chair**\
-****(SOURCE: Midmark Corporation)
+****(SOURCE: Midmark Corporation)
 
 ![Picture of 2 adjustable height examination table/chairs.  One chair is positioned at the lowest seat height and the other is at the highest seat height.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-1.jpg)
 
@@ -1242,7 +1242,7 @@ Since one key factor in ease of transfer is locating the transfer surface near o
 
 **The Committee did not agree on a final low height recommendation.**
 
-***Rationale for final recommendation (more detail provided in Section 6)***
+***Rationale for final recommendation (more detail provided in Section 6)***
 
 The Committee was unable to reach consensus regarding the transfer surface low height. The Committee considered various anthropometric data from research, clinicians, and Committee expertise but was never able to agree on a recommendation. The Committee shifted focus from a fixed height range between 17 to 19 inches as adjustability was accepted. Members focused on determining a specific low height absolute measurement.
 
@@ -1265,7 +1265,7 @@ The Imaging Subcommittee recommended deferring this issue to the Table and Chair
 Having an accessible transfer surface height is critical to facilitate independent patient transfers to equipment used by patients both in a supine, side-lying, or prone and seated position. To determine compliance, it is necessary to have a consistent point of measure. Since many transfer surfaces are not perfectly flat, measuring to the highest point in an uncompressed state provides this consistent point of measure. Identifying the highest point on the transfer surface will assure that all points on the transfer surface comply with the height criteria. This recommendation applies to exam tables and chairs and this measurement may not necessarily be at the centerline of the seat where there are higher points on the seat.
 
 **Figure 5.1.4 Illustration of Height Measurement**\
-****(SOURCE: Midmark Corporation)
+****(SOURCE: Midmark Corporation)
 
 ![Picture showing the side of an examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-2.jpg)
 
@@ -1274,9 +1274,9 @@ Having an accessible transfer surface height is critical to facilitate independe
 
 **5.2.1 Transfer Surface Size Recommendations for M301**
 
-**Description:** The transfer surface is the part of the diagnostic equipment onto which patients who use mobility devices or aids transfer when moving onto and off the equipment. Depending on the configuration of the equipment, the transfer surface may occupy only a portion of an examination table or imaging bed platform. The technical criteria do not address the overall width and depth of patient support surfaces because of the diverse shape and size of these surfaces. The transfer surface size standard has two components: width and depth (see Figure 5.2.1.1)
+**Description:** The transfer surface is the part of the diagnostic equipment onto which patients who use mobility devices or aids transfer when moving onto and off the equipment. Depending on the configuration of the equipment, the transfer surface may occupy only a portion of an examination table or imaging bed platform. The technical criteria do not address the overall width and depth of patient support surfaces because of the diverse shape and size of these surfaces. The transfer surface size standard has two components: width and depth (see Figure 5.2.1.1)
 
-**NPRM Proposed Provision:** M301.2.2 Size. The transfer surface shall be 30 inches wide minimum and 15 inches deep minimum.\
+**NPRM Proposed Provision:** M301.2.2 Size. The transfer surface shall be 30 inches wide minimum and 15 inches deep minimum.\
 **5.2.1.1 Transfer Surface Width Recommendations for M301**
 
 **The Committee recommends a transfer surface of 28 inches minimum width for equipment used by patients in a supine, side-lying, or prone position.**
@@ -1285,7 +1285,7 @@ Having an accessible transfer surface height is critical to facilitate independe
 
 The Committee considered the initial proposal of 30 inches and ultimately decided to decrease the width proposal by two inches. Currently, the only equipment existing with a 30-inch transfer surface width is bariatric equipment.
 
-At the Committee's December 2012 meeting, Dr. Edward Steinfeld, Director of the Center of Inclusive Design and Environmental Access at the University of Buffalo, gave a presentation on the Wheeled Mobility Anthropometry Project (AWM Project).[GG](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#gg) He provided a brief analysis of measurements of the width and depth of seating surfaces for individuals using wheeled mobility devices. This study obtained data from subjects seated in their mobility devices. The results of the AWM Project indicated that a seating surface could have a width of 28 inches and accommodate the 95th percentile of the population of wheeled mobility device users studied.
+At the Committee's December 2012 meeting, Dr. Edward Steinfeld, Director of the Center of Inclusive Design and Environmental Access at the University of Buffalo, gave a presentation on the Wheeled Mobility Anthropometry Project (AWM Project).[GG](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#gg) He provided a brief analysis of measurements of the width and depth of seating surfaces for individuals using wheeled mobility devices. This study obtained data from subjects seated in their mobility devices. The results of the AWM Project indicated that a seating surface could have a width of 28 inches and accommodate the 95th percentile of the population of wheeled mobility device users studied.
 
 As part of the deliberations, Committee members examined tables and chairs from various manufacturers during its meetings. The equipment was present and members could sit on, look at, and operate equipment during the meeting and breaks. This allowed members to experience tables that were 28 inches wide along with the other elements of the equipment.
 
@@ -1295,8 +1295,8 @@ In order to have equipment with a wide enough transfer surface to accommodate ve
 
 During the discussion, healthcare providers with experience in assisting patient transfers pointed out that too wide a transfer surface is challenging to smaller sized persons. Making all equipment wide enough for a 36-inch transfer surface would create difficulty for many smaller persons to transfer. For persons needing to reach across the table and pull themselves onto the transfer surface, a wider table becomes a chasm, which will impair the ability of many to grasp the side facilitating transfer. The width measurement is from the center-point of each side of the transfer surface as shown in Figure 5.2.1.1.
 
-**Figure 5.2.1.1 Measurement of Depth and Width from Center-Point of Transfer Surface Sides**\
-****(SOURCE: Midmark Corporation)
+**Figure 5.2.1.1 Measurement of Depth and Width from Center-Point of Transfer Surface Sides**\
+****(SOURCE: Midmark Corporation)
 
 ![A picture showing the plan view of an examination table.  Arrows are depicting the measurement of depth and width from the center point of the transfer surface sides.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-4.jpg)\
 **5.2.1.2 Transfer Surface Depth Recommendation for M301**
@@ -1333,16 +1333,16 @@ All X-ray tables meet the 28-inch table width. However, because of physical desi
 
 Manufacturers must determine the location of the transfer surface to facilitate the patient's transfer and positioning for the clinical functions of the diagnostic procedure.
 
-**Figure 5.2.1.4 Schematic of Transfer Surface Size for Diagnostic Imaging Equipment**\
-****(SOURCE:  GE Healthcare)
+**Figure 5.2.1.4 Schematic of Transfer Surface Size for Diagnostic Imaging Equipment**\
+****(SOURCE:  GE Healthcare)
 
 ![A schematic of a scanning bed for imaging equipment.  The transfer surface is depicted with a dotted area on the bed.  Along the side of the transfer surface area there is an double point arrow showing the transfer surface measures 28 inches wide.  A text box has the Committee recommendation of 28 inches minimum or maximum practicable but no less than 21 inches permitted for the transfer surface width.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-5.jpg)
 
 **5.2.2 Transfer Surface Size Recommendations for M302**
 
-**Description:** The transfer surface is the part of the diagnostic equipment onto which patients who use mobility devices or aids transfer when moving onto and off the equipment. Depending on the configuration of the equipment, the transfer surface may coincide with the seat area of an examination chair. The transfer surface size has two components: width and depth. (See Figure 5.2.1.1)
+**Description:** The transfer surface is the part of the diagnostic equipment onto which patients who use mobility devices or aids transfer when moving onto and off the equipment. Depending on the configuration of the equipment, the transfer surface may coincide with the seat area of an examination chair. The transfer surface size has two components: width and depth. (See Figure 5.2.1.1)
 
-**NPRM Proposed Provision:** M302.2.2 Size. The transfer surface shall be 21 inches wide minimum and 15 inches deep minimum.
+**NPRM Proposed Provision:** M302.2.2 Size. The transfer surface shall be 21 inches wide minimum and 15 inches deep minimum.
 
 **5.2.2.1 Transfer Surface Width Recommendations for M302**
 
@@ -1359,15 +1359,15 @@ The Committee considered the dimensions for rectangular seats in roll-in showers
 **R*ationale for final recommendation***
 
 As discussed in previous sections, many members expressed concern about the adequacy of the transfer surface depth. Members proposed increasing the minimum depth of the transfer surface from 15 inches to 17 inches. The Committee easily supported this increase as existing equipment already meets or exceeds this dimension.\
-**5.2.3 Transfer Surface Measurement Recommendation for M301 and M302**
+**5.2.3 Transfer Surface Measurement Recommendation for M301 and M302**
 
-**Description:** The transfer surface size standard has two components: width and depth. The transfer surface dimensions do not include headrests, footrests, or similar supports for body extremities that do not support the patient's overall body position.
+**Description:** The transfer surface size standard has two components: width and depth. The transfer surface dimensions do not include headrests, footrests, or similar supports for body extremities that do not support the patient's overall body position.
 
 **The Committee recommends measuring the transfer surface from the center-point of each side of the transfer surface.**
 
 Figure 5.2.3 below indicates how these width and depth dimensions are measured for MDE used by patients in supine, prone, or side-lying positions (M301) and the seated position (M302)\
-**Figure 5.2.3 Measurement of Depth and Width from Center-Point of Transfer Surface Sides**\
-****(SOURCE: Midmark Corporation)
+**Figure 5.2.3 Measurement of Depth and Width from Center-Point of Transfer Surface Sides**\
+****(SOURCE: Midmark Corporation)
 
 ![A picture showing the plan view of an examination table.  Arrows are depicting the measurement of depth and width from the center point of the transfer surface sides.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-6.jpg)\
 **5.3 Transfer Sides Recommendations**
@@ -1376,10 +1376,10 @@ Figure 5.2.3 below indicates how these width and depth dimensions are measured f
 
 **Description**: Transfer side provisions are the same for M301 and M302 and require the transfer surface to be located to provide options to transfer onto the short side and the long side of the surface. The provisions result in the transfer surface being located at a corner of the equipment and the two transfer sides adjoining at the edges of the equipment. The provision will coincide with the seat area design of most examination chairs.
 
-**NPRM Proposed Provision:** M301.2.3 and M302.2.3 Transfer Sides. The transfer surface shall be located to provide options to transfer from a mobility device onto one short side (depth) and one long side (width) of the surface. Each transfer side shall provide unobstructed access to the transfer surface.\
+**NPRM Proposed Provision:** M301.2.3 and M302.2.3 Transfer Sides. The transfer surface shall be located to provide options to transfer from a mobility device onto one short side (depth) and one long side (width) of the surface. Each transfer side shall provide unobstructed access to the transfer surface.\
 EXCEPTION: Temporary obstructions may exist where they can move out of the way to permit transfer.
 
-**NPRM Preamble Discussion:** The Access Board is considering whether the final standards should permit equipment parts to extend horizontally 3 inches maximum beyond the edge of the transfer sides provided they do not extend above the top of the transfer surface. This would allow handholds and other features that may facilitate transfer to be located on the transfer sides. The 2010 Standards provide a gap of 3 inches between the edge of a shower seat and the shower compartment entry, and the gap does not appear to interfere with transferring onto and off the shower seat.
+**NPRM Preamble Discussion:** The Access Board is considering whether the final standards should permit equipment parts to extend horizontally 3 inches maximum beyond the edge of the transfer sides provided they do not extend above the top of the transfer surface. This would allow handholds and other features that may facilitate transfer to be located on the transfer sides. The 2010 Standards provide a gap of 3 inches between the edge of a shower seat and the shower compartment entry, and the gap does not appear to interfere with transferring onto and off the shower seat.
 
 **The Committee recommends a 3-inch maximum obstruction permitted at transfer sides.**
 
@@ -1391,8 +1391,8 @@ To address this, the Committee used the provisions in the 2010 Standards on show
 
 The Committee considered anthropometric data from a research project that examined transfer experience with an adjustable height transfer surface. The two surfaces were placed at the same height and subjects transferred at gaps in increments of 3.5 inches. The result showed that 95% of subjects could transfer when seat and surface are at same height with a 3.5-inch gap. This data helped inform the recommendation since the 3-inch criteria is less than that used in the research and should assure effective transfers for most.
 
-**Figure 5.3.1 Permitted 3-Inch Maximum Obstruction at Transfer Side\
-**(SOURCE: U.S. Access Board)
+**Figure 5.3.1 Permitted 3-Inch Maximum Obstruction at Transfer Side\
+**(SOURCE: U.S. Access Board)
 
 ![Picture of a man in a wheelchair seated beside an examination table.  The transfer support is shown by dotted line positioned between the man and the transfer surface of the table. The transfer supports is shown as a 3 inches maximum obstruction at the transfer side between the man seated in the wheelchair and the transfer surface.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-7.jpg)
 
@@ -1405,9 +1405,9 @@ Each transfer side shall minimize obstructions to the transfer surface. Obstruct
 This provision incorporates the provisions of IEC 60601-2-52 establishing the maximum vertical obstruction at no less than 1 inch below the top of the transfer surface.\
 **5.3.2 Transfer Sides Recommendations for M301**
 
-**Description:** The transfer side provision requires the transfer surface to be located to provide options to transfer onto the short side and the long side of the surface. The provisions result in the transfer surface being located at a corner of the equipment and the two transfer sides adjoining at the edges of the equipment (e.g., foot of an examination table). Patients who use mobility devices would have the choice to approach parallel to the deep dimension of the transfer surface, parallel to the wide dimension of the transfer surface, or at an angle to the corner of the transfer surface and be able to perform a variety of transfers. Locating the transfer surface at a corner of the equipment and providing unobstructed access to the two transfer sides also would facilitate assisted transfers.
+**Description:** The transfer side provision requires the transfer surface to be located to provide options to transfer onto the short side and the long side of the surface. The provisions result in the transfer surface being located at a corner of the equipment and the two transfer sides adjoining at the edges of the equipment (e.g., foot of an examination table). Patients who use mobility devices would have the choice to approach parallel to the deep dimension of the transfer surface, parallel to the wide dimension of the transfer surface, or at an angle to the corner of the transfer surface and be able to perform a variety of transfers. Locating the transfer surface at a corner of the equipment and providing unobstructed access to the two transfer sides also would facilitate assisted transfers.
 
-**NPRM Proposed Provision:** M301.2.3 Transfer Sides. The transfer surface shall be located to provide options to transfer from a mobility device onto one short side (depth) and one long side (width) of the surface. Each transfer side shall provide unobstructed access to the transfer surface.
+**NPRM Proposed Provision:** M301.2.3 Transfer Sides. The transfer surface shall be located to provide options to transfer from a mobility device onto one short side (depth) and one long side (width) of the surface. Each transfer side shall provide unobstructed access to the transfer surface.
 
 **5.3.2.1 Transfer Sides Recommendation for Stretchers**
 
@@ -1434,7 +1434,7 @@ Imaging manufacturers noted that many X-ray system tables and all DXA tables wit
 
 **Description**: Transfer side provisions are the same for M301 and M302 and require the transfer surface to be located to provide options to transfer onto the short side and the long side of the surface. The provisions result in the transfer surface being located at a corner of the equipment and the two transfer sides adjoining at the edges of the equipment. This provision will coincide with the seat area design of most examination chairs.
 
-**NPRM Proposed Provision:** M302.2.3 Transfer Sides. The transfer surface shall be located to provide options to transfer from a mobility device onto one short side (depth) and one long side (width) of the surface. Each transfer side shall provide unobstructed access to the transfer surface.\
+**NPRM Proposed Provision:** M302.2.3 Transfer Sides. The transfer surface shall be located to provide options to transfer from a mobility device onto one short side (depth) and one long side (width) of the surface. Each transfer side shall provide unobstructed access to the transfer surface.\
 EXCEPTION: The provision permits temporary obstructions if they can move out of the way to permit transfer.
 
 **5.3.3.1 Transfer Sides Recommendation for Exam Chairs with Fixed Footrests**
@@ -1450,11 +1450,11 @@ As currently designed, some examination chairs have fixed footrests that facilit
 **Figure 5.3.3.1(a) Podiatry Chair**\
 (SOURCE: Midmark Corporation)
 
- ![Side view of a podiatry chair with the 17 inches minimum depth and the low height for the transfer surface highlighted.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-8.jpg)
+ ![Side view of a podiatry chair with the 17 inches minimum depth and the low height for the transfer surface highlighted.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-8.jpg)
 
 **Side View**
 
-** ![A top view of a podiatry chair depicting the transfer surface available from each side of the chair.  The transfer surface size is shown as 21 inches wide and 17 inches deep.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-9.jpg)**
+** ![A top view of a podiatry chair depicting the transfer surface available from each side of the chair.  The transfer surface size is shown as 21 inches wide and 17 inches deep.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-9.jpg)**
 
 **Top View**
 
@@ -1473,11 +1473,11 @@ As currently designed, some examination chairs have fixed footrests that facilit
 
 **5.4.1 Transfer Support Location for M301 and M302**
 
-**Description:** Transfer supports assist individuals while making transfers on to the transfer area. Provisions require transfer supports be provided for use with the transfer sides and be located within reach of the transfer surface and not obstruct transfer onto the surface when in position.
+**Description:** Transfer supports assist individuals while making transfers on to the transfer area. Provisions require transfer supports be provided for use with the transfer sides and be located within reach of the transfer surface and not obstruct transfer onto the surface when in position.
 
-**NPRM Proposed Provision:** M305.2.1 Location. Transfer supports shall be located within reach of the transfer surface and shall not obstruct transfer onto or off the surface when in position.
+**NPRM Proposed Provision:** M305.2.1 Location. Transfer supports shall be located within reach of the transfer surface and shall not obstruct transfer onto or off the surface when in position.
 
-**NPRM Preamble Discussion:** The transfer support would be located on the side of the transfer surface that is opposite the transfer side (M301.2.3 and M302.2.3) similar to the provisions in the 2010 Standards for grab bars provided at bathtubs and shower compartments with seats. This would be a minimum requirement. Where possible, it is recommended that supports be provided on each side of the transfer surface that is 15 inches deep minimum for patients to maintain position after they have transferred onto the equipment, and that the supports be repositionable to permit transfer.
+**NPRM Preamble Discussion:** The transfer support would be located on the side of the transfer surface that is opposite the transfer side (M301.2.3 and M302.2.3) similar to the provisions in the 2010 Standards for grab bars provided at bathtubs and shower compartments with seats. This would be a minimum requirement. Where possible, it is recommended that supports be provided on each side of the transfer surface that is 15 inches deep minimum for patients to maintain position after they have transferred onto the equipment, and that the supports be repositionable to permit transfer.
 
 **The Committee recommends transfer supports be required on both sides of the transfer surface and be movable or removable so the supports are out of way during transfer.**
 
@@ -1485,7 +1485,7 @@ As currently designed, some examination chairs have fixed footrests that facilit
 
 Transfer supports or handholds on adjustable medical equipment facilitate transfers onto a transfer surface by giving the individual something to hold or grab onto while transferring. This recommendation for placement of the supports on both sides of the equipment will increase options during patient transfers.
 
-**Figure 5.4.1 Location and Length of Transfer Supports**\
+**Figure 5.4.1 Location and Length of Transfer Supports**\
 (SOURCE: Midmark Corporation)
 
 ![Top view of an examination table with A through D highlighted on the table.  A represents the table seat depth of 17 inches minimum; B represents the transfer support length of 15 inches; C represents the 1 1/2 inches distance between the transfer support and the transfer surface and D represents the minimum 80% (12 inches minimum) overlap between the transfer surface support and the transfer surface.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-12.jpg)\
@@ -1533,11 +1533,11 @@ Any support design must take into consideration the risks associated with IV or 
 
 **5.4.2 Transfer Support Length for M301 and M302**
 
-**Description:** Transfer support length applies to the gripping surface of the support, that portion of the support used to grasp or maintain balance against while performing a transfer. The purpose of a minimum length is to ensure that there is a minimum gripping surface available to support positioning and repositioning during a transfer. This is a linear measurement (see Figure 5.4.1).
+**Description:** Transfer support length applies to the gripping surface of the support, that portion of the support used to grasp or maintain balance against while performing a transfer. The purpose of a minimum length is to ensure that there is a minimum gripping surface available to support positioning and repositioning during a transfer. This is a linear measurement (see Figure 5.4.1).
 
-**NPRM Proposed Provision:** Length not addressed.
+**NPRM Proposed Provision:** Length not addressed.
 
-**NPRM Preamble Discussion:** The Access Board is considering whether the following technical criteria would be appropriate for the location and size of transfer supports. The transfer support would extend horizontally the entire depth of the transfer surface and would be 15 inches minimum in length.
+**NPRM Preamble Discussion:** The Access Board is considering whether the following technical criteria would be appropriate for the location and size of transfer supports. The transfer support would extend horizontally the entire depth of the transfer surface and would be 15 inches minimum in length.
 
 **The Committee recommends 15 inches minimum length positioned so that the transfer support overlaps the minimum depth of the transfer surface by 80%.**
 
@@ -1558,7 +1558,7 @@ The length provides continuous support for patients using the stretchers. This i
 **Figure 5.4.2.1 Transfer Support Location -- Side View**\
 (SOURCE: Stryker Medical)
 
- ![Side view of a stretcher showing the 6 inches minimum and 19 inches maximum location of the transfer support and the length of 28 inches maximum and 15 inches minimum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-14.jpg)
+ ![Side view of a stretcher showing the 6 inches minimum and 19 inches maximum location of the transfer support and the length of 28 inches maximum and 15 inches minimum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-14.jpg)
 
 **5.4.2.2 Transfer and Positioning Support Length Recommendations for Imaging Equipment with Transfer Surfaces**
 
@@ -1576,8 +1576,8 @@ Either a transfer support or positioning support may need to be separate from th
 
 The two-part standard addresses various widths of tables. (see Section 5.4.1.2).
 
-**5.4.2.2 Schematic of Transfer Surface and Patient Support for Diagnostic Imaging Equipment**\
-(SOURCE: GE Healthcare)
+**5.4.2.2 Schematic of Transfer Surface and Patient Support for Diagnostic Imaging Equipment**\
+(SOURCE: GE Healthcare)
 
 ![A plan view of a scanning bed for imaging equipment.  The transfer surface location is shown and it is noted that the table width is not specified outside of the designated transfer surface.  The location and length  of the transfer support or positioning suppor t is shown.  It is noted that a gap exception is included that allows 3 inches maximum for foldable, collapsible, removable and articulating supports.  ]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-15.jpg)\
 **5.4.3 Transfer Support Height for M301 and M302**
@@ -1586,7 +1586,7 @@ The two-part standard addresses various widths of tables. (see Section 5.4.1.2).
 
 **NPRM Proposed Provision**: Height not addressed.
 
-**NPRM Preamble Discussion:** The Access Board is considering whether 6 inches minimum and 19 inches maximum above the transfer surface would be an appropriate height for transfer supports on diagnostic equipment used by patients in a supine, prone, or side-lying position, and diagnostic equipment used by patients in a seated position. The minimum height is consistent with the information provided by Midmark Corporation on examination tableside rails, and the maximum height is generally consistent with the height of grab bars above shower seats in the 2010 Standards.
+**NPRM Preamble Discussion:** The Access Board is considering whether 6 inches minimum and 19 inches maximum above the transfer surface would be an appropriate height for transfer supports on diagnostic equipment used by patients in a supine, prone, or side-lying position, and diagnostic equipment used by patients in a seated position. The minimum height is consistent with the information provided by Midmark Corporation on examination tableside rails, and the maximum height is generally consistent with the height of grab bars above shower seats in the 2010 Standards.
 
 **The Committee recommends following the Access Board's proposed height of 6 to 19 inches from the top of the transfer surface for transfer supports.**
 
@@ -1611,11 +1611,11 @@ See above discussion on transfer supports for imaging equipment with transfer su
 
 **5.4.4 Transfer Support Distance from Transfer Surface Recommendations for M301 and M302**
 
-**Description:** This minimum distance ensures that the transfer support is within reach of the transfer surface and can be effectively used to position during a transfer. The gripping surface measurement is horizontal from the adjacent edge of the transfer surface (see figure 5.4.1).
+**Description:** This minimum distance ensures that the transfer support is within reach of the transfer surface and can be effectively used to position during a transfer. The gripping surface measurement is horizontal from the adjacent edge of the transfer surface (see figure 5.4.1).
 
-**NPRM Proposed Provision:** M305.2.1 Location. Transfer supports shall be located within reach of the transfer surface and shall not obstruct transfer onto or off the surface when in position.
+**NPRM Proposed Provision:** M305.2.1 Location. Transfer supports shall be located within reach of the transfer surface and shall not obstruct transfer onto or off the surface when in position.
 
-**NPRM Preamble Discussion:** The Access Board is considering whether the following technical criteria would be appropriate for the location and size of transfer supports on diagnostic equipment used by patients in a supine, prone or side-lying position, and diagnostic equipment used by patients in a seated position:
+**NPRM Preamble Discussion:** The Access Board is considering whether the following technical criteria would be appropriate for the location and size of transfer supports on diagnostic equipment used by patients in a supine, prone or side-lying position, and diagnostic equipment used by patients in a seated position:
 
 -   At least one transfer support would be provided on the side of the transfer surface that is 15 inches deep minimum. The transfer support would be located on the side of the transfer surface that is opposite the transfer side (see M301.2.3 and M302.2.3) similar to the provisions in the 2004 ADA and ABA Accessibility Guidelines for grab bars provided at bathtubs and shower compartments with seats. This would be a minimum requirement. Where possible, it is recommended that supports be provided on each side of the transfer surface that is 15 inches deep minimum for patients to maintain position after they have transferred onto the equipment, and that the supports be repositionable to permit transfer.
 -   The transfer support would extend horizontally the entire depth of the transfer surface and would be 15 inches minimum in length.
@@ -1647,13 +1647,13 @@ Currently transfer supports are part of the side rail system on stretchers. To a
 
 The Committee decided to follow the recommended 1 1/2inch proposal but included a 3-inch dimension to accommodate movement of the support. This standard parallels the recommendation for stretchers (see Figure 5.4.1.1).
 
-**5.4.5 Transfer Support Position Recommendation for M301 and M302**
+**5.4.5 Transfer Support Position Recommendation for M301 and M302**
 
-**Description:** Transfer support position refers to the placement of the gripping surface within the minimum and maximum vertical height ranges proposed. It addresses angled supports or contoured portions of horizontal supports often provided for ergonomics or equipment design considerations. This provision would apply along the support length and not to the cross-sectional profile of the gripping surface, see Figure 5.4.1.1.
+**Description:** Transfer support position refers to the placement of the gripping surface within the minimum and maximum vertical height ranges proposed. It addresses angled supports or contoured portions of horizontal supports often provided for ergonomics or equipment design considerations. This provision would apply along the support length and not to the cross-sectional profile of the gripping surface, see Figure 5.4.1.1.
 
-**NPRM Proposed Provision:** position not addressed.
+**NPRM Proposed Provision:** position not addressed.
 
-**NPRM Question 17 e):** Should angled or vertical transfer supports be permitted?
+**NPRM Question 17 e):** Should angled or vertical transfer supports be permitted?
 
 **The Committee recommends a gripping surface be located within the minimum and maximum heights.**
 
@@ -1677,11 +1677,11 @@ A positioning support will extend horizontally along the side of the patient sca
 
 **5.4.6 Transfer Support Gripping Surface Cross Section and Clearances for M301, M302, and M305.2**
 
-**Description:** This provision prescribes a cross-sectional profile of the transfer support sufficient to enable individuals with disabilities to firmly grasp the gripping surface and support themselves during transfers. The provision addresses gripping surface diameter and perimeter of the support.
+**Description:** This provision prescribes a cross-sectional profile of the transfer support sufficient to enable individuals with disabilities to firmly grasp the gripping surface and support themselves during transfers. The provision addresses gripping surface diameter and perimeter of the support.
 
-**NPRM Proposed Provision:** gripping surface cross section not addressed.
+**NPRM Proposed Provision:** gripping surface cross section not addressed.
 
-**NPRM Preamble Discussion:** The 2010 Standards specify the following dimensions for grab bars to enable individuals with disabilities to firmly grasp the grab bars and support themselves during transfers:
+**NPRM Preamble Discussion:** The 2010 Standards specify the following dimensions for grab bars to enable individuals with disabilities to firmly grasp the grab bars and support themselves during transfers:
 
 -   Grab bars with circular cross sections must have an outside diameter of 1¼ inches minimum and 2 inches maximum.
 -   Grab bars with non-circular cross sections must have a cross section dimension of 2 inches maximum and a perimeter dimension of 4 inches minimum and 4.8 inches maximum.
@@ -1696,7 +1696,7 @@ The cross section dimensions contained in the 2010 Standards used for grab bars 
 **Figure 5.4.6(a) Gripping Surface Circular Cross Section**\
 (SOURCE: U.S. Access Board)
 
- ![Picture of a hand aroung the circular cross section of a transfer support.  The size of the gripping surface is shown to be 1 1/4 inches minimum to 2 inches maximum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-17.jpg)
+ ![Picture of a hand aroung the circular cross section of a transfer support.  The size of the gripping surface is shown to be 1 1/4 inches minimum to 2 inches maximum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-17.jpg)
 
 **Figure 5.4.6(b) Gripping Surface Non-Circular Cross Section**\
 (SOURCE: U.S. Access Board)
@@ -1704,11 +1704,11 @@ The cross section dimensions contained in the 2010 Standards used for grab bars 
 ![Diagram of the cross sections of to non circular transfer support.  The maximum inside diameter is shown as 2 inches with a perimeter of 4 to 4.8.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-18.jpg)\
 **5.4.7 Transfer Support Gripping Surface Clearance Recommendation for M301 and M302**
 
-**Description:** A clearance around the gripping surface is necessary to ensure sufficient space for a person to grasp the transfer support. This clearance would allow the fingers and knuckles to clear adjacent equipment parts as they grip the support. This clearance location is around the cross section of the gripping surface (see Figure 5.4.7).
+**Description:** A clearance around the gripping surface is necessary to ensure sufficient space for a person to grasp the transfer support. This clearance would allow the fingers and knuckles to clear adjacent equipment parts as they grip the support. This clearance location is around the cross section of the gripping surface (see Figure 5.4.7).
 
-**NPRM Proposed Provision:** Gripping surface clearance not addressed.
+**NPRM Proposed Provision:** Gripping surface clearance not addressed.
 
-**NPRM Preamble Discussion:** The Access Board is considering whether 1½ inches minimum clearance around the gripping surface would be appropriate for transfer supports on diagnostic equipment used by patients in a supine, prone, or side-lying position, and diagnostic equipment used by patients in a seated position.
+**NPRM Preamble Discussion:** The Access Board is considering whether 1½ inches minimum clearance around the gripping surface would be appropriate for transfer supports on diagnostic equipment used by patients in a supine, prone, or side-lying position, and diagnostic equipment used by patients in a seated position.
 
 **The Committee recommends following the Access Board's proposal in the preamble discussion allowing a 1½-inch clearance.**
 
@@ -1719,14 +1719,14 @@ As above, this provision is based on precedent of 2010 Standards and Internation
 **Figure 5.4.7 Gripping Surface Clearance**\
 (SOURCE: U.S. Access Board)
 
- ![Picture of a hand around a transfer support.  Arrows at adjacent sides show a gripping surface clearance of 1 1/2 inches.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-20.jpg)\
+ ![Picture of a hand around a transfer support.  Arrows at adjacent sides show a gripping surface clearance of 1 1/2 inches.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-20.jpg)\
 **5.4.8 Transfer Support Gripping Surface Hazard Recommendation for M301 and M302**
 
-**Description:** Gripping surface hazards are sharp or abrasive elements that prevent an individual from sufficiently grasping the support and may pose an injury hazard during use. The provision would prevent such hazards.
+**Description:** Gripping surface hazards are sharp or abrasive elements that prevent an individual from sufficiently grasping the support and may pose an injury hazard during use. The provision would prevent such hazards.
 
-**NPRM Proposed Provision:** Gripping surface hazards not addressed.
+**NPRM Proposed Provision:** Gripping surface hazards not addressed.
 
-**NPRM Preamble Discussion:** Did not address.
+**NPRM Preamble Discussion:** Did not address.
 
 **The Committee recommends gripping surfaces be free of sharp or abrasive elements and have rounded edges.**
 
@@ -1736,11 +1736,11 @@ Gripping surface configurations must provide an effective and safe surface for p
 
 **5.4.9 Interruptions along Transfer Support Gripping Recommendation for M301 and M302**
 
-**Description:** Transfer supports may contain elements to provide structural support or prevent patient entrapment. The elements, bars, pickets, spacers, panels, and similar features, connect to the transfer support and may interrupt the gripping surface. At the point of connection, these features impede the ability to grasp completely around the cross section of the gripping surface. The proposed provision seeks to balance the need for such features with an adequately usable transfer support.
+**Description:** Transfer supports may contain elements to provide structural support or prevent patient entrapment. The elements, bars, pickets, spacers, panels, and similar features, connect to the transfer support and may interrupt the gripping surface. At the point of connection, these features impede the ability to grasp completely around the cross section of the gripping surface. The proposed provision seeks to balance the need for such features with an adequately usable transfer support.
 
-**NPRM Proposed Provision:** Interruptions along gripping surface not addressed.
+**NPRM Proposed Provision:** Interruptions along gripping surface not addressed.
 
-**NPRM Preamble Discussion:** Did not address.
+**NPRM Preamble Discussion:** Did not address.
 
 **The Committee recommends the bottom of the transfer support have no obstructions affecting more than 20% of its length.**
 
@@ -1748,11 +1748,11 @@ Gripping surface configurations must provide an effective and safe surface for p
 
 This recommendation assures that patients needing the use of the transfer support can easily grip the support. Gaps or interruptions along the bottom of the transfer surface may not obstruct more than 20% of its length per the 2010 Standards. Section 505.6 specifies that the gripping surface on the vertical support structure that is necessary for supporting the grip must not be discontinuous.
 
-**5.4.10 Transfer Support Fittings Recommendations for M301 and M302**
+**5.4.10 Transfer Support Fittings Recommendations for M301 and M302**
 
-**Description:** To ensure safe and effective transfers, transfer supports must not rotate within their fittings during use. The proposed provision uses technical criteria in the 2010 Standards for grab bars.
+**Description:** To ensure safe and effective transfers, transfer supports must not rotate within their fittings during use. The proposed provision uses technical criteria in the 2010 Standards for grab bars.
 
-**NPRM Proposed Provision:** M305.2.3 Fittings. Transfer supports shall not rotate within their fittings.
+**NPRM Proposed Provision:** M305.2.3 Fittings. Transfer supports shall not rotate within their fittings.
 
 **The Committee recommends transfer supports not rotate when locked in place for patient transfer or use.**
 
@@ -1765,9 +1765,9 @@ To be useful, transfer supports will be of varying configuration and designs. So
 **5.4.11 Transfer Support Structural Strength Recommendations for**\
 **M301 and M302**
 
-**Description:** Transfer supports and their connections must be capable of resisting sufficient vertical and horizontal forces to remain stable during use. The proposed provision addresses these aspects of structural strength.
+**Description:** Transfer supports and their connections must be capable of resisting sufficient vertical and horizontal forces to remain stable during use. The proposed provision addresses these aspects of structural strength.
 
-**NPRM Proposed Provision:** M305.2.2 Structural Strength. Transfer supports and their connections shall be capable of resisting vertical and horizontal forces of 250 pounds (1,112 N) applied at all points on the transfer support.
+**NPRM Proposed Provision:** M305.2.2 Structural Strength. Transfer supports and their connections shall be capable of resisting vertical and horizontal forces of 250 pounds (1,112 N) applied at all points on the transfer support.
 
 **The Committee recommends transfer supports and connections contain the strength to resist vertical and horizontal forces of 250 pounds at locations determined by the intended use of the equipment.**
 
@@ -1779,9 +1779,9 @@ The Committee recommends a proposal that harmonizes the transfer support require
 
 **5.5.1 Armrest Provision for M302**
 
-**Description:** Diagnostic equipment used by patients in a seated position such as exam chairs typically have armrests. The proposed provision requires armrests as these enhance patient comfort and stability. However, this requirement does not supplant provisions for transfer supports. Today, some chair types contain armrests used for transferring and positioning.
+**Description:** Diagnostic equipment used by patients in a seated position such as exam chairs typically have armrests. The proposed provision requires armrests as these enhance patient comfort and stability. However, this requirement does not supplant provisions for transfer supports. Today, some chair types contain armrests used for transferring and positioning.
 
-**NPRM Proposed Provision:** M302.3.2 Armrests. Where patients are positioned in a seated position, armrests shall be provided.
+**NPRM Proposed Provision:** M302.3.2 Armrests. Where patients are positioned in a seated position, armrests shall be provided.
 
 **The Committee recommends that armrests not be required but if provided they cannot obstruct transfer supports.**
 
@@ -1795,9 +1795,9 @@ Armrests serve a similar function, and occupy the same physical space, as the tr
 
 **5.6.1 Stirrups Provision for M301**
 
-**NPRM Description:** For patients with limited leg strength and control, thigh, knee and calf supports are necessary to maintain an appropriate position. Stirrups that support only the foot and require active user leg strength are insufficient. The proposed provision ensures a method of supporting, positioning, and securing the patient's legs.
+**NPRM Description:** For patients with limited leg strength and control, thigh, knee and calf supports are necessary to maintain an appropriate position. Stirrups that support only the foot and require active user leg strength are insufficient. The proposed provision ensures a method of supporting, positioning, and securing the patient's legs.
 
-**NPRM Proposed Provision:** M301.3.2 Stirrups. Where stirrups are provided, they shall provide a method of supporting, positioning, and securing the patient's legs.
+**NPRM Proposed Provision:** M301.3.2 Stirrups. Where stirrups are provided, they shall provide a method of supporting, positioning, and securing the patient's legs.
 
 **The Committee recommends where equipment provides stirrups, it must also provide an alternate method to support, position, and secure the patient's legs (specifically including sufficient support of the patient's thigh, knee, and calf to stabilize the leg). This method will either supplement or serve as a substitute for the stirrups.**
 
@@ -1814,11 +1814,11 @@ When stirrups (also called foot supports) alone will not provide a method of sup
 
 **5.7.1 Lift Compatibility Clearance in Base for M301**
 
-**Description:** For portable floor lifts to be effective, they must deploy at diagnostic equipment such that the boom of the lifts can maneuver far enough over the equipment to safely lower and raise the patient onto and off examination surfaces. The proposed clearance in the base provision allows the legs of a portable floor lift to fit under the base of the equipment. The proposed clearance around the base provision allows the legs of a portable floor lift to straddle the equipment base.
+**Description:** For portable floor lifts to be effective, they must deploy at diagnostic equipment such that the boom of the lifts can maneuver far enough over the equipment to safely lower and raise the patient onto and off examination surfaces. The proposed clearance in the base provision allows the legs of a portable floor lift to fit under the base of the equipment. The proposed clearance around the base provision allows the legs of a portable floor lift to straddle the equipment base.
 
-**NPRM Proposed Provision:** M301.4.1 Clearance in Base. The base of the equipment shall provide a clearance 44 inches wide minimum, 6 inches high minimum measured from the floor, and 36 inches deep minimum measured from the edge of the examination surface. Where the width of the examination surface is less than 36 inches, the clearance depth shall extend the full width of the equipment. Equipment components are permitted to be located within 8 inches maximum of the centerline of the clearance width.
+**NPRM Proposed Provision:** M301.4.1 Clearance in Base. The base of the equipment shall provide a clearance 44 inches wide minimum, 6 inches high minimum measured from the floor, and 36 inches deep minimum measured from the edge of the examination surface. Where the width of the examination surface is less than 36 inches, the clearance depth shall extend the full width of the equipment. Equipment components are permitted to be located within 8 inches maximum of the centerline of the clearance width.
 
-**5.7.1.1 Lift Compatibility Clearance in Base for Stretchers (M301)**
+**5.7.1.1 Lift Compatibility Clearance in Base for Stretchers (M301)**
 
 **The Committee recommends the equipment base provide a clearance of 39 inches wide minimum.**
 
@@ -1828,7 +1828,7 @@ The recommendation for stretchers is for a smaller clearance width than the 44-i
 
 For stretchers with a shorter wheelbase than "standard," the clearance for a lift may use both the clearance in the base and the clearance around the base to position the lift around the stretcher for patient transfers. With a short wheelbase, one leg of a portable lift can extend through the base and the second leg can extend around the base. The size of the clearance is still consistent with the proposed recommendation but this illustrates a different use of the space configuration.
 
-**5.7.1.2 Lift Compatibility Clearance in Base for Imaging Equipment (M301)**
+**5.7.1.2 Lift Compatibility Clearance in Base for Imaging Equipment (M301)**
 
 **The Committee recommends the use of alternative means of access by an overhead lift in place of clearances in and around the equipment base where portable lifts are not feasible.**
 
@@ -1840,8 +1840,8 @@ Overhead lifts are not feasible in the MR exam room due to the magnetic fields. 
 
 Below is a picture of an existing CT room with a ceiling mounted overhead lift. This may offer flexibility over a portable lift because it can transfer the patient from either side placing the patient in the desired imaging orientation, and the ability to move completely out of the way when not needed.
 
-**Figure 5.7.1.2 An existing CT room with a ceiling mounted overhead lift**\
-(SOURCE: GE Healthcare)
+**Figure 5.7.1.2 An existing CT room with a ceiling mounted overhead lift**\
+(SOURCE: GE Healthcare)
 
 ![Photo of a CT room shown the CT equipment and an overhead lift mounted on the ceiling.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-21.jpg)
 
@@ -1849,15 +1849,15 @@ Below is a picture of an existing CT room with a ceiling mounted overhead lift. 
 
 **5.8.1 Wheelchair Spaces on Raised Platforms Recommendations**
 
-**Description:** Proposed section M303 provides technical criteria for diagnostic equipment used by patients seated in a wheelchair. The provisions allow patients who use wheelchairs to position their devices at equipment typically used in a standing position such as mammography equipment, and applies to equipment specifically designed for patients seated in a wheelchair such as weight scales. Portable and fold-up weight scales with wheelchair spaces are also the ubiquitous example of diagnostic equipment with raised platforms. The proposed recommendations address considerations unique to these.
+**Description:** Proposed section M303 provides technical criteria for diagnostic equipment used by patients seated in a wheelchair. The provisions allow patients who use wheelchairs to position their devices at equipment typically used in a standing position such as mammography equipment, and applies to equipment specifically designed for patients seated in a wheelchair such as weight scales. Portable and fold-up weight scales with wheelchair spaces are also the ubiquitous example of diagnostic equipment with raised platforms. The proposed recommendations address considerations unique to these.
 
-**NPRM Proposed Provision:** M303.2 Wheelchair Spaces. A wheelchair space complying with M303.2 shall be provided at diagnostic equipment.
+**NPRM Proposed Provision:** M303.2 Wheelchair Spaces. A wheelchair space complying with M303.2 shall be provided at diagnostic equipment.
 
-**M303.2.2 Width.** Wheelchair spaces shall be 36 inches wide minimum.
+**M303.2.2 Width.** Wheelchair spaces shall be 36 inches wide minimum.
 
-**M303.2.3 Depth.** Where wheelchair spaces can be entered from the front or rear, the wheelchair space shall be 48 inches deep minimum. Where wheelchair spaces can be entered only from the side, the wheelchair space shall be 60 inches deep minimum.
+**M303.2.3 Depth.** Where wheelchair spaces can be entered from the front or rear, the wheelchair space shall be 48 inches deep minimum. Where wheelchair spaces can be entered only from the side, the wheelchair space shall be 60 inches deep minimum.
 
-**NPRM Preamble Discussion:** The Access Board is considering adding exceptions in the final standards to the minimum width in M303.2.2 and the minimum depth in M303.2.3 for diagnostic equipment with wheelchair spaces on raised platforms.
+**NPRM Preamble Discussion:** The Access Board is considering adding exceptions in the final standards to the minimum width in M303.2.2 and the minimum depth in M303.2.3 for diagnostic equipment with wheelchair spaces on raised platforms.
 
 **5.8.1.1 Clear Platform Size Recommendation**
 
@@ -1865,7 +1865,7 @@ Below is a picture of an existing CT room with a ceiling mounted overhead lift. 
 
 ***Rationale for the recommendation***
 
-The platform size of 32 inches minimum width by 40 inches minimum length accommodates both manual and power wheeled mobility devices including small and mid-size scooters. This platform size may not accommodate some larger scooters with a 4-wheel base. The Wheeled Mobility Anthropometry Project recommends this platform dimension.[iv](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#iv) These study findings noted that a 36-inch length accommodates standard manual and power wheelchairs and most, if not all, large size-extra wide manual chairs. This size platform allows the person to maneuver and position the device even though many devices may not stop precisely in the middle of the platform.
+The platform size of 32 inches minimum width by 40 inches minimum length accommodates both manual and power wheeled mobility devices including small and mid-size scooters. This platform size may not accommodate some larger scooters with a 4-wheel base. The Wheeled Mobility Anthropometry Project recommends this platform dimension.[iv](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#iv) These study findings noted that a 36-inch length accommodates standard manual and power wheelchairs and most, if not all, large size-extra wide manual chairs. This size platform allows the person to maneuver and position the device even though many devices may not stop precisely in the middle of the platform.
 
 To have an accurate weight, the entire wheelbase (either 3 or 4 wheels) of a mobility device must rest on and make contact with the platform. The foot pedals, footrests, scooter deck and tip wheels can overhang or extend beyond the platform and still get an accurate weight.[II](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#ii)
 
@@ -2089,15 +2089,15 @@ The Wheeled Mobility Anthropometry Project recommends a minimum flat surface of 
 **5.8.1.2 Entry to Wheelchair Spaces on Raised Platforms**\
 **Recommendations**
 
-**Description:** Entry to wheelchair spaces on raised surfaces greater than ¼ inch in height requires a transition via a bevel or ramp so that people using mobility devices will be able to maneuver onto and off it. The proposed provision includes technical criteria for changes in level at the entry of a wheelchair space. This change in level may occur on wheelchair weight scales with raised platforms. The technical criteria are consistent with the 2010 Standards.
+**Description:** Entry to wheelchair spaces on raised surfaces greater than ¼ inch in height requires a transition via a bevel or ramp so that people using mobility devices will be able to maneuver onto and off it. The proposed provision includes technical criteria for changes in level at the entry of a wheelchair space. This change in level may occur on wheelchair weight scales with raised platforms. The technical criteria are consistent with the 2010 Standards.
 
-**NPRM Proposed Provision:** M303.3 Entry. Where there is a change in level at the entry to a wheelchair space, the change in level shall comply with M303.3.
+**NPRM Proposed Provision:** M303.3 Entry. Where there is a change in level at the entry to a wheelchair space, the change in level shall comply with M303.3.
 
-**M303.3.3 Ramped.** Changes in level greater than ½ inch high shall be ramped and shall comply with M303.3.3.
+**M303.3.3 Ramped.** Changes in level greater than ½ inch high shall be ramped and shall comply with M303.3.3.
 
-**M303.3.3.1 Running Slope.** Ramp runs shall have a running slope no steeper than 1:12.
+**M303.3.3.1 Running Slope.** Ramp runs shall have a running slope no steeper than 1:12.
 
-**M303.3.3.4 Edge Protection.** Ramps with drop offs ½ inch or greater shall provide edge protection 2 inches high minimum on each side.
+**M303.3.3.4 Edge Protection.** Ramps with drop offs ½ inch or greater shall provide edge protection 2 inches high minimum on each side.
 
 **5.8.1.2.1 Ramped Entry Slope Recommendations**
 
@@ -2142,7 +2142,7 @@ Edge protection provides an additional safety feature and guides users of wheele
 (SOURCE: U.S. Access Board)
 
 ![A plan view of a double ramp scale with 2 inches minimum edge protection on both sides.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-24.jpg)\
-**5.8.1.2.4 Edge Protection on Platforms 1½ inches or less in Height Recommendations**
+**5.8.1.2.4 Edge Protection on Platforms 1½ inches or less in Height Recommendations**
 
 **The Committee recommends that no edge protection be required on platforms of 1½ inches or less in height.**
 
@@ -2152,27 +2152,27 @@ Edge protection on platforms of heights of 1½ inches or less is not required be
 
 **5.8.2 Knee and Toe Clearance Recommendations under Breast Platform Recommendations**
 
-**Description:** The knee and toe clearance under the breast platform applies to mammography equipment for patients seated in a wheelchair. Knee and toe clearances are critical where patients seated in a wheelchair need to position their knees and toes next to or underneath a component of the diagnostic equipment. The proposed provision requires the depth of wheelchair spaces to include knee and toe clearance. Given the unique use of mammography equipment, the provision also contains a specific depth requirement under breast platforms.
+**Description:** The knee and toe clearance under the breast platform applies to mammography equipment for patients seated in a wheelchair. Knee and toe clearances are critical where patients seated in a wheelchair need to position their knees and toes next to or underneath a component of the diagnostic equipment. The proposed provision requires the depth of wheelchair spaces to include knee and toe clearance. Given the unique use of mammography equipment, the provision also contains a specific depth requirement under breast platforms.
 
-**NPRM Proposed Provision:** M303.2.4 Knee and Toe Clearance. Wheelchair spaces shall include knee and toe clearance complying with M303.2.4. The depth of the wheelchair space shall include knee and toe clearance of 17 inches minimum and 25 inches maximum. Knee and toe clearance under breast platforms shall be 25 inches deep.
+**NPRM Proposed Provision:** M303.2.4 Knee and Toe Clearance. Wheelchair spaces shall include knee and toe clearance complying with M303.2.4. The depth of the wheelchair space shall include knee and toe clearance of 17 inches minimum and 25 inches maximum. Knee and toe clearance under breast platforms shall be 25 inches deep.
 
-**M303.2.4.1 Toe Clearance.** Toe clearance shall be provided at a height of 9 inches above the floor to a depth of 6 inches maximum.
+**M303.2.4.1 Toe Clearance.** Toe clearance shall be provided at a height of 9 inches above the floor to a depth of 6 inches maximum.
 
-**M303.2.4.2 Knee Clearance.** Knee clearance shall be provided at a depth of 11 inches minimum and 25 inches maximum at 9 inches above the floor and at a depth of 8 inches minimum at 27 inches above the floor. Between 9 inches and 27 inches above the floor, the knee clearance shall be permitted to reduce at a rate of 1 inch in depth for every 6 inches in height.
+**M303.2.4.2 Knee Clearance.** Knee clearance shall be provided at a depth of 11 inches minimum and 25 inches maximum at 9 inches above the floor and at a depth of 8 inches minimum at 27 inches above the floor. Between 9 inches and 27 inches above the floor, the knee clearance shall be permitted to reduce at a rate of 1 inch in depth for every 6 inches in height.
 
-**NPRM Preamble Discussion:** The dimensions for toe clearance in M303.2.4.1 and knee clearance in M303.2.4.2 are based on the 2010 Standards and are shown in the second column of the table below. The Wheeled Mobility Anthropometry Project showed that these dimensions do not accommodate many people in the sample and recommended alternative dimensions that would accommodate 95 percent of the people in the sample. The alternative dimensions recommended by Wheeled Mobility Anthropometry Project are below in the last column of the table. The Access Board is considering requiring in the final standards the dimensions for toe clearance and knee clearance recommended by the Wheeled Mobility Anthropometry Project.
+**NPRM Preamble Discussion:** The dimensions for toe clearance in M303.2.4.1 and knee clearance in M303.2.4.2 are based on the 2010 Standards and are shown in the second column of the table below. The Wheeled Mobility Anthropometry Project showed that these dimensions do not accommodate many people in the sample and recommended alternative dimensions that would accommodate 95 percent of the people in the sample. The alternative dimensions recommended by Wheeled Mobility Anthropometry Project are below in the last column of the table. The Access Board is considering requiring in the final standards the dimensions for toe clearance and knee clearance recommended by the Wheeled Mobility Anthropometry Project.
 
 **Table 5.8.2(a)**\
 **Recommended Dimensions for Knee and Toe Clearances**
 
-|   | **Proposed Dimensions Based on 2010 Standards ** | **Dimensions Recommended by Wheeled Mobility Anthropometry Project ** |
-| **Toe Clearance ** |  6 inches deep maximum at 9 inches above the floor |  5 inches deep maximum at 14 inches above the floor |
-| ** Knee **\
+|   | **Proposed Dimensions Based on 2010 Standards ** | **Dimensions Recommended by Wheeled Mobility Anthropometry Project ** |
+| **Toe Clearance ** |  6 inches deep maximum at 9 inches above the floor |  5 inches deep maximum at 14 inches above the floor |
+| ** Knee **\
 **Clearance** |
 
 11 inches deep minimum at 9 inches above the floor, and 8 inches deep minimum at 27 inches above the floor
 
-Between 9 inches and 27 inches above the floor, knee clearance is permitted to reduce at rate of 1 inch in depth for every 6 inches in height 
+Between 9 inches and 27 inches above the floor, knee clearance is permitted to reduce at rate of 1 inch in depth for every 6 inches in height 
 
  |
 
@@ -2190,15 +2190,15 @@ Each of these measurements creates a more accessible piece of imaging equipment 
 The M303.2.4 proposed NPRM provision and the dimensions recommended by the Wheeled Mobility Anthropometry Project are based on an anthropomorphic model that defines knee and toe clearances based on measurements from the tip of a person's foot. Industry suggested that using an anthropomorphic model that defines knee and toe clearances based on measurements from a person's abdomen would be more appropriate because mammography procedures require a person's chest to be flush with the front of the breast platform. Industry also indicated that the Committee would need to consider the range of travel of the breast platform and the impact that it has on the knee and toe space. The Committee reviewed the relevant anthropomorphic modelsand industry input on how these elements affect one another from a technical perspective. Below is an overview of the rationale for each of the final recommended dimensions affecting the knee and toe clearance underneath the breast platform. Figure 5.8.2 illustrates each of the critical dimensions. Further discussion of each of these dimensions follows in sections 5.8.2.1 -- 5.8.2.7.
 
 **Figure 5.8.2 Overview of the Critical Dimensions that Define the Knee and Toe Space Underneath the Breast Platform.\
-**(SOURCE: Hologic, Inc.)
+**(SOURCE: Hologic, Inc.)
 
 ![Side view diagram of mammography equipment showing dimensions that define the knee and toe space under the breast platform.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-25.jpg)\
 **Table 5.8.2(b) Critical Equipment Dimensions with the relevant Anthropomorphic Data**
 
 | **Critical Dimension** | **Anthropomorphic Data /Rationale** | **Final Decision** |
-| Height of Breast Platform At Time of Measurement | Set point to define method of measurement; consideration of ADA/ABA guidelines and breast platform geometries | 34 inches above the ground |
+| Height of Breast Platform At Time of Measurement | Set point to define method of measurement; consideration of ADA/ABA guidelines and breast platform geometries | 34 inches above the ground |
 | Knee Clearance Depth at 27" above the ground | 95th percentile knee clearance measured from abdomen to front of person's knees, univariate female-only data[vi](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#vi) | 18 inches minimum |
-| Overall Knee and Toe Clearance | Abdomen-to-toe depth, female only data[vii](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#vii) ; technical information; consideration of positioning methods | 28 inches minimum |
+| Overall Knee and Toe Clearance | Abdomen-to-toe depth, female only data[vii](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#vii) ; technical information; consideration of positioning methods | 28 inches minimum |
 | Unobstructed Floor Space | Abdomen-to-caster wheel depth, combined male and female[vii](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#vii); technical information; consideration of positioning methods | 17 inches minimum |
 | Toe Height | 95th percentile toe height, univariate female-only data[vi](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#vi); consideration of breast platform moving to lower heights | 18 inches minimum |
 | Clearance Depth at Toe Height above the ground | 95th percentile knee clearance measured from abdomen to front of person's legs at toe height above the ground[v](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#v), combined male and female data | 22 inches minimum |
@@ -2251,19 +2251,19 @@ While discussing these issues, the Committee also considered positioning methods
 
 To accommodate 95% of female wheelchair users, the anthropomorphic data shows that 30.5 inches and 19.5 inches are the necessary minimum overall knee and toe clearance and unobstructed floor space dimensions, respectively. [Data is below in Tables 5.8.2.4(a) and 5.8.2.4(b)]. Members agreed on reducing these dimensions by 2.5 inches to adjust for the upright pose and to ensure technical feasibility and equipment safety. The final Committee recommendation is to require a minimum of 28 inches overall knee and toe clearance and a minimum of 17 inches unobstructed floor space. Looking purely at the anthropomorphic data, these dimensions accommodate 80% - 90% of the population. In adjusting for the needed upright pose, the dimension works for 95% of the population. Members recognized that these dimensions are an optimal blend of accessibility and technical feasibility .
 
-**Table 5.8.2.4(a). **Abdomen Depth Data[vii](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#vii) to determine overall knee and toe clearance
+**Table 5.8.2.4(a). **Abdomen Depth Data[vii](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#vii) to determine overall knee and toe clearance
 
-|  | ** Percentile Value** |  |
-| **User Group** | ** Median -- 50th** | ** 75th** | ** 90th** | ** 95th** | **Max ** |
-| Female Manual Wheelchair Users (n=130) |  23.2 | 26.4 | 29.2 | 30.6 |  33.0 |
-| Female Power Wheelchair Users (n=89) |  21.6 | 24.8  |  28.1 |  30.4 |  36.7 |
+|  | ** Percentile Value** |  |
+| **User Group** | ** Median -- 50th** | ** 75th** | ** 90th** | ** 95th** | **Max ** |
+| Female Manual Wheelchair Users (n=130) |  23.2 | 26.4 | 29.2 | 30.6 |  33.0 |
+| Female Power Wheelchair Users (n=89) |  21.6 | 24.8  |  28.1 |  30.4 |  36.7 |
 
-**Table 5.8.2.4(b)** Abdomen-Caster Edge Depth[vii](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#vii) to determine unobstructed floor space 
+**Table 5.8.2.4(b)** Abdomen-Caster Edge Depth[vii](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#vii) to determine unobstructed floor space 
 
-|  | ** Percentile Value** |  |
-| ** User Group** | ** Min** | ** 5th** | ** 10th** | ** 50th** | ** 90th** | ** 95th** | ** Max** |
-|  Manual Wheelchair Users (n=101) |  2.0 | 5.6 | 6.8 | 11.4  | 17.1  | 18.5  | 20.3 |
-|  Power Wheelchair Users (n=67) |  4.1 | 6.0  | 7.8  | 10.9  | 17.6  | 19.3  | 21.9  |
+|  | ** Percentile Value** |  |
+| ** User Group** | ** Min** | ** 5th** | ** 10th** | ** 50th** | ** 90th** | ** 95th** | ** Max** |
+|  Manual Wheelchair Users (n=101) |  2.0 | 5.6 | 6.8 | 11.4  | 17.1  | 18.5  | 20.3 |
+|  Power Wheelchair Users (n=67) |  4.1 | 6.0  | 7.8  | 10.9  | 17.6  | 19.3  | 21.9  |
 
 **5.8.2.5 Toe Height Recommendation**
 
@@ -2271,7 +2271,7 @@ To accommodate 95% of female wheelchair users, the anthropomorphic data shows th
 
 ***Rationale for the recommendation***
 
-The NPRM defined the toe clearance at a height of 9 inches. However, as the breast platform moves up and down, it may intrude on the toe space. Looking further at female-specific toe height data, the 95th percentile toe height is 13 inches for manual wheelchair users and 16.1 inches for power wheelchair users.[vi](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#vi) As such, the subcommittee recommended that the toe height be set to 18 inches (when the breast platform is at the 34 inch height discussed above). This higher 18-inch measurement (compared to the originally proposed 9-inch toe height) would also minimize the chance of the breast platform hitting patients' toes when the breast platform moves to some of its lower heights.
+The NPRM defined the toe clearance at a height of 9 inches. However, as the breast platform moves up and down, it may intrude on the toe space. Looking further at female-specific toe height data, the 95th percentile toe height is 13 inches for manual wheelchair users and 16.1 inches for power wheelchair users.[vi](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/5-recommendations#vi) As such, the subcommittee recommended that the toe height be set to 18 inches (when the breast platform is at the 34 inch height discussed above). This higher 18-inch measurement (compared to the originally proposed 9-inch toe height) would also minimize the chance of the breast platform hitting patients' toes when the breast platform moves to some of its lower heights.
 
 A toe space dimension usually defines a static unobstructed space. However, in the case of mammography, as the breast platform moves up and down, the toe space changes. The 18-inch toe height is defined when the breast platform is at 34 inches above the ground. When the breast platform lowers to its required minimum height of 26 inches, the resulting toe height is 10 inches above the ground. When a patient needs the breast platform to be this low, she is likely to be lower to the ground and thus likely to have her feet closer to the ground as well. As such, a 95th percentile toe height (13 -- 16.1 inches) does not need to be accommodated when the breast platform is at this minimum height. However, it is important to provide extra toe space for patients who are seated close to the ground but have their footrests positioned at more of an angle. The toe height defined here will provide this extra accommodation. Providing this dimension helps define the outer limits of the breast platform configuration in a way that maximizes the dimensions for accessibility.
 
@@ -2290,7 +2290,7 @@ See Table 5.8.2(b).
 **Figure 5.8.2.7(a) Illustration of final committee recommendation on proposed base support configuration.\
 **(SOURCE: Hologic, Inc.)
 
- ![Illustration of final committee recommendation on proposed base support configuration.  Diagram shows a sloped region between 1 1/2 inches and 4 inches above the ground.  The base support height is shown as 1 1/2 maximum at a depth of 25 inches and 4 inches at a depth of 28 inches minimum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-27.jpg)
+ ![Illustration of final committee recommendation on proposed base support configuration.  Diagram shows a sloped region between 1 1/2 inches and 4 inches above the ground.  The base support height is shown as 1 1/2 maximum at a depth of 25 inches and 4 inches at a depth of 28 inches minimum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-27.jpg)
 
 ***Rationale for the recommendation***
 
@@ -2298,17 +2298,17 @@ The base support is of fundamental importance to mammography equipment and provi
 
 To discuss the maximum base support height, the sub-committee looked at anthropomorphic data regarding footrest heights. The footrest height data measures the height from the floor to the top surface of the footrest at its proximal outside corner. To determine the necessary clearance for the footrests, the Committee used the footrest height data and subtracted the thickness of the footrests (~0.5 inch). The ~0.5inch thickness is the recommendation from the data supplied by Steinfeld and D'Souza7. The anthropomorphic data, as well as the calculated footrest clearances, is below in Tables 5.8.2.7(a) and 5.8.2.7(b).
 
-**Table 5.8.2.7(a).** Anthropomorphic data on measured footrest heights
+**Table 5.8.2.7(a).** Anthropomorphic data on measured footrest heights
 
-| ** Device Type** | ** Min** | **5% ** | **10% ** | **50%** | **90%** | **95%** | **Max** |
-| ** Manual (n=101)** |  1.2 | 1.7  | 2.2  | 4.1 | 7.2 | 10.0 | 36.2 |
-| ** Power (n=67)** |  1.8 | 2.7  | 3.1  | 4.8 | 8.8 | 10.5 | 16.9 |
+| ** Device Type** | ** Min** | **5% ** | **10% ** | **50%** | **90%** | **95%** | **Max** |
+| ** Manual (n=101)** |  1.2 | 1.7  | 2.2  | 4.1 | 7.2 | 10.0 | 36.2 |
+| ** Power (n=67)** |  1.8 | 2.7  | 3.1  | 4.8 | 8.8 | 10.5 | 16.9 |
 
-**Table 5.8.2.7(b).** Actual footrest height clearances
+**Table 5.8.2.7(b).** Actual footrest height clearances
 
-| ** Device Type** | ** Min** | **5% ** | **10% ** | **50%** | **90%** | **95%** | **Max** |
-| ** Manual (n=101)** |  0.7 | 1.2  | 1.7  | 3.6  | 6.7  | 9.5  | 35.7  |
-| ** Power (n=67)** |  1.3 | 2.2  | 2.6  | 4.3  | 8.3  | 10  | 16.4  |
+| ** Device Type** | ** Min** | **5% ** | **10% ** | **50%** | **90%** | **95%** | **Max** |
+| ** Manual (n=101)** |  0.7 | 1.2  | 1.7  | 3.6  | 6.7  | 9.5  | 35.7  |
+| ** Power (n=67)** |  1.3 | 2.2  | 2.6  | 4.3  | 8.3  | 10  | 16.4  |
 
 Allowing a maximum base support height of 1.5 inches will provide room for the structural components necessary for an effective base support design and will also be accessible by around 92% of manual chair users and over 95% of power chair users.
 
@@ -2316,7 +2316,7 @@ Committee members noted that allowing the base support to encroach into the floo
 
 The Committee also discussed adding an allowance for a sloped region at the base of the gantry. Many of the mammography machines today have important informational displays at the base of the gantry, on top of the base support (shown as the checkered region in Figure 5.8.2.7(b)) that display information such as compression force and compression thickness.
 
-**Figure 5.8.2.7(b)** Checkered region shows location of informational displays and other mechanical and electrical components on many mammography machines.\
+**Figure 5.8.2.7(b)** Checkered region shows location of informational displays and other mechanical and electrical components on many mammography machines.\
 (SOURCE: Hologic, Inc.)
 
 ![Side view of mammography equipment showing display area located under breast platform on top of the base support.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-28.jpg)
@@ -2365,9 +2365,9 @@ The top of the breast platform would be moved to 34 inches above the ground, and
 
 **5.8.3 Breast Platform Recommendations**
 
-**Description:** In addition to providing knee and toe clearance at the breast platform (see 5.8.2 Knee and Toe Clearance Recommendations under Breast Platforms), the height of the breast platform is also critical to ensuring that mammography equipment is accessible to patients seated in a wheelchair. The proposed provision addresses the low and high heights that must be provided.
+**Description:** In addition to providing knee and toe clearance at the breast platform (see 5.8.2 Knee and Toe Clearance Recommendations under Breast Platforms), the height of the breast platform is also critical to ensuring that mammography equipment is accessible to patients seated in a wheelchair. The proposed provision addresses the low and high heights that must be provided.
 
-**NPRM Proposed Provision:** M303.4.1 Breast Platforms. The height of the breast platform shall be 30 inches high minimum and 42 inches high maximum above the floor when in use by a patient seated in a wheelchair
+**NPRM Proposed Provision:** M303.4.1 Breast Platforms. The height of the breast platform shall be 30 inches high minimum and 42 inches high maximum above the floor when in use by a patient seated in a wheelchair
 
 **5.8.3.1 Breast Platform Height Recommendations**
 
@@ -2389,7 +2389,7 @@ One member expressed support for the lower height in order to facilitate the Mag
 
 **5.9 Standing Support Recommendations for M304 Diagnostic Equipment Used by Patients in a Standing Position**
 
-**Description:** Many people who ambulate with a disability need support to maintain position and balance on diagnostic equipment used by patients in a standing position. The proposed provision requires standing supports be provided on each side of the standing surface. These standing supports may be provided in a horizontal position, vertical position, or a combination of horizontal and vertical positions, as long as the minimum length of gripping surface is provided for the support position used on each side of the standing surface.
+**Description:** Many people who ambulate with a disability need support to maintain position and balance on diagnostic equipment used by patients in a standing position. The proposed provision requires standing supports be provided on each side of the standing surface. These standing supports may be provided in a horizontal position, vertical position, or a combination of horizontal and vertical positions, as long as the minimum length of gripping surface is provided for the support position used on each side of the standing surface.
 
 NPRM Proposed Provision: M304.3 Standing Supports. Standing supports shall be provided on each side of the standing surface and shall comply with M305.3.
 
@@ -2432,7 +2432,7 @@ A standing support must integrate into the platform so that it does not interfer
 
 **Notes**
 
-GG Analysis of Seat Heights for Wheeled Mobility Devices. The study is available at <http://udeworld.com/analysis-of-seat-height-for-wheeled-mobility-devices.>
+GG Analysis of Seat Heights for Wheeled Mobility Devices. The study is available at <http://udeworld.com/analysis-of-seat-height-for-wheeled-mobility-devices.>
 
 HH Of note, the committee also decided by consensus that extreme obesity was not within the scope of the committee's work, but to instead use the data provided by Dr. Steinfeld's study in determining their recommendation. See section 8.1 of this report for further discussion of extreme obesity, and its recommendation for future topics of research.
 
@@ -2444,17 +2444,17 @@ JJ The concept of technical feasibility is one found in other areas of access. I
 
 i http://udeworld.com/analysis-of-seat-height-for-wheeled-mobility-devices
 
-ii "The Impact of Transfer Setup on the Performance of Independent Transfers: Final Report"; Human Engineering Research Laboratories, VA Pittsburgh Healthcare System, University of Pittsburgh.
+ii "The Impact of Transfer Setup on the Performance of Independent Transfers: Final Report"; Human Engineering Research Laboratories, VA Pittsburgh Healthcare System, University of Pittsburgh.
 
-iii ANSI/AAMI HE75 Standard Human factors engineering -- Design of medical devices, Chapter 16 -- Accessibility considerations, section 16.4.7 (g).
+iii ANSI/AAMI HE75 Standard Human factors engineering -- Design of medical devices, Chapter 16 -- Accessibility considerations, section 16.4.7 (g).
 
-iv IDeA Center Study at the University of Buffalo, New York: Summary analysis of wheelbase measurements on wheeled mobility devices.
+iv IDeA Center Study at the University of Buffalo, New York: Summary analysis of wheelbase measurements on wheeled mobility devices.
 
-v IDeA Center at the University of Buffalo, New York: The Wheeled Mobility Anthropometry Project, Final Report, pages 89-92.
+v IDeA Center at the University of Buffalo, New York: The Wheeled Mobility Anthropometry Project, Final Report, pages 89-92.
 
-vi D'Souza, et al. "Clearance Space Envelopes of Wheeled Mobility Device Users for Computer Workstations". Proceedings of the Human Factors and Ergonomics Society Annual Meeting 2012.
+vi D'Souza, et al. "Clearance Space Envelopes of Wheeled Mobility Device Users for Computer Workstations". Proceedings of the Human Factors and Ergonomics Society Annual Meeting 2012.
 
-vii D'Souza, Steinfeld. "Revised Knee Clearance Depth and Footrest Clearance dimensions for sizing of mammography equipment." Memorandum. April 23, 2013.
+vii D'Souza, Steinfeld. "Revised Knee Clearance Depth and Footrest Clearance dimensions for sizing of mammography equipment." Memorandum. April 23, 2013.
 
 
 
@@ -2499,18 +2499,18 @@ Presentations at meetings gave Committee members an opportunity not only to hear
 
 **Presentations by Clinicians to Advisory Committee**
 
-| ** Name and Affiliation** | ** Title of Presentation** | ** Date** |
+| ** Name and Affiliation** | ** Title of Presentation** | ** Date** |
 | Barbara Ridley, RN, FNP\
-Alta Bates Summit Medical Center | U.S. Access Board: Advisory Committee on Medical Equipment  |  01/22/13 |
+Alta Bates Summit Medical Center | U.S. Access Board: Advisory Committee on Medical Equipment  |  01/22/13 |
 |
 
 Cathy Ellis, PT\
-National Rehabilitation Hospital 
+National Rehabilitation Hospital 
 
 Michael Yochelson, MD\
 MedStar National Rehabilitation Network
 
- | Medical Diagnostic Equipment  |  01/22/13 |
+ | Medical Diagnostic Equipment  |  01/22/13 |
 | Lauren Snowden, PT, DPT\
 Kessler Institute for Rehabilitation | Practitioner Perspective on Transfers to Examination Surfaces | 01/22/13 |
 | Nüket Curran, PT\
@@ -2522,21 +2522,21 @@ American College of Radiology | Technologist Perspective to Patient Access | 01/
 
 **Table 6.2(b)**
 
-**Presentations by Manufacturers and Engineers to the Advisory Committee**
+**Presentations by Manufacturers and Engineers to the Advisory Committee**
 
-| ** Name and Affiliation** | ** Title of Presentation** | ** Date** |
-| Willa Crolius, Coordinator of Public Programs, Institute for Human Centered Design  | No Formal Presentation; presented a series of videos showing transfers  |  01/23/13 |
-| Michelle Lustrino, Mechanical Engineer, Hologic, Inc.  | Mammography Industry:\
-Accessibility Standards  | 01/23/13  |
-| Glenn Nygard, Senior Principal Engineer. Hologic, Inc  | Dual-energy X-ray Absorptiometry (DXA) for Osteoporosis Assessment  | 01/23/13  |
-| Elisabeth George, Vice President of Global Regulations & Standards Chair of Technical and Regulatory Affairs Committee, Philips Healthcare, MITA  | Medical Imaging  | 01/23/13  |
+| ** Name and Affiliation** | ** Title of Presentation** | ** Date** |
+| Willa Crolius, Coordinator of Public Programs, Institute for Human Centered Design  | No Formal Presentation; presented a series of videos showing transfers  |  01/23/13 |
+| Michelle Lustrino, Mechanical Engineer, Hologic, Inc.  | Mammography Industry:\
+Accessibility Standards  | 01/23/13  |
+| Glenn Nygard, Senior Principal Engineer. Hologic, Inc  | Dual-energy X-ray Absorptiometry (DXA) for Osteoporosis Assessment  | 01/23/13  |
+| Elisabeth George, Vice President of Global Regulations & Standards Chair of Technical and Regulatory Affairs Committee, Philips Healthcare, MITA  | Medical Imaging  | 01/23/13  |
 |
 
-John Jaeckle, Chief Regulatory Affairs Strategist Chair of CT -- Xray Committee, GE Healthcare, MITA 
+John Jaeckle, Chief Regulatory Affairs Strategist Chair of CT -- Xray Committee, GE Healthcare, MITA 
 
 John Metellus, Product Marketing Manager, Siemens Healthcare
 
- | Equipment with Bores and X-ray Devices Accessibility  | 01/23/13  |
+ | Equipment with Bores and X-ray Devices Accessibility  | 01/23/13  |
 |
 
 Bob Menke, Engineering Manager\
@@ -2544,24 +2544,24 @@ Midmark Corporation
 
 Jon Wells, Vice President of Marketing, Midmark Corporation
 
- | Examination Table Accessibility Standards  | 02/26/13  |
+ | Examination Table Accessibility Standards  | 02/26/13  |
 |
 
 Jeff Baker, President\
-Medical Technology Industries, Inc. 
+Medical Technology Industries, Inc. 
 
-Brad Baker, Executive Vice President, Medical Technology Industries, Inc. 
+Brad Baker, Executive Vice President, Medical Technology Industries, Inc. 
 
 Darren Walters, Engineering Manager. Medical Technology Industries, Inc.
 
- | Performance and Efficacy Considerations for Examination Chairs  | 02/26/13  |\
+ | Performance and Efficacy Considerations for Examination Chairs  | 02/26/13  |\
 **6.3 Minority Reports**
 
 Because the Advisory Committee did not achieve consensus on the recommendation for a minimum transfer surface height standard, U.S. Access Board rules allowed individual Committee members to submit their views about this issue through a Minority Report. As shown in Table 6.3, the following Advisory Committee member organizations submitted a Minority Report, which appear in Appendix A. All Minority Reports were submitted voluntarily by Committee members and are unedited (i.e., the reports in Appendix A have not been altered through the Committee editorial process; the reports thus represent the views of the submitting organization as stated by that organization). A full reading of these Minority Reports is critical to understanding the range of views guiding the various stakeholder organizations that served on the MDE Advisory Committee about the recommendation for the minimum transfer surface height.
 
 **Table 6.3**
 
-**Committee Members Submitting Minority Reports on the Minimum Transfer Surface Height**
+**Committee Members Submitting Minority Reports on the Minimum Transfer Surface Height**
 
 -   Boston Center for Independent Living
 -   The ADA National Network
@@ -2600,7 +2600,7 @@ The purpose of this section is to describe the rationale for imaging system acce
 
 One challenge to Advisory Committee deliberations about accessibility approaches for these technologies was that Committee members had fundamentally different understandings about what constitutes diagnostic imaging equipment. Members outside the imaging industry generally thought of the machine itself, upon which patients lie or sit and which "takes the picture," as "diagnostic imaging equipment." Manufacturers, however, hold a different understanding, founded upon existing FDA definitions (see below). As described in Section 4, in contrast to compact and mobile imaging technologies such as ultrasound and echocardiography machines, the imaging equipment covered by the accessibility standards is part of a system of interacting components, permanently mounted in fixed installations. Manufacturers see imaging equipment systems as an inextricably linked amalgam of the machine with its multiple technological components and accessories that generate the images and the spaces immediately surrounding the machine. These specially designed spaces must perform specific essential functions, such as supporting the equipment's heavy weight, shielding ionizing radiation or magnetic fields, and providing specialized high power capacity electrical service. The machine that performs the imaging test does not operate in isolation; its immediate surroundings are integral to the performance and safety of diagnostic imaging equipment.
 
-Considering diagnostic imaging equipment in this way, not as the imaging machine alone but as an integrated system with its accessories and installation, is consistent with regulations governing this equipment. As noted in Section 4.3.1, the U.S. Food and Drug Administration (FDA) classifies most diagnostic imaging technologies as Class II medical devices, most of which need FDA clearance (via a "510(k)" notification) prior to being placed on the market. In particular, Section 201(h) of the Federal Food Drug and Cosmetic Act includes accessories[KK](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/7-diagnostic-imaging-equipment-accessibility-considerations#kk) with the definition of a medical device.[LL](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/7-diagnostic-imaging-equipment-accessibility-considerations#ll)
+Considering diagnostic imaging equipment in this way, not as the imaging machine alone but as an integrated system with its accessories and installation, is consistent with regulations governing this equipment. As noted in Section 4.3.1, the U.S. Food and Drug Administration (FDA) classifies most diagnostic imaging technologies as Class II medical devices, most of which need FDA clearance (via a "510(k)" notification) prior to being placed on the market. In particular, Section 201(h) of the Federal Food Drug and Cosmetic Act includes accessories[KK](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/7-diagnostic-imaging-equipment-accessibility-considerations#kk) with the definition of a medical device.[LL](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/7-diagnostic-imaging-equipment-accessibility-considerations#ll)
 
 During Advisory Committee and Imaging Equipment Subcommittee deliberations, considering imaging equipment from this integrated perspective led to recommendations about the development of imaging system "accessibility packages," renamed "imaging system accessibility configurations" in this report to underscore the understanding of imaging equipment as a fully-integrated system of component parts, including its immediately surrounding space and accessories. Examples of what accessibility configurations might include appear in Section 7.3. First, however, Section 7.2 provides more details about the technological and scientific aspects of diagnostic imaging equipment, introduced in Section 4.3 that might influence efforts to provide access to the imaging machine itself.
 
@@ -2629,16 +2629,16 @@ Members of the Diagnostic Imaging Subcommittee suggested a number of possible im
 
 Three figures provide images of potential imaging system accessibility configurations:
 
-**Figure 7.3(a).** Illustration of a concept (not to scale) for a detachable floor mounted support. The support could be made to be both height adjustable and detachable at floor level.\
+**Figure 7.3(a).** Illustration of a concept (not to scale) for a detachable floor mounted support. The support could be made to be both height adjustable and detachable at floor level.\
 (SOURCE: GE Healthcare)
 
- ![Illustration of a detachable floor mounted support for imaging equipment.  The support could be made to be both height adjustable and detachable at floor level.]({{ site.baseurl }}/images/advisory-committee-reports/mde/7-1.jpg)\
-**Figure 7.3(b).** Illustration of a concept (not to scale) for a wheeled support. The wheels would lock and the base is sufficiently robust and sized for appropriate loadings. The support could be made to be height adjustable.\
+ ![Illustration of a detachable floor mounted support for imaging equipment.  The support could be made to be both height adjustable and detachable at floor level.]({{ site.baseurl }}/images/advisory-committee-reports/mde/7-1.jpg)\
+**Figure 7.3(b).** Illustration of a concept (not to scale) for a wheeled support. The wheels would lock and the base is sufficiently robust and sized for appropriate loadings. The support could be made to be height adjustable.\
 (SOURCE: GE Healthcare)
 
 ![Illustration of a wheeled support on a CT Scan. The wheels would lock and the base is sufficiently robust and sized for appropriate loadings. The support could be made to be height adjustable.]({{ site.baseurl }}/images/advisory-committee-reports/mde/7-2.jpg)
 
-**Figure 7.3(c).** Illustration of the concept (not to scale) of various accessories deployed as part of an accessibility configuration. The first illustration shows a floor mounted support combined with a scissor lift. The following illustration shows the floor mounted support combined with the elevated platform.\
+**Figure 7.3(c).** Illustration of the concept (not to scale) of various accessories deployed as part of an accessibility configuration. The first illustration shows a floor mounted support combined with a scissor lift. The following illustration shows the floor mounted support combined with the elevated platform.\
 (SOURCE: GE Healthcare)
 
 ![Illustration of imaging equipment with various accessories deployed as part of an accessibility configuration. The first illustration shows a floor mounted support combined with a scissor lift. ]({{ site.baseurl }}/images/advisory-committee-reports/mde/7-3.jpg)
@@ -2657,7 +2657,7 @@ The Americans with Disabilities Act and Section 504 of the Rehabilitation Act of
 
 DOJ's future work on medical equipment will be broader in scope than the Access Board's work as it will not be limited to diagnostic medical equipment. In addition, later DOJ regulations may lay out limited circumstances where "equivalent facilitation" is permissible under the Americans with Disabilities Act. For example, later regulations may discuss possible limited circumstances in which alternative means may be used to provide equivalent or greater access to medical equipment through the use of ancillary equipment, lifts, or architectural modifications in an interim period before medical equipment with integrated accessible features is fully available
 
-FDA may review imaging equipment that has been modified to make it accessible when a manufacturer wants to introduce it into commercial distribution in the U.S. for the first time, or if a marketed device has been changed in a way that could significantly affect the device's safety or effectiveness. FDA reviews most imaging equipment as Class II medical devices because they typically are substantially equivalent to other equipment that is already approved and on the market. If manufacturers make substantial changes to or new claims about Class II devices, then they might need to submit materials to FDA to show that the modified product meets the standard of "substantial equivalence".[NN](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/7-diagnostic-imaging-equipment-accessibility-considerations#nn) If the manufacturer states in its labeling that the device is "accessible" because it conforms to the new standards, this would be a marketing claim that FDA would review to verify that the claim is accurate, for example, by verifying the device's range of height adjustability. Only very few technologically innovative products that present high levels of risk and have no substantially equivalent predicate on the market are required to go through FDA's more stringent Class III device premarket approval (PMA) process to assure their safety and effectiveness.[OO](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/7-diagnostic-imaging-equipment-accessibility-considerations#oo) In addition, FDA exempts several categories of common medical devices, including most radiological tables, examination tables, and scales, from any FDA clearance or approval requirement.
+FDA may review imaging equipment that has been modified to make it accessible when a manufacturer wants to introduce it into commercial distribution in the U.S. for the first time, or if a marketed device has been changed in a way that could significantly affect the device's safety or effectiveness. FDA reviews most imaging equipment as Class II medical devices because they typically are substantially equivalent to other equipment that is already approved and on the market. If manufacturers make substantial changes to or new claims about Class II devices, then they might need to submit materials to FDA to show that the modified product meets the standard of "substantial equivalence".[NN](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/7-diagnostic-imaging-equipment-accessibility-considerations#nn) If the manufacturer states in its labeling that the device is "accessible" because it conforms to the new standards, this would be a marketing claim that FDA would review to verify that the claim is accurate, for example, by verifying the device's range of height adjustability. Only very few technologically innovative products that present high levels of risk and have no substantially equivalent predicate on the market are required to go through FDA's more stringent Class III device premarket approval (PMA) process to assure their safety and effectiveness.[OO](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/7-diagnostic-imaging-equipment-accessibility-considerations#oo) In addition, FDA exempts several categories of common medical devices, including most radiological tables, examination tables, and scales, from any FDA clearance or approval requirement.
 
 **Notes**
 
@@ -2687,7 +2687,7 @@ Section 8 reviews these "parking lot topics," listed in an order that makes conc
 
 The statutory authority of the MDE Advisory Committee applied only to adults with disabilities not to pediatric populations. Significant advances in medical care now allow individuals born with formerly life-threatening, disabling conditions -- and those who acquire such conditions in childhood -- to live into early adulthood, middle-age, and sometimes old age. The numbers of children and youth under age 18 living with disabilities is growing and will continue rising in coming decades. Some of these children and youth require intensive diagnostic testing and therapeutic interventions to maintain and promote their health. These individuals and other children and youth with disabilities will also need the same routine care (e.g. annual visits), preventive services, and episodic care (e.g., diagnosis and treatment of accidental injuries) as do other persons younger than 18 years old. Therefore, future efforts must consider standards to ensure that medical diagnostic equipment is accessible to children and youth with disabilities.
 
-Because of time, information, and feasibility constraints, the MDE Advisory Committee decided early in its deliberations not to address specific standards for ensuring that medical diagnostic equipment is accessible to individuals disabled by extreme obesity.[PP](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/8-additional-and-unaddressed-issues#pp) Committee members across the various stakeholder groups endorsed the urgency of addressing this topic. In support, various Committee members cited reports from the Centers for Disease Control and Prevention (CDC), which tabulates data on obesity among individuals within states and nationwide. CDC figures document significantly increasing rates of obesity over the last 20 years among Americans of all ages. More than one-third (35.7%) of U.S. adults are obese (<http://www.cdc.gov/obesity/data/facts.html>). Especially worrisome, 16.9% of American children and adolescents are obese, portending another generation of obese adults. Of special note, rates of extreme obesity have also risen. Largely because of the critical importance of this growing population, Committee members felt that addressing this topic thoughtfully and comprehensively was infeasible, requiring more time, information, and resources than were available.
+Because of time, information, and feasibility constraints, the MDE Advisory Committee decided early in its deliberations not to address specific standards for ensuring that medical diagnostic equipment is accessible to individuals disabled by extreme obesity.[PP](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/8-additional-and-unaddressed-issues#pp) Committee members across the various stakeholder groups endorsed the urgency of addressing this topic. In support, various Committee members cited reports from the Centers for Disease Control and Prevention (CDC), which tabulates data on obesity among individuals within states and nationwide. CDC figures document significantly increasing rates of obesity over the last 20 years among Americans of all ages. More than one-third (35.7%) of U.S. adults are obese (<http://www.cdc.gov/obesity/data/facts.html>). Especially worrisome, 16.9% of American children and adolescents are obese, portending another generation of obese adults. Of special note, rates of extreme obesity have also risen. Largely because of the critical importance of this growing population, Committee members felt that addressing this topic thoughtfully and comprehensively was infeasible, requiring more time, information, and resources than were available.
 
 The MDE Advisory Committee recognized that certain individuals at the extreme end of the weight continuum may have difficulty accessing medical diagnostic equipment without specific accommodations to address their weight-related needs. Committee members spent some time trying to define this population using standard metrics, such as the body-mass-index (BMI), and seeking guidance from information available from the CDC and the World Health Organization. However, the MDE Advisory Committee did not reach consensus on a specific BMI level or levels for defining disability among individuals who are obese, especially for extreme or severe obesity. Notably, no anthropometric data are available for obese individuals.
 
@@ -2778,14 +2778,14 @@ Boston Center for Independent Living, Inc**.**\
 60 Temple Place, 5th Floor, Boston, MA 02111-1324\
 617 338-6665 (Voice) 617 338-6662 (TTY) 617 338-6661 (Fax)\
 866 338-8085 (Toll Free)\
-<info@bostoncil.org> (e-mail) [www.bostoncil.org](http://www.bostoncil.org/) (website)\
+<info@bostoncil.org> (e-mail) [www.bostoncil.org](http://www.bostoncil.org/) (website)\
 September 27, 2013
 
 Mr. Rex Pace\
 Ms. Earlene Sesker\
 U.S. Access Board\
 <pace@Access-Board.gov>\
-<sesker@Access-Board.gov> 
+<sesker@Access-Board.gov> 
 
 Re: Comments on Exam Tables and Chairs Subcommittee Report
 
@@ -2825,7 +2825,7 @@ Final Report\
 Medical Diagnostic Equipment Accessibility Standards Advisory Committee\
 Section 5.1.3 Transfer Surface Low Height\
 **Recommendation for 19" Low Height**\
-The final report titled **Advancing Equal Access to Diagnostic Services: Recommendations on Standards for the Design of Medical Diagnostic Equipment for Adults with Disabilities** (Report) created by the Medical Diagnostic Equipment Accessibility Standards Advisory Committee (Committee) dated October 2, 2013 includes Section 6 which discusses the committee's inability to reach consensus on the recommended lowest height for adjustable height transfer surfaces. As a potential resolution to this issue, Section 6.3 invites Committee members to submit their views regarding the low height specification in the form of a Minority Report.
+The final report titled **Advancing Equal Access to Diagnostic Services: Recommendations on Standards for the Design of Medical Diagnostic Equipment for Adults with Disabilities** (Report) created by the Medical Diagnostic Equipment Accessibility Standards Advisory Committee (Committee) dated October 2, 2013 includes Section 6 which discusses the committee's inability to reach consensus on the recommended lowest height for adjustable height transfer surfaces. As a potential resolution to this issue, Section 6.3 invites Committee members to submit their views regarding the low height specification in the form of a Minority Report.
 
 As discussed in Section 6 of the Report, the Committee reached consensus on a high height specification of 25". They also reached consensus on the need for continuous increments for the low to high height adjustment. Low height specifications of 17", 18", and 19"were considered but no consensus could be reached.
 
@@ -2856,7 +2856,7 @@ In conclusion, The Brewer Company, LLC as a manufacturer of adjustable height ta
 Hologic, Inc.\
 36 Apple Ridge Road, Danbury, CT 06810 USA\
 Main: +1.203.207.4500 Fax: +1.203.207.4596\
-[www.hologic.com](http://www.hologic.com/) 
+[www.hologic.com](http://www.hologic.com/) 
 
 MINORITY REPORT: CONSIDERATIONS FOR THE APPLICATION OF ACCESSIBILITY STANDARDS TO PRONE BREAST BIOPSY TABLES
 
@@ -2877,11 +2877,11 @@ It is critical that there be a method by which all patients can safely access me
 
 Because the procedure takes place underneath the patient support surface, provisions are needed under the table for imaging and biopsy equipment and for a drive mechanism to move the table to a height that allows comfortable physician access, while also maintaining access to the patient from the front and back of the machine. As a result of these technical and clinical use constraints, the minimum possible table height in the table shown in Figure 1 is 37 inches. With the table surface at these heights, all patients are assisted in getting onto the table either with a step stool or with a supplemental patient transfer device (e.g., a stretcher). While future redesign may be able to decrease this height by a few inches, it would be cost prohibitive (and technically infeasible through practical means) to redesign the system to achieve any of the transfer heights described by Section M301 (even with the accessibility configurations discussed in Section 7 of the full Committee report).
 
-This, however, does not mean that the prone biopsy table is inaccessible to patients in wheelchairs. While they may not be able to independently transfer onto the breast biopsy table, they can still access the table through transfer via an accessible stretcher (or other supplemental transfer device). In this case, the patient can independently transfer onto the stretcher, the stretcher will be raised to the height of the biopsy table, and the patient will transfer laterally onto the prone biopsy table. While this process will likely require the assistance of a technologist, the patient will be supported throughout the entire lateral transfer, unlike when they are transferring from their wheelchair to the stretcher, thus minimizing the safety concerns for the technologist and the patient. The technologist can utilize slip/slide sheets, boards, or other aids, to assist with lateral transfers.[i](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i) Furthermore, if there are no obstructions to the transfer surface, the top of the stretcher and the top of the biopsy table can act as one continuous surface on which the patient positioning takes place, giving the patient ample space to use to turn over into the prone position. Once the patient is safely in position, the stretcher can be moved out of the way. Hologic understands the tremendous benefits of independent transfers, but due to the nature of this particular procedure, transfer via an accessible supplemental patient transfer device appropriately manages patient accessibility and use risks, and provides enhanced patient comfort during the procedure.
+This, however, does not mean that the prone biopsy table is inaccessible to patients in wheelchairs. While they may not be able to independently transfer onto the breast biopsy table, they can still access the table through transfer via an accessible stretcher (or other supplemental transfer device). In this case, the patient can independently transfer onto the stretcher, the stretcher will be raised to the height of the biopsy table, and the patient will transfer laterally onto the prone biopsy table. While this process will likely require the assistance of a technologist, the patient will be supported throughout the entire lateral transfer, unlike when they are transferring from their wheelchair to the stretcher, thus minimizing the safety concerns for the technologist and the patient. The technologist can utilize slip/slide sheets, boards, or other aids, to assist with lateral transfers.[i](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i) Furthermore, if there are no obstructions to the transfer surface, the top of the stretcher and the top of the biopsy table can act as one continuous surface on which the patient positioning takes place, giving the patient ample space to use to turn over into the prone position. Once the patient is safely in position, the stretcher can be moved out of the way. Hologic understands the tremendous benefits of independent transfers, but due to the nature of this particular procedure, transfer via an accessible supplemental patient transfer device appropriately manages patient accessibility and use risks, and provides enhanced patient comfort during the procedure.
 
 The above transfer procedure is an example of how using a supplemental patient transfer device provides a valuable method of assisted transfer as an alternative to the use of portable or overhead lifts. In the case of prone biopsy, this method is a safe, effective, and efficient way to transfer and position the patient. In cases such as these, where a stretcher-assisted transfer is used for its positioning and safety benefits, provisions for portable and overhead lifts are not required. If a patient requires a lift to transfer out of her wheelchair, she can use one for the initial transfer to the stretcher. In these cases especially, it will be important that the patient has ample space to move into the prone position, which will be made possible by the stretcher-based transfer method.
 
-Seated position breast biopsies with an upright device provide the same efficacy and accuracy as prone biopsies,[ii](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#ii) and therefore are equally effective in diagnostic work-up of the patient. If there are concerns of patient vasovagal response with the seated breast biopsy, they can likely be mitigated by decubitus positioning of the patient. Since these procedures take place using a screening mammography system, all patients will be able to achieve independent access to an upright biopsy and thus patients who are unable to access a prone biopsy table, even with the help of a supplemental patient transfer device, can still have a breast biopsy. However, it would be detrimental to the patients and to the healthcare system to rule prone biopsy systems inaccessible due to the technical constraints that minimize the ability for purely independent transfer.
+Seated position breast biopsies with an upright device provide the same efficacy and accuracy as prone biopsies,[ii](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#ii) and therefore are equally effective in diagnostic work-up of the patient. If there are concerns of patient vasovagal response with the seated breast biopsy, they can likely be mitigated by decubitus positioning of the patient. Since these procedures take place using a screening mammography system, all patients will be able to achieve independent access to an upright biopsy and thus patients who are unable to access a prone biopsy table, even with the help of a supplemental patient transfer device, can still have a breast biopsy. However, it would be detrimental to the patients and to the healthcare system to rule prone biopsy systems inaccessible due to the technical constraints that minimize the ability for purely independent transfer.
 
 All breast biopsy cases should be evaluated for their individual clinical and accessibility needs. When a breast biopsy is prescribed, the physician must work with the patient to ensure that the right biopsy procedure is chosen for them, taking into account any benefits or risks of that particular procedure. In order to maximize patient care, it is important that the prone biopsy table is included as an accessible option by this standards-setting process, provided that there is a plan in place to safely complete the assisted transfers at any site where this technology is used.
 
@@ -2906,9 +2906,9 @@ Section 5.4.11 of the Committee report makes the following recommendation:
 
 **5.4.11 Transfer Support Structural Strength Recommendations for M301 and M302**
 
-**Description:** Transfer supports and their connections must be capable of resisting sufficient vertical and horizontal forces to remain stable during use. The proposed provision addresses these aspects of structural strength.
+**Description:** Transfer supports and their connections must be capable of resisting sufficient vertical and horizontal forces to remain stable during use. The proposed provision addresses these aspects of structural strength.
 
-**NPRM Proposed Provision:** M305.2.2 Structural Strength. Transfer supports and their connections shall be capable of resisting vertical and horizontal forces of 250 pounds (1,112 N) applied at all points on the transfer support.
+**NPRM Proposed Provision:** M305.2.2 Structural Strength. Transfer supports and their connections shall be capable of resisting vertical and horizontal forces of 250 pounds (1,112 N) applied at all points on the transfer support.
 
 **The Committee recommends transfer supports and connections contain the strength to resist vertical and horizontal forces of 250 pounds at locations determined by the intended use of the equipment.**
 
@@ -2945,11 +2945,11 @@ Note that 220 N is equivalent to 49.5 pounds of force, significantly lower than 
 ![Table from FAA Human Factors Design Standard, Chapter 14 showing exertable horizon forces when using hands, shoulder, and back and the related coefficient of friction.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr3.jpg)
 
 Source: FAA Human Factors Design Standard, Chapter 14\
-<http://www.hf.faa.gov/docs/508/docs/hfdg/ch14.doc> 
+<http://www.hf.faa.gov/docs/508/docs/hfdg/ch14.doc> 
 
 * * * * *
 
-**National Network of ADA Centers **\
+**National Network of ADA Centers **\
 National Network of ADA Centers, Minority Report- Transfer Heights.
 
 In Section 5.1, pages 66 and 69, justifications for a higher transfer height is made at 25" and chapter 6 (page 139) a more clear discloser is given for a high height number and the exclusion of a low height transfer number. The report says there was much disagreement for the low height transfer number and because of time frames, the high height number was never called to question.
@@ -2962,28 +2962,28 @@ Much discussion was given to 17" and 18" heights being too low and manufactures 
 
 Since the proposed standards for transfer height are met. the National Network of ADA Centers proposes no change to M302.2.1,
 
-**M302.2.1 Height.** The height of the transfer surface during patient transfer shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum measured from the floor to the top of the transfer surface.
+**M302.2.1 Height.** The height of the transfer surface during patient transfer shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum measured from the floor to the top of the transfer surface.
 
-**Advisory M302.2.1 Height.** The transfer surface is permitted to be positioned outside of the specified height range when not needed to facilitate transfer.
+**Advisory M302.2.1 Height.** The transfer surface is permitted to be positioned outside of the specified height range when not needed to facilitate transfer.
 
 * * * * *
 
-**National Council on Independent Living** 
+**National Council on Independent Living** 
 
 **MDE Minority Paper for a 17 inch low Transfer Surface Height**
 
-Submitted to the U.S. Access Board By the **National Council on Independent Living**\
+Submitted to the U.S. Access Board By the **National Council on Independent Living**\
 September 27, 2013
 
 In our opinion, this issue goes back to the beginning. Before we ever met as a Committee, the need for lowered transfer surface heights was identified with regard to exam tables and imaging equipment. In plain language, one need that started all of this was transfer surface -- being able to get to the medical equipment for a diagnostic exam like everyone else. The surface height we had recommended historically was 17 to 19 inches above the floor, which has been around for years in existing Standards. If you have to pick an "absolute" low number, it only makes sense to pick 17 inches for the low height providing access to the greatest number of individuals with disabilities in order to access a standard of healthcare equal to all other people.
 
-**We should not be picking a new low height!** 17 inches has always been the low height most commonly referenced in accessibility Guidelines and Standards. We already agreed to the high height in this application which is 25 inches. So this is just about the low number for accessibility - and ***that has already been established for decades as 17 inches!***
+**We should not be picking a new low height!** 17 inches has always been the low height most commonly referenced in accessibility Guidelines and Standards. We already agreed to the high height in this application which is 25 inches. So this is just about the low number for accessibility - and ***that has already been established for decades as 17 inches!***
 
 Most of the information we received from other experts in the field, studies done on seat height of mobility devices (never mind all of the people who use other types of mobility devices or are short in stature), and our own experiences as people with disabilities pointed to having the lowest height available, at a minimum for initial access and egress from the equipment.
 
-The manufacturers represented on the Committee consistently offered arguments based (whether they admit it or not) on the current equipment they have on the market, or what can be offered without much research and development or re-engineering (a.k.a. cost). Most manufacturers on the Committee had a 19 to 21 inch surface available currently, with at least one having a product at 18. Their argument has always been that providing the lowest transfer heights would be an extraordinary expense and burden on the business community (their consumer), *not* based on how it benefitted a* patient with a disability*. This effort was never supposed to be about the manufacturers or the doctors. It is the charge of this committee to answer questions and come up with recommendations for accessibility, based by some members on engineering and others by experience. NCIL's 30-plus years of experience as advocates for people with disabilities dictates that we continue to strongly insist that the U.S. Access Board maintain the low accessible height at 17 inches above the floor in order for medical and diagnostic equipment to be accessed by the greatest number of people.
+The manufacturers represented on the Committee consistently offered arguments based (whether they admit it or not) on the current equipment they have on the market, or what can be offered without much research and development or re-engineering (a.k.a. cost). Most manufacturers on the Committee had a 19 to 21 inch surface available currently, with at least one having a product at 18. Their argument has always been that providing the lowest transfer heights would be an extraordinary expense and burden on the business community (their consumer), *not* based on how it benefitted a* patient with a disability*. This effort was never supposed to be about the manufacturers or the doctors. It is the charge of this committee to answer questions and come up with recommendations for accessibility, based by some members on engineering and others by experience. NCIL's 30-plus years of experience as advocates for people with disabilities dictates that we continue to strongly insist that the U.S. Access Board maintain the low accessible height at 17 inches above the floor in order for medical and diagnostic equipment to be accessed by the greatest number of people.
 
-Dr. Ed Steinfeld's study and testimony presented to the Committee recommended a height of 17 inches to provide the greatest level of access, and he himself stated 18 inches would be a compromise. **The study showed that increasing the low end to 19 inch height excludes many users, specifically over 30% of female manual chair users and over 15% of male manual chair users.** It wasn't our charge to come up with a reasonable compromise. It was our charge to come up with what numbers provided the *greatest level of accessibility*. That number on the low end must be 17 inches or we are excluding a large segment of people who happen to use mobility devices from accessing an equal standard of care.
+Dr. Ed Steinfeld's study and testimony presented to the Committee recommended a height of 17 inches to provide the greatest level of access, and he himself stated 18 inches would be a compromise. **The study showed that increasing the low end to 19 inch height excludes many users, specifically over 30% of female manual chair users and over 15% of male manual chair users.** It wasn't our charge to come up with a reasonable compromise. It was our charge to come up with what numbers provided the *greatest level of accessibility*. That number on the low end must be 17 inches or we are excluding a large segment of people who happen to use mobility devices from accessing an equal standard of care.
 
 How the new standards are implemented -- some over time, some right away, or not at all -- that is to be determined by the authorities having jurisdiction for enforcement - like the Department of Justice, whose contributions to this committee process have been greatly appreciated. NCIL represents individuals with disabilities and IL organizations that are run by and for people with disabilities, as do many of the other advocacy organizations represented on the committee. We came to this committee because we were uniquely qualified to bring decades of experience making things accessible that were once not -- based on the needs of consumers with disabilities. However with such technical equipment and engineering, it is not for us to provide all the technical answers to the roadblocks presented by some manufacturers represented on the Committee. The Subcommittees spent way too much time trying to solve engineering problems, when the point was to understand accessibility needs and meet them. If we drove all of our advancements over time based on what currently exists, we would still be in the stone age. We must make recommendations based on what will work best tomorrow to provide an equally high standard of care to more people with disabilities.
 
@@ -3007,27 +3007,27 @@ I, __Elisabeth George______,\
 
 | X |
 
-**AGREE (with exceptions)** that the recommendations included in the Advisory Committee Report dated September 13th, 2013 represent the consensus of the committee\
+**AGREE (with exceptions)** that the recommendations included in the Advisory Committee Report dated September 13th, 2013 represent the consensus of the committee\
 **With the following exceptions:**
 
-**1) NPRM M303.2.4 Knee and Toe Clearance:** Specifically regarding Mammography - Section 5.8.2 of the report.\
+**1) NPRM M303.2.4 Knee and Toe Clearance:** Specifically regarding Mammography - Section 5.8.2 of the report.\
 - Refer to Pages 2 & 3 of this ballot.
 
 **2) NPRM M301.2.1 and M302.2.1**: Table Height:-- Section 5.1\
 - Refer to separate document from four medical diagnostic imaging equipment industry members.
 
-|   |
+|   |
 
-**DO NOT AGREE** that the recommendations included in the Advisory Committee Report dated September 13th, 2013 represent the consensus of the committee
+**DO NOT AGREE** that the recommendations included in the Advisory Committee Report dated September 13th, 2013 represent the consensus of the committee
 
-**PLEASE NOTE:** If you disagree with any of the recommendations included in the report, you are encouraged to submit a Minority Report describing your position on the specific recommendation with which you disagree.
+**PLEASE NOTE:** If you disagree with any of the recommendations included in the report, you are encouraged to submit a Minority Report describing your position on the specific recommendation with which you disagree.
 
 Signed: ____________________________________________\
 (Signature required)
 
 Representing: __Philips Healthcare ______
 
-                     __3000 Minuteman Road Andover, MA 01810-1099____ Date: ______________
+                     __3000 Minuteman Road Andover, MA 01810-1099____ Date: ______________
 
 **Please return this ballot by e-mail or fax to:**\
 Rex Pace\
@@ -3048,7 +3048,7 @@ Emerging technologies strive to improve mammography performance while increasing
 
 Photon-counting technology has shown to deliver good mammography image quality while enhancing the safety of the procedure by applying a significantly lower dose of 40% or less, compared to other digital technologies.
 
-The effectiveness of photon-counting technology in early cancer detection has been shown in European screening programs[1,2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#1). E.g. Baldelli et al.[1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#1) showed in the context of the Irish breast screening program, that despite recording the largest average compressed breast thickness (64.7 mm), the photon-counting system resulted in the lowest average examination mean glandular dose (1.86 mGy) compared with two other standard digital systems (3.03 and 2.91 mGy, respectively). The same radiologists' performance at a dose reduced by 40% was also shown by Pisano et al.[3](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#3)
+The effectiveness of photon-counting technology in early cancer detection has been shown in European screening programs[1,2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#1). E.g. Baldelli et al.[1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#1) showed in the context of the Irish breast screening program, that despite recording the largest average compressed breast thickness (64.7 mm), the photon-counting system resulted in the lowest average examination mean glandular dose (1.86 mGy) compared with two other standard digital systems (3.03 and 2.91 mGy, respectively). The same radiologists' performance at a dose reduced by 40% was also shown by Pisano et al.[3](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#3)
 
 Photon counting systems imply a more voluminous breast support, as the detector itself is thicker[4](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#4). However, by designing the lower detector housing smoothly sloped and curved, safe access is also given for women in wheel chairs.
 
@@ -3064,7 +3064,7 @@ Photon counting systems imply a more voluminous breast support, as the detector 
 **Philips MicroDose Mammography System**
 
 For additional pictures and brochures on device:\
-<http://www.healthcare.philips.com/us_en/clinicalspecialities/WomensHealthCare/imaging/digital-mammography/> 
+<http://www.healthcare.philips.com/us_en/clinicalspecialities/WomensHealthCare/imaging/digital-mammography/> 
 
 * * * * *
 
@@ -3092,7 +3092,7 @@ Accessible medical equipment needs to facilitate safe transfers that accommodate
 
 A study of wheeled mobility devices, including manual wheelchairs, power wheelchairs, and scooters examined the seat height of 495 users. The height was measured as the vertical distance from the floor to the lowest point of the seating surface of the mobility device, while the occupant was seated in the device. Thus, the surface of the mobility device was in a compressed state. The study noted that a range of 17 inches -25 inches accommodates the vast majority of wheeled mobility device users, while continuing to exclude 6% of manual wheelchair users whose devices are lower than 17 inches. Increasing the low end to 19" height excludes many users, specifically over 30% of female manual chair users and over 15% of male manual chair users.[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#two)
 
-There is limited information on the ability of people with disabilities to transfer to a height different from the height of their wheeled mobility device. The Impact of Transfer Setup on the Performance of Independent Transfers: Final Report provides an analysis of the effect of height, horizontal gap, placement of armrests, and placement of grab bars on a person's ability to transfer. The study noted that 86% of wheeled mobility device users could transfer to heights that were 2 inches above and below the height of their wheeled mobility device. However, this study was not representative of the diversity of wheeled mobility device users. Individuals were explicitly excluded from the study if they had significant upper extremity pain or injury that affects the ability to perform transfers, or had an active or recent history of pressure sores. Furthermore, the vast majority of subjects in the study were men.[3](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#three) Numerous research studies as well as anecdotal reports from people with a variety of mobility disabilities (spinal cord injury, cerebral palsy, polio, traumatic brain injury, etc.) have detailed and reinforced that fact that people who live with disability experience a greater prevalence of and earlier onset of age related conditions such as arthritis, pain contractures, weakness, deconditioning, and shoulder injuries etc.[4](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#four)
+There is limited information on the ability of people with disabilities to transfer to a height different from the height of their wheeled mobility device. The Impact of Transfer Setup on the Performance of Independent Transfers: Final Report provides an analysis of the effect of height, horizontal gap, placement of armrests, and placement of grab bars on a person's ability to transfer. The study noted that 86% of wheeled mobility device users could transfer to heights that were 2 inches above and below the height of their wheeled mobility device. However, this study was not representative of the diversity of wheeled mobility device users. Individuals were explicitly excluded from the study if they had significant upper extremity pain or injury that affects the ability to perform transfers, or had an active or recent history of pressure sores. Furthermore, the vast majority of subjects in the study were men.[3](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#three) Numerous research studies as well as anecdotal reports from people with a variety of mobility disabilities (spinal cord injury, cerebral palsy, polio, traumatic brain injury, etc.) have detailed and reinforced that fact that people who live with disability experience a greater prevalence of and earlier onset of age related conditions such as arthritis, pain contractures, weakness, deconditioning, and shoulder injuries etc.[4](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#four)
 
 *Data Deficiencies*
 
@@ -3117,13 +3117,13 @@ While, there are always practical limitations on accommodating every individual,
 
 4\. Jensen, M.P., Molton, I.R., Groah, S.L., Campbell, M.L., Charlifue, S., Chiodo, A., Forchheimer, M., Krause, J.S., & Tate, D. (2011). Secondary Health Conditions in Individuals Aging with SCI: Terminology, Concepts, and Analytic Approaches. Spinal Cord, 50(5): 373-378.
 
-Groah, S.L., Charlifue, S., Tate, D., Jensen, M.P., Molton, I.R., Forchheimer, M., Krause, J.S., Lammertse, D.P., & Campbell, M. (2012). Spinal Cord Injury and Aging: Challenges and Recommendations for Future Research. American Journal of Physical Medicine & Rehabilitation, 91(1): 80. doi: 10.1097/PHM.0b013e31821f70bc. Available from: <http://journals.lww.com/ajpmr/Abstract/2012/01000/Spinal_Cord_Injury_and_Aging__Challenges_and.10.aspx.> Accessed December 18, 2012.
+Groah, S.L., Charlifue, S., Tate, D., Jensen, M.P., Molton, I.R., Forchheimer, M., Krause, J.S., Lammertse, D.P., & Campbell, M. (2012). Spinal Cord Injury and Aging: Challenges and Recommendations for Future Research. American Journal of Physical Medicine & Rehabilitation, 91(1): 80. doi: 10.1097/PHM.0b013e31821f70bc. Available from: <http://journals.lww.com/ajpmr/Abstract/2012/01000/Spinal_Cord_Injury_and_Aging__Challenges_and.10.aspx.> Accessed December 18, 2012.
 
 Turk M. Secondary conditions and disability. In: Field MJ, Jette AM, Martin L (eds). Workshop on disability in America. A new look. Summary and background papers. Board on Health Sciences Policy, Institute of Medicine of the National Academies, The National Academies Press: Washington DC, 2006, pp. 185--193.
 
 Kemp, B.J., & Mosqueda, L. (Eds.) (2004). Aging with a Disability: What the Clinician Needs to Know. Baltimore, MD: Johns Hopkins University Press.
 
-Kailes, J. (2000). Health, Wellness and Aging with Disability, KAILES - Publications, <http://www.jik.com/resource.html>, [](mailto:jik@pacbell.net.)<jik@pacbell.net>.
+Kailes, J. (2000). Health, Wellness and Aging with Disability, KAILES - Publications, <http://www.jik.com/resource.html>, [](mailto:jik@pacbell.net.)<jik@pacbell.net>.
 
 Kailes, J. (1995). "Midlife Cripdom: Getting Fewer Miles per Gallon?" The Disability Rag 16(4).
 
@@ -3137,13 +3137,13 @@ MINORITY REPORT ON TRANSFER SURFACE HEIGHT RECOMMENDATIONS OF THE U.S. ACCESS BO
 
 **RE: NPRM: M301.2.1 AND M302.2.1 HEIGHT**
 
-I. Introduction
+I. Introduction
 
 This Minority Report has been developed by the following medical diagnostic imaging equipment industry members of the Advisory Committee to the U.S. Access Board, including: GE Healthcare, Philips Healthcare, Siemens Healthcare, and Hologic, Inc.
 
 The purpose of this Minority Report is to make a formal recommendation for a minimum transfer surface low height of 19 inches for diagnostic imaging medical equipment.
 
-II. Recommendations of Diagnostic Imaging Equipment Manufacturers on Transfer Surface Low Height
+II. Recommendations of Diagnostic Imaging Equipment Manufacturers on Transfer Surface Low Height
 
 The aforementioned medical diagnostic imaging equipment manufacturers support a 19 inch minimum transfer surface low height for the following reasons:
 
@@ -3159,7 +3159,7 @@ Moreover, the most significant of these design changes can result in cascading a
 
 *2\. There was no compelling evidence presented of significant access improvement for diagnostic imaging devices at 17 inches that would warrant the additional efforts, timing and resources.*
 
-During the meetings of the Advisory Committee, there was no compelling evidence presented in support of a minimum transfer low height of 17 inches as the new standard for access. The original Notice of Proposed Rulemaking (NPRM) proposal was for a minimum height in the range of 17 to 19 inches. This would have allowed a table that lowers to a 19 inch minimum height to meet the standard. There did not appear to be sufficient, solid evidence presented that 19 inches minimum height was not adequate, and that 17 inches was necessitated to provide access. It should also be recognized, that due to the precision work which is required in the design of diagnostic imaging equipment, and the necessity of compliance with regulatory requirements, with each inch of decrease in minimum height from 19 inches, the time and costs which are required for equipment re-design go up exponentially.
+During the meetings of the Advisory Committee, there was no compelling evidence presented in support of a minimum transfer low height of 17 inches as the new standard for access. The original Notice of Proposed Rulemaking (NPRM) proposal was for a minimum height in the range of 17 to 19 inches. This would have allowed a table that lowers to a 19 inch minimum height to meet the standard. There did not appear to be sufficient, solid evidence presented that 19 inches minimum height was not adequate, and that 17 inches was necessitated to provide access. It should also be recognized, that due to the precision work which is required in the design of diagnostic imaging equipment, and the necessity of compliance with regulatory requirements, with each inch of decrease in minimum height from 19 inches, the time and costs which are required for equipment re-design go up exponentially.
 
 However, the Committee did agree that an additional requirement, that of adjustability up to 25 inches, was critical to ensure access, given the variety of mobility device seating heights. We believe the addition of the adjustability requirement delivers by far a larger increase in access than having a single minimum height of 17 inches. As a standard , we believe the increased access goal is well met by having a 19 inch minimum height and transfer height adjustability. Having an additional extension to the NPRM to require a fixed minimum of 17 inches would provide only a marginal increase in the population served (see Item 3 below for further details).
 
@@ -3167,28 +3167,28 @@ However, the Committee did agree that an additional requirement, that of adjusta
 
 The original Notice of Proposed Rulemaking (NPRM) Preamble explains the motivation for a minimum transfer height of 17 inches with the following:
 
-*"Transfer surfaces that are adjustable to the same heights as the seat heights of mobility devices reduce the effort needed to transfer since patients do not have to lift their body weight to make up the difference between the two surfaces, in one direction or the other." [1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#mitaa)*
+*"Transfer surfaces that are adjustable to the same heights as the seat heights of mobility devices reduce the effort needed to transfer since patients do not have to lift their body weight to make up the difference between the two surfaces, in one direction or the other." [1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#mitaa)*
 
 The NPRM then goes on to discuss wheelchair seat heights, with the 5th percentile lowest seat height being 17.3 inches, according to the IDeA study[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#mitab).
 
-While it is ideal for transfer surfaces to be at the same height as the seat heights of mobility devices, there is evidence that independent transfers are also feasible with a seat height discrepancy of up to two inches. As is discussed in Section 3.3.1 of the full Committee report, the Committee considered the findings from the University of Pittsburgh Human Engineering Research Laboratories (HERL) study that looked at transfers, and how different conditions affect the abilities of wheeled mobility devices (WMD) users to transfer from their WMD to another surface[3](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#mitac). One of the goals of the study was to "determine acceptable ranges for non-level transfers (e.g. vertical height differences)". A portion of the study's results are shown in Table 1 below. It should be noted that the addition of a 3-inch gap next to the transfer surface (permitted by the Committee's recommendation) may impact the percentages shown here, but information was not presented that directly correlated step height, gap, and ability to transfer. Further information would be needed to quantify this directly.
+While it is ideal for transfer surfaces to be at the same height as the seat heights of mobility devices, there is evidence that independent transfers are also feasible with a seat height discrepancy of up to two inches. As is discussed in Section 3.3.1 of the full Committee report, the Committee considered the findings from the University of Pittsburgh Human Engineering Research Laboratories (HERL) study that looked at transfers, and how different conditions affect the abilities of wheeled mobility devices (WMD) users to transfer from their WMD to another surface[3](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#mitac). One of the goals of the study was to "determine acceptable ranges for non-level transfers (e.g. vertical height differences)". A portion of the study's results are shown in Table 1 below. It should be noted that the addition of a 3-inch gap next to the transfer surface (permitted by the Committee's recommendation) may impact the percentages shown here, but information was not presented that directly correlated step height, gap, and ability to transfer. Further information would be needed to quantify this directly.
 
 **Table 1. A portion of the results presented in the HERL study to determine acceptable ranges for non-level transfers.**
 
 | **Step Height**\
-*(No obstructions or gaps between the transfer surface and WMD intentionally introduced) * | **Percentage of Individuals Able To Complete The Transfer** |
-| 0"  | 96% |
+*(No obstructions or gaps between the transfer surface and WMD intentionally introduced) * | **Percentage of Individuals Able To Complete The Transfer** |
+| 0"  | 96% |
 | 1" | 94% |
-| 2"  | 86% |\
+| 2"  | 86% |\
 These findings suggest that those individuals with seat heights ≥18 inches high should be able to independently transfer to an adjustable-height transfer surface with a 19-inch minimum height, since the step in height will always be no more than one inch. For the small population of individuals with a seat height between 17.3 (5th percentile) and 18 inches, the maximum step height will be two inches. Based on this study, only about 14% of the individuals in this already very small population may need further assistance in transferring. In some instances, transfer or positioning supports may even be able to provide this assistance, thus maintaining independence of transfer. This study showed that adding a grab bar for patient support helped some wheelchair users to transfer at a height at which they could not transfer previously.
 
-One of the Committee's concerns regarding this particular study was that the study subjects did not necessarily reflect the general population of persons who use WMD. Of the people studied, 88 were men and 24 were women. A large number of subjects in the study were veterans who participated in organized sports-related events. The study did find, though, that the subjects' daily activity levels apart from the time of those sports events did not differ from adult WMD users who live in the community. We do acknowledge the concern about the population studied and understand that the findings and percentages above may not provide strict guidance on how many people will be able to transfer given a non-level transfer situation. However, we believe that the insights from this study are very important to take into consideration when setting a minimum low height for transfer surfaces, since there are in fact many individuals who will be able to independently transfer with a 1 or 2-inch step height. While setting the minimum low height, we also believe it is important to specifically consider the individuals who will be impacted by this low height requirement. Many of the wheelchairs with low seat heights (especially in the 17-18inch range) are manual wheelchairs. Many manual wheelchair users may use more upper body strength in moving around for day-to-day activities than power wheelchair and scooter users do, and so a non-level transfer may not be as difficult for those individuals.
+One of the Committee's concerns regarding this particular study was that the study subjects did not necessarily reflect the general population of persons who use WMD. Of the people studied, 88 were men and 24 were women. A large number of subjects in the study were veterans who participated in organized sports-related events. The study did find, though, that the subjects' daily activity levels apart from the time of those sports events did not differ from adult WMD users who live in the community. We do acknowledge the concern about the population studied and understand that the findings and percentages above may not provide strict guidance on how many people will be able to transfer given a non-level transfer situation. However, we believe that the insights from this study are very important to take into consideration when setting a minimum low height for transfer surfaces, since there are in fact many individuals who will be able to independently transfer with a 1 or 2-inch step height. While setting the minimum low height, we also believe it is important to specifically consider the individuals who will be impacted by this low height requirement. Many of the wheelchairs with low seat heights (especially in the 17-18inch range) are manual wheelchairs. Many manual wheelchair users may use more upper body strength in moving around for day-to-day activities than power wheelchair and scooter users do, and so a non-level transfer may not be as difficult for those individuals.
 
 *4\. Diagnostic imaging devices require a trained technician present to aid all patients in accessing the table in the proper imaging position.*
 
 Diagnostic imaging devices operate with a high level of precision. It is important to recognize that proper patient positioning on the table for diagnostic imaging devices, whether they are x- ray, nuclear medicine, PET or MRI devices, is essential to achieving diagnostic quality images. In order to achieve diagnostic quality images, trained technologists are required to position all patients properly, regardless of the patient's ability or disability to access the equipment.
 
-III. Proposed alternative mechanisms to enhance patient access to diagnostic imaging equipment
+III. Proposed alternative mechanisms to enhance patient access to diagnostic imaging equipment
 
 Given the constraints on table redesign due to diagnostic needs, and physical and engineering limitations of many of the wide variety of imaging tables, there will be many types of imaging tables that will not be able to achieve even a 19 inch minimum if the table itself must be modified. For example, in a CT/PET system, the patient support surface is located on top of a transporter, which adds to the height of the transport surface.
 
@@ -3251,38 +3251,38 @@ SUBMITTED BY:
 
 **CONTENTS**
 
--   Background 
--   Summary of the 19-inch recommendation 
--   Current Situation: The Vast Majority of Examination and Procedures Tables Are 32 Inches High 
+-   Background 
+-   Summary of the 19-inch recommendation 
+-   Current Situation: The Vast Majority of Examination and Procedures Tables Are 32 Inches High 
 -   Implication of a 19-Inch minimum standard for the highest point in the lowest adjustable position
--   Alignment of 19-inch Recommendation with Access Board Proposed Rulemaking 
--   A minimum highest point standard of 19 Inches is consisTent with existing accessibility standards 
--   An Increasing number of Health Care Providers are Transitioning to Adjustable Height Tables 
--   Available data do not support departing from the currently accepted standard of 19-Inch transfer surface height 
--   Adoption of a 19 inch height minimizes costs to health care Providers 
--   Benefits and Costs: Overview 
--   Cost of Equipment 
--   Costs to Lower Minimum Table Height 
--   Scoping Scenarios: Range of Possibilities 
--   Benefits and Costs: Summary 
+-   Alignment of 19-inch Recommendation with Access Board Proposed Rulemaking 
+-   A minimum highest point standard of 19 Inches is consisTent with existing accessibility standards 
+-   An Increasing number of Health Care Providers are Transitioning to Adjustable Height Tables 
+-   Available data do not support departing from the currently accepted standard of 19-Inch transfer surface height 
+-   Adoption of a 19 inch height minimizes costs to health care Providers 
+-   Benefits and Costs: Overview 
+-   Cost of Equipment 
+-   Costs to Lower Minimum Table Height 
+-   Scoping Scenarios: Range of Possibilities 
+-   Benefits and Costs: Summary 
 -   How to Measure Transfer Heights is Important
--   Features 
--   WMD Positions For Transfer 
--   measurement Technique 
+-   Features 
+-   WMD Positions For Transfer 
+-   measurement Technique 
 -   Seat Height Measurement Detail
--   Conclusion 
--   Appendix A 
--   Appendix B 
+-   Conclusion 
+-   Appendix A 
+-   Appendix B 
 
 **BACKGROUND**
 
-Section 4203 of the Patient Protection and Affordable Care Act (the "Affordable Care Act") adds a new section to the Rehabilitation Act of 1973 requiring the U.S. Access Board to promulgate regulatory standards "setting forth the** minimum technical criteria** for medical diagnostic equipment used in (or in conjunction with) physician's offices, clinics, emergency rooms, hospitals, and other medical settings. The standards shall ensure that such equipment is **accessible to, and usable by, individuals with accessibility needs,** and shall allow** independent entry to, use of, and exit from the equipment by such individuals to the maximum extent possible.**" It also requires the U.S. Access Board to periodically review and, as appropriate, amend the standards.
+Section 4203 of the Patient Protection and Affordable Care Act (the "Affordable Care Act") adds a new section to the Rehabilitation Act of 1973 requiring the U.S. Access Board to promulgate regulatory standards "setting forth the** minimum technical criteria** for medical diagnostic equipment used in (or in conjunction with) physician's offices, clinics, emergency rooms, hospitals, and other medical settings. The standards shall ensure that such equipment is **accessible to, and usable by, individuals with accessibility needs,** and shall allow** independent entry to, use of, and exit from the equipment by such individuals to the maximum extent possible.**" It also requires the U.S. Access Board to periodically review and, as appropriate, amend the standards.
 
-Based on this, the Access Board is to establish minimum technical criteria for medical diagnostic equipment used in (or in conjunction with) physician's offices, clinics, emergency rooms, hospitals, and other medical settings.[1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i1) In response, the Access Board issued a notice of proposed rulemaking[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i2) that, among other things, would specify a maximum lower adjustable height for the transfer surface. The intent of this minority report is to discuss the specific recommendation that the minimum standard for the highest point of the transfer surface in the lowest adjustable height should be 19 inches in sections M301.2.1 and M302.2.1.
+Based on this, the Access Board is to establish minimum technical criteria for medical diagnostic equipment used in (or in conjunction with) physician's offices, clinics, emergency rooms, hospitals, and other medical settings.[1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i1) In response, the Access Board issued a notice of proposed rulemaking[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i2) that, among other things, would specify a maximum lower adjustable height for the transfer surface. The intent of this minority report is to discuss the specific recommendation that the minimum standard for the highest point of the transfer surface in the lowest adjustable height should be 19 inches in sections M301.2.1 and M302.2.1.
 
 **SUMMARY OF THE 19-INCH RECOMMENDATION**
 
-The subcommittee on tables and chairs convened by the U.S. Access Board's Medical Diagnostic Equipment Technical Advisory Committee discussed transfer surface height extensively. The subcommittee concluded with a majority recommendation that examination tables and chairs have a **lower adjustable height of 19 inches or lower**.[3](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i3) A minority of the subcommittee did maintain that 17 inches was preferred, and when this 19 inch recommendation was discussed with the full Advisory Committee on May 7th, 2013, the full committee was unable to reach a consensus position or even a strong majority sentiment.\
+The subcommittee on tables and chairs convened by the U.S. Access Board's Medical Diagnostic Equipment Technical Advisory Committee discussed transfer surface height extensively. The subcommittee concluded with a majority recommendation that examination tables and chairs have a **lower adjustable height of 19 inches or lower**.[3](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i3) A minority of the subcommittee did maintain that 17 inches was preferred, and when this 19 inch recommendation was discussed with the full Advisory Committee on May 7th, 2013, the full committee was unable to reach a consensus position or even a strong majority sentiment.\
 Although the subcommittee's conversations were complex and far-reaching, the following points summarize the factors that were considered in the selection of the 19 inch height recommendation:
 
 -   Equipment must be accessible to, and usable by, individuals with accessibility needs and will allow independent entry to, use of, and exit from the equipment by those individuals
@@ -3295,11 +3295,11 @@ The minority report explains why a requirement for a 19 inch lower adjustable he
 
 **CURRENT SITUATION: THE VAST MAJORITY OF EXAMINATION AND PROCEDURES TABLES ARE 32 INCHES HIGH**
 
-In the United States, approximately 82 percent[4](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i4) of physicians, hospitals and other health care providers use examination and procedures tables with a 32-inch fixed height, as shown in Figure 1. Industry commonly refers to these tables as "box tables." These tables provide an often-insurmountable barrier to health care for people with mobility disabilities. Since 2001, the number of adjustable-height tables has steadily increased, but continues to represent a minority of examination tables in the United States.
+In the United States, approximately 82 percent[4](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i4) of physicians, hospitals and other health care providers use examination and procedures tables with a 32-inch fixed height, as shown in Figure 1. Industry commonly refers to these tables as "box tables." These tables provide an often-insurmountable barrier to health care for people with mobility disabilities. Since 2001, the number of adjustable-height tables has steadily increased, but continues to represent a minority of examination tables in the United States.
 
 ![A table depicting the percentage of fixed height versus adjustable height medical tables (representing the U.S. install base of medical tables)]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr5.jpg)
 
-*Figure 1: Percentage of fixed height versus adjustable height medical tables *\
+*Figure 1: Percentage of fixed height versus adjustable height medical tables *\
 *(representing the U.S. install base of medical tables)*
 
 One of the primary objectives of the U.S. Access Board's requirements should be to accelerate the growing trend of heath care providers to purchase adjustable height tables. In doing so, care should be taken to not render the progress that has already been made obsolete. For the reasons presented in this minority report, a 19 inch low adjustable height is best suited to achieving this objective. As illustrated in Figure 1 above, a standard lower maximum height that is less than 19" would re-classify the existing adjustable height tables available on the market today as inaccessible and penalize the physicians who have already made a good faith effort at accommodating their disabled patients.
@@ -3312,16 +3312,16 @@ One of the primary objectives of the U.S. Access Board's requirements should be 
 
 This minority report presents the factors that support a minimum standard of 19 inches as the highest point on the transfer surface in a table or chair's lowest adjustable position. However, shorthand references to 19 inches as the minimum standard as used in this minority report should not be equated with a 19-inch transfer surface height, for two major reasons. First, as depicted in Figure 3, adjustable tables currently on the market generally feature contoured bolsters that provide greater security once an individual is seated or lying on the table or chair. A 19-inch standard means that any bolsters fit within the highest point standard, thereby making the front edge of the table/chair lower than the bolsters (by about ¾" based on currently marketed bolsters, or about 18 inches compressed at the transfer surface).
 
-Second, as a *minimum* standard, establishing a 19-inch highest point standard does not mean that all newly manufactured tables and chairs will necessarily be fixed at a 19-inch height. Unlike fixed transfer surfaces such as toilets or non-adjustable tables, there is no reason to standardize at a single height based on broadest usability. In a marketplace of adjustable tables and chairs, increased range of adjustability will be advantageous to patients and caregivers alike. It is not unreasonable to expect that table and chair manufacturers will seek to compete by offering products with greater degrees of adjustability.
+Second, as a *minimum* standard, establishing a 19-inch highest point standard does not mean that all newly manufactured tables and chairs will necessarily be fixed at a 19-inch height. Unlike fixed transfer surfaces such as toilets or non-adjustable tables, there is no reason to standardize at a single height based on broadest usability. In a marketplace of adjustable tables and chairs, increased range of adjustability will be advantageous to patients and caregivers alike. It is not unreasonable to expect that table and chair manufacturers will seek to compete by offering products with greater degrees of adjustability.
 
 ![Picture showing the foot end of the examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr7.jpg)![Picture showing the side of an examination table with an arrow illustrating the is to be measured from the highest point of the seat.  The seat is contoured higher on the sides then in the middle.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr8.jpg)\
 *Figure 3. Illustration of measurement height at bolsters relative to lower transfer surface*
 
 **ALIGNMENT OF 19-INCH RECOMMENDATION WITH ACCESS BOARD PROPOSED RULEMAKING**
 
-The subcommittee's recommendation of a lower adjustable height of 19 inches maximum is consistent with the U.S. Access Board's proposed rule and supported by public comments. In its proposed rule, the Access Board proposed that the "height of the transfer surface during patient transfer shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum measured from the floor to the top of the transfer surface" for both examination tables and chairs.[5](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i5) The Access Board based its proposal, "on provisions in the 2004 ADA and ABA Accessibility Guidelines for architectural features that involve transfers (e.g., toilet seats, shower seats, dressing benches)."[6](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i6) In addition, the Access Board recommended, "Where patient support surfaces are contoured or upholstered for patient comfort or to support patient positioning during diagnostic procedures, the height of the transfer surface measured from the floor may vary across the transfer surface. The highest and lowest points of the transfer surface on such equipment would have to be within the specified dimensions."[7](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i7) The Access Board proposed that the measurement should be taken from the "floor to the top of the upholstery under static conditions, without compression or deflection in the transfer surface ...."[8](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i8) 
+The subcommittee's recommendation of a lower adjustable height of 19 inches maximum is consistent with the U.S. Access Board's proposed rule and supported by public comments. In its proposed rule, the Access Board proposed that the "height of the transfer surface during patient transfer shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum measured from the floor to the top of the transfer surface" for both examination tables and chairs.[5](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i5) The Access Board based its proposal, "on provisions in the 2004 ADA and ABA Accessibility Guidelines for architectural features that involve transfers (e.g., toilet seats, shower seats, dressing benches)."[6](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i6) In addition, the Access Board recommended, "Where patient support surfaces are contoured or upholstered for patient comfort or to support patient positioning during diagnostic procedures, the height of the transfer surface measured from the floor may vary across the transfer surface. The highest and lowest points of the transfer surface on such equipment would have to be within the specified dimensions."[7](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i7) The Access Board proposed that the measurement should be taken from the "floor to the top of the upholstery under static conditions, without compression or deflection in the transfer surface ...."[8](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i8) 
 
-The Access Board's proposal also explained that it is considering a requirement in the final standards that the height of transfer surfaces be adjustable from 17 inches minimum to 25 inches maximum during patient transfer. In support of the alternative proposal, it cites ANSI/AAMI HE75[9](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i9) and the Wheeled Mobility Anthropometry Project.[10](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i10) The results of this study recommended adjustable heights, with an increased maximum height above 19 inches, be provided in order to better accommodate users of powered wheelchairs and scooters. During the committee hearings, the manufacturers accepted that this would be appropriate and offered 19-inch to 25-inch adjustable height through powered tables.
+The Access Board's proposal also explained that it is considering a requirement in the final standards that the height of transfer surfaces be adjustable from 17 inches minimum to 25 inches maximum during patient transfer. In support of the alternative proposal, it cites ANSI/AAMI HE75[9](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i9) and the Wheeled Mobility Anthropometry Project.[10](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i10) The results of this study recommended adjustable heights, with an increased maximum height above 19 inches, be provided in order to better accommodate users of powered wheelchairs and scooters. During the committee hearings, the manufacturers accepted that this would be appropriate and offered 19-inch to 25-inch adjustable height through powered tables.
 
 The subcommittee's recommendation appropriately balances the two proposed alternatives included in the Access Board's proposed rule. Therefore, the Access Board should adopt the subcommittee's recommendation provided for continuous adjustability of the height of the transfer surface between 19 and 25 inches.
 
@@ -3331,37 +3331,37 @@ Current accessibility standards and regulations generally consider a transfer su
 
 Nineteen-inch water closet and toilet seats are accessible:
 
-**604.4 Height.** The height of water closet seats shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the floor, measured to the top of the seat. Seats shall not be sprung to return to a lifted position.[12](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i12) 
+**604.4 Height.** The height of water closet seats shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the floor, measured to the top of the seat. Seats shall not be sprung to return to a lifted position.[12](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i12) 
 
 Likewise, 19 inch high benches are accessible:
 
-**903.5 Height**. The top of the bench seat shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the floor, measured to the top of the seat.[13](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i13) 
+**903.5 Height**. The top of the bench seat shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the floor, measured to the top of the seat.[13](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i13) 
 
 Nineteen-inch high bathtub seats are accessible:
 
-**610.2 Bathtub Seats.** The height of bathtub seats shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the bathroom floor, measured to the top of the seat. Removable in-tub seats shall be 15 inches (380 mm) minimum and 16 inches (405 mm) maximum in depth. Removable in-tub seats shall be capable of secure placement. Permanent seats shall be 15 inches (380 mm) minimum in depth and shall extend from the back wall to or beyond the outer edge of the bathtub. Permanent seats shall be positioned at the head end of the bathtub.[14](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i14) 
+**610.2 Bathtub Seats.** The height of bathtub seats shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the bathroom floor, measured to the top of the seat. Removable in-tub seats shall be 15 inches (380 mm) minimum and 16 inches (405 mm) maximum in depth. Removable in-tub seats shall be capable of secure placement. Permanent seats shall be 15 inches (380 mm) minimum in depth and shall extend from the back wall to or beyond the outer edge of the bathtub. Permanent seats shall be positioned at the head end of the bathtub.[14](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i14) 
 
 Nineteen-inch high shower compartment seats are accessible:
 
-**610.3 Shower Compartment Seats.** The height of shower compartment seats shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the bathroom floor, measured to the top of the seat. In transfer-type and alternate roll-in-type showers, the seat shall extend along the seat wall to a point within 3 inches (75 mm) of the compartment entry. In standard roll-in-type showers, the seat shall extend from the control wall to a point within 3 inches (75 mm) of the compartment entry. Seats shall comply with Section 610.3.1 or 610.3.2.[15](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i15) 
+**610.3 Shower Compartment Seats.** The height of shower compartment seats shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the bathroom floor, measured to the top of the seat. In transfer-type and alternate roll-in-type showers, the seat shall extend along the seat wall to a point within 3 inches (75 mm) of the compartment entry. In standard roll-in-type showers, the seat shall extend from the control wall to a point within 3 inches (75 mm) of the compartment entry. Seats shall comply with Section 610.3.1 or 610.3.2.[15](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i15) 
 
 Nineteen-inch high amusement park rides are accessible:
 
-**1102.5.2 Transfer Height.** The height of amusement ride seats designed for transfer shall be 14 inches (355 mm) minimum and **24 inches** (610 mm) maximum measured from the surface of the load and unload area.[16](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i16) 
+**1102.5.2 Transfer Height.** The height of amusement ride seats designed for transfer shall be 14 inches (355 mm) minimum and **24 inches** (610 mm) maximum measured from the surface of the load and unload area.[16](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i16) 
 
-As mentioned above, a minimum standard of 19 inches at the highest point of a table or chair is not the same as the transfer surface height experienced by patients because the front edge of currently available tables is lower than the highest measured point. However, the fact that a 19 inch height is so widely accepted by existing accessibility standards for various types of benches and chairs strongly commends maintaining the standard for medical diagnostic equipment as the minimum standard for accessible examination tables and chairs. This is particularly the case because of the manner in which medical diagnostic equipment is used. Toilets, bench seats, and bathtub seats remain at a fixed height for both transfer and normal use; in fact, usability of these devices may require constant contact of one's feet with the floor for stability or require free use of one's hands. Medical examination tables and chairs, on the other hand, are lowered to a low height to facilitate transfer, then are raised to a considerable height to facilitate medical examinations by the medical clinician.[17](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i17) 
+As mentioned above, a minimum standard of 19 inches at the highest point of a table or chair is not the same as the transfer surface height experienced by patients because the front edge of currently available tables is lower than the highest measured point. However, the fact that a 19 inch height is so widely accepted by existing accessibility standards for various types of benches and chairs strongly commends maintaining the standard for medical diagnostic equipment as the minimum standard for accessible examination tables and chairs. This is particularly the case because of the manner in which medical diagnostic equipment is used. Toilets, bench seats, and bathtub seats remain at a fixed height for both transfer and normal use; in fact, usability of these devices may require constant contact of one's feet with the floor for stability or require free use of one's hands. Medical examination tables and chairs, on the other hand, are lowered to a low height to facilitate transfer, then are raised to a considerable height to facilitate medical examinations by the medical clinician.[17](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i17) 
 
 Finally, it is important to note the requirements for tolerancing under current regulations:
 
-**104.1.1 Construction and Manufacturing Tolerances.** All dimensions are subject to conventional industry tolerances except where the requirement is stated as a range with specific minimum and maximum end points.[18](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i18) 
+**104.1.1 Construction and Manufacturing Tolerances.** All dimensions are subject to conventional industry tolerances except where the requirement is stated as a range with specific minimum and maximum end points.[18](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i18) 
 
 In practical terms, because the low adjustable height is intended to be specified as a maximum dimension, manufacturers of accessible MDE will design their equipment not to exceed this maximum. Thus equipment designed to this standard will be, on average, less than the maximum allowed low adjustable height (e.g. 19 inches) by a height of conventional industry tolerances. These tolerances can be 1/4" or more, depending on the type of equipment.
 
 **AN INCREASING NUMBER OF HEALTH CARE PROVIDERS ARE TRANSITIONING TO ADJUSTABLE HEIGHT TABLES**
 
-In 2012, approximately 25 percent of examination tables sold in the U.S. are at about a 19-inch low height.[19](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i19) This is a significant increase over the 17 percent of adjustable height tables sold in 2005. While manufacturers of tables and chairs understand that lower heights may be desirable, there currently are no commercially available examination tables or chairs that can reach a height lower than 19 inches uncompressed at its highest point on seating surface. It is unclear when such a table or chair could be available.
+In 2012, approximately 25 percent of examination tables sold in the U.S. are at about a 19-inch low height.[19](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i19) This is a significant increase over the 17 percent of adjustable height tables sold in 2005. While manufacturers of tables and chairs understand that lower heights may be desirable, there currently are no commercially available examination tables or chairs that can reach a height lower than 19 inches uncompressed at its highest point on seating surface. It is unclear when such a table or chair could be available.
 
-If adopted by the Access Board, a recommendation of 19-inch maximum height will build on the growing percentage of providers voluntarily purchasing accessible, adjustable height tables, at 25 percent today.[20](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i20) Conversely, if a new standard lower than 19 inches is established, thereby deeming all current adjustable tables inaccessible, the entire U.S. health system will be forced to begin at 0 percent accessible.
+If adopted by the Access Board, a recommendation of 19-inch maximum height will build on the growing percentage of providers voluntarily purchasing accessible, adjustable height tables, at 25 percent today.[20](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i20) Conversely, if a new standard lower than 19 inches is established, thereby deeming all current adjustable tables inaccessible, the entire U.S. health system will be forced to begin at 0 percent accessible.
 
 ![A graph depicting the types of examination tables sold between 2005 and 2012.  The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr9.jpg)
 
@@ -3370,19 +3370,19 @@ If adopted by the Access Board, a recommendation of 19-inch maximum height will 
 
 **AVAILABLE DATA DO NOT SUPPORT DEPARTING FROM THE CURRENTLY ACCEPTED STANDARD OF 19-INCH TRANSFER SURFACE HEIGHT**
 
-The Medical Diagnostic Equipment Technical Advisory Committee appropriately tried to determine what the optimal accessible transfer surface height is based on available data. In particular, the Advisory Committee spent a great deal of time discussing the Anthropometry of Wheeled Mobility (AWM) Project.[21](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i21) In that study, which the U.S. Access Board commissioned, Dr. Steinfeld served as the lead investigator. This study measured the **physical characteristics of people who use wheeled mobility devices** and some of the characteristics of those devices. The resting position of a person before attempting an independent transfer is important, and the Committee members valued the study's useful information in evaluating potential recommendations. However, because the Wheeled Mobility Anthropometry project only studied static positioning of users in their devices, it did not identify optimal transfer surface heights, and did not assess the ability of wheeled mobility device users to transfer independently from their mobility device onto an examination table or chair.
+The Medical Diagnostic Equipment Technical Advisory Committee appropriately tried to determine what the optimal accessible transfer surface height is based on available data. In particular, the Advisory Committee spent a great deal of time discussing the Anthropometry of Wheeled Mobility (AWM) Project.[21](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i21) In that study, which the U.S. Access Board commissioned, Dr. Steinfeld served as the lead investigator. This study measured the **physical characteristics of people who use wheeled mobility devices** and some of the characteristics of those devices. The resting position of a person before attempting an independent transfer is important, and the Committee members valued the study's useful information in evaluating potential recommendations. However, because the Wheeled Mobility Anthropometry project only studied static positioning of users in their devices, it did not identify optimal transfer surface heights, and did not assess the ability of wheeled mobility device users to transfer independently from their mobility device onto an examination table or chair.
 
-In evaluating data about seat height, the Committee took into account the relevant transfer height from the wheelchair. The AWM Project measured the **rear compressed seat height of the wheeled mobility device with the user seated in it**. For transfer purposes, however, the most relevant height is the wheelchair front edge. The height of the front edge of the seat or cushion is important because the user will shift to the front of the seat (to avoid having to lift over the side wheel) before moving to the side to complete the transfer. Unfortunately, the AWM Project did not measure the height of those same users' front wheelchair edges.
+In evaluating data about seat height, the Committee took into account the relevant transfer height from the wheelchair. The AWM Project measured the **rear compressed seat height of the wheeled mobility device with the user seated in it**. For transfer purposes, however, the most relevant height is the wheelchair front edge. The height of the front edge of the seat or cushion is important because the user will shift to the front of the seat (to avoid having to lift over the side wheel) before moving to the side to complete the transfer. Unfortunately, the AWM Project did not measure the height of those same users' front wheelchair edges.
 
 There is a recognized international standard defining various measurements of wheelchairs: ISO 7176-7:1998 Wheelchairs  -  Part 7: Measurement of seating and wheel dimensions. Figures 6 and 7 below are selected screenshots from this international standard. These illustrations identify several key measurements. The most important illustrations for present purposes are "seat plane angle," "effective seat depth," and "seat surface height at the front edge." The standard focuses on measurement procedure so it does not prove any actual measurements. However, as the images below make clear, the seat reference plane and effective seat depth will dictate the difference between the seat surface height at the front edge and the height of the seat at the rear of the wheelchair. Note further that wheelchair height measurements generally do not take into account the height of the cushion, which the consumer will need to clear at the front edge to enable a successful transfer.
 
-In addition, section 4 of the Paralyzed Veterans of America's "Guide to Wheelchair Selection"[22](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i22) also illustrates the distinction between the following heights:
+In addition, section 4 of the Paralyzed Veterans of America's "Guide to Wheelchair Selection"[22](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i22) also illustrates the distinction between the following heights:
 
 ...the seat surface height at the front edge (which excludes the effect of a seat cushion, typically measuring 2-4" in depth), the seat height at the rear of the seated surface, and the relevant transfer surface height for clearing the seat cushion.[23](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i23)
 
 Furthermore, the PVA's "Clinical Application Guide to Standardized Wheelchair Seating Measures of The Body And Seating Support Surfaces" defines the seat surface height as "the distance from the floor to the top of the seat at front edge, in area intended for thigh loading." It goes on to state that:
 
-*This measure is clinically relevant because it impacts the user's overall sitting height, clearance under tables, clearance of foot supports above casters or ground, and functional activities such as transfers*.[25](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i25) 
+*This measure is clinically relevant because it impacts the user's overall sitting height, clearance under tables, clearance of foot supports above casters or ground, and functional activities such as transfers*.[25](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i25) 
 
 Therefore, it cannot be inferred that the seat surface height at the front edge is the same as the seat height measured in the AWM Project. Similarly, these illustrations used in measuring individuals for manual wheelchairs indicate that the AWM Project's data cannot be used to make a direct assessment of the table height needed to accommodate wheelchair users effectively. Based on figures 5-7 below, a 17-inch rear compressed height measured in the AWM Project could easily correspond with a 20- or 21-inch uncompressed seat surface height at the front edge. This could in turn mean that individual users participating in the AWM Project measured below 19 inches would be able to transfer comfortably to a table surface for which the highest uncompressed surface is 19 inches.
 
@@ -3403,7 +3403,7 @@ In addition, a second study commissioned by the U.S. Access Board and evaluated 
 
 **ADOPTION OF A 19 INCH HEIGHT MINIMIZES COSTS TO HEALTH CARE PROVIDERS**
 
-In the absence of Committee consensus commending a departure from the existing broadly accepted transfer surface height maximum of 19 inches, information related to costs is especially critical to take into account in determining the minimum standard height for medical examination tables and chairs. We (representing medical table and chair manufacturers) estimated the costs of various examination table heights under consideration by the Medical Diagnostic Equipment Technical Advisory Committee using third-party data that represents approximately 80 percent of all distributed examination tables sold in the United States.[27](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i27) This data was presented to the MDE Advisory Committee Meeting held on February 26 and 27, 2013.[28](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i28)
+In the absence of Committee consensus commending a departure from the existing broadly accepted transfer surface height maximum of 19 inches, information related to costs is especially critical to take into account in determining the minimum standard height for medical examination tables and chairs. We (representing medical table and chair manufacturers) estimated the costs of various examination table heights under consideration by the Medical Diagnostic Equipment Technical Advisory Committee using third-party data that represents approximately 80 percent of all distributed examination tables sold in the United States.[27](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i27) This data was presented to the MDE Advisory Committee Meeting held on February 26 and 27, 2013.[28](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i28)
 
 To determine the total number of examination rooms in the United States, we reviewed the CDC National Ambulatory Care Survey, and found that there are approximately 639,000 exam rooms in the United States today.
 
@@ -3423,21 +3423,21 @@ While we estimate that adopting a lower-range requirement of 19 inches, health c
 
 **Table 1: Cost of Equipment**
 
-| **Configurations ** | **Dimensions ** | **Price Range ** | ** Average Price** | **Price Increase** |
+| **Configurations ** | **Dimensions ** | **Price Range ** | ** Average Price** | **Price Increase** |
 | Configuration #1:\
-Accessible equipment as currently available on the market, standard chair arms and stirrups |  19 inch max. height\
+Accessible equipment as currently available on the market, standard chair arms and stirrups |  19 inch max. height\
 28 inch width\
-17 inch depth |  $5,000 - $9,000 |  $7,000 | 0%\
+17 inch depth |  $5,000 - $9,000 |  $7,000 | 0%\
 (baseline) |
 | Configuration #2:\
 Accessible equipment as currently available on the market,\
 with the addition of transfer supports and leg supports | 19 inch max. height\
 28 inch width\
-17 inch depth |  $6,200 - $11,100 |  $8,650 | 24% |
+17 inch depth |  $6,200 - $11,100 |  $8,650 | 24% |
 | Configuration #3:\
-New equipment design with reduced height of 17"  |  17 inch max. height\
+New equipment design with reduced height of 17"  |  17 inch max. height\
 28 inch width\
-17 inch depth |  $6,700 - $12,900 |  $9,800 | 39% |
+17 inch depth |  $6,700 - $12,900 |  $9,800 | 39% |
 
 **COSTS TO LOWER MINIMUM TABLE HEIGHT**
 
@@ -3473,29 +3473,29 @@ The table and chart below illustrate these examples.
 
 **Table 2: Costs of Scoping Scenarios**
 
-| **Scenarios (10 year totals) ** | **Adoption Rate** | **Penetration**\
+| **Scenarios (10 year totals) ** | **Adoption Rate** | **Penetration**\
 **vs. Baseline** | **Cost**\
 **vs. Baseline** |
 | Baseline:\
 * Existing historic buying patterns continue\
 * Config #1 (19"H max., 28"W, 17"D)\
-* Transfer supports and leg supports are not included |  Baseline:\
-30% |  Baseline:\
+* Transfer supports and leg supports are not included |  Baseline:\
+30% |  Baseline:\
 43% | Baseline:\
 $1.91B |
 | Scenario A:\
 * Accessible equipment required to be purchased when facility construction occurs (new or remodel)\
 * Config #2 (19"H max., 28"W, 17"D)\
-* Existing tables upgraded to accessible (config #2) |
+* Existing tables upgraded to accessible (config #2) |
 
 20%
 
- | -17%  | -$0.41B  |
+ | -17%  | -$0.41B  |
 | 100% | 17% | $1.36B |
 | Scenario B:\
 * Accessible equipment required to be purchased when facility construction occurs (new or remodel)\
 * Config #3 (17"H max., 28"W, 17"D)\
-* Existing tables not able to be upgraded to be accessible | 20% | -35% | -$0.53B |
+* Existing tables not able to be upgraded to be accessible | 20% | -35% | -$0.53B |
 | 100% | -1% | $1.53B |
 
 **BENEFITS AND COSTS: SUMMARY**
@@ -3515,11 +3515,11 @@ Because of these complex shapes, it is necessary to create a standard method by 
 
 Several necessary features determine the shape of an examination table seat:
 
-The perineal cut-out provides access to the perineum for gynecological and urological examinations.
+The perineal cut-out provides access to the perineum for gynecological and urological examinations.
 
-The corner radii allow for closer wheelchair positioning to facilitate independent transfer by minimizing gaps. The corner radii also eliminate seams in the upholstery, which improves longevity, but more importantly also improves asepsis and infection control.
+The corner radii allow for closer wheelchair positioning to facilitate independent transfer by minimizing gaps. The corner radii also eliminate seams in the upholstery, which improves longevity, but more importantly also improves asepsis and infection control.
 
-Bolsters improve patient comfort and stability when seated on table. Note that the design minimizes the bolsters at the front half of the seat in order to promote ease of transfer.
+Bolsters improve patient comfort and stability when seated on table. Note that the design minimizes the bolsters at the front half of the seat in order to promote ease of transfer.
 
 Note that these features are widely used in both tables and chairs. Beds, stretchers, and other types of equipment will have unique features that determine the shapes of their patient support surfaces.
 
@@ -3531,7 +3531,7 @@ Note that these features are widely used in both tables and chairs. Beds, stretc
 
 The design of the corner radii allows closest possible position for wheelchair transfers, minimizing potential gaps and improving the patient's ability to transfer independently.
 
-In the diagram below, the upper wheelchair illustrates a typical side transfer, which may optionally utilize a transfer board. The lower wheelchair illustrates a typical diagonal transfer.[30](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i30) 
+In the diagram below, the upper wheelchair illustrates a typical side transfer, which may optionally utilize a transfer board. The lower wheelchair illustrates a typical diagonal transfer.[30](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i30) 
 
 ![Diagram shown transfer surface on examination table chair with wheelchairs located at each corner radii.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr20.jpg)
 
@@ -3557,7 +3557,7 @@ We recommend that the U.S. Access Board adopt the subcommittee's original recomm
 
 APPENDIX A
 
-Excerpt from the MDE Advisory Committee Meeting Minutes, February 26 and 27, 2013:[31](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i31) 
+Excerpt from the MDE Advisory Committee Meeting Minutes, February 26 and 27, 2013:[31](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-a-minority-reports#i31) 
 
 ***Manufacturer Presentations***
 
@@ -3571,7 +3571,7 @@ Excerpt from the MDE Advisory Committee Meeting Minutes, February 26 and 27, 201
 
 Presentation given by Bob Menke, Midmark Corporation, at the February 27, 2013 Advisory Committee Meeting:
 
- ![Two slides from a presentation given by Midmark to the MDE Advisory Committee.  One is the introductory slide with the title of the presentation, ""Examination Table Accessibility Standards", who it was being presented to and the date.  The second slide gives an overview of the presentation.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr21.jpg)
+ ![Two slides from a presentation given by Midmark to the MDE Advisory Committee.  One is the introductory slide with the title of the presentation, ""Examination Table Accessibility Standards", who it was being presented to and the date.  The second slide gives an overview of the presentation.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr21.jpg)
 
 ![Third and fourth slides from Midmark's presentation.  Slide three gives information about Bob Menke the Midmark representative and presenter.  Slide four shows two current examination table/chair designs that are currently available.  A woman in a wheelchair is positioned between the two tables.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr22.jpg)
 
@@ -3619,7 +3619,7 @@ Presentation given by Bob Menke, Midmark Corporation, at the February 27, 2013 A
 
 3\. Note that height measurement, as defined by the tables and chairs subcommittee, represents the highest point of the transfer surface, inclusive of bolsters, when measuring to the top of uncompressed foam. See the "Measurements of Tables and Chairs" subcommittee report, dated April 5th, 2013.
 
-4\. Medical table install base derived from U.S. medical distribution sales data, as provided by Global Healthcare Exchange (GHX), found at <http://www.ghx.com/product-pages/solutions/supplier-solutions/sales-data-analytics.aspx>
+4\. Medical table install base derived from U.S. medical distribution sales data, as provided by Global Healthcare Exchange (GHX), found at <http://www.ghx.com/product-pages/solutions/supplier-solutions/sales-data-analytics.aspx>
 
 5\. See M301.2.1 and M302.2.1.
 
@@ -3629,11 +3629,11 @@ Presentation given by Bob Menke, Midmark Corporation, at the February 27, 2013 A
 
 8\. Ibid.
 
-9\. Ibid, citing ANSI/AAMI HE 75, section 16.4.4. ANSI/AAMI HE75 recommends that the height of patient support surfaces "should be easy to adjust (ideally, powered) to suit the needs of health care professionals and patients." ANSI/AAMI HE75 further recommends that the height of patient support surfaces "should be adjustable to a position high enough to accommodate tall health care providers and the range of medical procedures that could occur . . .[and] to a position low enough [19 inches maximum] to allow for the comfort of providers who choose to work in a seated position, to enable patients to keep their feet on the floor while seated, and to accommodate patients who need to transfer laterally between the platform and a chair or wheelchair alongside." 
+9\. Ibid, citing ANSI/AAMI HE 75, section 16.4.4. ANSI/AAMI HE75 recommends that the height of patient support surfaces "should be easy to adjust (ideally, powered) to suit the needs of health care professionals and patients." ANSI/AAMI HE75 further recommends that the height of patient support surfaces "should be adjustable to a position high enough to accommodate tall health care providers and the range of medical procedures that could occur . . .[and] to a position low enough [19 inches maximum] to allow for the comfort of providers who choose to work in a seated position, to enable patients to keep their feet on the floor while seated, and to accommodate patients who need to transfer laterally between the platform and a chair or wheelchair alongside." 
 
-10\. See Analysis of Seat Heights for Wheeled Mobility Devices at: <http://udeworld.com/analysis-of-seat-height-for-wheeled-mobility-devices.> The seat heights ranged from 16.3 inches to 23.9 inches for manual wheelchair users; 16.2 inches to 28.9 inches for power wheelchair users; and 18.8 inches to 25.3 inches for scooter users. Seat heights for males were typically higher than for females. Thirty (30) percent of female manual wheelchair users and 6 percent of female power wheelchair users had seat heights equal to or less than 19 inches. All the male manual wheelchair users and 92 percent of the male power wheelchair users had seat heights equal to or less than 25 inches. Thus, transfer surfaces that are adjustable from 17 inches minimum to 25 inches maximum during patient transfer accommodate significantly more patients who use mobility devices.
+10\. See Analysis of Seat Heights for Wheeled Mobility Devices at: <http://udeworld.com/analysis-of-seat-height-for-wheeled-mobility-devices.> The seat heights ranged from 16.3 inches to 23.9 inches for manual wheelchair users; 16.2 inches to 28.9 inches for power wheelchair users; and 18.8 inches to 25.3 inches for scooter users. Seat heights for males were typically higher than for females. Thirty (30) percent of female manual wheelchair users and 6 percent of female power wheelchair users had seat heights equal to or less than 19 inches. All the male manual wheelchair users and 92 percent of the male power wheelchair users had seat heights equal to or less than 25 inches. Thus, transfer surfaces that are adjustable from 17 inches minimum to 25 inches maximum during patient transfer accommodate significantly more patients who use mobility devices.
 
-11\. Although the current accessibility standards and regulations described here reference a fixed height, the MDE advisory committee has recommended adding adjustable height to further enhance accessibility for users whose WMD's are higher than 19 inches. This includes most power wheelchair and scooter users, as described in the AWM Project. Note that the accessibility standard for pool lifts, 1009.2.4, also specifies adjustability, but with a very different range of motion due to its intended use of lowering a person down into a body of water. 
+11\. Although the current accessibility standards and regulations described here reference a fixed height, the MDE advisory committee has recommended adding adjustable height to further enhance accessibility for users whose WMD's are higher than 19 inches. This includes most power wheelchair and scooter users, as described in the AWM Project. Note that the accessibility standard for pool lifts, 1009.2.4, also specifies adjustability, but with a very different range of motion due to its intended use of lowering a person down into a body of water. 
 
 12\. See Accessible and Usable Buildings and Facilities, ICC/ANSI A117.1-2009. Emphasis of upper dimension of range added.
 
@@ -3641,11 +3641,11 @@ Presentation given by Bob Menke, Midmark Corporation, at the February 27, 2013 A
 
 14\. Ibid.
 
-15\. Ibid. 
+15\. Ibid. 
 
 16\. Ibid.
 
-17\. Because medical table and chair are typically raised in height for a clinical examination, the transfer supports described in the proposed standards may provide the added benefit of patient security and stabilization.
+17\. Because medical table and chair are typically raised in height for a clinical examination, the transfer supports described in the proposed standards may provide the added benefit of patient security and stabilization.
 
 18\. See Accessible and Usable Buildings and Facilities, ICC/ANSI A117.1-2009.
 
@@ -3653,27 +3653,27 @@ Presentation given by Bob Menke, Midmark Corporation, at the February 27, 2013 A
 
 20\. Some tables may require installation of a modified top to meet the 19" standard but would not require changing out the installed base.
 
-21\. See Analysis of Seat Heights for Wheeled Mobility Devices at: <http://udeworld.com/analysis-of-seat-height-for-wheeled-mobility-devices.> The seat heights ranged from 16.3 inches to 23.9 inches for manual wheelchair users; 16.2 inches to 28.9 inches for power wheelchair users; and 18.8 inches to 25.3 inches for scooter users. Seat heights for males were typically higher than for females. Thirty (30) percent of male manual wheelchair users and 6 percent of male power wheelchair users had seat heights equal to or less than 19 inches. All the male manual wheelchair users and 92 percent of the male power wheelchair users had seat heights equal to or less than 25 inches. Thus, transfer surfaces that are adjustable from 17 inches minimum to 25 inches maximum during patient transfer accommodate significantly more patients who use mobility devices.
+21\. See Analysis of Seat Heights for Wheeled Mobility Devices at: <http://udeworld.com/analysis-of-seat-height-for-wheeled-mobility-devices.> The seat heights ranged from 16.3 inches to 23.9 inches for manual wheelchair users; 16.2 inches to 28.9 inches for power wheelchair users; and 18.8 inches to 25.3 inches for scooter users. Seat heights for males were typically higher than for females. Thirty (30) percent of male manual wheelchair users and 6 percent of male power wheelchair users had seat heights equal to or less than 19 inches. All the male manual wheelchair users and 92 percent of the male power wheelchair users had seat heights equal to or less than 25 inches. Thus, transfer surfaces that are adjustable from 17 inches minimum to 25 inches maximum during patient transfer accommodate significantly more patients who use mobility devices.
 
-22\. Available at <http://www.wheelchairnet.org/WCN_ProdServ/Docs/PDF/AXbook_Sec4a.pdf.>
+22\. Available at <http://www.wheelchairnet.org/WCN_ProdServ/Docs/PDF/AXbook_Sec4a.pdf.>
 
 23\. Ibid.
 
-24\. Available at <http://www.ucdenver.edu/academics/colleges/medicalschool/programs/atp/Resources/WheelchairSeating/Pages/WheelchairSeating.aspx>
+24\. Available at <http://www.ucdenver.edu/academics/colleges/medicalschool/programs/atp/Resources/WheelchairSeating/Pages/WheelchairSeating.aspx>
 
 25\. Ibid.
 
-26\. Human Engineering Research Laboratories, University of Pittsburgh, The Impact of Transfer Set-Up on the Performance of Independent Transfers: Final Report. Available at: <http://herl.pitt.edu/ab/transfer_assessment_report.pdf> (visited May 22, 2013). 
+26\. Human Engineering Research Laboratories, University of Pittsburgh, The Impact of Transfer Set-Up on the Performance of Independent Transfers: Final Report. Available at: <http://herl.pitt.edu/ab/transfer_assessment_report.pdf> (visited May 22, 2013). 
 
-27\. Medical table install base derived from U.S. medical distribution sales data, as provided by Global Healthcare Exchange (GHX), found at <http://www.ghx.com/product-pages/solutions/supplier-solutions/sales-data-analytics.aspx>
+27\. Medical table install base derived from U.S. medical distribution sales data, as provided by Global Healthcare Exchange (GHX), found at <http://www.ghx.com/product-pages/solutions/supplier-solutions/sales-data-analytics.aspx>
 
 28\. The full meeting minutes, as well as a copy of the presentation delivered, can be found in Appendices A and B to this report.
 
 29\. The example given here describes an examination table, but the complexity and cost would similarly increase for examination chairs, especially those equipped with footplates. See section 4.1.3 of the full committee report for further details.
 
-30\. Examples of such transfers can be viewed here: <http://www.youtube.com/watch?v=qivOb_V6IgA> 
+30\. Examples of such transfers can be viewed here: <http://www.youtube.com/watch?v=qivOb_V6IgA> 
 
-31\. Full meeting minutes are available at <http://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/background/committee-meetings/minutes-february-26-and-27>,-2013
+31\. Full meeting minutes are available at <http://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/background/committee-meetings/minutes-february-26-and-27>,-2013
 
 
 
@@ -3749,11 +3749,11 @@ A portion of the Committee maintained that a height range of 17 inches - 25 inch
 
 Studies of Wheeled Mobility Devices and Transferring Abilities
 
-Accessible medical equipment needs to facilitate safe transfers that accommodate the largest possible portion of people with disabilities, including people who use wheeled mobility devices. The safest and most easily accessible transfers are those with no or very little horizontal and vertical distance between the seat of the wheelchair and the transfer surface. Specifically, transferring to a higher surface applies greater exertion of the upper limbs.[1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#1) 
+Accessible medical equipment needs to facilitate safe transfers that accommodate the largest possible portion of people with disabilities, including people who use wheeled mobility devices. The safest and most easily accessible transfers are those with no or very little horizontal and vertical distance between the seat of the wheelchair and the transfer surface. Specifically, transferring to a higher surface applies greater exertion of the upper limbs.[1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#1) 
 
-A study of wheeled mobility devices, including manual wheelchairs, power wheelchairs, and scooters examined the seat height of 495 users. The height was measured as the vertical distance from the floor to the lowest point of the seating surface of the mobility device, while the occupant was seated in the device. Thus, the surface of the mobility device was in a compressed state. The study noted that a range of 17 inches -25 inches accommodates the vast majority of wheeled mobility device users, while continuing to exclude 6% of manual wheelchair users whose devices are lower than 17 inches. Increasing the low end to 19" height excludes many users, specifically over 30% of female manual chair users and over 15% of male manual chair users.[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#2) 
+A study of wheeled mobility devices, including manual wheelchairs, power wheelchairs, and scooters examined the seat height of 495 users. The height was measured as the vertical distance from the floor to the lowest point of the seating surface of the mobility device, while the occupant was seated in the device. Thus, the surface of the mobility device was in a compressed state. The study noted that a range of 17 inches -25 inches accommodates the vast majority of wheeled mobility device users, while continuing to exclude 6% of manual wheelchair users whose devices are lower than 17 inches. Increasing the low end to 19" height excludes many users, specifically over 30% of female manual chair users and over 15% of male manual chair users.[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#2) 
 
-There is limited information on the ability of people with disabilities to transfer to a height different from the height of their wheeled mobility device. *The Impact of Transfer Setup on the Performance of Independent Transfers: Final Report* provides an analysis of the effect of height, horizontal gap, placement of armrests, and placement of grab bars on a person's ability to transfer. The study noted that 86% of wheeled mobility device users could transfer to heights that were 2 inches above and below the height of their wheeled mobility device. However, this study was not representative of the diversity of wheeled mobility device users. Individuals were explicitly excluded from the study if they had significant upper extremity pain or injury that affects the ability to perform transfers, or had an active or recent history of pressure sores. Furthermore, the vast majority of subjects in the study were men.[3](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#3) Numerous research studies as well as anecdotal reports from people with a variety of mobility disabilities (spinal cord injury, cerebral palsy, polio, traumatic brain injury, etc.) have detailed and reinforced that fact that people who live with disability experience a greater prevalence of and earlier onset of age related conditions such as arthritis, pain contractures, weakness, deconditioning, and shoulder injuries etc.[4](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#4)
+There is limited information on the ability of people with disabilities to transfer to a height different from the height of their wheeled mobility device. *The Impact of Transfer Setup on the Performance of Independent Transfers: Final Report* provides an analysis of the effect of height, horizontal gap, placement of armrests, and placement of grab bars on a person's ability to transfer. The study noted that 86% of wheeled mobility device users could transfer to heights that were 2 inches above and below the height of their wheeled mobility device. However, this study was not representative of the diversity of wheeled mobility device users. Individuals were explicitly excluded from the study if they had significant upper extremity pain or injury that affects the ability to perform transfers, or had an active or recent history of pressure sores. Furthermore, the vast majority of subjects in the study were men.[3](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#3) Numerous research studies as well as anecdotal reports from people with a variety of mobility disabilities (spinal cord injury, cerebral palsy, polio, traumatic brain injury, etc.) have detailed and reinforced that fact that people who live with disability experience a greater prevalence of and earlier onset of age related conditions such as arthritis, pain contractures, weakness, deconditioning, and shoulder injuries etc.[4](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#4)
 
 Data Deficiencies
 
@@ -3775,7 +3775,7 @@ While, there are always practical limitations on accommodating every individual,
 
 As our discussions progressed on the low height, whether it should be 17 inches, 18 inches or 19 inches; a compromise position of 18 inches was suggested. Some individuals indicated that they would be willing to compromise, but virtually all of the subcommittee members indicated that the 17 inch low height was the most inclusive and reached a broader range of individuals using wheeled mobility devices.
 
-During a Subcommittee conference call, Dr. Edward Steinfeld, the principal author of the* Analysis of Seat Height for Wheeled Mobility Devices*, stated 17 inches is the best practice as it accommodates approximately 94% of individuals using wheeled mobility devices according to their research (see above). When asked about the 18 inch as the low height, Dr. Steinfeld stated it could be a reasonable compromise since the group most affected by increasing the height would be manual wheelchair users who could accommodate a 1 inch change in vertical clearance during transfer. He also stated there is limited data on the effect of a level change as the distance (gap) between the wheeled mobility device and the piece of medical equipment increased and cautioned against speculating that height differences between the wheeled mobility device and transfer surface would be acceptable to all users.
+During a Subcommittee conference call, Dr. Edward Steinfeld, the principal author of the* Analysis of Seat Height for Wheeled Mobility Devices*, stated 17 inches is the best practice as it accommodates approximately 94% of individuals using wheeled mobility devices according to their research (see above). When asked about the 18 inch as the low height, Dr. Steinfeld stated it could be a reasonable compromise since the group most affected by increasing the height would be manual wheelchair users who could accommodate a 1 inch change in vertical clearance during transfer. He also stated there is limited data on the effect of a level change as the distance (gap) between the wheeled mobility device and the piece of medical equipment increased and cautioned against speculating that height differences between the wheeled mobility device and transfer surface would be acceptable to all users.
 
 Finally, a majority of committee members proposed a range for the low height of 17 to 19 inches rather than establishing an absolute minimum. An example of providing a range is the pool seat lift accessibility standard per ADA and ABA 2004 Guidelines Section 1009.2.4, which clearly establishes that, even with adjustable devices, a range for the highest (or in our case lowest) position is suitable and appropriate. Thus, the standard could be stated as follows: the transfer surface must lower to at least 17 inches to 19 inches and infinitely adjust to at least 25 inches above the finished floor.
 
@@ -3792,9 +3792,9 @@ The memorandum explains why a requirement for a 19 inch lower adjustable height 
 
 Current Situation: the Vast Majority of Examination and Procedure Tables are 32 Inches High
 
-In the United States, approximately 82 percent[5](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#5) of physicians, hospitals and other health care providers use examination and procedures tables with a 32-inch fixed height, as shown in Figure 1. Industry commonly refers to these tables as "box tables." These tables provide an often-insurmountable barrier to health care for people with accessibility needs. Since 2001, the number of adjustable-height tables has steadily increased, but continue to represent a minority of examination tables in the United States.
+In the United States, approximately 82 percent[5](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#5) of physicians, hospitals and other health care providers use examination and procedures tables with a 32-inch fixed height, as shown in Figure 1. Industry commonly refers to these tables as "box tables." These tables provide an often-insurmountable barrier to health care for people with accessibility needs. Since 2001, the number of adjustable-height tables has steadily increased, but continue to represent a minority of examination tables in the United States.
 
- ![A table depicting the percentage of fixed height versus adjustable height medical tables (representing the U.S. install base of medical tables)]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr5.jpg)
+ ![A table depicting the percentage of fixed height versus adjustable height medical tables (representing the U.S. install base of medical tables)]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr5.jpg)
 
 *Figure 1: Percentage of fixed height versus adjustable height medical tables*
 
@@ -3814,9 +3814,9 @@ Second, as a minimum standard, establishing a 19-inch highest point standard doe
 
 Alignment of 19 Inch Recommendation with Access Board Proposed Rulemaking
 
-The subcommittee's recommendation of a lower adjustable height of 19 inches maximum is consistent with the U.S. Access Board's proposed rule and supported by public comments. In its proposed rule, the Access Board proposed that the "height of the transfer surface during patient transfer shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum measured from the floor to the top of the transfer surface" for both examination tables and chairs.[6](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#6) The Access Board based its proposal, "on provisions in the 2004 ADA and ABA Accessibility Guidelines for architectural features that involve transfers (e.g., toilet seats, shower seats, dressing benches)."[7](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#7) In addition, the Access Board recommended, "Where patient support surfaces are contoured or upholstered for patient comfort or to support patient positioning during diagnostic procedures, the height of the transfer surface measured from the floor may vary across the transfer surface. The highest and lowest points of the transfer surface on such equipment would have to be within the specified dimensions."[8](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#8) The Access Board proposed that the measurement should be taken from the "floor to the top of the upholstery under static conditions, without compression or deflection in the transfer surface ...."[9](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#9) 
+The subcommittee's recommendation of a lower adjustable height of 19 inches maximum is consistent with the U.S. Access Board's proposed rule and supported by public comments. In its proposed rule, the Access Board proposed that the "height of the transfer surface during patient transfer shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum measured from the floor to the top of the transfer surface" for both examination tables and chairs.[6](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#6) The Access Board based its proposal, "on provisions in the 2004 ADA and ABA Accessibility Guidelines for architectural features that involve transfers (e.g., toilet seats, shower seats, dressing benches)."[7](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#7) In addition, the Access Board recommended, "Where patient support surfaces are contoured or upholstered for patient comfort or to support patient positioning during diagnostic procedures, the height of the transfer surface measured from the floor may vary across the transfer surface. The highest and lowest points of the transfer surface on such equipment would have to be within the specified dimensions."[8](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#8) The Access Board proposed that the measurement should be taken from the "floor to the top of the upholstery under static conditions, without compression or deflection in the transfer surface ...."[9](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#9) 
 
-The Access Board's proposal also explained that it is considering requiring in the final standards that the height of transfer surfaces be adjustable from 17 inches minimum to 25 inches maximum during patient transfer. In support of the alternative proposal, it cites ANSI/AAMI HE75[10](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#10) and the Wheeled Mobility Anthropometry Project.[11](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#11) The results of this study recommended adjustable heights, with an increased maximum height above 19 inches, be provided in order to better accommodate users of powered wheelchairs and scooters. During the committee hearings, the manufacturers accepted that this would be appropriate and offered 19-inch to 25-inch adjustable height through powered tables.
+The Access Board's proposal also explained that it is considering requiring in the final standards that the height of transfer surfaces be adjustable from 17 inches minimum to 25 inches maximum during patient transfer. In support of the alternative proposal, it cites ANSI/AAMI HE75[10](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#10) and the Wheeled Mobility Anthropometry Project.[11](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#11) The results of this study recommended adjustable heights, with an increased maximum height above 19 inches, be provided in order to better accommodate users of powered wheelchairs and scooters. During the committee hearings, the manufacturers accepted that this would be appropriate and offered 19-inch to 25-inch adjustable height through powered tables.
 
 The subcommittee's recommendation appropriately balances the two proposed alternatives included in the Access Board's proposed rule. Therefore, the Access Board should adopt the subcommittee's recommendation provider for continuous adjustability of the height of the transfer surface between 19 and 25 inches.
 
@@ -3826,35 +3826,35 @@ Current accessibility standards and regulations generally consider a transfer su
 
 Nineteen-inch pool lift seats are accessible:
 
-**1009.2.4 Seat Height.** The height of the lift seat shall be designed to allow a stop at 16 inches (405 mm) minimum to **19 inches** (485 mm) maximum measured from the deck to the top of the seat surface when in the raised (load) position.
+**1009.2.4 Seat Height.** The height of the lift seat shall be designed to allow a stop at 16 inches (405 mm) minimum to **19 inches** (485 mm) maximum measured from the deck to the top of the seat surface when in the raised (load) position.
 
 Nineteen-inch water closet and toilet seats are accessible:
 
-**604.4 Height.** The height of water closet seats shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the floor, measured to the top of the seat. Seats shall not be sprung to return to a lifted position.[12](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#12)
+**604.4 Height.** The height of water closet seats shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the floor, measured to the top of the seat. Seats shall not be sprung to return to a lifted position.[12](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#12)
 
 Likewise, 19 inch high benches are accessible:
 
-**903.5 Height.** The top of the bench seat shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the floor, measured to the top of the seat.[13](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#13) 
+**903.5 Height.** The top of the bench seat shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the floor, measured to the top of the seat.[13](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#13) 
 
 Nineteen-inch high bathtub seats are accessible:
 
-**610.2 Bathtub Seats.** The height of bathtub seats shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the bathroom floor, measured to the top of the seat. Removable in-tub seats shall be 15 inches (380 mm) minimum and 16 inches (405 mm) maximum in depth. Removable in-tub seats shall be capable of secure placement. Permanent seats shall be 15 inches (380 mm) minimum in depth and shall extend from the back wall to or beyond the outer edge of the bathtub. Permanent seats shall be positioned at the head end of the bathtub.[14](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#14) 
+**610.2 Bathtub Seats.** The height of bathtub seats shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the bathroom floor, measured to the top of the seat. Removable in-tub seats shall be 15 inches (380 mm) minimum and 16 inches (405 mm) maximum in depth. Removable in-tub seats shall be capable of secure placement. Permanent seats shall be 15 inches (380 mm) minimum in depth and shall extend from the back wall to or beyond the outer edge of the bathtub. Permanent seats shall be positioned at the head end of the bathtub.[14](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#14) 
 
 Nineteen-inch high shower compartment seats are accessible:
 
-**610.3 Shower Compartment Seats.** The height of shower compartment seats shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the bathroom floor, measured to the top of the seat. In transfer-type and alternate roll-in-type showers, the seat shall extend along the seat wall to a point within 3 inches (75 mm) of the compartment entry. In standard roll-in-type showers, the seat shall extend from the control wall to a point within 3 inches (75 mm) of the compartment entry. Seats shall comply with Section 610.3.1 or 610.3.2.[15](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#15) 
+**610.3 Shower Compartment Seats.** The height of shower compartment seats shall be 17 inches (430 mm) minimum and **19 inches** (485 mm) maximum above the bathroom floor, measured to the top of the seat. In transfer-type and alternate roll-in-type showers, the seat shall extend along the seat wall to a point within 3 inches (75 mm) of the compartment entry. In standard roll-in-type showers, the seat shall extend from the control wall to a point within 3 inches (75 mm) of the compartment entry. Seats shall comply with Section 610.3.1 or 610.3.2.[15](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#15) 
 
 Nineteen-inch high amusement park rides are accessible:
 
-**1102.5.2 Transfer Height.** The height of amusement ride seats designed for transfer shall be 14 inches (355 mm) minimum and **24 inches** (610 mm) maximum measured from the surface of the load and unload area.[16](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#16) 
+**1102.5.2 Transfer Height.** The height of amusement ride seats designed for transfer shall be 14 inches (355 mm) minimum and **24 inches** (610 mm) maximum measured from the surface of the load and unload area.[16](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#16) 
 
 As mentioned above, a minimum standard of 19 inches at the highest point of a table or chair is not the same thing as the transfer surface height experienced by patients because the front edge of currently available tables is lower than the highest measured point. However, the fact that a nineteen-inch height is so widely accepted by existing accessibility standards for various types of benches and chairs strongly commends maintaining the standard for medical diagnostic equipment as the minimum standard for accessible examination tables and chairs. This is particularly the case because of the manner in which medical diagnostic equipment is used. Unlike toilets, bench seats, and bathtub seats, where usability may require constant contact of one's feet with the floor for stability or require free use of one's hands, in most cases medical examination tables and chairs will be raised substantially off of the floor to accommodate caregiver access to patients. Additional requirements of the proposed standards for arm supports provide additional security once an individual has made a successful transfer.
 
 An Increasing Number of Health Care Providers are Transitioning to Adjustable Height Tables
 
-In 2012, approximately 25 percent of examination tables sold in the U.S. are at about a 19-inch low height.[17](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#17) This is a significant increase over the 17 percent of adjustable height tables sold in 2005. While manufacturers of tables and chairs understand that lower heights may be desirable, no manufacturer has been able to design and produce an examination table or chair that can reach a height lower than 19 inches uncompressed at the highest point on the table or chair. It is unclear when such a table or chair could be available.
+In 2012, approximately 25 percent of examination tables sold in the U.S. are at about a 19-inch low height.[17](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#17) This is a significant increase over the 17 percent of adjustable height tables sold in 2005. While manufacturers of tables and chairs understand that lower heights may be desirable, no manufacturer has been able to design and produce an examination table or chair that can reach a height lower than 19 inches uncompressed at the highest point on the table or chair. It is unclear when such a table or chair could be available.
 
-If adopted by the Access Board, a recommendation of 19-inch maximum height will build on the growing percentage of providers voluntarily purchasing accessible, adjustable height tables, at 25 percent today.[18](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#18) Conversely, if a new standard lower than 19 inches is established, thereby deeming all current adjustable tables inaccessible, the entire U.S. health system will be forced to begin at 0 percent accessible.
+If adopted by the Access Board, a recommendation of 19-inch maximum height will build on the growing percentage of providers voluntarily purchasing accessible, adjustable height tables, at 25 percent today.[18](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#18) Conversely, if a new standard lower than 19 inches is established, thereby deeming all current adjustable tables inaccessible, the entire U.S. health system will be forced to begin at 0 percent accessible.
 
 ![A graph depicting the types of examination tables sold between 2005 and 2012.  The y axis indicates the percent of tables sold that are adjustable height (blue) and fixed height (red). The x axis indicates the quarter and year of the data (e.g., first quarter in 2005, extreme left).]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr9.jpg)
 
@@ -3862,13 +3862,13 @@ If adopted by the Access Board, a recommendation of 19-inch maximum height will 
 
 Available Data do not Support Departing from the Currently Accepted Standard of 19 Inch Transfer Surface Height
 
-The Medical Diagnostic Equipment Technical Advisory Committee appropriately tried to determine what the optimal accessible transfer surface height is based on available data. In particular, the Advisory Committee spent a great deal of time discussing the Wheeled Mobility Anthropometry Project.[19](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#19) In that study, which the U.S. Access Board commissioned, Dr. Steinfeld served as the lead investigator. The Wheeled Mobility Anthropometry project did not study optimal transfer surface heights or the ability of wheeled mobility device users to transfer independently from their mobility device onto an examination table or chair. Instead, the study measured the** physical characteristics of people who use wheeled mobility devices** and some of the characteristics of those devices.
+The Medical Diagnostic Equipment Technical Advisory Committee appropriately tried to determine what the optimal accessible transfer surface height is based on available data. In particular, the Advisory Committee spent a great deal of time discussing the Wheeled Mobility Anthropometry Project.[19](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#19) In that study, which the U.S. Access Board commissioned, Dr. Steinfeld served as the lead investigator. The Wheeled Mobility Anthropometry project did not study optimal transfer surface heights or the ability of wheeled mobility device users to transfer independently from their mobility device onto an examination table or chair. Instead, the study measured the** physical characteristics of people who use wheeled mobility devices** and some of the characteristics of those devices.
 
-In evaluating data about seat height, we must be sure to take into account the relevant transfer height from the wheelchair. Dr. Steinfeld's study measured the** rear compressed seat height of the wheeled mobility device with the user seated in it**. For transfer purposes, however, the most relevant height is the wheelchair front edge. Unfortunately, Dr. Steinfeld did not measure the height of those same users' front wheelchair edges.
+In evaluating data about seat height, we must be sure to take into account the relevant transfer height from the wheelchair. Dr. Steinfeld's study measured the** rear compressed seat height of the wheeled mobility device with the user seated in it**. For transfer purposes, however, the most relevant height is the wheelchair front edge. Unfortunately, Dr. Steinfeld did not measure the height of those same users' front wheelchair edges.
 
 There is a recognized international standard defining various measurements of wheelchairs: ISO 7176-7:1998 Wheelchairs  -  Part 7: Measurement of seating and wheel dimensions. Figures 6 and 7 below are selected screenshots from this international standard. These illustrations identify several key measurements. The most important illustrations for present purposes are "seat plane angle," "effective seat depth," and "seat surface height at the front edge." The standard focuses on measurement procedure so it does not prove any actual measurements. However, as the images below make clear, the seat reference plane and effective seat depth will dictate the difference between the seat surface height at the front edge and the height of the seat at the rear of the wheelchair. Note further that wheelchair height measurements generally do not take into account the height of the cushion, which the consumer will need to clear at the front edge to enable a successful transfer.
 
-In addition, section 4 of the Paralyzed Veterans of America's Guide to Wheelchair Selection[20](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#20) also illustrates the distinction between the following heights:
+In addition, section 4 of the Paralyzed Veterans of America's Guide to Wheelchair Selection[20](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#20) also illustrates the distinction between the following heights:
 
 *...the seat surface height at the front edge (which excludes the effect of a seat cushion, typically measuring 2-4" in depth), the seat height at the rear of the seated surface, and the relevant transfer surface height for clearing the seat cushion.*[21](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#21)
 
@@ -3904,7 +3904,7 @@ Chairs with no footrest plate and only a breaking knee legrest have similar prob
 
 Adoption of a 19 Inch Height Minimizes Costs to Health Care Providers
 
-In the absence of clear data commending a departure from the existing broadly accepted transfer surface height maximum of 19 inches, information related to costs is especially critical to take into account in determining the minimum standard for medical examination tables and chairs. We estimated the costs of various examination table heights under consideration by the Medical Diagnostic Equipment Technical Advisory Committee using third-party data that represents approximately 80 percent of all distributed examination tables sold in the United States.[23](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#23) 
+In the absence of clear data commending a departure from the existing broadly accepted transfer surface height maximum of 19 inches, information related to costs is especially critical to take into account in determining the minimum standard for medical examination tables and chairs. We estimated the costs of various examination table heights under consideration by the Medical Diagnostic Equipment Technical Advisory Committee using third-party data that represents approximately 80 percent of all distributed examination tables sold in the United States.[23](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#23) 
 
 To determine the total number of examination rooms in the United States, we reviewed the CDC National Ambulatory Care Survey, and found that there are approximately 639,000 exam rooms in the United States today.
 
@@ -3923,21 +3923,21 @@ Cost of Equipment
 
 **Table 1: Cost of Equipment**
 
-| **Configurations ** | **Dimensions ** | **Price Range ** | ** Average Price** | **Price Increase** |
+| **Configurations ** | **Dimensions ** | **Price Range ** | ** Average Price** | **Price Increase** |
 | Configuration #1:\
-Accessible equipment as currently available on the market, standard chair arms and stirrups |  19 inch max. height\
+Accessible equipment as currently available on the market, standard chair arms and stirrups |  19 inch max. height\
 28 inch width\
-17 inch depth |  $5,000 - $9,000 |  $7,000 | 0%\
+17 inch depth |  $5,000 - $9,000 |  $7,000 | 0%\
 (baseline) |
 | Configuration #2:\
 Accessible equipment as currently available on the market,\
 with the addition of transfer supports and leg supports | 19 inch max. height\
 28 inch width\
-17 inch depth |  $6,200 - $11,100 |  $8,650 | 24% |
+17 inch depth |  $6,200 - $11,100 |  $8,650 | 24% |
 | Configuration #3:\
-New equipment design with reduced height of 17"  |  17 inch max. height\
+New equipment design with reduced height of 17"  |  17 inch max. height\
 28 inch width\
-17 inch depth |  $6,700 - $12,900 |  $9,800 | 39% |
+17 inch depth |  $6,700 - $12,900 |  $9,800 | 39% |
 
 Costs to Lower Minimum Table Height
 
@@ -3973,29 +3973,29 @@ The table and chart below illustrate these examples.
 
 **Table 2: Costs of Scoping Scenarios**
 
-| **Scenarios (10 year totals) ** | **Adoption Rate** | **Penetration**\
+| **Scenarios (10 year totals) ** | **Adoption Rate** | **Penetration**\
 **vs. Baseline** | **Cost**\
 **vs. Baseline** |
 | Baseline:\
 * Existing historic buying patterns continue\
 * Config #1 (19"H max., 28"W, 17"D)\
-* Transfer supports and leg supports are not included |  Baseline:\
-30% |  Baseline:\
+* Transfer supports and leg supports are not included |  Baseline:\
+30% |  Baseline:\
 43% | Baseline:\
 $1.91B |
 | Scenario A:\
 * Accessible equipment required to be purchased when facility construction occurs (new or remodel)\
 * Config #2 (19"H max., 28"W, 17"D)\
-* Existing tables upgraded to accessible (config #2) |
+* Existing tables upgraded to accessible (config #2) |
 
 20%
 
- | -17%  | -$0.41B  |
+ | -17%  | -$0.41B  |
 | 100% | 17% | $1.36B |
 | Scenario B:\
 * Accessible equipment required to be purchased when facility construction occurs (new or remodel)\
 * Config #3 (17"H max., 28"W, 17"D)\
-* Existing tables not able to be upgraded to be accessible | 20% | -35% | -$0.53B |
+* Existing tables not able to be upgraded to be accessible | 20% | -35% | -$0.53B |
 | 100% | -1% | $1.53B |
 
 ![A graph showing the cost versus baselijne and  access versus baseline.  The graph summarizes the cost and implementation scenarios of Table 2.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr16.jpg)\
@@ -4013,11 +4013,11 @@ Because of these complex shapes, it is necessary to create a standard method by 
 
 Several necessary features determine the shape of an examination table seat:
 
-The perineal cut-out provides access to the perineum for gynecological and urological examinations.
+The perineal cut-out provides access to the perineum for gynecological and urological examinations.
 
-The corner radii allow for closer wheelchair positioning to facilitate independent transfer by minimizing gaps. The corner radii also eliminate seams in the upholstery, which improves longevity, but more importantly also improves asepsis and infection control.
+The corner radii allow for closer wheelchair positioning to facilitate independent transfer by minimizing gaps. The corner radii also eliminate seams in the upholstery, which improves longevity, but more importantly also improves asepsis and infection control.
 
-Bolsters improve patient comfort and stability when seated on table. Note that the design minimizes the bolsters at the front half of the seat in order to promote ease of transfer.
+Bolsters improve patient comfort and stability when seated on table. Note that the design minimizes the bolsters at the front half of the seat in order to promote ease of transfer.
 
 Note that these features are widely used in both tables and chairs. Beds, stretchers, and other types of equipment will have unique features that determine the shapes of their patient support surfaces.
 
@@ -4027,7 +4027,7 @@ Note that these features are widely used in both tables and chairs. Beds, stretc
 
 The design of the corner radii allows closest possible position for wheelchair transfers, minimizing potential gaps and improving the patient's ability to transfer independently.
 
-In the diagram below, the upper wheelchair illustrates a typical side transfer, which may optionally utilize a transfer board. The lower wheelchair illustrates a typical diagonal transfer.[24](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#24) 
+In the diagram below, the upper wheelchair illustrates a typical side transfer, which may optionally utilize a transfer board. The lower wheelchair illustrates a typical diagonal transfer.[24](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#24) 
 
 ![Diagram shown transfer surface on examination table chair with wheelchairs located at each corner radii.]({{ site.baseurl }}/images/advisory-committee-reports/mde/mr20.jpg)
 
@@ -4053,7 +4053,7 @@ Gripping surface for transfer supports shall be free of sharp or abrasive elemen
 
 Armrests are recommended but not required. If provided armrests cannot interfere with transfer supports during the transfer. Dual transfer support/armrest mechanisms are allowed as long as the transfer support meets all of the requirements for transfer supports.
 
-**Notes **
+**Notes **
 
 1\. The Impact of Transfer Setup on the Performance of Independent Transfers: Final Report. Presentation to US Access Board. Washington, DC. 2011
 
@@ -4063,19 +4063,19 @@ Armrests are recommended but not required. If provided armrests cannot interfere
 
 4\. Jensen, M.P., Molton, I.R., Groah, S.L., Campbell, M.L., Charlifue, S., Chiodo, A., Forchheimer, M., Krause, J.S., & Tate, D. (2011). Secondary Health Conditions in Individuals Aging with SCI: Terminology, Concepts, and Analytic Approaches. Spinal Cord, 50(5): 373-378.
 
-Groah, S.L., Charlifue, S., Tate, D., Jensen, M.P., Molton, I.R., Forchheimer, M., Krause, J.S., Lammertse, D.P., & Campbell, M. (2012). Spinal Cord Injury and Aging: Challenges and Recommendations for Future Research. American Journal of Physical Medicine & Rehabilitation, 91(1): 80. doi: 10.1097/PHM.0b013e31821f70bc. Available from: <http://journals.lww.com/ajpmr/Abstract/2012/01000/Spinal_Cord_Injury_and_Aging__Challenges_and.10.aspx.> Accessed December 18, 2012.
+Groah, S.L., Charlifue, S., Tate, D., Jensen, M.P., Molton, I.R., Forchheimer, M., Krause, J.S., Lammertse, D.P., & Campbell, M. (2012). Spinal Cord Injury and Aging: Challenges and Recommendations for Future Research. American Journal of Physical Medicine & Rehabilitation, 91(1): 80. doi: 10.1097/PHM.0b013e31821f70bc. Available from: <http://journals.lww.com/ajpmr/Abstract/2012/01000/Spinal_Cord_Injury_and_Aging__Challenges_and.10.aspx.> Accessed December 18, 2012.
 
 Turk M. Secondary conditions and disability. In: Field MJ, Jette AM, Martin L (eds). Workshop on disability in America. A new look. Summary and background papers. Board on Health Sciences Policy, Institute of Medicine of the National Academies, The National Academies Press: Washington DC, 2006, pp. 185--193.
 
 Kemp, B.J., & Mosqueda, L. (Eds.) (2004). Aging with a Disability: What the Clinician Needs to Know. Baltimore, MD: Johns Hopkins University Press.
 
-Kailes, J. (2000). Health, Wellness and Aging with Disability, KAILES - Publications, <http://www.jik.com/resource.html>, [](mailto:jik@pacbell.net.)<jik@pacbell.net>.
+Kailes, J. (2000). Health, Wellness and Aging with Disability, KAILES - Publications, <http://www.jik.com/resource.html>, [](mailto:jik@pacbell.net.)<jik@pacbell.net>.
 
 Kailes, J. (1995). "Midlife Cripdom: Getting Fewer Miles per Gallon?" The Disability Rag 16(4).
 
 Kailes, J. (2001). Aging with Disability - Good News and Bad News. Western U-View. XX: 17.
 
-5\. Medical table install base derived from U.S. medical distribution sales data, as provided by Global Healthcare Exchange (GHX), found at <http://www.ghx.com/product-pages/solutions/supplier-solutions/sales-data-analytics.aspx>
+5\. Medical table install base derived from U.S. medical distribution sales data, as provided by Global Healthcare Exchange (GHX), found at <http://www.ghx.com/product-pages/solutions/supplier-solutions/sales-data-analytics.aspx>
 
 6\. See M301.2.1 and M302.2.1.
 
@@ -4087,7 +4087,7 @@ Kailes, J. (2001). Aging with Disability - Good News and Bad News. Western U-Vie
 
 10.Ibid, citing ANSI/AAMI HE 75, section 16.4.4. ANSI/AAMI HE75 recommends that the height of patient support surfaces "should be easy to adjust (ideally, powered) to suit the needs of health care professionals and patients." ANSI/AAMI HE75 further recommends that the height of patient support surfaces "should be adjustable to a position high enough to accommodate tall health care providers and the range of medical procedures that could occur . . . [and] to a position low enough [19 inches maximum] to allow for the comfort of providers who choose to work in a seated position, to enable patients to keep their feet on the floor while seated, and to accommodate patients who need to transfer laterally between the platform and a chair or wheelchair alongside."
 
-11.See Analysis of Seat Heights for Wheeled Mobility Devices at: <http://udeworld.com/analysis-of-seat-height-for-wheeled-mobility-devices.> The seat heights ranged from 16.3 inches to 23.9 inches for manual wheelchair users; 16.2 inches to 28.9 inches for power wheelchair users; and 18.8 inches to 25.3 inches for scooter users. Seat heights for males were typically higher than for females. Thirty (30) percent of male manual wheelchair users and 6 percent of male power wheelchair users had seat heights equal to or less than 19 inches. All the male manual wheelchair users and 92 percent of the male power wheelchair users had seat heights equal to or less than 25 inches. Thus, transfer surfaces that are adjustable from 17 inches minimum to 25 inches maximum during patient transfer accommodate significantly more patients who use mobility devices.
+11.See Analysis of Seat Heights for Wheeled Mobility Devices at: <http://udeworld.com/analysis-of-seat-height-for-wheeled-mobility-devices.> The seat heights ranged from 16.3 inches to 23.9 inches for manual wheelchair users; 16.2 inches to 28.9 inches for power wheelchair users; and 18.8 inches to 25.3 inches for scooter users. Seat heights for males were typically higher than for females. Thirty (30) percent of male manual wheelchair users and 6 percent of male power wheelchair users had seat heights equal to or less than 19 inches. All the male manual wheelchair users and 92 percent of the male power wheelchair users had seat heights equal to or less than 25 inches. Thus, transfer surfaces that are adjustable from 17 inches minimum to 25 inches maximum during patient transfer accommodate significantly more patients who use mobility devices.
 
 12.See Accessible and Usable Buildings and Facilities, ICC/ANSI A117.1-2009.
 
@@ -4103,17 +4103,17 @@ Kailes, J. (2001). Aging with Disability - Good News and Bad News. Western U-Vie
 
 18\. Some tables may require installation of a modified top to meet the 19" standard but would not require changing out the installed base.
 
-19\. See Analysis of Seat Heights for Wheeled Mobility Devices at: <http://udeworld.com/analysis-of-seat-height-for-wheeled-mobility-devices.> The seat heights ranged from 16.3 inches to 23.9 inches for manual wheelchair users; 16.2 inches to 28.9 inches for power wheelchair users; and 18.8 inches to 25.3 inches for scooter users. Seat heights for males were typically higher than for females. Thirty (30) percent of male manual wheelchair users and 6 percent of male power wheelchair users had seat heights equal to or less than 19 inches. All the male manual wheelchair users and 92 percent of the male power wheelchair users had seat heights equal to or less than 25 inches. Thus, transfer surfaces that are adjustable from 17 inches minimum to 25 inches maximum during patient transfer accommodate significantly more patients who use mobility devices.
+19\. See Analysis of Seat Heights for Wheeled Mobility Devices at: <http://udeworld.com/analysis-of-seat-height-for-wheeled-mobility-devices.> The seat heights ranged from 16.3 inches to 23.9 inches for manual wheelchair users; 16.2 inches to 28.9 inches for power wheelchair users; and 18.8 inches to 25.3 inches for scooter users. Seat heights for males were typically higher than for females. Thirty (30) percent of male manual wheelchair users and 6 percent of male power wheelchair users had seat heights equal to or less than 19 inches. All the male manual wheelchair users and 92 percent of the male power wheelchair users had seat heights equal to or less than 25 inches. Thus, transfer surfaces that are adjustable from 17 inches minimum to 25 inches maximum during patient transfer accommodate significantly more patients who use mobility devices.
 
-20\. Available at <http://www.wheelchairnet.org/WCN_ProdServ/Docs/PDF/AXbook_Sec4a.pdf.>
+20\. Available at <http://www.wheelchairnet.org/WCN_ProdServ/Docs/PDF/AXbook_Sec4a.pdf.>
 
 21\. Ibid.
 
-22\. Human Engineering Research Laboratories, University of Pittsburgh, The Impact of Transfer Set-Up on the Performance of Independent Transfers: Final Report. Available at: <http://herl.pitt.edu/ab/transfer_assessment_report.pdf> (visited May 22, 2013).
+22\. Human Engineering Research Laboratories, University of Pittsburgh, The Impact of Transfer Set-Up on the Performance of Independent Transfers: Final Report. Available at: <http://herl.pitt.edu/ab/transfer_assessment_report.pdf> (visited May 22, 2013).
 
-23\. Medical table install base derived from U.S. medical distribution sales data, as provided by Global Healthcare Exchange (GHX), found at <http://www.ghx.com/product-pages/solutions/supplier-solutions/sales-data-analytics.aspx>
+23\. Medical table install base derived from U.S. medical distribution sales data, as provided by Global Healthcare Exchange (GHX), found at <http://www.ghx.com/product-pages/solutions/supplier-solutions/sales-data-analytics.aspx>
 
-24\. Examples of such transfers can be viewed here: <http://www.youtube.com/watch?v=qivOb_V6IgA>
+24\. Examples of such transfers can be viewed here: <http://www.youtube.com/watch?v=qivOb_V6IgA>
 
 * * * * *
 
@@ -4123,7 +4123,7 @@ Kailes, J. (2001). Aging with Disability - Good News and Bad News. Western U-Vie
 **Final Report**\
 **June 2, 2013**
 
-The Subcommittee's technical recommendations for imaging equipment (except Mammographic equipment) have taken into consideration the following technical criteria proposed in Chapter 3, part 1195 to Title 36 of the Code of Federal Regulations. Especially, Section M301,* Diagnostic Equipment Used by Patients in Supine, Prone, or Side-Lying Position*. However, given the enormous diversity of imaging equipment needed to achieve the broad range of diagnostic objectives Sections M302, *Diagnostic Equipment used by Patients in Seated Position*; M303, *Diagnostic Equipment used by Patients Seated in a Wheelchair*; and M304, *Diagnostic Equipment used by Patients in Standing Position* were considered and are noted in this report.
+The Subcommittee's technical recommendations for imaging equipment (except Mammographic equipment) have taken into consideration the following technical criteria proposed in Chapter 3, part 1195 to Title 36 of the Code of Federal Regulations. Especially, Section M301,* Diagnostic Equipment Used by Patients in Supine, Prone, or Side-Lying Position*. However, given the enormous diversity of imaging equipment needed to achieve the broad range of diagnostic objectives Sections M302, *Diagnostic Equipment used by Patients in Seated Position*; M303, *Diagnostic Equipment used by Patients Seated in a Wheelchair*; and M304, *Diagnostic Equipment used by Patients in Standing Position* were considered and are noted in this report.
 
 **4\. Perspectives of Equipment Types**\
 **4.3 Diagnostic Imaging Equipment**
@@ -4159,13 +4159,13 @@ A diagnostic imaging device's the transfer surface (table) is both imaged throug
 
 The following is a rough grouping of diagnostic imaging devices that was used to help evaluate the criteria:
 
-**Equipment with bores:** CT, PET, PET/CT, NM, NM/CT - Here the table plays an integral part in achieving the sub-mm dynamic positioning accuracy needed during the scan.\
-**MR** - This shares same aspects as equipment with bores, but has special considerations due to the very strong magnetic field.\
-**DXA** - This equipment necessitates positioning the x-ray source under the patient in a fixed, known geometry for diagnostic effectiveness and radiation dose concerns.\
-**Conventional XR and Fluoroscopy** - This equipment has rectangular, radio-translucent tables that may translate in both directions in the horizontal plane.\
-**Mobile XR** - These systems can be moved to the patient and can utilize detachable detectors that often can be placed behind the patient anatomy to be imaged without significant patient movement.\
-**Interventional XR** - This type of equipment, such as that used in cath labs and C-arms, has virtually all patients under some form of sedation prior to transfer, and is used in an invasive "interventional-like" procedure after initial diagnostic findings.\
-**Prone breast biopsy tables** - This unique design needs to accommodate room for the physician underneath the patient, patients may have some form of sedation, and is used in an invasive "interventional-like" procedure after initial diagnostic findings.
+**Equipment with bores:** CT, PET, PET/CT, NM, NM/CT - Here the table plays an integral part in achieving the sub-mm dynamic positioning accuracy needed during the scan.\
+**MR** - This shares same aspects as equipment with bores, but has special considerations due to the very strong magnetic field.\
+**DXA** - This equipment necessitates positioning the x-ray source under the patient in a fixed, known geometry for diagnostic effectiveness and radiation dose concerns.\
+**Conventional XR and Fluoroscopy** - This equipment has rectangular, radio-translucent tables that may translate in both directions in the horizontal plane.\
+**Mobile XR** - These systems can be moved to the patient and can utilize detachable detectors that often can be placed behind the patient anatomy to be imaged without significant patient movement.\
+**Interventional XR** - This type of equipment, such as that used in cath labs and C-arms, has virtually all patients under some form of sedation prior to transfer, and is used in an invasive "interventional-like" procedure after initial diagnostic findings.\
+**Prone breast biopsy tables** - This unique design needs to accommodate room for the physician underneath the patient, patients may have some form of sedation, and is used in an invasive "interventional-like" procedure after initial diagnostic findings.
 
 Diagnostic imaging tables mostly fall into two main groupings. One group is those tables used with "equipment with bores", such as CT, MR, and NM systems. These tables tend to be long and relatively narrow in order to move the patient into and fit through the bore. They are typically rated for patients in excess of 400 lbs. They are capable of adjusting with the high precision (sub millimeter) accuracy needed for accurate diagnostic information both vertically for both patient loading and unloading procedures, and horizontally in one direction (into the bore).
 
@@ -4197,9 +4197,9 @@ Section 201(h) of the Federal Food Drug & Cosmetic Act includes accessories with
 Section 5 of this report contains some figures of conceptual ideas for accessibility accessories.\
 Patient Positions during Diagnostic Imaging
 
-The vast majority of diagnostic imaging exams are conducted while the patient is lying on the table; hence the focus of the subcommittee was for the proposed standards in Section M301. However, given the enormous diversity of imaging equipment needed to achieve the broad range of diagnostic objectives Sections M302, *Diagnostic Equipment used by Patients in Seated Position*; M303, *Diagnostic Equipment used by Patients Seated in a Wheelchair*; and M304, *Diagnostic Equipment used by Patients in Standing Position* were considered and are noted in this report.
+The vast majority of diagnostic imaging exams are conducted while the patient is lying on the table; hence the focus of the subcommittee was for the proposed standards in Section M301. However, given the enormous diversity of imaging equipment needed to achieve the broad range of diagnostic objectives Sections M302, *Diagnostic Equipment used by Patients in Seated Position*; M303, *Diagnostic Equipment used by Patients Seated in a Wheelchair*; and M304, *Diagnostic Equipment used by Patients in Standing Position* were considered and are noted in this report.
 
-There are some Nuclear Medicine systems that have a unique design for convenience where the system's table can pivot out of the way to allow a scan while a patient seated (in a chair or wheelchair). However, given the clinical input from the radiologist that presented to the advisory committee, an equivalent diagnostic exam, in all cases may be obtained while a patient is on the table. **As such both the subcommittee and the full advisory committee agreed that for these types of Nuclear Medicine systems, only the M301 criteria should be applied.**
+There are some Nuclear Medicine systems that have a unique design for convenience where the system's table can pivot out of the way to allow a scan while a patient seated (in a chair or wheelchair). However, given the clinical input from the radiologist that presented to the advisory committee, an equivalent diagnostic exam, in all cases may be obtained while a patient is on the table. **As such both the subcommittee and the full advisory committee agreed that for these types of Nuclear Medicine systems, only the M301 criteria should be applied.**
 
 Some specialized MR and possibly other modality devices designed and used for extremity scans may not be provided with a table. In such cases the patient chair should comply with the conclusions of the tables and chairs subcommittee to the extent practical while still meeting the diagnostic needs.
 
@@ -4217,7 +4217,7 @@ As discussed in Section 4.3, the requirements for diagnostic imaging equipment d
 
 **The imaging subcommittee decided to not specifically come up with a recommendation for transfer height, rather leaving that to the full committee's determination and then have it applied to diagnostic imaging equipment.**
 
-**Rationale:** For many types of imaging equipment it will not be feasible to provide a transfer surface meeting the considered minimum height whether it is 17, 18, or 19 inches. The same is true for height adjustability for DXA and some X-Ray systems. In those instances an alternate means of access will need to be provided such as the use of auxiliary/ancillary equipment and accessories ("Accessibility Package").
+**Rationale:** For many types of imaging equipment it will not be feasible to provide a transfer surface meeting the considered minimum height whether it is 17, 18, or 19 inches. The same is true for height adjustability for DXA and some X-Ray systems. In those instances an alternate means of access will need to be provided such as the use of auxiliary/ancillary equipment and accessories ("Accessibility Package").
 
 Some CT tables can currently meet an 18 or 19 inch height and with redesign, more tables for use with equipment with bores would be able to. Most tables for use with equipment for bores are height adjustable. The limitations with these types of tables are that they are typically designed to accommodate >400 lb patients while performing sub-millimeter diagnostic positioning. These tables need to typically be designed with an 8x safety factor and hence have sizable support mechanisms, some of which are designed such that as the table is lowered, mechanical advantage is lost. Every inch is significant from a design perspective.
 
@@ -4272,13 +4272,13 @@ Figure 5.3-6: Flush mounted scissors lift concept (not to scale). The left side 
 Figure 5.3-7: Elevated platform or possibly "full" floor concept (not to scale). This drawing illustrates the idea of raising the floor instead of lowering the table. This could possibly be accomplished either by a raised platform on the transfer side as shown in the drawing or by building up the floor in the entire room. If an installation is new, it may also be possible to lower the mounting surface of the equipment. An elevated platform would need to appropriately sized and ramped and include edge protection.\
 **M301.2.2 Transfer Surface Size**
 
-**Subcommittee Recommendation:** (Also agreed to by the full committee).
+**Subcommittee Recommendation:** (Also agreed to by the full committee).
 
 **A. The minimum size of the transfer surface is 28 inches wide minimum and 21 inches deep minimum and is located such that the long dimension of 28 inches is be located parallel to the patient scanning/imaging table side at a location designated by the equipment manufacturer.**
 
 **B. When the transfer surface is located as described above in "A", the width of the patient scanning/imaging table (side to side) at the designated transfer location should be 28 inches minimum or the maximum possible/practicable, but in all cases a minimum of 21 inches. Note: Alternate means of temporarily widening the table at the designated transfer location during transfer may be feasible.**
 
-**Rationale:** Diagnostic imaging equipment is accessed by all individuals from one of the long sides of the table. Dependent on room layout and other ancillary equipment, both long sides of equipment with a bore tables may be available for transfer. However, many X-Ray system tables and all DXA tables will have part of the imaging equipment support located on one of the long sides and only all transfers are made from the other.
+**Rationale:** Diagnostic imaging equipment is accessed by all individuals from one of the long sides of the table. Dependent on room layout and other ancillary equipment, both long sides of equipment with a bore tables may be available for transfer. However, many X-Ray system tables and all DXA tables will have part of the imaging equipment support located on one of the long sides and only all transfers are made from the other.
 
 Because diagnostic imaging equipment uses tables for imaging and the tables are always accessed from their long sides, all current equipment meets the 28 inch minimum width and also meets the 21 inch minimum depth for item "A".
 
@@ -4297,34 +4297,34 @@ Below is a schematic to help illustrate the proposed requirements.
 Figure 5.3-8: Schematic of Transfer Surface Size for Diagnostic Imaging Equipment\
 **M301.2.3 Transfer Surface Transfer Sides**
 
-**Subcommittee Recommendation: **(Also agreed to by the full committee.)
+**Subcommittee Recommendation: **(Also agreed to by the full committee.)
 
 **The option to transfer will be required only on one long side of the patient scanning/imaging table and not at the "foot" or "head" end of such surfaces.**
 
 Note: most installations can accommodate transfer from either long side for equipment with bores (siting and site dependent). However X-ray systems are likely to, and DXA systems will have equipment obstructions on one long side. Therefore, where feasible within the medical equipment design, the ability to have transfer access from two sides (either two long sides or a long and short side) is desired.
 
-**Rationale:** Diagnostic imaging equipment is accessed by all individuals from one of the long sides of the table. Dependent on room layout and other ancillary equipment, both long sides of equipment with a bore tables may be available for transfer. However, many X-Ray system tables and all DXA tables will have part of the imaging equipment support located on one of the long sides and only all transfers are made from the other.
+**Rationale:** Diagnostic imaging equipment is accessed by all individuals from one of the long sides of the table. Dependent on room layout and other ancillary equipment, both long sides of equipment with a bore tables may be available for transfer. However, many X-Ray system tables and all DXA tables will have part of the imaging equipment support located on one of the long sides and only all transfers are made from the other.
 
 The head and foot ends of the table are likely to have obstructions such as extraction handles, the gantry, or patient positioning devices. Imaging tables are usually not intended to be access from the head or foot end because the patient would need to "scoot" a long distance to get into the proper position for their exam.\
 **M301.3.1 Transfer Supports**
 
-**Subcommittee Recommendation:** (Also agreed to by the full committee.)
+**Subcommittee Recommendation:** (Also agreed to by the full committee.)
 
-**A) For transfer depths less than or equal to 24 inches a transfer support will be located opposite the transfer side.**\
+**A) For transfer depths less than or equal to 24 inches a transfer support will be located opposite the transfer side.**\
 Note: if transfer is possible from either of the long sides of the table, then a transfer support should be able to be located (or relocated) to the side opposite where the actual transfer is occurring.)
 
-**A.1) A transfer support will extend horizontally along the side of the patient scanning/imaging table at least the minimum width of the transfer surface, but in all cases a 28 inches minimum. It will be located at the designated transfer location.**\
+**A.1) A transfer support will extend horizontally along the side of the patient scanning/imaging table at least the minimum width of the transfer surface, but in all cases a 28 inches minimum. It will be located at the designated transfer location.**\
 Note: The transfer support will likely need to be separate from the patient imaging table and this is acceptable if such a support meets all relevant technical criteria and is designed to address entrapment hazards. Also note that some equipment has bi-directional table movement which may complicate or in some cases possibly prevent location of a support.
 
-**B) For transfer depths greater than 24 inches a positioning support will be located opposite the transfer side.**\
+**B) For transfer depths greater than 24 inches a positioning support will be located opposite the transfer side.**\
 Note 1: As with other patient positioning aids, a positioning support's load bearing design may be different than that of a transfer support. These requirements are already addressed by international standards that medical device manufacturers need to follow (e.g. risk management (ISO 14971); IEC60601-1; and use of IEC60601-2-52 as a possible reference.\
 Note 2: if transfer is possible from either of the long sides of the table, then a positioning support should be able to be located (or relocated) to the side opposite where the actual transfer is occurring.
 
-**B.1) A positioning support will extend horizontally along the side of the patient scanning/imaging bed/table and be 12 - 16 inches in length and 3 - 6 inches above the transfer surface. It will be located at a position designated by the manufacturer for optimal positioning assistance.**\
+**B.1) A positioning support will extend horizontally along the side of the patient scanning/imaging bed/table and be 12 - 16 inches in length and 3 - 6 inches above the transfer surface. It will be located at a position designated by the manufacturer for optimal positioning assistance.**\
 Note: The positioning support may need to be separate from the patient imaging table and this is acceptable if such a support meets all relevant technical criteria and is designed to address entrapment hazards. Also note that some equipment has bi-directional table movement which may complicate or in some cases possibly prevent location of a support.
 
 **C) The maximum distance from the transfer surface to either the transfer support or the positioning support is 1.5 inches. However, an exception of up to 3 inches is acceptable for foldable, collapsible, removable, and articulating supports.**\
-**Rationale:** The subcommittee created this two part standard because the transfer surface in diagnostic imaging equipment is different than that of exam tables or chairs. With an exam table or chair there is additional table or chair "beyond" the transfer depth. However, with some imaging equipment, due to the transfer from the long side of the table, there may not be any more table beyond the transfer depth. Hence for the cases of narrow (≤ 24") tables a larger and more substantial transfer support is called for. This transfer support is intended to be used to facilitate transfers and as a prevention for a patient from falling over the table's opposite side. It there must be designed for this use case. 24 inches was chosen based on input of a person's maximum reach.
+**Rationale:** The subcommittee created this two part standard because the transfer surface in diagnostic imaging equipment is different than that of exam tables or chairs. With an exam table or chair there is additional table or chair "beyond" the transfer depth. However, with some imaging equipment, due to the transfer from the long side of the table, there may not be any more table beyond the transfer depth. Hence for the cases of narrow (≤ 24") tables a larger and more substantial transfer support is called for. This transfer support is intended to be used to facilitate transfers and as a prevention for a patient from falling over the table's opposite side. It there must be designed for this use case. 24 inches was chosen based on input of a person's maximum reach.
 
 For wider tables (>24"), a transfer support would not be usable because of its distance from the patient using a mobility device. However, the subcommittee saw the need to still have some form of support bar on the opposite side of the table to be used as a positioning aid once the transfer is completed. Because the patient would now be primarily supported by the table, this positioning aid would need to be designed for the loadings of positioning-only use case. The location of this positioning aid will be determined by the manufacture because they have the best knowledge of the particular equipment's clinical use cases and positioning needs.
 
@@ -4357,12 +4357,12 @@ Figure 5.3-11: Illustration of a concept (not to scale) for a wheeled support (w
 Figure 5.3-12: Illustration of the concept (not to scale) of accessories deployed as part of an accessibility package. The top illustration is shows a floor mounted support combined with scissor lift of Figure 5.3-6. The lower illustration shows the floor mounted support combined with the elevated platform of Figure 5.3-7.\
 **M301.4 Lift Compatability**
 
-**Subcommittee Recommendation:** (Also agreed to by the full committee.)
+**Subcommittee Recommendation:** (Also agreed to by the full committee.)
 
 **An overhead lift (and possibly a gurney-based transfer) may be used in lieu of the provisions for clearances in or around the base of equipment to accommodate the legs of portable floor lifts.**\
 Note: in some circumstances such as in-room MR, the option for a room layout for gurney transfer would be appropriate.
 
-**Rationale:** The subcommittee recommended the alternate means of using an overhead lift instead of providing clearances for portable lifts because: 1) a ceiling mounted lift can have advantages for better patient transfer and positioning over a portable lift because the portable lift would need to access the diagnostic imaging table from its side or its far foot-end; and 2) table structural design and/or room layout may be such that providing the clearances in and around the base per M301.4.1 and M301.4.2 may be either technically difficult or impractical. Overhead lifts are already currently installed as accessories for some imaging systems.
+**Rationale:** The subcommittee recommended the alternate means of using an overhead lift instead of providing clearances for portable lifts because: 1) a ceiling mounted lift can have advantages for better patient transfer and positioning over a portable lift because the portable lift would need to access the diagnostic imaging table from its side or its far foot-end; and 2) table structural design and/or room layout may be such that providing the clearances in and around the base per M301.4.1 and M301.4.2 may be either technically difficult or impractical. Overhead lifts are already currently installed as accessories for some imaging systems.
 
 Overhead lifts are not possible to be used in the MR exam room due to the magnetic fields. Because of this, or for other cases where an overhead lift would be impossible, a gurney-based transfer was considered acceptable provided the gurney met the new standards, even though a double transfer is not ideal.
 
@@ -4384,18 +4384,18 @@ As noted in Section 5.3, the imaging subcommittee did not take a formal position
 
 * * * * *
 
-**U.S. Access Board Medical Diagnostic Equipment **
+**U.S. Access Board Medical Diagnostic Equipment **
 
 **Mammography Subcommittee Report:**\
 **Final Recommendations on Equipment Criteria**
 
-**Background:** The most frequent type of cancer among women and the second leading cause of cancer-related deaths is breast cancer. A recent study published in the Journal of Women's Health, highlighted that women with disabilities may be less likely to receive a mammogram compared to women without a disability. Prevalence of self-reported mammography use is lower for women with disabilities (72.2% for women 40 years of age or older and 78.1% for women 50 to 74 years of age) than women without a disability (77.8% and 82.6%, respectively), refer to <http://www.cdc.gov/features/breastcancerdisabilities/index.html>[.](http://www.cdc.gov/features/breastcancerdisabilities/index.html.)
+**Background:** The most frequent type of cancer among women and the second leading cause of cancer-related deaths is breast cancer. A recent study published in the Journal of Women's Health, highlighted that women with disabilities may be less likely to receive a mammogram compared to women without a disability. Prevalence of self-reported mammography use is lower for women with disabilities (72.2% for women 40 years of age or older and 78.1% for women 50 to 74 years of age) than women without a disability (77.8% and 82.6%, respectively), refer to <http://www.cdc.gov/features/breastcancerdisabilities/index.html>[.](http://www.cdc.gov/features/breastcancerdisabilities/index.html.)
 
 Healthcare practitioners find breast-imaging challenging when patients must remain seated in mobility devices such as wheelchairs or scooters for the procedure. In order to obtain a quality image with the needed visualization of the breast tissue, a patient's ability to approach and position next to the machine is vital. The key equipment barriers arise from the inherent conflict between the mobility device design and the mammography equipment design. The mammography device operation seems designed to require the patient has the ability to stand. Therefore, a woman using a wheelchair will experience two main barriers, the first is that her mobility device cannot get close enough to the mammography machine itself, and secondly, even if she does get close enough to the machine, the breast platform height does not lower enough to image a woman's breasts while in the seated position.
 
 The Mammography Subcommittee members provided varied expertise. Members included representation from disability advocates, healthcare organizations including technologists, industry designers, and engineers. Industry input provided supporting illustrations, which enhanced the discussion.
 
-**Overview:** The subcommittee recognized that to get the best accessibility, equipment would need redesign to accommodate persons seated in wheeled mobility devices for the exam. In developing its proposals, the subcommittee considered the physical constraints needed for operation of the equipment, technical feasibility, patient safety, and clinical standards. The subcommittee weighed all the provisions for technical criteria in light of the equipment functionality and the need to image a range of body sizes, functionality, and types.
+**Overview:** The subcommittee recognized that to get the best accessibility, equipment would need redesign to accommodate persons seated in wheeled mobility devices for the exam. In developing its proposals, the subcommittee considered the physical constraints needed for operation of the equipment, technical feasibility, patient safety, and clinical standards. The subcommittee weighed all the provisions for technical criteria in light of the equipment functionality and the need to image a range of body sizes, functionality, and types.
 
 The subcommittee considered the interaction of mammography devices with individuals using scooter. Due to the need for the woman's chest wall to be flush with the breast platform, the front scooter components make this position impossible without the person swiveling to the side. Thus, the final recommendations focused on the mammography device's interaction with wheelchairs. Mammography equipment recommendations are also operable with use of a mammography chair for patients who need to sit for the procedure but do not use a wheelchair.
 
@@ -4417,9 +4417,9 @@ In order to get a quality image, the patient's breast needs to rest on top of th
 
 **Breast Platform [M303.4.1]**
 
-**Recommendation:** The final recommendation for the minimum height of the breast platform is 26 inches from the floor to the top of the breast platform. The upper height range for the breast platform was not controversial and remained as proposed except for the designation of this as a minimum upper height. The final version of the criteria must clarify that there is no need to limit the height of the breast platform since most are already above the 42-inch measurement at the top end.
+**Recommendation:** The final recommendation for the minimum height of the breast platform is 26 inches from the floor to the top of the breast platform. The upper height range for the breast platform was not controversial and remained as proposed except for the designation of this as a minimum upper height. The final version of the criteria must clarify that there is no need to limit the height of the breast platform since most are already above the 42-inch measurement at the top end.
 
-**Rationale:** The subcommittee expressed conflicting perspectives on the minimum breast platform height with members either choosing to support the 26-inch or 28-inch minimum. While all other subcommittee decisions were by group consensus, the group required a formal vote on this issue. Although the subcommittee vote was for 28 inches, during the final public meeting, the full committee supported the 26-inch minimum by a strong majority.
+**Rationale:** The subcommittee expressed conflicting perspectives on the minimum breast platform height with members either choosing to support the 26-inch or 28-inch minimum. While all other subcommittee decisions were by group consensus, the group required a formal vote on this issue. Although the subcommittee vote was for 28 inches, during the final public meeting, the full committee supported the 26-inch minimum by a strong majority.
 
 According to industry, equipment currently manufactured ranges anywhere between 25 and 28 inches for the lowest measurement of the breast platform. There were various reasons cited for each of the positions. Recommendations from accessibility experts who developed mammography protocols for women with disabilities identified a need for a breast platform height of 24 inches. Because this recommendation evolved from technologist experience on equipment with less knee space, disability advocates supported the rationale for 26 inches as the minimum. One member cited the diversity of body types and sizes for persons with disabilities as the rationale for the 26 inches. Another member emphasized the importance of considering patients of short stature in addition to considering patients seated in a wheelchair.
 
@@ -4433,13 +4433,13 @@ One member expressed support for the lower height in order to facilitate the Mag
 
 **Knee & Toe Space [M303.2.4]**
 
-**Recommendation:** The final subcommittee's recommendations increased the overall knee and toe space to a minimum of 28 inches, from the initially proposed 25-inch absolute dimension. The final recommendation for knee clearance directly underneath the breast platform is a minimum of 18 inches and the final recommendation for the unobstructed floor space in front of the base support is a minimum of 17 inches. Each of these measurements creates a more accessible piece of imaging equipment balanced with the physical attributes and operation of the equipment.
+**Recommendation:** The final subcommittee's recommendations increased the overall knee and toe space to a minimum of 28 inches, from the initially proposed 25-inch absolute dimension. The final recommendation for knee clearance directly underneath the breast platform is a minimum of 18 inches and the final recommendation for the unobstructed floor space in front of the base support is a minimum of 17 inches. Each of these measurements creates a more accessible piece of imaging equipment balanced with the physical attributes and operation of the equipment.
 
 ***Rationale***
 
 *The issue of Clearance and Unobstructed Floor Space*
 
-The knee and toe clearance dimensions, as well as the unobstructed floor space dimensions, dictate how close a patient in a wheelchair can get to the mammography equipment. The initial NPRM dimensions used information for the clear space under a desk or table as the basis for the proposed regulation. Industry suggested the dimension might be different because mammography procedures require a person's chest to be flush with the front of the breast platform. The subcommittee reviewed the existing data of wheelchair users[1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#one) and industry input on how these elements technically affect one another. Below is an overview of the rationale for each of the final recommended dimensions affecting clearances in front of the gantry. (Table 1)
+The knee and toe clearance dimensions, as well as the unobstructed floor space dimensions, dictate how close a patient in a wheelchair can get to the mammography equipment. The initial NPRM dimensions used information for the clear space under a desk or table as the basis for the proposed regulation. Industry suggested the dimension might be different because mammography procedures require a person's chest to be flush with the front of the breast platform. The subcommittee reviewed the existing data of wheelchair users[1](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#one) and industry input on how these elements technically affect one another. Below is an overview of the rationale for each of the final recommended dimensions affecting clearances in front of the gantry. (Table 1)
 
 **Table 1. Critical Equipment Dimensions with the relevant Anthropomorphic Data**
 
@@ -4458,18 +4458,18 @@ While discussing these issues, the subcommittee also considered positioning meth
 
 **Table 2. Abdomen Depth Data to determine overall knee and toe clearance**
 
-|  | ** Percentile Value** |  |
-| **User Group** | ** Median -- 50th** | ** 75th** | ** 90th** | ** 95th** | **Max ** |
-| Female Manual Wheelchair Users (n=130) |  23.2 | 26.4 | 29.2 | 30.6 |  33.0 |
-| Female Power Wheelchair Users (n=89) |  21.6 | 24.8  |  28.1 |  30.4 |  36.7 |
+|  | ** Percentile Value** |  |
+| **User Group** | ** Median -- 50th** | ** 75th** | ** 90th** | ** 95th** | **Max ** |
+| Female Manual Wheelchair Users (n=130) |  23.2 | 26.4 | 29.2 | 30.6 |  33.0 |
+| Female Power Wheelchair Users (n=89) |  21.6 | 24.8  |  28.1 |  30.4 |  36.7 |
 
 **Table 3. Abdomen-Caster Edge Depth**
 
-|  | ** Percentile Value** |  |
-| ** User Group** | ** Min** | ** 5th** | ** 10th** | ** 50th** | ** 90th** | ** 95th** | ** Max** |
-|  Manual Wheelchair Users (n=101) |  2.0 | 5.6 | 6.8 | 11.4  | 17.1  | 18.5  | 20.3 |
-|  Power Wheelchair Users (n=67) |  4.1 | 6.0  | 7.8  | 10.9  | 17.6  | 19.3  | 21.9  |\
-In applying the various positioning considerations along with the data, measurements of 28 inches (full knee and toe clearance above the base support) and 17 inches (clearance underneath the breast platform) would capture nearly everyone. Looking purely at the anthropomorphic data above, these dimensions accommodate ~90% of the population. In adjusting for the needed upright pose, an adjustment of at least 2.5 inches is likely. If so, the equipment accommodates 95% of the population since the difference is ~2.5 inches less than the 95th percentile of the corresponding anthropomorphic dimensions. Members recognized that these dimensions are an optimal blend of accessibility and technical feasibility[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#two) when balanced with the physical design and operation of the equipment,
+|  | ** Percentile Value** |  |
+| ** User Group** | ** Min** | ** 5th** | ** 10th** | ** 50th** | ** 90th** | ** 95th** | ** Max** |
+|  Manual Wheelchair Users (n=101) |  2.0 | 5.6 | 6.8 | 11.4  | 17.1  | 18.5  | 20.3 |
+|  Power Wheelchair Users (n=67) |  4.1 | 6.0  | 7.8  | 10.9  | 17.6  | 19.3  | 21.9  |\
+In applying the various positioning considerations along with the data, measurements of 28 inches (full knee and toe clearance above the base support) and 17 inches (clearance underneath the breast platform) would capture nearly everyone. Looking purely at the anthropomorphic data above, these dimensions accommodate ~90% of the population. In adjusting for the needed upright pose, an adjustment of at least 2.5 inches is likely. If so, the equipment accommodates 95% of the population since the difference is ~2.5 inches less than the 95th percentile of the corresponding anthropomorphic dimensions. Members recognized that these dimensions are an optimal blend of accessibility and technical feasibility[2](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#two) when balanced with the physical design and operation of the equipment,
 
 ![Side view diagram of mammography equipment showing dimensions that define the knee and toe space under the breast platform.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-25.jpg)
 
@@ -4510,7 +4510,7 @@ The diagram below illustrates the final knee and toe clearance recommendations (
 **Figure 8. Summary of knee and toe clearance recommendations.**
 
 **Base Support [No specific provision - affects M303.2.4]**\
-**Recommendation:** The final proposal on the base support is for 1½ inch high maximum base support with additional sloping permitted at 25 inches or beyond[4](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#four) to the gantry if needed for additional structural support.
+**Recommendation:** The final proposal on the base support is for 1½ inch high maximum base support with additional sloping permitted at 25 inches or beyond[4](https://www.access-board.gov/guidelines-and-standards/health-care/about-this-rulemaking/advisory-committee-final-report/appendix-b-supporting-documents#four) to the gantry if needed for additional structural support.
 
 **Rationale**
 
@@ -4518,15 +4518,15 @@ The base support is of fundamental importance to mammography equipment and provi
 
 **Table 4. Anthropomorphic data on measured footrest heights**
 
-| ** Device Type** | ** Min** | **5% ** | **10% ** | **50%** | **90%** | **95%** | **Max** |
-| ** Manual (n=101)** |  1.2 | 1.7  | 2.2  | 4.1 | 7.2 | 10.0 | 36.2 |
-| ** Power (n=67)** |  1.8 | 2.7  | 3.1  | 4.8 | 8.8 | 10.5 | 16.9 |
+| ** Device Type** | ** Min** | **5% ** | **10% ** | **50%** | **90%** | **95%** | **Max** |
+| ** Manual (n=101)** |  1.2 | 1.7  | 2.2  | 4.1 | 7.2 | 10.0 | 36.2 |
+| ** Power (n=67)** |  1.8 | 2.7  | 3.1  | 4.8 | 8.8 | 10.5 | 16.9 |
 
 **Table 5. Actual footrest height clearances**
 
-| ** Device Type** | ** Min** | **5% ** | **10% ** | **50%** | **90%** | **95%** | **Max** |
-| ** Manual (n=101)** |  0.7 | 1.2  | 1.7  | 3.6  | 6.7  | 9.5  | 35.7  |
-| ** Power (n=67)** |  1.3 | 2.2  | 2.6  | 4.3  | 8.3  | 10  | 16.4  |\
+| ** Device Type** | ** Min** | **5% ** | **10% ** | **50%** | **90%** | **95%** | **Max** |
+| ** Manual (n=101)** |  0.7 | 1.2  | 1.7  | 3.6  | 6.7  | 9.5  | 35.7  |
+| ** Power (n=67)** |  1.3 | 2.2  | 2.6  | 4.3  | 8.3  | 10  | 16.4  |\
 A maximum base support height of 1.5 inches will provide room for the structural components necessary for an effective base support design and will also be accessible by ~92% of manual chair users and over 95% of power chair users.
 
 The subcommittee also discussed adding an allowance for a sloped region at the base of the gantry. Many of the mammography machines today also have important informational displays at the base of the gantry, on top of the base support (shown as the checkered region in Figure 9 below) that display information such as compression force and compression thickness.
@@ -4539,7 +4539,7 @@ The subcommittee agreed on adding an allowance for a sloped region as defined by
 
 ![Side view of mammography equipment showing display area located under breast platform on top of the base support.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-28.jpg)**Figure 9. Location of the display area at the base of many mammography machines.**
 
- ![Illustration of final committee recommendation on proposed base support configuration.  Diagram shows a sloped region between 1 1/2 inches and 4 inches above the ground.  The base support height is shown as 1 1/2 maximum at a depth of 25 inches and 4 inches at a depth of 28 inches minimum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-24.jpg)
+ ![Illustration of final committee recommendation on proposed base support configuration.  Diagram shows a sloped region between 1 1/2 inches and 4 inches above the ground.  The base support height is shown as 1 1/2 maximum at a depth of 25 inches and 4 inches at a depth of 28 inches minimum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-24.jpg)
 
 **Figure 10. Summary of base support recommendations.**
 
@@ -4551,14 +4551,14 @@ Steinfeld and D'Souza supplied this chart plotting their study's findings on the
 
 The green dots in the above scatter plot illustration represent observed values for footrest height, (on the vertical axis) and footrest depth (on the horizontal axis) measured for manual wheelchair users to the abdomen point. The footrest clearances (calculated in Table 5 above) are ~0.5" lower than the footrest heights defined here. The footrest depth is the horizontal distance from the abdomen to the distal (forward-most) edge of the footrest. The subcommittee used the data for manual chairs because manual chairs are lower than the power chairs.
 
-**Summary Figure:** Figure 12 shows the final recommended component dimensions in one diagram.
+**Summary Figure:** Figure 12 shows the final recommended component dimensions in one diagram.
 
 ![Diagram charting a summary of the knee and toe clearance recommended by the Committee.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-25.jpg)\
 **Figure 12. Summary of final clearance recommendations, to be measured when the top of the breast platform is at 34".**
 
 **Standing Supports [M305.2]**
 
-**Recommendation:** The final recommendation of the subcommittee is to remove the requirement for standing supports in reference to mammography equipment. Instead, positioning supports should be required. To be useful, positioning supports must shaped for grasping, positioned within the reach range of all users, and be 12 inches long minimum when located on the moving c-arm or 18 inches long minimum when in a fixed location.
+**Recommendation:** The final recommendation of the subcommittee is to remove the requirement for standing supports in reference to mammography equipment. Instead, positioning supports should be required. To be useful, positioning supports must shaped for grasping, positioned within the reach range of all users, and be 12 inches long minimum when located on the moving c-arm or 18 inches long minimum when in a fixed location.
 
 **Rationale**
 
@@ -4568,7 +4568,7 @@ Furthermore, since many types of mammography equipment mount the supports on the
 
 **Mammography Chair [M302]**
 
-**Recommendation:** The mammography chair is an essential piece of equipment allowing persons who are unable to stand or balance to sit for the diagnostic procedure. The chair must meet the elements of M302 with the additional requirement that any footrests must accommodate and ride over the base support.\
+**Recommendation:** The mammography chair is an essential piece of equipment allowing persons who are unable to stand or balance to sit for the diagnostic procedure. The chair must meet the elements of M302 with the additional requirement that any footrests must accommodate and ride over the base support.\
 **References:**
 
 The following sources were referenced for the anthropomorphic data presented here. Specific citations are made in the full committee report.
@@ -4581,19 +4581,19 @@ D'Souza, et al. "Clearance Space Envelopes of Wheeled Mobility Device Users for 
 
 D'Souza, Steinfeld. "Revised Knee Clearance Depth and Footrest Clearance dimensions for sizing of mammography equipment." Memorandum. April 23, 2013.
 
-**Notes:** 
+**Notes:** 
 
-1\. Where possible, the subcommittee focused only on the anthropomorphic data of women, the primary group needing mammography.
+1\. Where possible, the subcommittee focused only on the anthropomorphic data of women, the primary group needing mammography.
 
-2\. The concept of technical feasibility is one found in other areas of access.  It recognizes that there may be physical factors that make create limits to what functions can be achieved even with redesign.  In mammography, the physical stability and operation of the equipment fall into this category.  The committee recognizes that future visionaries may be able to "re-vision" new devices.
+2\. The concept of technical feasibility is one found in other areas of access.  It recognizes that there may be physical factors that make create limits to what functions can be achieved even with redesign.  In mammography, the physical stability and operation of the equipment fall into this category.  The committee recognizes that future visionaries may be able to "re-vision" new devices.
 
-3\. Given the differing shapes of mammography devices, defining the dimensions in relationship to each other with a static measurement point for the breast platform assures accessibility despite the varied shapes and dimensions of the breast platform. Otherwise,, it is quite possible to configure a piece of equipment that meets all the clearances yet does not provide accessibility if there is not a defined method of measuring the clearances in relationship to the breast platform.
+3\. Given the differing shapes of mammography devices, defining the dimensions in relationship to each other with a static measurement point for the breast platform assures accessibility despite the varied shapes and dimensions of the breast platform. Otherwise,, it is quite possible to configure a piece of equipment that meets all the clearances yet does not provide accessibility if there is not a defined method of measuring the clearances in relationship to the breast platform.
 
-4\. Measured from the point on the floor where a perpendicular line intersects the front edge of breast platform shown in Figure 10.
+4\. Measured from the point on the floor where a perpendicular line intersects the front edge of breast platform shown in Figure 10.
 
 * * * * *
 
- **Medical Diagnostic Equipment Accessibility Standards**
+ **Medical Diagnostic Equipment Accessibility Standards**
 
 **Sub Committee Recommendations**\
 **Stretcher Final Report**\
@@ -4606,15 +4606,15 @@ Stretchers are typical equipment used in healthcare settings for patients in sup
 
 **Chart from Proposed Accessibility Standards for Medical Diagnostics Equipment Appendix to part 1195**
 
-| **Patient Positions Equipment Designed to Support ** | **Equipment Features Addressed in Technical Criteria ** | **Types Of Equipment To Which Technical Criteria Applies** |
+| **Patient Positions Equipment Designed to Support ** | **Equipment Features Addressed in Technical Criteria ** | **Types Of Equipment To Which Technical Criteria Applies** |
 | Supine, prone, or side-lying position (M301) | Transfer surface, including height, size, and transfer sides\
 Transfer supports, stirrups, and head and back support\
 Lift compatibility | Stretchers |
 | Seated Position (M302) | Transfer surface, including height, size, and transfer sides\
 Transfer supports, stirrups, and head and back support\
-Lift compatibility  | Stretcher chairs |
+Lift compatibility  | Stretcher chairs |
 
-**Equipment Evaluated:** Stretchers\
+**Equipment Evaluated:** Stretchers\
 **Sub-Committee Summary of Scope for Recommendations**
 
 The Full Committee and Sub-Committee are both in agreement that Beds are excluded from these proposed standards as beds are used for therapeutic and not diagnostic procedures. Stretchers are used not only as transport devices but are heavily used in the healthcare setting to perform diagnosis.
@@ -4625,11 +4625,11 @@ The Full Committee and Sub-Committee are both in agreement that Beds are exclude
 
 The height of the transfer surface during patient transfer shall be 17 inches (430 mm) minimum and 19 inches (485 mm) maximum measured from the floor to the top of the transfer surface.
 
-- **Sub-Committee Recommendation:** 17 inches with exceptions.
+- **Sub-Committee Recommendation:** 17 inches with exceptions.
 
-**Exception:** During patient transfer, the height of the transfer surface shall have a lower height of 21" maximum and adjustable to a higher height of 25" minimum, measured from the floor to the uncompressed height of the patient support surface.
+**Exception:** During patient transfer, the height of the transfer surface shall have a lower height of 21" maximum and adjustable to a higher height of 25" minimum, measured from the floor to the uncompressed height of the patient support surface.
 
-**Rationale:** Early studies are showing that achieving a low height for stretchers in the 17"-19" range to be very difficult due to the various roles of stretchers being not only diagnostic pieces of equipment, but as that they are used for transport. The very nature of the mobility systems and components of the stretcher configuration, including wheels, brakes and steering systems as well as their ability to carry portable equipment such as IV's, infusion pumps, monitors, oxygen, foley catheter bags, etc. all of which create serious packaging constraints that limit the low height of the patient support surface.
+**Rationale:** Early studies are showing that achieving a low height for stretchers in the 17"-19" range to be very difficult due to the various roles of stretchers being not only diagnostic pieces of equipment, but as that they are used for transport. The very nature of the mobility systems and components of the stretcher configuration, including wheels, brakes and steering systems as well as their ability to carry portable equipment such as IV's, infusion pumps, monitors, oxygen, foley catheter bags, etc. all of which create serious packaging constraints that limit the low height of the patient support surface.
 
 Patients may utilize stretchers for long periods of time -- e.g. emergency room (primary equipment used) or while waiting to have their diagnostic tests performed. Stretchers are also widely used in outpatient surgery centers. Other considerations for stretchers are the surfaces (mattress) that is purchased separate from the stretcher deck. The Standard of Care for healthcare organizations is to have a pressure-relieving surface on the stretcher to help prevent pressure ulcers. These surfaces may range between 4" to 5" in thickness - this will add to the vertical height of a stretcher when measuring from the floor to the top of the surface (uncompressed). The Committee acknowledges this Standard of Care and feels it is important to maintain when measuring overall the height. Stretchers currently have a low deck of 20" -- 23".\
 This is also coupled with the complication of a 6" tall lift clearance window that forces foot operated controls up. These elements are all competing for the same vertical space and it will take full development of the stretcher to confirm or deny the ability to meet the desired range of 17"-19". Until that time, it is proposed we take a more conservative position and push the low height slightly higher for stretchers until the technology can catch up with the regulations and full feasibility studies can be researched. The recommendation for exception is 21" (with a oxygen holder). When access is unachievable, a portable floor or ceiling lift shall be utilized.
@@ -4652,29 +4652,29 @@ Note: Oxygen tanks require a minimum of 5" of vertical height in stretcher confi
 
 30" wide minimum and 15" deep minimum
 
-- **Sub-Committee Recommendation:**\
+- **Sub-Committee Recommendation:**\
 28" wide minimum and 17" deep minimum. This transfer surface is located on the longitudinal (long) side of the stretcher - either right or left side
 
-**Rationale:** Based upon full committee discussion and harmonization with Exam Table Subcommittee.\
+**Rationale:** Based upon full committee discussion and harmonization with Exam Table Subcommittee.\
 **M301.2.3 Transfer Sides**
 
 **Proposed requirement:**
 
 The transfer surface shall be located to provide options to transfer from a mobility device onto one short side (depth) and one long side (width) of the surface.
 
-- **Sub-Committee Recommendation:**\
+- **Sub-Committee Recommendation:**\
 The transfer surface shall be located to provide options to transfer from a mobility device onto both long sides (length), right and left, of the surface.
 
-**Rationale:** Revision is based upon the configuration and use of stretchers. The configuration of stretchers will not allow for unobstructed access to a transfer surface located at either the foot end or head. The location of the Transfer Side will be located on the patient right or patient left at roughly midway between the foot end and head end. This places the position at a desirable location along the length of the stretcher side so as when the transfer is completed, the patient is in the correct location relative to the articulation of the backrest. As a result, a patient can only access one long side of the transfer surface, the one short side will be inaccessible.
+**Rationale:** Revision is based upon the configuration and use of stretchers. The configuration of stretchers will not allow for unobstructed access to a transfer surface located at either the foot end or head. The location of the Transfer Side will be located on the patient right or patient left at roughly midway between the foot end and head end. This places the position at a desirable location along the length of the stretcher side so as when the transfer is completed, the patient is in the correct location relative to the articulation of the backrest. As a result, a patient can only access one long side of the transfer surface, the one short side will be inaccessible.
 
 **Proposed requirement:**
 
 Each transfer side shall provide unobstructed access to the transfer surface.
 
-- **Sub-Committee Recommendation:**\
+- **Sub-Committee Recommendation:**\
 Each transfer side shall minimize obstructions to the transfer surface. Obstructions shall not be vertically less than 1" (25 mm) nor be horizontally more than 3" (75 mm) from the edge of the patient support surface provide unobstructed access to the transfer surface.
 
-**Rationale:** The position of obstructions has been discussed by the full committee and the Exam Table subcommittee and has established an obstruction protruding no more than 3" beyond the edge of the transfer surface.
+**Rationale:** The position of obstructions has been discussed by the full committee and the Exam Table subcommittee and has established an obstruction protruding no more than 3" beyond the edge of the transfer surface.
 
 It is proposed herein that an additional requirement be added to restrict how high the obstruction can exist in comparison to the top of the transfer surface. Guidance from IEC 60601-2-52 does establish the maximum vertical obstruction of being not less than 1" below the top of the transfer surface.\
 **M301.3 Transfer Supports**
@@ -4683,34 +4683,34 @@ It is proposed herein that an additional requirement be added to restrict how hi
 
 Transfer supports shall be provided for use with the transfer sides required by M301.2.3 and shall comply with M305.2.
 
-- **Sub-Committee Recommendation:**\
+- **Sub-Committee Recommendation:**\
 No revision.
 
-*** Other Transfer Support Dimensions**:* (*not included in the Proposed Rule)*
+*** Other Transfer Support Dimensions**:* (*not included in the Proposed Rule)*
 
--** Sub-committee Recommendation:**\
-**Length** - At least 15 inches (300 mm) in length and located on the length of the transfer surface. Located on the opposite side of the access point.
+-** Sub-committee Recommendation:**\
+**Length** - At least 15 inches (300 mm) in length and located on the length of the transfer surface. Located on the opposite side of the access point.
 
-**Circular cross sections** -- Circular cross sections must have an outside diameter of 1¼ inches minimum and 2 inches maximum. Section may be discontinuous (see Rationale) along the length of the Gripping Surface not exceeding 20% of the length of the gripping surface.
+**Circular cross sections** -- Circular cross sections must have an outside diameter of 1¼ inches minimum and 2 inches maximum. Section may be discontinuous (see Rationale) along the length of the Gripping Surface not exceeding 20% of the length of the gripping surface.
 
-o** Rationale:** Discontinuous allows for the vertical support structure that is necessary for supporting the grip.
+o** Rationale:** Discontinuous allows for the vertical support structure that is necessary for supporting the grip.
 
-**Non-circular cross sections** - Non-circular cross sections must have a cross section dimension of 2 inches maximum and a perimeter dimension of 4 inches minimum and 4.8 inches maximum. Section may be discontinuous* along the length of the Gripping Surface not exceeding 20% of the length of the gripping surface.
+**Non-circular cross sections** - Non-circular cross sections must have a cross section dimension of 2 inches maximum and a perimeter dimension of 4 inches minimum and 4.8 inches maximum. Section may be discontinuous* along the length of the Gripping Surface not exceeding 20% of the length of the gripping surface.
 
 **Transfer Supports Position**
 
 **- Sub-Committee Recommendation:**\
 Located longitudinally within the long side of the of the transfer surface. Transfer support will be located on the opposite side of the transfer side.
 
-**Length:** Minimum of 15" of continuous support.
+**Length:** Minimum of 15" of continuous support.
 
-o **Rationale:** This is to accommodate the articulation that is necessary for the head and back support on stretchers.
+o **Rationale:** This is to accommodate the articulation that is necessary for the head and back support on stretchers.
 
-**Height:** Located no less than 6 inches (150 mm) and no more than 19 inches (482 mm) above the patient support surface
+**Height:** Located no less than 6 inches (150 mm) and no more than 19 inches (482 mm) above the patient support surface
 
-**Horizontal Distance from Transfer Surface:** No more than 3 inches (75 mm) from the edge of the patient support surface.
+**Horizontal Distance from Transfer Surface:** No more than 3 inches (75 mm) from the edge of the patient support surface.
 
-o **Rationale:** Currently, and it is envisioned that transfer supports will continue to be enabled through the side rail systems currently employed on stretchers. Based on the nature of side rail mechanisms to allow them to fold and store properly. Currently, the state of the art for side rail have them placed just under 3" outboard of the mattress surface edge (transfer surface edge). Therefore, it is requested that this horizontal dimension allow for current designs to fall under the proposed rule.
+o **Rationale:** Currently, and it is envisioned that transfer supports will continue to be enabled through the side rail systems currently employed on stretchers. Based on the nature of side rail mechanisms to allow them to fold and store properly. Currently, the state of the art for side rail have them placed just under 3" outboard of the mattress surface edge (transfer surface edge). Therefore, it is requested that this horizontal dimension allow for current designs to fall under the proposed rule.
 
 **Figure 3: Transfer Support Location -- Plan View**\
 (Drawings designef for Access Board by Stryker)
@@ -4720,24 +4720,24 @@ o **Rationale:** Currently, and it is envisioned that transfer supports will c
 **Figure 4: Transfer Support Location -- Side View**\
 (Drawings designef for Access Board by Stryker)
 
- ![Side view of a stretcher showing the 6 inches minimum and 19 inches maximum location of the transfer support and the length of 28 inches maximum and 15 inches minimum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-14.jpg)\
+ ![Side view of a stretcher showing the 6 inches minimum and 19 inches maximum location of the transfer support and the length of 28 inches maximum and 15 inches minimum.]({{ site.baseurl }}/images/advisory-committee-reports/mde/5-14.jpg)\
 **M301.3.2 Stirrups**
 
 **Proposed requirement:**
 
 Where stirrups are provided, they shall provide a method of supporting, positioning, and securing the patient's legs.
 
-- **Sub-committee recommendation:**\
+- **Sub-committee recommendation:**\
 Where stirrups are provided, a method shall be provided for supporting, positioning, and securing the patient's legs.
 
-**Rationale:** Stirrups (also called foot supports) alone may not provide a method of supporting, positioning, and securing the patients legs, but may be supplemented by or used in conjunction with a secondary accessory that provides this function. Typical accessory is a set of calf supports that support the patient legs just below the knee. Recommending a slight revision to this wording. When stirrups are provided "A" method shall be provided for supporting, positioning and securing the patient's legs. This wording change allows for alternate methods to be used for this repositioning, etc Full Sub-committee approval for this change.\
+**Rationale:** Stirrups (also called foot supports) alone may not provide a method of supporting, positioning, and securing the patients legs, but may be supplemented by or used in conjunction with a secondary accessory that provides this function. Typical accessory is a set of calf supports that support the patient legs just below the knee. Recommending a slight revision to this wording. When stirrups are provided "A" method shall be provided for supporting, positioning and securing the patient's legs. This wording change allows for alternate methods to be used for this repositioning, etc Full Sub-committee approval for this change.\
 **M301.3.3 Head and Back Support**
 
 **Proposed requirement:**
 
 Where diagnostic equipment used by patients in a supine, prone, or side-lying position, and diagnostic equipment used by patients in a seated position can be adjusted to reclined positions (M301.3.3 and M302.3.3) would require head and back support to be provided throughout the entire range of the incline. This is consistent with ANSI/AAMI HE 75 which recommends that the "support surface needs to be adjustable or have adjustable features (e.g., for the head, neck, back, lumbar region, leg, knees, and foot, as appropriate) to support patients in various postures and body positions in a manner that optimizes their comfort. See ANSI/AAMI HE 75, section 16.4.7 (h. Although not required by the proposed standards, examination tables that can be adjusted to a sitting position and then reclined to a horizontal position may be easier for patients with disabilities to transfer onto and off of than examination tables that are horizontal only.
 
-- **Sub-Committee Recommendation:**\
+- **Sub-Committee Recommendation:**\
 No revision.
 
 **M301.4 Lift Compatibility**
@@ -4748,11 +4748,11 @@ No revision.
 
 The base of the equipment shall provide a clearance 44 inches (1120 mm) wide minimum, 6 inches (150 mm) high minimum measured from the floor, and 36 inches (915 mm) deep minimum measured from the edge of the examination surface. Where the width of the examination surface is less than 36 inches (915 mm), the clearance depth shall extend the full width of the equipment. Equipment components are permitted to be located within 8 inches (205 mm) maximum of the centerline of the clearance width.
 
-- **Sub-Committee Recommendation:**\
-The base of the equipment shall provide a clearance **39 inches** (1000 mm) wide minimum, **6 inches** (150 mm) high minimum measured from the floor, and 36 inches (915 mm) deep minimum measured from the edge of the examination surface. Where the width of the examination surface is less than 36 inches (915 mm), the clearance depth shall extend the full width of the equipment. Equipment components are permitted to be located within 8 inches (205 mm) maximum of the centerline of the clearance width.
+- **Sub-Committee Recommendation:**\
+The base of the equipment shall provide a clearance **39 inches** (1000 mm) wide minimum, **6 inches** (150 mm) high minimum measured from the floor, and 36 inches (915 mm) deep minimum measured from the edge of the examination surface. Where the width of the examination surface is less than 36 inches (915 mm), the clearance depth shall extend the full width of the equipment. Equipment components are permitted to be located within 8 inches (205 mm) maximum of the centerline of the clearance width.
 
-**Rationale:** Harmonization with IEC 60601-2-52 "Particular requirements for the basic safety and essential performance of medical beds" Change clearance requirement to:\
-**39 inches** (1000 mm) from 44 inches (1120 mm). This is the current International standard for clearance. Recommend that this be harmonious with this standard.
+**Rationale:** Harmonization with IEC 60601-2-52 "Particular requirements for the basic safety and essential performance of medical beds" Change clearance requirement to:\
+**39 inches** (1000 mm) from 44 inches (1120 mm). This is the current International standard for clearance. Recommend that this be harmonious with this standard.
 
 For stretchers with a shorter wheelbase than "standard" size stretcher bases, the clearance for a lift may include a lift window that is a combination of "Clearance in Base" and "Clearance Around Base". With a short wheelbase, one leg of a floor based mobile patient lift will be placed through the base and the second leg of the lift will be placed around the base. The size of the window should still apply as written, these comments are placed here to identify a difference in how product configuration should not affect the clause.
 
@@ -4775,7 +4775,7 @@ It is important to create a distinction in the definition of these products so a
 
 The transfer surface shall be located to provide options to transfer from a mobility device onto one short side (depth) and one long side (width) of the surface.
 
-- **Sub-Committee Recommendation:** No revision as a stretcher chair should be the equivalent of a mobile examination chair.
+- **Sub-Committee Recommendation:** No revision as a stretcher chair should be the equivalent of a mobile examination chair.
 
 **M305.2 Transfer Supports**
 
@@ -4785,10 +4785,10 @@ The transfer surface shall be located to provide options to transfer from a mobi
 
 Transfer supports and their connections shall be capable of resisting vertical and horizontal forces of 250 pounds (1,112 N) applied at all points on the transfer support.
 
-- **Sub-Committee Recommendation:**\
+- **Sub-Committee Recommendation:**\
 Transfer supports and their connections shall be capable of resisting vertical and horizontal forces of 250 pounds (1,112 N) applied at the worst case accessible location without creating an unacceptable risk.
 
-**Rationale:** Manufacturer shall determine the worst case accessible location(s) and test at these locations.
+**Rationale:** Manufacturer shall determine the worst case accessible location(s) and test at these locations.
 
 Acceptance criteria must be defined. It is understood that the Transfer Support will deform to some degree under these loads. This clause should limit elastic deformation and prohibit permanent deformation or breakage.
 
@@ -4801,10 +4801,10 @@ As manufactures of medical equipment, ISO 14971 "Application of risk management 
 
 Transfer supports shall not rotate within their fittings
 
-- **Sub-Committee Recommendation:**\
+- **Sub-Committee Recommendation:**\
 Transfer supports shall not rotate within their fittings, when in the use or latched position, to the point of creating an unacceptable risk when subjected to the load conditions as prescribed in M305.2.2.
 
-**Rationale:** It is understood that transfer supports will be of varying configuration and designs. Some may be removable, some foldable or articulating. In these cases, it may be advantageous to allow them to rotate, translate, fold, etc. but they should not do so at loads below those prescribed in M305.2.2.
+**Rationale:** It is understood that transfer supports will be of varying configuration and designs. Some may be removable, some foldable or articulating. In these cases, it may be advantageous to allow them to rotate, translate, fold, etc. but they should not do so at loads below those prescribed in M305.2.2.
 
 **References**
 
@@ -4821,14 +4821,14 @@ The Subcommittee's technical recommendations for the weight scales have taken in
 
 Abbreviated Chart from Proposed Accessibility Standards for Medical Diagnostics Equipment Appendix to part 1195, Section M303.
 
-| **Patient Positions Equipment Designed to Support ** | **Equipment Features Addressed in Technical Criteria ** | **Types Of Equipment To Which Technical Criteria Applies** |
+| **Patient Positions Equipment Designed to Support ** | **Equipment Features Addressed in Technical Criteria ** | **Types Of Equipment To Which Technical Criteria Applies** |
 | Seated in a wheelchair (M303) | Wheelchair space, including orientation, width, depth, knee and toe clearance, and surface slope\
 Changes in level at entry to wheelchair space, including ramps\
 Components capable of examining body parts of patients seated in a wheelchair, including height of breast platforms | Imaging equipment designed for wheelchair use\
 Weight scales designed for wheelchair use |
 | Both seated in a wheelchair (M303) and in a standing position (M304) | Standing supports | Weight scales designed for both patients using wheelchairs and those standing |
 
-**Equipment Evaluated:** Wheelchair weight scales with single ramps, dual ramps, stand-on scales and stow-a-weigh scales.\
+**Equipment Evaluated:** Wheelchair weight scales with single ramps, dual ramps, stand-on scales and stow-a-weigh scales.\
 **Types of Scales**
 
 | **Single Ramp Scale**\
@@ -4846,7 +4846,7 @@ Though sometimes avoided, all patients should have their weight taken as it is a
 
 The goal of the sub-committee is to encompass the broadest range of individuals with mobility disabilities including wheeled mobility device users in the following recommendations. All standard size manual wheelchairs, powered wheelchairs, small to mid-range scooters and most bariatric size, extra wide manual chairs can be accommodated as it relates to the platform size recommendations; however, some of the larger roadside scooter models, typically a 4-wheeled base scooter, may not be accommodate by this platform size.
 
-**Rationale for including scooters in equipment evaluation:** Scooter use is increasing as aging 'Baby Boomers' acquire mobility disabilities, etc. In 1994-95, 0.21% of elderly (65+) adults used scooters (64,000 people), according to our analysis of the NHIS-D published in 2000 in "Mobility Device Use in the United States." In 2011, 2.3% of elderly population 65+adults use scooters (about 800,000 people), according to data from the National Health and Aging Trends Study. Trend is more than 10 times as many people in 16 years use scooters.
+**Rationale for including scooters in equipment evaluation:** Scooter use is increasing as aging 'Baby Boomers' acquire mobility disabilities, etc. In 1994-95, 0.21% of elderly (65+) adults used scooters (64,000 people), according to our analysis of the NHIS-D published in 2000 in "Mobility Device Use in the United States." In 2011, 2.3% of elderly population 65+adults use scooters (about 800,000 people), according to data from the National Health and Aging Trends Study. Trend is more than 10 times as many people in 16 years use scooters.
 
 Compare that to wheelchair usage among the 65+ elderly: 2.9% (900,000 people) in 1994-95, and 6.1% (2.1 million) in 2011. Double the usage.\
 Percentage of Scooter Users:\
@@ -4864,33 +4864,33 @@ Percentage of Scooter Users:\
 
 It is also acknowledged that not all scooter users can easily transfer from their scooters; transfers for scooter users may be just as difficult as those who are wheelchair users. Having an accessible weigh scale that can accommodate a wide range of patient populations and mobility devices is optimal as it saves the patient from having to transfer just to have their weight taken.
 
-**Rationale for including alternative equipment for taking weight:** The Sub-committee acknowledges alternative types of equipment that have integrated scales to be an effective means of taking a patients weight. Alternative equipment with integrated scales can eliminate the need for unnecessary patient transfers to a weight scale just to capture a patient's weight. For example, if a patient transfers onto an examination table that has an integrated scale, the healthcare provider can also capture the patient's weight once the patient has made this single transfer. Such types of equipment with integrated scales may include; examination tables, stretchers, portable lifts and overhead ceiling lifts. The medical diagnostic equipment accessibility standards also apply to the alternative equipment for taking weight for each function if they include an integrated scale for the patient position it supports; prone, sitting, standing, seated in a wheelchair.
+**Rationale for including alternative equipment for taking weight:** The Sub-committee acknowledges alternative types of equipment that have integrated scales to be an effective means of taking a patients weight. Alternative equipment with integrated scales can eliminate the need for unnecessary patient transfers to a weight scale just to capture a patient's weight. For example, if a patient transfers onto an examination table that has an integrated scale, the healthcare provider can also capture the patient's weight once the patient has made this single transfer. Such types of equipment with integrated scales may include; examination tables, stretchers, portable lifts and overhead ceiling lifts. The medical diagnostic equipment accessibility standards also apply to the alternative equipment for taking weight for each function if they include an integrated scale for the patient position it supports; prone, sitting, standing, seated in a wheelchair.
 
 **Proposed Recommendations and Sub-Committee Recommendations**
 
 **M303.2.3 Wheelchair Spaces / Depth of Wheelchair Spaces for front or Rear Entry**
 
-**- Sub-Committee Recommendation:** The Sub-committee and Full Committee have decided not to act on the proposed recommendation by the Notice of Proposed Rulemaking (NPRM) and retain the proposed provision as is. Based on recent anthropometric data, NPRM proposes to increase minimum depth dimension from 48 to 58 inches -- majority of members have no opinion or anticipation of a situation where requirement is needed.
+**- Sub-Committee Recommendation:** The Sub-committee and Full Committee have decided not to act on the proposed recommendation by the Notice of Proposed Rulemaking (NPRM) and retain the proposed provision as is. Based on recent anthropometric data, NPRM proposes to increase minimum depth dimension from 48 to 58 inches -- majority of members have no opinion or anticipation of a situation where requirement is needed.
 
 ***Exceptions Considered for Wheelchair Spaces on Raised Platforms***
 
-**M303.2.2 Proposed Exception:** The exception to the **minimum width** in M303.2.2 would apply where ramped surfaces are provided on the opposite sides of the raised platform so that patients using wheelchairs can enter and exit the platform facing the same direction. The exception would permit the width of the wheelchair space between the edge protection to be reduced** to 32 inches wide** minimum at the platform level. This dimension is based on provisions in the 2004 ADA and ABA Accessibility Guidelines that allow accessible routes, which normally must be 36 inches wide minimum, to be 32 inches wide minimum for short distances such as at door openings. The exception would require a space 36 inches wide minimum to be provided outside the perimeter of the raised platform and above any edge protection so that patients using a manual wheelchair can extend their arms and elbows when they push on the wheel rims to maneuver onto and off of the platforms.
+**M303.2.2 Proposed Exception:** The exception to the **minimum width** in M303.2.2 would apply where ramped surfaces are provided on the opposite sides of the raised platform so that patients using wheelchairs can enter and exit the platform facing the same direction. The exception would permit the width of the wheelchair space between the edge protection to be reduced** to 32 inches wide** minimum at the platform level. This dimension is based on provisions in the 2004 ADA and ABA Accessibility Guidelines that allow accessible routes, which normally must be 36 inches wide minimum, to be 32 inches wide minimum for short distances such as at door openings. The exception would require a space 36 inches wide minimum to be provided outside the perimeter of the raised platform and above any edge protection so that patients using a manual wheelchair can extend their arms and elbows when they push on the wheel rims to maneuver onto and off of the platforms.
 
-**M303.2.3 Proposed Exception:** The exception to the minimum depth in **M303.2.3** for wheelchair spaces entered from the front or rear would permit a portion of the **48 inch minimum depth** of the wheelchair space that accommodates the wheelchair footrests to extend beyond the raised platform and over any edge protection. For example, the wheelchair footrests would be allowed to extend beyond the depth of the raised platform and over any edge protection on wheelchair weight scales used by patients seated in a wheelchair.
+**M303.2.3 Proposed Exception:** The exception to the minimum depth in **M303.2.3** for wheelchair spaces entered from the front or rear would permit a portion of the **48 inch minimum depth** of the wheelchair space that accommodates the wheelchair footrests to extend beyond the raised platform and over any edge protection. For example, the wheelchair footrests would be allowed to extend beyond the depth of the raised platform and over any edge protection on wheelchair weight scales used by patients seated in a wheelchair.
 
--** Sub-Committee Recommendation:** Platform size shall be clear **width** of **32 inches** minimum and clear **length** of **40 inches** minimum.
+-** Sub-Committee Recommendation:** Platform size shall be clear **width** of **32 inches** minimum and clear **length** of **40 inches** minimum.
 
 (Figure 1 --Clear Platform showing the measurements of 32" wide x 40" inches length
 
-**Rationale:** Clear platform size of **32 inches****minimum width x 40 inches minimum length** accommodates non-powered and powered wheeled mobility devices including scooters; small and mid-size scooters. May not accommodate some larger roadside scooters with 4-wheeled based. This platform dimension is consistent with the recommendations of the** IDeA Center Study** recommendations for a minimum flat surface of 40 inches length for platforms accommodating wheeled mobility devices including scooters. This size platform allows for maneuverability on the platform for positioning and takes into consideration the operations of the wheelchair / scooter user to not always have the ability to stop precisely in the middle of the platform.
+**Rationale:** Clear platform size of **32 inches****minimum width x 40 inches minimum length** accommodates non-powered and powered wheeled mobility devices including scooters; small and mid-size scooters. May not accommodate some larger roadside scooters with 4-wheeled based. This platform dimension is consistent with the recommendations of the** IDeA Center Study** recommendations for a minimum flat surface of 40 inches length for platforms accommodating wheeled mobility devices including scooters. This size platform allows for maneuverability on the platform for positioning and takes into consideration the operations of the wheelchair / scooter user to not always have the ability to stop precisely in the middle of the platform.
 
 To have an accurate weight the wheelbase* 4 wheels and 3 wheels for some scooters must be on the platform (and make contact). The foot pedals, footrests, scooter deck and tip wheels can overhang or extend beyond the platform and still get an accurate weight.
 
-*The **IDeA Center Study** defines wheelchair wheelbase as the distance from the center of the primary drive wheel to the center of the caster measured parallel to the floor.
+*The **IDeA Center Study** defines wheelchair wheelbase as the distance from the center of the primary drive wheel to the center of the caster measured parallel to the floor.
 
-*The **IDeA Center Study** defines scooter wheelbase as the distance from the center of the primary drive wheels to the center of the back or front wheels measured parallel to the floor.
+*The **IDeA Center Study** defines scooter wheelbase as the distance from the center of the primary drive wheels to the center of the back or front wheels measured parallel to the floor.
 
-*The **IDeA Center Study** findings indicate that a 36 inch length accommodates standard manual and motorized wheelchairs and most, if not all, bariatric size- extra wide manual chairs
+*The **IDeA Center Study** findings indicate that a 36 inch length accommodates standard manual and motorized wheelchairs and most, if not all, bariatric size- extra wide manual chairs
 
 **IDeA Center Study at the University of Buffalo, New York): Summary analysis of wheelbase measurements on wheeled mobility devices**
 
@@ -5104,15 +5104,15 @@ To have an accurate weight the wheelbase* 4 wheels and 3 wheels for some scooter
 
 **Ramps M303:3.3, 3.3.1, 3.3.2**
 
-**M303.3 Proposed Provision: Changes in Level at Entry to Wheelchair Spaces** includes technical criteria for changes in level at the entry to a wheelchair space as may occur at wheelchair weight scales with raised platforms. The technical criteria are consistent with the 2004 ADA and ABA Accessibility Guidelines. Level changes up to ¼ inch high are permitted to be vertical. Level changes between ¼ inch high and ½ inch high would be required to be beveled with a slope not steeper than 1:2. Level changes greater than ½ inch high would be required to be ramped. Ramp runs would be required to have a running slope not steeper than 1:12 and a cross slope not steeper than 1:48. The clear width of ramp runs would be required to be 36 inches minimum. Ramps with drop offs ½ inch or greater would be required to provide edge protection 2 inches high minimum on each side to prevent users from inadvertently travelling off the sides of the ramped surface.
+**M303.3 Proposed Provision: Changes in Level at Entry to Wheelchair Spaces** includes technical criteria for changes in level at the entry to a wheelchair space as may occur at wheelchair weight scales with raised platforms. The technical criteria are consistent with the 2004 ADA and ABA Accessibility Guidelines. Level changes up to ¼ inch high are permitted to be vertical. Level changes between ¼ inch high and ½ inch high would be required to be beveled with a slope not steeper than 1:2. Level changes greater than ½ inch high would be required to be ramped. Ramp runs would be required to have a running slope not steeper than 1:12 and a cross slope not steeper than 1:48. The clear width of ramp runs would be required to be 36 inches minimum. Ramps with drop offs ½ inch or greater would be required to provide edge protection 2 inches high minimum on each side to prevent users from inadvertently travelling off the sides of the ramped surface.
 
-- S**ub-Committee Recommendation: Steepest Slope permitted to be:**
+- S**ub-Committee Recommendation: Steepest Slope permitted to be:**
 
 - Rise 0 to 1 ½ inches -- 1:2 Slope\
 - Rise >1 ½ to 2 ½ inches -- 1:8* Slope\
 - Rise >2 ½ inches -- 1:12 Slope
 
-**Rationale:** Based on Weight Scales Subcommittee recommendation with full Committee's input and partly the 2004 ADA and ABA Accessibility Guidelines. *The rise of >1 ½ to 2 ½ inches - 1:8 slope is from section 405.2 **Maximum Ramp Slope and Rise for Existing Sites, Buildings, and Facilities** - [A steeper ramp for a limited rise is allowable].
+**Rationale:** Based on Weight Scales Subcommittee recommendation with full Committee's input and partly the 2004 ADA and ABA Accessibility Guidelines. *The rise of >1 ½ to 2 ½ inches - 1:8 slope is from section 405.2 **Maximum Ramp Slope and Rise for Existing Sites, Buildings, and Facilities** - [A steeper ramp for a limited rise is allowable].
 
 A ramp, using a 1:2 slope, will allow for short rise ramps found on stow-a-weigh scales. Space constraints are of consideration in this recommendation, as medical equipment and adequate space in the acute care or in the medical office setting are often competing. Scales that can be wall mounted or that are portable would facilitate where there are space constraints. Patients are always supervised and assisted by a healthcare provider when taking weight.
 
@@ -5120,68 +5120,68 @@ Current weight cell load technology that exists, allows for a low platform profi
 
 - Sub-Committee Recommendation: Edge Protection
 
-o **Single ramp scales: 2 inch edge protection** absolute is required opposite the entry ramp on the platform as a safety feature to prevent wheeled mobility device drivers from over-shooting the platform as not all devices stop immediately when braking.
+o **Single ramp scales: 2 inch edge protection** absolute is required opposite the entry ramp on the platform as a safety feature to prevent wheeled mobility device drivers from over-shooting the platform as not all devices stop immediately when braking.
 
-o A **2 inch** maximum height is recommended so the edge protection does not obstruct the footrest from hanging over.
+o A **2 inch** maximum height is recommended so the edge protection does not obstruct the footrest from hanging over.
 
-o Edge protection is required for ***either side of the platform** (front edge and rear edge)** and ramp**.* This is an additional safety recommendation.
+o Edge protection is required for ***either side of the platform** (front edge and rear edge)** and ramp**.* This is an additional safety recommendation.
 
- **Single and dual ramp scales****:** 2 inches minimum required on both sides* (front edge and rear edge)* of platform\
- **Single and dual ramp scales:** 2 inches minimum required on both sides of entry ramps\
- Not required where platform is ≤ 1½ inches
+ **Single and dual ramp scales****:** 2 inches minimum required on both sides* (front edge and rear edge)* of platform\
+ **Single and dual ramp scales:** 2 inches minimum required on both sides of entry ramps\
+ Not required where platform is ≤ 1½ inches
 
-**Rationale:** Edge protection provides additional safety features so user of wheeled mobility devices do not inadvertently drivel off ramp and/or platform.
+**Rationale:** Edge protection provides additional safety features so user of wheeled mobility devices do not inadvertently drivel off ramp and/or platform.
 
 **Single Ramp Scale with 2" Edge Protection**
 
 Opposite the ramp entry and on both sides of the platform and ramp
 
-**Figure 2:** Picture of single ramp scale showing the 2" edge protection at the opposite side of the platform and showing the 2" minimum edge protection on both sides of the ramp and platform
+**Figure 2:** Picture of single ramp scale showing the 2" edge protection at the opposite side of the platform and showing the 2" minimum edge protection on both sides of the ramp and platform
 
 **Dual Ramp Scale with 2" Edge Protection**
 
 On both sides of the platform and ramp
 
-**Figure 3:** Picture of a dual ramp scale showing the edge protection on both sides of the platform and ramp
+**Figure 3:** Picture of a dual ramp scale showing the edge protection on both sides of the platform and ramp
 
 **Standing Supports (M304.3 and M305.3)**
 
-**M304.3 Proposed Provision:** Would require standing supports to be provided on each side of the standing surface on diagnostic equipment used by patients in a standing position. M305.3 would require the standing supports to provide continuous support throughout the use of the diagnostic equipment and to not rotate within their fittings.
+**M304.3 Proposed Provision:** Would require standing supports to be provided on each side of the standing surface on diagnostic equipment used by patients in a standing position. M305.3 would require the standing supports to provide continuous support throughout the use of the diagnostic equipment and to not rotate within their fittings.
 
-**M305.3 Proposed Provision:** Also provides technical criteria for standing supports in horizontal and vertical positions. Standing supports can be provided in a horizontal position, vertical position, or a combination of horizontal and vertical positions, as long as the minimum length of gripping surface is provided for the support position used on each side of the standing surface. Standing supports that adjust from horizontal to vertical positions and at angles in between, such as a bar that folds up and locks into multiple positions, can be used. These kinds of adjustable supports are not required but would accommodate a broad range of patients with disabilities, particularly where a patient needs to assume multiple body positions for a diagnostic procedure or needs to step up onto a surface and then maintain balance afterwards.
+**M305.3 Proposed Provision:** Also provides technical criteria for standing supports in horizontal and vertical positions. Standing supports can be provided in a horizontal position, vertical position, or a combination of horizontal and vertical positions, as long as the minimum length of gripping surface is provided for the support position used on each side of the standing surface. Standing supports that adjust from horizontal to vertical positions and at angles in between, such as a bar that folds up and locks into multiple positions, can be used. These kinds of adjustable supports are not required but would accommodate a broad range of patients with disabilities, particularly where a patient needs to assume multiple body positions for a diagnostic procedure or needs to step up onto a surface and then maintain balance afterwards.
 
-- **Sub-Committee Recommendation: Standing Supports -- Location**\
+- **Sub-Committee Recommendation: Standing Supports -- Location**\
 - (scales serving both wheelchair and standing users).
 
-o **1 side** of platform for dual ramp entry of platform\
-o **2 sides** of platform for single ramp entry with **34" minimum** width between standing supports\
+o **1 side** of platform for dual ramp entry of platform\
+o **2 sides** of platform for single ramp entry with **34" minimum** width between standing supports\
 o The standing supports need to be tied in to the weighing platform for weight accuracy.
 
-**Rationale:** Standing supports required on **one** side of **dual ramp** has relevance for users being able to access either side for entry -- user may only have one usable side due to condition such as a stroke, or right or left side paralysis or weakness etc.
+**Rationale:** Standing supports required on **one** side of **dual ramp** has relevance for users being able to access either side for entry -- user may only have one usable side due to condition such as a stroke, or right or left side paralysis or weakness etc.
 
-Standing supports required on **both** sides for **single ramp** entry to assist user to gain access to weight platform.
+Standing supports required on **both** sides for **single ramp** entry to assist user to gain access to weight platform.
 
 A 34" minimum width between the supports allows for adequate elbow space to push wheels onto platform and does not infringe on the 32" platform.
 
-**Standing Supports** (scales serving both wheelchair and standing users)
+**Standing Supports** (scales serving both wheelchair and standing users)
 
-- **Sub-Committee Recommendation: Standing Supports - Length**
+- **Sub-Committee Recommendation: Standing Supports - Length**
 
-The **length** of the standing supports to be 32" minimum for single ramp scale and 40" minimum for dual ramp scale.
+The **length** of the standing supports to be 32" minimum for single ramp scale and 40" minimum for dual ramp scale.
 
-o **Single Entry Ramp** - On **both** sides of single entry platform for a length of** 32 inches** minimum starting at platform entry edge.
+o **Single Entry Ramp** - On **both** sides of single entry platform for a length of** 32 inches** minimum starting at platform entry edge.
 
-o **Dual Entry Ramp** -- On **one** side of dual entry platform for a length of **40 inches** minimum.
+o **Dual Entry Ramp** -- On **one** side of dual entry platform for a length of **40 inches** minimum.
 
-**Rationale:** Having standing supports for **80%**, or 32 inches minimum length at the platform entry edge on the **single entry ramp** allows for enough coverage in length to assist the patient for stability to grab on both sides, to gain access to the platform for this one way entry and exit. Standing supports on the** dual entry ramp**, allows for the **full length** of the platform to have a standing support available on one side for the patient to provide stability when entering onto the platform and exiting off the platform - a user may select which side of the platform to enter given the limitation of having one strong side due to conditions such as stroke or right or left side paralysis or weakness etc.
+**Rationale:** Having standing supports for **80%**, or 32 inches minimum length at the platform entry edge on the **single entry ramp** allows for enough coverage in length to assist the patient for stability to grab on both sides, to gain access to the platform for this one way entry and exit. Standing supports on the** dual entry ramp**, allows for the **full length** of the platform to have a standing support available on one side for the patient to provide stability when entering onto the platform and exiting off the platform - a user may select which side of the platform to enter given the limitation of having one strong side due to conditions such as stroke or right or left side paralysis or weakness etc.
 
 **Standing Supports - Single Ramp Scale**
 
-**Figure 4:** picture of standing supports on **both sides** of a** single entry ramp** scale showing the 80% coverage (or 32" length) starting at the platform edge **and** the 34" minimum space between supports
+**Figure 4:** picture of standing supports on **both sides** of a** single entry ramp** scale showing the 80% coverage (or 32" length) starting at the platform edge **and** the 34" minimum space between supports
 
 **Standing supports -- Dual Ramp Scale**
 
-**Figure 5:** picture of standing supports on **one side** of a** dual ramp scale** of the platform length of 40" minimum
+**Figure 5:** picture of standing supports on **one side** of a** dual ramp scale** of the platform length of 40" minimum
 
 **References:**
 
@@ -5201,7 +5201,7 @@ From: Clive D'Souza and Edward Steinfeld, IDeA Center, University at Buffalo
 
 To: Rex Pace, Technical Assistance Coordinator, U.S. Access Board
 
-**RE: Revised Knee Clearance Depth and Footrest Clearance dimensions for sizing of mammography equipment**
+**RE: Revised Knee Clearance Depth and Footrest Clearance dimensions for sizing of mammography equipment**
 
 **Introduction**
 
@@ -5210,7 +5210,7 @@ This memo provides a revised description and analyses examining knee clearance d
 1\. Abdomen depth (AD)\
 2\. Footrest clearance height and depth
 
-**1\. Abdomen depth (AD)**
+**1\. Abdomen depth (AD)**
 
 Abdomen depth was analyzed as the overall clearance depth beneath the mammography machine, and measured from the anterior-most aspect of the abdomen to the anterior-most aspect of the occupied wheelchair (e.g., to the footrest or toe-tip). The data were analyzed using both, univariate and multivariate methods.
 
@@ -5219,11 +5219,11 @@ The univariate analysis examines AD alone and is appropriate when no other clear
 
 **Table 1: Percentile and maximum values for Abdomen Depth (in.) obtained from univariate analyses**
 
-|  | ** Percentile Value** |  |
-| **User Group** | ** Median -- 50th** | ** 75th** | ** 90th** | ** 95th** | **Max ** |
-| Female MWC users (n=130) |  23.2 | 26.4 | 29.2 | 30.6 |  33.0 |
+|  | ** Percentile Value** |  |
+| **User Group** | ** Median -- 50th** | ** 75th** | ** 90th** | ** 95th** | **Max ** |
+| Female MWC users (n=130) |  23.2 | 26.4 | 29.2 | 30.6 |  33.0 |
 | Male MWC users (n=147) | 24.8 | 28.3 | 31.3 | 32.9 | 37.7 |
-| Female PWC users (n=89) | 21.6 | 24.8  | 28.1 | 30.4 | 36.7 |
+| Female PWC users (n=89) | 21.6 | 24.8  | 28.1 | 30.4 | 36.7 |
 | Male PWC users (n=100) | 24.6 | 27.7 | 31.2 | 32.0 | 34.0 |
 
 ![Picture of a boxplot showing the distribution for abdomen depth (inches) across wheelchair type and occupant gender. There is a  dotted line (30.5 in) which depicts the 95th percentile value for female wheelchair users, both manual and power.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-36.jpg)
@@ -5234,7 +5234,7 @@ The univariate analysis examines AD alone and is appropriate when no other clear
 
 The above univariate analysis is only applicable in the case of one critical dimension (i.e., abdomen to anterior-most point depth) and all other knee clearance dimensions are unrestricted or unbounded. If more than one dimension is bounded (e.g., combinations of knee clearance height or depth, foot clearance height or depth, occupied width, etc.) then a multivariate analysis which involves simultaneous consideration of multiple dimensions is more appropriate for performing clearance assessments. As the number of dimensions in the multivariate analysis increases it is possible that the resulting space requirements are larger in comparison to the univariate case where each dimension is analyzed separately.
 
-**2\. Analysis of footrest clearance height and depth**
+**2\. Analysis of footrest clearance height and depth**
 
 Any base support or flange for the mammography machine at floor level (inside the clear floor space width) would obstruct some wheelchair users from approaching the mammography machine. The purpose of this analysis was to determine suitable dimensions for the base flange depth and thickness at floor level to minimize obstructions in forward approach for such users.
 
@@ -5252,15 +5252,15 @@ Both depth dimensions are referenced to the abdomen assuming that the wheelchair
 
 **Table 2: Observed ranges and percentile values for Abdomen-Castor edge depth, Abdomen-Footrest edge depth, and Footrest Height, measured on the right-side for manual and power wheelchair users (Note: combined data for male and female). Critical values are highlighted in yellow**.
 
-| ***Measurement Dimension*** | *** Device Type*** | *** Min*** | ***5 *** | ***10 *** | ***50*** | ***90*** | ***95*** | ***Max*** |
-| Abdomen-Castor Edge Depth  | Manual (n=101) |  2.0 | 5.6 | 6.8 | 11.4 | 17.1 | 18.5  | 20.3  |
-|   | Power (n=67) | 4.1 | 6.0 | 7.8 | 10.9 | 17.6 | 19.3 | 21.9  |
-|   |   |   |   |   |   |   |   |   |
+| ***Measurement Dimension*** | *** Device Type*** | *** Min*** | ***5 *** | ***10 *** | ***50*** | ***90*** | ***95*** | ***Max*** |
+| Abdomen-Castor Edge Depth  | Manual (n=101) |  2.0 | 5.6 | 6.8 | 11.4 | 17.1 | 18.5  | 20.3  |
+|   | Power (n=67) | 4.1 | 6.0 | 7.8 | 10.9 | 17.6 | 19.3 | 21.9  |
+|   |   |   |   |   |   |   |   |   |
 | Abdomen - Footrest Distal Depth | Manual (n=101) | 12.3 | 15.0 | 16.0 | 21.1 | 27.8 | 28.4 | 34.6 |
-|   | Power (n=67) | 13.7 | 14.2 | 15.0 | 21.0 | 27.2 | 29.9 | 35.1 |
-|   |   |   |   |   |   |   |   |   |
+|   | Power (n=67) | 13.7 | 14.2 | 15.0 | 21.0 | 27.2 | 29.9 | 35.1 |
+|   |   |   |   |   |   |   |   |   |
 | Footrest Heigh | Manual (n=101) | 1.2 | 1.7 | 2.2 | 4.1 | 7.2 | 10.0 | 36.2 |
-|   | Power (n=67) | 1.8 | 2.7 | 3.1 | 4.8 | 8.8 | 10.5 | 16.9 |
+|   | Power (n=67) | 1.8 | 2.7 | 3.1 | 4.8 | 8.8 | 10.5 | 16.9 |
 
 Figures 2 and 3 provide scatter-plots showing the relationship between Abdomen-Castor edge depth (and castor hub height) and Abdomen-Footrest distal depth (at footrest height) referenced from the abdomen point measured on the right side for manual wheelchair users (fig. 2) and power wheelchair users (fig. 3) respectively.
 
@@ -5300,7 +5300,7 @@ To: Rex Pace, Technical Assistance Coordinator, U.S. Access Board
 
 The following report provides a brief analysis of four anthropometric dimensions which were considered relevant to the width and depth dimensions of a seating surface for wheeled mobility device users. The data are based on findings from the Anthropometry of Wheeled Mobility (AWM) Project, and comprises of detailed static measurements collected from 500 users of manual wheelchairs, power wheelchairs and scooters.
 
-This analysis focuses only on the adequacy of the proposed transfer surface dimensions as a static seating surface -- i.e., no measurements of transfers were recorded. The proposed dimensions for transfer surface 30in. wide and 15in. deep is estimated to be adequate as minimum criteria for a static seating surface. Our\
+This analysis focuses only on the adequacy of the proposed transfer surface dimensions as a static seating surface -- i.e., no measurements of transfers were recorded. The proposed dimensions for transfer surface 30in. wide and 15in. deep is estimated to be adequate as minimum criteria for a static seating surface. Our\
 research findings demonstrate that the minimum width of the surface could be as small as 28 in. and still accommodate 95% of our sample. It should be noted that Additional width may be required for accommodating users that are morbidly obese or use bariatric wheelchairs. Furthermore, additional space may be needed to accommodate the task of transferring, depending on the additional features provided, e.g. armrests or railings. User testing is recommended for arriving at more accurate transfer surface dimensions and design features to insure usability for a broad diversity of users, including individuals with mobility impairments.
 
 **Introduction**
@@ -5309,21 +5309,21 @@ The proposed guidelines for medical diagnostic equipment recommends a minimum tr
 
 The Center for Inclusive Design and Environmental Access (IDeA) at the University at Buffalo conducted an anthropometric study of 500 individuals who use wheeled mobility devices (WMD)[1](https://www.access-board.gov/ideaone). The research included the collection of demographic information and WMD characteristics, and the measurement of structural and functional anthropometry. Data collection included 3 dimensional measurements of approximately 90 points located on the body and device. Linear distances between pairs of measured points can be computed to provide dimensional estimates of body and mobility device sizes.
 
-Four static body dimensions considered relevant to the width and depth dimensions of a seating surface were computed and analyzed to serve as a reference. These dimensions include: thigh breadth, shoulder breadth, buttock-popliteal length, and wheelchair seat depth. Dimension values are stratified by gender and mobility device type since significant differences in size and space requirements exist across these sub-groups. All dimensions are based on occupant static postures while seated in their own mobility device. As such, the analysis focuses only on the adequacy of the proposed transfer surface dimensions for a static seating surface. No measurements of transferring to or from the mobility device were recorded. Hence, the dimensions discussed in this report should only be considered as a starting point for accessible design of a seating surface. When determining space requirements for dynamic transfer tasks, there are additional space needs and functional abilities of the user population which must be considered. For example, individuals may need additional space to position their hands when conducting a side transfer. Issues of comfort and security need to be considered. Tasks that are performed on the table, like rolling over, need to be accommodated. Furthermore, the question of how to accommodate morbidly obese individuals still needs to be addressed.
+Four static body dimensions considered relevant to the width and depth dimensions of a seating surface were computed and analyzed to serve as a reference. These dimensions include: thigh breadth, shoulder breadth, buttock-popliteal length, and wheelchair seat depth. Dimension values are stratified by gender and mobility device type since significant differences in size and space requirements exist across these sub-groups. All dimensions are based on occupant static postures while seated in their own mobility device. As such, the analysis focuses only on the adequacy of the proposed transfer surface dimensions for a static seating surface. No measurements of transferring to or from the mobility device were recorded. Hence, the dimensions discussed in this report should only be considered as a starting point for accessible design of a seating surface. When determining space requirements for dynamic transfer tasks, there are additional space needs and functional abilities of the user population which must be considered. For example, individuals may need additional space to position their hands when conducting a side transfer. Issues of comfort and security need to be considered. Tasks that are performed on the table, like rolling over, need to be accommodated. Furthermore, the question of how to accommodate morbidly obese individuals still needs to be addressed.
 
 The charts below were developed using a statistical analysis package with some built-in features. The reader will notice data points noted as "extreme values." The statistical package analyses the data to identify "outliers," or values that exceed expected values in data with a normal distribution. It then includes those values in the graphics as outside the range of maximum and minimum values in each distribution. The charts serve as a visual aid for understanding how the diversity or spread in measurement values within and between each of the six sub-groups of device users that were studied.
 
-However, the "extreme values" are included in our assessment and recommendations on accommodating 95% of the sample, since these "extreme values" represent genuine cases of individuals (as opposed to errors in measurement) that need to be accommodated by design and hence should not be excluded from the analysis, and, the dimensions that we analyzed were not normal distributed due to a broad diversity in the observed measurements. Hence the percentiles were computed separately based on the observed data and not an implied normal distribution. Readers can assume that these "extreme values" represent unusually large or small dimensions for the population studied that might need special accommodation through design and/or some type of personal assistance.
+However, the "extreme values" are included in our assessment and recommendations on accommodating 95% of the sample, since these "extreme values" represent genuine cases of individuals (as opposed to errors in measurement) that need to be accommodated by design and hence should not be excluded from the analysis, and, the dimensions that we analyzed were not normal distributed due to a broad diversity in the observed measurements. Hence the percentiles were computed separately based on the observed data and not an implied normal distribution. Readers can assume that these "extreme values" represent unusually large or small dimensions for the population studied that might need special accommodation through design and/or some type of personal assistance.
 
 **1\. Thigh Breadth**
 
 Thigh breadth was used to provide an estimate of the width of the seating surface. Thigh breadth for this analysis was computed as the larger of two dimensions, the horizontal distance between the lateral (outer) aspect of the hips, and the horizontal distance between the lateral aspects of the thighs, when seated in the wheelchair and not considering any wheelchair hardware. Figure 1 provides a box-plot showing the distribution for thigh breadth stratified by gender and mobility device type. It should be noted that the thigh breadth dimension for manual and power wheelchair users may be underestimated due to lateral posture support features (such as double-post armrest, wheelchair side guard). Scooters generally have single post armrests and hence the occupants' thighs are laterally "unsupported" and tend to be wider reflecting a more natural posture. In wheelchairs, the armrests and side guards could compress overall breadth of the thighs to a certain extent.
 
-Inadequate seat width can be more problematic for individuals that have broader hips and/or thighs. As such, the width dimension should be based on the higher end of the sample distribution to provide a sufficient base of support for as large a proportion of the user population as possible (e.g., 95th or 99th percentile). The 95th percentile and maximum values across the 6 sub-groups were within a range of 22in-28in, and the maximum values were within the 26in-30in. range. A minimum width of 30in would therefore ensure that all individuals of our sample would be accommodated in terms of the width of a static seating surface. If the minimum width were reduced to 28 in. only three individuals in our sample would not be accommodated.
+Inadequate seat width can be more problematic for individuals that have broader hips and/or thighs. As such, the width dimension should be based on the higher end of the sample distribution to provide a sufficient base of support for as large a proportion of the user population as possible (e.g., 95th or 99th percentile). The 95th percentile and maximum values across the 6 sub-groups were within a range of 22in-28in, and the maximum values were within the 26in-30in. range. A minimum width of 30in would therefore ensure that all individuals of our sample would be accommodated in terms of the width of a static seating surface. If the minimum width were reduced to 28 in. only three individuals in our sample would not be accommodated.
 
 ![Box-plot showing the distribution for thigh breadth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-39.jpg)
 
-**Figure 1:** Box-plot showing the distribution for thigh breadth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.
+**Figure 1:** Box-plot showing the distribution for thigh breadth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.
 
 **2\. Shoulder Breadth**
 
@@ -5335,24 +5335,24 @@ A wider examination table (i.e., greater than 30in.) may be needed if accommodat
 
 ![Box-plot showing the distribution for shoulder breadth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-40.jpg)
 
-**Figure 2:** Box-plot showing the distribution for shoulder breadth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.\
+**Figure 2:** Box-plot showing the distribution for shoulder breadth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.\
 **3\. Buttock-Popliteal Length**
 
-For this study, an estimate of buttock-popliteal length was calculated as the horizontal distance from the proximal (rear) edge of the wheelchair seat cushion to the popliteal fossa (i.e., crease at the back of the knee) of the right leg. The median buttock-popliteal length provides an upper bound for the depth of a seating surface. If seat depth is increased beyond this length, it becomes difficult to engage the backrest as well as exerting pressure to the back of the knees. Figure 3 provides a box-plot showing the distribution for shoulder breadth stratified by gender and mobility device type. The median (50th percentile) values for buttock-popliteal length across the 6 sub-groups ranged from 18.5-19.5 in. Seat depths should preferably not exceed these values (see next section for more information).
+For this study, an estimate of buttock-popliteal length was calculated as the horizontal distance from the proximal (rear) edge of the wheelchair seat cushion to the popliteal fossa (i.e., crease at the back of the knee) of the right leg. The median buttock-popliteal length provides an upper bound for the depth of a seating surface. If seat depth is increased beyond this length, it becomes difficult to engage the backrest as well as exerting pressure to the back of the knees. Figure 3 provides a box-plot showing the distribution for shoulder breadth stratified by gender and mobility device type. The median (50th percentile) values for buttock-popliteal length across the 6 sub-groups ranged from 18.5-19.5 in. Seat depths should preferably not exceed these values (see next section for more information).
 
 ![Box-plot showing the distribution for approximate buttock-popliteal length stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-41.jpg)
 
-**Figure 3:** Box-plot showing the distribution for approximate buttock-popliteal length stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.
+**Figure 3:** Box-plot showing the distribution for approximate buttock-popliteal length stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.
 
 **4\. Wheelchair seat depth**
 
-For this study, wheelchair seat depth was calculated as the horizontal distance from the proximal (i.e., towards the rear) edge to the distal (i.e., towards the forward) edge of the wheelchair seat cushion. Individual wheelchair seat depths are generally about 2 in. less than buttock-popliteal length in most case -- this is a rough guideline and is quite similar to deciding seat depths for ambulatory individuals e.g., for office chairs. The median seat depth across different wheeled mobility devices would provide a reference value for the depth of other common seating surfaces. Figure 4 provides a box-plot showing the distribution for wheelchair seat depth stratified by gender and mobility device type.
+For this study, wheelchair seat depth was calculated as the horizontal distance from the proximal (i.e., towards the rear) edge to the distal (i.e., towards the forward) edge of the wheelchair seat cushion. Individual wheelchair seat depths are generally about 2 in. less than buttock-popliteal length in most case -- this is a rough guideline and is quite similar to deciding seat depths for ambulatory individuals e.g., for office chairs. The median seat depth across different wheeled mobility devices would provide a reference value for the depth of other common seating surfaces. Figure 4 provides a box-plot showing the distribution for wheelchair seat depth stratified by gender and mobility device type.
 
 The median (50th percentile) values for wheelchair seat depth across the 6 sub-groups ranged from 14-17 in. The proposed guidelines recommend a transfer surface depth of 15in. which is at about the middle of this range and may be appropriate.
 
 ![Box-plot showing the distribution for approximate wheelchair seat depth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.]({{ site.baseurl }}/images/advisory-committee-reports/mde/sd-42.jpg)
 
-**Figure 4:** Box-plot showing the distribution for approximate wheelchair seat depth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.
+**Figure 4:** Box-plot showing the distribution for approximate wheelchair seat depth stratified by gender and mobility device type. The horizontal line splitting the box depicts the median, the box length represents the inter-quartile (25th -- 75th percentile) range, and the whiskers represent the minimum and maximum values. Extreme values are shown as dots and asterisks. The red dotted lines depict the observed range of 95th percentile values across sub-groups.
 
 **Conclusions**
 
@@ -5362,15 +5362,15 @@ the width could be reduced to 28 in. Our analysis based on static anthropometry 
 
 Based on an anthropometric analysis of four relevant dimensions, we have the following observations and recommendations:
 
-1.  The proposed minimum transfer surface width of 30 in. provides sufficient space as a static seating surface for almost all individuals in our sample of wheeled mobility users based on static measurements of hip and thigh breadth. This width could be reduced to 28 in. and still accommodate 95% of our sample.
+1.  The proposed minimum transfer surface width of 30 in. provides sufficient space as a static seating surface for almost all individuals in our sample of wheeled mobility users based on static measurements of hip and thigh breadth. This width could be reduced to 28 in. and still accommodate 95% of our sample.
 2.  A width of 30 in. would also accommodate the shoulder breadth of most individuals should this be required, e.g., when the table is in a reclined position. Reducing this width to 28 in. would still accommodate 95% of our sample.
-3.  Increasing the minimum width is recommended if accommodating individuals that are morbidly obese and/or use bariatric wheelchairs is also a priority. The maximum values recorded for thigh breadth and shoulder breadth serves as a reference value should accommodations for these users be necessary.
+3.  Increasing the minimum width is recommended if accommodating individuals that are morbidly obese and/or use bariatric wheelchairs is also a priority. The maximum values recorded for thigh breadth and shoulder breadth serves as a reference value should accommodations for these users be necessary.
 4.  A depth of 15in. for a seating surface was found to be suitable based on median values of buttock-popliteal length and wheelchair seat depths.
 5.  These results reflect static anthropometry measurements and should be considered as a starting point for accessible design of a seating surface. User testing is recommended for arriving at more accurate transfer surface dimensions and design features to insure usability for a broad diversity of users and the full range of tasks that might take place on an exam table.
 
 **Notes:**
 
-1\. Steinfeld, E., Paquet, V., D'Souza, C., Joseph, C., Maisel, J., 2010. Final Report: Anthropometry of Wheeled Mobility Project. Prepared for the U.S. Access Board. IDeA Center, Buffalo, NY.
+1\. Steinfeld, E., Paquet, V., D'Souza, C., Joseph, C., Maisel, J., 2010. Final Report: Anthropometry of Wheeled Mobility Project. Prepared for the U.S. Access Board. IDeA Center, Buffalo, NY.
 
 * * * * *
 

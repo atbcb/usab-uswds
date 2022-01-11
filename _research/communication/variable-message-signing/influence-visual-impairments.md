@@ -22,11 +22,11 @@ Although clinical diagnoses like those noted above can be useful, Legge and Rubi
 
 **Severe Visual Impairment:**Inability to read ordinary newsprint even with the best correction (glasses or contact lenses).
 
-**Low Vision: **Vision that cannot be further improved by corrective lenses or medical or surgical intervention, although low vision rehabilitation may help someone to use remaining sight more effectively.
+**Low Vision: **Vision that cannot be further improved by corrective lenses or medical or surgical intervention, although low vision rehabilitation may help someone to use remaining sight more effectively.
 
-**Legal Blindness:** A central visual acuity for distance of 20/200 or poorer in the better eye with correction, or a field of vision no greater than 20 degrees in widest diameter.
+**Legal Blindness:** A central visual acuity for distance of 20/200 or poorer in the better eye with correction, or a field of vision no greater than 20 degrees in widest diameter.
 
-**Functional Blindness:** No useful vision; clinically measured light perception or less.
+**Functional Blindness:** No useful vision; clinically measured light perception or less.
 
 #### Impact of Vision Loss on Sign Legibility
 

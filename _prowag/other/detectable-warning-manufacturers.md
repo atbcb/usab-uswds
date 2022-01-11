@@ -7,9 +7,9 @@ banner-subtitle: Additional Resources
 permalink: /prowage/other/detectable-warning-manufacturers.html
 ---
 ## {{ page.title }}
-The manufacturers listed below offer truncated dome detectable warning products. Neither the Access Board nor the U.S. Government assumes liability for the contents of this list or its use, nor do they endorse manufacturers or their products.  The Access Board does not evaluate products or certify products as complying with the requirements of any accessibility standard.  Products are listed because of their potential usefulness to individuals and not because they have been verified to meet the requirements of any accessibility standard.  Direct updates or corrections to this list to <webmaster@access-board.gov>.
+The manufacturers listed below offer truncated dome detectable warning products. Neither the Access Board nor the U.S. Government assumes liability for the contents of this list or its use, nor do they endorse manufacturers or their products.  The Access Board does not evaluate products or certify products as complying with the requirements of any accessibility standard.  Products are listed because of their potential usefulness to individuals and not because they have been verified to meet the requirements of any accessibility standard.  Direct updates or corrections to this list to <webmaster@access-board.gov>.
 
-See also [Accessible Design for the Blind](http://www.accessforblind.org/dw_manufacturers.html).
+See also [Accessible Design for the Blind](http://www.accessforblind.org/dw_manufacturers.html).
 Manufacturers of Detectable Warning Products
 
 ACO DWD\
@@ -18,7 +18,7 @@ PO Box 12067\
 Casa Grande AZ 85130\
 Phone: 888-490-9552\
 Fax: 520-421-9899\
-Email: <jnielsen@aco-online.com>\
+Email: <jnielsen@aco-online.com>\
 [www.acousa.com](http://www.acousa.com/)
 >
 ADA Arcis Tactile\
@@ -28,17 +28,17 @@ North Plains, OR 97133\
 [prestressed cast stone and precast concrete products]\
 Phone: 503-647-5042\
 Fax: 503-647-7731\
-Email: <info@arcis-corp.com>\
+Email: <info@arcis-corp.com>\
 [www.arcis-corp.com](http://www.arcis-corp.com/)
 >
 ADA Armor-Tile\
 Engineered Plastics Inc.\
 300 International Drive, Suite 100\
-Williamsville, NY  14221\
+Williamsville, NY  14221\
 [Epoxy polymer composite]\
 Phone: (800) 682-2525\
 Fax: (800) 769-4463\
-Email: <sales@engplastics.com>, <info@engplastics.com>\
+Email: <sales@engplastics.com>, <info@engplastics.com>\
 [www.armor-tile.com](http://www.armor-tile.com/)
 >
 ADA Detectable Warning Mat\
@@ -56,7 +56,7 @@ Chelmsford, MA 01824\
 [Copolymer Composite Surface Applied, Retrofit Tactile Warning Surface (TWS) Panels, Composite Shell Cast-in-Place TWS Units, Wet Set Replaceable TWS Unit, Universal Radius TWS Surface Applied TWS Panel and Wet Set Replaceable TWS Unit)\
 Phone: (978) 262-9900, (800) 372-0519\
 Fax: (978) 262-9125\
-Email: <info@adatile.com>, <sales@adatile.com>\
+Email: <info@adatile.com>, <sales@adatile.com>\
 [www.adatile.com](http://www.adatile.com/)
 >
 ADA U.S.A. Safety Domes LLC\
@@ -65,7 +65,7 @@ Denver, CO. 80229\
 [Wet sets into concrete & surface mounted mats]\
 Phone: (800) 540-9277 or (303) 227-1444\
 Fax: (303) 227-1999\
-Email: <info@usasafetydomes.com>\
+Email: <info@usasafetydomes.com>\
 [www.usasafetydomes.com](http://www.usasafetydomes.com/)
 >
 ADA-ADAAG TekWay® Dome -Tiles\
@@ -75,7 +75,7 @@ Tucson, AZ 85706\
 [Hi-tech concrete inset with anchors]\
 Phone: (866) 439-3216\
 Fax: (520) 547-3515\
-Email: <csd@stronggo.com>\
+Email: <csd@stronggo.com>\
 [www.stronggo.com](http://www.stronggo.com/)
 >
 Advance Traffic Markings\
@@ -84,7 +84,7 @@ Roanoke Rapids, NC 27870\
 [Proprietary blend of high quality rubber]\
 Phone: (252) 536-2574\
 Fax: (252) 536-4940\
-email: <advance@trafficmarkings.com>\
+email: <advance@trafficmarkings.com>\
 [www.trafficmarking.com](http://www.trafficmarking.com/)
 >
 Advanced Surface Systems Inc.\
@@ -93,7 +93,7 @@ Prescott, AZ 86301\
 [Cementious detectable warning panels utilizing Advanced Fiber Technology]\
 Phone: (928) 778-3443\
 Fax: (928) 778-0533\
-email: <kchemry@hotmail.com>
+email: <kchemry@hotmail.com>
 >
 AlertMat\
 215 South Water Street, Suite 103\
@@ -109,7 +109,7 @@ El Cajon CA 92020\
 [Truncated domes systems for existing surfaces]\
 Phone: (619) 582-9600\
 Fax: (619) 582-9608\
-Email: <Ambritservices@sbcglobal.net>\
+Email: <Ambritservices@sbcglobal.net>\
 [www.dwdots.com](http://www.dwdots.com/)
 >
 Architectural Tile and Granite, Inc.\
@@ -124,7 +124,7 @@ North Hollywood, CA 91605\
 [detectable warning panels and replaceable panels (new concrete) and tiles (cured concrete)]\
 (818) 982-3600 Phone\
 (818) 982-7742 FAX\
-Email: <info@armorcastprod.com>\
+Email: <info@armorcastprod.com>\
 [www.armorcastprod.com](http://www.armorcastprod.com/)[](http://www.armorcastprod.com/)
 >
 Belgard Commercial\
@@ -148,7 +148,7 @@ Orem, UT 84058\
 [TurboMat (roller) for on-site texturing]\
 Phone: (800) 798-5791 or (801) 224-6662\
 Fax: (801) 225-1690\
-Email: <cobble@burgoyne.com>\
+Email: <cobble@burgoyne.com>\
 [www.cobblecrete.com](http://www.cobblecrete.com/)
 >
 COTE-L Industries, Inc.\
@@ -157,7 +157,7 @@ Teaneck, NJ 07666\
 [Safti-Trax applied rubber domes and Duraback polyurethane coating]\
 Phone: (201) 836-0733\
 Fax: (201) 836-5220\
-Email: <cotel@sprynet.com>\
+Email: <cotel@sprynet.com>\
 [www.cotelind.com](http://www.cotelind.com/)
 >
 Cold Spring Granite Company\
@@ -170,11 +170,11 @@ Fax: (763) 682-2382\
 >
 Detectable Warning Systems, Inc.\
 8081 Philips Highway, Suite 22\
-Jacksonville, FL  32256\
+Jacksonville, FL  32256\
 [Polyurethane surface applied and polymer-concrete inset detectable warnings]\
 Phone: (866) 999-7452 (toll-free) or (904) 448-4145\
-Fax: (904) 448-4076\
-Email: <info@detectable-warning.com>\
+Fax: (904) 448-4076\
+Email: <info@detectable-warning.com>\
 [www.detectable-warning.com](http://www.detectable-warning.com/)
 >
 DetectaShield Detectable Warning Panel\
@@ -184,7 +184,7 @@ Mingo, Iowa 50168\
 [GFRC Precast concrete]\
 Phone: (641) 363-4330\
 Fax: (641) 363-3200\
-Email: <emily@mingoproducts.com>\
+Email: <emily@mingoproducts.com>\
 [mingoproducts.com](http://mingoproducts.com/)
 >
 DetecTile Corporation\
@@ -194,7 +194,7 @@ Oak Brook, IL 60523\
 Phone: (630) 734-0277\
 Fax: (630) 734-0278\
 Contact: Andy Watne (312) 213-1507\
-Email: <watne@detectile.com>\
+Email: <watne@detectile.com>\
 [www.detectile.com](http://www.detectile.com/)\
 >\
 Disability Devices Distributor\
@@ -217,7 +217,7 @@ East Jordan, MI 49727\
 [Cast in place, embedded iron truncated domes]\
 Phone: 800-874-4100\
 Fax: 231-536-4458\
-Email: <jsnyder@ejiw.com>\
+Email: <jsnyder@ejiw.com>\
 [www.ejiw.com](http://www.ejiw.com/)
 >
 ECG Inc.\
@@ -225,7 +225,7 @@ ECG Inc.\
 Elizabeth City, NC 27909\
 Phone: (252) 333-1002\
 Fax: (252) 333-1029\
-email: <info@glass-recycling.com>\
+email: <info@glass-recycling.com>\
 [www.glass-recycling.com](http://www.glass-recycling.com/)
 >
 Endicott Clay Products Co.\
@@ -234,22 +234,22 @@ Fairbury, NE 68352\
 [Handicap Detectable Warning Paver, brick]\
 Phone: (402) 729-3315\
 Fax: (402) 729-5804\
-Email: <endicott@endicott.com>\
+Email: <endicott@endicott.com>\
 [www.endicott.com](http://www.endicott.com/)
 >
 Ennis Paint, Inc.\
 1509 S. Kaufman\
-Ennis, TX  75119\
+Ennis, TX  75119\
 [Detect-A-Mark (thermoplastic mat)]\
 Phone: (800) 331-8118\
-Email: <sales@ennispaint.net> href="mailto:<sales@ennispaint.net>"><sales@ennispaint.net>
+Email: <sales@ennispaint.net> href="mailto:<sales@ennispaint.net>"><sales@ennispaint.net>
 >
 Flint Trading, Inc.\
 PO Box 160\
 Thomasville, NC 27361-0160\
 Phone: (336) 475-6600\
 Fax: (336) 475-7900\
-Email: <sales@flinttrading.com>\
+Email: <sales@flinttrading.com>\
 [www.flinttrading.com](http://www.flinttrading.com/)
 >
 Hanover Architectural Products, Inc.\
@@ -272,7 +272,7 @@ Interlock San Diego\
 Carlsbad CA, 92008\
 Phone: 760-434-5586\
 Fax: 760-434-3840\
-Email: <dahlpete@adelphia.net>\
+Email: <dahlpete@adelphia.net>\
 [www.detectablewarnings.com](http://www.detectablewarnings.com/)
 >
 M R Casting, Inc.\
@@ -284,9 +284,9 @@ Fax: (402) 315-9696
 >
 MetaDome, LLC\
 2136 E. Dayton St.\
-Madison, Wisconsin  53704\
+Madison, Wisconsin  53704\
 [MetaPanel™, Stainless Steel embedded panels and MetaStamp™ Stainless Steel Concrete Stamps]\
-Phone/Fax:  (608) 249-8644\
+Phone/Fax:  (608) 249-8644\
 [ww.metadome.com](http://www.metadome.com/)
 >
 M R Casting, Inc.\
@@ -320,7 +320,7 @@ Neenah, Wisconsin 54957-0729\
 [Cast iron detectable warning plates]\
 Phone: (800) 558-5075 or (920) 725-7000\
 Fax: (920) 729-3661\
-Email: <construction.sales@neenahenterprises.com>\
+Email: <construction.sales@neenahenterprises.com>\
 [www.neenahfoundry.com](http://www.neenahfoundry.com/)
 >
 Nitterhouse Masonry Products, LLC\
@@ -329,7 +329,7 @@ Chambersburg, PA 17201\
 [Precast concrete V.I.P. pavers in a variety of colors]\
 Phone: (717) 267-4500\
 Fax: (717) 267-4585\
-Email: <masonry@nitterhouse.com>\
+Email: <masonry@nitterhouse.com>\
 [www.nitterhouse.com](http://www.nitterhouse.com/)
 >
 North Carolina Granite Corporation\
@@ -339,7 +339,7 @@ Mount Airy, NC 27030\
 [Granite paving]\
 Phone: (336) 786-5141, (800) 227-6242\
 Fax: (336) 719-2646\
-Email: <sales@ncgranite.com>\
+Email: <sales@ncgranite.com>\
 [www.ncgranite.com](http://www.ncgranite.com/)
 >
 Pavestone Company\
@@ -348,7 +348,7 @@ Dallas, TX 75244\
 [Concrete detectable warning paver]\
 Phone: (800) 245-PAVE, (972) 404-0400\
 Fax (972) 404-9200\
-Email: <info@pavestone.com>\
+Email: <info@pavestone.com>\
 [www.pavestone.com](http://www.pavestone.com/)
 >
 RampDome Systems\
@@ -362,10 +362,10 @@ Fax (602) 995-4431\
 SAFEZONE\
 3950 Industrial Ave Gate 2\
 Hemet,CA 92545\
-[SAFEZONE mat and VISI-MAT are flexible cement based surface applied tactile warning mats and the VISI-MAT contains retroreflectivity and SAFEZONE cement based mastic that adheres to concrete and asphalt]\
-Toll free:  (800) 481-1192\
-Phone/Fax:  (949) 933-4681\
-Email:  <jcandace@adasafezone.com>\
+[SAFEZONE mat and VISI-MAT are flexible cement based surface applied tactile warning mats and the VISI-MAT contains retroreflectivity and SAFEZONE cement based mastic that adheres to concrete and asphalt]\
+Toll free:  (800) 481-1192\
+Phone/Fax:  (949) 933-4681\
+Email:  <jcandace@adasafezone.com>\
 [www.adasafezone.com](http://www.adasafezone.com/)
 >
 Stampcrete International, Ltd.\
@@ -374,7 +374,7 @@ Liverpool, NY 13088\
 [Concrete stamping tool]\
 Phone: (800) 233-3298 or (315) 451-2837\
 Fax: (315) 451-2290\
-Email:  <info@tlcolors.com>\
+Email:  <info@tlcolors.com>\
 [www.stampcrete.com](http://www.stampcrete.com/)
 >
 Steps Plus, Inc.\
@@ -387,11 +387,11 @@ Fax: (315) 432-0612\
 >
 StoneBilt Concepts\
 9455 Boston Court\
-Henderson, CO  80640\
+Henderson, CO  80640\
 [precast concrete Detectable Warning Slabs]\
 Phone: (303) 867-6700\
 Fax: (303) 350-4140\
-Email:  <AskThePro@StoneBiltConcepts.com>[\
+Email:  <AskThePro@StoneBiltConcepts.com>[\
 www.StoneBiltConcepts.com](http://www.stonebiltconcepts.com/)
 >
 Strongwall Industries, Inc.\
@@ -428,11 +428,11 @@ Fax: (213) 489-2581\
 >
 Transit-Tile\
 1790 30th Street, Suite 440\
-Boulder, CO   80302\
+Boulder, CO   80302\
 [Transit-Tile™]\
 Phone: (303) 449-5702\
 Fax: (303) 444-5093\
-Email: <info@transit-tile.com>\
+Email: <info@transit-tile.com>\
 [www.transit-tile.com](http://www.transit-tile.com/)
 >
 Trelleborg Industri, AB\
@@ -442,8 +442,8 @@ Edison, NJ 08820\
 [Surface Applied Composite Rubber Pad]\
 Phone: (732) 494-0723\
 Fax: (732) 494-2494\
-Email Sales: <BJSutker@aol.com>\
-Email Warehouse: <alex.sonora@trelleborg.com>\
+Email Sales: <BJSutker@aol.com>\
+Email Warehouse: <alex.sonora@trelleborg.com>\
 [www.trelleborg.com](http://www.trelleborg.com/)
 >
 True Lasting Colors, Ltd.\
@@ -452,15 +452,15 @@ Liverpool, NY 13088\
 [Retrofit system for installing detectable warnings on existing concrete curb ramps and transit platforms]\
 Phone: (800) 451-9037 or (315) 641-1916\
 Fax: (315) 451-7157\
-Email:  <info@tlcolors.com>\
+Email:  <info@tlcolors.com>\
 [www.tlcolors.com](http://www.tlcolors.com/)
 >
 Ultra Poly\
 2926 So. Steele St.\
 Tacoma, WA 98409\
 Phone: (800) 872-8469\
-Fax:  (253) 272-1457\
-Email: <sales@ultrapoly.com>\
+Fax:  (253) 272-1457\
+Email: <sales@ultrapoly.com>\
 [www.ultrapoly.com](http://www.ultrapoly.com/)
 >
 Vanguard ADA Systems\
@@ -469,28 +469,28 @@ Snohomish, WA 98296\
 [Liquid epoxy formed/no seams, truncated domes]\
 Phone: 360 668 5700\
 Fax: (360) 668-3335\
-Email: <Jon@VanguardOnline.com>\
-[www.VanguardOnline.com](http://www.vanguardonline.com/) 
+Email: <Jon@VanguardOnline.com>\
+[www.VanguardOnline.com](http://www.vanguardonline.com/) 
 >
 Visul Corporation\
 428, Marilyn Lane\
 Alcoa TN 37701\
 Phone: (865) 566-5674\
-Email: <sales@visulcorporation.com>\
+Email: <sales@visulcorporation.com>\
 [www.visulcorporation.com](http://www.visulcorporation.com/)
 >
 Wausau Tile, Inc.\
 PO Box 1520\
-Wausau, WI  54402-1520\
+Wausau, WI  54402-1520\
 [ADA pavers in a variety of colors and patterns]\
-Phone:  800-388-8728\
-Fax:  715-355-4627\
-Eail:  <wtile@wausautile.com>\
+Phone:  800-388-8728\
+Fax:  715-355-4627\
+Eail:  <wtile@wausautile.com>\
 [www.WausauTile.com](http://www.wausautile.com/)
 >
 WaveCore, Inc.\
 5670 West 110th Place\
-Westminster, CO  80020\
+Westminster, CO  80020\
 [Cast in wet concrete composite polymer tile/panel, aluminum reinforced]\
 Phone/Fax: (720)256-4618\
 [www.wavecoretile.com](http://www.wavecoretile.com/)
@@ -501,5 +501,5 @@ Alliance, OH 44601\
 [Detectable warning ADA Brick]\
 Phone: (800) WGPAVER, (330) 823-1610\
 Fax: (330) 823-5502\
-Email: <Info@wgpaver.com>\
+Email: <Info@wgpaver.com>\
 [www.wgpaver.com](http://www.wgpaver.com/)

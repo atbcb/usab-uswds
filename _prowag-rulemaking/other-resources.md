@@ -15,7 +15,7 @@ is accurate or correct.
     (AASHTO)](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/other-resources?task=weblink.go&id=278)
 
 
-    Resources include: 
+    Resources include: 
 -    [Designing Sidewalks and Trails for
     Access](http://www.fhwa.dot.gov/environment/sidewalk2/index.htm),
     

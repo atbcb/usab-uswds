@@ -295,7 +295,7 @@ example, unlike the ADA guidelines, the ANSI standards require an
 additional vertical grab bar at water closets, transfer shower stalls,
 and tubs. [Detailed comparisons between the 2004 ADA guidelines and the
 IBC/ANSI standard]({{ site.baseurl }}/ada/ada-ibc-comparison/) are available on the Access Board's
-website and the International Code Council's
+website and the International Code Council's
 website at
 [www.iccsafe.org](http://www.iccsafe.org/safety/Pages/accessibility-1.aspx).
 
@@ -478,7 +478,7 @@ Some provisions in the ADA Standards specify a minimum number of elements or spa
 In the case of specifications for dimensions or sizes that involve percentages or ratios, rounding down for values less than one half is allowed.
 
 {% include recommendation.html
-text= "Dimensions expressed as a range are intended to accommodate deviations in the field. It is good practice to specify accordingly. For example, for the location of wheelchair accessible water closets (16&Prime; -- 18&Prime; centerline from side walls or partitions), specifying to the midpoint of the range (17&Prime;) will accommodate any construction variations up to 1&Prime; plus or minus. For dimensions not expressed as an absolute (\"X maximum\" or \"Y minimum\"), specify in a manner that accommodates the expected tolerance within the required dimensions by subtracting the tolerance from the required maximum or adding it to the required minimum."
+text= "Dimensions expressed as a range are intended to accommodate deviations in the field. It is good practice to specify accordingly. For example, for the location of wheelchair accessible water closets (16&Prime; to 18&Prime; centerline from side walls or partitions), specifying to the midpoint of the range (17&Prime;) will accommodate any construction variations up to 1&Prime; plus or minus. For dimensions not expressed as an absolute (\"X maximum\" or \"Y minimum\"), specify in a manner that accommodates the expected tolerance within the required dimensions by subtracting the tolerance from the required maximum or adding it to the required minimum."
 %}
 
 ##### Figures in the Standards

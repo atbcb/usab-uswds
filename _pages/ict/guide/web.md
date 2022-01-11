@@ -47,7 +47,7 @@ There are several ways of providing textual information so that it can be recogn
 
 HTML source code: `<img src="/image/ab_logo1.gif" alt="The Architectural and Transportation Barriers Compliance Board emblem-Go to Access Board website">`
 
-Link: <http://www.section508.gov/>
+Link: <http://www.section508.gov/>
 
 Similarly, the <APPLET> tag for Java applets also accepts an "alt" attribute, but it only works for browsers that provide support for Java. Often, users with slower internet connections will turn support for Java applets off. A better alternative for providing textual descriptions is to simply include the alternative text between opening and closing <APPLET> or <OBJECT> tags. For instance, if a web designer wanted to include an\
 applet called MyCoolApplet in a web page, and also include a description that the applet shows a stock ticker displaying the current price of various stocks, the designer would use the following HTML coding for example:
@@ -153,7 +153,7 @@ Creating a basic client-side image map requires several steps:
 
 * * * * *
 
-(g) Row and column headers shall be identified for data tables.
+(g) Row and column headers shall be identified for data tables.
 
 (h) Markup shall be used to associate data cells and header cells for data tables that have two or more logical levels of row or column headers.
 
@@ -165,9 +165,9 @@ Section 1194.22 (g) and (h) state that when information is displayed in a table 
 
 *How can HTML tables be made readable with assistive technology?*
 
-*Using the "Scope" Attribute in Tables* -- Using the "scope" attribute is one of the most effective ways of making HTML compliant with these requirements. It is also the simplest method to implement. The scope attribute also works with some (but not all) assistive technology in tables that use "colspan" or "rowspan" attributes in table header or data cells.
+*Using the "Scope" Attribute in Tables* -- Using the "scope" attribute is one of the most effective ways of making HTML compliant with these requirements. It is also the simplest method to implement. The scope attribute also works with some (but not all) assistive technology in tables that use "colspan" or "rowspan" attributes in table header or data cells.
 
-*Using the Scope Attribute* -- The first row of each table should include column headings. Typically, these column headings are inserted in `<TH>` tags, although `<TD>` tags can also be used. These tags at the top of each column should include the following attribute:
+*Using the Scope Attribute* -- The first row of each table should include column headings. Typically, these column headings are inserted in `<TH>` tags, although `<TD>` tags can also be used. These tags at the top of each column should include the following attribute:
 
 > `scope="col"`
 
@@ -176,7 +176,7 @@ By doing this simple step, the text in that cell becomes associated with every c
 > `scope="row"`
 
 By simply adding this attribute, the text in that cell becomes associated with every cell in that row. While this technique dramatically improves the usability of a web page, using the scope attribute does not appear to interfere in any way with browsers that do not support the attribute.\
-*Example of source code* -- the following simple table summarizes the work schedule of three employees and demonstrates these principles.
+*Example of source code* -- the following simple table summarizes the work schedule of three employees and demonstrates these principles.
 
 > `<table>`  
 >> `<tr>`  
@@ -420,7 +420,7 @@ Another technique advocated by some developers is to use the "title" attribute o
 
 This tag is supported by some but not all assistive technologies. Therefore, while it is part of the HTML 4.0 specifications, authors should use the "alt" tag in the enclosed image.
 
-Finally, the browser's status line (at the bottom of the screen) typically displays the URL of any links that the mouse is currently pointing towards. For instance, if clicking on an anchor link will send the user to [http://www.usdoj.gov](http://www.usdoj.gov/), that URL will be displayed in the status line if the user's mouse lingers on top of the anchor link. In the case of JavaScript URL's, the status line can become filled with meaningless snips of script. To prevent this effect, some web developers use special "event handlers" such as onmouseover and onmouseout to overwrite the contents of the status line with a custom message. For instance, the following link will replace the content in the status line with a custom message "Nice Choice".
+Finally, the browser's status line (at the bottom of the screen) typically displays the URL of any links that the mouse is currently pointing towards. For instance, if clicking on an anchor link will send the user to [http://www.usdoj.gov](http://www.usdoj.gov/), that URL will be displayed in the status line if the user's mouse lingers on top of the anchor link. In the case of JavaScript URL's, the status line can become filled with meaningless snips of script. To prevent this effect, some web developers use special "event handlers" such as onmouseover and onmouseout to overwrite the contents of the status line with a custom message. For instance, the following link will replace the content in the status line with a custom message "Nice Choice".
 
 > `<a href="javascript:myFcn();" onmouseover="status='Nice Choice'; return true;" onmouseout="status='';"><img src="/pix.gif"></a>`
 

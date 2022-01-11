@@ -80,25 +80,25 @@ Of the 76 subjects tested, 60 were males and 16 were females. The average age fo
 | **Gender** | 60 Male; 16 Female |
 | **Average Age** | 49.0 (±13.8) |
 | **Chair Type:** | 37 Manual; 39 Power |
-| **Hours/Day in Wheelchair** |   |
+| **Hours/Day in Wheelchair** |   |
 | <1 hr | 0 |
 | 1-2 hrs | 1 |
 | 3-5 hrs | 8 |
 | 6-12 hrs | 33 |
 | 12-24 hrs | 33 |
-| **Satisfaction with Typical Pathways** |   |
+| **Satisfaction with Typical Pathways** |   |
 | Very Unsatisfied | 7 |
 | Kind of Unsatisfied | 26 |
 | Neutral | 14 |
 | Kind of Satisfied | 21 |
 | Very Satisfied | 8 |
-| **Biggest Complaint About Pathways** |   |
+| **Biggest Complaint About Pathways** |   |
 | Roughness | 27 |
 | Cross Slope | 12 |
 | Steepness | 20 |
 | Damaged/Warped | 40 |
 | **Average Days/week leaving home** | 5.6 |
-| **Average distance traveled per day** |   |
+| **Average distance traveled per day** |   |
 | <300 feet (1 block, 90 meters) | 8 |
 | 300 to 3000 feet (1-10 blocks) | 23 |
 | 3000 to 5000 feet (10-17 blocks) | 14 |
@@ -126,67 +126,67 @@ VDV/(RMS(T^(1/4)))>1.75
 In our data analysis, this proportion was only reached at the seat accelerometer for two outside surfaces, which were both made of large concrete slabs. Because the ratio was less than 1.75 for all other surfaces, the rest of the data will only be presented as RMS accelerations.\
 **Table 5: Average RMS Values**
 
-|   | RMS Mean (m/s2) | Standard Deviation (m/s2) | Number of Subjects |
-| Roughness (in/ft) Surface Type | Seat | Foot | Back | Seat | Foot | Back | Seat | Foot | Back |
+|   | RMS Mean (m/s2) | Standard Deviation (m/s2) | Number of Subjects |
+| Roughness (in/ft) Surface Type | Seat | Foot | Back | Seat | Foot | Back | Seat | Foot | Back |
 | 0.205 Engineered | 0.57 | 0.70 | 0.45 | 0.34 | 0.34 | 0.18 | 72 | 69 | 73 |
 | 0.309 Engineered | 0.92 | 1.16 | 0.70 | 0.57 | 0.69 | 0.25 | 71 | 66 | 71 |
-| 0.383 Engineered  |  1.09 | 1.30  |  0.77 |  0.72 |  0.68 |  0.26 |  70 |  64 | 70 |
-| 0.405 Outside |  0.73 |  1.05 |  0.56 |  0.38 |  0.57 | 0.17  | 14  |  14 | 14 |
-| 0.441 Outside  | 1.25  | 1.69  | 0.84  |  0.80 | 0.82  | 0.25  |  14 | 10  |  14  |
-| 0.457 Outside | 1.40  |  1.06 |  0.91 |  1.07 | 0.51  | 1.04  | 8  | 5  | 8  |
-| 0.485 Outside | 1.09 |  1.52 | 0.65  | 1.01  |  1.02 |  0.27 |  14 | 12  | 14  |
-| 0.486 Outside |  0.86 |  1.46 | 0.65  | 0.51  | 1.29  | 0.22  | 14  | 14  | 14  |
-| 0.494 Outside  | 1.00  |  1.22 | 0.53  | 0.95  | 0.81  | 0.23  | 14  | 10  | 14  |
-| 0.565 Outside  |  1.82 |  2.90 |  1.17 | 1.27  | 2.50  | 0.91  |  7 |  5 | 7  |
-| 0.572 Engineered |  1.64 |  2.06 |  1.26 | 0.99  | 1.16  |  0.55 |  72 |  68 |  72 |
-| 0.578 Engineered |  1.37 | 1.72  |  1.10 | 0.88  |  0.98 | 0.80  | 70  | 67  |  70 |
-| 0.673 Outside |  1.51 | 2.29  | 1.30  | 0.59  | 1.03  |  0.47 | 12  | 12  | 12  |
-| 0.718 Engineered  |  1.94 | 2.55  |  1.39 |  1.15 | 1.59  | 0.45  | 68  | 65  |  68 |
-| 0.778 Outside |  2.33 |  2.79 |  1.30 | 2.14  | 1.59  | 0.56  |  14 | 13  |  14 |
-| 0.804 Outside |  1.80 |  2.51 | 1.28  | 0.92  | 1.35  | 0.51  | 14  | 14  | 14  |
-| 0.885 Outside  |  2.12 | 3.12  | 1.26  | 1.34  | 2.87  | 0.84  |  7 |  5 | 7  |
-| 0.914 Outside  | 1.51  | 2.13  | 0.82  |  1.70 | 1.32  |  0.41 |  13 | 10  | 13  |
-| 0.921 Engineered | 2.72  | 3.34  | 1.90  | 1.43  | 1.89  | 0.67  | 54  |  48 | 54  |
-| 0.947 Outside |  1.47 |  2.10 | 1.12  | 0.67  | 1.10  | 0.34  | 15  |  15 |  16 |
-| 1.053 Outside |  4.34 | 4.92  |  2.48 | 2.59  | 2.51  | 0.87  |  8 |  7 | 8  |
-| 1.213 Engineered |  2.72 | 3.47  | 2.01  | 1.55  | 2.04  | 0.77  |  66 |  63 | 66  |
-| 1.26 Outside  | 3.13  | 3.02  |  1.69 | 2.02  | 1.33  |  1.13 |  8 |  5 | 8  |
-| 1.421 Outside  | 1.91  | 2.98  | 1.52  |  0.84 |  1.65 |  0.51 |  14 |  14 | 14  |
-| 1.545 Engineered |  3.95 |  4.56 | 2.72  | 1.87  | 2.22  | 0.82  | 53  |  50 | 51  |
-| 1.68 Outside  | 3.94  | 5.21  | 3.28  | 1.99  |  2.08 | 1.19  | 13  | 10  |  13 |
-| 2.017 Outside  | 5.89  |  6.65 | 3.01  | 3.88  |  4.12 |  1.60 | 6  | 5  | 6  |
+| 0.383 Engineered  |  1.09 | 1.30  |  0.77 |  0.72 |  0.68 |  0.26 |  70 |  64 | 70 |
+| 0.405 Outside |  0.73 |  1.05 |  0.56 |  0.38 |  0.57 | 0.17  | 14  |  14 | 14 |
+| 0.441 Outside  | 1.25  | 1.69  | 0.84  |  0.80 | 0.82  | 0.25  |  14 | 10  |  14  |
+| 0.457 Outside | 1.40  |  1.06 |  0.91 |  1.07 | 0.51  | 1.04  | 8  | 5  | 8  |
+| 0.485 Outside | 1.09 |  1.52 | 0.65  | 1.01  |  1.02 |  0.27 |  14 | 12  | 14  |
+| 0.486 Outside |  0.86 |  1.46 | 0.65  | 0.51  | 1.29  | 0.22  | 14  | 14  | 14  |
+| 0.494 Outside  | 1.00  |  1.22 | 0.53  | 0.95  | 0.81  | 0.23  | 14  | 10  | 14  |
+| 0.565 Outside  |  1.82 |  2.90 |  1.17 | 1.27  | 2.50  | 0.91  |  7 |  5 | 7  |
+| 0.572 Engineered |  1.64 |  2.06 |  1.26 | 0.99  | 1.16  |  0.55 |  72 |  68 |  72 |
+| 0.578 Engineered |  1.37 | 1.72  |  1.10 | 0.88  |  0.98 | 0.80  | 70  | 67  |  70 |
+| 0.673 Outside |  1.51 | 2.29  | 1.30  | 0.59  | 1.03  |  0.47 | 12  | 12  | 12  |
+| 0.718 Engineered  |  1.94 | 2.55  |  1.39 |  1.15 | 1.59  | 0.45  | 68  | 65  |  68 |
+| 0.778 Outside |  2.33 |  2.79 |  1.30 | 2.14  | 1.59  | 0.56  |  14 | 13  |  14 |
+| 0.804 Outside |  1.80 |  2.51 | 1.28  | 0.92  | 1.35  | 0.51  | 14  | 14  | 14  |
+| 0.885 Outside  |  2.12 | 3.12  | 1.26  | 1.34  | 2.87  | 0.84  |  7 |  5 | 7  |
+| 0.914 Outside  | 1.51  | 2.13  | 0.82  |  1.70 | 1.32  |  0.41 |  13 | 10  | 13  |
+| 0.921 Engineered | 2.72  | 3.34  | 1.90  | 1.43  | 1.89  | 0.67  | 54  |  48 | 54  |
+| 0.947 Outside |  1.47 |  2.10 | 1.12  | 0.67  | 1.10  | 0.34  | 15  |  15 |  16 |
+| 1.053 Outside |  4.34 | 4.92  |  2.48 | 2.59  | 2.51  | 0.87  |  8 |  7 | 8  |
+| 1.213 Engineered |  2.72 | 3.47  | 2.01  | 1.55  | 2.04  | 0.77  |  66 |  63 | 66  |
+| 1.26 Outside  | 3.13  | 3.02  |  1.69 | 2.02  | 1.33  |  1.13 |  8 |  5 | 8  |
+| 1.421 Outside  | 1.91  | 2.98  | 1.52  |  0.84 |  1.65 |  0.51 |  14 |  14 | 14  |
+| 1.545 Engineered |  3.95 |  4.56 | 2.72  | 1.87  | 2.22  | 0.82  | 53  |  50 | 51  |
+| 1.68 Outside  | 3.94  | 5.21  | 3.28  | 1.99  |  2.08 | 1.19  | 13  | 10  |  13 |
+| 2.017 Outside  | 5.89  |  6.65 | 3.01  | 3.88  |  4.12 |  1.60 | 6  | 5  | 6  |
 
 **Table 6: Average VDV Values**
 
-|   | RMS Mean (m/s2) | Standard Deviation (m/s2) | Number of Subjects |
-| Roughness (in/ft) Surface Type | Seat | Foot | Back | Seat | Foot | Back | Seat | Foot | Back |
+|   | RMS Mean (m/s2) | Standard Deviation (m/s2) | Number of Subjects |
+| Roughness (in/ft) Surface Type | Seat | Foot | Back | Seat | Foot | Back | Seat | Foot | Back |
 | 0.205 Engineered | 1.67 | 1.68 | 1.02 | 2.15 | 0.92 | 0.46 | 72 | 69 | 73 |
 | 0.309 Engineered | 2.29 | 2.80 | 1.55 | 1.61 | 1.92 | 0.63 | 71 | 66 | 71 |
-| 0.383 Engineered  |  2.66 | 2.99 | 1.63 |  2.43 |  1.75 |  0.59 |  70 |  64 | 70 |
-| 0.405 Outside |  1.64 |  2.19 |  1.13 |  1.01 |  1.25 | 0.34 | 14  |  14 | 14 |
-| 0.441 Outside  | 3.01  | 3.97 | 1.85  |  2.23 | 2.41  | 0.62 |  14 | 10  |  14  |
-| 0.457 Outside | 3.62 |  2.62 | 2.03 | 2.67 | 1.33 | 2.14 | 8  | 5  | 8  |
-| 0.485 Outside | 2.57 | 3.67 | 1.44 | 2.30 |  2.55 |  0.60 |  14 | 12  | 14  |
-| 0.486 Outside | 2.28 | 3.82 | 1.63 | 1.41 | 3.19 | 0.60 | 14  | 14  | 14  |
-| 0.494 Outside  | 2.50 | 2.86 | 1.24 | 2.17 | 1.75 | 0.50 | 14  | 10  | 14  |
-| 0.565 Outside  |  4.35 | 6.77 | 2.48 | 3.26 | 5.24 | 2.04 |  7 |  5 | 7  |
-| 0.572 Engineered |  4.34 | 5.19 | 2.91 | 3.31 | 3.38 | 1.68 |  72 |  68 |  72 |
-| 0.578 Engineered |  2.99 | 3.68 |  2.35 | 2.13 |  2.38 | 2.48 | 70  | 67  |  70 |
-| 0.673 Outside |  3.52 | 5.23 | 2.81 | 1.57 | 2.93 | 1.09 | 12  | 12  | 12  |
-| 0.718 Engineered  |  4.65 | 6.29 |  3.06 |  3.14 | 4.34 | 1.18 | 68  | 65  |  68 |
-| 0.778 Outside |  5.49 |  6.36 | 2.75 | 5.32 | 4.17 | 1.27 |  14 | 13  |  14 |
-| 0.804 Outside |  3.70 |  5.07 | 2.65 | 2.05 | 2.77 | 1.18 | 14  | 14  | 14  |
-| 0.885 Outside  | 4.60 | 7.06 | 2.77 | 2.92 | 6.57 | 2.10 |  7 |  5 | 7  |
-| 0.914 Outside  | 3.78 | 5.50 | 1.93 | 4.17 | 3.24 |  0.94 |  13 | 10  | 13  |
-| 0.921 Engineered | 6.50 | 7.83 | 4.20 | 4.01 | 4.96 | 1.78 | 54  |  48 | 54  |
-| 0.947 Outside | 3.14 |  4.18 | 2.26 | 1.81 | 2.61 | 0.73  | 15  |  15 |  16 |
-| 1.053 Outside |  10.13 | 11.25 |  5.26 | 6.31 | 5.97 | 1.95 |  8 |  7 | 8  |
-| 1.213 Engineered | 5.87 | 7.30 | 4.05 | 3.69 | 4.62 | 1.67 |  66 |  63 | 66  |
-| 1.26 Outside  | 7.08 | 6.93 |  3.99 | 4.63 | 3.06 |  2.78 |  8 |  5 | 8  |
-| 1.421 Outside  | 4.45 | 6.74 | 3.43 | 2.11 | 3.73 | 1.23 |  14 |  14 | 14  |
-| 1.545 Engineered | 9.29 |  10.56 | 5.98 | 5.09 | 5.91 | 2.10 | 53  |  50 | 51  |
-| 1.68 Outside  | 8.86 | 11.54 | 7.11 | 5.11 |  5.22 | 2.75 | 13  | 10  |  13 |
-| 2.017 Outside  | 12.60 | 14.29 | 6.49 | 8.46 |  8.89 |  3.74 | 6  | 5  | 6  |
+| 0.383 Engineered  |  2.66 | 2.99 | 1.63 |  2.43 |  1.75 |  0.59 |  70 |  64 | 70 |
+| 0.405 Outside |  1.64 |  2.19 |  1.13 |  1.01 |  1.25 | 0.34 | 14  |  14 | 14 |
+| 0.441 Outside  | 3.01  | 3.97 | 1.85  |  2.23 | 2.41  | 0.62 |  14 | 10  |  14  |
+| 0.457 Outside | 3.62 |  2.62 | 2.03 | 2.67 | 1.33 | 2.14 | 8  | 5  | 8  |
+| 0.485 Outside | 2.57 | 3.67 | 1.44 | 2.30 |  2.55 |  0.60 |  14 | 12  | 14  |
+| 0.486 Outside | 2.28 | 3.82 | 1.63 | 1.41 | 3.19 | 0.60 | 14  | 14  | 14  |
+| 0.494 Outside  | 2.50 | 2.86 | 1.24 | 2.17 | 1.75 | 0.50 | 14  | 10  | 14  |
+| 0.565 Outside  |  4.35 | 6.77 | 2.48 | 3.26 | 5.24 | 2.04 |  7 |  5 | 7  |
+| 0.572 Engineered |  4.34 | 5.19 | 2.91 | 3.31 | 3.38 | 1.68 |  72 |  68 |  72 |
+| 0.578 Engineered |  2.99 | 3.68 |  2.35 | 2.13 |  2.38 | 2.48 | 70  | 67  |  70 |
+| 0.673 Outside |  3.52 | 5.23 | 2.81 | 1.57 | 2.93 | 1.09 | 12  | 12  | 12  |
+| 0.718 Engineered  |  4.65 | 6.29 |  3.06 |  3.14 | 4.34 | 1.18 | 68  | 65  |  68 |
+| 0.778 Outside |  5.49 |  6.36 | 2.75 | 5.32 | 4.17 | 1.27 |  14 | 13  |  14 |
+| 0.804 Outside |  3.70 |  5.07 | 2.65 | 2.05 | 2.77 | 1.18 | 14  | 14  | 14  |
+| 0.885 Outside  | 4.60 | 7.06 | 2.77 | 2.92 | 6.57 | 2.10 |  7 |  5 | 7  |
+| 0.914 Outside  | 3.78 | 5.50 | 1.93 | 4.17 | 3.24 |  0.94 |  13 | 10  | 13  |
+| 0.921 Engineered | 6.50 | 7.83 | 4.20 | 4.01 | 4.96 | 1.78 | 54  |  48 | 54  |
+| 0.947 Outside | 3.14 |  4.18 | 2.26 | 1.81 | 2.61 | 0.73  | 15  |  15 |  16 |
+| 1.053 Outside |  10.13 | 11.25 |  5.26 | 6.31 | 5.97 | 1.95 |  8 |  7 | 8  |
+| 1.213 Engineered | 5.87 | 7.30 | 4.05 | 3.69 | 4.62 | 1.67 |  66 |  63 | 66  |
+| 1.26 Outside  | 7.08 | 6.93 |  3.99 | 4.63 | 3.06 |  2.78 |  8 |  5 | 8  |
+| 1.421 Outside  | 4.45 | 6.74 | 3.43 | 2.11 | 3.73 | 1.23 |  14 |  14 | 14  |
+| 1.545 Engineered | 9.29 |  10.56 | 5.98 | 5.09 | 5.91 | 2.10 | 53  |  50 | 51  |
+| 1.68 Outside  | 8.86 | 11.54 | 7.11 | 5.11 |  5.22 | 2.75 | 13  | 10  |  13 |
+| 2.017 Outside  | 12.60 | 14.29 | 6.49 | 8.46 |  8.89 |  3.74 | 6  | 5  | 6  |
 
 Figure 14 is the graphical representation of the total RMS data for all surfaces based on roughness. The slopes of the linear trend lines show that as surface roughness increased, average RMS accelerations consequently increased. The slopes for the seat and footrest are similar while the slope for backrest is only about half that of the footrest. The R2 values show that the data fits the linear trend line fairly well.
 
@@ -229,11 +229,11 @@ As shown in Table 5, the standard deviations of the RMS values for the engineere
 
 **Questionnaire Data**
 
-Table 7 displays the results from the surface questionnaire for all surfaces. Percent Acceptable is the percent of the subjects that answered that the surface was acceptable on the questionnaire. Rating mean is the average of the ratings that the subjects chose for each surface after they traveled over them. Figure 21 shows a graphical representation of the data presented in Table 7. 
+Table 7 displays the results from the surface questionnaire for all surfaces. Percent Acceptable is the percent of the subjects that answered that the surface was acceptable on the questionnaire. Rating mean is the average of the ratings that the subjects chose for each surface after they traveled over them. Figure 21 shows a graphical representation of the data presented in Table 7. 
 
 **Table 7: Questionnaire Results**
 
-| Roughness  | % Acceptable | Rating Mean | N | Rating Std. Deviation |
+| Roughness  | % Acceptable | Rating Mean | N | Rating Std. Deviation |
 | 0.205 | 100.00% | 4.48 | 75 | 0.75 |
 | 0.309 | 95.90% | 3.92 | 74 | 0.91 |
 | 0.383 | 98.60% | 3.79 | 75 | 0.98 |
@@ -272,7 +272,7 @@ Tables 8 and 9 and Figures 22 and 23 show the questionnaire results broken down 
 
 **Table 8: Engineered Questionnaire Results**
 
-| Roughness |  % Acceptable | Mean | N | Std. Deviation |
+| Roughness |  % Acceptable | Mean | N | Std. Deviation |
 | 0.205 | 100.00% | 4.48 | 75 | 0.75 |
 | 0.309 | 95.90% | 3.92 | 74 | 0.91 |
 | 0.383 | 98.60% | 3.79 | 75 | 0.98 |
@@ -285,27 +285,27 @@ Tables 8 and 9 and Figures 22 and 23 show the questionnaire results broken down 
 
 **Table 9: Outdoor Questionnaire Results**
 
-| Roughness |  % Acceptable | Mean | N | Std. Deviation |
-| 0.405 | 100.00% | 3.9  |  15 | 0.78 |
-|  0.441 | 100.00% |  4.32 | 11 | 0.68 |
-|  0.457 | 100.00% |  4.33 | 9 | 0.56 |
-|  0.485 |  100.00% |  4.09 |  11 | 0.63 |
-|  0.486 |  100.00% |  4.17 |  15 |  0.72 |
-|  0.494 | 100.00% |  4.64 | 11 |  0.45 |
-|  0.565 |  87.50% |  4.06 |  8 |  0.56 |
-|  0.673 |  60.00% |  2.23 |  15 |  1.24 |
-|  0.778 |  100.00% |  3.09 |  11 |  0.77 |
-|  0.804 | 100.00% |  3.13 |  15 |  0.97 |
-|  0.885 |  85.70% |  2.86 |  8 |  0.75 |
-| 0.914 |  90.90% | 4.05  |  11 |  0.76 |
-|  0.947 |  100.00% | 3.53  |  15 | 0.97  |
-|  1.053 | 25.00%  |  2.13 | 8  |  0.83 |
+| Roughness |  % Acceptable | Mean | N | Std. Deviation |
+| 0.405 | 100.00% | 3.9  |  15 | 0.78 |
+|  0.441 | 100.00% |  4.32 | 11 | 0.68 |
+|  0.457 | 100.00% |  4.33 | 9 | 0.56 |
+|  0.485 |  100.00% |  4.09 |  11 | 0.63 |
+|  0.486 |  100.00% |  4.17 |  15 |  0.72 |
+|  0.494 | 100.00% |  4.64 | 11 |  0.45 |
+|  0.565 |  87.50% |  4.06 |  8 |  0.56 |
+|  0.673 |  60.00% |  2.23 |  15 |  1.24 |
+|  0.778 |  100.00% |  3.09 |  11 |  0.77 |
+|  0.804 | 100.00% |  3.13 |  15 |  0.97 |
+|  0.885 |  85.70% |  2.86 |  8 |  0.75 |
+| 0.914 |  90.90% | 4.05  |  11 |  0.76 |
+|  0.947 |  100.00% | 3.53  |  15 | 0.97  |
+|  1.053 | 25.00%  |  2.13 | 8  |  0.83 |
 | 1.26 | 77.80% | 2.94 | 9 | 1.07 |
 | 1.421 | 20.00% | 1.43 | 15 | 0.82 |
 | 1.68 | 27.30% | 1.32 | 11 | 0.98 |
 | 2.017 | 12.50% | 1.19 | 8 | 1.1 |
 
- ![This figure shows the linear regression of percent of subjects that said the surface was acceptable split between engineered surfaces and outside surfaces.  Surface roughness is on the x-axis and percent acceptable is on the y-axis.  Both trendlines go from the top left to the bottom right.  The Engineered surfaces have an r-squared value of .97 while the outside surfaces have an r-squared value of .69.  The slopes of the Engineered and outside lines are -43.35 and -58.61 respectively.](https://www.access-board.gov/images/research/surface-roughness/22.JPG)
+ ![This figure shows the linear regression of percent of subjects that said the surface was acceptable split between engineered surfaces and outside surfaces.  Surface roughness is on the x-axis and percent acceptable is on the y-axis.  Both trendlines go from the top left to the bottom right.  The Engineered surfaces have an r-squared value of .97 while the outside surfaces have an r-squared value of .69.  The slopes of the Engineered and outside lines are -43.35 and -58.61 respectively.](https://www.access-board.gov/images/research/surface-roughness/22.JPG)
 
 **Figure 22: Percent Acceptable Engineered vs. Outside**
 

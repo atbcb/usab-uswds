@@ -5,7 +5,7 @@ Guidance on the Telecommunications Act Section 255 Guidelines
 
 #### Section 255
 
-As technology continues to improve our means of telecommunication, it can pose challenges to accessibility on one hand, while on the other hold the key to innovative access solutions.  Section 255 of the Communications Act requires telecommunications products and services to be accessible to people with disabilities.  This is required to the extent access is "readily achievable," meaning easily accomplishable, without much difficulty or expense.  If manufacturers cannot make their products accessible then they must design products to be compatible with adaptive equipment used by people with disabilities, where readily achievable.  What is  readily achievable  will be different for each manufacturer based on the costs of making products accessible or compatible and their resources.
+As technology continues to improve our means of telecommunication, it can pose challenges to accessibility on one hand, while on the other hold the key to innovative access solutions.  Section 255 of the Communications Act requires telecommunications products and services to be accessible to people with disabilities.  This is required to the extent access is "readily achievable," meaning easily accomplishable, without much difficulty or expense.  If manufacturers cannot make their products accessible then they must design products to be compatible with adaptive equipment used by people with disabilities, where readily achievable.  What is  readily achievable  will be different for each manufacturer based on the costs of making products accessible or compatible and their resources.
 
 #### What's Covered
 
@@ -29,19 +29,19 @@ Manufacturers must ensure that products are "designed, developed, and fabricated
 
 #### What is the Access Board?
 
-The Access Board is an independent Federal agency that develops and maintains accessibility guidelines and standards. This includes not only the guidelines issued under the Communications Act, but guidelines for the built environment and transit vehicles developed under other laws such as the Americans with Disabilities Act, as well as standards for electronic and information technology. The Board provides technical assistance and training on its guidelines and standards, but does not have any enforcement authority under the Communications Act.
+The Access Board is an independent Federal agency that develops and maintains accessibility guidelines and standards. This includes not only the guidelines issued under the Communications Act, but guidelines for the built environment and transit vehicles developed under other laws such as the Americans with Disabilities Act, as well as standards for electronic and information technology. The Board provides technical assistance and training on its guidelines and standards, but does not have any enforcement authority under the Communications Act.
 
 #### Telecommunications Act Accessibility Guidelines
 
-The Board's final guidelines, published in February 1998, were developed with help from an advisory committee the Board created for this purpose.  The Telecommunications Access Advisory Committee included product manufacturers, service providers, disability groups, and experts in communication access.  The final guidelines were developed closely based upon this committee's recommendations.  The guidelines were published in proposed form and made available for public comment in April 1997.
+The Board's final guidelines, published in February 1998, were developed with help from an advisory committee the Board created for this purpose.  The Telecommunications Access Advisory Committee included product manufacturers, service providers, disability groups, and experts in communication access.  The final guidelines were developed closely based upon this committee's recommendations.  The guidelines were published in proposed form and made available for public comment in April 1997.
 
 #### Performance Criteria
 
-The guidelines focus on establishing what equipment must be able to do, as opposed to specifying exactly how access is achieved, which will likely vary among different types of products.  Structured as performance requirements, the guidelines detail the operating characteristics and product capabilities necessary for access. This approach is used because the products covered are varied and ever changing through technological innovations.  The guidelines address products and equipment, including input, output, operating controls and mechanisms, and product information and documentation. Access is covered for people with disabilities affecting hearing, vision, movement, manipulation, speech, and interpretation of information.
+The guidelines focus on establishing what equipment must be able to do, as opposed to specifying exactly how access is achieved, which will likely vary among different types of products.  Structured as performance requirements, the guidelines detail the operating characteristics and product capabilities necessary for access. This approach is used because the products covered are varied and ever changing through technological innovations.  The guidelines address products and equipment, including input, output, operating controls and mechanisms, and product information and documentation. Access is covered for people with disabilities affecting hearing, vision, movement, manipulation, speech, and interpretation of information.
 
 #### Advisory "Strategies"
 
-The guidelines also provide guidance material on how certain performance requirements can be met.  These "strategies" provide examples on the means for achieving access.  This information, contained in the appendix to the guidelines, is advisory rather than mandatory.
+The guidelines also provide guidance material on how certain performance requirements can be met.  These "strategies" provide examples on the means for achieving access.  This information, contained in the appendix to the guidelines, is advisory rather than mandatory.
 
 #### Input, Control, and Mechanical Functions
 
@@ -53,9 +53,9 @@ The guidelines require that input, control, and mechanical functions be accessib
 -   limited or no speech ability
 -   limited cognitive skills
 
-For example, the guidelines require that a product be operable without vision by providing at least one mode that does not require user vision.  Another example from the guidelines requires that a product be operable without hearing by providing at least one mode that does not require user auditory perception.
+For example, the guidelines require that a product be operable without vision by providing at least one mode that does not require user vision.  Another example from the guidelines requires that a product be operable without hearing by providing at least one mode that does not require user auditory perception.
 
-A product must meet each requirement when it is "readily achievable" to do so.  Determining what is readily achievable for each product is to be "assessed independently" for each specified type of access.  For example, making a product operable without vision is to be explored separately from the ability to make it operable without hearing.
+A product must meet each requirement when it is "readily achievable" to do so.  Determining what is readily achievable for each product is to be "assessed independently" for each specified type of access.  For example, making a product operable without vision is to be explored separately from the ability to make it operable without hearing.
 
 #### Output, Display, and Control Functions
 
@@ -75,7 +75,7 @@ For example, the guidelines require that visual information be provided in at le
 
 #### Product Compatibility with Adaptive Equipment
 
-The guidelines also cover compatibility between products and adaptive equipment people with disabilities commonly use for access to telecommunications.  This is required where it is not readily achievable to make the product directly accessible to the user.  Requirements for compatibility include:
+The guidelines also cover compatibility between products and adaptive equipment people with disabilities commonly use for access to telecommunications.  This is required where it is not readily achievable to make the product directly accessible to the user.  Requirements for compatibility include:
 
 -   providing all information for operating products in a standard electronic text format since people with significant or multiple disabilities may not be able to use the built-in displays and control mechanisms of a product
 -   a connection point on products with auditory output so that people with hearing impairments can plug in devices, such as hearing aids and amplifying headphones, that isolate and enhance the output
@@ -84,17 +84,17 @@ The guidelines also cover compatibility between products and adaptive equipment 
 
 #### Design Planning and Product Information
 
-Manufacturers are required to develop a process for ensuring that access and usability are considered in the earliest design phases for a product.  The guidelines also require access to user guides, installation guides, and product support. This includes information on the product in general and on its accessibility features.  Access requires provision of information through alternate formats or modes of communication, such as:
+Manufacturers are required to develop a process for ensuring that access and usability are considered in the earliest design phases for a product.  The guidelines also require access to user guides, installation guides, and product support. This includes information on the product in general and on its accessibility features.  Access requires provision of information through alternate formats or modes of communication, such as:
 
-- Braille    -  cassette recordings   - large print- electronic text   - Internet postings - TTY access- captioning and audio description for video materials
+- Braille    -  cassette recordings   - large print- electronic text   - Internet postings - TTY access- captioning and audio description for video materials
 
 The guidelines provide advisory information on these formats and communication methods, including how they serve people with disabilities and recommendations for good practice.
 
 #### Enforcement
 
-The Federal Communications Commission (FCC) has sole jurisdiction over enforcement of section 255, and the law does not provide any "private right of action" which means that anyone concerned about access as required under the law can file a complaint with the FCC, but not a suit in court.  Regulations issued by the FCC will explain the enforcement process and compliance with the law, including the role of the Board's guidelines. 
+The Federal Communications Commission (FCC) has sole jurisdiction over enforcement of section 255, and the law does not provide any "private right of action" which means that anyone concerned about access as required under the law can file a complaint with the FCC, but not a suit in court.  Regulations issued by the FCC will explain the enforcement process and compliance with the law, including the role of the Board's guidelines. 
 
-### Frequently Asked Questions about the Communications Act (Section 255)
+### Frequently Asked Questions about the Communications Act (Section 255)
 
 1.  [What is covered by Section 255?](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-telecommunications-act-guidelines/guidance-on-the-telecommunications-act-%C2%A7255-guidelines#faq1)
 2.  [When did section 255 take effect?](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-telecommunications-act-guidelines/guidance-on-the-telecommunications-act-%C2%A7255-guidelines#faq2)
@@ -111,10 +111,10 @@ The Federal Communications Commission (FCC) has sole jurisdiction over enforceme
 
 A: Telecommunications equipment and customer premises equipment designed, developed and fabricated after the effective date of the section, including, but not limited to, telephones, pagers, fax machines, computers with modems, etc.
 
--   Telecommunications equipment.  Equipment, other than customer premises equipment, used by a carrier to provide telecommunications services, and includes software integral to such equipment (including upgrades).
--   Customer premises equipment.  Equipment employed on the premises of a person (other than a carrier) to originate, route, or terminate telecommunications.
--   Telecommunications.  The transmission, between or among points specified by the user, of information of the user's choosing, without change in the form or content of the information as sent and received.
--   Telecommunications service.  The offering of telecommunications for a fee directly to the public, or to such classes of users as to be effectively available directly to the public, regardless of the facilities used.
+-   Telecommunications equipment.  Equipment, other than customer premises equipment, used by a carrier to provide telecommunications services, and includes software integral to such equipment (including upgrades).
+-   Customer premises equipment.  Equipment employed on the premises of a person (other than a carrier) to originate, route, or terminate telecommunications.
+-   Telecommunications.  The transmission, between or among points specified by the user, of information of the user's choosing, without change in the form or content of the information as sent and received.
+-   Telecommunications service.  The offering of telecommunications for a fee directly to the public, or to such classes of users as to be effectively available directly to the public, regardless of the facilities used.
 
 #### 2) Q: When did section 255 take effect?
 
@@ -130,7 +130,7 @@ A: A manufacturer is the company that sells to the public or to vendors that sel
 
 #### 5) Q: What are manufacturers required to do?
 
-A: Manufacturers must ensure that such equipment is accessible and usable, if it is readily achievable.  If accessibility is not readily achievable, the manufacturer must make the equipment compatible with peripheral devices used by people with disabilities, if that is readily achievable.
+A: Manufacturers must ensure that such equipment is accessible and usable, if it is readily achievable.  If accessibility is not readily achievable, the manufacturer must make the equipment compatible with peripheral devices used by people with disabilities, if that is readily achievable.
 
 #### 6) Q: How will the requirements be enforced?
 
@@ -146,8 +146,8 @@ A: The manufacturer, based on the cost and its resources.
 
 #### 9) Q: How will a manufacturer know whether a product is accessible, usable or compatible?
 
-A: Section 255(e) required the Access Board to issue guidelines setting forth criteria for accessibility and compatibility.  The final guidelines were issued February 3, 1998, and became effective March 5, 1998.
+A: Section 255(e) required the Access Board to issue guidelines setting forth criteria for accessibility and compatibility.  The final guidelines were issued February 3, 1998, and became effective March 5, 1998.
 
 #### 10) Q: What do the guidelines address?
 
-A: The guidelines specify that manufacturers must develop a process for ensuring that accessibility and usability are considered in the earliest product design phases and provide information on how to use the product that is usable by persons with disabilities.  A set of functional criteria is provided and an appendix with useful strategies for incorporation of accessibility.
+A: The guidelines specify that manufacturers must develop a process for ensuring that accessibility and usability are considered in the earliest product design phases and provide information on how to use the product that is usable by persons with disabilities.  A set of functional criteria is provided and an appendix with useful strategies for incorporation of accessibility.

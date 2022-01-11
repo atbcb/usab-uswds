@@ -6,8 +6,8 @@ file-description: PDF version of Chapter 4 Ramps and Curb Ramps Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-4-ramps-and-curb-ramps/
 ---
-This guide explains requirements in the [ADA
-Standards]({{ site.baseurl }}/ada/) for ramps and curb ramps.
+This guide explains requirements in the [ADA
+Standards]({{ site.baseurl }}/ada/) for ramps and curb ramps.
 
 ### Where Ramps and Curb Ramps are Required
 
@@ -96,7 +96,7 @@ least as wide as ramp run. Notes: Grade breaks (i.e., where the change
 in slope occurs) must be perpendicular to the direction of ramp runs to
 prevent cross-slope issues and uneven surfaces. No change in level is
 permitted within landings other than slopes 1:48
-max.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr5.jpg){: .img-large} 
+max.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr5.jpg){: .img-large} 
 
 Intermediate landings between runs must be at least 60" wide clear and
 60" long clear where ramps change direction (any change from linear).
@@ -117,7 +117,7 @@ direction. Notes: Handrails Extensions must be linear, but can turn or
 wrap where handrails are continuous at the inside turn of dogleg or
 switchback ramps. Configuration Recommendation: Align runs less than 60"
 wide to the outer edge of landings for easier wheelchair maneuvering
-between runs.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr7.jpg){: .img-large} 
+between runs.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr7.jpg){: .img-large} 
 
 ### Doorways at Landings
 
@@ -135,7 +135,7 @@ landing.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr8.jpg){: .img
 
 ### Handrails
 
-[[§405.8]({{ site.baseurl }}/ada/#ada-405_8), [§505]({{ site.baseurl }}/ada/#ada-505)]
+[[§405.8]({{ site.baseurl }}/ada/#ada-405_8), [§505]({{ site.baseurl }}/ada/#ada-505)]
 
 Handrails are required on both sides of ramps with a rise greater than
 6". The Standards do not require lower handrails serving children except
@@ -186,7 +186,7 @@ clearance behind, and clearance below that is 1 ½" (less 1/8" for each
 ½" additional perimeter dimension. Note: Non-circular cross sections
 must have rounded edges and meet perimeter and cross-section dimensions.
 Other profiles meeting these criteria are
-permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}  
+permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}  
 
 #### Aisle Ramps in Assembly Areas
 
@@ -449,7 +449,7 @@ A 48" min. long separation is necessary between curb ramps so that
 people using wheelchairs can clear one ramp before negotiating the next.
 Level cut-throughs provide an effective alternative, especially at
 narrow islands that will not accommodate opposing curb ramps with a 48"
-separation. 
+separation. 
 
 ##### Island with Curb Ramps
 
