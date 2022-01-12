@@ -18,7 +18,7 @@ We need your help to comply with this Act!  Let us know if you have trouble unde
 
 We have assigned staff to oversee our plain language efforts:
 
--   Christopher J. Kuczynski, Acting General Counsel, Plain Language Contact
+-   Christopher J. Kuczynski, General Counsel, Plain Language Contact
 
 We continue to train our employees and strengthen our oversight process.  We must use plain language in any document that:
 
@@ -33,7 +33,7 @@ We are required to [report]({{ site.baseurl }}/about/pwa-report.html) on our pro
 ## PWA Contact:
 
 > Christopher J. Kuczynski  
-> Acting General Counsel  
+> General Counsel  
 > U.S. Access Board  
 > 1331 F Street NW, Suite 1000  
 > Washington, DC 20004  
