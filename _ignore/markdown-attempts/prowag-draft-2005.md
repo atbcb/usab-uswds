@@ -1668,7 +1668,7 @@ International Symbol of Accessibility**
 
 **R410 Bus Stops**
 
-**R410.1 Bus Boarding and Alighting Areas.** Bus boarding and alighting areas shall comply with R410.
+**R410.1 Bus Boarding and Alighting Areas.** Bus boarding and alighting areas shall comply with R410.
 
 |
 
@@ -1678,17 +1678,17 @@ International Symbol of Accessibility**
 
 > **R410.1.1 Surface**. Bus stop boarding and alighting areas shall have a firm, stable, and slip resistant surface.
 >
-> **R410.1.2 Dimensions.** Bus stop boarding and alighting areas shall provide a clear length of 2.4 m (8.0 ft) minimum, measured perpendicular to the curb or vehicle street or highway edge, and a clear width of 1.5 m (5.0 ft) minimum, measured parallel to the vehicle street or highway.
+> **R410.1.2 Dimensions.** Bus stop boarding and alighting areas shall provide a clear length of 2.4 m (8.0 ft) minimum, measured perpendicular to the curb or vehicle street or highway edge, and a clear width of 1.5 m (5.0 ft) minimum, measured parallel to the vehicle street or highway.
 >
-> **R410.1.3 Connection.** Bus stop boarding and alighting areas shall be connected to streets, sidewalks, or pedestrian paths by a pedestrian access route complying with R301.
+> **R410.1.3 Connection.** Bus stop boarding and alighting areas shall be connected to streets, sidewalks, or pedestrian paths by a pedestrian access route complying with R301.
 >
-> **R410.1.4 Grade.** Parallel to the street or highway, the grade of the bus stop boarding and alighting area shall be the same as the street or highway, to the maximum extent practicable. Perpendicular to the street or highway, the grade of the bus stop boarding and alighting area shall not be steeper than 2 percent.
+> **R410.1.4 Grade.** Parallel to the street or highway, the grade of the bus stop boarding and alighting area shall be the same as the street or highway, to the maximum extent practicable. Perpendicular to the street or highway, the grade of the bus stop boarding and alighting area shall not be steeper than 2 percent.
 
-**R410.2 Bus Shelters.** Bus shelters shall provide a minimum clear space complying with R402 entirely within the shelter. Bus shelters shall be connected by pedestrian access route complying with R301 to a boarding and alighting area complying with R410.1.
+**R410.2 Bus Shelters.** Bus shelters shall provide a minimum clear space complying with R402 entirely within the shelter. Bus shelters shall be connected by pedestrian access route complying with R301 to a boarding and alighting area complying with R410.1.
 
 **R411 Doors, Doorways, and Gates**
 
-**R411.1 General.** Doors, doorways, and gates that are part of a pedestrian access route shall comply with R411.
+**R411.1 General.** Doors, doorways, and gates that are part of a pedestrian access route shall comply with R411.
 
 |
 
@@ -1696,17 +1696,17 @@ International Symbol of Accessibility**
 
  |
 
-**R411.2 Manual Doors, Doorways, and Manual Gates.** Manual doors and doorways and manual gates intended for user passage shall comply with R411.2.
+**R411.2 Manual Doors, Doorways, and Manual Gates.** Manual doors and doorways and manual gates intended for user passage shall comply with R411.2.
 
-> **R411.2.1 Revolving Doors, Gates, and Turnstiles.** Revolving doors, revolving gates, and turnstiles shall not be part of a pedestrian access route.
+> **R411.2.1 Revolving Doors, Gates, and Turnstiles.** Revolving doors, revolving gates, and turnstiles shall not be part of a pedestrian access route.
 >
-> **R411.2.2 Double-Leaf Doors and Gates.** At least one of the active leaves of doorways with two leaves shall comply with R411.2.3 and R411.2.4.
+> **R411.2.2 Double-Leaf Doors and Gates.** At least one of the active leaves of doorways with two leaves shall comply with R411.2.3 and R411.2.4.
 >
-> **R411.2.3 Clear Width.** Door openings shall provide a clear width of 82 cm (32 in) minimum. Clear openings of doorways with swinging doors shall be measured between the face of the door and the stop, with the door open 90 degrees. Openings more than 61 cm (24 in) deep shall provide a clear opening of 92 cm (36 in) minimum. There shall be no projections into the required clear opening width lower than 87 cm (34 in) above the finish floor or ground. Projections into the clear opening width between 87 cm (34 in) and 2 m (6.7 ft) above the finish floor or ground shall not exceed 100 mm (4 in).
+> **R411.2.3 Clear Width.** Door openings shall provide a clear width of 82 cm (32 in) minimum. Clear openings of doorways with swinging doors shall be measured between the face of the door and the stop, with the door open 90 degrees. Openings more than 61 cm (24 in) deep shall provide a clear opening of 92 cm (36 in) minimum. There shall be no projections into the required clear opening width lower than 87 cm (34 in) above the finish floor or ground. Projections into the clear opening width between 87 cm (34 in) and 2 m (6.7 ft) above the finish floor or ground shall not exceed 100 mm (4 in).
 >
-> **R411.2.4 Maneuvering Clearances.** Minimum maneuvering clearances at doors and gates shall comply with R411.2.4. Maneuvering clearances shall extend the full width of the doorway and the required latch side or hinge side clearance.
+> **R411.2.4 Maneuvering Clearances.** Minimum maneuvering clearances at doors and gates shall comply with R411.2.4. Maneuvering clearances shall extend the full width of the doorway and the required latch side or hinge side clearance.
 >
-> > **R411.2.4.1 Swinging Doors and Gates.** Swinging doors and gates shall have maneuvering clearances complying with Table R411.2.4.1.
+> > **R411.2.4.1 Swinging Doors and Gates.** Swinging doors and gates shall have maneuvering clearances complying with Table R411.2.4.1.
 
 **R411.2.4.1 Maneuvering Clearances at Manual Swinging Doors and Gates**
 
@@ -1857,19 +1857,19 @@ Push
  |
 |
 
-1. Add 305 cm (12 in) if closer and latch are provided.\
-2. Add 150 mm (6 in) if closer and latch are provided.\
-3. Beyond hinge side.\
-4. Add150 mm (6 in) if closer is provided.
+1. Add 305 cm (12 in) if closer and latch are provided.\
+2. Add 150 mm (6 in) if closer and latch are provided.\
+3. Beyond hinge side.\
+4. Add150 mm (6 in) if closer is provided.
 
  |
 
 > >\
-> > **R411.2.4.2 Doorways without Doors or Gates, Sliding Doors, and Folding Doors.** Doorways less than 92 cm (36 in) wide without doors or gates, sliding doors, or folding doors shall have maneuvering clearances complying with Table R411.2.4.2.
+> > **R411.2.4.2 Doorways without Doors or Gates, Sliding Doors, and Folding Doors.** Doorways less than 92 cm (36 in) wide without doors or gates, sliding doors, or folding doors shall have maneuvering clearances complying with Table R411.2.4.2.
 
 **R411.2.4.2 Maneuvering Clearances at Doorways without Doors or Gates, Manual Sliding Doors, and Manual Folding Doors**
 
-|   |
+|   |
 
 Minimum Maneuvering Clearance
 
@@ -1941,12 +1941,12 @@ From stop/latch side
  |
 |
 
-1. Doorway with no door only.\
-2. Beyond pocket/hinge side.
+1. Doorway with no door only.\
+2. Beyond pocket/hinge side.
 
  |
 
-> > **R411.2.4.3 Recessed Doors and Gates.** Maneuvering clearances for forward approach shall be provided when any obstruction within 46 cm (18 in) of the latch side of a doorway projects more than 205 mm (8 in) beyond the face of the door, measured perpendicular to the face of the door or gate.
+> > **R411.2.4.3 Recessed Doors and Gates.** Maneuvering clearances for forward approach shall be provided when any obstruction within 46 cm (18 in) of the latch side of a doorway projects more than 205 mm (8 in) beyond the face of the door, measured perpendicular to the face of the door or gate.
 
 |
 
@@ -1954,43 +1954,43 @@ From stop/latch side
 
  |
 
-> > **R411.2.4.4 Floor or Ground Surface.** Floor or ground surface within required maneuvering clearances shall comply with R301.5.
+> > **R411.2.4.4 Floor or Ground Surface.** Floor or ground surface within required maneuvering clearances shall comply with R301.5.
 >
-> **R411.2.5 Doors in Series and Gates in Series.** The distance between two hinged or pivoted doors in series and gates in series shall be 1.2 m (48 in) minimum plus the width of doors or gates swinging into the space.
+> **R411.2.5 Doors in Series and Gates in Series.** The distance between two hinged or pivoted doors in series and gates in series shall be 1.2 m (48 in) minimum plus the width of doors or gates swinging into the space.
 >
-> **R411.2.6 Door and Gate Hardware.** Handles, pulls, latches, locks, and other operable parts on doors and gates shall comply with R405. Operable parts of such hardware shall be 87 cm (34 in) minimum and 122 cm (48 in) maximum above the finish floor or ground. Where sliding doors are in the fully open position, operating hardware shall be exposed and usable from both sides.
+> **R411.2.6 Door and Gate Hardware.** Handles, pulls, latches, locks, and other operable parts on doors and gates shall comply with R405. Operable parts of such hardware shall be 87 cm (34 in) minimum and 122 cm (48 in) maximum above the finish floor or ground. Where sliding doors are in the fully open position, operating hardware shall be exposed and usable from both sides.
 
 **R412 Passenger Loading Zones**
 
-**R412.1 General.** Passenger loading zones shall comply with R412.
+**R412.1 General.** Passenger loading zones shall comply with R412.
 
-**R412.2 Vehicle Pull-Up Space.** Passenger loading zones shall provide a vehicular pull-up space 2.4 m (8 ft) wide minimum and 6.1 m (20 ft) long minimum.
+**R412.2 Vehicle Pull-Up Space.** Passenger loading zones shall provide a vehicular pull-up space 2.4 m (8 ft) wide minimum and 6.1 m (20 ft) long minimum.
 
-**R412.3 Access Aisle.** Passenger loading zones shall provide access aisles complying with R412 adjacent to the vehicle pull-up space. Access aisles shall adjoin a pedestrian access route and shall not overlap the vehicular way.
+**R412.3 Access Aisle.** Passenger loading zones shall provide access aisles complying with R412 adjacent to the vehicle pull-up space. Access aisles shall adjoin a pedestrian access route and shall not overlap the vehicular way.
 
-> **R412.3.1 Width.** Access aisles serving vehicle pull-up spaces shall be 1.5 m (5.0 ft) wide minimum.
+> **R412.3.1 Width.** Access aisles serving vehicle pull-up spaces shall be 1.5 m (5.0 ft) wide minimum.
 >
-> **R412.3.2 Length.** Access aisles shall extend the full length of the vehicle pull-up spaces they serve.
+> **R412.3.2 Length.** Access aisles shall extend the full length of the vehicle pull-up spaces they serve.
 >
-> **R412.3.3 Marking.** Access aisles shall be marked so as to discourage parking in them.
+> **R412.3.3 Marking.** Access aisles shall be marked so as to discourage parking in them.
 
-**R412.4 Floor and Ground Surfaces.** Access aisles serving vehicle pull-up spaces shall comply with R301.5. Access aisles shall be at the same level as the vehicle pull-up space they serve.
+**R412.4 Floor and Ground Surfaces.** Access aisles serving vehicle pull-up spaces shall comply with R301.5. Access aisles shall be at the same level as the vehicle pull-up space they serve.
 
-**R412.5 Vertical Clearance.** Vehicle pull-up spaces, access aisles serving them, and a vehicular route to and from the passenger loading zone shall provide a vertical clearance of 3 m (9.5 ft) minimum.
+**R412.5 Vertical Clearance.** Vehicle pull-up spaces, access aisles serving them, and a vehicular route to and from the passenger loading zone shall provide a vertical clearance of 3 m (9.5 ft) minimum.
 
 **R413 Drinking Fountains**
 
-**R413.1 General.** Drinking fountains shall comply with R401 and R413.
+**R413.1 General.** Drinking fountains shall comply with R401 and R413.
 
-**R413.2 Clear Floor Space. **Units shall have a clear space complying with R402 positioned for a forward approach and centered on the unit. Knee and toe clearance complying with R403 shall be provided.
+**R413.2 Clear Floor Space. **Units shall have a clear space complying with R402 positioned for a forward approach and centered on the unit. Knee and toe clearance complying with R403 shall be provided.
 
-**R413.3 Operable Parts.** Operable parts shall comply with R405.
+**R413.3 Operable Parts.** Operable parts shall comply with R405.
 
-**R413.4 Spout Height.** Spout outlets shall be 92 cm (36 in) maximum above the finish floor or ground.
+**R413.4 Spout Height.** Spout outlets shall be 92 cm (36 in) maximum above the finish floor or ground.
 
-**R413.5 Spout Location.** The spout shall be located 38 cm (15 in) minimum from the vertical support and 125 mm (5 in) maximum from the front edge of the unit, including bumpers.
+**R413.5 Spout Location.** The spout shall be located 38 cm (15 in) minimum from the vertical support and 125 mm (5 in) maximum from the front edge of the unit, including bumpers.
 
-**R413.6 Water Flow. **The spout shall provide a flow of water 100 mm (4 in) high minimum and shall be located 125 mm (5 in) maximum from the front of the unit. The angle of the water stream shall be measured horizontally relative to the front face of the unit. Where spouts are located less than 75 mm (3 in) of the front of the unit, the angle of the water stream shall be 30 degrees maximum. Where spouts are located between 75 mm (3 in) and 125 mm (5 in) maximum from the front of the unit, the angle of the water stream shall be 15 degrees maximum.
+**R413.6 Water Flow. **The spout shall provide a flow of water 100 mm (4 in) high minimum and shall be located 125 mm (5 in) maximum from the front of the unit. The angle of the water stream shall be measured horizontally relative to the front face of the unit. Where spouts are located less than 75 mm (3 in) of the front of the unit, the angle of the water stream shall be 30 degrees maximum. Where spouts are located between 75 mm (3 in) and 125 mm (5 in) maximum from the front of the unit, the angle of the water stream shall be 15 degrees maximum.
 
 |
 
@@ -1998,17 +1998,17 @@ From stop/latch side
 
  |
 
-**R413.7 Drinking Fountains for Standing Persons.** Spout outlets of drinking fountains for standing persons shall be 97 cm (38 in) minimum and 109 cm (43 in) maximum above the finish floor or ground.
+**R413.7 Drinking Fountains for Standing Persons.** Spout outlets of drinking fountains for standing persons shall be 97 cm (38 in) minimum and 109 cm (43 in) maximum above the finish floor or ground.
 
 **R414 Rail Platforms**
 
-**R414.1 General.** Rail platforms shall comply with R414. In light rail, commuter rail, and intercity rail systems, platforms shall provide level-entry boarding where structurally and operationally practicable.
+**R414.1 General.** Rail platforms shall comply with R414. In light rail, commuter rail, and intercity rail systems, platforms shall provide level-entry boarding where structurally and operationally practicable.
 
-**R414.2 Slope.** Rail platforms shall not exceed a slope of 2 percent in all directions. Where platforms serve vehicles operating on existing track or track laid in existing street or highway, the slope of the platform parallel to the track shall be permitted to be equal to the slope (grade) of the street or highway or existing track.
+**R414.2 Slope.** Rail platforms shall not exceed a slope of 2 percent in all directions. Where platforms serve vehicles operating on existing track or track laid in existing street or highway, the slope of the platform parallel to the track shall be permitted to be equal to the slope (grade) of the street or highway or existing track.
 
-**R414.3 Detectable Warnings.** Platform boarding edges not protected by platform screens or guards shall have detectable warnings complying with R304 along the full length of the public use area of the platform.
+**R414.3 Detectable Warnings.** Platform boarding edges not protected by platform screens or guards shall have detectable warnings complying with R304 along the full length of the public use area of the platform.
 
-**R414.4 Platform and Vehicle Floor Coordination.** Station platforms shall be positioned to coordinate with vehicles in accordance with the applicable requirements of 36 CFR part 1192 (ADA Accessibility Guidelines for Transportation Vehicles). Low-level platforms shall be 205 mm (8 in) minimum above top of rail. Where vehicles are boarded from sidewalks or street-level, low-level platforms shall be permitted to be less than 205 mm (8 in).
+**R414.4 Platform and Vehicle Floor Coordination.** Station platforms shall be positioned to coordinate with vehicles in accordance with the applicable requirements of 36 CFR part 1192 (ADA Accessibility Guidelines for Transportation Vehicles). Low-level platforms shall be 205 mm (8 in) minimum above top of rail. Where vehicles are boarded from sidewalks or street-level, low-level platforms shall be permitted to be less than 205 mm (8 in).
 
 |
 
@@ -2018,7 +2018,7 @@ From stop/latch side
 
 **R415 Rail Station Signs**
 
-**R415.1 General.** Rail station signs shall comply with R415.
+**R415.1 General.** Rail station signs shall comply with R415.
 
 |
 
@@ -2026,9 +2026,9 @@ From stop/latch side
 
  |
 
-**R415.2 Entrances.** Where signs identify a station or its entrance, at least one sign at each entrance shall comply with R409.2 and shall be placed in uniform locations to the maximum extent practicable. Where signs identify a station that has no defined entrance, at least one sign shall comply with R409.2 and shall be placed in a central location. Tactile signs shall not be required where audible signs are remotely transmitted to hand-held receivers, or are user- or proximity-actuated.
+**R415.2 Entrances.** Where signs identify a station or its entrance, at least one sign at each entrance shall comply with R409.2 and shall be placed in uniform locations to the maximum extent practicable. Where signs identify a station that has no defined entrance, at least one sign shall comply with R409.2 and shall be placed in a central location. Tactile signs shall not be required where audible signs are remotely transmitted to hand-held receivers, or are user- or proximity-actuated.
 
-**R415.3 Routes and Destinations.** Lists of stations, routes and destinations served by the station which are located on boarding areas, platforms, or mezzanines shall comply with R409.5. Signs covered by this requirement shall, to the maximum extent practicable, be placed in uniform locations within the system. Where sign space is limited, characters shall not be required to exceed 75 mm (3 in). At least one tactile sign identifying the specific station and complying with R409.2 shall be provided on each platform or boarding area. Tactile signs shall not be required where audible signs are remotely transmitted to hand-held receivers, or are user- or proximity-actuated. Route maps are not required to comply.
+**R415.3 Routes and Destinations.** Lists of stations, routes and destinations served by the station which are located on boarding areas, platforms, or mezzanines shall comply with R409.5. Signs covered by this requirement shall, to the maximum extent practicable, be placed in uniform locations within the system. Where sign space is limited, characters shall not be required to exceed 75 mm (3 in). At least one tactile sign identifying the specific station and complying with R409.2 shall be provided on each platform or boarding area. Tactile signs shall not be required where audible signs are remotely transmitted to hand-held receivers, or are user- or proximity-actuated. Route maps are not required to comply.
 
-**R415.4 Station Names.** Stations covered by this section shall have identification signs complying with R409.5. Signs shall be clearly visible and within the sight lines of standing and sitting passengers from within the vehicle on both sides when not obstructed by another vehicle.
+**R415.4 Station Names.** Stations covered by this section shall have identification signs complying with R409.5. Signs shall be clearly visible and within the sight lines of standing and sitting passengers from within the vehicle on both sides when not obstructed by another vehicle.
 

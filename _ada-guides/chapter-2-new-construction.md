@@ -6,8 +6,6 @@ file-description: PDF version of Chapter 2 New Construction Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-2-new-construction/
 ---
-{% include sr-dimension-markings.html %}
-
 This guide provides an introduction to the scoping
 requirements that form the basis for the Department of Justice's [2010
 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) and the
@@ -32,6 +30,7 @@ should not assume that by reading the provisions of Chapter 2 alone they
 will have all the information and perspective they need to achieve
 compliance with the 2010 Standards.
 
+{% include sr-dimension-markings.html %}
 ### Scoping Requirements
 
 Requirements in Chapter 2 indicate which elements and spaces must be

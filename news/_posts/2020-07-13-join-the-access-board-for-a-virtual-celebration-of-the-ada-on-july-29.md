@@ -25,7 +25,7 @@ It will start off with a documentary that provides a vivid picture of the world 
 
 The event will conclude with a presentation from Board Member and architect Karen Braitmayer on how the ADA has spurred architecture and design to be more inclusive of everyone. She will also review new frontiers in accessibility and work that lies ahead to maintain the promises of the ADA.
 
-This virtual meeting is open to the public and everyone is welcome to attend. Log-in details will follow and be posted on the Board's website. For more information, contact Dave Yanchulis at (202) 272-0026 or [yanchulis@access-board.gov.](mailto:yanchulis@access-board.gov)
+This virtual meeting is open to the public and everyone is welcome to attend. Log-in details will follow and be posted on the Board's website. For more information, contact Dave Yanchulis at (202) 272-0026 or [yanchulis@access-board.gov.](mailto:yanchulis@access-board.gov)
 
 *Celebrating 30 Years of the ADA with the U.S. Access Board (Virtual Meeting)*\
 July 29, 1:30 -- 3:00 (ET)

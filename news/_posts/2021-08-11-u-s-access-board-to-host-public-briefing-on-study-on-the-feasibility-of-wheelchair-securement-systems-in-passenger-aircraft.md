@@ -19,21 +19,21 @@ The inability to use one’s wheelchair on airplanes makes air travel very diffi
 
 For further information on registration, visit the [Access Board’s website]({{ site.baseurl }}/about/meetings.html) or contact Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov). Note that the briefing will include video remote interpreting (VRI) and real-time captioning.
 
-Visit [TRB’s website](https://www8.nationalacademies.org/pa/projectview.aspx?key=51840) for further information on the project.  
+Visit [TRB’s website](https://www8.nationalacademies.org/pa/projectview.aspx?key=51840) for further information on the project. 
 
-> *Public Briefing on Wheelchair Securement Systems on Aircraft* \
-> September 22, 2021, 1:00 – 3:00 pm (ET) \
-> Registration required (free): [www.zoomgov.com/webinar/register/](https://www.zoomgov.com/webinar/register/WN_0qGkUge8Sgeh_igXH1TpLw) \
-> Contact: Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov) 
+> *Public Briefing on Wheelchair Securement Systems on Aircraft* \
+> September 22, 2021, 1:00 – 3:00 pm (ET) \
+> Registration required (free): [www.zoomgov.com/webinar/register/](https://www.zoomgov.com/webinar/register/WN_0qGkUge8Sgeh_igXH1TpLw) \
+> Contact: Rose Marie Bunales at [events@access-board.gov](mailto:events@access-board.gov) 
 >
-> ### Agenda 
+> ### Agenda 
 >
-> * Welcome, Greg Fehribach, U.S. Access Board Chair 
-> * Briefing  
->   * Dr. Alan M. Jette, TRB Study Committee Chair, Professor and Dean Emeritus of Boston University 
->   * Gary Weissel, TRB Study Committee Member, Founder and Managing Officer of Tronos Aviation Consulting 
->   * Naomi Armenta, TRB Study Committee Member, Principal Planner of Nelson Nygaard 
+> * Welcome, Greg Fehribach, U.S. Access Board Chair 
+> * Briefing 
+>   * Dr. Alan M. Jette, TRB Study Committee Chair, Professor and Dean Emeritus of Boston University 
+>   * Gary Weissel, TRB Study Committee Member, Founder and Managing Officer of Tronos Aviation Consulting 
+>   * Naomi Armenta, TRB Study Committee Member, Principal Planner of Nelson Nygaard 
 >   * Miriam Manary, TRB Study Committee Member, Lead Research Engineer of University of Michigan Transportation Research Institute (UMTRI)
-> * Questions and Answers 
+> * Questions and Answers 
 
 > Following the briefing will be a short break and then the regular Access Board business meeting, which is open for the public to attend.

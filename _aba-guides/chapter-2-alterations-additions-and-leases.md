@@ -130,7 +130,7 @@ Where technical infeasibility is encountered, compliance is still required to th
 ![Floor plan shows toilet room constrained in size by corridor./ min. egress width, stair tower, and elevator and freight elevator shafts]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a11.jpg){: .img-large}
 
 <div class="img-large-caption">
-It may be technically infeasible in an alteration to enlarge a toilet room confined in size by structural supports, elevator shafts, mechanical rooms and chases, stairways, or required egress routes not affected by the project. In this case, the toilet room must be sized and other requirements, including those for plumbed fixtures, must be met to the maximum extent technically feasible. However, the concept of technical infeasibility remains relative to the planned scope of work. If the entire building is significantly renovated or gutted, constraints of this type would likely not exist.
+It may be technically infeasible in an alteration to enlarge a toilet room confined in size by structural supports, elevator shafts, mechanical rooms and chases, stairways, or required egress routes not affected by the project. In this case, the toilet room must be sized and other requirements, including those for plumbed fixtures, must be met to the maximum extent technically feasible. However, the concept of technical infeasibility remains relative to the planned scope of work. If the entire building is significantly renovated or gutted, constraints of this type would likely not exist.
 </div>
 
 Other examples where compliance could potentially be technically infeasible include:

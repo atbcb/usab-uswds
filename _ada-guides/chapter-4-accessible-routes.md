@@ -6,10 +6,10 @@ file-description: PDF version of Chapter 4 Accessible Routes Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-4-accessible-routes/
 ---
-{% include sr-dimension-markings.html %}
-
 This guide explains scoping and technical requirements for accessible
 routes in the [ADA Standards]({{ site.baseurl }}/ada/).
+
+{% include sr-dimension-markings.html %}
 
 ### Where Required: Site Arrival Points 
 

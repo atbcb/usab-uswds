@@ -6,11 +6,10 @@ file-description: PDF version of Chapter 4 Elevators and Platform Lifts Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-4-elevators-and-platform-lifts/
 ---
-{% include sr-dimension-markings.html %}
-
 This guide explains criteria for elevators and platform lifts in
 the [ADA Standards]({{ site.baseurl }}/ada/).
 
+{% include sr-dimension-markings.html %}
 ### Required Compliance
 
 [[§206.6]({{ site.baseurl }}/ada/#ada-206_6)]

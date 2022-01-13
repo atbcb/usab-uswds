@@ -6,8 +6,9 @@ file-description: PDF version of Chapter 5 Passenger Loading Zones Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-5-passenger-loading-zones/
 ---
-This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for passenger loading zones.
+This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for passenger loading zones.
 
+{% include sr-dimension-markings.html %}
 ### Required Compliance
 
 [[§209]({{ site.baseurl }}/ada/#ada-209)]
@@ -42,24 +43,24 @@ Requirements for accessible passenger loading zones address vehicle
 pull-up spaces and access aisles, including their dimensions, surfacing,
 and vertical clearance.
 
-![Accessible passenger loading zone with vehicle pull-up space 20' long
-min. and 96" wide min. with an adjacent access aisle the full length of
-the pull-up space and 60" wide min. Notes: Vehicle Pull-Up Space
-(§503.2) The vehicle pull-up space must be at least 96" wide and at
-least 20' long. Access Aisle (§503.3) A marked access aisle is required
+![Accessible passenger loading zone with vehicle pull-up space 20 feet long
+minimum and 96 inches wide minimum with an adjacent access aisle the full length of
+the pull-up space and 60 inches wide minimum. Notes: Vehicle Pull-Up Space
+(§503.2) The vehicle pull-up space must be at least 96 inches wide and at
+least 20 feet long. Access Aisle (§503.3) A marked access aisle is required
 next to, and at the same level as, the vehicle pull-up space. The access
-aisle must be at least 60" wide, extend the full length of the vehicle
+aisle must be at least 60 inches wide, extend the full length of the vehicle
 pull-up space, adjoin an accessible route, and cannot overlap vehicular
 ways. The marking method and color is not specified. Surfaces (§503.4)
 Vehicle pull-up spaces and access aisles must meet requirements for
 ground and floor surfaces (§302) and cannot have changes in level other
 than slopes not steeper than 1:48. Curb ramps cannot overlap access
 aisles or vehicle pull-up spaces. Vertical Clearance (§503.5) A vertical
-clearance of 114" is required at the vehicle pull-up space and access
+clearance of 114 inches is required at the vehicle pull-up space and access
 aisle and along a vehicular route connecting them to a vehicle entrance
 and exit. Accessible passenger loading zones are not required to be
 identified by the International Symbol of Accessibility.
-]({{ site.baseurl }}{{ page.image-directory }}chapter5/5plz4.jpg){: .img-large} 
+]({{ site.baseurl }}{{ page.image-directory }}chapter5/5plz4.jpg){: .img-large} 
 
 ### Bus Loading Areas and On-Street Bus Stops
 
@@ -80,7 +81,7 @@ requirements in §810.2 to the maximum extent practicable.
 
 ### Common Questions
 
-![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail} 
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail}
 
 #### Are accessible passenger loading zones required on sites where no passenger loading zone is intended?
 

@@ -6,8 +6,6 @@ file-description: PDF version of Chapter 3 Clear Floor Space Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-3-clear-floor-or-ground-space-and-turning-space/
 ---
-{% include sr-dimension-markings.html %}
-
 This guide explains requirements in the [ADA
 Standards]({{ site.baseurl }}/ada/) for clear floor or ground space and
 turning space. Clearances are required at accessible elements, fixtures,
@@ -15,6 +13,7 @@ and controls so that people with disabilities, including those who use
 wheelchairs, can approach and use them. The standards also address
 maneuvering space for wheelchair turning. Provisions throughout the
 standards reference these basic "building block" requirements.
+{% include sr-dimension-markings.html %}
 
 ### Clear Floor or Ground Space
 

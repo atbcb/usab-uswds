@@ -4,7 +4,7 @@ order-number: 17
 file: /files/aba/guides/toilet-rooms-ABA.pdf
 file-description: PDF version of Chapter 6 Toilet Rooms Guide
 ---
-This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for toilet rooms. 
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for toilet rooms. 
 
 ### Required Compliance
 
@@ -32,7 +32,7 @@ Where multi-user toilet rooms are provided, accessible unisex toilet rooms canno
 
 ![medical care icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/4.png){: .float-right .thumbnail}
 
-In licensed medical care and long-term care facilities, toilet rooms that are part of accessible patient or resident sleeping rooms, excluding critical or intensive care patient sleeping rooms, must comply (§F223.1, Ex., §805.4). The Standards cover independent accessibility and do not address design for use that is assisted by medical or resident care personnel. Features for assisted use that conflict with the Standards can be provided in those toilet rooms serving rooms not required to comply with the Standards. Any departure from the Standards requires a waiver or modification (§F103). The agencies that implement the ABA Standards (the Department of Defense, the Department of Housing and Urban Development, the General Services Administration, and the U.S. Postal Service) have authority to grant modifications and waivers on a case-by-case basis where “clearly necessary.”
+In licensed medical care and long-term care facilities, toilet rooms that are part of accessible patient or resident sleeping rooms, excluding critical or intensive care patient sleeping rooms, must comply (§F223.1, Ex., §805.4). The Standards cover independent accessibility and do not address design for use that is assisted by medical or resident care personnel. Features for assisted use that conflict with the Standards can be provided in those toilet rooms serving rooms not required to comply with the Standards. Any departure from the Standards requires a waiver or modification (§F103). The agencies that implement the ABA Standards (the Department of Defense, the Department of Housing and Urban Development, the General Services Administration, and the U.S. Postal Service) have authority to grant modifications and waivers on a case-by-case basis where “clearly necessary.”
 
 <div class="border padding-1" markdown="1" style="background-color: #e2e1ef;">
 #### Toilet Room Location
@@ -48,7 +48,7 @@ The Standards specify the location of toilet rooms in two instances:
 
 [[§F202.2]({{ site.baseurl }}/aba/#aba-f202_2)]
 
-Additions are required to comply with requirements in the Standards for new construction. Each toilet room of an addition must comply as would be required in new construction. If an addition does not include any toilet facilities, at least one toilet room for each sex in the existing portion of the facility must be made accessible to serve the addition; access to a single unisex toilet room is permitted if there is only one toilet room in the facility or if providing access to a men’s and women’s room is technically infeasible (§F202.2, §F213.2, Ex. 1).
+Additions are required to comply with requirements in the Standards for new construction. Each toilet room of an addition must comply as would be required in new construction. If an addition does not include any toilet facilities, at least one toilet room for each sex in the existing portion of the facility must be made accessible to serve the addition; access to a single unisex toilet room is permitted if there is only one toilet room in the facility or if providing access to a men’s and women’s room is technically infeasible (§F202.2, §F213.2, Ex. 1).
 
 #### Alterations
 
@@ -56,7 +56,7 @@ Additions are required to comply with requirements in the Standards for new cons
 
 When existing toilet rooms are altered, the Standards apply according to the planned scope of work. If one toilet room on a floor is altered, the Standards apply to that room only; if all toilet rooms on a floor are altered, the Standards apply to each toilet room that would be required to comply in new construction. The scope of work also determines which technical requirements apply. If some, but not all, elements in a toilet room are altered, only those elements altered must comply. If a room or space is completely altered (or built new as part of an alteration), the entire room or space must comply.
 
- ![Restroom with water closet and mirror above lavatory highlighted]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/5.jpg){: .img-large}
+ ![Restroom with water closet and mirror above lavatory highlighted]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/5.jpg){: .img-large}
 
 <div class="margin-left-8 margin-right-8 text-center" markdown="1">
 _In a project involving alterations to the toilet, grab bars, faucet controls, and mirror in a restroom, the Standards apply to these elements but not to those that remain unaltered. In more extensive projects where additional elements are altered, application of the Standards is greater, commensurate with the scope of work._
@@ -74,7 +74,7 @@ When it is technically infeasible to make existing men's and women's rooms compl
 
 [[§F202.4]({{ site.baseurl }}/aba/#aba-f202_4)]
 
-When an area containing a primary function (a major activity intended for a facility) is altered or added to a facility, an "accessible path of travel" is required. The accessible path of travel, which must extend from site arrival points to the primary function area, includes provided restrooms (at least one for each sex or, if only unisex restrooms are provided, at least one unisex restroom), telephones, and drinking fountains, where provided, that serve the primary function area. The accessible path of travel is required to the extent that it does not cost more than 20% of the total cost of the work to the primary function area. Compliance is required up to the point this cost cap is reached, even where it does not result in a fully accessible path of travel. See the [Alterations and Additions Guide]({{ site.baseurl }}/aba/guides/chapter-2-alterations-additions-and-leases/). 
+When an area containing a primary function (a major activity intended for a facility) is altered or added to a facility, an "accessible path of travel" is required. The accessible path of travel, which must extend from site arrival points to the primary function area, includes provided restrooms (at least one for each sex or, if only unisex restrooms are provided, at least one unisex restroom), telephones, and drinking fountains, where provided, that serve the primary function area. The accessible path of travel is required to the extent that it does not cost more than 20% of the total cost of the work to the primary function area. Compliance is required up to the point this cost cap is reached, even where it does not result in a fully accessible path of travel. See the [Alterations and Additions Guide]({{ site.baseurl }}/aba/guides/chapter-2-alterations-additions-and-leases/). 
 
 #### Alterations to Qualified Historic Facilities 
 
@@ -196,7 +196,7 @@ Grab bars can have circular or non-circular cross-sections but must have rounded
 </div>
 
 The Standards do not require or address additional folding or swing-away grab bars on the open side of the water closet. However, if provided, they must be mounted so that they do not interfere with use of the required grab bars or the clear floor space at water closets. Also, it is important they are properly secured (although this is not addressed by the Standards).  
- 
+ 
 <div class="border clearfix padding-1">
 {% include grid-2col-lefttextboldstd-rightimg.html
 text-title="Vertical Grab Bar (ICC A117.1 Standard)"
@@ -424,7 +424,7 @@ text= "Toilet rooms sized to provide more space than the minimum required by the
 
 Dispensers, receptacles, and other operable parts, as well as shelves and coat hooks, must comply where provided.
 
- ![Person using a wheelchair at a paper towel dispenser with a receptacle.  Clear floor space at the dispenser is highlighted.  Notes:  Dispensers & Receptacles (§2F05, §309), Hand-operated soap dispensers that are fixed, paper towel dispensers, toilet seat cover dispensers, and other types of dispensers provided must comply as operable parts, as well as trash receptacles and other receptacles. Operable Parts (§309), Operable parts must have compliant clear floor space for a forward or side approach.  They also must be located within accessible reach range and usable with one hand and without tight grasping, pinching, twisting of the wrist, or more than 5 pounds force. Coat Hooks (§2F13.3.7, §603.4) If coat hooks are provided, at least one must be within accessible reach range. Shelves (§2F13.3.7, §603.4) If shelves are provided, at least one of each type must be located 40 inches min. to 48 inches max. above the finish floor.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/42aba.png){: .img-large}
+ ![Person using a wheelchair at a paper towel dispenser with a receptacle.  Clear floor space at the dispenser is highlighted.  Notes:  Dispensers & Receptacles (§2F05, §309), Hand-operated soap dispensers that are fixed, paper towel dispensers, toilet seat cover dispensers, and other types of dispensers provided must comply as operable parts, as well as trash receptacles and other receptacles. Operable Parts (§309), Operable parts must have compliant clear floor space for a forward or side approach.  They also must be located within accessible reach range and usable with one hand and without tight grasping, pinching, twisting of the wrist, or more than 5 pounds force. Coat Hooks (§2F13.3.7, §603.4) If coat hooks are provided, at least one must be within accessible reach range. Shelves (§2F13.3.7, §603.4) If shelves are provided, at least one of each type must be located 40 inches min. to 48 inches max. above the finish floor.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/42aba.png){: .img-large}
 
 #### Baby Changing Tables
 
@@ -434,7 +434,7 @@ Dispensers, receptacles, and other operable parts, as well as shelves and coat h
 
 Where baby changing tables are provided, they must comply as a work surface and, if they project into circulation paths, as protruding objects.
 
- ![Wall-mounted baby-changing table in a toilet room.  Table surface is 28” – 34 high and must comply as a work surface (§902) and clear floor space for a forward approach to the table is shown.  When stowed, the table projection from the wall is limited to 4” max. if the leading edge is higher than 27.”  Notes: Compliant as protruding object (when stowed) if it protrudes into a circulation path (§F204, §307); Compliant operable parts (§F205, §309).]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/44aba.png){: .img-large}
+ ![Wall-mounted baby-changing table in a toilet room.  Table surface is 28” – 34 high and must comply as a work surface (§902) and clear floor space for a forward approach to the table is shown.  When stowed, the table projection from the wall is limited to 4” max. if the leading edge is higher than 27.”  Notes: Compliant as protruding object (when stowed) if it protrudes into a circulation path (§F204, §307); Compliant operable parts (§F205, §309).]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/44aba.png){: .img-large}
 
 <div class="grid-container">
   <div class="grid-row">
@@ -461,7 +461,7 @@ Single-occupant toilet rooms accessed only through a private office and not for 
 
 _Note: All other applicable requirements, including clearances and turning space, must be met._
 
- ![Private toilet room with water closet and lavatory.  Notes:  Grab bars can be installed after construction if walls are properly reinforced/ blocked (§604.5, Ex. 1) Toilet seat height not required to comply (§604.4, Ex. 1) Lavatory height not required to comply knee and toe space below is not required but must be made available when needed (§606.2, Ex. 2, §606.3, Ex. 1)) Door can swing into fixture clearances if the swing can be reversed and fully comply with §404 or if unobstructed wheelchair space is provided in the room beyond the arc of the door swing (§603.2.3, Ex. 1 and 2).]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/47.png){: .img-large}
+ ![Private toilet room with water closet and lavatory.  Notes:  Grab bars can be installed after construction if walls are properly reinforced/ blocked (§604.5, Ex. 1) Toilet seat height not required to comply (§604.4, Ex. 1) Lavatory height not required to comply knee and toe space below is not required but must be made available when needed (§606.2, Ex. 2, §606.3, Ex. 1)) Door can swing into fixture clearances if the swing can be reversed and fully comply with §404 or if unobstructed wheelchair space is provided in the room beyond the arc of the door swing (§603.2.3, Ex. 1 and 2).]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/47.png){: .img-large}
 
 {% include recommendation.html
 text= "Cabinetry below lavatories should be readily removable with finish floor below and finished walls behind it. Verify that the applicable building or life safety codes will permit the door swing to be reversed if using the exception for doors."
@@ -490,7 +490,7 @@ _Note: All other applicable requirements, including clearances and turning space
 
 #### Dwelling Unit Water Closet and Lavatory
 
- ![Water closet and adjacent lavatory shown in elevation.  The rear grab bar at the water closet extends from the water closet centerline 12]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/50.png){: .img-large}
+ ![Water closet and adjacent lavatory shown in elevation.  The rear grab bar at the water closet extends from the water closet centerline 12]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/50.png){: .img-large}
 
 {% include recommendation.html
 text= "Keep the lavatory outside the water closet clearance so that space is available for side transfers. Lavatories that overlap the water closet clearance should be located so that the rear grab bar does not overlap the lavatory or counter."
@@ -546,7 +546,7 @@ The rear grab bar can be shifted to the open side of the water closet or split w
   </tr>
   <tr>
     <th scope="row">Toilet Seat Height</th>
-    <td>11" - 12"</td>
+    <td>11" - 12"</td>
     <td>12" - 15"</td>
     <td>15" - 17"</td>
   </tr>
@@ -609,7 +609,7 @@ At least one toilet compartment must be wheelchair accessible where toilet compa
 
 ![Coat Hook - note: Compliant coat hooks and shelves where they are provided in other toilet compartments (§2F13.3.7, 604.8.3). Wheelchair accessible toilet compartment with toe clearance below the front partition and one side partition. Notes: Compliant water closet with additional clear floor space required if fixture is floor mounted (59 inches instead of 56 inches deep) (§604.8.1.1)]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/57aba.png){: .img-large}
 
- ![Wheelchair accessible toilet compartment with door in the side partition farther from the water closet with the opening 4]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/58a.png){: .img-large}
+ ![Wheelchair accessible toilet compartment with door in the side partition farther from the water closet with the opening 4]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/58a.png){: .img-large}
 
 <div class="margin-left-8 margin-right-8 text-center" markdown="1">
 _Compartment doors must be offset from the water closet in either the front or the side partition so that there is space to enter the compartment. Doors can be hinged on the left or right side of the opening._
@@ -626,7 +626,7 @@ into the minimum compartment area specified. Detail of compartment door
 with pull on both sides on latch side. Notes: Door must be self-closing
 (gravity or spring hinges are typically used). The min. closing time for
 spring hinges is 1.5 seconds measured from a 70° open position to the
-closed position. Door pulls are required on both sides near the latch,
+closed position. Door pulls are required on both sides near the latch,
 34 inches to 48 inches above the finish floor.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/59.png){: .img-large}
 
 {% include recommendation.html
@@ -642,7 +642,7 @@ text= "Hinging doors to provide a latch approach instead of a hinge approach wil
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <span class="grid-line bold">Latch Approach Clearance</span>
+      <span class="grid-line bold">Latch Approach Clearance</span>
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/60.png" alt="Wheelchair accessible toilet compartment door with latch-approach maneuvering clearance that is 42 inch deep min. with strike-side clearance 24 inch min.">
     </div>
     <div class="tablet:grid-col">
@@ -888,7 +888,7 @@ No. Motion activated flush controls are not required to be on the open side of t
 
 ##### Are flush controls located on valves, walls, or tanks that are centered on the fixture compliant (i.e., on the open side)?
 
-Manual flush controls, including push buttons, must be usable from a point between the centerline and the open side of the fixture. A portion of the control can be outside the range if it is usable without having to reach beyond the water closet centerline from the open side.
+Manual flush controls, including push buttons, must be usable from a point between the centerline and the open side of the fixture. A portion of the control can be outside the range if it is usable without having to reach beyond the water closet centerline from the open side.
 
 ##### Can the side and rear grab bars be continuous?
 

@@ -4,15 +4,15 @@ order-number: 14
 file: /files/aba/guides/plz-ABA.pdf
 file-description: PDF version of Chapter 5 Passenger Loading Zones Guide
 ---
-This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for passenger loading zones.
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for passenger loading zones.
 
 ### Required Compliance
 
 [[§F209]({{ site.baseurl }}/aba/#aba-f209)]
 
-Where passenger loading zones are provided, at least one accessible passenger loading zone is required in every continuous 100 linear feet of loading zone or fraction thereof.  Compliance is required only where areas are specifically designed or designated for passenger loading, such as those at airports, many hotels, and convention centers.
+Where passenger loading zones are provided, at least one accessible passenger loading zone is required in every continuous 100 linear feet of loading zone or fraction thereof.  Compliance is required only where areas are specifically designed or designated for passenger loading, such as those at airports, many hotels, and convention centers.
 
- ![accessible passenger loading zone]({{ site.baseurl }}{{ page.image-directory }}chapter5/5plz2.jpg){: .img-large}
+ ![accessible passenger loading zone]({{ site.baseurl }}{{ page.image-directory }}chapter5/5plz2.jpg){: .img-large}
 <div class="margin-left-8 margin-right-8 text-center" markdown="1">
 _At least 1 accessible passenger loading zone is required in every continuous 100 linear feet (or fraction) of passenger loading zone space._
 </div>
@@ -39,7 +39,7 @@ Requirements for accessible passenger loading zones address vehicle pull-up spac
 
 [[§F209.2.2]({{ site.baseurl }}/aba/#aba-f209_2_2) and [§F209.2.3]({{ site.baseurl }}/aba/#aba-f209_2_3)]
 
-Loading zones designed for buses that provide general or special service, including charter service, to the public on a regular and continuing basis are required to comply with provisions for bus boarding and alighting areas (§810.2) in the transportation facility section of the Standards.  This includes bus service provided by public transit agencies and other state or local government entities, excluding public school transportation (referred to as “designated public transportation” in ADA regulations issued by the Department of Transportation (DOT)).  It also applies to those serving tour, charter, and shuttle buses operated by private entities (referred to as “specified public transportation” in DOT’s regulations).  On-street bus stops also must comply with requirements in §810.2 to the maximum extent practicable.
+Loading zones designed for buses that provide general or special service, including charter service, to the public on a regular and continuing basis are required to comply with provisions for bus boarding and alighting areas (§810.2) in the transportation facility section of the Standards.  This includes bus service provided by public transit agencies and other state or local government entities, excluding public school transportation (referred to as “designated public transportation” in ADA regulations issued by the Department of Transportation (DOT)).  It also applies to those serving tour, charter, and shuttle buses operated by private entities (referred to as “specified public transportation” in DOT’s regulations).  On-street bus stops also must comply with requirements in §810.2 to the maximum extent practicable.
 
 ### Common Questions
 

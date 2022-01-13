@@ -8,7 +8,7 @@ file: /files/vehicles/guides/d-light-rail.pdf
 
 *(a) New, used and remanufactured light rail vehicles, to be considered accessible by regulations issued by the Department of Transportation in 49 CFR Part 37, shall comply with this subpart.*
 
-The Americans with Disabilities Act (ADA) requires new or used vehicles that are purchased or leased after August 25, 1990, to be accessible. A public entity may purchase or lease a used light rail vehicle for use on its system that is not readily accessible to and usable by individuals with disabilities, if after making demonstrated good faith efforts to obtain an accessible vehicle, it is unable to do so. See 49 CFR §37.87(c) for a description of what constitutes good faith efforts. Vehicles that are remanufactured after this date to extend their usable life for 5 years or more are also required to be accessible, to the extent it does not compromise the structural integrity of the vehicle. On October 4, 1990, the U.S. Department of Transportation (DOT) issued an interim set of requirements for such vehicles.
+The Americans with Disabilities Act (ADA) requires new or used vehicles that are purchased or leased after August 25, 1990, to be accessible. A public entity may purchase or lease a used light rail vehicle for use on its system that is not readily accessible to and usable by individuals with disabilities, if after making demonstrated good faith efforts to obtain an accessible vehicle, it is unable to do so. See 49 CFR §37.87(c) for a description of what constitutes good faith efforts. Vehicles that are remanufactured after this date to extend their usable life for 5 years or more are also required to be accessible, to the extent it does not compromise the structural integrity of the vehicle. On October 4, 1990, the U.S. Department of Transportation (DOT) issued an interim set of requirements for such vehicles.
 
 The guidelines discussed in this technical assistance document are substantively identical to standards issued by DOT on September 6, 1991, at 49 CFR Part 38 and replace the interim rules. The DOT rule at 49 CFR Part 37 further outlines the applicability and effective dates of these requirements. Questions as to whether certain vehicles are subject to these standards and specific effective dates should be directed to DOT.
 
@@ -60,7 +60,7 @@ This provision for a clear opening width of 32 inches has been in effect since 1
 
 This requirement applies only to new vehicles equipped with end doors that can be reached by a wheelchair or mobility aid user. This means that where there is a route at least 30 inches wide leading from the area containing accessible spaces to the end door, then the end doors must provide a minimum of 30 inches clear width. Since the clear area in which mobility aid users can position themselves is usually located at the ends of cars, the end doors will most likely be in close proximity to accessible spaces. This requirement does not apply to vehicles that are designed with a route leading to the end doors that is less than 30 inches wide at any point or that is inaccessible in any other aspect (e.g., steps). However, this provision should not be viewed as an excuse to arbitrarily place stanchions or arrange seats to preclude a 30-inch wide passage to avoid having to specify 30-inch wide end doors.
 
-These guidelines do not address evacuation procedures or require that end doors be used in emergencies or that they be part of an evacuation route. For a variety of reasons, the end doors might not be used by a transit system's evacuation plan. In addition, a transit system's evacuation plan that requires the use of side doors would not be precluded by this provision. Further, the evacuation route leading from the train itself is often inaccessible, especially in the case of rapid rail where narrow walkways, catwalks, and escape ladders are part of evacuation routes from tunnels. Nonetheless, the end doors of new vehicles can easily be designed to be functionally accessible (i.e., have 30 inches of clear width) and should be accessible *in case* they may serve as an accessible means of egress. In limited emergencies, such as when the side doors of a car fail, accessible end doors would be the only means of exit. Additionally, the Board recognizes that this provision does not guarantee access into adjoining cars since existing cars may not have end doors with 30 inches of clear width. However, as old cars are replaced over time and the number of accessible cars on each train increases, the chances of providing an accessible connection between cars will be greater.
+These guidelines do not address evacuation procedures or require that end doors be used in emergencies or that they be part of an evacuation route. For a variety of reasons, the end doors might not be used by a transit system's evacuation plan. In addition, a transit system's evacuation plan that requires the use of side doors would not be precluded by this provision. Further, the evacuation route leading from the train itself is often inaccessible, especially in the case of rapid rail where narrow walkways, catwalks, and escape ladders are part of evacuation routes from tunnels. Nonetheless, the end doors of new vehicles can easily be designed to be functionally accessible (i.e., have 30 inches of clear width) and should be accessible *in case* they may serve as an accessible means of egress. In limited emergencies, such as when the side doors of a car fail, accessible end doors would be the only means of exit. Additionally, the Board recognizes that this provision does not guarantee access into adjoining cars since existing cars may not have end doors with 30 inches of clear width. However, as old cars are replaced over time and the number of accessible cars on each train increases, the chances of providing an accessible connection between cars will be greater.
 
 Existing cars or cars retrofitted under the "one-car-per-train" rule are not subject to this requirement.
 
@@ -105,7 +105,7 @@ A consistent horizontal gap along all vehicles of a train may not be feasible du
 This exception pertains to existing vehicles that are made accessible under the "one-car-per-train" rule. Generally, existing vehicles cannot be coordinated with the platform to the degree that new vehicles can. Even if feasible, retrofitting existing vehicles to meet the requirements for new vehicles, could be very expensive. Consequently, this exception allows a greater and more easily achievable horizontal gap and vertical tolerance. These vehicles need to be aligned with the platform at new stations or key stations so that the horizontal gap does not exceed 4 inches and the vertical tolerance is less than 2 inches. While the Board does not consider such a gap to be independently negotiable by many wheelchair users, such vehicles will eventually be phased out as new vehicles are added to the system.
 
 | **Horizontal and Vertical Tolerances** |
-|   | New Stations | Key (Existing) Stations |
+|   | New Stations | Key (Existing) Stations |
 | New Vehicles | 3" horizontal gap, 5/8" vertical tolerance | 3" horizontal gap (1 door), 1-1/2" vertical tolerance* |
 | Retrofitted Vehicles | 4" horizontal gap, 2" vertical tolerance | 4" horizontal gap (1 door), 2" vertical tolerance |
 
@@ -133,13 +133,13 @@ These requirements for the character height and proportion are based on existing
 
 Contrast can be provided either with light characters on a dark background or dark characters on a light background. However, light_colored characters against a dark background are preferred since studies have shown that this type of contrast is more readable for persons with low vision. A minimum level or percentage of contrast between characters and the background of the sign is not specified. Research, however, indicates that signs are more legible for persons with low vision when characters contrast with their background by at least 70 percent. Contrast in percent is determined by:
 
-> Contrast = [(B1 - B2)/B1] x 100
+> Contrast = [(B1 - B2)/B1] x 100
 >
-> > where B1 = light reflectance value (LRV) of the lighter area
+> > where B1 = light reflectance value (LRV) of the lighter area
 > >
-> > and B2 = light reflectance value (LRV) of the darker area.
+> > and B2 = light reflectance value (LRV) of the darker area.
 
-> > Note that in any application both white and black are never absolute; thus, B1 never equals 100 and B2 is always greater than 0.
+> > Note that in any application both white and black are never absolute; thus, B1 never equals 100 and B2 is always greater than 0.
 
 Although not required, it is also recommended that the characters and background of signs should be eggshell, matte, or other non-glare finish. An eggshell finish (11 to 19 degree gloss on 60 degree glossimeter) is preferred.
 
@@ -179,13 +179,13 @@ A variety of common materials used on transit vehicle floors can provide adequat
 
 The band of contrasting color required by this provision must span the full width of the threshold and steps along the nosing. However, a minimum width for the band itself is not specified. The Board recommends a minimum of three inches, although the actual size is left to the discretion of operators. Although a minimum level of contrast for this band is not specified, it is recommended that the following formula be used in determining the contrast level:
 
-> Contrast = [(B1 - B2)/B1] x 100
+> Contrast = [(B1 - B2)/B1] x 100
 >
-> > where B1 = light reflectance value (LRV) of the lighter area
+> > where B1 = light reflectance value (LRV) of the lighter area
 > >
-> > and B2 = light reflectance value (LRV) of the darker area.
+> > and B2 = light reflectance value (LRV) of the darker area.
 > >
-> > Note that in any application both white and black are never absolute; thus, B1 never equals 100 and B2 is always greater than 0.
+> > Note that in any application both white and black are never absolute; thus, B1 never equals 100 and B2 is always greater than 0.
 
 ### §1192.81 Lighting
 
@@ -199,7 +199,7 @@ This provision requires the same level of lighting in other doorways with boardi
 
 *(c) The doorways of vehicles not operating at lighted station platforms shall have outside lights which provide at least 1 footcandle of illumination on the station platform or street surface for a distance of 3 feet perpendicular to all points on the bottom step tread. Such lights shall be located below window level and shielded to protect the eyes of entering and exiting passengers.*
 
-This provision is also based on an existing FTA requirements and specifies that the 3 foot distance is to be measured perpendicularly from the step tread.  The meaning of "3 feet perpendicular to all points on the bottom step tread outer edge" is to define a rectangle on the ground outside the vehicle door which is three feet deep and as wide as the door lower step. In most cases, the actual area illuminated will be a semi-circular pattern. Such a pattern would meet the above requirement as long as the specified rectangle were illuminated.
+This provision is also based on an existing FTA requirements and specifies that the 3 foot distance is to be measured perpendicularly from the step tread.  The meaning of "3 feet perpendicular to all points on the bottom step tread outer edge" is to define a rectangle on the ground outside the vehicle door which is three feet deep and as wide as the door lower step. In most cases, the actual area illuminated will be a semi-circular pattern. Such a pattern would meet the above requirement as long as the specified rectangle were illuminated.
 
 This requirement pertains only to vehicles that serve unlighted stations. While these guidelines pertain only to vehicles, not stations, it is recommended that stations be lighted to serve both those passengers waiting at stations and those passengers entering or exiting vehicles. If stations are lighted, vehicle doorways do not have to be illuminated.
 
@@ -239,7 +239,7 @@ Previous FTA-sponsored guidelines for lifts and some state codes specify a detai
 
 Most large vehicles are specified with door interlocks which prevent movement when the door is open. Since the door must be open to operate the lift, this provision would be satisfied. If an auxiliary door is provided exclusively for a lift or ramp, that door would also need to be interlocked. Alternatively, the lift or ramp itself could be provided with its own interlock system. In some cases, meeting this requirement may involve other solutions, especially for rail cars where door interlocks are not normally provided or where a portable lift may have no direct connection to the car. The "appropriate mechanisms or systems" might include some relatively simple electrical interlocks. However, the system or mechanism cannot work only as a warning to the driver, such as a flashing light or buzzer, which can be inadvertently overlooked. The key operational criterion is that the car cannot be moved while the lift or ramp is in use.
 
-Furthermore, the lift must be designed to deploy to all levels expected to be encountered in the operating environment. In some systems where *all *of the stops are at raised platforms, then the lift would only be required to deploy to platform level.
+Furthermore, the lift must be designed to deploy to all levels expected to be encountered in the operating environment. In some systems where *all *of the stops are at raised platforms, then the lift would only be required to deploy to platform level.
 
 Finally, if the lift is electrically operated, the controls must be of the momentary contact type, requiring continuous pressure to activate and must be interlocked in such a way as to preclude the possibility of folding or stowing the lift when the platform is occupied (except as provided below). Some lifts currently in service can be folded or stowed simply because the operator presses the wrong button at the wrong time. This regulatory provision is intended to preclude this possibility. Some lifts accomplish this function by incorporating a pressure sensitive switch in the platform to sense when it is occupied. Others incorporate a slip-clutch mechanism on the folding motor such that it is not capable of folding anything heavier than an empty platform. Photocells or proximity switches might also be employed to detect the presence of a lift user on the platform. Whatever system is used, it should be designed so that, if the pressure switch, photocell or proximity switch is not operating, the lift will not operate.
 
@@ -249,7 +249,7 @@ The lift must be capable of reversal, but without folding or stowing. For exampl
 
 *Where physical or safety constraints prevent the deployment at some stops of a lift having its long dimension perpendicular to the vehicle axis, the transportation entity may specify a lift which is designed to deploy with its long dimension parallel to the vehicle axis and which pivots into or out of the vehicle while occupied (i.e., "rotary lift"). The requirements of paragraph (b)(2)(i) of this section prohibiting the lift from being stowed while occupied shall not apply to a lift design of this type if the stowed position is within the passenger compartment and the lift is intended to be stowed while occupied.*
 
-This provision simply permits the use of a certain type of lift which would be precluded by the previous requirement that the lift cannot be stowed when occupied. The particular type of device, a rotary lift, intended to be covered by this exception is one in which the platform rotates into the car and this is the stowed position. In this case, the lift is *intended* to be stowed while occupied, which would otherwise be prohibited by strict application of the previous paragraph. It should be noted, however, that another type of rotary lift in which the platform is intended to be raised to a vertical position for stowage, is not covered by this exception. Such a design is not precluded, since the rotation of the platform while occupied is not prohibited, but the actual raising of the platform into the vertical stowed position must still be prevented when the platform is occupied.
+This provision simply permits the use of a certain type of lift which would be precluded by the previous requirement that the lift cannot be stowed when occupied. The particular type of device, a rotary lift, intended to be covered by this exception is one in which the platform rotates into the car and this is the stowed position. In this case, the lift is *intended* to be stowed while occupied, which would otherwise be prohibited by strict application of the previous paragraph. It should be noted, however, that another type of rotary lift in which the platform is intended to be raised to a vertical position for stowage, is not covered by this exception. Such a design is not precluded, since the rotation of the platform while occupied is not prohibited, but the actual raising of the platform into the vertical stowed position must still be prevented when the platform is occupied.
 
 Since rotary lifts deploy with the long dimension of the lift platform parallel to the vehicle, and the user enters and exits parallel to the vehicle, they can be deployed in relatively narrow spaces. Such a lift could be deployed into a narrow island between traffic lanes on a street, for example. This would allow street stops to be accessible where a light rail system operates on city streets along with automobiles.
 
@@ -285,7 +285,7 @@ Finally, whatever barrier or supplemental system is used, it must either rise or
 
 **(6) Platform Surface**
 
-*The lift platform surface shall be free of any protrusions over 1/4 inch high and shall be slip resistant. The lift platform shall have a minimum clear width of 28-1/2 inches at the platform, a minimum clear width of 30 inches measured from 2 inches above the lift platform surface to 30 inches above the surface, and a minimum clear length of 48 inches measured from 2 inches above the surface of the platform to 30 inches above the surface. (See [Fig. 1](http://www.access-board.gov/transit/html/Transfig1.html))*
+*The lift platform surface shall be free of any protrusions over 1/4 inch high and shall be slip resistant. The lift platform shall have a minimum clear width of 28-1/2 inches at the platform, a minimum clear width of 30 inches measured from 2 inches above the lift platform surface to 30 inches above the surface, and a minimum clear length of 48 inches measured from 2 inches above the surface of the platform to 30 inches above the surface. (See [Fig. 1](http://www.access-board.gov/transit/html/Transfig1.html))*
 
 The requirement for the 1/4-inch maximum protrusion is consistent with common accessibility standards and is intended to reduce tripping hazards for standees.
 
@@ -349,7 +349,7 @@ With respect to the force requirements, handrails in buildings and facilities ar
 
 In regard to handrail shape or configuration, the Board is not aware of any problems with either curved or vertical handrails, provided they move in tandem with the platform. As for handrail diameter, the requirements in this section are consistent with the Board sponsored hand anthropometrics research project which tested gripping by persons with various hand disabilities and confirmed the appropriateness of the specified dimensions. A 1-inch diameter handrail would not be usable. Most car handrails are made of pipe. In the building industry, pipe size typically specifies inside diameter so that a 1-1/2 inch pipe handrail actually has a larger outside diameter, sometimes up to 2 inches. Such handrails have not posed any known problem. Thus, the 1-1/2 inch diameter requirement can result in a handrail of approximately 2 inches under current building industry practices. The 1-1/2 inch clearance also received general support and has been included.
 
-It is critical that more than one handrail be provided if standees are to be able to use the lift. The presence of two handrails is also critical for rotary lifts. However, because of the design of rotary lifts, it may be that a suitable configuration can be achieved with handrails that are not necessarily on *opposite* sides of the platform, but might be on two adjacent sides. Accordingly, this section specifies handrails on "two sides" rather than "both sides" of the platform.
+It is critical that more than one handrail be provided if standees are to be able to use the lift. The presence of two handrails is also critical for rotary lifts. However, because of the design of rotary lifts, it may be that a suitable configuration can be achieved with handrails that are not necessarily on *opposite* sides of the platform, but might be on two adjacent sides. Accordingly, this section specifies handrails on "two sides" rather than "both sides" of the platform.
 
 **(c) Vehicle Ramp or Bridge Plate**
 
@@ -365,7 +365,7 @@ Since ramps are permitted in some cases instead of lifts, it is essential that t
 
 The term "continuous surface" means a single, uninterrupted surface from edge to edge as opposed to a platform with a gap in the middle that may incorporate steps. It is also intended to preclude the use of two separate ramps placed some distance apart. Those configurations can accommodate four wheeled devices but cannot accommodate three wheeled scooters. Ramps having two parts are permitted, provided they are designed to be deployed together to provide a uniform, uninterrupted surface. The term was not intended to preclude expanded metal ramps which are often much lighter than solid platforms of the same strength.
 
-While lift platforms are permitted to be 28-1/2 inches wide, ramps must have a clear width *at the surface* of 30 inches. This is because ramps are designed to be traversed, while a wheelchair or mobility aid user essentially remains stationary on a lift platform while it is in operation. For this reason, a wheelchair or mobility aid user needs more clearance on a ramp for maneuvering than on a lift platform. The restriction on 1/4-inch high protrusions is taken from common accessibility standards for accessible surfaces.
+While lift platforms are permitted to be 28-1/2 inches wide, ramps must have a clear width *at the surface* of 30 inches. This is because ramps are designed to be traversed, while a wheelchair or mobility aid user essentially remains stationary on a lift platform while it is in operation. For this reason, a wheelchair or mobility aid user needs more clearance on a ramp for maneuvering than on a lift platform. The restriction on 1/4-inch high protrusions is taken from common accessibility standards for accessible surfaces.
 
 A minimum value or coefficient of friction is not specified for slip resistance due to practical difficulties in measuring such a value. However, the Board has conducted research on slip resistance and recommends a static coefficient of friction of 0.8 for ramp surfaces.
 

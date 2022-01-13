@@ -6,8 +6,6 @@ file-description: PDF version of Chapter 3 Floor and Ground Surfaces Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-3-floor-and-ground-surfaces/
 ---
-{% include sr-dimension-markings.html %}
-
 This guide explains requirements in the [ADA
 Standards]({{ site.baseurl }}/ada/) for floor and ground
 surfaces. Specifications for floor and ground surfaces address surface
@@ -22,6 +20,7 @@ to:
 - accessible parking spaces, access aisles, and accessible passenger
     loading zones.
 
+{% include sr-dimension-markings.html %}
 ### Firmness, Stability, and Slip Resistance
 
 [[§302.1]({{ site.baseurl }}/ada/#ada-302_1)]

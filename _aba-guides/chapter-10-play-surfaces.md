@@ -45,7 +45,7 @@ The site plan should include the layout of equipment and the planned accessible 
 
 
 ### 2. Follow the Accessibility Standards for Play Areas
-The [2010 Americans with Disabilities Act (ADA) Standards for Accessible Design]({{ site.baseurl }}/ada/) apply to state and local governments (Title II) and places of public accommodation (Title III). The [Architectural Barriers Act (ABA) Accessibility Standards]({% link _aba/about.md %}) apply to federal facilities. Both standards require newly constructed playgrounds and those existing playgrounds that are altered to comply with a series of technical provisions for accessible play components and the accessible route connecting these components.
+The [2010 Americans with Disabilities Act (ADA) Standards for Accessible Design]({{ site.baseurl }}/ada/) apply to state and local governments (Title II) and places of public accommodation (Title III). The [Architectural Barriers Act (ABA) Accessibility Standards]({% link _aba/about.md %}) apply to federal facilities. Both standards require newly constructed playgrounds and those existing playgrounds that are altered to comply with a series of technical provisions for accessible play components and the accessible route connecting these components.
 
 The accessibility standards are minimum standards and do not require the entire play surface area to be accessible. The only required accessible surface area includes the accessible route from the entry of the play area, at least one connection to each accessible play component (points of entry and egress) and any clear space requirements adjacent to accessible play components. Children's play behavior indicates they spontaneously move throughout the play equipment, navigating on their own preferred routes. Designing the entire use zone as a congruent accessible route is recommended as a best practice to accommodate the free play behavior of all children navigating the play space.
 
@@ -68,7 +68,7 @@ For a playground surface to be compliant, both safe and accessible, it must meet
 The surface for the accessible route within the play area must meet the technical provisions of the standards as long as it is open for public use. Further, ground surfaces used for the accessible route are required to be inspected and maintained regularly and frequently to ensure continued compliance with ASTM F 1951-99. From the grand opening celebration to the coldest January day when parents bring their children outside to play and get some fresh air; as long as the playground is open for use, it must meet safety and accessibility standards.
 
 
- **Applying the Accessibility Standards to the Plan, Installation, and Maintenance of Ground Level Accessible Routes for Playgrounds**
+ **Applying the Accessibility Standards to the Plan, Installation, and Maintenance of Ground Level Accessible Routes for Playgrounds**
 
 The following questions can be used through the planning process, during construction and as part of routine maintenance.
 
@@ -84,7 +84,7 @@ The following questions can be used through the planning process, during constru
 -   Does the clear ground space, 30 x 48 inches minimum, at egress of accessible equipment have a cross slope less than 1:48 or 2.08%?
 -   Are the ground surfaces inspected and maintained regularly and frequently to ensure continued compliance with ASTM F1951-99?
 
-For more explanation on the application of the accessibility standards to public playgrounds, see [A Summary of Accessibility Guidelines for Play Areas]({% link _ada-guides/chapter-10-play-areas.md %}).
+For more explanation on the application of the accessibility standards to public playgrounds, see [A Summary of Accessibility Guidelines for Play Areas]({% link _ada-guides/chapter-10-play-areas.md %}).
 
 
 ---
@@ -92,7 +92,7 @@ For more explanation on the application of the accessibility standards to public
 
 ### 3\. Review the Research Findings About Accessibility Issues for Play Surfaces
 ![A data collector records the findings from a playground in the research study where the rotational penetrometer is set up at the entry.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-surfaces/3.JPG){: .img-right}
-From 2008 to 2012, the National Center on Accessibility at Indiana University-Bloomington, conducted a [longitudinal study](http://www.ncaonline.org/resources/articles/playground-surfacestudy-finalreport.shtml) on the accessibility of playground surfaces. The study was funded by the U.S. Access Board. The purpose of this study was to evaluate a variety of playground surfaces, their ability to meet accessibility requirements, their costs upon initial installation and maintenance issues over a 3-5 year period.
+From 2008 to 2012, the National Center on Accessibility at Indiana University-Bloomington, conducted a [longitudinal study](http://www.ncaonline.org/resources/articles/playground-surfacestudy-finalreport.shtml) on the accessibility of playground surfaces. The study was funded by the U.S. Access Board. The purpose of this study was to evaluate a variety of playground surfaces, their ability to meet accessibility requirements, their costs upon initial installation and maintenance issues over a 3-5 year period.
 
 The research design for this study of playground surfaces began in 2005 with input from a national advisory committee. During the study, quantitative and qualitative data was collected through on-site inspections for a 3-5 year period. A national advisory committee provided feedback on the categories of surfaces to be evaluated, the criteria to be used for evaluation, the locations within each playground to be evaluated, data collection worksheets and on-site protocol. In addition, advisory committee members helped to expand the network for recruitment in the study and increase national awareness among playground owners.
 
@@ -130,10 +130,10 @@ The most valuable lesson to be learned from this longitudinal study is that ther
 6.  A playground surface with fewer accessibility deficiencies and a lower measurement for firmness and stability did not necessarily meet the safety standards for impact attenuation.
 7.  Surface cost for material cannot serve as an indicator or predictor of performance.
 
-The full report [A Longitudinal Study of Playground Surfaces to Evaluate Accessibility: Final Report](http://www.ncaonline.org/resources/articles/playground-surfacestudy-finalreport.shtml) is available on the National Center on Accessibility web site: [www.ncaonline.org](http://www.ncaonline.org/).
+The full report [A Longitudinal Study of Playground Surfaces to Evaluate Accessibility: Final Report](http://www.ncaonline.org/resources/articles/playground-surfacestudy-finalreport.shtml) is available on the National Center on Accessibility web site: [www.ncaonline.org](http://www.ncaonline.org/).
 
 ##### Poured in Place Rubber (PIP)
-![Two hard-back swings over a blue/green poured-in-place rubber surface.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-surfaces/5.jpg) 
+![Two hard-back swings over a blue/green poured-in-place rubber surface.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-surfaces/5.jpg) 
 
 ##### Tiles (TIL)
 ![A hard-back swing over a rubber tile surface bordered with engineered wood fiber.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-surfaces/6.jpg)
@@ -273,10 +273,10 @@ Openings = 1/2 inch max
 Once the playground surface is installed, an on-site inspection of the surface system should be conducted along the accessible routes, at the clear ground spaces for entry/egress of equipment and required turning spaces. A digital level can be used to measure the running slope and cross slope. A 2 ft. digital level is most commonly used for accessibility assessments as it can measure greater variances within the cross slope than a longer level. A tape measure can be used to check any changes in level and openings on the accessible route. Changes in level should also be checked at transition points where the surface material changes. The firmness and stability of the playground surface along the accessible route can be measured in the field with a Rotational Penetrometer.
 
 ![A digital level is used to measure the transition between the loose fill surface material and the unitary surface material.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-surfaces/11.jpg){: .img-large}
-*The maximum running slope for the ground level accessible route must not exceed 1:16 or 6.25%. Using a digital level is one option for measuring the slope of the ground level accessible route.*{: .text-center}
+*The maximum running slope for the ground level accessible route must not exceed 1:16 or 6.25%. Using a digital level is one option for measuring the slope of the ground level accessible route.*{: .text-center}
 
 ![A digital level is used to measure the cross-slope at the transfer system.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-surfaces/9.jpg){: .img-large}
-*Measure the clear ground space in all directions with a digital level to ensure it is less than 1:48 or 2.08%. The clear ground space at all accessible play components entry and egress must be level for a child to transfer safely from a wheelchair to the play component.*{: .text-center}
+*Measure the clear ground space in all directions with a digital level to ensure it is less than 1:48 or 2.08%. The clear ground space at all accessible play components entry and egress must be level for a child to transfer safely from a wheelchair to the play component.*{: .text-center}
 
 ![A researcher inserts his index finger into the one inch gap between the seam of the yellow and red carpets.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-surfaces/10.jpg){: .img-large}
 *Openings or gaps in the surface cannot exceed a 1/2 inch.*{: .text-center}
@@ -360,7 +360,7 @@ An accessible surface system can be rendered useless if it is not properly insta
 
 ![A mound of excavated dirt is shown in the foreground while the new playground construction site is prepared for installation of the surface system.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-surfaces/18.jpg){: .img-full}
 
-*The playground site has been graded with earth-moving equipment. The concrete base has been prepared and is awaiting the application of the poured-in-place rubber (PIP) system. At this site, the playground equipment and surface system will be installed by a contractor specializing in playground construction.*{: .text-center}
+*The playground site has been graded with earth-moving equipment. The concrete base has been prepared and is awaiting the application of the poured-in-place rubber (PIP) system. At this site, the playground equipment and surface system will be installed by a contractor specializing in playground construction.*{: .text-center}
 
 ![A park maintenance crew of four men are shown on their knees seaming together the top mat of a hybrid surface system as it is installed.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-surfaces/19.jpg){: .img-full}
 
@@ -399,7 +399,7 @@ The NCA surface study showed there was a lack of installation/maintenance inform
 
 ![A researcher measures the depth of a kick-out area at a ground level play component with a two meter straight edge laid horizontal over the surface.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-surfaces/22.jpg){: .img-full}
 
-*Loose fill materials, like EWF, may experience undulation of the surface material and or displacement under heavy use areas with motion such as at swings, slides, sliding pools, climbers, spinners and teeter totters. This will require the surface material to be raked level, fi lled and compacted so that the clear ground space is level in all directions for a safe transfer onto and off the equipment.*
+*Loose fill materials, like EWF, may experience undulation of the surface material and or displacement under heavy use areas with motion such as at swings, slides, sliding pools, climbers, spinners and teeter totters. This will require the surface material to be raked level, fi lled and compacted so that the clear ground space is level in all directions for a safe transfer onto and off the equipment.*
 
 
 Surface deficiencies were found to exist at each site regardless of the frequency of visits by the playground crew. Maintenance crews should receive training both on the accessibility standards and the care specific to the surface material. Over the course of the longitudinal study, the research team found that where the playground crews became more engaged in the study, the maintenance specific to accessibility began to improve. At least three EWF sites had improved accessibility where the surface material was observed as more level and better compacted than previous site visits. One site utilizing PIP as the primary access route and EWF as the secondary access route was assessed with less than 1 percent slope at the transition between the two surface materials. This was observed as the most improved and maintained transition between surface materials of the sample.

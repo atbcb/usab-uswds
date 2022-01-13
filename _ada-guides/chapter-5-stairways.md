@@ -6,8 +6,10 @@ file-description: PDF version of Chapter 5 Stairways Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-5-stairways/
 ---
-This guide explains requirements in the [ADA
-Standards]({{ site.baseurl }}/ada/) for stairways. 
+This guide explains requirements in the [ADA
+Standards]({{ site.baseurl }}/ada/) for stairways. 
+
+{% include sr-dimension-markings.html %}
 
 ### Required Compliance
 
@@ -45,10 +47,10 @@ means of egress are altered (§210.1, Ex. 2).
 Requirements for stairways address treads and risers, surfaces, nosings,
 and handrails.
 
-![Stairs with riser 4" -- 7" high and tread depth 11" min. Notes: Treads
+![Stairs with riser 4 inches to 7 inches high and tread depth 11 inches minimum. Notes: Treads
 and Risers (§504.2 and §504.3) All steps on a flight must have uniform
-riser heights within a range of 4" -- 7" and uniform tread depths that
-are 11" min. Open risers are prohibited. Tread Surface and Wet
+riser heights within a range of 4 inches to 7 inches and uniform tread depths that
+are 11 inches minimum. Open risers are prohibited. Tread Surface and Wet
 Conditions (§504.4 and (§504.7) Tread surfaces must comply with
 requirements for ground and floor surfaces (§302) and cannot have
 changes in level other than slopes not steeper than 1:48. Treads and
@@ -57,10 +59,10 @@ accumulation of
 water.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5s3.jpg){: .img-large}
 
 ![Three nosing profiles shown. Tread edge radius with note: The radius
-of curvature at the leading edge of the tread must be ½" max. Angled
+of curvature at the leading edge of the tread must be ½ inches maximum Angled
 riser with note: Risers can slope under the tread at an angle not
-exceeding 30º from vertical. Curved or beveled nosing with note: Nosings
-cannot project more than 1½" over the tread, and the underside of the
+exceeding 30 degrees from vertical. Curved or beveled nosing with note: Nosings
+cannot project more than 1½ inches over the tread, and the underside of the
 leading edge of the nosing must be curved or beveled.
 ]({{ site.baseurl }}{{ page.image-directory }}chapter5/5s4.jpg){: .img-large}
 
@@ -78,10 +80,10 @@ switchback or dogleg stairs must be continuous.
 
 #### Stairway Handrails
 
-![Switchback stair and landing. Notes and labels: 12" min. horizontal
-top extension in same direction as stair flight (§505.10.2); 34" - 38"
+![Switchback stair and landing. Notes and labels: 12 inches minimum horizontal
+top extension in same direction as stair flight (§505.10.2); 34 inches to 38 inches
 (consistent height) above nosing to top of gripping surface (§505.4),
-Sloped bottom extension 1 tread depth min. beyond last riser nosing in
+Sloped bottom extension 1 tread depth minimum beyond last riser nosing in
 same direction as stair flight (§505.10.3), Handrails must return to a
 wall, guard, or floor and cannot rotate within fittings (§505.10.2,
 §505.10.3), Inside handrails at switchback/ dogleg turns must be
@@ -106,7 +108,7 @@ length is measured to the start of the return radius.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter5/5s6-a.jpg" alt="Top horizontal handrail extension 12 inches long min. at stairs. Note:
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter5/5s6-a.jpg" alt="Top horizontal handrail extension 12 inches long minimum at stairs. Note:
 Handrails at the top of stairways must extend 12 inches minimum horizontally above the landing beginning directly above the first riser nosing or be continuous to the handrail of an adjacent stair flight (§505.10.2).">
     </div>
     <div class="tablet:grid-col">
@@ -117,15 +119,15 @@ distance at least equal to one tread depth. Note: Handrails at the bottom must e
 </div>
 
 ![Top horizontal handrail extension with P-shaped return to post; bottom
-edge of return is 27" high max. Notes: treatment as protruding object
+edge of return is 27 inches high maximum. Notes: treatment as protruding object
 not required. Objects mounted on posts with leading edges higher than
-27" cannot protrude into circulation paths more than 12" (§307.3). With
+27 inches cannot protrude into circulation paths more than 12 inches (§307.3). With
 handrails, this applies only to horizontal portions, not sloped
 portions. Horizontal top extensions that return to posts can protrude
-any amount if the leading edge is 27" max. above the finish floor or
+any amount if the leading edge is 27 inches maximum above the finish floor or
 ground. Recommendation: Treat free-standing bottom extensions as
 protruding objects if they have leading edges higher than
-27".]({{ site.baseurl }}{{ page.image-directory }}chapter5/5s8a.jpg){: .img-large}
+27 inches.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5s8a.jpg){: .img-large}
 
 ### Handrail Clearance and Cross Section
 
@@ -135,12 +137,12 @@ Surface requirements and clearances facilitate a power grip along the
 length of handrails. Handrails can have circular or non-circular
 cross-sections, but must have rounded edges. The gripping surface and
 adjacent surfaces must be free of abrasive or sharp elements.
-Wall-mounted handrails with leading edges higher than 27" cannot
-protrude more than 4½" into circulation paths (§307.2).
+Wall-mounted handrails with leading edges higher than 27&Prime; cannot
+protrude more than 4½&Prime; into circulation paths (§307.2).
 
 #### Circular Cross Section and Clearance
 
-![Handrail circular cross section 1/1/4" to 2" in diameter with a 1 ½"
+![Handrail circular cross section 1 1/4 inches to 2 inches in diameter with a 1 ½ inches
 clearance behind and below. Note: Specifications for handrails also
 address the diameter of circular cross sections and required knuckle
 clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar29.jpg){: .img-large}
@@ -148,11 +150,11 @@ clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar29.jpg){: .i
 #### Non-Circular Cross Section and Clearance
 
 ![Handrail non-circular cross section (square with rounded corners) with
-2 ¼" max. dimension, rounded edges, 4" to 6 ¼" perimeter dimension, 1 ½"
-clearance behind, and clearance below that is 1 ½" (less 1/8" for each
-½" additional perimeter dimension. Note: Non-circular cross sections
+2 ¼ inches maximum dimension, rounded edges, 4 inches to 6 ¼ inches perimeter dimension, 1 ½ inches
+clearance behind, and clearance below that is 1 ½ inches (less 1/8 inches for each
+½ inches additional perimeter dimension. Note: Non-circular cross sections
 must have rounded edges and meet perimeter and cross-section dimensions.
-Other profiles meeting these criteria are permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}  
+Other profiles meeting these criteria are permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}
 
 {% include recommendation.html
 text= "Projecting objects above handrails can impact their usability. Keep wall surfaces above handrails free of any protrusions."
@@ -164,10 +166,10 @@ text= "Projecting objects above handrails can impact their usability. Keep wall 
 
 The ADA Standards address escalators in rail and fixed
 guideway stations (§810.9) but not those provided in other types of
-facilities. Escalators must have a clear width of at least 32" and meet
+facilities. Escalators must have a clear width of at least 32 inches and meet
 specific provisions in the ASME A17.1 Safety Code for Elevators and
 Escalators. The referenced ASME criteria require steps to be demarcated
-by yellow lines 2" wide maximum along the back and sides (§6.1.3.5.6)
+by yellow lines 2 inches wide maximum along the back and sides (§6.1.3.5.6)
 and specify at least 2, but no more than 4, flat steps at escalator
 entrances and exits (§6.1.3.6.5).
 
@@ -177,7 +179,7 @@ text= "Apply the requirements for escalators in rail and fixed guideway stations
 
 ### Common Questions
 
-![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail} 
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail} 
 
 #### Are stairs that are not part of means of egress required to comply with the Standards?
 
@@ -220,13 +222,13 @@ or be shortened as necessary.
 #### Can handrails overlap door maneuvering clearances?
 
 ![Handrail extension shown at latch side of door and shown outside door
-maneuvering clearance that is located 8" max. from the face of the
+maneuvering clearance that is located 8 inches maximum from the face of the
 door.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5s10.jpg){: .img-right}
 
 No, door maneuvering clearances must be free of any overlapping objects,
 even those providing knee and toe clearance, which can interfere with
 maneuvering at doors and doorways. However, door maneuvering clearances
-can be offset up to 8" from the face of the door or gate to accommodate
+can be offset up to 8&Prime; from the face of the door or gate to accommodate
 wall thickness, casework, shelves, or other elements adjacent to
 doorways, including handrails. The door maneuvering clearance must be
 measured from the leading edge of such elements so that the full
@@ -250,7 +252,7 @@ helpful for people with low vision, but it is not required by the
 Standards except at escalators in rail and fixed guideway stations which
 must meet the ASME A17.1 Safety Code for Elevators and Escalators. The
 ASME A17.1 code requires escalator steps to be demarcated by yellow
-lines 2" wide maximum along the back and sides.
+lines 2&Prime; wide maximum along the back and sides.
 
 #### Can guards or collars be attached to handrails to prevent skateboard traffic?
 

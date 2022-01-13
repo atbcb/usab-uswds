@@ -242,7 +242,7 @@ No, if the facility meets the standards that were in effect at the time of its c
 
 #### Are federal facilities required to meet the ADA Standards as well as the ABA Standards?
 
-Federal government facilities are subject only to the ABA Standards (which are very similar to the ADA Standards). However, non-federal facilities that receive federal funding may be subject to the ABA Standards in addition to the ADA Standards. For example, a county courthouse or jail built with federal monies would be covered by the ADA Standards (as a local government building) and by the ABA Standards (as a consequence of federal funding). Also, in a privately owned office building covered by the ADA Standards, space leased by a federal agency would be subject to the ABA Standards as well. 
+Federal government facilities are subject only to the ABA Standards (which are very similar to the ADA Standards). However, non-federal facilities that receive federal funding may be subject to the ABA Standards in addition to the ADA Standards. For example, a county courthouse or jail built with federal monies would be covered by the ADA Standards (as a local government building) and by the ABA Standards (as a consequence of federal funding). Also, in a privately owned office building covered by the ADA Standards, space leased by a federal agency would be subject to the ABA Standards as well. 
 
 #### Can later editions of the industry standards or building codes referenced by the ABA Standards be used?
 

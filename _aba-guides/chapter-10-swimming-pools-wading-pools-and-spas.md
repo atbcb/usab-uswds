@@ -57,16 +57,16 @@ facility]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/pagep
 ![illustration of large pool showing the required two means of
 access]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-7hi.jpg){: .img-right}
 
-Large pools must have a minimum of two accessible means of entry.  A
+Large pools must have a minimum of two accessible means of entry.  A
 large pool is defined as any pool with over 300 linear feet of pool
-wall.  Pool walls at diving areas and in areas where swimmers cannot
+wall.  Pool walls at diving areas and in areas where swimmers cannot
 enter because of landscaping or adjacent structures are still counted as
 part of the pool's total linear feet.
 
 The primary means of entry must be either a sloped entry into the water
 or a pool lift that is capable of being independently operated by a
-person with a disability.  The secondary means of entry could be a pool
-lift, sloped entry, transfer wall, transfer system, or pool stairs.  It
+person with a disability.  The secondary means of entry could be a pool
+lift, sloped entry, transfer wall, transfer system, or pool stairs.  It
 is recommended that where two means of entry are provided, they be
 different types and be situated on different pool walls.
 
@@ -88,28 +88,28 @@ transfer system.
 #### Catch Pools
 
 A catch pool is a body of water where water slide flumes drop users into
-the water.  An accessible means of entry or exit is not required into
+the water.  An accessible means of entry or exit is not required into
 the catch pool. However, an accessible route must connect to the edge of
 the catch pool.
 
 #### Wading Pools
 
 A wading pool is a pool designed for shallow depth and is used for
-wading.  Each wading pool must provide at least one sloped entry into
+wading.  Each wading pool must provide at least one sloped entry into
 the deepest part. Other forms of entry may be provided as long as a
-sloped entry is provided.  The sloped entries for wading pools are not
+sloped entry is provided.  The sloped entries for wading pools are not
 required to have handrails.
 
 #### Spas
 
 ![photo of lift on a spa]({{ site.baseurl }}{{ page.image-directory }}chapter10/pool-guide/page-8lo.jpg){: .img-right}
 Spas must provide at least one accessible means of entry, which can be a
-pool lift, transfer wall, or transfer system.  If spas are provided in a
+pool lift, transfer wall, or transfer system.  If spas are provided in a
 cluster, 5 percent of the total --- or at least one spa --- must be
-accessible.  If there is more than one cluster, one spa or 5 percent per
+accessible.  If there is more than one cluster, one spa or 5 percent per
 cluster must be accessible.
 
-Footrests are not required on pool lifts provided at spas.  However,
+Footrests are not required on pool lifts provided at spas.  However,
 footrests or retractable leg supports are encouraged, especially on
 lifts used in larger spas, where the water depth is 34 inches or more
 and there is sufficient space.
@@ -775,9 +775,9 @@ Water Play Components (exceptions)
     </tbody>
 </table>
 
-\* The guide uses the term ADAAG (Americans with Disabilities Act
+\* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
- The recreational provisions of these guidelines were adopted into the
+ The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
 the Architectural Barriers Act (ABA) Accessibility Standards).

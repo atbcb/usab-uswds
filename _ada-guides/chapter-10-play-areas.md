@@ -18,6 +18,8 @@ Access Board does not evaluate or certify products for compliance with
 the accessibility guidelines. Users are advised to obtain and review
 product specifications for compliance with the accessibility guidelines.
 
+{% include sr-dimension-markings.html %}
+
 ### Introduction
 
 The Americans with Disabilities Act (ADA) is a comprehensive civil
@@ -54,7 +56,7 @@ Soft Contained Play Structures
 The Access Board would like to thank the following manufacturers for
 their generous assistance: Bob Leathers, Columbia Cascade, GameTime,
 KOMPAN, Landscape Structures, Little Tikes, Miracle, Olympic Recreation,
-Playworld Systems, and Recreation Creations.   This manual was developed
+Playworld Systems, and Recreation Creations.  This manual was developed
 in part through a contract with KOMPAN, Inc., 50 Commercial Drive,
 Johnson City, New York 13790.
 
@@ -187,9 +189,9 @@ or exiting the equipment.
 
 #### New Construction
 The play area guidelines in this guide apply to all newly designed or
-constructed play areas for children ages 2 and older.  This includes
+constructed play areas for children ages 2 and older.  This includes
 play areas located in a variety of settings: parks, schools, childcare
-facilities, shopping centers, and public gathering areas.  Owners or
+facilities, shopping centers, and public gathering areas.  Owners or
 operators of newly constructed play areas are responsible for complying
 with these guidelines.
 
@@ -202,12 +204,12 @@ The play area guidelines do not apply to:
 #### Alterations
 
 The play area guidelines apply to alterations made to existing play
-areas that affect, or could affect, the usability of the play area. 
+areas that affect, or could affect, the usability of the play area. 
 Examples include removing a climbing play component and replacing it
 with a spring rocker, or changing the ground surfacing.
 
 Alterations provide an opportunity to improve access to existing play
-areas.  Where play components are altered and the ground surface is not,
+areas.  Where play components are altered and the ground surface is not,
 the ground surface does not have to comply with the ASTM F 1951-99
 standard for accessible surfaces unless the cost of providing an
 accessible surface is less than 20 percent of the cost of the
@@ -215,18 +217,18 @@ alterations to the play components.
 
 If the entire ground surface of an existing play area is replaced, the
 new ground surface must provide an accessible route to connect the
-required number and types of play components.  Normal maintenance
+required number and types of play components.  Normal maintenance
 activities such as replacing worn ropes or topping off ground surfaces
 are not considered alterations.
 
 If play components are relocated in an existing play area to create safe
 use zones, the guidelines do not apply, provided that the ground surface
-is not changed or extended for more than one use zone.  Replacing the
+is not changed or extended for more than one use zone.  Replacing the
 entire ground surface does not require the addition of more play
 components.
 
 ![photo of a play area with composite structure and 2 spring riders]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/23.jpg){: .img-large}
-<div class="img-large-caption">This play area was altered by adding two spring rockers (background).  The seat of at least one spring rocker is between 11 inches (280 mm) and 24 inches (610 mm) maximum, and clear floor or ground space and maneuvering space is provided.  If the ground surface is replaced in the future, an accessible route would have to be provided to the spring rocker.</div>
+<div class="img-large-caption">This play area was altered by adding two spring rockers (background).  The seat of at least one spring rocker is between 11 inches (280 mm) and 24 inches (610 mm) maximum, and clear floor or ground space and maneuvering space is provided.  If the ground surface is replaced in the future, an accessible route would have to be provided to the spring rocker.</div>
 
 #### Equivalent Facilitation
 
@@ -236,20 +238,20 @@ accessibility or usability.
 
 Equivalent facilitation is the concept of utilizing innovative solutions
 and new technology, design, or materials in order to satisfy the
-guidelines.  These alternative solutions provide equal access and take
+guidelines.  These alternative solutions provide equal access and take
 advantage of new developments, but may differ technically from specific
 guidelines.
 
 #### Phasing in Play Areas
 
 When play areas are constructed in phases, they must continue to meet
-the play area guidelines throughout construction.  The initial phase
+the play area guidelines throughout construction.  The initial phase
 area must meet the guidelines, and then at each successive phase the
-whole play area must be reassessed to assure compliance.  "Phased
+whole play area must be reassessed to assure compliance.  "Phased
 Designs" are play areas developed to be installed in different stages,
 allowing the play area to grow in a planned manner while accommodating
-budgets, fund raising, or community approval processes.  The play area
-shown below will be installed in twp phases.  As each phase is
+budgets, fund raising, or community approval processes.  The play area
+shown below will be installed in twp phases.  As each phase is
 completed, the entire play area must be reevaluated for compliance.
 
 ![Plan view of Phase A of
@@ -260,16 +262,16 @@ projects]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/3.jpg
 
 #### Play Areas Separated by Age
 To reduce the risk of injury, safety guidelines recommend separate play
-areas for different age groups.  In applying the guidelines, play areas
-designed for different age groups should be considered separately.  A
+areas for different age groups.  In applying the guidelines, play areas
+designed for different age groups should be considered separately.  A
 play area designed for 2 to 5 year-olds is considered separate from one
-for 5 to 12 year-olds.  Therefore, compliance with the guidelines must
+for 5 to 12 year-olds.  Therefore, compliance with the guidelines must
 be considered for each individual play area.
 
 #### Geographically Separated Play Areas
 Large geographical spaces may contain several play areas within one park
-setting.  Where play areas are geographically separated on a site, they
-are considered separate play areas.  The accessibility guidelines apply
+setting.  Where play areas are geographically separated on a site, they
+are considered separate play areas.  The accessibility guidelines apply
 to each play area.
 
 
@@ -298,13 +300,13 @@ different play experiences play components can provide.
 
 #### Different \"Types\"
 At least one of each type of play component provided at ground level
-in a play area must be on the accessible route.  Different \"types\" of
+in a play area must be on the accessible route.  Different \"types\" of
 play components are based on the general experience provided by the play
 component. Different types include, but are not limited to, experiences
 such as rocking, swinging, climbing, spinning, and sliding.
 
 \"Rocking\" is an example of horizontal movement that can be backwards,
-forwards, sideways or even circular in nature.  \"Sliding\" is an
+forwards, sideways or even circular in nature.  \"Sliding\" is an
 example of rapid descent that utilizes the force of gravity.
 
 ![photo of children on seesaw-type single play
@@ -337,7 +339,7 @@ experience - or one play component - in the play area.
 #### Elevated Play Components
 An elevated play component is a play component that is
 approached above or below grade and is part of a composite play
-structure.  Play components that are attached to a composite play
+structure.  Play components that are attached to a composite play
 structure and that can be approached from a platform or deck area are
 considered elevated play components.
 
@@ -353,11 +355,11 @@ at ground level. For example, a child approaches a spring rider at
 ground level via the accessible route. The child may ride then exit
 directly back onto the accessible route. The activity is considered
 ground level because the child approaches and exits it from the
-ground-level route.  
+ground-level route. 
 
 \"Ground-level components\" are approached and exited at ground
-level. Ground-level play components may include items such as swings, spring
-riders, and panels. Freestanding slides are considered ground-level
+level. Ground-level play components may include items such as swings, spring
+riders, and panels. Freestanding slides are considered ground-level
 components for the purpose of these guidelines. An accessible route must
 connect to the ladder or steps, and to the exit of the slide. While this
 solution does not provide access for all children, it gives many
@@ -374,7 +376,7 @@ text= "Ground-level play components may be part of a composite structure (left) 
 
 
 When more than one ground-level play component is required on an
-accessible route, the play components must be integrated.  Designers
+accessible route, the play components must be integrated.  Designers
 should consider the optimal layout of ground-level play components to
 foster interaction and socialization among all children. Grouping all
 ground-level play components accessed by children with disabilities in
@@ -418,7 +420,7 @@ experiences that is present in the play area."
 
 The number and variety of ground-level play components required to be on
 an accessible route is also determined by the number of elevated
-components provided in the play area.  The intent of this requirement is
+components provided in the play area.  The intent of this requirement is
 to provide a variety of experiences for individuals who choose to remain
 with their mobility devices, or choose not to transfer to elevated play
 components.
@@ -487,15 +489,15 @@ components.
 </table>
 
 
-If ramps provide access to at least 50 percent of the elevated play components -- which must include at least three different play types -- then additional ground-level components are not required.  An example:  the composite structure of a play area has four elevated play components (bubble panel, slide, steering wheel, and tic-tac-toe panel).  According to the table, a minimum of one ground level play component must be provided, and a minimum of one different type.  The spring rider or swing can be used to meet the "one of each type" requirement and can also be used to meet the minimum number determined by Table 240.2.1.2.  The number of ground-level components determined by "one of each type" can also fulfill the minimum ground level requirement that is indicated by the elevated play components table.
+If ramps provide access to at least 50 percent of the elevated play components -- which must include at least three different play types -- then additional ground-level components are not required.  An example:  the composite structure of a play area has four elevated play components (bubble panel, slide, steering wheel, and tic-tac-toe panel).  According to the table, a minimum of one ground level play component must be provided, and a minimum of one different type.  The spring rider or swing can be used to meet the "one of each type" requirement and can also be used to meet the minimum number determined by Table 240.2.1.2.  The number of ground-level components determined by "one of each type" can also fulfill the minimum ground level requirement that is indicated by the elevated play components table.
 
 #### Elevated Play Components
 
-At least 50 percent of the elevated play components must be on an accessible route.  An "elevated play component" is a play component reached from above or below grade, and is part of a composite play structure.
+At least 50 percent of the elevated play components must be on an accessible route.  An "elevated play component" is a play component reached from above or below grade, and is part of a composite play structure.
 
 ![photo of a composite structure with over 20 elevated components]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/24.jpg){: .img-large}
 
-<div class="img-large-caption">Play areas with 20 or more elevated components must use ramps to connect a minimum of 25 percent of those components.  A transfer system or ramps may connect the other elevated play components required on an accessible route.</div>
+<div class="img-large-caption">Play areas with 20 or more elevated components must use ramps to connect a minimum of 25 percent of those components.  A transfer system or ramps may connect the other elevated play components required on an accessible route.</div>
 
 
 ![photo of composite structure with less than 20 elevated components]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/25.jpg){: .img-large}
@@ -505,37 +507,37 @@ At least 50 percent of the elevated play components must be on an accessible rou
 
 #### Step-by-Step Guide
 
-The following step-by-step guide has been provided to assist in evaluating a play area for meeting the minimum requirements of these guidelines.  The guide has been arranged in four steps and provides spaces to fill in numeric values of play components for evaluating a specific play area design.
+The following step-by-step guide has been provided to assist in evaluating a play area for meeting the minimum requirements of these guidelines.  The guide has been arranged in four steps and provides spaces to fill in numeric values of play components for evaluating a specific play area design.
 
 ![evaluation flowchart described in narrative]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/flowchart.jpg){: .img-full}
 
 **STEP 1 Assess your play area design**\
-This step identifies the number and different types of ground level play components provided in a play area design.  The number of elevated play components is also identified.
+This step identifies the number and different types of ground level play components provided in a play area design.  The number of elevated play components is also identified.
 
 **STEP 2 Determine what is needed**\
-In some cases, the accessibility guidelines will require additional play components to be provided to meet the minimum requirements.  Step 2 begins identifying what is needed by reading Table 240.2.1.2.  Table 240.2.1.2 establishes a minimum level of ground level play components required to be on an accessible route, based on the number of elevated play components provided.
+In some cases, the accessibility guidelines will require additional play components to be provided to meet the minimum requirements.  Step 2 begins identifying what is needed by reading Table 240.2.1.2.  Table 240.2.1.2 establishes a minimum level of ground level play components required to be on an accessible route, based on the number of elevated play components provided.
 
 **STEP 3 Compare which is greater**\
-Step 3 compares your results in identifying the number and different types of ground level play components with those required by Table 240.2.1.2.  The greater number is considered to be the minimum number of ground level play components required to be on an accessible route.
+Step 3 compares your results in identifying the number and different types of ground level play components with those required by Table 240.2.1.2.  The greater number is considered to be the minimum number of ground level play components required to be on an accessible route.
 
 **STEP 4 Assess how to get there**\
-Step 4 examines the number of elevated play components provided, beginning with the number established in step 1.  Once the number of elevated play components provided is identified, step 4 defines the type of route to be provided to connect to these elevated play components.  Where 20 or more elevated play components are provided, ramps must connect to a minimum of 25% of the elevated play components.  Ramp or transfer systems must connect to the remaining 25%.  If 19 or fewer elevated play components are provided, transfer systems must connect to a minimum of 50% of the elevated play components.
+Step 4 examines the number of elevated play components provided, beginning with the number established in step 1.  Once the number of elevated play components provided is identified, step 4 defines the type of route to be provided to connect to these elevated play components.  Where 20 or more elevated play components are provided, ramps must connect to a minimum of 25% of the elevated play components.  Ramp or transfer systems must connect to the remaining 25%.  If 19 or fewer elevated play components are provided, transfer systems must connect to a minimum of 50% of the elevated play components.
 
 This step-by-step guide is applied using the proposed play area design.
 
 ![plan view of play area described in the example that includes a spring rider, swing set, banister bars, overhead curved ladder, triple slide, interatctive panel, and transfer system.]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/playarea-design.jpg){: .img-large}
 
-**STEP 1**  Number of ground level play components:  **3**
+**STEP 1**  Number of ground level play components: **3**
 
 -   1 spring rider
 -   2 swings
 
-Number of different types of ground level play components provided:  **2**
+Number of different types of ground level play components provided: **2**
 
 -   spring rider
 -   swing
 
-**STEP 2**  Determining what is needed based on Table 240.2.1.2:
+**STEP 2**  Determining what is needed based on Table 240.2.1.2:
 
 <table class="usa-table">
     <caption>Table 240.2.1.2</caption>
@@ -565,11 +567,11 @@ Number of different types of ground level play components provided:  **2**
     </tbody>
 </table>
 
-**STEP 3**  Determining the greater number:  **2**
+**STEP 3**  Determining the greater number: **2**
 
-In this case, 2 types were provided.  Table 240.2.1.2 requires a minimum of 1.
+In this case, 2 types were provided.  Table 240.2.1.2 requires a minimum of 1.
 
-**STEP 4**  Assessing how to get there:
+**STEP 4**  Assessing how to get there:
 
 Number of elevated = 4 (1 triple slide, 1 interactive panel, 1 overhead curved ladder, 1 banister bars)\
 50% = 2\
@@ -580,7 +582,7 @@ Transfer access required to 2 elevated play components as a minimum
 
 
 ### Accessible Routes Requirements
-ADAAG Section 4.3 addresses accessible routes that connect the play area to the school, parking lot, or facility that it serves.  Operators or owners of play areas are subject to all the other requirements of the ADA, including the obligation to provide individuals with disabilities an equal opportunity to enjoy the play area provided by that facility.
+ADAAG Section 4.3 addresses accessible routes that connect the play area to the school, parking lot, or facility that it serves.  Operators or owners of play areas are subject to all the other requirements of the ADA, including the obligation to provide individuals with disabilities an equal opportunity to enjoy the play area provided by that facility.
 
 This section describes the various features of accessible routes within a play area, including location, clear width, slope, and accessible surfaces.
 
@@ -591,7 +593,7 @@ An accessible route is a pathway specifically designed to provide access for ind
 
 <div class="img-large-caption">Accessible routes inside the boundaries of play areas are addressed in the play area guidelines. Technical provisions address the width, slope, and surface of both ground level and elevated accessible routes.</div>
 
-The accessible route must connect all entry and exit points of accessible play components.  Clear floor space required at play components and maneuvering space can overlap the accessible route.  Incorporating additional circulation space around high-use play components creates extra room for movement and accessibility for everyone using the play area.
+The accessible route must connect all entry and exit points of accessible play components.  Clear floor space required at play components and maneuvering space can overlap the accessible route.  Incorporating additional circulation space around high-use play components creates extra room for movement and accessibility for everyone using the play area.
 
 There are two types of accessible routes:
 
@@ -603,30 +605,30 @@ image-1= "chapter10/play-guide/27.jpg"
 alt-1= "photo of a ground level route that connects to play components and transfer system"
 image-2= "chapter10/play-guide/28.jpg"
 alt-2= "photo of elevated route that connects play components of a composite structure"
-text= "This ground-level route (left) connects ground components and the transfer system which connects elevated components.  This elevated route (right) connects elevated play components on a composite structure."
+text= "This ground-level route (left) connects ground components and the transfer system which connects elevated components.  This elevated route (right) connects elevated play components on a composite structure."
 %}
 
 #### Ground-Level Accessible Routes
 A ground-level accessible route connects play components at ground level.
 
--   60 inches (1525 mm) minimum clear width 
--   1:16 maximum slope 
+-   60 inches (1525 mm) minimum clear width 
+-   1:16 maximum slope 
 
 {% include grid-2col-2img-caption.html
 image-1= "chapter10/play-guide/30.jpg"
 alt-1= "illustration of a route that narrows where a tree encroaches"
 image-2= "chapter10/play-guide/29.jpg"
 alt-2= "plan view illustration of two persons using wheelchairs passing is space that is at least 60 inches (1525 mm) wide"
-text= "The route may narrow down to 36 inches (915 mm) for a distance of 60 inches (1525 mm). This permits flexibility to work around site design features like existing equipment or trees (left). The required 60-inch width enables two wheelchairs to pass each other or to change direction (right)."
+text= "The route may narrow down to 36 inches (915 mm) for a distance of 60 inches (1525 mm). This permits flexibility to work around site design features like existing equipment or trees (left). The required 60 inch width enables two wheelchairs to pass each other or to change direction (right)."
 %}
 
 Smaller play areas - those that are less than 1,000 square feet (93 square meters) - may have ground-level accessible routes that are 44 inches (1120 mm) clear width. A wheelchair turning space must be provided where the route exceeds 30 feet (9.14 mm) in length.
 
-At ground level, objects may not protrude into the 60-inch wide space of an accessible route up to or below the height of 80 inches (2030 mm), measured above the accessible route surface. The 80-inch clearance applies only to the 60-inch accessible route, and is not required for the entire play area.  The 80-inch vertical clearance applies to ground-level routes only, and not elevated routes. This allows features like protective roofs and sun shelters to be present.
+At ground level, objects may not protrude into the 60 inch wide space of an accessible route up to or below the height of 80 inches (2030 mm), measured above the accessible route surface. The 80 inch clearance applies only to the 60 inch accessible route, and is not required for the entire play area.  The 80 inch vertical clearance applies to ground-level routes only, and not elevated routes. This allows features like protective roofs and sun shelters to be present.
 
 ![photo of a play area with protective shelters and benches offset from the boundary of the accessible route]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/31.jpg){: .img-medium .center}
 <div class="img-large-caption">
-This play area provides a fun, accessible roadway theme.  The protective shelters for the benches have been set outside the boundary of the route, providing the 80 inches of clearance required on the route.
+This play area provides a fun, accessible roadway theme.  The protective shelters for the benches have been set outside the boundary of the route, providing the 80 inches of clearance required on the route.
 </div>
 
 #### Maximum Slope at Ground Level
@@ -637,13 +639,13 @@ The maximum allowable slope for a ground-level accessible route is 1:16.
 
 Berms are sometimes used to provide access to elevated play areas. A berm may be a natural sloped surface that is present in a hilly play area site, or a ground-level route built with slopes.
 
-Designers are encouraged to consider edge protection and handrails on berms where there may be a drop-off.  Remember the maximum slope of this "ground-level accessible route" is 1:16.
+Designers are encouraged to consider edge protection and handrails on berms where there may be a drop-off.  Remember the maximum slope of this "ground-level accessible route" is 1:16.
 
 However, handrails are not required on ground-level accessible routes. This is permitted since the handrails may become a safety hazard in the "use zone."
 
 #### Accessible Ground Surfaces
 
-Ground surfaces along accessible routes, clear floor or ground spaces, and maneuvering spaces, must comply with the American Society for Testing and Materials (ASTM) F 1951-99 Standard Specification for Determination of Accessibility to Surface Systems Under and Around Playground Equipment.  This standard assesses the accessibility of a surface by measuring the work an individual must exert to propel a wheelchair across the surface. The standard includes tests of effort for both straight-ahead and turning movements, using a force wheel on a rehabilitation wheelchair as the measuring device. To meet the standard, the force required must be less than that which is required to propel the wheelchair up a ramp with a slope of 1:14.
+Ground surfaces along accessible routes, clear floor or ground spaces, and maneuvering spaces, must comply with the American Society for Testing and Materials (ASTM) F 1951-99 Standard Specification for Determination of Accessibility to Surface Systems Under and Around Playground Equipment.  This standard assesses the accessibility of a surface by measuring the work an individual must exert to propel a wheelchair across the surface. The standard includes tests of effort for both straight-ahead and turning movements, using a force wheel on a rehabilitation wheelchair as the measuring device. To meet the standard, the force required must be less than that which is required to propel the wheelchair up a ramp with a slope of 1:14.
 
 When selecting ground surfaces, operators should request information about compliance with the ASTM F 1951-99 standard.
 
@@ -653,10 +655,10 @@ When selecting ground surfaces, operators should request information about compl
 Accessible surfaces can include impact-attenuating tiles made of recycled rubber and engineered wood fiber that meet the ASTM requirements for accessibility and safety. Safety is not compromised for individuals using the play area where both standards are used.
 </div>
 
-The American Society for Testing and Materials (ASTM) has established safety standards for play areas, including resilient surfaces. For further information or to purchase these standards, contact ASTM, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959, [www.astm.org](http://www.astm.org/).
+The American Society for Testing and Materials (ASTM) has established safety standards for play areas, including resilient surfaces. For further information or to purchase these standards, contact ASTM, 100 Barr Harbor Drive, West Conshohocken, PA 19428-2959, [www.astm.org](http://www.astm.org/).
 
 #### Accessible Surfaces Located In The Use Zone
-If located within the use zone, accessible ground surfaces must also be impact attenuating and meet ASTM F 1292-04 Standard Specification for Impact Attenuation of Surface Systems Under and Around Playground Equipment.  The "use zone" is a ground level area beneath and immediately adjacent to a play structure or piece of equipment that is designated for unrestricted circulation around the equipment. It is predicted that a user would fall and land or exit the equipment on the surface of the use zone.  
+If located within the use zone, accessible ground surfaces must also be impact attenuating and meet ASTM F 1292-04 Standard Specification for Impact Attenuation of Surface Systems Under and Around Playground Equipment.  The "use zone" is a ground level area beneath and immediately adjacent to a play structure or piece of equipment that is designated for unrestricted circulation around the equipment. It is predicted that a user would fall and land or exit the equipment on the surface of the use zone. 
 
 ![photo of play area with accessible and inaccessible surfaces]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/35.jpg){: .img-large}
 ![photo of 2 slides with one connected by an accessible route and the other by inaccessible surfacing (sand)]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/36.jpg){: .img-large}
@@ -673,7 +675,7 @@ Ground surfaces must be inspected and maintained regularly and frequently to ens
 Accessible surfacing can be designed to complement the theme of the play area, while providing full access and visually integrating the surface into the overall design. Individuals of all abilities will enjoy the added benefits of an imaginative design.
 </div>
 
-Engineered wood fiber surfaces will require frequent maintenance to comply with the ASTM F 1951-99 standard because of surface displacement due to user activity or other factors.   Designers and operators are likely to choose materials that best serve the needs of each play area. The type of material selected will affect the frequency and cost of maintenance.
+Engineered wood fiber surfaces will require frequent maintenance to comply with the ASTM F 1951-99 standard because of surface displacement due to user activity or other factors.  Designers and operators are likely to choose materials that best serve the needs of each play area. The type of material selected will affect the frequency and cost of maintenance.
 
 At the time of this publication, rubber surfacing and some engineered wood fiber products meet the ASTM F 1951-99 standard. The fact that a specific product meets the ASTM 1951-99 standard does not necessarily mean that all other similar products will meet the standard. Operators interested in selecting surfaces to comply with the play area guidelines should consult individual product manufacturers to determine compliance with ASTM F 1951-99.
 
@@ -681,38 +683,38 @@ At the time of this publication, rubber surfacing and some engineered wood fiber
 
 ![photo of elevated route]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/40.jpg){: .float-right .img-medium}
 
-An elevated accessible route is the path used for connecting elevated play components.  Elevated accessible routes must connect the entry and exit points of at least 50 percent of the elevated play components provided in the play area.  Two common methods for providing access to elevated play components are ramps and transfer systems. Ramps are the preferred method since not all children who use wheelchairs or other mobility devices may be able to use - or may choose not to use - transfer systems.
+An elevated accessible route is the path used for connecting elevated play components.  Elevated accessible routes must connect the entry and exit points of at least 50 percent of the elevated play components provided in the play area.  Two common methods for providing access to elevated play components are ramps and transfer systems. Ramps are the preferred method since not all children who use wheelchairs or other mobility devices may be able to use - or may choose not to use - transfer systems.
 
-A typical elevated accessible route might include the following: 
+A typical elevated accessible route might include the following: 
 
--   36-inch (915 mm) clear width
--   32-inch (815 mm) narrowed width permitted for 24-inch (610 mm) length to accommodate features in the composite structure
--   12-inch (305 mm) rise maximum per ramp run 
+-   36 inch (915 mm) clear width
+-   32 inch (815 mm) narrowed width permitted for 24-inch (610 mm) length to accommodate features in the composite structure
+-   12 inch (305 mm) rise maximum per ramp run 
 -   Top of handrail gripping surfaces shall be 20 inches (510 mm) minimum to 28 inches (710 mm) maximum above the ramp surface
   
 #### When Ramps Are Required
 
-Ramps are required on composite structures with 20 or more elevated play components and must connect to at least 25 percent of the elevated play components.  Ramps allow individuals who use wheelchairs and mobility devices to access elevated play components in composite play structures without transferring.
+Ramps are required on composite structures with 20 or more elevated play components and must connect to at least 25 percent of the elevated play components.  Ramps allow individuals who use wheelchairs and mobility devices to access elevated play components in composite play structures without transferring.
 
 ![photo of a play area with more than 20 play components]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/42.jpg){: .img-large}
 
 <div class="img-large-caption">
-This play area has more than 20 play components and provides ramp access to elevated play components.  The ramp system, consisting of ramp runs and landings, must connect at least 25 percent of the elevated play components.  The balance of the elevated play components required to be on an accessible route may be connected by the ramp system, or by a transfer system.
+This play area has more than 20 play components and provides ramp access to elevated play components.  The ramp system, consisting of ramp runs and landings, must connect at least 25 percent of the elevated play components.  The balance of the elevated play components required to be on an accessible route may be connected by the ramp system, or by a transfer system.
 </div>
 
-_Rise_ of a ramp is the amount of vertical distance the inclined or slanted surface ascends or descends. A ramp _run_ is a length of a continuous sloped surface that is ascending or descending. For example, to reach a 12-inch high deck or platform, a designer could use a 12-foot ramp with the maximum 1:12 slope, or a 14-foot ramp with a less-steep 1:14 slope.
+_Rise_ of a ramp is the amount of vertical distance the inclined or slanted surface ascends or descends. A ramp _run_ is a length of a continuous sloped surface that is ascending or descending. For example, to reach a 12 inch high deck or platform, a designer could use a 12 foot ramp with the maximum 1:12 slope, or a 14 foot ramp with a less-steep 1:14 slope.
 
-Platform lifts, also known as "wheelchair lifts," may be considered for providing access to elevated play components when appropriate.  Where applicable, platform lifts complying with ADAAG section 4.11 and applicable state and local codes are permitted as a part of an accessible route. Because lifts must be independently operable, owners and operators should carefully consider the appropriateness of their use in unsupervised settings.
+Platform lifts, also known as "wheelchair lifts," may be considered for providing access to elevated play components when appropriate.  Where applicable, platform lifts complying with ADAAG section 4.11 and applicable state and local codes are permitted as a part of an accessible route. Because lifts must be independently operable, owners and operators should carefully consider the appropriateness of their use in unsupervised settings.
 
 #### Ramps
 
-Ramps serve as a continuation of the accessible route from the ground allowing individuals who use mobility devices to access elevated components. For each elevated ramp run:  
+Ramps serve as a continuation of the accessible route from the ground allowing individuals who use mobility devices to access elevated components. For each elevated ramp run: 
 
--   12-inch (305 mm) maximum rise
+-   12 inch (305 mm) maximum rise
 
--   1:12 maximum slope 
+-   1:12 maximum slope 
 
--   36-inch (915 mm) minimum clear width 
+-   36 inch (915 mm) minimum clear width 
 
 <div class="clearfix" markdown="1">
 #### Landings
@@ -721,7 +723,7 @@ Ramps serve as a continuation of the accessible route from the ground allowing i
 
 Landings are the level surfaces at the top and bottom of each ramp run.
 
--   Must be as wide as the ramp they connect to 
+-   Must be as wide as the ramp they connect to 
 
 -   A minimum length of 60 inches (1525 mm)
 
@@ -730,7 +732,7 @@ Landings are the level surfaces at the top and bottom of each ramp run.
 
 #### Maneuvering Space Where Ramps are Provided
 
-At least one maneuvering space must be provided on the same level as the play component. The space must have a slope no steeper than 1:48 in all directions.  The ADA and ABA Accessibility Guidelines address additional requirements for ramps and landings including edge protection, cross slope, surfaces, and outdoor conditions.
+At least one maneuvering space must be provided on the same level as the play component. The space must have a slope no steeper than 1:48 in all directions.  The ADA and ABA Accessibility Guidelines address additional requirements for ramps and landings including edge protection, cross slope, surfaces, and outdoor conditions.
 
 #### Handrails
 
@@ -738,7 +740,7 @@ At least one maneuvering space must be provided on the same level as the play co
 
 Handrails are required on both sides of ramps connecting elevated play components. Handrails must comply with the following:
 
--   Clearance between handrail gripping surfaces and adjacent surfaces shall be 1 1/2 inches (38 mm) minimum. 
+-   Clearance between handrail gripping surfaces and adjacent surfaces shall be 1 1/2 inches (38 mm) minimum. 
 
 -   Handrail gripping surfaces shall be continuous along their length and shall not be obstructed along their tops and sides. The bottoms of handrail gripping surfaces shall not be obstructed for more than 20 percent of their length. Where provided, horizontal projections shall occur 1 1/2 inches (38 mm) minimum below the bottom of the handrail gripping surface.
 
@@ -748,11 +750,11 @@ Handrails are required to comply with ADAAG 4.8.5. However, extensions on handra
 
 ![photo of a girl with a wheelchair using a transfer system]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/46.jpg){: .float-left .img-medium}
 
-A transfer system provides access to elevated play components within a composite system by connecting different levels with transfer platforms and steps.  A transfer system provides access to elevated play components without the use of a wheelchair or mobility devices. At least 50 percent of the elevated play components can be connected by a transfer system in play areas with fewer than 20 elevated components. In play areas with 20 or more elevated play components, transfer systems may be used to connect up to 25 percent of the elevated play components and the rest of the elevated play components required to be on an accessible route must be connected  by a ramp.
+A transfer system provides access to elevated play components within a composite system by connecting different levels with transfer platforms and steps.  A transfer system provides access to elevated play components without the use of a wheelchair or mobility devices. At least 50 percent of the elevated play components can be connected by a transfer system in play areas with fewer than 20 elevated components. In play areas with 20 or more elevated play components, transfer systems may be used to connect up to 25 percent of the elevated play components and the rest of the elevated play components required to be on an accessible route must be connected  by a ramp.
 
-**A transfer system typically consists of a transfer platform, transfer steps, and transfer supports. **
+**A transfer system typically consists of a transfer platform, transfer steps, and transfer supports. **
 
-Where a transfer system is provided, such a combination of transfer platforms and transfer steps provides a continuous accessible route to elevated play components. A transfer system provides individuals the space necessary to physically transfer up or down in a composite play structure. Where provided, a 24-inch (610 mm) minimum width is necessary for individuals moving around a structure.
+Where a transfer system is provided, such a combination of transfer platforms and transfer steps provides a continuous accessible route to elevated play components. A transfer system provides individuals the space necessary to physically transfer up or down in a composite play structure. Where provided, a 24 inch (610 mm) minimum width is necessary for individuals moving around a structure.
 
 Consider the distance someone must travel to reach play components accessed by transfer systems. When a transfer system is placed directly next to a slide, for example, access to the elevated play component must be carefully designed to minimize the distance someone must transfer to reach it.
 
@@ -770,13 +772,13 @@ A transfer platform is a platform or landing that an individual who uses a wheel
 
 -   Minimum 24 inches (610 mm) wide
 
--   Minimum 14 inches (355 mm) deep 
+-   Minimum 14 inches (355 mm) deep 
 
 -   Unobstructed side
 
 Adding a transfer step that leads to the ground's surface increases access for children exiting components at the ground level.
 
-Clear floor or ground space - used for parking wheelchair or mobility devices (commonly called "wheelchair parking") - is required at the transfer platform.  The 48-inch long side (1220 mm) of the "wheelchair parking" space must be parallel to the 24-inch (610 mm) side of the transfer platform.
+Clear floor or ground space - used for parking wheelchair or mobility devices (commonly called "wheelchair parking") - is required at the transfer platform.  The 48 inch long side (1220 mm) of the "wheelchair parking" space must be parallel to the 24 inch (610 mm) side of the transfer platform.
 
 #### Transfer Steps
 
@@ -788,7 +790,7 @@ Transfer steps are level surfaces in a composite structure that can be used for 
 
 -   8 inches (205 mm) maximum height
 
-Transfer steps in a play area are not required to satisfy the general ADAAG stair requirements.  Maneuvering space and clear space is not required on elevated structures or at elevated play components reached by a transfer system. 
+Transfer steps in a play area are not required to satisfy the general ADAAG stair requirements.  Maneuvering space and clear space is not required on elevated structures or at elevated play components reached by a transfer system. 
 
 ![photo of transfer system with shallow steps]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/51.jpg){: .center .img-medium}
 
@@ -798,7 +800,7 @@ Play areas intended for smaller children should provide steps at smaller height 
 
 #### Transfer Supports
 
-A means of support is required when transferring into the entry or seat of a play component. Transfer supports assist individuals with transferring and general mobility. They include handrails, handgrips, or custom designed handholds.  Transfer supports must be provided on transfer platforms and transfer steps at each level where transferring is the intended method of access.
+A means of support is required when transferring into the entry or seat of a play component. Transfer supports assist individuals with transferring and general mobility. They include handrails, handgrips, or custom designed handholds.  Transfer supports must be provided on transfer platforms and transfer steps at each level where transferring is the intended method of access.
 
 <div class="grid-container">
   <div class="grid-row">
@@ -841,9 +843,9 @@ The play area guidelines address accessible routes connecting play components al
 
 ![plan view of clear floor space 30 inches (760 mm) wide and 48 inches (1220 mm) long]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/part5.1.gif){: .float-right .img-medium}
 
-Clear floor space - also known as ground space - provides unobstructed room to accommodate a single stationary wheelchair and its occupant at a play component on an accessible route.  Clear floor or ground space is also sometimes called "wheelchair parking space."
+Clear floor space - also known as ground space - provides unobstructed room to accommodate a single stationary wheelchair and its occupant at a play component on an accessible route.  Clear floor or ground space is also sometimes called "wheelchair parking space."
 
--   30-inch (760 mm) by 48-inch (1220 mm) minimum area
+-   30 inch (760 mm) by 48 inch (1220 mm) minimum area
 -   May overlap accessible routes and maneuvering spaces
 -   Slope not steeper than 1:48 in all directions
 
@@ -854,15 +856,15 @@ Play components come in a variety of shapes and sizes facilitating a broad range
 The clear floor space is permitted to overlap onto the landing area to provide access to this elevated window activity.
 </div>
 
-The minimum clear floor or ground space on a composite structure may be positioned for a forward or parallel approach. It may overlap accessible routes and maneuvering spaces.  Elevated play components accessed by transfer systems do not require maneuvering or clear floor spaces, since mobility devices are left at ground level.
+The minimum clear floor or ground space on a composite structure may be positioned for a forward or parallel approach. It may overlap accessible routes and maneuvering spaces.  Elevated play components accessed by transfer systems do not require maneuvering or clear floor spaces, since mobility devices are left at ground level.
 
 #### Maneuvering Space
-Maneuvering space is defined as the space required for a wheelchair to make a 180-degree turn. At least one maneuvering space must be provided on the same level as elevated play components.
+Maneuvering space is defined as the space required for a wheelchair to make a 180 degree turn. At least one maneuvering space must be provided on the same level as elevated play components.
 
 When providing access to ground level and elevated play components by ramps, space allowances to accommodate wheelchairs and mobility devices are required.
 
--   A 60-inch (1525 mm) turning circle permits individuals with mobility devices to turn around
--   A 60-inch (1525 mm) T-Shaped turn allows an individual to change directions by making a series of multi-point turns
+-   A 60 inch (1525 mm) turning circle permits individuals with mobility devices to turn around
+-   A 60 inch (1525 mm) T-Shaped turn allows an individual to change directions by making a series of multi-point turns
 -   Slope not steeper than 1:48 in all directions
 
 <div class="grid-container">
@@ -905,7 +907,7 @@ Play tables may be located at a ground or elevated level in a composite play str
 
 ![photo of children at play table]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/68.jpg){: .float-right .img-right}
 
-The play area guidelines include advisory information on recommended reach ranges.  Reach ranges are the recommended designated regions of space that a person seated in a wheelchair can reasonably extend their arm or hand to touch, manipulate, move, or interact with an object or play component.
+The play area guidelines include advisory information on recommended reach ranges.  Reach ranges are the recommended designated regions of space that a person seated in a wheelchair can reasonably extend their arm or hand to touch, manipulate, move, or interact with an object or play component.
 
 Reach ranges should be considered when providing play components with manipulative or interactive features for children who use wheelchairs. Recommended forward or side reach ranges are:
 
@@ -928,7 +930,7 @@ Reach ranges should be considered when providing play components with manipulati
 
 ![photo of a boy using a wheelchair at an interactive panel]({{ site.baseurl }}{{ page.image-directory }}chapter10/play-guide/72.jpg){: .img-right}
 
-The reach ranges appropriate for use by children who use wheelchairs to access play components are intended for ground-level components, and elevated components accessed by ramps. Reach ranges are not appropriate for play components reached by transfer systems. Appropriate reach range heights will vary depending on how the play component is accessed.  This interactive panel (right) is mounted at a height appropriate for a child who uses a wheelchair.
+The reach ranges appropriate for use by children who use wheelchairs to access play components are intended for ground-level components, and elevated components accessed by ramps. Reach ranges are not appropriate for play components reached by transfer systems. Appropriate reach range heights will vary depending on how the play component is accessed.  This interactive panel (right) is mounted at a height appropriate for a child who uses a wheelchair.
 
 The reach ranges in this guide are recommendations that should be considered when designing play components with manipulative features intended for use by individuals who use wheelchairs.
 
@@ -952,7 +954,7 @@ Soft contained play environments typically have limited entrance and exit locati
 
 ### Frequently Asked Questions
 
-This document answers frequently asked questions concerning requirements for accessible play areas in standards issued under the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA). The [ADA Standards]({{ site.baseurl }}/ada/), as issued by the Department of Justice and the Department of Transportation, apply to places of public accommodation, commercial facilities, and state and local government facilities, including transportation facilities. The [ABA Standards]({{ site.baseurl }}/aba/), which are very similar to the ADA Standards, apply to facilities designed, built, altered, or leased with federal funds.
+This document answers frequently asked questions concerning requirements for accessible play areas in standards issued under the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA). The [ADA Standards]({{ site.baseurl }}/ada/), as issued by the Department of Justice and the Department of Transportation, apply to places of public accommodation, commercial facilities, and state and local government facilities, including transportation facilities. The [ABA Standards]({{ site.baseurl }}/aba/), which are very similar to the ADA Standards, apply to facilities designed, built, altered, or leased with federal funds.
 
 #### 1. What is considered an "accessible" play component?
 
@@ -1040,7 +1042,7 @@ Yes. Most facilities constructed on military bases are covered by the ABA Standa
 
 #### 21. How can I get copies of the ASTM standards that apply to play areas?
 
-Copies of the following referenced standards may be obtained from the American Society for Testing and Materials, 100 Bar Harbor Drive, West Conshohocken, Pennsylvania 19428, [www.astm.org](http://www.astm.org/):
+Copies of the following referenced standards may be obtained from the American Society for Testing and Materials, 100 Bar Harbor Drive, West Conshohocken, Pennsylvania 19428, [www.astm.org](http://www.astm.org/):
 
 -   ASTM F 1292-99 Standard Specification for Impact Attenuation of Surface Systems Under and Around Playground Equipment
 -   ASTM F 1292-04 Standard Specification for Impact Attenuation of Surfacing Materials Within the Use Zone of Playground Equipment
@@ -1055,9 +1057,9 @@ Copies of the following referenced standards may be obtained from the American S
 ### Provision Index
 These tables highlight the sections of the ADA and ABA Accessibility Standards discussed in the play areas guide.
 
-<span id="asterisk">* The guide uses the term ADAAG (Americans with Disabilities Act
+<span id="asterisk">* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
- The recreational provisions of these guidelines were adopted into the
+ The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
 the Architectural Barriers Act (ABA) Accessibility Standards).

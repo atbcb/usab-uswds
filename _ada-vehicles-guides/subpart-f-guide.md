@@ -8,13 +8,13 @@ file: /files/vehicles/guides/f-inner-city-rail.pdf
 
 *(a) New, used and remanufactured intercity rail cars, to be considered accessible by regulations issued by the Department of Transportation in 49 CFR Part 37, shall comply with this subpart to the extent required for each type of car as specified below.*
 
-The Americans with Disabilities Act (ADA) requires new or used rail cars that are purchased or leased after August 25, 1990, to be accessible. A public entity may purchase or lease a used intercity rail car for use on its system that is not readily accessible to and usable by individuals with disabilities, if after making demonstrated good faith efforts to obtain an accessible car, it is unable to do so. See 49 CFR §37.87(c) for a description of what constitutes good faith efforts. Cars that are remanufactured after this date to extend their usable life for 10 years or more are also required to be accessible, to the extent it does not compromise the structural integrity of the car. On October 4, 1990, the U.S. Department of Transportation (DOT) issued an interim set of requirements for such cars.
+The Americans with Disabilities Act (ADA) requires new or used rail cars that are purchased or leased after August 25, 1990, to be accessible. A public entity may purchase or lease a used intercity rail car for use on its system that is not readily accessible to and usable by individuals with disabilities, if after making demonstrated good faith efforts to obtain an accessible car, it is unable to do so. See 49 CFR §37.87(c) for a description of what constitutes good faith efforts. Cars that are remanufactured after this date to extend their usable life for 10 years or more are also required to be accessible, to the extent it does not compromise the structural integrity of the car. On October 4, 1990, the U.S. Department of Transportation (DOT) issued an interim set of requirements for such cars.
 
 The guidelines discussed in this technical assistance document are substantively identical to standards issued by DOT on September 6, 1991, at 49 CFR Part 38 which replace the interim rules. The DOT rule at 49 CFR Part 37 further outlines the applicability and effective dates of these requirements. In general, these requirements became effective on October 7, 1991. Questions as to whether certain cars are subject to these standards and specific effective dates should be directed to DOT.
 
 This section, as discussed below, contains scoping provisions based on the specific requirements of the ADA. A chart outlining these requirements in relation to each type of car is provided at the end of this section.
 
-While there is no specific section on bi-level coach cars, which are more commonly used in commuter rail systems, the ADA requires all new rail cars to be able to be entered and used by persons with disabilities. Bi-level coach cars which can be entered directly from the station platform, as opposed to bi-level cars which can only be entered from an adjacent car, are subject to standards for single-level coaches pertaining to doors, passageways, steps and thresholds, etc. Accessible spaces should be provided on the level which can be directly accessed from the platform, usually the lower level. Such spaces may count toward the number of spaces required by 49 CFR 37.91.
+While there is no specific section on bi-level coach cars, which are more commonly used in commuter rail systems, the ADA requires all new rail cars to be able to be entered and used by persons with disabilities. Bi-level coach cars which can be entered directly from the station platform, as opposed to bi-level cars which can only be entered from an adjacent car, are subject to standards for single-level coaches pertaining to doors, passageways, steps and thresholds, etc. Accessible spaces should be provided on the level which can be directly accessed from the platform, usually the lower level. Such spaces may count toward the number of spaces required by 49 CFR 37.91.
 
 The following provisions address the minimum requirements for various types of intercity rail cars.
 
@@ -96,7 +96,7 @@ Existing cars that meet previous accessibility standards can also be used to mee
 
 *(1) At least one doorway, on each side of the car from which passengers board, of each car required to be accessible by §1192.111(a) and where the spaces required by §1192.111(d) are located, and at least one adjacent doorway into coach passenger compartments shall have a minimum clear opening width of 32 inches.*
 
-Only one entrance on each side of the car from which passengers board is required to provide a minimum clear opening of 32 inches. If boarding only occurs from one side, only that side is required to have an accessible door. Many intercity rail cars have an interior doorway into passenger compartments. This doorway must also provide 32 inches of clear width. Accessible seating locations should be located as close as possible to this compartment doorway, as shown in [Figure 4](http://www.access-board.gov/transit/html/Transfig4.html). This will ensure that an accessible route is provided from the entrances on both sides of a car at one end to accessible seating locations, which are to be placed near the accessible entrances.
+Only one entrance on each side of the car from which passengers board is required to provide a minimum clear opening of 32 inches. If boarding only occurs from one side, only that side is required to have an accessible door. Many intercity rail cars have an interior doorway into passenger compartments. This doorway must also provide 32 inches of clear width. Accessible seating locations should be located as close as possible to this compartment doorway, as shown in [Figure 4](http://www.access-board.gov/transit/html/Transfig4.html). This will ensure that an accessible route is provided from the entrances on both sides of a car at one end to accessible seating locations, which are to be placed near the accessible entrances.
 
 The 32 inch door width does not pertain solely to wheelchair or wheeled mobility aid users. Rather, the dimension is designed to accommodate the crutch-tip-to-crutch-tip distance for a typical crutch user. Also, the requirement is for a "clear opening." Providing a wide doorway with a vertical stanchion in the center does not meet this requirement. Obviously, accessible doorways and passageways are also needed in accessible sleeper cars.
 
@@ -106,7 +106,7 @@ The 32-inch clear width is specified for end doors to ensure access between sing
 
 **(b) Passageway**
 
-*Doorways required to be accessible by paragraph (a) of this section shall permit access by persons using mobility aids and shall have an unobstructed passageway at least 32 inches wide leading to an accessible sleeping compartment complying with §1192.127 or seating locations complying with §1192.125(d). In cars where such doorways require passage through a vestibule, such vestibule shall have a minimum width of 42 inches. (See [Fig. 4](http://www.access-board.gov/transit/html/Transfig4.html))*
+*Doorways required to be accessible by paragraph (a) of this section shall permit access by persons using mobility aids and shall have an unobstructed passageway at least 32 inches wide leading to an accessible sleeping compartment complying with §1192.127 or seating locations complying with §1192.125(d). In cars where such doorways require passage through a vestibule, such vestibule shall have a minimum width of 42 inches. (See [Fig. 4](http://www.access-board.gov/transit/html/Transfig4.html))*
 
 This section, in conjunction with paragraph (a)(1), ensures that an accessible route is provided to accessible seating locations. Paragraph (a)(1) addresses entrances and doors that are located on such routes, while this provision covers passageways. Intercity rail cars with entrance vestibules typically have routes that require a right-angle turn into the compartment door. Due to the maneuvering involved, this provision requires that such vestibules be at least 42 inches wide so that enough clear space is provided for wheelchair and mobility aid users to negotiate such turns. The 42-inch dimension is based on existing accessibility standards for buildings and facilities and is considered the absolute minimum amount of space necessary for turns at doorways. This requirement would only apply to one vestibule for each car located at the same end where accessible entrances and compartment doors are located. The figure 4 illustrates these requirements.
 
@@ -155,13 +155,13 @@ Since many intercity rail lines share track with freight lines, high platforms m
 This exception pertains to existing cars that are made accessible to comply with the "one-car-per-train" rule. Generally, existing cars cannot be coordinated with the platform to the degree that new cars can. Even if feasible, retrofitting existing cars to meet the requirements for new cars could be very expensive. Consequently, this exception allows a greater and more easily achievable horizontal gap and vertical tolerance. These cars need to be aligned with the platform at new stations or key stations so that the horizontal gap does not exceed 4 inches and the vertical tolerance is less than 2 inches. While the Board does not consider such a gap to be desirable, such cars will eventually be phased out as new cars are added to the system.
 
 | **Horizontal and Vertical Tolerances** |
-|   | New Stations | Existing Stations |
+|   | New Stations | Existing Stations |
 | New Cars | 3" horizontal gap, 5/8" vertical tolerance | 3" horizontal gap, 1-1/2" vertical tolerance* |
 | Retrofitted Cars | 4" horizontal gap, 2" vertical tolerance | 4" horizontal gap, 2" vertical tolerance |
 
 **(e) Signage**
 
-*The International Symbol of Accessibility shall be displayed on the exterior of all doors complying with this section unless all cars and doors are accessible and are not marked by the access symbol. (See [Fig. 6](http://www.access-board.gov/transit/html/transfig6.html)) Appropriate signage shall also indicate which accessible doors are adjacent to an accessible restroom, if applicable.*
+*The International Symbol of Accessibility shall be displayed on the exterior of all doors complying with this section unless all cars and doors are accessible and are not marked by the access symbol. (See [Fig. 6](http://www.access-board.gov/transit/html/transfig6.html)) Appropriate signage shall also indicate which accessible doors are adjacent to an accessible restroom, if applicable.*
 
 The accessible entrances of new and retrofitted cars are required to be designated as accessible using the International Symbol of Accessibility (access symbol) shown in figure 6. However, new cars acquired for an intercity rail system in which all cars are accessible do not have to be designated by the symbol. In fully accessible systems, consistency is important, so that if existing accessible cars are designated, new cars should be designated as well. Still, the Board considers the access symbol to be at times subject to over-use and thus recommends that transit operators remove symbols when all cars are accessible. Since cars are usually designated by decals, which eventually wear and must be replaced, operators may opt to simply not replace them.
 
@@ -201,13 +201,13 @@ A variety of common materials used on transit vehicle floors can provide adequat
 
 The band of contrasting color required by this provision must span the full length of the threshold and steps along the nosing. However, a minimum width for the band itself is not specified. The Board recommends a minimum of three inches, although the actual size is left to the discretion of operators. While a minimum level of contrast for this band is not specified, it is recommended that the following formula be used in determining the contrast level:
 
-> Contrast = [(B1 - B2)/B1] x 100
+> Contrast = [(B1 - B2)/B1] x 100
 >
-> > where B1 = light reflectance value (LRV) of the lighter area
+> > where B1 = light reflectance value (LRV) of the lighter area
 > >
-> > and B2 = light reflectance value (LRV) of the darker area.
+> > and B2 = light reflectance value (LRV) of the darker area.
 > >
-> > Note that in any application both white and black are never absolute; thus, B1 never equals 100 and B2 is always greater than 0.
+> > Note that in any application both white and black are never absolute; thus, B1 never equals 100 and B2 is always greater than 0.
 
 ### §1192.119 Lighting
 
@@ -247,7 +247,7 @@ This provision applies only to new cars or cars retrofitted under the "one-car-p
 
 *(1) The minimum clear floor area shall be 35 inches by 60 inches. Permanently installed fixtures may overlap this area a maximum of 6 inches, if the lowest portion of the fixture is a minimum of 9 inches above the floor, and may overlap a maximum of 19 inches, if the lowest portion of the fixture is a minimum of 29 inches above the floor. Fixtures shall not interfere with access to and use of the water closet. Fold-down or retractable seats or shelves may overlap the clear floor space at a lower height provided they can be easily folded up or moved out of the way.*
 
-This section outlines the absolute minimum amount of maneuvering space necessary and many mobility aid users will not be able to use such restrooms very easily. These dimensions have been required by previous DOT regulations since 1978. Permanently installed fixtures may overlap the 35 by 60 inch clear floor area so long as the specified toe and knee clearances are provided as noted. [Figure 4](http://www.access-board.gov/transit/html/Transfig4.html) illustrates these requirements and those contained in the following provisions.
+This section outlines the absolute minimum amount of maneuvering space necessary and many mobility aid users will not be able to use such restrooms very easily. These dimensions have been required by previous DOT regulations since 1978. Permanently installed fixtures may overlap the 35 by 60 inch clear floor area so long as the specified toe and knee clearances are provided as noted. [Figure 4](http://www.access-board.gov/transit/html/Transfig4.html) illustrates these requirements and those contained in the following provisions.
 
 *(2) The height of the water closet shall be 17 inches to 19 inches measured to the top of the toilet seat. Seats shall not be sprung to return to a lifted position.*
 
@@ -307,7 +307,7 @@ The lift must be capable of reversal, but without folding or stowing. For exampl
 
 *Where physical or safety constraints prevent the deployment at some stops of a lift having its long dimension perpendicular to the car axis, the transportation entity may specify a lift which is designed to deploy with its long dimension parallel to the car axis and which pivots into or out of the car while occupied (i.e., "rotary lift"). The requirements of paragraph (b)(2)(i) of this section prohibiting the lift from being stowed while occupied shall not apply to a lift design of this type if the stowed position is within the passenger compartment and the lift is intended to be stowed while occupied.*
 
-This provision simply permits the use of a certain type of lift which would be precluded by the previous requirement that the lift cannot be stowed when occupied. The particular type of device, a rotary lift, intended to be covered by this exception is one in which the platform rotates into the car and this is the stowed position. In this case, the lift is *intended* to be stowed while occupied, which would otherwise be prohibited by strict application of the previous paragraph. It should be noted, however, that another type of rotary lift in which the platform is intended to be raised to a vertical position for stowage, is not covered by this exception. Such a design is not precluded, since the rotation of the platform while occupied is not prohibited, but the actual raising of the platform into the vertical stowed position must still be prevented when the platform is occupied.
+This provision simply permits the use of a certain type of lift which would be precluded by the previous requirement that the lift cannot be stowed when occupied. The particular type of device, a rotary lift, intended to be covered by this exception is one in which the platform rotates into the car and this is the stowed position. In this case, the lift is *intended* to be stowed while occupied, which would otherwise be prohibited by strict application of the previous paragraph. It should be noted, however, that another type of rotary lift in which the platform is intended to be raised to a vertical position for stowage, is not covered by this exception. Such a design is not precluded, since the rotation of the platform while occupied is not prohibited, but the actual raising of the platform into the vertical stowed position must still be prevented when the platform is occupied.
 
 **(iii) Exception**
 
@@ -343,7 +343,7 @@ Finally, whatever barrier or supplemental system is used, it must either rise or
 
 *The lift platform surface shall be free of any protrusions over 1/4 inch high and shall be slip resistant. The lift platform shall have a minimum clear width of 28-1/2 inches at the platform, a minimum clear width of 30 inches measured from*
 
-2 inches above the lift platform surface to 30 inches above the surface, and a minimum clear length of 48 inches measured from 2 inches above the surface of the platform to 30 inches above the surface. (See [Fig. 1](http://www.access-board.gov/transit/html/Transfig1.html))
+2 inches above the lift platform surface to 30 inches above the surface, and a minimum clear length of 48 inches measured from 2 inches above the surface of the platform to 30 inches above the surface. (See [Fig. 1](http://www.access-board.gov/transit/html/Transfig1.html))
 
 The requirement for the 1/4-inch maximum protrusion is consistent with common accessibility standards and is intended to reduce tripping hazards for standees.
 
@@ -353,7 +353,7 @@ The specified platform surface dimensions are consistent with the definition of 
 
 The width measurement position acknowledges that the door structure of some cars may not permit a 30 inch wide platform unless the door frame is modified. The width is to be measured 2 inches above the platform to allow a narrower platform at the bottom only, thus permitting wider lifts to be incorporated without modifying the door frame.
 
-Also, the lift handrails are often attached to the platform at the bottom and the structural material takes up some portion of the usable surface. To have a platform with a clear width of 30 inches at the surface would require a lift with a much wider overall width. Measuring the width above the handrail anchor points allows a lift which does not affect door structure but still allows a clear 30 inches between handrails. The clear space is measured to the height of 30 inches to clear the armrests of most wheelchairs and mobility aids. The clear space required is shown as the shaded portion of [Figure 1](http://www.access-board.gov/transit/html/Transfig1.html). In effect, a box of the indicated dimensions must be accommodated on the platform.
+Also, the lift handrails are often attached to the platform at the bottom and the structural material takes up some portion of the usable surface. To have a platform with a clear width of 30 inches at the surface would require a lift with a much wider overall width. Measuring the width above the handrail anchor points allows a lift which does not affect door structure but still allows a clear 30 inches between handrails. The clear space is measured to the height of 30 inches to clear the armrests of most wheelchairs and mobility aids. The clear space required is shown as the shaded portion of [Figure 1](http://www.access-board.gov/transit/html/Transfig1.html). In effect, a box of the indicated dimensions must be accommodated on the platform.
 
 The barriers must not intrude into this area when raised. Thus, the inner roll stop and outer barriers must be vertical or, preferably slant outward, to provide the clear area. Under no circumstances may the barriers slant inward into the required clear space.
 
@@ -407,7 +407,7 @@ With respect to the force requirements, handrails in buildings and facilities ar
 
 As for handrail diameter, the requirements in this section are consistent with the Board sponsored hand anthropometrics research project which tested gripping by persons with various hand disabilities and confirmed the appropriateness of the specified dimensions. A 1-inch diameter handrail would not be usable. Most car handrails are made of pipe. In the building industry, pipe size typically specifies inside diameter so that a 1-1/2 inch pipe handrail actually has a larger outside diameter, sometimes up to 2 inches. Such handrails have not posed any known problem. Thus, the 1-1/2 inch diameter requirement can result in a handrail of approximately 2 inches under current building industry practices. The 1-1/2 inch clearance also received general support and has been included.
 
-It is critical that more than one handrail be provided if standees are to be able to use the lift. The presence of two handrails is also critical for rotary lifts. However, because of the design of rotary lifts, it may be that a suitable configuration can be achieved with handrails that are not necessarily on *opposite* sides of the platform, but might be on two adjacent sides. Accordingly, this section specifies handrails on "two sides" rather than "both sides" of the platform.
+It is critical that more than one handrail be provided if standees are to be able to use the lift. The presence of two handrails is also critical for rotary lifts. However, because of the design of rotary lifts, it may be that a suitable configuration can be achieved with handrails that are not necessarily on *opposite* sides of the platform, but might be on two adjacent sides. Accordingly, this section specifies handrails on "two sides" rather than "both sides" of the platform.
 
 **(c) Car Ramp or Bridge Plate**
 
@@ -425,7 +425,7 @@ The term "continuous surface" means a single, uninterrupted surface from edge to
 
 deployed together to provide a uniform, uninterrupted surface. The term was not intended to preclude expanded metal ramps which are often much lighter than solid platforms of the same strength.
 
-While lift platforms are permitted to be 28-1/2 inches wide, ramps must have a clear width *at the surface* of 30 inches. This is because ramps are designed to be traversed, while a wheelchair or mobility aid user essentially remains stationary on a lift platform while it is in operation. For this reason, a wheelchair or mobility aid user needs more clearance on a ramp for maneuvering than on a lift platform. The restriction on 1/4-inch high protrusions is taken from common accessibility standards for accessible surfaces.
+While lift platforms are permitted to be 28-1/2 inches wide, ramps must have a clear width *at the surface* of 30 inches. This is because ramps are designed to be traversed, while a wheelchair or mobility aid user essentially remains stationary on a lift platform while it is in operation. For this reason, a wheelchair or mobility aid user needs more clearance on a ramp for maneuvering than on a lift platform. The restriction on 1/4-inch high protrusions is taken from common accessibility standards for accessible surfaces.
 
 A minimum value of coefficient of friction is not specified for slip resistance due to practical difficulties in measuring such a value. However, the Board has conducted research on slip resistance and recommends a static coefficient of friction of 0.8 for ramp surfaces.
 

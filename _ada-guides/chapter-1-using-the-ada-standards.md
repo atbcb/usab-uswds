@@ -6,8 +6,6 @@ file-description: PDF version of Chapter 1 ADA Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-1-using-the-ada-standards/
 ---
-{% include sr-dimension-markings.html %}
-
 The design standards issued under the Americans with Disabilities Act
 (ADA) by the Department of Justice and the Department of Transportation
 are used to ensure access to the built environment for people with
@@ -15,6 +13,8 @@ disabilities. The [ADA Standards]({{ site.baseurl }}/ada/) apply
 nationwide, in addition to any applicable state or local codes, where
 facilities are newly built or altered. Most facilities in the public and
 private sectors are covered by the ADA.
+
+{% include sr-dimension-markings.html %}
 
 ### Facilities Covered by the ADA
 
@@ -466,7 +466,7 @@ specified as a range.
 
 #### Grab Bar Diameter and Clearance
 
-  ![Grab bar diameter 1 1/4 inches - 2 inches (tolerance not allowed) and knuckle clearance 1 1/2 inches absolute (tolerance allowed)]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1gbar.jpg){: .img-large}  
+  ![Grab bar diameter 1 1/4 inches to 2 inches (tolerance not allowed) and knuckle clearance 1 1/2 inches absolute (tolerance allowed)]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1gbar.jpg){: .img-large}  
   <div class="img-large-caption">
   Construction or manufacturing tolerances are permitted for the required clearance at grab bars since this is an absolute dimension (1½ inch), but they are not permitted for the grab bar diameter because a range is specified (1¼&Prime; to 2&Prime;).</div>
 

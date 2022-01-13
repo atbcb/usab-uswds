@@ -6,12 +6,11 @@ file-description: PDF version of Chapter 4 Entrances Doors and Gates Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-4-entrances-doors-and-gates/
 ---
-{% include sr-dimension-markings.html %}
-
 This guide explains scoping and technical requirements for accessible
 entrances, doors and gates in the [ADA
 Standards]({{ site.baseurl }}/ada/).
 
+{% include sr-dimension-markings.html %}
 ### Accessible Entrances: Minimum Number
 
 [[§206.4]({{ site.baseurl }}/ada/#ada-206_4)]
@@ -524,7 +523,7 @@ and do not require manual activation by users.
 
 ![Full-powered automated door. Notes: Clear Width 32 inches minimum (clear
 opening with all leaves in open position (power on and off modes), Break
-Out Opening 32' minimum (emergency mode) for doors on means of egress
+Out Opening 32 feet minimum (emergency mode) for doors on means of egress
 without standby power (unless a compliant manual swinging door also
 serves the same means of egress), Threshold 1/2 inches maximum high (beveled if
 above 1/4 inches), Maneuvering Clearance is required at those doors serving an

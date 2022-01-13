@@ -9,6 +9,8 @@ redirect_from:
 This guide explains requirements in the [ADA
 Standards]({{ site.baseurl }}/ada/) for ramps and curb ramps.
 
+{% include sr-dimension-markings.html %}
+
 ### Where Ramps and Curb Ramps are Required
 
 [[§303.4]({{ site.baseurl }}/ada/#ada-303_4)]
@@ -22,15 +24,15 @@ treated as ramps.
 #### Ramp Requirements 
 [[§405]({{ site.baseurl }}/ada/ada-405)]
 
-![Ramp with landings. Notes: Clear Width (§405.5) 36" min. (between
+![Ramp with landings. Notes: Clear Width (§405.5) 36 inches minimum (between
 leading edge of handrails) Handrails (§405.8) on both sides if rise
-greater than 6", Running Slope (§405.2) 1:12 max Cross Slope (§405.3),
-1:48 max, Rise (§405.6) 30" max per run, Cross Slope (§405.3) 1:48 max,
+greater than 6 inches, Running Slope (§405.2) 1:12 maximum Cross Slope (§405.3),
+1:48 maximum, Rise (§405.6) 30 inches maximum per run, Cross Slope (§405.3) 1:48 maximum,
 Surfaces (§405.4) firm, stable, and slip-resistant (run and landing
 surfaces), Edge Protection (§405.9) along ramp run and landings, Level
 Landings (§405.7) at top and bottom, Alterations (§405.2), Permitted
-running slopes where space is limited: 1:10 max (6" max rise) or 1:8 max
-(3" max rise), Wet Conditions (§405.10), Landings must be designed to
+running slopes where space is limited: 1:10 maximum (6 inches maximum rise) or 1:8 maximum
+(3 inches maximum rise), Wet Conditions (§405.10), Landings must be designed to
 prevent the accumulation of water.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr2.jpg){: .img-large}
 
 ### Slope and Cross Slope
@@ -44,7 +46,7 @@ and is specified in the Standards as a ratio (e.g., 1:12). It also can
 be expressed as a percentage, pitch, or in degrees. The running slope is
 to be uniform along a run, although slight variations may occur with
 certain materials such as concrete. No other changes in level other than
-the running slope (1:12 max.) and cross slope (1:48 max.) are permitted.
+the running slope (1:12 maximum) and cross slope (1:48 maximum) are permitted.
 Variations in slope, such as grade breaks within runs, can disrupt
 wheelchair travel.
 
@@ -56,12 +58,12 @@ text= "Providing the least possible slope below the 1:12 (8.33%) maximum offers 
 
 [[§405.5]({{ site.baseurl }}/ada/#ada-405_5)]
 
-Ramp runs must have a clear width of 36" minimum (measured between
+Ramp runs must have a clear width of 36&Prime; minimum (measured between
 handrails where provided). The width of ramps that are part of a means
 of egress may further be determined by applicable life safety codes and
-requirements for minimum exit widths greater than 36".
+requirements for minimum exit widths greater than 36&Prime;.
 
-![36" min. clear width measured between leading edge of ramp
+![36 inches minimum clear width measured between leading edge of ramp
 handrails]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr4.jpg){: .img-medium .img-center}
 
 <div markdown="1">
@@ -69,7 +71,7 @@ handrails]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr4.jpg){: .im
 
 Common use circulation paths must be accessible in work areas 1,000 sq. ft. or more in size. Ramps on these circulation paths must comply except that:
 
-- the clear width can be reduced below 36” by work area equipment where it is essential to the work being performed (§405.5); and
+- the clear width can be reduced below 36&Prime; by work area equipment where it is essential to the work being performed (§405.5); and
 - handrails can be installed after construction, as needed (ramps must be sized so that the minimum clear width is maintained) (§405.8).
 </div>
 
@@ -77,7 +79,7 @@ Common use circulation paths must be accessible in work areas 1,000 sq. ft. or m
 
 [[§405.6]({{ site.baseurl }}/ada/#ada-405_6)]
 
-The height of runs is limited (30" max.), but there is no limit on the
+The height of runs is limited (30&Prime; maximum), but there is no limit on the
 number of runs a ramp may have. Long ramps with many runs can be
 strenuous for people using manual wheelchairs. While intermediate
 landings offer resting points, they do not reduce the amount of effort
@@ -91,31 +93,31 @@ Level landings are required at the top and bottom of each run. Changes
 in level greater than 1:48 are not permitted at landings. Landings must
 be designed to prevent the accumulation of water.
 
-![Ramp with landings at top and bottom that are 60" long min. and at
+![Ramp with landings at top and bottom that are 60 inches long minimum and at
 least as wide as ramp run. Notes: Grade breaks (i.e., where the change
 in slope occurs) must be perpendicular to the direction of ramp runs to
 prevent cross-slope issues and uneven surfaces. No change in level is
 permitted within landings other than slopes 1:48
-max.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr5.jpg){: .img-large} 
+maximum]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr5.jpg){: .img-large} 
 
-Intermediate landings between runs must be at least 60" wide clear and
-60" long clear where ramps change direction (any change from linear).
+Intermediate landings between runs must be at least 60&Prime; wide clear and
+60&Prime; long clear where ramps change direction (any change from linear).
 Handrails, edge protection, vertical posts and other elements cannot
-obstruct or overlap the minimum 60" by 60" clearance. The 12" minimum
+obstruct or overlap the minimum 60&Prime; by 60&Prime; clearance. The 12&Prime; minimum
 handrail extensions required at the top and bottom of ramp runs must be
 in the same direction of the run, but they can turn or wrap where
 handrails are continuous at the inside turn of dogleg or switchback
 ramps.
 
-![Ramp that changes direction with intermediate landing 60" min. by 60"
-min.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr6.jpg){: .img-large}
+![Ramp that changes direction with intermediate landing 60 inches minimum by 60 inches
+minimum]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr6.jpg){: .img-large}
 
 #### Intermediate Landings Where Ramps Change Direction
 
-![Intermediate landing 60" min. by 60" min. at ramp that changes
+![Intermediate landing 60 inches minimum by 60 inches minimum at ramp that changes
 direction. Notes: Handrails Extensions must be linear, but can turn or
 wrap where handrails are continuous at the inside turn of dogleg or
-switchback ramps. Configuration Recommendation: Align runs less than 60"
+switchback ramps. Configuration Recommendation: Align runs less than 60 inches
 wide to the outer edge of landings for easier wheelchair maneuvering
 between runs.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr7.jpg){: .img-large} 
 
@@ -138,33 +140,33 @@ landing.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr8.jpg){: .img
 [[§405.8]({{ site.baseurl }}/ada/#ada-405_8), [§505]({{ site.baseurl }}/ada/#ada-505)]
 
 Handrails are required on both sides of ramps with a rise greater than
-6". The Standards do not require lower handrails serving children except
-at ramps serving play areas, but include a recommended height (28" max.)
-and separation (9" min.) from the required handrail to minimize
+6&Prime;. The Standards do not require lower handrails serving children except
+at ramps serving play areas, but include a recommended height (28&Prime; maximum)
+and separation (9&Prime; minimum) from the required handrail to minimize
 entrapment hazards.
 
 #### Handrail Height and Clearance
 
-![Ramp handrail height 34" -- 38" consistent height along run (20" --
-28" at ramps within play areas. Recommended where lower handrail for
-children is provided: 28" max. height recommended; 9" min. separation
+![Ramp handrail height 34 inches to 38 inches consistent height along run (20 inches to
+28 inches at ramps within play areas. Recommended where lower handrail for
+children is provided: 28 inches maximum height recommended; 9 inches minimum separation
 between high and low handrail
 recommended]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr9.jpg){: .img-large}
 
 #### Handrail Continuity and Extensions
 
-![Ramp handrail with extensions. Notes: Extensions 12" long min. in the
+![Ramp handrail with extensions. Notes: Extensions 12 inches long minimum in the
 same direction of travel are required at the top and bottom of runs
 (except for inside rail of switchback ramps) to provide support before
 entering or exiting ramps. Bottom gripping surface can be obstructed up
 to 20% of the length. Handrails must be continuous the full length of
 run and tops and sides of gripping surface cannot be obstructed.
-Extensions must return to guard, wall, or floor. The 12" min. is
+Extensions must return to guard, wall, or floor. The 12 inches minimum is
 measured to the start of the return radius. Extensions with a leading
-edge 27" high max. can extend any amount from posts. Those with a
-leading edge higher than 27" are limited to a 12" protrusion from posts
+edge 27 inches high maximum can extend any amount from posts. Those with a
+leading edge higher than 27 inches are limited to a 12 inches protrusion from posts
 (§307.3). The sloping portion of handrails are not required to comply
-with requirements for protruding objects.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr10.jpg){: .img-large} 
+with requirements for protruding objects.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr10.jpg){: .img-large} 
 
 Surface requirements and clearances facilitate a power grip along the
 length of handrails. Handrails can have circular or non-circular
@@ -173,7 +175,7 @@ adjacent surfaces must be free of abrasive or sharp elements.
 
 #### Circular Cross Section and Clearance (§505.5, §505.7)
 
-![Handrail circular cross section 1 1/4" to 2" in diameter with a 1½"
+![Handrail circular cross section 1 1/4 inches to 2 inches in diameter with a 1½ inches
 clearance behind and below. Note: Specifications for handrails also
 address the diameter of circular cross sections and required knuckle
 clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar29.jpg){: .img-large}
@@ -181,12 +183,12 @@ clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar29.jpg){: .i
 #### Non-Circular Cross Section and Clearance (§505.5, §505.7)
 
 ![Handrail non-circular cross section (square with rounded corners) with
-2 ¼" max. dimension, rounded edges, 4" to 6 ¼" perimeter dimension, 1 ½"
-clearance behind, and clearance below that is 1 ½" (less 1/8" for each
-½" additional perimeter dimension. Note: Non-circular cross sections
+2 ¼ inches maximum dimension, rounded edges, 4 inches to 6 ¼ inches perimeter dimension, 1 ½ inches
+clearance behind, and clearance below that is 1 ½ inches (less 1/8 inches for each
+½ inches additional perimeter dimension. Note: Non-circular cross sections
 must have rounded edges and meet perimeter and cross-section dimensions.
 Other profiles meeting these criteria are
-permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}  
+permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}  
 
 #### Aisle Ramps in Assembly Areas
 
@@ -225,12 +227,12 @@ extended surfaces.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr14.jpg" alt="4 inch min. high curb">
-      <span class="grid-line text-italic">Curbs if used must be at least 4” high.</span>
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr14.jpg" alt="4 inch minimum high curb">
+      <span class="grid-line text-italic">Curbs if used must be at least 4&Prime; high.</span>
     </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr15.jpg" alt="Rail that is less than 4 inches above ramp surface">
-      <span class="grid-line text-italic">Rails or other barriers must prevent passage of a 4” diameter sphere.</span>
+      <span class="grid-line text-italic">Rails or other barriers must prevent passage of a 4&Prime; diameter sphere.</span>
     </div>
   </div>
 </div>
@@ -239,20 +241,20 @@ extended surfaces.
   <div class="grid-row">
     <div class="tablet:grid-col">
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr16.jpg" alt="Spaces between vertical pickets less than 4 inches">
-      <span class="grid-line text-italic">Vertical pickets used for edge protection must prevent passage of a 4” diameter sphere.</span>
+      <span class="grid-line text-italic">Vertical pickets used for edge protection must prevent passage of a 4&Prime; diameter sphere.</span>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr17.jpg" alt="Extended platform 12” min beyond inside face of handrails">
-      <span class="grid-line text-italic">Run and landing surfaces that extend at least 12” beyond the inside face of handrails will provide adequate edge protection by preventing wheelchair casters and crutch tips from slipping off the edge.</span>
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr17.jpg" alt="Extended platform 12 inches minimum beyond inside face of handrails">
+      <span class="grid-line text-italic">Run and landing surfaces that extend at least 12&Prime; beyond the inside face of handrails will provide adequate edge protection by preventing wheelchair casters and crutch tips from slipping off the edge.</span>
     </div>
   </div>
 </div>
 
 Edge protection is not required at:
 
-- ramps no higher than 6" that have side flares
+- ramps no higher than 6&Prime; that have side flares
 - ramp landings serving an adjoining run or stairway
-- sides of ramp landings with vertical drop-offs not exceeding ½" within 10" of the minimum landing area
+- sides of ramp landings with vertical drop-offs not exceeding ½" within 10&Prime; of the minimum landing area
 
 ### Wet Conditions
 
@@ -278,20 +280,20 @@ accessible route for pedestrians at intersections (28 CFR 35.151(i)).
 from ramp without travel across side flares, Grade Breaks At top and
 bottom must be perpendicular to the direction of ramp runs to prevent
 cross-slope issues and uneven surfaces, Side Flares (where provided)
-(§406.3), 1:10 max slope, Running Slope (§406.1) 1:12 max, Cross Slope
-(§406.1) 1:48 max, Location (§406.5) Cannot project into vehicular
+(§406.3), 1:10 maximum slope, Running Slope (§406.1) 1:12 maximum, Cross Slope
+(§406.1) 1:48 maximum, Location (§406.5) Cannot project into vehicular
 traffic lanes, parking spaces, or access aisles. Wet Conditions
 (§406.1), Curb ramps must be designed to prevent accumulation of water.
 Alterations (§406.1) Permitted running slopes where space is limited:
-1:10 max (6" max rise) or 1:8 max (3" max rise).
+1:10 maximum (6 inches maximum rise) or 1:8 maximum (3 inches maximum rise).
 ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr18.jpg){: .img-large}
 
 #### Transition to Street 
 [[§406.2]({{ site.baseurl }}/ada/ada-406_2)
 
 ![Curb ramp profile. Notes: Smooth Transition at grade break (no lips
-or other changes in level), Ramp Running Slope 1:12 max, Counter Slope
-1:20 max]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr19.jpg){: .img-large}
+or other changes in level), Ramp Running Slope 1:12 maximum, Counter Slope
+1:20 maximum]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr19.jpg){: .img-large}
 
 #### Top Landing
 
@@ -301,21 +303,21 @@ The required landing at the top of curb ramps allows an accessible route
 to connect to the ramp opening. Side flares, where provided, are
 intended primarily to prevent tripping hazards, not to accommodate
 wheelchair maneuvering at ramps (except in alterations where sufficient
-landing space is unavailable). Side flare slopes cannot exceed 1:10 max.
-(or 1:12 max. in alterations where a top landing is unavailable).
+landing space is unavailable). Side flare slopes cannot exceed 1:10 maximum
+(or 1:12 maximum in alterations where a top landing is unavailable).
 
 #### Alterations: Ramp without Top Landing
 
-![Curb ramp top landing 36" long min and at least as wide as ramp;
-side flare slop 1:10 max.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr20.jpg){: .img-large}
+![Curb ramp top landing 36 inches long minimum and at least as wide as ramp;
+side flare slop 1:10 maximum]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr20.jpg){: .img-large}
 
 In alterations where sufficient landing space is not available, side
 flares must be provided and cannot slope more than 1:12 to facilitate
 wheelchair maneuvering. Parallel curb ramps (page 12) provide an
 alternative in such conditions.
 
-![Curb ramp with landing less than 36" long with side flares that slope
-1:12 max.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr21.jpg){: .img-large}
+![Curb ramp with landing less than 36 inches long with side flares that slope
+1:12 maximum]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr21.jpg){: .img-large}
 
 #### Top Landing Slope
 
@@ -325,16 +327,16 @@ of connecting accessible routes.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr22.jpg" alt="Curb ramp top landing with 1:48 max. slope due to cross slope limit
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr22.jpg" alt="Curb ramp top landing with 1:48 maximum slope due to cross slope limit
 of perpendicular accessible route">
       <span class="grid-line text-italic text-bold">Perpendicular Accessible Route</span>
       <span class="grid-line text-italic">The cross slope of perpendicular connecting routes limit the slope of the ramp top landing to 1:48 (measured parallel to the running slope).</span>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr23.jpg" alt="Curb ramp with 1:20 max running slope consistent with slope of
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr23.jpg" alt="Curb ramp with 1:20 maximum running slope consistent with slope of
 parallel accessible route">
       <span class="grid-line text-italic text-bold">Parallel Accessible Route</span>
-      <span class="grid-line text-italic">If the only connecting accessible route runs parallel to the ramp run, the top landing can slope 1:20 max.</span>
+      <span class="grid-line text-italic">If the only connecting accessible route runs parallel to the ramp run, the top landing can slope 1:20 maximum</span>
     </div>
   </div>
 </div>
@@ -347,7 +349,7 @@ Curb ramps can have returned sides, but a top landing is required under
 all conditions to allow maneuvering to and from the run.
 
 ![Curb ramp with returned sides with planter on one side and grass
-strip o the other and a top landing at least 36"
+strip o the other and a top landing at least 36 inches
 long]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr24.jpg){: .img-large}
 
 {%include recommendation.html
@@ -358,31 +360,31 @@ text= "To prevent tripping hazards, curb ramps with returned sides should be use
 
 Built-up curb ramps are permitted, but they cannot project in parking
 spaces, access aisles, or vehicle traffic lanes. A top landing at least
-36" deep is required at all built-up curb ramps.
+36&Prime; deep is required at all built-up curb ramps.
 
 ##### Built-Up Curb Ramp with Side Flares
 
 {%include imgfull-italictextbelow.html
 img-file= "chapter4/4rcr25.jpg"
-img-alt= "Built-up curb ramp with side flares 1:10 max and top landing"
+img-alt= "Built-up curb ramp with side flares 1:10 maximum and top landing"
 text= "Side flares can be provided to prevent tripping hazards. Edge protection is not specified for curb ramps."
 %}
 
 {%include recommendation.html
-text= "Provide edge protection along the sides of built-up curb ramps to prevent tipping hazards. Otherwise, consider a wider ramp width (48\" min.) so that maneuvering does not occur near drop-offs."
+text= "Provide edge protection along the sides of built-up curb ramps to prevent tipping hazards. Otherwise, consider a wider ramp width (48&Prime; minimum) so that maneuvering does not occur near drop-offs."
 %}
 
 #### Parallel Curb Ramps
 
 Curb ramps can be oriented parallel to sidewalks. This design provides
 an option where limited space precludes a top landing. A level landing
-48" long minimum (60" preferred) accommodates maneuvering between runs
+48&Prime; long minimum (60&Prime; preferred) accommodates maneuvering between runs
 and right-angle turns to connecting routes, such as parking access
 aisles and crossings.
 
-![Parallel curb ramp with 48\" min. (60\" preferred) long landing at
+![Parallel curb ramp with 48 inches minimum (60 inches preferred) long landing at
 bottom between opposing ramp rans with a slope 1:12
-max.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr26a.JPG){: .img-large}
+maximum]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr26a.JPG){: .img-large}
 
 #### Curb Ramps at Intersections
 
@@ -400,7 +402,7 @@ Curb ramps must be oriented so that the grade break is perpendicular to
 the curb ramp run to ensure a smooth transition to streets, including at
 corners with a wide radius. The curb ramp opening can be aligned with
 the curb line (left) or more directionally oriented to the crosswalk
-(right).  
+(right).  
 
 ![One figures shows curb ramps at corner with wide radius that are
 aligned with the curb line and another where the curb ramps or more
@@ -412,15 +414,14 @@ directionally oriented to the crosswalk.
 [[§406.6]({{ site.baseurl }}/ada/#ada-406_6)]
 
 <div class="clearfix" markdown="1">
-![Diagonal curb ramp with a clear space 48" long min. at the bottom that
-is located within marked crossings and segment of curb 24" min. long
-beyond flares on both sides within marked crossings.
- ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr29.jpg){: .float-right .img-medium}
+![Diagonal curb ramp with a clear space 48 inches long minimum at the bottom that
+is located within marked crossings and segment of curb 24 inches minimum long
+beyond flares on both sides within marked crossings.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr29.jpg){: .float-right .img-medium}
 
 If curb ramps are placed diagonally at an intersection, it
-is important that clear space 48" long min. is available at the bottom
+is important that clear space 48&Prime; long minimum is available at the bottom
 that is outside active vehicle traffic lanes and is located within
-marked crossings, where provided. A segment of curb at least 24" long
+marked crossings, where provided. A segment of curb at least 24&Prime; long
 beyond flares must be provided on both sides of curb ramps with side
 flares within marked crossings. This curb segment provides an orienting
 cue at crossings for people with vision impairments.
@@ -433,7 +434,7 @@ text= "Perpendicular curb ramps are preferred over diagonal curb ramps. Unless t
 #### Raised Crossings
 
 <div class="clearfix" markdown="1">
-![Raised crossing at least 36" wide.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr30.jpg){: .float-right .img-medium}
+![Raised crossing at least 36 inches wide.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr30.jpg){: .float-right .img-medium}
 
 Raised crossings, where provided, eliminate the need for
 curb ramps while serving to reduce traffic speeds. Consult local
@@ -445,21 +446,21 @@ traffic, height, and markings.
 
 [[§406.7]({{ site.baseurl }}/ada/#ada-406_7)]
 
-A 48" min. long separation is necessary between curb ramps so that
+A 48&Prime; minimum long separation is necessary between curb ramps so that
 people using wheelchairs can clear one ramp before negotiating the next.
 Level cut-throughs provide an effective alternative, especially at
-narrow islands that will not accommodate opposing curb ramps with a 48"
+narrow islands that will not accommodate opposing curb ramps with a 48&Prime;
 separation. 
 
 ##### Island with Curb Ramps
 
-![Pedestrian island with 36" min. wide curb ramps on both sides
-separated by a level segment at least 48"
+![Pedestrian island with 36 inches minimum wide curb ramps on both sides
+separated by a level segment at least 48 inches
 long]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr31.jpg){: .img-large}
 
 ##### Island with Cut-through
 
-![Cut-through pedestrian island with route at least 36"
+![Cut-through pedestrian island with route at least 36 inches
 wide]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr32.jpg){: .img-large}
 
 #### Detectable Warnings
@@ -490,7 +491,7 @@ as drop-offs along rail station platforms).
 ##### Detectable Warnings on Curb Ramps
 
 ![Curb ramp with detectable warnings at the bottom that extend the
-full width of the run and are 24" min. deep measured from back of curb.
+full width of the run and are 24 inches minimum deep measured from back of curb.
 Note: light-on-dark or dark-on-light contrast with adjacent walking
 surface (color not specified).]({{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr35.jpg){: .img-large}
 
@@ -503,8 +504,8 @@ domes and 1.6 inches to 2.4 inches measured between dome center">
     </div>
     <div class="tablet:grid-col border">
       <span class="grid-line text-bold">Dome Size</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr37.jpg" alt="Dome size .9 inch to 1.4 inches base diameter, 0.2 inch height, top
-50% - 65% of the base diameter">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4rcr37.jpg" alt="Dome size 0.9 inch to 1.4 inches base diameter, 0.2 inch height, top
+50% to 65% of the base diameter">
     </div>
   </div>
 </div>
@@ -517,10 +518,10 @@ domes and 1.6 inches to 2.4 inches measured between dome center">
 
 ##### Is there a limit on the total length (number of runs) a ramp may have?
 
-No, the Standards limit the rise of each run (30" max.), but not the
+No, the Standards limit the rise of each run (30&Prime; maximum), but not the
 overall length of ramps comprised of multiple runs. Since the usability
 of ramps decreases with length, considerably long ramp systems should be
-avoided where possible. (Ramps in play areas are limited to a 12" max.
+avoided where possible. (Ramps in play areas are limited to a 12&Prime; maximum
 rise).
 
 ##### Are curved or circular ramps allowed?
@@ -543,14 +544,14 @@ temporary or portable.
 
 ##### Is there a maximum distance between ramp handrails?
 
-No, only a minimum (36") is required between handrails. The Standards do
+No, only a minimum (36&Prime;) is required between handrails. The Standards do
 not require center or intermediate handrails on wide ramps.
 
 ##### Can handrails overlap ramp landings?
 
 Along runs and landings, the minimum clear width must be measured
 between the leading edge of handrails. This also applies to landings
-required to be at least 60" by 60" where ramps change directions so that
+required to be at least 60&Prime; by 60&Prime; where ramps change directions so that
 the minimum landing area remains clear.
 
 ##### Can handrail extensions wrap or turn?
@@ -570,7 +571,7 @@ requirements are met.
 
 ##### Why is a top landing required at curb ramps if side flares are provided?
 
-A landing at least 36" long at the top of curb ramps provides room to
+A landing at least 36&Prime; long at the top of curb ramps provides room to
 approach or exit ramps and turn without encountering compound slopes of
 flared sides. Side flares are intended mainly to prevent tripping
 hazards. They are not designed to accommodate wheelchair maneuvering
@@ -580,11 +581,11 @@ landing.
 ##### Are side flares required at curb ramps?
 
 The ADA Standards do not require that curb ramps have side flares, but
-limit the slope (1:10 max.) where they are provided. Side flares are
+limit the slope (1:10 maximum) where they are provided. Side flares are
 advisable where pedestrian traffic may cross runs to prevent tripping
 hazards. Side flares are essential in alterations when space for a top
-landing (36" deep min.) is not available; in this instance, side flares
-(1:12 max. slope) are necessary to accommodate wheelchair maneuvering
+landing (36&Prime; deep minimum) is not available; in this instance, side flares
+(1:12 maximum slope) are necessary to accommodate wheelchair maneuvering
 that will partially occur at flares in the absence of full landing space
 at the top unless a parallel-type curb ramp is provided.
 

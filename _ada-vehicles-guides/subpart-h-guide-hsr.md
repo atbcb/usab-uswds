@@ -116,7 +116,7 @@ This provision recognizes that the necessary structural modification in providin
 
 ***(b) Passageway***
 
-*Doorways required to be accessible by paragraph (a) of this section shall permit access by persons using mobility aids and shall have an unobstructed passageway at least 32 inches wide leading to an accessible sleeping compartment complying with §1192.127 or seating locations complying with §1192.125(d). In cars where such doorways require passage through a vestibule, such vestibule shall have a minimum width of 42 inches. (See[ Fig. 4](https://www.access-board.gov/html/Transfig4.html))*
+*Doorways required to be accessible by paragraph (a) of this section shall permit access by persons using mobility aids and shall have an unobstructed passageway at least 32 inches wide leading to an accessible sleeping compartment complying with §1192.127 or seating locations complying with §1192.125(d). In cars where such doorways require passage through a vestibule, such vestibule shall have a minimum width of 42 inches. (See[ Fig. 4](https://www.access-board.gov/html/Transfig4.html))*
 
 This section, in conjunction with paragraph (a)(1), ensures that an accessible route is provided to accessible seating locations. Paragraph (a)(1) addresses entrances and doors that are located on such routes, while this provision covers passageways. Intercity rail cars with entrance vestibules typically have routes that require a right-angle turn into the compartment door. Due to the maneuvering involved, this provision requires that such vestibules be at least 42 inches wide so that enough clear space is provided for wheelchair and mobility aid users to negotiate such turns. The 42-inch dimension is based on existing accessibility standards for buildings and facilities and is considered the absolute minimum amount of space necessary for turns at doorways. This requirement would only apply to one vestibule for each car located at the same end where accessible entrances and compartment doors are located. Figure 4 illustrates these requirements.
 
@@ -172,13 +172,13 @@ A variety of common materials used on transit vehicle floors can provide adequat
 
 The band of contrasting color required by this provision must span the full length of the threshold and steps along the nosing. However, a minimum width for the band itself is not specified. The Board recommends a minimum of three inches, although the actual size is left to the discretion of operators. While a minimum level of contrast for this band is not specified, it is recommended that the following formula be used in determining the contrast level:
 
-> Contrast = [(B1 - B2)/B1] x 100
+> Contrast = [(B1 - B2)/B1] x 100
 >
-> > where B1 = light reflectance value (LRV) of the lighter area
+> > where B1 = light reflectance value (LRV) of the lighter area
 > >
-> > and B2 = light reflectance value (LRV) of the darker area.
+> > and B2 = light reflectance value (LRV) of the darker area.
 > >
-> > Note that in any application both white and black are never absolute; thus, B1 never equals 100 and B2 is always greater than 0.
+> > Note that in any application both white and black are never absolute; thus, B1 never equals 100 and B2 is always greater than 0.
 
 ### §1192.119 Lighting
 
@@ -216,7 +216,7 @@ This section outlines the absolute minimum amount of maneuvering space necessary
 
 *(3) A grab bar at least 24 inches long shall be mounted behind the water closet, and a horizontal grab bar at least 40 inches long shall be mounted on at least one side wall, with one end not more than 12 inches from the back wall, at a height between 33 inches and 36 inches above the floor.*
 
-* (4) Faucets and flush controls shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate controls shall be no greater than 5 lbf (22.2 N). Controls for flush valves shall be mounted no more than 44 inches above the floor.*
+* (4) Faucets and flush controls shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate controls shall be no greater than 5 lbf (22.2 N). Controls for flush valves shall be mounted no more than 44 inches above the floor.*
 
 *(5) Doorways on the end of the enclosure, opposite the water closet, shall have a minimum clear opening width of 32 inches. Doorways on the side wall shall have a minimum clear opening width of 39 inches. Door latches and hardware shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist.*
 
