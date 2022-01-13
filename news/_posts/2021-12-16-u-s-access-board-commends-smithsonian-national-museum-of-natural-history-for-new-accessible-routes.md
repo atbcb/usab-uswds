@@ -1,14 +1,18 @@
 ---
 layout: post
-title: "U.S. Access Board Commends Smithsonian National Museum of Natural History for New Accessible Routes"
+title: U.S. Access Board Commends Smithsonian National Museum of Natural History
+  for New Accessible Routes
 date: 2021-12-16
-excerpt: On December 15, 2021, the Smithsonian Museum of Natural History held a ribbon-cutting ceremony to celebrate the installation of new sloped walkways for accessible entry on the National Mall side of the building. On behalf of the U.S. Access Board, Training Coordinator Bill Botten . . .
+excerpt: On December 15, 2021, the Smithsonian Museum of Natural History held a
+  ribbon-cutting ceremony to celebrate the installation of new sloped walkways
+  for accessible entry on the National Mall side of the building. On behalf of
+  the U.S. Access Board, Training Coordinator Bill Botten . . .
 image: /images/uploads/ribbon-cutting.png
 tags:
   - events
   - ABA
   - Building & Sites
-featured: true
+featured: false
 ---
 <figure class="img-left">
   <a href="{{ site.baseurl }}/images/uploads/ribbon-cutting.png">
