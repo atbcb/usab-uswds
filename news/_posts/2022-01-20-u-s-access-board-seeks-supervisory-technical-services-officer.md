@@ -3,7 +3,7 @@ layout: post
 title: U.S. Access Board Seeks Supervisory Technical Services Officer
 date: 2022-01-20
 excerpt: The U.S. Access Board seeks a Supervisory Technical Services Officer
-  (GS 15) to serve in its Office of Technical and Information Services. . . .
+  (GS 15) to serve in its Office of Technical and Information Services. Current or former federal employees who qualify as . . .
 featured: false
 ---
 The U.S. Access Board seeks a Supervisory Technical Services Officer (GS 15) to serve in its Office of Technical and Information Services.
