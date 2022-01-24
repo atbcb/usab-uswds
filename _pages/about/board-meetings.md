@@ -31,4 +31,4 @@ The next virtual meeting of the Board will take place on Wednesday, March 9, 202
 - [July 14, 2021](https://www.youtube.com/watch?v=078ZOzcZaSs)
 - [September 22, 2021](https://www.youtube.com/watch?v=VBJBi-DQRRk)
 - [November 10, 2021](https://www.youtube.com/watch?v=mDKLJurVTcY)
-- [January 12, 2022] (https://www.youtube.com/watch?v=gJAbbPOILCg)
+- [January 12, 2022](https://www.youtube.com/watch?v=gJAbbPOILCg)
