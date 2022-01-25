@@ -23,7 +23,8 @@
     "netlify-cms": "^2.8.0",
     "stickyfilljs": "^2.1.0",
     "swiper": "^6.5.1",
-    "uswds": "^2.11.1",
+    "trim-newlines": "^4.0.2",
+    "uswds": "^2.13.1",
     "video.js": "^7.10.2",
     "videojs-youtube": "^2.6.1"
   },
