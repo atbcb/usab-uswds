@@ -153,7 +153,7 @@ The accessible path of travel is required to the extent that it is not "dispropo
 #### Prioritization
 
 <div class="img-right img-medium">
-  <span class="grid-line border">The requirements for alterations to primary function areas are found in <a href="http://www.ada.gov/2010ADAstandards_index.htm">DOJ's ADA Standards</a> at 28 CFR §35.151(b) (title II) and 28 CFR §36.403 (title III) and in <a href="http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=d315855e2f2c9f940970f4c191349c12&rgn=div5&view=text&node=49:1.0.1.1.27&idno=49">DOT's ADA Regulation at 49 CFR §37.43</a>.</span>
+  <span class="grid-line border">The requirements for alterations to primary function areas are found in <a href="http://www.ada.gov/2010ADAstandards_index.htm">DOJ's ADA Standards</a> at 28 CFR §35.151(b) (title II) and 28 CFR §36.403 (title III) and in <a href="https://www.ecfr.gov/current/title-49/subtitle-A/part-37#p-37.43(a)">DOT's ADA Regulation at 49 CFR §37.43</a>.</span>
 </div>
 
 Compliance is required up to the point the 20% cost cap is reached, even
