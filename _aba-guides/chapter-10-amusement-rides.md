@@ -64,7 +64,7 @@ However, other ADA requirements still apply. The four types are:
     carnivals, State and county fairs, and festivals, do not need to
     comply. Mobile rides are available that provide wheelchair access
     and other rides could provide transfer access with minor
-    modifications. 
+    modifications. 
 
 -   Rides that are controlled or operated by the rider (such as bumper
     cars and go-carts) are not required to comply with the guidelines,
@@ -72,7 +72,7 @@ However, other ADA requirements still apply. The four types are:
     diameter circle or T-shaped turning space) in the load and unload
     area must be provided. (This exception does not apply if patrons can
     merely cause the ride to make incidental movements, but otherwise
-    have no control over the ride.) 
+    have no control over the ride.) 
 
 -   Rides designed for children, assisted on and off by an adult, are
     only required to provide an accessible route to the ride and a
@@ -654,9 +654,9 @@ Standards discussed in the amusement rides guide.
 </table>
 
 
-\* The guide uses the term ADAAG (Americans with Disabilities Act
+\* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
- The recreational provisions of these guidelines were adopted into the
+ The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
 the Architectural Barriers Act (ABA) Accessibility Standards).

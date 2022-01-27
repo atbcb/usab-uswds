@@ -49,16 +49,16 @@ A comprehensive search of information sources believed to be relevant to assiste
 Keywords used in information searches included the following:
 
 | access | accessibility products | arthritis |
-| architecture | assistive device  | bath |
+| architecture | assistive device  | bath |
 | bathing | bathroom | bathtub |
-| bathtub accessibility | commode  | design |
-| disabled  | disabilities  | environment |
-| grab bars | handicapped  | bathtub transfer |
-| impairment  | mobility  | nursing homes |
-| design for aging | frail elderly  | caregiver assistance |
-| bathroom accessibility | showers  | shower accessibility |
+| bathtub accessibility | commode  | design |
+| disabled  | disabilities  | environment |
+| grab bars | handicapped  | bathtub transfer |
+| impairment  | mobility  | nursing homes |
+| design for aging | frail elderly  | caregiver assistance |
+| bathroom accessibility | showers  | shower accessibility |
 | toilet | toileting | toilet design |
-| toilet transfer | wheelchair transfer  | wheelchair accessibility |
+| toilet transfer | wheelchair transfer  | wheelchair accessibility |
 
 Sources that were considered useful were those that contained information on bathroom designs and products that were not typical ADA designs. In addition, information was gathered regarding the: characteristics of those subpopulations for whom the designs were intended, how the designs were intended to be used, and the types of facilities in which they were used.
 

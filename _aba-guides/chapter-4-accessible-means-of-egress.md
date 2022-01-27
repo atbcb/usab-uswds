@@ -26,7 +26,7 @@ img-alt= "Covers of the 2000 and 2003 International Building Code."
 text= "Further information on the IBC is available from the, International Code Council (ICC) at (888) 422-7233) or <a href=\"http://www.iccsafe.org/\">www.iccsafe.org</a>."
 %}
 
-Accessible means of egress must be provided according to the International Building Code (IBC).  Issued by the International Code Council (ICC), the IBC addresses the number of means of egress required and technical criteria for them, including fire–resistance rating, smoke protection, travel distance, width, and other features.  The Standards currently apply the IBC 2003 edition or the 2000 edition and 2001 supplement.  The Access Board plans to update these references.  Use of a later edition of the IBC may provide equivalent or greater accessibility.
+Accessible means of egress must be provided according to the International Building Code (IBC).  Issued by the International Code Council (ICC), the IBC addresses the number of means of egress required and technical criteria for them, including fire–resistance rating, smoke protection, travel distance, width, and other features.  The Standards currently apply the IBC 2003 edition or the 2000 edition and 2001 supplement.  The Access Board plans to update these references.  Use of a later edition of the IBC may provide equivalent or greater accessibility.
 
 ### Means of Egress
 
@@ -34,7 +34,7 @@ A means of egress is an unobstructed path to leave buildings, structures, and sp
 
 #### Components of a Means of Egress
 
-![Building schematic shows exit access as a path from any location in a building to an exit; exits that are doors to leading to outside, enclosed exit stairways, and horizontal exits; and exit discharge as a path from an exit to a public way such as a street or alley.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe3.jpg){: .img-large} 
+![Building schematic shows exit access as a path from any location in a building to an exit; exits that are doors to leading to outside, enclosed exit stairways, and horizontal exits; and exit discharge as a path from an exit to a public way such as a street or alley.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe3.jpg){: .img-large} 
 
   
 ### Required Means of Egress [IBC §1007.1 (2003), §1003.2.13 (2000)]
@@ -46,7 +46,7 @@ An accessible means of egress, as defined by the IBC, is a “continuous and uno
 #### Accessible Means of Egress
 
 <div class="text-center margin-left-7 margin-right-7" markdown="1">
-_Accessible spaces must be served by at least two accessible means of egress with few exceptions. Accessible means of egress must extend from all accessible portions of a room or space.  The IBC specifies maximum travel distances to reach an exit._
+_Accessible spaces must be served by at least two accessible means of egress with few exceptions. Accessible means of egress must extend from all accessible portions of a room or space.  The IBC specifies maximum travel distances to reach an exit._
 </div>
 
 ![Two means of egress shown extending from a point in a room to separate doors.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe4.jpg){: .img-large}
@@ -65,7 +65,7 @@ _The IBC (2003) permits one accessible means of egress from:_
 
 #### Exit Access on Floors Above (or Below) the Level of Exit Discharge
 
-On floors above or below the level of exit discharge, accessible means of egress must lead to exit stairways, horizontal exits, or to elevators equipped with standby power.  These are locations where those unable to use stairs can await assisted rescue by emergency responders.  It is standard operating procedure for emergency responders to check these locations first for anyone needing assistance.
+On floors above or below the level of exit discharge, accessible means of egress must lead to exit stairways, horizontal exits, or to elevators equipped with standby power.  These are locations where those unable to use stairs can await assisted rescue by emergency responders.  It is standard operating procedure for emergency responders to check these locations first for anyone needing assistance.
   
 ##### Accessible Means of Egress Leading to Exit Stairs
 
@@ -79,7 +79,7 @@ On floors above or below the level of exit discharge, accessible means of egress
 
 ![stair icon]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a10.jpg){: .float-right .thumbnail}
 
-The IBC contains requirements for exit stairway enclosures that address fire and smoke protection, ventilation, stairways and handrails, signs, and other features.  The ABA Standards apply requirements for stairways to each stair that is part of a required means of egress (§F210).
+The IBC contains requirements for exit stairway enclosures that address fire and smoke protection, ventilation, stairways and handrails, signs, and other features.  The ABA Standards apply requirements for stairways to each stair that is part of a required means of egress (§F210).
 
 ##### Exit Stairway Enclosures
 
@@ -90,7 +90,7 @@ The IBC contains requirements for exit stairway enclosures that address fire and
 
 [[§F210]({{ site.baseurl }}/aba/#aba-f210)]
 
-Stairways and handrails that are part of a means of egress are addressed by the IBC (§1009 (2003), §1003.3.3 (2000)).  In addition, interior and exterior stairs that are part of a means of egress must comply with requirements in the ABA Standards (§504).
+Stairways and handrails that are part of a means of egress are addressed by the IBC (§1009 (2003), §1003.3.3 (2000)).  In addition, interior and exterior stairs that are part of a means of egress must comply with requirements in the ABA Standards (§504).
 
 ![alterations icon]({{ site.baseurl }}{{ page.image-directory }}chapter4/alt.jpg){: .float-right .thumbnail}
 
@@ -98,7 +98,7 @@ In alterations, stairs between levels that are connected by an accessible route 
 
 #### Treads and Riser Specifications in the ADA Standards (§504)
 
- ![Stairs with treads 11” deep min. and risers 4” – 7” high.  Note:  All steps on a flight must have uniform riser heights and uniform tread depths. Open risers are prohibited.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe8.JPG){: .img-large}
+ ![Stairs with treads 11” deep min. and risers 4” – 7” high.  Note:  All steps on a flight must have uniform riser heights and uniform tread depths. Open risers are prohibited.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe8.JPG){: .img-large}
 
 #### Nosing Specifications
 
@@ -111,7 +111,7 @@ In alterations, stairs between levels that are connected by an accessible route 
 <div class="clearfix border padding-left-1">
 {% include grid-2col-lefttextboldstd-rightimg.html
 text-title= "Protruding Objects"
-text= "The ABA Standards address hazards posed by protruding objects, such as standpipe valves, along circulation paths, including stairways and inaccessible routes (§F204).  The Standards limit the protrusion of objects with leading edges that are above 27” high and no more than 80” high.  Such objects are limited to a 4” protrusion into circulation paths, but a 4 ½” protrusion is allowed for handrails.  Protrusions up to 12” are specified for objects mounted on posts or pylons (§307)."
+text= "The ABA Standards address hazards posed by protruding objects, such as standpipe valves, along circulation paths, including stairways and inaccessible routes (§F204).  The Standards limit the protrusion of objects with leading edges that are above 27” high and no more than 80” high.  Such objects are limited to a 4” protrusion into circulation paths, but a 4 ½” protrusion is allowed for handrails.  Protrusions up to 12” are specified for objects mounted on posts or pylons (§307)."
 img-file= "chapter4/4amoe11.jpg"
 img-alt= "standpipe"
 %}
@@ -134,7 +134,7 @@ Specifications in the ABA Standards for handrail surfaces and clearances facilit
 
 ### Areas of Refuge [IBC §1007.6 (2003), §1003.2.13.5 (2000)]
 
-Areas of refuge are fire-resistance and smoke protected areas where those unable to use stairs can register a call for evacuation assistance and await instructions or assistance.   They must provide direct access to an exit stairway (or to an elevator equipped with standby power).  Horizontal exits can substitute for areas of refuge.
+Areas of refuge are fire-resistance and smoke protected areas where those unable to use stairs can register a call for evacuation assistance and await instructions or assistance.   They must provide direct access to an exit stairway (or to an elevator equipped with standby power).  Horizontal exits can substitute for areas of refuge.
 
 #### Features of Areas of Refuge
 
@@ -142,7 +142,7 @@ Areas of refuge are fire-resistance and smoke protected areas where those unable
 
 ### Area of Refuge Identification [IBC §1007.6.5 (2003), §1003.2.13.5.5 (2000)]
 
-The IBC requires that doors providing access to areas of refuge be identified by a sign that includes the term “AREA OF REFUGE” and the International Symbol of Accessibility (ISA).  Both the IBC and the ABA Standards apply requirements for tactile and visual characters to the area of refuge signs.
+The IBC requires that doors providing access to areas of refuge be identified by a sign that includes the term “AREA OF REFUGE” and the International Symbol of Accessibility (ISA).  Both the IBC and the ABA Standards apply requirements for tactile and visual characters to the area of refuge signs.
 
 #### Sample Area of Refuge and Exit Sign
 
@@ -153,12 +153,12 @@ The IBC requires that doors providing access to areas of refuge be identified by
 <div class="clearfix border padding-1" markdown="1">
 ![Sprinkler head]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe15.jpg){: .float-right .thumbnail}
 
-Areas of refuge are not required in facilities that are equipped throughout with an automated sprinkler systems in compliance with the IBC.  Sprinkler systems suppress or control fires, and also pinpoint their location, making response more efficient and timely.  In addition, areas of refuge are not required in open parking garages, apartment buildings, detention and correctional facilities, or open exit stairways between floors in buildings with sprinkler systems meeting the NFPA 13 Standard.
+Areas of refuge are not required in facilities that are equipped throughout with an automated sprinkler systems in compliance with the IBC.  Sprinkler systems suppress or control fires, and also pinpoint their location, making response more efficient and timely.  In addition, areas of refuge are not required in open parking garages, apartment buildings, detention and correctional facilities, or open exit stairways between floors in buildings with sprinkler systems meeting the NFPA 13 Standard.
 </div>
 
 ### Horizontal Exits [IBC §1021 (2003), §1005.3.5 (2000)]
 
-A horizontal exit compartmentalizes a building allowing occupants to exit the area containing the origin of a fire into another portion of the building that is protected by fire-resistance-rated assemblies (doors, walls, ceilings, and floors).  A horizontal exit separates a space into two exit access areas.  IBC requirements for horizontal exits address fire-rated separation, opening protectives, capacity, and other features.
+A horizontal exit compartmentalizes a building allowing occupants to exit the area containing the origin of a fire into another portion of the building that is protected by fire-resistance-rated assemblies (doors, walls, ceilings, and floors).  A horizontal exit separates a space into two exit access areas.  IBC requirements for horizontal exits address fire-rated separation, opening protectives, capacity, and other features.
 
 #### Horizontal Exit
 
@@ -192,7 +192,7 @@ Accessible means of egress must connect exits to a public way, such as a street 
 _Exit discharge is the path from an exit to a public way_
 </div>
 
-Steep terrain and other constraints can make it difficult to provide an accessible means of egress from building exits to a public way.  The IBC permits an exterior area for assisted rescue, a protected area immediately outside a building exit, where a connecting accessible route to a public way from the level of exit discharge is not practicable.  Alternatively, an interior area of refuge can be provided at exits.  When used as an alternative to an accessible route from exit discharge to a public way, they must be provided, including in buildings that are sprinklered.
+Steep terrain and other constraints can make it difficult to provide an accessible means of egress from building exits to a public way.  The IBC permits an exterior area for assisted rescue, a protected area immediately outside a building exit, where a connecting accessible route to a public way from the level of exit discharge is not practicable.  Alternatively, an interior area of refuge can be provided at exits.  When used as an alternative to an accessible route from exit discharge to a public way, they must be provided, including in buildings that are sprinklered.
 
 <div class="grid-container">
   <div class="grid-row">
@@ -215,11 +215,11 @@ Steep terrain and other constraints can make it difficult to provide an accessib
 
 [[§F216]({{ site.baseurl }}/aba/#aba-f216)]
 
-The ABA Standards cover tactile and visual features of signs, including those that serve means of egress.  Only certain signs are subject to requirements for tactile and visual access, while a broader range is subject to the visual criteria only.  Tactile signs must include compliant raised characters and braille characters and be located at doors 48” to 60” above the floor or ground (§703.2).  Visual criteria address the height, style, proportion, and spacing of characters, as well as finish and contrast, line spacing, and other features (§703.5).  Tactile and visual requirements can be met on the same sign or on separate signs.
+The ABA Standards cover tactile and visual features of signs, including those that serve means of egress.  Only certain signs are subject to requirements for tactile and visual access, while a broader range is subject to the visual criteria only.  Tactile signs must include compliant raised characters and braille characters and be located at doors 48” to 60” above the floor or ground (§703.2).  Visual criteria address the height, style, proportion, and spacing of characters, as well as finish and contrast, line spacing, and other features (§703.5).  Tactile and visual requirements can be met on the same sign or on separate signs.
 
 ### Tactile and Visual Signs
 
-[[§F216.2]({{ site.baseurl }}/aba/#aba-f216_2), [§F216.4.1]({{ site.baseurl }}/aba/#aba-f216_4_1)]
+[[§F216.2]({{ site.baseurl }}/aba/#aba-f216_2), [§F216.4.1]({{ site.baseurl }}/aba/#aba-f216_4_1)]
 
 The IBC requires exits and exit access doors to be marked by illuminated exit signs (§1011, §1003.2.10). In addition, the IBC requires a tactile “EXIT” sign adjacent to the door to an egress stairway, an exit passageway, and the exit discharge (§1011.3, §1003.2.10.3 – 2000 addresses doors to egress stairways only). The ABA Standards include a similar requirement for visual and tactile exit signs at doors at exit stairways, exit passageways, and exit discharge (§F216.4.1). (An exit passageway is a horizontal component of an exit that is separated from interior building spaces by fire-resistance-rated construction that leads to the exit discharge or public way.)
 
@@ -230,12 +230,12 @@ The ABA Standards also require that signs identifying “permanent rooms and spa
 ![Example signs all caps in raised characters and braille:  “EXIT,” “LEVEL 2,” “STAIRS” (with stairs symbol), and “AREA OF REFUGE” with accessibility symbol]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe24.jpg){: .img-large}
 
 <div markdown="1" class="text-center padding-left-7 padding-right-7">
-_Exit signs (located at exits) and signs identifying permanent spaces, such as stairways, floor levels, and areas of refuge, are required to meet tactile and visual criteria.  Signs providing direction to such spaces and to exits must comply as visual signs, but not as tactile signs.  Instructional content included on signs, such evacuation instructions, also must meet visual criteria but not those for tactile characters._
+_Exit signs (located at exits) and signs identifying permanent spaces, such as stairways, floor levels, and areas of refuge, are required to meet tactile and visual criteria.  Signs providing direction to such spaces and to exits must comply as visual signs, but not as tactile signs.  Instructional content included on signs, such evacuation instructions, also must meet visual criteria but not those for tactile characters._
 </div>
 
 ### Visual Signs
 
-[[§F216.3]({{ site.baseurl }}/aba/#aba-f216_3), [§F216.4.2]({{ site.baseurl }}/aba/#aba-f216_4_2), [§F216.4.3]({{ site.baseurl }}/aba/#aba-f216_4_3)]
+[[§F216.3]({{ site.baseurl }}/aba/#aba-f216_3), [§F216.4.2]({{ site.baseurl }}/aba/#aba-f216_4_2), [§F216.4.3]({{ site.baseurl }}/aba/#aba-f216_4_3)]
 
 Signs providing direction to, or information about, interior rooms and spaces must meet visual criteria in the ABA Standards, but are not required to be tactile (§F216.3). This requirement applies to information about spaces, such as rules of conduct and evacuation instructions, exit route maps, and directional signs to exits and other elements and spaces.  
   
@@ -246,13 +246,13 @@ The ABA Standards specifically apply these requirements to signs providing direc
 ![Example signs: “EXIT” with directional arrow, “IN CASE OF FIRE USE STAIRS,” with symbol of person using stairs during fire, and posted instructions.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe25a.jpg){: .img-large}
 
 <div class="padding-left-7 padding-right-7" markdown="1">
-_Visual criteria, but not tactile criteria, apply to directional signs, informational   
-signs, rules of conduct signs, and posted instructions._
+_Visual criteria, but not tactile criteria, apply to directional signs, informational   
+signs, rules of conduct signs, and posted instructions._
 </div>
 
 ### Pictograms and Symbols of Accessibility
 
-[[§F216.2]({{ site.baseurl }}/aba/#aba-f216_2), [§703.6]({{ site.baseurl }}/aba/#aba-703_6), [§703.7]({{ site.baseurl }}/aba/#aba-703_7)]
+[[§F216.2]({{ site.baseurl }}/aba/#aba-f216_2), [§703.6]({{ site.baseurl }}/aba/#aba-703_6), [§703.7]({{ site.baseurl }}/aba/#aba-703_7)]
 
 ![Sign with “STAIRWAY” in raised letter and braille below stair pictogram that is on field at least 6” high.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe26.jpg){: .img-right}
 
@@ -263,7 +263,7 @@ Pictograms that provide information about a room or space, including the Interna
 <div class="border clearfix padding-left-1" markdown="1">
 ![International Symbol of Accessibility and fire extinguisher symbol]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe27.jpg){: .img-right}
 
-Pictograms that provide information about a space or that are included on directional signs must meet finish and contrast requirements but are not required to have text descriptors or to be located on a 6” min. high field.  The ISA must conform to the illustration in the ABA Standards (§703.7.2.1).
+Pictograms that provide information about a space or that are included on directional signs must meet finish and contrast requirements but are not required to have text descriptors or to be located on a 6” min. high field.  The ISA must conform to the illustration in the ABA Standards (§703.7.2.1).
 </div>
 
 ### Other Requirements in the ADA Standards
@@ -272,7 +272,7 @@ Pictograms that provide information about a space or that are included on direct
 ![Platform lift]({{ site.baseurl }}{{ page.image-directory }}chapter4/4amoe28.jpg){: .float-left .img-medium}
 
 #### Platform Lifts
-Platform lifts, where permitted on an accessible means of egress, must have standby power (§F207.2).
+Platform lifts, where permitted on an accessible means of egress, must have standby power (§F207.2).
 </div>
 
 <div class="clearfix" markdown="1">
@@ -280,7 +280,7 @@ Platform lifts, where permitted on an accessible means of egress, must have sta
 
 #### Fire Alarm Systems
 
-Where fire alarms systems are provided, they must meet requirements for audible and visual features in the ABA Standards and the referenced NFPA 72 Fire Alarm Code (§F215).
+Where fire alarms systems are provided, they must meet requirements for audible and visual features in the ABA Standards and the referenced NFPA 72 Fire Alarm Code (§F215).
 </div>
 
 <div class="clearfix" markdown="1">
@@ -288,7 +288,7 @@ Where fire alarms systems are provided, they must meet requirements for audible 
 
 #### Operable Parts
 
-Operable parts used by building occupants, including alarms pulls and hardware for fire extinguisher cabinets, must comply (§F205, §309).  They must be usable with one hand and without tight grasping, pinching, or twisting of the wrist, or more than 5 pounds of force.  Non-fixed elements, such as fire extinguishers, are not subject to the ABA Standards.
+Operable parts used by building occupants, including alarms pulls and hardware for fire extinguisher cabinets, must comply (§F205, §309).  They must be usable with one hand and without tight grasping, pinching, or twisting of the wrist, or more than 5 pounds of force.  Non-fixed elements, such as fire extinguishers, are not subject to the ABA Standards.
 </div>
 
 <div class="clearfix" markdown="1">
@@ -305,7 +305,7 @@ compliant manual swinging door also serves the same means of egress
 
 #### Fire Safety Evacuation Planning
 
-Fire safety evacuation planning is a critical component of life safety. Evacuation plans and procedures should address the needs of all facility occupants, including those with disabilities. Various products are available that can facilitate assisted evacuation of people with disabilities in emergencies. Mobility aids, such as emergency stair travel devices, also known as evacuation chairs, are available to transport people unable to use stairs. These devices are designed with rollers, treads, and braking mechanisms that enable a person to be transported down stairs with the assistance of another person. The Rehabilitation Engineering and Assistive Technology Society of North America (RESNA), [www.resna.org](http://www.resna.org), has developed consensus Standards for emergency stair travel devices through the American National Standards Institute (RESNA ED-1:2013 – American National Standard for Evacuation Devices – Volume 1: Emergency Stair Travel Devices Used by Individuals with Disabilities). It is important that evacuation chairs be located so that they do not obstruct required means of egress.
+Fire safety evacuation planning is a critical component of life safety. Evacuation plans and procedures should address the needs of all facility occupants, including those with disabilities. Various products are available that can facilitate assisted evacuation of people with disabilities in emergencies. Mobility aids, such as emergency stair travel devices, also known as evacuation chairs, are available to transport people unable to use stairs. These devices are designed with rollers, treads, and braking mechanisms that enable a person to be transported down stairs with the assistance of another person. The Rehabilitation Engineering and Assistive Technology Society of North America (RESNA), [www.resna.org](http://www.resna.org), has developed consensus Standards for emergency stair travel devices through the American National Standards Institute (RESNA ED-1:2013 – American National Standard for Evacuation Devices – Volume 1: Emergency Stair Travel Devices Used by Individuals with Disabilities). It is important that evacuation chairs be located so that they do not obstruct required means of egress.
 
 ###  Common Questions
 
@@ -334,4 +334,4 @@ Yes. The Standards do not exempt such doors from the requirement for vision ligh
 #### Where can one get further information or technical assistance on the IBC, including its requirements for means of egress?
 
 Technical assistance on the IBC is available from the International Code
-Council (ICC) at (888) ICC-SAFE (422-7233) or by email at [CareCenter@iccsafe.org](CareCenter@iccsafe.org). For further information, visit the ICC's website at [www.iccsafe.org](http://www.iccsafe.org). 
+Council (ICC) at (888) ICC-SAFE (422-7233) or by email at [CareCenter@iccsafe.org](CareCenter@iccsafe.org). For further information, visit the ICC's website at [www.iccsafe.org](http://www.iccsafe.org). 

@@ -240,7 +240,7 @@ equivalent to the information contained on pedestrian signs and transit
 signs, the signs are not required to comply with R211.2 and R211.3.
 
 {: .advisory}
-  **Advisory R211.1 General. ** Audible sign systems and other technologies that provide information equivalent to the information contained on signs are more usable by pedestrians who are blind or have low vision.  Remote infrared audible signs that transmit information to portable devices that are carried by and audible only to the user are an example of audible sign systems and other technologies.
+  **Advisory R211.1 General. ** Audible sign systems and other technologies that provide information equivalent to the information contained on signs are more usable by pedestrians who are blind or have low vision.  Remote infrared audible signs that transmit information to portable devices that are carried by and audible only to the user are an example of audible sign systems and other technologies.
 
 
 #### R211.2 Pedestrian Signs
@@ -249,13 +249,13 @@ shall comply with R410.
 
 
 {: .advisory}
-**Advisory R211.2 Pedestrian Signs.**  Pedestrian route signs along an historic trail, sidewalk closure and pedestrian detour signs, and tourist information signs are examples of signs that provide directions, warnings, or other information for pedestrians only.  Signs provided for motorists and pedestrians such as highway and street name signs are not required to comply with R410.
+**Advisory R211.2 Pedestrian Signs.**  Pedestrian route signs along an historic trail, sidewalk closure and pedestrian detour signs, and tourist information signs are examples of signs that provide directions, warnings, or other information for pedestrians only.  Signs provided for motorists and pedestrians such as highway and street name signs are not required to comply with R410.
 
 #### R211.3 Transit Signs
 Signs that identify the routes served by transit stops shall comply with R410.
 
 {: .advisory}
-**Advisory R211.3 Transit Signs.**  Transit schedules, timetables, and maps are not required to comply with R410.
+**Advisory R211.3 Transit Signs.**  Transit schedules, timetables, and maps are not required to comply with R410.
 
 #### R211.4 Accessible Parking Space and Passenger Loading Zone Signs
 Accessible parking spaces and accessible passenger loading zones shall be identified by signs displaying the International Symbol of

@@ -6,10 +6,10 @@ file-description: PDF version of Chapter 6 Drinking Fountains Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-6-drinking-fountains/
 ---
+This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for
+drinking fountains. 
 
-This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for
-drinking fountains. 
-
+{% include sr-dimension-markings.html %}
 ### Required Compliance
 
 [[§211]({{ site.baseurl }}/ada/#ada-211)]
@@ -71,7 +71,7 @@ as well as restrooms and telephones, serving the primary function area.
 The accessible path of travel is required to the extent that it does not
 cost more than 20% of the cost of the work to the primary function area
 (§202.4). See the [Alterations and Additions
-Guide](../chapter-2-alterations-and-additions). 
+Guide](../chapter-2-alterations-and-additions). 
 
 #### Water Coolers and Bottle Fillers
 
@@ -100,7 +100,7 @@ to locate it at the wheelchair accessible unit or bowl.
 
 ### Wheelchair Accessible Drinking Fountains
 
-[[§602.1 -- §602.6]({{ site.baseurl }}/ada/#ada-602)]
+[[§602.1 to §602.6]({{ site.baseurl }}/ada/#ada-602)]
 
 Provisions for wheelchair accessible units require access for a forward
 approach and address spouts, water flow, and operable parts. Units can
@@ -111,26 +111,26 @@ approach clear floor space highlighted. Notes: Clear Floor Space
 (§602.2) for a forward approach centered on the unit; Operable Parts
 (§602.3) within accessible reach range and usable with one hand and
 without tight grasping, pinching, twisting of the wrist, or more than 5
-lbf.; Spout Height (§602.4) 36" max. above the finish floor or ground.
-Figure: Detail of spout and water flow 4\" high min. Caption: Water Flow
+lbf.; Spout Height (§602.4) 36 inches maximum above the finish floor or ground.
+Figure: Detail of spout and water flow 4 inches high minimum. Caption: Water Flow
 (§602.6). Figure: A drinking fountain in plan view with a spout less
-than 3\" from the front of unit and an angle of the water stream 30
-degrees max. measured horizontally relative to the face of the unit. A
-drinking fountain in plan view with a spout 3\" - 5\" from the front of
-unit and an angle of the water stream 15 degrees max. measured
+than 3 inches from the front of unit and an angle of the water stream 30
+degrees maximum measured horizontally relative to the face of the unit. A
+drinking fountain in plan view with a spout 3 inches to 5 inches from the front of
+unit and an angle of the water stream 15 degrees maximum measured
 horizontally relative to the face of the
 unit.]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/4a.png){: .img-large}
 
 #### Spout Location (§602.5)
 
 <div class="margin-left-8 margin-right-8 text-center" markdown="1">
-_Spouts must be 15\" min. from the vertical support and 5\" max. from the unit\'s front edge, including bumpers._
+_Spouts must be 15&Prime; minimum from the vertical support and 5&Prime; maximum from the unit\'s front edge, including bumpers._
 </div>
 
-![Drinking fountain with rectangular bowl with spouts 15" min. from the
-vertical support and 5" max. from the unit's front edge. Drinking
-fountain with round bowl with spouts 15" min. from the vertical support
-and 5" max. from the unit's front edge.]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/8.jpg){: .img-large}
+![Drinking fountain with rectangular bowl with spouts 15 inches minimum from the
+vertical support and 5 inches maximum from the unit's front edge. Drinking
+fountain with round bowl with spouts 15 inches minimum from the vertical support
+and 5 inches maximum from the unit's front edge.]({{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/8.jpg){: .img-large}
 
 #### Clear Floor or Ground Space
 
@@ -143,16 +143,16 @@ both sides for more than half the depth, such as at alcoves.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/9.jpg" alt="Drinking fountain in plan view with clear floor space 30 inches min. by 48 inches min. centered on the unit. The unit overlaps the front portion of the clear floor space by a depth of 17 inches min.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/9.jpg" alt="Drinking fountain in plan view with clear floor space 30 inches minimum by 48 inches minimum centered on the unit. The unit overlaps the front portion of the clear floor space by a depth of 17 inches minimum">
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/10.jpg" alt="Drinking fountain in an alcove with clear floor space that is obstructed on both sides more than 24 inches due to the recess and is 36 inches wide min.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/10.jpg" alt="Drinking fountain in an alcove with clear floor space that is obstructed on both sides more than 24 inches due to the recess and is 36 inches wide minimum">
     </div>
   </div>
 </div>
 
 Knee and toe space is required below the unit. The combined depth of the
-knee and toe space must be at least 17\" (and 25\" max.) measured from
+knee and toe space must be at least 17&Prime; (and 25&Prime; maximum) measured from
 the leading edge of the unit, including bumpers.
 
 <div class="grid-container">
@@ -173,7 +173,7 @@ the leading edge of the unit, including bumpers.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <span class="grid-left">Drinking fountains designed specifically for children ages 12 and younger can provide a parallel approach instead of a forward approach if the spout is 30 inches high max and no more than 3-1/4 inches from the front edge of the unit, including bumpers (§602.2, Ex). Parallel clear floor space is not required to be centered on the unit."</span>
+      <span class="grid-left">Drinking fountains designed specifically for children ages 12 and younger can provide a parallel approach instead of a forward approach if the spout is 30 inches high max and no more than 3 1/4 inches from the front edge of the unit, including bumpers (§602.2, Ex). Parallel clear floor space is not required to be centered on the unit."</span>
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/14.jpg" alt="Drinking fountain with outlet centerline 3-1/2 inches max to front edge, including bumpers">
     </div>
     <div class="tablet:grid-col">
@@ -186,7 +186,7 @@ the leading edge of the unit, including bumpers.
 
 [[§602.7]({{ site.baseurl }}/ada/#ada-602_7)]
 
-Drinking fountains for standing persons must have spouts 38\" to 43\"
+Drinking fountains for standing persons must have spouts 38&Prime; to 43&Prime;
 high and compliant operable parts and be located on an accessible route.
 They cannot obstruct the forward approach clearance, including knee and
 toe space, required at wheelchair accessible units.
@@ -211,9 +211,9 @@ text= "Although cantilevered units for standing persons with knee and toe space 
 [[§602.1]({{ site.baseurl }}/ada/#ada-602_1)]
 
 Requirements for protruding objects (§307) apply to drinking fountains.
-Drinking fountains with leading edges higher than 27\" must be recessed
+Drinking fountains with leading edges higher than 27&Prime; must be recessed
 in alcoves or otherwise treated so that they do not protrude more than
-4\" into circulation paths. Alcoves must be sized to accommodate the
+4&Prime; into circulation paths. Alcoves must be sized to accommodate the
 clear floor space required at wheelchair accessible units.
 
 <div class="grid-container">
@@ -222,12 +222,12 @@ clear floor space required at wheelchair accessible units.
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/projecting_fountain.jpg" alt="Drinking fountain recessed in alcove.">
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/17.jpg" alt="Drinking fountain in alcove (plan view) with leading edge projecting 4 inches max. beyond recess">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/drinking-fountains/17.jpg" alt="Drinking fountain in alcove (plan view) with leading edge projecting 4 inches maximum beyond recess">
     </div>
   </div>
 </div>
 
-Wheelchair accessible units that provide, but do not exceed, the 27\"
+Wheelchair accessible units that provide, but do not exceed, the 27&Prime;
 minimum knee clearance do not require treatment as a protruding object
 because the leading edge is at the maximum limit for cane detectability.
 Such units can be used to enclose one side of cantilevered units for
@@ -247,7 +247,7 @@ to recess drinking fountains.
 
 ### Common Questions
 
-### ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumnail} 
+### ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumnail} 
 
 #### Can water coolers or bottle fillers substitute for accessible drinking fountains?
 
@@ -271,16 +271,16 @@ when the decision is made to mount drinking fountains at heights for
 children ages 12 and younger. Under this exception, a parallel approach
 is permitted instead of a forward approach with knee and toe clearance
 in order to accommodate a lower unit height provided that the spout is
-no higher than 30\" and no more than 3½\" from the front edge of the
+no higher than 30&Prime; and no more than 3½&Prime; from the front edge of the
 unit, including bumpers (§602.6).
 
 #### Do drinking fountains have to meet requirements for protruding objects?
 
 Yes, the Standards limit the protrusion into circulation paths of those
 objects, including drinking fountains that have leading edges higher
-than 27\" above the finish floor or ground. Cantilevered units with
-leading edges higher than 27\" must be recessed or protected as
-protruding objects. Wheelchair accessible units with a 27\" absolute
+than 27&Prime; above the finish floor or ground. Cantilevered units with
+leading edges higher than 27&Prime; must be recessed or protected as
+protruding objects. Wheelchair accessible units with a 27&Prime; absolute
 knee clearance below do not require treatment as protruding objects.
 
 #### Can units for standees overlap the clear floor space required at wheelchair accessible units?

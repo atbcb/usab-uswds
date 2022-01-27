@@ -30,6 +30,7 @@ should not assume that by reading the provisions of Chapter 2 alone they
 will have all the information and perspective they need to achieve
 compliance with the 2010 Standards.
 
+{% include sr-dimension-markings.html %}
 ### Scoping Requirements
 
 Requirements in Chapter 2 indicate which elements and spaces must be
@@ -118,7 +119,7 @@ and to other employee areas not used for work
 purposes]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc5.jpg){: .img-large}
 
 <div class="border" style="background-color: #deecf7; padding: 10px;">
-<h4>Exception Based on Structural Impracticability in DOJ's 2010 ADA Standards and DOT"s ADA Regulations</h4>
+<h4>Exception Based on Structural Impracticability in DOJ's 2010 ADA Standards and DOT's ADA Regulations</h4>
 
 <p>DOJ’s 2010 ADA Standards and DOT's ADA regulations specify that full compliance is not required in new construction in rare circumstances where unique characteristics of terrain make the incorporation of accessibility features “structurally impracticable.” In such a case, the new construction requirements apply except where the responsible entity can demonstrate that it is structurally impracticable to meet those requirements. This exception is very narrow and should not be used in cases of merely hilly terrain.</p>
 
@@ -162,7 +163,7 @@ text2= "Examples: life guard stands, fire towers, and prison guard towers"
 {% include grid-2col-leftimg-righttextstditalic.html
 img-file= "chapter2-ada/nc8.jpg"
 img-alt= "boiler"
-text= "Employee work areas under 300 s.f. that are elevated at least 7\" as an
+text= "Employee work areas under 300 s.f. that are elevated at least 7&Prime; as an
 essential functional condition of the space (excluding raised courtroom
 stations)"
 text2= "Example: Work areas with equipment/ machinery that must be operated
@@ -218,7 +219,7 @@ exempt."
 text2= ""
 %}
 
-#### Certain Sports/ Recreation and Other Structures [§203.10 - §203.14]
+#### Certain Sports/ Recreation and Other Structures [§203.10 to §203.14]
 
 {% include grid-2col-leftimg-righttextstditalic.html
 img-file= "chapter2-ada/nc13.jpg"
@@ -259,7 +260,7 @@ for public use, but elements within used only by employees for work are
 not required to comply.
   
 {% include recommendation.html
-text= "Although areas used only by employees for work are not required to be fully accessible, consider designing such areas to include non-required turning spaces, and provide accessible elements whenever possible.  Under the ADA, employees with disabilities are entitled to reasonable accommodations in the workplace.  Accommodations can include alterations to spaces within the facility.  Designing employee work areas to be more accessible at the outset will eliminate or reduce the need for more costly retrofits in providing reasonable accommodations for employees with disabilities."
+text= "Although areas used only by employees for work are not required to be fully accessible, consider designing such areas to include non-required turning spaces, and provide accessible elements whenever possible. Under the ADA, employees with disabilities are entitled to reasonable accommodations in the workplace. Accommodations can include alterations to spaces within the facility. Designing employee work areas to be more accessible at the outset will eliminate or reduce the need for more costly retrofits in providing reasonable accommodations for employees with disabilities."
 %}
 
 #### Access to Approach, Enter, and Exit Work Areas
@@ -273,7 +274,7 @@ International Building Code.
 **Access for Approach, Entry, and Exit**
 
 ![Doorway to office illustrates access for approach, entry, and exit to
-employee work area. Figure notes: Wheelchair space (30" x 48" min.) in
+employee work area. Figure notes: Wheelchair space (30 inches by 48 inches minimum) in
 the work area Accessible entry door/ gate (including maneuvering
 clearances on the exterior) Connecting accessible route and accessible
 means of egress Wiring must be designed to allow later installation of
@@ -335,7 +336,7 @@ img-file2= "chapter2-ada/nc9.jpg"
 img-alt2= "structure with ladder"
 img-file3= "chapter2-ada/nc8.jpg"
 img-alt3= "boiler"
-text= "Portions of common use circulation paths serving exempt spaces within a work area are not required to comply, including routes to or within: <ul><li>machinery spaces used only by service personnel;</li><li>spaces accessed only by ladders, catwalks, crawl spaces, or very narrow passageways;</li><li>employee work areas under 300 sq. ft. that are elevated at least 7\" as an essential functional condition of the space (excluding raised courtroom stations)</li><li>and other exempted spaces.</li></ul>"
+text= "Portions of common use circulation paths serving exempt spaces within a work area are not required to comply, including routes to or within: <ul><li>machinery spaces used only by service personnel;</li><li>spaces accessed only by ladders, catwalks, crawl spaces, or very narrow passageways;</li><li>employee work areas under 300 sq. ft. that are elevated at least 7&Prime; as an essential functional condition of the space (excluding raised courtroom stations)</li><li>and other exempted spaces.</li></ul>"
 %}
 
 ### Wiring for Visible Alarms
@@ -357,7 +358,7 @@ text= "In facilities where an above-average number of employees with hearing imp
 
 ### Scoping Requirements for Elements and Spaces
 
-[[§204]({{ site.baseurl }}/ada/#ada-204) - [§243]({{ site.baseurl }}/ada/#ada-243)]
+[[§204]({{ site.baseurl }}/ada/#ada-204) to [§243]({{ site.baseurl }}/ada/#ada-243)]
 
 Scoping provisions for elements and spaces, which are summarized here,
 are further discussed with relevant technical provisions in the
@@ -414,7 +415,7 @@ facilities.]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/nc21.jpg){
 
 #### Communication Elements
 
-![Figure of corridor with overhead sign ("East Wing Rooms 300 -- 350"),
+![Figure of corridor with overhead sign ("East Wing Rooms 300 to 350"),
 sign at door, fire alarm, and pay telephone. Figure notes: Fire Alarm
 Systems (§215) Fire alarms, if provided, must comply with the National
 Fire Alarm Code (NFPA 72) which covers audible and visual features.
@@ -564,7 +565,7 @@ text= "<h5 aria-describedby=\"asterisk\">Residential Facilities [§233]*</h5>"
 {% include grid-2col-leftimg-righttext.html
 img-file= "chapter2-ada/nc34.jpg"
 img-alt= "swimmer"
-text= "<h5>Recreation Facilities [§234 - §243]</h5>"
+text= "<h5>Recreation Facilities [§234 to §243]</h5>"
 %}
 
 </div>

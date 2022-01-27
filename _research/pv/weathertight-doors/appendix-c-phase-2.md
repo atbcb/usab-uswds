@@ -58,7 +58,7 @@ Sill < 8 feet above WL
 Sill >/= [8 feet] above WL
 
  |
-|   |
+|   |
 
 **Position 1**
 

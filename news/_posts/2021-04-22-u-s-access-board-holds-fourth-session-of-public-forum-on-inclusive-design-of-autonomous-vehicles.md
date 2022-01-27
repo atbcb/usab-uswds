@@ -20,8 +20,8 @@ Dr. Aaron Steinfeld discussed robotics research that addressed the issue of requ
 
 Ted Guild spoke about the role of the W3C Web Accessibility Initiative for operability in the data model design of AVs such as profiles, geospatial functions, and intelligent transportation systems. Bruce Bailey presented on definitions of information and communication technology (ICT) and information technology (IT) to clarify what is covered under [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/). The presentations were followed by the speakers responding to submitted questions from session attendees.
 
-A recording of the session and copies of the [presentations](https://www.access-board.gov/av/forums.html) are available on the [Board’s AV webpage](https://www.access-board.gov/av/).  
+A recording of the session and copies of the [presentations](https://www.access-board.gov/av/forums.html) are available on the [Board’s AV webpage](https://www.access-board.gov/av/). 
 
-In addition to the virtual meetings, an online [discussion platform](https://transportationinnovation.ideascale.com/) is currently open to the public to share ideas and questions on designing AVs that are accessible to individuals with mobility disabilities. Dialogues on accessibility for passengers with sensory or cognitive disabilities and next steps are also open for comment until May 5. 
+In addition to the virtual meetings, an online [discussion platform](https://transportationinnovation.ideascale.com/) is currently open to the public to share ideas and questions on designing AVs that are accessible to individuals with mobility disabilities. Dialogues on accessibility for passengers with sensory or cognitive disabilities and next steps are also open for comment until May 5. 
 
-Direct questions about the forum to Randall Duchesneau III at [events@access-board.gov](mailto:%20events@access-board.gov) or (202) 272-0044.
+Direct questions about the forum to Randall Duchesneau III at [events@access-board.gov](mailto:%20events@access-board.gov) or (202) 272-0044.

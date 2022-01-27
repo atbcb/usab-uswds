@@ -77,7 +77,7 @@ Access Board Conference Center\
 1331 F Street NW, Suite 800\
 Washington, DC
 
-The Board also will review the proposed rule in a webinar on March 31 from 1:00 -- 2:30 (ET). Further details and registration will be available at [www.adaconferences.org/CIOC/](http://www.adaconferences.org/CIOC/).
+The Board also will review the proposed rule in a webinar on March 31 from 1:00 -- 2:30 (ET). Further details and registration will be available at [www.adaconferences.org/CIOC/](http://www.adaconferences.org/CIOC/).
 
 ### Next Steps 
 
@@ -85,4 +85,4 @@ The Board also will review the proposed rule in a webinar on March 31 from 1:00 
 
 ### Further Information 
 
-For further information on this rulemaking, visit the Board's website at www.access-board.gov or contact Timothy Creagan at (202) 272-0016 (v), (202) 272-0074 (TTY), or <508@access-board.gov>[.](mailto:508@access-board.gov.)
+For further information on this rulemaking, visit the Board's website at www.access-board.gov or contact Timothy Creagan at (202) 272-0016 (v), (202) 272-0074 (TTY), or <508@access-board.gov>[.](mailto:508@access-board.gov.)

@@ -149,7 +149,7 @@ The maximum high reach is reduced to 46” when the reach over an obstruction is
             <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op14.jpg" alt="Side reach 46 inches max. if reach depth over obstruction 34 inches max. high if reach depth greater than 10 inches (24 inches max.)">
         </div>
     </div>
-</div> 
+</div> 
 
 #### Side Reach Radius
 

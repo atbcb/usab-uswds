@@ -6,19 +6,19 @@ collection-folder: pvaac
 collection-title: Passenger Vessels Access Advisory Committee
 ---
 
-**Part I **Coast Guard CFR and SOLAS provisions which conflict with provisions in the ADAAG Review Advisory Committee Report (ADAAG-R).
+**Part I **Coast Guard CFR and SOLAS provisions which conflict with provisions in the ADAAG Review Advisory Committee Report (ADAAG-R).
 
-**Part II **ADAAG-R provisions which may be problematic if applied to passenger vessels due to similar CFR or SOLAS provisions.
+**Part II **ADAAG-R provisions which may be problematic if applied to passenger vessels due to similar CFR or SOLAS provisions.
 
-**Part III **Other subcommittee comments.
+**Part III **Other subcommittee comments.
 
-**Index **Completion of Coast Guard's initial review. References Part I through Part III.
+**Index **Completion of Coast Guard's initial review. References Part I through Part III.
 
 #### Part I
 
 The following sections from the Coast Guard's CFR, subchapters H and K, and SOLAS conflict with sections from the ADAAG Review Advisory Committee report (ADAAG-R).
 
-**Conflict 1 **EGRESS ELEVATORS - ADAAG-R 207.2 requires that in certain situations at least one accessible means of egress shall be an elevator. In subchapter H, CFR 72.10-5(b) does not allow elevators to be used as a required means of escape. This conflict does not appear in subchapter K.
+**Conflict 1 **EGRESS ELEVATORS - ADAAG-R 207.2 requires that in certain situations at least one accessible means of egress shall be an elevator. In subchapter H, CFR 72.10-5(b) does not allow elevators to be used as a required means of escape. This conflict does not appear in subchapter K.
 
 **Coast Guard CFR Section**
 
@@ -56,7 +56,7 @@ II-2-28.4 In no case shall lifts be considered as forming one of the required me
 
 207.3 Signs. At exit stairways and elevators serving a required accessible space, but not serving as an accessible means of egress, directional signs indicating the location of accessible means of egress shall be provided. Such signs shall comply with 703.4.
 
-**Conflict 2 **COAMING - 46 CFR 116.1160(d) and 171.122(f) set coaming heights at 3 to 6 inches at some exterior doors. ADAAG-R 404.2.5 limits thresholds at doors required to be accessible to 1/2 inches high maximum, and 303.4 requires changes in level greater than 1/2 to be ramped.
+**Conflict 2 **COAMING - 46 CFR 116.1160(d) and 171.122(f) set coaming heights at 3 to 6 inches at some exterior doors. ADAAG-R 404.2.5 limits thresholds at doors required to be accessible to 1/2 inches high maximum, and 303.4 requires changes in level greater than 1/2 to be ramped.
 
 **Coast Guard CFR Sections**
 

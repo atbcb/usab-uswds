@@ -29,7 +29,7 @@ Forty-nine adult listeners with sensorineural hearing loss participated in this 
 5.  Moderate to severe sloping hearing loss: PTA is greater than 41 dB HL with thresholds at 2000 Hz greater than 70 dB HL.
 6.  Precipitous, high- frequency hearing loss: PTA is less than 41 d B HL with thresholds at 2000 Hz greater than 40 dB HL.
 
-[Figures 14 through 19](https://www.access-board.gov/als/alsgifs/figures14-19.htm) are group audiograms showing averaged thresholds (both ears) for each of the participants with hearing loss. All but three listeners who participated in the study had symmetrical hearing losses.
+[Figures 14 through 19](https://www.access-board.gov/als/alsgifs/figures14-19.htm) are group audiograms showing averaged thresholds (both ears) for each of the participants with hearing loss. All but three listeners who participated in the study had symmetrical hearing losses.
 
 In addition, data were collected for ten listeners without hearing loss.
 
@@ -61,17 +61,17 @@ The original sentences were subjected to three types of distortion created under
 
 In three separate recording environments sentence materials were delivered from a B & K artificial mouth at successive distances from the recording microphone. The environments were selected to represent those where a person with hearing loss is likely to encounter an assistive listening system: a classroom, a conference room, and an auditorium. A high quality microphone attached to a sound level meter picked up the signals and delivered them to a digital audio tape recorder. Speech Transmission Index (STI) measurements were made immediately following the recording of each sentence pair at each microphone location. The recorded signals were then redigitized and stored onto a computer disk for presentation during the experiment.
 
-[Figure 20](https://www.access-board.gov/als/alsgifs/figure20.htm) shows the STI at each of the recording distances from the microphone.
+[Figure 20](https://www.access-board.gov/als/alsgifs/figure20.htm) shows the STI at each of the recording distances from the microphone.
 
 Note that STI values for the conference room at equivalent distances to those for the other rooms were comparatively quite poor. This is because of the constant background noise created by the ventilation system in the conference room.
 
 2\. Induction Loop Noise
 
-A digital recording was made of the noise created by a poorly installed induction loop. This noise was digitally mixed with the original sentences at six signal to noise ratios ranging from 0 to 30 dB in 6 dB steps. [Figure 21](https://www.access-board.gov/als/alsgifs/figure21.htm)shows the spectrum of the induction loop noise.
+A digital recording was made of the noise created by a poorly installed induction loop. This noise was digitally mixed with the original sentences at six signal to noise ratios ranging from 0 to 30 dB in 6 dB steps. [Figure 21](https://www.access-board.gov/als/alsgifs/figure21.htm)shows the spectrum of the induction loop noise.
 
 The noise largely consists of a background "buzz " (see primary at 60 Hz with harmonics) and a high-frequency hiss.
 
-Also shown in [Figures 22 and 23](https://www.access-board.gov/als/alsgifs/figures22-23.htm) are the composite spectra of the male and female voices, respectively, for the Lexington Sentences that were chosen.
+Also shown in [Figures 22 and 23](https://www.access-board.gov/als/alsgifs/figures22-23.htm) are the composite spectra of the male and female voices, respectively, for the Lexington Sentences that were chosen.
 
 1.  Peak clipping
 
@@ -151,7 +151,7 @@ Sentences were always presented in female/male question/reply pairs. Pairs for e
 
 8.3 Results and Discussion
 
-[Figure 24](https://www.access-board.gov/als/alsgifs/image24.gif) shows the range of preferred listening levels selected by the listeners who
+[Figure 24](https://www.access-board.gov/als/alsgifs/image24.gif) shows the range of preferred listening levels selected by the listeners who
 
 participated in this study. The highest level of 111 dB SPL was selected by a listener with a moderate-to-severe flat hearing loss. The dB SPL values were referenced to the level of a 1000 Hz calibration tone whose RMS level is equivalent to the average RMS level of the sentences.
 
@@ -161,7 +161,7 @@ median ratings for each of the five listening conditions. These median values we
 
 divided into groups according to degree and configuration of hearing loss. It is interesting to note that the median ratings cluster together regardless of the degree and configuration of hearing loss.
 
-Because all of the groups rated the quality of the sentences similarly, recommendations stemming from this report are independent of degree of hearing impairment. Results, however, for the 10 listeners without hearing loss were excluded in arriving at the recommendations. Furthermore, in the interest of being more inclusive, the 75th percentile was chosen over the median (50th percentile). As opposed to an average (mean or median) which does not take into account those listeners with more strict listening criteria, the ratings for 75 percent of the listeners with hearing loss were considered in arriving at the recommendations.
+Because all of the groups rated the quality of the sentences similarly, recommendations stemming from this report are independent of degree of hearing impairment. Results, however, for the 10 listeners without hearing loss were excluded in arriving at the recommendations. Furthermore, in the interest of being more inclusive, the 75th percentile was chosen over the median (50th percentile). As opposed to an average (mean or median) which does not take into account those listeners with more strict listening criteria, the ratings for 75 percent of the listeners with hearing loss were considered in arriving at the recommendations.
 
 A minimally acceptable rating of 2.25 was chosen. This value represents the average if a listener rated at least one of the four presentations for a particular subcondition as good: marginal (2), marginal (2), marginal (2), and good (3). Tables 6 through 10 show the rating level above which 75 percent of the listeners' scores fell for each of the five listening conditions. Values that are below the minimal criterion of 2.25 are both italicized and highlighted. For the auditorium condition the microphone distance cannot be greater than 3 feet from the talker. For the classroom condition the microphone distance cannot be greater than 2 feet from the talker. For the conference room condition all of the microphone distances were judged to be unacceptable. For the induction loop condition the signal-to-noise ratio cannot be poorer than 18 dB. Finally, for the peak clipping condition the level of peak clipping down from the peak level cannot exceed 18 dB.
 
@@ -503,7 +503,7 @@ Quiet
 
  |
 
-[Figure 25](https://www.access-board.gov/als/alsgifs/figure25.htm) shows 75th percentile ratings as a function of the STI results from the reverberation plus noise conditions combined for the three different environments. Also shown on this graph is the best fit, first order regression line to the data. For a minimally acceptable criterion of 2.25 the STI value cannot be less than .84. Note that with our criteria (a 2.25 rating for 75% of the listeners and an STI value of .84) only a few data points can be found in the unacceptable region. Note that these two data points (x's) are for Group 5 with the greatest degree of hearing impairment.
+[Figure 25](https://www.access-board.gov/als/alsgifs/figure25.htm) shows 75th percentile ratings as a function of the STI results from the reverberation plus noise conditions combined for the three different environments. Also shown on this graph is the best fit, first order regression line to the data. For a minimally acceptable criterion of 2.25 the STI value cannot be less than .84. Note that with our criteria (a 2.25 rating for 75% of the listeners and an STI value of .84) only a few data points can be found in the unacceptable region. Note that these two data points (x's) are for Group 5 with the greatest degree of hearing impairment.
 
 The STI was chosen as the criterion metric over a simple distance measure because different STI values can be recorded at the same distance depending on the level of the background noise in the environment (See Figure 20).
 

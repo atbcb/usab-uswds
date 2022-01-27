@@ -34,7 +34,7 @@ In addition to the requirements for handrails and stanchions for rapid, light, a
 
 ### IV. Priority Seating Signs and Other Signage.
 
-#### A. Finish and Contrast. 
+#### A. Finish and Contrast. 
 
 The characters and background of signs should be eggshell, matte, or other non-glare finish. An eggshell finish (11 to 19 degree gloss on 60 degree glossimeter) is recommended. Characters and symbols should contrast with their background-either light characters on a dark background or dark characters on a light background. Research indicates that signs are more legible for persons with low vision when characters contrast with their background by at least 70 percent. Contrast in percent is determined by:
 
@@ -50,7 +50,7 @@ The characters and background of signs should be eggshell, matte, or other non-g
 
 The greatest readability is usually achieved through the use of lightcolored characters or symbols on a dark background.
 
-#### B. Destination and Route Signs.
+#### B. Destination and Route Signs.
 
 The following specifications, which are required for buses (§1192.39), are recommended for other types of vehicles, particularly light rail vehicles, where appropriate.
 
@@ -58,7 +58,7 @@ The following specifications, which are required for buses (§1192.39), are reco
 > 
 > 2. Characters on signs covered by paragraph IV.B.1 of this appendix should have a width-to-height ratio between 3:5 and 1:1 and a stroke width-to-height ratio between 1:5 and 1:10, with a minimum character height (using an upper case "X") of 1 inch for signs on the boarding side and a minimum character height of 2 inches for front "headsigns", with "wide" spacing (generally, the space between letters shall be 1/16 the height of upper case letters), and should contrast with the background, either dark-on-light or light-on-dark, or as recommended above.
 
-#### C. Designation of Accessible Vehicles.
+#### C. Designation of Accessible Vehicles.
 
 The International Symbol of Accessibility should be displayed as shown in Figure 6.
 
@@ -68,7 +68,7 @@ The International Symbol of Accessibility should be displayed as shown in Figure
 
 There is currently no requirement that vehicles be equipped with an information system which is capable of providing the same or equivalent information to persons with hearing loss. Entities are encouraged to employ whatever services, signage or alternative systems or devices that provide equivalent access and are available. Two possible types of devices are visual display systems and listening systems. However, it should be noted that while visual display systems accommodate persons who are deaf or are hearing impaired, assistive listening systems aid only those with a partial loss of hearing.
 
-#### A. Visual Display Systems.
+#### A. Visual Display Systems.
 
 Announcements may be provided in a visual format by the use of electronic message boards or video monitors.
 
@@ -76,7 +76,7 @@ Electronic message boards using a light emitting diode (LED) or "flip-dot" displ
 
 Video monitor systems, such as visual paging systems provided in some airports (e.g., Baltimore-Washington International Airport), are another alternative. The Architectural and Transportation Barriers Compliance Board (Access Board) can provide technical assistance and information on these systems ("Airport TDD Access: Two Case Studies," (1990)).
 
-#### B. Assistive Listening Systems.
+#### B. Assistive Listening Systems.
 
 Assistive listening systems (ALS) are intended to augment standard public address and audio systems by providing signals which can be received directly by persons with special receivers or their own hearing aids and which eliminate or filter background noise. Magnetic induction loops, infra-red and radio frequency systems are types of listening systems which are appropriate for various applications.
 

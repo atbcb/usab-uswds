@@ -45,15 +45,15 @@ The Section 508 Best Practices Webinar Series provides helpful information and b
 
 ### Speakers:
 
-[Michele Hartley (invited)](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10915), Media Accessibility Coordinator, **Harpers Ferry Center, National Park Service**
+[Michele Hartley (invited)](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10915), Media Accessibility Coordinator, **Harpers Ferry Center, National Park Service**
 
-[Gary Morin](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10724), Program Analyst, **NIH Office of the Chief Information Officer**
+[Gary Morin](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10724), Program Analyst, **NIH Office of the Chief Information Officer**
 
-[Thomas Reid (Invited) ](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10916), **My Mind Radio, Stroudsburg, PA**
+[Thomas Reid (Invited) ](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10916), **My Mind Radio, Stroudsburg, PA**
 
-[Patrick Sheehan](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10913), Chief, Section 508 Office, Section 508 Program Manager, **Department of Veterans' Affairs**
+[Patrick Sheehan](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10913), Chief, Section 508 Office, Section 508 Program Manager, **Department of Veterans' Affairs**
 
-[Joel Snyder (invited)](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10487), President, Audio Description Associates, LLC (USA), **Director of Audio Description Project, American Council of the Blind**
+[Joel Snyder (invited)](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10487), President, Audio Description Associates, LLC (USA), **Director of Audio Description Project, American Council of the Blind**
 
 ### Session Questions
 

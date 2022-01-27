@@ -6,10 +6,10 @@ file-description: PDF version of Chapter 2 Alterations Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-2-alterations-and-additions/
 ---
-
-This guide provides an introduction to the scoping requirements that form the basis for the Department of Justice's [2010 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) and the Department of Transportation\'s ADA
+This guide provides an introduction to the scoping requirements that form the basis for the Department of Justice's [2010 ADA Standards](http://www.ada.gov/2010ADAstandards_index.htm) and the Department of Transportation\'s ADA
 Standards and is not intended to be comprehensive or used as a stand-alone technical guide to those requirements. Users of this guide must familiarize themselves with the specific scoping requirements that apply to each element, building, facility, or site that is subject to the Standards adopted to implement titles II and III of the ADA. See the introduction to the guide on "ADA Scoping: New Construction" for further discussion.
 
+{% include sr-dimension-markings.html %}
 ### General
 
 [[§202.1]({{ site.baseurl }}/ada/#ada-202_1)]
@@ -24,7 +24,7 @@ Projects that increase, expand, or extend a facility's gross floor area or heigh
 
 #### Application of the Standards in Additions
 
- ![Existing facility and addition. Figure notes: Existing portions of a facility affected by an addition are treated as alterations. Newly built portions added to an existing facility are treated as new construction. Additions that affect the usability of, or access to, an area containing a primary function must comply with requirements for an accessible path of travel. Unaltered elements and spaces are generally not required to comply (except as needed to provide an accessible path of travel to primary function areas affected by the addition).]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a2.jpg){: .img-full}
+ ![Existing facility and addition. Figure notes: Existing portions of a facility affected by an addition are treated as alterations. Newly built portions added to an existing facility are treated as new construction. Additions that affect the usability of, or access to, an area containing a primary function must comply with requirements for an accessible path of travel. Unaltered elements and spaces are generally not required to comply (except as needed to provide an accessible path of travel to primary function areas affected by the addition).]({{ site.baseurl }}{{ page.image-directory }}chapter2-ada/a2.jpg){: .img-full}
 
 ### Alterations
 
@@ -93,7 +93,7 @@ text= "Compliant fire alarm systems are required only in alterations where fire 
 img-file= "chapter2-ada/a9.jpg"
 img-alt= "ramp symbol"
 text-title= "Ramps"
-text= "Slightly steeper running slopes are permitted for short ramps (maximum 6\" rise) where space is limited (§405.2, Ex.)."
+text= "Slightly steeper running slopes are permitted for short ramps (maximum 6&Prime; rise) where space is limited (§405.2, Ex.)."
 %}
 
 {% include grid-2col-leftimg-righttext.html
@@ -131,7 +131,7 @@ infeasible include:
     components of the structural frame, including structural
     reinforcement of the floor slab.
 
- 
+
 
 ### Alterations Affecting Primary Function Areas
 
@@ -153,7 +153,7 @@ The accessible path of travel is required to the extent that it is not "dispropo
 #### Prioritization
 
 <div class="img-right img-medium">
-  <span class="grid-line border">The requirements for alterations to primary function areas are found in <a href="http://www.ada.gov/2010ADAstandards_index.htm">DOJ's ADA Standards</a> at 28 CFR §35.151(b) (title II) and 28 CFR §36.403 (title III) and in <a href="http://www.ecfr.gov/cgi-bin/text-idx?c=ecfr&SID=d315855e2f2c9f940970f4c191349c12&rgn=div5&view=text&node=49:1.0.1.1.27&idno=49">DOT's ADA Regulation at 49 CFR §37.43</a>.</span>
+  <span class="grid-line border">The requirements for alterations to primary function areas are found in <a href="http://www.ada.gov/2010ADAstandards_index.htm">DOJ's ADA Standards</a> at 28 CFR §35.151(b) (title II) and 28 CFR §36.403 (title III) and in <a href="https://www.ecfr.gov/current/title-49/subtitle-A/part-37#p-37.43(a)">DOT's ADA Regulation at 49 CFR §37.43</a>.</span>
 </div>
 
 Compliance is required up to the point the 20% cost cap is reached, even

@@ -8,11 +8,11 @@ year-completed: 2003
 topic: Exterior Surfaces
 ---
 
-> American Society for Testing and Materials. ASTM F1292 *Standard Specification for Impact Attenuation of Surface Systems Under and Around Playground Equipment, ASTM, West **Conshohocken,PA 19428*
+> American Society for Testing and Materials. ASTM F1292 *Standard Specification for Impact Attenuation of Surface Systems Under and Around Playground Equipment, ASTM, West **Conshohocken,PA 19428*
 >
-> American Society for Testing and Materials. ASTM F1951 *Standard Specification for Determination of Accessibility of Surface Systems Under and Around Playground Equipment, ASTM, West **Conshohocken, PA 19428*
+> American Society for Testing and Materials. ASTM F1951 *Standard Specification for Determination of Accessibility of Surface Systems Under and Around Playground Equipment, ASTM, West **Conshohocken, PA 19428*
 >
-> American Society for Testing and Materials. ASTM F2075-01, Vol. 15.07.*Standard Specification for engineered wood fiber. ASTM, West **Conshohocken, PA 19428*
+> American Society for Testing and Materials. ASTM F2075-01, Vol. 15.07.*Standard Specification for engineered wood fiber. ASTM, West **Conshohocken, PA 19428*
 >
 > ADA. 1990. Public Law 101-336. Text of the Americans with Disabilities Act, Public Law 336 of the 101st Congress, enacted July 26, 1990.
 >

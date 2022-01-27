@@ -119,7 +119,7 @@ Consistent with the lessons learned from a review of various policy frameworks, 
 
 (1) Recommendations on issues related to the effectiveness of emergency alarm system design and practices on board passenger vessels for passengers who are deaf or hard of hearing should recognize that alarm practices and systems on passenger vessels are different from alarm practices and systems on land.
 
-(2) In addition to the required audible element, alarm systems should include visible, and, where appropriate, tactile or other[2](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftn2) elements.
+(2) In addition to the required audible element, alarm systems should include visible, and, where appropriate, tactile or other[2](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftn2) elements.
 
 (3) Visible, tactile or other elements of alarms should provide effective signaling methods to communicate the general emergency alarm and local smoke detector alarm.
 
@@ -127,7 +127,7 @@ Consistent with the lessons learned from a review of various policy frameworks, 
 
 (5) The committee recognizes the vital role of crew assistance during emergencies on passenger vessels. The committee also recognizes that evidence regarding effective means of providing visible emergency alerts (to supplement crew assistance) in outdoor spaces is not readily available. Therefore, it is of the utmost importance that such evidence be identified if it exists, or that a high priority be given to research for establishing such evidence.
 
-**Recommendation #1** -- Applies to general emergency alarms in public spaces which summon passengers to designated muster stations. Public spaces include places of assembly, dining areas, places of recreation, public rest rooms, retail areas and other such spaces. Cabins (guest rooms) are addressed in recommendation #2 below.
+**Recommendation #1** -- Applies to general emergency alarms in public spaces which summon passengers to designated muster stations. Public spaces include places of assembly, dining areas, places of recreation, public rest rooms, retail areas and other such spaces. Cabins (guest rooms) are addressed in recommendation #2 below.
 
 Background: Recommendation #1 applies primarily to passenger vessels with overnight accommodations. In general, prior to getting underway or in the course of getting underway, passengers are provided with information on what actions the passengers are expected to take when the general emergency alarm is activated (e.g., seven short sound blasts on the ship's whistle, siren, or similar tones and one long blast or tone). The information provided includes the location and route to the muster stations as well as information regarding lifeboats, low-location lighting, retrieving and donning of lifejackets, retrieving medications and dressing warmly. This information is provided by means such as in-cabin reading materials and in-room video with captions. It is also provided by crew lecture at muster stations and response to individual questions at any time.
 
@@ -154,7 +154,7 @@ There is a consensus that:
 -   Take into account other national standards (e.g., UK, Australia, Canada); and
 -   Reflect current research and state of technology for effectively alerting passengers who are deaf or hard of hearing for use on passenger vessels.
 
-**Recommendation #2** -- Applies to general emergency alarms and local smoke detector alarms in cabins (guest rooms).
+**Recommendation #2** -- Applies to general emergency alarms and local smoke detector alarms in cabins (guest rooms).
 
 Background: When the general emergency alarm is activated, passengers in cabins are alerted (and awakened if necessary) and are expected to proceed to muster stations without waiting for crew directions or instructions.
 
@@ -184,7 +184,7 @@ There is consensus:
 -   Information should be provided to notify passengers of the availability of portable devices/systems, such as, but not limited to, advertisements, brochures, signage, and web sites; and
 -   Portable devices/systems should be acceptable to the passenger vessel's administrative authority (e.g., USCG for US Flag passenger vessels), and installed in the cabin per manufacturer's specifications.
 
-**Recommendation #3** -- Applies to general emergency alarms (audible alarm or voice alert) in public spaces on passenger vessels without designated muster stations to notify or alert passengers, followed by crew instructions on how to respond.
+**Recommendation #3** -- Applies to general emergency alarms (audible alarm or voice alert) in public spaces on passenger vessels without designated muster stations to notify or alert passengers, followed by crew instructions on how to respond.
 
 Background: Recommendation #3 applies primarily to passenger vessels without overnight accommodations. A general emergency alarm is activated over the passenger vessel public address system, or an announcement is made about an emergency condition (like a fire in the galley). Although passengers are alerted that some type of emergency condition exists on the passenger vessel, passengers require additional information from crew to respond appropriately.
 
@@ -214,7 +214,7 @@ New Construction Design Elements: There is consensus that:
 
 Operational Elements: If audible instruction is provided, there is consensus that visual auxiliary aids and services should be provided per 28 CFR part 35.160 (DOJ title II regulations), 28 CFR part 36.303 (DOJ title III regulations), and 49 CFR part 37.5(f) (DOT regulations), which may include computers, data screens, illustrative instructions (pictures), LCD TVs, wall mounted or hand carried placards, and white boards.
 
-**Recommendation #4** -- There is consensus that the areas below should be further reviewed and researched.
+**Recommendation #4** -- There is consensus that the areas below should be further reviewed and researched.
 
 (1) Availability and efficacy of personal notification devices in emergencies for use in alerting adults and children who are deaf or hard of hearing.
 
@@ -231,7 +231,7 @@ Operational Elements: If audible instruction is provided, there is consensus tha
 
 (4) Best and promising practices for soliciting self-identification information and encouraging passengers who are deaf or hard of hearing to respond.
 
-**Recommendation #5** -- There is consensus that the Access Board should pass on the recommendation below to the Department of Transportation (DOT).
+**Recommendation #5** -- There is consensus that the Access Board should pass on the recommendation below to the Department of Transportation (DOT).
 
 After DOT issues final regulations on passenger vessels, DOT should develop policy guidance to supplement the regulations on effective communication in emergencies.
 
@@ -243,14 +243,14 @@ After DOT issues final regulations on passenger vessels, DOT should develop poli
 
 * * * * *
 
-[1](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftnref1) The complete set of Guiding Principles is set out at <http://www.access-board.gov/pvaac/alarms/docs/>[ principles.htm](https://www.access-board.gov/docs/principles.htm).
+[1](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftnref1) The complete set of Guiding Principles is set out at <http://www.access-board.gov/pvaac/alarms/docs/>[ principles.htm](https://www.access-board.gov/docs/principles.htm).
 
-[2](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftnref2) Recently, the NFPA 72 committee has proposed to amend NFPA 72 (for the 2010 version) to have a low frequency alarm signal in certain sleeping rooms for the purpose of awakening those with mild to severe hearing loss. The alarm signal would have a square wave or equivalent awakening ability. The wave would have a fundamental frequency of 520 Hz +/- 10%, and the minimum sound level at the pillow would be 75 dBA, or 15 dB above the ambient noise level, whichever is greater.
+[2](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftnref2) Recently, the NFPA 72 committee has proposed to amend NFPA 72 (for the 2010 version) to have a low frequency alarm signal in certain sleeping rooms for the purpose of awakening those with mild to severe hearing loss. The alarm signal would have a square wave or equivalent awakening ability. The wave would have a fundamental frequency of 520 Hz +/- 10%, and the minimum sound level at the pillow would be 75 dBA, or 15 dB above the ambient noise level, whichever is greater.
 
-[3](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftnref3) Note: After the final committee meeting (August 12-13, 2008), the Epilepsy Foundation (which was not present at the August meeting) believed that use of the word "possibility" when used in the context of minimizing the triggering of seizures, took the language in the draft consensus report (March 13, 2008) "down to a very minimal level of minimizing the possibility of seizures". Accordingly, the Epilepsy Foundation wanted the phrase "minimize the risk of triggering seizures" used instead of "minimize the possibility of triggering seizures" here and in three other parts of the report where the term was used. The Cruise Lines International Association (which was present at the August 12-13, 2008 meeting) objected to using the term "risk", and expressed concern that use of the term "risk" implies conducting a risk assessment and noted that there are not standards or guidelines for either conducting such an assessment or as to what would constitute an acceptable risk. In CLIA's view, this was specifically discussed at the committee and was not the committee's intent. The term "possibility or risk" is used throughout the report to highlight this issue. This was the only issue where complete consensus was not achieved.
+[3](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftnref3) Note: After the final committee meeting (August 12-13, 2008), the Epilepsy Foundation (which was not present at the August meeting) believed that use of the word "possibility" when used in the context of minimizing the triggering of seizures, took the language in the draft consensus report (March 13, 2008) "down to a very minimal level of minimizing the possibility of seizures". Accordingly, the Epilepsy Foundation wanted the phrase "minimize the risk of triggering seizures" used instead of "minimize the possibility of triggering seizures" here and in three other parts of the report where the term was used. The Cruise Lines International Association (which was present at the August 12-13, 2008 meeting) objected to using the term "risk", and expressed concern that use of the term "risk" implies conducting a risk assessment and noted that there are not standards or guidelines for either conducting such an assessment or as to what would constitute an acceptable risk. In CLIA's view, this was specifically discussed at the committee and was not the committee's intent. The term "possibility or risk" is used throughout the report to highlight this issue. This was the only issue where complete consensus was not achieved.
 
-[4](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftnref4) See footnote number 3.
+[4](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftnref4) See footnote number 3.
 
-[5](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftnref5) See footnote number 3.
+[5](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftnref5) See footnote number 3.
 
-[6](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftnref6) See footnote number 3.
+[6](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/background/final-report-passenger-vessel-emergency-alarms-advisory-committee#ftnref6) See footnote number 3.

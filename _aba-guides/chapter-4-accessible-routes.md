@@ -4,7 +4,7 @@ order-number: 8
 file: /files/aba/guides/accessible-routes-ABA.pdf
 file-description: PDF version of Chapter 4 Accessible Routes Guide
 ---
-This guide explains scoping and technical requirements for accessible routes in the [ABA Standards]({{ site.baseurl }}/aba/). 
+This guide explains scoping and technical requirements for accessible routes in the [ABA Standards]({{ site.baseurl }}/aba/). 
 
 ### Where Required: Site Arrival Points
 
@@ -35,12 +35,12 @@ At least one accessible route within the boundary of the site originating from s
 
 ### Accessible Routes within a Building or Facility
 
-At least one accessible route must connect all accessible spaces and elements.  If a circulation path is interior, the accessible route also must be interior.  Accessible vertical interior circulation must be in the same area as stairs and escalators, not isolated in the back of the facility.
+At least one accessible route must connect all accessible spaces and elements.  If a circulation path is interior, the accessible route also must be interior.  Accessible vertical interior circulation must be in the same area as stairs and escalators, not isolated in the back of the facility.
 
 ![Accessible route extending from ramp and connecting to maneuvering clearance at door and clear floor space at a drinking fountain and an elevator call button.  Notes:  An accessible route from facility entrances is required to each accessible room, space, and element.  Vertical access between stories is required in most multi-story facilities, but exceptions are permitted for some non-governmental facilities under a certain size or number of stories.  Accessible routes must serve each level on a floor required to be accessible.  Vertical access can be achieved by ramps, curb ramps, elevators or, where permitted, platform lifts. Accessible routes must connect to an unobstructed side of the clear floor space required at accessible elements.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar5.jpg){: .img-large}
 
 {% include recommendation.html
-text= "In alterations, an accessible route is required where circulation paths are altered or built (§F202.3).  Also, alterations to areas containing a primary function (a major activity for which a facility is intended) require an accessible path of travel that extends to site arrival points to the extent that the additional cost does not exceed 20% (§F202.4). Otherwise, if a space or element is altered, but the circulation path to it is not, an accessible route is not required."
+text= "In alterations, an accessible route is required where circulation paths are altered or built (§F202.3).  Also, alterations to areas containing a primary function (a major activity for which a facility is intended) require an accessible path of travel that extends to site arrival points to the extent that the additional cost does not exceed 20% (§F202.4). Otherwise, if a space or element is altered, but the circulation path to it is not, an accessible route is not required."
 %}
 
 ### Where Required: Multi-Story Buildings and Facilities
@@ -61,7 +61,7 @@ An accessible route between stories is required in multi-story facilities except
 
 ![Symbols of residential facility, transient lodging, detention and correctional facilities, and airport]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar11.jpg){: .float-right .thumbnail}
 
-The Standards also include limited exceptions for accessible routes between stories in air traffic control towers and, under certain conditions, detention and correctional facilities, residential facilities, multi-story transient lodging guest rooms, and qualified historic facilities.
+The Standards also include limited exceptions for accessible routes between stories in air traffic control towers and, under certain conditions, detention and correctional facilities, residential facilities, multi-story transient lodging guest rooms, and qualified historic facilities.
 
 ### Mezzanines (Private and Public Sector Facilities)
 
@@ -76,7 +76,7 @@ An accessible route must serve mezzanines in multi-story facilities where vertic
 
 ### Alterations and Additions
 
-[§F206.2.3.1]({{ site.baseurl }}/aba/#aba-f206_2_3_1), [§F202.4]({{ site.baseurl }}/aba/#aba-f202_4)]
+[§F206.2.3.1]({{ site.baseurl }}/aba/#aba-f206_2_3_1), [§F202.4]({{ site.baseurl }}/aba/#aba-f202_4)]
 
 In alterations to multi-story facilities, an accessible route to stories and mezzanines is required where a stair or escalator is provided where none existed previously and major structural modifications are necessary (§F206.2.3.1). The accessible route must connect each level served by the new stair or escalator (except where a compliant connecting accessible route already exists).
 
@@ -86,22 +86,22 @@ Exceptions for accessible routes between stories and to mezzanines permitted in 
 
 #### When Accessible Routes to Stories/ Mezzanines are Required in Alterations or Additions
 
- ![Building schematic with stairways highlighted and route to primary function area on upper floor highlighted.  Notes:  Where stairs or escalators are added where none existed previously and major structural modifications are necessary, accessible routes must connect each level served by the new stair or escalator (§206.2.3.1).  As necessary to achieve an accessible path of travel to a primary function area that is altered or that is part of an addition, unless the cost is more than 20% of the cost of the overall alteration (§202.4). All exceptions for accessible routes to stories or mezzanines allowed in new construction also apply to altered facilities and additions.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar13ab.jpg){: .img-large}
+ ![Building schematic with stairways highlighted and route to primary function area on upper floor highlighted.  Notes:  Where stairs or escalators are added where none existed previously and major structural modifications are necessary, accessible routes must connect each level served by the new stair or escalator (§206.2.3.1).  As necessary to achieve an accessible path of travel to a primary function area that is altered or that is part of an addition, unless the cost is more than 20% of the cost of the overall alteration (§202.4). All exceptions for accessible routes to stories or mezzanines allowed in new construction also apply to altered facilities and additions.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar13ab.jpg){: .img-large}
 
 ### Accessible Routes to Accessible Spaces and Elements
 
 [[§F206.2.4]({{ site.baseurl }}/aba/#aba-f206_2_4)]
 
-An accessible route must connect accessible facility entrances with all accessible spaces and elements in a facility that are connected by a circulation path (§F206.2.4). Exceptions for accessible routes to stories and mezzanines (§F206.2.3 and §F206.2.4, Ex. 3) do not extend to level changes within a story or mezzanine that are part of a required accessible route to spaces or elements.  These exceptions apply only to the portions of an accessible route that connect stories or that connect a story and mezzanine.
+An accessible route must connect accessible facility entrances with all accessible spaces and elements in a facility that are connected by a circulation path (§F206.2.4). Exceptions for accessible routes to stories and mezzanines (§F206.2.3 and §F206.2.4, Ex. 3) do not extend to level changes within a story or mezzanine that are part of a required accessible route to spaces or elements.  These exceptions apply only to the portions of an accessible route that connect stories or that connect a story and mezzanine.
 
 #### Dining Areas in Restaurants and Cafeterias
 
-In newly built restaurants and cafeterias, an accessible route must serve all dining areas, including those that are raised or sunken or located outdoors (§F206.2.5).  If a story or mezzanine is exempt from the requirement for vertical access, an accessible route within each story or mezzanine is still required to connect dining areas and other spaces and elements even though an elevator (or ramp) does not serve the story or mezzanine.
+In newly built restaurants and cafeterias, an accessible route must serve all dining areas, including those that are raised or sunken or located outdoors (§F206.2.5).  If a story or mezzanine is exempt from the requirement for vertical access, an accessible route within each story or mezzanine is still required to connect dining areas and other spaces and elements even though an elevator (or ramp) does not serve the story or mezzanine.
 
-![Restaurant dining area]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar14.jpg){: .img-large} 
+![Restaurant dining area]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar14.jpg){: .img-large} 
 
 {% include recommendation.html
-text= "In alterations, an accessible route is not required to existing raised/ sunken dining areas or to all parts of outdoor dining areas if the same services and decor are available in other dining areas that are accessible (§F206.2.5, Ex. 2).  A platform lift (or limited use-limited application elevator) can be used to provide access to such areas in alterations, but not in new construction (§F206.7)."
+text= "In alterations, an accessible route is not required to existing raised/ sunken dining areas or to all parts of outdoor dining areas if the same services and decor are available in other dining areas that are accessible (§F206.2.5, Ex. 2).  A platform lift (or limited use-limited application elevator) can be used to provide access to such areas in alterations, but not in new construction (§F206.7)."
 %}
 
 <div style="margin-top: 10px; padding-top: 10px;" class="border">
@@ -139,7 +139,7 @@ highlighted."
 text-title= ""
 text= "The 500 sq. ft. maximum applies to the gross floor area,
 including exterior floor space, of all press boxes serving a playing
-field, stadium, or other assembly area.  If a site has multiple assembly
+field, stadium, or other assembly area.  If a site has multiple assembly
 areas with press boxes, the aggregate area of press boxes is to be
 calculated separately for each assembly area."
 %}
@@ -149,7 +149,7 @@ calculated separately for each assembly area."
 
 ![Golfing icon]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar22.jpg){: .float-right .thumbnail}
 
-The ABA Standards also address accessible routes to amusement rides, boating facilities, bowling lanes, court sports, exercise machines and equipment, fishing piers and platforms, golf and miniature golf facilities, and play areas.
+The ABA Standards also address accessible routes to amusement rides, boating facilities, bowling lanes, court sports, exercise machines and equipment, fishing piers and platforms, golf and miniature golf facilities, and play areas.
 </div>
 
 ### Accessible Routes
@@ -166,13 +166,13 @@ Components of accessible routes include walking surfaces, doorways, ramps, curb 
 
 [[§403.5]({{ site.baseurl }}/aba/#aba-403_5)]
 
-The minimum 36” continuous clear width of accessible routes can reduce to 32” at points, such as doorways, for a maximum distance of 24”.  Greater clearance is required for 180 degree turns around narrow obstructions and for wheelchair turning space.  The minimum clearance cannot be reduced by any elements, including handrails or protruding objects.
+The minimum 36” continuous clear width of accessible routes can reduce to 32” at points, such as doorways, for a maximum distance of 24”.  Greater clearance is required for 180 degree turns around narrow obstructions and for wheelchair turning space.  The minimum clearance cannot be reduced by any elements, including handrails or protruding objects.
 
 ![Plan view or route shown to be 36” wide min. with areas that are 32” wide min. that are 24” long max. and separated by 48” min.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar24.jpg){: .img-large}
 
 #### 180 Turns Around Obstructions
 
-Additional clearance is required at 180 degree turns around an element that is less than 48” wide.  The clear width must be at least 48” at the turn and 42” minimum approaching the turn (unless the clear width at the turn is 60” minimum).
+Additional clearance is required at 180 degree turns around an element that is less than 48” wide.  The clear width must be at least 48” at the turn and 42” minimum approaching the turn (unless the clear width at the turn is 60” minimum).
 
 ![Two alternative plan views are shown of an accessible route that has a 180 degree turn about an object less than 48 inches wide.  In one figure, the clear width is 42 inches minimum approaching the turn, 48 inches minimum at the turn, and 42 inches minimum leaving the turn.  In other figure, the clear width is 36 inches minimum approaching the turn, 60 inches at the turn, and 36 inches minimum leaving the turn.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar25.jpg){: .img-large}
 
@@ -197,9 +197,9 @@ Passing space is required every 200 feet and must be provided as a 60” by 60�
 
 ### Handrails Along Walking Surfaces
 
-[[§403.6]({{ site.baseurl }}/aba/#aba-403_6), [§505]({{ site.baseurl }}/aba/#aba-505)]
+[[§403.6]({{ site.baseurl }}/aba/#aba-403_6), [§505]({{ site.baseurl }}/aba/#aba-505)]
 
-Handrails are required at ramps with a rise greater than 6” and at stairs that are part of a means of egress, but not at other locations.  Where handrails are provided along other portions walking surfaces, they must comply.  (Handrails provided in elevator cabs or on platform lifts are not required to comply).
+Handrails are required at ramps with a rise greater than 6” and at stairs that are part of a means of egress, but not at other locations.  Where handrails are provided along other portions walking surfaces, they must comply.  (Handrails provided in elevator cabs or on platform lifts are not required to comply).
 
 #### Handrails along Walking Surfaces
 
@@ -210,7 +210,7 @@ Handrails are required at ramps with a rise greater than 6” and at stairs that
 - The bottom gripping surface can be obstructed up to 20% of the length (or along the full entire length when part of crash rails or bumper guards).
 - No sharp or abrasive elements on gripping surfaces or adjacent surfaces, and no rotation within fittings.
 
-Surface requirements and clearances facilitate a power grip along the length of handrails.   Handrails can have circular or non-circular cross-sections, but must have rounded edges.  The gripping surface and adjacent surfaces must be free of abrasive or sharp elements.
+Surface requirements and clearances facilitate a power grip along the length of handrails.   Handrails can have circular or non-circular cross-sections, but must have rounded edges.  The gripping surface and adjacent surfaces must be free of abrasive or sharp elements.
 
 #### Circular Cross Section and Clearance (§505.5, §505.7)
 
@@ -218,7 +218,7 @@ Surface requirements and clearances facilitate a power grip along the length of 
 
 #### Non-Circular Cross Section and Clearance (§505.5, §505.7)
 
-![Handrail non-circular cross section (square with rounded corners) with 2 ¼” max. dimension, rounded edges, 4” to 6 ¼” perimeter dimension, 1 ½” clearance behind, and clearance below that is 1 ½” (less 1/8” for each ½” additional perimeter dimension.  Note:  Non-circular cross sections must have rounded edges and meet perimeter and cross-section dimensions.  Other profiles meeting these criteria are permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}  
+![Handrail non-circular cross section (square with rounded corners) with 2 ¼” max. dimension, rounded edges, 4” to 6 ¼” perimeter dimension, 1 ½” clearance behind, and clearance below that is 1 ½” (less 1/8” for each ½” additional perimeter dimension.  Note:  Non-circular cross sections must have rounded edges and meet perimeter and cross-section dimensions.  Other profiles meeting these criteria are permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}  
 
 ### Common Questions
 

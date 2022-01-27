@@ -4,11 +4,11 @@ layout: page
 sidenav: false
 permalink: /enforcement/
 ---
-You should file an ABA complaint if you have encountered or are aware of an accessibility barrier at a building or facility covered by the [Architectural Barriers Act of 1968 (ABA)]({{ site.baseurl }}/law/aba.html).  Covered buildings or facilities are those designed, built, or altered with federal dollars or leased by federal agencies after August 12, 1968.  Examples include U.S. post offices, Veterans Affairs medical facilities, national parks, Social Security Administration offices, federal office buildings, U.S. courthouses, and federal prisons.
+You should file an ABA complaint if you have encountered or are aware of an accessibility barrier at a building or facility covered by the [Architectural Barriers Act of 1968 (ABA)]({{ site.baseurl }}/law/aba.html).  Covered buildings or facilities are those designed, built, or altered with federal dollars or leased by federal agencies after August 12, 1968.  Examples include U.S. post offices, Veterans Affairs medical facilities, national parks, Social Security Administration offices, federal office buildings, U.S. courthouses, and federal prisons.
 
 These facilities must meet [standards for accessible design]({{ site.baseurl }}/aba/), which indicate where access is required and provide detailed specifications for ramps, parking, doors, elevators, restrooms, assistive listening systems, fire alarms, signs, and other accessible building elements.
 
-The Access Board enforces the ABA through the [investigation of complaints]({{ site.baseurl }}/enforcement/investigation.html).
+The Access Board enforces the ABA through the [investigation of complaints]({{ site.baseurl }}/enforcement/investigation.html).
 
 To file an ABA complaint, we strongly recommend using our [Online ABA Complaint Form]({{ site.baseurl }}/enforcement/complaint.html).  
 

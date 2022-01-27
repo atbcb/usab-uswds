@@ -30,6 +30,8 @@ guidelines do not address operational issues. Questions regarding
 operational issues should be directed to the Department of Justice,
 1-800-514-0301 or 1-800-514-0383 (TTY).
 
+{% include sr-dimension-markings.html %}
+
 ---
 
 ### Accessible Routes
@@ -90,7 +92,7 @@ ADAAG's accessible route provisions. They increase the minimum width for
 an accessible route from 36 inches to 48 inches. If an accessible route
 is provided instead of a golf car passage, it must connect accessible
 elements and spaces located within the boundary of a golf course. The
-48-inch minimum width for the accessible route is necessary to ensure
+48 inch minimum width for the accessible route is necessary to ensure
 passage of a golf car on the accessible route. This is important where
 the accessible route is used to connect the golf car rental area, bag
 drop areas, practice putting greens, accessible practice teeing grounds,
@@ -133,7 +135,7 @@ limits.
     be connected by either an accessible route or a golf car passage.
     Existing courses do not have to provide access to the forward teeing
     ground in alterations, if terrain makes compliance infeasible.\
-     
+     
 
 -   Multiple Teeing Grounds---If one or two teeing grounds are provided
     for a hole, only the forward teeing ground must be accessible either
@@ -487,9 +489,9 @@ Walking Surfaces with Running Slopes of 5% or less
 </div>
 
 
-\* The guide uses the term ADAAG (Americans with Disabilities Act
+\* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
- The recreational provisions of these guidelines were adopted into the
+ The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
 the Architectural Barriers Act (ABA) Accessibility Standards).

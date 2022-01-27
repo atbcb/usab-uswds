@@ -6,7 +6,6 @@ file-description: PDF version of Chapter 1 ADA Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-1-using-the-ada-standards/
 ---
-
 The design standards issued under the Americans with Disabilities Act
 (ADA) by the Department of Justice and the Department of Transportation
 are used to ensure access to the built environment for people with
@@ -14,6 +13,8 @@ disabilities. The [ADA Standards]({{ site.baseurl }}/ada/) apply
 nationwide, in addition to any applicable state or local codes, where
 facilities are newly built or altered. Most facilities in the public and
 private sectors are covered by the ADA.
+
+{% include sr-dimension-markings.html %}
 
 ### Facilities Covered by the ADA
 
@@ -294,7 +295,7 @@ example, unlike the ADA guidelines, the ANSI standards require an
 additional vertical grab bar at water closets, transfer shower stalls,
 and tubs. [Detailed comparisons between the 2004 ADA guidelines and the
 IBC/ANSI standard]({{ site.baseurl }}/ada/ada-ibc-comparison/) are available on the Access Board's
-website and the International Code Council's
+website and the International Code Council's
 website at
 [www.iccsafe.org](http://www.iccsafe.org/safety/Pages/accessibility-1.aspx).
 
@@ -465,9 +466,9 @@ specified as a range.
 
 #### Grab Bar Diameter and Clearance
 
-  ![Grab bar diameter 1 1/4\" - 2\" (tolerance not allowed) and knuckle clearance 1 1/2\" absolute (tolerance allowed)]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1gbar.jpg){: .img-large}  
+  ![Grab bar diameter 1 1/4 inches to 2 inches (tolerance not allowed) and knuckle clearance 1 1/2 inches absolute (tolerance allowed)]({{ site.baseurl }}{{ page.image-directory }}chapter1-ada/1gbar.jpg){: .img-large}  
   <div class="img-large-caption">
-  Construction or manufacturing tolerances are permitted for the required clearance at grab bars since this is an absolute dimension (1½ inch), but they are not permitted for the grab bar diameter because a range is specified (1¼" to 2").</div>
+  Construction or manufacturing tolerances are permitted for the required clearance at grab bars since this is an absolute dimension (1½ inch), but they are not permitted for the grab bar diameter because a range is specified (1¼&Prime; to 2&Prime;).</div>
 
 ##### Calculation of Percentages
 
@@ -477,7 +478,7 @@ Some provisions in the ADA Standards specify a minimum number of elements or spa
 In the case of specifications for dimensions or sizes that involve percentages or ratios, rounding down for values less than one half is allowed.
 
 {% include recommendation.html
-text= "Dimensions expressed as a range are intended to accommodate deviations in the field. It is good practice to specify accordingly. For example, for the location of wheelchair accessible water closets (16\" -- 18\" centerline from side walls or partitions), specifying to the midpoint of the range (17\") will accommodate any construction variations up to 1\" plus or minus. For dimensions not expressed as an absolute (\"X maximum\" or \"Y minimum\"), specify in a manner that accommodates the expected tolerance within the required dimensions by subtracting the tolerance from the required maximum or adding it to the required minimum."
+text= "Dimensions expressed as a range are intended to accommodate deviations in the field. It is good practice to specify accordingly. For example, for the location of wheelchair accessible water closets (16&Prime; to 18&Prime; centerline from side walls or partitions), specifying to the midpoint of the range (17&Prime;) will accommodate any construction variations up to 1&Prime; plus or minus. For dimensions not expressed as an absolute (\"X maximum\" or \"Y minimum\"), specify in a manner that accommodates the expected tolerance within the required dimensions by subtracting the tolerance from the required maximum or adding it to the required minimum."
 %}
 
 ##### Figures in the Standards

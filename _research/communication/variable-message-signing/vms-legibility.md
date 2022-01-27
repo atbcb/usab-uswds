@@ -14,7 +14,7 @@ There are no validreasons, however, for the lack of state and national design st
 
 The following sections consist of a summary of those research results and recommendations as well as VMS requirements found in several specification, guideline, and standards publications (the latter are further detailed in Appendix B). Although most of the research did not address issues related to special user populations, an attempt was made to synthesize the general findings with those that did test VMS with subjects with vision impairments. Special emphasis is placed on how these recommendations and requirements relate to VMS legibility for individuals with vision impairments.
 
-**Note:** The majority of VMS legibility research has been conducted on signs that use a matrix design and most of the recommendations are, therefore, couched in the terms related to this type of VMS. Also, VMS legibility is the result of the interaction of all the character variables discussed below; for example, while large letter heights might be desirable they will not be visible at appropriate distances if they are displayed at low contrast.
+**Note:** The majority of VMS legibility research has been conducted on signs that use a matrix design and most of the recommendations are, therefore, couched in the terms related to this type of VMS. Also, VMS legibility is the result of the interaction of all the character variables discussed below; for example, while large letter heights might be desirable they will not be visible at appropriate distances if they are displayed at low contrast.
 
 ### Character Variables
 
@@ -38,7 +38,7 @@ For freeways, Dudek (1997) recommended a character height of 18 inches and betwe
 
 #### *Legibility Index (LI)*
 
-LI is a measure of the legibility distance of a sign as a function of letter height and is expressed in feet per inch of letter height (ft/in). Upchurch, et al. (1991) and Garvey and Mace (1996) found that LIs on the order of 35 ft/in would accommodate "average" older and younger observers. This means that for every inch of letter height, the subjects could read the VMS 35 feet away. However, Garvey and Mace found a significant reduction in daytime legibility with their poorest performing subjects, where LIs dropped to 22 ft/in for the 85th percentile younger subjects and 17 ft/in for the 85th percentile older groups. The situation is even worse for the truly visually impaired. Based on previous research by Muller-Munk (1986),Bentzen et al. (1994) estimated that LIs for the legally blind would more closely approximate 3 ft/in, which translates into ten-inch letter heights at 30 feet just to reach threshold.
+LI is a measure of the legibility distance of a sign as a function of letter height and is expressed in feet per inch of letter height (ft/in). Upchurch, et al. (1991) and Garvey and Mace (1996) found that LIs on the order of 35 ft/in would accommodate "average" older and younger observers. This means that for every inch of letter height, the subjects could read the VMS 35 feet away. However, Garvey and Mace found a significant reduction in daytime legibility with their poorest performing subjects, where LIs dropped to 22 ft/in for the 85th percentile younger subjects and 17 ft/in for the 85th percentile older groups. The situation is even worse for the truly visually impaired. Based on previous research by Muller-Munk (1986),Bentzen et al. (1994) estimated that LIs for the legally blind would more closely approximate 3 ft/in, which translates into ten-inch letter heights at 30 feet just to reach threshold.
 
 #### Letter Width
 
@@ -64,7 +64,7 @@ There is not, however, a great deal of flexibility in VMS font design as these s
 
 #### Luminance
 
-Garvey and Mace (1996) recommended nighttime luminance of30 cd/m2 and 1000 cd/m2 for bright daytime viewing. They found, however, that as visual acuity worsened, more light was needed to achieve equivalent performance. Dudek's (1991) nighttime luminance recommendation was from 30to 230 cd/m2. The European highway community has been attempting to derive standard optical test methods for VMS for the past 15 years, but have been slowed down by, among other factors, rapidly changing technology (Grahame Cheek, European Standards body (CEN), March 8, 2002: personal communication). There currently are no photometric standards to specify what aspect of the sign should be measured (for a discussion on the issues, see Garvey and Mace, 1996; or Lewis,2000).
+Garvey and Mace (1996) recommended nighttime luminance of30 cd/m2 and 1000 cd/m2 for bright daytime viewing. They found, however, that as visual acuity worsened, more light was needed to achieve equivalent performance. Dudek's (1991) nighttime luminance recommendation was from 30to 230 cd/m2. The European highway community has been attempting to derive standard optical test methods for VMS for the past 15 years, but have been slowed down by, among other factors, rapidly changing technology (Grahame Cheek, European Standards body (CEN), March 8, 2002: personal communication). There currently are no photometric standards to specify what aspect of the sign should be measured (for a discussion on the issues, see Garvey and Mace, 1996; or Lewis,2000).
 
 #### Luminance Contrast
 

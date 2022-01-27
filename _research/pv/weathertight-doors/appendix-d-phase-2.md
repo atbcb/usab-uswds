@@ -61,7 +61,7 @@ Sill < 8 feet above WL
 Sill >/= [8 feet] above WL
 
  |
-|   |
+|   |
 
 **Position 1**
 
@@ -282,7 +282,7 @@ Sill < 8 feet above WL
 Sill >/= [8 feet] above WL
 
  |
-|   |
+|   |
 
 **Position 1**
 
@@ -322,7 +322,7 @@ Facing aft
 
  |
 
-> 1.  For all doors with low exterior exposure to the elements due to protective structural elements, multiply score by [0.67]. *Note: The aft door is protected overhead by the upper deck's overhang, and from the outboard and aft directions by bulwarks at the deck edge. Use of the multiplier is appropriate. The score for the aft door is therefore: 2.0 X 0.67 = 1.33.
+> 1.  For all doors with low exterior exposure to the elements due to protective structural elements, multiply score by [0.67]. *Note: The aft door is protected overhead by the upper deck's overhang, and from the outboard and aft directions by bulwarks at the deck edge. Use of the multiplier is appropriate. The score for the aft door is therefore: 2.0 X 0.67 = 1.33.
 >
 > iii. Downflooding Potential
 >
@@ -668,7 +668,7 @@ Unprotected
 
  |
 
-* ~~[6]~~
+* ~~[6]~~
 
  |
 
@@ -676,7 +676,7 @@ Unprotected
 
  |
 
-* ~~[4]~~
+* ~~[4]~~
 
  |
 

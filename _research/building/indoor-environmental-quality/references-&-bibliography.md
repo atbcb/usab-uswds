@@ -10,13 +10,13 @@ topic: Building Elements and Spaces
 
 **Reference 1**
 
-[ASHRAE Fundamentals Handbook](http://www.argonair.com/pdf/Myth%20About%20Bldg%20Env.pdf), 2001, 25.19: <http://www.infiltec.com/inf-larg.htm>
+[ASHRAE Fundamentals Handbook](http://www.argonair.com/pdf/Myth%20About%20Bldg%20Env.pdf), 2001, 25.19: <http://www.infiltec.com/inf-larg.htm>
 
 **Reference 2**
 
-P.LeVallois, et al., ["Prevalence and Risk Factors of Self-Reported Hypersensitivity to Electromagnetic Fields in California"](http://www.dhs.ca.gov/ps/deodc/ehib/emf/RiskEvaluation/Appendix3.pdf) and "An Evaluation of the Possible Risks from Electric and Magnetic Fields (EMF) From Power Lines, Internal Wiring, Electrical Occupations and Appliances.".
+P.LeVallois, et al., ["Prevalence and Risk Factors of Self-Reported Hypersensitivity to Electromagnetic Fields in California"](http://www.dhs.ca.gov/ps/deodc/ehib/emf/RiskEvaluation/Appendix3.pdf) and "An Evaluation of the Possible Risks from Electric and Magnetic Fields (EMF) From Power Lines, Internal Wiring, Electrical Occupations and Appliances.".
 
-[Case study for EMF control](http://www.ncgreenbuilding.org/site/ncg/public/show_project.cfm?project_id=120) (Research Triangle)\
+[Case study for EMF control](http://www.ncgreenbuilding.org/site/ncg/public/show_project.cfm?project_id=120) (Research Triangle)\
 "EMF reduction: The team reviewed available literature on EMF and their threat to health and determined that while EMF radiation could be measured, its threat to humans had not yet been proven or disproved. Nevertheless, the team recommended adopting a philosophy of prudent avoidance toward EMF risks and undertook modifications of the building design to reduce occupant exposure. EMF radiation can be mitigated by distance and by shielding. Distance offers maximum protection and is 'low-tech,' while the costs associated with shielding are high and the results are difficult to measure. Consequently, the design team chose to create 'buffer zones' to reduce prolonged exposures in portions of the building that are occupied for long periods of time, such as the laboratories and offices. The largest sources of EMF were identified as the building's transformers, the electrical rooms with their many cables, and the electrical conduit that was routed under the building atria. As a first step circulation and utility spaces were used to maximize the separation between a source and any potential receptors."
 
 **Reference 3**
@@ -62,7 +62,7 @@ ANSI/ASHRAE Standard 62.1-2004, Ventilation for Acceptable Indoor Air Quality
 
 ANSI/ASHRAE Standard 62.2-2004, Ventilation and Acceptable Indoor Air Quality in Low-Rise Residential Buildings
 
-[ALA Guidelines](http://www.healthhouse.org/build/Guidelines.asp) (American Lung Association)
+[ALA Guidelines](http://www.healthhouse.org/build/Guidelines.asp) (American Lung Association)
 
 [ATSDR Toxicological Profiles Agency for Toxic Substances and Disease Registry](http://www.atsdr.cdc.gov/)
 
@@ -79,7 +79,7 @@ EMF\
 [VitaTech Engineering](http://vitatech.net/q_a.html)\
 [Aronia AG Web site](http://www.emf-meter.com/emf-exposure-limits.htm)\
 [Council on Wireless Technology Impacts](http://www.energyfields.org/)\
-[Arizona Technology Access Program Low Emission Computers](http://www.asilo.com/aztap1)\
+[Arizona Technology Access Program Low Emission Computers](http://www.asilo.com/aztap1)\
 [EMF Services](http://www.emfservices.com/index.htm)\
 [Association for Comprehensive NeuroTherapy---Electrical Sensitivity:A Growing Global Concern](http://www.latitudes.org/articles/electrical_sensitivity_articles.html)\
 [EMF Safety SuperStore](http://www.lessemf.com/)
@@ -95,15 +95,15 @@ Report by Lucinda Grant---World Health Organization (WHO) International Seminar 
 
 [EPA Draft Guidance for Green Buildings: Eight Central Principles, Dave Mudarri](http://www.housingzone.com/news2.asp?topicId=14531&docId=l:25891088)
 
-[Greening Your Homes](http://www.clevelandgbc.org/) series
+[Greening Your Homes](http://www.clevelandgbc.org/) series
 
 [Green Guide for Healthcare from Healthcare Without Harm](http://www.gghc.org/)
 
-Green Building: Project Planning & Cost Estimating RS Means 2002
+Green Building: Project Planning & Cost Estimating RS Means 2002
 
-Indoor Air Quality Handbook McGraw-Hill 2003
+Indoor Air Quality Handbook McGraw-Hill 2003
 
-LEED Rating System for New Construction USGBC 2002
+LEED Rating System for New Construction USGBC 2002
 
 Myths About Building Envelopes, 1999, Persily, NIST.
 
@@ -134,7 +134,7 @@ Toni Temple, Ohio Network for the Chemically Injured
 
 **Contributing**
 
-Terry Brennan, Camroden Associates Jack Carman, ASLA and Sustainable and Therapeutic Garden Group members for their input Design for Exterior Landscaping Recommendations\
+Terry Brennan, Camroden Associates Jack Carman, ASLA and Sustainable and Therapeutic Garden Group members for their input Design for Exterior Landscaping Recommendations\
 Jim LaRue, Healthy House Institute\
 David Rousseau, Archemy Consulting, Ltd.\
 Dave Rupp, Cabinet King, Inc.

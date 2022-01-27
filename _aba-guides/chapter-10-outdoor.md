@@ -13,13 +13,13 @@ The Access Board is responsible for developing accessibility guidelines for the 
 
 ![Person using wheelchair at campsite]({{ site.baseurl }}{{ page.image-directory }}chapter10/outdoor/img-1.jpg){: .img-large}
 
-The U.S. Department of Defense, the U.S. General Services Administration, and the U.S. Postal Service have adopted the Access Board's 2004 guidelines, including the 2013 amendments, as the enforceable standards for the ABA. The [ABA Standards]({{ site.baseurl }}/aba/) are comprised of two types of provisions: scoping requirements and technical requirements. The scoping requirements specify when and where elements must be accessible. The scoping requirements also specify the number of a particular type of element that must be accessible when more than one is provided. The scoping requirements are in chapter 2 of the ABA Standards and the section numbers are preceded by the capital letter "F." The technical requirements specify the design criteria for individual elements. The technical requirements for trails, picnic and camping facilities, viewing areas, and beach access routes are in chapter 10 of the ABA Standards. The scoping and technical requirements are minimum requirements. Designers, owners, and operators are encouraged, but are not required, to exceed the minimum requirements where possible to provide increased accessibility and opportunities for people with disabilities to enjoy trails and other outdoor developed areas.
+The U.S. Department of Defense, the U.S. General Services Administration, and the U.S. Postal Service have adopted the Access Board's 2004 guidelines, including the 2013 amendments, as the enforceable standards for the ABA. The [ABA Standards]({{ site.baseurl }}/aba/) are comprised of two types of provisions: scoping requirements and technical requirements. The scoping requirements specify when and where elements must be accessible. The scoping requirements also specify the number of a particular type of element that must be accessible when more than one is provided. The scoping requirements are in chapter 2 of the ABA Standards and the section numbers are preceded by the capital letter "F." The technical requirements specify the design criteria for individual elements. The technical requirements for trails, picnic and camping facilities, viewing areas, and beach access routes are in chapter 10 of the ABA Standards. The scoping and technical requirements are minimum requirements. Designers, owners, and operators are encouraged, but are not required, to exceed the minimum requirements where possible to provide increased accessibility and opportunities for people with disabilities to enjoy trails and other outdoor developed areas.
 
-This guide is intended to help designers, owners, and operators understand and use the ABA Standards for trails, picnic and camping facilities, viewing areas, and beach access routes. Guides for other recreation facilities, including boating facilities, fishing piers and platforms, golf facilities, play areas, sports facilities, and swimming pools, are available on the Access Board's Web site. The Access Board is also developing guides for toilet and bathing facilities, parking facilities, and other elements and spaces that are required to be accessible by the ABA Standards. 
+This guide is intended to help designers, owners, and operators understand and use the ABA Standards for trails, picnic and camping facilities, viewing areas, and beach access routes. Guides for other recreation facilities, including boating facilities, fishing piers and platforms, golf facilities, play areas, sports facilities, and swimming pools, are available on the Access Board's Web site. The Access Board is also developing guides for toilet and bathing facilities, parking facilities, and other elements and spaces that are required to be accessible by the ABA Standards. 
 
 Incorporating accessibility into the design of outdoor developed areas must begin early in the planning process, with careful consideration given to the location of accessible elements and the routes that connect them. Emphasis must be placed on ensuring that people with disabilities are able to access these unique facilities and use a variety of elements that serve these facilities.
 
-The new provisions for trails, picnic and camping facilities, viewing areas, and beach access routes are not included in the Department of Justice's (DOJ) [2010 ADA Standards]({{ site.baseurl }}/ada/) and have no legal effect on State and local governments and private entities subject to DOJ's ADA regulations. State and local governments and private entities may, however, use the provisions for guidance when designing trails, picnic and camping facilities, viewing areas, and beach access routes. State and local governments and private entities are cautioned to check with DOJ about using the technical requirements for outdoor recreation access routes, instead of accessible routes, to connect elements at picnic and camping facilities, viewing areas, and trailheads.
+The new provisions for trails, picnic and camping facilities, viewing areas, and beach access routes are not included in the Department of Justice's (DOJ) [2010 ADA Standards]({{ site.baseurl }}/ada/) and have no legal effect on State and local governments and private entities subject to DOJ's ADA regulations. State and local governments and private entities may, however, use the provisions for guidance when designing trails, picnic and camping facilities, viewing areas, and beach access routes. State and local governments and private entities are cautioned to check with DOJ about using the technical requirements for outdoor recreation access routes, instead of accessible routes, to connect elements at picnic and camping facilities, viewing areas, and trailheads.
 
 
 ---
@@ -164,7 +164,7 @@ In the rare cases where an entire trail or beach access route is exempted, Feder
 
 A trail is defined as a pedestrian route developed primarily for outdoor recreational purposes. Pedestrian routes that are developed primarily to connect accessible elements, spaces, and buildings within a site are not a trail.
 
-The Access Board is developing accessibility guidelines for sidewalks and shared-use paths. The key differences between accessible routes, sidewalks, shared-use paths, and trails are outlined in the appendix of this guide.
+The Access Board is developing accessibility guidelines for sidewalks and shared-use paths. The key differences between accessible routes, sidewalks, shared-use paths, and trails are outlined in the appendix of this guide.
 
 #### New Trails [F247.1]
 
@@ -180,7 +180,7 @@ When a trail is designed for use by hikers or pedestrians and directly connects 
 The ABA Standards for trails apply when the answer to both questions above is "yes."
 </div>
 
-The Federal Trail Data Standards (FTDS) classify trails by their **designed use** and **managed use**. Under the FTDS, a trail has only **one designed use** that determines the design, construction, and maintenance parameters for the trail. A trail can have more than **one managed use** based on a management decision to allow other uses on the trail. Trails that have a **designed use** for hikers or pedestrians are required to comply with the technical requirements for trails. Trails that have a **designed use** for other than hikers or pedestrians, such as mountain bike or equestrian trails, are not required to comply with the technical requirements for trails.
+The Federal Trail Data Standards (FTDS) classify trails by their **designed use** and **managed use**. Under the FTDS, a trail has only **one designed use** that determines the design, construction, and maintenance parameters for the trail. A trail can have more than **one managed use** based on a management decision to allow other uses on the trail. Trails that have a **designed use** for hikers or pedestrians are required to comply with the technical requirements for trails. Trails that have a **designed use** for other than hikers or pedestrians, such as mountain bike or equestrian trails, are not required to comply with the technical requirements for trails.
 
 A trail system may include a series of connecting trails. Only trails that directly connect to a trailhead or another trail that substantially meets the technical requirement for trails are required to comply with the technical requirements for trails. A trail that complies with most of the technical requirements for trails is considered to substantially meet the technical requirements.
 
@@ -188,12 +188,12 @@ A trail system may include a series of connecting trails. Only trails that direc
 
 When the original design, function, or purpose of an existing trail is changed, regardless of the reason, and the altered portion of the trail directly connects to a trailhead or another trail that substantially meets the technical requirements for trails, the altered portion of the existing trail must comply with the technical requirements for trails.
 
-The term **"reconstruction"** is not used in the ABA Standards, though the term is used frequently by the trails community. For the purposes of the ABA Standards, actions are categorized as either new construction or an alteration. Routine or periodic maintenance activities are not considered an alteration that would trigger the application of the ABA standards. The difference between an alteration and maintenance is as follows:
+The term **"reconstruction"** is not used in the ABA Standards, though the term is used frequently by the trails community. For the purposes of the ABA Standards, actions are categorized as either new construction or an alteration. Routine or periodic maintenance activities are not considered an alteration that would trigger the application of the ABA standards. The difference between an alteration and maintenance is as follows:
 
 ![Maintenance icon]({{ site.baseurl }}{{ page.image-directory }}chapter10/outdoor/img_3.jpg){: .float-right .thumbnail}
 
--   An **alteration** is work done to change the original design, purpose, intent, or function of an existing trail.
--   **Maintenance** is the routine or periodic repair of existing trails or trail segments to restore them to their originally designed and built condition. Maintenance does not change the original design, purpose, intent, or function for which a trail is designed. Maintenance may include:
+-   An **alteration** is work done to change the original design, purpose, intent, or function of an existing trail.
+-   **Maintenance** is the routine or periodic repair of existing trails or trail segments to restore them to their originally designed and built condition. Maintenance does not change the original design, purpose, intent, or function for which a trail is designed. Maintenance may include:
     -   Removing debris and vegetation, such as fallen trees or broken branches on the trail; clearing the trail of encroaching brush or grasses; and removing rock slides
     -   Maintaining trail tread, such as filling ruts, reshaping a trail bed, repairing a trail surface or washout, installing riprap to retain cut and fill slopes, and constructing retaining walls or cribbing to support trail tread
     -   Performing erosion control and drainage work, such as replacing or installing drainage dips or culverts
@@ -251,7 +251,7 @@ The rotational penetrometer (RP) is a precision surface-indenter measuring tool 
 <div class="clearfix" markdown="1">
 ![Tread width icon]({{ site.baseurl }}{{ page.image-directory }}chapter10/outdoor/img_6.jpg){: .float-right .thumbnail}
 
-The clear tread width of trails must be a minimum of 36 inches (figure 2). The 36-inch-minimum clear tread width must be maintained for the entire distance of the trail and may not be reduced by gates, barriers, or other obstacles unless a condition for exception does not permit full compliance with the provision. 
+The clear tread width of trails must be a minimum of 36 inches (figure 2). The 36-inch-minimum clear tread width must be maintained for the entire distance of the trail and may not be reduced by gates, barriers, or other obstacles unless a condition for exception does not permit full compliance with the provision. 
 </div>
 
 ![Line drawing of a pedestrian walking on a trail]({{ site.baseurl }}{{ page.image-directory }}chapter10/outdoor/img_7.jpg){: .img-large}
@@ -272,19 +272,19 @@ Where the full length of a trail does not fully comply with the trail technical 
 
 Passing spaces must be:
 
--   A minimum of 60 by 60 inches (figure 4) or 
+-   A minimum of 60 by 60 inches (figure 4) or 
 
 ![Line drawing of a person using a wheelchair sitting in a passing space.]({{ site.baseurl }}{{ page.image-directory }}chapter10/outdoor/img_9.jpg){: .img-large}
 
 The intersection of two trails that provide a T-shaped space that complies with section 304.3.2 of the ABA Standards (figure 5), and the base and the arms of the T-shaped space extend a minimum of 48 inches beyond the intersection (figure 6)
 
-![ T shape space is 36 inches (915 mm) wide at the top and stem within a 60 inch by 60 inch (1525 mm by 1525 mm) square.]({{ site.baseurl }}{{ page.image-directory }}chapter10/outdoor/img_10.jpg){: .img-large} 
+![ T shape space is 36 inches (915 mm) wide at the top and stem within a 60 inch by 60 inch (1525 mm by 1525 mm) square.]({{ site.baseurl }}{{ page.image-directory }}chapter10/outdoor/img_10.jpg){: .img-large} 
 
 ![T-shaped passing space at the intersection of 2 trails 36 inches min. wide with 5% max. running slope.  Each arm of the T extends 48 inches min. from the intersection.]({{ site.baseurl }}{{ page.image-directory }}chapter10/outdoor/img_11.jpg){: .img-large}
 
 Where the intersection of two trails serves as a passing space, the vertical alignment of the trails at the intersection that form the T-shaped space must be nominally planar so that all the wheels of a mobility device remain on the ground when turning into and out of the space. Nominally planar means on the same nominal table surface (same nominal geometric surface plane) and the slopes of the table surface correspond to the running slope and cross slope of the trail tread. For example, if the trail tread has a 2 percent cross slope and 5 percent running slope, the nominal surface plane of the trail tread and passing space must both have a 2 percent cross slope and a 5 percent running slope. This allows people using mobility devices with three or four wheels to better maintain contact with the surface when moving from the main trail into a passing space. This makes it less likely that the mobility device will tip or overbalance to one side.
 
-**Passing spaces and resting intervals can overlap.** When passing spaces and resting intervals overlap, the technical requirements for resting intervals apply and the slope of the ground surface must be no steeper than 1:48 (2 percent) in any direction. When the surface is constructed of materials other than asphalt, concrete, or boards, slopes no steeper than 1:20 (5 percent) are allowed when necessary for drainage.
+**Passing spaces and resting intervals can overlap.** When passing spaces and resting intervals overlap, the technical requirements for resting intervals apply and the slope of the ground surface must be no steeper than 1:48 (2 percent) in any direction. When the surface is constructed of materials other than asphalt, concrete, or boards, slopes no steeper than 1:20 (5 percent) are allowed when necessary for drainage.
 
 #### Tread Obstacles [1017.5]
 
@@ -350,7 +350,7 @@ Running slope, also referred to as grade, is the lengthwise slope of a trail, pa
 Whenever possible, trails should be constructed with lesser slopes to provide greater independent access and usability.
 </div>
 
-To ensure that a trail is not designed as a series of steep segments, no more than 30 percent of the total length of the trail may have a running slope exceeding 1:12 (8.33 percent). The running slope must never exceed 1:8 (12 percent). Resting intervals must be provided more frequently as the running slope increases (figure 8). 
+To ensure that a trail is not designed as a series of steep segments, no more than 30 percent of the total length of the trail may have a running slope exceeding 1:12 (8.33 percent). The running slope must never exceed 1:8 (12 percent). Resting intervals must be provided more frequently as the running slope increases (figure 8). 
 </div>
 
 <div class="border padding-left-1 padding-right-1 margin-bottom-1" markdown="1">
@@ -398,7 +398,7 @@ The technical requirements for protruding objects do not apply to natural featur
 
 ### Trailheads and Trail Facilities
 
-#### Definition [F106.5] 
+#### Definition [F106.5] 
 
 ![Trailheads icon.]({{ site.baseurl }}{{ page.image-directory }}chapter10/outdoor/img_20.jpg){: .float-right .thumbnail}
 
@@ -498,7 +498,7 @@ At trailheads, at least one ORAR must connect:
 
 Elements, spaces, or facilities that are not required to be accessible do not have to be connected by an ORAR.
 
-ORARs are not required when accessible camping and picnic facilities, viewing areas, or outdoor constructed features are provided along a trail. **These routes must meet the technical requirements for trails.**
+ORARs are not required when accessible camping and picnic facilities, viewing areas, or outdoor constructed features are provided along a trail. **These routes must meet the technical requirements for trails.**
 
 #### Technical Requirements [1016]
 
@@ -1578,11 +1578,11 @@ Documentation is required where a condition for exception prohibits full complia
 
 Where extreme or numerous exceptions make it impracticable to provide a newly constructed or altered trail or beach access route that meets the technical requirements, the standards provide an exemption for the entire trail or beach access route (see 1017.1, exception 2 and 1018.1, exception 2). In these rare cases, an explanation of the conditions that resulted in the determination that it was impracticable for the entire trail or beach access route to comply must be recorded and the documentation must be retained with the records for that project. A copy must also be sent to the Access Board (see F201.4.1).
 
-The Access Board has developed sample notification forms with assistance from the accessibility program managers for the Federal land management agencies. These forms can be used to notify the Access Board when an entire trail or beach access route is exempted. The Access Board plans to monitor situations where the exceptions for trails and beach access routes result in exempting an entire trail or beach access route. The notification forms do not require approval or any other action on the part of the Access Board or the Federal agency. The Access Board will use the information provided by the Federal agencies to develop additional guidance on exempting entire trails and beach access routes. Federal agencies are encouraged to seek technical assistance from the Access Board at <outdoor@access-board.gov> when considering exempting an entire trail or beach access route.
+The Access Board has developed sample notification forms with assistance from the accessibility program managers for the Federal land management agencies. These forms can be used to notify the Access Board when an entire trail or beach access route is exempted. The Access Board plans to monitor situations where the exceptions for trails and beach access routes result in exempting an entire trail or beach access route. The notification forms do not require approval or any other action on the part of the Access Board or the Federal agency. The Access Board will use the information provided by the Federal agencies to develop additional guidance on exempting entire trails and beach access routes. Federal agencies are encouraged to seek technical assistance from the Access Board at <outdoor@access-board.gov> when considering exempting an entire trail or beach access route.
 
--   [Entire Trail Exemption Form](../../../files/ada-aba/archive/trail_exemption_notice.pdf) (1017.2 Exception 2)
--   [Entire Beach Access Route Exemption Form](../../../files/ada-aba/archive/beach_route_exemption_notice.pdf) (1018.2 Exception 2)
+-   [Entire Trail Exemption Form](../../../files/ada-aba/archive/trail_exemption_notice.pdf) (1017.2 Exception 2)
+-   [Entire Beach Access Route Exemption Form](../../../files/ada-aba/archive/beach_route_exemption_notice.pdf) (1018.2 Exception 2)
 
 #### More Information
 
-Copies of the final rule for federal outdoor developed areas and technical assistance is available from the U.S. Access Board at www.access-board.gov or by calling (800) 872--2253 (voice) or (800) 993--2822 (TTY).
+Copies of the final rule for federal outdoor developed areas and technical assistance is available from the U.S. Access Board at www.access-board.gov or by calling (800) 872--2253 (voice) or (800) 993--2822 (TTY).

@@ -49,7 +49,7 @@ Vitri-Turf SEWF durability with exposure to weather was good and reflected our e
 
 During the 10-month period of this testing, the firmness and stability of the SEWF surfaces were measured with the rota-tional penetrometer (Fig. 14). Both the Vitri-Turf and Soil-Sement showed good performance for accessibility during this period. The Vitri-Turf SEWF indicated "firm" and "sta-ble" during the entire period, with some fluctuation traceable to the changes in moisture with long rainy spells. Soil-Sement SEWF was rated as "moderately firm" and "stable" during the testing period (Figs. 15 and 16).
 
- ![Figure 13---Impact testing on beach path was similar to impact test conducted at a playground using a 3.05-m (10-ft) drop-height. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0013.jpg)
+ ![Figure 13---Impact testing on beach path was similar to impact test conducted at a playground using a 3.05-m (10-ft) drop-height. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0013.jpg)
 > *Figure 13---Impact testing on beach path was similar to impact test conducted at a playground using a 3.05-m (10-ft) drop-height.*
 
 ![Figure 14---Rotational penetrometer used to measure accessibility. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0014.jpg)

@@ -15,7 +15,7 @@ Section 255 of the Telecommunications Act of 1996 requires phone manufacturers a
 
 * * * * *
 
-**(a) Telecommunications products or systems which provide a function allowing voice communication and which do not themselves provide a TTY functionality shall provide a standard non-acoustic connection point for TTYs. Microphones shall be capable of being turned on and off to allow the user to intermix speech with TTY use.**
+**(a) Telecommunications products or systems which provide a function allowing voice communication and which do not themselves provide a TTY functionality shall provide a standard non-acoustic connection point for TTYs. Microphones shall be capable of being turned on and off to allow the user to intermix speech with TTY use.**
 
 **What is a TTY?**
 
@@ -52,7 +52,7 @@ On the other extreme, some TTY-phone set-ups keep a microphone on throughout the
 
 **Do TTYs work with digital phones?**
 
-At this time, TTYs do not work reliably with most digital **cellular** phones. The industry is working toward a solution on this matter through an FCC order which set a deadline of June 30, 2002 for wireless providers to be able to transmit 911 calls made from TTYs.
+At this time, TTYs do not work reliably with most digital **cellular** phones. The industry is working toward a solution on this matter through an FCC order which set a deadline of June 30, 2002 for wireless providers to be able to transmit 911 calls made from TTYs.
 
 ![analog and coaxial wall jacks ](./images/jacks.jpg)
 
@@ -60,7 +60,7 @@ With regard to landline phones, most digital phones from offices or hotels will 
 
 * * * * *
 
-**(b) Telecommunications products which include voice communication functionality shall support all commonly used cross-manufacturer non-proprietary standard TTY signal protocols.**
+**(b) Telecommunications products which include voice communication functionality shall support all commonly used cross-manufacturer non-proprietary standard TTY signal protocols.**
 
 **How might telephone systems affect TTY signals?**
 
@@ -90,7 +90,7 @@ This provision is a performance requirement. It does not require phone systems t
 
 * * * * *
 
-**(d) Voice mail, messaging, auto-attendant, and interactive voice response telecommunications systems that require a response from a user within a time interval, shall give an alert when the time interval is about to run out, and shall provide sufficient time for the user to indicate more time is required.**
+**(d) Voice mail, messaging, auto-attendant, and interactive voice response telecommunications systems that require a response from a user within a time interval, shall give an alert when the time interval is about to run out, and shall provide sufficient time for the user to indicate more time is required.**
 
 ![Person on phone receiving audio message "You have 15 seconds to finish your message."](./images/5mincall.jpg)
 
@@ -112,7 +112,7 @@ Receiving this information has been a problem in the past for TTY users who were
 
 * * * * *
 
-**(f) For transmitted voice signals, telecommunications products shall provide a gain adjustable up to a minimum of 20 dB. For incremental volume control, at least one intermediate step of 12 dB of gain shall be provided.**
+**(f) For transmitted voice signals, telecommunications products shall provide a gain adjustable up to a minimum of 20 dB. For incremental volume control, at least one intermediate step of 12 dB of gain shall be provided.**
 
 **How are volume controls affected by this provision?**
 
@@ -120,11 +120,11 @@ If a volume control (usually a calibrated wheel or slide) is provided that allow
 
 **How is this provision related to ANSI standards and ADA Accessibility Guidelines?**
 
-This provision is consistent with the 1998 American National Standards Institute (ANSI) A117.1 document, **"Accessible and Usable Buildings and Facilities." **ANSI is a voluntary standard-setting body which issues accessibility standards that become incorporated into the nation's model building codes. This standard is consistent with the Telecommunications Act Accessibility Guidelines and proposed revisions to the ADA and Architectural Barriers Act Accessibility Revised Guidelines.
+This provision is consistent with the 1998 American National Standards Institute (ANSI) A117.1 document, **"Accessible and Usable Buildings and Facilities." **ANSI is a voluntary standard-setting body which issues accessibility standards that become incorporated into the nation's model building codes. This standard is consistent with the Telecommunications Act Accessibility Guidelines and proposed revisions to the ADA and Architectural Barriers Act Accessibility Revised Guidelines.
 
 * * * * *
 
-**(g) If the telecommunications product allows a user to adjust the receive volume, a function shall be provided to automatically reset the volume to the default level after every use.**
+**(g) If the telecommunications product allows a user to adjust the receive volume, a function shall be provided to automatically reset the volume to the default level after every use.**
 
 **Why is this provision necessary?**
 
@@ -136,7 +136,7 @@ The provision is adopted from the ADA Accessibility Guidelines (ADAAG), where it
 
 * * * * *
 
-**(h) Where a telecommunications product delivers output by an audio transducer which is normally held up to the ear, a means for effective magnetic wireless coupling to hearing technologies shall be provided.**
+**(h) Where a telecommunications product delivers output by an audio transducer which is normally held up to the ear, a means for effective magnetic wireless coupling to hearing technologies shall be provided.**
 
 ![hearing aid compatibility (HAC) phone](./images/handset.jpg)
 
@@ -158,7 +158,7 @@ This standard is consistent with language in the Telecommunications Act Accessib
 
 * * * * *
 
-**(i) Interference to hearing technologies (including hearing aids, cochlear implants, and assistive listening devices) shall be reduced to the lowest possible level that allows a user of hearing technologies to utilize the telecommunications product.**
+**(i) Interference to hearing technologies (including hearing aids, cochlear implants, and assistive listening devices) shall be reduced to the lowest possible level that allows a user of hearing technologies to utilize the telecommunications product.**
 
 **Why is this provision necessary?**
 
@@ -174,7 +174,7 @@ The ANSI/IEEE C63.19 Standard, available from the American National Standards In
 
 * * * * *
 
-**(j) Products that transmit or conduct information or communication, shall pass through cross-manufacturer, non-proprietary, industry-standard codes, translation protocols, formats or other information necessary to provide the information or communication in a usable format. Technologies which use encoding, signal compression, format transformation, or similar techniques shall not remove information needed for access or shall restore it upon delivery.**
+**(j) Products that transmit or conduct information or communication, shall pass through cross-manufacturer, non-proprietary, industry-standard codes, translation protocols, formats or other information necessary to provide the information or communication in a usable format. Technologies which use encoding, signal compression, format transformation, or similar techniques shall not remove information needed for access or shall restore it upon delivery.**
 
 **What types of products does this provision apply to?**
 
@@ -182,7 +182,7 @@ This provision applies to any technologies involved with the transmission of inf
 
 * * * * *
 
-**(k) Products which have mechanically operated controls or keys, shall comply with the following:**
+**(k) Products which have mechanically operated controls or keys, shall comply with the following:**
 
 (1) Controls and keys shall be tactilely discernible without activating the controls or keys.  
 (2) Controls and keys shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate controls and keys shall be 5 lbs. (22.2 N) maximum.  
@@ -195,7 +195,7 @@ This provision only applies to products that have mechanically operated controls
 
 **What is meant by 'tactilely discernible'?**
 
-![close-up of "J" key and surrounding keys of keyboard](./images/keyboard.jpg) 
+![close-up of "J" key and surrounding keys of keyboard](./images/keyboard.jpg) 
 
 Individual keys must be identifiable and distinguishable from adjacent keys by touch. Compliance with this provision can be accomplished by using various shapes, spacing, or tactile markings. The normal desktop computer keyboard, for example, would meet this provision because the tactile marks on the "j" and "f" keys permit a user to locate all other keys tactilely. Many phones also have a raised dot on the number 5 button, enabling them to orient their fingers around the 12 keys. In addition, the physical spacing of the function, "numpad" and cursor keys make them easy to locate by touch.
 

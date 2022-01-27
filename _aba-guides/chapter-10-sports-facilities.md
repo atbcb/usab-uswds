@@ -179,9 +179,9 @@ At least 5 percent, but not less than one, of each type of bowling lane must be 
 
 <p>This table highlights the sections of the ADA and ABA Accessibility Standards discussed in the sports facilities guide.</p>
 
-<span id="asterisk">* The guide uses the term ADAAG (Americans with Disabilities Act
+<span id="asterisk">* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
- The recreational provisions of these guidelines were adopted into the
+ The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
 the Architectural Barriers Act (ABA) Accessibility Standards).

@@ -2,7 +2,7 @@
 
 ### Guidance
 
-The Board has developed information to provide guidance on various aspects of accessible public rights-of-way until its guidelines are completed.  This information includes:
+The Board has developed information to provide guidance on various aspects of accessible public rights-of-way until its guidelines are completed.  This information includes:
 
 -   [Accessible Public Rights-of-Way: Planning and Designing for Alterations](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/accessible-public-rights-of-way-planning-and-design-for-alterations)
 -   [Accessible Sidewalks Video Series](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/accessible-sidewalks-video-series)
@@ -11,13 +11,13 @@ The Board has developed information to provide guidance on various aspects of ac
 
 ### Research
 
-The Board has sponsored research on access to public rights-of-ways: 
+The Board has sponsored research on access to public rights-of-ways: 
 
--   [Common Problems Arising in the Installation of Accessible Pedestrian Signals](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/common-problems-arising-in-aps-installation)    
+-   [Common Problems Arising in the Installation of Accessible Pedestrian Signals](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/common-problems-arising-in-aps-installation)    
 -   [Interfacing Audible Pedestrian Signals and Traffic Signal Controllers](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/interfacing-aps-with-traffic-signal-control-equipment)
 -   [Pedestrian Access to Modern Roundabouts](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/pedestrian-access-to-modern-roundabouts)
 -   [Synthesis of Literature Relevant to Roundabout Signalization to Provide Pedestrian Access](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/synthesis-of-literature-on-roundabout-signalization)
--   [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/visual-detection-of-detectable-warning-materials)   
+-   [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/visual-detection-of-detectable-warning-materials)   
 
 ### Federal Highway Administration Resources
 

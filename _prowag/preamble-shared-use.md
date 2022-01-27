@@ -46,7 +46,7 @@ On July 26, 2011, we issued a NPRM requesting comments on proposed accessibility
 
 ### 3. Proposed Supplements to Proposed Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
-We are issuing this SNPRM to include specific provisions for shared use paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way published in the Federal Register on July 26, 2011. See [76 FR 44664](https://www.access-board.gov/prowac/nprm.htm) (July 26, 2011). The proposed accessibility guidelines for pedestrian facilities in the public right-of-way will be codified as an appendix to 36 CFR part 1190. The SNPRM would supplement the following sections of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way: R105.5 Defined Terms; R204 and R302 Pedestrian Access Routes; R210 Protruding Objects; R218 Doors, Doorways, and Gates; and R304 Curb Ramps and Blended Transitions. The proposed supplements to these sections are set forth below.
+We are issuing this SNPRM to include specific provisions for shared use paths in the proposed accessibility guidelines for pedestrian facilities in the public right-of-way published in the Federal Register on July 26, 2011. See [76 FR 44664](https://www.access-board.gov/prowac/nprm.htm) (July 26, 2011). The proposed accessibility guidelines for pedestrian facilities in the public right-of-way will be codified as an appendix to 36 CFR part 1190. The SNPRM would supplement the following sections of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way: R105.5 Defined Terms; R204 and R302 Pedestrian Access Routes; R210 Protruding Objects; R218 Doors, Doorways, and Gates; and R304 Curb Ramps and Blended Transitions. The proposed supplements to these sections are set forth below.
 
 #### R105.5 Defined Terms.
 
@@ -54,9 +54,9 @@ We are issuing this SNPRM to include specific provisions for shared use paths in
 
 The SNPRM would add a proposed definition of shared use path in R105.5 to read as follows:
 
-> *Shared Use Path.* A multi-use path designed primarily for use by bicyclists and pedestrians, including pedestrians with disabilities, for transportation and recreation purposes. Shared use paths are physically separated from motor vehicle traffic by an open space or barrier, and are either within the highway right-of-way or within an independent right-of-way.
+> *Shared Use Path.* A multi-use path designed primarily for use by bicyclists and pedestrians, including pedestrians with disabilities, for transportation and recreation purposes. Shared use paths are physically separated from motor vehicle traffic by an open space or barrier, and are either within the highway right-of-way or within an independent right-of-way.
 
-The proposed definition is based on the AASHTO Guide, which defines a shared use path as a bikeway physically separated from motor vehicle traffic by an open space or barrier, and either within the highway right-of-way or within an independent right of way. The AASHTO Guide notes that pedestrians, including pedestrians with disabilities, also use shared use paths and that they can serve transportation and recreation purposes. See AASHTO Guide, 5.1 Introduction. The U.S. Department of Transportation, Federal Highway Administration (FHWA) defines a shared use path similar to the AASHTO Guide.[1](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/proposed-supplements#1) State transportation departments also define shared use paths similar to the AASHTO Guide.[2](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/proposed-supplements#2)
+The proposed definition is based on the AASHTO Guide, which defines a shared use path as a bikeway physically separated from motor vehicle traffic by an open space or barrier, and either within the highway right-of-way or within an independent right of way. The AASHTO Guide notes that pedestrians, including pedestrians with disabilities, also use shared use paths and that they can serve transportation and recreation purposes. See AASHTO Guide, 5.1 Introduction. The U.S. Department of Transportation, Federal Highway Administration (FHWA) defines a shared use path similar to the AASHTO Guide.[1](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/proposed-supplements#1) State transportation departments also define shared use paths similar to the AASHTO Guide.[2](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/proposed-supplements#2)
 
 As noted in the AASHTO Guide, the primary factor that distinguishes shared use paths and sidewalks is the intended user. Shared use paths are designed for use by bicyclists and pedestrians, including pedestrians with disabilities. Sidewalks are designed for use by pedestrians, including pedestrians with disabilities, and are not intended for use by bicyclists. See AASHTO Guide, 5.2.2, Shared Use Paths Adjacent to Roadways (Sidepaths).
 
@@ -64,7 +64,7 @@ As noted in the AASHTO Guide, the primary factor that distinguishes shared use p
 
 The SNPRM would revise the proposed definition of public right-of-way in R105.5 to read as follows:
 
-> *Public Right-of-Way.* Public land acquired for or dedicated to transportation purposes, or other land where there is a legally established right for use by the public for transportation purposes.
+> *Public Right-of-Way.* Public land acquired for or dedicated to transportation purposes, or other land where there is a legally established right for use by the public for transportation purposes.
 
 The NPRM proposed to define public right-of-way as public land or property, usually in interconnected corridors, that is acquired for or dedicated to transportation purposes. Some shared use paths may cross private land. In these situations, an easement or other legal means is used to establish a right for the public to use the portion of the land that the shared use path crosses for transportation purposes. The SNPRM would revise the proposed definition of public right-of-way to include these situations.
 
@@ -76,17 +76,17 @@ The SNPRM would revise these sections relating to pedestrian access routes.
 
 The SNPRM would revise R204.2 to read as follows:
 
-> *R204.2 Pedestrian Circulation Paths.* A pedestrian access route shall be provided within pedestrian circulation paths located in the public right-of-way. The pedestrian access route shall connect to accessible elements, spaces, and facilities required by this document and to accessible routes required by section 206.2.1 of appendix B to 36 CFR part 1191 or section F206.2.1 of appendix C to 36 CFR 1191 that connect building and facility entrances to public streets and sidewalks.
+> *R204.2 Pedestrian Circulation Paths.* A pedestrian access route shall be provided within pedestrian circulation paths located in the public right-of-way. The pedestrian access route shall connect to accessible elements, spaces, and facilities required by this document and to accessible routes required by section 206.2.1 of appendix B to 36 CFR part 1191 or section F206.2.1 of appendix C to 36 CFR 1191 that connect building and facility entrances to public streets and sidewalks.
 
-As proposed in the NPRM, R204.2 would require a pedestrian access route to be provided within sidewalks and other pedestrian circulation paths located in the public right-of-way. The NPRM proposed to define a pedestrian circulation path as a prepared exterior or interior surface provided for pedestrian travel in the public right-of-way. See [R105.5](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/proposed-supplements#1055). Sidewalks and shared use paths are types of pedestrian circulation paths. As revised by the SNPRM, the term "pedestrian circulation paths" in R204.2 includes sidewalks and shared use paths.
+As proposed in the NPRM, R204.2 would require a pedestrian access route to be provided within sidewalks and other pedestrian circulation paths located in the public right-of-way. The NPRM proposed to define a pedestrian circulation path as a prepared exterior or interior surface provided for pedestrian travel in the public right-of-way. See [R105.5](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/proposed-supplements#1055). Sidewalks and shared use paths are types of pedestrian circulation paths. As revised by the SNPRM, the term "pedestrian circulation paths" in R204.2 includes sidewalks and shared use paths.
 
 ##### R302.3 Continuous Width
 
 The SNPRM would revise R302.3 to read as follows:
 
-> *R302.3 Continuous Width.* Except as provided in R302.3.1 and R302.3.2, the continuous clear width of pedestrian access routes shall be 1.2 m (4.0 ft) minimum, exclusive of the width of the curb.
+> *R302.3 Continuous Width.* Except as provided in R302.3.1 and R302.3.2, the continuous clear width of pedestrian access routes shall be 1.2 m (4.0 ft) minimum, exclusive of the width of the curb.
 >
-> *R302.3.1 Medians and Pedestrian Refuge Islands.* The clear width of pedestrian access routes within medians and pedestrian refuge islands shall be 1.5 m (5.0 ft) minimum.
+> *R302.3.1 Medians and Pedestrian Refuge Islands.* The clear width of pedestrian access routes within medians and pedestrian refuge islands shall be 1.5 m (5.0 ft) minimum.
 >
 > *R302.3.2 Shared Use Paths*. A pedestrian access route shall be provided for the full width of a shared use path.
 
@@ -98,17 +98,17 @@ The SNPRM would add a new provision at R302.3.2 that would require a pedestrian 
 
 The SNPRM would revise R302.5 to read as follows:
 
-> *R302.5 Grade. *The grade of pedestrian access routes shall comply with R302.5.
+> *R302.5 Grade. *The grade of pedestrian access routes shall comply with R302.5.
 >
 > *R302.5.1 Within Street or Highway Right-of-Way*. Except as provided in R302.5.3, where pedestrian access routes are contained within a street or highway right-of-way, the grade of pedestrian access routes shall not exceed the general grade established for the adjacent street or highway.
 >
-> *R302.5.2 Not Within Street or Highway Right-of-Way.* Where pedestrian access routes are not contained within a street or highway right-of-way, the grade of pedestrian access routes shall be 5 percent maximum.
+> *R302.5.2 Not Within Street or Highway Right-of-Way.* Where pedestrian access routes are not contained within a street or highway right-of-way, the grade of pedestrian access routes shall be 5 percent maximum.
 >
-> *R302.5.3 Within Pedestrian Street Crossings.* Where pedestrian access routes are contained within a pedestrian street crossing, the grade of pedestrian access routes shall be 5 percent maximum.
+> *R302.5.3 Within Pedestrian Street Crossings.* Where pedestrian access routes are contained within a pedestrian street crossing, the grade of pedestrian access routes shall be 5 percent maximum.
 >
-> *R302.5.4 Physical Constraints.* Where compliance with R302.5.1 or R302.5.2 is not practicable due to existing terrain or infrastructure, right-of-way availability, a notable natural feature, or similar existing physical constraints, compliance is required to the extent practicable.
+> *R302.5.4 Physical Constraints.* Where compliance with R302.5.1 or R302.5.2 is not practicable due to existing terrain or infrastructure, right-of-way availability, a notable natural feature, or similar existing physical constraints, compliance is required to the extent practicable.
 >
-> *R302.5.5 Regulatory Constraints.* Where compliance with R302.5.1 or R302.5.2 is precluded by federal, state, or local laws the purpose of which is to preserve threatened or endangered species; the environment; or archaeological, cultural, historical, or significant natural features, compliance is required to the extent practicable.
+> *R302.5.5 Regulatory Constraints.* Where compliance with R302.5.1 or R302.5.2 is precluded by federal, state, or local laws the purpose of which is to preserve threatened or endangered species; the environment; or archaeological, cultural, historical, or significant natural features, compliance is required to the extent practicable.
 
 As proposed in the NPRM, R302.5 would require the grade of pedestrian access routes contained within a street or highway right-of-way, except at pedestrian street crossings, to not exceed the general grade established for the adjacent street or highway; and the grade of pedestrian access routes not contained within a street or highway right-of-way to be 5 percent maximum. R302.5.1 would require the grade of pedestrian access routes contained within a pedestrian street crossing to be 5 percent maximum.
 
@@ -122,11 +122,11 @@ The proposed provisions are consistent with the AASHTO Guide. The AASHTO Guide r
 
 The SNPRM would revise R210 to read as follows:
 
-> *R210.1 General.* Protruding objects shall comply with the applicable requirements in R210.
+> *R210.1 General.* Protruding objects shall comply with the applicable requirements in R210.
 >
-> *R210.2 Pedestrian Circulation Paths Other Than Shared Use Paths.* Objects along or overhanging any portion of a pedestrian circulation path other than a shared use path shall comply with R402 and shall not reduce the clear width required for pedestrian access routes.
+> *R210.2 Pedestrian Circulation Paths Other Than Shared Use Paths.* Objects along or overhanging any portion of a pedestrian circulation path other than a shared use path shall comply with R402 and shall not reduce the clear width required for pedestrian access routes.
 >
-> *R210.3 Shared Use Paths.* Objects shall not overhang or protrude into any portion of a shared use path at or below 2.4 m (8.0 ft) measured from the finish surface.
+> *R210.3 Shared Use Paths.* Objects shall not overhang or protrude into any portion of a shared use path at or below 2.4 m (8.0 ft) measured from the finish surface.
 
 As proposed in the NPRM, R210 would require objects along or overhanging any portion of a pedestrian circulation path to comply with the proposed technical provisions for protruding objects in R402 and to not reduce the clear width required for pedestrian access routes.
 
@@ -140,7 +140,7 @@ The proposed provision for shared used paths is consistent with the AASHTO Guide
 
 The SNPRM would revise R218 to read as follows:
 
-> *R218 Doors, Doorways, and Gates.* Except for shared use paths, doors, doorways, and gates provided at pedestrian facilities shall comply with section 404 of Appendix D to 36 CFR to 36 CFR part 1191.
+> *R218 Doors, Doorways, and Gates.* Except for shared use paths, doors, doorways, and gates provided at pedestrian facilities shall comply with section 404 of Appendix D to 36 CFR to 36 CFR part 1191.
 
 The SNPRM would not apply the technical provisions for doors, doorways, and gates referenced in R218 to shared use paths to avoid conflicts with the AASHTO Guide. The AASHTO Guide does not recommend the use of gates or other barriers to prevent unauthorized motor vehicle entry to shared use paths because gates and barriers create permanent obstacles to path users. The AASHTO Guide recommends alternative methods to control unauthorized motor vehicle entry to shared use paths, including posting regulatory signs prohibiting motor vehicle entry and targeted surveillance and enforcement. Where there is a documented history of unauthorized entry by motor vehicles despite the use of alternative methods to control such entry, the need for bollards or other vertical barriers may be justified. The AASHTO Guide includes recommended designs for bollards where justified. The AASHTO Guide recommends the use of one bollard in the center of the shared use path. Where more than one bollard is used, the AASHTO Guide recommends an odd number of posts spaced at 6 feet. The AASHTO Guide does not recommend two posts since they direct opposing path users toward the middle, creating conflict and the possibility of a head-on collision. See AASHTO Guide, 5.3.5 Other Intersection Treatments.
 
@@ -148,11 +148,11 @@ The SNPRM would not apply the technical provisions for doors, doorways, and gate
 
 The SNPRM would revise R304.5.1 to read as follows:
 
-> *R304.5.1 Width.* The width of curb ramps and blended transitions shall comply with 304.5.1.1 or 304.5.1.2, as applicable. If provided, flared sides of curb ramp runs and blended transitions shall be located outside the width of the curb ramp run or blended transition.
+> *R304.5.1 Width.* The width of curb ramps and blended transitions shall comply with 304.5.1.1 or 304.5.1.2, as applicable. If provided, flared sides of curb ramp runs and blended transitions shall be located outside the width of the curb ramp run or blended transition.
 >
-> *R304.5.1.1 Pedestrian Circulation Paths Other Than Shared Use Paths.* In pedestrian circulation paths other than shared use paths, the clear width of curb ramp runs, blended transitions, and turning spaces shall be 1.2 m (4.0 ft) minimum.
+> *R304.5.1.1 Pedestrian Circulation Paths Other Than Shared Use Paths.* In pedestrian circulation paths other than shared use paths, the clear width of curb ramp runs, blended transitions, and turning spaces shall be 1.2 m (4.0 ft) minimum.
 >
-> *R304.5.1.2 Shared Use Paths.* In shared use paths, the width of curb ramps runs and blended transitions shall be equal to the width of the shared use path.
+> *R304.5.1.2 Shared Use Paths.* In shared use paths, the width of curb ramps runs and blended transitions shall be equal to the width of the shared use path.
 
 As proposed in the NPRM, R304.5.1 would require the clear width of curb ramp runs (excluding flared sides), blended transitions, and turning spaces to be 4 feet minimum.
 
@@ -257,7 +257,7 @@ The AASHTO Guide makes a number of recommendations to minimize conflicts between
 
 We agree with the comments that physical separation between pedestrians and other users would likely render shared use paths safer for, and more accessible to, individuals with disabilities and others. However, the AASHTO Guide does not recommend physical separation of user groups unless the traffic volume or other considerations make separate pathways necessary. The AASHTO Guide provides little guidance regarding methods for determining the point at which traffic volume or other considerations would justify separation of the pathways. In the absence of any data on which to base such a requirement, we are not proposing to require physically separated pathways for pedestrians and bicyclists. The impact of such a requirement if applied to the full length of all shared use paths would likely result in many not being constructed due to the increased costs associated with more land and the need to engineer and construct two pathways instead of one.
 
-The comments suggested that enhanced signage and warnings, including audible signs and tactile pavement markings would improve the ability of blind pedestrians to remain within their lanes. In Great Britain, tactile pavement markings are used to indicate bicycle and pedestrian lanes. A ladder pattern is used to indicate the start and end of the pedestrian lane; a tramline pattern is used to indicate the start and end of the bicycle lane; and a tactile dividing line is used to indicate the separation between the lanes.[3](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/conflicts-between-shared-path-users#3) At least one U.S. manufacturer makes tactile pavement markings for shared use paths. We request comments on whether tactile pavement markings have been used on any shared use paths in the U.S. and the experience with such markings. We also request comments on other design solutions to reduce potential conflicts between pedestrians who are blind or have low vision and bicyclists. Comments should include factors that would make such solutions necessary.
+The comments suggested that enhanced signage and warnings, including audible signs and tactile pavement markings would improve the ability of blind pedestrians to remain within their lanes. In Great Britain, tactile pavement markings are used to indicate bicycle and pedestrian lanes. A ladder pattern is used to indicate the start and end of the pedestrian lane; a tramline pattern is used to indicate the start and end of the bicycle lane; and a tactile dividing line is used to indicate the separation between the lanes.[3](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/conflicts-between-shared-path-users#3) At least one U.S. manufacturer makes tactile pavement markings for shared use paths. We request comments on whether tactile pavement markings have been used on any shared use paths in the U.S. and the experience with such markings. We also request comments on other design solutions to reduce potential conflicts between pedestrians who are blind or have low vision and bicyclists. Comments should include factors that would make such solutions necessary.
 
 We are considering including an advisory section in the final accessibility guidelines on separate pathways for pedestrians and bicyclists. Advisory sections are not mandatory requirements but provide guidance for entities who want to exceed the minimum requirements for accessible design. We request comments on information to include in the advisory section.
 
@@ -275,7 +275,7 @@ Because pedestrians who are blind would not be aware of bicyclists approaching f
 
 We prepared a preliminary regulatory assessment discussing the cost and benefits of the proposed accessibility guidelines for pedestrian facilities in the public right-of-way and an initial regulatory flexibility analysis of the impacts on small governmental jurisdictions with a population of less than 50,000 when the NPRM was issued. These regulatory analyses are available on our website at: http://www.access-board.gov/prowac/.
 
-There is no database available on the number of shared use paths in the United States. AASHTO surveyed five state transportation departments when preparing comments on the ANPRM. The responding departments reported approximately 1,500 to 3,000 miles of existing shared use paths in their states. The Alliance for Biking and Walking surveyed more than 50 large cities about their bicycle and pedestrian facilities.[4](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/regulatory-analyses#4) The average number of miles of existing shared use paths per city was 70 miles, and ranged from 3.1 miles in Milwaukee to 328 miles in New York City. The cities used federal funds to construct many of the shared use paths.
+There is no database available on the number of shared use paths in the United States. AASHTO surveyed five state transportation departments when preparing comments on the ANPRM. The responding departments reported approximately 1,500 to 3,000 miles of existing shared use paths in their states. The Alliance for Biking and Walking surveyed more than 50 large cities about their bicycle and pedestrian facilities.[4](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice/regulatory-analyses#4) The average number of miles of existing shared use paths per city was 70 miles, and ranged from 3.1 miles in Milwaukee to 328 miles in New York City. The cities used federal funds to construct many of the shared use paths.
 
 As discussed above, the proposed technical provisions applicable to shared use paths are consistent with the AASHTO Guide. State and local government entities that design and construct shared use paths generally use the AASHTO Guide. The SNPRM is not expected to increase the costs of constructing shared use paths for state and local government entities that use the AASHTO Guide.
 
@@ -294,13 +294,13 @@ Susan Brita,\
 Chair.
 
 **NOTES**\
-1 The FHWA defines a shared use path as a multi-use trail or path physically separated from motorized vehicular traffic by an open space or barrier, either within the highway right-of-way or within an independent right of way, and usable for transportation purposes. The FHWA definition of shared use path is available at: <http://www.fhwa.dot.gov/environment/bicycle_pedestrian/guidance/design_guidance/freeways.cfm>.
+1 The FHWA defines a shared use path as a multi-use trail or path physically separated from motorized vehicular traffic by an open space or barrier, either within the highway right-of-way or within an independent right of way, and usable for transportation purposes. The FHWA definition of shared use path is available at: <http://www.fhwa.dot.gov/environment/bicycle_pedestrian/guidance/design_guidance/freeways.cfm>.
 
-2 For example, the Washington State Department of Transportation Design Manual (July 2012) defines a shared use path as a facility physically separated from motorized vehicular traffic within the highway right-of-way or on an exclusive right-of-way with minimal cross flow by motor vehicles. The Washington State Department of Transportation Design Manual is available at: <http://www.wsdot.wa.gov/Publications/Manuals/M22-01.htm>.
+2 For example, the Washington State Department of Transportation Design Manual (July 2012) defines a shared use path as a facility physically separated from motorized vehicular traffic within the highway right-of-way or on an exclusive right-of-way with minimal cross flow by motor vehicles. The Washington State Department of Transportation Design Manual is available at: <http://www.wsdot.wa.gov/Publications/Manuals/M22-01.htm>.
 
-3 Department of Transport, "Tactile Markings for Segregated Shared Use by Cyclists and Pedestrians" [available at: <http://www.ukroads.org/webfiles/TAL%204-90%20Tactile%20Markings%20for%20Segregated%20Shared%20Use.pdf>]; Department for Transport, "Guidance on the Use of Tactile Paving Surfaces, "Chapter 5 - Segregated Shared Cycle Track/Footway Surface and Central Delineator Strip [available at: <http://www.dft.gov.uk/publications/guidance-on-the-use-of-tactile-paving-surfaces/>]; and Department of Transport," Shared Use Routes for Pedestrians and Cyclists," Chapter 6 - General Design Considerations, 6.18 and 6.19 [available at: <http://assets.dft.gov.uk/publications/ltn-01-12/shared-use-routes-for-pedestrians-and-cyclists.pdf>].
+3 Department of Transport, "Tactile Markings for Segregated Shared Use by Cyclists and Pedestrians" [available at: <http://www.ukroads.org/webfiles/TAL%204-90%20Tactile%20Markings%20for%20Segregated%20Shared%20Use.pdf>]; Department for Transport, "Guidance on the Use of Tactile Paving Surfaces, "Chapter 5 - Segregated Shared Cycle Track/Footway Surface and Central Delineator Strip [available at: <http://www.dft.gov.uk/publications/guidance-on-the-use-of-tactile-paving-surfaces/>]; and Department of Transport," Shared Use Routes for Pedestrians and Cyclists," Chapter 6 - General Design Considerations, 6.18 and 6.19 [available at: <http://assets.dft.gov.uk/publications/ltn-01-12/shared-use-routes-for-pedestrians-and-cyclists.pdf>].
 
-4 Alliance for Biking and Walking, "Bicycling and Walking in the United States 2012 Benchmarking Report." The report is available at: <http://www.peoplepoweredmovement.org/site/>.
+4 Alliance for Biking and Walking, "Bicycling and Walking in the United States 2012 Benchmarking Report." The report is available at: <http://www.peoplepoweredmovement.org/site/>.
 
 
 ---
@@ -316,7 +316,7 @@ Sec.
 1190.1 Accessibility guidelines.
 Appendix to part 1190 -- Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
-**Authority:** 29 U.S.C. 792 and 42 U.S.C. 12204.
+**Authority:** 29 U.S.C. 792 and 42 U.S.C. 12204.
 
 **§ 1190.1 Accessibility Guidelines.**
 

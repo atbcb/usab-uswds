@@ -4,13 +4,13 @@ order-number: 15
 file: /files/aba/guides/stairs-ABA.pdf
 file-description: PDF version of Chapter 5 Stairways Guide
 ---
-This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for stairways. 
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for stairways. 
 
 ### Required Compliance
 
 [[§F210]({{ site.baseurl }}/aba/#aba-f210)]
 
-Interior and exterior stairs that are part of a required means of egress must meet the Standards.  Compliance is required for all stairs on required egress routes, including those comprised of a single riser.  The Standards do not apply to stairways that are not part of a required means of egress nor to alternating tread devices and “ship’s ladders.”  The Standards exempt aisle stairs in assembly areas, stairs in non-public areas of detention and correctional facilities, and stairs of play components.
+Interior and exterior stairs that are part of a required means of egress must meet the Standards.  Compliance is required for all stairs on required egress routes, including those comprised of a single riser.  The Standards do not apply to stairways that are not part of a required means of egress nor to alternating tread devices and “ship’s ladders.”  The Standards exempt aisle stairs in assembly areas, stairs in non-public areas of detention and correctional facilities, and stairs of play components.
 
 ![Building schematic showing monumental stairs between two floors and stair towers on each end connecting all 3 floors.  Notes:  Stairs that are part of a required means of egress must comply.  Compliance is not required for monumental stairs and other stairs if they are not part of a required means of egress.  Second figure shows exit door to exterior landing with stairs. Note:  Stairs that are part of exit discharge or other components of a means of egress must comply.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5s2.jpg){: .img-large}
 
@@ -36,7 +36,7 @@ text= "Providing visual contrast (light-on-dark or dark-on-light) on the top and
 
 [[§504.6]({{ site.baseurl }}/aba/#aba-504_6), [§505]({{ site.baseurl }}/aba/#aba-505)]
 
-Handrails are required on both sides of stairs and must be continuous within the full length of each stair flight.  Inside handrails on switchback or dogleg stairs must be continuous.
+Handrails are required on both sides of stairs and must be continuous within the full length of each stair flight.  Inside handrails on switchback or dogleg stairs must be continuous.
 
 #### Stairway Handrails
 
@@ -67,14 +67,14 @@ distance at least equal to one tread depth. Note: Handrails at the bottom must e
     </div>
   </div>
 </div>
- 
+ 
 ![Top horizontal handrail extension with P-shaped return to post; bottom edge of return is 27” high max. Notes:  treatment as protruding object not required.  Objects mounted on posts with leading edges higher than 27” cannot protrude into circulation paths more than 12” (§307.3).  With handrails, this applies only to horizontal portions, not sloped portions.  Horizontal top extensions that return to posts can protrude any amount if the leading edge is 27” max. above the finish floor or ground.  Recommendation:  Treat free-standing bottom extensions as protruding objects if they have leading edges higher than 27”.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5s8a.jpg){: .img-large}
 
 ### Handrail Clearance and Cross Section
 
 [[§505.5]({{ site.baseurl }}/aba/#aba-505_5), [§505.7]({{ site.baseurl }}/aba/#aba-505_7)]
 
-Surface requirements and clearances facilitate a power grip along the length of handrails.  Handrails can have circular or non-circular cross-sections, but must have rounded edges.  The gripping surface and adjacent surfaces must be free of abrasive or sharp elements.  Wall-mounted handrails with leading edges higher than 27” cannot protrude more than 4½” into circulation paths (§307.2).
+Surface requirements and clearances facilitate a power grip along the length of handrails.  Handrails can have circular or non-circular cross-sections, but must have rounded edges.  The gripping surface and adjacent surfaces must be free of abrasive or sharp elements.  Wall-mounted handrails with leading edges higher than 27” cannot protrude more than 4½” into circulation paths (§307.2).
 
 #### Circular Cross Section and Clearance
 
@@ -85,14 +85,14 @@ Surface requirements and clearances facilitate a power grip along the length of 
 ![Handrail non-circular cross section (square with rounded corners) with 2 ¼” max. dimension, rounded edges, 4” to 6 ¼” perimeter dimension, 1 ½” clearance behind, and clearance below that is 1 ½” (less 1/8” for each ½” additional perimeter dimension.  Note:  Non-circular cross sections must have rounded edges and meet perimeter and cross-section dimensions.  Other profiles meeting these criteria are permitted.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4ar30.jpg){: .img-large}
 
 {% include recommendation.html
-text= "Projecting objects above handrails can impact their usability.  Keep wall surfaces above handrails free of any protrusions."
+text= "Projecting objects above handrails can impact their usability.  Keep wall surfaces above handrails free of any protrusions."
 %}
   
 #### Escalators
 
 ![Escalator symbol]({{ site.baseurl }}{{ page.image-directory }}chapter5/5s9.jpg){: .float-right .thumbnail}
 
-The ABA Standards address escalators in rail and fixed guideway stations (§810.9) but not those provided in other types of facilities.  Escalators must have a clear width of at least 32” and meet specific provisions in the ASME A17.1 Safety Code for Elevators and Escalators.  The referenced ASME criteria require steps to be demarcated by yellow lines 2” wide maximum along the back and sides (§6.1.3.5.6) and specify at least 2, but no more than 4, flat steps at escalator entrances and exits (§6.1.3.6.5).
+The ABA Standards address escalators in rail and fixed guideway stations (§810.9) but not those provided in other types of facilities.  Escalators must have a clear width of at least 32” and meet specific provisions in the ASME A17.1 Safety Code for Elevators and Escalators.  The referenced ASME criteria require steps to be demarcated by yellow lines 2” wide maximum along the back and sides (§6.1.3.5.6) and specify at least 2, but no more than 4, flat steps at escalator entrances and exits (§6.1.3.6.5).
 
 {% include recommendation.html
 text= "Apply the requirements for escalators in rail and fixed guideway stations to escalators provided in other types of facilities."
@@ -100,7 +100,7 @@ text= "Apply the requirements for escalators in rail and fixed guideway stations
 
 ### Common Questions
 
-![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail} 
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail} 
 
 #### Are stairs that are not part of means of egress required to comply with the Standards?
 

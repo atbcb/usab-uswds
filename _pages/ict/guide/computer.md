@@ -11,7 +11,7 @@ Updated: August 1, 2001
 
 **Desktop and portable computers (1194.26)**
 
-(a) All mechanically operated controls and keys shall comply with §1194.23 (k) (1) through (4).
+(a) All mechanically operated controls and keys shall comply with §1194.23 (k) (1) through (4).
 
 (1) Controls and keys shall be tactilely discernible without activating the controls or keys.
 
@@ -24,7 +24,7 @@ Updated: August 1, 2001
 ***What products are covered under this provision?***\
 These provisions cover the keyboards, keypads, and other controls on desktop and laptop computers that need to be activated during the normal operation of the system. Examples of controls that are not located on a keyboard but are still covered include but are not limited to, on/off switches, reset buttons, unlocking controls for docking stations, and releases on items such as PCMCIA card slots and drives.
 
-***What is meant by "tactilely discernible"?*** Individual keys must be identifiable and distinguishable from adjacent keys by touch. A product can meet this provision by using various shapes, spacing, or tactile markings. The typical desktop computer keyboard, for example, would meet this provision because the tactile marks on the "j" and "f" keys permit a user to locate all other keys tactilely. In addition, the physical spacing of the function, "numpad" and cursor keys make them easy to locate by touch.
+***What is meant by "tactilely discernible"?*** Individual keys must be identifiable and distinguishable from adjacent keys by touch. A product can meet this provision by using various shapes, spacing, or tactile markings. The typical desktop computer keyboard, for example, would meet this provision because the tactile marks on the "j" and "f" keys permit a user to locate all other keys tactilely. In addition, the physical spacing of the function, "numpad" and cursor keys make them easy to locate by touch.
 
 ![close-up of 'J' key and surrounding keys of keyboard](./images/keyboard.jpg)
 
@@ -51,7 +51,7 @@ Individuals with high spinal cord injuries, arthritis, and other conditions may 
 
 * * * * *
 
-*(b) If a product utilizes touchscreens or touch-operated controls, an input method shall be provided that complies with §1194.23 (k) (1) through (4).*
+*(b) If a product utilizes touchscreens or touch-operated controls, an input method shall be provided that complies with §1194.23 (k) (1) through (4).*
 
 ***What products are covered under this provision?***\
 ![woman using a touchscreen](./images/touchscreen.jpg)
@@ -60,7 +60,7 @@ This provision covers both desktop and portable computers that use touchscreens 
 
 * * * * *
 
-*(c) When biometric forms of user identification or control are used, an alternative form of identification or activation, which does not require the user to possess particular biological characteristics, shall also be provided.*
+*(c) When biometric forms of user identification or control are used, an alternative form of identification or activation, which does not require the user to possess particular biological characteristics, shall also be provided.*
 
 ![fingerprint recognizer](./images/fingerprint.jpg)
 
@@ -69,7 +69,7 @@ Biometric controls refer to controls that are activated only if a particular bio
 
 * * * * *
 
-*(d) Where provided, at least one of each type of expansion slots, ports and connectors shall comply with publicly available industry standards.*
+*(d) Where provided, at least one of each type of expansion slots, ports and connectors shall comply with publicly available industry standards.*
 ![standard PCMCIA slot and PC card](./images/pccard.jpg)
 
 ***What does this provision require?***\

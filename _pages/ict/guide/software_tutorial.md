@@ -9,7 +9,7 @@ permalink: /ict/guide/software_tutorial.html
 
 **Creating An Accessible Program, SFCalculator**
 
-This tutorial illustrates the application of the Section 508, 36 CFR 1194.21, requirements for Software Applications and Operating Systems, Technical Provisions (a)-(l). A program for a six-function calculator is developed, named *SFCalculator*. The accessibility requirements of 1194.21 are illustrated during the development of *SFCalculator***.**
+This tutorial illustrates the application of the Section 508, 36 CFR 1194.21, requirements for Software Applications and Operating Systems, Technical Provisions (a)-(l). A program for a six-function calculator is developed, named *SFCalculator*. The accessibility requirements of 1194.21 are illustrated during the development of *SFCalculator***.**
 
 SFCalculator is created using Visual Basic 6 Professional (VB6Pro), a very popular language and development tool. VB6Pro was selected because it is so widely used, and because, while it is a powerful tool, it is relatively easy to understand and use.
 
@@ -203,7 +203,7 @@ Now, enter the following code, recompile, and then run SFCalculator.
 
 **Code for SFCalculator**
 
-The following is the program code and some comments for the Six-Function Calculator, *SFCalculator*.
+The following is the program code and some comments for the Six-Function Calculator, *SFCalculator*.
 
 > 'Declare global variables.\
 > Dim varNumber1, varNumber2, varResult As Variant\
@@ -360,9 +360,9 @@ The following is the program code and some comments for the Six-Function Calcula
 > varResult = 0\
 > End Sub
 
-Check for entry errors, recompile and run *SFCalculator*.
+Check for entry errors, recompile and run *SFCalculator*.
 
-The *SFCalculator* program is now ready to use as an example of how to implement the software accessibility guidelines.
+The *SFCalculator* program is now ready to use as an example of how to implement the software accessibility guidelines.
 
 * * * * *
 
@@ -405,7 +405,7 @@ When developing software to run on PCs, at least one alternative keyboard method
 
 However, using the keyboard to execute commands without knowing what those commands are would be pointless; hence, the importance of (d). Therefore the discussion of provision (d) is included in the context of (a) in this section.
 
-In exploring *SFCalculator*, three alternative keyboard methods of executing the various functions will be demonstrated, as well as two methods of obtaining the results. To be sure, none of the keyboard methods preclude using the mouse to operate *SFCalculator*.
+In exploring *SFCalculator*, three alternative keyboard methods of executing the various functions will be demonstrated, as well as two methods of obtaining the results. To be sure, none of the keyboard methods preclude using the mouse to operate *SFCalculator*.
 
 While exploring the remainder of this keyboard example, only the keyboard and not the mouse should be used. In addition, if available, using a screen reader will increase the benefit of the example.
 
@@ -413,19 +413,19 @@ While exploring the remainder of this keyboard example, only the keyboard and no
 
 One keyboard method used is tabbing. Tab around from Entry 1 until the highlight returns to Entry 1. Along the way, reverse direction by pressing 'Shift-Tab,' and then resume the forward direction to Entry 1. (Note that the Enter key must be pressed to execute the selected function.)
 
-For purposes of this discussion, there are two points to note. First, there is a definitive keyboard means of accessing and executing the program functions, at least those on the form, and also accessing the results. Second, as when moving from control to control, if a screen reader was used, the screen reader identified each control with a unique text label, and the result of any function executed was available via text. As mentioned above, the first and second conditions are related; keyboard access to *SFCalculator* functions wouldn't make sense without knowing what those functions were. Meeting these two conditions complies with requirements (a) and (d).
+For purposes of this discussion, there are two points to note. First, there is a definitive keyboard means of accessing and executing the program functions, at least those on the form, and also accessing the results. Second, as when moving from control to control, if a screen reader was used, the screen reader identified each control with a unique text label, and the result of any function executed was available via text. As mentioned above, the first and second conditions are related; keyboard access to *SFCalculator* functions wouldn't make sense without knowing what those functions were. Meeting these two conditions complies with requirements (a) and (d).
 
-So, what in the development of *SFCalculator* enabled these accessibility features? First, the Common Control Components, that VB provided, were used. A benefit of these programming components is that important information about them is available to the OS via the Windows Application Program Interface (Win32API), and, in turn, that information is available to assistive technology (e.g., screen readers or speech-recognitions systems). In other words, accessibility features, or the potential for them, are intrinsic to these components. (If certain properties of controls are not set or defaulted to particular values, then some accessibility features are not effective.) Second, in order to use the keyboard method of tabbing, the TabStop property must be set to True, thereby informing the OS and, in turn, the assistive technology, that the given control can be tabbed to. The _Click event informs the OS that the given control can be activated via clicking the mouse or pressing the Enter key. Third, each control that was tabbed to is uniquely identified because it was given a unique text value to its Caption property. The Command Buttons and the Menu Options had associated Labels to the three Text Boxes and set unique text values to their Caption properties.
+So, what in the development of *SFCalculator* enabled these accessibility features? First, the Common Control Components, that VB provided, were used. A benefit of these programming components is that important information about them is available to the OS via the Windows Application Program Interface (Win32API), and, in turn, that information is available to assistive technology (e.g., screen readers or speech-recognitions systems). In other words, accessibility features, or the potential for them, are intrinsic to these components. (If certain properties of controls are not set or defaulted to particular values, then some accessibility features are not effective.) Second, in order to use the keyboard method of tabbing, the TabStop property must be set to True, thereby informing the OS and, in turn, the assistive technology, that the given control can be tabbed to. The _Click event informs the OS that the given control can be activated via clicking the mouse or pressing the Enter key. Third, each control that was tabbed to is uniquely identified because it was given a unique text value to its Caption property. The Command Buttons and the Menu Options had associated Labels to the three Text Boxes and set unique text values to their Caption properties.
 
 To illustrate the power of TabStop and a violation of (a), set TabStop to False for txtEntry1. (There wouldn't be a violation if there were at least one enabled keyboard method of accessing and using Entry 1.) Recompile and run SFCalculator. Now notice that Entry 1 or txtEntry1 cannot be tabbed to. (For that matter, it cannot be accessed via its AccessKey, 'ALT-1.' See the second keyboard method below. However, the Access Keys for the Command Buttons do work even when TabStop is disabled.) One can, however, access Entry 1 via clicking the mouse over the edit area.
 
-Now, set TabStop to False for the remaining Text Boxes and Command Buttons. Recompile and run SFCalculator. Navigation by tabbing is now disabled. Since keyboard access and use of any of the three Text Boxes is not possible, *SFCalculator* violates Technical Provision (a) and thus Section 508. Before continuing, be sure to return TabStop to True for every control.
+Now, set TabStop to False for the remaining Text Boxes and Command Buttons. Recompile and run SFCalculator. Navigation by tabbing is now disabled. Since keyboard access and use of any of the three Text Boxes is not possible, *SFCalculator* violates Technical Provision (a) and thus Section 508. Before continuing, be sure to return TabStop to True for every control.
 
 Temporarily remove the text from Caption for cmdAdd, lblEntry1, lbl, Entry2, and lblResult. By doing so, Technical Provisions (d) and (a) are violated. Tabbing is possible from Text Box to Text Box to the Add Command button and it is even possible to execute the Add function by pressing Enter. The lack of text identifiers for these controls renders keyboard access to and use of these elements difficult and incomplete. Without trial and error, the proper functions of the unidentified Text Boxes and the Command Button are not known. Before continuing, reenter the text values for cmdAdd, lblEntry1, lblEntry2, and lblResult.
 
 #### AccessKeys
 
-A second keyboard method uses Access Keys. Navigate the entire form with Access Keys, instead of tabbing. Press the following keystrokes with a few seconds break between each execution (ALT-x may be omitted to avoid exiting *SFCalculator*):
+A second keyboard method uses Access Keys. Navigate the entire form with Access Keys, instead of tabbing. Press the following keystrokes with a few seconds break between each execution (ALT-x may be omitted to avoid exiting *SFCalculator*):
 
 > | **KEYSTROKES** | **ACCESS WHAT PROGRAM COMMAND OR FUNCTION** |
 > | ALT-2 | Entry 2 input field/Text Box |
@@ -444,7 +444,7 @@ Thus, a second keyboard alternative to a mouse exists!
 
 For purposes of this discussion, there are two points to note. First, there is a second definitive and quick keyboard means of accessing and executing any of the program functions and accessing the results. Second, each program function was accessed or executed. For those running a screen reader, the screen reader identified each control with a unique text label, and the result of any function executed was available via text. Meeting these conditions complies with requirements (a) and (d) as well.
 
-So, what in development of *SFCalculator* enabled these accessibility features? In addition to using Common Control Components and assigning unique text identifiers to each control (as described above), the Access Keys were created by including in each Caption '&' immediately prior to the designated Access Key. For instance, the Caption for cmdAdd reads '&Add,' thus designating 'ALT-A' as the Access Key to the Add Command Button.
+So, what in development of *SFCalculator* enabled these accessibility features? In addition to using Common Control Components and assigning unique text identifiers to each control (as described above), the Access Keys were created by including in each Caption '&' immediately prior to the designated Access Key. For instance, the Caption for cmdAdd reads '&Add,' thus designating 'ALT-A' as the Access Key to the Add Command Button.
 
 Remove the '&' from Caption for all eight Command Buttons and recompile. Run SFCalculator. The Access Keys for the Command Buttons do not work. It is possible, however, to tab to each command and press Enter to activate a given function. If tabbing and no other keyboard method were available, disabling the Access Keys would definitely violate (a) and Section 508. Before continuing, reinsert the '&' for each Caption of the Command Buttons.
 
@@ -460,7 +460,7 @@ Another navigation method is through the use of Hotkeys. From Function, press 'r
 
 There are two points to note here. First, there is a third method of keyboard use for accessing and executing program functions and results. Second, arrowing from Menu Option to Menu Option, while running a screen reader, verbally identifies each control with a unique text label, and the result of any function executed was available via text. Not surprisingly, meeting these conditions complies with requirements 1194.21(a) and (d).
 
-What in the development of *SFCalculator* enabled these accessibility features? Besides the steps described above, the Menu Editor was used to create mnuFunctions, the Functions Pull Down Menu, and its Menu Options (e.g., mnuAdd). The Caption property of mnuFunctions and mnuAdd et al. was given unique text values, including using '&' in the Caption property to designate a unique mnemonic for quick activation of the given Menu Option.
+What in the development of *SFCalculator* enabled these accessibility features? Besides the steps described above, the Menu Editor was used to create mnuFunctions, the Functions Pull Down Menu, and its Menu Options (e.g., mnuAdd). The Caption property of mnuFunctions and mnuAdd et al. was given unique text values, including using '&' in the Caption property to designate a unique mnemonic for quick activation of the given Menu Option.
 
 Were the '&' removed from Caption for each Menu Option, the Functions could still be used, moving up or down and pressing Enter on the selected Menu Option. However, ability to press 'c' to activate the Clear command or 's' to execute the Subtract function, would be disabled.
 
@@ -470,20 +470,20 @@ So, which keyboard method is preferred? In general, providing all three methods 
 
 #### Image Identification
 
-Keyboard access to and text identification of application functions and their results are not the only requirements of Section 508 and not the only accessibility features present in *SFCalculator*. Before turning to an exploration and discussion of some more requirements, notice the second part of Technical Provision (d), namely,
+Keyboard access to and text identification of application functions and their results are not the only requirements of Section 508 and not the only accessibility features present in *SFCalculator*. Before turning to an exploration and discussion of some more requirements, notice the second part of Technical Provision (d), namely,
 
 > *When an image represents a program element, the information conveyed by the image must also be available in text.*
 
-To make the second requirement in (d) applicable to *SFCalculator*, modify two properties of cmdClear:
+To make the second requirement in (d) applicable to *SFCalculator*, modify two properties of cmdClear:
 
 > Picture = PathName\PictureName\
 > Style = 1-Graphic
 
 PathName is a placeholder for the name of the drive and path where PictureName is located, and PictureName is a placeholder for the name of the imaged file being used. If Style is left to its default, then the image will not become visible during runtime. For this image, use a .gif named 'Clear.gif' -- presumably, some bitmap/drawing of 'Clear.' (A .bmp image may just as well be used.)
 
-Recompile and run *SFCalculator*. The identity of the Clear Command Button is visually evident and available to users of assistive technology. Actually, cmdClear's identity is visually evident for two reasons (or, it should be): The Clear GIF graphically identifies cmdClear, and the value of Caption identifies cmdClear with text. If a screen reader is used, tabbing to cmdClear will read the text, it shouldn't sound any differently than it did before loading the image. The Caption value of 'Clear' not only identifies cmdClear with text, but it also identifies the image with text that is available to assistive technology. If the text is removed from Caption, then the Clear Command Button would still be visually identified by the Clear image from the Picture property, but it wouldn't be identified textually nor via many assistive technologies. Tabbing to cmdClear, again, using a screen reader, the best result would be the identification of 'button.' So, by assigning appropriate text to the Caption property of controls with (or without) images set to Picture and 1-Graphic set to Style, a means of complying with both parts of Technical Provision (d) has been provided.
+Recompile and run *SFCalculator*. The identity of the Clear Command Button is visually evident and available to users of assistive technology. Actually, cmdClear's identity is visually evident for two reasons (or, it should be): The Clear GIF graphically identifies cmdClear, and the value of Caption identifies cmdClear with text. If a screen reader is used, tabbing to cmdClear will read the text, it shouldn't sound any differently than it did before loading the image. The Caption value of 'Clear' not only identifies cmdClear with text, but it also identifies the image with text that is available to assistive technology. If the text is removed from Caption, then the Clear Command Button would still be visually identified by the Clear image from the Picture property, but it wouldn't be identified textually nor via many assistive technologies. Tabbing to cmdClear, again, using a screen reader, the best result would be the identification of 'button.' So, by assigning appropriate text to the Caption property of controls with (or without) images set to Picture and 1-Graphic set to Style, a means of complying with both parts of Technical Provision (d) has been provided.
 
-Yet, how is text employed to indicate information conveyed by images representing program functions, but not part of controls with Caption properties? Suppose, instead of using cmdAdd as a program element for *SFCalculator*, imgAdd is used. Use an Image control with some graphical plus sign, 'Add.bmp,' as the picture. Since Image controls do not have a Caption Property, an Access Key cannot be used to activate it directly, nor could it be labeled with text. However, imgAdd would be graphically identified and sensitive to mouse actions, therefore, it is identified via text and sensitive to keyboard and mouse actions by means of the Menu Option, mnuAdd, as described above.
+Yet, how is text employed to indicate information conveyed by images representing program functions, but not part of controls with Caption properties? Suppose, instead of using cmdAdd as a program element for *SFCalculator*, imgAdd is used. Use an Image control with some graphical plus sign, 'Add.bmp,' as the picture. Since Image controls do not have a Caption Property, an Access Key cannot be used to activate it directly, nor could it be labeled with text. However, imgAdd would be graphically identified and sensitive to mouse actions, therefore, it is identified via text and sensitive to keyboard and mouse actions by means of the Menu Option, mnuAdd, as described above.
 
 > **Accessibility Features, §1194.21(b)**
 >
@@ -495,17 +495,17 @@ Technical Provision (b) consists of two similar requirements and describes two s
 
 Interference with accessibility features can be caused in a variety of ways and thus comes in various forms: One form is keyboard interference, and another is display interference. If an application uses 'ALT-1' to perform a program function and so does the user's assistive technology, there would be a good chance of a keyboard conflict. The application wins the conflict sometimes, while the assistive technology wins other times. When assistive technology keyboard commands override application keyboard commands, good access and use of that application can be just as problematic as if an accessibility feature of the assistive technology were overridden instead. Some assistive technologies include key-bypass functions, but users of assistive technology shouldn't have to decrease productivity by using an extra keystroke that wouldn't have been necessary had such conflicts not occurred in the first place. As noted above in the discussion of 'Keyboard Methods,' if the users' ability to tab is disabled, via disabling the TabStop property, accessibility features of assistive technology can be disrupted (e.g., not announcing the next control) as well as those of applications (e.g., not being able to use some Access Keys, assuming one categorizes Access Keys as such features). If the Accessibility Option of 'Use High Contrast' is checked, and an application includes program code that changes some of the GUI to different colors, then a display conflict likely would be caused. The latter is illustrated in the section on Technical Provision (g), and the section on Technical Provision (k) illustrates how flashing objects at a certain frequency can interfere with features of some assistive technology. As noted in the discussion on 'Focus,' Technical Provision (c), using a graphical caret without simultaneously tracking it with the invisible SystemCaret will disrupt various features of many assistive technologies. Even certain sizes of fonts can interfere with at least one screen reader.
 
-#### *Input Focus, §1194.21(c)*
+#### *Input Focus, §1194.21(c)*
 
 #### **Input Focus**
 
 > (c) A well-defined on-screen indication of the current focus shall be provided that moves among interactive interface elements as the input focus changes. The focus shall be programmatically exposed so that assistive technology can track focus and focus changes.
 
-In *SFCalculator*, as with most Windows applications, the Focus takes different visual forms. Sometimes it takes the form of the SystemCaret, or the blinking vertical bar that commonly used for editing (e.g., in Entry 1 and Entry 2). Sometimes it takes the form of a dotted rectangle that moves Focus from Command Button to Command Button when navigating from one to another (e.g., from cmdAdd to cmdSubtract). Sometimes it takes the form of a moving mouse, while sometimes it takes the form of a highlighted Menu Option (e.g., mnuDivide).
+In *SFCalculator*, as with most Windows applications, the Focus takes different visual forms. Sometimes it takes the form of the SystemCaret, or the blinking vertical bar that commonly used for editing (e.g., in Entry 1 and Entry 2). Sometimes it takes the form of a dotted rectangle that moves Focus from Command Button to Command Button when navigating from one to another (e.g., from cmdAdd to cmdSubtract). Sometimes it takes the form of a moving mouse, while sometimes it takes the form of a highlighted Menu Option (e.g., mnuDivide).
 
 The SystemCaret is behind these various forms of the Focus. With Win32API calls, the SystemCaret can be positioned anywhere on the application window, resized and reshaped, created and destroyed, and turned invisible, thus, being able to move and track the Focus in the background. The latter allows developers to use their own graphical version of the Focus in the foreground while synchronizing it with the SystemCaret in the background. If that synchronization is absent or implemented unreliably, the assistive technology that relies on SystemCaret information will likely perform equally or more unreliably. In such a case, requirement (c) and Section 508 would be violated.
 
-How was this accessibility feature enabled in *SFCalculator*? Simply using the Common Control Components that shipped with VB enabled the Focus. A benefit of these programming components is that they intrinsically employ the SystemCaret and its related functions (e.g., getCaretPos and SetCaretPos). By doing so, they provide information vital to the reliable performance of the application and of certain assistive technology (e.g., screen readers, magnification software, or speech-recognitions systems).
+How was this accessibility feature enabled in *SFCalculator*? Simply using the Common Control Components that shipped with VB enabled the Focus. A benefit of these programming components is that they intrinsically employ the SystemCaret and its related functions (e.g., getCaretPos and SetCaretPos). By doing so, they provide information vital to the reliable performance of the application and of certain assistive technology (e.g., screen readers, magnification software, or speech-recognitions systems).
 
 #### *Bitmap Images, §1194.21(e)*
 
@@ -523,7 +523,7 @@ For this illustration:
 
 3\. Recompile and run the program.
 
-The meaning of the images is consistent throughout the running of *SFCalculator*. Suppose, however, the two lines that reset txtEntry1 and txtEntry2 are commented out or removed from Sub imgClear_Click(). When the program is recompiled and run, the meaning of the two images is not exactly the same. Clearly, the former complies with (e), while the latter violates it.
+The meaning of the images is consistent throughout the running of *SFCalculator*. Suppose, however, the two lines that reset txtEntry1 and txtEntry2 are commented out or removed from Sub imgClear_Click(). When the program is recompiled and run, the meaning of the two images is not exactly the same. Clearly, the former complies with (e), while the latter violates it.
 
 **Textual Information, §1194.21(f)**
 
@@ -531,11 +531,11 @@ The meaning of the images is consistent throughout the running of *SFCalculator
 >
 > (f) Textual information shall be provided through operating system functions for displaying text. The minimum information that shall be made available is text content, text input caret location, and text attributes.
 
-All three of these criteria are present in *SFCalculator*; although, in our previous explorations, only Text Content was highlighted. Text Content was apparent with each Command Button or Text Box when it received Focus. It was also conspicuous when entering numbers into Entry 1 or Entry 2.
+All three of these criteria are present in *SFCalculator*; although, in our previous explorations, only Text Content was highlighted. Text Content was apparent with each Command Button or Text Box when it received Focus. It was also conspicuous when entering numbers into Entry 1 or Entry 2.
 
 Text-Input or Caret Position is most obvious when Focus is on a standard Text Box, or, generically speaking, an input or edit field. It is especially obvious for those who can see or feel using a Tactile Display; the caret is visible and blinks at a regular rate; and it typically moves right one character space to indicate the current insertion point. The user of a screen reader will not hear the caret blink, but he or she will know, at least tacitly, that an insertion point moves along to the right as he or she types. However, users of screen readers can use designated keystrokes to determine Caret Position. For example, pressing ALT-DEL with one popular screen reader will reveal the Caret Position in x,y coordinates.
 
-Text Attributes, at least some of them (e.g., Bold, Italics, common Fonts and rough Size), are obvious to those who can see them. For example, all of the Access Keys in *SFCalculator* have the Underline attribute. Tab to Entry 1 and select the default text of '0.' Highlight is another attribute of the selected text. (Of course, if the Font is Chinese Gothic or the Times New Roman Font is 5 Point in size, most Americans who can see are only going to realize that the attributes need to be changed favorably.) As with Caret Position, users of screen readers can use designated keystrokes to determine Text Attributes. For instance, pressing Insert-F with one popular screen reader will reveal something like 'Font = MS Sans Serif 11 Point' if the caret is located on text in one of SFCalculator's Text Boxes.
+Text Attributes, at least some of them (e.g., Bold, Italics, common Fonts and rough Size), are obvious to those who can see them. For example, all of the Access Keys in *SFCalculator* have the Underline attribute. Tab to Entry 1 and select the default text of '0.' Highlight is another attribute of the selected text. (Of course, if the Font is Chinese Gothic or the Times New Roman Font is 5 Point in size, most Americans who can see are only going to realize that the attributes need to be changed favorably.) As with Caret Position, users of screen readers can use designated keystrokes to determine Text Attributes. For instance, pressing Insert-F with one popular screen reader will reveal something like 'Font = MS Sans Serif 11 Point' if the caret is located on text in one of SFCalculator's Text Boxes.
 
 So, how were these accessibility features enabled in SFCalculator? Using the Common Control Components that shipped with VB enabled the accessibility features. A benefit of these programming components is that important information about them is available to the OS via Win32API, and, in turn, that information is available to assistive technology (e.g., screen readers, magnification software, or speech-recognitions systems). In particular, these components intrinsically make information about Text Content, Caret Position, and Text Attributes available via the Win32API and thus to assistive technology. For example, all the standard VB controls employed in SFCalculator utilize the SystemCaret and its related functions (e.g., GetCaretPos and SetCaretPos), thereby indicating Focus and assisting the user to seamlessly interact with the application.
 
@@ -558,11 +558,11 @@ Even when employing the SystemCaret and standard fonts, certain values of attrib
 > txtResult.BackColor = vbBlue\
 > End Sub**
 
-Recompile and run *SFCalculator*, to see the difference. (If need be, a screen reader's designated keystrokes can be used to announce the changes in foreground and background colors.) The appended code shows that the background color of the Form is red and the three Text Boxes are red, white, and blue. How patriotic! Putting aside the fact that txtEntry2 has white text on a white background, an accessibility barrier has been created for individuals with certain types of color/contrast-sensitivity. Two methods are available. The High Contrast Setting via Accessibility Options can be modified or the Windows Appearance Scheme can be changed. Both can be changed in the Windows Control Panel! Both approaches will now be demonstrated.
+Recompile and run *SFCalculator*, to see the difference. (If need be, a screen reader's designated keystrokes can be used to announce the changes in foreground and background colors.) The appended code shows that the background color of the Form is red and the three Text Boxes are red, white, and blue. How patriotic! Putting aside the fact that txtEntry2 has white text on a white background, an accessibility barrier has been created for individuals with certain types of color/contrast-sensitivity. Two methods are available. The High Contrast Setting via Accessibility Options can be modified or the Windows Appearance Scheme can be changed. Both can be changed in the Windows Control Panel! Both approaches will now be demonstrated.
 
-Activate the Accessibility Options in the Control Panel, and check the first option on the Display Tab, which reads 'Use High Contrast.' Activate the OK button, and return to run our modified *SFCalculator*. While most of Windows changed its appearance, the red, red, white, and blue background colors remain in this *SFCalculator*. (Note that the latter not only illustrates how to violate Technical Provision (g), but it shows how to violate the second part of Technical Provision (b).) By un-checking the 'Use High Contrast' option and select 'High Contrast' from the Appearance Tab of Display in the Control Panel, the same results are found; the background colors remain. Therefore, this version of *SFCalculator*violates (g). Any application that violates (g) by not providing High Contrast, like black on white, are not usable by people who require high contrast to see.
+Activate the Accessibility Options in the Control Panel, and check the first option on the Display Tab, which reads 'Use High Contrast.' Activate the OK button, and return to run our modified *SFCalculator*. While most of Windows changed its appearance, the red, red, white, and blue background colors remain in this *SFCalculator*. (Note that the latter not only illustrates how to violate Technical Provision (g), but it shows how to violate the second part of Technical Provision (b).) By un-checking the 'Use High Contrast' option and select 'High Contrast' from the Appearance Tab of Display in the Control Panel, the same results are found; the background colors remain. Therefore, this version of *SFCalculator*violates (g). Any application that violates (g) by not providing High Contrast, like black on white, are not usable by people who require high contrast to see.
 
-#### Animation, §1194.21(h) 
+#### Animation, §1194.21(h) 
 
 > **Animation**
 >
@@ -1099,7 +1099,7 @@ Second, in the same two blocks of code, temporarily comment out the line of code
 
 **Color and Contrast**
 
-*(j)** When a product permits a user to adjust color and contrast settings, a variety of color selections capable of producing a range of contrast levels shall be provided.*
+*(j)** When a product permits a user to adjust color and contrast settings, a variety of color selections capable of producing a range of contrast levels shall be provided.*
 
 For some people, the use of color is a matter of preference. For others, it is a matter of necessity. Some people with vision impairments require high contrast color schemes while others need to have softer, unsaturated colors and less contrast so as not to suffer a visual "white out." People who suffer eyestrain after even short sessions on the computer find that different color and contrast settings ease the discomfort. The solution to this diversity of requirements is to provide a range of foreground and background color choices. This provision does not require software to allow the user to adjust color and contrast settings. However, products that do allow the user to adjust color and contrast settings are required to provide a variety of color combinations, producing a range of contrast levels.
 

@@ -117,7 +117,7 @@ The scope of the cost calculations includes new construction and alterations for
 
 The calculations include only the costs of implementation, i.e., capital and operating expenses and revenue impacts. The benefit of providing a civil right cannot be quantified, especially in the larger sense of the improved quality of a barrier-free society. The industry may realize benefits due to increased business from persons with disabilities, insurance premium reductions, and reduced employee injuries, but data from analogous access upgrades to quantify this are not available.
 
-The approach characterizes, by type, the numbers of vessels and shore facilities to find the costs associated with compliance based upon assumed sets of access solutions. Unit costs reflect the *access premium*, that is, the increased cost of providing access relative to current practice. The industry implementation costs are scheduled based upon analysis of fleet growth and replacement rates (from 25 to 40 years), and an assumed replacement/upgrade of the existing dock and pier population within 40 years.
+The approach characterizes, by type, the numbers of vessels and shore facilities to find the costs associated with compliance based upon assumed sets of access solutions. Unit costs reflect the *access premium*, that is, the increased cost of providing access relative to current practice. The industry implementation costs are scheduled based upon analysis of fleet growth and replacement rates (from 25 to 40 years), and an assumed replacement/upgrade of the existing dock and pier population within 40 years.
 
 The access solutions do not anticipate all outcomes but were developed as widely applicable and practical designs for an industry uniquely diverse among the transportation modes, both in its services and its physical assets. The solutions also take account of the interactive complexities of ADA.
 
@@ -155,7 +155,7 @@ The cost for phasing in an accessible fleet follows from a single set of assumpt
 
 #### Fleet sector societal costs ($millions), 1996 present value
 
-|   | Vessel type | Capital | Fuel | Maintenance | Revenue | Total |
+|   | Vessel type | Capital | Fuel | Maintenance | Revenue | Total |
 | **H** | **New construction** | $11.1 | $2.6 | $2.0 | NA | $15.7 |
 | **K** | **New construction** | $27.8 | $22.3 | $6.5 | NA | $56.6 |
 | T | New construction | $74.8 | $33.6 | $9.2 | NA | $117.6 |
@@ -175,7 +175,7 @@ Shore-to-vessel access costs are calculated separately for ferry terminals, beca
 
 #### Terminal access societal cost summary, 1996 present value ($millions)
 
-| Vessel type cost distribution |   | H/K facilities | T facilities | Total |
+| Vessel type cost distribution |   | H/K facilities | T facilities | Total |
 | Ferry low | 0.91 | $4.1 | $1.9 | $6.0 |
 | Ferry medium | 0.91 | $6.8 | $3.2 | $10.0 |
 | Ferry high | 0.91 | $9.5 | $4.5 | $14.0 |
@@ -212,7 +212,7 @@ Passenger vessel operators have been subject to some general provisions of ADA s
 
 #### 2.1 GOVERNMENT ACTIONS
 
-The OST has been given the lead in the investigation of access for persons with disabilities on passenger vessels. Background work was conducted by the Urban Harbors Institute (UHI) of the University of Massachusetts, Boston2 for the Federal Transit Administration (FTA). The UHI conducted two seminars for affected parties and completed a report highlighting the concerns of the stakeholders and the safety and regulatory questions implied by the ADA. The report did not identify a set of marine transportation access requirements or any associated cost impacts.
+The OST has been given the lead in the investigation of access for persons with disabilities on passenger vessels. Background work was conducted by the Urban Harbors Institute (UHI) of the University of Massachusetts, Boston2 for the Federal Transit Administration (FTA). The UHI conducted two seminars for affected parties and completed a report highlighting the concerns of the stakeholders and the safety and regulatory questions implied by the ADA. The report did not identify a set of marine transportation access requirements or any associated cost impacts.
 
 Shore facilities access has been examined by the Recreational Access Advisory Committee of the United States Architectural and Transportation Barriers Compliance Board. The Committee developed a flexible access regime for recreational boating and fishing facilities and proposed a new section in the ADA Access Guidelines (ADAAG) for such unique features as gangways from dock to vessel3. The State of Massachusetts completed a study and a negotiated regulation process titled "Marine Facilities Access" in 19924.
 
@@ -264,10 +264,10 @@ A spectrum of full access solutions is instead advanced for the purpose of findi
 
 The costs to be calculated are:
 
--   **Capital costs** associated with the installation of accessible accommodations at dock and pier facilities and for the new construction and retrofitted access features during major alterations of vessels.
--   **Operating costs** expected for such items as increased fuel consumption by heavier vessels, and maintenance of new equipment.
--   **Revenue losses** due to onboard capacity lost to provide space for accessible accommodations. This applies to vessel alterations only, where available passenger space is a given and lost area will result in real passenger capacity reductions. For new construction, it is assumed that owner-specified capacities will be met and that access accommodation costs will be strictly a matter of capital costs and operating costs associated with added vessel weight.
--   **Personnel training** costs for awareness, sensitivity, assistance techniques and technical matters (i.e. handling of wheelchairs).
+-   **Capital costs** associated with the installation of accessible accommodations at dock and pier facilities and for the new construction and retrofitted access features during major alterations of vessels.
+-   **Operating costs** expected for such items as increased fuel consumption by heavier vessels, and maintenance of new equipment.
+-   **Revenue losses** due to onboard capacity lost to provide space for accessible accommodations. This applies to vessel alterations only, where available passenger space is a given and lost area will result in real passenger capacity reductions. For new construction, it is assumed that owner-specified capacities will be met and that access accommodation costs will be strictly a matter of capital costs and operating costs associated with added vessel weight.
+-   **Personnel training** costs for awareness, sensitivity, assistance techniques and technical matters (i.e. handling of wheelchairs).
 
 3.2.1 Methodology
 
@@ -319,12 +319,12 @@ The following steps were taken to determine the costs of access. Sub-heads indic
 
 The following are the baseline conditions and assumptions of the analysis:
 
--   **Access standards**-- ADA Accessibility Guidelines (ADAAG)10 are used as the standard for full access. ADAAG deals primarily with mobility, sight, and hearing impaired people. Onboard capacity of persons with disabilities as a function of total capacity will follow the guidelines for reserved parking space densities. Some modifications and exemptions to the guidelines are suggested as a result of limiting factors; development of new standards was not however a goal of the study.
+-   **Access standards**-- ADA Accessibility Guidelines (ADAAG)10 are used as the standard for full access. ADAAG deals primarily with mobility, sight, and hearing impaired people. Onboard capacity of persons with disabilities as a function of total capacity will follow the guidelines for reserved parking space densities. Some modifications and exemptions to the guidelines are suggested as a result of limiting factors; development of new standards was not however a goal of the study.
 -   **ADA applicability**-- This study addresses Titles II and III of ADA, Public Services (including "public transport") and Public Accommodations. Title I, covering employment opportunities, and other legal civil rights matters under Title IV are not included.
 
 The study determines unit costs and industry implementation costs for new construction and alterations of vessels, and the access premium for upgrading the modeled dock and pier population. Application of ADA "alterations" language to vessels is assumed to cover modifications to "primary function" areas, that is the part of the vessel housing the main public activities.
 
--   **Economic factors**-- The study used current OMB guidelines11 for real discount rate (4.9% for 30 year or greater terms) and nominal discount rate for amortized capital outlays (7.9%). Time duration of the analysis is based upon assumed vessel replacement rates, fleet turnover, and expected frequency of alterations. Implementation of dock access accommodations is assumed to be over the same period of time. The assumed zero year for implementation of regulations is 1998.
+-   **Economic factors**-- The study used current OMB guidelines11 for real discount rate (4.9% for 30 year or greater terms) and nominal discount rate for amortized capital outlays (7.9%). Time duration of the analysis is based upon assumed vessel replacement rates, fleet turnover, and expected frequency of alterations. Implementation of dock access accommodations is assumed to be over the same period of time. The assumed zero year for implementation of regulations is 1998.
 
 The industry implementation calculations include society and business costs. For business costs, amortizations of capital outlays are included, whereas society costs count only absolute capital expenses.
 
@@ -332,7 +332,7 @@ The industry implementation calculations include society and business costs. For
 -   **Cost sampling**-- Representative unit costs are found in the field and the technical literature for both the passenger fleet and docks/piers.
 -   **Industry implementation**-- Cost for the industry implementation is based upon available fleet and port data. Coast Guard passenger vessel data from the Marine Safety Information System (MSIS) and a broad sampling of data from the Marine Safety Offices (MSO) fleets of responsibility are the basis of the nation-wide fleet characterization.
 
-Acquisition of national dock and pier facility data has proven difficult. The Army Corps of Engineers produces catalogs known as the Port Series12 for many areas, but coverage is far from complete, especially for small passenger boat facilities. A complete ferry system data base compiled by Urban Harbors Institute for the FTA13 and data gathered during field visits are extrapolated to the vessel fleet to complete a national population model.
+Acquisition of national dock and pier facility data has proven difficult. The Army Corps of Engineers produces catalogs known as the Port Series12 for many areas, but coverage is far from complete, especially for small passenger boat facilities. A complete ferry system data base compiled by Urban Harbors Institute for the FTA13 and data gathered during field visits are extrapolated to the vessel fleet to complete a national population model.
 
 #### 3.3 ACCESS SOLUTION SETS
 
@@ -385,11 +385,11 @@ The approach is:
 -   Compare Urban Harbors Institute national ferry data to extrapolated Coast Guard data to test the latter's validity relative to one service segment of the fleet.
 -   Calculate service lives for Subchapters T, K, and H vessels using fleet age data and apply uniformly to all service types within those groupings.
 
-***Coast Guard regulatory definitions*** The existing 46 CFR Subchapters T (subdivided into small and large) and H define classes according to size and capacity and specify certification requirements, operations, and safety standards for construction, fire protection, lifesaving and other systems. The proposed Subchapter K creates a new group of small vessels with high passenger capacity. Definitions of inspected classes follow:
+***Coast Guard regulatory definitions*** The existing 46 CFR Subchapters T (subdivided into small and large) and H define classes according to size and capacity and specify certification requirements, operations, and safety standards for construction, fire protection, lifesaving and other systems. The proposed Subchapter K creates a new group of small vessels with high passenger capacity. Definitions of inspected classes follow:
 
 | Existing regulations | Proposed regulations |
-| **T-S** (small)-- vessels under 100 gross tons and 65' or less carrying more than six passengers | **T**-- vessels under 100 gross tons, carrying 150 or fewer passengers |
-| **T-L** (large)-- vessels under 100 gross tons and longer than 65'carrying any number of passengers | **K**-- vessels under 100 gross tons, carrying more than 150 passengers |
+| **T-S** (small)-- vessels under 100 gross tons and 65' or less carrying more than six passengers | **T**-- vessels under 100 gross tons, carrying 150 or fewer passengers |
+| **T-L** (large)-- vessels under 100 gross tons and longer than 65'carrying any number of passengers | **K**-- vessels under 100 gross tons, carrying more than 150 passengers |
 | **H**-- All passenger vessels of more than 100 gross tons | **H**-- All passenger vessels of more than 100 gross tons |
 
 One assumption for data analysis is necessary to bridge the gap between the existing and proposed Coast Guard regulations: T-S vessels are correlated with new Subchapter T boats and T-L to new Subchapter K. While the definitions do not correlate well (from vessel length to passenger capacity), the numerical comparison was tested (Section 4.3.3) and found to be valid for purposes of characterizing the affected population.
@@ -415,7 +415,7 @@ Coast Guard Headquarters and the Marine Safety Offices (MSO) were canvassed for 
 
 Data from the Headquarters Marine Safety Information System (MSIS) yielded global fleet distributions, presented for comparison's sake as the bottom row of Table 4-1. Note that the MSIS data includes all vessels, without the service data obtained from field units. Table 4-2 shows the MSO fleet data extrapolation (ratio and proportion to global fleet population relative to MSIS) which will be used for cost implementation. It indicates the correlation between new and existing Coast Guard classifications, as well as applicable ADA use definitions.
 
-***Data checks*** The data extrapolation indicates a valid sampling of vessel service information from the Coast Guard MSOs. The acquired data accounts for 52.7% of the national fleet; the global/sample ratio is 1.895. The component ratios for T (T-L and T-S) and H vessels are 1.894 (nearly identical to global) and 1.961, respectively. These factors are used to extrapolate the detailed fleet characterization from Table 4-1 to Table 4-2. The Subchapter H sampling is within 3.5% of global and, therefore, valid. The only independent comparison available for a particular vessel service is the Urban Harbors Institute ferry systems report. They found, among the responders to their questionnaire, the following:
+***Data checks*** The data extrapolation indicates a valid sampling of vessel service information from the Coast Guard MSOs. The acquired data accounts for 52.7% of the national fleet; the global/sample ratio is 1.895. The component ratios for T (T-L and T-S) and H vessels are 1.894 (nearly identical to global) and 1.961, respectively. These factors are used to extrapolate the detailed fleet characterization from Table 4-1 to Table 4-2. The Subchapter H sampling is within 3.5% of global and, therefore, valid. The only independent comparison available for a particular vessel service is the Urban Harbors Institute ferry systems report. They found, among the responders to their questionnaire, the following:
 
 -   168 ferry systems operating 391 ferries, excluding 73 of the barge type.
 -   97 Subchapter H ferries.
@@ -428,7 +428,7 @@ Data from the Headquarters Marine Safety Information System (MSIS) yielded globa
 
 #### (MSO data)
 
-|   | Subchapter H | Old Subchapter T | T-L | T-S |
+|   | Subchapter H | Old Subchapter T | T-L | T-S |
 | Dinner/excursion | 5 | 300 | 213 | 87 |
 | Ferry | 48 | 163 | 81 | 82 |
 | Gaming | 29 | 15 | 15 | 0 |
@@ -474,23 +474,23 @@ The primary issue is access for people in wheelchairs and those with other mobil
 
 The most obvious, and difficult, barriers to overcome relate to the mobility, safety, and amenities for people in wheelchairs. The deck arrangements and safety features, particularly on smaller vessels, pose an array of problems. Skillful design on new construction vessels will solve many, while retrofit for alterations can have a larger impact.
 
-***Mobility*** Barriers commonly found onboard are the following: transition from dock or gangway at the deck edge, adequate passageway width (especially on small vessels), door widths, door sills, door opening arrangements, and access between decks.
+***Mobility*** Barriers commonly found onboard are the following: transition from dock or gangway at the deck edge, adequate passageway width (especially on small vessels), door widths, door sills, door opening arrangements, and access between decks.
 
-***Safety*** The attitude (still water condition) and motion of a passenger vessel will have a singular effect on a person in a wheelchair. Tiedowns and deck fittings are required. Crew training for evacuation and other assistance must be provided, covering all types of disabilities.
+***Safety*** The attitude (still water condition) and motion of a passenger vessel will have a singular effect on a person in a wheelchair. Tiedowns and deck fittings are required. Crew training for evacuation and other assistance must be provided, covering all types of disabilities.
 
-***Amenities*** The heads (bathrooms) on passenger vessels are usually non-accessible, particularly on smaller craft. Food service arrangements, i.e. bar heights and chairless tables, are often lacking. There may be additional need to adapt amenities, particularly on "event" vessels such as gaming boats and tour boats.
+***Amenities*** The heads (bathrooms) on passenger vessels are usually non-accessible, particularly on smaller craft. Food service arrangements, i.e. bar heights and chairless tables, are often lacking. There may be additional need to adapt amenities, particularly on "event" vessels such as gaming boats and tour boats.
 
 4.2.2 Sight and hearing impaired access
 
 Safety issues are paramount for the sight and hearing impaired. Mobility requirements are low impact, including such safety measures as tactile strips, Braille signage, and limitations on projections into passageways. Amenities such as reading cards or tapes for certain "event" vessels may be needed but are not specifically considered herein.
 
-***Safety*** Most vessels lack tactile hazard indicators and Braille signage for the blind. Audible and visual emergency alarms must be provided.
+***Safety*** Most vessels lack tactile hazard indicators and Braille signage for the blind. Audible and visual emergency alarms must be provided.
 
 #### 4.3 CONSTRAINTS ON SOLUTIONS
 
 The design and operation of passenger vessels are driven by their unique environment. The safety of crew and passengers depends upon a stable and watertight platform and a robust structure capable of responding to dynamic loads and sustaining damage from collisions and groundings.
 
-Space is critical on many designs, particularly on high-density craft where passenger capacity is determined by available seating. The impact of ADA space requirements varies with the Coast Guard per passenger space minima. 10 ft2 per capita area is the most commonly used, but high passenger density craft need only 3.75 ft2/seat.
+Space is critical on many designs, particularly on high-density craft where passenger capacity is determined by available seating. The impact of ADA space requirements varies with the Coast Guard per passenger space minima. 10 ft2 per capita area is the most commonly used, but high passenger density craft need only 3.75 ft2/seat.
 
 Constraints arise mainly in regard to access for the mobility-impaired. Access is constrained by vessel safety features such as door arrangements, deck fittings, and cambered decks, as well as space restricted passageways, heads, and other passenger service spaces. Access features for the sight- and hearing-impaired are not substantially constrained by marine design practices. The ADAAG specifications include provisions on passageway clearances for the safety of blind people. The designer should consider these as part of the overall accessible passage configuration, whose primary purpose is for wheelchairs.
 
@@ -500,11 +500,11 @@ The approach to safety is in the context of Coast Guard regulations. The costs o
 
 The solutions herein are based on the best currently available solutions and information. The Coast Guard has suggested that a hazard analysis is necessary to address all access safety issues. Such an analysis might show different or additional safety solutions and may be a valuable follow on effort to this study. The following are the specific items considered for this study:
 
-***Doors and sills ***Several operators and Coast Guard personnel have pointed out the access problems arising from the narrow widths, high sills, and large opening force required for marine service doors, particularly watertight and weathertight doors. For the cost estimates, we assume that width requirements must be met, but that the safety provisions of sill heights and closing forces cannot be overridden by the ADAAG. Good detail design practice will solve the sill ramping problem. The operation of some doors however may require power assist or crew assistance.
+***Doors and sills ***Several operators and Coast Guard personnel have pointed out the access problems arising from the narrow widths, high sills, and large opening force required for marine service doors, particularly watertight and weathertight doors. For the cost estimates, we assume that width requirements must be met, but that the safety provisions of sill heights and closing forces cannot be overridden by the ADAAG. Good detail design practice will solve the sill ramping problem. The operation of some doors however may require power assist or crew assistance.
 
-***Passageways*** The ADAAG specification for aisle/corridor widths, turns, etc. exceeds Coast Guard requirements. Passageways on most larger vessels that were observed satisfy ADAAG, but this is not the case on small vessels. Designers will provide proper passageways for new construction of almost any type, with possible exceptions among the smallest vessels. Retrofits for alterations will be problematic on many small passenger vessels and some leeway for exceptions and equivalent facilitations may be necessary.
+***Passageways*** The ADAAG specification for aisle/corridor widths, turns, etc. exceeds Coast Guard requirements. Passageways on most larger vessels that were observed satisfy ADAAG, but this is not the case on small vessels. Designers will provide proper passageways for new construction of almost any type, with possible exceptions among the smallest vessels. Retrofits for alterations will be problematic on many small passenger vessels and some leeway for exceptions and equivalent facilitations may be necessary.
 
-***Elevators and lifts* **Installation of elevators for multi-deck access is attended by two major regulatory issues, stability and fire protection. The added weight and vertical moment of an elevator can have serious impact on the intact and damage stability characteristics, especially in the case of a small vessel.
+***Elevators and lifts* **Installation of elevators for multi-deck access is attended by two major regulatory issues, stability and fire protection. The added weight and vertical moment of an elevator can have serious impact on the intact and damage stability characteristics, especially in the case of a small vessel.
 
 Elevator shafting must satisfy Coast Guard fire protection regulations since deck penetrations cross "fire stopper" and weathertight boundaries. These and other installation requirements (power, controls, etc.) will be addressed in greater detail in the final cost calculations.
 
@@ -542,9 +542,9 @@ Previously described diversity of the inspected passenger fleet leads to a consi
 
 For purposes of the study, new construction and retrofit are separately considered and are defined as follows:
 
-***New construction:*** Keel laid on or after assumed effective date of new regulations of 1 January 1998.
+***New construction:*** Keel laid on or after assumed effective date of new regulations of 1 January 1998.
 
-***Alteration:*** Alteration undertaken on or after effective date of 1 January 1998. The study will not include "readily achievable" access features on existing vessels and will limit its consideration to large "primary function" alterations, that is alterations to those parts of the vessels housing their main public activities.
+***Alteration:*** Alteration undertaken on or after effective date of 1 January 1998. The study will not include "readily achievable" access features on existing vessels and will limit its consideration to large "primary function" alterations, that is alterations to those parts of the vessels housing their main public activities.
 
 According to ADA, alterations to the "primary function area" of an establishment trigger an additional requirement to provide an accessible "path of travel" to the primary function. This kind of alteration involves significant cost, occurs with predictable frequency, and implies a reasonable limit on the number of unit cost calculations needed for the cost model. Smaller alterations such as in-kind component replacement are too varied, numerous, and unpredictable to measure. In any event, they are already covered by the general access provisions of ADA and likely involve minimal cost premiums.
 
@@ -616,7 +616,7 @@ Again, the largest cost and technical impact is clearly from multi-deck access w
 
 Notes: 1) Elevators for ferries with separate vehicle and passenger decks only.
 
-Table 4-4 shows a clear breakpoint between K and T public accommodation vessels in the matter of multi-deck access. Relaxation of this requirement for small vessels, particularly for alterations, is technically and legally logical. The latter point is the "elevator exemption", in 28 CFR Part 36, provided for small existing buildings, defined as fewer than three stories or less than 3000 ft2 per story. A similar approach, with different area values, can be applied, as demonstrated by the sample boat data in the following section.
+Table 4-4 shows a clear breakpoint between K and T public accommodation vessels in the matter of multi-deck access. Relaxation of this requirement for small vessels, particularly for alterations, is technically and legally logical. The latter point is the "elevator exemption", in 28 CFR Part 36, provided for small existing buildings, defined as fewer than three stories or less than 3000 ft2 per story. A similar approach, with different area values, can be applied, as demonstrated by the sample boat data in the following section.
 
 #### 4.5 SAMPLE VESSELS
 
@@ -624,9 +624,9 @@ A representative sample of vessels was selected from files at Coast Guard Headqu
 
 Appendix B includes results of the Bay area study and Appendix C is a compilation of unit cost data found in the field and the technical literature.
 
-Table 4-5 groups sample vessels roughly by service and Subchapter, showing total and per passenger areas. Gross areas of passenger accommodation (hotel, restaurant, and public spaces) are found and reduced by the areas taken by other appurtenances such as lifesaving equipment, vents, and rails. Table 4-5 shows that reasonable passenger area breakpoints can be found in the structuring of the Coast Guard's passenger vessel categories. While a strict application of 3000 ft2 per deck would eliminate all but the largest passenger vessels, a total deck area of 3000 ft2 appears to fall nicely between the proposed T and K Subchapters. Some exceptions, notably the high density craft, appear among the representative existing designs shown in the Table (see shaded rows).
+Table 4-5 groups sample vessels roughly by service and Subchapter, showing total and per passenger areas. Gross areas of passenger accommodation (hotel, restaurant, and public spaces) are found and reduced by the areas taken by other appurtenances such as lifesaving equipment, vents, and rails. Table 4-5 shows that reasonable passenger area breakpoints can be found in the structuring of the Coast Guard's passenger vessel categories. While a strict application of 3000 ft2 per deck would eliminate all but the largest passenger vessels, a total deck area of 3000 ft2 appears to fall nicely between the proposed T and K Subchapters. Some exceptions, notably the high density craft, appear among the representative existing designs shown in the Table (see shaded rows).
 
-Common per passenger areas run from 10 to 20 ft2 (Coast Guard requires 10 ft2/passenger as one measure of allowable capacity) resulting in less than 3000 ft2 for almost all T boats (150 or fewer passengers). K vessels will tend towards capacities significantly greater than 150 as a matter of optimal revenues and, for the unit areas required, will most often be above 3000 ft2 of accommodation spaces.
+Common per passenger areas run from 10 to 20 ft2 (Coast Guard requires 10 ft2/passenger as one measure of allowable capacity) resulting in less than 3000 ft2 for almost all T boats (150 or fewer passengers). K vessels will tend towards capacities significantly greater than 150 as a matter of optimal revenues and, for the unit areas required, will most often be above 3000 ft2 of accommodation spaces.
 
 #### Table 4-5
 
@@ -684,7 +684,7 @@ for vessel alterations, lost revenue due to deck area and passenger capacity red
 
 for all vessels, the effects of increased power requirements due to increased displacement and wetted surface area. The costs are expressed as increased fuel consumption, ignoring the possible speed loss.
 
--   **Life cycle costs.** Maintenance costs associated with elevators, lifts, and other access features, calculated for all cases.
+-   **Life cycle costs.** Maintenance costs associated with elevators, lifts, and other access features, calculated for all cases.
 
 Cost factors are calculated using Office of Management and Budget guidance11:
 
@@ -707,7 +707,7 @@ The annual replacement rate for K vessels is assumed in between those for H and 
 
 5.1.2 Fleet growth
 
-Overall fleet growth has been stagnant for 30 years; that is, replacement and scrapping rates have been roughly equal. The last annual Treasury Department Merchant Marine Statistics15 report in 1965 listed 5862 passenger vessels, compared to the current fleet of 5770 according to Coast Guard MSIS.
+Overall fleet growth has been stagnant for 30 years; that is, replacement and scrapping rates have been roughly equal. The last annual Treasury Department Merchant Marine Statistics15 report in 1965 listed 5862 passenger vessels, compared to the current fleet of 5770 according to Coast Guard MSIS.
 
 Treasury data indicate that in the 1950s and early 1960s, the passenger fleet expanded dramatically with the post-war economic expansion and as World War II surplus craft such as PT boats were brought into such services as fishing and charter. Table 5-1 indicates this trend for the build years 1942-46; the same may be observed for build years in the late 1950s as craft from other services moved into the passenger trade.
 
@@ -715,7 +715,7 @@ In the data gap between 1965 and 1987, most of those boats fell out of service w
 
 Overall, however, the available data indicate a flat to very slow growth rate over the last five years. While Coast Guard MSIS reports the large passenger (Subchapter H) fleet has increased dramatically in that time (approximately 30% to a total of 205), due mainly to new gaming boats, the T fleet has grown at an average annual rate of only 0.4%. The Coast Guard's regulatory evaluation for small passenger vessel certification concluded in 1990 that the T fleet population was staying constant, replacing itself at a 4% annual rate (about 210 per year), with an estimated average service life of 25 years.
 
-The Army Corps of Engineers annual Waterborne Transportation Lines16 reports support these conclusions. The scope includes ferries and "passenger, steam or motor" vessels, the latter of which are excursion boats and the like. Passenger fishing boats are not covered, and the remaining fleet size tracks reasonably well with the Coast Guard's data. While the summary data in Table 5-2 shows obvious inconsistencies (the ferry fleet certainly did not grow 450% from 1989 to 1991) in data definition and reporting, it is clear that they show no recent growth trend.
+The Army Corps of Engineers annual Waterborne Transportation Lines16 reports support these conclusions. The scope includes ferries and "passenger, steam or motor" vessels, the latter of which are excursion boats and the like. Passenger fishing boats are not covered, and the remaining fleet size tracks reasonably well with the Coast Guard's data. While the summary data in Table 5-2 shows obvious inconsistencies (the ferry fleet certainly did not grow 450% from 1989 to 1991) in data definition and reporting, it is clear that they show no recent growth trend.
 
 The foregoing data leads to the conclusion that the fleet growth rate will be near 0% for Subchapter T, K, and H vessels for the foreseeable future. Gaming boats make up nearly all of the Subchapter H growth since 1990. Otherwise, the statistics do not support any suggestion of growth.
 
@@ -765,9 +765,9 @@ Note that the foregoing assumption is based upon anecdotal evidence which cannot
 
 The installation schedules specifically address the provision of elevators and lifts for multi-deck access, the most important impact item. An accurate cost appraisal must include those vessels which will not provide such access, since the access solutions as structured allow for some flexibility in its application. The affected portions of the existing (without exclusions due to the ten year retirement window) and new portions of the fleet are shown in Table 5-3. These numbers are not supported by available data but from knowledge of the fleet gained through interviews and site visits. Explanatory comments follow:
 
--   ***"Access 1"--*** All vessels must provide multi-deck access. Multi-deck construction is assumed for Access 1.
--   ***"Access 3 and 4"--*** No elevators or lifts are required by definition of these solutions, which provide for one full access deck. These smaller vessels are, for the most part, single decked and otherwise are the most likely to have technical feasibility issues.
--   ***"Access 2"--*** This solution provides for full access and services on one or more decks, depending on the boat's service and configuration. Assumptions for installation of elevator/lifts follow:
+-   ***"Access 1"--*** All vessels must provide multi-deck access. Multi-deck construction is assumed for Access 1.
+-   ***"Access 3 and 4"--*** No elevators or lifts are required by definition of these solutions, which provide for one full access deck. These smaller vessels are, for the most part, single decked and otherwise are the most likely to have technical feasibility issues.
+-   ***"Access 2"--*** This solution provides for full access and services on one or more decks, depending on the boat's service and configuration. Assumptions for installation of elevator/lifts follow:
 
 ***Public accommodation vessels***
 
@@ -868,11 +868,11 @@ Tables 5-4 and 5-5 are the installation schedules for new construction and alter
 
 New construction costs will be calculated as 1) the capital cost of building in the extra space required for accessible accommodations, 2) the direct costs of individual access components; and 3) added operating costs.
 
-***Capital costs*** The added space results from extra area required for access accommodations and is expressed as a cost by multiplying area with the weight/area and cost/weight ratios found for the sample vessels in the engineering study (Appendix B). There is a space premium for elevators, accessible heads, and, for high density craft, wheelchair tiedown spots provided for safety from ship motion. Details of these calculations are in Appendices B and D. The added weight of the access features (e.g. elevators) themselves does not result in added shipbuilding cost.
+***Capital costs*** The added space results from extra area required for access accommodations and is expressed as a cost by multiplying area with the weight/area and cost/weight ratios found for the sample vessels in the engineering study (Appendix B). There is a space premium for elevators, accessible heads, and, for high density craft, wheelchair tiedown spots provided for safety from ship motion. Details of these calculations are in Appendices B and D. The added weight of the access features (e.g. elevators) themselves does not result in added shipbuilding cost.
 
 The engineering study also showed that no area and weight premium results from design of accessible passageways, signage and alarms, accessible embarkation station and main doors, and food service bars, which for the most part can be smoothly integrated with skilled design practice.
 
-***Direct costs* **The costs of individual access components including installation in the shipyard, are calculated according to the solution set in Table 4-3. These are elevators and lifts, accessible heads, embarkation stations, main doors, signage and alarms, and food bars. No extra design or engineering costs are included for new construction.
+***Direct costs* **The costs of individual access components including installation in the shipyard, are calculated according to the solution set in Table 4-3. These are elevators and lifts, accessible heads, embarkation stations, main doors, signage and alarms, and food bars. No extra design or engineering costs are included for new construction.
 
 Tables 5-6 and 5-7 show the component and total unit capital and direct costs for each vessel type. Detailed notes on these costs appear in Appendices B and D.
 
@@ -880,7 +880,7 @@ The largest cost item is elevators and lifts. Table 5-7 calculates that cost and
 
 The unit elevator cost is $25,000 per deck serviced, multiplied by the factor of 1.50 for installation expense, a result of $37,500 per deck. The installed cost of a stair lift is $20,000 for two decks, plus $20,000 for each additional deck. Single elevator or lift service is assumed for all vessels.
 
-***Operating and life-cycle costs*** The operating cost premium calculation is limited to the extra fuel consumed by the main propulsion plant to drive the added weight of access accommodations. Added weight is from added areas for access accommodations and the component weight of elevators. Other components do not contribute significant weight. Notional values for ship's power, displacement, and annual operating hours are given and the effect of added weights calculated in Table 5-8. The following formula yields the annual fuel cost premium: *(added wt./loaded vessel wt.)X(annual operating hours)X(0.05 bsfc)X(brake horsepower)X($0.70/gallon);* where bsfc = brake specific fuel consumption. See detailed spreadsheets in Appendix D.
+***Operating and life-cycle costs*** The operating cost premium calculation is limited to the extra fuel consumed by the main propulsion plant to drive the added weight of access accommodations. Added weight is from added areas for access accommodations and the component weight of elevators. Other components do not contribute significant weight. Notional values for ship's power, displacement, and annual operating hours are given and the effect of added weights calculated in Table 5-8. The following formula yields the annual fuel cost premium: *(added wt./loaded vessel wt.)X(annual operating hours)X(0.05 bsfc)X(brake horsepower)X($0.70/gallon);* where bsfc = brake specific fuel consumption. See detailed spreadsheets in Appendix D.
 
 #### Table 5-6
 
@@ -948,8 +948,8 @@ The unit elevator cost is $25,000 per deck serviced, multiplied by the factor of
 
 #### Unit annual newbuilding fuel costs
 
-|   |   | Notional | Notional | Annual | Elevator | Elev. | Access | lb. per | Annual fuel | Annual fuel |
-|   | Vessel type | displ'c'mt | hp | hrs | weight | ft^2 | ft^2 | ft^2 | $ premium | $ premium |
+|   |   | Notional | Notional | Annual | Elevator | Elev. | Access | lb. per | Annual fuel | Annual fuel |
+|   | Vessel type | displ'c'mt | hp | hrs | weight | ft^2 | ft^2 | ft^2 | $ premium | $ premium |
 |  |  | (LT) |  |  |  |  |  |  | w/elev | w/o elev |
 | H | Ferry | 1500 | 3000 | 3600 | 30000 | 60 | 20 | 50 | $3,825 | $113 |
 | H | Dinner/excursion | 750 | 2000 | 1200 | 30000 | 60 | 20 | 50 | $1,700 | $50 |
@@ -1033,7 +1033,7 @@ The annual unit maintenance costs in Table 5-11 are samples which include elevat
 
 #### Industry costs, with amortization
 
-|   | Vessel Subchapter and service | Annual | P.V. | P.V. | P.V. | P.V. | P.V. | P.V. | P.V. | P.V. |
+|   | Vessel Subchapter and service | Annual | P.V. | P.V. | P.V. | P.V. | P.V. | P.V. | P.V. | P.V. |
 | cost | year 1 | year 5 | year 10 | year 20 | year 30 | year 40 | year 50 | Total |
 | H | Ferry | $310,969 | $40,081 | $166,138 | $262,841 | $164,467 | $102,912 | $64,395 | $4,029 | $6,104,972 |
 | H | Dinner/excursion | $28,031 | $3,613 | $14,976 | $23,693 | $14,825 | $9,277 | $5,805 | $363 | $550,312 |
@@ -1100,7 +1100,7 @@ The cost models will be based upon accessible retrofit to all passenger accommod
 
 5.3.1 Unit costs
 
-*Capital costs* Again, access accommodations are per Table 4-4. The 20% ceiling provision of ADA is ignored since available data do not support projections of total vessel alteration costs. This may result in high cost projections for some cases. Table 5-12 tallies the unit installation costs, exclusive of elevators and lifts; Table 5-13 adds in the costs for cases where multi-deck access is required.
+*Capital costs* Again, access accommodations are per Table 4-4. The 20% ceiling provision of ADA is ignored since available data do not support projections of total vessel alteration costs. This may result in high cost projections for some cases. Table 5-12 tallies the unit installation costs, exclusive of elevators and lifts; Table 5-13 adds in the costs for cases where multi-deck access is required.
 
 While the capital costs for retrofitting access accommodations do not include the premium for building extra deck space, component installation costs are higher than those for new construction, as noted previously.
 
@@ -1143,8 +1143,8 @@ Explanatory notes for unit alteration costs follow:
 
 #### Unit alteration capital costs, with elevators/lifts
 
-|   | Total cost | Elevator Costs | Total cost |
-|   | without | elev/lift | elev/lift | Stability | including |
+|   | Total cost | Elevator Costs | Total cost |
+|   | without | elev/lift | elev/lift | Stability | including |
 | Vessel type | elevators | ratio | equip. costs | analysis | elevator |
 | H | Ferry | $59,000 | 1.0/0.0 | $100,000 | $5,000 | **$164,000** |
 | H | Dinner/excursion | $61,000 | 0.5/0.5 | $65,000 | $2,500 | **$128,500** |
@@ -1174,7 +1174,7 @@ Explanatory notes for unit alteration costs follow:
 -   Elevator/lift ratios are not supportable by significant data at this time, but reflect field observations and the belief that lift technology for passenger vessels will improve and find wide application as a practical alternative to elevators.
 -   Large ferries, which tend towards car carrying arrangements, will most likely service vehicle decks with elevators; this retrofit has already been accomplished on several vessels. Those T ferries requiring multi-deck access will be more likely to utilize lifts, due to space and stability limitations.
 
-***Operating costs*** Fuel and maintenance costs are found in much the same manner as for new construction. There is the additional aspect of revenue losses since passenger accommodation area is lost to make way for elevators, accessible heads, and wheelchair tiedown spots.
+***Operating costs*** Fuel and maintenance costs are found in much the same manner as for new construction. There is the additional aspect of revenue losses since passenger accommodation area is lost to make way for elevators, accessible heads, and wheelchair tiedown spots.
 
 Fuel costs are based solely upon the added component weight of elevators. The added area premium calculated for new construction does not pertain when backfitting on an existing vessel, and the net added weight of other components is assumed to be insignificant. Sample unit costs are shown in Table 5-14. The reader should note that these do not allow for speed reduction and that full power operation is assumed for the annual operating hours specified.
 
@@ -1184,7 +1184,7 @@ Unit annual maintenance costs may be found in Table 5-18, with the industry impl
 
 #### Sample unit fuel cost for retrofit elevator installation
 
-|   | Service | (LT) | added wt/ | horse-power | annual hrs | Annual fuel cost |
+|   | Service | (LT) | added wt/ | horse-power | annual hrs | Annual fuel cost |
 | H | Ferry | 1500 | 0.0089 | 3000 | 3600 | $3,375 |
 | H | Dinner/excursion | 750 | 0.0179 | 2000 | 1200 | $1,500 |
 | H | Gaming | 2000 | 0.0067 | 2000 | 1800 | $844 |
@@ -1206,7 +1206,7 @@ Note: = displacement of loaded vessel
 
 Lost revenue will be the result of alterations which take existing passenger space for access accommodations. The calculation starts with finding the areas needed for the new access features, i.e. elevators, accessible heads, and wheelchair tiedown spots. Lost passenger capacity results from simple division of the lost area by unit passenger areas. Lost revenue is then found by multiplying the trip frequency by representative fares and the lost capacity. The assumed full capacity ratio (portion of trips at full capacity, when revenue losses will actually be incurred) is 0.4, corresponding approximately to a peak (summer) season plus holidays and some weekends.
 
-Several calculations were needed for each vessel type because of two regulatory provisions for minimum per passenger areas, and since elevators, lifts, or neither will be needed for different individual vessels. The Coast Guard generally requires at least 10 ft2 of deck space per passenger, but also allows for a minimum of 3.75 ft2 per seat for high density craft. Space reductions clearly have different proportional effects on each category.
+Several calculations were needed for each vessel type because of two regulatory provisions for minimum per passenger areas, and since elevators, lifts, or neither will be needed for different individual vessels. The Coast Guard generally requires at least 10 ft2 of deck space per passenger, but also allows for a minimum of 3.75 ft2 per seat for high density craft. Space reductions clearly have different proportional effects on each category.
 
 Table 5-15 shows the development of unit revenue losses, with four possible outcomes for each type of vessel. The term "NA" appears when the configuration shown is not applicable, based upon knowledge of the fleet, field visits, and, primarily, the specifications of the access solutions offered herein. Specifically, no T boat alterations in this model will have elevators. It is also assumed that no H vessels are "high density" and that all commuter/shuttle boats are.
 
@@ -1218,17 +1218,17 @@ Further details on the area loss calculations appear in the notes in Appendix D.
 
 The total society cost for alterations to the existing vessels in the fleet, according to the model's schedule and access solutions, is $173.6 million, including $54.6 million for capital improvements (Table 5-16), $11.0 million for fuel (Tables 5-18), $7.3 million for maintenance (Table 5-19), and $100.7 million for lost revenues (Table 5-20). Industry costs are $191.8M, including amortized capital costs (Table 5-17).
 
-*Capital costs* The industry implementation costs will be spread over a period of twenty years, as the alterations are modeled as a ten year phase-in, and the amortization runs out for ten additional years.
+*Capital costs* The industry implementation costs will be spread over a period of twenty years, as the alterations are modeled as a ten year phase-in, and the amortization runs out for ten additional years.
 
-*Operating cost-- fuel and maintenance* All operating costs are calculated for a period of forty years, in which time the presently existing H vessel population is modeled to decay to zero. The K and T portions of the fleet likewise drop out in 33 and 25 years, respectively.
+*Operating cost-- fuel and maintenance* All operating costs are calculated for a period of forty years, in which time the presently existing H vessel population is modeled to decay to zero. The K and T portions of the fleet likewise drop out in 33 and 25 years, respectively.
 
-*Operating cost-- lost revenue *The industry implementation model is the same as described above for fuel and maintenance.
+*Operating cost-- lost revenue *The industry implementation model is the same as described above for fuel and maintenance.
 
 #### Table 5-15
 
 #### Sample unit revenue costs for alterations
 
-|  | Vessel service | Ft2 loss,unisex heads | Ft2loss, elev. | Wheel-chair capacity | Fare | Daily trips | Days per week | Weeks per year | Annual loss w/elev, 10 ft2/pax | Annual loss w/o elev,10 ft2/pax | Annual loss w/ elev,3.75 ft2/pax | Annual loss w/o elev,3.75 ft2/pax |
+|  | Vessel service | Ft2 loss,unisex heads | Ft2loss, elev. | Wheel-chair capacity | Fare | Daily trips | Days per week | Weeks per year | Annual loss w/elev, 10 ft2/pax | Annual loss w/o elev,10 ft2/pax | Annual loss w/ elev,3.75 ft2/pax | Annual loss w/o elev,3.75 ft2/pax |
 | H | Ferry | 20 | 48 | 8 | $5 | 4 | 6 | 50 | $16,320 | $4,800 | NA | NA |
 | H | Dinner/excursion | 20 | 48 | 8 | $25 | 1 | 6 | 50 | $20,400 | $6,000 | NA | NA |
 | H | Gaming | 20 | 48 | 8 | $25 | 6 | 6 | 50 | $122,400 | $36,000 | NA | NA |
@@ -1288,7 +1288,7 @@ The total society cost for alterations to the existing vessels in the fleet, acc
 
 #### Industry costs, with amortization
 
-|   | Vessel type | P.V. year 1 | P.V. year 5 | P.V. year 10 | P.V. year 15 | Total P.V. |
+|   | Vessel type | P.V. year 1 | P.V. year 5 | P.V. year 10 | P.V. year 15 | Total P.V. |
 | H | Ferry | $128,560 | $532,883 | $843,055 | $400,130 | $9,322,334 |
 | H | Dinner/excursion | $11,510 | $47,709 | $75,479 | $35,824 | $834,634 |
 | H | Gaming | $10,286 | $42,634 | $67,449 | $32,013 | $745,843 |
@@ -1317,7 +1317,7 @@ The total society cost for alterations to the existing vessels in the fleet, acc
 
 #### Industry implementation fuel costs for vessel alterations
 
-|   | Vessel type | Annual retrofits w/elev/lift | Elev/lift factor | P.V. year 1 | P.V. year 10 | P.V. year 20 | P.V. year 30 | P.V. year 40 | Total fuel $ |
+|   | Vessel type | Annual retrofits w/elev/lift | Elev/lift factor | P.V. year 1 | P.V. year 10 | P.V. year 20 | P.V. year 30 | P.V. year 40 | Total fuel $ |
 | H | Ferry | 5.58 | 1 | $8,181 | $107,293 | $44,982 | $14,283 | $263 | $1,688,984 |
 | H | Dinner/excursion | 0.60 | 0.5 | $195 | $2,564 | $1,075 | $341 | $6 | $40,358 |
 | H | Gaming | 3.15 | 0 | $0 | $0 | $0 | $0 | $0 | $0 |
@@ -1346,7 +1346,7 @@ The total society cost for alterations to the existing vessels in the fleet, acc
 
 #### Industry implementation maintenance costs for vessel alterations
 
-|   | Vessel type | Units per year w/elev/lift | Unit annual cost | Units per year w/o elev/lift | Unit annual cost | P.V. year 1 | P.V. year 10 | P.V. year 20 | P.V. year 30 | P.V. year 40 | Total type cost |
+|   | Vessel type | Units per year w/elev/lift | Unit annual cost | Units per year w/o elev/lift | Unit annual cost | P.V. year 1 | P.V. year 10 | P.V. year 20 | P.V. year 30 | P.V. year 40 | Total type cost |
 | H | Ferry | 5.58 | $2,000 | 1.40 | $500 | $9,830 | $64,461 | $27,025 | $8,581 | $158 | $1,019,951 |
 | H | Dinner/excursion | 0.60 | $1,500 | 0.20 | $500 | $829 | $5,436 | $2,279 | $724 | $13 | $86,017 |
 | H | Gaming | 3.15 | $2,000 | 1.05 | $500 | $5,658 | $37,103 | $15,555 | $4,939 | $91 | $587,069 |
@@ -1375,7 +1375,7 @@ The total society cost for alterations to the existing vessels in the fleet, acc
 
 #### Industry implementation lost revenue costs for vessel alterations
 
-|   | Vessel | Pop. factor 10 ft^2/pax | Pop. factor 3.75 ft^2/pax | Elev/lift factor | P.V. year 1 | P.V. year 10 | P.V. year 20 | P.V. year 30 | P.V. year 40 | Total per type |
+|   | Vessel | Pop. factor 10 ft^2/pax | Pop. factor 3.75 ft^2/pax | Elev/lift factor | P.V. year 1 | P.V. year 10 | P.V. year 20 | P.V. year 30 | P.V. year 40 | Total per type |
 | H | Ferry | 1.0 | 0.0 | 1.0 | $75,493 | $495,060 | $207,549 | $65,904 | $1,213 | $7,833,225 |
 | H | Dinner/excursion | 1.0 | 0.0 | 0.5 | $5,571 | $36,532 | $15,316 | $4,863 | $90 | $578,037 |
 | H | Gaming | 1.0 | 0.0 | 0.0 | $31,336 | $205,492 | $86,150 | $27,356 | $503 | $3,251,457 |
@@ -1434,7 +1434,7 @@ Table 5-21 (society cost) and 5-22 (business cost) show the categorized summarie
 
 #### Business cost
 
-|   | Vessel type | Capital | Fuel | Maintenance | Revenue | Total |
+|   | Vessel type | Capital | Fuel | Maintenance | Revenue | Total |
 | **H** | **New construction** | $13.5 | $2.6 | $2.0 | NA | **$18.1** |
 | **K** | **New construction** | $34.2 | $22.3 | $6.5 | NA | **$63.0** |
 | **T** | **New construction** | $92.6 | $33.6 | $9.2 | NA | **$135.4** |
@@ -1450,7 +1450,7 @@ Table 5-21 (society cost) and 5-22 (business cost) show the categorized summarie
 
 #### Fleet sector actual costs (1996 $millions)
 
-|   | Vessel type | Capital | Fuel | Maintenance | Revenue | Total |
+|   | Vessel type | Capital | Fuel | Maintenance | Revenue | Total |
 | **H** | **New construction** | $27.6 | $8.9 | $7.1 | $0 | **$43.6** |
 | **K** | **New construction** | $58.2 | $74.4 | $22.7 | $0 | **$155.3** |
 | **T** | **New construction** | $142.9 | $110.4 | $31.1 | $0 | **$284.4** |
@@ -1474,18 +1474,18 @@ This chapter presents dock and pier access solutions. Chapter 7 presents the uni
 
 -   ***Physical barriers to access from land to vessel (Section 6.2)***-- Up to three pathway elements must be considered in the construction of access solutions: the stable approach (land or fixed structure such as a pier), passenger loading platform (dock), and the vessel deck.
 -   ***Constraints on solutions (Section 6.3)***-- The unique dynamic nature of the marine environment imposes cost, reliability, and operations constraints upon the design of access solutions. These must be integrated into the solutions.
--   ***Classification of marine facilities (Section 6.4)--*** The classification matrix will model the facility population by vessel type serviced and hydrographic features.
--   ***Proposed access solutions (Section 6.5)*--** The set of practicable and cost-effective solutions for the population of marine facilities is based upon identified barriers and constraints.
--   ***Incremental costs of proposed access solutions (Section 7.1)*--** Incremental costs, relative to providing non-compliant access, are calculated for each proposed solution.
--   ***Industry implementation cost (Section 7.2)*--** Industry implementation costs are based on the proposed solutions, the estimated number of affected facilities, and logic linking the solutions to the modeled facility population. The population is modeled on limited data; a range of industry costs is, therefore, projected.
+-   ***Classification of marine facilities (Section 6.4)--*** The classification matrix will model the facility population by vessel type serviced and hydrographic features.
+-   ***Proposed access solutions (Section 6.5)*--** The set of practicable and cost-effective solutions for the population of marine facilities is based upon identified barriers and constraints.
+-   ***Incremental costs of proposed access solutions (Section 7.1)*--** Incremental costs, relative to providing non-compliant access, are calculated for each proposed solution.
+-   ***Industry implementation cost (Section 7.2)*--** Industry implementation costs are based on the proposed solutions, the estimated number of affected facilities, and logic linking the solutions to the modeled facility population. The population is modeled on limited data; a range of industry costs is, therefore, projected.
 
 #### 6.2 PHYSICAL BARRIERS TO ACCESS FROM LAND TO VESSEL
 
 Access from shore to vessel involves transit along three path-of-travel elements: stable approach, passenger loading platform, and vessel deck (Figure 6-1). The access barriers result from the intervening differences in height among those elements, whose descriptions follow:
 
--   ***Stable approach--*** The start point of the path of travel, land and/or a fixed pier.
--   ***Passenger loading platform*--** The intermediate component along the path of travel, i.e. a floating dock. This is the most common configuration, but access is sometimes provided directly from the stable approach to the vessel deck.
--   ***Vessel deck*--** The end of the shore facility portion of the path of travel.
+-   ***Stable approach--*** The start point of the path of travel, land and/or a fixed pier.
+-   ***Passenger loading platform*--** The intermediate component along the path of travel, i.e. a floating dock. This is the most common configuration, but access is sometimes provided directly from the stable approach to the vessel deck.
+-   ***Vessel deck*--** The end of the shore facility portion of the path of travel.
 
 #### Figure 6-1
 
@@ -1495,27 +1495,27 @@ Access from shore to vessel involves transit along three path-of-travel elements
 
 The accommodations to overcome the barriers will satisfy a set of "nominal marine conditions", which include tidal or non-tidal height limits of ten and twenty feet, respectively, and the assumption that severe weather is not causing excessive motions. The approach to categorizing shore facilities sorts on this assumed hydrographic condition (yes or no). Combinations of the physical access barriers along the path of travel determine the designs of the proposed access solutions. Description of the barriers follows:
 
--   ***Height difference between the stable approach and the water-*-** The stable approach to a passenger boarding facility is typically high enough above average water level to prevent submergence in all but the most extreme conditions. The height of the stable approach can range from several feet to over 20 feet, and is based on historical data.
--   ***Water level changes*--** All waterfront facilities experience changes in the height of the water relative to the stable approach. Coastal facilities undergo tidal cycles twice daily, with normal ranges from little more than a foot to over twenty feet. Non-tidal (inland) facilities experience water level changes as the result of rain, snowmelt, dam releases, etc., which tend to occur in predictable patterns over time. The changes are less frequent than at tidal facilities, but can be more severe, with normal ranges often in excess of 20 feet. Extreme weather conditions can add considerably to the range at all facilities.
--   ***Height difference between passenger loading platform and the vessel-- ***When a loading platform (dock) is in the pathway between the stable approach and the vessel, the freeboard difference between the dock and the vessel is an access barrier. Because freeboards of docks and vessels vary greatly, there will be widely varied and unique height differences for dock-vessel combinations. This height difference may also vary for a particular dock-vessel pair with loading and weather conditions.
+-   ***Height difference between the stable approach and the water-*-** The stable approach to a passenger boarding facility is typically high enough above average water level to prevent submergence in all but the most extreme conditions. The height of the stable approach can range from several feet to over 20 feet, and is based on historical data.
+-   ***Water level changes*--** All waterfront facilities experience changes in the height of the water relative to the stable approach. Coastal facilities undergo tidal cycles twice daily, with normal ranges from little more than a foot to over twenty feet. Non-tidal (inland) facilities experience water level changes as the result of rain, snowmelt, dam releases, etc., which tend to occur in predictable patterns over time. The changes are less frequent than at tidal facilities, but can be more severe, with normal ranges often in excess of 20 feet. Extreme weather conditions can add considerably to the range at all facilities.
+-   ***Height difference between passenger loading platform and the vessel-- ***When a loading platform (dock) is in the pathway between the stable approach and the vessel, the freeboard difference between the dock and the vessel is an access barrier. Because freeboards of docks and vessels vary greatly, there will be widely varied and unique height differences for dock-vessel combinations. This height difference may also vary for a particular dock-vessel pair with loading and weather conditions.
 
 #### 6.3 MARINE DESIGN REQUIREMENTS FOR ACCESS SOLUTIONS
 
 The following are the unique design constraints imposed by the marine environment for providing access from shore facilities to vessels:
 
--   ***Dynamic nature of the marine environment*--** Shore facilities are exposed to a dynamic marine environment, with the impact of waves, wind, tides, current, and weather. The functional design of access features must account for the resulting loads and motions.
--   ***Changes in height differences*--** Access solutions in the marine environment differ from those on land in that height differences change, over both short and long time frames. Changing height differences drive a unique set of solutions for accessibility.
--   ***Lift and stability requirements of floating structures*--** Excluding fixed piers, access structures are floating components subject to the same static and dynamic effects as vessels. The design of access solutions for docks must take into account lift (weight), heel and trim due to shifting of weight, and the dynamic effects of wind and waves.
--   ***Exposure to harsh weather conditions*--** While any outdoor system for accessibility must be designed and built to withstand the impacts of weather, marine facilities are especially impacted by their environment, i.e. the effects of water, salt and air on durability and reliability.
+-   ***Dynamic nature of the marine environment*--** Shore facilities are exposed to a dynamic marine environment, with the impact of waves, wind, tides, current, and weather. The functional design of access features must account for the resulting loads and motions.
+-   ***Changes in height differences*--** Access solutions in the marine environment differ from those on land in that height differences change, over both short and long time frames. Changing height differences drive a unique set of solutions for accessibility.
+-   ***Lift and stability requirements of floating structures*--** Excluding fixed piers, access structures are floating components subject to the same static and dynamic effects as vessels. The design of access solutions for docks must take into account lift (weight), heel and trim due to shifting of weight, and the dynamic effects of wind and waves.
+-   ***Exposure to harsh weather conditions*--** While any outdoor system for accessibility must be designed and built to withstand the impacts of weather, marine facilities are especially impacted by their environment, i.e. the effects of water, salt and air on durability and reliability.
 
 #### 6.4 CLASSIFICATION OF MARINE FACILITIES
 
 Development of access solutions requires a system for facility classification. The following attributes define shore facilities and result in sixteen facility types as shown in Table 6-1 below:
 
 -   ***Normal range of water height***--The normal range of water height can vary from less than one foot to in excess of 25 feet. Industry's experience has of course been that access with greater height changes is the more difficult. The evidence is that height changes of more than ten feet for tidal facilities and twenty feet for non-tidal facilities are logical breakpoints for characterization, based upon the Army Corps of Engineers Port Series, showing 90-95% of port facilities below that threshold.
--   ***Available water sheet*--** Space limitations are frequently a factor in how easily a facility can be made accessible. Available watersheet, the area over the water available for docks and piers and vessel maneuvering, is often a critical matter and is defined by issues of property ownership and navigable waterways. The breakpoint of 40,000 ft2 was suggested during the Massachusetts negotiated regulation for waterborne transportation access because it provides area for a 100' vessel to turn, a large-scale full access solution, and dock space.
--   ***Scheduled versus unscheduled service*--** From a user perspective, there is generally a greater presumption that scheduled service will be accessible. Although ADA does not specifically make any references to scheduled or unscheduled service, there are several analogous concepts in ADA and other rulemakings.
--   ***Type of vessel using facility*--** The type and size of vessels using a facility relate directly to passenger volumes and the size of a facility to accommodate them. Facility size and passenger volumes are key factors for determining access requirements. As in Chapters 4 and 5, vessel size roughly corresponds to Coast Guard subchapter classifications H/K (large) and T (small).
+-   ***Available water sheet*--** Space limitations are frequently a factor in how easily a facility can be made accessible. Available watersheet, the area over the water available for docks and piers and vessel maneuvering, is often a critical matter and is defined by issues of property ownership and navigable waterways. The breakpoint of 40,000 ft2 was suggested during the Massachusetts negotiated regulation for waterborne transportation access because it provides area for a 100' vessel to turn, a large-scale full access solution, and dock space.
+-   ***Scheduled versus unscheduled service*--** From a user perspective, there is generally a greater presumption that scheduled service will be accessible. Although ADA does not specifically make any references to scheduled or unscheduled service, there are several analogous concepts in ADA and other rulemakings.
+-   ***Type of vessel using facility*--** The type and size of vessels using a facility relate directly to passenger volumes and the size of a facility to accommodate them. Facility size and passenger volumes are key factors for determining access requirements. As in Chapters 4 and 5, vessel size roughly corresponds to Coast Guard subchapter classifications H/K (large) and T (small).
 
 Table 6-1 describes the facilities by service and hydrographic characteristics. Each category is scored with "+" and "-" for tidal height, available watersheet, schedule, and vessel size. "+" scores indicate the need and practicality of full access, while "-" scores indicate less intensive use or greater site-related difficulties. The results are then expressed on a scale from 0 to 4, corresponding to the number of "+" marks received.
 
@@ -1525,15 +1525,15 @@ This categorization is used in the calculation of industry implementation costs,
 
 #### Marine Facilities Matrix
 
-|   | Service Characteristics |
-|   | Scheduled (+)\
+|   | Service Characteristics |
+|   | Scheduled (+)\
 H/K (+) | Scheduled (+)\
 T (-) | Unscheduled (-)\
 H/K (+) | Unscheduled (-)\
 T (-) |
 | **P F** | Water height < 10'/
 
-20' (+) (Note 1), water sheet > 40K ft2 (+) | ++++
+20' (+) (Note 1), water sheet > 40K ft2 (+) | ++++
 
 4 | +++-
 
@@ -1546,7 +1546,7 @@ T (-) |
 
 a s t** | Water height < 10'/
 
-20' (+), water sheet < 40K ft2 (-) | +-++
+20' (+), water sheet < 40K ft2 (-) | +-++
 
 3 | +-+-
 
@@ -1559,7 +1559,7 @@ a s t** | Water height < 10'/
 
 a e** | Water height > 10'/
 
-20' (-), water sheet > 40K ft2 (+) | -+++
+20' (-), water sheet > 40K ft2 (+) | -+++
 
 3 | -++-
 
@@ -1570,7 +1570,7 @@ a e** | Water height > 10'/
 1 |
 | **l s** | Water height > 10'/
 
-20' (-), water sheet < 40K ft2 (-) | --++
+20' (-), water sheet < 40K ft2 (-) | --++
 
 2 | --+-
 
@@ -1590,17 +1590,17 @@ The process for identifying design constraints and developing facility classific
 
 The following four criteria inform the design of proposed shore-to-vessel access solutions:
 
--   ***Broadest possible applicability*--** Access solutions apply to a broad cross section of shore facilities. A limited number are chosen to simplify the process of developing industry-wide costs.
--   ***ADAAG specifications*--** All solutions will satisfy ADAAG ramp specifications for slip-resistant surfaces, handrails, gaps, clearance, and live loads. Non-compliance with ADA slope requirements for transition plates at either end of the gangway would be allowable if properly identified for potential users. Depending on the facility classification, exemptions to ADA slope and length regulations could be acceptable (discussion in Chapter 7).
+-   ***Broadest possible applicability*--** Access solutions apply to a broad cross section of shore facilities. A limited number are chosen to simplify the process of developing industry-wide costs.
+-   ***ADAAG specifications*--** All solutions will satisfy ADAAG ramp specifications for slip-resistant surfaces, handrails, gaps, clearance, and live loads. Non-compliance with ADA slope requirements for transition plates at either end of the gangway would be allowable if properly identified for potential users. Depending on the facility classification, exemptions to ADA slope and length regulations could be acceptable (discussion in Chapter 7).
 -   ***Unassisted access***-- Solutions should provide unassisted access to the vessel.
--   ***Reasonable cost--*** Low installation cost will mean faster compliance. The proposed access solutions defined for this report will not be universally adopted as new engineering approaches will emerge; low cost solutions will, however, be the most likely outcome.
--   ***Low maintenance--*** An access system that is not properly maintained will not provide access for very long.
+-   ***Reasonable cost--*** Low installation cost will mean faster compliance. The proposed access solutions defined for this report will not be universally adopted as new engineering approaches will emerge; low cost solutions will, however, be the most likely outcome.
+-   ***Low maintenance--*** An access system that is not properly maintained will not provide access for very long.
 
 6.5.2 Proposed Solutions
 
 Four components are selected as the basis of unit cost calculations and the cost roll-out.
 
-***COMPONENT 1:* *Either a 60'-80' accessible gangway (1) or a "Double entry" ramp (1a) and twin 30' accessible gangways (1b) from stable approach to passenger loading platform. Double entry means that there are two start points on the land at different heights; one of the start points will require a fixed ramp.***
+***COMPONENT 1:* *Either a 60'-80' accessible gangway (1) or a "Double entry" ramp (1a) and twin 30' accessible gangways (1b) from stable approach to passenger loading platform. Double entry means that there are two start points on the land at different heights; one of the start points will require a fixed ramp.***
 
 ***COMPONENT 2: 120' fixed ramp system (2a) and associated floating platform (2b).***
 
@@ -1648,12 +1648,12 @@ Note that Solutions 4 and 5 are variations on the simplest possible design, incl
 
 Costs for the proposed solutions will be developed with all pertinent safety features and ADAAG specifications in mind. These safety issues may not be readily apparent in examining the proposed solutions, but they were considered in every solution examined:
 
--   ***Information on travel path*-** The path of travel at a marine facility is likely to differ from what someone would encounter on land. As a result, it is critical that information on these differences be made available to all users.
--   ***Guardrails*--** Because of the inherent dangers of accidentally leaving the path of travel at a marine facility, guardrails are critical to insuring passenger safety.
--   ***Edge Treatments/Detectable Warnings*--** Tactile edge treatments and detectable warnings for the sight-impaired are also critical to insuring passenger safety.
--   ***Changes in slopes, heights, materials, etc.-*-** The path of travel from land to vessel is likely to have frequent changes, particularly slopes. For user safety, it is important to identify these at the proper time.
--   ***Non-slip surfaces*--** Most areas at a marine facility will periodically get wet or damp from water spray. The wide use and application of non-slip surfaces is important for passenger safety.
--   ***Assistance-*** - Assistance by crew for all passengers in the marine environment is standard practice due to its dynamic nature. This positive tradition in the industry will be a part of the growing need for access for persons with disabilities.
+-   ***Information on travel path*-** The path of travel at a marine facility is likely to differ from what someone would encounter on land. As a result, it is critical that information on these differences be made available to all users.
+-   ***Guardrails*--** Because of the inherent dangers of accidentally leaving the path of travel at a marine facility, guardrails are critical to insuring passenger safety.
+-   ***Edge Treatments/Detectable Warnings*--** Tactile edge treatments and detectable warnings for the sight-impaired are also critical to insuring passenger safety.
+-   ***Changes in slopes, heights, materials, etc.-*-** The path of travel from land to vessel is likely to have frequent changes, particularly slopes. For user safety, it is important to identify these at the proper time.
+-   ***Non-slip surfaces*--** Most areas at a marine facility will periodically get wet or damp from water spray. The wide use and application of non-slip surfaces is important for passenger safety.
+-   ***Assistance-*** - Assistance by crew for all passengers in the marine environment is standard practice due to its dynamic nature. This positive tradition in the industry will be a part of the growing need for access for persons with disabilities.
 
 * * * * *
 
@@ -1749,8 +1749,8 @@ Only two sources for shore facility data were found, both from U.S. Government a
 
 The port and harbor facility list includes all wharves, piers and docks in the port by category of use. The usage categories include separate listing for vehicular ferries and passenger ferries. There is a separate description of each pier, wharf and dock which includes physical dimensions, owner and operator.
 
--   ***Federal Transit Administration National Waterborne Passenger Transportation Data Base-*-** This data base (abbreviated to NWPTDB) identifies 168 separate ferry systems operating in the United States. Each system is profiled separately. The profile contains information on the ferry system location, number of routes, and vessels operated. The NWPTDB covers those ferry lines and associated facilities that responded to the original questionnaire. The passenger fleet data development in para. 4.3.3 indicates that this survey gives excellent coverage of the national ferry fleet and its shore facilities.
--   ***Field data*--** The practicability of the six access scenarios was confirmed by trips to a representative range of shore facilities in New England, San Francisco Bay, Chicago, Cincinnati, New York City, Oregon, and Cape May, New Jersey. The number of vessels at each facility was also observed for the purpose of calculating facility/vessel ratios. Figure 7-1 is an example of a multi-berth facility servicing multiple vessels. Detailed site visit results are in Appendix E (Figure E-1).
+-   ***Federal Transit Administration National Waterborne Passenger Transportation Data Base-*-** This data base (abbreviated to NWPTDB) identifies 168 separate ferry systems operating in the United States. Each system is profiled separately. The profile contains information on the ferry system location, number of routes, and vessels operated. The NWPTDB covers those ferry lines and associated facilities that responded to the original questionnaire. The passenger fleet data development in para. 4.3.3 indicates that this survey gives excellent coverage of the national ferry fleet and its shore facilities.
+-   ***Field data*--** The practicability of the six access scenarios was confirmed by trips to a representative range of shore facilities in New England, San Francisco Bay, Chicago, Cincinnati, New York City, Oregon, and Cape May, New Jersey. The number of vessels at each facility was also observed for the purpose of calculating facility/vessel ratios. Figure 7-1 is an example of a multi-berth facility servicing multiple vessels. Detailed site visit results are in Appendix E (Figure E-1).
 
 #### Figure 7-1
 
@@ -1820,7 +1820,7 @@ The "raw total" values come from the detailed industry implementation cost sheet
 
 #### Societal costs
 
-|   | Raw Total | Raw annual | PV 1 | PV 5 | PV 10 | PV 20 | PV 30 | PV 40 | PV Total |
+|   | Raw Total | Raw annual | PV 1 | PV 5 | PV 10 | PV 20 | PV 30 | PV 40 | PV Total |
 | Ferry low | $14.94 | $0.37 | $0.32 | $0.27 | $0.21 | $0.13 | $0.08 | $0.05 | **$6.00** |
 | Ferry medium | $24.95 | $0.62 | $0.54 | $0.45 | $0.36 | $0.22 | $0.14 | $0.09 | **$10.02** |
 | Ferry high | $34.97 | $0.87 | $0.76 | $0.63 | $0.50 | $0.31 | $0.20 | $0.12 | **$14.04** |
@@ -1842,7 +1842,7 @@ The costs in Table 7-5 and 7-6 may be apportioned along the lines of vessel size
 
 #### Business costs, amortized
 
-|   | Raw Total | Raw annual | PV 5 | PV 10 | PV 20 | PV 30 | PV 40 | PV 50 | PV Total |
+|   | Raw Total | Raw annual | PV 5 | PV 10 | PV 20 | PV 30 | PV 40 | PV 50 | PV Total |
 | Ferry low | $14.94 | $0.37 | $0.20 | $0.32 | $0.20 | $0.12 | $0.08 | $0.00 | **$7.33** |
 | Ferry medium | $24.95 | $0.62 | $0.33 | $0.53 | $0.33 | $0.21 | $0.13 | $0.01 | **$12.25** |
 | Ferry high | $34.97 | $0.87 | $0.47 | $0.74 | $0.46 | $0.29 | $0.18 | $0.01 | **$17.16** |
@@ -1892,8 +1892,8 @@ Table 8-1 summarizes the costs that would be incurred by the sample businesses. 
 #### Operator scenario costs
 
 |  | Boat 1 | Boat 2 | Dock | TOTAL |
-|  |  | Capital $ | Oper. $ |   | Capital $ | Oper. $ |  | Capital $ |  |  |  |
-|   | Description | Raw '95 $ | 10-yr. APV | 30-yr. PV | Description | Raw '95 $ | 10-yr.APV | 30-yr. PV | Description | Raw '95 $ | 10-yr.APV |   |
+|  |  | Capital $ | Oper. $ |   | Capital $ | Oper. $ |  | Capital $ |  |  |  |
+|   | Description | Raw '95 $ | 10-yr. APV | 30-yr. PV | Description | Raw '95 $ | 10-yr.APV | 30-yr. PV | Description | Raw '95 $ | 10-yr.APV |   |
 | 1 | Alteration 2005 | $102,000 | $73,832 | $352,226 | Newbuild 2010 | $88,250 | $50,530 | $72,950 | Replace 2010 | $138,300 | $79,188 | **$628,725** |
 | 2 | Alteration 2000 | $87,500 | $80,067 | $422,877 | Newbuild 2010 | $89,500 | $51,246 | $150,469 | Replace 2005 | $113,700 | $82,300 | **$786,959** |
 | 3 | Newbuild 2005 | $12,000 | $8,686 | $4,834 | NA | $0 | $0 | $0 | Replace 2010 | $12,700 | $7,272 | **$20,791** |
@@ -1938,7 +1938,7 @@ Elevator access was modeled as for retrofit to existing vessels, due to constrai
 -   All vessels are assumed to operate in "partially protected" waters. Instances of failure to comply with the weather criterion resulted in a second iteration at the more benign "protected" standard.
 -   Weather criterion compliance is checked for four conditions: departure, fully loaded, with and without the elevator; and arrival, with stores and liquids "burned out", with and without the elevator. Wind heeling moments are per the calculations of ref. 19.
 -   Required metacentric heights for passenger crowding in the intact conditions are calculated directly from the Coast Guard formula and compared directly to found values in the critical condition: arrival, with elevator. At arrival, the vessel's center of gravity is highest and its stability is consequently the least robust.
--   Damage stability is checked for the critical condition only: arrival, with installed elevator. Passenger crowding heel moment is the critical requirement19 and is the only criterion checked.
+-   Damage stability is checked for the critical condition only: arrival, with installed elevator. Passenger crowding heel moment is the critical requirement19 and is the only criterion checked.
 
 #### 9.3 RESULTS
 
@@ -1967,7 +1967,7 @@ This calculation requires a minimum metacentric height, found formulaically and 
 
 #### Compliance with 46 CFR 171.050
 
-| Vessel | Passenger capacity | Req'd. GMt (ft) | Attained GMt (ft) |
+| Vessel | Passenger capacity | Req'd. GMt (ft) | Attained GMt (ft) |
 | 80' shuttle boat | 200 | 2.21 | 7.90 |
 | 91' excursion (ex-crew) boat | 250 | 2.91 | 2.69 |
 | 105' dinner boat | 600 | 3.35 | 16.50 |
@@ -2027,13 +2027,13 @@ The research for this project has identified an array of questions specific to t
 The following are brief descriptions of ADA and other regulatory provisions as they have been applied to transportation modes and how they might be pertinent for marine access. A broader and more detailed discussion is provided in Appendix G.
 
 -   **Air Carriers Access Act (ACAA)**-- The Act is significant for marine passenger service because it 1) recognized situations in which carriers and loading facilities are differently owned, requiring provision of access by all stakeholders, and 2) permitted different access treatments for different sizes of airplanes.
--   **Railroad access--** Precedents in this mode are probably analogous to marine public transport assets such as ferries, but not excursion and other leisure vessels. One level of access on two-level commuter and dining cars is acceptable, as is "one car per train" access.
--   **Undue burden--** Transportation providers may not claim undue burden relief when acquiring new or remanufactured vehicles.
--   **Elevator exemption--** Some private entities are exempted if the building is less than 3 stories or 3000 ft2 per story. Transportation facilities, among others, cannot be exempted, indicating the importance placed by Congress on transportation access. There is an analogy, if not exact, to public accommodation passenger vessels, depending on the cost and technical issues acknowledged by the regulation.
--   **New construction--** Access must be provided unless it is technically infeasible, for which the standards are very high (cost is generally not a factor). The solutions proposed herein generally follow this guideline, i.e., they assume feasibility of providing access. There is flexibility for installing elevators, depending on size and service of the vessel.
--   **Alterations--** Alterations must generally meet the new construction standards "to the maximum extent feasible", based on technical, not cost, considerations. ATBCB and DOJ have consistently ruled that adding elevators is not required. No vessel alteration requires more than proposed solution "Access 2", and that only for large public accommodation vessels, only in cases where needed to provide full services. Technical feasibility of access accommodations, especially elevators, will be more problematic than for new construction.
--   **Small vehicles-- **Surface vehicles carrying less than 16 people are not required to have lifts or ramped access. For this reason, we have excepted water taxis and crew boats (forms of public transport) from the study.
--   **Fundamental nature--** ADA states that accessible accommodations are not required in cases where they would alter the "fundamental nature" of the business or activity. An example in the marine environment would be handrails around a dock where boats tie up. Other such exceptions are not contemplated in this study, but may indeed be argued by some operators after implementation.
+-   **Railroad access--** Precedents in this mode are probably analogous to marine public transport assets such as ferries, but not excursion and other leisure vessels. One level of access on two-level commuter and dining cars is acceptable, as is "one car per train" access.
+-   **Undue burden--** Transportation providers may not claim undue burden relief when acquiring new or remanufactured vehicles.
+-   **Elevator exemption--** Some private entities are exempted if the building is less than 3 stories or 3000 ft2 per story. Transportation facilities, among others, cannot be exempted, indicating the importance placed by Congress on transportation access. There is an analogy, if not exact, to public accommodation passenger vessels, depending on the cost and technical issues acknowledged by the regulation.
+-   **New construction--** Access must be provided unless it is technically infeasible, for which the standards are very high (cost is generally not a factor). The solutions proposed herein generally follow this guideline, i.e., they assume feasibility of providing access. There is flexibility for installing elevators, depending on size and service of the vessel.
+-   **Alterations--** Alterations must generally meet the new construction standards "to the maximum extent feasible", based on technical, not cost, considerations. ATBCB and DOJ have consistently ruled that adding elevators is not required. No vessel alteration requires more than proposed solution "Access 2", and that only for large public accommodation vessels, only in cases where needed to provide full services. Technical feasibility of access accommodations, especially elevators, will be more problematic than for new construction.
+-   **Small vehicles-- **Surface vehicles carrying less than 16 people are not required to have lifts or ramped access. For this reason, we have excepted water taxis and crew boats (forms of public transport) from the study.
+-   **Fundamental nature--** ADA states that accessible accommodations are not required in cases where they would alter the "fundamental nature" of the business or activity. An example in the marine environment would be handrails around a dock where boats tie up. Other such exceptions are not contemplated in this study, but may indeed be argued by some operators after implementation.
 
 #### 10.3 ADDITIONAL DATA NEEDS
 
@@ -2074,12 +2074,12 @@ The completed and planned work on the passenger vessel access cost study can be 
 
 This study has advanced the knowledge of watercraft access but also served to identify several areas where more work is needed to fully understand implementation of ADA. They are the following:
 
--   **Integration of access features with safety design as required by the Coast Guard.** More research involving industry, access advocates, and the Coast Guard will lead to a comprehensive and detailed treatment of access on passenger vessels. Particular attention must be given to alternative elevator design, practicability of lifts, head design (particularly for state rooms), the details of sill/ramp design, several ADAAG/Coast Guard (Title 46 CFR) harmonization issues, and generally how to craft the standards for the variety of vessel types affected.
--   **Investigation of unusual vessel types.** The Department's decision making must include passenger vessels not specifically covered herein, including passenger sailing vessels and the emerging new class of passenger submarines. Additional work may be needed to determine the potential impact on vessels beyond the scope of this study, such as state regulated craft, small boats carrying less than six passengers, and cargo vessels carrying passengers for hire.
--   **Cruise ships.** The legal issue of extra-territorial jurisdiction of the United States in the matter of internationally flagged cruise ships operating from U.S. shores has so far prevented field work in that industry. Future research on the provision and impact of access may be needed if a legal understanding is achieved with the cruise lines.
--   **Dock and pier access.** Further investigation to improve knowledge of mobility solutions and to build a more reliable industry data base would lead to more accurate cost estimates and a better technical basis on which to build access requirements.
+-   **Integration of access features with safety design as required by the Coast Guard.** More research involving industry, access advocates, and the Coast Guard will lead to a comprehensive and detailed treatment of access on passenger vessels. Particular attention must be given to alternative elevator design, practicability of lifts, head design (particularly for state rooms), the details of sill/ramp design, several ADAAG/Coast Guard (Title 46 CFR) harmonization issues, and generally how to craft the standards for the variety of vessel types affected.
+-   **Investigation of unusual vessel types.** The Department's decision making must include passenger vessels not specifically covered herein, including passenger sailing vessels and the emerging new class of passenger submarines. Additional work may be needed to determine the potential impact on vessels beyond the scope of this study, such as state regulated craft, small boats carrying less than six passengers, and cargo vessels carrying passengers for hire.
+-   **Cruise ships.** The legal issue of extra-territorial jurisdiction of the United States in the matter of internationally flagged cruise ships operating from U.S. shores has so far prevented field work in that industry. Future research on the provision and impact of access may be needed if a legal understanding is achieved with the cruise lines.
+-   **Dock and pier access.** Further investigation to improve knowledge of mobility solutions and to build a more reliable industry data base would lead to more accurate cost estimates and a better technical basis on which to build access requirements.
 -   **New technology.**Both government and industry must be aware of the possibilities offered by innovative solutions to access problems in the marine environment. A technology assessment would identify promising new approaches, e.g., in lift equipment and evacuation and lifesaving appliances.
--   **Documentation.** Two documents would be very helpful for Government and industry: a "best practice" guide for onboard access features and a training manual for emergency situations.
+-   **Documentation.** Two documents would be very helpful for Government and industry: a "best practice" guide for onboard access features and a training manual for emergency situations.
 
 * * * * *
 

@@ -174,9 +174,9 @@ Southwest General Health Center |
 Southwest General Health Center (SWGHC)\
 Middleburg Heights, OH
 
-| INITIATED | DISCONTINUED |   |
+| INITIATED | DISCONTINUED |   |
 | Date | Date | SOUTHWEST GENERAL HEALTH CENTER |
-| Time | Time |   |
+| Time | Time |   |
 | RN | RN | NURSING SERVICES |
 
 MULTIPLE CHEMICAL SENSITIVITY (MCS) PROTOCOL
@@ -186,14 +186,14 @@ MULTIPLE CHEMICAL SENSITIVITY (MCS) PROTOCOL
 | SUPPORTIVE DATA: | MCS is an acquired chronic disorder characterized by recurrent symptoms occurring in response to low levels of exposure to multiple unrelated chemicals. The symptoms generally occur in one of four categories: central nervous system, circulatory, respiratory and mucous irritation or metabolic that would include enzymes, blood, kidneys, GI tract, etc.. Patient with a history of maladaptive reactions to chemicals found in perfumes pesticides, detergents, household cleaners, etc. may have or develop multiple chemical sensitivities. Approximately 75% of those affected are women, possibly due to endocrine disruption. People in their 30s and 40s are most strongly affected as well as children and others who are more susceptible to the effects of pesticides and products containing toxic chemicals. The population most strongly identified with this condition include: industrial workers, teachers, nurses, sick building occupants and those living in chemically contaminated communities. Refer to Latex Sensitivity/Allergy Protocol and Hospital Policy #742 Multiple Chemical Sensitivity (MCS) Patient. |
 | CONTENT: | 1. | Identify individuals at risk on admission in Emergency Room or Admitting. |
 | Prior to Admission | 2. | Assign the patient to private room. |
-|   | 3. | Contact CSR for free tote (or nursing supervisor during night shift). |
-|   | 4. | Notify Environmental Services, Central Sterile, Pharmacy, Nutritional Services, and SSA of MCS patient admission. |
+|   | 3. | Contact CSR for free tote (or nursing supervisor during night shift). |
+|   | 4. | Notify Environmental Services, Central Sterile, Pharmacy, Nutritional Services, and SSA of MCS patient admission. |
 | Admission Assessment | 5. | Assess all patients on admission for allergies and maladaptive reactions. |
-|   | 6. | Place green allergy band on patient; mark Multiple Chemical Sensitivity (MCS). |
-|   | 7. | Place sign on patient's door stating: "Check at the nurses station before entering patient's room." |
-|   | 8. | Enter Multiple Chemical Sensitivity on all the orders sent in Cerner in Comments Box. |
-|   | 9. | Observe patient for following symptoms. |
-|   |
+|   | 6. | Place green allergy band on patient; mark Multiple Chemical Sensitivity (MCS). |
+|   | 7. | Place sign on patient's door stating: "Check at the nurses station before entering patient's room." |
+|   | 8. | Enter Multiple Chemical Sensitivity on all the orders sent in Cerner in Comments Box. |
+|   | 9. | Observe patient for following symptoms. |
+|   |
 
 -   Fatigue
 -   Memory loss
@@ -229,33 +229,33 @@ MULTIPLE CHEMICAL SENSITIVITY (MCS) PROTOCOL
 -   Salivation (usually from pesticides)
 
  |
-|   | 10. | Refer to Latex Sensitivity/Allergy Protocol |
+|   | 10. | Refer to Latex Sensitivity/Allergy Protocol |
 | Patient Care | 11. | Report signs and symptoms exhibited by patient to physician. |
-|   | 12. | Obtain physician order for a special diet. |
-|   | 13. | Encourage patient to select their own menu. |
-|   | 14. | Allow patient to supply his/her own tolerated food products and dietary supplements. |
-|   | 15. | Retain patients dietary requirements in the patient's medical record for future reference. |
-|   | 16. | Encourage use of personal respirator and other protection methods while in Health Care Center. |
+|   | 12. | Obtain physician order for a special diet. |
+|   | 13. | Encourage patient to select their own menu. |
+|   | 14. | Allow patient to supply his/her own tolerated food products and dietary supplements. |
+|   | 15. | Retain patients dietary requirements in the patient's medical record for future reference. |
+|   | 16. | Encourage use of personal respirator and other protection methods while in Health Care Center. |
 | Patient Safety | 17. | Reinforce all hospital employees and visitors to check with patient's nurse prior to entering patient's room. |
-|   | 18. | Maintain patient isolation from other patients and their visitors at all times. |
-|   | 19. | Transport patient with R-95 mask or personal respirator. |
-|   | 20. | Refrain staff caring for patient from wearing perfumes, scented lotions, hair spray, deodorants or other scented products. |
-|   | 21. | Educate hospital staff to wash their hands with unscented soap. |
-|   | 22. | -Apply- hypo-allergenic, non-latex gloves prior to entering the room. |
-|   | 23. | Instruct patient's family not to bring plants or flowers to the patient's room. |
-|   | 24. | Restrict newspaper in patient's room. |
+|   | 18. | Maintain patient isolation from other patients and their visitors at all times. |
+|   | 19. | Transport patient with R-95 mask or personal respirator. |
+|   | 20. | Refrain staff caring for patient from wearing perfumes, scented lotions, hair spray, deodorants or other scented products. |
+|   | 21. | Educate hospital staff to wash their hands with unscented soap. |
+|   | 22. | -Apply- hypo-allergenic, non-latex gloves prior to entering the room. |
+|   | 23. | Instruct patient's family not to bring plants or flowers to the patient's room. |
+|   | 24. | Restrict newspaper in patient's room. |
 | Patient Education | 25. | Discuss with patient/family Multiple Chemical Sensitivity if newly diagnosed patient. |
-|   | 26. | Reassure the patient with understanding of their chemically sensitive condition. |
-|   | 27. | Refer patient to Social Services to provide list of Community Services. |
+|   | 26. | Reassure the patient with understanding of their chemically sensitive condition. |
+|   | 27. | Refer patient to Social Services to provide list of Community Services. |
 | Documentation | 28. | Document Multiple Chemical Sensitivity in the patient's medical record, in the front of the chart, medication record and computer system. |
-|   | 29. | Record implementation/modification/discontinuation of protocols. |
-|   | 30. | Document vital signs and assessment findings on appropriate flow sheet. |
-|   | 31. | Document evaluative statement of the patient's response to interventions and lack of complications. |
+|   | 29. | Record implementation/modification/discontinuation of protocols. |
+|   | 30. | Document vital signs and assessment findings on appropriate flow sheet. |
+|   | 31. | Document evaluative statement of the patient's response to interventions and lack of complications. |
 | Emergency Interventions | 32. | If known, remove the offending object or person from patient's room. |
-|   | 33. | If necessary, remove patient from room to fresh air outside the building. |
-|   | 34. | Utilize charcoal and baking soda to absorb and remove odors from the room. Open windows if possible. |
-|   | 35. | Refer to patient's personal emergency protocol for reducing and diluting chemical reactions (water, food, baking soda, tri-salts, etc.) |
-|   | 36. | Communicate and cooperate with the patient whenever possible as the patient generally knows what will help. |
+|   | 33. | If necessary, remove patient from room to fresh air outside the building. |
+|   | 34. | Utilize charcoal and baking soda to absorb and remove odors from the room. Open windows if possible. |
+|   | 35. | Refer to patient's personal emergency protocol for reducing and diluting chemical reactions (water, food, baking soda, tri-salts, etc.) |
+|   | 36. | Communicate and cooperate with the patient whenever possible as the patient generally knows what will help. |
 
 REFERENCES
 

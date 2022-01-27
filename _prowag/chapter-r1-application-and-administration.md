@@ -101,7 +101,7 @@ The portions of the Manual on Uniform Traffic Control
 Devices for Streets and Highways (MUTCD), 2009 Edition, that are
 incorporated by reference in this document consist of definitions (see
 R105.2) and standard statements, as defined in section 1A.13 of the
-MUTCD (see R205, R209, and R306.3).  Guidance, option, and support
+MUTCD (see R205, R209, and R306.3).  Guidance, option, and support
 statements, as defined in section 1A.13 of the MUTCD, shall be used to
 assist in the interpretation of the standard statements. Where there are
 differences between this document and the referenced standards, this
@@ -192,7 +192,7 @@ right-of-way.
 *Public Right-of-Way*
 : Public land acquired for or dedicated to transportation purposes, or other land where there is a legally established right for use by the public for transportation purposes.
 
-*Qualified Historic Facility* 
+*Qualified Historic Facility* 
 : A facility that is listed in or eligible for listing in the National Register of Historic Places, or designated as historic under an appropriate state or local law.
 
 *Running Slope*
@@ -201,5 +201,5 @@ right-of-way.
 *Shared Use Path*
 : A multi-use path designed primarily for use by bicyclists and pedestrians, including pedestrians with disabilities, for transportation and recreation purposes. Shared use paths are physically separated from motor vehicle traffic by an open space or barrier, and are either within the highway right-of-way or within an independent right-of-way.
 
-*Vertical Surface Discontinuities* 
+*Vertical Surface Discontinuities* 
 : Vertical differences in level between two adjacent surfaces.

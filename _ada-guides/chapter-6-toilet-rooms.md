@@ -6,9 +6,10 @@ file-description: PDF version of Chapter 6 Toilet Rooms Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-6-toilet-rooms/
 ---
+This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for
+toilet rooms. 
 
-This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for
-toilet rooms. 
+{% include sr-dimension-markings.html %}
 
 ### Required Compliance
 
@@ -77,7 +78,7 @@ specified requirements that provide substantially equivalent or greater
 accessibility and usability. This means that the alternative solution is
 just as, if not more, effective than what is required by the Standards
 in terms of accessibility, usability, convenience, and reliability for
-people with disabilities. 
+people with disabilities. 
 
 <div class="border padding-1" markdown="1" style="background-color: #e2e1ef;">
 #### Toilet Room Location
@@ -110,7 +111,7 @@ room are altered, only those elements altered must comply. If a room or
 space is completely altered (or built new as part of an alteration), the
 entire room or space must comply.
 
- ![Restroom with water closet and mirror above lavatory highlighted]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/5.jpg){: .img-large}
+ ![Restroom with water closet and mirror above lavatory highlighted]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/5.jpg){: .img-large}
 
 <div class="margin-left-8 margin-right-8 text-center" markdown="1">
 _In a project involving alterations to the toilet, grab bars, faucet controls, and mirror in a restroom, the Standards apply to these elements but not to those that remain unaltered. In more extensive projects where additional elements are altered, application of the Standards is greater, commensurate with the scope of work._
@@ -171,7 +172,7 @@ regardless of the number of toilet rooms altered or added (§213.2, Ex.
 2).
 
 <div class="border margin-left-8 margin-right-8 text-center" markdown="1" style="background-color: #e2e1ef;">
-  This guide notes some provisions in the International Building Code (IBC) and the *ICC A117.1 Standards for Accessible and Usable Buildings and Facilities* that are not found in the ADA Standards. For example, the A117.1 standard, which provides technical provisions and is referenced by the IBC, requires a vertical grab bar at water closets. Not all differences between the ADA Standards and editions of the IBC and A117.1 standard are noted in this guide. 
+  This guide notes some provisions in the International Building Code (IBC) and the *ICC A117.1 Standards for Accessible and Usable Buildings and Facilities* that are not found in the ADA Standards. For example, the A117.1 standard, which provides technical provisions and is referenced by the IBC, requires a vertical grab bar at water closets. Not all differences between the ADA Standards and editions of the IBC and A117.1 standard are noted in this guide. 
 </div>
 
 ###  Components of Accessible Single User Toilet Room
@@ -184,7 +185,7 @@ elements provided.Other provisions in the Standards also apply.
 Toilet Paper Dispenser (§604.7), Lavatory (§213.3.4) where provided,
 Mirror (§213.3.5) where provided, Coat Hooks and Shelves (§213.3.7) at
 least 1 of each type where provided, Dispensers and Receptacles (§205)
-where provided, Turning Space (§603.2.1) 60" diameter circle or
+where provided, Turning Space (§603.2.1) 60 inches diameter circle or
 T-turn.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/7.png){: .img-large}
 
 #### Urinals (§213.3.3)
@@ -209,7 +210,7 @@ either a left-hand or right-hand approach.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col" style="width: 70%;">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/9.png" alt="Water closet (plan view) with centerline 16 inches - 18 inches from side wall and clearance 60 inches wide min. by 56 inches deep min. Note: specifying 17 inches will accommodate construction variations up to 1 inch">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/9.png" alt="Water closet (plan view) with centerline 16 inches to 18 inches from side wall and clearance 60 inches wide minimum by 56 inches deep minimum. Note: specifying 17 inches will accommodate construction variations up to 1 inch">
     </div>
     <div class="tablet:grid-col">
        <span class="text-italic">The required clearance provides space for approach and transfer to water closets. The water closet, associated grab bars, toilet paper dispensers, seat cover and other dispensers, coat hooks, shelves, and sanitary napkin disposal units are the only elements that can overlap this clearance (§604.3.2). Other elements and fixtures cannot overlap the required water closet clearance. (In residential dwelling units, a lavatory can overlap a portion of the water closet clearance under certain conditions.)</span>
@@ -217,7 +218,7 @@ either a left-hand or right-hand approach.
   </div>
 </div>
 
-![Water closet (elevation) with seat 17\" 19\" high measured to the top
+![Water closet (elevation) with seat 17 inches 19 inches high measured to the top
 of the seat. Notes: Flush controls must be on the open side and, if
 hand-operated, comply as operable parts). Seats cannot be sprung to
 return to lifted
@@ -241,11 +242,11 @@ the bar, the length is measured to the end of the bar.
   <div class="grid-row">
     <div class="tablet:grid-col">
       <span class="grid-line bold">Rear Grab Bar</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/11.png" alt="Water closet (elevation) with rear grab bar 36 inches long min. that extends 12 inches min. on one side of the water closet centerline and 24 inches on the other side; grab bar is 33 inches - 36 inches high measured to the top of the gripping surface.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/11.png" alt="Water closet (elevation) with rear grab bar 36 inches long minimum that extends 12 inches minimum on one side of the water closet centerline and 24 inches on the other side; grab bar is 33 inches to 36 inches high measured to the top of the gripping surface.">
     </div>
     <div class="tablet:grid-col">
       <span class="grid-line bold">Side Grab Bar</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/12.png" alt="Water closet (elevation) with side grab bar 42 long min. that is 12 inches max. from the rear wall and extends 54 inches min. in front of the water closet; the grab bar is 33 inches - 36 inches high measured to the top of the gripping surface.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/12.png" alt="Water closet (elevation) with side grab bar 42 long minimum that is 12 inches maximum from the rear wall and extends 54 inches minimum in front of the water closet; the grab bar is 33 inches to 36 inches high measured to the top of the gripping surface.">
     </div>
   </div>
 </div>
@@ -266,7 +267,7 @@ location of flush control">
 
 Grab bars and wall or other surfaces adjacent to them must be free of
 abrasive or sharp elements. Any projecting object must be located at
-least 12\" above grab bars and at least 1½\" from the bottom and ends of
+least 12&Prime; above grab bars and at least 1½&Prime; from the bottom and ends of
 grab bars so that the reach and use of grab bars is not impeded.
 
 #### Minimum Clearances at Grab Bars
@@ -274,7 +275,7 @@ grab bars so that the reach and use of grab bars is not impeded.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/15.png" alt="Clearance at side grab bar shown to extend 12 inches min above the bar and 1 1/2 inches min. from the ends and bottom of the bar">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/15.png" alt="Clearance at side grab bar shown to extend 12 inches minimum above the bar and 1 1/2 inches minimum from the ends and bottom of the bar">
     </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/16.jpg" alt="Hand shown gripping side grab bar">
@@ -283,7 +284,7 @@ grab bars so that the reach and use of grab bars is not impeded.
 </div>
 
 Grab bars can have circular or non-circular cross-sections but must have
-rounded edges. The 1½\" clearance between the grab bar and wall is not a
+rounded edges. The 1½&Prime; clearance between the grab bar and wall is not a
 minimum but an absolute dimension to prevent entrapment. Grab bars
 cannot rotate within fittings. The structural strength of grab bars must
 withstand a vertical or horizontal force of 250 lbs. at any point on the
@@ -294,10 +295,10 @@ grab bar, fastener, mounting device, or supporting structure.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/17.png" alt="Grab bar with a circular cross section 1 1/4 inches - 2 inches in diameter and a clearance from the wall 1 1/2 inches">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/17.png" alt="Grab bar with a circular cross section 1 1/4 inches to 2 inches in diameter and a clearance from the wall 1 1/2 inches">
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/18.png" alt="Grab bar with non-circular cross section with rounded edges and a perimeter dimension 4 inches - 4.8 inhces, a max. cross-section dimension of 2 inches, and a clearance 1 1/2 inches from the wall">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/18.png" alt="Grab bar with non-circular cross section with rounded edges and a perimeter dimension 4 inches to 4.8 inhces, a maximum cross-section dimension of 2 inches, and a clearance 1 1/2 inches from the wall">
     </div>
   </div>
 </div>
@@ -312,7 +313,7 @@ by the Standards).
 <div class="border clearfix padding-1">
 {% include grid-2col-lefttextboldstd-rightimg.html
 text-title="Vertical Grab Bar (ICC A117.1 Standard)"
-text= "The <span class=\"text-italic\">ICC A117.1 Standard for Accessible and Usable Buildings and Facilities</span>, which is referenced by the International Building Code, requires an 18\" min. vertical grab bar at water closets. The ADA Standards do not require this grab bar but allow a second grab bar to be within the 12\" clearance above the horizontal grab bar (§609.3) if there is a separation of 1½\" min."
+text= "The <span class=\"text-italic\">ICC A117.1 Standard for Accessible and Usable Buildings and Facilities</span>, which is referenced by the International Building Code, requires an 18&Prime; minimum vertical grab bar at water closets. The ADA Standards do not require this grab bar but allow a second grab bar to be within the 12&Prime; clearance above the horizontal grab bar (§609.3) if there is a separation of 1½&Prime; minimum"
 img-file= "chapter6/toilet-rooms/19.jpg"
 img-alt= "water closet with vertical grab bar above the horizontal side grab bar"
 %}
@@ -329,8 +330,8 @@ dispenser]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/20.
 Toilet paper dispensers must be within accessible reach
 from the water closet. They can be located below or above (but not
 behind) grab bars, though it is important that non-recessed dispensers
-be outside the 12\" minimum high clearance above the bar yet not exceed
-the 48\" maximum height (measured to the outlet) of the dispenser.
+be outside the 12&Prime; minimum high clearance above the bar yet not exceed
+the 48&Prime; maximum height (measured to the outlet) of the dispenser.
 Dispensers must allow continuous paper flow and cannot control delivery.
 </div>
 
@@ -345,21 +346,21 @@ text= "Recessed toilet paper dispensers provide better access by keeping space a
 
 #### Recessed Dispenser Location
 
-![Recessed toilet paper dispenser location 15\" - 48\" above the floor
-(measured to dispenser outlet) and dispenser centerline 7\" - 9\" beyond
+![Recessed toilet paper dispenser location 15 inches to 48 inches above the floor
+(measured to dispenser outlet) and dispenser centerline 7 inches to 9 inches beyond
 leading edge of water closet]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/22.png){: .img-large}
 
 #### Non-Recessed Dispenser Location
 
-![Non-recessed toilet paper dispenser location 15\" min. high and 1
-1/2\" min. below the grab bar and 12\" min. above the grab bar and 48\"
-high, measured to the outlet; centerline 7\" - 9\" beyond leading edge
+![Non-recessed toilet paper dispenser location 15 inches minimum high and 1
+1/2 inches minimum below the grab bar and 12 inches minimum above the grab bar and 48 inches
+high, measured to the outlet; centerline 7 inches to 9 inches beyond leading edge
 of water closet]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/23.png){: .img-large}
 
 <div class="margin-left-8 margin-right-8 text-center" markdown="1">
-_If the grab bar is 36\" high, a non-recessed toilet paper dispenser
-located above the bar must have an outlet at exactly 48\" high to
-accommodate both the max. reach height and the 12\" min. clearance above
+_If the grab bar is 36&Prime; high, a non-recessed toilet paper dispenser
+located above the bar must have an outlet at exactly 48&Prime; high to
+accommodate both the maximum reach height and the 12&Prime; minimum clearance above
 the grab bar._
 </div>
 
@@ -383,12 +384,12 @@ toilet rooms will enhance usability.
   <div class="grid-row">
     <div class="tablet:grid-col">
       <span class="grid-line bold">Water Closet Clearance</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/24.png" alt="Water closet in corner with clearance 60 inches wide min. and 56 inches min. deep">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/24.png" alt="Water closet in corner with clearance 60 inches wide minimum and 56 inches minimum deep">
       <span class="grid-line text-italic">Water closets can be placed in any corner.</span>
     </div>
     <div class="tablet:grid-col">
       <span class="grid-line bold">Lavatory Clearance</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/25.png" alt="Water closet with lavatory next to it. Lavatory has clear floor space 30 inches min. by 48 inches for a forward approach. The lavatory does not overlap the water closet clearance, but a portion of the lavatory clearance does.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/25.png" alt="Water closet with lavatory next to it. Lavatory has clear floor space 30 inches minimum by 48 inches for a forward approach. The lavatory does not overlap the water closet clearance, but a portion of the lavatory clearance does.">
       <span class="grid-line text-italic">The lavatory cannot overlap the water closet clearance (except in residential dwelling units), but the clearance at the lavatory can. It is advisable (but not required) to nominally center the lavatory on the clear floor space. </span>
     </div>
   </div>
@@ -399,8 +400,8 @@ toilet rooms will enhance usability.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/26.png" alt="Lavatory recessed next to water closet to be located outside the water closet clearance. Rear grab bar at water closet 24">
-      <span class="grid-line text-italic">If a lavatory or other fixture is recessed next to a water closet, the rear grab bar can be 24" (instead of 36") long minimum, centered on the unit if wall space does not allow a grab bar 36" long min. (§604.5.2).</span>
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/26.png" alt="Lavatory recessed next to water closet to be located outside the water closet clearance. Rear grab bar at water closet 24 inches">
+      <span class="grid-line text-italic">If a lavatory or other fixture is recessed next to a water closet, the rear grab bar can be 24&Prime; (instead of 36&Prime;) long minimum, centered on the unit if wall space does not allow a grab bar 36&Prime; long minimum (§604.5.2).</span>
     </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/27.png" alt="Two single-user toilet rooms located back-to-back with recessed lavatories next to the water closet.">
@@ -420,11 +421,11 @@ swing. No elements can overlap door maneuvering clearances.
   <div class="grid-row">
     <div class="tablet:grid-col">
       <span class="grid-line bold">Push-Side Maneuvering Clearance</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/28.png" alt="Toilet room with a water closet and an adjacent lavatory. A door opposite the lavatory swings out. The door maneuvering clearance is 48” deep and abuts the lavatory. A strike-side clearance 12” min. on the latch side of the door is required if the door has both a closer and a latch.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/28.png" alt="Toilet room with a water closet and an adjacent lavatory. A door opposite the lavatory swings out. The door maneuvering clearance is 48 inches deep and abuts the lavatory. A strike-side clearance 12 inches minimum on the latch side of the door is required if the door has both a closer and a latch.">
     </div>
     <div class="tablet:grid-col">
       <span class="grid-line bold">Pull-Side Maneuvering Clearance</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/29.png" alt="Toilet room with a water closet and an adjacent lavatory. A door opposite the lavatory swings in. The door maneuvering clearance is 60 inches deep and abuts the lavatory. A strike-side clearance 18” min. is required on the latch side of the door.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/29.png" alt="Toilet room with a water closet and an adjacent lavatory. A door opposite the lavatory swings in. The door maneuvering clearance is 60 inches deep and abuts the lavatory. A strike-side clearance 18 inches minimum is required on the latch side of the door.">
     </div>
   </div>
 </div>
@@ -442,7 +443,7 @@ using wheeled mobility aids.
     </div>
     <div class="tablet:grid-col">
        <span class="grid-line bold">Wheelchair Space Beyond Door Swing</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/31.png" alt="Toilet room with a water closet and an adjacent lavatory with a door opposite the lavatory that swings in. A clear floor space 30 inches min. by 48 inches min. that provides space for an occupied wheelchair is unobstructed and located beyond the swing of the door.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/31.png" alt="Toilet room with a water closet and an adjacent lavatory with a door opposite the lavatory that swings in. A clear floor space 30 inches minimum by 48 inches minimum that provides space for an occupied wheelchair is unobstructed and located beyond the swing of the door.">
       <span class="grid-line text-italic">The location and orientation of the wheelchair space is not specified, but it should be easy to access upon entry into the room.</span>
     </div>
   </div>
@@ -452,7 +453,7 @@ using wheeled mobility aids.
 
 [[§304]({{ site.baseurl }}/ada/#ada-304)]
 
-Turning space is required in the room and can be provided as a 60\"
+Turning space is required in the room and can be provided as a 60&Prime;
 diameter circle or T-shaped space. Doors can swing into the turning
 space. The orientation of the T-shaped space is not specified, and it
 can be located for approach at any segment (i.e., the stem or either
@@ -462,11 +463,11 @@ arm).
   <div class="grid-row">
     <div class="tablet:grid-col">
       <span class="grid-line bold">Circular Turning Space</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/32.png" alt="Toilet room with a water closet, an adjacent lavatory, and turning space in the form of a 60 inches min. diameter circle.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/32.png" alt="Toilet room with a water closet, an adjacent lavatory, and turning space in the form of a 60 inches minimum diameter circle.">
     </div>
     <div class="tablet:grid-col">
        <span class="grid-line bold">T-Shaped Turning Space</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/33.png" alt="Toilet room with a water closet, an adjacent lavatory, and turning space in the form of a T-shaped space. Each arm of the T is 36 inches wide min. and the center stem extends 24 inches min. from perpendicular segment which is 60 inches long min.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/33.png" alt="Toilet room with a water closet, an adjacent lavatory, and turning space in the form of a T-shaped space. Each arm of the T is 36 inches wide minimum and the center stem extends 24 inches minimum from perpendicular segment which is 60 inches long minimum">
       <span class="grid-line text-italic">The location and orientation of the wheelchair space is not specified, but it should be easy to access upon entry into the room.</span>
     </div>
   </div>
@@ -501,7 +502,7 @@ such as a baby changing table, may increase this dimension._
 
 ![Toilet room with a water closet and an adjacent lavatory with a door
 opposite the lavatory that swings in. The width of the room is based on:
-the 60" min. wide water closet clearance, the lavatory width, and half
+the 60 inches minimum wide water closet clearance, the lavatory width, and half
 the lavatory clearance width not overlapped by the lavatory (if it is
 centered on the fixture).]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/36a.png){: .img-large}
 
@@ -519,7 +520,7 @@ based on the door swing clearing the water closet and lavatory
 clearances. Figure: Toilet room with a water closet and an adjacent
 lavatory with a door opposite the lavatory that swings in. Unobstructed
 wheelchair space is provided beyond the swing of the door. The depth of
-the room is based on the 60" depth of the door maneuvering clearance and
+the room is based on the 60 inches depth of the door maneuvering clearance and
 the horizontal depth of the lavatory which abuts, but does not overlap,
 the door maneuvering
 clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/37.png){: .img-large}
@@ -527,7 +528,7 @@ clearance.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/37
 <div class="margin-left-8 margin-right-8 text-center" markdown="1">
 _Note: Other elements provided may increase minimum room dimensions._
 </div>
- 
+ 
 _If the door swings out, the room depth is usually determined by the
 door maneuvering clearance and the horizontal depth of the lavatory.
 Turning space usually can be provided without further increase in this
@@ -540,7 +541,7 @@ _Note: Other elements provided may increase minimum room dimensions._
 
 ![Toilet room with a water closet and an adjacent lavatory. A door
 opposite the lavatory swings out. The depth of the room is based on the
-48" depth of the door maneuvering clearance and the horizontal depth of
+48 inches depth of the door maneuvering clearance and the horizontal depth of
 the lavatory which abuts, but does not overlap, the door maneuvering
 clearance. Turning space overlaps the door clearance, and a portion is
 overlapped by the lavatory. Note: Other elements provided may increase
@@ -578,7 +579,7 @@ text= "Toilet rooms sized to provide more space than the minimum required by the
 Dispensers, receptacles, and other operable parts, as well as shelves
 and coat hooks, must comply where provided.
 
- ![Person using a wheelchair at a paper towel dispenser with a
+ ![Person using a wheelchair at a paper towel dispenser with a
 receptacle. Clear floor space at the dispenser is highlighted. Notes:
 Dispensers & Receptacles (§205, §309), Hand-operated soap dispensers
 that are fixed, paper towel dispensers, toilet seat cover dispensers,
@@ -590,7 +591,7 @@ and usable with one hand and without tight grasping, pinching, twisting
 of the wrist, or more than 5 pounds force. Coat Hooks (§213.3.7, §603.4)
 If coat hooks are provided, at least one must be within accessible reach
 range. Shelves (§213.3.7, §603.4) If shelves are provided, at least one
-of each type must be located 40" min. to 48" max.AFF.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/42.png){: .img-large}
+of each type must be located 40 inches minimum to 48 inches maximum AFF.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/42.png){: .img-large}
 
 #### Baby Changing Tables
 
@@ -603,9 +604,9 @@ as a work surface and, if they project into circulation paths, as
 protruding objects.
 
 ![Wall-mounted baby-changing table in a toilet room. Table surface is
-28" -- 34 high and must comply as a work surface (§902) and clear floor
+28 inches to 34 high and must comply as a work surface (§902) and clear floor
 space for a forward approach to the table is shown. When stowed, the
-table projection from the wall is limited to 4" max. if the leading edge
+table projection from the wall is limited to 4 inches maximum if the leading edge
 is higher than 27." Notes: Compliant as protruding object (when stowed)
 if it protrudes into a circulation path (§204, §307); Compliant operable
 parts (§205,
@@ -655,7 +656,7 @@ the door swing (§603.2.3, Ex. 1 and
 
 {% include recommendation.html
 text= "Cabinetry below lavatories should be readily removable with finish floor below and finished walls behind it. Verify that the applicable building or life safety codes will permit the door swing to be reversed if using the exception for doors."
-%} 
+%} 
 
 ### Water Closets in Residential Dwelling Units
 
@@ -671,7 +672,7 @@ clearance if additional clearance depth is provided.
 
 _Note: All other applicable requirements, including clearances and turning space, must be met._
 
-![Dwelling unit toilet room with a water closet with a 15" -- 19" seat
+![Dwelling unit toilet room with a water closet with a 15 inches to 19 inches seat
 height and lavatory with base cabinetry. Notes: Toilet Seat Height - A
 lower toilet seat height is permitted (§604.4, Ex. 2). Grab Bars Grab
 bars can be installed after construction if walls are properly
@@ -684,18 +685,18 @@ walls behind and surrounding the cabinetry are finished (§606.2, Ex.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/49.png" alt="Plan view of water closet and adjacent lavatory. The lavatory is 18 inches min. from the water closet centerline and overlaps a portion of the water closet clearance which is 66 inches deep min.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/49.png" alt="Plan view of water closet and adjacent lavatory. The lavatory is 18 inches minimum from the water closet centerline and overlaps a portion of the water closet clearance which is 66 inches deep minimum">
     </div>
     <div class="tablet:grid-col">
-      <span class="grid-line text-italic">A compliant lavatory is permitted on the rear wall 18" min. from the water closet centerline if the clearance at the water closet is at least 66" (instead of 56") deep (§604.3.2, Ex.).</span>
+      <span class="grid-line text-italic">A compliant lavatory is permitted on the rear wall 18&Prime; minimum from the water closet centerline if the clearance at the water closet is at least 66&Prime; (instead of 56&Prime;) deep (§604.3.2, Ex.).</span>
     </div>
   </div>
 </div>
 #### Dwelling Unit Water Closet and Lavatory
 
 ![Water closet and adjacent lavatory shown in elevation. The rear grab
-bar at the water closet extends from the water closet centerline 12" on
-one side to the side wall and 24" min. on the other side toward the
+bar at the water closet extends from the water closet centerline 12 inches on
+one side to the side wall and 24 inches minimum on the other side toward the
 lavatory; the grab bar does not overlap the lavatory.
 ]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/50.png){: .img-large}
 
@@ -737,11 +738,11 @@ compartments are consistent with those based on adult dimensions._
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/51.png" alt="Children’s water closet with: the centerline 12 inches – 18 inches from the side wall, a seat height 11 inches – 17 inches, a rear grab bar 18 inches – 27 inches high, and flush controls 36 inches max. high.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/51.png" alt="Children’s water closet with: the centerline 12 inches to 18 inches from the side wall, a seat height 11 inches to 17 inches, a rear grab bar 18 inches to 27 inches high, and flush controls 36 inches maximum high.">
       <span class="grid-line text-italic">Water closet centerline, seat height, and grab bar height</span>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/52.png" alt="Children’s water closet shown from the side with a side grab bar 18 inches – 27 inches high and a toilet paper dispenser height 14 inches min. to 19 inches max.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/52.png" alt="Children’s water closet shown from the side with a side grab bar 18 inches to 27 inches high and a toilet paper dispenser height 14 inches minimum to 19 inches maximum">
       <span class="grid-line text-italic">Grab bar and toilet paper dispenser height</span>
     </div>
   </div>
@@ -765,27 +766,27 @@ required by the applicable code (§604.5.2, Ex. 2).
 <tbody>
   <tr>
     <th scope="row">Water Closet Centerline</th>
-    <td>12"</td>
-    <td>12" - 15"</td>
-    <td>15" - 18"</td>
+    <td>12&Prime;</td>
+    <td>12&Prime; to 15&Prime;</td>
+    <td>15&Prime; to 18&Prime;</td>
   </tr>
   <tr>
     <th scope="row">Toilet Seat Height</th>
-    <td>11" - 12"</td>
-    <td>12" - 15"</td>
-    <td>15" - 17"</td>
+    <td>11&Prime; to 12&Prime;</td>
+    <td>12&Prime; to 15&Prime;</td>
+    <td>15&Prime; to 17&Prime;</td>
   </tr>
   <tr>
     <th scope="row">Grab Bar Height</th>
-    <td>18" - 20"</td>
-    <td>20" - 25"</td>
-    <td>25" - 27"</td>
+    <td>18&Prime; to 20&Prime;</td>
+    <td>20&Prime; to 25&Prime;</td>
+    <td>25&Prime; to 27&Prime;</td>
   </tr>
   <tr>
     <th scope="row">Dispenser Height</th>
-    <td>14"</td>
-    <td>14" - 17"</td>
-    <td>17" - 19"</td>
+    <td>14&Prime;</td>
+    <td>14&Prime; to 17&Prime;</td>
+    <td>17&Prime; to 19&Prime;</td>
   </tr>
 </tbody>
 </table>
@@ -856,8 +857,8 @@ toilet compartments are provided.
 provided in other toilet compartments (§213.3.7, 604.8.3). Wheelchair
 accessible toilet compartment with toe clearance below the front
 partition and one side partition. Notes: Compliant water closet with
-additional clear floor space required if fixture is floor mounted (59"
-instead of 56" deep) (§604.8.1.1). Toe clearance below the front and one
+additional clear floor space required if fixture is floor mounted (59 inches
+instead of 56 inches deep) (§604.8.1.1). Toe clearance below the front and one
 side partition unless the compartment is enlarged to include toe space
 (§604.8.1.4) (partition vertical supports are permitted within this
 clearance)]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/57.png){: .img-large}
@@ -878,18 +879,18 @@ opening._
 [[§404]({{ site.baseurl }}/ada/#ada-404)]
 
 Compartment doors must meet applicable requirements for doors, including
-the clear width (32\" min.), hardware, and opening force (5 lbs. max.).
+the clear width (32&Prime; minimum), hardware, and opening force (5 lbs. maximum).
 
 ![Toilet compartment with out-swinging door. Note: Doors cannot swing
 into the minimum compartment area specified. Detail of compartment door
 with pull on both sides on latch side. Notes: Door must be self-closing
-(gravity or spring hinges are typically used). The min. closing time for
-spring hinges is 1.5 seconds measured from a 70° open position to the
-closed position. Door pulls are required on both sides near the latch,
+(gravity or spring hinges are typically used). The minimum closing time for
+spring hinges is 1.5 seconds measured from a 70 degrees open position to the
+closed position. Door pulls are required on both sides near the latch,
 34 inches to 48 inches above the finish floor.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/59.png){: .img-large}
 
 {% include recommendation.html
-text= "Pulls should provide sufficient knuckle clearance (1½\" minimum) to facilitate gripping. Avoid hardware, including latches, that requires hand or finger dexterity, fine motor movement, or simultaneous actions."
+text= "Pulls should provide sufficient knuckle clearance (1½&Prime; minimum) to facilitate gripping. Avoid hardware, including latches, that requires hand or finger dexterity, fine motor movement, or simultaneous actions."
 %}
 
 Compartment doors must meet maneuvering clearance requirements, but a
@@ -903,12 +904,12 @@ text= "Hinging doors to provide a latch approach instead of a hinge approach wil
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <span class="grid-line bold">Latch Approach Clearance</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/60.png" alt="Wheelchair accessible toilet compartment door with latch-approach maneuvering clearance that is 42 inch deep min. with strike-side clearance 24 inch min.">
+      <span class="grid-line bold">Latch Approach Clearance</span>
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/60.png" alt="Wheelchair accessible toilet compartment door with latch-approach maneuvering clearance that is 42 inch deep minimum with strike-side clearance 24 inch minimum">
     </div>
     <div class="tablet:grid-col">
        <span class="grid-line bold">Forward Approach Clearance</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/61.png" alt="Wheelchair accessible toilet compartment door with forward-approach maneuvering clearance that is 60” deep min. with strike-side clearance 18” min.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/61.png" alt="Wheelchair accessible toilet compartment door with forward-approach maneuvering clearance that is 60 inches deep minimum with strike-side clearance 18 inches minimum">
     </div>
   </div>
 </div>
@@ -917,11 +918,11 @@ text= "Hinging doors to provide a latch approach instead of a hinge approach wil
   <div class="grid-row">
     <div class="tablet:grid-col">
       <span class="grid-line bold">Hinge Approach Clearance</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/62.png" alt="Wheelchair accessible toilet compartment door with hinge-approach maneuvering clearance that is 60 inches deep min. with strike-side clearance 36 inches min.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/62.png" alt="Wheelchair accessible toilet compartment door with hinge-approach maneuvering clearance that is 60 inches deep minimum with strike-side clearance 36 inches minimum">
     </div>
     <div class="tablet:grid-col">
        <span class="grid-line bold">Alternative Hinge Approach Clearance</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/63.png" alt="Wheelchair accessible toilet compartment door with hinge-approach maneuvering clearance that is 54 inches deep min. with strike-side clearance 42 inches min.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/63.png" alt="Wheelchair accessible toilet compartment door with hinge-approach maneuvering clearance that is 54 inches deep minimum with strike-side clearance 42 inches minimum">
     </div>
   </div>
 </div>
@@ -948,30 +949,30 @@ text= "The dimensions specified represent the minimum necessary for access. Prov
 
 #### Compartment with Toe Clearance Below Partitions
 
-![Toe clearance below partition that is 9" high min. and 6" deep min.
+![Toe clearance below partition that is 9 inches high minimum and 6 inches deep minimum
 Figure: Wheelchair accessible toilet compartment with toe clearance
-below partitions. Compartment is 60" wide min. and 56" deep min.
-(wall-mounted water closet) or 59" deep min. (floor-mounted water
+below partitions. Compartment is 60 inches wide minimum and 56 inches deep minimum
+(wall-mounted water closet) or 59 inches deep minimum (floor-mounted water
 closet). Figure: Wheelchair accessible toilet compartment without toe
-clearance below partitions. Compartment is 66" wide min. if there is no
+clearance below partitions. Compartment is 66 inches wide minimum if there is no
 toe clearance below a side partition. If there is no toe clearance below
-the front partition, the depth is 62" min. (wall-mounted water closet)
-or 65" min. (floor-mounted water closet).]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/64.png){: .img-large}
+the front partition, the depth is 62 inches minimum (wall-mounted water closet)
+or 65 inches minimum (floor-mounted water closet).]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/64.png){: .img-large}
 
 #### Toilet Compartments Designed for Children's Use
 
 [[§604.8.1]({{ site.baseurl }}/ada/#ada-604_8_1)]
 
 <div class="clearfix" markdown="1">
-![Wheelchair accessible toilet compartment for children that is 60" wide
-min. (66" min. if there is no toe clearance below a side partition. The
-depth is 59" min (65" min if there is no toe clearance below the front
+![Wheelchair accessible toilet compartment for children that is 60 inches wide
+minimum (66 inches minimum if there is no toe clearance below a side partition. The
+depth is 59 inches minimum (65 inches minimum if there is no toe clearance below the front
 partition.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/65.png){: .img-right}
 
 Toilet compartments designed for use by children 12 and
-younger must be slightly larger (59\" wide for wall- or floor-mounted
+younger must be slightly larger (59&Prime; wide for wall- or floor-mounted
 water closets) because children\'s maneuvering skills are generally less
-refined. The toe clearance must be at least 12\" high to accommodate
+refined. The toe clearance must be at least 12&Prime; high to accommodate
 footrests that are higher above the floor. As with adult-sized
 compartments, additional space is required if toe clearance is not
 available below partitions.
@@ -1023,13 +1024,13 @@ bars must meet specifications for size, location, and securement.
 
 ![Man standing in ambulatory accessible toilet compartment and gripping
 both parallel grab bars. Figure: Ambulatory accessible compartment that
-is 35" -- 37" min. wide and 60" min. deep. Water closet centerline is
-17" -- 19" from side partition. Grab bars are provided on both sides and
-must be 12" max. from the back wall, 42" long min. and extend 54" min.
+is 35 inches to 37 inches minimum wide and 60 inches minimum deep. Water closet centerline is
+17 inches to 19 inches from side partition. Grab bars are provided on both sides and
+must be 12 inches maximum from the back wall, 42 inches long minimum and extend 54 inches minimum
 to the front of the compartment.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/68-69.png){: .img-large}
 
 ![Water closet in ambulatory accessible compartment with a seat height
-17" -- 19" and grab bars that are 33" -- 36" high measured to the top of
+17 inches to 19 inches and grab bars that are 33 inches to 36 inches high measured to the top of
 the gripping surface. Note: Water closets must comply, including flush
 controls which must meet criteria for operable parts if hand-operated.
 Seats cannot be sprung to return to lifted position. Requirements for
@@ -1050,7 +1051,7 @@ reach range (§309).
   <div class="grid-row">
     <div class="tablet:grid-col">
       <span class="grid-line bold">Wall Hung Urinal</span>
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/71.png" alt="Wall-hung urinal that is 13½” deep min. measured from the face of the urinal rim to the back of the fixture. The rim is 17 inches high max.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/71.png" alt="Wall-hung urinal that is 13½ inches deep minimum measured from the face of the urinal rim to the back of the fixture. The rim is 17 inches high maximum">
     </div>
     <div class="tablet:grid-col">
        <span class="grid-line bold">Stall Type Urinal</span>
@@ -1062,16 +1063,16 @@ reach range (§309).
 Clear floor space for a forward approach is required. Partitions or
 privacy panels cannot obstruct or reduce the minimum clearance. If
 partitions or panels obstruct both sides of the clear floor space for
-more than 24\", the clear floor space must be at least 36\" wide instead
-of 30\" wide.
+more than 24&Prime;, the clear floor space must be at least 36&Prime; wide instead
+of 30&Prime; wide.
 
 ![Clear floor space for a forward approach to a urinal shown in plan
 view. Side partitions do not overlap clear floor space. The clear floor
-is 48" min. deep and 30" min. wide (36" min. wide if the partitions
-obstruct the clear floor space on both sides for more than 24").
-Portions of wall hung urinals that provide toe clearance 9" high min.
-can overlap the clear floor space for a depth of 6"
-max.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/73.png){: .img-large}
+is 48 inches minimum deep and 30 inches minimum wide (36 inches minimum wide if the partitions
+obstruct the clear floor space on both sides for more than 24 inches).
+Portions of wall hung urinals that provide toe clearance 9 inches high minimum
+can overlap the clear floor space for a depth of 6 inches
+maximum]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/73.png){: .img-large}
 
 <div class="border margin-left-8 margin-right-8 padding-1" markdown="1" style="background-color: #e2e1ef;">
 #### Toilet Room Signs
@@ -1082,7 +1083,7 @@ max.]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/73.png){
 
 Where provided, signs that identify permanent rooms and spaces, including toilet rooms, must have raised characters and braille and meet criteria for visual access (§216.2). Visual content and tactile content can be provided on separate signs.
 
-If pictograms are provided to identify toilet rooms (i.e., symbols for men's, women's, and unisex restrooms), they must be on a field at least 6" high, include the verbal equivalent below in raised characters and braille, and meet finish and contrast specifications (§703.6). These pictogram requirements do not apply to any informational pictograms that are also provided on the sign, including the International Symbol of Accessibility (ISA). If not all toilet rooms are accessible, those that comply must be labelled by the ISA. The ISA can be included on the toilet room sign or be provided separately.
+If pictograms are provided to identify toilet rooms (i.e., symbols for men's, women's, and unisex restrooms), they must be on a field at least 6&Prime; high, include the verbal equivalent below in raised characters and braille, and meet finish and contrast specifications (§703.6). These pictogram requirements do not apply to any informational pictograms that are also provided on the sign, including the International Symbol of Accessibility (ISA). If not all toilet rooms are accessible, those that comply must be labelled by the ISA. The ISA can be included on the toilet room sign or be provided separately.
 
 ![restroom sign with arrow and ISA]({{ site.baseurl }}{{ page.image-directory }}chapter6/toilet-rooms/75.png){: .float-right .thumbnail}
 
@@ -1180,7 +1181,7 @@ door maneuvering clearances, and other factors and requirements.
 
 Doors can swing into the turning space. They cannot swing into the
 clearance required at plumbing fixtures, except in single user toilet
-rooms where clear floor space 30\" minimum by 48\" minimum is provided
+rooms where clear floor space 30&Prime; minimum by 48&Prime; minimum is provided
 in the room beyond the arc of the door swing (§603.2.3, Ex. 2). In
 addition, doors can swing into fixture clearances at single-occupant
 toilet rooms accessed only through a private office and not for common
@@ -1211,13 +1212,13 @@ lavatories, can overlap a portion of the turning space.
 
 {% include imgright-italictextbelow.html
 img-file= "chapter6/toilet-rooms/76.png"
-img-alt= "Door maneuvering clearance shown offset 8 inches maximum from the face of a door; a grab bar extends to a point near the latch side of the door and is within the 8-inch offset and does not overlap the door maneuvering clearance."
-text= "Grab bars and other elements cannot overlap the door maneuvering clearance but can be located within the 8 inches max. offset from the face of the door."
+img-alt= "Door maneuvering clearance shown offset 8 inches maximum from the face of a door; a grab bar extends to a point near the latch side of the door and is within the 8 inch offset and does not overlap the door maneuvering clearance."
+text= "Grab bars and other elements cannot overlap the door maneuvering clearance but can be located within the 8 inches maximum offset from the face of the door."
 %}
 
 No. Elements, including those providing knee and toe space, cannot
 overlap or protrude into the maneuvering clearance required at doors and
-doorways. However, door maneuvering clearances can be offset up to 8\"
+doorways. However, door maneuvering clearances can be offset up to 8&Prime;
 from the face of the door to accommodate wall thickness, casework,
 shelves, or other elements adjacent to doorways, including grab bars.
 The door maneuvering clearance must be measured from the leading edge of
@@ -1240,7 +1241,7 @@ No. The ISA is the only pictogram the Standards require in labeling
 toilet rooms. Other codes or regulations may require pictograms to
 identify men\'s and women\'s rooms and unisex restrooms. The Standards
 require that pictograms labeling permanent rooms and spaces, including
-toilet rooms, be on a field at least 6\" high and include the verbal
+toilet rooms, be on a field at least 6&Prime; high and include the verbal
 equivalent in raised characters and braille below the pictogram.
 Informational pictograms, such as the ISA, are not subject to the
 requirements for field height or verbal text.
@@ -1254,13 +1255,13 @@ the ISA.
 
 ##### Can an adjacent lavatory overlap the water closet clearance?
 
-No. Lavatories are not permitted to overlap the 60\" wide minimum space
+No. Lavatories are not permitted to overlap the 60&Prime; wide minimum space
 at water closets, except in residential dwelling units if the water
-closet clearance is 66\" deep min. (§604.3.2, Ex.). Lavatories (or other
+closet clearance is 66&Prime; deep minimum (§604.3.2, Ex.). Lavatories (or other
 plumbing fixtures) can be adjacent to the water closet if recessed so as
 not to overlap the water closet clearance. (The rear grab bar can be
-24\" long in this instance if there is not sufficient wall space for a
-36\" grab bar.)
+24&Prime; long in this instance if there is not sufficient wall space for a
+36&Prime; grab bar.)
 
 ##### Can other elements overlap the water closet clearance?
 
@@ -1280,7 +1281,7 @@ difficult when mounted above bars unless they are recessed.
 ##### How is the distance from the water closet measured for toilet paper dispensers with large or multiple rolls?
 
 The required distance of toilet paper dispensers from the front of the
-water closet (7" - 9") is measured to the centerline of the
+water closet (7&Prime; to 9&Prime;) is measured to the centerline of the
 dispenser, including large-roll and multiple-roll dispensers.
 
 ##### How can conflicts between the rear grab bar and the required location of flush controls be resolved?
@@ -1303,8 +1304,8 @@ fails to activate.
 ##### Are flush controls located on valves, walls, or tanks that are centered on the fixture compliant (i.e., on the open side)?
 
 Manual flush controls, including push buttons, must be usable from a
-point between the centerline and the open side of the fixture. A portion
-of the control can be outside the range if it is usable without having
+point between the centerline and the open side of the fixture. A portion
+of the control can be outside the range if it is usable without having
 to reach beyond the water closet centerline from the open side.
 
 ##### Can the side and rear grab bars be continuous?
@@ -1312,7 +1313,7 @@ to reach beyond the water closet centerline from the open side.
 Yes. The rear and side grab bar can be continuous or separate, but in
 either case must comply with the specified length and placement.
 
-##### Must the side and rear grab bar both be at the same height within the specified 33" - 36" range?
+##### Must the side and rear grab bar both be at the same height within the specified 33&Prime; to 36&Prime; range?
 
 The Standards do not require both grab bars at the water closet to be at
 the same height, although this is advisable. (Horizontal grab bars at
@@ -1324,17 +1325,17 @@ Grab bars, if properly secured, can be mounted on a half wall or wing
 wall where sufficient wall surface above the grab bar is available. Wall
 surface above grab bars provides support and helps prevent arms from
 slipping off the bar. Wall surface that extends the full height of the
-required 12\" clearance above grab bars, or preferably to the standard
+required 12&Prime; clearance above grab bars, or preferably to the standard
 adult shoulder height for standees, should provide sufficient support in
 using grab bars.
 
-##### Can the side grab bar be mounted on blocking when the centerline of the water closet exceeds the 18" maximum?
+##### Can the side grab bar be mounted on blocking when the centerline of the water closet exceeds the 18&Prime; maximum?
 
 In new construction, the wall should be furred out so that the water
-closet centerline is within the required 16" - 18" distance from the
+closet centerline is within the required 16&Prime; to 18&Prime; distance from the
 side wall. In addressing access to existing water closets that are too
 far from the side wall, the side grab bar can be mounted on blocking but
-it is important that the blocking extend at least 12" above the grab
+it is important that the blocking extend at least 12&Prime; above the grab
 bar so that adequate wall support is available when using the grab bar.
 
 ##### Can grab bar attachments be located at points along the bar instead of at the ends?
@@ -1370,9 +1371,9 @@ important that they are properly secured.
 
 No. The ADA Standards do not require a vertical grab bar at water
 closets. However, the ICC A117.1 standard, which is referenced by the
-International Building Code, requires an 18" minimum vertical grab bar
+International Building Code, requires an 18&Prime; minimum vertical grab bar
 on the side wall above the horizontal grab bar for people who are
-ambulatory. This grab bar can be located within the 12" minimum
+ambulatory. This grab bar can be located within the 12&Prime; minimum
 clearance required above the horizontal grab bar.
 
 ##### Can grab bars have infill plates to prevent suicide or security risks in detention and correctional facilities?
@@ -1406,14 +1407,14 @@ use must comply (§213.2). If a toilet compartment contains more than one
 plumbing fixture (e.g., a lavatory), it must comply as a toilet room
 (§604.8).
 
-##### Can compartment door openings be located more than 4" from the side partition when the compartment width exceeds the 60" minimum?
+##### Can compartment door openings be located more than 4&Prime; from the side partition when the compartment width exceeds the 60&Prime; minimum?
 
-The Standards require the door opening to be located 4" maximum from
+The Standards require the door opening to be located 4&Prime; maximum from
 the side partition further from the water closet (or, if located in the
-side partition, 4" maximum from the front partition). An increase above
-the 4" maximum where compartments exceed the 60" minimum width may not
+side partition, 4&Prime; maximum from the front partition). An increase above
+the 4&Prime; maximum where compartments exceed the 60&Prime; minimum width may not
 impact usability if the extra width of the compartment equals or exceeds
-the increase above the 4" maximum (as permitted by the ICC A117.1
+the increase above the 4&Prime; maximum (as permitted by the ICC A117.1
 Standard), but such a departure must be based on the provision of
 equivalent facilitation (§103).
 
@@ -1437,7 +1438,7 @@ clearance.
 ##### Can accessible toilet compartments have full-height walls instead of partition panels?
 
 Yes. But the minimum compartment size (both width and depth) is
-increased more than 6\" if minimum toe clearance is not provided below
+increased more than 6&Prime; if minimum toe clearance is not provided below
 the front partition and a side partition. Doors, including full door
 assemblies, must be self-closing and meet all applicable requirements
 for doors.
@@ -1469,9 +1470,9 @@ nominally centered on the fixture.
 ##### Can accessible mirrors be located above lavatories?
 
 Accessible mirrors can be located above lavatories or countertops if the
-bottom of the reflecting surface is 40\" max. above the finish floor
+bottom of the reflecting surface is 40&Prime; maximum above the finish floor
 (§603.3). The bottom of the reflecting surface of mirrors not located
-above lavatories or countertops must be 35\" max. above the finish
+above lavatories or countertops must be 35&Prime; maximum above the finish
 floor.
 
 ##### If a toilet room has a full-length mirror and a mirror above a countertop or lavatory, must both types comply?

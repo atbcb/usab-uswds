@@ -10,9 +10,9 @@ topic: Public Rights-of-Way
 
 ## References
 
-> 1\. United States Department of Justice. 2005. ADA Home Page. Retrieved September 30, 2005, from <http://www.ada.gov/>.
+> 1\. United States Department of Justice. 2005. ADA Home Page. Retrieved September 30, 2005, from <http://www.ada.gov/>.
 >
-> 2\. United States Access Board. 2005. Pedestrian Access to Modern Roundabouts. Retreived August 30, 2005, from <http://www.access-board.gov/research/roundabouts/bulletin.htm>.
+> 2\. United States Access Board. 2005. Pedestrian Access to Modern Roundabouts. Retreived August 30, 2005, from <http://www.access-board.gov/research/roundabouts/bulletin.htm>.
 >
 > 3\. Guth, D., D., Ashmead, R. Long, and P. Ponchillia. 2005. Blind and Sighted Pedestrians' Judgments of Gaps in Traffic at Roundabouts. Human Factors 47(2):314-342.
 >
@@ -20,11 +20,11 @@ topic: Public Rights-of-Way
 >
 > 5\. Geruschat, D. R., and S. E. Hassan. 2005. Driver Behavior in Yielding to Sighted and Blind Pedestrians at Roundabouts. Journal of Visual Impairment & Blindness 99(5):286-312.
 >
-> 6\. U. S. Access Board (2005) Public Rights-of-Way Guidelines. Retrieved June 28, 2006 from <http://www.access-board.gov/prowac/draft.htm>.
+> 6\. U. S. Access Board (2005) Public Rights-of-Way Guidelines. Retrieved June 28, 2006 from <http://www.access-board.gov/prowac/draft.htm>.
 >
 > 7\. Robinson, B. W., R. Troutbeck, B. Werner, B. Lothar, , K.Courage, M. Kyte, J. Mason, A. Flannery, E. Myers, J. Bunker, G. Jacquemart. 2000. Roundabouts: An Informational Guide. Document Number FHWA-RD-00-067, Federal Highway Administration, McLean, VA.
 >
-> 8\. Transportation Research Board. 2005. NCHRP Project 3-78, Crossing Solutions at Roundabouts and Channelized Turn Lanes for Pedestrians with Vision Disabilities. Retrieved January 10, 2006, from <http://www.trb.org/trbnet/projectdisplay.asp?projectid=833>
+> 8\. Transportation Research Board. 2005. NCHRP Project 3-78, Crossing Solutions at Roundabouts and Channelized Turn Lanes for Pedestrians with Vision Disabilities. Retrieved January 10, 2006, from <http://www.trb.org/trbnet/projectdisplay.asp?projectid=833>
 >
 > 9\. Myers, E., L. Redegerdts, and E. Ferguson. 2005. Literature Review: Signalization to Provide Roundabout Access. Memorandum: Kittleson & Associates, June 29, 2005.
 >
@@ -60,7 +60,7 @@ topic: Public Rights-of-Way
 >
 > 25\. Hydén, C. (2005). Personal communication. E-mail received December 6, 2005 by V. W. Inman.
 >
-> 26\. Garder, P. 2005. RE: FWD: [ITETRAFFIC] Ped Signals at Multi-Lane Roundabouts. Message posted on <Roundabouts@LISTSERV.KSU.EDU> on 12/21/2005.
+> 26\. Garder, P. 2005. RE: FWD: [ITETRAFFIC] Ped Signals at Multi-Lane Roundabouts. Message posted on <Roundabouts@LISTSERV.KSU.EDU> on 12/21/2005.
 >
 > 27\. Federal Highway Administration. 2003. Manual on Uniform Traffic Control Devices for Streets and Highways - 2003. Federal Highway Administration, Washington, DC.
 >
@@ -70,10 +70,10 @@ topic: Public Rights-of-Way
 >
 > 30\. Bentzen, B. L., and L. Tabor. 1998. Accessible Pedestrian Signals. Accessible Design for the Blind, Berlin, MA
 >
-> 31\. Walkinginfo.org. 2006. Retrieved from <http://www.walkinginfo.org/aps/>, November 1, 2006.
+> 31\. Walkinginfo.org. 2006. Retrieved from <http://www.walkinginfo.org/aps/>, November 1, 2006.
 >
 > 32\. Mack, L. 2005. Cost estimate for Navigator APS. Received from Polara Engineering, Inc., Fullerton, CA., on November 13, 2005.
 >
-> 33\. Tucson Department of Transportation. 2005. Retrieved from <http://www.dot.ci.tucson.az.us/traffic/tspedestrian.cfm>, September 12, 2005.
+> 33\. Tucson Department of Transportation. 2005. Retrieved from <http://www.dot.ci.tucson.az.us/traffic/tspedestrian.cfm>, September 12, 2005.
 >
 > 34\. Nassi, R. B. 2005. Bird Watching Tucson Style., PowerPoint presentation received January 10, 2006.

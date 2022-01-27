@@ -37,6 +37,7 @@ fishing do not need to meet these requirements, even if people use them
 for fishing (for example, a bridge, flood control dam or breakwater
 jetty).
 
+{% include sr-dimension-markings.html %}
 
 ---
 
@@ -164,7 +165,7 @@ building code applies.
 #### Dispersion
 Anglers who can stand are able to fish from any part of a pier or
 platform and change locations. To provide anglers with disabilities
-similar opportunities, the accessible 34-inch maximum railing must be
+similar opportunities, the accessible 34 inch maximum railing must be
 located in a variety of places on the pier or platform to offer a
 variety of locations to fish from. Different fishing locations may
 provide different water depths, shade or sun, vegetation, and proximity
@@ -178,10 +179,10 @@ be provided and extend a minimum of 2 inches above the ground or deck
 surface. This protection will prevent persons using wheelchairs or other
 mobility devices from slipping off the pier or platform.
 
-![illustation of 2-inch edge protection at
+![illustation of 2 inch edge protection at
 pier]({{ site.baseurl }}{{ page.image-directory }}chapter10/fishing-guide/page-9_hi.jpg){: .img-large}
 
-![illustration of 12-inch deck extension without edge
+![illustration of 12 inch deck extension without edge
 protection]({{ site.baseurl }}{{ page.image-directory }}chapter10/fishing-guide/page-11.jpg){: .img-large}
 
 Edge protection is not required where a railing, guardrail, or handrail
@@ -202,7 +203,7 @@ Heights and Clear Space.)
 #### Turning Space
 Piers and platforms must have at least one turning area, either a
 60-inch turning space or T-shaped space, to allow a person using a
-mobility device or wheelchair to make a 180-degree turn. The space may
+mobility device or wheelchair to make a 180 degree turn. The space may
 overlap the accessible route and clear floor or ground space.
 
 #### 2000 International Building Code
@@ -226,7 +227,7 @@ Church, Virginia.*
 
 ### Provision Index
 This table highlights the sections of the ADA and ABA Accessibility
-Standards discussed in the fishing piers and platforms guide.  
+Standards discussed in the fishing piers and platforms guide.  
 
 
 <div>
@@ -501,9 +502,9 @@ Fishing (specific provision)
 </div>
 
 
-\* The guide uses the term ADAAG (Americans with Disabilities Act
+\* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
- The recreational provisions of these guidelines were adopted into the
+ The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
 the Architectural Barriers Act (ABA) Accessibility Standards).

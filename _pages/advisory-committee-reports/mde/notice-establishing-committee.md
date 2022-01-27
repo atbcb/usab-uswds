@@ -4,25 +4,25 @@ layout: page-group
 group-title: Medical Diagnostic Equipment Accessibility Standards Advisory Committee
 order-number: 2
 ---
-Published in the *Federal Register* July 5, 2012.   
+Published in the *Federal Register* July 5, 2012.   
 
 36 CFR Part 1195\
-[Docket No. ATBCB-2012-0003]\
+[Docket No. ATBCB-2012-0003]\
 RIN 3014-AA40
 
 ### Medical Diagnostic Equipment Accessibility Standards Advisory Committee
 
-**Agency:**  Architectural and Transportation Barriers Compliance Board.
+**Agency:**  Architectural and Transportation Barriers Compliance Board.
 
-**Action:**  Notice of establishment; appointment of members.
+**Action:**  Notice of establishment; appointment of members.
 
-**Summary:**  The Architectural and Transportation Barriers Compliance Board (Access Board) has decided to establish an advisory committee to assist on matters associated with comments received and responses to questions included in a previously published Notice of Proposed Rulemaking on Medical Diagnostic Equipment Accessibility Standards.
+**Summary:**  The Architectural and Transportation Barriers Compliance Board (Access Board) has decided to establish an advisory committee to assist on matters associated with comments received and responses to questions included in a previously published Notice of Proposed Rulemaking on Medical Diagnostic Equipment Accessibility Standards.
 
-**Dates:**  The first meeting of the committee will be held at a date and time in September 2012. A notice of the actual date and times will be published in the Federal Register prior to the meeting. Decisions with respect to future meetings will be made at the first meeting and from time to time thereafter.
+**Dates:**  The first meeting of the committee will be held at a date and time in September 2012. A notice of the actual date and times will be published in the Federal Register prior to the meeting. Decisions with respect to future meetings will be made at the first meeting and from time to time thereafter.
 
-**ADDRESSES:** The first meeting of the committee will be held at the Access Board's offices, 1331 F Street, NW., suite 800, Washington, DC 20004.
+**ADDRESSES:** The first meeting of the committee will be held at the Access Board's offices, 1331 F Street, NW., suite 800, Washington, DC 20004.
 
-**FOR FURTHER INFORMATION CONTACT:**  Rex Pace, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street, NW., suite 1000, Washington, DC 20004-1111. Telephone number (202) 272-0023 (Voice); (202) 272-0052 (TTY). Electronic mail address: <pace@access-board.gov>.
+**FOR FURTHER INFORMATION CONTACT:**  Rex Pace, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street, NW., suite 1000, Washington, DC 20004-1111. Telephone number (202) 272-0023 (Voice); (202) 272-0052 (TTY). Electronic mail address: <pace@access-board.gov>.
 
 **SUPPLEMENTARY INFORMATION:**
 
@@ -61,7 +61,7 @@ The Department of Justice, Department of Health and Human Services (Food and Dru
 
 The Access Board regrets its inability to accommodate all requests for membership on the Committee. It was necessary to limit membership to maintain balance among members representing different interests such as medical device manufacturers, health care providers, and disability organizations. The Committee membership identified above provides representation for interests affected by the issues to be discussed.
 
-The comment period on the NPRM ended on June 8, 2012. Fifty-three [comments](http://www.regulations.gov/#!docketDetail;D=ATBCB-2012-0003) were received by the end of the comment period. Access Board staff is conducting a preliminary analysis of the public comments to assist the Committee in its deliberations.
+The comment period on the NPRM ended on June 8, 2012. Fifty-three [comments](http://www.regulations.gov/#!docketDetail;D=ATBCB-2012-0003) were received by the end of the comment period. Access Board staff is conducting a preliminary analysis of the public comments to assist the Committee in its deliberations.
 
 The Committee's first meeting will be held at a date and time in September 2012. A notice of the actual date and times will be published in the Federal Register prior to the meeting. Decisions with respect to future meetings will be made at the first meeting and from time to time thereafter. Meetings will be held at the Access Board's offices, 1331 F Street, NW., suite 800, Washington, DC 20004. The Committee is expected to hold no more than four meetings and present a report with its recommendations to the Access Board within two months of the Committee's first meeting.
 

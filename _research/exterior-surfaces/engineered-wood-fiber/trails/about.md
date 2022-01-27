@@ -10,7 +10,7 @@ file: /files/research/ewf-trails.pdf
 file-description: PDF of EWF Traills Report
 permalink: /research/exterior-services/engineered-wood-fiber/trails/
 ---
-Installation and Serviceability Results: Governor Dodge State Park, Wisconsin  
+Installation and Serviceability Results: Governor Dodge State Park, Wisconsin  
 
 **November 2004**
 

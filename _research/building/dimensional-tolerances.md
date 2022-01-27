@@ -93,22 +93,22 @@ Phase 2 of the project focused on the following:
 4.  to pursue the development of measurement protocols for ramps and walkways in a range of surface materials; and
 5.  using information gained from this phase, to expand our efforts to include the development of industry tolerances beyond surfaces, where they currently do not exist.
 
-Of the industries that were asked to participate only the Interlocking Concrete Pavement Institute (ICPA) and the Tile Council of North America (TCNA) developed and published guidelines for tolerances related to accessible surfaces. The Brick Industry Association is currently working to develop their standards. The American Concrete Institute (ACI) began development of guidelines as part of another document the 117 Committee (Tolerances) was working on but these guidelines were subsequently deleted from the document during its development. These efforts are summarized below and copies of the documents included in Part 3 of this report.
+Of the industries that were asked to participate only the Interlocking Concrete Pavement Institute (ICPA) and the Tile Council of North America (TCNA) developed and published guidelines for tolerances related to accessible surfaces. The Brick Industry Association is currently working to develop their standards. The American Concrete Institute (ACI) began development of guidelines as part of another document the 117 Committee (Tolerances) was working on but these guidelines were subsequently deleted from the document during its development. These efforts are summarized below and copies of the documents included in Part 3 of this report.
 
-Throughout the course of the project it was very difficult to engage many of the trade groups. It appeared there could be several reasons for this. 
+Throughout the course of the project it was very difficult to engage many of the trade groups. It appeared there could be several reasons for this. 
 
-First, trade and professional groups may be reluctant to develop standards related to accessibility that could have legal consequences. 
+First, trade and professional groups may be reluctant to develop standards related to accessibility that could have legal consequences. 
 
 Second, trade groups have certain priorities, such as the promotion of a specific material and technical assistance to contractors, architects, and other industry members. With limited staff and funding, they may not be willing or able to take on additional standards development. They may also feel accessibility standards are not within their realm of responsibility or interest.
 
-Third, the typical structure of a trade group makes it difficult to complete standards development. Trade organizations vary in their size, membership, funding, and type of full - time administration support. Most trade associations rely on volunteer participation of their membership to develop standards and produce publications, which takes a significant amount of (generally unpaid) time. Leadership also varies, ranging from members elected to short - term positions (a president, for example) to full - time (and long term) administrators with extensive office support. A long - term project often lacks a continuity of leadership and commitment, especially in smaller organizations. A limited budget may also prelude participation. 
+Third, the typical structure of a trade group makes it difficult to complete standards development. Trade organizations vary in their size, membership, funding, and type of full - time administration support. Most trade associations rely on volunteer participation of their membership to develop standards and produce publications, which takes a significant amount of (generally unpaid) time. Leadership also varies, ranging from members elected to short - term positions (a president, for example) to full - time (and long term) administrators with extensive office support. A long - term project often lacks a continuity of leadership and commitment, especially in smaller organizations. A limited budget may also prelude participation. 
 
 #### Current industry standard practices resulting from this project
 
 *Interlocking Concrete Pavement Institute (ICPI)*\
 The ICPI, along with the Brick Industry Association and the National Concrete Masonry Association, funded research in 2002 to evaluate the vibration exposure during electric and manual wheelchair propulsion over several types of sidewalk surfaces. Studies were repeated in 2003 and 2004 to determine the effects of environmental factors and evaluate additional surface types. The research was conducted by the University of Pittsburgh Human Engineering Research Laboratory and was based on exposure limits of vibration to the human body established in ISO 2631, Evaluation of Human Exposure to Whole - Body Vibration.
 
-Based on this research, it was determined that some types of pavers (both square edged and beveled) and installation methods were an acceptable type of exterior paving. With the encouragement of the Access Board project, ICPI developed recommendations for segmental concrete pavement and installation tolerances based on the research they funded. 
+Based on this research, it was determined that some types of pavers (both square edged and beveled) and installation methods were an acceptable type of exterior paving. With the encouragement of the Access Board project, ICPI developed recommendations for segmental concrete pavement and installation tolerances based on the research they funded. 
 
 Refer to the ICPI document in Part 3 for the detailed recommendations and construction tolerances that were developed.
 
@@ -116,7 +116,7 @@ Refer to the ICPI document in Part 3 for the detailed recommendations and constr
 The BIA participated in the funding of the research conducted at the University of Pittsburgh and two brick paving patterns were tested along with the concrete pavers. The BIA agreed to develop surface tolerances as part of the Access Board project. These are currently under development.
 
 *Tile Council of North America (TCNA)*\
-The TCNA participated in this project and developed guidelines for ramp slopes, changes in level, flatness and lippage. These were published in the 2009 edition of the TCA Handbook for Ceramic Tile Installation. Refer to the TCNA document in Part 3 for the full text of the guidelines. 
+The TCNA participated in this project and developed guidelines for ramp slopes, changes in level, flatness and lippage. These were published in the 2009 edition of the TCA Handbook for Ceramic Tile Installation. Refer to the TCNA document in Part 3 for the full text of the guidelines. 
 
 #### Areas for further work
 
@@ -175,7 +175,7 @@ In the preamble adopting the 2004 guidelines as the 2010 Standards for Accessibl
 
 In addition, current practice for architectural and construction engineering drawings establish ambiguity and the potential for accumulated measurement error. For example, architects typically use chain dimensioning. If the contractor follows the chain in layout, slight errors can accumulate to the final dimension.
 
-It is also *not* standard practice to assume that a fractional measurement indicates a significant figure or the implied accuracy required. An architect may dimension something as 14' - 6 Â½" and want that to be built within a 1/16 - inch tolerance, not a Â±1/4 - inch tolerance as the value 6 Â½ inches indicates because of rounding. It is not standard practice to label the dimension as 14' - 6 4/8" to communicate this.
+It is also *not* standard practice to assume that a fractional measurement indicates a significant figure or the implied accuracy required. An architect may dimension something as 14' - 6 Â½" and want that to be built within a 1/16 - inch tolerance, not a Â±1/4 - inch tolerance as the value 6 Â½ inches indicates because of rounding. It is not standard practice to label the dimension as 14' - 6 4/8" to communicate this.
 
 When a dimension is especially important, drafters may use the word "HOLD" or some similar word to indicate that a dimension is important. Less important dimensions may have a Â± as a suffix to indicate that this dimension may vary slightly, although this practice is seldom used. In both cases the amount of the allowable variation is not clear.
 
@@ -183,19 +183,19 @@ Although significant figures could be used as a way to state expected accuracy o
 
 ##### 1.1 Best practices for design
 
-> **1.1.1** When a maximum or minimum dimension is a regulatory requirement use a drawing dimension that is less than a maximum limit or more than a minimum limit. The dimension should be determined by the expected tolerance of the construction element.
+> **1.1.1** When a maximum or minimum dimension is a regulatory requirement use a drawing dimension that is less than a maximum limit or more than a minimum limit. The dimension should be determined by the expected tolerance of the construction element.
 >
 > The simplest way for design professionals to avoid problems with construction tolerances related to surface accessibility and other accessible elements is to design for slopes and dimensions that are slightly less than maximums and slightly more than minimums. For example, the 1:12 slope stated in ADAAG and ADA/ABAAG is a maximum slope for ramps, not a design requirement. ADAAG and accessibility experts recommend that ramps be built with the least slope possible but in no case should a ramp exceed a 1:12 slope (except for curb ramp flares, and other approved exceptions). Although ramps with a slope slightly less than 1:12 take up more floor space, the negligible loss in usable space will more than compensate for potential problems caused by rebuilding or litigation due to ramps exceeding the 1:12 slope.
 >
-> **1.1.2** When a dimension range is the regulatory requirement use the midpoint of the range as the drawing dimension.
+> **1.1.2** When a dimension range is the regulatory requirement use the midpoint of the range as the drawing dimension.
 >
-> **1.1.3** A maximum overall design running slope for exterior accessible surfaces (other than ramps), such as sidewalks, of 4% (approximately 1:25) is recommended. In the ideal case, planning for a 4% running slope allows for construction inaccuracies while still not exceeding the maximum 1:20 slope for walking surfaces.
+> **1.1.3** A maximum overall design running slope for exterior accessible surfaces (other than ramps), such as sidewalks, of 4% (approximately 1:25) is recommended. In the ideal case, planning for a 4% running slope allows for construction inaccuracies while still not exceeding the maximum 1:20 slope for walking surfaces.
 >
-> **1.1.4** A maximum overall design running slope for exterior accessible ramps of 7.5% (1:13.3 or 1:13) is recommended. This allows for a potential plus tolerance of approximately 0.8% while not lengthening the ramp excessively. This also minimizes the effects of local variation while not lengthening the ramp excessively. Complying with a tolerance of +0.8% is generally possible with common methods of constructing ramps with concrete, asphalt, and pavers.
+> **1.1.4** A maximum overall design running slope for exterior accessible ramps of 7.5% (1:13.3 or 1:13) is recommended. This allows for a potential plus tolerance of approximately 0.8% while not lengthening the ramp excessively. This also minimizes the effects of local variation while not lengthening the ramp excessively. Complying with a tolerance of +0.8% is generally possible with common methods of constructing ramps with concrete, asphalt, and pavers.
 >
-> **1.1.5** A maximum design cross slope for accessible exterior pedestrian paving and ramps of 1.5% (1:67 or about 3/16 in. per ft. [15 mm per m]) is recommended. This allows for a potential plus tolerance of +0.5% while still providing for drainage. ADA/ABAAG states a maximum cross slope requirement of 1:48 (1/4 in./ft. [20 mm/m] or about 2%). Pervious concrete may also be considered for surfaces that are designed to be nearly level.
+> **1.1.5** A maximum design cross slope for accessible exterior pedestrian paving and ramps of 1.5% (1:67 or about 3/16 in. per ft. [15 mm per m]) is recommended. This allows for a potential plus tolerance of +0.5% while still providing for drainage. ADA/ABAAG states a maximum cross slope requirement of 1:48 (1/4 in./ft. [20 mm/m] or about 2%). Pervious concrete may also be considered for surfaces that are designed to be nearly level.
 >
-> **1.1.6** Accessible surfaces should be as smooth as possible. This includes localized variations in slope as well as bumpiness created by small, individual units such as bricks, concrete pavers, or wood slats.
+> **1.1.6** Accessible surfaces should be as smooth as possible. This includes localized variations in slope as well as bumpiness created by small, individual units such as bricks, concrete pavers, or wood slats.
 >
 > In most cases using concrete or asphalt minimizes the potential problems with bumpiness. However, smaller paving units may be used if the gap between the units and the lippage (difference in offset between units) is minimized. As a guide, research conducted at the University of Pittsburgh on concrete pavers found that limits on whole body vibration as established in ISO 2631, Evaluation of Human Exposure to Whole - Body Vibration were not exceeded if the bevel on the units was less than or equal to 6 mm (1/4 in.) and the pavers were placed in a 90 - degree herringbone pattern.
 >
@@ -205,9 +205,9 @@ Although significant figures could be used as a way to state expected accuracy o
 
 ##### 1.2 Best practices for drawing
 
-> **1.2.1** Use the plus - or - minus symbol (Â±) after a dimension when it must be made clear what the expected tolerance is. This should be coordinated with the specification requirements. Although current practice dictates that tolerances only be included in the specifications, many workers reading the drawings do not read the specifications so it makes sense to show critical tolerances on the drawings as well. Also include a general note stating that no additional allowances either plus or minus will be allowed. For example, use a format such as 6' - 4" (Â±1/8") or 1930 (Â±3 mm).
+> **1.2.1** Use the plus - or - minus symbol (Â±) after a dimension when it must be made clear what the expected tolerance is. This should be coordinated with the specification requirements. Although current practice dictates that tolerances only be included in the specifications, many workers reading the drawings do not read the specifications so it makes sense to show critical tolerances on the drawings as well. Also include a general note stating that no additional allowances either plus or minus will be allowed. For example, use a format such as 6' - 4" (Â±1/8") or 1930 (Â±3 mm).
 >
-> **1.2.2** Use datum dimensioning referenced to a primary or secondary control point on the construction site when the position of one item is particularly important. Do not dimension it based on one or more dimensions in a string.
+> **1.2.2** Use datum dimensioning referenced to a primary or secondary control point on the construction site when the position of one item is particularly important. Do not dimension it based on one or more dimensions in a string.
 
 #### 2 - Specifications
 
@@ -232,28 +232,28 @@ Many manufacturers and trade groups have guide specifications that include their
 >
 > **2.1.1** Clearly state the required installed tolerances for critical construction elements. In most cases, it is best to refer to industry standard tolerances or other industry documents when they exist. For example, ACI 117, Specifications for Tolerances for Concrete Construction and Materials and Commentary can be included without having to list the hundreds of individual tolerances given in the standard. If tolerances stricter than those given in an industry standard are required for a specific project, these should be stated, with the recognition that tighter tolerances may increase construction cost or time or both.
 >
-> **2.1.2** State the required tolerances for elements for which there are no industry standards. These may also include elements for which there is an industry tolerance for one aspect of the element but not others. For example, a product may have a manufacturing tolerance and an installed positional tolerance but not have an orientation tolerance for plumb.
+> **2.1.2** State the required tolerances for elements for which there are no industry standards. These may also include elements for which there is an industry tolerance for one aspect of the element but not others. For example, a product may have a manufacturing tolerance and an installed positional tolerance but not have an orientation tolerance for plumb.
 >
-> **2.1.3** State requirements for critical accumulated tolerances. These are instances where individual products and installation procedures may conform to industry standard tolerances but the final installed element may not meet regulatory, functional, or aesthetic requirements.\
+> **2.1.3** State requirements for critical accumulated tolerances. These are instances where individual products and installation procedures may conform to industry standard tolerances but the final installed element may not meet regulatory, functional, or aesthetic requirements.\
 >\
 
 ##### 2.2 Best practices for stating standards
 >
-> **2.2.1** List all applicable industry standards that define tolerances and measurement protocols, if any.
+> **2.2.1** List all applicable industry standards that define tolerances and measurement protocols, if any.
 >
-> **2.2.2** Set requirements for independent testing agencies that may be required to perform measurement for compliance. Specify the measurement tools that should be used to determine compliance with the tolerances.
+> **2.2.2** Set requirements for independent testing agencies that may be required to perform measurement for compliance. Specify the measurement tools that should be used to determine compliance with the tolerances.
 >
 ##### 2.3 Best practices for stating how compliance will be verified
 >
-> **2.3.1** Define the measurement protocols to be used to check for compliance with the tolerances and standards. This may include where measurements are made, how many should be made, and the number or percentage of measurements that must fall within the limits to be considered acceptable. For example, specifications may include limits on the number of local variations (dips and humps) on an accessible ramp to a maximum of 10 percent slope for no more than 20 percent of the measurements taken. If industry standards exist for measurement protocols, these should be referenced.
+> **2.3.1** Define the measurement protocols to be used to check for compliance with the tolerances and standards. This may include where measurements are made, how many should be made, and the number or percentage of measurements that must fall within the limits to be considered acceptable. For example, specifications may include limits on the number of local variations (dips and humps) on an accessible ramp to a maximum of 10 percent slope for no more than 20 percent of the measurements taken. If industry standards exist for measurement protocols, these should be referenced.
 >
-> **2.3.2** Define the measurement tools that should be used. The acceptable tools should be selected based on the accuracy required and a reasonable balance between the accuracy of the tool and the time, cost, and experience required for measurement. For example, floor profilers can provide a very accurate measurement of surface flatness but are expensive and require training to use. For exterior surfaces, a surveyor's transit or digital inclinometer may provide acceptable measurement for the same task.
+> **2.3.2** Define the measurement tools that should be used. The acceptable tools should be selected based on the accuracy required and a reasonable balance between the accuracy of the tool and the time, cost, and experience required for measurement. For example, floor profilers can provide a very accurate measurement of surface flatness but are expensive and require training to use. For exterior surfaces, a surveyor's transit or digital inclinometer may provide acceptable measurement for the same task.
 >
 ##### 2.4 Best practices for stating the result of noncompliance
 >
-> **2.4.1** Based on the methods for measuring compliance, define what remedial actions are acceptable when construction elements exceed tolerances. These may include total replacement, partial replacement, adjustment, moving, filling, patching, or other operations as appropriate for the construction element.
+> **2.4.1** Based on the methods for measuring compliance, define what remedial actions are acceptable when construction elements exceed tolerances. These may include total replacement, partial replacement, adjustment, moving, filling, patching, or other operations as appropriate for the construction element.
 >
-> **2.4.2** When defining acceptable methods of correction for a non - complying element, give reasonable consideration to how the remedial action may affect construction time, cost, adjacent construction, and appearance. If possible, give the contractor options for how the element may be brought into compliance.
+> **2.4.2** When defining acceptable methods of correction for a non - complying element, give reasonable consideration to how the remedial action may affect construction time, cost, adjacent construction, and appearance. If possible, give the contractor options for how the element may be brought into compliance.
 
 #### 3 - Best practices for pre - construction meetings
 
@@ -279,17 +279,17 @@ If a more detailed method of specifying tolerances and measurement protocols are
 
 ##### 1.1 Measurement protocols
 
-> **1.1.1 Measurement tools.** Distance measuring devices should be capable of measuring to a precision of 1/16 in. (1 mm). Angular or slope measuring devices should be capable of measuring to a precision of 0.1 degree and elevation measuring devices should be capable of measuring to a precision of 0.01 ft (1/8 in. or 3 mm).
+> **1.1.1 Measurement tools.** Distance measuring devices should be capable of measuring to a precision of 1/16 in. (1 mm). Angular or slope measuring devices should be capable of measuring to a precision of 0.1 degree and elevation measuring devices should be capable of measuring to a precision of 0.01 ft (1/8 in. or 3 mm).
 >
 > For measuring device accuracy, the instrument and technique for measurement should provide for an accuracy of at least one - third the required tolerance. For tolerance measurement requirements of 1/8 in (3 mm) this would mean a device capable of measuring to about 3/64 in. Because this is not realistic in construction, a tape measure with 1/16 in. divisions is a reasonable compromise for inch - pound units. For metric measure, most tapes are marked in 1 mm units, which make them ideal for determining 3 mm tolerances.
 >
 > If some tolerances are set at 0.5% slope (0.2865 degrees or approximately 0.3 degrees), then the accuracy of the instrument for measuring slope should be Â±0.1 degree. Digital inclinometers (SmartToolÂ®), floor profilers, and other electronic instruments are capable of measuring to this accuracy. 0.01 ft accuracy for elevations is common in surveying and nearly all instruments, including metal tapes, can achieve this accuracy.
 >
-> **1.1.2 Walks.** Measure walks and other non - ramp pedestrian surfaces for overall running slope and cross slope as well as local running slope and cross slope variations (flatness) in accordance with 1.1.3, 1.1.4, 1.1.5, 1.1.6, and 1.1.7. This includes surfaces with a maximum slope of 1:20 (5%), such as a walk, parking area, or a portion of a driveway that is also used for a walking surface.
+> **1.1.2 Walks.** Measure walks and other non - ramp pedestrian surfaces for overall running slope and cross slope as well as local running slope and cross slope variations (flatness) in accordance with 1.1.3, 1.1.4, 1.1.5, 1.1.6, and 1.1.7. This includes surfaces with a maximum slope of 1:20 (5%), such as a walk, parking area, or a portion of a driveway that is also used for a walking surface.
 >
-> **1.1.3 Walk running slope.** Measure for overall running slope (the primary direction of travel) by determining elevations at the ends of the walk, noticeable changes in slope, or at a maximum of 20 ft (6 m) intervals beginning at one end of the walking surface. Elevations should be measured at the midpoint of the width of the walking surface. Calculate the slope using the horizontal distance between elevation points and the difference between the elevations at those points (i.e. the rise over the run).
+> **1.1.3 Walk running slope.** Measure for overall running slope (the primary direction of travel) by determining elevations at the ends of the walk, noticeable changes in slope, or at a maximum of 20 ft (6 m) intervals beginning at one end of the walking surface. Elevations should be measured at the midpoint of the width of the walking surface. Calculate the slope using the horizontal distance between elevation points and the difference between the elevations at those points (i.e. the rise over the run).
 >
-> **1.1.4 Walk cross slope.** Measure for overall cross slope (the direction perpendicular to the running slope) by establishing elevations at the outside edges of the walking surface at 10 ft (3 m) intervals beginning at one end of the walking surface. Calculate the cross slope at these locations using the horizontal walking surface width and difference between the measurement elevations at the edges of the walking surface (i.e. the rise over the run).
+> **1.1.4 Walk cross slope.** Measure for overall cross slope (the direction perpendicular to the running slope) by establishing elevations at the outside edges of the walking surface at 10 ft (3 m) intervals beginning at one end of the walking surface. Calculate the cross slope at these locations using the horizontal walking surface width and difference between the measurement elevations at the edges of the walking surface (i.e. the rise over the run).
 >
 > If an obvious change in cross slope occurs between measuring points (such as a steeper driveway crossing a sidewalk), measure a minimum of two cross slopes at the steeper portion, but in no case should the measurements be farther apart than 5 ft (1.5 m).
 >
@@ -299,7 +299,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > In the draft guidelines for public rights - of - way (which are not yet final) an exception for slope is granted to sidewalks that follow the natural slope of the adjoining street or grade even though it may be steeper than 1:20.
 >
-> **1.1.5 Flatness of walk running slope.** For pedestrian paths up to and including 6 ft (1.8 m) wide, measure for flatness of the running slope at 10 ft (3 m) increments along the midpoint of the width of the walk by using a 10 ft (3 m) unleveled straightedge resting on high spots. Measure the distance between the straightedge and the surface at the largest gap. See Fig. 1(a). Alternately, electronic devices may be used that provide an equivalent 10 ft (3 m) flatness measurement.
+> **1.1.5 Flatness of walk running slope.** For pedestrian paths up to and including 6 ft (1.8 m) wide, measure for flatness of the running slope at 10 ft (3 m) increments along the midpoint of the width of the walk by using a 10 ft (3 m) unleveled straightedge resting on high spots. Measure the distance between the straightedge and the surface at the largest gap. See Fig. 1(a). Alternately, electronic devices may be used that provide an equivalent 10 ft (3 m) flatness measurement.
 >
 > For pedestrian paths over 6 ft (1.8 m) wide, measure for flatness of the running slope at 10 ft (3 m) increments along two paths, each 2 ft (600 mm) from the edge of the path. Using a 10 ft (3 m) straightedge resting on high points, measure at 10 ft (3 m) increments along the two lines. Measure the distance between the straightedge and the surface at the largest gap. See Fig. 1(b).
 >
@@ -307,14 +307,14 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > ![Figure 1: Non-ramp pedestrian path flatness measurement for running slope (paths up to an including 6 ft wide and paths over 6 feet wide]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig1.jpg)
 >
-> **1.1.6 Flatness of walk cross slope.** For walks and other pedestrian paths, measure flatness of the cross slope by placing a 24 - in. (600 mm) digital inclinometer perpendicular to the line of travel at 10 ft (3 m) intervals with not less than two measurements. Measure along two paths, each with the end of the digital inclinometer 1 ft (300 mm) from the edge of the path and placed toward the middle of the path. See Fig. 2. If the path is less than 6 ft (1.8 m) wide the ends of the measurement will overlap at each interval.
+> **1.1.6 Flatness of walk cross slope.** For walks and other pedestrian paths, measure flatness of the cross slope by placing a 24 - in. (600 mm) digital inclinometer perpendicular to the line of travel at 10 ft (3 m) intervals with not less than two measurements. Measure along two paths, each with the end of the digital inclinometer 1 ft (300 mm) from the edge of the path and placed toward the middle of the path. See Fig. 2. If the path is less than 6 ft (1.8 m) wide the ends of the measurement will overlap at each interval.
 >
 > This method of measurement is based on the assumption that most accessible exterior walks will be at least 60 in. (1525 mm) wide due to passing requirements and that users will tend to stay toward one side or the other when traveling, approximately 1 ft (300 mm) from the edge. This method will reveal problematic variations in cross slope even though the overall cross slope may meet the 1:48 (2%) limitation.
 >
 > ![Figure 2 Non-ramp pedestrian path flatness measurement of cross slope]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig2.jpg)
 >
 >\
-> **1.1.7 Measurement of parking areas.** Only accessible access aisles and passenger loading zones that are part of a larger parking area need to be measured. These areas should be considered as a pedestrian walk with a minimum width of 60 in. and a length of approximately 20 ft and with an ADA/ABA - AG maximum slope of 1:48 in both directions. Overall running slope (in the long dimension) and cross slope (in the short direction) should be measured according to Section 1.1.3 and 1.1.4. This means that the overall slope in the long dimension should be measured along the center of the aisle or zone using the ends of the area as elevation measuring points and cross slope should be measured at each end of the area and at the midpoint of the area. See Fig. 3.
+> **1.1.7 Measurement of parking areas.** Only accessible access aisles and passenger loading zones that are part of a larger parking area need to be measured. These areas should be considered as a pedestrian walk with a minimum width of 60 in. and a length of approximately 20 ft and with an ADA/ABA - AG maximum slope of 1:48 in both directions. Overall running slope (in the long dimension) and cross slope (in the short direction) should be measured according to Section 1.1.3 and 1.1.4. This means that the overall slope in the long dimension should be measured along the center of the aisle or zone using the ends of the area as elevation measuring points and cross slope should be measured at each end of the area and at the midpoint of the area. See Fig. 3.
 >
 > ![Figure 3 Parking access aisles and passenger loading zone measurement]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig3.jpg)\
 > **1.1.8 Alternate measurement tools.** Walks may be measured with instruments other than a digital inclinometer if they provide the data required for evaluation of tolerances as given in Sections 1.2.1, 1.2.2, and 1.2.3. If the F - number system is used pedestrian paths should have a minimum FF of 25. Running slope should be measured along the same lines of measurements as given in Section 1.1.3.
@@ -323,19 +323,19 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > An FF of 25 provides for a flatness of approximately Â¼ in. in 10 feet (6 mm in 3050 mm). Waviness index may be a more appropriate measure to include if floor profilers are used.
 >
-> **1.1.9 Horizontal gaps and vertical alignment.** Measure for local horizontal discontinuities and variations in vertical alignment such as at concrete joints, gaps, grade breaks, and at the interface of concrete with other materials or elements built into the surface. Measuring devices should be capable of measuring to a precision of 1/16 in. (1 mm).
+> **1.1.9 Horizontal gaps and vertical alignment.** Measure for local horizontal discontinuities and variations in vertical alignment such as at concrete joints, gaps, grade breaks, and at the interface of concrete with other materials or elements built into the surface. Measuring devices should be capable of measuring to a precision of 1/16 in. (1 mm).
 >
 > Requiring a measuring precision of 1/16 in. (1 mm) allows measurements to be made to the nearest 1/8 in. (3 mm) without interpolation and allows the use of commonly available measuring tapes.
 >
-> **1.1.10 Ramps.** Measure accessible ramps for overall running slope and cross slope as well as local running slope and cross slope variations (flatness) in accordance with Sections 1.1.11, 1.1.12, 1.1.13, and 1.1.14. Accessible ramps include curb ramps as well as other exterior ramps.
+> **1.1.10 Ramps.** Measure accessible ramps for overall running slope and cross slope as well as local running slope and cross slope variations (flatness) in accordance with Sections 1.1.11, 1.1.12, 1.1.13, and 1.1.14. Accessible ramps include curb ramps as well as other exterior ramps.
 >
 > **1.1.11 Ramp running slope.** Measure for overall running slope of ramps by determining elevations at the top and bottom of the ramp at the midpoint of the width of each ramp run and calculate the slope using the horizontal ramp length and difference between top and bottom elevations (i.e. the rise over the run).
 >
-> **1.1.12 Ramp cross slope.** Measure for overall cross slope of ramps by establishing elevations at the extreme edges of the ramp at the top and bottom of the ramp and calculate the cross slope at these two locations using the horizontal ramp width and difference between elevations at the edges of the ramp (i.e. the rise over the run). A simple method of establishing the relative elevations of the top and bottom of each ramp is to use a rotating laser level on a tripod and document the difference in height on a stiff metal tape measure or surveyor's rod.
+> **1.1.12 Ramp cross slope.** Measure for overall cross slope of ramps by establishing elevations at the extreme edges of the ramp at the top and bottom of the ramp and calculate the cross slope at these two locations using the horizontal ramp width and difference between elevations at the edges of the ramp (i.e. the rise over the run). A simple method of establishing the relative elevations of the top and bottom of each ramp is to use a rotating laser level on a tripod and document the difference in height on a stiff metal tape measure or surveyor's rod.
 >
 > This method of establishing the running slope and cross slope is consistent with the requirements of ADA/ABA - AG, which gives the standard for running slope and cross slope as 1:12 and 1:48, respectively. Currently, these are the only ADA/ABA - AG requirements related to running and cross slope that must be met.
 >
-> **1.1.13 Flatness of ramp running slope.** Measure flatness in the running slope of ramps at 12 - in. (300 mm) increments by using successive, overlapping 24 - in. (600 mm) lengths using a 24 - in. digital inclinometer. For each measurement lay the instrument such that it reads the steepest slope or spans between two high points. See Fig. 4. Alternately, measurement can be made by using a digital inclinometer mounted on a 12 - in. (300 mm) beam or similar instrument with accuracy as stated in 1.1.1. Measuring 12 - in. (300 mm) lengths can account for local variations in slope that may be difficult for a person in a wheelchair or using other mobility aids to use.
+> **1.1.13 Flatness of ramp running slope.** Measure flatness in the running slope of ramps at 12 - in. (300 mm) increments by using successive, overlapping 24 - in. (600 mm) lengths using a 24 - in. digital inclinometer. For each measurement lay the instrument such that it reads the steepest slope or spans between two high points. See Fig. 4. Alternately, measurement can be made by using a digital inclinometer mounted on a 12 - in. (300 mm) beam or similar instrument with accuracy as stated in 1.1.1. Measuring 12 - in. (300 mm) lengths can account for local variations in slope that may be difficult for a person in a wheelchair or using other mobility aids to use.
 >
 > ![Figure 4 Measuring local ramp slope]({{ site.baseurl }}/images/research/building/dimensional-tolerances/fig4.jpg)
 >
@@ -369,7 +369,7 @@ If a more detailed method of specifying tolerances and measurement protocols are
 >
 > An FF of 25 provides for a flatness of approximately Â¼ in. in 10 ft (6 mm in 3050 mm). Waviness index may be a more appropriate measure to include if floor profilers are used. The waviness index method is described in ASTM E 1486, Standard Test Method for Determining Floor Tolerances Using Waviness, Wheel Path and Levelness Criteria.
 >
-> **1.1.17 Stairs.** Measure cast - in - place stairs for both riser height and tread depth of each riser and tread. For stairs 60 in. (1520 mm) or less in width, measure along a line approximately 18 in. (460 mm) from the wall or outside edge of the stair. For stairs with intermediate handrails take additional measurements approximately 15 in. (380 mm) on both sides of the intermediate handrail.
+> **1.1.17 Stairs.** Measure cast - in - place stairs for both riser height and tread depth of each riser and tread. For stairs 60 in. (1520 mm) or less in width, measure along a line approximately 18 in. (460 mm) from the wall or outside edge of the stair. For stairs with intermediate handrails take additional measurements approximately 15 in. (380 mm) on both sides of the intermediate handrail.
 >
 > Measuring about 18 inches from the wall or edge of the stair places the measurement about where foot traffic is most likely.
 >
@@ -381,27 +381,27 @@ If a more detailed method of specifying tolerances and measurement protocols are
 
 ##### 1.2 Suggested tolerances
 
-> **1.2.1 Walks and other non - ramp surfaces.** When overall running slope for walks is measured according to Section 1.1.3 a recommended tolerance for running slope is +1%. When overall cross slope for sidewalks is measured according to 1.1.4 a recommended tolerance for cross slope is +0.5%.
+> **1.2.1 Walks and other non - ramp surfaces.** When overall running slope for walks is measured according to Section 1.1.3 a recommended tolerance for running slope is +1%. When overall cross slope for sidewalks is measured according to 1.1.4 a recommended tolerance for cross slope is +0.5%.
 >
-> **1.2.2** When flatness of running slope for an accessible surface other than a ramp is measured according to Section 1.1.5 no more than 20% (rounded to the nearest whole number) of the measurements should exceed Â±1/4 in. in 10 ft (Â±6 mm in 3 m). When flatness of cross slope for an accessible surface other than a ramp is measured according to Section 1.1.6 at least 80% (rounded to the nearest whole number) of the measurements should not exceed a 2% slope. The remaining measurements should not exceed a 2.5% slope.
+> **1.2.2** When flatness of running slope for an accessible surface other than a ramp is measured according to Section 1.1.5 no more than 20% (rounded to the nearest whole number) of the measurements should exceed Â±1/4 in. in 10 ft (Â±6 mm in 3 m). When flatness of cross slope for an accessible surface other than a ramp is measured according to Section 1.1.6 at least 80% (rounded to the nearest whole number) of the measurements should not exceed a 2% slope. The remaining measurements should not exceed a 2.5% slope.
 >
 > **1.2.3 Landings.** Both measurements of ramp landings as described in Section 1.1.15 should not exceed a plus tolerance of 0.5%.
 >
-> **1.2.4** When local horizontal discontinuities and vertical alignments are measured according to Section 1.1.9 a recommended tolerance is Â±1/8 in. (3 mm).
+> **1.2.4** When local horizontal discontinuities and vertical alignments are measured according to Section 1.1.9 a recommended tolerance is Â±1/8 in. (3 mm).
 >
-> **1.2.5 Ramps.** When overall running slope and cross slope for accessible ramps are measured according to Sections 1.1.11 a recommended tolerance for these slopes is +0.5%.
+> **1.2.5 Ramps.** When overall running slope and cross slope for accessible ramps are measured according to Sections 1.1.11 a recommended tolerance for these slopes is +0.5%.
 >
 > In the ideal case, planning for a 7.5% running slope allows for construction inaccuracies while still maintaining the required 1:12 slope. However, when a design slope of 1:12 is indicated a tolerance of +0.5% is reasonable.
 >
 > Many accessibility experts consider a 2% cross slope to be the maximum. However, there is conflicting research concerning the need to have a 2% maximum cross slope and that the actual maximum depends on user type (wheelchair, walker, cane, etc.), length of travel, and other variables. It seems reasonable to allow a +0.5% tolerance for ramp slopes and cross slopes.
 >
-> **1.2.6** When local variations (flatness) in running slope of ramps are measured according to 1.1.13 at least 80% (rounded to the nearest whole number) of the measurements should not exceed an 8.3% slope. The remaining measurements should not exceed a 10% slope.
+> **1.2.6** When local variations (flatness) in running slope of ramps are measured according to 1.1.13 at least 80% (rounded to the nearest whole number) of the measurements should not exceed an 8.3% slope. The remaining measurements should not exceed a 10% slope.
 >
 > Allowing a small percentage of localized slopes to exceed 8.3% is based on the allowable slopes in ADA/ABA - AG (2004) for existing buildings of 1:8 (12.5%) for maximum rises of 3 inches and 1:10 (10%) for maximum rises of 6 inches. The 1980 ANSI A117 standard also allowed this with the additional provision that an existing ramp slope of up to 1:8 could have a maximum run of 2 feet (0.6 m). Allowing 20% of local variations to slope up to 10% seems reasonable for a distance of one foot. This would mean that localized dips and high points in a 2 - foot distance would be about Â¼ in. (6 mm) or a little less.
 >
-> **1.2.7** When local variations (flatness) for cross slope of ramps are measured according to 1.1.14 at least 80% (rounded to the nearest whole number) should not exceed a 2% slope. The remaining measurements should not exceed a 2.5% cross slope. When four or fewer measurements are made, only one should not exceed a 2.5% cross slope, while the others should not exceed a 2% slope
+> **1.2.7** When local variations (flatness) for cross slope of ramps are measured according to 1.1.14 at least 80% (rounded to the nearest whole number) should not exceed a 2% slope. The remaining measurements should not exceed a 2.5% cross slope. When four or fewer measurements are made, only one should not exceed a 2.5% cross slope, while the others should not exceed a 2% slope
 >
-> **1.2.8** Exterior stairs, cast - in - place. When cast - in - place exterior stairs are measured according to Section 1.1.17 the requirements of the local building code shall govern tolerances.
+> **1.2.8** Exterior stairs, cast - in - place. When cast - in - place exterior stairs are measured according to Section 1.1.17 the requirements of the local building code shall govern tolerances.
 
 
 ---
@@ -614,7 +614,7 @@ Generally, a measurement device should read one unit more accurate than the requ
 
 The Precast Concrete Institute recommends that the precision of the measuring technique used to verify a dimension should be capable of reliably measuring to a precision of one - third the magnitude of the specified tolerance.
 
-**Metal measuring tapes** are the most commonly used tools for measuring distances. They are inexpensive, easy to use, and are available in English or metric units. Most tapes used in construction are graduated in units of 1/16 inch or millimeters. Accuracy depends on the quality of manufacturing, how they are maintained, and correctness of use.
+**Metal measuring tapes** are the most commonly used tools for measuring distances. They are inexpensive, easy to use, and are available in English or metric units. Most tapes used in construction are graduated in units of 1/16 inch or millimeters. Accuracy depends on the quality of manufacturing, how they are maintained, and correctness of use.
 
 The National Institute of Standards and Technology publishes tolerances for metal tapes in its Handbook 44, Section 5.52.
 
@@ -684,19 +684,19 @@ From NIST Handbook 44, Section 5.52, p. 5 - 12.\
 
 The NIST Handbook 44, Section 10.3 gives the following rules for the reading of indications on graduated scales if it is desired to read or record values only to the nearest graduation. If the indicator is between two graduations, but is closer to one graduation than it is to the other, the value of the closer graduation is the one to be read or recorded. "In the case where, as nearly as can be determined, the indicator is midway between two graduations, the odd - and - even rule is invoked, and the value to be read or recorded is that of the graduation whose value is even." In most cases readings can be no more accurate than the smallest graduation.
 
-**Carpenter's levels** are used for setting level and plumb only. To determine angles the level must be used with a measuring tape to determine slope. This introduces several sources of possible errors, but uses inexpensive and readily available tools.
+**Carpenter's levels** are used for setting level and plumb only. To determine angles the level must be used with a measuring tape to determine slope. This introduces several sources of possible errors, but uses inexpensive and readily available tools.
 
 **Digital inclinometers (SmartToolÂ®)**, while slightly more expensive than standard levels, are easy to calibrate and use and can measure slopes in degrees, percent, and fractions per foot. They have an accuracy of 0.1 degree and come in 2 - foot and 4 - foot lengths. The individual electronic module can also be mounted on other devices to create customized measuring instruments.
 
-**Transits and construction lasers** are useful for setting or measuring overall elevation points to determine a total slope. Most construction lasers have an accuracy of Â±1/16 inch in 100 feet (1.6 mm in 30.5 m) and even greater accuracies in shorter distances. While these instruments have the necessary accuracy to determine distances and elevation points, they are not as well suited for measuring local variations of slope over small distances.
+**Transits and construction lasers** are useful for setting or measuring overall elevation points to determine a total slope. Most construction lasers have an accuracy of Â±1/16 inch in 100 feet (1.6 mm in 30.5 m) and even greater accuracies in shorter distances. While these instruments have the necessary accuracy to determine distances and elevation points, they are not as well suited for measuring local variations of slope over small distances.
 
-**Electronic instruments** have been developed to measure floor flatness. Originally created to measure the flatness of concrete floors in critical applications such as narrow - aisle warehouses, these devices can be used to measure slope flatness. Their disadvantages include a high initial cost and training needed for their proper use or the employment of a testing agency. These devices were developed to more accurately and easily measure floors according to the F - number system and the waviness index, which are described later in this paper. Electronic instruments include the F - meter, DipstickÂ®, and FloorProÂ®. Other devices are listed in the appendix.
+**Electronic instruments** have been developed to measure floor flatness. Originally created to measure the flatness of concrete floors in critical applications such as narrow - aisle warehouses, these devices can be used to measure slope flatness. Their disadvantages include a high initial cost and training needed for their proper use or the employment of a testing agency. These devices were developed to more accurately and easily measure floors according to the F - number system and the waviness index, which are described later in this paper. Electronic instruments include the F - meter, DipstickÂ®, and FloorProÂ®. Other devices are listed in the appendix.
 
-**Laser scanners** use laser beams to automatically develop a three - dimensional image of a space. These types of instruments could be used to measure floor flatness and level but they are very expensive, require training, and give accuracies in excess of what is needed for accessible design.
+**Laser scanners** use laser beams to automatically develop a three - dimensional image of a space. These types of instruments could be used to measure floor flatness and level but they are very expensive, require training, and give accuracies in excess of what is needed for accessible design.
 
-**The SmartWheel** is a wheelchair - mounted device for measuring propulsion parameters that can be used to compute forces, acceleration, rate of rise, velocity, stroke length, and other aspects of wheelchair use. The SmartWheel has been accepted as a measurement tool for the ASTM PS 83 - 97/F1951 Standard on Playground Surface Accessibility.
+**The SmartWheel** is a wheelchair - mounted device for measuring propulsion parameters that can be used to compute forces, acceleration, rate of rise, velocity, stroke length, and other aspects of wheelchair use. The SmartWheel has been accepted as a measurement tool for the ASTM PS 83 - 97/F1951 Standard on Playground Surface Accessibility.
 
-In addition to the instruments discussed above, during the course of this project the city of Bellevue, Washington developed a Segway - mounted device to survey the city's sidewalks and curbs to determine if they met accessibility standards. It used an **ultra - light inertial profiler (ULIP)** manufactured by Starodub, Inc. in Kengington, MD. This instrument gives a very small sampling interval of about 0.5 mm at maximum speed. Although providing very accurate data and the ability to extrapolate to longer intervals, there still needs to be a standard for slope, flatness, and smoothness at longer intervals.
+In addition to the instruments discussed above, during the course of this project the city of Bellevue, Washington developed a Segway - mounted device to survey the city's sidewalks and curbs to determine if they met accessibility standards. It used an **ultra - light inertial profiler (ULIP)** manufactured by Starodub, Inc. in Kengington, MD. This instrument gives a very small sampling interval of about 0.5 mm at maximum speed. Although providing very accurate data and the ability to extrapolate to longer intervals, there still needs to be a standard for slope, flatness, and smoothness at longer intervals.
 
 **Some existing measurement protocols**
 

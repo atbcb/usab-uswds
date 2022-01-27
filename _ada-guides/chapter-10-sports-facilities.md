@@ -11,7 +11,7 @@ redirect_from:
 
 _The products shown in this guide are only intended to serve as examples to illustrate the accessibility guidelines, and are not intended as endorsements of the products. Other products may be available. The Access Board does not evaluate or certify products for compliance with the accessibility guidelines. Users are advised to obtain and review product specifications for compliance with the accessibility guidelines._
 </div>
-
+{% include sr-dimension-markings.html %}
 * * *
 
 ### Introduction
@@ -167,7 +167,7 @@ Designers and operators are encouraged to select exercise equipment that provide
 
 ![photo of persons using wheelchairs at shooting range]({{ site.baseurl }}{{ page.image-directory }}chapter10/sports-guide/pva.jpg){: .float-right .img-right}
 
-If facilities provide fixed firing positions, at least 5 percent, but not less than one of each type of fixed firing position must be served by an accessible route. Fixed firing positions must have a 60-inch diameter space with slopes not steeper than 1:48 so a wheelchair user can turn around and have a level place from which to shoot.
+If facilities provide fixed firing positions, at least 5 percent, but not less than one of each type of fixed firing position must be served by an accessible route. Fixed firing positions must have a 60 inch diameter space with slopes not steeper than 1:48 so a wheelchair user can turn around and have a level place from which to shoot.
 
 Types of different firing positions include positions with different admission prices, positions with or without weather covering or lighting, and positions that support different shooting events (e.g., muzzle loading rifle, small bore rifle, high power rifle, bull’s eye pistol, action pistol, silhouette, trap, skeet, and archery).
 
@@ -181,9 +181,9 @@ At least 5 percent, but not less than one, of each type of bowling lane must be 
 
 <p>This table highlights the sections of the ADA and ABA Accessibility Standards discussed in the sports facilities guide.</p>
 
-<span id="asterisk">* The guide uses the term ADAAG (Americans with Disabilities Act
+<span id="asterisk">* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
- The recreational provisions of these guidelines were adopted into the
+ The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
 the Architectural Barriers Act (ABA) Accessibility Standards).

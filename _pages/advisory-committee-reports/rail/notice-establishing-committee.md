@@ -4,7 +4,7 @@ layout: page
 ---
 
 # {{ page.title }}
-Published in the *Federal Register* on May 23, 2013.     
+Published in the *Federal Register* on May 23, 2013.     
 
 36 CFR Part 1192\
 Docket No. ATBCB-2013-0006\
@@ -12,19 +12,19 @@ RIN 3014-AA40
 
 **Rail Vehicles Access Advisory Committee**
 
-**AGENCY:**  Architectural and Transportation Barriers Compliance Board.
+**AGENCY:**  Architectural and Transportation Barriers Compliance Board.
 
-**ACTION:**  Notice of establishment; appointment of members.
+**ACTION:**  Notice of establishment; appointment of members.
 
-**SUMMARY:** We, the Architectural and Transportation Barriers Compliance Board (Access Board), have decided to establish an advisory committee to advise us on revising and updating our accessibility guidelines for transportation vehicles that operate on fixed guideway systems (e.g., rapid rail, light rail, commuter rail, intercity rail, and high speed rail).
+**SUMMARY:** We, the Architectural and Transportation Barriers Compliance Board (Access Board), have decided to establish an advisory committee to advise us on revising and updating our accessibility guidelines for transportation vehicles that operate on fixed guideway systems (e.g., rapid rail, light rail, commuter rail, intercity rail, and high speed rail).
 
-**DATES:** A notice of the first meeting will be published in the Federal Register after consulting with the committee members.
+**DATES:** A notice of the first meeting will be published in the Federal Register after consulting with the committee members.
 
-**ADDRESSES:** Committee meetings will be held at the Access Board's conference room, 1331 F Street, NW., suite 800, Washington, DC 20004.
+**ADDRESSES:** Committee meetings will be held at the Access Board's conference room, 1331 F Street, NW., suite 800, Washington, DC 20004.
 
-**FOR FURTHER INFORMATION CONTACT:** Paul Beatty, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street NW., suite 1000, Washington, DC 20004-1111. Telephone: (202) 272-0012 (Voice) or (202) 272-0072 (TTY). Email address: <rvaac@access-board.gov>.
+**FOR FURTHER INFORMATION CONTACT:** Paul Beatty, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street NW., suite 1000, Washington, DC 20004-1111. Telephone: (202) 272-0012 (Voice) or (202) 272-0072 (TTY). Email address: <rvaac@access-board.gov>.
 
-**SUPPLEMENTARY INFORMATION:** 
+**SUPPLEMENTARY INFORMATION:** 
 
 In this notice, ''we,'' ''us'' and ''our'' refer to the Architectural and Transportation Barriers Compliance Board (Access Board).
 

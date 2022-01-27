@@ -30,4 +30,4 @@ Second, in the absence of any better information, it is recommended that a numbe
 -   Permit rear or floor mounted swing-away grab bars on both sides of the toilet.
 -   Accommodate non-standard bathtubs such as the Kohler Precedence tub by permitting a single horizontal grab bar.
 -   Permit swing away grab bars in and adjacent to tubs and showers to add flexibility.
--   Finally, even though orientation of toilet rooms do not directly impact transfer, toilet room designs that minimize turning radii (e.g., doors on 450 angles) should be encouraged to facilitate access.
+-   Finally, even though orientation of toilet rooms do not directly impact transfer, toilet room designs that minimize turning radii (e.g., doors on 450 angles) should be encouraged to facilitate access.

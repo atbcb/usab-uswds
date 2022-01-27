@@ -31,15 +31,15 @@ All Phase II surfaces (Table 1) were selected based on an evaluation of Phase I 
 
 Four bonding systems were used to fabricate these surfaces.These systems* are:
 
-> a) silicone-based, Dow-Corning *AllGuard*, a waterproofing coating,
+> a) silicone-based, Dow-Corning *AllGuard*, a waterproofing coating,
 >
-> b) a synthetic latex, Midwest Industrial *Soil-Sement*
+> b) a synthetic latex, Midwest Industrial *Soil-Sement*
 >
-> c) a foaming polyurethane (Franklin *ReacTITE 8143)*, and
+> c) a foaming polyurethane (Franklin *ReacTITE 8143)*, and
 >
-> d) a non-foaming polyurethane (Vitricon's) *Vitriturf*
+> d) a non-foaming polyurethane (Vitricon's) *Vitriturf*
 >
-> * *Tradenames used only for the reader's information and do not constitute an endorsement by USDA Forest Service.*
+> * *Tradenames used only for the reader's information and do not constitute an endorsement by USDA Forest Service.*
 
 One interfacial treatment was used for two of the surfaced specimens. A 1.2 m x 1.2 m (48 in. x 48 in.) single ply layer of lightweight polyolefin landscaping geotextile was placed between the unbonded and bonded layers of these specimens. The geotextile was intended to provide cotinuity for the thinner bonded surface layers in the event that they might fracture through the entire thickness. When this happens the layer could be ejected from its original position and become a hazard on the remaining bonded surface.
 
@@ -81,7 +81,7 @@ f)Immediately dump the resin/EWF mixture onto the target pad, spread with hand t
 
 > > > > > Figure 2. Representational cross-section of the installed surfaces. Note that the EWF thickness includes the thickness of any stabilized EWF layer.
 
-#### Test *Procedures*
+#### Test *Procedures*
 
 #### *Accessibility Measures*
 

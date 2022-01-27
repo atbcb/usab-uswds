@@ -32,7 +32,7 @@ A typical modern roundabout (Figures 1 and 2) is an unsignalized intersection wi
 ![Figure 2. Typical urban double-lane roundabout in plan view]({{ site.baseurl }}/images/research/prow/roundabouts/fig2.jpg)
 
 Figure 2. Typical urban double-lane roundabout\
-from *Roundabouts: An Informational Guide* *(FHWA)*
+from *Roundabouts: An Informational Guide* *(FHWA)*
 
 Roundabouts have raised or painted splitter islands at each approach that separate the entry and exit lanes of a street. These splitter islands are designed to deflect traffic and thus reduce vehicle speed. Splitter islands also provide a pedestrian refuge between the inbound and outbound traffic lanes.
 
@@ -73,4 +73,4 @@ Key street-crossing tasks for the blind pedestrian include:
 -   monitoring traffic during the crossing; and
 -   detecting the destination sidewalk or median island.
 
-When traffic sound cues are absent (e.g., when there are no cars on the street parallel to the pedestrian's line of travel, and thus no auditory cue that the signal has changed) or unpredictable (e.g., when the intersection is of a major and minor street, and traffic signals are actuated by vehicles), information may be insufficient for determining the onset of the walk interval. In such situations, APS systems may be necessary. New guidance on the use of APS appears in the 2000 edition of the *Manual of Uniform Traffic Control Devices* (MUTCD).
+When traffic sound cues are absent (e.g., when there are no cars on the street parallel to the pedestrian's line of travel, and thus no auditory cue that the signal has changed) or unpredictable (e.g., when the intersection is of a major and minor street, and traffic signals are actuated by vehicles), information may be insufficient for determining the onset of the walk interval. In such situations, APS systems may be necessary. New guidance on the use of APS appears in the 2000 edition of the *Manual of Uniform Traffic Control Devices* (MUTCD).

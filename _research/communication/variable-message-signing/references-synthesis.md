@@ -28,7 +28,7 @@ Colomb, M. and Hubert, R. (1991).Legibility and contrast requirements of variabl
 
 Colomb, M., Hubert, R., Carta, M., and Dore-Picard. (1991). Variable-message signs: Legibility and recognition of symbols.Proceedings of the Conference Strategic Highway Research Program and Traffic Safety on Two Continents, in Gothenburg, Sweden.p45-62.
 
-Community Services for the Blind and Partially Sighted (2002) Vision loss: Definitions. <http://www.csbps.com/info/default.shtml.> 9709 Third Ave. NE, #100, Seattle, WA 98115-2027.
+Community Services for the Blind and Partially Sighted (2002) Vision loss: Definitions. <http://www.csbps.com/info/default.shtml.> 9709 Third Ave. NE, #100, Seattle, WA 98115-2027.
 
 Concise Medical Dictionary.(1998). Oxford University Press, Market House Books Limited.
 
@@ -62,7 +62,7 @@ Hunter-Zaworski, K. (1994).Accessing public transportation: New Technologies Aid
 
 Iannuzziello, A.S. (2001) Communicating with persons with disabilities in a multimodal transit environment: A synthesis of transit practice. Transit Cooperative Research Program (TCRP) Synthesis 37. Transportation Research Board, National Research Council, National Academy Press. Washington, D.C.
 
-Jenkins, S.E. 1991. *Optical & Photometric Standards for Variable Message Signs*. Australian Road Research Board, Report Summary, No. ARR-216.
+Jenkins, S.E. 1991. *Optical & Photometric Standards for Variable Message Signs*. Australian Road Research Board, Report Summary, No. ARR-216.
 
 Joffee, E. (1995).Transit vehicle signage for persons who are blind or visually impaired.Journal of Visual Impairment and Blindness, 89(5), Research Notes, p461-469.
 
@@ -84,7 +84,7 @@ Lovie-Kitchin, J.E., bowers, A.R., and Woods, R.L. (2000).Oral and silent readin
 
 Marston, P.P. (1993). Changeable message signs: avoiding design and procurement pitfalls. Public Roads,Autumn, p27-34.
 
-MUTCD 2000: Manual on Uniform Traffic Control Devices Millennium Edition.(2000). U.S. DOT, Federal Highway Administration. <http://mutcd.fhwa.dot.gov/kno-millennium.htm>
+MUTCD 2000: Manual on Uniform Traffic Control Devices Millennium Edition.(2000). U.S. DOT, Federal Highway Administration. <http://mutcd.fhwa.dot.gov/kno-millennium.htm>
 
 Proffitt, D.R., Wade, M.M., and Lynn, C. (1998).Creating effective variable message signs: Human factors issues. Final Contract Report, Proj No. 9816-040-940 ,VTRC 98-CR31. 25p. Virginia Department of Transportation, Richmond, VA.
 
