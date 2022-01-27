@@ -8,10 +8,13 @@ permalink: /prowag/other/detectable-warning-manufacturers.html
 ---
 ## {{ page.title }}
 
-The manufacturers listed below offer truncated dome detectable warning products. Neither the Access Board nor the U.S. Government assumes liability for the contents of this list or its use, nor do they endorse manufacturers or their products.  The Access Board does not evaluate products or certify products as complying with the requirements of any accessibility standard.  Products are listed because of their potential usefulness to individuals and not because they have been verified to meet the requirements of any accessibility standard.  Direct updates or corrections to this list to <webmaster@access-board.gov>.
+The manufacturers listed below offer truncated dome detectable warning products.  
+
+Note that neither the Access Board nor the U.S. Government assumes liability for the contents of the list or its use, nor do they endorse manufacturers or their products.  The Access Board does not evaluate products or certify products as complying with the requirements of any accessibility standard.  Products are listed because of their potential usefulness to individuals and not because they have been verified to meet the requirements of any accessibility standard.
+
+Direct updates or corrections to this list to <row@access-board.gov>.
 
 See also [Accessible Design for the Blind](http://www.accessforblind.org/dw_manufacturers.html).
-Manufacturers of Detectable Warning Products
 
 ### A
 
