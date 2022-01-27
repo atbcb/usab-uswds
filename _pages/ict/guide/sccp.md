@@ -17,7 +17,7 @@ permalink: /ict/guide/sccp.html
 
 ![calculator](./images/calculator.jpg)
 
-Self contained closed products generally have embedded software and are commonly designed in such a fashion that a user cannot easily attach or install assistive technology. For example, one could attach a screen reader to a computer which meets the section 508 standards but one would not be expected to attach a screen reader to a copier machine. A copier machine is an example of a self-contained, closed product. Other examples include, 
+Self contained closed products generally have embedded software and are commonly designed in such a fashion that a user cannot easily attach or install assistive technology. For example, one could attach a screen reader to a computer which meets the section 508 standards but one would not be expected to attach a screen reader to a copier machine. A copier machine is an example of a self-contained, closed product. Other examples include, 
 calculators, fax machines, information transaction machines, and information kiosks. 
 
 ![credit card transaction machine](./images/ccmachine.jpg)
@@ -26,7 +26,7 @@ Unlike other provisions which allow a product to meet the standards by being com
 
 * * * * *
 
-**(b)** **When a timed response is required, the user shall be alerted and given sufficient time to indicate more time is required.**
+**(b)** **When a timed response is required, the user shall be alerted and given sufficient time to indicate more time is required.**
 
 ![Person on phone receiving audio message "You have 15 seconds to finish your message."](./images/5mincall.jpg)
 
@@ -34,7 +34,7 @@ This provision addresses access problems that can arise when self contained, clo
 
 * * * * *
 
-**(c) Where a product utilizes touchscreens or contact-sensitive controls, an input method shall be provided that complies with §1194.23 (k) (1) through (4).**
+**(c) Where a product utilizes touchscreens or contact-sensitive controls, an input method shall be provided that complies with §1194.23 (k) (1) through (4).**
 
 **(1) Controls and keys shall be tactilely discernible without activating the controls or keys.**
 
@@ -60,7 +60,7 @@ If a panel of lights were used strictly for troubleshooting, they would not be a
 
 **What is meant by "tactilely discernible"?**
 
-![close-up of "J" key and surronding keys on keyboard](./images/keyboard.jpg) 
+![close-up of "J" key and surronding keys on keyboard](./images/keyboard.jpg) 
 
 Individual keys must be identifiable and distinguishable from adjacent keys by touch. A product can meet this provision by using various shapes, spacing, or tactile markings. The normal desktop computer keyboard, for example, would meet this provision because the tactile marks on the "j" and "f" keys permit a user to locate all other keys tactilely. In addition, the physical spacing of the function, "numpad" and cursor keys make them easy to locate by touch. Because touch is necessary to discern tactile features, this provision requires keyboards to enable touch that does not automatically activate a function based on mere contact. Fortunately, most keyboards require some pressure on individual keys in order to enable a keystroke.
 
@@ -76,13 +76,13 @@ This provision addresses a challenge encountered by some people with fine motor 
 
 **How will individuals with disabilities benefit from the requirement enabling operability without tight grasping, pinching, twisting, or pressure?**
 
-![computer keyboard](./images/numberkeypad.jpg) 
+![computer keyboard](./images/numberkeypad.jpg) 
 
-Individuals with tremor, cerebral palsy, or other disabilities may have difficulty operating systems which require fine motor control, a steady hand, or two hands to be used simultaneously for operation. Individuals with high spinal cord injuries, arthritis, and other conditions may have difficulty operating controls which require significant strength. This provision limits the force required to five pounds and is based on section 4.27.4 of the [ADA Accessibility Guidelines](http://www.access-board.gov/adaag/html/adaag.htm), codified as the ADA Standards for Accessible Design as part of the Department of Justice's regulation implementing title III of the ADA at 28 C.F.R. pt. 36, Appendix A. This provision is also consistent with the Telecommunications Act Accessibility Guidelines.
+Individuals with tremor, cerebral palsy, or other disabilities may have difficulty operating systems which require fine motor control, a steady hand, or two hands to be used simultaneously for operation. Individuals with high spinal cord injuries, arthritis, and other conditions may have difficulty operating controls which require significant strength. This provision limits the force required to five pounds and is based on section 4.27.4 of the [ADA Accessibility Guidelines](http://www.access-board.gov/adaag/html/adaag.htm), codified as the ADA Standards for Accessible Design as part of the Department of Justice's regulation implementing title III of the ADA at 28 C.F.R. pt. 36, Appendix A. This provision is also consistent with the Telecommunications Act Accessibility Guidelines.
 
 * * * * *
 
-(d) When biometric forms of user identification or control are used, an alternative form of identification or activation, which does not require the user to possess particular biological characteristics, shall also be provided.
+(d) When biometric forms of user identification or control are used, an alternative form of identification or activation, which does not require the user to possess particular biological characteristics, shall also be provided.
 
 **What are biometric forms of user identification or control?**
 
@@ -94,7 +94,7 @@ Biometric controls provide a high level of security. However, when a system need
 
 * * * * *
 
-(e) When products provide auditory output, the audio signal shall be provided at a standard signal level through an industry standard connector that will allow for private listening. The product must provide the ability to interrupt, pause, and restart the audio at anytime.
+(e) When products provide auditory output, the audio signal shall be provided at a standard signal level through an industry standard connector that will allow for private listening. The product must provide the ability to interrupt, pause, and restart the audio at anytime.
 
 **Does this provision apply to "beeps and tones" or to voice signals only?**
 
@@ -106,11 +106,11 @@ People who regularly use information transaction kiosks may plan to carry a port
 
 * * * * *
 
-(f) When products deliver voice output in a public area, incremental volume control shall be provided with output amplification up to a level of at least 65 dB. Where the ambient noise level of the environment is above 45 dB, a volume gain of at least 20 dB above the ambient level shall be user selectable. A function shall be provided to automatically reset the volume to the default level after every use.
+(f) When products deliver voice output in a public area, incremental volume control shall be provided with output amplification up to a level of at least 65 dB. Where the ambient noise level of the environment is above 45 dB, a volume gain of at least 20 dB above the ambient level shall be user selectable. A function shall be provided to automatically reset the volume to the default level after every use.
 
 **How was the level of 65 dB determined?**
 
-![Person at a transaction machine that announces, "Press two to renew your license ..."](./images/twoatkiosk.jpg) 
+![Person at a transaction machine that announces, "Press two to renew your license ..."](./images/twoatkiosk.jpg) 
 
 According to the Occupational Safety and Health Administration, and the American Speech, Language, and Hearing Association, 65 dB is the volume level for normal speech. This provision requires that audio output from a kiosk type product have a minimum level of 65 dB. A feature has been required to automatically reset the volume to the default level after every use. This is consistent with a similar provision addressing telecommunications products.
 
@@ -122,11 +122,11 @@ People who are hard of hearing, generally speaking, require voice levels to be 2
 
 * * * * *
 
-**(g) Color coding shall not be used as the only means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.**
+**(g) Color coding shall not be used as the only means of conveying information, indicating an action, prompting a response, or distinguishing a visual element.**
 
 **How can color coding create accessibility difficulties?**
 
-![Web page with a green button labled "start" with text above: "Press Green button to Start." There is text above an adjacent red button labeled "cancel" that states "Press Red button to Cancel."](./images/gobuttons.jpg) 
+![Web page with a green button labled "start" with text above: "Press Green button to Start." There is text above an adjacent red button labeled "cancel" that states "Press Red button to Cancel."](./images/gobuttons.jpg) 
 
 A software program that requires a user to distinguish between otherwise identical red and blue squares for different functions (e.g., printing a document versus saving a file) would pose problems for anyone who was color blind and would generally be very difficult to run with assistive technology. Screen reading software can announce color changes. However, this is an "on/off" feature. This means that if a user had to identify a specific color, they would have to have all colors announce which would greatly reduce the usability of the software for that person.
 
@@ -136,7 +136,7 @@ No. This provision does not prohibit the use of color to enhance identification 
 
 * * * * *
 
-**(h) When a product permits a user to adjust color and contrast settings, a range of color selections capable of producing a variety of contrast levels shall be provided.**
+**(h) When a product permits a user to adjust color and contrast settings, a range of color selections capable of producing a variety of contrast levels shall be provided.**
 
 **Do all products have to provide color selections?**
 
@@ -150,7 +150,7 @@ This provision requires more than just providing color choices. The available ch
 
 * * * * *
 
-**(i) Products shall be designed to avoid causing the screen to flicker with a frequency greater than 2 Hz and lower than 55 Hz.**
+**(i) Products shall be designed to avoid causing the screen to flicker with a frequency greater than 2 Hz and lower than 55 Hz.**
 
 **Why are flashing or blinking displays limited by this provision?**
 
@@ -158,7 +158,7 @@ This requirement is necessary because some individuals with photosensitive epile
 
 * * * * *
 
-**(j) Products which are freestanding, non-portable, and intended to be used in one location and which have operable controls shall comply with the following:**
+**(j) Products which are freestanding, non-portable, and intended to be used in one location and which have operable controls shall comply with the following:**
 
 **(1) The position of any operable control shall be determined with respect to a vertical plane, which is 48 inches in length, centered on the operable control, and at the maximum protrusion of the product within the 48 inch length (see Figure 1 of this part).**
 

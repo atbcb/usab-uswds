@@ -29,14 +29,14 @@ Table 3. The roughness index is a measurement how much vertical deviation a stan
 
 **Table 3: Engineered Surface Identification**
 
-|  **Surface ID:** |  **Roughness Index (in/ft):** | ** Crack Frequency (in):**  |  **Crack Width (in):** |
-| 1 | 0.2052  |  No cracks |  0 |
-|  2  | 0.3087 |  12 | 0.80 |
+|  **Surface ID:** |  **Roughness Index (in/ft):** | ** Crack Frequency (in):**  |  **Crack Width (in):** |
+| 1 | 0.2052  |  No cracks |  0 |
+|  2  | 0.3087 |  12 | 0.80 |
 | 3 | 0.3827 | 8 | 0.80 |
 | 4 | 0.5717 | 12 | 1.25 |
 | 5 | 0.5783 | 4 | 0.80 |
 | 6 | 0.7184 | 8 | 1.25 |
-|  7  |  0.9211 | 8 | 1.25 |
+|  7  |  0.9211 | 8 | 1.25 |
 | 8 | 1.2132 | 4 | 1.25 |
 | 9 | 1.5449 | 8 | 2.00 |\
 ![wooden surfaces](https://www.access-board.gov/images/research/surface-roughness/3.JPG)
@@ -74,6 +74,6 @@ VDV=[∫_0^T▒〖[a_wz (t)]^4 dt〗]^(1/4)\
 
 The surface profiles were measured with a custom-built pathway measurement tool (PathMeT), which was created from a power WC frame that was instrumented with a wheel encoder and an Acuity AR700 distance measurement laser. Because brick pavers are typically laid with 3-5 mm between them and a limitation to a study conducted by Yamanaka was that the profilograph they used did not have a high enough resolution, we wanted our measurements to be recorded with a spacing or about 1 mm. (Yamanaka, 2006) The recording frequency of the laser and encoder were not set, but were recorded at approximately 1200 Hz, which resulted in an accuracy of less than 1mm when it was traveling at 1m/s. PathMeT was driven over the surfaces on two flat boards to eliminate the error caused by the tires falling into the cracks. (Figure 5)
 
-![This figure shows a base of a power wheelchair with a laser attached between the castor wheels and pointing straight down to the ground.](https://www.access-board.gov/images/research/surface-roughness/5-1.JPG) 
+![This figure shows a base of a power wheelchair with a laser attached between the castor wheels and pointing straight down to the ground.](https://www.access-board.gov/images/research/surface-roughness/5-1.JPG) 
 
 **Figure 5: Picture of Original PathMeT**

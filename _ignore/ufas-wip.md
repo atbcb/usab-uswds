@@ -108,7 +108,7 @@ The specifications in these standards are based upon adult dimensions and anthro
 
 ## 3. MISCELLANEOUS INSTRUCTIONS AND DEFINITIONS
 
-### 3.1 GRAPHIC CONVENTIONS
+### 3.1 GRAPHIC CONVENTIONS
 
 Graphic conventions are shown in Table 1. Dimensions that are not marked "minimum" or "maximum" are absolute, unless otherwise indicated in the text or captions.
 
@@ -126,65 +126,65 @@ The text of these standards does not contain notes or footnotes. Additional info
 
 ### 3.4 GENERAL TERMINOLOGY
 
-*COMPLY WITH.* Meet one or more specifications of this standard.
+*COMPLY WITH.* Meet one or more specifications of this standard.
 
-*IF, IF...THEN.* Denotes a specification that applies only when the conditions described are present.
+*IF, IF...THEN.* Denotes a specification that applies only when the conditions described are present.
 
-*MAY. *Denotes an option or alternative.
+*MAY. *Denotes an option or alternative.
 
-*SHALL.* Denotes a mandatory specification or requirement.
+*SHALL.* Denotes a mandatory specification or requirement.
 
-*SHOULD.* Denotes an advisory specification or recommendation.
+*SHOULD.* Denotes an advisory specification or recommendation.
 
 ### 3.5 DEFINITIONS
 
 The following terms shall, for the purpose of these standards, have the meaning indicated in this section.
 
-*ACCESS AISLE.* An accessible pedestrian space between elements, such as parking spaces, seating, and desks, that provides clearances appropriate for use of the elements.
+*ACCESS AISLE.* An accessible pedestrian space between elements, such as parking spaces, seating, and desks, that provides clearances appropriate for use of the elements.
 
-*ACCESSIBLE.* Describes a site, building, facility, or portion thereof that complies with these standards and that can be approached, entered, and used by physically disabled people.
+*ACCESSIBLE.* Describes a site, building, facility, or portion thereof that complies with these standards and that can be approached, entered, and used by physically disabled people.
 
-*ACCESSIBLE ELEMENT.* An element specified by these standards (for example, telephone, controls, and the like).
+*ACCESSIBLE ELEMENT.* An element specified by these standards (for example, telephone, controls, and the like).
 
-*ACCESSIBLE ROUTE.* A continuous unobstructed path connecting all accessible elements and spaces in a building or facility. Interior accessible routes may include corridors, floors, ramps, elevators, lifts, and clear floor space at fixtures. Exterior accessible routes may include parking access aisles, curb ramps, walks, ramps, and lifts.
+*ACCESSIBLE ROUTE.* A continuous unobstructed path connecting all accessible elements and spaces in a building or facility. Interior accessible routes may include corridors, floors, ramps, elevators, lifts, and clear floor space at fixtures. Exterior accessible routes may include parking access aisles, curb ramps, walks, ramps, and lifts.
 
-*ACCESSIBLE SPACE.* Space that complies with these standards.
+*ACCESSIBLE SPACE.* Space that complies with these standards.
 
-*ADAPTABILITY.* The ability of certain building spaces and elements, such as kitchen counters, sinks, and grab bars, to be added or altered so as to accommodate the needs of either disabled or nondisabled persons, or to accommodate the needs of persons with different types or degrees of disability.
+*ADAPTABILITY.* The ability of certain building spaces and elements, such as kitchen counters, sinks, and grab bars, to be added or altered so as to accommodate the needs of either disabled or nondisabled persons, or to accommodate the needs of persons with different types or degrees of disability.
 
-*ADDITION.* An expansion, extension, or increase in the gross floor area of a building or facility.
+*ADDITION.* An expansion, extension, or increase in the gross floor area of a building or facility.
 
-*ADMINISTRATIVE AUTHORITY.* A governmental agency that adopts or enforces regulations and standards for the design, construction, or alteration of buildings and facilities.
+*ADMINISTRATIVE AUTHORITY.* A governmental agency that adopts or enforces regulations and standards for the design, construction, or alteration of buildings and facilities.
 
-*ALTERATION.* As applied to a building or structure, means a change or rearrangement in the structural parts or elements, or in the means of egress or in moving from one location or position to another. It does not include normal maintenance, repair, reroofing, interior decoration, or changes to mechanical and electrical systems.
+*ALTERATION.* As applied to a building or structure, means a change or rearrangement in the structural parts or elements, or in the means of egress or in moving from one location or position to another. It does not include normal maintenance, repair, reroofing, interior decoration, or changes to mechanical and electrical systems.
 
-*ASSEMBLY AREA.* A room or space accommodating fifty or more individuals for religious, recreational, educational, political, social, or amusement purposes, or for the consumption of food and drink, including all connected rooms or spaces with a common means of egress and ingress. Such areas as conference rooms would have to be accessible in accordance with other parts of this standard but would not have to meet all of the criteria associated with assembly areas.
+*ASSEMBLY AREA.* A room or space accommodating fifty or more individuals for religious, recreational, educational, political, social, or amusement purposes, or for the consumption of food and drink, including all connected rooms or spaces with a common means of egress and ingress. Such areas as conference rooms would have to be accessible in accordance with other parts of this standard but would not have to meet all of the criteria associated with assembly areas.
 
-*AUTOMATIC DOOR.* A door equipped with a power-operated mechanism and controls that open and close the door automatically upon receipt of a momentary actuating signal. The switch that begins the automatic cycle may be a photoelectric device, floor mat, or manual switch mounted on or near the door itself (see power-assisted door).
+*AUTOMATIC DOOR.* A door equipped with a power-operated mechanism and controls that open and close the door automatically upon receipt of a momentary actuating signal. The switch that begins the automatic cycle may be a photoelectric device, floor mat, or manual switch mounted on or near the door itself (see power-assisted door).
 
-*CIRCULATION PATH.* An exterior or interior way of passage from one place to another for pedestrians, including, but not limited to, walks, hallways, courtyards, stairways, and stair landings.
+*CIRCULATION PATH.* An exterior or interior way of passage from one place to another for pedestrians, including, but not limited to, walks, hallways, courtyards, stairways, and stair landings.
 
-*CLEAR.* Unobstructed.
+*CLEAR.* Unobstructed.
 
-*COMMON USE.* Refers to those interior and exterior rooms, spaces, or elements that are made available for the use of a restricted group of people (for example, residents of an apartment building, the occupants of an office building, or the guests of such residents or occupants).
+*COMMON USE.* Refers to those interior and exterior rooms, spaces, or elements that are made available for the use of a restricted group of people (for example, residents of an apartment building, the occupants of an office building, or the guests of such residents or occupants).
 
-*CROSS SLOPE.* The slope that is perpendicular to the direction of travel (see running slope).
+*CROSS SLOPE.* The slope that is perpendicular to the direction of travel (see running slope).
 
-*CURB RAMP.* A short ramp cutting through a curb or built up to it.
+*CURB RAMP.* A short ramp cutting through a curb or built up to it.
 
-*DWELLING UNIT.* A single unit of residence which provides a kitchen or food preparation area, in addition to rooms and spaces for living, bathing, sleeping, and the like. A single family home is a dwelling unit, and dwelling units are to be found in such housing types as townhouses and apartment buildings.
+*DWELLING UNIT.* A single unit of residence which provides a kitchen or food preparation area, in addition to rooms and spaces for living, bathing, sleeping, and the like. A single family home is a dwelling unit, and dwelling units are to be found in such housing types as townhouses and apartment buildings.
 
-*EGRESS, MEANS OF.* An accessible route of exit that meets all applicable code specifications of the regulatory building agency having jurisdiction over the building or facility.
+*EGRESS, MEANS OF.* An accessible route of exit that meets all applicable code specifications of the regulatory building agency having jurisdiction over the building or facility.
 
-*ELEMENT.* An architectural or mechanical component of a building, facility, space, or site, e.g., telephone, curb ramp, door, drinking fountain, seating, water closet.
+*ELEMENT.* An architectural or mechanical component of a building, facility, space, or site, e.g., telephone, curb ramp, door, drinking fountain, seating, water closet.
 
-*ENTRANCE.* Any access point to a building or portion of building or facility used for the purpose of entering. An entrance includes the approach walk, the vertical access leading to the entrance platform, the entrance platform itself, vestibules if provided, the entry door(s) or gate(s), and the hardware of the entry door(s) or gate(s). The principal entrance of a building or facility is the main door through which most people enter.
+*ENTRANCE.* Any access point to a building or portion of building or facility used for the purpose of entering. An entrance includes the approach walk, the vertical access leading to the entrance platform, the entrance platform itself, vestibules if provided, the entry door(s) or gate(s), and the hardware of the entry door(s) or gate(s). The principal entrance of a building or facility is the main door through which most people enter.
 
-*ESSENTIAL FEATURES.* Those elements and spaces that make a building or facility usable by, or serve the needs of, its occupants or users. Essential features include but are not limited to entrances, toilet rooms, and accessible routes. Essential features do not include those spaces that house the major activities for which the building or facility is intended, such as classrooms and offices.
+*ESSENTIAL FEATURES.* Those elements and spaces that make a building or facility usable by, or serve the needs of, its occupants or users. Essential features include but are not limited to entrances, toilet rooms, and accessible routes. Essential features do not include those spaces that house the major activities for which the building or facility is intended, such as classrooms and offices.
 
-*EXTRAORDINARY REPAIR.* The replacement or renewal of any element of an existing building or facility for purposes other than normal maintenance.
+*EXTRAORDINARY REPAIR.* The replacement or renewal of any element of an existing building or facility for purposes other than normal maintenance.
 
-*FACILITY.* All or any portion of a building, structure, or area, including the site on which such building, structure or area is located, wherein specific services are provided or activities performed.
+*FACILITY.* All or any portion of a building, structure, or area, including the site on which such building, structure or area is located, wherein specific services are provided or activities performed.
 
 *FULL AND FAIR CASH VALUE*. Full and fair cash value is calculated for the estimated date on which work will commence on a project and means:
 
@@ -194,49 +194,49 @@ The following terms shall, for the purpose of these standards, have the meaning 
 
 (3) The fair market value.
 
-*FUNCTIONAL SPACES.* The rooms and spaces in a building or facility that house the major activities for which the building or facility is intended.
+*FUNCTIONAL SPACES.* The rooms and spaces in a building or facility that house the major activities for which the building or facility is intended.
 
-*HOUSING.* A building, facility, or portion thereof, excluding inpatient health care facilities, that contains one or more dwelling units or sleeping accommodations. Housing may include, but is not limited to, one and two-family dwellings, apartments, group homes, hotels, motels, dormitories, and mobile homes.
+*HOUSING.* A building, facility, or portion thereof, excluding inpatient health care facilities, that contains one or more dwelling units or sleeping accommodations. Housing may include, but is not limited to, one and two-family dwellings, apartments, group homes, hotels, motels, dormitories, and mobile homes.
 
-*MARKED CROSSING.* A crosswalk or other identified path intended for pedestrian use in crossing a vehicular way.
+*MARKED CROSSING.* A crosswalk or other identified path intended for pedestrian use in crossing a vehicular way.
 
-*MULTIFAMILY DWELLING.* Any building containing more than two dwelling units.
+*MULTIFAMILY DWELLING.* Any building containing more than two dwelling units.
 
-*OPERABLE PART.* A part of a piece of equipment or appliance used to insert or withdraw objects, or to activate, deactivate, or adjust the equipment or appliance (for example, coin slot, pushbutton, handle).
+*OPERABLE PART.* A part of a piece of equipment or appliance used to insert or withdraw objects, or to activate, deactivate, or adjust the equipment or appliance (for example, coin slot, pushbutton, handle).
 
-*PHYSICALLY HANDICAPPED.* An individual who has a physical impairment, including impaired sensory, manual or speaking abilities, which results in a functional limitation in access to and use of a building or facility.
+*PHYSICALLY HANDICAPPED.* An individual who has a physical impairment, including impaired sensory, manual or speaking abilities, which results in a functional limitation in access to and use of a building or facility.
 
-*POWER-ASSISTED DOOR.* A door used for human passage with a mechanism that helps to open the door, or relieve the opening resistance of a door, upon the activation of a switch or a continued force applied to the door itself. If the switch or door is released, such doors immediately begin to close or close completely within 3 to 30 seconds (see automatic door).
+*POWER-ASSISTED DOOR.* A door used for human passage with a mechanism that helps to open the door, or relieve the opening resistance of a door, upon the activation of a switch or a continued force applied to the door itself. If the switch or door is released, such doors immediately begin to close or close completely within 3 to 30 seconds (see automatic door).
 
-*PUBLIC USE.* Describes interior or exterior rooms or spaces that are made available to the general public. Public use may be provided at a building or facility that is privately or publicly owned.
+*PUBLIC USE.* Describes interior or exterior rooms or spaces that are made available to the general public. Public use may be provided at a building or facility that is privately or publicly owned.
 
-*RAMP.* A walking surface in an accessible space that has a running slope greater than 1:20.
+*RAMP.* A walking surface in an accessible space that has a running slope greater than 1:20.
 
-*RUNNING SLOPE. *The slope that is parallel to the direction of travel (see cross slope).
+*RUNNING SLOPE. *The slope that is parallel to the direction of travel (see cross slope).
 
 *SERVICE ENTRANCE*. An entrance intended primarily for delivery of services.
 
-*SIGNAGE.* Verbal, symbolic, tactile, and pictorial information.
+*SIGNAGE.* Verbal, symbolic, tactile, and pictorial information.
 
-*SITE.* A parcel of land bounded by a property line or a designated portion of a public right-of-way.
+*SITE.* A parcel of land bounded by a property line or a designated portion of a public right-of-way.
 
-*SITE IMPROVEMENT.* Landscaping, paving for pedestrian and vehicular ways, outdoor lighting, recreational facilities, and the like, added to a site.
+*SITE IMPROVEMENT.* Landscaping, paving for pedestrian and vehicular ways, outdoor lighting, recreational facilities, and the like, added to a site.
 
-*SLEEPING ACCOMMODATIONS.* Rooms in which people sleep, for example, dormitory and hotel or motel guest rooms.
+*SLEEPING ACCOMMODATIONS.* Rooms in which people sleep, for example, dormitory and hotel or motel guest rooms.
 
 *SPACE*. A definable area, e.g., toilet room, hall, assembly area, entrance, storage room, alcove, courtyard, or lobby.
 
-*STRUCTURAL IMPRACTICABILITY.* Changes having little likelihood of being accomplished without removing or altering a load-bearing structural member and/or incurring an increased cost of 50 percent or more of the value of the element of the building or facility involved.
+*STRUCTURAL IMPRACTICABILITY.* Changes having little likelihood of being accomplished without removing or altering a load-bearing structural member and/or incurring an increased cost of 50 percent or more of the value of the element of the building or facility involved.
 
-*TACTILE.* Describes an object that can be perceived using the sense of touch.
+*TACTILE.* Describes an object that can be perceived using the sense of touch.
 
-*TACTILE WARNING.* A standardized surface texture applied to or built into walking surfaces or other elements to warn visually impaired people of hazards in the path of travel.
+*TACTILE WARNING.* A standardized surface texture applied to or built into walking surfaces or other elements to warn visually impaired people of hazards in the path of travel.
 
-*TEMPORARY.* Applies to facilities that are not of permanent construction but are extensively used or essential for public use for a given (short) period of time, for example, temporary classrooms or classroom buildings at schools and colleges, or facilities around a major construction site to make passage accessible, usable, and safe for everybody. Structures directly associated with the actual processes of major construction, such as porto potties, scaffolding, bridging, trailers, and the like, are not included. Temporary as applied to elements means installed for less than 6 months and not required for safety reasons.
+*TEMPORARY.* Applies to facilities that are not of permanent construction but are extensively used or essential for public use for a given (short) period of time, for example, temporary classrooms or classroom buildings at schools and colleges, or facilities around a major construction site to make passage accessible, usable, and safe for everybody. Structures directly associated with the actual processes of major construction, such as porto potties, scaffolding, bridging, trailers, and the like, are not included. Temporary as applied to elements means installed for less than 6 months and not required for safety reasons.
 
-*VEHICULAR WAY.* A route intended for vehicular traffic, such as a street, driveway, or parking lot.
+*VEHICULAR WAY.* A route intended for vehicular traffic, such as a street, driveway, or parking lot.
 
-*WALK.* An exterior pathway with a prepared surface intended for pedestrian use, including general pedestrian areas such as plazas and courts.
+*WALK.* An exterior pathway with a prepared surface intended for pedestrian use, including general pedestrian areas such as plazas and courts.
 
 ## 4. ACCESSIBLE ELEMENTS AND SPACES: SCOPE AND TECHNICAL REQUIREMENTS
 
@@ -276,9 +276,9 @@ An accessible site shall meet the following minimum requirements:
 
 ** 20 plus 1 for each 100 over 1000.
 
-*EXCEPTION:* The total number of accessible parking spaces may be distributed among parking lots, if greater accessibility is achieved.
+*EXCEPTION:* The total number of accessible parking spaces may be distributed among parking lots, if greater accessibility is achieved.
 
-*EXCEPTION:* This does not apply to parking provided for official government vehicles owned or leased by the government and used exclusively for government purposes.
+*EXCEPTION:* This does not apply to parking provided for official government vehicles owned or leased by the government and used exclusively for government purposes.
 
 (b) If passenger loading zones are provided, then at least one passenger loading zone shall comply with 4.6.5.
 
@@ -302,7 +302,7 @@ An accessible site shall meet the following minimum requirements:
 
 (6) If toilet facilities are provided on a site, then each such public or common use toilet facility shall comply with 4.22. If bathing facilities are provided on a site, then each such public or common use bathing facility shall comply with 4.23.
 
-*EXCEPTION:* These provisions are not mandatory for single user portable toilet or bathing units clustered at a single location; however, at least one toilet unit complying with 4.22 or one bathing unit complying with 4.23 should be installed at each location whenever standard units are provided.
+*EXCEPTION:* These provisions are not mandatory for single user portable toilet or bathing units clustered at a single location; however, at least one toilet unit complying with 4.22 or one bathing unit complying with 4.23 should be installed at each location whenever standard units are provided.
 
 (7) All signs shall comply with 4.30. Elements and spaces of accessible facilities which shall be identified by the International Symbol of Accessibility are:
 
@@ -328,9 +328,9 @@ Accessible buildings and facilities shall meet the following minimum requirement
 
 (5) One passenger elevator complying with 4.10 shall serve each level in all multi-story buildings and facilities. If more than one elevator is provided, each elevator shall comply with 4.10.
 
-*EXCEPTION:* Elevator pits, elevator penthouses, mechanical rooms, piping or equipment catwalks are excepted from this requirement.
+*EXCEPTION:* Elevator pits, elevator penthouses, mechanical rooms, piping or equipment catwalks are excepted from this requirement.
 
-*EXCEPTION:* Accessible ramps complying with 4.8 or, if no other alternative is feasible, accessible platform lifts complying with 4.11 may be used in lieu of an elevator.
+*EXCEPTION:* Accessible ramps complying with 4.8 or, if no other alternative is feasible, accessible platform lifts complying with 4.11 may be used in lieu of an elevator.
 
 (6) Windows. (Reserved).
 
@@ -344,7 +344,7 @@ Accessible buildings and facilities shall meet the following minimum requirement
 
 (d) Each door required by 4.3.10, Egress, shall comply with 4.13.
 
-*EXCEPTION:* In multiple-story buildings and facilities where at-grade egress from each floor is impossible, either of the following is permitted: the provision within each story of approved fire and smoke partitions that create horizontal exits, or, the provision within each floor of areas of refuge approved by agencies having authority for safety.
+*EXCEPTION:* In multiple-story buildings and facilities where at-grade egress from each floor is impossible, either of the following is permitted: the provision within each story of approved fire and smoke partitions that create horizontal exits, or, the provision within each floor of areas of refuge approved by agencies having authority for safety.
 
 (8) At least one principal entrance at each grade floor level to a building or facility shall comply with 4.14, Entrances. When a building or facility has entrances which normally serve any of the following functions: transportation facilities, passenger loading zones, accessible parking facilities, taxi stands, public streets and sidewalks, or accessible interior vertical access, then at least one of the entrances serving each such function shall comply with 4.14, Entrances. Because entrances also serve as emergency exits, whose proximity to all parts of buildings and facilities is essential, it is preferable that all or most exits be accessible.
 
@@ -362,7 +362,7 @@ Accessible buildings and facilities shall meet the following minimum requirement
 
 (15) If signs are provided, they shall comply with 4.30.1, 4.30.2 and 4.30.3. In addition, permanent signage that identifies rooms and spaces shall also comply with 4.30.4 and 4.30.6.
 
-*EXCEPTION:* The provisions of 4.30.4 are not mandatory for temporary information on room and space signage, such as current occupant's name, provided the permanent room or space identification complies with 4.30.4.
+*EXCEPTION:* The provisions of 4.30.4 are not mandatory for temporary information on room and space signage, such as current occupant's name, provided the permanent room or space identification complies with 4.30.4.
 
 (16) Public telephones:
 
@@ -378,7 +378,7 @@ Accessible buildings and facilities shall meet the following minimum requirement
 
 ** A bank consists of two or more adjacent public telephones, often installed as a unit.
 
-*EXCEPTION:* For exterior installations only, if dial tone first service is not available, then a side reach telephone may be installed instead of the required forward reach telephone (i.e., one telephone in proximity to each bank shall comply with 4.31).
+*EXCEPTION:* For exterior installations only, if dial tone first service is not available, then a side reach telephone may be installed instead of the required forward reach telephone (i.e., one telephone in proximity to each bank shall comply with 4.31).
 
 (b) At least one of the public telephones complying with 4.31, Telephones, shall be equipped with a volume control. The installation of additional volume controls is encouraged, and these may be installed on any public telephone provided.
 
@@ -410,25 +410,25 @@ Accessible buildings and facilities shall meet the following minimum requirement
 
 Accessible housing shall comply with the requirements of 4.1 and 4.34 except as noted below:
 
-**(1) ELEVATORS.** Where provided, elevators shall comply with 4.10. Elevators or other accessible means of vertical movement are not required in residential facilities when:
+**(1) ELEVATORS.** Where provided, elevators shall comply with 4.10. Elevators or other accessible means of vertical movement are not required in residential facilities when:
 
 (a) No accessible dwelling units are located above or below the accessible grade level; and
 
 (b) At least one of each type of common area and amenity provided for use of residents and visitors is available at the accessible grade level.
 
-**(2) ENTRANCES.** Entrances complying with 4.14 shall be provided as necessary to achieve access to and egress from buildings and facilities.
+**(2) ENTRANCES.** Entrances complying with 4.14 shall be provided as necessary to achieve access to and egress from buildings and facilities.
 
-*EXCEPTION:* In projects consisting of one-to-four family dwellings where accessible entrances would be extraordinarily costly due to site conditions or local code restrictions, accessible entrances are required only to those buildings containing accessible dwelling units.
+*EXCEPTION:* In projects consisting of one-to-four family dwellings where accessible entrances would be extraordinarily costly due to site conditions or local code restrictions, accessible entrances are required only to those buildings containing accessible dwelling units.
 
-**(3) COMMON AREAS.** At least one of each type of common area and amenity in each project shall be accessible and shall be located on an accessible route to any accessible dwelling unit.
+**(3) COMMON AREAS.** At least one of each type of common area and amenity in each project shall be accessible and shall be located on an accessible route to any accessible dwelling unit.
 
 #### 4.1.4 OCCUPANCY CLASSIFICATIONS
 
 Buildings and facilities shall comply with these standards to the extent noted in this section for various occupancy classifications, unless otherwise modified by a special application section. Occupancy classifications, and the facilities covered under each category include, but are not necessarily limited to, the listing which follows:
 
-**(1) GENERAL EXCEPTIONS.** Accessibility is not required to elevator pits, elevator penthouses, mechanical rooms, piping or equipment catwalks, lookout galleries, electrical and telephone closets, and general utility rooms.
+**(1) GENERAL EXCEPTIONS.** Accessibility is not required to elevator pits, elevator penthouses, mechanical rooms, piping or equipment catwalks, lookout galleries, electrical and telephone closets, and general utility rooms.
 
-**(2) MILITARY EXCLUSIONS. **The following facilities need not be designed to be accessible, but accessibility is recommended since the intended use of the facility may change with time.
+**(2) MILITARY EXCLUSIONS. **The following facilities need not be designed to be accessible, but accessibility is recommended since the intended use of the facility may change with time.
 
 (a) Unaccompanied personnel housing, closed messes, vehicle and aircraft maintenance facilities, where all work is performed by able-bodied military personnel and, in general, all facilities which are intended for use or occupancy by able-bodied military personnel only.
 
@@ -436,9 +436,9 @@ Buildings and facilities shall comply with these standards to the extent noted i
 
 (c) Where the number of accessible spaces required is determined by the design capacity of a facility (such as parking or assembly areas), the number of able-bodied military persons used in determining the design capacity need not be counted when computing the number of accessible spaces required.
 
-**(3) MILITARY HOUSING.** In the case of military housing, which is primarily available for able-bodied military personnel and their dependents, at least 5 percent of the total but at least one unit (on an installation-by-installation basis) of all housing constructed will be designed and built to be either accessible or readily and easily modifiable to be accessible, but in any event, modification of individual units (including the making of adaptations), will be accomplished on a high priority basis when a requirement is identified. Common areas such as walks, streets, parking and play areas, and common entrances to multi-unit facilities shall be designed and built to be accessible.
+**(3) MILITARY HOUSING.** In the case of military housing, which is primarily available for able-bodied military personnel and their dependents, at least 5 percent of the total but at least one unit (on an installation-by-installation basis) of all housing constructed will be designed and built to be either accessible or readily and easily modifiable to be accessible, but in any event, modification of individual units (including the making of adaptations), will be accomplished on a high priority basis when a requirement is identified. Common areas such as walks, streets, parking and play areas, and common entrances to multi-unit facilities shall be designed and built to be accessible.
 
-**(4) ASSEMBLY. **Assembly occupancy includes, among others, the use of a building or structure, or a portion thereof, for the gathering together of persons for purposes such as civic, social or religious functions, recreation, food or drink consumption, or awaiting transportation. A room or space used for assembly purposes by less than fifty (50) persons and accessory to another occupancy shall be included as a part of that major occupancy. For purposes of these standards, assembly occupancies shall include the following:
+**(4) ASSEMBLY. **Assembly occupancy includes, among others, the use of a building or structure, or a portion thereof, for the gathering together of persons for purposes such as civic, social or religious functions, recreation, food or drink consumption, or awaiting transportation. A room or space used for assembly purposes by less than fifty (50) persons and accessory to another occupancy shall be included as a part of that major occupancy. For purposes of these standards, assembly occupancies shall include the following:
 
 **Facilities**
 
@@ -522,7 +522,7 @@ Theaters
 
 All areas for which the intended use will require public access or which may result in employment of physically handicapped persons.
 
-**(5) BUSINESS.** Business occupancy includes, among others, the use of a building or structure, or a portion thereof, for office, professional or service type transactions, including storage of records and accounts.
+**(5) BUSINESS.** Business occupancy includes, among others, the use of a building or structure, or a portion thereof, for office, professional or service type transactions, including storage of records and accounts.
 
 **Facilities**
 
@@ -576,7 +576,7 @@ Telephone exchanges
 
 All areas for which the intended use will require public access or which may result in employment of physically handicapped persons.
 
-**(6) EDUCATIONAL.** Educational occupancy includes, among others, the use of a building or structure, or portion thereof, by six or more persons at any time for educational purposes through the 12th grade.
+**(6) EDUCATIONAL.** Educational occupancy includes, among others, the use of a building or structure, or portion thereof, by six or more persons at any time for educational purposes through the 12th grade.
 
 Schools for business or vocational training shall conform to the requirements of the trade, vocation or business taught.
 
@@ -594,7 +594,7 @@ Schools
 
 All areas shall comply.
 
-**(7) FACTORY INDUSTRIAL.** Factory industrial occupancy includes, among others, the use of a building or structure, or portion thereof, for assembling, disassembling, fabricating, finishing, manufacturing, packaging, processing or other operations that are not classified as a Hazardous Occupancy.
+**(7) FACTORY INDUSTRIAL.** Factory industrial occupancy includes, among others, the use of a building or structure, or portion thereof, for assembling, disassembling, fabricating, finishing, manufacturing, packaging, processing or other operations that are not classified as a Hazardous Occupancy.
 
 **Facilities**
 
@@ -710,7 +710,7 @@ Postal mail: processing facilities*
 
 All areas for which the intended use will require public access or which may result in employment of physically handicapped persons.
 
-**(8) HAZARDOUS.** Hazardous occupancy includes, among others, the use of a building or structure, or a portion thereof, that involves the manufacturing, processing, generation or storage of corrosive, highly toxic, highly combustible, flammable or explosive materials that constitute a high fire or explosive hazard, including loose combustible fibers, dust and unstable materials.
+**(8) HAZARDOUS.** Hazardous occupancy includes, among others, the use of a building or structure, or a portion thereof, that involves the manufacturing, processing, generation or storage of corrosive, highly toxic, highly combustible, flammable or explosive materials that constitute a high fire or explosive hazard, including loose combustible fibers, dust and unstable materials.
 
 **Facilities**
 
@@ -740,7 +740,7 @@ Organic peroxide
 
 All areas for which the intended use will require public access or which may result in employment of physically handicapped persons.
 
-**(9) INSTITUTIONAL.** Institutional occupancy includes, among others, the use of a building or structure, or any portion thereof, in which people have physical or medical treatment or care, or in which the liberty of the occupants is restricted. Institutional occupancies shall include the following subgroups:
+**(9) INSTITUTIONAL.** Institutional occupancy includes, among others, the use of a building or structure, or any portion thereof, in which people have physical or medical treatment or care, or in which the liberty of the occupants is restricted. Institutional occupancies shall include the following subgroups:
 
 (a) Institutional occupancies for the care of children, including:
 
@@ -779,7 +779,7 @@ Other detention or correctional facilities
 
 5 percent of residential units available, or at least one unit, whichever is greater; all common use, visitor use, or areas which may result in employment of physically handicapped persons.
 
-**(10) MERCANTILE*.** Mercantile occupancy includes, among others, all buildings and structures or parts thereof, for the display and sale of merchandise, and involving stocks of goods, wares or merchandise incidental to such purposes and accessible to the public.
+**(10) MERCANTILE*.** Mercantile occupancy includes, among others, all buildings and structures or parts thereof, for the display and sale of merchandise, and involving stocks of goods, wares or merchandise incidental to such purposes and accessible to the public.
 
 **Facilities**
 
@@ -801,7 +801,7 @@ Sales rooms
 
 All areas for which the intended use will require public access or which may result in employment of physically handicapped persons.
 
-**(11) RESIDENTIAL.** Residential occupancy includes, among others, the use of a building or structure, or portion thereof, for sleeping accommodations when not classed as an institutional occupancy. Residential occupancies shall comply with the requirements of 4.1 and 4.34 except as follows:
+**(11) RESIDENTIAL.** Residential occupancy includes, among others, the use of a building or structure, or portion thereof, for sleeping accommodations when not classed as an institutional occupancy. Residential occupancies shall comply with the requirements of 4.1 and 4.34 except as follows:
 
 (a) Residential occupancies where the occupants are primarily transient in nature (less than 30 days) including:
 
@@ -821,7 +821,7 @@ Boarding houses
 
 | Facilities | Application |
 | --- | --- |
-| Multifamily housing<br><br>(Apartment houses): |   |
+| Multifamily housing<br><br>(Apartment houses): |   |
 | Federally assisted | 5 percent of the total, or at least one unit, whichever is greater, in projects of 15 or more dwelling units, or as determined by the appropriate Federal agency following a local needs assessment conducted by local government bodies or states under applicable regulations. |
 | Federally owned | 5 percent of the total, or at least one unit, whichever is greater. |
 | Dormitories | 5 percent of the total or at least one unit, whichever is greater. |
@@ -830,12 +830,12 @@ Boarding houses
 
 | Facilities | Application |
 | --- | --- |
-| One and two family dwelling: |   |
+| One and two family dwelling: |   |
 | Federally assisted, rental | 5 percent of the total, or at least one unit, whichever is greater, in projects of 15 or more dwelling units, or as determined by the appropriate Federal agency following a local needs assessment conducted by local government bodies or states under applicable regulations. |
 | Federally assisted, homeownership | To be determined by home buyer. |
 | Federally owned | 5 percent of the total, or at least one unit, whichever is greater. |
 
-**(12) STORAGE.** Storage occupancy includes, among others, the use of a building or structure, or portion thereof, for storage that is not classified as a Hazardous Occupancy.
+**(12) STORAGE.** Storage occupancy includes, among others, the use of a building or structure, or portion thereof, for storage that is not classified as a Hazardous Occupancy.
 
 **Facilities**
 
@@ -911,21 +911,21 @@ All areas for which the intended use will require public access or which may res
 
 Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, Minimum Requirements, except as follows:
 
-**(1) ENTRANCES.** If a new addition to a building or facility does not have an entrance, then at least one entrance in the existing building or facility shall comply with 4.1.4, Entrances.
+**(1) ENTRANCES.** If a new addition to a building or facility does not have an entrance, then at least one entrance in the existing building or facility shall comply with 4.1.4, Entrances.
 
-**(2) ACCESSIBLE ROUTE.** If the only accessible entrance to the addition is located in the existing building or facility, then at least one accessible route shall comply with 4.3, Accessible Route, and shall provide access through the existing building or facility to all rooms, elements, and spaces in the new addition.
+**(2) ACCESSIBLE ROUTE.** If the only accessible entrance to the addition is located in the existing building or facility, then at least one accessible route shall comply with 4.3, Accessible Route, and shall provide access through the existing building or facility to all rooms, elements, and spaces in the new addition.
 
-**(3) TOILET AND BATHING FACILITIES.** If there are no toilet rooms and bathing facilities in the addition and these facilities are provided in the existing building, then at least one toilet and bathing facility in the existing building shall comply with 4.22, Toilet Rooms, or 4.23, Bathrooms, Bathing Facilities, and Shower Rooms.
+**(3) TOILET AND BATHING FACILITIES.** If there are no toilet rooms and bathing facilities in the addition and these facilities are provided in the existing building, then at least one toilet and bathing facility in the existing building shall comply with 4.22, Toilet Rooms, or 4.23, Bathrooms, Bathing Facilities, and Shower Rooms.
 
-**(4) ELEMENTS, SPACES, AND COMMON AREAS.** If elements, spaces, or common areas are located in the existing building and they are not provided in the addition, then consideration should be given to making those elements, spaces, and common areas accessible in the existing building.
+**(4) ELEMENTS, SPACES, AND COMMON AREAS.** If elements, spaces, or common areas are located in the existing building and they are not provided in the addition, then consideration should be given to making those elements, spaces, and common areas accessible in the existing building.
 
-*EXCEPTIONS: *Mechanical rooms, storage areas, and other such minor additions which normally are not frequented by the public or employees of the facility are excepted from 4.1.5.
+*EXCEPTIONS: *Mechanical rooms, storage areas, and other such minor additions which normally are not frequented by the public or employees of the facility are excepted from 4.1.5.
 
-**(5) HOUSING:** (Reserved).
+**(5) HOUSING:** (Reserved).
 
 #### 4.1.6 ACCESSIBLE BUILDINGS: ALTERATIONS
 
-**(1) GENERAL.** Alterations to existing buildings or facilities shall comply with the following:
+**(1) GENERAL.** Alterations to existing buildings or facilities shall comply with the following:
 
 (a) If existing elements, spaces, essential features, or common areas are altered, then each such altered element, space, feature, or area shall comply with the applicable provisions of 4.1.1 to 4.1.4 of 4.1, Minimum Requirements.
 
@@ -941,9 +941,9 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 
 (g) Mechanical rooms and other spaces which normally are not frequented by the public or employees of the building or facility or which by nature of their use are not required by the Architectural Barriers Act to be accessible are excepted from the requirements of 4.1.6.
 
-**(2)** Where a building or facility is vacated and it is totally altered, then it shall be altered to comply with 4.1.1 to 4.1.5 of 4.1, Minimum Requirements, except to the extent where it is structurally impracticable.
+**(2)** Where a building or facility is vacated and it is totally altered, then it shall be altered to comply with 4.1.1 to 4.1.5 of 4.1, Minimum Requirements, except to the extent where it is structurally impracticable.
 
-**(3)** Where substantial alteration occurs to a building or facility, then each element or space that is altered or added shall comply with the applicable provisions of 4.1.1 to 4.1.4 of 4.1, Minimum Requirements, except to the extent where it is structurally impracticable. The altered building or facility shall contain:
+**(3)** Where substantial alteration occurs to a building or facility, then each element or space that is altered or added shall comply with the applicable provisions of 4.1.1 to 4.1.4 of 4.1, Minimum Requirements, except to the extent where it is structurally impracticable. The altered building or facility shall contain:
 
 (a) At least one accessible route complying with 4.3, Accessible Route, and 4.1.6(a);
 
@@ -957,9 +957,9 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 
 (d) In making the determination as to what constitutes "substantial alteration," the agency issuing standards for the facility shall consider the total cost of all alterations (including but not limited to electrical, mechanical, plumbing, and structural changes) for a building or facility within any twelve (12) month period. For guidance in implementing this provision, an alteration to any building or facility is to be considered substantial if the total cost for this twelve month period amounts to 50 percent or more of the full and fair cash value of the building as defined in 3.5.
 
-*EXCEPTION:* If the cost of the elements and spaces required by 4.1.6(3)(a), (b), or (c) exceeds 15 percent of the total cost of all other alterations, then a schedule may be established by the standard-setting and/or funding agency to provide the required improvements within a 5-year period.
+*EXCEPTION:* If the cost of the elements and spaces required by 4.1.6(3)(a), (b), or (c) exceeds 15 percent of the total cost of all other alterations, then a schedule may be established by the standard-setting and/or funding agency to provide the required improvements within a 5-year period.
 
-*EXCEPTION:* Consideration shall be given to providing accessible elements and spaces in each altered building or facility complying with:
+*EXCEPTION:* Consideration shall be given to providing accessible elements and spaces in each altered building or facility complying with:
 
 (i) 4.6, Parking and Passenger Loading Zones,
 
@@ -975,7 +975,7 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 
 (vii) 4.33, Assembly Areas.
 
-**(4)** Special technical provisions for alterations to existing buildings or facilities:
+**(4)** Special technical provisions for alterations to existing buildings or facilities:
 
 (a) Ramps. Curb ramps and ramps to be constructed on existing sites or in existing buildings or facilities may have slopes and rises as shown in Table 2 if space limitations prohibit the use of a 1:12 slope or less.
 
@@ -983,8 +983,8 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 
 | **Slope*** | Maximum Rise | Maximum Run |
 | --- | --- | --- |
-| Steeper than 1:10 but no steeper than 1:8 | 3 in 75 mm | 2 ft 0.6 m |
-| Steeper than 1:12 but no steeper than 1:10 | 6 in 150 mm | 5 ft 1.5 m |
+| Steeper than 1:10 but no steeper than 1:8 | 3 in 75 mm | 2 ft 0.6 m |
+| Steeper than 1:12 but no steeper than 1:10 | 6 in 150 mm | 5 ft 1.5 m |
 
 \* A slope steeper than 1:8 not allowed.
 
@@ -1004,7 +1004,7 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 
 (e) Toilet rooms. Where alterations to existing facilities make strict compliance with 4.22 and 4.23 structurally impracticable, the addition of one "unisex" toilet per floor containing one water closet complying with 4.16 and one lavatory complying with 4.19, located adjacent to existing toilet facilities, will be acceptable in lieu of making existing toilet facilities for each sex accessible.
 
-*EXCEPTION:* In instances of alteration work where provision of a standard stall (Fig. 30(a)) is structurally impracticable or where plumbing code requirements prevent combining existing stalls to provide space, an alternate stall (Fig. 30(b)) may be provided in lieu of the standard stall.
+*EXCEPTION:* In instances of alteration work where provision of a standard stall (Fig. 30(a)) is structurally impracticable or where plumbing code requirements prevent combining existing stalls to provide space, an alternate stall (Fig. 30(b)) may be provided in lieu of the standard stall.
 
 (f) Assembly areas.
 
@@ -1012,7 +1012,7 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 
 (ii) In alterations where it is structurally impracticable to alter all performing areas to be on an accessible route, then at least one of each type shall be made accessible.
 
-**(5) HOUSING.** (Reserved).
+**(5) HOUSING.** (Reserved).
 
 #### 4.1.7 ACCESSIBLE BUILDINGS: HISTORIC PRESERVATION
 
@@ -1028,11 +1028,11 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 
 (a) At least one accessible route complying with 4.3 from a site access point to an accessible entrance shall be provided.
 
-*EXCEPTION:* A ramp with a slope no greater than 1:6 for a run not to exceed 2 ft (610 mm) may be used as part of an accessible route at an entrance.
+*EXCEPTION:* A ramp with a slope no greater than 1:6 for a run not to exceed 2 ft (610 mm) may be used as part of an accessible route at an entrance.
 
 (b) At least one accessible entrance which is used by the public complying with 4.14 shall be provided.
 
-*EXCEPTION:* If it is determined that no entrance used by the public can comply with 4.14, then access at any entrance not used by the general public but open (unlocked) with directional signs at the primary entrance may be used.
+*EXCEPTION:* If it is determined that no entrance used by the public can comply with 4.14, then access at any entrance not used by the general public but open (unlocked) with directional signs at the primary entrance may be used.
 
 (c) If toilets are provided, then at least one toilet facility complying with 4.22 and 4.1.6 shall be provided along an accessible route that complies with 4.3. Such toilet facility may be "unisex" in design.
 
@@ -1040,7 +1040,7 @@ Each addition to an existing building shall comply with 4.1.1 to 4.1.4 of 4.1, M
 
 (e) Displays and written information, documents, etc, should be located where they can be seen by a seated person. Exhibits and signage displayed horizontally, e.g., books, should be no higher than 44 in (1120 mm) above the floor surface.
 
-### 4.2 SPACE ALLOWANCE AND REACH RANGES
+### 4.2 SPACE ALLOWANCE AND REACH RANGES
 
 #### 4.2.1 WHEELCHAIR PASSAGE WIDTH
 
@@ -1177,7 +1177,7 @@ Walking Parallel to a Wall**
 Protruding Objects\
 Walking Perpendicular to a Wall**
 
- ![free-standing overhanging objects]({{ site.baseurl }}/images/ufas/fig8c.gif)
+ ![free-standing overhanging objects]({{ site.baseurl }}/images/ufas/fig8c.gif)
 
 **Figure 8(c)\
 Protruding Objects\
@@ -1185,7 +1185,7 @@ Free-Standing Overhanging Objects**
 
 ![Overhead Hazards. As an example, the diagram illustrates a stair whose underside descends across a pathway. Where the headroom is less than 80 inches, protection is offered by a railing (2030 mm) which can be no higher than 27 inches (685 mm) to ensure detectability.]({{ site.baseurl }}/images/ufas/fig8c1.gif)
 
- **Figure 8(c)**\
+ **Figure 8(c)**\
 **Protruding Objects**\
 **Overhead Hazards**
 
@@ -1252,7 +1252,7 @@ Parking spaces for disabled people and accessible passenger loading zones that s
 
 Parking spaces for disabled people shall be at least 96 in (2440 mm) wide and shall have an adjacent access aisle 60 in (1525 mm) wide minimum (see Fig. 9). Parking access aisles shall be part of an accessible route to the building or facility entrance and shall comply with 4.3. Two accessible parking spaces may share a common access aisle. Parked vehicle overhangs shall not reduce the clear width of an accessible circulation route. Parking spaces and access aisles shall be level with surface slopes not exceeding 1:50 in all directions.
 
-*EXCEPTION:* If accessible parking spaces for vans designed for handicapped persons are provided, each should have an adjacent access aisle at least 96 in (2440 mm) wide complying with 4.5, Ground and Floor Surfaces.
+*EXCEPTION:* If accessible parking spaces for vans designed for handicapped persons are provided, each should have an adjacent access aisle at least 96 in (2440 mm) wide complying with 4.5, Ground and Floor Surfaces.
 
 ![The access aisle shall be a minimum of 60 inches (1525 mm) wide. The accessible route connected to the access aisle at the front of the parking spaces shall be a minimum of 36 inches (915 mm).]({{ site.baseurl }}/images/ufas/fig9.gif)
 
@@ -1458,9 +1458,9 @@ Note: X is the 12 in minimum handrail extension required at each top riser. Y is
 **Figure 19(b)\
 Stair Handrails - Elevation of Center Handrail**
 
- ![Stair Handrails - Extension at Bottom of Run]({{ site.baseurl }}/images/ufas/fig19c.gif)
+ ![Stair Handrails - Extension at Bottom of Run]({{ site.baseurl }}/images/ufas/fig19c.gif)
 
- **Figure 19(c)**\
+ **Figure 19(c)**\
 **Stair Handrails - Extension at Bottom of Run**
 
 Note: X is the 12 in minimum handrail extension required at each top riser. Y is the minimum handrail extension of 12 in plus the width of one tread that is required at each bottom riser.
@@ -1651,7 +1651,7 @@ If doorways have two independently operated door leaves, then at least one leaf 
 
 Doorways shall have a minimum clear opening of 32 in (815 mm) with the door open 90 degrees, measured between the face of the door and the stop (see Fig. 24(a), (b), (c), and (d)). Openings more than 24 in (610 mm) in depth shall comply with 4.2.1 and 4.3.3 (see Fig. 24(e)).
 
-*EXCEPTION:* Doors not requiring full user passage, such as shallow closets, may have the clear opening reduced to 20 in (510 mm) minimum.
+*EXCEPTION:* Doors not requiring full user passage, such as shallow closets, may have the clear opening reduced to 20 in (510 mm) minimum.
 
 **![Clear Doorway Width and Depth]({{ site.baseurl }}/images/ufas/fig24a.gif)**
 
@@ -1839,7 +1839,7 @@ Water closets in accessible stalls shall comply with 4.16.
 
 The size and arrangement of toilet stalls shall comply with Fig. 30(a). Toilet stalls with a minimum depth of 56 in (1420 mm) (see Fig. 30(a)) shall have wall-mounted water closets. If the depth of toilet stalls is increased at least 3 in (75 mm), then a floor-mounted water closet may be used. Arrangements shown for stalls may be reversed to allow either a left- or right-hand approach.
 
-*EXCEPTION:* In instances of alteration work where provision of a standard stall (Fig. 30(a)) is structurally impracticable or where plumbing code requirements prevent combining existing stalls to provide space, an alternate stall (Fig. 30(b)) may be provided in lieu of the standard stall.
+*EXCEPTION:* In instances of alteration work where provision of a standard stall (Fig. 30(a)) is structurally impracticable or where plumbing code requirements prevent combining existing stalls to provide space, an alternate stall (Fig. 30(b)) may be provided in lieu of the standard stall.
 
 ![Clearances and grab bars at toilet stalls]({{ site.baseurl }}/images/ufas/fig30.gif)
 
@@ -2000,7 +2000,7 @@ Faucets and other controls complying with 4.27.4 shall be located as shown in Fi
 
 A shower spray unit with a hose at least 60 in (1525 mm) long that can be used as a fixed shower head or as a hand-held shower shall be provided.
 
-*EXCEPTION:* In unmonitored facilities where vandalism is a consideration, a fixed shower head mounted at 48 in (1220 mm) above the shower floor may be used in lieu of a hand-held shower head.
+*EXCEPTION:* In unmonitored facilities where vandalism is a consideration, a fixed shower head mounted at 48 in (1220 mm) above the shower floor may be used in lieu of a hand-held shower head.
 
 #### 4.21.7 CURBS
 
@@ -2024,7 +2024,7 @@ All doors to accessible toilet rooms shall comply with 4.13. Doors shall not swi
 
 The accessible fixtures and controls required in 4.22.4, 4.22.5, 4.22.6, and 4.22.7 shall be on an accessible route. An unobstructed turning space complying with 4.2.3 shall be provided within an accessible toilet room. The clear floor space at fixtures and controls, the accessible route, and the turning space may overlap.
 
-*EXCEPTION:* In toilet rooms with only one water closet and one lavatory, a clear floor space of 30 in by 60 in (815 mm by 1525 mm) may be used in lieu of the unobstructed turning space.
+*EXCEPTION:* In toilet rooms with only one water closet and one lavatory, a clear floor space of 30 in by 60 in (815 mm by 1525 mm) may be used in lieu of the unobstructed turning space.
 
 #### 4.22.4 WATER CLOSETS
 
@@ -2056,7 +2056,7 @@ Doors to accessible bathrooms shall comply with 4.13. Doors shall not swing into
 
 The accessible fixtures and controls required in 4.23.4, 4.23.5, 4.23.6, 4.23.7, 4.23.8, and 4.23.9 shall be on an accessible route. An unobstructed turning space complying with 4.2.3 shall be provided within an accessible bathroom. The clear floor spaces at fixtures and controls, the accessible route, and the turning space may overlap.
 
-*EXCEPTION:* In bathrooms with only one water closet, one lavatory, and one bathtub or shower, a clear floor space of 30 in by 60 in (760 mm by 1525 mm) may be used in lieu of the unobstructed turning space.
+*EXCEPTION:* In bathrooms with only one water closet, one lavatory, and one bathtub or shower, a clear floor space of 30 in by 60 in (760 mm by 1525 mm) may be used in lieu of the unobstructed turning space.
 
 #### 4.23.4 WATER CLOSETS
 
@@ -2279,7 +2279,7 @@ Letters and numbers on signs shall have a width-to-height ratio between 3:5 and 
 
 Characters and symbols shall contrast with their background - either light characters on a dark background or dark characters on a light background.
 
-**4.30.4* RAISED CHARACTERS OR SYMBOLS.** Letters and numbers on signs shall be raised 1/32 in (0.8 mm) minimum and shall be sans serif characters. Raised characters or symbols shall be at least 5/8 in (16 mm) high, but no higher than 2 in (50 mm). Symbols or pictographs on signs shall be raised 1/32 in (0.8 mm) minimum.
+**4.30.4* RAISED CHARACTERS OR SYMBOLS.** Letters and numbers on signs shall be raised 1/32 in (0.8 mm) minimum and shall be sans serif characters. Raised characters or symbols shall be at least 5/8 in (16 mm) high, but no higher than 2 in (50 mm). Symbols or pictographs on signs shall be raised 1/32 in (0.8 mm) minimum.
 
 #### 4.30.5 SYMBOLS OF ACCESSIBILITY
 
@@ -2376,7 +2376,7 @@ Space Requirements for Wheelchair Seating Spaces in Series**
 
 Wheelchair areas shall be an integral part of any fixed seating plan and shall be dispersed throughout the seating area. They shall adjoin an accessible route that also serves as a means of egress in case of emergency and shall be located to provide lines of sight comparable to those for all viewing areas.
 
-*EXCEPTION:* Accessible viewing positions may be clustered for bleachers, balconies, and other areas having sight lines that require slopes of greater than 5 percent. Equivalent accessible viewing positions may be located on levels having accessible egress.
+*EXCEPTION:* Accessible viewing positions may be clustered for bleachers, balconies, and other areas having sight lines that require slopes of greater than 5 percent. Equivalent accessible viewing positions may be located on levels having accessible egress.
 
 #### 4.33.4 SURFACES
 
@@ -2844,7 +2844,7 @@ This appendix contains additional information that should help the designer to u
 **Figure A1\
 Minimum Passage Width for One Wheelchair and One Ambulatory Person**
 
-**A4.2.3 WHEELCHAIR TURNING SPACE.** This standard specifies a minimum space of 60 in (1525 mm) diameter for a pivoting 180-degree turn of a wheelchair. This space is usually satisfactory for turning around, but many people will not be able to turn without repeated tries and bumping into surrounding objects. The space shown in Fig. A2 will allow most wheelchair users to complete U-turns without difficulty.
+**A4.2.3 WHEELCHAIR TURNING SPACE.** This standard specifies a minimum space of 60 in (1525 mm) diameter for a pivoting 180-degree turn of a wheelchair. This space is usually satisfactory for turning around, but many people will not be able to turn without repeated tries and bumping into surrounding objects. The space shown in Fig. A2 will allow most wheelchair users to complete U-turns without difficulty.
 
 ![Space Needed for Smooth U-Turn in a Wheelchair]({{ site.baseurl }}/images/ufas/figa2.gif)
 
@@ -2853,7 +2853,7 @@ Space Needed for Smooth U-Turn in a Wheelchair**
 
 The space needed for a smooth U-turn in a wheelchair is 78 inches (1965 mm) minimum by 60 inches (1525 mm) minimum.
 
-**A4.2.4 CLEAR FLOOR OR GROUND SPACE FOR WHEELCHAIRS. **The wheelchair and user shown in Fig. A3 represent typical dimensions for a large adult male. The space requirements in this standard are based upon maneuvering clearances that will accommodate most larger wheelchairs. Fig. A3 provides a uniform reference for design not covered by this standard.
+**A4.2.4 CLEAR FLOOR OR GROUND SPACE FOR WHEELCHAIRS. **The wheelchair and user shown in Fig. A3 represent typical dimensions for a large adult male. The space requirements in this standard are based upon maneuvering clearances that will accommodate most larger wheelchairs. Fig. A3 provides a uniform reference for design not covered by this standard.
 
 ![The height of the handle is at 36 inches (915 mm). The armrest is 30 inches (760 mm) high. Eye level is between 43 and 51 inches (1090-1295 mm). The lap is at 27 inches (685 mm). The seat is at 19 inches (485 mm). The toe is at 8 inches (205 mm). The width of a wheelchair measured from the outer edges of the back wheels is 26 inches (660 mm), the length is 42 inches (1065 mm), the width measured from the outer edges of the footrests is 18 inches (455 mm). The toes extends 6 inches (150 mm) beyond the edge of the footrests.]({{ site.baseurl }}/images/ufas/figa3.gif)
 
@@ -2862,7 +2862,7 @@ Dimensions of Adult-Sized Wheelchairs**
 
 Note: Footrests may extend further for very large people.
 
-**A4.2.5 & A4.2.6 REACH.** Reach ranges for persons seated in wheelchairs may be further clarified by Fig. A3(a). These drawings approximate in the plan view information shown in Fig. 4, 5, and 6 in other views.
+**A4.2.5 & A4.2.6 REACH.** Reach ranges for persons seated in wheelchairs may be further clarified by Fig. A3(a). These drawings approximate in the plan view information shown in Fig. 4, 5, and 6 in other views.
 
 ![Dimensions of Adult-Sized Wheelchairs]({{ site.baseurl }}/images/ufas/figa3a.gif)
 
@@ -2877,11 +2877,11 @@ Dimensions of Adult-Sized Wheelchairs**
 
 (2) Sites. Level, indirect routes or those with running slopes lower than 1:20 can sometimes provide more convenience than direct routes with maximum allowable slopes or with ramps.
 
-**A4.3.10 EGRESS.** In buildings where physically handicapped people are regularly employed or are residents, an emergency management plan for their evacuation also plays an essential role in fire safety.
+**A4.3.10 EGRESS.** In buildings where physically handicapped people are regularly employed or are residents, an emergency management plan for their evacuation also plays an essential role in fire safety.
 
 **A4.4 PROTRUDING OBJECTS.**
 
-**A4.4.1 GENERAL.** Guide dogs are trained to recognize and avoid hazards. However, most people with severe impairments of vision use the long cane as an aid to mobility. The two principal cane techniques are the touch technique, where the cane arcs from side to side and touches points outside both shoulders; and the diagonal technique, where the cane is held in a stationary position diagonally across the body with the cane tip touching or just above the ground at a point outside one shoulder and the handle or grip extending to a point outside the other shoulder. The touch technique is used primarily in uncontrolled areas, while the diagonal technique is used primarily in certain limited, controlled, and familiar environments. Cane users are often trained to use both techniques.
+**A4.4.1 GENERAL.** Guide dogs are trained to recognize and avoid hazards. However, most people with severe impairments of vision use the long cane as an aid to mobility. The two principal cane techniques are the touch technique, where the cane arcs from side to side and touches points outside both shoulders; and the diagonal technique, where the cane is held in a stationary position diagonally across the body with the cane tip touching or just above the ground at a point outside one shoulder and the handle or grip extending to a point outside the other shoulder. The touch technique is used primarily in uncontrolled areas, while the diagonal technique is used primarily in certain limited, controlled, and familiar environments. Cane users are often trained to use both techniques.
 
 Potential hazardous objects are noticed only if they fall within the detection range of canes (see Fig. A4). Visually impaired people walking toward an object can detect an overhang if its lowest surface is not higher than 27 in (685 mm). When walking alongside projecting objects, they cannot detect overhangs. Since proper cane and guide dog techniques keep people away from the edge of a path or from walks, a slight overhang of no more than 4 in (100 mm) is not hazardous.
 
@@ -2892,53 +2892,53 @@ Cane Technique**
 
 **A4.5 GROUND AND FLOOR SURFACES.**
 
-**A4.5.1 GENERAL.** Ambulant and semiambulant people who have difficulty maintaining balance and those with restricted gaits are particularly sensitive to slipping and tripping hazards. For such people, a stable and regular surface is necessary for safe walking, particularly on stairs. Wheelchairs can be propelled most easily on surfaces that are hard, stable, and regular. Soft, loose surfaces such as shag carpet, loose sand, and wet clay, and irregular surfaces, such as cobblestones, can significantly impede wheelchair movement.
+**A4.5.1 GENERAL.** Ambulant and semiambulant people who have difficulty maintaining balance and those with restricted gaits are particularly sensitive to slipping and tripping hazards. For such people, a stable and regular surface is necessary for safe walking, particularly on stairs. Wheelchairs can be propelled most easily on surfaces that are hard, stable, and regular. Soft, loose surfaces such as shag carpet, loose sand, and wet clay, and irregular surfaces, such as cobblestones, can significantly impede wheelchair movement.
 
 Slip resistance is based on the frictional force necessary to keep a shoe heel or crutch tip from slipping on a walking surface under the conditions of use likely to be found on the surface. Although it is known that the static coefficient of friction is the basis of slip resistance, there is not as yet a generally accepted method to evaluate the slip resistance of walking surfaces.
 
 Cross slopes on walks and ground or floor surfaces can cause considerable difficulty in propelling a wheelchair in a straight line.
 
-**A4.5.3 CARPET. **Much more needs to be done in developing both quantitative and qualitative criteria for carpeting. However, certain functional characteristics are well established. When both carpet and padding are used, it is desirable to have minimum movement (preferably none) between the floor and the pad and the pad and the carpet, which would allow the carpet to hump or warp. In heavily trafficked areas, a thick soft (plush) pad or cushion, particularly in combination with long carpet pile, makes it difficult for individuals in wheelchairs and those with other ambulatory disabilities to get about. This should not preclude their use in specific areas where traffic is light. Firm carpeting can be achieved through proper selection and combination of pad and carpet, sometimes with the elimination of the pad or cushion, and with proper installation.
+**A4.5.3 CARPET. **Much more needs to be done in developing both quantitative and qualitative criteria for carpeting. However, certain functional characteristics are well established. When both carpet and padding are used, it is desirable to have minimum movement (preferably none) between the floor and the pad and the pad and the carpet, which would allow the carpet to hump or warp. In heavily trafficked areas, a thick soft (plush) pad or cushion, particularly in combination with long carpet pile, makes it difficult for individuals in wheelchairs and those with other ambulatory disabilities to get about. This should not preclude their use in specific areas where traffic is light. Firm carpeting can be achieved through proper selection and combination of pad and carpet, sometimes with the elimination of the pad or cushion, and with proper installation.
 
 **A4.6 PARKING AND PASSENGER LOADING ZONES.**
 
-**A4.6.3 PARKING SPACES.** High-top vans, which disabled people or transportation services often use, require higher clearances in parking garages than automobiles. When optional van spaces are provided within a garage, only the spaces themselves and a vehicle route to them require the specified clearances.
+**A4.6.3 PARKING SPACES.** High-top vans, which disabled people or transportation services often use, require higher clearances in parking garages than automobiles. When optional van spaces are provided within a garage, only the spaces themselves and a vehicle route to them require the specified clearances.
 
-**A4.6.4 SIGNAGE.** Signs designating parking places for disabled people can be seen from a driver's seat if the signs are mounted high enough above the ground and located at the front of a parking space.
+**A4.6.4 SIGNAGE.** Signs designating parking places for disabled people can be seen from a driver's seat if the signs are mounted high enough above the ground and located at the front of a parking space.
 
 **A4.8 RAMPS.**
 
-**A4.8.1 GENERAL.** Ramps are essential for wheelchair users if elevators or lifts are not available to connect different levels. However, some people who use walking aids have difficulty with ramps and prefer stairs.
+**A4.8.1 GENERAL.** Ramps are essential for wheelchair users if elevators or lifts are not available to connect different levels. However, some people who use walking aids have difficulty with ramps and prefer stairs.
 
-**A4.8.2 SLOPE AND RISE.** The ability to manage an incline is related to both its slope and its length. Wheelchair users with disabilities affecting arms or with low stamina have serious difficulty using inclines. Most ambulatory people and most people who use wheelchairs can manage a slope of 1:16. Many people cannot manage a slope of 1:12 for 30 ft (9 m). Many people who have difficulty negotiating very long ramps at relatively shallow slopes can manage very short ramps at steeper slopes.
+**A4.8.2 SLOPE AND RISE.** The ability to manage an incline is related to both its slope and its length. Wheelchair users with disabilities affecting arms or with low stamina have serious difficulty using inclines. Most ambulatory people and most people who use wheelchairs can manage a slope of 1:16. Many people cannot manage a slope of 1:12 for 30 ft (9 m). Many people who have difficulty negotiating very long ramps at relatively shallow slopes can manage very short ramps at steeper slopes.
 
-**A4.8.5 HANDRAILS.** The requirements for stair and ramp handrails in this standard are for adults. When children are principal users in a building or facility, a second set of handrails at an appropriate height can assist them and aid in preventing accidents.
+**A4.8.5 HANDRAILS.** The requirements for stair and ramp handrails in this standard are for adults. When children are principal users in a building or facility, a second set of handrails at an appropriate height can assist them and aid in preventing accidents.
 
 **A4.10 ELEVATORS.**
 
-**A4.10.6 DOOR PROTECTIVE AND REOPENING DEVICE. **The required door reopening device would hold the door open for 20 seconds if the doorway remains unobstructed. After 20 seconds, the door may begin to close. However, if designed in accordance with ANSI A17.1-1978, the door closing movement could still be stopped if a person or object exerts sufficient force at any point on the door edge.
+**A4.10.6 DOOR PROTECTIVE AND REOPENING DEVICE. **The required door reopening device would hold the door open for 20 seconds if the doorway remains unobstructed. After 20 seconds, the door may begin to close. However, if designed in accordance with ANSI A17.1-1978, the door closing movement could still be stopped if a person or object exerts sufficient force at any point on the door edge.
 
-**A4.10.7 DOOR AND SIGNAL TIMING FOR HALL CALLS.** This paragraph allows variation in the location of call buttons, advance time for warning signals, and the door-holding period used to meet the time requirement.
+**A4.10.7 DOOR AND SIGNAL TIMING FOR HALL CALLS.** This paragraph allows variation in the location of call buttons, advance time for warning signals, and the door-holding period used to meet the time requirement.
 
-**A4.10.12 CAR CONTROLS.** Industry-wide standardization of elevator control panel design would make all elevators significantly more convenient for use by people with severe visual impairments.
+**A4.10.12 CAR CONTROLS.** Industry-wide standardization of elevator control panel design would make all elevators significantly more convenient for use by people with severe visual impairments.
 
 In many cases, it will be possible to locate the highest control on elevator panels with 48 in (1220 mm) from the floor.
 
-**A4.10.13 CAR POSITION INDICATORS. **A special button may be provided that would activate the audible signal within the given elevator only for the desired trip, rather than maintaining the audible signal in constant operation.
+**A4.10.13 CAR POSITION INDICATORS. **A special button may be provided that would activate the audible signal within the given elevator only for the desired trip, rather than maintaining the audible signal in constant operation.
 
-**A4.10.14 EMERGENCY COMMUNICATIONS.** A device that required no handset is easier to use by people who have difficulty reaching.
+**A4.10.14 EMERGENCY COMMUNICATIONS.** A device that required no handset is easier to use by people who have difficulty reaching.
 
-**A4.11 PLATFORM LIFTS.** Platform lifts include porch lifts and other devices used for short-distance, vertical transportation of people in wheelchairs. At the present time, generally recognized safety standards for such lifts have not been developed. Care should be taken in selecting and installing lifts to ensure that they are free from hazards to users or to other individuals who may be in the vicinity where they are being operated.
+**A4.11 PLATFORM LIFTS.** Platform lifts include porch lifts and other devices used for short-distance, vertical transportation of people in wheelchairs. At the present time, generally recognized safety standards for such lifts have not been developed. Care should be taken in selecting and installing lifts to ensure that they are free from hazards to users or to other individuals who may be in the vicinity where they are being operated.
 
 **A4.13 DOORS.**
 
-**A4.13.8 THRESHOLDS AT DOORWAYS.** Thresholds and surface height changes in doorways are particularly inconvenient for wheelchair users who also have low stamina or restrictions in arm movement, because complex maneuvering is required to get over the level change while operating the door.
+**A4.13.8 THRESHOLDS AT DOORWAYS.** Thresholds and surface height changes in doorways are particularly inconvenient for wheelchair users who also have low stamina or restrictions in arm movement, because complex maneuvering is required to get over the level change while operating the door.
 
-**A4.13.9 DOOR HARDWARE.** Some disabled persons must push against a door with their chair or walker to open it. Applied kickplates on doors with closers can reduce required maintenance by withstanding abuse from wheelchairs and canes. To be effective, they should cover the door width, less approximately 2 in (51 mm), up to a height of 16 in (405 mm) form its bottom edge and be centered across the top.
+**A4.13.9 DOOR HARDWARE.** Some disabled persons must push against a door with their chair or walker to open it. Applied kickplates on doors with closers can reduce required maintenance by withstanding abuse from wheelchairs and canes. To be effective, they should cover the door width, less approximately 2 in (51 mm), up to a height of 16 in (405 mm) form its bottom edge and be centered across the top.
 
-**A4.13.10 DOOR CLOSERS. **Closers with delayed action features give a person more time to maneuver through doorways. They are particularly useful on frequently used interior doors such as entrances to toilet rooms.
+**A4.13.10 DOOR CLOSERS. **Closers with delayed action features give a person more time to maneuver through doorways. They are particularly useful on frequently used interior doors such as entrances to toilet rooms.
 
-**A4.13.11 DOOR OPENING FORCE.** Although most people with disabilities can exert at least 5 lbf (22.2N), both pushing and pulling from a stationary position, a few people with severe disabilities cannot exert even 3 lbf (13.3N). Although some people cannot manage the allowable force in this standard and many others have difficulty, door closers must have certain minimum closing forces to close doors satisfactorily. Forces for pushing or pulling doors open are measured with a push-pull scale under the following conditions:
+**A4.13.11 DOOR OPENING FORCE.** Although most people with disabilities can exert at least 5 lbf (22.2N), both pushing and pulling from a stationary position, a few people with severe disabilities cannot exert even 3 lbf (13.3N). Although some people cannot manage the allowable force in this standard and many others have difficulty, door closers must have certain minimum closing forces to close doors satisfactorily. Forces for pushing or pulling doors open are measured with a push-pull scale under the following conditions:
 
 (1) Hinged doors: Forced applied perpendicular to the door at the door opener or 30 in (760 mm) from the hinged side, whichever is farther from the hinge.
 
@@ -2948,50 +2948,50 @@ In many cases, it will be possible to locate the highest control on elevator pan
 
 In high-rise buildings, air-pressure differentials may require a modification of this specification in order to meet the functional intent.
 
-**A4.13.12 AUTOMATIC DOORS AND POWER-ASSISTED DOORS.** Sliding automatic doors do not need guard rails and are more convenient for wheelchair users and visually impaired people to use. If slowly opening automatic doors can be reactuated before their closing cycle is completed, they will be more convenient in busy doorways.
+**A4.13.12 AUTOMATIC DOORS AND POWER-ASSISTED DOORS.** Sliding automatic doors do not need guard rails and are more convenient for wheelchair users and visually impaired people to use. If slowly opening automatic doors can be reactuated before their closing cycle is completed, they will be more convenient in busy doorways.
 
 **A4.15 DRINKING FOUNTAINS AND WATER COOLERS.**
 
-**A4.15.2** Drinking fountains with two spouts can assist both handicapped people and those people who find it difficult to bend over.
+**A4.15.2** Drinking fountains with two spouts can assist both handicapped people and those people who find it difficult to bend over.
 
 **A4.16 WATER CLOSETS.**
 
-**A4.16.3 HEIGHT.** Preferences for toilet seat heights vary considerably among disabled people. Higher seat heights may be an advantage to some ambulatory disabled people but a disadvantage for wheelchair users and others. Toilet seats 18 in (455 mm) high seem to be a reasonable compromise. Thick seats and filler rings are available to adapt standard fixtures to these requirements.
+**A4.16.3 HEIGHT.** Preferences for toilet seat heights vary considerably among disabled people. Higher seat heights may be an advantage to some ambulatory disabled people but a disadvantage for wheelchair users and others. Toilet seats 18 in (455 mm) high seem to be a reasonable compromise. Thick seats and filler rings are available to adapt standard fixtures to these requirements.
 
-**A4.16.4 GRAB BARS. **Fig. A5(a) and (b)show the diagonal and side approaches most commonly used to transfer from a wheelchair to a water closet. Some wheelchair users can transfer from the front of the toilet, while others use a 90-degree approach. Most people who use the two additional approaches can also use either the diagonal approach or the side approach.
+**A4.16.4 GRAB BARS. **Fig. A5(a) and (b)show the diagonal and side approaches most commonly used to transfer from a wheelchair to a water closet. Some wheelchair users can transfer from the front of the toilet, while others use a 90-degree approach. Most people who use the two additional approaches can also use either the diagonal approach or the side approach.
 
 ![Wheelchair Transfers]({{ site.baseurl }}/images/ufas/figa6.gif)
 
 **Figure A5\
 Wheelchair Transfers**
 
-**A4.16.5 FLUSH CONTROLS.** Flush valves and related plumbing can be located behind walls or to the side of the toilet, or a toilet seat lid can be provided if plumbing fittings are directly behind the toilet seat. Such designs reduce the chance of injury and imbalance caused by leaning back against the fittings. Flush controls for tank-type toilets have a standardized mounting location on the left side of the tank (facing the tank). Tanks can be obtained by special order with controls mounted on the right side. If administrative authorities require flush controls for flush valves to be located in a position that conflicts with the location of the rear grab bar, then that bar may be split or shifted toward the wide side of the toilet area.
+**A4.16.5 FLUSH CONTROLS.** Flush valves and related plumbing can be located behind walls or to the side of the toilet, or a toilet seat lid can be provided if plumbing fittings are directly behind the toilet seat. Such designs reduce the chance of injury and imbalance caused by leaning back against the fittings. Flush controls for tank-type toilets have a standardized mounting location on the left side of the tank (facing the tank). Tanks can be obtained by special order with controls mounted on the right side. If administrative authorities require flush controls for flush valves to be located in a position that conflicts with the location of the rear grab bar, then that bar may be split or shifted toward the wide side of the toilet area.
 
 **A4.17 TOILET STALLS.**
 
-**A4.17.5 DOORS.** To make it easier for wheelchair users to close toilet stall doors, doors can be provided with closers, spring hinges, or a pull bar mounted on the inside surface of the door near the hinge side.
+**A4.17.5 DOORS.** To make it easier for wheelchair users to close toilet stall doors, doors can be provided with closers, spring hinges, or a pull bar mounted on the inside surface of the door near the hinge side.
 
 **A4.19 LAVATORIES AND MIRRORS.**
 
-**A4.19.6 MIRRORS.** If mirrors are to be used by both ambulatory people and wheelchair users, then they must be at least 74 in (1880 mm) high at their topmost edge. A single full length mirror can accommodate all people, including children.
+**A4.19.6 MIRRORS.** If mirrors are to be used by both ambulatory people and wheelchair users, then they must be at least 74 in (1880 mm) high at their topmost edge. A single full length mirror can accommodate all people, including children.
 
 **A4.21 SHOWER STALLS.**
 
-**A4.21.1 GENERAL.** Shower stalls that are 36 in by 36 in (915 mm by 915 mm) wide provide additional safety to people who have difficulty maintaining balance because all grab bars and walls are within easy reach. Seated people use the walls of 36 in by 36 in (915 mm by 915 mm) showers for back support. Shower stalls that are 60 in (1525 mm) wide and have no curb may increase usability of a bathroom by wheelchair users because the shower area provides additional maneuvering space.
+**A4.21.1 GENERAL.** Shower stalls that are 36 in by 36 in (915 mm by 915 mm) wide provide additional safety to people who have difficulty maintaining balance because all grab bars and walls are within easy reach. Seated people use the walls of 36 in by 36 in (915 mm by 915 mm) showers for back support. Shower stalls that are 60 in (1525 mm) wide and have no curb may increase usability of a bathroom by wheelchair users because the shower area provides additional maneuvering space.
 
 **A4.23 BATHROOMS, BATHING FACILITIES, AND SHOWER ROOMS.**
 
-**A4.23.9 MEDICINE CABINETS.** Other alternatives for storing medical and personal care items are very useful to disabled people. Shelves, drawers, and floor-mounted cabinets can be provided within the reach ranges of disabled people.
+**A4.23.9 MEDICINE CABINETS.** Other alternatives for storing medical and personal care items are very useful to disabled people. Shelves, drawers, and floor-mounted cabinets can be provided within the reach ranges of disabled people.
 
 **A4.26 HANDRAILS, GRAB BARS, AND TUB AND SHOWER SEATS.**
 
-**A4.26.1 GENERAL.** Many disabled people rely heavily upon grab bars and handrails to maintain balance and prevent serious falls. Many people brace their forearms between supports and walls to give them more leverage and stability in maintaining balance or for lifting. The maximum grab bar clearance of 1-1/2 in (38 mm) required in this standard is a safety clearance to prevent injuries from arms slipping through the opening. It also provides adequate gripping room.
+**A4.26.1 GENERAL.** Many disabled people rely heavily upon grab bars and handrails to maintain balance and prevent serious falls. Many people brace their forearms between supports and walls to give them more leverage and stability in maintaining balance or for lifting. The maximum grab bar clearance of 1-1/2 in (38 mm) required in this standard is a safety clearance to prevent injuries from arms slipping through the opening. It also provides adequate gripping room.
 
-**A4.26.2 SIZE AND SPACING OF GRAB BARS AND HANDRAILS.** This specification allows for alternate shapes of handrails as long as they allow an opposing grips similar to that provided by a circular section of 1-1/4 in to 1-1/2 in (32 mm to 38 mm).
+**A4.26.2 SIZE AND SPACING OF GRAB BARS AND HANDRAILS.** This specification allows for alternate shapes of handrails as long as they allow an opposing grips similar to that provided by a circular section of 1-1/4 in to 1-1/2 in (32 mm to 38 mm).
 
 **A4.27 CONTROLS AND OPERATING MECHANISMS.**
 
-**A4.27.3 HEIGHT. **Fig. A6 further illustrates mandatory and advisory control mounting height provision for typical equipment. Note distinction between built-in equipment (considered real property) and movable equipment (considered chattel, and not covered by the Architectural Barriers Act of 1968).
+**A4.27.3 HEIGHT. **Fig. A6 further illustrates mandatory and advisory control mounting height provision for typical equipment. Note distinction between built-in equipment (considered real property) and movable equipment (considered chattel, and not covered by the Architectural Barriers Act of 1968).
 
 **![Control Reach Limitations]({{ site.baseurl }}/images/ufas/figa8.gif)**
 
@@ -3000,27 +3000,27 @@ Control Reach Limitations**
 
 **A4.28 ALARMS.**
 
-**A4.28.2 AUDIBLE ALARMS.** Audible emergency signals must have an intensity and frequency that can attract the attention of individuals who have partial hearing loss. People over 60 years of age generally have difficulty perceiving frequencies higher than 10,000 Hz.
+**A4.28.2 AUDIBLE ALARMS.** Audible emergency signals must have an intensity and frequency that can attract the attention of individuals who have partial hearing loss. People over 60 years of age generally have difficulty perceiving frequencies higher than 10,000 Hz.
 
-**A4.28.3 VISUAL ALARMS.** The specifications in this section do not preclude the use of zoned or coded alarm systems. In zoned systems, the emergency exit lights in an area will flash whenever an audible signal rings in the area.
+**A4.28.3 VISUAL ALARMS.** The specifications in this section do not preclude the use of zoned or coded alarm systems. In zoned systems, the emergency exit lights in an area will flash whenever an audible signal rings in the area.
 
-**A4.28.4 AUXILIARY ALARMS.** Locating visual emergency alarms in rooms where deaf individuals may work or reside alone can ensure that they will always be warned when an emergency alarm is activated. To be effective, such devices must be located and oriented so that they will spread signals and reflections throughout a space or raise the overall light level sharply. The amount and type of light necessary to wake a deaf person from a sound sleep in a dark room will vary depending on a number of factors, including the size and configuration of the room, the distance between the source and the person, whether or not the light flashes, and the cycle of flashing. A 150-watt flashing bulb can be effective under some conditions. Certain devices currently available are designed specifically as visual alarms for deaf people. Deaf people may not need accessibility features other than the emergency alarm connections and communications devices. Thus, rooms in addition to those accessible from wheelchair users also should be equipped with emergency visual alarms or connections.
+**A4.28.4 AUXILIARY ALARMS.** Locating visual emergency alarms in rooms where deaf individuals may work or reside alone can ensure that they will always be warned when an emergency alarm is activated. To be effective, such devices must be located and oriented so that they will spread signals and reflections throughout a space or raise the overall light level sharply. The amount and type of light necessary to wake a deaf person from a sound sleep in a dark room will vary depending on a number of factors, including the size and configuration of the room, the distance between the source and the person, whether or not the light flashes, and the cycle of flashing. A 150-watt flashing bulb can be effective under some conditions. Certain devices currently available are designed specifically as visual alarms for deaf people. Deaf people may not need accessibility features other than the emergency alarm connections and communications devices. Thus, rooms in addition to those accessible from wheelchair users also should be equipped with emergency visual alarms or connections.
 
 **A4.29 TACTILE WARNINGS.**
 
-**A4.29.2 TACTILE WARNINGS ON WALKING SURFACES.** (Reserved).
+**A4.29.2 TACTILE WARNINGS ON WALKING SURFACES.** (Reserved).
 
-**A4.29.3 TACTILE WARNINGS ON DOORS TO HAZARDOUS AREAS.** Tactile signals for hand reception are useful if it is certain that the signals will be touched.
+**A4.29.3 TACTILE WARNINGS ON DOORS TO HAZARDOUS AREAS.** Tactile signals for hand reception are useful if it is certain that the signals will be touched.
 
-**A4.29.5 TACTILE WARNINGS AT HAZARDOUS VEHICULAR AREAS. **(Reserved).
+**A4.29.5 TACTILE WARNINGS AT HAZARDOUS VEHICULAR AREAS. **(Reserved).
 
-**A4.29.6 TACTILE WARNINGS AT REFLECTING POOLS.** (Reserved)
+**A4.29.6 TACTILE WARNINGS AT REFLECTING POOLS.** (Reserved)
 
-**A4.29.7 STANDARDIZATION.** Too many tactile warnings or lack of standardization weakens their usefulness. Tactile signals can also be visual signals to guide dogs, since dogs can be trained to respond to a large variety of visual cues.
+**A4.29.7 STANDARDIZATION.** Too many tactile warnings or lack of standardization weakens their usefulness. Tactile signals can also be visual signals to guide dogs, since dogs can be trained to respond to a large variety of visual cues.
 
 **A.4.30 SIGNAGE.**
 
-**A4.30.1 GENERAL. **In building complexes where finding locations independently on a routine basis may be a necessity (for example, college campuses), tactile maps or prerecorded instructions can be very helpful to visually impaired people. Several maps and auditory instructions have been developed and tested for specific applications. The type of map or instructions used must be based on the information to be communicated, which depends highly on the type of buildings or users.
+**A4.30.1 GENERAL. **In building complexes where finding locations independently on a routine basis may be a necessity (for example, college campuses), tactile maps or prerecorded instructions can be very helpful to visually impaired people. Several maps and auditory instructions have been developed and tested for specific applications. The type of map or instructions used must be based on the information to be communicated, which depends highly on the type of buildings or users.
 
 Landmarks that can easily be distinguished by visually impaired individuals are useful as orientation cues. Such cues include changes in illumination level, bright colors, unique patterns, wall murals, location of special equipment, or other architectural features (for example, an exterior view).
 
@@ -3028,39 +3028,39 @@ Many people with disabilities have limitations in movement of their head and red
 
 **A4.30.2 CHARACTER PROPORTION**. The legibility of printed characters is a function of the viewing distance, character height, the ratio of the stroke width to the height of the character, the contrast of color between character and background, and print font. The size of characters must be based upon the intended viewing distance. A severely nearsighted person may have to be much closer to see a character of a given size accurately than a person with normal visual acuity.
 
-**A4.30.3 COLOR CONTRAST.** The greatest readability is usually achieved through the use of light-colored characters or symbols on a dark background.
+**A4.30.3 COLOR CONTRAST.** The greatest readability is usually achieved through the use of light-colored characters or symbols on a dark background.
 
-**A4.30.4 RAISED OR INDENTED CHARACTERS OR SYMBOLS.** Signs with descriptive materials about public buildings, monuments, and objects of cultural interest can be raised or incised letters. However, a sighted guide or audio-tape device is often a more effective way to present such information. Raised characters are easier to feel at small sizes and are not susceptible to maintenance problems as are indented characters, which can fill with dirt, cleaning compounds, and the like.
+**A4.30.4 RAISED OR INDENTED CHARACTERS OR SYMBOLS.** Signs with descriptive materials about public buildings, monuments, and objects of cultural interest can be raised or incised letters. However, a sighted guide or audio-tape device is often a more effective way to present such information. Raised characters are easier to feel at small sizes and are not susceptible to maintenance problems as are indented characters, which can fill with dirt, cleaning compounds, and the like.
 
 Braille characters can be used in addition to standard alphabet characters and numbers. Placing braille characters to the left of standard characters makes them more convenient to read. Standard dot sizing and spacing as used in braille publications are acceptable. Raised borders around raised characters can make them confusing to read unless the border is set far away from the characters.
 
 **A4.31 TELEPHONES.**
 
-**A4.31.3 MOUNTING HEIGHT.** In localities where the dial-tone first system is in operation, calls can be placed at a coin telephone through the operator without inserting coins. The operator button is located at a height of 46 in (1170 mm) if the coin slot of the telephone is at 54 in (1370 mm).
+**A4.31.3 MOUNTING HEIGHT.** In localities where the dial-tone first system is in operation, calls can be placed at a coin telephone through the operator without inserting coins. The operator button is located at a height of 46 in (1170 mm) if the coin slot of the telephone is at 54 in (1370 mm).
 
 A generally available public telephone with a coin slot mounted lower on the equipment would allow universal installation of telephones at a height of 48 in (1220 mm) or less to all operable parts
 
-**A4.31.5 EQUIPMENT FOR HEARING IMPAIRED PEOPLE.** Other aids for people with hearing impairments are telephones, teleprinter, and other telephonic devices that can be used to transmit printed messages through telephone lines to a teletype printer or television monitor.
+**A4.31.5 EQUIPMENT FOR HEARING IMPAIRED PEOPLE.** Other aids for people with hearing impairments are telephones, teleprinter, and other telephonic devices that can be used to transmit printed messages through telephone lines to a teletype printer or television monitor.
 
 **A4.32 SEATING, TABLES, AND WORK SURFACES.**
 
-**A4.32.4 HEIGHT OF WORK SURFACES.** Different types of work require different work surface heights for comfort and optimal performance. Light detailed work such as writing requires a work surface close to elbow height for a standing person. Heavy manual work such as rolling dough requires a work surface height about 10 in (255 mm) below elbow height for a standing person. The principle of a high work surface height for light detailed work and a low work surface for heavy manual work also applies for seated persons; however, the limiting condition for seated manual work is clearance under the work surface.
+**A4.32.4 HEIGHT OF WORK SURFACES.** Different types of work require different work surface heights for comfort and optimal performance. Light detailed work such as writing requires a work surface close to elbow height for a standing person. Heavy manual work such as rolling dough requires a work surface height about 10 in (255 mm) below elbow height for a standing person. The principle of a high work surface height for light detailed work and a low work surface for heavy manual work also applies for seated persons; however, the limiting condition for seated manual work is clearance under the work surface.
 
 Table A1 shows convenient work surface heights for seated persons. The great variety of heights for comfort and optimal performance indicates a need for alternatives or a compromise in height if people who stand and people who sit will be using the same counter area.
 
 **A4.33 ASSEMBLY AREAS.**
 
-**A4.33.2 SIZE OF WHEELCHAIR LOCATIONS.** Spaces large enough for two wheelchairs allow people who are coming to a performance together to sit together.
+**A4.33.2 SIZE OF WHEELCHAIR LOCATIONS.** Spaces large enough for two wheelchairs allow people who are coming to a performance together to sit together.
 
-**A4.33.3 PLACEMENT OF WHEELCHAIR LOCATIONS.** The location of wheelchair areas can be planned so that a variety of positions within the seating area are provided. This will allow choice in viewing and price categories.
+**A4.33.3 PLACEMENT OF WHEELCHAIR LOCATIONS.** The location of wheelchair areas can be planned so that a variety of positions within the seating area are provided. This will allow choice in viewing and price categories.
 
-**A4.33.6 PLACEMENT OF LISTENING SYSTEMS.** A distance of 50 ft (15 m) allows a person to distinguish performers' facial expressions.
+**A4.33.6 PLACEMENT OF LISTENING SYSTEMS.** A distance of 50 ft (15 m) allows a person to distinguish performers' facial expressions.
 
 **Table A1 -- Convenient Heights of Work Surfaces for Seated People***
 
-| Conditions of Use | Short Women |   | Tall Men |   |
+| Conditions of Use | Short Women |   | Tall Men |   |
 | --- | --- | --- | --- | --- |
-|   | in | mm | in | mm |
+|   | in | mm | in | mm |
 | Seated in a wheelchair:Manual work:<br>Desk or removable armrests | 26 | 660 | 30 | 760 |
 | Fixed, full-size armrests** | 32*** | 815 | 32*** | 815 |
 | Light, detailed work:<br>Desk or removable armrests | 29 | 735 | 34 | 865 |
@@ -3074,28 +3074,28 @@ Table A1 shows convenient work surface heights for seated persons. The great var
 
 *** This dimension is limited by the height of the armrests: a lower height would be preferable. Some people in this group prefer lower work surfaces, which require positioning the wheelchair back from the edge of the counter.
 
-**A4.33.7 TYPES OF LISTENING SYSTEMS.** A listening system that can be used from any seat in a seating area is the most flexible way to meet this specification. Earphone jacks with variable volume controls can benefit only people who have slight hearing losses and do not help people with hearing aids. At the present time, audio loops are the most feasible type of listening system for people who use hearing aids, but people without hearing aids or those with hearing aids not equipped with inductive pickups cannot use them. Loops can be portable and moved to various locations within a room. Moreover, for little cost, they can serve a large area within a seating area. Radio frequency systems can be extremely effective and inexpensive. People without hearing aids can use them, but people with hearing aids need custom-designed equipment to use them as they are presently designed. If hearing aids had a jack to allow a by-pass of microphones, then radio frequency systems would be suitable for people with and without hearing aids. Some listening systems may be subject to interference from other equipment and feedback from hearing aids of people who are using the systems. Such interference can be controlled by careful engineering design that anticipates feedback and sources of interference in the surrounding area.
+**A4.33.7 TYPES OF LISTENING SYSTEMS.** A listening system that can be used from any seat in a seating area is the most flexible way to meet this specification. Earphone jacks with variable volume controls can benefit only people who have slight hearing losses and do not help people with hearing aids. At the present time, audio loops are the most feasible type of listening system for people who use hearing aids, but people without hearing aids or those with hearing aids not equipped with inductive pickups cannot use them. Loops can be portable and moved to various locations within a room. Moreover, for little cost, they can serve a large area within a seating area. Radio frequency systems can be extremely effective and inexpensive. People without hearing aids can use them, but people with hearing aids need custom-designed equipment to use them as they are presently designed. If hearing aids had a jack to allow a by-pass of microphones, then radio frequency systems would be suitable for people with and without hearing aids. Some listening systems may be subject to interference from other equipment and feedback from hearing aids of people who are using the systems. Such interference can be controlled by careful engineering design that anticipates feedback and sources of interference in the surrounding area.
 
 **A4.34 DWELLING UNITS.**
 
-**A4.34.2 MINIMUM REQUIREMENTS.** Handicapped people who live in accessible dwelling units of multifamily buildings or housing projects will want to participate in all on-site social activities, including visiting neighbors in their dwelling units. Hence, any circulation paths among all dwelling units and among all on-site facilities should be as accessible as possible. An accessible second exit to dwelling units provides an extra margin of safety in a fire.
+**A4.34.2 MINIMUM REQUIREMENTS.** Handicapped people who live in accessible dwelling units of multifamily buildings or housing projects will want to participate in all on-site social activities, including visiting neighbors in their dwelling units. Hence, any circulation paths among all dwelling units and among all on-site facilities should be as accessible as possible. An accessible second exit to dwelling units provides an extra margin of safety in a fire.
 
-**A4.34.5 BATHROOMS.** Although not required by these specifications, it is important to install grab bars at toilets, bathtubs, and showers if it is known that a dwelling unit will be occupied by elderly or severely disabled people.
+**A4.34.5 BATHROOMS.** Although not required by these specifications, it is important to install grab bars at toilets, bathtubs, and showers if it is known that a dwelling unit will be occupied by elderly or severely disabled people.
 
 **A4.34.6 KITCHENS.**
 
-**A4.34.6.1 CLEARANCE.** The minimum clearances provide satisfactory maneuvering spaces for wheelchairs only if cabinets are removed at the sink.
+**A4.34.6.1 CLEARANCE.** The minimum clearances provide satisfactory maneuvering spaces for wheelchairs only if cabinets are removed at the sink.
 
-**A4.34.6.5 SINK.** Installing a sink with a drain at the rear so that plumbing is as close to the wall as possible can provide additional clear knee space for wheelchair users.
+**A4.34.6.5 SINK.** Installing a sink with a drain at the rear so that plumbing is as close to the wall as possible can provide additional clear knee space for wheelchair users.
 
-**A4.34.6.6 RANGES AND COOKTOPS.** Although not required for minimum accessibility, countertop range units in a counter with adjustable heights can be an added convenience for wheelchair users.
+**A4.34.6.6 RANGES AND COOKTOPS.** Although not required for minimum accessibility, countertop range units in a counter with adjustable heights can be an added convenience for wheelchair users.
 
-**A4.34.6.7 OVENS.** Countertop or wall-mounted ovens with side-opening doors are easier for people in wheelchairs to use. Clear spaces at least 30 in (760 mm) wide under counters at the side of ovens are an added convenience. The pullout board or fixed shelf under side-opening oven doors provides a resting place for heavy items being moved from the oven to a counter.
+**A4.34.6.7 OVENS.** Countertop or wall-mounted ovens with side-opening doors are easier for people in wheelchairs to use. Clear spaces at least 30 in (760 mm) wide under counters at the side of ovens are an added convenience. The pullout board or fixed shelf under side-opening oven doors provides a resting place for heavy items being moved from the oven to a counter.
 
-**A4.34.6.8 REFRIGERATOR/FREEZERS. **Side-by-side refrigerator/freezers provide the most usable freezer compartments. Locating refrigerators so that their doors can swing back 180 degrees is more convenient for wheelchair users.
+**A4.34.6.8 REFRIGERATOR/FREEZERS. **Side-by-side refrigerator/freezers provide the most usable freezer compartments. Locating refrigerators so that their doors can swing back 180 degrees is more convenient for wheelchair users.
 
-**A4.34.6.10 KITCHEN STORAGE.** Full height cabinets or tall cabinets can be provided rather than cabinets mounted over work counters. Additional storage space located conveniently adjacent to kitchens can be provided to make up for space lost when cabinets under counters are removed.
+**A4.34.6.10 KITCHEN STORAGE.** Full height cabinets or tall cabinets can be provided rather than cabinets mounted over work counters. Additional storage space located conveniently adjacent to kitchens can be provided to make up for space lost when cabinets under counters are removed.
 
 **A9. POSTAL FACILITIES.**
 
-**A9.2 POST OFFICE LOBBIES.** Furniture as chattel is not covered under the Architectural Barriers Act of 1968, but the requirements for lobby furniture and equipment are imposed by the United States Postal Service for greater accessibility in its customer lobbies.
+**A9.2 POST OFFICE LOBBIES.** Furniture as chattel is not covered under the Architectural Barriers Act of 1968, but the requirements for lobby furniture and equipment are imposed by the United States Postal Service for greater accessibility in its customer lobbies.

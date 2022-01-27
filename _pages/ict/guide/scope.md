@@ -71,7 +71,7 @@ In Paragraph (f), the Board has provided an exception that products located in s
 
 **Definitions**
 
-*Agency. Any Federal department or agency, including the United States Postal Service.*
+*Agency. Any Federal department or agency, including the United States Postal Service.*
 
 *Alternate formats. Alternate formats usable by people with disabilities may include, but are not limited to, Braille, ASCII text, large print, recorded audio, and electronic formats that comply with this part.*\
 

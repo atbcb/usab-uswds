@@ -91,24 +91,24 @@ Building Considerations
 
 Cleaning Checklist
 
-| Procedure | Frequency | Product Brand (indicate whether it is purchased in concentrate or ready-to-use form) | Monthly Product Useage | Cleaning Procedure |
-| Clean furniture |   |   |   |   |
-| Clean walls |   |   |   |   |
-| Clean bathrooms |   |   |   |   |
-| Disinfection---Bathroom |   |   |   |   |
-| Disinfection---General |   |   |   |   |
-| Clean washroom fixtures |   |   |   |   |
-| Carpet spot removal |   |   |   |   |
-| Carpet cleaning |   |   |   |   |
-| Gum removal |   |   |   |   |
-| Concrete cleaning |   |   |   |   |
-| Graffiti removal |   |   |   |   |
-| Glass cleaning |   |   |   |   |
-| Metal cleaning |   |   |   |   |
-| Hard floor---routine cleaning |   |   |   |   |
-| Floor stripping |   |   |   |   |
-| Floor refinishing |   |   |   |   |
-| Other all purpose cleaning |   |   |   |   |
+| Procedure | Frequency | Product Brand (indicate whether it is purchased in concentrate or ready-to-use form) | Monthly Product Useage | Cleaning Procedure |
+| Clean furniture |   |   |   |   |
+| Clean walls |   |   |   |   |
+| Clean bathrooms |   |   |   |   |
+| Disinfection---Bathroom |   |   |   |   |
+| Disinfection---General |   |   |   |   |
+| Clean washroom fixtures |   |   |   |   |
+| Carpet spot removal |   |   |   |   |
+| Carpet cleaning |   |   |   |   |
+| Gum removal |   |   |   |   |
+| Concrete cleaning |   |   |   |   |
+| Graffiti removal |   |   |   |   |
+| Glass cleaning |   |   |   |   |
+| Metal cleaning |   |   |   |   |
+| Hard floor---routine cleaning |   |   |   |   |
+| Floor stripping |   |   |   |   |
+| Floor refinishing |   |   |   |   |
+| Other all purpose cleaning |   |   |   |   |
 
 Adequacy of Current Cleaning Program
 
@@ -125,29 +125,29 @@ Selecting Chemicals
 
 In selecting chemicals for cleaning, there can be considerable confusion. "Green," "environmentally safe" and various other claims as to the safety of cleaning products do not provide adequate guidance for determining which products do not adversely affect air quality. Below is a list of some terms with which a buyer of chemical products needs to become familiar. The list also includes comments and discussion of alternatives to potentially hazardous chemicals.
 
-Bio-Degradable: The product will break down in the environment over time into supposedly harmless materials. This does not mean the product is safe for the environment, including soil, water, or air.
+Bio-Degradable: The product will break down in the environment over time into supposedly harmless materials. This does not mean the product is safe for the environment, including soil, water, or air.
 
-Chlorine-free: Contains no chlorine, a toxic chemical responsible for substantial problems in air quality as well as more poisonings each year than any other chemical. Oxygen bleaches, the chlorine-free alternatives for bleaching action, are less stable than chlorine bleaches, but much has been done to stabilize oxygen bleaches in the past few years. Do not use concentrated hydrogen peroxide in pure form for disinfection because its application to a flammable surface can cause it to ignite. For scouring, use of baking soda, borax and scrub pads provides additional cleaning capacity. Using a compound containing stabilized peroxide is useful for bleaching.
+Chlorine-free: Contains no chlorine, a toxic chemical responsible for substantial problems in air quality as well as more poisonings each year than any other chemical. Oxygen bleaches, the chlorine-free alternatives for bleaching action, are less stable than chlorine bleaches, but much has been done to stabilize oxygen bleaches in the past few years. Do not use concentrated hydrogen peroxide in pure form for disinfection because its application to a flammable surface can cause it to ignite. For scouring, use of baking soda, borax and scrub pads provides additional cleaning capacity. Using a compound containing stabilized peroxide is useful for bleaching.
 
-Natural: Implies the product does not contain synthetic ingredients. Since the use of this term is unregulated and the claim can only be verified by checking with the manufacturer, do not rely upon it for any selection criteria. And since naturally-occurring substances can also be harmful, this term does not have meaning with respect to air quality.
+Natural: Implies the product does not contain synthetic ingredients. Since the use of this term is unregulated and the claim can only be verified by checking with the manufacturer, do not rely upon it for any selection criteria. And since naturally-occurring substances can also be harmful, this term does not have meaning with respect to air quality.
 
-Neutral pH: The product is neither alkaline, nor acidic. These are most useful for products that require handling or mixing or are intended for application to bare skin. Even if a product has a neutral pH, it may have been refined from petroleum and other hydrocarbons and emit volatile fumes. For better air quality, it is often preferable to use a non-petroleum alkaline product rather than a solvent or petroleum-based neutral product. Very acidic or alkaline products that become airborne can cause irritation and even severe damage to skin, eyes, and lungs.
+Neutral pH: The product is neither alkaline, nor acidic. These are most useful for products that require handling or mixing or are intended for application to bare skin. Even if a product has a neutral pH, it may have been refined from petroleum and other hydrocarbons and emit volatile fumes. For better air quality, it is often preferable to use a non-petroleum alkaline product rather than a solvent or petroleum-based neutral product. Very acidic or alkaline products that become airborne can cause irritation and even severe damage to skin, eyes, and lungs.
 
-Non-Toxic: Supposedly only a very large amount will cause damage. Since this term is unregulated in its use, is has little meaning. Fewer than 5% of all cleaning compounds have been tested for safety. A few manufacturers test for skin irritation or ingestion effects. Since a product can impact air quality and affect people with a large range of sensitivities, a product claiming to be non-toxic may still cause adverse health effects.
+Non-Toxic: Supposedly only a very large amount will cause damage. Since this term is unregulated in its use, is has little meaning. Fewer than 5% of all cleaning compounds have been tested for safety. A few manufacturers test for skin irritation or ingestion effects. Since a product can impact air quality and affect people with a large range of sensitivities, a product claiming to be non-toxic may still cause adverse health effects.
 
-Oxygenated: Helps whiten and brighten by releasing oxygen which breaks up stains, and eliminates mildew and mold. See Chlorine above. Oxygenated products, such as those containing hydrogen peroxide, can be as effective as chlorine when used in proper doses and according to safety instructions.
+Oxygenated: Helps whiten and brighten by releasing oxygen which breaks up stains, and eliminates mildew and mold. See Chlorine above. Oxygenated products, such as those containing hydrogen peroxide, can be as effective as chlorine when used in proper doses and according to safety instructions.
 
-Phosphate-free: Generally meaningless term. Phosphates are allowed by law only in certain automatic dish detergents. Not a criterion for most purchases.
+Phosphate-free: Generally meaningless term. Phosphates are allowed by law only in certain automatic dish detergents. Not a criterion for most purchases.
 
-Surfactant: This is the active ingredient in most detergent cleaners, such as all- purpose cleaners, floor cleaners, dish detergents, fabric softeners, and hard surface cleaners. Most often they are created from petroleum and are neutral in pH. Surfactants are used to alter the surface properties of the surface being cleaned. This can make the surface more penetrable, easier to rinse, and less able to be adhered to and more repellant of dirt. Numerous surfactants have been used as reducing agents to dissolve heavy greases and soils. Surfactants are now available in non-petroleum-based (vegetable) forms and the newer surfactants offer interesting new chemistry for air quality. In general they have higher flash points. The vegetable-based surfactants rarely have alcohol or other solvents. They can easily be wiped on and off and do not require evaporative assistance, such as adding alcohol and ether to most window cleaners.
+Surfactant: This is the active ingredient in most detergent cleaners, such as all- purpose cleaners, floor cleaners, dish detergents, fabric softeners, and hard surface cleaners. Most often they are created from petroleum and are neutral in pH. Surfactants are used to alter the surface properties of the surface being cleaned. This can make the surface more penetrable, easier to rinse, and less able to be adhered to and more repellant of dirt. Numerous surfactants have been used as reducing agents to dissolve heavy greases and soils. Surfactants are now available in non-petroleum-based (vegetable) forms and the newer surfactants offer interesting new chemistry for air quality. In general they have higher flash points. The vegetable-based surfactants rarely have alcohol or other solvents. They can easily be wiped on and off and do not require evaporative assistance, such as adding alcohol and ether to most window cleaners.
 
-Deodorizer/Re-odorizer: This group of products may contain higher concentrations of quaternary ammonia than disinfectants. They also frequently contain strong fragrances and/or masking agents that diminish the sense of smell. Paradichlorobenzene and naphthalene are common ingredients in fragrance-emitting devices. Deodorizer products are often used in public bathrooms found in restaurants, motels, theaters, subways, trains, airports, airplanes, and other public facilities. The use of deodorizer/re-odorizer products can be avoided by increasing ventilation/air flow and thoroughly cleaning with mildly alkaline non-surfactant detergents followed by the use of disinfectants, preferably peroxide-based ones. Inspection by ultraviolet light is recommended after all intensive cleaning to verify that surfaces have been adequately cleaned.
+Deodorizer/Re-odorizer: This group of products may contain higher concentrations of quaternary ammonia than disinfectants. They also frequently contain strong fragrances and/or masking agents that diminish the sense of smell. Paradichlorobenzene and naphthalene are common ingredients in fragrance-emitting devices. Deodorizer products are often used in public bathrooms found in restaurants, motels, theaters, subways, trains, airports, airplanes, and other public facilities. The use of deodorizer/re-odorizer products can be avoided by increasing ventilation/air flow and thoroughly cleaning with mildly alkaline non-surfactant detergents followed by the use of disinfectants, preferably peroxide-based ones. Inspection by ultraviolet light is recommended after all intensive cleaning to verify that surfaces have been adequately cleaned.
 
-Fragrance: This is an air pollutant that is intended to give the false impression that air is clean. Truly clean air has no smell. Fragrance formulas can contain benzene, toluene, styrene, and formaldehyde, along with other ingredients. Fragrance chemicals can enter the body through the lungs, skin, and nasal passageways. They can affect the brain and nervous system in a matter of seconds, either by their presence in the brain or via stimulation of olfactory nerves. Avoid all products that list fragrance as an ingredient or have a fragrant odor. Be aware that even if "fragrance" is not listed as an ingredient, fragrance chemicals may have been added to a product for another purpose, or claimed to be added for another purpose -- such as an anti-microbial stabilizer, blending agent, or enhancer.
+Fragrance: This is an air pollutant that is intended to give the false impression that air is clean. Truly clean air has no smell. Fragrance formulas can contain benzene, toluene, styrene, and formaldehyde, along with other ingredients. Fragrance chemicals can enter the body through the lungs, skin, and nasal passageways. They can affect the brain and nervous system in a matter of seconds, either by their presence in the brain or via stimulation of olfactory nerves. Avoid all products that list fragrance as an ingredient or have a fragrant odor. Be aware that even if "fragrance" is not listed as an ingredient, fragrance chemicals may have been added to a product for another purpose, or claimed to be added for another purpose -- such as an anti-microbial stabilizer, blending agent, or enhancer.
 
-Solvent: Water is a solvent. Using alcohol, petroleum, and coal tar-based solvents for floor refinishing, metal cleaning, stain removal, and graffiti control is commonplace. To preserve air quality, use water as a solvent whenever possible. Use petroleum-based solvents only as a last resort. Non-water-based solvents should be used in controlled programs, with substantial increased ventilation, pre-notification of building occupants, use during low building occupancy, and retesting of air to make sure it is clear before a space is re-occupied. The use of many solvent products, such as spot stain-removers, can be eliminated by promptly cleaning stains, using mild detergent and baking soda with a gentle rubbing action and working in from the outside perimeter of the stain.
+Solvent: Water is a solvent. Using alcohol, petroleum, and coal tar-based solvents for floor refinishing, metal cleaning, stain removal, and graffiti control is commonplace. To preserve air quality, use water as a solvent whenever possible. Use petroleum-based solvents only as a last resort. Non-water-based solvents should be used in controlled programs, with substantial increased ventilation, pre-notification of building occupants, use during low building occupancy, and retesting of air to make sure it is clear before a space is re-occupied. The use of many solvent products, such as spot stain-removers, can be eliminated by promptly cleaning stains, using mild detergent and baking soda with a gentle rubbing action and working in from the outside perimeter of the stain.
 
-Vinegar: An acidic fluid usable for basic surface cleaning, window cleaning, and bathroom fixture wiping. The mild acidic properties provide the ability to remove hard water spots and cut soap films. Note that while vinegar is considered a less-toxic cleaner, some chemically sensitive individuals may react adversely to it.
+Vinegar: An acidic fluid usable for basic surface cleaning, window cleaning, and bathroom fixture wiping. The mild acidic properties provide the ability to remove hard water spots and cut soap films. Note that while vinegar is considered a less-toxic cleaner, some chemically sensitive individuals may react adversely to it.
 
 Getting Started
 
@@ -169,17 +169,17 @@ Experiment with dosages to find the minimum amount of cleaning product that will
 
 Make increased use of mechanical/physical methods of cleaning to reduce chemical usage.
 
-Vacuuming: Vacuuming extracts soil at a rate of barely 60% when done with typical upright vacuum systems found today. Carpets tend to absorb particles from the air as well as tracked-in grease and other contaminants. Using a stronger vacuum system with continuous suction (non-pumping action) combined with a slower motion increases the extraction rate to above 85%. Keeping vacuumed dirt and fumes from escaping from the vacuum and re-contaminating a room requires strong filtration. HEPA systems work well to remove particulate matter, but care needs to be taken to insure there are no air leaks around the filter. An activated charcoal impregnated membrane will absorb and trap gasses.
+Vacuuming: Vacuuming extracts soil at a rate of barely 60% when done with typical upright vacuum systems found today. Carpets tend to absorb particles from the air as well as tracked-in grease and other contaminants. Using a stronger vacuum system with continuous suction (non-pumping action) combined with a slower motion increases the extraction rate to above 85%. Keeping vacuumed dirt and fumes from escaping from the vacuum and re-contaminating a room requires strong filtration. HEPA systems work well to remove particulate matter, but care needs to be taken to insure there are no air leaks around the filter. An activated charcoal impregnated membrane will absorb and trap gasses.
 
 A strong vacuuming program that includes daily and thorough vacuuming is the first guard against the need for frequent carpet cleaning. Secondly, evaluate traffic patterns and use throw rugs and entry mats to protect carpeting in heavily trafficked areas that quickly become dirty. Only clean spots or small areas of carpet that require cleaning. Clean carpet on an "as-needed" basis rather than on a regular schedule.
 
 For widespread carpet cleaning, employ extraction methods using steam; mild cleaners that do not contain fragrances or solvents; or peroxide-based cleaners and fast four hour drying to reduce impacts on air quality and chances of mold growth.
 
-Dusting: Wipe surfaces for dusting with lint-free cloths or damp clean rags. This is usually as effective as using chemical dusting products.
+Dusting: Wipe surfaces for dusting with lint-free cloths or damp clean rags. This is usually as effective as using chemical dusting products.
 
-Mopping & Buffing: Damp mop hard floors using soft water in high traffic areas. Wipe with a dry mop on return pattern. Frequent mopping protects the floors and reduces the need for buffing and refinishing. Buff floors during off hours using the minimum amount of product necessary to refinish the floor.
+Mopping & Buffing: Damp mop hard floors using soft water in high traffic areas. Wipe with a dry mop on return pattern. Frequent mopping protects the floors and reduces the need for buffing and refinishing. Buff floors during off hours using the minimum amount of product necessary to refinish the floor.
 
-Floor Refinishing: Refinish floors based on need rather than a fixed schedule. Keep service records that include the date and area where floor was refinished and the products used. Mandate that only the minimum amount of product necessary to accomplish the job will be used. Provide personnel with information on tracking and the goal of chemical reduction. All stripping and refinishing needs to be done during non-occupancy periods with substantial increases in outside air flow.
+Floor Refinishing: Refinish floors based on need rather than a fixed schedule. Keep service records that include the date and area where floor was refinished and the products used. Mandate that only the minimum amount of product necessary to accomplish the job will be used. Provide personnel with information on tracking and the goal of chemical reduction. All stripping and refinishing needs to be done during non-occupancy periods with substantial increases in outside air flow.
 
 Keep Track
 

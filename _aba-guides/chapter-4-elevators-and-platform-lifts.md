@@ -4,13 +4,13 @@ order-number: 11
 file: /files/aba/guides/elevators-ABA.pdf
 file-description: PDF version of Chapter 4 Elevators and Platform Lifts Guide
 ---
-This guide explains criteria for elevators and platform lifts in the [ABA Standards]({{ site.baseurl }}/aba/).
+This guide explains criteria for elevators and platform lifts in the [ABA Standards]({{ site.baseurl }}/aba/).
 
 ### Required Compliance
 
 [[§F206.6]({{ site.baseurl }}/aba/#aba-f206_6)]
 
-Elevators are the typical means of providing an accessible route between stories and to mezzanines.  In facilities not required to have an accessible route between stories or to mezzanines (see the Accessible Routes guide), a limited-use/ limited-application (LULA) elevator is permitted.  LULAs also are allowed as an alternative to platform lifts and private residence elevators.
+Elevators are the typical means of providing an accessible route between stories and to mezzanines.  In facilities not required to have an accessible route between stories or to mezzanines (see the Accessible Routes guide), a limited-use/ limited-application (LULA) elevator is permitted.  LULAs also are allowed as an alternative to platform lifts and private residence elevators.
 
 <table class="usa-table">
     <thead>
@@ -83,7 +83,7 @@ Elevators are the typical means of providing an accessible route between stories
 
 [[§407.4]({{ site.baseurl }}/aba/#aba-407_4)]
 
-The ABA Standards specify the minimum car dimensions.  Alternative configurations that provide unobstructed wheelchair turning space (60” diameter circle or T-turn) with the doors closed are permitted.
+The ABA Standards specify the minimum car dimensions.  Alternative configurations that provide unobstructed wheelchair turning space (60” diameter circle or T-turn) with the doors closed are permitted.
 
 #### Elevator Car Dimensions (§407.4.1)
 
@@ -92,7 +92,7 @@ The ABA Standards specify the minimum car dimensions.  Alternative configuratio
    
 #### Elevator Car Requirements
 
-[[§407.4.2]({{ site.baseurl }}/aba/#aba-407_4_2) – [§407.4.5]({{ site.baseurl }}/aba/#aba-407_4_5)]
+[[§407.4.2]({{ site.baseurl }}/aba/#aba-407_4_2) – [§407.4.5]({{ site.baseurl }}/aba/#aba-407_4_5)]
 
 Other requirements for elevator cars include:
 
@@ -107,7 +107,7 @@ Other requirements for elevator cars include:
 
 #### Car Controls
 
-[[§407.4.6]({{ site.baseurl }}/aba/#aba-407_4_6) and [§407.4.7]({{ site.baseurl }}/aba/#aba-407_4_7)]
+[[§407.4.6]({{ site.baseurl }}/aba/#aba-407_4_6) and [§407.4.7]({{ site.baseurl }}/aba/#aba-407_4_7)]
 
 If more than one car control panel is provided in a car, both must comply (except in existing cars where only 1 panel must comply).
 
@@ -123,7 +123,7 @@ If more than one car control panel is provided in a car, both must comply (excep
 
 ![Car position indicators shown above door or above control panel]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl9.jpg){: .img-right}
 
-Position indicators are required for all cars, including those of 2-stop elevators.  Specifications include:
+Position indicators are required for all cars, including those of 2-stop elevators.  Specifications include:
 
 -   ½” min. character height
 -   Illumination of each floor level passed or stopped at
@@ -149,7 +149,7 @@ In addition to the ASME requirements, the ABA Standards require that the push bu
 
 #### Destination-Oriented Elevators
 
-With destination-oriented elevators, passengers indicate the floor destination when calling an elevator, usually through a keypad.  Lobby indicators designate which car to use, which is programmed by the time of arrival. This type of elevator reduces the number of stops per trip. The requirements of §407 apply to destination-oriented elevators, but some provisions or exceptions, which are summarized here, are unique to this type of elevator.
+With destination-oriented elevators, passengers indicate the floor destination when calling an elevator, usually through a keypad.  Lobby indicators designate which car to use, which is programmed by the time of arrival. This type of elevator reduces the number of stops per trip. The requirements of §407 apply to destination-oriented elevators, but some provisions or exceptions, which are summarized here, are unique to this type of elevator.
 
 #### Destination-Oriented Elevators: Call Signals
 
@@ -206,7 +206,7 @@ text= "For greater usability, make those altered elements covered by an exceptio
 
 [[§408]({{ site.baseurl }}/aba/#aba-408)]
 
-LULA elevators are passenger elevators that are permitted in facilities where an accessible route between stories or mezzanines is not required and as an alternative to private residence elevators and platform lifts.  They cannot substitute for elevators complying with §407 that are required to meet requirements for accessible routes.  For the most part, LULAs are held to the same requirements for elevators in §407 and applicable sections of the ASME safety code.  However, LULAs have smaller car sizes, slower speeds, shorter travel distances, and alternative types of doors.  Besides car size, provisions for LULAs differ from those of §407 in that:
+LULA elevators are passenger elevators that are permitted in facilities where an accessible route between stories or mezzanines is not required and as an alternative to private residence elevators and platform lifts.  They cannot substitute for elevators complying with §407 that are required to meet requirements for accessible routes.  For the most part, LULAs are held to the same requirements for elevators in §407 and applicable sections of the ASME safety code.  However, LULAs have smaller car sizes, slower speeds, shorter travel distances, and alternative types of doors.  Besides car size, provisions for LULAs differ from those of §407 in that:
 
 - Hoistway doors can be swinging type (they must open and close automatically, be power-operated, meet requirements for doors and referenced ANSI/BHMA Standards for low-energy doors, and remain open for at least 20 seconds)
 - Requirements are not included for door timing and delay or for car position indicators
@@ -224,7 +224,7 @@ Private residence elevators are permitted only within a residential dwelling uni
   
 ![Private residence elevator.  Notes:  General (§409.1) - Automatic operation; Compliance with the referenced ASME A17.1 standard.  Call Buttons (§409.2) - Compliant as operable parts, including reach range and clear floor space, and  ¾” min. in smallest dimension.  Elevator Doors (§409.3) - Car and hoistway doors/gates must be power operated and meet the ANSI/BHMA standard for low-energy doors and other applicable provisions for doors in §404 (compliance with maneuvering clearance on push side of doors not required); Manual-open, self-close doors/gates permitted for cars with more than 1 opening; Required location on narrow end of car; Must remain open for 20 seconds min. Elevator Cars (§409.4) - Inside dimensions: 36” min. by 48” min.; Compliant floor surfaces; 1½” max. clearance between platform and edge of landing sill (later editions of the ASME A17.1 specify 1¼” max); Automatic leveling with floor landing within ½” tolerance under rated to 0 loading conditions; 5 ft candles min. at platform, controls, threshold, and landing sill; Car controls must be raised or flush button, ¾” min. in smallest dimension, comply as operable parts, and be located  within accessible reach range on side wall 12” min. from any adjacent wall; Telephone and emergency signal two-way communication device required in car with compliant operable parts, including hardware of closed compartment if provided; telephone cord must be 29” long min. ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl17.jpg){: .img-large}
 
-### Platform Lifts 
+### Platform Lifts 
 
 #### Where Platform Lifts are Permitted
 
@@ -251,7 +251,7 @@ text= "In alterations, it is advisable that platforms lifts be used only in inst
 
 ![ASME A18.1 Safety Standard for Platform Lifts and Stairway Chairlifts]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl18.jpg){: .float-right .thumbnail}
 
-Platform lifts must meet the ASME A18.1 Safety Standard for Platform Lifts and Stairway Chairlifts. The ASME A18.1 covers the design, construction, installation, operation, inspection, testing, maintenance and repair of lifts that are intended for transportation of persons with disabilities.  The ABA Standards currently require compliance with the 1999 edition or the 2003 editions of the A18.1 Standard.  Either of these editions must be followed until the ABA Standards are updated to reference a later edition of the ASME A18.1 Standard.  However, use of a later edition of the ASME A18.1 may provide equivalent or greater accessibility.  Questions about the ASME A18.1 code should be directed to the American Society of Mechanical Engineers ([www.asme.org](http://www.asme.org)).
+Platform lifts must meet the ASME A18.1 Safety Standard for Platform Lifts and Stairway Chairlifts. The ASME A18.1 covers the design, construction, installation, operation, inspection, testing, maintenance and repair of lifts that are intended for transportation of persons with disabilities.  The ABA Standards currently require compliance with the 1999 edition or the 2003 editions of the A18.1 Standard.  Either of these editions must be followed until the ABA Standards are updated to reference a later edition of the ASME A18.1 Standard.  However, use of a later edition of the ASME A18.1 may provide equivalent or greater accessibility.  Questions about the ASME A18.1 code should be directed to the American Society of Mechanical Engineers ([www.asme.org](http://www.asme.org)).
 
 Under the ABA Standards, platform lifts must be independently operable and must allow unassisted entry and exit from the lift. Attendant operation, while allowed by the ASME A18.1 Standard, is prohibited by the ABA Standards. Portable lifts do not satisfy the ABA Standards even when they comply with ASME A18.1.
 
@@ -271,7 +271,7 @@ The ASME A18.1 Standard addresses requirements for runway enclosures, electrical
     </div>
   </div>
 </div>
-   
+   
 #### Requirements for Platform Lifts
 
 ![Platform lift requirements.  Notes:  Platforms (§410.2 - §410.4) - Platforms must meet requirements for clear floor space and floor surfaces, including changes in level, and the clearance between the platform sill and edge of runway landing cannot exceed 1¼”   (ASME A18.1 specifies 3/8” – 3 /4”).  Operable Parts (§410.5) - Controls must meet requirements for operable parts, including reach ranges.  Doors and Gates §410.6) - Doors and gates must be power-operated, meet criteria for low-energy doors, including the referenced ANSI/BHMA standard (§404.3), and remain open for at least 20 seconds. (Self-closing manual types are allowed at lifts with no more than 2 stops and doors/ gates on opposite ends.)  Standby Power (§F207.2) - Platform lifts permitted to be part of an accessible means of egress by the referenced editions of the International Building Code must be equipped with standby power.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4eplc21ab.jpg){: .img-large}

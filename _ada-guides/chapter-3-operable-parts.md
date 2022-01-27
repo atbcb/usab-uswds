@@ -9,6 +9,8 @@ redirect_from:
 This guide explains requirements in the [ADA
 Standards]({{ site.baseurl }}/ada/) for operable parts.
 
+{% include sr-dimension-markings.html %}
+
 ### Operable Parts Covered
 
 [[§205]({{ site.baseurl }}/ada/#ada-205)]
@@ -81,10 +83,10 @@ access.
     <div class="grid-row">
         <div class="tablet:grid-col">
             <p>Clear floor space for forward approaches must extend up to or, if knee or toe space is provided, below operable parts. This facilitates access since the forward reach does not extend beyond a wheelchair user’s toes.</p>
-            <p class="text-italic">If clear floor space is obstructed on both sides more than half the minimum required depth, a wider clearance (36” min.) is required for maneuvering and sway. </p>
+            <p class="text-italic">If clear floor space is obstructed on both sides more than half the minimum required depth, a wider clearance (36&Prime; minimum) is required for maneuvering and sway. </p>
         </div>
         <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op5.jpg" alt="Clear floor space 48 inches min. long and 30 inches min. wide (36 inches min wide if obstructed on both side more than 24 inches">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op5.jpg" alt="Clear floor space 48 inches minimum long and 30 inches minimum wide (36 inches minimum wide if obstructed on both side more than 24 inches">
         </div>
     </div>
 </div>
@@ -108,27 +110,27 @@ access.
 <div class="grid-container">
     <div class="grid-row">
         <div class="tablet:grid-col">
-            <p>The range for unobstructed reaches (15” – 48”) applies only to those portions of elements that are operable. Non-operable portions can be located outside the range.</p>
+            <p>The range for unobstructed reaches (15&Prime; to 48&Prime;) applies only to those portions of elements that are operable. Non-operable portions can be located outside the range.</p>
         </div>
         <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op7.jpg" alt="Unobstructed forward reach range 15 inches min. to 48 inches max. shown in side view">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op7.jpg" alt="Unobstructed forward reach range 15 inches minimum to 48 inches maximum. shown in side view">
         </div>
     </div>
 </div>
 
 #### Obstructed High Reach
 
-The maximum reach of 48" is reduced to 44" when the depth of reach over
-an obstruction exceeds 20". Knee and toe space must extend the full
+The maximum reach of 48&Prime; is reduced to 44&Prime; when the depth of reach over
+an obstruction exceeds 20&Prime;. Knee and toe space must extend the full
 depth of reach.
 
 <div class="grid-container">
     <div class="grid-row">
         <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op8.jpg" alt="48 inches max. reach height above obstruction (counter) if reach depth is 20 inches max.">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op8.jpg" alt="48 inches maximum reach height above obstruction (counter) if reach depth is 20 inches maximum">
         </div>
         <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op9.jpg" alt="44 inches max. reach height above obstruction (counter) if reach depth is greater than 20 inches (25 inches max.)">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op9.jpg" alt="44 inches maximum reach height above obstruction (counter) if reach depth is greater than 20 inches (25 inches maximum)">
         </div>
     </div>
 </div>
@@ -155,9 +157,9 @@ Additional clearance is required if the space is obstructed on three
 sides for more than half the depth to allow easier maneuvering into the
 space.
 
-![Clear floor space for side reach 30\" min. wide and 48\" min. long
-(60\" min. long if obstructed on both side more than
-15\")]({{ site.baseurl }}{{ page.image-directory }}chapter3/3op11.jpg){: .img-large}
+![Clear floor space for side reach 30 inches minimum wide and 48 inches minimum long
+(60 inches minimum long if obstructed on both side more than
+15 inches)]({{ site.baseurl }}{{ page.image-directory }}chapter3/3op11.jpg){: .img-large}
 
 ### Side Reach
 
@@ -166,32 +168,32 @@ space.
 <div class="grid-container">
     <div class="grid-row">
         <div class="tablet:grid-col">
-            <p>The range for side reach, like forward reach is 15” to 48” if unobstructed. The maximum reach depth for this range is 10” measured from the available clear floor space.</p>
+            <p>The range for side reach, like forward reach is 15&Prime; to 48&Prime; if unobstructed. The maximum reach depth for this range is 10&Prime; measured from the available clear floor space.</p>
                     <div class= "clearfix" style="width: 100%; padding: 0px;">
                         <img class="thumbnail float-left" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op23.jpg" alt="fuel dispenser icon" style="padding-bottom: 30px;">
                         <h4>Fuel Dispensers</h4>
-                        <p class="grid-line-left">The operable parts of fuel dispensers located on existing curbs can be up to 54” high.</p>
+                        <p class="grid-line-left">The operable parts of fuel dispensers located on existing curbs can be up to 54&Prime; high.</p>
                     </div>
         </div>
         <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op12.jpg" alt="Side reach 15 inches min. to 48 inches max. shown in elevation">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op12.jpg" alt="Side reach 15 inches minimum to 48 inches maximum shown in elevation">
         </div>
   </div>
 </div>
 
 #### Obstructed High Reach
 
-The maximum high reach is reduced to 46" when the reach over an
-obstruction is deeper than 10" (to a maximum of 24"). Obstructions at
-side reaches are limited to a height of 34".
+The maximum high reach is reduced to 46&Prime; when the reach over an
+obstruction is deeper than 10&Prime; (to a maximum of 24&Prime;). Obstructions at
+side reaches are limited to a height of 34&Prime;.
 
 <div class="grid-container">
     <div class="grid-row">
         <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op13.jpg" alt="Side reach height 48 inches max. above obstruction 34 inches max. high if reach depth 10 inches max.">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op13.jpg" alt="Side reach height 48 inches maximum above obstruction 34 inches maximum high if reach depth 10 inches maximum">
         </div>
         <div class="tablet:grid-col">
-            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op14.jpg" alt="Side reach 46 inches max. if reach depth over obstruction 34 inches max. high if reach depth greater than 10 inches (24 inches max.)">
+            <img class="img-large" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op14.jpg" alt="Side reach 46 inches maximum if reach depth over obstruction 34 inches maximum high if reach depth greater than 10 inches (24 inches maximum)">
         </div>
     </div>
 </div>
@@ -212,7 +214,7 @@ img-alt2= "Person using wheelchair in corner (facing side wall) with 24 inches r
 #### Advisory Reach Range for Children
 
 <div class="clearfix">
-<img class="float-right maxw-mobile" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op17.jpg" alt="Children's reach ranges: 16 inches to 44 inches (9-12 years); 18 inches to 40 inches (5-8 years); 20 inches to 36 inches (3 & 4 years)">
+<img class="float-right maxw-mobile" src="{{ site.baseurl }}{{ page.image-directory }}chapter3/3op17.jpg" alt="Children's reach ranges: 16 inches to 44 inches (9 to 12 years); 18 inches to 40 inches (5 to 8 years); 20 inches to 36 inches (3 & 4 years)">
 
 The standards include advisory (non-mandatory) reach ranges based on
 children's dimensions that can be followed when operable parts are

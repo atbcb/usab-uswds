@@ -6,7 +6,7 @@ file-description: PDF version of Chapter 6 Washing Machines and Clothes Dryers G
 ---
 ## {{ page.title }}
 
-This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for washing machines and clothes dryers.
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for washing machines and clothes dryers.
 
 ![washer icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/washers/1.png){: .img-right }{: .thumbnail }
 

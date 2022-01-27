@@ -4,7 +4,7 @@ order-number: 16
 file: /files/aba/guides/drinking-fountains-ABA.pdf
 file-description: PDF version of Chapter 6 Drinking Fountains Guide
 ---
-This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for drinking fountains. 
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for drinking fountains. 
 
 ### Required Compliance
 
@@ -32,7 +32,7 @@ The Standards specifically address access to drinking fountains located within s
 
 [[§F202]({{ site.baseurl }}/aba/#aba-f202)]
 
-In alterations, requirements for drinking fountains apply where units are altered, replaced, or added to a facility (§F202.3). Access to drinking fountains is also required when alterations are made to areas containing a primary function (i.e., a major activity intended for a facility). Primary function areas that are altered must be connected by an accessible path of travel which includes, where provided, compliant drinking fountains, as well as restrooms and telephones, that serve the primary function area. The accessible path of travel is required to the extent that it does not cost more than 20% of the cost of the work to the primary function area (§F202.4). See the [Alterations and Additions Guide](/aba/guides/chapter-2-alterations-additions-and-leases/).
+In alterations, requirements for drinking fountains apply where units are altered, replaced, or added to a facility (§F202.3). Access to drinking fountains is also required when alterations are made to areas containing a primary function (i.e., a major activity intended for a facility). Primary function areas that are altered must be connected by an accessible path of travel which includes, where provided, compliant drinking fountains, as well as restrooms and telephones, that serve the primary function area. The accessible path of travel is required to the extent that it does not cost more than 20% of the cost of the work to the primary function area (§F202.4). See the [Alterations and Additions Guide](/aba/guides/chapter-2-alterations-additions-and-leases/).
 
 When an addition is made to a facility, requirements for drinking fountains apply to those units included in the addition (§F202.2). If an addition does not include drinking fountains but is served by drinking fountains in the existing facility, then at least one drinking fountain in the existing facility must be made wheelchair accessible (§F202.2.5).
 
@@ -170,7 +170,7 @@ Wheelchair accessible units that provide, but do not exceed, the 27" minimum kne
 
 ### Common Questions
 
-### ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumnail} 
+### ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumnail} 
 
 #### Can water coolers or bottle fillers substitute for accessible drinking fountains?
 

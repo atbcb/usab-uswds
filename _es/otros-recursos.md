@@ -16,7 +16,7 @@ Varias leyes federales aplicadas por otras agencias federales abordan la accesib
 - [Transporte](#transit)
 - [Votar](#voting)
 
-*Nota:* Además de las leyes que hemos citado más arriba, le recomendamos que los lectores consideren la publicación, [Guía sobre las Leyes de Derechos de Discapacitados](http://www.ada.gov/cguide_spanish.htm), desarrollado por el Departamento de Justicia de los Estados Unidos, y este enlace: [www.usa.gov/espanol/personas-con-discapacidades] (https://www.usa.gov/espanol/personas-con-discapacidades)
+*Nota:* Además de las leyes que hemos citado más arriba, le recomendamos que los lectores consideren la publicación, [Guía sobre las Leyes de Derechos de Discapacitados](http://www.ada.gov/cguide_spanish.htm), desarrollado por el Departamento de Justicia de los Estados Unidos, y este enlace: [www.usa.gov/espanol/personas-con-discapacidades] (https://www.usa.gov/espanol/personas-con-discapacidades)
 
 ***Descardo de responsabilidad:**  Proveemos toda esta información como un servicio público a los miembros del público que no leen inglés.  Estos materiales son mantenidos en este servidor con el objetivo de mejorar el acceso público a estos recursos.  Este es un servicio de desarrollo continuo.  El usuario debe estar consciente de que, aunque intentamos mantener la información en esta página precisa y al día, a menudo habrá demoras entre cambios en estos materiales y su aparición o modificación de esta página.  Haremos todo lo posible por corregir los errores que nos sean señalados.*
 
@@ -92,7 +92,7 @@ Folleto: [La igualdad de oportunidades de empleo es la ley](http://www.dol.gov/o
 
 #### Sección 503 de la ley de Rehabilitación de 1973
 
-La Oficina de Programas de Cumplimiento de Contrato Federal (Office of Federal Contract Compliance Programs, o OFCCP, por sus siglas en inglés) del Departamento de Trabajo de EE.UU. (Department of Labor, o DOL, por sus siglas en inglés), exige el cumplimiento de Sección 503 de la Ley de Rehabilitación de 1973. Esta ley requiere que aquellos que realicen negocios con el gobierno federal, tanto contratistas como subcontratistas, acaten un estándar justo y razonable de no discriminación en el empleo sobre la base de la discapacidad. Normas emitidas bajo esta ley exigen que los contratistas y los subcontratistas federales recluten, contraten, capaciten y promuevan afirmativamente a personas con discapacidades debidamente cualificados.
+La Oficina de Programas de Cumplimiento de Contrato Federal (Office of Federal Contract Compliance Programs, o OFCCP, por sus siglas en inglés) del Departamento de Trabajo de EE.UU. (Department of Labor, o DOL, por sus siglas en inglés), exige el cumplimiento de Sección 503 de la Ley de Rehabilitación de 1973. Esta ley requiere que aquellos que realicen negocios con el gobierno federal, tanto contratistas como subcontratistas, acaten un estándar justo y razonable de no discriminación en el empleo sobre la base de la discapacidad. Normas emitidas bajo esta ley exigen que los contratistas y los subcontratistas federales recluten, contraten, capaciten y promuevan afirmativamente a personas con discapacidades debidamente cualificados.
 
 Para obtener más información, comuníquese con la línea de ayuda gratuita de la OFCCP llamando al 800-397-6251 o visite <http://www.dol.gov/ofccp/> (en inglés).
 
@@ -123,7 +123,7 @@ Mire estos enlaces para obtener más detalles:
 
 #### Vivienda pública
 
-La ADA prohíbe la discriminación en viviendas públicas. Para más información contacte a la [Sección de Derechos en Razón de Discapacidad](http://www.justice.gov/crt/about/drs/drssec_spanish.php). Para hacer una denuncia, llene el [Formulario de denuncia de discriminación bajo la ADA](https://civilrights.justice.gov/report/).
+La ADA prohíbe la discriminación en viviendas públicas. Para más información contacte a la [Sección de Derechos en Razón de Discapacidad](http://www.justice.gov/crt/about/drs/drssec_spanish.php). Para hacer una denuncia, llene el [Formulario de denuncia de discriminación bajo la ADA](https://civilrights.justice.gov/report/).
 
 * * * * *
 

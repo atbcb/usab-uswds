@@ -12,7 +12,7 @@ Note: The committee did not review or evaluate the feasibility of applying the t
 
 #### 301 General
 
-**301.1 Scope.** The applicable provisions of this chapter apply where required by sections in this report.
+**301.1 Scope.** The applicable provisions of this chapter apply where required by sections in this report.
 
 #### 302 Finished Deck Surfaces
 
@@ -30,11 +30,11 @@ Note: The committee did not review or evaluate the feasibility of applying the t
 
 **303.1 General.**Where changes in level are permitted in finished deck surfaces, they shall comply with 303.
 
-> **EXCEPTION: **This requirement does not apply to the vehicle tie-downs which are flush with the deck surface.
+> **EXCEPTION: **This requirement does not apply to the vehicle tie-downs which are flush with the deck surface.
 
 **303.2 Vertical.**Changes in level of 1/4 inch (6.4 mm) high maximum shall be permitted to be vertical.
 
-**303.3 Beveled.** Changes in level between 1/4 inch (6.4 mm) high minimum and ½ inch (13 mm) high maximum shall be beveled with a slope not steeper than 1:2.
+**303.3 Beveled.** Changes in level between 1/4 inch (6.4 mm) high minimum and ½ inch (13 mm) high maximum shall be beveled with a slope not steeper than 1:2.
 
 **303.4 Ramps.**Changes in level greater than ½ inch (13 mm) high shall be ramped, and shall comply with 405 or 406.
 
@@ -60,7 +60,7 @@ Note: The committee did not review or evaluate the feasibility of applying the t
 
 **305.3 Size.**The clear deck space shall be 30 inches (760 mm) minimum by 48 inches (1220 mm) minimum.
 
-**305.4 Knee and Toe Clearance.** Unless otherwise specified, clear deck space shall be permitted to include knee and toe clearance complying with 306.
+**305.4 Knee and Toe Clearance.** Unless otherwise specified, clear deck space shall be permitted to include knee and toe clearance complying with 306.
 
 **305.5 Position.**Unless otherwise specified, clear deck space shall be positioned for either forward or parallel approach to an element.
 
@@ -68,9 +68,9 @@ Note: The committee did not review or evaluate the feasibility of applying the t
 
 **305.7 Maneuvering Clearance.**Where a clear deck space is located in an alcove or otherwise confined on all or part of three sides, additional maneuvering clearance complying with 305 shall be provided in accordance with 305.7.1 and 305.7.2.
 
-> **305.7.1 Forward Approach.** Where the depth of the alcove or other restriction exceeds 24 inches (610 mm), the width of the clear deck space shall be 36 inches (915 mm) minimum.
+> **305.7.1 Forward Approach.** Where the depth of the alcove or other restriction exceeds 24 inches (610 mm), the width of the clear deck space shall be 36 inches (915 mm) minimum.
 >
-> **305.7.2 Parallel Approach.** Where the depth of the alcove or other restriction exceeds 15 inches (380 mm), the length of the clear deck space shall be 60 inches (1525 mm) minimum.
+> **305.7.2 Parallel Approach.** Where the depth of the alcove or other restriction exceeds 15 inches (380 mm), the length of the clear deck space shall be 60 inches (1525 mm) minimum.
 
 #### 306 Knee and Toe Clearance
 
@@ -102,27 +102,27 @@ Note: The committee did not review or evaluate the feasibility of applying the t
 
 #### 307 Protruding Objects
 
-**307.1 General.** Protruding objects shall comply with 307.
+**307.1 General.** Protruding objects shall comply with 307.
 
-> **EXCEPTION: **The requirements of 307.2 through 307.4 do not apply to the exterior decks of sailing vessels.
+> **EXCEPTION: **The requirements of 307.2 through 307.4 do not apply to the exterior decks of sailing vessels.
 
 **307.2 Protrusion Limits.**Objects with leading edges located more than 6 inches (150 mm) and not more than 80 inches (2030 mm) above the finished deck surface shall protrude from the wall 4 inches (100 mm) maximum into the circulation path.
 
-> **EXCEPTION: **Handrails serving stairs and ramps shall protrude 4-1/2 inches (115 mm) maximum from the wall.
+> **EXCEPTION: **Handrails serving stairs and ramps shall protrude 4-1/2 inches (115 mm) maximum from the wall.
 
-**307.3 Post-Mounted Objects.** Free-standing objects mounted on posts or pylons shall overhang 12 inches (305 mm) maximum when located 6 inches (150 mm) minimum and 80 inches (2030 mm) maximum above the finished deck surface. Where a sign or other obstruction is mounted between posts or pylons and the clear distance between the posts or pylons is greater than 12 inches (305 mm), the lowest edge of such sign or obstruction shall be 6 inches (150 mm) maximum or 80 inches (2030 mm) minimum above the finished deck surface.
+**307.3 Post-Mounted Objects.** Free-standing objects mounted on posts or pylons shall overhang 12 inches (305 mm) maximum when located 6 inches (150 mm) minimum and 80 inches (2030 mm) maximum above the finished deck surface. Where a sign or other obstruction is mounted between posts or pylons and the clear distance between the posts or pylons is greater than 12 inches (305 mm), the lowest edge of such sign or obstruction shall be 6 inches (150 mm) maximum or 80 inches (2030 mm) minimum above the finished deck surface.
 
-> **EXCEPTION: **This requirement shall not apply to sloping portions of handrails serving stairs and ramps.
+> **EXCEPTION: **This requirement shall not apply to sloping portions of handrails serving stairs and ramps.
 
-**307.4 Reduced Vertical Clearance.** Guardrails or other barriers shall be provided where the vertical clearance is less than 80 inches (2030 mm) high. The leading edge of such guardrail or barrier shall be located 27 inches (685 mm) maximum above the finished deck surface.
+**307.4 Reduced Vertical Clearance.** Guardrails or other barriers shall be provided where the vertical clearance is less than 80 inches (2030 mm) high. The leading edge of such guardrail or barrier shall be located 27 inches (685 mm) maximum above the finished deck surface.
 
-> **EXCEPTION:** Where the main deck is less than 3,000 square feet (280 m2), the minimum vertical clearance is permitted to be reduced to 78 inches (1980 mm) without requiring guardrails or other barriers.
+> **EXCEPTION:** Where the main deck is less than 3,000 square feet (280 m2), the minimum vertical clearance is permitted to be reduced to 78 inches (1980 mm) without requiring guardrails or other barriers.
 
-**307.5 Required Clear Width.** Protruding objects shall not reduce the clear width required for accessible routes.
+**307.5 Required Clear Width.** Protruding objects shall not reduce the clear width required for accessible routes.
 
 #### 308 Reach Ranges
 
-**308.1 General.** Reach ranges shall comply with 308.
+**308.1 General.** Reach ranges shall comply with 308.
 
 **308.2 Forward Reach.**
 
@@ -140,10 +140,10 @@ Note: The committee did not review or evaluate the feasibility of applying the t
 
 **309.1 General.**Controls and operating mechanisms shall comply with 309.
 
-**309.2 Clear Deck Space.** A clear deck space complying with 305 shall be provided.
+**309.2 Clear Deck Space.** A clear deck space complying with 305 shall be provided.
 
 **309.3 Height.**Controls and operating mechanisms shall be placed within one or more of the reach ranges specified in 308.
 
-> **EXCEPTION: **This requirement does not apply where the use of special equipment dictates otherwise or where electrical and communications systems receptacles are not normally intended for use by vessel passengers and crew.
+> **EXCEPTION: **This requirement does not apply where the use of special equipment dictates otherwise or where electrical and communications systems receptacles are not normally intended for use by vessel passengers and crew.
 
 **309.4 Operation.**Controls and operating mechanisms shall be operable with one hand and shall not require tight grasping, pinching, or twisting of the wrist. The force required to activate controls and operating mechanisms shall be 5 lbs (22.2 N) maximum.

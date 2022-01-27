@@ -25,9 +25,9 @@ Resources
 
 [No Scents Makes Sense brochure, Lung Association of New Brunswick](http://www.nb.lung.ca/pdf/NoScentsMakeSense.pdf)
 
-[Guideline on the use of Perfumes and Scented Products](http://www.ehs.utoronto.ca/Assets/ehs+Digital+Assets/ehs3/documents/Scents+Brochure+March+2006.pdf) and [We Share the Air information poster](http://www.ehs.utoronto.ca/Assets/ehs+Digital+Assets/ehs3/Scent+Policy/Scent+Poster.pdf), University of Waterloo, Ontario, Canada.
+[Guideline on the use of Perfumes and Scented Products](http://www.ehs.utoronto.ca/Assets/ehs+Digital+Assets/ehs3/documents/Scents+Brochure+March+2006.pdf) and [We Share the Air information poster](http://www.ehs.utoronto.ca/Assets/ehs+Digital+Assets/ehs3/Scent+Policy/Scent+Poster.pdf), University of Waterloo, Ontario, Canada.
 
-See "Steps for Implementing a Scent-free Policy in the Workplace" in [Additional Resources](https://www.access-board.gov/research/completed-research/indoor-environmental-quality/additional-resources).
+See "Steps for Implementing a Scent-free Policy in the Workplace" in [Additional Resources](https://www.access-board.gov/research/completed-research/indoor-environmental-quality/additional-resources).
 
 Cell Phone Use Policy
 

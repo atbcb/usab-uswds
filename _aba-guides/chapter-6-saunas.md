@@ -6,7 +6,7 @@ file-description: PDF version of Chapter 6 Saunas and Steam Rooms Guide
 ---
 ## {{ page.title }}
 
-This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for saunas and steam rooms.
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for saunas and steam rooms.
 
 ![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/sauna.png){: .img-right }{: .thumbnail }
 
@@ -77,7 +77,7 @@ If thresholds are provided at doorways, they cannot exceed ½\" high. The edge m
 
 If entrance landings and ramps are provided to doors, they must accommodate door maneuvering clearances. Maneuvering clearances for wheelchairs apply to both sides of the entry door. Doors cannot swing into the clear floor space required at benches.
 
-For more information on door requirements, see the [Entrances, Doors, and Gates Guide]({{ site.baseurl }}/aba/guides/chapter-4-entrances-doors-and-gates/).
+For more information on door requirements, see the [Entrances, Doors, and Gates Guide]({{ site.baseurl }}/aba/guides/chapter-4-entrances-doors-and-gates/).
 
 ![Elevated perspective view of entrance to sauna with door ajar and scooter parked to the left of the door outside of the required maneuvering space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/outside_sauna.png){: .img-large }
 

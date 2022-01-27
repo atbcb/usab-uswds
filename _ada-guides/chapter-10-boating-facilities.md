@@ -42,6 +42,8 @@ These guidelines do not cover the design of passenger vessels or ferry
 docks, and do not address access on and off passenger vessels. These
 issues will be addressed in [future rulemaking for passenger vessels]({{ site.baseurl }}/pvag/).
 
+{% include sr-dimension-markings.html %}
+
 ---
 
 ###  Accessible Routes
@@ -190,7 +192,7 @@ pier]({{ site.baseurl }}{{ page.image-directory }}chapter10/boating-guide/page-1
 If boat slips at a facility are not identified or demarcated by length,
 each 40 feet of boat slip edge along the perimeter of a pier will be
 counted as one boat slip. For example, a new boating facility will
-provide a single 60-foot pier with boats moored parallel to the pier on
+provide a single 60 foot pier with boats moored parallel to the pier on
 both sides. The pier has 120 feet of boat slip edge, which equates to
 three boat slips. According to the table, one slip must be accessible,
 with clear pier space at least 40 feet long and a minimum width of 60
@@ -309,7 +311,7 @@ matching the slope of the launch ramp. An accessible route must serve
 the last float because it would function as the boarding pier at the
 lowest water level, before it possibly grounded out. Because the entire
 chain also functions as a boarding pier, it must comply with all ADAAG
-provisions, including the 60-inch minimum clear pier width provision.
+provisions, including the 60 inch minimum clear pier width provision.
 
 Another facility provides a non-floating boarding pier that is supported
 by piles and divides a launch area into two launch ramps. An accessible
@@ -329,9 +331,9 @@ length for the pier. However, the accessible boarding pier should be at
 least as long as other piers provided at the facility. If no other
 boarding pier is provided,it should be at least as long as what would
 have been provided if no access requirements applied. For example, at a
-launch ramp, if a 20-foot accessible boarding pier is provided, the
+launch ramp, if a 20 foot accessible boarding pier is provided, the
 entire 20 feet must comply with the pier clearance requirements. If a
-60-foot accessible boarding pier is provided, the entire 60 feet must
+60 foot accessible boarding pier is provided, the entire 60 feet must
 comply with the pier clearance requirements.
 
 #### Launch Ramps Without Boarding Piers
@@ -713,9 +715,9 @@ Standards discussed in the boating facilities guide.
     </tbody>
 </table>
 
-\* The guide uses the term ADAAG (Americans with Disabilities Act
+\* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
- The recreational provisions of these guidelines were adopted into the
+ The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
 the Architectural Barriers Act (ABA) Accessibility Standards).

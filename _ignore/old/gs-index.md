@@ -39,10 +39,10 @@ permalink: /gs/
 {% include recreation.html %}
 
 {% asset icon-park-slide.png class="usa-media-block__img" alt="park slide icon" %}
-[Recreation Facilities](..) (ADA and ABA Standards)
+[Recreation Facilities](..) (ADA and ABA Standards)
 
 {% asset icon-picnic-bench.png class="usa-media-block__img" alt="picnic table bench icon" %}
-[Outdoor Developed Areas](..) (ABA Standards)
+[Outdoor Developed Areas](..) (ABA Standards)
 
 ## [Streets and Sidewalks](..)
 
@@ -61,7 +61,7 @@ permalink: /gs/
 {% include transportation.html %}
 
 {% asset icon-train-station.png class="usa-media-block__img" alt="train station icon" %}
-[Transportation Facilities](..) 
+[Transportation Facilities](..) 
 
 {% asset icon-bus.png class="usa-media-block__img" alt="bus icon" %}
 [Transportation Vehicles](..)

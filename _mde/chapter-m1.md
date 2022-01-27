@@ -52,7 +52,7 @@ Imaging bed
 : A component of diagnostic scanning equipment that accommodates patients in supine, prone, or side-lying positions.
 
 Imaging equipment with bores
-: Diagnostic scanning equipment using magnets, x-rays, or detectors into which a patient and the table on which the patient lies is inserted into the equipment through a cylindrical opening (bore) in order to achieve the positioning accuracy needed during the scan. Such equipment includes, but is not limited to, computerized axial tomography (CT or CAT), positron emission tomography (PET), and nuclear medicine (NM) scanning equipment or a combination thereof. 
+: Diagnostic scanning equipment using magnets, x-rays, or detectors into which a patient and the table on which the patient lies is inserted into the equipment through a cylindrical opening (bore) in order to achieve the positioning accuracy needed during the scan. Such equipment includes, but is not limited to, computerized axial tomography (CT or CAT), positron emission tomography (PET), and nuclear medicine (NM) scanning equipment or a combination thereof. 
 
 Medical Diagnostic Equipment (Diagnostic Equipment)
 : Equipment used in, or in conjunction with, medical settings by health care providers for diagnostic purposes.

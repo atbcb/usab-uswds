@@ -4,7 +4,7 @@ order-number: 5
 file: /files/aba/guides/clear-floor-space-ABA.pdf
 file-description: PDF version of Chapter 3 Clear Floor Space Guide
 ---
-This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for clear floor or ground space and turning space. Clearances are required at accessible elements, fixtures, and controls so that people with disabilities, including those who use wheelchairs, can approach and use them. The standards also address maneuvering space for wheelchair turning. Provisions throughout the standards reference these basic “building block” requirements.
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for clear floor or ground space and turning space. Clearances are required at accessible elements, fixtures, and controls so that people with disabilities, including those who use wheelchairs, can approach and use them. The standards also address maneuvering space for wheelchair turning. Provisions throughout the standards reference these basic “building block” requirements.
 
 ### Clear Floor or Ground Space
 
@@ -69,7 +69,7 @@ text= "Centering the clear floor or ground space on elements is often advisable 
 
 Where the space is obstructed on both sides for more than half the depth, additional clearance is required for maneuvering. Accessible routes must connect to the unobstructed side of the space.
 
-![clear floor space for side approach 60" long min. located in alcove and obstructed on both sides more than 15" ]({{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs7.jpg){: .img-large} 
+![clear floor space for side approach 60" long min. located in alcove and obstructed on both sides more than 15" ]({{ site.baseurl }}{{ page.image-directory }}chapter3/3cfs7.jpg){: .img-large} 
 
 ### Knee and Toe Space
 

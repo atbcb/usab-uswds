@@ -32,6 +32,7 @@ not address operational issues. Questions regarding operational issues
 should be directed to the Department of Justice, 1-800-514-0301 or
 1-800-514-0383 (TTY).
 
+{% include sr-dimension-markings.html %}
 
 ---
 
@@ -91,7 +92,7 @@ adjacent accessible route]({{ site.baseurl }}{{ page.image-directory }}chapter10
 surface]({{ site.baseurl }}{{ page.image-directory }}chapter10/mingolf-guide/page-7lo.jpg){: .img-medium .center}
 
 There is usually a curb around a hole to keep the ball within the area.
-When the accessible route is provided on the course, a 1-inch high
+When the accessible route is provided on the course, a 1 inch high
 maximum curb is permitted for an opening of 32 inches minimum where the
 accessible route extends outside the hole. This opening will permit
 passage of wheelchairs, while containing the ball within the hole.
@@ -111,7 +112,7 @@ added flexibility in design. Slopes on landings must be no more than
 
 If the accessible route is on the playing surface, handrails are not
 required. The accessible route may include a maximum slope of 1:4 (25%)
-for a maximum 4-inch rise. These steeper slopes or ramps are permitted
+for a maximum 4 inch rise. These steeper slopes or ramps are permitted
 for limited distances.
 
 #### Accessible Routes Adjacent to the Playing Surface
@@ -384,9 +385,9 @@ Walking Surfaces with Running Slopes of 5% or less
 
 
 
-\* The guide uses the term ADAAG (Americans with Disabilities Act
+\* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
- The recreational provisions of these guidelines were adopted into the
+ The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
 the Architectural Barriers Act (ABA) Accessibility Standards).

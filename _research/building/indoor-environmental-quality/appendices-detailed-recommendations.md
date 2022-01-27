@@ -115,13 +115,13 @@ Store any pesticide and disinfectant products away from food, laundry areas, pap
 
 Maintain separate equipment, including mixing containers, for use with pesticides. Avoid cross contamination with equipment used for cleaning and other maintenance activities.
 
-Establish a reporting procedure and encourage individuals who are experiencing adverse health effects from a pesticide exposure to report the incident to the building manager and the U. S. Environmental Protection Agency. See [EPA Pesticide Health Incident Reporting](http://www.epa.gov/pesticides/health/reporting.htm)
+Establish a reporting procedure and encourage individuals who are experiencing adverse health effects from a pesticide exposure to report the incident to the building manager and the U. S. Environmental Protection Agency. See [EPA Pesticide Health Incident Reporting](http://www.epa.gov/pesticides/health/reporting.htm)
 
 **Resources**
 
 [IPM for Schools: A How-to Manual](http://www.epa.gov/pesticides/ipm/schoolipm/), EPA 909-B-97-001, March 1997
 
-[Pest Prevention: Maintenance Practices and Facility Design](http://apps.cdpr.ca.gov/schoolipm/managing_pests/71_pest_prevention.cfm) by Sewell Simmons, California School IPM, California Department of Pesticide Regulation
+[Pest Prevention: Maintenance Practices and Facility Design](http://apps.cdpr.ca.gov/schoolipm/managing_pests/71_pest_prevention.cfm) by Sewell Simmons, California School IPM, California Department of Pesticide Regulation
 
 [School Integrated Pest Management Program](http://apps.cdpr.ca.gov/schoolipm/main.cfm), California Department of Pesticide Regulation
 
@@ -129,7 +129,7 @@ Establish a reporting procedure and encourage individuals who are experiencing a
 
 [ExToxNet (Extension Toxicology Network) Pesticide Information Profiles](http://pmep.cce.cornell.edu/profiles/extoxnet/), Cornell University, (Does not include information on all health impacts experienced by people with pesticide/chemical sensitivities)
 
-The Safety Source for Pest Management: [A National Directory of Least-Toxic Service Providers](http://www.beyondpesticides.org/safetysource)
+The Safety Source for Pest Management: [A National Directory of Least-Toxic Service Providers](http://www.beyondpesticides.org/safetysource)
 
 Beyond Pesticides\
 701 E Street, SE, Suite 200, Washington DC 20003\
@@ -177,7 +177,7 @@ Pesticide Action Network North America\
 49 Powell Street, Suite 500, San Francisco CA 94102\
 415-981-1771\
 <panna@panna.org>\
-[www.panna.org](http://www.panna.org/), [www.pesticideinfo.org](http://www.pesticideinfo.org/)
+[www.panna.org](http://www.panna.org/), [www.pesticideinfo.org](http://www.pesticideinfo.org/)
 
 U.S. Environmental Protection Agency\
 Office of Pesticide Programs\
@@ -374,7 +374,7 @@ In decorative fountains, use the minimum amount of chlorine necessary for disinf
 
 Resources
 
-EPA, Indoor Air Quality Building Education and Assessment Guidance (I-BEAM) Software package, can be downloaded for free from [EPA Web site](http://www.epa.gov/iaq/largebldgs/i-beam/), or can be obtained on CD from IAQ Clearinghouse at at 1-800-438-4318 or via e-mail at <iaqinfo@aol.com> (ask for EPA 402-C-01-001).
+EPA, Indoor Air Quality Building Education and Assessment Guidance (I-BEAM) Software package, can be downloaded for free from [EPA Web site](http://www.epa.gov/iaq/largebldgs/i-beam/), or can be obtained on CD from IAQ Clearinghouse at at 1-800-438-4318 or via e-mail at <iaqinfo@aol.com> (ask for EPA 402-C-01-001).
 
 See references regarding HVAC in Building Design & Construction report
 
@@ -422,7 +422,7 @@ Provide prenotification by posting signs prior to pesticide, synthetic fertilize
 
 Resources
 
-Allergy-Free Gardening, Thomas Leo Ogren, [www.allergyfree-gardening.com](http://www.allergyfree-gardening.com/)
+Allergy-Free Gardening, Thomas Leo Ogren, [www.allergyfree-gardening.com](http://www.allergyfree-gardening.com/)
 
 **Detailed Recommendations for Enclosure Maintenance**
 

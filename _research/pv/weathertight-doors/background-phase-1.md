@@ -54,12 +54,12 @@ Subchapter H passenger vessels are the largest sized regulated class and are gen
 **Table 2-1\
 Coast Guard Designations of "Waters"**
 
-|   |
+|   |
 
 Designation of Waters for Purposes of Stability Regulations
 
  |
-|   |
+|   |
 
 **Exposed waters**
 
@@ -92,7 +92,7 @@ Sheltered waters with no special hazards, e.g., rivers, harbors, and lakes.
 
 Examples
 
- |   |
+ |   |
 
 Puget Sound
 
@@ -139,7 +139,7 @@ Great Lakes -- includes St. Lawrence River, from Oct. 1 to April 15.
 
 Great Lakes, from April 16 to September 30.
 
- |   |\
+ |   |\
 2.1.1.4 Watertight integrity regulations for Subchapter K and T passenger vessels\
 The watertight integrity regulations addressing weathertight doors are identical for Subchapter K and T boats (46 CFR 116.1160 and 179.360, respectively). The relevant citations for weathertight doors in Subchapters K and T are identical and read as follows:
 
@@ -280,7 +280,7 @@ The PVAAC report did not include solutions eliminating coamings from weathertigh
 
 The PVAAC report specified, without explanation or elaboration, the following for H and K boats:
 
-> "**206.5.3 Weather Deck Access.** Where the main deck of a passenger vessel is greater than 3,000 square feet (280 m2) at least one exterior door on each accessible weather deck shall comply with 404.2.5 (maximum threshold height of ½") and shall be located on an accessible route that provides access between the weather deck and the interior of the passenger vessel, except where prohibited by an administrative authority having jurisdiction."
+> "**206.5.3 Weather Deck Access.** Where the main deck of a passenger vessel is greater than 3,000 square feet (280 m2) at least one exterior door on each accessible weather deck shall comply with 404.2.5 (maximum threshold height of ½") and shall be located on an accessible route that provides access between the weather deck and the interior of the passenger vessel, except where prohibited by an administrative authority having jurisdiction."
 
 The minutes of PVAAC meetings and subsequent discussions with members indicate that the reasons for this specification may be that larger vessels would have doors higher above the water the waterline and that small amounts of ingress from rain and spray could be sustained (similar to the Coast Guard's interpretation of H boat weather deck closure requirements). The size may also allow better opportunities for placing a single accessible door in a low risk location, relative to water and wind.
 

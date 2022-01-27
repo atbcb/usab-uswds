@@ -7,8 +7,9 @@ redirect_from:
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-4-elevators-and-platform-lifts/
 ---
 This guide explains criteria for elevators and platform lifts in
-the [ADA Standards]({{ site.baseurl }}/ada/).
+the [ADA Standards]({{ site.baseurl }}/ada/).
 
+{% include sr-dimension-markings.html %}
 ### Required Compliance
 
 [[§206.6]({{ site.baseurl }}/ada/#ada-206_6)]
@@ -91,38 +92,38 @@ and private residence elevators.
 
 [[§407.2]({{ site.baseurl }}/ada/#ada-407_2)]
 
-![Elevator landing showing hall signals located 72" min. high measured
+![Elevator landing showing hall signals located 72 inches minimum high measured
 to centerline and call buttons with clear floor space and located within
 reach range measured to centerline. Details show hall signal visible
-indicators 2 ½" high min, call buttons ¾" min. in diameter (smallest
+indicators 2 ½ inches high min, call buttons ¾ inches minimum in diameter (smallest
 dimension) that are raised and flush. Hoistway sign detail show number
-2" high min and raised 1/32" with a 3/8" min. separation from braille
+2 inches high minimum and raised 1/32 inches with a 3/8 inches minimum separation from braille
 below and raised borders. Notes: Hall Signals (§407.2.2) - Required at
 each hoistway (including elevators with only 2 stops); Indicate car
 arrival and travel direction (separate fixtures are not required to
 indicate direction); Visible indicators can be vertical or side-by-side;
 Visible from area of hall call button, including those in cars (1 in-car
 lantern is acceptable if visible from the hall call button); Audible
-signals: one (up)/ two (down) or annunciator; Frequency: 1500 Hz max.
-(300 -- 3,000 Hz verbal annunciator); Signal level: 10 dB min. above
-ambient, 80 dB max. Call Controls (§407.2.1) - ithin reach range,
+signals: one (up)/ two (down) or annunciator; Frequency: 1500 Hz maximum
+(300 to 3,000 Hz verbal annunciator); Signal level: 10 dB minimum above
+ambient, 80 dB maximum Call Controls (§407.2.1) - within reach range,
 measured to centerline of highest operable part; compliant as operable
 part; Up button above down button; Visual indication of call registered
 and call answered; Raised from, or flush with, faceplate or, if
 provided, trim ring or ferrule. Hoistway Signs (§407.2.3) - Both jambs,
-48" -- 60" AFF (measured to raised character baseline); Characters and
-symbols raised 1/32" min., sans serif; Compliance with other
+48 inches to 60 inches AFF (measured to raised character baseline); Characters and
+symbols raised 1/32 inches minimum, sans serif; Compliance with other
 requirements in 703.2 for raised characters (upper case, style
 ,character proportion and spacing, stroke thickness, and line spacing);
 Grade II braille complying with 703.3 below raised characters; Tactile
 star with braille ("MA'IN'") required on both jambs at the main entry
-level]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl2.jpg){: .img-large} 
+level]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl2.jpg){: .img-large} 
 
 #### Elevator Door Requirements
 
 [[§407.3]({{ site.baseurl }}/ada/#ada-407_3)]
 
-![Timing distance shown measured 60" in front of farthest call button
+![Timing distance shown measured 60 inches in front of farthest call button
 controlling car to centerline of hoistway door. Caption: Door and Signal
 Timing (§407.3.4) - Timing begins at audible and visible notification of
 car arrival based on when the signal becomes visible from the specified
@@ -130,13 +131,13 @@ location point in front of the call button. At elevators with in-car
 lanterns, timing begins once doors open wide enough for the signal to be
 visible from this point. Minimum timing from car arrival notification to
 start of door closing: D / 1.5 ft/s (no less than 5
-sec.)]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl3a.jpg){: .img-large} 
+sec.)]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl3a.jpg){: .img-large}
 
- ![Elevator door must fully open 3 seconds min. to min. clear width of
-36" (42" for center door of 80" min by 51" min car). A tolerance of
-minus 5/8" allowed for 36" min. clear width only. Reopening device
-detection points: 5" high and 29" high. Caption: Door Delay (§407.3.5)-
-Doors must remain fully open 3 seconds min. in response to a call.
+![Elevator door must fully open 3 seconds minimum to minimum clear width of
+36 inches (42 inches for center door of 80 inches minimum by 51 inches minimum car). A tolerance of
+minus 5/8 inches allowed for 36 inches minimum clear width only. Reopening device
+detection points: 5 inches high and 29 inches high. Caption: Door Delay (§407.3.5)-
+Doors must remain fully open 3 seconds minimum in response to a call.
 ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl4b.jpg){: .img-large}
 
 ### Elevator Car Requirements
@@ -144,27 +145,27 @@ Doors must remain fully open 3 seconds min. in response to a call.
 [[§407.4]({{ site.baseurl }}/ada/#ada-407_4)]
 
 The ADA Standards specify the minimum car dimensions. Alternative
-configurations that provide unobstructed wheelchair turning space (60"
+configurations that provide unobstructed wheelchair turning space (60&Prime;
 diameter circle or T-turn) with the doors closed are permitted.
 
 #### Elevator Car Dimensions (§407.4.1)
 
 ![One figure shows an elevator car with a centered door. The door clear
-width is 42" minimum and the car width measured side to side is 80"
-minimum. The car depth is 51" minimum measured from the back wall to the
-front return, and 54" minimum measured from the back wall to the inside
+width is 42 inches minimum and the car width measured side to side is 80 inches
+minimum. The car depth is 51 inches minimum measured from the back wall to the
+front return, and 54 inches minimum measured from the back wall to the inside
 face of the door. Second figure shows an elevator car with an
-off-centered door. The door clear width is 36" minimum and the car width
-measured side to side is 68" minimum. The depth is 51" minimum measured
-from the back wall to the front return, and 54" minimum measured from
+off-centered door. The door clear width is 36 inches minimum and the car width
+measured side to side is 68 inches minimum. The depth is 51 inches minimum measured
+from the back wall to the front return, and 54 inches minimum measured from
 the back wall to the inside face of the door. Third figure shows a car
-with a clear door width of 36" minimum and the car width measured side
-to side is 54" minimum. The car depth is 80' minimum measured from the
+with a clear door width of 36 inches minimum and the car width measured side
+to side is 54 inches minimum. The car depth is 80' minimum measured from the
 back wall to the front return. Fourth figure shows a car with a clear
-door width of 36" minimum and the car width measured side to side is 60"
-minimum. The car depth is 60" minimum measured from the back wall to the
-front return. Any 36" min wide door permitted a tolerance of minus
-5/8".]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl5.jpg){: .img-large} 
+door width of 36 inches minimum and the car width measured side to side is 60 inches
+minimum. The car depth is 60 inches minimum measured from the back wall to the
+front return. Any 36 inches minimum wide door permitted a tolerance of minus
+5/8 inches.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl5.jpg){: .img-large} 
 
 #### Elevator Car Requirements
 
@@ -173,15 +174,15 @@ front return. Any 36" min wide door permitted a tolerance of minus
 Other requirements for elevator cars include:
 
 - compliant floor surfaces
-- a maximum 1¼" horizontal clearance between car platform sill and hoistway landing
+- a maximum 1¼&Prime; horizontal clearance between car platform sill and hoistway landing
 - a self-leveling feature
-- 5 ft. candles min. illumination at platform, controls, threshold, and landing sill
+- 5 feet candles minimum illumination at platform, controls, threshold, and landing sill
 
 #### Car Leveling and Platform to Hoistway Clearance
 
-![1 ¼" max clearance between hoistway landing and car platform. Car
+![1 ¼ inches maximum clearance between hoistway landing and car platform. Car
 platform must have compliance surface and be automatic self-leveling
-within ½" tolerance maintained under 0 to rated loading
+within ½ inches tolerance maintained under 0 to rated loading
 conditions.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl6.jpg){: .img-large}
 
 #### Car Controls
@@ -192,25 +193,25 @@ If more than one car control panel is provided in a car, both must
 comply (except in existing cars where only 1 panel must comply).
 
 ![Car control panel shown with number in ascending order and columns
-that read left to right. Max. height for buttons is 48" max. (54" max if
+that read left to right. Maximum height for buttons is 48 inches maximum (54 inches maximum if
 car serves over 16 openings and parallel approach provided). Emergency
-controls buttons grouped at bottom of panel 35" min. measured to
-centerline of bottom buttons.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl7.jpg){: .img-large} 
+controls buttons grouped at bottom of panel 35 inches minimum measured to
+centerline of bottom buttons.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl7.jpg){: .img-large} 
 
 **Car Controls (§407.4.6 and §407.4.7)**
 
 ![Car control panel detail. Notes: Raised characters to immediate left
-of button, raised 1/32" min, sans serif (sufficient color contrast from
-the background is recommended); raised characters 5/8" to 2" high;
-Buttons ¾" min. in diameter (smallest dimension) must be raised from or
+of button, raised 1/32 inches min, sans serif (sufficient color contrast from
+the background is recommended); raised characters 5/8 inches to 2 inches high;
+Buttons ¾" minimum in diameter (smallest dimension) must be raised from or
 flush with faceplate/ trim ring (ferrule); Braille (Grade 2) below or
-next to raised characters or symbols; 3/16" min separation between
+next to raised characters or symbols; 3/16 inches minimum separation between
 braille and raised numbers; Floor designation buttons provide visual
 indication of registered call that extinguishes upon car arrival; Main
 Entry Floor (required tactile symbol with braille); Door open and close
 buttons, where provided, identified by required tactile symbols and
 braille and located above emergency buttons; Emergency buttons (alarm
-and, where provided, emergency stop) grouped at bottom 35" min AFF
+and, where provided, emergency stop) grouped at bottom 35 inches minimum AFF
 measured to button centerline and identified by required tactile symbols
 and braille; Emergency stop (where provided on existing panels -- no
 longer permitted by the ASME A17.1 code); In-car switches not for
@@ -218,8 +219,8 @@ passenger use (e.g., fireman's operations) are not required to comply;
 Keypads (§407.4.6.3 and §407.4.7.2) - Keypads, if provided in cars, must
 comply: Location within reach range, measured to centerline of highest
 operable part; Standard phone keypad arrangement; Raised or flush
-buttons, ¾" min. in smallest dimension; Raised dot "5" key
-(0.025"-0.037" high, 0.118" 0.120" base diameter); Compliant visual
+buttons, ¾" minimum in smallest dimension; Raised dot "5" key
+(0.025 inches to 0.037 inches high, 0.118 inches 0.120 inches base diameter); Compliant visual
 characters (§703.5) centered on
 button]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl8.jpg){: .img-large}
 
@@ -232,11 +233,11 @@ button]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl8.jpg){: .img-l
 Position indicators are required for all cars, including those of 2-stop
 elevators. Specifications include:
 
-- ½" min. character height
+- ½&Prime; minimum character height
 - Illumination of each floor level passed or stopped at
-- Automatic verbal announcement of stop or non-verbal audible signal of passed floors and stops (if elevator not destination-oriented and has a rated speed of 200 ft./ minute max.)
-- Frequency: 300 -- 3,000 Hz for verbal annunciator, 1500 Hz max. for non-verbal signal
-- Signal level: 10 dB min. above ambient to 80 dB max.
+- Automatic verbal announcement of stop or non-verbal audible signal of passed floors and stops (if elevator not destination-oriented and has a rated speed of 200 feet/ minute maximum)
+- Frequency: 300 to 3,000 Hz for verbal annunciator, 1500 Hz maximum for non-verbal signal
+- Signal level: 10 dB minimum above ambient to 80 dB maximum
 
 #### Emergency Communication
 
@@ -283,24 +284,23 @@ this type of elevator.
 ##### Destination-Oriented Elevators: Call Signals
 
 ![Destination oriented elevator with details showing hall signals and
-hoistway signs with floor and car designations that are 2" high min.
-raised 1/32" min, and separated 3/8" min from braille and raised
+hoistway signs with floor and car designations that are 2 inches high minimum
+raised 1/32 inches minimum, and separated 3/8 inches minimum from braille and raised
 borders. Notes: Hall Signals (§407.2.2) - Visible and audible signals
 indicating the arrival of designated car (if the same tone/ announcement
 in calling a car is used to signal car arrival, then compliance with
 audible specifications, such as the indication of direction, is not
 required); Visible and audible signals are not required at each elevator
-if they include car designation; Visible signals centered 72" min AFF
+if they include car designation; Visible signals centered 72 inches minimum AFF
 and visible from floor area adjacent to hoistway entrance; Visible
-signal element 2 ½" min. measured along vertical centerline of element;
+signal element 2 ½ inches minimum measured along vertical centerline of element;
 Audible and visible differentiation of each elevator in a bank. Hoistway
-Signs (§407.2.3) - Both jambs, 48" -- 60" AFF (measured to raised
+Signs (§407.2.3) - Both jambs, 48 inches to 60 inches AFF (measured to raised
 character baseline); Car designation required below floor designation;
-Characters and symbols raised 1/32" min., sans serif; Compliance with
-other requirements in 703.2 for raised characters (upper case, style
-,character proportion and spacing, stroke thickness, and line spacing);
+Characters and symbols raised 1/32 inches minimum, sans serif; Compliance with
+other requirements in 703.2 for raised characters (upper case, style, character proportion and spacing, stroke thickness, and line spacing);
 Grade II braille complying with 703.3 below raised
-characters.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl11.jpg){: .img-large} 
+characters.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl11.jpg){: .img-large} 
 
 #### Destination-Oriented Elevators: Car Arrival
 
@@ -311,18 +311,18 @@ announcement in calling a car is used to signal car arrival, then
 compliance with audible specifications, such as the indication of
 direction, is not required); Visible and audible signals are not
 required at each elevator if they include car designation; Visible
-signals centered 72" min AFF and visible from floor area adjacent to
-hoistway entrance; Visible signal element 2 ½" min. measured along
+signals centered 72 inches minimum AFF and visible from floor area adjacent to
+hoistway entrance; Visible signal element 2 ½ inches minimum measured along
 vertical centerline of element; Audible and visible differentiation of
-each elevator in a bank. Hoistway Signs (§407.2.3) - Both jambs, 48" --
-60" AFF (measured to raised character baseline); Car designation
-required below floor designation; Characters and symbols raised 1/32"
-min., sans serif; Compliance with other requirements in 703.2 for raised
+each elevator in a bank. Hoistway Signs (§407.2.3) - Both jambs, 48 inches to
+60 inches AFF (measured to raised character baseline); Car designation
+required below floor designation; Characters and symbols raised 1/32 inches
+minimum, sans serif; Compliance with other requirements in 703.2 for raised
 characters (upper case, style ,character proportion and spacing, stroke
 thickness, and line spacing); Grade II braille complying with 703.3
-below raised characters; floor and car designation 2" high min, raised
-1/32" min, 3/8" min separation from braille and from raised
-borders]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl12.jpg){: .img-large} 
+below raised characters; floor and car designation 2 inches high minimum, raised
+1/32 inches min, 3/8 inches minimum separation from braille and from raised
+borders]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl12.jpg){: .img-large} 
 
 #### Other provisions unique to destination-oriented elevators:
 
@@ -335,8 +335,8 @@ indicator]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl13.jpg){: .i
 ##### Car Position Indicators (§407.4.8)
 
 - Visual display of each floor a car has been programmed to stop at and automatic verbal announcement of each car stop are required
-- Visual indicators: ½" min. character height, location above control panel/keypad or door, must extinguish when call answered
-- Automatic verbal announcement (300 -- 3,000 Hz, 10dB min. above ambient to 80 dB max.)
+- Visual indicators: ½&Prime;  minimum character height, location above control panel/keypad or door, must extinguish when call answered
+- Automatic verbal announcement (300 to 3,000 Hz, 10 dB minimum above ambient to 80 dB maximum)
 
 ### Existing Elevators (Alterations)
 
@@ -384,16 +384,16 @@ Visible signals are not required to comply and audible signals are
 exempt from frequency and decibel ranges; Signals do not have to
 indicate travel direction; Call Controls (§407.2.1) - Call buttons can
 be recessed; Existing call buttons can be less than ¾" in size and can
-be located 54" max. (instead of 48") above the floor, measured to the
+be located 54 inches maximum (instead of 48 inches) above the floor, measured to the
 centerline of the highest operable part; Elevator Door Requirements
 (§407.3) - Existing manually operated doors without reopening devices
 that meet door requirements (§404.2) are permitted; Power-operated doors
-can have a narrower clear width (32" min. if the hoistway depth is 24"
-max.); Elevator Car Requirements (§407.4) - Existing cars with a clear
-depth 54" min., a clear width 36" min., and a clear floor area of 16 sq.
+can have a narrower clear width (32 inches minimum if the hoistway depth is 24 inches
+maximum); Elevator Car Requirements (§407.4) - Existing cars with a clear
+depth 54 inches minimum, a clear width 36 inches minimum, and a clear floor area of 16 sq.
 ft. are permitted; When new compliant operating panels are installed,
 existing panels that remain are not required to comply; Car control
-buttons can be recessed and can be 54" max. above the floor if a
+buttons can be recessed and can be 54 inches maximum above the floor if a
 parallel approach is provided; If space does not permit location of
 tactile markings to the left of control buttons, they can be placed as
 near to the control as possible. ISA Designation (§216.7) - In
@@ -430,12 +430,12 @@ of §407 in that:
 #### LULA Car Dimensions (§408.4)
 
 ![Figure one shows the configuration for new construction. The door
-clear width is 32" minimum and the car width measured side to side is
-42" minimum. The car depth is 54" minimum. Doors must be located on
+clear width is 32 inches minimum and the car width measured side to side is
+42 inches minimum. The car depth is 54 inches minimum. Doors must be located on
 narrow end. Second figure shows alternative dimensions of clear interior
-space 51 by 51" minimum that are permitted if door clear width is36"
+space 51 by 51 inches minimum that are permitted if door clear width is 36 inches
 minimum. Third figure shows dimensions for existing LULA cars that are
-altered: 36" minimum width, depth 54" minimum, and the net clear car
+altered: 36 inches minimum width, depth 54 inches minimum, and the net clear car
 area is 15 square feet
 minimum.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl16.jpg){: .img-large}
 
@@ -452,26 +452,26 @@ meet requirements in §407.
 ![Private residence elevator. Notes: General (§409.1) - Automatic
 operation; Compliance with the referenced ASME A17.1 standard. Call
 Buttons (§409.2) - Compliant as operable parts, including reach range
-and clear floor space, and ¾" min. in smallest dimension. Elevator Doors
+and clear floor space, and ¾" minimum in smallest dimension. Elevator Doors
 (§409.3) - Car and hoistway doors/gates must be power operated and meet
 the ANSI/BHMA standard for low-energy doors and other applicable
 provisions for doors in §404 (compliance with maneuvering clearance on
 push side of doors not required); Manual-open, self-close doors/gates
 permitted for cars with more than 1 opening; Required location on narrow
-end of car; Must remain open for 20 seconds min. Elevator Cars (§409.4): Inside dimensions: 36" min. by 48" min.; Compliant floor surfaces; 1½"
-max. clearance between platform and edge of landing sill (later editions
-of the ASME A17.1 specify 1¼" max); Automatic leveling with floor
-landing within ½" tolerance under rated to 0 loading conditions; 5 ft
-candles min. at platform, controls, threshold, and landing sill; Car
-controls must be raised or flush button, ¾" min. in smallest dimension,
+end of car; Must remain open for 20 seconds minimum. Elevator Cars (§409.4): Inside dimensions: 36 inches minimum by 48 inches minimum; Compliant floor surfaces; 1½ inches
+maximum clearance between platform and edge of landing sill (later editions
+of the ASME A17.1 specify 1¼ inches maximum); Automatic leveling with floor
+landing within ½ inch tolerance under rated to 0 loading conditions; 5 ft
+candles minimum at platform, controls, threshold, and landing sill; Car
+controls must be raised or flush button, ¾" minimum in smallest dimension,
 comply as operable parts, and be located within accessible reach range
-on side wall 12" min. from any adjacent wall; Telephone and emergency
+on side wall 12 inches minimum from any adjacent wall; Telephone and emergency
 signal two-way communication device required in car with compliant
 operable parts, including hardware of closed compartment if provided;
-telephone cord must be 29" long min.
-]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl17.jpg){: .img-large} 
+telephone cord must be 29 inches long minimum
+]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl17.jpg){: .img-large} 
 
-### Platform Lifts 
+### Platform Lifts 
 
 #### Where Platform Lifts are Permitted
 
@@ -537,7 +537,7 @@ when they comply with ASME A18.1.
 
 The ASME A18.1 Standard addresses requirements for runway enclosures,
 electrical equipment and wiring, structural support, headroom clearance
-(80" minimum), access ramps, pits, and other features. The ASME A18.1
+(80&Prime; minimum), access ramps, pits, and other features. The ASME A18.1
 Standard recognizes two types of platform lifts: vertical platform lifts
 and inclined platform lifts. Lifts without platforms, including stairway
 chairlifts, are not permitted by the ADA Standards except at swimming
@@ -550,7 +550,7 @@ not a platform (§1009.2)).
     <div class="tablet:grid-col">
         <span class="text-center text-bold">Vertical Platform Lift</span>
         <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter4/4epl19.jpg" alt="Vertical platform lift">
-        <span class="grid-line text-italic">The ASME A18.1 Standard specifies platform and runway enclosures for vertical platform lifts, among other features, and limits the travel distance.  The size of platforms cannot exceed 18 sq. ft.</span>
+        <span class="grid-line text-italic">The ASME A18.1 Standard specifies platform and runway enclosures for vertical platform lifts, among other features, and limits the travel distance.  The size of platforms cannot exceed 18 sq. feet.</span>
     </div>
     <div class="tablet:grid-col">
         <span class="text-center text-bold">Inclined Platform Lift</span>
@@ -562,11 +562,11 @@ not a platform (§1009.2)).
 
 #### Requirements for Platform Lifts
 
-![Platform lift requirements. Notes: Platforms (§410.2 - §410.4) -
+![Platform lift requirements. Notes: Platforms (§410.2 to §410.4) -
 Platforms must meet requirements for clear floor space and floor
 surfaces, including changes in level, and the clearance between the
-platform sill and edge of runway landing cannot exceed 1¼" (ASME A18.1
-specifies 3/8" -- 3 /4"). Operable Parts (§410.5) - Controls must meet
+platform sill and edge of runway landing cannot exceed 1¼ inches (ASME A18.1
+specifies 3/8 inches to 3/4 inches). Operable Parts (§410.5) - Controls must meet
 requirements for operable parts, including reach ranges. Doors and Gates
 §410.6) - Doors and gates must be power-operated, meet criteria for
 low-energy doors, including the referenced ANSI/BHMA standard (§404.3),
@@ -579,15 +579,15 @@ International Building Code must be equipped with standby power.
 
 #### Platform Lift Clear Floor Space and Doors/ Gates
 
-![One figure shows platform lift with doors with clear width 32" min. on
-opposite narrow ends of platform that is 36" min wide and 48" min long.
-Second figure shows lift with 32" min. wide door on narrow end that is
-36" min wide and 42" min. wide door on adjacent side that is 60" long
-min. Note: The clear floor space of platforms must be 36" wide min. If
-doors/gates are on the narrow end only, the length is 48" min. If a
-door/gate is on the longer side, the min. length is 60" to accommodate
+![One figure shows platform lift with doors with clear width 32 inches minimum on
+opposite narrow ends of platform that is 36 inches minimum wide and 48 inches minimum long.
+Second figure shows lift with 32 inches minimum wide door on narrow end that is
+36 inches minimum wide and 42 inches minimum wide door on adjacent side that is 60 inches long
+minimum. Note: The clear floor space of platforms must be 36 inches wide minimum. If
+doors/gates are on the narrow end only, the length is 48 inches minimum. If a
+door/gate is on the longer side, the minimum length is 60 inches to accommodate
 side approach
-maneuvering.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl22a.JPG){: .img-large}       
+maneuvering.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4epl22a.JPG){: .img-large} 
 ### Common Questions
 
 ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail}
@@ -617,7 +617,7 @@ required to comply with the Standards.
 
 User activation of door close (or automatic operation) cannot reduce the
 initial opening time of doors (3 seconds minimum) or the minimum door
-signal timing (based on 1.5/ ft/s travel speed for the distance from the
+signal timing (based on 1.5 feet/s travel speed for the distance from the
 hall call button to car door centerline). When doors automatically
 reopen due to a detected obstruction, they can begin to reclose when no
 longer obstructed. The 20 second minimum pertains to the length of time
@@ -631,7 +631,7 @@ gates and doors must remain open for 20 seconds minimum. This does not
 apply to the doors of passenger elevators complying with §407 which must
 remain fully open for at least 3 seconds in response to a call
 (§407.3.5). The opening time is further determined by the travel
-distance from hall call buttons and signal timing based on a 1.5 ft/s
+distance from hall call buttons and signal timing based on a 1.5 feet/s
 travel speed beginning from audible and visible signalization of car
 arrival (§407.3.4). Reopening devices must remain effective for 20
 seconds minimum, but in reopening, doors do not have to remain open for

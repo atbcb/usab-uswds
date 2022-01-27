@@ -39,8 +39,10 @@ primarily to transport people. These vehicles are addressed in the [ADA
 Accessibility Guidelines for Transportation
 Vehicles]({{ site.baseurl }}/ada/vehicles/).
 
+{% include sr-dimension-markings.html %}
+
 #### New Rides
-New rides refer to the "first use," which is the first time amusement
+New rides refer to the "first use", which is the first time amusement
 park patrons take a ride on a custom designed or newly manufactured
 ride. If a ride is moved to another area of a park or to another park,
 it is not considered new. If the ride was purchased from another entity,
@@ -66,15 +68,15 @@ However, other ADA requirements still apply. The four types are:
     carnivals, State and county fairs, and festivals, do not need to
     comply. Mobile rides are available that provide wheelchair access
     and other rides could provide transfer access with minor
-    modifications. 
+    modifications. 
 
 -   Rides that are controlled or operated by the rider (such as bumper
     cars and go-carts) are not required to comply with the guidelines,
-    but an accessible route to the ride and a turning space (60-inch
+    but an accessible route to the ride and a turning space (60 inch
     diameter circle or T-shaped turning space) in the load and unload
     area must be provided. (This exception does not apply if patrons can
     merely cause the ride to make incidental movements, but otherwise
-    have no control over the ride.) 
+    have no control over the ride.) 
 
 -   Rides designed for children, assisted on and off by an adult, are
     only required to provide an accessible route to the ride and a
@@ -179,7 +181,7 @@ loading and unloading and to accommodate a greater variety of personal
 mobility devices.
 
 #### Approach
-Turning space (60-inch diameter or T-shaped space) for a wheelchair must
+Turning space (60 inch diameter or T-shaped space) for a wheelchair must
 be provided where the accessible route adjoins the ride, so that riders
 can access the ride. One side of the wheelchair space must adjoin an
 accessible route. The turning space may overlap the accessible route and
@@ -216,7 +218,7 @@ provisions, with three exceptions:
     for example, using a turntable.
 
 -   There is no clear headroom requirement for wheelchair spaces on a
-    ride since many rides move through confined spaces. The 80-inch
+    ride since many rides move through confined spaces. The 80 inch
     minimum vertical clearance requirement remains for circulation areas
     and accessible routes in the queue line and load and unload areas.
 
@@ -238,9 +240,9 @@ be designed to permit sufficient turning space for people using a
 wheelchair or mobility device to enter and exit the ride. Designers must
 consider the position of the opening in relation to the wheelchair space
 and add clear space and larger openings as necessary. For example, an
-opening of 32 inches, combined with a 30-by-48-inch minimum wheelchair
+opening of 32 inches, combined with a 30 by 48 inch minimum wheelchair
 space, is not enough space for turning to face the front of the ride
-vehicle. If there is a 42-inch opening, a wheelchair space with a clear
+vehicle. If there is a 42 inch opening, a wheelchair space with a clear
 length of 60 inches minimum and a clear width of 36 inches minimum would
 be needed.
 
@@ -656,9 +658,9 @@ Standards discussed in the amusement rides guide.
 </table>
 
 
-\* The guide uses the term ADAAG (Americans with Disabilities Act
+\* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
- The recreational provisions of these guidelines were adopted into the
+ The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
 the Architectural Barriers Act (ABA) Accessibility Standards).

@@ -4,13 +4,13 @@ order-number: 13
 file: /files/aba/guides/parking-ABA.pdf
 file-description: PDF version of Chapter 5 Parking Spaces Guide
 ---
-This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for parking. 
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for parking. 
 
 ### Required Number
 
 [[§F208]({{ site.baseurl }}/aba/#aba-f208)]
 
-Accessible parking spaces are required for each parking facility on a site, such as lots and garages.  Requirements apply equally to public and employee or restricted parking.  On sites with multiple parking facilities, the minimum number of accessible spaces must be calculated separately for each parking facility instead of on the combined total of parking spaces provided on the site.  At least one of every 6 accessible spaces, or fraction of 6, in each parking facility must be sized to accommodate vans.
+Accessible parking spaces are required for each parking facility on a site, such as lots and garages.  Requirements apply equally to public and employee or restricted parking.  On sites with multiple parking facilities, the minimum number of accessible spaces must be calculated separately for each parking facility instead of on the combined total of parking spaces provided on the site.  At least one of every 6 accessible spaces, or fraction of 6, in each parking facility must be sized to accommodate vans.
 
 #### Accessible Parking on a Site
 
@@ -227,7 +227,7 @@ Accessible parking spaces are required for each parking facility on a site, such
 
 ![Valet parking icon]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p3.jpg){: .float-right .thumbnail}
 
-Accessible spaces are required in parking facilities with valet parking because vehicles specially equipped for persons with disabilities may not be easily used by others.  Further, valet parking may not be available at all hours a parking facility is open.  An accessible passenger loading zone also is required at facilities with valet parking (§F209.4).
+Accessible spaces are required in parking facilities with valet parking because vehicles specially equipped for persons with disabilities may not be easily used by others.  Further, valet parking may not be available at all hours a parking facility is open.  An accessible passenger loading zone also is required at facilities with valet parking (§F209.4).
 </div>
 
 ### Alterations and Additions
@@ -238,7 +238,7 @@ img-alt= "Restriping of existing parking space markings"
 text= "Refreshing existing striping in place for several spaces or filling potholes is typically considered normal maintenance, not an alteration."
 %}
 
-Accessible spaces are required where parking facilities are altered or added.  The term ‘alterations’ includes resurfacing of vehicular ways (§F106.5).  Resurfacing or resealing and projects that add new parking spaces constitute alterations (or additions) and must include accessible spaces as required in the scoping table.  Normal maintenance, such as pothole repair, surface patching, or repainting in place existing striping for a few spaces, is not considered an alteration except where it affects a facility’s usability.
+Accessible spaces are required where parking facilities are altered or added.  The term ‘alterations’ includes resurfacing of vehicular ways (§F106.5).  Resurfacing or resealing and projects that add new parking spaces constitute alterations (or additions) and must include accessible spaces as required in the scoping table.  Normal maintenance, such as pothole repair, surface patching, or repainting in place existing striping for a few spaces, is not considered an alteration except where it affects a facility’s usability.
 
 ### Location
 
@@ -280,7 +280,7 @@ text= "Where spaces within the same parking facility are assigned or restricted 
 <div class="clearfix" markdown="1">
 ![Multi-level parking garage]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p7.jpg){: .img-right}
 
-The Standards apply to parking garages, including those provided below grade.  At sites that also include surface lots, a garage is treated as a separate parking facility for scoping purposes.
+The Standards apply to parking garages, including those provided below grade.  At sites that also include surface lots, a garage is treated as a separate parking facility for scoping purposes.
 </div>
 
 #### Multi-Level Parking Garage with Direct Connections to Facility
@@ -291,21 +291,21 @@ The Standards apply to parking garages, including those provided below grade.  
 
 ![Multi-Level parking garage not serving a particular facility.  Notes:  In parking garages that do not serve a particular facility, accessible spaces must be located on the shortest accessible route to an accessible pedestrian entrance of the garage (§F208.3).]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p9ab.jpg){: .img-large}
 
-Accessible spaces, including van spaces, must be located so that they provide the same level of protection and security as other spaces in the garage.  Locating accessible spaces required for a garage on the exterior is not usually acceptable.   
+Accessible spaces, including van spaces, must be located so that they provide the same level of protection and security as other spaces in the garage.  Locating accessible spaces required for a garage on the exterior is not usually acceptable.   
   
 <div class="border clearfix padding-left-1" markdown="1">
 #### Mechanical Access Parking Garages
 
 ![mechanical access parking]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p10.jpg){: .float-right .thumbnail}
 
-Accessible parking spaces are not required in mechanical access parking garages where lifts are used to stack vehicles.  However, such facilities must provide at least one accessible passenger loading zone at vehicle drop-off and pick-up areas so that people with disabilities can transfer from vehicles (§F209.5).
+Accessible parking spaces are not required in mechanical access parking garages where lifts are used to stack vehicles.  However, such facilities must provide at least one accessible passenger loading zone at vehicle drop-off and pick-up areas so that people with disabilities can transfer from vehicles (§F209.5).
 </div>
 
 ### Hospital Outpatient Facilities
 
 [[§F208.2.1]({{ site.baseurl }}/aba/#aba-f208_2_1)]
 
-The Standards require a higher level of accessible parking at hospital outpatient facilities.  At least 10% of patient and visitor parking spaces that serve such facilities must comply.  This applies to those units in hospitals that provide regular or continuing medical treatment without overnight stay.  Other types of medical facilities not located in hospitals, including doctors’ offices and independent clinics, are not subject to this requirement but to the regular scoping table.
+The Standards require a higher level of accessible parking at hospital outpatient facilities.  At least 10% of patient and visitor parking spaces that serve such facilities must comply.  This applies to those units in hospitals that provide regular or continuing medical treatment without overnight stay.  Other types of medical facilities not located in hospitals, including doctors’ offices and independent clinics, are not subject to this requirement but to the regular scoping table.
 
 #### Accessible Parking at Outpatient Facilities in Hospitals
 
@@ -322,7 +322,7 @@ At least 20% of patient and visitor parking spaces must be accessible at outpati
 -   respiratory diseases and other conditions which may require the use of portable oxygen; or
 -   cardiac and other conditions that impose substantial limitations on one’s mobility.
 
-Rehabilitation facilities that provide, but that do not specialize in, services or treatment for persons with mobility impairments, such as general rehabilitative therapy centers, are not subject to the 20% requirement.  In mixed-use facilities, the 20% may be applied only to the portion of spaces that are determined to serve the types of rehabilitation or outpatient therapy facilities covered by this provision.
+Rehabilitation facilities that provide, but that do not specialize in, services or treatment for persons with mobility impairments, such as general rehabilitative therapy centers, are not subject to the 20% requirement.  In mixed-use facilities, the 20% may be applied only to the portion of spaces that are determined to serve the types of rehabilitation or outpatient therapy facilities covered by this provision.
 
 ### Residential Facilities
 
@@ -362,7 +362,7 @@ text= "Configure accessible routes so that they run in front of, instead of behi
 <div class="clearfix padding-left-1" markdown="1">
 ![Person using wheelchair exiting van with ramp parking in accessible van space.  ]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p17.jpg){: .img-right}
 
-At least one space for every 6 or fraction of 6 accessible spaces must be van accessible.  Van spaces provide an additional 3 feet of width to accommodate vehicles equipped with ramps or lifts. This extra space can be added to either the parking space or to the access aisle.  A wider access aisle saves space since two spaces can share one aisle, but wider spaces can help prevent misuse of the access aisle as a parking space.
+At least one space for every 6 or fraction of 6 accessible spaces must be van accessible.  Van spaces provide an additional 3 feet of width to accommodate vehicles equipped with ramps or lifts. This extra space can be added to either the parking space or to the access aisle.  A wider access aisle saves space since two spaces can share one aisle, but wider spaces can help prevent misuse of the access aisle as a parking space.
 </div>
 
 #### Van Space: Wider Parking Space
@@ -370,7 +370,7 @@ At least one space for every 6 or fraction of 6 accessible spaces must be van ac
 ![Van accessible parking space 132” wide min. and access aisle 60” wide min.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p18-a.JPG){: .img-large}
 
 {% include recommendation.html
-text= "Sizing all accessible spaces (or access aisles) for van accessibility provides greater convenience and helps ensure that van spaces remain available for those who need them.  Where a van space and regular accessible space share an aisle, it is advisable to have the access aisle serve the van space on the passenger side (as is required where van spaces are angled) since backing into spaces can be more difficult with vans."
+text= "Sizing all accessible spaces (or access aisles) for van accessibility provides greater convenience and helps ensure that van spaces remain available for those who need them.  Where a van space and regular accessible space share an aisle, it is advisable to have the access aisle serve the van space on the passenger side (as is required where van spaces are angled) since backing into spaces can be more difficult with vans."
 %}
    
 #### Van Space: Wider Access Aisle
@@ -386,7 +386,7 @@ text= "As with regular accessible spaces, van accessible spaces can share a comm
 %}
   
 {% include recommendation.html
-text= "Where standard (non-van) accessible spaces are angled or otherwise restrict entry to one direction only, providing one access aisle for each accessible space (or on both sides where only one accessible space is provided) will offer greater usability by accommodating access on either side.  Otherwise, consider designing accessible spaces to permit both front-in and back-in parking."
+text= "Where standard (non-van) accessible spaces are angled or otherwise restrict entry to one direction only, providing one access aisle for each accessible space (or on both sides where only one accessible space is provided) will offer greater usability by accommodating access on either side.  Otherwise, consider designing accessible spaces to permit both front-in and back-in parking."
 %}
 
 ### Vertical Clearance
@@ -396,7 +396,7 @@ text= "Where standard (non-van) accessible spaces are angled or otherwise restri
 
 [[§502.5]({{ site.baseurl }}/aba/#aba-502_5)]
 
-A 98” minimum vertical clearance is required for van parking spaces/ access aisles and the vehicle route to these spaces from an entrance and from these spaces to an exit.  Van spaces can be grouped on one level of parking structures.
+A 98” minimum vertical clearance is required for van parking spaces/ access aisles and the vehicle route to these spaces from an entrance and from these spaces to an exit.  Van spaces can be grouped on one level of parking structures.
 </div>
 
 {% include recommendation.html
@@ -405,7 +405,7 @@ text= "Signs at garage entrances that indicate vertical clearances and the locat
 
 ### Pay Stations
 
-Pay stations and other elements that serve accessible parking spaces must comply with requirements for operable parts (§309) and be served by an accessible route.  Requirements for operable parts cover clear floor space, operating characteristics, and location within accessible reach ranges.  Operable parts that are used from inside vehicles, such as garage ticket dispensers at vehicle entry, are not required to comply with the Standards (although policies or practices may need to be modified to accommodate persons with disabilities who are unable to use such devices).
+Pay stations and other elements that serve accessible parking spaces must comply with requirements for operable parts (§309) and be served by an accessible route.  Requirements for operable parts cover clear floor space, operating characteristics, and location within accessible reach ranges.  Operable parts that are used from inside vehicles, such as garage ticket dispensers at vehicle entry, are not required to comply with the Standards (although policies or practices may need to be modified to accommodate persons with disabilities who are unable to use such devices).
 
 ![Man using power chair at pay station.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p22.jpg){: .img-large}
 
@@ -435,7 +435,7 @@ State or local codes and regulations may address other sign characteristics, inc
 
 ![Facility with four parking spaces with one served by an access aisle.]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p25.jpg){: .float-right .thumbnail}
 
-If a total of 4 or fewer parking spaces (inaccessible and accessible) is provided on a site, the required accessible space does not have to be identified by a sign (i.e., reserved exclusively for use of people with disabilities) (§F216.5, Ex. 1).  However, all other requirements for spaces, including access aisles, still apply.
+If a total of 4 or fewer parking spaces (inaccessible and accessible) is provided on a site, the required accessible space does not have to be identified by a sign (i.e., reserved exclusively for use of people with disabilities) (§F216.5, Ex. 1).  However, all other requirements for spaces, including access aisles, still apply.
 
 {% include grid-2col-leftimg-righttext.html
 img-file= "chapter5/5p13.jpg"
@@ -448,7 +448,7 @@ text= "At residential facilities, identification of accessible spaces is not req
 
 ![electric vehicle charging station symbol ]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p27.jpg){: .float-right .thumbnail}
 
-The Standards do not include specific provisions for electric vehicle (EV) charging stations. However, it is advisable to address access to EV charging stations so that they are usable by people with disabilities.  If provided, accessible spaces at EV charging stations cannot count toward the minimum number of accessible car and van parking spaces required in a parking facility.
+The Standards do not include specific provisions for electric vehicle (EV) charging stations. However, it is advisable to address access to EV charging stations so that they are usable by people with disabilities.  If provided, accessible spaces at EV charging stations cannot count toward the minimum number of accessible car and van parking spaces required in a parking facility.
 
 ![Accessible EV charging station.  Notes:  Recommendations:  Provide access to a reasonable number of spaces serving EV charging stations or use the scoping table in §F208.2 to determine an appropriate number.  (The number of accessible spaces serving EV charging stations must be determined separately from the required number of car and van parking spaces.)  Provide an accessible route on both sides of the vehicle space that connects to the charging station for easier access.  A vehicle space at least 10’ – 13’ wide is advisable.  A 10’ width offers an extra 2’ that effectively provides a 5’ aisle on one side when paired with the accessible route; a 13’ wide space will allow an 8’ aisle. This flexibility is helpful since the parking direction is determined by the location of the charging station and the vehicle connection.  Use the International Symbol of Accessibility only where spaces are reserved exclusively for people with disabilities.  ]({{ site.baseurl }}{{ page.image-directory }}chapter5/5p28ab.jpg){: .img-large}
 

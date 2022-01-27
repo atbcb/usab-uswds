@@ -47,16 +47,16 @@ What type of signs are covered by the ADA and ABA Standards? Which ones must be 
 
 ### Speakers:
 
-[Phil Bratta](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10891), Technical Writer, **U.S. Access Board**
+[Phil Bratta](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10891), Technical Writer, **U.S. Access Board**
 
-[Sarah Presley](https://www.accessibilityonline.org/ao/speakers/10778/?ret=speakers),Accessibility Specialist, **U.S. Access Board**
+[Sarah Presley](https://www.accessibilityonline.org/ao/speakers/10778/?ret=speakers),Accessibility Specialist, **U.S. Access Board**
 
-[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805), Accessibility Specialist, **U.S. Access Board**
+[Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805), Accessibility Specialist, **U.S. Access Board**
 
 ### Session Questions
 
-This session is accepting questions from registered users. After you have registered to participate in this session, you can submit your questions on your **[Account Manager page](https://www.accessibilityonline.org/ao/accountManager/110952)**. Please note: the number of questions will be limited and submissions will be closed well before the session starts to provide time to prepare answers.
+This session is accepting questions from registered users. After you have registered to participate in this session, you can submit your questions on your **[Account Manager page](https://www.accessibilityonline.org/ao/accountManager/110952)**. Please note: the number of questions will be limited and submissions will be closed well before the session starts to provide time to prepare answers.
 
 ### Privacy Statement
 
-In order to register for this webinar, you will need to create an account and provide, at a minimum, your name, email address, phone number, city, and country. If you do not wish to create an account, you may watch this webinar after it has been recorded. Webinars are typically posted 2 days after the live session. You can access previously recorded webinars at this [link](https://www.accessibilityonline.org/ao/archives/). Be advised that in order to obtain continuing education credits, you must register and create an account. See [Continuing Education Recognition Request Policy](https://www.accessibilityonline.org/continuing-education/CEUDetails.aspx).
+In order to register for this webinar, you will need to create an account and provide, at a minimum, your name, email address, phone number, city, and country. If you do not wish to create an account, you may watch this webinar after it has been recorded. Webinars are typically posted 2 days after the live session. You can access previously recorded webinars at this [link](https://www.accessibilityonline.org/ao/archives/). Be advised that in order to obtain continuing education credits, you must register and create an account. See [Continuing Education Recognition Request Policy](https://www.accessibilityonline.org/continuing-education/CEUDetails.aspx).

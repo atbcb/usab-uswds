@@ -85,7 +85,7 @@ For both systems, the layer of EWF placed on the soil surface was 0.05 to 0.07 m
 
 **Figure 8---Installation of Soil-Sement surface on bridle path: (a) application of Soil-Sement by backpack-type sprayer; (b) trail crew mixed, leveled, and compacted the narrow trail filled with SEWF.**
 
- ![Figure 9---Application of Soil-Sement to bridle trail by drip-bucket method. Rakes were used to mix binder with EWF and level the trail. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0009.jpg)
+ ![Figure 9---Application of Soil-Sement to bridle trail by drip-bucket method. Rakes were used to mix binder with EWF and level the trail. ]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/trails/report-trailshtm_clip_image002_0009.jpg)
 
 **Figure 9---Application of Soil-Sement to bridle trail by drip-bucket method. Rakes were used to mix binder with EWF and level the trail.**
 

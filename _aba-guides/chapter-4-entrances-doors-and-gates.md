@@ -4,13 +4,13 @@ order-number: 9
 file: /files/aba/guides/entrances-ABA.pdf
 file-description: PDF version of Chapter 4 Entrances, Doors, and Gates Guide
 ---
-This guide explains scoping and technical requirements for accessible entrances, doors and gates in the [ABA Standards]({{ site.baseurl }}/aba/). 
+This guide explains scoping and technical requirements for accessible entrances, doors and gates in the [ABA Standards]({{ site.baseurl }}/aba/). 
 
 ### Accessible Entrances: Minimum Number
 
 [[§F206.4]({{ site.baseurl }}/aba/#aba-f206_4)]
 
-At least 60% of public entrances must be accessible in new construction, in addition to entrances directly serving tenancies, parking facilities, pedestrian tunnels and elevated walkways.  “Public entrances” include all entrances except those that are restricted or that are used exclusively as service entrances.
+At least 60% of public entrances must be accessible in new construction, in addition to entrances directly serving tenancies, parking facilities, pedestrian tunnels and elevated walkways.  “Public entrances” include all entrances except those that are restricted or that are used exclusively as service entrances.
 
 ### Public Entrances Required to be Accessible
 
@@ -51,7 +51,7 @@ Entrance landings must accommodate door maneuvering clearances as well as landin
 
 [[§F206.4.7]({{ site.baseurl }}/aba/#aba-f206_4_7)]
 
-If entrances are restricted to certain occupants on a controlled basis, at least one must comply in addition to public entrances required to be accessible.  This applies to those entrances where entry access is verified by security personnel and is strictly limited to certain occupants, but no one else, including guests or companions of authorized individuals.  All other types of entrances, excluding service entrances, are considered “public entrances” under the Standards, including employee-only entrances requiring keys or access cards or codes but that lack the level of security of restricted entrances.
+If entrances are restricted to certain occupants on a controlled basis, at least one must comply in addition to public entrances required to be accessible.  This applies to those entrances where entry access is verified by security personnel and is strictly limited to certain occupants, but no one else, including guests or companions of authorized individuals.  All other types of entrances, excluding service entrances, are considered “public entrances” under the Standards, including employee-only entrances requiring keys or access cards or codes but that lack the level of security of restricted entrances.
 
 <div class="grid-container border">
   <div class="grid-row">
@@ -69,7 +69,7 @@ If entrances are restricted to certain occupants on a controlled basis, at least
 
 ### Alterations
 
-[[§F206.4]({{ site.baseurl }}/aba/#aba-f206_4) and [§F202.4]({{ site.baseurl }}/aba/#aba-f202_4)]
+[[§F206.4]({{ site.baseurl }}/aba/#aba-f206_4) and [§F202.4]({{ site.baseurl }}/aba/#aba-f202_4)]
 
 In alterations to existing facilities, accessible entrances are required:
 
@@ -82,7 +82,7 @@ When alterations are made to primary function areas, a connecting accessible pat
 <div class="border clearfix" style="padding: 5px;">
 {%include grid-2col-lefttextboldstd-rightimg.html
 text-title= "<h4>Qualified Historic Facilities</h4>"
-text= "These requirements also apply when alterations are made to qualified historic facilities. However, if making a public entrance accessible would threaten or destroy a facility’s historic significance (as determined by the appropriate State Historic Preservation Official or Advisory Council on Historic Preservation), access can be provided to a non-public entrance instead. A notification or remote monitoring system is required where such an entrance is locked. (§F206.4, Ex. 2)"
+text= "These requirements also apply when alterations are made to qualified historic facilities. However, if making a public entrance accessible would threaten or destroy a facility’s historic significance (as determined by the appropriate State Historic Preservation Official or Advisory Council on Historic Preservation), access can be provided to a non-public entrance instead. A notification or remote monitoring system is required where such an entrance is locked. (§F206.4, Ex. 2)"
 img-file= "chapter4/4edg7.jpg"
 img-alt= "Historic facility"
 %}
@@ -90,9 +90,9 @@ img-alt= "Historic facility"
 
 ### Doors, Doorways and Gates
 
-[[§F206.5]({{ site.baseurl }}/aba/#aba-f206_5) and [§404]({{ site.baseurl }}/aba/#aba-404)]
+[[§F206.5]({{ site.baseurl }}/aba/#aba-f206_5) and [§404]({{ site.baseurl }}/aba/#aba-404)]
 
-Compliance is required for doors, doorways, and gates providing user passage on accessible routes.  At least one accessible door, doorway, or gate serving each accessible room, space, and entrance must comply.
+Compliance is required for doors, doorways, and gates providing user passage on accessible routes.  At least one accessible door, doorway, or gate serving each accessible room, space, and entrance must comply.
 
 #### Manual Doors and Gates 
 [[§404.2]({{ site.baseurl }}/aba/#aba-404_2)]
@@ -131,16 +131,16 @@ Required maneuvering clearances provide space for opening and proceeding through
       <span class="grid-line text-italic">Maneuvering clearances must be free of protrusions the full height (80" min.) and changes in level (other than thresholds).</span>
     </div>
   </div>
-</div>    
+</div>    
 
- ![Vestibule with offset pair doors with maneuvering clearance at each doorway on both side.  Note:  Door maneuvering clearances can overlap.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg13a.JPG){: .img-large}
+ ![Vestibule with offset pair doors with maneuvering clearance at each doorway on both side.  Note:  Door maneuvering clearances can overlap.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg13a.JPG){: .img-large}
 
-<p class="text-italic text-center margin-6">Maneuvering clearances are specified according to direction of approach, swing of doors, and in some cases the presence of a closer or latch.  They are required on both sides of doors or gates except at those that can be used in one direction only.</p>
+<p class="text-italic text-center margin-6">Maneuvering clearances are specified according to direction of approach, swing of doors, and in some cases the presence of a closer or latch.  They are required on both sides of doors or gates except at those that can be used in one direction only.</p>
 
 <div class="clearfix border" style="padding: 5px;" markdown="1">
 ![Hospital symbol ("H")]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg14.jpg){: .float-left .thumbnail}
 
-Clearance beyond the latch side is not required at entry doors to hospital patient rooms.  Such doors are usually wider to accommodate beds and gurneys, and they are often located close to adjacent interior walls to facilitate circulation and to enhance privacy.
+Clearance beyond the latch side is not required at entry doors to hospital patient rooms.  Such doors are usually wider to accommodate beds and gurneys, and they are often located close to adjacent interior walls to facilitate circulation and to enhance privacy.
 </div>
 
 ### Recessed Doors and Gates
@@ -149,7 +149,7 @@ Clearance beyond the latch side is not required at entry doors to hospital patie
 
 ![Door maneuvering clearance 8” max. from face of the door.  Note:  The maneuvering clearance is measured from the wall but cannot be offset more than 8” from the face of the door.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg15a.jpg){: .img-full}
 
-Thick walls, casework, shelving, columns and other elements can cause doors or gates to be recessed.  If any obstruction within 18” of the latch side projects more than 8” from the face of a door or gate, maneuvering clearances for a forward approach must be provided.  This space must be inset at obstructions so that it is no more than 8” from the face of the door or gate.
+Thick walls, casework, shelving, columns and other elements can cause doors or gates to be recessed.  If any obstruction within 18” of the latch side projects more than 8” from the face of a door or gate, maneuvering clearances for a forward approach must be provided.  This space must be inset at obstructions so that it is no more than 8” from the face of the door or gate.
 
 <div class="grid-container">
   <div class="grid-row">
@@ -164,7 +164,7 @@ forward approach 8 inches max from face of the door">
       <span class="grid-line text-italic">At deeper recesses, the maneuvering clearance must be sized for a forward approach and located 8" maximum from the face of the door.</span>
     </div>
   </div>
-</div>   
+</div>   
 
 ### Thresholds
 
@@ -173,7 +173,7 @@ forward approach 8 inches max from face of the door">
 <div class="clearfix" markdown="1">
 ![Threshold at door]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg18.jpg){: .img-right}
 
-The height of thresholds is limited to 1/2” in new construction.  The edge must be beveled 1:2 maximum above a height of 1/4”.  A maximum height of 3/4” is permitted for existing or altered thresholds if they have a beveled edge on each side with a slope not steeper than 1:2.  These requirements apply to all types of doors required to comply, including sliding doors.
+The height of thresholds is limited to 1/2” in new construction.  The edge must be beveled 1:2 maximum above a height of 1/4”.  A maximum height of 3/4” is permitted for existing or altered thresholds if they have a beveled edge on each side with a slope not steeper than 1:2.  These requirements apply to all types of doors required to comply, including sliding doors.
 </div>
 
 #### Threshold Profile
@@ -184,7 +184,7 @@ The height of thresholds is limited to 1/2” in new construction.  The edge mu
 
 [[§404.2.6]({{ site.baseurl }}/aba/#aba-404_2_6)]
 
-At hinged or pivoted doors or gates in series, a separation is required that is at least 48” plus the width of doors or gates swinging into the space.  This allows users to clear one door or gate before opening the next and applies to those doors or gates that are opposite each other where travel through both doors is required.
+At hinged or pivoted doors or gates in series, a separation is required that is at least 48” plus the width of doors or gates swinging into the space.  This allows users to clear one door or gate before opening the next and applies to those doors or gates that are opposite each other where travel through both doors is required.
 
 ![48” min. separation between swing of doors in series.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg20.jpg){: .img-large}
 
@@ -249,7 +249,7 @@ The opening force of exterior swing doors is impacted by wind loading and other 
 </div>
 
 {%include recommendation.html
-text= "Automation of exterior doors is recommended, especially where the opening force is likely to be significant.  (At GSA facilities, automation of entrance doors is required by GSA’s Public Building Service Standards.)  Otherwise, closers should be calibrated with the least force necessary for closure to minimize the opening force.  Difficulty opening manual entrance doors is a common access complaint."
+text= "Automation of exterior doors is recommended, especially where the opening force is likely to be significant.  (At GSA facilities, automation of entrance doors is required by GSA’s Public Building Service Standards.)  Otherwise, closers should be calibrated with the least force necessary for closure to minimize the opening force.  Difficulty opening manual entrance doors is a common access complaint."
 %}
 
 ### Door and Gate Surfaces
@@ -258,7 +258,7 @@ text= "Automation of exterior doors is recommended, especially where the opening
 
 ![Detail of wheelchair user’s feet and footrests at open door with kickplate]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg24.jpg){: .img-right .img-medium}
 
-The bottom surface of doors and gates on the push side must be smooth to a height of at least 10”.  This facilitates access since mobility aids, including wheelchair footrests, are sometimes used to push or prop open doors.  Kick plates can be used to help protect door surfaces, but any gaps or cavities between the kick plate and the door surface must be closed or capped.  Horizontal or vertical joints in this surface cannot exceed a 1/16” variation in plane.
+The bottom surface of doors and gates on the push side must be smooth to a height of at least 10”.  This facilitates access since mobility aids, including wheelchair footrests, are sometimes used to push or prop open doors.  Kick plates can be used to help protect door surfaces, but any gaps or cavities between the kick plate and the door surface must be closed or capped.  Horizontal or vertical joints in this surface cannot exceed a 1/16” variation in plane.
 
 These requirements do not apply to:
 
@@ -284,7 +284,7 @@ In addition to requirements for two-way communication systems provided at restri
 </div>
 
 {%include recommendation.html
-text= "Peepholes and other means of identifying visitors in mobility accessible guest rooms and dwelling units are not addressed by the Standards.  Products are available with prisms and optical lenses that do not require a close approach and can be easily used from standing and seated postures.  They are more effective than locating a regular peephole at a lower height which can impact visual identification of visitors."
+text= "Peepholes and other means of identifying visitors in mobility accessible guest rooms and dwelling units are not addressed by the Standards.  Products are available with prisms and optical lenses that do not require a close approach and can be easily used from standing and seated postures.  They are more effective than locating a regular peephole at a lower height which can impact visual identification of visitors."
 %}
 
 <div class="border clearfix padding-1 margin-y-05" markdown="1">
@@ -304,7 +304,7 @@ Manual doors, doorways, and gates that are designed to be operated only by secur
 <div class="clearfix" markdown="1">
 ![Label:  “Automatic Door – Caution”]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg29.jpg){: .float-right .img-medium}
 
-Doors are not required to be automated, but must comply when provided.  The Standards apply industry Standards developed under protocols of the American National Standards Institute (ANSI) and published by the Builders Hardware Manufacturers Association (BHMA).  The ANSI/BHMA Standards address operating characteristics, including opening speed, safety features, sensors and activation devices, and labeling, among others.  Doors are classified by their type or level of automation.
+Doors are not required to be automated, but must comply when provided.  The Standards apply industry Standards developed under protocols of the American National Standards Institute (ANSI) and published by the Builders Hardware Manufacturers Association (BHMA).  The ANSI/BHMA Standards address operating characteristics, including opening speed, safety features, sensors and activation devices, and labeling, among others.  Doors are classified by their type or level of automation.
 </div>
 
 ### Power-Assisted Doors and Gates
@@ -321,7 +321,7 @@ They are activated by initial manual force, switches, or sensors. Most reduce, b
 #### Low Energy Doors and Gates 
 [[§404.3]({{ site.baseurl }}/aba/#aba-404_3)
 
-Low energy doors and gates usually require activation by the user through a push plate or control and are often used in moderate traffic locations as an alternative to manual operation.  Most function like a manual type but with a powered opener and closer option.
+Low energy doors and gates usually require activation by the user through a push plate or control and are often used in moderate traffic locations as an alternative to manual operation.  Most function like a manual type but with a powered opener and closer option.
   
 ##### Automated Door (Low Energy)
 
@@ -337,7 +337,7 @@ Door and gate controls must be compliant as operable parts (operable with one ha
 
 <p class="text-italic text-center">Clear floor space at door control must be located outside door swing.</p>
 
- ![Door control push plate shown on adjacent wall with clear floor space located beyond door swing]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg33.jpg){: .img-large}
+ ![Door control push plate shown on adjacent wall with clear floor space located beyond door swing]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg33.jpg){: .img-large}
 
 {%include recommendation.html
 text= "Placing controls in locations that preclude backing-up will facilitate usability. The clear floor space is not required to be centered at controls, but should be located to facilitate reach and operation."
@@ -347,11 +347,11 @@ text= "Placing controls in locations that preclude backing-up will facilitate us
 
 [[§404.3]({{ site.baseurl }}/aba/#aba-404_3)]
 
-Full-powered automatic doors and gates are often found in grocery and retail stores, hotels, and airports to ease passage with shopping carts or luggage.  Most are automatically activated by mats or overhead sensors and do not require manual activation by users.
+Full-powered automatic doors and gates are often found in grocery and retail stores, hotels, and airports to ease passage with shopping carts or luggage.  Most are automatically activated by mats or overhead sensors and do not require manual activation by users.
 
 #### Automated Door (Full-Powered)
 
- ![Full-powered automated door.  Notes:  Clear Width 32” min. (clear opening with all leaves in open position (power on and off modes), Break Out Opening 32’ min. (emergency mode) for doors on means of egress without standby power (unless a compliant manual swinging door also serves the same means of egress), Threshold 1/2” max. high (beveled if above 1/4”), Maneuvering Clearance is required at those doors serving an accessible means of egress that either lack standby power or that do not stay open in power-off mode, Industry Standard Compliance with the ANSI/BHMA A156.10 (1999), Doors in Series 48” min. separation between the swing of doors in series, Revolving Doors and Gates (§404.3.7), Manual revolving doors and gates and turnstiles are not accessible and cannot be part of accessible routes. Automated revolving doors, including those sized to facilitate access, do not meet the Standards. If they are provided at an accessible entrance, a compliant manual or automated door is also required.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg34.jpg){: .img-large}
+ ![Full-powered automated door.  Notes:  Clear Width 32” min. (clear opening with all leaves in open position (power on and off modes), Break Out Opening 32’ min. (emergency mode) for doors on means of egress without standby power (unless a compliant manual swinging door also serves the same means of egress), Threshold 1/2” max. high (beveled if above 1/4”), Maneuvering Clearance is required at those doors serving an accessible means of egress that either lack standby power or that do not stay open in power-off mode, Industry Standard Compliance with the ANSI/BHMA A156.10 (1999), Doors in Series 48” min. separation between the swing of doors in series, Revolving Doors and Gates (§404.3.7), Manual revolving doors and gates and turnstiles are not accessible and cannot be part of accessible routes. Automated revolving doors, including those sized to facilitate access, do not meet the Standards. If they are provided at an accessible entrance, a compliant manual or automated door is also required.  ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg34.jpg){: .img-large}
 
 ### Common Questions
 

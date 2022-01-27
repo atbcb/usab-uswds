@@ -10,7 +10,7 @@ THIS REPORT REPRESENTS THE RECOMMENDATIONS OF THE PASSENGER VESSEL ACCESS ADVISO
 
 *NOTE: Any proposed rule concerning passenger vessel access will be made through the federal rulemaking process. This report is not part of any rulemaking.*
 
-In developing this report, the committee primarily used as a guide the recommendations contained in the Americans with Disabilities Act Accessibility Guidelines (ADAAG) Review Advisory Committee report (ADAAG-R) which was developed to assist the Access Board in revising the ADA Accessibility Guidelines for Buildings and Facilities. The PVAAC applied the recommendations in the ADAAG-R to passenger vessels and then modified those "building" provisions which were problematic when applied to vessels. The PVAAC was unable to evaluate all provisions in the ADAAG-R.
+In developing this report, the committee primarily used as a guide the recommendations contained in the Americans with Disabilities Act Accessibility Guidelines (ADAAG) Review Advisory Committee report (ADAAG-R) which was developed to assist the Access Board in revising the ADA Accessibility Guidelines for Buildings and Facilities. The PVAAC applied the recommendations in the ADAAG-R to passenger vessels and then modified those "building" provisions which were problematic when applied to vessels. The PVAAC was unable to evaluate all provisions in the ADAAG-R.
 
 In order to focus its resources, the committee decided to provide access recommendations to the Board for passenger vessels which fall under subchapters K or H of the US Coast Guard regulations (see 46 CFR 70 - 80 and 114 - 122) and vessels subject to subchapters C or T (see 46 CFR 24 - 28 and 175 - 185) which are typically smaller vessels.
 

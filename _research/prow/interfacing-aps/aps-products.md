@@ -14,29 +14,29 @@ Figure 3 presents a product matrix that lists various types of APS products and 
 
 | **Matrix of Accessible\
 Pedestrian Signal Functions** | ![](https://www.access-board.gov/images/research/interface-aps/report2.jpg) |
-| **TYPE** |   |   |   |   |   |   |   |   |   |   |   |
-| Pedhead mounted | O |   | X | X |   |   | O |   |   | X | X |
-| Pushbutton integrated | X | O |   | O | X | X | X |   |   |   |   |
-| Vibrotactile |   | X |   |   |   |   |   |   |   |   |   |
-| Receiver based |   |   |   |   |   |   |   | X | X |   |   |
-| **WALK INDICATIONS** |   |   |   |   |   |   |   |   |   |   |   |
-| Tones | X | O | X | X | X | X | X |   |   | X | X |
-| Speech messages | X |   |   | O | O | X | X | X | X |   |   |
-| Vibrating surface | X | X |   | O | X | X | O | 0 |   |   |   |
-| Message to receiver |   |   |   |   |   |   |   | X | X |   |   |
-| Audible beaconing | O |   |   | X |   | X | O |   |   |   |   |
-| **OTHER FEATURES** |   |   |   |   |   |   |   |   |   |   |   |
-| Pushbutton locator tone | X | X |   | O | X | X | X |   |   |   |   |
-| Tactile arrow | X | X |   | 0 | X | X | X |   |   |   |   |
-| Pushbutton information message | 0 |   |   | 0 |   | 0 | 0 |   |   |   |   |
-| Automatic volume adjustment | X |   |   | X | X | X | X |   |   | X |   |
-| Alert tone | 0 |   |   |   | X |   |   |   |   |   |   |
-| Actualtion indicator | X |   |   | O | O | X | X |   |   |   |   |
-| Tactile Map |   |   |   |   |   |   | X |   |   |   |   |
-| Braille & raised print information | O |   |   |   |   | O |   |   |   |   |   |
-| Extended button press | O |   |   | O | O | X |   |   |   |   |   |
-| Passive sensor circuit | X |   |   |   |   |   |   |   |   |   |   |
-| Clearance interval tones | O |   |   | O |   | O |   |   |   |   |   |
+| **TYPE** |   |   |   |   |   |   |   |   |   |   |   |
+| Pedhead mounted | O |   | X | X |   |   | O |   |   | X | X |
+| Pushbutton integrated | X | O |   | O | X | X | X |   |   |   |   |
+| Vibrotactile |   | X |   |   |   |   |   |   |   |   |   |
+| Receiver based |   |   |   |   |   |   |   | X | X |   |   |
+| **WALK INDICATIONS** |   |   |   |   |   |   |   |   |   |   |   |
+| Tones | X | O | X | X | X | X | X |   |   | X | X |
+| Speech messages | X |   |   | O | O | X | X | X | X |   |   |
+| Vibrating surface | X | X |   | O | X | X | O | 0 |   |   |   |
+| Message to receiver |   |   |   |   |   |   |   | X | X |   |   |
+| Audible beaconing | O |   |   | X |   | X | O |   |   |   |   |
+| **OTHER FEATURES** |   |   |   |   |   |   |   |   |   |   |   |
+| Pushbutton locator tone | X | X |   | O | X | X | X |   |   |   |   |
+| Tactile arrow | X | X |   | 0 | X | X | X |   |   |   |   |
+| Pushbutton information message | 0 |   |   | 0 |   | 0 | 0 |   |   |   |   |
+| Automatic volume adjustment | X |   |   | X | X | X | X |   |   | X |   |
+| Alert tone | 0 |   |   |   | X |   |   |   |   |   |   |
+| Actualtion indicator | X |   |   | O | O | X | X |   |   |   |   |
+| Tactile Map |   |   |   |   |   |   | X |   |   |   |   |
+| Braille & raised print information | O |   |   |   |   | O |   |   |   |   |   |
+| Extended button press | O |   |   | O | O | X |   |   |   |   |   |
+| Passive sensor circuit | X |   |   |   |   |   |   |   |   |   |   |
+| Clearance interval tones | O |   |   | O |   | O |   |   |   |   |   |
 
 > > Notes: X = Standard feature; O = Optional feature.
 
@@ -310,8 +310,8 @@ Pushbutton-integrated BPC APS
 
 | ![Panich device with large tactile arrow and large pushbutton.](https://www.access-board.gov/images/research/interface-aps/report12.jpg) | ![Pushbutton mounted on a pole in Australia.](https://www.access-board.gov/images/research/interface-aps/report13.jpg) |
 | Figure 10 (left): Panich device with large tactile arrow and large pushbutton. | Figure 11 (middle): Pushbutton mounted on a pole in Australia. |
-| ![Driver unit that is to be mounted on the pole near the pedhead, shown with housing closed and open.](https://www.access-board.gov/images/research/interface-aps/report14.jpg) |   |
-| Figure 12 (right): Driver unit that is to be mounted on the pole near the pedhead, shown with housing closed and open. |   |
+| ![Driver unit that is to be mounted on the pole near the pedhead, shown with housing closed and open.](https://www.access-board.gov/images/research/interface-aps/report14.jpg) |   |
+| Figure 12 (right): Driver unit that is to be mounted on the pole near the pedhead, shown with housing closed and open. |   |
 
 #### Standard features
 
@@ -369,7 +369,7 @@ Bob Panich Consultancy Pty. Ltd., Ryde, New South Wales, Australia\
 Pushbutton-integrated Navigator APS
 
  | ![Polara Navigator unit installed on a stub pole in Silver Spring, MD.](https://www.access-board.gov/images/research/interface-aps/report15.jpg) | ![Polara unit photo showing vibrotactile arrow on pushbutton.](https://www.access-board.gov/images/research/interface-aps/report16.jpg) |
-|   | Figure 13: Polara Navigator unit installed on a stub pole in Silver Spring, MD. | Figure 14: Polara unit photo showing vibrotactile arrow on pushbutton. |
+|   | Figure 13: Polara Navigator unit installed on a stub pole in Silver Spring, MD. | Figure 14: Polara unit photo showing vibrotactile arrow on pushbutton. |
 
 #### Standard features
 
@@ -599,7 +599,7 @@ Receiver-based
 
 Additional landmark information can be included in the orientation message, as this information is received before users reach the intersection, and it does not interfere wit their ability to hear or attend to traffic and signal information when they are at the crosswalk.
 
-Developments in the technology and installation may include radio transmitted speech or vibratory information to alert travelers to locations where transmitters are installed. This technology, developed under the direction of the Japan National Police Agency, is compatible with the Smith-Kettlewell/Talking Signs® standard.
+Developments in the technology and installation may include radio transmitted speech or vibratory information to alert travelers to locations where transmitters are installed. This technology, developed under the direction of the Japan National Police Agency, is compatible with the Smith-Kettlewell/Talking Signs® standard.
 
 #### How Talking Signs works
 
@@ -744,7 +744,7 @@ Campbell Company\
 Boise, Idaho 83714\
 Phone: (877) 345-1727, (208) 345-7459\
 Fax: (208) 345-7481\
-Web: [www.pedsafety.com](http://www.pedsafety.com/)
+Web: [www.pedsafety.com](http://www.pedsafety.com/)
 
 Georgetown Electric, Ltd.\
 2507 West Second Street\
@@ -757,7 +757,7 @@ Mallory Sonalert Products, Inc.\
 Indianapolis, IN 46214\
 Phone: (317) 612-1000\
 Fax: (317) 612-10\
-Web: [www.mallory-sonalert.com](http://www.mallory-sonalert.com/)
+Web: [www.mallory-sonalert.com](http://www.mallory-sonalert.com/)
 
 Novax Industries, Inc\
 658 Derwent Way\
@@ -765,7 +765,7 @@ New Westminster, BC\
 V3M5P8 Canada\
 Phone: (604) 525-5644\
 Fax: (604) 525-2739\
-Web: [www.novax.com](http://www.novax.com/)
+Web: [www.novax.com](http://www.novax.com/)
 
 Bob Panich Consultancy Pty. Ltd.\
 48 Church Street\
@@ -773,7 +773,7 @@ P.O. Box 360\
 Ryde, NSW 2112, Australia\
 Phone: 61 2 9809 6499\
 Fax: 61 2 9809 6962\
-Web: [www.bobpanich.com.au](http://www.bobpanich.com.au/)
+Web: [www.bobpanich.com.au](http://www.bobpanich.com.au/)
 
 Polara Engineering\
 4115 Artesia Avenue\
@@ -781,14 +781,14 @@ Fullerton , CA 92833-2520\
 Phone: (888) 340-4872\
 Phone: (714) 521-0900\
 Fax: (714) 522-8001\
-Web: [www.polara.com](http://www.polara.com/)
+Web: [www.polara.com](http://www.polara.com/)
 
 Prisma Teknik AB\
 P.O. Box 5, S-543 21\
 Tibro, Sweden\
 Phone: (46) 504 150 40\
 Fax: (46) 504 141 41\
-Web: [www.prismateknik.com](http://www.prismateknik.com/)
+Web: [www.prismateknik.com](http://www.prismateknik.com/)
 
 Prisma Teknik US distributor:\
 Eagle Traffic Control Systems\
@@ -796,33 +796,33 @@ Eagle Traffic Control Systems\
 Austin, TX 78754\
 Phone: (512) 837-8310\
 Fax: (512) 837-0196\
-E-Mail: <info@eagletcs.com>\
-Web: [www.eagletcs.com](http://www.eagletcs.com/)
+E-Mail: <info@eagletcs.com>\
+Web: [www.eagletcs.com](http://www.eagletcs.com/)
 
 Relume Corporation\
 64 Park Street\
 Troy, MI 48083\
 Phone: 888-7RELUME, (248) 585-2640\
 Fax: (248) 585-1909\
-Web: [www.relume.com](http://www.relume.com/)
+Web: [www.relume.com](http://www.relume.com/)
 
 Talking Signs Inc.\
 812 North Blvd.\
 Baton Rouge, LA 70802\
 Phone: (888) 825-5746\
 Fax: (504) 344-2811\
-Web: [www.talkingsigns.com](http://www.talkingsigns.com/)
+Web: [www.talkingsigns.com](http://www.talkingsigns.com/)
 
 U.S. Traffic Corporation\
 9603 John Street\
 Santa Fe Springs, CA 90670\
 Phone: (562) 923-9600, (800) 733-7872\
 Fax: (562) 923-7555\
-Web: [www.ustraffic.net](http://www.ustraffic.net/)
+Web: [www.ustraffic.net](http://www.ustraffic.net/)
 
 Wilcox Sales Company\
 1738 Finecroft Drive\
 Claremont, CA 91711-2411\
 Phone: (909) 624-6674\
 Fax: (909) 624-8207\
-Web: [www.wilcoxsales.com](http://www.wilcoxsales.com/)
+Web: [www.wilcoxsales.com](http://www.wilcoxsales.com/)

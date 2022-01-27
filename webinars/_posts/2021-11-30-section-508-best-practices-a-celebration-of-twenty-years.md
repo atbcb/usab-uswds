@@ -43,20 +43,20 @@ To allow more time for the speakers, there will be no live question and answer s
 
 ### Speakers
 
-[David Capozzi](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10906), Board Member, **United Spinal Association, Inc.**
+[David Capozzi](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10906), Board Member, **United Spinal Association, Inc.**
 
-[Sachin D. Pavithran, PhD](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10910), Executive Director, **U.S. Access Board**
+[Sachin D. Pavithran, PhD](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10910), Executive Director, **U.S. Access Board**
 
-[William Peterson](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10907), Former Executive Director (Retired), **Office of Accessible Systems & Technology-Department of Homeland Security (OAST)**
+[William Peterson](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10907), Former Executive Director (Retired), **Office of Accessible Systems & Technology-Department of Homeland Security (OAST)**
 
-[John Sullivan](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10909), Government-wide Section 508 Program Director, **General Services Administration**
+[John Sullivan](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10909), Government-wide Section 508 Program Director, **General Services Administration**
 
-[Terry Weaver](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10908), President, **Weaver Consulting LLC**
+[Terry Weaver](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10908), President, **Weaver Consulting LLC**
 
 ### Session Questions
 
-This session is accepting questions from registered users. After you have registered to participate in this session you can submit your questions on your **[Account Manager page.](https://www.accessibilityonline.org/cioc-508/accountManager/110975)** Please note: the number of questions will be limited and submissions will be closed well before the session starts to provide time to prepare answers.
+This session is accepting questions from registered users. After you have registered to participate in this session you can submit your questions on your **[Account Manager page.](https://www.accessibilityonline.org/cioc-508/accountManager/110975)** Please note: the number of questions will be limited and submissions will be closed well before the session starts to provide time to prepare answers.
 
 ### Privacy Statement
 
-In order to register for this webinar you will need to create an account and provide, at a minimum, your name, email address, phone number, city, and country. If you do not wish to create an account, you may watch this webinar after it has been recorded. Webinars are typically posted 2 days after the live session. You can access our previously recorded webinars at this [link.](https://www.accessibilityonline.org/cioc-508/archives/) Be advised that in order to obtain continuing education credits you must register and create an account. See [Continuing Education Recognition Request Policy.](https://www.accessibilityonline.org/continuing-education/CEUDetails.aspx)
+In order to register for this webinar you will need to create an account and provide, at a minimum, your name, email address, phone number, city, and country. If you do not wish to create an account, you may watch this webinar after it has been recorded. Webinars are typically posted 2 days after the live session. You can access our previously recorded webinars at this [link.](https://www.accessibilityonline.org/cioc-508/archives/) Be advised that in order to obtain continuing education credits you must register and create an account. See [Continuing Education Recognition Request Policy.](https://www.accessibilityonline.org/continuing-education/CEUDetails.aspx)

@@ -16,9 +16,9 @@ Tests of the surfaces with the rotational penetrometer (Figure 3 and 4) began on
 
 Figure 3. Rotational penetrometer shown in use on surface A2.
 
-![Rotational penetrometer reading on test surface showing higher surface stability (photo)]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig7.jpg) 
+![Rotational penetrometer reading on test surface showing higher surface stability (photo)]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig7.jpg) 
 
- Figure 3. Rotational penetrometer shown in use on surface A2.
+ Figure 3. Rotational penetrometer shown in use on surface A2.
 
 ![Rotational Betrometer reading on silicone coated EWF shows poor stability (photo)]({{site.baseurl}}/images/research/exterior-surfaces/engineered-wood-fiber/playground-surfaces-2003/fig6.jpg)
 
@@ -50,7 +50,7 @@ Figure 4. After the rotational penetrometer caster wheel is rotated on the surfa
 
 The classifications of firmness and stability, as categorized by Axelson and Chesney (1999), were used as appropriate for these comparisons during the six months of testing. These rankings were developed after extensive surface testing with full-scale (400 m) test courses. The total mechanical energy expended by 39 human subjects traversing these courses was correlated with the rotational penetrometer device readings to indicate which surfaces presented a physiological challenge to the ambulatory disabled and users of mobility aids. Moderately Firm and Moderately Stable rankings were deemed acceptable for short distances traveled. Play areas would be considered short distances for travel whereas trails and paths would be considered long distances and would require the Firm and Stable rankings.
 
-*Firmness* is a direct measure of the depression of a surface when a controlled load is placed on it. The categories suggested by Axelson and Chesney (1999) are:
+*Firmness* is a direct measure of the depression of a surface when a controlled load is placed on it. The categories suggested by Axelson and Chesney (1999) are:
 
 Firm (depresses 7.6 mm [.3"])or less,
 
@@ -60,7 +60,7 @@ Not Firm (depresses 12.7mm [.5"] or more).
 
 In only one instance, there was a surface rated as Not Firm. For one reading in May the A2 surface (a silicone binder) became Not Firm. Most of the polyurethane readings from surfaces C, D,and H, yield ratings of Firm. During the heat, and dryness, of summer, the polyurethanes as a class, moved into the Moderately Firm ranking and then by Fall, all three polyurethanes moved back to Firm at the end of testing. All other surfaces, including the EWF consistently were rated as Moderately Firm.
 
-*Stability* is a measure that includes the simulated wheelchair caster's depression of the surface and its ability to resist further erosion/indentation due to four 90-degree rotational movements of the simulated wheelchair caster. Axelson and Chesney suggested Stability rankings similar to the way firmness was ranked:
+*Stability* is a measure that includes the simulated wheelchair caster's depression of the surface and its ability to resist further erosion/indentation due to four 90-degree rotational movements of the simulated wheelchair caster. Axelson and Chesney suggested Stability rankings similar to the way firmness was ranked:
 
 Stable (indents/erodes surface 12.7mm[.5"] or less),
 
@@ -82,7 +82,7 @@ On September 24, 2002, a sunny day with a temperature of 15C, Doug Zeager and Te
 Phase I surfaces (unaged) and Phase II (exposed for 6 months)
 
 | Surface/Test | Drop 2 G | Drop3G | Drop2 HIC | Drop 3 HIC |
-|   | Phase I | Phase II | Phase I | Phase II | Phase I | Phase II | Phase I | Phase II |
+|   | Phase I | Phase II | Phase I | Phase II | Phase I | Phase II | Phase I | Phase II |
 | A2 | 52 | 72 | 57 | 71 | 244 | 275 | 272 | 265 |
 | B | 53 | 81 | 62 | 79 | 213 | 308 | 251 | 320 |
 | C | 67 | 139 | 62 | 130 | 332 | 825 | 315 | 740 |

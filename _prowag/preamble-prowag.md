@@ -4,39 +4,39 @@ order-number: 0.1
 ---
 ## Proposed Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
-Published in the *Federal Register* on July 26, 2011.
+Published in the *Federal Register* on July 26, 2011.
 
 36 CFR Part 1190\
 Docket No. ATBCB 2011-04
 
-*Note:* On February 13, 2013, the Access Board issued a [notice](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice) to supplement the proposed guidelines for public rights-of-way to address shared use paths.
+*Note:* On February 13, 2013, the Access Board issued a [notice](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/shared-use-paths/supplemental-notice) to supplement the proposed guidelines for public rights-of-way to address shared use paths.
 
-**AGENCY:** Architectural and Transportation Barriers Compliance Board.
+**AGENCY:** Architectural and Transportation Barriers Compliance Board.
 
-**ACTION:** Notice of Proposed Rulemaking.
+**ACTION:** Notice of Proposed Rulemaking.
 
 **SUMMARY:** The Architectural and Transportation Barriers Compliance Board is proposing accessibility guidelines for the design, construction, and alteration of pedestrian facilities in the public right-of-way. The guidelines ensure that sidewalks, pedestrian street crossings, pedestrian signals, and other facilities for pedestrian circulation and use constructed or altered in the public right-of-way by state and local governments are readily accessible to and usable by pedestrians with disabilities. When the guidelines are adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing the Americans with Disabilities Act, Section 504 of the Rehabilitation Act, and the Architectural Barriers Act, compliance with the accessibility standards is mandatory.
 
-**DATES:** Submit comments by November 23, 2011. Hearings will be held on the proposed guidelines on the following dates:
+**DATES:** Submit comments by November 23, 2011. Hearings will be held on the proposed guidelines on the following dates:
 
 1.  September 12, 2011, 9:30 to 11:30 a.m., Dallas, TX.
 2.  November 9, 2011, 9:30 to 11:30 a.m., Washington, DC.
 
-**ADDRESSES:** Submit comments by any of the following methods:
+**ADDRESSES:** Submit comments by any of the following methods:
 
--   Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov/). Follow the instructions for submitting comments. Regulations.gov ID for this docket is ATBCB-2011-0004.
--   E-mail: <row@access-board.gov>. Include docket number ATBCB 2011-04 in the subject line of the message.
+-   Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov/). Follow the instructions for submitting comments. Regulations.gov ID for this docket is ATBCB-2011-0004.
+-   E-mail: <row@access-board.gov>. Include docket number ATBCB 2011-04 in the subject line of the message.
 -   Fax: 202-272-0081.
 -   Mail or Hand Delivery/Courier: Office of Technical and Informational Services, Access Board, 1331 F Street, NW, Suite 1000, Washington, DC 20004-1111.
 
-All comments will be posted without change to [http://www.regulations.gov](http://www.regulations.gov/), including any personal information provided.
+All comments will be posted without change to [http://www.regulations.gov](http://www.regulations.gov/), including any personal information provided.
 
 The hearing locations are:
 
-1.  Dallas -- Sheraton Dallas (San Antonio A Ballroom), 400 North Olive Street, Dallas, TX  75201.
+1.  Dallas -- Sheraton Dallas (San Antonio A Ballroom), 400 North Olive Street, Dallas, TX  75201.
 2.  Washington, DC -- Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004.
 
-**FOR FURTHER INFORMATION CONTACT:** Scott Windley, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street NW, Suite 1000, Washington, DC 20004-1111. Telephone (202) 272-0025 (voice) or (202) 272-0028 (TTY). E-mail address <row@access-board.gov>.
+**FOR FURTHER INFORMATION CONTACT:** Scott Windley, Office of Technical and Information Services, Architectural and Transportation Barriers Compliance Board, 1331 F Street NW, Suite 1000, Washington, DC 20004-1111. Telephone (202) 272-0025 (voice) or (202) 272-0028 (TTY). E-mail address <row@access-board.gov>.
 
 **SUPPLEMENTARY INFORMATION:**
 
@@ -170,7 +170,7 @@ In the absence of the proposed guidelines, the regulatory assessment assumes tha
 
 #### Table 1. Proposed Guidelines Contain Same Requirements as in DOJ 2010 Standards
 
-Table 1 analyzes requirements in the proposed guidelines that are the same as requirements in the DOJ 2010 Standards.[24](http://www.access-board.gov/prowac/nprm.htm#24) The requirements in the proposed guidelines in Table 1 will have no impacts on state and local transportation departments compared to the requirements in the DOJ 2010 Standards because the requirements are the same.
+Table 1 analyzes requirements in the proposed guidelines that are the same as requirements in the DOJ 2010 Standards.[24](http://www.access-board.gov/prowac/nprm.htm#24) The requirements in the proposed guidelines in Table 1 will have no impacts on state and local transportation departments compared to the requirements in the DOJ 2010 Standards because the requirements are the same.
 
 #### Table 2. Proposed Guidelines Adapt Requirements in DOJ 2010 Standards
 
@@ -195,15 +195,15 @@ The analysis identified three requirements in the proposed guidelines in Table 3
 
 The impacts of these requirements are analyzed in the regulatory assessment and are discussed below under the relevant requirements in the Section-by-Section Analysis.
 
-*Question 1.* Comments are requested on whether other requirements in the proposed guidelines will have more than minimal impacts on state and local transportation departments, in addition to the requirements identified in Tables 2 and 3. Comments should:
+*Question 1.* Comments are requested on whether other requirements in the proposed guidelines will have more than minimal impacts on state and local transportation departments, in addition to the requirements identified in Tables 2 and 3. Comments should:
 
 -   Identify the requirement by section number or other information that identifies the specific requirement;
 -   Explain why the requirement will have more than minimal impacts using the factors described above or other appropriate factors; and
 -   Provide estimates of the additional costs due to the requirement compared to the total design and construction costs for the element or facility.
 
-*Question 2.* Comments are requested on whether the requirements in the proposed guidelines have any unintended positive or negative consequences.
+*Question 2.* Comments are requested on whether the requirements in the proposed guidelines have any unintended positive or negative consequences.
 
-*Question 3.* Comments are requested on alternative regulatory approaches for achieving the objectives of the Americans with Disabilities Act, Section 504, and Architectural Barriers Act to eliminate the discriminatory effects of architectural, transportation, and communication barriers in the design and construction of pedestrian facilities in the public right-of-way.
+*Question 3.* Comments are requested on alternative regulatory approaches for achieving the objectives of the Americans with Disabilities Act, Section 504, and Architectural Barriers Act to eliminate the discriminatory effects of architectural, transportation, and communication barriers in the design and construction of pedestrian facilities in the public right-of-way.
 
 ---
 
@@ -231,7 +231,7 @@ Conventional industry tolerances apply where dimensions are not stated as a rang
 
 ##### R104 Referenced Standards
 
-The proposed guidelines incorporate by reference certain standards in the 2009 edition of the Manual on Uniform Traffic Control Devices for Streets and Highways (MUTCD). The referenced MUTCD standards are discussed below under the relevant requirements regarding the provision of alternate pedestrian access routes when a pedestrian circulation path is temporarily closed, the provision of accessible pedestrian signals and pedestrian pushbuttons, and pedestrian signal phase timing. The MUTCD is available on the Federal Highway Administration website at: [http://mutcd.fhwa.dot.gov](http://mutcd.fhwa.dot.gov/).
+The proposed guidelines incorporate by reference certain standards in the 2009 edition of the Manual on Uniform Traffic Control Devices for Streets and Highways (MUTCD). The referenced MUTCD standards are discussed below under the relevant requirements regarding the provision of alternate pedestrian access routes when a pedestrian circulation path is temporarily closed, the provision of accessible pedestrian signals and pedestrian pushbuttons, and pedestrian signal phase timing. The MUTCD is available on the Federal Highway Administration website at: [http://mutcd.fhwa.dot.gov](http://mutcd.fhwa.dot.gov/).
 
 ##### R105 Definitions
 
@@ -338,11 +338,11 @@ State and local transportation departments are divided into four groups for the 
 
     Thus, local transportation departments in Group 3 were required to provide detectable warning surfaces on curb ramps before September 15, 2010; may or may not be required to provide detectable warning surfaces on curb ramps between September 15, 2010 and March 14, 2012 depending on the accessibility standard they use (DOJ 1991 Standards or DOJ 2010 Standards); and are not required to provide detectable warning surfaces on curb ramps on or after March 15, 2012 pending the future adoption of accessibility standards for pedestrian facilities in the public right-of-way by the Department of Justice.
 
-*Question 5.* The Access Board seeks information on whether local transportation departments in Group 3 will continue or discontinue providing detectable warning surfaces on curb ramps in the public right-of-way pending the future adoption of accessibility standards for pedestrian facilities in the public right-of-way by the Department of Justice.
+*Question 5.* The Access Board seeks information on whether local transportation departments in Group 3 will continue or discontinue providing detectable warning surfaces on curb ramps in the public right-of-way pending the future adoption of accessibility standards for pedestrian facilities in the public right-of-way by the Department of Justice.
 
 -   Group 4 consists of state and local transportation departments that do not comply with accessibility standards for curb ramps in the public right-of-way. The Department of Justice and Federal Highway Administration have provided guidance on accessibility standards that apply to curb ramps in the public right-of-way, including the requirement for detectable warning surfaces.31 Despite the guidance provided by the Department of Justice and the Federal Highway Administration on the accessibility standards that apply to curb ramps in the public right-of-way, there may be state and local transportation departments that do not comply with the standards.
 
-*Question 6.* Comments are requested on whether the future adoption of accessibility standards for pedestrian facilities in the public right of way by the Department of Justice and Department of Transportation in regulations implementing Title II of the Americans with Disabilities Act and Section 504 will have a positive or negative effect, or no effect on the compliance rates of state and local transportation departments, particularly with respect to providing detectable warning surfaces on curb ramps.
+*Question 6.* Comments are requested on whether the future adoption of accessibility standards for pedestrian facilities in the public right of way by the Department of Justice and Department of Transportation in regulations implementing Title II of the Americans with Disabilities Act and Section 504 will have a positive or negative effect, or no effect on the compliance rates of state and local transportation departments, particularly with respect to providing detectable warning surfaces on curb ramps.
 
 *Question 7*. The Access Board seeks information on the number of curb ramps that are constructed or altered on an annual basis in the public right-of-way by state and local transportation departments.
 
@@ -393,7 +393,7 @@ $240
 </tr>
 </tbody>
 </table>
-*Question 8.* The Access Board seeks additional information on the costs for detectable warning materials (8 square feet) and installation of the materials on a typical curb ramp.
+*Question 8.* The Access Board seeks additional information on the costs for detectable warning materials (8 square feet) and installation of the materials on a typical curb ramp.
 
 ##### Detectable Warning Surfaces on Boarding Platforms Used by Buses and Rail Vehicles, and Boarding and Alighting Areas Used by Rail Vehicles
 
@@ -415,13 +415,13 @@ The National Federation of the Blind was a member of the advisory committee that
 
 The Transportation Equity Act for the 21st Century (TEA-21) directed that audible traffic signals be included in transportation plans and projects where appropriate. See 23 U.S.C. 217 (g). Some state and local transportation departments currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections. The requirement in the proposed guidelines for accessible pedestrian signals and pedestrian pushbuttons will have impacts on state and local transportation departments that do not currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections.
 
-*Question 9.* The Access Board seeks information on how many state and local transportation departments currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections.
+*Question 9.* The Access Board seeks information on how many state and local transportation departments currently provide accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections.
 
 ##### Costs to Provide Accessible Pedestrian Signals and Pedestrian Pushbuttons
 
 The Volpe Center estimated the additional cost for an accessible pedestrian pushbutton compared to conventional pushbutton is $350 per unit. For a typical intersection with four crosswalks, two accessible pedestrian pushbuttons would be required at each corner for a total of eight units per intersection and a total additional cost of $2,800 for the eight units. The cost of the units is expected to decrease as a result of the proposed guidelines due to greater standardization of customer requirements and increased orders. The total additional cost to provide accessible pedestrian signals and pedestrian pushbuttons, including labor and other equipment such as stub poles and conduit, will vary by location. The Volpe Center estimated that the total additional costs are $3,600 per intersection based on a published cost study and interviews with local transportation departments.
 
-*Question 10. *The Access Board seeks information from state and local transportation departments that currently provide accessible pedestrian signals and pedestrian pushbuttons on the additional costs to provide the accessible pedestrian signals and pedestrian pushbuttons.
+*Question 10. *The Access Board seeks information from state and local transportation departments that currently provide accessible pedestrian signals and pedestrian pushbuttons on the additional costs to provide the accessible pedestrian signals and pedestrian pushbuttons.
 
 The Volpe Center estimated that pedestrian signals are newly installed or replaced at 13,095 signalized intersections on an annual basis based on the following assumptions:
 
@@ -432,7 +432,7 @@ The Volpe Center estimated that pedestrian signals are newly installed or replac
 
 The Volpe Center estimated that the total annual costs are $47 million for requiring accessible pedestrian signals and pedestrian pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections.
 
-*Question 11.* Comments are requested on the assumptions used to estimate the total annual costs for requiring accessible pedestrian signals and pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections.
+*Question 11.* Comments are requested on the assumptions used to estimate the total annual costs for requiring accessible pedestrian signals and pushbuttons when pedestrian signals are newly installed or replaced at signalized intersections.
 
 #### R210 Protruding Objects
 
@@ -442,7 +442,7 @@ Objects that protrude into pedestrian circulation paths can be hazardous for ped
 
 Signs that provide directions, warnings, or other information for pedestrians only and signs that identify routes served by transit stops must comply with the technical requirements for visual characters in Chapter R4. An advisory section provides examples of signs that are required and are not required to comply with the technical requirements for visual characters in Chapter R4. Signs displaying the International Symbol of Accessibility must be provided at accessible parking spaces and accessible passenger loading zones.
 
-The 2004 ADA and ABA Accessibility Guidelines contain similar requirements for transit signs (see 810.4 and 810.6). In the 2004 ADA and ABA Accessibility Guidelines, characters on bus route signs must comply with the technical requirements for character height "to the maximum extent practicable."37 The phrase "to the maximum extent practicable" was intended to provide flexibility where there are restrictions on the size of signs.  A similar provision is not included in the proposed guidelines because it is almost always practicable to comply with the technical requirements for character height. 
+The 2004 ADA and ABA Accessibility Guidelines contain similar requirements for transit signs (see 810.4 and 810.6). In the 2004 ADA and ABA Accessibility Guidelines, characters on bus route signs must comply with the technical requirements for character height "to the maximum extent practicable."37 The phrase "to the maximum extent practicable" was intended to provide flexibility where there are restrictions on the size of signs.  A similar provision is not included in the proposed guidelines because it is almost always practicable to comply with the technical requirements for character height. 
 
 Audible sign systems and other technologies are widely used today to transmit information and are more usable by pedestrians who are blind or have low vision.38 Where audible sign systems and other technologies are used to transmit information equivalent to the information contained on signs, the signs are not required to comply with the technical requirements for visual characters in Chapter R4.
 
@@ -514,7 +514,7 @@ Cross slope is the slope perpendicular to the direction of pedestrian travel (se
 
 A maximum cross slope of 2 percent is specified for pedestrian access routes, except for pedestrian access routes contained within certain pedestrian street crossings in order to allow for typical roadway geometry. A 5 percent maximum cross slope is specified for pedestrian access routes contained within pedestrian street crossings without yield or stop control to avoid any unintended negative impacts on the control and safety of vehicles, their occupants, and pedestrians in the vicinity of the intersection. Pedestrian street crossings without yield or stop control are crossings where there is no yield or stop sign, or where there is a traffic signal that is designed for the green phase. At pedestrian street crossings without yield or stop control vehicles can proceed through the intersection without slowing or stopping. The cross slope of pedestrian access routes contained within midblock pedestrian street crossings is permitted to equal the street or highway grade.
 
-*Question 13.* Comments are requested on whether the description of pedestrian street crossings without yield or stop control is clear, or whether there is a better way to describe such crossings?
+*Question 13.* Comments are requested on whether the description of pedestrian street crossings without yield or stop control is clear, or whether there is a better way to describe such crossings?
 
 In new construction, where pedestrian access routes within sidewalks intersect at corners, the 2 percent maximum cross slope requirement will result in level corners (i.e., the slope at the corners will not exceed 2 percent in each direction of pedestrian travel). The level corners will provide a platform for providing level spaces for curb ramps and blended transitions, pedestrian street crossings, and accessible pedestrian signals and pedestrian pushbuttons.
 
@@ -634,9 +634,9 @@ The surfaces of boarding and alighting areas and boarding platforms must comply 
 
 Transit shelters must be connected by a pedestrian access route to boarding and alighting areas or boarding platforms. A clear space (see R404) must be provided entirely within the transit shelter. Where seating is provided within transit shelters, the clear space must be located either at the end of a seat, or not overlap the area within 460 millimeters (1.5 feet) from the front edge of the seat in order to not interfere with others using the seating. Environmental controls within transit shelters must be proximity actuated. Protruding objects within transit shelters must comply with the technical requirements for protruding objects (see R402).
 
-The Access Board is considering whether to require a turning space in transit shelters. Transit shelter designs vary. Some transit shelters are enclosed on three or four sides, with an opening for ingress and egress. The turning space would be based on the 2004 ADA and ABA Accessibility Guidelines (see 304.3).43  The turning space would be permitted to overlap the clear space within the transit shelter and the pedestrian access route, but would not be permitted to overlap the area within 460 millimeters (1.5 feet) from the front edge of seats in the transit shelter in order to not interfere with others using the seating. The portion of the turning space that does not overlap the clear space would be permitted to be outside the transit shelter.
+The Access Board is considering whether to require a turning space in transit shelters. Transit shelter designs vary. Some transit shelters are enclosed on three or four sides, with an opening for ingress and egress. The turning space would be based on the 2004 ADA and ABA Accessibility Guidelines (see 304.3).43  The turning space would be permitted to overlap the clear space within the transit shelter and the pedestrian access route, but would not be permitted to overlap the area within 460 millimeters (1.5 feet) from the front edge of seats in the transit shelter in order to not interfere with others using the seating. The portion of the turning space that does not overlap the clear space would be permitted to be outside the transit shelter.
 
-*Question 20*. Comments are requested on whether a turning space should be required in transit shelters and what impact such a requirement would have on the design and placement of transit shelters? 
+*Question 20*. Comments are requested on whether a turning space should be required in transit shelters and what impact such a requirement would have on the design and placement of transit shelters? 
 
 #### R309 On-Street Parking Spaces
 
@@ -724,7 +724,7 @@ Question 22. The Access Board seeks information on the design of shared streets 
 
 #### Executive Orders 12866 and 13563
 
-The Office of Management and Budget has reviewed this proposed rule pursuant to Executive Orders 12866 and 13563.47 The Access Board prepared a regulatory assessment of the potential costs and benefits of the proposed rule. The regulatory assessment is available on the Access Board website at: http://www.access-board.gov/prowac/index.htm, and is also available in the regulatory docket at [http://www.regulations.gov](http://www.regulations.gov/). The information in the regulatory assessment is discussed in the preamble under Impacts on State and Local Governments and under the relevant requirements in the Section-by-Section Analysis. The information in the regulatory assessment is also summarized in the tables below, As indicated in the tables below, the regulatory assessment does not include estimates of the total annual costs for two of the requirements in the proposed guidelines that will have more than minimal impacts because information is not available to estimate the costs. Questions are included in the preamble seeking additional information to assist the Board to estimate the total annual costs of these two requirements and to refine the cost estimates for the other requirements in the proposed guidelines. Consequently, the Access Board has not determined whether the proposed guidelines are an economically significant regulatory action.48 The Access Board will analyze the information received in response to the questions in the preamble. When the final guidelines are issued, the Access Board will revise the regulatory assessment and determine whether the guidelines are an economically significant regulatory action.
+The Office of Management and Budget has reviewed this proposed rule pursuant to Executive Orders 12866 and 13563.47 The Access Board prepared a regulatory assessment of the potential costs and benefits of the proposed rule. The regulatory assessment is available on the Access Board website at: http://www.access-board.gov/prowac/index.htm, and is also available in the regulatory docket at [http://www.regulations.gov](http://www.regulations.gov/). The information in the regulatory assessment is discussed in the preamble under Impacts on State and Local Governments and under the relevant requirements in the Section-by-Section Analysis. The information in the regulatory assessment is also summarized in the tables below, As indicated in the tables below, the regulatory assessment does not include estimates of the total annual costs for two of the requirements in the proposed guidelines that will have more than minimal impacts because information is not available to estimate the costs. Questions are included in the preamble seeking additional information to assist the Board to estimate the total annual costs of these two requirements and to refine the cost estimates for the other requirements in the proposed guidelines. Consequently, the Access Board has not determined whether the proposed guidelines are an economically significant regulatory action.48 The Access Board will analyze the information received in response to the questions in the preamble. When the final guidelines are issued, the Access Board will revise the regulatory assessment and determine whether the guidelines are an economically significant regulatory action.
 
 #### Baseline
 
@@ -982,11 +982,11 @@ Chair.
 
 4 Subtitle A of Title II of the Americans with Disabilities Act requires that the regulations issued by the Department of Justice include accessibility standards that are "consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board." 42 U.S.C. 12134(c). The accessibility standards issued by the Department of Justice can include additional or modified requirements provided they are consistent with the Access Board's guidelines.
 
-5 In September 2010, the Department of Justice issued regulations with revised accessibility standards for Titles II and III of the Americans with Disabilities Act (DOJ 2010 Standards). See 75 FR 56164 (September 15, 2010). Compliance with the DOJ 2010 Standards is required on or after March 15, 2012. State and local governments are permitted to comply with earlier standards (DOJ 1991 Standards without the elevator exception or UFAS) or the DOJ 2010 Standards between September 15, 2010 and March 14, 2012. Additional information on the applicable standards and their effective dates is available on the Department of Justice website at: <http://www.ada.gov/revised_effective_dates-2010.htm>. The DOJ 2010 Standards are available on the Department of Justice website at: <http://www.ada.gov/2010ADAstandards_index.htm>.
+5 In September 2010, the Department of Justice issued regulations with revised accessibility standards for Titles II and III of the Americans with Disabilities Act (DOJ 2010 Standards). See 75 FR 56164 (September 15, 2010). Compliance with the DOJ 2010 Standards is required on or after March 15, 2012. State and local governments are permitted to comply with earlier standards (DOJ 1991 Standards without the elevator exception or UFAS) or the DOJ 2010 Standards between September 15, 2010 and March 14, 2012. Additional information on the applicable standards and their effective dates is available on the Department of Justice website at: <http://www.ada.gov/revised_effective_dates-2010.htm>. The DOJ 2010 Standards are available on the Department of Justice website at: <http://www.ada.gov/2010ADAstandards_index.htm>.
 
 6 Parts I and II of Subtitle B of Title II of the Americans with Disabilities Act require that the regulations issued by the Department of Transportation include accessibility standards that are "consistent with the minimum guidelines and requirements issued by the Architectural and Transportation Barriers Compliance Board." 42 U.S.C. 12149 (b) and 12163. The accessibility standards issued by the Department of Transportation can include additional or modified requirements provided they are consistent with the Access Board's guidelines.
 
-7 See Department of Transportation "Policy Statement on Bicycle and Pedestrian Accommodation Regulations and Recommendations" at: <http://www.dot.gov/affairs/2010/bicycle-ped.html>.
+7 See Department of Transportation "Policy Statement on Bicycle and Pedestrian Accommodation Regulations and Recommendations" at: <http://www.dot.gov/affairs/2010/bicycle-ped.html>.
 
 8 The Architectural Barriers Act also covers facilities constructed, altered, or leased by federal agencies; and facilities constructed or altered by the Washington Metropolitan Area Transit Authority. See 42 U.S.C. 4151 (1), (2), and (4).
 
@@ -1023,10 +1023,10 @@ Sec.
 1190.1 Accessibility guidelines.
 Appendix to part 1190 -- Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way
 
-**Authority:** 29 U.S.C. 792 and 42 U.S.C. 12204.
+**Authority:** 29 U.S.C. 792 and 42 U.S.C. 12204.
 
 #### § 1190.1 Accessibility Guidelines.
 
-The accessibility guidelines for pedestrian facilities in the public right-of-way are set forth in the appendix to this part. When the guidelines are adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing the Americans with Disabilities Act, Section 504 of the Rehabilitation Act, and the Architectural Barriers Act, compliance with the accessibility standards is mandatory. A copy of the guidelines with figures is available on the Access Board website[.](http://www.access-board.gov/prowac/nprm.htm.) Except for the International Symbol of Accessibility in Figure R411, which is included in the appendix to this part, the figures are for illustration purposes only and do not establish requirements.
+The accessibility guidelines for pedestrian facilities in the public right-of-way are set forth in the appendix to this part. When the guidelines are adopted, with or without additions and modifications, as accessibility standards in regulations issued by other federal agencies implementing the Americans with Disabilities Act, Section 504 of the Rehabilitation Act, and the Architectural Barriers Act, compliance with the accessibility standards is mandatory. A copy of the guidelines with figures is available on the Access Board website[.](http://www.access-board.gov/prowac/nprm.htm.) Except for the International Symbol of Accessibility in Figure R411, which is included in the appendix to this part, the figures are for illustration purposes only and do not establish requirements.
 
 **Appendix to Part 1190 --Accessibility Guidelines for Pedestrian Facilities in the Public Right-of-Way**

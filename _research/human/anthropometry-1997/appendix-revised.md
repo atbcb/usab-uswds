@@ -17,7 +17,7 @@ Anthropology Research Project, Inc.\
 PO Box 307\
 Yellow Springs, OH 45387
 
- PREFACE
+ PREFACE
 
 This document is the final report of Task 1 of the "Anthropometric Research Review" undertaken by Anthropology Research Project, Inc. (ARP) for the U.S. Architecture and Transportation Barriers Compliance Board, and administered by the U.S. Department of Education under Contract No. QA96001001. The authors thank David Yanchulis, Research Coordinator at the Barriers Compliance Board, or his cooperation and support. They are grateful, also, for the many hours of painstaking work by ARP staff members Belva Hodge, Ann Lisa Piercy, and Ilse Tebbetts in indexing, editing, and producing this annotated bibliography. Special thanks to Luan Heit for her thorough and meticulous editing job.
 
@@ -75,7 +75,7 @@ Results of the 1987-1988 anthropometric survey of U.S. Army personnel are presen
 
 7\. Goswami, A., 1997\
 Anthropometry of People with Disability\
-In* Shrawan Kumar, (Ed.), Perspectives in Rehabilitation Ergonomics, Taylor and Francis LTD, Bristol, PA*.
+In* Shrawan Kumar, (Ed.), Perspectives in Rehabilitation Ergonomics, Taylor and Francis LTD, Bristol, PA*.
 
 The author extensively documents a series of anthropometric surveys conducted on a variety of groups with disabilities. Variables included body size variables as well as strength, reach, and mass measurements. A consensus finding among the studies is that body dimensions of persons with disabilities are smaller than those of persons without disabilities except for dimensions of the shoulder region. While a considerable body of anthropometric data has been measured on populations with disabilities, the variation in techniques, terminology, and the dimensions measured in different studies is a considerable drawback in using this body of knowledge in any organized way. Not a single study could be found which had made an attempt to standardize the landmarks and measurements. Available studies have either used the definitions of the measurement applicable to persons without disabilities or have devised a new variable. The author concludes that the anthropometric investigation reported on persons with disabilities is in no way sufficient to form a common pattern for various design applications
 
@@ -123,17 +123,17 @@ Twenty-five functional body dimensions of 822 elderly people in The Hague, Nethe
 
 15\. Nowak, E., 1997\
 Anthropometry for the Needs of Disabled People\
-In* Shrawan Kumar, (Ed.), Perspectives in Rehabilitation Ergonomics, Taylor and Francis LTD, Bristol, PA*.
+In* Shrawan Kumar, (Ed.), Perspectives in Rehabilitation Ergonomics, Taylor and Francis LTD, Bristol, PA*.
 
 This article describes basic types of anthropometric measurements that can be of use in meeting the needs of people with disabilities, and documents a number of studies in which anthropometric data on a variety of variables have been obtained from elderly or persons with disabilities. The author emphasizes the numerous anthropometric differences that exist between populations of persons with and without disabilities in terms of size, reach, and range of joint motion. He also discusses the applications of anthropometry in designing living interiors, workspaces, handrails, seats, and other products for the elderly and persons with disabilities.
 
 16\. O'Brien, S.J., 1989\
 Anthropometric Alterations in the Aged\
-In* Harris, R. and Harris, S., (Eds.), Physical Activity, Aging and Sports, Volume I, Scientific and Medical Research, Center for the Study of Aging, Albany, NY, 389- 398*.
+In* Harris, R. and Harris, S., (Eds.), Physical Activity, Aging and Sports, Volume I, Scientific and Medical Research, Center for the Study of Aging, Albany, NY, 389- 398*.
 
 This paper reviews some of the pioneer and contemporary anthropometric literature on older human populations with respect to the following parameters: height, weight, girths and circumferences, somatotype, and body composition. In addition, certain factors relating to longevity, such as food intake and exercise, are identified.
 
-17\. Steenbekkers, L.P.A. and van Beijsterveldt, C.E.M., (Eds.), 1998 *(projected)*\
+17\. Steenbekkers, L.P.A. and van Beijsterveldt, C.E.M., (Eds.), 1998 *(projected)*\
 Aging Users and Product Design: A Dutch Survey of Design Relevant Data\
 *Delft University Press, Delft, Netherlands.*
 
@@ -241,7 +241,7 @@ Many long-term wheelchair users develop shoulder pain. The purpose of this study
 
 34\. Floyd, W. F., Guttmann, L., Noble, C. W., Parkes, K.R. and Ward, J., 1966\
 A Study of the Space Requirements of Wheelchair Users\
-*Paraplegia, *4(1):24-37.
+*Paraplegia, *4(1):24-37.
 
 Ninety-one male and 36 female paraplegic and tetraplegic patients at the National Spinal Injuries Centre, Stoke Mandeville, England, were the subjects of a study to determine the body dimensions and space requirements of wheelchair users with spinal cord lesions. Apparatus was designed to measure nine anthropometric body dimensions, including head, eye, shoulder, and elbow heights; shoulder and thigh widths; and lower leg length. Measurements were taken with the subjects sitting upright in their usual chairs and relevant details of age, time spent in chair, level of spinal cord lesion, whether complete or incomplete, and the type of wheelchair used were recorded. In making measurements of reaching distances for 76 male and 26 female paraplegic subjects with full use of their arms, the aim was to determine the boundaries of a three-dimensional shell which would outline the space in which wheelchair users could manipulate objects and use equipment around them. Comfortable and maximum reaching distances in various directions were measured and a total of 35 reaching measurements for each subject was recorded. The data obtained were analyzed by computer to derive means, standard deviations, and 5th and 95th percentile values for males and females. These values are presented in a series of tables and diagrams.
 
@@ -329,7 +329,7 @@ Wheelchair basketball (WCBB) has unique physiological demands. During the summer
 Physiological and Biomechanical Differences Between Wheelchair- Dependent and Able-Bodied Subjects During Wheelchair Ergometry\
 *European Journal of Applied Physiology and Occupational Physiology, 60:179- 182.*
 
-The purpose of this study was to compare the physiological and biomechanical responses of wheelchair-dependent persons (WCD) to persons without disabilities (AB *used in the article*) using a wheelchair ergometer. Five WCD and five AB performed a discontinuous wheelchair ergometer test starting at 12.8 W (power output) with increments of 7.0 W at 6-minute intervals. Biomechanical data were collected 3.5 minutes into each stage followed by the collection of physiological data. After the fifth stage, peak oxygen consumption was determined. The WCD had significantly higher net mechanical efficiency at 26.7, 33.6, and 40.6 W than did the AB. The WCD had significantly greater shoulder extension at the point of initial wheel contact as measured by the shoulder angle, while the AB had significantly greater shoulder range of motion at all work rates. The biomechanical differences between AB and WCD were found to be a prominent factor contributing to the higher mechanical efficiency of WCD over AB. Investigators concluded that basic physiological and biomechanical differences exist between WCD and AB in manual wheelchair locomotion, and that these differences are important considerations in the interpretation of data in wheelchair ergometry studies. Anthropometric data collected: weight and sitting height.
+The purpose of this study was to compare the physiological and biomechanical responses of wheelchair-dependent persons (WCD) to persons without disabilities (AB *used in the article*) using a wheelchair ergometer. Five WCD and five AB performed a discontinuous wheelchair ergometer test starting at 12.8 W (power output) with increments of 7.0 W at 6-minute intervals. Biomechanical data were collected 3.5 minutes into each stage followed by the collection of physiological data. After the fifth stage, peak oxygen consumption was determined. The WCD had significantly higher net mechanical efficiency at 26.7, 33.6, and 40.6 W than did the AB. The WCD had significantly greater shoulder extension at the point of initial wheel contact as measured by the shoulder angle, while the AB had significantly greater shoulder range of motion at all work rates. The biomechanical differences between AB and WCD were found to be a prominent factor contributing to the higher mechanical efficiency of WCD over AB. Investigators concluded that basic physiological and biomechanical differences exist between WCD and AB in manual wheelchair locomotion, and that these differences are important considerations in the interpretation of data in wheelchair ergometry studies. Anthropometric data collected: weight and sitting height.
 
 49\. Cooper, R.A., 1992\
 The Contribution of Selected Anthropometric and Physiological Variables to 10K Performance of Wheelchair Racers: A Preliminary Study\

@@ -8,7 +8,7 @@ year-completed: 1999
 topic: Exterior Surfaces
 ---
 
- The results of this pilot study suggest:
+ The results of this pilot study suggest:
 
 -   Surfaces that can be objectively measured as firm and stable generally require less energy, are perceived as less strenuous, allow higher ambulation velocities, and are perceived as less difficult to walk on
 -   Ambulation tends to be more difficult (i.e., increased energy consumption, higher ratings of perceived exertion, higher levels of difficulty ratings and decreased velocity) on wood chips (CPBR), engineered wood fiber J (EWFJ), and engineered wood fiber K (EWFK) surfaces.

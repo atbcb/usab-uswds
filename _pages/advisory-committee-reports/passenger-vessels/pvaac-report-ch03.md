@@ -27,7 +27,7 @@ Note: The committee recognizes that these recommendations may apply to vessels n
 
 **106.5 Defined Terms**
 
-**Area of Temporary Refuge.** An area where people who are unable to use stairs may remain temporarily to await further instructions or assistance during emergency evacuation.
+**Area of Temporary Refuge.** An area where people who are unable to use stairs may remain temporarily to await further instructions or assistance during emergency evacuation.
 
 Comment: Under Coast Guard regulations, an area of refuge is a large fire protected space which could hold hundreds of passengers, similar to a horizontal exit in the building environment. However, the area of refuge required by ADAAG-R would typically be a space capable of holding one or two wheelchairs. To avoid confusion between the Coast Guard's "area of refuge" and ADAAG-R's "area of refuge" and still retain the access objective of ADAAG-R, the committee changed the ADAAG-R term to "Areas of Temporary Refuge" and kept the ADAAG-R definition for areas of refuge found in section 106.5.\
 --------------------------------------------------------------------------------
@@ -76,11 +76,11 @@ Total MOE - 2.
 -   At least one MOE must be: 1. independent of watertight doors (II-2/28.1.1); 2. a protected stairway (II-2/28.1.5).
 -   MOE can be: 1. normal exits; 2. emergency exits; 3. passageways/corridors; 4. stairways; 5. ladders in machinery spaces only. Note: A steel ladder providing a continuous fire shelter may be used in machinery spaces (II-2/28.3.1.1).
 -   MOE cannot be: 1. elevators; 2. stairways serving only a space and a balcony to a space (II-2/28.1.7).\
-**207.1 General.** Accessible means of escape shall be provided in accordance with 207.
+**207.1 General.** Accessible means of escape shall be provided in accordance with 207.
 
 **207.2 Number Required**. All spaces required to be accessible shall be provided with not less than one accessible means of escape complying with Coast Guard requirements. Where more than one means of escape is required by the Coast Guard from any accessible space, each accessible space shall be served by not less than two accessible means of escape. Each required accessible means of escape shall comply with 409 and shall be a continuous and unobstructed way of exit travel to an area of refuge complying with Coast Guard requirements, then, if applicable, to mustering and lifeboat embarkation locations, or alternatively to the point of disembarking the vessel.
 
-**EXCEPTION:** Where a required means of escape is permitted by the Coast Guard to include a ladder, go through a window, or go through a deck scuttle, the corresponding accessible means of escape is not required.
+**EXCEPTION:** Where a required means of escape is permitted by the Coast Guard to include a ladder, go through a window, or go through a deck scuttle, the corresponding accessible means of escape is not required.
 
 Comment: ADAAG-R section 207.1 is titled "General" and determines the required number of accessible means of egress. For clarity, the committee added a charging statement to section 207.1, similar to what is found in ADAAG-R section 206.1 which addresses accessible routes, and kept the title as "General." A second section, 207.2, titled "Required Number" was added, and it determines how many accessible means of escape (MOE) are required from a space required to be accessible. The committee was uncomfortable with the words "each accessible portion of the space" in the phrase "each accessible portion of the space shall be served by not less than two accessible MOE." Therefore, the words "portion of the" was removed.
 
@@ -94,9 +94,9 @@ Example: A passenger vessel inspected by the Coast Guard under subchapter K has 
 
 Comment: The committee considered requiring the accessible MOE to coincide with the Coast Guard required MOE. In some situations, the accessible MOE may have to deviate from the Coast Guard MOE, for example, when accessing an accessible evacuation elevator complying with 407 and 409.3. The committee decided to indicate in its report that the two paths should coincide where feasible.
 
-**207.3 Elevators.** Where an accessible means of escape, from a space required to be accessible, travels vertically four or more decks, at least one accessible means of escape shall contain an elevator complying with 407 and 409.3.
+**207.3 Elevators.** Where an accessible means of escape, from a space required to be accessible, travels vertically four or more decks, at least one accessible means of escape shall contain an elevator complying with 407 and 409.3.
 
-**EXCEPTION:** This section does not apply where a means of vertical access is not required.
+**EXCEPTION:** This section does not apply where a means of vertical access is not required.
 
 Comment: Excluding the exception, the committee basically adopted the language from ADAAG-R section 207.2. Note: Access Board staff and Coast Guard support staff investigating whether the Coast Guard would allow an accessible MOE to be an elevator. The committee developed its recommendations based on the assumption that an elevator will be allowed to be used as an accessible MOE.
 
@@ -107,7 +107,7 @@ Comment: Excluding the exception, the committee basically adopted the language f
 
 ####\
 409 Accessible Means of Escape\
-**409.1 General.** Each required accessible means of escape shall be a continuous and unobstructed way of exit travel to an area of refuge complying with Coast Guard requirements, then, if applicable, to mustering and lifeboat embarkation locations, or alternatively to the point of disembarking the vessel, and shall consist of one or more of the following components:
+**409.1 General.** Each required accessible means of escape shall be a continuous and unobstructed way of exit travel to an area of refuge complying with Coast Guard requirements, then, if applicable, to mustering and lifeboat embarkation locations, or alternatively to the point of disembarking the vessel, and shall consist of one or more of the following components:
 
 a. walking surfaces complying with 403;
 
@@ -123,7 +123,7 @@ f. elevators complying with 407 and 409.3.
 
 Comment: New 409.1 basically follows ADAAG-R section 409.1. Subsections were added for clarity reasons. In addition, language has been included which is similar to 207.2 regarding the emergency embarkation point.
 
-**409.2 Exit Stairways.** An exit stairway to be considered part of an accessible means of escape:
+**409.2 Exit Stairways.** An exit stairway to be considered part of an accessible means of escape:
 
 a. shall be enclosed, where at least one of the corresponding means of escape from the accessible space is required by the Coast Guard to be enclosed;
 
@@ -131,15 +131,15 @@ b. shall have stairs complying with 504* and shall have a clear width of 48 inch
 
 c. shall either incorporate an area of temporary refuge complying with 410 within an enlarged deck-level landing, accessed either from an area of temporary refuge complying with 410, or accessed from an area of refuge complying with Coast Guard requirements.
 
-**EXCEPTION 1.** This requirement shall not apply to exit stairways serving only one stateroom.
+**EXCEPTION 1.** This requirement shall not apply to exit stairways serving only one stateroom.
 
-**EXCEPTION 2.** This requirement shall not apply to exit stairways in vessels protected by a Coast Guard approved sprinkler system, or having a fire load of less than 3 lbs. per sq. ft.
+**EXCEPTION 2.** This requirement shall not apply to exit stairways in vessels protected by a Coast Guard approved sprinkler system, or having a fire load of less than 3 lbs. per sq. ft.
 
-**EXCEPTION 3.** The clear width of 48 inches (1220 mm) between handrails is not required for exit stairways accessed from an area of refuge complying with Coast Guard requirements.
+**EXCEPTION 3.** The clear width of 48 inches (1220 mm) between handrails is not required for exit stairways accessed from an area of refuge complying with Coast Guard requirements.
 
-**EXCEPTION 4.** This requirement shall not apply to exit stairways serving open decks.
+**EXCEPTION 4.** This requirement shall not apply to exit stairways serving open decks.
 
-**EXCEPTION 5.** Subchapter K vessels shall be permitted to have exit stairways with a clear width of 36 inches (915 mm) minimum between handrails.
+**EXCEPTION 5.** Subchapter K vessels shall be permitted to have exit stairways with a clear width of 36 inches (915 mm) minimum between handrails.
 
 Comment regarding Subsection (a): In subchapter H, the Coast Guard requires at least one MOE to be a protected stairway (see summary). In subchapter K, at least one protected stairway is required if it spans more than two deck levels or if carrying more than 600 passengers or more than 49 overnight passengers. Therefore, where the Coast Guard requires a MOE to travel through a protected stairway, subsection (a) requires that at least one accessible MOE serving an accessible space also travel through a protected stairway. Because the second Coast Guard MOE is permitted to travel through an open stairway, subsection (a) permits the second accessible MOE to also travel through an open stairway.
 
@@ -157,32 +157,32 @@ Comment: Exception 3 is consistent with similar requirements in ADAAG-R 409.2 Ex
 
 Comment: Exception 4 is modified to refer to open decks instead of open parking garages. The committee believes that the same degree of fire protection is present on open decks of passenger vessels as in open parking garages.
 
-**409.3 Elevators.** An elevator to be considered part of an accessible means of escape shall comply with the requirements of Rule 211* of ASME/ANSI A17.1, or an equivalent marine standard, and emergency power shall be provided. The elevators shall be accessed from either an area of temporary refuge complying with 410 or an area of refuge complying with Coast Guard requirements.
+**409.3 Elevators.** An elevator to be considered part of an accessible means of escape shall comply with the requirements of Rule 211* of ASME/ANSI A17.1, or an equivalent marine standard, and emergency power shall be provided. The elevators shall be accessed from either an area of temporary refuge complying with 410 or an area of refuge complying with Coast Guard requirements.
 
-**EXCEPTION 1.** Elevators are not required to be accessed from an area of temporary refuge or an area of refuge complying with Coast Guard requirements in open air spaces.
+**EXCEPTION 1.** Elevators are not required to be accessed from an area of temporary refuge or an area of refuge complying with Coast Guard requirements in open air spaces.
 
-**EXCEPTION 2.** Elevators are not required to be accessed from an area of temporary refuge or an area of refuge complying with Coast Guard requirements in vessels protected by a Coast Guard approved sprinkler system, or having a fire load of less than 3 lbs per sq. ft.
+**EXCEPTION 2.** Elevators are not required to be accessed from an area of temporary refuge or an area of refuge complying with Coast Guard requirements in vessels protected by a Coast Guard approved sprinkler system, or having a fire load of less than 3 lbs per sq. ft.
 
 Comment: As the words "emergency power" are more appropriate for the maritime environment, the committee replaced the words "standby power" with "emergency power".
 
 #### 410 Areas of Temporary Refuge\
-**410.1 General.** Where areas of temporary refuge are required, they shall comply with 410.
+**410.1 General.** Where areas of temporary refuge are required, they shall comply with 410.
 
-**410.2 Location.** Each area of temporary refuge shall be accessed from the space it serves by an accessible route which serves as an accessible means of escape. The maximum travel distance to an area of temporary refuge shall not exceed the travel distance permitted for the occupancy by the Coast Guard. Every area of temporary refuge shall have direct access to an exit stairway complying with 409.2 or an elevator complying with 409.3.
+**410.2 Location.** Each area of temporary refuge shall be accessed from the space it serves by an accessible route which serves as an accessible means of escape. The maximum travel distance to an area of temporary refuge shall not exceed the travel distance permitted for the occupancy by the Coast Guard. Every area of temporary refuge shall have direct access to an exit stairway complying with 409.2 or an elevator complying with 409.3.
 
-**410.3 Size.** Each area of temporary refuge shall be sized to accommodate one wheelchair space complying with 305.3 for each 200 occupants or portion thereof, based on the occupant load of the area of temporary refuge and all areas served by the area of temporary refuge. Such wheelchair spaces shall not overlap the required means of escape width set by the Coast Guard. Access to any required wheelchair space shall not be through more than one adjoining wheelchair space.
+**410.3 Size.** Each area of temporary refuge shall be sized to accommodate one wheelchair space complying with 305.3 for each 200 occupants or portion thereof, based on the occupant load of the area of temporary refuge and all areas served by the area of temporary refuge. Such wheelchair spaces shall not overlap the required means of escape width set by the Coast Guard. Access to any required wheelchair space shall not be through more than one adjoining wheelchair space.
 
-**410.4 Construction.** Each area of temporary refuge shall comply with Coast Guard construction requirements for an area of refuge.
+**410.4 Construction.** Each area of temporary refuge shall comply with Coast Guard construction requirements for an area of refuge.
 
 Comment: The committee believes that Coast Guard construction requirements for an area of refuge provides an equivalent degree of protection as the requirements in 410.4.
 
-**410.5 Smoke Resistance.** Every area of temporary refuge shall comply with Coast Guard smoke resistance requirements for an area of refuge.
+**410.5 Smoke Resistance.** Every area of temporary refuge shall comply with Coast Guard smoke resistance requirements for an area of refuge.
 
 Comment: The committee believes that Coast Guard construction requirements for an area of refuge provides an equivalent degree of protection as the requirements in 410.4. The exceptions were removed due to confusion. Section 410.5.1 was removed because in emergency situations on board Coast Guard inspected vessels, unlike buildings, elevator shafts are not pressurized.
 
-**410.6 (Option #1) Communication System.** Every area of temporary refuge shall be provided with an accessible two-way communication system between the area of temporary refuge and the bridge or other continuously manned station. The communication system shall have both audible and visible signals.
+**410.6 (Option #1) Communication System.** Every area of temporary refuge shall be provided with an accessible two-way communication system between the area of temporary refuge and the bridge or other continuously manned station. The communication system shall have both audible and visible signals.
 
-**410.6 (Option #2) Communication System.** Every area of temporary refuge shall be provided with a two-way communication system between the area of temporary refuge and the bridge or other continuously manned station. The minimum requirements of this system include:
+**410.6 (Option #2) Communication System.** Every area of temporary refuge shall be provided with a two-way communication system between the area of temporary refuge and the bridge or other continuously manned station. The minimum requirements of this system include:
 
 a. a mechanism to signal from the area of temporary refuge to the central control station that fact that the area of temporary refuge is occupied. The mechanism must operate in one physical motion (i.e., push button or lever handle); and
 
@@ -190,7 +190,7 @@ b. a mechanism to acknowledge from the central control station to the area of te
 
 Comment: Two options were provided. One is more detailed than the other.
 
-**410.7 Instructions.** In each area of temporary refuge provided with a two-way communication system, instructions on the use of the area under emergency conditions shall be posted adjacent to the communications system. The instructions shall include:
+**410.7 Instructions.** In each area of temporary refuge provided with a two-way communication system, instructions on the use of the area under emergency conditions shall be posted adjacent to the communications system. The instructions shall include:
 
 1\. Directions to other means of escape;
 
@@ -202,4 +202,4 @@ Comment: Two options were provided. One is more detailed than the other.
 
 Comment: The committee discussed whether such instructions should be in Braille and large/raised print. It was decided that due to the number of words such instructions would contain, and the minimum size requirement of 5/8 inch for the raised letters (see 703.2.3.4), an entire wall may be covered with Braille and raised letters. Such a situation may be unusable for persons who would need these accommodations.
 
-**410.8 Identification.** Each area of temporary refuge shall be identified by a tactile sign stating "Area of temporary refuge" complying with 703.2* and including the International Symbol of Accessibility complying with *703.7. A sign shall be located at each door providing access to the area of temporary refuge. The sign shall be illuminated as required for exit signs where exit sign illumination is required.
+**410.8 Identification.** Each area of temporary refuge shall be identified by a tactile sign stating "Area of temporary refuge" complying with 703.2* and including the International Symbol of Accessibility complying with *703.7. A sign shall be located at each door providing access to the area of temporary refuge. The sign shall be illuminated as required for exit signs where exit sign illumination is required.

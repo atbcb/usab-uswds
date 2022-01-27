@@ -28,7 +28,7 @@ order-number: 8
 
 (b) All other high-speed rail cars shall comply with the similar provisions of subpart F of this part.
 
-### §1192.177 Ferries, excursion boats and other vessels. [Reserved]
+### §1192.177 Ferries, excursion boats and other vessels. [Reserved]
 
 ### §1192.179 Trams, similar vehicles and systems.
 

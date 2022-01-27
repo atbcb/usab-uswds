@@ -14,7 +14,7 @@ order-number: 3
 
 ### §1192.53 Doorways.
 
-(a) *Clear width*. - (1) Passenger doorways on vehicle sides shall have clear openings at least 32 inches wide when open.
+(a) *Clear width*. - (1) Passenger doorways on vehicle sides shall have clear openings at least 32 inches wide when open.
 
 (2) If doorways connecting adjoining cars in a multi-car train are provided, and if such doorway is connected by an aisle with a minimum clear width of 30 inches to one or more spaces where wheelchair or mobility aid users can be accommodated, then such doorway shall have a minimum clear opening of 30 inches to permit wheelchair and mobility aid users to be evacuated to an adjoining vehicle in an emergency.
 
@@ -24,11 +24,11 @@ order-number: 3
 
 (c)*Signals*. Auditory and visual warning signals shall be provided to alert passengers of closing doors.
 
-(d)*Coordination with boarding platform*. - (1) *Requirements*. Where new vehicles will operate in new stations, the design of vehicles shall be coordinated with the boarding platform design such that the horizontal gap between each vehicle door at rest and the platform shall be no greater than 3 inches and the height of the vehicle floor shall be within plus or minus 5/8 inch of the platform height under all normal passenger load conditions. Vertical alignment may be accomplished by vehicle air suspension or other suitable means of meeting the requirement.
+(d)*Coordination with boarding platform*. - (1) *Requirements*. Where new vehicles will operate in new stations, the design of vehicles shall be coordinated with the boarding platform design such that the horizontal gap between each vehicle door at rest and the platform shall be no greater than 3 inches and the height of the vehicle floor shall be within plus or minus 5/8 inch of the platform height under all normal passenger load conditions. Vertical alignment may be accomplished by vehicle air suspension or other suitable means of meeting the requirement.
 
-(2) *Exception*. New vehicles operating in existing stations may have a floor height within plus or minus 1-1/2 inches of the platform height. At key stations, the horizontal gap between at least one door of each such vehicle and the platform shall be no greater than 3 inches.
+(2) *Exception*. New vehicles operating in existing stations may have a floor height within plus or minus 1-1/2 inches of the platform height. At key stations, the horizontal gap between at least one door of each such vehicle and the platform shall be no greater than 3 inches.
 
-(3) *Exception*. Retrofitted vehicles shall be coordinated with the platform in new and key stations such that the horizontal gap shall be no greater than 4 inches and the height of the vehicle floor, under 50% passenger load, shall be within plus or minus 2 inches of the platform height.
+(3) *Exception*. Retrofitted vehicles shall be coordinated with the platform in new and key stations such that the horizontal gap shall be no greater than 4 inches and the height of the vehicle floor, under 50% passenger load, shall be within plus or minus 2 inches of the platform height.
 
 ### §1192.55 Priority seating signs.
 
@@ -50,14 +50,14 @@ Floor surfaces on aisles, places for standees, and areas where wheelchair and mo
 
 ### §1192.61 Public information system.
 
-(a)(1) *Requirements*. Each vehicle shall be equipped with a public address system permitting transportation system personnel, or recorded or digitized human speech messages, to announce stations and provide other passenger information. Alternative systems or devices which provide equivalent access are also permitted. Each vehicle operating in stations having more than one line or route shall have an external public address system to permit transportation system personnel, or recorded or digitized human speech messages, to announce train, route, or line identification information.
+(a)(1) *Requirements*. Each vehicle shall be equipped with a public address system permitting transportation system personnel, or recorded or digitized human speech messages, to announce stations and provide other passenger information. Alternative systems or devices which provide equivalent access are also permitted. Each vehicle operating in stations having more than one line or route shall have an external public address system to permit transportation system personnel, or recorded or digitized human speech messages, to announce train, route, or line identification information.
 
-(2) *Exception*. Where station announcement systems provide information on arriving trains, an external train speaker is not required.
+(2) *Exception*. Where station announcement systems provide information on arriving trains, an external train speaker is not required.
 
 (b) [Reserved]
 
 ### §1192.63 Between-car barriers.
 
-(a) *Requirement*. Suitable devices or systems shall be provided to prevent, deter or warn individuals from inadvertently stepping off the platform between cars. Acceptable solutions include, but are not limited to, pantograph gates, chains, motion detectors or similar devices.
+(a) *Requirement*. Suitable devices or systems shall be provided to prevent, deter or warn individuals from inadvertently stepping off the platform between cars. Acceptable solutions include, but are not limited to, pantograph gates, chains, motion detectors or similar devices.
 
-(b) *Exception*. Between-car barriers are not required where platform screens are provided which close off the platform edge and open only when trains are correctly aligned with the doors.
+(b) *Exception*. Between-car barriers are not required where platform screens are provided which close off the platform edge and open only when trains are correctly aligned with the doors.

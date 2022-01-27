@@ -14,7 +14,7 @@ The U.S. Access Board (USAB) is committed to ensuring the maintenance and securi
 This Vulnerability Disclosure Policy (VDP) is intended to give USAB security researchers clear guidelines for conducting vulnerability discovery activities and
 to convey our Agency's preference to submit discovered vulnerabilities to CISA.
 
-This policy describes what systems and types of research are covered under this policy, how to send CISA vulnerability reports, and how long we ask USAB security
+This policy describes what systems and types of research are covered under this policy, how to send CISA vulnerability reports, and how long we ask USAB security
 researchers to wait before publicly disclosing vulnerabilities. CISA encourages USAB security researchers to contact them to report potential vulnerabilities in their systems.
 
 ## Authorization
@@ -35,7 +35,7 @@ Do not use an exploit to compromise or exfiltrate data, establish persistent com
 - Do not submit a high volume of low-quality reports.
 
 Once you have established that a vulnerability exists or encounter any sensitive data (including personally identifiable information, financial information,
-or proprietary information or trade secrets of any party), **you must stop your test, notify CISA immediately, and not disclose this data to anyone else**.
+or proprietary information or trade secrets of any party), **you must stop your test, notify CISA immediately, and not disclose this data to anyone else**.
 
 ## Test Methods
 
@@ -66,10 +66,10 @@ such as in your agency's contract with the provider or their publicly available 
 If not, you should work with the vendor to obtain authorization.
 **If it is not possible to obtain the vendor's authorization, you may not include those systems or services in scope of this policy.**
 
-**Any service not expressly listed above, such as any connected services, are excluded from scope** and are not authorized for testing.
+**Any service not expressly listed above, such as any connected services, are excluded from scope** and are not authorized for testing.
 Additionally, vulnerabilities found in systems from our vendors fall outside of this policy's scope and should be reported directly to
 the vendor according to their disclosure policy (if any).
-If you are not sure whether a system is in scope or not, contact us at <security@access-board.gov> before starting your research (or at
+If you are not sure whether a system is in scope or not, contact us at <security@access-board.gov> before starting your research (or at
 the security contact for the system's domain name listed in the [.gov WHOIS](https://domains.dotgov.gov/dotgov-web/registration/whois.xhtml)).
 
 ## Reporting a Vulnerability

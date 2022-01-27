@@ -24,5 +24,5 @@ Notes
 >
 > 3 "Interpretation of "Weather Deck" as Used in 46 CFR 114.400", April 19, 2002.
 >
-> 4 CWO Ray Rock currently serves at the Providence MSO, and conducted numerous surveys during construction of the *Flying Cloud* ; he was interviewed over the telephone in August, 2003. LT Jason Hall of the MSO Boston Inspections Department was interviewed on September 8, 2003 at MSO Boston.\
+> 4 CWO Ray Rock currently serves at the Providence MSO, and conducted numerous surveys during construction of the *Flying Cloud* ; he was interviewed over the telephone in August, 2003. LT Jason Hall of the MSO Boston Inspections Department was interviewed on September 8, 2003 at MSO Boston.\
 > Introduction

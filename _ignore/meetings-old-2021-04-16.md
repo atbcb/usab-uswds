@@ -82,14 +82,14 @@ To inquire about use of the space, please contact [Rose Marie Bunales](mailto:bu
 - [January 11, 2017](http://www.yorkmedia.com/accessboard/2017/01/11/)
 - [March 15, 2017](http://www.yorkmedia.com/accessboard/2017/03/15/)
 - [July 12, 2017](http://www.yorkmedia.com/accessboard/2017/07/12/)
-- [September 13, 2017](http://www.yorkmedia.com/accessboard/2017/09/13/)
+- [September 13, 2017](http://www.yorkmedia.com/accessboard/2017/09/13/)
 - [November 15, 2017](http://www.yorkmedia.com/accessboard/2017/11/15/)
-- \[Cancelled:  January 8-10, 2018]
+- \[Cancelled:  January 8-10, 2018]
 - [March 14, 2018](http://www.yorkmedia.com/accessboard/2018/03/14/)
 - [July 11, 2018](http://www.yorkmedia.com/accessboard/2018/07/11/)
 - [September 7, 2018](http://www.yorkmedia.com/accessboard/2018/09/07/)
 - [November 7, 2018](http://www.yorkmedia.com/accessboard/2018/11/07)
-- \[Cancelled:  January 7-9, 2019]
+- \[Cancelled:  January 7-9, 2019]
 - [March 11 - 13, 2019](http://www.yorkmedia.com/accessboard/2019/03/13/)
 - [July 10, 2019](http://www.yorkmedia.com/accessboard/2019/07/10/)
 - [September 11, 2019](http://www.yorkmedia.com/accessboard/2019/09/11/)

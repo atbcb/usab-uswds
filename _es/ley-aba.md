@@ -19,9 +19,9 @@ Presidente Lyndon Johnson, quien promulgó la ABA en agosto de 1968, caracteriz�
 
 * * * * *
 
-## Texto Oficial de la Ley de Barreras Arquitectónicas de 1968 (en inglés) 
+## Texto Oficial de la Ley de Barreras Arquitectónicas de 1968 (en inglés) 
 
-Pub. L. 94-541 (42 U.S.C. §§4151 et seq.) 
+Pub. L. 94-541 (42 U.S.C. §§4151 et seq.) 
 
 ### §4151. "Building" defined
 

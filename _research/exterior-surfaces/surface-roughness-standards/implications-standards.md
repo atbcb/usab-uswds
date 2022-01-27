@@ -18,29 +18,29 @@ The results show that some surfaces can cause health risks and discomfort to WC 
 
 | **Time of exposure** | **2 Hours** | **1 Hour** | **30 Min** | **< 10 Min** |
 | **Health Guidance Zone Boundary** | **Low** | **High** | **Low** | **High** | **Low** | **High** | **Low** | **High** |
-| **RMS Limit (m/s2) ** | **0.7** | **1.6** | **0.85** | **2.5** | **1.1** | **3.5** | **3.5** | **6** |
+| **RMS Limit (m/s2) ** | **0.7** | **1.6** | **0.85** | **2.5** | **1.1** | **3.5** | **3.5** | **6** |
 | All surfaces, All Chairs | 0.28 | 0.65 | 0.34 | 1.01 | 0.44 | 1.41 | 1.41 | 2.42 |
 | All Surfaces, Manual Chairs | 0.27 | 0.51 | 0.31 | 0.75 | 0.37 | 1.02 | 1.02 | 1.68 |
 | Engineered Surfaces, Manual Chairs | 0.18 | 0.50 | 0.23 | 0.82 | 0.32 | 1.18 | 1.18 | 2.06 |\
 **Table 11: Roughness Threshold Options (in/ft) Based on %Acceptable Data**
 
-| **Surfaces, Chairs ** | **% Acceptable** |
+| **Surfaces, Chairs ** | **% Acceptable** |
 | **Percentage Criteria** | **75%** | **50%** |
-| All surfaces, All chairs |  0.89 | 1.36  |
-| All surfaces, Manual chairs |  0.94 | 1.48  |
-| All surfaces, Power chairs |  0.85 |  1.27 |
-| Engineered Surfaces, Manual Chairs |  0.96 | 1.63  |
-| Engineered Surfaces, Power Chairs |  0.79 |  1.29 |
+| All surfaces, All chairs |  0.89 | 1.36  |
+| All surfaces, Manual chairs |  0.94 | 1.48  |
+| All surfaces, Power chairs |  0.85 |  1.27 |
+| Engineered Surfaces, Manual Chairs |  0.96 | 1.63  |
+| Engineered Surfaces, Power Chairs |  0.79 |  1.29 |
 
 **Table 12: Roughness Threshold Options (in/ft) Based on Rating Data**
 
-| **Surfaces, Chairs**  |  **Rating** |
-| **Rating Criteria**  |  **"good" (3.5)** | **"fair" (2.5)**  |
-| All surfaces, All chairs  |  0.67 | 1.18  |
-| All surfaces, Manual chairs  |  0.72 | 1.23  |
-| All surfaces, Power chairs  | 0.61  | 1.14  |
-| Engineered Surfaces, Manual Chairs  |  0.63 |  1.23 |
-| Engineered Surfaces, Power Chairs  | 0.48  |  1.04 |\
+| **Surfaces, Chairs**  |  **Rating** |
+| **Rating Criteria**  |  **"good" (3.5)** | **"fair" (2.5)**  |
+| All surfaces, All chairs  |  0.67 | 1.18  |
+| All surfaces, Manual chairs  |  0.72 | 1.23  |
+| All surfaces, Power chairs  | 0.61  | 1.14  |
+| Engineered Surfaces, Manual Chairs  |  0.63 |  1.23 |
+| Engineered Surfaces, Power Chairs  | 0.48  |  1.04 |\
 The value selected for the threshold in the standard would have to fall somewhere in the middle of these roughnesses. Looking at the questionnaire related indices in Table 11 and 12, the 50 % acceptable and the "fair" ratings are consistently around 1.20 in/ft. Four of the outdoor surfaces and two of the engineered surfaces we tested would be unacceptable if this was the threshold. It might also be an option to create a range similar to the ISO 2631-1 health guidance zone for the roughness indices. One threshold, such as 0.60 in/ft, could be a minimum limit where all surfaces under that roughness index are safe and comfortable. Another threshold, such as 1.20 in/ft, could be a value where all surface with an index above that roughness index will likely cause harmful vibrations and be uncomfortable for the WC user. Surfaces with indices between those two thresholds would be in a caution zone. It is important to remember that while WC users will not be driving on sidewalks for 16 hours a day, they are exposed to vibrations throughout the day that can all add up to harmful levels of WBVs for the day.
 
 The wheelpath algorithm used to determine roughness uses a certain diameter wheel as the model wheel to determine the roughness index. In order to determine what the best wheel size is to use, the roughness index of the 27 surfaces were calculated using wheel sizes increasing by 0.5 inches from 2 to 7 inches. Figure 26 shows how the surface roughness changes as the wheel diameter is adjusted. The engineered surfaces are more affected by the changing wheel size because the roughness of those surfaces are determined solely by the gaps sizes and frequencies as opposed to the community surfaces that have some roughness contributions caused by changes in height from surface to surface (brick to brick or slab to slab) along the pathway.

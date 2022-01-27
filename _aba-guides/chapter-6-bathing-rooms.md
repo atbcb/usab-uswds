@@ -4,9 +4,9 @@ order-number: 18
 file: /files/aba/guides/bathrooms-ABA.pdf
 file-description: PDF version of Chapter 6 Bathing Rooms Guide
 ---
-This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for bathing rooms. 
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for bathing rooms. 
 
-### Required Compliance
+### Required Compliance
 
 [[§F213]({{ site.baseurl }}/aba/#aba-f213)]
 
@@ -26,7 +26,7 @@ Where multi-user bathing rooms are provided, accessible unisex bathing rooms can
 
 [[§F202.2]({{ site.baseurl }}/aba/#aba-f202_2)]
 
-Additions are required to comply with requirements in the Standards for new construction. Each bathing room of an addition must comply as would be required in new construction. If an addition does not include any bathing facility, at least one bathing facility for each sex in the existing portion of the facility must be made accessible to serve the addition; access to a single unisex bathing facility is permitted if there is only one bathing facility in the facility or if providing access to a men’s and women’s room is technically infeasible (§F202.2, §F213.2 Ex 1).
+Additions are required to comply with requirements in the Standards for new construction. Each bathing room of an addition must comply as would be required in new construction. If an addition does not include any bathing facility, at least one bathing facility for each sex in the existing portion of the facility must be made accessible to serve the addition; access to a single unisex bathing facility is permitted if there is only one bathing facility in the facility or if providing access to a men’s and women’s room is technically infeasible (§F202.2, §F213.2 Ex 1).
 
 #### Alterations
 
@@ -41,7 +41,7 @@ text= "While only those elements altered are required to comply, it is advisable
 Compliance in an alteration is not required where it is "technically infeasible." The term is defined as "something that has little likelihood of being accomplished because existing structural conditions would require removing or altering a load-bearing member that is an essential part of the structural frame; or because other existing physical or site constraints prohibit modification or addition of elements, spaces, or features that are in full and strict compliance with the minimum requirements." When it is technically infeasible to make existing men's and women's bathing rooms comply, an accessible unisex bathing room can be provided instead if it is in the same area and on the same floor as the existing bathing rooms (§F213.2, Ex. 1). If technical infeasibility is encountered, compliance is still required to the maximum extent feasible. Where existing bathing rooms in an alteration do not comply, signs with the International Symbol of Accessibility (ISA) must be provided indicating the location of the nearest accessible bathing room. Those that comply must be labeled by the ISA (§F216.8).  
   
 <div class="border padding-left-1 padding-right-1" style="background-color: #e2e1ef;" markdown="1">
-#### Bathing Room Location
+#### Bathing Room Location
 
 The Standards do not generally require bathing rooms to be provided in a specific location. However, in multi-story facilities that are exempt from the requirement for vertical access between stories based on the story count or square footage per floor (§F206.2.3, Ex. 1 or 2), if a bathing room is provided on an inaccessible story, a bathing room also must be provided on an accessible story so that it is connected to an accessible entrance by an accessible route (§F213.1). Bathing rooms provided on other stories must fully comply as well.
 </div>
@@ -50,7 +50,7 @@ The Standards do not generally require bathing rooms to be provided in a specifi
 
 [[§F213.3]({{ site.baseurl }}/aba/#aba-f213_3)]
 
-Bathing facilities must have at least one compliant shower compartment or bathtub. In transient lodging guest rooms, a portion of accessible guest rooms must have a roll-in shower with a folding seat (§F224.2).
+Bathing facilities must have at least one compliant shower compartment or bathtub. In transient lodging guest rooms, a portion of accessible guest rooms must have a roll-in shower with a folding seat (§F224.2).
 
 #### Components of an Accessible Bathing Facility
 
@@ -73,9 +73,9 @@ one urinal is provided."
 
 [[§608]({{ site.baseurl }}/aba/#aba-608)]
 
-Roll-in shower compartments provide access for shower chairs and other wheeled mobility aids without the need to transfer to a seat. The Standards provide specifications for a standard type and an alternate type of roll-in compartment.
+Roll-in shower compartments provide access for shower chairs and other wheeled mobility aids without the need to transfer to a seat. The Standards provide specifications for a standard type and an alternate type of roll-in compartment.
 
-A seat can be provided in roll-in showers (and is required in those roll-in showers that must be provided to serve a portion of accessible transient lodging guest rooms). If a seat is provided, it must be folding so that it does not impede use with a shower chair or other wheeled mobility aid.
+A seat can be provided in roll-in showers (and is required in those roll-in showers that must be provided to serve a portion of accessible transient lodging guest rooms). If a seat is provided, it must be folding so that it does not impede use with a shower chair or other wheeled mobility aid.
 
 #### Standard Roll-In Shower Compartment
 
@@ -396,7 +396,7 @@ Bathtubs must be equipped with a removable in-tub seat or a permanent seat at th
 
 Removable seats must secure to the tub so that they stay in place during transfer and use. Specifications address seat height, depth, and structural strength. Seats must withstand a vertical or horizontal force of 250 lbs. at any point on the seat, fastener, mounting device, or supporting structure. Designs providing back support are advisable but not required.
 
- ![Bathtub with removable seat.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/39.jpg){: .img-large}
+ ![Bathtub with removable seat.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/39.jpg){: .img-large}
 
 ![Removable seat tub seat 15]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/40.jpg){: .img-large}
 
@@ -475,7 +475,7 @@ The Standards do not directly specify the size of bathrooms which is determined 
 
 This example of a single-user bathing facility features a standard roll-in shower compartment.
 
- ![Bathroom with roll-in shower, water closet, and lavatory]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/49.jpg){: .img-large}
+ ![Bathroom with roll-in shower, water closet, and lavatory]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/49.jpg){: .img-large}
 
 ![Plan view of bathroom with roll-in shower in a back corner and lavatory in a counter next to it in the other back corner.  A water closet is in the front corner opposite the shower.  A door is located in the other front corner opposite the lavatory.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/50.jpg){: .img-large}
 
@@ -509,7 +509,7 @@ door maneuvering clearance which is offset from the face of the door.">
 
 This example shows a single-user bathing facility with an alternate roll-in shower compartment that is equipped with a folding seat.
 
- ![Bathroom with alternate roll-in shower, a counter with two lavatories, and a water closet.  ]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/56.jpg){: .img-large}
+ ![Bathroom with alternate roll-in shower, a counter with two lavatories, and a water closet.  ]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/56.jpg){: .img-large}
 
 ![Plan view shows alternate roll-in shower with adjacent counter with two lavatories.  The water closet is opposite the lavatories.  A door is located in a wall opposite the shower between the lavatory and the water closet.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/57.png){: .img-large}
 
@@ -535,7 +535,7 @@ The door maneuvering clearance must always be clear of any fixtures or elements.
 
 A bathtub can be provided instead of a shower compartment. Compliant bathtubs must have either a removable in-tub seat as shown here or a permanent seat.
 
- ![Bathroom with tub and removable seat, lavatory, and water closet.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/61.jpg){: .img-large}
+ ![Bathroom with tub and removable seat, lavatory, and water closet.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/61.jpg){: .img-large}
 
 ![Bathroom  with a located in the front wall.  The tub is in one back corner opposite the water closet which is in the other back corner. The lavatory is the front corner on the same wall as the water closet,]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/62.png){: .img-large}
 
@@ -589,7 +589,7 @@ In multi-user bathing facilities, as in single-user bathrooms, the requirements 
 
 ### Common Questions
 
-![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail} 
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail} 
 
 #### Bathing Rooms
 
@@ -645,7 +645,7 @@ No. These are absolute, not minimum, dimensions. The specified size provides suf
 
 ##### Can the corners of prefabricated shower compartments be rounded?
 
-Yes. Shower compartments are measured at the center points (horizontal and vertical) of opposing sides to permit rounded corners.
+Yes. Shower compartments are measured at the center points (horizontal and vertical) of opposing sides to permit rounded corners.
 
 ##### Is a fixed shower head required in addition to the hand-held shower spray unit?
 
@@ -700,7 +700,7 @@ Shower enclosures, including doors, cannot obstruct controls, faucets, shower sp
 
 ##### Are rinsing showers at swimming pools, beaches, and camping areas required to comply as showers?
 
-Shower fixtures located outside bathrooms for use at swimming pools and beaches are not required to comply as showers. However, they must still meet applicable requirements for operable parts, including clear floor space and compliant controls within accessible reach range. The ABA Standards, which apply to federally funded facilities, include provisions for outdoor developed areas on federal lands. These provisions include requirements for outdoor rinsing showers (§1011.7) which can be consulted as a reference for other types of outdoor sites. Shower fixtures located outside bathrooms for use at swimming pools and beaches are not required to comply as showers. The Standards provide requirements for outdoor rinsing showers on federal lands (§1011.7). These requirements address size (60” min. by 60” min. centered on the shower head) and shower spray units. Other types of shower fixtures not located in bathrooms must meet applicable requirements for operable parts, including clear floor space and compliant controls.
+Shower fixtures located outside bathrooms for use at swimming pools and beaches are not required to comply as showers. However, they must still meet applicable requirements for operable parts, including clear floor space and compliant controls within accessible reach range. The ABA Standards, which apply to federally funded facilities, include provisions for outdoor developed areas on federal lands. These provisions include requirements for outdoor rinsing showers (§1011.7) which can be consulted as a reference for other types of outdoor sites. Shower fixtures located outside bathrooms for use at swimming pools and beaches are not required to comply as showers. The Standards provide requirements for outdoor rinsing showers on federal lands (§1011.7). These requirements address size (60” min. by 60” min. centered on the shower head) and shower spray units. Other types of shower fixtures not located in bathrooms must meet applicable requirements for operable parts, including clear floor space and compliant controls.
 
 #### Grab Bars and Shower Spray Units
 

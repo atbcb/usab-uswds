@@ -10,13 +10,13 @@ topic: Building Elements and Spaces
 
 The O & M Committee identified pesticides (indoors & outdoors), fragrances (especially fragrance-emitting devices/FEDS, air fresheners and deoderizers), and volatile cleaners (including citrus & pine) as the biggest access barriers for people with chemical sensitivities related to operations and maintenance of a building. Cell phone use was identified as a significant barrier for people with electromagnetic sensitivities.
 
-The Committee developed recommendations for making buildings more accessible for people with chemical and/or electromagnetic sensitivities in the areas of pest control, cleaning & disinfecting, mechanical / HVAC, landscape maintenance, and enclosure maintenance. They are listed in bullet form in the [Appendix](https://www.access-board.gov/research/completed-research/indoor-environmental-quality/appendices%E2%80%94detailed-recommendations) and summarized in the body of the report below.
+The Committee developed recommendations for making buildings more accessible for people with chemical and/or electromagnetic sensitivities in the areas of pest control, cleaning & disinfecting, mechanical / HVAC, landscape maintenance, and enclosure maintenance. They are listed in bullet form in the [Appendix](https://www.access-board.gov/research/completed-research/indoor-environmental-quality/appendices%E2%80%94detailed-recommendations) and summarized in the body of the report below.
 
 In addition, recommendations are given for renovation, remodeling, and furnishings and for adoption of polices on smoking, fragrances, cell phone use, notification of building activities, and vehicle idling.
 
 The Committee recognizes that the list of recommendations is long and that few buildings will be able to implement all of them. The recommendations are the ideal goal towards which to strive. Any steps taken to reduce the levels of the problematic substances or conditions listed above will improve access for people with chemical and/or electromagnetic sensitivities and create a healthier building.
 
-Some of the recommendations will not apply to certain types of buildings or geographic areas. The recommendations are given in sufficient detail to help those who need to address a specific issue. Resources from which to obtain more information or guidance are also provided in the Appendix and at the end of the document in [Additional Resources](https://www.access-board.gov/research/completed-research/indoor-environmental-quality/additional-resources).
+Some of the recommendations will not apply to certain types of buildings or geographic areas. The recommendations are given in sufficient detail to help those who need to address a specific issue. Resources from which to obtain more information or guidance are also provided in the Appendix and at the end of the document in [Additional Resources](https://www.access-board.gov/research/completed-research/indoor-environmental-quality/additional-resources).
 
 **Recommendations for Pest Control**
 
@@ -52,7 +52,7 @@ Prohibit occupant usage of cleaning chemicals except as authorized. Establish a 
 
 In decorative building fountains, use the minimum amount of chlorine necessary for disinfection, avoid the use of bromine, use closed ozone water treatment systems to the maximum extent possible, and make use of newer, less-toxic disinfecting technologies as they become available.
 
-Avoid the use of wall-mounted devices, similar to fragrance-emitting devices (FEDS), that operate automatically or by pushing a button to dispense deodorizers, disinfectants, and pesticides. 
+Avoid the use of wall-mounted devices, similar to fragrance-emitting devices (FEDS), that operate automatically or by pushing a button to dispense deodorizers, disinfectants, and pesticides. 
 
 **Recommendations for Mechanical Equipment / HVAC**
 

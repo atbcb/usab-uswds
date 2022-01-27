@@ -131,7 +131,7 @@ limits.
     be connected by either an accessible route or a golf car passage.
     Existing courses do not have to provide access to the forward teeing
     ground in alterations, if terrain makes compliance infeasible.\
-     
+     
 
 -   Multiple Teeing Grounds---If one or two teeing grounds are provided
     for a hole, only the forward teeing ground must be accessible either
@@ -485,9 +485,9 @@ Walking Surfaces with Running Slopes of 5% or less
 </div>
 
 
-\* The guide uses the term ADAAG (Americans with Disabilities Act
+\* The guide uses the term ADAAG (Americans with Disabilities Act
 Accessibility Guidelines) as the basis of the requirements discussed.
- The recreational provisions of these guidelines were adopted into the
+ The recreational provisions of these guidelines were adopted into the
 2010 ADA Standards without changes, so the ADAAG section numbers
 correspond to the same section numbers in the ADA Standards (as well as
 the Architectural Barriers Act (ABA) Accessibility Standards).

@@ -5,7 +5,7 @@ Board Proposes Updated ICT Accessibility Requirements
 
 February 18, 2015
 
-The Board has released for public comment a [proposed rule](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/proposed-rule) updating accessibility requirements for information and communication technology (ICT) in the federal sector covered by Section 508 of the Rehabilitation Act. The rule also would jointly update guidelines for telecommunications equipment subject to Section 255 of the Communications Act.
+The Board has released for public comment a [proposed rule](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/proposed-rule) updating accessibility requirements for information and communication technology (ICT) in the federal sector covered by Section 508 of the Rehabilitation Act. The rule also would jointly update guidelines for telecommunications equipment subject to Section 255 of the Communications Act.
 
 "The Board's proposal is responsive to widespread changes and innovations in the IT and communication industries," states Sachin Dev Pavithran, Vice Chair of the Access Board. "It is important that the 508 Standards and 255 Guidelines stay abreast of the ever-evolving technologies they cover so that accessibility for people with disabilities is properly addressed."
 
@@ -22,6 +22,6 @@ The proposed rule specifies the technologies covered and contains performance-ba
 
 "The significant input the Board has received from stakeholders and interested parties throughout this process is reflected in the proposed rule," notes Pavithran. "Such collective feedback is critical to getting things right in the final rule, and it is no different with the current proposal, which includes a host of questions the Board is posing to the public to gather additional information on various topics."
 
-Public comments on the rule, as well as on a preliminary assessment of its estimated costs and benefits, are due on or before May 28, 2015. The Board also will hold public hearings on the rule in San Diego on March 5 and in Washington, DC on March 11. In addition, the Board will conduct a public [webinar](http://www.adaconferences.org/CIOC/) to review the proposal on March 31.
+Public comments on the rule, as well as on a preliminary assessment of its estimated costs and benefits, are due on or before May 28, 2015. The Board also will hold public hearings on the rule in San Diego on March 5 and in Washington, DC on March 11. In addition, the Board will conduct a public [webinar](http://www.adaconferences.org/CIOC/) to review the proposal on March 31.
 
-Further information on this rulemaking, including a [summary](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-proposed-rule) of the rule, is available on the [ICT Refresh](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh) page or by contacting Timothy Creagan at (202) 272-0016 (v), (202) 272-0074 (TTY), or <508@access-board.gov>.
+Further information on this rulemaking, including a [summary](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh/overview-of-the-proposed-rule) of the rule, is available on the [ICT Refresh](https://www.access-board.gov/guidelines-and-standards/communications-and-it/about-the-ict-refresh) page or by contacting Timothy Creagan at (202) 272-0016 (v), (202) 272-0074 (TTY), or <508@access-board.gov>.

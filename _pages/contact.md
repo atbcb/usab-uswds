@@ -22,7 +22,7 @@ If you have questions on these accessibility guidelines and standards call or em
 -   800-993-2822 (tty)
 -   <ta@access-board.gov>
 
-*Technical assistance is available 10:00 -- 5:00 ET weekdays.*
+*Technical assistance is available 10:00 -- 5:00 ET weekdays.*
 
 ## E-mail Directory
 
@@ -47,8 +47,8 @@ If you have questions on these accessibility guidelines and standards call or em
 
 ## Phone Directory
 
-***Voice:***  **202-272-0080** or **800-872-2253**  
-***tty:***  **202-272-0082** or **800-993-2822**
+***Voice:***  **202-272-0080** or **800-872-2253**  
+***tty:***  **202-272-0082** or **800-993-2822**
 
 |Executive Director's Office | &nbsp; | &nbsp; |
 |:--- | --- | --- |
@@ -77,7 +77,7 @@ If you have questions on these accessibility guidelines and standards call or em
 | William Botten | 202-272-0014 (v) | 202-272-0073 (tty) |
 | Phil Bratta | 202-272-0012 (v) | 202-272-0072 (tty) |
 | Timothy Creagan | 202-272-0016 (v) | 202-272-0074 (tty) |
-| Randall Duchesneau | 202-272-0044 (v) | 202-272-0062 (tty) |
+| Randall Duchesneau | 202-272-0044 (v) | 202-272-0062 (tty) |
 | Kathy Eng | 202-272-0013 (v) | 202-272-0071 (tty) |
 | Sarah Presley | 202-272-0046 (v) | 202-272-0051 (tty) |
 | Joshua Schorr | 202-272-0029 (v) | 202-272-0089 (tty) |
@@ -104,7 +104,7 @@ Metro Center is the closest metro station and has entrances/exits at:&nbsp; 12th
 
 ### Directions from Metro:
 
-Metro Stop: [Metro Center](https://www.wmata.com/rider-guide/stations/metro-center.cfm) (red, orange, blue lines)
+Metro Stop: [Metro Center](https://www.wmata.com/rider-guide/stations/metro-center.cfm) (red, orange, blue lines)
 
 Use exit at:
 

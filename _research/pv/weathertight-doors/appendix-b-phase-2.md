@@ -61,7 +61,7 @@ Note: Asterisk (*) inidcates those provisions which apply to GH/INCAT vessel whe
 > Per definition of International Load Line Convention and the LL Technical Manual
 
 | Risk scores for door position | Sill < 8 feet above WL | Sill >/= [8 feet] above WL |
-|   |
+|   |
 
 **Position 1**
 
@@ -282,7 +282,7 @@ Sill < 8 feet above WL
 Sill >/= [8 feet] above WL
 
  |
-|   |
+|   |
 
 **Position 1**
 
@@ -322,7 +322,7 @@ Facing aft
 
  |
 
-> > For doors with low exterior exposure to the elements due to protective structural elements, multiply score by [0.67]. *NOTE: For the GH/INCAT vessel, there is no reduction credited here because there are very limited protective structural features nearby.
+> > For doors with low exterior exposure to the elements due to protective structural elements, multiply score by [0.67]. *NOTE: For the GH/INCAT vessel, there is no reduction credited here because there are very limited protective structural features nearby.
 >
 >\
 > iii. Downflooding potential

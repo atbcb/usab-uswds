@@ -6,10 +6,11 @@ file-description: PDF version of Chapter 6 Bathing Rooms Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-6-bathing-rooms/
 ---
+This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for bathing rooms. 
 
-This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for bathing rooms. 
+{% include sr-dimension-markings.html %}
 
-### Required Compliance 
+### Required Compliance 
 
 [[§213]({{ site.baseurl }}/ada/#ada-213)]
 
@@ -51,7 +52,7 @@ editions).
 
 Additions are required to comply with requirements in the Standards for
 new construction. Each bathing room of an addition must comply as would
-be required in new construction. 
+be required in new construction. 
 
 #### Alterations
 
@@ -90,7 +91,7 @@ nearest accessible bathing room. Those that comply must be labeled by
 the ISA (§216.8).
 
 <div class="border padding-left-1 padding-right-1" style="background-color: #e2e1ef;" markdown="1">
-#### Bathing Room Location
+#### Bathing Room Location
 
 The Standards do not generally require bathing rooms to be provided in a specific location. However, in multi-story facilities that are exempt from the requirement for vertical access between stories based on the story count or square footage per floor (§206.2.3, Ex. 1 or 2), if a bathing room is provided on an inaccessible story, a bathing room also must be provided on an accessible story so that it is connected to an accessible entrance by an accessible route (§213.1). Bathing rooms provided on other stories must fully comply as well.
 </div>
@@ -100,8 +101,8 @@ The Standards do not generally require bathing rooms to be provided in a specifi
 [[§213.3]({{ site.baseurl }}/ada/#ada-213_3)]
 
 Bathing facilities must have at least one compliant shower compartment
-or bathtub. In transient lodging guest rooms, a portion of accessible
-guest rooms must have a roll-in shower with a folding seat (§224.2).
+or bathtub. In transient lodging guest rooms, a portion of accessible
+guest rooms must have a roll-in shower with a folding seat (§224.2).
 
 #### Components of an Accessible Bathing Facility
 
@@ -130,15 +131,15 @@ one urinal is provided."
 [[§608]({{ site.baseurl }}/ada/#ada-608)]
 
 Roll-in shower compartments provide access for shower chairs and other
-wheeled mobility aids without the need to transfer to a seat. The
-Standards provide specifications for a standard type and an alternate
+wheeled mobility aids without the need to transfer to a seat. The
+Standards provide specifications for a standard type and an alternate
 type of roll-in compartment.
 
 A seat can be provided in roll-in showers (and is required in those
-roll-in showers that must be provided to serve a portion of accessible
-transient lodging guest rooms). If a seat is provided, it must be
+roll-in showers that must be provided to serve a portion of accessible
+transient lodging guest rooms). If a seat is provided, it must be
 folding so that it does not impede use with a shower chair or other
-wheeled mobility aid.
+wheeled mobility aid.
 
 #### Standard Roll-In Shower Compartment
 
@@ -147,7 +148,7 @@ shower]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/5.jpg
 
 {% include recommendation.html
 text= "Providing a folding seat in roll-in shower compartments offers greater usability by allowing transfer options. The ICC ANSI A117.1 Standard, which is referenced by the International Building Code, requires a folding seat in each roll-in shower compartment."
-%} 
+%} 
 
 #### Size and Clearance
 
@@ -167,7 +168,7 @@ text= "Providing a folding seat in roll-in shower compartments offers greater us
 
 Grab bars are required on three walls in standard compartments without a
 seat. Grab bars can be continuous or separate. If separate, they must be
-6" maximum from adjacent walls and each must be at the same height
+6&Prime; maximum from adjacent walls and each must be at the same height
 above the finish floor. The grab bars must extend across the side wall
 to the entry. A maximum distance of the grab bar from the shower entry
 is not specified, but they are to be installed near the entry.
@@ -175,7 +176,7 @@ is not specified, but they are to be installed near the entry.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col-8">
-      <img class="img-full padding-1" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/7.jpg" alt="Grab in standard roll-in shower on three walls located 6 inches max. from adjacent walls. Note: Grab bar to extend to shower entry (distance from entry not specified)">
+      <img class="img-full padding-1" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/7.jpg" alt="Grab in standard roll-in shower on three walls located 6 inches maximum from adjacent walls. Note: Grab bar to extend to shower entry (distance from entry not specified)">
       <p class="text-italic">Note: Grab bar to extend to shower entry (distance from entry not specified)</p>
     </div>
     <div class="tablet:grid-col-4">
@@ -189,20 +190,20 @@ is not specified, but they are to be installed near the entry.
 In a standard roll-in compartment without a seat, the controls, faucet,
 and shower spray unit can be located on any of the three walls. They
 must be located above grab bars and within accessible reach range.
-Shower controls and fittings must be at least 1½\" above the grab bar so
+Shower controls and fittings must be at least 1½&Prime; above the grab bar so
 that they do not impede the bar\'s gripping surface. Enclosures cannot
 obstruct controls, faucets, shower spray units or transfer to seats.
 
 ![Shower controls, faucet, and shower spray unit can be placed on any of
-the 3 walls above the grab bar and below a 48\" max. height. Detail
-showing control location 1½" min. above grab
+the 3 walls above the grab bar and below a 48 inches maximum height. Detail
+showing control location 1½ inches minimum above grab
 bar]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/9-10a.png){: .img-large}
 
 #### Thresholds
 
 Thresholds at roll-in showers must comply with specifications for
 changes in level to allow access to wheeled mobility aids. While a
-threshold height up to ½\" (if properly beveled) is permitted, trench
+threshold height up to ½&Prime; (if properly beveled) is permitted, trench
 drains and other designs that allow a flush transition to the shower
 floor will provide easier access. Shower floors can slope to drains (a
 1:48 maximum slope will help control water without impacting
@@ -211,8 +212,8 @@ important that the slope of the floor not exceed the 1:48 minimum cross
 slope.
 
 ![Figure: beveled curb at shower; Detail of beveled curb profile showing
-a vertical change in level up to a height 1/4\" max. and a change in
-level between 1/4\" and 1/2\" max. beveled 1:2 Figure: trench drain at
+a vertical change in level up to a height 1/4 inches maximum and a change in
+level between 1/4 inches and 1/2 inches maximum beveled 1:2 Figure: trench drain at
 shower]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/11.png){: .img-large}
 
 #### Standard Roll-In Shower Compartment with Folding Seat
@@ -220,7 +221,7 @@ shower]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/11.pn
 Equipping roll-in showers with folding seats enhances usability by
 providing a transfer option. This is helpful since many wheeled mobility
 aids are not usable in showers. If provided, the seat must be folding,
-attached to the wall, and extend to within 3\" of the entry. In standard
+attached to the wall, and extend to within 3&Prime; of the entry. In standard
 compartments, it must be located on a side wall. The controls, faucet,
 and hand-held shower spray unit are required to be on the back wall as
 specified so that they are usable from the seat. Grab bars cannot
@@ -259,7 +260,7 @@ text= "Keep lavatories outside the clearance at roll-in showers for easier acces
 #### Alternate Roll-In Shower Compartment
 
 The alternate compartment design allows the shower opening to be
-partially enclosed on one side. An entry at least 36\" wide is required
+partially enclosed on one side. An entry at least 36&Prime; wide is required
 at one end for maneuvering into the shower. The controls, faucet, and
 shower spray unit are located on the side wall farther from the entry.
 As with the standard roll-in compartment, a folding seat can be
@@ -277,8 +278,8 @@ Note: Side wall not shown for clarity.
 The compartment entry and dimensions provide space for making a right
 angle turn into the shower using wheeled mobility aids.
 
-![Alternate roll-in shower compartment that is 60" wide min. and 36"
-deep absolute and has an opening 36" wide min. on the front wall. Note:
+![Alternate roll-in shower compartment that is 60 inches wide minimum and 36 inches
+deep absolute and has an opening 36 inches wide minimum on the front wall. Note:
 Dimensions measured to the center point of opposing
 walls.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/16.jpg){: .img-large}
 
@@ -288,38 +289,38 @@ Note: Dimensions measured to the center point of opposing walls.
 
 ![Person using wheelchair entering an alternate roll-in shower
 compartment. The side wall farther from the opening and the back wall
-have grab bars that extend 6" max. from adjacent
+have grab bars that extend 6 inches maximum from adjacent
 walls.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/17.jpg){: .img-large}
 
 <div class="clearfix" markdown="1">
 #### Grab Bars
 
 ![Elevation of side wall shows controls and shower spray unit located
-above the grab bar and below a max. height of 48". The grab bar is 33"
-to 36" high measured to the top of the gripping
+above the grab bar and below a maximum height of 48 inches. The grab bar is 33 inches
+to 36 inches high measured to the top of the gripping
 surface.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/18.jpg){: .img-medium .float-right}
 
 Grab bars are required on the back wall and the side wall farther from
 the entry. Grab bars can be continuous or separate. If separate, they
-must be 6\" maximum from adjacent walls and must be at the same height
+must be 6&Prime; maximum from adjacent walls and must be at the same height
 above the finish floor.
 
 #### Controls, Enclosures, Thresholds
 
 The controls, faucet, and shower spray unit must be located on the side
 wall farther from the entry if no seat is provided. Shower controls and
-fittings must be at least 1½\" above the grab bar so that they do not
+fittings must be at least 1½&Prime; above the grab bar so that they do not
 impede the bar\'s gripping surface. Enclosures cannot obstruct controls,
 faucets, shower spray units or transfer to seats. As with standard
 roll-in compartments, thresholds must comply with specifications for
-changes in level (i.e., ½\" high maximum and, if greater than ¼\" high,
+changes in level (i.e., ½&Prime; high maximum and, if greater than ¼&Prime; high,
 beveled 1:2 max).
 </div>
 
 #### Alternate Roll-In Shower Compartment with Folding Seat
 
 If provided, a folding seat must be mounted on the front wall and extend
-to within 3\" from the compartment entry. The width of the front wall is
+to within 3&Prime; from the compartment entry. The width of the front wall is
 not specified, but where a seat is provided it should be wide enough to
 accommodate a folding seat of sufficient size.
 
@@ -351,11 +352,11 @@ the seat.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col padding-top-5">
-      <img class="img-full padding-2" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/21.jpg" alt="Controls and shower spray unit shown on back wall 15 inches max. from seat centerline and 48 inches max. high.">
+      <img class="img-full padding-2" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/21.jpg" alt="Controls and shower spray unit shown on back wall 15 inches maximum from seat centerline and 48 inches maximum high.">
       <span class="bold text-center padding-2">Controls and Shower Spray Unit Opposite Seat</span>
     </div>
     <div class="tablet:grid-col">
-       <img class="img-full padding-2" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/22.jpg" alt="Controls and shower spray unit on side wall adjacent to the seat 27 inches max. from the seat wall and above the grab bar which is 33 inches to 36 inches high. The seat height is 17 inches to 19 inches.">
+       <img class="img-full padding-2" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/22.jpg" alt="Controls and shower spray unit on side wall adjacent to the seat 27 inches maximum from the seat wall and above the grab bar which is 33 inches to 36 inches high. The seat height is 17 inches to 19 inches.">
        <span class="bold text-center padding-2">Controls and Shower Spray Unit on Side Wall </span>
     </div>
   </div>
@@ -369,7 +370,7 @@ Transfer shower compartments must have a seat (folding or non-folding)
 and are sized so that controls and grab bars are usable from the seat.
 The depth is also limited so that support is available from the back
 wall once transfer is made to the seat. This is why the width and depth
-are absolute, not minimum, dimensions of 36".
+are absolute, not minimum, dimensions of 36&Prime;.
 
 <div class="grid-container">
   <div class="grid-row">
@@ -385,11 +386,11 @@ are absolute, not minimum, dimensions of 36".
 These dimensions are measured from the centerline of opposing walls
 since prefabricated units often have rounded corners and slightly
 tapered walls to get the form off the mold. The entry must be at least
-36\" wide on the face of the compartment.
+36&Prime; wide on the face of the compartment.
 
 ![These dimensions are measured from the centerline of opposing walls
 since prefabricated units often have rounded corners. The entry must be
-at least 36" wide on the face of the compartment.
+at least 36 inches wide on the face of the compartment.
 ]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/25.jpg){: .img-medium .img-center}
 
 <div class="border clearfix padding-1" markdown="1" style="background-color: #e2e1ef;">
@@ -401,21 +402,21 @@ In dwelling units, a seat is not required if walls are properly reinforced to su
 #### Clearance
 
 <div class="clearfix" markdown="1">
-![Clear floor space at transfer shower compartment that is 36" min. wide
-and 48" min. long measured from the control wall. The clear floor space
-extends 12" min. beyond the seat wall. Person using wheelchair located
+![Clear floor space at transfer shower compartment that is 36 inches minimum wide
+and 48 inches minimum long measured from the control wall. The clear floor space
+extends 12 inches minimum beyond the seat wall. Person using wheelchair located
 in this space and aligned with the seat for side transfer.
 ]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/26.jpg){: .float-right .img-medium}
 
 The required clearance must be located so that it aligns
-with the control wall and extends 12\" minimum from the seat wall. This
+with the control wall and extends 12&Prime; minimum from the seat wall. This
 allows proper alignment with the seat for transfer from wheelchairs. No
 elements, including lavatories, can overlap this clearance as they would
 impede transfer. The seat wall or the flange around the face of
 prefabricated showers may slightly offset the clearance from the shower.
 It is important that this offset be minimized and to limit the gap
 between the clearance and the edge of the seat (which must extend to a
-point within 3\" of the compartment entry).
+point within 3&Prime; of the compartment entry).
 </div>
 
 #### Grab Bars, Controls, and Enclosures
@@ -431,7 +432,7 @@ obstruct controls, faucets, shower spray units, or transfer to seats.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/27.jpg" alt="Controls and shower spray unit located on a side wall 38 inches min. and 48 inches max. above the floor and 15 inches max. from the centerline of the seat. A grab bar extends across the control wall below the controls and shower spray unit.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/27.jpg" alt="Controls and shower spray unit located on a side wall 38 inches minimum and 48 inches maximum above the floor and 15 inches maximum from the centerline of the seat. A grab bar extends across the control wall below the controls and shower spray unit.">
     </div>
     <div class="tablet:grid-col">
        <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/28.jpg" alt="Grab bar on the back wall that extends 18 inches from the control wall and is 33 inches to 36 inches high.">
@@ -441,14 +442,14 @@ obstruct controls, faucets, shower spray units, or transfer to seats.
 
 #### Thresholds
 
-Thresholds are limited to a height of ½\" and can be beveled, rounded,
+Thresholds are limited to a height of ½&Prime; and can be beveled, rounded,
 or vertical. No width is specified for the threshold.
 
-![Curb at transfer shower compartment that is vertical and ½" max. high.
+![Curb at transfer shower compartment that is vertical and ½" maximum high.
 ]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/29.jpg){: .img-large}
 
 <div class="text-italic text-center padding-left-3 padding-right-3">
-Note: A threshold 2" high max. is permitted in alterations where
+Note: A threshold 2&Prime; high maximum is permitted in alterations where
 providing a ½" threshold would disturb the structural reinforcement of
 the floor slab.
 </div>
@@ -473,7 +474,7 @@ a half-wall.
 <div class="text-center text-italic padding-left-3 padding-right-3">
 Note: the seat wall must be high enough to provide sufficient back
 support at the seat. (Back support at dressing room benches must extend
-18" above the seat surface.)
+18&Prime; above the seat surface.)
 </div>
 
 #### Gang Shower Incorporating Roll-In Compartment
@@ -508,14 +509,14 @@ is required at all accessible showers and bathtubs. The required on/off
 control for the hand-held unit must have a \"non-positive shut-off\"
 which does not fully stop the flow of water but allows it to be reduced.
 It also prevents cross-connections and other hazards prohibited by
-plumbing codes. The water temperature is limited to 120°F.
+plumbing codes. The water temperature is limited to 120&deg;F.
 
-The hand-held unit needs to be reachable within a height of 48\" above
+The hand-held unit needs to be reachable within a height of 48&Prime; above
 the shower floor, measured to the operable portion. Vertical bars with
 adjustable heights offer more options for using it in a fixed position
 and are permitted, but they also may result in the hand-held unit being
 out of reach unless it is returned to a lower position. Vertical bars
-cannot obstruct use of grab bars and must be at least 1½\" above the top
+cannot obstruct use of grab bars and must be at least 1½&Prime; above the top
 gripping surface.
 
 <div class="grid-container">
@@ -531,7 +532,7 @@ gripping surface.
 </div>
 
 <div class="border padding-1" style="background-color: #e2e1ef;">
-  A fixed shower head at 48" maximum above the shower floor can substitute for a hand-held shower spray unit at shower compartments (not bathtubs) in facilities not serving as medical or long-term care facilities, transient lodging, or dwelling units.
+  A fixed shower head at 48&Prime; maximum above the shower floor can substitute for a hand-held shower spray unit at shower compartments (not bathtubs) in facilities not serving as medical or long-term care facilities, transient lodging, or dwelling units.
 </div>
 
 ### Grab Bars
@@ -539,36 +540,36 @@ gripping surface.
 [[§607.4]({{ site.baseurl }}/ada/#ada-607_4)]
 
 So that use of grab bars at shower compartments and bathtubs is not
-impeded, any projecting objects must be located at least 12\" above the
-top surface of grab bars and at least 1½\" from the bottom and ends of
+impeded, any projecting objects must be located at least 12&Prime; above the
+top surface of grab bars and at least 1½&Prime; from the bottom and ends of
 grab bars. However, other grab bars and shower controls and fittings can
-be located at least 1½\" above grab bars.
+be located at least 1½&Prime; above grab bars.
 
 <div class="clearfix" markdown="1">
-![Clearance shown to be 12" high min above a shower grab bar and 1 ½"
+![Clearance shown to be 12 inches high min above a shower grab bar and 1 ½ inches
 min from the bottom and sides of the bar. Controls and the hand-held
-shower spray unit can be located within the 12" clearance above the bar
+shower spray unit can be located within the 12 inches clearance above the bar
 but other elements like soap dispensers cannot.
 ]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/34.jpg){: .float-left .img-medium}
 
-_Shower controls and fittings can be 1½\" min. above grab bars, but
+_Shower controls and fittings can be 1½&Prime; minimum above grab bars, but
 other projecting objects, such as soap dispensers, must be outside the
-12\" min. clear space above grab bars. This required 12\" min. clearance
-limits to a narrow range (45\" -- 48\") the height of accessible
-operable parts depending on the grab bar height (33\" -- 36\")._
+12&Prime; minimum clear space above grab bars. This required 12&Prime; minimum clearance
+limits to a narrow range (45&Prime; to 48&Prime;) the height of accessible
+operable parts depending on the grab bar height (33&Prime; to 36&Prime;)._
 </div>
 
 Grab bars can have circular or non-circular cross-sections but must have
-rounded edges. The 1½\" clearance between the grab bar and wall is not a
+rounded edges. The 1½&Prime; clearance between the grab bar and wall is not a
 minimum but an absolute dimension to prevent entrapment. Grab bars
 cannot rotate within fittings. The structural strength of grab bars must
 withstand a vertical or horizontal force of 250 lbs. at any point on the
 grab bar, fastener, mounting device, or supporting structure.
 
-![Grab bar with a circular cross section 1 1/4\" - 2\" in diameter and a
-clearance from the wall 1 1/2\" Grab bar with non-circular cross section
-with rounded edges and a perimeter dimension 4\" - 4.8\", a max.
-cross-section dimension of 2\", and a clearance 1 1/2\" from the
+![Grab bar with a circular cross section 1 1/4 inches to 2 inches in diameter and a
+clearance from the wall 1 1/2 inches Grab bar with non-circular cross section
+with rounded edges and a perimeter dimension 4 inches to 4.8 inches, a maximum
+cross-section dimension of 2 inches, and a clearance 1 1/2 inches from the
 wall]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/35.png){: .img-large}
 
 <div class="border padding-1" style="background-color: #e2e1ef;">
@@ -582,8 +583,8 @@ wall]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/35.png)
 Seats at transfer and roll-in shower compartments can be rectangular or
 L-shaped. The L-shaped seat affords users additional support and
 stability from the back wall. To facilitate transfer, the seat height
-(17\" -- 19\" measured to the bathroom finish floor) approximates
-wheelchair seat heights. Seats must extend to a point within 3\" of the
+(17&Prime; to 19&Prime; measured to the bathroom finish floor) approximates
+wheelchair seat heights. Seats must extend to a point within 3&Prime; of the
 compartment entry to minimize the transfer gap. Seats must withstand a
 vertical or horizontal force of 250 lbs. at any point on the seat,
 fastener, mounting device, or supporting structure. Folding seats can
@@ -592,15 +593,15 @@ have legs.
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/36.jpg" alt="Rectangular shower seat with a rear edge that is 2½ inches max. from the seat wall and a front edge 15 inches to 16 inches from the seat wall. The side edge is 1 ½ inches from the adjacent wall. The seat must extend to a point within 3 inches of the compartment entry.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/36.jpg" alt="Rectangular shower seat with a rear edge that is 2½ inches maximum from the seat wall and a front edge 15 inches to 16 inches from the seat wall. The side edge is 1½ inches from the adjacent wall. The seat must extend to a point within 3 inches of the compartment entry.">
     </div>
     <div class="tablet:grid-col">
-       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/37.jpg" alt="L-shaped shower seat with a rear edge that is 2½ inches max. from the seat wall and a front edge 15 inches to 16 inches from the seat wall. The rear edge of the L-portion is 1 ½ inches from the wall and the front edge is 14 inches to 15 inches from the wall. The end of the L is 22 inches to 23 inches from the main seat wall.">
+       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/37.jpg" alt="L-shaped shower seat with a rear edge that is 2½ inches maximum from the seat wall and a front edge 15 inches to 16 inches from the seat wall. The rear edge of the L-portion is 1½ inches from the wall and the front edge is 14 inches to 15 inches from the wall. The end of the L is 22 inches to 23 inches from the main seat wall.">
     </div>
   </div>
 </div>
 
-![Folding seat with a height of 17" -- 19" when open.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/38.jpg){: .img-large}
+![Folding seat with a height of 17 inches to 19 inches when open.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/38.jpg){: .img-large}
 
 ### Bathtubs
 
@@ -618,20 +619,20 @@ of 250 lbs. at any point on the seat, fastener, mounting device, or
 supporting structure. Designs providing back support are advisable but
 not required.
 
- ![Bathtub with removable
+![Bathtub with removable
 seat.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/39.jpg){: .img-large}
 
-![Removable seat tub seat 15" -- 16" deep and 17" -- 19"
+![Removable seat tub seat 15 inches to 16 inches deep and 17 inches to 19 inches
 high]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/40.jpg){: .img-large}
 
 #### Clearance and Grab Bars
 
 <div class="clearfix" markdown="1">
 ![Tub with removable seat with grab bars on three walls: one on
-control wall 24" min. long, two parallel bars on the back wall that are
-24" min. long and 12" max. from the control wall and 24" max. from the
-head end wall, and one on the head end 12" min. long located near the
-front. Clearance in front of the tub is 30" wide min. and the length of
+control wall 24 inches minimum long, two parallel bars on the back wall that are
+24 inches minimum long and 12 inches maximum from the control wall and 24 inches maximum from the
+head end wall, and one on the head end 12 inches minimum long located near the
+front. Clearance in front of the tub is 30 inches wide minimum and the length of
 the tub. A lavatory can overlap this clearance at the control
 end.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/41.jpg){: .img-medium .float-right}
 
@@ -651,7 +652,7 @@ allowing for the bar and attachment to be properly secured.
 text= "Keep lavatories outside the tub clearance for easier access to tub controls."
 %}
 
-![Tub grab bars 33" -- 36" high; lower grab bar on back wall 8" -- 10"
+![Tub grab bars 33 inches to 36 inches high; lower grab bar on back wall 8 inches to 10 inches
 above bathtub rim]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/42.jpg){: .img-large}
 
 <div class="bold text-center">
@@ -686,31 +687,31 @@ open tub face.
 Permanent seats must be located at the head end and extend from the back
 wall to or beyond the outer edge of the bathtub. Specifications for grab
 bars and clearances are different for bathtubs with permanent seats. The
-head end provides back support at the seat and does not contain the 12\"
+head end provides back support at the seat and does not contain the 12&Prime;
 minimum grab bar required at bathtubs with removable seats.
 
 ![Tub with permanent seat at head end
 ]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/45.jpg){: .img-large}
 
-![Detail of permanent seat that is 15\" deep min. and 17\" - 19\" high.
+![Detail of permanent seat that is 15 inches deep minimum and 17 inches to 19 inches high.
 Grab bars on the back wall extend to seat edge. There is no grab bar on
 the end wall at the seat.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/46.jpg){: .img-large}
 
 #### Grab Bars and Clearance
 
-The grab bars on the back wall must extend to 15\" maximum from the head
+The grab bars on the back wall must extend to 15&Prime; maximum from the head
 end wall so that they are usable from the seat.
 
 ![Tub with permanent seat and parallel grab bars on the back wall that
-extend 12" max. from the control wall and 15" max. from the head end
-wall. One bar is 33" -- 36" high and the other is 8" -- 10" above the
-tub rim. The height of the seat is 17" -- 19."]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/47.jpg){: .img-large}
+extend 12 inches maximum from the control wall and 15 inches maximum from the head end
+wall. One bar is 33 inches to 36 inches high and the other is 8 inches to 10 inches above the
+tub rim. The height of the seat is 17 inches to 19 inches.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/47.jpg){: .img-large}
 
-![Clearance at a tub with a permanent seat is 30" wide min. and extends
-the length of the tub plus 12" beyond the head end wall. Persons using
+![Clearance at a tub with a permanent seat is 30 inches wide minimum and extends
+the length of the tub plus 12 inches beyond the head end wall. Persons using
 wheelchair shown aligning with permanent seat for side transfer.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/48a.png){: .img-large}
 
-The clearance in front of the bathtub must extend 12\" minimum beyond
+The clearance in front of the bathtub must extend 12&Prime; minimum beyond
 the seat wall so people using wheelchairs can align with the seat for
 lateral transfer. The seat wall often extends farther than the edge of
 the bathtub. While the bathtub clearance does not have to abut the
@@ -758,7 +759,7 @@ clearances.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/
 
 #### Turning Space
 
-Turning space is required in the room (60\" diameter circle or a
+Turning space is required in the room (60&Prime; diameter circle or a
 T-shaped space). The turning space can overlap fixture clearances, and
 doors can swing into the turning space under any condition. Elements
 with compliant knee and toe space, such as a lavatory, can partially
@@ -770,7 +771,7 @@ shower.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/53.p
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col padding-top-5">
-      <span class="text-italic">The door maneuvering clearance can be offset up to 8" from the face of the door. Elements, such as grab bars, that can fit within this offset are permitted so long as they do not protrude into the minimum maneuvering clearance.</span>
+      <span class="text-italic">The door maneuvering clearance can be offset up to 8&Prime; from the face of the door. Elements, such as grab bars, that can fit within this offset are permitted so long as they do not protrude into the minimum maneuvering clearance.</span>
     </div>
     <div class="tablet:grid-col">
        <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/54.png" alt="Grab bar on side wall at water closet that does not overlap the door
@@ -800,7 +801,7 @@ An accessible route must connect to the entry of the alternate roll-in
 shower compartment, but additional clearance at the fixture is not
 required. At least one lavatory must provide the required clearance.
 Since the door swings into the clearance of one fixture (the water
-closet), an unobstructed clear floor space 30\" minimum by 48\" minimum
+closet), an unobstructed clear floor space 30&Prime; minimum by 48&Prime; minimum
 is required in the room beyond the door swing. This provides space in
 single-user facilities to enter the room and clear the door. The
 location or orientation of the space is not specified, but it should be
@@ -845,11 +846,11 @@ closet,]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/62.p
 
 #### Fixture Clearances and Clear Floor Space Beyond Door Swing
 
-An unobstructed clear floor space 30\" minimum by 48\" minimum is
+An unobstructed clear floor space 30&Prime; minimum by 48&Prime; minimum is
 required in this design because the door swings into fixture clearances
 (lavatory and bathtub). (In residential dwelling units, a lavatory
 adjacent to the water closet can overlap a portion of the water closet
-clearance if the clearance depth is increased by 10\", but keeping the
+clearance if the clearance depth is increased by 10&Prime;, but keeping the
 space beside the water closet clear provides better access by allowing
 positioning for side transfers).
 
@@ -861,7 +862,7 @@ door.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/63.png
 #### Option: Bathtub with a Permanent Seat
 
 Bathtubs with a permanent seat require more clearance. The clearance
-must extend the full length of the bathtub and seat and at least 12\"
+must extend the full length of the bathtub and seat and at least 12&Prime;
 beyond the seat to allow proper alignment for transfer.
 
 ![Bathroom with same layout but with a tub that has a permanent seat.
@@ -898,7 +899,7 @@ lavatories.]({{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/
 #### Fixture Clearances and Clear Floor Space Beyond Door Swing
 
 Since this bathtub has a permanent seat, the required clearance extends
-at least 12\" beyond the head end wall. Similarly, the clearance at the
+at least 12&Prime; beyond the head end wall. Similarly, the clearance at the
 transfer shower must extend the same distance beyond the seat wall. The
 shower and bathtub clearances partially overlap. The door swings into
 these clearances, and the required unobstructed wheelchair space beyond
@@ -942,7 +943,7 @@ provided (§205). Turning space (§603.2.1).]({{ site.baseurl }}{{ page.image-di
 
 ### Common Questions
 
-![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail} 
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail} 
 
 #### Bathing Rooms
 
@@ -1018,7 +1019,7 @@ of the nearest accessible bathing room which must be labeled by the ISA
 ##### In transient lodging facilities, can roll-in showers be provided in those accessible guest rooms not required to have them?
 
 A specified portion of accessible guest rooms in transient lodging
-facilities with over 50 guest rooms must have a roll-in shower with a
+facilities with over 50 guest rooms must have a roll-in shower with a
 folding seat (§224.2). This shower design is required for transient
 lodging facilities because it affords users the option to roll in or to
 transfer to a seat. To provide additional bathing options, the Standards
@@ -1083,7 +1084,7 @@ with folding seats. In facilities with multiple bathrooms or bathing
 facilities, it is generally advisable to provide different types of
 bathing fixtures to allow more options.
 
-##### Can transfer shower compartments be larger than 36" by 36"?
+##### Can transfer shower compartments be larger than 36&Prime; by 36&Prime;?
 
 No. These are absolute, not minimum, dimensions. The specified size
 provides sufficient space while keeping the controls and grab bars
@@ -1093,14 +1094,14 @@ seat.
 ##### Can the corners of prefabricated shower compartments be rounded?
 
 Yes. Shower compartments are measured at the center points (horizontal
-and vertical) of opposing sides to permit rounded corners.
+and vertical) of opposing sides to permit rounded corners.
 
 ##### Is a fixed shower head required in addition to the hand-held shower spray unit?
 
 The Standards require only a hand-held shower spray unit that is also
 usable in a fixed position. A separate fixed shower head at a standard
 height can be provided in addition to the hand-held shower spray unit. A
-fixed shower head at 48\" maximum above the shower floor can substitute
+fixed shower head at 48&Prime; maximum above the shower floor can substitute
 for a hand-held shower spray unit at shower compartments except in
 medical or long-term care facilities, transient lodging, or dwelling
 units.
@@ -1124,7 +1125,7 @@ Yes. Grab bars required at showers must be installed at the same height
 Yes. Grab bars, if properly secured, can be located on a half wall or
 wing wall. However, it is important that adequate wall surface is
 available to provide support and to keep arms from slipping off the bar.
-Wall surface that extends the full height of the required 12\" clearance
+Wall surface that extends the full height of the required 12&Prime; clearance
 above grab bars, or preferably to the standard adult shoulder height for
 standees, should provide sufficient support in using grab bars.
 
@@ -1135,13 +1136,13 @@ shower extend close to the shower entry so that it is usable from
 outside the compartment for transfer. A maximum horizontal distance
 between the grab bar and the entry is not specified in the Standards. In
 standard roll-in showers, grab bars are generally required to extend
-near the opening; if the shower is considerably deeper than the 30\"
+near the opening; if the shower is considerably deeper than the 30&Prime;
 minimum, grab bars should be lengthened so that they extend to the
 entry, but this is not required.
 
 ##### How close must the grab bar extend to the corner of the shower compartment?
 
-In roll-in showers, grab bars must be located 6\" maximum from adjacent
+In roll-in showers, grab bars must be located 6&Prime; maximum from adjacent
 walls. In a transfer shower, grab bars that are separate must extend as
 close as feasible to the adjacent wall (a maximum distance is not
 specified).
@@ -1149,7 +1150,7 @@ specified).
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col padding-top-5">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/75.jpg" alt="Roll-in shower with split grab bars that are 6 inches max. from adjacent walls.">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/75.jpg" alt="Roll-in shower with split grab bars that are 6 inches maximum from adjacent walls.">
     </div>
     <div class="tablet:grid-col">
        <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}chapter6/bathing-rooms/74.png" alt="Transfer shower with split grab bars that extend to the corner of the shower.">
@@ -1157,21 +1158,21 @@ specified).
   </div>
 </div>
 
-##### Can shower diverter valves be located on fixed shower heads mounted more than 48" above the shower floor?
+##### Can shower diverter valves be located on fixed shower heads mounted more than 48&Prime; above the shower floor?
 
 No. Shower controls, including diverters for shower spray handheld
 units, must be within the location specified for shower controls at
-transfer and roll-in shower compartments. The maximum height is 48\"
+transfer and roll-in shower compartments. The maximum height is 48&Prime;
 above the shower floor.
 
-##### Can a handheld shower spray unit be mounted to a vertical bar that provides adjustable positions above a height of 48"?
+##### Can a handheld shower spray unit be mounted to a vertical bar that provides adjustable positions above a height of 48&Prime;?
 
 Yes. Handheld shower spray units can be mounted to vertical bars with
 adjustable heights. The bar must be located so that the shower spray
-unit can be positioned within the specified location and maximum 48\"
+unit can be positioned within the specified location and maximum 48&Prime;
 height. The vertical bar cannot obstruct the use of grab bars (§608.6);
-while it can be located within the 12" min. clearance above the grab
-bar as a shower fitting, it must allow a clearance of at least 1½"
+while it can be located within the 12&Prime; minimum clearance above the grab
+bar as a shower fitting, it must allow a clearance of at least 1½&Prime;
 above the bar and cannot extend behind the grab bar. Shower spray units
 should be returned to a lower position so that they remain within
 accessible reach for other users.
@@ -1185,7 +1186,7 @@ compartments will typically fail this test. For example, a swing door on
 a transfer shower will hinder transfer unless it can swing clear of the
 required clearance, but it will be very hard to close such a door from
 the shower seat. A door may be possible on an alternate roll-in shower
-if the shower opening provides a clear width of at least 36\" min. when
+if the shower opening provides a clear width of at least 36&Prime; minimum when
 the door is open 90 degrees.
 
 ##### Are rinsing showers at swimming pools, beaches, and camping areas required to comply as showers?
@@ -1197,7 +1198,7 @@ space and compliant controls within accessible reach range. The ABA
 Standards, which apply to federally funded facilities, include
 provisions for outdoor developed areas on federal lands. These
 provisions include requirements for outdoor rinsing showers (§1011.7)
-which can be consulted as a reference for other types of outdoor sites. 
+which can be consulted as a reference for other types of outdoor sites. 
 
 #### Grab Bars and Shower Spray Units
 
@@ -1223,7 +1224,7 @@ surfaces.
 No. The ADA Standards do not require a vertical grab bar at bathing
 fixtures. Vertical bars are helpful and provide support when stepping
 into bathtubs or showers. The ICC A117.1 standard, which is referenced
-by the International Building Code, requires an 18\" minimum vertical
+by the International Building Code, requires an 18&Prime; minimum vertical
 grab bar at transfer showers and bathtubs.
 
 ##### What is a non-positive shut-off for the on/off control on hand-held shower spray units?
@@ -1244,6 +1245,6 @@ transfer walls or systems, apply to spa tubs.
 ##### Do the Standards specify the height of bathtub walls?
 
 No. The Standards specify the height of removable and permanent tub
-seats (17" -- 19") but not the height of tub walls or rims. The
+seats (17&Prime; to 19&Prime;) but not the height of tub walls or rims. The
 outside tub wall should be the same height as permanent tub seats for
 easier access.

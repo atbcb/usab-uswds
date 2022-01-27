@@ -97,7 +97,7 @@ Impact tests were performed by a cooperator (Zeager Bros. Inc.) 7 weeks after EW
 
 ![Figure 10---Impact test setup for drop height of 3.05 m (10 ft). ](https://www.access-board.gov/images/research/ewf/report-surfaces_clip_image002_0008.jpg)
 
-**Figure 10---Impact test setup for drop height ****of 3.05 m (10 ft).**
+**Figure 10---Impact test setup for drop height ****of 3.05 m (10 ft).**
 
 ![Figure 11--- Biodeterioration samples on EWF surface. ](https://www.access-board.gov/images/research/ewf/report-surfaces_clip_image002_0009.jpg)
 

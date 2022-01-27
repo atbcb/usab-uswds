@@ -6,7 +6,7 @@ file-description: PDF version of Chapter 6 Lavatories and Sinks Guide
 ---
 ## {{ page.title }}
 
-This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for lavatories and sinks.
+This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for lavatories and sinks.
 
 ![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/lavs-sinks/sink.png){: .img-right }{: .thumbnail }
 

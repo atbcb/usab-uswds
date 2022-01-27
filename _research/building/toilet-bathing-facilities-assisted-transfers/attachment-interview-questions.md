@@ -46,7 +46,7 @@ b) Was the amount of space required affected?
 
 c) Was there a need for additional space for caregiver assistance or storage for wheelchairs and other mobility aids?
 
-d) Were other changes necessary? 
+d) Were other changes necessary? 
 
 6\. In the facilities you have designed, have you made accommodations for lifts, lift tracks, transfer and roll-in showers, shower chairs, bathtubs, movable grab bars, and other assistive technologies (such as placement of doorways, and location of fixtures)? If so, what were they?
 
