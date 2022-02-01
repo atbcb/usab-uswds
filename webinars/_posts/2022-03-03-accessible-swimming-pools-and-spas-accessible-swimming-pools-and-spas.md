@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Accessible Swimming Pools and Spas Accessible Swimming Pools and Spas
+title: Accessible Swimming Pools and Spas
 date: 2022-03-03
 excerpt: Splish splash! People with disabilities use swimming pools and spas for
   rehabilitation, exercise, rest, and relaxation. This session will review
