@@ -7,3 +7,4 @@ job-title: Chief Technology Officer
 office: Office of Administration
 agency: United States Access Board
 ---
+Charles Washington serves as Chief Technology Officer in the Office of Administration at the Access Board. 
