@@ -3,6 +3,7 @@ name: dave-yanchulis
 first_name: Dave
 last_name: Yanchulis
 full_name: Dave Yanchulis
+image: /images/uploads/dave-yanchulis.png
 executive-director: false
 job-title: Director
 director: true
