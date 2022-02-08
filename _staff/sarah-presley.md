@@ -3,6 +3,7 @@ name: sarah-presley
 first_name: Sarah
 last_name: Presley
 full_name: Sarah Presley
+image: /images/uploads/sarah-presley.png
 office: Office of Technical and Information Services
 job-title: Accessibility Specialist
 agency: "United States Access Board "
