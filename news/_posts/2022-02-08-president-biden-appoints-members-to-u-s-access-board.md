@@ -50,6 +50,6 @@ In addition, the President reappointed to the Board Gregory S. Fehribach of Indi
 
 These appointments succeed Board members Marc D. Guthrie, Patrick D. Cannon, Howard A. Rosenblum, Regina Blye, Christopher Stephen Hart, Mathew McCollough, and Rochelle Gill Siegel.
 
-“I thank these members for their service and time on the Board. They have provided a valuable service to the public and future generations in advancing accessibility throughout society,” Board Executive Director Sachin Pavithran remarked. “I also welcome and am excited to work with the diverse group of new members to fulfill the Board’s mission.”
+"I thank these members for their service and time on the Board. They have provided a valuable contribution to the public and future generations in advancing accessibility throughout society," Board Executive Director Sachin Pavithran remarked. "I also welcome and am excited to work with the diverse group of new members to advance the Board's mission."
 
 The U.S. Access Board is an independent federal agency that provides leadership in accessible design under the ADA and other laws. The Board is structured to function as a coordinating body among Federal agencies and to directly represent the public, particularly people with disabilities. Twelve members of the governing Board are representatives from most of the federal departments. The other thirteen are comprised of members of the public appointed by the President to four-year terms. More information can be found on the [Board Members webpage](https://www.access-board.gov/about/board-members/).
