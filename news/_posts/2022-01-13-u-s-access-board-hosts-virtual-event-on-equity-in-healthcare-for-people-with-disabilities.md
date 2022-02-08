@@ -9,7 +9,7 @@ excerpt: The U.S. Access Board hosted the virtual public event “Equity in
   accessibility, including inclusive medical equipment, healthcare facility
   design, and information technology, and communication . . .
 image: /images/uploads/mri.png
-featured: true
+featured: false
 ---
 The U.S. Access Board hosted the virtual public event "Equity in Healthcare for People with Disabilities" yesterday. The event featured panel presentations on standards, research, and resources related to healthcare accessibility, including inclusive medical equipment, healthcare facility design, and information technology, and communication devices and systems. Members of the public were able to pose questions to the presenters during the event. 
 
