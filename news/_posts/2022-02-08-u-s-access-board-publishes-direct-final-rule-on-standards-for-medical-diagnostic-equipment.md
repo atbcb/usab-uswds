@@ -20,9 +20,9 @@ This rule is effective **February 3, 2022**, without further action, unless adve
 * Email: [docket@access-board.gov](mailto:docket@access-board.gov). Include docket number ATBCB-2021-0002 in the subject line of the message.
 * Mail:
 
-> Office of General Counsel
-> U.S. Access Board
-> 1331 F Street NW, Suite 1000\
+> Office of General Counsel \
+> U.S. Access Board \
+> 1331 F Street NW, Suite 1000 \
 > Washington, DC 20004-1111
 
 For access to the docket to read background documents or comments received, go to [https://www.regulations.gov/ docket/ ATBCB-2022-0002](https://www.regulations.gov/docket/ATBCB-2022-0002). For further information, contact Wendy Marshall at [marshall@access-board.gov](mailto:marshall@access-board.gov) or 1-202-272-0043.
