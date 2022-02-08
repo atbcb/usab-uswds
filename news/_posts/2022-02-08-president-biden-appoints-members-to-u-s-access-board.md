@@ -1,7 +1,7 @@
 ---
 layout: post
 title: President Biden Appoints Members to U.S. Access Board
-date: 2022-02-08
+date: 2022-02-09
 excerpt: Yesterday, President Joe Biden appointed eight new members to the U.S.
   Access Board. He also reappointed one incumbent Board member, Gregory S.
   Fehribach who is currently the Board’s Chair . . .
