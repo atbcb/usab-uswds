@@ -10,7 +10,7 @@ excerpt: Christopher Kuczynski has been appointed General Counsel for the U.S.
   staff regarding . . .
 image: /images/uploads/kuczynski.png
 image_alt_text: Portrait of Christopher Kuczynski
-featured: true
+featured: false
 ---
 Christopher Kuczynski has been appointed General Counsel for the U.S. Access Board. He succeeds Gretchen Jacobs who retired at the end of 2021. In this role, Kuczynski will guide the Board's legal affairs and lead enforcement efforts under the Architectural Barriers Act (ABA). The Board's Office of General Counsel (OGC) provides legal expertise and counsel to the Board and staff regarding the work and operations of the agency, including matters related to Board jurisdiction or authorities and the legal sufficiency of agency regulatory initiatives. OGC also manages the agency's ethics, Freedom of Information Act (FOIA), and privacy programs and oversees the Board's ABA Compliance and Enforcement program.   
 
