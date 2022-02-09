@@ -210,7 +210,7 @@ collections:
           hint: 'Pres. George Washington, PhD',
           required: true,
         }
-     - {
+      - {
           label: "Pronouns",
           name: "pronouns",
           widget: "string",
@@ -294,6 +294,13 @@ collections:
       - { label: "First Name", name: "first_name", widget: "string" }
       - { label: "Last Name", name: "last_name", widget: "string" }
       - { label: "Full Name", name: "full_name", widget: "string" }
+      - {
+          label: "Pronouns",
+          name: "pronouns",
+          widget: "string",
+          hint: 'he/him, she/her, they/them',
+          required: false,
+        }
       - {
           label: "Image",
           name: "image",
