@@ -210,6 +210,13 @@ collections:
           hint: 'Pres. George Washington, PhD',
           required: true,
         }
+     - {
+          label: "Pronouns",
+          name: "pronouns",
+          widget: "string",
+          hint: 'he/him, she/her, they/them',
+          required: false,
+        }
       - {
           label: "Chairperson",
           name: "chair",
@@ -237,7 +244,7 @@ collections:
           label: "Status",
           name: "status",
           widget: "select",
-          options: ["current", "former"],
+          options: ["current", "former", "pending"],
           required: true,
           hint: "Is this a current or former board member?",
         }
