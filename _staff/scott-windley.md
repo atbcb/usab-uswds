@@ -6,7 +6,7 @@ full_name: Scott Windley
 image: /images/uploads/scott-windley.jpg
 job-title: Technical Assistance Coordinator
 office: Office of Technical and Information Services
-agency: United States Access Board
+agency: ""
 ---
 Scott Windley serves as the Technical Assistance Coordinator of the Office of Technical and Information Services at the Access Board. He has been on staff at the Access Board since 1997. He previously worked at The Center for Universal Design as well as the University of Idaho’s Facilities Planning and Design Department as an intern architect. 
 
