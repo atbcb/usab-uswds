@@ -6,7 +6,7 @@ layout: page
   This is used for individula Board Member and Staff pages. Banner title is defined in the _config.yml
 {% endcomment %}
 
-<h1 class="title">{{ page.full_name }}</h1>
+<h1 class="title">{{ page.full_name }}{% if page.pronouns %}<span class="text-base text-italic text-bold"> ({{ page.pronouns }})</span><br>{% endif %}</h1>
   {% if page.job-title %}<span class="text-base text-italic text-bold">{{ page.job-title }}</span><br>{% endif %}  
   {% if page.office %}<span class="text-base text-bold">{{ page.office }}</span><br>{% endif %}  
   {% if page.agency %}<span class="text-base text-bold">{{ page.agency }}</span><br>{% endif %}  
