@@ -6,7 +6,7 @@ full_name: Tim Creagan
 image: /images/uploads/usab-logo.png
 job-title: Senior Accessibility Specialist
 office: Office of Technical and Information Services
-agency: "United States Access Board "
+agency: ""
 ---
 Tim Creagan is a Senior Accessibility Specialist with the Access Board. Creagan provides technical assistance and training on the Revised Section 508 Standards and Section 255 Guidelines. Creagan serves as co-chair of the Education subcommittee of the Accessibility Community of Practice (ACOP) of the Chief Information Officers’ Council. Creagan also serves on the Disability Advisory Committee of the Federal Communications Commission. 
 
