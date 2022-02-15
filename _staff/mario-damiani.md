@@ -3,6 +3,7 @@ name: "mario-damiani "
 first_name: Mario
 last_name: "Damiani "
 full_name: "Mario Damiani "
+image: /images/uploads/mario-damiani.png
 pronouns: he/his/him
 job-title: Senior Compliance Specialist
 office: Office of General Counsel
