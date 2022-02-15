@@ -3,6 +3,7 @@ name: sherrice-macklin
 first_name: Sherrice
 last_name: Macklin
 full_name: Sherrice R. Macklin
+image: /images/uploads/sherrice-macklin.png
 job-title: Human Resources Specialist
 office: Office of Administration
 agency: ""
