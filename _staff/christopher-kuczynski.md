@@ -3,7 +3,7 @@ name: christopher-kuczynski
 first_name: Christopher
 last_name: Kuczynski
 full_name: Christopher J. Kuczynski
-image: /images/uploads/usab-logo.svg
+image: /images/uploads/christopher-kuczynski.png
 job-title: General Counsel
 office: Office of General Counsel
 agency: ""
