@@ -3,7 +3,7 @@ name: bruce-bailey
 first_name: Bruce
 last_name: Bailey
 full_name: Bruce Bailey
-image: /images/uploads/bailey.jpg
+image: /images/uploads/bruce-bailey.png
 job-title: IT Specialist
 office: Office of Technical and Information Services
 ---
