@@ -3,6 +3,7 @@ name: katherine-eng
 first_name: Katherine
 last_name: Eng
 full_name: Katherine Eng
+image: /images/uploads/kathy-eng.png
 job-title: Senior ICT Accessibility Specialist
 office: Office of Technical and Information Services
 agency: ""
