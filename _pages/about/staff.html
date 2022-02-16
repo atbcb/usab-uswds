@@ -20,7 +20,7 @@ title: Access Board Staff
   {% assign ogc = site.staff | where: "office", "Office of General Counsel" | sort: "last_name" %}
   {% assign oed = site.staff | where: "office", "Office of Executive Director" | sort: "last_name" %}
    <!-- Office of Executive Director -->
-   <div class="">
+   <div>
     {% for person in oed %}
     {% if person.director == true %}
     <h2 class="site-preview-heading">{{ person.office }}</h2>
@@ -82,7 +82,7 @@ title: Access Board Staff
   </div>
   <br class="page-break">
   <!-- Office of Administration -->
-  <div class="">
+  <div>
     {% for person in oa %}
     {% if person.director == true %}
     <h2 class="site-preview-heading">{{ person.office }}</h2>
@@ -145,7 +145,6 @@ title: Access Board Staff
   <br class="page-break">
   <!-- Office of General Counsel -->
   <div>
-    <p>OGC Team</p>
     {% for person in ogc %}
     {% if person.director == true %}
     <h2 class="site-preview-heading">{{ person.office }}</h2>
@@ -207,7 +206,7 @@ title: Access Board Staff
   </div>
   <br class="page-break">
     <!-- Office of Technical and Information Services -->
-    <div class="">
+    <div>
       {% for person in otis %}
       {% if person.director == true %}
       <h2 class="site-preview-heading">{{ person.office }}</h2>
