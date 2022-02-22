@@ -14,11 +14,11 @@ Members of the U.S. Access Board meet regularly every two months. Board meetings
 
 The next virtual meeting of the Board will take place on **Wednesday, March 9, 2022,** beginning at 1:00 p.m. (Eastern).  During this meeting, the Board will hold its annual election of officers, hear committee reports and updates from Federal member agencies.  During opening remarks, Chairman Gregory Fehribach will recognize outgoing members and introduce new appointees.  The guest speaker is Assistant Attorney General Kristen Clarke of the U.S. Department of Justice.  
 
-> ***Meeting of the U.S. Access Board***
-> March 9, 2022, 1:00 – 2:15 p.m. (ET)
-> Meeting link: [www.zoomgov.com/j/1618590214](https://www.zoomgov.com/j/1618590214?pwd=YkxIdHBwWFVJb1doeE1Tam82ejlmQT09)
-> Meeting ID: 161 859 0214; Passcode 433993
-> Dial in: (646) 828-7666
+> ***Meeting of the U.S. Access Board*** /
+> March 9, 2022, 1:00 – 2:15 p.m. (ET) /
+> Meeting link: [www.zoomgov.com/j/1618590214](https://www.zoomgov.com/j/1618590214?pwd=YkxIdHBwWFVJb1doeE1Tam82ejlmQT09) /
+> Meeting ID: 161 859 0214; Passcode 433993 /
+> Dial in: (646) 828-7666 /
 > Contact: <events@access-board.gov>
 >> _Agenda_
 >> * Introductory Remarks; Roll Call
