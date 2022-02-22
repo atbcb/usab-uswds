@@ -10,18 +10,21 @@ permalink: /about/meetings.html
 
 Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Since the COVID-19 pandemic, Board meetings are held virtually. Communication Access Realtime Translation (CART) and sign language interpreters are available at all Board meetings and events. 
 
-At its last meeting on January 12, 2022, staff provided a presentation on ["Equity in Healthcare for People with Disabilties"](https://www.youtube.com/watch?v=3HxX08HfCMc).  Presentation materials are available in [PPT (16MB)](https://www.access-board.gov/files/presentations/usab-healthcare-equity-presentation-2022-01-12.pptx) and [PDF (5MB)](https://www.access-board.gov/files/presentations/usab-healthcare-equity-presentation-2022-01-12.pdf) formats. 
-
 ## Next Board Meeting
 
-The next virtual meeting of the Board will take place on Wednesday, March 9, 2022.  
+The next virtual meeting of the Board will take place on Wednesday, March 9, 2022, beginning at 1:00 p.m. (Eastern).  During this meeting, the Board will hold its annual election of officers, hear committee reports and updates from Federal member agencies.  During opening remarks, Chairman Gregory Fehribach will recognize outgoing members and introduce new appointees.  The guest speaker is Assistant Attorney General Kristen Clarke of the U.S. Department of Justice.  
+
+Join ZoomGov Meeting
+www.zoomgov.com/j/1618590214?pwd=YkxIdHBwWFVJb1doeE1Tam82ejlmQT09 
+Meeting ID:  161 859 0214;   Passcode:  433993
+Phone in: +1 646 828 7666;   Meeting ID:  161 859 0241
 
 ## Future Board Meetings
 
-- May 10 - 12, 2022
-- July 11 - 13, 2022
-- September 12 - 14, 2022
-- November 7 - 9, 2022
+- May 10 - 12, 2022, Virtual
+- July 11 - 13, 2022, In-person, Washington, DC
+- September 13 - 15, 2022, Philadelphia, PA
+- November 7 - 9, 2022, Virtual
 
 ## Board Meeting Archives
 
