@@ -1,6 +1,6 @@
 ---
 layout: post
-title: U.S. Access Board Meeting and Webcast (March 9)
+title: U.S. Access Board Meeting and Webcast
 date: 2022-02-23
 excerpt: All are welcome to attend the next bimonthly meeting of the U.S. Access
   Board, which will be open to the public and take place virtually on March 9
