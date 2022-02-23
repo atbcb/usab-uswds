@@ -22,12 +22,12 @@ Members of the public may attend the meeting through the [Zoom.gov platform](htt
 > Dial in: 1-646-828-7666\
 > Contact: [events@access-board.gov](mailto:events@access-board.gov)
 
->> *Agenda* 
->> * Introductory Remarks 
->> * Election of Officers 
->> * Guest Speaker: Kristen Clarke, Assistant Attorney General, U.S. Department of Justice 
->> * Executive Director’s Report 
->> * Standing Committee Reports 
->> * Federal Agency Updates 
->> * New Business 
+> *Agenda* 
+> * Introductory Remarks 
+> * Election of Officers 
+> * Guest Speaker: Kristen Clarke, Assistant Attorney General, U.S. Department of Justice 
+> * Executive Director’s Report 
+> * Standing Committee Reports 
+> * Federal Agency Updates 
+> * New Business 
 >> * Adjourn
