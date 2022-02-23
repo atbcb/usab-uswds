@@ -30,4 +30,4 @@ Members of the public may attend the meeting through the [Zoom.gov platform](htt
 > * Standing Committee Reports 
 > * Federal Agency Updates 
 > * New Business 
->> * Adjourn
+> * Adjourn
