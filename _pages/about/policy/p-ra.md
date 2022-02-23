@@ -38,7 +38,7 @@ In this section, the word "you" refers to employees and applicants for employmen
 ### If your reasonable accommodation request is denied...
 
 -   If your reasonable accommodation request is denied, you will receive a written notice explaining the specific reasons for the denial and your appeal rights.
--   If you wish to initiate an EEO complaint, you must contact an EEO counselor within 45 days of receiving written notice of the denial of your reasonable accommodation request.  Due to the Access Board's size, the agency contracts with the United States Postal Service's National EEO Investigative Services Office for agency-wide EEO services.  To initiate the EEO process, contact USPS EEO Services Analyst Gail Leary at 813-739-2037 or gail.m.leary@usps.gov .
+-   If you wish to initiate an EEO complaint, you must contact an EEO counselor within 45 days of receiving written notice of the denial of your reasonable accommodation request.  Due to the Access Board's size, the agency contracts with the United States Postal Service's National EEO Investigative Services Office for agency-wide EEO services.  To initiate the EEO process, contact Janine Lewis, EEO Services Analyst at <Janine.H.Lewis@usps.gov> or (813) 739-2028.
 
 ## Supervisors and Hiring Coordinator
 
