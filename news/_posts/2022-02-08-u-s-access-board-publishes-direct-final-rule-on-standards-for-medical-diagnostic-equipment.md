@@ -8,7 +8,7 @@ excerpt: The U.S. Access Board released a direct final rule related to its
   510 of the Rehabilitation Act. The MDE Standards, originally published in
   2017, established minimum technical criteria to ensure . . .
 image: /images/uploads/mri.png
-featured: true
+featured: false
 ---
 The U.S. Access Board released a direct final rule related to its standards for accessible medical diagnostic equipment (MDE) covered by Section 510 of the Rehabilitation Act. The MDE Standards, originally published in 2017, established minimum technical criteria to ensure that medical diagnostic equipment, such as examination tables, weight scales, and imaging equipment, used by health care providers is accessible to and usable by individuals with disabilities.
 
