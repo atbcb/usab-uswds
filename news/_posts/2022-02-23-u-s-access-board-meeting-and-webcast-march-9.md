@@ -17,7 +17,7 @@ Members of the public may attend the meeting through the [Zoom.gov platform](htt
 
 > ***Meeting of the U.S. Access Board***\
 > March 9, 2022, 1:00 – 2:15 p.m. (ET)\
-> Meeting link: [Zoom platform](https://www.zoomgov.com/j/1618590214?pwd=YkxIdHBwWFVJb1doeE1Tam82ejlmQT09)
+> Meeting link: [Zoom platform](https://www.zoomgov.com/j/1618590214?pwd=YkxIdHBwWFVJb1doeE1Tam82ejlmQT09)\
 > Meeting ID: 161 859 0214; Passcode: 433993\
 > Dial in: 1-646-828-7666\
 > Contact: [events@access-board.gov](mailto:events@access-board.gov)
