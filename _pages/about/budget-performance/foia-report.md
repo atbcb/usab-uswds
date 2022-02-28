@@ -11,7 +11,7 @@ permalink: /about/foia-report.html
 ## Section I:  Basic Information Regarding Report
 
 1.  Provide name, title, address, and telephone number of person(s) to be contacted with questions about the Report.
-> Gretchen Jacobs  
+> Christopher Kuczynski  
 > General Counsel / Chief FOIA Officer  
 > U.S. Access Board  
 > 1331 F Street NW, Suite 1000  
@@ -25,7 +25,7 @@ permalink: /about/foia-report.html
 * The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2020.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2020.xml) formats.
 
 3.  Explain how to obtain a copy of the report in paper form.
-> For a paper copy of this annual FOIA report, please contact, Gretchen Jacobs, U.S. Access Board General Counsel.
+> For a paper copy of this annual FOIA report, please contact, Christopher Kuczynski, U.S. Access Board General Counsel.
 
 ## Section II:  Making a FOIA Request
 
@@ -109,20 +109,12 @@ permalink: /about/foia-report.html
   </thead>
   <tbody>
     <tr>
-      <td> 42 U.S.C. § 12112(d)(3)(B) </td>
-      <td> Certain information obtained regarding the medical condition or history of an applicant, including examinations and inquiries, that are collected and maintained on separate forms and in separate medical files and are treated as confidential medical records </td>
+      <td> N/A </td>
+      <td> N/A </td>
       <td> N/A </td>
       <td> USAB </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 1 </td>
-    </tr>
-    <tr>
-      <td> 5 U.S.C. app. 3 § 7(b) </td>
-      <td> Names of employees who provide information or complaints to the Inspector General </td>
-      <td> N/A </td>
-      <td> USAB </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
     </tr>
   </tbody>
 </table>
@@ -146,16 +138,16 @@ permalink: /about/foia-report.html
   <tbody>
     <tr>
       <td scope="row"> USAB </td>
+      <td style="text-align: center;"> 1 </td>
       <td style="text-align: center;"> 8 </td>
-      <td style="text-align: center;"> 24 </td>
-      <td style="text-align: center;"> 31 </td>
+      <td style="text-align: center;"> 8 </td>
       <td style="text-align: center;"> 1 </td>
     </tr>
     <tr>
       <td scope="row"> AGENCY OVERALL </td>
+      <td style="text-align: center;"> 1 </td>
       <td style="text-align: center;"> 8 </td>
-      <td style="text-align: center;"> 24 </td>
-      <td style="text-align: center;"> 31 </td>
+      <td style="text-align: center;"> 8 </td>
       <td style="text-align: center;"> 1 </td>
     </tr>
   </tbody>
@@ -189,35 +181,35 @@ permalink: /about/foia-report.html
     <tbody>
       <tr>
         <td scope="row"> USAB </td>
+        <td style="text-align: center;"> 1 </td>
         <td style="text-align: center;"> 2 </td>
-        <td style="text-align: center;"> 10 </td>
-        <td style="text-align: center;"> 1 </td>
-        <td style="text-align: center;"> 14 </td>
-        <td style="text-align: center;"> 1 </td>
-        <td style="text-align: center;"> 3 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 5 </td>
         <td style="text-align: center;"> 0 </td>
         <td style="text-align: center;"> 0 </td>
         <td style="text-align: center;"> 0 </td>
         <td style="text-align: center;"> 0 </td>
         <td style="text-align: center;"> 0 </td>
         <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 31 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 8 </td>
       </tr>
       <tr>
         <td scope="row"> AGENCY OVERALL </td>
+        <td style="text-align: center;"> 1 </td>
         <td style="text-align: center;"> 2 </td>
-        <td style="text-align: center;"> 10 </td>
-        <td style="text-align: center;"> 1 </td>
-        <td style="text-align: center;"> 14 </td>
-        <td style="text-align: center;"> 1 </td>
-        <td style="text-align: center;"> 3 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 5 </td>
         <td style="text-align: center;"> 0 </td>
         <td style="text-align: center;"> 0 </td>
         <td style="text-align: center;"> 0 </td>
         <td style="text-align: center;"> 0 </td>
         <td style="text-align: center;"> 0 </td>
         <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 31 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 8 </td>
       </tr>
     </tbody>
   </table>
@@ -277,16 +269,16 @@ permalink: /about/foia-report.html
       <td scope="row"> USAB </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 4 </td>
-      <td style="text-align: center;"> 9 </td>
-      <td style="text-align: center;"> 11 </td>
-      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 2 </td>
+      <td style="text-align: center;"> 2 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 3 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
     </tr>
@@ -294,16 +286,16 @@ permalink: /about/foia-report.html
       <td scope="row"> AGENCY OVERALL </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 4 </td>
-      <td style="text-align: center;"> 9 </td>
-      <td style="text-align: center;"> 11 </td>
-      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 2 </td>
+      <td style="text-align: center;"> 2 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 3 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
     </tr>
@@ -330,15 +322,15 @@ permalink: /about/foia-report.html
     <tr>
       <td scope="row"> USAB </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
       <td scope="row"> AGENCY OVERALL </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
     </tr>
   </tbody>
@@ -360,19 +352,19 @@ permalink: /about/foia-report.html
   <tbody>
     <tr>
       <td scope="row"> USAB </td>
-      <td style="text-align: center;"> 1 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
     </tr>
     <tr>
       <td scope="row"> AGENCY OVERALL </td>
-      <td style="text-align: center;"> 1 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 0 </td>
     </tr>
   </tbody>
 </table>
@@ -407,7 +399,7 @@ permalink: /about/foia-report.html
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
@@ -424,7 +416,7 @@ permalink: /about/foia-report.html
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 1 </td>
+      <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
@@ -532,17 +524,17 @@ permalink: /about/foia-report.html
   <tbody>
     <tr>
       <td> USAB </td>
-      <td style="text-align: center;"> 20 </td>
-      <td style="text-align: center;"> 20 </td>
-      <td style="text-align: center;"> 20 </td>
-      <td style="text-align: center;"> 20 </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
     </tr>
     <tr>
       <td scope="row"> AGENCY OVERALL </td>
-      <td style="text-align: center;"> 20 </td>
-      <td style="text-align: center;"> 20 </td>
-      <td style="text-align: center;"> 20 </td>
-      <td style="text-align: center;"> 20 </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> N/A </td>
     </tr>
   </tbody>
 </table>
@@ -657,10 +649,10 @@ permalink: /about/foia-report.html
     <tbody>
       <tr>
         <td> USAB </td>
-        <td style="text-align: center;"> 3 </td>
-        <td style="text-align: center;"> 43 </td>
-        <td style="text-align: center;"> &lt;1 </td>
-        <td style="text-align: center;"> 217 </td>
+        <td style="text-align: center;"> 6 </td>
+        <td style="text-align: center;"> 12 </td>
+        <td style="text-align: center;"> 1 </td>
+        <td style="text-align: center;"> 36 </td>
         <td style="text-align: center;"> N/A </td>
         <td style="text-align: center;"> N/A </td>
         <td style="text-align: center;"> N/A </td>
@@ -672,10 +664,10 @@ permalink: /about/foia-report.html
       </tr>
       <tr>
         <td scope="row"> AGENCY OVERALL </td>
-        <td style="text-align: center;"> 3 </td>
-        <td style="text-align: center;"> 43 </td>
-        <td style="text-align: center;"> &lt;1 </td>
-        <td style="text-align: center;"> 217 </td>
+        <td style="text-align: center;"> 6 </td>
+        <td style="text-align: center;"> 12 </td>
+        <td style="text-align: center;"> 1 </td>
+        <td style="text-align: center;"> 36 </td>
         <td style="text-align: center;"> N/A </td>
         <td style="text-align: center;"> N/A </td>
         <td style="text-align: center;"> N/A </td>
@@ -718,10 +710,10 @@ permalink: /about/foia-report.html
     <tbody>
       <tr>
         <td> USAB </td>
-        <td style="text-align: center;"> 73 </td>
-        <td style="text-align: center;"> 86 </td>
-        <td style="text-align: center;"> &lt;1 </td>
-        <td style="text-align: center;"> 217 </td>
+        <td style="text-align: center;"> 29 </td>
+        <td style="text-align: center;"> 28 </td>
+        <td style="text-align: center;"> 19 </td>
+        <td style="text-align: center;"> 36 </td>
         <td style="text-align: center;"> N/A </td>
         <td style="text-align: center;"> N/A </td>
         <td style="text-align: center;"> N/A </td>
@@ -733,10 +725,10 @@ permalink: /about/foia-report.html
       </tr>
       <tr>
         <td scope="row"> AGENCY OVERALL </td>
-        <td style="text-align: center;"> 73 </td>
-        <td style="text-align: center;"> 86 </td>
-        <td style="text-align: center;"> &lt;1 </td>
-        <td style="text-align: center;"> 217 </td>
+        <td style="text-align: center;"> 29 </td>
+        <td style="text-align: center;"> 28 </td>
+        <td style="text-align: center;"> 19 </td>
+        <td style="text-align: center;"> 36 </td>
         <td style="text-align: center;"> N/A </td>
         <td style="text-align: center;"> N/A </td>
         <td style="text-align: center;"> N/A </td>
@@ -776,37 +768,37 @@ permalink: /about/foia-report.html
     <tbody>
       <tr>
         <td scope="row"> USAB </td>
-        <td style="text-align: center;"> 21 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 4 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 3 </td>
+        <td style="text-align: center;"> 6 </td>
         <td style="text-align: center;"> 2 </td>
         <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 1 </td>
         <td style="text-align: center;"> 0 </td>
         <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 31 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 8 </td>
       </tr>
       <tr>
         <td scope="row">AGENCY OVERALL</td>
-        <td style="text-align: center;"> 21 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 4 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 3 </td>
+        <td style="text-align: center;"> 6 </td>
         <td style="text-align: center;"> 2 </td>
         <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 1 </td>
         <td style="text-align: center;"> 0 </td>
         <td style="text-align: center;"> 0 </td>
-        <td style="text-align: center;"> 31 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 0 </td>
+        <td style="text-align: center;"> 8 </td>
       </tr>
     </tbody>
   </table>
@@ -962,8 +954,8 @@ permalink: /about/foia-report.html
     <tr>
       <td> USAB </td>
       <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 134 </td>
-      <td style="text-align: center;"> 134 </td>
+      <td style="text-align: center;"> 282 </td>
+      <td style="text-align: center;"> 282 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> N/A </td>
       <td style="text-align: center;"> N/A </td>
@@ -974,8 +966,8 @@ permalink: /about/foia-report.html
     <tr>
       <td scope="row"> AGENCY OVERALL </td>
       <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 134 </td>
-      <td style="text-align: center;"> 134 </td>
+      <td style="text-align: center;"> 282 </td>
+      <td style="text-align: center;"> 282 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> N/A </td>
       <td style="text-align: center;"> N/A </td>
@@ -1018,7 +1010,7 @@ permalink: /about/foia-report.html
       <td style="text-align: center;"> N/A </td>
       <td style="text-align: center;"> N/A </td>
       <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> 2020-03-19 </td>
     </tr>
     <tr>
       <td scope="row"> Number of Days Pending </td>
@@ -1031,7 +1023,7 @@ permalink: /about/foia-report.html
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 382 </td>
     </tr>
     <tr>
       <td rowspan="2"> AGENCY OVERALL </td>
@@ -1045,7 +1037,7 @@ permalink: /about/foia-report.html
       <td style="text-align: center;"> N/A </td>
       <td style="text-align: center;"> N/A </td>
       <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> N/A </td>
+      <td style="text-align: center;"> 2020-03-19 </td>
     </tr>
     <tr>
       <td scope="row"> Number of Days Pending </td>
@@ -1058,7 +1050,7 @@ permalink: /about/foia-report.html
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
       <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
+      <td style="text-align: center;"> 382 </td>
     </tr>
   </tbody>
 </table>
