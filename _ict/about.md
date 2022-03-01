@@ -24,8 +24,8 @@ The Section 255 Guidelines cover telecommunications equipment and customer-premi
 ### Additional Resources
 
 * [Section508.gov](https://section508.gov) --- GSA’s Government-wide IT Accessibility Program
-* [Section 508 of the Rehabilitation Act (29 U.S.C. §794d)]({{ site.baseurl }}/law/ra.html#section-508-federal-electronic-and-information-technology
-* Final Regulatory Impact Analysis ([FRIA]({{ site.baseurl }}/ict/fria.html))
+* [Section 508 of the Rehabilitation Act (29 U.S.C. §794d)]({{ site.baseurl }}/law/ra.html#section-508-federal-electronic-and-information-technology)
+* Final Regulatory Impact Analysis ([FRIA]({{ site.baseurl }}/ict/fria.html)
 * [Comparison Table of WCAG 2.0 to Original 508 Standards]({{ site.baseurl }}/ict/wcag2ict.html)
 * [Mapping of WCAG 2.0 to Functional Performance Criteria]({{ site.baseurl }}/ict/wcagtofpc.html)
 * [ICT Testing Baseline for Web Accessibility](https://ictbaseline.access-board.gov)
