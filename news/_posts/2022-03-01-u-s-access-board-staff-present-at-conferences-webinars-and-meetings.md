@@ -59,7 +59,7 @@ On February 7, Yanchulis presented a two-part session “2010 ADA Standards for 
 On February 15, Executive Director **Sachin Pavithran** presented on the panel “Government Resources to Help Voters with Disabilities” at Arizona Center for Disability Law’s African American Conference on Disabilities (AACD). Pavithran discussed Section 508 of the Rehabilitation Act and resources related to accessible voting and polling places. He also responded to questions from attendees. The recordings of the conference’s sessions are available on [AACD’s Facebook page](https://www.facebook.com/AfricanAmericanConferenceOnDisabilities/). On March 14, Pavithran will present at the American Council for the Blind’s (ACB) D.C. Leadership Conference. More information about ACB’s Leadership Conference can be found on [ACB’s website](https://www.acb.org/come-all-2022-dc-leadership-conference).
 
 
-<figure class="img-right">
+<figure class="img-left">
   <img src="{{ site.baseurl }}/images/uploads/tim-creagan-small.png" alt="Portrait of Tim Creagan" class="center">
   <figcaption style="text-align:center">
     <em>Tim Creagan</em>
@@ -72,7 +72,7 @@ Botten and Senior Accessibility Specialist **Tim Creagan** presented “Architec
 Botten also presented on February 24 to facility staff at several interior regions of the National Park Service on minimum requirements in the ABA accessibility standards, including the requirements for picnic and camping units as well as highlighting the Boards technical assistance resources and key guidance for federal facilities.
 
 
-<figure class="img-right">
+<figure class="img-left">
   <img src="{{ site.baseurl }}/images/uploads/randall-duchesneau-small.png" alt="Portrait of Randall Duchesneau" class="center">
   <figcaption style="text-align:center">
     <em>Randall Duchesneau</em>
