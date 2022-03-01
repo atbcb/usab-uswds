@@ -38,14 +38,12 @@ In January, the Board held the virtual public event “Equity in Healthcare for 
 
 On January 26, **Dave Yanchulis**, Director of Office of Technical and Information Services, gave two presentations. His presentation “Common Sources of Confusion and Inclusive Customer Service” to Accessibility Professionals Association clarified provisions in the ADA Standards that are prone to misinterpretation, including application of the standards in new construction and alterations, work areas, dining surfaces, toilet rooms, and signs. The presentation also reviewed requirements in the ADA Standards for sales and services counters, check-out aisles, self-service shelves, teller and service windows, and food and beverage dispensers to ensure that goods and serves are accessible to all customers. He also presented to the U.S. Equal Employment Opportunity Commission’s Diversity, Equity, Inclusion, and Accessibility (DEIA) Learning Community, reviewing the ABA and accessibility requirements for federal facilities, including employee workspaces. 
 
-
 <figure class="img-left">
   <img src="{{ site.baseurl }}/images/uploads/dave-yanchulis-small.png" alt="Portrait of Dave Yanchulis" class="center">
   <figcaption style="text-align:center">
     <em>Dave Yanchulis</em>
   </figcaption>
 </figure>
-
 
 On February 7, Yanchulis presented a two-part session “2010 ADA Standards for Accessible Design” at the 2022 Winter ADA Coordinators Virtual Conference. Yanchulis provided an overview of the 2010 ADA Standards, reviewed scoping and technical requirements for new construction and alterations, and discussed practical strategies to ensure ADA compliance for building projects.
 
