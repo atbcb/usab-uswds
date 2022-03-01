@@ -5,10 +5,9 @@ toc: sidenav.html
 banner-title: About the U.S. Access Board
 permalink: /about/foia-report.html
 ---
-
 # {{ page.title }} (FY 2021)
 
-## Section I:  Basic Information Regarding Report
+## Section I: Basic Information Regarding Report
 
 1.  Provide name, title, address, and telephone number of person(s) to be contacted with questions about the Report.
     > Christopher Kuczynski  
@@ -22,16 +21,16 @@ Email:&nbsp; <foia@access-board.gov>
     * [https://www.access-board.gov/about/foia-report.html]({{ site.baseurl }}/about/foia-report.html)
     * The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2020.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2020.xml) formats.
 3.  Explain how to obtain a copy of the report in paper form.
-> For a paper copy of this annual FOIA report, please contact, Christopher Kuczynski, U.S. Access Board General Counsel.
+    > For a paper copy of this annual FOIA report, please contact, Christopher Kuczynski, U.S. Access Board General Counsel.
 
-## Section II:  Making a FOIA Request
+## Section II: Making a FOIA Request
 
 1.  Provide names, addresses, and telephone numbers of all individual agency components that receive FOIA requests.
-    > U.S. Access Board  
-    > 1331 F Street NW, Suite 1000  
-    > Washington, DC&nbsp; 20004  
-    > 202-272-0080  
-    > Email:&nbsp; <foia@access-board.gov>
+    > U.S. Access Board /
+1331 F Street NW, Suite 1000 /
+Washington, DC&nbsp; 20004 /
+202-272-0080 /
+Email:&nbsp; <foia@access-board.gov>
 2.  Provide a brief description of why some requests are not granted and an overview of certain general categories of the agency's records to which the FOIA exemptions apply.
     > Some requests are not granted because they do not reasonably describe requested records, seek records that are not subject to release under FOIA, or the agency has no responsive records.
 3.  Provide a functional electronic link to agency FOIA regulations, including the agency's fee schedule.
@@ -72,53 +71,21 @@ Email:&nbsp; <foia@access-board.gov>
     9.  **Exemption 9:**  geological information on wells
 3.  Agency Component Abbreviations
 
-<table class="usa-table">
-  <thead>
-        <tr>
-      <th scope="col"> Component Abbreviation </th>
-      <th scope="col"> Component Name </th>
-    </tr>
-      </thead>
-  <tbody>
-        <tr>
-      <td> USAB </td>
-      <td> U.S. Access Board</td>
-    </tr>
-      </tbody>
-</table>
+| Component Abbreviation | Component Name |
+| --- |--- |
+| USAB | U.S. Access Board |
+{: .usa-table }
 
-* * *
+## IV. Exemption 3 Statutes
 
-## IV.  Exemption 3 Statutes
-
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col"> Statute </th>
-      <th scope="col"> Type of Information Withheld </th>
-      <th scope="col"> Case Citation </th>
-      <th scope="col"> Agency / Component </th>
-      <th scope="col"> Number of Times Relied upon by Agency / Component </th>
-      <th scope="col"> Total Number of Times Relied upon by Agency Overall </th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td> N/A </td>
-      <td> N/A </td>
-      <td> N/A </td>
-      <td> USAB </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-  </tbody>
-</table>
-
-* * *
+| Statute | Type of Information Withheld | Case Citation | Agency / Component | Number of Times Relied upon by Agency / Component | Total Number of Times Relied upon by Agency Overall |
+| --- | --- | --- | --- | --- | --- |
+| N/A | N/A | N/A | USAB | 0 | 0 |
+{: .usa-table }
 
 ## Section V
 
-### V.A.  FOIA REQUESTS — RECEIVED, PROCESSED AND PENDING FOIA REQUESTS
+### V.A. FOIA REQUESTS -- RECEIVED, PROCESSED AND PENDING FOIA REQUESTS
 
 <table class="usa-table">
   <thead>
