@@ -18,8 +18,8 @@ Washington, DC  20004
 202-272-0080  
 Email:&nbsp; <foia@access-board.gov>
 2.  Provide an electronic link for access to the report on the agency Web site:
-  > * <{{ site.baseurl }}/about/foia-report.html>  
-The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2021.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2021.xml) formats.
+  * <{{ site.baseurl }}/about/foia-report.html>
+  * The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2021.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2021.xml) formats.
 3.  Explain how to obtain a copy of the report in paper form.
   > For a paper copy of this annual FOIA report, please contact, Christopher Kuczynski, U.S. Access Board General Counsel.
 
@@ -50,9 +50,9 @@ Email:&nbsp; <foia@access-board.gov>
   9.  **Full Denial** – an agency decision not to release any records in response to a FOIA request because the records are exempt in their entireties under one or more of the FOIA exemptions, or because of a procedural reason, such as when no records could be located.
   10.  **Median Number** – the middle, not average, number.  For example, of 3, 7, and 14, the median number is 7.
   11.  **Multi-Track Processing** – a system in which simple requests requiring relatively minimal review are placed in one processing track and more voluminous and complex requests are placed in one or more other tracks.  Requests granted expedited processing are placed in yet another track.  Requests in each track are processed on a first in/first out basis.
-        1.  **Expedited Processing** – an agency will process a FOIA request on an expedited basis when a requester satisfies the requirements for expedited processing as set forth in the statute and in agency regulations.
-        2.  **Simple Request** – a FOIA request that an agency using multi-track processing places in its fastest (non-expedited) track based on the low volume and/or simplicity of the records requested.
-        3.  **Complex Request** – a FOIA request that an agency using multi-track processing places in a slower track based on the high volume and/or complexity of the records requested.
+   *  **Expedited Processing** – an agency will process a FOIA request on an expedited basis when a requester satisfies the requirements for expedited processing as set forth in the statute and in agency regulations.
+   *  **Simple Request** – a FOIA request that an agency using multi-track processing places in its fastest (non-expedited) track based on the low volume and/or simplicity of the records requested.
+   *  **Complex Request** – a FOIA request that an agency using multi-track processing places in a slower track based on the high volume and/or complexity of the records requested.
   12.  **Partial Grant / Partial Denial** – in response to a FOIA request, an agency decision to disclose portions of the records and to withhold other portions that are exempt under the FOIA, or to otherwise deny a portion of the request for a procedural reason.
   13.  **Pending Request or Pending Administrative Appeal** – a request or administrative appeal for which an agency has not taken final action in all respects.
   14.  **Perfected Request** – a request for records which reasonably describes such records and is made in accordance with published rules stating the time, place, fees (if any) and procedures to be followed.
