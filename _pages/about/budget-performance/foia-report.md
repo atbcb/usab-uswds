@@ -18,8 +18,8 @@ Washington, DC  20004
 202-272-0080  
 Email:&nbsp; <foia@access-board.gov>
 2.  Provide an electronic link for access to the report on the agency Web site:
-> * [https://www.access-board.gov/about/foia-report.html]({{ site.baseurl }}/about/foia-report.html)
-* The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2021.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2021.xml) formats.
+  > * <{{ site.baseurl }}/about/foia-report.html>  
+The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2021.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2021.xml) formats.
 3.  Explain how to obtain a copy of the report in paper form.
   > For a paper copy of this annual FOIA report, please contact, Christopher Kuczynski, U.S. Access Board General Counsel.
 
@@ -79,7 +79,7 @@ Email:&nbsp; <foia@access-board.gov>
 
 | Statute | Type of Information Withheld | Case Citation | Agency / Component | Number of Times Relied upon by Agency / Component | Total Number of Times Relied upon by Agency Overall |
 | --- | --- | --- | --- | --- | --- |
-| N/A | N/A | N/A | USAB | 0 | 0 |
+| N/A | N/A | N/A | USAB | 0{: .center } | 0{: .center } |
 {: .usa-table }
 
 ## Section V
@@ -92,7 +92,7 @@ Email:&nbsp; <foia@access-board.gov>
 | Agency Overall | 1 | 8 | 8 | 1 |
 {: .usa-table }
 
-### V.B.(1).  DISPOSITION OF FOIA REQUESTS — ALL PROCESSED REQUESTS
+### V.B.(1).  DISPOSITION OF FOIA REQUESTS -- ALL PROCESSED REQUESTS
 
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
@@ -154,7 +154,7 @@ Email:&nbsp; <foia@access-board.gov>
   </table>
 </div>
 
-### V.B.(2).  DISPOSITION OF FOIA REQUESTS — "OTHER" REASONS FOR "FULL DENIALS BASED ON REASONS OTHER THAN EXEMPTIONS"
+### V.B.(2).  DISPOSITION OF FOIA REQUESTS -- "OTHER" REASONS FOR "FULL DENIALS BASED ON REASONS OTHER THAN EXEMPTIONS"
 
 | Agency / Component | Description of "Other" Reasons for Denials from Chart B(1) | Number of Times "Other" Reason Was Relied Upon | TOTAL |
 | --- | --- | --- | --- |
@@ -162,7 +162,7 @@ Email:&nbsp; <foia@access-board.gov>
 | Agency Overall |  |  | 0 |
 {: .usa-table }
 
-### V.B.(3).  DISPOSITION OF FOIA REQUESTS — NUMBER OF TIMES EXEMPTIONS APPLIED
+### V.B.(3).  DISPOSITION OF FOIA REQUESTS -- NUMBER OF TIMES EXEMPTIONS APPLIED
 
 <table class="usa-table">
   <thead>
@@ -224,7 +224,7 @@ Email:&nbsp; <foia@access-board.gov>
 
 ## Section VI
 
-### VI.A.  ADMINISTRATIVE APPEALS OF INITIAL DETERMINATIONS OF FOIA REQUESTS — RECEIVED, PROCESSED, AND PENDING ADMINISTRATIVE APPEALS
+### VI.A.  ADMINISTRATIVE APPEALS OF INITIAL DETERMINATIONS OF FOIA REQUESTS -- RECEIVED, PROCESSED, AND PENDING ADMINISTRATIVE APPEALS
 
 <table class="usa-table">
   <thead>
@@ -254,7 +254,7 @@ Email:&nbsp; <foia@access-board.gov>
   </tbody>
 </table>
 
-### VI.B.  DISPOSITION OF ADMINISTRATIVE APPEALS — ALL PROCESSED APPEALS
+### VI.B.  DISPOSITION OF ADMINISTRATIVE APPEALS -- ALL PROCESSED APPEALS
 
 <table class="usa-table">
   <thead>
@@ -287,7 +287,7 @@ Email:&nbsp; <foia@access-board.gov>
   </tbody>
 </table>
 
-### VI.C.(1).  REASONS FOR DENIAL ON APPEAL — NUMBER OF TIMES EXEMPTIONS APPLIED
+### VI.C.(1).  REASONS FOR DENIAL ON APPEAL -- NUMBER OF TIMES EXEMPTIONS APPLIED
 
 <table class="usa-table">
   <thead>
@@ -347,7 +347,7 @@ Email:&nbsp; <foia@access-board.gov>
   </tbody>
 </table>
 
-### VI.C.(2).  REASONS FOR DENIAL ON APPEAL — REASONS OTHER THAN EXEMPTIONS
+### VI.C.(2).  REASONS FOR DENIAL ON APPEAL -- REASONS OTHER THAN EXEMPTIONS
 
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
@@ -400,7 +400,7 @@ Email:&nbsp; <foia@access-board.gov>
   </table>
 </div>
 
-### VI.C.(3).  REASONS FOR DENIAL ON APPEAL — “OTHER” REASONS
+### VI.C.(3).  REASONS FOR DENIAL ON APPEAL -- “OTHER” REASONS
 
 <table class="usa-table">
   <thead>
@@ -597,7 +597,7 @@ Email:&nbsp; <foia@access-board.gov>
   </table>
 </div>
 
-### VII.B.  PROCESSED REQUESTS — RESPONSE TIME FOR PERFECTED REQUESTS IN WHICH INFORMATION WAS GRANTED
+### VII.B.  PROCESSED REQUESTS -- RESPONSE TIME FOR PERFECTED REQUESTS IN WHICH INFORMATION WAS GRANTED
 
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
@@ -658,7 +658,7 @@ Email:&nbsp; <foia@access-board.gov>
   </table>
 </div>
 
-### VII.C.  PROCESSED SIMPLE REQUESTS — RESPONSE TIME IN DAY INCREMENTS
+### VII.C.  PROCESSED SIMPLE REQUESTS -- RESPONSE TIME IN DAY INCREMENTS
 
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
@@ -720,7 +720,7 @@ Email:&nbsp; <foia@access-board.gov>
   </table>
 </div>
 
-### VII.C.  PROCESSED COMPLEX REQUESTS — RESPONSE TIME IN DAY INCREMENTS
+### VII.C.  PROCESSED COMPLEX REQUESTS -- RESPONSE TIME IN DAY INCREMENTS
 
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
@@ -782,7 +782,7 @@ Email:&nbsp; <foia@access-board.gov>
   </table>
 </div>
 
-### VII.C.  PROCESSED REQUESTS GRANTED EXPEDITED PROCESSING — RESPONSE TIME IN DAY INCREMENTS
+### VII.C.  PROCESSED REQUESTS GRANTED EXPEDITED PROCESSING -- RESPONSE TIME IN DAY INCREMENTS
 
 <div style="width:125%; overflow-x:scroll;">
   <table class="usa-table">
@@ -894,7 +894,7 @@ Email:&nbsp; <foia@access-board.gov>
   </tbody>
 </table>
 
-### VII.E.  PENDING REQUESTS — TEN OLDEST PENDING PERFECTED REQUESTS
+### VII.E.  PENDING REQUESTS -- TEN OLDEST PENDING PERFECTED REQUESTS
 
 <table class="usa-table">
   <thead>
@@ -1172,7 +1172,7 @@ Email:&nbsp; <foia@access-board.gov>
   </tbody>
 </table>
 
-### XII.B.  CONSULTATIONS ON FOIA REQUESTS — RECEIVED, PROCESSED, AND PENDING CONSULTATIONS
+### XII.B.  CONSULTATIONS ON FOIA REQUESTS -- RECEIVED, PROCESSED, AND PENDING CONSULTATIONS
 
 <table class="usa-table">
   <thead>
@@ -1279,7 +1279,7 @@ Email:&nbsp; <foia@access-board.gov>
   </tbody>
 </table>
 
-### XII.D.(1).  COMPARISON OF NUMBERS OF REQUESTS FROM PREVIOUS AND CURRENT ANNUAL REPORT — REQUESTS RECEIVED AND PROCESSED
+### XII.D.(1).  COMPARISON OF NUMBERS OF REQUESTS FROM PREVIOUS AND CURRENT ANNUAL REPORT -- REQUESTS RECEIVED AND PROCESSED
 
 <table class="usa-table">
   <thead>
@@ -1313,7 +1313,7 @@ Email:&nbsp; <foia@access-board.gov>
   </tbody>
 </table>
 
-### XII.D.(2).  COMPARISON OF NUMBERS OF REQUESTS FROM PREVIOUS AND CURRENT ANNUAL REPORT — BACKLOGGED REQUESTS
+### XII.D.(2).  COMPARISON OF NUMBERS OF REQUESTS FROM PREVIOUS AND CURRENT ANNUAL REPORT -- BACKLOGGED REQUESTS
 
 <table class="usa-table">
   <thead>
@@ -1337,7 +1337,7 @@ Email:&nbsp; <foia@access-board.gov>
   </tbody>
 </table>
 
-### XII.E.(1).  COMPARISON OF NUMBERS OF ADMINISTRATIVE APPEALS FROM PREVIOUS AND CURRENT ANNUAL REPORT — APPEALS RECEIVED AND PROCESSED
+### XII.E.(1).  COMPARISON OF NUMBERS OF ADMINISTRATIVE APPEALS FROM PREVIOUS AND CURRENT ANNUAL REPORT -- APPEALS RECEIVED AND PROCESSED
 
 <table class="usa-table">
   <thead>
@@ -1371,7 +1371,7 @@ Email:&nbsp; <foia@access-board.gov>
   </tbody>
 </table>
 
-### XII.E.(2).  COMPARISON OF NUMBERS OF ADMINISTRATIVE APPEALS FROM PREVIOUS AND CURRENT ANNUAL REPORT — BACKLOGGED APPEALS
+### XII.E.(2).  COMPARISON OF NUMBERS OF ADMINISTRATIVE APPEALS FROM PREVIOUS AND CURRENT ANNUAL REPORT -- BACKLOGGED APPEALS
 
 <table class="usa-table">
   <thead>
