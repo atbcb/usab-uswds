@@ -32,9 +32,9 @@ Washington, DC&nbsp; 20004
 202-272-0080  
 Email:&nbsp; <foia@access-board.gov>
 2.  Provide a brief description of why some requests are not granted and an overview of certain general categories of the agency's records to which the FOIA exemptions apply.
-  > Some requests are not granted because they do not reasonably describe requested records, seek records that are not subject to release under FOIA, or the agency has no responsive records.
-3.  Provide a functional electronic link to agency FOIA regulations, including the agency's fee schedule.
-  > U.S. Access Board's FOIA regulations, including the fee schedule, are codified at [36 C.F.R. part 1120](http://www.ecfr.gov/cgi-bin/text-idx?node=pt36.3.1120).
+    > Some requests are not granted because they do not reasonably describe requested records, seek records that are not subject to release under FOIA, or the agency has no responsive records.
+4.  Provide a functional electronic link to agency FOIA regulations, including the agency's fee schedule.
+    > U.S. Access Board's FOIA regulations, including the fee schedule, are codified at [36 C.F.R. part 1120](http://www.ecfr.gov/cgi-bin/text-idx?node=pt36.3.1120).
 
 ## Section III:  Acronyms, Definitions, and Exemptions
 
