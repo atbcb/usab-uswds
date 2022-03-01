@@ -9,7 +9,7 @@ excerpt: U.S. Access Board staff presented at conferences, webinars, and
   voting and . . .
 featured: false
 ---
-[U.S. Access Board staff presented at conferences, webinars, and meetings to enhance participants’ knowledge on accessibility standards and advance inclusion for people with disabilities.](<>) Board staff presented on various topics, such as accessibility in the federal workplace, accessible voting and polling places, and the guidelines and standards under the [Americans with Disabilities Act](https://www.access-board.gov/ada/) (ADA), the [Architectural Barriers Act of 1968](https://www.access-board.gov/aba/) (ABA), and [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/).
+U.S. Access Board staff presented at conferences, webinars, and meetings to enhance participants’ knowledge on accessibility standards and advance inclusion for people with disabilities. Board staff presented on various topics, such as accessibility in the federal workplace, accessible voting and polling places, and the guidelines and standards under the [Americans with Disabilities Act](https://www.access-board.gov/ada/) (ADA), the [Architectural Barriers Act of 1968](https://www.access-board.gov/aba/) (ABA), and [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/).
 
 
 <div class="img-right">
