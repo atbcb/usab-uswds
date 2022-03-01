@@ -52,7 +52,7 @@ Email:&nbsp; <foia@access-board.gov>
     11.  **Multi-Track Processing** – a system in which simple requests requiring relatively minimal review are placed in one processing track and more voluminous and complex requests are placed in one or more other tracks.  Requests granted expedited processing are placed in yet another track.  Requests in each track are processed on a first in/first out basis.
         1.  **Expedited Processing** – an agency will process a FOIA request on an expedited basis when a requester satisfies the requirements for expedited processing as set forth in the statute and in agency regulations.
         2.  **Simple Request** – a FOIA request that an agency using multi-track processing places in its fastest (non-expedited) track based on the low volume and/or simplicity of the records requested.
-        3.  **Complex Request** – a FOIA request that an agency using multi-track processing places in a slower track based on the high volume and/or complexity of the records requested. 
+        3.  **Complex Request** – a FOIA request that an agency using multi-track processing places in a slower track based on the high volume and/or complexity of the records requested.
     12.  **Partial Grant / Partial Denial** – in response to a FOIA request, an agency decision to disclose portions of the records and to withhold other portions that are exempt under the FOIA, or to otherwise deny a portion of the request for a procedural reason.
     13.  **Pending Request or Pending Administrative Appeal** – a request or administrative appeal for which an agency has not taken final action in all respects.
     14.  **Perfected Request** – a request for records which reasonably describes such records and is made in accordance with published rules stating the time, place, fees (if any) and procedures to be followed.
@@ -87,33 +87,11 @@ Email:&nbsp; <foia@access-board.gov>
 
 ### V.A. FOIA REQUESTS -- RECEIVED, PROCESSED AND PENDING FOIA REQUESTS
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col">Agency / Component</th>
-      <th scope="col">Number of Requests Pending as of Start of Fiscal Year</th>
-      <th scope="col">Number of Requests Received in Fiscal Year</th>
-      <th scope="col">Number of Requests Processed in Fiscal Year</th>
-      <th scope="col">Number of Requests Pending as of End of Fiscal Year</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row"> USAB </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 8 </td>
-      <td style="text-align: center;"> 8 </td>
-      <td style="text-align: center;"> 1 </td>
-    </tr>
-    <tr>
-      <td scope="row"> AGENCY OVERALL </td>
-      <td style="text-align: center;"> 1 </td>
-      <td style="text-align: center;"> 8 </td>
-      <td style="text-align: center;"> 8 </td>
-      <td style="text-align: center;"> 1 </td>
-    </tr>
-  </tbody>
-</table>
+| Agency / Component | Number of Requests Pending as of Start of Fiscal Year | Number of Requests Received in Fiscal Year | Number of Requests Processed in Fiscal Year | Number of Requests Pending as of End of Fiscal Year |
+| --- | --- | --- | --- | --- |
+| USAB | 1 | 8 | 8 | 1 |
+| Agency Overall | 1 | 8 | 8 | 1 |
+{: .usa-table }
 
 ### V.B.(1).  DISPOSITION OF FOIA REQUESTS — ALL PROCESSED REQUESTS
 
@@ -158,7 +136,7 @@ Email:&nbsp; <foia@access-board.gov>
         <td style="text-align: center;"> 8 </td>
       </tr>
       <tr>
-        <td scope="row"> AGENCY OVERALL </td>
+        <td scope="row"> Agency Overall </td>
         <td style="text-align: center;"> 1 </td>
         <td style="text-align: center;"> 2 </td>
         <td style="text-align: center;"> 0 </td>
@@ -179,30 +157,11 @@ Email:&nbsp; <foia@access-board.gov>
 
 ### V.B.(2).  DISPOSITION OF FOIA REQUESTS — "OTHER" REASONS FOR "FULL DENIALS BASED ON REASONS OTHER THAN EXEMPTIONS"
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col">Agency / Component</th>
-      <th scope="col">Description of "Other" Reasons for Denials from Chart B(1)</th>
-      <th scope="col">Number of Times "Other" Reason Was Relied Upon</th>
-      <th scope="col">TOTAL</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>USAB</td>
-      <td style="text-align: center;"> N/A </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-    <tr>
-      <td scope="row">AGENCY OVERALL</td>
-      <td></td>
-      <td></td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-  </tbody>
-</table>
+| Agency / Component | Description of "Other" Reasons for Denials from Chart B(1) | Number of Times "Other" Reason Was Relied Upon | TOTAL |
+| --- | --- | --- | --- |
+| USAB | N/A | 0 | 0 |
+| Agency Overall |  |  | 0 |
+{: .usa-table }
 
 ### V.B.(3).  DISPOSITION OF FOIA REQUESTS — NUMBER OF TIMES EXEMPTIONS APPLIED
 
