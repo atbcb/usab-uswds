@@ -10,7 +10,7 @@ permalink: /about/foia-report.html
 ## Section I: Basic Information Regarding Report
 
 1.  Provide name, title, address, and telephone number of person(s) to be contacted with questions about the Report.
-> Christopher Kuczynski  
+    > Christopher Kuczynski  
 General Counsel / Chief FOIA Officer  
 U.S. Access Board  
 1331 F Street NW, Suite 1000  
@@ -18,10 +18,10 @@ Washington, DC  20004
 202-272-0080  
 Email:&nbsp; <foia@access-board.gov>
 2.  Provide an electronic link for access to the report on the agency Web site:
-    * [https://www.access-board.gov/about/foia-report.html]({{ site.baseurl }}/about/foia-report.html)
-    * The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2020.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2020.xml) formats.
+> * [https://www.access-board.gov/about/foia-report.html]({{ site.baseurl }}/about/foia-report.html)  
+> * The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2021.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2021.xml) formats.
 3.  Explain how to obtain a copy of the report in paper form.
-> For a paper copy of this annual FOIA report, please contact, Christopher Kuczynski, U.S. Access Board General Counsel.
+    > For a paper copy of this annual FOIA report, please contact, Christopher Kuczynski, U.S. Access Board General Counsel.
 
 ## Section II: Making a FOIA Request
 
@@ -40,7 +40,7 @@ Email:&nbsp; <foia@access-board.gov>
 
 1.  Include the following definitions of terms used in this Report:
     1.  **Administrative Appeal** – a request to a federal agency asking that it review at a higher administrative level a FOIA determination made by the agency at the initial request level.
-     2.  **Average Number** – the number obtained by dividing the sum of a group of numbers by the quantity of numbers in the group.  For example, of 3, 7, and 14, the average number is 8.
+    2.  **Average Number** – the number obtained by dividing the sum of a group of numbers by the quantity of numbers in the group.  For example, of 3, 7, and 14, the average number is 8.
     3.  **Backlog** – the number of requests or administrative appeals that are pending at an agency at the end of the fiscal year that are beyond the statutory time period for a response.
     4.  **Component** – for agencies that process requests on a decentralized basis, a "component" is an entity, also sometimes referred to as an Office, Division, Bureau, Center, or Directorate, within the agency that processes FOIA requests.  The FOIA now requires that agencies include in their Annual FOIA report data for both the agency overall and for each principal component of the agency.  As noted, as a micro-agency, OGE does not have any FOIA components, and so the information provided in this report is only for OGE overall.
     5.  **Consultation** – the procedure whereby the agency responding to a FOIA request first forwards a record to another agency for its review because that other agency has an interest in the document.  Once the agency in receipt of the consultation finishes its review of the record, it responds back to the agency that forwarded in.  That agency, in turn, will then respond to the FOIA requester.
