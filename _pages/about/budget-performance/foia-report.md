@@ -50,25 +50,25 @@ Email:&nbsp; <foia@access-board.gov>
     9.  **Full Denial** – an agency decision not to release any records in response to a FOIA request because the records are exempt in their entireties under one or more of the FOIA exemptions, or because of a procedural reason, such as when no records could be located.
     10.  **Median Number** – the middle, not average, number.  For example, of 3, 7, and 14, the median number is 7.
     11.  **Multi-Track Processing** – a system in which simple requests requiring relatively minimal review are placed in one processing track and more voluminous and complex requests are placed in one or more other tracks.  Requests granted expedited processing are placed in yet another track.  Requests in each track are processed on a first in/first out basis.
-    *  **Expedited Processing** – an agency will process a FOIA request on an expedited basis when a requester satisfies the requirements for expedited processing as set forth in the statute and in agency regulations.
-    *  **Simple Request** – a FOIA request that an agency using multi-track processing places in its fastest (non-expedited) track based on the low volume and/or simplicity of the records requested.
-    *  **Complex Request** – a FOIA request that an agency using multi-track processing places in a slower track based on the high volume and/or complexity of the records requested.
-  12.  **Partial Grant / Partial Denial** – in response to a FOIA request, an agency decision to disclose portions of the records and to withhold other portions that are exempt under the FOIA, or to otherwise deny a portion of the request for a procedural reason.
-  13.  **Pending Request or Pending Administrative Appeal** – a request or administrative appeal for which an agency has not taken final action in all respects.
-  14.  **Perfected Request** – a request for records which reasonably describes such records and is made in accordance with published rules stating the time, place, fees (if any) and procedures to be followed.
-  15.  **Processed Request or Processed Administrative Appeal** – a request or administrative appeal for which an agency has taken final action in all respects.
-  16.  **Range in Number of Days** – the lowest and highest number of days to process requests or administrative appeals.
-  17.  **Time Limits** – the time period in the statute for an agency to respond to a FOIA request (ordinarily twenty working days from receipt of a perfected FOIA request).
+        *  **Expedited Processing** – an agency will process a FOIA request on an expedited basis when a requester satisfies the requirements for expedited processing as set forth in the statute and in agency regulations.
+        *  **Simple Request** – a FOIA request that an agency using multi-track processing places in its fastest (non-expedited) track based on the low volume and/or simplicity of the records requested.
+        *  **Complex Request** – a FOIA request that an agency using multi-track processing places in a slower track based on the high volume and/or complexity of the records requested.
+    12.  **Partial Grant / Partial Denial** – in response to a FOIA request, an agency decision to disclose portions of the records and to withhold other portions that are exempt under the FOIA, or to otherwise deny a portion of the request for a procedural reason.
+    13.  **Pending Request or Pending Administrative Appeal** – a request or administrative appeal for which an agency has not taken final action in all respects.
+    14.  **Perfected Request** – a request for records which reasonably describes such records and is made in accordance with published rules stating the time, place, fees (if any) and procedures to be followed.
+    15.  **Processed Request or Processed Administrative Appeal** – a request or administrative appeal for which an agency has taken final action in all respects.
+    16.  **Range in Number of Days** – the lowest and highest number of days to process requests or administrative appeals.
+    17.  **Time Limits** – the time period in the statute for an agency to respond to a FOIA request (ordinarily twenty working days from receipt of a perfected FOIA request).
 2.  **Include the following concise descriptions of the nine FOIA exemptions:**
-  1.  **Exemption 1:**  classified national defense and foreign relations information
-  2.  **Exemption 2:**  information that is related solely to the internal personnel rules and practices of an agency
-  3.  **Exemption 3:**  information that is prohibited from disclosure by another federal law
-  4.  **Exemption 4:**  trade secrets and other confidential business information
-  5.  **Exemption 5:**  inter-agency or intra-agency communications that are protected by legal privileges
-  6.  **Exemption 6:**  information involving matters of personal privacy
-  7.  **Exemption 7:**  records or information compiled for law enforcement purposes, to the extent that the production of those records (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions, or (F) could reasonably be expected to endanger the life or physical safety of any individual
-  8.  **Exemption 8:**  information relating to the supervision of financial institutions
-  9.  **Exemption 9:**  geological information on wells
+    1.  **Exemption 1:**  classified national defense and foreign relations information
+    2.  **Exemption 2:**  information that is related solely to the internal personnel rules and practices of an agency
+    3.  **Exemption 3:**  information that is prohibited from disclosure by another federal law
+    4.  **Exemption 4:**  trade secrets and other confidential business information
+    5.  **Exemption 5:**  inter-agency or intra-agency communications that are protected by legal privileges
+    6.  **Exemption 6:**  information involving matters of personal privacy
+    7.  **Exemption 7:**  records or information compiled for law enforcement purposes, to the extent that the production of those records (A) could reasonably be expected to interfere with enforcement proceedings, (B) would deprive a person of a right to a fair trial or an impartial adjudication, (C) could reasonably be expected to constitute an unwarranted invasion of personal privacy, (D) could reasonably be expected to disclose the identity of a confidential source, (E) would disclose techniques and procedures for law enforcement investigations or prosecutions, or would disclose guidelines for law enforcement investigations or prosecutions, or (F) could reasonably be expected to endanger the life or physical safety of any individual
+    8.  **Exemption 8:**  information relating to the supervision of financial institutions
+    9.  **Exemption 9:**  geological information on wells
 3.  Agency Component Abbreviations
 | Component Abbreviation | Component Name |
 | --- |--- |
