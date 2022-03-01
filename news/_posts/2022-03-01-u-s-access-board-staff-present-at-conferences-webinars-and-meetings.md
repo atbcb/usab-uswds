@@ -12,30 +12,30 @@ featured: false
 [U.S. Access Board staff presented at conferences, webinars, and meetings to enhance participants’ knowledge on accessibility standards and advance inclusion for people with disabilities.](<>) Board staff presented on various topics, such as accessibility in the federal workplace, accessible voting and polling places, and the guidelines and standards under the [Americans with Disabilities Act](https://www.access-board.gov/ada/) (ADA), the [Architectural Barriers Act of 1968](https://www.access-board.gov/aba/) (ABA), and [Section 508 of the Rehabilitation Act](https://www.access-board.gov/ict/).
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}/images/uploads/bobby-stinnette.png" alt="Portrait of Bobby Stinnette" class="center">
+  <img src="{{ site.baseurl }}/images/uploads/bobby-stinnette-small.png" alt="Portrait of Bobby Stinnette" class="center">
   <figcaption style="text-align:center">
     <em>Bobby Stinnette</em>
   </figcaption>
 </figure>
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}/images/uploads/bill-botten.png" alt="Portrait of Bill Botten" class="center">
+  <img src="{{ site.baseurl }}/images/uploads/bill-botten-small.png" alt="Portrait of Bill Botten" class="center">
   <figcaption style="text-align:center">
     <em>Bill Botten</em>
-  </figcaption>
-</figure>
-
-<figure class="img-right">
-  <img src="{{ site.baseurl }}/images/uploads/eng-bordered.jpg" alt="Portrait of Kathy Eng" class="center">
-  <figcaption style="text-align:center">
-    <em>Kathy Eng</em>
   </figcaption>
 </figure>
 
 In January, the Board held the virtual public event “Equity in Healthcare for People with Disabilities.” Accessibility Specialist **Bobby Stinnette** moderated the event and Training Coordinator **Bill Botten** and Senior Information and Communication Technology (ICT) Accessibility Specialist **Kathy Eng** presented on the ADA Standards and Section 508, respectively, including the types of medical facilities, spaces, elements, and equipment covered under the ADA and Section 508. A summary of the presentations and access to the recording can be found in the Board’s [January 13 news article](https://www.access-board.gov/news/2022/01/13/u-s-access-board-hosts-virtual-event-on-equity-in-healthcare-for-people-with-disabilities/).
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}/images/uploads/dave-yanchulis.png" alt="Portrait of Dave Yanchulis" class="center">
+  <img src="{{ site.baseurl }}/images/uploads/kathy-eng-small.jpg" alt="Portrait of Kathy Eng" class="center">
+  <figcaption style="text-align:center">
+    <em>Kathy Eng</em>
+  </figcaption>
+</figure>
+
+<figure class="img-right">
+  <img src="{{ site.baseurl }}/images/uploads/dave-yanchulis-small.png" alt="Portrait of Dave Yanchulis" class="center">
   <figcaption style="text-align:center">
     <em>Dave Yanchulis</em>
   </figcaption>
@@ -44,7 +44,7 @@ In January, the Board held the virtual public event “Equity in Healthcare for 
 On January 26, **Dave Yanchulis**, Director of Office of Technical and Information Services, gave two presentations. His presentation “Common Sources of Confusion and Inclusive Customer Service” to Accessibility Professionals Association clarified provisions in the ADA Standards that are prone to misinterpretation, including application of the standards in new construction and alterations, work areas, dining surfaces, toilet rooms, and signs. The presentation also reviewed requirements in the ADA Standards for sales and services counters, check-out aisles, self-service shelves, teller and service windows, and food and beverage dispensers to ensure that goods and serves are accessible to all customers. He also presented to the U.S. Equal Employment Opportunity Commission’s Diversity, Equity, Inclusion, and Accessibility (DEIA) Learning Community, reviewing the ABA and accessibility requirements for federal facilities, including employee workspaces. On February 7, Yanchulis presented a two-part session **“**2010 ADA Standards for Accessible Design” at the 2022 Winter ADA Coordinators Virtual Conference. Yanchulis provided an overview of the 2010 ADA Standards, reviewed scoping and technical requirements for new construction and alterations, and discussed practical strategies to ensure ADA compliance for building projects.
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}/images/uploads/sachin-pavithran.png" alt="Portrait of Sachin Pavithran" class="center">
+  <img src="{{ site.baseurl }}/images/uploads/sachin-pavithran-small.png" alt="Portrait of Sachin Pavithran" class="center">
   <figcaption style="text-align:center">
     <em>Sachin Pavithran</em>
   </figcaption>
@@ -53,7 +53,7 @@ On January 26, **Dave Yanchulis**, Director of Office of Technical and Informati
 On February 15, Executive Director **Sachin Pavithran** presented on the panel **“Government Resources to Help Voters with Disabilities”** at Arizona Center for Disability Law’s African American Conference on Disabilities (AACD). Pavithran discussed Section 508 of the Rehabilitation Act and resources related to accessible voting and polling places. He also responded to questions from attendees. The recordings of the conference’s sessions are available on [AACD’s Facebook page](https://www.facebook.com/AfricanAmericanConferenceOnDisabilities/). On March 14, Pavithran will present at the American Council for the Blind’s (ACB) D.C. Leadership Conference. More information about ACB’s Leadership Conference can be found on [ACB’s website](https://www.acb.org/come-all-2022-dc-leadership-conference).
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}/images/uploads/creagan-bordered.jpg" alt="Portrait of Tim Creagan" class="center">
+  <img src="{{ site.baseurl }}/images/uploads/tim-creagan-small.png" alt="Portrait of Tim Creagan" class="center">
   <figcaption style="text-align:center">
     <em>Tim Creagan</em>
   </figcaption>
@@ -64,7 +64,7 @@ Botten and Senior Accessibility Specialist **Tim Creagan** presented “Architec
 Botten also presented on February 24 to facility staff at several interior regions of the National Park Service on minimum requirements in the ABA accessibility standards, including the requirements for picnic and camping units as well as highlighting the Boards technical assistance resources and key guidance for federal facilities.
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}/images/uploads/duschesneau-bordered.jpg" alt="Portrait of Randall Duchesneau" class="center">
+  <img src="{{ site.baseurl }}/images/uploads/randall-duschesneau-small.png" alt="Portrait of Randall Duchesneau" class="center">
   <figcaption style="text-align:center">
     <em>Randall Duchesneau</em>
   </figcaption>
@@ -75,7 +75,7 @@ Board staff will continue to engage in conferences, webinars, and events in Marc
 Duchesneau’s presentation continues his and the Board’s work on AVs, which includes its four-part series of virtual meetings on making AVs accessible to passengers with disabilities that was held in Spring 2021. All four sessions in the series are archived and available to the public on the Board’s [AV webpage](https://www.access-board.gov/av/). The Board also produced a publicly available [Summary Report](https://www.access-board.gov/av/report.html) on the series.
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}/images/uploads/scott-windley.jpg" alt="Portrait of Scott Windley" class="center">
+  <img src="{{ site.baseurl }}/images/uploads/scott-windley-small.png" alt="Portrait of Scott Windley" class="center">
   <figcaption style="text-align:center">
     <em>Scott Windley</em>
   </figcaption>
