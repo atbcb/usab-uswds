@@ -18,7 +18,7 @@ Washington, DC  20004
 202-272-0080  
 Email:&nbsp; <foia@access-board.gov>
 2.  Provide an electronic link for access to the report on the agency Web site:
-  * <{{ site.baseurl }}/about/foia-report.html>
+  * [access-board.gov/about/foia-report.html]({{ site.baseurl }}/about/foia-report.html)
   * The report data is also available in [CSV]({{ site.baseurl }}/foia/usab-foia-annual-report-raw-data-fy2021.csv) and [NIEM XML]({{ site.baseurl }}/foia/usab-foia-annual-report-fy2021.xml) formats.
 3.  Explain how to obtain a copy of the report in paper form.
   > For a paper copy of this annual FOIA report, please contact, Christopher Kuczynski, U.S. Access Board General Counsel.
@@ -39,7 +39,7 @@ Email:&nbsp; <foia@access-board.gov>
 ## Section III:  Acronyms, Definitions, and Exemptions
 
 1.  Include the following definitions of terms used in this Report:
-  1.  **Administrative Appeal** – a request to a federal agency asking that it review at a higher administrative level a FOIA determination made by the agency at the initial request level.
+    1.  **Administrative Appeal** – a request to a federal agency asking that it review at a higher administrative level a FOIA determination made by the agency at the initial request level.
   2.  **Average Number** – the number obtained by dividing the sum of a group of numbers by the quantity of numbers in the group.  For example, of 3, 7, and 14, the average number is 8.
   3.  **Backlog** – the number of requests or administrative appeals that are pending at an agency at the end of the fiscal year that are beyond the statutory time period for a response.
   4.  **Component** – for agencies that process requests on a decentralized basis, a "component" is an entity, also sometimes referred to as an Office, Division, Bureau, Center, or Directorate, within the agency that processes FOIA requests.  The FOIA now requires that agencies include in their Annual FOIA report data for both the agency overall and for each principal component of the agency.  As noted, as a micro-agency, OGE does not have any FOIA components, and so the information provided in this report is only for OGE overall.
@@ -88,7 +88,7 @@ Email:&nbsp; <foia@access-board.gov>
 
 | Agency / Component | Number of Requests Pending as of Start of Fiscal Year | Number of Requests Received in Fiscal Year | Number of Requests Processed in Fiscal Year | Number of Requests Pending as of End of Fiscal Year |
 | --- | --- | --- | --- | --- |
-| USAB | 1 | 8 | 8 | 1 |
+| USAB           | 1 | 8 | 8 | 1 |
 | Agency Overall | 1 | 8 | 8 | 1 |
 {: .usa-table }
 
@@ -164,63 +164,11 @@ Email:&nbsp; <foia@access-board.gov>
 
 ### V.B.(3).  DISPOSITION OF FOIA REQUESTS -- NUMBER OF TIMES EXEMPTIONS APPLIED
 
-<table class="usa-table">
-  <thead>
-    <tr>
-      <th scope="col">Agency / Component</th>
-      <th scope="col">Ex. 1</th>
-      <th scope="col">Ex. 2</th>
-      <th scope="col">Ex. 3</th>
-      <th scope="col">Ex. 4</th>
-      <th scope="col">Ex. 5</th>
-      <th scope="col">Ex. 6</th>
-      <th scope="col">Ex. 7(A)</th>
-      <th scope="col">Ex. 7(B)</th>
-      <th scope="col">Ex. 7(C)</th>
-      <th scope="col">Ex. 7(D)</th>
-      <th scope="col">Ex. 7(E)</th>
-      <th scope="col">Ex. 7(F)</th>
-      <th scope="col">Ex. 8</th>
-      <th scope="col">Ex. 9</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td scope="row"> USAB </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 2 </td>
-      <td style="text-align: center;"> 2 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-    <tr>
-      <td scope="row"> AGENCY OVERALL </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 2 </td>
-      <td style="text-align: center;"> 2 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-      <td style="text-align: center;"> 0 </td>
-    </tr>
-  </tbody>
-</table>
+| Agency / Component | Ex. 1 |Ex. 2 |Ex. 3 | Ex. 4 | Ex. 5 | Ex. 6 | Ex. 7(A) | Ex. 7(B) | Ex. 7(C) | Ex. 7(D) | Ex. 7(E) | Ex. 7(F) | Ex. 8 | Ex. 9 |
+| --- | ---| --- | --- | --- | --- | --- | ---- | --- | --- | --- | --- | --- | --- | --- |
+| USAB           | 0 | 0 | 0 | 0 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+| Agency Overall | 0 | 0 | 0 | 0 | 2 | 2 | 0 | 0 | 0 | 0 | 0 | 0 | 0 | 0 |
+{: .usa-table }
 
 ## Section VI
 
