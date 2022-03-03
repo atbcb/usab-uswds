@@ -10,6 +10,52 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/)
 
 ![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/sauna.png){: .img-right }{: .thumbnail }
 
+### Tactile Signs \[§703.2 – §703.4, §703.6] 
+
+Tactile signs must have raised characters that are repeated in Grade 2 braille. In addition, they 
+are subject to requirements for non-glare finish and color contrast for visual accessibility. 
+
+Other information provided in addition to permanent room or space labels is not required to be 
+raised or brailled but must meet visual criteria if informational or directional.  Some information 
+on such signs may be exempt, such as occupant names.
+
+caption:  The required location of tactile signs is relatively 
+uniform (i.e., beside or, where permitted, on doors) 
+to make them easier to locate without vision.  The 
+height is limited to a specific range (48 inches – 60 
+inches) to facilitate reading by touch.
+
+Blind woman reading braille sign with fingers.
+Room number sign with raised characters and braille
+caption: Braille is located below raised characters, 
+including when text is multi-lined.
+
+Room number sign with raised characters and braille
+caption: Braille is located below raised characters, 
+including when text is multi-lined.
+
+caption: This sign includes exempt 
+and informational content in 
+addition to a permanent room 
+label (room number).
+
+Sign with examples of content that is exempt from either visual or tactile requirements, content that must meet visual requirements, and content that must meet both visual and tactile requirements, including braille.
+begin image notes
+
+Exempt (occupant name, title): Jill Smith; Director
+
+Visual (informational): Accounting
+
+Tactile & Visual (permanent room label): 403
+
+end image notes
+
+Towncenter plaza with large stone monument sign with embossed "Westgate Plaza"
+caption: Exterior signs labelling permanent rooms 
+and spaces that are not located at a 
+doorway do not have to be tactile but must 
+meet visual criteria. 
+
 ### Required Compliance
 
 [[§F241]({{ site.baseurl }}/aba/#aba-f241)]
@@ -82,58 +128,6 @@ For more information on door requirements, see the [Entrances, Doors, and Gates 
 ![Elevated perspective view of entrance to sauna with door ajar and scooter parked to the left of the door outside of the required maneuvering space.]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/outside_sauna.png){: .img-large }
 
 {% include recommendation.html text="Some users may leave their mobility device outside the sauna or steam room. Where possible, space should be available outside saunas or steam rooms and near the entrance (but outside the door maneuvering clearance) for mobility devices." %}
-
-![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .img-right }{: .thumbnail }
-
-### Common Questions
-
-#### Is access required to all saunas or steam rooms when clustered?
-
-Where two or more saunas or steam rooms are clustered at a single location, no more than 5% of the saunas and steam rooms, but no fewer than one, of each type in each cluster shall comply (§F241).
-
-#### Can the entrance to saunas and steam rooms be ramped?
-
-Yes, ramps can serve accessible routes to saunas and steam rooms.  However, ramp landings and door maneuvering clearances must be level. Entrance landings must also be designed to accommodate door maneuvering clearances.
-
-#### Is space for storing a wheelchair or other mobility device required?
-
-No, wheelchair storage space is not required, but it is advisable to provide adequate space outside of the accessible route and door maneuvering clearance for those who wish to leave their mobility device outside the sauna or steam room.
-
-#### Do requirements for floor or ground surfaces apply to saunas and steam rooms?
-
-Yes, floor or ground surfaces in saunas and steam rooms must be stable, firm, and slip resistant and meet all applicable requirements in §302 of the standards.
-
-#### What is the door width requirement for saunas and steam rooms?
-
-Doors must meet all requirements of §404 and have a clear opening width of 32\" minimum.  There is no exception for saunas or steam rooms.
-
-#### Are windows or vision lights on doors required?
-
-No. But if provided, vision lights and glazing panels that permit viewing shall have the bottom of at least one panel 43\" maximum above the finish floor.
-
-#### Must saunas and steam rooms be identified by the International Symbol of Accessibility (ISA)?
-
-Labeling accessible saunas and steam rooms with the ISA is required only where inaccessible ones are present.  At least 5% of saunas and steam rooms of the same type in each cluster must comply and be identified by the ISA unless all are accessible (§F213.2., Ex. 3, §F216.8).
-
-#### Are rules or informational signage required?
-
-Information signage is not required. However, where provided, informational signs, such as rules of conduct, must comply with requirements for visual characters (§703.5).  Signs are more legible for persons with low vision when characters contrast as much as possible with their background.
-
-#### If clothes hooks or shelves are provided, do they need to be accessible?
-
-Yes, storage elements, including clothes hooks or shelves, must comply (§F225.2).  At least one of each type of storage must be within reach range.
-
-#### Do controls for saunas and steam rooms need to comply with operable parts requirements?
-
-Yes, controls intended for users need to comply with operable parts requirements (§309).  Controls must be within reach range and operable with one hand and without tight grasping, pinching, twisting of the wrist, or more than 5 pounds of force to operate.
-
-#### Can sauna and steam room walls be used to provide back support for benches?
-
-Yes, walls maybe used as back support. Where benches are provided, designs providing full back support are advisable but not required.
-
-#### Can the bench back support be tilted or must it be at a right angle to the seat?
-
-Bench backrests can be sloped in order to provide stability for users. Back support must be within 2.5\" horizontally to the rear edge of the bench seat (§903.4).
 
 ----
 
