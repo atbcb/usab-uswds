@@ -12,11 +12,11 @@ Members of the U.S. Access Board meet regularly every two months. Board meetings
 
 ## Next Board Meeting
 
-At this time, the March 2022 meeting of the full Board is cancelled.  The next virtual meeting of the Board will take place on **Wednesday, May 12, 2022.** 
+At this time, the March 2022 meeting of the full Board is cancelled.  The next virtual meeting of the Board will take place on **Wednesday, May 11, 2022.** 
 
 ## Future Board Meetings
 
-- May 10 - 12, 2022, Virtual
+- May 9 - 11, 2022, Virtual
 - July 11 - 13, 2022, In-person, Washington, DC
 - September 13 - 15, 2022, Philadelphia, PA
 - November 7 - 9, 2022, Virtual
