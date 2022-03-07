@@ -21,16 +21,16 @@ The Access Board has developed this set of recommendations and resources to aid 
 7. For agency-owned facilities that will be built, ensure that the applicable accessibility requirements are considered during all phases of the construction process, including in the initial design stage.
 8. Wherever possible, go beyond minimum requirements in the ABA accessibility standards.
 9. Consider which universal/inclusive design best practices could be implemented in each workplace to afford the greatest amount of access and reduce the need for reasonable accommodation requests.
-10.  Even at facilities not covered by the ABA (*e.g.*, those built prior to 1968 that have not been altered since), ensure, wherever possible, that facilities comply with at least the minimum requirements set forth in the ABA accessibility standards, and exceed those requirements to the maximum extent feasible.
-11.   Ensure that existing accessible elements, such as elevators, platform lifts, and assistive listening systems, are properly maintained and kept in good working order.
-12.   Ensure that accessible routes and circulation paths, as well as access to accessible elements, are kept clear of obstructions such as trashcans, surplus furniture, copiers and other devices, and other clutter.
-13.   Ensure that all individuals involved in facility design, construction, and maintenance are aware of the technical assistance and training services provided by the Access Board on the ABA. See the following links:
-    a. A user-friendly and accessible [online version of the ABA Accessibility Standards](https://www.access-board.gov/aba/);
-    b. [Guides to the ABA Accessibility Standards](https://www.access-board.gov/aba/guides/);
-    c. [Animations](https://www.access-board.gov/aba/guides/animations/) that further explain certain requirements;
-    d. Webinar Series on the Standards -- [Upcoming Webinars](https://www.accessibilityonline.org/ao/schedule/) and [Archived Webinars](https://www.accessibilityonline.org/ao/archives/);
-    e. In-person and virtual training sessions (continuing education credits available through some sessions) -- e-mail <training@access-board.gov> to request training;
-    f. A toll-free technical assistance phone line -- 1-800-872-2253 (voice) or 1-800-993-2822 (TTY); and
-    g. A dedicated technical assistance e-mail address -- <ta@access-board.gov>.
+10. Even at facilities not covered by the ABA (*e.g.*, those built prior to 1968 that have not been altered since), ensure, wherever possible, that facilities comply with at least the minimum requirements set forth in the ABA accessibility standards, and exceed those requirements to the maximum extent feasible.
+11. Ensure that existing accessible elements, such as elevators, platform lifts, and assistive listening systems, are properly maintained and kept in good working order.
+12. Ensure that accessible routes and circulation paths, as well as access to accessible elements, are kept clear of obstructions such as trashcans, surplus furniture, copiers and other devices, and other clutter.
+13. Ensure that all individuals involved in facility design, construction, and maintenance are aware of the technical assistance and training services provided by the Access Board on the ABA. See the following links:
+    1. A user-friendly and accessible [online version of the ABA Accessibility Standards]({{ site.baseurl }}/aba/);
+    2. [Guides to the ABA Accessibility Standards]({{ site.baseurl }}/aba/guides/);
+    3. [Animations]({{ site.baseurl }}/aba/guides/animations/) that further explain certain requirements;
+    4. Webinar Series on the Standards -- [Upcoming Webinars](https://www.accessibilityonline.org/ao/schedule/) and [Archived Webinars](https://www.accessibilityonline.org/ao/archives/);
+    5. In-person and virtual training sessions (continuing education credits available through some sessions) -- e-mail <training@access-board.gov> to request training;
+    6. A toll-free technical assistance phone line -- 1-800-872-2253 (voice) or 1-800-993-2822 (TTY); and
+    7. A dedicated technical assistance e-mail address -- <ta@access-board.gov>.
 
 _**Note:** In addition to facility accessibility, agencies should also ensure that their DEIA plans address the accessibility of information and communication technology (ICT).  The General Services Administration (GSA) has developed the following relevant resources: [section508.gov/manage/deia-guidance](https://www.section508.gov/manage/deia-guidance).  The Access Board also provides Section 508 resources ([access-board.gov/ict]({{ site.baseurl }}/ict/)) and a Section 508 Webinar ([www.accessibilityonline.org/cioc-508/schedule/](https://www.accessibilityonline.org/cioc-508/schedule/)).  E-mail <508@access-board.gov> for additional information._
