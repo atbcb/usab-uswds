@@ -5,9 +5,9 @@ layout: page-right-sidenav
 permalink: /deia/
 ---
 
-## {{page.title}}
-
 <button class="usa-button" title="DEIA resources in PDF format" style="float:right"><a href="{{ site.baseurl }}/files/deia-resources.pdf">PDF</a></button>
+
+## {{page.title}}
 
 The U.S. Access Board ("Access Board" or "Board") has several key responsibilities that support making the federal government a model of accessibility.  These include establishing and maintaining minimum accessibility guidelines under the [Architectural Barriers Act of 1968]({{ site.baseurl }}/law/aba.html) (ABA) and ensuring federal agency compliance with the ABA through enforcement and the provision of technical assistance and training.
 
