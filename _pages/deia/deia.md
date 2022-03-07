@@ -2,7 +2,7 @@
 banner-title: Diversity, Equity, Inclusion, and Accessibility
 title: Recommendations and Resources to Assist Agencies in Identifying and Advancing Priorities for Facility Accessibility
 layout: page-right-sidenav
-right-sidenav: sidenav-av.html
+right-sidenav
 permalink: /deia/
 ---
 
