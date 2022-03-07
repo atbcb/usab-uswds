@@ -9,6 +9,8 @@ permalink: /deia/
 
 <button class="usa-button" title="DEIA resources in PDF format" style="float:right;margin-top:-3em"><a href="{{ site.baseurl }}/files/deia-resources.pdf">PDF</a></button>
 
+![Two people sitting at desk, one in wheelchair and the other not in wheelchair]({{ site.baseurl }}/images/upload/people-as-desk.png class="img-right shadow radius-lg" alt="one person sitting in a chair next to a person in a wheelchair at a computer"
+
 The U.S. Access Board ("Access Board" or "Board") has several key responsibilities that support making the federal government a model of accessibility.  These include establishing and maintaining minimum accessibility guidelines under the [Architectural Barriers Act of 1968]({{ site.baseurl }}/law/aba.html) (ABA) and ensuring federal agency compliance with the ABA through enforcement and the provision of technical assistance and training.
 
 The Access Board has developed this set of recommendations and resources to aid agencies in drafting the portions of their strategic plans required under [Executive Order 14035](https://www.federalregister.gov/d/2021-14127) dealing with accessibility.  The Access Board recommends that agencies' strategic plans take all, or as many as possible, of the following actions to promote and enhance facility accessibility:
