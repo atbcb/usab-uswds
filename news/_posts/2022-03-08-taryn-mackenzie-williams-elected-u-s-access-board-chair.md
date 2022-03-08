@@ -21,7 +21,7 @@ The U.S. Access Board elected Board Member Taryn Mackenzie Williams as its new C
 
 Previously, Williams was the managing director for the Poverty to Prosperity Program at American Progress, which works on progressive policies focused on a broad range of anti-poverty strategies. Before joining American Progress, she worked at ODEP on a variety of issues related to education, workforce policy, Social Security, Medicaid, and civil rights. Prior to joining the federal government, Williams worked as the research coordinator for leadership programs at the Institute for Educational Leadership and as the director of programs at the National Association of Urban Debate Leagues headquartered in Chicago.
 
-She holds a bachelor’s degree in public policy from Brown University and a master’s degree in education with a concentration in administration, planning, and social policy from Harvard University.  
+She holds a bachelor’s degree in public policy from Brown University and a master’s degree in education with a concentration in administration, planning, and social policy from Harvard University.
 
 Williams succeeds Gregory S. Fehribach who has also been elected Board Vice Chair. Fehribach is counsel to the Indianapolis law firm Tuohy Bailey & Moore LLP. He has been in private practice for over 35 years, and he counsels numerous clients at the national, state, and local level regarding the nuances of the Americans with Disabilities Act.
 
@@ -36,4 +36,4 @@ A former Trustee at Ball State University, where he obtained his BS and MA degre
 
 Greg currently is a Trustee of the Health & Hospital Corporation of Marion County, Indianapolis, IN and continues to serve since 1988 as an Interim Bankruptcy Trustee for the Southern District of Indiana. 
 
-Board officers serve for a term of one year. The [Board](https://www.access-board.gov/about/board-members/) is structured to function as a coordinating body among Federal agencies and to directly represent the public, particularly people with disabilities. Half of its members are representatives from most of the Federal departments. The other half is comprised of members of the public appointed by the President.
+Board officers serve for a term of one year. The [Board](https://www.access-board.gov/about/board-members/) is structured to function as a coordinating body among federal agencies and to directly represent the public, particularly people with disabilities. Half of its members are representatives from most of the federal departments. The other half is comprised of members of the public appointed by the President.
