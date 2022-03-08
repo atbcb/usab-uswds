@@ -18,7 +18,7 @@ The U.S. Access Board elected Board Member Taryn Mackenzie Williams as its new C
 
 \[Quote from Taryn] 
 
-Previously, Williams was the managing director for the Poverty to Prosperity Program at American Progress, which works on progressive policies focused on a broad range of anti-poverty strategies. Before joining American Progress, she worked at ODEP on a variety of issues related to education, workforce policy, Social Security, Medicaid, and civil rights. Prior to joining the federal government, Williams worked as the research coordinator for leadership programs at the Institute for Educational Leadership and as the director of programs at the National Association of Urban Debate Leagues headquartered in Chicago. 
+Previously, Williams was the managing director for the Poverty to Prosperity Program at American Progress, which works on progressive policies focused on a broad range of anti-poverty strategies. Before joining American Progress, she worked at ODEP on a variety of issues related to education, workforce policy, Social Security, Medicaid, and civil rights. Prior to joining the federal government, Williams worked as the research coordinator for leadership programs at the Institute for Educational Leadership and as the director of programs at the National Association of Urban Debate Leagues headquartered in Chicago.
 
 She holds a bachelor’s degree in public policy from Brown University and a master’s degree in education with a concentration in administration, planning, and social policy from Harvard University.  
 
