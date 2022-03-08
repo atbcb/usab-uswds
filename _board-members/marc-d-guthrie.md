@@ -7,7 +7,7 @@ vice-chair: false
 member: public
 status: current
 president: Obama
-image: /images/uploads/guthrie.jpg
+image: /images/uploads/marc-guthrie.png
 ---
 
   Marc Guthrie of Hebron - Buckeye Lake, Ohio is the former director of Public
