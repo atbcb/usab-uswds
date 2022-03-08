@@ -2,8 +2,8 @@
 name: gregory-fehribach
 last-name: fehribach
 full_name: Gregory S. Fehribach
-chair: true
-vice-chair: false
+chair: false
+vice-chair: true
 member: public
 status: current
 president: Obama
