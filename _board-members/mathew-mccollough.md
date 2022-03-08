@@ -7,7 +7,7 @@ vice-chair: false
 member: public
 status: current
 president: Obama
-image: /images/uploads/mccollough.jpg
+image: /images/uploads/mccollough.png
 ---
 
   Mathew McCollough, M.P.A. of Washington, D.C., is the Director of the District
