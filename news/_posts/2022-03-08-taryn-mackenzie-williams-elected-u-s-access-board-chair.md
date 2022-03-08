@@ -35,4 +35,4 @@ A former Trustee at Ball State University, where he obtained his BS and MA degre
 
 Greg currently is a Trustee of the Health & Hospital Corporation of Marion County, Indianapolis, IN and continues to serve since 1988 as an Interim Bankruptcy Trustee for the Southern District of Indiana. 
 
-Board officers serve for a term of one year. The Board is structured to function as a coordinating body among Federal agencies and to directly represent the public, particularly people with disabilities. Half of its members are representatives from most of the Federal departments. The other half is comprised of members of the public appointed by the President.
+Board officers serve for a term of one year. The [Board](https://www.access-board.gov/about/board-members/) is structured to function as a coordinating body among Federal agencies and to directly represent the public, particularly people with disabilities. Half of its members are representatives from most of the Federal departments. The other half is comprised of members of the public appointed by the President.
