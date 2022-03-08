@@ -7,7 +7,7 @@ chair: false
 vice-chair: false
 member: federal
 status: current
-image: /images/uploads/vacant.svg
+image: /images/uploads/alison-barkoff.jpg
 job-title: null
 ---
 Alison Barkoff was sworn into office as the Principal Deputy Administrator on January 20, 2021. In this capacity, she provides executive direction, leadership, guidance and coordination for ACL programs nationwide and advises the HHS Secretary on issues affecting individuals with disabilities and older adults.
