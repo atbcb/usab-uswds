@@ -8,7 +8,7 @@ member: federal
 status: current
 president: Biden
 agency: Department of Health and Human Services
-image: /images/uploads/alison-barkoff.jpg
+image: /images/uploads/alison-barkoff.png
 job-title: Principal Deputy Administrator
 department: Department of Health and Human Services
 ---
