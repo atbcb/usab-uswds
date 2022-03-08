@@ -7,7 +7,7 @@ chair: false
 vice-chair: false
 member: federal
 status: current
-image: /images/uploads/va-michael-parrish.jpg
+image: /images/uploads/va-michael-parrish.png
 job-title: null
 ---
 Michael D. Parrish was appointed Principal Executive Director for the Office of Acquisition, Logistics, and Construction (OALC) on March 1, 2021. OALC provides policy and oversight for the Department’s $36B acquisition needs and manages VA’s major construction and leasing program to support the largest integrated health care system in the United States, providing care at 1,255 health care facilities to over 9 million Veterans enrolled in the VA health care program. He also serves as Chief Acquisition Officer, and senior most advisor to the Secretary, managing and overseeing all acquisition activities for the Department.

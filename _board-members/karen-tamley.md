@@ -7,7 +7,7 @@ vice-chair: false
 member: public
 status: current
 president: Obama
-image: /images/uploads/tamley.jpg
+image: /images/uploads/karen-tamley.png
 ---
 
   Karen Tamley of Chicago, Illinois is President and CEO of Access Living, a
