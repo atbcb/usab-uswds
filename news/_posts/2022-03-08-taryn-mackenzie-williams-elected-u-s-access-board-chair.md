@@ -17,7 +17,7 @@ The U.S. Access Board elected Board Member Taryn Mackenzie Williams as its new C
   </figcaption>
 </figure>
 
-“The work of the Access Board is critically important in light of the President's commitment to advancing Diversity, Equity, Inclusion and Accessibility.” Williams remarked. “I am honored to be selected as Chair and look forward to helping the Board achieve its ambitious equity and access goals in the coming year.”  
+“The work of the Access Board is critically important in light of the President's commitment to advancing diversity, equity, inclusion and accessibility.” Williams remarked. “I am honored to be selected as Chair and look forward to helping the Board achieve its ambitious equity and access goals in the coming year.”  
 
 Previously, Williams was the managing director for the Poverty to Prosperity Program at American Progress, which works on progressive policies focused on a broad range of anti-poverty strategies. Before joining American Progress, she worked at ODEP on a variety of issues related to education, workforce policy, Social Security, Medicaid, and civil rights. Prior to joining the federal government, Williams worked as the research coordinator for leadership programs at the Institute for Educational Leadership and as the director of programs at the National Association of Urban Debate Leagues headquartered in Chicago.
 
