@@ -7,7 +7,7 @@ vice-chair: false
 member: public
 status: current
 president: Obama
-image: /images/uploads/siegel-s.jpg
+image: /images/uploads/siegel-shelley.png
 ---
 
   Shelley Siegel, FASID of Lake Worth, Florida is the founder and president of
