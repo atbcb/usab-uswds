@@ -7,7 +7,7 @@ vice-chair: false
 member: public
 status: current
 president: Obama
-image: /images/uploads/hart.jpg
+image: /images/uploads/hart.png
 ---
 
   Christopher S. Hart of Boston, Massachusetts is an accessibility consultant

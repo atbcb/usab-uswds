@@ -7,7 +7,7 @@ vice-chair: false
 member: public
 status: current
 president: Obama
-image: /images/uploads/rosenblum.jpg
+image: /images/uploads/rosenblum.png
 ---
 
   Howard A. Rosenblum is the Chief Executive Officer of the National Association
