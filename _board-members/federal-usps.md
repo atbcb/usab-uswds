@@ -7,7 +7,7 @@ chair: false
 vice-chair: false
 member: federal
 status: current
-image: /images/uploads/usps-benjamin-kuo.jpg
+image: /images/uploads/usps-benjamin-kuo.png
 job-title: null
 ---
 Benjamin Kuo was named vice president of Facilities in October 2021. Kuo reports to the Chief Commerce and Business Solutions Officer and Executive Vice President and is responsible for all aspects of managing one of the largest civilian facility inventories in the U.S. He heads the department responsible for all Postal Service properties, covering more than 275 million square feet in more than 8,000 federally owned and approximately 23,000 leased facilities. He oversees the planning, leasing, purchase and sale, design and construction, repair and alteration and redevelopment of facilities that contain postal operations. Kuo also oversees the day-to-day operating and administrative support for Postal Service Headquarters facilities.
