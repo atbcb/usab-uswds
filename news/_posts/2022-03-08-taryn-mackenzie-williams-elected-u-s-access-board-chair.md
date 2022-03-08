@@ -5,6 +5,7 @@ date: 2022-03-08
 excerpt: The U.S. Access Board elected Board Member Taryn Williams as its new
   Chair on March 7. Williams serves as Assistant Secretary of Labor for
   Disability Employment Policy. In this position, she advises . . .
+image: /images/uploads/taryn-williams.png
 featured: true
 ---
 The U.S. Access Board elected Board Member Taryn Mackenzie Williams as its new Chair on March 7. Williams serves as Assistant Secretary of Labor for Disability Employment Policy. In this position, she advises the Secretary of Labor on how the Department’s policies and programs impact the employment of people with disabilities and leads the Office of Disability Employment Policy (ODEP), which works with employers and all levels of government to promote evidence-based policy that improves employment opportunities and outcomes for people with disabilities.
