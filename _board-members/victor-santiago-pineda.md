@@ -7,7 +7,7 @@ vice-chair: false
 member: public
 status: current
 president: Obama
-image: /images/uploads/pineda-victor.jpg
+image: /images/uploads/pineda-victor.png
 ---
 
   Dr. Victor Santiago Pineda of Berkeley, California is President of the World
