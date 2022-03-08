@@ -7,7 +7,7 @@ vice-chair: true
 member: public
 status: current
 president: Obama
-image: /images/uploads/gregory-fehribach.jpg
+image: /images/uploads/gregory-fehribach.png
 ---
 
   Gregory S. Fehribach of Indianapolis, Indiana is principal of the Fehribach
