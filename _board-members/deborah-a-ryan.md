@@ -7,7 +7,7 @@ vice-chair: false
 member: public
 status: current
 president: Obama
-image: /images/uploads/d-ryan.jpg
+image: /images/uploads/d-ryan.png
 ---
 
   Deborah A. Ryan of Boston, Massachusetts is head of Deborah A. Ryan &
