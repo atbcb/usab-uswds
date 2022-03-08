@@ -7,7 +7,7 @@ chair: false
 vice-chair: false
 member: federal
 status: current
-image: /images/uploads/katy-kale.jpg
+image: /images/uploads/katy-kale.png
 job-title: null
 ---
 Katy Kale is the Deputy Administrator of the General Services Administrator under the Biden-Harris Administration.
