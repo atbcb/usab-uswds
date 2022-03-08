@@ -7,7 +7,7 @@ chair: false
 vice-chair: false
 member: federal
 status: current
-image: /images/uploads/educ-neas-rgb-960.jpg
+image: /images/uploads/educ-neas-rgb-960.png
 job-title: null
 ---
 *Delegated the Authority to Perform the Functions and Duties of the Assistant Secretary, Office of Special Education and Rehabilitative Services*
