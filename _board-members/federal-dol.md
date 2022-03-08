@@ -3,7 +3,7 @@ last-name: Williams
 agency: Department of Labor
 name: federal-dol
 full_name: Taryn Williams
-chair: false
+chair: true
 vice-chair: false
 member: federal
 status: current
