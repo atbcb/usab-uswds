@@ -48,7 +48,7 @@ exceed the minimum requirements and are thus optional to follow. In
 addition, the guide provides links to other federal accessibility
 requirements that may also apply to entities covered by the ADA.
 
-The guide currently covers most chapters of the Standards.  Additional sections on remaining chapters will be posted as they become available.  Sign up to the Board’s news email list to receive updates on the release of other sections of the guide.
+The guide currently covers most chapters of the standards. Additional sections on remaining chapters will be posted as they become available. [Sign up](https://public.govdelivery.com/accounts/USACCESS/subscriber/new?topic_id=USACCESS_1) to the Board’s news email list to receive updates on the release of other sections of the guide.
 
 This guide is in the public domain, and users are free to distribute and
 share its content or to disseminate copies. Questions or comments on the
