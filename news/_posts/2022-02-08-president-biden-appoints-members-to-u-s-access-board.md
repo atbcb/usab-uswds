@@ -6,7 +6,7 @@ excerpt: Yesterday, President Joe Biden appointed eight new members to the U.S.
   Access Board. He also reappointed one incumbent Board member, Gregory S.
   Fehribach who is currently the Board’s Chair . . .
 image: /images/uploads/ab-seal.png
-featured: true
+featured: false
 ---
 Yesterday, President Joe Biden appointed eight new members to the U.S. Access Board. He also reappointed incumbent Board member, Gregory S. Fehribach who is currently the Board’s Chair.
 
