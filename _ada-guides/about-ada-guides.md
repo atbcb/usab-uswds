@@ -2,7 +2,6 @@
 title: "About the ADA Guides"
 order-number: 0
 permalink: /ada/guides/
-file: /files/ada/guides/ADA-Standards-Guide_Chapters1-5.pdf
 file-description: Single file PDF version of the ADA Guides Ch 1-5
 redirect_from: 
     - /guidelines-and-standards/recreation-facilities/
@@ -51,4 +50,4 @@ requirements that may also apply to entities covered by the ADA.
 
 This guide is in the public domain, and users are free to distribute and
 share its content or to disseminate copies. Questions or comments on the
-guide should be directed to the Access Board at ta@access-board.gov or (800) 872-2253 (voice), or (800) 993-2822 (TTY).
+guide should be directed to the Access Board at <ta@access-board.gov> or (800) 872-2253 (voice), or (800) 993-2822 (TTY).
