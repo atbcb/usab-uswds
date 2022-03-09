@@ -2,7 +2,6 @@
 title: "About the ADA Guides"
 order-number: 0
 permalink: /ada/guides/
-file: /files/ada/guides/ADA-Standards-Guide_Chapters1-5.pdf
 file-description: Single file PDF version of the ADA Guides Ch 1-5
 redirect_from: 
     - /guidelines-and-standards/recreation-facilities/
@@ -49,6 +48,8 @@ exceed the minimum requirements and are thus optional to follow. In
 addition, the guide provides links to other federal accessibility
 requirements that may also apply to entities covered by the ADA.
 
+The guide currently covers most chapters of the standards. Additional sections on remaining chapters will be posted as they become available. [Sign up](https://public.govdelivery.com/accounts/USACCESS/subscriber/new?topic_id=USACCESS_1) to the Board’s news email list to receive updates on the release of other sections of the guide.
+
 This guide is in the public domain, and users are free to distribute and
 share its content or to disseminate copies. Questions or comments on the
-guide should be directed to the Access Board at ta@access-board.gov or (800) 872-2253 (voice), or (800) 993-2822 (TTY).
+guide should be directed to the Access Board at <ta@access-board.gov> or (800) 872-2253 (voice), or (800) 993-2822 (TTY).
