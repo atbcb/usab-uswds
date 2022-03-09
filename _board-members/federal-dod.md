@@ -1,15 +1,15 @@
 ---
-last-name: Cisneros
-agency: Department of Defense
 name: federal-dod
+last-name: Cisneros
 full_name: "Mr. Gilbert R. Cisneros, Jr. "
 chair: false
 vice-chair: false
 member: federal
 status: current
-image: /images/uploads/vacant.svg
+image: /images/uploads/gilbert-cisneros.png
 job-title: Under Secretary of Defense for Personnel and Readiness
 department: Department of Defense
+agency: Department of Defense
 ---
 Mr. Gilbert Cisneros was sworn in as the Under Secretary of Defense for Personnel and Readiness on August 24, 2021.  As the Under Secretary, Mr. Cisneros serves as the principal staff assistant and advisor to the Secretary of Defense for force readiness; force management; health affairs; National Guard and Reserve component affairs; education and training; and military and civilian personnel requirements and management, including equal opportunity, morale, welfare, recreation, and quality of life matters.
 
