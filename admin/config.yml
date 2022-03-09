@@ -193,7 +193,7 @@ collections:
           label: "Name",
           name: "name",
           widget: "string",
-          hint: 'This is the first name and last name appended with a hyphen in lowercase. ie("george-washington")',
+          hint: 'This is the first name and last name appended with a hyphen in lowercase ex (george-washington), except for federal ex (federal-hhs)',
           required: true,
         }
       - {
@@ -274,6 +274,13 @@ collections:
         name: "department",
         widget: "select",
         options: [General Services Administration, Department of Defense, Department of Justice, Department of Housing and Urban Development, Department of Health and Human Services, United States Postal Service, Department of Labor, Department of Education, Department of Commerce, Department of the Interior, Department of Transportation, Department of Veterans Affairs],
+        required: false
+        }
+      - {
+        label: "Agency / Administration",
+        name: "agency",
+        widget: "text",
+        hint: "Administration for Community Living, Office of Disability Employment Policy, etc.",
         required: false
         }
       - { label: "Bio", name: "body", widget: "markdown", required: false }
