@@ -2,7 +2,6 @@
 title: "About the ABA guide"
 order-number: 0
 permalink: /aba/guides/
-file: /files/aba/guides/ABA-Standards-Guide_Chapters1-5.pdf
 file-description: Single file PDF version of the ABA Guides Ch 1-5
 redirect_from:
     - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/guide-to-the-aba-standards/
