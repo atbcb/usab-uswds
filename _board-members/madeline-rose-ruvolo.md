@@ -1,5 +1,5 @@
 ---
-name: madeline-ruvolo
+name: madeline-rose-ruvolo
 last-name: Ruvolo
 full_name: Madeline Ruvolo
 pronouns: She/Her
