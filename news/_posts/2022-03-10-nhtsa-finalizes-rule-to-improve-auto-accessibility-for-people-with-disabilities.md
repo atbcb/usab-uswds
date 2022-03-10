@@ -4,9 +4,8 @@ title: "NHTSA Finalizes Rule to Improve Auto Accessibility for People with
   Disabilities "
 date: 2022-03-10
 excerpt: The National Highway Traffic Safety Administration (NHTSA) has
-  finalized a [new rule](https://www.nhtsa.gov/node/133811) that would improve
-  equity and mobility for drivers and passengers with disabilities. This final
-  rulemaking allows . . .
+  finalized a new that would improve equity and mobility for drivers and
+  passengers with disabilities. This final rulemaking allows . . .
 featured: false
 ---
 The National Highway Traffic Safety Administration (NHTSA) has finalized a [new rule](https://www.nhtsa.gov/node/133811) that would improve equity and mobility for drivers and passengers with disabilities. This final rulemaking allows rental car companies to temporarily disable a driver’s knee bolster air bag to install hand controls for people with disabilities, the installation of rear-mounted transporters for wheelchairs and power scooters, and modifiers to lawfully raise the height of a vehicle’s roof to accommodate drivers and passengers with disabilities. These modifications to vehicles remove some barriers faced by drivers and passengers with disabilities.  
