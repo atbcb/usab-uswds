@@ -44,7 +44,7 @@ In 2005, a study was conducted to determine which detectable warning colors and 
 > >
 > > > **Figure 2. Photographs of three black-and-white patterned detectable warnings on red bricks**
 
-table style="width: 426px;" border="0" cellspacing="0" cellpadding="0" align="center">
+<table style="width: 426px;" border="0" cellspacing="0" cellpadding="0" align="center">
 <tbody>
 <tr>
 <td scope="col" width="193" height="88">
