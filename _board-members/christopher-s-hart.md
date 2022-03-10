@@ -1,6 +1,6 @@
 ---
 name: christopher-s-hart
-last-name: heart
+last-name: hart
 full_name: Christopher S. Hart
 chair: false
 vice-chair: false
