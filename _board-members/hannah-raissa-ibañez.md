@@ -1,5 +1,5 @@
 ---
-name: Hannah Raissa Ibañez
+name: hannah-ibañez
 last-name: Ibañez
 full_name: Hannah Raissa Ibañez, Esquire
 pronouns: She/Her
