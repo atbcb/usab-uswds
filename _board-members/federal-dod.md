@@ -1,7 +1,7 @@
 ---
 name: federal-dod
 last-name: Cisneros
-full_name: "Mr. Gilbert R. Cisneros, Jr. "
+full_name: "Gilbert R. Cisneros, Jr. "
 chair: false
 vice-chair: false
 member: federal
