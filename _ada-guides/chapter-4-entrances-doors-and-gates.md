@@ -143,7 +143,8 @@ Compliance is required for doors, doorways, and gates providing user
 passage on accessible routes. At least one accessible door, doorway, or
 gate serving each accessible room, space, and entrance must comply.
 
-#### Manual Doors and Gates 
+#### Manual Doors and Gates
+
 [[§404.2]({{ site.baseurl }}/ada/ada-404_2)
 
 ![Door with hardware 34 inches -- 48 inches high measured to operable portions, a
@@ -176,14 +177,11 @@ doors or gates open 90⁰ (or to the leading edge of sliding or folding
 doors. No projection into the clear width is permitted below 34&Prime;.
 </div>
 
-#### Clear Width and Vertical Clearance of Doors and Gates [§404.2.3]
+#### Clear Width and Vertical Clearance of Doors and Gates
 
-![Door opening with notes: 32 inches minimum clear width, (36 inches minimum if doorway
-deeper than 24 inches), in alterations: latch side stop can reduce the clear
-width 5/8 inches maximum vertical clearance 80 inches minimum (78 inches minimum at door closers and
-stops, 34 inches- 80 inches height - Projections 4 inches maximum allowed on each side, No
-projections below 34 inches
-height]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg10.jpg){: .img-large}
+[[§404.2.3]({{ site.baseurl }}/ada/#ada-404_2_3)]
+
+![Door opening with notes:  32 inch minimum clear width, (36 inch minimum if doorway deeper than 24 inches).  In alterations: latch side stop can reduce the clear width five-etights inch maximum vertical clearance.   Height 80 inches minimum (78 inches minimimm at door closers and stops.  Between 34 inches and 80 height, 4 inch maximum projection into clear opening widteh permitted on both sides.  Below 34 inch height, no projections into required clear opening width]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg10.jpg){: .img-large}
 
 ### Maneuvering Clearances
 
