@@ -10,7 +10,7 @@ featured: false
 ---
 Yesterday, President Joe Biden appointed eight new members to the U.S. Access Board. He also reappointed incumbent Board member, Gregory S. Fehribach who is currently the Board’s Chair.
 
-“I am honored that President Biden has reappointed me to the United States Access Board, and I look forward to working with the new appointees from the Biden-Harris team as we serve Americans with Disabilities. I would also like to acknowledge my colleagues who will be leaving the Board and recognize them for their selfless service and time that they have given our country.”
+“I am honored that President Biden has reappointed me to the United States Access Board, and I look forward to working with the new appointees from the Biden-Harris team as we serve Americans with Disabilities. I would also like to acknowledge my colleagues who will be leaving the Board and recognize them for their selfless service and time that they have given our country" Fehribach remarked.
 
 To read the full announcement and appointees’ full biographies, visit the [White House’s press release](https://www.whitehouse.gov/briefing-room/statements-releases/2022/02/07/president-biden-announces-key-appointees/).
 
