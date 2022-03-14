@@ -1,5 +1,5 @@
 ---
-name: Elver-Ariza-Silva
+name: elver-ariza-silva
 last-name: Ariza-Silva
 full_name: Elver Ariza Silva
 pronouns: He/Him

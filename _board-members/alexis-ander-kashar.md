@@ -1,5 +1,5 @@
 ---
-name: Alexis-Ander-Kashar
+name: alexis-ander-kashar
 last-name: Kashar
 full_name: Alexis Ander Kashar
 pronouns: She/Her

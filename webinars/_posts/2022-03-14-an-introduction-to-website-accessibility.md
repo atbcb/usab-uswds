@@ -1,7 +1,7 @@
 ---
 layout: post
 title: An Introduction to Website Accessibility
-date: 2022-03-14
+date: 2022-05-05
 excerpt: Everyone needs access to digital information provided by the World Wide
   Web. However, many websites have subtle barriers that prevent people with
   disabilities from using content. Fortunately, accessibility is not difficult
