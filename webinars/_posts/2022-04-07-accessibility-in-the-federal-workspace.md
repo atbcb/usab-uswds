@@ -23,6 +23,12 @@ presenters:
   - bill-botten
   - tim-creagan
   - sarah-presley
+tags:
+  - ABA
+  - Building & Sites
+  - "508"
+  - Communication & IT
+  - webinar
 closed: false
 webinar-start: April 7, 2022 2:30 PM
 webinar-end: April 7, 2022 4:00 PM
