@@ -1,5 +1,5 @@
 ---
-name: Aimi Hamraie
+name: aimi-hamraie
 last-name: Hamraie
 full_name: Dr. Aimi Hamraie
 pronouns: They/Them
