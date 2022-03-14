@@ -1,5 +1,5 @@
 ---
-name: kr-liu
+name: kristen-liu
 last-name: Liu
 full_name: KR Liu
 chair: false
