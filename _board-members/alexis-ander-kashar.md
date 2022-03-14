@@ -16,4 +16,5 @@ Alexis Kashar is a civil rights attorney, business leader, and technologist.  Sh
 For over two decades, Alexis practiced civil rights and special education law in the private sector with a focus on accessibility. She is also a second-generation entrepreneur in the accessible design and technology space. 
 
 
+
 Currently, Alexis serves as the President of the Board for the New York School for the Deaf.  She is also the founder of Rosebyander Jewelry and resides in Westchester, New York.
