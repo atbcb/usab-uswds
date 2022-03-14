@@ -1,5 +1,5 @@
 ---
-name: Benjamin-Nadolsky
+name: benjamin-nadolsky
 last-name: Nadolsky
 full_name: Benjamin Nadolsky
 pronouns: He/Him/His
