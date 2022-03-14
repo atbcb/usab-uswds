@@ -16,15 +16,12 @@ At least 60% of public entrances must be accessible in new construction, in addi
 
 ![Buildings with connecting elevated walkway, separate tenancies, and parking garage.  Notes:  At least 60% of public entrances in addition to the other types of entrances required to comply. At least one entrance serving each direct access from parking structures.  At least one entrance from each elevated walkway or pedestrian tunnel.  At least one entrance to each tenancy in a facility.   Additional requirements apply to transit facilities and to entrances for inmates and detainees in judicial, detention, and correctional facilities.   ]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg2.jpg){: .img-large}
 
-{% include recommendation.html
-text= "Access should be provided to a primary entrance for greater usability and convenience (as is required for residential dwelling units)"
-%}
+{% include recommendation.html text="Access should be provided to a primary entrance for greater usability and convenience (as is required for residential dwelling units)" %}
 
 #### Components of Accessible Entrances
 
 ![Entrance with landing served by ramp and stairs.  Notes:  Communication Systems (§F230) Two-way communication systems, where provided, must be equipped with visual and audible signals and compliant as operable parts.  Designation (§F216.6) International Symbol of Accessibility label (not required if all public entrances are accessible).  Doors and Doorways (§F206.5.1) At least one compliant door or doorway.  Accessible Route (§F206.3) Accessible route to entrance from site arrival points and located in the same area as general circulation paths. Security Barriers (§F206.8) Bollards and other security barriers cannot obstruct accessible routes.  Detail - Access symbol with directional sign and note:  Directional Signs at Inaccessible Entrances (§F216.6) Signs indicating the location of the nearest accessible entrances are required at each inaccessible public entrance.  These signs must include the International Symbol of Accessibility and note direction.  Additional content or text is not specified, but can be helpful.  It is advisable to locate signs in a manner that minimizes back-tracking.]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg3ab.JPG){: .img-large}
 
-   
 #### Entrance Landings
 
 Entrance landings must accommodate door maneuvering clearances as well as landings for provided ramps.
@@ -110,9 +107,10 @@ The clear width is measured from the stop to the face of doors or gates open 90�
 </div>
 
 #### Clear Width and Vertical Clearance of Doors and Gates 
+
 [[§404.2.3]({{ site.baseurl }}/aba/#aba-404_2_3)]
 
-![Door opening with notes:  32” min*clear width, (36” min if doorway deeper than 24”), in alterations: latch side stop can reduce the clear width 5/8” max. vertical clearance 80” min (78” min. at door closers and stops, 34”- 80” height - Projections 4” max allowed on each side, No projections below 34” height]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg10.jpg){: .img-large}
+![Door opening with notes:  32 inch minimum clear width, (36 inch minimum if doorway deeper than 24 inches).  In alterations: latch side stop can reduce the clear width five-etights inch maximum vertical clearance.   Height 80 inches minimum (78 inches minimimm at door closers and stops.  Between 34 inches and 80 height, 4 inch maximum projection into clear opening widteh permitted on both sides.  Below 34 inch height, no projections into required clear opening width]({{ site.baseurl }}{{ page.image-directory }}chapter4/4edg10.jpg){: .img-large}
   
 ### Maneuvering Clearances
 
