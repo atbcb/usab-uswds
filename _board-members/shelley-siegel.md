@@ -5,7 +5,7 @@ full_name: Shelley Siegel, FASID
 chair: false
 vice-chair: false
 member: public
-status: current
+status: former
 president: Obama
 image: /images/uploads/siegel-shelley.png
 ---
