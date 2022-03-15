@@ -5,7 +5,7 @@ full_name: Patrick D. Cannon
 chair: false
 vice-chair: false
 member: public
-status: current
+status: former
 president: Obama
 image: /images/uploads/patrick-cannon.png
 ---
