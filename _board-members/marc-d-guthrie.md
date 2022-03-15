@@ -5,7 +5,7 @@ full_name: Marc D. Guthrie
 chair: false
 vice-chair: false
 member: public
-status: current
+status: former
 president: Obama
 image: /images/uploads/marc-guthrie.png
 ---
