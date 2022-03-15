@@ -5,7 +5,7 @@ full_name: Howard A. Rosenblum
 chair: false
 vice-chair: false
 member: public
-status: current
+status: former
 president: Obama
 image: /images/uploads/rosenblum.png
 ---
