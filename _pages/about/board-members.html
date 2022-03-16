@@ -3,7 +3,7 @@ layout: default
 permalink: /about/board-members/
 title: Access Board Members
 ---
-{%- include section-title.html -%}
+{% include section-title.html %}
 <div id="content" class="grid-container padding-top-3 maxw-desktop">
   <div class="grid-row">
     <div class="width-desktop usa-prose">
@@ -20,14 +20,14 @@ title: Access Board Members
       </p>
     </div>
   </div>
-  {%- assign p-members = site.board-members | where: "member", "public" | sort: "last-name" | downcase -%}
-  {%- assign f-members = site.board-members | where: "member", "federal" | sort: "last-name" | downcase -%}
-  {%- assign chairs = site.board-members | where: "chair","true" -%}
-  {%- assign vice-chairs = site.board-members | where: "vice-chair","true" -%}
+  {% assign p-members = site.board-members | where: "member", "public" | sort: "last-name" | downcase %}
+  {% assign f-members = site.board-members | where: "member", "federal" | sort: "last-name" | downcase %}
+  {% assign chairs = site.board-members | where: "chair","true" %}
+  {% assign vice-chairs = site.board-members | where: "vice-chair","true" %}
   <div class="grid-row">
     <div class="grid-container padding-top-6 maxw-tablet">
       <ul class="usa-card-group">
-        {%- for chair in chairs -%}
+        {% for chair in chairs %}
         <li class="tablet:grid-col-6 usa-card">
           <a class="style-inherit" href="{{ site.baseurl }}/about/board-members/{{ chair.name }}">
             <div class="usa-card__container gray-to-color card-shadow">
@@ -36,11 +36,11 @@ title: Access Board Members
               </header>
               <div class="usa-card__body">
                 <h3 class="text-center margin-y-0">{{ chair.full_name }}</h3>
-                {%- if chair.department -%}
+                {% if chair.department %}
                 <h4 class="text-center margin-y-0">{{ chair.department }}</h4>
-                {%- elsif chair.agency -%}
+                {% elsif chair.agency %}
                 <h4 class="text-center margin-y-0">{{ chair.agency }}</h4>
-                {%- endif -%} 
+                {% endif %}
               </div>
               <div class="usa-card__media usa-card__media--inset">
                 <div class="usa-card__img border-2px">
@@ -50,8 +50,8 @@ title: Access Board Members
             </div>
           </a>
         </li>
-        {%- endfor -%}
-        {%- for vice-chair in vice-chairs -%}
+        {% endfor %}
+        {% for vice-chair in vice-chairs %}
         <li class="tablet:grid-col-6 usa-card">
           <a class="style-inherit" href="{{ site.baseurl }}/about/board-members/{{ vice-chair.name }}">
             <div class="usa-card__container gray-to-color card-shadow">
@@ -72,7 +72,7 @@ title: Access Board Members
             </div>
           </a>
         </li>
-        {%- endfor -%}  
+        {% endfor %}  
       </ul>
     </div>
   </div>
@@ -82,16 +82,16 @@ title: Access Board Members
     <div class="grid-container">
       <h2>Public Members</h2>
       <ul class="usa-card-group">
-      {%- for member in p-members -%}
-      {%- if member.status == "current" -%}
+      {% for member in p-members %}
+      {% if member.status == "current" %}
         <li class="tablet:grid-col-3 usa-card">
           <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
             <div class="usa-card__container gray-to-color card-shadow">            
               <div class="padding-1">
                 <h3 class="card-name">{{ member.full_name }}</h3>
-                  {%- if member.department -%}
+                  {% if member.department %}
                   <p class="card-text">{{ member.department }}</p>
-                  {%- endif -%}
+                  {% endif %}
               </div>
               <div class="usa-card__media usa-card__media--inset">
                 <div class="usa-card__img maxw-15 margin-x-auto border-2px">
@@ -101,8 +101,8 @@ title: Access Board Members
             </div>
           </a>
         </li>
-        {%- endif -%} 
-        {%- endfor -%}  
+        {% endif %} 
+        {% endfor %}  
       </ul>
     </div>
   </div>
@@ -112,8 +112,8 @@ title: Access Board Members
     <div class="grid-container">
       <h2>Federal Members</h2>
       <ul class="usa-card-group">
-      {%- for member in f-members -%}
-      {%- if member.status == "current" -%}
+      {% for member in f-members %}
+      {% if member.status == "current" %}
         <li class="tablet:grid-col-3 usa-card">
           <a href="{{ site.baseurl }}/about/board-members/{{ member.name }}" class="style-inherit">
             <div class="usa-card__container gray-to-color card-shadow">            
@@ -131,12 +131,12 @@ title: Access Board Members
             </div>
           </a>
         </li>
-        {%- endif -%} 
-        {%- endfor -%}  
+        {% endif %}
+        {% endfor %} 
       </ul>
     </div>
   </div>
 
-{%- comment -%} Add past member accordion here {%- endcomment -%}
+{% comment %} Add past member accordion here {% endcomment %}
 
 </div>
