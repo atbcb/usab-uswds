@@ -1,6 +1,6 @@
 ---
 name: heather-dowdy
-last-name: Dowdy
+last-name: dowdy
 full_name: Heather Dowdy
 pronouns: She/Her
 chair: false
