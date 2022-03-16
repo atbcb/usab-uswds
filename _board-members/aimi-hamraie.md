@@ -1,6 +1,6 @@
 ---
 name: aimi-hamraie
-last-name: Hamraie
+last-name: hamraie
 full_name: Dr. Aimi Hamraie
 pronouns: They/Them
 chair: false
