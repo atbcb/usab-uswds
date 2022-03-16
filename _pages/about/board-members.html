@@ -27,7 +27,7 @@ title: Access Board Members
   <div class="grid-row">
     <div class="grid-container padding-top-6 maxw-tablet">
       <ul class="usa-card-group">
-        {% for chair in chairs %} 
+        {% for chair in chairs %}
         <li class="tablet:grid-col-6 usa-card">
           <a class="style-inherit" href="{{ site.baseurl }}/about/board-members/{{ chair.name }}">
             <div class="usa-card__container gray-to-color card-shadow">
@@ -40,7 +40,7 @@ title: Access Board Members
                 <h4 class="text-center margin-y-0">{{ chair.department }}</h4>
                 {% elsif chair.agency %}
                 <h4 class="text-center margin-y-0">{{ chair.agency }}</h4>
-                {% endif %}           
+                {% endif %}
               </div>
               <div class="usa-card__media usa-card__media--inset">
                 <div class="usa-card__img border-2px">
@@ -51,7 +51,6 @@ title: Access Board Members
           </a>
         </li>
         {% endfor %}
-
         {% for vice-chair in vice-chairs %}
         <li class="tablet:grid-col-6 usa-card">
           <a class="style-inherit" href="{{ site.baseurl }}/about/board-members/{{ vice-chair.name }}">
@@ -107,9 +106,8 @@ title: Access Board Members
       </ul>
     </div>
   </div>
+  <br class="page-break">
 
-<br class="page-break">
-  
   <div class="grid-row">
     <div class="grid-container">
       <h2>Federal Members</h2>
@@ -133,12 +131,12 @@ title: Access Board Members
             </div>
           </a>
         </li>
-        {% endif %} 
-        {% endfor %}  
+        {% endif %}
+        {% endfor %} 
       </ul>
     </div>
   </div>
 
-<!-- Add past member accordion here -->
+{% comment %} Add past member accordion here {% endcomment %}
 
 </div>
