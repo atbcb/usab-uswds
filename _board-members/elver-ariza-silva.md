@@ -1,6 +1,6 @@
 ---
 name: elver-ariza-silva
-last-name: Ariza-Silva
+last-name: ariza-silva
 full_name: Elver Ariza Silva
 pronouns: He/Him
 chair: false
