@@ -1,6 +1,6 @@
 ---
 name: hannah-raissa-ibañez
-last-name: Ibañez
+last-name: ibañez
 full_name: Hannah Raissa Ibañez, Esquire
 pronouns: She/Her
 chair: false
