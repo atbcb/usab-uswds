@@ -20,7 +20,7 @@ title: Access Board Members
       </p>
     </div>
   </div>
-  {% assign p-members = site.board-members | where: "member", "public" | sort: "last-name" %}
+  {% assign p-members = site.board-members | where: "member", "public" | sort: "last-name" | downcase %}
   {% assign f-members = site.board-members | where: "member", "federal" | sort: "last-name" %}
   {% assign chairs = site.board-members | where: "chair","true" %}
   {% assign vice-chairs = site.board-members | where: "vice-chair","true" %}
