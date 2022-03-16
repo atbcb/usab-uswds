@@ -1,6 +1,6 @@
 ---
 name: alexis-ander-kashar
-last-name: Kashar
+last-name: kashar
 full_name: Alexis Ander Kashar
 pronouns: She/Her
 chair: false
