@@ -1,6 +1,6 @@
 ---
 name: madeline-rose-ruvolo
-last-name: Ruvolo
+last-name: ruvolo
 full_name: Madeline Ruvolo
 pronouns: She/Her
 chair: false
