@@ -193,28 +193,28 @@ collections:
           label: "Name",
           name: "name",
           widget: "string",
-          hint: 'This is the first name and last name appended with a hyphen in lowercase ex (george-washington), except for federal ex (federal-hhs)',
+          hint: "The file name.  For public members, use first name and last name appended with a hyphen, all lowercase.  Federal members use their agency.  (Examples:  george-washington or federal-hhs)",
           required: true,
         }
       - {
           label: "Last Name",
           name: "last-name",
           widget: "string",
-          hint: 'Just the last name lowercase for alphabetical sorting purposes, example "washington")',
+          hint: "Last name, all lowercase, used for alphabetical sorting, (Example:  washington)",
           required: true,
         }
       - {
-          label: "Full Name with titles and salutations",
+          label: "Full Name with any title or salutations",
           name: "full_name",
           widget: "string",
-          hint: 'Pres. George Washington, PhD',
+          hint: "Example:  Pres. George Washington, PhD",
           required: true,
         }
       - {
           label: "Pronouns",
           name: "pronouns",
           widget: "string",
-          hint: 'he/him, she/her, they/them',
+          hint: "Example:  he/him, she/her, they/them",
           required: false,
         }
       - {
@@ -223,7 +223,7 @@ collections:
           widget: "boolean",
           default: false,
           required: true,
-          hint: "If yes, Click to slide right",
+          hint: "If yes, Click to slide right.",
         }
       - {
           label: "Vice-Chairperson",
@@ -231,7 +231,7 @@ collections:
           widget: "boolean",
           default: false,
           required: true,
-          hint: "If yes, Click to slide right",
+          hint: "If yes, Click to slide right.",
         }
       - {
           label: "Public/Federal Member",
@@ -246,7 +246,7 @@ collections:
           widget: "select",
           options: ["current", "former", "pending"],
           required: true,
-          hint: "Is this a current or former board member?",
+          hint: "Is this a current or former board member?  Click to select.",
         }
       - {
           label: "Appointing Presidential Administration",
@@ -254,7 +254,7 @@ collections:
           widget: "select",
           options: ["Biden", "Trump", "Obama", "Bush", "Clinton", "HW Bush", "Reagan", "Carter"],
           required: false,
-          hint: "Which administration appointed this board member?",
+          hint: "Which administration appointed this board member?  Click to select.",
         }
       - {
           label: "Image",
@@ -274,13 +274,14 @@ collections:
         name: "department",
         widget: "select",
         options: [General Services Administration, Department of Defense, Department of Justice, Department of Housing and Urban Development, Department of Health and Human Services, United States Postal Service, Department of Labor, Department of Education, Department of Commerce, Department of the Interior, Department of Transportation, Department of Veterans Affairs],
-        required: false
+        required: false,
+        hint: "Which department does this federal board member represent?  Click to select.",
         }
       - {
-        label: "Agency / Administration",
+        label: "Component / Agency / Office / Unit",
         name: "agency",
         widget: "text",
-        hint: "Administration for Community Living, Office of Disability Employment Policy, etc.",
+        hint: "Where does this federal member work at their department?  Spell out in full.  (Examples:  Administration for Community Living, Office of Disability Employment Policy)",
         required: false
         }
       - { label: "Bio", name: "body", widget: "markdown", required: false }
@@ -296,7 +297,7 @@ collections:
           label: "Name",
           name: "name",
           widget: "string",
-          hint: 'This is the first name and last name appended with a hyphen in lowercase. ie("jane-doe")',
+          hint: "The file name.  For staff, use first name and last name appended with a hyphen, all lowercase.  (Example:  jane-doe)",
         }
       - { label: "First Name", name: "first_name", widget: "string" }
       - { label: "Last Name", name: "last_name", widget: "string" }
@@ -305,7 +306,7 @@ collections:
           label: "Pronouns",
           name: "pronouns",
           widget: "string",
-          hint: 'he/him, she/her, they/them',
+          hint: "Example:  he/him, she/her, they/them",
           required: false,
         }
       - {
@@ -332,13 +333,13 @@ collections:
           label: "unique agency name",
           name: "name",
           widget: "string",
-          hint: 'This is the abbreviated name of the agency with hyphens and in lowercase. ie("doj, hhs, hud")',
+          hint: "This is the abbreviated name of the agency with hyphens and in lowercase. (Examples:  doj, hhs, hud)",
         }
       - {
           label: "Full Agency Name",
           name: "full_name",
           widget: "string",
-          hint: 'Ex. Department of Health and Human Services',
+          hint: "Example: Department of Health and Human Services",
         }
       - {
         label: "504 contact name",
@@ -346,7 +347,7 @@ collections:
         widget: "string",
         default: "",
         required: false,
-        hint: 'Ex. George Washington',
+        hint: "Example: George Washington",
         }
       - {
         label: "504 contact Job Title",
@@ -354,15 +355,15 @@ collections:
         widget: "string",
         default: "",
         required: false,
-        hint: 'Ex. Director',
+        hint: "Example: HR Director",
         }
       - {
-        label: "Department",
+        label: "Department / Agency / Office / Component / Unit",
         name: "department",
         widget: "string",
         default: "",
         required: false,
-        hint: 'Ex. Office of Equal Opportunity',
+        hint: "Example: Office of Equal Opportunity",
         }
       - {
         label: "504 contact Email address",
@@ -370,7 +371,7 @@ collections:
         widget: "string",
         default: "",
         required: false,
-        hint: 'Ex. george.washington@agency.gov',
+        hint: "Example: george.washington@agency.gov",
         }
       - {
         label: "504 contact phone number",
@@ -378,7 +379,7 @@ collections:
         widget: "string",
         default: "",
         required: false,
-        hint: 'Ex. (888) 888-8888',
+        hint: "Example: 202-123-4567",
         }
       - {
         label: "General phone number",
@@ -386,7 +387,7 @@ collections:
         widget: "string",
         default: "",
         required: false,
-        hint: 'Ex. (888) 888-8888',
+        hint: "Example: 800-555-1212",
         }
       - {
         label: "TTY",
@@ -394,7 +395,7 @@ collections:
         widget: "string",
         default: "",
         required: false,
-        hint: 'Ex. (888) 888-8888',
+        hint: "Example: 123-456-7890",
         }
       - {
         label: "Fax",
@@ -402,7 +403,7 @@ collections:
         widget: "string",
         default: "",
         required: false,
-        hint: 'Ex. (888) 888-8888',
+        hint: "Example: 111-222-3333",
         }
       - {
         label: "General Email address",
@@ -410,15 +411,15 @@ collections:
         widget: "string",
         default: "",
         required: false,
-        hint: 'Ex. contact@agency.gov',
+        hint: "Example: contact@agency.gov",
         }
       - {
-        label: "Website (504 specific URL)",
+        label: "Web page with 504 specific information",
         name: "website",
         widget: "string",
         default: "",
         required: false,
-        hint: 'Ex. https://www.governmentagency.gov/504-policy',
+        hint: "Example: https://www.agency.gov/504.html",
         }
       - {
         label: "Mailing address",
