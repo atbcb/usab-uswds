@@ -200,7 +200,7 @@ collections:
           label: "Last Name",
           name: "last-name",
           widget: "string",
-          hint: 'Just the last name for alphabetical sorting purposes, example "washington")',
+          hint: 'Just the last name lowercase for alphabetical sorting purposes, example "washington")',
           required: true,
         }
       - {
