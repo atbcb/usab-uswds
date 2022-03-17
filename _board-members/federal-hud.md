@@ -8,8 +8,8 @@ member: federal
 status: current
 image: /images/uploads/jeanine-worden-bio.png
 job-title: Acting Assistant Secretary
-department: Department of Housing and Urban Development
-agency: ""
+department: null
+agency: Department of Housing and Urban Development
 ---
 Jeanine Worden is the Acting Assistant Secretary for Fair Housing and Equal Opportunity at the U.S. Department of Housing and Urban Development. For ten years, she served as the Associate General Counsel for Fair Housing in the Department’s Office of General Counsel responsible for enforcing the Fair Housing Act, Title VI of the Civil Rights Act, Section 504 of the Rehabilitation Act, and the Americans with Disabilities Act.
 
