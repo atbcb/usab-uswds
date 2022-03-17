@@ -18,7 +18,7 @@ Requests to make oral comments during the meeting or to submit written materials
 
 The meeting is free for all to attend, but [registration](https://usdot.zoomgov.com/webinar/register/WN_cWNvnWKRQ26J4X0sbJClrw) is required. For further information, contact Chris Miller, Attorney-Advisor, by email at [Christopher.miller1@dot.gov](mailto:Christopher.miller1@dot.gov). The meeting will include American Sign Language (ASL) and Communication Access Real-Time Translation (CART) Services.
 
-> **Public Meeting on Air Travel by Persons Who Use Wheelchairs**
-> March 24, 2022, 10:15 a.m. – 5:30 p.m. (ET)
-> [Registration required (free)](https://usdot.zoomgov.com/webinar/register/WN_cWNvnWKRQ26J4X0sbJClrw)
+> **Public Meeting on Air Travel by Persons Who Use Wheelchairs** \
+> March 24, 2022, 10:15 a.m. – 5:30 p.m. (ET) \
+> [Registration required (free)](https://usdot.zoomgov.com/webinar/register/WN_cWNvnWKRQ26J4X0sbJClrw) \
 > Contact: Chris Miller at [Christopher.miller1@dot.gov](mailto:Christopher.miller1@dot.gov)
