@@ -7,7 +7,7 @@ permalink: /about/strategic-plan-fy2022.html
 ---
 <div class="margin-y-4">
 <img src="{{ site.baseurl }}/images/usab-seal.svg" alt="Access Board logo" class="img-center img-medium">
-<h3 class="text-center">U.S. Access Board Strategic Plan FY 2022-2026 <br>(DRAFT)</h3>
+<h3 class="text-center">U.S. Access Board Strategic Plan FY 2022-2026</h3>
 </div>
 
 
