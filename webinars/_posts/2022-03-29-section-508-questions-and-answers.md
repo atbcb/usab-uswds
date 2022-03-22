@@ -42,15 +42,11 @@ Technical questions can arise in applying the Section 508 Standards to the vario
 
 ### Speakers:
 
-[Bruce Bailey](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10192), IT Specialist, **U.S. Access Board**
-
 [Timothy Creagan](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10120), Senior Accessibility Specialist, **U.S. Access Board**
 
 [Katherine Eng](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10512), Senior ICT Accessibility Specialist, **U.S. Access Board**
 
 [Michael Horton](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10710), Accessible Design & Development Advisor Office of Government-wide Policy, **General Services Administration**
-
-
 
 [Andrew Nielson](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10823), Director of the Government-wide IT Accessibility Program, Office of Government-wide Policy, **General Services Administration**
 
