@@ -24,14 +24,20 @@ HUD has not yet adopted this version of the standards and continues to apply the
 
 The Access Board provides technical assistance and training on the ABA Standards and UFAS. It also enforces the ABA Standards through the investigation of complaints.
 
+
 <div class="bg-primary-lighter border border-primary padding-2 margin-x-neg-2">
     <h2>Guide to the ABA Standards</h2>
     <div class="float-right width-card">
+        
         {% asset stock/guide.svg class="" alt="guides icon" %}
+        
     </div>
     <p>A Guide to the ABA Standards is also available.  This companion resource explains and illustrates provisions in the standards and includes a series of animations on accessibility. The Board developed this information in cooperation with DOJ and DOT.</p>
+    
     {% include big-button.html link= "/aba/guides/" text= "View ABA Guides" %}
+    
 </div>
+
 
 ## Figures
 
