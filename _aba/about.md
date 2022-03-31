@@ -8,7 +8,7 @@ file: /files/aba/ABAstandards.pdf
 file-description: Single file PDF of the ABA standards
 ---
 
-### About the ABA Accessibility Standards
+# About the ABA Accessibility Standards
 
 Standards issued under the Architectural Barriers Act (ABA) apply to facilities designed, built, altered, or leased with federal funds. Passed in 1968, the ABA is one of the first laws to address access to the built environment. The law applies to federal buildings, including post offices, social security offices, federal courthouses and prisons, and national parks. It also covers non-federal facilities, such as public housing units and mass transit systems, built or altered with federal grants or loans.
 
@@ -24,11 +24,24 @@ HUD has not yet adopted this version of the standards and continues to apply the
 
 The Access Board provides technical assistance and training on the ABA Standards and UFAS. It also enforces the ABA Standards through the investigation of complaints.
 
+<div class="bg-primary-lighter border border-primary padding-2 margin-x-neg-2">
+    <h2>Guide to the ABA Standards</h2>
+    <div class="float-right width-card">
+        {% asset stock/guide.svg class="" alt="guides icon" %}
+    </div>
+    <p>A Guide to the ABA Standards is also available.  This companion resource explains and illustrates provisions in the standards and includes a series of animations on accessibility. The Board developed this information in cooperation with DOJ and DOT.</p>
+    {% include big-button.html link= "/aba/guides/" text= "View ABA Guides" %}
+</div>
+
+## Figures
+
+Figures in the ABA Standards are available for [download (zip file of figures in .dwg format)]({{ site.baseurl }}/files/ada/ada-aba-figures.zip).
+
 
 ---
 
 
-### Background
+## Background
 
 - August 4, 1982 -- The Board publishes the minimum guidelines under the ABA. 
 
@@ -50,18 +63,6 @@ The Access Board provides technical assistance and training on the ABA Standards
 
 - September 26, 2014 -- The Board issues a [correction to final guidelines for emergency transportable housing](https://www.regulations.gov/document?D=ATBCB-2012-0004-0041).
 
-
-
----
-
-
-## Guide to the ABA Standards
-The US Access Board has developed guides to the ABA Standards.
-
-
-<div class="grid-container margin-y-3 text-center">
-    <a class="usa-button usa-button--big margin-x-auto" href="/aba/guides/">View ABA Guides</a>
-</div>
 
 
 ---
