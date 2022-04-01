@@ -13,8 +13,6 @@ The Access Board welcomes information on research initiatives related to accessi
 
 For more information about the Access Board’s research program, contact Dave Yanchulis, Director of the Office of Technical and Information Services, at <ta@access-board.gov>.
 
-## Ongoing Research
-- [Study on Aircraft Wheelchair Restraint Systems]({{ site.baseurl }}/aircraft/)
 
 ## Completed Research
 ### Building Elements and Spaces
@@ -62,3 +60,6 @@ For more information about the Access Board’s research program, contact Dave Y
 -   [Pedestrian Access to Modern Roundabouts]({{ site.baseurl }}/research/prow/roundabouts/) (2001)
 -   [Synthesis of Literature Relevant to Roundabout Signalization to Provide Pedestrian Access]({{ site.baseurl }}/research/prow/literature-roundabout-signalization/) (2007)
 -   [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments]({{ site.baseurl }}/research/prow/visual-detection-detectable-warning/) (2006)
+
+### Transportation
+- [Study on Aircraft Wheelchair Restraint Systems]({{ site.baseurl }}/aircraft/)
