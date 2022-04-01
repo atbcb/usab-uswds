@@ -4,7 +4,7 @@ first_name: Phil
 last_name: Bratta
 full_name: Phil Bratta
 pronouns: he, his, him
-image: /images/uploads/bratta.png
+image: /images/uploads/phil-bratta.png
 job-title: Public Affairs Specialist
 office: Office of Executive Director
 agency: ""

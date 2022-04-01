@@ -3,7 +3,7 @@ name: scott-windley
 first_name: Scott
 last_name: Windley
 full_name: Scott Windley
-image: /images/uploads/scott-windley.jpg
+image: /images/uploads/scott-windley.png
 job-title: Technical Assistance Coordinator
 office: Office of Technical and Information Services
 agency: ""
