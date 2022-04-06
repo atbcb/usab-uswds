@@ -65,7 +65,7 @@ Further guidance on accessible public rights-of-way and detectable warnings is a
 
 -   [Proposed Guidelines for Public Rights-of-Ways]({{ site.baseurl }}/prowag/) (2011)
 -   [Supplemental Notice of Proposed Rulemaking on Shared Use Paths]({{ site.baseurl }}/prowag/) (2013)
--   [List of Detectable Warning Manufacturers](https://www.access-board.gov/guidelines-and-standards/streets-sidewalks/public-rights-of-way/guidance-and-research/manufacturers-of-detectable-warning-products)
+-   [List of Detectable Warning Manufacturers](http://accessforblind.org/detectable-warnings/detectable-warning-surface-manufacturers/) (Accessible Design for the Blind)
 -   [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments](https://www.access-board.gov/research/completed-research/visual-detection-of-detectable-warning-materials) (Board funded research)
 
 *Other Resources*
