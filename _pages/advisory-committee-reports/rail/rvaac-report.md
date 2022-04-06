@@ -2,7 +2,7 @@
 title: Final Report 
 layout: report
 collection-title: Rail Vehicles Access Advisory Committee
-file: rvaac-final-report.pdf
+file: rvaac-report.pdf
 file-directory: /files/advisory-committee-reports/
 ---
 
