@@ -9,7 +9,7 @@ permalink: /law/
 # {{ page.title }} Concerning the Access Board
 
 <figure style="display:inling; width:50%; float:right">
-  <img src="/images/aca-bill-signing.jpg" alt="photo of President Barak Obama signing the Affordable Care Act">
+  <img src="./images/aca-bill-signing.jpg" alt="photo of President Barak Obama signing the Affordable Care Act">
   <figcaption>
     The <q>Patient Protection and Affordable Care Act,</q> which President Obama signed into law in 2010, supplements the Rehabilitation Act and authorizes the Board to develop accessibility standards for medical diagnostic equipment.
   </figcaption>
