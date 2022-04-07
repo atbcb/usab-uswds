@@ -471,6 +471,7 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
 | RECEIPTS FOR PUBLICATIONS AND TRAINING | 50,000 | 50,000 | 50,000 |
 {: .usa-table }
 
+\
 
 * * *
 
