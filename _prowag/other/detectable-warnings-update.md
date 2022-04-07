@@ -65,7 +65,7 @@ Further guidance on accessible public rights-of-way and detectable warnings is a
 #### Related Board Resources
 
 - [Proposed Guidelines for Public Rights-of-Ways]({{ site.baseurl }}/prowag/) (2013)
-- [List of Detectable Warning Manufacturers]({{ site.baseurl }}/prowage/other/detectable-warning-manufacturers.html)
+- [List of Detectable Warning Manufacturers]({{ site.baseurl }}/prowag/other/detectable-warning-manufacturers.html)
 - [Visual Detection of Detectable Warning Materials by Pedestrians with Visual Impairments]({{ site.baseurl }}/research/prow/visual-detection-detectable-warning/) (Board funded research)
 
 #### Other Resources
