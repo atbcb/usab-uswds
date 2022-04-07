@@ -3,7 +3,7 @@ title: Budget Justification
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /cj.html
+permalink: /cj/
 ---
 
 # Fiscal Year 2023 {{ page.title }}
