@@ -638,9 +638,9 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
   </tbody>
 </table>
 </div>
+<hr>
 
 
-* * *
 
 ## Appendix B
 
