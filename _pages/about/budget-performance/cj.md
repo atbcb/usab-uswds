@@ -479,165 +479,334 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
 The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. L. 117-103, the FY 2022 Consolidated Appropriations Act, provided the Board with $9,750,000 in funding.
 
 
-<div>
-<table class="usa-table">
-  <thead>
-        <tr>
-            <th scope="col"> FY </th>
-            <th scope="col"> Cost </th>
-            <th scope="col"> Discussion </th>
-        </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <th colspan="2" scope="rowgroup"> PERSONNEL </th>
-      <td rowspan="3"><p> The Board anticipates it will use 32 FTE in FY 2023. The Board is planning on 5 days of pay per public Board member (Presidentially appointed) for each of its in-person Board meetings and for one out-of-town meeting. Three of its regular board meetings will be held virtually, and members will receive 3 days of pay for each of those meetings. </p>
-        <ul>
-          <li> In addition, the Board has included funds for salaries for a total of 10 additional days for information meetings where some of its public Board members participate in ad-hoc meetings or represent the agency in other meetings (such as meetings of the Election Assistance Commission).  </li>
-        </ul>
-        <p> The Board has calculated benefits (including the transit subsidy) based on its experience with the benefit packages employees have chosen in the past. Benefits for public Board members include only the Social Security and Medicare allotment from the employer.  </p>
-        <p> It currently has four vacant positions, which it plans to fill in FY 2022. Some of these positions have been restructured to create career ladder positions. Therefore, although the Board has incorporated the President’s planned recommendation of a 4.6 percent cost of living increase, its personnel numbers do not reflect that full amount, since some positions will be filled at lower grades than in prior years. </p>
-        <p> Its personnel staff salary line includes an award amount equal to 4 percent of GS salaries. This will allow the Board to provide meaningful recognition for annual performance awards and provide for special act awards where warranted. </p></td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2022 </td>
-      <td style="text-align: right;"> $5,550,500 </td>
-    </tr>
-    <tr>
-      <td> FY 2023 </td>
-      <td style="text-align: right;"> $5,724,600  </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th colspan="2" scope="rowgroup"> BOARD MEETINGS / PUBLIC HEARINGS </th>
-      <td rowspan="3"><p> This budget line includes all costs related to its board meetings and public hearings, except for salaries. This includes travel expenses, meeting space rental, Communication Access Realtime Translation (CART) and sign language interpreters for all board and other public meetings.  
-          <p>As mentioned in the Personnel line, the Board plans to continue holding 3 of its board meetings virtually. This will result in a cost savings, compared with its FY 2022 budget, which assumed that the board would travel for each of the 6 meetings.</p></td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2022 </td>
-      <td style="text-align: right;"> $363,100 </td>
-    </tr>
-    <tr>
-      <td> FY 2023 </td>
-      <td style="text-align: right;"> $238,800 </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th colspan="2" scope="rowgroup"> TRAVEL </th>
-      <td rowspan="3"><p> The Board’s travel budget primarily covers its travel expenses related to attendance at annual trade meetings related to its accessibility-related mission. Examples include the annual CSUN technology exposition and meetings of building code groups of which the Board is a standing member, such as the ANSI A117 committee. Occasionally, the Board conducts site visits related to Architectural Barriers Act complaints. In conjunction with some rulemaking, the Board occasionally establishes special committees, and the travel for those committees would be included on this budget line; however, none is planned for FY 2022.  
-          <p>In FY 2022 and years prior, the Board had sought reimbursement for travel related to accessibility training. However, the Board does not do a significant amount of this type of travel, and the administrative costs related to processing the reimbursements proved to be more expensive than the travel costs. Therefore, the Board is suspending its travel reimbursement activity for the foreseeable future. As a result, it is reflecting an increase in its travel costs. </p></td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2022 </td>
-      <td style="text-align: right;"> $ 20,000 </td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2023 </td>
-      <td style="text-align: right;"> $ 40,000 </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th colspan="2" scope="rowgroup"> SPACE MANAGEMENT </th>
-      <td rowspan="3"><p> The Board’s rent is set by the General Services Administration. The Board entered into a new occupancy agreement, effective January 1, 2022. Because GSA had not yet entered into a new lease agreement at the time it estimated the rent for FY 2022, and the cost of a new lease was unknown, GSA’s estimate for that year was high. GSA’s rent estimate for FY 2023 is based on the new lease. The amount on this line also includes other costs related to its space, such as maintenance and security. </p></td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2022 </td>
-      <td style="text-align: right;"> $807,800 </td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2023 </td>
-      <td style="text-align: right;"> $789,500 </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th colspan="2" scope="rowgroup"> RESEARCH </th>
-      <td rowspan="3"><p> Contracting for research to assist in its guidelines and standards development and to provide technical assistance materials is crucial to the Board’s mission. Funds also are used to conduct required regulatory assessments for its rulemaking. The research funds requested will allow the Board to move forward with its rulemaking agenda, which includes the issuance of new guidelines and updating existing guidelines. </p></td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2022 </td>
-      <td style="text-align: right;"> $400,000 </td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2023 </td>
-      <td style="text-align: right;"> $325,000 </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th colspan="2" scope="rowgroup"> ADMINISTRATIVE SUPPORT SERVICES </th>
-      <td rowspan="3"><p> The Board contracts with the Bureau of the Fiscal Service (BFS) in the Department of the Treasury to provide procurement, financial, payroll, and personnel services. Approximately $763,000 of its costs are for services the Board receives from BFS. The cost for administrative support services from other federal agencies has increased significantly in the past two fiscal years. Additional costs are for support of its webinars, through which most of its training is conducted. The Board also has contracted for records management consulting services, and have another contract for GovDelivery, which supports its public outreach initiative.  </p></td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2022 </td>
-      <td style="text-align: right;"> $997,500 </td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2023 </td>
-      <td style="text-align: right;"> $1,039,700 </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th colspan="2" scope="rowgroup"> INFORMATION TECHNOLOGY SUPPORT SERVICESs </th>
-      <td rowspan="3"><p> This is the yearly cost of the Board’s telephone and desktop computing needs including desktop and laptop computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service). A large portion of its IT budget goes toward the provision of network security and operational integrity of the Board’s network. This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, “Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.” These expenditures will help the Board meet the Federal Information Security Management Act and provide certification of the Board’s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service’s HR Connect System for personnel services). Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program. </p></td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2022 </td>
-      <td style="text-align: right;"> $1,486,200 </td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2023 </td>
-      <td style="text-align: right;"> $1,540,700 </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th colspan="2" scope="rowgroup"> PRINTING </th>
-      <td rowspan="3"><p> Publishing proposed and final rules in the Federal Register is a relatively high cost for the Board. Printing in the Federal Register costs $453 per page. Other items in this category include printing its final rules in the Code of Federal Regulations and miscellaneous printing requirements. </p></td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2022 </td>
-      <td style="text-align: right;"> $60,000 </td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2023 </td>
-      <td style="text-align: right;"> $60,000 </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th colspan="2" scope="rowgroup"> MISCELLANEOUS OPERATING EXPENSES </th>
-      <td rowspan="3"><p> Expenditures in this category include postage, overnight shipping, and in-town delivery service. The Board contracts with the Interior Business Center in the Department of the Interior to provide services for the mandatory drug testing program. Other expenditures are for a reader to provide audio tapes as alternate format publications and miscellaneous operating expenses not reflected elsewhere. Its yearly financial audit is included along with book purchases for its library collection of accessible design materials, staff training, office supplies, and equipment purchases. </p></td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2022 </td>
-      <td style="text-align: right;"> $84,900 </td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2023 </td>
-      <td style="text-align: right;"> $91,700 </td>
-    </tr>
-  </tbody>
-  <tbody>
-    <tr>
-      <th colspan="2" scope="rowgroup"> RECEIPTS FOR PUBLICATIONS AND TRAINING </th>
-      <td rowspan="3"><p> We expect to receive approximately $50,000 in FY 2022 in reimbursements for travel associated with accessibility training, as authorized under 29 USC 792. </p></td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2021 </td>
-      <td style="text-align: right;"> $50,000 </td>
-    </tr>
-    <tr>
-      <td scope="row"> FY 2022 </td>
-      <td style="text-align: right;"> $50,000 </td>
-    </tr>
-  </tbody>
-</table>
-</div>
+## Appendix B
+
+### Status of Current Access Board Rulemaking Efforts
+
+_May 2021_
+
+#### ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles --- Update (rail vehicles)
+
+This rulemaking would update the Board’s existing accessibility guidelines for transportation vehicles that operate on fixed guideway systems (e.g., rapid rail, light rail, commuter rail, and intercity rail) covered by the ADA. The existing rail vehicles guidelines were initially promulgated in 1991, and need an update to, among other things, keep pace with newer accessibility-related technologies, harmonize with recently developed national and international consensus standards, and incorporate recommendations from the Board’s Rail Vehicles Access Advisory Committee’s report. Past and recent efforts related to this regulatory initiative include:
+
+*   notice of intent to establish advisory committee – February 14, 2013
+*   notice establishing advisory committee – May 23, 2013
+*   full committee meetings: November 13-14, 2013; January 9-10, 2014; April 10-11, 2014; September 11-12, 2014; February 26-27, 2015; April 23-24, 2015; June 4-5, 2015
+*   committee presented recommendations to the Board – July 29, 2015
+*   advance notice of proposed rulemaking – February 14, 2020
+*   notice of public hearing – February 27, 2020
+*   notice of extension of comment period – April 10, 2020
+
+#### Public Rights-of-Way (including Shared Use Paths)
+
+When the Board issued final rules for state and local governments in 1998, it decided to reserve provisions for public rights-of-way, due in large measure to the concerns of the transportation community expressed in comment to the Board on proposed and interim final rules for entities covered by title II of the ADA. Rather than finalizing the guidelines for public rights-of-way, the Board began an ambitious outreach plan to the highway industry. The Board produced a series of videos, an accessibility checklist, and a design guide on accessible public rights-of-way.
+
+Following this outreach, the Board decided to reinitiate rulemaking by convening a federal advisory committee to develop recommendations for the guidelines. In October 1999, the Board created a 31-member Public Rights-of-Way Access Advisory Committee. Representatives of a wide range of stakeholders, including transportation industry organizations and disability and pedestrian advocates developed recommendations for scoping and technical provisions addressing access to sidewalks, street crossings, and related pedestrian facilities. The committee presented its report to the Board in January 2001.
+
+In June 2002, the Board released for public comment draft guidelines based on the committee’s recommendations. A public meeting on the draft guidelines was held in Portland, OR in October 2002.
+
+In November 2005, the Board revised the draft guidelines based on public comments on the initial draft and released them as a notice of availability. This action was done to assist the Board in preparing a regulatory assessment of the impacts of the rule. A proposed rule was published for public comment in July 2011; two hearings were held, and the comment period closed in February 2012.
+
+When the Board approved draft final accessibility guidelines for trails, coverage of shared use paths was deferred to a future rulemaking. Commenters on the outdoor developed areas rule had previously raised concerns about the need for differing guidelines for shared use paths. Commenters noted that shared use paths differ from trails and typically are in more developed outdoor areas, as opposed to the more primitive trail settings. Unlike trails, shared use paths are designed to serve both bicyclists and pedestrians and are used for transportation and recreation purposes.
+
+As a result, the Board initiated rulemaking to cover shared use paths. In September 2010, it held a public information meeting in conjunction with the ProWalk/ProBike 2010 Conference. This meeting provided an opportunity for individuals with disabilities, designers of shared use paths, and others with expertise in this area to share information with the Board to assist in the development of new accessibility guidelines. It then published an ANPRM for shared use paths in March 2011. In February 2013, the Board published a Supplemental Notice of Proposed Rulemaking to include requirements for shared use paths as part of the public rights-of-way rule. The Board suspended action on this rule in 2017 in light of Executive Order 13777 Enforcing the Regulatory Reform Agenda, which was rescinded earlier this year. The next step for this rulemaking is a final rule, planned for FY 2022.
+
+*   notice of proposed rulemaking – December 21, 1992
+*   interim final rule – June 20, 1994
+*   final rule – January 13, 1998 (public rights-of-way not included in the final rule)
+*   notice of intent to establish advisory committee – August 12, 1999
+*   notice establishing advisory committee – October 20, 1999
+*   full committee meetings: December 2-3, 1999; February 9-11, 2000; May 18-19, 2000; August 16-18, 2000; October 18-20, 2000
+*   committee presented recommendations to the Board – January 10, 2001
+*   draft guidelines – June 17, 2002
+*   public hearing – October 8, 2002
+*   notice of availability of second set of draft guidelines – November 23, 2005
+*   notice of proposed rulemaking – July 26, 2011
+*   information meeting on shared use paths – September 13, 2010
+*   advance notice of proposed rulemaking on shared use paths – March 28, 2011
+*   supplemental notice of proposed rulemaking on shared use paths – February 14, 2013
+
+#### Passenger Vessels
+
+This rulemaking will address access to ferries, cruise ships, excursion boats, and other vessels. In 1994, the Access Board and DOT funded a research project to assess the feasibility and impact of providing access to a variety of vessels. This project was completed in July 1996 and provided valuable information for rulemaking. The Board and DOT also held an information meeting with organizations representing people with disabilities and the marine industry to determine the scope and complexity of the rulemaking.
+
+In August 1998, the Board created a 22-member Passenger Vessel Access Advisory Committee to provide recommendations for a proposed rule addressing accessibility guidelines for newly constructed and altered passenger vessels covered by the ADA. The committee presented its report to the Board in November 2000. 
+
+The Board held public meetings in New Orleans (August 2003) and Seattle (September 2003) to gather information and input on viable access solutions that will allow persons with disabilities independent access onto and off of large vessels. Over 150 vessel designers and operators, pier operators, persons with disabilities, and others attended the meetings. In advance of the meetings, the Board toured vessels and boarding facilities at area ports. In November 2004, the Board published for public comment an ANPRM on access to and in smaller passenger vessels and a notice of availability releasing draft guidelines on access to and in larger passenger vessels.
+
+In July 2006, the Board made available for public comment revised draft accessibility guidelines for passenger vessels. It received approximately 175 comments on the draft guidelines. Passenger vessel operators, individuals with disabilities, and organizations representing the various interest groups commented that a provision in the draft guidelines, which required emergency alarm systems to comply with “principles of best practice”, was vague and requested additional guidance. The Board agreed that additional guidance would be helpful and in August 2007 created a Passenger Vessel Emergency Alarms Advisory Committee to assist in this matter. The committee’s membership included representatives from disability organizations, the vessel and cruise ship industry and trade groups, and the National Fire Protection Association, among others. The committee presented its report to the Board in October 2008. In June 2008, the Board published revised draft guidelines to collect data necessary for a regulatory assessment. Meetings were held in August 2008 to collect this data.
+
+In June 2013, the Board released for public comment proposed guidelines for passenger vessels. The comment period ended in January 2014. The next step for this rulemaking is a final rule. The Board suspended work on this rule in 2017 in light of the requirements of Executive Order 13777 *Enforcing the Regulatory Reform Agenda*, which was rescinded earlier this year. The Board is now evaluating the timing of the final rule in the context of the agency’s other rulemaking priorities.
+
+*   information meeting – April 15, 1996
+*   notice of intent to establish advisory committee – March 30, 1998
+*   notice establishing advisory committee – August 12, 1998
+*   full committee meetings: September 24-25, 1998; November 18-21, 1998; February 4-6, 1999; April 21-23, 1999; July 21-23, 1999; October 20-22, 1999; February 9-11, 2000; April 26-28, 2000; September 19-22, 2000
+*   committee presented recommendations to the Board – November 17, 2000
+*   information meetings – August 20, 2003; September 9, 2003
+*   notice of availability of draft guidelines and advance notice of proposed rulemaking – November 26, 2004
+*   revised draft guidelines for large vessels, ferries, and tenders – July 7, 2006
+*   notice of intent to establish advisory committee – June 25, 2007
+*   notice establishing advisory committee – August 13, 2007
+*   full committee meetings: September 19-20, 2007; November 28-29, 2007; February 12-13, 2008; August 12-13, 2008
+*   committee presented recommendations to the Board – October 14, 2008
+*   revised draft guidelines for large vessels, ferries, and tenders – June 26, 2008
+*   information meeting – August 11, 2008
+*   notice of proposed rulemaking – June 25, 2013
+
+#### Medical Diagnostic Equipment
+
+Section 510 of the Rehabilitation Act required the Board to issue accessibility standards for medical diagnostic equipment, including examination tables and chairs, weight scales, radiological equipment, and mammography equipment in consultation with the Food and Drug Administration. The standards were required to address independent access to, and use of, equipment by people with disabilities to the maximum extent possible.
+
+In July 2010, the Board held a public information meeting on this rulemaking to gather information from stakeholders with an interest in the new standards. A proposed rule was published in February 2012 and two public hearings were held. The comment period closed in June 2012; 53 comments were received. In March 2012, the Board created a 24-member Medical Diagnostic Equipment Accessibility Standards federal advisory committee to advise the Board on matters associated with the comments the Board received and information it requested in proposing the standards. The committee issued its final report in December 2013. A final rule was published in January 2017; however, there are two technical provisions relating to the adjustability of transfer height surfaces that were made provisional to provide time for completion of additional research or other means of acquiring additional, needed data. That is, sections M301.2.1 and M302.2.1 of the MDE Standards establish a range of 17 - 19 inches maximum from the floor (rather a single-height specification) for the low-side transfer position, with these low-height specifications “sunsetting” five years after the rule’s effective date (i.e., January 2022). The Board is still in the process of gathering information needed to develop a technical specification to replace the low-side transfer position range specified in sections M301.2.1 and M302.2.1. Consequently, the Board plans to publish a direct final rule in FY 2021 that will extend the sunset date for M301.2.1 and M302.2.1.
+
+*  information meeting – July 29, 2010
+*  notice of proposed rulemaking – February 9, 2012
+*  public hearings - March 14, 2012; May 8, 2012
+*  notice of intent to establish advisory committee – March 13, 2012
+*  notice establishing advisory committee - July 5, 2012
+*  full committee meetings:  September 27-28, 2012; December 3-4, 2012; January 22-23, 2013; February 26-27, 2013; March 26-27, 2013; May 7-8, 2013; June 17, 2013
+*  committee presented draft recommendations to the Board – July 10, 2013
+*  committee report completed – December 6, 2013
+*  final rule – January 9, 2017
+ 
+* * *
+
+### Completed Access Board Rulemakings
+
+_May 2021_
+
+#### ADAAG for Buildings and Facilities (Sections 1-9)
+
+The ADA Accessibility Guidelines (ADAAG) initially consisted of nine sections. Sections 1 through 4 include general sections, scoping provisions, and technical specifications applicable to all types of buildings and facilities. The scoping provisions specify which and how many elements and spaces of a building or facility must be accessible (e.g., parking spaces, entrances, toilet rooms). The technical specifications describe how to design the elements and spaces covered by the scoping provisions, so they are accessible to and usable by individuals with disabilities. Sections 5 through 9 contain additional scoping provisions and technical specifications for the following facilities: restaurants and cafeterias (section 5); medical care facilities (section 6); mercantile establishments (section 7); libraries (section 8); and hotels, motels, and transient lodging (section 9).
+
+*   advance notice of proposed rulemaking – August 31, 1990
+*   public hearings – February 11, 1991 through March 7, 1991
+*   notice of proposed rulemaking – January 22, 1991
+*   final rule – July 26, 1991
+*   Department of Justice adopted guidelines – July 26, 1991
+*   Department of Transportation adopted guidelines – September 6, 1991
+
+#### ADAAG for Transportation Facilities (Section 10)
+
+This rulemaking added section 10 to ADAAG which contains additional scoping provisions and technical specifications for transportation facilities.
+
+*   supplemental notice of proposed rulemaking – March 20, 1991
+*   final rule – September 6, 1991
+*   Department of Transportation adopted guidelines – September 6, 1991
+*   Department of Justice adopted guidelines – January 18, 1994
+
+#### ADAAG for Transportation Vehicles
+
+A separate ADAAG was issued for transportation vehicles for the following vehicles and systems: buses and vans, rapid rail vehicles, light rail vehicles, commuter rail cars, intercity rail cars, over-the-road buses, automated guideway transit vehicles, high-speed rail cars, monorails, and trams and similar vehicles.
+
+*   notice of proposed rulemaking – March 20, 1991
+*   final rule – September 6, 1991
+*   Department of Transportation adopted guidelines – September 6, 1991
+
+#### Automated Teller Machines
+
+In response to a petition for rulemaking, on July 15, 1993, the Board issued a joint final rule with DOT amending the reach range requirements for accessible automated teller machines and fare vending machines.
+
+*   notice requesting public comment on petition for rulemaking – May 6, 1992
+*   public hearing – May 28, 1992
+*   notice of proposed rulemaking – September 8, 1992
+*   final rule – July 15, 1993
+*   Department of Transportation adopted guidelines – July 15, 1993
+*   Department of Justice adopted guidelines – January 18, 1994
+
+#### Children’s Elements
+
+This rulemaking added provisions to ADAAG for building elements designed for children’s use. The Board published an ANPRM in February 1993 seeking comment on general issues, such as the scope of the guidelines and the ages or grades that should be covered. Following an analysis of the comments, the Board published a notice of proposed rulemaking in July 1996. The Board published the final rule in January 1998.
+
+*   advance notice of proposed rulemaking – February 3, 1993
+*   notice of proposed rulemaking – July 22, 1996
+*   final rule – January 13, 1998
+*   Department of Justice adopted guidelines – July 23, 2010
+
+#### State and Local Government Facilities (Sections 11-12)
+
+This rulemaking added two special application sections to ADAAG for certain State and local government facilities covered by title II of the ADA. The two sections are 11—Judicial, Legislative, and Regulatory Facilities, and 12—Detention and Correctional Facilities. The rule also covers miscellaneous provisions that apply to State and local government facilities.
+
+The Board published a notice of proposed rulemaking and conducted five public hearings on the proposed rule. Following an analysis of the comments, the Board published an interim final rule asking for additional comments. Provisions regarding accessible residential housing and public rights-of-way were proposed as part of the NPRM and the interim final rule. However, no action was taken on either of these subjects in the final rule. Provisions for accessible residential housing were proposed as part of the Board’s ADAAG Revision and ABA Accessibility Guidelines rulemaking. The Board convened a federal advisory committee to develop recommendations on access to public rights-of-way. It published a final rule in January 1998.
+
+*   notice of proposed rulemaking – December 21, 1992
+*   public hearings – February 22, 1993 (two hearings); March 2, 1993; March 9, 1993; March 15, 1993
+*   interim final rule – June 20, 1994
+*   final rule – January 13, 1998
+*   Department of Justice adopted guidelines – July 23, 2010
+
+#### Telecommunications Equipment
+
+The Telecommunications Act of 1996 required the Board to issue accessibility guidelines in conjunction with the Federal Communications Commission for telecommunications equipment and customer premises equipment. The Board convened a 33-member Telecommunications Access Advisory Committee to assist the Board in fulfilling its mandate to issue the guidelines. The committee presented its report to the Board in January 1997. Based on the committee’s recommendations, the Board published a notice of proposed rulemaking in April 1997 and then a final rule in February 1998.
+
+*   notice of intent to establish advisory committee – March 28, 1996
+*   notice establishing advisory committee – May 24, 1996
+*   full committee meetings: June 10-12, 1996; August 14-16, 1996; September 25-27, 1996; November 6-8, 1996; December 16-18, 1996; January 13-14, 1997
+*   committee presented recommendations to the Board – January 15, 1997
+*   notice of proposed rulemaking – April 18, 1997
+*   final rule – February 3, 1998
+*   Federal Communications Commission adopted guidelines – November 19, 1999
+
+#### Over-the-Road Buses
+
+The ADA requires the Board and DOT to issue guidelines and regulations for access to over-the-road buses. The Board and DOT co-sponsored an information meeting on over-the-road bus issues and in March 1998, it published an NPRM to amend the technical provisions for over-the-road buses to include provisions for wheelchair access and other miscellaneous provisions. The Department of Transportation also published an NPRM on accessible over-the-road bus service. After reviewing the comments received in response to the NPRM, the Board issued final guidelines which include technical provisions for lifts, ramps, wheelchair securement devices, moveable aisle armrests, and revisions to specifications for doors and lighting.
+
+*   information meeting – October 21, 1993
+*   notice of proposed rulemaking – March 25, 1998
+*   final rule – September 28, 1998
+*   Department of Transportation adopted guidelines – September 28, 1998
+
+#### Detectable Warnings Temporary Suspension
+
+In response to a petition for rulemaking, in 1994 the Board, DOJ, and DOT suspended temporarily until July 1996, the requirements for detectable warnings at curb ramps, hazardous vehicular areas, and reflecting pools so that a research project on this subject could be considered in determining whether any changes in the requirements were warranted.
+
+In March and April 1995, the Board received petitions from two transit agencies and an organization of blind persons to review the requirements for detectable warnings at transit platform edges. The Board’s ADAAG Review Advisory Committee also considered the requirements for detectable warnings within the context of the committee’s complete review of ADAAG provisions. The committee recommended that the requirements for detectable warnings at curb ramps, hazardous vehicular areas, and reflecting pools that are currently suspended be eliminated. The committee recommended requiring detectable warnings at platform edges in transit stations, and allowing an “equivalent tactile surface,” and “equivalent detectability.” Since any amendment to the detectable warning requirements will be done as part of the scheduled review and update of ADAAG, in July 1996, the Board, DOJ, and DOT published a final rule to extend the temporary suspension until July 1998 to allow the ADAAG revision process to be completed. Because the ADAAG revision rulemaking was not completed by July 1998, the temporary suspension was continued until July 2001.
+
+*   proposed rule to temporarily suspend the requirements – July 9, 1993
+*   final rule to temporarily suspend the requirements – April 12, 1994
+*   proposed rule to extend the temporary suspension – April 12, 1996
+*   final rule to extend the temporary suspension – July 29, 1996
+*   proposed rule to extend the temporary suspension – June 1, 1998
+*   final rule to extend the temporary suspension – November 23, 1998
+
+#### Play Areas
+
+The Board convened a 27-member advisory committee to make recommendations on issues related to making various recreation areas accessible.  The committee met from July 1993 - May 1994.  Some issues remained where consensus was needed.  This included play areas, playground surfaces, and play equipment.
+
+The Board created a 17-member Play Areas Regulatory Negotiation Committee to achieve consensus requirements for access to play areas.  The committee presented its consensus report to the Board in July 1997.  At the same meeting, the Board approved an NPRM on access to play areas.  The Board published the NPRM in April 1998 and held one public hearing in Denver, CO to receive additional feedback during the comment period.  The final rule was published in October 2000.  In November 2000, the Board published an amended advisory note to the accessibility guidelines which clarified that play components that are attached to a composite play structure and can be approached from a platform or deck are elevated play components.  These play components are not considered ground level play components also, and do not count toward meeting the number of ground level play components that must be located on an accessible route.
+
+*   notice of intent to establish regulatory negotiation committee – December 22, 1995
+*   notice establishing regulatory negotiation committee – February 14, 1996
+*   full committee meetings: March 5-7, 1996; May 8-10, 1996; August 4-6, 1996; October 26-28; January 6-9, 1997; April 2-4, 1997; July 8-9, 1997
+*   committee presented report to the Board – July 9, 1997
+*   notice of proposed rulemaking – April 30, 1998
+*   public hearing – June 3, 1998
+*   final rule – October 18, 2000
+*   amended advisory note – November 20, 2000
+*   Department of Justice adopted guidelines – July 23, 2010
+
+#### Electronic and Information Technology
+
+In August 1998, the Workforce Investment Act of 1998, which includes the Rehabilitation Act Amendments of 1998, was signed into law. Section 508 of the Rehabilitation Act Amendments requires that when federal departments or agencies develop, procure, maintain, or use electronic and information technology, they shall ensure that the technology is accessible to people with disabilities, unless an undue burden would be imposed on the department or agency.
+
+Section 508 required the Board to publish standards setting forth a definition of electronic and information technology and the technical and functional performance criteria for such technology. The Board and the General Services Administration were required to provide technical assistance to individuals and federal departments and agencies concerning the requirements of section 508.
+
+In developing its standards, the Board was required to consult with various federal agencies, the electronic and information technology industry, and appropriate public or nonprofit agencies or organizations, including organizations representing individuals with disabilities. The Board convened a 27-member Electronic and Information Technology Access Advisory Committee to assist in developing its standards. The Committee presented its report to the Board in May 1999. The Board issued a notice of proposed rulemaking on access to electronic and information technology in March 2000. A final rule was published in December 2000. In April 2001, the Federal Acquisition Regulatory Council incorporated the Board’s standards into revisions to the Federal Acquisition Regulations.
+
+*   notice of intent to establish advisory committee – August 24, 1998
+*   notice establishing advisory committee – September 29, 1998
+*   full committee meetings: October 15-16, 1998; December 1-2, 1998; January 5-6, 1999; February 8-9, 1999; March 29-30, 1999; May 11-12, 1999
+*   committee presented recommendations to the Board – May 12, 1999
+*   notice of proposed rulemaking – March 31, 2000
+*   final rule – December 21, 2000
+*   Federal Acquisition Regulatory Council incorporated the Board’s standards into revisions to the Federal Acquisition Regulations – April 25, 2001
+
+#### Recreation Facilities
+
+This rulemaking addresses recreation facilities including sports facilities, places of amusement, golf, and boating and fishing facilities. The Board convened a 27-member advisory committee to make recommendations on issues related to making these areas accessible. The committee met from July 1993 - May 1994. After receiving the committee’s report, the Board published it as an ANPRM. Over 600 comments were received on the report and questions asked in the ANPRM. It also sponsored an information meeting on access to miniature golf facilities in September 1996 to obtain additional information on some issues related to access to miniature golf courses.
+
+The Board published an NPRM for sports facilities, places of amusement, golf, and boating and fishing facilities in July 1999 and held two public hearings to receive feedback during the comment period. The NPRM was based on the recommendations of the advisory committee and public comments received in response to the ANPRM and information meeting. The comment period closed in December 1999. Over 300 comments were received on the proposed rule. The Board also sponsored an information meeting on access to amusement rides in December 1999 to clarify concerns raised by the amusement industry during the public comment period.
+
+To provide more opportunities for input, in July 2000 the Board placed in the docket for review and comment, a summary of recommendations made by an ad hoc committee of the Access Board for the final recreation facilities guidelines. The summary reflected the ad hoc committee’s consideration of comments on the proposed rule and information gathered at meetings sponsored by the committee. The Board held two information meetings in Washington, DC and San Francisco, CA to discuss the summary. In September 2002, the Board issued a final rule.
+
+*   notice of intent to establish advisory committee – February 3, 1993
+*   notice establishing advisory committee – June 10, 1993
+*   full committee meetings:  July 15-16, 1993; October 23-25, 1993; January 28-30, 1994; March 18-20, 1994; May 20-22, 1994 (numerous subcommittee meetings were also held)
+*   committee presented recommendations to the Board – July 13, 1994
+*   advance notice of proposed rulemaking – September 21, 1994
+*   information meeting on miniature golf facilities – September 16, 1996
+*   notice of proposed rulemaking – July 9, 1999
+*   information meeting on amusement rides – December 1, 1999
+*   public hearing – August 26, 1999; November 17, 1999
+*   notice of draft final guidelines summary and informational meetings – July 21, 2000
+*   information meetings – August 21-22, 2000; September 6-7, 2000
+*   final rule – September 3, 2002
+*   Department of Justice adopted guidelines – July 23, 2010
+
+#### ADAAG Revision and Architectural Barriers Act Accessibility Guidelines
+
+This rulemaking revised ADAAG, updated the Minimum Guidelines and Requirements for Accessible Design (MGRAD) for federal facilities covered by the ABA, and created new guidelines for accessible housing.
+
+The rulemaking consists of separate scoping and application sections for each law and one set of technical requirements for both the ADA and the ABA. The ADA scoping section is based on recommendations of the Board’s ADAAG Review Advisory Committee and covers private facilities (places of public accommodation and commercial facilities) and state and local government facilities. The other scoping section addresses federally funded facilities covered by the ABA. New scoping and technical provisions for accessible housing are included in this rule and are based on requirements for “Type A” dwelling units contained in the 1998 edition of the ICC/ANSI A117.1 standard, “Accessible and Usable Buildings and Facilities.”
+
+The Board established a 22-member ADAAG Review Advisory Committee to review and make recommendations for updating ADAAG to ensure that it remains consistent with technological developments and changes in model codes and national standards and continues to meet the needs of people with disabilities. The committee developed a comprehensive set of recommendations addressing the format of the guidelines, its numbering system, and changes to the scoping provisions and technical requirements. Cited as an outstanding example of reinventing government, the committee and the Board received the Vice-President’s Hammer Award in July 1996.
+
+The Board issued a proposed rule in November 1999. The comment period closed in May 2000. Over 2,500 comments were received on the proposed rule. The Board held two public hearings (Los Angeles, CA on January 31, 2000 and Arlington, VA on March 13, 2000). It also held informational meetings in Washington, DC in October 2000 to hear from industry associations and disability groups on issues regarding automated teller machines, reach ranges, and captioning equipment for movie theaters. In April 2002, the Board placed in the docket for public review a draft of the final guidelines to promote the harmonization of the Board’s guidelines with the International Code Council (ICC)/American National Standards Institute (ANSI) A117.1 Standard on Accessible and Usable Buildings and Facilities and the International Building Code. The ANSI Committee and the ICC were currently in the process of revising the private sector accessibility provisions. Without taking this step, an important opportunity would have been missed to harmonize the Board’s guidelines with those of the private sector.
+
+*   notice of intent to establish advisory committee – April 6, 1994
+*   notice establishing advisory committee – September 14, 1994
+*   full committee meetings: October 24-25, 1994; January 26-27, 1995; April 26-29, 1995; February 26 - March 1, 1996; July 7-9, 1996; August 26-28, 1996 (numerous subcommittee meetings were also held)
+*   committee presented recommendations to the Board– July 10, 1996
+*   notice of proposed rulemaking – November 16, 1999
+*   public hearing – January 31, 2000; March 13, 2000
+*   information meeting – October 24-25, 2000
+*   draft final rule – April 2, 2002
+*   final rule – July 23, 2004
+*   U.S. Postal Service adopted guidelines – May 17, 2005
+*   General Services Administration adopted guidelines – November 8, 2005
+*   Department of Transportation adopted guidelines – October 30, 2006
+*   Department of Defense adopted guidelines – October 31, 2008
+*   Department of Justice adopted guidelines – September 15, 2010
+
+#### Outdoor Developed Areas
+
+The Board created a 26-member Outdoor Developed Areas Regulatory Negotiation Committee to achieve a consensus approach and requirements for making outdoor developed areas accessible. The Committee presented its report in September 1999. In October 2001, the Board sponsored an information meeting on the committee’s report in Denver, CO during the annual meeting of the National Recreation and Park Association.
+
+An NPRM for federal facilities covered by the ABA was published in June 2007. The Board held three public hearings in Denver, CO; Washington, DC; and Indianapolis, IN. In October 2009, it released draft final guidelines for public comment. Approximately 80 comments were received. A final rule was published in September 2013. Proposed guidelines for non-federal sites will be published for comment at a future date.
+
+*   notice of intent to establish regulatory negotiation committee – April 18, 1997
+*   notice establishing regulatory negotiation committee   June 4, 1997
+*   full committee meetings: June 26-27, 1997; September 24-26, 1997; December 14-16, 1997; January 31-February 2, 1998; May 18-21, 1998; August 11-14, 1998; October 21-24, 1998; January 19-22, 1999; April 27-30, 1999; July 15-16, 1999
+*   committee presented report to the Board – September 15, 1999
+*   information meeting – October 4, 2001
+*   notice of proposed rulemaking – June 20, 2007
+*   draft final rule – October 19, 2009
+*   final rule – September 26, 2013
+
+#### Emergency Transportable Housing
+
+A federal advisory committee on emergency transportable housing was created to provide recommendations on supplementing its guidelines to specifically cover emergency transportable housing. Access to such housing proved problematic in the aftermath of Hurricane Katrina and, after verifying and examining the issues involved, the Board determined that supplementary guidelines were needed. The committee included representation from disability groups, industry and code groups, and government agencies. The committee presented its report to the Board in November 2008. The Board published a proposed rule in June 2012; the comment period closed in August 2012. One public hearing was held in July 2012. At the close of the comment period, the Board had received 45 comments, including those from the public hearing. A final rule was published in May 2014.
+
+*   notice of intent to establish advisory committee – June 25, 2007
+*   notice establishing advisory committee – August 23, 2007
+*   full committee meetings: September 24-25, 2007; November 19-20, 2007; January 24-25, 2008; February 14, 2008; March 27-28, 2008; July 9, 2008; July 24, 2008; August 21, 2008
+*   committee presented recommendations to the Board – November 18, 2008
+*   notice of proposed rulemaking – June 18, 2012
+*   public hearing – July 11, 2012
+*   final rule – May 7, 2014
+
+#### ADA Accessibility Guidelines (ADAAG) for Transportation Vehicles – Update (non-rail vehicles)
+
+In April 2007, the Board released for public comment a preliminary draft of revisions updating its accessibility guidelines for buses and vans covered by the ADA. It received approximately 90 comments. The Board used this input to refine the draft and then published a second draft in November 2008 for additional comment. An NPRM to revise and update the accessibility guidelines for buses, over-the-road buses, and vans was published in July 2010. Two public hearings were held during the comment period. One important issue was raised after the close of the comment period. As a result, the Board re-opened the comment period for additional public input related to the late comments. The commenters raised issues about the 1:6 ramp slope requirements and a new design that locates the shallower ramp partially inside the vehicle. This design constrains the maneuvering space within the vehicle at the top of the ramp and at the fare box and creates a grade break within the ramp run. During the extended comment period, which ended in October 2102, the Board held two information meetings to gather input on these issues. A final rule was published in December 2016.
+
+*   draft guidelines for buses and vans – April 11, 2007
+*   second draft of guidelines for buses and vans – November 19, 2008
+*   notice of proposed rulemaking – July 26, 2010
+*   public hearings – September 30, 2010; November 8, 2010
+*   re-opening of comment period – August 20, 2012
+*   public hearings – September 19, 2012; October 2, 2012
+*   final rule – December 14, 2016
+
+**Information and Communication Technology.**  In July 2006, the Board created an advisory committee to update and revise the Section 508 standards and the Telecommunications Act Accessibility Guidelines. Forty-one organizations served on the Telecommunications and Electronic and Information Technology Advisory Committee. The committee’s membership included representatives from industry, disability groups, standard-setting bodies in the U.S. and abroad, and government agencies, among others. The committee completed its work and presented its report to the Board in April 2008. In March 2010, the Board published an ANPRM and held two public hearings during the comment period. In response to this input, it published a second ANPRM in December 2011; two hearings were held. A proposed rule was published in February 2015. Three public hearings and a webinar on the proposed rule were held during the comment period. A final rule was published in January 2017.
+
+On January 22, 2018, the Board issued a correction to its updated accessibility requirements for ICT to restore provisions on TTY access that were inadvertently omitted. The original Section 508 standards and Section 255 guidelines required that devices with two-way voice communication support use of TTY devices which provide text communication across phone connections for persons with hearing or speech impairments. In its ICT refresh, the Board had proposed replacing this provision with a requirement for real-time text (RTT) functionality, a new technology with significant advantages over TTYs. In finalizing the rule, however, the Board chose to reserve the RTT requirement because the Federal Communications Commission had initiated its own rulemaking to address RTT functionality. In doing so, the Board intended to add the original TTY provision back into the rule, but the necessary language was unintentionally omitted. The correction notice restored the TTY requirement with minor editorial changes for consistency with the new format and terminology of the updated requirements and corrected two typographical errors in other sections of the rule.
+
+Corrections to the Information and Communication Technology (ICT) Final Standards and Guidelines Direct final rule; request for comments
+
+*   notice of intent to establish advisory committee – April 18, 2006
+*   notice establishing advisory committee – July 6, 2006
+*   full committee meetings:  September 27-29, 2006; November 7-8, 2006; February 6-8, 2007; May 22-24, 2007; July 16-18, 2007; September 4-6, 2007; November 13-16, 2007
+*   committee presented recommendations to the Board – April 3, 2008
+*   advance notice of proposed rulemaking – March 22, 2010
+*   public hearings – March 25, 2010; May 12, 2010
+*   advance notice of proposed rulemaking – December 8, 2011
+*   public hearings – January 11, 2012; March 1, 2012
+*   notice of proposed rulemaking – February 27, 2015
+*   final rule – January 18, 2017
+*   correction notice (direct final rule; request for comments) – January 22, 2018
+
+* * *
 
 
 * * *
