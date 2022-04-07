@@ -479,6 +479,7 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
 The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. L. 117-103, the FY 2022 Consolidated Appropriations Act, provided the Board with $9,750,000 in funding.
 
 
+<div>
 <table class="usa-table">
   <thead>
         <tr>
@@ -636,6 +637,7 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
     </tr>
   </tbody>
 </table>
+</div>
 
 
 * * *
