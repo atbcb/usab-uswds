@@ -471,7 +471,6 @@ The Modernizing Government Technology Act delivers a clear mandate to federal ag
 | RECEIPTS FOR PUBLICATIONS AND TRAINING | 50,000 | 50,000 | 50,000 |
 {: .usa-table }
 
-\
 
 * * *
 
@@ -481,13 +480,13 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
 
 
 <table class="usa-table">
-    <thead>
+  <thead>
         <tr>
             <th scope="col"> FY </th>
             <th scope="col"> Cost </th>
             <th scope="col"> Discussion </th>
         </tr>
-        </thead>
+  </thead>
   <tbody>
     <tr>
       <th colspan="2" scope="rowgroup"> PERSONNEL </th>
@@ -508,7 +507,7 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
       <td style="text-align: right;"> $5,724,600  </td>
     </tr>
   </tbody>
-    <tbody>
+  <tbody>
     <tr>
       <th colspan="2" scope="rowgroup"> BOARD MEETINGS / PUBLIC HEARINGS </th>
       <td rowspan="3"><p> This budget line includes all costs related to its board meetings and public hearings, except for salaries. This includes travel expenses, meeting space rental, Communication Access Realtime Translation (CART) and sign language interpreters for all board and other public meetings.  
