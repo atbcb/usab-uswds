@@ -491,13 +491,13 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
   <tbody>
     <tr>
       <th colspan="2" scope="rowgroup"> PERSONNEL </th>
-      <td rowspan="3"><p> The Board anticipates it will use 32 FTE in FY 2023. The Board is planning on 5 days of pay per public Board member (Presidentially appointed) for each of its in-person Board meetings and for one out-of-town meeting. Three of its regular board meetings will be held virtually, and members will receive 3 days of pay for each of those meetings. </p>
+      <td rowspan="3"><p> The Board anticipates it will use 32 FTE in FY 2023. The Board is planning on 5 days of pay per public Board member (Presidentially appointed) for each of its in-person Board meetings and for one out-of-town meeting. Three of its regular board meetings will be held virtually, and members will receive 3 days of pay for each of those meetings.</p>
         <ul>
           <li> In addition, the Board has included funds for salaries for a total of 10 additional days for information meetings where some of its public Board members participate in ad-hoc meetings or represent the agency in other meetings (such as meetings of the Election Assistance Commission).  </li>
         </ul>
-        <p> The Board has calculated benefits (including the transit subsidy) based on its experience with the benefit packages employees have chosen in the past. Benefits for public Board members include only the Social Security and Medicare allotment from the employer.  </p>
-        <p> It currently has four vacant positions, which it plans to fill in FY 2022. Some of these positions have been restructured to create career ladder positions. Therefore, although the Board has incorporated the President’s planned recommendation of a 4.6 percent cost of living increase, its personnel numbers do not reflect that full amount, since some positions will be filled at lower grades than in prior years. </p>
-        <p> Its personnel staff salary line includes an award amount equal to 4 percent of GS salaries. This will allow the Board to provide meaningful recognition for annual performance awards and provide for special act awards where warranted. </p></td>
+        <p>The Board has calculated benefits (including the transit subsidy) based on its experience with the benefit packages employees have chosen in the past. Benefits for public Board members include only the Social Security and Medicare allotment from the employer.</p>
+        <p>It currently has four vacant positions, which it plans to fill in FY 2022. Some of these positions have been restructured to create career ladder positions. Therefore, although the Board has incorporated the President’s planned recommendation of a 4.6 percent cost of living increase, its personnel numbers do not reflect that full amount, since some positions will be filled at lower grades than in prior years.</p>
+        <p> Its personnel staff salary line includes an award amount equal to 4 percent of GS salaries. This will allow the Board to provide meaningful recognition for annual performance awards and provide for special act awards where warranted.</p></td>
     </tr>
     <tr>
       <td scope="row"> FY 2022 </td>
@@ -511,7 +511,7 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
   <tbody>
     <tr>
       <th colspan="2" scope="rowgroup"> BOARD MEETINGS / PUBLIC HEARINGS </th>
-      <td rowspan="3"><p> This budget line includes all costs related to its board meetings and public hearings, except for salaries. This includes travel expenses, meeting space rental, Communication Access Realtime Translation (CART) and sign language interpreters for all board and other public meetings.</p>
+      <td rowspan="3"><p>This budget line includes all costs related to its board meetings and public hearings, except for salaries. This includes travel expenses, meeting space rental, Communication Access Realtime Translation (CART) and sign language interpreters for all board and other public meetings.</p>
           <p>As mentioned in the Personnel line, the Board plans to continue holding 3 of its board meetings virtually. This will result in a cost savings, compared with its FY 2022 budget, which assumed that the board would travel for each of the 6 meetings.</p></td>
     </tr>
     <tr>
@@ -526,22 +526,22 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
   <tbody>
     <tr>
       <th colspan="2" scope="rowgroup"> TRAVEL </th>
-      <td rowspan="3"><p> The Board’s travel budget primarily covers its travel expenses related to attendance at annual trade meetings related to its accessibility-related mission. Examples include the annual CSUN technology exposition and meetings of building code groups of which the Board is a standing member, such as the ANSI A117 committee. Occasionally, the Board conducts site visits related to Architectural Barriers Act complaints. In conjunction with some rulemaking, the Board occasionally establishes special committees, and the travel for those committees would be included on this budget line; however, none is planned for FY 2022.</p>
-          <p>In FY 2022 and years prior, the Board had sought reimbursement for travel related to accessibility training. However, the Board does not do a significant amount of this type of travel, and the administrative costs related to processing the reimbursements proved to be more expensive than the travel costs. Therefore, the Board is suspending its travel reimbursement activity for the foreseeable future. As a result, it is reflecting an increase in its travel costs. </p></td>
+      <td rowspan="3"><p>The Board’s travel budget primarily covers its travel expenses related to attendance at annual trade meetings related to its accessibility-related mission. Examples include the annual CSUN technology exposition and meetings of building code groups of which the Board is a standing member, such as the ANSI A117 committee. Occasionally, the Board conducts site visits related to Architectural Barriers Act complaints. In conjunction with some rulemaking, the Board occasionally establishes special committees, and the travel for those committees would be included on this budget line; however, none is planned for FY 2022.</p>
+            <p>In FY 2022 and years prior, the Board had sought reimbursement for travel related to accessibility training. However, the Board does not do a significant amount of this type of travel, and the administrative costs related to processing the reimbursements proved to be more expensive than the travel costs. Therefore, the Board is suspending its travel reimbursement activity for the foreseeable future. As a result, it is reflecting an increase in its travel costs.</p></td>
     </tr>
     <tr>
       <td scope="row"> FY 2022 </td>
-      <td style="text-align: right;"> $ 20,000 </td>
+      <td style="text-align: right;"> $20,000 </td>
     </tr>
     <tr>
       <td scope="row"> FY 2023 </td>
-      <td style="text-align: right;"> $ 40,000 </td>
+      <td style="text-align: right;"> $40,000 </td>
     </tr>
   </tbody>
   <tbody>
     <tr>
       <th colspan="2" scope="rowgroup"> SPACE MANAGEMENT </th>
-      <td rowspan="3"><p> The Board’s rent is set by the General Services Administration. The Board entered into a new occupancy agreement, effective January 1, 2022. Because GSA had not yet entered into a new lease agreement at the time it estimated the rent for FY 2022, and the cost of a new lease was unknown, GSA’s estimate for that year was high. GSA’s rent estimate for FY 2023 is based on the new lease. The amount on this line also includes other costs related to its space, such as maintenance and security. </p></td>
+      <td rowspan="3"><p> The Board’s rent is set by the General Services Administration. The Board entered into a new occupancy agreement, effective January 1, 2022. Because GSA had not yet entered into a new lease agreement at the time it estimated the rent for FY 2022, and the cost of a new lease was unknown, GSA’s estimate for that year was high. GSA’s rent estimate for FY 2023 is based on the new lease. The amount on this line also includes other costs related to its space, such as maintenance and security.</p></td>
     </tr>
     <tr>
       <td scope="row"> FY 2022 </td>
@@ -555,7 +555,7 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
   <tbody>
     <tr>
       <th colspan="2" scope="rowgroup"> RESEARCH </th>
-      <td rowspan="3"><p> Contracting for research to assist in its guidelines and standards development and to provide technical assistance materials is crucial to the Board’s mission. Funds also are used to conduct required regulatory assessments for its rulemaking. The research funds requested will allow the Board to move forward with its rulemaking agenda, which includes the issuance of new guidelines and updating existing guidelines. </p></td>
+      <td rowspan="3"><p> Contracting for research to assist in its guidelines and standards development and to provide technical assistance materials is crucial to the Board’s mission. Funds also are used to conduct required regulatory assessments for its rulemaking. The research funds requested will allow the Board to move forward with its rulemaking agenda, which includes the issuance of new guidelines and updating existing guidelines.</p></td>
     </tr>
     <tr>
       <td scope="row"> FY 2022 </td>
@@ -569,7 +569,7 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
   <tbody>
     <tr>
       <th colspan="2" scope="rowgroup"> ADMINISTRATIVE SUPPORT SERVICES </th>
-      <td rowspan="3"><p> The Board contracts with the Bureau of the Fiscal Service (BFS) in the Department of the Treasury to provide procurement, financial, payroll, and personnel services. Approximately $763,000 of its costs are for services the Board receives from BFS. The cost for administrative support services from other federal agencies has increased significantly in the past two fiscal years. Additional costs are for support of its webinars, through which most of its training is conducted. The Board also has contracted for records management consulting services, and have another contract for GovDelivery, which supports its public outreach initiative.  </p></td>
+      <td rowspan="3"><p>The Board contracts with the Bureau of the Fiscal Service (BFS) in the Department of the Treasury to provide procurement, financial, payroll, and personnel services. Approximately $763,000 of its costs are for services the Board receives from BFS. The cost for administrative support services from other federal agencies has increased significantly in the past two fiscal years. Additional costs are for support of its webinars, through which most of its training is conducted. The Board also has contracted for records management consulting services, and have another contract for GovDelivery, which supports its public outreach initiative.</p></td>
     </tr>
     <tr>
       <td scope="row"> FY 2022 </td>
@@ -583,7 +583,7 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
   <tbody>
     <tr>
       <th colspan="2" scope="rowgroup"> INFORMATION TECHNOLOGY SUPPORT SERVICESs </th>
-      <td rowspan="3"><p> This is the yearly cost of the Board’s telephone and desktop computing needs including desktop and laptop computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service). A large portion of its IT budget goes toward the provision of network security and operational integrity of the Board’s network. This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, “Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.” These expenditures will help the Board meet the Federal Information Security Management Act and provide certification of the Board’s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service’s HR Connect System for personnel services). Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program. </p></td>
+      <td rowspan="3"><p> This is the yearly cost of the Board’s telephone and desktop computing needs including desktop and laptop computers, assistive technology, local area network servers, software, printers, and maintenance and support services (including website hosting and internet service). A large portion of its IT budget goes toward the provision of network security and operational integrity of the Board’s network. This includes a network certification and Authority to Operate, Trusted Internet Connection, and use of the Einstein system to comply with OMB Memorandum M-17-25, “Reporting Guidance for Executive Order on Strengthening the Cybersecurity of Federal Networks and Critical Infrastructure.” These expenditures will help the Board meet the Federal Information Security Management Act and provide certification of the Board’s network, required to access other agency networks (e.g., the Bureau of the Fiscal Service’s HR Connect System for personnel services). Funds also will be used to provide annual security network maintenance for the Continuous Diagnostics and Mitigation Cybersecurity program.</p></td>
     </tr>
     <tr>
       <td scope="row"> FY 2022 </td>
@@ -597,7 +597,7 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
   <tbody>
     <tr>
       <th colspan="2" scope="rowgroup"> PRINTING </th>
-      <td rowspan="3"><p> Publishing proposed and final rules in the Federal Register is a relatively high cost for the Board. Printing in the Federal Register costs $453 per page. Other items in this category include printing its final rules in the Code of Federal Regulations and miscellaneous printing requirements. </p></td>
+      <td rowspan="3"><p> Publishing proposed and final rules in the Federal Register is a relatively high cost for the Board. Printing in the Federal Register costs $453 per page. Other items in this category include printing its final rules in the Code of Federal Regulations and miscellaneous printing requirements.</p></td>
     </tr>
     <tr>
       <td scope="row"> FY 2022 </td>
@@ -611,7 +611,7 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
   <tbody>
     <tr>
       <th colspan="2" scope="rowgroup"> MISCELLANEOUS OPERATING EXPENSES </th>
-      <td rowspan="3"><p> Expenditures in this category include postage, overnight shipping, and in-town delivery service. The Board contracts with the Interior Business Center in the Department of the Interior to provide services for the mandatory drug testing program. Other expenditures are for a reader to provide audio tapes as alternate format publications and miscellaneous operating expenses not reflected elsewhere. Its yearly financial audit is included along with book purchases for its library collection of accessible design materials, staff training, office supplies, and equipment purchases. </p></td>
+      <td rowspan="3"><p>Expenditures in this category include postage, overnight shipping, and in-town delivery service. The Board contracts with the Interior Business Center in the Department of the Interior to provide services for the mandatory drug testing program. Other expenditures are for a reader to provide audio tapes as alternate format publications and miscellaneous operating expenses not reflected elsewhere. Its yearly financial audit is included along with book purchases for its library collection of accessible design materials, staff training, office supplies, and equipment purchases.</p></td>
     </tr>
     <tr>
       <td scope="row"> FY 2022 </td>
@@ -625,7 +625,7 @@ The Board is requesting a total budget authority in FY 2023 of $9,850,000. Pub. 
   <tbody>
     <tr>
       <th colspan="2" scope="rowgroup"> RECEIPTS FOR PUBLICATIONS AND TRAINING </th>
-      <td rowspan="3"><p> We expect to receive approximately $50,000 in FY 2022 in reimbursements for travel associated with accessibility training, as authorized under 29 USC 792. </p></td>
+      <td rowspan="3"><p>We expect to receive approximately $50,000 in FY 2022 in reimbursements for travel associated with accessibility training, as authorized under 29 USC 792.</p></td>
     </tr>
     <tr>
       <td scope="row"> FY 2021 </td>
