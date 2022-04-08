@@ -22,7 +22,7 @@ Section 203(a) of the No FEAR Act and OPM's implementing regulations (5 CFR Part
 
 Section 301 of the No FEAR Act and EEOC's implementing regulations (29 CFR Part 1614) require each federal agency to post summary statistical data about complaints of employment discrimination filed employees, former employees, and job applicants.  The Access Board's summary data for the current fiscal year (FY), as well as prior fiscal years, is as follows:
 
-### I. Complaint Activity (FY 2017 to FY 2021)
+### I. Complaint Activity
 
 |  |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     
 |     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |    
@@ -30,7 +30,7 @@ Section 301 of the No FEAR Act and EEOC's implementing regulations (29 CFR Part 
 | Number of Complainants |     0     |     1     |     0     |     0     |     0     |    
 | Repeat Filers |     0     |     0     |     0     |     0     |     0     |     0     |
 
-### II. Complaints by Basis (FY 2017 to FY 2021)
+### II. Complaints by Basis
 
 |  |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     
 |     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |    
@@ -46,7 +46,7 @@ Section 301 of the No FEAR Act and EEOC's implementing regulations (29 CFR Part 
 | Genetic Information |     0     |     0     |     0     |     0     |     0     |    
 | Non-EEO Basis |     0     |     0     |     0     |     0     |     0     |    
 
-### III. Complaints by Issue (FY 2017 to FY 2021)
+### III. Complaints by Issue
 
 |  |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     
 |     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |    
@@ -323,7 +323,7 @@ Section 301 of the No FEAR Act and EEOC's implementing regulations (29 CFR Part 
 
 |  |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     
 |     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |    
-| Pending Completion Where Investigation Exceeds Required Time Frames  |     0     |     0     |     0     |     0     |     0     |   
+| Pending Completion Where Investigation Exceeds Required Time Frames  |     0     |     0     |     1     |     0     |     0     |   
 
 
 
