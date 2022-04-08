@@ -14,27 +14,88 @@ The "Notification and Federal Employee Antidiscrimination and Retaliation Act of
 
 For more detailed information on the No Fear Act, please read the Access Board's [No Fear Act Notice]({{ site.baseurl }}/about/policy/no-fear-notice.html).
 
-## Summary EEO Data
+## No Fear Act Data FY2021
 
 Section 301 of the No FEAR Act and EEOC's implementing regulations (29 CFR Part 1614) require each federal agency to post summary statistical data about complaints of employment discrimination filed employees, former employees, and job applicants.  The Access Board's summary data for the current fiscal year (FY), as well as prior fiscal years, is as follows:
 
-| EEO Complaint Activity |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     FY22 Q1 (thru 10/15/2021)     |
-|     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     | 
-| Number of Complaints Filed |     0     |     1     |     0     |     0     |     0     |     0     | 
-| Number of Complainants |     0     |     1     |     0     |     0     |     0     |     0     |
+### I. Complaint Activity (FY 2017 to FY 2021)
+
+|  |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     
+|     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |    
+| Number of Complaints Filed |     0     |     1     |     0     |     0     |     0     |   
+| Number of Complainants |     0     |     1     |     0     |     0     |     0     |    
 | Repeat Filers |     0     |     0     |     0     |     0     |     0     |     0     |
 
-| EEO Complaint Activity |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     FY22 Q1 (thru 10/15/2021)     |
-|     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     | 
-| Number of Complaints Filed |     0     |     1     |     0     |     0     |     0     |     0     | 
-| Number of Complainants |     0     |     1     |     0     |     0     |     0     |     0     |
-| Repeat Filers |     0     |     0     |     0     |     0     |     0     |     0     |
+### II. Complaints by Basis (FY 2017 to FY 2021)
 
-| EEO Complaint Activity |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     FY22 Q1 (thru 10/15/2021)     |
-|     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     | 
-| Number of Complaints Filed |     0     |     1     |     0     |     0     |     0     |     0     | 
-| Number of Complainants |     0     |     1     |     0     |     0     |     0     |     0     |
-| Repeat Filers |     0     |     0     |     0     |     0     |     0     |     0     |
+|  |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     
+|     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |    
+| Race |     0     |     1     |     0     |     0     |     0     |     
+| Color |     0     |     0     |     0     |     0     |     0     |     
+| Religion |     0     |     0     |     0     |     0     |     0     |  
+| Reprisal |     0     |     1     |     0     |     0     |     0     |    
+| Sex |     0     |     1     |     0     |     0     |     0     |    
+| National Origin |     0     |     1     |     0     |     0     |     0     |    
+| Equal Pay Act |     0     |     0     |     0     |     0     |     0     |    
+| Age |     0     |     0     |     0     |     0     |     0     |     
+| Disability |     0     |     1     |     0     |     0     |     0     |    
+| Genetic Information |     0     |     0     |     0     |     0     |     0     |    
+| Non-EEO Basis |     0     |     0     |     0     |     0     |     0     |    
+
+### III. Complaints by Issue (FY 2017 to FY 2021)
+
+|  |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     
+|     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |    
+| Appointmen/Hire |     0     |     0     |     0     |     0     |     0     |     
+| Assignment of Duties |     0     |     0     |     0     |     0     |     0     |     
+| Awards |     0     |     0     |     0     |     0     |     0     |  
+| Conversion to Full-Time |     0     |     0     |     0     |     0     |     0     |    
+| Disciplinary Action |     0     |     1     |     0     |     0     |     0     |    
+| Demotion |     0     |     0     |     0     |     0     |     0     |    
+| Reprimand |     0     |     0     |     0     |     0     |     0     |    
+| Removal |     0     |     0     |     0     |     0     |     0     |     
+| Suspension |     0     |     1     |     0     |     0     |     0     |    
+| Other |     0     |     0     |     0     |     0     |     0     |    
+| Duty Hours |     0     |     0     |     0     |     0     |     0     |  
+| Evaluation/Appraisal |     0     |     0     |     0     |     0     |     0     |     
+| Examination/Test |     0     |     0     |     0     |     0     |     0     |     
+| Harassment |     0     |     1     |     0     |     0     |     0     |  
+| Non-Sexual |     0     |     0     |     0     |     0     |     0     |    
+| Sexual |     0     |     0     |     0     |     0     |     0     |    
+| Medical Examination |     0     |     0     |     0     |     0     |     0     |    
+| Pay (Including Overtime) |     0     |     0     |     0     |     0     |     0     |    
+| Promotion / Non-Selection |     0     |     1     |     0     |     0     |     0     |     
+| Reassignment |     0     |     0     |     0     |     0     |     0     |    
+| Denied |     0     |     0     |     0     |     0     |     0     |    
+| Directed |     0     |     0     |     0     |     0     |     0     |  
+| Reasonable Accommodation |     0     |     0     |     0     |     0     |     0     |     
+| Reinstatement |     0     |     0     |     0     |     0     |     0     |     
+| Retirement |     0     |     0     |     0     |     0     |     0     |  
+| Termination |     0     |     0     |     0     |     0     |     0     |    
+| Terms/Conditions of Employment |     0     |     0     |     0     |     0     |     0     |    
+| Time and Attendance |     0     |     0     |     0     |     0     |     0     |    
+| Training |     0     |     0     |     0     |     0     |     0     |    
+| Other |     0     |     0     |     0     |     0     |     0     |     
+
+### IV. Processing Time
+
+|  |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     
+|     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |    
+| Complaints Pending (for any length of time) During Fiscal Year |     0     |     1     |     1     |     0     |     0     |   
+| Average Number of Days in Investigation Stage |     0     |     14     |     308     |     0     |     0     |    
+| Complaints Pending (for any length of time) During Fiscal Year where Hearing was Requested |     0     |     1     |     1     |     0     |     0     |   
+| Average Number of Days in Investigation Stage |     0     |     14     |     308     |     0     |     0     |    
+| Average Number of Days in Final Action Stage |     0     |     0     |     0     |     0     |     0     |    
+| Complaints Pending (for any length of time) During Fiscal Year where Hearing was Not Requested |     0     |     0     |     0     |     0     |     0     |
+| Average Number of Days in Final Action Stage |     0     |     0     |    0     |     0     |     0     |    
+
+### V. Complaints Dismissed by Agency
+
+|  |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     
+|     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |    
+| Total Complaints Dismissed by Agency  |     0     |     1     |     1     |     0     |     0     |   
+| Average Number of Days in Investigation Stage |     0     |     14     |     308     |     0     |     0     |    
+| Complaints Pending (for any length of time) During Fiscal Year where Hearing was Requested |     0     |     1     |     1     |     0     |     0     |
 
 | EEO Complaint Activity |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     FY22 Q1 (thru 10/15/2021)     |
 |     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     | 
