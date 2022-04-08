@@ -24,6 +24,23 @@ Section 301 of the No FEAR Act and EEOC's implementing regulations (29 CFR Part 
 | Number of Complainants |     0     |     1     |     0     |     0     |     0     |     0     |
 | Repeat Filers |     0     |     0     |     0     |     0     |     0     |     0     |
 
+| EEO Complaint Activity |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     FY22 Q1 (thru 10/15/2021)     |
+|     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     | 
+| Number of Complaints Filed |     0     |     1     |     0     |     0     |     0     |     0     | 
+| Number of Complainants |     0     |     1     |     0     |     0     |     0     |     0     |
+| Repeat Filers |     0     |     0     |     0     |     0     |     0     |     0     |
+
+| EEO Complaint Activity |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     FY22 Q1 (thru 10/15/2021)     |
+|     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     | 
+| Number of Complaints Filed |     0     |     1     |     0     |     0     |     0     |     0     | 
+| Number of Complainants |     0     |     1     |     0     |     0     |     0     |     0     |
+| Repeat Filers |     0     |     0     |     0     |     0     |     0     |     0     |
+
+| EEO Complaint Activity |     FY17     |    FY18     |     FY19     |     FY20     |     FY21     |     FY22 Q1 (thru 10/15/2021)     |
+|     :---     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     |     :---:     | 
+| Number of Complaints Filed |     0     |     1     |     0     |     0     |     0     |     0     | 
+| Number of Complainants |     0     |     1     |     0     |     0     |     0     |     0     |
+| Repeat Filers |     0     |     0     |     0     |     0     |     0     |     0     |
 ## No FEAR Act Annual Report
 
 Section 203(a) of the No FEAR Act and OPM's implementing regulations (5 CFR Part 724) also require federal agencies to submit annual reports to specified members of Congress and other federal entities: the Access Board's [annual report]({{ site.baseurl }}/about/no-fear-report.html) for the past fiscal year.
