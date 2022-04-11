@@ -1,7 +1,7 @@
 ---
+banner-title: Public Events
 title: Public Events
 layout: page-right-sidenav
-right-sidenav: sidenav-research.html
 permalink: /events/
 ---
 
