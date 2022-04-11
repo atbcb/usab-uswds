@@ -43,7 +43,7 @@ U.S. Access Board staff have been working hard toward achieving the goals of Exe
 ---
 
 ### Equity Action Plan
-*Action 1. Undertake an outreach campaign to provide information on services and programs to underserved communities with high rates of disability and professionals serving those communities.*
+**Action 1. Undertake an outreach campaign to provide information on services and programs to underserved communities with high rates of disability and professionals serving those communities.**
 
 *Barrier* \
 As a small, independent agency, the U.S. Access Board is relatively unknown to many individuals and communities that could benefit from its services, which include free technical assistance and training on accessible design and compliance with federal accessibility standards. This lack of public awareness about the Board’s existence, mission, services, and programs may stem from the agency’s limited outreach efforts. 
@@ -81,7 +81,7 @@ The Board will hold itself accountable for this action with the following mechan
 > * External mechanism: Development of new surveys aimed at capturing satisfaction with the Board’s technical assistance services and how successful those services are in reaching underserved communities.
 > * External mechanism: A Progress Report delivered at least annually at a public Board Meeting.
 
-*Action 2. Establish and strengthen relationships with federal agencies that own or lease federal facilities where in-person services are provided to underserved communities with high rates of disability.*
+**Action 2. Establish and strengthen relationships with federal agencies that own or lease federal facilities where in-person services are provided to underserved communities with high rates of disability.**
 
 *Barrier* \
 The Board is responsible for ensuring that federal facilities and federally-leased facilities are accessible to persons with disabilities as required by the Architectural Barriers Act of 1968 (ABA). To execute that mandate, Board staff initiate investigations based on complaints from the public alleging potential ABA violations. Since the Board lacks resources to carry out on-site inspections at every facility about which a complaint is filed, its primary means for establishing ABA jurisdiction, evaluating complaint allegations, and identifying and remediating accessibility barriers is the cooperation of the relevant agency. When the Board informs agencies about ABA complaints that are filed concerning their buildings and facilities, agencies provide detailed information about the construction, alteration, or lease of those facilities, along with requested site plans, architectural drawings, photographs, and any other relevant documentation. This sort of cooperation has allowed the Board to resolve nearly all ABA complaints in an informal fashion, without having to issue formal citations against other agencies thereby initiating a formal administrative adjudication process.
@@ -105,7 +105,7 @@ The Board will hold itself accountable for this action with the following mechan
 >	* External mechanism: Alignment with the agency’s Strategic Plan for FY 2022-2026.
 > * External mechanism: A Progress Report delivered at least annually at a public Board Meeting.
 
-*Action 3. Work with federal agencies to establish formal ABA compliance strategies aimed at proactively ensuring the accessibility of buildings and facilities in underserved communities through accessibility assessments and the remediation of architectural barriers.*
+**Action 3. Work with federal agencies to establish formal ABA compliance strategies aimed at proactively ensuring the accessibility of buildings and facilities in underserved communities through accessibility assessments and the remediation of architectural barriers.**
 
 *Barrier* \
 Since its inception, the Board’s ABA enforcement program has been a reactive one, where investigations of the accessibility of ABA-covered facilities are only initiated in response to the receipt of complaints submitted by the public. In its 47-year history, the Board has received just under 8000 ABA complaints, an average of less than 200 complaints annually. Compared to the tens of thousands of ABA-covered facilities nationwide, the number of complaint filings is miniscule. As discussed in Action 2 of this Action Plan, Board staff suspect that this disparity is due to a lack of public awareness of the ABA and the Board’s corresponding enforcement program, resulting in, presumably, the lack of reporting of accessibility barriers encountered at ABA-covered facilities. We expect that the outreach activities discussed in Action 1 will yield greater awareness of the Access Board and result in an increase in the number of ABA complaint filings.
