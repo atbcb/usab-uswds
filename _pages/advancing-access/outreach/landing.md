@@ -2,7 +2,7 @@
 banner-title: Outreach
 title: Outreach
 layout: page-right-sidenav
-permalink: /outreach/
+permalink: /outreach.html
 ---
 
 ### Town Halls
