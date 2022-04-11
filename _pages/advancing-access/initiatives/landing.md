@@ -4,8 +4,7 @@ title: Initiatives
 layout: page-right-sidenav
 permalink: /initiatives/
 ---
-
-[Description of the intiatives]
+Description of the intiatives
 
 * Self-service Transaction Machines
 * Autonomous Vehicles
