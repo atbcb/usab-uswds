@@ -1,7 +1,6 @@
 ---
 title: Diversity, Equity, Inclusion, and Accessibility
 layout: page-right-sidenav
-right-sidenav: sidenav-research.html
 permalink: /deia/
 ---
 
