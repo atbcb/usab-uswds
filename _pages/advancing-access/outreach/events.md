@@ -6,7 +6,25 @@ permalink: /events/
 ---
 
 ## Upcoming Events
-The Access Board host an in-person town hall meeting on September 14, 2022 in Philadelphia, PA at Gustine Recreation Center.
+> ***Town Hall***
+> September 14, 2022, 1:00 – 2:15 p.m. (ET) \
+> Gustine Recreation Center \
+> 4868 Ridge Ave \
+> Philadelphia, PA 19129 \
+
+> ***Meeting of the U.S. Access Board*** \
+> May 11, 2022, 1:00 – 2:15 p.m. (ET) \
+> Meeting link: [www.zoomgov.com/j/1618590214](https://www.zoomgov.com/j/1618590214?pwd=YkxIdHBwWFVJb1doeE1Tam82ejlmQT09  ) \
+> Meeting ID: 161 859 0214 \
+> Dial in: (646) 828-7666 \
+> Contact: <events@access-board.gov> 
+
+>> _Agenda_ 
+>> * Introductory Remarks 
+>> * Executive Director’s Report 
+>> * Standing Committee Reports 
+>> * Ad Hoc Committee Reports 
+>> * New Business
 
 ## Access Board Meetings
 
