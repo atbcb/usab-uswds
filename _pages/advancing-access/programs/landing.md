@@ -1,7 +1,7 @@
 ---
 banner-title: Access Board Programs
 title: Programs
-layout: page-right-sidenav
+layout: page
 permalink: /programs/
 ---
 
@@ -15,7 +15,7 @@ The Access Board provides training on its accessibility guidelines and standards
 The Access Board, in cooperation with the National Network of ADA Centers, offers a free monthly webinar series on the Board’s guidelines and standards and other aspects of accessible design.  Sessions also provide an opportunity to earn continuing education credits (CEUs). Visit the Board's [Webinars page](https://www.access-board.gov/webinars/) for upcoming webinars.
 
 ### Rulemaking
-[rulemaking]({{ site.baseurl }}/rulemaking/)
+Under the Americans with Disabilities Act (ADA) and several other laws, the Access Board develops guidelines and standards for the built environment, transportation systems, information and communication technologies, and medical diagnostic equipment through its [rulemaking]({{ site.baseurl }}/rulemaking/).
 
 ### Research
 The Board’s research program is focused on the study of accessibility relating to architecture and design, communication, and transportation. Visit the Board's [Research page](https://www.access-board.gov/research/) for more information and access to completed research.
