@@ -10,6 +10,6 @@ permalink: /outreach/
 ### DEIA
 
 ### Underserved Communities
-* EO 13985 Equity Action Plan
+* [Equity Action Plan]({{ site.baseurl }}/equity/)
 
 ### Tribal Nations
