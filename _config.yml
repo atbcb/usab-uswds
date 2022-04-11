@@ -73,6 +73,14 @@ primary_navigation:
     url: /about/
   - name: News
     url: /news/
+  - name: Advancing Access
+    children:
+      - name: Initiatives
+        url: /initiatives/
+      - name: Outreach
+        url: /outreach/
+      - name: Programs
+        url: /programs/
   - name: Guidelines & Standards
     url: /gs/
     children:
@@ -96,14 +104,6 @@ primary_navigation:
     url: /webinars/
   - name: File an ABA Complaint
     url: /enforcement/
-  - name: Advancing Access
-    children:
-      - name: Initiatives
-        url: /initiatives/
-      - name: Outreach
-        url: /outreach/
-      - name: Programs
-        url: /programs/
   - name: Contact Us
     url: /contact/
 
