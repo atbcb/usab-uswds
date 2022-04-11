@@ -1,7 +1,7 @@
 ---
 title: Rulemaking Process
-layout: page-right-sidenav
-right-sidenav: sidenav-research.html
+layout: page
+sidenav: false
 permalink: /rulemaking-process/
 ---
 
