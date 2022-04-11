@@ -6,15 +6,15 @@ permalink: /events/
 ---
 
 ## Upcoming Events
-> ***Town Hall***
-> September 14, 2022, 1:00 – 2:15 p.m. (ET) \
-> Gustine Recreation Center \
-> 4868 Ridge Ave \
-> Philadelphia, PA 19129 \
+> ***Town Hall***\
+> September 14, 2022, 1:00 – 2:15 p.m. (ET)\
+> Gustine Recreation Center\
+> 4868 Ridge Ave\
+> Philadelphia, PA 19129\
 
-> ***Public Meeting on Low Transfer Height for MDE Transfer Surfaces*** \ 
-> May 12, 2022, 2:00 – 4:00 p.m. (ET)  \ 
-> Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/webinar/register/WN_GFoTS44-R7qWdh6GF0xLPg)  \ 
+> ***Public Meeting on Low Transfer Height for MDE Transfer Surfaces***\ 
+> May 12, 2022, 2:00 – 4:00 p.m. (ET)\ 
+> Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/webinar/register/WN_GFoTS44-R7qWdh6GF0xLPg)\ 
 > Contact: Bobby Stinnette of the Board at [stinnette@access-board.gov](mailto:stinnette@access-board.gov) or 1-202-272-0021 
 
 > ***Meeting of the U.S. Access Board*** \
