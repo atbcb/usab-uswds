@@ -5,10 +5,9 @@ layout: page-right-sidenav
 permalink: /equity/
 ---
 
-## U.S. Access Board Equity Action Plan \
-
 <button class="usa-button" title="Equity Action Plan in PDF format" style="float:right;margin-top:-3em"><a href="{{ site.baseurl }}/files/usab-equity-action-plan.pdf">PDF</a></button>
 
+## U.S. Access Board Equity Action Plan \
 
 Prepared Pursuant to Executive Order 13985 \
 Submitted to the Office of Management and Budget \
