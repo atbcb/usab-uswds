@@ -9,8 +9,8 @@ permalink: /equity/
 
 ## U.S. Access Board Equity Action Plan
 
-Prepared Pursuant to Executive Order 13985 
-Submitted to the Office of Management and Budget
+Prepared Pursuant to Executive Order 13985 \
+Submitted to the Office of Management and Budget \
 January 20, 2022
 
 ### Executive Summary
