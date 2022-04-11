@@ -14,8 +14,8 @@ permalink: /rulemaking/
 
 [Link to Unified Agenda on OMB site](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014&csrf_token=4477D73C38800DD64CF55ADB1768D8D45A731BE31E15AB2A267391786B5743BB6B29078DCC57BFFFD1D816392F7FE84DBA51)
 
-[Rulemaking process]
+[Rulemaking Process]({{ site.baseurl }}/_pages/advancing-access/programs/rulemaking/)
 
-[Rulemaking History] 
+[Rulemaking History]({{ site.baseurl }}/_pages/advancing-access/programs/history/) 
 
 
