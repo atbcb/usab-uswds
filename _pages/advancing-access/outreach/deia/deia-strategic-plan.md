@@ -1,7 +1,6 @@
 ---
 title: DEIA Strategic Plan
 layout: page-right-sidenav
-right-sidenav: sidenav-research.html
 permalink: /deia-strategic-plan/
 ---
 
