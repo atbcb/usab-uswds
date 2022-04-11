@@ -1,7 +1,6 @@
 ---
 title: Outreach to Tribal Nations
 layout: page-right-sidenav
-right-sidenav: sidenav-research.html
 permalink: /tribal-nations/
 ---
 
