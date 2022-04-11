@@ -5,6 +5,6 @@ right-sidenav: sidenav-research.html
 permalink: /deia/
 ---
 
-[DEIA Recommendations and Resources](
+[DEIA Recommendations and Resources]({{ site.baseurl }}/deia-recommendations/)
 
 Agency DEIA strategic plan 
