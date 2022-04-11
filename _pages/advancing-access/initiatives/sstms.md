@@ -1,7 +1,6 @@
 ---
 title: Self-service Transaction Machines
 layout: page-right-sidenav
-right-sidenav: sidenav-research.html
 permalink: /sstms/
 --- 
 
