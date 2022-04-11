@@ -6,7 +6,7 @@ permalink: /initiatives/
 ---
 Description of the intiatives
 
-* Self-service Transaction Machines
-* Autonomous Vehicles
+* [Self-service Transaction Machines]({{ site.baseurl }}/sstms/)
+* [Autonomous Vehicles]({{ site.baseurl }}/av/)
 * Electric Vehicle Charging Stations
-* Air Travel
+* [Air Travel]({{ site.baseurl }}/aircraft/)
