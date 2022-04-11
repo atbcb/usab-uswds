@@ -1,8 +1,8 @@
 ---
-title: Town Hall
+title: Public Events
 layout: page-right-sidenav
 right-sidenav: sidenav-research.html
-permalink: /town-hall/
+permalink: /events/
 ---
 
 ## Upcoming Events
