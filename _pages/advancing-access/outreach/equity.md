@@ -102,7 +102,7 @@ For new agency relationships, the Board will track agency responses, formal invi
 *Accountability* \
 The Board will hold itself accountable for this action with the following mechanisms: 
 > * Internal mechanism: A Progress Report delivered annually at a closed Board Meeting session.
->	* External mechanism: Alignment with the agency’s Strategic Plan for FY 2022-2026.
+> * External mechanism: Alignment with the agency’s Strategic Plan for FY 2022-2026.
 > * External mechanism: A Progress Report delivered at least annually at a public Board Meeting.
 
 **Action 3. Work with federal agencies to establish formal ABA compliance strategies aimed at proactively ensuring the accessibility of buildings and facilities in underserved communities through accessibility assessments and the remediation of architectural barriers.**
