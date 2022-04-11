@@ -1,10 +1,9 @@
 ---
-banner-title: Initiatives
+banner-title: Access Board Initiatives
 title: Initiatives
 layout: page-right-sidenav
 permalink: /initiatives/
 ---
-Description of the intiatives
 
 * [Self-service Transaction Machines]({{ site.baseurl }}/sstms/)
 * [Autonomous Vehicles]({{ site.baseurl }}/av/)
