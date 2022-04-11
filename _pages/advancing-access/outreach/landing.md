@@ -5,8 +5,8 @@ layout: page-right-sidenav
 permalink: /outreach/
 ---
 
-### Town Halls
-The Board hosts town halls and public events to acquire feedback from the public on accessibility, . . .
+### Public Events
+The Board hosts various public events, including hearings, briefings, town halls, information sessions, and presentations, to inform the public on accessible design and acquire feedback from the public on accessibility.
 
 ### DEIA
 Executive Order 14035: Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce 
