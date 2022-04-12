@@ -81,6 +81,8 @@ primary_navigation:
         url: /outreach/
       - name: Programs
         url: /programs/
+      - name: Research
+        url: /research/
   - name: Guidelines & Standards
     url: /gs/
     children:
