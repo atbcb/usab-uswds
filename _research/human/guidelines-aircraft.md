@@ -77,8 +77,7 @@ Technical assistance with respect to this and related subjects is available by w
 
 * * * * *
 
-CONTENTS
---------
+## CONTENTS
 
 ### [INTRODUCTION](https://www.access-board.gov/research/completed-research/guidelines-for-aircraft-boarding-chairs#intro)
 
@@ -125,8 +124,7 @@ CONTENTS
 
 * * * * *
 
-INTRODUCTION
-------------
+## INTRODUCTION
 
 ### I.  THE PURPOSE OF THE TECHNICAL PAPER
 
@@ -205,8 +203,7 @@ Figure II-1.  Sample of Existing Boarding Chairs
 
 * * * * *
 
-TECHNICAL PROVISIONS
---------------------
+## TECHNICAL PROVISIONS
 
 ### Part 1.  Definition of Key Terms
 
