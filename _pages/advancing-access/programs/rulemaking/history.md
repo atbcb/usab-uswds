@@ -27,7 +27,7 @@ Final guidelines and standards issued by the Board include:
 * January 18, 2017 – Updated Section 508 Standards and Section 255 Guidelines for Information and Communication Technology
 
 ### Advisory and Regulatory Negotiation Committees
-In the course of its rulemaking activities, the Board has organized these advisory or regulatory negotiation committees:
+In the course of its rulemaking activities, the Board has organized these advisory or regulatory negotiation committees: 
 
 * Recreation Access Advisory Committee (1993 - 1994)
 * ADAAG Review Advisory Committee (1994 - 1996)
