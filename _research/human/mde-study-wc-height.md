@@ -2,7 +2,7 @@
 title: Final Report
 order-number: 0
 toc-group: MDE Study
-banner-title: MDE Wheelchair Seat Height Study
+banner-title: MDE Study
 status: completed
 year-completed: 2022
 topic: Medical Device Equipment
@@ -87,7 +87,7 @@ Statistical analysis was conducted using the statistical programming language _R
 | 18-64 | Women	16.1 | 5.5 | 21.6 |
 | 65+ | Men | 16.3 |3.5	19.8 |
 | 65+ | Women |33.6 |4.5 |38.1 |
-| | | 81.1 (total %) | 18.8 (total %) 100.0 |
+| | | 81.1 (total %) | 18.8 (total %)| 100.0 |
 {: .usa-table }
 
 #### 1D: 1B with a 20% increase in Powered wheelchair prevalence
@@ -113,14 +113,83 @@ Summary statistics on the original (unweighted) data for occupied seat height ar
 
 **Table 2:** Summary statistics for occupied seat height (inches) computed on the original unweighted AWM sample for eight subgroups, i.e., stratified by wheelchair type (manual vs. powered), gender (women vs. men) and age category (younger vs. older).
 
-Group	Manual Wheelchair Users 	Powered Wheelchair Users
-	N	Mean (SD)	Median (IQR)	Min – Max	N	Mean 
-(SD)	Median (IQR)	Min – Max
-Women-Young	62	19.1 (1.5)	19.0 (2.0)	16.3 – 22.9	58	20.6 (2.0)	20.5 (2.7)	16.2 – 28.3
-Women-Older	68	19.1 (1.4)	19.0 (2.2)	16.7 – 22.6	31	20.5 (1.2)	20.6 (1.5)	18.3 – 22.6
-Men-Younger	107	20.2 (1.5)	20.4 (1.9)	16.6 – 23.9	78	21.9 (2.0)	21.8 (2.3)	17.4 – 28.9
-Men-Older	40	19.1 (1.4)	18.9 (1.9)	16.6 – 22.8	22	21.3 (2.0)	21.3 (2.4)	16.2 – 25.2
-Combined	277	19.5 (1.5)	19.4 (2.3)	16.3 – 23.9	189	21.2 (2.0)	21.2 (2.5)	16.2 – 28.9
+<table id="table2" class="usa-table">
+  <thead>
+    <tr>
+      <td>&nbsp;</td>
+      <th colspan="4" scope="colgroup">Manual Wheelchair Users</th>
+      <th colspan="4" scope="colgroup">Powered Wheelchair Users</th>
+    </tr>
+    <tr>
+      <th scope="col">Group</th>
+      <th scope="col">N</th>
+      <th scope="col">Mean (SD)</th>
+      <th scope="col">Median (IQR)</th>
+      <th scope="col">Min – Max</th>
+      <th scope="col">N</th>
+      <th scope="col">Mean (SD)</th>
+      <th scope="col">Median (IQR)</th>
+      <th scope="col">Min – Max</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <th scope="col">Women-Young</th>
+      <td>62</td>
+      <td>19.1 (1.5)</td>
+      <td>19.0 (2.0)</td>
+      <td>16.3 – 22.9</td>
+      <td>58</td>
+      <td>20.6 (2.0)</td>
+      <td>20.5 (2.7)</td>
+      <td>16.2 – 28.3</td>
+    </tr>
+    <tr>
+      <th scope="col">Women-Older</th>
+      <td>68</td>
+      <td>19.1 (1.4)</td>
+      <td>19.0 (2.2)</td>
+      <td>16.7 – 22.6</td>
+      <td>31</td>
+      <td>20.5 (1.2)</td>
+      <td>20.6 (1.5)</td>
+      <td>18.3 – 22.6</td>
+    </tr>
+    <tr>
+      <th scope="col">Men-Younger</th>
+      <td>107</td>
+      <td>20.2 (1.5)</td>
+      <td>20.4 (1.9)</td>
+      <td>16.6 – 23.9</td>
+      <td>78</td>
+      <td>21.9 (2.0)</td>
+      <td>21.8 (2.3)</td>
+      <td>17.4 – 28.9</td>
+    </tr>
+    <tr>
+      <th scope="col">Men-Older</th>
+      <td>40</td>
+      <td>19.1 (1.4)</td>
+      <td>18.9 (1.9)</td>
+      <td>16.6 – 22.8</td>
+      <td>22</td>
+      <td>21.3 (2.0)</td>
+      <td>21.3 (2.4)</td>
+      <td>16.2 – 25.2</td>
+    </tr>
+    <tr>
+      <th scope="col">Combined</th>
+      <td>277</td>
+      <td>19.5 (1.5)</td>
+      <td>19.4 (2.3)</td>
+      <td>16.3 – 23.9</td>
+      <td>189</td>
+      <td>21.2 (2.0)</td>
+      <td>21.2 (2.5)</td>
+      <td>16.2 – 28.9</td>
+    </tr>
+  </tbody>
+</table>
 
 #### 2.	Resampled Data Percentiles by Seat Height
 
