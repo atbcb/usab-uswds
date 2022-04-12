@@ -16,7 +16,7 @@ Under the Americans with Disabilities Act (ADA) and several other laws, the Acce
 * Medical Diagnostic Equipment Accessibility Standards
 
 ### How the Board Develops Guidelines and Standards
-In developing its guidelines and standards, the Board follows a process common to most federal regulations that provides the public an opportunity for comment. It has become standard practice for the Board to organize an advisory committee or regulatory negotiation committee as part of this process. Such committees allow stakeholders and interested parties to develop consensus recommendations on the substance of a rule. Board rules must be cleared by the Office of Management and Budget (OMB) in proposed and final form before they can be published. OMB usually is allotted 90 days to complete its review. The Board also must prepare a regulatory assessment that estimates the costs and other impacts of a rule.
+In developing its guidelines and standards, the Board follows a process common to most federal regulations that provides the public an opportunity for comment. It has become standard practice for the Board to organize an advisory committee or regulatory negotiation committee as part of this process. Such committees allow stakeholders and interested parties to develop consensus recommendations on the substance of a rule. Board rules must be cleared by the Office of Management and Budget (OMB) in proposed and final form before they can be published. OMB usually is allotted 90 days to complete its review. The Board also must prepare a regulatory assessment that estimates the costs and other impacts of a rule. 
 
 These are the typical steps of a Board rulemaking:
 
