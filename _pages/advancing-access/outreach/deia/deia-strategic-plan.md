@@ -1,10 +1,10 @@
 ---
-title: DEIA Strategic Plan
+title: DEIA Strategic Plan 2022
 layout: page-right-sidenav
 permalink: /deia-strategic-plan/
 ---
 
-## US Access Board DEIA Strategic Plan 2022
+## U.S. Access Board DEIA Strategic Plan 2022
 
 **Vision statement**: The Access Board will advance and embed Diversity, Equity, Inclusion, and Accessibility (DEIA) throughout its workforce.
 
