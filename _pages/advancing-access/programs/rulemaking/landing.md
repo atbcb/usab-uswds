@@ -14,8 +14,6 @@ permalink: /rulemaking/
 
 [Link to Unified Agenda on OMB site](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014&csrf_token=4477D73C38800DD64CF55ADB1768D8D45A731BE31E15AB2A267391786B5743BB6B29078DCC57BFFFD1D816392F7FE84DBA51)
 
-[Rulemaking Process]({{ site.baseurl }}/_pages/advancing-access/programs/rulemaking/)
+### Rulemaking Process and History
 
-[Rulemaking History]({{ site.baseurl }}/_pages/advancing-access/programs/history/) 
-
-
+In developing its guidelines and standards, the Board follows a process common to most federal regulations that provides the public an opportunity for comment. Visit the Access Board's [Rulemaking Process page]({{ site.baseurl }}/programs/rulemaking/) and [Rulemaking History page]({{ site.baseurl }}/history/) for more details.
