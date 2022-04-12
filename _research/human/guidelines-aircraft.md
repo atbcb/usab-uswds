@@ -79,8 +79,6 @@ Technical assistance with respect to this and related subjects is available by w
 
 ## CONTENTS
 
-{% comment %}
-
 ### [INTRODUCTION](https://www.access-board.gov/research/completed-research/guidelines-for-aircraft-boarding-chairs#intro)
 
 [I.  THE PURPOSE OF THE TECHNICAL PAPER](https://www.access-board.gov/research/completed-research/guidelines-for-aircraft-boarding-chairs#i0)\
@@ -125,8 +123,6 @@ Technical assistance with respect to this and related subjects is available by w
 [APPENDIX B:  GUIDELINES FOR TRAINING](https://www.access-board.gov/research/completed-research/guidelines-for-aircraft-boarding-chairs#apb)
 
 * * * * *
-
-{% endcomment %}
 
 ## INTRODUCTION
 
