@@ -1,1 +1,1 @@
-This directory contains image files for research reports on the top level.
+This directory contains image files for human factor research reports.
