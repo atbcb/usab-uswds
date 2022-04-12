@@ -56,43 +56,47 @@ Statistical analysis was conducted using the statistical programming language R.
 #### 1A: Original AWM Project Sample Proportions (%)
 
 | Age   | Gender | Manual | Powered | Total |
-| :---: | :---: | :---: | :---: | :---: |
-| 18-64	| Men | 23.0 | 16.7 | 39.7 |
-| 18-64	| Women	| 13.3 | 12.4 | 25.8 |
-| 65+ | Men | 8.6 | 4.7 | 13.3 |
-| 65+ | Women | 14.6 | 6.7 | 21.2 |
+| :---: | :---:  | :---:  | :---:   | :---: |
+| 18-64	| Men    | 23.0   | 16.7    | 39.7 |
+| 18-64	| Women	 | 13.3   | 12.4    | 25.8 |
+| 65+   | Men    | 8.6    | 4.7     | 13.3 |
+| 65+   | Women  | 14.6   | 6.7     | 21.2 |
 | | | 59.4 (Total %) | 40.6 (Total %) | 100.0 |
+{: .usa-table }
 
 #### 1B: Resampled Proportions as per the 1994-97 NHIS-D (LaPlante and Kaye, 2010)
 
 | Age   | Gender | Manual | Powered | Total |
 | :---: | :---: | :---: | :---: | :---: |
-| 18-64	| Men	17.6	2.8	20.5
-| 18-64	| Women	18.6	3.0	21.6
-65+	Men	18.8	1.0	19.8
-	Women	36.1	2.0	38.1
-Total %	91.1	8.8	100.0
+| 18-64	| Men   | 17.6 | 2.8 | 20.5 |
+| 18-64	| Women | 18.6 | 3.0 | 21.6 |
+| 65+   | Men   | 18.8 | 1.0 | 19.8 |
+| 65+   | Women | 36.1 | 2.0 | 38.1 |
+| | | 91.1 (total %) | 8.8 (total %) | 100.0 |
+{: .usa-table }
 
 #### 1C: 1B with a 10% increase in Powered wheelchair prevalence
 
 | Age   | Gender | Manual | Powered | Total |
 | :---: | :---: | :---: | :---: | :---: |
-18-64	Men	15.1	5.3	20.5
-	Women	16.1	5.5	21.6
-65+	Men	16.3	3.5	19.8
-	Women	33.6	4.5	38.1
-Total %	81.1	18.8	100.0
+| 18-64 | Men | 15.1 | 5.3 | 20.5 |
+| 18-64 | Women	16.1 | 5.5 | 21.6 |
+| 65+ | Men | 16.3 |3.5	19.8 |
+| 65+ | Women |33.6 |4.5 |38.1 |
+| | | 81.1 (total %) | 18.8 (total %) 100.0 |
+{: .usa-table }
 
 #### 1D: 1B with a 20% increase in Powered wheelchair prevalence
 
 | Age   | Gender | Manual | Powered | Total |
 | :---: | :---: | :---: | :---: | :---: |
-18-64	Men	12.6	7.8	20.5
-	Women	13.6	8.0	21.6
-65+	Men	13.8	6.0	19.8
-	Women	31.1	7.0	38.1
-Total %	71.1	28.8	100.0
- 
+| 18-64 | Men | 12.6 | 7.8 | 20.5 |
+| 18-64 | Women | 13.6 | 8.0 | 21.6 |
+| 65+ | Men | 13.8 | 6.0 | 19.8 |
+| 65+ | Women | 31.1 |7.0 |38.1 |
+| | | 71.1 {Total %} | 28.8 {Total %} 100.0 |
+{: .usa-table }
+
 ### Results
 
 #### 1.	Summary statistics
