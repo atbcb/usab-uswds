@@ -5,7 +5,6 @@ sidenav: false
 permalink: /rulemaking-process/
 ---
 
-
 ### Access Board Rulemaking Process
 Under the Americans with Disabilities Act (ADA) and several other laws, the Access Board develops guidelines and standards for the built environment, transportation systems, information and communication technologies, and medical diagnostic equipment. These include the:
 
@@ -27,3 +26,21 @@ These are the typical steps of a Board rulemaking:
 > 4. Review public comments and revise the rule accordingly;
 > 5. Submit the final rule and regulatory assessment to OMB for clearance;
 > 6. Publish the final rule in the Federal Register.
+
+### Advisory and Regulatory Negotiation Committees
+In the course of its rulemaking activities, the Board has organized these advisory or regulatory negotiation committees:
+
+* Recreation Access Advisory Committee (1993 - 1994)
+* ADAAG Review Advisory Committee (1994 - 1996)
+* Play Areas Regulatory Negotiation Committee (1996 - 1997)
+* Telecommunications Access Advisory Committee (1996 - 1997)
+* Outdoor Developed Areas Regulatory Negotiation Committee (1997 - 1999)
+* Electronic and Information Technology Access Advisory Committee (1998 - 1999)
+* Passenger Vessel Access Advisory Committee (1998 - 2000)
+* Public Rights-of-Way Access Advisory Committee (1999 - 2001)
+* Courthouse Accessibility Advisory Committee (2004 - 2006)
+* Telecommunications and Electronic and Information Technology Advisory Committee (2006 - 2008)
+* Emergency Transportable Housing Advisory Committee (2007 - 2008)
+* Passenger Vessels Emergency Alarms Advisory Committee (2007 - 2008)
+* Medical Diagnostic Equipment Accessibility Standards Advisory Committee (2012 - 2013)
+* Rail Vehicles Access Advisory Committee (2013 - 2015)
