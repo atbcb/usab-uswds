@@ -126,7 +126,7 @@ Technical assistance with respect to this and related subjects is available by w
 
 * * * * *
 
-{% end comment %}
+{% endcomment %}
 
 ## INTRODUCTION
 
