@@ -77,8 +77,7 @@ Technical assistance with respect to this and related subjects is available by w
 
 * * * * *
 
-CONTENTS
---------
+## CONTENTS
 
 ### [INTRODUCTION](https://www.access-board.gov/research/completed-research/guidelines-for-aircraft-boarding-chairs#intro)
 
@@ -125,8 +124,7 @@ CONTENTS
 
 * * * * *
 
-INTRODUCTION
-------------
+## INTRODUCTION
 
 ### I.  THE PURPOSE OF THE TECHNICAL PAPER
 
@@ -159,8 +157,6 @@ Not all of the guidance provided will or can be applied to a single type or desi
 #### 4\.  HOW THE TECHNICAL PAPER IS ORGANIZED
 
 This document is divided into six parts.  Sections I and II provide background information regarding the function of the guidelines and the topic of architectural barriers and aircraft boarding chairs.  The technical provisions themselves are in four parts.  Part 1 provides a list of key terms; Part 2 defines the physical characteristics of the users, both the passenger and attendant, and the environment in which the boarding chair is used.  The remainder of the provisions, Parts 3 and 4, consist of detailed guidelines for boarding chair design.  Appendix A provides the version of the International Standard Organization (ISO) test procedures which were used to define whether a specific performance criterion was met.  Appendix B contains guidelines on personnel training and defines who should be trained, how often training should be conducted, and the extent of training needed.
-
-* * * * *
 
 ### II.  PROJECT BACKGROUND
 
@@ -203,10 +199,7 @@ It should be the goal of boarding chair designers and manufacturers to develop b
 Figure II-1.  Sample of Existing Boarding Chairs
 | [![The figure is composed of ten graphics identifying five different configurations of aircraft boarding chairs. The graphics show a side view of five styles of available boarding chairs, front views of four styles, and one side view of a collapsed boarding chair.](https://www.access-board.gov/images/research/abc/a3fig14.gif)](https://www.access-board.gov/images/research/abc/a3fig14.gif "full-size version of figure II-1") |
 
-* * * * *
-
-TECHNICAL PROVISIONS
---------------------
+## TECHNICAL PROVISIONS
 
 ### Part 1.  Definition of Key Terms
 
@@ -281,10 +274,8 @@ The result of calculating parameter values for the 5th percentile female and 95t
 Anthropometric data is presented in Figures 2-1 and 2-2 for use in designing aircraft boarding chairs.  [Figure 2-1](https://www.access-board.gov/research/completed-research/guidelines-for-aircraft-boarding-chairs#a3fig15) provides overall dimensions for the 5th percentile female and the 95th percentile male.  [Figure 2-2](https://www.access-board.gov/research/completed-research/guidelines-for-aircraft-boarding-chairs#a3fig16) provides hand, arm, foot and head dimensions for the same anthropometric range.  This data is referenced from the "Human Factors Design handbook." Additional data that relates specifically to the aircraft boarding chair design problem is presented below.  The data includes body weight and strength.  Other anthropometric data can be found in NASA Reference Publication 1024, "Anthropometric Source Book, Volume I: Anthropometry for Designers."
 
 Figure 2-1:  Overall Anthropometric Data
-|
 
-| [![The figure is a representation of an individual who is standing or sitting and shows specific measures of parts of the body labeled as letters ranging from 'A' to 'L'.  There are three views depicted.  Two of them are side views, one standing and one sitting.  The third is a front view of the individual sitting.](https://www.access-board.gov/images/research/abc/a3fig15a.gif)](https://www.access-board.gov/images/research/abc/a3fig15a.gif "full-size version of figure 2-1") |
-|
+[![The figure is a representation of an individual who is standing or sitting and shows specific measures of parts of the body labeled as letters ranging from 'A' to 'L'.  There are three views depicted.  Two of them are side views, one standing and one sitting.  The third is a front view of the individual sitting.](https://www.access-board.gov/images/research/abc/a3fig15a.gif)](https://www.access-board.gov/images/research/abc/a3fig15a.gif "full-size version of figure 2-1")
 
 1.  Standing Height measuring from top of the head to the floor.
 2.  Sitting Height is the measure from the top of the head to the seat.
@@ -298,11 +289,6 @@ Figure 2-1:  Overall Anthropometric Data
 10. Elbow Room is the measure of the space from the outside of one elbow to the outside of the other elbow.
 11. Shoulder Breadth is the measure from the out side of one shoulder to the outside of the other.
 12. Hip Circumference is the measure around the hips of the individual.
-
- |
-
- |
-|
 
 |   | Dimension | 5% Female | 95% Male |
 | --- | --- | --- | --- |
@@ -322,13 +308,9 @@ Figure 2-1:  Overall Anthropometric Data
 |   |   | 5th Female | 95th Male |
 |   | Weight | 104 lb | 241 lb |
 
- |
-
 Figure 2-2.  Hand, Arm, Foot, and Head Anthropometrics
-|
 
-| [![Six graphics representing specific measures associated with extremity sizes presented in letters from 'M' to 'S'.](https://www.access-board.gov/images/research/abc/a3fig16a.gif)](https://www.access-board.gov/images/research/abc/a3fig16a.gif "full-size version of figure 2-2") |
-|
+[![Six graphics representing specific measures associated with extremity sizes presented in letters from 'M' to 'S'.](https://www.access-board.gov/images/research/abc/a3fig16a.gif)](https://www.access-board.gov/images/research/abc/a3fig16a.gif "full-size version of figure 2-2")
 
 1.  Hand Length is from the wrist to the tip of the longest finger.
 2.  Hand Breadth is from the outside of the thumb knuckle to the opposite side of the hand.
@@ -337,11 +319,6 @@ Figure 2-2.  Hand, Arm, Foot, and Head Anthropometrics
 5.  Foot Breadth is the widest measure of the foot across the base of the toes.
 6.  Foot Length is the distance from the heel to the end of the toes.
 7.  Head Breadth is the distance across the widest part of the head.
-
- |
-
- |
-|
 
 |   | Dimension | 5% Female | 95% Male |
 | --- | --- | --- | --- |
@@ -355,8 +332,6 @@ Figure 2-2.  Hand, Arm, Foot, and Head Anthropometrics
 | R | Foot Length | 8.7" | 11.2" |
 | S | Head Breadth | 5.4" | 6.4" |
 
- |
-
 ##### Body Weight
 
 Maximum body weight determines the maximum load or stress on the components and frame of the aircraft boarding chair:  **A 99th percentile male weighs 241 lbs.**  A weight of 241 lbs. should be used as a design basis with appropriate consideration given to the safety factors in design, since there are still many people who weigh more than 241 lbs.  Clearly, an aircraft boarding chair can not be designed to accommodate the heaviest person imaginable.  Nonetheless, the designer is advised to maximize weight bearing capacity in aircraft boarding chair design.  The 99th percentile weight has been used, as opposed to the 95th percentile (which is 224 pounds), since the potential for damage or collapse of the aircraft boarding chair is a significantly more serious safety hazard than the failure of other design features that affect comfort more than safety.
@@ -366,8 +341,8 @@ Maximum body weight determines the maximum load or stress on the components and 
 [Figure 2-3](https://www.access-board.gov/research/completed-research/guidelines-for-aircraft-boarding-chairs#a3fig17) illustrates the lifting strength and pushing force capacity of the 5th percentile female.  A 5th percentile female in a standing position is capable of lifting 74 pounds from a starting point 15 inches off the ground.  The same individual can apply a horizontal force of 24 pounds to a handle device which is 33 inches off the ground.  Strength declines continuously after initial application to the point that strength is reduced to 25% of the original maximum capacity after four minutes of force application.  **This data suggests that many disabled passenger transfers will require two or more attendants or that only relatively strong attendants will be capable of performing all aspects of the boarding task which culminates with a transfer (involving a lift).**  For this reason, strength and endurance requirements of the transporting task should be minimized in any given design.  Attendant training should incorporate procedures for transporting heavy passengers.
 
 Figure 2-3.  5th Percentile Female Lifting and Pushing Strength
-| [![Illustration of two side-perspective figures lifting and pushing, with four measurements as described immediately following.](https://www.access-board.gov/images/research/abc/a3fig17.gif)](https://www.access-board.gov/images/research/abc/a3fig17.gif "full-size version of figure 2-3") |
-|
+
+[![Illustration of two side-perspective figures lifting and pushing, with four measurements as described immediately following.](https://www.access-board.gov/images/research/abc/a3fig17.gif)](https://www.access-board.gov/images/research/abc/a3fig17.gif "full-size version of figure 2-3")
 
 This figure depicts the lifting and pushing strength for the 5th percentile of females.\
 The first represents a 74 pound lifting limit at 15 inches off the ground.\
@@ -375,8 +350,6 @@ The second represents a 24 pound pushing force at 33 inches off the ground.
 
 Sources:  Diffrient, Tilley and Harman.  *Humanscale 4/5/6*\
 MIL-STD-1472C
-
- |
 
 ##### Physical Disability
 
@@ -413,8 +386,8 @@ Once the boarding chair is at the aircraft entrance, the time to prepare the boa
 Transfers should not require the attendant to bend in awkward positions.  [Figure 3-1](https://www.access-board.gov/research/completed-research/guidelines-for-aircraft-boarding-chairs#a3fig18) illustrates the proper body posture that the boarding chair should permit.
 
 Figure 3-1.  Proper Posture for Transferring an Aircraft Boarding Chair Passenger
-| [![The drawing is a representation of two individuals lifting a passenger properly, with one person at the rear of the passenger lifting at the arm pits and the other at the front, lifting at the knees.](https://www.access-board.gov/images/research/abc/a3fig18a.gif)](https://www.access-board.gov/images/research/abc/a3fig18a.gif "full-size version of figure 3-1") |
-|
+
+[![The drawing is a representation of two individuals lifting a passenger properly, with one person at the rear of the passenger lifting at the arm pits and the other at the front, lifting at the knees.](https://www.access-board.gov/images/research/abc/a3fig18a.gif)](https://www.access-board.gov/images/research/abc/a3fig18a.gif "full-size version of figure 3-1")
 
 -   Bend at the knees.
 -   Keep center of gravity over the knees.
@@ -423,8 +396,6 @@ Figure 3-1.  Proper Posture for Transferring an Aircraft Boarding Chair Passenge
 -   Keep your back straight.
 -   Use a solid grip -- Use both hands.
 -   Lift above the object's center of gravity.
-
- |
 
 ##### (d) Passenger Posture.
 
