@@ -14,9 +14,9 @@ permalink: /events/
 > Dial in: (646) 828-7666 \
 > Contact: <events@access-board.gov> 
 
-> ***Public Meeting on Low Transfer Height for MDE Transfer Surfaces*** \
+> ***Public Information Meeting on Low-Height Specification for MDE Transfer Surfaces*** \
 > May 12, 2022, 2:00 – 4:00 p.m. (ET) \
-> Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/webinar/register/WN_GFoTS44-R7qWdh6GF0xLPg) \
+> Registration (free): [Zoom Webinar Link](https://www.zoomgov.com/webinar/register/WN_GFoTS44-R7qWdh6GF0xLPg) \
 > Contact: Bobby Stinnette of the Board at [stinnette@access-board.gov](mailto:stinnette@access-board.gov) or 1-202-272-0021 
 
 > ***Town Hall***\
@@ -27,6 +27,7 @@ permalink: /events/
 
 ## Public Events Archives
 
+- [Accessible Virtual Meetings, January 13, 2021](https://youtu.be/rR9RfhvM2sU)
 - [Inclusive Design of Autonomous Vehicles: A Public Dialogue (Spring 2021)](https://www.access-board.gov/av/forums.html)
 - [Inclusive Interfaces: Accessibility to Self-Service Transaction Machines (May 19, 2021)](https://www.access-board.gov/news/2021/05/24/u-s-access-board-conducts-panel-discussions-on-self-service-transaction-machines/)
 - [Moving Forward: Access to Inclusive Fitness Equipment (July 14, 2021)](https://www.access-board.gov/news/2021/07/15/u-s-access-board-holds-virtual-meeting-on-inclusive-exercise-and-fitness-equipment/)
