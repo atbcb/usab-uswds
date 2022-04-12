@@ -134,7 +134,7 @@ Summary statistics on the original (unweighted) data for occupied seat height ar
   </thead>
   <tbody>
     <tr>
-      <th scope="col">Women-Young</th>
+      <th scope="row">Women-Younger</th>
       <td>62</td>
       <td>19.1 (1.5)</td>
       <td>19.0 (2.0)</td>
@@ -145,7 +145,7 @@ Summary statistics on the original (unweighted) data for occupied seat height ar
       <td>16.2 – 28.3</td>
     </tr>
     <tr>
-      <th scope="col">Women-Older</th>
+      <th scope="row">Women-Older</th>
       <td>68</td>
       <td>19.1 (1.4)</td>
       <td>19.0 (2.2)</td>
@@ -156,7 +156,7 @@ Summary statistics on the original (unweighted) data for occupied seat height ar
       <td>18.3 – 22.6</td>
     </tr>
     <tr>
-      <th scope="col">Men-Younger</th>
+      <th scope="row">Men-Younger</th>
       <td>107</td>
       <td>20.2 (1.5)</td>
       <td>20.4 (1.9)</td>
@@ -167,7 +167,7 @@ Summary statistics on the original (unweighted) data for occupied seat height ar
       <td>17.4 – 28.9</td>
     </tr>
     <tr>
-      <th scope="col">Men-Older</th>
+      <th scope="row">Men-Older</th>
       <td>40</td>
       <td>19.1 (1.4)</td>
       <td>18.9 (1.9)</td>
