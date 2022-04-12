@@ -2,12 +2,16 @@
 title: Final Report
 order-number: 0
 toc-group: MDE Study
-banner-title: Analysis of Low Wheelchair Seat Heights and Transfer Surfaces
+banner-title: MDE Wheelchair Seat Height Study
 status: completed
 year-completed: 2022
 topic: Medical Device Equipment
 permalink: /research/human/wheelchair-seat-height/
 ---
+
+# Analysis of Low Wheelchair Seat Heights and Transfer Surfaces for Medical Diagnostic Equipment
+
+## {{ page.title }}
 
 Prepared by:
 : Clive D’Souza, PhD
@@ -94,7 +98,7 @@ Statistical analysis was conducted using the statistical programming language _R
 | 18-64 | Women | 13.6 | 8.0 | 21.6 |
 | 65+ | Men | 13.8 | 6.0 | 19.8 |
 | 65+ | Women | 31.1 |7.0 |38.1 |
-| | | 71.1 {Total %} | 28.8 {Total %} 100.0 |
+| | | 71.1 {Total %} | 28.8 {Total %} | 100.0 |
 {: .usa-table }
 
 ### Results
