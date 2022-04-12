@@ -6,6 +6,7 @@ permalink: /rulemaking-history/
 ---
 
 ### Rulemaking History
+
 Final guidelines and standards issued by the Board include:
 
 * August 4, 1982 - Minimum Guidelines and Requirements for Accessible Design (the basis for the Uniform Federal Accessibility Standards)
@@ -27,6 +28,7 @@ Final guidelines and standards issued by the Board include:
 * January 18, 2017 – Updated Section 508 Standards and Section 255 Guidelines for Information and Communication Technology
 
 ### Advisory and Regulatory Negotiation Committees
+
 In the course of its rulemaking activities, the Board has organized these advisory or regulatory negotiation committees: 
 
 * Recreation Access Advisory Committee (1993 - 1994)
