@@ -14,9 +14,9 @@ permalink: /events/
 > Dial in: (646) 828-7666 \
 > Contact: <events@access-board.gov> 
 
-> ***Public Meeting on Low Transfer Height for MDE Transfer Surfaces***
-> May 12, 2022, 2:00 – 4:00 p.m. (ET)
-> Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/webinar/register/WN_GFoTS44-R7qWdh6GF0xLPg)
+> ***Public Meeting on Low Transfer Height for MDE Transfer Surfaces*** \
+> May 12, 2022, 2:00 – 4:00 p.m. (ET) \
+> Registration (free): [www.zoomgov.com/webinar/register](https://www.zoomgov.com/webinar/register/WN_GFoTS44-R7qWdh6GF0xLPg) \
 > Contact: Bobby Stinnette of the Board at [stinnette@access-board.gov](mailto:stinnette@access-board.gov) or 1-202-272-0021 
 
 > ***Town Hall***\
@@ -25,18 +25,16 @@ permalink: /events/
 > 4868 Ridge Ave.\
 > Philadelphia, PA 19129
 
-## Access Board Meetings
+## Public Events Archives
 
-Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Communication Access Realtime Translation (CART) and sign language interpreters are available at all Board meetings and events. 
+- [Inclusive Design of Autonomous Vehicles: A Public Dialogue (Spring 2021)](https://www.access-board.gov/av/forums.html)
+- [Inclusive Interfaces: Accessibility to Self-Service Transaction Machines (May 19, 2021)](https://www.access-board.gov/news/2021/05/24/u-s-access-board-conducts-panel-discussions-on-self-service-transaction-machines/)
+- [Moving Forward: Access to Inclusive Fitness Equipment (July 14, 2021)](https://www.access-board.gov/news/2021/07/15/u-s-access-board-holds-virtual-meeting-on-inclusive-exercise-and-fitness-equipment/)
+- [Public Briefing on Wheelchair Securement Systems on Aircraft (September 22, 2021)](https://www.access-board.gov/news/2021/09/23/u-s-access-board-holds-public-briefing-on-study-on-the-feasibility-of-wheelchair-securement-systems-in-passenger-aircraft/)
+- [Designing for Inclusion: Architectural Trends and Social Justice (November 10, 2021)](https://www.access-board.gov/news/2021/11/15/u-s-access-board-hosts-virtual-event-on-architectural-trends-and-social-justice/)
+- [Equity in Healthcare for People with Disabilities (January 12, 2022)](https://www.access-board.gov/news/2022/01/13/u-s-access-board-hosts-virtual-event-on-equity-in-healthcare-for-people-with-disabilities/)
 
-## Future Board Meetings
-
-- May 9 - 11, 2022, Virtual
-- July 11 - 13, 2022, In-person, Washington, D.C.
-- September 13 - 15, 2022, Philadelphia, PA
-- November 7 - 9, 2022, Virtual
-
-## Board Meeting Archives
+## Access Board Meetings Archives
 
 - [January 13, 2021](https://www.youtube.com/watch?v=rR9RfhvM2sU&t=859s)
 - [March 10, 2021](https://www.youtube.com/watch?v=xI1j1V1SyjE)
