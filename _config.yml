@@ -76,11 +76,11 @@ primary_navigation:
   - name: Advancing Access
     children:
       - name: Initiatives
-        url: /initiatives/
+        url: /initiatives/about.html
       - name: Outreach
-        url: /outreach/
+        url: /outreach/about/
       - name: Programs
-        url: /programs/
+        url: /programs/about.html
       - name: Research
         url: /research/
   - name: Guidelines & Standards
