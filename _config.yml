@@ -80,7 +80,7 @@ primary_navigation:
       - name: Outreach
         url: /outreach/about/
       - name: Programs
-        url: /programs/about.html
+        url: /programs/about/
       - name: Research
         url: /research/
   - name: Guidelines & Standards
