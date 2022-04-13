@@ -2,6 +2,8 @@
 title: Diversity, Equity, Inclusion, and Accessibility
 layout: page-right-sidenav
 permalink: /deia/about/
+redirect_from: 
+    - /deia/
 ---
 
 ### Executive Order on Diversity, Equity, Inclusion, and Accessibility in the Federal Workforce
