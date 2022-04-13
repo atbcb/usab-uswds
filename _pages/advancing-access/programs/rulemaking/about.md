@@ -2,7 +2,7 @@
 title: Rulemaking
 layout: page
 sidenav: false
-permalink: /rulemaking/about/
+permalink: /rulemaking/about.html
 ---
 
 ### Active and Upcoming Rulemakings
