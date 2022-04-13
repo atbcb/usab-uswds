@@ -27,7 +27,7 @@ permalink: /events/
 
 ## Public Events Archives
 
-- [Accessible Virtual Meetings, January 13, 2021](https://youtu.be/rR9RfhvM2sU)
+- [Accessible Virtual Meetings (January 13, 2021)](https://youtu.be/rR9RfhvM2sU)
 - [Inclusive Design of Autonomous Vehicles: A Public Dialogue (Spring 2021)](https://www.access-board.gov/av/forums.html)
 - [Inclusive Interfaces: Accessibility to Self-Service Transaction Machines (May 19, 2021)](https://www.access-board.gov/news/2021/05/24/u-s-access-board-conducts-panel-discussions-on-self-service-transaction-machines/)
 - [Moving Forward: Access to Inclusive Fitness Equipment (July 14, 2021)](https://www.access-board.gov/news/2021/07/15/u-s-access-board-holds-virtual-meeting-on-inclusive-exercise-and-fitness-equipment/)
