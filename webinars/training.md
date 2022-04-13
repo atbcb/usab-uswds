@@ -9,18 +9,19 @@ redirect_from:
 
 {% asset stock/training.jpeg class="img-right shadow radius-lg" alt="Audience watching presentation" %}
 
-The Access Board provides training on its accessibility guidelines and standards to various organizations and groups across the country.&nbsp;
-Most training sessions focus on the ADA Accessibility Guidelines (ADAAG) which cover the built environment and transportation vehicles.&nbsp; ADAAG training also addresses new or upcoming sections, such as those covering children’s environments, play areas, state and local government facilities, and recreation facilities. In addition to ADAAG, training is available on design requirements for Federal facilities, telecommunications equipment, and electronic and information technology.
+The Access Board provides both virtual and in-person training on its accessibility guidelines and standards to many different organizations, groups, and government agencies across the country and internationally. Training sessions focus on:
 
-The Board tailors its training to the particular needs and interests of each audience.&nbsp;
-Board training is of particular interest to design professionals and architects, facility operators and managers, the transportation industry, the disability community, and members of other professions and groups that work with any of the Board’s guidelines and standards.&nbsp;
-Board staff often reserve time for question-and-answer sessions at training events.&nbsp;
-This kind of interaction is particularly helpful in gauging the information needs of the Board’s various audiences.
+- **[Built Environment]**(https://www.access-board.gov/buildings.html). Standards in new construction and alterations for buildings and facilities covered by the Americans with Disabilities Act (ADA) and the Architectural Barriers Act (ABA) Accessibility Standards.
+- **[Public Rights-of-Way]**(https://www.access-board.gov/prowag/). Proposed guidelines for access to sidewalks, pedestrian street crossings, pedestrian signals, shared use paths, and other components of public rights-of-way.
+- **[Information and Communication Technology (ICT)]**(https://www.access-board.gov/ict.html). Accessibility standards for ICT in the federal sector covered by Section 508 of the Rehabilitation Act, including computers, telecommunications equipment, multifunction office machines such as copiers that also operate as printers, software, websites, information kiosks and transaction machines, and electronic documents.
+- **[Transportation Vehicles]**(https://www.access-board.gov/ada/vehicles/). Requirements for new or remanufactured transportation vehicles covered by the ADA, including buses and vans, rail cars, automated guideway vehicles, trams, and other modes of public transportation.
+- **[Healthcare]**(https://www.access-board.gov/healthcare.html). Standards issued under the Patient Protection and Affordable Care Act for medical diagnostic equipment, including examination tables and chairs, weight scales, radiological equipment, and mammography equipment.
 
-Most training sessions are held at the request of, or in partnership with, organizations or groups holding conferences and seminars that include accessibility or the ADA on the agenda.&nbsp;
-The Board likes to arrange additional training opportunities once it is scheduled to be in a particular area.&nbsp;
-We also have a [conference space](/about/venue.html) which is sometimes used for trainings.
+The Board tailors its training to the particular needs, timeframe, and interests of each audience. Board trainings are of particular interest to design professionals and architects, facility operators and managers, the transportation industry, the disability community, and members of other professions and groups that work with any of the Board’s guidelines and standards. Training sessions include time for question-and-answer sessions at training events. This kind of interaction is particularly helpful in gauging the information needs of the Board’s various audiences.
 
-*Board policy requires that the events it participates in be conducted in accessible facilities and be communicated, upon request, in accessible formats.*
+Many training sessions are held at the request of, or in partnership with, organizations or groups holding conferences and seminars that include accessibility and inclusion of persons with disabilities on the agenda. The Board also has a [conference space](https://www.access-board.gov/about/venue.html) at its offices in Washington, D.C. that is sometimes used for trainings.
 
-For more information or to request training from the Board, contact Bill Botten, the Board's Training Coordinator, at [training@access-board.gov](mailto:training@access-board.gov), 202-272-0014 (voice) or 202-272-0073 (TTY).
+*Board policy requires that its in-person training sessions be conducted in accessible facilities and be communicated, upon request by attendees, in accessible formats. It is also imperative that those hosting remote training sessions ensure their digital platforms are accessible to all attendees.*
+
+For more information or to request training from the Access Board, contact Bill Botten, the Board’s Training Coordinator, at <training@access-board.gov>, 1-202-272-0014 (voice), or 1-202-272-0073 (TTY).
+
