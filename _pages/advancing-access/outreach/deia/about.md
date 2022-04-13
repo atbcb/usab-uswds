@@ -11,4 +11,4 @@ Part of President Biden’s Executive Order 14035 *Advance Diversity, Equity, In
 
 In March 2022, the Access Board developed its [DEIA Strategic Plan]({{ site.baseurl }}/deia-strategic-plan/) to advance and embed DEIA throughout its workforce. The plan includes four goals to foster a culture that exemplifies teamwork, embraces innovation, and values diversity, equity, inclusion, and accessibility to achieve mission excellence.
 
-The Access Board also developed a set of [DEIA recommendations and resources]({{ site.baseurl }}/deia-recommendations/) to aid agencies in drafting the portions of their strategic plans required under Executive Order 14035 dealing with accessibility. 
+The Access Board also developed a set of [DEIA recommendations and resources]({{ site.baseurl }}/deia-recommendations/) to aid agencies in drafting the portions of their strategic plans required under Executive Order 14035 dealing with accessibility.
