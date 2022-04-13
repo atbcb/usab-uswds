@@ -15,7 +15,7 @@ Part of President Biden’s [Executive Order 14035](https://www.whitehouse.gov/b
 
 ### Underserved Communities
 
-As part of its [Strategic Plan FY 2022-2026](https://www.access-board.gov/about/strategic-plan-fy2022.html), the Access Board has developed a new focus on equity and inclusion in underserved communities as it continues to strengthen the its services and programs. In accordance with [Executive Order 13985](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) *Advancing Racial Equity and Support for Underserved Communities Through the Federal Government*, the Access Board also finalized its [Equity Action Plan]({{ site.baseurl }}/equity/). 
+As part of its [Strategic Plan FY 2022-2026](https://www.access-board.gov/about/strategic-plan-fy2022.html), the Access Board has developed a new focus on equity and inclusion in underserved communities as it continues to strengthen its services and programs. In accordance with [Executive Order 13985](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) *Advancing Racial Equity and Support for Underserved Communities Through the Federal Government*, the Access Board also finalized its [Equity Action Plan]({{ site.baseurl }}/equity/). 
 
 ### Tribal Nations
 
