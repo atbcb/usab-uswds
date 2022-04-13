@@ -3,7 +3,7 @@ banner-title: Access Board Programs
 title: Programs
 layout: page
 sidenav: false
-permalink: /programs/
+permalink: /programs-home/
 ---
 
 ### Technical Assistance
