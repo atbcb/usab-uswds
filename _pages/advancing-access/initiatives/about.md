@@ -2,7 +2,7 @@
 banner-title: Access Board Initiatives
 title: Initiatives
 layout: page-right-sidenav
-permalink: /initiatives/
+permalink: /initiatives/about.html
 ---
 
 ### Air Travel
