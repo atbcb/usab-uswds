@@ -22,7 +22,7 @@ As indicated in a [published notice](https://www.federalregister.gov/documents/2
 
 For further information, contact Bobby Stinnette of the Board by email at [stinnette@access-board.gov](mailto:stinnette@access-board.gov) or by phone at 1-202-272-0021. Communication access via real-time translation and sign language interpretation will be provided. To request additional reasonable accommodations for the virtual meeting please contact Bobby Stinnette by **May 5, 2022**.
 
-> **Public Information Meeting on Low-Height Specification for MDE Transfer Surfaces**
-> May 12, 2022, 2:00 – 4:00 p.m. (ET)
-> Registration (free): [Zoom Webinar Link](https://www.zoomgov.com/webinar/register/WN_GFoTS44-R7qWdh6GF0xLPg)
+> **Public Information Meeting on Low-Height Specification for MDE Transfer Surfaces** \
+> May 12, 2022, 2:00 – 4:00 p.m. (ET) \
+> Registration (free): [Zoom Webinar Link] \(https://www.zoomgov.com/webinar/register/WN_GFoTS44-R7qWdh6GF0xLPg) \
 > Contact: Bobby Stinnette of the Board at [stinnette@access-board.gov](mailto:stinnette@access-board.gov) or 1-202-272-0021
