@@ -46,7 +46,7 @@ For more information about the Access Board’s research program, contact Dave Y
 -   [Guidelines for Aircraft Boarding Chairs: Technical Paper]({{ site.baseurl }}/research/human/guidelines-aircraft/) (1987)
 -   [The Impact of Transfer Setup on the Performance of Independent Transfers - Phase I](http://herl.pitt.edu/ab/) (2011) VA Human Engineering Research Laboratory
 -   [Independent Wheelchair Transfers in the Built Environment: How Transfer Setup Impacts Performance - Phase II](http://herl.pitt.edu/ab/) (2015) VA Human Engineering Research Laboratory
--   [Analysis of Low Wheelchair Seat Heights and Transfer Surfaces for Medical Diagnostic Equipment]({{ site.baseurl }}/research/human/wheelchair-seat-height) (2022) Clive D’Souza, University of Pittsburgh
+-   [Analysis of Low Wheelchair Seat Heights and Transfer Surfaces for Medical Diagnostic Equipment]({{ site.baseurl }}/research/human/wheelchair-seat-height)) (2022) Clive D’Souza, University of Pittsburgh
 
 ### Passenger Vessels
 
