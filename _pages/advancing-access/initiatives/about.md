@@ -3,7 +3,9 @@ banner-title: Access Board Initiatives
 title: Initiatives
 layout: page-right-sidenav
 right-sidenav: sidenav-training.html
-right-sidenav: sidenav-webinars.html
+right-sidenav: technical-assistance.html
+right-sidenav: links-social.html
+right-sidenav: subscribe.html
 permalink: /initiatives/about.html
 ---
 
