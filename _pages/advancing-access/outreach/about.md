@@ -2,6 +2,7 @@
 banner-title: Access Board Outreach
 title: Outreach
 layout: page-right-sidenav
+right-sidenav: sidenav-training.html
 permalink: /outreach/about/
 ---
 
