@@ -1,7 +1,9 @@
 ---
 banner-title: Access Board Initiatives
 title: Initiatives
-layout: default
+layout: page-right-sidenav
+right-sidenav: sidenav-training.html
+right-sidenav: sidenav-webinars.html
 permalink: /initiatives/about.html
 ---
 
