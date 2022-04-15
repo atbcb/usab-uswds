@@ -37,6 +37,8 @@ permalink: /events/
 
 ## Access Board Meetings Archives
 
+Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Visit the [Board Meetings page](https://www.access-board.gov/about/meetings.html) for more information on upcoming meetings.
+
 - [January 13, 2021](https://www.youtube.com/watch?v=rR9RfhvM2sU&t=859s)
 - [March 10, 2021](https://www.youtube.com/watch?v=xI1j1V1SyjE)
 - [May 19, 2021](https://www.youtube.com/watch?v=-0YkBZZEoss)
