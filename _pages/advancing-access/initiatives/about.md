@@ -15,7 +15,7 @@ Self-driving cars, shuttles, and other vehicles stand to revolutionize transport
 
 ### Electric Vehicle Charging Stations
 
-The Access Board will be releasing guidance on making electric vehicle (EV) charging stations accessible in May 2022.
+The Access Board is partnering with Department of Transportation to develop guidance on making electric vehicle (EV) charging stations accessible.
 
 ### Self-service Transaction Machines
 
