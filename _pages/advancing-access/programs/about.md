@@ -22,7 +22,3 @@ The Access Board, in cooperation with the National Network of ADA Centers, offer
 
 The Access Board’s research program is focused on the study of accessibility relating to architecture and design, communication, and transportation. Visit the Access Board's [Research page](https://www.access-board.gov/research/) for more information and access to completed research.
 
-### Rulemaking
-
-The Access Board takes on regulatory initiatives to develop accessibility guidelines and standards. Visit the Access Board's [Rulemaking page]({{ site.baseurl }}//rulemaking/about/) to learn about the process, history, and active and upcoming rulemakings. The Access Board's [Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014&csrf_token=4477D73C38800DD64CF55ADB1768D8D45A731BE31E15AB2A267391786B5743BB6B29078DCC57BFFFD1D816392F7FE84DBA51) is also available on Office of Management and Budget's website.
-
