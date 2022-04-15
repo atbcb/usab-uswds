@@ -10,7 +10,11 @@ right-sidenav: subscribe.html
 permalink: /events/
 ---
 
-## Upcoming Events
+## Public Events
+
+The Access Board regularly holds public events. 
+
+### Upcoming Events
 
 > ***Meeting of the U.S. Access Board*** \
 > May 11, 2022, 1:00 – 2:15 p.m. (ET) \
@@ -30,7 +34,7 @@ permalink: /events/
 > 4868 Ridge Ave.\
 > Philadelphia, PA 19129
 
-## Public Events Archives
+### Public Events Archives
 
 - [Accessible Virtual Meetings (January 13, 2021)](https://youtu.be/rR9RfhvM2sU)
 - [Inclusive Design of Autonomous Vehicles: A Public Dialogue (Spring 2021)](https://www.access-board.gov/av/forums.html)
