@@ -1,6 +1,11 @@
 ---
 title: Diversity, Equity, Inclusion, and Accessibility
 layout: page-right-sidenav
+right-sidenav: technical-assistance.html
+right-sidenav: sidenav-training.html
+right-sidenav: links-webinars-resources.html
+right-sidenav: links-social.html
+right-sidenav: subscribe.html
 permalink: /deia/about/
 redirect_from: 
     - /deia/
