@@ -9,4 +9,4 @@ permalink: /aircraft/
 
 [Aircraft Securement Systems Feasibility Study](https://www.access-board.gov/aircraft/)
 
-Onboard WC voluntary guidelines  
+[Onboard WC voluntary guidelines](https://www.federalregister.gov/documents/2019/08/20/2019-17873/advisory-guidelines-for-aircraft-onboard-wheelchairs), but create our own landing page
