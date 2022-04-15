@@ -5,6 +5,8 @@ layout: page-right-sidenav
 permalink: /initiatives/about.html
 ---
 
+## Initiatives
+
 ### Air Travel
 
 The inability to use one’s wheelchair on airplanes makes air travel very difficult, if not impossible, for many people with disabilities. Among other challenges, it requires multiple transfers between boarding chairs and aircraft seats, posing injury risks. To address these challenges, the Access Board commissioned a study to assess the feasibility of equipping aircraft with securement systems and developed onboard wheelchair voluntary guidelines. Visit the Access Board's [Aircraft page]({{ site.baseurl }}/aircraft/) for more information. In addition, the Access Board is developing volunatry guidelines to improve the usability and reliably of onboard wheelchairs on aircraft.
@@ -21,3 +23,6 @@ The Access Board is partnering with Department of Transportation to develop guid
 
 Self-service transaction machines (SSTMs) and self-service kiosks are now a common feature in places of public accommodation, government offices, and other facilities. They allow customers to conduct an expanding range of transactions and functions independently. However, SSTMs and self-service kiosks have long posed accessibility barriers to people with disabilities, particularly those who are blind or have low vision. Visit the Access Board's [SSTMs page]({{ site.baseurl }}/sstms/) for more information.
 
+## Rulemaking
+
+The Access Board takes on regulatory initiatives to develop accessibility guidelines and standards. Visit the Access Board's [Rulemaking page]({{ site.baseurl }}//rulemaking/about/) to learn about the process, history, and active and upcoming rulemakings. The Access Board's [Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014&csrf_token=4477D73C38800DD64CF55ADB1768D8D45A731BE31E15AB2A267391786B5743BB6B29078DCC57BFFFD1D816392F7FE84DBA51) is also available on Office of Management and Budget's website.
