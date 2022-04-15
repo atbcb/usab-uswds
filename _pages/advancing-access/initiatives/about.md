@@ -23,6 +23,10 @@ Self-driving cars, shuttles, and other vehicles stand to revolutionize transport
 
 The Access Board is partnering with Department of Transportation to develop guidance on making electric vehicle (EV) charging stations accessible.
 
+### Medical Diagnostic Equipment
+
+The Access Board issues [Direct Final Rule](https://www.regulations.gov/docket/ATBCB-2022-0002) (DFR) extending the sunset provision regarding the specification for low transfer heights for three years. On May 12, the Access Board will hold a virtual public information meeting on accessible medical diagnostic equipment (MDE) and the adjustability of transfer surfaces for patients who use wheelchairs. Visit the Board's [news release](https://www.access-board.gov/news/2022/04/13/u-s-access-board-to-host-virtual-public-meeting-on-low-transfer-surface-height-for-medical-diagnostic-equipment/) for more information.
+
 ### Self-service Transaction Machines
 
 Self-service transaction machines (SSTMs) and self-service kiosks are now a common feature in places of public accommodation, government offices, and other facilities. They allow customers to conduct an expanding range of transactions and functions independently. However, SSTMs and self-service kiosks have long posed accessibility barriers to people with disabilities, particularly those who are blind or have low vision. Visit the Access Board's [SSTMs page]({{ site.baseurl }}/sstms/) for more information.
