@@ -75,12 +75,10 @@ primary_navigation:
     url: /news/
   - name: Advancing Access
     children:
-      - name: Initiatives
+      - name: Initiatives & Rulemaking
         url: /initiatives/about.html
       - name: Outreach
         url: /outreach/about/
-      - name: Programs
-        url: /programs/about/
       - name: Research
         url: /research/
   - name: Guidelines & Standards
