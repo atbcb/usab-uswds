@@ -1,10 +1,42 @@
+<h4 id="ta-box" class="font-heading-3xs">Technical Assistance</h4>
+<span class="font-body-3xs">Contact the Access Board for technical assistance on its guidelines and accessible design:</span>
+<ul class="usa-list usa-list--unstyled padding-top-1 font-body-3xs">
+  <li class="padding-bottom-0">800-872-2253 (v)</li>
+  <li class="padding-bottom-0">800-993-2822 (tty)</li>
+  <li class="padding-bottom-0"><a href="mailto:ta@access-board.gov">ta@access-board.gov</a></li>
+</ul>
 
-{% comment %}
-Removed
-{% include links-posts-list.html %}
-{% endcomment %}
+    <div class="padding-2 border bg-white shadow">
+      <div class="text-center">
+        {% asset stock/presenter.svg class="maxh-15" alt="" %}
+        
+        <div class="text-center">
+          <h4 class="padding-1 bg-secondary-darker text-white">Trainings</h4>
+          <span class="font-body-3xs">For more information on the Board’s training program or to request training, contact Bill Botten, Training Coordinator</span>
+          <br>
+          <ul class="usa-list usa-list--unstyled padding-top-1 font-body-3xs">
+          <li class="padding-bottom-0">(202) 272-0014 (v)</li>
+          <li class="padding-bottom-0">(202) 272-0073  (tty)</li>
+          <li class="padding-bottom-0"><a href="mailto:training@access-board.gov">training@access-board.gov</a></li>
+          </ul>
+        </div>
 
-{% include sidenav-initiatives-ta %}
-{% include sidenav-training.html %}
-{% include links-social.html %}
-{% include subscribe.html name='news' value='USACCESS_1' %}
+      </div>
+    </div>
+<div class="border-top-1 border-accent-cool-darker padding-top-2 margin-bottom-4 usa-prose">
+  <h4>Social Links</h4>
+  <ul class="usa-list usa-list--unstyled padding-top-2">
+    <li class="padding-bottom-1"> <a class="text-blue" href="https://www.youtube.com/channel/UC5tRWTtV5eSw68N3tSpmyWw" target="_blank" rel="noreferrer"><span ><i class="fab fa-youtube fa-2x margin-right-2" style="color: #FF0000; vertical-align: middle;"></i>U.S. Access Board on YouTube</span></a> </li>
+    <li class="padding-bottom-1"> <a class="text-blue" href="https://twitter.com/AccessBoard" target="_blank" rel="noreferrer"><span ><i class="fab fa-twitter fa-2x margin-right-2" style="color: #1DA1F2; vertical-align: middle;"></i>@AccessBoard on Twitter</span></a></li>
+  </ul>
+</div>
+
+<div class="usa-sign-up">
+  <h3 id="subscribe-news" class="usa-sign-up__heading">Subscribe to {{include.name}} updates</h3>
+  <form action="https://public.govdelivery.com/accounts/USACCESS/subscribers/qualify" method="get" class="usa-form">
+    <input name="topic_id" type="hidden" value="{{include.value}}">
+    <label for="email" class="usa-label">Your email address</label>
+    <input id="email" name="email" type="email" title="addy@example.com" class="usa-input">
+    <button type="submit" name="commit" value="Subscribe" class="usa-button">Sign up</button>
+  </form>
+</div>
