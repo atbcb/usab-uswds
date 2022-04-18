@@ -2,7 +2,7 @@
 banner-title: Access Board Outreach
 title: Outreach
 layout: page-right-sidenav
-right-sidenav: sidenav-initiatives.html
+right-sidenav: sidenav-outreach.html
 permalink: /outreach/about/
 ---
 
