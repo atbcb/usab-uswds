@@ -12,11 +12,28 @@ Members of the U.S. Access Board meet regularly every two months. Board meetings
 
 ## Next Board Meeting
 
-At this time, the March 2022 meeting of the full Board is cancelled.  The next virtual meeting of the Board will take place on **Wednesday, May 11, 2022.** 
+The next virtual meeting of the Board will take place on **Wednesday, May 11, 2022,** beginning at 1:00 p.m. Eastern. During this meetin, the Board will hear committee reports and Federal member agency updates.  During opening remarks, Chairwoman Taryn Williams will recognize outgoing members and introduce new appointees.  The guest speaker is Assistant Attorney General Kristen Clarke of the U.S. Department of Justice.    
+
+> ***Meeting of the U.S. Access Board***\
+> May 11, 2022, 1:00 p.m. - 2:15 p.m. (ET)\
+> Meeting link:  [www.zoomgov.com/j/1616785115]\
+> Meetng ID:  161 678 5115\
+> Dial in:  (646) 828-7666\
+> Contact:  events@access-board.gov
+>> _Agenda_\
+>> * Introductory Remarks; Roll Call; Approval of January 2022 draft meeting minutes (vote)\
+>> * Introduction of new members\
+>> * Guest Speaker: Kristen Clarke, U.S. Department of Justice\
+>> * Executive Director's Report; Recognition of outgoing members\
+>> * Standing Committee Reports\
+>> * Ad Hoc Committee Reports\
+>> * Federal Agency Updates\
+>> * New Business\
+>> * Adjourn
+>>
 
 ## Future Board Meetings
 
-- May 9 - 11, 2022, Virtual
 - July 11 - 13, 2022, In-person, Washington, DC
 - September 13 - 15, 2022, Philadelphia, PA
 - November 7 - 9, 2022, Virtual
