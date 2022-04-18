@@ -26,6 +26,8 @@ The Access Board is partnering with Department of Transportation to develop guid
 
 ### Medical Diagnostic Equipment
 
+![hospital bed]({{ site.baseurl }}/images/uploads/hospital-bed-animation.png "hospital bed"){: .img-right}
+
 The Access Board issues [Direct Final Rule](https://www.regulations.gov/docket/ATBCB-2022-0002) (DFR) extending the sunset provision regarding the specification for low transfer heights for three years. On May 12, the Access Board will hold a virtual public information meeting on accessible medical diagnostic equipment (MDE) and the adjustability of transfer surfaces for patients who use wheelchairs. Visit the Board's [news release](https://www.access-board.gov/news/2022/04/13/u-s-access-board-to-host-virtual-public-meeting-on-low-transfer-surface-height-for-medical-diagnostic-equipment/) for more information.
 
 ### Self-service Transaction Machines
