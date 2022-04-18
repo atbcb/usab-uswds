@@ -1,7 +1,7 @@
 ---
 banner-title: Access Board Initiatives
 title: Initiatives
-layout: page-right-sidenav
+layout: default
 right-sidenav: sidenav-initiatives.html
 permalink: /initiatives/about.html
 ---
