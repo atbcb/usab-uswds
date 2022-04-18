@@ -12,7 +12,7 @@ permalink: /initiatives/about.html
 
 ![airplane departing]({{ site.baseurl }}/images/uploads/airplanedeparture.jpg "airplane departing"){: .img-right}
 
-The inability to use one’s wheelchair on airplanes makes air travel very difficult, if not impossible, for many people with disabilities. Among other challenges, it requires multiple transfers between boarding chairs and aircraft seats, posing injury risks. Visit the Access Board's [Aircraft page]({{ site.baseurl }}/aircraft/) to learn more about improving the usability and reliably of onboard wheelchairs on aircraft.
+The inability to use one’s wheelchair on airplanes makes air travel very difficult, if not impossible, for many people with disabilities. Among other challenges, it requires multiple transfers between boarding chairs and aircraft seats, posing injury risks. Visit the Access Board's [Aircraft page]({{ site.baseurl }}/aircraft/) to learn more about improving the usability and reliably of onboard wheelchairs on aircraft. 
 
 ### Autonomous Vehicles
 
