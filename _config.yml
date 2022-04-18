@@ -73,14 +73,6 @@ primary_navigation:
     url: /about/
   - name: News
     url: /news/
-  - name: Advancing Access
-    children:
-      - name: Initiatives & Rulemaking
-        url: /initiatives/about.html
-      - name: Outreach
-        url: /outreach/about/
-      - name: Research
-        url: /research/
   - name: Guidelines & Standards
     url: /gs/
     children:
@@ -104,6 +96,8 @@ primary_navigation:
     url: /webinars/
   - name: File an ABA Complaint
     url: /enforcement/
+  - name: Research
+    url: /research/
   - name: Contact Us
     url: /contact/
 
