@@ -10,7 +10,7 @@ permalink: /outreach/about/
 
 ![microphone]({{ site.baseurl }}/images/uploads/microphone.png "microphone"){: .img-right}
 
-The Access Board hosts various public events, including hearings, briefings, town halls, information sessions, and presentations, to inform the public on accessible design and acquire feedback from the public on accessibility. Visit the Access Board's [Events page]({{ site.baseurl }}/events/) for more information. 
+The Access Board hosts various public events, including hearings, briefings, town halls, information sessions, and presentations, to inform the public on accessible design and acquire feedback from the public on accessibility. Visit the Access Board's [Events page]({{ site.baseurl }}/events/) for more information.
 
 ### Diversity, Equity, Inclusion, and Accessibility
 
