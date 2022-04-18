@@ -3,7 +3,7 @@ banner-title: Access Board Outreach
 title: Outreach
 layout: page-right-sidenav
 right-sidenav: sidenav-initiatives.html
-permalink: /outreach/about/
+permalink: /outreach/about.html
 ---
 
 ### Public Events
