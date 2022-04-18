@@ -1,7 +1,7 @@
 ---
 banner-title: Access Board Initiatives
 title: Initiatives
-layout: default
+layout: page-right-sidenav
 right-sidenav: sidenav-initiatives.html
 permalink: /initiatives/about.html
 ---
@@ -10,7 +10,7 @@ permalink: /initiatives/about.html
 
 ### Air Travel
 
-{% asset images/uploads/airplanedeparture.jpg alt="airplane departing" %}
+![airplane departing]({{ site.baseurl }}/images/uploads/airplanedeparture.jpg "airplane departing"){: .img-right}
 
 The inability to use one’s wheelchair on airplanes makes air travel very difficult, if not impossible, for many people with disabilities. Among other challenges, it requires multiple transfers between boarding chairs and aircraft seats, posing injury risks. To address these challenges, the Access Board commissioned a study to assess the feasibility of equipping aircraft with securement systems and developed onboard wheelchair voluntary guidelines. Visit the Access Board's [Aircraft page]({{ site.baseurl }}/aircraft/) for more information. In addition, the Access Board is developing volunatry guidelines to improve the usability and reliably of onboard wheelchairs on aircraft.
 
