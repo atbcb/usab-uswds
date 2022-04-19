@@ -1,3 +1,10 @@
+- title: Equity Action Plan
+  text: Learn more about the Board’s Equity Action Plan pursuant to Executive Order 13985 on “Advancing Racial Equity and Support for Underserved Communities Through the Federal Government.”
+  image: /images/stock/hero-diversepeople.png
+  description: animations of about 30 people of different races, genders, and abilities
+  linkto: /equity/
+  linktext: Learn More
+  
 - title: Equity and Accessibilty in the Federal Workplace for Employees with Disabilities  
   text: "Resources for federal agencies to ensure equity and accessibility in promoting diversity, equity, inclusion, and accessibility (DEIA) in the federal workforce." 
   image: /images/uploads/people-around-desk.png
@@ -12,25 +19,11 @@
   linkto: /news/2022/01/13/u-s-access-board-hosts-virtual-event-on-equity-in-healthcare-for-people-with-disabilities/
   linktext: Learn More 
   
-- title: Architectural Trends and Social Justice 
-  text: "Learn more about the Board's virtual public event on architectural trends and social justice on November 10, 2021." 
-  image: /images/stock/hero-architecturesky.jpg 
-  description: Architectural building frame lines organized diagonally with open space in center for viewing sky 
-  linkto: /news/2021/11/15/u-s-access-board-hosts-virtual-event-on-architectural-trends-and-social-justice/ 
-  linktext: Learn More 
-  
 - title: Wheelchair Securement Systems in Passenger Aircraft
   text: "Learn more about the Board's public briefing on wheelchair securement systems in passenger aircraft on September 22, 2021."
   image: /images/stock/aircraft.jpg
   description: Airplane flying into sunset
   linkto: /news/2021/09/23/u-s-access-board-holds-public-briefing-on-study-on-the-feasibility-of-wheelchair-securement-systems-in-passenger-aircraft/ 
-  linktext: Learn More
-
-- title: Inclusive Exercise and Fitness Equipment
-  text: "Learn more about the Board's virtual meeting on inclusive exercise and fitness equipment on July 14, 2021."
-  image: /images/stock/hero-fitness02.jpeg
-  description: Background image of fitness exercise equipment
-  linkto: /news/2021/07/15/u-s-access-board-holds-virtual-meeting-on-inclusive-exercise-and-fitness-equipment/
   linktext: Learn More
 
 - title: Autonomous Vehicles
@@ -61,23 +54,9 @@
   linkto: /news/
   linktext: Learn More
   
-- title: Board Meetings
-  text: "Register and access the agenda for the U.S. Access Board’s bimonthly meetings that are open to the public."
-  image: /images/stock/hero-boardmeeting.jpeg
-  description: Background image of a board meeting
-  linkto: /about/meetings.html
-  linktext: Learn More
-  
 - title: ABA Complaints
   text: "File an Architectural Barriers Act of 1968 (ABA) complaint for encounters or awareness of an accessibility barrier at a federal building or facility."
   image: /images/stock/hero-abacomplaint.jpeg
   description: Background image of eyeglasses on a complaint form
   linkto: /enforcement/
-  linktext: Learn More
-  
-- title: Research
-  text: "Learn about the Board’s ongoing and completed research initiatives."
-  image: /images/stock/hero-research.jpeg
-  description: Background image of gears with the words "research, expertise, knowledge, consulting"
-  linkto: /research/
   linktext: Learn More
