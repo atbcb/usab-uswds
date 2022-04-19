@@ -25,13 +25,6 @@ Self-driving cars, shuttles, and other vehicles stand to revolutionize transport
 ![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station.png "electric vehicle charging station"){: .img-right}
 
 The Access Board is partnering with Department of Transportation to develop guidance on making electric vehicle (EV) charging stations accessible.
-<b>
-  <b>
-    <b>
-      <b>
-        <b>
-          <b>
-            <b>
 
 ### Medical Diagnostic Equipment
 
