@@ -24,7 +24,7 @@ Self-driving cars, shuttles, and other vehicles stand to revolutionize transport
 
 ![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station.png "electric vehicle charging station"){: .img-right}
 
-Electric vehicles (EV) are becoming more common on America's roads, and they require public charging stations for Americans to travel long distances. It is crucical that these charging stations be accessible for people with disabilities. The Access Board is partnering with Department of Transportation to develop guidance on making EV charging stations accessible. 
+Electric vehicles (EV) are becoming more common on America's roads, and they require public charging stations for Americans to travel long distances. It is crucical that these charging stations be accessible for people with disabilities. The Access Board is partnering with Department of Transportation to develop guidance on making EV charging stations accessible.
 
 ### Medical Diagnostic Equipment
 
