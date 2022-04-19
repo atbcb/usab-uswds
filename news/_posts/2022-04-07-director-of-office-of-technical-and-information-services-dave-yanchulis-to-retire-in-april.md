@@ -10,7 +10,7 @@ excerpt: Dave Yanchulis, the U.S. Access Board’s Director of Office of Technic
   in the development and update of . . .
 image: /images/uploads/dave-yanchulis-small.png
 image_alt_text: Portrait of Dave Yanchulis
-featured: true
+featured: false
 ---
 Dave Yanchulis, the U.S. Access Board’s Director of Office of Technical and Information Services (OTIS), will retire from federal service at the end of this month. A Board employee for over 36 years, Yanchulis served in various capacities, including many years as an Accessibility Specialist. He was active in the development and update of the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Guidelines.  He also led the production of guidance materials and animations on accessibility, including the Board’s online Guide to the ADA and ABA Accessibility Standards. In 2018, he was named OTIS Director. 
 
