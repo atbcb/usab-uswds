@@ -24,6 +24,6 @@ On January 26, 2021, President Biden issued a [Memorandum on Tribal Consultation
 
 ### Underserved Communities
 
-![diverse silhouettes facing left]({{ site.baseurl }}/images/uploads/diverse-silhouettes.png "diverse silhouettes facing left"){: .img-right}
+{% asset stock/diverse-silhouettes.png class="img-right" alt="diverse silhouettes facing left" %}
 
 As part of its [Strategic Plan FY 2022-2026](https://www.access-board.gov/about/strategic-plan-fy2022.html), the Access Board has developed a new focus on equity and inclusion in underserved communities as it continues to strengthen its initatives, programs, and services. In accordance with [Executive Order 13985](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/01/20/executive-order-advancing-racial-equity-and-support-for-underserved-communities-through-the-federal-government/) *Advancing Racial Equity and Support for Underserved Communities Through the Federal Government*, the Access Board also released its [Equity Action Plan]({{ site.baseurl }}/equity/). 
