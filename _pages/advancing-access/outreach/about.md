@@ -14,7 +14,7 @@ The Access Board hosts various public events, including hearings, briefings, tow
 
 ### Diversity, Equity, Inclusion, and Accessibility
 
-![one person sitting in a chair next to a person in a wheelchair at a computer]({{ site.baseurl }}/images/uploads/people-at-desk.png "one person sitting in a chair next to a person in a wheelchair at a computer"){: .img-right}
+![Capitol building]({{ site.baseurl }}/images/uploads/capitol-3d.png "capitol building"){: .img-right}
 
 Part of President Biden’s [Executive Order 14035](https://www.whitehouse.gov/briefing-room/presidential-actions/2021/06/25/executive-order-on-diversity-equity-inclusion-and-accessibility-in-the-federal-workforce/) *Diversity, Equity, Inclusion, and Accessibility (DEIA) in the Federal Workforce* calls on federal agencies to ensure that their facilities are fully accessible to employees with disabilities as required by the Architectural Barriers Act (ABA). The Access Board developed a DEIA Strategic Plan and a set of recommendations and resources to aid agencies in drafting the portions of their strategic plans required under Executive Order 14035 dealing with accessibility. Visit the Access Board's [DEIA page]({{ site.baseurl }}/deia/about/) for more information.
 
