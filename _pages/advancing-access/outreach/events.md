@@ -29,7 +29,7 @@ The Access Board regularly holds public events.
 > Contact: Bobby Stinnette of the Board at [stinnette@access-board.gov](mailto:stinnette@access-board.gov) or 1-202-272-0021 
 
 > ***Town Hall***\
-> September 14, 2022, 1:00 – 2:15 p.m. (ET)\
+> September 14, 2022, 1:30 – 3:30 p.m. (ET)\
 > Gustine Recreation Center\
 > 4868 Ridge Ave.\
 > Philadelphia, PA 19129
