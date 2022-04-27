@@ -42,8 +42,7 @@ For more information about the Access Board’s research program, contact Dave Y
 -   [Anthropometry of Wheeled Mobility Project](http://idea.ap.buffalo.edu/projects/anthropometry/) (2011) IDEA Center
 -   [Guidelines for Aircraft Boarding Chairs: Technical Paper]({{ site.baseurl }}/research/human/guidelines-aircraft/) (1987)
 -   [The Impact of Transfer Setup on the Performance of Independent Transfers - Phase I](http://herl.pitt.edu/ab/) (2011) VA Human Engineering Research Laboratory
--   [Independent Wheelchair Transfers in the Built Environment: How Transfer Setup Impacts Performance - Phase II](http://herl.pitt.edu/ab/) (2015) VA Human Engineering Research Laboratory**\
-    **
+-   [Independent Wheelchair Transfers in the Built Environment: How Transfer Setup Impacts Performance - Phase II](http://herl.pitt.edu/ab/) (2015) VA Human Engineering Research Laboratory
 
 ### Passenger Vessels
 
