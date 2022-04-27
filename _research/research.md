@@ -19,7 +19,6 @@ For more information about the Access Board’s research program, contact Dave Y
 
 -   [Dimensional Tolerances in Construction and for Surface Accessibility]({{ site.baseurl }}/research/building/dimensional-tolerances/) (2011)
 -   [Indoor Environmental Quality]({{ site.baseurl }}/research/building/indoor-environmental-quality/) (2006)
--   [Swimming Pool Accessibility]({{ site.baseurl }}/research/building/swimming-pool-accessibility) (1996)
 -   [Toilet and Bathing Facilities for Assisted Transfers: Design Best Practices]({{ site.baseurl }}/research/building/toilet-bathing-facilities-assisted-transfers/) (2001)
 
 ### Communication and Information
@@ -27,11 +26,9 @@ For more information about the Access Board’s research program, contact Dave Y
 -   [Accessible Information/Transaction Machines](http://trace.wisc.edu/world/kiosks/itms/index.html) (2000) Trace Research and Development Center
 -   [Assistive Listening Systems]({{ site.baseurl }}/research/communication/assistive-listening-systems/)
 -   [Exhibit Design Relating to Low Vision and Blindness Summary Report](http://www.ncaonline.org/resources/articles/exhibitdesignlowvision.shtml) (2011) National Center on Accessibility
--   [Variable Message Signing: Legibility for Readers with Vision Loss]({{ site.baseurl }}/research/communication/variable-message-signing/) (2002)
 
 ### Exterior Surfaces
 
--   [Accessible Exterior Surfaces]({{ site.baseurl }}/research/exterior-surfaces/accessible-exterior-surfaces/) (1999)
 -   [Development of Surface Roughness Standards for Pathways Used by Wheelchair Users:  Final Report]({{ site.baseurl }}/research/exterior-surfaces/surface-roughness-standards/) (2014)
 -   [Engineered Wood Fiber - Play Surfaces]({{ site.baseurl }}/research/exterior-services/engineered-wood-fiber/playground-surfaces-2003/) (2003)
     -   [Play Surfaces: Installation and Serviceability Results]({{ site.baseurl }}/research/exterior-services/engineered-wood-fiber/playground-surfaces-2004/) (2004)
