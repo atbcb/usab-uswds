@@ -30,9 +30,10 @@ The Access Board regularly holds public events.
 
 > ***Town Hall***\
 > September 14, 2022, 1:30 – 3:30 p.m. (ET)\
-> Gustine Recreation Center\
-> 4868 Ridge Ave.\
-> Philadelphia, PA 19129
+> Liberty Resources, Inc.\
+> 112 N. 8th St.\
+> Philadelphia, PA 19107\
+
 
 ### Public Events Archives
 
