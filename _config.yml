@@ -75,7 +75,7 @@ primary_navigation:
     url: /news/
   - name: Advancing Access
     children:
-      - name: Initiatives & Rulemaking
+      - name: Rulemaking & Initiatives
         url: /initiatives/about.html
       - name: Outreach
         url: /outreach/about/
