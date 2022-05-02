@@ -10,17 +10,32 @@ The Access Board provides technical guidance on its accessibility guidelines and
 
 Phone icon. Phone 1-800-872-2253 for all your technical assistance needs regarding the guidelines and standards covered by the Americans with Disabilities Act (ADA), Architectural Barriers Act (ABA), and Section 508 of the Rehabilitation Act.    
 
-TA icon. Email <ta@access-board.gov> for technical assistance on general building and facilities. 
+- title: "Building &amp; Sites"
+  description: "Email <ta@access-board.gov> for technical assistance on general building and facilities."
+  image-file: highlights/building-square.jpg
+  alt: "office building (photo from outside, showing a dramatic perspective on the leading edge corner)"
+- title: "Information &amp; Communication Technology"
+  description: "Email <508@access-board.gov> for questions on the Access Board’s standards for information and communication technology (ICT)."
+  image-file: highlights/ict-square.jpg
+  alt: "refreshable braille keyboard (photo shows fingers on the i/o controls, and the edge of a computer keyboard positioned on top)"
+- title:
+  description: "Email <outdoor@access-board.gov> for questions about outdoor areas, including trails, beaches, and picnic and camping areas."
+  image-file: 
+  alt:
+- title: "Streets &amp; Sidewalks"
+  description: "Proposed guidelines for public rights-of-way and shared use paths."
+  image-file: highlights/cane-square.jpg
+  alt: "cane trailing sidewalk (photo closeup on cane with red stripe and white bulb at end, in front of a blurred shoe)"
+  link: /prowag/
+- title: Passenger Vessels
+  description: "Email <pvag@access-board.gov> for questions about passenger vessels, including cruise ships, ferries, and tenders intended to transport passengers."
+  image-file: highlights/vessel-square.jpg
+  alt: "cruise ship at sea (photo is from a birds eye perspective)"
+- title: Healthcare
+  description: "Email <mde@access-board.gov> for questions about accessibility standards for medical diagnostic equipment, including exam tables, scales, x-ray, and other equipment."
+  image-file: highlights/mri-square.jpg
+  alt: "medical imaging machine (photo shows empty patient table at tunnel entrance of large device)"
 
-508 icon. Email <508@access-board.gov> for questions on the Access Board’s standards for information and communication technology (ICT). 
-
-MDE icon. Email <mde@access-board.gov> for questions about accessibility standards for medical diagnostic equipment, including exam tables, scales, x-ray, and other equipment. 
-
-Recreation icon. Email <outdoor@access-board.gov> for questions about outdoor areas, including trails, beaches, and picnic and camping areas. 
-
-PV icon. Email <pvag@access-board.gov> for questions about passenger vessels, including cruise ships, ferries, and tenders intended to transport passengers. 
-
-PROW icon. Email <row@access-board.gov> for questions about public rights-of-way, including sidewalks, street crossings, and other pedestrian used features.
 
 Standards & Guidelines icon. The Access Board develops and maintains design criteria for the built environment, transit vehicles, information and communication technology, and medical diagnostic equipment under the Americans with Disabilities Act of 1990 (ADA) and the Architectural Barriers Act of 1968 (ABA) and other laws 
 
