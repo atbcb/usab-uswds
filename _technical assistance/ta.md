@@ -1,7 +1,6 @@
 ---
 title: Technical Assistance
 layout: page-right-sidenav
-right-sidenav: sidenav-training.html
 permalink: /ta/
 ---
 
