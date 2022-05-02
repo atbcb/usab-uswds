@@ -34,8 +34,8 @@ The next virtual meeting of the Board will take place on **Wednesday, May 11, 20
 
 ## Future Board Meetings
 
-- July 11 - 13, 2022, In-person, Washington, DC
-- September 13 - 15, 2022, Philadelphia, PA
+- July 11 - 13, 2022, In-person, Washington, D.C.
+- September 13 - 15, 2022, In-person, Philadelphia, PA
 - November 7 - 9, 2022, Virtual
 
 ## Board Meeting Archives
