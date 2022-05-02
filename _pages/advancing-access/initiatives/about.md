@@ -8,7 +8,7 @@ permalink: /initiatives/about.html
 
 ## Rulemaking
 
-The Access Board takes on regulatory initiatives to develop accessibility guidelines and standards. Visit the Access Board's [Rulemaking page]({{ site.baseurl }}//rulemaking/about/) to learn about the process, history, and active and upcoming rulemakings. The Access Board's [Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014&csrf_token=4477D73C38800DD64CF55ADB1768D8D45A731BE31E15AB2A267391786B5743BB6B29078DCC57BFFFD1D816392F7FE84DBA51) is also available on Office of Management and Budget's website.
+The Access Board takes on regulatory initiatives to develop accessibility guidelines and standards. Visit the Access Board's [Rulemaking page]({{ site.baseurl }}//rulemaking/about/) to learn about the process, history, and active and upcoming rulemaking. The Access Board's [Unified Agenda](https://www.reginfo.gov/public/do/eAgendaMain?operation=OPERATION_GET_AGENCY_RULE_LIST&currentPub=true&agencyCode=&showStage=active&agencyCd=3014&csrf_token=4477D73C38800DD64CF55ADB1768D8D45A731BE31E15AB2A267391786B5743BB6B29078DCC57BFFFD1D816392F7FE84DBA51) is also available on Office of Management and Budget's website.
 
 ## Initiatives
 
@@ -28,13 +28,13 @@ Self-driving cars, shuttles, and other vehicles stand to revolutionize transport
 
 ![electric vehicle charging station]({{ site.baseurl }}/images/uploads/ev-station.png "electric vehicle charging station"){: .img-right}
 
-Electric vehicles (EV) are becoming more common on America's roads, and they require public charging stations for Americans to travel long distances. It is crucical that these charging stations be accessible for people with disabilities. The Access Board is partnering with Department of Transportation to develop guidance on making EV charging stations accessible.
+Electric vehicles (EV) are becoming more common on America's roads, and they require public charging stations for long-distance traveling. It is crucical that these charging stations be accessible for people with disabilities. The Access Board is partnering with Department of Transportation to develop guidance on making EV charging stations accessible.
 
 ### Medical Diagnostic Equipment
 
 ![hospital bed]({{ site.baseurl }}/images/uploads/hospital-bed-animation.png "hospital bed"){: .img-right}
 
-The Access Board issues [Direct Final Rule](https://www.regulations.gov/docket/ATBCB-2022-0002) (DFR) extending the sunset provision regarding the specification for low transfer heights for three years. On May 12, the Access Board will hold a virtual public information meeting on accessible medical diagnostic equipment (MDE) and the adjustability of transfer surfaces for patients who use wheelchairs. Visit the Board's [news release](https://www.access-board.gov/news/2022/04/13/u-s-access-board-to-host-virtual-public-meeting-on-low-transfer-surface-height-for-medical-diagnostic-equipment/) for more information.
+The Access Board issued a [Direct Final Rule](https://www.regulations.gov/docket/ATBCB-2022-0002) (DFR) extending the sunset provision regarding the specification for low transfer heights for three years. On May 12, 2022, the Access Board will hold a virtual public information meeting on accessible medical diagnostic equipment (MDE) and the adjustability of transfer surfaces for patients who use wheelchairs. Visit the Board's [news release](https://www.access-board.gov/news/2022/04/13/u-s-access-board-to-host-virtual-public-meeting-on-low-transfer-surface-height-for-medical-diagnostic-equipment/) for more information.
 
 ### Self-service Transaction Machines
 
