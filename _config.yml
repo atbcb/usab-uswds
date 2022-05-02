@@ -100,8 +100,12 @@ primary_navigation:
         url: /mde/
       - name: Prescription Drug Labels
         url: /rx.html
-  - name: Training & Webinars
-    url: /webinars/
+  - name: Services
+    children:
+      - name: Technical Assistance
+        url: /_technical assistance/about/
+      - name: Training & Webinars
+        url: /webinars/
   - name: File an ABA Complaint
     url: /enforcement/
   - name: Contact Us
