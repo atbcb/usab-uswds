@@ -54,36 +54,6 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               {% else %}
               <a href="{{ site.baseurl }}/law/">Laws</a>
               {% endif %}
-              <ul class="usa-sidenav__sublist">
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Americans with Disabilities Act" %}
-                  <a name="ada" class="usa-current">ADA &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/law/ada.html">ADA</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Architectural Barriers Act" %}
-                  <a name="aba" class="usa-current">ABA &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/law/aba.html">ABA</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Rehabilitation Act" %}
-                  <a name="ra" class="usa-current">Rehabilitation Act &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/law/ra.html">Rehabilitation Act</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Telecommunications Act" %}
-                  <a name="ta" class="usa-current">Telecommunications Act &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/law/ta.html">Telecommunications Act</a>
-                  {% endif %}
-                </li>
-              </ul>
             </li>
             <li class="usa-sidenav__item">
               {% if page.title == "Policies" %}
