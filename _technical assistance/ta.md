@@ -1,6 +1,7 @@
 ---
 title: Technical Assistance
-layout: page-right-sidenav
+layout: page
+sidenav: false
 permalink: /ta/
 ---
 
