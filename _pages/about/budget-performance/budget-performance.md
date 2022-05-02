@@ -8,11 +8,11 @@ permalink: /budget-performance/
 
 # {{ page.title }} of the Access Board
 
-* [Strategic Plan FY 2022 - 2026](https://www.access-board.gov/about/strategic-plan-fy2022.html) 
-* [Performance and Accountability Report](https://www.access-board.gov/about/par.html)
-* [Budget Justification](https://www.access-board.gov/cj/) 
-* [FOIA Annual Report](https://www.access-board.gov/about/foia-report.html) 
-* [Chief FOIA Officer Report](https://www.access-board.gov/about/foia-cfor.html) 
-* [No FEAR Act Data](https://www.access-board.gov/about/no-fear-data.html) 
-* [No FEAR Act Reports](https://www.access-board.gov/about/no-fear-report.html)  
-* [Employee Survey Results](https://www.access-board.gov/about/fevs.html) 
+* [Strategic Plan FY 2022 - 2026]({{ site.baseurl }}/about/strategic-plan-fy2022.html) 
+* [Performance and Accountability Report]({{ site.baseurl }}/about/par.html)
+* [Budget Justification]({{ site.baseurl }}/cj/) 
+* [FOIA Annual Report]({{ site.baseurl }}/about/foia-report.html) 
+* [Chief FOIA Officer Report]({{ site.baseurl }}/about/foia-cfor.html) 
+* [No FEAR Act Data]({{ site.baseurl }}/about/no-fear-data.html) 
+* [No FEAR Act Reports]({{ site.baseurl }}/about/no-fear-report.html)  
+* [Employee Survey Results]({{ site.baseurl }}/about/fevs.html) 
