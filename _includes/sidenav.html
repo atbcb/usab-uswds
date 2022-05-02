@@ -86,15 +86,12 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               </ul>
             </li>
             <li class="usa-sidenav__item">
-              <a name="policy">Policies</a>
-              <ul class="usa-sidenav__sublist">
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Accessibility Statement" %}
-                  <a name="accessibility" class="usa-current">Accessibility Statement &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/policy/accessibility.html">Accessibility Statement</a>
-                  {% endif %}
-                </li>
+              {% if page.title == "Policies" %}
+              <a name="policies" class="usa-current">Policies &rarr;</a>
+              {% else %}
+              <a href="{{ site.baseurl }}/policy/about/">Policy</a>
+              {% endif %}
+            </li>
                 <li class="usa-sidenav__item">
                   {% if page.title == "Fragrance-Free Environment" %}
                   <a name="ffe" class="usa-current">Fragrance-Free Environment &rarr;</a>
