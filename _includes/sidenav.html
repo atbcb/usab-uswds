@@ -42,65 +42,11 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               {% endif %}
             </li>
             <li class="usa-sidenav__item">
-              <a name="bp">Budget and Performance</a>
-              <ul class="usa-sidenav__sublist">
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Strategic Plan FY 2022-2026" %}
-                  <a name="par" class="usa-current">Strategic Plan FY 2022 - 2026 &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/strategic-plan-fy2022.html">Strategic Plan FY 2022 - 2026</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Performance and Accountability Report" %}
-                  <a name="par" class="usa-current">Performance and Accountability Report &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/par.html">Performance and Accountability Report</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Budget Justification" %}
-                  <a name="cj" class="usa-current">Budget Justification &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/cj/">Budget Justification</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "FOIA Annual Report" %}
-                  <a name="foia-report" class="usa-current">FOIA Annual Report &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/foia-report.html">FOIA Annual Report</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Chief FOIA Officer Report" %}
-                  <a name="foia-cfor" class="usa-current">Chief FOIA Officer Report &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/foia-cfor.html">Chief FOIA Officer Report</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "No FEAR Act Data" %}
-                  <a name="nfad" class="usa-current">No FEAR Act Data &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/no-fear-data.html">No FEAR Act Data</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "No FEAR Act Report" %}
-                  <a name="nfar" class="usa-current">No FEAR Act Report &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/no-fear-report.html">No FEAR Act Report</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Employee Survey Results" %}
-                  <a name="fevs" class="usa-current">Employee Survey Results &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/fevs.html">Employee Survey Results</a>
-                  {% endif %}
-                </li>
-              </ul>
+              {% if page.title == "Budget and Performance" %}
+              <a name="budget-performance" class="usa-current">Budget and Performance &rarr;</a>
+              {% else %}
+              <a href="{{ site.baseurl }}/budget-performance/">Budget and Performance</a>
+              {% endif %}
             </li>
             <li class="usa-sidenav__item">
               {% if page.title == "Laws" %}
