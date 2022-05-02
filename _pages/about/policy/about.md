@@ -8,13 +8,13 @@ permalink: /policy/about/
 
 # {{ page.title }}
 
-* [Accessibility Statement](https://www.access-board.gov/about/policy/accessibility.html) 
-* [Fragrance-Free Environment](https://www.access-board.gov/about/policy/ffe.html) 
-* [Freedom of Information Act (FOIA)](https://www.access-board.gov/about/policy/foia.html) 
-* [No FEAR Act Notice](https://www.access-board.gov/about/policy/no-fear-notice.html) 
-* [Information Quality](https://www.access-board.gov/about/policy/iq.html) 
-* [Plain Language (PWA)](https://www.access-board.gov/about/policy/plain.html) 
-* [Privacy Policy and Program](https://www.access-board.gov/about/policy/privacy.html) 
-* [Reasonable Accommodation Procedures](https://www.access-board.gov/about/policy/ra.html) 
-* [Shutdown Plan](https://www.access-board.gov/about/policy/shutdown.html) 
-* [Vulnerability Disclosure Policy](https://www.access-board.gov/vulnerability-disclosure-policy/) 
+* [Accessibility Statement]({{ site.baseurl }}/about/policy/accessibility.html) 
+* [Fragrance-Free Environment]({{ site.baseurl }}/about/policy/ffe.html) 
+* [Freedom of Information Act (FOIA)]({{ site.baseurl }}/about/policy/foia.html) 
+* [No FEAR Act Notice]({{ site.baseurl }}/about/policy/no-fear-notice.html) 
+* [Information Quality]({{ site.baseurl }}/about/policy/iq.html) 
+* [Plain Language (PWA)]({{ site.baseurl }}/about/policy/plain.html) 
+* [Privacy Policy and Program]({{ site.baseurl }}/about/policy/privacy.html) 
+* [Reasonable Accommodation Procedures]({{ site.baseurl }}/about/policy/ra.html) 
+* [Shutdown Plan]({{ site.baseurl }}/about/policy/shutdown.html) 
+* [Vulnerability Disclosure Policy]({{ site.baseurl }}/vulnerability-disclosure-policy/) 
