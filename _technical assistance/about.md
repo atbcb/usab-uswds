@@ -6,22 +6,18 @@ permalink: /technical-assistance/
 ---
 
 
-Standards & Guidelines icon. The Board develops and maintains design criteria for the built environment, transit vehicles, information and communication technology, and medical diagnostic equipment under the Americans with Disabilities Act of 1990 (ADA) and other laws 
+The Board provides technical guidance on its accessibility guidelines and standards and accessible design through its toll-free helpline at 1-800-872-2253 and by email at <ta@access-board.gov> from 10:00 a.m. to 5:00 p.m. (ET) weekdays. Accessibility specialists are available to answer questions on accessibility as it relates to the built environment, outdoor sites, streets and sidewalks, transportation vehicles and vessels, information and communication technology, and medical diagnostic equipment. 
 
-TA icon. The Board provides technical assistance on the ADA and ABA requirements and on accessible design. 
+Phone icon. Phone 1-800-872-2253 for all your technical assistance needs regarding the guidelines and standards addressed by the Board.    
 
-Guides icon. The ADA and ABA guides explain requirements in the current editions of the ADA Guidelines and ABA Standards. The guides also provide clearly labeled recommendations for best practices that exceed the minimum requirements. 
+TA icon. Email ta@access-board.gov For general building and facilities technical assistance. 
 
-Animations icon. 
+508 icon. Email 508@access-board.gov for questions on the Board’s standards for information and communication technology (ICT). 
 
+MDE icon. Email mde@access-board.gov for questions about accessibility standards for medical diagnostic equipment, including exam tables, scales, x-ray, and other equipment. 
 
-508 icon. Email <508@access-board.gov> for questions on the Board’s standards for ICT. 
+Recreation icon. Email outdoor@access-board.gov for questions about outdoor areas, including trails, beaches, and picnic and camping areas. 
 
-MDE icon. Email <mde@access-board.gov> for questions about accessibility standards for medical diagnostic equipment. 
+PV icon. Email pvag@access-board.gov for questions about passenger vessels, including cruise ships, ferries, and tenders intended to transport passengers. 
 
-Recreation icon. Email <outdoor@access-board.gov> for questions about outdoor areas, including trails, beaches, and picnic and camping areas. 
-
-PV icon. Email <pvag@access-board.gov> for questions about passenger vessels. 
-
-PROW icon. Email <row@access-board.gov> for questions about public rights-of-way, including streets and sidewalks. 
-
+PROW icon. Email row@access-board.gov for questions about public rights-of-way, including sidewalks, street crossings, and other pedestrian used features. 
