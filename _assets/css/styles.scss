@@ -1,8 +1,23 @@
-// Import the US Web Design System SASS
-@import "uswds";
+/*
+  Customize US Web Design System SASS
+  See all at designsystem.digital.gov/documentation/settings
+*/
+
+// Example - Override the background image in the hero component using SASS:
+// $theme-hero-image: asset_path("whatever-the-default-is.png");
+
+// @import 'uswds';
 
 // Import individual theme settings
-@import "theme/all";
+@import "uswds-theme-general";
+@import "uswds-theme-typography";
+@import "uswds-theme-spacing";
+@import "uswds-theme-color";
+@import "uswds-theme-utilities";
+@import "uswds-theme-custom-styles";
+
+// Components need to be imported last.
+@import "uswds-theme-components";
 
 $theme-hero-image: asset_path("hero-wc-temp.jpg");
 
