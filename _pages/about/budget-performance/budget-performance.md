@@ -3,7 +3,7 @@ title: **Budget and Peformance**
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /budget-and-performance/
+permalink: /budget-performance/
 ---
 
 # {{ page.title }} of the Access Board
