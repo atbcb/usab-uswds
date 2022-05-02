@@ -14,13 +14,13 @@ The Access Board takes on regulatory initiatives to develop accessibility guidel
 
 ### Air Travel
 
-![airplane departing]({{ site.baseurl }}/images/uploads/airplane-small.jpg "airplane departing"){: .img-right}
+![airplane departing]({{ site.baseurl }}/images/uploads/airplane-small.png "airplane departing"){: .img-right}
 
 The inability to use one’s wheelchair on airplanes makes air travel very difficult, if not impossible, for many people with disabilities. Among other challenges, it requires multiple transfers between boarding chairs and aircraft seats, posing injury risks. Visit the Access Board's [Aircraft page]({{ site.baseurl }}/aircraft/) to learn more about improving the usability and reliably of onboard wheelchairs on aircraft. 
 
 ### Autonomous Vehicles
 
-![autonomous bus]({{ site.baseurl }}/images/uploads/av-bus-small.jpg "autonomous bus"){: .img-right}
+![autonomous bus]({{ site.baseurl }}/images/uploads/av-bus-small.png "autonomous bus"){: .img-right}
 
 Self-driving cars, shuttles, and other vehicles stand to revolutionize transportation and have the potential to dramatically expand transit options for people with disabilities. Their cutting-edge technologies and engineering innovations have the potential to significantly expand transit options for many people, including those with disabilities. It is important that autonomous vehicles (AVs) are designed to be inclusive of everyone. Visit the Access Board's [AV page]({{ site.baseurl }}/av/) for more information.
 
