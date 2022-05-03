@@ -101,7 +101,7 @@ primary_navigation:
       - name: Prescription Drug Labels
         url: /rx.html
   - name: Training & Webinars
-        url: /webinars/
+    url: /webinars/
   - name: File an ABA Complaint
     url: /enforcement/
   - name: Contact Us
