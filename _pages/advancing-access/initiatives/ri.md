@@ -3,7 +3,7 @@ banner-title: Access Board Rulemaking and Initiatives
 title: Initiatives
 layout: page-right-sidenav
 right-sidenav: sidenav-initiatives.html
-permalink: /ri
+permalink: /ri/
 ---
 
 ## Rulemaking
@@ -41,4 +41,3 @@ The Access Board issued a [Direct Final Rule](https://www.regulations.gov/docket
 ![atm machine]({{ site.baseurl }}/images/uploads/sstm-small.png "atm machine"){: .img-right}
 
 Self-service transaction machines (SSTMs) and self-service kiosks are now a common feature in places of public accommodation, government offices, and other facilities. They allow customers to conduct an expanding range of transactions and functions independently. However, SSTMs and self-service kiosks have long posed accessibility barriers to people with disabilities, particularly those who are blind or have low vision. Visit the Access Board's [SSTMs page]({{ site.baseurl }}/sstms/) for more information. 
-
