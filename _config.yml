@@ -76,9 +76,9 @@ primary_navigation:
   - name: Advancing Access
     children:
       - name: Rulemaking & Initiatives
-        url: /ri
+        url: /ri/
       - name: Outreach
-        url: /outreach
+        url: /outreach/
       - name: Research
         url: /research
   - name: Guidelines & Standards
