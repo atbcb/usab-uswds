@@ -22,13 +22,13 @@ RIN 3014-AA11
 - Federal eRulemaking Portal: [http://www.regulations.gov](http://www.regulations.gov/#!docketDetail;D=ATBCB-2013-0003).  Follow the instructions for submitting comments.  Regulations.gov ID for this docket is ATBCB-2013-0003.
 - E-mail:  <pvag@access-board.gov>.  Include docket number ATBCB-2013-0003 in the subject line of the message.
 - Fax:  202-272-0081.
-- Mail or Hand Delivery/Courier:  Paul Beatty, Access Board, 1331 F Street, NW, Suite 1000, Washington, DC  20004-1111.
+- Mail or Hand Delivery/Courier: Juliet Shoultz, Access Board, 1331 F Street, NW, Suite 1000, Washington, DC  20004-1111.
 
 All comments received, including any personal information provided, will be posted without change to [http://www.regulations.gov](http://www.regulations.gov/) and are available for public viewing.
 
 The hearing will be held in the Access Board Conference Room, 1331 F Street, NW, Suite 800, Washington, DC 20004. Witnesses can testify in person or by telephone.  Call-in information and a communication access real-time translation (CART) web streaming link will be posted on the Access Board's Passenger Vessels homepage at [http://www.access-board.gov/pvag/](https://www.access-board.gov/guidelines-and-standards/transportation/passenger-vessels/about).  The hearing will be accessible to persons with disabilities.  An assistive listening system, communication access real-time translation (in-person and streaming), sign language interpreters, and a call-in number will be provided. Persons attending the meetings are requested to refrain from using perfume, cologne, and other fragrances for the comfort of other participants (see www.access-board.gov/about/policies/fragrance.htm for more information).
 
-**FOR FURTHER INFORMATION CONTACT:**  Paul Beatty, Access Board, 1331 F Street, NW, Suite 1000, Washington, DC 20004-1111.  Telephone:  (202) 272-0012 (voice) or (202) 272-0072 (TTY).  E-mail address:  <pvag@access-board.gov>.
+**FOR FURTHER INFORMATION CONTACT:**  Juliet Shoultz, Access Board, 1331 F Street, NW, Suite 1000, Washington, DC 20004-1111.  Telephone:  (202) 272-0045 (voice) or (202) 272-0072 (TTY).  E-mail address:  <pvag@access-board.gov>.
 
 ### SUPPLEMENTARY INFORMATION:
 
