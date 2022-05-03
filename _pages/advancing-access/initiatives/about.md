@@ -3,7 +3,7 @@ banner-title: Access Board Rulemaking and Initiatives
 title: Initiatives
 layout: page-right-sidenav
 right-sidenav: sidenav-initiatives.html
-permalink: /initiatives/about.html
+permalink: /ri/
 ---
 
 ## Rulemaking
