@@ -1,7 +1,7 @@
 ---
 title: Outreach to Underserved Communities
 layout: page-right-sidenav
-permalink: /underserved-communities/
+permalink: /uc/
 ---
 ## Outreach to Underserved Communities
 
