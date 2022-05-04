@@ -1,6 +1,6 @@
 ---
 title: Online Architectural Barriers Act (ABA) Complaint Form
-layout: page
+layout: page-full
 sidenav: false
 permalink: /enforcement/complaint.html
 ---
@@ -8,7 +8,7 @@ permalink: /enforcement/complaint.html
 
 The Access Board enforces accessibility standards issued under the Architectural Barriers Act of 1968 (ABA). The ABA requires that buildings or facilities that were constructed or altered by or on behalf of the United States, or leased or financed in whole or in part by the United States, after August 12, 1968, be accessible to individuals with physical disabilities. Anyone can submit an ABA complaint.
 
-#### *Note:* Please bear in mind that the only complaints that should be filed through this system are complaints alleging violations of the ABA.  Complaints about other government services or issues, such as stimulus payments, Social Security Insurance and Social Security Disability Insurance (SSI/SSDI), benefits, tax, motor vehicle, health insurance, welfare, and any other topic unrelated to the accessibility of Federal buildings or facilities, should not be addressed to the Access Board but rather to the appropriate Federal, State, or local entity.  Complaints filed pursuant to Titles II or III of the Americans with Disabilities Act of 1990 (ADA), such as those related to accessibility barriers in State or local government buildings, as well as places of public accommodation (restaurants, hotels, bars, movie theaters, etc.), should be directed to the United States Department of Justice using its [Civil Rights Reporting Portal](https://https://civilrights.justice.gov/report/). For information on other Federal laws that address accessibility and protect the rights of people with disabilities, please refer to these [other resources](https://www.access-board.gov/enforcement/other-resources.html).
+*Note:* Please bear in mind that the only complaints that should be filed through this system are complaints alleging violations of the ABA.  Complaints about other government services or issues, such as stimulus payments, Social Security Insurance and Social Security Disability Insurance (SSI/SSDI), benefits, tax, motor vehicle, health insurance, welfare, and any other topic unrelated to the accessibility of Federal buildings or facilities, should not be addressed to the Access Board but rather to the appropriate Federal, State, or local entity.  Complaints filed pursuant to Titles II or III of the Americans with Disabilities Act of 1990 (ADA), such as those related to accessibility barriers in State or local government buildings, as well as places of public accommodation (restaurants, hotels, bars, movie theaters, etc.), should be directed to the United States Department of Justice using its [Civil Rights Reporting Portal](https://https://civilrights.justice.gov/report/). For information on other Federal laws that address accessibility and protect the rights of people with disabilities, please refer to these [other resources](https://www.access-board.gov/enforcement/other-resources.html).
 
 ## Filing a Complaint
 
@@ -28,7 +28,7 @@ Section 4: Attachments. If you have documents, photographs, or other electronic 
 
 Section 5: Submit. The "Submit My Complaint" button will be enabled when all required fields in the form have been completed. Please select "Submit My Complaint" only once. 
 
-#### *Note:* Following the successful submission of your complaint, a confirmation page will appear and show an automatically generated complaint number. If you provided your e-mail address in the complaint form, you will also receive an automatically generated e-mail confirming the successful complaint submission; that e-mail will also include your complaint number.  Later, if you wish to inquire as to the status of your complaint or provide additional information, e-mail us at <enforce@access-board.gov> and include the complaint number in the subject line. Finally, note that no “save” function is available for the form and that you must complete it in one sitting. 
+*Note:* Following the successful submission of your complaint, a confirmation page will appear and show an automatically generated complaint number. If you provided your e-mail address in the complaint form, you will also receive an automatically generated e-mail confirming the successful complaint submission; that e-mail will also include your complaint number.  Later, if you wish to inquire as to the status of your complaint or provide additional information, e-mail us at <enforce@access-board.gov> and include the complaint number in the subject line. Finally, note that no “save” function is available for the form and that you must complete it in one sitting. 
 
 [Click here to access the Online ABA Complaint Form](https://cts.access-board.gov/formsiq/form.do?form_name=Complaint%20Form)
 
@@ -43,7 +43,7 @@ Section 5: Submit. The "Submit My Complaint" button will be enabled when all req
 > 1331 F Street NW, Suite 1000  
 > Washington, DC&nbsp; 20004-1111 
             
-#### *Note:* If you file your complaint using one of the alternate methods, you must include the name and address of the building or facility in question, as well as a description of each accessibility barrier you encountered.  Also note that, due to the Covid-19 pandemic, if you file by mail or fax it may take longer than usual for us to process your complaint.  
+*Note:* If you file your complaint using one of the alternate methods, you must include the name and address of the building or facility in question, as well as a description of each accessibility barrier you encountered.  Also note that, due to the Covid-19 pandemic, if you file by mail or fax it may take longer than usual for us to process your complaint.  
 
 ## How We Handle Your Complaint
 
