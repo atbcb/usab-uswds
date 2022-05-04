@@ -7,9 +7,8 @@ permalink: /rulemaking/about/
 
 ### Active and Upcoming Rulemakings
 * [Medical Diagnostic Equipment](https://www.regulations.gov/docket/ATBCB-2022-0002)
-* [Passenger Vessels](https://www.access-board.gov/pvag/)
-* Pedestrian Facilities in the Public Right-of-Way
-* [Public Rights-of-Way](https://www.access-board.gov/prowag/)
+* [Passenger Vessels]({{ site.baseurl }}/pvag/)
+* [Pedestrian Facilities in the Public Right-of-Way]({{ site.baseurl }}/prowag/)
 * [Self-service Transaction Machines]({{ site.baseurl }}/sstms/)
 
 ### Rulemaking Process and History
