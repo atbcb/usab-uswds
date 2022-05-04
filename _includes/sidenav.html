@@ -20,16 +20,16 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               {% else %}
               <a href="{{ site.baseurl }}/about/meetings.html">Board Meetings</a>
               {% endif %}
-            </li>
-            <li class="usa-sidenav__item">
-              <a href="{{ site.baseurl }}/about/board-members/">Board Members</a>
+          </li>
+          <li class="usa-sidenav__item">
+            <a href="{{ site.baseurl }}/about/board-members/">Board Members</a>
             </li>
             <li class="usa-sidenav__item">
               <a href="{{ site.baseurl }}/about/staff/">Board Staff</a>
-            </li>
-            <li class="usa-sidenav__item">
+           </li>
+           <li class="usa-sidenav__item">
               {% if page.title == "Board History" %}
-              <a name="history" class="usa-current">Board History &rarr;</a>
+             <a name="history" class="usa-current">Board History &rarr;</a>
               {% else %}
               <a href="{{ site.baseurl }}/about/history.html">Board History</a>
               {% endif %}
@@ -42,65 +42,11 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               {% endif %}
             </li>
             <li class="usa-sidenav__item">
-              <a name="bp">Budget and Performance</a>
-              <ul class="usa-sidenav__sublist">
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Strategic Plan FY 2022-2026" %}
-                  <a name="par" class="usa-current">Strategic Plan FY 2022 - 2026 &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/strategic-plan-fy2022.html">Strategic Plan FY 2022 - 2026</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Performance and Accountability Report" %}
-                  <a name="par" class="usa-current">Performance and Accountability Report &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/par.html">Performance and Accountability Report</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Budget Justification" %}
-                  <a name="cj" class="usa-current">Budget Justification &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/cj/">Budget Justification</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "FOIA Annual Report" %}
-                  <a name="foia-report" class="usa-current">FOIA Annual Report &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/foia-report.html">FOIA Annual Report</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Chief FOIA Officer Report" %}
-                  <a name="foia-cfor" class="usa-current">Chief FOIA Officer Report &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/foia-cfor.html">Chief FOIA Officer Report</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "No FEAR Act Data" %}
-                  <a name="nfad" class="usa-current">No FEAR Act Data &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/no-fear-data.html">No FEAR Act Data</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "No FEAR Act Report" %}
-                  <a name="nfar" class="usa-current">No FEAR Act Report &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/no-fear-report.html">No FEAR Act Report</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Employee Survey Results" %}
-                  <a name="fevs" class="usa-current">Employee Survey Results &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/fevs.html">Employee Survey Results</a>
-                  {% endif %}
-                </li>
-              </ul>
+			        {% if page.title == "Budget and Performance" %}
+              <a name="budget and performance" class="usa-current">Budget and Performance &rarr;</a>
+              {% else %}
+              <a href="{{ site.baseurl }}/bp">Budget and Performance</a>
+              {% endif %}
             </li>
             <li class="usa-sidenav__item">
               {% if page.title == "Laws" %}
@@ -108,109 +54,15 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               {% else %}
               <a href="{{ site.baseurl }}/law/">Laws</a>
               {% endif %}
-              <ul class="usa-sidenav__sublist">
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Americans with Disabilities Act" %}
-                  <a name="ada" class="usa-current">ADA &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/law/ada.html">ADA</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Architectural Barriers Act" %}
-                  <a name="aba" class="usa-current">ABA &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/law/aba.html">ABA</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Rehabilitation Act" %}
-                  <a name="ra" class="usa-current">Rehabilitation Act &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/law/ra.html">Rehabilitation Act</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Telecommunications Act" %}
-                  <a name="ta" class="usa-current">Telecommunications Act &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/law/ta.html">Telecommunications Act</a>
-                  {% endif %}
-                </li>
-              </ul>
             </li>
             <li class="usa-sidenav__item">
               <a name="policy">Policies</a>
-              <ul class="usa-sidenav__sublist">
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Accessibility Statement" %}
-                  <a name="accessibility" class="usa-current">Accessibility Statement &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/policy/accessibility.html">Accessibility Statement</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Fragrance-Free Environment" %}
-                  <a name="ffe" class="usa-current">Fragrance-Free Environment &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/policy/ffe.html">Fragrance-Free Environment</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Freedom of Information Act" %}
-                  <a name="foia" class="usa-current">Freedom of Information Act &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/policy/foia.html">Freedom of Information Act</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "No FEAR Act Notice" %}
-                  <a name="nfan" class="usa-current">No FEAR Act Notice &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/policy/no-fear-notice.html">No FEAR Act Notice</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Information Quality" %}
-                  <a name="iq" class="usa-current">Information Quality &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/policy/iq.html">Information Quality</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Plain Language" %}
-                  <a name="plain" class="usa-current">Plain Language &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/policy/plain.html">Plain Language</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Privacy Policy" %}
-                  <a name="privacy" class="usa-current">Privacy Policy &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/policy/privacy.html">Privacy Policy</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Reasonable Accommodation Procedures" %}
-                  <a name="ra" class="usa-current">Reasonable Accommodation Procedures &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/policy/ra.html">Reasonable Accommodation Procedures</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Shutdown Plan" %}
-                  <a name="shutdown" class="usa-current">Shutdown Plan &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/about/policy/shutdown.html">Shutdown Plan</a>
-                  {% endif %}
-                </li>
-                <li class="usa-sidenav__item">
-                  {% if page.title == "Vulnerability Disclosure Policy" %}
-                  <a name="vdp" class="usa-current">Vulnerability Disclosure Policy &rarr;</a>
-                  {% else %}
-                  <a href="{{ site.baseurl }}/vulnerability-disclosure-policy/">Vulnerability Disclosure Policy</a>
-                  {% endif %}
+			      <li class="usa-sidenav__item">
+              {% if page.title == "Laws" %}
+              <a name="policy" class="usa-current">Policy &rarr;</a>
+              {% else %}
+              <a href="{{ site.baseurl }}/policies/">Policies</a>
+              {% endif %}
                 </li>
               </ul>
             </li>
