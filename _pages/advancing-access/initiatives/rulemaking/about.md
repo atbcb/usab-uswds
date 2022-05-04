@@ -1,6 +1,6 @@
 ---
 title: Rulemaking
-layout: page
+layout: page-full
 sidenav: false
 permalink: /rulemaking/about/
 ---
