@@ -25,3 +25,6 @@ Many training sessions are held at the request of, or in partnership with, organ
 
 For more information or to request training from the Access Board, contact Bill Botten, the Board’s Training Coordinator, at <training@access-board.gov>, 1-202-272-0014 (voice), or 1-202-272-0073 (TTY).
 
+The Board also provides technical guidance on its accessibility guidelines and standards and accessible design through its toll-free helpline at 1-800-872-2253 and by email at ta@access-board.gov from 10:00 a.m. to 5:00 p.m. (ET) weekdays. Accessibility specialists are available to answer questions on accessibility as it relates to the built environment, outdoor sites, streets and sidewalks, transportation vehicles and vessels, information and communication technology, and medical diagnostic equipment. For more information, visit the Board's [TA webpage]({{ site.baseurl }}/ta/).
+
+
