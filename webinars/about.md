@@ -1,6 +1,6 @@
 ---
 title: Webinars
-layout: page
+layout: page-full
 sidenav: false
 permalink: /webinars/about.html
 ---
