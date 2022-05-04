@@ -42,7 +42,7 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               {% endif %}
             </li>
             <li class="usa-sidenav__item">
-			        {% if page.title == "Budget and Performance" %}
+	      {% if page.title == "Budget and Performance" %}
               <a name="budget and performance" class="usa-current">Budget and Performance &rarr;</a>
               {% else %}
               <a href="{{ site.baseurl }}/bp">Budget and Performance</a>
@@ -56,10 +56,8 @@ BB 5/29/20: visually, adding padding-left:2em to menu items that are not links w
               {% endif %}
             </li>
             <li class="usa-sidenav__item">
-              <a name="policy">Policies</a>
-			      <li class="usa-sidenav__item">
-              {% if page.title == "Laws" %}
-              <a name="policy" class="usa-current">Policy &rarr;</a>
+	      {% if page.title == "Policy" %}
+	      <a name="policy">Policies</a>
               {% else %}
               <a href="{{ site.baseurl }}/policies/">Policies</a>
               {% endif %}
