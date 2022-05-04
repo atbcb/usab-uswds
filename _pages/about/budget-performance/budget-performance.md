@@ -12,7 +12,6 @@ permalink: /bp/
 * [Performance and Accountability Report]({{ site.baseurl }}/about/par.html)
 * [Budget Justification]({{ site.baseurl }}/cj/) 
 * [FOIA Annual Report]({{ site.baseurl }}/about/foia-report.html) 
-* [Chief FOIA Officer Report]({{ site.baseurl }}/about/foia-cfor.html) 
 * [No FEAR Act Data]({{ site.baseurl }}/about/no-fear-data.html) 
 * [No FEAR Act Reports]({{ site.baseurl }}/about/no-fear-report.html)  
 * [Employee Survey Results]({{ site.baseurl }}/about/fevs.html) 
