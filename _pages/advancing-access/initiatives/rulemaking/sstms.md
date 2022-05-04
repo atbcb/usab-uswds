@@ -11,4 +11,4 @@ permalink: /sstms/
 
 <p>The Board intends to propose supplementary provisions for SSTMs and self-service kiosks in a future rulemaking that are based on both the technical requirements for ATMs and fare machines in the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Guidelines, as well as relevant provisions for hardware in the Revised Section 508 Standards. In addition, the Board intends to address the types of SSTMs and self-service kiosks to be covered under both the ADA and the ABA and the number or percentage required to comply. The Board will publish an Advanced Notice of Proposed Rulemaking in 2022.</p>
 
-<p>To learn more about the Access Board's rulemaking process, visit its [rulemaking process page]({{ site.baseurl }}/rulemaking-process/).</p>
+<p>To learn more about the Access Board's rulemaking process, visit its <a href="({{ site.baseurl }}/rulemaking-process/">rulemaking process page</a>.</p>
