@@ -21,7 +21,7 @@ To date, the Access Board has completed the following actions to fulfill its pla
 > 5.	Presented to organizations. Board staff have presented at Inter-Tribal leadership meetings and participated in Tribal stakeholder meetings.
 
 ### Technical Assistance, Training, and Webinars
-The Board provides technical guidance on its accessibility guidelines and standards and accessible design through its toll-free helpline at 1-800-872-2253 and by email at <ta@access-board.gov> from 10:00 a.m. to 5:00 p.m. (ET) weekdays. Accessibility specialists are available to answer questions on accessibility as it relates to the built environment, outdoor sites, streets and sidewalks, transportation vehicles and vessels, information and communication technology, and medical diagnostic equipment.
+The Board provides technical guidance on its accessibility guidelines and standards and accessible design through its toll-free helpline at 1-800-872-2253 and by email at <ta@access-board.gov> from 10:00 a.m. to 5:00 p.m. (ET) weekdays. Accessibility specialists are available to answer questions on accessibility as it relates to the built environment, outdoor sites, streets and sidewalks, transportation vehicles and vessels, information and communication technology, and medical diagnostic equipment. Visit the Board's [TA webpage]({{ site.baseurl }}/ta/) for more information.
 
 The Board regularly provides in-person and virtual trainings on its guidelines and standards upon request. Visit the Board's [Training page](https://www.access-board.gov/webinars/training.html) or send an email to <training@access-board.gov> for more information.
 

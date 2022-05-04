@@ -1,7 +1,8 @@
 ---
 banner-title: Equity Action Plan
 title: U.S. Access Board Equity Action Plan
-layout: page-right-sidenav
+layout: page-full
+sidenav: false
 permalink: /equity/
 ---
 

@@ -1,6 +1,6 @@
 ---
 title: Rulemaking
-layout: page
+layout: page-full
 sidenav: false
 permalink: /rulemaking/about/
 ---
@@ -14,4 +14,4 @@ permalink: /rulemaking/about/
 
 ### Rulemaking Process and History
 
-In developing its guidelines and standards, the Access Board follows a process common to most federal regulations that provides the public an opportunity for comment. Visit the Access Board's [Rulemaking Process page]({{ site.baseurl }}/rulemaking-process/) and [Rulemaking History page]({{ site.baseurl }}/rulemaking-history/) for more details.
+In developing its guidelines and standards, the Access Board follows a process common to most federal regulations that provides the public an opportunity for comment. Visit the Access Board's [rulemaking process page]({{ site.baseurl }}/rulemaking-process/) and [rulemaking history page]({{ site.baseurl }}/rulemaking-history/) for more details.

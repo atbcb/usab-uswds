@@ -1,6 +1,6 @@
 ---
 title: File an Architectural Barriers Act Complaint
-layout: page
+layout: page-full
 sidenav: false
 permalink: /enforcement/
 ---
