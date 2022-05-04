@@ -1,6 +1,6 @@
 ---
 title: Other Resources
-layout: page
+layout: page-full
 sidenav: false
 permalink: /enforcement/other-resources.html
 ---
