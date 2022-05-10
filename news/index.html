@@ -1,16 +1,16 @@
 ---
-layout: default
-title: News & Events
+title: Access Board News
+banner-title: Access Board News
+layout: page-right-sidenav
+right-sidenav: sidenav-posts.html
 pagination:
   enabled: true
   category: news
 ---
 
-{% include section-title.html %}
-{% include event-cards.html %}
 <div id="content" class="grid-container maxw-desktop">
   <div class="grid-row">
-    <div class="desktop:grid-col-8 usa-prose padding-right-4">
+    <div class="desktop:grid-col-12 usa-prose">
       <!-- This loops through the paginated posts -->
        {% for post in paginator.posts %}
        <div class="padding-bottom-5 margin-top-4 usa-prose border-bottom-05 border-base-lightest">
@@ -44,8 +44,5 @@ pagination:
       {% include back-to-top.html %}
       {% include links-pagination.html %}
     </div>
-    <aside class="desktop:grid-col-fill margin-top-4 padding-right-4">
-      {% include sidenav-posts.html %}
-    </aside>
   </div>
 </div>

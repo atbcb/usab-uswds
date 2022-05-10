@@ -12,8 +12,6 @@ permalink: /events/
 
 ## Public Events
 
-The Access Board regularly holds public events. 
-
 ### Upcoming Events
 
 > ***Meeting of the U.S. Access Board*** \
@@ -29,10 +27,11 @@ The Access Board regularly holds public events.
 > Contact: Bobby Stinnette of the Board at [stinnette@access-board.gov](mailto:stinnette@access-board.gov) or 1-202-272-0021 
 
 > ***Town Hall***\
-> September 14, 2022, 1:00 – 2:15 p.m. (ET)\
-> Gustine Recreation Center\
-> 4868 Ridge Ave.\
-> Philadelphia, PA 19129
+> September 14, 2022, 1:30 – 3:30 p.m. (ET)\
+> Liberty Resources, Inc.\
+> 112 N. 8th St.\
+> Philadelphia, PA 19107
+
 
 ### Public Events Archives
 
@@ -46,7 +45,7 @@ The Access Board regularly holds public events.
 
 ## Access Board Meetings Archives
 
-Members of the U.S. Access Board meet regularly every two months. Board meetings are open to the public. Visit the [Board Meetings page](https://www.access-board.gov/about/meetings.html) for more information and dates on upcoming meetings.
+Members of the Access Board meet regularly every two months. Board meetings are open to the public. Visit the [Board Meetings page](https://www.access-board.gov/about/meetings.html) for more information and dates on upcoming meetings.
 
 - [January 13, 2021](https://www.youtube.com/watch?v=rR9RfhvM2sU&t=859s)
 - [March 10, 2021](https://www.youtube.com/watch?v=xI1j1V1SyjE)

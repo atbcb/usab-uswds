@@ -1,6 +1,6 @@
 ---
 title: How Complaints are Investigated
-layout: page
+layout: page-full
 sidenav: false
 permalink: /enforcement/investigation.html
 ---

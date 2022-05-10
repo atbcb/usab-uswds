@@ -3,10 +3,10 @@ title: Policies
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-permalink: /policy/about/
+permalink: /policies/
 ---
 
-# {{ page.title }}
+# {{ page.title }} of the Access Board
 
 * [Accessibility Statement](https://www.access-board.gov/about/policy/accessibility.html) 
 * [Fragrance-Free Environment](https://www.access-board.gov/about/policy/ffe.html) 

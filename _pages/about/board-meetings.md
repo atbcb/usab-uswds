@@ -16,8 +16,8 @@ The next virtual meeting of the Board will take place on **Wednesday, May 11, 20
 
 > ***Meeting of the U.S. Access Board***\
 > May 11, 2022, 1:00 p.m. - 2:15 p.m. (ET)\
-> Meeting link: [www.zoomgov.com/j/1618590214](https://www.zoomgov.com/j/1618590214?pwd=YkxIdHBwWFVJb1doeE1Tam82ejlmQT09)\
-> Meetng ID: 161 678 5115\
+> Meeting link: [www.zoomgov.com/j/1616785115](https://www.zoomgov.com/j/1616785115) \
+> Meeting ID: 161 678 5115\
 > Dial in: (646) 828-7666\
 > Contact: <events@access-board.gov>
 >> _Agenda_
