@@ -14,13 +14,6 @@ permalink: /events/
 
 ### Upcoming Events
 
-> ***Meeting of the U.S. Access Board*** \
-> May 11, 2022, 1:00 – 2:15 p.m. (ET) \
-> Meeting link: [www.zoomgov.com/j/1618590214](https://www.zoomgov.com/j/1618590214?pwd=YkxIdHBwWFVJb1doeE1Tam82ejlmQT09  ) \
-> Meeting ID: 161 859 0214 \
-> Dial in: (646) 828-7666 \
-> Contact: <events@access-board.gov> 
-
 > ***Public Information Meeting on Low-Height Specification for MDE Transfer Surfaces*** \
 > May 12, 2022, 2:00 – 4:00 p.m. (ET) \
 > Registration (free): [Zoom Webinar Link](https://www.zoomgov.com/webinar/register/WN_GFoTS44-R7qWdh6GF0xLPg) \
