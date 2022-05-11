@@ -1,16 +1,23 @@
-// Import the US Web Design System SASS
-@import "uswds";
+/*
+  Customize US Web Design System SASS
+  See all at designsystem.digital.gov/documentation/settings
+*/
+
+// Example - Override the background image in the hero component using SASS:
+// $theme-hero-image: asset_path("whatever-the-default-is.png");
+
+// @import 'uswds';
 
 // Import individual theme settings
-@import "../../sass/uswds-theme-general";
-@import "../../sass/uswds-theme-typography";
-@import "../../sass/uswds-theme-spacing";
-@import "../../sass/uswds-theme-color";
-@import "../../sass/uswds-theme-utilities";
+@import "uswds-theme-general";
+@import "uswds-theme-typography";
+@import "uswds-theme-spacing";
+@import "uswds-theme-color";
+@import "uswds-theme-utilities";
+@import "uswds-theme-custom-styles";
 
-// components import needs to be last
-@import "../../sass/uswds-theme-components";
-
+// Components need to be imported last.
+@import "uswds-theme-components";
 
 $theme-hero-image: asset_path("hero-wc-temp.jpg");
 
@@ -278,7 +285,7 @@ li.usa-nav__submenu-item>a {
   color: white !important;
 }
 
-// override light blue heading used in highlights.html to get a little more contrast 
+// override light blue heading used in highlights.html to get a little more contrast
 h3.usa-graphic-list__heading {
   color: white;
 }
@@ -438,7 +445,7 @@ dt {
 
 table.data tr:nth-child(even) {
  background-color: #f2f2f2;
-} // zebra stripping by default 
+} // zebra stripping by default
 // layout tables used in ict preamble
 table.layouttable {
   border-collapse: collapse;
@@ -529,8 +536,8 @@ a.style-inherit:focus>div.gray-to-color {
 }
 .pdf-button:focus:before {
   content:attr(title);
-  position: absolute; 
-  bottom: .1rem; 
+  position: absolute;
+  bottom: .1rem;
   right: .1rem;
   padding: .1em .2em;
   background: #ffffff; color: #005ea2;
