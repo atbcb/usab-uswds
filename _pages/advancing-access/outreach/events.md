@@ -14,18 +14,17 @@ permalink: /events/
 
 ### Upcoming Events
 
-> ***Public Information Meeting on Low-Height Specification for MDE Transfer Surfaces*** \
-> May 12, 2022, 2:00 – 4:00 p.m. (ET) \
-> Registration (free): [Zoom Webinar Link](https://www.zoomgov.com/webinar/register/WN_GFoTS44-R7qWdh6GF0xLPg) \
-> Contact: Bobby Stinnette of the Board at [stinnette@access-board.gov](mailto:stinnette@access-board.gov) or 1-202-272-0021 \
-> Presentation materials are available in [PPT (16MB)]({{ site.baseurl }})/files/presentations/usab-mde-transfer-info-meeting-2022-05-12.pptx) or [PDF (1MB)]({{ site.baseurl }})/files/presentations/usab-mde-transfer-info-meeting-2022-05-12.pdf) formats. 
+> ***Public Information Meeting on Low-Height Specification for MDE Transfer Surfaces*** 
+> May 12, 2022, 2:00 – 4:00 p.m. (ET) 
+> Registration (free): [Zoom Webinar Link](https://www.zoomgov.com/webinar/register/WN_GFoTS44-R7qWdh6GF0xLPg) 
+> Contact: Bobby Stinnette of the Board at [stinnette@access-board.gov](mailto:stinnette@access-board.gov) or 1-202-272-0021 
+> Presentation materials are available in [PPT (16MB)]({{ site.baseurl }})/files/presentations/usab-mde-transfer-info-meeting-2022-05-12.pptx) or [PDF (1MB)]({{ site.baseurl }})/files/presentations/usab-mde-transfer-info-meeting-2022-05-12.pdf) formats.
 
-> ***Town Hall***\
-> September 14, 2022, 1:30 – 3:30 p.m. (ET)\
-> Liberty Resources, Inc.\
-> 112 N. 8th St.\
+> ***Town Hall*** 
+> September 14, 2022, 1:30 – 3:30 p.m. (ET) 
+> Liberty Resources, Inc. 
+> 112 N. 8th St. 
 > Philadelphia, PA 19107
-
 
 ### Public Events Archives
 
@@ -48,4 +47,3 @@ Members of the Access Board meet regularly every two months. Board meetings are 
 - [September 22, 2021](https://www.youtube.com/watch?v=VBJBi-DQRRk)
 - [November 10, 2021](https://www.youtube.com/watch?v=mDKLJurVTcY)
 - [January 12, 2022](https://www.youtube.com/watch?v=gJAbbPOILCg)
-
