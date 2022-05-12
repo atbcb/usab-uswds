@@ -101,7 +101,7 @@ primary_navigation:
       - name: Prescription Drug Labels
         url: /rx.html
   - name: Services
-    children: 
+    children:
       - name: Technical Assistance
         url: /ta/
       - name: Training & Webinars
@@ -481,6 +481,13 @@ exclude:
   # other development build tips: include_cached meta.html header.html in the base layout
 
 assets:
+  autoprefixer:
+    browsers:
+      - "> 2%"
+      - "last 2 versions"
+      - "IE 11"
+      - "not dead"
+  compression: true
   sources:
     - node_modules/dompurify/dist/
     - node_modules/stickyfilljs/dist
