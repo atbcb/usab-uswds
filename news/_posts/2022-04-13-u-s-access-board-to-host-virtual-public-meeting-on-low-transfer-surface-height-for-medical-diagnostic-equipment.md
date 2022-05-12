@@ -10,7 +10,7 @@ excerpt: The U.S. Access Board will hold a virtual public information meeting on
   minimum heights that MDE with transfer surfaces, including . . .
 image: /images/uploads/mri.png
 image_alt_text: Image of MRI equipment
-featured: true
+featured: false
 ---
 The U.S. Access Board will hold a virtual public information meeting on accessible medical diagnostic equipment (MDE) and the adjustability of transfer surfaces for patients who use wheelchairs on **May 12, 2022** from **2:00 – 4:00 p.m. (ET)**. The Board is hosting this meeting to gather information on the minimum heights that MDE with transfer surfaces, including examination tables and chairs and diagnostic imaging medical equipment with tables, can be adjusted to accommodate the broadest range of users.
 
