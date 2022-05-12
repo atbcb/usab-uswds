@@ -1,5 +1,3 @@
-ruby '>= 2.5.7'
-
 source "https://rubygems.org"
 
 # Hello! This is where you manage which Jekyll version is used to run.
@@ -11,19 +9,18 @@ source "https://rubygems.org"
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
 gem "jekyll", "~> 3.9"
-
-# See https://github.com/envygeeks/jekyll-assets/issues/622
-gem "sprockets", "~> 3.7"
+gem "sprockets", "~> 4"
+gem "autoprefixer-rails"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
   gem 'jekyll-include-cache'
   gem "jekyll-feed", "~> 0.6"
   gem 'jekyll-redirect-from'
-  gem 'jekyll-paginate-v2', "3.0.0"
+  gem 'jekyll-paginate-v2', "~> 3.0"
   gem 'jekyll-sitemap'
   gem 'jekyll-seo-tag'
-  gem "jekyll-assets", "~> 3.0", group: :jekyll_plugins
+  gem 'jekyll-assets', git: "https://github.com/envygeeks/jekyll-assets"
 end
 
 # Windows does not include zoneinfo files, so bundle the tzinfo-data gem
