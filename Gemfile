@@ -10,6 +10,7 @@ source "https://rubygems.org"
 # Happy Jekylling!
 gem "jekyll", "~> 3.9"
 gem "sprockets", "~> 4"
+gem "autoprefixer-rails"
 
 # If you have any plugins, put them here!
 group :jekyll_plugins do
