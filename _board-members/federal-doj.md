@@ -8,7 +8,7 @@ vice-chair: false
 member: federal
 status: current
 image: /images/uploads/kristen-clarke.png
-job-title: null
+job-title: Assistant Attorney General for Civil Rights
 ---
 Kristen Clarke is the Assistant Attorney General for Civil Rights at the U.S. Department of Justice. In this role, she leads the Justice Department’s broad federal civil rights enforcement efforts and works to uphold the civil and constitutional rights of all who live in America. Assistant Attorney General Clarke is a lifelong civil rights lawyer who has spent her entire career in public service.
 
