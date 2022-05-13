@@ -1,4 +1,6 @@
 ---
+last-name: Cisneros
+agency: Department of Defense
 name: federal-dod
 last-name: Cisneros
 full_name: "Gilbert R. Cisneros, Jr. "
@@ -8,8 +10,6 @@ member: federal
 status: current
 image: /images/uploads/gilbert-cisneros.png
 job-title: Under Secretary of Defense for Personnel and Readiness
-department: Department of Defense
-agency: Department of Defense
 ---
 Mr. Gilbert Cisneros was sworn in as the Under Secretary of Defense for Personnel and Readiness on August 24, 2021.  As the Under Secretary, Mr. Cisneros serves as the principal staff assistant and advisor to the Secretary of Defense for force readiness; force management; health affairs; National Guard and Reserve component affairs; education and training; and military and civilian personnel requirements and management, including equal opportunity, morale, welfare, recreation, and quality of life matters.
 
@@ -28,4 +28,4 @@ A strong advocate for our service members and our veterans, Gilbert served on bo
 Gilbert attended college on a Naval Reserve Officer Training Corps (NROTC) scholarship and received a B.A. in Political Science, from George Washington University.  While in the Navy, he received his M.B.A. from Regis University. At the age of 43, after starting his education foundation, he went back to school using his G.I. Bill and received an A.M. in Urban Education Policy from Brown University. 
 
 
-Gilbert has received numerous awards for his military service, philanthropic work, and as a member of Congress.  Most recently he has received an award from the United States Navy Memorial for his years of service to our country and he was recognized by the U.S. Chamber of Commerce with their Abraham Lincoln Award for his bipartisan work in the House of Representatives on behalf of small businesses.  
+Gilbert has received numerous awards for his military service, philanthropic work, and as a member of Congress.  Most recently he has received an award from the United States Navy Memorial for his years of service to our country and he was recognized by the U.S. Chamber of Commerce with their Abraham Lincoln Award for his bipartisan work in the House of Representatives on behalf of small businesses.  

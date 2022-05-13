@@ -1,6 +1,7 @@
 ---
-name: federal-hhs
 last-name: Barkoff
+agency: Department of Health and Human Services
+name: federal-hhs
 full_name: Alison Barkoff
 chair: false
 vice-chair: false
@@ -9,8 +10,6 @@ status: current
 president: Biden
 image: /images/uploads/alison-barkoff.png
 job-title: Principal Deputy Administrator
-department: Department of Health and Human Services
-agency: Department of Health and Human Services
 ---
 Alison Barkoff was sworn into office as the Principal Deputy Administrator on January 20, 2021. In this capacity, she provides executive direction, leadership, guidance and coordination for ACL programs nationwide and advises the HHS Secretary on issues affecting individuals with disabilities and older adults.
 
