@@ -12,25 +12,7 @@ Members of the U.S. Access Board meet regularly every two months. Board meetings
 
 ## Next Board Meeting
 
-The next virtual meeting of the Board will take place on **Wednesday, May 11, 2022,** beginning at 1:00 p.m. Eastern. During this meeting, the Board will hear committee reports and federal member agency updates. During opening remarks, Chairwoman Taryn Williams will recognize outgoing members and introduce new appointees.  The guest speaker is Assistant Attorney General Kristen Clarke of the U.S. Department of Justice.    
-
-> ***Meeting of the U.S. Access Board***\
-> May 11, 2022, 1:00 p.m. - 2:15 p.m. (ET)\
-> Meeting link: [www.zoomgov.com/j/1616785115](https://www.zoomgov.com/j/1616785115) \
-> Meeting ID: 161 678 5115\
-> Dial in: (646) 828-7666\
-> Contact: <events@access-board.gov>
->> _Agenda_
->> * Introductory Remarks; Roll Call; Approval of January 2022 draft meeting minutes (vote)
->> * Introduction of new members
->> * Guest Speaker: Kristen Clarke, U.S. Department of Justice
->> * Executive Director's Report; Recognition of outgoing members
->> * Standing Committee Reports
->> * Ad Hoc Committee Reports
->> * Federal Agency Updates
->> * New Business
->> * Adjourn
->>
+The next meeting of the Board is scheduled for **Wednesday, July 13, 2022,** beginning at 1:00 p.m. Eastern, and will take place in the Access Board conference room located at 1331 F Street, NW, Suite 800, Washington, D.C. During this meeting, the Board will hear committee reports and federal member agency updates.  Additional details to follow as they become available.   
 
 ## Future Board Meetings
 
@@ -40,10 +22,11 @@ The next virtual meeting of the Board will take place on **Wednesday, May 11, 20
 
 ## Board Meeting Archives
 
-- [January 13, 2021](https://www.youtube.com/watch?v=rR9RfhvM2sU&t=859s)
-- [March 10, 2021](https://www.youtube.com/watch?v=xI1j1V1SyjE)
-- [May 19, 2021](https://www.youtube.com/watch?v=-0YkBZZEoss)
-- [July 14, 2021](https://www.youtube.com/watch?v=078ZOzcZaSs)
-- [September 22, 2021](https://www.youtube.com/watch?v=VBJBi-DQRRk)
-- [November 10, 2021](https://www.youtube.com/watch?v=mDKLJurVTcY)
+- [May 11, 2022](https://www.youtube.com/watch?v=YEzOVtpOGaY)
 - [January 12, 2022](https://www.youtube.com/watch?v=gJAbbPOILCg)
+- [November 10, 2021](https://www.youtube.com/watch?v=mDKLJurVTcY)
+- [September 22, 2021](https://www.youtube.com/watch?v=VBJBi-DQRRk)
+- [July 14, 2021](https://www.youtube.com/watch?v=078ZOzcZaSs)
+- [May 19, 2021](https://www.youtube.com/watch?v=-0YkBZZEoss)
+- [March 10, 2021](https://www.youtube.com/watch?v=xI1j1V1SyjE)
+- [January 13, 2021](https://www.youtube.com/watch?v=rR9RfhvM2sU&t=859s)
