@@ -33,6 +33,7 @@ tags:
 closed: false
 webinar-start: July 7, 2022 2:30 PM
 webinar-end: July 7, 2022 4:00 AM
+registration-link: https://www.accessibilityonline.org/ao/session/?id=111007
 webinar: true
 ---
 ### Description
@@ -48,7 +49,6 @@ Accessibility guidelines and standards issued under the Architectural Barriers A
 | California Architects Board | 1.5              |
 | Certificate of Attendance   | 1.5              |
 | ICC                         | 1.5              |
-| LA CES                      | 1.5              |
 
 ### Speakers:
 
