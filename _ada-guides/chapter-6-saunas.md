@@ -115,7 +115,7 @@ No. But if provided, vision lights and glazing panels that permit viewing shall 
 
 #### Must saunas and steam rooms be identified by the International Symbol of Accessibility (ISA)?
 
-Labeling accessible saunas and steam rooms with the ISA is required only where inaccessible ones are present.  At least 5% of saunas and steam rooms of the same type in each cluster must comply and be identified by the ISA unless all are accessible (§213.2., Ex. 3, §216.8).
+Labeling accessible saunas and steam rooms with the ISA is recommended where inaccessible ones are present.  At least 5% of saunas and steam rooms of the same type in each cluster must be accessible and should be identified by the ISA unless all are accessible, similar to sign requirements for clustered toilet rooms (§216.8).
 
 #### Are rules or informational signage required?
 

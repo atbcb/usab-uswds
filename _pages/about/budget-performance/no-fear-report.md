@@ -6,276 +6,87 @@ banner-title: About the U.S. Access Board
 permalink: /about/no-fear-report.html
 ---
 
-# {{ page.title }}s (FY 2017)
+# {{ page.title }}s (FY 2021)
 
-July 7, 2018
+United States Access Board
 
-The Honorable Paul Ryan  
-Speaker of the House  
-H-232 Capitol Office Building  
-Washington, D.C.  20515
+Annual Report for Fiscal Year 2021
 
-Dear Mr. Speaker:
+Under the Notification and Federal
 
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
+Employee Antidiscrimination and
 
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
+Retaliation Act of 2002 (No FEAR Act).
 
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
 
-* * * * *
+Report Prepared For:
 
-July 7, 2018
+Speaker of the U.S. House of Representataives
 
-The Honorable Orrin Hatch  
-President Pro Tempore of the Senate  
-S-126 Capitol Office Building  
-Washington, D.C.  20510
+President Pro Tempore of the U.S. Senate
 
-Dear Senator Hatch:
+Committee on Homeland Security and Governmental Affairs, U.S. Senate
 
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
+Committee on Oversight and Reform of the House of Representatives
 
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
+Committee on Judiciary, U.S. Senate 
 
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
+Committee on Judiciary of the House of Representatives
 
-* * * * *
+Committee on Education and Labor of the House of Representatives
 
-July 7, 2018
+Committee on Health, Education, Labor and Pensions, U.S. Senate
 
-The Honorable Ron Johnson  
-Chair  
-Committee on Homeland Security and Governmental Affairs  
-SD-340 Senate Dirksen Office Building  
-Washington, D.C.  20510
+U.S. Equal Employment Opportunity Commission
 
-Dear Senator Johnson:
+Attorney General
 
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
+U.S. Office of Personnel Management
 
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
 
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
+## I. Introduction
 
-* * * * *
+This report is prepared by the U.S. Access Board (Access Board or Board) pursuant to the requirements of Title II, Section 203, of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act or Act). The Act requires federal agencies to submit this annual report to the Speaker of U.S. House of Representatives; the President Pro Tempore of the U.S. Senate; the Senate Committee on Homeland Security and Governmental Affairs; the House Committee on Oversight and Reform; the Senate Committee on the Judiciary; the House Committee on the Judiciary; the U.S. Equal Employment Opportunity Commission; the Attorney General; and the U.S. Office of Personnel Management.
 
-July 7, 2018
+The Access Board is an independent federal agency that promotes equality for people with disabilities through leadership in accessible design and the development of accessibility guidelines and standards. Created in 1973 to ensure access to federally funded facilities, the Board is now a leading source of information on accessible design. The Board develops and maintains design criteria for the built environment, transit vehicles, information and communication technology, and medical diagnostic equipment under the Americans with Disabilities Act of 1990 (ADA) and other laws. It also provides technical assistance and training on these requirements and enforces accessibility standards that apply to federally funded facilities under the Architectural Barriers Act of 1968 (ABA).
 
-The Honorable Claire McCaskill  
-Ranking Minority Member  
-Committee on Homeland Security and Govemment Affairs  
-SD-340 Senate Dirksen Office Building  
-Washington, D.C.  20510
+The Access Board is a micro-agency with only 29 full-time employees and 13 presidentially appointed part-time special government employees who serve as the Public members on the agency’s Board. This report contains data and analysis concerning equal employment opportunity (EEO) complaint activity at the Access Board. For fiscal year 2021, the Access Board had zero new complaints. Over the past five fiscal years the Access Board has only had one EEO Complaint and one Federal Court case.
 
-Dear Senator McCaskill:
+## II. FY 2021 COMPLAINT DATA
 
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
+### A.  Civil Cases
 
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
+During FY 2021, there were zero new cases filed against the Access Board in federal courts. The Access Board has only had one case filed in a federal District Court under Federal Antidiscrimination Laws or Whistleblower Protection Laws in the past five years, in FY 2019. This case was dismissed from Federal Court in FY 2021 as the result of a settlement reached in a case arising out of the same facts challenging whistleblower discrimination filed before the Merit Systems Protection Board (MSPB) filed by the plaintiff in the federal civil action.
 
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
+### B.  Reimbursement to the Judgement Fund
 
-* * * * *
+During FY 2021 there were no federal district court discrimination cases which resulted in payment from the Judgment Fund on behalf of the Access Board.
 
-July 7, 2018
+### C.  Types of Disciplinary Actions
 
-The Honorable Trey Gowdy  
-Chair  
-Committee on Oversight and Government Reform  
-2157 Rayburn House Office Building  
-Washington, D.C.  20515
+There were no disciplinary actions arising from any federal district court discrimination cases in FY2021.
 
-Dear Congressman Gowdy:
+### D. Final Year-End Data
 
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
+The final year-end data posted pursuant to Section 301(c)(1)(B) of the No FEAR Act are included in Appendix A. The final year-end data indicates that during FY 2021 there were no new complaints of discrimination.
 
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
+### E.  Policy Description on Disciplinary Actions
 
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
+Access Board employees are accountable for their actions in accordance with the Access Board’s Equal Employment Opportunity Policy Statement, which was last issued on July 7, 2021 by Executive Director Sachin Pavithran. This Policy Statement emphasizes the Access Board’s determination to provide a fair and equitable workplace and subject employees to appropriate disciplinary action for engaging in unlawful discriminatory practices or allowing discriminatory practices to exist. This Statement emphasizes the importance of equal employment opportunity that helps the Board achieve its mission of promoting equality for people with disabilities. The Access Board’s anti-harassment policy and procedures provide for the prompt investigation of claims of harassment outside of the EEO complaints process.
 
-* * * * *
+### F.  No FEAR Act Training
 
-July 7, 2018
+The Access Board is planning to provide training to all staff and managers of the Access Board in FY22.
 
-The Honorable Elijah Cummings  
-Ranking Member  
-Committee on Oversight and Government Reform  
-2157 Rayburn House Office Building  
-V/ashington, D.C. 20515
+## III.  Analysis of Trends, Causal Analysis, and Practical Knowledge Gained Through Experiences
 
-Dear Congressman Cummings:
+There were no federal district court cases resulting in judgements, awards, or compromise settlements filed against the Access Board in FY2021. The Board has examined information reported from past fiscal years, namely the one federal district court case which was filed in FY2019 and dismissed in FY2021 as the result of settlement agreement in the MSPB case, and believes that one case in the past five years illustrates the Access Board’s ongoing commitment to maintaining a diverse and inclusive workforce. However, the Board did learn through this case that many of its policies were in need of revision and has begun updating them.
 
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
+## IV.  Adjustment to Budget
 
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
+The Access Board did not make any adjustments to the budget in FY 2021 to comply with the requirements of Section 201 of the No FEAR Act.
 
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
+## V.  Actions Taken/Planned to Improve Civil Rights Programs at the Access Board.
 
-* * * * *
+The Access Board continually seeks to improve its ability to prevent and address discrimination. The Access Board has been working on updating all of its anti-discrimination policies, including our Administrative Grievance Policy, Anti-Harassment Policy, and EEO Policies and Procedures. During FY2021, we had an agency-wide DEIA Workshop entitled Disability Inclusion and Intersectionality, held virtually over two days.
 
-July 7, 2018
-
-The Honorable Robert C. Scott
-
-Ranking Member  
-Committee on Education and the Workforce  
-2176 Rayburn House Office Building  
-Washington, D.C.  20515
-
-Dear Congressman Scott:
-
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
-
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
-
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
-
-* * * * *
-
-July 7, 2018
-
-The Honorable Virginia Foxx  
-Chair  
-Committee on Education and the Workforce  
-2176 Rayburn House Office Building  
-Washington, D.C.  20515
-
-Dear Congresswoman Foxx:
-
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
-
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
-
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
-
-* * * * *
-
-July 7, 2018
-
-The Honorable Lamar Alexander  
-Chairman  
-Committee on Health, Education, Labor and Pensions  
-428 Senate Dirksen Offrce Building  
-Washington, D.C.  20510
-
-Dear Senator Alexander:
-
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
-
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
-
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
-
-* * * * *
-
-July 7, 2018
-
-The Honorable Patty Murray  
-Ranking Member  
-Committee on Health, Education, Labor and Pensions  
-428 Senate Dirksen Office Building  
-Washington, D.C.  20510
-
-Dear Senator Murray:
-
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
-
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
-
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
-
-* * * * *
-
-July 7, 2018
-
-The Honorable Victoria A. Lipnic  
-Acting Chair  
-U.S. Equal Employment Opportunity Commission  
-c/o Office of Federal Operations  
-Attention: No FEAR Act Report Coordinator  
-P.O. Box 77960  
-Washington, D.C.  20013 
-
-Dear Madam Chair:
-
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
-
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
-
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
-
-* * * * *
-
-July 7, 2018
-
-The Honorable Jeff Sessions  
-Attorney General  
-U.S. Department of Justice  
-950 Pennsylvania Avenue, NW  
-Washington, D.C.  20530-0001 
-
-Dear Mr. Attorney General:
-
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
-
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
-
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
-
-* * * * *
-
-July 7, 2018
-
-The Honorable Jeff T.H. Pon  
-Director  
-U.S. Office of Personnel Management  
-1900 E Street, NW  
-Washington, D.C.  20415 
-
-Dear Mr. Pon:
-
-The U.S. Access Board submits this report to meet the requirements of section 203(a) of the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
-
-The Access Board is a small Federal agency with 32 FTE.  During Fiscal Year 2017, the Access Board did not have any new cases or pending cases from prior Fiscal Years arising under the provisions of law covered by paragraph (1) and (2) of section 201(a) of the No FEAR Act.  Based on an analysis of this information, the Access Board does not plan any actions.
-
-Sincerely,  
-/s/  
-David M. Capozzi  
-Executive Director
