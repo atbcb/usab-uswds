@@ -8,9 +8,9 @@ permalink: /about/no-fear-report.html
 
 # {{ page.title }}s (FY 2021)
 
-United States Access Board
+## United States Access Board
 
-Annual Report for Fiscal Year 2021 Under the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
+### Annual Report for Fiscal Year 2021 Under the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act)
 
 
 Report Prepared For:
@@ -58,7 +58,7 @@ During FY 2021 there were no federal district court discrimination cases which r
 
 ### C.  Types of Disciplinary Actions
 
-There were no disciplinary actions arising from any federal district court discrimination cases in FY2021.
+There were no disciplinary actions arising from any federal district court discrimination cases in FY 2021.
 
 ### D. Final Year-End Data
 
@@ -70,17 +70,17 @@ Access Board employees are accountable for their actions in accordance with the 
 
 ### F.  No FEAR Act Training
 
-The Access Board is planning to provide training to all staff and managers of the Access Board in FY22.
+The Access Board is planning to provide training to all staff and managers of the Access Board in FY 2022.
 
 ## III.  Analysis of Trends, Causal Analysis, and Practical Knowledge Gained Through Experiences
 
-There were no federal district court cases resulting in judgements, awards, or compromise settlements filed against the Access Board in FY2021. The Board has examined information reported from past fiscal years, namely the one federal district court case which was filed in FY2019 and dismissed in FY2021 as the result of settlement agreement in the MSPB case, and believes that one case in the past five years illustrates the Access Board’s ongoing commitment to maintaining a diverse and inclusive workforce. However, the Board did learn through this case that many of its policies were in need of revision and has begun updating them.
+There were no federal district court cases resulting in judgements, awards, or compromise settlements filed against the Access Board in FY 2021. The Board has examined information reported from past fiscal years, namely the one federal district court case which was filed in FY 2019 and dismissed in FY 2021 as the result of settlement agreement in the MSPB case, and believes that one case in the past five years illustrates the Access Board’s ongoing commitment to maintaining a diverse and inclusive workforce. However, the Board did learn through this case that many of its policies were in need of revision and has begun updating them.
 
 ## IV.  Adjustment to Budget
 
 The Access Board did not make any adjustments to the budget in FY 2021 to comply with the requirements of Section 201 of the No FEAR Act.
 
-## V.  Actions Taken/Planned to Improve Civil Rights Programs at the Access Board.
+## V.  Actions Taken/Planned to Improve Civil Rights Programs at the Access Board
 
-The Access Board continually seeks to improve its ability to prevent and address discrimination. The Access Board has been working on updating all of its anti-discrimination policies, including our Administrative Grievance Policy, Anti-Harassment Policy, and EEO Policies and Procedures. During FY2021, we had an agency-wide DEIA Workshop entitled Disability Inclusion and Intersectionality, held virtually over two days.
+The Access Board continually seeks to improve its ability to prevent and address discrimination. The Access Board has been working on updating all of its anti-discrimination policies, including our Administrative Grievance Policy, Anti-Harassment Policy, and EEO Policies and Procedures. During FY 2021, we had an agency-wide DEIA Workshop entitled Disability Inclusion and Intersectionality, held virtually over two days.
 
