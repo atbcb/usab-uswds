@@ -1,7 +1,7 @@
 ---
 title: "Chapter 6: Saunas and Steam Rooms"
 order-number: 612
-file:  /files/ada/guides/saunas.pdf
+file:  /files/ada/guides/saunas-ADA.pdf
 file-description: PDF version of Chapter 6 Saunas and Steam Rooms Guide
 ---
 ## {{ page.title }}
