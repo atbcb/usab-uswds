@@ -10,13 +10,7 @@ permalink: /about/no-fear-report.html
 
 United States Access Board
 
-Annual Report for Fiscal Year 2021
-
-Under the Notification and Federal
-
-Employee Antidiscrimination and
-
-Retaliation Act of 2002 (No FEAR Act).
+Annual Report for Fiscal Year 2021 Under the Notification and Federal Employee Antidiscrimination and Retaliation Act of 2002 (No FEAR Act).
 
 
 Report Prepared For:
