@@ -9,24 +9,40 @@ permalink: /about/no-fear-report.html
 # {{ page.title }}s (FY 2021)
 
 United States Access Board
+
 Annual Report for Fiscal Year 2021
+
 Under the Notification and Federal
+
 Employee Antidiscrimination and
+
 Retaliation Act of 2002 (No FEAR Act).
+
 
 Report Prepared For:
 
 Speaker of the U.S. House of Representataives
+
 President Pro Tempore of the U.S. Senate
+
 Committee on Homeland Security and Governmental Affairs, U.S. Senate
+
 Committee on Oversight and Reform of the House of Representatives
+
 Committee on Judiciary, U.S. Senate 
+
 Committee on Judiciary of the House of Representatives
+
 Committee on Education and Labor of the House of Representatives
+
 Committee on Health, Education, Labor and Pensions, U.S. Senate
+
 U.S. Equal Employment Opportunity Commission
+
 Attorney General
+
 U.S. Office of Personnel Management
+
 
 ## I. Introduction
 
