@@ -10,7 +10,7 @@ excerpt: All are welcome to attend the next bimonthly meeting of the U.S. Access
   and remarks from Assistant Attorney General Kristen Clarke of the U.S.
   Department of Justice. . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
-featured: true
+featured: false
 ---
 All are welcome to attend the next bimonthly meeting of the U.S. Access Board, which will be open to the public and take place virtually on **Wednesday, May 11** from **1:00 – 2:15 p.m. (ET)**. The agenda for the meeting includes recognition of outgoing Board members, introduction of new Board member appointees, brief reports from standing and ad hoc Board committees and the Executive Director, and remarks from Assistant Attorney General Kristen Clarke of the U.S. Department of Justice. 
 
