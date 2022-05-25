@@ -32,7 +32,7 @@ tags:
   - webinar
 closed: false
 webinar-start: July 7, 2022 2:30 PM
-webinar-end: July 7, 2022 4:00 AM
+webinar-end: July 7, 2022 4:00 PM
 registration-link: https://www.accessibilityonline.org/ao/session/?id=111007
 webinar: true
 ---
