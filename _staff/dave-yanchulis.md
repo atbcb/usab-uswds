@@ -7,7 +7,7 @@ pronouns: he/his/him
 image: /images/uploads/dave-yanchulis.png
 job-title: Director
 agency: ""
-director: true
+director: false
 executive-director: false
 office: Office of Technical and Information Services
 ---
