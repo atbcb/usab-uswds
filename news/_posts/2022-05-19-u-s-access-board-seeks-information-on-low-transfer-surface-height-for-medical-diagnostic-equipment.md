@@ -9,7 +9,7 @@ excerpt: The U.S. Access Board currently has an open comment period through May
   imaging medical equipment with tables, so that the equipment can be adjusted
   to accommodate the broadest range of users. As indicated in . . .
 image: /images/uploads/mri.png
-featured: true
+featured: false
 ---
 The U.S. Access Board currently has an open comment period through **May 27, 2022** regarding the appropriate low-height of medical diagnostic equipment with transfer surfaces, including examination tables and chairs and diagnostic imaging medical equipment with tables, so that the equipment can be adjusted to accommodate the broadest range of users. As indicated in the published notice, the Board continues to seek information on low transfer heights for adjustable medical diagnostic equipment products that are currently on the market and any changes or innovations in their design and engineering that may have occurred since the Board issued its medical diagnostic equipment accessibility standards. 
 
