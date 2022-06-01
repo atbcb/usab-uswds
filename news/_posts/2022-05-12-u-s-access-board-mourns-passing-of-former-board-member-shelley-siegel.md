@@ -10,7 +10,7 @@ excerpt: With deep sorrow, the U.S. Access Board announces the passing of former
   communication technology, and buses and vans. She passed on . . .
 image: /images/uploads/siegel-shelley.png
 image_alt_text: Portrait of Shelley Siegel
-featured: true
+featured: false
 ---
 With deep sorrow, the U.S. Access Board announces the passing of former Board Member Shelley Siegel, FASID of Lake Worth. Appointed to the Board in 2016 by President Barack Obama, Siegel used her tenure with the Board to regulate and implement the Americans with Disabilities Act (ADA) and assist with the Board’s final rules on [medical diagnostic equipment](https://www.access-board.gov/mde/), [information and communication technology](https://www.access-board.gov/ict/), and [buses and vans](https://www.access-board.gov/guidelines-standards/vehicles/update-buses-vans/guidelines-text/). She passed on May 11, 2022 in Palm Beach County, Florida. 
 
