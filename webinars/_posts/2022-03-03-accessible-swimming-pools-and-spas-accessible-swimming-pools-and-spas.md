@@ -45,9 +45,9 @@ Splish splash! People with disabilities use swimming pools and spas for rehabili
 | ICC                         | 1.5              |
 | LA CES                      | 1.5              |
 
-### Speakers:
+### Speakers
 
-[Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator, Senior Accessibility Specialist, **U.S. Access Board**
+[Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator and Senior Accessibility Specialist, **U.S. Access Board**
 
 [Randall Duchesneau](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10779), Accessibility Specialist, **U.S. Access Board**
 
