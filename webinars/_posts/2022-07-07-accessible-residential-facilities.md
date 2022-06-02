@@ -50,7 +50,7 @@ Accessibility guidelines and standards issued under the Architectural Barriers A
 | Certificate of Attendance   | 1.5              |
 | ICC                         | 1.5              |
 
-### Speakers:
+### Speakers
 
 **[Rex Pace](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.accessibilityonline.org%2Fspeakers%2Fspeaker.aspx%3Fid%3D10680%26ret%3DLeased%2520Facilities&data=05%7C01%7Cbratta%40access-board.gov%7C913e36a067ab4c1e9aed08da35211169%7Cfc6093f5e55e4f93b2cf26d0822201c9%7C0%7C0%7C637880713386473383%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=Ge39xsXWq5QrqYN4vz56LnVYSSbDANUpdg2WDxsYyHg%3D&reserved=0)**, Senior Advisory for Accessible Design, **U.S. Department of Housing and Urban Development**
 
