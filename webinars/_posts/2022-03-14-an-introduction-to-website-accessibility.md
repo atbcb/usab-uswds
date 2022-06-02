@@ -38,7 +38,7 @@ Everyone needs access to digital information provided by the World Wide Web. How
 | ACTCP           | 1.5              |
 | Certificate of Attendance          | 1.5
 
-### Speakers:
+### Speakers
 
 [Bruce Bailey](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10192&ret=An%20Introduction%20to%20Website%20Accessibility), IT Specialist, **U.S. Access Board**
 
