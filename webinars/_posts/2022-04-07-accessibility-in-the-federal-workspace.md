@@ -50,13 +50,13 @@ Federal workspaces must be fully accessible to employees with disabilities, as u
 | ICC                         | 1.5              |
 | LA CES                      | 1.5              |
 
-### Speakers:
+### Speakers
 
-[Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator, Senior Accessibility Specialist, **U.S. Access Board**
+[Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator and Senior Accessibility Specialist, **U.S. Access Board**
 
 [Timothy Creagan](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10120&ret=Accessibility%20in%20the%20Federal%20Workspace), Senior Accessibility Specialist, **U.S. Access Board**\
 \
-[Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Accessibility%20in%20the%20Federal%20Workspace), Accessibility Specialist, **US Access Board**
+[Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778&ret=Accessibility%20in%20the%20Federal%20Workspace), Accessibility Specialist, **U.S. Access Board**
 
 ### Session Questions
 
