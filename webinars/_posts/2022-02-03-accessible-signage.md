@@ -49,7 +49,7 @@ What type of signs are covered by the ADA and ABA Standards? Which ones must be 
 
 [Phil Bratta](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10891), Technical Writer, **U.S. Access Board**
 
-[Sarah Presley](https://www.accessibilityonline.org/ao/speakers/10778/?ret=speakers),Accessibility Specialist, **U.S. Access Board**
+[Sarah Presley](https://www.accessibilityonline.org/ao/speakers/10778/?ret=speakers), Accessibility Specialist, **U.S. Access Board**
 
 [Josh Schorr](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10805), Accessibility Specialist, **U.S. Access Board**
 
