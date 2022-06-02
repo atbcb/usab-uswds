@@ -45,7 +45,7 @@ What type of signs are covered by the ADA and ABA Standards? Which ones must be 
 | Certificate of Attendance   | 1.5              |
 | ICC                         | 1.5              |
 
-### Speakers:
+### Speakers
 
 [Phil Bratta](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10891), Technical Writer, **U.S. Access Board**
 
