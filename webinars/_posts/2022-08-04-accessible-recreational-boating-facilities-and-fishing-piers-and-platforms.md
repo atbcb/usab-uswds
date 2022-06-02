@@ -31,6 +31,7 @@ tags:
 closed: false
 webinar-start: August 4, 2022 2:30 PM
 webinar-end: August 4, 2022 4:00 PM
+registration-link: https://www.accessibilityonline.org/ao/session/?id=111008
 webinar: true
 ---
 ### Description
