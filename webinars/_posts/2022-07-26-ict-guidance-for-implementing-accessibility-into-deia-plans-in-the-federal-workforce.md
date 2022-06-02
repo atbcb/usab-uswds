@@ -41,7 +41,7 @@ On June 25, 2021, President Biden released Executive Order 14035 Diversity, Equi
 | ------------------------- | ---------------- |
 | Certificate of Attendance | 1.5              |
 
-### Speakers:
+### Speakers
 
 [Michael Horton](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10710&ret=ICT%20Guidance%20for%20Implementing%20Accessibility%20into%20DEIA%20Plans%20in%20the%20Federal%20WorkforceICT%20Guidance%20for%20Implementing%20Accessibility%20into%20DEIA%20Plans%20in%20the%20Federal%20Workforce), Accessible Design & Development Advisor Office of Government-wide Policy, **General Services Administration**
 
