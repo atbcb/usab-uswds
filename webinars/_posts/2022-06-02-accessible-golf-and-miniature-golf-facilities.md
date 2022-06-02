@@ -58,7 +58,7 @@ Questions can be submitted in advance of the session or can be posed during the 
 | Certificate of Attendance | 1.5              |
 | LA CES                    | 1.5              |
 
-### Speakers:
+### Speakers
 
 [Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator, Senior Accessibility Specialist, **U.S. Access Board**
 
