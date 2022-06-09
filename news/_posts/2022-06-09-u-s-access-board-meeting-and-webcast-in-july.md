@@ -16,7 +16,7 @@ Members of the public may attend the meeting through the [Zoom.gov platform](htt
 
 > **Meeting of the U.S. Access Board**  \
 > July 13, 2022, 1:00 – 2:00 p.m. (ET) \
-> Meeting link: [www.zoomgov.com/j/1617090572](www.zoomgov.com/j/1617090572) \
+> Meeting link: [www.zoomgov.com/j/1617090572](https://www.zoomgov.com/j/1617090572) \
 > Meeting ID: 161 709 0572 \
 > Dial in: (646) 828-7666 \
 > Contact: events@access-board.gov 
