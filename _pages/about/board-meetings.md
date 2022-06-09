@@ -21,8 +21,8 @@ The next meeting of the Board is scheduled for **Wednesday, July 13, 2022,** beg
 >Dial in:  (646) 828-7666\
 >Contact:  events@access-board.gov
 >>_Agenda_\
->>*Introductory Remarks; Roll Call; Approval of May 11, 2022 draft meeting minutes (vote)\
->>*Introduction of new members\
+>>*Introductory Remarks; Roll Call\
+>>*Approval of May 11, 2022 draft meeting minutes (vote)\
 >>*Executive Director's Report\
 >>*Standing Committee Reports\
 >>*Ad Hoc Committee Reports\
