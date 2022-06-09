@@ -17,18 +17,18 @@ The next meeting of the Board is scheduled for **Wednesday, July 13, 2022,** beg
 >***Meeting of the U.S. Access Board***\
 >July 13, 2022, 1:00 p.m. - 2:00 p.m. (ET)\
 >Meeting link:  [www.zoomgov.com/j/1617090572]\
->Meeting ID:  161 709 0572\
->Dial in:  (646) 828-7666\
+>Meeting ID: 161 709 0572\
+>Dial in: (646) 828-7666\
 >Contact:  events@access-board.gov
 >>_Agenda_\
->>*Introductory Remarks; Roll Call\
->>*Approval of May 11, 2022 draft meeting minutes (vote)\
->>*Executive Director's Report\
->>*Standing Committee Reports\
->>*Ad Hoc Committee Reports\
->>*Federal Agency Updates\
->>*New Business\
->>*Adjourn
+>> * Introductory Remarks; Roll Call\
+>> * Approval of May 11, 2022 draft meeting minutes (vote)\
+>> * Executive Director's Report\
+>> * Standing Committee Reports\
+>> * Ad Hoc Committee Reports\
+>> * Federal Agency Updates\
+>> * New Business\
+>> * Adjourn
 
 
 ## Future Board Meetings
