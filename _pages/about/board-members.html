@@ -77,10 +77,9 @@ title: Access Board Members
     </div>
   </div>
   <br class="page-break">
-
   <div class="grid-row">
     <div class="grid-container">
-      <h2>Public Members</h2>
+      <h2 id="public">Public Members</h2>
       <ul class="usa-card-group">
       {% for member in p-members %}
       {% if member.status == "current" %}
@@ -107,10 +106,9 @@ title: Access Board Members
     </div>
   </div>
   <br class="page-break">
-
   <div class="grid-row">
     <div class="grid-container">
-      <h2>Federal Members</h2>
+      <h2 id="federal">Federal Members</h2>
       <ul class="usa-card-group">
       {% for member in f-members %}
       {% if member.status == "current" %}
@@ -136,7 +134,5 @@ title: Access Board Members
       </ul>
     </div>
   </div>
-
 {% comment %} Add past member accordion here {% endcomment %}
-
 </div>
