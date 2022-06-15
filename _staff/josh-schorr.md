@@ -3,6 +3,7 @@ name: josh-schorr
 first_name: Josh
 last_name: Schorr
 full_name: Josh Schorr
+image: /images/uploads/josh-schorr.png
 job-title: Accessibility Specialist
 office: Office of Technical and Information Services
 agency: ""
