@@ -5,7 +5,11 @@ file: /files/ict/ict-final-rule.pdf
 ---
 These standards address access to information and communication technology (ICT) under Section 508 of the Rehabilitation Act and Section 255 of the Communications Act. 
 
-Section 508 requires access to ICT developed, procured, maintained, or used by federal agencies.  Examples include computers, telecommunications equipment, multifunction office machines such as copiers that also operate as printers, software, websites, information kiosks and transaction machines, and electronic documents.  The Section 508 Standards, which are part of the Federal Acquisition Regulation, ensure access for people with physical, sensory, or cognitive disabilities.
+Section 508 of the [Rehabilitation Act]({{ site.baseurl }}/law/ra.html) charges the Access Board with developing and promulgating this rule.&nbsp; The statute also charges the Access Board with providing Technical Assistance on Section 508, which is provided through [webinars]({{ site.baseurl }}/webinars/), [trainings]({{ site.baseurl }}/training/), and in close collaboration with GSA and materials available from [Section508.gov](https://www.section508.gov).
+
+Section 508 requires access to ICT developed, procured, maintained, or used by federal agencies.&nbsp; 
+Examples include computers, telecommunications equipment, multifunction office machines such as copiers that also operate as printers, software, websites, information kiosks and transaction machines, and electronic documents.&nbsp; 
+The Section 508 Standards, which are part of the Federal Acquisition Regulation, ensure access for people with physical, sensory, or cognitive disabilities.
 
 The Section 255 Guidelines cover telecommunications equipment and customer-premises equipment --- such as telephones, cell phones, routers, set-top boxes, and computers with modems, interconnected Voice over Internet Protocol products, and software integral to the operation of telecommunications function of such equipment.
 
@@ -25,7 +29,7 @@ The Section 255 Guidelines cover telecommunications equipment and customer-premi
 
 * [Section508.gov](https://section508.gov) --- GSA’s Government-wide IT Accessibility Program
 * [Section 508 of the Rehabilitation Act (29 U.S.C. §794d)]({{ site.baseurl }}/law/ra.html#section-508-federal-electronic-and-information-technology)
-* Final Regulatory Impact Analysis ([FRIA]({{ site.baseurl }}/ict/fria.html)
+* Final Regulatory Impact Analysis ([FRIA]({{ site.baseurl }}/ict/fria.html))
 * [Comparison Table of WCAG 2.0 to Original 508 Standards]({{ site.baseurl }}/ict/wcag2ict.html)
 * [Mapping of WCAG 2.0 to Functional Performance Criteria]({{ site.baseurl }}/ict/wcagtofpc.html)
 * [ICT Testing Baseline for Web Accessibility](https://ictbaseline.access-board.gov)
