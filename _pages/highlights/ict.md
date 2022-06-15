@@ -12,7 +12,7 @@ Information and Communication Technology (ICT) must be accessible to people with
 
 On January 18, 2017, the Access Board published a [final rule]({{ site.baseurl }}/ict/) that jointly updates requirements for information and communication technology covered by Section 508 of the Rehabilitation Act and Section 255 of the Communication Act.
 
-Section 508 of the [Rehabilitation Act]({{ site.baseurl }}/law/ra.html) charges the Access Board with developing and promulgating this rule.&nbsp; The statute also charges the Access Board with providing Technical Assistance on Section 508 which we through [webinars]({{ site.baseurl }}/webinars/), [trainings]({{ site.baseurl }}/training/), and in close collaboration with GSA and materials available from [Section508.gov](https://www.section508.gov).
+Section 508 of the [Rehabilitation Act]({{ site.baseurl }}/law/ra.html) charges the Access Board with developing and promulgating this rule.&nbsp; The statute also charges the Access Board with providing Technical Assistance on Section 508, which is provided through [webinars]({{ site.baseurl }}/webinars/), [trainings]({{ site.baseurl }}/training/), and in close collaboration with GSA and materials available from [Section508.gov](https://www.section508.gov).
 
 ### [Section 508 Standards]({{ site.baseurl }}/ict/#508-chapter-1-application-and-administration)
 
