@@ -18,13 +18,14 @@ permalink: /events/
 > Meeting link: [www.zoomgov.com/j/1617090572](https://www.zoomgov.com/j/1617090572) \
 > Meeting ID: 161 709 0572 \
 > Dial in: (646) 828-7666 \
-> Contact: events@access-board.gov 
+> Contact: <events@access-board.gov>
 
-> ***Town Hall*** \
+> ***Town Hall Meeting: The State of Accessibility in Philadelphia*** \
 September 14, 2022, 1:30 – 3:30 p.m. (ET) \
 Liberty Resources, Inc. \
 112 N. 8th St. \
-Philadelphia, PA 19107
+Philadelphia, PA 19107 \
+Contact: <events@access-board.gov>
 
 ### Public Events Archives
 
