@@ -1,7 +1,7 @@
 ---
 layout: post
-title: "U.S. Department of Housing and Urban Development Opens Registration for
-  Accessibility First Training "
+title: "HUD's Office of Fair Housing/Equal Opportunity Opens Registration for
+ Accessibility First Training"
 date: 2022-07-07
 excerpt: The U.S. Department of Housing and Urban Development (HUD) will provide
   comprehensive virtual training on accessibility requirements of the Fair
