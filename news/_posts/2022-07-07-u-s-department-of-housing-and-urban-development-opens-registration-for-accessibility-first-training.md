@@ -1,12 +1,9 @@
 ---
 layout: post
-title: "HUD's Office of Fair Housing/Equal Opportunity Opens Registration for
+title: "HUD’s Office of Fair Housing/Equal Opportunity Opens Registration for
  Accessibility First Training"
 date: 2022-07-07
-excerpt: The U.S. Department of Housing and Urban Development (HUD) will provide
-  comprehensive virtual training on accessibility requirements of the Fair
-  Housing Act for housing elements and spaces, including kitchens, bathrooms,
-  routes, . . .
+excerpt: The U.S. Department of Housing and Urban Development's Office of Fair Housing/Equal Opportunity (FHEO) will provide comprehensive virtual training on accessibility requirements of the Fair Housing Act for residential elements and spaces, including kitchens, bathrooms, . . .
 image: /images/uploads/fha-first-logo.png
 featured: false
 ---
