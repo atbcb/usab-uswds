@@ -12,36 +12,23 @@ Members of the U.S. Access Board meet regularly every two months. Board meetings
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for **Wednesday, July 13, 2022,** beginning at 1:00 p.m. Eastern, and will take place in the Access Board conference room located at 1331 F Street NW, Suite 800, Washington, D.C. During this meeting, the Board will hear committee reports and federal member agency updates.  
-
-*Meeting on-site is for Board members and Federal Liaisons only. The Zoomgov phone number and web link for the general public is available below.*  
-
->***Meeting of the U.S. Access Board***\
->July 13, 2022, 1:00 p.m. - 2:00 p.m. (ET)\
->Meeting link:  [www.zoomgov.com/j/1617090572](https://www.zoomgov.com/j/1617090572)\
->Meeting ID: 161 709 0572\
->Dial in: (646) 828-7666\
->Contact:  <events@access-board.gov>
-
->_Agenda_
-> * Introductory Remarks; Roll Call
-> * Approval of May 11, 2022 draft meeting minutes (vote)
-> * Executive Director's Report
-> * Standing Committee Reports
-> * Ad Hoc Committee Reports
-> * Federal Agency Updates
-> * New Business
-> * Adjourn
+The next virtual meeting of the Board is scheduled for **Wednesday, November 9, 2022,** beginning at 1:00 p.m. Eastern.  Further details will be published as they become available.  
 
 
 ## Future Board Meetings
 
-- July 11 - 13, 2022, Hybrid, Washington, D.C.
 - September 13 - 15, 2022, In-person, Philadelphia, PA
-- November 7 - 9, 2022, Virtual
+- November 7 - 9, 2022, Virtual 
+- January 9-11, 2023, Virtual
+- March 6-8, 2023, In-person, Washington, DC
+- May 8-10, 2023, Virtual
+- July 24-26, 2023, In-person, Washington, DC
+- September 11-13, 2023, In-person, Washington, DC
+- November 13-15, 2023, Virtual
 
 ## Board Meeting Archives
 
+- [January 13, 2022](https://www.youtube.com/watch?v=Mth5VLrWkr0)
 - [May 11, 2022](https://www.youtube.com/watch?v=YEzOVtpOGaY)
 - [January 12, 2022](https://www.youtube.com/watch?v=gJAbbPOILCg)
 - [November 10, 2021](https://www.youtube.com/watch?v=mDKLJurVTcY)
