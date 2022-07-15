@@ -30,12 +30,23 @@ Contact: <events@access-board.gov>
 - [Inclusive Design of Autonomous Vehicles: A Public Dialogue (Spring 2021)](https://www.access-board.gov/av/forums.html)
 - [Accessible Virtual Meetings (January 13, 2021)](https://youtu.be/rR9RfhvM2sU)
 
-## Access Board Meetings Archives
-
+## Access Board Meetings
 Members of the Access Board meet regularly every two months. Board meetings are open to the public. Visit the [Board Meetings page](https://www.access-board.gov/about/meetings.html) for more information and dates on upcoming meetings.
 
+### Future Board Meetings
+
+- September 13 - 15, 2022, In-person, Philadelphia, PA
+- November 7 - 9, 2022, Virtual 
+- January 9-11, 2023, Virtual
+- March 6-8, 2023, In-person, Washington, DC
+- May 8-10, 2023, Virtual
+- July 24-26, 2023, In-person, Washington, DC
+- September 11-13, 2023, In-person, Washington, DC
+- November 13-15, 2023, Virtual
+
+### Board Meeting Archives
+
 - [July 13, 2022](https://www.youtube.com/watch?v=Mth5VLrWkr0)
-- [May 11, 2022](https://www.youtube.com/watch?v=YEzOVtpOGaY)
 - [May 11, 2022](https://www.youtube.com/watch?v=YEzOVtpOGaY)
 - [January 12, 2022](https://www.youtube.com/watch?v=gJAbbPOILCg)
 - [November 10, 2021](https://www.youtube.com/watch?v=mDKLJurVTcY)
@@ -44,7 +55,6 @@ Members of the Access Board meet regularly every two months. Board meetings are 
 - [May 19, 2021](https://www.youtube.com/watch?v=-0YkBZZEoss)
 - [March 10, 2021](https://www.youtube.com/watch?v=xI1j1V1SyjE)
 - [January 13, 2021](https://www.youtube.com/watch?v=rR9RfhvM2sU&t=859s)
-
 
 
 
