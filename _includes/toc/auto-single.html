@@ -1,0 +1,33 @@
+{% comment %}
+ This auto generates a table of contents from a single html page from h2 via jscript. 
+ 
+{% endcomment %}
+
+<aside id="toc" class="desktop:grid-col-3 margin-bottom-2 padding-right-2 border-right-width-2">
+  <div class="padding-2 bg-white height-viewport overflow-y-scroll sticky">
+    <nav role="navigation" class="toc-subnav usa-accordion" aria-multiselectable="true" aria-label="Table of contents subnavigation">
+      <ul class="usa-sidenav">
+        <li class="usa-sidenav__item">
+          <button class="top-level-accordion usa-accordion__button text-center text-uppercase text-heavy"
+            aria-expanded="true"
+            aria-controls="subnav-list"
+          >
+            Table of Contents
+          </button>
+          <ul id="subnav-list" class="usa-accordion__content usa-sidenav__sublist">
+            <li class="usa-sidenav__item">
+              <button class="subnav-anchor usa-current usa-accordion__button"
+                aria-expanded="true"
+                aria-controls="subsections"
+              >
+                {{ page.title }}
+              </button>
+                <ul id="subsections" class="usa-accordion__content usa-sidenav__sublist" aria-label="Page sections navigation">
+                </ul>
+            </li>
+          </ul>
+        </li>
+      </ul>
+    </nav>
+  </div>
+</aside>
