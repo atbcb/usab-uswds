@@ -5,9 +5,9 @@ The home page uses wide.html layout, since it extends full width of page
 
 <!DOCTYPE html>
 <html lang="en">
-{% include meta.html %}
+{% include_cached meta.html %}
 <body>
-  {% include header.html %}
+  {% include_cached header.html %}
 
   {% include menu.html primary_navigation=site.primary_navigation secondary_navigation=site.secondary_navigation %}
   {{ content }}
