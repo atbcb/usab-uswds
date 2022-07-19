@@ -1,6 +1,13 @@
 - title: Electric Vehicle Charging Stations
   text: Access Board releases technical assistance document on Design Recommendations for Accessible EV Charging Stations.
-  image: /images/stock/hero-ev1.png
+  image: /images/stock/hero-ev1.jpeg
+  description: 
+  linkto: /ta/tad/ev/
+  linktext: Learn More
+
+- title: Electric Vehicle Charging Stations
+  text: Access Board releases technical assistance document on Design Recommendations for Accessible EV Charging Stations.
+  image: /images/stock/hero-ev2.jpeg
   description: 
   linkto: /ta/tad/ev/
   linktext: Learn More
