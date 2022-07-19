@@ -97,6 +97,18 @@ This document explains requirements in the ADA Standards for toilet rooms.
 [PDF]({{ site.baseurl }}/files/ada/guides/bathrooms.pdf) (May 2020)  
 This document explains requirements in the ADA Standards for bathing rooms.
 
+* [Guide to the ADA Standards: Lavatories and Sinks]({{ site.baseurl }}/ada/guides/chapter-6-lavs-sinks/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada/guides/lavs-sinks.pdf) (September 2021)  
+This document explains requirements in the ADA Standards for lavatories and sinks.
+
+* [Guide to the ADA Standards: Washing Machines and Clothes Dryers]({{ site.baseurl }}/ada/guides/chapter-6-washers/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada/guides/washers.pdf) (September 2021)  
+This document explains requirements in the ADA Standards for washing machines and clothes dryers.
+
+* [Guide to the ADA Standards: Saunas and Steam Rooms]({{ site.baseurl }}/ada/guides/chapter-6-saunas/) (HTML)
+[PDF]({{ site.baseurl }}/files/ada/guides/saunas-ADA.pdf) (May 2022)  
+This document explains requirements in the ADA Standards for saunas and steam rooms.
+
 * [Guide to the ADA Standards: Guidance on the International Symbol]({{ site.baseurl }}/ada/guides/guidance-on-the-isa) (HTML)
 [PDF]({{ site.baseurl }}/files/ada/guides/ISA-guidance.pdf) (March 2017)  
 This document explains requirements in the ADA Standards for the International Symbol of Accessibility.
@@ -216,6 +228,18 @@ This document explains requirements in the ABA Standards for toilet rooms.
 * [Guide to the ABA Standards: Bathing Rooms]({{ site.baseurl }}/aba/guides/chapter-6-bathing-rooms/) (HTML)
 [PDF]({{ site.baseurl }}/files/aba/guides/bathrooms-ABA.pdf) (May 2020)  
 This document explains requirements in the ABA Standards for bathing rooms.
+
+* [Guide to the ABA Standards: Lavatories and Sinks]({{ site.baseurl }}/aba/guides/chapter-6-lavs-sinks/) (HTML)
+[PDF]({{ site.baseurl }}/files/aba/guides/lavs-sinks.pdf) (September 2021)  
+This document explains requirements in the ABA Standards for lavatories and sinks.
+
+* [Guide to the ABA Standards: Washing Machines and Clothes Dryers]({{ site.baseurl }}/aba/guides/chapter-6-washers/) (HTML)
+[PDF]({{ site.baseurl }}/files/aba/guides/washers.pdf) (September 2021)  
+This document explains requirements in the ABA Standards for washing machines and clothes dryers.
+
+* [Guide to the ABA Standards: Saunas and Steam Rooms]({{ site.baseurl }}/aba/guides/chapter-6-saunas/) (HTML)
+[PDF]({{ site.baseurl }}/files/aba/guides/saunas-ABA.pdf) (May 2022)  
+This document explains requirements in the ABA Standards for saunas and steam rooms.
 
 * [Outdoor Developed Areas: A Summary of Accessibility Standards for Federal Outdoor Developed Areas]({{ site.baseurl }}/aba/guides/chapter-10-outdoor/) (HTML)
 [PDF]({{ site.baseurl }}/files/aba/guides/outdoor-guide.pdf) (May 2014)  
