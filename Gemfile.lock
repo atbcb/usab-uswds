@@ -138,6 +138,7 @@ GEM
       thread_safe (~> 0.1)
     tzinfo-data (1.2022.1)
       tzinfo (>= 1.0.0)
+    wdm (0.1.1)
     yell (2.2.2)
     zeitwerk (2.5.4)
 
@@ -159,6 +160,7 @@ DEPENDENCIES
   kramdown-parser-gfm
   sprockets (~> 4)
   tzinfo-data
+  wdm (~> 0.1.0)
 
 BUNDLED WITH
    1.17.3
