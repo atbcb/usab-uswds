@@ -8,7 +8,7 @@ excerpt: Alison Levy has been named the new Director of the Office of Technical
   Levy will . . .
 image: /images/uploads/levy-small.png
 image_alt_text: Portrait of Alison Levy
-featured: true
+featured: false
 ---
 Alison Levy has been named the new Director of the Office of Technical and Information Services (OTIS) at the U.S. Access Board. She succeeds Dave Yanchulis who retired in April after 36 years with the Board. In this role, Levy will manage and establish program goals and operations for OTIS, including those related to accessibility guidelines and standards, technical assistance and guidance, training, and research. OTIS is responsible for the development of the Americans with Disabilities (ADA) Accessibility Guidelines and Architectural Barriers Act (ABA) Accessibility Standards, standards and guidelines for accessible information and communication technology, and standards for accessible medical diagnostic equipment. 
 
