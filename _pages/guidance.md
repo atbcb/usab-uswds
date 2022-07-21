@@ -12,10 +12,10 @@ Provided here is a complete list of Access Board guidance documents (including a
 * [Guidance on Recreation Facilities](#guidance-on-recreation-facilities)
 * [Guidance on the Architectural Barriers Act (ABA) Accessibility Standards](#guidance-on-the-architectural-barriers-act-aba-accessibility-standards)
 * [Animations on the ADA and ABA Standards](#animations-on-the-ada-and-aba-standards)
-* [Guidance on the ADA Accessibility Guidelines for Transportation Vehicles](#guidance-on-the-ada-accessibility-guidelines-for-transportation-vehicles) {% comment %}
+* [Guidance on the ADA Accessibility Guidelines for Transportation Vehicles](#guidance-on-the-ada-accessibility-guidelines-for-transportation-vehicles)
 * [Guidance on Requirements for Information and Communication Technology](#guidance-on-requirements-for-information-and-communication-technology) 
 * [Guidance on Electric Vehicle Charging Stations](#guidance-on-electric-vehicle-charging-stations)
-* [Guidance on Public Rights-of-Way](#guidance-on-public-rights-of-way) {% endcomment %}
+* [Guidance on Public Rights-of-Way](#guidance-on-public-rights-of-way)
 * [Guidance on Prescription Drug Labels](#guidance-on-prescription-drug-labels)
 
 * * * * *
@@ -289,7 +289,7 @@ This document explains accessibility requirements for telecommunications product
 
 {% endcomment %}
 ## Guidance on Electric Vehicle Charging Stations
-* [Design Recommendations for Accessible Electric Vehicle Charging Stations](https://www.access-board.gov/ta/tad/ev/) (HTML) (July 2022)
+* [Design Recommendations for Accessible Electric Vehicle Charging Stations](https://www.access-board.gov/ta/tad/ev/) (HTML) (July 2022) \
 This technical assistance document covers existing requirements and new recommendations for making electric vehicle (EV) charging stations accessible. 
 
 ## Guidance on Public Rights-of-Way
