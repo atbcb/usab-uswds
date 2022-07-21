@@ -5,7 +5,7 @@ title: "U.S. Access Board Issues Design Recommendations for Accessible Electric
 date: 2022-07-21
 excerpt: The U.S. Access Board has released Design Recommendations for
   Accessible Electric Vehicle Charging Stations, a technical assistance document
-  based on existing requirements and new recommendations for making electric
+  that reviews existing requirements and new recommendations for making electric
   vehicle (EV) charging stations accessible. This technical assistance will . .
   .
 image: /images/uploads/ev-charging-stations-pr.png
