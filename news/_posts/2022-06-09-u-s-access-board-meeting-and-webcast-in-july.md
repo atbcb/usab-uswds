@@ -8,7 +8,7 @@ excerpt: All are welcome to attend the next bimonthly meeting of the U.S. Access
   Executive Director, standing committees, and ad hoc committees.  Members of
   the public may . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
-featured: true
+featured: false
 ---
 All are welcome to attend the next bimonthly meeting of the U.S. Access Board, which will be open virtually to the public on **July 13** from **1:00 – 2:00 p.m. (ET)**. The agenda for the meeting includes brief reports from the Executive Director, standing committees, and ad hoc committees.  
 

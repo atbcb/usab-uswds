@@ -215,7 +215,7 @@ Clearance beyond the latch side is not required at entry doors to hospital patie
 
 ### Recessed Doors and Gates
 
-[[§404.2.4.3]({{ site.baseurl }}/aba/#ada-404_2_4_3)]
+[[§404.2.4.3]({{ site.baseurl }}/ada/#ada-404_2_4_3)]
 
 ![Door maneuvering clearance 8 inches maximum from face of the door. Note: The
 maneuvering clearance is measured from the wall but cannot be offset
