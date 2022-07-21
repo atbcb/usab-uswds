@@ -14,7 +14,6 @@ Provided here is a complete list of Access Board guidance documents (including a
 * [Animations on the ADA and ABA Standards](#animations-on-the-ada-and-aba-standards)
 * [Guidance on the ADA Accessibility Guidelines for Transportation Vehicles](#guidance-on-the-ada-accessibility-guidelines-for-transportation-vehicles)
 * [Guidance on Requirements for Information and Communication Technology](#guidance-on-requirements-for-information-and-communication-technology) 
-* [Guidance on Electric Vehicle Charging Stations](#guidance-on-electric-vehicle-charging-stations)
 * [Guidance on Public Rights-of-Way](#guidance-on-public-rights-of-way)
 * [Guidance on Prescription Drug Labels](#guidance-on-prescription-drug-labels)
 
@@ -288,10 +287,6 @@ This document explains requirements in the original Section 508 Standards (2000)
 This document explains accessibility requirements for telecommunications products and services covered by Section 255 of the Communications Act.
 
 {% endcomment %}
-## Guidance on Electric Vehicle Charging Stations
-* [Design Recommendations for Accessible Electric Vehicle Charging Stations](https://www.access-board.gov/ta/tad/ev/) (HTML) (July 2022) \
-This technical assistance document covers existing requirements and new recommendations for making electric vehicle (EV) charging stations accessible. 
-
 ## Guidance on Public Rights-of-Way
 
 * [Accessible Public Rights-of-Way: Planning and Designing for Alterations]({{ site.baseurl }}/prowag/planning-and-design-for-alterations/) (HTML)
