@@ -5,8 +5,10 @@ title: "U.S. Access Board Celebrates the 32nd Anniversary of the Americans with
 date: 2022-07-26
 excerpt: The U.S. Access Board celebrates the 32nd anniversary of the Americans
   with Disabilities Act (ADA), which was signed into law on July 26, 1990. This
-  landmark civil rights law has impacted the lives of millions of people with .
-  . .
+  landmark civil rights law has impacted the lives of millions of people with
+  disabilities in the U.S. by improving access to public accommodations,
+  employment, transportation, state and local government services, and
+  telecommunications. . . .
 image: /images/uploads/ada-signing.jpg
 image_alt_text: George H.W. Bush signing the ADA in 1990
 featured: true
@@ -18,7 +20,7 @@ The U.S. Access Board celebrates the 32nd anniversary of the [Americans with Dis
 * Title III: Places of public accommodation and commercial facilities  
 * Title IV: Telecommunications for people who are deaf, hard of hearing, or who have speech impairments through telecommunications relay services, and requires closed captioning of federally funded public service announcements 
 
-The law extended the Board’s mission to issue accessibility guidelines for buildings, facilities, and transit vehicles based on research and public engagement with businesses, organizations, individuals with disabilities, and federal agencies through its [rulemaking process](https://www.access-board.gov/about/rulemaking.html). 
+The law extended the Board’s mission to issue accessibility guidelines for buildings, facilities, and transit vehicles based on research, public engagement with businesses, organizations, and individuals with disabilities, and collaboration with federal agencies through its [rulemaking process](https://www.access-board.gov/about/rulemaking.html). 
 
 On the first anniversary of the ADA in 1991, the Board published the [ADA Accessibility Guidelines (ADAAG)](https://www.access-board.gov/adaag-1991-2002.html) that contain detailed design requirements for buildings and facilities in the private and public sectors. On the same day, the Department of Justice adopted ADAAG as the basis of its enforceable standards, which made compliance with the requirements mandatory under the ADA. A few weeks later, the Department of Transportation adopted the guidelines as its enforceable ADA standards for transportation systems. 
 
