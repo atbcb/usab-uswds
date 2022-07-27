@@ -46,7 +46,7 @@ Accessibility programs are essential to ensuring federal agencies are inclusive 
 
 [Rod Trevino](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10935&ret=Building%20a%20Successful%20Document%20Accessibility%20Program:%20Strategies,%20Methods,%20and%20Workplans%20for%20Inclusive%20Programs), Senior Accessibility Advocate, **Enterprise Digitalization and Case Management Office, Internal Revenue Service (IRS)**
 
-[Charles Wilkins](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10936&ret=Building%20a%20Successful%20Document%20Accessibility%20Program:%20Strategies,%20Methods,%20and%20Workplans%20for%20Inclusive%20Programs), Business Systems Planning Program Manager , **Enterprise Digitalization and Case Management Office, Internal Revenue Service (IRS)**
+[Charles Wilkins](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10936&ret=Building%20a%20Successful%20Document%20Accessibility%20Program:%20Strategies,%20Methods,%20and%20Workplans%20for%20Inclusive%20Programs), Business Systems Planning Program Manager, **Enterprise Digitalization and Case Management Office, Internal Revenue Service (IRS)**
 
 ### Session Questions
 
