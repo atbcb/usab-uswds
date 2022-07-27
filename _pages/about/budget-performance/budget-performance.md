@@ -9,6 +9,7 @@ permalink: /bp/
 # {{ page.title }} of the Access Board
 
 * [Strategic Plan FY 2022 - 2026]({{ site.baseurl }}/about/strategic-plan-fy2022.html) 
+* [DEIA Strategic Plan 2022]({{ site.baseurl }}/deia-strategic-plan/)
 * [Performance and Accountability Report]({{ site.baseurl }}/about/par.html)
 * [Budget Justification]({{ site.baseurl }}/cj/) 
 * [FOIA Annual Report]({{ site.baseurl }}/about/foia-report.html) 
