@@ -24,7 +24,7 @@ tags:
   - webinar
 closed: false
 webinar-start: September 27, 2022 1:00 PM
-webinar-end: September 27, 2022 2:29 PM
+webinar-end: September 27, 2022 2:30 PM
 registration-link: https://www.accessibilityonline.org/cioc-508/session/?id=111014
 webinar: true
 ---
