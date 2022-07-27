@@ -1,5 +1,5 @@
 ---
-title: Budget and Peformance
+title: Budget and Performance
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
