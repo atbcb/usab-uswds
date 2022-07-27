@@ -6,11 +6,12 @@
             <div class="swiper-wrapper">
                 <!-- Slides -->
                 {% for hero in site.data.heroes %}
-                <div class="swiper-slide swiper-slide-hero-carousel"
+                <!--removed these attributes from next div: 
                     role="img"
-                    aria-describedby="hero-described-{{ hero.title | slugify }}"
+                    aria-describedby="hero-described-{{ hero.title | slugify }}" 
+                    title="Slide {{ forloop.index0 | plus: 1 }} of {{ site.data.heroes.size }}"-->
+                <div class="swiper-slide swiper-slide-hero-carousel"
                     style="background-image: url({{ site.baseurl }}{{ hero.image }});"
-                    title="Slide {{ forloop.index0 | plus: 1 }} of {{ site.data.heroes.size }}"
                 >
                     <div class="hero-container">
                         <div class="usa-hero__callout margin-x-auto bg-white border">
@@ -21,10 +22,10 @@
                             </p>
                             {% if hero.linkto %}
                             <div class="margin-x-auto text-center">
-                                <a href="{{ site.baseurl }}{{ hero.linkto }}" class="usa-button" aria-describedby="hero-{{ hero.title | slugify }}">{{ hero.linktext }}</a>
+                                <a href="{{ site.baseurl }}{{ hero.linkto }}" class="usa-button" aria-describedby="hero-{{ hero.title | slugify }} hero-described-{{ hero.title | slugify }}">{{ hero.linktext }}</a>
                             </div>
                             {% endif %}
-                            <p id="hero-described-{{ hero.title | slugify }}" style="display: none;">Slide {{ forloop.index0 | plus: 1 }} of {{ site.data.heroes.size }} {{ hero.description }}</p>
+                            <p id="hero-described-{{ hero.title | slugify }}" style="display: none;">(Topic {{ forloop.index0 | plus: 1 }} of {{ site.data.heroes.size }})</p>
                         </div>
                     </div>
                 </div>

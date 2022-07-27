@@ -4,42 +4,14 @@
   description: electric vehicle plugged into ev charger
   linkto: /ta/tad/ev/
   linktext: Learn More
-  
-- title: Equity Action Plan
-  text: Learn more about the Board’s Equity Action Plan pursuant to Executive Order 13985 on “Advancing Racial Equity and Support for Underserved Communities Through the Federal Government.”
-  image: /images/stock/hero-diversepeople.png
-  description: animations of about 30 people of different races, genders, and abilities
-  linkto: /equity/
-  linktext: Learn More
-  
+    
 - title: Equity and Accessibilty in the Federal Workplace for Employees with Disabilities  
   text: "Resources for federal agencies to ensure equity and accessibility in promoting diversity, equity, inclusion, and accessibility (DEIA) in the federal workforce." 
   image: /images/uploads/people-around-desk.png
   description: Five people working together as they sit at table 
   linkto: /deia-recommendations/
   linktext: Learn More
-  
-- title: Equity in Healthcare for People with Disabilities  
-  text: "Learn more about the Board's virtual public event on equity in healthcare for people with disabilities on January 12, 2022." 
-  image: /images/stock/mri.jpg
-  description: MRI diagnostic machine 
-  linkto: /news/2022/01/13/u-s-access-board-hosts-virtual-event-on-equity-in-healthcare-for-people-with-disabilities/
-  linktext: Learn More 
-  
-- title: Architectural Trends and Social Justice 
-  text: "Learn more about the Board's virtual public event on architectural trends and social justice on November 10, 2021." 
-  image: /images/stock/hero-architecturesky.jpg 
-  description: Architectural building frame lines organized diagonally with open space in center for viewing sky 
-  linkto: /news/2021/11/15/u-s-access-board-hosts-virtual-event-on-architectural-trends-and-social-justice/ 
-  linktext: Learn More 
-  
-- title: Wheelchair Securement Systems in Passenger Aircraft
-  text: "Learn more about the Board's public briefing on wheelchair securement systems in passenger aircraft on September 22, 2021."
-  image: /images/stock/aircraft.jpg
-  description: Airplane flying into sunset
-  linkto: /news/2021/09/23/u-s-access-board-holds-public-briefing-on-study-on-the-feasibility-of-wheelchair-securement-systems-in-passenger-aircraft/ 
-  linktext: Learn More
-
+     
 - title: Inclusive Exercise and Fitness Equipment
   text: "Learn more about the Board's virtual meeting on inclusive exercise and fitness equipment on July 14, 2021."
   image: /images/stock/hero-fitness02.jpeg
@@ -53,31 +25,10 @@
   description: Background CAD drawing of a vehicle
   linkto: /av/
   linktext: Learn More
-
-- title: Kiosks
-  text: "Learn more about the Board’s event on access to kiosks and other self-service transaction machines (SSTMs)."
-  image: /images/stock/hero-kiosk.jpeg
-  description: Background image of person using airport kiosk
-  linkto: /news/2021/05/24/u-s-access-board-conducts-panel-discussions-on-self-service-transaction-machines/
-  linktext: Learn More
-
-- title: Training & Webinars
-  text: "Request a virtual training or attend a free monthly webinar on the Architectural Barriers Act (ABA) and Americans with Disabilities Act (ADA) guidelines and standards and accessible design."
-  image: /images/stock/hero-training.jpeg
-  description: Background image of a futuristic screen with the word "Training"
-  linkto: /webinars/
-  linktext: Learn More
-  
+ 
 - title: Featured News & Events
-  text: "Read about upcoming events and the latest news on the Board’s announcements and activities related to accessibility and disability."
+  text: "Read about upcoming events and the latest news on the Board's announcements and activities related to accessibility and disability."
   image: /images/stock/hero-news.jpeg
   description: Background image of newspaper and coffee cup
   linkto: /news/
-  linktext: Learn More
-  
-- title: ABA Complaints
-  text: "File an Architectural Barriers Act of 1968 (ABA) complaint for encounters or awareness of an accessibility barrier at a federal building or facility."
-  image: /images/stock/hero-abacomplaint.jpeg
-  description: Background image of eyeglasses on a complaint form
-  linkto: /enforcement/
   linktext: Learn More
