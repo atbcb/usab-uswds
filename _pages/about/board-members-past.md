@@ -259,7 +259,7 @@ permalink: /about/members-past.html
 2016-present  
 2016-present
 
-<img src="{{ site.baseurl }}/images/obama.jpg" alt="President Joseph Biden">
+<img src="{{ site.baseurl }}/images/biden.jpg" alt="President Joseph Biden">
 
 ### Appointed by President Joseph Biden
 
