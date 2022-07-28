@@ -10,7 +10,8 @@ permalink: /about/members-past.html
 
 ## Public Members of the Access Board (1979 -- Present)
 
-<img src="/images/the_board/carter.jpg" alt="President Jimmy Carter">
+<img src="{{ site.baseurl }}/images/carter.jpg" alt="President Jimmy Carter">
+
 
 ### Appointed by President Jimmy Carter
 
@@ -38,7 +39,8 @@ permalink: /about/members-past.html
 1979-1984  
 1979-1984
 
-<img src="/images/the_board/reagan.jpg" alt="President Ronald Reagan">
+<img src="{{ site.baseurl }}/images/reagan.jpg" alt="President Ronald Reagan">
+
 
 ### Appointed by President Ronald Reagan
 
@@ -96,7 +98,8 @@ permalink: /about/members-past.html
 1988-1994  
 1988-1992
 
-<img src="/images/the_board/bush1.jpg" alt="President George H.W. Bush">
+<img src="{{ site.baseurl }}/images/bush-hw.jpg" alt="President George H.W. Bush">
+
 
 ### Appointed by President George H.W. Bush
 
@@ -124,7 +127,8 @@ permalink: /about/members-past.html
 1993-1998  
 1993-1996
 
-<img src="/images/the_board/clinton.jpg" alt="President William Clinton">
+<img src="{{ site.baseurl }}/images/clinton.jpg" alt="President William Clinton">
+
 
 ### Appointed by President William Clinton
 
@@ -164,7 +168,8 @@ permalink: /about/members-past.html
 2000-2004  
 2000-2005
 
-<img src="/images/the_board/bush2.jpg" alt="President George W. Bush">
+<img src="{{ site.baseurl }}/images/bush-w.jpg" alt="President George W. Bush">
+
 
 ### Appointed by President George W. Bush
 
@@ -218,7 +223,8 @@ permalink: /about/members-past.html
 2008-2015  
 2008-2016
 
-<img src="/images/the_board/obama.jpg" alt="President Barack Obama">
+<img src="{{ site.baseurl }}/images/obama.jpg" alt="President Barack Obama">
+
 
 
 ### Appointed by President Barack Obama
@@ -252,3 +258,27 @@ permalink: /about/members-past.html
 2015-present  
 2016-present  
 2016-present
+
+<img src="{{ site.baseurl }}/images/biden.jpg" alt="President Joseph Biden">
+
+### Appointed by President Joseph Biden
+
+* Elver Ariza-Silva
+* Heather Dowdy
+* Mozhdeh Amelia Hamraie
+* Hannah Raissa Ibañez
+* Alexis Ander Kashar
+* KR Liu
+* Benjamin William Julian Nadolsky
+* Madeline Rose Ruvolo
+* Gregory S. Fehribach (reappointed)
+
+2022-present  
+2022-present  
+2022-present  
+2022-present  
+2022-present  
+2022-present  
+2022-present  
+2022-present  
+2016-present  
