@@ -15,217 +15,119 @@ permalink: /about/members-past.html
 
 ### Appointed by President Jimmy Carter
 
-* Robert G. Sampson
-* Patrick G. Casey 
-* David F. Cruz Vélez 
-* Walter H. Richter
-* Carol A. Grant 
-* Kay E. Neil 
-* William A. Passmore
-* Mason H. Rose V
-* Paul Muldawer
-* Hale J. Zukas 
-* William R. Ralls 
+* Robert G. Sampson (1979-1980)
+* Patrick G. Casey (1979-1982)
+* David F. Cruz Vélez (1979-1982)
+* Walter H. Richter (1979-1982)
+* Carol A. Grant (1979-1983)
+* Kay E. Neil (1979-1983)
+* William A. Passmore (1979-1983)
+* Mason H. Rose V (1979-1983)
+* Paul Muldawer (1979-1984)
+* Hale J. Zukas (1979-1984)
+* William R. Ralls (1979-1984)
 
-1979-1980  
-1979-1982  
-1979-1982  
-1979-1982  
-1979-1983  
-1979-1983  
-1979-1983  
-1979-1983  
-1979-1984  
-1979-1984  
-1979-1984
 
 <img src="{{ site.baseurl }}/images/reagan.jpg" alt="President Ronald Reagan">
 
 
 ### Appointed by President Ronald Reagan
 
-* David W. Myers
-* Scott Moore Duncan 
-* Mary Alice Ford 
-* Charles R. Hauser 
-* Richard Chavez 
-* Rosemary Margaret Front
-* Jack O. McSpadden
-* David H. Welch 
-* Vito P. Battista
-* Elizabeth M. Hanicke 
-* Nackey Scripps Loeb
-* Truman H. Cline
-* Steven A. Diaz 
-* Norman Hughes 
-* William J. Tangye 
-* Lane A. Carson 
-* Robert C. Brostrom
-* Robert Anthony Cothren 
-* Howard Adams
-* Gene A. Chappie 
-* Robert T. Kelly, Jr.
-* Howard E. "Rocky" Stone
-* William H. McCabe
-* Glen Stotler 
-* Stephen B. Bull
-* Susan A. Castle Webb
-
-1981-1987  
-1982-1985  
-1982-1985  
-1982-1987  
-1983-1988  
-1983-1986  
-1983-1985  
-1983-1985  
-1984-1987  
-1984-1987  
-1984  
-1985-1987  
-1985-1987  
-1985-1987  
-1985-1990  
-1985-1988  
-1986-1992  
-1987-1992  
-1987-1991  
-1987-1990  
-1987-1993  
-1988-1992  
-1988-1994  
-1988-1994  
-1988-1994  
-1988-1992
+* David W. Myers (1981-1987)
+* Scott Moore Duncan (1982-1985)
+* Mary Alice Ford 1982-1985)
+* Charles R. Hauser (1982-1987)
+* Richard Chavez (1983-1988)
+* Rosemary Margaret Front (1983-1986)
+* Jack O. McSpadden (1983-1985)
+* David H. Welch (1983-1985)
+* Vito P. Battista (1984-1987)
+* Elizabeth M. Hanicke (1984-1987)
+* Nackey Scripps Loeb (1984)
+* Truman H. Cline (1985-1987)
+* Steven A. Diaz (1985-1987)
+* Norman Hughes (1985-1987)
+* William J. Tangye (1985-1990)
+* Lane A. Carson (1985-1988)
+* Robert C. Brostrom (1986-1992)
+* Robert Anthony Cothren (1987-1992)
+* Howard Adams (1987-1991)
+* Gene A. Chappie (1987-1990)
+* Robert T. Kelly, Jr. (1987-1993)
+* Howard E. "Rocky" Stone (1988-1992)
+* William H. McCabe (1988-1994)
+* Glen Stotler (1988-1994)
+* Stephen B. Bull (1988-1994)
+* Susan A. Castle Webb (1988-1992)
 
 <img src="{{ site.baseurl }}/images/bush-hw.jpg" alt="President George H.W. Bush">
 
-
 ### Appointed by President George H.W. Bush
 
-* Eugene C. Johnson
-* Porfirio C. Diaz, Jr. 
-* Scott Moore Duncan 
-* Kathleen Parker 
-* S. Craig Kiser
-* Tracy James Mueller
-* Peggy Elliott 
-* R. Jack Powell
-* Fritz Edmunds, Jr. 
-* Margaret C. Hager
-* Anne M. Harding
-
-1989-1991  
-1990-1996  
-1990-1995  
-1991-1994  
-1991-1996  
-1992-1995  
-1992-1995  
-1992-1996  
-1992-1995  
-1993-1998  
-1993-1996
+* Eugene C. Johnson (1989-1991)
+* Porfirio C. Diaz, Jr. (1990-1996)
+* Scott Moore Duncan (1990-1995)
+* Kathleen Parker (1991-1994)
+* S. Craig Kiser (1991-1996)
+* Tracy James Mueller (1992-1995)
+* Peggy Elliott (1992-1995)
+* R. Jack Powell (1992-1996)
+* Fritz Edmunds, Jr. (1992-1995)
+* Margaret C. Hager (1993-1998)
+* Anne M. Harding (1993-1996)
 
 <img src="{{ site.baseurl }}/images/clinton.jpg" alt="President William Clinton">
 
-
 ### Appointed by President William Clinton
 
-* Donna L. Sorkin 
-* Pamela Young-Holmes
-* John H. Catlin 
-* Lori L. Vande Zande 
-* Patrick D. Cannon 
-* Chester R. Helms 
-* June I. Kailes 
-* Nancy J. Bloch 
-* Carl G. Lewis 
-* James J. Weisman 
-* Marilyn Golden 
-* Marc D. Guthrie 
-* William F. Paul 
-* Kenneth Schoonover 
-* J. Richard Thesing 
-* Marilynn Porter 
-* Soy Williams 
-
-1994-2002  
-1994-2002  
-1994-2002  
-1994-2000  
-1995-2003  
-1995-1997  
-1995-2003  
-1996-2000  
-1996-2003  
-1996-2000  
-1996-2005  
-1996-2005  
-1998-2003  
-1998-2005  
-2000-2004  
-2000-2004  
-2000-2005
-
+* Donna L. Sorkin (1994-2002)
+* Pamela Young-Holmes (1994-2002)
+* John H. Catlin (1994-2002)
+* Lori L. Vande Zande (1994-2000)
+* Patrick D. Cannon (1995-2003)
+* Chester R. Helms (1995-1997)
+* June I. Kailes (1995-2003)
+* Nancy J. Bloch (1996-2000)
+* Carl G. Lewis (1996-2003)
+* James J. Weisman (1996-2000)
+* Marilyn Golden (1996-2005)
+* Marc D. Guthrie (1996-2005)
+* William F. Paul (1998-2003)
+* Kenneth Schoonover (1998-2005)
+* J. Richard Thesing (2000-2004)
+* Marilynn Porter (2000-2004)
+* Soy Williams (2000-2005)
+ 
 <img src="{{ site.baseurl }}/images/bush-w.jpg" alt="President George W. Bush">
-
 
 ### Appointed by President George W. Bush
 
-* Bruce Growick
-* James R. ("J.R.") Harding 
-* Jan Tuck 
-* Douglas Anderson 
-* James J. Elekes 
-* Gwendolyn Trujillo 
-* Denis Pratt 
-* Pamela Dorwarth 
-* Gary L. Talbot 
-* Tricia Mason
-* Philip G. Pearce
-* Daniel O. Rios 
-* John O. Woods, Jr.
-* Joseph A. Cirillo 
-* Elizabeth A. Stewart 
-* John C. Wyvill
-* John Gunnar Box
-* Ronald J. Gardner 
-* Neil K. Melick 
-* James R. ("J.R.") Harding
-* Edward H. Gee 
-* Phillip D. Jenkins 
-* Nancy Starnes 
-* Hans A. Van Winkle 
-
-2002-2006  
-2002-2006  
-2002-2006  
-2003-2011  
-2003-2007  
-2003-2007  
-2003-2007  
-2004-2007  
-2004-2012  
-2005-2008  
-2005-2008  
-2005-2008  
-2005-2008  
-2006-2010  
-2006-2010  
-2006-2011  
-2007-2014  
-2007-2011  
-2007-2012  
-2007-2011  
-2008-2012  
-2008-2015  
-2008-2015  
-2008-2016
+* Bruce Growick (2002-2006)
+* James R. ("J.R.") Harding (2002-2006) 
+* Jan Tuck (2002-2006)
+* Douglas Anderson (2003-2011)
+* James J. Elekes (2003-2007)
+* Gwendolyn Trujillo (2003-2007)
+* Denis Pratt (2003-2007)
+* Pamela Dorwarth (2004-2007)
+* Gary L. Talbot (2004-2012)
+* Tricia Mason (2005-2008)
+* Philip G. Pearce (2005-2008)
+* Daniel O. Rios (2005-2008)
+* John O. Woods, Jr. (2005-2008)
+* Joseph A. Cirillo (2006-2010)
+* Elizabeth A. Stewart (2006-2010)
+* John C. Wyvill (2006-2011)
+* John Gunnar Box (2007-2014)
+* Ronald J. Gardner (2007-2011)
+* Neil K. Melick (2007-2012)
+* James R. ("J.R.") Harding (2007-2011)
+* Edward H. Gee (2008-2012)
+* Phillip D. Jenkins (2008-2015)
+* Nancy Starnes (2008-2015)
+* Hans A. Van Winkle (2008-2016)
 
 <img src="{{ site.baseurl }}/images/obama.jpg" alt="President Barack Obama">
-
-
 
 ### Appointed by President Barack Obama
 
