@@ -27,9 +27,7 @@ permalink: /about/members-past.html
 * Hale J. Zukas (1979-1984)
 * William R. Ralls (1979-1984)
 
-
 <img src="{{ site.baseurl }}/images/reagan.jpg" alt="President Ronald Reagan">
-
 
 ### Appointed by President Ronald Reagan
 
@@ -131,56 +129,30 @@ permalink: /about/members-past.html
 
 ### Appointed by President Barack Obama
 
-* Karen L. Braitmayer FAIA
-* Howard A. Rosenblum 
-* Mathew McCollough 
-* Deborah Ryan 
-* Christopher Stephen Hart 
-* Regina Blye 
-* Marc D. Guthrie 
-* Sachin Dev Pavithran 
-* Michael Graves 
-* Patrick D. Cannon
-* Dr. Victor Santiago Pineda 
-* Karen Tamley
-* Shelley Siegel, FASID
-* Gregory S. Fehribach
-
-2010-present  
-2010-present  
-2011-present  
-2011-present  
-2011-present  
-2011-2018  
-2012-present  
-2012-present  
-2013-2015  
-2014-present  
-2015-present  
-2015-present  
-2016-present  
-2016-present
+* Karen L. Braitmayer FAIA (2010-present)
+* Howard A. Rosenblum (2010-2022)
+* Mathew McCollough (2011-2022)
+* Deborah Ryan (2011-present)
+* Christopher Stephen Hart (2011-2022)
+* Regina Blye (2011-2018)
+* Marc D. Guthrie (2012-2022)
+* Sachin Dev Pavithran (2012-2020)
+* Michael Graves (2013-2015)
+* Patrick D. Cannon (2014-2022)
+* Dr. Victor Santiago Pineda (2015-present)
+* Karen Tamley (2015-present)
+* Shelley Siegel, FASID (2016-2022)
+* Gregory S. Fehribach (2016-present)
 
 <img src="{{ site.baseurl }}/images/biden.jpg" alt="President Joseph Biden">
 
 ### Appointed by President Joseph Biden
 
-* Elver Ariza-Silva
-* Heather Dowdy
-* Mozhdeh Amelia Hamraie
-* Hannah Raissa Ibañez
-* Alexis Ander Kashar
-* KR Liu
-* Benjamin William Julian Nadolsky
-* Madeline Rose Ruvolo
-* Gregory S. Fehribach (reappointed)
-
-2022-present  
-2022-present  
-2022-present  
-2022-present  
-2022-present  
-2022-present  
-2022-present  
-2022-present  
-2016-present  
+* Elver Ariza-Silva (2022-present)
+* Heather Dowdy (2022-present)
+* Mozhdeh Amelia Hamraie (2022-present)
+* Hannah Raissa Ibañez (2022-present)
+* Alexis Ander Kashar (2022-present)
+* KR Liu (2022-present)
+* Benjamin William Julian Nadolsky (2022-present)
+* Madeline Rose Ruvolo (2022-present)
