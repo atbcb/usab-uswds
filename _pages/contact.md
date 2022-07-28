@@ -9,7 +9,7 @@ permalink: /contact/
 
 1331 F Street NW, Suite 1000  
 Washington, DC  20004-1111  
-Phone (voice):  202-272-0080
+Phone (voice):  202-272-0080 \
 Fax:  202-272-0081  
 Email:  <info@access-board.gov>
 
@@ -17,7 +17,7 @@ Email:  <info@access-board.gov>
 
 If you have questions on these accessibility guidelines and standards call or email:
 
--   202-272-0080, x3 (voice)
+-   202-272-0080, extension 3 (voice)
 -   <ta@access-board.gov>
 
 *Technical assistance is available 10:00 -- 5:00 ET weekdays.*
