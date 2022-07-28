@@ -12,13 +12,6 @@
   linkto: /deia-recommendations/
   linktext: Learn More
      
-- title: Inclusive Exercise and Fitness Equipment
-  text: "Learn more about the Board's virtual meeting on inclusive exercise and fitness equipment on July 14, 2021."
-  image: /images/stock/hero-fitness02.jpeg
-  description: Background image of fitness exercise equipment
-  linkto: /news/2021/07/15/u-s-access-board-holds-virtual-meeting-on-inclusive-exercise-and-fitness-equipment/
-  linktext: Learn More
-
 - title: Autonomous Vehicles
   text: "Learn more about the Board's public forum on autonomous vehicles (March-April 2021)."
   image: /images/stock/av-hero.jpg
@@ -26,9 +19,9 @@
   linkto: /av/
   linktext: Learn More
  
-- title: Featured News & Events
-  text: "Read about upcoming events and the latest news on the Board's announcements and activities related to accessibility and disability."
-  image: /images/stock/hero-news.jpeg
-  description: Background image of newspaper and coffee cup
-  linkto: /news/
+- title: Public Events
+  text: "Learn more about upcoming events and access archived event recordings of the Board."
+  image: /images/stock/hero-microphone.png
+  description: Black microphone
+  linkto: /events/
   linktext: Learn More
