@@ -17,7 +17,7 @@ compliance with standards issued under the ADA and the ABA.
 ### The International Symbol of Accessibility (ISA)
 
 {% include imgright-italictextbelow.html
-    img-file="isa.JPG"
+    img-file="isa.jpg"
     img-alt="International Symbol of Accessibility (ISA)"
     text="<strong>ISA</strong> (1968)"
 %}
