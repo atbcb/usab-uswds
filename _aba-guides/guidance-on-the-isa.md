@@ -1,6 +1,6 @@
 ---
 title: "Guidance on the International Symbol of Accessibility"
-order-number: 699
+order-number: 799
 file: /files/ada/guides/ISA-guidance.pdf
 file-description: PDF version of ISA Guidance
 redirect_from: 
@@ -17,9 +17,9 @@ compliance with standards issued under the ADA and the ABA.
 ### The International Symbol of Accessibility (ISA)
 
 {% include imgright-italictextbelow.html
-img-file= "isa.JPG"
-img-alt= "International Symbol of Accessibility (ISA)"
-text= "<strong>ISA</strong> (1968)"
+    img-file="isa.JPG"
+    img-alt="International Symbol of Accessibility (ISA)"
+    text="<strong>ISA</strong> (1968)"
 %}
 
 Created in 1968 through a design competition by Rehabilitation
