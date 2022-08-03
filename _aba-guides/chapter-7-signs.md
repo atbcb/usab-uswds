@@ -14,8 +14,8 @@ This guide explains scoping and technicalrequirements in the [ABA Standards]({{ 
 
 [[§F216]({{ site.baseurl }}/aba/#aba-f216)]
 
+{:.sr-only}
 In this document ″ symbol represents “inches” and ′ symbol represents "feet". Some images are labeled with notes, these labeled images are prefaced “begin image notes” and end with “end image notes”.
-{: .sr-only }
 
 The Standards require accessible signs that are used to identify certain accessible 
 elements and spaces. Other types of signs, however, including room numbers and room 
