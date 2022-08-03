@@ -569,11 +569,14 @@ a.style-inherit:focus>div.gray-to-color {
   background-size: 20px 20px;
 }
 
-
-
-
-// custom colors
-// ev charging tad
+// custom colors for ev charging tad
 .bg-green-light {
   background-color: #ECFFDC;
+}
+
+// invisible text for custom cues for screen reading software
+.sr-only {
+	color: white;
+	background-color: white;
+//	font-size:0px;
 }
