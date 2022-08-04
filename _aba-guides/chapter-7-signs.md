@@ -8,14 +8,13 @@ file-description: PDF version of Chapter 7 Signage Guide
 
 This guide explains scoping and technicalrequirements in the [ABA Standards]({{ site.baseurl }}/aba/) for signs.
 
-![signs icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/signs.png){: .img-right }{: .thumbnail }
+![signs icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }{: .thumbnail }
 
 ### Required Compliance
 
 [[§F216]({{ site.baseurl }}/aba/#aba-f216)]
 
-{:.sr-only}
-In this document ″ symbol represents “inches” and ′ symbol represents "feet". Some images are labeled with notes, these labeled images are prefaced “begin image notes” and end with “end image notes”.
+In this document ″ symbol represents “inches” and ′ symbol represents "feet". Some images are labeled with notes, these labeled images are prefaced “begin image notes” and end with “end image notes”. {: .sr-only }
 
 The Standards require accessible signs that are used to identify certain accessible 
 elements and spaces. Other types of signs, however, including room numbers and room 
@@ -392,15 +391,15 @@ spacedot height: 0.025″ – 0.037″
 0.090″ – 0.100″0.241″ – 0.300″
 all dot spacing measured center-to-center
 
-begin image notes /
-all dot spacing measured center-to-center /
-dot spacing between adjacent cells: 0.241″ – 0.300″ /
-dot spacing within cell: 0.090″ – 0.100″ /
-dot spacing between cells in separate lines: 0.395″ – 0.4″ /
-dot height: 0.025″ – 0.037″ /
-dot base diameter: 0.059″ – 0.063″ /
-blank cell space /
-braille cell /
+begin image notes \
+all dot spacing measured center-to-center \
+dot spacing between adjacent cells: 0.241″ – 0.300″ \
+dot spacing within cell: 0.090″ – 0.100″ \
+dot spacing between cells in separate lines: 0.395″ – 0.4″ \
+dot height: 0.025″ – 0.037″ \
+dot base diameter: 0.059″ – 0.063″ \
+blank cell space \
+braille cell \
 end image notes
 
 #### Pictograms [§703.6]
@@ -410,12 +409,9 @@ men's restroom sign with pictogram with dimension lines identifying pictogram fi
 pictogram 
 field
 
-begin image notes
-
-6″ min height of pictogram field
-
-raised characters and braille not in pictogram field
-
+begin image notes \
+6″ min height of pictogram field \
+raised characters and braille not in pictogram field \
 end image notes
 
 The Standards do not mandate the provision of pictograms 
@@ -434,7 +430,9 @@ pictograms that label a permanent room or space, such
 as a restroom, cafeteria, or stairway. 
 
 Restroom sign with pictograms of a man and woman
+
 stairway sign with pictogram of stairs
+
 cafeteria sign with pictogram of fork and knife
 
 ##### Informational Pictograms
@@ -448,8 +446,11 @@ Symbol of TTY directional sign, a pictogram indicating a no cellphone use area, 
 the biohazard symbol. 
 
 ISA
+
 TTY symbol and arrow
+
 no cell phones symbol
+
 biohazard symbol
 
 #### Installation Height and Location [§703.4]
@@ -459,12 +460,10 @@ floor or ground surface, measured from the baseline of the lowest tactile charac
 60 inches maximum above the finish floor or ground surface, measured from the baseline of 
 the highest tactile character. This location is convenient for tactile reading. sign next to door with inset closeup showing minimum and maximum height of braille and raised characters
 48″ min60″ max
-begin image notes
 
-48″ min height to braille baseline
-
-60″ max height to text baseline
-
+begin image notes \
+48″ min height to braille baseline \
+60″ max height to text baseline \
 end image notes
 
 A clear floor space 18 inches minimum by 18 inches minimum must be centered on the tactile 
@@ -537,19 +536,13 @@ distance)
 Non-glare finishLight-on-dark or dark-on-light contrast between 
 characters and the background
 
-begin image notes
-
-Upper or lowercase characters (or combination of both), conventional form (prohibited: italic, oblique, script, highly decorative or other unusual forms)
-
-Line spacing: 135% – 170% of character height
-
-Characters 40" min. above finish floor or ground
-
-Character height (based on viewing distance)
-
-Non-glare finish
-
-Light-on-dark or dark-on-light contrast between characters and the background
+begin image notes \
+Upper or lowercase characters (or combination of both), conventional form (prohibited: italic, oblique, script, highly decorative or other unusual forms) \
+Line spacing: 135% – 170% of character height \
+Characters 40" min. above finish floor or ground \
+Character height (based on viewing distance) \
+Non-glare finish \
+Light-on-dark or dark-on-light contrast between characters and the background \
 
 Characters must contrast with their background with either light-on-dark or dark-on-light and 
 have a non-glare finish. A minimum level of contrast is not specified in the Standards. The 
@@ -572,22 +565,17 @@ height. Characters must be selected from fonts where the width of the uppercase 
 Uppercase letter "I" with dimension lines identifying minimum and maximum stroke thickness.
 min 10% of heightmax 30% of height
 
-begin image notes
-
-min stroke width 10% of character height
-
-max stroke width 30% of character height
-
+begin image notes \
+min stroke width 10% of character height \
+max stroke width 30% of character height \
 end image notes
 
 Overlapping uppercase "o" letters showing thin and wide character shapes above a sideways uppercase letter "I".
 max 110% of heightmin 55% of height
-begin image notes
 
-max character width 110% of character height
-
-min character width 55% of character height
-
+begin image notes \
+max character width 110% of character height \
+min character width 55% of character height \
 end image notes
 
 #### Character Spacing
@@ -598,10 +586,8 @@ excluding word spaces, must be 10% to 35% of the character height.
 Uppercase letters "I" and "O" with dimension line identifying closest point between characters
 10% – 35% of height
 
-begin image notes
-
-Distance between characters is 10% – 35% of character height
-
+begin image notes \
+Distance between characters is 10% – 35% of character height \
 end image notes
 
 #### Character Height
@@ -618,12 +604,9 @@ Horizontal Viewing Distance
 between the character and an obstruction 
 preventing further approach to the sign
 
-begin image notes
-
-Horizontal Viewing Distance between the character and an obstruction preventing further approach to the sign
-
-Height from finish floor/ground to character baseline (40″ min.)
-
+begin image notes \
+Horizontal Viewing Distance between the character and an obstruction preventing further approach to the sign \
+Height from finish floor/ground to character baseline (40″ min.) \
 end image notes
 
 Height
@@ -693,26 +676,19 @@ sign mounted to single post with dimension lines identifying height from finish 
 27″ – 80″
 12″ max
 
-begin image notes
-
-27 inch – 80 inch height to bottom of sign
-
-12 inch maximum from post mount to sign edge
-
+begin image notes \
+27 inch – 80 inch height to bottom of sign \
+12 inch maximum from post mount to sign edge \
 end image notes
 
 sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.
 27″ – 80″
 12″ max12″ max
 
-begin image notes
-
-27 inch – 80 inch height to bottom of sign
-
-12 inch maximum from post mount to sign edge
-
-12 inch maximum between posts
-
+begin image notes \
+27 inch – 80 inch height to bottom of sign \
+12 inch maximum from post mount to sign edge \
+12 inch maximum between posts \
 end image notes
 
 Post-mounted signs with leading edges 27 inches maximum or above 80 inches can protrude 
@@ -721,27 +697,19 @@ any amount from posts or pylons.
 low sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.
 27″ max heightany distanceany distance
 
-begin image notes
-
-27″ max height to bottom of sign
-
-any distance between posts
-
-any distance from post to sign edge
-
+begin image notes \
+27″ max height to bottom of sign \
+any distance between posts \
+any distance from post to sign edge \
 end image notes
 
 high sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.
 80″ minany distanceany distance
 
-begin image notes
-
-80″ min height to bottom of sign
-
-any distance between posts
-
-any distance from post to sign edge
-
+begin image notes \
+80″ min height to bottom of sign \
+any distance between posts \
+any distance from post to sign edge \
 end image notes
 
 ### Signs at Transportation Facilities [§810.4, §810.6]
@@ -856,6 +824,7 @@ accessible parking signs, but can be included.
 #### International Symbol of Accessibility [§F216.5 – §F216.8, §F216.11, §703.7.2.1]
 
 White ISA on black background
+
 Black ISA on white background
 
 The Standards reference the International Symbol of Accessibility (ISA), 
@@ -935,10 +904,8 @@ must be provided to:
 Family Restroom sign with pictogram of adults holding child's hands and an ISA. Below pictogram field are raised characters with contrast and braille
 6″ min
 
-begin image note
-
-6″ minimum height of pictogram field
-
+begin image note \
+6″ minimum height of pictogram field \
 end image note
 
 caption: The ISA must meet finish 
@@ -968,12 +935,9 @@ labelled by the ISA.
 Parking sign with ISA and dimension line indicating height from finish floor to bottom of sign
 60″ minimum
 
-begin image note
-
-60″ minimum height to bottom of sign
-
-end image note
-
+begin image note \
+60″ minimum height to bottom of sign \
+end image note \
 van accessible parking sign
 
 Accessible parking spaces must be identified by signs with the ISA. The 
@@ -1159,20 +1123,14 @@ Amusement Ride Signs
 • Must comply with visual criteria 
 §703.5
 
-
 Rail Station Identification Signs
 
 §810.6.2 §810.6.3
 
-• Tactile criteria §703.2 (sign on 
-each platform or boarding area) 
-• Visual criteria §703.5 (clearly 
-visible from within vehicles on both 
-sides) 
+* Tactile criteria §703.2 (sign on each platform or boarding area) 
+* Visual criteria §703.5 (clearly visible from within vehicles on both sides) 
 
-* Required at entrances, toilet and bathing rooms, parking spaces, check-out aisles, and 
-existing elevators (unless all are accessible) and on directional signs to accessible entrances 
-and toilet and bathing rooms
+* Required at entrances, toilet and bathing rooms, parking spaces, check-out aisles, and existing elevators (unless all are accessible) and on directional signs to accessible entrances and toilet and bathing rooms
 
 Requirements for Visual and Raised Characters
 
@@ -1229,8 +1187,7 @@ Character Proportion
 
 Character Spacing
 
-10% - 35% of the character 
-height
+10% - 35% of the character height
 
 1/8” – 4x stroke width** 
 
