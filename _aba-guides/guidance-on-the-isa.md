@@ -1,12 +1,12 @@
 ---
-title: "Guidance on the International Symbol of Accessibility"
+title: Guidance on the International Symbol of Accessibility
 order-number: 799
 file: /files/ada/guides/ISA-guidance.pdf
 file-description: PDF version of ISA Guidance
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/guidance-on-the-isa/
 ---
-**March 27, 2017**
+## {{ page.title }}
 
 The U.S. Access Board provides the following guidance on use of the
 International Symbol of Accessibility (ISA) under the Americans with
@@ -108,3 +108,7 @@ interested in implementing an alternative symbol of accessibility are
 encouraged to contact the ISO's [Technical Committee 145 on Graphic
 Symbols](http://www.iso.org/iso/iso_technical_committee%3Fcommid%3D52662)
 which maintains the graphic symbol standards.
+
+----
+
+March 27, 2017
