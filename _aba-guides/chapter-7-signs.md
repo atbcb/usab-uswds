@@ -14,12 +14,12 @@ This guide explains scoping and technicalrequirements in the [ABA Standards]({{ 
 
 [[§F216]({{ site.baseurl }}/aba/#aba-f216)]
 
-In this document ″ symbol represents “inches” and ′ symbol represents "feet". Some images are labeled with notes, these labeled images are prefaced “begin image notes” and end with “end image notes”. {: .sr-only }
+{: .sr-only } In this document ″ symbol represents “inches” and ′ symbol represents “feet”.&nbsp;
+Some images are labeled with notes, these labeled images are prefaced “begin image notes” and end with “end image notes”. 
 
-The Standards require accessible signs that are used to identify certain accessible 
-elements and spaces. Other types of signs, however, including room numbers and room 
-labels, are covered only where they are provided. The Standards address visual and 
-tactile content on signs, where provided. 
+The Standards require accessible signs that are used to identify certain accessible elements and spaces.&nbsp;
+Other types of signs, however, including room numbers and room labels, are covered only where they are provided.&nbsp;
+The Standards address visual and tactile content on signs, where provided.
 
 The following types of signs are exempt and not required to meet visual and tactile 
 requirements: 
@@ -32,8 +32,7 @@ requirements:
 * signs in non-public areas of detention or correctional facilities. 
 
 Blind woman wayfinding with long-cane along hallway with doors. Each door is labeled with an adjacent sign.
-caption: Doorways provide a tactile cue for 
-locating signs.
+caption: Doorways provide a tactile cue for locating signs.
 
 Signs covered by the Standards must meet 
 specifications for visual requirements so 
