@@ -121,6 +121,12 @@ ol li ol li ol li {
   content: " ";
 }
 
+figure figcaption {
+	text-align:center;
+	font-size:smaller;
+	font-style:oblique;
+}
+
 // table styles for Performance and Accountability Report
 h6.par {
 	margin-left: 2em;
@@ -259,7 +265,7 @@ td ul.check {
   }
 }
 
-//usa hero custom styling
+// usa hero custom styling
 @media (min-width: 40em) {
   .usa-hero__callout {
   max-width: 30rem;
@@ -572,11 +578,4 @@ a.style-inherit:focus>div.gray-to-color {
 // custom colors for ev charging tad
 .bg-green-light {
   background-color: #ECFFDC;
-}
-
-// invisible text for custom cues for screen reading software
-.sr-only {
-	color: white;
-	background-color: white;
-//	font-size:0px;
 }
