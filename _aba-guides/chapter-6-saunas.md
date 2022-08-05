@@ -10,6 +10,8 @@ This guide explains requirements in the [ABA Standards]({{ site.baseurl }}/aba/)
 
 ![sauna icon]({{ site.baseurl }}{{ page.image-directory }}chapter6/saunas/sauna.png){: .img-right }{: .thumbnail }
 
+{% include sr-dimension-markings.html %}
+
 ### Required Compliance
 
 [[§F241]({{ site.baseurl }}/aba/#aba-f241)]
@@ -20,7 +22,7 @@ Saunas and steam rooms, where provided, must be accessible. Where two or more sa
 
 #### Saunas and Steam Rooms
 
-[[§612]({{ site.baseurl }}/aba/#aba-612)]
+[\[§612]({{ site.baseurl }}/aba/#aba-612)]
 
 Requirements for saunas and steam rooms address doors, wheelchair turning space, benches, and controls and other operable parts.
 
@@ -36,7 +38,7 @@ Requirements for saunas and steam rooms address doors, wheelchair turning space,
 
 ### Turning Space
 
-[[§612.3]({{ site.baseurl }}/aba/#aba-612_3), [§304]({{ site.baseurl }}/aba/#aba-304)]
+[\[§612.3]]({{ site.baseurl }}/aba/#aba-612_3), [\[§304]({{ site.baseurl }}/aba/#aba-304)]
 
 Wheelchair turning space is required in accessible saunas and steam rooms. This turning space must be a 60\" diameter circle or T-shaped. Readily removable benches may obstruct the turning space, but it is advisable that they be placed outside the turning space.
 
