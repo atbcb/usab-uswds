@@ -4,19 +4,15 @@ order-number: 701
 file:  /files/aba/guides/signs-ABA.pdf
 file-description: PDF version of Chapter 7 Signage Guide
 ---
-## {{ page.title }}
+## {{ page.title }} ![signs icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }{: .thumbnail }
 
 This guide explains scoping and technicalrequirements in the [ABA Standards]({{ site.baseurl }}/aba/) for signs.
 
-![signs icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }{: .thumbnail }
+{% include sr-dimension-markings.html %}
 
 ### Required Compliance
 
 [[§F216]({{ site.baseurl }}/aba/#aba-f216)]
-
-{:.usa-sr-only}
-In this document ″ symbol represents “inches” and ′ symbol represents “feet”.&nbsp;
-Some images are labeled with notes, these labeled images are prefaced “begin image notes” and end with “end image notes”. 
 
 The Standards require accessible signs that are used to identify certain accessible elements and spaces.&nbsp;
 Other types of signs, however, including room numbers and room labels, are covered only where they are provided.&nbsp;
