@@ -4,7 +4,7 @@ order-number: 701
 file:  /files/aba/guides/signs-ABA.pdf
 file-description: PDF version of Chapter 7 Signage Guide
 ---
-![signs icon 1 2 3]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }{: .thumbnail }
+![signs icon 1 2 3]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }
 
 ## {{ page.title }}
 
@@ -14,7 +14,7 @@ This guide explains scoping and technicalrequirements in the [ABA Standards]({{ 
 
 ### Required Compliance
 
-[[§F216]({{ site.baseurl }}/aba/#aba-f216)]
+[\[§F216]({{ site.baseurl }}/aba/#aba-f216)]
 
 The Standards require accessible signs that are used to identify certain accessible elements and spaces.&nbsp;
 Other types of signs, however, including room numbers and room labels, are covered only where they are provided.&nbsp;
@@ -32,7 +32,7 @@ requirements:
 
 <figure class="right">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign_walk.png"
-       alt="Woman with long white walking along hallway with doors.  Each door is labeled with an adjacent sign.">
+       alt="Woman with long white cane walking along hallway with doors.  Each door is labeled with an adjacent sign.">
   <figcaption>
     Doorways provide a tactile cue for locating signs.
   </figcaption>
@@ -50,6 +50,25 @@ Each type of content provided must be evaluated to determine how the content mus
 
 ### Tactile Signs
 
+<table class="img-right">
+  <tr>
+    <td>
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door@4x.png" alt="open doorway icon" />
+    </td>    
+    <td>
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit@4x.png" alt="exit sign icon" />
+    </td>    
+  </tr>
+  <tr>
+    <td>
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevator@4x.png" alt="elevator icon" />
+    </td>
+    <td>
+      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Train@4x.png" alt="train icon" />
+    </td>
+  </tr>
+</table>
+
 Tactile requirements apply to these types of signs: 
 
 * interior and exterior signs identifying permanent rooms and spaces, where provided (§F216.2); 
@@ -59,7 +78,7 @@ Tactile requirements apply to these types of signs:
 
 ### Designations of Permanent Rooms and Spaces
 
-[[§F216.2]({{ site.baseurl }}/aba/#aba-f216_2)]
+[\[§F216.2]({{ site.baseurl }}/aba/#aba-f216_2)]
 
 Signs that identify permanent rooms and spaces include:
 
