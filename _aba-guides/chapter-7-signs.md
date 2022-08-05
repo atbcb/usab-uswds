@@ -51,20 +51,20 @@ Each type of content provided must be evaluated to determine how the content mus
 ### Tactile Signs
 
 <table class="img-right">
-  <tr>
-    <td>
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door@4x.png" alt="open doorway icon" />
+	<tr>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door@4x.png" alt="open doorway icon" />
     </td>    
     <td>
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit@4x.png" alt="exit sign icon" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit@4x.png" alt="exit sign icon" />
     </td>    
   </tr>
   <tr>
     <td>
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevator@4x.png" alt="elevator icon" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevator@4x.png" alt="elevator icon" />
     </td>
     <td>
-      <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Train@4x.png" alt="train icon" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Train@4x.png" alt="train icon" />
     </td>
   </tr>
 </table>
@@ -90,11 +90,23 @@ Visual and tactile requirements apply to both interior and exterior signs labeli
 rooms and spaces. However, exterior signs not located at the door to the space they serve do 
 not have to be tactile but must meet visual requirements (§F216.2, Ex. 1). 
 
-room number sign "304" raised characters and braille
+![room number sign quote 304 unquote raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with pictogram and &quot;restroom&quot; in raised characters and braille"){: .img-left }
+![room name sign quote GRAND BALLROOM unquote in raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png){: .img-center }
+![restroom sign with pictogram and quote RESTROOM unquote in raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png){: .img-right }
 
-room name sign "Grand Ballroom" in raised characters and braille
-
-restroom sign with pictogram and "restroom" in raised characters and braille
+<table class="center">
+	<tr>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with pictogram and &quot;restroom&quot; in raised characters and braille" />
+		</td>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png" alt="room name sign &quot;Grand Ballroom&quot; in raised characters and braille" />
+		</td>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png" alt="room number sign &quot;304&quot; raised characters and braille" />
+		</td>
+	</tr>
+</table>
 
 ### Directional and Informational Signs
 
