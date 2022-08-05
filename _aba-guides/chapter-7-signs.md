@@ -4,9 +4,9 @@ order-number: 701
 file:  /files/aba/guides/signs-ABA.pdf
 file-description: PDF version of Chapter 7 Signage Guide
 ---
-## {{ page.title }}
+![signs icon 1 2 3]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }{: .thumbnail }
 
-![signs icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }{: .thumbnail }
+## {{ page.title }}
 
 This guide explains scoping and technicalrequirements in the [ABA Standards]({{ site.baseurl }}/aba/) for signs.
 
@@ -30,8 +30,13 @@ requirements:
 * seat or row designations in assembly areas; and 
 * signs in non-public areas of detention or correctional facilities. 
 
-Blind woman wayfinding with long-cane along hallway with doors. Each door is labeled with an adjacent sign.
-caption: Doorways provide a tactile cue for locating signs.
+<figure class="right">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign_walk.png"
+       alt="Woman with long white walking along hallway with doors.  Each door is labeled with an adjacent sign.">
+  <figcaption>
+    Doorways provide a tactile cue for locating signs.
+  </figcaption>
+</figure>
 
 Signs covered by the Standards must meet specifications for visual requirements so that they are accessible to people with low vision.&nbsp;
 Several categories of signs also must meet tactile requirements so that they are accessible to people who are blind or have low vision.&nbsp;
