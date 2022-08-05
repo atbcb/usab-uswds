@@ -6,8 +6,7 @@ file-description: PDF version of Chapter 5 Stairways Guide
 redirect_from: 
     - /guidelines-and-standards/buildings-and-sites/about-the-ada-standards/guide-to-the-ada-standards/chapter-5-stairways/
 ---
-This guide explains requirements in the [ADA
-Standards]({{ site.baseurl }}/ada/) for stairways. 
+This guide explains requirements in the [ADA Standards]({{ site.baseurl }}/ada/) for stairways. 
 
 {% include sr-dimension-markings.html %}
 
