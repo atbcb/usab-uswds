@@ -4,7 +4,9 @@ order-number: 701
 file:  /files/aba/guides/signs-ABA.pdf
 file-description: PDF version of Chapter 7 Signage Guide
 ---
-## {{ page.title }} ![signs icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }{: .thumbnail }
+## {{ page.title }}
+
+![signs icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }{: .thumbnail }
 
 This guide explains scoping and technicalrequirements in the [ABA Standards]({{ site.baseurl }}/aba/) for signs.
 
@@ -31,91 +33,83 @@ requirements:
 Blind woman wayfinding with long-cane along hallway with doors. Each door is labeled with an adjacent sign.
 caption: Doorways provide a tactile cue for locating signs.
 
-Signs covered by the Standards must meet 
-specifications for visual requirements so 
-that they are accessible to people with low 
-vision. Several categories of signs also must 
-meet tactile requirements so that they are 
-accessible to people who are blind or have 
-low vision. Tactile requirements primarily 
-apply to signs typically located at doorways 
-because doorways provide a cue for locating 
-signs by touch. 
+Signs covered by the Standards must meet specifications for visual requirements so that they are accessible to people with low vision.&nbsp;
+Several categories of signs also must meet tactile requirements so that they are accessible to people who are blind or have low vision.&nbsp;
+Tactile requirements primarily apply to signs typically located at doorways because doorways provide a cue for locating signs by touch. 
 
-The requirements in this guide apply to 
-certain types of content on signs. There can 
-be multiple types of content provided on a 
-single sign to which different provisions, as 
-described below, may apply. For example, 
-a single sign may provide a room number, 
-which would be required to be visual and 
-tactile, the hours of operation, which is only required to be visual, and the name of the 
-occupant, which does not have to be visual or tactile. Each type of content provided 
-must be evaluated to determine how the content must be made accessible.
+The requirements in this guide apply to certain types of content on signs.&nbsp;
+There can be multiple types of content provided on a single sign to which different provisions, as described below, may apply.&nbsp
+For example, a single sign may provide a room number, which would be required to be visual and tactile, the hours of operation,
+which is only required to be visual, and the name of the occupant, which does not have to be visual or tactile.&nbsp; 
+Each type of content provided must be evaluated to determine how the content must be made accessible.
 
 ### Tactile Signs
 
 Tactile requirements apply to these types of signs: 
 
-* interior and exterior signs identifying permanent 
-rooms and spaces, where provided (§F216.2); 
-* required door labels at exit stairways, exit 
-passageways, and exit discharge (§F216.4.1);
-* required labels for floor levels, car controls, and 
-emergency communication devices at elevators 
-(§407.2.3.1, §407.2.3.2, §407.4.7.1.1, §407.4.9); 
-and 
-* rail station identification signs at entrances and 
-platforms or boarding areas (§810.6.1). 
+* interior and exterior signs identifying permanent rooms and spaces, where provided (§F216.2); 
+* required door labels at exit stairways, exit passageways, and exit discharge (§F216.4.1);
+* required labels for floor levels, car controls, and emergency communication devices at elevators (§407.2.3.1, §407.2.3.2, §407.4.7.1.1, §407.4.9); and 
+* rail station identification signs at entrances and platforms or boarding areas (§810.6.1). 
 
-### Designations of Permanent Rooms and Spaces [§F216.2] 
+### Designations of Permanent Rooms and Spaces
+
+[[§F216.2]({{ site.baseurl }}/aba/#aba-f216_2)]
 
 Signs that identify permanent rooms and spaces include:
 
 * room and floor numbers or letters; 
 * room names; and 
-* labels for restrooms, locker rooms, cafeterias, libraries, conference rooms, 
-mechanical rooms, and other permanent rooms or spaces. 
+* labels for restrooms, locker rooms, cafeterias, libraries, conference rooms, mechanical rooms, and other permanent rooms or spaces. 
 
 Visual and tactile requirements apply to both interior and exterior signs labeling permanent 
 rooms and spaces. However, exterior signs not located at the door to the space they serve do 
 not have to be tactile but must meet visual requirements (§F216.2, Ex. 1). 
 
 room number sign "304" raised characters and braille
+
 room name sign "Grand Ballroom" in raised characters and braille
+
 restroom sign with pictogram and "restroom" in raised characters and braille
 
-### Directional and Informational Signs [§F216.3] 
+### Directional and Informational Signs
+
+[[§F216.3]({{ site.baseurl }}/aba/#aba-f216_3)]
 
 Signs that provide direction to or information about interior spaces and facilities must meet 
-visual requirements but are not required to be tactile. Examples of informational signs include 
-instructions, rules of conduct, hours of operation, and similar content. Directional signs include 
-all types of signs that provide direction to spaces and facilities. These requirements apply only 
-where such signs are provided. 
+visual requirements but are not required to be tactile.&nbsp;
+Examples of informational signs include instructions, rules of conduct, hours of operation, and similar content.&nbsp;
+Directional signs include all types of signs that provide direction to spaces and facilities.&nbsp;
+These requirements apply only where such signs are provided. 
 
 Sign for elevators with arrow
+
 Notice Employees only sign
+
 visitors must sign in sign
 
-### Required Accessibility Symbols [§F216.5 - §F216.11]
+### Required Accessibility Symbols
+
+[[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)] &ndash; [[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)]
 
 The Standards require certain spaces and elements be identified as accessible by providing 
 signs that include International Symbols of: 
 
 * Accessibility; 
-* TTY, or Text Telephone which is a phone assistive device for people with hearing or 
-speech impairments; or 
+* TTY, or Text Telephone which is a phone assistive device for people with hearing or speech impairments; or 
 * Access for Hearing Loss, which indicates availability of an assistive listening system. 
 
 International Symbol of Accessibility
+
 International Symbol of TTY
+
 International Symbol of Access for hearing loss
 
 ### Visual and Tactile Requirements on Single Sign 
 
-Tactile signs must have raised characters that are repeated in Grade 2 braille. In addition, they 
-are subject to requirements for non-glare finish and color contrast for visual accessibility. Other 
-information provided in addition to permanent room or space labels is not required to be raised 
+Tactile signs must have raised characters that are repeated in Grade 2 braille.&nbsp;
+In addition, they are subject to requirements for non-glare finish and color contrast for visual accessibility.&nbsp;
+Other information provided in addition to permanent room or space labels is not required to be raised 
 or brailled but must meet visual criteria if informational or directional. Some information on 
 such signs may be exempt, such as occupant names. 
 
@@ -142,6 +136,7 @@ Visual(informational)
 Tactile & Visual 
 (permanent room label)
 
+{: .usa-sr-only }
 begin image notes \
 Exempt (occupant name, title): Jill Smith; Director \
 Visual (informational): Accounting \
@@ -149,12 +144,12 @@ Tactile & Visual (permanent room label): 403 \
 end image notes
 
 Towncenter plaza with large stone monument sign with embossed "Westgate Plaza"
-caption: Exterior signs labelling permanent rooms 
-and spaces that are not located at a 
-doorway do not have to be tactile but must 
-meet visual criteria. 
 
-### Means of Egress Signs [§F216.4]
+caption: Exterior signs labelling permanent rooms and spaces that are not located at a doorway do not have to be tactile but must meet visual criteria. 
+
+### Means of Egress Signs
+
+[[§F216.4]({{ site.baseurl }}/aba/#aba-f216_4)] 
 
 The Standards require that tactile and visual signs be provided to identify doors at exit 
 stairways, exit passageways, and exit discharge. Exit passageways are horizontal fire 
@@ -166,8 +161,9 @@ Life safety and building codes address the visibility and illumination of exit s
 can also satisfy the visual requirements in the ABA Standards. At exit doors, the tactile 
 requirements typically must be met on a separate sign.
 
-Illuminated EXIT sign above door with small tactile EXIT sign on wall adjacent to door. Magnified cutaway detail shows tactile EXIT sign emphasizing raised text and braille while lacking contrast
-½″ – 2″
+Door with lighted EXIT sign above it.  A small tactile sign on wall to right of the door is circled with an arrow pointed to magnified cutaway image. 
+
+Magnified cutaway detail shows tactile sign with raised letters E X I T having low contrast.  The letters are dimensioned as half inch to two inchnes in height.  Below the raised letters are four braille characters e x i t.
 
 begin image notes \
 ½″ – 2″ raised character height \
@@ -175,17 +171,12 @@ end image notes
 
 #### Separate Tactile Sign
 
-When visual characters are provided on a 
-separate sign (or separately on the same 
-sign), tactile content does not need to meet 
-finish and contrast requirements, and raised 
-characters can have a slightly smaller 
-character height (½ inch instead of ⅝ inch).
+When visual characters are provided on a separate sign (or separately on the same 
+sign), tactile content does not need to meet finish and contrast requirements, and raised 
+characters can have a slightly smaller character height (½ inch instead of ⅝ inch).
 
-caption: This stairway sign includes permanent 
-space labels (stair and floor designations) 
-that must be tactile and visual, as well as 
-content that is required to be visual only 
+caption: This stairway sign includes permanent space labels (stair and floor designations) 
+that must be tactile and visual, as well as content that is required to be visual only 
 (egress-related directions and information).
 
 high contrast sign with visual text "Stair A; Floor 20" and "1 through 25; down to 1st floor for exit discharge; no roof access".
@@ -198,32 +189,30 @@ low contrast sign with "Stair A; Floor 20" in raised text and braille.
 caption: Tactile content on separate sign
 
 Directional signs, including those for means of egress, required by the applicable life safety 
-code, must comply with the visual requirements for information and directional signs (§703.5). 
-In addition, directions to accessible means of egress required by the International Building 
-Code (IBC) must meet visual criteria (§F216.4.3). EXIT sign with ISA symbol and "area of refuge" in high contrast tactile characters with braille.
-caption: Area of refuge signs 
-can be incorporated into 
-required exit signs.
+code, must comply with the visual requirements for information and directional signs (§703.5).&nbsp;
+In addition, directions to accessible means of egress required by the International Building Code
+(IBC) must meet visual criteria (§F216.4.3).&nbp;
+EXIT sign with ISA symbol and "area of refuge" in high contrast tactile characters with braille.
 
-Areas of refuge are fire-resistance rated and smoke-protected 
-areas where those persons who are unable to use stairs can 
-register a call for evacuation assistance and await instructions 
-or assistance. Required by the IBC in some buildings, areas of 
-refuge must provide direct access to an exit stairway (or to an 
-elevator equipped with standby power). Signs labeling areas of 
-refuge must be tactile since they designate a permanent space. 
+caption: Area of refuge signs can be incorporated into required exit signs.
+
+Areas of refuge are fire-resistance rated and smoke-protected areas where those persons who are unable to use stairs can register a call for evacuation assistance and await instructions or assistance.&nbsp; 
+Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
+Signs labeling areas of refuge must be tactile since they designate a permanent space. 
 
 Sign with "Push for Help" in tactile and braille characters. Instructions for use of area of refuge in only visual characters.
 Emergency Phone Call Box
 caption: Instructions on using the area of refuge under 
 emergency conditions must be posted under the 
-IBC [§1007.6.4 (2003) or §1003.2.13.5.4 (2000)]. 
+IBC \[§1007.6.4 (2003) or §1003.2.13.5.4 (2000)]. 
 These instructions must meet requirements 
 for visual characters in the ABA Standards 
 (§F216.4.2) but are not required to be tactile. The 
 IBC specifies the content for these signs.
 
-#### Elevator Signs and Labels [§407] 
+#### Elevator Signs and Labels
+
+[[§407]({{ site.baseurl }}/aba/#407)] 
 
 Elevator Button Panel
 low contrast hoistway floor level sign with tactile number and braille
@@ -240,14 +229,15 @@ characters apply, but there are differences. For example, raised
 characters can be at least 2 inches high on hoistway floor level 
 signs, and tactile content on control panels can be located 
 outside the standard 48 inches – 60 inches mounting height. 
-See Elevators and Platform Lifts Guide for more information.
+See [Elevators and Platform Lifts Guide]({{ site.baseurl }}/aba/guides/chapter-4-elevators-and-platform-lifts/)) for more information.
 
 ### Technical Requirements for Tactile Characters
 
-#### Raised Characters [§703.2]
+#### Raised Characters
 
-Criteria for raised characters address: depth, case, style, character height and proportions, 
-stroke thickness, and line and character spacing.
+[[§703.2]({{ site.baseurl }}/aba/#703_2)] 
+
+Criteria for raised characters address: depth, case, style, character height and proportions, stroke thickness, and line and character spacing.
 
 Family Restroom Sign in both tactile characters and braille.
 Characters 1/32″ min, upper case, sans serif(prohibited: italic, oblique, script, highly decorative or other unusual forms)
@@ -278,11 +268,9 @@ non-glare finish (raised characters and background). \
 Light-on-dark or dark-on-light contrast between the background and raised characters (but not braille). \
 end image notes
 
-Note: If visual characters are provided on a separate sign, the tactile sign does not have to meet finish 
-and contrast criteria and can have raised characters at ½ inch minimum height. 
+Note:&nbsp; If visual characters are provided on a separate sign, the tactile sign does not have to meet finish and contrast criteria and can have raised characters at ½ inch minimum height. 
 
-Character spacing, as measured between the two closest points of adjacent characters 
-excluding word spaces, is specified for rectangular and non-rectangular cross sections.
+Character spacing, as measured between the two closest points of adjacent characters excluding word spaces, is specified for rectangular and non-rectangular cross sections.
 
 Dimension line identifying closest point between two letters.
 
@@ -291,7 +279,7 @@ Top down closeup of two rectangular raised characters
 4x stroke width
 
 begin image note \
-Distance between rectangular raised characters is 1/8 inch – 4x stroke width. \
+Distance between rectangular raised characters is one-eighth inch to four times stroke width. \
 end image note
 
 Top down closeup of two beveled raised characters
@@ -300,8 +288,8 @@ Top down closeup of two beveled raised characters
 4x stroke width
 
 begin image notes \
-Distance between rectangular raised characters is 1/8 inch to 4x stroke width. \
-Distance between top of beveled raised characters is 1/8 inch to 4x stroke width. \
+Distance between rectangular raised characters is one-eighth inch to four times stroke width. \
+Distance between top of beveled raised characters is one-eighth inch to four times stroke. \
 end image notes
 
 The stroke thickness of the uppercase letter “I” must be 15% maximum of the character height. 
@@ -331,7 +319,10 @@ Recommendation: Where visual and tactile access is provided on the same sign,
 provide a stroke thickness no less than 10% of the height based on the uppercase 
 letter “I” so that raised characters are sufficiently legible. 
 
-#### Finish and Contrast [§703.5.1]
+#### Finish and Contrast
+
+[[§703.5.1]({{ site.baseurl }}/aba/#703_5_1)] 
+
 
 When a single set of characters is used to meet requirements for raised and visual characters, 
 the characters and their background must have a non-glare finish. Characters must 
@@ -345,7 +336,9 @@ caption: Dark-on-light contrast
 Family Restroom sign with white characters on a black background
 caption: Light-on-dark contrast
 
-#### Braille [§703.3]
+#### Braille
+
+[[§703.3]({{ site.baseurl }}/aba/#703_3)] 
 
 Closeup of fingers reading braille
 The content of raised characters also must be 
@@ -359,7 +352,7 @@ Standards specify the height and diameter of dots
 and their spacing within and between cells. 
 
 Family Restroom sign with dimension lines showing space between raised characters and braille and distance between braille and the border of the sign.
-3/8″ min3/8″ min
+3/8″ min 3/8″ min
 
 begin image notes
 3/8 inch min between text and braille \
@@ -398,7 +391,9 @@ blank cell space \
 braille cell \
 end image notes
 
-#### Pictograms [§703.6]
+#### Pictograms
+
+[[§703.6]({{ site.baseurl }}/aba/#703_6)] 
 
 men's restroom sign with pictogram with dimension lines identifying pictogram field and location of raised characters and braille.
 6″ minnot in 
@@ -449,7 +444,9 @@ no cell phones symbol
 
 biohazard symbol
 
-#### Installation Height and Location [§703.4]
+#### Installation Height and Location
+
+[[§703.4]({{ site.baseurl }}/aba/#703_4)] 
 
 Raised characters and braille on signs must be located 48 inches minimum above the finish 
 floor or ground surface, measured from the baseline of the lowest tactile character, and 
@@ -514,7 +511,9 @@ double leaf door with handles on each leaf and sign on wall right of door.
 caption: Sign at right-side hinge side of double-
 door entry with two active leaves 
 
-### Technical Requirements for Characters [§703.5] 
+### Technical Requirements for Characters
+
+[§703.5] 
 
 Specifications for visual characters cover finish and contrast, case, style, character proportion 
 and height, stroke thickness, and line and character spacing. 
@@ -661,7 +660,9 @@ required 80 inches minimum
 headroom clearance 
 (§307.4).
 
-### Post-Mounted Signs [§307.3]
+### Post-Mounted Signs
+
+[[§307.3]({{ site.baseurl }}/aba/#307_3)] 
 
 Signs and other objects mounted on posts or pylons that have leading edges of 27 inches 
 to 80 inches high cannot protrude more than 12 inches into circulation paths. The 12-inch 
@@ -708,15 +709,20 @@ any distance between posts \
 any distance from post to sign edge \
 end image notes
 
-### Signs at Transportation Facilities [§810.4, §810.6]
+### Signs at Transportation Facilities
+
+[[§810.4]({{ site.baseurl }}/aba/#810_4)], [[§810.6]({{ site.baseurl }}/aba/#810_6)] 
 
 The requirements for signs apply fully to all types of transportation facilities subject to the 
 Standards. The Standards also include some exceptions or requirements specific to signs at 
 bus stops and rail stations.
 
-#### Bus Route Signs [§810.4]
+#### Bus Route Signs
+
+[[§810.4]({{ site.baseurl }}/aba/#810_4)] 
 
 bus route sign
+
 Signs that identify bus routes must comply with requirements for visual 
 characters (§703.5), except those for the minimum location height (40 inches) 
 and line spacing. Additionally, because the size of these signs is often limited, 
@@ -724,7 +730,9 @@ compliance with the minimum character height is required to the maximum
 extent feasible. Signs providing bus schedules, timetables, or maps are exempt 
 from the sign requirements.
 
-#### Rail Station Signs [§810.6]
+#### Rail Station Signs
+
+[[§810.6]({{ site.baseurl }}/aba/#810_6)]
 
 ##### Entrances
 
@@ -759,7 +767,9 @@ posted signs. The Standards generally recognize these technologies and permit th
 alternative to the tactile and visual requirements for entrance signs and platform or boarding 
 area signs (§810.6).
 
-### Amusement Ride Signs [§F216.12] 
+### Amusement Ride Signs
+
+[[§F216.12]({{ site.baseurl }}/aba/#F216_12)]
 
 Bumper Cars attraction with ramp and stairs leading to boarding area. Signs indicate direction of accessible route and need to transfer from wheelchair.
 The Standards address access to amusement 
@@ -773,7 +783,9 @@ the location of the accessible load and unload
 areas must be provided at entries to queues and 
 waiting lines.
 
-### Trailhead Signs [§F216.13]
+### Trailhead Signs
+
+[[§F216.13]({{ site.baseurl }}/aba/#F216_13)]
 
 Trailhead sign with trail name, length, elevation change, grade, cross slope, tread width, and surface type
 Rim Ridge TrailRIM RIDGE TRAILLengthElevation GainElevation Loss15.3 mi (24.6 km)
@@ -805,7 +817,9 @@ If trail information signs designate the name of the trail, only
 the name of the trail is required to comply with §703.5. The 
 ISA is not required on trail signs. 
 
-### Symbols of Accessibility [§703.7]
+### Symbols of Accessibility
+
+[[§703.7]({{ site.baseurl }}/aba/#F703_7)]
 
 Symbols required by the Standards to label accessible features and spaces must:
 
@@ -817,7 +831,9 @@ The Standards do not specify particular colors, a minimum color contrast level, 
 of these symbols. Written content is not required or addressed, except in the case of van 
 accessible parking signs, but can be included.
 
-#### International Symbol of Accessibility [§F216.5 – §F216.8, §F216.11, §703.7.2.1]
+#### International Symbol of Accessibility
+
+[[§F216.5]({{ site.baseurl }}/aba/#F216_5)] &ndash; [[§F216.8]({{ site.baseurl }}/aba/#F216_8)], [[§F216.11]({{ site.baseurl }}/aba/#F216_11)], [[§703.7.2.1]({{ site.baseurl }}/aba/#703_7_2_1)]
 
 White ISA on black background
 
@@ -853,7 +869,9 @@ with the ABA.
 The Access Board provides more information in its Guidance on the International Symbol of 
 Accessibility.
 
-### Entrances [§F216.6]
+### Entrances
+
+[[§F216.6]({{ site.baseurl }}/aba/#F216_6)]
 
 White ISA on blue background with arrow and words "use C street entrance"
 White ISA on blue background with arrow
@@ -880,7 +898,9 @@ back-tracking.
 
 sign located at fork in path leading to different entrances. Sign has ISA and directs towards entrance with ramp.
 
-#### Toilet Rooms and Bathing Rooms [§F213.2, §F216.8]
+#### Toilet Rooms and Bathing Rooms
+
+[[§F213.2]({{ site.baseurl }}/aba/#F213_2)], [[§F213.2]({{ site.baseurl }}/aba/#F216_8)]
 
 Where all toilet rooms and bathing rooms are accessible, which is often the case in new 
 construction, designation by the ISA is not required. However, in areas where not all toilet or 
@@ -913,7 +933,9 @@ caption: Pictograms that identify restrooms and other permanent rooms or spaces
 (where provided) must be on a field at least 6″ high, meet finish and 
 contrast criteria, and have tactile text descriptors below the field.
 
-#### Check-out Aisles [§F216.11]
+#### Check-out Aisles
+
+[[§F216.11]({{ site.baseurl }}/aba/#F216_11)]
 
 grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.
 Compliant check-out aisles must be labelled by the ISA unless 
@@ -921,12 +943,16 @@ all aisles serving the same function are accessible. The sign
 indicating accessibility must be in the same location as any other 
 signs that identify check-out aisles by number, letter, or function.
 
-#### Existing Elevators [§F216.7]
+#### Existing Elevators
+
+[[§F216.7]({{ site.baseurl }}/aba/#F216_7)]
 
 If a facility has existing elevators that do not meet the Standards, compliant elevators must be 
 labelled by the ISA.
 
-#### Parking Signs [§F216.5, §502.6]
+#### Parking Signs
+
+[[§F216.5]({{ site.baseurl }}/aba/#F216_5)], [[§502.6]({{ site.baseurl }}/aba/#502_6)]
 
 Parking sign with ISA and dimension line indicating height from finish floor to bottom of sign
 60″ minimum
@@ -955,24 +981,32 @@ included on the main designation sign or provided on a separate sign.
 
 multi-story parking garage
 
-###### Parking Facilities (§F216.1, Ex. 2) 
+###### Parking Facilities
+
+[(§F216.1)]({{ site.baseurl }}/aba/#F216_1), Ex. 2)
 
 Parking facilities are subject only to provisions for parking 
 space signs (§F216.5) and means of egress (§F216.4). No 
 other sign requirements apply. 
 
-###### Sites with under 5 Spaces Total (§F216.5, Ex. 1) 
+###### Sites with under 5 Spaces Total
+
+[(§F216.5)]({{ site.baseurl }}/aba/#F216_5), Ex. 1)
 
 If a total of 4 or fewer (inaccessible and accessible) parking spaces is provided on a site, 
 the required accessible space must comply but does not have to be identified by a sign 
 (i.e., reserved exclusively for use by people with disabilities). 
 
-###### Residential Facilities (§F216.5, Ex. 2) 
+###### Residential Facilities
+
+[(§F216.5)]({{ site.baseurl }}/aba/#F216_5), Ex. 2)
 
 At residential facilities, identification of accessible spaces is not required where 
 spaces are assigned to specific dwelling units. 
 
-#### International Symbol of TTY [§F216.9, §703.7.2.2]
+#### International Symbol of TTY
+
+[[§F216.9]({{ site.baseurl }}/aba/#F216_79], [[§703.7.2.2]({{ site.baseurl }}/aba/#703_7_2_2)]
 
 International Symbol of TTY
 
@@ -985,7 +1019,9 @@ where directional signs to public pay phones are provided, signs must
 also be provided to public TTYs. These directional signs must include the 
 International Symbol of TTY and meet visual criteria in the Standards.
 
-#### International Symbol of Access for Hearing Loss [§F216.10, §703.7.2.4]
+#### International Symbol of Access for Hearing Loss
+
+[[§F216.10]({{ site.baseurl }}/aba/#F216_79], [[§703.7.2.4]({{ site.baseurl }}/aba/#703_7_2_4)]
 
 International Symbol of Access for hearing loss
 
@@ -1218,6 +1254,8 @@ Yes
 ** 1/16” min. measured at base of characters with non-rectangular cross sections
 
 ### Common Questions
+
+![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail}
 
 #### General
 
