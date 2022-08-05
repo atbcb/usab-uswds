@@ -4,7 +4,7 @@ order-number: 701
 file:  /files/aba/guides/signs-ABA.pdf
 file-description: PDF version of Chapter 7 Signage Guide
 ---
-![signs icon 1 2 3]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }
+![signs icon 1 2 3]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }{: .thumb-nail }
 
 ## {{ page.title }}
 
@@ -30,7 +30,7 @@ requirements:
 * seat or row designations in assembly areas; and 
 * signs in non-public areas of detention or correctional facilities. 
 
-<figure class="right">
+<figure class="img-right">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign_walk.png"
        alt="Woman with long white cane walking along hallway with doors.  Each door is labeled with an adjacent sign.">
   <figcaption>
@@ -54,19 +54,19 @@ Each type of content provided must be evaluated to determine how the content mus
 	<tr>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door@4x.png" alt="open doorway icon" />
-    </td>    
-    <td>
+	</td>
+		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit@4x.png" alt="exit sign icon" />
-    </td>    
-  </tr>
-  <tr>
-    <td>
+		</td>
+	</tr>
+	<tr>
+		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevator@4x.png" alt="elevator icon" />
-    </td>
-    <td>
+		</td>
+		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Train@4x.png" alt="train icon" />
-    </td>
-  </tr>
+		</td>
+	</tr>
 </table>
 
 Tactile requirements apply to these types of signs: 
@@ -90,20 +90,22 @@ Visual and tactile requirements apply to both interior and exterior signs labeli
 rooms and spaces. However, exterior signs not located at the door to the space they serve do 
 not have to be tactile but must meet visual requirements (§F216.2, Ex. 1). 
 
-![room number sign quote 304 unquote raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with pictogram and &quot;restroom&quot; in raised characters and braille"){: .img-left }
+![room number sign quote 304 unquote raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png.png){: .img-left }
 ![room name sign quote GRAND BALLROOM unquote in raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png){: .img-center }
-![restroom sign with pictogram and quote RESTROOM unquote in raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png){: .img-right }
+![restroom sign with pictogram and quote RESTROOM unquote in raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png){: .img-right }
+
+test {: .clear }
 
 <table class="center">
 	<tr>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with pictogram and &quot;restroom&quot; in raised characters and braille" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png" alt="room number sign &quot;304&quot; raised characters and braille" />
 		</td>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png" alt="room name sign &quot;Grand Ballroom&quot; in raised characters and braille" />
 		</td>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png" alt="room number sign &quot;304&quot; raised characters and braille" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with pictogram and &quot;restroom&quot; in raised characters and braille" />
 		</td>
 	</tr>
 </table>
