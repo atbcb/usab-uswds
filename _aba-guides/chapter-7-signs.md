@@ -161,34 +161,50 @@ Some information on such signs may be exempt, such as occupant names.
 
 <table>
   <tr>
-    <td><figure class="img-left"> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign.png"
-			 alt="Woman with long white cane at closed door, touching small sign next to the door." />
-        <figcaption> The required location of tactile signs is relatively uniform (i.e., beside or, where permitted, on doors) to make them easier to locate without vision.&nbsp;
+    <td>
+			<figure class="img-left">
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign.png" alt="Woman with long white cane at closed door, touching small sign next to the door." />
+        <figcaption>
+					The required location of tactile signs is relatively uniform (i.e., beside or, where permitted, on doors) to make them easier to locate without vision.&nbsp;
           The height is limited to a specific range (48 inches – 60 inches) to facilitate reading by touch. </figcaption>
-      </figure></td>
+      </figure>
+		</td>
   </tr>
   <tr>
-    <td><figure class="img-right"> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/J-103.png"
-			 alt="J-103: room number sign with raised characters and braille" />
-        <figcaption> Braille is located below raised characters, including when text is multi-lined. </figcaption>
-      </figure></td>
+    <td>
+			<figure class="img-right">
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/J-103.png" alt="J-103: room number sign with raised characters and braille" />
+				<figcaption> Braille is located below raised characters, including when text is multi-lined.
+				</figcaption>
+      </figure>
+		</td>
   </tr>
   <tr>
-    <td colspan="2"><figure class="img-left"> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/1.jpg"
-			 alt="Example door sign with lettering which is exempt, required to be visual, and required to be both visual and tactile, including braille." />
-        <p class="usa-sr-only"> begin image notes. 
+    <td colspan="2">
+			<figure class="img-left">
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/1.jpg" alt="Example door sign with lettering which is exempt, required to be visual, and required to be both visual and tactile, including braille." />
+        <p class="usa-sr-only">
+					begin image notes. 
           Exempt (occupant name, title): Jill Smith; Director. 
           Visual (informational): Accounting. 
           Tactile &amp; Visual (permanent room label): 403. 
-          end image notes </p>
-        <figcaption> This sign includes exempt and informational content in addition to a permanent room label (room number). </figcaption>
-      </figure></td>
+          end image notes
+				</p>
+        <figcaption>
+					This sign includes exempt and informational content in addition to a permanent room label (room number).
+				</figcaption>
+      </figure>
+		</td>
   </tr>
   <tr>
-    <td colspan="2"><figure class="img-right"> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png"
-       alt="WESTGATE PLAZA embossed on stone monument in front of office building">
-        <figcaption> Exterior signs labelling permanent rooms and spaces that are not located at a doorway do not have to be tactile but must meet visual criteria. </figcaption>
-      </figure></td>
+    <td colspan="2">
+			<figure class="img-right">
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png" alt="WESTGATE PLAZA embossed on stone monument in front of office building">
+        <figcaption>
+					Exterior signs labelling permanent rooms and spaces that are not located at a doorway do not have to be tactile but must meet visual criteria.
+				</figcaption>
+      </figure>
+		</td>
   </tr>
 </table>
 
@@ -210,10 +226,9 @@ Door with lighted EXIT sign above it.  A small tactile sign on wall to right of 
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/door-exit.png"
 			 alt="Illuminated EXIT sign above door with small sign on wall adjacent to door circled and arrow pointing to magnified cutaway detail." />
   <figcaption>
-		This stairway sign includes permanent space labels (stair and floor designations) that must be tactile and visual, as well as content that is required to be visual only (egress-related directions and information).</p>
+		This stairway sign includes permanent space labels (stair and floor designations) that must be tactile and visual, as well as content that is required to be visual only (egress-related directions and information).
   </figcaption>
 </figure>
-
 <figure class="img-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exit-dim.png" alt="EXIT sign">
 	<p class="usa-sr-only">
@@ -221,7 +236,7 @@ Door with lighted EXIT sign above it.  A small tactile sign on wall to right of 
 		The letters are dimensioned as half inch to two inchnes in height.  Below the raised letters are four braille characters: e x i t.
 	</p>
   <figcaption>
-		<h4> Separate Tactile Sign </h4>
+		<strong>Separate Tactile Sign<strong> <br />
 		When visual characters are provided on a separate sign (or separately on the same sign), tactile content does not need to meet finish and contrast requirements, and raised characters can have a slightly smaller character height (½ inch instead of ⅝ inch).
   </figcaption>
 </figure>
@@ -236,11 +251,11 @@ Door with lighted EXIT sign above it.  A small tactile sign on wall to right of 
 		</td>
 		<td>
 			<figure>
-				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-tactile.png"
-						 alt="low contrast sign with quote Stair A; Floor 20 unquote in raised text and braille." />
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-tactile.png" alt="low contrast sign with quote Stair A; Floor 20 unquote in raised text and braille." />
 				<figcaption>
 					 Tactile content on separate sign
 				</figcaption>
+			</figure>
 		</td>
 	</tr>
 </table>
@@ -248,15 +263,18 @@ Door with lighted EXIT sign above it.  A small tactile sign on wall to right of 
 Directional signs, including those for means of egress, required by the applicable life safety 
 code, must comply with the visual requirements for information and directional signs (§703.5).&nbsp;
 In addition, directions to accessible means of egress required by the International Building Code
-(IBC) must meet visual criteria (§F216.4.3).&nbp;
+(IBC) must meet visual criteria (§F216.4.3).&nbsp;
 
-EXIT sign with ISA symbol and "area of refuge" in high contrast tactile characters with braille.
-
-caption: Area of refuge signs can be incorporated into required exit signs.
+<figure class="img-right">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png" alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille." />
+  <figcaption>
+		Area of refuge signs can be incorporated into required exit signs.
+  </figcaption>
+</figure>
 
 Areas of refuge are fire-resistance rated and smoke-protected areas where those persons who are unable to use stairs can register a call for evacuation assistance and await instructions or assistance.&nbsp; 
 Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
-Signs labeling areas of refuge must be tactile since they designate a permanent space. 
+Signs labeling areas of refuge must be tactile since they designate a permanent space.
 
 Sign with "Push for Help" in tactile and braille characters. Instructions for use of area of refuge in only visual characters.
 Emergency Phone Call Box
