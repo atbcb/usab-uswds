@@ -90,23 +90,11 @@ Visual and tactile requirements apply to both interior and exterior signs labeli
 rooms and spaces. However, exterior signs not located at the door to the space they serve do 
 not have to be tactile but must meet visual requirements (§F216.2, Ex. 1). 
 
-<table class="center">
-	<tr>
-		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png" alt="room number sign &quot;304&quot; raised characters and braille" />
-		</td>
-		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png" alt="room name sign &quot;Grand Ballroom&quot; in raised characters and braille" />
-		</td>
-		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with pictogram and &quot;restroom&quot; in raised characters and braille" />
-		</td>
-	</tr>
-</table>
+<table class="center"> <tr> <td> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png" alt="room number sign &quot;304&quot; raised characters and braille" /> </td> <td> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png" alt="room name sign &quot;Grand Ballroom&quot; in raised characters and braille" /> </td> <td> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with pictogram and &quot;restroom&quot; in raised characters and braille" /> </td> </tr> </table>
 
 ### Directional and Informational Signs
 
-[\[\§F216.3]({{ site.baseurl }}/aba/#aba-f216_3)]
+[\[§F216.3]({{ site.baseurl }}/aba/#aba-f216_3)]
 
 Signs that provide direction to or information about interior spaces and facilities must meet 
 visual requirements but are not required to be tactile.&nbsp;
@@ -693,7 +681,7 @@ headroom clearance
 
 ### Post-Mounted Signs
 
-[[§307.3]({{ site.baseurl }}/aba/#307_3)] 
+[\[§307.3]({{ site.baseurl }}/aba/#307_3)] 
 
 Signs and other objects mounted on posts or pylons that have leading edges of 27 inches 
 to 80 inches high cannot protrude more than 12 inches into circulation paths. The 12-inch 
@@ -742,7 +730,7 @@ end image notes
 
 ### Signs at Transportation Facilities
 
-[[§810.4]({{ site.baseurl }}/aba/#810_4)], [[§810.6]({{ site.baseurl }}/aba/#810_6)] 
+[\[§810.4]({{ site.baseurl }}/aba/#810_4)], [[§810.6]({{ site.baseurl }}/aba/#810_6)] 
 
 The requirements for signs apply fully to all types of transportation facilities subject to the 
 Standards. The Standards also include some exceptions or requirements specific to signs at 
@@ -750,7 +738,7 @@ bus stops and rail stations.
 
 #### Bus Route Signs
 
-[[§810.4]({{ site.baseurl }}/aba/#810_4)] 
+[\[§810.4]({{ site.baseurl }}/aba/#810_4)] 
 
 bus route sign
 
@@ -763,7 +751,7 @@ from the sign requirements.
 
 #### Rail Station Signs
 
-[[§810.6]({{ site.baseurl }}/aba/#810_6)]
+[\[§810.6]({{ site.baseurl }}/aba/#810_6)]
 
 ##### Entrances
 
@@ -800,7 +788,7 @@ area signs (§810.6).
 
 ### Amusement Ride Signs
 
-[[§F216.12]({{ site.baseurl }}/aba/#F216_12)]
+[\[§F216.12]({{ site.baseurl }}/aba/#F216_12)]
 
 Bumper Cars attraction with ramp and stairs leading to boarding area. Signs indicate direction of accessible route and need to transfer from wheelchair.
 The Standards address access to amusement 
@@ -816,7 +804,7 @@ waiting lines.
 
 ### Trailhead Signs
 
-[[§F216.13]({{ site.baseurl }}/aba/#F216_13)]
+[\[§F216.13]({{ site.baseurl }}/aba/#F216_13)]
 
 Trailhead sign with trail name, length, elevation change, grade, cross slope, tread width, and surface type
 Rim Ridge TrailRIM RIDGE TRAILLengthElevation GainElevation Loss15.3 mi (24.6 km)
@@ -850,7 +838,7 @@ ISA is not required on trail signs.
 
 ### Symbols of Accessibility
 
-[[§703.7]({{ site.baseurl }}/aba/#F703_7)]
+[\[§703.7]({{ site.baseurl }}/aba/#F703_7)]
 
 Symbols required by the Standards to label accessible features and spaces must:
 
@@ -864,7 +852,7 @@ accessible parking signs, but can be included.
 
 #### International Symbol of Accessibility
 
-[[§F216.5]({{ site.baseurl }}/aba/#F216_5)] &ndash; [[§F216.8]({{ site.baseurl }}/aba/#F216_8)], [[§F216.11]({{ site.baseurl }}/aba/#F216_11)], [[§703.7.2.1]({{ site.baseurl }}/aba/#703_7_2_1)]
+[\[§F216.5]({{ site.baseurl }}/aba/#F216_5)] &ndash; [\[§F216.8]({{ site.baseurl }}/aba/#F216_8)], [\[§F216.11]({{ site.baseurl }}/aba/#F216_11)], [\[§703.7.2.1]({{ site.baseurl }}/aba/#703_7_2_1)]
 
 White ISA on black background
 
@@ -902,7 +890,7 @@ Accessibility.
 
 ### Entrances
 
-[[§F216.6]({{ site.baseurl }}/aba/#F216_6)]
+[\[§F216.6]({{ site.baseurl }}/aba/#F216_6)]
 
 White ISA on blue background with arrow and words "use C street entrance"
 White ISA on blue background with arrow
@@ -966,7 +954,7 @@ contrast criteria, and have tactile text descriptors below the field.
 
 #### Check-out Aisles
 
-[[§F216.11]({{ site.baseurl }}/aba/#F216_11)]
+[\[§F216.11]({{ site.baseurl }}/aba/#F216_11)]
 
 grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.
 Compliant check-out aisles must be labelled by the ISA unless 
@@ -976,14 +964,14 @@ signs that identify check-out aisles by number, letter, or function.
 
 #### Existing Elevators
 
-[[§F216.7]({{ site.baseurl }}/aba/#F216_7)]
+[\[§F216.7]({{ site.baseurl }}/aba/#F216_7)]
 
 If a facility has existing elevators that do not meet the Standards, compliant elevators must be 
 labelled by the ISA.
 
 #### Parking Signs
 
-[[§F216.5]({{ site.baseurl }}/aba/#F216_5)], [[§502.6]({{ site.baseurl }}/aba/#502_6)]
+[\[§F216.5]({{ site.baseurl }}/aba/#F216_5)], [\[§502.6]({{ site.baseurl }}/aba/#502_6)]
 
 Parking sign with ISA and dimension line indicating height from finish floor to bottom of sign
 60″ minimum
@@ -1037,7 +1025,7 @@ spaces are assigned to specific dwelling units.
 
 #### International Symbol of TTY
 
-[[§F216.9]({{ site.baseurl }}/aba/#F216_79], [[§703.7.2.2]({{ site.baseurl }}/aba/#703_7_2_2)]
+[\[§F216.9]({{ site.baseurl }}/aba/#F216_79], [\[§703.7.2.2]({{ site.baseurl }}/aba/#703_7_2_2)]
 
 International Symbol of TTY
 
@@ -1177,7 +1165,6 @@ Access for Hearing LossInternational Symbol of Access for hearing loss
 • Referenced symbol §703.7.2.4
 • Any verbiage must comply with 
 visual criteria §703.5 
-
 
 Amusement Ride Signs
 
