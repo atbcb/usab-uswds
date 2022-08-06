@@ -113,7 +113,7 @@ Examples of informational signs include instructions, rules of conduct, hours of
 Directional signs include all types of signs that provide direction to spaces and facilities.&nbsp;
 These requirements apply only where such signs are provided. 
 
-<table class="center">
+<table class="img-center">
 	<tr>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevators.png" alt="Sign:  Elevators with arrow pointing right" />
@@ -138,16 +138,16 @@ signs that include International Symbols of:
 * TTY, or Text Telephone which is a phone assistive device for people with hearing or speech impairments; or 
 * Access for Hearing Loss, which indicates availability of an assistive listening system. 
 
-<table class="center">
+<table class="img-center">
 	<tr>
 		<td>
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_blue.png" alt="International Symbol of Accessibility: a pictograph of a wheelchair" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_blue.png" alt="International Symbol of Accessibility: a pictograph of a wheelchair" />
 		</td>
 		<td>
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone.png" alt="International Symbol of TTY:  pictogram of telephone handset sitting on keyboard" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone.png" alt="International Symbol of TTY:  pictogram of telephone handset sitting on keyboard" />
 		</td>
 		<td>
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear.png" alt="International Symbol of Access for hearing loss: pictogram of an ear with a thick diagonal line from bottom left to top right " />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear.png" alt="International Symbol of Access for hearing loss: pictogram of an ear with a thick diagonal line from bottom left to top right " />
 		</td>
 	</tr>
 </table>
@@ -167,60 +167,36 @@ inches) to facilitate reading by touch.
 
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign_walk.png"
-       alt="Woman with long white cane walking along hallway with doors.  Each door is labeled with an adjacent sign.">
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign.png"
+								 alt="Woman with long white cane at closed door, touching small sign next to the door." />
   <figcaption>
-    Doorways provide a tactile cue for locating signs.
+		The required location of tactile signs is relatively uniform (i.e., beside or, where permitted, on doors) to make them easier to locate without vision.&nbsp;
+		The height is limited to a specific range (48 inches – 60 inches) to facilitate reading by touch.</p>
   </figcaption>
 </figure>
-
 
 <figure class="img-right">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign_walk.png"
-       alt="Woman with long white cane walking along hallway with doors.  Each door is labeled with an adjacent sign.">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/J-103.png"
+			 alt="J-103: room number sign with raised characters and braille" />
   <figcaption>
-    Doorways provide a tactile cue for locating signs.
-  </figcaption>
+		Braille is located below raised characters, including when text is multi-lined.</p>
+	</figcaption>
 </figure>
 
-
-Blind woman reading braille sign with fingers.
-Room number sign with raised characters and braille
-caption: Braille is located below raised characters, 
-including when text is multi-lined.
-
-
-<figure class="img-right">
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign_walk.png"
-       alt="Woman with long white cane walking along hallway with doors.  Each door is labeled with an adjacent sign.">
+<figure class="img-left">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/1.jpg"
+			 alt="Example door sign with lettering which is exempt, required to be visual, and required to be both visual and tactile, including braille." />
   <figcaption>
-    Doorways provide a tactile cue for locating signs.
+		This sign includes exempt and informational content in addition to a permanent room label (room number).
   </figcaption>
 </figure>
-
-
-
-caption: This sign includes exempt 
-and informational content in 
-addition to a permanent room 
-label (room number).
-
-Sign with examples of content that is exempt from either visual or tactile requirements, content that must meet visual requirements, and content that must meet both visual and tactile requirements, including braille.
-Exempt 
-(occupant name, title)
-Visual(informational)
-Tactile & Visual 
-(permanent room label)
 
 {: .usa-sr-only }
 begin image notes \
 Exempt (occupant name, title): Jill Smith; Director \
 Visual (informational): Accounting \
-Tactile & Visual (permanent room label): 403 \
+Tactile &amp; Visual (permanent room label): 403 \
 end image notes
-
-
-
 
 <figure class="img-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png"
@@ -230,21 +206,16 @@ end image notes
   </figcaption>
 </figure>
 
-
-
 ### Means of Egress Signs
 
 [\[§F216.4]({{ site.baseurl }}/aba/#aba-f216_4)] 
 
-The Standards require that tactile and visual signs be provided to identify doors at exit 
-stairways, exit passageways, and exit discharge. Exit passageways are horizontal fire 
-resistance-rated components that lead to exit discharge or public ways. Exit discharge is the 
-path from an exit to a public way. 
+The Standards require that tactile and visual signs be provided to identify doors at exit stairways, exit passageways, and exit discharge. Exit passageways are horizontal fire resistance-rated components that lead to exit discharge or public ways.&nbsp;
+Exit discharge is the path from an exit to a public way. 
 
-Exit labels at other locations are not required to be tactile but must meet visual requirements. 
-Life safety and building codes address the visibility and illumination of exit signs, which 
-can also satisfy the visual requirements in the ABA Standards. At exit doors, the tactile 
-requirements typically must be met on a separate sign.
+Exit labels at other locations are not required to be tactile but must meet visual requirements.&nbsp;
+Life safety and building codes address the visibility and illumination of exit signs, which can also satisfy the visual requirements in the ABA Standards.&nbsp;
+At exit doors, the tactile requirements typically must be met on a separate sign.
 
 Door with lighted EXIT sign above it.  A small tactile sign on wall to right of the door is circled with an arrow pointed to magnified cutaway image. 
 
