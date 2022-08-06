@@ -597,8 +597,7 @@ end image notes
 Character spacing, as measured between the two closest points of adjacent characters 
 excluding word spaces, must be 10% to 35% of the character height.
 
-Uppercase letters "I" and "O" with dimension line identifying closest point between characters
-10% – 35% of height
+Uppercase letters "I" and "O" with dimension line identifying closest point between characters 10% – 35% of height
 
 begin image notes \
 Distance between characters is 10% – 35% of character height \
@@ -919,7 +918,7 @@ sign located at fork in path leading to different entrances. Sign has ISA and di
 
 #### Toilet Rooms and Bathing Rooms
 
-[[§F213.2]({{ site.baseurl }}/aba/#F213_2)], [[§F213.2]({{ site.baseurl }}/aba/#F216_8)]
+[\[§F213.2]({{ site.baseurl }}/aba/#F213_2)], [\[§F213.2]({{ site.baseurl }}/aba/#F216_8)]
 
 Where all toilet rooms and bathing rooms are accessible, which is often the case in new 
 construction, designation by the ISA is not required. However, in areas where not all toilet or 
@@ -1040,7 +1039,7 @@ International Symbol of TTY and meet visual criteria in the Standards.
 
 #### International Symbol of Access for Hearing Loss
 
-[[§F216.10]({{ site.baseurl }}/aba/#F216_79], [[§703.7.2.4]({{ site.baseurl }}/aba/#703_7_2_4)]
+[\[§F216.10]({{ site.baseurl }}/aba/#F216_79], [\[§703.7.2.4]({{ site.baseurl }}/aba/#703_7_2_4)]
 
 International Symbol of Access for hearing loss
 
@@ -1082,8 +1081,7 @@ Application of Sign Requirements
 Sign
 
 Tactile 
-(§703.2 – 
-703.4)
+(§703.2 – 703.4)
 
 Visual (§703.5)
 
@@ -1127,7 +1125,7 @@ passageways/ discharge
 
 §F216.4.1
 
-• Tactile §703.2 and visual §703.5 
+* Tactile §703.2 and visual §703.5 
 criteria (can be met on separate 
 signs)
 
@@ -1136,23 +1134,20 @@ International Symbol of
 Accessibility*ISA
 
 
-§F216.5 – §F216.8, 
-§F216.11
+§F216.5 – §F216.8, §F216.11
 
 • Finish & Contrast §703.7.1
 • Referenced symbol §703.7.2.1
-• Any verbiage must comply with 
-visual criteria §703.5
+• Any verbiage must comply with visual criteria §703.5
 
 International Symbol of 
 TTY International Symbol of TTY
 
 §F216.9
 
-• Finish & Contrast §703.7.1
-• Referenced symbol §703.7.2.2
-• Any verbiage must comply with 
-visual criteria §703.5 
+* Finish & Contrast §703.7.1
+* Referenced symbol §703.7.2.2
+* Any verbiage must comply with visual criteria §703.5 
 
 
 International Symbol of 
@@ -1161,10 +1156,9 @@ Access for Hearing LossInternational Symbol of Access for hearing loss
 
 §F216.10
 
-• Finish & Contrast §703.7.1
-• Referenced symbol §703.7.2.4
-• Any verbiage must comply with 
-visual criteria §703.5 
+* Finish & Contrast §703.7.1
+* Referenced symbol §703.7.2.4
+* Any verbiage must comply with visual criteria §703.5 
 
 Amusement Ride Signs
 
@@ -1179,7 +1173,6 @@ Rail Station Identification Signs
 
 * Tactile criteria §703.2 (sign on each platform or boarding area) 
 * Visual criteria §703.5 (clearly visible from within vehicles on both sides) 
-
 * Required at entrances, toilet and bathing rooms, parking spaces, check-out aisles, and existing elevators (unless all are accessible) and on directional signs to accessible entrances and toilet and bathing rooms
 
 Requirements for Visual and Raised Characters
