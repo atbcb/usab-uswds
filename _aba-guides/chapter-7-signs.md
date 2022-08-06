@@ -112,7 +112,7 @@ not have to be tactile but must meet visual requirements (§F216.2, Ex. 1).
 
 ### Directional and Informational Signs
 
-[[\§F216.3]({{ site.baseurl }}/aba/#aba-f216_3)]
+[\[\§F216.3]({{ site.baseurl }}/aba/#aba-f216_3)]
 
 Signs that provide direction to or information about interior spaces and facilities must meet 
 visual requirements but are not required to be tactile.&nbsp;
@@ -128,7 +128,7 @@ visitors must sign in sign
 
 ### Required Accessibility Symbols
 
-[[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)] &ndash; [[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)]
+[\[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)] &ndash; [\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)]
 
 The Standards require certain spaces and elements be identified as accessible by providing 
 signs that include International Symbols of: 
@@ -187,7 +187,7 @@ caption: Exterior signs labelling permanent rooms and spaces that are not locate
 
 ### Means of Egress Signs
 
-[[§F216.4]({{ site.baseurl }}/aba/#aba-f216_4)] 
+[\[§F216.4]({{ site.baseurl }}/aba/#aba-f216_4)] 
 
 The Standards require that tactile and visual signs be provided to identify doors at exit 
 stairways, exit passageways, and exit discharge. Exit passageways are horizontal fire 
@@ -250,7 +250,7 @@ IBC specifies the content for these signs.
 
 #### Elevator Signs and Labels
 
-[[§407]({{ site.baseurl }}/aba/#407)] 
+[\[§407]({{ site.baseurl }}/aba/#407)] 
 
 Elevator Button Panel
 low contrast hoistway floor level sign with tactile number and braille
@@ -273,7 +273,7 @@ See [Elevators and Platform Lifts Guide]({{ site.baseurl }}/aba/guides/chapter-4
 
 #### Raised Characters
 
-[[§703.2]({{ site.baseurl }}/aba/#703_2)] 
+[\[§703.2]({{ site.baseurl }}/aba/#703_2)] 
 
 Criteria for raised characters address: depth, case, style, character height and proportions, stroke thickness, and line and character spacing.
 
@@ -359,8 +359,7 @@ letter “I” so that raised characters are sufficiently legible.
 
 #### Finish and Contrast
 
-[[§703.5.1]({{ site.baseurl }}/aba/#703_5_1)] 
-
+[\[§703.5.1]({{ site.baseurl }}/aba/#703_5_1)] 
 
 When a single set of characters is used to meet requirements for raised and visual characters, 
 the characters and their background must have a non-glare finish. Characters must 
@@ -376,7 +375,7 @@ caption: Light-on-dark contrast
 
 #### Braille
 
-[[§703.3]({{ site.baseurl }}/aba/#703_3)] 
+[\[§703.3]({{ site.baseurl }}/aba/#703_3)] 
 
 Closeup of fingers reading braille
 The content of raised characters also must be 
@@ -431,7 +430,7 @@ end image notes
 
 #### Pictograms
 
-[[§703.6]({{ site.baseurl }}/aba/#703_6)] 
+[\[§703.6]({{ site.baseurl }}/aba/#703_6)] 
 
 men's restroom sign with pictogram with dimension lines identifying pictogram field and location of raised characters and braille.
 6″ minnot in 
@@ -484,7 +483,7 @@ biohazard symbol
 
 #### Installation Height and Location
 
-[[§703.4]({{ site.baseurl }}/aba/#703_4)] 
+[\[§703.4]({{ site.baseurl }}/aba/#703_4)] 
 
 Raised characters and braille on signs must be located 48 inches minimum above the finish 
 floor or ground surface, measured from the baseline of the lowest tactile character, and 
@@ -551,7 +550,7 @@ door entry with two active leaves
 
 ### Technical Requirements for Characters
 
-[§703.5] 
+[\[§703.5]({{ site.baseurl }}/aba/#703_5)] 
 
 Specifications for visual characters cover finish and contrast, case, style, character proportion 
 and height, stroke thickness, and line and character spacing. 
