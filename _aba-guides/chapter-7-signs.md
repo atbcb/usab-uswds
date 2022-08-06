@@ -90,12 +90,6 @@ Visual and tactile requirements apply to both interior and exterior signs labeli
 rooms and spaces. However, exterior signs not located at the door to the space they serve do 
 not have to be tactile but must meet visual requirements (§F216.2, Ex. 1). 
 
-![room number sign quote 304 unquote raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png.png){: .img-left }
-![room name sign quote GRAND BALLROOM unquote in raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png){: .img-center }
-![restroom sign with pictogram and quote RESTROOM unquote in raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png){: .img-right }
-
-{: .clear } test
-
 <table class="center">
 	<tr>
 		<td>
