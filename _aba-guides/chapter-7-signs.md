@@ -160,11 +160,11 @@ Other information provided in addition to permanent room or space labels is not 
 Some information on such signs may be exempt, such as occupant names.
 
 <figure class="img-left">
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign.png"
-								 alt="Woman with long white cane at closed door, touching small sign next to the door." />
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign.png"
+			 alt="Woman with long white cane at closed door, touching small sign next to the door." />
   <figcaption>
 		The required location of tactile signs is relatively uniform (i.e., beside or, where permitted, on doors) to make them easier to locate without vision.&nbsp;
-		The height is limited to a specific range (48 inches – 60 inches) to facilitate reading by touch.</p>
+		The height is limited to a specific range (48 inches – 60 inches) to facilitate reading by touch.
   </figcaption>
 </figure>
 
@@ -176,20 +176,22 @@ Some information on such signs may be exempt, such as occupant names.
 	</figcaption>
 </figure>
 
+{:.clear}
+
 <figure class="img-left">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/1.jpg"
 			 alt="Example door sign with lettering which is exempt, required to be visual, and required to be both visual and tactile, including braille." />
+	<p class="usa-sr-only">
+		begin image notes. 
+		Exempt (occupant name, title): Jill Smith; Director. 
+		Visual (informational): Accounting. 
+		Tactile &amp; Visual (permanent room label): 403. 
+		end image notes
+	</p>
   <figcaption>
 		This sign includes exempt and informational content in addition to a permanent room label (room number).
   </figcaption>
 </figure>
-
-{: .usa-sr-only }
-begin image notes \
-Exempt (occupant name, title): Jill Smith; Director \
-Visual (informational): Accounting \
-Tactile &amp; Visual (permanent room label): 403 \
-end image notes
 
 <figure class="img-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png"
@@ -214,7 +216,7 @@ At exit doors, the tactile requirements typically must be met on a separate sign
 Door with lighted EXIT sign above it.  A small tactile sign on wall to right of the door is circled with an arrow pointed to magnified cutaway image. 
 
 <figure class="img-left">
-	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/door-exit.jpg"
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/door-exit.png"
 			 alt="Illuminated EXIT sign above door with small sign on wall adjacent to door circled and arrow pointing to magnified cutaway detail." />
   <figcaption>
 		This stairway sign includes permanent space labels (stair and floor designations) that must be tactile and visual, as well as content that is required to be visual only (egress-related directions and information).</p>
@@ -233,23 +235,30 @@ Door with lighted EXIT sign above it.  A small tactile sign on wall to right of 
   </figcaption>
 </figure>
 
-
-
-
-high contrast sign with visual text "Stair A; Floor 20" and "1 through 25; down to 1st floor for exit discharge; no roof access".
-STAIR ANO ROOF 
-ACCESSEXIT DOWN TO 
-LOBBY FOR 
-EXIT 
-DISCHARGEFLOOR2020STAIR AFLOORNO ROOF ACCESS1 THROUGH 25DOWN TO 1ST FLOORFOR EXIT DISCHARGE
-
-low contrast sign with "Stair A; Floor 20" in raised text and braille.
-caption: Tactile content on separate sign
+<table class="img-center">
+	<tr>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-full.png" alt="high contrast sign with visual text" />
+			<p classs="usa-sr-only">
+				begin image notes.  Stair A, floor 20.  1 through 25, down to 1st floor, for exit discharge.  no roof access.  end image notes.
+			</p>
+		</td>
+		<td>
+			<figure>
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-tactile.png"
+						 alt="low contrast sign with quote Stair A; Floor 20 unquote in raised text and braille." />
+				<figcaption>
+					 Tactile content on separate sign
+				</figcaption>
+		</td>
+	</tr>
+</table>
 
 Directional signs, including those for means of egress, required by the applicable life safety 
 code, must comply with the visual requirements for information and directional signs (§703.5).&nbsp;
 In addition, directions to accessible means of egress required by the International Building Code
 (IBC) must meet visual criteria (§F216.4.3).&nbp;
+
 EXIT sign with ISA symbol and "area of refuge" in high contrast tactile characters with braille.
 
 caption: Area of refuge signs can be incorporated into required exit signs.
@@ -667,6 +676,48 @@ Viewing Distance
 Min. Character Height
 
 40″ – 70″
+<table id="ch">
+  <thead>
+    <tr>
+      <th scope="col"> Height </th>
+      <th scope="col"> Viewing Distance </th>
+      <th scope="col"> Min. Character Height </th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td scope="rowgroup" rowspan="2"> 40″ – 70″ </td>
+      <td scope="row"> under 6′ </td>
+      <td> 5/8″ </td>
+    </tr>
+    <tr>
+      <td>6′ or more</td>
+      <td>5/8″ + 1/8″ per foot of viewing distance above 6’ </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td rowspan="2" scope="rowgroup"> above 70″ to 10′ </td>
+      <td scope="row"> under 15′ </td>
+      <td> 2″ </td>
+    </tr>
+    <tr>
+      <td scope="row"> 15′ or more </td>
+      <td> 2″ + 1/8″ per foot of viewing distance above 15′ </td>
+    </tr>
+  </tbody>
+  <tbody>
+    <tr>
+      <td rowspan="2" scope="rowgroup"> above 10′ </td>
+      <td scope="row"> under 21′ </td>
+      <td> 3″ </td>
+    </tr>
+    <tr>
+      <td scope="row"> 21′ or more </td>
+      <td> 3″ + 1/8″ per foot of viewing distance above 21′ </td>
+    </tr>
+  </tbody>
+</table>
 
 under 6′
 
