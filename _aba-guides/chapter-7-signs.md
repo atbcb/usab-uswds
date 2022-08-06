@@ -4,7 +4,7 @@ order-number: 701
 file:  /files/aba/guides/signs-ABA.pdf
 file-description: PDF version of Chapter 7 Signage Guide
 ---
-![signs icon 1 2 3]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }{: .thumb-nail }
+![signs icon 1 2 3]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/sign_icon.png){: .img-right }{: .thumbnail }
 
 ## {{ page.title }}
 
