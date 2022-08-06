@@ -108,25 +108,21 @@ not have to be tactile but must meet visual requirements (§F216.2, Ex. 1).
 
 [\[§F216.3]({{ site.baseurl }}/aba/#aba-f216_3)]
 
-Signs that provide direction to or information about interior spaces and facilities must meet 
-visual requirements but are not required to be tactile.&nbsp;
+Signs that provide direction to or information about interior spaces and facilities must meet visual requirements but are not required to be tactile.&nbsp;
 Examples of informational signs include instructions, rules of conduct, hours of operation, and similar content.&nbsp;
 Directional signs include all types of signs that provide direction to spaces and facilities.&nbsp;
 These requirements apply only where such signs are provided. 
 
-
-<table class="center"> <tr> <td> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png" alt="room number sign &quot;304&quot; raised characters and braille" /> </td> <td> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png" alt="room name sign &quot;Grand Ballroom&quot; in raised characters and braille" /> </td> <td> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with pictogram and &quot;restroom&quot; in raised characters and braille" /> </td> </tr> </table>
-
 <table class="center">
 	<tr>
 		<td>
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevators.png" alt="Sign:  Elevators with arrow pointing right" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevators.png" alt="Sign:  Elevators with arrow pointing right" />
 		</td>
 		<td>
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Notice_Employees_Only.png" alt="Sign:  NOTICE: EMPLOYEES ONLY" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Notice_Employees_Only.png" alt="Sign:  NOTICE: EMPLOYEES ONLY" />
 		</td>
 		<td>
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in_-_black.png" alt="Sign:  Visitors must sign in sign" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in_-_black.png" alt="Sign:  Visitors must sign in sign" />
 		</td>
 	</tr>
 </table>
@@ -142,35 +138,26 @@ signs that include International Symbols of:
 * TTY, or Text Telephone which is a phone assistive device for people with hearing or speech impairments; or 
 * Access for Hearing Loss, which indicates availability of an assistive listening system. 
 
-International Symbol of Accessibility
-
-International Symbol of TTY
-
-International Symbol of Access for hearing loss
-
 <table class="center">
 	<tr>
 		<td>
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevators.png" alt="Sign:  Elevators with arrow pointing right" />
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_blue.png" alt="International Symbol of Accessibility: a pictograph of a wheelchair" />
 		</td>
 		<td>
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Notice_Employees_Only.png" alt="Sign:  NOTICE: EMPLOYEES ONLY" />
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone.png" alt="International Symbol of TTY:  pictogram of telephone handset sitting on keyboard" />
 		</td>
 		<td>
-						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in_-_black.png" alt="Sign:  Visitors must sign in sign" />
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear.png" alt="International Symbol of Access for hearing loss: pictogram of an ear with a thick diagonal line from bottom left to top right " />
 		</td>
 	</tr>
 </table>
-
-
 
 ### Visual and Tactile Requirements on Single Sign 
 
 Tactile signs must have raised characters that are repeated in Grade 2 braille.&nbsp;
 In addition, they are subject to requirements for non-glare finish and color contrast for visual accessibility.&nbsp;
-Other information provided in addition to permanent room or space labels is not required to be raised 
-or brailled but must meet visual criteria if informational or directional. Some information on 
-such signs may be exempt, such as occupant names. 
+Other information provided in addition to permanent room or space labels is not required to be raised or brailled but must meet visual criteria if informational or directional.&nbsp;
+Some information on such signs may be exempt, such as occupant names. 
 
 caption: The required location of tactile signs is relatively 
 uniform (i.e., beside or, where permitted, on doors) 
@@ -178,10 +165,40 @@ to make them easier to locate without vision. The
 height is limited to a specific range (48 inches – 60 
 inches) to facilitate reading by touch.
 
+
+<figure class="img-right">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign_walk.png"
+       alt="Woman with long white cane walking along hallway with doors.  Each door is labeled with an adjacent sign.">
+  <figcaption>
+    Doorways provide a tactile cue for locating signs.
+  </figcaption>
+</figure>
+
+
+<figure class="img-right">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign_walk.png"
+       alt="Woman with long white cane walking along hallway with doors.  Each door is labeled with an adjacent sign.">
+  <figcaption>
+    Doorways provide a tactile cue for locating signs.
+  </figcaption>
+</figure>
+
+
 Blind woman reading braille sign with fingers.
 Room number sign with raised characters and braille
 caption: Braille is located below raised characters, 
 including when text is multi-lined.
+
+
+<figure class="img-right">
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign_walk.png"
+       alt="Woman with long white cane walking along hallway with doors.  Each door is labeled with an adjacent sign.">
+  <figcaption>
+    Doorways provide a tactile cue for locating signs.
+  </figcaption>
+</figure>
+
+
 
 caption: This sign includes exempt 
 and informational content in 
@@ -202,9 +219,18 @@ Visual (informational): Accounting \
 Tactile & Visual (permanent room label): 403 \
 end image notes
 
-Towncenter plaza with large stone monument sign with embossed "Westgate Plaza"
 
-caption: Exterior signs labelling permanent rooms and spaces that are not located at a doorway do not have to be tactile but must meet visual criteria. 
+
+
+<figure class="img-right">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png"
+       alt="WESTGATE PLAZA embossed on stone monument in front of office building">
+  <figcaption>
+		Exterior signs labelling permanent rooms and spaces that are not located at a doorway do not have to be tactile but must meet visual criteria. 
+  </figcaption>
+</figure>
+
+
 
 ### Means of Egress Signs
 
