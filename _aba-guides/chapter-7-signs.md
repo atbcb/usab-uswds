@@ -157,16 +157,9 @@ signs that include International Symbols of:
 Tactile signs must have raised characters that are repeated in Grade 2 braille.&nbsp;
 In addition, they are subject to requirements for non-glare finish and color contrast for visual accessibility.&nbsp;
 Other information provided in addition to permanent room or space labels is not required to be raised or brailled but must meet visual criteria if informational or directional.&nbsp;
-Some information on such signs may be exempt, such as occupant names. 
+Some information on such signs may be exempt, such as occupant names.
 
-caption: The required location of tactile signs is relatively 
-uniform (i.e., beside or, where permitted, on doors) 
-to make them easier to locate without vision. The 
-height is limited to a specific range (48 inches – 60 
-inches) to facilitate reading by touch.
-
-
-<figure class="img-right">
+<figure class="img-left">
 						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign.png"
 								 alt="Woman with long white cane at closed door, touching small sign next to the door." />
   <figcaption>
@@ -179,7 +172,7 @@ inches) to facilitate reading by touch.
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/J-103.png"
 			 alt="J-103: room number sign with raised characters and braille" />
   <figcaption>
-		Braille is located below raised characters, including when text is multi-lined.</p>
+		Braille is located below raised characters, including when text is multi-lined.
 	</figcaption>
 </figure>
 
@@ -210,8 +203,9 @@ end image notes
 
 [\[§F216.4]({{ site.baseurl }}/aba/#aba-f216_4)] 
 
-The Standards require that tactile and visual signs be provided to identify doors at exit stairways, exit passageways, and exit discharge. Exit passageways are horizontal fire resistance-rated components that lead to exit discharge or public ways.&nbsp;
-Exit discharge is the path from an exit to a public way. 
+The Standards require that tactile and visual signs be provided to identify doors at exit stairways, exit passageways, and exit discharge.&nbsp;
+Exit passageways are horizontal fire resistance-rated components that lead to exit discharge or public ways.&nbsp;
+Exit discharge is the path from an exit to a public way.
 
 Exit labels at other locations are not required to be tactile but must meet visual requirements.&nbsp;
 Life safety and building codes address the visibility and illumination of exit signs, which can also satisfy the visual requirements in the ABA Standards.&nbsp;
@@ -219,21 +213,28 @@ At exit doors, the tactile requirements typically must be met on a separate sign
 
 Door with lighted EXIT sign above it.  A small tactile sign on wall to right of the door is circled with an arrow pointed to magnified cutaway image. 
 
-Magnified cutaway detail shows tactile sign with raised letters E X I T having low contrast.  The letters are dimensioned as half inch to two inchnes in height.  Below the raised letters are four braille characters e x i t.
+<figure class="img-left">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/door-exit.jpg"
+			 alt="Illuminated EXIT sign above door with small sign on wall adjacent to door circled and arrow pointing to magnified cutaway detail." />
+  <figcaption>
+		This stairway sign includes permanent space labels (stair and floor designations) that must be tactile and visual, as well as content that is required to be visual only (egress-related directions and information).</p>
+  </figcaption>
+</figure>
 
-begin image notes \
-½″ – 2″ raised character height \
-end image notes
+<figure class="img-right">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exit-dim.png" alt="EXIT sign">
+	<p class="usa-sr-only">
+		Magnified cutaway detail shows tactile sign with raised letters E X I T having low contrast.  
+		The letters are dimensioned as half inch to two inchnes in height.  Below the raised letters are four braille characters: e x i t.
+	</p>
+  <figcaption>
+		<h4> Separate Tactile Sign </h4>
+		When visual characters are provided on a separate sign (or separately on the same sign), tactile content does not need to meet finish and contrast requirements, and raised characters can have a slightly smaller character height (½ inch instead of ⅝ inch).
+  </figcaption>
+</figure>
 
-#### Separate Tactile Sign
 
-When visual characters are provided on a separate sign (or separately on the same 
-sign), tactile content does not need to meet finish and contrast requirements, and raised 
-characters can have a slightly smaller character height (½ inch instead of ⅝ inch).
 
-caption: This stairway sign includes permanent space labels (stair and floor designations) 
-that must be tactile and visual, as well as content that is required to be visual only 
-(egress-related directions and information).
 
 high contrast sign with visual text "Stair A; Floor 20" and "1 through 25; down to 1st floor for exit discharge; no roof access".
 STAIR ANO ROOF 
@@ -241,6 +242,7 @@ ACCESSEXIT DOWN TO
 LOBBY FOR 
 EXIT 
 DISCHARGEFLOOR2020STAIR AFLOORNO ROOF ACCESS1 THROUGH 25DOWN TO 1ST FLOORFOR EXIT DISCHARGE
+
 low contrast sign with "Stair A; Floor 20" in raised text and braille.
 caption: Tactile content on separate sign
 
@@ -275,10 +277,10 @@ low contrast hoistway floor level sign with tactile number and braille
 The Standards require tactile signs (and, in some cases, 
 symbols) at elevators, including labels for: 
 
-• floor designations at elevator hoistways (§407.2.3.1); 
-• destination-oriented elevator cars (§407.2.3.2); 
-• car control buttons (§407.4.7.1.1); and 
-• emergency communication devices (§407.4.9). 
+* floor designations at elevator hoistways (§407.2.3.1); 
+* destination-oriented elevator cars (§407.2.3.2); 
+* car control buttons (§407.4.7.1.1); and 
+* emergency communication devices (§407.4.9). 
 
 For signs at elevators, most of the criteria for raised and braille 
 characters apply, but there are differences. For example, raised 
