@@ -90,7 +90,19 @@ Visual and tactile requirements apply to both interior and exterior signs labeli
 rooms and spaces. However, exterior signs not located at the door to the space they serve do 
 not have to be tactile but must meet visual requirements (§F216.2, Ex. 1). 
 
-<table class="center"> <tr> <td> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png" alt="room number sign &quot;304&quot; raised characters and braille" /> </td> <td> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png" alt="room name sign &quot;Grand Ballroom&quot; in raised characters and braille" /> </td> <td> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with pictogram and &quot;restroom&quot; in raised characters and braille" /> </td> </tr> </table>
+<table class="center">
+	<tr>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png" alt="room number sign &quot;304&quot; raised characters and braille" />
+		</td>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png" alt="room name sign &quot;Grand Ballroom&quot; in raised characters and braille" />
+		</td>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with pictogram and &quot;restroom&quot; in raised characters and braille" />
+		</td>
+	</tr>
+</table>
 
 ### Directional and Informational Signs
 
@@ -102,11 +114,22 @@ Examples of informational signs include instructions, rules of conduct, hours of
 Directional signs include all types of signs that provide direction to spaces and facilities.&nbsp;
 These requirements apply only where such signs are provided. 
 
-Sign for elevators with arrow
 
-Notice Employees only sign
+<table class="center"> <tr> <td> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png" alt="room number sign &quot;304&quot; raised characters and braille" /> </td> <td> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png" alt="room name sign &quot;Grand Ballroom&quot; in raised characters and braille" /> </td> <td> <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with pictogram and &quot;restroom&quot; in raised characters and braille" /> </td> </tr> </table>
 
-visitors must sign in sign
+<table class="center">
+	<tr>
+		<td>
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevators.png" alt="Sign:  Elevators with arrow pointing right" />
+		</td>
+		<td>
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Notice_Employees_Only.png" alt="Sign:  NOTICE: EMPLOYEES ONLY" />
+		</td>
+		<td>
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in_-_black.png" alt="Sign:  Visitors must sign in sign" />
+		</td>
+	</tr>
+</table>
 
 ### Required Accessibility Symbols
 
@@ -124,6 +147,22 @@ International Symbol of Accessibility
 International Symbol of TTY
 
 International Symbol of Access for hearing loss
+
+<table class="center">
+	<tr>
+		<td>
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevators.png" alt="Sign:  Elevators with arrow pointing right" />
+		</td>
+		<td>
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Notice_Employees_Only.png" alt="Sign:  NOTICE: EMPLOYEES ONLY" />
+		</td>
+		<td>
+						<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in_-_black.png" alt="Sign:  Visitors must sign in sign" />
+		</td>
+	</tr>
+</table>
+
+
 
 ### Visual and Tactile Requirements on Single Sign 
 
