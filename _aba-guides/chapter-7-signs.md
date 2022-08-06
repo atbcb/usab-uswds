@@ -94,7 +94,7 @@ not have to be tactile but must meet visual requirements (§F216.2, Ex. 1).
 ![room name sign quote GRAND BALLROOM unquote in raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png){: .img-center }
 ![restroom sign with pictogram and quote RESTROOM unquote in raised characters and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png){: .img-right }
 
-test {: .clear }
+{: .clear } test
 
 <table class="center">
 	<tr>
@@ -112,7 +112,7 @@ test {: .clear }
 
 ### Directional and Informational Signs
 
-[[§F216.3]({{ site.baseurl }}/aba/#aba-f216_3)]
+[[\§F216.3]({{ site.baseurl }}/aba/#aba-f216_3)]
 
 Signs that provide direction to or information about interior spaces and facilities must meet 
 visual requirements but are not required to be tactile.&nbsp;
