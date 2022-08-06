@@ -43,7 +43,7 @@ Several categories of signs also must meet tactile requirements so that they are
 Tactile requirements primarily apply to signs typically located at doorways because doorways provide a cue for locating signs by touch. 
 
 The requirements in this guide apply to certain types of content on signs.&nbsp;
-There can be multiple types of content provided on a single sign to which different provisions, as described below, may apply.&nbsp
+There can be multiple types of content provided on a single sign to which different provisions, as described below, may apply.&nbsp;
 For example, a single sign may provide a room number, which would be required to be visual and tactile, the hours of operation,
 which is only required to be visual, and the name of the occupant, which does not have to be visual or tactile.&nbsp; 
 Each type of content provided must be evaluated to determine how the content must be made accessible.
@@ -236,7 +236,7 @@ Door with lighted EXIT sign above it.  A small tactile sign on wall to right of 
 		The letters are dimensioned as half inch to two inchnes in height.  Below the raised letters are four braille characters: e x i t.
 	</p>
   <figcaption>
-		<strong>Separate Tactile Sign<strong> <br />
+		<strong>Separate Tactile Sign</strong> <br />
 		When visual characters are provided on a separate sign (or separately on the same sign), tactile content does not need to meet finish and contrast requirements, and raised characters can have a slightly smaller character height (½ inch instead of ⅝ inch).
   </figcaption>
 </figure>
