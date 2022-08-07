@@ -179,7 +179,7 @@ Some information on such signs may be exempt, such as occupant names.
 		</td>
   </tr>
 </table>
-<figure class="img-right">
+<figure class="img-center">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/1.jpg"
 			 alt="Example door sign with lettering which is exempt, required to be visual, and required to be both visual and tactile, including braille." />
 	<p class="usa-sr-only"> begin image notes. <br />
@@ -191,10 +191,10 @@ Some information on such signs may be exempt, such as occupant names.
 		This sign includes exempt and informational content in addition to a permanent room label (room number).
 	</figcaption>
 </figure>
-<p class="clear" />
+<p class="clear">
 	&nbsp;
 </p>
-<figure class="img-left">
+<figure class="img-center">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png"
 			 alt="WESTGATE PLAZA embossed on stone monument in front of office building">
   <figcaption>
@@ -285,6 +285,9 @@ Required by the IBC in some buildings, areas of refuge must provide direct acces
 Signs labeling areas of refuge must be tactile since they designate a permanent space.
 
 <figure>
+	<table>
+		<tr>
+			<td>
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
 			 class="img-left" />
@@ -296,6 +299,8 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 		Calls may take several minutes. <br />
 		End image notes.
 	</p>
+			</td>
+			<td>
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/communication_device-01.png"
 			 alt="Emergency Phone Call Box"
 			 class="img-right" />
@@ -306,6 +311,8 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 		Large button labled with picture of telephone hand seet and quote push for HELP unquote. <br />
 		End image notes.
 	</p>
+			</td>
+		</tr>		</table>
 	<figcaption>
 		Instructions on using the area of refuge under emergency conditions must be posted under the IBC \[§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
 		These instructions must meet requirements for visual characters in the ABA Standards (§F216.4.2) but are not required to be tactile.&nbsp;
