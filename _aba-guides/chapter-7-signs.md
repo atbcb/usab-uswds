@@ -1137,193 +1137,222 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
 ### Summary
 
-Application of Sign Requirements
-
-Sign
-
-Tactile 
-(§703.2 – 703.4)
-
-Visual (§703.5)
-
-Pictogram §703.6
-
-Symbols of 
-Accessibility 
-§703.7
-
-Permanent room or 
-space designations
-
-(703.5.1)*
-
-(if provided)
-
-Doors at exit stairways/ 
-passageways/ discharge
-
-(703.5.1)*
-
-(if provided)
-
-Informational and 
-directional signs
-
-Required access symbols
-
-* if tactile and visual characters provided separately, visual characters must fully meet 703.5
-
-Required Signs
-
-Required Sign
-
-Scoping Provision
-
-Technical Provisions
-
-Door labels at exit stairways/ 
-passageways/ discharge
-
-§F216.4.1
-
-* Tactile §703.2 and visual §703.5 
-criteria (can be met on separate 
-signs)
-
-
-International Symbol of 
-Accessibility*ISA
-
-
-§F216.5 – §F216.8, §F216.11
-
-• Finish & Contrast §703.7.1
-• Referenced symbol §703.7.2.1
-• Any verbiage must comply with visual criteria §703.5
-
-International Symbol of 
-TTY International Symbol of TTY
-
-§F216.9
-
-* Finish & Contrast §703.7.1
-* Referenced symbol §703.7.2.2
-* Any verbiage must comply with visual criteria §703.5 
-
-
-International Symbol of 
-Access for Hearing LossInternational Symbol of Access for hearing loss 
-
-
-§F216.10
-
-* Finish & Contrast §703.7.1
-* Referenced symbol §703.7.2.4
-* Any verbiage must comply with visual criteria §703.5 
-
-Amusement Ride Signs
-
-§F216.12
-
-• Must comply with visual criteria 
-§703.5
-
-Rail Station Identification Signs
-
-§810.6.2 §810.6.3
-
-* Tactile criteria §703.2 (sign on each platform or boarding area) 
-* Visual criteria §703.5 (clearly visible from within vehicles on both sides) 
-* Required at entrances, toilet and bathing rooms, parking spaces, check-out aisles, and existing elevators (unless all are accessible) and on directional signs to accessible entrances and toilet and bathing rooms
-
-Requirements for Visual and Raised Characters
-
-Visual Characters
-
-Raised Characters
-
-Finish
-
-non-glare
-
-Contrast
-
-light-on-dark or dark-on-light
-
-Depth
-
-N/A
-
-1/32″ min
-
-Case
-
-upper, lower, or both
-
-upper only
-
-Style
-
-conventional
-
-sans serif
-
-Prohibited Forms
-
-italic, oblique, script, highly 
-decorative, or unusual
-
-italic, oblique, script, highly 
-decorative, or unusual
-
-Character Height
-
-based on height above floor and 
-viewing distance
-
-5/8″ – 2″ *
-
-Character Proportion
-
-“O” 55% - 110% of “I” height
-
-“O” 55% - 110% of “I” height
-
-Character Spacing
-
-10% - 35% of the character height
-
-1/8” – 4x stroke width** 
-
-Stroke Thickness
-
-10% - 30% of “I” height
-
-15% max. of “I” height
-
-Line Spacing
-
-135% – 170% of character height
-
-135% – 170% of character height
-
-Height above finish 
-floor or ground
-
-40″ min.
-
-48″ – 60″
-
-Accompanied by 
-Grade II Braille
-
-N/A
-
-Yes
-
-* 1/2” min. if visual characters provided on separate sign
-
-** 1/16” min. measured at base of characters with non-rectangular cross sections
+#### Application of Sign Requirements
+
+<table id="application">
+  <colgroup>
+  <col class="_idGenTableRowColumn-8" />
+  <col class="_idGenTableRowColumn-9" />
+  <col class="_idGenTableRowColumn-10" />
+  <col class="_idGenTableRowColumn-11" />
+  <col class="_idGenTableRowColumn-12" />
+  </colgroup>
+  <thead>
+    <tr>
+      <td>Sign</td>
+      <td>Tactile (§703.2 – 703.4)</td>
+      <td>Visual (§703.5)</td>
+      <td>Pictogram §703.6</td>
+      <td>Symbols of <br />
+        Accessibility §703.7</td>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td colspan="5">* if tactile and visual characters provided separately, visual characters must fully meet 703.5</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>Permanent room or space designations</td>
+      <td><span class="CharOverride-3"></span></td>
+      <td><span class="CharOverride-3"></span> (703.5.1)*</td>
+      <td><span class="CharOverride-3"></span> (if provided)</td>
+      <td />
+    </tr>
+    <tr>
+      <td>Doors at exit stairways/ passageways/ discharge</td>
+      <td><span class="CharOverride-3"></span></td>
+      <td><span class="CharOverride-3"></span> (703.5.1)*</td>
+      <td><span class="CharOverride-3"></span> (if provided)</td>
+      <td />
+    </tr>
+    <tr>
+      <td>Informational and directional signs</td>
+      <td />
+      <td><span class="CharOverride-3"></span></td>
+      <td />
+      <td />
+    </tr>
+    <tr>
+      <td>Required access symbols</td>
+      <td />
+      <td />
+      <td />
+      <td><span class="CharOverride-3"></span></td>
+    </tr>
+  </tbody>
+</table>
+<h3>Required Signs</h3>
+<table id="required">
+  <colgroup>
+  <col class="_idGenTableRowColumn-15" />
+  <col class="_idGenTableRowColumn-16" />
+  <col class="_idGenTableRowColumn-17" />
+  </colgroup>
+  <thead>
+    <tr>
+      <td>Required Sign</td>
+      <td>Scoping Provision</td>
+      <td>Technical Provisions</td>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td colspan="3">* Required at entrances, toilet and bathing rooms, parking spaces, check-out aisles, and existing elevators (unless all are accessible) and on directional signs to accessible entrances and toilet and bathing rooms</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td>Door labels at exit stairways/ passageways/ discharge</td>
+      <td>§216.4.1</td>
+      <td><ul>
+          <li>Tactile §703.2 and visual §703.5 criteria (can be met on separate signs)</li>
+        </ul></td>
+    </tr>
+    <tr>
+      <td>International Symbol of Accessibility* <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_black1.png" alt="ISA" /></td>
+      <td>§216.5 – §216.8, §216.11</td>
+      <td><ul>
+          <li>Finish &amp; Contrast §703.7.1</li>
+          <li>Referenced symbol §703.7.2.1</li>
+          <li>Any verbiage must comply with visual criteria §703.5</li>
+        </ul></td>
+    </tr>
+    <tr>
+      <td>International Symbol of TTY <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone2.png" alt="International Symbol of TTY" /></td>
+      <td>§216.9</td>
+      <td><ul>
+          <li>Finish &amp; Contrast §703.7.1</li>
+          <li>Referenced symbol §703.7.2.2</li>
+          <li>Any verbiage must comply with visual criteria §703.5 </li>
+        </ul></td>
+    </tr>
+    <tr>
+      <td>International Symbol of Access for Hearing Loss <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear2.png" alt="International Symbol of Access for hearing loss" /></td>
+      <td>§216.10</td>
+      <td><ul>
+          <li>Finish &amp; Contrast §703.7.1</li>
+          <li>Referenced symbol §703.7.2.4</li>
+          <li>Any verbiage must comply with visual criteria §703.5 </li>
+        </ul></td>
+    </tr>
+    <tr>
+      <td>Amusement Ride Signs</td>
+      <td>§216.12</td>
+      <td><ul>
+          <li>Must comply with visual criteria §703.5</li>
+        </ul></td>
+    </tr>
+    <tr>
+      <td>Rail Station Identification Signs</td>
+      <td>§810.6.2 §810.6.3</td>
+      <td><ul>
+          <li>Tactile criteria §703.2 (sign on each platform or boarding area) </li>
+          <li>Visual criteria §703.5 (clearly visible from within vehicles on both sides) </li>
+        </ul></td>
+    </tr>
+  </tbody>
+</table>
+
+#### Requirements for Visual and Raised Characters
+
+<table id="characters">
+  <colgroup>
+  <col class="_idGenTableRowColumn-20" />
+  <col class="_idGenTableRowColumn-21" />
+  <col class="_idGenTableRowColumn-21" />
+  </colgroup>
+  <thead>
+    <tr>
+      <td />
+      <td>Visual Characters</td>
+      <td>Raised Characters</td>
+    </tr>
+  </thead>
+  <tfoot>
+    <tr>
+      <td colspan="3">* 1/2” min. if visual characters provided on separate sign ** 1/16” min. measured at base of characters with non-rectangular cross sections</td>
+    </tr>
+  </tfoot>
+  <tbody>
+    <tr>
+      <td><span class="Bold">Finish</span></td>
+      <td>non-glare</td>
+      <td />
+    </tr>
+    <tr>
+      <td><span class="Bold">Contrast</span></td>
+      <td>light-on-dark or dark-on-light</td>
+      <td />
+    </tr>
+    <tr>
+      <td><span class="Bold">Depth</span></td>
+      <td>N/A</td>
+      <td>1/32″ min</td>
+    </tr>
+    <tr>
+      <td><span class="Bold">Case</span></td>
+      <td>upper, lower, or both</td>
+      <td>upper only</td>
+    </tr>
+    <tr>
+      <td><span class="Bold">Style</span></td>
+      <td>conventional</td>
+      <td>sans serif</td>
+    </tr>
+    <tr>
+      <td><span class="Bold">Prohibited Forms</span></td>
+      <td>italic, oblique, script, highly decorative, or unusual</td>
+      <td>italic, oblique, script, highly decorative, or unusual</td>
+    </tr>
+    <tr>
+      <td><span class="Bold">Character Height</span></td>
+      <td>based on height above floor and viewing distance</td>
+      <td>5/8″ – 2″ *</td>
+    </tr>
+    <tr>
+      <td><span class="Bold">Character Proportion</span></td>
+      <td>“O” 55% - 110% of “I” height</td>
+      <td>“O” 55% - 110% of “I” height</td>
+    </tr>
+    <tr>
+      <td><span class="Bold">Character Spacing</span></td>
+      <td>10% - 35% of the character height</td>
+      <td>1/8” – 4x stroke width** </td>
+    </tr>
+    <tr>
+      <td><span class="Bold">Stroke Thickness</span></td>
+      <td>10% - 30% of “I” height</td>
+      <td>15% max. of “I” height</td>
+    </tr>
+    <tr>
+      <td><span class="Bold">Line Spacing</span></td>
+      <td>135% – 170% of character height</td>
+      <td>135% – 170% of character height</td>
+    </tr>
+    <tr>
+      <td><span class="Bold">Height above finish floor or ground</span></td>
+      <td>40″ min.</td>
+      <td>48″ – 60″</td>
+    </tr>
+    <tr>
+      <td><span class="Bold">Accompanied by Grade II Braille</span></td>
+      <td>N/A</td>
+      <td>Yes</td>
+    </tr>
+  </tbody>
+</table>
 
 ### Common Questions
 
