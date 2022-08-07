@@ -284,7 +284,7 @@ Areas of refuge are fire-resistance rated and smoke-protected areas where those 
 Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
 Signs labeling areas of refuge must be tactile since they designate a permanent space.
 
-<figure>
+<figure class="clear">
 	<table>
 		<tr>
 			<td>
@@ -312,7 +312,8 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 		End image notes.
 	</p>
 			</td>
-		</tr>		</table>
+		</tr>
+	</table>
 	<figcaption>
 		Instructions on using the area of refuge under emergency conditions must be posted under the IBC \[§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
 		These instructions must meet requirements for visual characters in the ABA Standards (§F216.4.2) but are not required to be tactile.&nbsp;
