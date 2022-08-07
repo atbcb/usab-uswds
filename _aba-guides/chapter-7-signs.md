@@ -159,20 +159,18 @@ In addition, they are subject to requirements for non-glare finish and color con
 Other information provided in addition to permanent room or space labels is not required to be raised or brailled but must meet visual criteria if informational or directional.&nbsp;
 Some information on such signs may be exempt, such as occupant names.
 
-<table>
+<table class="center">
   <tr>
     <td>
-			<figure class="img-left">
+			<figure>
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign.png" alt="Woman with long white cane at closed door, touching small sign next to the door." />
         <figcaption>
 					The required location of tactile signs is relatively uniform (i.e., beside or, where permitted, on doors) to make them easier to locate without vision.&nbsp;
           The height is limited to a specific range (48 inches – 60 inches) to facilitate reading by touch. </figcaption>
       </figure>
 		</td>
-  </tr>
-  <tr>
     <td>
-			<figure class="img-right">
+			<figure>
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/J-103.png" alt="J-103: room number sign with raised characters and braille" />
 				<figcaption> Braille is located below raised characters, including when text is multi-lined.
 				</figcaption>
@@ -180,8 +178,8 @@ Some information on such signs may be exempt, such as occupant names.
 		</td>
   </tr>
   <tr>
-    <td colspan="2">
-			<figure class="img-left">
+    <td colspan="2" class="center">
+			<figure>
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/1.jpg" alt="Example door sign with lettering which is exempt, required to be visual, and required to be both visual and tactile, including braille." />
         <p class="usa-sr-only">
 					begin image notes. 
@@ -197,8 +195,8 @@ Some information on such signs may be exempt, such as occupant names.
 		</td>
   </tr>
   <tr>
-    <td colspan="2">
-			<figure class="img-right">
+    <td colspan="2" class="center">
+			<figure>
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png" alt="WESTGATE PLAZA embossed on stone monument in front of office building">
         <figcaption>
 					Exterior signs labelling permanent rooms and spaces that are not located at a doorway do not have to be tactile but must meet visual criteria.
@@ -220,15 +218,17 @@ Exit labels at other locations are not required to be tactile but must meet visu
 Life safety and building codes address the visibility and illumination of exit signs, which can also satisfy the visual requirements in the ABA Standards.&nbsp;
 At exit doors, the tactile requirements typically must be met on a separate sign.
 
-Door with lighted EXIT sign above it.  A small tactile sign on wall to right of the door is circled with an arrow pointed to magnified cutaway image. 
-
-<figure class="img-left">
-	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/door-exit.png"
-			 alt="Illuminated EXIT sign above door with small sign on wall adjacent to door circled and arrow pointing to magnified cutaway detail." />
+<table class="center">
+<tr>
+	<td>
+	<figure class="img-left">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/door-exit.png" alt="Door with lighted EXIT sign above it.  A small tactile sign on wall to right of the door is circled with an arrow pointed to magnified cutaway detail." />
   <figcaption>
 		This stairway sign includes permanent space labels (stair and floor designations) that must be tactile and visual, as well as content that is required to be visual only (egress-related directions and information).
   </figcaption>
 </figure>
+	</td>
+	<td>
 <figure class="img-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exit-dim.png" alt="EXIT sign">
 	<p class="usa-sr-only">
@@ -240,16 +240,16 @@ Door with lighted EXIT sign above it.  A small tactile sign on wall to right of 
 		When visual characters are provided on a separate sign (or separately on the same sign), tactile content does not need to meet finish and contrast requirements, and raised characters can have a slightly smaller character height (½ inch instead of ⅝ inch).
   </figcaption>
 </figure>
-
-<table class="img-center">
+	</td>
+	</tr>
 	<tr>
-		<td>
+		<td class="img-right">
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-full.png" alt="high contrast sign with visual text" />
-			<p classs="usa-sr-only">
+			<p class="usa-sr-only">
 				begin image notes.  Stair A, floor 20.  1 through 25, down to 1st floor, for exit discharge.  no roof access.  end image notes.
 			</p>
 		</td>
-		<td>
+		<td class="img-left">
 			<figure>
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-tactile.png" alt="low contrast sign with quote Stair A; Floor 20 unquote in raised text and braille." />
 				<figcaption>
