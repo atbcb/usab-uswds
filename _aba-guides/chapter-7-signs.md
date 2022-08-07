@@ -32,7 +32,7 @@ requirements:
 
 <figure class="img-right">
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign_walk.png"
-       alt="Woman with long white cane walking along hallway with doors.  Each door is labeled with an adjacent sign.">
+       alt="Woman with long white cane walking along hallway with doors.  Each door is labeled with an adjacent sign." />
   <figcaption>
     Doorways provide a tactile cue for locating signs.
   </figcaption>
@@ -179,7 +179,7 @@ Some information on such signs may be exempt, such as occupant names.
 		</td>
   </tr>
 </table>
-<figure class="img-center">
+<figure class="img-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/1.jpg"
 			 alt="Example door sign with lettering which is exempt, required to be visual, and required to be both visual and tactile, including braille." />
 	<p class="usa-sr-only"> begin image notes. <br />
@@ -191,7 +191,10 @@ Some information on such signs may be exempt, such as occupant names.
 		This sign includes exempt and informational content in addition to a permanent room label (room number).
 	</figcaption>
 </figure>
-<figure class="img-center">
+<p class="clear" />
+	&nbsp;
+</p>
+<figure class="img-left">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png"
 			 alt="WESTGATE PLAZA embossed on stone monument in front of office building">
   <figcaption>
@@ -225,7 +228,8 @@ At exit doors, the tactile requirements typically must be met on a separate sign
 		<td>
 			<figure>
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exit-dim.png"
-					 alt="EXIT sign">
+					alt="EXIT sign"
+					style="float:right" />
 				<p class="usa-sr-only">
 					Begin image notes. 
 					Magnified cutaway detail shows tactile sign with raised letters E X I T having low contrast. 
@@ -240,6 +244,8 @@ At exit doors, the tactile requirements typically must be met on a separate sign
 			</figure>
 		</td>
 	</tr>
+</table>
+<table>
 	<tr>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-full.png"
@@ -276,35 +282,49 @@ Areas of refuge are fire-resistance rated and smoke-protected areas where those 
 Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
 Signs labeling areas of refuge must be tactile since they designate a permanent space.
 
-Sign with "Push for Help" in tactile and braille characters. Instructions for use of area of refuge in only visual characters.
-Emergency Phone Call Box
-caption: Instructions on using the area of refuge under 
-emergency conditions must be posted under the 
-IBC \[§1007.6.4 (2003) or §1003.2.13.5.4 (2000)]. 
-These instructions must meet requirements 
-for visual characters in the ABA Standards 
-(§F216.4.2) but are not required to be tactile. The 
-IBC specifies the content for these signs.
+<figure>
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
+       alt="Sign with "Push for Help" in tactile and braille characters. Instructions for use of area of refuge in only visual characters." />
+	<p class="usa-sr-only">
+		Begin image notes. 
+		In the event of an emergency, push the help button for evacuation assistance. 
+		Persons able to use the exit stairway do so as soon as possible, unless they are assisting others.
+		Wait here for assistance.
+		Calls may take several minutes.
+		End image notes.
+	</p>
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/communication_device-01.png"
+			 alt="Emergency Phone Call Box" />
+	<p class="usa-sr-only">
+		Begin image notes. 
+		Red speaker grill with EMERGENCY PHONE in large white letters. 
+		Indicator lamp labled quote call connected unquote. 
+		Large button labled with picture of telephone hand seet and quote push for HELP unquote. 
+		End image notes.
+	</p>
+	<figcaption>
+		Instructions on using the area of refuge under emergency conditions must be posted under the IBC \[§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
+		These instructions must meet requirements for visual characters in the ABA Standards (§F216.4.2) but are not required to be tactile.&nbsp;
+		The IBC specifies the content for these signs.
+  </figcaption>
+</figure>
 
 #### Elevator Signs and Labels
 
 [\[§407]({{ site.baseurl }}/aba/#407)] 
 
-Elevator Button Panel
-low contrast hoistway floor level sign with tactile number and braille
-The Standards require tactile signs (and, in some cases, 
-symbols) at elevators, including labels for: 
+![Elevator button panel with detail showing low contrast floor level sign with tactile number 2 and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/elevator_buttons-01.png){: .img-right }
+
+The Standards require tactile signs (and, in some cases, symbols) at elevators, including labels for: 
 
 * floor designations at elevator hoistways (§407.2.3.1); 
 * destination-oriented elevator cars (§407.2.3.2); 
 * car control buttons (§407.4.7.1.1); and 
 * emergency communication devices (§407.4.9). 
 
-For signs at elevators, most of the criteria for raised and braille 
-characters apply, but there are differences. For example, raised 
-characters can be at least 2 inches high on hoistway floor level 
-signs, and tactile content on control panels can be located 
-outside the standard 48 inches – 60 inches mounting height. 
+For signs at elevators, most of the criteria for raised and braille characters apply, but there are differences.&nbsp;
+For example, raised characters can be at least 2 inches high on hoistway floor level signs,
+and tactile content on control panels can be located outside the standard 48 inches – 60 inches mounting height.&nbsp;
 See [Elevators and Platform Lifts Guide]({{ site.baseurl }}/aba/guides/chapter-4-elevators-and-platform-lifts/)) for more information.
 
 ### Technical Requirements for Tactile Characters
