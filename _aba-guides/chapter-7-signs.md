@@ -274,7 +274,7 @@ In addition, directions to accessible means of egress required by the Internatio
 <figure class="img-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
 			 alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille."
-			 class="img-larg" />
+			 class="img-large" />
   <figcaption>
 		Area of refuge signs can be incorporated into required exit signs.
   </figcaption>
@@ -315,8 +315,7 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 
 #### Elevator Signs and Labels
 
-[\[§407]({{ site.baseurl }}/aba/#407)] 
-
+[\[§407]({{ site.baseurl }}/aba/#407)]
 ![Elevator button panel with detail showing low contrast floor level sign with tactile number 2 and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/elevator_buttons-01.png){: .img-right }
 
 The Standards require tactile signs (and, in some cases, symbols) at elevators, including labels for: 
