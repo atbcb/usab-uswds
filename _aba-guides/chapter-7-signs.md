@@ -211,42 +211,49 @@ Exit labels at other locations are not required to be tactile but must meet visu
 Life safety and building codes address the visibility and illumination of exit signs, which can also satisfy the visual requirements in the ABA Standards.&nbsp;
 At exit doors, the tactile requirements typically must be met on a separate sign.
 
-<table class="center">
-<tr>
-	<td>
-	<figure class="img-left">
-	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/door-exit.png" alt="Door with lighted EXIT sign above it.  A small tactile sign on wall to right of the door is circled with an arrow pointed to magnified cutaway detail." />
-  <figcaption>
-		This stairway sign includes permanent space labels (stair and floor designations) that must be tactile and visual, as well as content that is required to be visual only (egress-related directions and information).
-  </figcaption>
-</figure>
-	</td>
-	<td>
-<figure class="img-right">
-	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exit-dim.png" alt="EXIT sign">
-	<p class="usa-sr-only">
-		Magnified cutaway detail shows tactile sign with raised letters E X I T having low contrast.  
-		The letters are dimensioned as half inch to two inchnes in height.  Below the raised letters are four braille characters: e x i t.
-	</p>
-  <figcaption>
-		<strong>Separate Tactile Sign</strong> <br />
-		When visual characters are provided on a separate sign (or separately on the same sign), tactile content does not need to meet finish and contrast requirements, and raised characters can have a slightly smaller character height (½ inch instead of ⅝ inch).
-  </figcaption>
-</figure>
-	</td>
+<table>
+	<tr>
+		<td>
+			<figure>
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/door-exit.png"
+					 alt="Door with lighted EXIT sign above it.  A small tactile sign on wall to right of the door is circled with an arrow pointed to magnified cutaway detail." />
+				<figcaption>
+					This stairway sign includes permanent space labels (stair and floor designations) that must be tactile and visual, as well as content that is required to be visual only (egress-related directions and information).
+				</figcaption>
+			</figure>
+		</td>
+		<td>
+			<figure>
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exit-dim.png"
+					 alt="EXIT sign">
+				<p class="usa-sr-only">
+					Begin image notes. 
+					Magnified cutaway detail shows tactile sign with raised letters E X I T having low contrast. 
+					The letters are dimensioned as half inch to two inchnes in height. 
+					Below the raised letters are four braille characters: e x i t.
+					End image notes.
+				</p>
+				<figcaption>
+					<strong>Separate Tactile Sign</strong> <br />
+					When visual characters are provided on a separate sign (or separately on the same sign), tactile content does not need to meet finish and contrast requirements, and raised characters can have a slightly smaller character height (½ inch instead of ⅝ inch).
+				</figcaption>
+			</figure>
+		</td>
 	</tr>
 	<tr>
-		<td class="img-right">
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-full.png" alt="high contrast sign with visual text" />
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-full.png"
+				 alt="high contrast sign with visual text" />
 			<p class="usa-sr-only">
-				begin image notes.  Stair A, floor 20.  1 through 25, down to 1st floor, for exit discharge.  no roof access.  end image notes.
+				Begin image notes.  Stair A, floor 20.  1 through 25, down to 1st floor, for exit discharge.  No roof access.  End image notes.
 			</p>
 		</td>
-		<td class="img-left">
+		<td>
 			<figure>
-				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-tactile.png" alt="low contrast sign with quote Stair A; Floor 20 unquote in raised text and braille." />
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-tactile.png"
+					 alt="low contrast sign with quote Stair A; Floor 20 unquote in raised text and braille." />
 				<figcaption>
-					 Tactile content on separate sign
+					Tactile content on separate sign.
 				</figcaption>
 			</figure>
 		</td>
