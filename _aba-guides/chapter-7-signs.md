@@ -678,14 +678,6 @@ Horizontal Viewing Distance between the character and an obstruction preventing 
 Height from finish floor/ground to character baseline (40″ min.) \
 end image notes
 
-Height
-
-Viewing Distance
-
-Min. Character Height
-
-40″ – 70″
-
 <table id="ch" class="usa-table--striped">
   <thead>
     <tr>
@@ -728,43 +720,6 @@ Min. Character Height
     </tr>
   </tbody>
 </table>
-
-under 6′
-
-5/8″
-
-40″ – 70″
-
-6′ or more
-
-5/8″ + 1/8″ per foot of viewing 
-distance above 6’
-
-above 70″ to 10′
-
-under 15′
-
-2″
-
-above 70″ to 10′
-
-15′ or more
-
-2″ + 1/8″ per foot of viewing 
-distance above 15′
-
-above 10′
-
-under 21′
-
-3″
-
-above 10′
-
-21′ or more
-
-3″ + 1/8″ per foot of viewing 
-distance above 21′
 
 Airport terminal with signs above general circulation path. Dimension line identifies distance from finish floor to bottom of sign.
 80″ min
