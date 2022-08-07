@@ -685,7 +685,8 @@ Viewing Distance
 Min. Character Height
 
 40″ – 70″
-<table id="ch">
+
+<table id="ch" class="usa-table--striped">
   <thead>
     <tr>
       <th scope="col"> Height </th>
@@ -700,8 +701,8 @@ Min. Character Height
       <td> 5/8″ </td>
     </tr>
     <tr>
-      <td>6′ or more</td>
-      <td>5/8″ + 1/8″ per foot of viewing distance above 6’ </td>
+      <td> 6′ or more</td>
+      <td> 5/8″ + 1/8″ per foot of viewing distance above 6’ </td>
     </tr>
   </tbody>
   <tbody>
