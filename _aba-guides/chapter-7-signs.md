@@ -245,7 +245,7 @@ At exit doors, the tactile requirements typically must be met on a separate sign
 		</td>
 	</tr>
 </table>
-<table>
+<table class="img-large">
 	<tr>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-full.png"
@@ -272,7 +272,9 @@ In addition, directions to accessible means of egress required by the Internatio
 (IBC) must meet visual criteria (§F216.4.3).&nbsp;
 
 <figure class="img-right">
-	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png" alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille." />
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
+			 alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille."
+			 class="img-larg" />
   <figcaption>
 		Area of refuge signs can be incorporated into required exit signs.
   </figcaption>
@@ -284,22 +286,24 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 
 <figure>
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
-       alt="Sign with "Push for Help" in tactile and braille characters. Instructions for use of area of refuge in only visual characters." />
+       alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
+			 class="img-left" />
 	<p class="usa-sr-only">
-		Begin image notes. 
-		In the event of an emergency, push the help button for evacuation assistance. 
-		Persons able to use the exit stairway do so as soon as possible, unless they are assisting others.
-		Wait here for assistance.
-		Calls may take several minutes.
+		Begin image notes. <br />
+		In the event of an emergency, push the help button for evacuation assistance. <br />
+		Persons able to use the exit stairway do so as soon as possible, unless they are assisting others. <br />
+		Wait here for assistance. <br />
+		Calls may take several minutes. <br />
 		End image notes.
 	</p>
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/communication_device-01.png"
-			 alt="Emergency Phone Call Box" />
+			 alt="Emergency Phone Call Box"
+			 class="img-right" />
 	<p class="usa-sr-only">
-		Begin image notes. 
-		Red speaker grill with EMERGENCY PHONE in large white letters. 
-		Indicator lamp labled quote call connected unquote. 
-		Large button labled with picture of telephone hand seet and quote push for HELP unquote. 
+		Begin image notes. <br />
+		Red speaker grill with EMERGENCY PHONE in large white letters. <br />
+		Indicator lamp labled quote call connected unquote. <br />
+		Large button labled with picture of telephone hand seet and quote push for HELP unquote. <br />
 		End image notes.
 	</p>
 	<figcaption>
@@ -335,36 +339,22 @@ See [Elevators and Platform Lifts Guide]({{ site.baseurl }}/aba/guides/chapter-4
 
 Criteria for raised characters address: depth, case, style, character height and proportions, stroke thickness, and line and character spacing.
 
-Family Restroom Sign in both tactile characters and braille.
-Characters 1/32″ min, upper case, sans serif(prohibited: italic, oblique, script, highly decorative or other unusual forms)
-5/8″ ‒ 2″ 
-(uppercase “I”)
-3/8″ min 
-(raised borders/
-decorative elements)
-3/8″ min 
-(raised borders/
-decorative elements))
-135% – 170% 
-of character heightnon-glare finish 
-(raised characters 
-and background)
-Grade 2 braille below 
-raised charactersLight-on-dark or dark-on-light contrast 
-between the background and raised 
-characters (but not braille)
+![Sign reading quote FAMILY RESTROOM in both tactile characters and braille.]({{ page.image-directory }}chapter7/signs/4.jpg)
 
-begin image notes \
-Characters must be raised 1/32″ min, upper case, and sans serif (prohibited font styles: italic, oblique, script, highly decorative or other unusual forms). \
-Character Height: 5/8″ – 2″ (based on uppercase “I”). \
-Space between lines of text is 135% – 170% of character height. \
-3/8″ min space (between text and raised borders/decorative elements). \
+Begin image notes. \
+Characters raised 1/32″ min, upper case, sans serif; (prohibited: italic, oblique, script, highly decorative or other unusual forms). \
+Character height dimensioned as 5/8″ ‒ 2″ (uppercase “I”). \
+Vertical pace between lines of text dimensiond as 135% – 170% of character height. \
+Space of 3/8″ min dimensioned between letters and (raised borders / decorative elements) shown at top and right of sign. \
+Non-glare finish (raised characters and background). \
 Grade 2 braille below raised characters. \
-non-glare finish (raised characters and background). \
 Light-on-dark or dark-on-light contrast between the background and raised characters (but not braille). \
-end image notes
+End image notes.
+{:.usa-sr-only}
 
 Note:&nbsp; If visual characters are provided on a separate sign, the tactile sign does not have to meet finish and contrast criteria and can have raised characters at ½ inch minimum height. 
+
+
 
 Character spacing, as measured between the two closest points of adjacent characters excluding word spaces, is specified for rectangular and non-rectangular cross sections.
 
