@@ -159,52 +159,45 @@ In addition, they are subject to requirements for non-glare finish and color con
 Other information provided in addition to permanent room or space labels is not required to be raised or brailled but must meet visual criteria if informational or directional.&nbsp;
 Some information on such signs may be exempt, such as occupant names.
 
-<table class="center">
-  <tr>
-    <td>
+<table>
+	<tr>
+ 		<td>
 			<figure>
-				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign.png" alt="Woman with long white cane at closed door, touching small sign next to the door." />
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Detecting_Door_Sign.png"
+						 alt="Woman with long white cane at closed door, touching small sign next to the door." />
         <figcaption>
 					The required location of tactile signs is relatively uniform (i.e., beside or, where permitted, on doors) to make them easier to locate without vision.&nbsp;
           The height is limited to a specific range (48 inches – 60 inches) to facilitate reading by touch. </figcaption>
       </figure>
-		</td>
+	  </td>
     <td>
 			<figure>
-				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/J-103.png" alt="J-103: room number sign with raised characters and braille" />
-				<figcaption> Braille is located below raised characters, including when text is multi-lined.
-				</figcaption>
-      </figure>
-		</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="center">
-			<figure>
-				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/1.jpg" alt="Example door sign with lettering which is exempt, required to be visual, and required to be both visual and tactile, including braille." />
-        <p class="usa-sr-only">
-					begin image notes. 
-          Exempt (occupant name, title): Jill Smith; Director. 
-          Visual (informational): Accounting. 
-          Tactile &amp; Visual (permanent room label): 403. 
-          end image notes
-				</p>
-        <figcaption>
-					This sign includes exempt and informational content in addition to a permanent room label (room number).
-				</figcaption>
-      </figure>
-		</td>
-  </tr>
-  <tr>
-    <td colspan="2" class="center">
-			<figure>
-				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png" alt="WESTGATE PLAZA embossed on stone monument in front of office building">
-        <figcaption>
-					Exterior signs labelling permanent rooms and spaces that are not located at a doorway do not have to be tactile but must meet visual criteria.
-				</figcaption>
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/J-103.png"
+						 alt="J-103: room number sign with raised characters and braille" />
+        <figcaption> Braille is located below raised characters, including when text is multi-lined. </figcaption>
       </figure>
 		</td>
   </tr>
 </table>
+<figure class="img-center">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/1.jpg"
+			 alt="Example door sign with lettering which is exempt, required to be visual, and required to be both visual and tactile, including braille." />
+	<p class="usa-sr-only"> begin image notes. <br />
+    Exempt (occupant name, title): Jill Smith; Director. <br />
+    Visual (informational): Accounting. <br />
+    Tactile &amp; Visual (permanent room label): 403. <br />
+    end image notes </p>
+  <figcaption>
+		This sign includes exempt and informational content in addition to a permanent room label (room number).
+	</figcaption>
+</figure>
+<figure class="img-center">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png"
+			 alt="WESTGATE PLAZA embossed on stone monument in front of office building">
+  <figcaption>
+		Exterior signs labelling permanent rooms and spaces that are not located at a doorway do not have to be tactile but must meet visual criteria.
+	</figcaption>
+</figure>
 
 ### Means of Egress Signs
 
