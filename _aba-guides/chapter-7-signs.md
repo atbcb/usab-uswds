@@ -338,50 +338,48 @@ See [Elevators and Platform Lifts Guide]({{ site.baseurl }}/aba/guides/chapter-4
 
 Criteria for raised characters address: depth, case, style, character height and proportions, stroke thickness, and line and character spacing.
 
-![Sign reading quote FAMILY RESTROOM in both tactile characters and braille.]({{ page.image-directory }}chapter7/signs/4.jpg)
-
-Begin image notes. \
-Characters raised 1/32″ min, upper case, sans serif; (prohibited: italic, oblique, script, highly decorative or other unusual forms). \
-Character height dimensioned as 5/8″ ‒ 2″ (uppercase “I”). \
-Vertical pace between lines of text dimensiond as 135% – 170% of character height. \
-Space of 3/8″ min dimensioned between letters and (raised borders / decorative elements) shown at top and right of sign. \
-Non-glare finish (raised characters and background). \
-Grade 2 braille below raised characters. \
-Light-on-dark or dark-on-light contrast between the background and raised characters (but not braille). \
-End image notes.
-{:.usa-sr-only}
-
-Note:&nbsp; If visual characters are provided on a separate sign, the tactile sign does not have to meet finish and contrast criteria and can have raised characters at ½ inch minimum height. 
-
-
+<figure>
+  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/4.jpg"
+       alt="Sign reading quote FAMILY RESTROOM in both tactile characters and braille." />
+	<p class="usa-sr-only">
+		Begin image notes. <br />
+		Characters raised 1/32″ min, upper case, sans serif; (prohibited: italic, oblique, script, highly decorative or other unusual forms).	</p>
+	<p class="usa-sr-only">
+		Character height dimensioned as 5/8″ ‒ 2″ (uppercase “I”). <br />
+		Vertical pace between lines of text dimensiond as 135% – 170% of character height. <br />
+		Grade 2 braille below raised characters.
+	</p>
+	<p class="usa-sr-only">
+		Space of 3/8″ min dimensioned between letters and (raised borders / decorative elements) shown at top and right of sign.
+	</p>
+	<p class="usa-sr-only">
+		Light-on-dark or dark-on-light contrast between the background and raised characters (but not braille). <br />
+		Non-glare finish for (raised characters and background). <br />
+		End image notes.
+	</p>
+  <figcaption>
+		Note:&nbsp; If visual characters are provided on a separate sign, the tactile sign does not have to meet finish and contrast criteria and can have raised characters at ½ inch minimum height. 
+  </figcaption>
+</figure>
 
 Character spacing, as measured between the two closest points of adjacent characters excluding word spaces, is specified for rectangular and non-rectangular cross sections.
 
-Dimension line identifying closest point between two letters.
+![Dimension line identifying closest point between two letters, the O O between R and M.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/5.jpg)
 
-Top down closeup of two rectangular raised characters
-1/8″ – 
-4x stroke width
-
-begin image note \
+{:.usa-sr-only}
+Begin image notes. \
 Distance between rectangular raised characters is one-eighth inch to four times stroke width. \
-end image note
-
-Top down closeup of two beveled raised characters
-1/8″ – 
-4x stroke width1/16″ – 
-4x stroke width
+end image notes.
 
 begin image notes \
 Distance between rectangular raised characters is one-eighth inch to four times stroke width. \
 Distance between top of beveled raised characters is one-eighth inch to four times stroke. \
 end image notes
+{:.usa-sr-only}
 
-The stroke thickness of the uppercase letter “I” must be 15% maximum of the character height. 
-Characters must be selected from fonts where the width of the uppercase letter “O” is 55% to 
-110% of the height of the uppercase letter “I.” Raised character height must be from 1/2 inch 
-minimum to 2 inches maximum. Where raised characters also serve as visual characters, the 
-minimum height is 5/8 inch.
+The stroke thickness of the uppercase letter “I” must be 15% maximum of the character height.&nbsp; 
+Characters must be selected from fonts where the width of the uppercase letter “O” is 55% to 110% of the height of the uppercase letter “I.”&nbsp;
+Raised character height must be from 1/2 inch minimum to 2 inches maximum. Where raised characters also serve as visual characters, the minimum height is 5/8 inch.
 
 Capital letter "I" with dimension lines identifying stroke thickness and character height.
 1/2″ – 2″
