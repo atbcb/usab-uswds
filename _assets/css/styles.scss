@@ -457,20 +457,6 @@ dt {
   display: table;
 }
 
-// add shading to even rows in data tables -- does not seem to be working
-
-table.data tr:nth-child(even) {
- background-color: #f2f2f2;
-} // zebra stripping by default
-// layout tables used in ict preamble
-table.layouttable {
-  border-collapse: collapse;
-}
-table.layouttable,
-table.layouttable tr {
-  border: 1px solid black;
-}
-
 // default mode hide banner
 .usa-banner__content {
   display: hidden;
@@ -583,4 +569,23 @@ a.style-inherit:focus>div.gray-to-color {
 // custom colors for ev charging tad
 .bg-green-light {
   background-color: #ECFFDC;
+}
+
+// add shading to even rows in data tables -- does not seem to be working
+table.data tr:nth-child(even) {
+ background-color: #f2f2f2;
+} // zebra stripping by default
+
+// layout table
+table.layout td {
+	text-align: center;
+  font-style: oblique;
+}
+// layout tables used in ict preamble
+table.layouttable {
+  border-collapse: collapse;
+}
+table.layouttable,
+table.layouttable tr {
+  border: 1px solid black;
 }
