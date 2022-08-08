@@ -17,7 +17,7 @@ This town hall meeting is open to the public, but registration is required **by 
 American Sign Language (ASL) interpreters and Communication Access Real-time Transcription (CART) services will be provided. The Access Board has a fragrance-free environment policy and requests that all attendees refrain from wearing perfume, cologne, and other fragrances and use unscented personal care products. Requests for reasonable accommodations must be submitted on the registration form **by August 22, 2022**. For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov) 
 
 > ***Town Hall Meeting: The State of Accessibility in Philadelphia*** \
-> September 14, 2022, 1:30 – 3:30 p.m. (ET) \
+> September 14, 2022, 1:30 – 3:30 p.m., followed by networking reception 3:45 – 5:00 p.m. \
 > Liberty Resources, Inc. \
 > 112 N. 8th St. \
 > Philadelphia, PA 19107 
