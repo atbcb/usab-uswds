@@ -295,11 +295,6 @@ h3.usa-graphic-list__heading {
   color: white;
 }
 
-// temporary blue class to see how grids work
-.blue {
-  background-color: cyan;
-}
-
 // advisory boxes, might be P or DIV
 .advisory {
   background-color: color(primary-lighter);
@@ -569,11 +564,12 @@ a.style-inherit:focus>div.gray-to-color {
   background-size: 20px 20px;
 }
 
-
-
-
 // custom colors
 // ev charging tad
 .bg-green-light {
   background-color: #ECFFDC;
+}
+// temporary blue class to see how grids work
+.blue {
+  background-color: cyan;
 }
