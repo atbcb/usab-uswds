@@ -3,15 +3,7 @@ layout: post
 title: "U.S. Access Board to Hold September Town Hall Meeting and Trainings in
   Philadelphia "
 date: 2022-08-08
-excerpt: The U.S. Access Board will hold a public town hall meeting on
-  Wednesday, September 14, 2022, from 1:30 – 3:30 p.m. (ET) at Liberty
-  Resources, Inc. in Philadelphia. Presidentially-appointed Access Board members
-  and representatives from various federal member agencies will be present to
-  hear from the local community about the state of accessibility in
-  Philadelphia. The Board will also provide free presentations, trainings, and
-  hands-on workshops on accessibility of the built environment and information
-  and communication technology on September 13 and 14 in Philadelphia. Seats are
-  limited, and registration is required via . . .
+excerpt: The U.S. Access Board will hold a public town hall meeting on Wednesday, September 14, 2022, from 1:30 – 3:30 p.m. (ET) at Liberty Resources, Inc. in Philadelphia. Presidentially-appointed Access Board members and representatives from various federal member agencies will be present to hear from the local community about the state of accessibility in Philadelphia. Following the town hall meeting from 3:45 – 5:00 will be a networking opportunity and reception, sponsored by The Sierra Group Academy, Tamman, Inc., and the Mid-Atlantic ADA Center. Additionally, the Board will provide free presentations, trainings, and hands-on workshops on accessibility of the built environment and information and communication technology on September 13 and 14 in Philadelphia. Seats are limited, and registration is required via . . .
 image: /images/uploads/philadelphia-skyscape.png
 image_alt_text: Skyline of Philadelphia downtown
 featured: true
