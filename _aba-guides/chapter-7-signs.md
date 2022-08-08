@@ -276,34 +276,23 @@ code, must comply with the visual requirements for information and directional s
 In addition, directions to accessible means of egress required by the International Building Code
 (IBC) must meet visual criteria (§F216.4.3).&nbsp;
 
-<table>
-	<tr>
-		<trd>
-			<p>
-				Areas of refuge are fire-resistance rated and smoke-protected areas where those persons who are unable to use stairs can register a call for evacuation assistance and await instructions or assistance.&nbsp;
-				Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
-				Signs labeling areas of refuge must be tactile since they designate a permanent space.
-		</td>
-	</tr>
-	<tr>
-		<trd>
-			<figure class="img-right">
-				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
-						 alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille." />
-				<figcaption>
-					Area of refuge signs can be incorporated into required exit signs.
-				</figcaption>
-			</figure>
-		</td>
-	</tr>
-</table>
-<figure class="img-center">
-	<table>
-		<tr>
-			<td>
-  <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
+<figure class="img-right">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
+			 alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille."
+			 />
+	<figcaption>
+		Area of refuge signs can be incorporated into required exit signs.
+	</figcaption>
+</figure>
+
+Areas of refuge are fire-resistance rated and smoke-protected areas where those persons who are unable to use stairs can register a call for evacuation assistance and await instructions or assistance.&nbsp;
+Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
+Signs labeling areas of refuge must be tactile since they designate a permanent space.
+
+<figure class="img-grid">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
-			 class="img-grid" />
+			 style="float:left" />
 	<p class="usa-sr-only">
 		Begin image notes. <br />
 		In the event of an emergency, push the help button for evacuation assistance. <br />
@@ -312,11 +301,9 @@ In addition, directions to accessible means of egress required by the Internatio
 		Calls may take several minutes. <br />
 		End image notes.
 	</p>
-			</td>
-			<td>
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/communication_device-01.png"
 			 alt="Emergency Phone Call Box"
-			 class="img-grid" />
+			 class="float:right" />
 	<p class="usa-sr-only">
 		Begin image notes. <br />
 		Red speaker grill with EMERGENCY PHONE in large white letters. <br />
@@ -324,9 +311,6 @@ In addition, directions to accessible means of egress required by the Internatio
 		Large button labled with picture of telephone hand seet and quote push for HELP unquote. <br />
 		End image notes.
 	</p>
-			</td>
-		</tr>
-	</table>
 	<figcaption>
 		Instructions on using the area of refuge under emergency conditions must be posted under the IBC \[§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
 		These instructions must meet requirements for visual characters in the ABA Standards (§F216.4.2) but are not required to be tactile.&nbsp;
