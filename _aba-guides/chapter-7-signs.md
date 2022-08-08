@@ -308,7 +308,7 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 		Calls may take several minutes. <br />
 		End image notes.
 	</p>
-	<figcaption>
+	<figcaption class="clear">
 		Instructions on using the area of refuge under emergency conditions must be posted under the IBC [§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
 		These instructions must meet requirements for visual characters in the ABA Standards (§F216.4.2) but are not required to be tactile.&nbsp;
 		The IBC specifies the content for these signs.
@@ -366,39 +366,45 @@ Criteria for raised characters address: depth, case, style, character height and
 
 Character spacing, as measured between the two closest points of adjacent characters excluding word spaces, is specified for rectangular and non-rectangular cross sections.
 
-![Dimension line identifying closest point between two letters, the O O between R and M.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/5.jpg){: .img-grid }
+![Dimension line identifying closest point between two letters, the O O between R and M.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/5.jpg)
+{: .img-grid }
 
-{:.usa-sr-only}
+![Top-down closeup of two rectangular raised characters]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/6.jpg)
+{: .img-grid }
+
+{: .usa-sr-only }
 Begin image notes. \
 Distance between rectangular raised characters is one-eighth inch to four times stroke width. \
 end image notes.
 
+![Top-down closeup of two beveled raised characters]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/7.jpg)
+{: .img-grid }
+
 begin image notes \
-Distance between rectangular raised characters is one-eighth inch to four times stroke width. \
 Distance between top of beveled raised characters is one-eighth inch to four times stroke. \
+Distance between bottom of beveled raised characters is one-sixteenth inch to four times stroke. \
 end image notes
-{:.usa-sr-only}
+{: .usa-sr-only }
 
 The stroke thickness of the uppercase letter “I” must be 15% maximum of the character height.&nbsp; 
 Characters must be selected from fonts where the width of the uppercase letter “O” is 55% to 110% of the height of the uppercase letter “I.”&nbsp;
 Raised character height must be from 1/2 inch minimum to 2 inches maximum. Where raised characters also serve as visual characters, the minimum height is 5/8 inch.
 
-Capital letter "I" with dimension lines identifying stroke thickness and character height.
-1/2″ – 2″
-max 15% of height
+![Capital letter eye with dimension lines identifying stroke thickness and character height.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/9.jpg)
 
 begin image notes \
-1/2 inch – 2 inch character height \
-max stroke thickness 15% of height \
+Character height dimensioned as half inch to two inches. \
+Character stroke width dimensioned to max 15% of height. \
 end image notes
+{: .usa-sr-only }
 
-Overlapping capital "o" letters showing thin and wide character shapes above a sideways capital letter "I".
-max 110% of heightmin 55% of height
+![Overlapping capital oh letters showing thin and wide character shapes above a sideways capital letter i.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/8.jpg)
 
 begin image notes \
 max character width 110% of height \
 min character width 55% of height \
 end image notes
+{: .usa-sr-only }
 
 Recommendation: Where visual and tactile access is provided on the same sign, 
 provide a stroke thickness no less than 10% of the height based on the uppercase 
@@ -420,9 +426,30 @@ caption: Dark-on-light contrast
 Family Restroom sign with white characters on a black background
 caption: Light-on-dark contrast
 
+<figure class="img-left">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Family_Restroom_braille.png"
+			 alt="Family Restroom sign with black letters on a light tan background."
+			 />
+	<figcaption>
+		Dark-on-light contrast
+	</figcaption>
+</figure>
+<figure class="img-right">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Family_Restroom_braille_-_contrast-01.png"
+			 alt="Family Restroom sign with white characters on a black background"
+			 />
+	<figcaption>
+		Light-on-dark contrast
+	</figcaption>
+</figure>
+
 #### Braille
 
 [\[§703.3]({{ site.baseurl }}/aba/#703_3)] 
+
+
+
+
 
 Closeup of fingers reading braille
 The content of raised characters also must be 
