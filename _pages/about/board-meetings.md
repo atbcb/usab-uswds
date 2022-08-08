@@ -12,7 +12,15 @@ Members of the U.S. Access Board meet regularly every two months. Board meetings
 
 ## Next Board Meeting
 
-The next virtual meeting of the Board is scheduled for **Wednesday, November 9, 2022,** beginning at 1:00 p.m. Eastern.  Further details will be published as they become available.  
+The next meeting of the Board is scheduled for **Wednesday, September 14, 2022** in Philadelphia at 1:30 p.m. (ET) at Liberty Resources, Inc. (112 N. 8th St., Philadelphia, PA 19107). This meeting will be a town hall meeting where Presidentially-appointed Access Board members and representatives from various federal member agencies will be present to hear from the local community about the state of accessibility in Philadelphia. Following the town hall meeting from 3:45 – 5:00 will be a networking opportunity and reception, sponsored by [The Sierra Group Academy](https://www.thesierragroup.com/), [Tamman, Inc.,](https://tammaninc.com/) and the [Mid-Atlantic ADA Center](https://www.adainfo.org/). For more information, visit the [Board's news release](https://www.access-board.gov/news/2022/08/08/u-s-access-board-to-hold-september-town-hall-meeting-and-trainings-in-philadelphia/).
+
+> ***Town Hall Meeting: The State of Accessibility in Philadelphia*** \
+> September 14, 2022, 1:30 – 3:30 p.m., followed by networking reception 3:45 – 5:00 p.m. \
+> Liberty Resources, Inc. \
+> 112 N. 8th St. \
+> Philadelphia, PA 19107 
+> [U.S. Access Board Events in Philadelphia registration form](https://web.cvent.com/event/7ebeeb80-e968-4510-9bb8-ad1ab901d129/regProcessStep1?RefId=pub&rp=81a1a9d5-f1fa-4b08-b171-8fab1c2d8b14) (the town hall meeting is the eighth option on the second page of the form) \
+> Contact: [events@access-board.gov](mailto:events@access-board.gov) 
 
 
 ## Future Board Meetings
