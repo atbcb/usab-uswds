@@ -279,6 +279,7 @@ In addition, directions to accessible means of egress required by the Internatio
 <figure class="img-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
 			 alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille."
+			 class="img-grid"
 			 />
 	<figcaption>
 		Area of refuge signs can be incorporated into required exit signs.
@@ -292,7 +293,7 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 <figure class="img-grid">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
-			 style="img-left" />
+			 class="img-left" />
 	<p class="usa-sr-only">
 		Begin image notes. <br />
 		In the event of an emergency, push the help button for evacuation assistance. <br />
@@ -1150,14 +1151,16 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
       <th scope="col">Sign</th>
       <th scope="col">Tactile (§703.2 – 703.4)</th>
       <th scope="col">Visual (§703.5)</th>
-      <td>Pictogram §703.6</th>
+      <th scope="col">Pictogram §703.6</th>
       <th scope="col">Symbols of <br />
         Accessibility §703.7</th>
     </tr>
   </thead>
   <tfoot>
     <tr>
-      <td colspan="5">* if tactile and visual characters provided separately, visual characters must fully meet 703.5</td>
+      <td colspan="5">
+				* if tactile and visual characters provided separately, visual characters must fully meet 703.5
+			</td>
     </tr>
   </tfoot>
   <tbody>
@@ -1196,7 +1199,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
 <table id="required" class="usa-table--striped">
   <thead>
-    <tr>h
+    <tr>
       <th scope="col">Required Sign</t>
       <th scope="col">Scoping Provision</th>
       <th scope="col">Technical Provisions</th>
@@ -1204,12 +1207,16 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
   </thead>
   <tfoot>
     <tr>
-      <th colspan="3">* Required at entrances, toilet and bathing rooms, parking spaces, check-out aisles, and existing elevators (unless all are accessible) and on directional signs to accessible entrances and toilet and bathing rooms</th>
+      <td colspan="3">
+				* Required at entrances, toilet and bathing rooms, parking spaces, check-out aisles, and existing elevators (unless all are accessible) and on directional signs to accessible entrances and toilet and bathing rooms.
+			</td>
     </tr>
   </tfoot>
   <tbody>
     <tr>
-      <td>Door labels at exit stairways / passageways / discharge</td>
+      <th scope="row">
+				Door labels at exit stairways / passageways / discharge
+			</th>
       <td>§216.4.1</td>
       <td>
 				<ul>
@@ -1302,7 +1309,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
   </thead>
   <tfoot>
     <tr>
-      <th colspan="3">
+      <td colspan="3">
 				&dagger; 1/2” min. if visual characters provided on separate sign <br />
 				&Dagger; 1/16” min. measured at base of characters with non-rectangular cross sections
 			</td>
