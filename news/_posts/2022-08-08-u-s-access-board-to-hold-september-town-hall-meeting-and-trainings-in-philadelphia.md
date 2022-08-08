@@ -34,14 +34,14 @@ American Sign Language (ASL) interpreters and Communication Access Real-time Tra
 
 The Board will also provide free presentations, training, and hands-on workshops on **September 13 and 14** in Philadelphia. Access Board Accessibility Specialists, staff from U.S. Department of Education’s National Digital Access Team, and staff from the Mid-Atlantic ADA Center will cover accessibility and accessible design related to the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards, historic buildings and facilities, information and communication technology, and digital environments. Seats are limited for each session, and registration is required via the [U.S. Access Board Events in Philadelphia registration form](https://web.cvent.com/event/7ebeeb80-e968-4510-9bb8-ad1ab901d129/regProcessStep1?RefId=pub&rp=81a1a9d5-f1fa-4b08-b171-8fab1c2d8b14). Requests for reasonable accommodations must be submitted on the registration form **by August 22, 2022**. Information on the sessions is below.  
 
-## Accessibility Training in Philadelphia
-### Tuesday, September 13 \
+### Accessibility Training in Philadelphia
+#### Tuesday, September 13
 1:00 – 2:15 p.m. (ET) \
 Temple University \
 Howard Gittis Student Center \
 HGSC 200A \
 1755 N 13th St. \
-Philadelphia, PA 19122 \
+Philadelphia, PA 19122
 
 > “Architectural Design and Social Justice” 
 > Architect Karen Braitmayer will discuss the civil rights struggle for accessible design and highlight the importance of architecture in achieving true equity and inclusion throughout all segments of society. This presentation will discuss early challenges and victories of the U.S. disability rights movement as they relate to architecture; provide a high-level overview of the current landscape of accessibility laws and regulations applicable to architectural design; and teach participants how to rethink standard architectural elements and design trends to make them equitable and inclusive. Attendees can earn continuing education credits (American Institute of Architects and Landscape Architecture Continuing Education System). 
@@ -76,7 +76,7 @@ Philadelphia, PA 19122 
 > “Overview of the ADA and ABA Accessibility Standards” 
 > The Americans with Disabilities Act (ADA) of 1990 is a major civil rights law prohibiting discrimination on the basis of disability in the private and state and local government sectors. The ADA requires access to programs and services, transportation, the built environment, employment, and communication. The ADA was greatly informed by the Architectural Barriers Act (ABA), which was the first federal law to address access to the built environment. Passed by Congress in 1968, it ensures access to many federally funded facilities to this day. This presentation will provide an overview of the ADA and ABA Accessibility Standards and Guidelines, as well as allow time for questions about accessible design. Attendees can earn continuing education credits (American Institute of Architects and Landscape Architecture Continuing Education System).  
 
-### Wednesday, September 14 \ 
+#### Wednesday, September 14
 9:15 – 10:15 a.m. (ET) \
 Sierra-Tamman Collaboration, Inc. \
 399 Market St. \
