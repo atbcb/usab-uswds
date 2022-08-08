@@ -322,7 +322,7 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 #### Elevator Signs and Labels
 
 [\[§407]({{ site.baseurl }}/aba/#407)]
-![Elevator button panel with detail showing low contrast floor level sign with tactile number 2 and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/elevator_buttons-01.png){: .img-right }
+![Elevator button panel with detail showing low contrast floor level sign with tactile number 2 and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/elevator_buttons.png){: .img-right }
 
 The Standards require tactile signs (and, in some cases, symbols) at elevators, including labels for: 
 
@@ -1091,7 +1091,7 @@ spaces are assigned to specific dwelling units.
 
 #### International Symbol of TTY
 
-[\[§F216.9]({{ site.baseurl }}/aba/#F216_79], [\[§703.7.2.2]({{ site.baseurl }}/aba/#703_7_2_2)]
+[\[§F216.9]({{ site.baseurl }}/aba/#F216_9)], [\[§703.7.2.2]({{ site.baseurl }}/aba/#703_7_2_2)
 
 International Symbol of TTY
 
@@ -1106,7 +1106,7 @@ International Symbol of TTY and meet visual criteria in the Standards.
 
 #### International Symbol of Access for Hearing Loss
 
-[\[§F216.10]({{ site.baseurl }}/aba/#F216_79], [\[§703.7.2.4]({{ site.baseurl }}/aba/#703_7_2_4)]
+[\[§F216.10]({{ site.baseurl }}/aba/#F216_79), [\[§703.7.2.4]({{ site.baseurl }}/aba/#703_7_2_4)
 
 International Symbol of Access for hearing loss
 
@@ -1149,11 +1149,15 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
   <thead>
     <tr>
       <th scope="col">Sign</th>
-      <th scope="col">Tactile (§703.2 – 703.4)</th>
-      <th scope="col">Visual (§703.5)</th>
-      <th scope="col">Pictogram §703.6</th>
-      <th scope="col">Symbols of <br />
-        Accessibility §703.7</th>
+      <th scope="col">Tactile<br />
+				(§703.2–703.4)</th>
+      <th scope="col">Visual<br />
+				(§703.5)</th>
+      <th scope="col">Pictogram<br />
+				§703.6</th>
+      <th scope="col">Symbols of<br />
+        Accessibility<br />
+				§703.7</th>
     </tr>
   </thead>
   <tfoot>
@@ -1246,7 +1250,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone2.png"
 					 alt="icon: TTY"
 					 class="img-right thumbnail"
-						 />
+					 />
 			International Symbol of TTY
 		</th>
       <td>§216.9</td>
@@ -1254,7 +1258,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 				<ul>
           <li>Finish &amp; Contrast §703.7.1</li>
           <li>Referenced symbol §703.7.2.2</li>
-          <li>Any verbiage must comply with visual criteria §703.5 </li>
+          <li>Any verbiage must comply with visual criteria §703.5</li>
         </ul>
 			</td>
     </tr>
@@ -1262,7 +1266,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
       <th scope="row">
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear2.png"
 						 alt="icon: ear slash"
-						 					 class="img-right thumbnail"
+						 class="img-right thumbnail"
 						 />
 					International Symbol of Access for Hearing Loss
 			</th>
@@ -1271,7 +1275,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 				<ul>
           <li>Finish &amp; Contrast §703.7.1</li>
           <li>Referenced symbol §703.7.2.4</li>
-          <li>Any verbiage must comply with visual criteria §703.5 </li>
+          <li>Any verbiage must comply with visual criteria §703.5</li>
         </ul>
 			</td>
     </tr>
@@ -1359,7 +1363,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
     <tr>
       <th scope="row">Character Spacing</th>
       <td>10% - 35% of the character height</td>
-      <td>1/8” – 4x stroke width &Dagger; </td>
+      <td>1/8” – 4x stroke width &Dagger;</td>
     </tr>
     <tr>
       <th scope="row">Stroke Thickness</th>
@@ -1367,7 +1371,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
       <td>15% max. of “I” height</td>
     </tr>
     <tr>
-      <th scope="row">>Line Spacing</th>
+      <th scope="row">Line Spacing</th>
       <td>135% – 170% of character height</td>
       <td>135% – 170% of character height</td>
     </tr>
