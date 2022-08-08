@@ -70,7 +70,7 @@ Philadelphia, PA 19122 
 
 #### Wednesday, September 14
 9:15 – 10:15 a.m. (ET) \
-Sierra-Tamman Collaboration, Inc. \
+Sierra Group Academy-Tamman, Inc. Collaboration \
 399 Market St. \
 First Floor, Conference Room \
 Philadelphia, PA 19106 
@@ -88,7 +88,7 @@ Philadelphia, PA 19107 
 > This public training will provide an overview of the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) accessibility requirements for historic buildings and facilities. The presenters will review ADA and ABA technical requirements and exemptions, best design practices, and recommendations for making historic sites and facilities accessible. Attendees can earn continuing education credits (American Institute of Architects and Landscape Architecture Continuing Education System). 
 
 10:30 a.m. – 12:00 p.m. (ET) \
-Sierra-Tamman Collaboration, Inc. \
+Sierra Group Academy-Tamman, Inc. Collaboration \
 399 Market St. \
 First Floor, Conference Room \
 Philadelphia, PA 19106 
