@@ -448,19 +448,17 @@ The Standards specify the height and diameter of dots and their spacing within a
 		Three-eights inch min inch min between braille and raised border. <br />
 		End image notes.
 	</p>
-	<figcaption>
+	<figcaption class="clear">
 		Braille located below entire raised text and separated ⅜ inch minimum from tactile characters and any raised borders and decorative elements.
   </figcaption>
 </figure>
 
-![braille capital character, dot 6]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/capital_braille.png)
-{: .img-left }{: .thumbnail }
+![braille capital character, dot 6]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/capital_braille.png){: .img-left }{: .thumbnail }
 
 The braille capital symbol precedes each capitalized word; the symbol is repeated to indicate all caps.&nbsp;
 To ease reading, capitalization in braille is limited to the first word of sentences, proper nouns or names, individual letters, initials, and acronyms (but all raised characters must be uppercase). 
 
-![Six braille characters with dimension lines identifying size and spacing of braille dots and cells.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/11.jpg)
-{: img-grid }
+![Six braille characters with dimension lines identifying size and spacing of braille dots and cells.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/11.jpg){: .img-grid }
 
 Begin image notes. \
 Label at top:  all dot spacing measured center-to-center. \
@@ -471,13 +469,13 @@ spacing between baseline of cells in separate lines: 0.395″ – 0.4″ \
 dot diameter: 0.059″ – 0.063″ \
 Lables at bottom for blank cell space, and braille cell. \
 End image notes.
+{: .usa-sr-only }
 
 #### Pictograms
 
 [\[§703.6]({{ site.baseurl }}/aba/#703_6)] 
 
-![Men's restroom sign with pictogram with dimension lines identifying pictogram field and location of raised characters and braille.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/12.jpg)
-{: .img-right }
+![Men's restroom sign with pictogram with dimension lines identifying pictogram field and location of raised characters and braille.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/12.jpg){: .img-right }
 
 Begin image notes. \
 6″ min height of pictogram field. \
@@ -497,18 +495,18 @@ Note that these requirements apply to those pictograms that label a permanent ro
 <table class="img-center">
 	<tr>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile1.png
-					 alt="Restroom sign with pictograms of a man and woman"
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile1.png"
+					 alt="Restroom sign with pictograms of a man and woman."
 					 class="img-center" />
 		</td>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/stairway.png" alt="stairway sign with pictogram of stairs"
-					 alt="stairway sign with pictogram of stairs"
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/stairway.png"
+					 alt="Stairway sign with pictogram of stairs."
 					 class="img-center" />
 		</td>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/cafeteria.png"
-					 alt="cafeteria sign with pictogram of fork and knife"
+					 alt="Cafeteria sign with pictogram of fork and knife."
 					 class="img-center" />
 		</td>
 	</tr>
@@ -520,7 +518,7 @@ Pictograms that provide information about a room or space or that are on directi
 Note, however, that specified accessibility symbols must meet finish and contrast criteria, which is discussed in more detail below.&nbsp;
 Examples of these types of pictograms include the International Symbol of Accessibility, the International Symbol of TTY directional sign, a pictogram indicating a no cellphone use area, and the biohazard symbol.
 
-![ISA, TTY symbol and arrow, no cell phones symbol, biohazard symbol.]({{ page.image-directory }}chapter7/signs/13.png){: img-grid }
+![ISA, TTY symbol and arrow, no cell phones symbol, biohazard symbol.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/13.png){: .img-grid }
 	
 #### Installation Height and Location
 
@@ -529,8 +527,7 @@ Examples of these types of pictograms include the International Symbol of Access
 Raised characters and braille on signs must be located 48 inches minimum above the finish floor or ground surface, measured from the baseline of the lowest tactile character, and 60 inches maximum above the finish floor or ground surface, measured from the baseline of the highest tactile character.&nbsp;
 This location is convenient for tactile reading.
 
-![sign next to door with inset closeup showing minimum and maximum height of braille and raised characters]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/14.jpg)
-{: .img-grid }
+![sign next to door with inset closeup showing minimum and maximum height of braille and raised characters]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/14.jpg){: .img-grid }
 
 Begin image notes. \
 Dimensions: 48″ min height to braille baseline. \
