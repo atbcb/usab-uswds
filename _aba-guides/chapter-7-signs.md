@@ -1179,7 +1179,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
       <td />
     </tr>
     <tr>
-      <th scope="row">>Informational and directional signs</th>
+      <th scope="row">Informational and directional signs</th>
       <td />
       <td><span class="CharOverride-3"></span></td>
       <td />
@@ -1200,7 +1200,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 <table id="required" class="usa-table--striped">
   <thead>
     <tr>
-      <th scope="col">Required Sign</t>
+      <th scope="col">Required Sign</th>
       <th scope="col">Scoping Provision</th>
       <th scope="col">Technical Provisions</th>
     </tr>
