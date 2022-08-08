@@ -312,7 +312,7 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 		Large button labled with picture of telephone hand seet and quote push for HELP unquote. <br />
 		End image notes.
 	</p>
-	<figcaption>
+	<figcaption class="clear">
 		Instructions on using the area of refuge under emergency conditions must be posted under the IBC \[§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
 		These instructions must meet requirements for visual characters in the ABA Standards (§F216.4.2) but are not required to be tactile.&nbsp;
 		The IBC specifies the content for these signs.
