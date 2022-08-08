@@ -608,10 +608,6 @@ For double-leaf doors with one active leaf, the sign must be located on the inac
 If each door has an active leaf, the sign must be located to the right of the door.
 {: .clear }
 
-double leaf door with single handle on right leaf and sign on face of left leaf.
-
-double leaf door with handles on each leaf and sign on wall right of door.
-
 <figure class="img-left">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door_-_Recessed_with_clearance.png"
 			 alt="Recessed single door with enough space for sign on wall adjacent to latch side of door." />
@@ -672,12 +668,6 @@ Specifications for visual characters cover finish and contrast, case, style, cha
 		</td>
 	</tr>
 </table>
-	
-
-
-
-
-
 
 Begin image notes. \
 Upper or lowercase characters (or combination of both), conventional form (prohibited: italic, oblique, script, highly decorative or other unusual forms) \
@@ -693,21 +683,33 @@ Characters must contrast with their background with either light-on-dark or dark
 A minimum level of contrast is not specified in the Standards.&nbsp;
 The higher the contrast, the better for legibility, particularly for people with low vision. Variated or textured backgrounds can reduce contrast and compromise readability. 
 
+<figure class="img-left">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Contrast_-_good_1.png"
+			 alt="Sign with the word quote contrast unquote in light beige color against a dark brown background." />
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Contrast_-_good_2.png"
+			 alt="Sign with the word quote contrast unquote in dark brown color against a light beige background."
+			 style="clear:left" />
+<figcaption>
+		Examples of good contrast.
+	</figcaption>
+</figure>
+<figure class="img-right">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Contrast_-_bad_1.png"
+			 alt="Sign with the word quote contrast undquote in grey color against a tan background" />
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Contrast_-_bad_2.png"
+			 alt="Sign with the word quote contrast unquote in tan color against a beige background." />
+	<figcaption>
+		Examples of poor contrast.
+	</figcaption>
+</figure>
 
 
-
-caption: Examples of good contrast
-
-Sign with the word "contrast" in light beige color against a dark brown background
-Sign with the word "contrast" in dark brown color against a light beige background
-caption: Examples of poor contrast
-
-Sign with the word "contrast" in grey color against a tan background
-Sign with the word "contrast" in tan color against a beige background
 
 The stroke thickness of the uppercase letter “I” must be from 10% to 30% of the character 
-height. Characters must be selected from fonts where the width of the uppercase letter “O” is 
-55% to 110% of the height of the uppercase letter “I.”
+height.&nbsp;
+Characters must be selected from fonts where the width of the uppercase letter “O” is 55% to 110% of the height of the uppercase letter “I.”
+
+<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/18.jpg" alt="Uppercase letter &quot;I&quot; with dimension lines identifying minimum and maximum stroke thickness." />
 
 Uppercase letter "I" with dimension lines identifying minimum and maximum stroke thickness.
 min 10% of heightmax 30% of height
@@ -716,6 +718,10 @@ begin image notes \
 min stroke width 10% of character height \
 max stroke width 30% of character height \
 end image notes
+
+
+
+<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/17.jpg" alt="Overlapping uppercase &quot;o&quot; letters showing thin and wide character shapes above a sideways uppercase letter &quot;I&quot;." />
 
 Overlapping uppercase "o" letters showing thin and wide character shapes above a sideways uppercase letter "I".
 max 110% of heightmin 55% of height
@@ -729,8 +735,11 @@ end image notes
 
 #### Character Spacing
 
-Character spacing, as measured between the two closest points of adjacent characters 
-excluding word spaces, must be 10% to 35% of the character height.
+Character spacing, as measured between the two closest points of adjacent characters excluding word spaces, must be 10% to 35% of the character height.
+
+
+<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/19.jpg" alt="Uppercase letters &quot;I&quot; and &quot;O&quot; with dimension line identifying closest point between characters" />
+
 
 Uppercase letters "I" and "O" with dimension line identifying closest point between characters 10% – 35% of height
 
@@ -740,9 +749,14 @@ end image notes
 
 #### Character Height
 
-The minimum height of characters is based on their height above the finish floor and the 
-horizontal viewing distance. Horizontal viewing distance is the distance between the character 
-and an obstruction preventing further approach to the sign. 
+The minimum height of characters is based on their height above the finish floor and the horizontal viewing distance.&nbsp;
+Horizontal viewing distance is the distance between the character and an obstruction preventing further approach to the sign. 
+
+
+<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/20.jpg" alt="Side view of person behind barrier separated from wall with sign.  Dimension lines identify distance between sign and barrier and distance from finish floor to character baseline on sign." />
+
+
+
 
 Side view of person behind barrier separated from wall with sign. Dimension lines identify distance between sign and barrier and distance from finish floor to character baseline on sign.
 Height 
@@ -752,10 +766,13 @@ Horizontal Viewing Distance
 between the character and an obstruction 
 preventing further approach to the sign
 
+
+
 begin image notes \
 Horizontal Viewing Distance between the character and an obstruction preventing further approach to the sign \
 Height from finish floor/ground to character baseline (40″ min.) \
 end image notes
+
 
 <table id="ch" class="usa-table--striped">
 	<colgroup>
@@ -803,10 +820,16 @@ end image notes
   </tbody>
 </table>
 
+
+#### Headroom Clearance at Overhead Signs
+
+
+<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/21.jpg" alt="Airport terminal with signs above general circulation path.  Dimension line identifies distance from finish floor to bottom of sign." />
+
+
+
 Airport terminal with signs above general circulation path. Dimension line identifies distance from finish floor to bottom of sign.
 80″ min
-Headroom Clearance 
-at Overhead Signs
 
 Signs above circulation 
 paths must provide the 
@@ -818,10 +841,13 @@ headroom clearance
 
 [\[§307.3]({{ site.baseurl }}/aba/#307_3)] 
 
-Signs and other objects mounted on posts or pylons that have leading edges of 27 inches 
-to 80 inches high cannot protrude more than 12 inches into circulation paths. The 12-inch 
-limit also applies to the clearance between multiple posts, excluding the sloping portions of 
-handrails.
+Signs and other objects mounted on posts or pylons that have leading edges of 27 inches to 80 inches high cannot protrude more than 12 inches into circulation paths.&nbsp; 
+The 12-inch limit also applies to the clearance between multiple posts, excluding the sloping portions of handrails.
+
+
+
+<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/23.jpg" alt="sign mounted to single post with dimension lines identifying height from finish floor to bottom of sign and distance from edge of sign to post." />
+
 
 sign mounted to single post with dimension lines identifying height from finish floor to bottom of sign and distance from edge of sign to post.
 27″ – 80″
@@ -842,8 +868,18 @@ begin image notes \
 12 inch maximum between posts \
 end image notes
 
-Post-mounted signs with leading edges 27 inches maximum or above 80 inches can protrude 
-any amount from posts or pylons.
+
+<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/22.jpg" alt="sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts." />
+
+
+
+Post-mounted signs with leading edges 27 inches maximum or above 80 inches can protrude any amount from posts or pylons.
+{: .clear }
+
+
+
+<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/25.jpg" alt="low sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts." />
+
 
 low sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.
 27″ max heightany distanceany distance
@@ -863,30 +899,32 @@ any distance between posts \
 any distance from post to sign edge \
 end image notes
 
+
+<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/24.jpg" alt="high sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts." />
+
+
+
 ### Signs at Transportation Facilities
 
-[\[§810.4]({{ site.baseurl }}/aba/#810_4)], [[§810.6]({{ site.baseurl }}/aba/#810_6)] 
+[\[§810.4]({{ site.baseurl }}/aba/#810_4)], [\[§810.6]({{ site.baseurl }}/aba/#810_6)] 
 
-The requirements for signs apply fully to all types of transportation facilities subject to the 
-Standards. The Standards also include some exceptions or requirements specific to signs at 
-bus stops and rail stations.
+The requirements for signs apply fully to all types of transportation facilities subject to the Standards.&nbsp;
+The Standards also include some exceptions or requirements specific to signs at bus stops and rail stations.
 
 #### Bus Route Signs
 
-[\[§810.4]({{ site.baseurl }}/aba/#810_4)] 
+[\[§810.4]({{ site.baseurl }}/aba/#810_4)] ![Sign post: metrobus, G6 G8 G10 T60]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/26.png){: .img-right }{: .thumbnail }
 
-bus route sign
-
-Signs that identify bus routes must comply with requirements for visual 
-characters (§703.5), except those for the minimum location height (40 inches) 
-and line spacing. Additionally, because the size of these signs is often limited, 
-compliance with the minimum character height is required to the maximum 
-extent feasible. Signs providing bus schedules, timetables, or maps are exempt 
-from the sign requirements.
+Signs that identify bus routes must comply with requirements for visual characters (§703.5), except those for the minimum location height (40 inches) and line spacing.&nbsp;
+Additionally, because the size of these signs is often limited, compliance with the minimum character height is required to the maximum 
+extent feasible.&nbsp;
+Signs providing bus schedules, timetables, or maps are exempt from the sign requirements.
 
 #### Rail Station Signs
 
 [\[§810.6]({{ site.baseurl }}/aba/#810_6)]
+
+![train icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/29.jpg){: .img-right }{: .thumbnail }
 
 ##### Entrances
 
@@ -925,12 +963,14 @@ area signs (§810.6).
 
 [\[§F216.12]({{ site.baseurl }}/aba/#F216_12)]
 
-Bumper Cars attraction with ramp and stairs leading to boarding area. Signs indicate direction of accessible route and need to transfer from wheelchair.
+![Bumper Cars attraction with ramp and stairs leading to boarding area. Signs indicate direction of accessible route and need to transfer from wheelchair.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/bumpercars.png)
+
 The Standards address access to amusement 
 rides and include requirements for signs. Some 
 amusement rides may accommodate wheeled 
 mobility aids while others require transfer to a 
-seat. The Standards require signs at entries 
+seat.
+The Standards require signs at entries 
 to queues and waiting lines to identify the type 
 of access provided by a ride. Signs indicating 
 the location of the accessible load and unload 
@@ -941,8 +981,13 @@ waiting lines.
 
 [\[§F216.13]({{ site.baseurl }}/aba/#F216_13)]
 
-Trailhead sign with trail name, length, elevation change, grade, cross slope, tread width, and surface type
-Rim Ridge TrailRIM RIDGE TRAILLengthElevation GainElevation Loss15.3 mi (24.6 km)
+![Trailhead sign with trail name, length, elevation change, grade, cross slope, tread width, and surface type]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/rim_ridge_trail.png){: img-grid-right }
+
+Begin image notes.
+RIM RIDGE TRAIL
+Length
+Elevation Gain
+Elevation Loss15.3 mi (24.6 km)
 1420 (433m)
 3166 (965m)
 60 in (76 cm)
@@ -951,7 +996,11 @@ TREAD WIDTHTypical WidthMinimum WidthCompacted StoneSURFACESurface Type2%
 5%
 CROSS SLOPETypical Cross SlopeMaximum Cross Slope4.7%
 11%
-GRADETypical GradeMaximum Grade
+GRADE
+Typical Grade
+Maximum Grade
+End image notes.
+
 The ABA Standards include requirements for outdoor 
 developed areas on federal lands, including trails, camp sites, 
 and picnic areas. This requirement applies to new trailhead 
