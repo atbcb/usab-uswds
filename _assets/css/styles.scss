@@ -367,17 +367,23 @@ dt {
   border: thin inset;
 }
 .img-grid {
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  display: block;
 }
 .img-grid-left {
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 40%;
-  display: block;
   padding-top: 20px;
+}
+.img-grid-right {
+  display: block;
+	float: right;
+  margin: 1rem 0rem 1rem 2rem;
+  max-width: 33%;
 }
 .grid-line {
   display: block;
