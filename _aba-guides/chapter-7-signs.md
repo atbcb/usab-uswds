@@ -535,64 +535,93 @@ Dimensions: 48″ min height to braille baseline. \
 End image notes.
 {: .usa-sr-only }
 
-A clear floor space 18 inches minimum by 18 inches minimum must be centered on the tactile 
-characters. This placement of the clear floor space provides unobstructed standing space 
-at the sign for reading by touch. This space must be free of any protrusions to a height of 
-80 inches. For safety, the space must be located beyond the arc of any door swing to a 
-45° open position. This effectively sets a minimum, but not an absolute, distance of tactile 
-signs from out-swinging doors. While the clear floor space must be centered on the tactile 
-characters, signs can be located varying distances beyond the door swing.
+A clear floor space 18 inches minimum by 18 inches minimum must be centered on the tactile characters.&nbsp;
+This placement of the clear floor space provides unobstructed standing space at the sign for reading by touch. This space must be free of any protrusions to a height of 80 inches.&bnsp;
+For safety, the space must be located beyond the arc of any door swing to a 45° open position.&nbsp;
+This effectively sets a minimum, but not an absolute, distance of tactile signs from out-swinging doors.&nbsp;
+While the clear floor space must be centered on the tactile characters, signs can be located varying distances beyond the door swing.
 
-door with adjacent sign and square on ground next to door frame centered to the sign
-CL
-caption: 18″ x 18″ clear floor space 
-centered on tactile characters
-
-woman standing in square on ground tactilely reading sign beyond swing of door open 45 degrees
-45° min
-caption: This clear floor space must be beyond the swing of any 
-door from a closed position to a 45° open position.
+<figure class="img-left">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/16.jpg"
+			 alt="Door with adjacent sign and square on ground next to door frame centered to the sign." />
+	<figcaption>
+		18″ x 18″ clear floor space centered on tactile characters
+	</figcaption>
+</figure>
+<figure class="img-right">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/15.jpg"
+			 alt="Woman standing in square on ground tactilely reading sign beyond swing of door open 45 degrees." />
+	<figcaption>
+		This clear floor space must be beyond the swing of any door from a closed position to a 45° open position.
+	</figcaption>
+</figure>
 
 #### Location at Doors
 
-At single doors, tactile signs must be located alongside the door on the latch side. They are 
-permitted on the push side of doors equipped with closers that do not have devices to keep 
-them open.
+At single doors, tactile signs must be located alongside the door on the latch side.&nbsp;
+They are permitted on the push side of doors equipped with closers that do not have devices to keep them open.
 
-sign on wall adjacent to latch side of single door.
-caption: Sign on latch side of single door 
-
-sign on face of single door with closer and push-plate
-caption: Sign on push side of a door 
-with a closer
+<figure class="img-left">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door_-_Standard.png"
+			 alt="Sign on wall adjacent to latch side of single door." />
+	<figcaption>
+		Sign on latch side of single door.
+	</figcaption>
+</figure>
+<figure class="img-right">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door_-_Push_Side_closer_latch.png"
+			 alt="sign on face of single door with closer and push-plate" />
+	<figcaption>
+		Sign on push side of a door with a closer.
+	</figcaption>
+</figure>
 
 If there is no wall space on the latch side, signs must be located on the nearest adjacent wall.
+{: .clear }
 
-Recessed single door with enough space for sign on wall adjacent to latch side of door
-caption: Recessed door with space for 
-latch side placement
+<figure class="img-left">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door_-_Recessed_with_clearance.png"
+			 alt="Recessed single door with enough space for sign on wall adjacent to latch side of door." />
+	<figcaption>
+		Recessed door with space for latch side placement.
+	</figcaption>
+</figure>
+<figure class="img-right">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door_-_Recessed_no_clearance.png"
+			 alt="Recessed single door without enough latch side clearance for sign.  Sign is located on adjacent parallel wall." />
+	<figcaption>
+		Recessed door with sign on adjacent wall.
+	</figcaption>
+</figure>
 
-Recessed single door without enough latch side clearance for sign. Sign is located on adjacent parallel wall.
-caption: Recessed door with sign on 
-adjacent wall
-
-For double-leaf doors with one active leaf, the sign must be located on the inactive leaf. If each 
-door has an active leaf, the sign must be located to the right of the door. 
+For double-leaf doors with one active leaf, the sign must be located on the inactive leaf.&nbsp;
+If each door has an active leaf, the sign must be located to the right of the door.
+{: .clear }
 
 double leaf door with single handle on right leaf and sign on face of left leaf.
-caption: Sign on inactive leaf at double-
-door entry
 
 double leaf door with handles on each leaf and sign on wall right of door.
-caption: Sign at right-side hinge side of double-
-door entry with two active leaves 
+
+<figure class="img-left">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door_-_Recessed_with_clearance.png"
+			 alt="Recessed single door with enough space for sign on wall adjacent to latch side of door." />
+	<figcaption>
+		Sign on inactive leaf at double-door entry.
+	</figcaption>
+</figure>
+<figure class="img-right">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Double_Door.png"
+			 alt="double leaf door with handles on each leaf and sign on wall right of door." />
+	<figcaption>
+		Sign at right-side hinge side of double-door entry with two active leaves.
+	</figcaption>
+</figure>
 
 ### Technical Requirements for Characters
 
 [\[§703.5]({{ site.baseurl }}/aba/#703_5)] 
 
-Specifications for visual characters cover finish and contrast, case, style, character proportion 
-and height, stroke thickness, and line and character spacing. 
+Specifications for visual characters cover finish and contrast, case, style, character proportion and height, stroke thickness, and line and character spacing. 
 
 "Visitors must sign in" sign with only visual characters
 Upper or lowercase characters (or combination of both), conventional form 
@@ -607,18 +636,25 @@ distance)
 Non-glare finishLight-on-dark or dark-on-light contrast between 
 characters and the background
 
-begin image notes \
-Upper or lowercase characters (or combination of both), conventional form (prohibited: italic, oblique, script, highly decorative or other unusual forms) \
-Line spacing: 135% – 170% of character height \
-Characters 40" min. above finish floor or ground \
-Character height (based on viewing distance) \
-Non-glare finish \
-Light-on-dark or dark-on-light contrast between characters and the background \
 
-Characters must contrast with their background with either light-on-dark or dark-on-light and 
-have a non-glare finish. A minimum level of contrast is not specified in the Standards. The 
-higher the contrast, the better for legibility, particularly for people with low vision. Variated or 
-textured backgrounds can reduce contrast and compromise readability. 
+
+Begin image notes. \
+Upper or lowercase characters (or combination of both), conventional form (prohibited: italic, oblique, script, highly decorative or other unusual forms) \
+Line spacing: 135% – 170% of character height. \
+Characters 40" min. above finish floor or ground. \
+Character height (based on viewing distance). \
+Non-glare finish. \
+Light-on-dark or dark-on-light contrast between characters and the background. \
+End image notes.
+{: .usa-sr-only }
+
+
+Characters must contrast with their background with either light-on-dark or dark-on-light and have a non-glare finish.&nsp;
+A minimum level of contrast is not specified in the Standards.&nbsp;
+The higher the contrast, the better for legibility, particularly for people with low vision. Variated or textured backgrounds can reduce contrast and compromise readability. 
+
+
+
 
 caption: Examples of good contrast
 
