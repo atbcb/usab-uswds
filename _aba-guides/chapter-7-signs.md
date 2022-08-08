@@ -102,7 +102,7 @@ not have to be tactile but must meet visual requirements (§F216.2, Ex. 1).
 		</td>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png"
-					 alt="room name sign quote GRAND BALLROOM unquoe, in raised characters and braille" />
+					 alt="room name sign quote GRAND BALLROOM unquote, in raised characters and braille" />
 		</td>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with female | male pictogram and quote RESTROOM unquote, in raised characters and braille" />
@@ -284,8 +284,7 @@ In addition, directions to accessible means of egress required by the Internatio
 
 <figure class="img-right img-thumnail">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
-			 alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille."
-			 />
+			 alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille." />
 	<figcaption>
 		Area of refuge signs can be incorporated into required exit signs.
 	</figcaption>
@@ -303,19 +302,17 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 			 alt="Emergency Phone Call Box"
 			 class="img-right" />
 	<p class="usa-sr-only">
-		Begin image notes. <br />
-		Red speaker grill with EMERGENCY PHONE in large white letters. <br />
-		Indicator lamp labled quote call connected unquote. <br />
-		Large button labled with picture of telephone hand seet and quote push for HELP unquote. <br />
-		End image notes.
-	</p>
-	<p class="usa-sr-only">
-		Begin image notes. <br />
 		In the event of an emergency, push the help button for evacuation assistance. <br />
 		Persons able to use the exit stairway do so as soon as possible, unless they are assisting others. <br />
 		Wait here for assistance. <br />
 		Calls may take several minutes. <br />
 		End image notes.
+	</p>
+	<p class="usa-sr-only">
+		Begin image notes. <br />
+		Red speaker grill with EMERGENCY PHONE in large white letters. <br />
+		Indicator lamp labled quote call connected unquote. <br />
+		Large button labled with picture of telephone hand seet and quote push for HELP unquote.
 	</p>
 	<figcaption class="clear">
 		Instructions on using the area of refuge under emergency conditions must be posted under the IBC [§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
@@ -326,8 +323,7 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 
 #### Elevator Signs and Labels
 
-[\[§407]({{ site.baseurl }}/aba/#407)]
-![Elevator button panel with detail showing low contrast floor level sign with tactile number 2 and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/elevator_buttons.png){: .img-right }
+[\[§407]({{ site.baseurl }}/aba/#407)] ![Elevator button panel with detail showing low contrast floor level sign with tactile number 2 and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/elevator_buttons.png){: .img-right }
 
 The Standards require tactile signs (and, in some cases, symbols) at elevators, including labels for: 
 
@@ -381,17 +377,17 @@ Character spacing, as measured between the two closest points of adjacent charac
 ![Top-down closeup of two rectangular raised characters]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/6.jpg)
 {: .img-grid }
 
-{: .usa-sr-only }
 Begin image notes. \
 Distance between rectangular raised characters is one-eighth inch to four times stroke width. \
 end image notes.
+{: .usa-sr-only }
 
 ![Top-down closeup of two beveled raised characters]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/7.jpg)
 {: .img-grid }
 
 begin image notes \
-Distance between top of beveled raised characters is one-eighth inch to four times stroke. \
-Distance between bottom of beveled raised characters is one-sixteenth inch to four times stroke. \
+Distance between top of beveled raised characters is one-eighth inch to four times stroke width. \
+Distance between bottom of beveled raised characters is one-sixteenth inch to four times stroke width. \
 end image notes
 {: .usa-sr-only }
 
@@ -400,6 +396,7 @@ Characters must be selected from fonts where the width of the uppercase letter �
 Raised character height must be from 1/2 inch minimum to 2 inches maximum. Where raised characters also serve as visual characters, the minimum height is 5/8 inch.
 
 ![Capital letter eye with dimension lines identifying stroke thickness and character height.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/9.jpg)
+{: .img-left }
 
 begin image notes \
 Character height dimensioned as half inch to two inches. \
@@ -408,6 +405,7 @@ end image notes
 {: .usa-sr-only }
 
 ![Overlapping capital oh letters showing thin and wide character shapes above a sideways capital letter i.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/8.jpg)
+{: img-right }
 
 begin image notes \
 max character width 110% of height \
@@ -428,12 +426,6 @@ the characters and their background must have a non-glare finish. Characters mus
 contrast with their background with either light-on-dark or dark-on-light. A minimum level of 
 color contrast is not specified, but the higher the contrast, the better, especially for people with 
 low vision. Finish and contrast requirements do not apply to braille. 
-
-Family Restroom sign with black letters on a light tan background.
-caption: Dark-on-light contrast
-
-Family Restroom sign with white characters on a black background
-caption: Light-on-dark contrast
 
 <figure class="img-left">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Family_Restroom_braille.png"
@@ -456,33 +448,33 @@ caption: Light-on-dark contrast
 
 [\[§703.3]({{ site.baseurl }}/aba/#703_3)] 
 
+The content of raised characters also must be provided in contracted or “Grade 2” braille.&nsbp;
+This type of braille uses the same characters as standard braille but also includes characters to represent common words and letter combinations.&bnsp;
+Braille is read with a light sweeping touch, and braille dots must be domed or rounded.&nbsp;
+The Standards specify the height and diameter of dots and their spacing within and between cells. 
+
+<figure class="img-grid">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Reading_Sign.png"
+			 alt="Closeup illustration of fingers touching line of braille characters.  Above the brailles are the letters s t r o o m."
+			 class="img-left" />
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/10.jpg" alt="FAMILY RESTROOM sign with dimension lines showing space between raised characters and braille, and distance between braille and the border of the sign."
+			 class="img-right" />
+	<p class="usa-sr-only">
+		begin image notes <br />
+		three-eights inch min dimensioned between text and braille \
+		three-eights inch min inch min between braille and raised border \
+		end image notes
+	</p>
+	<figcaption>
+		Braille located below entire raised text and separated ⅜ inch minimum from tactile characters and any raised borders and decorative elements.
+  </figcaption>
+</figure>
 
 
 
 
-Closeup of fingers reading braille
-The content of raised characters also must be 
-provided in contracted or “Grade 2” braille. This 
-type of braille uses the same characters as 
-standard braille but also includes characters to 
-represent common words and letter combinations. 
-Braille is read with a light sweeping touch, and 
-braille dots must be domed or rounded. The 
-Standards specify the height and diameter of dots 
-and their spacing within and between cells. 
 
-Family Restroom sign with dimension lines showing space between raised characters and braille and distance between braille and the border of the sign.
-3/8″ min 3/8″ min
-
-begin image notes
-3/8 inch min between text and braille \
-3/8 inch min between braille and raised border \
-end image notes
-
-caption: Braille located below entire raised text 
-and separated ⅜ inch minimum from 
-tactile characters and any raised 
-borders and decorative elements. 
+ 
 
 braille capital character
 
