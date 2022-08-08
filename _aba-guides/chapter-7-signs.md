@@ -280,7 +280,7 @@ At exit doors, the tactile requirements typically must be met on a separate sign
 Directional signs, including those for means of egress, required by the applicable life safety code, must comply with the visual requirements for information and directional signs (§703.5).&nbsp;
 In addition, directions to accessible means of egress required by the International Building Code(IBC) must meet visual criteria (§F216.4.3).&nbsp;
 
-<figure class="img-right thumnail">
+<figure class="img-grid-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
 			 alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille." />
 	<figcaption>
@@ -292,7 +292,7 @@ Areas of refuge are fire-resistance rated and smoke-protected areas where those 
 Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
 Signs labeling areas of refuge must be tactile since they designate a permanent space.
 
-<figure>
+<figure class="clear">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
 			 class="img-left" />
@@ -305,11 +305,23 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 		The IBC specifies the content for these signs.
   </figcaption>
 </figure>
+  <p class="usa-sr-only">
+		Begin image notes.
+		PUSH FOR HELP sign continutes:  In the event of an emergency, push the help button for evacuation assistance. <br />
+    Persons able to use the exit stairway do so as soon as possible, unless they are assisting others. <br />
+    Wait here for assistance. <br />
+    Calls may take several minutes.
+  <p class="usa-sr-only">
+    Red speaker grill with EMERGENCY PHONE in large white letters. <br />
+    Indicator lamp labled quote call connected unquote. <br />
+    Large button labled with picture of telephone hand seet and quote push for HELP unquote. <br />
+		End image notes. </p>
+</p>
 
 #### Elevator Signs and Labels
 
 [\[§407]({{ site.baseurl }}/aba/#407)]
-![Elevator button panel with detail showing low contrast floor level sign with tactile number 2 and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/elevator_buttons.png){: .img-right }
+![Elevator button panel with detail showing low contrast floor level sign with tactile number 2 and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/elevator_buttons.png){: .img-grid-right }
 
 The Standards require tactile signs (and, in some cases, symbols) at elevators, including labels for: 
 
@@ -382,7 +394,7 @@ Characters must be selected from fonts where the width of the uppercase letter �
 Raised character height must be from 1/2 inch minimum to 2 inches maximum. Where raised characters also serve as visual characters, the minimum height is 5/8 inch.
 
 ![Capital letter eye with dimension lines identifying stroke thickness and character height.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/9.jpg)
-{: .img-left }
+{: .img-grid-left }
 
 Begin image notes. \
 Character height dimensioned as half inch to two inches. \
@@ -391,7 +403,7 @@ End image notes.
 {: .usa-sr-only }
 
 ![Overlapping capital oh letters showing thin and wide character shapes above a sideways capital letter i.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/8.jpg)
-{: .img-right }
+{: .img-grid-right }
 
 Begin image notes \
 Dimention above:  max character width 110% of height. \
@@ -436,22 +448,22 @@ This type of braille uses the same characters as standard braille but also inclu
 Braille is read with a light sweeping touch, and braille dots must be domed or rounded.&nbsp;
 The Standards specify the height and diameter of dots and their spacing within and between cells. 
 
-<figure class="img-grid">
+<figure class="center">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Reading_Sign.png"
 			 alt="Closeup illustration of fingers touching line of braille characters.  Above the brailles are the letters s t r o o m."
 			 class="img-left" />
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/10.jpg" alt="FAMILY RESTROOM sign with dimension lines showing space between raised characters and braille, and distance between braille and the border of the sign."
 			 class="img-right" />
+	<figcaption class="clear">
+		Braille located below entire raised text and separated ⅜ inch minimum from tactile characters and any raised borders and decorative elements.
+  </figcaption>
+</figure>
 	<p class="usa-sr-only">
 		Begin image notes. <br />
 		Three-eights inch min dimensioned between text and braille. <br />
 		Three-eights inch min inch min between braille and raised border. <br />
 		End image notes.
 	</p>
-	<figcaption class="clear">
-		Braille located below entire raised text and separated ⅜ inch minimum from tactile characters and any raised borders and decorative elements.
-  </figcaption>
-</figure>
 
 ![braille capital character, dot 6]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/capital_braille.png){: .img-left }{: .thumbnail }
 
@@ -473,9 +485,7 @@ End image notes.
 
 #### Pictograms
 
-[\[§703.6]({{ site.baseurl }}/aba/#703_6)] 
-
-![Men's restroom sign with pictogram with dimension lines identifying pictogram field and location of raised characters and braille.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/12.jpg){: .img-right }
+[\[§703.6]({{ site.baseurl }}/aba/#703_6)] ![Men's restroom sign with pictogram with dimension lines identifying pictogram field and location of raised characters and braille.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/12.jpg){: .img-right }
 
 Begin image notes. \
 6″ min height of pictogram field. \
@@ -488,11 +498,11 @@ Where other pictograms are included on a sign to designate a permanent room or s
 text descriptors in raised and braille characters are required directly below the pictogram field.&nbsp;
 The pictogram is not required to be raised.&nbsp;
 The pictogram field must be at least 6 inches high. (This applies to the field, not the pictogram itself.)&nbsp;
-The pictograms and fields must have a non-glare finish and a light-on-dark or dark-on-light contrast. 
+The pictograms and fields must have a non-glare finish and a light-on-dark or dark-on-light contrast.
 
 Note that these requirements apply to those pictograms that label a permanent room or space, such as a restroom, cafeteria, or stairway. 
 
-<table class="img-center">
+<table class="clear img-center">
 	<tr>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile1.png"
@@ -518,7 +528,7 @@ Pictograms that provide information about a room or space or that are on directi
 Note, however, that specified accessibility symbols must meet finish and contrast criteria, which is discussed in more detail below.&nbsp;
 Examples of these types of pictograms include the International Symbol of Accessibility, the International Symbol of TTY directional sign, a pictogram indicating a no cellphone use area, and the biohazard symbol.
 
-![ISA, TTY symbol and arrow, no cell phones symbol, biohazard symbol.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/13.png){: .img-grid }
+![ISA, TTY symbol and arrow, no cell phones symbol, biohazard symbol.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/13.png){: .img-center }
 	
 #### Installation Height and Location
 
@@ -527,7 +537,7 @@ Examples of these types of pictograms include the International Symbol of Access
 Raised characters and braille on signs must be located 48 inches minimum above the finish floor or ground surface, measured from the baseline of the lowest tactile character, and 60 inches maximum above the finish floor or ground surface, measured from the baseline of the highest tactile character.&nbsp;
 This location is convenient for tactile reading.
 
-![sign next to door with inset closeup showing minimum and maximum height of braille and raised characters]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/14.jpg){: .img-grid }
+![sign next to door with inset closeup showing minimum and maximum height of braille and raised characters]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/14.jpg){: .img-center }
 
 Begin image notes. \
 Dimensions: 48″ min height to braille baseline. \
@@ -556,7 +566,7 @@ While the clear floor space must be centered on the tactile characters, signs ca
 	</figcaption>
 </figure>
 
-#### Location at Doors
+#### Location at Doors {: .clear }
 
 At single doors, tactile signs must be located alongside the door on the latch side.&nbsp;
 They are permitted on the push side of doors equipped with closers that do not have devices to keep them open.
