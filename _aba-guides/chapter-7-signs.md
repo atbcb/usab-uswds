@@ -53,18 +53,22 @@ Each type of content provided must be evaluated to determine how the content mus
 <table class="img-right">
 	<tr>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door@4x.png" alt="open doorway icon" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door@4x.png"
+					 alt="open doorway icon" />
 	</td>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit@4x.png" alt="exit sign icon" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit@4x.png"
+					 alt="exit sign icon" />
 		</td>
 	</tr>
 	<tr>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevator@4x.png" alt="elevator icon" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevator@4x.png"
+					 alt="elevator icon" />
 		</td>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Train@4x.png" alt="train icon" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Train@4x.png"
+					 alt="train icon" />
 		</td>
 	</tr>
 </table>
@@ -93,13 +97,15 @@ not have to be tactile but must meet visual requirements (§F216.2, Ex. 1).
 <table class="center">
 	<tr>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png" alt="room number sign &quot;304&quot; raised characters and braille" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png"
+					 alt="room number sign quote 304 unquote, raised characters and braille" />
 		</td>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png" alt="room name sign &quot;Grand Ballroom&quot; in raised characters and braille" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Grand_Ballroom.png"
+					 alt="room name sign quote GRAND BALLROOM unquoe, in raised characters and braille" />
 		</td>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with pictogram and &quot;restroom&quot; in raised characters and braille" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile.png" alt="restroom sign with female | male pictogram and quote RESTROOM unquote, in raised characters and braille" />
 		</td>
 	</tr>
 </table>
@@ -116,13 +122,16 @@ These requirements apply only where such signs are provided.
 <table class="img-center">
 	<tr>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevators.png" alt="Sign:  Elevators with arrow pointing right" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Elevators.png"
+					 alt="Sign: Elevators with arrow pointing right" />
 		</td>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Notice_Employees_Only.png" alt="Sign:  NOTICE: EMPLOYEES ONLY" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Notice_Employees_Only.png"
+					 alt="Sign: NOTICE: EMPLOYEES ONLY" />
 		</td>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in_-_black.png" alt="Sign:  Visitors must sign in sign" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in_-_black.png"
+					 alt="Sign: Visitors must sign in" />
 		</td>
 	</tr>
 </table>
@@ -142,17 +151,17 @@ signs that include International Symbols of:
 	<tr>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_blue.png"
-					 alt="International Symbol of Accessibility: a pictograph of a wheelchair"
+					 alt="I S A pictograph of a wheelchair"
 					 class="img-center" />
 		</td>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone.png"
-					 alt="International Symbol of TTY:  pictogram of telephone handset sitting on keyboard"
+					 alt="I S A pictogram for T T Y, a telephone handset sitting on keyboard"
 					 class="img-center" />
 		</td>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear.png"
-					 alt="International Symbol of Access for hearing loss: pictogram of an ear with a thick diagonal line from bottom left to top right "
+					 alt="I S A pictogram for assistive listening system, an ear with a thick diagonal line from bottom left to top right "
 					 class="img-center" />
 		</td>
 	</tr>
@@ -199,7 +208,7 @@ Some information on such signs may be exempt, such as occupant names.
 </figure>
 <figure class="img-grid clear">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png"
-			 alt="WESTGATE PLAZA embossed on stone monument in front of office building">
+			 alt="WESTGATE PLAZA embossed on stone monument in front of office building" />
   <figcaption>
 		Exterior signs labelling permanent rooms and spaces that are not located at a doorway do not have to be tactile but must meet visual criteria.
 	</figcaption>
@@ -273,7 +282,7 @@ code, must comply with the visual requirements for information and directional s
 In addition, directions to accessible means of egress required by the International Building Code
 (IBC) must meet visual criteria (§F216.4.3).&nbsp;
 
-<figure class="img-right img-grid">
+<figure class="img-right img-thumnail">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
 			 alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille."
 			 />
@@ -286,7 +295,7 @@ Areas of refuge are fire-resistance rated and smoke-protected areas where those 
 Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
 Signs labeling areas of refuge must be tactile since they designate a permanent space.
 
-<figure class="img-grid">
+<figure class="img-grid clear">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
 			 class="img-left" />
