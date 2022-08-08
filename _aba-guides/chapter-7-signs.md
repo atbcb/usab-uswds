@@ -161,7 +161,7 @@ signs that include International Symbols of:
 		</td>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear.png"
-					 alt="I S A pictogram for assistive listening system, an ear with a thick diagonal line from bottom left to top right "
+					 alt="I S A pictogram for assistive listening system, an ear with a thick diagonal line from bottom left to top right"
 					 class="img-center" />
 		</td>
 	</tr>
@@ -301,19 +301,6 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/communication_device-01.png"
 			 alt="Emergency Phone Call Box"
 			 class="img-right" />
-	<p class="usa-sr-only">
-		In the event of an emergency, push the help button for evacuation assistance. <br />
-		Persons able to use the exit stairway do so as soon as possible, unless they are assisting others. <br />
-		Wait here for assistance. <br />
-		Calls may take several minutes. <br />
-		End image notes.
-	</p>
-	<p class="usa-sr-only">
-		Begin image notes. <br />
-		Red speaker grill with EMERGENCY PHONE in large white letters. <br />
-		Indicator lamp labled quote call connected unquote. <br />
-		Large button labled with picture of telephone hand seet and quote push for HELP unquote.
-	</p>
 	<figcaption class="clear">
 		Instructions on using the area of refuge under emergency conditions must be posted under the IBC [§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
 		These instructions must meet requirements for visual characters in the ABA Standards (§F216.4.2) but are not required to be tactile.&nbsp;
@@ -420,11 +407,10 @@ Recommendation: Where visual and tactile access is provided on the same sign, pr
 
 [\[§703.5.1]({{ site.baseurl }}/aba/#703_5_1)] 
 
-When a single set of characters is used to meet requirements for raised and visual characters, 
-the characters and their background must have a non-glare finish. Characters must 
-contrast with their background with either light-on-dark or dark-on-light. A minimum level of 
-color contrast is not specified, but the higher the contrast, the better, especially for people with 
-low vision. Finish and contrast requirements do not apply to braille. 
+When a single set of characters is used to meet requirements for raised and visual characters, the characters and their background must have a non-glare finish.&nbsp;
+Characters must contrast with their background with either light-on-dark or dark-on-light.&nbsp;
+A minimum level of color contrast is not specified, but the higher the contrast, the better, especially for people with low vision.&nsbp;
+Finish and contrast requirements do not apply to braille. 
 
 <figure class="img-left">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Family_Restroom_braille.png"
@@ -500,6 +486,10 @@ End image notes.
 
 [\[§703.6]({{ site.baseurl }}/aba/#703_6)] 
 
+
+
+
+
 men's restroom sign with pictogram with dimension lines identifying pictogram field and location of raised characters and braille.
 6″ minnot in 
 pictogram 
@@ -510,49 +500,50 @@ begin image notes \
 raised characters and braille not in pictogram field \
 end image notes
 
-The Standards do not mandate the provision of pictograms 
-other than the symbols of accessibility, which are 
-informational pictograms. Where other pictograms are 
-included on a sign to designate a permanent room or space, 
-text descriptors in raised and braille characters are required 
-directly below the pictogram field. The pictogram is not 
-required to be raised. The pictogram field must be at least 
-6 inches high. (This applies to the field, not the pictogram 
-itself.) The pictograms and fields must have a non-glare 
-finish and a light-on-dark or dark-on-light contrast. 
+The Standards do not mandate the provision of pictograms other than the symbols of accessibility, which are informational pictograms.&nbsp;
+Where other pictograms are included on a sign to designate a permanent room or space, 
+text descriptors in raised and braille characters are required directly below the pictogram field.&nbsp;
+The pictogram is not required to be raised.&nbsp;
+The pictogram field must be at least 6 inches high. (This applies to the field, not the pictogram itself.)&nbsp;
+The pictograms and fields must have a non-glare finish and a light-on-dark or dark-on-light contrast. 
 
-Note that these requirements apply to those 
-pictograms that label a permanent room or space, such 
-as a restroom, cafeteria, or stairway. 
+Note that these requirements apply to those pictograms that label a permanent room or space, such as a restroom, cafeteria, or stairway. 
 
-Restroom sign with pictograms of a man and woman
-
-stairway sign with pictogram of stairs
-
-cafeteria sign with pictogram of fork and knife
+<table class="img-center">
+	<tr>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile1.png
+					 alt="Restroom sign with pictograms of a man and woman"
+					 class="img-center" />
+		</td>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/stairway.png" alt="stairway sign with pictogram of stairs"
+					 alt="stairway sign with pictogram of stairs"
+					 class="img-center" />
+		</td>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/cafeteria.png"
+					 alt="cafeteria sign with pictogram of fork and knife"
+					 class="img-center" />
+		</td>
+	</tr>
+</table>
 
 ##### Informational Pictograms
 
-Pictograms that provide information about a room or space or that are on directional signs, 
-including accessibility symbols, are not required to provide tactile text descriptors or to be 
-located on a field at least 6 inches high. Note, however, that specified accessibility symbols 
-must meet finish and contrast criteria, which is discussed in more detail below. Examples of 
-these types of pictograms include the International Symbol of Accessibility, the International 
-Symbol of TTY directional sign, a pictogram indicating a no cellphone use area, and 
-the biohazard symbol. 
+Pictograms that provide information about a room or space or that are on directional signs, including accessibility symbols, are not required to provide tactile text descriptors or to be located on a field at least 6 inches high.&nbsp;
+Note, however, that specified accessibility symbols must meet finish and contrast criteria, which is discussed in more detail below.&nbsp;
+Examples of these types of pictograms include the International Symbol of Accessibility, the International Symbol of TTY directional sign, a pictogram indicating a no cellphone use area, and the biohazard symbol.
 
-ISA
-
-TTY symbol and arrow
-
-no cell phones symbol
-
-biohazard symbol
-
+![ISA, TTY symbol and arrow, no cell phones symbol, biohazard symbol.]({{ page.image-directory }}chapter7/signs/13.png){: img-grid }
+	
 #### Installation Height and Location
 
 [\[§703.4]({{ site.baseurl }}/aba/#703_4)] 
 
+														 
+														 
+														 
 Raised characters and braille on signs must be located 48 inches minimum above the finish 
 floor or ground surface, measured from the baseline of the lowest tactile character, and 
 60 inches maximum above the finish floor or ground surface, measured from the baseline of 
