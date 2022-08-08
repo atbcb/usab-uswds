@@ -141,13 +141,19 @@ signs that include International Symbols of:
 <table class="img-center">
 	<tr>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_blue.png" alt="International Symbol of Accessibility: a pictograph of a wheelchair" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_blue.png"
+					 alt="International Symbol of Accessibility: a pictograph of a wheelchair"
+					 class="img-center" />
 		</td>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone.png" alt="International Symbol of TTY:  pictogram of telephone handset sitting on keyboard" />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone.png"
+					 alt="International Symbol of TTY:  pictogram of telephone handset sitting on keyboard"
+					 class="img-center" />
 		</td>
 		<td>
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear.png" alt="International Symbol of Access for hearing loss: pictogram of an ear with a thick diagonal line from bottom left to top right " />
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear.png"
+					 alt="International Symbol of Access for hearing loss: pictogram of an ear with a thick diagonal line from bottom left to top right "
+					 class="img-center" />
 		</td>
 	</tr>
 </table>
@@ -179,7 +185,7 @@ Some information on such signs may be exempt, such as occupant names.
 		</td>
   </tr>
 </table>
-<figure class="img-center">
+<figure class="img-grid">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/1.jpg"
 			 alt="Example door sign with lettering which is exempt, required to be visual, and required to be both visual and tactile, including braille." />
 	<p class="usa-sr-only"> begin image notes. <br />
@@ -194,7 +200,7 @@ Some information on such signs may be exempt, such as occupant names.
 <p class="clear">
 	&nbsp;
 </p>
-<figure class="img-center">
+<figure class="img-grid">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png"
 			 alt="WESTGATE PLAZA embossed on stone monument in front of office building">
   <figcaption>
@@ -228,8 +234,7 @@ At exit doors, the tactile requirements typically must be met on a separate sign
 		<td>
 			<figure>
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exit-dim.png"
-					alt="EXIT sign"
-					style="float:right" />
+					alt="EXIT sign" />
 				<p class="usa-sr-only">
 					Begin image notes. 
 					Magnified cutaway detail shows tactile sign with raised letters E X I T having low contrast. 
@@ -271,26 +276,34 @@ code, must comply with the visual requirements for information and directional s
 In addition, directions to accessible means of egress required by the International Building Code
 (IBC) must meet visual criteria (§F216.4.3).&nbsp;
 
-<figure class="img-right">
-	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
-			 alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille."
-			 class="img-large" />
-  <figcaption>
-		Area of refuge signs can be incorporated into required exit signs.
-  </figcaption>
-</figure>
-
-Areas of refuge are fire-resistance rated and smoke-protected areas where those persons who are unable to use stairs can register a call for evacuation assistance and await instructions or assistance.&nbsp; 
-Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
-Signs labeling areas of refuge must be tactile since they designate a permanent space.
-
-<figure class="clear">
+<table>
+	<tr>
+		<trd>
+			<p>
+				Areas of refuge are fire-resistance rated and smoke-protected areas where those persons who are unable to use stairs can register a call for evacuation assistance and await instructions or assistance.&nbsp;
+				Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
+				Signs labeling areas of refuge must be tactile since they designate a permanent space.
+		</td>
+	</tr>
+	<tr>
+		<trd>
+			<figure class="img-right">
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
+						 alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille." />
+				<figcaption>
+					Area of refuge signs can be incorporated into required exit signs.
+				</figcaption>
+			</figure>
+		</td>
+	</tr>
+</table>
+<figure class="img-center">
 	<table>
 		<tr>
 			<td>
   <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
-			 class="img-left" />
+			 class="img-grid" />
 	<p class="usa-sr-only">
 		Begin image notes. <br />
 		In the event of an emergency, push the help button for evacuation assistance. <br />
@@ -303,7 +316,7 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 			<td>
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/communication_device-01.png"
 			 alt="Emergency Phone Call Box"
-			 class="img-right" />
+			 class="img-grid" />
 	<p class="usa-sr-only">
 		Begin image notes. <br />
 		Red speaker grill with EMERGENCY PHONE in large white letters. <br />
@@ -372,7 +385,7 @@ Criteria for raised characters address: depth, case, style, character height and
 
 Character spacing, as measured between the two closest points of adjacent characters excluding word spaces, is specified for rectangular and non-rectangular cross sections.
 
-![Dimension line identifying closest point between two letters, the O O between R and M.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/5.jpg)
+![Dimension line identifying closest point between two letters, the O O between R and M.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/5.jpg){: .img-grid }
 
 {:.usa-sr-only}
 Begin image notes. \
@@ -1147,14 +1160,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
 #### Application of Sign Requirements
 
-<table id="application">
-  <colgroup>
-  <col class="_idGenTableRowColumn-8" />
-  <col class="_idGenTableRowColumn-9" />
-  <col class="_idGenTableRowColumn-10" />
-  <col class="_idGenTableRowColumn-11" />
-  <col class="_idGenTableRowColumn-12" />
-  </colgroup>
+<table id="application" class="usa-table--striped">
   <thead>
     <tr>
       <td>Sign</td>
@@ -1201,13 +1207,10 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
     </tr>
   </tbody>
 </table>
-<h3>Required Signs</h3>
-<table id="required">
-  <colgroup>
-  <col class="_idGenTableRowColumn-15" />
-  <col class="_idGenTableRowColumn-16" />
-  <col class="_idGenTableRowColumn-17" />
-  </colgroup>
+
+### Required Signs
+
+<table id="required" class="usa-table--striped">
   <thead>
     <tr>
       <td>Required Sign</td>
@@ -1275,12 +1278,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
 #### Requirements for Visual and Raised Characters
 
-<table id="characters">
-  <colgroup>
-  <col class="_idGenTableRowColumn-20" />
-  <col class="_idGenTableRowColumn-21" />
-  <col class="_idGenTableRowColumn-21" />
-  </colgroup>
+<table id="characters" class="usa-table--striped">
   <thead>
     <tr>
       <td />
@@ -1290,7 +1288,9 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
   </thead>
   <tfoot>
     <tr>
-      <td colspan="3">* 1/2” min. if visual characters provided on separate sign ** 1/16” min. measured at base of characters with non-rectangular cross sections</td>
+      <td colspan="3">
+				* 1/2” min. if visual characters provided on separate sign ** 1/16” min. measured at base of characters with non-rectangular cross sections
+			</td>
     </tr>
   </tfoot>
   <tbody>
@@ -1362,9 +1362,9 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
   </tbody>
 </table>
 
-### Common Questions
-
 ![question mark]({{ site.baseurl }}{{ page.image-directory }}ques.jpg){: .float-right .thumbnail}
+
+### Common Questions
 
 #### General
 
