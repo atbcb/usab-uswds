@@ -623,18 +623,49 @@ double leaf door with handles on each leaf and sign on wall right of door.
 
 Specifications for visual characters cover finish and contrast, case, style, character proportion and height, stroke thickness, and line and character spacing. 
 
-"Visitors must sign in" sign with only visual characters
-Upper or lowercase characters (or combination of both), conventional form 
-(prohibited: italic, oblique, script, highly decorative, or other unusual forms)
-Line spacing: 
-135% – 170% of 
-character heightCharacters 40" 
-min. above finish 
-floor or groundCharacter height 
-(based on viewing 
-distance)
-Non-glare finishLight-on-dark or dark-on-light contrast between 
-characters and the background
+<table class="layout">
+	<tr>
+		<td colspan="5">
+			Upper or lowercase characters (or combination of both), conventional form <br />
+			(prohibited: italic, oblique, script, highly decorative, or other unusual forms).
+		</td>
+	</tr>
+	<tr>
+		<td rowspan="2">
+			Line spacing:<br />
+			135% – 170% of<br />
+			character height.
+		</td>
+		<td rowspan="2" colspan="3">
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in-01.png" alt="Sign, visitors must sign in, with only visual characters." />
+		</td>
+		<td>
+			Characters 40&Prime;<br />
+			min. above finish<br />
+			floor or ground.
+		</td>
+	</tr>
+	<tr>
+		<td>
+			Character height<br />
+			(based on<br />
+			viewing distance).
+		</td>
+	</tr>
+	<tr>
+		<td colspan="2">
+			Non-glare finish
+		</td>
+		<td colspan="2">
+			Light-on-dark or dark-on-light contrast<br />
+			between characters and the background
+		</td>
+	</tr>
+</table>
+	
+
+
+
 
 
 
@@ -647,7 +678,6 @@ Non-glare finish. \
 Light-on-dark or dark-on-light contrast between characters and the background. \
 End image notes.
 {: .usa-sr-only }
-
 
 Characters must contrast with their background with either light-on-dark or dark-on-light and have a non-glare finish.&nsp;
 A minimum level of contrast is not specified in the Standards.&nbsp;
@@ -684,6 +714,8 @@ begin image notes \
 max character width 110% of character height \
 min character width 55% of character height \
 end image notes
+
+
 
 #### Character Spacing
 
