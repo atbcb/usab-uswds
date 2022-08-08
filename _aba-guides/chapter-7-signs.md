@@ -185,7 +185,7 @@ Some information on such signs may be exempt, such as occupant names.
 		</td>
   </tr>
 </table>
-<figure class="img-grid">
+<figure class="img-grid clear">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/1.jpg"
 			 alt="Example door sign with lettering which is exempt, required to be visual, and required to be both visual and tactile, including braille." />
 	<p class="usa-sr-only"> begin image notes. <br />
@@ -197,10 +197,7 @@ Some information on such signs may be exempt, such as occupant names.
 		This sign includes exempt and informational content in addition to a permanent room label (room number).
 	</figcaption>
 </figure>
-<p class="clear">
-	&nbsp;
-</p>
-<figure class="img-grid">
+<figure class="img-grid clear">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png"
 			 alt="WESTGATE PLAZA embossed on stone monument in front of office building">
   <figcaption>
@@ -276,10 +273,9 @@ code, must comply with the visual requirements for information and directional s
 In addition, directions to accessible means of egress required by the International Building Code
 (IBC) must meet visual criteria (§F216.4.3).&nbsp;
 
-<figure class="img-right">
+<figure class="img-right img-grid">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
 			 alt="EXIT sign with ISA symbol and quote area of refuge unquote in high contrast tactile characters with braille."
-			 class="img-grid"
 			 />
 	<figcaption>
 		Area of refuge signs can be incorporated into required exit signs.
@@ -294,14 +290,6 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
 			 class="img-left" />
-	<p class="usa-sr-only">
-		Begin image notes. <br />
-		In the event of an emergency, push the help button for evacuation assistance. <br />
-		Persons able to use the exit stairway do so as soon as possible, unless they are assisting others. <br />
-		Wait here for assistance. <br />
-		Calls may take several minutes. <br />
-		End image notes.
-	</p>
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/communication_device-01.png"
 			 alt="Emergency Phone Call Box"
 			 class="img-right" />
@@ -312,8 +300,16 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 		Large button labled with picture of telephone hand seet and quote push for HELP unquote. <br />
 		End image notes.
 	</p>
-	<figcaption class="clear">
-		Instructions on using the area of refuge under emergency conditions must be posted under the IBC \[§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
+	<p class="usa-sr-only">
+		Begin image notes. <br />
+		In the event of an emergency, push the help button for evacuation assistance. <br />
+		Persons able to use the exit stairway do so as soon as possible, unless they are assisting others. <br />
+		Wait here for assistance. <br />
+		Calls may take several minutes. <br />
+		End image notes.
+	</p>
+	<figcaption>
+		Instructions on using the area of refuge under emergency conditions must be posted under the IBC [§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
 		These instructions must meet requirements for visual characters in the ABA Standards (§F216.4.2) but are not required to be tactile.&nbsp;
 		The IBC specifies the content for these signs.
   </figcaption>
@@ -334,7 +330,7 @@ The Standards require tactile signs (and, in some cases, symbols) at elevators, 
 For signs at elevators, most of the criteria for raised and braille characters apply, but there are differences.&nbsp;
 For example, raised characters can be at least 2 inches high on hoistway floor level signs,
 and tactile content on control panels can be located outside the standard 48 inches – 60 inches mounting height.&nbsp;
-See [Elevators and Platform Lifts Guide]({{ site.baseurl }}/aba/guides/chapter-4-elevators-and-platform-lifts/)) for more information.
+See [Elevators and Platform Lifts Guide]({{ site.baseurl }}/aba/guides/chapter-4-elevators-and-platform-lifts/) for more information.
 
 ### Technical Requirements for Tactile Characters
 
@@ -692,6 +688,9 @@ Height from finish floor/ground to character baseline (40″ min.) \
 end image notes
 
 <table id="ch" class="usa-table--striped">
+	<colgroup>
+		<col span="3" style="text-align:center">
+	</colgroup>
   <thead>
     <tr>
       <th scope="col"> Height </th>
@@ -1146,6 +1145,12 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 #### Application of Sign Requirements
 
 <table id="application" class="usa-table--striped">
+	<caption>
+		Application of Sign Requirements
+	</caption>
+	<colgroup>
+		<col span="4" style="text-align:center">
+	</colgroup>
   <thead>
     <tr>
       <th scope="col">Sign</th>
@@ -1170,22 +1175,26 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
   <tbody>
     <tr>
       <th scope="row">Permanent room or space designations</th>
-      <td><span class="CharOverride-3"></span></td>
-      <td><span class="CharOverride-3"></span> (703.5.1)*</td>
-      <td><span class="CharOverride-3"></span> (if provided)</td>
+      <td>&check;</td>
+      <td>&check;<br />
+				(703.5.1)*</td>
+      <td>&check;<br />
+				(if provided)</td>
       <td />
     </tr>
     <tr>
       <th scope="row">Doors at exit stairways / passageways / discharge</th>
-      <td><span class="CharOverride-3"></span></td>
-      <td><span class="CharOverride-3"></span> (703.5.1)*</td>
-      <td><span class="CharOverride-3"></span> (if provided)</td>
+      <td>&check;</td>
+      <td>&check;<br />
+				(703.5.1)*</td>
+      <td>&check;<br />
+				(if provided)</td>
       <td />
     </tr>
     <tr>
       <th scope="row">Informational and directional signs</th>
       <td />
-      <td><span class="CharOverride-3"></span></td>
+      <td>&check;</td>
       <td />
       <td />
     </tr>
@@ -1194,7 +1203,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
       <td />
       <td />
       <td />
-      <td><span class="CharOverride-3"></span></td>
+      <td>&check;</td>
     </tr>
   </tbody>
 </table>
@@ -1202,6 +1211,11 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 ### Required Signs
 
 <table id="required" class="usa-table--striped">
+	<colgroup>
+		<col style="text-align:left">
+		<col style="text-align:center">
+		<col style="text-align:left">
+	</colgroup>
   <thead>
     <tr>
       <th scope="col">Required Sign</th>
