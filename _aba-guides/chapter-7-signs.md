@@ -292,7 +292,7 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 <figure class="img-grid">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
-			 style="float:left" />
+			 style="img-left" />
 	<p class="usa-sr-only">
 		Begin image notes. <br />
 		In the event of an emergency, push the help button for evacuation assistance. <br />
@@ -303,7 +303,7 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 	</p>
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/communication_device-01.png"
 			 alt="Emergency Phone Call Box"
-			 class="float:right" />
+			 class="img-right" />
 	<p class="usa-sr-only">
 		Begin image notes. <br />
 		Red speaker grill with EMERGENCY PHONE in large white letters. <br />
@@ -1147,12 +1147,12 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 <table id="application" class="usa-table--striped">
   <thead>
     <tr>
-      <td>Sign</td>
-      <td>Tactile (§703.2 – 703.4)</td>
-      <td>Visual (§703.5)</td>
-      <td>Pictogram §703.6</td>
-      <td>Symbols of <br />
-        Accessibility §703.7</td>
+      <th scope="col">Sign</th>
+      <th scope="col">Tactile (§703.2 – 703.4)</th>
+      <th scope="col">Visual (§703.5)</th>
+      <td>Pictogram §703.6</th>
+      <th scope="col">Symbols of <br />
+        Accessibility §703.7</th>
     </tr>
   </thead>
   <tfoot>
@@ -1162,28 +1162,28 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
   </tfoot>
   <tbody>
     <tr>
-      <td>Permanent room or space designations</td>
+      <th scope="row">Permanent room or space designations</th>
       <td><span class="CharOverride-3"></span></td>
       <td><span class="CharOverride-3"></span> (703.5.1)*</td>
       <td><span class="CharOverride-3"></span> (if provided)</td>
       <td />
     </tr>
     <tr>
-      <td>Doors at exit stairways/ passageways/ discharge</td>
+      <th scope="row">Doors at exit stairways / passageways / discharge</th>
       <td><span class="CharOverride-3"></span></td>
       <td><span class="CharOverride-3"></span> (703.5.1)*</td>
       <td><span class="CharOverride-3"></span> (if provided)</td>
       <td />
     </tr>
     <tr>
-      <td>Informational and directional signs</td>
+      <th scope="row">>Informational and directional signs</th>
       <td />
       <td><span class="CharOverride-3"></span></td>
       <td />
       <td />
     </tr>
     <tr>
-      <td>Required access symbols</td>
+      <th scope="row">Required access symbols</th>
       <td />
       <td />
       <td />
@@ -1196,66 +1196,96 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
 <table id="required" class="usa-table--striped">
   <thead>
-    <tr>
-      <td>Required Sign</td>
-      <td>Scoping Provision</td>
-      <td>Technical Provisions</td>
+    <tr>h
+      <th scope="col">Required Sign</t>
+      <th scope="col">Scoping Provision</th>
+      <th scope="col">Technical Provisions</th>
     </tr>
   </thead>
   <tfoot>
     <tr>
-      <td colspan="3">* Required at entrances, toilet and bathing rooms, parking spaces, check-out aisles, and existing elevators (unless all are accessible) and on directional signs to accessible entrances and toilet and bathing rooms</td>
+      <th colspan="3">* Required at entrances, toilet and bathing rooms, parking spaces, check-out aisles, and existing elevators (unless all are accessible) and on directional signs to accessible entrances and toilet and bathing rooms</th>
     </tr>
   </tfoot>
   <tbody>
     <tr>
-      <td>Door labels at exit stairways/ passageways/ discharge</td>
+      <td>Door labels at exit stairways / passageways / discharge</td>
       <td>§216.4.1</td>
-      <td><ul>
+      <td>
+				<ul>
           <li>Tactile §703.2 and visual §703.5 criteria (can be met on separate signs)</li>
-        </ul></td>
+        </ul>
+			</td>
     </tr>
     <tr>
-      <td>International Symbol of Accessibility* <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_black1.png" alt="ISA" /></td>
+      <th scope="row">
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_black1.png"
+						 alt="icon: wheelchair"
+						 class="img-right thumbnail"
+						 />
+				International Symbol of Accessibility
+			</th>
       <td>§216.5 – §216.8, §216.11</td>
-      <td><ul>
+      <td>
+				<ul>
           <li>Finish &amp; Contrast §703.7.1</li>
           <li>Referenced symbol §703.7.2.1</li>
           <li>Any verbiage must comply with visual criteria §703.5</li>
-        </ul></td>
+        </ul>
+			</td>
     </tr>
     <tr>
-      <td>International Symbol of TTY <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone2.png" alt="International Symbol of TTY" /></td>
+		<th scope="row">
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone2.png"
+					 alt="icon: TTY"
+					 class="img-right thumbnail"
+						 />
+			International Symbol of TTY
+		</th>
       <td>§216.9</td>
-      <td><ul>
+      <td>
+				<ul>
           <li>Finish &amp; Contrast §703.7.1</li>
           <li>Referenced symbol §703.7.2.2</li>
           <li>Any verbiage must comply with visual criteria §703.5 </li>
-        </ul></td>
+        </ul>
+			</td>
     </tr>
     <tr>
-      <td>International Symbol of Access for Hearing Loss <img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear2.png" alt="International Symbol of Access for hearing loss" /></td>
+      <th scope="row">
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear2.png"
+						 alt="icon: ear slash"
+						 					 class="img-right thumbnail"
+						 />
+					International Symbol of Access for Hearing Loss
+			</th>
       <td>§216.10</td>
-      <td><ul>
+      <td>
+				<ul>
           <li>Finish &amp; Contrast §703.7.1</li>
           <li>Referenced symbol §703.7.2.4</li>
           <li>Any verbiage must comply with visual criteria §703.5 </li>
-        </ul></td>
+        </ul>
+			</td>
     </tr>
     <tr>
-      <td>Amusement Ride Signs</td>
+      <th scope="row">Amusement Ride Signs</th>
       <td>§216.12</td>
-      <td><ul>
+      <td>
+				<ul>
           <li>Must comply with visual criteria §703.5</li>
-        </ul></td>
+        </ul>
+			</td>
     </tr>
     <tr>
-      <td>Rail Station Identification Signs</td>
+      <th scope="row">Rail Station Identification Signs</th>
       <td>§810.6.2 §810.6.3</td>
-      <td><ul>
+      <td>
+				<ul>
           <li>Tactile criteria §703.2 (sign on each platform or boarding area) </li>
           <li>Visual criteria §703.5 (clearly visible from within vehicles on both sides) </li>
-        </ul></td>
+        </ul>
+			</td>
     </tr>
   </tbody>
 </table>
@@ -1266,80 +1296,81 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
   <thead>
     <tr>
       <td />
-      <td>Visual Characters</td>
-      <td>Raised Characters</td>
+      <th scope="col">Visual Characters</th>
+      <th scope="col">Raised Characters</th>
     </tr>
   </thead>
   <tfoot>
     <tr>
-      <td colspan="3">
-				* 1/2” min. if visual characters provided on separate sign ** 1/16” min. measured at base of characters with non-rectangular cross sections
+      <th colspan="3">
+				&dagger; 1/2” min. if visual characters provided on separate sign <br />
+				&Dagger; 1/16” min. measured at base of characters with non-rectangular cross sections
 			</td>
     </tr>
   </tfoot>
   <tbody>
     <tr>
-      <td><span class="Bold">Finish</span></td>
+      <th scope="row">Finish</th>
       <td>non-glare</td>
       <td />
     </tr>
     <tr>
-      <td><span class="Bold">Contrast</span></td>
+      <th scope="row">Contrast</th>
       <td>light-on-dark or dark-on-light</td>
       <td />
     </tr>
     <tr>
-      <td><span class="Bold">Depth</span></td>
+      <th scope="row">Depth</th>
       <td>N/A</td>
       <td>1/32″ min</td>
     </tr>
     <tr>
-      <td><span class="Bold">Case</span></td>
+      <th scope="row">Case</th>
       <td>upper, lower, or both</td>
       <td>upper only</td>
     </tr>
     <tr>
-      <td><span class="Bold">Style</span></td>
+      <th scope="row">Style</th>
       <td>conventional</td>
       <td>sans serif</td>
     </tr>
     <tr>
-      <td><span class="Bold">Prohibited Forms</span></td>
+      <th scope="row">Prohibited Forms</th>
       <td>italic, oblique, script, highly decorative, or unusual</td>
       <td>italic, oblique, script, highly decorative, or unusual</td>
     </tr>
     <tr>
-      <td><span class="Bold">Character Height</span></td>
+      <th scope="row">Character Height</th>
       <td>based on height above floor and viewing distance</td>
-      <td>5/8″ – 2″ *</td>
+      <td>5/8″ – 2″ &dagger;</td>
     </tr>
     <tr>
-      <td><span class="Bold">Character Proportion</span></td>
+      <th scope="row">Character Proportion</th>
       <td>“O” 55% - 110% of “I” height</td>
       <td>“O” 55% - 110% of “I” height</td>
     </tr>
     <tr>
-      <td><span class="Bold">Character Spacing</span></td>
+      <th scope="row">Character Spacing</th>
       <td>10% - 35% of the character height</td>
-      <td>1/8” – 4x stroke width** </td>
+      <td>1/8” – 4x stroke width &Dagger; </td>
     </tr>
     <tr>
-      <td><span class="Bold">Stroke Thickness</span></td>
+      <th scope="row">Stroke Thickness</th>
       <td>10% - 30% of “I” height</td>
       <td>15% max. of “I” height</td>
     </tr>
     <tr>
-      <td><span class="Bold">Line Spacing</span></td>
+      <th scope="row">>Line Spacing</th>
       <td>135% – 170% of character height</td>
       <td>135% – 170% of character height</td>
     </tr>
     <tr>
-      <td><span class="Bold">Height above finish floor or ground</span></td>
+      <th scope="row">Height above finish floor or ground</th>
       <td>40″ min.</td>
       <td>48″ – 60″</td>
     </tr>
     <tr>
-      <td><span class="Bold">Accompanied by Grade II Braille</span></td>
+      <th scope="row">Accompanied by Grade II Braille</th>
       <td>N/A</td>
       <td>Yes</td>
     </tr>
