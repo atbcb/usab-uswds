@@ -323,7 +323,8 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 
 #### Elevator Signs and Labels
 
-[\[§407]({{ site.baseurl }}/aba/#407)] ![Elevator button panel with detail showing low contrast floor level sign with tactile number 2 and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/elevator_buttons.png){: .img-right }
+[\[§407]({{ site.baseurl }}/aba/#407)]
+![Elevator button panel with detail showing low contrast floor level sign with tactile number 2 and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/elevator_buttons.png){: .img-right }
 
 The Standards require tactile signs (and, in some cases, symbols) at elevators, including labels for: 
 
@@ -379,16 +380,16 @@ Character spacing, as measured between the two closest points of adjacent charac
 
 Begin image notes. \
 Distance between rectangular raised characters is one-eighth inch to four times stroke width. \
-end image notes.
+End image notes.
 {: .usa-sr-only }
 
 ![Top-down closeup of two beveled raised characters]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/7.jpg)
 {: .img-grid }
 
-begin image notes \
+Begin image notes. \
 Distance between top of beveled raised characters is one-eighth inch to four times stroke width. \
 Distance between bottom of beveled raised characters is one-sixteenth inch to four times stroke width. \
-end image notes
+End image notes.
 {: .usa-sr-only }
 
 The stroke thickness of the uppercase letter “I” must be 15% maximum of the character height.&nbsp; 
@@ -398,24 +399,22 @@ Raised character height must be from 1/2 inch minimum to 2 inches maximum. Where
 ![Capital letter eye with dimension lines identifying stroke thickness and character height.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/9.jpg)
 {: .img-left }
 
-begin image notes \
+Begin image notes. \
 Character height dimensioned as half inch to two inches. \
 Character stroke width dimensioned to max 15% of height. \
-end image notes
+End image notes.
 {: .usa-sr-only }
 
 ![Overlapping capital oh letters showing thin and wide character shapes above a sideways capital letter i.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/8.jpg)
 {: img-right }
 
-begin image notes \
-max character width 110% of height \
-min character width 55% of height \
-end image notes
+Begin image notes \
+Dimention above:  max character width 110% of height. \
+Dimention below:  character width 55% of height. \
+End image notes.
 {: .usa-sr-only }
 
-Recommendation: Where visual and tactile access is provided on the same sign, 
-provide a stroke thickness no less than 10% of the height based on the uppercase 
-letter “I” so that raised characters are sufficiently legible. 
+Recommendation: Where visual and tactile access is provided on the same sign, provide a stroke thickness no less than 10% of the height based on the uppercase letter “I” so that raised characters are sufficiently legible. 
 
 #### Finish and Contrast
 
@@ -429,16 +428,14 @@ low vision. Finish and contrast requirements do not apply to braille.
 
 <figure class="img-left">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Family_Restroom_braille.png"
-			 alt="Family Restroom sign with black letters on a light tan background."
-			 />
+			 alt="FAMILY RESTROOM sign with black letters on a light tan background, braille below." />
 	<figcaption>
 		Dark-on-light contrast
 	</figcaption>
 </figure>
 <figure class="img-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Family_Restroom_braille_-_contrast-01.png"
-			 alt="Family Restroom sign with white characters on a black background"
-			 />
+			 alt="FAMILY RESTROOM sign with white characters on a black background" />
 	<figcaption>
 		Light-on-dark contrast
 	</figcaption>
@@ -460,28 +457,25 @@ The Standards specify the height and diameter of dots and their spacing within a
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/10.jpg" alt="FAMILY RESTROOM sign with dimension lines showing space between raised characters and braille, and distance between braille and the border of the sign."
 			 class="img-right" />
 	<p class="usa-sr-only">
-		begin image notes <br />
-		three-eights inch min dimensioned between text and braille \
-		three-eights inch min inch min between braille and raised border \
-		end image notes
+		Begin image notes. <br />
+		Three-eights inch min dimensioned between text and braille. <br />
+		Three-eights inch min inch min between braille and raised border. <br />
+		End image notes.
 	</p>
 	<figcaption>
 		Braille located below entire raised text and separated ⅜ inch minimum from tactile characters and any raised borders and decorative elements.
   </figcaption>
 </figure>
 
+![braille capital character, dot 6]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/capital_braille.png)
+{: .img-left }{: .thumbnail }
 
+The braille capital symbol precedes each capitalized word; the symbol is repeated to indicate all caps.&nbsp;
+To ease reading, capitalization in braille is limited to the first word of sentences, proper nouns or names, individual letters, initials, and acronyms (but all raised characters must be uppercase). 
 
+![Six braille characters with dimension lines identifying size and spacing of braille dots and cells.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/11.jpg)
+{: img-grid }
 
-
- 
-
-braille capital character
-
-The braille capital symbol precedes each capitalized word; the symbol is repeated to indicate 
-all caps. To ease reading, capitalization in braille is limited to the first word of sentences, 
-proper nouns or names, individual letters, initials, and acronyms (but all raised characters 
-must be uppercase). 
 
 braille characters with dimension lines identifying size and spacing of braille dots and cells.
 0.059″ – 0.063″
@@ -492,16 +486,15 @@ spacedot height: 0.025″ – 0.037″
 0.090″ – 0.100″0.241″ – 0.300″
 all dot spacing measured center-to-center
 
-begin image notes \
-all dot spacing measured center-to-center \
-dot spacing between adjacent cells: 0.241″ – 0.300″ \
-dot spacing within cell: 0.090″ – 0.100″ \
-dot spacing between cells in separate lines: 0.395″ – 0.4″ \
+Begin image notes. \
+Label at top:  all dot spacing measured center-to-center. \
 dot height: 0.025″ – 0.037″ \
-dot base diameter: 0.059″ – 0.063″ \
-blank cell space \
-braille cell \
-end image notes
+Dimentions lines show:  dot spacing between adjacent cells: 0.241″ – 0.300″ \
+dot spacing within cell: 0.090″ – 0.100″ \
+spacing between baseline of cells in separate lines: 0.395″ – 0.4″ \
+dot diameter: 0.059″ – 0.063″ \
+Lables at bottom for blank cell space, and braille cell. \
+End image notes.
 
 #### Pictograms
 
@@ -1135,7 +1128,7 @@ International Symbol of TTY and meet visual criteria in the Standards.
 
 [\[§F216.10]({{ site.baseurl }}/aba/#F216_79), [\[§703.7.2.4]({{ site.baseurl }}/aba/#703_7_2_4)
 
-International Symbol of Access for hearing loss
+International Symbol of Access for Hearing Loss
 
 Signs with the International Symbol of Access for Hearing Loss and 
 compliant with the visual criteria are required to indicate the availability of 
@@ -1274,8 +1267,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
       <th scope="row">
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_black1.png"
 						 alt="icon: wheelchair"
-						 class="img-right thumbnail"
-						 />
+						 class="img-right thumbnail" />
 				International Symbol of Accessibility
 			</th>
       <td>§216.5 – §216.8, §216.11</td>
@@ -1291,8 +1283,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 		<th scope="row">
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone2.png"
 					 alt="icon: TTY"
-					 class="img-right thumbnail"
-					 />
+					 class="img-right thumbnail" />
 			International Symbol of TTY
 		</th>
       <td>§216.9</td>
@@ -1308,8 +1299,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
       <th scope="row">
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear2.png"
 						 alt="icon: ear slash"
-						 class="img-right thumbnail"
-						 />
+						 class="img-right thumbnail" />
 					International Symbol of Access for Hearing Loss
 			</th>
       <td>§216.10</td>
