@@ -321,7 +321,7 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 
 #### Elevator Signs and Labels
 
-[\[§407]({{ site.baseurl }}/aba/#407)]
+[\[§407]({{ site.baseurl }}/aba/#aba-407)]
 ![Elevator button panel with detail showing low contrast floor level sign with tactile number 2 and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/elevator_buttons.png){: .img-grid-right }
 
 The Standards require tactile signs (and, in some cases, symbols) at elevators, including labels for: 
@@ -340,7 +340,7 @@ See [Elevators and Platform Lifts Guide]({{ site.baseurl }}/aba/guides/chapter-4
 
 #### Raised Characters
 
-[\[§703.2]({{ site.baseurl }}/aba/#703_2)] 
+[\[§703.2]({{ site.baseurl }}/aba/#aba-703_2)] 
 
 Criteria for raised characters address: depth, case, style, character height and proportions, stroke thickness, and line and character spacing.
 
@@ -425,7 +425,7 @@ Raised character height must be from 1/2 inch minimum to 2 inches maximum. Where
 
 #### Finish and Contrast
 
-[\[§703.5.1]({{ site.baseurl }}/aba/#703_5_1)] 
+[\[§703.5.1]({{ site.baseurl }}/aba/#aba-703_5_1)] 
 
 When a single set of characters is used to meet requirements for raised and visual characters, the characters and their background must have a non-glare finish.&nbsp;
 Characters must contrast with their background with either light-on-dark or dark-on-light.&nbsp;
@@ -449,7 +449,7 @@ Finish and contrast requirements do not apply to braille.
 
 #### Braille
 
-[\[§703.3]({{ site.baseurl }}/aba/#703_3)] 
+[\[§703.3]({{ site.baseurl }}/aba/#aba-703_3)] 
 
 The content of raised characters also must be provided in contracted or “Grade 2” braille.&nsbp;
 This type of braille uses the same characters as standard braille but also includes characters to represent common words and letter combinations.&bnsp;
@@ -493,7 +493,7 @@ End image notes.
 
 #### Pictograms
 
-[\[§703.6]({{ site.baseurl }}/aba/#703_6)] ![Men's restroom sign with pictogram with dimension lines identifying pictogram field and location of raised characters and braille.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/12.jpg){: .img-right }
+[\[§703.6]({{ site.baseurl }}/aba/#aba-703_6)] ![Men's restroom sign with pictogram with dimension lines identifying pictogram field and location of raised characters and braille.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/12.jpg){: .img-right }
 
 Begin image notes. \
 6″ min height of pictogram field. \
@@ -540,7 +540,7 @@ Examples of these types of pictograms include the International Symbol of Access
 	
 #### Installation Height and Location
 
-[\[§703.4]({{ site.baseurl }}/aba/#703_4)]
+[\[§703.4]({{ site.baseurl }}/aba/#aba-703_4)]
 														 
 Raised characters and braille on signs must be located 48 inches minimum above the finish floor or ground surface, measured from the baseline of the lowest tactile character, and 60 inches maximum above the finish floor or ground surface, measured from the baseline of the highest tactile character.&nbsp;
 This location is convenient for tactile reading.
@@ -634,7 +634,7 @@ If each door has an active leaf, the sign must be located to the right of the do
 
 ### Technical Requirements for Characters
 
-[\[§703.5]({{ site.baseurl }}/aba/#703_5)] 
+[\[§703.5]({{ site.baseurl }}/aba/#aba-703_5)] 
 
 Specifications for visual characters cover finish and contrast, case, style, character proportion and height, stroke thickness, and line and character spacing. 
 
@@ -850,7 +850,7 @@ headroom clearance
 
 ### Post-Mounted Signs
 
-[\[§307.3]({{ site.baseurl }}/aba/#307_3)] 
+[\[§307.3]({{ site.baseurl }}/aba/#aba-307_3)] 
 
 Signs and other objects mounted on posts or pylons that have leading edges of 27 inches to 80 inches high cannot protrude more than 12 inches into circulation paths.&nbsp; 
 The 12-inch limit also applies to the clearance between multiple posts, excluding the sloping portions of handrails.
@@ -917,14 +917,14 @@ end image notes
 
 ### Signs at Transportation Facilities
 
-[\[§810.4]({{ site.baseurl }}/aba/#810_4)], [\[§810.6]({{ site.baseurl }}/aba/#810_6)] 
+[\[§810.4]({{ site.baseurl }}/aba/#aba-810_4)], [\[§810.6]({{ site.baseurl }}/aba/#aba-810_6)] 
 
 The requirements for signs apply fully to all types of transportation facilities subject to the Standards.&nbsp;
 The Standards also include some exceptions or requirements specific to signs at bus stops and rail stations.
 
 #### Bus Route Signs
 
-[\[§810.4]({{ site.baseurl }}/aba/#810_4)] ![Sign post: metrobus, G6 G8 G10 T60]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/26.png){: .img-right }{: .thumbnail }
+[\[§810.4]({{ site.baseurl }}/aba/#aba-810_4)] ![Sign post: metrobus, G6 G8 G10 T60]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/26.png){: .img-right }{: .thumbnail }
 
 Signs that identify bus routes must comply with requirements for visual characters (§703.5), except those for the minimum location height (40 inches) and line spacing.&nbsp;
 Additionally, because the size of these signs is often limited, compliance with the minimum character height is required to the maximum 
@@ -933,7 +933,7 @@ Signs providing bus schedules, timetables, or maps are exempt from the sign requ
 
 #### Rail Station Signs
 
-[\[§810.6]({{ site.baseurl }}/aba/#810_6)]
+[\[§810.6]({{ site.baseurl }}/aba/#aba-810_6)]
 
 ![train icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/29.png){: .img-right }{: .thumbnail }
 
@@ -972,7 +972,7 @@ area signs (§810.6).
 
 ### Amusement Ride Signs
 
-[\[§F216.12]({{ site.baseurl }}/aba/#F216_12)]
+[\[§F216.12]({{ site.baseurl }}/aba/#aba-f216_12)]
 
 ![Bumper Cars attraction with ramp and stairs leading to boarding area. Signs indicate direction of accessible route and need to transfer from wheelchair.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/bumpercars.png)
 
@@ -990,7 +990,7 @@ waiting lines.
 
 ### Trailhead Signs
 
-[\[§F216.13]({{ site.baseurl }}/aba/#F216_13)]
+[\[§F216.13]({{ site.baseurl }}/aba/#aba-f216_13)]
 
 ![Trailhead sign with trail name, length, elevation change, grade, cross slope, tread width, and surface type]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/rim_ridge_trail.png){: img-grid-right }
 
@@ -1033,7 +1033,7 @@ ISA is not required on trail signs.
 
 ### Symbols of Accessibility
 
-[\[§703.7]({{ site.baseurl }}/aba/#F703_7)]
+[\[§703.7]({{ site.baseurl }}/aba/#aba-703_7)]
 
 Symbols required by the Standards to label accessible features and spaces must:
 
@@ -1047,7 +1047,7 @@ accessible parking signs, but can be included.
 
 #### International Symbol of Accessibility
 
-[\[§F216.5]({{ site.baseurl }}/aba/#F216_5)] &ndash; [\[§F216.8]({{ site.baseurl }}/aba/#F216_8)], [\[§F216.11]({{ site.baseurl }}/aba/#F216_11)], [\[§703.7.2.1]({{ site.baseurl }}/aba/#703_7_2_1)]
+[\[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)] &ndash; [\[§F216.8]({{ site.baseurl }}/aba/#aba-f216_8)], [\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)], [\[§703.7.2.1]({{ site.baseurl }}/aba/#aba-703_7_2_1)]
 
 White ISA on black background
 
@@ -1085,7 +1085,7 @@ Accessibility.
 
 ### Entrances
 
-[\[§F216.6]({{ site.baseurl }}/aba/#F216_6)]
+[\[§F216.6]({{ site.baseurl }}/aba/#aba-f216_6)]
 
 White ISA on blue background with arrow and words "use C street entrance"
 White ISA on blue background with arrow
@@ -1114,7 +1114,7 @@ sign located at fork in path leading to different entrances. Sign has ISA and di
 
 #### Toilet Rooms and Bathing Rooms
 
-[\[§F213.2]({{ site.baseurl }}/aba/#F213_2)], [\[§F213.2]({{ site.baseurl }}/aba/#F216_8)]
+[\[§F213.2]({{ site.baseurl }}/aba/#aba-f213_2)], [\[§F213.2]({{ site.baseurl }}/aba/#aba-f216_8)]
 
 Where all toilet rooms and bathing rooms are accessible, which is often the case in new 
 construction, designation by the ISA is not required. However, in areas where not all toilet or 
@@ -1149,7 +1149,7 @@ contrast criteria, and have tactile text descriptors below the field.
 
 #### Check-out Aisles
 
-[\[§F216.11]({{ site.baseurl }}/aba/#F216_11)]
+[\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)]
 
 grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.
 Compliant check-out aisles must be labelled by the ISA unless 
@@ -1159,14 +1159,14 @@ signs that identify check-out aisles by number, letter, or function.
 
 #### Existing Elevators
 
-[\[§F216.7]({{ site.baseurl }}/aba/#F216_7)]
+[\[§F216.7]({{ site.baseurl }}/aba/#aba-f216_7)]
 
 If a facility has existing elevators that do not meet the Standards, compliant elevators must be 
 labelled by the ISA.
 
 #### Parking Signs
 
-[\[§F216.5]({{ site.baseurl }}/aba/#F216_5)], [\[§502.6]({{ site.baseurl }}/aba/#502_6)]
+[\[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)], [\[§502.6]({{ site.baseurl }}/aba/#aba-502_6)]
 
 Parking sign with ISA and dimension line indicating height from finish floor to bottom of sign
 60″ minimum
@@ -1197,7 +1197,7 @@ multi-story parking garage
 
 ###### Parking Facilities
 
-[(§F216.1)]({{ site.baseurl }}/aba/#F216_1), Ex. 2)
+[(§F216.1)]({{ site.baseurl }}/aba/#aba-f216_1), Ex. 2)
 
 Parking facilities are subject only to provisions for parking 
 space signs (§F216.5) and means of egress (§F216.4). No 
@@ -1205,7 +1205,7 @@ other sign requirements apply.
 
 ###### Sites with under 5 Spaces Total
 
-[(§F216.5)]({{ site.baseurl }}/aba/#F216_5), Ex. 1)
+[(§F216.5)]({{ site.baseurl }}/aba/#aba-f216_5), Ex. 1)
 
 If a total of 4 or fewer (inaccessible and accessible) parking spaces is provided on a site, 
 the required accessible space must comply but does not have to be identified by a sign 
@@ -1213,14 +1213,14 @@ the required accessible space must comply but does not have to be identified by 
 
 ###### Residential Facilities
 
-[(§F216.5)]({{ site.baseurl }}/aba/#F216_5), Ex. 2)
+[(§F216.5)]({{ site.baseurl }}/aba/#aba-f216_5), Ex. 2)
 
 At residential facilities, identification of accessible spaces is not required where 
 spaces are assigned to specific dwelling units. 
 
 #### International Symbol of TTY
 
-[\[§F216.9]({{ site.baseurl }}/aba/#F216_9)], [\[§703.7.2.2]({{ site.baseurl }}/aba/#703_7_2_2)
+[\[§F216.9]({{ site.baseurl }}/aba/#aba-f216_9)], [\[§703.7.2.2]({{ site.baseurl }}/aba/#aba-703_7_2_2)
 
 International Symbol of TTY
 
@@ -1235,7 +1235,7 @@ International Symbol of TTY and meet visual criteria in the Standards.
 
 #### International Symbol of Access for Hearing Loss
 
-[\[§F216.10]({{ site.baseurl }}/aba/#F216_79), [\[§703.7.2.4]({{ site.baseurl }}/aba/#703_7_2_4)
+[\[§F216.10]({{ site.baseurl }}/aba/#aba-f216_10), [\[§703.7.2.4]({{ site.baseurl }}/aba/#aba-703_7_2_4)
 
 International Symbol of Access for Hearing Loss
 
