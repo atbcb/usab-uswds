@@ -297,15 +297,6 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
 			 class="img-left" />
-	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/communication_device-01.png"
-			 alt="Emergency Phone Call Box"
-			 class="img-right" />
-	<figcaption class="clear">
-		Instructions on using the area of refuge under emergency conditions must be posted under the IBC [§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
-		These instructions must meet requirements for visual characters in the ABA Standards (§F216.4.2) but are not required to be tactile.&nbsp;
-		The IBC specifies the content for these signs.
-  </figcaption>
-</figure>
 <p class="usa-sr-only">
 		Begin image notes.
 		PUSH FOR HELP sign continutes: In the event of an emergency, push the help button for evacuation assistance.<br />
@@ -319,6 +310,15 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
     Large button labled with picture of telephone hand seet and quote push for HELP unquote.<br />
 		End image notes.
 </p>
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/communication_device-01.png"
+			 alt="Emergency Phone Call Box"
+			 class="img-right" />
+	<figcaption class="clear">
+		Instructions on using the area of refuge under emergency conditions must be posted under the IBC [§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
+		These instructions must meet requirements for visual characters in the ABA Standards (§F216.4.2) but are not required to be tactile.&nbsp;
+		The IBC specifies the content for these signs.
+  </figcaption>
+</figure>
 
 #### Elevator Signs and Labels
 
@@ -372,7 +372,7 @@ Criteria for raised characters address: depth, case, style, character height and
 Character spacing, as measured between the two closest points of adjacent characters excluding word spaces, is specified for rectangular and non-rectangular cross sections.
 
 ![Dimension line identifying closest point between two letters, the O O between R and M.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/5.jpg)
-{: .img-grid }
+{: .img-large }
 
 ![Top-down closeup of two rectangular raised characters]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/6.jpg)
 {: .img-grid }
@@ -409,7 +409,7 @@ Raised character height must be from 1/2 inch minimum to 2 inches maximum. Where
 		</td>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/8.jpg"
-					 alt="Overlapping capital O letters showing thin and wide character shapes above a sideways capital letter I."
+					 alt="Overlapping capital O letters showing thin and wide character shapes above a sideways capital letter I." />
 			<p class="usa-sr-only">
 				Begin image notes.<br />
 				Dimention above: max character width 110% of height.<br />
@@ -574,7 +574,7 @@ While the clear floor space must be centered on the tactile characters, signs ca
 		This clear floor space must be beyond the swing of any door from a closed position to a 45° open position.
 	</figcaption>
 </figure>
-<p class="clear"> &nbsp; </p>
+<br class="clear" />
 
 #### Location at Doors
 
@@ -641,43 +641,37 @@ Specifications for visual characters cover finish and contrast, case, style, cha
 
 <table class="layout">
 	<tr>
-		<td />
 		<td colspan="5">
 			Upper or lowercase characters (or combination of both), conventional form<br />
 			(prohibited: italic, oblique, script, highly decorative, or other unusual forms).
 		</td>
-		<td />
 	</tr>
 	<tr>
-		<td rowspan="4" colspan="2">
+		<td rowspan="3">
 			Line spacing:<br />
 			135% – 170% of<br />
 			character height.
 		</td>
-		<td rowspan="4" colspan="3">
+		<td rowspan="3" colspan="3">
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in-01.png" alt="Sign, visitors must sign in, with only visual characters." />
 		</td>
-		<td colspan="2">
+		<td>
 			Characters 40&Prime;<br />
 			min. above finish<br />
 			floor or ground.
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2" />
+		<td />
 	</tr>
 	<tr>
-		<td colspan="2">
+		<td>
 			Character height<br />
 			(based on<br />
 			viewing distance).
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2" />
-	</tr>
-	<tr>
-		<td />
 		<td colspan="2">
 			Non-glare finish
 		</td>
@@ -685,7 +679,6 @@ Specifications for visual characters cover finish and contrast, case, style, cha
 			Light-on-dark or dark-on-light contrast<br />
 			between characters and the background
 		</td>
-		<td />
 	</tr>
 </table>
 
@@ -725,76 +718,58 @@ The higher the contrast, the better for legibility, particularly for people with
 	</figcaption>
 </figure>
 
-
-
 The stroke thickness of the uppercase letter “I” must be from 10% to 30% of the character 
 height.&nbsp;
 Characters must be selected from fonts where the width of the uppercase letter “O” is 55% to 110% of the height of the uppercase letter “I.”
 
-<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/18.jpg" alt="Uppercase letter &quot;I&quot; with dimension lines identifying minimum and maximum stroke thickness." />
-
-Uppercase letter "I" with dimension lines identifying minimum and maximum stroke thickness.
-min 10% of heightmax 30% of height
-
-begin image notes \
-min stroke width 10% of character height \
-max stroke width 30% of character height \
-end image notes
-
-
-
-<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/17.jpg" alt="Overlapping uppercase &quot;o&quot; letters showing thin and wide character shapes above a sideways uppercase letter &quot;I&quot;." />
-
-Overlapping uppercase "o" letters showing thin and wide character shapes above a sideways uppercase letter "I".
-max 110% of heightmin 55% of height
-
-begin image notes \
-max character width 110% of character height \
-min character width 55% of character height \
-end image notes
-
-
+<table class="img-center">
+	<tr>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/18.jpg"
+					 alt="Capital letter  I with dimension lines identifying minimum and maximum stroke thickness." />
+			<p class="usa-sr-only">
+				Begin image notes.<br />
+				min (stroke width) 10% of (character) height<br />
+				max (stroke width) 30% of (character) height<br />
+				End image notes.
+			</p>
+		</td>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/17.jpg"
+					 alt="Overlapping capital O letters showing thin and wide character shapes above a sideways capital letter I." />
+			<p class="usa-sr-only">
+				Begin image notes.<br />
+				max (character width) 110% of (character) height<br />
+				min (character width) 55% of (character) height<br />
+				End image notes.
+			</p>
+		</td>
+	</tr>
+</table>
 
 #### Character Spacing
 
 Character spacing, as measured between the two closest points of adjacent characters excluding word spaces, must be 10% to 35% of the character height.
 
+![Uppercase letters I and O with dimension line identifying closest point between characters]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/19.jpg)
+{: .img-grid }		 
 
-<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/19.jpg" alt="Uppercase letters &quot;I&quot; and &quot;O&quot; with dimension line identifying closest point between characters" />
-
-
-Uppercase letters "I" and "O" with dimension line identifying closest point between characters 10% – 35% of height
-
-begin image notes \
-Distance between characters is 10% – 35% of character height \
-end image notes
+Begin image notes. \
+Distance between characters is 10% to 35% of character height \
+End image notes.
 
 #### Character Height
 
 The minimum height of characters is based on their height above the finish floor and the horizontal viewing distance.&nbsp;
 Horizontal viewing distance is the distance between the character and an obstruction preventing further approach to the sign. 
 
+![Side view of person behind barrier separated from wall with sign. Dimension lines identify distance between sign and barrier and distance from finish floor to character baseline on sign.]("{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/20.jpg"){: .img-center }
 
-<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/20.jpg" alt="Side view of person behind barrier separated from wall with sign.  Dimension lines identify distance between sign and barrier and distance from finish floor to character baseline on sign." />
-
-
-
-
-Side view of person behind barrier separated from wall with sign. Dimension lines identify distance between sign and barrier and distance from finish floor to character baseline on sign.
-Height 
-from finish floor/ground to 
-character baseline (40″ min.)
-Horizontal Viewing Distance 
-between the character and an obstruction 
-preventing further approach to the sign
-
-
-
-begin image notes \
-Horizontal Viewing Distance between the character and an obstruction preventing further approach to the sign \
-Height from finish floor/ground to character baseline (40″ min.) \
-end image notes
-
+Begin image notes. \
+Horizontal Viewing Distance between the character and an obstruction preventing further approach to the sign. \
+Height from finish floor/ground to character baseline (40″ min.). \
+End image notes.
+{: .usa-sr-only }
 
 <table id="ch" class="usa-table--striped">
 	<colgroup>
@@ -842,89 +817,56 @@ end image notes
   </tbody>
 </table>
 
-
 #### Headroom Clearance at Overhead Signs
 
+![Airport terminal with signs above general circulation path. Dimension line identifies distance from finish floor to bottom of sign as 80″ min.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/21.jpg){: .img-grig }
 
-<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/21.jpg" alt="Airport terminal with signs above general circulation path.  Dimension line identifies distance from finish floor to bottom of sign." />
-
-
-
-Airport terminal with signs above general circulation path. Dimension line identifies distance from finish floor to bottom of sign.
-80″ min
-
-Signs above circulation 
-paths must provide the 
-required 80 inches minimum 
-headroom clearance 
-(§307.4).
+Signs above circulation paths must provide the required 80 inches minimum headroom clearance (§307.4).
 
 ### Post-Mounted Signs
 
 [\[§307.3]({{ site.baseurl }}/aba/#aba-307_3)] 
 
-Signs and other objects mounted on posts or pylons that have leading edges of 27 inches to 80 inches high cannot protrude more than 12 inches into circulation paths.&nbsp; 
+Signs and other objects mounted on posts or pylons that have leading edges of 27 inches to 80 inches high cannot protrude more than 12 inches into circulation paths.&nbsp;
 The 12-inch limit also applies to the clearance between multiple posts, excluding the sloping portions of handrails.
 
+![Sign mounted to single post with dimension lines identifying height from finish floor to bottom of sign and distance from edge of sign to post.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/23.jpg"){: .img-left }
 
+Begin image notes. \
+27 inch to 80 inch height to bottom of sign. \
+12 inch maximum from post mount to sign edge. \
+End image notes.
+{: .usa-sr-only }
 
-<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/23.jpg" alt="sign mounted to single post with dimension lines identifying height from finish floor to bottom of sign and distance from edge of sign to post." />
+![Sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/25.jpg){: .img-right }
 
-
-sign mounted to single post with dimension lines identifying height from finish floor to bottom of sign and distance from edge of sign to post.
-27″ – 80″
-12″ max
-
-begin image notes \
-27 inch – 80 inch height to bottom of sign \
-12 inch maximum from post mount to sign edge \
-end image notes
-
-sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.
-27″ – 80″
-12″ max12″ max
-
-begin image notes \
+Begin image notes. \
 27 inch – 80 inch height to bottom of sign \
 12 inch maximum from post mount to sign edge \
 12 inch maximum between posts \
-end image notes
-
-
-<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/22.jpg" alt="sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts." />
-
-
+End image notes.
+{: .usa-sr-only }
 
 Post-mounted signs with leading edges 27 inches maximum or above 80 inches can protrude any amount from posts or pylons.
 {: .clear }
 
+![Low sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/25.jpg){: .img-left }
 
-
-<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/25.jpg" alt="low sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts." />
-
-
-low sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.
-27″ max heightany distanceany distance
-
-begin image notes \
+Begin image notes. \
 27″ max height to bottom of sign \
 any distance between posts \
 any distance from post to sign edge \
-end image notes
+end image notes.
+{: .usa-sr-only }
 
-high sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.
-80″ minany distanceany distance
+![High sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/24.jpg){: .img-right }
 
-begin image notes \
+Begin image notes. \
 80″ min height to bottom of sign \
 any distance between posts \
 any distance from post to sign edge \
-end image notes
-
-
-<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/24.jpg" alt="high sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts." />
-
-
+End image notes.
+{: .usa-sr-only }
 
 ### Signs at Transportation Facilities
 
@@ -1000,6 +942,8 @@ areas must be provided at entries to queues and
 waiting lines.
 
 ### Trailhead Signs
+
+
 
 [\[§F216.13]({{ site.baseurl }}/aba/#aba-f216_13)]
 
