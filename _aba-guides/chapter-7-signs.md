@@ -55,7 +55,7 @@ Each type of content provided must be evaluated to determine how the content mus
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Door@4x.png"
 					 alt="open doorway icon" />
-	</td>
+		</td>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit@4x.png"
 					 alt="exit sign icon" />
@@ -94,7 +94,7 @@ Visual and tactile requirements apply to both interior and exterior signs labeli
 rooms and spaces. However, exterior signs not located at the door to the space they serve do 
 not have to be tactile but must meet visual requirements (§F216.2, Ex. 1). 
 
-<table class="center">
+<table class="img-center">
 	<tr>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/304.png"
@@ -174,7 +174,7 @@ In addition, they are subject to requirements for non-glare finish and color con
 Other information provided in addition to permanent room or space labels is not required to be raised or brailled but must meet visual criteria if informational or directional.&nbsp;
 Some information on such signs may be exempt, such as occupant names.
 
-<table>
+<table class="img-center">
 	<tr>
  		<td>
 			<figure>
@@ -194,7 +194,7 @@ Some information on such signs may be exempt, such as occupant names.
 		</td>
   </tr>
 </table>
-<figure class="img-grid clear">
+<figure class="img-grid">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/1.jpg"
 			 alt="Example door sign with lettering which is exempt, required to be visual, and required to be both visual and tactile, including braille." />
 	<p class="usa-sr-only"> begin image notes. <br />
@@ -206,7 +206,8 @@ Some information on such signs may be exempt, such as occupant names.
 		This sign includes exempt and informational content in addition to a permanent room label (room number).
 	</figcaption>
 </figure>
-<figure class="img-grid clear">
+<p class="clear"> &nbsp; </p>
+<figure class="img-grid">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/exterior_sign3.png"
 			 alt="WESTGATE PLAZA embossed on stone monument in front of office building" />
   <figcaption>
@@ -226,7 +227,7 @@ Exit labels at other locations are not required to be tactile but must meet visu
 Life safety and building codes address the visibility and illumination of exit signs, which can also satisfy the visual requirements in the ABA Standards.&nbsp;
 At exit doors, the tactile requirements typically must be met on a separate sign.
 
-<table>
+<table class="img-center">
 	<tr>
 		<td>
 			<figure>
@@ -256,7 +257,7 @@ At exit doors, the tactile requirements typically must be met on a separate sign
 		</td>
 	</tr>
 </table>
-<table class="img-large">
+<table class="img-center">
 	<tr>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/StairA-full.png"
@@ -292,7 +293,7 @@ Areas of refuge are fire-resistance rated and smoke-protected areas where those 
 Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
 Signs labeling areas of refuge must be tactile since they designate a permanent space.
 
-<figure class="clear">
+<figure class="img-center">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
 			 class="img-left" />
@@ -393,23 +394,30 @@ The stroke thickness of the uppercase letter “I” must be 15% maximum of the 
 Characters must be selected from fonts where the width of the uppercase letter “O” is 55% to 110% of the height of the uppercase letter “I.”&nbsp;
 Raised character height must be from 1/2 inch minimum to 2 inches maximum. Where raised characters also serve as visual characters, the minimum height is 5/8 inch.
 
-![Capital letter eye with dimension lines identifying stroke thickness and character height.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/9.jpg)
-{: .img-grid-left }
-
-Begin image notes. \
-Character height dimensioned as half inch to two inches. \
-Character stroke width dimensioned to max 15% of height. \
-End image notes.
-{: .usa-sr-only }
-
-![Overlapping capital oh letters showing thin and wide character shapes above a sideways capital letter i.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/8.jpg)
-{: .img-grid-right }
-
-Begin image notes \
-Dimention above:  max character width 110% of height. \
-Dimention below:  character width 55% of height. \
-End image notes.
-{: .usa-sr-only }
+<table class="img-center">
+	<tr>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/9.jpg"
+					 alt="Capital letter I with dimension lines identifying stroke thickness and character height." />
+			<p class="usa-sr-only">
+				Begin image notes.<br />
+				Character height dimensioned as half inch to two inches.<br />
+				Character stroke width dimensioned to max 15% of height.<br />
+				End image notes.
+			</p>
+		</td>
+		<td>
+			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/8.jpg"
+					 alt="Overlapping capital O letters showing thin and wide character shapes above a sideways capital letter I."
+			<p class="usa-sr-only">
+				Begin image notes.<br />
+				Dimention above:  max character width 110% of height.<br />
+				Dimention below:  character width 55% of height.<br />
+				End image notes.
+			</p>
+		</td>
+	</tr>
+</table>
 
 {% include recommendation.html
 	text="Where visual and tactile access is provided on the same sign, provide a stroke thickness no less than 10% of the height based on the uppercase letter “I” so that raised characters are sufficiently legible."
@@ -448,29 +456,29 @@ This type of braille uses the same characters as standard braille but also inclu
 Braille is read with a light sweeping touch, and braille dots must be domed or rounded.&nbsp;
 The Standards specify the height and diameter of dots and their spacing within and between cells. 
 
-<figure class="center">
+<figure class="img-center">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Reading_Sign.png"
 			 alt="Closeup illustration of fingers touching line of braille characters.  Above the brailles are the letters s t r o o m."
 			 class="img-left" />
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/10.jpg" alt="FAMILY RESTROOM sign with dimension lines showing space between raised characters and braille, and distance between braille and the border of the sign."
 			 class="img-right" />
+	<p class="usa-sr-only">
+		Begin image notes.<br />
+		Three-eights inch min dimensioned between text and braille.<br />
+		Three-eights inch min inch min between braille and raised border.<br />
+		End image notes.
+	</p>
 	<figcaption class="clear">
 		Braille located below entire raised text and separated ⅜ inch minimum from tactile characters and any raised borders and decorative elements.
   </figcaption>
 </figure>
-	<p class="usa-sr-only">
-		Begin image notes. <br />
-		Three-eights inch min dimensioned between text and braille. <br />
-		Three-eights inch min inch min between braille and raised border. <br />
-		End image notes.
-	</p>
 
 ![braille capital character, dot 6]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/capital_braille.png){: .img-left }{: .thumbnail }
 
 The braille capital symbol precedes each capitalized word; the symbol is repeated to indicate all caps.&nbsp;
 To ease reading, capitalization in braille is limited to the first word of sentences, proper nouns or names, individual letters, initials, and acronyms (but all raised characters must be uppercase). 
 
-![Six braille characters with dimension lines identifying size and spacing of braille dots and cells.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/11.jpg){: .img-grid }
+![Six braille characters with dimension lines identifying size and spacing of braille dots and cells.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/11.jpg){: .img-center }
 
 Begin image notes. \
 Label at top:  all dot spacing measured center-to-center. \
@@ -566,7 +574,8 @@ While the clear floor space must be centered on the tactile characters, signs ca
 	</figcaption>
 </figure>
 
-#### Location at Doors {: .clear }
+#### Location at Doors
+{: .clear }
 
 At single doors, tactile signs must be located alongside the door on the latch side.&nbsp;
 They are permitted on the push side of doors equipped with closers that do not have devices to keep them open.
@@ -632,7 +641,7 @@ Specifications for visual characters cover finish and contrast, case, style, cha
 <table class="layout">
 	<tr>
 		<td colspan="5">
-			Upper or lowercase characters (or combination of both), conventional form <br />
+			Upper or lowercase characters (or combination of both), conventional form<br />
 			(prohibited: italic, oblique, script, highly decorative, or other unusual forms).
 		</td>
 	</tr>
@@ -679,13 +688,14 @@ Light-on-dark or dark-on-light contrast between characters and the background. \
 End image notes.
 {: .usa-sr-only }
 
-Characters must contrast with their background with either light-on-dark or dark-on-light and have a non-glare finish.&nsp;
+Characters must contrast with their background with either light-on-dark or dark-on-light and have a non-glare finish.&nbsp;
 A minimum level of contrast is not specified in the Standards.&nbsp;
 The higher the contrast, the better for legibility, particularly for people with low vision. Variated or textured backgrounds can reduce contrast and compromise readability. 
 
 <figure class="img-left">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Contrast_-_good_1.png"
-			 alt="Sign with the word quote contrast unquote in light beige color against a dark brown background." />
+			 alt="Sign with the word quote contrast unquote in light beige color against a dark brown background."
+			 style="padding-bottom:1em" />
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Contrast_-_good_2.png"
 			 alt="Sign with the word quote contrast unquote in dark brown color against a light beige background."
 			 style="clear:left" />
@@ -695,7 +705,8 @@ The higher the contrast, the better for legibility, particularly for people with
 </figure>
 <figure class="img-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Contrast_-_bad_1.png"
-			 alt="Sign with the word quote contrast undquote in grey color against a tan background" />
+			 alt="Sign with the word quote contrast undquote in grey color against a tan background"
+			 style="padding-bottom:1em" />
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Contrast_-_bad_2.png"
 			 alt="Sign with the word quote contrast unquote in tan color against a beige background." />
 	<figcaption>
@@ -924,7 +935,7 @@ Signs providing bus schedules, timetables, or maps are exempt from the sign requ
 
 [\[§810.6]({{ site.baseurl }}/aba/#810_6)]
 
-![train icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/29.jpg){: .img-right }{: .thumbnail }
+![train icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/29.png){: .img-right }{: .thumbnail }
 
 ##### Entrances
 
@@ -1264,9 +1275,6 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 #### Application of Sign Requirements
 
 <table id="application" class="usa-table--striped">
-	<caption>
-		Application of Sign Requirements
-	</caption>
 	<colgroup>
 		<col span="4" style="text-align:center">
 	</colgroup>
@@ -1601,8 +1609,7 @@ must fully meet all applicable provisions for visual characters (§703.5).
 Tactile signs can be placed only on the push side of those doors that are equipped with closers 
 and do not have a hold-open device.
 
-##### What constitutes “hold-open devices” in determining whether a tactile sign can be placed on a 
-door?
+##### What constitutes “hold-open devices” in determining whether a tactile sign can be placed on a door?
 
 “Hold-open devices” pertains to devices that are fixed to doors and/or walls to keep the door 
 in an open position. Examples include door stops mounted to doors, wall-mounted hooks, 
@@ -1642,8 +1649,7 @@ and acronyms are the only items that are to be capitalized on braille signs. No 
 to be capitalized on braille signs, regardless of what may be capitalized on equivalent printed 
 signs.
 
-##### Can the 18-inch by 18-inch clear floor space required at tactile signs be offset from the wall or 
-sign? 
+##### Can the 18-inch by 18-inch clear floor space required at tactile signs be offset from the wall or sign? 
 
 The clear floor space required at tactile signs can be offset from the wall or sign surface to 
 accommodate limited protrusions, such as base molding. Other elements or protrusions that 
@@ -1653,7 +1659,7 @@ a person's ability to read signs tactilely.
 ##### Must braille be placed below all raised characters?
 
 Braille must be located below the corresponding text; if the text is multi-lined, then braille 
-must be located below the entire text. If there are multiple blocks of text on a sign, then braille 
+must be located below the entire text.&nbsp; If there are multiple blocks of text on a sign, then braille 
 should be placed below logical blocks of raised characters and not necessarily below all the 
 raised characters.
 
@@ -1667,7 +1673,7 @@ characters contrast from their background either light-on-dark or dark-on-light.
 ##### Why isn’t a minimum level of color contrast between characters and the background specified in the Standards?
 
 Color contrast is based on a color’s light reflectance value (LFV), which measures the amount 
-of a light a color reflects or absorbs. It is typically measured using a spectrophotometer. 
+of a light a color reflects or absorbs.&nbsp; It is typically measured using a spectrophotometer. 
 Measuring LFV accurately in the field can be difficult and is impacted by a variety of factors, 
 including sign materials and lighting conditions.
 
@@ -1678,7 +1684,7 @@ prevents a closer approach to the sign.
 
 ##### What are the requirements for the content of directional signs indicating the location of the nearest accessible facility (e.g., restroom, entrance, etc.)? 
 
-The Standards require that the sign include the ISA but do not specify or require other content. 
+The Standards require that the sign include the ISA but do not specify or require other content.&nbsp; 
 Directional signs can be as simple as the ISA and a directional arrow, but additional content 
 may be helpful. 
 
@@ -1692,8 +1698,8 @@ floor or ground or in other non-compliant locations.
 ##### Can visual characters (e.g., room numbers, “men” and “women,” etc.) be arranged vertically in a column instead of horizontally in a line or row?
 
 The Standards do not prohibit arrangement of characters vertically, but this design is not 
-recommended. If visual or raised characters are arranged vertically, they must meet all 
-requirements, including height and line spacing. Braille characters must not be arranged 
+recommended.&nbsp; If visual or raised characters are arranged vertically, they must meet all 
+requirements, including height and line spacing.&nbsp; Braille characters must not be arranged 
 vertically because it would be difficult to decipher some braille words if the braille contractions 
 are stacked instead of arranged horizontally.
 
