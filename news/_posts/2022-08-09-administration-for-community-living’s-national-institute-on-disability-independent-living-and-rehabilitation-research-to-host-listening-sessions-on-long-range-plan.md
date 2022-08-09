@@ -22,26 +22,26 @@ Members of the public are invited to participate in one of the virtual sessions 
 More details and instructions for participating are available at the [NIDILRR 2024-2029 Long-Range Plan Stakeholder Engagement’s webpage](https://www.neweditions.net/meeting/nidilrr-2024-2029-long-range-plan).  
 
 **Virtual Listening Sessions** 
-> Session 1: NIDILRR Grantees  
-> Thursday, August 18  
+> Session 1: NIDILRR Grantees \
+> Thursday, August 18 \
+> 1:00 p.m. – 4:00 p.m. ET
+
+> Session 2: Disability Groups and Advocacy Organizations \
+> Tuesday, September 13 \
 > 1:00 p.m. – 4:00 p.m. ET  
 
-> Session 2: Disability Groups and Advocacy Organizations  
-> Tuesday, September 13 
+> Session 3: Individuals with Disabilities and Those Supporting Them (e.g., Family Members) \
+> Wednesday, September 28 \
 > 1:00 p.m. – 4:00 p.m. ET  
 
-> Session 3: Individuals with Disabilities and Those Supporting Them (e.g., Family Members)
-> Wednesday, September 28 
+> Session 4: Direct Service Providers and Non-NIDIRLRR Grantee Researchers \
+> Wednesday, October 12 \
 > 1:00 p.m. – 4:00 p.m. ET  
 
-> Session 4: Direct Service Providers and Non-NIDIRLRR Grantee Researchers  
-> Wednesday, October 12
+> Session 5: General \
+> Thursday, October 20 \
 > 1:00 p.m. – 4:00 p.m. ET  
 
-> Session 5: General  
-> Thursday, October 20 
-> 1:00 p.m. – 4:00 p.m. ET  
-
-> Session 6: General  
-> Thursday, October 27  
+> Session 6: General \
+> Thursday, October 27 \
 > 1:00 p.m. – 4:00 p.m. ET
