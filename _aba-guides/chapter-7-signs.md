@@ -293,7 +293,7 @@ Areas of refuge are fire-resistance rated and smoke-protected areas where those 
 Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
 Signs labeling areas of refuge must be tactile since they designate a permanent space.
 
-<figure class="img-center">
+<figure class="clear img-center">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
 			 class="img-left" />
@@ -306,17 +306,18 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 		The IBC specifies the content for these signs.
   </figcaption>
 </figure>
-  <p class="usa-sr-only">
+<p class="usa-sr-only">
 		Begin image notes.
-		PUSH FOR HELP sign continutes:  In the event of an emergency, push the help button for evacuation assistance. <br />
-    Persons able to use the exit stairway do so as soon as possible, unless they are assisting others. <br />
-    Wait here for assistance. <br />
+		PUSH FOR HELP sign continutes: In the event of an emergency, push the help button for evacuation assistance.<br />
+    Persons able to use the exit stairway do so as soon as possible, unless they are assisting others.<br />
+    Wait here for assistance.<br />
     Calls may take several minutes.
-  <p class="usa-sr-only">
-    Red speaker grill with EMERGENCY PHONE in large white letters. <br />
-    Indicator lamp labled quote call connected unquote. <br />
-    Large button labled with picture of telephone hand seet and quote push for HELP unquote. <br />
-		End image notes. </p>
+</p>
+<p class="usa-sr-only">
+    Red speaker grill with EMERGENCY PHONE in large white letters.<br />
+    Indicator lamp labled quote call connected unquote.<br />
+    Large button labled with picture of telephone hand seet and quote push for HELP unquote.<br />
+		End image notes.
 </p>
 
 #### Elevator Signs and Labels
@@ -411,8 +412,8 @@ Raised character height must be from 1/2 inch minimum to 2 inches maximum. Where
 					 alt="Overlapping capital O letters showing thin and wide character shapes above a sideways capital letter I."
 			<p class="usa-sr-only">
 				Begin image notes.<br />
-				Dimention above:  max character width 110% of height.<br />
-				Dimention below:  character width 55% of height.<br />
+				Dimention above: max character width 110% of height.<br />
+				Dimention below: character width 55% of height.<br />
 				End image notes.
 			</p>
 		</td>
@@ -475,7 +476,7 @@ The Standards specify the height and diameter of dots and their spacing within a
 
 ![braille capital character, dot 6]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/capital_braille.png){: .img-left }{: .thumbnail }
 
-The braille capital symbol precedes each capitalized word; the symbol is repeated to indicate all caps.&nbsp;
+<br /> The braille capital symbol precedes each capitalized word; the symbol is repeated to indicate all caps.&nbsp;
 To ease reading, capitalization in braille is limited to the first word of sentences, proper nouns or names, individual letters, initials, and acronyms (but all raised characters must be uppercase). 
 
 ![Six braille characters with dimension lines identifying size and spacing of braille dots and cells.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/11.jpg){: .img-center }
@@ -573,9 +574,9 @@ While the clear floor space must be centered on the tactile characters, signs ca
 		This clear floor space must be beyond the swing of any door from a closed position to a 45° open position.
 	</figcaption>
 </figure>
+<p class="clear"> &nbsp; </p>
 
 #### Location at Doors
-{: .clear }
 
 At single doors, tactile signs must be located alongside the door on the latch side.&nbsp;
 They are permitted on the push side of doors equipped with closers that do not have devices to keep them open.
@@ -640,41 +641,51 @@ Specifications for visual characters cover finish and contrast, case, style, cha
 
 <table class="layout">
 	<tr>
+		<td />
 		<td colspan="5">
 			Upper or lowercase characters (or combination of both), conventional form<br />
 			(prohibited: italic, oblique, script, highly decorative, or other unusual forms).
 		</td>
+		<td />
 	</tr>
 	<tr>
-		<td rowspan="2">
+		<td rowspan="4" colspan="2">
 			Line spacing:<br />
 			135% – 170% of<br />
 			character height.
 		</td>
-		<td rowspan="2" colspan="3">
+		<td rowspan="4" colspan="3">
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in-01.png" alt="Sign, visitors must sign in, with only visual characters." />
 		</td>
-		<td>
+		<td colspan="2">
 			Characters 40&Prime;<br />
 			min. above finish<br />
 			floor or ground.
 		</td>
 	</tr>
 	<tr>
-		<td>
+		<td colspan="2" />
+	</tr>
+	<tr>
+		<td colspan="2">
 			Character height<br />
 			(based on<br />
 			viewing distance).
 		</td>
 	</tr>
 	<tr>
+		<td colspan="2" />
+	</tr>
+	<tr>
+		<td />
 		<td colspan="2">
 			Non-glare finish
 		</td>
-		<td colspan="2">
+		<td colspan="3">
 			Light-on-dark or dark-on-light contrast<br />
 			between characters and the background
 		</td>
+		<td />
 	</tr>
 </table>
 
