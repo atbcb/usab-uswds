@@ -293,7 +293,7 @@ Areas of refuge are fire-resistance rated and smoke-protected areas where those 
 Required by the IBC in some buildings, areas of refuge must provide direct access to an exit stairway (or to an elevator equipped with standby power).&nbsp;
 Signs labeling areas of refuge must be tactile since they designate a permanent space.
 
-<figure class="clear img-center">
+<figure class="img-large clear">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
 			 class="img-left" />
@@ -761,10 +761,7 @@ Height from finish floor/ground to character baseline (40″ min.). \
 End image notes.
 {: .usa-sr-only }
 
-<table id="ch" class="usa-table--striped">
-	<colgroup>
-		<col span="3" style="text-align:center">
-	</colgroup>
+<table id="ch" class="data usa-table--striped">
   <thead>
     <tr>
       <th scope="col"> Height </th>
@@ -779,7 +776,7 @@ End image notes.
       <td> 5/8″ </td>
     </tr>
     <tr>
-      <td> 6′ or more</td>
+      <td scope="row"> 6′ or more</td>
       <td> 5/8″ + 1/8″ per foot of viewing distance above 6’ </td>
     </tr>
   </tbody>
@@ -809,7 +806,7 @@ End image notes.
 
 #### Headroom Clearance at Overhead Signs
 
-![Airport terminal with signs above general circulation path. Dimension line identifies distance from finish floor to bottom of sign as 80″ min.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/21.jpg){: .img-grig }
+![Airport terminal with signs above general circulation path. Dimension line identifies distance from finish floor to bottom of sign as 80″ min.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/21.jpg){: .img-grid }
 
 Signs above circulation paths must provide the required 80 inches minimum headroom clearance (§307.4).
 
@@ -1059,31 +1056,29 @@ toilets (where at least 5% must comply) and clustered single user toilet rooms o
 (where at least 50% must comply), the ISA must be used to identify those units and rooms that 
 are accessible. 
 
-In alterations to existing facilities where existing toilet or bathing rooms do not comply, the ISA must be provided to: 
+In alterations to existing facilities where existing toilet or bathing rooms do not comply, the ISA must be provided to:
 
-* identify those rooms that are accessible; and 
-* provide direction to the nearest compliant toilet or bathing room. 
+* identify those rooms that are accessible; and
+* provide direction to the nearest compliant toilet or bathing room.
 
-##### Restroom Sign with ISA
-
-![FAMILY RESTROOM sign with pictogram of adults holding child's hands and an ISA. Below pictogram field are raised characters with contrast and braille.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/30.jpg){: .img-left }
+![FAMILY RESTROOM sign with pictogram of adults holding child's hands and an ISA. Below pictogram field are raised characters with contrast and braille.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/30.jpg){: .img-right }
 
 Begin image notes. \
 Pictogram field dimensioned as: 6″ min \
 End image notes.
 {: .usa-sr-only }
 
+##### Restroom Sign with ISA
+
 The ISA must meet finish and contrast criteria but not requirements for the field height or text description.
 
 Pictograms that identify restrooms and other permanent rooms or spaces (where provided) must be on a field at least 6″ high, meet finish and contrast criteria, and have tactile text descriptors below the field.
 
-<br class="clear" />
+![Grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/01_-_just_counters.png){: .img-grid-right } {: .clear }
 
 #### Check-out Aisles
 
 [\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)]
-
-![Grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.]({{ site.baseurl }}{{ page.image-directory }}(chapter7/signs/01_-_just_counters.png){: .img-grid-right }
 
 Compliant check-out aisles must be labelled by the ISA unless all aisles serving the same function are accessible.&nbsp;
 The sign indicating accessibility must be in the same location as any other signs that identify check-out aisles by number, letter, or function.
@@ -1094,11 +1089,11 @@ The sign indicating accessibility must be in the same location as any other sign
 
 If a facility has existing elevators that do not meet the Standards, compliant elevators must be labelled by the ISA.
 
+![Reserved parking sign with ISA and dimension line.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/31.png){: .img-grid-right }{: .clear }
+
 #### Parking Signs
 
 [\[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)], [\[§502.6]({{ site.baseurl }}/aba/#aba-502_6)]
-
-![Reserved parking sign with ISA and dimension line.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/31.png){: .img-grid-right }
 
 Begin image notes. \
 60″ minimum dimensioned height from ground to bottom of sign. \
@@ -1121,19 +1116,16 @@ This designation is informative and not restrictive in identifying spaces
 suitable for vans since such spaces are not limited to only vans. It can be 
 included on the main designation sign or provided on a separate sign.
 
-<br class="clear" />
+![Multi-story parking garage]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/32.png){: .img-grid-right }{: .clear }
 
 ##### Parking Sign Exceptions
-
-![Multi-story parking garage]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/32.png){: .img-grid-right }
 
 ###### Parking Facilities
 
 [(§F216.1)]({{ site.baseurl }}/aba/#aba-f216_1), Ex. 2)
 
-Parking facilities are subject only to provisions for parking 
-space signs (§F216.5) and means of egress (§F216.4). No 
-other sign requirements apply. 
+Parking facilities are subject only to provisions for parking space signs (§F216.5) and means of egress (§F216.4).&nbsp;
+No other sign requirements apply.
 
 ###### Sites with under 5 Spaces Total
 
@@ -1143,7 +1135,7 @@ If a total of 4 or fewer (inaccessible and accessible) parking spaces is provide
 the required accessible space must comply but does not have to be identified by a sign 
 (i.e., reserved exclusively for use by people with disabilities). 
 
-![house icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/33.jpg){: .img-right }{: .thumbnail }
+![house icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/33.jpg){: .img-right }{: .img-small }
 
 ###### Residential Facilities
 
@@ -1151,13 +1143,11 @@ the required accessible space must comply but does not have to be identified by 
 
 At residential facilities, identification of accessible spaces is not required where spaces are assigned to specific dwelling units.
 
-<br class="clear" />
+![International Symbol of TTY]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone1.png){: .img-right }{: .thumbnail }{: .clear }
 
 #### International Symbol of TTY
 
 [\[§F216.9]({{ site.baseurl }}/aba/#aba-f216_9)], [\[§703.7.2.2]({{ site.baseurl }}/aba/#aba-703_7_2_2)
-
-![International Symbol of TTY]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone1.png){: .img-right }{: .thumbnail }
 
 Some public payphones, where provided, must be equipped with TTYs 
 to provide communication access for people with hearing or speech 
@@ -1168,11 +1158,11 @@ where directional signs to public pay phones are provided, signs must
 also be provided to public TTYs. These directional signs must include the 
 International Symbol of TTY and meet visual criteria in the Standards.
 
+![International Symbol of Access for Hearing Loss]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear1.png){: .img-right }{: .thumbnail }{: .clear }
+
 #### International Symbol of Access for Hearing Loss
 
 [\[§F216.10]({{ site.baseurl }}/aba/#aba-f216_10)], [\[§703.7.2.4]({{ site.baseurl }}/aba/#aba-703_7_2_4)
-
-![International Symbol of Access for Hearing Loss]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear1.png){: .img-right }{: .thumbnail }
 
 Signs with the International Symbol of Access for Hearing Loss and 
 compliant with the visual criteria are required to indicate the availability of 
@@ -1183,9 +1173,9 @@ can be provided at each assembly area or each ticket office or window.
 Verbiage on signs is not specified, but it is helpful to indicate where assistive 
 listening devices can be acquired. 
 
-### Information Displays and Technologies
+![Stand-alone ATM photo.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/ATM.png){: .img-grid-right }{: .clear }
 
-![Stand-alone ATM photo.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/ATM.png){: .img-grid-right }
+### Information Displays and Technologies
 
 #### Display Screens 
 
@@ -1194,6 +1184,8 @@ Requirements for fare machines and ATMs address display screens (§707.7) and re
 * screens to be visible from a point 40 inches above the center of the clear floor space;
 * sans serif characters at least 3/16 inches high as based on uppercase letter “I”; and
 * light-on-dark or dark-on-light contrast between the characters and the background. 
+
+<br class="clear" />
 
 #### Electronic Sign Systems and Audible Sign Technologies
 
@@ -1386,13 +1378,11 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
   <tbody>
     <tr>
       <th scope="row">Finish</th>
-      <td>non-glare</td>
-			<td> &nbsp; </td>
+      <td>non-glare</td><td> &nbsp; </td>
     </tr>
     <tr>
       <th scope="row">Contrast</th>
-      <td>light-on-dark or dark-on-light</td>
-			<td> &nbsp; </td>
+      <td>light-on-dark or dark-on-light</td><td> &nbsp; </td>
     </tr>
     <tr>
       <th scope="row">Depth</th>
