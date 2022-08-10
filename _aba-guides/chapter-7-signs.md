@@ -1268,7 +1268,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
 ### Required Signs
 
-<table id="required" class="data">
+<table id="required" class="data usa-table--striped">
   <thead>
     <tr>
       <th scope="col">Required Sign</th>
@@ -1299,7 +1299,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
       <th scope="row">
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_black1.png"
 						 alt="icon: wheelchair"
-						 class="img-right thumbnail" />
+						 class="img-grid-right" />
 				International Symbol of Accessibility
 			</th>
       <td>§216.5 – §216.8, §216.11</td>
@@ -1315,7 +1315,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 		<th scope="row">
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone2.png"
 					 alt="icon: TTY"
-					 class="img-right thumbnail" />
+					 class="img-grid-right" />
 			International Symbol of TTY
 		</th>
       <td>§216.9</td>
@@ -1331,7 +1331,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
       <th scope="row">
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear2.png"
 						 alt="icon: ear slash"
-						 class="img-right thumbnail" />
+						 class="img-grid-right" />
 					International Symbol of Access for Hearing Loss
 			</th>
       <td>§216.10</td>
@@ -1357,8 +1357,8 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
       <td>§810.6.2 §810.6.3</td>
       <td>
 				<ul>
-          <li>Tactile criteria §703.2 (sign on each platform or boarding area) </li>
-          <li>Visual criteria §703.5 (clearly visible from within vehicles on both sides) </li>
+          <li>Tactile criteria §703.2 (sign on each platform or boarding area)</li>
+          <li>Visual criteria §703.5 (clearly visible from within vehicles on both sides)</li>
         </ul>
 			</td>
     </tr>
@@ -1421,17 +1421,17 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
     </tr>
     <tr>
       <th scope="row">Character Proportion</th>
-      <td>“O” 55% - 110% of “I” height</td>
-      <td>“O” 55% - 110% of “I” height</td>
+      <td>“O” 55% – 110% of “I” height</td>
+      <td>“O” 55% – 110% of “I” height</td>
     </tr>
     <tr>
       <th scope="row">Character Spacing</th>
-      <td>10% - 35% of the character height</td>
+      <td>10% – 35% of the character height</td>
       <td>1/8” – 4x stroke width &Dagger;</td>
     </tr>
     <tr>
       <th scope="row">Stroke Thickness</th>
-      <td>10% - 30% of “I” height</td>
+      <td>10% – 30% of “I” height</td>
       <td>15% max. of “I” height</td>
     </tr>
     <tr>
