@@ -1038,8 +1038,6 @@ Accessibility]({{ site.baseurl }}/aba/guides/guidance-on-the-isa/).
 		</figcaption>
 </figure>
 
-
-
 If a facility has inaccessible entrances, the ISA must identify compliant entrances.&nbsp;
 At inaccessible entrances, directional signs meeting the visual requirements (§703.5) must be provided to indicate the nearest compliant entrance.&nbsp;
 If all entrances are accessible, these labels and directional signs are not required. 
@@ -1072,20 +1070,20 @@ In alterations to existing facilities where existing toilet or bathing rooms do 
 
 Begin image notes. \
 Pictogram field dimensioned as: 6″ min \
-End image note.
+End image notes.
+{: .usa-sr-only }
 
 The ISA must meet finish and contrast criteria but not requirements for the field height or text description.
 
 Pictograms that identify restrooms and other permanent rooms or spaces (where provided) must be on a field at least 6″ high, meet finish and contrast criteria, and have tactile text descriptors below the field.
 
+<br class="clear" />
+
 #### Check-out Aisles
 
 [\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)]
 
-![Grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.]({ site.baseurl }}{{ page.image-directory }}chapter7/signs/01_-_just_counters.png){: .img-grid-right }
-
-
-
+![Grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.]({{ site.baseurl }}{{ page.image-directory }}(chapter7/signs/01_-_just_counters.png){: .img-grid-right }
 
 Compliant check-out aisles must be labelled by the ISA unless all aisles serving the same function are accessible.&nbsp;
 The sign indicating accessibility must be in the same location as any other signs that identify check-out aisles by number, letter, or function.
@@ -1102,13 +1100,11 @@ If a facility has existing elevators that do not meet the Standards, compliant e
 
 ![Reserved parking sign with ISA and dimension line.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/31.png){: .img-grid-right }
 
-
-
-
-Begin image note. \
+Begin image notes. \
 60″ minimum dimensioned height from ground to bottom of sign. \
 At bottom is super-imposed ISA sign reading: Van Accessible. \
-End image note. \
+End image notes.
+{: .usa-sr-only }
 
 Accessible parking spaces must be identified by signs with the ISA. The 
 bottom edge of each sign must be at least 60 inches high measured from 
@@ -1124,6 +1120,8 @@ Signs identifying van spaces must include the term “van accessible.”
 This designation is informative and not restrictive in identifying spaces 
 suitable for vans since such spaces are not limited to only vans. It can be 
 included on the main designation sign or provided on a separate sign.
+
+<br class="clear" />
 
 ##### Parking Sign Exceptions
 
@@ -1145,14 +1143,15 @@ If a total of 4 or fewer (inaccessible and accessible) parking spaces is provide
 the required accessible space must comply but does not have to be identified by a sign 
 (i.e., reserved exclusively for use by people with disabilities). 
 
+![house icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/33.jpg){: .img-right }{: .thumbnail }
+
 ###### Residential Facilities
 
 [(§F216.5)]({{ site.baseurl }}/aba/#aba-f216_5), Ex. 2)
 
-![house icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/33.jpg){: .img-right }{: .thumbnail }
+At residential facilities, identification of accessible spaces is not required where spaces are assigned to specific dwelling units.
 
-At residential facilities, identification of accessible spaces is not required where 
-spaces are assigned to specific dwelling units.
+<br class="clear" />
 
 #### International Symbol of TTY
 
@@ -1171,9 +1170,9 @@ International Symbol of TTY and meet visual criteria in the Standards.
 
 #### International Symbol of Access for Hearing Loss
 
-[\[§F216.10]]({{ site.baseurl }}/aba/#aba-f216_10), [\[§703.7.2.4]]({{ site.baseurl }}/aba/#aba-703_7_2_4)
+[\[§F216.10]({{ site.baseurl }}/aba/#aba-f216_10)], [\[§703.7.2.4]({{ site.baseurl }}/aba/#aba-703_7_2_4)
 
-![International Symbol of Access for Hearing Loss]({ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear1.png){: .img-right }{: .thumbnail }
+![International Symbol of Access for Hearing Loss]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear1.png){: .img-right }{: .thumbnail }
 
 Signs with the International Symbol of Access for Hearing Loss and 
 compliant with the visual criteria are required to indicate the availability of 
@@ -1186,18 +1185,15 @@ listening devices can be acquired.
 
 ### Information Displays and Technologies
 
-#### Display Screens 
+![Stand-alone ATM photo.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/ATM.png){: .img-grid-right }
 
-![Stand-alone ATM photo.](){: .img-grid-right }
+#### Display Screens 
 
 Requirements for fare machines and ATMs address display screens (§707.7) and require: 
 
 * screens to be visible from a point 40 inches above the center of the clear floor space;
 * sans serif characters at least 3/16 inches high as based on uppercase letter “I”; and
 * light-on-dark or dark-on-light contrast between the characters and the background. 
-
-
-
 
 #### Electronic Sign Systems and Audible Sign Technologies
 
@@ -1242,7 +1238,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 				(703.5.1)*</td>
       <td>&check;<br />
 				(if provided)</td>
-      <td />
+			<td> &nbsp; </td>
     </tr>
     <tr>
       <th scope="row">Doors at exit stairways / passageways / discharge</th>
@@ -1251,20 +1247,20 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 				(703.5.1)*</td>
       <td>&check;<br />
 				(if provided)</td>
-      <td />
+			<td> &nbsp; </td>
     </tr>
     <tr>
       <th scope="row">Informational and directional signs</th>
-      <td />
+			<td> &nbsp; </td>
       <td>&check;</td>
-      <td />
-      <td />
+			<td> &nbsp; </td>
+			<td> &nbsp; </td>
     </tr>
     <tr>
       <th scope="row">Required access symbols</th>
-      <td />
-      <td />
-      <td />
+			<td> &nbsp; </td>
+			<td> &nbsp; </td>
+			<td> &nbsp; </td>
       <td>&check;</td>
     </tr>
   </tbody>
@@ -1391,12 +1387,12 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
     <tr>
       <th scope="row">Finish</th>
       <td>non-glare</td>
-      <td />
+			<td> &nbsp; </td>
     </tr>
     <tr>
       <th scope="row">Contrast</th>
       <td>light-on-dark or dark-on-light</td>
-      <td />
+			<td> &nbsp; </td>
     </tr>
     <tr>
       <th scope="row">Depth</th>
