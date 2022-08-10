@@ -921,8 +921,6 @@ area signs (§810.6).
 
 ![Bumper Cars attraction with ramp and stairs leading to boarding area. Signs indicate direction of accessible route and need to transfer from wheelchair.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/bumpercars.png){: .img-right }
 
-
-
 The Standards address access to amusement rides and include requirements for signs.&nbsp;
 Some amusement rides may accommodate wheeled mobility aids while others require transfer to a seat.&nbsp;
 The Standards require signs at entries to queues and waiting lines to identify the type of access provided by a ride.&nbsp;
@@ -933,9 +931,6 @@ Signs indicating the location of the accessible load and unload areas must be pr
 [\[§F216.13]({{ site.baseurl }}/aba/#aba-f216_13)]
 
 ![Trailhead sign with hiker pictogram, trail name, length, elevation change, grade, cross slope, tread width, and surface type]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/rim_ridge_trail.png){: .img-grid-right }
-
-
-
 
 Begin image notes. \
 RIM RIDGE TRAIL: \
@@ -952,7 +947,7 @@ TREAD WIDTH: \
 Typical Width, 60 in (76 cm); \
 Minimum Width, 36 in (45 cm); \
 SURFACE: \
-Surface Type, Compacted Stone.
+Surface Type, Compacted Stone. \
 End image notes.
 {: .usa-sr-only }
 
@@ -1037,6 +1032,7 @@ Accessibility]({{ site.baseurl }}/aba/guides/guidance-on-the-isa/).
 						 alt="White ISA on blue background with arrow pointing right." />
 			</td>
 		</tr>
+	</table>
 		<figcaption>
 			Directional signs can be as simple as the ISA with an arrow, but additional content, while not required, can be helpful.
 		</figcaption>
@@ -1057,9 +1053,6 @@ If all entrances are accessible, these labels and directional signs are not requ
 #### Toilet Rooms and Bathing Rooms
 
 [\[§F213.2]({{ site.baseurl }}/aba/#aba-f213_2)], [\[§F213.2]({{ site.baseurl }}/aba/#aba-f216_8)]
-
-
-
 
 Where all toilet rooms and bathing rooms are accessible, which is often the case in new 
 construction, designation by the ISA is not required. However, in areas where not all toilet or 
@@ -1084,7 +1077,6 @@ End image note.
 The ISA must meet finish and contrast criteria but not requirements for the field height or text description.
 
 Pictograms that identify restrooms and other permanent rooms or spaces (where provided) must be on a field at least 6″ high, meet finish and contrast criteria, and have tactile text descriptors below the field.
-
 
 #### Check-out Aisles
 
