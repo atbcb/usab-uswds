@@ -511,7 +511,7 @@ The pictograms and fields must have a non-glare finish and a light-on-dark or da
 
 Note that these requirements apply to those pictograms that label a permanent room or space, such as a restroom, cafeteria, or stairway. 
 
-<table class="clear img-center">
+<table class="img-center clear">
 	<tr>
 		<td>
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/restroom_-_tactile1.png"
@@ -747,6 +747,7 @@ Character spacing, as measured between the two closest points of adjacent charac
 Begin image notes. \
 Distance between characters is 10% to 35% of character height \
 End image notes.
+{: .usa-sr-only }
 
 #### Character Height
 
@@ -912,22 +913,22 @@ posted signs. The Standards generally recognize these technologies and permit th
 alternative to the tactile and visual requirements for entrance signs and platform or boarding 
 area signs (§810.6).
 
+![Bumper Cars attraction with ramp and stairs leading to boarding area. Signs indicate direction of accessible route and need to transfer from wheelchair.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/bumpercars.png){: .img-right }{: .clear }
+
 ### Amusement Ride Signs
 
 [\[§F216.12]({{ site.baseurl }}/aba/#aba-f216_12)]
-
-![Bumper Cars attraction with ramp and stairs leading to boarding area. Signs indicate direction of accessible route and need to transfer from wheelchair.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/bumpercars.png){: .img-right }
 
 The Standards address access to amusement rides and include requirements for signs.&nbsp;
 Some amusement rides may accommodate wheeled mobility aids while others require transfer to a seat.&nbsp;
 The Standards require signs at entries to queues and waiting lines to identify the type of access provided by a ride.&nbsp;
 Signs indicating the location of the accessible load and unload areas must be provided at entries to queues and waiting lines.
 
+![Trailhead sign with hiker pictogram, trail name, length, elevation change, grade, cross slope, tread width, and surface type]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/rim_ridge_trail.png){: .img-grid-right }{: .clear }
+
 ### Trailhead Signs
 
 [\[§F216.13]({{ site.baseurl }}/aba/#aba-f216_13)]
-
-![Trailhead sign with hiker pictogram, trail name, length, elevation change, grade, cross slope, tread width, and surface type]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/rim_ridge_trail.png){: .img-grid-right }
 
 Begin image notes. \
 RIM RIDGE TRAIL: \
@@ -958,8 +959,7 @@ Where new trail information signs are provided at trailheads for use by hikers o
 * typical and minimum tread width; and
 * typical and maximum running slope and cross slope.
 
-If trail information signs designate the name of the trail,
-only the name of the trail is required to comply with §703.5.&nbsp;
+If trail information signs designate the name of the trail, only the name of the trail is required to comply with §703.5.&nbsp;
 The ISA is not required on trail signs.
 
 <br class="clear" />
@@ -977,13 +977,13 @@ Symbols required by the Standards to label accessible features and spaces must:
 The Standards do not specify particular colors, a minimum color contrast level, nor the size of these symbols.&nbsp;
 Written content is not required or addressed, except in the case of van accessible parking signs, but can be included.
 
-#### International Symbol of Accessibility
-
-[\[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)] &ndash; [\[§F216.8]({{ site.baseurl }}/aba/#aba-f216_8)], [\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)], [\[§703.7.2.1]({{ site.baseurl }}/aba/#aba-703_7_2_1)]
-
 ![White ISA on black background]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_black.png){: .img-right }{: .thumbnail }
 
 ![Black ISA on white background]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_White.png){: .img-right }{: .thumbnail }{: .clear }
+
+#### International Symbol of Accessibility
+
+[\[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)] &ndash; [\[§F216.8]({{ site.baseurl }}/aba/#aba-f216_8)], [\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)], [\[§703.7.2.1]({{ site.baseurl }}/aba/#aba-703_7_2_1)]
 
 The Standards reference the International Symbol of Accessibility (ISA),
 a long-standing global icon adopted by the International Organization for Standardization
@@ -1010,8 +1010,7 @@ compliance with certain provisions exceptionally problematic. The Access Board i
 for making sure that modifications and waivers are based on findings of fact and are consistent 
 with the ABA.
 
-The Access Board provides more information in its [Guidance on the International Symbol of 
-Accessibility]({{ site.baseurl }}/aba/guides/guidance-on-the-isa/).
+The Access Board provides more information in its [Guidance on the International Symbol of Accessibility]({{ site.baseurl }}/aba/guides/guidance-on-the-isa/).
 
 ### Entrances
 
