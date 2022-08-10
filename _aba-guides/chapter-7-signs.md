@@ -662,7 +662,7 @@ Specifications for visual characters cover finish and contrast, case, style, cha
 		</td>
 	</tr>
 	<tr>
-		<td />
+		<td> &nbsp; </td>
 	</tr>
 	<tr>
 		<td>
@@ -681,16 +681,6 @@ Specifications for visual characters cover finish and contrast, case, style, cha
 		</td>
 	</tr>
 </table>
-
-Begin image notes. \
-Upper or lowercase characters (or combination of both), conventional form (prohibited: italic, oblique, script, highly decorative or other unusual forms) \
-Line spacing: 135% – 170% of character height. \
-Characters 40" min. above finish floor or ground. \
-Character height (based on viewing distance). \
-Non-glare finish. \
-Light-on-dark or dark-on-light contrast between characters and the background. \
-End image notes.
-{: .usa-sr-only }
 
 Characters must contrast with their background with either light-on-dark or dark-on-light and have a non-glare finish.&nbsp;
 A minimum level of contrast is not specified in the Standards.&nbsp;
@@ -830,7 +820,7 @@ Signs above circulation paths must provide the required 80 inches minimum headro
 Signs and other objects mounted on posts or pylons that have leading edges of 27 inches to 80 inches high cannot protrude more than 12 inches into circulation paths.&nbsp;
 The 12-inch limit also applies to the clearance between multiple posts, excluding the sloping portions of handrails.
 
-![Sign mounted to single post with dimension lines identifying height from finish floor to bottom of sign and distance from edge of sign to post.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/23.jpg"){: .img-left }
+![Sign mounted to single post with dimension lines identifying height from finish floor to bottom of sign and distance from edge of sign to post.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/23.jpg){: .img-left }
 
 Begin image notes. \
 27 inch to 80 inch height to bottom of sign. \
@@ -838,7 +828,7 @@ Begin image notes. \
 End image notes.
 {: .usa-sr-only }
 
-![Sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/25.jpg){: .img-right }
+![Sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/27.jpg){: .img-right }
 
 Begin image notes. \
 27 inch – 80 inch height to bottom of sign \
@@ -867,6 +857,8 @@ any distance between posts \
 any distance from post to sign edge \
 End image notes.
 {: .usa-sr-only }
+
+<br class="clear" />
 
 ### Signs at Transportation Facilities
 
