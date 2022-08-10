@@ -97,6 +97,7 @@ fieldset button {
   margin-top:.5em;
 }
 
+// Oxford list style
 ol li ol li {
   list-style-type: lower-alpha;
 }
@@ -576,12 +577,13 @@ a.style-inherit:focus>div.gray-to-color {
 table.data tbody tr td, table.data thead tr th {
 	text-align: center;
 }
-table.data tbody tr th, table.data tfoot tr td, table.data tbody tr td ul li, table.data tbody tr td ol li, {
+table.data tbody tr th, table.data tfoot tr td, table.data tbody tr td ul li, table.data tbody tr td ol li {
 	text-align: left;
 }
 table.data th { // should not be necessary
-	font-weight: bold; }
+	font-weight: bold;
 }
+
 // layout table
 table.layout td {
 	text-align: center;
@@ -594,6 +596,7 @@ table.layouttable {
 table.layouttable tr td {
 border: 1px solid black;
 }
+
 // custom colors
 // ev charging tad
 .bg-green-light {
