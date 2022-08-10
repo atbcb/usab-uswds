@@ -1268,7 +1268,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
 ### Required Signs
 
-<table id="required" class="data usa-table--striped">
+<table id="required" class="data">
   <thead>
     <tr>
       <th scope="col">Required Sign</th>
