@@ -1108,7 +1108,7 @@ If a facility has existing elevators that do not meet the Standards, compliant e
 
 [\[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)], [\[§502.6]({{ site.baseurl }}/aba/#aba-502_6)]
 
-![Reserved parking sign with ISA and dimension line.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/31.jpg){: .img-grid-right }
+![Reserved parking sign with ISA and dimension line.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/31.png){: .img-grid-right }
 
 
 
