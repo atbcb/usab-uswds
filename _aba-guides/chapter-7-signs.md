@@ -1073,52 +1073,50 @@ In alterations to existing facilities where existing toilet or bathing rooms do 
 * identify those rooms that are accessible; and 
 * provide direction to the nearest compliant toilet or bathing room. 
 
-#### Restroom Sign with ISA
+##### Restroom Sign with ISA
 
-Family Restroom sign with pictogram of adults holding child's hands and an ISA. Below pictogram field are raised characters with contrast and braille
-6″ min
+![FAMILY RESTROOM sign with pictogram of adults holding child's hands and an ISA. Below pictogram field are raised characters with contrast and braille.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/30.jpg){: .img-left }
 
-begin image note \
-6″ minimum height of pictogram field \
-end image note
+Begin image notes. \
+Pictogram field dimensioned as: 6″ min \
+End image note.
 
-caption: The ISA must meet finish 
-and contrast criteria but not 
-requirements for the field 
-height or text description. 
+The ISA must meet finish and contrast criteria but not requirements for the field height or text description.
 
-caption: Pictograms that identify restrooms and other permanent rooms or spaces 
-(where provided) must be on a field at least 6″ high, meet finish and 
-contrast criteria, and have tactile text descriptors below the field.
+Pictograms that identify restrooms and other permanent rooms or spaces (where provided) must be on a field at least 6″ high, meet finish and contrast criteria, and have tactile text descriptors below the field.
+
 
 #### Check-out Aisles
 
 [\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)]
 
-grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.
-Compliant check-out aisles must be labelled by the ISA unless 
-all aisles serving the same function are accessible. The sign 
-indicating accessibility must be in the same location as any other 
-signs that identify check-out aisles by number, letter, or function.
+![Grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.]({ site.baseurl }}{{ page.image-directory }}chapter7/signs/01_-_just_counters.png){: .img-grid-right }
+
+
+
+
+Compliant check-out aisles must be labelled by the ISA unless all aisles serving the same function are accessible.&nbsp;
+The sign indicating accessibility must be in the same location as any other signs that identify check-out aisles by number, letter, or function.
 
 #### Existing Elevators
 
 [\[§F216.7]({{ site.baseurl }}/aba/#aba-f216_7)]
 
-If a facility has existing elevators that do not meet the Standards, compliant elevators must be 
-labelled by the ISA.
+If a facility has existing elevators that do not meet the Standards, compliant elevators must be labelled by the ISA.
 
 #### Parking Signs
 
 [\[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)], [\[§502.6]({{ site.baseurl }}/aba/#aba-502_6)]
 
-Parking sign with ISA and dimension line indicating height from finish floor to bottom of sign
-60″ minimum
+![Reserved parking sign with ISA and dimension line.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/31.jpg){: .img-grid-right }
 
-begin image note \
-60″ minimum height to bottom of sign \
-end image note \
-van accessible parking sign
+
+
+
+Begin image note. \
+60″ minimum dimensioned height from ground to bottom of sign. \
+At bottom is super-imposed ISA sign reading: Van Accessible. \
+End image note. \
 
 Accessible parking spaces must be identified by signs with the ISA. The 
 bottom edge of each sign must be at least 60 inches high measured from 
@@ -1137,7 +1135,7 @@ included on the main designation sign or provided on a separate sign.
 
 ##### Parking Sign Exceptions
 
-multi-story parking garage
+![Multi-story parking garage]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/32.png)
 
 ###### Parking Facilities
 
