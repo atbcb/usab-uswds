@@ -1,14 +1,14 @@
 ---
-last-name: Pelter
-agency: Department of Commerce
 name: federal-doc
-full_name: "Jeremy Pelter"
+last-name: Pelter
+full_name: Jeremy Pelter
 chair: false
 vice-chair: false
 member: federal
 status: current
-image: /images/uploads/vacant.svg
+image: /images/uploads/doc-pelter.jpg
 job-title: null
+agency: Department of Commerce
 ---
 Jeremy Pelter currently serves as the Acting Chief Financial Officer and Assistant Secretary of Commerce for Administration.
 

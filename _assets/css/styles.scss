@@ -306,11 +306,6 @@ h3.usa-graphic-list__heading {
   color: white;
 }
 
-// temporary blue class to see how grids work
-.blue {
-  background-color: cyan;
-}
-
 // advisory boxes, might be P or DIV
 .advisory {
   background-color: color(primary-lighter);
@@ -572,11 +567,6 @@ a.style-inherit:focus>div.gray-to-color {
   background-size: 20px 20px;
 }
 
-// custom colors for ev charging tad
-.bg-green-light {
-  background-color: #ECFFDC;
-}
-
 // add shading to even rows in data tables -- does not seem to be working
 // table.data tbody tr:nth-child(even) {
 // background-color: #f2f2f2;
@@ -592,7 +582,6 @@ table.data tbody tr th, table.data tfoot tr td, table.data tbody tr td ul li, ta
 table.data th { // should not be necessary
 	font-weight: bold; }
 }
-
 // layout table
 table.layout td {
 	text-align: center;
@@ -602,7 +591,15 @@ table.layout td {
 table.layouttable {
   border-collapse: collapse;
 }
-table.layouttable,
-table.layouttable tr {
-  border: 1px solid black;
+table.layouttable tr td {
+border: 1px solid black;
+}
+// custom colors
+// ev charging tad
+.bg-green-light {
+  background-color: #ECFFDC;
+}
+// temporary blue class to see how grids work
+.blue {
+  background-color: cyan;
 }

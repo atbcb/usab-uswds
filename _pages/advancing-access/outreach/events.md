@@ -13,12 +13,13 @@ permalink: /events/
 ## Public Events
 
 ### Upcoming Events
-> ***Town Hall Meeting: The State of Accessibility in Philadelphia*** \
-September 14, 2022, 1:30 – 3:30 p.m. (ET) \
-Liberty Resources, Inc. \
-112 N. 8th St. \
-Philadelphia, PA 19107 \
-Contact: <events@access-board.gov>
+> ***Town Hall Meeting: The State of Accessibility in Philadelphia*** \
+> September 14, 2022, 1:30 – 3:30 p.m., followed by networking reception 3:45 – 5:00 p.m. \
+> Liberty Resources, Inc. \
+> 112 N. 8th St. \
+> Philadelphia, PA 19107 \
+> [U.S. Access Board Events in Philadelphia registration form](https://web.cvent.com/event/7ebeeb80-e968-4510-9bb8-ad1ab901d129/regProcessStep1?RefId=pub&rp=81a1a9d5-f1fa-4b08-b171-8fab1c2d8b14) (the town hall meeting is the eighth option on the second page of the form) \
+> Contact: [events@access-board.gov](mailto:events@access-board.gov) 
 
 ### Public Events Archives
 
