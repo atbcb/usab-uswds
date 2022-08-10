@@ -1212,10 +1212,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
 #### Application of Sign Requirements
 
-<table id="application" class="usa-table--striped">
-	<colgroup>
-		<col span="4" style="text-align:center">
-	</colgroup>
+<table id="application" class="data usa-table--striped">
   <thead>
     <tr>
       <th scope="col">Sign</th>
@@ -1275,12 +1272,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
 ### Required Signs
 
-<table id="required" class="usa-table--striped">
-	<colgroup>
-		<col style="text-align:left">
-		<col style="text-align:center">
-		<col style="text-align:left">
-	</colgroup>
+<table id="required" class="data usa-table--striped">
   <thead>
     <tr>
       <th scope="col">Required Sign</th>
@@ -1379,7 +1371,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
 #### Requirements for Visual and Raised Characters
 
-<table id="characters" class="usa-table--striped">
+<table id="characters" class="data usa-table--striped">
   <thead>
     <tr>
       <td />
