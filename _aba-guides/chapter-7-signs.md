@@ -753,7 +753,7 @@ End image notes.
 The minimum height of characters is based on their height above the finish floor and the horizontal viewing distance.&nbsp;
 Horizontal viewing distance is the distance between the character and an obstruction preventing further approach to the sign. 
 
-![Side view of person behind barrier separated from wall with sign. Dimension lines identify distance between sign and barrier and distance from finish floor to character baseline on sign.]("{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/20.jpg"){: .img-center }
+![Side view of person behind barrier separated from wall with sign. Dimension lines identify distance between sign and barrier and distance from finish floor to character baseline on sign.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/20.jpg){: .img-center }
 
 Begin image notes. \
 Horizontal Viewing Distance between the character and an obstruction preventing further approach to the sign. \
@@ -840,7 +840,7 @@ End image notes.
 Post-mounted signs with leading edges 27 inches maximum or above 80 inches can protrude any amount from posts or pylons.
 {: .clear }
 
-![Low sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/25.jpg){: .img-left }
+![Low sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/22.jpg){: .img-left }
 
 Begin image notes. \
 27″ max height to bottom of sign \
@@ -921,62 +921,51 @@ area signs (§810.6).
 
 ![Bumper Cars attraction with ramp and stairs leading to boarding area. Signs indicate direction of accessible route and need to transfer from wheelchair.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/bumpercars.png)
 
-The Standards address access to amusement 
-rides and include requirements for signs. Some 
-amusement rides may accommodate wheeled 
-mobility aids while others require transfer to a 
-seat.
-The Standards require signs at entries 
-to queues and waiting lines to identify the type 
-of access provided by a ride. Signs indicating 
-the location of the accessible load and unload 
-areas must be provided at entries to queues and 
-waiting lines.
+The Standards address access to amusement rides and include requirements for signs.&nbsp;
+Some amusement rides may accommodate wheeled mobility aids while others require transfer to a seat.&nbsp;
+The Standards require signs at entries to queues and waiting lines to identify the type of access provided by a ride.&nbsp;
+Signs indicating the location of the accessible load and unload areas must be provided at entries to queues and waiting lines.
 
 ### Trailhead Signs
 
-
-
 [\[§F216.13]({{ site.baseurl }}/aba/#aba-f216_13)]
 
-![Trailhead sign with trail name, length, elevation change, grade, cross slope, tread width, and surface type]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/rim_ridge_trail.png){: img-grid-right }
+![Trailhead sign with hiker pictogram, trail name, length, elevation change, grade, cross slope, tread width, and surface type]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/rim_ridge_trail.png){: img-right }
 
-Begin image notes.
-RIM RIDGE TRAIL
-Length
-Elevation Gain
-Elevation Loss15.3 mi (24.6 km)
-1420 (433m)
-3166 (965m)
-60 in (76 cm)
-36 in (45 cm)
-TREAD WIDTHTypical WidthMinimum WidthCompacted StoneSURFACESurface Type2%
-5%
-CROSS SLOPETypical Cross SlopeMaximum Cross Slope4.7%
-11%
-GRADE
-Typical Grade
-Maximum Grade
+Begin image notes. \
+RIM RIDGE TRAIL: \
+Length, 15.3 mi (24.6 km); \
+Elevation Gain, 1420 (433m); \
+Elevation Loss, 3166 (965m). \
+GRADE: \
+Typical Grade, 4.7%; \
+Maximum Grade, 11%. \
+CROSS SLOPE: \
+Typical Cross Slope, 2%; \
+Maximum Cross Slope, 5%. \
+TREAD WIDTH: \
+Typical Width, 60 in (76 cm); \
+Minimum Width, 36 in (45 cm); \
+SURFACE: \
+Surface Type, Compacted Stone.
 End image notes.
+{: .usa-sr-only }
 
-The ABA Standards include requirements for outdoor 
-developed areas on federal lands, including trails, camp sites, 
-and picnic areas. This requirement applies to new trailhead 
-information signs regardless of whether the newly constructed 
-or altered trail complies with the technical requirements for 
-trails. 
+The ABA Standards include requirements for outdoor developed areas on federal lands, including trails, camp sites, and picnic areas.&nbsp;
+This requirement applies to new trailhead information signs regardless of whether the newly constructed or altered trail complies with the technical requirements for trails.
 
-Where new trail information signs are provided at trailheads 
-for use by hikers or pedestrians, they must include: 
+Where new trail information signs are provided at trailheads for use by hikers or pedestrians, they must include: 
 
 * the length of the trail or trail segment;
 * surface type;
 * typical and minimum tread width; and
 * typical and maximum running slope and cross slope.
 
-If trail information signs designate the name of the trail, only 
-the name of the trail is required to comply with §703.5. The 
-ISA is not required on trail signs. 
+If trail information signs designate the name of the trail,
+only the name of the trail is required to comply with §703.5.&nbsp;
+The ISA is not required on trail signs. 
+
+<br class="clear" />
 
 ### Symbols of Accessibility
 
@@ -988,28 +977,25 @@ Symbols required by the Standards to label accessible features and spaces must:
 * have a non-glare finish (both symbol and background); and
 * contrast with the background (either light-on-dark or dark-on-light).
 
-The Standards do not specify particular colors, a minimum color contrast level, nor the size 
-of these symbols. Written content is not required or addressed, except in the case of van 
-accessible parking signs, but can be included.
+The Standards do not specify particular colors, a minimum color contrast level, nor the size of these symbols.&nbsp;
+Written content is not required or addressed, except in the case of van accessible parking signs, but can be included.
 
 #### International Symbol of Accessibility
 
 [\[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)] &ndash; [\[§F216.8]({{ site.baseurl }}/aba/#aba-f216_8)], [\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)], [\[§703.7.2.1]({{ site.baseurl }}/aba/#aba-703_7_2_1)]
 
-White ISA on black background
+![White ISA on black background]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_black.png){: .img-right }{: .thumbnail }
 
-Black ISA on white background
+![Black ISA on white background]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_White.png){: .img-right }{: .thumbnail }
 
-The Standards reference the International Symbol of Accessibility (ISA), 
-a long-standing global icon adopted by the International Organization for 
-Standardization which represents over 160 national standard-setting entities 
-and develops voluntary, consensus-based international standards. Uniform 
-iconography promotes legibility, especially for people with low vision or 
-cognitive disabilities. In addition, various codes and standards in the U.S., 
-including the International Building Code (IBC), also require use of the ISA. 
+The Standards reference the International Symbol of Accessibility (ISA),
+a long-standing global icon adopted by the International Organization for Standardization
+which represents over 160 national standard-setting entities and develops voluntary,
+consensus-based international standards.&nbsp;
+Uniform iconography promotes legibility, especially for people with low vision or cognitive disabilities.&nbsp;
+In addition, various codes and standards in the U.S., including the International Building Code (IBC), also require use of the ISA.
 
-The ISA must be used to label, or provide direction to, these elements and 
-spaces (unless all are accessible): 
+The ISA must be used to label, or provide direction to, these elements and spaces (unless all are accessible): 
 
 * entrances 
 * toilet rooms and bathing rooms 
@@ -1018,6 +1004,8 @@ spaces (unless all are accessible):
 * existing compliant elevators
 
 #### Use of Alternatives to the ISA 
+
+
 
 Any departure from the ABA Standards, including the referenced ISA, requires a waiver or 
 modification (§F103). The agencies that implement the ABA Standards have authority to grant 
@@ -1182,7 +1170,7 @@ International Symbol of TTY and meet visual criteria in the Standards.
 
 #### International Symbol of Access for Hearing Loss
 
-[\[§F216.10]({{ site.baseurl }}/aba/#aba-f216_10), [\[§703.7.2.4]({{ site.baseurl }}/aba/#aba-703_7_2_4)
+[\[§F216.10]]({{ site.baseurl }}/aba/#aba-f216_10), [\[§703.7.2.4]]({{ site.baseurl }}/aba/#aba-703_7_2_4)
 
 International Symbol of Access for Hearing Loss
 
@@ -1201,8 +1189,7 @@ listening devices can be acquired.
 
 Stand-alone ATM
 
-Requirements for fare machines and ATMs address display screens 
-(§707.7) and require: 
+Requirements for fare machines and ATMs address display screens (§707.7) and require: 
 
 * screens to be visible from a point 40 inches above the center of the clear floor space;
 * sans serif characters at least 3/16 inches high as based on uppercase letter “I”; and
