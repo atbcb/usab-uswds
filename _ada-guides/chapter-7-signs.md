@@ -8,13 +8,13 @@ file-description: PDF version of ADA Chapter 7 Signage Guide
 
 ## {{ page.title }}
 
-This guide explains scoping and technicalrequirements in the [ABA Standards]({{ site.baseurl }}/aba/) for signs.
+This guide explains scoping and technicalrequirements in the [ADA Standards]({{ site.baseurl }}/ada/) for signs.
 
 {% include sr-dimension-markings.html %}
 
 ### Required Compliance
 
-[\[§F216]({{ site.baseurl }}/aba/#aba-f216)]
+[\[§216]({{ site.baseurl }}/ada/#ada-216)]
 
 The Standards require accessible signs that are used to identify certain accessible elements and spaces.&nbsp;
 Other types of signs, however, including room numbers and room labels, are covered only where they are provided.&nbsp;
@@ -75,14 +75,14 @@ Each type of content provided must be evaluated to determine how the content mus
 
 Tactile requirements apply to these types of signs: 
 
-* interior and exterior signs identifying permanent rooms and spaces, where provided (§F216.2); 
-* required door labels at exit stairways, exit passageways, and exit discharge (§F216.4.1);
+* interior and exterior signs identifying permanent rooms and spaces, where provided (§216.2); 
+* required door labels at exit stairways, exit passageways, and exit discharge (§216.4.1);
 * required labels for floor levels, car controls, and emergency communication devices at elevators (§407.2.3.1, §407.2.3.2, §407.4.7.1.1, §407.4.9); and 
 * rail station identification signs at entrances and platforms or boarding areas (§810.6.1). 
 
 ### Designations of Permanent Rooms and Spaces
 
-[\[§F216.2]({{ site.baseurl }}/aba/#aba-f216_2)]
+[\[§216.2]({{ site.baseurl }}/ada/#ada-216_2)]
 
 Signs that identify permanent rooms and spaces include:
 
@@ -92,7 +92,7 @@ Signs that identify permanent rooms and spaces include:
 
 Visual and tactile requirements apply to both interior and exterior signs labeling permanent 
 rooms and spaces. However, exterior signs not located at the door to the space they serve do 
-not have to be tactile but must meet visual requirements (§F216.2, Ex. 1). 
+not have to be tactile but must meet visual requirements (§216.2, Ex. 1). 
 
 <table class="img-center">
 	<tr>
@@ -112,7 +112,7 @@ not have to be tactile but must meet visual requirements (§F216.2, Ex. 1).
 
 ### Directional and Informational Signs
 
-[\[§F216.3]({{ site.baseurl }}/aba/#aba-f216_3)]
+[\[§216.3]({{ site.baseurl }}/ada/#ada-216_3)]
 
 Signs that provide direction to or information about interior spaces and facilities must meet visual requirements but are not required to be tactile.&nbsp;
 Examples of informational signs include instructions, rules of conduct, hours of operation, and similar content.&nbsp;
@@ -138,7 +138,7 @@ These requirements apply only where such signs are provided.
 
 ### Required Accessibility Symbols
 
-[\[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)] &ndash; [\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)]
+[\[§216.5]({{ site.baseurl }}/ada/#ada-216_5)] &ndash; [\[§216.11]({{ site.baseurl }}/ada/#ada-216_11)]
 
 The Standards require certain spaces and elements be identified as accessible by providing 
 signs that include International Symbols of: 
@@ -217,14 +217,14 @@ Some information on such signs may be exempt, such as occupant names.
 
 ### Means of Egress Signs
 
-[\[§F216.4]({{ site.baseurl }}/aba/#aba-f216_4)] 
+[\[§216.4]({{ site.baseurl }}/ada/#ada-216_4)] 
 
 The Standards require that tactile and visual signs be provided to identify doors at exit stairways, exit passageways, and exit discharge.&nbsp;
 Exit passageways are horizontal fire resistance-rated components that lead to exit discharge or public ways.&nbsp;
 Exit discharge is the path from an exit to a public way.
 
 Exit labels at other locations are not required to be tactile but must meet visual requirements.&nbsp;
-Life safety and building codes address the visibility and illumination of exit signs, which can also satisfy the visual requirements in the ABA Standards.&nbsp;
+Life safety and building codes address the visibility and illumination of exit signs, which can also satisfy the visual requirements in the ADA Standards.&nbsp;
 At exit doors, the tactile requirements typically must be met on a separate sign.
 
 <table class="img-center">
@@ -279,7 +279,7 @@ At exit doors, the tactile requirements typically must be met on a separate sign
 </table>
 
 Directional signs, including those for means of egress, required by the applicable life safety code, must comply with the visual requirements for information and directional signs (§703.5).&nbsp;
-In addition, directions to accessible means of egress required by the International Building Code(IBC) must meet visual criteria (§F216.4.3).&nbsp;
+In addition, directions to accessible means of egress required by the International Building Code(IBC) must meet visual criteria (§216.4.3).&nbsp;
 
 <figure class="img-grid-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
@@ -315,14 +315,14 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 			 class="img-right" />
 	<figcaption class="clear">
 		Instructions on using the area of refuge under emergency conditions must be posted under the IBC [§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
-		These instructions must meet requirements for visual characters in the ABA Standards (§F216.4.2) but are not required to be tactile.&nbsp;
+		These instructions must meet requirements for visual characters in the ADA Standards (§216.4.2) but are not required to be tactile.&nbsp;
 		The IBC specifies the content for these signs.
   </figcaption>
 </figure>
 
 #### Elevator Signs and Labels
 
-[\[§407]({{ site.baseurl }}/aba/#aba-407)]
+[\[§407]({{ site.baseurl }}/ada/#ada-407)]
 ![Elevator button panel with detail showing low contrast floor level sign with tactile number 2 and braille]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/elevator_buttons.png){: .img-grid-right }
 
 The Standards require tactile signs (and, in some cases, symbols) at elevators, including labels for: 
@@ -335,13 +335,13 @@ The Standards require tactile signs (and, in some cases, symbols) at elevators, 
 For signs at elevators, most of the criteria for raised and braille characters apply, but there are differences.&nbsp;
 For example, raised characters can be at least 2 inches high on hoistway floor level signs,
 and tactile content on control panels can be located outside the standard 48 inches – 60 inches mounting height.&nbsp;
-See [Elevators and Platform Lifts Guide]({{ site.baseurl }}/aba/guides/chapter-4-elevators-and-platform-lifts/) for more information.
+See [Elevators and Platform Lifts Guide]({{ site.baseurl }}/ada/guides/chapter-4-elevators-and-platform-lifts/) for more information.
 
 ### Technical Requirements for Tactile Characters
 
 #### Raised Characters
 
-[\[§703.2]({{ site.baseurl }}/aba/#aba-703_2)] 
+[\[§703.2]({{ site.baseurl }}/ada/#ada-703_2)] 
 
 Criteria for raised characters address: depth, case, style, character height and proportions, stroke thickness, and line and character spacing.
 
@@ -426,7 +426,7 @@ Raised character height must be from 1/2 inch minimum to 2 inches maximum. Where
 
 #### Finish and Contrast
 
-[\[§703.5.1]({{ site.baseurl }}/aba/#aba-703_5_1)] 
+[\[§703.5.1]({{ site.baseurl }}/ada/#ada-703_5_1)] 
 
 When a single set of characters is used to meet requirements for raised and visual characters, the characters and their background must have a non-glare finish.&nbsp;
 Characters must contrast with their background with either light-on-dark or dark-on-light.&nbsp;
@@ -450,7 +450,7 @@ Finish and contrast requirements do not apply to braille.
 
 #### Braille
 
-[\[§703.3]({{ site.baseurl }}/aba/#aba-703_3)] 
+[\[§703.3]({{ site.baseurl }}/ada/#ada-703_3)] 
 
 The content of raised characters also must be provided in contracted or “Grade 2” braille.&nsbp;
 This type of braille uses the same characters as standard braille but also includes characters to represent common words and letter combinations.&bnsp;
@@ -494,7 +494,7 @@ End image notes.
 
 #### Pictograms
 
-[\[§703.6]({{ site.baseurl }}/aba/#aba-703_6)] ![Men's restroom sign with pictogram with dimension lines identifying pictogram field and location of raised characters and braille.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/12.jpg){: .img-right }
+[\[§703.6]({{ site.baseurl }}/ada/#ada-703_6)] ![Men's restroom sign with pictogram with dimension lines identifying pictogram field and location of raised characters and braille.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/12.jpg){: .img-right }
 
 Begin image notes. \
 6″ min height of pictogram field. \
@@ -541,7 +541,7 @@ Examples of these types of pictograms include the International Symbol of Access
 	
 #### Installation Height and Location
 
-[\[§703.4]({{ site.baseurl }}/aba/#aba-703_4)]
+[\[§703.4]({{ site.baseurl }}/ada/#ada-703_4)]
 														 
 Raised characters and braille on signs must be located 48 inches minimum above the finish floor or ground surface, measured from the baseline of the lowest tactile character, and 60 inches maximum above the finish floor or ground surface, measured from the baseline of the highest tactile character.&nbsp;
 This location is convenient for tactile reading.
@@ -635,7 +635,7 @@ If each door has an active leaf, the sign must be located to the right of the do
 
 ### Technical Requirements for Characters
 
-[\[§703.5]({{ site.baseurl }}/aba/#aba-703_5)] 
+[\[§703.5]({{ site.baseurl }}/ada/#ada-703_5)] 
 
 Specifications for visual characters cover finish and contrast, case, style, character proportion and height, stroke thickness, and line and character spacing. 
 
@@ -813,7 +813,7 @@ Signs above circulation paths must provide the required 80 inches minimum headro
 
 ### Post-Mounted Signs
 
-[\[§307.3]({{ site.baseurl }}/aba/#aba-307_3)] 
+[\[§307.3]({{ site.baseurl }}/ada/#ada-307_3)] 
 
 Signs and other objects mounted on posts or pylons that have leading edges of 27 inches to 80 inches high cannot protrude more than 12 inches into circulation paths.&nbsp;
 The 12-inch limit also applies to the clearance between multiple posts, excluding the sloping portions of handrails.
@@ -860,14 +860,14 @@ End image notes.
 
 ### Signs at Transportation Facilities
 
-[\[§810.4]({{ site.baseurl }}/aba/#aba-810_4)], [\[§810.6]({{ site.baseurl }}/aba/#aba-810_6)] 
+[\[§810.4]({{ site.baseurl }}/ada/#ada-810_4)], [\[§810.6]({{ site.baseurl }}/ada/#ada-810_6)] 
 
 The requirements for signs apply fully to all types of transportation facilities subject to the Standards.&nbsp;
 The Standards also include some exceptions or requirements specific to signs at bus stops and rail stations.
 
 #### Bus Route Signs
 
-[\[§810.4]({{ site.baseurl }}/aba/#aba-810_4)] ![Sign post: metrobus, G6 G8 G10 T60]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/26.png){: .img-right }{: .thumbnail }
+[\[§810.4]({{ site.baseurl }}/ada/#ada-810_4)] ![Sign post: metrobus, G6 G8 G10 T60]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/26.png){: .img-right }{: .thumbnail }
 
 Signs that identify bus routes must comply with requirements for visual characters (§703.5), except those for the minimum location height (40 inches) and line spacing.&nbsp;
 Additionally, because the size of these signs is often limited, compliance with the minimum character height is required to the maximum 
@@ -876,7 +876,7 @@ Signs providing bus schedules, timetables, or maps are exempt from the sign requ
 
 #### Rail Station Signs
 
-[\[§810.6]({{ site.baseurl }}/aba/#aba-810_6)]
+[\[§810.6]({{ site.baseurl }}/ada/#ada-810_6)]
 
 ![train icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/29.png){: .img-right }{: .thumbnail }
 
@@ -917,56 +917,16 @@ area signs (§810.6).
 
 ### Amusement Ride Signs
 
-[\[§F216.12]({{ site.baseurl }}/aba/#aba-f216_12)]
+[\[§216.12]({{ site.baseurl }}/ada/#ada-216_12)]
 
 The Standards address access to amusement rides and include requirements for signs.&nbsp;
 Some amusement rides may accommodate wheeled mobility aids while others require transfer to a seat.&nbsp;
 The Standards require signs at entries to queues and waiting lines to identify the type of access provided by a ride.&nbsp;
 Signs indicating the location of the accessible load and unload areas must be provided at entries to queues and waiting lines.
 
-![Trailhead sign with hiker pictogram, trail name, length, elevation change, grade, cross slope, tread width, and surface type]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/rim_ridge_trail.png){: .img-grid-right }{: .clear }
-
-### Trailhead Signs
-
-[\[§F216.13]({{ site.baseurl }}/aba/#aba-f216_13)]
-
-Begin image notes. \
-RIM RIDGE TRAIL: \
-Length, 15.3 mi (24.6 km); \
-Elevation Gain, 1420 (433m); \
-Elevation Loss, 3166 (965m). \
-GRADE: \
-Typical Grade, 4.7%; \
-Maximum Grade, 11%. \
-CROSS SLOPE: \
-Typical Cross Slope, 2%; \
-Maximum Cross Slope, 5%. \
-TREAD WIDTH: \
-Typical Width, 60 in (76 cm); \
-Minimum Width, 36 in (45 cm); \
-SURFACE: \
-Surface Type, Compacted Stone. \
-End image notes.
-{: .usa-sr-only }
-
-The ABA Standards include requirements for outdoor developed areas on federal lands, including trails, camp sites, and picnic areas.&nbsp;
-This requirement applies to new trailhead information signs regardless of whether the newly constructed or altered trail complies with the technical requirements for trails.
-
-Where new trail information signs are provided at trailheads for use by hikers or pedestrians, they must include: 
-
-* the length of the trail or trail segment;
-* surface type;
-* typical and minimum tread width; and
-* typical and maximum running slope and cross slope.
-
-If trail information signs designate the name of the trail, only the name of the trail is required to comply with §703.5.&nbsp;
-The ISA is not required on trail signs.
-
-<br class="clear" />
-
 ### Symbols of Accessibility
 
-[\[§703.7]({{ site.baseurl }}/aba/#aba-703_7)]
+[\[§703.7]({{ site.baseurl }}/ada/#ada-703_7)]
 
 Symbols required by the Standards to label accessible features and spaces must:
 
@@ -983,7 +943,7 @@ Written content is not required or addressed, except in the case of van accessib
 
 #### International Symbol of Accessibility
 
-[\[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)] &ndash; [\[§F216.8]({{ site.baseurl }}/aba/#aba-f216_8)], [\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)], [\[§703.7.2.1]({{ site.baseurl }}/aba/#aba-703_7_2_1)]
+[\[§216.5]({{ site.baseurl }}/ada/#ada-216_5)] &ndash; [\[§216.8]({{ site.baseurl }}/ada/#ada-216_8)], [\[§216.11]({{ site.baseurl }}/ada/#ada-216_11)], [\[§703.7.2.1]({{ site.baseurl }}/ada/#ada-703_7_2_1)]
 
 The Standards reference the International Symbol of Accessibility (ISA),
 a long-standing global icon adopted by the International Organization for Standardization
@@ -1002,19 +962,21 @@ The ISA must be used to label, or provide direction to, these elements and space
 
 #### Use of Alternatives to the ISA 
 
-Any departure from the ABA Standards, including the referenced ISA, requires a waiver or 
-modification (§F103). The agencies that implement the ABA Standards have authority to grant 
-modifications and waivers on a case-by-case basis where “clearly necessary.” Modifications 
-and waivers are rare and are usually considered only in unique circumstances that make 
-compliance with certain provisions exceptionally problematic. The Access Board is responsible 
-for making sure that modifications and waivers are based on findings of fact and are consistent 
-with the ABA.
+Where the ADA Standards require accessible spaces or elements to be identified by the
+ISA (or the other designated international symbols), the ISA must be used even if a state or
+local code or regulation specifies a different symbol.&nbsp; Use of a symbol other than the ISA is
+permitted under the ADA Standards if it satisfies the equivalent facilitation provision (§103).&nbsp; 
+This provision allows alternatives to prescribed requirements only if they result in “substantially
+equivalent or greater accessibility and usability.”&nbsp; The burden of proof in demonstrating
+equivalent facilitation rests with the covered entity in the event of a legal challenge.&nbsp;
+Accessibility labels not required by the Standards, such as surface decals at parking spaces,
+are not required to comply or conform to the ISA.
 
-The Access Board provides more information in its [Guidance on the International Symbol of Accessibility]({{ site.baseurl }}/aba/guides/guidance-on-the-isa/).
+The Access Board provides more information in its [Guidance on the International Symbol of Accessibility]({{ site.baseurl }}/ada/guides/guidance-on-the-isa/).
 
 ### Entrances
 
-[\[§F216.6]({{ site.baseurl }}/aba/#aba-f216_6)]
+[\[§216.6]({{ site.baseurl }}/ada/#ada-216_6)]
 
 <figure class="img-right">
 	<table>
@@ -1046,7 +1008,7 @@ If all entrances are accessible, these labels and directional signs are not requ
 
 #### Toilet Rooms and Bathing Rooms
 
-[\[§F213.2]({{ site.baseurl }}/aba/#aba-f213_2)], [\[§F213.2]({{ site.baseurl }}/aba/#aba-f216_8)]
+[\[§213.2]({{ site.baseurl }}/ada/#ada-213_2)], [\[§213.2]({{ site.baseurl }}/ada/#ada-216_8)]
 
 Where all toilet rooms and bathing rooms are accessible, which is often the case in new 
 construction, designation by the ISA is not required. However, in areas where not all toilet or 
@@ -1077,14 +1039,14 @@ Pictograms that identify restrooms and other permanent rooms or spaces (where pr
 
 #### Check-out Aisles
 
-[\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)]
+[\[§216.11]({{ site.baseurl }}/ada/#ada-216_11)]
 
 Compliant check-out aisles must be labelled by the ISA unless all aisles serving the same function are accessible.&nbsp;
 The sign indicating accessibility must be in the same location as any other signs that identify check-out aisles by number, letter, or function.
 
 #### Existing Elevators
 
-[\[§F216.7]({{ site.baseurl }}/aba/#aba-f216_7)]
+[\[§216.7]({{ site.baseurl }}/ada/#ada-216_7)]
 
 If a facility has existing elevators that do not meet the Standards, compliant elevators must be labelled by the ISA.
 
@@ -1092,7 +1054,7 @@ If a facility has existing elevators that do not meet the Standards, compliant e
 
 #### Parking Signs
 
-[\[§F216.5]({{ site.baseurl }}/aba/#aba-f216_5)], [\[§502.6]({{ site.baseurl }}/aba/#aba-502_6)]
+[\[§216.5]({{ site.baseurl }}/ada/#ada-216_5)], [\[§502.6]({{ site.baseurl }}/ada/#ada-502_6)]
 
 Begin image notes. \
 60″ minimum dimensioned height from ground to bottom of sign. \
@@ -1100,19 +1062,19 @@ At bottom is super-imposed ISA sign reading: Van Accessible. \
 End image notes.
 {: .usa-sr-only }
 
-Accessible parking spaces must be identified by signs with the ISA. The 
-bottom edge of each sign must be at least 60 inches high measured from 
-the ground surface so that they are visible while vehicles are parked in a 
-space. These signs can be on posts, walls, or suspended from ceilings. 
-ISA designations on the parking surface, even if required by a state or 
-local government, cannot substitute for above-ground signs. State or 
-local codes and regulations may address other sign characteristics, 
-including size, color, and additional content, such as “reserved” or 
-violation fines, but the ABA Standards do not require such characteristics.
+Accessible parking spaces must be identified by signs with the ISA.&nbsp; The
+bottom edge of each sign must be at least 60 inches high measured from
+the ground surface so that they are visible while vehicles are parked in a
+space.&nbsp; These signs can be on posts, walls, or suspended from ceilings.&nbsp;
+ISA designations on the parking surface, even if required by a state or
+local government, cannot substitute for above-ground signs. State or
+local codes and regulations may address other sign characteristics,
+including size, color, and additional content, such as “reserved” or
+violation fines, but the ADA Standards do not require such characteristics.
 
 Signs identifying van spaces must include the term “van accessible.” 
 This designation is informative and not restrictive in identifying spaces 
-suitable for vans since such spaces are not limited to only vans. It can be 
+suitable for vans since such spaces are not limited to only vans.&nbsp; It can be 
 included on the main designation sign or provided on a separate sign.
 
 ![Multi-story parking garage]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/32.png){: .img-grid-right }{: .clear }
@@ -1121,14 +1083,14 @@ included on the main designation sign or provided on a separate sign.
 
 ###### Parking Facilities
 
-[(§F216.1)]({{ site.baseurl }}/aba/#aba-f216_1), Ex. 2)
+[(§216.1)]({{ site.baseurl }}/ada/#ada-216_1), Ex. 2)
 
-Parking facilities are subject only to provisions for parking space signs (§F216.5) and means of egress (§F216.4).&nbsp;
+Parking facilities are subject only to provisions for parking space signs (§216.5) and means of egress (§216.4).&nbsp;
 No other sign requirements apply.
 
 ###### Sites with under 5 Spaces Total
 
-[(§F216.5)]({{ site.baseurl }}/aba/#aba-f216_5), Ex. 1)
+[(§216.5)]({{ site.baseurl }}/ada/#ada-216_5), Ex. 1)
 
 If a total of 4 or fewer (inaccessible and accessible) parking spaces is provided on a site, 
 the required accessible space must comply but does not have to be identified by a sign 
@@ -1138,7 +1100,7 @@ the required accessible space must comply but does not have to be identified by 
 
 ###### Residential Facilities
 
-[(§F216.5)]({{ site.baseurl }}/aba/#aba-f216_5), Ex. 2)
+[(§216.5)]({{ site.baseurl }}/ada/#ada-216_5), Ex. 2)
 
 At residential facilities, identification of accessible spaces is not required where spaces are assigned to specific dwelling units.
 
@@ -1146,7 +1108,7 @@ At residential facilities, identification of accessible spaces is not required w
 
 #### International Symbol of TTY
 
-[\[§F216.9]({{ site.baseurl }}/aba/#aba-f216_9)], [\[§703.7.2.2]({{ site.baseurl }}/aba/#aba-703_7_2_2)
+[\[§216.9]({{ site.baseurl }}/ada/#ada-216_9)], [\[§703.7.2.2]({{ site.baseurl }}/ada/#ada-703_7_2_2)
 
 Some public payphones, where provided, must be equipped with TTYs 
 to provide communication access for people with hearing or speech 
@@ -1161,7 +1123,7 @@ International Symbol of TTY and meet visual criteria in the Standards.
 
 #### International Symbol of Access for Hearing Loss
 
-[\[§F216.10]({{ site.baseurl }}/aba/#aba-f216_10)], [\[§703.7.2.4]({{ site.baseurl }}/aba/#aba-703_7_2_4)
+[\[§216.10]({{ site.baseurl }}/ada/#ada-216_10)], [\[§703.7.2.4]({{ site.baseurl }}/ada/#ada-703_7_2_4)
 
 Signs with the International Symbol of Access for Hearing Loss and 
 compliant with the visual criteria are required to indicate the availability of 
@@ -1189,9 +1151,9 @@ Requirements for fare machines and ATMs address display screens (§707.7) and re
 #### Electronic Sign Systems and Audible Sign Technologies
 
 Electronic signs that stream or scroll content, also known as variable message signs (VMS), 
-pose unique accessibility considerations. New “talking sign” technologies, such as remote 
+pose unique accessibility considerations.&nbsp; New “talking sign” technologies, such as remote 
 infrared audible sign (RIAS) systems, provide additional means of making sign content 
-accessible. The ABA Standards do not address these technologies. However, recent editions 
+accessible. The ADA Standards do not address these technologies. However, recent editions 
 of the ICC A117.1 accessibility standard, which is referenced by the IBC, provide specifications 
 on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
@@ -1449,7 +1411,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
 ##### Are signs labeling rooms and spaces with numbers or names required by the Standards?
 
-No, the ABA Standards do not require signs labeling rooms and spaces. However, if such 
+No, the ADA Standards do not require signs labeling rooms and spaces. However, if such 
 signs are provided, they must comply with the requirements. The Standards do require some 
 facilities and spaces, such as toilet rooms and bathing rooms, to be identified by the ISA, 
 unless all are accessible. The Standards also specify that certain exit doors be labelled as 
@@ -1554,7 +1516,7 @@ partition, except where it is permitted to be on the door.
 
 Yes, the Braille Authority of North America (BANA) made Unified English Braille (UEB) the 
 official braille of the U.S in 2016. UEB is contracted (Grade 2) braille, although it has some 
-differences from the previous English Braille American Edition. For purposes of the ABA 
+differences from the previous English Braille American Edition. For purposes of the ADA 
 Standards, UEB is acceptable as Grade 2 braille.
 
 ##### Which content on braille signs must be capitalized? 
@@ -1627,14 +1589,18 @@ codes address the visibility and illumination of exit signs.
 
 ##### Are alternatives to, or variations of, the International Symbol of Accessibility (ISA) permitted?
 
-The Standards require use of the ISA to label or provide direction to certain accessible spaces 
-and elements, including entrances, toilet and bathing facilities, and check-out aisles (unless all 
-are accessible). A symbol other than the specified ISA will not comply with the Standards. Any 
-departure from the ABA Standards requires a waiver or modification (§F103). The agencies 
-that implement the ABA Standards have authority to grant modifications and waivers on a 
-case-by-case basis where “clearly necessary” (§F103). This applies only where use of the ISA 
-is required by the Standards. On other signs not mandated by the Standards, compliance with 
-the specified ISA is not required.
+The Standards require use of the ISA to label or provide direction to certain accessible
+spaces and elements, including entrances, toilet and bathing facilities, and check-out aisles
+(unless all are accessible).&nbsp; A symbol other than the specified ISA will not comply with the
+Standards unless it satisfies the “equivalent facilitation” provision (§103).&nbsp; This provision
+allows alternatives to prescribed requirements if they result in “substantially equivalent or
+greater accessibility and usability.”&nbsp; The burden of proof in demonstrating equivalent facilitation
+rests with the covered entity in the event of a legal challenge.&nsbp; Under DOT’s ADA Standards,
+certain entities responsible for transportation facilities and systems, as well as manufacturers
+of products and vehicles used in transportation systems, can request a determination of
+equivalent facilitation from DOT as outlined in its ADA regulations (§37.7 and §37.9).&nbsp; This
+applies only where use of the ISA is required by the Standards. On other signs not mandated
+by the Standards, compliance with the specified ISA is not required.
 
 ##### Does the ISA include borders around the icon?
 
