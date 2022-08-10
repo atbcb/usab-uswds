@@ -1005,8 +1005,6 @@ The ISA must be used to label, or provide direction to, these elements and space
 
 #### Use of Alternatives to the ISA 
 
-
-
 Any departure from the ABA Standards, including the referenced ISA, requires a waiver or 
 modification (§F103). The agencies that implement the ABA Standards have authority to grant 
 modifications and waivers on a case-by-case basis where “clearly necessary.” Modifications 
@@ -1015,41 +1013,41 @@ compliance with certain provisions exceptionally problematic. The Access Board i
 for making sure that modifications and waivers are based on findings of fact and are consistent 
 with the ABA.
 
-The Access Board provides more information in its Guidance on the International Symbol of 
-Accessibility.
+The Access Board provides more information in its [Guidance on the International Symbol of 
+Accessibility]({{ site.baseurl }}/aba/guides/guidance-on-the-isa/).
 
 ### Entrances
 
 [\[§F216.6]({{ site.baseurl }}/aba/#aba-f216_6)]
 
-White ISA on blue background with arrow and words "use C street entrance"
-White ISA on blue background with arrow
-caption: Directional signs can be as 
-simple as the ISA with an arrow, 
-but additional content, while not 
-required, can be helpful.
+<figure class="img-right">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}International_Symbol_of_Accessability_-_text_02.png"
+			 alt="White ISA on blue background with arrow and words: Use C Street Entrance."
+			 style="padding-right:1em" />
+	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_arrow.png"
+			 alt="White ISA on blue background with arrow pointing right." />
+<figcaption>
+	Directional signs can be as simple as the ISA with an arrow,
+	but additional content, while not required, can be helpful.
+</figcaption>
+</figure>
 
-If a facility has inaccessible entrances, the ISA must identify 
-compliant entrances. At inaccessible entrances, directional 
-signs meeting the visual requirements (§703.5) must be 
-provided to indicate the nearest compliant entrance. If all 
-entrances are accessible, these labels and directional signs 
-are not required. 
+If a facility has inaccessible entrances, the ISA must identify compliant entrances.&nbsp;
+At inaccessible entrances, directional signs meeting the visual requirements (§703.5) must be provided to indicate the nearest compliant entrance.&nbsp;
+If all entrances are accessible, these labels and directional signs are not required. 
 
-Recommendation: 
-While the Standards do 
-not specify the location of 
-directional signs at 
-inaccessible entrances, 
-they should be placed to 
-prevent or minimize 
-back-tracking.
-
-sign located at fork in path leading to different entrances. Sign has ISA and directs towards entrance with ramp.
+{% include recommendation-1img.html
+	text="While the Standards do not specify the location of directional signs at inaccessible entrances, they should be placed to prevent or minimize back-tracking."
+	img-file="chapter7/signs/outdoor_sign.png"
+	img-alt="ISA sign located at fork in path leading to different entrances of building. Wider straight path leads to stairs beyond ISA sign, which has arrow pointing right towards entrance with ramp."
+%}
 
 #### Toilet Rooms and Bathing Rooms
 
 [\[§F213.2]({{ site.baseurl }}/aba/#aba-f213_2)], [\[§F213.2]({{ site.baseurl }}/aba/#aba-f216_8)]
+
+
+
 
 Where all toilet rooms and bathing rooms are accessible, which is often the case in new 
 construction, designation by the ISA is not required. However, in areas where not all toilet or 
@@ -1058,8 +1056,7 @@ toilets (where at least 5% must comply) and clustered single user toilet rooms o
 (where at least 50% must comply), the ISA must be used to identify those units and rooms that 
 are accessible. 
 
-In alterations to existing facilities where existing toilet or bathing rooms do not comply, the ISA 
-must be provided to: 
+In alterations to existing facilities where existing toilet or bathing rooms do not comply, the ISA must be provided to: 
 
 * identify those rooms that are accessible; and 
 * provide direction to the nearest compliant toilet or bathing room. 
