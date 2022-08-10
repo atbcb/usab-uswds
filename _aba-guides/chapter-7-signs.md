@@ -828,7 +828,7 @@ Begin image notes. \
 End image notes.
 {: .usa-sr-only }
 
-![Sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/27.jpg){: .img-right }
+![Sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/22.jpg){: .img-right }
 
 Begin image notes. \
 27 inch – 80 inch height to bottom of sign \
@@ -840,7 +840,7 @@ End image notes.
 Post-mounted signs with leading edges 27 inches maximum or above 80 inches can protrude any amount from posts or pylons.
 {: .clear }
 
-![Low sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/22.jpg){: .img-left }
+![Low sign mounted to two posts with dimension lines identifying height from finish floor to bottom of sign, distance from edge of sign to post, and distance between posts.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/25.jpg){: .img-left }
 
 Begin image notes. \
 27″ max height to bottom of sign \
@@ -919,7 +919,9 @@ area signs (§810.6).
 
 [\[§F216.12]({{ site.baseurl }}/aba/#aba-f216_12)]
 
-![Bumper Cars attraction with ramp and stairs leading to boarding area. Signs indicate direction of accessible route and need to transfer from wheelchair.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/bumpercars.png)
+![Bumper Cars attraction with ramp and stairs leading to boarding area. Signs indicate direction of accessible route and need to transfer from wheelchair.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/bumpercars.png){: .img-right }
+
+
 
 The Standards address access to amusement rides and include requirements for signs.&nbsp;
 Some amusement rides may accommodate wheeled mobility aids while others require transfer to a seat.&nbsp;
@@ -930,7 +932,10 @@ Signs indicating the location of the accessible load and unload areas must be pr
 
 [\[§F216.13]({{ site.baseurl }}/aba/#aba-f216_13)]
 
-![Trailhead sign with hiker pictogram, trail name, length, elevation change, grade, cross slope, tread width, and surface type]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/rim_ridge_trail.png){: img-right }
+![Trailhead sign with hiker pictogram, trail name, length, elevation change, grade, cross slope, tread width, and surface type]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/rim_ridge_trail.png){: .img-grid-right }
+
+
+
 
 Begin image notes. \
 RIM RIDGE TRAIL: \
@@ -963,7 +968,7 @@ Where new trail information signs are provided at trailheads for use by hikers o
 
 If trail information signs designate the name of the trail,
 only the name of the trail is required to comply with §703.5.&nbsp;
-The ISA is not required on trail signs. 
+The ISA is not required on trail signs.
 
 <br class="clear" />
 
@@ -986,7 +991,7 @@ Written content is not required or addressed, except in the case of van accessib
 
 ![White ISA on black background]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_black.png){: .img-right }{: .thumbnail }
 
-![Black ISA on white background]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_White.png){: .img-right }{: .thumbnail }
+![Black ISA on white background]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_White.png){: .img-right }{: .thumbnail }{: .clear }
 
 The Standards reference the International Symbol of Accessibility (ISA),
 a long-standing global icon adopted by the International Organization for Standardization
@@ -1021,16 +1026,23 @@ Accessibility]({{ site.baseurl }}/aba/guides/guidance-on-the-isa/).
 [\[§F216.6]({{ site.baseurl }}/aba/#aba-f216_6)]
 
 <figure class="img-right">
-	<img src="{{ site.baseurl }}{{ page.image-directory }}International_Symbol_of_Accessability_-_text_02.png"
-			 alt="White ISA on blue background with arrow and words: Use C Street Entrance."
-			 style="padding-right:1em" />
-	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_arrow.png"
-			 alt="White ISA on blue background with arrow pointing right." />
-<figcaption>
-	Directional signs can be as simple as the ISA with an arrow,
-	but additional content, while not required, can be helpful.
-</figcaption>
+	<table>
+		<tr>
+			<td>
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_text_02.png"
+						 alt="White ISA on blue background with arrow and words: Use C Street Entrance." />
+			</td>
+			<td>
+				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_arrow.png"
+						 alt="White ISA on blue background with arrow pointing right." />
+			</td>
+		</tr>
+		<figcaption>
+			Directional signs can be as simple as the ISA with an arrow, but additional content, while not required, can be helpful.
+		</figcaption>
 </figure>
+
+
 
 If a facility has inaccessible entrances, the ISA must identify compliant entrances.&nbsp;
 At inaccessible entrances, directional signs meeting the visual requirements (§703.5) must be provided to indicate the nearest compliant entrance.&nbsp;
