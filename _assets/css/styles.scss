@@ -326,9 +326,7 @@ div.advisory p.last {
   margin-bottom: -0.5em;
 }
 
-// create class that combines about page img classes
-.bold,
-dt {
+.bold, dt {
   font-weight: bold;
 }
 .shadow {
@@ -578,9 +576,9 @@ a.style-inherit:focus>div.gray-to-color {
 }
 
 // add shading to even rows in data tables -- does not seem to be working
-table.data tbody tr:nth-child(even) {
- background-color: #f2f2f2;
-} // zebra stripping by default
+// table.data tbody tr:nth-child(even) {
+// background-color: #f2f2f2;
+// } // zebra stripping by default
 
 // data table, 1st col is th, center td
 table.data tbody tr td, table.data thead tr th {
@@ -589,6 +587,10 @@ table.data tbody tr td, table.data thead tr th {
 table.data tbody tr th, table.data tfoot tr td, table.data tbody tr td ul li, table.data tbody tr td ol li, {
 	text-align: left;
 }
+table.data th { // should not be necessary
+	font-weight: bold; }
+}
+
 // layout table
 table.layout td {
 	text-align: center;
