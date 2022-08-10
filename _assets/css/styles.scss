@@ -582,6 +582,13 @@ table.data tr:nth-child(even) {
  background-color: #f2f2f2;
 } // zebra stripping by default
 
+// data table, 1st col is th, center td
+table.data tbody td, table.data thead th {
+	text-align: center;
+}
+table.data tbody th, table.data tfooot td, table.data tbody td li, {
+	text-align: left;
+}
 // layout table
 table.layout td {
 	text-align: center;
