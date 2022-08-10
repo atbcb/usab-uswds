@@ -1213,7 +1213,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
     <tr>
       <th scope="col">Sign</th>
       <th scope="col">Tactile<br />
-				(§703.2–703.4)</th>
+				(§703.2 - 703.4)</th>
       <th scope="col">Visual<br />
 				(§703.5)</th>
       <th scope="col">Pictogram<br />
@@ -1300,9 +1300,9 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 				<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/International_Symbol_of_Accessability_-_black1.png"
 						 alt="icon: wheelchair"
 						 class="img-grid-right" />
-				International Symbol of Accessibility
+				International Symbol of Accessibility *
 			</th>
-      <td>§216.5 – §216.8, §216.11</td>
+      <td>§216.5-§216.8, §216.11</td>
       <td>
 				<ul>
           <li>Finish &amp; Contrast §703.7.1</li>
@@ -1421,23 +1421,23 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
     </tr>
     <tr>
       <th scope="row">Character Proportion</th>
-      <td>“O” 55% – 110% of “I” height</td>
-      <td>“O” 55% – 110% of “I” height</td>
+      <td>“O” 55%-110% of “I” height</td>
+      <td>“O” 55%-110% of “I” height</td>
     </tr>
     <tr>
       <th scope="row">Character Spacing</th>
-      <td>10% – 35% of the character height</td>
+      <td>10%-35% of the character height</td>
       <td>1/8” – 4x stroke width &Dagger;</td>
     </tr>
     <tr>
       <th scope="row">Stroke Thickness</th>
-      <td>10% – 30% of “I” height</td>
+      <td>10%-30% of “I” height</td>
       <td>15% max. of “I” height</td>
     </tr>
     <tr>
       <th scope="row">Line Spacing</th>
-      <td>135% – 170% of character height</td>
-      <td>135% – 170% of character height</td>
+      <td>135%-170% of character height</td>
+      <td>135%-170% of character height</td>
     </tr>
     <tr>
       <th scope="row">Height above finish floor or ground</th>
