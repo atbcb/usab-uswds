@@ -1131,11 +1131,11 @@ violation fines, but the ABA Standards do not require such characteristics.
 Signs identifying van spaces must include the term “van accessible.” 
 This designation is informative and not restrictive in identifying spaces 
 suitable for vans since such spaces are not limited to only vans. It can be 
-included on the main designation sign or provided on a separate sign. 
+included on the main designation sign or provided on a separate sign.
 
 ##### Parking Sign Exceptions
 
-![Multi-story parking garage]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/32.png)
+![Multi-story parking garage]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/32.png){: .img-grid-right }
 
 ###### Parking Facilities
 
@@ -1157,14 +1157,16 @@ the required accessible space must comply but does not have to be identified by 
 
 [(§F216.5)]({{ site.baseurl }}/aba/#aba-f216_5), Ex. 2)
 
+![house icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/33.jpg){: .img-right }{: .thumbnail }
+
 At residential facilities, identification of accessible spaces is not required where 
-spaces are assigned to specific dwelling units. 
+spaces are assigned to specific dwelling units.
 
 #### International Symbol of TTY
 
 [\[§F216.9]({{ site.baseurl }}/aba/#aba-f216_9)], [\[§703.7.2.2]({{ site.baseurl }}/aba/#aba-703_7_2_2)
 
-International Symbol of TTY
+![International Symbol of TTY]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_phone1.png){: .img-right }{: .thumbnail }
 
 Some public payphones, where provided, must be equipped with TTYs 
 to provide communication access for people with hearing or speech 
@@ -1179,7 +1181,7 @@ International Symbol of TTY and meet visual criteria in the Standards.
 
 [\[§F216.10]]({{ site.baseurl }}/aba/#aba-f216_10), [\[§703.7.2.4]]({{ site.baseurl }}/aba/#aba-703_7_2_4)
 
-International Symbol of Access for Hearing Loss
+![International Symbol of Access for Hearing Loss]({ site.baseurl }}{{ page.image-directory }}chapter7/signs/Hearing_Loss_and_TTY_-_ear1.png){: .img-right }{: .thumbnail }
 
 Signs with the International Symbol of Access for Hearing Loss and 
 compliant with the visual criteria are required to indicate the availability of 
@@ -1194,13 +1196,16 @@ listening devices can be acquired.
 
 #### Display Screens 
 
-Stand-alone ATM
+![Stand-alone ATM photo.](){: .img-grid-right }
 
 Requirements for fare machines and ATMs address display screens (§707.7) and require: 
 
 * screens to be visible from a point 40 inches above the center of the clear floor space;
 * sans serif characters at least 3/16 inches high as based on uppercase letter “I”; and
 * light-on-dark or dark-on-light contrast between the characters and the background. 
+
+
+
 
 #### Electronic Sign Systems and Audible Sign Technologies
 
