@@ -578,15 +578,15 @@ a.style-inherit:focus>div.gray-to-color {
 }
 
 // add shading to even rows in data tables -- does not seem to be working
-table.data tr:nth-child(even) {
+table.data tbody tr:nth-child(even) {
  background-color: #f2f2f2;
 } // zebra stripping by default
 
 // data table, 1st col is th, center td
-table.data tbody td, table.data thead th {
+table.data tbody tr td, table.data thead tr th {
 	text-align: center;
 }
-table.data tbody th, table.data tfooot td, table.data tbody td li, {
+table.data tbody tr th, table.data tfoot tr td, table.data tbody tr td ul li, table.data tbody tr td ol li, {
 	text-align: left;
 }
 // layout table
