@@ -294,17 +294,14 @@ Required by the IBC in some buildings, areas of refuge must provide direct acces
 Signs labeling areas of refuge must be tactile since they designate a permanent space.
 
 <figure class="img-large clear">
-	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
-       alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
-			 class="img-left" />
+	<img src="{{ site.baseurl }}{{ page.image-directory }}egress_instructions.png"
+       alt="Sign with quote Push for Help unquote in tactile and braille characters next to EMERGENCY PHONE.  Additional instructions are only in visual characters. "/>
 <p class="usa-sr-only">
 		Begin image notes.
 		PUSH FOR HELP sign continutes: In the event of an emergency, push the help button for evacuation assistance.<br />
     Persons able to use the exit stairway do so as soon as possible, unless they are assisting others.<br />
     Wait here for assistance.<br />
     Calls may take several minutes.
-</p>
-<p class="usa-sr-only">
     Red speaker grill with EMERGENCY PHONE in large white letters.<br />
     Indicator lamp labled quote call connected unquote.<br />
     Large button labled with picture of telephone hand seet and quote push for HELP unquote.<br />
