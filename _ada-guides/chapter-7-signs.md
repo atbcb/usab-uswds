@@ -294,28 +294,25 @@ Required by the IBC in some buildings, areas of refuge must provide direct acces
 Signs labeling areas of refuge must be tactile since they designate a permanent space.
 
 <figure class="img-large clear">
-	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
-       alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
-			 class="img-left img-bottom" />
-	<p class="usa-sr-only">
+	<img src="{{ site.baseurl }}{{ page.image-directory }}egress_instructions.png"
+       alt="Sign with quote Push for Help unquote in tactile and braille characters next to EMERGENCY PHONE.  Additional instructions are only in visual characters. "/>
+<p class="usa-sr-only">
 		Begin image notes.
 		PUSH FOR HELP sign continutes: In the event of an emergency, push the help button for evacuation assistance.<br />
     Persons able to use the exit stairway do so as soon as possible, unless they are assisting others.<br />
     Wait here for assistance.<br />
     Calls may take several minutes.
-	</p>
-	<p class="usa-sr-only">
     Red speaker grill with EMERGENCY PHONE in large white letters.<br />
     Indicator lamp labled quote call connected unquote.<br />
     Large button labled with picture of telephone hand seet and quote push for HELP unquote.<br />
 		End image notes.
-	</p>
+</p>
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/communication_device-01.png"
 			 alt="Emergency Phone Call Box"
-			 class="img-right img-bottom" />
+			 class="img-right" />
 	<figcaption class="clear">
 		Instructions on using the area of refuge under emergency conditions must be posted under the IBC [§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
-		These instructions must meet requirements for visual characters in the ADA Standards (§216.4.2) but are not required to be tactile.&nbsp;
+		These instructions must meet requirements for visual characters in the ABA Standards (§F216.4.2) but are not required to be tactile.&nbsp;
 		The IBC specifies the content for these signs.
   </figcaption>
 </figure>
