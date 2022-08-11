@@ -296,7 +296,7 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 <figure class="img-large clear">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/PushForHelp-01.png"
        alt="Sign with quote Push for Help unquote in tactile and braille characters.  Additional instructions are only in visual characters."
-			 class="img-left img-top" />
+			 class="img-left img-bottom" />
 	<p class="usa-sr-only">
 		Begin image notes.
 		PUSH FOR HELP sign continutes: In the event of an emergency, push the help button for evacuation assistance.<br />
@@ -312,7 +312,7 @@ Signs labeling areas of refuge must be tactile since they designate a permanent 
 	</p>
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/communication_device-01.png"
 			 alt="Emergency Phone Call Box"
-			 class="img-right img-top" />
+			 class="img-right img-bottom" />
 	<figcaption class="clear">
 		Instructions on using the area of refuge under emergency conditions must be posted under the IBC [§1007.6.4 (2003) or §1003.2.13.5.4 (2000)].&nbsp;
 		These instructions must meet requirements for visual characters in the ADA Standards (§216.4.2) but are not required to be tactile.&nbsp;
@@ -633,7 +633,7 @@ If each door has an active leaf, the sign must be located to the right of the do
 
 Specifications for visual characters cover finish and contrast, case, style, character proportion and height, stroke thickness, and line and character spacing. 
 
-![Sign, visitors must sign in, with only visual characters.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visual_character_req.png){: img-center }
+![Sign, visitors must sign in, with only visual characters.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visual_character_req.png){: .img-center }
 
 Begin image notes. \
 Upper or lowercase characters (or combination of both), conventional form (prohibited: italic, oblique, script, highly decorative or other unusual forms). \
