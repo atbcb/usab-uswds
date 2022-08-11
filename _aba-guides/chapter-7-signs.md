@@ -8,7 +8,7 @@ file-description: PDF version of ABA Chapter 7 Signage Guide
 
 ## {{ page.title }}
 
-This guide explains scoping and technicalrequirements in the [ABA Standards]({{ site.baseurl }}/aba/) for signs.
+This guide explains scoping and technical requirements in the [ABA Standards]({{ site.baseurl }}/aba/) for signs.
 
 {% include sr-dimension-markings.html %}
 
@@ -279,7 +279,7 @@ At exit doors, the tactile requirements typically must be met on a separate sign
 </table>
 
 Directional signs, including those for means of egress, required by the applicable life safety code, must comply with the visual requirements for information and directional signs (§703.5).&nbsp;
-In addition, directions to accessible means of egress required by the International Building Code(IBC) must meet visual criteria (§F216.4.3).&nbsp;
+In addition, directions to accessible means of egress required by the International Building Code (IBC) must meet visual criteria (§F216.4.3).&nbsp;
 
 <figure class="img-grid-right">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Exit-AoR-01.png"
@@ -430,8 +430,7 @@ Raised character height must be from 1/2 inch minimum to 2 inches maximum. Where
 
 When a single set of characters is used to meet requirements for raised and visual characters, the characters and their background must have a non-glare finish.&nbsp;
 Characters must contrast with their background with either light-on-dark or dark-on-light.&nbsp;
-A minimum level of color contrast is not specified, but the higher the contrast, the better, especially for people with low vision.&nsbp;
-Finish and contrast requirements do not apply to braille. 
+A minimum level of color contrast is not specified, but the higher the contrast, the better, especially for people with low vision. Finish and contrast requirements do not apply to braille. 
 
 <figure class="img-left">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Family_Restroom_braille.png"
@@ -452,10 +451,7 @@ Finish and contrast requirements do not apply to braille.
 
 [\[§703.3]({{ site.baseurl }}/aba/#aba-703_3)] 
 
-The content of raised characters also must be provided in contracted or “Grade 2” braille.&nsbp;
-This type of braille uses the same characters as standard braille but also includes characters to represent common words and letter combinations.&bnsp;
-Braille is read with a light sweeping touch, and braille dots must be domed or rounded.&nbsp;
-The Standards specify the height and diameter of dots and their spacing within and between cells. 
+The content of raised characters also must be provided in contracted or “Grade 2” braille. This type of braille uses the same characters as standard braille but also includes characters to represent common words and letter combinations. Braille is read with a light sweeping touch, and braille dots must be domed or rounded. The Standards specify the height and diameter of dots and their spacing within and between cells. 
 
 <figure class="img-center">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/Reading_Sign.png"
@@ -554,11 +550,7 @@ Dimensions: 48″ min height to braille baseline. \
 End image notes.
 {: .usa-sr-only }
 
-A clear floor space 18 inches minimum by 18 inches minimum must be centered on the tactile characters.&nbsp;
-This placement of the clear floor space provides unobstructed standing space at the sign for reading by touch. This space must be free of any protrusions to a height of 80 inches.&bnsp;
-For safety, the space must be located beyond the arc of any door swing to a 45° open position.&nbsp;
-This effectively sets a minimum, but not an absolute, distance of tactile signs from out-swinging doors.&nbsp;
-While the clear floor space must be centered on the tactile characters, signs can be located varying distances beyond the door swing.
+A clear floor space 18 inches minimum by 18 inches minimum must be centered on the tactile characters. This placement of the clear floor space provides unobstructed standing space at the sign for reading by touch. This space must be free of any protrusions to a height of 80 inches. For safety, the space must be located beyond the arc of any door swing to a 45° open position. This effectively sets a minimum, but not an absolute, distance of tactile signs from out-swinging doors. While the clear floor space must be centered on the tactile characters, signs can be located varying distances beyond the door swing.
 
 <figure class="img-left">
 	<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/16.jpg"
@@ -646,26 +638,26 @@ End image notes.
 
 <table class="layout">
 	<tr>
-		<td colspan="3">
+		<td colspan="5">
 			Upper or lowercase characters (or combination of both), conventional form<br />
-			(prohibited: italic, oblique, script, highly decorative, or other unusual forms).
+			(prohibited: italic, oblique, script, highly decorative, or other unusual forms)
 		</td>
 	</tr>
 	<tr>
-		<td rowspan="3" colspan="2">
+		<td rowspan="3" colspan="4">
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in-01.png" alt="Sign, visitors must sign in, with only visual characters." />
 		</td>
 		<td>
 			Line spacing:<br />
 			135% – 170% of<br />
-			character height.
+			character height
 		</td>
 	</tr>
 	<tr>
 		<td>
 			Characters 40&Prime;<br />
 			min. above finish<br />
-			floor or ground.
+			floor or ground
 		</td>
 	</tr>
 	<tr>
@@ -676,12 +668,12 @@ End image notes.
 		</td>
 	</tr>
 	<tr>
-		<td>
-			Non-glare finish.
+		<td colspan="2">
+			Non-glare finish
 		</td>
-		<td>
+		<td colspan="3">
 			Light-on-dark or dark-on-light contrast<br />
-			between characters and the background.
+			between characters and the background
 		</td>
 	</tr>
 </table>
@@ -884,7 +876,7 @@ Signs providing bus schedules, timetables, or maps are exempt from the sign requ
 
 ![train icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/29.png){: .img-right }{: .thumbnail }
 
-##### Entrances
+*Entrances*
 
 If signs are provided to identify the rail stations or station entrances, a tactile sign 
 (§703.2) providing this information is required at each entrance. The tactile signs 
@@ -893,7 +885,7 @@ lacks a defined entrance, at least one tactile sign must be provided in a centra
 location. In other facilities, exterior signs not located at the entrance or door they 
 serve are not required to be tactile.
 
-##### Platform or Boarding Area Signs
+*Platform or Boarding Area Signs*
 
 In addition, at least one tactile station identification sign is required on each platform or 
 boarding area. Requirements for visual characters apply to signs at boarding areas, platforms, 
@@ -902,13 +894,13 @@ route maps. These types of signs must be uniformly located within the transit sy
 maximum extent feasible. Visual characters are not required to exceed 3 inches where sign 
 space is limited. 
 
-##### Station Names
+*Station Names*
 
 The Standards also require the provision of signs labelling stations that meet the visual 
 requirements (§703.5). These signs must be clearly visible from within vehicles on both sides 
 (when not obstructed by another vehicle) and within passenger sight lines.
 
-##### Audible Technology as an Alternative to Signs
+*Audible Technology as an Alternative to Signs*
 
 Audible or “talking” sign systems and technologies that use infrared or other means to transmit 
 information otherwise provided on signs may provide greater accessibility in the transit 
@@ -1077,11 +1069,11 @@ The ISA must meet finish and contrast criteria but not requirements for the fiel
 
 Pictograms that identify restrooms and other permanent rooms or spaces (where provided) must be on a field at least 6″ high, meet finish and contrast criteria, and have tactile text descriptors below the field.
 
-![Grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/01_-_just_counters.png){: .img-grid-right } {: .clear }
-
 #### Check-out Aisles
 
 [\[§F216.11]({{ site.baseurl }}/aba/#aba-f216_11)]
+
+![Grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/01_-_just_counters.png){: .img-grid-right } {: .clear }
 
 Compliant check-out aisles must be labelled by the ISA unless all aisles serving the same function are accessible.&nbsp;
 The sign indicating accessibility must be in the same location as any other signs that identify check-out aisles by number, letter, or function.
@@ -1150,7 +1142,7 @@ At residential facilities, identification of accessible spaces is not required w
 
 #### International Symbol of TTY
 
-[\[§F216.9]({{ site.baseurl }}/aba/#aba-f216_9)], [\[§703.7.2.2]({{ site.baseurl }}/aba/#aba-703_7_2_2)
+[\[§F216.9]({{ site.baseurl }}/aba/#aba-f216_9)], [\[§703.7.2.2]({{ site.baseurl }}/aba/#aba-703_7_2_2)]
 
 Some public payphones, where provided, must be equipped with TTYs 
 to provide communication access for people with hearing or speech 
@@ -1165,7 +1157,7 @@ International Symbol of TTY and meet visual criteria in the Standards.
 
 #### International Symbol of Access for Hearing Loss
 
-[\[§F216.10]({{ site.baseurl }}/aba/#aba-f216_10)], [\[§703.7.2.4]({{ site.baseurl }}/aba/#aba-703_7_2_4)
+[\[§F216.10]({{ site.baseurl }}/aba/#aba-f216_10)], [\[§703.7.2.4]({{ site.baseurl }}/aba/#aba-703_7_2_4)]
 
 Signs with the International Symbol of Access for Hearing Loss and 
 compliant with the visual criteria are required to indicate the availability of 
@@ -1451,7 +1443,7 @@ on VMS and RIAS (§703.7 and §703.8 in the 2009 and 2017 editions).
 
 #### General
 
-##### Are signs labeling rooms and spaces with numbers or names required by the Standards?
+##### *Are signs labeling rooms and spaces with numbers or names required by the Standards?*
 
 No, the ABA Standards do not require signs labeling rooms and spaces. However, if such 
 signs are provided, they must comply with the requirements. The Standards do require some 
@@ -1459,24 +1451,24 @@ facilities and spaces, such as toilet rooms and bathing rooms, to be identified 
 unless all are accessible. The Standards also specify that certain exit doors be labelled as 
 exits. 
 
-##### Are building names or addresses required to comply?
+##### *Are building names or addresses required to comply?*
 
 No, building names and addresses are not required to comply. Signs identifying suite, room, or 
 dwelling unit numbers are required to comply.
 
-##### Are signs provided in areas not used by the public required to comply? 
+##### *Are signs provided in areas not used by the public required to comply?*
 
 In general, signs provided in areas not used by the public are required to comply. In detention 
 and correctional facilities, signs not located in public use areas are not required to comply.
 
-##### If a sign repeats information in another language, must those characters comply as well?
+##### *If a sign repeats information in another language, must those characters comply as well?*
 
 If a sign repeats information in other languages, only the English content must comply with 
 these requirements. If a sign is only written in a language other than English, that sign must 
 comply to the maximum extent feasible. The Standards do not address requirements for 
 character sets or braille for languages other than English.
 
-##### Can tactile characters and visual characters be provided separately on different signs?
+##### *Can tactile characters and visual characters be provided separately on different signs?*
 
 Yes, tactile characters and visual characters can be provided on separate signs (or separately 
 on the same sign). Visual characters provided separately must comply with all applicable 
@@ -1485,14 +1477,14 @@ provided must comply with all applicable requirements for raised and braille cha
 they are exempt from finish and contrast requirements and are permitted smaller cap heights 
 (1/2 inch instead of 5/8 inch minimum).
 
-##### Are redundant signs required to comply if a compliant sign is provided?
+##### *Are redundant signs required to comply if a compliant sign is provided?*
 
 No, redundant signs provided in addition to compliant signs are not required to meet the 
 Standards.
 
 #### Tactile Signs
 
-##### What types of signs are considered designations of “permanent rooms and spaces?”
+##### *What types of signs are considered designations of “permanent rooms and spaces?”*
 
 Signs identifying permanent rooms and spaces pertain to designations, labels, or names 
 for rooms and spaces that are unlikely to change over time or without significant alteration. 
@@ -1502,14 +1494,14 @@ signs labelling permanent rooms and spaces, such as motel rooms and park restroo
 However, exterior signs not located at the door to the spaces they serve do not have to be 
 tactile.
 
-##### Does additional information that is included on a sign intended for custodial staff need to also be tactile? 
+##### *Does additional information that is included on a sign intended for custodial staff need to also be tactile?* 
 
 Secondary room numbers or designations intended for maintenance or custodial staff that 
 are provided in addition to general room numbers or names are not required to be tactile, but 
 they must meet criteria for visual characters (§703.5). Tactile requirements apply to names or 
 numbers that serve as the main or only designation of a room or space.
 
-##### Are all exit doors required to be labelled by tactile signs?
+##### *Are all exit doors required to be labelled by tactile signs?*
 
 No, tactile labels are required only at doors at exit stairways, exit passageways, and exit 
 discharge. Exit passageways are horizontal fire-resistance-rated components that lead to 
@@ -1517,25 +1509,25 @@ exit discharge or public ways. Exit discharge is the path from an exit to a publ
 a sidewalk. Exit labels at other locations, including those required by life safety and building 
 codes, must meet visual requirements in the Standards, but not those for tactile characters.
 
-##### Do raised characters need to meet all criteria for visual characters? 
+##### *Do raised characters need to meet all criteria for visual characters?* 
 
 To be visually accessible, raised characters only have to meet requirements for finish and 
 contrast (§703.5.1). However, visual characters provided separately from raised characters 
 must fully meet all applicable provisions for visual characters (§703.5). 
 
-##### Can tactile signs be placed on doors?
+##### *Can tactile signs be placed on doors?*
 
 Tactile signs can be placed only on the push side of those doors that are equipped with closers 
 and do not have a hold-open device.
 
-##### What constitutes “hold-open devices” in determining whether a tactile sign can be placed on a door?
+##### *What constitutes “hold-open devices” in determining whether a tactile sign can be placed on a door?*
 
 “Hold-open devices” pertains to devices that are fixed to doors and/or walls to keep the door 
 in an open position. Examples include door stops mounted to doors, wall-mounted hooks, 
 or similar hardware and magnetic products that keep doors in an open position. Non-fixed 
 devices, such as moveable door stops, do not constitute “hold-open devices.”
 
-##### Where should tactile signs be placed at doorways without doors?
+##### *Where should tactile signs be placed at doorways without doors?*
 
 The Standards do not specify the location of tactile signs at doorways without doors. Tactile 
 signs at doorways without doors should be located close to the doorway so that they are easy 
@@ -1545,7 +1537,7 @@ do not have a latch side for reference. Where a door has two active leaves, the 
 located to the right of the doorway or, if wall space is insufficient at this location, on the nearest 
 adjacent wall.
 
-##### Where are tactile signs to be mounted at doors with a vision panel or sidelight on the latch side or at doors located in glass partitions? 
+##### *Where are tactile signs to be mounted at doors with a vision panel or sidelight on the latch side or at doors located in glass partitions?* 
 
 Tactile signs may be mounted next to, or on, vision panels and sidelights located on the latch 
 side of the door so long as the required 18” by 18” minimum clear floor space centered on the 
@@ -1554,28 +1546,28 @@ Signs also can be mounted on the push side doors with closers that do not have h
 devices. If a door is located in a glass partition, then the sign must be mounted on the glass 
 partition, except where it is permitted to be on the door. 
 
-##### Is Unified English Braille acceptable as “Grade 2 Braille”?
+##### *Is Unified English Braille acceptable as “Grade 2 Braille”?*
 
 Yes, the Braille Authority of North America (BANA) made Unified English Braille (UEB) the 
 official braille of the U.S in 2016. UEB is contracted (Grade 2) braille, although it has some 
 differences from the previous English Braille American Edition. For purposes of the ABA 
 Standards, UEB is acceptable as Grade 2 braille.
 
-##### Which content on braille signs must be capitalized? 
+##### *Which content on braille signs must be capitalized?* 
 
 The first word of sentences, proper nouns and names, individual letters of the alphabet, initials, 
 and acronyms are the only items that are to be capitalized on braille signs. No other items are 
 to be capitalized on braille signs, regardless of what may be capitalized on equivalent printed 
 signs.
 
-##### Can the 18-inch by 18-inch clear floor space required at tactile signs be offset from the wall or sign? 
+##### *Can the 18-inch by 18-inch clear floor space required at tactile signs be offset from the wall or sign?* 
 
 The clear floor space required at tactile signs can be offset from the wall or sign surface to 
 accommodate limited protrusions, such as base molding. Other elements or protrusions that 
 would offset this clear floor space more significantly are not allowed because they may impede 
 a person's ability to read signs tactilely.
 
-##### Must braille be placed below all raised characters?
+##### *Must braille be placed below all raised characters?*
 
 Braille must be located below the corresponding text; if the text is multi-lined, then braille 
 must be located below the entire text.&nbsp; If there are multiple blocks of text on a sign, then braille 
@@ -1584,37 +1576,37 @@ raised characters.
 
 #### Visual Signs
 
-##### Are any colors specified for signs?
+##### *Are any colors specified for signs?*
 
 No, the Standards do not specify any colors for signs. The Standards only require that 
 characters contrast from their background either light-on-dark or dark-on-light. 
 
-##### Why isn’t a minimum level of color contrast between characters and the background specified in the Standards?
+##### *Why isn’t a minimum level of color contrast between characters and the background specified in the Standards?*
 
 Color contrast is based on a color’s light reflectance value (LFV), which measures the amount 
 of a light a color reflects or absorbs.&nbsp; It is typically measured using a spectrophotometer. 
 Measuring LFV accurately in the field can be difficult and is impacted by a variety of factors, 
 including sign materials and lighting conditions.
 
-##### For character height, what determines the horizontal viewing distance?
+##### *For character height, what determines the horizontal viewing distance?*
 
 The horizontal viewing distance is the distance from the sign to a fixed obstruction that 
 prevents a closer approach to the sign.
 
-##### What are the requirements for the content of directional signs indicating the location of the nearest accessible facility (e.g., restroom, entrance, etc.)? 
+##### *What are the requirements for the content of directional signs indicating the location of the nearest accessible facility (e.g., restroom, entrance, etc.)?* 
 
 The Standards require that the sign include the ISA but do not specify or require other content.&nbsp; 
 Directional signs can be as simple as the ISA and a directional arrow, but additional content 
 may be helpful. 
 
-##### Can directional signs be located on the ground or floor? 
+##### *Can directional signs be located on the ground or floor?* 
 
 Directional signs, including those required to indicate the location of accessible entrances and 
 other accessible features and spaces, must comply with requirements for visual signs and be 
 located at least 40 inches above the ground or floor. Redundant signs can be located on the 
 floor or ground or in other non-compliant locations. 
 
-##### Can visual characters (e.g., room numbers, “men” and “women,” etc.) be arranged vertically in a column instead of horizontally in a line or row?
+##### *Can visual characters (e.g., room numbers, “men” and “women,” etc.) be arranged vertically in a column instead of horizontally in a line or row?*
 
 The Standards do not prohibit arrangement of characters vertically, but this design is not 
 recommended.&nbsp; If visual or raised characters are arranged vertically, they must meet all 
@@ -1622,14 +1614,14 @@ requirements, including height and line spacing.&nbsp; Braille characters must n
 vertically because it would be difficult to decipher some braille words if the braille contractions 
 are stacked instead of arranged horizontally.
 
-##### Do the Standards address illumination levels at signs?
+##### *Do the Standards address illumination levels at signs?*
 
 No, the Standards do not address illumination levels at or of signs. Life safety and building 
 codes address the visibility and illumination of exit signs. 
 
 #### Pictograms
 
-##### Are alternatives to, or variations of, the International Symbol of Accessibility (ISA) permitted?
+##### *Are alternatives to, or variations of, the International Symbol of Accessibility (ISA) permitted?*
 
 The Standards require use of the ISA to label or provide direction to certain accessible spaces 
 and elements, including entrances, toilet and bathing facilities, and check-out aisles (unless all 
@@ -1640,18 +1632,18 @@ case-by-case basis where “clearly necessary” (§F103). This applies only whe
 is required by the Standards. On other signs not mandated by the Standards, compliance with 
 the specified ISA is not required.
 
-##### Does the ISA include borders around the icon?
+##### *Does the ISA include borders around the icon?*
 
 No, the specified ISA does not include a border around the image.
 
-##### Do pictograms labelling permanent rooms and spaces need to be raised?
+##### *Do pictograms labelling permanent rooms and spaces need to be raised?*
 
 No, pictograms are not required to be raised. Pictograms that label permanent rooms and 
 spaces must include text descriptors in raised and braille characters below the pictogram field, 
 which must be at least 6 inches high. In addition, pictograms must meet finish and contrast 
 requirements.
 
-##### Do all pictograms need to be on a field at least 6 inches high and have tactile text descriptors?
+##### *Do all pictograms need to be on a field at least 6 inches high and have tactile text descriptors?*
 
 No, the specifications for field height and text descriptors apply only to those pictograms that 
 label a permanent room or space, where provided. Examples include pictograms designating 
@@ -1662,7 +1654,7 @@ symbols must meet finish and contrast criteria).
 
 #### Parking 
 
-##### Are signs for accessible parking required individually at each accessible parking space? 
+##### *Are signs for accessible parking required individually at each accessible parking space?* 
 
 The Standards require parking spaces to be identified by the ISA, but they do not specifically 
 require one sign for each space. Under the Standards, it may be possible to label multiple 
@@ -1670,7 +1662,7 @@ spaces with a sign so long as it is clear which spaces are designated as accessi
 
 #### Other Types of Signs
 
-##### Are variable message signs or electric signs addressed by the Standards?
+##### *Are variable message signs or electric signs addressed by the Standards?*
 
 The Standards do not address variable message signs or electric signs. However, the ICC 
 A117.1 Standard for Accessible and Usable Buildings and Facilities, which is referenced by 
