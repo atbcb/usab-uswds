@@ -97,6 +97,7 @@ fieldset button {
   margin-top:.5em;
 }
 
+// Oxford list style
 ol li ol li {
   list-style-type: lower-alpha;
 }
@@ -119,6 +120,17 @@ ol li ol li ol li {
   display: block;
   clear: both;
   content: " ";
+}
+
+figure figcaption {
+	text-align:center;
+	font-size:smaller;
+	font-style:oblique;
+}
+figure img {
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
 }
 
 // table styles for Performance and Accountability Report
@@ -259,7 +271,7 @@ td ul.check {
   }
 }
 
-//usa hero custom styling
+// usa hero custom styling
 @media (min-width: 40em) {
   .usa-hero__callout {
   max-width: 30rem;
@@ -310,9 +322,7 @@ div.advisory p.last {
   margin-bottom: -0.5em;
 }
 
-// create class that combines about page img classes
-.bold,
-dt {
+.bold, dt {
   font-weight: bold;
 }
 .shadow {
@@ -350,30 +360,40 @@ dt {
   max-width: 50%;
   border: thin inset;
 }
+.img-top {
+	vertical-align: text-top;
+}
+.img-bottom {
+	vertical-align: text-bottom;
+}
 .img-grid {
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 50%;
-  display: block;
 }
 .img-grid-left {
+  display: block;
   margin-left: auto;
   margin-right: auto;
   width: 40%;
-  display: block;
   padding-top: 20px;
+}
+.img-grid-right {
+  display: block;
+	float: right;
+  margin: 1rem 0rem 1rem 2rem;
+  max-width: 33%;
 }
 .grid-line {
   display: block;
   text-align: center;
 }
-
 // overide grid-line-left with text-left display-block instead
 .grid-line-left {
   display: block;
   text-align: left;
 }
-
 .img-small {
   width: 20%;
 }
@@ -439,20 +459,6 @@ dt {
 .sticky:after {
   content: '';
   display: table;
-}
-
-// add shading to even rows in data tables -- does not seem to be working
-
-table.data tr:nth-child(even) {
- background-color: #f2f2f2;
-} // zebra stripping by default
-// layout tables used in ict preamble
-table.layouttable {
-  border-collapse: collapse;
-}
-table.layouttable,
-table.layouttable tr {
-  border: 1px solid black;
 }
 
 // default mode hide banner
@@ -562,6 +568,35 @@ a.style-inherit:focus>div.gray-to-color {
 .filmstrip {
   background: repeating-linear-gradient(45deg, #ffe11a, #ffe11a 50%, #fd7400 50%, #fd7400);
   background-size: 20px 20px;
+}
+
+// add shading to even rows in data tables -- does not seem to be working
+// table.data tbody tr:nth-child(even) {
+// background-color: #f2f2f2;
+// } // zebra stripping by default
+
+// data table, 1st col is th, center td
+table.data tbody tr td, table.data thead tr th {
+	text-align: center;
+}
+table.data tbody tr th, table.data tfoot tr td, table.data tbody tr td ul li, table.data tbody tr td ol li {
+	text-align: left;
+}
+table.data th { // should not be necessary
+	font-weight: bold;
+}
+
+// layout table
+table.layout td {
+	text-align: center;
+  font-style: oblique;
+}
+// layout tables used in ict preamble
+table.layouttable {
+  border-collapse: collapse;
+}
+table.layouttable tr td {
+border: 1px solid black;
 }
 
 // custom colors
