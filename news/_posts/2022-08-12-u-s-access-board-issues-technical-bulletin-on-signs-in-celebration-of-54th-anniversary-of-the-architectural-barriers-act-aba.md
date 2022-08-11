@@ -12,7 +12,7 @@ excerpt: The U.S. Access Board has published a technical bulletin on accessible
   disabilities. The law requires that . . .
 featured: true
 ---
-The U.S. Access Board has published a technical bulletin on accessible signage that covers the requirements for signs in Chapter 7: Communication Elements and Features of the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards. The bulletin includes both the ADA Technical Guide to Signs and the ABA Technical Guide to Signs, both of which address signs for designations of rooms and spaces, international symbols of accessibility, raised characters, finish and contrast, Grade 2 braille, visual character spacing and height, locations of signs at facilities, and other spaces and elements. The bulletin also answers common questions on tactile signs, visual signs, and pictograms. Vivid and detailed graphics of compliant signage are included to illustrate how various requirements can be met. 
+The U.S. Access Board has published a technical bulletin on accessible signage that covers the requirements for signs in Chapter 7: Communication Elements and Features of the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards. The bulletin includes both the [ADA Technical Guide to Signs](https://www.access-board.gov/ada/guides/chapter-7-signs/) and the [ABA Technical Guide to Signs](https://www.access-board.gov/aba/guides/chapter-7-signs/), both of which address signs for designations of rooms and spaces, international symbols of accessibility, raised characters, finish and contrast, Grade 2 braille, visual character spacing and height, locations of signs at facilities, and other spaces and elements. The bulletin also answers common questions on tactile signs, visual signs, and pictograms. Vivid and detailed graphics of compliant signage are included to illustrate how various requirements can be met. 
 
 This technical bulletin is the latest installment to the Board’s online guide to the ADA and ABA Standards, which currently covers the first six chapters. The Board also provided a webinar covering accessible signage on February 3, 2022, along with the [Accessible Signage webinar presentation materials](https://www.accessibilityonline.org/ao/archives/110982) that are available in the archive. 
 
@@ -31,8 +31,8 @@ The Board enforces the ABA through the investigation of complaints. Individuals 
 3. Fax to (202) 272-0081; or 
 4. Mail to: 
 
->> Compliance and Enforcement Section \
->> Office of the General Counsel \
->> U.S. Access Board \
->> 1331 F Street NW, Suite 1000 \
->> Washington, DC  20004-1111
+> > Compliance and Enforcement Section \
+> > Office of the General Counsel \
+> > U.S. Access Board \
+> > 1331 F Street NW, Suite 1000 \
+> > Washington, DC  20004-1111
