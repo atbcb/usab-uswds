@@ -646,13 +646,13 @@ End image notes.
 
 <table class="layout">
 	<tr>
-		<td colspan="5">
+		<td colspan="3">
 			Upper or lowercase characters (or combination of both), conventional form<br />
 			(prohibited: italic, oblique, script, highly decorative, or other unusual forms).
 		</td>
 	</tr>
 	<tr>
-		<td rowspan="3" colspan="4">
+		<td rowspan="3" colspan="2">
 			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in-01.png" alt="Sign, visitors must sign in, with only visual characters." />
 		</td>
 		<td>
@@ -676,10 +676,10 @@ End image notes.
 		</td>
 	</tr>
 	<tr>
-		<td colspan="2">
+		<td>
 			Non-glare finish.
 		</td>
-		<td colspan="3">
+		<td>
 			Light-on-dark or dark-on-light contrast<br />
 			between characters and the background.
 		</td>
