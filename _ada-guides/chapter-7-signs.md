@@ -1554,14 +1554,14 @@ codes address the visibility and illumination of exit signs.
 
 The Standards require use of the ISA to label or provide direction to certain accessible
 spaces and elements, including entrances, toilet and bathing facilities, and check-out aisles
-(unless all are accessible).&nbsp; A symbol other than the specified ISA will not comply with the
-Standards unless it satisfies the “equivalent facilitation” provision (§103).&nbsp; This provision
+(unless all are accessible). A symbol other than the specified ISA will not comply with the
+Standards unless it satisfies the “equivalent facilitation” provision (§103). This provision
 allows alternatives to prescribed requirements if they result in “substantially equivalent or
-greater accessibility and usability.”&nbsp; The burden of proof in demonstrating equivalent facilitation
-rests with the covered entity in the event of a legal challenge.&nsbp; Under DOT’s ADA Standards,
+greater accessibility and usability.” The burden of proof in demonstrating equivalent facilitation
+rests with the covered entity in the event of a legal challenge. Under DOT’s ADA Standards,
 certain entities responsible for transportation facilities and systems, as well as manufacturers
 of products and vehicles used in transportation systems, can request a determination of
-equivalent facilitation from DOT as outlined in its ADA regulations (§37.7 and §37.9).&nbsp; This
+equivalent facilitation from DOT as outlined in its ADA regulations (§37.7 and §37.9). This
 applies only where use of the ISA is required by the Standards. On other signs not mandated
 by the Standards, compliance with the specified ISA is not required.
 
