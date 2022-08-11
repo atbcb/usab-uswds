@@ -631,52 +631,17 @@ If each door has an active leaf, the sign must be located to the right of the do
 
 Specifications for visual characters cover finish and contrast, case, style, character proportion and height, stroke thickness, and line and character spacing. 
 
-Begin images notes. \
-Follows is an example sign and required characteristics. \
+![Sign, visitors must sign in, with only visual characters.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visual_character_req.png){: .img-center }
+
+Begin image notes. \
+Upper or lowercase characters (or combination of both), conventional form (prohibited: italic, oblique, script, highly decorative or other unusual forms). \
+Line spacing: 135% – 170% of character height. \
+Characters 40" min. above finish floor or ground. \
+Character height (based on viewing distance). \
+Non-glare finish. \
+Light-on-dark or dark-on-light contrast between characters and the background. \
 End image notes.
 {: .usa-sr-only }
-
-<table class="layout">
-	<tr>
-		<td colspan="5">
-			Upper or lowercase characters (or combination of both), conventional form<br />
-			(prohibited: italic, oblique, script, highly decorative, or other unusual forms)
-		</td>
-	</tr>
-	<tr>
-		<td rowspan="3" colspan="4">
-			<img src="{{ site.baseurl }}{{ page.image-directory }}chapter7/signs/visitor_sign_in-01.png" alt="Sign, visitors must sign in, with only visual characters." />
-		</td>
-		<td>
-			Line spacing:<br />
-			135% – 170% of<br />
-			character height
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Characters 40&Prime;<br />
-			min. above finish<br />
-			floor or ground
-		</td>
-	</tr>
-	<tr>
-		<td>
-			Character height<br />
-			(based on<br />
-			viewing distance).
-		</td>
-	</tr>
-	<tr>
-		<td colspan="2">
-			Non-glare finish
-		</td>
-		<td colspan="3">
-			Light-on-dark or dark-on-light contrast<br />
-			between characters and the background
-		</td>
-	</tr>
-</table>
 
 Characters must contrast with their background with either light-on-dark or dark-on-light and have a non-glare finish.&nbsp;
 A minimum level of contrast is not specified in the Standards.&nbsp;
