@@ -23,8 +23,6 @@ This publication on accessible signage coincides with the 54th anniversary of th
 
 The ABA covers a wide range of facilities, including U.S. post offices, Veterans Affairs medical facilities, national parks, Social Security Administration offices, federal office buildings, U.S. courthouses, and federal prisons. It also applies to non-government facilities that have received federal funding, such as certain schools, public housing, and mass transit systems. 
 
-The Board was created to develop and enforce design requirements for facilities covered by the ABA. In 2004, the Board updated its ADA-ABA Accessibility Guidelines. On September 26, 2013, the Board issued a [supplement to the ABA Accessibility Guidelines on outdoor developed areas](https://www.regulations.gov/document?D=ATBCB-2009-0006-0085), which became part of the ABA Standards sixty days later. In 2014, the Board published a [supplement to the ADA and ABA Accessibility Guidelines on emergency transportable housing](https://www.regulations.gov/document?D=ATBCB-2012-0004-0039). 
-
 The Board enforces the ABA through the investigation of complaints. Individuals may file an ABA complaint using the Access Board’s Online ABA Complaint Form or by email, fax, or mail. Receipt of complaints filed by fax or mail will be delayed due to circumstances related to COVID-19. 
 
 1. [Online ABA Complaint Form](https://cts.access-board.gov/formsiq/form.do?form_name=ABA%20Complaint%20Form%20-%20Facility%20Information); 
