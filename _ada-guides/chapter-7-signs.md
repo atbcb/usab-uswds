@@ -993,7 +993,7 @@ The ISA must meet finish and contrast criteria but not requirements for the fiel
 
 Pictograms that identify restrooms and other permanent rooms or spaces (where provided) must be on a field at least 6″ high, meet finish and contrast criteria, and have tactile text descriptors below the field.
 
-![Grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/01_-_just_counters.png){: .img-grid-right } {: .clear }
+![Grocery checkout aisles with ISA beneath aisle numbers for some of the checkout counters.]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/01_-_just_counters.png){: .img-grid-right }{: .clear }
 
 #### Check-out Aisles
 
@@ -1054,7 +1054,7 @@ If a total of 4 or fewer (inaccessible and accessible) parking spaces is provide
 the required accessible space must comply but does not have to be identified by a sign 
 (i.e., reserved exclusively for use by people with disabilities). 
 
-![house icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/33.jpg){: .img-right }{: .img-small }
+![house icon]({{ site.baseurl }}{{ page.image-directory }}chapter7/signs/33.jpg){: .img-right }{: .thumbnail }
 
 ###### Residential Facilities
 
