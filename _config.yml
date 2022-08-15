@@ -106,6 +106,10 @@ primary_navigation:
         url: /ta/
       - name: Training & Webinars
         url: /webinars/
+      - name: Guidance Documents
+        url: /guidance.html
+      - name: Technical Assistance Documents
+        url: /tad/
   - name: File an ABA Complaint
     url: /enforcement/
   - name: Contact Us
