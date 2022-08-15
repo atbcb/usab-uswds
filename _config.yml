@@ -355,7 +355,7 @@ defaults:
       right-sidenav: sidenav-right-universal.html
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: mde
-    - scope:
+  - scope:
       path: ""
       type: "tad"
     values:
