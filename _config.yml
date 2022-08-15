@@ -359,8 +359,8 @@ defaults:
       path: ""
       type: "tad"
     values:
-      banner-title: "Technical Assistance Documents"
-      banner-subtitle: ""
+      banner-title: "Technical Assistance"
+      banner-subtitle: "Documents"
       collection-folder: tad
       layout: universal
       toc: /toc/auto.html
