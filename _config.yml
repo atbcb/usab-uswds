@@ -169,6 +169,9 @@ collections:
   mde:
     output: true
     permalink: /mde/:path/
+  tad:
+    output:true
+    permalink: /tad/:path/
   pvag:
     output: true
     permalink: /pvag/:path/
@@ -352,6 +355,20 @@ defaults:
       right-sidenav: sidenav-right-universal.html
       ta-text: Contact the Access Board for guidance on these standards
       ta-email-pre: mde
+    - scope:
+      path: ""
+      type: "tad"
+    values:
+      banner-title: "Technical Assistance Documents"
+      banner-subtitle: ""
+      collection-folder: tad
+      layout: universal
+      toc: /toc/auto.html
+      toc-group: tad
+      image-directory: /images/tad/
+      right-sidenav: sidenav-right-universal.html
+      ta-text: Contact the Access Board for assistance on these documents
+      ta-email-pre: ta
   - scope:
       path: ""
       type: "pvag"
