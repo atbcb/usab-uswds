@@ -257,8 +257,8 @@ defaults:
       path: ""
       type: "aba-guides"
     values:
-      banner-title: "Guide to the ABA"
-      banner-subtitle: "Accessibility Standards"
+      banner-title: "Guide to the ABA Accessibility Standards"
+      banner-subtitle: ""
       toc: /toc/auto.html
       toc-group: aba-guides
       collection-folder: aba-guides
@@ -274,8 +274,8 @@ defaults:
       path: ""
       type: "prowag"
     values:
-      banner-title: "(Proposed) Public Rights-of-Way"
-      banner-subtitle: "Accessibility Guidelines"
+      banner-title: "(Proposed) Public Rights-of-Way Accessibility Guidelines"
+      banner-subtitle: ""
       collection-folder: prowag
       layout: universal
       toc: /toc/auto.html
@@ -345,8 +345,8 @@ defaults:
       path: ""
       type: "mde"
     values:
-      banner-title: "Medical Diagnostic Equipment"
-      banner-subtitle: "Accessibility Standards"
+      banner-title: "Medical Diagnostic Equipment Accessibility Standards"
+      banner-subtitle: ""
       collection-folder: mde
       layout: universal
       toc: /toc/auto.html
@@ -373,8 +373,8 @@ defaults:
       path: ""
       type: "pvag"
     values:
-      banner-title: "(Proposed) Passenger Vessels"
-      banner-subtitle: "Accessibility Guidelines"
+      banner-title: "(Proposed) Passenger Vessels Accessibility Guidelines"
+      banner-subtitle: ""
       collection-folder: pvag
       toc: toc/auto.html
       toc-group: pvag
