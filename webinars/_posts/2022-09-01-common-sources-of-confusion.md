@@ -15,8 +15,8 @@ excerpt: Certain provisions in the ADA and ABA Accessibility Standards are prone
   webinar. Webinar attendees can earn continuing education credits.
 presenters:
   - bill-botten
-  - sarah-presley
   - bobby-stinnette
+  - scott-windley
 tags:
   - ABA
   - ADA
@@ -47,7 +47,7 @@ Certain provisions in the ADA and ABA Accessibility Standards are prone to misin
 
 [Bill Botten](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10008), Training and Technical Assistance Coordinator, Senior Accessibility Specialist, **Office of Technical and Information Services, U.S. Access Board**
 
-[Sarah Presley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778), Accessibility Specialist, **U.S. Access Board**
+[Scott Windley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10778), TA Coordinator and Senior Accessibility Specialist, Office of Technical and Information Services, **U.S. Access Board**
 
 [Bobby Stinnette](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10811&ret=Common%20Sources%20of%20Confusion), Accessibility Specialist, **U.S. Access Board**
 
