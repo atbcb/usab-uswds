@@ -109,6 +109,9 @@ This document explains requirements in the ADA Standards for washing machines an
 [PDF]({{ site.baseurl }}/files/ada/guides/saunas-ADA.pdf) (May 2022)  
 This document explains requirements in the ADA Standards for saunas and steam rooms.
 
+* [Guide to the ADA Standards: Signs]({{ site.baseurl }}/ada/guides/chapter-7-signs/) (HTML) [PDF]({{ site.baseurl }}/files/ada/guides/signs-ADA.pdf) (August 2022)   
+This document explains requirements in the ADA Standards for signs.
+
 * [Guide to the ADA Standards: Guidance on the International Symbol]({{ site.baseurl }}/ada/guides/guidance-on-the-isa) (HTML)
 [PDF]({{ site.baseurl }}/files/ada/guides/ISA-guidance.pdf) (March 2017)  
 This document explains requirements in the ADA Standards for the International Symbol of Accessibility.
@@ -240,6 +243,9 @@ This document explains requirements in the ABA Standards for washing machines an
 * [Guide to the ABA Standards: Saunas and Steam Rooms]({{ site.baseurl }}/aba/guides/chapter-6-saunas/) (HTML)
 [PDF]({{ site.baseurl }}/files/aba/guides/saunas-ABA.pdf) (May 2022)  
 This document explains requirements in the ABA Standards for saunas and steam rooms.
+
+* [Guide to the ABA Standards: Signs]({{ site.baseurl }}/aba/guides/chapter-7-signs/) (HTML) [PDF]({{ site.baseurl }}/files/aba/guides/signs-ABA.pdf) (August 2022)  
+This document explains requirements in the ABA Standards for signs.
 
 * [Outdoor Developed Areas: A Summary of Accessibility Standards for Federal Outdoor Developed Areas]({{ site.baseurl }}/aba/guides/chapter-10-outdoor/) (HTML)
 [PDF]({{ site.baseurl }}/files/aba/guides/outdoor-guide.pdf) (May 2014)  
