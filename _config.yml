@@ -106,6 +106,10 @@ primary_navigation:
         url: /ta/
       - name: Training & Webinars
         url: /webinars/
+      - name: Guidance Documents
+        url: /guidance.html
+      - name: Technical Assistance Documents
+        url: /tad/
   - name: File an ABA Complaint
     url: /enforcement/
   - name: Contact Us
@@ -165,6 +169,9 @@ collections:
   mde:
     output: true
     permalink: /mde/:path/
+  tad:
+    output: true
+    permalink: /tad/:path/
   pvag:
     output: true
     permalink: /pvag/:path/
@@ -250,8 +257,8 @@ defaults:
       path: ""
       type: "aba-guides"
     values:
-      banner-title: "Guide to the ABA"
-      banner-subtitle: "Accessibility Standards"
+      banner-title: "Guide to the ABA Accessibility Standards"
+      banner-subtitle: ""
       toc: /toc/auto.html
       toc-group: aba-guides
       collection-folder: aba-guides
@@ -267,8 +274,8 @@ defaults:
       path: ""
       type: "prowag"
     values:
-      banner-title: "(Proposed) Public Rights-of-Way"
-      banner-subtitle: "Accessibility Guidelines"
+      banner-title: "(Proposed) Public Rights-of-Way Accessibility Guidelines"
+      banner-subtitle: ""
       collection-folder: prowag
       layout: universal
       toc: /toc/auto.html
@@ -338,8 +345,8 @@ defaults:
       path: ""
       type: "mde"
     values:
-      banner-title: "Medical Diagnostic Equipment"
-      banner-subtitle: "Accessibility Standards"
+      banner-title: "Medical Diagnostic Equipment Accessibility Standards"
+      banner-subtitle: ""
       collection-folder: mde
       layout: universal
       toc: /toc/auto.html
@@ -350,10 +357,24 @@ defaults:
       ta-email-pre: mde
   - scope:
       path: ""
+      type: "tad"
+    values:
+      banner-title: "Technical Assistance Documents"
+      banner-subtitle: ""
+      collection-folder: tad
+      layout: universal
+      toc: /toc/auto.html
+      toc-group: tad
+      image-directory: /images/tad/
+      right-sidenav: sidenav-right-universal.html
+      ta-text: Contact the Access Board for assistance on these documents
+      ta-email-pre: ta
+  - scope:
+      path: ""
       type: "pvag"
     values:
-      banner-title: "(Proposed) Passenger Vessels"
-      banner-subtitle: "Accessibility Guidelines"
+      banner-title: "(Proposed) Passenger Vessels Accessibility Guidelines"
+      banner-subtitle: ""
       collection-folder: pvag
       toc: toc/auto.html
       toc-group: pvag
