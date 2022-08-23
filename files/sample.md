@@ -1,10 +1,10 @@
 ---
-title: Sample Text
+title: Example Text
 layout: page
 permalink: /files/sample.html
 ---
 
-## Type samples
+## Type Samples
 
 ### Left justified
 
@@ -60,4 +60,4 @@ That from these honored dead we take increased devotion to that cause for which 
 That we here highly resolve that these dead shall not have died in vain.
 That this nation, under God, shall have a new birth of freedom.
 And that government of the people, by the people, for the people, shall not perish from the earth.</span>
-{: style="text-align:right;text-justify:inter-word;" }
+{: .full }
