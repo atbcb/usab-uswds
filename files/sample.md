@@ -1,3 +1,9 @@
+---
+title: Sample Text
+layout: page
+permalink: /files/sample.html
+---
+
 ## Type samples
 
 ### Left justified
