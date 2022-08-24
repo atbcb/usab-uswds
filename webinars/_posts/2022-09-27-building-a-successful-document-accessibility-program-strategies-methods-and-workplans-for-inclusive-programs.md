@@ -2,7 +2,7 @@
 layout: post
 title: "Building a Successful Document Accessibility Program: Strategies,
   Methods, and Workplans for Inclusive Programs"
-date: 2022-09-27
+date: 2022-09-28
 excerpt: Accessibility programs are essential to ensuring federal agencies are
   inclusive of employees with disabilities, especially within digital work
   environments. While there is no universal method for developing effective
@@ -23,8 +23,8 @@ tags:
   - Communication & IT
   - webinar
 closed: false
-webinar-start: September 27, 2022 1:00 PM
-webinar-end: September 27, 2022 2:30 PM
+webinar-start: September 28, 2022 1:00 PM
+webinar-end: September 28, 2022 2:30 PM
 registration-link: https://www.accessibilityonline.org/cioc-508/session/?id=111014
 webinar: true
 ---
