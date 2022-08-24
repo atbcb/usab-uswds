@@ -3,13 +3,13 @@ layout: post
 title: "Building a Successful Document Accessibility Program: Strategies,
   Methods, and Workplans for Inclusive Programs"
 date: 2022-09-28
-excerpt: NOTE CHANGE OF DATE: This session has been rescheduled to September 28, 2022 in observance of Rosh Hashanah. Accessibility programs are essential to ensuring federal agencies are
+excerpt: NOTE CHANGE OF DATE--This session has been rescheduled to September 28, 2022 in observance of Rosh Hashanah. Accessibility programs are essential to ensuring federal agencies are
   inclusive of employees with disabilities, especially within digital work
   environments. While there is no universal method for developing effective
   accessibility programs, some strategies and practices are more successful than
   others. In the creation of digital documents, agencies frequently produce
   large volumes through the collaboration of many authors across federal
-  departments, offices, and units.  This session will discuss some common
+  departments, offices, and units. This session will discuss some common
   features, work processes, and evaluation and implementation actions of
   successful document accessibility programs. Presenters from Internal Revenue
   Service (IRS) and Social Security Administration (SSA) will review the
