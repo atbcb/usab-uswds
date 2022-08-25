@@ -59,5 +59,13 @@ It is rather for us to be here dedicated to the great task remaining before us.
 That from these honored dead we take increased devotion to that cause for which they gave the last full measure of devotion.
 That we here highly resolve that these dead shall not have died in vain.
 That this nation, under God, shall have a new birth of freedom.
-And that government of the people, by the people, for the people, shall not perish from the earth.</span>
+And that government of the people, by the people, for the people, shall not perish from the earth.
 {: .full }
+
+### Exercises
+
+1.  Are any of the three easier or harder to read as compared to the others?
+1.  Ask a colleague to read a sentence from the middle third of the first paragraph.&nbsp; How quick and easy is it for you find that sentence?&nbsp; Repeat this exercise, but ask your colleague to read from second paragraph, and use a different sentence.  Was the sentence about as quick and easy to find each time?
+1.  Look for (Rivers of white)[https://en.wikipedia.org/wiki/River_(typography)].&nbsp; Is any of the three worse than the other two?
+1.  Find a long paragraph in a professionally published paper book or print magazine.&nbsp; Does the publication use more space between sentences as compared to between words?
+1.  Open one of you own documents in a word processor, and find a long paragraph with several sentences.  Does the word process put more space between sentences as compared to between words?
