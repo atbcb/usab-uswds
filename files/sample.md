@@ -15,7 +15,9 @@ Now we are engaged in a great civil war, testing whether that nation, or any nat
 We are met on a great battle-field of that war.&nbsp;
 We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live.&nbsp;
 It is altogether fitting and proper that we should do this.&nbsp;
-But, in a larger sense, we can not dedicate.&nbsp; We can not consecrate.&nbsp; We can not hallow this ground.&nbsp;
+But, in a larger sense, we can not dedicate.&nbsp;
+We can not consecrate.&nbsp;
+We can not hallow this ground.&nbsp;
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract.&nbsp;
 The world will little note, nor long remember what we say here, but it can never forget what they did here.&nbsp;
 It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.&nbsp;
@@ -32,7 +34,9 @@ Now we are engaged in a great civil war, testing whether that nation, or any nat
 We are met on a great battle-field of that war.
 We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live.
 It is altogether fitting and proper that we should do this.
-But, in a larger sense, we can not dedicate.&nbsp; We can not consecrate.&nbsp; We can not hallow this ground.
+But, in a larger sense, we can not dedicate.
+We can not consecrate.
+We can not hallow this ground.
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract.
 The world will little note, nor long remember what we say here, but it can never forget what they did here.
 It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.
@@ -51,7 +55,9 @@ Now we are engaged in a great civil war, testing whether that nation, or any nat
 We are met on a great battle-field of that war.
 We have come to dedicate a portion of that field, as a final resting place for those who here gave their lives that that nation might live.
 It is altogether fitting and proper that we should do this.
-But, in a larger sense, we can not dedicate.&nbsp; We can not consecrate.&nbsp; We can not hallow this ground.
+But, in a larger sense, we can not dedicate.
+We can not consecrate.
+We can not hallow this ground.
 The brave men, living and dead, who struggled here, have consecrated it, far above our poor power to add or detract.
 The world will little note, nor long remember what we say here, but it can never forget what they did here.
 It is for us the living, rather, to be dedicated here to the unfinished work which they who fought here have thus far so nobly advanced.
