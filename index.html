@@ -17,7 +17,6 @@ this page.
 We recommend splitting apart your site's components into their own smaller section so that its easier to
 manage in the long term.
 {% endcomment %}
-
 {% comment %}
 <!-- we are not using include hero by default but are swapping out as needed -->
 <!-- please use Jekyll comment syntax to hide hero include when not in use -->
@@ -27,8 +26,7 @@ manage in the long term.
     image='/images/stock/kiosk.jpeg'
     link='/news/2021/05/04/u-s-access-board-to-host-panel-discussions-on-self-service-transaction-machines-may-19/'
 %}
-{% include animations-swiper.html %}
-{% endcomment %}
+{% comment %}
 <section class="usa-site-alert usa-site-alert--emergency" aria-label="Site alert,,">
   <div class="usa-alert">
     <div class="usa-alert__body">
@@ -40,6 +38,8 @@ manage in the long term.
     </div>
   </div>
 </section>
+{% endcomment %}
+{% include animations-swiper.html %}
 {% include hero-carousel.html %}
 {% include_cached highlights.html %}
 {% include_cached tagline.html %}
