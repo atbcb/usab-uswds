@@ -16,9 +16,9 @@ Four agencies establish the ABA Standards according to guidelines issued by the 
 
 This edition of the ABA Accessibility Standards has been adopted by GSA, DOD, and USPS:
 
--   [GSA's Federal Management Regulation](https://www.gsa.gov/policy-regulations/regulations/federal-management-regulation-fmr?asset=119604#idtopicx2x71439)
--   [DOD policy memorandum](/aba/background/dod-policy-memo.html)
--   [USPS notice](http://www.gpo.gov/fdsys/pkg/FR-2005-05-17/html/05-9745.htm)
+- [GSA's Federal Management Regulation](https://www.gsa.gov/policy-regulations/regulations/federal-management-regulation-fmr?asset=119604#idtopicx2x71439)
+- [DOD policy memorandum](dod-policy-memo.html): Access for People with Disabilities (October 31, 2008)
+- [USPS notice]((https://www.federalregister.gov/d/05-9745) (May 17,2005), Adoption of U.S. Access Board Standards as Postal Service Standards of Facility Accessibility, [39 CFR 254](https://www.ecfr.gov/current/title-39/part-254)
 
 HUD has not yet adopted this version of the standards and continues to apply the [Uniform Federal Accessibility Standards (UFAS)](ufas.html) to residential facilities under its jurisdiction.
 
@@ -39,14 +39,11 @@ The Access Board provides technical assistance and training on the ABA Standards
 
 Figures in the ABA Standards are available for [download (zip file of figures in .dwg format)](../files/ada/ada-aba-figures.zip).
 
-
-
 ---
-
 
 ## Background
 
-- August 4, 1982 -- The Board publishes the minimum guidelines under the ABA. 
+- August 4, 1982 -- The Board publishes the minimum guidelines under the ABA.
 
 - August 7, 1984 -- The ABA standard-setting agencies jointly adopt the [Uniform Federal Accessibility Standards (UFAS)](ufas.html).
 
@@ -66,7 +63,4 @@ Figures in the ABA Standards are available for [download (zip file of figures in
 
 - September 26, 2014 -- The Board issues a [correction to final guidelines for emergency transportable housing](https://www.regulations.gov/document?D=ATBCB-2012-0004-0041).
 
-
-
 ---
-
