@@ -1,18 +1,24 @@
 ---
-title: Department of Defense Memorandum
+title: Department of Defense Policy Memorandum
 layout: page
 permalink: /aba/dod-policy-memo.html
 file: /files/aba/dod_memo_aba.pdf
-file-description: Single file PDF version of DOD ABA Policy Memo
+file-description: PDF version of DOD policy memo adopting ABA
 redirect_from:
   - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/dod-memorandum
 ---
+<button class="usa-button" title="{{ page.file-description }}" style="float:right">
+  <a href="{{ site.baseurl }{{ page.file }}">PDF</a>
+</button>
+
 ![dod seal]({{ site.baseurl }}/images/dod-seal.png)
 {: .img-left }
 
-<br /> <br /> **DEPUTY SECRETARY OF DEFENSE** /
-**1010 DEFENSE PENTAGON** /
-**WASHINGTON, DC 20301-1010** /
+## {{ page.title }} Adopting ABA
+
+**DEPUTY SECRETARY OF DEFENSE** \
+**1010 DEFENSE PENTAGON** \
+**WASHINGTON, DC 20301-1010**
 {: style="text-align:center" }
 
 October 31, 2008
@@ -33,7 +39,7 @@ MEMORANDUM FOR:
 > > DIRECTOR, PROGRAM ANALYSIS AND EVALUATION \
 > > DIRECTOR, NET ASSESSMENT \
 > > DIRECTORS OF THE DEFENSE AGENCIES \
-> > DIRECTORS OF THE DOD FIELD ACTIVITIES \
+> > DIRECTORS OF THE DOD FIELD ACTIVITIES
 
 SUBJECT:&nbsp; Access for People with Disabilities
 
