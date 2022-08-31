@@ -4,6 +4,8 @@ layout: page
 permalink: /aba/dod-policy-memo.html
 file: /files/aba/dod_memo_aba.pdf
 file-description: PDF version of DoD policy memo adopting ABA
+redirect_from:
+  - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/dod-memorandum/
 ---
 ![dod seal]({{ site.baseurl }}/images/dod-seal.png)
 {: style="float:left" }
