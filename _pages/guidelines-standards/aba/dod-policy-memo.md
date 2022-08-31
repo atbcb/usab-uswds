@@ -9,11 +9,14 @@ redirect_from:
 ---
 ## Department of Defense Memorandum
 
-![dod seal]({{ site.baseurl }}/images/dod-seal.png){: .img-left }
+![dod seal]({{ site.baseurl }}/images/dod-seal.png)
+{: .img-left }
 
-### DEPUTY SECRETARY OF DEFENSE <br /> 1010 DEFENSE PENTAGON <br /> WASHINGTON, DC 20301-1010{: style="text-align:center" }
+### DEPUTY SECRETARY OF DEFENSE <br /> 1010 DEFENSE PENTAGON <br /> WASHINGTON, DC 20301-1010
+{: style="text-align:center" }
 
-October 31, 2008{: style="text-align:right" }
+October 31, 2008
+{: style="text-align:right" }
 
 MEMORANDUM FOR:
 
