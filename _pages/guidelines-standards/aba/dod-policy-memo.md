@@ -9,21 +9,19 @@ redirect_from:
   - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/dod-memorandum/
 ---
 ![dod seal]({{ site.baseurl }}/images/dod-seal.png)
-{: .img-left }
+{: style="float:left" }
 
 <button class="usa-button" title="{{ page.file-description }}" style="float:right">
   <a href="{{ site.baseurl }}{{ page.file }}">PDF</a>
 </button>
 
-<p> &nbsp; </p>
-
 **DEPUTY SECRETARY OF DEFENSE** \
 **1010 DEFENSE PENTAGON** \
 **WASHINGTON, DC 20301-1010**
-{: style="text-align:center" }
+{: style="text-align:center;padding-top:2rem" }
 
 October 31, 2008
-{: style="text-align:right" }
+{: style="text-align:right;padding-bottom:2rem" }
 
 MEMORANDUM FOR:
 {: .clear }
