@@ -8,7 +8,7 @@ redirect_from:
   - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/dod-memorandum
 ---
 <button class="usa-button" title="{{ page.file-description }}" style="float:right">
-  <a href="{{ site.baseurl }{{ page.file }}">PDF</a>
+  <a href="{{ site.baseurl }}{{ page.file }}">PDF</a>
 </button>
 
 ![dod seal]({{ site.baseurl }}/images/dod-seal.png)
@@ -74,7 +74,7 @@ Requirements for new construction, alterations, and leased facilities vary and a
 > (b) All morale, welfare, and recreation facilities, including non-appropriated fund facilities available to dependents or retirees. \
 > (c) All hospitals and facilities for the care or rehabilitation of persons who are sick or injured. \
 > (d) All relocatable facilities, including those acquired as "personal property." Relocatable facilities, including those acquired as "personal property," shall be evaluated, for purposes of applying these DoD Standards, as though they are permanent facilities. \
-> (e) All manufacturing facilities, administrative facilities, educational facilities, and any other facilities where civilian workers may be employed, including facilities constructed under other than military construction authorizations and including contractor-owned facilities where DoD is funding all or part of the construction. \
+> (e) All manufacturing facilities, administrative facilities, educational facilities, and any other facilities where civilian workers may be employed, including facilities constructed under other than military construction authorizations and including contractor-owned facilities where DoD is funding all or part of the construction.
 
 The Department of Defense shall require as part of the joint venture agreement in all public-private ventures which include facilities, including privatized housing, that those facilities be designed and constructed in accordance with these DoD Standards.
 
