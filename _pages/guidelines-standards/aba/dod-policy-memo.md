@@ -6,13 +6,16 @@ file: /files/aba/dod_memo_aba.pdf
 file-description: PDF version of DoD policy memo adopting ABA
 redirect_from:
   - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/dod-memorandum
+  - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/dod-memorandum/
 ---
+![dod seal]({{ site.baseurl }}/images/dod-seal.png)
+{: .img-left }
+
 <button class="usa-button" title="{{ page.file-description }}" style="float:right">
   <a href="{{ site.baseurl }}{{ page.file }}">PDF</a>
 </button>
 
-![dod seal]({{ site.baseurl }}/images/dod-seal.png)
-{: .img-left }
+<p> &nbsp; </p>
 
 **DEPUTY SECRETARY OF DEFENSE** \
 **1010 DEFENSE PENTAGON** \
