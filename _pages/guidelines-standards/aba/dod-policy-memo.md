@@ -1,5 +1,5 @@
 ---
-title: DOD ABA Policy Memo
+title: Department of Defense Memorandum
 layout: page
 permalink: /aba/dod-policy-memo.html
 file: /files/aba/dod_memo_aba.pdf
@@ -7,18 +7,19 @@ file-description: Single file PDF version of DOD ABA Policy Memo
 redirect_from:
   - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/dod-memorandum
 ---
-## Department of Defense Memorandum
-
 ![dod seal]({{ site.baseurl }}/images/dod-seal.png)
 {: .img-left }
 
-### DEPUTY SECRETARY OF DEFENSE <br /> 1010 DEFENSE PENTAGON <br /> WASHINGTON, DC 20301-1010
+<br /> <br /> **DEPUTY SECRETARY OF DEFENSE** /
+**1010 DEFENSE PENTAGON** /
+**WASHINGTON, DC 20301-1010** /
 {: style="text-align:center" }
 
 October 31, 2008
 {: style="text-align:right" }
 
 MEMORANDUM FOR:
+{: .clear }
 
 > > SECRETARIES OF THE MILITARY DEPARTMENTS \
 > > CHAIRMAN OF THE JOINT CHIEFS OF STAFF \
@@ -59,9 +60,9 @@ Access for People With Disabilities
 
 **1\. GENERAL.**&nbsp; This attachment describes the manner in which facilities designed, constructed (including additions), altered, leased, or funded by the Department of Defense (DoD) are to be made accessible to people with disabilities in accordance with the Architectural Barriers Act of 1968 (ABA), as amended, 42 U.S.C. § 4151, *et seq*., and Section 504 of the Rehabilitation Act of 1973, as amended, 29 U.S.C. § 794.
 
-On July 23, 2004, the United States Access Board issued updated accessibility guidelines for newly constructed, altered, and leased facilities covered by the ABA and Americans with Disabilities Act of 1990 (ADA), 42 U.S.C. § 12101, *et seq*. These guidelines were published in the *Federal Register* on July 23, 2004 (69 FR 44083), and are online at [http://www.access-board.gov/](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-ada-standards/background/ada-aba-accessibility-guidelines-2004).[^1]
+On July 23, 2004, the United States Access Board issued updated accessibility guidelines for newly constructed, altered, and leased facilities covered by the ABA and Americans with Disabilities Act of 1990 (ADA), 42 U.S.C. § 12101, *et seq*. These guidelines were published in the *Federal Register* on July 23, 2004 (69 FR 44083), and are online at [http://www.access-board.gov/]({{ site.baseurl }}).[^1]
 
-Requirements for new construction, alterations, and leased facilities vary and are specified in these new [DoD Standards](https://www.access-board.gov/guidelines-and-standards/buildings-and-sites/about-the-aba-standards/aba-standards). In general, worldwide, all facilities designed, constructed, altered, leased, or funded by DoD that are open to the public, or to limited segments of the public, or that may be visited by the public, or by limited segments of the public, in the conduct of normal business, shall be designed and constructed to be accessible to persons with disabilities. The types of facilities to which these DoD Standards apply include, but are not limited to, the following:
+Requirements for new construction, alterations, and leased facilities vary and are specified in these new [DoD Standards]({{ site.baseurl }}/aba/). In general, worldwide, all facilities designed, constructed, altered, leased, or funded by DoD that are open to the public, or to limited segments of the public, or that may be visited by the public, or by limited segments of the public, in the conduct of normal business, shall be designed and constructed to be accessible to persons with disabilities. The types of facilities to which these DoD Standards apply include, but are not limited to, the following:
 
 > (a) All housing, including military family housing and unaccompanied personnel housing.[^2] \
 > (b) All morale, welfare, and recreation facilities, including non-appropriated fund facilities available to dependents or retirees. \
