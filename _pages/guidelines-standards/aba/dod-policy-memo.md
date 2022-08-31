@@ -3,7 +3,7 @@ title: Department of Defense Policy Memorandum
 layout: page
 permalink: /aba/dod-policy-memo.html
 file: /files/aba/dod_memo_aba.pdf
-file-description: PDF version of DOD policy memo adopting ABA
+file-description: PDF version of DoD policy memo adopting ABA
 redirect_from:
   - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/dod-memorandum
 ---
@@ -13,8 +13,6 @@ redirect_from:
 
 ![dod seal]({{ site.baseurl }}/images/dod-seal.png)
 {: .img-left }
-
-## {{ page.title }} Adopting ABA
 
 **DEPUTY SECRETARY OF DEFENSE** \
 **1010 DEFENSE PENTAGON** \
@@ -70,28 +68,38 @@ On July 23, 2004, the United States Access Board issued updated accessibility gu
 
 Requirements for new construction, alterations, and leased facilities vary and are specified in these new [DoD Standards]({{ site.baseurl }}/aba/). In general, worldwide, all facilities designed, constructed, altered, leased, or funded by DoD that are open to the public, or to limited segments of the public, or that may be visited by the public, or by limited segments of the public, in the conduct of normal business, shall be designed and constructed to be accessible to persons with disabilities. The types of facilities to which these DoD Standards apply include, but are not limited to, the following:
 
-> (a) All housing, including military family housing and unaccompanied personnel housing.[^2] \
-> (b) All morale, welfare, and recreation facilities, including non-appropriated fund facilities available to dependents or retirees. \
-> (c) All hospitals and facilities for the care or rehabilitation of persons who are sick or injured. \
-> (d) All relocatable facilities, including those acquired as "personal property." Relocatable facilities, including those acquired as "personal property," shall be evaluated, for purposes of applying these DoD Standards, as though they are permanent facilities. \
+> (a) All housing, including military family housing and unaccompanied personnel housing.[^2]
+> 
+> (b) All morale, welfare, and recreation facilities, including non-appropriated fund facilities available to dependents or retirees.
+> 
+> (c) All hospitals and facilities for the care or rehabilitation of persons who are sick or injured.
+> 
+> (d) All relocatable facilities, including those acquired as "personal property." Relocatable facilities, including those acquired as "personal property," shall be evaluated, for purposes of applying these DoD Standards, as though they are permanent facilities.
+> 
 > (e) All manufacturing facilities, administrative facilities, educational facilities, and any other facilities where civilian workers may be employed, including facilities constructed under other than military construction authorizations and including contractor-owned facilities where DoD is funding all or part of the construction.
 
 The Department of Defense shall require as part of the joint venture agreement in all public-private ventures which include facilities, including privatized housing, that those facilities be designed and constructed in accordance with these DoD Standards.
 
 In addition to these DoD Standards, facilities of all types shall comply with any applicable provision of law and regulation which may include the following:
 
-> i. The Fair Housing Amendments of 1988, 42 U.S.C. §§ 3601-3620, which prohibit discrimination on the basis of disability in multi-family housing, including military family housing, and require elimination of architectural barriers in common areas and construction of accessible units on a percentage basis. \
-> ii. The Americans with Disabilities Act of 1990, 42 U.S.C. § 12101, *et seq*., which prohibits discrimination in, among other things, public accommodations and commercial facilities and may apply to some entities that occupy space on DoD property or are housed in DoD or DoD-funded facilities. Entities that might be covered include State and local governments, banks, childcare centers, and fast food stores. In addition, standards for nondiscrimination in employment under this Act apply to Federal employment under Section 501 of the Rehabilitation Act. This includes standards for elimination of architectural barriers. \
+> i. The Fair Housing Amendments of 1988, 42 U.S.C. §§ 3601-3620, which prohibit discrimination on the basis of disability in multi-family housing, including military family housing, and require elimination of architectural barriers in common areas and construction of accessible units on a percentage basis.
+> 
+> ii. The Americans with Disabilities Act of 1990, 42 U.S.C. § 12101, *et seq*., which prohibits discrimination in, among other things, public accommodations and commercial facilities and may apply to some entities that occupy space on DoD property or are housed in DoD or DoD-funded facilities. Entities that might be covered include State and local governments, banks, childcare centers, and fast food stores. In addition, standards for nondiscrimination in employment under this Act apply to Federal employment under Section 501 of the Rehabilitation Act. This includes standards for elimination of architectural barriers.
+> 
 > iii. Section 501 of the Rehabilitation Act of 1973, as amended, 29 U.S.C. § 791(b), and implementing regulations at 29 CFR 1614.203, which prohibit discrimination in Federal civilian employment against a qualified person with a disability and require elimination of architectural barriers for employees and applicants with disabilities.
 
 **2\. PRIMARY FUNCTION AREAS.**&nbsp; Requirements for alterations (Section F202.4 of ABA Chapter 2) and leased facilities (Section F202.6.2 of ABA Chapter 2) refer to "primary function areas." DoD defines a primary function area as an area that contains a major activity for which the facility is intended. This includes areas in which a DoD entity or a recipient of DoD financial assistance provides services to the public or limited segments of the public, as well as offices and other work areas in which the activities of a DoD entity or a recipient of DoD financial assistance are carried out.
 
 In accordance with Section F202.4 of ABA Chapter 2, an alteration that affects or could affect the usability of or access to an area containing a primary function shall be made so as to ensure that, to the maximum extent feasible, the path of travel to the altered area, including the rest rooms, telephones, and drinking fountains serving the altered area, is readily accessible to and usable by individuals with disabilities, unless such alterations would increase the cost and scope of the overall alteration by more than twenty percent. If the costs of providing an accessible path of travel to the altered area would increase the cost and scope of the overall alteration by more than twenty percent, the path of travel shall be made accessible to the extent possible at least up to that twenty percent increase.[^3] Priority should be given to those elements that will provide the greatest access in the following order:
 
-> (a) An accessible route and accessible entrance to connect the altered area and site arrival points; \
-> (b) An accessible restroom for each sex or a single unisex restroom; \
-> (c) Accessible telephones; \
-> (d) Accessible drinking fountains; and \
+> (a) An accessible route and accessible entrance to connect the altered area and site arrival points;
+> 
+> (b) An accessible restroom for each sex or a single unisex restroom;
+> 
+> (c) Accessible telephones;
+> 
+> (d) Accessible drinking fountains; and
+> 
 > (e) Accessible parking spaces.
 
 In facility planning, if a series of alterations will be made to areas containing a primary function, and those alterations together will not provide an accessible path of travel to the altered areas, the total costs of the alterations planned within the three-year period after the initial alteration shall be considered when determining obligations to provide an accessible path of travel in accordance with this paragraph.
@@ -113,7 +121,9 @@ Nevertheless, since the intended use of such excluded facilities may change with
 **6\. DOCUMENTATION.**&nbsp; DoD Component Heads shall ensure that each contract, grant, or loan for the design, construction, or alteration of a facility subject to these DoD Standards and each lease for a facility subject to these DoD Standards:
 
 > (a) Incorporates these DoD Standards in the specifications for the design, construction, or alteration of the facility; \
+> 
 > (b) Specifies that any leased facility meets these DoD Standards, or has been or will be altered to meet these Standards; or \
+> 
 > (c) Includes a statement that these DoD Standards have been waived or modified by the Principal Deputy Under Secretary of Defense (Personnel and Readiness), as specified in an attached copy of the waiver or modification.
 
 In addition, if a determination is made that a facility is not subject to these DoD Standards, the DoD Component Head must ensure that documentation is maintained to justify the determination.
