@@ -15,7 +15,7 @@ Four agencies establish the ABA Standards according to guidelines issued by the 
 
 This edition of the ABA Accessibility Standards has been adopted by GSA, DOD, and USPS:
 
-- [GSA, 41 CFR 41 102](https://www.ecfr.gov/current/title-41/subtitle-C/chapter-102)
+- [GSA, 41 CFR 102](https://www.ecfr.gov/current/title-41/subtitle-C/chapter-102)
 - [DOD policy memorandum](dod-policy-memo.html)
 - [USPS, 39 CFR 254](https://www.ecfr.gov/current/title-39/part-254)
 
@@ -46,20 +46,18 @@ Figures in the ABA Standards are available for [download (zip file of figures in
 
 - August 7, 1984 -- The ABA standard-setting agencies jointly adopt the [Uniform Federal Accessibility Standards (UFAS)](ufas.html).
 
-- November 16, 1999 -- The Board jointly proposed [updates](https://www.federalregister.gov/documents/1999/11/16/99-29250/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities) to the ABA Accessibility Guidelines and the Americans with Disabilities Act (ADA) Accessibility Guidelines for public comment.
+- November 16, 1999 -- The Board jointly [proposed updates](https://www.federalregister.gov/d/99-29250) to the ABA Accessibility Guidelines and the Americans with Disabilities Act (ADA) Accessibility Guidelines for public comment.
 
-- July 23, 2004 -- The Board publishes the updated ADA-ABA Accessibility Guidelines as a [final rule](https://www.federalregister.gov/documents/2004/07/23/04-16025/americans-with-disabilities-act-ada-accessibility-guidelines-for-buildings-and-facilities).
+- July 23, 2004 -- The Board publishes the updated ADA-ABA Accessibility Guidelines as a [final rule](https://www.federalregister.gov/d/04-16025).
 
 - May 17, 2005 -- [USPS adopts the ABA Accessibility Standards](https://www.federalregister.gov/d/05-9745).
 
-- November 8, 2005 -- [GSA adopts the ABA Accessibility Standards](https://www.federalregister.gov/documents/2005/11/08/05-21644/federal-management-regulation-real-property-policies-update).
+- November 8, 2005 -- [GSA adopts the ABA Accessibility Standards](https://www.federalregister.gov/d/05-21644).
 
-- October 31, 2008 -- DOD adopts the ABA Accessibility Standards.
+- October 31, 2008 -- DoD adopts the ABA Accessibility Standards with policy Memorandum, Subject: Access for People with Disabilities.
 
-- September 26, 2013 -- The Board issues a [supplement to the ABA Accessibility Guidelines on outdoor developed areas](https://www.regulations.gov/document?D=ATBCB-2009-0006-0085), which become part of the ABA Standards sixty (60) days later.
+- September 26, 2013 -- The Board issues a [supplement to the ABA Accessibility Guidelines on outdoor developed areas](https://www.federalregister.gov/d/2013-22876), which become part of the ABA Standards sixty (60) days later.
 
-- May 7, 2014 -- The Board publishes a [supplement to the ADA and ABA Accessibility Guidelines on emergency transportable housing](https://www.regulations.gov/document?D=ATBCB-2012-0004-0039).
-
-- September 26, 2014 -- The Board issues a [correction to final guidelines for emergency transportable housing](https://www.regulations.gov/document?D=ATBCB-2012-0004-0041).
+- May 7, 2014 -- The Board publishes a [supplement to the ADA and ABA Accessibility Guidelines on Emergency Transportable Housing](https://www.federalregister.gov/d/2014-10162) (ETH).&nbsp; On September 26, 2014, The Board issues a [correction to ETH final guidelines](https://www.federalregister.gov/d/2014-22984).
 
 ---
