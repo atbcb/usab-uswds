@@ -5,7 +5,7 @@ permalink: /aba/dod-policy-memo.html
 file: /files/aba/dod_memo_aba.pdf
 file-description: PDF version of DOD policy memo adopting ABA
 redirect_from:
-  - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/dod-memorandum
+  - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/dod-memorandum/
 ---
 <button class="usa-button" title="{{ page.file-description }}" style="float:right">
   <a href="{{ site.baseurl }}{{ page.file }}">PDF</a>
@@ -13,8 +13,6 @@ redirect_from:
 
 ![dod seal]({{ site.baseurl }}/images/dod-seal.png)
 {: .img-left }
-
-## {{ page.title }} Adopting ABA
 
 **DEPUTY SECRETARY OF DEFENSE** \
 **1010 DEFENSE PENTAGON** \
