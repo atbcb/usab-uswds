@@ -4,9 +4,6 @@ layout: page
 permalink: /aba/dod-policy-memo.html
 file: /files/aba/dod_memo_aba.pdf
 file-description: PDF version of DoD policy memo adopting ABA
-redirect_from:
-  - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/dod-memorandum
-  - /guidelines-and-standards/buildings-and-sites/about-the-aba-standards/background/dod-memorandum/
 ---
 ![dod seal]({{ site.baseurl }}/images/dod-seal.png)
 {: style="float:left" }
@@ -18,7 +15,7 @@ redirect_from:
 **DEPUTY SECRETARY OF DEFENSE** \
 **1010 DEFENSE PENTAGON** \
 **WASHINGTON, DC 20301-1010**
-{: style="text-align:center;margin-top:em" }
+{: style="text-align:center;margin-top:3em" }
 
 October 31, 2008
 {: style="text-align:right;margin-top:2em" }
