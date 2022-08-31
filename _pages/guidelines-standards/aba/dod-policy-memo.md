@@ -120,9 +120,9 @@ Nevertheless, since the intended use of such excluded facilities may change with
 
 **6\. DOCUMENTATION.**&nbsp; DoD Component Heads shall ensure that each contract, grant, or loan for the design, construction, or alteration of a facility subject to these DoD Standards and each lease for a facility subject to these DoD Standards:
 
-> (a) Incorporates these DoD Standards in the specifications for the design, construction, or alteration of the facility; \
+> (a) Incorporates these DoD Standards in the specifications for the design, construction, or alteration of the facility;
 > 
-> (b) Specifies that any leased facility meets these DoD Standards, or has been or will be altered to meet these Standards; or \
+> (b) Specifies that any leased facility meets these DoD Standards, or has been or will be altered to meet these Standards; or
 > 
 > (c) Includes a statement that these DoD Standards have been waived or modified by the Principal Deputy Under Secretary of Defense (Personnel and Readiness), as specified in an attached copy of the waiver or modification.
 
