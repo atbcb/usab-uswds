@@ -17,10 +17,10 @@ redirect_from:
 **DEPUTY SECRETARY OF DEFENSE** \
 **1010 DEFENSE PENTAGON** \
 **WASHINGTON, DC 20301-1010**
-{: style="text-align:center;margin-top:3em" }
+{: style="text-align:center;margin-top:5em" }
 
 October 31, 2008
-{: style="text-align:right;margin-top:2em" }
+{: style="text-align:right;margin-top:3em" }
 
 MEMORANDUM FOR:
 {: .clear }
