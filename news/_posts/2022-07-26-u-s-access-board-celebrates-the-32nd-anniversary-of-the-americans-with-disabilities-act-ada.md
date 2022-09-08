@@ -11,7 +11,7 @@ excerpt: The U.S. Access Board celebrates the 32nd anniversary of the Americans
   telecommunications. . . .
 image: /images/uploads/ada-signing.jpg
 image_alt_text: George H.W. Bush signing the ADA in 1990
-featured: true
+featured: false
 ---
 The U.S. Access Board celebrates the 32nd anniversary of the [Americans with Disabilities Act (ADA)](https://www.access-board.gov/law/ada.html), which was signed into law on July 26, 1990. This landmark civil rights law has impacted the lives of millions of people with disabilities in the U.S. by improving access to public accommodations, employment, transportation, state and local government services, and telecommunications. The ADA is divided into Titles (or sections) that relate to different areas of public life: 
 
