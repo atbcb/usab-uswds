@@ -14,7 +14,7 @@ featured: false
 
 During the U.S. Access Board’s meeting in Philadelphia last week, Board staff held seven free public trainings on accessibility of the built environment and information and communication technology. Board Accessibility Specialists, staff from U.S. Department of Education’s National Digital Access Team, and staff from the [Mid-Atlantic ADA Center](https://www.adainfo.org/) provided trainings, presentations, and workshops on accessibility and accessible design related to the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards, historic buildings and facilities, information and communication technology, and digital environments. The presentation materials for most of the trainings are available below. 
 
-**Tuesday, September 13**  
+**Tuesday, September 13** \
 Temple University 
 
 >> [Architectural Design and Social Justice, PPT (18.6 MB)](https://usa-accessboard.box.com/shared/static/1gppxixdxdxdbwfudfxt8ge30mf6uyrf.pptx) 
@@ -22,12 +22,12 @@ Temple University 
 >> [Making Documents Accessible, PPT (13.8 MB)](https://usa-accessboard.box.com/shared/static/o56gw5pst3qrqeg1lt13bl6x4ls470oc.pptx) 
 >> [Overview of the ADA and ABA Accessibility Standards, PPT (8.5 MB)](https://usa-accessboard.box.com/shared/static/svxonp3x9v54u7tuyzyb88hwzfjq0n4x.pptx) 
 
-**Wednesday, September 14**
+**Wednesday, September 14** \
 Sierra-Tamman Collaboration 
 >> Section 508 and WCAG Questions and Answers
 >> [Making Documents Accessible, PPT (13.8 MB)](https://usa-accessboard.box.com/shared/static/o56gw5pst3qrqeg1lt13bl6x4ls470oc.pptx) 
 
-**Wednesday, September 14**
+**Wednesday, September 14** \
 Liberty Resources, Inc. 
 >> [Accessing the Past: Accessibility in Historic Buildings and Facilities, PPT (44 MB)](https://usa-accessboard.box.com/shared/static/12gg4prlzuybnpzzwlb77yehb9fbxgl1.pptx) 
 
