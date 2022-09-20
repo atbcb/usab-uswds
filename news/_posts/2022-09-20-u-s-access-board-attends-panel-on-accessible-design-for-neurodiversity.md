@@ -6,7 +6,7 @@ excerpt: Last Tuesday, the U.S. Access Board attended a panel at Temple
   University on accessible design for neurodiversity. The panel focused on the
   lived experiences of neurodiverse individuals, design barriers, and possible
   physical, sensory, and cognitive design solutions. The Board heard from . . .
-image: /images/uploads/neurodiversity-panel.jpeg
+image: /images/uploads/neurodiversity-panel.png
 featured: false
 ---
 *This article is part of a series on the U.S. Access Board’s visit to Philadelphia from September 13 – 15*  
