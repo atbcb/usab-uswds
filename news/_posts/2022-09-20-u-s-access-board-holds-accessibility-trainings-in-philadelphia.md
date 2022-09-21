@@ -34,4 +34,5 @@ Liberty Resources, Inc. 
 The Board manages a helpline that provides [technical assistance](https://www.access-board.gov/ta/) via phone at 1-202-272-0800, extension 3 from 10:00 am to 5:00 pm ET weekdays and email at [ta@access-board.gov](mailto:ta@access-board.gov). The Board also provides [accessibility trainings](https://www.access-board.gov/webinars/training.html), as well as [free monthly webinars on the built environment and Section 508 best practices](https://www.access-board.gov/webinars/) through its partnerships with the ADA National Network and the Federal Chief Information Officers Council’s Accessibility Community of Practice, respectively.
 
 *Read more about the Board’s visit to Philadelphia in the following articles:*
-> [U.S. Access Board Attends Panel on Accessible Design for Neurodiversity](https://www.access-board.gov/news/2022/09/20/u-s-access-board-attends-panel-on-accessible-design-for-neurodiversity/) 
+* [U.S. Access Board Attends Panel on Accessible Design for Neurodiversity](https://www.access-board.gov/news/2022/09/20/u-s-access-board-attends-panel-on-accessible-design-for-neurodiversity/)
+* [U.S. Access Board Visits National Park Service’s Independence National Historical Park](https://www.access-board.gov/news/2022/09/21/u-s-access-board-visits-national-park-service-s-independence-national-historical-park/)
