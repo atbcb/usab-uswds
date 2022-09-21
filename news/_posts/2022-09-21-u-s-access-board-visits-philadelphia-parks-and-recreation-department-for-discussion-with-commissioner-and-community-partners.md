@@ -40,7 +40,7 @@ The discussion forum concluded with the Board engaged in dialogue with Commissio
 
 The Access Board offers technical assistance on the ADA Standards, including recreational facilities.  The Board also offers a [technical assistance guide for the Architectural Barriers Act Accessibility Standards for developed outdoor areas on federal sites](https://www.access-board.gov/files/aba/guides/outdoor/outdoor-guide.pdf). This document explains requirements in the ABA Standards for outdoor developed areas such as trails, picnic and camping areas, viewing areas, and beach access routes.
 
-The Board also manages a helpline that provides [technical assistance](https://www.access-board.gov/ta/) via phone at 1-202-272-0800, extension 3 from 10:00 am to 5:00 pm ET weekdays and email at <ta@access-board.gov>. 
+The Board also manages a helpline that provides [technical assistance](https://www.access-board.gov/ta/) via phone at 1-202-272-0800, extension 3 from 10:00 am to 5:00 pm ET weekdays and email at <ta@access-board.gov>.
 
 <figure class="img-center">
   <a href="{{ site.baseurl }}/images/uploads/pavithran-ott-lovell.png">
