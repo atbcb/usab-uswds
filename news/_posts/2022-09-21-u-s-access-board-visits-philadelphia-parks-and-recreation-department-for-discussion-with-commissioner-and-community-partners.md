@@ -3,12 +3,11 @@ layout: post
 title: "U.S. Access Board Visits Philadelphia Parks and Recreation Department
   for Discussion with Commissioner and Community Partners "
 date: 2022-09-21
-excerpt: The U.S. Access Board met with [Philadelphia Parks and Recreation
-  Department](https://www.phila.gov/departments/philadelphia-parks-recreation/)
-  representatives to learn about the challenges the Department is facing in its
-  efforts to make its large, diverse parks and recreation system more accessible
-  to people with disabilities. The Board heard from Philadelphia Parks
-  and Recreation Commissioner Kathryn Ott Lovell, who . . .
+excerpt: The U.S. Access Board met with Philadelphia Parks and Recreation
+  Department representatives to learn about the challenges the Department is
+  facing in its efforts to make its large, diverse parks and recreation
+  system more accessible to people with disabilities. The Board heard from
+  Philadelphia Parks and Recreation Commissioner Kathryn Ott Lovell, who . . .
 image: /images/uploads/pavithran-speaking-phila-parknrec.png
 image_alt_text: Board Executive Director Sachin Pavithran speaking at forum
 featured: false
