@@ -38,6 +38,10 @@ Access Board Executive Director Sachin Pavithran and Board Senior Accessibility 
 
 The discussion forum concluded with the Board engaged in dialogue with Commissioner Ott Lovell, Deputy Commissioner Bill Salvatore, Philadelphia Parks and Recreation staff, Amy McCann, Founder/Director of [Carousel Connections](http://www.carouselconnections.com/), Amy Nieves, Executive Director of [Philadelphia Mayor's Office for People with Disabilities](https://www.phila.gov/departments/mayors-office-for-people-with-disabilities/), [Alanna Raffel](https://techowlpa.org/towl_staff/alanna-raffel/), Occupational Therapist at Institute on Disabilities at Temple’s TechOWLs, and other members of the community. 
 
+The Access Board offers technical assistance on the ADA Standards, including recreational facilities.  The Board also offers a [technical assistance guide for the Architectural Barriers Act Accessibility Standards for developed outdoor areas on federal sites](https://www.access-board.gov/files/aba/guides/outdoor/outdoor-guide.pdf). This document explains requirements in the ABA Standards for outdoor developed areas such as trails, picnic and camping areas, viewing areas, and beach access routes.
+
+The Board also manages a helpline that provides [technical assistance](https://www.access-board.gov/ta/) via phone at 1-202-272-0800, extension 3 from 10:00 am to 5:00 pm ET weekdays and email at <ta@access-board.gov>. 
+
 <figure class="img-center">
   <a href="{{ site.baseurl }}/images/uploads/pavithran-ott-lovell.png">
     <img src="{{ site.baseurl }}/images/uploads/pavithran-ott-lovell.png" alt="Board Executive Director Sachin Pavithran and Commissioner Kathyrn Ott Lovell" class="center">
@@ -46,10 +50,6 @@ The discussion forum concluded with the Board engaged in dialogue with Commissio
     <em>Board Executive Director Sachin Pavithran and Commissioner Kathyrn Ott Lovell.</em>
   </figcaption>
 </figure>
-
-The Access Board offers technical assistance on the ADA Standards, including recreational facilities.  The Board also offers a [technical assistance guide for the Architectural Barriers Act Accessibility Standards for developed outdoor areas on federal sites](https://www.access-board.gov/files/aba/guides/outdoor/outdoor-guide.pdf). This document explains requirements in the ABA Standards for outdoor developed areas such as trails, picnic and camping areas, viewing areas, and beach access routes.
-
-The Board also manages a helpline that provides [technical assistance](https://www.access-board.gov/ta/) via phone at 1-202-272-0800, extension 3 from 10:00 am to 5:00 pm ET weekdays and email at <ta@access-board.gov>. 
 
 *Read more about the Board’s visit to Philadelphia in the following articles:*  
 
