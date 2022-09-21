@@ -21,6 +21,8 @@ The Board learned about the evolution of accessibility at Independence National 
 
 The Park provides different accessibility services on its [Accessibility webpage,](https://www.nps.gov/inde/planyourvisit/accessibility.htm) specifically information on services for those with [mobility disabilities](https://www.nps.gov/inde/planyourvisit/physical-mobility.htm), who are [deaf or hard of hearing](https://www.nps.gov/inde/planyourvisit/hearing.htm), are [blind or have low vision](https://www.nps.gov/inde/planyourvisit/visual.htm), and with [cognitive disabilities](https://www.nps.gov/inde/planyourvisit/cognitive.htm). 
 
+{: .clear }
+
 <figure class="img-left">
   <img src="./images/uploads/pavithran-liberty-bell.png" alt="Access Board Executive Director Sachin Pavithran touching the Liberty Bell" class="center">
   <figcaption style="text-align:center">
@@ -34,6 +36,7 @@ The Park provides different accessibility services on its [Accessibility webpage
   </figcaption>
 </figure>
 
+{: .clear }
 *Read more about the Board’s visit to Philadelphia in the following articles:* 
 
 * [U.S. Access Board Holds Accessibility Trainings in Philadelphia](https://www.access-board.gov/news/2022/09/20/u-s-access-board-holds-accessibility-trainings-in-philadelphia/) 
