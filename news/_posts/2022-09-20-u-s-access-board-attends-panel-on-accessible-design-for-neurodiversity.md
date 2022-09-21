@@ -20,4 +20,5 @@ Panelists expressed that the lack of acceptance and understanding of neurodivers
 The panel, convened at the Access Board’s request, was organized by Roger Ideishi, Program Director of Occupational Therapy and Professor of Health, Human Function, and Rehabilitation Sciences at The George Washington University School of Medicine and Health Sciences; Marcie Bramucci, Executive Artistic Director of Hedgerow Theatre; and Lisa Sonneborn, Director of [Media Arts and Culture for the Institute on Disabilities at Temple University](https://disabilities.temple.edu/advocacy/media-arts-culture), College of Education and Human Development.
 
 *Read more about the Board’s visit to Philadelphia in the following articles:*
-> [U.S. Access Board Holds Accessibility Trainings in Philadelphia](https://www.access-board.gov/news/2022/09/20/u-s-access-board-holds-accessibility-trainings-in-philadelphia/) 
+* [U.S. Access Board Holds Accessibility Trainings in Philadelphia](https://www.access-board.gov/news/2022/09/20/u-s-access-board-holds-accessibility-trainings-in-philadelphia/)
+* [U.S. Access Board Visits National Park Service’s Independence National Historical Park](https://www.access-board.gov/news/2022/09/21/u-s-access-board-visits-national-park-service-s-independence-national-historical-park/)
