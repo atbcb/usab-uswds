@@ -36,3 +36,5 @@ The Board manages a helpline that provides [technical assistance](https://www.ac
 *Read more about the Board’s visit to Philadelphia in the following articles:*
 * [U.S. Access Board Attends Panel on Accessible Design for Neurodiversity](https://www.access-board.gov/news/2022/09/20/u-s-access-board-attends-panel-on-accessible-design-for-neurodiversity/)
 * [U.S. Access Board Visits National Park Service’s Independence National Historical Park](https://www.access-board.gov/news/2022/09/21/u-s-access-board-visits-national-park-service-s-independence-national-historical-park/)
+* * [U.S. Access Board Visits Philadelphia Parks and Recreation Department for Discussion with Commissioner and Community Partners
+](https://www.access-board.gov/news/2022/09/21/u-s-access-board-visits-philadelphia-parks-and-recreation-department-for-discussion-with-commissioner-and-community-partners/)
