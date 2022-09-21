@@ -21,7 +21,18 @@ The Board learned about the evolution of accessibility at Independence National 
 
 The Park provides different accessibility services and information on its [Accessibility webpage,](https://www.nps.gov/inde/planyourvisit/accessibility.htm) specifically on those with [mobility disabilities](https://www.nps.gov/inde/planyourvisit/physical-mobility.htm), who are [deaf or hard of hearing](https://www.nps.gov/inde/planyourvisit/hearing.htm), are [blind or have low vision](https://www.nps.gov/inde/planyourvisit/visual.htm), and with [cognitive disabilities](https://www.nps.gov/inde/planyourvisit/cognitive.htm). 
 
-**\[picture of Sachin touching Bell] \[picture of Chris touching Bell]** 
+<figure class="img-left">
+  <img src="./images/uploads/pavithran-liberty-bell.png" alt="Access Board Executive Director Sachin Pavithran touching the Liberty Bell" class="center">
+  <figcaption style="text-align:center">
+    <em> Access Board Executive Director Sachin Pavithran touching the Liberty Bell</em>
+  </figcaption>
+</figure>
+<figure class="img-right">
+  <img src="./images/uploads/kuczynski-liberty-bell.png" alt="Access Board General Counsel Chris Kuczynski touching the Liberty Bell" class="center">
+  <figcaption style="text-align:center">
+    <em>Access Board General Counsel Chris Kuczynski touching the Liberty Bell</em>
+  </figcaption>
+</figure>
 
 *Read more about the Board’s visit to Philadelphia in the following articles:* 
 
