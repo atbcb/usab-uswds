@@ -32,7 +32,7 @@ Access Board Executive Director Sachin Pavithran and Board Senior Accessibility 
     <img src="{{ site.baseurl }}/images/uploads/botten-speaking-phila-parksnrec.png" alt="Board Senior Accessibility Specialist and Training Coordinator Bill Botten speaking to the audience." class="center">
   </a>
   <figcaption style="text-align:center">
-    <em>Board Senior Accessibility Specialist and Training Coordinator Bill Botten speaking to the audience about his personal journey and ADA and ABA Accessibility Guidelines for recreation and outdoor areas.</em>
+    <em>Board Senior Accessibility Specialist and Training Coordinator Bill Botten speaking to the audience about the ADA and ABA Accessibility Guidelines for recreation and outdoor areas.</em>
   </figcaption>
 </figure>
 
