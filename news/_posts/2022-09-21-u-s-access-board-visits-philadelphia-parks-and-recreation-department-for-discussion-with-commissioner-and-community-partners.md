@@ -36,7 +36,7 @@ Access Board Executive Director Sachin Pavithran and Board Senior Accessibility 
   </figcaption>
 </figure>
 
-The discussion forum concluded with the Board engaged in dialogue with Commissioner Ott Lovell, Deputy Commissioner Bill Salvatore, Philadelphia Parks and Recreation staff, Amy McCann, Founder/Director of [Carousel Connections](http://www.carouselconnections.com/), Amy Nieves, Executive Director of [Philadelphia Mayor's Office for People with Disabilities](https://www.phila.gov/departments/mayors-office-for-people-with-disabilities/), [Alanna Raffel](https://techowlpa.org/towl_staff/alanna-raffel/), Occupational Therapist at Institute on Disabilities at Temple’s TechOWLs, and other members of the community.
+The discussion forum concluded with the Board engaged in dialogue with Commissioner Ott Lovell, Deputy Commissioner Bill Salvatore, Philadelphia Parks and Recreation staff, Amy McCann, Founder/Director of [Carousel Connections](http://www.carouselconnections.com/), Amy Nieves, Executive Director of [Philadelphia Mayor's Office for People with Disabilities](https://www.phila.gov/departments/mayors-office-for-people-with-disabilities/), [Alanna Raffel](https://techowlpa.org/towl_staff/alanna-raffel/), Occupational Therapist at Institute on Disabilities at Temple’s TechOWLs, and other members of the community. 
 
 <figure class="img-center">
   <a href="{{ site.baseurl }}/images/uploads/pavithran-ott-lovell.png">
