@@ -7,7 +7,7 @@ excerpt: Last week, the U.S. Access Board visited the National Park Service’s
   Independence National Historical Park as part of its multi-day visit to
   Philadelphia to learn about the state of accessibility in Philadelphia. The
   Board met with Park Superintendent Cynthia McLeod, and heard from Bill
-  Caughlan, Park Ranger/Interpretive Specialist, and Paul Stephens, XXXX, to . .
+  Caughlan, Park Ranger/Interpretive Specialist, and Paul Stephens, Historical Architect, to . .
   .
 image: /images/uploads/pavithran-liberty-bell.png
 image_alt_text: Executive Director Sachin Pavithran touching the liberty bell
