@@ -23,18 +23,19 @@ The Park provides different accessibility services on its [Accessibility webpage
 
 {: .clear }
 
-<figure class="img-left">
-  <img src="./images/uploads/pavithran-liberty-bell.png" alt="Access Board Executive Director Sachin Pavithran touching the Liberty Bell" class="center">
-  <figcaption style="text-align:center">
-    <em> Access Board Executive Director Sachin Pavithran touching the Liberty Bell</em>
-  </figcaption>
-</figure>
-<figure class="img-right">
-  <img src="./images/uploads/kuczynski-liberty-bell.png" alt="Access Board General Counsel Chris Kuczynski touching the Liberty Bell" class="center">
-  <figcaption style="text-align:center">
-    <em>Access Board General Counsel Chris Kuczynski touching the Liberty Bell</em>
-  </figcaption>
-</figure>
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <img class="img-full" src="{{ site.baseurl }}/images/uploads/pavithran-liberty-bell.png" alt="Access Board Executive Director Sachin Pavithran touching the Liberty Bell">
+      <span class="grid-line text-italic">Access Board Executive Director Sachin Pavithran touching the Liberty Bell.</span>
+    </div>
+    <div class="tablet:grid-col">
+      <img class="img-full" src="{{ site.baseurl }}/images/uploads/kuczynski-liberty-bell.png" alt="Access Board General Counsel Chris Kuczynski touching the Liberty Bell">
+      <span class="grid-line text-italic">Access Board General Counsel Chris Kuczynski touching the Liberty Bell.</span>
+    </div>
+  </div>
+</div>
+
 
 {: .clear }
 *Read more about the Board’s visit to Philadelphia in the following articles:* 
