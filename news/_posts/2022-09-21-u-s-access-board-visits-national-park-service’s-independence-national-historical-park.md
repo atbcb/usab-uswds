@@ -42,3 +42,5 @@ The Park provides different accessibility services on its [Accessibility webpage
 
 * [U.S. Access Board Holds Accessibility Trainings in Philadelphia](https://www.access-board.gov/news/2022/09/20/u-s-access-board-holds-accessibility-trainings-in-philadelphia/) 
 * [U.S. Access Board Attends Panel on Accessible Design for Neurodiversity](https://www.access-board.gov/news/2022/09/20/u-s-access-board-attends-panel-on-accessible-design-for-neurodiversity/)
+* [U.S. Access Board Visits Philadelphia Parks and Recreation Department for Discussion with Commissioner and Community Partners
+](https://www.access-board.gov/news/2022/09/21/u-s-access-board-visits-philadelphia-parks-and-recreation-department-for-discussion-with-commissioner-and-community-partners/)
