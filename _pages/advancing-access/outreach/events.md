@@ -12,7 +12,7 @@ permalink: /events/
 
 ## Public Events
 
-### Upcoming Events
+### Upcoming Access Board Events
 Upcoming events will be posted here soon.
 
 ### Public Events Archives
@@ -26,7 +26,7 @@ Upcoming events will be posted here soon.
 - [Accessible Virtual Meetings (January 13, 2021)](https://youtu.be/rR9RfhvM2sU)
 
 ## Access Board Meetings
-Members of the Access Board meet regularly every two months. Board meetings are open to the public. Visit the [Board Meetings page](https://www.access-board.gov/about/meetings.html) for more information and dates on upcoming meetings.
+Members of the Access Board meet regularly every two months. At the Board meetings, a public session is slated and open for members of the public to attend. Visit the [Board Meetings page](https://www.access-board.gov/about/meetings.html) for more information and dates on upcoming meetings.
 
 ### Future Board Meetings
 
