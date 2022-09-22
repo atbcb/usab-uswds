@@ -46,4 +46,4 @@ Visitors interested in the AV forum and sessions might also wish to review the f
 
 Additional resources will be posted on this page as they become available. You can [sign up](https://public.govdelivery.com/accounts/USACCESS/subscriber/new?topic_id=USACCESS_13) to receive details and other updates on the sessions by email.   
 
-Direct questions to Randall Duchesneau at <events@access-board.gov> or call 202-272-0044.
+Direct questions to Juliet Shoultz at <ta@access-board.gov> or call 202-272-0045.
