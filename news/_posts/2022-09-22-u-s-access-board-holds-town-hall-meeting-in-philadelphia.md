@@ -19,8 +19,6 @@ Board Chair Williams opened the town hall by highlighting the Board’s activiti
 
 Following the opening remarks, community members testified about a range of concerns, including accessibility barriers at a local post office; accessibility issues in the public right-of-way; lack of services for adults with developmental disabilities; lack of communication access at medical appointments, job interviews, and on public transportation; and unavailability of accessible at-home COVID tests. Speakers highlighted the substantial percentage of Philadelphia residents with disabilities (over 16%) and concerns regarding accessibility in the City’s numerous historic buildings. 
 
-The town hall also included remarks from City of Philadelphia Mayor Jim Kenney and Amy Nieves, Executive Director of [Philadelphia Mayor’s Office for People with Disabilities](https://www.phila.gov/departments/mayors-office-for-people-with-disabilities/). Nieves discussed the [Philadelphia Disabilities Characteristics Map](https://www.phila.gov/documents/guide-to-a-map-of-disability-characteristics-in-philadelphia/), which provides a visual representation of the City’s population of persons with disabilities by census tract. The Map, which was developed in collaboration with people with disabilities, is being used as a planning tool for local government services. Tom Earle, CEO of Liberty Resources, Inc. also provided remarks on the work of his organization in advancing accessibility in Philadelphia.
-
 <figure class="img-right">
   <a href="{{ site.baseurl }}/images/uploads/town-hall-front-of-room.png">
     <img src="{{ site.baseurl }}/images/uploads/town-hall-front-of-room.png" alt="City of Philadelphia Mayor Jim Kenney speaking to the audience." class="center">
@@ -29,6 +27,8 @@ The town hall also included remarks from City of Philadelphia Mayor Jim Kenney a
     <em>City of Philadelphia Mayor Jim Kenney speaking to the audience.</em>
   </figcaption>
 </figure>
+
+The town hall also included remarks from City of Philadelphia Mayor Jim Kenney and Amy Nieves, Executive Director of [Philadelphia Mayor’s Office for People with Disabilities](https://www.phila.gov/departments/mayors-office-for-people-with-disabilities/). Nieves discussed the [Philadelphia Disabilities Characteristics Map](https://www.phila.gov/documents/guide-to-a-map-of-disability-characteristics-in-philadelphia/), which provides a visual representation of the City’s population of persons with disabilities by census tract. The Map, which was developed in collaboration with people with disabilities, is being used as a planning tool for local government services. Tom Earle, CEO of Liberty Resources, Inc. also provided remarks on the work of his organization in advancing accessibility in Philadelphia.
 
 Following the town hall meeting, the Board and members of the public continued conversations on accessible design and disability issues at the networking reception, sponsored by [The Sierra Group Academy](https://www.thesierragroup.com/), [Tamman, Inc.,](https://tammaninc.com/) and the [Mid-Atlantic ADA Center](https://www.adainfo.org/). 
 
