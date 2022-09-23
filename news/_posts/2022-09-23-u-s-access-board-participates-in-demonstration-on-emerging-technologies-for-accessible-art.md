@@ -32,7 +32,6 @@ The Board experienced Music: Not Impossible’s Vibrotextile™ wearable technol
   </div>
 </div>
 
-
 {: .clear }
 
 The Board also participated in a demonstration of Smart Caption Glasses, presented by Lisa Sonneborn, Director of [Media Arts and Culture for the Institute on Disabilities at Temple University,](https://disabilities.temple.edu/advocacy/media-arts-culture) and Marcie Bramucci, Executive Artistic Director of [Hedgerow Theatre](https://www.hedgerowtheatre.org/). The Smart Caption Glasses allow users to view a live transcript within a scene, circumventing the need to shift one’s view away from the action of a scene to view open or closed captions. Smart Caption Glasses have been used at Hedgerow Theatre for the past year.   
