@@ -42,3 +42,6 @@ Read more about the Board’s visit to Philadelphia in the following articles: 
 * [U.S. Access Board Visits National Park Service’s Independence National Historical Park](https://www.access-board.gov/news/2022/09/21/u-s-access-board-visits-national-park-service-s-independence-national-historical-park/) 
 * [U.S. Access Board Visits Philadelphia Parks and Recreation Department for Discussion with Commissioner and Community Partners](https://www.access-board.gov/news/2022/09/21/u-s-access-board-visits-philadelphia-parks-and-recreation-department-for-discussion-with-commissioner-and-community-partners/) 
 * [U.S. Access Board Holds Town Hall Meeting in Philadelphia](https://www.access-board.gov/news/2022/09/22/u-s-access-board-holds-town-hall-meeting-in-philadelphia/)
+* [U.S. Access Board Participates in Demonstration on Emerging Technologies for Accessible Art]( https://www.access-board.gov/news/2022/09/23/u-s-access-board-participates-in-demonstration-on-emerging-technologies-for-accessible-art/)
+* [U.S. Access Board Visits Inglis Innovation Center and Attends Disability Art Show]( https://www.access-board.gov/news/2022/09/23/u-s-access-board-visits-inglis-innovation-center-and-attends-disability-art-show/)
+
