@@ -7,11 +7,23 @@ excerpt: "During its visit to Philadelphia last week, the U.S. Access Board
   participated in a demonstration of emerging technologies that provide people
   with disabilities enhanced access to the arts. The Board learned about Music:
   Not Impossible and Smart Caption Glasses . . ."
+image: /images/uploads/fc-demo.png
+image_alt_text: Board members listen to Daniel Belquer of Music: Not Impossible speaking
+
 featured: false
 ---
 *This article is part of a series on the U.S. Access Board’s visit to Philadelphia from September 13 – 15*   
 
-During its visit to Philadelphia last week, the U.S. Access Board participated in a demonstration of emerging technologies that provide people with disabilities enhanced access to the arts. The Board learned about [Music: Not Impossible,](https://www.notimpossible.com/projects/music-not-impossible) which aims to provide shared experiences at concert events for hearing and deaf attendees, and Smart Caption Glasses, which allow people who are deaf or hard of hearing to view live, synchronized captions of a performance from any seat in a theater.  
+During its visit to Philadelphia last week, the U.S. Access Board participated in a demonstration of emerging technologies that provide people with disabilities enhanced access to the arts. The Board learned about [Music: Not Impossible,](https://www.notimpossible.com/projects/music-not-impossible) which aims to provide shared experiences at concert events for hearing and deaf attendees, and Smart Caption Glasses, which allow people who are deaf or hard of hearing to view live, synchronized captions of a performance from any seat in a theater.
+
+<figure class="img-left">
+  <a href="{{ site.baseurl }}/images/uploads/ braitmayer-wearable-tech.png">
+    <img src="{{ site.baseurl }}/images/uploads/ braitmayer-wearable-tech.png" alt="Public Board Member Karen Braitmayer wearing Music: Not Impossible’s Vibrotextile™ wearable technology." class="center">
+  </a>
+  <figcaption style="text-align:center">
+    <em> Public Board Member Karen Braitmayer wearing Music: Not Impossible’s Vibrotextile™ wearable technology.</em>
+  </figcaption>
+</figure>
 
 The Board experienced Music: Not Impossible’s Vibrotextile™ wearable technology, presented by Daniel Belquer and Flavia Naslausky. The technology, which was developed in collaboration with deaf singer-songwriter Mandy Harvey, consists of a battery-powered wireless harness, two wristbands, and two ankle bands that supply eight distinct areas of different levels of vibration across a user’s body. The technology has been used at a variety of performance events and is scheduled to be mass produced next year in partnership with [Avnet](https://www.avnet.com/wps/portal/us/). Board members experienced three demonstrations of the innovative technology that included vibrations corresponding to music and the emotions of a movie soundtrack.   
 
