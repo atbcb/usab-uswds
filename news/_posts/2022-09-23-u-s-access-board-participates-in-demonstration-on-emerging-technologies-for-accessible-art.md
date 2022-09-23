@@ -24,7 +24,7 @@ The Board experienced Music: Not Impossible’s Vibrotextile™ wearable technol
       <span class="grid-line text-italic">Access Board members and staff putting on Music: Not Impossible’s Vibrotextile™ wearable technology.</span>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}/images/uploads/ braitmayer-wearable-tech.png" alt=" Public Board Member Karen Braitmayer wearing Music: Not Impossible’s Vibrotextile™ wearable technology">
+      <img class="img-full" src="{{ site.baseurl }}/images/uploads/braitmayer-wearable-tech.png" alt=" Public Board Member Karen Braitmayer wearing Music: Not Impossible’s Vibrotextile™ wearable technology">
       <span class="grid-line text-italic">Public Board Member Karen Braitmayer wearing Music: Not Impossible’s Vibrotextile™ wearable technology.</span>
     </div>
   </div>
