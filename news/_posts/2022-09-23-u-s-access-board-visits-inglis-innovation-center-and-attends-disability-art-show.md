@@ -13,7 +13,16 @@ featured: false
 
 As part of the U.S. Access Board’s multi-day visit to Philadelphia to learn about the state of accessibility, the Board visited the [Inglis Innovation Center](https://www.inglis.org/programs-and-services/innovation-center) and attended a diverse arts show by artists with disabilities and curated by [Disability Pride PA](https://www.disabilitypridepa.org/). 
 
-Inglis Innovation Center, which opened in 2019, supports independent, community living for persons with disabilities through innovative day programming, adapted technology, and employment services. The Center includes accessible bathing facilities, a community kitchen, and various accessibility features that exceed minimum federal accessibility standards.  
+Inglis Innovation Center, which opened in 2019, supports independent, community living for persons with disabilities through innovative day programming, adapted technology, and employment services. The Center includes accessible bathing facilities, a community kitchen, and various accessibility features that exceed minimum federal accessibility standards.
+
+<figure class="img-left">
+  <a href="{{ site.baseurl }}/images/uploads/inglis-accessible-stovetop.png ">
+    <img src="{{ site.baseurl }}/images/uploads/inglis-accessible-stovetop.png" alt="Accessible stovetop with knee and toe clearance and adjustable mirror on backwall at Inglis community center." class="center">
+  </a>
+  <figcaption style="text-align:center">
+    <em>Accessible stovetop with knee and toe clearance and adjustable mirror on backwall at Inglis community center.</em>
+  </figcaption>
+</figure>
 
 Additionally, Inglis Innovation Center connects community members with assistive technology, such as eye-tracker software and smart home technology. The Center also has advanced an innovative approach to creating low-cost customized assistive technology using 3D printers. Inglis’ research and development team uses the printers to create accessible objects as requested by people with disabilities. For example, the lab has developed modified television remotes that allow those with limited dexterity to easily select their chosen buttons. 
 
