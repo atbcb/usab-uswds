@@ -26,8 +26,8 @@ Additionally, Inglis Innovation Center connects community members with assistive
       <span class="grid-line text-italic">Inglis staff showing 3D-made object for accessible food plate.</span>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}/images/uploads/kashar-remote.png" alt="Public Board Member Ander Kashar holding accessible remote created by 3D printer at Inglis Innovation Center.">
-      <span class="grid-line text-italic">Public Board Member Ander Kashar holding accessible remote created by 3D printer at Inglis Innovation Center.</span>
+      <img class="img-full" src="{{ site.baseurl }}/images/uploads/kashar-remote.png" alt="Public Board Member Alexis Ander Kashar holding accessible remote created by 3D printer at Inglis Innovation Center.">
+      <span class="grid-line text-italic">Public Board Member Alexis Ander Kashar holding accessible remote created by 3D printer at Inglis Innovation Center.</span>
     </div>
   </div>
 </div>
