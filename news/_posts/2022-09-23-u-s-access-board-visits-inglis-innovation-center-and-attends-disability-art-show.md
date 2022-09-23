@@ -17,6 +17,19 @@ Inglis Innovation Center, which opened in 2019, supports independent, community 
 
 Additionally, Inglis Innovation Center connects community members with assistive technology, such as eye-tracker software and smart home technology. The Center also has advanced an innovative approach to creating low-cost customized assistive technology using 3D printers. Inglis’ research and development team uses the printers to create accessible objects as requested by people with disabilities. For example, the lab has developed modified television remotes that allow those with limited dexterity to easily select their chosen buttons. 
 
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <img class="img-full" src="{{ site.baseurl }}/images/uploads/inglis-staff-3d-objective.png" alt="Inglis staff showing 3D-made object for accessible food plate">
+      <span class="grid-line text-italic">Inglis staff showing 3D-made object for accessible food plate.</span>
+    </div>
+    <div class="tablet:grid-col">
+      <img class="img-full" src="{{ site.baseurl }}/images/uploads/kashar-remote.png" alt="Public Board Member Ander Kashar holding accessible remote created by 3D printer at Inglis Innovation Center.">
+      <span class="grid-line text-italic">Public Board Member Ander Kashar holding accessible remote created by 3D printer at Inglis Innovation Center.</span>
+    </div>
+  </div>
+</div>
+
 Board members and staff also toured accessible residential units at Inglis Methodist Gardens and spoke with residents. Inglis Methodist Gardens opened in 2021 and features smart technology in accessible units, such as smart blinds, locks, thermostat, and lighting. 
 
 The Access Board concluded its visit to Inglis Innovation Center with an inclusive meditation with movement demonstration from DanceAbility Master Teacher Connie Vandarakis and an art show featuring artists with disabilities and coordinated by Disability Pride PA. Vicki Landers, Founder and Director of Disability Pride PA, spoke with Board members about how art has been integral to disability history. Several artists were present, and Board members engaged with them and their visual art, sculptures (that were permitted to be touched), and mixed media art.  
