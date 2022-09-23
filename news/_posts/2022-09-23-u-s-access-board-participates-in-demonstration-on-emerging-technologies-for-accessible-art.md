@@ -9,7 +9,6 @@ excerpt: "During its visit to Philadelphia last week, the U.S. Access Board
   Not Impossible and Smart Caption Glasses . . ."
 image: /images/uploads/fc-demo.png
 image_alt_text: Board members listen to Daniel Belquer of Music: Not Impossible speaking
-
 featured: false
 ---
 *This article is part of a series on the U.S. Access Board’s visit to Philadelphia from September 13 – 15*   
