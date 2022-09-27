@@ -27,7 +27,7 @@ Public comments for the ANPRM are due by November 21, 2022. Individuals may subm
 
 >> Office of Technical and Information Services \
 >> U.S. Access Board  \
->> 1331 F Street NW, Suite 1000  \ 
+>> 1331 F Street NW, Suite 1000 
 >> Washington, DC 20004-1111  
 
 For background and more information, access the docket via <https://www.regulations.gov/docket/ATBCB-2022-0004>.  For further information, contact Bruce Bailey at 1-202-272-0024 or [bailey@access-board.gov](mailto:bailey@access-board.gov), or Wendy Marshall at 1-1-202-272-0043 or [marshall@access-board.gov](mailto:marshall@access-board.gov).
