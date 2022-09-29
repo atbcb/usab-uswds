@@ -16,13 +16,13 @@ These facilities must meet [standards for accessible design]({{ site.baseurl }}/
 
 ### When Not to File an ABA Complaint
 
-Do not file an ABA complaint if your concerns are related to something other than the accessibility of covered buildings (e.g., COVID protocols, employment benefits, health insurance, taxes).  If your concerns are about the accessibility of state or local government facilities, or places of public accommodation (e.g., movie theaters, restaurants, hotels), or if you believe you have been discriminated against based on your race, color, national origin, disability status, sex, religion, or familial status, file a civil rights complaint with the U.S. Department of Justice using its [Civil Rights Reporting Portal](https://https://civilrights.justice.gov/report/). For information on other Federal laws that address accessibility and protect the rights of people with disabilities, please refer to these [other resources](https://www.access-board.gov/enforcement/other-resources.html).
+Do not file an ABA complaint if your concerns are related to something other than the accessibility of covered buildings (e.g., COVID protocols, employment benefits, health insurance, taxes).  If your concerns are about the accessibility of state or local government facilities, or places of public accommodation (e.g., movie theaters, restaurants, hotels), or if you believe you have been discriminated against based on your race, color, national origin, disability status, sex, religion, or familial status, file a civil rights complaint with the U.S. Department of Justice using its [Civil Rights Reporting Portal](https://civilrights.justice.gov/report/). For information on other Federal laws that address accessibility and protect the rights of people with disabilities, please refer to these [other resources]({{ site.baseurl }}/enforcement/other-resources.html).
 
 ## How to File an ABA Complaint
 
-1. [Online ABA Complaint Form]({{ site.baseurl }}/enforcement/complaint.html) (RECOMMENDED)
+1. [Online ABA Complaint Form]({{ site.baseurl }}/enforcement/complaint.html) **recommended**
 2. E-mail: <enforce@access-board.gov>
 3. Fax: 202-272-0081
 4. Mail: U.S. Access Board, 1331 F Street, NW, Suite 1000, Washington, DC 20004
 
-Complaints cannot be filed by phone, but if you are unable to file online or by e-mail due to a disability, call 202-272-0050 (voice) or 202-272-0066 (TTY).
+Complaints cannot be filed by phone, but if you are unable to file online or by e-mail due to a disability, call 202-272-0050 (voice).
