@@ -8,7 +8,7 @@ excerpt: Dave Yanchulis, the U.S. Access Board’s Director of Office of Technic
   of this month. A Board employee for over 36 years, Yanchulis served in various
   capacities, including many years as an Accessibility Specialist. He was active
   in the development and update of . . .
-image: /images/uploads/dave-yanchulis-small.png
+image: /images/uploads/dave-yanchulis.png
 image_alt_text: Portrait of Dave Yanchulis
 featured: false
 ---
