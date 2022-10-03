@@ -10,7 +10,22 @@ excerpt: "October is National Disability Employment Awareness Month (NDEAM),
   of the Equity Equation” to recognize the important role people with
   disabilities play in a diverse and inclusive workforce. U.S. Access Board
   staff will be presenting and . . ."
-featured: false
+image: /images/uploads/ndeam_poster_2022.png
+image_alt_text: "The poster is rectangular in shape with a black colored
+  chalkboard background overlaid with mathematical equations. In the center of
+  the poster, on a diagonal, is a black rectangle bordered by small teal, yellow
+  and red rectangles. It features the 2022 NDEAM theme, “Disability: Part of the
+  Equity Equation,” along with an equation composed of several graphics: a
+  circular photo of a woman in a wheelchair working at a computer with
+  colleagues, followed by a plus sign, followed by a square image of a woman who
+  uses crutches viewing a document with a colleague, followed by an equal sign,
+  followed by a light bulb icon. Across the top of the rectangle in small, white
+  letters are the words National Disability Employment Awareness Month. Along
+  the bottom in small white letters is the hashtag “NDEAM” followed by ODEP’s
+  website address, dol.gov/ODEP. In the lower right corner in white lettering is
+  the DOL seal followed by the words “Office of Disability Employment Policy
+  United States Department of Labor.”"
+featured: true
 ---
 October is National Disability Employment Awareness Month (NDEAM), which celebrates the contributions of America’s workers with disabilities and showcases supportive, inclusive employment policies and practices. The U.S. Department of Labor themed this year’s NDEAM observance as “Disability: Part of the Equity Equation” to recognize the important role people with disabilities play in a diverse and inclusive workforce. U.S. Access Board staff will be presenting on accessibility and participating in various conferences, forums, summits, and trainings throughout the month. 
 
