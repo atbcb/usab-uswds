@@ -2,7 +2,7 @@
 layout: post
 title: "U.S. Access Board Staff to Provide Trainings and Presentations at
   National Conferences during National Disability Employment Awareness Month "
-date: 2022-10-04
+date: 2022-10-03
 excerpt: "October is National Disability Employment Awareness Month (NDEAM),
   which celebrates the contributions of America’s workers with disabilities and
   showcases supportive, inclusive employment policies and practices. The U.S.
