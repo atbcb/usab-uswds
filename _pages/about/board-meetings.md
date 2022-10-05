@@ -12,24 +12,24 @@ Members of the U.S. Access Board meet regularly every two months. Board meetings
 
 ## Next Board Meeting
 
-The next virtual meeting of the Board is scheduled for **Wednesday, November 9, 2022** beginning at 1:00 p.m. Eastern.  At this meeting, the Board will hear Committee reports and Federal member agency updates.  The invited speaker, Ms. Amy Nieves, comes to us from the Philadelphia Mayor’s Office for People with Disabilities.  The Honorable Taryn Williams will chair this meeting.
+The next virtual meeting of the Board is scheduled for **Wednesday, November 9, 2022** beginning at 1:00 p.m. (ET).  At this meeting, the Board will hear Committee reports and Federal member agency updates.  The invited speaker, Amy Nieves, comes to us from the Philadelphia Mayor’s Office for People with Disabilities.  The Honorable Taryn Williams will chair this meeting.
 
 > ***Meeting of the U.S. Access Board*** \
-> November 9, 2022, 1:00 – 2:30 p.m. (Eastern) \
-> Meeting link:  [www.zoomgov.com/j/1608576554] \
+> November 9, 2022, 1:00 – 2:30 p.m. (ET) \
+> Meeting link:  [www.zoomgov.com/j/1608576554](www.zoomgov.com/j/1608576554) \
 > Meeting ID:  160 857 6554 \
 > Dial in:  (646) 828-7666 \
 > Contact: [events@access-board.gov](mailto:events@access-board.gov) 
 
 >>_Agenda_ \
->>*Introductory Remarks; Roll Call; Approval of July 13, 2022 draft meeting minutes (vote) \
->>*Guest Speaker:  Ms. Amy Nieves, Philadelphia Mayor’s Office for People with Disabilities \
->>*Executive Director's Report \
->>*Standing Committee Reports \
->>*Ad Hoc Committee Reports \
->>*Federal Agency Updates \
->>*New Business \
->>*Adjourn \
+>> * Introductory Remarks; Roll Call; Approval of July 13, 2022 draft meeting minutes (vote) \
+>> * Guest Speaker: Amy Nieves, Philadelphia Mayor’s Office for People with Disabilities \
+>> * Executive Director's Report \
+>> * Standing Committee Reports \
+>> * Ad Hoc Committee Reports \
+>> * Federal Agency Updates \
+>> * New Business \
+>> * Adjourn
 
 
 ## Future Board Meetings
