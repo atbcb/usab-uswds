@@ -12,21 +12,28 @@ Members of the U.S. Access Board meet regularly every two months. Board meetings
 
 ## Next Board Meeting
 
-The next meeting of the Board is scheduled for **Wednesday, September 14, 2022** in Philadelphia at 1:30 p.m. (ET) at Liberty Resources, Inc. (112 N. 8th St., Philadelphia, PA 19107). This meeting will be a town hall meeting where Presidentially-appointed Access Board members and representatives from various federal member agencies will be present to hear from the local community about the state of accessibility in Philadelphia. Following the town hall meeting from 3:45 – 5:00 will be a networking opportunity and reception, sponsored by [The Sierra Group Academy](https://www.thesierragroup.com/), [Tamman, Inc.,](https://tammaninc.com/) and the [Mid-Atlantic ADA Center](https://www.adainfo.org/). For more information, visit the [Board's news release](https://www.access-board.gov/news/2022/08/08/u-s-access-board-to-hold-september-town-hall-meeting-and-trainings-in-philadelphia/).
+The next virtual meeting of the Board is scheduled for **Wednesday, November 9, 2022** beginning at 1:00 p.m. Eastern.  At this meeting, the Board will hear Committee reports and Federal member agency updates.  The invited speaker, Ms. Amy Nieves, comes to us from the Philadelphia Mayor’s Office for People with Disabilities.  The Honorable Taryn Williams will chair this meeting.
 
-> ***Town Hall Meeting: The State of Accessibility in Philadelphia*** \
-> September 14, 2022, 1:30 – 3:30 p.m., followed by networking reception 3:45 – 5:00 p.m. \
-> Liberty Resources, Inc. \
-> 112 N. 8th St. \
-> Philadelphia, PA 19107 \
-> [U.S. Access Board Events in Philadelphia registration form](https://web.cvent.com/event/7ebeeb80-e968-4510-9bb8-ad1ab901d129/regProcessStep1?RefId=pub&rp=81a1a9d5-f1fa-4b08-b171-8fab1c2d8b14) (the town hall meeting is the eighth option on the second page of the form) \
+> ***Meeting of the U.S. Access Board*** \
+> November 9, 2022, 1:00 – 2:30 p.m. (Eastern) \
+> Meeting link:  [www.zoomgov.com/j/1608576554] \
+> Meeting ID:  160 857 6554 \
+> Dial in:  (646) 828-7666 \
 > Contact: [events@access-board.gov](mailto:events@access-board.gov) 
+
+>>_Agenda_ \
+>>*Introductory Remarks; Roll Call; Approval of July 13, 2022 draft meeting minutes (vote) \
+>>*Guest Speaker:  Ms. Amy Nieves, Philadelphia Mayor’s Office for People with Disabilities \
+>>*Executive Director's Report \
+>>*Standing Committee Reports \
+>>*Ad Hoc Committee Reports \
+>>*Federal Agency Updates \
+>>*New Business \
+>>*Adjourn \
 
 
 ## Future Board Meetings
 
-- September 13 - 15, 2022, In-person, Philadelphia, PA
-- November 7 - 9, 2022, Virtual 
 - January 9 - 11, 2023, Virtual
 - March 13 - 15, 2023, In-person, Washington, DC
 - May 8 - 10, 2023, Virtual
@@ -36,8 +43,8 @@ The next meeting of the Board is scheduled for **Wednesday, September 14, 2022**
 
 ## Board Meeting Archives
 
-- [January 13, 2022](https://www.youtube.com/watch?v=Mth5VLrWkr0)
 - [May 11, 2022](https://www.youtube.com/watch?v=YEzOVtpOGaY)
+- [January 13, 2022](https://www.youtube.com/watch?v=Mth5VLrWkr0)
 - [January 12, 2022](https://www.youtube.com/watch?v=gJAbbPOILCg)
 - [November 10, 2021](https://www.youtube.com/watch?v=mDKLJurVTcY)
 - [September 22, 2021](https://www.youtube.com/watch?v=VBJBi-DQRRk)
