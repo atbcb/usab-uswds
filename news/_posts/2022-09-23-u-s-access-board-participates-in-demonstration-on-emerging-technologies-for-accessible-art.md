@@ -35,7 +35,7 @@ The Board also participated in a demonstration of Smart Caption Glasses, present
 The technology demonstrations were organized by John Orr, Executive Director of [Art-Reach](https://www.art-reach.org/), a non-profit organization devoted to increasing cultural participation \
 among traditionally underrepresented audiences in both the disability and low-income communities. 
 
-Read more about the Board’s visit to Philadelphia in the following articles: 
+*Read more about the Board’s visit to Philadelphia in the following articles:* 
 
 * [U.S. Access Board Holds Accessibility Trainings in Philadelphia](https://www.access-board.gov/news/2022/09/20/u-s-access-board-holds-accessibility-trainings-in-philadelphia/) 
 * [U.S. Access Board Attends Panel on Accessible Design for Neurodiversity](https://www.access-board.gov/news/2022/09/20/u-s-access-board-attends-panel-on-accessible-design-for-neurodiversity/) 
