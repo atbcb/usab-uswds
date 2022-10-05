@@ -21,15 +21,15 @@ The next virtual meeting of the Board is scheduled for **Wednesday, November 9, 
 > Dial in:  (646) 828-7666 \
 > Contact: [events@access-board.gov](mailto:events@access-board.gov) 
 
->>_Agenda_
->> * Introductory Remarks; Roll Call; Approval of July 13, 2022 draft meeting minutes (vote)
->> * Guest Speaker: Amy Nieves, Philadelphia Mayor’s Office for People with Disabilities
->> * Executive Director's Report
->> * Standing Committee Reports
->> * Ad Hoc Committee Reports
->> * Federal Agency Updates
->> * New Business
->> * Adjourn
+>_Agenda_
+> * Introductory Remarks; Roll Call; Approval of July 13, 2022 draft meeting minutes (vote)
+> * Guest Speaker: Amy Nieves, Philadelphia Mayor’s Office for People with Disabilities
+> * Executive Director's Report
+> * Standing Committee Reports
+> * Ad Hoc Committee Reports
+> * Federal Agency Updates
+> * New Business
+> * Adjourn
 
 
 ## Future Board Meetings
