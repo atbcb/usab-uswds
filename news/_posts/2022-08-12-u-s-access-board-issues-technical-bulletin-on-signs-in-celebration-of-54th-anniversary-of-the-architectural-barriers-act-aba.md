@@ -11,7 +11,7 @@ excerpt: The U.S. Access Board has published a technical bulletin on accessible
   Congress to ensure access to the built environment for people with
   disabilities. The law requires that . . .
 image: /images/uploads/signs-guide-and-54th-aba-anniversary.png
-featured: true
+featured: false
 ---
 The U.S. Access Board has published a technical bulletin on accessible signage that covers the requirements for signs in Chapter 7: Communication Elements and Features of the Americans with Disabilities Act (ADA) and Architectural Barriers Act (ABA) Accessibility Standards. The bulletin includes both the [ADA Technical Guide to Signs](https://www.access-board.gov/ada/guides/chapter-7-signs/) and the [ABA Technical Guide to Signs](https://www.access-board.gov/aba/guides/chapter-7-signs/), both of which address signs for designations of rooms and spaces, international symbols of accessibility, raised characters, finish and contrast, Grade 2 braille, visual character spacing and height, locations of signs at facilities, and other spaces and elements. The bulletin also answers common questions on tactile signs, visual signs, and pictograms. Vivid and detailed graphics of compliant signage are included to illustrate how various requirements can be met. 
 
