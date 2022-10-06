@@ -18,7 +18,7 @@ image_alt_text: Perspective view of two EV charging spaces sharing a center
   aisle. (The EV charger on the left is rotated to face the right and has clear
   floor space on the right, and the EV charger on the right is rotated to face
   the left and has clear floor space on the left).
-featured: true
+featured: false
 ---
 The U.S. Access Board has released [Design Recommendations for Accessible Electric Vehicle Charging Stations](https://www.access-board.gov/ta/tad/ev/), a technical assistance document that reviews existing requirements and new recommendations for making electric vehicle (EV) charging stations accessible. This technical assistance will aid in the development of a national network of EV charging stations that is accessible to everyone, including people with disabilities. The technical assistance document is a valuable resource for those involved in the planning, designing, building, installing, and use of EV charging stations, including State and local governments, designers and developers, electrical and construction professionals, equipment manufacturers, automakers, utility providers, charge point operators and e-mobility service providers, EV owners, and people with disabilities. 
 
