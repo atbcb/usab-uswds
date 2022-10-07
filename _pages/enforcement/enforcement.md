@@ -20,7 +20,7 @@ Do not file an ABA complaint if your concerns are related to something other tha
 
 ## How to File an ABA Complaint
 
-1. [Online ABA Complaint Form]({{ site.baseurl }}/enforcement/complaint.html) **recommended**
+1. [Online ABA Complaint Form](https://access-board.force.com) **recommended**
 2. E-mail: <enforce@access-board.gov>
 3. Fax: 202-272-0081
 4. Mail: U.S. Access Board, 1331 F Street, NW, Suite 1000, Washington, DC 20004
