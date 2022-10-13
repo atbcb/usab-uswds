@@ -1580,9 +1580,9 @@ Where extreme or numerous exceptions make it impracticable to provide a newly co
 
 The Access Board has developed sample notification forms with assistance from the accessibility program managers for the Federal land management agencies. These forms can be used to notify the Access Board when an entire trail or beach access route is exempted. The Access Board plans to monitor situations where the exceptions for trails and beach access routes result in exempting an entire trail or beach access route. The notification forms do not require approval or any other action on the part of the Access Board or the Federal agency. The Access Board will use the information provided by the Federal agencies to develop additional guidance on exempting entire trails and beach access routes. Federal agencies are encouraged to seek technical assistance from the Access Board at <outdoor@access-board.gov> when considering exempting an entire trail or beach access route.
 
--   [Entire Trail Exemption Form](../../../files/ada-aba/archive/trail_exemption_notice.pdf) (1017.2 Exception 2)
--   [Entire Beach Access Route Exemption Form](../../../files/ada-aba/archive/beach_route_exemption_notice.pdf) (1018.2 Exception 2)
+-   [Entire Trail Exemption Form](../../../files/aba/guides/outdoor/trail_exemption_notice.pdf) (1017.2 Exception 2)
+-   [Entire Beach Access Route Exemption Form](../../../files/aba/guides/outdoor/beach_route_exemption_notice.pdf) (1018.2 Exception 2)
 
 #### More Information
 
-Copies of the final rule for federal outdoor developed areas and technical assistance is available from the U.S. Access Board at www.access-board.gov or by calling (800) 872--2253 (voice) or (800) 993--2822 (TTY).
+Copies of the final rule for federal outdoor developed areas and technical assistance is available from the U.S. Access Board at www.access-board.gov or by calling (202) 272--0080 (voice).
