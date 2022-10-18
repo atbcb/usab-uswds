@@ -22,11 +22,11 @@ Members of the public may attend the meeting through the [Zoom.gov platform](htt
 
 > *Agenda* 
 
->> * Introductory Remarks; Roll Call; Approval of July 13, 2022 draft meeting minutes (vote) 
->> * Executive Director’s Report 
->> * Guest Speaker: Amy Nieves, Philadelphia Mayor’s Office for People with Disabilities   
->> * Standing Committee Reports 
->> * Ad Hoc Committee Reports 
->> * Federal Agency Updates 
->> * New Business 
->> * Adjourn
+> * Introductory Remarks; Roll Call; Approval of July 13, 2022 draft meeting minutes (vote) 
+> * Executive Director’s Report 
+> * Guest Speaker: Amy Nieves, Philadelphia Mayor’s Office for People with Disabilities   
+> * Standing Committee Reports 
+> * Ad Hoc Committee Reports 
+> * Federal Agency Updates 
+> * New Business 
+> * Adjourn
