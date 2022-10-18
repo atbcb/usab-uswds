@@ -13,14 +13,14 @@ All are welcome to attend the next bimonthly meeting of the U.S. Access Board, w
 
 Members of the public may attend the meeting through the [Zoom.gov platform](https://www.access-board.gov/about/www.zoomgov.com/j/1608576554) or by phone (listen-only mode). For further information, contact Rose Marie Bunales at [events@access-board.gov.](mailto:events@access-board.gov)  
 
-> Meeting of the U.S. Access Board \ 
-> November 9, 2022, 1:00 – 2:30 p.m. (ET)  \ 
-> Meeting link: [www.zoomgov.com/j/1608576554](http://www.zoomgov.com/j/1608576554)  \
-> Meeting ID: 160 857 6554  \
-> Dial in: (646) 828-7666  \
+> **Meeting of the U.S. Access Board** \
+> November 9, 2022, 1:00 – 2:30 p.m. (ET) \
+> Meeting link: [www.zoomgov.com/j/1608576554](http://www.zoomgov.com/j/1608576554) \
+> Meeting ID: 160 857 6554 \
+> Dial in: (646) 828-7666 \
 > Contact: [events@access-board.gov](mailto:events@access-board.gov)    
 
-> Agenda 
+> *Agenda* 
 
 >> * Introductory Remarks; Roll Call; Approval of July 13, 2022 draft meeting minutes (vote) 
 >> * Executive Director’s Report 
