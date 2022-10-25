@@ -15,7 +15,7 @@ permalink: /events/
 ### Upcoming Access Board Events
 > ***Meeting of the U.S. Access Board*** \
 > November 9, 2022, 1:00 – 2:30 p.m. (ET) \
-> Meeting link:  [www.zoomgov.com/j/1608576554](www.zoomgov.com/j/1608576554) \
+> Meeting link:  [www.zoomgov.com/j/1608576554](https://www.zoomgov.com/j/1608576554?pwd=ZXI0U2lTQ2hna2M4UUorekNhdjZ5dz09) \
 > Meeting ID:  160 857 6554 \
 > Dial in:  (646) 828-7666 \
 > Contact: [events@access-board.gov](mailto:events@access-board.gov) 
