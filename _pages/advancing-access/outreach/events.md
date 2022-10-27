@@ -35,7 +35,6 @@ Members of the Access Board meet regularly every two months. At the Board meetin
 
 ### Future Board Meetings
 
-- September 13 - 15, 2022, In-person, Philadelphia, PA
 - November 7 - 9, 2022, Virtual 
 - January 9 - 11, 2023, Virtual
 - March 13 - 15, 2023, In-person, Washington, DC
