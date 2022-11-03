@@ -26,7 +26,7 @@ If you would like to file a Section 508 related complaint, please contact Earlen
 > Access Board \
 > 1331 F Street NW \
 > Suite 1000 \
-> Washington, DC&mdash; 20004-1111
+> Washington, DC&nbsp; 20004-1111
 
 Questions about accessibility of information and communication technologies may be directed to <508@access-board.gov>.
 
