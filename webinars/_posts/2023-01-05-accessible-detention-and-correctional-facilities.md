@@ -46,7 +46,7 @@ Unique security features can pose challenges to designing accessible detention a
 
 [Bill Botten](https://www.accessibilityonline.org/ao/speakers/10008/?ret=speakers), Training Coordinator and Senior Accessibility Specialist, **U.S. Access Board**
 
-[Bobby Stinnette](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10811&ret=Accessible%20Amusement%20Rides), Accessibility Specialist, U.S. Access Board
+[Bobby Stinnette](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10811&ret=Accessible%20Amusement%20Rides), Accessibility Specialist, **U.S. Access Board**
 
 ### Session Questions
 
