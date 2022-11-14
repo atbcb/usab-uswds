@@ -14,11 +14,11 @@ The U.S. Access Board is committed to making its information and communication t
 
 The Section 508 standards are the technical requirements and criteria that are used to measure conformance with the law.  More information on Section 508 and the technical standards can be found at [www.section508.gov](http://www.section508.gov/) and on our website. The W3C Web Content Accessibility Guidelines (WCAG) 2.0 can be found at [www.w3.org/tr/wcag20](http://www.w3.org/TR/WCAG20/).
 
-In addition to features necessary for supporting the Revised Section 508 Standards and WCAG 2.0 Level AA, section headings are used to organize the content, and all videos incorporate descriptive narration in addition to captioning. In developing our site, templates were subjected to automated and end-user testing. All new content is subjected to expert inspection.  Content updates are checked for accessibility before they are deployed.
+In addition to features necessary for supporting the Revised Section 508 Standards and WCAG 2.0 Level AA, section headings are used to organize the content, and all videos incorporate audio descriptive in addition to captioning. In developing our site, templates are subjected to automated and end-user testing. New content is subjected to expert inspection.  Content updates are checked for accessibility before being deployed.
 
-All USAB content is provided primarly in HTML format.  Portable Document Format (PDF) versions are available for most of our longer documents.  One popular viewer for PDF files is [Acrobat Reader](https://get.adobe.com/reader/).  No endorsement is implied.
+Our website content is provided primarly in HTML format.  Accessible PDF (Portable Document Format) versions are available for most of our longer documents.  One popular viewer for PDF files is [Acrobat Reader](https://get.adobe.com/reader/).  No endorsement is implied.
 
-Our Section 508 coordinator and webmaster is Bruce Bailey.  If you have feedback or concerns related to the accessibility of any content on this website, or have ideas or comments that would help us improve the accessibility and usability of our website, please contact Bruce at <bailey@access-board.gov>; phone 1-202-272-0024.  If applicable, please include the web address or URL and the specific problems you have encountered.
+Our Section 508 coordinator and webmaster is Bruce Bailey.  If you have feedback or concerns related to the accessibility of any content on this website, or have ideas or comments that would help us improve the accessibility and usability of our website, please contact Bruce at <bailey@access-board.gov>; phone 1-202-272-0024.  If applicable, please include the webpage URL and the specific problems you have encountered.
 
 If you would like to file a Section 508 related complaint, please contact Earlene Sesker, Director of Administration at <sesker@access-board.gov> or phone 1-202-272-0042.  Letters should be addressed to: 
 > Earlene Sesker \
@@ -26,7 +26,7 @@ If you would like to file a Section 508 related complaint, please contact Earlen
 > Access Board \
 > 1331 F Street NW \
 > Suite 1000 \
-> Washington, DC&mdash; 20004-1111
+> Washington, DC&nbsp; 20004-1111
 
 Questions about accessibility of information and communication technologies may be directed to <508@access-board.gov>.
 
