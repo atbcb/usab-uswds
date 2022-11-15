@@ -45,6 +45,7 @@ Members of the Access Board meet regularly every two months. At the Board meetin
 
 ### Board Meeting Archives
 
+- [November 9, 2022](https://www.youtube.com/watch?v=kL4IKkiOLHA)
 - [July 13, 2022](https://www.youtube.com/watch?v=Mth5VLrWkr0)
 - [May 11, 2022](https://www.youtube.com/watch?v=YEzOVtpOGaY)
 - [January 12, 2022](https://www.youtube.com/watch?v=gJAbbPOILCg)
