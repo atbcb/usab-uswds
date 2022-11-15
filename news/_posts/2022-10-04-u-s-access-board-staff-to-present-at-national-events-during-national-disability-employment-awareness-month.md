@@ -25,7 +25,7 @@ image_alt_text: "The poster is rectangular in shape with a black colored
   website address, dol.gov/ODEP. In the lower right corner in white lettering is
   the DOL seal followed by the words “Office of Disability Employment Policy
   United States Department of Labor.”"
-featured: true
+featured: false
 ---
 October is National Disability Employment Awareness Month (NDEAM), which celebrates the contributions of America’s workers with disabilities and showcases supportive, inclusive employment policies and practices. The U.S. Department of Labor themed this year’s NDEAM observance as “Disability: Part of the Equity Equation” to recognize the important role people with disabilities play in a diverse and inclusive workforce. U.S. Access Board staff will be presenting on accessibility and participating in various conferences, forums, summits, and trainings throughout the month. 
 
