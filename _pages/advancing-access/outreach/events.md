@@ -12,14 +12,6 @@ permalink: /events/
 
 ## Public Events
 
-### Upcoming Access Board Events
-> ***Meeting of the U.S. Access Board*** \
-> November 9, 2022, 1:00 – 2:30 p.m. (ET) \
-> Meeting link:  [www.zoomgov.com/j/1608576554](https://www.zoomgov.com/j/1608576554?pwd=ZXI0U2lTQ2hna2M4UUorekNhdjZ5dz09) \
-> Meeting ID:  160 857 6554 \
-> Dial in:  (646) 828-7666 \
-> Contact: [events@access-board.gov](mailto:events@access-board.gov) 
-
 ### Public Events Archives
 
 - [Equity in Healthcare for People with Disabilities (January 12, 2022)](https://www.access-board.gov/news/2022/01/13/u-s-access-board-hosts-virtual-event-on-equity-in-healthcare-for-people-with-disabilities/)
