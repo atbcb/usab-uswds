@@ -6,7 +6,7 @@ date: 2022-11-15
 excerpt: "The U.S. Office of Personnel Management will host the virtual summit
   DEIA (Diversity, Equity, Inclusion, and Accessibility) Summit 2022: A
   Whole-of-Government Approach to Disability Employment on December 6 – 8, 2022.
-  The Summit is developed in collaboration with"
+  The Summit is developed in collaboration with . . ."
 image: /images/uploads/deia-summit-logo_text_final.png
 image_alt_text: ": DEIA Summit 2022 Logo at the bottom are two leaves on either
   side of a circle indicating the wheel of a wheelchair, above the circle is the
