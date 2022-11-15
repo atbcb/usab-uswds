@@ -30,8 +30,7 @@ Members of the Access Board meet regularly every two months. At the Board meetin
 - January 9 - 11, 2023, Virtual
 - March 13 - 15, 2023, In-person, Washington, DC
 - July 24 - 26, 2023, In-person, Washington, DC
-- September 11 - 13, 2023, In-person, Washington, DC
-- November 13 - 15, 2023, Virtual
+- October TBD, Virtual
 
 ### Board Meeting Archives
 
