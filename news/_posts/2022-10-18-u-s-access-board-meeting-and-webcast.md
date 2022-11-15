@@ -7,7 +7,7 @@ excerpt: All are welcome to attend the next bimonthly meeting of the U.S. Access
   9, 2022 from 1:00 – 2:30 p.m. (ET). The agenda for the meeting includes . . .
 image: /images/uploads/board-meeting-on-laptop.jpg
 image_alt_text: Laptop with photo of Board members sitting at a table
-featured: true
+featured: false
 ---
 All are welcome to attend the next bimonthly meeting of the U.S. Access Board, which will be open to the public and take place virtually on **November 9, 2022** from **1:00 – 2:30 p.m. (ET)**. The agenda for the meeting includes brief reports from standing and ad hoc Board committees and the Executive Director, Federal Member agency updates, and a presentation by Amy Nieves, Executive Director of the Philadelphia Mayor’s Office for People with Disabilities, on the [Philadelphia Disabilities Characteristics Map](https://www.phila.gov/documents/guide-to-a-map-of-disability-characteristics-in-philadelphia/). 
 
