@@ -26,77 +26,14 @@ Presented below in Table 1 are ABA caseload statistics for FY 2022, as well as c
 
 ##### Table 1: ABA Caseload Statistics (FYs 2020-2022)
 
-|
-
-**ABA Cases**
-
- |
-
-**FY 2020**
-
- |
-
-**FY 2021**
-
- |
-
-**FY 2022**
-
- |
+| ABA Cases | FY 2020 | FY 2021 | FY 2022 |
 | --- | --- | --- | --- |
-|
+| Complaints Pending (start of fiscal year) | 104 | 77* | 83 |
+| Complaints Received | 140 | 180 | 241 |
+| Complaints Closed (during fiscal year) | 140 | 180 | 241 |
+{: .par-prose }
 
-Complaints Pending (start of fiscal year)
-
- |
-
-104
-
- |
-
-77*
-
- |
-
-83
-
- |
-|
-
-Complaints Received
-
- |
-
-140
-
- |
-
-180
-
- |
-
-241
-
- |
-|
-
-Complaints Closed (during fiscal year)
-
- |
-
-167
-
- |
-
-174
-
- |
-
-197
-
- |
-
-* ***Note:*** Due to a typographical error, in last year's report the agency incorrectly noted that there were 167 ABA complaints pending at the start of FY 2021; the correct number, 77, is reflected in Table 1.
+***Note:*** Due to a typographical error, in last year's report the agency incorrectly noted that there were 167 ABA complaints pending at the start of FY 2021; the correct number, 77, is reflected in Table 1.
 
 Of the 197 ABA cases closed this year, about 23% (45 cases) were closed after the federal agency (or other facility owner/leaseholder) took corrective action to remedy building elements or features determined by the agency's investigative findings to be ABA violations under the applicable accessibility standard. This figure represents an 18.4% increase compared to cases closed in the prior fiscal year (FY 2021) following corrective action. The increase is partly explained by the fact that three U.S. Postal Service facilities each had two ABA complaints with similar allegations lodged against them, and corrective action projects completed in FY 2021 at those three facilities accounted for the closure of six complaints total. Also, four longstanding complaints concerning facilities of the General Services Administration---mentioned below---that had timelines for corrective action affected by pandemic-related delays in FY 2021 were all resolved in FY 2022.
 
@@ -116,238 +53,32 @@ Finally, a small number of complaints were closed because the agency determined,
 
 Table 2 below provides data for ABA cases closed in FY 2022 by reason for case closure.
 
-**Table ****2****: Reasons for ABA Case Closures (FY 2022)**
+##### Table 2: Reasons for ABA Case Closures (FY 2022)
 
-|
-
-**Basis for ABA Case Closure**
-
- |
-
-**# Cases**
-
- |
-
-**% of All Closed Cases (FY 2022)**
-
- |
+| Basis for ABA Case Closure | # Cases | % of All Closed Cases <br /> (FY 2022) |
 | --- | --- | --- |
-|
-
-Corrective action taken/accessibility barriers addressed
-
- |
-
-45
-
- |
-
-22.8
-
- |
-|
-
-No ABA jurisdiction
-
- |
-
-9
-
- |
-
-4.6
-
- |
-|
-
-Investigation found no ABA violation
-
- |
-
-13
-
- |
-
-6.6
-
- |
-|
-
-Waiver/modification issued by standard-setting agency
-
- |
-
-0
-
- |
-
-0
-
- |
-|
-
-Referral to another federal agency
-
- |
-
-72
-
- |
-
-36.5
-
- |
-|
-
-Administrative closure
-
- |
-
-58
-
- |
-
-29.4
-
- |
-|
-
-**Totals =**
-
- |
-
-**197**
-
- |
-
-**100%**
-
- |
+| Corrective action taken/accessibility barriers addressed  | 45 | 22.8 |
+| No ABA jurisdiction | 9 | 4.6 |
+| Investigation found no ABA violation | 13 | 6.6 |
+| Waiver/modification issued by standard-setting agency | 0 | 0 |
+| Referral to another federal agency | 72 | 36.5 |
+| Administrative closure | 58 | 29.4 |
+| **Totals =** | **197** | **100%** |
+{: .par-prose }
 
 Table 3 below provides similar case closure data about the bases for ABA cases closures, but from a longitudinal perspective for FYs 2020 -- 2022.
 
-**Table ****3****: Reasons for ABA Case Closures (FYs 2020 -- 2022)**
+##### Table 3: Reasons for ABA Case Closures (FYs 2020 -- 2022)
 
-|
-
-**Basis for ABA Case Closure**
-
- |
-
-**FY 2020**
-
- |
-
-**FY 2021**
-
- |
-
-**FY 2022**
-
- |
+| Basis for ABA Case Closure | FY 2020  | FY 2021 | FY 2022 |
 | --- | --- | --- | --- |
-|
-
-Corrective action taken (accessibility barriers addressed)
-
- |
-
-55
-
- |
-
-38
-
- |
-
-45
-
- |
-|
-
-No ABA jurisdiction
-
- |
-
-7
-
- |
-
-23
-
- |
-
-8
-
- |
-|
-
-Investigation found no ABA violation
-
- |
-
-15
-
- |
-
-20
-
- |
-
-13
-
- |
-|
-
-Waiver/modification issued by standard-setting agency
-
- |
-
-0
-
- |
-
-1
-
- |
-
-0
-
- |
-|
-
-Referral to another federal agency
-
- |
-
-43
-
- |
-
-56
-
- |
-
-72
-
- |
-|
-
-Administrative closure
-
- |
-
-47
-
- |
-
-36
-
- |
-
-58
-
- |
+| Corrective action taken (accessibility barriers addressed) | 55 | 38 | 45 |
+| No ABA jurisdiction | 7 | 23 | 8 |
+| Investigation found no ABA violation | 15 | 20 | 13 |
+| Waiver/modification issued by standard-setting agency | 0 | 1 | 0 |
+| Referral to another federal agency | 43 | 56 | 72 |
+| Administrative closure | 47 | 36 | 58 |
+{: .par-prose }
 
 Aside from ABA enforcement, Objective 3.1 also addresses enhancing awareness of the ABA and the Access Board's enforcement role. The DEIA Executive Order, among other things, requires the Access Board to work with agencies to ensure that their facilities not only comply with the ABA and related standards, but also go beyond those legal requirements to maximize the accessibility of agency workplaces. The EO also requires that agencies provide periodic notice to their employees that ABA complaints can be filed with the Access Board. In FY 2022, the Access Board conducted important outreach to agencies by publishing a resource on its website to aid agencies in developing the accessibility portions of their DEIA strategic plans. The resource, "Recommendations and Resources to Assist Agencies in Identifying and Advancing Priorities for Facility Accessibility," was distributed to agencies government-wide by OPM on March 4, 2022. The Access Board also continues to conduct webinars and trainings and provide technical assistance on the accessibility of the federal workspace, with specific webinars on the topic being presented in April 2022 and scheduled for November 2022.
 
