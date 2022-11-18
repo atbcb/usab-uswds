@@ -3,18 +3,18 @@ title: Performance and Accountability Report
 layout: page
 toc: sidenav.html
 banner-title: About the U.S. Access Board
-banner-subtitle: Performance and Accountability Report Fiscal Year 2021
+banner-subtitle: Performance and Accountability Report Fiscal Year 2022
 permalink: /about/par.html
 file: usab-par-fy2021.pdf
-file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2021
+file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2022
 ---
-## Performance and Accountability Report, <br /> Independent Auditor's Report  <br /> and  <br /> Financial Statements
-
 <button class="usa-button" style="float:right" title="{{ page.file-description }}"><a href="{{ site.baseurl }}/files/{{ page.file }}">PDF</a></button>
 
-### For the Fiscal Years Ended <br /> September 30, 2021 and 2020
+## Performance and Accountability Report, <br /> Independent Auditor's Report <br /> and <br /> Financial Statements
 
-#### Prepared By <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> November 12, 2021
+### For the Fiscal Years Ended <br /> September 30, 2022 and 2021
+
+#### Prepared By <br /> Brown & Company CPAs and Management Consultants, PLLC <br /> November 10, 2022
 
 ![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
 
@@ -33,42 +33,23 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 
 ## Message From the Executive Director
 
-{% asset sachin-portrait.jpg class="img-left shadow radius-lg" alt="Sachin Pavithran photo" %}
+November 10, 2022 
 
-I am pleased to present the Performance and Accountability Report (PAR) of the United States Access Board for Fiscal Year (FY) 2021. The report contains our financial and programrnatic performance, insight into our stewardship of taxpayer dollars and the resources entrusted to the agency, and an overview of its FY 2021 efforts to achieve the strategic objectives in the agency's FY 2018-2022 Strategic Plan.
+I am pleased to present the Access Board’s Performance and Accountability Report for Fiscal Year 2022.  This report provides key information on the Access Board’s progress in meeting its mission and managing its financial responsibilities.  Our agency has a proud history of serving the public through its programs focused on accessibility for people with disabilities. 
 
-In FY 2021, the Access Board continued its mission to promote accessibility through standards and guidelines, education, enforcement, and outreach. We take stock of the progress we have made and the challenges we have confronted in the past year.
+Fiscal Year 2022 was a year of continued success.  The Access Board continues to develop accessibility requirements, provide technical assistance and training, and enforce access requirements for the Federal government.  We will continue to strive for excellence to fulfill our responsibilities to provide accessibility for people with disabilities. 
 
-Despite the challenges posed by the ongoing coronavirus pandemic, Access Board staff have risen to the occasion for  a successful  FY 2021. We  have been working hard with our rulemaking to improve accessibility in various segments of society. We revived the final guidelines for public rights-of-way and shared use paths, began drafting a proposed rule to update its accessibility guidelines for rail vehicles, initiated the process of developing advisory guidelines for onboard wheelchaus used on commercial passenger  aircraft, and undertook rulemaking that addresses access to self-service transaction machines. With our remote training and technical assistance, Access Board staff have provided 85 webinars and virtual trainings to over 23,000 participants, as well as handled assistance to over 4,400 inquirers. We also hosted a four-part series of virtual meetings, which included over 2,300 total attendees, on making autonomous vehicles accessible to passengers with disabilities. Our ABA enforcement program closed 174 pending complaints, with 38 resulting in removal of accessibility barriers at various federal facilities, from post offices to defense-related and VA facilities.
-
-The Access Board has implemented strategies to raise its public profile by redesigning and updating its website, enhancing its communication efforts, and developing new strategies to engage with the public. In accordance with Executive Orders issued by President Eiden, the Access Board has also begun to enhance its efforts to reach underserved communities by meeting with other federal agencies, presenting to organizations, and developing strategies and actions to better serve those with disabilities in underserved communities.
-
-For FY 2021, I am also pleased to report that the Access Board received an unmodified (clean) audit opinion, which represents more than a decade of such opinion. Brown & Company, an independent public accounting firm, audited the Access Board's FY 2021 consolidated fmancial statements, which are included in this report, and did not identify any material weaknesses or significant deficiencies. The Access Board continues to aspire to be an outstanding steward of taxpayer funds and prioritizes stringent financial management in carrying out its mission.
-
-The following report evinces the outstanding performance of the dedicated efforts of the Board, its career staff, and its federal partners. In closing the books on FY 2021, the Access Board commits to using the lessons from the last year, facing forthcoming challenges, and continuing to strive for excellence in fulfilling our responsibilities to ensure equality and access for people with disabilities.
+Sincerely, 
 
 ![Sachin Dev signature]({{ site.baseurl }}/images/sdp-sig.jpg)
 {: .img-small }
 
 Sachin Dev Pavithran \
 Executive Director \
-United States Access Board \
-November 12, 2021
 
 --- 
 
-# United States Access Board
-
-![United States Access Board circular star seal]({{ site.baseurl }}/images/usab-seal.svg)
-{: .img-grid }
-
-## Management Discussion and Analysis
-
-### Performance and Accountability Report
-
-#### October 2021
-
---- 
+{% include_relative par-fy2022-1-management-discussion-and-analysis.md %}
 
 ## Management Discussion and Analysis
 
