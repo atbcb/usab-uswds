@@ -50,7 +50,7 @@ Sincerely,
 {: .img-small }
 
 Sachin Dev Pavithran \
-Executive Director \
+Executive Director
 
 --- 
 
