@@ -51,3 +51,62 @@ The Access Board recognizes that maintaining integrity and accountability in its
 
 As a small, independent federal agency, Access Board leadership has found that it is both less costly and more effective to obtain various administrative services (e.g., financial management, human resources, procurement, travel, and Equal Employment Opportunity [EEO] services) from federal shared service providers than develop in-house capabilities for these services.  With respect to financial management systems, the Access Board relies heavily on the systems, controls, and assurances provided by BFS/ARC to meet applicable legal requirements, including Office of Management and Budget (OMB) guidelines.  In addition, the Access Board supplements BFS/ARC’s controls with its own internal control processes to ensure the propriety of agency spending, as well as the validity of financial and performance data. Collectively, the Access Board believes that these measures sufficiently ensure that performance and financial data included in this report is accurate, reliable, and complete.
 
+### Controls, Systems and Legal Compliance
+
+The Access Board recognizes that maintaining integrity and accountability in its financial systems, programs, and operations is critical for good government, demonstrates responsible stewardship over assets and resources, helps ensure high-quality and responsible leadership, allows for effective delivery of services to customers, and maximizes desired program outcomes.
+
+As a small, independent federal agency, we have found that it is both less costly and more effective to obtain various administrative services (e.g., financial management, human resources, procurement, travel, and EEO services) from federal shared service providers than develop in-house capabilities for these services. With respect to financial management systems, the Access Board relies heavily on the systems, controls, and assurances provided by BFS/ARC to meet applicable legal requirements, including Office of Management and Budget (OMB) guidelines. In addition, we supplement BFS/ARC’s controls with our own internal control processes to ensure the propriety of agency spending, as well as the validity of financial and performance data. Taken together, we believe these measures sufficiently ensure that performance and financial data included in this report is accurate, reliable, and complete.
+
+#### Federal Managers' Financial Integrity Act of 1982 (FMIA)
+
+The objective of the Federal Managers’ Financial Integrity Act of 1982 (FMFIA) is to ensure that agencies have internal controls and financial systems in place that provide reasonable assurance of the effectiveness and efficiency of operations, reliability of financial reporting, and compliance with regulations and applicable laws. To that end, the FMFIA, as implemented, requires agencies to establish internal control processes consistent with guidelines established by OMB and the Comptroller General. Agency heads must annually attest---via a written assurance statement---whether the agency does/does not comply with applicable FMFIA requirements.
+
+During FY 2021, the Access Board had several inter-agency agreements with other federal agencies for shared administrative services. We contracted with BFS/ARC for financial management, human resources, procurement, and travel services. Other shared service providers included the General Services Administration (Internet, voice communication, PIV card administration, and web hosting), United States Department of Agriculture’s (USDA) National Financial Center (NFC) (payroll), Department of Interior’s (DOI) Interior Business Center (human resources security and drug testing), and the United States Postal Service (EEO complaint investigation).
+
+With respect to financial management and payroll systems, certain aspects of the Access Board’s financial management system are largely influenced by the controls, practices, and procedures employed by BFS/ARC and NFC. Each has established practices and procedures that assure appropriate internal controls. BFS/ARC’s financial management system is audited annually for compliance with Statement on Standards for Attestation Engagements (SSAE) 18, and we receive quarterly SSAE 18 SOC 1 Type II Reports on the ongoing effectiveness of the system’s internal controls. Likewise, NFC annually provides its customers/stakeholders with a written statement of assurance concerning the effectiveness of its financial reporting controls.
+
+Moreover, the Access Board has implemented its own internal controls and procedures to complement the measures employed by our shared service providers. For example, the Access Board Chief Financial Officer (CFO) reviews and reconciles financial reports from BFS/ARC quarterly to ensure that the agency’s obligations and disbursements have been properly recorded; year-end financial statements are also reviewed to make sure they are correctly stated. Agency procedure also requires the CFO to prospectively certify funds availability for all obligations. In addition, the CFO and Director of Administration conduct periodic reviews of internal systems, including travel, payroll, and procurement. Lastly, the Access Board’s financial statements undergo annual audits by an independent accountant, which include review of the adequacy of our internal control systems.
+
+For these reasons, the Access Board can provide reasonable assurance that internal controls over financial reporting are operating effectively and there are no material weaknesses relating to the design or operation of internal controls over financial reporting.
+
+#### Financial Statement Audit
+
+Under the Accountability of Tax Dollars Act of 2002 (codified at 31 U.S.C. § 3515), most small (i.e., "non-CFO") agencies, such as the Access Board, are required to have their financial statements audited annually. Consequently, the Access Board’s financial statements have undergone audit annually by independent accountants, including reviews of the adequacy of our control systems.
+
+#### Payment Integrity Information Act of 2019 (PIIA)
+
+In spring 2020, the Payment Integrity Information Act of 2019 (PIIA) became law. The PIIA repealed the prior statutory regime and established new requirements concerning federal agency obligations to prevent, identify, and annually report on improper payments (e.g., payment of incorrect amount, duplicate payment). There are, however, some differences. For example, unlike its predecessors, the PIIA establishes a monetary threshold for “significance” determinations, requires agencies to post improper payment reports on their respective websites, tasks OMB with developing PIIA guidance for agencies, and requires OMB to create a centralized website for agencies’ improper payment reports concerning OMB-designated “high-priority” programs.
+
+Because OMB has not yet issued implementing guidance under the PIIA, the contours of agencies' reporting and/or assurance obligations remains unknown. Nonetheless, the Access Board can definitively state that, based on the PIIA's statutory definition of "significance," the agency had no programs/activities at significant risk of improper payments in FY 2022.
+
+#### Debt Collection Improvement Act of 1996 (DCIA)
+
+The Debt Collection Improvement Act of 1996 (DCIA), as amended, maximizes collection of delinquent debts owed to the federal government by facilitating timely action to collect outstanding debts and minimizing collection costs through use of centralized and/or cross-agency collection mechanisms for most non-tax debts. Under the DCIA, federal agencies are required to refer non-tax debts that have been delinquent for more than 120 days to the Treasury Department for collection.
+
+The Access Board pursues the collection of delinquent debt. When it does have DCIA-covered accounts that have been past due for more than 120 days, these debts are referred to the U.S. Treasury for collection.
+
+#### Prompt Payment Act of 1982
+
+The Prompt Payment Act requires federal agencies to make timely payments to vendors for covered supplies and services, pay an interest penalty when payment is made after the due date, and take cash discounts when economically justified. The Access Board always strives to maintain a 100% on-time payment rate and incurred $0 in interest penalties. We will work to maintain 100% on-time vendor payments in future fiscal years.
+
+#### DATA Act
+
+The Digital Accountability and Transparency Act of 2014 (the DATA Act) requires agencies to establish common standards for financial data provided by all government agencies and to expand the amount of data that agencies must provide to the government website USAspending.gov, the official open data source of federal spending information.
+
+The Access Board’s shared service provider (BFS/ARC) has implemented software that enables the agency to comply with DATA Act requirements.  In FY 2022, we were compliant with applicable DATA Act requirements and timely submitted all certifications.
+
+#### Anti-Deficiency Act
+
+The Anti-Deficiency Act prohibits federal employees from obligating more funds than are available under an appropriation, or before appropriated funds are available, or from volunteering their services to the federal government. The Access Board had no anti-deficiency violations in FY 2022.  As required by this Act, the agency would notify appropriate authorities were such a violation to occur.
+
+#### Computer Information and Security Program
+
+The Federal Information Security Act of 2002 (FISMA), as amended by the Federal Information Security Modernization Act of 2014, requires agencies to ensure adequate security protections for federal information systems and information.  The Access Board continues to make improvements to internal controls through policy, procedure provisions, and an emphasis on employee development. As part of this effort, the Access Board achieved its Authority to Operate (ATO) in FY 2022.  The agency employs ongoing maintenance and testing to keep its ATO active, and further implementation measures will be required to meet the new revision 5, which includes additional provisions for privacy.
+
+#### Performance Data Verification
+
+The Access Board requires accurate performance data to assess agency progress toward its strategic goals and make good management and program decision.  The performance data reflected in Part Two of this report were compiled throughout the fiscal year during the normal course of agency business.  Although the information herein has not been subject to a formal validation process, it has been reviewed for accuracy by agency leadership.
+
+### Limitations on Financial Statements
+
+The principal financial statements have been prepared to report the financial position and results of our operations of the Access Board, pursuant to the requirements of 31 U.S.C. § 3515(b).  The statements have been prepared from the books and records of the Access Board in accordance with generally accepted accounting principles for federal entities and the formats prescribed by OMB. Reports used to monitor and control budgetary resources are prepared from the same books and records. The financial statements should be read with the realization that they are for a component of the U.S. government, a sovereign entity.
