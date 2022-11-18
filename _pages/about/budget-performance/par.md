@@ -5,7 +5,7 @@ toc: sidenav.html
 banner-title: About the U.S. Access Board
 banner-subtitle: Performance and Accountability Report Fiscal Year 2022
 permalink: /about/par.html
-file: usab-par-fy2021.pdf
+file: usab-par-fy2022.pdf
 file-description: PDF version of USAB Performance and Accountability Report for Fiscal Year 2022
 ---
 <button class="usa-button" style="float:right" title="{{ page.file-description }}"><a href="{{ site.baseurl }}/files/{{ page.file }}">PDF</a></button>
@@ -89,16 +89,64 @@ Executive Director \
 
 {% include_relative par-fy2022-30-iar.md %}
 
+![Brown & Company pencil footer -- Certified Public Accountants and Management Consultants, PLLC]({{ site.baseurl }}/images/bc-footer.png)
+
+--- 
+
 ## Financial Statements and Notes
 
-{% include_relative par-fy2022-31-bs.html %}
+--- 
 
-{% include_relative par-fy2022-32-snc.html %}
+**United States Access Board**
 
-{% include_relative par-fy2022-34-scnp.html %}
+### Balance Sheet
 
-{% include_relative par-fy2022-35-sbr.html %}
+**As of September 30, 2022 and 2021 <br /> (In Dollars)**
+
+{% include_relative par-fy2021-table-bs.html %}
+
+The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
+
+--- 
+
+**United States Access Board**
+
+### Statement of Net Cost
+
+**For the Years Ended September 30, 2022 and 2021 <br /> (In Dollars)**
+
+{% include_relative par-fy2022-42-snc.html %}
+
+The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
+
+--- 
+
+**United States Access Board**
+
+### Statement of Changes in Net Position
+
+**As of September 30, 2021 and 2020 <br /> (In Dollars)**
+
+{% include_relative par-fy2021-table-scnp.html %}
+
+The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
+
+--- 
+
+**United States Access Board**
+
+### Statement of Budgetary Resources
+
+**For the Years Ended September 30, 2022 and 2021 <br /> (In Dollars)**
+
+{% include_relative par-fy2021-table-sbr.html %}
+
+The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
+
+--- 
+
+### Notes to the Financial Statements
+
+![photo of calculator, paper spreadsheet, and pen]({{ site.baseurl }}/images/notes-header.jpg)
 
 {% include_relative par-fy2022-41-note1.md %}
-
-{% include_relative par-fy2022-42-notes2-11.md %}
