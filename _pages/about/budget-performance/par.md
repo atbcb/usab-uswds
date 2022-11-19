@@ -54,19 +54,21 @@ Executive Director
 
 --- 
 
-{% include_relative par-fy2022-11-mda.md %}
+{% include_relative par-fy2022-10-mda.md %}
 
 --- 
 
 ## Performance Report
 
-{% include_relative par-fy2022-21-goal-1.md %}
+{% include_relative par-fy2022-21-goal1.md %}
 
-{% include_relative par-fy2022-22-goal-2.md %}
+{% include_relative par-fy2022-22-goal2.md %}
 
-{% include_relative par-fy2022-23-goal-3.md %}
+{% include_relative par-fy2022-23-goal3.md %}
 
-{% include_relative par-fy2022-24-goal-4.md %}
+{% include_relative par-fy2022-24-goal4.md %}
+
+{% include_relative par-fy2022-25-so.md %}
 
 --- 
 
