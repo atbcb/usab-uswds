@@ -1,4 +1,4 @@
-Goal #2: Provide education and information on the importance and implementation of accessible design
+## Goal #2: Provide education and information on the importance and implementation of accessible design
 
 The Access Board's second strategic goal is supported by four objectives, which are:
 
