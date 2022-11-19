@@ -34,7 +34,7 @@ Kiosks and SSTMs have long posed accessibility barriers to people with disabilit
 
 As part of its work for Objective 1.4, the Access Board has devoted attention to these emerging technologies and ubiquitous trends. On September 21, 2022, the Board issued an Advance Notice of Proposed Rulemaking (ANPRM) on supplemental accessibility guidelines for different types of SSTMs, including electronic self-service kiosks, to be accessible to, and usable by, persons with disabilities.  The Board seeks comments on accessibility issues and solutions,[^i] related to the various types of SSTMs, use and design of SSTMs, location of SSTMs, the number of SSTMs that should be accessible at locations where there is more than one, and economic impacts on small business, non-profit, and governmental entities in the implementation of accessible SSTMs.
 
-[^i]: Americans With Disabilities Act Accessibility Guidelines for Buildings and Facilities; Architectural Barriers Act Accessibility Guidelines; Self-Service Transaction Machines and Self-Service Kiosks, Federal Registers 9/21/2022, https://www.federalregister.gov/d/2022-20470, accessed 10/17/2022.
+[^i]: Americans With Disabilities Act Accessibility Guidelines for Buildings and Facilities; Architectural Barriers Act Accessibility Guidelines; Self-Service Transaction Machines and Self-Service Kiosks, Federal Registers 9/21/2022, <https://www.federalregister.gov/d/2022-20470>, accessed 10/17/2022.
 
 #### Electric Vehicle Charging Stations
 
