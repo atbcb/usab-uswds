@@ -25,7 +25,7 @@ file-description: PDF version of USAB Performance and Accountability Report for 
 - [Performance Report](#performance-report)
   * [Goal #1: Establish technical specifications for accessible design](#goal-1-establish-technical-specifications-for-accessible-design)
   * [Goal #2: Provide education and information on the importance and implementation of accessible design](#goal-2-provide-education-and-information-on-the-importance-and-implementation-of-accessible-design)
-  * [Goal #3: Improve the Accessibility of the Federal Government](#goal-3-improve-the-a-ccessibility-of-the-federal-government)
+  * [Goal #3: Improve the Accessibility of the Federal Government](#goal-3-improve-the-accessibility-of-the-federal-government)
   * [Goal #4: Promote accessibility throughout society](#goal-4-promote-accessibility-throughout-society)
   * [Stewardship Objective: Improve Agency Systems and Modernize Operations](#stewardship-objective-improve-agency-systems-and-modernize-operations)
 - [Financial Section](#independent-auditors-report--and--financial-statements)
