@@ -10,7 +10,7 @@ excerpt: Touchscreen kiosks and other types of self-service transaction machines
   issued an advance notice of proposed rulemaking (ANPRM) on . . .
 image: /images/uploads/SSTM-small.png
 image_alt_text: animation of self-service transaction machine
-featured: true
+featured: false
 ---
 Touchscreen kiosks and other types of self-service transaction machines (SSTMs) are a common feature in places of public accommodation, government offices, and other buildings and facilities, allowing users to independently conduct a range of transactions and functions. The U.S. Access Board has issued an [advance notice of proposed rulemaking (ANPRM)](https://www.federalregister.gov/documents/2022/09/21/2022-20470/americans-with-disabilities-act-accessibility-guidelines-for-buildings-and-facilities-architectural) on supplemental accessibility guidelines for different types of SSTMs, including electronic self-service kiosks, for persons with disabilities. The Board seeks comments on accessibility related to the various types of SSTMs, use and design of SSTMs, location of SSTMs, and economic impacts on small business, non-profit, and governmental entities in the implementation of accessible SSTMs.  
 
