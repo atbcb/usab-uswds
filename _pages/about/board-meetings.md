@@ -14,7 +14,7 @@ Members of the U.S. Access Board meet quarterly over the course of three days. A
 
 The next virtual meeting of the Board is scheduled for **Wednesday, January 11, 2023** beginning at 1:00 p.m. (ET).  At this meeting, the Board will hear committee reports and federal member agency updates. The Honorable Taryn Williams will chair this meeting.
 
-> **Meeting of the U.S. Access Board** \
+> **Public Meeting of the U.S. Access Board** \
 > January 11, 2023, 1:00 – 2:00 p.m. (ET) \
 > Meeting link: (Forthcoming) \
 > Contact: [events@access-board.gov](mailto:events@access-board.gov) 
