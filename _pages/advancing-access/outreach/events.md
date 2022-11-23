@@ -12,6 +12,11 @@ permalink: /events/
 
 ## Public Events
 
+> **Meeting of the U.S. Access Board** \
+> January 11, 2022, 1:00 – 2:00 p.m. (ET) \
+> Meeting link: (Forthcoming) \
+> Contact: [events@access-board.gov](mailto:events@access-board.gov) 
+
 ### Public Events Archives
 
 - [Equity in Healthcare for People with Disabilities (January 12, 2022)](https://www.access-board.gov/news/2022/01/13/u-s-access-board-hosts-virtual-event-on-equity-in-healthcare-for-people-with-disabilities/)
@@ -23,14 +28,14 @@ permalink: /events/
 - [Accessible Virtual Meetings (January 13, 2021)](https://youtu.be/rR9RfhvM2sU)
 
 ## Access Board Meetings
-Members of the Access Board meet regularly every two months. At the Board meetings, a public session is slated and open for members of the public to attend. Visit the [Board Meetings page](https://www.access-board.gov/about/meetings.html) for more information and dates on upcoming meetings.
+Members of the Access Board meet quarterly. At the Board meetings, a public session is slated and open for members of the public to attend. Visit the [Board Meetings page](https://www.access-board.gov/about/meetings.html) for more information and dates on upcoming meetings.
 
 ### Future Board Meetings
 
 - January 9 - 11, 2023, Virtual
 - March 13 - 15, 2023, In-person, Washington, DC
 - July 24 - 26, 2023, In-person, Washington, DC
-- October TBD, Virtual
+- October 23 - 25, Virtual
 
 ### Board Meeting Archives
 
