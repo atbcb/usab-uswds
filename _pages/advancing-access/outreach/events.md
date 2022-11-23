@@ -13,7 +13,7 @@ permalink: /events/
 ## Public Events
 
 > **Meeting of the U.S. Access Board** \
-> January 11, 2022, 1:00 – 2:00 p.m. (ET) \
+> January 11, 2023, 1:00 – 2:00 p.m. (ET) \
 > Meeting link: (Forthcoming) \
 > Contact: [events@access-board.gov](mailto:events@access-board.gov) 
 
