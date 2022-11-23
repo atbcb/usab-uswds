@@ -8,7 +8,7 @@ permalink: /about/meetings.html
 
 ## {{ page.title }}
 
-Members of the U.S. Access Board meet quarterly. Board meetings are open to the public. Since the COVID-19 pandemic, Board meetings are held virtually. Communication Access Realtime Translation (CART) and sign language interpreters are available at all Board meetings and events. 
+Members of the U.S. Access Board meet quarterly. Board meetings are open to the public. Since the COVID-19 pandemic, some of the Board meetings are held virtually. Communication Access Realtime Translation (CART) and sign language interpreters are available at all Board meetings and events. 
 
 ## Next Board Meeting
 
