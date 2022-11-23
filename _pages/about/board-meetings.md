@@ -19,7 +19,7 @@ The next virtual meeting of the Board is scheduled for **Wednesday, January 11, 
 - January 9 - 11, 2023, Virtual
 - March 13 - 15, 2023, In-person, Washington, DC
 - July 24 - 26, 2023, In-person, Washington, DC
-- October 23 - 25, Virtual
+- October 23 - 25, 2023, Virtual
 
 ## Board Meeting Archives
 
