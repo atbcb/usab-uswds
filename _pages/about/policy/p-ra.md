@@ -16,7 +16,7 @@ Sections 501 and 504 of the Rehabilitation Act of 1973 require federal agencies 
 
 In this section, the word "you" refers to employees and applicants for employment.  This section tells you how to request a reasonable accommodation and how your request will be handled.  This section also discusses medical information, reassignment, and your rights if your reasonable accommodation request is denied.  Reasonable accommodation and other key terms are defined at the end of this document.
 
-### Requesting reasonable accommodation...
+### Requesting reasonable accommodation . . .
 
 -   As a person with a disability, you have the right to request a reasonable accommodation in order to be considered for a position, to perform the essential functions of a position, and to enjoy equal benefits and privileges of employment with the Access Board.  You may request a reasonable accommodation at any time, and may request additional reasonable accommodations if your needs change.
 -   You may request a reasonable accommodation orally or in writing from your supervisor or, if you are applying for a position, from the contact person identified on the vacancy announcement, who is called the "hiring coordinator" in this document.  You do not have to use any special words such as "reasonable accommodation" or "Rehabilitation Act" when making your request.  However, it is helpful for you to describe your needs as specifically as possible.  The more information you give your supervisor or the hiring coordinator, the better he or she will be able to meet your needs.
