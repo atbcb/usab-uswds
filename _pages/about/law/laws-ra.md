@@ -14,7 +14,7 @@ The Rehabilitation Act of 1973 requires access to programs and activities that a
 The law also established the Access Board (section 502).&nbsp;
 Later amendments strengthened requirements for access to electronic and information technology in the Federal sector (Section 508).&nbsp;
 With passage the Patient Protection and Affordable Care Act in 2010, a new provision (section 510) was added to address access to medical diagnostic equipment.&nbsp;
-The Board plays a lead role in developing and maintaining standards for electronic and information technology under section 508 and medical diagnostic equipment covered by section 510. 
+The Access Board plays a lead role in developing and maintaining standards for electronic and information technology under section 508 and medical diagnostic equipment covered by section 510. 
 
 - [Section 502](#section-502-the-access-board)
 - [Section 508](#section-508-federal-electronic-and-information-technology)
@@ -24,9 +24,9 @@ The Board plays a lead role in developing and maintaining standards for electron
 
 ## Section 502 (The Access Board)
 
-Several years after the ABA had become law, Congress observed that compliance had been uneven and that no initiatives to create Federal design standards for accessibility were underway. Clearly, one central agency needed to take charge of enforcing the ABA and ensuring development of design standards. The concept of such an agency began to take shape as Congress considered the Rehabilitation Act of 1973\. Section 502 of this law created the Access Board, originally named the Architectural and Transportation Barriers Compliance Board. The Board was charged with ensuring Federal agency compliance with the ABA and proposing solutions to the environmental barriers problems addressed in the ABA. Congress was clear in its intent that compliance be the primary essence of the Board's function.
+Several years after the ABA had become law, Congress observed that compliance had been uneven and that no initiatives to create Federal design standards for accessibility were underway. Clearly, one central agency needed to take charge of enforcing the ABA and ensuring development of design standards. The concept of such an agency began to take shape as Congress considered the Rehabilitation Act of 1973\. Section 502 of this law created the Access Board, originally named the Architectural and Transportation Barriers Compliance Board. The Access Board was charged with ensuring Federal agency compliance with the ABA and proposing solutions to the environmental barriers problems addressed in the ABA. Congress was clear in its intent that compliance be the primary essence of the Access Board's function.
 
-Section 502 lays out the duties of the Board under the ABA, which include: ensuring compliance with standards issued under the ABA, developing and maintaining guidelines upon which the standards are based, and promoting access throughout all segments of society. This section of the law also outlines the membership and composition of the Board.
+Section 502 lays out the duties of the Access Board under the ABA, which include: ensuring compliance with standards issued under the ABA, developing and maintaining guidelines upon which the standards are based, and promoting access throughout all segments of society. This section of the law also outlines the membership and composition of the Board.
 
 ### Text of Section 502 of the Rehabilitation Act of 1973, as amended (29 U.S.C. §792)
 
