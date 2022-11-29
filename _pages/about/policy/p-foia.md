@@ -24,7 +24,7 @@ Welcome to the Access Board's Freedom of Information Act (FOIA) page.  We hope t
 
 ## The Freedom of Information Act
 
-The Freedom of Information Act (5 U.S.C. § 552), provides a right of access to the public of government records.  The Act also allows the government to withhold certain information in responding to those requests in nine exemptions, including for national security, deliberative process and attorney client, and confidential business information, to name a few.
+The Freedom of Information Act (5 U.S.C. § 552) provides a right of access to the public of government records.  The Act also allows the government to withhold certain information in responding to those requests in nine exemptions, including for national security, deliberative process and attorney client, and confidential business information, to name a few.
 
 ## Frequently Asked Questions
 
@@ -38,7 +38,7 @@ Yes, but please be aware that FOIA does not require agencies to do research, ana
 
 Staff at the Access Board are availble to provide technical assistance on a variety of issues.  Please reference our [email directory]({{ site.baseurl }}/contact/) for the types of questions we answer quickly and routinely.  If it suits your need, please consider using that contact information instead of submitting a FOIA request.
 
-It is important to understand that there is no central office in the government which processes FOIA requests for all agencies; each Federal agency responds to FOIA requests for records in its own files.  Thus, the public may submit FOIA requests to the Access Board to obtain records that are in the Access Board's files.
+It is important to understand that there is no central office in the government which processes FOIA requests for all agencies; each federal agency responds to FOIA requests for records in its own files.  Thus, the public may submit FOIA requests to the Access Board to obtain records that are in the Access Board's files.
 
 *3. How do I submit a FOIA request?*
 
