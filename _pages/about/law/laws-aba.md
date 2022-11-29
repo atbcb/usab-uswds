@@ -13,7 +13,7 @@ redirect_from:
 <figure style="width:50%; float:right">
   <img src="{{ site.baseurl }}/images/aba50.png" alt="ABA 50th 1968 - 2018" class="img-center">
   <figcaption style="text-align:center">
-    In September 2018, the Board celebrated the 50th anniversary of the ABA.
+    In September 2018, the Access Board celebrated the 50th anniversary of the ABA.
   </figcaption>
 </figure>
 
