@@ -19,7 +19,7 @@ Under the Americans with Disabilities Act (ADA) and several other laws, the Acce
 
 ## How the Board Develops Guidelines and Standards
 
-In developing its guidelines and standards, the Board follows a process common to most federal regulations that provides the public an opportunity for comment. It has become standard practice for the Board to organize an advisory committee or regulatory negotiation committee as part of this process.  Such committees allow stakeholders and interested parties to develop consensus recommendations on the substance of a rule.  Board rules must be cleared by the Office of Management and Budget (OMB) in proposed and final form before they can be published.  OMB usually is allotted 90 days to complete its review.  The Board also must prepare a regulatory assessment that estimates the costs and other impacts of a rule.  
+In developing its guidelines and standards, the Access Board follows a process common to most federal regulations that provides the public an opportunity for comment. It has become standard practice for the Access Board to organize an advisory committee or regulatory negotiation committee as part of this process.  Such committees allow stakeholders and interested parties to develop consensus recommendations on the substance of a rule.  Access Board rules must be cleared by the Office of Management and Budget (OMB) in proposed and final form before they can be published.  OMB usually is allotted 90 days to complete its review.  The Access Board also must prepare a regulatory assessment that estimates the costs and other impacts of a rule.  
 
 These are the typical steps of a Board rulemaking:
 
@@ -32,7 +32,7 @@ These are the typical steps of a Board rulemaking:
 
 ## Rulemaking History 
 
-Final guidelines and standards issued by the Board include:
+Final guidelines and standards issued by the Access Board include:
 
 - August 4, 1982 - Minimum Guidelines and Requirements for Accessible Design (the basis for the Uniform Federal Accessibility Standards)
 - July 26, 1991 – ADA Accessibility Guidelines (ADAAG) for Buildings and Facilities
@@ -54,7 +54,7 @@ Final guidelines and standards issued by the Board include:
 
 ## Advisory and Regulatory Negotiation Committees
 
-In the course of its rulemaking activities, the Board has organized these advisory or regulatory negotiation committees:
+In the course of its rulemaking activities, the Access Board has organized these advisory or regulatory negotiation committees:
 
 - Recreation Access Advisory Committee (1993 - 1994)
 - ADAAG Review Advisory Committee (1994 - 1996)

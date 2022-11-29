@@ -22,7 +22,7 @@ Telecommunications products covered include:
 
 The possible functions of a product are key in determining coverage. If a product can provide telecommunication services, then that portion is covered.
 
-Manufacturers must ensure that products are "designed, developed, and fabricated to be accessible to and usable by individuals with disabilities" when it is readily achievable to do so. The Access Board was given the job of developing guidelines that describe what makes telecommunications products accessible. The Board’s final guidelines, published in February 1998, were developed with help from an ad hoc advisory committee created by the Board. The Telecommunications Access Advisory Committee included product manufacturers, service providers, disability groups, and experts in communication access. The final guidelines are based on this committee’s recommendations. The Federal Communications Commission is responsible for rules and policies to enforce the law.
+Manufacturers must ensure that products are "designed, developed, and fabricated to be accessible to and usable by individuals with disabilities" when it is readily achievable to do so. The Access Board was given the job of developing guidelines that describe what makes telecommunications products accessible. The Access Board’s final guidelines, published in February 1998, were developed with help from an ad hoc advisory committee created by the Access Board. The Telecommunications Access Advisory Committee included product manufacturers, service providers, disability groups, and experts in communication access. The final guidelines are based on this committee’s recommendations. The Federal Communications Commission is responsible for rules and policies to enforce the law.
 
 * * *
 
