@@ -1,0 +1,14 @@
+---
+layout: post
+title: National Council on Disability Invites Public Comment at Quarterly
+  Council Meeting in December
+date: 2022-12-06
+excerpt: All are welcome to attend the National Council on Disability’s (NCD)
+  next quarterly Council Meeting that will be held virtually on Thursday,
+  December 8 from 12:00 – 4:00 p.m. (ET). The agenda includes welcome remarks
+  and introductions, welcoming new Council Members and . . .
+featured: false
+---
+All are welcome to attend the National Council on Disability’s (NCD) next quarterly Council Meeting that will be held virtually on **Thursday, December 8** from **12:00 – 4:00 p.m. (ET)**. The agenda includes welcome remarks and introductions, welcoming new Council Members and recognition of outgoing Council Members, Chairman and Executive Committee reports, Council Member roles and assignments, policy updates, and a discussion on the 2024 Progress Report. The meeting will also include comments from the public regarding ideas for NCD’s Fiscal Year 2024 policy project proposals, which will be discussed and voted on at its February Council meeting. NCD specifically requests ideas to engage emerging topics, areas in need of updated research for advising federal policy makers, and areas previously unengaged by NCD.
+
+Registration is not required, but interested parties are encouraged to register on [NCD’s Eventbrite page](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fwww.eventbrite.com%2Fe%2Fncd-quarterly-meeting-dec-8-2022-tickets-476916188157&data=05%7C01%7Cbratta%40access-board.gov%7Cd547e1ced809414980e308dad799d3e5%7Cfc6093f5e55e4f93b2cf26d0822201c9%7C0%7C0%7C638059352942665925%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=jVCGFbNR5QRAXx3ZqbKOfTmwct%2Fi3CBIj7RJOypGTI0%3D&reserved=0 "external link"). For more information on the meeting and the public comment period, visit NCD’s [Upcoming Council Meeting page](https://nam10.safelinks.protection.outlook.com/?url=https%3A%2F%2Fncd.gov%2Fevents%2F2022%2Fupcoming-council-meeting&data=05%7C01%7Cbratta%40access-board.gov%7Cd547e1ced809414980e308dad799d3e5%7Cfc6093f5e55e4f93b2cf26d0822201c9%7C0%7C0%7C638059352942665925%7CUnknown%7CTWFpbGZsb3d8eyJWIjoiMC4wLjAwMDAiLCJQIjoiV2luMzIiLCJBTiI6Ik1haWwiLCJXVCI6Mn0%3D%7C3000%7C%7C%7C&sdata=%2FWbo8HtV0L591cAQolgdAf4OyiRlTfdnRpeST4WMT%2Fo%3D&reserved=0 "external link"). To provide comments or notice to present public comment during the meeting, send an email to [PublicComment@ncd.gov](mailto:PublicComment@ncd.gov) with the subject line “Public Comment” and your name, organization, state, and topic of comment included in the body of your email. Submission should be received **no later than December 7** to ensure inclusion.
