@@ -1,6 +1,7 @@
 ---
-banner-title: "Technical Assistance Documents"
-permalink: /tad/ev/
+banner-title: Technical Assistance Documents
+title: Best Practices for the Design of Accessible COVID-19 Home Tests
+permalink: /tad/radx/
 toc-group: tad
 order-number: 2
 right-sidenav: sidenav-right-universal.html
@@ -9,9 +10,10 @@ ta-email-pre: ta
 file: /files/mde/radx-bp.pdf
 file-description: Best Practices for the Design of Accessible COVID-19 Home Tests, PDF format
 ---
-## Best Practices for the Design of Accessible COVID-19 Home Tests
+## {{page.title}}
 
-[pdf link]()
+<button class="usa-button" title="{{ page.file-description }}" style="float:right"><a href="{{ site.baseurl }}{{ page.file }} ">PDF</a></button>
+
 
 ### Introduction
 
@@ -81,7 +83,13 @@ When this work began, it was recognized that there was a need to provide informa
 
 #### Instructions/Accessing Information - Text Perception
 
-![Instructions for use](images/Text-Perception.jpeg)
+![Instructions for use](./images/Text-Perception.jpeg)
+
+![Instructions for use](./images/Text-Perception.jpeg)
+
+![An autonomous vehicle with doors open](./images/105-av1of2.png){: .img-right }
+
+
 
 Instructions for use
 
