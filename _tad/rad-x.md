@@ -6,10 +6,12 @@ order-number: 2
 right-sidenav: sidenav-right-universal.html
 ta-text: Contact the Access Board for technical assistance
 ta-email-pre: ta
-file: /files/usab-evse-guide.pdf
-file-description: Best Practices for the Design of Accessible COVID-19 Home Testsn PDF format
+file: /files/mde/radx-bp.pdf
+file-description: Best Practices for the Design of Accessible COVID-19 Home Tests, PDF format
 ---
 ## Best Practices for the Design of Accessible COVID-19 Home Tests
+
+[pdf link]()
 
 ### Introduction
 
@@ -59,9 +61,9 @@ When this work began, it was recognized that there was a need to provide informa
 
 **Tube Holder -- **Device which holds a Fluid Vial in an upright position.
 
-* * * * *
+---
 
-**Chapter 1**
+## Chapter 1
 
 ### Physical Components
 
@@ -69,9 +71,7 @@ When this work began, it was recognized that there was a need to provide informa
 -   1.2 Packaging
 -   1.3 Kitting
 
-* * * * *
-
-### 1.1 Instructions/Accessing Information
+#### 1.1 Instructions/Accessing Information
 
 -   Text Perception
 -   General Readability and Layout
@@ -79,10 +79,9 @@ When this work began, it was recognized that there was a need to provide informa
 -   Graphics, Images and Symbols
 -   Language
 
-* * * * *
+#### Instructions/Accessing Information - Text Perception
 
-### Instructions/Accessing Information - Text Perception\
-![Instructions for use](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Text-Perception.jpeg)
+![Instructions for use](images/Text-Perception.jpeg)
 
 Instructions for use
 
@@ -102,7 +101,7 @@ Physical instruction in the form of text is one important way to convey informat
 
 **Issue**
 
-![Key information hard to distinguish](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/instructions-issue.jpeg)
+![Key information hard to distinguish](images/instructions-issue.jpeg)
 
 Key information hard to distinguish
 
@@ -113,7 +112,7 @@ Key information hard to distinguish
 **Recommendation**
 
 ![Key information stands apart
-](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/instructions-recommendation.jpeg)
+](images/instructions-recommendation.jpeg)
 
 Key information stands apart
 
@@ -124,7 +123,7 @@ Key information stands apart
 **Issue**
 
 ![Poor color combination; Instructions with poor legibility
-](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/text-perception-issue.jpeg)
+](images/text-perception-issue.jpeg)
 
 Poor color combination; Instructions with poor legibility
 
@@ -135,20 +134,20 @@ Key information stands apart
 **Recommendation**
 
 ![Recommended color combination; legible instructions
-](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/text-perception-recommendation.jpeg)
+](images/text-perception-recommendation.jpeg)
 
 Recommended color combination; legible instructions
 
 Color contrast needs to allow for better differentiation between the text and background. Provide a minimum contrast ratio of 4.5:1 for 14 pt or smaller and 3:1 for larger text. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi's Colour Contrast Analyser (CCA).
 
-* * * * *
+---
 
 ### Instructions/Accessing Information - General Readability and Layout
 
 **General Readability and Layout**
 
 ![Layout considerations for readability
-](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Layout-considerations-for-readability.jpeg)
+](images/Layout-considerations-for-readability.jpeg)
 
 Layout considerations for readability
 
@@ -167,7 +166,7 @@ Users' ability to find and follow instructions can be greatly affected by how in
 **Issue**
 
 ![Text layout with inconsistent information flow
-](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Text-layout-with-inconsistent-information-flow.jpeg)
+](images/Text-layout-with-inconsistent-information-flow.jpeg)
 
 Text layout with inconsistent information flow
 
@@ -177,7 +176,7 @@ Text layout with inconsistent information flow
 **Recommendation**
 
 ![Recommended text layout and in formation flow
-](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Recommended-text-layout-and-information-flow.jpeg)
+](images/Recommended-text-layout-and-information-flow.jpeg)
 
 Recommended text layout and in formation flow
 
@@ -188,7 +187,7 @@ Recommended text layout and in formation flow
 **Issue**
 
 ![Numerous warnings embedded in copy
-](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Numerous-warnings-embedded-in-copy.jpeg)
+](images/Numerous-warnings-embedded-in-copy.jpeg)
 
 Numerous warnings embedded in copy
 
@@ -197,20 +196,20 @@ Multiple warnings are presented inconsistently making it hard to locate them or 
 **Recommendation**
 
 ![Targeted warnings, visually differentiated from plain copy
-](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Targeted-warnings-visually-differentiated-from-plain-copy.jpeg)
+](images/Targeted-warnings-visually-differentiated-from-plain-copy.jpeg)
 
 Targeted warnings, visually differentiated from plain copy
 
 Essential warnings (e.g., those where use error is associated with the greatest risk of an invalid test result) should be communicated in a consistent manner (e.g., bold, red font).
 
-* * * * *
+---
 
 ### Instructions/Accessing Information - Physical Embodiment
 
 **Physical Embodiment**
 
 ![Layout considerations for readability
-](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Layout-considerations-for-readability.jpeg)
+](images/Layout-considerations-for-readability.jpeg)
 
 Layout considerations for readability
 
@@ -218,7 +217,7 @@ Instructions can be provided in a number of ways: on a card, on paper, on a fold
 
 **Issue**
 
-![Information split along paper fold](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Information-split-along-paper-fold.jpeg)
+![Information split along paper fold](images/Information-split-along-paper-fold.jpeg)
 
 Information split along paper fold
 
@@ -226,7 +225,7 @@ Large instruction panels with folds can result in text crossing over folds. Same
 
 **Recommendation**
 
-![Information contained within folded panels](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Information-contained-within-folded-panels.jpeg)
+![Information contained within folded panels](images/Information-contained-within-folded-panels.jpeg)
 
 Information contained within folded panels
 
@@ -236,7 +235,7 @@ Information contained within folded panels
 
 **Issue**
 
-![Instructions that require full unfolding](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Instructions-that-require-full-unfolding.jpeg)
+![Instructions that require full unfolding](images/Instructions-that-require-full-unfolding.jpeg)
 
 Instructions that require full unfolding
 
@@ -245,7 +244,7 @@ Instructions that require full unfolding
 
 **Recommendation**
 
-![Instructions that can be unfolded by section](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Instructions-that-can-be-unfolded-by-section.jpeg)
+![Instructions that can be unfolded by section](images/Instructions-that-can-be-unfolded-by-section.jpeg)
 
 Instructions that can be unfolded by section
 
@@ -254,7 +253,7 @@ Instructions that can be unfolded by section
 
 **Issue**
 
-![Instructions are too large for scanning](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Instructions-are-too-large-for-scanning.jpeg)
+![Instructions are too large for scanning](images/Instructions-are-too-large-for-scanning.jpeg)
 
 Instructions are too large for scanning
 
@@ -262,20 +261,20 @@ Paper (or similar) documents may be provided in an incompatible format for assis
 
 **Recommendation**
 
-![Instructions are an appropriate size for scanning](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Instructions-are-an-appropriate-size-for-scanning.jpeg)
+![Instructions are an appropriate size for scanning](images/Instructions-are-an-appropriate-size-for-scanning.jpeg)
 
 Instructions are an appropriate size for scanning
 
 -   Provide paper (or similar) documents in panels no larger than letter paper dimensions (8.5" x 11").
 -   Use page numbers for multiple panels on the front and back.
 
-* * * * *
+---
 
 ### Instructions/Accessing Information - Graphics, Images and Symbols
 
 **Graphics, Images and Symbols**
 
-![Arrows show user interaction with product](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Arrows-show-user-interaction.jpeg)
+![Arrows show user interaction with product](images/Arrows-show-user-interaction.jpeg)
 
 Arrows show user interaction with product
 
@@ -283,7 +282,7 @@ Graphics, images, and symbols can be an effective way for users to quickly perce
 
 **Issue**
 
-![Photo backgrounds distract from product](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Photo-backgrounds-distract-from-product.jpeg)
+![Photo backgrounds distract from product](images/Photo-backgrounds-distract-from-product.jpeg)
 
 Photo backgrounds distract from product
 
@@ -291,7 +290,7 @@ Photos contain extra, unnecessary information making them difficult for low-visi
 
 **Recommendation**
 
-![Line drawings improve comprehension](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Line-drawings-improve-comprehension.jpeg)
+![Line drawings improve comprehension](images/Line-drawings-improve-comprehension.jpeg)
 
 Line drawings improve comprehension
 
@@ -300,7 +299,7 @@ Line drawings improve comprehension
 
 **Issue**
 
-![2D thin line and low-contrast drawings](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/2D-thin-line-and-low-contrast-drawings.jpeg)
+![2D thin line and low-contrast drawings](images/2D-thin-line-and-low-contrast-drawings.jpeg)
 
 2D thin line and low-contrast drawings
 
@@ -308,7 +307,7 @@ It can also be difficult to interpret 2D drawings, especially those with thin li
 
 **Recommendation**
 
-![3D drawing with appropriate line thickness](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/3D-drawing-with-appropriate-line-thickness.jpeg)
+![3D drawing with appropriate line thickness](images/3D-drawing-with-appropriate-line-thickness.jpeg)
 
 3D drawing with appropriate line thickness
 
@@ -316,7 +315,7 @@ Where possible, use 3D renderings with perspective and solid colors.
 
 **Issue**
 
-![Images without context](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Images-without-context.jpeg)
+![Images without context](images/Images-without-context.jpeg)
 
 Images without context
 
@@ -325,7 +324,7 @@ Images without context
 
 **Recommendation**
 
-![Images with context](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Images-with-context.jpeg)
+![Images with context](images/Images-with-context.jpeg)
 
 Images with context
 
@@ -334,7 +333,7 @@ Images with context
 
 **Issue**
 
-![Non-standard symbols](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Non-standard-symbols.jpeg)
+![Non-standard symbols](images/Non-standard-symbols.jpeg)
 
 Non-standard symbols
 
@@ -342,7 +341,7 @@ Symbols are hard to understand if they are arbitrarily chosen or region-specific
 
 **Recommendation**
 
-![Standard symbols](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Standard-symbols.jpeg)
+![Standard symbols](images/Standard-symbols.jpeg)
 
 Standard symbols
 
@@ -350,7 +349,7 @@ Use unambiguous and globally accepted symbols. Include a symbol key that is find
 
 **Issue**
 
-![Drawings without realistic detail](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Drawings-without-realistic-detail.jpeg)
+![Drawings without realistic detail](images/Drawings-without-realistic-detail.jpeg)
 
 Drawings without realistic detail
 
@@ -358,14 +357,14 @@ Graphics that are not presented with details that match the actual components ma
 
 **Recommendation**
 
-![Drawings with realistic detail](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Drawings-with-realistic-detail.jpeg)
+![Drawings with realistic detail](images/Drawings-with-realistic-detail.jpeg)
 
 Drawings with realistic detail
 
 -   Make sure graphics/images match the actual appearance of the components (e.g., if a cap is gray, do not illustrate in white; if the cartridge has text or other markings on it, include these in graphics).
 -   Use grayscale sparingly and retain outlining of gray features.
 
-* * * * *
+---
 
 ### Instructions/Accessing Information - Language
 
@@ -386,20 +385,20 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 -   UProvide non-visual descriptive indicators when describing components or features.
 -   Avoid use of abbreviations or acronyms. If it is necessary, clearly define the abbreviation or acronym at first instance and use consistently thereafter.
 
-* * * * *
+---
 
 ### 1.2 Package Design
 
 -   Identification
 -   Accessing Contents
 
-* * * * *
+---
 
 ### Package Design - Identification
 
 **Identification**
 
-![Box with examples of good identification features](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Box-with-examples-of-good-identification.jpeg)
+![Box with examples of good identification features](images/Box-with-examples-of-good-identification.jpeg)
 
 Box with examples of good identification features
 
@@ -407,7 +406,7 @@ Outer box packaging is the initial introduction to any device. It can directly c
 
 **Issue**
 
-![Box labeling viewable in only one orientation](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Box-labeling-viewable-in-only-one-oriention.jpeg)
+![Box labeling viewable in only one orientation](images/Box-labeling-viewable-in-only-one-oriention.jpeg)
 
 Box labeling viewable in only one orientation
 
@@ -415,7 +414,7 @@ Packages are often inadequately labeled. Boxes with nondescript panels may need 
 
 **Recommendation**
 
-![Box labeling viewable in multiple orientations](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Box-labeling-viewable-in-multiple-orientations.jpeg)
+![Box labeling viewable in multiple orientations](images/Box-labeling-viewable-in-multiple-orientations.jpeg)
 
 Box labeling viewable in multiple orientations
 
@@ -423,7 +422,7 @@ Consider how the package might be displayed (e.g., on a shelf) and what informat
 
 **Issue**
 
-![Box labeling with poor legibility](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Box-labeling-with-poor-legibility.jpeg)
+![Box labeling with poor legibility](images/Box-labeling-with-poor-legibility.jpeg)
 
 Box labeling with poor legibility
 
@@ -431,7 +430,7 @@ Much of standard packaging is filled with lots of information in a small (less t
 
 **Recommendation**
 
-![Box labeling with improved legibility](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Box-labeling-with-improved-legibility.jpeg)
+![Box labeling with improved legibility](images/Box-labeling-with-improved-legibility.jpeg)
 
 Box labeling with improved legibility
 
@@ -440,7 +439,7 @@ Box labeling with improved legibility
 
 **Issue**
 
-![Poor color combination; packaging with poor legibility](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Poor-color-combination-packaging-with-poor-legibility.jpeg)
+![Poor color combination; packaging with poor legibility](images/Poor-color-combination-packaging-with-poor-legibility.jpeg)
 
 Poor color combination; packaging with poor legibility
 
@@ -448,7 +447,7 @@ Much of standard packaging is filled with lots of information with poor color co
 
 **Recommendation**
 
-![Recommended color combination; legible packaging](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Recommended-color-combination-legible-packaging.jpeg)
+![Recommended color combination; legible packaging](images/Recommended-color-combination-legible-packaging.jpeg)
 
 Recommended color combination; legible packaging
 
@@ -456,7 +455,7 @@ Use effective color contrast on outer packaging (refer to pg. 12 for design cons
 
 **Issue**
 
-![QR code is too small to easily locate](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/QR-code-is-too-small-to-easily-locate.jpeg)
+![QR code is too small to easily locate](images/QR-code-is-too-small-to-easily-locate.jpeg)
 
 QR code is too small to easily locate
 
@@ -465,7 +464,7 @@ QR code is too small to easily locate
 
 **Recommendation**
 
-![QR code is large and readily discoverable](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/QR-code-is-large-and-readily-discoverable.jpeg)
+![QR code is large and readily discoverable](images/QR-code-is-large-and-readily-discoverable.jpeg)
 
 QR code is large and readily discoverable
 
@@ -474,7 +473,7 @@ QR code is large and readily discoverable
 
 **Issue**
 
-![Example of a flat QR](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Example-of-a-flat-QR.jpeg)
+![Example of a flat QR](images/Example-of-a-flat-QR.jpeg)
 
 Example of a flat QR
 
@@ -482,19 +481,19 @@ There are generally no tactile features on the surfaces of standard boxes, which
 
 **Recommendation**
 
-![Alternatives to flat QR codes](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Alternatives-to-flat-QR-codes.jpeg)
+![Alternatives to flat QR codes](images/Alternatives-to-flat-QR-codes.jpeg)
 
 Alternatives to flat QR codes
 
 Provide a means to tactilely find encoded information (e.g., a raised sticker, or raised outline). A QR code should be the primary way for a user to obtain information; braille and embossed lettering are appropriate secondary methods.
 
-* * * * *
+---
 
 ### Package Design - Accessing Contents
 
 **Accessing Contents**
 
-![Package with tamper evident seal](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Package-with-tamper-evident-seal.jpeg)
+![Package with tamper evident seal](images/Package-with-tamper-evident-seal.jpeg)
 
 Package with tamper evident seal
 
@@ -506,7 +505,7 @@ Opening and accessing packaging requires a balance of competing needs:
 
 **Issue**
 
-![Difficult to remove tamper-proof seal](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Difficult-to-remove-tamper-proof-seal.jpeg)
+![Difficult to remove tamper-proof seal](images/Difficult-to-remove-tamper-proof-seal.jpeg)
 
 Difficult to remove tamper-proof seal
 
@@ -515,7 +514,7 @@ Difficult to remove tamper-proof seal
 
 **Recommendation**
 
-![Easy to remove tamper-proof seal](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Easy-to-remove-tamper-proof-seal.jpeg)
+![Easy to remove tamper-proof seal](images/Easy-to-remove-tamper-proof-seal.jpeg)
 
 Easy to remove tamper-proof seal
 
@@ -524,7 +523,7 @@ Easy to remove tamper-proof seal
 
 **Issue**
 
-![Difficult to remove tamper-proof seal](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Difficult-to-remove-tamper-proof-seal-2.jpeg)
+![Difficult to remove tamper-proof seal](images/Difficult-to-remove-tamper-proof-seal-2.jpeg)
 
 Difficult to remove tamper-proof seal
 
@@ -533,7 +532,7 @@ Difficult to remove tamper-proof seal
 
 **Recommendation**
 
-![Easy to remove tamper-proof seal](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Easy-to-remove-tamper-proof-seal-2.jpeg)
+![Easy to remove tamper-proof seal](images/Easy-to-remove-tamper-proof-seal-2.jpeg)
 
 Easy to remove tamper-proof seal
 
@@ -542,7 +541,7 @@ Easy to remove tamper-proof seal
 
 **Issue**
 
-![Package without intuitive opening](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Package-without-intuitive-opening.jpeg)
+![Package without intuitive opening](images/Package-without-intuitive-opening.jpeg)
 
 Package without intuitive opening
 
@@ -550,7 +549,7 @@ It can be challenging to understand how to open a package (e.g., How does the li
 
 **Recommendation**
 
-![Packages with opening cues](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Packages-with-opening-cues.jpeg)
+![Packages with opening cues](images/Packages-with-opening-cues.jpeg)
 
 Packages with opening cues
 
@@ -558,7 +557,7 @@ Provide familiar tactile cues on the packaging indicating which part is meant to
 
 **Issue**
 
-![Plain box with no divots](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Package-without-intuitive-opening.jpeg)
+![Plain box with no divots](images/Package-without-intuitive-opening.jpeg)
 
 Plain box with no divots
 
@@ -566,13 +565,13 @@ It can be challenging to physically open a package when there are no affordances
 
 **Recommendation**
 
-![Boxes with divots and flaps](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Boxes-with-divots-and-flaps.jpeg)
+![Boxes with divots and flaps](images/Boxes-with-divots-and-flaps.jpeg)
 
 Boxes with divots and flaps
 
 Include features for opening the package which accommodate users' fingers and a variety of hand sizes to ensure opening methods require low force.
 
-* * * * *
+---
 
 ### 1.3 Kit Design
 
@@ -580,13 +579,13 @@ Include features for opening the package which accommodate users' fingers and a 
 -   Identification of Contents
 -   Opening Internal Packages
 
-* * * * *
+---
 
 ### Kit Design - Organization of Contents
 
 **Organization of Contents**
 
-![Kit contents](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Kit-contents.jpeg)
+![Kit contents](images/Kit-contents.jpeg)
 
 Kit contents
 
@@ -594,7 +593,7 @@ Test kits containing multiple components must identify the components, secure sm
 
 **Issue**
 
-![Loose contents inside box packaging](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Loose-contents-inside-box-packaging.jpeg)
+![Loose contents inside box packaging](images/Loose-contents-inside-box-packaging.jpeg)
 
 Loose contents inside box packaging
 
@@ -603,20 +602,20 @@ Loose contents inside box packaging
 
 **Recommendation**
 
-![Contents neatly organized within box](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Contents-neatly-organized-within-box.jpeg)
+![Contents neatly organized within box](images/Contents-neatly-organized-within-box.jpeg)
 
 Contents neatly organized within box
 
 -   Provide legible (pg. 10) instructions (i.e., QRG) face up as the first thing users encounter. Include a tactile means to locate QR code, linking to digital instructions and test information, including test type, expiration date, and customer service phone number.
 -   Place contents in an organized and fixed manner (e.g., tray, card, dividers, etc.), in clear order of use. This helps users identify components, delineate order of use, and keep components secure.
 
-* * * * *
+---
 
 ### Kit Design - Identification of Contents
 
 **Identification of Contents**
 
-![Identification of Contents](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Identification-of-Contents.jpeg)
+![Identification of Contents](images/Identification-of-Contents.jpeg)
 
 Identification of Contents
 
@@ -624,7 +623,7 @@ Contents in a package need to be identifiable so that users know when to open or
 
 **Issue**
 
-![Parts are packaged in foil pouches with the same form factor](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Parts-are-packaged-in-foil-pouches-with-the-same-factor.jpeg)
+![Parts are packaged in foil pouches with the same form factor](images/Parts-are-packaged-in-foil-pouches-with-the-same-factor.jpeg)
 
 Parts are packaged in foil pouches with the same form factor
 
@@ -632,19 +631,19 @@ Component packages that are similar in size and shape to one another are difficu
 
 **Recommendation**
 
-![Parts are packaged with distinct materials and form factors](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Parts-are-packaged-with-distinct-materials-and-form-factors.jpeg)
+![Parts are packaged with distinct materials and form factors](images/Parts-are-packaged-with-distinct-materials-and-form-factors.jpeg)
 
 Parts are packaged with distinct materials and form factors
 
 If components have interior packages, ensure that each component is tactilely discernible from others so users can use touch to identify contents. For example, a user could be instructed to feel for a component shape inside the interior package. Alternatively, the kit could provide distinct shapes of the interior packages that can be described to and felt by no-vision or low- vision users.
 
-* * * * *
+---
 
 ### Kit Design - Opening Internal Packages
 
 **Opening Internal Packages**
 
-![Internal packages](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Internal-packages.jpeg)
+![Internal packages](images/Internal-packages.jpeg)
 
 Internal packages
 
@@ -652,7 +651,7 @@ Accessing components frequently requires opening a sealed package. The user shou
 
 **Issue**
 
-![Pouch without clear indication for tear location](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Pouch-without-clear-indication-for-tear-location.jpeg)
+![Pouch without clear indication for tear location](images/Pouch-without-clear-indication-for-tear-location.jpeg)
 
 Pouch without clear indication for tear location
 
@@ -660,7 +659,7 @@ It can be difficult to understand how to open a pouch. Locating the correct plac
 
 **Recommendation**
 
-![Pouch with evident tear location](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Pouch-with-evident-tear-location.jpeg)
+![Pouch with evident tear location](images/Pouch-with-evident-tear-location.jpeg)
 
 Pouch with evident tear location
 
@@ -668,7 +667,7 @@ Provide multi-modal methods to inform the user how to open package. For example,
 
 **Issue**
 
-![Swab packaging with swab tip near small peel tab](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Swab-packaging-with-swab-tip-near-small-peel-tab.jpeg)
+![Swab packaging with swab tip near small peel tab](images/Swab-packaging-with-swab-tip-near-small-peel-tab.jpeg)
 
 Swab packaging with swab tip near small peel tab
 
@@ -676,13 +675,13 @@ Interior packaging may present a method for opening which exposes an area to con
 
 **Recommendation**
 
-![Swab packaging with swab handle near big peel tab](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Swab-packaging-with-swab-handle-near-big-peel-tab.jpeg)
+![Swab packaging with swab handle near big peel tab](images/Swab-packaging-with-swab-handle-near-big-peel-tab.jpeg)
 
 Swab packaging with swab handle near big peel tab
 
 Ensure the opening exposes the component portion that would be preferred to touch (e.g., peel feature near swab handle rather than swab tip).
 
-* * * * *
+---
 
 **Chapter 2**
 
@@ -691,7 +690,7 @@ Ensure the opening exposes the component portion that would be preferred to touc
 -   2.1 Instructions/Accessing Information
 -   2.2 Test Procedure
 
-* * * * *
+---
 
 ### 2.1 Instructions/Accessing Information
 
@@ -704,13 +703,13 @@ Ensure the opening exposes the component portion that would be preferred to touc
 -   Video
 -   Language in Digital Formats
 
-* * * * *
+---
 
 ### Instructions/Accessing Information - Modality
 
 **Modality**
 
-![Digital modalities](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Digital-modalities.jpeg)
+![Digital modalities](images/Digital-modalities.jpeg)
 
 Digital modalities
 
@@ -730,13 +729,13 @@ Offer instructions in alternate modalities conveying identical information such 
 -   Toll-free IVR telephone system
 -   Video with audio description, captions, and transcript
 
-* * * * *
+---
 
 ### Instructions/Accessing Information - Assistive Technology Compatibility
 
 **Assistive Technology Compatibility**
 
-![Assistive technologies](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Assistive-technologies.jpeg)
+![Assistive technologies](images/Assistive-technologies.jpeg)
 
 Assistive technologies
 
@@ -759,7 +758,7 @@ Instructions are provided in a format that is not compatible with use on a smart
 
 **Issue**
 
-![Formatting incompatible with screen reader](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Formatting-incompatible-with-screen-reader.jpeg)
+![Formatting incompatible with screen reader](images/Formatting-incompatible-with-screen-reader.jpeg)
 
 Formatting incompatible with screen reader
 
@@ -767,19 +766,19 @@ Not all digital instructions are compatible with screen readers. Key elements ar
 
 **Recommendation**
 
-![Formatting compatible with screen readers](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Formatting-compatible-with-screen-readers.jpeg)
+![Formatting compatible with screen readers](images/Formatting-compatible-with-screen-readers.jpeg)
 
 Formatting compatible with screen readers
 
 Ensure digital instructions are compatible with all commonly used screen readers. Confirm both computer and mobile screen reader compatibility of each and every screen element (e.g., images, fields, buttons).
 
-* * * * *
+---
 
 ### Instructions/Accessing Information - User Interface Features
 
 **User Interface (UI) Features**
 
-![User interface considerations](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/User-interface-considerations.jpeg)
+![User interface considerations](images/User-interface-considerations.jpeg)
 
 User interface considerations
 
@@ -800,7 +799,7 @@ The presence or absence of features in an application or web design can signific
 
 **Issue**
 
-![Important information integrated into text](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Important-information-integrated-into-text.jpeg)
+![Important information integrated into text](images/Important-information-integrated-into-text.jpeg)
 
 Important information integrated into text
 
@@ -808,20 +807,20 @@ Some important content can be missed with the use of a digital user interface if
 
 **Recommendation**
 
-![Important information presented in pop-up](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Important-information-presented-in-pop-up.jpeg)
+![Important information presented in pop-up](images/Important-information-presented-in-pop-up.jpeg)
 
 Important information presented in pop-up
 
 -   Provide pop-up messages for important content that remains on screen until user provides input to acknowledge the message.
 -   Errors, warnings, and success messages should not automatically disappear until the user acknowledges the message.
 
-* * * * *
+---
 
 ### Instructions/Accessing Information - Operating System Compatibility
 
 **Operating System Compatibility**
 
-![Device operating systems](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Device-operating-systems.jpeg)
+![Device operating systems](images/Device-operating-systems.jpeg)
 
 Device operating systems
 
@@ -845,13 +844,13 @@ The ability for content to be recognized and understood by computer, smartphone,
 -   Save partial data (e.g., create a user profile) so user does not have to input data again for repeat testing.
 -   Ensure that all data entry fields are assigned screen readable labels.
 
-* * * * *
+---
 
 ### Instructions/Accessing Information - Audio Instructions
 
 **Audio Instructions via Website or Application**
 
-![Multiple platforms supporting audio content](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Multiple-platforms-supporting-audio-content.jpeg)
+![Multiple platforms supporting audio content](images/Multiple-platforms-supporting-audio-content.jpeg)
 
 Multiple platforms supporting audio content
 
@@ -869,13 +868,13 @@ Audio instructions should be available in easy-to- navigate formats and should u
 -   DAISY audio book file with sections of the QRG included as chapters.
 -   Downloadable MP3 files for each section as well as a master file of all sections together.
 
-* * * * *
+---
 
 ### Instructions/Accessing Information - IVR System
 
 **Interactive Voice Response (IVR) System**
 
-![Interactive Voice Response (IVR) System](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Interactive-Voice-Response-(IVR-)System.jpeg)
+![Interactive Voice Response (IVR) System](images/Interactive-Voice-Response-(IVR-)System.jpeg)
 
 Interactive Voice Response (IVR) System
 
@@ -883,7 +882,7 @@ IVR systems can be used to connect users to instructions through a phone call. T
 
 **Issue**
 
-![Instructions without IVR availability](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Instructions-without-IVR-availability.jpeg)
+![Instructions without IVR availability](images/Instructions-without-IVR-availability.jpeg)
 
 Instructions without IVR availability
 
@@ -891,7 +890,7 @@ Instructions are not always available by phone which is challenging to some user
 
 **Recommendation**
 
-![Instructions with IVR availability](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Instructions-with-IVR-availability.jpeg)
+![Instructions with IVR availability](images/Instructions-with-IVR-availability.jpeg)
 
 Instructions with IVR availability
 
@@ -900,13 +899,13 @@ Provide audio instructions via IVR system capable of:
 -   Navigating instructions in the same manner as the downloadable file types.
 -   Responding to inputs via button presses associated with actions (e.g., progress to next step, repeat current step, return to previous step, return to main menu, connect the user to a live agent as needed).
 
-* * * * *
+---
 
 ### Instructions/Accessing Information - Video
 
 **Video**
 
-![Video demonstration of test procedure](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Video-demonstration-of-test-procedure.jpeg)
+![Video demonstration of test procedure](images/Video-demonstration-of-test-procedure.jpeg)
 
 Video demonstration of test procedure
 
@@ -938,7 +937,7 @@ Videos can be an effective way to inform users about the product and how to use 
 -   Include multilingual closed-captions.
 -   Consider implementing a user profile recognition function to make video viewing required for the first test but optional for subsequent tests.
 
-* * * * *
+---
 
 ### Instructions/Accessing Information - Language in Digital Formats
 
@@ -958,22 +957,22 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 -   Provide concise, descriptive language of tactile differentiation for each component, especially for components which are highlighted visually in instructions (refer to pg. 28 for more information).
 -   Provide clear instructions to conduct the test by feel alone so that no-vision and low-vision users can identify, orient, and use the test components correctly. This should include:
 
--   1\. How to discern inner packages from one another (e.g., the two parts of a dropper in separate pouches)
--   2\. A clear non-visual physical description of each kit component including shape, size, and feel (versus color) (e.g., "Open the package that is a rectangle with a pull tab at the end.")
--   3\. How components interact with each other
--   4\. Translating visual content with clear and non- physical audio descriptions
+1	How to discern inner packages from one another (e.g., the two parts of a dropper in separate pouches)
+1	A clear non-visual physical description of each kit component including shape, size, and feel (versus color) (e.g., "Open the package that is a rectangle with a pull tab at the end.")
+1	How components interact with each other
+1	Translating visual content with clear and non- physical audio descriptions
 
-* * * * *
+---
 
 ### 2.2 Test Procedure
 
 -   Connecting/Bluetooth Pairing
 
-* * * * *
+---
 
 ### Test Procedure - Connecting/Bluetooth Pairing
 
-![Phone connecting via Bluetooth](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Phone-connecting-via-Bluetooth.jpeg)
+![Phone connecting via Bluetooth](images/Phone-connecting-via-Bluetooth.jpeg)
 
 Phone connecting via Bluetooth
 
@@ -983,7 +982,7 @@ Some tests may require Bluetooth pairing (connecting a smartphone and another de
 
 **Issue**
 
-![Phone connecting via Bluetooth with visual cues](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Phone-connecting-via-Bluetooth-with-visual-cues.jpeg)
+![Phone connecting via Bluetooth with visual cues](images/Phone-connecting-via-Bluetooth-with-visual-cues.jpeg)
 
 Phone connecting via Bluetooth with visual cues
 
@@ -992,14 +991,14 @@ Phone connecting via Bluetooth with visual cues
 
 **Recommendation**
 
-![Phone connecting via Bluetooth with audio cues](file:///C:/Users/bailey/OneDrive%20-%20Access%20Board/Documents%20-%20OTIS%20Team/USAB%20Website/RADx%20winter%202022/HTML%20export%20-%20RADx%20Mini%20Best%20Practices%20FINAL%202022-12-02/images/Phone-connecting-via-Bluetooth-with-audio-cues.jpeg)
+![Phone connecting via Bluetooth with audio cues](images/Phone-connecting-via-Bluetooth-with-audio-cues.jpeg)
 
 Phone connecting via Bluetooth with audio cues
 
 -   Provide multi-modal, clear feedback on pairing status (e.g., audible and/or tactile feedback).
 -   If a device is required to be placed a specific distance from a component, provide device positioning recognition to the user.
 
-* * * * *
+---
 
 ### References
 
@@ -1020,5 +1019,3 @@ Federal Plain Language Guidelines. (2011). In www.plainlanguage.gov . PlainLangu
 Human Factors Implications of the New GMP Rule Overall Requirements of the New Quality System Regulation. (1997). US Food and Drug Administration.
 
 Web Content Accessibility Guidelines (WCAG) 2.1 W3C Recommendation. (2018).
-
-* * * * *
