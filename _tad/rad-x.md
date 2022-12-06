@@ -31,9 +31,10 @@ When this work began, it was recognized that there was a need to provide informa
 
 ### Glossary
 
-**Cartridge --** Device where a liquid sample is applied and a result is communicated visually or by a test reader once the sample is processed.
-
-**Dropper -- **Device intended to contain the buffer fluid into which the sample is introduced and transferred to the Cartridge. May be integrated into a Fluid Vial.
+Cartridge
+: Device where a liquid sample is applied and a result is communicated visually or by a test reader once the sample is processed.
+Dropper
+: Device intended to contain the buffer fluid into which the sample is introduced and transferred to the Cartridge. May be integrated into a Fluid Vial.
 
 **Dropper -- **evice intended to contain the buffer fluid into which the sample is introduced and transferred to the Cartridge. May be integrated into a Fluid Vial.
 
@@ -83,12 +84,11 @@ When this work began, it was recognized that there was a need to provide informa
 
 #### Instructions/Accessing Information - Text Perception
 
-![Instructions for use](./images/Text-Perception.jpeg)
+![Instructions for use](./images/Text-Perception.jpg)
 
 ![Instructions for use](./images/Text-Perception.jpeg)
 
 ![An autonomous vehicle with doors open](./images/105-av1of2.png){: .img-right }
-
 
 
 Instructions for use
