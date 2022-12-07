@@ -701,11 +701,13 @@ Instructions are provided in a format that is not compatible with use on a smart
 
 -   Digital instructions should be on a web page (not just as a downloadable PDF) that applies responsive web design.
 -   Audit the web pages with assistive technology used by experienced digital accessibility professionals.
--   Reference and implement best practices for making application content accessible: Web Accessibility Mobile Accessibility
--   Ensure the QRG is available as a PDF that conforms to Section 508, WCAG 2.1 level AA, and PDF/Universal Accessibility (UA) standards.
+-   Reference and implement best practices for making application content accessible:
+	* [Web Accessibility](https://www.w3.org/WAI/standards-guidelines/wcag/)
+	* [Mobile Accessibility](https://www.w3.org/TR/mobile-accessibility-mapping/)
+-   Ensure the QRG is available as a PDF that conforms to Section 508, WCAG 2.1 level AA, and PDF/Unive	rsal Accessibility (UA) standards.
 -   Ensure all images have meaningful, descriptive alternative ('alt') text, particularly when describing test components such that they can be discerned from one another non-visually.
--   Ensure all form fields have accessible names/ labels.
--   Consider providing a Digital Accessible Information System (DAISY) format of the QRG with sections and subsections defined in the file (See also Physical Components - Instructions/Accessing Information pgs. 8-28).
+-   Ensure all form fields have accessible names/labels.
+-   Consider providing a Digital Accessible Information System (DAISY) format of the QRG with sections and subsections defined in the file (See also Physical Components - Instructions/Accessing Information [above](#instructions-accessing-information)).
 -   Provide a link or button on the web page that leads the user to a full digital version of the instructions and allow users to request a large-print or braille copy be mailed to them at no charge.
 
 ##### Issue
