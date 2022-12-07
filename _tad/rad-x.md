@@ -12,9 +12,9 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 
 ---
 
-## {{ page.title }}
+# {{ page.title }}
 
-### Introduction
+## Introduction
 
 The National Institutes of Health (NIH) launched the Rapid Acceleration of Diagnostics (RADx®) initiative to speed innovation, development, commercialization, and implementation of COVID-19 testing technologies. The RADx Tech program, one arm of the initiative, was specifically designed to compress the customary technology development timeline from years down to just months. While these programs have increased testing capacity in the U.S. by billions, there is a continuing need to develop at-home COVID-19 tests that are accessible to all users including populations that have no or low vision, a reduced range of dexterity or motor skills, and that are aging.
 
@@ -28,7 +28,7 @@ When this work began, it was recognized that there was a need to provide informa
 
 ---
 
-### Glossary
+## Glossary
 
 Cartridge
 : Device where a liquid sample is applied and a result is communicated visually or by a test reader once the sample is processed.
@@ -74,13 +74,13 @@ Tube Holder
 
 ---
 
-## Chapter 1
+** Chapter 1 **
 
-### Physical Components
+## Physical Components
 
--   1.1 Instructions/Accessing Information
--   1.2 Packaging
--   1.3 Kitting
+1.1 Instructions/Accessing Information \
+1.2 Packaging \
+1.3 Kitting
 
 #### 1.1 Instructions/Accessing Information
 
@@ -90,29 +90,29 @@ Tube Holder
 -   Graphics, Images and Symbols
 -   Language
 
-#### Instructions/Accessing Information - Text Perception
-
-![Instructions for use](./images/Text-Perception.jpg)
-
-##### Instructions for use
+##### Text Perception
 
 Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.
 
-**Issues**
+![Folded instruction sheet illustration.](./images/Text-Perception.jpg)
+
+** Instructions for use **
+
+###### Issues
 
 -   Some instructions include the use of hard to read fonts, italics, underlining, or other text features that increase the level of reading difficulty.
 -   Instructions are also challenging to read when multiple fonts and typefaces are used.
 
-**Recommendations**
+###### Recommendations
 
 -   Consistently use a sans serif font that is easy to read such as Arial, Verdana, Helvetica, Calibri, etc.
 -   Minimize italics
 -   Do not use all capital letters
 -   Avoid/minimize underlining
 
-**Issue**
+##### Issue
 
-![Key information hard to distinguish](images/instructions-issue.jpg)
+![Key information hard to distinguish](./images/instructions-issue.jpg)
 
 Key information hard to distinguish
 
@@ -120,9 +120,9 @@ Key information hard to distinguish
 -   Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.
 -   Expiration date is presented as a number string (e.g., YYYY-MM-DD or MM/DD/YYYY) only, which OCR applications do not recognize as dates.
 
-**Recommendation**
+##### Recommendation
 
-![Key information stands apart](images/instructions-recommendation.jpg)
+![Key information stands apart](./images/instructions-recommendation.jpg)
 
 Key information stands apart
 
@@ -130,7 +130,7 @@ Key information stands apart
 -   Provide QR codes measuring larger than one-half inch square.
 -   Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12). Ideally, state: 'Use before date' or 'Do no use after date'.
 
-**Issue**
+##### Issue
 
 ![Poor color combination; Instructions with poor legibility](./images/text-perception-issue.jpg)
 
@@ -140,10 +140,9 @@ Information can be provided with inappropriate color contrast. It can be challen
 
 Key information stands apart
 
-**Recommendation**
+##### Recommendation
 
-![Recommended color combination; legible instructions
-](images/text-perception-recommendation.jpg)
+![Recommended color combination; legible instructions](./images/text-perception-recommendation.jpg)
 
 Recommended color combination; legible instructions
 
@@ -155,37 +154,34 @@ Color contrast needs to allow for better differentiation between the text and ba
 
 **General Readability and Layout**
 
-![Layout considerations for readability
-](images/Layout-considerations-for-readability.jpg)
+![Layout considerations for readability](./images/Layout-considerations-for-readability.jpg)
 
 Layout considerations for readability
 
 Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.
 
-**Issue**
+##### Issue
 
 -   Too much information can be presented in a format that is difficult to follow. It can be difficult to understand what is meant to be read and in what order.
 -   Steps requiring multiple actions or tasks are challenging for all to follow. Multiple steps that take up different amounts of page 'real estate' are difficult to scan for low-vision users.
 
-**Recommendation**
+##### Recommendation
 
 -   Provide a single, actionable task for each step.
 -   Break text into block paragraphs using bullet points when possible. As a best practice for all lay users, write short sentences at a 7th grade reading level.
 
-**Issue**
+##### Issue
 
-![Text layout with inconsistent information flow
-](images/Text-layout-with-inconsistent-information-flow.jpg)
+![Text layout with inconsistent information flow](./images/Text-layout-with-inconsistent-information-flow.jpg)
 
 Text layout with inconsistent information flow
 
 -   Blocks of text are sometimes presented in different layouts, some left to right and others top to bottom, making following along cumbersome.
 -   Lack of breaks in large blocks of text make the information difficult to digest and wide columns can make low-vision users dizzy.
 
-**Recommendation**
+##### Recommendation
 
-![Recommended text layout and in formation flow
-](images/Recommended-text-layout-and-information-flow.jpg)
+![Recommended text layout and in formation flow](./images/Recommended-text-layout-and-information-flow.jpg)
 
 Recommended text layout and in formation flow
 
@@ -193,19 +189,17 @@ Recommended text layout and in formation flow
 -   Present document in landscape format if possible.
 -   Include a margin of at least three pixels between rows and columns.
 
-**Issue**
+##### Issue
 
-![Numerous warnings embedded in copy
-](images/Numerous-warnings-embedded-in-copy.jpg)
+![Numerous warnings embedded in copy](./images/Numerous-warnings-embedded-in-copy.jpg)
 
 Numerous warnings embedded in copy
 
 Multiple warnings are presented inconsistently making it hard to locate them or allow the truly important warnings to attract the appropriate amount of attention.
 
-**Recommendation**
+##### Recommendation
 
-![Targeted warnings, visually differentiated from plain copy
-](images/Targeted-warnings-visually-differentiated-from-plain-copy.jpg)
+![Targeted warnings, visually differentiated from plain copy](./images/Targeted-warnings-visually-differentiated-from-plain-copy.jpg)
 
 Targeted warnings, visually differentiated from plain copy
 
@@ -217,24 +211,23 @@ Essential warnings (e.g., those where use error is associated with the greatest 
 
 **Physical Embodiment**
 
-![Layout considerations for readability
-](images/Layout-considerations-for-readability.jpg)
+![Layout considerations for readability](./images/Layout-considerations-for-readability.jpg)
 
 Layout considerations for readability
 
 Instructions can be provided in a number of ways: on a card, on paper, on a fold out, or in a booklet. The mode in which physical instructions are provided can impact readability and usability.
 
-**Issue**
+##### Issue
 
-![Information split along paper fold](images/Information-split-along-paper-fold.jpg)
+![Information split along paper fold](./images/Information-split-along-paper-fold.jpg)
 
 Information split along paper fold
 
 Large instruction panels with folds can result in text crossing over folds. Same-topic information may be split across front and back panels, resulting in reduced readability.
 
-**Recommendation**
+##### Recommendation
 
-![Information contained within folded panels](images/Information-contained-within-folded-panels.jpg)
+![Information contained within folded panels](./images/Information-contained-within-folded-panels.jpg)
 
 Information contained within folded panels
 
@@ -242,35 +235,35 @@ Information contained within folded panels
 -   Including text column gutters on folds may make it easier to scan parts of a folded document for OCR.
 -   Place all information needed to run the test on one side of the paper or card. The other side can be used for supporting information.
 
-**Issue**
+##### Issue
 
-![Instructions that require full unfolding](images/Instructions-that-require-full-unfolding.jpg)
+![Instructions that require full unfolding](./images/Instructions-that-require-full-unfolding.jpg)
 
 Instructions that require full unfolding
 
 -   It can be difficult to physically place instructions adjacent to the components due to size or material making them difficult to reference while using the test.
 -   Tests with fluid can result in spills which can deteriorate less robust instructional materials.
 
-**Recommendation**
+##### Recommendation
 
-![Instructions that can be unfolded by section](images/Instructions-that-can-be-unfolded-by-section.jpg)
+![Instructions that can be unfolded by section](./images/Instructions-that-can-be-unfolded-by-section.jpg)
 
 Instructions that can be unfolded by section
 
 -   Provide instructions in a manner that they can be placed adjacent to a test kit on a table.
 -   Consider that lighter paper weights allow instructions to lay flat. Use materials which can withstand some amount of liquid spill. If coatings are used, limit reflectivity.
 
-**Issue**
+##### Issue
 
-![Instructions are too large for scanning](images/Instructions-are-too-large-for-scanning.jpg)
+![Instructions are too large for scanning](./images/Instructions-are-too-large-for-scanning.jpg)
 
 Instructions are too large for scanning
 
 Paper (or similar) documents may be provided in an incompatible format for assistive technologies. Pages or panels may be too large for flatbed scanners and smartphone OCR. Multiple panels without numbering make it difficult to navigate from page to page.
 
-**Recommendation**
+##### Recommendation
 
-![Instructions are an appropriate size for scanning](images/Instructions-are-an-appropriate-size-for-scanning.jpg)
+![Instructions are an appropriate size for scanning](./images/Instructions-are-an-appropriate-size-for-scanning.jpg)
 
 Instructions are an appropriate size for scanning
 
@@ -283,90 +276,90 @@ Instructions are an appropriate size for scanning
 
 **Graphics, Images and Symbols**
 
-![Arrows show user interaction with product](images/Arrows-show-user-interaction.jpg)
+![Arrows show user interaction with product](./images/Arrows-show-user-interaction.jpg)
 
 Arrows show user interaction with product
 
 Graphics, images, and symbols can be an effective way for users to quickly perceive and understand information.
 
-**Issue**
+##### Issue
 
-![Photo backgrounds distract from product](images/Photo-backgrounds-distract-from-product.jpg)
+![Photo backgrounds distract from product](./images/Photo-backgrounds-distract-from-product.jpg)
 
 Photo backgrounds distract from product
 
 Photos contain extra, unnecessary information making them difficult for low-vision users to perceive.
 
-**Recommendation**
+##### Recommendation
 
-![Line drawings improve comprehension](images/Line-drawings-improve-comprehension.jpg)
+![Line drawings improve comprehension](./images/Line-drawings-improve-comprehension.jpg)
 
 Line drawings improve comprehension
 
 -   Use high-quality, high-contrast, thick line drawings with perspective instead of photos.
 -   Use varying line weights to distinguish detail and accent features (e.g., 0.5 pt -- 1.5 pt for lines and 3 pt -- 4 pt for accent features).
 
-**Issue**
+##### Issue
 
-![2D thin line and low-contrast drawings](images/2D-thin-line-and-low-contrast-drawings.jpg)
+![2D thin line and low-contrast drawings](./images/2D-thin-line-and-low-contrast-drawings.jpg)
 
 2D thin line and low-contrast drawings
 
 It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.
 
-**Recommendation**
+##### Recommendation
 
-![3D drawing with appropriate line thickness](images/3D-drawing-with-appropriate-line-thickness.jpg)
+![3D drawing with appropriate line thickness](./images/3D-drawing-with-appropriate-line-thickness.jpg)
 
 3D drawing with appropriate line thickness
 
 Where possible, use 3D renderings with perspective and solid colors.
 
-**Issue**
+##### Issue
 
-![Images without context](images/Images-without-context.jpg)
+![Images without context](./images/Images-without-context.jpg)
 
 Images without context
 
 -   Images without context do not inform readers about relative component size.
 -   They force the reader to guess where and how components are to be utilized.
 
-**Recommendation**
+##### Recommendation
 
-![Images with context](images/Images-with-context.jpg)
+![Images with context](./images/Images-with-context.jpg)
 
 Images with context
 
 -   Make use of graphics that provide physical context for the reader (e.g., include hands, noses).
 -   Use only enough detail on features to clarify their purpose (e.g., a drawing of a head does not need to include hair).
 
-**Issue**
+##### Issue
 
-![Non-standard symbols](images/Non-standard-symbols.jpg)
+![Non-standard symbols](./images/Non-standard-symbols.jpg)
 
 Non-standard symbols
 
 Symbols are hard to understand if they are arbitrarily chosen or region-specific. Their meaning may not be obvious to the reader.
 
-**Recommendation**
+##### Recommendation
 
-![Standard symbols](images/Standard-symbols.jpg)
+![Standard symbols](./images/Standard-symbols.jpg)
 
 Standard symbols
 
 Use unambiguous and globally accepted symbols. Include a symbol key that is findable and near the symbol or include text labeling immediately adjacent to it. Follow the International Organization for Standardization (ISO) 15223 standard for symbols used on medical device packaging.
 
-**Issue**
+##### Issue
 
-![Drawings without realistic detail](images/Drawings-without-realistic-detail.jpg)
+![Drawings without realistic detail](./images/Drawings-without-realistic-detail.jpg)
 
 Drawings without realistic detail
 
 Graphics that are not presented with details that match the actual components may cause confusion.
 
-**Recommendation**
+##### Recommendation
 
-![Drawings with realistic detail](images/Drawings-with-realistic-detail.jpg)
+![Drawings with realistic detail](./images/Drawings-with-realistic-detail.jpg)
 
 Drawings with realistic detail
 
@@ -381,13 +374,13 @@ Drawings with realistic detail
 
 The vocabulary used in instructions is key to a user's ability to understand what is required. Presenting information in plain, clear, concise language is critical to ensuring a user's understanding of how to use the test kit.
 
-**Issue**
+##### Issue
 
 -   Presenting critical information without text labels creates issues with OCR interpret-ability (e.g., 1-800-000-0000 without a 'Customer Service Phone' text label is read as a number string).
 -   Instructions sometimes refer to components and features inconsistently, which can make finding and following information difficult.
 -   Certain practices create unnecessary ambiguity, such as referring to components or features generally as "this" or "that"; and using abbreviations/ acronyms
 
-**Recommendation**
+##### Recommendation
 
 -   Text label critical information such as the product website, customer service phone number, and customer service email so they are recognized as such by OCR applications (e.g., Customer Service Phone Number: 1-800-000-0000).
 -   Use the same name for a component or feature throughout the instructions and labels on components or packaging.
@@ -407,90 +400,90 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 
 **Identification**
 
-![Box with examples of good identification features](images/Box-with-examples-of-good-identification.jpg)
+![Box with examples of good identification features](./images/Box-with-examples-of-good-identification.jpg)
 
 Box with examples of good identification features
 
 Outer box packaging is the initial introduction to any device. It can directly convey information through standard text, braille, or other novel means. It can indirectly convey information through shape, material, folds, breaks, and links to codes.
 
-**Issue**
+##### Issue
 
-![Box labeling viewable in only one orientation](images/Box-labeling-viewable-in-only-one-oriention.jpg)
+![Box labeling viewable in only one orientation](./images/Box-labeling-viewable-in-only-one-oriention.jpg)
 
 Box labeling viewable in only one orientation
 
 Packages are often inadequately labeled. Boxes with nondescript panels may need to be rotated to ascertain contents.
 
-**Recommendation**
+##### Recommendation
 
-![Box labeling viewable in multiple orientations](images/Box-labeling-viewable-in-multiple-orientations.jpg)
+![Box labeling viewable in multiple orientations](./images/Box-labeling-viewable-in-multiple-orientations.jpg)
 
 Box labeling viewable in multiple orientations
 
 Consider how the package might be displayed (e.g., on a shelf) and what information the user might find most useful to perceive in different orientations in that setting.
 
-**Issue**
+##### Issue
 
-![Box labeling with poor legibility](images/Box-labeling-with-poor-legibility.jpg)
+![Box labeling with poor legibility](./images/Box-labeling-with-poor-legibility.jpg)
 
 Box labeling with poor legibility
 
 Much of standard packaging is filled with lots of information in a small (less than 14 pt) font.
 
-**Recommendation**
+##### Recommendation
 
-![Box labeling with improved legibility](images/Box-labeling-with-improved-legibility.jpg)
+![Box labeling with improved legibility](./images/Box-labeling-with-improved-legibility.jpg)
 
 Box labeling with improved legibility
 
 -   Provide key information in large (14 pt minimum) sans serif font that is easy to read (e.g., Arial, Calibri, etc.). Do not use decorative fonts (e.g., Script, Slab).
 -   Key information includes brand name, device type, expiration date, links to instructions, and customer service phone number. Manufacturers should assure that labeling complies with regulatory bodies.
 
-**Issue**
+##### Issue
 
-![Poor color combination; packaging with poor legibility](images/Poor-color-combination-packaging-with-poor-legibility.jpg)
+![Poor color combination; packaging with poor legibility](./images/Poor-color-combination-packaging-with-poor-legibility.jpg)
 
 Poor color combination; packaging with poor legibility
 
 Much of standard packaging is filled with lots of information with poor color contrast.
 
-**Recommendation**
+##### Recommendation
 
-![Recommended color combination; legible packaging](images/Recommended-color-combination-legible-packaging.jpg)
+![Recommended color combination; legible packaging](./images/Recommended-color-combination-legible-packaging.jpg)
 
 Recommended color combination; legible packaging
 
 Use effective color contrast on outer packaging (refer to pg. 12 for design considerations).
 
-**Issue**
+##### Issue
 
-![QR code is too small to easily locate](images/QR-code-is-too-small-to-easily-locate.jpg)
+![QR code is too small to easily locate](./images/QR-code-is-too-small-to-easily-locate.jpg)
 
 QR code is too small to easily locate
 
 -   QR codes are often missing or insufficiently sized (one-half inch square or less).
 -   Expiration date format is not recognizable by common OCR applications (refer to pg. 11 for more detail).
 
-**Recommendation**
+##### Recommendation
 
-![QR code is large and readily discoverable](images/QR-code-is-large-and-readily-discoverable.jpg)
+![QR code is large and readily discoverable](./images/QR-code-is-large-and-readily-discoverable.jpg)
 
 QR code is large and readily discoverable
 
 -   Present QR codes in size larger than one-half inch square.
 -   Refer to pg. 11 for guidance on expiration date formatting.
 
-**Issue**
+##### Issue
 
-![Example of a flat QR](images/Example-of-a-flat-QR.jpg)
+![Example of a flat QR](./images/Example-of-a-flat-QR.jpg)
 
 Example of a flat QR
 
 There are generally no tactile features on the surfaces of standard boxes, which would otherwise allow for a no-vision or low-vision user to identify package contents, either through a QR code or through braille.
 
-**Recommendation**
+##### Recommendation
 
-![Alternatives to flat QR codes](images/Alternatives-to-flat-QR-codes.jpg)
+![Alternatives to flat QR codes](./images/Alternatives-to-flat-QR-codes.jpg)
 
 Alternatives to flat QR codes
 
@@ -502,7 +495,7 @@ Provide a means to tactilely find encoded information (e.g., a raised sticker, o
 
 **Accessing Contents**
 
-![Package with tamper evident seal](images/Package-with-tamper-evident-seal.jpg)
+![Package with tamper evident seal](./images/Package-with-tamper-evident-seal.jpg)
 
 Package with tamper evident seal
 
@@ -512,69 +505,69 @@ Opening and accessing packaging requires a balance of competing needs:
 -   Ensuring the package is easy to open
 -   Minimizing jostling of internal components
 
-**Issue**
+##### Issue
 
-![Difficult to remove tamper-proof seal](images/Difficult-to-remove-tamper-proof-seal.jpg)
+![Difficult to remove tamper-proof seal](./images/Difficult-to-remove-tamper-proof-seal.jpg)
 
 Difficult to remove tamper-proof seal
 
 -   Tamper-proof seals are often small, round adhesive stickers that can be challenging to find and to remove, especially for low-dexterity users.
 -   Tearing open a package without removing the sticker frequently results in the package being damaged and contents being disorganized and potentially misplaced.
 
-**Recommendation**
+##### Recommendation
 
-![Easy to remove tamper-proof seal](images/Easy-to-remove-tamper-proof-seal.jpg)
+![Easy to remove tamper-proof seal](./images/Easy-to-remove-tamper-proof-seal.jpg)
 
 Easy to remove tamper-proof seal
 
 -   The grasp surface on the tamper-proof seal should be adequate for fingers to grasp, allowing users with low dexterity to easily remove it. If a feature to grasp is being provided, provide at least one-half inch square of graspable area.
 -   Force to remove a label or open a pouch/package should not exceed five pounds.
 
-**Issue**
+##### Issue
 
-![Difficult to remove tamper-proof seal](images/Difficult-to-remove-tamper-proof-seal-2.jpg)
+![Difficult to remove tamper-proof seal](./images/Difficult-to-remove-tamper-proof-seal-2.jpg)
 
 Difficult to remove tamper-proof seal
 
 -   When faced with this tamper-proof seal, many users resort to external tools such as scissors and knives to open the package, which may result in damaging contents.
 -   Many tamper-proof seals are clear, making them challenging to find for low-vision users.
 
-**Recommendation**
+##### Recommendation
 
-![Easy to remove tamper-proof seal](images/Easy-to-remove-tamper-proof-seal-2.jpg)
+![Easy to remove tamper-proof seal](./images/Easy-to-remove-tamper-proof-seal-2.jpg)
 
 Easy to remove tamper-proof seal
 
 -   Provide a tamper-proof seal that is easy to find and easy to remove for everyone. Allow users to grasp features easily and complete the action required to remove without the need for external tools.
 -   The tamper-proof seal should be a contrasting color to the rest of the package.
 
-**Issue**
+##### Issue
 
-![Package without intuitive opening](images/Package-without-intuitive-opening.jpg)
+![Package without intuitive opening](./images/Package-without-intuitive-opening.jpg)
 
 Package without intuitive opening
 
 It can be challenging to understand how to open a package (e.g., How does the lid open? Is there a place where the top and bottom separate?), especially for no-vision and low-vision users, when the only indication regarding top, bottom, front, and back is through visual, printed labeling.
 
-**Recommendation**
+##### Recommendation
 
-![Packages with opening cues](images/Packages-with-opening-cues.jpg)
+![Packages with opening cues](./images/Packages-with-opening-cues.jpg)
 
 Packages with opening cues
 
 Provide familiar tactile cues on the packaging indicating which part is meant to be moved, removed, or separated (e.g., perforated tear tab, thumb cutout, overlapping flaps).
 
-**Issue**
+##### Issue
 
-![Plain box with no divots](images/Package-without-intuitive-opening.jpg)
+![Plain box with no divots](./images/Package-without-intuitive-opening.jpg)
 
 Plain box with no divots
 
 It can be challenging to physically open a package when there are no affordances provided to grasp and pull or push.
 
-**Recommendation**
+##### Recommendation
 
-![Boxes with divots and flaps](images/Boxes-with-divots-and-flaps.jpg)
+![Boxes with divots and flaps](./images/Boxes-with-divots-and-flaps.jpg)
 
 Boxes with divots and flaps
 
@@ -594,24 +587,24 @@ Include features for opening the package which accommodate users' fingers and a 
 
 **Organization of Contents**
 
-![Kit contents](images/Kit-contents.jpg)
+![Kit contents](./images/Kit-contents.jpg)
 
 Kit contents
 
 Test kits containing multiple components must identify the components, secure small components, and provide information on the order in which the components are to be used. Organizing contents thoughtfully can greatly enhance the user's ability to complete the test.
 
-**Issue**
+##### Issue
 
-![Loose contents inside box packaging](images/Loose-contents-inside-box-packaging.jpg)
+![Loose contents inside box packaging](./images/Loose-contents-inside-box-packaging.jpg)
 
 Loose contents inside box packaging
 
 -   Internal instructions and key information are not presented to the user in a manner that is easy to find and users do not know what to reference first.
 -   Packages can have a number of components and interior packages loosely placed inside. When opened, the contents can fall out rendering them hard to identify, manage, and track. It can be difficult to understand which interior package or component is meant to be handled and when.
 
-**Recommendation**
+##### Recommendation
 
-![Contents neatly organized within box](images/Contents-neatly-organized-within-box.jpg)
+![Contents neatly organized within box](./images/Contents-neatly-organized-within-box.jpg)
 
 Contents neatly organized within box
 
@@ -624,23 +617,23 @@ Contents neatly organized within box
 
 **Identification of Contents**
 
-![Identification of Contents](images/Identification-of-Contents.jpg)
+![Identification of Contents](./images/Identification-of-Contents.jpg)
 
 Identification of Contents
 
 Contents in a package need to be identifiable so that users know when to open or use each individual package. It is also important to keep track of what is provided in a package to determine if there are missing components.
 
-**Issue**
+##### Issue
 
-![Parts are packaged in foil pouches with the same form factor](images/Parts-are-packaged-in-foil-pouches-with-the-same-factor.jpg)
+![Parts are packaged in foil pouches with the same form factor](./images/Parts-are-packaged-in-foil-pouches-with-the-same-factor.jpg)
 
 Parts are packaged in foil pouches with the same form factor
 
 Component packages that are similar in size and shape to one another are difficult to distinguish.
 
-**Recommendation**
+##### Recommendation
 
-![Parts are packaged with distinct materials and form factors](images/Parts-are-packaged-with-distinct-materials-and-form-factors.jpg)
+![Parts are packaged with distinct materials and form factors](./images/Parts-are-packaged-with-distinct-materials-and-form-factors.jpg)
 
 Parts are packaged with distinct materials and form factors
 
@@ -652,39 +645,39 @@ If components have interior packages, ensure that each component is tactilely di
 
 **Opening Internal Packages**
 
-![Internal packages](images/Internal-packages.jpg)
+![Internal packages](./images/Internal-packages.jpg)
 
 Internal packages
 
 Accessing components frequently requires opening a sealed package. The user should be able to easily identify where to open the package. They should be provided with sufficient area to grasp the package. The force required should not exceed five pounds.
 
-**Issue**
+##### Issue
 
-![Pouch without clear indication for tear location](images/Pouch-without-clear-indication-for-tear-location.jpg)
+![Pouch without clear indication for tear location](./images/Pouch-without-clear-indication-for-tear-location.jpg)
 
 Pouch without clear indication for tear location
 
 It can be difficult to understand how to open a pouch. Locating the correct place to tear is often challenging.
 
-**Recommendation**
+##### Recommendation
 
-![Pouch with evident tear location](images/Pouch-with-evident-tear-location.jpg)
+![Pouch with evident tear location](./images/Pouch-with-evident-tear-location.jpg)
 
 Pouch with evident tear location
 
 Provide multi-modal methods to inform the user how to open package. For example, include both a line with high contrast of where a tear should happen along with a notch that is findable by touch.
 
-**Issue**
+##### Issue
 
-![Swab packaging with swab tip near small peel tab](images/Swab-packaging-with-swab-tip-near-small-peel-tab.jpg)
+![Swab packaging with swab tip near small peel tab](./images/Swab-packaging-with-swab-tip-near-small-peel-tab.jpg)
 
 Swab packaging with swab tip near small peel tab
 
 Interior packaging may present a method for opening which exposes an area to contamination through touch.
 
-**Recommendation**
+##### Recommendation
 
-![Swab packaging with swab handle near big peel tab](images/Swab-packaging-with-swab-handle-near-big-peel-tab.jpg)
+![Swab packaging with swab handle near big peel tab](./images/Swab-packaging-with-swab-handle-near-big-peel-tab.jpg)
 
 Swab packaging with swab handle near big peel tab
 
@@ -718,17 +711,17 @@ Ensure the opening exposes the component portion that would be preferred to touc
 
 **Modality**
 
-![Digital modalities](images/Digital-modalities.jpg)
+![Digital modalities](./images/Digital-modalities.jpg)
 
 Digital modalities
 
 Digital instructions are a great way to convey information and are especially useful for no-vision, low-vision, and older users. However, merely providing digital instructions does not mean that they are actually accessible to each of those user groups.
 
-**Issue**
+##### Issue
 
 Instructions are solely provided in print or accompanied by an image-only PDF making them inaccessible to users with no-vision, low-vision, dexterity challenges, or older users.
 
-**Recommendation**
+##### Recommendation
 
 Offer instructions in alternate modalities conveying identical information such as:
 
@@ -744,17 +737,17 @@ Offer instructions in alternate modalities conveying identical information such 
 
 **Assistive Technology Compatibility**
 
-![Assistive technologies](images/Assistive-technologies.jpg)
+![Assistive technologies](./images/Assistive-technologies.jpg)
 
 Assistive technologies
 
 Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard, and one that has been rigorously tested with assistive technology such as screen readers and voice dictation software. The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital instructions. Many people are familiar with the process of downloading an application.
 
-**Issue**
+##### Issue
 
 Instructions are provided in a format that is not compatible with use on a smartphone or computer and/ or that cannot be utilized by an accessible tool such as operating system (OS) accessibility features.
 
-**Recommendation**
+##### Recommendation
 
 -   Digital instructions should be on a web page (not just as a downloadable PDF) that applies responsive web design.
 -   Audit the web pages with assistive technology used by experienced digital accessibility professionals.
@@ -765,17 +758,17 @@ Instructions are provided in a format that is not compatible with use on a smart
 -   Consider providing a Digital Accessible Information System (DAISY) format of the QRG with sections and subsections defined in the file (See also Physical Components - Instructions/Accessing Information pgs. 8-28).
 -   Provide a link or button on the web page that leads the user to a full digital version of the instructions and allow users to request a large-print or braille copy be mailed to them at no charge.
 
-**Issue**
+##### Issue
 
-![Formatting incompatible with screen reader](images/Formatting-incompatible-with-screen-reader.jpg)
+![Formatting incompatible with screen reader](./images/Formatting-incompatible-with-screen-reader.jpg)
 
 Formatting incompatible with screen reader
 
 Not all digital instructions are compatible with screen readers. Key elements are often coded incorrectly or in a format that screen readers cannot detect, meaning content may be out of order, incomplete, or incomprehensible. Instructions may be provided in a format that is not compatible with use on a smartphone or tablet or that cannot be perceived by an accessible tool such as OS accessibility features.
 
-**Recommendation**
+##### Recommendation
 
-![Formatting compatible with screen readers](images/Formatting-compatible-with-screen-readers.jpg)
+![Formatting compatible with screen readers](./images/Formatting-compatible-with-screen-readers.jpg)
 
 Formatting compatible with screen readers
 
@@ -787,18 +780,18 @@ Ensure digital instructions are compatible with all commonly used screen readers
 
 **User Interface (UI) Features**
 
-![User interface considerations](images/User-interface-considerations.jpg)
+![User interface considerations](./images/User-interface-considerations.jpg)
 
 User interface considerations
 
 The presence or absence of features in an application or web design can significantly impact usability and user satisfaction with the test. A small improvement in UI design can have a major impact on the entire user experience.
 
-**Issue**
+##### Issue
 
 -   Some applications are limited to only one mode of orientation, which makes it difficult for low-vision users and those with phones that are mounted in a particular orientation to access information.
 -   Some devices require specific placement using visual cues only (e.g., camera alignment using only screen markers for reference) and it can be challenging or impossible to locate or correctly orient the component in the camera frame for no- vision and low-vision users.
 
-**Recommendation**
+##### Recommendation
 
 -   Provide options to review content in both landscape and portrait orientations.
 -   If a device is required to be placed in a specific location in relation to a component (e.g., lining up one's phone over a feature)
@@ -806,17 +799,17 @@ The presence or absence of features in an application or web design can signific
 -   1\. Provide auditory/haptic device positioning and camera visibility feedback to user (e.g., "test identified" or "failed -- move closer"; or "failed -- increase brightness").
 -   2\. Consider implementing automated image correction.
 
-**Issue**
+##### Issue
 
-![Important information integrated into text](images/Important-information-integrated-into-text.jpg)
+![Important information integrated into text](./images/Important-information-integrated-into-text.jpg)
 
 Important information integrated into text
 
 Some important content can be missed with the use of a digital user interface if the content is not appropriately segmented.
 
-**Recommendation**
+##### Recommendation
 
-![Important information presented in pop-up](images/Important-information-presented-in-pop-up.jpg)
+![Important information presented in pop-up](./images/Important-information-presented-in-pop-up.jpg)
 
 Important information presented in pop-up
 
@@ -829,19 +822,19 @@ Important information presented in pop-up
 
 **Operating System Compatibility**
 
-![Device operating systems](images/Device-operating-systems.jpg)
+![Device operating systems](./images/Device-operating-systems.jpg)
 
 Device operating systems
 
 The ability for content to be recognized and understood by computer, smartphone, and tablet OS and accessibility tools is vital for no-vision and low-vision user access to information about the test.
 
-**Issue**
+##### Issue
 
 -   Instructions are provided in a format that is not compatible with computer, smartphone, or tablet OS and accessibility tools.
 -   Some features which provide feedback (e.g., auditory and haptic) can compromise user's privacy and others (e.g., bright mode) can be disruptive if users are working with them in the dark.
 -   Applications sometimes require users to enter data to sign in before providing access or allowing users to receive test results.
 
-**Recommendation**
+##### Recommendation
 
 -   Ensure application recognizes and supports built-in device OS accessibility settings.
 -   Recognize and apply the user's system-wide auditory/haptic feedback preferences and provide an in-application option to turn auditory/haptic feedback on or off.
@@ -859,17 +852,17 @@ The ability for content to be recognized and understood by computer, smartphone,
 
 **Audio Instructions via Website or Application**
 
-![Multiple platforms supporting audio content](images/Multiple-platforms-supporting-audio-content.jpg)
+![Multiple platforms supporting audio content](./images/Multiple-platforms-supporting-audio-content.jpg)
 
 Multiple platforms supporting audio content
 
 Audio may be the primary mode for some no- vision and low-vision users to receive instructions independently. Designing the audio content is critical to providing a comprehensive understanding of the product.
 
-**Issue**
+##### Issue
 
 Audio instructions, which may be the preferred modality for some populations, are not always available.
 
-**Recommendation**
+##### Recommendation
 
 Audio instructions should be available in easy-to- navigate formats and should utilize the text-only instructions as the script. Use of professional human voiceover is preferred to create the audio, but clear text-to-speech (TTS) engines may be used as an alternative. File formats include:
 
@@ -883,23 +876,23 @@ Audio instructions should be available in easy-to- navigate formats and should u
 
 **Interactive Voice Response (IVR) System**
 
-![Interactive Voice Response (IVR) System](images/Interactive-Voice-Response-(IVR-)System.jpg)
+![Interactive Voice Response (IVR) System](./images/Interactive-Voice-Response-(IVR-)System.jpg)
 
 Interactive Voice Response (IVR) System
 
 IVR systems can be used to connect users to instructions through a phone call. This is particularly useful for users with lower familiarity with using web or mobile applications. Connecting users to instructions via telephone allows them to use a well-known, expected, and sometimes expedited instruction format.
 
-**Issue**
+##### Issue
 
-![Instructions without IVR availability](images/Instructions-without-IVR-availability.jpg)
+![Instructions without IVR availability](./images/Instructions-without-IVR-availability.jpg)
 
 Instructions without IVR availability
 
 Instructions are not always available by phone which is challenging to some users.
 
-**Recommendation**
+##### Recommendation
 
-![Instructions with IVR availability](images/Instructions-with-IVR-availability.jpg)
+![Instructions with IVR availability](./images/Instructions-with-IVR-availability.jpg)
 
 Instructions with IVR availability
 
@@ -914,13 +907,13 @@ Provide audio instructions via IVR system capable of:
 
 **Video**
 
-![Video demonstration of test procedure](images/Video-demonstration-of-test-procedure.jpg)
+![Video demonstration of test procedure](./images/Video-demonstration-of-test-procedure.jpg)
 
 Video demonstration of test procedure
 
 Videos can be an effective way to inform users about the product and how to use it. They can provide a dynamic demonstration to learners who prefer to process information visually and audibly.
 
-**Issue**
+##### Issue
 
 -   Video is not always provided on websites or applications.
 -   Videos are not always accessible or as audibly descriptive as they are visually descriptive. Where provided, audio description may not cover all steps.
@@ -931,7 +924,7 @@ Videos can be an effective way to inform users about the product and how to use 
 -   Users may not always want to refer to video, especially for repeated uses of a test
 -   Automatically looping videos can be distracting.
 
-**Recommendation**
+##### Recommendation
 
 -   Make video tutorial instructions available via the product website.
 -   Confirm video player is accessible (see WCAG 2.1 AA guidance).
@@ -954,14 +947,14 @@ Videos can be an effective way to inform users about the product and how to use 
 
 The vocabulary used in instructions impacts a user's ability to understand what is required of them throughout the test process. Presenting information in plain, clear, concise language is key to the user's understanding of how to perform the test.
 
-**Issue**
+##### Issue
 
 -   Digital instructions can provide language which is not descriptive enough for a no-vision user (e.g., "Grasp the yellow swab package and tear open."). Tactile descriptions are not consistently provided in digital instructions.
 -   There are also component references that can create ambiguity for no-vision users working with screen readers, such as referring to components as "this" or "that."
 -   Instructions sometimes refer to components and features inconsistently, which makes finding information or following along difficult.
 -   Audible content is not always as fully descriptive as visual content. If provided, audio descriptions are sometimes not provided in detail for all steps.
 
-**Recommendation**
+##### Recommendation
 
 -   Provide concise, descriptive language of tactile differentiation for each component, especially for components which are highlighted visually in instructions (refer to pg. 28 for more information).
 -   Provide clear instructions to conduct the test by feel alone so that no-vision and low-vision users can identify, orient, and use the test components correctly. This should include:
@@ -981,7 +974,7 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 
 ### Test Procedure - Connecting/Bluetooth Pairing
 
-![Phone connecting via Bluetooth](images/Phone-connecting-via-Bluetooth.jpg)
+![Phone connecting via Bluetooth](./images/Phone-connecting-via-Bluetooth.jpg)
 
 Phone connecting via Bluetooth
 
@@ -989,18 +982,18 @@ Phone connecting via Bluetooth
 
 Some tests may require Bluetooth pairing (connecting a smartphone and another device) to read and communicate results. Pairing devices involves having two components in proximity to each other, initiating a pairing sequence, receiving feedback when pairing has been completed successfully (or not), and understanding what that feedback signifies.
 
-**Issue**
+##### Issue
 
-![Phone connecting via Bluetooth with visual cues](images/Phone-connecting-via-Bluetooth-with-visual-cues.jpg)
+![Phone connecting via Bluetooth with visual cues](./images/Phone-connecting-via-Bluetooth-with-visual-cues.jpg)
 
 Phone connecting via Bluetooth with visual cues
 
 -   Common pairing methods only provide visual feedback on pairing status (e.g., lights on the device).
 -   Some pairing requires components to be placed a specific distance away from a component and the user is not aware when the two are in range of each other.
 
-**Recommendation**
+##### Recommendation
 
-![Phone connecting via Bluetooth with audio cues](images/Phone-connecting-via-Bluetooth-with-audio-cues.jpg)
+![Phone connecting via Bluetooth with audio cues](./images/Phone-connecting-via-Bluetooth-with-audio-cues.jpg)
 
 Phone connecting via Bluetooth with audio cues
 
