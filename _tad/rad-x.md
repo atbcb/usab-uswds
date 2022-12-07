@@ -73,13 +73,11 @@ Tube Holder
 
 ### Physical Components
 
-**Chapter 1**
-
 1.1 Instructions/Accessing Information \
 1.2 Packaging \
 1.3 Kitting
 
-#### 1.1 Instructions/Accessing Information
+### 1.1 Instructions/Accessing Information
 
 -   Text Perception
 -   General Readability and Layout
@@ -368,7 +366,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 -   UProvide non-visual descriptive indicators when describing components or features.
 -   Avoid use of abbreviations or acronyms. If it is necessary, clearly define the abbreviation or acronym at first instance and use consistently thereafter.
 
-#### 1.2 Package Design
+### 1.2 Package Design
 
 -   Identification
 -   Accessing Contents
@@ -544,7 +542,7 @@ Boxes with divots and flaps
 
 Include features for opening the package which accommodate users' fingers and a variety of hand sizes to ensure opening methods require low force.
 
-#### 1.3 Kit Design
+### 1.3 Kit Design
 
 -   Organization of Contents
 -   Identification of Contents
@@ -640,14 +638,14 @@ Swab packaging with swab handle near big peel tab
 
 Ensure the opening exposes the component portion that would be preferred to touch (e.g., peel feature near swab handle rather than swab tip).
 
-### Digital Design
+## Chapter 2
 
-**Chapter 2**
+### Digital Design
 
 2.1 Instructions/Accessing Information \
 2.2 Test Procedure
 
-#### 2.1 Instructions/Accessing Information
+### 2.1 Instructions/Accessing Information
 
 -   Modality
 -   Assistive Technology Compatibility
@@ -884,7 +882,7 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 	1.  How components interact with each other
 	1.  Translating visual content with clear and non- physical audio descriptions
 
-#### 2.2 Test Procedure
+### 2.2 Test Procedure
 
 -   Connecting/Bluetooth Pairing
 
