@@ -74,7 +74,7 @@ Tube Holder
 
 ---
 
-** Chapter 1 **
+**Chapter 1**
 
 ## Physical Components
 
@@ -96,7 +96,7 @@ Physical instruction in the form of text is one important way to convey informat
 
 ![Folded instruction sheet illustration.](./images/Text-Perception.jpg)
 
-** Instructions for use **
+**Instructions for use**
 
 ###### Issues
 
@@ -152,7 +152,7 @@ Color contrast needs to allow for better differentiation between the text and ba
 
 ### Instructions/Accessing Information - General Readability and Layout
 
-**General Readability and Layout**
+#### General Readability and Layout
 
 ![Layout considerations for readability](./images/Layout-considerations-for-readability.jpg)
 
@@ -179,7 +179,7 @@ Text layout with inconsistent information flow
 -   Blocks of text are sometimes presented in different layouts, some left to right and others top to bottom, making following along cumbersome.
 -   Lack of breaks in large blocks of text make the information difficult to digest and wide columns can make low-vision users dizzy.
 
-##### Recommendation
+###### Recommendation
 
 ![Recommended text layout and in formation flow](./images/Recommended-text-layout-and-information-flow.jpg)
 
@@ -197,7 +197,7 @@ Numerous warnings embedded in copy
 
 Multiple warnings are presented inconsistently making it hard to locate them or allow the truly important warnings to attract the appropriate amount of attention.
 
-##### Recommendation
+###### Recommendation
 
 ![Targeted warnings, visually differentiated from plain copy](./images/Targeted-warnings-visually-differentiated-from-plain-copy.jpg)
 
@@ -209,7 +209,7 @@ Essential warnings (e.g., those where use error is associated with the greatest 
 
 ### Instructions/Accessing Information - Physical Embodiment
 
-**Physical Embodiment**
+#### Physical Embodiment
 
 ![Layout considerations for readability](./images/Layout-considerations-for-readability.jpg)
 
@@ -225,7 +225,7 @@ Information split along paper fold
 
 Large instruction panels with folds can result in text crossing over folds. Same-topic information may be split across front and back panels, resulting in reduced readability.
 
-##### Recommendation
+###### Recommendation
 
 ![Information contained within folded panels](./images/Information-contained-within-folded-panels.jpg)
 
@@ -244,7 +244,7 @@ Instructions that require full unfolding
 -   It can be difficult to physically place instructions adjacent to the components due to size or material making them difficult to reference while using the test.
 -   Tests with fluid can result in spills which can deteriorate less robust instructional materials.
 
-##### Recommendation
+###### Recommendation
 
 ![Instructions that can be unfolded by section](./images/Instructions-that-can-be-unfolded-by-section.jpg)
 
@@ -261,7 +261,7 @@ Instructions are too large for scanning
 
 Paper (or similar) documents may be provided in an incompatible format for assistive technologies. Pages or panels may be too large for flatbed scanners and smartphone OCR. Multiple panels without numbering make it difficult to navigate from page to page.
 
-##### Recommendation
+###### Recommendation
 
 ![Instructions are an appropriate size for scanning](./images/Instructions-are-an-appropriate-size-for-scanning.jpg)
 
@@ -274,7 +274,7 @@ Instructions are an appropriate size for scanning
 
 ### Instructions/Accessing Information - Graphics, Images and Symbols
 
-**Graphics, Images and Symbols**
+### Graphics, Images and Symbols
 
 ![Arrows show user interaction with product](./images/Arrows-show-user-interaction.jpg)
 
@@ -290,7 +290,7 @@ Photo backgrounds distract from product
 
 Photos contain extra, unnecessary information making them difficult for low-vision users to perceive.
 
-##### Recommendation
+###### Recommendation
 
 ![Line drawings improve comprehension](./images/Line-drawings-improve-comprehension.jpg)
 
@@ -307,7 +307,7 @@ Line drawings improve comprehension
 
 It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.
 
-##### Recommendation
+###### Recommendation
 
 ![3D drawing with appropriate line thickness](./images/3D-drawing-with-appropriate-line-thickness.jpg)
 
@@ -324,7 +324,7 @@ Images without context
 -   Images without context do not inform readers about relative component size.
 -   They force the reader to guess where and how components are to be utilized.
 
-##### Recommendation
+###### Recommendation
 
 ![Images with context](./images/Images-with-context.jpg)
 
@@ -341,7 +341,7 @@ Non-standard symbols
 
 Symbols are hard to understand if they are arbitrarily chosen or region-specific. Their meaning may not be obvious to the reader.
 
-##### Recommendation
+###### Recommendation
 
 ![Standard symbols](./images/Standard-symbols.jpg)
 
@@ -357,7 +357,7 @@ Drawings without realistic detail
 
 Graphics that are not presented with details that match the actual components may cause confusion.
 
-##### Recommendation
+###### Recommendation
 
 ![Drawings with realistic detail](./images/Drawings-with-realistic-detail.jpg)
 
@@ -370,7 +370,7 @@ Drawings with realistic detail
 
 ### Instructions/Accessing Information - Language
 
-**Language**
+### Languag
 
 The vocabulary used in instructions is key to a user's ability to understand what is required. Presenting information in plain, clear, concise language is critical to ensuring a user's understanding of how to use the test kit.
 
@@ -380,7 +380,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 -   Instructions sometimes refer to components and features inconsistently, which can make finding and following information difficult.
 -   Certain practices create unnecessary ambiguity, such as referring to components or features generally as "this" or "that"; and using abbreviations/ acronyms
 
-##### Recommendation
+###### Recommendation
 
 -   Text label critical information such as the product website, customer service phone number, and customer service email so they are recognized as such by OCR applications (e.g., Customer Service Phone Number: 1-800-000-0000).
 -   Use the same name for a component or feature throughout the instructions and labels on components or packaging.
@@ -430,7 +430,7 @@ Box labeling with poor legibility
 
 Much of standard packaging is filled with lots of information in a small (less than 14 pt) font.
 
-##### Recommendation
+###### Recommendation
 
 ![Box labeling with improved legibility](./images/Box-labeling-with-improved-legibility.jpg)
 
@@ -447,7 +447,7 @@ Poor color combination; packaging with poor legibility
 
 Much of standard packaging is filled with lots of information with poor color contrast.
 
-##### Recommendation
+###### Recommendation
 
 ![Recommended color combination; legible packaging](./images/Recommended-color-combination-legible-packaging.jpg)
 
@@ -464,7 +464,7 @@ QR code is too small to easily locate
 -   QR codes are often missing or insufficiently sized (one-half inch square or less).
 -   Expiration date format is not recognizable by common OCR applications (refer to pg. 11 for more detail).
 
-##### Recommendation
+###### Recommendation
 
 ![QR code is large and readily discoverable](./images/QR-code-is-large-and-readily-discoverable.jpg)
 
@@ -481,7 +481,7 @@ Example of a flat QR
 
 There are generally no tactile features on the surfaces of standard boxes, which would otherwise allow for a no-vision or low-vision user to identify package contents, either through a QR code or through braille.
 
-##### Recommendation
+###### Recommendation
 
 ![Alternatives to flat QR codes](./images/Alternatives-to-flat-QR-codes.jpg)
 
@@ -514,7 +514,7 @@ Difficult to remove tamper-proof seal
 -   Tamper-proof seals are often small, round adhesive stickers that can be challenging to find and to remove, especially for low-dexterity users.
 -   Tearing open a package without removing the sticker frequently results in the package being damaged and contents being disorganized and potentially misplaced.
 
-##### Recommendation
+###### Recommendation
 
 ![Easy to remove tamper-proof seal](./images/Easy-to-remove-tamper-proof-seal.jpg)
 
@@ -532,7 +532,7 @@ Difficult to remove tamper-proof seal
 -   When faced with this tamper-proof seal, many users resort to external tools such as scissors and knives to open the package, which may result in damaging contents.
 -   Many tamper-proof seals are clear, making them challenging to find for low-vision users.
 
-##### Recommendation
+###### Recommendation
 
 ![Easy to remove tamper-proof seal](./images/Easy-to-remove-tamper-proof-seal-2.jpg)
 
@@ -549,7 +549,7 @@ Package without intuitive opening
 
 It can be challenging to understand how to open a package (e.g., How does the lid open? Is there a place where the top and bottom separate?), especially for no-vision and low-vision users, when the only indication regarding top, bottom, front, and back is through visual, printed labeling.
 
-##### Recommendation
+###### Recommendation
 
 ![Packages with opening cues](./images/Packages-with-opening-cues.jpg)
 
@@ -565,7 +565,7 @@ Plain box with no divots
 
 It can be challenging to physically open a package when there are no affordances provided to grasp and pull or push.
 
-##### Recommendation
+###### Recommendation
 
 ![Boxes with divots and flaps](./images/Boxes-with-divots-and-flaps.jpg)
 
@@ -602,7 +602,7 @@ Loose contents inside box packaging
 -   Internal instructions and key information are not presented to the user in a manner that is easy to find and users do not know what to reference first.
 -   Packages can have a number of components and interior packages loosely placed inside. When opened, the contents can fall out rendering them hard to identify, manage, and track. It can be difficult to understand which interior package or component is meant to be handled and when.
 
-##### Recommendation
+###### Recommendation
 
 ![Contents neatly organized within box](./images/Contents-neatly-organized-within-box.jpg)
 
@@ -631,7 +631,7 @@ Parts are packaged in foil pouches with the same form factor
 
 Component packages that are similar in size and shape to one another are difficult to distinguish.
 
-##### Recommendation
+###### Recommendation
 
 ![Parts are packaged with distinct materials and form factors](./images/Parts-are-packaged-with-distinct-materials-and-form-factors.jpg)
 
@@ -659,7 +659,7 @@ Pouch without clear indication for tear location
 
 It can be difficult to understand how to open a pouch. Locating the correct place to tear is often challenging.
 
-##### Recommendation
+###### Recommendation
 
 ![Pouch with evident tear location](./images/Pouch-with-evident-tear-location.jpg)
 
@@ -675,7 +675,7 @@ Swab packaging with swab tip near small peel tab
 
 Interior packaging may present a method for opening which exposes an area to contamination through touch.
 
-##### Recommendation
+###### Recommendation
 
 ![Swab packaging with swab handle near big peel tab](./images/Swab-packaging-with-swab-handle-near-big-peel-tab.jpg)
 
@@ -685,7 +685,7 @@ Ensure the opening exposes the component portion that would be preferred to touc
 
 ---
 
-**Chapter 2**
+## Chapter 2
 
 ### Digital Design
 
