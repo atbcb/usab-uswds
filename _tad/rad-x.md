@@ -786,7 +786,7 @@ The ability for content to be recognized and understood by computer, smartphone,
 	1.	Save partial data (e.g., create a user profile) so user does not have to input data again for repeat testing.
 	1.	Ensure that all data entry fields are assigned screen readable labels.
 
-#### Audio Instructions via Website or Application**
+#### Audio Instructions via Website or Application
 
 ![Multiple platforms supporting audio content](./images/Multiple-platforms-supporting-audio-content.jpg)
 
