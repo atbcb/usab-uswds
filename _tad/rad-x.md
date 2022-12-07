@@ -96,7 +96,7 @@ Physical instruction in the form of text is one important way to convey informat
 
 ![Folded instruction sheet illustration.](./images/Text-Perception.jpg)
 
-Instructions for use**
+Instructions for use
 
 ##### Issues
 
