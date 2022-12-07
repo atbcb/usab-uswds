@@ -76,7 +76,7 @@ Tube Holder
 
 **Chapter 1**
 
-## Physical Components
+### Physical Components
 
 1.1 Instructions/Accessing Information \
 1.2 Packaging \
@@ -98,7 +98,7 @@ Physical instruction in the form of text is one important way to convey informat
 
 **Instructions for use**
 
-###### Issues
+##### Issues
 
 -   Some instructions include the use of hard to read fonts, italics, underlining, or other text features that increase the level of reading difficulty.
 -   Instructions are also challenging to read when multiple fonts and typefaces are used.
@@ -110,7 +110,7 @@ Physical instruction in the form of text is one important way to convey informat
 -   Do not use all capital letters
 -   Avoid/minimize underlining
 
-##### Issue
+###### Issue
 
 ![Key information hard to distinguish](./images/instructions-issue.jpg)
 
@@ -120,7 +120,7 @@ Key information hard to distinguish
 -   Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.
 -   Expiration date is presented as a number string (e.g., YYYY-MM-DD or MM/DD/YYYY) only, which OCR applications do not recognize as dates.
 
-##### Recommendation
+###### Recommendation
 
 ![Key information stands apart](./images/instructions-recommendation.jpg)
 
@@ -130,7 +130,7 @@ Key information stands apart
 -   Provide QR codes measuring larger than one-half inch square.
 -   Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12). Ideally, state: 'Use before date' or 'Do no use after date'.
 
-##### Issue
+###### Issue
 
 ![Poor color combination; Instructions with poor legibility](./images/text-perception-issue.jpg)
 
@@ -140,7 +140,7 @@ Information can be provided with inappropriate color contrast. It can be challen
 
 Key information stands apart
 
-##### Recommendation
+###### Recommendation
 
 ![Recommended color combination; legible instructions](./images/text-perception-recommendation.jpg)
 
@@ -148,11 +148,9 @@ Recommended color combination; legible instructions
 
 Color contrast needs to allow for better differentiation between the text and background. Provide a minimum contrast ratio of 4.5:1 for 14 pt or smaller and 3:1 for larger text. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi's Colour Contrast Analyser (CCA).
 
----
+#### Instructions/Accessing Information - General Readability and Layout
 
-### Instructions/Accessing Information - General Readability and Layout
-
-#### General Readability and Layout
+**General Readability and Layout**
 
 ![Layout considerations for readability](./images/Layout-considerations-for-readability.jpg)
 
@@ -204,8 +202,6 @@ Multiple warnings are presented inconsistently making it hard to locate them or 
 Targeted warnings, visually differentiated from plain copy
 
 Essential warnings (e.g., those where use error is associated with the greatest risk of an invalid test result) should be communicated in a consistent manner (e.g., bold, red font).
-
----
 
 ### Instructions/Accessing Information - Physical Embodiment
 
@@ -270,11 +266,9 @@ Instructions are an appropriate size for scanning
 -   Provide paper (or similar) documents in panels no larger than letter paper dimensions (8.5" x 11").
 -   Use page numbers for multiple panels on the front and back.
 
----
+#### Instructions/Accessing Information - Graphics, Images and Symbols
 
-### Instructions/Accessing Information - Graphics, Images and Symbols
-
-### Graphics, Images and Symbols
+**Graphics, Images and Symbols**
 
 ![Arrows show user interaction with product](./images/Arrows-show-user-interaction.jpg)
 
@@ -319,7 +313,7 @@ Where possible, use 3D renderings with perspective and solid colors.
 
 ![Images without context](./images/Images-without-context.jpg)
 
-Images without context
+**Images without context**
 
 -   Images without context do not inform readers about relative component size.
 -   They force the reader to guess where and how components are to be utilized.
@@ -328,7 +322,7 @@ Images without context
 
 ![Images with context](./images/Images-with-context.jpg)
 
-Images with context
+**Images with context**
 
 -   Make use of graphics that provide physical context for the reader (e.g., include hands, noses).
 -   Use only enough detail on features to clarify their purpose (e.g., a drawing of a head does not need to include hair).
@@ -366,11 +360,9 @@ Drawings with realistic detail
 -   Make sure graphics/images match the actual appearance of the components (e.g., if a cap is gray, do not illustrate in white; if the cartridge has text or other markings on it, include these in graphics).
 -   Use grayscale sparingly and retain outlining of gray features.
 
----
+#### Instructions/Accessing Information - Language
 
-### Instructions/Accessing Information - Language
-
-### Languag
+**Language**
 
 The vocabulary used in instructions is key to a user's ability to understand what is required. Presenting information in plain, clear, concise language is critical to ensuring a user's understanding of how to use the test kit.
 
@@ -387,16 +379,12 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 -   UProvide non-visual descriptive indicators when describing components or features.
 -   Avoid use of abbreviations or acronyms. If it is necessary, clearly define the abbreviation or acronym at first instance and use consistently thereafter.
 
----
-
 ### 1.2 Package Design
 
 -   Identification
 -   Accessing Contents
 
----
-
-### Package Design - Identification
+#### Package Design - Identification
 
 **Identification**
 
@@ -489,9 +477,7 @@ Alternatives to flat QR codes
 
 Provide a means to tactilely find encoded information (e.g., a raised sticker, or raised outline). A QR code should be the primary way for a user to obtain information; braille and embossed lettering are appropriate secondary methods.
 
----
-
-### Package Design - Accessing Contents
+#### Package Design - Accessing Contents
 
 **Accessing Contents**
 
@@ -573,17 +559,13 @@ Boxes with divots and flaps
 
 Include features for opening the package which accommodate users' fingers and a variety of hand sizes to ensure opening methods require low force.
 
----
-
 ### 1.3 Kit Design
 
 -   Organization of Contents
 -   Identification of Contents
 -   Opening Internal Packages
 
----
-
-### Kit Design - Organization of Contents
+#### Kit Design - Organization of Contents
 
 **Organization of Contents**
 
@@ -611,9 +593,7 @@ Contents neatly organized within box
 -   Provide legible (pg. 10) instructions (i.e., QRG) face up as the first thing users encounter. Include a tactile means to locate QR code, linking to digital instructions and test information, including test type, expiration date, and customer service phone number.
 -   Place contents in an organized and fixed manner (e.g., tray, card, dividers, etc.), in clear order of use. This helps users identify components, delineate order of use, and keep components secure.
 
----
-
-### Kit Design - Identification of Contents
+#### Kit Design - Identification of Contents
 
 **Identification of Contents**
 
@@ -639,9 +619,7 @@ Parts are packaged with distinct materials and form factors
 
 If components have interior packages, ensure that each component is tactilely discernible from others so users can use touch to identify contents. For example, a user could be instructed to feel for a component shape inside the interior package. Alternatively, the kit could provide distinct shapes of the interior packages that can be described to and felt by no-vision or low- vision users.
 
----
-
-### Kit Design - Opening Internal Packages
+#### Kit Design - Opening Internal Packages
 
 **Opening Internal Packages**
 
@@ -685,14 +663,12 @@ Ensure the opening exposes the component portion that would be preferred to touc
 
 ---
 
-## Chapter 2
+## Digital Design
 
-### Digital Design
+**Chapter 2**
 
--   2.1 Instructions/Accessing Information
--   2.2 Test Procedure
-
----
+2.1 Instructions/Accessing Information \
+2.2 Test Procedure
 
 ### 2.1 Instructions/Accessing Information
 
@@ -705,11 +681,7 @@ Ensure the opening exposes the component portion that would be preferred to touc
 -   Video
 -   Language in Digital Formats
 
----
-
-### Instructions/Accessing Information - Modality
-
-**Modality**
+#### Modality
 
 ![Digital modalities](./images/Digital-modalities.jpg)
 
@@ -939,8 +911,6 @@ Videos can be an effective way to inform users about the product and how to use 
 -   Include multilingual closed-captions.
 -   Consider implementing a user profile recognition function to make video viewing required for the first test but optional for subsequent tests.
 
----
-
 ### Instructions/Accessing Information - Language in Digital Formats
 
 **Language in Digital Formats**
@@ -964,15 +934,11 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 1	How components interact with each other
 1	Translating visual content with clear and non- physical audio descriptions
 
----
-
-### 2.2 Test Procedure
+#### 2.2 Test Procedure
 
 -   Connecting/Bluetooth Pairing
 
----
-
-### Test Procedure - Connecting/Bluetooth Pairing
+##### Connecting/Bluetooth Pairing
 
 ![Phone connecting via Bluetooth](./images/Phone-connecting-via-Bluetooth.jpg)
 
@@ -982,7 +948,7 @@ Phone connecting via Bluetooth
 
 Some tests may require Bluetooth pairing (connecting a smartphone and another device) to read and communicate results. Pairing devices involves having two components in proximity to each other, initiating a pairing sequence, receiving feedback when pairing has been completed successfully (or not), and understanding what that feedback signifies.
 
-##### Issue
+###### Issue
 
 ![Phone connecting via Bluetooth with visual cues](./images/Phone-connecting-via-Bluetooth-with-visual-cues.jpg)
 
@@ -991,7 +957,7 @@ Phone connecting via Bluetooth with visual cues
 -   Common pairing methods only provide visual feedback on pairing status (e.g., lights on the device).
 -   Some pairing requires components to be placed a specific distance away from a component and the user is not aware when the two are in range of each other.
 
-##### Recommendation
+###### Recommendation
 
 ![Phone connecting via Bluetooth with audio cues](./images/Phone-connecting-via-Bluetooth-with-audio-cues.jpg)
 
