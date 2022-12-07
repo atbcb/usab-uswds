@@ -14,8 +14,10 @@ permalink: /events/
 
 > **Public Meeting of the U.S. Access Board** \
 > January 11, 2023, 1:00 – 2:00 p.m. (ET) \
-> Meeting link: (Forthcoming) \
-> Contact: [events@access-board.gov](mailto:events@access-board.gov) 
+> Meeting link: [www.zoomgov.com/j/1617695856](https://www.zoomgov.com/j/1617695856) \
+> Meeting ID: 161 769 5856 \
+> Dial in: (646) 828-7666 \
+> Contact: [events@access-board.gov](mailto:events@access-board.gov)     
 
 ### Public Events Archives
 
