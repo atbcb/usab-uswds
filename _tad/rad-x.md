@@ -69,6 +69,8 @@ Test Reader
 Tube Holder
 : Device which holds a Fluid Vial in an upright position.
 
+## Chapter 1
+
 ### Physical Components
 
 **Chapter 1**
@@ -127,7 +129,7 @@ Key information stands apart
 
 ###### Issue
 
-![Poor color combination; Instructions with poor legibility](./images/text-perception-issue.jpg)
+![Poor color combination; Instructions with poor legibility](../images/text-perception-issue.jpg)
 
 Poor color combination; Instructions with poor legibility
 
