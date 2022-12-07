@@ -74,15 +74,15 @@ Tube Holder
 
 ---
 
-**Chapter 1**
+## Physical Components
 
-### Physical Components
+**Chapter 1**
 
 1.1 Instructions/Accessing Information \
 1.2 Packaging \
 1.3 Kitting
 
-#### 1.1 Instructions/Accessing Information
+### 1.1 Instructions/Accessing Information
 
 -   Text Perception
 -   General Readability and Layout
@@ -90,13 +90,13 @@ Tube Holder
 -   Graphics, Images and Symbols
 -   Language
 
-##### Text Perception
+#### Text Perception
 
 Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.
 
 ![Folded instruction sheet illustration.](./images/Text-Perception.jpg)
 
-**Instructions for use**
+Instructions for use**
 
 ##### Issues
 
@@ -110,7 +110,7 @@ Physical instruction in the form of text is one important way to convey informat
 -   Do not use all capital letters
 -   Avoid/minimize underlining
 
-###### Issue
+##### Issue
 
 ![Key information hard to distinguish](./images/instructions-issue.jpg)
 
@@ -148,9 +148,7 @@ Recommended color combination; legible instructions
 
 Color contrast needs to allow for better differentiation between the text and background. Provide a minimum contrast ratio of 4.5:1 for 14 pt or smaller and 3:1 for larger text. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi's Colour Contrast Analyser (CCA).
 
-#### Instructions/Accessing Information - General Readability and Layout
-
-**General Readability and Layout**
+#### General Readability and Layout
 
 ![Layout considerations for readability](./images/Layout-considerations-for-readability.jpg)
 
@@ -202,8 +200,6 @@ Multiple warnings are presented inconsistently making it hard to locate them or 
 Targeted warnings, visually differentiated from plain copy
 
 Essential warnings (e.g., those where use error is associated with the greatest risk of an invalid test result) should be communicated in a consistent manner (e.g., bold, red font).
-
-### Instructions/Accessing Information - Physical Embodiment
 
 #### Physical Embodiment
 
@@ -266,9 +262,7 @@ Instructions are an appropriate size for scanning
 -   Provide paper (or similar) documents in panels no larger than letter paper dimensions (8.5" x 11").
 -   Use page numbers for multiple panels on the front and back.
 
-#### Instructions/Accessing Information - Graphics, Images and Symbols
-
-**Graphics, Images and Symbols**
+#### Graphics, Images and Symbols
 
 ![Arrows show user interaction with product](./images/Arrows-show-user-interaction.jpg)
 
@@ -322,7 +316,7 @@ Where possible, use 3D renderings with perspective and solid colors.
 
 ![Images with context](./images/Images-with-context.jpg)
 
-**Images with context**
+Images with context
 
 -   Make use of graphics that provide physical context for the reader (e.g., include hands, noses).
 -   Use only enough detail on features to clarify their purpose (e.g., a drawing of a head does not need to include hair).
@@ -360,9 +354,7 @@ Drawings with realistic detail
 -   Make sure graphics/images match the actual appearance of the components (e.g., if a cap is gray, do not illustrate in white; if the cartridge has text or other markings on it, include these in graphics).
 -   Use grayscale sparingly and retain outlining of gray features.
 
-#### Instructions/Accessing Information - Language
-
-**Language**
+#### Language
 
 The vocabulary used in instructions is key to a user's ability to understand what is required. Presenting information in plain, clear, concise language is critical to ensuring a user's understanding of how to use the test kit.
 
@@ -384,9 +376,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 -   Identification
 -   Accessing Contents
 
-#### Package Design - Identification
-
-**Identification**
+#### Identification
 
 ![Box with examples of good identification features](./images/Box-with-examples-of-good-identification.jpg)
 
@@ -477,9 +467,7 @@ Alternatives to flat QR codes
 
 Provide a means to tactilely find encoded information (e.g., a raised sticker, or raised outline). A QR code should be the primary way for a user to obtain information; braille and embossed lettering are appropriate secondary methods.
 
-#### Package Design - Accessing Contents
-
-**Accessing Contents**
+#### Accessing Contents
 
 ![Package with tamper evident seal](./images/Package-with-tamper-evident-seal.jpg)
 
@@ -565,9 +553,7 @@ Include features for opening the package which accommodate users' fingers and a 
 -   Identification of Contents
 -   Opening Internal Packages
 
-#### Kit Design - Organization of Contents
-
-**Organization of Contents**
+#### Organization of Contents
 
 ![Kit contents](./images/Kit-contents.jpg)
 
@@ -593,9 +579,7 @@ Contents neatly organized within box
 -   Provide legible (pg. 10) instructions (i.e., QRG) face up as the first thing users encounter. Include a tactile means to locate QR code, linking to digital instructions and test information, including test type, expiration date, and customer service phone number.
 -   Place contents in an organized and fixed manner (e.g., tray, card, dividers, etc.), in clear order of use. This helps users identify components, delineate order of use, and keep components secure.
 
-#### Kit Design - Identification of Contents
-
-**Identification of Contents**
+#### Identification of Contents
 
 ![Identification of Contents](./images/Identification-of-Contents.jpg)
 
@@ -619,9 +603,7 @@ Parts are packaged with distinct materials and form factors
 
 If components have interior packages, ensure that each component is tactilely discernible from others so users can use touch to identify contents. For example, a user could be instructed to feel for a component shape inside the interior package. Alternatively, the kit could provide distinct shapes of the interior packages that can be described to and felt by no-vision or low- vision users.
 
-#### Kit Design - Opening Internal Packages
-
-**Opening Internal Packages**
+#### Opening Internal Packages
 
 ![Internal packages](./images/Internal-packages.jpg)
 
@@ -703,11 +685,7 @@ Offer instructions in alternate modalities conveying identical information such 
 -   Toll-free IVR telephone system
 -   Video with audio description, captions, and transcript
 
----
-
-### Instructions/Accessing Information - Assistive Technology Compatibility
-
-**Assistive Technology Compatibility**
+### Assistive Technology Compatibility
 
 ![Assistive technologies](./images/Assistive-technologies.jpg)
 
@@ -746,11 +724,7 @@ Formatting compatible with screen readers
 
 Ensure digital instructions are compatible with all commonly used screen readers. Confirm both computer and mobile screen reader compatibility of each and every screen element (e.g., images, fields, buttons).
 
----
-
-### Instructions/Accessing Information - User Interface Features
-
-**User Interface (UI) Features**
+### User Interface (UI) Features
 
 ![User interface considerations](./images/User-interface-considerations.jpg)
 
@@ -767,9 +741,8 @@ The presence or absence of features in an application or web design can signific
 
 -   Provide options to review content in both landscape and portrait orientations.
 -   If a device is required to be placed in a specific location in relation to a component (e.g., lining up one's phone over a feature)
-
--   1\. Provide auditory/haptic device positioning and camera visibility feedback to user (e.g., "test identified" or "failed -- move closer"; or "failed -- increase brightness").
--   2\. Consider implementing automated image correction.
+	1.   Provide auditory/haptic device positioning and camera visibility feedback to user (e.g., "test identified" or "failed -- move closer"; or "failed -- increase brightness").
+	1.  Consider implementing automated image correction.
 
 ##### Issue
 
@@ -788,11 +761,7 @@ Important information presented in pop-up
 -   Provide pop-up messages for important content that remains on screen until user provides input to acknowledge the message.
 -   Errors, warnings, and success messages should not automatically disappear until the user acknowledges the message.
 
----
-
-### Instructions/Accessing Information - Operating System Compatibility
-
-**Operating System Compatibility**
+#### Operating System Compatibility
 
 ![Device operating systems](./images/Device-operating-systems.jpg)
 
@@ -806,23 +775,18 @@ The ability for content to be recognized and understood by computer, smartphone,
 -   Some features which provide feedback (e.g., auditory and haptic) can compromise user's privacy and others (e.g., bright mode) can be disruptive if users are working with them in the dark.
 -   Applications sometimes require users to enter data to sign in before providing access or allowing users to receive test results.
 
-##### Recommendation
+###### Recommendation
 
 -   Ensure application recognizes and supports built-in device OS accessibility settings.
 -   Recognize and apply the user's system-wide auditory/haptic feedback preferences and provide an in-application option to turn auditory/haptic feedback on or off.
 -   Enable dark mode support.
 -   If the application requires data entry for sign-in / results reporting:
+	1.	Enable auto fill; enable single sign-on (SSO) through Google, Facebook, etc.
+	1.	Clarify which data entry fields are required vs. optional.
+	1.	Save partial data (e.g., create a user profile) so user does not have to input data again for repeat testing.
+	1.	Ensure that all data entry fields are assigned screen readable labels.
 
--   Enable auto fill; enable single sign-on (SSO) through Google, Facebook, etc.
--   Clarify which data entry fields are required vs. optional.
--   Save partial data (e.g., create a user profile) so user does not have to input data again for repeat testing.
--   Ensure that all data entry fields are assigned screen readable labels.
-
----
-
-### Instructions/Accessing Information - Audio Instructions
-
-**Audio Instructions via Website or Application**
+#### Audio Instructions via Website or Application**
 
 ![Multiple platforms supporting audio content](./images/Multiple-platforms-supporting-audio-content.jpg)
 
@@ -834,7 +798,7 @@ Audio may be the primary mode for some no- vision and low-vision users to receiv
 
 Audio instructions, which may be the preferred modality for some populations, are not always available.
 
-##### Recommendation
+###### Recommendation
 
 Audio instructions should be available in easy-to- navigate formats and should utilize the text-only instructions as the script. Use of professional human voiceover is preferred to create the audio, but clear text-to-speech (TTS) engines may be used as an alternative. File formats include:
 
@@ -842,11 +806,7 @@ Audio instructions should be available in easy-to- navigate formats and should u
 -   DAISY audio book file with sections of the QRG included as chapters.
 -   Downloadable MP3 files for each section as well as a master file of all sections together.
 
----
-
-### Instructions/Accessing Information - IVR System
-
-**Interactive Voice Response (IVR) System**
+#### Interactive Voice Response (IVR) System
 
 ![Interactive Voice Response (IVR) System](./images/Interactive-Voice-Response-(IVR-)System.jpg)
 
@@ -862,7 +822,7 @@ Instructions without IVR availability
 
 Instructions are not always available by phone which is challenging to some users.
 
-##### Recommendation
+###### Recommendation
 
 ![Instructions with IVR availability](./images/Instructions-with-IVR-availability.jpg)
 
@@ -873,11 +833,7 @@ Provide audio instructions via IVR system capable of:
 -   Navigating instructions in the same manner as the downloadable file types.
 -   Responding to inputs via button presses associated with actions (e.g., progress to next step, repeat current step, return to previous step, return to main menu, connect the user to a live agent as needed).
 
----
-
-### Instructions/Accessing Information - Video
-
-**Video**
+####  Video
 
 ![Video demonstration of test procedure](./images/Video-demonstration-of-test-procedure.jpg)
 
@@ -896,7 +852,7 @@ Videos can be an effective way to inform users about the product and how to use 
 -   Users may not always want to refer to video, especially for repeated uses of a test
 -   Automatically looping videos can be distracting.
 
-##### Recommendation
+###### Recommendation
 
 -   Make video tutorial instructions available via the product website.
 -   Confirm video player is accessible (see WCAG 2.1 AA guidance).
@@ -911,9 +867,7 @@ Videos can be an effective way to inform users about the product and how to use 
 -   Include multilingual closed-captions.
 -   Consider implementing a user profile recognition function to make video viewing required for the first test but optional for subsequent tests.
 
-### Instructions/Accessing Information - Language in Digital Formats
-
-**Language in Digital Formats**
+#### Language in Digital Formats
 
 The vocabulary used in instructions impacts a user's ability to understand what is required of them throughout the test process. Presenting information in plain, clear, concise language is key to the user's understanding of how to perform the test.
 
@@ -924,17 +878,16 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 -   Instructions sometimes refer to components and features inconsistently, which makes finding information or following along difficult.
 -   Audible content is not always as fully descriptive as visual content. If provided, audio descriptions are sometimes not provided in detail for all steps.
 
-##### Recommendation
+###### Recommendation
 
 -   Provide concise, descriptive language of tactile differentiation for each component, especially for components which are highlighted visually in instructions (refer to pg. 28 for more information).
 -   Provide clear instructions to conduct the test by feel alone so that no-vision and low-vision users can identify, orient, and use the test components correctly. This should include:
+	1.	How to discern inner packages from one another (e.g., the two parts of a dropper in separate pouches)
+	1.	A clear non-visual physical description of each kit component including shape, size, and feel (versus color) (e.g., "Open the package that is a rectangle with a pull tab at the end.")
+	1.	How components interact with each other
+	1.	Translating visual content with clear and non- physical audio descriptions
 
-1	How to discern inner packages from one another (e.g., the two parts of a dropper in separate pouches)
-1	A clear non-visual physical description of each kit component including shape, size, and feel (versus color) (e.g., "Open the package that is a rectangle with a pull tab at the end.")
-1	How components interact with each other
-1	Translating visual content with clear and non- physical audio descriptions
-
-#### 2.2 Test Procedure
+### 2.2 Test Procedure
 
 -   Connecting/Bluetooth Pairing
 
@@ -943,8 +896,6 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 ![Phone connecting via Bluetooth](./images/Phone-connecting-via-Bluetooth.jpg)
 
 Phone connecting via Bluetooth
-
-**Connecting/Bluetooth Pairing**
 
 Some tests may require Bluetooth pairing (connecting a smartphone and another device) to read and communicate results. Pairing devices involves having two components in proximity to each other, initiating a pairing sequence, receiving feedback when pairing has been completed successfully (or not), and understanding what that feedback signifies.
 
@@ -982,7 +933,7 @@ Design Considerations for Devices Intended for Home Use. (2014). US Food and Dru
 
 Do It By Design - An Introduction to Human Factors in Medical Devices. (1996). US Food and Drug Administration.
 
-Federal Plain Language Guidelines. (2011). In www.plainlanguage.gov . PlainLanguage.gov.
+Federal Plain Language Guidelines. (2011). In [PlainLanguage.gov](https://plainlanguage.gov).
 
 Human Factors Implications of the New GMP Rule Overall Requirements of the New Quality System Regulation. (1997). US Food and Drug Administration.
 
