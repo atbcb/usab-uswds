@@ -117,7 +117,7 @@ Key information hard to distinguish
 
 ###### Recommendation
 
-![Key information stands apart](./images/instructions-recommendation.jpg)
+![Key information stands apart](radx/instructions-recommendation.jpg)
 
 Key information stands apart
 
