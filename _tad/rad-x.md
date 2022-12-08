@@ -85,7 +85,7 @@ Tube Holder
 -   Graphics, Images and Symbols
 -   Language
 
-#### Text Perception
+##### Text Perception
 
 Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.
 
@@ -93,7 +93,7 @@ Physical instruction in the form of text is one important way to convey informat
 
 Instructions for use
 
-##### Issues
+###### Issues
 
 -   Some instructions include the use of hard to read fonts, italics, underlining, or other text features that increase the level of reading difficulty.
 -   Instructions are also challenging to read when multiple fonts and typefaces are used.
@@ -105,27 +105,33 @@ Instructions for use
 -   Do not use all capital letters
 -   Avoid/minimize underlining
 
-##### Issue
-
+<figure class="img-left">
+	<img src="{{ site.baseurl }}/images/instructions-issue.jpg "
+			 alt="Door with adjacent sign and square on ground next to door frame centered to the sign." />
+	<figcaption>
+		Key information hard to distinguish
+	</figcaption>
+<figcaption>
 -   Content is displayed such that it is challenging to distinguish key and supporting information.
 -   Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.
 -   Expiration date is presented as a number string (e.g., YYYY-MM-DD or MM/DD/YYYY) only, which OCR applications do not recognize as dates.
-
-![Key information hard to distinguish](../images/instructions-issue.jpg)
-
-Key information hard to distinguish
-
-###### Recommendation
-
+	</figcaption>
+</figure>
+<figure class="img-right">
+	<img src="{{ site.baseurl }}/images/instructions-recommendation.jpg "
+			 alt="Woman standing in square on ground tactilely reading sign beyond swing of door open 45 degrees." />
+	<figcaption>
+		Key information stands apart
+	</figcaption>
+	<figcaption>
 -   Present key information in large and/or boldface type. (Use minimum of 14 pt).
 -   Provide QR codes measuring larger than one-half inch square.
 -   Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before <date>' or 'Do no use after <date>'.
+	</figcaption>
+</figure>
+<br class="clear" />
 
-![Key information stands apart](../images/instructions-recommendation.jpg)
-
-Key information stands apart
-
-##### Issue
+###### Issue
 
 Information can be provided with inappropriate color contrast.  It can be challenging to perceive key information.
 
@@ -149,7 +155,7 @@ Layout considerations for readability
 
 Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.
 
-##### Issue
+###### Issue
 
 -   Too much information can be presented in a format that is difficult to follow. It can be difficult to understand what is meant to be read and in what order.
 -   Steps requiring multiple actions or tasks are challenging for all to follow. Multiple steps that take up different amounts of page 'real estate' are difficult to scan for low-vision users.
