@@ -107,55 +107,45 @@ Instructions for use
 
 ###### Issue
 
-![Key information hard to distinguish](../images/instructions-issue.jpg)
-
-Key information hard to distinguish
-
 -   Content is displayed such that it is challenging to distinguish key and supporting information.
 -   Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.
 -   Expiration date is presented as a number string (e.g., YYYY-MM-DD or MM/DD/YYYY) only, which OCR applications do not recognize as dates.
 
+![Key information hard to distinguish](../images/instructions-issue.jpg)
+
+Key information hard to distinguish
+
 ###### Recommendation
+
+-   Present key information in large and/or boldface type. (Use minimum of 14 pt).
+-   Provide QR codes measuring larger than one-half inch square.
+-   Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before <date>' or 'Do no use after <date>'.
 
 ![Key information stands apart](../images/instructions-recommendation.jpg)
 
 Key information stands apart
 
--   Present key information in large and/or boldface type.(Use minimum of 14 pt).
--   Provide QR codes measuring larger than one-half inch square.
--   Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12). Ideally, state: 'Use before date' or 'Do no use after date'.
-
 ###### Issue
+
+Information can be provided with inappropriate color contrast.  It can be challenging to perceive key information.
 
 ![Poor color combination; Instructions with poor legibility](../images/text-perception-issue.jpg)
 
 Poor color combination; Instructions with poor legibility
 
-Information can be provided with inappropriate color contrast. It can be challenging to perceive key information.
-
-Key information stands apart
-
 ###### Recommendation
+
+Color contrast needs to allow for better differentiation between the text and background.  Provide a minimum contrast ratio of 4.5:1 for 14 pt or smaller and 3:1 for larger text. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi's Colour Contrast Analyser (CCA).
 
 ![Recommended color combination; legible instructions](../images/text-perception-recommendation.jpg)
 
 Recommended color combination; legible instructions
-
-Color contrast needs to allow for better differentiation between the text and background. Provide a minimum contrast ratio of 4.5:1 for 14 pt or smaller and 3:1 for larger text. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi's Colour Contrast Analyser (CCA).
 
 ##### General Readability and Layout
 
 ![Layout considerations for readability](../images/Layout-considerations-for-readability.jpg)
 
 Layout considerations for readability
-
-<figure>
-  <img src="./images/Layout-considerations-for-readability.jpg" alt="abstract skeleton frame" class="center">
-  <figcaption>
-    Layout considerations for readability
-  </figcaption>
-</figure>
-
 
 Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.
 
