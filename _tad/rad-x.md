@@ -126,7 +126,7 @@ Instructions for use
 	<figcaption>
 -   Present key information in large and/or boldface type. (Use minimum of 14 pt).
 -   Provide QR codes measuring larger than one-half inch square.
--   Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before <date>' or 'Do no use after <date>'.
+-   Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before <date>' or 'Do no use after <date>'. 
 	</figcaption>
 </figure>
 <br class="clear" />
