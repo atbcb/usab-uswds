@@ -5,11 +5,8 @@ toc-group: ada-ibc
 permalink: /ada/ada-ibc-comparison/
 order-number: 0
 version: original
-file: IBCComparison.pdf
-file-description: Single file PDF version of the ADA - IBC comparison
-file-directory: /files/ada-aba/
 ---
-This document provides a comparison between the updated ADA Accessibility Guidelines, the original ADA Standards, and the International Building Code (2003 edition). The comparison is ordered according to the format and sequence of the new ADA Accessibility Guidelines, which the Board published in the Federal Register on July 23, 2004 (column 1). Corresponding provisions in the U.S. Department of Justice's Standards for Accessible Design* (column 2), which are based on the original ADA Accessibility Guidelines, and the International Building Code** (column 3) are reordered for side-by-side comparison. The full report is also available in PDF and can be downloaded as a zipped Word file.
+This document provides a comparison between the 2004 ADA Accessibility Guidelines, the original ADA Standards, and the International Building Code (2003 edition). The comparison is ordered according to the format and sequence of the ADA Accessibility Guidelines, which the Board published in the Federal Register on July 23, 2004 (column 1). Corresponding provisions in the U.S. Department of Justice's Standards for Accessible Design* (column 2), which are based on the original ADA Accessibility Guidelines, and the International Building Code** (column 3) are reordered for side-by-side comparison.
 
 The appendix to this analysis contains requirements that were added to the Americans with Disabilities Act Accessibility Guidelines (ADAAG) by the Access Board, subsequent to the DOJ adoption of the Standards for Accessible Design in 1994, through September 2002. The material in the appendix has not been incorporated in the Department of Justice accessibility standards and therefore is not enforceable. It is referenced here to indicate the source of the corresponding new ADAAG requirements.
 
