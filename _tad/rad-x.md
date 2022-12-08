@@ -156,6 +156,7 @@ Layout considerations for readability
   </figcaption>
 </figure>
 
+
 Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.
 
 ###### Issue
