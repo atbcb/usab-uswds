@@ -4,6 +4,7 @@ title: Best Practices for the Design of Accessible COVID-19 Home Tests
 permalink: /tad/radx/
 toc-group: tad
 order-number: 2
+image-directory: ./images/
 right-sidenav: sidenav-right-universal.html
 ta-text: Contact the Access Board for technical assistance
 ta-email-pre: ta
@@ -273,7 +274,7 @@ Arrows show user interaction with product
 
 Graphics, images, and symbols can be an effective way for users to quickly perceive and understand information.
 
-####### Issue
+###### Issue
 
 ![Photo backgrounds distract from product](./images/Photo-backgrounds-distract-from-product.jpg)
 
@@ -292,7 +293,7 @@ Line drawings improve comprehension
 
 ###### Issue
 
-![2D thin line and low-contrast drawings](./images/2D-thin-line-and-low-contrast-drawings.jpg)
+![2D thin line and low-contrast drawings](2D-thin-line-and-low-contrast-drawings.jpg)
 
 2D thin line and low-contrast drawings
 
