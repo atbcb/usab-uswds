@@ -19,6 +19,7 @@ excerpt: Federal agencies are required to provide accessible information and
 closed: false
 webinar-start: January 24, 2023 1:00 PM
 webinar-end: January 24, 2023 2:30 PM
+registration-link: https://www.accessibilityonline.org/cioc-508/session/?id=111035
 webinar: true
 ---
 ### Description
@@ -33,9 +34,9 @@ Federal agencies are required to provide accessible information and communicatio
 
 ### Speakers
 
-[Rebecca Lovley](XXX), IT Data and Policy, Section 508 PM, IT Testing COR, **Federal Communications Commission**
+[Rebecca Lovley](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10965&ret=Strengthening%20and%20maturing%20accessibility%20training%20and%20testing%20programs%20within%20the%20federal%20government), IT Data and Policy, Section 508 PM, IT Testing COR, **Federal Communications Commission**
 
-[Kristen Smith-O'Connor](X), Contractor, **Federal Communications Commission**
+[Kristen Smith-O'Connor](https://www.accessibilityonline.org/speakers/speaker.aspx?id=10966&ret=Strengthening%20and%20maturing%20accessibility%20training%20and%20testing%20programs%20within%20the%20federal%20government), Contractor, **Federal Communications Commission**
 
 ### Session Questions
 
