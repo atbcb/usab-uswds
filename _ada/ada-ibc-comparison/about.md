@@ -16,4 +16,4 @@ This comparison was prepared by Brian Black of BDBlack Codes, Perry, N.Y., under
 
 *28 CFR Part 36, App. A, July 1, 1994 Edition.
 
-**International Code Council (ICC) 2003 International Building Code and 2004 Supplement (referencing ICC/ANSI A117.1-2003) Copyright© 2004, International Code Council, Inc. All rights reserved. Reprinted with permission. Sections in this column are prefaced by ‘IBC' or ‘ANSI' to indicate the source as the International Building Code or ICC/ANSI A117.1 standard. For further information, visit the International Code Council's website at www.iccsafe.org.v
+**International Code Council (ICC) 2003 International Building Code and 2004 Supplement (referencing ICC/ANSI A117.1-2003) Copyright© 2004, International Code Council, Inc. All rights reserved. Reprinted with permission. Sections in this column are prefaced by ‘IBC' or ‘ANSI' to indicate the source as the International Building Code or ICC/ANSI A117.1 standard. For further information, visit the International Code Council's website at [www.iccsafe.org](https://www.iccsafe.org/).
