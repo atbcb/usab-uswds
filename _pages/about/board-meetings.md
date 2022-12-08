@@ -16,8 +16,19 @@ The next virtual meeting of the Board is scheduled for **Wednesday, January 11, 
 
 > **Public Meeting of the U.S. Access Board** \
 > January 11, 2023, 1:00 – 2:00 p.m. (ET) \
-> Meeting link: (Forthcoming) \
+> Meeting link: [www.zoomgov.com/j/1617695856](https://www.zoomgov.com/j/1617695856) \
+> Meeting ID:  161 769 5856\
+> Dial in:  (646) 828-7666\
 > Contact: [events@access-board.gov](mailto:events@access-board.gov) 
+
+>_Agenda_
+>- Introductory Remarks; Roll Call; Approval of November 9, 2022 draft meeting minutes (vote)
+>- Executive Director's Report
+>- Standing Committee Reports
+>- Ad Hoc and Special Committee Reports
+>- Federal Agency Updates
+>- New Business
+>- Adjourn
 
 ## Future Board Meetings
 
