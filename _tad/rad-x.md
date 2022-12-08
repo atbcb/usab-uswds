@@ -85,7 +85,7 @@ Tube Holder
 -   Graphics, Images and Symbols
 -   Language
 
-##### Text Perception
+#### Text Perception
 
 Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.
 
@@ -93,7 +93,7 @@ Physical instruction in the form of text is one important way to convey informat
 
 Instructions for use
 
-###### Issues
+##### Issues
 
 -   Some instructions include the use of hard to read fonts, italics, underlining, or other text features that increase the level of reading difficulty.
 -   Instructions are also challenging to read when multiple fonts and typefaces are used.
@@ -105,7 +105,7 @@ Instructions for use
 -   Do not use all capital letters
 -   Avoid/minimize underlining
 
-###### Issue
+##### Issue
 
 -   Content is displayed such that it is challenging to distinguish key and supporting information.
 -   Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.
@@ -125,7 +125,7 @@ Key information hard to distinguish
 
 Key information stands apart
 
-###### Issue
+##### Issue
 
 Information can be provided with inappropriate color contrast.  It can be challenging to perceive key information.
 
@@ -149,7 +149,7 @@ Layout considerations for readability
 
 Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.
 
-###### Issue
+##### Issue
 
 -   Too much information can be presented in a format that is difficult to follow. It can be difficult to understand what is meant to be read and in what order.
 -   Steps requiring multiple actions or tasks are challenging for all to follow. Multiple steps that take up different amounts of page 'real estate' are difficult to scan for low-vision users.
