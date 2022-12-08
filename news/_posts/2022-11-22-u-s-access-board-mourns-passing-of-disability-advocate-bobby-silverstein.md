@@ -10,7 +10,7 @@ excerpt: With deep sorrow, the U.S. Access Board announces the passing of Bobby
   Virginia. . . .
 image: /images/uploads/sliverstein.png
 image_alt_text: Bobby Silverstein holding a glass of juice and giving a cheers to the viewer.
-featured: true
+featured: false
 ---
 With deep sorrow, the U.S. Access Board announces the passing of Bobby Silverstein. Silverstein’s advocacy work on disability rights spanned over four decades, including his pivotal role in drafting and advancing the landmark Americans with Disabilities Act of 1990. He passed away peacefully and was surrounded by family on November 17, 2022 at Reston Hospital Center in Virginia. 
 
