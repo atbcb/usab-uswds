@@ -4,7 +4,7 @@ title: Best Practices for the Design of Accessible COVID-19 Home Tests
 permalink: /tad/radx/
 toc-group: tad
 order-number: 2
-image-directory: ./images/
+image-shim: '../'
 right-sidenav: sidenav-right-universal.html
 ta-text: Contact the Access Board for technical assistance
 ta-email-pre: ta
@@ -138,7 +138,7 @@ Key information stands apart
 
 ###### Recommendation
 
-![Recommended color combination; legible instructions](./images/text-perception-recommendation.jpg)
+![Recommended color combination; legible instructions]({{ page.image-shim }}images/text-perception-recommendation.jpg)
 
 Recommended color combination; legible instructions
 
