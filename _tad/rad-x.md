@@ -4,7 +4,6 @@ title: Best Practices for the Design of Accessible COVID-19 Home Tests
 permalink: /tad/radx/
 toc-group: tad
 order-number: 2
-image-shim: '../'
 right-sidenav: sidenav-right-universal.html
 ta-text: Contact the Access Board for technical assistance
 ta-email-pre: ta
@@ -90,7 +89,7 @@ Tube Holder
 
 Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.
 
-![Folded instruction sheet illustration.](images/Text-Perception.jpg)
+![Folded instruction sheet illustration.](../images/Text-Perception.jpg)
 
 Instructions for use
 
@@ -108,7 +107,7 @@ Instructions for use
 
 ###### Issue
 
-![Key information hard to distinguish](images/instructions-issue.jpg)
+![Key information hard to distinguish](../images/instructions-issue.jpg)
 
 Key information hard to distinguish
 
@@ -118,7 +117,7 @@ Key information hard to distinguish
 
 ###### Recommendation
 
-![Key information stands apart](radx/instructions-recommendation.jpg)
+![Key information stands apart](../images/instructions-recommendation.jpg)
 
 Key information stands apart
 
@@ -138,7 +137,7 @@ Key information stands apart
 
 ###### Recommendation
 
-![Recommended color combination; legible instructions]({{ page.image-shim }}images/text-perception-recommendation.jpg)
+![Recommended color combination; legible instructions](../images/text-perception-recommendation.jpg)
 
 Recommended color combination; legible instructions
 
@@ -146,7 +145,7 @@ Color contrast needs to allow for better differentiation between the text and ba
 
 ##### General Readability and Layout
 
-![Layout considerations for readability](./images/Layout-considerations-for-readability.jpg)
+![Layout considerations for readability](../images/Layout-considerations-for-readability.jpg)
 
 Layout considerations for readability
 
@@ -172,7 +171,7 @@ Users' ability to find and follow instructions can be greatly affected by how in
 
 ###### Issue
 
-![Text layout with inconsistent information flow](./images/Text-layout-with-inconsistent-information-flow.jpg)
+![Text layout with inconsistent information flow](../images/Text-layout-with-inconsistent-information-flow.jpg)
 
 Text layout with inconsistent information flow
 
@@ -181,7 +180,7 @@ Text layout with inconsistent information flow
 
 ###### Recommendation
 
-![Recommended text layout and in formation flow](./images/Recommended-text-layout-and-information-flow.jpg)
+![Recommended text layout and in formation flow](../images/Recommended-text-layout-and-information-flow.jpg)
 
 Recommended text layout and in formation flow
 
@@ -191,7 +190,7 @@ Recommended text layout and in formation flow
 
 ###### Issue
 
-![Numerous warnings embedded in copy](./images/Numerous-warnings-embedded-in-copy.jpg)
+![Numerous warnings embedded in copy](../images/Numerous-warnings-embedded-in-copy.jpg)
 
 Numerous warnings embedded in copy
 
@@ -199,7 +198,7 @@ Multiple warnings are presented inconsistently making it hard to locate them or 
 
 ###### Recommendation
 
-![Targeted warnings, visually differentiated from plain copy](./images/Targeted-warnings-visually-differentiated-from-plain-copy.jpg)
+![Targeted warnings, visually differentiated from plain copy](../images/Targeted-warnings-visually-differentiated-from-plain-copy.jpg)
 
 Targeted warnings, visually differentiated from plain copy
 
@@ -207,7 +206,7 @@ Essential warnings (e.g., those where use error is associated with the greatest 
 
 ##### Physical Embodiment
 
-![Layout considerations for readability](./images/Layout-considerations-for-readability.jpg)
+![Layout considerations for readability](../images/Layout-considerations-for-readability.jpg)
 
 Layout considerations for readability
 
@@ -215,7 +214,7 @@ Instructions can be provided in a number of ways: on a card, on paper, on a fold
 
 ###### Issue
 
-![Information split along paper fold](./images/Information-split-along-paper-fold.jpg)
+![Information split along paper fold](../images/Information-split-along-paper-fold.jpg)
 
 Information split along paper fold
 
@@ -223,7 +222,7 @@ Large instruction panels with folds can result in text crossing over folds. Same
 
 ###### Recommendation
 
-![Information contained within folded panels](./images/Information-contained-within-folded-panels.jpg)
+![Information contained within folded panels](../images/Information-contained-within-folded-panels.jpg)
 
 Information contained within folded panels
 
@@ -233,7 +232,7 @@ Information contained within folded panels
 
 ###### Issue
 
-![Instructions that require full unfolding](./images/Instructions-that-require-full-unfolding.jpg)
+![Instructions that require full unfolding](../images/Instructions-that-require-full-unfolding.jpg)
 
 Instructions that require full unfolding
 
@@ -242,7 +241,7 @@ Instructions that require full unfolding
 
 ###### Recommendation
 
-![Instructions that can be unfolded by section](./images/Instructions-that-can-be-unfolded-by-section.jpg)
+![Instructions that can be unfolded by section](../images/Instructions-that-can-be-unfolded-by-section.jpg)
 
 Instructions that can be unfolded by section
 
@@ -251,7 +250,7 @@ Instructions that can be unfolded by section
 
 ###### Issue
 
-![Instructions are too large for scanning](./images/Instructions-are-too-large-for-scanning.jpg)
+![Instructions are too large for scanning](../images/Instructions-are-too-large-for-scanning.jpg)
 
 Instructions are too large for scanning
 
@@ -259,7 +258,7 @@ Paper (or similar) documents may be provided in an incompatible format for assis
 
 ###### Recommendation
 
-![Instructions are an appropriate size for scanning](./images/Instructions-are-an-appropriate-size-for-scanning.jpg)
+![Instructions are an appropriate size for scanning](../images/Instructions-are-an-appropriate-size-for-scanning.jpg)
 
 Instructions are an appropriate size for scanning
 
@@ -268,7 +267,7 @@ Instructions are an appropriate size for scanning
 
 ##### Graphics, Images and Symbols
 
-![Arrows show user interaction with product](./images/Arrows-show-user-interaction.jpg)
+![Arrows show user interaction with product](../images/Arrows-show-user-interaction.jpg)
 
 Arrows show user interaction with product
 
@@ -276,7 +275,7 @@ Graphics, images, and symbols can be an effective way for users to quickly perce
 
 ###### Issue
 
-![Photo backgrounds distract from product](./images/Photo-backgrounds-distract-from-product.jpg)
+![Photo backgrounds distract from product](../images/Photo-backgrounds-distract-from-product.jpg)
 
 Photo backgrounds distract from product
 
@@ -284,7 +283,7 @@ Photos contain extra, unnecessary information making them difficult for low-visi
 
 ###### Recommendation
 
-![Line drawings improve comprehension](./images/Line-drawings-improve-comprehension.jpg)
+![Line drawings improve comprehension](../images/Line-drawings-improve-comprehension.jpg)
 
 Line drawings improve comprehension
 
@@ -301,7 +300,7 @@ It can also be difficult to interpret 2D drawings, especially those with thin li
 
 ###### Recommendation
 
-![3D drawing with appropriate line thickness](./images/3D-drawing-with-appropriate-line-thickness.jpg)
+![3D drawing with appropriate line thickness](../images/3D-drawing-with-appropriate-line-thickness.jpg)
 
 3D drawing with appropriate line thickness
 
@@ -309,7 +308,7 @@ Where possible, use 3D renderings with perspective and solid colors.
 
 ###### Issue
 
-![Images without context](./images/Images-without-context.jpg)
+![Images without context](../images/Images-without-context.jpg)
 
 Images without context
 
@@ -318,7 +317,7 @@ Images without context
 
 ###### Recommendation
 
-![Images with context](./images/Images-with-context.jpg)
+![Images with context](../images/Images-with-context.jpg)
 
 Images with context
 
@@ -327,7 +326,7 @@ Images with context
 
 ###### Issue
 
-![Non-standard symbols](./images/Non-standard-symbols.jpg)
+![Non-standard symbols](../images/Non-standard-symbols.jpg)
 
 Non-standard symbols
 
@@ -335,7 +334,7 @@ Symbols are hard to understand if they are arbitrarily chosen or region-specific
 
 ###### Recommendation
 
-![Standard symbols](./images/Standard-symbols.jpg)
+![Standard symbols](../images/Standard-symbols.jpg)
 
 Standard symbols
 
@@ -343,7 +342,7 @@ Use unambiguous and globally accepted symbols. Include a symbol key that is find
 
 ###### Issue
 
-![Drawings without realistic detail](./images/Drawings-without-realistic-detail.jpg)
+![Drawings without realistic detail](../images/Drawings-without-realistic-detail.jpg)
 
 Drawings without realistic detail
 
@@ -351,7 +350,7 @@ Graphics that are not presented with details that match the actual components ma
 
 ###### Recommendation
 
-![Drawings with realistic detail](./images/Drawings-with-realistic-detail.jpg)
+![Drawings with realistic detail](../images/Drawings-with-realistic-detail.jpg)
 
 Drawings with realistic detail
 
@@ -382,7 +381,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 
 ##### Identification
 
-![Box with examples of good identification features](./images/Box-with-examples-of-good-identification.jpg)
+![Box with examples of good identification features](../images/Box-with-examples-of-good-identification.jpg)
 
 Box with examples of good identification features
 
@@ -390,7 +389,7 @@ Outer box packaging is the initial introduction to any device. It can directly c
 
 ###### Issue
 
-![Box labeling viewable in only one orientation](./images/Box-labeling-viewable-in-only-one-oriention.jpg)
+![Box labeling viewable in only one orientation](../images/Box-labeling-viewable-in-only-one-oriention.jpg)
 
 Box labeling viewable in only one orientation
 
@@ -398,7 +397,7 @@ Packages are often inadequately labeled. Boxes with nondescript panels may need 
 
 ##### Recommendation
 
-![Box labeling viewable in multiple orientations](./images/Box-labeling-viewable-in-multiple-orientations.jpg)
+![Box labeling viewable in multiple orientations](../images/Box-labeling-viewable-in-multiple-orientations.jpg)
 
 Box labeling viewable in multiple orientations
 
@@ -406,7 +405,7 @@ Consider how the package might be displayed (e.g., on a shelf) and what informat
 
 ###### Issue
 
-![Box labeling with poor legibility](./images/Box-labeling-with-poor-legibility.jpg)
+![Box labeling with poor legibility](../images/Box-labeling-with-poor-legibility.jpg)
 
 Box labeling with poor legibility
 
@@ -414,7 +413,7 @@ Much of standard packaging is filled with lots of information in a small (less t
 
 ###### Recommendation
 
-![Box labeling with improved legibility](./images/Box-labeling-with-improved-legibility.jpg)
+![Box labeling with improved legibility](../images/Box-labeling-with-improved-legibility.jpg)
 
 Box labeling with improved legibility
 
@@ -423,7 +422,7 @@ Box labeling with improved legibility
 
 ###### Issue
 
-![Poor color combination; packaging with poor legibility](./images/Poor-color-combination-packaging-with-poor-legibility.jpg)
+![Poor color combination; packaging with poor legibility](../images/Poor-color-combination-packaging-with-poor-legibility.jpg)
 
 Poor color combination; packaging with poor legibility
 
@@ -431,7 +430,7 @@ Much of standard packaging is filled with lots of information with poor color co
 
 ###### Recommendation
 
-![Recommended color combination; legible packaging](./images/Recommended-color-combination-legible-packaging.jpg)
+![Recommended color combination; legible packaging](../images/Recommended-color-combination-legible-packaging.jpg)
 
 Recommended color combination; legible packaging
 
@@ -439,7 +438,7 @@ Use effective color contrast on outer packaging (refer to pg. 12 for design cons
 
 ###### Issue
 
-![QR code is too small to easily locate](./images/QR-code-is-too-small-to-easily-locate.jpg)
+![QR code is too small to easily locate](../images/QR-code-is-too-small-to-easily-locate.jpg)
 
 QR code is too small to easily locate
 
@@ -448,7 +447,7 @@ QR code is too small to easily locate
 
 ###### Recommendation
 
-![QR code is large and readily discoverable](./images/QR-code-is-large-and-readily-discoverable.jpg)
+![QR code is large and readily discoverable](../images/QR-code-is-large-and-readily-discoverable.jpg)
 
 QR code is large and readily discoverable
 
@@ -457,7 +456,7 @@ QR code is large and readily discoverable
 
 ###### Issue
 
-![Example of a flat QR](./images/Example-of-a-flat-QR.jpg)
+![Example of a flat QR](../images/Example-of-a-flat-QR.jpg)
 
 Example of a flat QR
 
@@ -465,7 +464,7 @@ There are generally no tactile features on the surfaces of standard boxes, which
 
 ###### Recommendation
 
-![Alternatives to flat QR codes](./images/Alternatives-to-flat-QR-codes.jpg)
+![Alternatives to flat QR codes](../images/Alternatives-to-flat-QR-codes.jpg)
 
 Alternatives to flat QR codes
 
@@ -473,7 +472,7 @@ Provide a means to tactilely find encoded information (e.g., a raised sticker, o
 
 ##### Accessing Contents
 
-![Package with tamper evident seal](./images/Package-with-tamper-evident-seal.jpg)
+![Package with tamper evident seal](../images/Package-with-tamper-evident-seal.jpg)
 
 Package with tamper evident seal
 
@@ -485,7 +484,7 @@ Opening and accessing packaging requires a balance of competing needs:
 
 ###### Issue
 
-![Difficult to remove tamper-proof seal](./images/Difficult-to-remove-tamper-proof-seal.jpg)
+![Difficult to remove tamper-proof seal](../images/Difficult-to-remove-tamper-proof-seal.jpg)
 
 Difficult to remove tamper-proof seal
 
@@ -494,7 +493,7 @@ Difficult to remove tamper-proof seal
 
 ###### Recommendation
 
-![Easy to remove tamper-proof seal](./images/Easy-to-remove-tamper-proof-seal.jpg)
+![Easy to remove tamper-proof seal](../images/Easy-to-remove-tamper-proof-seal.jpg)
 
 Easy to remove tamper-proof seal
 
@@ -503,7 +502,7 @@ Easy to remove tamper-proof seal
 
 ###### Issue
 
-![Difficult to remove tamper-proof seal](./images/Difficult-to-remove-tamper-proof-seal-2.jpg)
+![Difficult to remove tamper-proof seal](../images/Difficult-to-remove-tamper-proof-seal-2.jpg)
 
 Difficult to remove tamper-proof seal
 
@@ -512,7 +511,7 @@ Difficult to remove tamper-proof seal
 
 ###### Recommendation
 
-![Easy to remove tamper-proof seal](./images/Easy-to-remove-tamper-proof-seal-2.jpg)
+![Easy to remove tamper-proof seal](../images/Easy-to-remove-tamper-proof-seal-2.jpg)
 
 Easy to remove tamper-proof seal
 
@@ -521,7 +520,7 @@ Easy to remove tamper-proof seal
 
 ###### Issue
 
-![Package without intuitive opening](./images/Package-without-intuitive-opening.jpg)
+![Package without intuitive opening](../images/Package-without-intuitive-opening.jpg)
 
 Package without intuitive opening
 
@@ -529,7 +528,7 @@ It can be challenging to understand how to open a package (e.g., How does the li
 
 ###### Recommendation
 
-![Packages with opening cues](./images/Packages-with-opening-cues.jpg)
+![Packages with opening cues](../images/Packages-with-opening-cues.jpg)
 
 Packages with opening cues
 
@@ -537,7 +536,7 @@ Provide familiar tactile cues on the packaging indicating which part is meant to
 
 ###### Issue
 
-![Plain box with no divots](./images/Package-without-intuitive-opening.jpg)
+![Plain box with no divots](../images/Package-without-intuitive-opening.jpg)
 
 Plain box with no divots
 
@@ -545,7 +544,7 @@ It can be challenging to physically open a package when there are no affordances
 
 ###### Recommendation
 
-![Boxes with divots and flaps](./images/Boxes-with-divots-and-flaps.jpg)
+![Boxes with divots and flaps](../images/Boxes-with-divots-and-flaps.jpg)
 
 Boxes with divots and flaps
 
@@ -559,7 +558,7 @@ Include features for opening the package which accommodate users' fingers and a 
 
 ##### Organization of Contents
 
-![Kit contents](./images/Kit-contents.jpg)
+![Kit contents](../images/Kit-contents.jpg)
 
 Kit contents
 
@@ -567,7 +566,7 @@ Test kits containing multiple components must identify the components, secure sm
 
 ###### Issue
 
-![Loose contents inside box packaging](./images/Loose-contents-inside-box-packaging.jpg)
+![Loose contents inside box packaging](../images/Loose-contents-inside-box-packaging.jpg)
 
 Loose contents inside box packaging
 
@@ -576,7 +575,7 @@ Loose contents inside box packaging
 
 ###### Recommendation
 
-![Contents neatly organized within box](./images/Contents-neatly-organized-within-box.jpg)
+![Contents neatly organized within box](../images/Contents-neatly-organized-within-box.jpg)
 
 Contents neatly organized within box
 
@@ -585,7 +584,7 @@ Contents neatly organized within box
 
 ##### Identification of Contents
 
-![Identification of Contents](./images/Identification-of-Contents.jpg)
+![Identification of Contents](../images/Identification-of-Contents.jpg)
 
 Identification of Contents
 
@@ -593,7 +592,7 @@ Contents in a package need to be identifiable so that users know when to open or
 
 ###### Issue
 
-![Parts are packaged in foil pouches with the same form factor](./images/Parts-are-packaged-in-foil-pouches-with-the-same-factor.jpg)
+![Parts are packaged in foil pouches with the same form factor](../images/Parts-are-packaged-in-foil-pouches-with-the-same-factor.jpg)
 
 Parts are packaged in foil pouches with the same form factor
 
@@ -601,7 +600,7 @@ Component packages that are similar in size and shape to one another are difficu
 
 ###### Recommendation
 
-![Parts are packaged with distinct materials and form factors](./images/Parts-are-packaged-with-distinct-materials-and-form-factors.jpg)
+![Parts are packaged with distinct materials and form factors](../images/Parts-are-packaged-with-distinct-materials-and-form-factors.jpg)
 
 Parts are packaged with distinct materials and form factors
 
@@ -609,7 +608,7 @@ If components have interior packages, ensure that each component is tactilely di
 
 #### Opening Internal Packages
 
-![Internal packages](./images/Internal-packages.jpg)
+![Internal packages](../images/Internal-packages.jpg)
 
 Internal packages
 
@@ -617,7 +616,7 @@ Accessing components frequently requires opening a sealed package. The user shou
 
 ###### Issue
 
-![Pouch without clear indication for tear location](./images/Pouch-without-clear-indication-for-tear-location.jpg)
+![Pouch without clear indication for tear location](../images/Pouch-without-clear-indication-for-tear-location.jpg)
 
 Pouch without clear indication for tear location
 
@@ -625,7 +624,7 @@ It can be difficult to understand how to open a pouch. Locating the correct plac
 
 ###### Recommendation
 
-![Pouch with evident tear location](./images/Pouch-with-evident-tear-location.jpg)
+![Pouch with evident tear location](../images/Pouch-with-evident-tear-location.jpg)
 
 Pouch with evident tear location
 
@@ -633,7 +632,7 @@ Provide multi-modal methods to inform the user how to open package. For example,
 
 ###### Issue
 
-![Swab packaging with swab tip near small peel tab](./images/Swab-packaging-with-swab-tip-near-small-peel-tab.jpg)
+![Swab packaging with swab tip near small peel tab](../images/Swab-packaging-with-swab-tip-near-small-peel-tab.jpg)
 
 Swab packaging with swab tip near small peel tab
 
@@ -641,7 +640,7 @@ Interior packaging may present a method for opening which exposes an area to con
 
 ###### Recommendation
 
-![Swab packaging with swab handle near big peel tab](./images/Swab-packaging-with-swab-handle-near-big-peel-tab.jpg)
+![Swab packaging with swab handle near big peel tab](../images/Swab-packaging-with-swab-handle-near-big-peel-tab.jpg)
 
 Swab packaging with swab handle near big peel tab
 
@@ -667,7 +666,7 @@ Ensure the opening exposes the component portion that would be preferred to touc
 
 ##### Modality
 
-![Digital modalities](./images/Digital-modalities.jpg)
+![Digital modalities](../images/Digital-modalities.jpg)
 
 Digital modalities
 
@@ -689,7 +688,7 @@ Offer instructions in alternate modalities conveying identical information such 
 
 ##### Assistive Technology Compatibility
 
-![Assistive technologies](./images/Assistive-technologies.jpg)
+![Assistive technologies](../images/Assistive-technologies.jpg)
 
 Assistive technologies
 
@@ -714,7 +713,7 @@ Instructions are provided in a format that is not compatible with use on a smart
 
 ###### Issue
 
-![Formatting incompatible with screen reader](./images/Formatting-incompatible-with-screen-reader.jpg)
+![Formatting incompatible with screen reader](../images/Formatting-incompatible-with-screen-reader.jpg)
 
 Formatting incompatible with screen reader
 
@@ -722,7 +721,7 @@ Not all digital instructions are compatible with screen readers. Key elements ar
 
 ###### Recommendation
 
-![Formatting compatible with screen readers](./images/Formatting-compatible-with-screen-readers.jpg)
+![Formatting compatible with screen readers](../images/Formatting-compatible-with-screen-readers.jpg)
 
 Formatting compatible with screen readers
 
@@ -730,7 +729,7 @@ Ensure digital instructions are compatible with all commonly used screen readers
 
 ##### User Interface (UI) Features
 
-![User interface considerations](./images/User-interface-considerations.jpg)
+![User interface considerations](../images/User-interface-considerations.jpg)
 
 User interface considerations
 
@@ -750,7 +749,7 @@ The presence or absence of features in an application or web design can signific
 
 ###### Issue
 
-![Important information integrated into text](./images/Important-information-integrated-into-text.jpg)
+![Important information integrated into text](../images/Important-information-integrated-into-text.jpg)
 
 Important information integrated into text
 
@@ -758,7 +757,7 @@ Some important content can be missed with the use of a digital user interface if
 
 ###### Recommendation
 
-![Important information presented in pop-up](./images/Important-information-presented-in-pop-up.jpg)
+![Important information presented in pop-up](../images/Important-information-presented-in-pop-up.jpg)
 
 Important information presented in pop-up
 
@@ -767,7 +766,7 @@ Important information presented in pop-up
 
 ##### Operating System Compatibility
 
-![Device operating systems](./images/Device-operating-systems.jpg)
+![Device operating systems](../images/Device-operating-systems.jpg)
 
 Device operating systems
 
@@ -792,7 +791,7 @@ The ability for content to be recognized and understood by computer, smartphone,
 
 ##### Audio Instructions via Website or Application
 
-![Multiple platforms supporting audio content](./images/Multiple-platforms-supporting-audio-content.jpg)
+![Multiple platforms supporting audio content](../images/Multiple-platforms-supporting-audio-content.jpg)
 
 Multiple platforms supporting audio content
 
@@ -812,7 +811,7 @@ Audio instructions should be available in easy-to- navigate formats and should u
 
 ##### Interactive Voice Response (IVR) System
 
-![Interactive Voice Response (IVR) System](./images/Interactive-Voice-Response-(IVR-)System.jpg)
+![Interactive Voice Response (IVR) System](../images/Interactive-Voice-Response-(IVR-)System.jpg)
 
 Interactive Voice Response (IVR) System
 
@@ -820,7 +819,7 @@ IVR systems can be used to connect users to instructions through a phone call. T
 
 ###### Issue
 
-![Instructions without IVR availability](./images/Instructions-without-IVR-availability.jpg)
+![Instructions without IVR availability](../images/Instructions-without-IVR-availability.jpg)
 
 Instructions without IVR availability
 
@@ -828,7 +827,7 @@ Instructions are not always available by phone which is challenging to some user
 
 ###### Recommendation
 
-![Instructions with IVR availability](./images/Instructions-with-IVR-availability.jpg)
+![Instructions with IVR availability](../images/Instructions-with-IVR-availability.jpg)
 
 Instructions with IVR availability
 
@@ -839,7 +838,7 @@ Provide audio instructions via IVR system capable of:
 
 ##### Video
 
-![Video demonstration of test procedure](./images/Video-demonstration-of-test-procedure.jpg)
+![Video demonstration of test procedure](../images/Video-demonstration-of-test-procedure.jpg)
 
 Video demonstration of test procedure
 
@@ -897,7 +896,7 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 
 ###### Connecting/Bluetooth Pairing
 
-![Phone connecting via Bluetooth](./images/Phone-connecting-via-Bluetooth.jpg)
+![Phone connecting via Bluetooth](../images/Phone-connecting-via-Bluetooth.jpg)
 
 Phone connecting via Bluetooth
 
@@ -905,7 +904,7 @@ Some tests may require Bluetooth pairing (connecting a smartphone and another de
 
 ###### Issue
 
-![Phone connecting via Bluetooth with visual cues](./images/Phone-connecting-via-Bluetooth-with-visual-cues.jpg)
+![Phone connecting via Bluetooth with visual cues](../images/Phone-connecting-via-Bluetooth-with-visual-cues.jpg)
 
 Phone connecting via Bluetooth with visual cues
 
@@ -914,7 +913,7 @@ Phone connecting via Bluetooth with visual cues
 
 ###### Recommendation
 
-![Phone connecting via Bluetooth with audio cues](./images/Phone-connecting-via-Bluetooth-with-audio-cues.jpg)
+![Phone connecting via Bluetooth with audio cues](../images/Phone-connecting-via-Bluetooth-with-audio-cues.jpg)
 
 Phone connecting via Bluetooth with audio cues
 
