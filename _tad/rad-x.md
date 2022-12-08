@@ -135,7 +135,7 @@ Information can be provided with inappropriate color contrast. It can be challen
 
 Key information stands apart
 
-####### Recommendation
+###### Recommendation
 
 ![Recommended color combination; legible instructions](./images/text-perception-recommendation.jpg)
 
