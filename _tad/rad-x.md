@@ -127,7 +127,7 @@ Tube Holder
 		</div>
 
 
-* * * * *
+- - -
 
 
 <div class="grid-container">
@@ -155,6 +155,8 @@ Tube Holder
 	</div>
 		</div>
 
+- - -
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -172,6 +174,7 @@ Tube Holder
 	</div>
 		</div>
 
+* * * * *
 ##### General Readability and Layout
 
 ![Layout considerations for readability](../images/Layout-considerations-for-readability.jpg)
