@@ -110,7 +110,7 @@ Instructions for use
   <div class="grid-row">
     <div class="tablet:grid-col">
 	    <h6>Issue</h6>
-      <img src="{{ site.baseurl }}/images/tad/instructions-issue.jpg" alt="NEED ALT-TEXT">
+      <img class="img-full" src="../images/instructions-issue.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic"> Key information hard to distinguish</span>
 	<ul>		
 	<li>Content is displayed such that it is challenging to distinguish key and supporting information.</li>
@@ -120,7 +120,7 @@ Instructions for use
     </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
-      <img src="{{ site.baseurl }}{{ page.image-directory }}instructions-recommendation.jpg" alt="NEED ALT-TEXT">
+      <img class="img-full" src="../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Key information stands apart</span>
 <ul>
 <li>Present key information in large and/or boldface type. (Use minimum of 14 pt).</li>
@@ -135,7 +135,7 @@ Instructions for use
   <div class="grid-row">
     <div class="tablet:grid-col">
 	    <h6>Issue</h6>
-      <img src="../images/text-perception-issue.jpg" alt="NEED ALT-TEXT">
+      <img class="img-full" src="../images/text-perception-issue.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Poor color combination; instructions with poor legibility</span>
 	<p>Information can be provided with inappropriate color contrast.  It can be challenging to perceive key information.</p>
     </div>
