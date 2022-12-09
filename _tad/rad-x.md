@@ -1192,28 +1192,29 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 		<li>Users may miss some steps only described in audio.</li>
 		<li>Users may not always want to refer to video, especially for repeated uses of a test.</li>
 		<li>Automatically looping videos can be distracting.</li>
-	</ul>
-    </div>
+	    </ul>
+	  </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
-<ul>
-	<li>Make video tutorial instructions available via the product website.</li>
-	<li>Confirm video player is accessible (see WCAG 2.1 AA guidance).</li>
-	<li>Provide the ability to control video playback including pause/play, rewind, forward, replay from the beginning, scroll through time or advance incrementally, and switch to full screen mode.</li>
-	<li>Do not use visuals with actors completing steps, instead use high-contrast animations.</li>
-	<li>Do not provide an abbreviated version of a longer video.</li>
-	<li>Audio and visual content should each be independently sufficient for a user to understand the video's content.</li>
-	<li>Allow skipping the video after it has been viewed once.</li>
-	<li>Avoid looping videos with no ability to pause.</li>
-	<li>Include timestamps on the player for easy navigation to specific sections (e.g., getting started, workflow, interpreting results). Utilize common device OS system video controls.</li>
-	<li>Label control buttons by function with large text and outline them with a two-pixel, lighter shade edge to suggest a bezel.</li>
-	<li>Include multilingual closed-captions.</li>
-	<li>Consider implementing a user profile recognition function to make video viewing required for the first test but optional for subsequent tests.</li>
-</ul>
-</div>
+	    <ul>
+		    <li>Make video tutorial instructions available via the product website.</li>
+		    <li>Confirm video player is accessible (see WCAG 2.1 AA guidance).</li>
+		    <li>Provide the ability to control video playback including pause/play, rewind, forward, replay from the beginning, scroll through time or advance incrementally, and switch to full screen mode.</li>
+		    <li>Do not use visuals with actors completing steps, instead use high-contrast animations.</li>
+		    <li>Do not provide an abbreviated version of a longer video.</li>
+		    <li>Audio and visual content should each be independently sufficient for a user to understand the video's content.</li>
+		    <li>Allow skipping the video after it has been viewed once.</li>
+		    <li>Avoid looping videos with no ability to pause.</li>
+		    <li>Include timestamps on the player for easy navigation to specific sections (e.g., getting started, workflow, interpreting results). Utilize common device OS system video controls.</li>
+		    <li>Label control buttons by function with large text and outline them with a two-pixel, lighter shade edge to suggest a bezel.</li>
+		    <li>Include multilingual closed-captions.</li>
+		    <li>Consider implementing a user profile recognition function to make video viewing required for the first test but optional for subsequent tests.</li>
+	    </ul>
+	  </div>
 	</div>
-		</div>
-	
+</div>
+
+
 	
 * * * * *
 
