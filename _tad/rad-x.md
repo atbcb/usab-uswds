@@ -99,11 +99,7 @@ Tube Holder
 	</div>
 		</div>
 
-
-
-
-
-* * * * *
+---------------------------------------
 
 <div class="grid-container">
   <div class="grid-row">
@@ -127,7 +123,7 @@ Tube Holder
 		</div>
 
 
-- - -
+---------------------------------------
 
 
 <div class="grid-container">
@@ -155,7 +151,7 @@ Tube Holder
 	</div>
 		</div>
 
-- - -
+---------------------------------------
 
 <div class="grid-container">
   <div class="grid-row">
