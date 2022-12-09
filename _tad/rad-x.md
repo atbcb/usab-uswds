@@ -95,17 +95,28 @@ Tube Holder
 
 Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.
 
-###### Issue
-
--   Some instructions include the use of hard to read fonts, italics, underlining, or other text features that increase the level of reading difficulty.
--   Instructions are also challenging to read when multiple fonts and typefaces are used.
-
-###### Recommendation
-
--   Consistently use a sans serif font that is easy to read such as Arial, Verdana, Helvetica, Calibri, etc.
--   Minimize italics
--   Do not use all capital letters
--   Avoid/minimize underlining
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+	<ul>		
+	<li>Some instructions include the use of hard to read fonts, italics, underlining, or other text features that increase the level of reading difficulty.</li>
+	<li>Instructions are also challenging to read when multiple fonts and typefaces are used.</li>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Key information stands apart</span>
+<ul>
+<li>Consistently use a sans serif font that is easy to read such as Arial, Verdana, Helvetica, Calibri, etc.</li>
+<li>Minimize italics</li>
+<li>Do not use all capital letters</li>
+	<li>Avoid/minimize underlining</li>
+</ul>
+</div>
+	</div>
+		</div>
 
 
 <div class="grid-container">
