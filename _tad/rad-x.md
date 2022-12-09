@@ -1078,12 +1078,12 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	<li>Recognize and apply the user's system-wide auditory/haptic feedback preferences and provide an in-application option to turn auditory/haptic feedback on or off.</li>
 	<li>Enable dark mode support.</li>
 	<li>If the application requires data entry for sign-in / results reporting:</li>
-		<ul>
+		<ol>
 			<li>1. Enable auto fill; enable single sign-on (SSO) through Google, Facebook, etc.</li>
 			<li>2. Clarify which data entry fields are required vs. optional.</li>
 			<li>3. Save partial data (e.g., create a user profile) so user does not have to input data again for repeat testing.</li>
 			<li>4. Ensure that all data entry fields are assigned screen readable labels.</li>
-		</ul>
+		</ol>
 </ul>
 </div>
 	</div>
