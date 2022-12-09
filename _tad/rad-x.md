@@ -1184,15 +1184,15 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h6>Issue</h6>
 	<ul>		
-	<li>Video is not always provided on websites or applications.
-	<li>Videos are not always accessible or as audibly descriptive as they are visually descriptive. Where provided, audio description may not cover all steps.
-	<li>Some videos do not provide the ability to pause, rewind, or forward in discrete chunks or increments, making it challenging to jump to the step a user is trying to review.</li>
-	<li>Visuals with actors completing steps can be challenging for low-vision users to follow due to issues with lighting and contrast.</li>
-	<li>Abbreviated versions of a longer video tempts users to skip the complete video and miss important steps.</li>
-	<li>Users may miss some steps only described in audio.</li>
-	<li>Users may not always want to refer to video, especially for repeated uses of a test.</li>
-	<li>Automatically looping videos can be distracting.</li>
-</ul>
+		<li>Video is not always provided on websites or applications.</li>
+		<li>Videos are not always accessible or as audibly descriptive as they are visually descriptive. Where provided, audio description may not cover all steps.</li>
+		<li>Some videos do not provide the ability to pause, rewind, or forward in discrete chunks or increments, making it challenging to jump to the step a user is trying to review.</li>
+		<li>Visuals with actors completing steps can be challenging for low-vision users to follow due to issues with lighting and contrast.</li>
+		<li>Abbreviated versions of a longer video tempts users to skip the complete video and miss important steps.</li>
+		<li>Users may miss some steps only described in audio.</li>
+		<li>Users may not always want to refer to video, especially for repeated uses of a test.</li>
+		<li>Automatically looping videos can be distracting.</li>
+	</ul>
     </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
