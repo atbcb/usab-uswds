@@ -281,7 +281,7 @@ Line drawings improve comprehension
 
 ##### Issue
 
-![2D thin line and low-contrast drawings](2D-thin-line-and-low-contrast-drawings.jpg)
+![2D thin line and low-contrast drawings](../imgae2D-thin-line-and-low-contrast-drawings.jpg)
 
 2D thin line and low-contrast drawings
 
@@ -491,12 +491,12 @@ Easy to remove tamper-proof seal
 
 ##### Issue
 
+-   When faced with this tamper-proof seal, many users resort to external tools such as scissors and knives to open the package, which may result in damaging contents.
+-   Many tamper-proof seals are clear, making them challenging to find for low-vision users.
+
 ![Difficult to remove tamper-proof seal](../images/Difficult-to-remove-tamper-proof-seal-2.jpg)
 
 Difficult to remove tamper-proof seal
-
--   When faced with this tamper-proof seal, many users resort to external tools such as scissors and knives to open the package, which may result in damaging contents.
--   Many tamper-proof seals are clear, making them challenging to find for low-vision users.
 
 ###### Recommendation
 
@@ -697,16 +697,16 @@ Instructions are provided in a format that is not compatible with use on a smart
 -   Ensure the QRG is available as a PDF that conforms to Section 508, WCAG 2.1 level AA, and PDF/Unive	rsal Accessibility (UA) standards.
 -   Ensure all images have meaningful, descriptive alternative ('alt') text, particularly when describing test components such that they can be discerned from one another non-visually.
 -   Ensure all form fields have accessible names/labels.
--   Consider providing a Digital Accessible Information System (DAISY) format of the QRG with sections and subsections defined in the file (See also Physical Components - Instructions/Accessing Information [above](#instructions-accessing-information)).
+-   Consider providing a Digital Accessible Information System (DAISY) format of the QRG with sections and subsections defined in the file (See also Physical Components - Instructions/Accessing Information [above](#11-instructionsaccessing-information)).
 -   Provide a link or button on the web page that leads the user to a full digital version of the instructions and allow users to request a large-print or braille copy be mailed to them at no charge.
 
 ##### Issue
 
+Not all digital instructions are compatible with screen readers. Key elements are often coded incorrectly or in a format that screen readers cannot detect, meaning content may be out of order, incomplete, or incomprehensible. Instructions may be provided in a format that is not compatible with use on a smartphone or tablet or that cannot be perceived by an accessible tool such as OS accessibility features.
+
 ![Formatting incompatible with screen reader](../images/Formatting-incompatible-with-screen-reader.jpg)
 
 Formatting incompatible with screen reader
-
-Not all digital instructions are compatible with screen readers. Key elements are often coded incorrectly or in a format that screen readers cannot detect, meaning content may be out of order, incomplete, or incomprehensible. Instructions may be provided in a format that is not compatible with use on a smartphone or tablet or that cannot be perceived by an accessible tool such as OS accessibility features.
 
 ###### Recommendation
 
@@ -746,12 +746,12 @@ Some important content can be missed with the use of a digital user interface if
 
 ###### Recommendation
 
+-   Provide pop-up messages for important content that remains on screen until user provides input to acknowledge the message.
+-   Errors, warnings, and success messages should not automatically disappear until the user acknowledges the message.
+
 ![Important information presented in pop-up](../images/Important-information-presented-in-pop-up.jpg)
 
 Important information presented in pop-up
-
--   Provide pop-up messages for important content that remains on screen until user provides input to acknowledge the message.
--   Errors, warnings, and success messages should not automatically disappear until the user acknowledges the message.
 
 ##### Operating System Compatibility
 
@@ -780,11 +780,11 @@ The ability for content to be recognized and understood by computer, smartphone,
 
 ##### Audio Instructions via Website or Application
 
+Audio may be the primary mode for some no- vision and low-vision users to receive instructions independently. Designing the audio content is critical to providing a comprehensive understanding of the product.
+
 ![Multiple platforms supporting audio content](../images/Multiple-platforms-supporting-audio-content.jpg)
 
 Multiple platforms supporting audio content
-
-Audio may be the primary mode for some no- vision and low-vision users to receive instructions independently. Designing the audio content is critical to providing a comprehensive understanding of the product.
 
 ##### Issue
 
