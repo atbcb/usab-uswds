@@ -456,7 +456,6 @@ Essential warnings (e.g., those where use error is associated with the greatest 
       <img class="img-full" src="../images/Drawings-without-realistic-detail.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Drawings without realistic detail</span>
 	<p>Graphics that are not presented with details that match the actual components may cause confusion.</p>
-</ul>
     </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
@@ -949,7 +948,6 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h6>Issue</h6>		
 	<p>Instructions are provided in a format that is not compatible with use on a smartphone or computer and/ or that cannot be utilized by an accessible tool such as operating system (OS) accessibility features.</p>
-</ul>
     </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
