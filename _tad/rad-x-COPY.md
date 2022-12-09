@@ -142,11 +142,11 @@ Recommended color combination; legible instructions
 
 ##### General Readability and Layout
 
+Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.
+
 ![Layout considerations for readability](../images/Layout-considerations-for-readability.jpg)
 
 Layout considerations for readability
-
-Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.
 
 ##### Issue
 
@@ -230,20 +230,20 @@ Instructions that require full unfolding
 
 ###### Recommendation
 
+-   Provide instructions in a manner that they can be placed adjacent to a test kit on a table.
+-   Consider that lighter paper weights allow instructions to lay flat. Use materials which can withstand some amount of liquid spill. If coatings are used, limit reflectivity.
+
 ![Instructions that can be unfolded by section](../images/Instructions-that-can-be-unfolded-by-section.jpg)
 
 Instructions that can be unfolded by section
 
--   Provide instructions in a manner that they can be placed adjacent to a test kit on a table.
--   Consider that lighter paper weights allow instructions to lay flat. Use materials which can withstand some amount of liquid spill. If coatings are used, limit reflectivity.
-
 ###### Issue
+
+Paper (or similar) documents may be provided in an incompatible format for assistive technologies. Pages or panels may be too large for flatbed scanners and smartphone OCR. Multiple panels without numbering make it difficult to navigate from page to page.
 
 ![Instructions are too large for scanning](../images/Instructions-are-too-large-for-scanning.jpg)
 
 Instructions are too large for scanning
-
-Paper (or similar) documents may be provided in an incompatible format for assistive technologies. Pages or panels may be too large for flatbed scanners and smartphone OCR. Multiple panels without numbering make it difficult to navigate from page to page.
 
 ###### Recommendation
 
@@ -272,20 +272,20 @@ Photo backgrounds distract from product
 
 ###### Recommendation
 
+-   Use high-quality, high-contrast, thick line drawings with perspective instead of photos.
+-   Use varying line weights to distinguish detail and accent features (e.g., 0.5 pt -- 1.5 pt for lines and 3 pt -- 4 pt for accent features).
+
 ![Line drawings improve comprehension](../images/Line-drawings-improve-comprehension.jpg)
 
 Line drawings improve comprehension
 
--   Use high-quality, high-contrast, thick line drawings with perspective instead of photos.
--   Use varying line weights to distinguish detail and accent features (e.g., 0.5 pt -- 1.5 pt for lines and 3 pt -- 4 pt for accent features).
-
 ##### Issue
+
+It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.
 
 ![2D thin line and low-contrast drawings](../imgae2D-thin-line-and-low-contrast-drawings.jpg)
 
 2D thin line and low-contrast drawings
-
-It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.
 
 ###### Recommendation
 
@@ -376,7 +376,7 @@ Outer box packaging is the initial introduction to any device. It can directly c
 
 Box with examples of good identification features
 
- Issue
+##### Issue
 
 Packages are often inadequately labeled. Boxes with nondescript panels may need to be rotated to ascertain contents.
 
@@ -677,11 +677,11 @@ Offer instructions in alternate modalities conveying identical information such 
 
 ##### Assistive Technology Compatibility
 
+Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard, and one that has been rigorously tested with assistive technology such as screen readers and voice dictation software. The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital instructions. Many people are familiar with the process of downloading an application.
+
 ![Assistive technologies](../images/Assistive-technologies.jpg)
 
 Assistive technologies
-
-Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard, and one that has been rigorously tested with assistive technology such as screen readers and voice dictation software. The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital instructions. Many people are familiar with the process of downloading an application.
 
 ##### Issue
 
@@ -710,11 +710,11 @@ Formatting incompatible with screen reader
 
 ###### Recommendation
 
+Ensure digital instructions are compatible with all commonly used screen readers. Confirm both computer and mobile screen reader compatibility of each and every screen element (e.g., images, fields, buttons).
+
 ![Formatting compatible with screen readers](../images/Formatting-compatible-with-screen-readers.jpg)
 
 Formatting compatible with screen readers
-
-Ensure digital instructions are compatible with all commonly used screen readers. Confirm both computer and mobile screen reader compatibility of each and every screen element (e.g., images, fields, buttons).
 
 ##### User Interface (UI) Features
 
@@ -738,11 +738,11 @@ User interface considerations
 
 ##### Issue
 
+Some important content can be missed with the use of a digital user interface if the content is not appropriately segmented.
+
 ![Important information integrated into text](../images/Important-information-integrated-into-text.jpg)
 
 Important information integrated into text
-
-Some important content can be missed with the use of a digital user interface if the content is not appropriately segmented.
 
 ###### Recommendation
 
@@ -755,11 +755,11 @@ Important information presented in pop-up
 
 ##### Operating System Compatibility
 
+The ability for content to be recognized and understood by computer, smartphone, and tablet OS and accessibility tools is vital for no-vision and low-vision user access to information about the test.
+
 ![Device operating systems](../images/Device-operating-systems.jpg)
 
 Device operating systems
-
-The ability for content to be recognized and understood by computer, smartphone, and tablet OS and accessibility tools is vital for no-vision and low-vision user access to information about the test.
 
 ##### Issue
 
