@@ -110,23 +110,24 @@ Instructions for use
     <div class="tablet:grid-col">
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}/_tad/images/instructions-issue.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic"> Key information hard to distinguish</span>
-<span class="grid-line">
+<p>
 * Content is displayed such that it is challenging to distinguish key and supporting information.
 * Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.
 * Expiration date is presented as a number string (e.g., YYYY-MM-DD or MM/DD/YYYY) only, which OCR applications do not recognize as dates.
-</span>
+</p>
     </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}/_tad/images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Key information stands apart</span>
-<span class="grid-line">
+<p>
 * Present key information in large and/or boldface type. (Use minimum of 14 pt).
 * Provide QR codes measuring larger than one-half inch square.
 * Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before <date>' or 'Do no use after <date>'.
-</span>
+</p>
     </div>
-  </div>
-</div>
+	</div>
+	  </div>
+	</div>
 	  
 {: .clear }
 
