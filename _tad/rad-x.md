@@ -109,7 +109,7 @@ Instructions for use
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}../images/instructions-issue.jpg" alt="NEED ALT-TEXT">
+      <img class="img-full" src="{{ site.baseurl }}../images/instructions-issue.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic"> Key information hard to distinguish</span>
 	<ul>		
 	<li>Content is displayed such that it is challenging to distinguish key and supporting information.</li>
@@ -118,18 +118,16 @@ Instructions for use
 </ul>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
+      <img class="img-full" src="{{ site.baseurl }}../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Key information stands apart</span>
 <ul>
 <li>Present key information in large and/or boldface type. (Use minimum of 14 pt).</li>
 <li>Provide QR codes measuring larger than one-half inch square.</li>
-<li>Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before <date>' or 'Do no use after <date>'.</li>
+<li>Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before <date>' or 'Do no use after <date>'.
+	</li>
 </ul>
     </div>
-	</div>
-	  </div>
-	</div>
-	</div>
+
 <br>
 
 
