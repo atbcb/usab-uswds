@@ -430,231 +430,312 @@ Essential warnings (e.g., those where use error is associated with the greatest 
 		
 ---------------------------------------
 
-###### Issue
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Non-standard-symbols.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Non-standard symbols</span>		
+	<p>Symbols are hard to understand if they are arbitrarily chosen or region-specific. Their meaning may not be obvious to the reader.</p>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Standard-symbols.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Standard symbols</span>
+<p>Use unambiguous and globally accepted symbols. Include a symbol key that is findable and near the symbol or include text labeling immediately adjacent to it. Follow the International Organization for Standardization (ISO) 15223 standard for symbols used on medical device packaging.</p>
+</div>
+	</div>
+		</div>
+		
+---------------------------------------
 
-![Non-standard symbols](../images/Non-standard-symbols.jpg)
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Drawings-without-realistic-detail.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Drawings without realistic detail</span>
+	<p>Graphics that are not presented with details that match the actual components may cause confusion.</p>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Drawings-with-realistic-detail.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Drawings with realistic detail</span>
+<ul>
+<li>Make sure graphics/images match the actual appearance of the components (e.g., if a cap is gray, do not illustrate in white; if the cartridge has text or other markings on it, include these in graphics).</li>
+<li>Use grayscale sparingly and retain outlining of gray features.</li>
+</ul>
+</div>
+	</div>
+		</div>
 
-Non-standard symbols
-
-Symbols are hard to understand if they are arbitrarily chosen or region-specific. Their meaning may not be obvious to the reader.
-
-###### Recommendation
-
-![Standard symbols](../images/Standard-symbols.jpg)
-
-Standard symbols
-
-Use unambiguous and globally accepted symbols. Include a symbol key that is findable and near the symbol or include text labeling immediately adjacent to it. Follow the International Organization for Standardization (ISO) 15223 standard for symbols used on medical device packaging.
-
-###### Issue
-
-![Drawings without realistic detail](../images/Drawings-without-realistic-detail.jpg)
-
-Drawings without realistic detail
-
-Graphics that are not presented with details that match the actual components may cause confusion.
-
-###### Recommendation
-
-![Drawings with realistic detail](../images/Drawings-with-realistic-detail.jpg)
-
-Drawings with realistic detail
-
--   Make sure graphics/images match the actual appearance of the components (e.g., if a cap is gray, do not illustrate in white; if the cartridge has text or other markings on it, include these in graphics).
--   Use grayscale sparingly and retain outlining of gray features.
+---------------------------------------
 
 #### Language
 
 The vocabulary used in instructions is key to a user's ability to understand what is required. Presenting information in plain, clear, concise language is critical to ensuring a user's understanding of how to use the test kit.
 
-###### Issue
+---------------------------------------
 
--   Presenting critical information without text labels creates issues with OCR interpret-ability (e.g., 1-800-000-0000 without a 'Customer Service Phone' text label is read as a number string).
--   Instructions sometimes refer to components and features inconsistently, which can make finding and following information difficult.
--   Certain practices create unnecessary ambiguity, such as referring to components or features generally as "this" or "that"; and using abbreviations/ acronyms
-
-###### Recommendation
-
--   Text label critical information such as the product website, customer service phone number, and customer service email so they are recognized as such by OCR applications (e.g., Customer Service Phone Number: 1-800-000-0000).
--   Use the same name for a component or feature throughout the instructions and labels on components or packaging.
--   UProvide non-visual descriptive indicators when describing components or features.
--   Avoid use of abbreviations or acronyms. If it is necessary, clearly define the abbreviation or acronym at first instance and use consistently thereafter.
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+	<ul>		
+	<li>Presenting critical information without text labels creates issues with OCR interpret-ability (e.g., 1-800-000-0000 without a 'Customer Service Phone' text label is read as a number string).</li>
+	<li>Instructions sometimes refer to components and features inconsistently, which can make finding and following information difficult.</li>
+	<li>Certain practices create unnecessary ambiguity, such as referring to components or features generally as "this" or "that"; and using abbreviations/ acronyms.</li>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+<ul>
+	<li>Text label critical information such as the product website, customer service phone number, and customer service email so they are recognized as such by OCR applications (e.g., Customer Service Phone Number: 1-800-000-0000).</li>
+	<li>Use the same name for a component or feature throughout the instructions and labels on components or packaging.</li>
+	<li>Provide non-visual descriptive indicators when describing components or features.</li>
+	<li>Avoid use of abbreviations or acronyms. If it is necessary, clearly define the abbreviation or acronym at first instance and use consistently thereafter.</li>
+</ul>
+</div>
+	</div>
+		</div>
+		
+---------------------------------------
 
 ### 1.2 Package Design
 
 -   Identification
 -   Accessing Contents
 
-##### Identification
-
-![Box with examples of good identification features](../images/Box-with-examples-of-good-identification.jpg)
-
-Box with examples of good identification features
-
-Outer box packaging is the initial introduction to any device. It can directly convey information through standard text, braille, or other novel means. It can indirectly convey information through shape, material, folds, breaks, and links to codes.
-
-###### Issue
-
-![Box labeling viewable in only one orientation](../images/Box-labeling-viewable-in-only-one-oriention.jpg)
-
-Box labeling viewable in only one orientation
-
-Packages are often inadequately labeled. Boxes with nondescript panels may need to be rotated to ascertain contents.
-
-##### Recommendation
-
-![Box labeling viewable in multiple orientations](../images/Box-labeling-viewable-in-multiple-orientations.jpg)
-
-Box labeling viewable in multiple orientations
-
-Consider how the package might be displayed (e.g., on a shelf) and what information the user might find most useful to perceive in different orientations in that setting.
-
-###### Issue
-
-![Box labeling with poor legibility](../images/Box-labeling-with-poor-legibility.jpg)
-
-Box labeling with poor legibility
-
-Much of standard packaging is filled with lots of information in a small (less than 14 pt) font.
-
-###### Recommendation
-
-![Box labeling with improved legibility](../images/Box-labeling-with-improved-legibility.jpg)
-
-Box labeling with improved legibility
-
--   Provide key information in large (14 pt minimum) sans serif font that is easy to read (e.g., Arial, Calibri, etc.). Do not use decorative fonts (e.g., Script, Slab).
--   Key information includes brand name, device type, expiration date, links to instructions, and customer service phone number. Manufacturers should assure that labeling complies with regulatory bodies.
-
-###### Issue
-
-![Poor color combination; packaging with poor legibility](../images/Poor-color-combination-packaging-with-poor-legibility.jpg)
-
-Poor color combination; packaging with poor legibility
-
-Much of standard packaging is filled with lots of information with poor color contrast.
-
-###### Recommendation
-
-![Recommended color combination; legible packaging](../images/Recommended-color-combination-legible-packaging.jpg)
-
-Recommended color combination; legible packaging
-
-Use effective color contrast on outer packaging (refer to pg. 12 for design considerations).
-
-###### Issue
-
-![QR code is too small to easily locate](../images/QR-code-is-too-small-to-easily-locate.jpg)
-
-QR code is too small to easily locate
-
--   QR codes are often missing or insufficiently sized (one-half inch square or less).
--   Expiration date format is not recognizable by common OCR applications (refer to pg. 11 for more detail).
-
-###### Recommendation
-
-![QR code is large and readily discoverable](../images/QR-code-is-large-and-readily-discoverable.jpg)
-
-QR code is large and readily discoverable
-
--   Present QR codes in size larger than one-half inch square.
--   Refer to pg. 11 for guidance on expiration date formatting.
-
-###### Issue
-
-![Example of a flat QR](../images/Example-of-a-flat-QR.jpg)
-
-Example of a flat QR
-
-There are generally no tactile features on the surfaces of standard boxes, which would otherwise allow for a no-vision or low-vision user to identify package contents, either through a QR code or through braille.
-
-###### Recommendation
-
-![Alternatives to flat QR codes](../images/Alternatives-to-flat-QR-codes.jpg)
-
-Alternatives to flat QR codes
-
-Provide a means to tactilely find encoded information (e.g., a raised sticker, or raised outline). A QR code should be the primary way for a user to obtain information; braille and embossed lettering are appropriate secondary methods.
-
-##### Accessing Contents
-
-![Package with tamper evident seal](../images/Package-with-tamper-evident-seal.jpg)
-
-Package with tamper evident seal
-
-Opening and accessing packaging requires a balance of competing needs:
-
--   Preventing unauthorized users from tampering with contents
--   Ensuring the package is easy to open
--   Minimizing jostling of internal components
-
-###### Issue
-
-![Difficult to remove tamper-proof seal](../images/Difficult-to-remove-tamper-proof-seal.jpg)
-
-Difficult to remove tamper-proof seal
-
--   Tamper-proof seals are often small, round adhesive stickers that can be challenging to find and to remove, especially for low-dexterity users.
--   Tearing open a package without removing the sticker frequently results in the package being damaged and contents being disorganized and potentially misplaced.
-
-###### Recommendation
-
-![Easy to remove tamper-proof seal](../images/Easy-to-remove-tamper-proof-seal.jpg)
-
-Easy to remove tamper-proof seal
-
--   The grasp surface on the tamper-proof seal should be adequate for fingers to grasp, allowing users with low dexterity to easily remove it. If a feature to grasp is being provided, provide at least one-half inch square of graspable area.
--   Force to remove a label or open a pouch/package should not exceed five pounds.
-
-###### Issue
-
-![Difficult to remove tamper-proof seal](../images/Difficult-to-remove-tamper-proof-seal-2.jpg)
-
-Difficult to remove tamper-proof seal
-
--   When faced with this tamper-proof seal, many users resort to external tools such as scissors and knives to open the package, which may result in damaging contents.
--   Many tamper-proof seals are clear, making them challenging to find for low-vision users.
-
-###### Recommendation
-
-![Easy to remove tamper-proof seal](../images/Easy-to-remove-tamper-proof-seal-2.jpg)
-
-Easy to remove tamper-proof seal
-
--   Provide a tamper-proof seal that is easy to find and easy to remove for everyone. Allow users to grasp features easily and complete the action required to remove without the need for external tools.
--   The tamper-proof seal should be a contrasting color to the rest of the package.
-
-###### Issue
-
-![Package without intuitive opening](../images/Package-without-intuitive-opening.jpg)
-
-Package without intuitive opening
-
-It can be challenging to understand how to open a package (e.g., How does the lid open? Is there a place where the top and bottom separate?), especially for no-vision and low-vision users, when the only indication regarding top, bottom, front, and back is through visual, printed labeling.
-
-###### Recommendation
-
-![Packages with opening cues](../images/Packages-with-opening-cues.jpg)
-
-Packages with opening cues
-
-Provide familiar tactile cues on the packaging indicating which part is meant to be moved, removed, or separated (e.g., perforated tear tab, thumb cutout, overlapping flaps).
-
-###### Issue
-
-![Plain box with no divots](../images/Package-without-intuitive-opening.jpg)
-
-Plain box with no divots
-
-It can be challenging to physically open a package when there are no affordances provided to grasp and pull or push.
-
-###### Recommendation
-
-![Boxes with divots and flaps](../images/Boxes-with-divots-and-flaps.jpg)
-
-Boxes with divots and flaps
-
-Include features for opening the package which accommodate users' fingers and a variety of hand sizes to ensure opening methods require low force.
+---------------------------------------
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h5>Identification</h5>
+	<p>Outer box packaging is the initial introduction to any device. It can directly convey information through standard text, braille, or other novel means. It can indirectly convey information through shape, material, folds, breaks, and links to codes.</p>
+    </div>
+    <div class="tablet:grid-col">
+      <img class="img-full" src="../images/Box-with-examples-of-good-identification.jpg" alt="Box with examples of good identification features">
+      <span class="grid-line text-italic">Box with examples of good identification features</span>
+</div>
+	</div>
+		</div>
+
+---------------------------------------
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Box-labeling-viewable-in-only-one-oriention.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Box labeling viewable in only one orientation</span>		
+	<p>Packages are often inadequately labeled. Boxes with nondescript panels may need to be rotated to ascertain contents.</p>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Box-labeling-viewable-in-multiple-orientations.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Box labeling viewable in multiple orientations</span>
+<p>Consider how the package might be displayed (e.g., on a shelf) and what information the user might find most useful to perceive in different orientations in that setting.</p>
+</div>
+	</div>
+		</div>
+
+---------------------------------------
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Box-labeling-with-poor-legibility.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Box labeling with poor legibility</span>		
+	<p>Much of standard packaging is filled with lots of information in a small (less than 14 pt) font.</p>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Box-labeling-with-improved-legibility.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Box labeling with improved legibility</span>
+<ul>
+<li>Provide key information in large (14 pt minimum) sans serif font that is easy to read (e.g., Arial, Calibri, etc.). Do not use decorative fonts (e.g., Script, Slab).</li>
+<li>Key information includes brand name, device type, expiration date, links to instructions, and customer service phone number. Manufacturers should assure that labeling complies with regulatory bodies.</li>
+</ul>
+</div>
+	</div>
+		</div>
+
+---------------------------------------
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Poor-color-combination-packaging-with-poor-legibility.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Poor color combination; packaging with poor legibility</span>		
+	<p>Much of standard packaging is filled with lots of information with poor color contrast.</p>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Recommended-color-combination-legible-packaging.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Recommended color combination; legible packaging</span>
+	<p>Use effective color contrast on outer packaging (refer to pg. 12 for design considerations).</p>
+</div>
+	</div>
+		</div>
+
+---------------------------------------
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/QR-code-is-too-small-to-easily-locate.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">QR code is too small to easily locate</span>
+	<ul>		
+	<li>QR codes are often missing or insufficiently sized (one-half inch square or less).</li>
+	<li>Expiration date format is not recognizable by common OCR applications (refer to pg. 11 for more detail).</li>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/QR-code-is-large-and-readily-discoverable.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">QR code is large and readily discoverable</span>
+	<ul>
+		<li>Present QR codes in size larger than one-half inch square.</li>
+		<li>Refer to pg. 11 for guidance on expiration date formatting.</li>
+	</ul>
+</div>
+	</div>
+		</div>
+		
+---------------------------------------
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Example-of-a-flat-QR.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Example of a flat QR</span>	
+	<p>There are generally no tactile features on the surfaces of standard boxes, which would otherwise allow for a no-vision or low-vision user to identify package contents, either through a QR code or through braille.</p>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Alternatives-to-flat-QR-codes.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Alternatives to flat QR codes</span>
+<p>Provide a means to tactilely find encoded information (e.g., a raised sticker, or raised outline). A QR code should be the primary way for a user to obtain information; braille and embossed lettering are appropriate secondary methods.</p>
+</div>
+	</div>
+		</div>
+
+---------------------------------------
+
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h5>Accessing Contents</h5>
+	<p>Opening and accessing packaging requires a balance of competing needs:</p>
+	    <ul>
+	<li>Preventing unauthorized users from tampering with contents</li>
+	<li>Ensuring the package is easy to open</li>
+	<li>Minimizing jostling of internal components</li>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+      <img class="img-full" src="../images/Package-with-tamper-evident-seal.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Package with tamper evident seal</span>
+</div>
+	</div>
+		</div>
+
+---------------------------------------
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Difficult-to-remove-tamper-proof-seal.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Difficult to remove tamper-proof seal</span>
+	<ul>		
+	<li>Tamper-proof seals are often small, round adhesive stickers that can be challenging to find and to remove, especially for low-dexterity users.</li>
+	<li>Tearing open a package without removing the sticker frequently results in the package being damaged and contents being disorganized and potentially misplaced.</li>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Easy-to-remove-tamper-proof-seal.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Easy to remove tamper-proof seal</span>
+<ul>
+<li>The grasp surface on the tamper-proof seal should be adequate for fingers to grasp, allowing users with low dexterity to easily remove it. If a feature to grasp is being provided, provide at least one-half inch square of graspable area.</li>
+<li>Force to remove a label or open a pouch/package should not exceed five pounds.</li>
+</ul>
+</div>
+	</div>
+		</div>
+
+---------------------------------------
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Difficult-to-remove-tamper-proof-seal-2.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Difficult to remove tamper-proof seal</span>
+	<ul>		
+	<li>When faced with this tamper-proof seal, many users resort to external tools such as scissors and knives to open the package, which may result in damaging contents.</li>
+	<li>Many tamper-proof seals are clear, making them challenging to find for low-vision users.</li>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Easy-to-remove-tamper-proof-seal-2.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Easy to remove tamper-proof seal</span>
+<ul>
+<li>Provide a tamper-proof seal that is easy to find and easy to remove for everyone. Allow users to grasp features easily and complete the action required to remove without the need for external tools.</li>
+<li>The tamper-proof seal should be a contrasting color to the rest of the package.</li>
+</ul>
+</div>
+	</div>
+		</div>
+
+---------------------------------------
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Package-without-intuitive-opening.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Package without intuitive opening</span>	
+		<p>It can be challenging to understand how to open a package (e.g., How does the lid open? Is there a place where the top and bottom separate?), especially for no-vision and low-vision users, when the only indication regarding top, bottom, front, and back is through visual, printed labeling.</p>
+</div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Packages-with-opening-cues.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Packages with opening cues</span>
+		<p>Provide familiar tactile cues on the packaging indicating which part is meant to be moved, removed, or separated (e.g., perforated tear tab, thumb cutout, overlapping flaps).</p>
+</div>
+	</div>
+		</div>
+
+---------------------------------------
+
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Package-without-intuitive-opening.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Plain box with no divots</span>		
+		<p>It can be challenging to physically open a package when there are no affordances provided to grasp and pull or push.</p>
+</div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Boxes-with-divots-and-flaps.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Boxes with divots and flaps</span>
+		<p>Include features for opening the package which accommodate users' fingers and a variety of hand sizes to ensure opening methods require low force.</p>
+</div>
+	</div>
+		</div>
+		
+---------------------------------------
 
 ### 1.3 Kit Design
 
