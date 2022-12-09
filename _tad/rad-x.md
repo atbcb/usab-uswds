@@ -127,7 +127,7 @@ Instructions for use
 </ul>
     </div>
 
-<br>
+<br/>
 
 
 ###### Issue
