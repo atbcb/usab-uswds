@@ -159,299 +159,246 @@ Tube Holder
   </div>
 </div>
 <hr />
-<div class="grid-container">
-  <div class="grid-row">
-    <div class="tablet:grid-col">
-	    <h5>General Readability and Layout</h5>
-	<p>Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.</p>
-    </div>
-    <div class="tablet:grid-col">
-      <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Layout considerations for readability">
-      <span class="grid-line text-italic">Layout considerations for readability</span>
-</div>
-	</div>
-		</div>
 
----------------------------------------
+
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-	<ul>		
-	<li>Too much information can be presented in a format that is difficult to follow. It can be difficult to understand what is meant to be read and in what order.</li>
-	<li>Steps requiring multiple actions or tasks are challenging for all to follow. Multiple steps that take up different amounts of page 'real estate' are difficult to scan for low-vision users.</li>
-</ul>
+      <h5>General Readability and Layout</h5>
+      <p>Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.</p>
     </div>
-    <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-<ul>
-	<li>Provide a single, actionable task for each step.</li>
-	<li>Break text into block paragraphs using bullet points when possible. As a best practice for all lay users, write short sentences at a 7th grade reading level.</li>
-</ul>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Layout considerations for readability"> <span class="grid-line text-italic">Layout considerations for readability</span> </div>
+  </div>
 </div>
-	</div>
-		</div>
-
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/Text-layout-with-inconsistent-information-flow.jpg" alt="Text layout with inconsistent information flow">
-      <span class="grid-line text-italic">Text layout with inconsistent information flow</span>
-	<ul>		
-	<li>Blocks of text are sometimes presented in different layouts, some left to right and others top to bottom, making following along cumbersome.</li>
-	<li>Lack of breaks in large blocks of text make the information difficult to digest and wide columns can make low-vision users dizzy.</li>
-</ul>
+      <h6>Issue</h6>
+      <ul>
+        <li>Too much information can be presented in a format that is difficult to follow. It can be difficult to understand what is meant to be read and in what order.</li>
+        <li>Steps requiring multiple actions or tasks are challenging for all to follow. Multiple steps that take up different amounts of page 'real estate' are difficult to scan for low-vision users.</li>
+      </ul>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/Recommended-text-layout-and-information-flow.jpg" alt="Recommended text layout and in formation flow">
-      <span class="grid-line text-italic">Recommended text layout and in formation flow</span>
-<ul>
-<li>Use a consistent layout. A columnar layout works best. Use the flow scheme shown above. Blocks are arranged in columns; columns are arranged left to right. Use narrow columns.</li>
-<li>Present document in landscape format if possible.</li>
-<li>Include a margin of at least three pixels between rows and columns.</li>
-</ul>
+      <h6>Recommendation</h6>
+      <ul>
+        <li>Provide a single, actionable task for each step.</li>
+        <li>Break text into block paragraphs using bullet points when possible. As a best practice for all lay users, write short sentences at a 7th grade reading level.</li>
+      </ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/Numerous-warnings-embedded-in-copy.jpg" alt="Numerous warnings embedded in copy">
-      <span class="grid-line text-italic">Numerous warnings embedded in copy</span>		
-	<p>Multiple warnings are presented inconsistently making it hard to locate them or allow the truly important warnings to attract the appropriate amount of attention.</p>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/Text-layout-with-inconsistent-information-flow.jpg" alt="Text layout with inconsistent information flow"> <span class="grid-line text-italic">Text layout with inconsistent information flow</span>
+      <ul>
+        <li>Blocks of text are sometimes presented in different layouts, some left to right and others top to bottom, making following along cumbersome.</li>
+        <li>Lack of breaks in large blocks of text make the information difficult to digest and wide columns can make low-vision users dizzy.</li>
+      </ul>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/Targeted-warnings-visually-differentiated-from-plain-copy.jpg" alt="Targeted warnings, visually differentiated from plain copy">
-      <span class="grid-line text-italic">Targeted warnings, visually differentiated from plain copy</span>
-<p>Esential warnings (e.g., those where use error is associated with the greatest risk of an invalid test result) should be communicated in a consistent manner (e.g., bold, red font).</p>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/Recommended-text-layout-and-information-flow.jpg" alt="Recommended text layout and in formation flow"> <span class="grid-line text-italic">Recommended text layout and in formation flow</span>
+      <ul>
+        <li>Use a consistent layout. A columnar layout works best. Use the flow scheme shown above. Blocks are arranged in columns; columns are arranged left to right. Use narrow columns.</li>
+        <li>Present document in landscape format if possible.</li>
+        <li>Include a margin of at least three pixels between rows and columns.</li>
+      </ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h5>Physical Embodiment</h5>
-	<p>Instructions can be provided in a number of ways: on a card, on paper, on a fold out, or in a booklet. The mode in which physical instructions are provided can impact readability and usability.</p>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/Numerous-warnings-embedded-in-copy.jpg" alt="Numerous warnings embedded in copy"> <span class="grid-line text-italic">Numerous warnings embedded in copy</span>
+      <p>Multiple warnings are presented inconsistently making it hard to locate them or allow the truly important warnings to attract the appropriate amount of attention.</p>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Folded instruction sheet illustration.">
-      <span class="grid-line text-italic">Instructions for use</span>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/Targeted-warnings-visually-differentiated-from-plain-copy.jpg" alt="Targeted warnings, visually differentiated from plain copy"> <span class="grid-line text-italic">Targeted warnings, visually differentiated from plain copy</span>
+      <p>Esential warnings (e.g., those where use error is associated with the greatest risk of an invalid test result) should be communicated in a consistent manner (e.g., bold, red font).</p>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/Information-split-along-paper-fold.jpg" alt="Information split along paper fold">
-      <span class="grid-line text-italic">Information split along paper fold</span>		
-	<p>Large instruction panels with folds can result in text crossing over folds. Same-topic information may be split across front and back panels, resulting in reduced readability.</p>
+      <h5>Physical Embodiment</h5>
+      <p>Instructions can be provided in a number of ways: on a card, on paper, on a fold out, or in a booklet. The mode in which physical instructions are provided can impact readability and usability.</p>
     </div>
-    <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/Information-contained-within-folded-panels.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Information contained within folded panels</span>
-<ul>
-<li>Ensure paper creases only appear in the margins of text columns. Text columns should be equal width.</li>
-<li>Including text column gutters on folds may make it easier to scan parts of a folded document for OCR.</li>
-<li>Place all information needed to run the test on one side of the paper or card. The other side can be used for supporting information.</li>
-</ul>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Folded instruction sheet illustration."> <span class="grid-line text-italic">Instructions for use</span> </div>
+  </div>
 </div>
-	</div>
-		</div>
-		
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/Instructions-that-require-full-unfolding.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Instructions that require full unfolding</span>
-	<ul>		
-	<li>It can be difficult to physically place instructions adjacent to the components due to size or material making them difficult to reference while using the test.</li>
-	<li>Tests with fluid can result in spills which can deteriorate less robust instructional materials.</li>
-</ul>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/Information-split-along-paper-fold.jpg" alt="Information split along paper fold"> <span class="grid-line text-italic">Information split along paper fold</span>
+      <p>Large instruction panels with folds can result in text crossing over folds. Same-topic information may be split across front and back panels, resulting in reduced readability.</p>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/Instructions-that-can-be-unfolded-by-section.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Instructions that can be unfolded by section</span>
-<ul>
-<li>Provide instructions in a manner that they can be placed adjacent to a test kit on a table.</li>
-<li>Consider that lighter paper weights allow instructions to lay flat. Use materials which can withstand some amount of liquid spill. If coatings are used, limit reflectivity.</li>
-</ul>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/Information-contained-within-folded-panels.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Information contained within folded panels</span>
+      <ul>
+        <li>Ensure paper creases only appear in the margins of text columns. Text columns should be equal width.</li>
+        <li>Including text column gutters on folds may make it easier to scan parts of a folded document for OCR.</li>
+        <li>Place all information needed to run the test on one side of the paper or card. The other side can be used for supporting information.</li>
+      </ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/Instructions-are-too-large-for-scanning.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Instructions are too large for scanning</span>		
-	<p>Paper (or similar) documents may be provided in an incompatible format for assistive technologies. Pages or panels may be too large for flatbed scanners and smartphone OCR. Multiple panels without numbering make it difficult to navigate from page to page.</p>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/Instructions-that-require-full-unfolding.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions that require full unfolding</span>
+      <ul>
+        <li>It can be difficult to physically place instructions adjacent to the components due to size or material making them difficult to reference while using the test.</li>
+        <li>Tests with fluid can result in spills which can deteriorate less robust instructional materials.</li>
+      </ul>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/Instructions-are-an-appropriate-size-for-scanning.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Instructions are an appropriate size for scanning</span>
-<ul>
-<li>Provide paper (or similar) documents in panels no larger than letter paper dimensions (8.5" x 11").</li>
-<li>Use page numbers for multiple panels on the front and back.</li>
-</ul>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/Instructions-that-can-be-unfolded-by-section.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions that can be unfolded by section</span>
+      <ul>
+        <li>Provide instructions in a manner that they can be placed adjacent to a test kit on a table.</li>
+        <li>Consider that lighter paper weights allow instructions to lay flat. Use materials which can withstand some amount of liquid spill. If coatings are used, limit reflectivity.</li>
+      </ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h5>Graphics, Images and Symbols</h5>
-	<p>Graphics, images, and symbols can be an effective way for users to quickly perceive and understand information.</p>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/Instructions-are-too-large-for-scanning.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions are too large for scanning</span>
+      <p>Paper (or similar) documents may be provided in an incompatible format for assistive technologies. Pages or panels may be too large for flatbed scanners and smartphone OCR. Multiple panels without numbering make it difficult to navigate from page to page.</p>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="../images/Arrows-show-user-interaction.jpg" alt="Arrows show user interaction with product">
-      <span class="grid-line text-italic">Arrows show user interaction with product</span>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/Instructions-are-an-appropriate-size-for-scanning.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions are an appropriate size for scanning</span>
+      <ul>
+        <li>Provide paper (or similar) documents in panels no larger than letter paper dimensions (8.5" x 11").</li>
+        <li>Use page numbers for multiple panels on the front and back.</li>
+      </ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/Photo-backgrounds-distract-from-product.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Photo backgrounds distract from product</span>		
-	<p>Photos contain extra, unnecessary information making them difficult for low-vision users to perceive.</p>
+      <h5>Graphics, Images and Symbols</h5>
+      <p>Graphics, images, and symbols can be an effective way for users to quickly perceive and understand information.</p>
     </div>
-    <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/Line-drawings-improve-comprehension.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Line drawings improve comprehension</span>
-<ul>
-<li>Use high-quality, high-contrast, thick line drawings with perspective instead of photos.</li>
-<li>Use varying line weights to distinguish detail and accent features (e.g., 0.5 pt -- 1.5 pt for lines and 3 pt -- 4 pt for accent features).</li>
-</ul>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Arrows-show-user-interaction.jpg" alt="Arrows show user interaction with product"> <span class="grid-line text-italic">Arrows show user interaction with product</span> </div>
+  </div>
 </div>
-	</div>
-		</div>
-
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/2D-thin-line-and-low-contrast-drawings.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">2D thin line and low-contrast drawings</span>	
-	<p>It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.</p>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/Photo-backgrounds-distract-from-product.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Photo backgrounds distract from product</span>
+      <p>Photos contain extra, unnecessary information making them difficult for low-vision users to perceive.</p>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/3D-drawing-with-appropriate-line-thickness.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">3D drawing with appropriate line thickness</span>
-<p>Where possible, use 3D renderings with perspective and solid colors.</p>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/Line-drawings-improve-comprehension.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Line drawings improve comprehension</span>
+      <ul>
+        <li>Use high-quality, high-contrast, thick line drawings with perspective instead of photos.</li>
+        <li>Use varying line weights to distinguish detail and accent features (e.g., 0.5 pt -- 1.5 pt for lines and 3 pt -- 4 pt for accent features).</li>
+      </ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/Images-without-context.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Images without context</span>
-	<ul>		
-	<li>Images without context do not inform readers about relative component size.</li>
-	<li>They force the reader to guess where and how components are to be utilized.</li>
-</ul>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/2D-thin-line-and-low-contrast-drawings.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">2D thin line and low-contrast drawings</span>
+      <p>It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.</p>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/Images-with-context.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Images with context</span>
-<ul>
-<li>Make use of graphics that provide physical context for the reader (e.g., include hands, noses).</li>
-<li>Use only enough detail on features to clarify their purpose (e.g., a drawing of a head does not need to include hair).</li>
-</ul>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/3D-drawing-with-appropriate-line-thickness.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">3D drawing with appropriate line thickness</span>
+      <p>Where possible, use 3D renderings with perspective and solid colors.</p>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-		
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/Non-standard-symbols.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Non-standard symbols</span>		
-	<p>Symbols are hard to understand if they are arbitrarily chosen or region-specific. Their meaning may not be obvious to the reader.</p>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/Images-without-context.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Images without context</span>
+      <ul>
+        <li>Images without context do not inform readers about relative component size.</li>
+        <li>They force the reader to guess where and how components are to be utilized.</li>
+      </ul>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/Standard-symbols.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Standard symbols</span>
-<p>Use unambiguous and globally accepted symbols. Include a symbol key that is findable and near the symbol or include text labeling immediately adjacent to it. Follow the International Organization for Standardization (ISO) 15223 standard for symbols used on medical device packaging.</p>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/Images-with-context.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Images with context</span>
+      <ul>
+        <li>Make use of graphics that provide physical context for the reader (e.g., include hands, noses).</li>
+        <li>Use only enough detail on features to clarify their purpose (e.g., a drawing of a head does not need to include hair).</li>
+      </ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-		
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/Drawings-without-realistic-detail.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Drawings without realistic detail</span>
-	<p>Graphics that are not presented with details that match the actual components may cause confusion.</p>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/Non-standard-symbols.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Non-standard symbols</span>
+      <p>Symbols are hard to understand if they are arbitrarily chosen or region-specific. Their meaning may not be obvious to the reader.</p>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/Drawings-with-realistic-detail.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Drawings with realistic detail</span>
-<ul>
-<li>Make sure graphics/images match the actual appearance of the components (e.g., if a cap is gray, do not illustrate in white; if the cartridge has text or other markings on it, include these in graphics).</li>
-<li>Use grayscale sparingly and retain outlining of gray features.</li>
-</ul>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/Standard-symbols.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Standard symbols</span>
+      <p>Use unambiguous and globally accepted symbols. Include a symbol key that is findable and near the symbol or include text labeling immediately adjacent to it. Follow the International Organization for Standardization (ISO) 15223 standard for symbols used on medical device packaging.</p>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-
----------------------------------------
+<hr />
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/Drawings-without-realistic-detail.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Drawings without realistic detail</span>
+      <p>Graphics that are not presented with details that match the actual components may cause confusion.</p>
+    </div>
+    <div class="tablet:grid-col">
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/Drawings-with-realistic-detail.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Drawings with realistic detail</span>
+      <ul>
+        <li>Make sure graphics/images match the actual appearance of the components (e.g., if a cap is gray, do not illustrate in white; if the cartridge has text or other markings on it, include these in graphics).</li>
+        <li>Use grayscale sparingly and retain outlining of gray features.</li>
+      </ul>
+    </div>
+  </div>
+</div>
+<hr />
 
 #### Language
 
 The vocabulary used in instructions is key to a user's ability to understand what is required. Presenting information in plain, clear, concise language is critical to ensuring a user's understanding of how to use the test kit.
 
----------------------------------------
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -475,14 +422,14 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	</div>
 		</div>
 		
----------------------------------------
+---
 
 ### 1.2 Package Design
 
 -   Identification
 -   Accessing Contents
 
----------------------------------------
+---
 
 <div class="grid-container">
   <div class="grid-row">
