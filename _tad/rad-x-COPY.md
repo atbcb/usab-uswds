@@ -283,7 +283,7 @@ Line drawings improve comprehension
 
 It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.
 
-![2D thin line and low-contrast drawings](../imgae2D-thin-line-and-low-contrast-drawings.jpg)
+![2D thin line and low-contrast drawings](../images/2D-thin-line-and-low-contrast-drawings.jpg)
 
 2D thin line and low-contrast drawings
 
