@@ -69,6 +69,8 @@ Test Reader
 Tube Holder
 : Device which holds a Fluid Vial in an upright position.
 
+---------------------------------------
+
 ## Chapter 1
 
 ### Physical Components
@@ -237,14 +239,6 @@ Tube Holder
 
 ---------------------------------------
 
-###### Recommendation
-
-![Targeted warnings, visually differentiated from plain copy](../images/Targeted-warnings-visually-differentiated-from-plain-copy.jpg)
-
-Targeted warnings, visually differentiated from plain copy
-
-Essential warnings (e.g., those where use error is associated with the greatest risk of an invalid test result) should be communicated in a consistent manner (e.g., bold, red font).
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -390,7 +384,7 @@ Essential warnings (e.g., those where use error is associated with the greatest 
   <div class="grid-row">
     <div class="tablet:grid-col">
 	    <h6>Issue</h6>
-      <img class="img-full" src="../2D-thin-line-and-low-contrast-drawings.jpg" alt="NEED ALT-TEXT">
+      <img class="img-full" src="../images/2D-thin-line-and-low-contrast-drawings.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">2D thin line and low-contrast drawings</span>	
 	<p>It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.</p>
     </div>
