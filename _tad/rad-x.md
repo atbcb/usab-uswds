@@ -104,10 +104,11 @@ Instructions for use
 -   Minimize italics
 -   Do not use all capital letters
 -   Avoid/minimize underlining
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}/images/instructions-issue.jpg" alt="NEED ALT-TEXT">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}/_tad/images/instructions-issue.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic"> Key information hard to distinguish</span>
 <span class="grid-line text-italic">
 -   Content is displayed such that it is challenging to distinguish key and supporting information.
@@ -116,7 +117,7 @@ Instructions for use
 </span>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}/images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}/_tad/images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Key information stands apart</span>
 <span class="grid-line text-italic">
 -   Present key information in large and/or boldface type. (Use minimum of 14 pt).
