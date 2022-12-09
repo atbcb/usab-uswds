@@ -138,15 +138,12 @@ Instructions for use
       <img class="img-full" src="{{ site.baseurl }}../images/text-perception-issue.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Poor color combination; instructions with poor legibility</span>
 	<p>Information can be provided with inappropriate color contrast.  It can be challenging to perceive key information.</p>
-</ul>
     </div>
     <div class="tablet:grid-col">
 	<h5>Recommendation</h5>
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}../images/text-perception-recommendation.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Recommended color combination; legible instructions</span>
-<ul>
 <p>Color contrast needs to allow for better differentiation between the text and background.  Provide a minimum contrast ratio of 4.5:1 for 14 pt or smaller and 3:1 for larger text. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi's Colour Contrast Analyser (CCA).</p>
-</ul>
 </div>
 	</div>
 		</div>
