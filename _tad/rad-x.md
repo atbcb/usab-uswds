@@ -105,25 +105,37 @@ Instructions for use
 -   Do not use all capital letters
 -   Avoid/minimize underlining
 
-<figure class="img-left">
-	<img src="{{ site.baseurl }}/images/instructions-issue.jpg "
+<table>
+  <tr>
+    <th style="width:50%">Features</th>
+    <th>Basic</th>
+    <th>Pro</th>
+  </tr>
+  <tr>
+    <td><img src="{{ site.baseurl }}/images/instructions-issue.jpg "
 			 alt="Door with adjacent sign and square on ground next to door frame centered to the sign." />
-<figcaption>
--   Content is displayed such that it is challenging to distinguish key and supporting information.
--   Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.
--   Expiration date is presented as a number string (e.g., YYYY-MM-DD or MM/DD/YYYY) only, which OCR applications do not recognize as dates.
-	</figcaption>
-</figure>
-<figure class="img-right">
-	<img src="{{ site.baseurl }}/images/instructions-recommendation.jpg "
-			 alt="Woman standing in square on ground tactilely reading sign beyond swing of door open 45 degrees." />
 	<figcaption>
+		Key information hard to distinguish
+	</figcaption>
+</td>
+    <td>
 -   Present key information in large and/or boldface type. (Use minimum of 14 pt).
 -   Provide QR codes measuring larger than one-half inch square.
--   Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before <date>' or 'Do no use after <date>'. 
-	</figcaption>
-</figure>
-<br class="clear" />
+-   Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before <date>' or 'Do no use after <date>'.</i></td>
+    <td><i class="fa fa-check"></i></td>
+  </tr>
+  <tr>
+    <td><img src="{{ site.baseurl }}/images/instructions-recommendation.jpg "
+			 alt="Woman standing in square on ground tactilely reading sign beyond swing of door open 45 degrees." /></td>
+    <td>	<figcaption>
+		Key information stands apart
+	</figcaption></i></td>
+    <td>
+-   Present key information in large and/or boldface type. (Use minimum of 14 pt).
+-   Provide QR codes measuring larger than one-half inch square.
+-   Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before <date>' or 'Do no use after <date>'.</i></td>
+  </tr>
+</table>
 
 ###### Issue
 
