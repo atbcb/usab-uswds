@@ -109,7 +109,7 @@ Instructions for use
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h5>Issue</h5>
+	    <h6>Issue</h6>
       <img class="img-full" src="{{ site.baseurl }}/images/tad/instructions-issue.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic"> Key information hard to distinguish</span>
 	<ul>		
@@ -119,7 +119,7 @@ Instructions for use
 </ul>
     </div>
     <div class="tablet:grid-col">
-	<h5>Recommendation</h5>
+	<h6>Recommendation</h6>
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}instructions-recommendation.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Key information stands apart</span>
 <ul>
@@ -132,21 +132,27 @@ Instructions for use
 		</div>
 
 
-###### Issue
 
-Information can be provided with inappropriate color contrast.  It can be challenging to perceive key information.
 
-![Poor color combination; Instructions with poor legibility](../images/text-perception-issue.jpg)
-
-Poor color combination; Instructions with poor legibility
-
-###### Recommendation
-
-Color contrast needs to allow for better differentiation between the text and background.  Provide a minimum contrast ratio of 4.5:1 for 14 pt or smaller and 3:1 for larger text. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi's Colour Contrast Analyser (CCA).
-
-![Recommended color combination; legible instructions](../images/text-perception-recommendation.jpg)
-
-Recommended color combination; legible instructions
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h5>Issue</h5>
+      <img class="img-full" src="{{ site.baseurl }}../images/text-perception-issue.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Poor color combination; instructions with poor legibility</span>
+	<p>Information can be provided with inappropriate color contrast.  It can be challenging to perceive key information.</p>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+	<h5>Recommendation</h5>
+      <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}../images/text-perception-recommendation.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Recommended color combination; legible instructions</span>
+<ul>
+<p>Color contrast needs to allow for better differentiation between the text and background.  Provide a minimum contrast ratio of 4.5:1 for 14 pt or smaller and 3:1 for larger text. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi's Colour Contrast Analyser (CCA).</p>
+</ul>
+</div>
+	</div>
+		</div>
 
 ##### General Readability and Layout
 
