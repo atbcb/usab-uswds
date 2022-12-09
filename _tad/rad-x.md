@@ -68,7 +68,7 @@ Test Reader
 Tube Holder
 : Device which holds a Fluid Vial in an upright position.
 
----------------------------------------
+---
 
 ## Chapter 1
 
@@ -78,7 +78,7 @@ Tube Holder
 1.2 Packaging \
 1.3 Kitting
 
----------------------------------------
+---
 
 ### 1.1 Instructions/Accessing Information
 
@@ -88,94 +88,77 @@ Tube Holder
 -   Graphics, Images and Symbols
 -   Language
 
----------------------------------------
+---
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h5>Text Perception</h5>
-	<p>Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.</p>
+      <h5>Text Perception</h5>
+      <p>Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.</p>
     </div>
-    <div class="tablet:grid-col">
-      <img class="img-full" src="../images/Text-Perception.jpg" alt="Folded instruction sheet illustration.">
-      <span class="grid-line text-italic">Instructions for use</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Text-Perception.jpg" alt="Folded instruction sheet illustration."> <span class="grid-line text-italic">Instructions for use</span> </div>
+  </div>
 </div>
-	</div>
-		</div>
-
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-	<ul>		
-	<li>Some instructions include the use of hard to read fonts, italics, underlining, or other text features that increase the level of reading difficulty.</li>
-	<li>Instructions are also challenging to read when multiple fonts and typefaces are used.</li>
-</ul>
+      <h6>Issue</h6>
+      <ul>
+        <li>Some instructions include the use of hard to read fonts, italics, underlining, or other text features that increase the level of reading difficulty.</li>
+        <li>Instructions are also challenging to read when multiple fonts and typefaces are used.</li>
+      </ul>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-<ul>
-	<li>Consistently use a sans serif font that is easy to read such as Arial, Verdana, Helvetica, Calibri, etc.</li>
-	<li>Minimize italics</li>
-	<li>Do not use all capital letters</li>
-	<li>Avoid/minimize underlining</li>
-</ul>
+      <h6>Recommendation</h6>
+      <ul>
+        <li>Consistently use a sans serif font that is easy to read such as Arial, Verdana, Helvetica, Calibri, etc.</li>
+        <li>Minimize italics</li>
+        <li>Do not use all capital letters</li>
+        <li>Avoid/minimize underlining</li>
+      </ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-
-
----------------------------------------
-
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/instructions-issue.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic"> Key information hard to distinguish</span>
-	<ul>		
-	<li>Content is displayed such that it is challenging to distinguish key and supporting information.</li>
-	<li>Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.</li>
-	<li>Expiration date is presented as a number string (e.g., YYYY-MM-DD or MM/DD/YYYY) only, which OCR applications do not recognize as dates.</li>
-</ul>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/instructions-issue.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic"> Key information hard to distinguish</span>
+      <ul>
+        <li>Content is displayed such that it is challenging to distinguish key and supporting information.</li>
+        <li>Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.</li>
+        <li>Expiration date is presented as a number string (e.g., YYYY-MM-DD or MM/DD/YYYY) only, which OCR applications do not recognize as dates.</li>
+      </ul>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Key information stands apart</span>
-<ul>
-<li>Present key information in large and/or boldface type. (Use minimum of 14 pt).</li>
-<li>Provide QR codes measuring larger than one-half inch square.</li>
-<li>Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before [date]' or 'Do no use after [date]'.</li>
-</ul>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Key information stands apart</span>
+      <ul>
+        <li>Present key information in large and/or boldface type. (Use minimum of 14 pt).</li>
+        <li>Provide QR codes measuring larger than one-half inch square.</li>
+        <li>Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before [date]' or 'Do no use after [date]'.</li>
+      </ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-
----------------------------------------
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/text-perception-issue.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Poor color combination; instructions with poor legibility</span>
-	<p>Information can be provided with inappropriate color contrast.  It can be challenging to perceive key information.</p>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/text-perception-issue.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Poor color combination; instructions with poor legibility</span>
+      <p>Information can be provided with inappropriate color contrast.  It can be challenging to perceive key information.</p>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/text-perception-recommendation.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Recommended color combination; legible instructions</span>
-<p>Color contrast needs to allow for better differentiation between the text and background.  Provide a minimum contrast ratio of 4.5:1 for 14 pt or smaller and 3:1 for larger text. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi's Colour Contrast Analyser (CCA).</p>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/text-perception-recommendation.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Recommended color combination; legible instructions</span>
+      <p>Color contrast needs to allow for better differentiation between the text and background.  Provide a minimum contrast ratio of 4.5:1 for 14 pt or smaller and 3:1 for larger text. Contrast ratio compares relative luminance of text and background color and can be measured using free color contrast checker tools like TPGi's Colour Contrast Analyser (CCA).</p>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-
-* * * * *
-
+<hr />
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
