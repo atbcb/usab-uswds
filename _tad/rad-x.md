@@ -728,7 +728,7 @@ Instructions are provided in a format that is not compatible with use on a smart
 -   Ensure the QRG is available as a PDF that conforms to Section 508, WCAG 2.1 level AA, and PDF/Unive	rsal Accessibility (UA) standards.
 -   Ensure all images have meaningful, descriptive alternative ('alt') text, particularly when describing test components such that they can be discerned from one another non-visually.
 -   Ensure all form fields have accessible names/labels.
--   Consider providing a Digital Accessible Information System (DAISY) format of the QRG with sections and subsections defined in the file (See also Physical Components - Instructions/Accessing Information [above](#instructions-accessing-information)).
+-   Consider providing a Digital Accessible Information System (DAISY) format of the QRG with sections and subsections defined in the file (See also Physical Components - Instructions/Accessing Information [above](#11-instructionsaccessing-information)).
 -   Provide a link or button on the web page that leads the user to a full digital version of the instructions and allow users to request a large-print or braille copy be mailed to them at no charge.
 
 ###### Issue
