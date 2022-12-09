@@ -128,7 +128,8 @@ Instructions for use
     </div>
   </div>
 </div>
-<br/>
+	
+&nbsp;
 
 
 ###### Issue
