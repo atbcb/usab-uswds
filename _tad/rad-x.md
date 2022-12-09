@@ -118,7 +118,7 @@ Instructions for use
 </ul>
     </div>
     <div class="tablet:grid-col">
-      <img class="img-full" src="{{ site.baseurl }}../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
+      <img class="img-full" src="{{ site.baseurl }}./images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Key information stands apart</span>
 <ul>
 <li>Present key information in large and/or boldface type. (Use minimum of 14 pt).</li>
