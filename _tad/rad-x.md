@@ -129,8 +129,7 @@ Instructions for use
 	</div>
 		</div>
 			</div>
-	
-&nbsp;
+
 
 ###### Issue
 
