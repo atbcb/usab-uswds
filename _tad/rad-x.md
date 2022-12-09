@@ -862,6 +862,8 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	</div>
 		</div>
 
+---------------------------------------
+
 ## Chapter 2
 
 ### Digital Design
@@ -981,8 +983,6 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 		</div>
 
 ---------------------------------------
-
-The presence or absence of features in an application or web design can significantly impact usability and user satisfaction with the test. A small improvement in UI design can have a major impact on the entire user experience.
 
 <div class="grid-container">
   <div class="grid-row">
