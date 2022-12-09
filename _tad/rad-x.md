@@ -95,6 +95,8 @@ Tube Holder
 
 Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.
 
+* * * * *
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
