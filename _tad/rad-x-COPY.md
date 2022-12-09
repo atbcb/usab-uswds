@@ -1,6 +1,6 @@
 ---
 banner-title: Technical Assistance Documents
-title: 2Best Practices for the Design of Accessible COVID-19 Home Tests
+title: 2nd Best Practices for the Design of Accessible COVID-19 Home Tests
 permalink: /tad/radx2/
 toc-group: tad
 order-number: 3
