@@ -129,7 +129,9 @@ Instructions for use
 	</div>
 	  </div>
 	</div>
+	</div>
 <br>
+
 
 ###### Issue
 
