@@ -1162,7 +1162,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	</div>
 		</div>
 
----------------------------------------
+* * * * *
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1177,7 +1177,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	</div>
 		</div>
 
----------------------------------------
+* * * * *
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1213,14 +1213,18 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 </div>
 	</div>
 		</div>
-		
----------------------------------------
+	
+	
+* * * * *
+
 
 ##### Language in Digital Formats
 
 The vocabulary used in instructions impacts a user's ability to understand what is required of them throughout the test process. Presenting information in plain, clear, concise language is key to the user's understanding of how to perform the test.
 
----------------------------------------
+
+* * * * *
+
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1252,13 +1256,17 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 	</div>
 		</div>
 		
----------------------------------------
+		
+* * * * *
+
 
 ### 2.2 Test Procedure
 
 -   Connecting/Bluetooth Pairing
 
----------------------------------------
+
+* * * * *
+
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1273,7 +1281,9 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 	</div>
 		</div>
 
----------------------------------------
+
+* * * * *
+
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1298,7 +1308,9 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 	</div>
 		</div>
 
----------------------------------------
+
+* * * * *
+
 
 ### References
 
