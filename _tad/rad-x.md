@@ -93,12 +93,12 @@ Physical instruction in the form of text is one important way to convey informat
 
 Instructions for use
 
-###### Issues
+###### Issue
 
 -   Some instructions include the use of hard to read fonts, italics, underlining, or other text features that increase the level of reading difficulty.
 -   Instructions are also challenging to read when multiple fonts and typefaces are used.
 
-###### Recommendations
+###### Recommendation
 
 -   Consistently use a sans serif font that is easy to read such as Arial, Verdana, Helvetica, Calibri, etc.
 -   Minimize italics
@@ -109,6 +109,7 @@ Instructions for use
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
+	    <h5>Issue</h5>
       <img class="img-full" src="{{ site.baseurl }}/images/tad/instructions-issue.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic"> Key information hard to distinguish</span>
 	<ul>		
@@ -118,6 +119,7 @@ Instructions for use
 </ul>
     </div>
     <div class="tablet:grid-col">
+	<h5>Recommendation</h5>
       <img class="img-full" src="{{ site.baseurl }}{{ page.image-directory }}instructions-recommendation.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Key information stands apart</span>
 <ul>
