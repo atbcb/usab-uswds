@@ -1,7 +1,7 @@
 ---
 banner-title: Technical Assistance Documents
-title: Best Practices for the Design of Accessible COVID-19 Home Tests
-permalink: /tad/radx-copy/
+title: 2Best Practices for the Design of Accessible COVID-19 Home Tests
+permalink: /tad/radx2/
 toc-group: tad
 order-number: 3
 right-sidenav: sidenav-right-universal.html
@@ -10,10 +10,7 @@ ta-email-pre: ta
 file: /files/mde/radx-bp.pdf
 file-description: Best Practices for the Design of Accessible COVID-19 Home Tests, PDF format
 ---
-
 ## {{ page.title }}
-
-This is backup version, no figure, no layout tables.  Images follow bullet lists.
 
 ### Introduction
 
