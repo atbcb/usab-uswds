@@ -85,9 +85,6 @@ Tube Holder
 -   Graphics, Images and Symbols
 -   Language
 
-##### Text Perception
-
-Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.
 
 <div class="grid-container">
   <div class="grid-row">
@@ -115,12 +112,10 @@ Physical instruction in the form of text is one important way to convey informat
     </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Key information stands apart</span>
 <ul>
-<li>Consistently use a sans serif font that is easy to read such as Arial, Verdana, Helvetica, Calibri, etc.</li>
-<li>Minimize italics</li>
-<li>Do not use all capital letters</li>
+	<li>Consistently use a sans serif font that is easy to read such as Arial, Verdana, Helvetica, Calibri, etc.</li>
+	<li>Minimize italics</li>
+	<li>Do not use all capital letters</li>
 	<li>Avoid/minimize underlining</li>
 </ul>
 </div>
