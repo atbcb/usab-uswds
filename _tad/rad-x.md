@@ -87,11 +87,13 @@ Tube Holder
 
 ##### Text Perception
 
+<figure class="img-grid-right">
+	<img src="../images/Text-Perception.jpg"
+			 alt="Folded instruction sheet illustration." />
+	<figcaption>Instructions for use</figcaption>
+</figure>
+
 Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.
-
-![Folded instruction sheet illustration.](../images/Text-Perception.jpg)
-
-Instructions for use
 
 ###### Issue
 
