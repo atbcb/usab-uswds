@@ -1013,10 +1013,10 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 <ul>
 	<li>Provide options to review content in both landscape and portrait orientations.</li>
 	<li>If a device is required to be placed in a specific location in relation to a component (e.g., lining up one's phone over a feature)</li>
-		<ul>
-			<li>1. Provide auditory/haptic device positioning and camera visibility feedback to user (e.g., "test identified" or "failed -- move closer"; or "failed -- increase brightness").</li>
-			<li>2. Consider implementing automated image correction.</li>
-		</ul>
+		<ol>
+			<li>Provide auditory/haptic device positioning and camera visibility feedback to user (e.g., "test identified" or "failed -- move closer"; or "failed -- increase brightness").</li>
+			<li>Consider implementing automated image correction.</li>
+		</ol>
 </ul>
 </div>
 	</div>
@@ -1079,10 +1079,10 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	<li>Enable dark mode support.</li>
 	<li>If the application requires data entry for sign-in / results reporting:</li>
 		<ol>
-			<li>1. Enable auto fill; enable single sign-on (SSO) through Google, Facebook, etc.</li>
-			<li>2. Clarify which data entry fields are required vs. optional.</li>
-			<li>3. Save partial data (e.g., create a user profile) so user does not have to input data again for repeat testing.</li>
-			<li>4. Ensure that all data entry fields are assigned screen readable labels.</li>
+			<li>Enable auto fill; enable single sign-on (SSO) through Google, Facebook, etc.</li>
+			<li>Clarify which data entry fields are required vs. optional.</li>
+			<li>Save partial data (e.g., create a user profile) so user does not have to input data again for repeat testing.</li>
+			<li>Ensure that all data entry fields are assigned screen readable labels.</li>
 		</ol>
 </ul>
 </div>
