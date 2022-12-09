@@ -77,6 +77,8 @@ Tube Holder
 1.2 Packaging \
 1.3 Kitting
 
+---------------------------------------
+
 ### 1.1 Instructions/Accessing Information
 
 -   Text Perception
@@ -85,6 +87,7 @@ Tube Holder
 -   Graphics, Images and Symbols
 -   Language
 
+---------------------------------------
 
 <div class="grid-container">
   <div class="grid-row">
@@ -171,50 +174,68 @@ Tube Holder
 		</div>
 
 * * * * *
-##### General Readability and Layout
 
-![Layout considerations for readability](../images/Layout-considerations-for-readability.jpg)
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h5>General Readability and Layout</h5>
+	<p>Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.</p>
+    </div>
+    <div class="tablet:grid-col">
+      <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Layout considerations for readability">
+      <span class="grid-line text-italic">Layout considerations for readability</span>
+</div>
+	</div>
+		</div>
 
-Layout considerations for readability
+---------------------------------------
 
-Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+	<ul>		
+	<li>Too much information can be presented in a format that is difficult to follow. It can be difficult to understand what is meant to be read and in what order.</li>
+	<li>Steps requiring multiple actions or tasks are challenging for all to follow. Multiple steps that take up different amounts of page 'real estate' are difficult to scan for low-vision users.</li>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+<ul>
+	<li>Provide a single, actionable task for each step.</li>
+	<li>Break text into block paragraphs using bullet points when possible. As a best practice for all lay users, write short sentences at a 7th grade reading level.</li>
+</ul>
+</div>
+	</div>
+		</div>
 
-###### Issue
+---------------------------------------
 
--   Too much information can be presented in a format that is difficult to follow. It can be difficult to understand what is meant to be read and in what order.
--   Steps requiring multiple actions or tasks are challenging for all to follow. Multiple steps that take up different amounts of page 'real estate' are difficult to scan for low-vision users.
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Text-layout-with-inconsistent-information-flow.jpg" alt="Text layout with inconsistent information flow">
+      <span class="grid-line text-italic">Text layout with inconsistent information flow</span>
+	<ul>		
+	<li>Blocks of text are sometimes presented in different layouts, some left to right and others top to bottom, making following along cumbersome.</li>
+	<li>Lack of breaks in large blocks of text make the information difficult to digest and wide columns can make low-vision users dizzy.</li>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Recommended-text-layout-and-information-flow.jpg" alt="Recommended text layout and in formation flow">
+      <span class="grid-line text-italic">Recommended text layout and in formation flow</span>
+<ul>
+<li>Use a consistent layout. A columnar layout works best. Use the flow scheme shown above. Blocks are arranged in columns; columns are arranged left to right. Use narrow columns.</li>
+<li>Present document in landscape format if possible.</li>
+<li>Include a margin of at least three pixels between rows and columns.</li>
+</ul>
+</div>
+	</div>
+		</div>
 
-###### Recommendation
-
--   Provide a single, actionable task for each step.
--   Break text into block paragraphs using bullet points when possible. As a best practice for all lay users, write short sentences at a 7th grade reading level.
-
-###### Issue
-
-![Text layout with inconsistent information flow](../images/Text-layout-with-inconsistent-information-flow.jpg)
-
-Text layout with inconsistent information flow
-
--   Blocks of text are sometimes presented in different layouts, some left to right and others top to bottom, making following along cumbersome.
--   Lack of breaks in large blocks of text make the information difficult to digest and wide columns can make low-vision users dizzy.
-
-###### Recommendation
-
-![Recommended text layout and in formation flow](../images/Recommended-text-layout-and-information-flow.jpg)
-
-Recommended text layout and in formation flow
-
--   Use a consistent layout. A columnar layout works best. Use the flow scheme shown above. Blocks are arranged in columns; columns are arranged left to right. Use narrow columns.
--   Present document in landscape format if possible.
--   Include a margin of at least three pixels between rows and columns.
-
-###### Issue
-
-![Numerous warnings embedded in copy](../images/Numerous-warnings-embedded-in-copy.jpg)
-
-Numerous warnings embedded in copy
-
-Multiple warnings are presented inconsistently making it hard to locate them or allow the truly important warnings to attract the appropriate amount of attention.
+---------------------------------------
 
 ###### Recommendation
 
@@ -224,125 +245,190 @@ Targeted warnings, visually differentiated from plain copy
 
 Essential warnings (e.g., those where use error is associated with the greatest risk of an invalid test result) should be communicated in a consistent manner (e.g., bold, red font).
 
-##### Physical Embodiment
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Numerous-warnings-embedded-in-copy.jpg" alt="Numerous warnings embedded in copy">
+      <span class="grid-line text-italic">Numerous warnings embedded in copy</span>		
+	<p>Multiple warnings are presented inconsistently making it hard to locate them or allow the truly important warnings to attract the appropriate amount of attention.</p>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Targeted-warnings-visually-differentiated-from-plain-copy.jpg" alt="Targeted warnings, visually differentiated from plain copy">
+      <span class="grid-line text-italic">Targeted warnings, visually differentiated from plain copy</span>
+<p>Esential warnings (e.g., those where use error is associated with the greatest risk of an invalid test result) should be communicated in a consistent manner (e.g., bold, red font).</p>
+</div>
+	</div>
+		</div>
 
-![Layout considerations for readability](../images/Layout-considerations-for-readability.jpg)
+---------------------------------------
 
-Layout considerations for readability
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h5>Physical Embodiment</h5>
+	<p>Instructions can be provided in a number of ways: on a card, on paper, on a fold out, or in a booklet. The mode in which physical instructions are provided can impact readability and usability.</p>
+    </div>
+    <div class="tablet:grid-col">
+      <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Folded instruction sheet illustration.">
+      <span class="grid-line text-italic">Instructions for use</span>
+</div>
+	</div>
+		</div>
 
-Instructions can be provided in a number of ways: on a card, on paper, on a fold out, or in a booklet. The mode in which physical instructions are provided can impact readability and usability.
+---------------------------------------
 
-###### Issue
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Information-split-along-paper-fold.jpg" alt="Information split along paper fold">
+      <span class="grid-line text-italic">Information split along paper fold</span>		
+	<p>Large instruction panels with folds can result in text crossing over folds. Same-topic information may be split across front and back panels, resulting in reduced readability.</p>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Information-contained-within-folded-panels.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Information contained within folded panels</span>
+<ul>
+<li>Ensure paper creases only appear in the margins of text columns. Text columns should be equal width.</li>
+<li>Including text column gutters on folds may make it easier to scan parts of a folded document for OCR.</li>
+<li>Place all information needed to run the test on one side of the paper or card. The other side can be used for supporting information.</li>
+</ul>
+</div>
+	</div>
+		</div>
+		
+---------------------------------------
 
-![Information split along paper fold](../images/Information-split-along-paper-fold.jpg)
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Instructions-that-require-full-unfolding.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Instructions that require full unfolding</span>
+	<ul>		
+	<li>It can be difficult to physically place instructions adjacent to the components due to size or material making them difficult to reference while using the test.</li>
+	<li>Tests with fluid can result in spills which can deteriorate less robust instructional materials.</li>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Instructions-that-can-be-unfolded-by-section.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Instructions that can be unfolded by section</span>
+<ul>
+<li>Provide instructions in a manner that they can be placed adjacent to a test kit on a table.</li>
+<li>Consider that lighter paper weights allow instructions to lay flat. Use materials which can withstand some amount of liquid spill. If coatings are used, limit reflectivity.</li>
+</ul>
+</div>
+	</div>
+		</div>
 
-Information split along paper fold
+---------------------------------------
 
-Large instruction panels with folds can result in text crossing over folds. Same-topic information may be split across front and back panels, resulting in reduced readability.
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Instructions-are-too-large-for-scanning.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Instructions are too large for scanning</span>		
+	<p>Paper (or similar) documents may be provided in an incompatible format for assistive technologies. Pages or panels may be too large for flatbed scanners and smartphone OCR. Multiple panels without numbering make it difficult to navigate from page to page.</p>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Instructions-are-an-appropriate-size-for-scanning.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Instructions are an appropriate size for scanning</span>
+<ul>
+<li>Provide paper (or similar) documents in panels no larger than letter paper dimensions (8.5" x 11").</li>
+<li>Use page numbers for multiple panels on the front and back.</li>
+</ul>
+</div>
+	</div>
+		</div>
 
-###### Recommendation
+---------------------------------------
 
-![Information contained within folded panels](../images/Information-contained-within-folded-panels.jpg)
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h5>Graphics, Images and Symbols</h5>
+	<p>Graphics, images, and symbols can be an effective way for users to quickly perceive and understand information.</p>
+    </div>
+    <div class="tablet:grid-col">
+      <img class="img-full" src="../images/Arrows-show-user-interaction.jpg" alt="Arrows show user interaction with product">
+      <span class="grid-line text-italic">Arrows show user interaction with product</span>
+</div>
+	</div>
+		</div>
 
-Information contained within folded panels
+---------------------------------------
 
--   Ensure paper creases only appear in the margins of text columns. Text columns should be equal width.
--   Including text column gutters on folds may make it easier to scan parts of a folded document for OCR.
--   Place all information needed to run the test on one side of the paper or card. The other side can be used for supporting information.
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Photo-backgrounds-distract-from-product.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Photo backgrounds distract from product</span>		
+	<p>Photos contain extra, unnecessary information making them difficult for low-vision users to perceive.</p>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Line-drawings-improve-comprehension.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Line drawings improve comprehension</span>
+<ul>
+<li>Use high-quality, high-contrast, thick line drawings with perspective instead of photos.</li>
+<li>Use varying line weights to distinguish detail and accent features (e.g., 0.5 pt -- 1.5 pt for lines and 3 pt -- 4 pt for accent features).</li>
+</ul>
+</div>
+	</div>
+		</div>
 
-###### Issue
+---------------------------------------
 
-![Instructions that require full unfolding](../images/Instructions-that-require-full-unfolding.jpg)
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../2D-thin-line-and-low-contrast-drawings.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">2D thin line and low-contrast drawings</span>	
+	<p>It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.</p>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/3D-drawing-with-appropriate-line-thickness.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">3D drawing with appropriate line thickness</span>
+<p>Where possible, use 3D renderings with perspective and solid colors.</p>
+</div>
+	</div>
+		</div>
 
-Instructions that require full unfolding
+---------------------------------------
 
--   It can be difficult to physically place instructions adjacent to the components due to size or material making them difficult to reference while using the test.
--   Tests with fluid can result in spills which can deteriorate less robust instructional materials.
-
-###### Recommendation
-
-![Instructions that can be unfolded by section](../images/Instructions-that-can-be-unfolded-by-section.jpg)
-
-Instructions that can be unfolded by section
-
--   Provide instructions in a manner that they can be placed adjacent to a test kit on a table.
--   Consider that lighter paper weights allow instructions to lay flat. Use materials which can withstand some amount of liquid spill. If coatings are used, limit reflectivity.
-
-###### Issue
-
-![Instructions are too large for scanning](../images/Instructions-are-too-large-for-scanning.jpg)
-
-Instructions are too large for scanning
-
-Paper (or similar) documents may be provided in an incompatible format for assistive technologies. Pages or panels may be too large for flatbed scanners and smartphone OCR. Multiple panels without numbering make it difficult to navigate from page to page.
-
-###### Recommendation
-
-![Instructions are an appropriate size for scanning](../images/Instructions-are-an-appropriate-size-for-scanning.jpg)
-
-Instructions are an appropriate size for scanning
-
--   Provide paper (or similar) documents in panels no larger than letter paper dimensions (8.5" x 11").
--   Use page numbers for multiple panels on the front and back.
-
-##### Graphics, Images and Symbols
-
-![Arrows show user interaction with product](../images/Arrows-show-user-interaction.jpg)
-
-Arrows show user interaction with product
-
-Graphics, images, and symbols can be an effective way for users to quickly perceive and understand information.
-
-###### Issue
-
-![Photo backgrounds distract from product](../images/Photo-backgrounds-distract-from-product.jpg)
-
-Photo backgrounds distract from product
-
-Photos contain extra, unnecessary information making them difficult for low-vision users to perceive.
-
-###### Recommendation
-
-![Line drawings improve comprehension](../images/Line-drawings-improve-comprehension.jpg)
-
-Line drawings improve comprehension
-
--   Use high-quality, high-contrast, thick line drawings with perspective instead of photos.
--   Use varying line weights to distinguish detail and accent features (e.g., 0.5 pt -- 1.5 pt for lines and 3 pt -- 4 pt for accent features).
-
-###### Issue
-
-![2D thin line and low-contrast drawings](2D-thin-line-and-low-contrast-drawings.jpg)
-
-2D thin line and low-contrast drawings
-
-It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.
-
-###### Recommendation
-
-![3D drawing with appropriate line thickness](../images/3D-drawing-with-appropriate-line-thickness.jpg)
-
-3D drawing with appropriate line thickness
-
-Where possible, use 3D renderings with perspective and solid colors.
-
-###### Issue
-
-![Images without context](../images/Images-without-context.jpg)
-
-Images without context
-
--   Images without context do not inform readers about relative component size.
--   They force the reader to guess where and how components are to be utilized.
-
-###### Recommendation
-
-![Images with context](../images/Images-with-context.jpg)
-
-Images with context
-
--   Make use of graphics that provide physical context for the reader (e.g., include hands, noses).
--   Use only enough detail on features to clarify their purpose (e.g., a drawing of a head does not need to include hair).
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Images-without-context.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Images without context</span>
+	<ul>		
+	<li>Images without context do not inform readers about relative component size.</li>
+	<li>They force the reader to guess where and how components are to be utilized.</li>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Images-with-context.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Images with context</span>
+<ul>
+<li>Make use of graphics that provide physical context for the reader (e.g., include hands, noses).</li>
+<li>Use only enough detail on features to clarify their purpose (e.g., a drawing of a head does not need to include hair).</li>
+</ul>
+</div>
+	</div>
+		</div>
+		
+---------------------------------------
 
 ###### Issue
 
