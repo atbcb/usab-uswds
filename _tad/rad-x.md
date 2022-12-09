@@ -10,7 +10,6 @@ ta-email-pre: ta
 file: /files/mde/radx-bp.pdf
 file-description: Best Practices for the Design of Accessible COVID-19 Home Tests, PDF format
 ---
-
 ## {{ page.title }}
 
 ### Introduction
@@ -950,13 +949,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 <ul>
 	<li>Digital instructions should be on a web page (not just as a downloadable PDF) that applies responsive web design.</li>
 	<li>Audit the web pages with assistive technology used by experienced digital accessibility professionals.</li>
-	<li>Reference and implement best practices for making application content accessible:
-	* [Web Accessibility](https://www.w3.org/WAI/standards-guidelines/wcag/)
-	* [Mobile Accessibility](https://www.w3.org/TR/mobile-accessibility-mapping/)</li>
+	<li>Reference and implement best practices for making application content accessible: <ul>
+		<li> <a href="https://www.w3.org/WAI/standards-guidelines/wcag/">Web Accessibility</a> </li>
+			<li> <a href="https://www.w3.org/TR/mobile-accessibility-mapping/">Mobile Accessibility</a> </li> </ul>
 	<li>Ensure the QRG is available as a PDF that conforms to Section 508, WCAG 2.1 level AA, and PDF/Unive	rsal Accessibility (UA) standards.</li>
 	<li>Ensure all images have meaningful, descriptive alternative ('alt') text, particularly when describing test components such that they can be discerned from one another non-visually.</li>
 	<li>Ensure all form fields have accessible names/labels.</li>
-	<li>Consider providing a Digital Accessible Information System (DAISY) format of the QRG with sections and subsections defined in the file (See also Physical Components - Instructions/Accessing Information [above](#11-instructionsaccessing-information)).</li>
+	<li>Consider providing a Digital Accessible Information System (DAISY) format of the QRG with sections and subsections defined in the file (See also Physical Components - Instructions/Accessing Information <a href="#11-instructionsaccessing-information">above</a>).</li>
 	<li>Provide a link or button on the web page that leads the user to a full digital version of the instructions and allow users to request a large-print or braille copy be mailed to them at no charge.</li>
 </ul>
 </div>
