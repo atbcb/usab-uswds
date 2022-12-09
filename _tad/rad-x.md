@@ -125,12 +125,12 @@ Instructions for use
 <li>Provide QR codes measuring larger than one-half inch square.</li>
 <li>Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in UDI format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before <date>' or 'Do no use after <date>'.</li>
 </ul>
-    </div>
-  </div>
 </div>
+	</div>
+		</div>
+			</div>
 	
 &nbsp;
-
 
 ###### Issue
 
