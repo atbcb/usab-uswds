@@ -1187,81 +1187,126 @@ The presence or absence of features in an application or web design can signific
 
 ---------------------------------------
 
-###### Issue
-
--   Video is not always provided on websites or applications.
--   Videos are not always accessible or as audibly descriptive as they are visually descriptive. Where provided, audio description may not cover all steps.
--   Some videos do not provide the ability to pause, rewind, or forward in discrete chunks or increments, making it challenging to jump to the step a user is trying to review.
--   Visuals with actors completing steps can be challenging for low-vision users to follow due to issues with lighting and contrast.
--   Abbreviated versions of a longer video tempts users to skip the complete video and miss important steps.
--   Users may miss some steps only described in audio.
--   Users may not always want to refer to video, especially for repeated uses of a test
--   Automatically looping videos can be distracting.
-
-###### Recommendation
-
--   Make video tutorial instructions available via the product website.
--   Confirm video player is accessible (see WCAG 2.1 AA guidance).
--   Provide the ability to control video playback including pause/play, rewind, forward, replay from the beginning, scroll through time or advance incrementally, and switch to full screen mode.
--   Do not use visuals with actors completing steps, instead use high-contrast animations.
--   Do not provide an abbreviated version of a longer video.
--   UAudio and visual content should each be independently sufficient for a user to understand the video's content
--   Allow skipping the video after it has been viewed once.
--   Avoid looping videos with no ability to pause.
--   Include timestamps on the player for easy navigation to specific sections (e.g., getting started, workflow, interpreting results). Utilize common device OS system video controls.
--   Label control buttons by function with large text and outline them with a two-pixel, lighter shade edge to suggest a bezel.
--   Include multilingual closed-captions.
--   Consider implementing a user profile recognition function to make video viewing required for the first test but optional for subsequent tests.
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+	<ul>		
+	<li>Video is not always provided on websites or applications.
+	<li>Videos are not always accessible or as audibly descriptive as they are visually descriptive. Where provided, audio description may not cover all steps.
+	<li>Some videos do not provide the ability to pause, rewind, or forward in discrete chunks or increments, making it challenging to jump to the step a user is trying to review.</li>
+	<li>Visuals with actors completing steps can be challenging for low-vision users to follow due to issues with lighting and contrast.</li>
+	<li>Abbreviated versions of a longer video tempts users to skip the complete video and miss important steps.</li>
+	<li>Users may miss some steps only described in audio.</li>
+	<li>Users may not always want to refer to video, especially for repeated uses of a test.</li>
+	<li>Automatically looping videos can be distracting.</li>
+</ul>
+    </div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+<ul>
+	<li>Make video tutorial instructions available via the product website.</li>
+	<li>Confirm video player is accessible (see WCAG 2.1 AA guidance).</li>
+	<li>Provide the ability to control video playback including pause/play, rewind, forward, replay from the beginning, scroll through time or advance incrementally, and switch to full screen mode.</li>
+	<li>Do not use visuals with actors completing steps, instead use high-contrast animations.</li>
+	<li>Do not provide an abbreviated version of a longer video.</li>
+	<li>Audio and visual content should each be independently sufficient for a user to understand the video's content.</li>
+	<li>Allow skipping the video after it has been viewed once.</li>
+	<li>Avoid looping videos with no ability to pause.</li>
+	<li>Include timestamps on the player for easy navigation to specific sections (e.g., getting started, workflow, interpreting results). Utilize common device OS system video controls.</li>
+	<li>Label control buttons by function with large text and outline them with a two-pixel, lighter shade edge to suggest a bezel.</li>
+	<li>Include multilingual closed-captions.</li>
+	<li>Consider implementing a user profile recognition function to make video viewing required for the first test but optional for subsequent tests.</li>
+</ul>
+</div>
+	</div>
+		</div>
+		
+---------------------------------------
 
 ##### Language in Digital Formats
 
 The vocabulary used in instructions impacts a user's ability to understand what is required of them throughout the test process. Presenting information in plain, clear, concise language is key to the user's understanding of how to perform the test.
 
-###### Issue
+---------------------------------------
 
--   Digital instructions can provide language which is not descriptive enough for a no-vision user (e.g., "Grasp the yellow swab package and tear open."). Tactile descriptions are not consistently provided in digital instructions.
--   There are also component references that can create ambiguity for no-vision users working with screen readers, such as referring to components as "this" or "that."
--   Instructions sometimes refer to components and features inconsistently, which makes finding information or following along difficult.
--   Audible content is not always as fully descriptive as visual content. If provided, audio descriptions are sometimes not provided in detail for all steps.
-
-###### Recommendation
-
--   Provide concise, descriptive language of tactile differentiation for each component, especially for components which are highlighted visually in instructions (refer to pg. 28 for more information).
--   Provide clear instructions to conduct the test by feel alone so that no-vision and low-vision users can identify, orient, and use the test components correctly. This should include:
-	1.  How to discern inner packages from one another (e.g., the two parts of a dropper in separate pouches)
-	1.  A clear non-visual physical description of each kit component including shape, size, and feel (versus color) (e.g., "Open the package that is a rectangle with a pull tab at the end.")
-	1.  How components interact with each other
-	1.  Translating visual content with clear and non- physical audio descriptions
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/instructions-issue.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic"> Key information hard to distinguish</span>
+	<ul>		
+		<li>Digital instructions can provide language which is not descriptive enough for a no-vision user (e.g., "Grasp the yellow swab package and tear open."). Tactile descriptions are not consistently provided in digital instructions.</li>
+		<li>There are also component references that can create ambiguity for no-vision users working with screen readers, such as referring to components as "this" or "that."</li>
+		<li>Audible content is not always as fully descriptive as visual content. If provided, audio descriptions are sometimes not provided in detail for all steps.</li>
+	</ul>
+</div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Key information stands apart</span>
+	<ul>
+		<li>Provide concise, descriptive language of tactile differentiation for each component, especially for components which are highlighted visually in instructions (refer to pg. 28 for more information).</li>
+	<li>Provide clear instructions to conduct the test by feel alone so that no-vision and low-vision users can identify, orient, and use the test components correctly. This should include:</li>
+		<ul>
+			<li>1. How to discern inner packages from one another (e.g., the two parts of a dropper in separate pouches)</li>
+			<li>2. A clear non-visual physical description of each kit component including shape, size, and feel (versus color) (e.g., "Open the package that is a rectangle with a pull tab at the end.")</li>
+			<li>3. How components interact with each other</li>
+			<li>4. Translating visual content with clear and non- physical audio descriptions</li>
+		</ul>
+	</ul>
+</div>
+	</div>
+		</div>
+		
+---------------------------------------
 
 ### 2.2 Test Procedure
 
 -   Connecting/Bluetooth Pairing
 
-###### Connecting/Bluetooth Pairing
+---------------------------------------
 
-![Phone connecting via Bluetooth](../images/Phone-connecting-via-Bluetooth.jpg)
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h5>Connecting/Bluetooth Pairing</h5>
+	<p>Some tests may require Bluetooth pairing (connecting a smartphone and another device) to read and communicate results. Pairing devices involves having two components in proximity to each other, initiating a pairing sequence, receiving feedback when pairing has been completed successfully (or not), and understanding what that feedback signifies.</p>
+    </div>
+    <div class="tablet:grid-col">
+      <img class="img-full" src="../images/Phone-connecting-via-Bluetooth.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Phone connecting via Bluetooth</span>
+</div>
+	</div>
+		</div>
 
-Phone connecting via Bluetooth
+---------------------------------------
 
-Some tests may require Bluetooth pairing (connecting a smartphone and another device) to read and communicate results. Pairing devices involves having two components in proximity to each other, initiating a pairing sequence, receiving feedback when pairing has been completed successfully (or not), and understanding what that feedback signifies.
+<div class="grid-container">
+  <div class="grid-row">
+    <div class="tablet:grid-col">
+	    <h6>Issue</h6>
+      <img class="img-full" src="../images/Phone-connecting-via-Bluetooth-with-visual-cues.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Phone connecting via Bluetooth with visual cues</span>
+	<ul>		
+		<li>Common pairing methods only provide visual feedback on pairing status (e.g., lights on the device).</li>
+		<li>Some pairing requires components to be placed a specific distance away from a component and the user is not aware when the two are in range of each other.</li>
+	</ul>
+</div>
+    <div class="tablet:grid-col">
+	<h6>Recommendation</h6>
+      <img class="img-full" src="../images/Phone-connecting-via-Bluetooth-with-audio-cues.jpg" alt="NEED ALT-TEXT">
+      <span class="grid-line text-italic">Phone connecting via Bluetooth with audio cues</span>
+	<ul>
+		<li>Provide multi-modal, clear feedback on pairing status (e.g., audible and/or tactile feedback).</li>
+	<li>If a device is required to be placed a specific distance from a component, provide device positioning recognition to the user.</li>
+	</ul>
+</div>
+	</div>
+		</div>
 
-###### Issue
-
-![Phone connecting via Bluetooth with visual cues](../images/Phone-connecting-via-Bluetooth-with-visual-cues.jpg)
-
-Phone connecting via Bluetooth with visual cues
-
--   Common pairing methods only provide visual feedback on pairing status (e.g., lights on the device).
--   Some pairing requires components to be placed a specific distance away from a component and the user is not aware when the two are in range of each other.
-
-###### Recommendation
-
-![Phone connecting via Bluetooth with audio cues](../images/Phone-connecting-via-Bluetooth-with-audio-cues.jpg)
-
-Phone connecting via Bluetooth with audio cues
-
--   Provide multi-modal, clear feedback on pairing status (e.g., audible and/or tactile feedback).
--   If a device is required to be placed a specific distance from a component, provide device positioning recognition to the user.
+---------------------------------------
 
 ### References
 
