@@ -105,7 +105,7 @@ Instructions for use
 -   Do not use all capital letters
 -   Avoid/minimize underlining
 
-{
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -129,9 +129,7 @@ Instructions for use
 	</div>
 	  </div>
 	</div>
-
-
-}
+<br>
 
 ###### Issue
 
