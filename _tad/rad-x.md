@@ -108,9 +108,6 @@ Instructions for use
 <figure class="img-left">
 	<img src="{{ site.baseurl }}/images/instructions-issue.jpg "
 			 alt="Door with adjacent sign and square on ground next to door frame centered to the sign." />
-	<figcaption>
-		Key information hard to distinguish
-	</figcaption>
 <figcaption>
 -   Content is displayed such that it is challenging to distinguish key and supporting information.
 -   Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.
@@ -120,9 +117,6 @@ Instructions for use
 <figure class="img-right">
 	<img src="{{ site.baseurl }}/images/instructions-recommendation.jpg "
 			 alt="Woman standing in square on ground tactilely reading sign beyond swing of door open 45 degrees." />
-	<figcaption>
-		Key information stands apart
-	</figcaption>
 	<figcaption>
 -   Present key information in large and/or boldface type. (Use minimum of 14 pt).
 -   Provide QR codes measuring larger than one-half inch square.
