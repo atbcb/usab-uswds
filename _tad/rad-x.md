@@ -513,46 +513,42 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/Poor-color-combination-packaging-with-poor-legibility.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Poor color combination; packaging with poor legibility</span>		
-	<p>Much of standard packaging is filled with lots of information with poor color contrast.</p>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/Poor-color-combination-packaging-with-poor-legibility.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Poor color combination; packaging with poor legibility</span>
+      <p>Much of standard packaging is filled with lots of information with poor color contrast.</p>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/Recommended-color-combination-legible-packaging.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Recommended color combination; legible packaging</span>
-	<p>Use effective color contrast on outer packaging (refer to pg. 12 for design considerations).</p>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/Recommended-color-combination-legible-packaging.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Recommended color combination; legible packaging</span>
+      <p>Use effective color contrast on outer packaging (refer to pg. 12 for design considerations).</p>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
 
 ---
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/QR-code-is-too-small-to-easily-locate.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">QR code is too small to easily locate</span>
-	<ul>		
-	<li>QR codes are often missing or insufficiently sized (one-half inch square or less).</li>
-	<li>Expiration date format is not recognizable by common OCR applications (refer to pg. 11 for more detail).</li>
-</ul>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/QR-code-is-too-small-to-easily-locate.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">QR code is too small to easily locate</span>
+      <ul>
+        <li>QR codes are often missing or insufficiently sized (one-half inch square or less).</li>
+        <li>Expiration date format is not recognizable by common OCR applications (refer to pg. 11 for more detail).</li>
+      </ul>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/QR-code-is-large-and-readily-discoverable.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">QR code is large and readily discoverable</span>
-	<ul>
-		<li>Present QR codes in size larger than one-half inch square.</li>
-		<li>Refer to pg. 11 for guidance on expiration date formatting.</li>
-	</ul>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/QR-code-is-large-and-readily-discoverable.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">QR code is large and readily discoverable</span>
+      <ul>
+        <li>Present QR codes in size larger than one-half inch square.</li>
+        <li>Refer to pg. 11 for guidance on expiration date formatting.</li>
+      </ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
 		
----------------------------------------
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -592,7 +588,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	</div>
 		</div>
 
----------------------------------------
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -617,7 +613,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	</div>
 		</div>
 
----------------------------------------
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -642,7 +638,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	</div>
 		</div>
 
----------------------------------------
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -661,7 +657,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	</div>
 		</div>
 
----------------------------------------
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -680,7 +676,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	</div>
 		</div>
 		
----------------------------------------
+---
 
 ### 1.3 Kit Design
 
