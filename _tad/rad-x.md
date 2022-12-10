@@ -99,7 +99,9 @@ Tube Holder
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Text-Perception.jpg" alt="Folded instruction sheet illustration."> <span class="grid-line text-italic">Instructions for use</span> </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -120,7 +122,9 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -143,7 +147,9 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -158,9 +164,8 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
 
-
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -190,7 +195,9 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -212,7 +219,9 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -227,7 +236,9 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -256,7 +267,9 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -277,7 +290,9 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -295,7 +310,9 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -323,7 +340,9 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -338,7 +357,9 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -359,7 +380,9 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -374,7 +397,9 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -392,7 +417,8 @@ Tube Holder
     </div>
   </div>
 </div>
-<hr />
+
+---
 
 #### Language
 
@@ -403,25 +429,25 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-	<ul>		
-	<li>Presenting critical information without text labels creates issues with OCR interpret-ability (e.g., 1-800-000-0000 without a 'Customer Service Phone' text label is read as a number string).</li>
-	<li>Instructions sometimes refer to components and features inconsistently, which can make finding and following information difficult.</li>
-	<li>Certain practices create unnecessary ambiguity, such as referring to components or features generally as "this" or "that"; and using abbreviations/ acronyms.</li>
-</ul>
+      <h6>Issue</h6>
+      <ul>
+        <li>Presenting critical information without text labels creates issues with OCR interpret-ability (e.g., 1-800-000-0000 without a 'Customer Service Phone' text label is read as a number string).</li>
+        <li>Instructions sometimes refer to components and features inconsistently, which can make finding and following information difficult.</li>
+        <li>Certain practices create unnecessary ambiguity, such as referring to components or features generally as "this" or "that"; and using abbreviations/ acronyms.</li>
+      </ul>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-<ul>
-	<li>Text label critical information such as the product website, customer service phone number, and customer service email so they are recognized as such by OCR applications (e.g., Customer Service Phone Number: 1-800-000-0000).</li>
-	<li>Use the same name for a component or feature throughout the instructions and labels on components or packaging.</li>
-	<li>Provide non-visual descriptive indicators when describing components or features.</li>
-	<li>Avoid use of abbreviations or acronyms. If it is necessary, clearly define the abbreviation or acronym at first instance and use consistently thereafter.</li>
-</ul>
+      <h6>Recommendation</h6>
+      <ul>
+        <li>Text label critical information such as the product website, customer service phone number, and customer service email so they are recognized as such by OCR applications (e.g., Customer Service Phone Number: 1-800-000-0000).</li>
+        <li>Use the same name for a component or feature throughout the instructions and labels on components or packaging.</li>
+        <li>Provide non-visual descriptive indicators when describing components or features.</li>
+        <li>Avoid use of abbreviations or acronyms. If it is necessary, clearly define the abbreviation or acronym at first instance and use consistently thereafter.</li>
+      </ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-		
+	
 ---
 
 ### 1.2 Package Design
@@ -434,58 +460,51 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h5>Identification</h5>
-	<p>Outer box packaging is the initial introduction to any device. It can directly convey information through standard text, braille, or other novel means. It can indirectly convey information through shape, material, folds, breaks, and links to codes.</p>
+      <h5>Identification</h5>
+      <p>Outer box packaging is the initial introduction to any device. It can directly convey information through standard text, braille, or other novel means. It can indirectly convey information through shape, material, folds, breaks, and links to codes.</p>
     </div>
-    <div class="tablet:grid-col">
-      <img class="img-full" src="../images/Box-with-examples-of-good-identification.jpg" alt="Box with examples of good identification features">
-      <span class="grid-line text-italic">Box with examples of good identification features</span>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Box-with-examples-of-good-identification.jpg" alt="Box with examples of good identification features"> <span class="grid-line text-italic">Box with examples of good identification features</span> </div>
+  </div>
 </div>
-	</div>
-		</div>
 
----------------------------------------
+---
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/Box-labeling-viewable-in-only-one-oriention.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Box labeling viewable in only one orientation</span>		
-	<p>Packages are often inadequately labeled. Boxes with nondescript panels may need to be rotated to ascertain contents.</p>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/Box-labeling-viewable-in-only-one-oriention.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Box labeling viewable in only one orientation</span>
+      <p>Packages are often inadequately labeled. Boxes with nondescript panels may need to be rotated to ascertain contents.</p>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/Box-labeling-viewable-in-multiple-orientations.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Box labeling viewable in multiple orientations</span>
-<p>Consider how the package might be displayed (e.g., on a shelf) and what information the user might find most useful to perceive in different orientations in that setting.</p>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/Box-labeling-viewable-in-multiple-orientations.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Box labeling viewable in multiple orientations</span>
+      <p>Consider how the package might be displayed (e.g., on a shelf) and what information the user might find most useful to perceive in different orientations in that setting.</p>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
 
----------------------------------------
+---
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-	    <h6>Issue</h6>
-      <img class="img-full" src="../images/Box-labeling-with-poor-legibility.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Box labeling with poor legibility</span>		
-	<p>Much of standard packaging is filled with lots of information in a small (less than 14 pt) font.</p>
+      <h6>Issue</h6>
+      <img class="img-full" src="../images/Box-labeling-with-poor-legibility.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Box labeling with poor legibility</span>
+      <p>Much of standard packaging is filled with lots of information in a small (less than 14 pt) font.</p>
     </div>
     <div class="tablet:grid-col">
-	<h6>Recommendation</h6>
-      <img class="img-full" src="../images/Box-labeling-with-improved-legibility.jpg" alt="NEED ALT-TEXT">
-      <span class="grid-line text-italic">Box labeling with improved legibility</span>
-<ul>
-<li>Provide key information in large (14 pt minimum) sans serif font that is easy to read (e.g., Arial, Calibri, etc.). Do not use decorative fonts (e.g., Script, Slab).</li>
-<li>Key information includes brand name, device type, expiration date, links to instructions, and customer service phone number. Manufacturers should assure that labeling complies with regulatory bodies.</li>
-</ul>
+      <h6>Recommendation</h6>
+      <img class="img-full" src="../images/Box-labeling-with-improved-legibility.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Box labeling with improved legibility</span>
+      <ul>
+        <li>Provide key information in large (14 pt minimum) sans serif font that is easy to read (e.g., Arial, Calibri, etc.). Do not use decorative fonts (e.g., Script, Slab).</li>
+        <li>Key information includes brand name, device type, expiration date, links to instructions, and customer service phone number. Manufacturers should assure that labeling complies with regulatory bodies.</li>
+      </ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
 
----------------------------------------
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -504,7 +523,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	</div>
 		</div>
 
----------------------------------------
+---
 
 <div class="grid-container">
   <div class="grid-row">
