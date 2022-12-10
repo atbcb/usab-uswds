@@ -8,9 +8,7 @@ right-sidenav: sidenav-right-universal.html
 ta-text: Contact the Access Board for technical assistance
 ta-email-pre: ta
 file: /files/mde/radx-bp.pdf
-file-description: Best Practices for the Design of Accessible COVID-19 Home Tests, PDF format
----
-## {{ page.title }}
+file-description: Best Practices for the Design of Accessible COVID-19 Home Tests, PDF format## {{ page.title }}
 
 ### Introduction
 
@@ -68,8 +66,6 @@ Test Reader
 Tube Holder
 : Device which holds a Fluid Vial in an upright position.
 
----
-
 ## Chapter 1
 
 ### Physical Components
@@ -77,8 +73,6 @@ Tube Holder
 1.1 Instructions/Accessing Information \
 1.2 Packaging \
 1.3 Kitting
-
----
 
 ### 1.1 Instructions/Accessing Information
 
@@ -88,19 +82,15 @@ Tube Holder
 -   Graphics, Images and Symbols
 -   Language
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Text Perception</h5>
       <p>Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Text-Perception.jpg" alt="Folded instruction sheet illustration."> <span class="grid-line text-italic">Instructions for use</span> </div>
   </div>
 </div>
-
----
 
 <div class="grid-container">
   <div class="grid-row">
@@ -110,7 +100,7 @@ Tube Holder
         <li>Some instructions include the use of hard to read fonts, italics, underlining, or other text features that increase the level of reading difficulty.</li>
         <li>Instructions are also challenging to read when multiple fonts and typefaces are used.</li>
       </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <ul>
@@ -123,8 +113,6 @@ Tube Holder
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -135,7 +123,7 @@ Tube Holder
         <li>Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.</li>
         <li>Expiration date is presented as a number string (e.g., YYYY-MM-DD or MM/DD/YYYY) only, which OCR applications do not recognize as dates.</li>
       </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Key information stands apart</span>
@@ -148,15 +136,13 @@ Tube Holder
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
       <img class="img-full" src="../images/text-perception-issue.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Poor color combination; instructions with poor legibility</span>
       <p>Information can be provided with inappropriate color contrast.  It can be challenging to perceive key information.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/text-perception-recommendation.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Recommended color combination; legible instructions</span>
@@ -165,14 +151,12 @@ Tube Holder
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>General Readability and Layout</h5>
       <p>Users' ability to find and follow instructions can be greatly affected by how information is organized and displayed. Key information can either pop out or can be lost in a sea of text and graphics. Likewise, these layouts can make information inaccessible to those using digital technologies such as OCR applications.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Layout considerations for readability"> <span class="grid-line text-italic">Layout considerations for readability</span> </div>
   </div>
 </div>
@@ -185,7 +169,7 @@ Tube Holder
         <li>Too much information can be presented in a format that is difficult to follow. It can be difficult to understand what is meant to be read and in what order.</li>
         <li>Steps requiring multiple actions or tasks are challenging for all to follow. Multiple steps that take up different amounts of page 'real estate' are difficult to scan for low-vision users.</li>
       </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <ul>
@@ -196,8 +180,6 @@ Tube Holder
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -207,7 +189,7 @@ Tube Holder
         <li>Blocks of text are sometimes presented in different layouts, some left to right and others top to bottom, making following along cumbersome.</li>
         <li>Lack of breaks in large blocks of text make the information difficult to digest and wide columns can make low-vision users dizzy.</li>
       </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/Recommended-text-layout-and-information-flow.jpg" alt="Recommended text layout and in formation flow"> <span class="grid-line text-italic">Recommended text layout and in formation flow</span>
@@ -220,15 +202,13 @@ Tube Holder
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
       <img class="img-full" src="../images/Numerous-warnings-embedded-in-copy.jpg" alt="Numerous warnings embedded in copy"> <span class="grid-line text-italic">Numerous warnings embedded in copy</span>
       <p>Multiple warnings are presented inconsistently making it hard to locate them or allow the truly important warnings to attract the appropriate amount of attention.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/Targeted-warnings-visually-differentiated-from-plain-copy.jpg" alt="Targeted warnings, visually differentiated from plain copy"> <span class="grid-line text-italic">Targeted warnings, visually differentiated from plain copy</span>
@@ -237,19 +217,15 @@ Tube Holder
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Physical Embodiment</h5>
       <p>Instructions can be provided in a number of ways: on a card, on paper, on a fold out, or in a booklet. The mode in which physical instructions are provided can impact readability and usability.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Folded instruction sheet illustration."> <span class="grid-line text-italic">Instructions for use</span> </div>
   </div>
 </div>
-
----
 
 <div class="grid-container">
   <div class="grid-row">
@@ -257,7 +233,7 @@ Tube Holder
       <h6>Issue</h6>
       <img class="img-full" src="../images/Information-split-along-paper-fold.jpg" alt="Information split along paper fold"> <span class="grid-line text-italic">Information split along paper fold</span>
       <p>Large instruction panels with folds can result in text crossing over folds. Same-topic information may be split across front and back panels, resulting in reduced readability.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/Information-contained-within-folded-panels.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Information contained within folded panels</span>
@@ -270,8 +246,6 @@ Tube Holder
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -281,7 +255,7 @@ Tube Holder
         <li>It can be difficult to physically place instructions adjacent to the components due to size or material making them difficult to reference while using the test.</li>
         <li>Tests with fluid can result in spills which can deteriorate less robust instructional materials.</li>
       </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/Instructions-that-can-be-unfolded-by-section.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions that can be unfolded by section</span>
@@ -293,15 +267,13 @@ Tube Holder
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
       <img class="img-full" src="../images/Instructions-are-too-large-for-scanning.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions are too large for scanning</span>
       <p>Paper (or similar) documents may be provided in an incompatible format for assistive technologies. Pages or panels may be too large for flatbed scanners and smartphone OCR. Multiple panels without numbering make it difficult to navigate from page to page.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/Instructions-are-an-appropriate-size-for-scanning.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions are an appropriate size for scanning</span>
@@ -313,19 +285,15 @@ Tube Holder
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Graphics, Images and Symbols</h5>
       <p>Graphics, images, and symbols can be an effective way for users to quickly perceive and understand information.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Arrows-show-user-interaction.jpg" alt="Arrows show user interaction with product"> <span class="grid-line text-italic">Arrows show user interaction with product</span> </div>
   </div>
 </div>
-
----
 
 <div class="grid-container">
   <div class="grid-row">
@@ -333,7 +301,7 @@ Tube Holder
       <h6>Issue</h6>
       <img class="img-full" src="../images/Photo-backgrounds-distract-from-product.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Photo backgrounds distract from product</span>
       <p>Photos contain extra, unnecessary information making them difficult for low-vision users to perceive.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/Line-drawings-improve-comprehension.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Line drawings improve comprehension</span>
@@ -345,15 +313,13 @@ Tube Holder
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
       <img class="img-full" src="../images/2D-thin-line-and-low-contrast-drawings.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">2D thin line and low-contrast drawings</span>
       <p>It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/3D-drawing-with-appropriate-line-thickness.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">3D drawing with appropriate line thickness</span>
@@ -361,8 +327,6 @@ Tube Holder
     </div>
   </div>
 </div>
-
----
 
 <div class="grid-container">
   <div class="grid-row">
@@ -373,7 +337,7 @@ Tube Holder
         <li>Images without context do not inform readers about relative component size.</li>
         <li>They force the reader to guess where and how components are to be utilized.</li>
       </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/Images-with-context.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Images with context</span>
@@ -385,15 +349,13 @@ Tube Holder
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
       <img class="img-full" src="../images/Non-standard-symbols.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Non-standard symbols</span>
       <p>Symbols are hard to understand if they are arbitrarily chosen or region-specific. Their meaning may not be obvious to the reader.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/Standard-symbols.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Standard symbols</span>
@@ -402,15 +364,13 @@ Tube Holder
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
       <img class="img-full" src="../images/Drawings-without-realistic-detail.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Drawings without realistic detail</span>
       <p>Graphics that are not presented with details that match the actual components may cause confusion.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/Drawings-with-realistic-detail.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Drawings with realistic detail</span>
@@ -422,13 +382,9 @@ Tube Holder
   </div>
 </div>
 
----
-
 #### Language
 
 The vocabulary used in instructions is key to a user's ability to understand what is required. Presenting information in plain, clear, concise language is critical to ensuring a user's understanding of how to use the test kit.
-
----
 
 <div class="grid-container">
   <div class="grid-row">
@@ -439,7 +395,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
         <li>Instructions sometimes refer to components and features inconsistently, which can make finding and following information difficult.</li>
         <li>Certain practices create unnecessary ambiguity, such as referring to components or features generally as "this" or "that"; and using abbreviations/ acronyms.</li>
       </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <ul>
@@ -452,26 +408,20 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   </div>
 </div>
 	
----
-
 ### 1.2 Package Design
 
 -   Identification
 -   Accessing Contents
-
----
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Identification</h5>
       <p>Outer box packaging is the initial introduction to any device. It can directly convey information through standard text, braille, or other novel means. It can indirectly convey information through shape, material, folds, breaks, and links to codes.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Box-with-examples-of-good-identification.jpg" alt="Box with examples of good identification features"> <span class="grid-line text-italic">Box with examples of good identification features</span> </div>
   </div>
 </div>
-
----
 
 <div class="grid-container">
   <div class="grid-row">
@@ -479,7 +429,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <h6>Issue</h6>
       <img class="img-full" src="../images/Box-labeling-viewable-in-only-one-oriention.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Box labeling viewable in only one orientation</span>
       <p>Packages are often inadequately labeled. Boxes with nondescript panels may need to be rotated to ascertain contents.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/Box-labeling-viewable-in-multiple-orientations.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Box labeling viewable in multiple orientations</span>
@@ -488,15 +438,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
       <img class="img-full" src="../images/Box-labeling-with-poor-legibility.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Box labeling with poor legibility</span>
       <p>Much of standard packaging is filled with lots of information in a small (less than 14 pt) font.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/Box-labeling-with-improved-legibility.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Box labeling with improved legibility</span>
@@ -508,15 +456,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   </div>
 </div>
 
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h6>Issue</h6>
       <img class="img-full" src="../images/Poor-color-combination-packaging-with-poor-legibility.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Poor color combination; packaging with poor legibility</span>
       <p>Much of standard packaging is filled with lots of information with poor color contrast.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/Recommended-color-combination-legible-packaging.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Recommended color combination; legible packaging</span>
@@ -524,8 +470,6 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
-
----
 
 <div class="grid-container">
   <div class="grid-row">
@@ -536,7 +480,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
         <li>QR codes are often missing or insufficiently sized (one-half inch square or less).</li>
         <li>Expiration date format is not recognizable by common OCR applications (refer to pg. 11 for more detail).</li>
       </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <h6>Recommendation</h6>
       <img class="img-full" src="../images/QR-code-is-large-and-readily-discoverable.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">QR code is large and readily discoverable</span>
@@ -548,8 +492,6 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   </div>
 </div>
 		
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -557,15 +499,15 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <img class="img-full" src="../images/Example-of-a-flat-QR.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Example of a flat QR</span>	
 	<p>There are generally no tactile features on the surfaces of standard boxes, which would otherwise allow for a no-vision or low-vision user to identify package contents, either through a QR code or through braille.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Alternatives-to-flat-QR-codes.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Alternatives to flat QR codes</span>
 <p>Provide a means to tactilely find encoded information (e.g., a raised sticker, or raised outline). A QR code should be the primary way for a user to obtain information; braille and embossed lettering are appropriate secondary methods.</p>
-</div>
+		</div></div>
 	</div>
-		</div>
+
 
 ---------------------------------------
 
@@ -580,15 +522,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	<li>Ensuring the package is easy to open</li>
 	<li>Minimizing jostling of internal components</li>
 </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="../images/Package-with-tamper-evident-seal.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Package with tamper evident seal</span>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
-
----
 
 <div class="grid-container">
   <div class="grid-row">
@@ -600,7 +540,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	<li>Tamper-proof seals are often small, round adhesive stickers that can be challenging to find and to remove, especially for low-dexterity users.</li>
 	<li>Tearing open a package without removing the sticker frequently results in the package being damaged and contents being disorganized and potentially misplaced.</li>
 </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Easy-to-remove-tamper-proof-seal.jpg" alt="NEED ALT-TEXT">
@@ -609,11 +549,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 <li>The grasp surface on the tamper-proof seal should be adequate for fingers to grasp, allowing users with low dexterity to easily remove it. If a feature to grasp is being provided, provide at least one-half inch square of graspable area.</li>
 <li>Force to remove a label or open a pouch/package should not exceed five pounds.</li>
 </ul>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
-
----
 
 <div class="grid-container">
   <div class="grid-row">
@@ -625,7 +563,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	<li>When faced with this tamper-proof seal, many users resort to external tools such as scissors and knives to open the package, which may result in damaging contents.</li>
 	<li>Many tamper-proof seals are clear, making them challenging to find for low-vision users.</li>
 </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Easy-to-remove-tamper-proof-seal-2.jpg" alt="NEED ALT-TEXT">
@@ -634,11 +572,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 <li>Provide a tamper-proof seal that is easy to find and easy to remove for everyone. Allow users to grasp features easily and complete the action required to remove without the need for external tools.</li>
 <li>The tamper-proof seal should be a contrasting color to the rest of the package.</li>
 </ul>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
-
----
 
 <div class="grid-container">
   <div class="grid-row">
@@ -647,17 +583,15 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <img class="img-full" src="../images/Package-without-intuitive-opening.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Package without intuitive opening</span>	
 		<p>It can be challenging to understand how to open a package (e.g., How does the lid open? Is there a place where the top and bottom separate?), especially for no-vision and low-vision users, when the only indication regarding top, bottom, front, and back is through visual, printed labeling.</p>
-</div>
+    </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Packages-with-opening-cues.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Packages with opening cues</span>
 		<p>Provide familiar tactile cues on the packaging indicating which part is meant to be moved, removed, or separated (e.g., perforated tear tab, thumb cutout, overlapping flaps).</p>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
-
----
 
 <div class="grid-container">
   <div class="grid-row">
@@ -666,18 +600,16 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <img class="img-full" src="../images/Package-without-intuitive-opening.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Plain box with no divots</span>		
 		<p>It can be challenging to physically open a package when there are no affordances provided to grasp and pull or push.</p>
-</div>
+        </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Boxes-with-divots-and-flaps.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Boxes with divots and flaps</span>
 		<p>Include features for opening the package which accommodate users' fingers and a variety of hand sizes to ensure opening methods require low force.</p>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 		
----
-
 ### 1.3 Kit Design
 
 -   Organization of Contents
@@ -691,13 +623,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h5>Organization of Contents</h5>
 	<p>Test kits containing multiple components must identify the components, secure small components, and provide information on the order in which the components are to be used. Organizing contents thoughtfully can greatly enhance the user's ability to complete the test.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="../images/Kit-contents.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Kit contents</span>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 ---------------------------------------
 
 <div class="grid-container">
@@ -710,7 +642,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 		<li>Internal instructions and key information are not presented to the user in a manner that is easy to find and users do not know what to reference first.</li>
 		<li>Packages can have a number of components and interior packages loosely placed inside. When opened, the contents can fall out rendering them hard to identify, manage, and track. It can be difficult to understand which interior package or component is meant to be handled and when.</li>
 	</ul>
-</div>
+    </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Contents-neatly-organized-within-box.jpg" alt="NEED ALT-TEXT">
@@ -719,9 +651,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 		<li>Provide legible (pg. 10) instructions (i.e., QRG) face up as the first thing users encounter. Include a tactile means to locate QR code, linking to digital instructions and test information, including test type, expiration date, and customer service phone number.</li>
 	<li>Place contents in an organized and fixed manner (e.g., tray, card, dividers, etc.), in clear order of use. This helps users identify components, delineate order of use, and keep components secure.</li>
 	</ul>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -730,13 +662,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h5>Identification of Contents</h5>
 	<p>Contents in a package need to be identifiable so that users know when to open or use each individual package. It is also important to keep track of what is provided in a package to determine if there are missing components.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="../images/Identification-of-Contents.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Instructions for use and kit contents</span>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -747,15 +679,15 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <img class="img-full" src="../images/Parts-are-packaged-in-foil-pouches-with-the-same-factor.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Parts are packaged in foil pouches with the same form factor</span>	
 		<p>Component packages that are similar in size and shape to one another are difficult to distinguish.</p>
-</div>
+    </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Parts-are-packaged-with-distinct-materials-and-form-factors.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Parts are packaged with distinct materials and form factors</span>
 		<p>If components have interior packages, ensure that each component is tactilely discernible from others so users can use touch to identify contents. For example, a user could be instructed to feel for a component shape inside the interior package. Alternatively, the kit could provide distinct shapes of the interior packages that can be described to and felt by no-vision or low- vision users.</p>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -764,13 +696,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h5>Opening Internal Packages</h5>
 	<p>Accessing components frequently requires opening a sealed package. The user should be able to easily identify where to open the package. They should be provided with sufficient area to grasp the package. The force required should not exceed five pounds.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="../images/Internal-packages.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Internal packages</span>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -781,15 +713,15 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <img class="img-full" src="../images/Pouch-without-clear-indication-for-tear-location.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Pouch without clear indication for tear location</span>	
 		<p>It can be difficult to understand how to open a pouch. Locating the correct place to tear is often challenging.</p>
-</div>
+    </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Pouch-with-evident-tear-location.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Pouch with evident tear location</span>
 		<p>Provide multi-modal methods to inform the user how to open package. For example, include both a line with high contrast of where a tear should happen along with a notch that is findable by touch.</p>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -800,15 +732,15 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <img class="img-full" src="../images/Swab-packaging-with-swab-tip-near-small-peel-tab.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Swab packaging with swab tip near small peel tab</span>
 		<p>Interior packaging may present a method for opening which exposes an area to contamination through touch.</p>
-</div>
+    </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Swab-packaging-with-swab-handle-near-big-peel-tab.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Swab packaging with swab handle near big peel tab</span>
 		<p>Ensure the opening exposes the component portion that would be preferred to touch (e.g., peel feature near swab handle rather than swab tip).</p>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -839,13 +771,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h5>Modality</h5>
 	<p>Digital instructions are a great way to convey information and are especially useful for no-vision, low-vision, and older users. However, merely providing digital instructions does not mean that they are actually accessible to each of those user groups.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="../images/Digital-modalities.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Digital modalities</span>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -854,7 +786,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h6>Issue</h6>		
 	<p>Instructions are solely provided in print or accompanied by an image-only PDF making them inaccessible to users with no-vision, low-vision, dexterity challenges, or older users.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
 	    <p>Offer instructions in alternate modalities conveying identical information such as:</p>
@@ -865,9 +797,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	<li>Toll-free IVR telephone system</li>
 	<li>Video with audio description, captions, and transcript</li>
 	</ul>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -877,13 +809,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h5>Assistive Technology Compatibility</h5>
 	<p>Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard, and one that has been rigorously tested with assistive technology such as screen readers and voice dictation software. The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital instructions. Many people are familiar with the process of downloading an application.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="../images/Assistive-technologies.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Assistive technologies</span>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -892,7 +824,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h6>Issue</h6>		
 	<p>Instructions are provided in a format that is not compatible with use on a smartphone or computer and/ or that cannot be utilized by an accessible tool such as operating system (OS) accessibility features.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
 <ul>
@@ -907,9 +839,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	<li>Consider providing a Digital Accessible Information System (DAISY) format of the QRG with sections and subsections defined in the file (See also Physical Components - Instructions/Accessing Information <a href="#11-instructionsaccessing-information">above</a>).</li>
 	<li>Provide a link or button on the web page that leads the user to a full digital version of the instructions and allow users to request a large-print or braille copy be mailed to them at no charge.</li>
 </ul>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 		
 ---------------------------------------
 
@@ -920,15 +852,15 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <img class="img-full" src="../images/Formatting-incompatible-with-screen-reader.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Formatting incompatible with screen reader</span>	
 		<p>Not all digital instructions are compatible with screen readers. Key elements are often coded incorrectly or in a format that screen readers cannot detect, meaning content may be out of order, incomplete, or incomprehensible. Instructions may be provided in a format that is not compatible with use on a smartphone or tablet or that cannot be perceived by an accessible tool such as OS accessibility features.</p>
-</div>
+    </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Formatting-compatible-with-screen-readers.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Formatting compatible with screen readers</span>
 		<p>Ensure digital instructions are compatible with all commonly used screen readers. Confirm both computer and mobile screen reader compatibility of each and every screen element (e.g., images, fields, buttons).</p>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -937,13 +869,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h5>User Interface (UI) Features</h5>
 	<p>The presence or absence of features in an application or web design can significantly impact usability and user satisfaction with the test. A small improvement in UI design can have a major impact on the entire user experience.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="../images/User-interface-considerations.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">User interface considerations</span>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -955,7 +887,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	<li>Some applications are limited to only one mode of orientation, which makes it difficult for low-vision users and those with phones that are mounted in a particular orientation to access information.</li>
 	<li>Some devices require specific placement using visual cues only (e.g., camera alignment using only screen markers for reference) and it can be challenging or impossible to locate or correctly orient the component in the camera frame for no- vision and low-vision users.</li>
 </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
 <ul>
@@ -966,9 +898,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 			<li>Consider implementing automated image correction.</li>
 		</ol>
 </ul>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 		
 ---------------------------------------
 
@@ -979,7 +911,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <img class="img-full" src="../images/Important-information-integrated-into-text.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Important information integrated into text</span>	
 		<p>Some important content can be missed with the use of a digital user interface if the content is not appropriately segmented.</p>
-</div>
+    </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Important-information-presented-in-pop-up.jpg" alt="NEED ALT-TEXT">
@@ -988,9 +920,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 		<li>Provide pop-up messages for important content that remains on screen until user provides input to acknowledge the message.</li>
 	<li>Errors, warnings, and success messages should not automatically disappear until the user acknowledges the message.</li>
 	</ul>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 		
 ---------------------------------------
 
@@ -999,13 +931,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h5>Operating System Compatibility</h5>
 	<p>The ability for content to be recognized and understood by computer, smartphone, and tablet OS and accessibility tools is vital for no-vision and low-vision user access to information about the test.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="../images/Device-operating-systems.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Device operating systems</span>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -1018,7 +950,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	<li>Some features which provide feedback (e.g., auditory and haptic) can compromise user's privacy and others (e.g., bright mode) can be disruptive if users are working with them in the dark.</li>
 	<li>Applications sometimes require users to enter data to sign in before providing access or allowing users to receive test results.</li>
 </ul>
-    </div>
+        </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
 <ul>
@@ -1033,9 +965,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 			<li>Ensure that all data entry fields are assigned screen readable labels.</li>
 		</ol>
 </ul>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 		
 ---------------------------------------
 
@@ -1044,13 +976,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h5>Audio Instructions via Website or Application</h5>
 	<p>Audio may be the primary mode for some no- vision and low-vision users to receive instructions independently. Designing the audio content is critical to providing a comprehensive understanding of the product.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="../images/Multiple-platforms-supporting-audio-content.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Multiple platforms supporting audio content</span>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -1059,7 +991,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h6>Issue</h6>
 	<p>Audio instructions, which may be the preferred modality for some populations, are not always available.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
 <p>Audio instructions should be available in easy-to- navigate formats and should utilize the text-only instructions as the script. Use of professional human voiceover is preferred to create the audio, but clear text-to-speech (TTS) engines may be used as an alternative. File formats include:</p>
@@ -1068,9 +1000,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	<li>DAISY audio book file with sections of the QRG included as chapters.</li>
 	<li>Downloadable MP3 files for each section as well as a master file of all sections together.</li>
 </ul>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -1079,13 +1011,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h5>Interactive Voice Response (IVR) System</h5>
 	<p>IVR systems can be used to connect users to instructions through a phone call. This is particularly useful for users with lower familiarity with using web or mobile applications. Connecting users to instructions via telephone allows them to use a well-known, expected, and sometimes expedited instruction format.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="../images/Interactive-Voice-Response-(IVR-)System.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Interactive Voice Response (IVR) System</span>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 ---------------------------------------
 
@@ -1096,7 +1028,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <img class="img-full" src="../images/Instructions-without-IVR-availability.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Instructions without IVR availability</span>	
 		<p>Instructions are not always available by phone which is challenging to some users.</p>
-</div>
+    </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Instructions-with-IVR-availability.jpg" alt="NEED ALT-TEXT">
@@ -1106,9 +1038,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 		<li>Navigating instructions in the same manner as the downloadable file types.</li>
 	<li>Responding to inputs via button presses associated with actions (e.g., progress to next step, repeat current step, return to previous step, return to main menu, connect the user to a live agent as needed).</li>
 	</ul>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 * * * * *
 
@@ -1117,13 +1049,13 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
 	    <h5>Video</h5>
 	<p>Videos can be an effective way to inform users about the product and how to use it. They can provide a dynamic demonstration to learners who prefer to process information visually and audibly.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="../images/Video-demonstration-of-test-procedure.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Video demonstration of test procedure</span>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
 * * * * *
 
@@ -1141,7 +1073,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 		<li>Users may not always want to refer to video, especially for repeated uses of a test.</li>
 		<li>Automatically looping videos can be distracting.</li>
 	    </ul>
-	  </div>
+	      </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
 	    <ul>
@@ -1161,19 +1093,14 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 	  </div>
 	</div>
 </div>
-
-
 	
-* * * * *
-
+---
 
 ##### Language in Digital Formats
 
 The vocabulary used in instructions impacts a user's ability to understand what is required of them throughout the test process. Presenting information in plain, clear, concise language is key to the user's understanding of how to perform the test.
 
-
-* * * * *
-
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1186,7 +1113,7 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 		<li>There are also component references that can create ambiguity for no-vision users working with screen readers, such as referring to components as "this" or "that."</li>
 		<li>Audible content is not always as fully descriptive as visual content. If provided, audio descriptions are sometimes not provided in detail for all steps.</li>
 	</ul>
-</div>
+    </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT">
@@ -1201,38 +1128,32 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 			<li>4. Translating visual content with clear and non- physical audio descriptions</li>
 		</ol>
 	</ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
-		
-		
-* * * * *
 
+---
 
 ### 2.2 Test Procedure
 
 -   Connecting/Bluetooth Pairing
 
-
-* * * * *
-
+---
 
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
 	    <h5>Connecting/Bluetooth Pairing</h5>
 	<p>Some tests may require Bluetooth pairing (connecting a smartphone and another device) to read and communicate results. Pairing devices involves having two components in proximity to each other, initiating a pairing sequence, receiving feedback when pairing has been completed successfully (or not), and understanding what that feedback signifies.</p>
-    </div>
+        </div>
     <div class="tablet:grid-col">
       <img class="img-full" src="../images/Phone-connecting-via-Bluetooth.jpg" alt="NEED ALT-TEXT">
       <span class="grid-line text-italic">Phone connecting via Bluetooth</span>
+        </div>
+    </div>
 </div>
-	</div>
-		</div>
 
-
-* * * * *
-
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -1244,7 +1165,7 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 		<li>Common pairing methods only provide visual feedback on pairing status (e.g., lights on the device).</li>
 		<li>Some pairing requires components to be placed a specific distance away from a component and the user is not aware when the two are in range of each other.</li>
 	</ul>
-</div>
+    </div>
     <div class="tablet:grid-col">
 	<h6>Recommendation</h6>
       <img class="img-full" src="../images/Phone-connecting-via-Bluetooth-with-audio-cues.jpg" alt="NEED ALT-TEXT">
@@ -1253,13 +1174,11 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 		<li>Provide multi-modal, clear feedback on pairing status (e.g., audible and/or tactile feedback).</li>
 	<li>If a device is required to be placed a specific distance from a component, provide device positioning recognition to the user.</li>
 	</ul>
+    </div>
+  </div>
 </div>
-	</div>
-		</div>
 
-
-* * * * *
-
+---
 
 ### References
 
