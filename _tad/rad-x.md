@@ -24,6 +24,8 @@ Through knowledge garnered from all the above actions, a comprehensive, practica
 
 When this work began, it was recognized that there was a need to provide information to the manufacturing and engineering communities as soon as possible. This document is an abridged version of Best Practice Recommendations, and covers topics prioritized for early release.
 
+---
+
 ### Glossary
 
 Cartridge
@@ -68,6 +70,8 @@ Test Reader
 Tube Holder
 : Device which holds a Fluid Vial in an upright position.
 
+---
+
 ## Chapter 1
 
 ### Physical Components
@@ -83,6 +87,8 @@ Tube Holder
 -   Physical Embodiment
 -   Graphics, Images and Symbols
 -   Language
+
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -113,6 +119,9 @@ Tube Holder
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -135,6 +144,9 @@ Tube Holder
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -179,6 +191,9 @@ Tube Holder
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -200,6 +215,9 @@ Tube Holder
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -223,6 +241,9 @@ Tube Holder
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Folded instruction sheet illustration."> <span class="grid-line text-italic">Instructions for use</span> </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -241,6 +262,9 @@ Tube Holder
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -261,6 +285,9 @@ Tube Holder
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -287,6 +314,9 @@ Tube Holder
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Arrows-show-user-interaction.jpg" alt="Arrows show user interaction with product"> <span class="grid-line text-italic">Arrows show user interaction with product</span> </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -304,6 +334,9 @@ Tube Holder
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -318,6 +351,9 @@ Tube Holder
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -338,6 +374,9 @@ Tube Holder
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -352,6 +391,9 @@ Tube Holder
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -369,6 +411,8 @@ Tube Holder
     </div>
   </div>
 </div>
+
+---
 
 #### Language
 
@@ -396,6 +440,8 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   </div>
 </div>
 
+---
+
 ### 1.2 Package Design
 
 -   Identification
@@ -410,6 +456,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Box-with-examples-of-good-identification.jpg" alt="Box with examples of good identification features"> <span class="grid-line text-italic">Box with examples of good identification features</span> </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -424,6 +473,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -441,6 +493,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -455,6 +510,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -475,6 +533,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -489,7 +550,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
 ---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -504,6 +567,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Package-with-tamper-evident-seal.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Package with tamper evident seal</span> </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -524,6 +590,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -544,6 +613,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -558,6 +630,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
