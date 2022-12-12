@@ -80,6 +80,8 @@ Tube Holder
 1.2 Packaging \
 1.3 Kitting
 
+---
+
 ### 1.1 Instructions/Accessing Information
 
 -   Text Perception
