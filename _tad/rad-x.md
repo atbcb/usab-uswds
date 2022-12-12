@@ -94,7 +94,7 @@ Tube Holder
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h3>Text Perception</h3>
+      <h4>Text Perception</h4>
       <p>Physical instruction in the form of text is one important way to convey information and instructions as it can be provided directly on packaging or on a separate component inside packaging. It does not require internet connectivity or any electronic technology to convey information.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-medium" src="../images/Text-Perception.jpg" align="center" alt="Folded instruction sheet illustration."> <span class="grid-line text-italic">Instructions for use</span> </div>
