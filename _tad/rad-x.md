@@ -77,8 +77,7 @@ Tube Holder
 ### Physical Components
 
 1.1 Instructions/Accessing Information \
-1.2 Packaging \
-1.3 Kitting
+1.2 Packaging \ 1.3 Kitting
 
 ---
 
@@ -89,8 +88,6 @@ Tube Holder
 -   Physical Embodiment
 -   Graphics, Images and Symbols
 -   Language
-
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -285,9 +282,7 @@ Tube Holder
     </div>
   </div>
 </div>
-
 ---
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -385,7 +380,6 @@ Tube Holder
 #### Language
 
 The vocabulary used in instructions is key to a user's ability to understand what is required. Presenting information in plain, clear, concise language is critical to ensuring a user's understanding of how to use the test kit.
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -407,18 +401,18 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
-
 ---
 
 ### 1.2 Package Design
 
 -   Identification
 -   Accessing Contents
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Identification</h5>
+      <h4>
+      Identification
+      </h4>
       <p>Outer box packaging is the initial introduction to any device. It can directly convey information through standard text, braille, or other novel means. It can indirectly convey information through shape, material, folds, breaks, and links to codes.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Box-with-examples-of-good-identification.jpg" alt="Box with examples of good identification features"> <span class="grid-line text-italic">Box with examples of good identification features</span> </div>
@@ -596,7 +590,6 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 -   Organization of Contents
 -   Identification of Contents
 -   Opening Internal Packages
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -990,7 +983,6 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 #### Language in Digital Formats
 
 The vocabulary used in instructions impacts a user's ability to understand what is required of them throughout the test process. Presenting information in plain, clear, concise language is key to the user's understanding of how to perform the test.
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
