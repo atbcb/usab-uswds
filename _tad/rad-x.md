@@ -419,7 +419,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Identification</h5>
+      <h4>Identification</h4>
       <p>Outer box packaging is the initial introduction to any device. It can directly convey information through standard text, braille, or other novel means. It can indirectly convey information through shape, material, folds, breaks, and links to codes.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Box-with-examples-of-good-identification.jpg" alt="Line drawing of a box with clearly visible text, logo, and QR code"> <span class="grid-line text-italic">Box with examples of good identification features</span> </div>
@@ -915,7 +915,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h5>Interactive Voice Response (IVR) System</h5>
+      <h4>Interactive Voice Response (IVR) System</h4>
       <p>IVR systems can be used to connect users to instructions through a phone call. This is particularly useful for users with lower familiarity with using web or mobile applications. Connecting users to instructions via telephone allows them to use a well-known, expected, and sometimes expedited instruction format.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Interactive-Voice-Response-(IVR-)System.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Interactive Voice Response (IVR) System</span> </div>
