@@ -4,7 +4,7 @@ title: Best Practices for the Design of Accessible COVID-19 Home Tests
 permalink: /tad/radx/
 toc-group: tad
 order-number: 2
-right-sidenav: sidenav-right-universal.html
+right-sidenav: sidenav-right-special.html
 ta-text: Contact the Access Board for technical assistance
 ta-email-pre: ta
 file: /files/mde/radx-bp.pdf
