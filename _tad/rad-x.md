@@ -77,7 +77,8 @@ Tube Holder
 ### Physical Components
 
 1.1 Instructions/Accessing Information \
-1.2 Packaging \ 1.3 Kitting
+1.2 Packaging \
+1.3 Kitting
 
 ---
 
