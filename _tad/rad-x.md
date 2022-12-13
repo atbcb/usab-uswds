@@ -699,6 +699,8 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 2.1 Instructions/Accessing Information \
 2.2 Test Procedure
 
+---
+
 ### 2.1 Instructions/Accessing Information
 
 -   Modality
