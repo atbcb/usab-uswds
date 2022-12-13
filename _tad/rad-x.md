@@ -466,7 +466,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
       <img class="img-full" src="../images/Recommended-color-combination-legible-packaging.jpg" alt="Illustrated black and white box with text. Grid of colors paired with text in contrasting colors"> <span class="grid-line text-italic">Recommended color combination; legible packaging</span>
-      <p>Use effective color contrast on outer packaging (refer to Text Perfection for design considerations).</p>
+      <p>Use effective color contrast on outer packaging (refer to [Recommended color combinations](#recommendation-2) for design considerations).</p>
     </div>
   </div>
 </div>
