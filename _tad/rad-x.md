@@ -88,6 +88,9 @@ Tube Holder
 -   Physical Embodiment
 -   Graphics, Images and Symbols
 -   Language
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
