@@ -28,17 +28,20 @@ ta-email-pre:
           <h4 class="padding-1 bg-secondary-darker text-white">Technical Assistance</h4>
           <span class="font-body-3xs">{{ page.ta-text }}</span> <br>
           <ul class="usa-list usa-list--unstyled padding-top-1 font-body-3xs">
-          <li class="padding-bottom-0">888-123-4567 (voice/tty)</li>
           {% comment %}
             <li class="padding-bottom-0">202-272-0080 (voice)</li>
             <li class="padding-bottom-0">800-872-2253 (v)</li>
             <li class="padding-bottom-0">800-993-2822 (tty)</li>
-            {% endcomment %}
             <li class="padding-bottom-0"><a href="mailto:{{ page.ta-email-pre }}@access-board.gov">{{ page.ta-email-pre }}@access-board.gov</a></li>
+          {% endcomment %}
+		<li class="padding-bottom-0">
+			For Best Practices questions, comments, etc. please contact the <a href="https://www.poctrn.org">Point of Care Technology Research Network</a>
+			at <a href="mailto:accessibilityinfo@poctrn.org">AccessibilityInfo@POCTRN.org</a>
+		</li>
           </ul>
         </div>
       </div>
       {% include back-to-top.html %}
-	  </div>
+    </div>
   </div>
 </div>
