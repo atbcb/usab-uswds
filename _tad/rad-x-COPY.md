@@ -5,8 +5,8 @@ permalink: /tad/radx2/
 toc-group: tad
 order-number: 3
 right-sidenav: sidenav-right-universal.html
-ta-text: Contact the Access Board for technical assistance
-ta-email-pre: ta
+ta-text: Contact the NIH for more information
+ta-email-pre: info
 file: /files/mde/radx-bp.pdf
 file-description: Best Practices for the Design of Accessible COVID-19 Home Tests, PDF format
 ---
