@@ -477,7 +477,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <img class="img-full" src="../images/QR-code-is-too-small-to-easily-locate.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">QR code is too small to easily locate</span>
       <ul>
         <li>QR codes are often missing or insufficiently sized (one-half inch square or less).</li>
-        <li>Expiration date format is not recognizable by common OCR applications (refer to pg. 11 for more detail).</li>
+        <li>Expiration date format is not recognizable by common OCR applications (refer to [Key information stands apart](#recommendation-1) for more detail).</li>
       </ul>
     </div>
     <div class="tablet:grid-col">
@@ -485,7 +485,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <img class="img-full" src="../images/QR-code-is-large-and-readily-discoverable.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">QR code is large and readily discoverable</span>
       <ul>
         <li>Present QR codes in size larger than one-half inch square.</li>
-        <li>Refer to pg. 11 for guidance on expiration date formatting.</li>
+        <li>Refer to [Key information stands apart](#recommendation-1) for guidance on expiration date formatting.</li>
       </ul>
     </div>
   </div>
