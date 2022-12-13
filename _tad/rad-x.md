@@ -292,7 +292,7 @@ Tube Holder
       <h4>Graphics, Images and Symbols</h4>
       <p>Graphics, images, and symbols can be an effective way for users to quickly perceive and understand information.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Arrows-show-user-interaction.jpg" alt="Arrows show user interaction with product"> <span class="grid-line text-italic">Arrows show user interaction with product</span> </div>
+    <div class="tablet:grid-col"> <img class="img-medium center" src="../images/Arrows-show-user-interaction.jpg" alt="Arrows show user interaction with product"> <span class="grid-line text-italic">Arrows show user interaction with product</span> </div>
   </div>
 </div>
 <div class="grid-container">
@@ -631,7 +631,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <h4>Identification of Contents</h4>
       <p>Contents in a package need to be identifiable so that users know when to open or use each individual package. It is also important to keep track of what is provided in a package to determine if there are missing components.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Identification-of-Contents.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions for use and kit contents</span> </div>
+    <div class="tablet:grid-col"> <img class="img-medium center" src="../images/Identification-of-Contents.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions for use and kit contents</span> </div>
   </div>
 </div>
 <div class="grid-container">
@@ -654,7 +654,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <h4>Opening Internal Packages</h4>
       <p>Accessing components frequently requires opening a sealed package. The user should be able to easily identify where to open the package. They should be provided with sufficient area to grasp the package. The force required should not exceed five pounds.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Internal-packages.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Internal packages</span> </div>
+    <div class="tablet:grid-col"> <img class="img-medium center" src="../images/Internal-packages.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Internal packages</span> </div>
   </div>
 </div>
 <div class="grid-container">
@@ -717,8 +717,6 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Digital-modalities.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Digital modalities</span> </div>
   </div>
 </div>
-
----
 
 <div class="grid-container">
   <div class="grid-row">
@@ -842,6 +840,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -878,6 +879,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
