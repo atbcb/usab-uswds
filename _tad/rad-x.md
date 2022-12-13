@@ -412,6 +412,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 
 -   Identification
 -   Accessing Contents
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -595,6 +598,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 -   Organization of Contents
 -   Identification of Contents
 -   Opening Internal Packages
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
