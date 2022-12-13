@@ -5,7 +5,7 @@ permalink: /tad/radx/
 toc-group: tad
 order-number: 2
 right-sidenav: sidenav-right-special.html
-ta-text: For Best Practices questions, comments, etc. please contact the Point of Care Technology Research Network
+ta-text: For Best Practices questions, comments, etc. please contact the Point of Care Technology Research Network (POCTRN)
 ta-email-pre: info
 file: /files/mde/radx-bp.pdf
 file-description: Best Practices for the Design of Accessible COVID-19 Home Tests, PDF format
