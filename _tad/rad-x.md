@@ -621,7 +621,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <h5>Recommendation</h5>
       <img class="img-full" src="../images/Contents-neatly-organized-within-box.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Contents neatly organized within box</span>
       <ul>
-        <li>Provide legible (pg. 10) instructions (i.e., QRG) face up as the first thing users encounter. Include a tactile means to locate QR code, linking to digital instructions and test information, including test type, expiration date, and customer service phone number.</li>
+        <li>Provide legible ([see 1.1 above](#recommendation)) instructions (i.e., QRG) face up as the first thing users encounter. Include a tactile means to locate QR code, linking to digital instructions and test information, including test type, expiration date, and customer service phone number.</li>
         <li>Place contents in an organized and fixed manner (e.g., tray, card, dividers, etc.), in clear order of use. This helps users identify components, delineate order of use, and keep components secure.</li>
       </ul>
     </div>
@@ -1007,7 +1007,7 @@ The vocabulary used in instructions impacts a user's ability to understand what 
       <h5>Recommendation</h5>
       <img class="img-full" src="../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Key information stands apart</span>
       <ul>
-        <li>Provide concise, descriptive language of tactile differentiation for each component, especially for components which are highlighted visually in instructions (refer to pg. 28 for more information).</li>
+        <li>Provide concise, descriptive language of tactile differentiation for each component, especially for components which are highlighted visually in instructions (refer to [Language Recommendation](#recommendation-14) for more information).</li>
         <li>Provide clear instructions to conduct the test by feel alone so that no-vision and low-vision users can identify, orient, and use the test components correctly. This should include:</li>
         <ol>
           <li>1. How to discern inner packages from one another (e.g., the two parts of a dropper in separate pouches)</li>
