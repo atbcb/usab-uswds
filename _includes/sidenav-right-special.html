@@ -6,6 +6,8 @@ then add the information you want in the side navigation
 
 this iteration developed from sidenav-right-special.html for NIH RADx Mini Best Practices for Covid-19 Test Kits
 
+link and email is hard coded, which is not desireable
+
 s-url:
 s-image:
 ta-text:
@@ -16,31 +18,33 @@ ta-email-pre:
   <div class="height-viewport sticky">
     <div class="padding-2 bg-white border maxh-viewport">
       <div class="text-center">
-			{% if page.s-image %}
-		  		<a class="usa-link" href="{{ site.baseurl }}{{ page.s-url }}">
-					{% asset {{page.s-image}} class="maxh-15" alt="" %}
-					<span class="usa-button">{{ page.s-url-text }}</span>
-		  		</a>
-		    {% endif %}
-	  </div>
+		  {% if page.s-image %}
+		  	<a class="usa-link" href="{{ site.baseurl }}{{ page.s-url }}">
+				{% asset {{page.s-image}} class="maxh-15" alt="" %}
+				<span class="usa-button">{{ page.s-url-text }}</span>
+		    </a>
+		  {% endif %} </div>
       <div class="margin-top-2 text-center"> {% asset stock/question.svg class="maxh-15" alt="" %}
         <div class="text-center">
           <h4 class="padding-1 bg-secondary-darker text-white">Technical Assistance</h4>
           <span class="font-body-3xs">{{ page.ta-text }}</span> <br>
           <ul class="usa-list usa-list--unstyled padding-top-1 font-body-3xs">
-          {% comment %}
+            {% comment %}
             <li class="padding-bottom-0">202-272-0080 (voice)</li>
             <li class="padding-bottom-0">800-872-2253 (v)</li>
             <li class="padding-bottom-0">800-993-2822 (tty)</li>
             <li class="padding-bottom-0"><a href="mailto:{{ page.ta-email-pre }}@access-board.gov">{{ page.ta-email-pre }}@access-board.gov</a></li>
-          {% endcomment %}
-		  <li class="padding-bottom-0"><a href="https://www.poctrn.org">POCTRN</a></li>
-			<li class="padding-bottom-0"><a href="mailto:accessibilityinfo@poctrn.org">AccessibilityInfo@POCTRN.org</a></li>
-		</li>
+            {% endcomment %}
+            <li class="padding-bottom-0">
+				<a href="https://www.poctrn.org">POCTRN</a>
+			</li>
+            <li class="padding-bottom-0">
+				<a href="mailto:accessibilityinfo@poctrn.org">AccessibilityInfo@POCTRN.org</a>
+			</li>
           </ul>
         </div>
       </div>
       {% include back-to-top.html %}
-    </div>
+	 </div>
   </div>
 </div>
