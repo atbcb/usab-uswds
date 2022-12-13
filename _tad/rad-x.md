@@ -91,6 +91,7 @@ Tube Holder
 -   Graphics, Images and Symbols
 -   Language
 
+---
 
 <div class="grid-container">
   <div class="grid-row">
@@ -222,6 +223,9 @@ Tube Holder
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -416,6 +420,8 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 -   Identification
 -   Accessing Contents
 
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -598,6 +604,8 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 -   Identification of Contents
 -   Opening Internal Packages
 
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -653,6 +661,9 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
+---
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
@@ -700,6 +711,8 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 2.1 Instructions/Accessing Information \
 2.2 Test Procedure
 
+---
+
 ### 2.1 Instructions/Accessing Information
 
 -   Modality
@@ -713,10 +726,11 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 
 ---
 
+#### Modality
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Modality</h4>
       <p>Digital instructions are a great way to convey information and are especially useful for no-vision, low-vision, and older users. However, merely providing digital instructions does not mean that they are actually accessible to each of those user groups.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Digital-modalities.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Digital modalities</span> </div>
@@ -747,10 +761,11 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 
 ---
 
+#### Assistive Technology Compatibility
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Assistive Technology Compatibility</h4>
       <p>Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard, and one that has been rigorously tested with assistive technology such as screen readers and voice dictation software. The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital instructions. Many people are familiar with the process of downloading an application.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Assistive-technologies.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Assistive technologies</span> </div>
@@ -799,10 +814,11 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 
 ---
 
+#### User Interface (UI) Features
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>User Interface (UI) Features</h4>
       <p>The presence or absence of features in an application or web design can significantly impact usability and user satisfaction with the test. A small improvement in UI design can have a major impact on the entire user experience.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/User-interface-considerations.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">User interface considerations</span> </div>
@@ -847,10 +863,14 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
+---
+
+#### Operating System Compatibility
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Operating System Compatibility</h4>
       <p>The ability for content to be recognized and understood by computer, smartphone, and tablet OS and accessibility tools is vital for no-vision and low-vision user access to information about the test.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Device-operating-systems.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Device operating systems</span> </div>
@@ -883,10 +903,14 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
   </div>
 </div>
+
+---
+
+#### Audio Instructions via Website or Application
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Audio Instructions via Website or Application</h4>
       <p>Audio may be the primary mode for some no- vision and low-vision users to receive instructions independently. Designing the audio content is critical to providing a comprehensive understanding of the product.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Multiple-platforms-supporting-audio-content.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Multiple platforms supporting audio content</span> </div>
@@ -912,10 +936,11 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 
 ---
 
+#### Interactive Voice Response (IVR) System
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Interactive Voice Response (IVR) System</h4>
       <p>IVR systems can be used to connect users to instructions through a phone call. This is particularly useful for users with lower familiarity with using web or mobile applications. Connecting users to instructions via telephone allows them to use a well-known, expected, and sometimes expedited instruction format.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Interactive-Voice-Response-(IVR-)System.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Interactive Voice Response (IVR) System</span> </div>
@@ -942,10 +967,11 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 
 ---
 
+#### Video
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Video</h4>
       <p>Videos can be an effective way to inform users about the product and how to use it. They can provide a dynamic demonstration to learners who prefer to process information visually and audibly.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Video-demonstration-of-test-procedure.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Video demonstration of test procedure</span> </div>
@@ -1028,10 +1054,11 @@ The vocabulary used in instructions impacts a user's ability to understand what 
 
 ---
 
+#### Connecting/Bluetooth Pairing
+
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <h4>Connecting/Bluetooth Pairing</h4>
       <p>Some tests may require Bluetooth pairing (connecting a smartphone and another device) to read and communicate results. Pairing devices involves having two components in proximity to each other, initiating a pairing sequence, receiving feedback when pairing has been completed successfully (or not), and understanding what that feedback signifies.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Phone-connecting-via-Bluetooth.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Phone connecting via Bluetooth</span> </div>
