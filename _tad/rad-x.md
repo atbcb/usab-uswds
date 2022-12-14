@@ -740,9 +740,6 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Digital-modalities.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Digital modalities</span> </div>
   </div>
 </div>
-
----
-
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
