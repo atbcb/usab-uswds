@@ -480,7 +480,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/QR-code-is-too-small-to-easily-locate.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">QR code is too small to easily locate</span>
+      <img class="img-full" src="../images/QR-code-is-too-small-to-easily-locate.jpg" alt="Box and label with small QR code in the corner of the label."> <span class="grid-line text-italic">QR code is too small to easily locate</span>
       <ul>
         <li>QR codes are often missing or insufficiently sized (one-half inch square or less).</li>
         <li>Expiration date format is not recognizable by common OCR applications (refer to [Key information stands apart](#recommendation-1) for more detail).</li>
@@ -488,7 +488,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/QR-code-is-large-and-readily-discoverable.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">QR code is large and readily discoverable</span>
+      <img class="img-full" src="../images/QR-code-is-large-and-readily-discoverable.jpg" alt="Box and label with large QR code in the corner of the label."> <span class="grid-line text-italic">QR code is large and readily discoverable</span>
       <ul>
         <li>Present QR codes in size larger than one-half inch square.</li>
         <li>Refer to [Key information stands apart](#recommendation-1) for guidance on expiration date formatting.</li>
@@ -500,12 +500,12 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Example-of-a-flat-QR.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Example of a flat QR</span>
+      <img class="img-full" src="../images/Example-of-a-flat-QR.jpg" alt="Box with QR code printed on the surface. Zoomed-in image shows that the QR code is flat and even with the surface of the box."> <span class="grid-line text-italic">Example of a flat QR</span>
       <p>There are generally no tactile features on the surfaces of standard boxes, which would otherwise allow for a no-vision or low-vision user to identify package contents, either through a QR code or through braille.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Alternatives-to-flat-QR-codes.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Alternatives to flat QR codes</span>
+      <img class="img-full" src="../images/Alternatives-to-flat-QR-codes.jpg" alt="Box with raised QR code. Zoomed-in image shows that the QR code is three dimensional and thus slightly raised off the surface of the box."> <span class="grid-line text-italic">Alternatives to flat QR codes</span>
       <p>Provide a means to tactilely find encoded information (e.g., a raised sticker, or raised outline). A QR code should be the primary way for a user to obtain information; braille and embossed lettering are appropriate secondary methods.</p>
     </div>
   </div>
@@ -524,14 +524,14 @@ The vocabulary used in instructions is key to a user's ability to understand wha
         <li>Minimizing jostling of internal components</li>
       </ul>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Package-with-tamper-evident-seal.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Package with tamper evident seal</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Package-with-tamper-evident-seal.jpg" alt="Test kit box with a seal keeping the box closed"> <span class="grid-line text-italic">Package with tamper evident seal</span> </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Difficult-to-remove-tamper-proof-seal.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Difficult to remove tamper-proof seal</span>
+      <img class="img-full" src="../images/Difficult-to-remove-tamper-proof-seal.jpg" alt="Test kit box with a small, clear, round tamper-proof seal"> <span class="grid-line text-italic">Difficult to remove tamper-proof seal</span>
       <ul>
         <li>Tamper-proof seals are often small, round adhesive stickers that can be challenging to find and to remove, especially for low-dexterity users.</li>
         <li>Tearing open a package without removing the sticker frequently results in the package being damaged and contents being disorganized and potentially misplaced.</li>
@@ -539,7 +539,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Easy-to-remove-tamper-proof-seal.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Easy to remove tamper-proof seal</span>
+      <img class="img-full" src="../images/Easy-to-remove-tamper-proof-seal.jpg" alt="Test kit box with a large, visible tamper-proof seal"> <span class="grid-line text-italic">Easy to remove tamper-proof seal</span>
       <ul>
         <li>The grasp surface on the tamper-proof seal should be adequate for fingers to grasp, allowing users with low dexterity to easily remove it. If a feature to grasp is being provided, provide at least one-half inch square of graspable area.</li>
         <li>Force to remove a label or open a pouch/package should not exceed five pounds.</li>
@@ -551,7 +551,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Difficult-to-remove-tamper-proof-seal-2.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Difficult to remove tamper-proof seal</span>
+      <img class="img-full" src="../images/Difficult-to-remove-tamper-proof-seal-2.jpg" alt="Test kit box with tamper proof seal being cut with scissors"> <span class="grid-line text-italic">Difficult to remove tamper-proof seal</span>
       <ul>
         <li>When faced with this tamper-proof seal, many users resort to external tools such as scissors and knives to open the package, which may result in damaging contents.</li>
         <li>Many tamper-proof seals are clear, making them challenging to find for low-vision users.</li>
@@ -559,7 +559,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Easy-to-remove-tamper-proof-seal-2.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Easy to remove tamper-proof seal</span>
+      <img class="img-full" src="../images/Easy-to-remove-tamper-proof-seal-2.jpg" alt="Test kit box with large tamper-proof seal. A corner of the seal is lifted, demonstrating easy removal."> <span class="grid-line text-italic">Easy to remove tamper-proof seal</span>
       <ul>
         <li>Provide a tamper-proof seal that is easy to find and easy to remove for everyone. Allow users to grasp features easily and complete the action required to remove without the need for external tools.</li>
         <li>The tamper-proof seal should be a contrasting color to the rest of the package.</li>
@@ -571,12 +571,12 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Package-without-intuitive-opening.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Package without intuitive opening</span>
+      <img class="img-full" src="../images/Package-without-intuitive-opening.jpg" alt="Closed test kit box"> <span class="grid-line text-italic">Package without intuitive opening</span>
       <p>It can be challenging to understand how to open a package (e.g., How does the lid open? Is there a place where the top and bottom separate?), especially for no-vision and low-vision users, when the only indication regarding top, bottom, front, and back is through visual, printed labeling.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Packages-with-opening-cues.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Packages with opening cues</span>
+      <img class="img-full" src="../images/Packages-with-opening-cues.jpg" alt="Three test kit boxes with different opening mechanisms—perforated tear tab, thumb cutout, and overlapping flaps. Each of the opening mechanism is circled."> <span class="grid-line text-italic">Packages with opening cues</span>
       <p>Provide familiar tactile cues on the packaging indicating which part is meant to be moved, removed, or separated (e.g., perforated tear tab, thumb cutout, overlapping flaps).</p>
     </div>
   </div>
