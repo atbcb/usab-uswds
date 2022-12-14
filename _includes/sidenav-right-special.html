@@ -1,18 +1,10 @@
 {% comment %}
-
-add this right side navigation to any page using front matter. Easiest to apply it to the entire collection in the _config.yml file by adding
-   right-sidenav: sidenav-right-special.html
-then add the information you want in the side navigation
-
-this iteration developed from sidenav-right-special.html for NIH RADx Mini Best Practices for Covid-19 Test Kits
-
-link and email is hard coded, which is not desireable
-
+add this right side navigation to any page using front matter
+this files adapted from sidenav-right-universal.html, initially for NIH RADx Mini Best Practices for Covid-19 Test Kits
 s-url:
 s-image:
 ta-text:
 ta-email-pre:
-
 {% endcomment %}
 <div class="desktop:grid-col-2 margin-top-3 margin-x-1">
   <div class="height-viewport sticky">
@@ -33,14 +25,14 @@ ta-email-pre:
             <li class="padding-bottom-0">202-272-0080 (voice)</li>
             <li class="padding-bottom-0">800-872-2253 (v)</li>
             <li class="padding-bottom-0">800-993-2822 (tty)</li>
-            <li class="padding-bottom-0"><a href="mailto:{{ page.ta-email-pre }}@access-board.gov">{{ page.ta-email-pre }}@access-board.gov</a></li>
             {% endcomment %}
             <li class="padding-bottom-0">
-				<a href="https://www.poctrn.org">POCTRN</a>
+				<a href="{{ page.special-url-link }}">{{ page.special-url-text }}</a>
 			</li>
             <li class="padding-bottom-0">
-				<a href="mailto:accessibilityinfo@poctrn.org">AccessibilityInfo@POCTRN.org</a>
+				<a href="{{ page.special-email-link }}">{{ page.special-email-text }}</a>
 			</li>
+            <li class="padding-bottom-0"><a href="mailto:{{ page.ta-email-pre }}@access-board.gov">{{ page.ta-email-pre }}@access-board.gov</a></li>
           </ul>
         </div>
       </div>
