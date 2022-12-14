@@ -6,7 +6,7 @@ toc-group: tad
 order-number: 2
 right-sidenav: sidenav-right-special.html
 special-email-text: AccessibilityInfo@POCTRN.org
-special-email-link: mailto:accessibilityinfo@poctrn.org
+special-email-link: accessibilityinfo@poctrn.org
 ta-text: Contact for questions and comments on Best Practices for the Design of Accessible COVID-19 Home Tests
 ta-email-pre: info
 file: /files/mde/radx-bp.pdf
