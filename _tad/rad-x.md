@@ -16,7 +16,7 @@ file-description: Best Practices for the Design of Accessible COVID-19 Home Test
 
 ### Introduction
 
-The National Institutes of Health (NIH) launched the Rapid Acceleration of Diagnostics (RADx®) initiative to speed innovation, development, commercialization, and implementation of COVID-19 testing technologies. The RADx Tech program, one arm of the initiative, was specifically designed to compress the customary technology development timeline from years down to just months. While these programs have increased testing capacity in the U.S. by billions, there is a continuing need to develop at-home COVID-19 tests that are accessible to all users including populations that have no vision or low vision, a reduced range of dexterity or motor skills, and that are aging.
+The National Institutes of Health (NIH) launched the Rapid Acceleration of Diagnostics (RADx®) initiative to speed innovation, development, commercialization, and implementation of COVID-19 testing technologies. The RADx Tech program, one arm of the initiative, was specifically designed to compress the customary technology development timeline from years down to just months. While these programs have increased testing capacity in the U.S. by billions, there is a continuing need to develop at-home COVID-19 tests that are accessible to all users including populations that have no vision or low vision, a reduced range of dexterity or motor skills, and those that are aging.
 
 Within RADx Tech, the RADx Deployment Core has focused on increasing accessibility of at-home COVID-19 tests. As first steps, research was conducted to locate pre-existing accessible product design guidelines and engineering design groups were consulted. One of the immediate and surprising insights to come from these efforts was the lack of comprehensive in vitro diagnostic (IVD) guidelines or standards for accessible design of IVD products for manufacturers and engineers. Advocacy groups and foundations that have a deep knowledge of the experience and needs of people with these types of challenges were engaged.
 
@@ -47,7 +47,7 @@ Lateral Flow Assay (LFA)
 : (Also referred to as a lateral flow device, a rapid test, or a lateral flow immunochromatographic assay) A device intended to detect the presence of a target substance in a liquid sample without the need for specialized and costly equipment.
 
 Optical Character Recognition (OCR)
-: Software that converts non-editable document formats such as PDFs, images or paper documents into machinereadable formats that are editable and searchable.
+: Software that converts non-editable document formats such as PDFs, images or paper documents into machine-readable formats that are editable and searchable.
 
 Quick Response (QR) Code
 : A type of matrix barcode that can be read easily by a digital device, which stores information as a series of pixels in a square-shaped grid.
@@ -131,7 +131,7 @@ Tube Holder
       <img class="img-full" src="../images/instructions-issue.jpg" alt="Instructions for use with small point size, light grey font and a small QR code"> <span class="grid-line text-italic"> Key information hard to distinguish</span>
       <ul>
         <li>Content is displayed such that it is challenging to distinguish key and supporting information.</li>
-        <li>Expiration dates and QR codes are small (one-half inch square in or less) and difficult to locate.</li>
+        <li>Expiration dates and QR codes are small (one-half inch square or less) and difficult to locate.</li>
         <li>Expiration date is presented as a number string (e.g., YYYY-MM-DD or MM/DD/YYYY) only, which OCR applications do not recognize as dates.</li>
       </ul>
     </div>
@@ -141,7 +141,7 @@ Tube Holder
       <ul>
         <li>Present key information in large and/or boldface type. (Use minimum of 14 pt).</li>
         <li>Provide QR codes measuring larger than one-half inch square.</li>
-        <li>Present expiration date with spelled out month, numerical day and year (e.g., Mon DD, YYYY, such as Oct 12, 2022), as well as in unique device identifier (UDI) format (YYYY- MM-DD, such as 2022-10-12).  Ideally, state: 'Use before [date]' or 'Do not use after [date]'.</li>
+        <li>Present expiration date with abbreviated or spelled out month, numerical day and year (e.g., Oct 12, 2022), as well as in unique device identifier (UDI) format (e.g., 2022-10-12). Ideally, state: 'Use before [date]' or 'Do not use after [date]'.</li>
       </ul>
     </div>
   </div>
@@ -151,7 +151,7 @@ Tube Holder
     <div class="tablet:grid-col">
       <h5>Issue</h5>
       <img class="img-large center" src="../images/text-perception-issue.jpg" alt="Instructions for use with grey text on a grey background, making it hard to distinguish. A grid of colors and text that are too similar to one another, making it hard to distinguish the copy from the color backgrounds"> <span class="grid-line text-italic">Poor color combination; instructions with poor legibility</span>
-      <p>Information can be provided with inappropriate color contrast.  It can be challenging to perceive key information.</p>
+      <p>Information can be provided with poor color contrast.  It can be challenging to perceive key information.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
@@ -316,7 +316,7 @@ Tube Holder
       <img class="img-full" src="../images/Line-drawings-improve-comprehension.jpg" alt="Three-dimensional, black line drawing of a test kit tube"> <span class="grid-line text-italic">Line drawings improve comprehension</span>
       <ul>
         <li>Use high-quality, high-contrast, thick line drawings with perspective instead of photos.</li>
-        <li>Use varying line weights to distinguish detail and accent features (e.g., 0.5 pt -- 1.5 pt for lines and 3 pt -- 4 pt for accent features).</li>
+        <li>Use varying line weights to distinguish detail and accent features (e.g., 0.5 pt - 1.5 pt for lines and 3 pt - 4 pt for accent features).</li>
       </ul>
     </div>
   </div>
@@ -326,7 +326,7 @@ Tube Holder
     <div class="tablet:grid-col">
       <h5>Issue</h5>
       <img class="img-full" src="../images/2D-thin-line-and-low-contrast-drawings.jpg" alt="Two dimensional line drawng of a test kit tube with thin black lines. A two-dimensional illustration of a test kit tube using color fills of two shades of grey"> <span class="grid-line text-italic">2D thin line and low-contrast drawings</span>
-      <p>It can also be difficult to interpret 2D drawings, especially those with thin lines, low-contrast, or lower image quality or sharpness.</p>
+      <p>It can also be difficult to interpret 2D drawings, especially those with thin lines, low contrast, or lower image quality or sharpness.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
@@ -474,7 +474,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
       <img class="img-full" src="../images/Recommended-color-combination-legible-packaging.jpg" alt="Illustrated black and white box with text. Grid of colors paired with text in contrasting colors"> <span class="grid-line text-italic">Recommended color combination; legible packaging</span>
-      <p>Use effective color contrast on outer packaging (refer to <a href="#recommendation-2">Recommended color combinations</a> for design considerations).</p>
+      <p>Use effective color contrast on outer packaging (refer to <a href="#recommendation-2">recommended color combinations</a> for design considerations).</p>
     </div>
   </div>
 </div>
