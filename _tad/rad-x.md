@@ -234,7 +234,7 @@ Tube Holder
       <h4>Physical Embodiment</h4>
       <p>Instructions can be provided in a number of ways: on a card, on paper, on a fold out, or in a booklet. The mode in which physical instructions are provided can impact readability and usability.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Layout-considerations-for-readability.jpg" alt="Multi-folded instructions for use document"> <span class="grid-line text-italic">Instructions for use</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Instructions-for-use.jpg" alt="Multi-folded instructions for use document"> <span class="grid-line text-italic">Instructions for use</span> </div>
   </div>
 </div>
 <div class="grid-container">
