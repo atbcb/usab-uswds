@@ -4,7 +4,7 @@ title: Best Practices for the Design of Accessible COVID-19 Home Tests
 permalink: /tad/radx/
 toc-group: tad
 order-number: 2
-right-sidenav: sidenav-right-special.html
+right-sidenav: sidenav-right-radx.html
 special-email-text: AccessibilityInfo@POCTRN.org
 special-email-link: accessibilityinfo@poctrn.org
 ta-text: Contact for questions and comments on Best Practices for the Design of Accessible COVID-19 Home Tests
