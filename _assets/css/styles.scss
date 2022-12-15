@@ -58,6 +58,7 @@ a.style-inherit {
   text-decoration: inherit; // no underline
 }
 
+
 // stylish faux 'page-breaks'
 hr {
   border: solid;
@@ -222,6 +223,10 @@ ul.check li {
 td ul.check {
 	text-align: left;
 	margin-left: -1em;
+}
+
+.tablet\:grid-col p {
+    margin: 5px;
 }
 
 // Page header USAB logo override
