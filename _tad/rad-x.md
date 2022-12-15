@@ -1022,7 +1022,6 @@ The vocabulary used in instructions impacts a user's ability to understand what 
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-
       <ul>
         <li>Digital instructions can provide language which is not descriptive enough for a no-vision user (e.g., "Grasp the yellow swab package and tear open."). Tactile descriptions are not consistently provided in digital instructions.</li>
         <li>There are also component references that can create ambiguity for no-vision users working with screen readers, such as referring to components as "this" or "that."</li>
