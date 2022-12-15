@@ -672,19 +672,19 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <h4>Opening Internal Packages</h4>
       <p>Accessing components frequently requires opening a sealed package. The user should be able to easily identify where to open the package. They should be provided with sufficient area to grasp the package. The force required should not exceed five pounds.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Internal-packages.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Internal packages</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Internal-packages.jpg" alt="Swab sleeve partially peeled open and a patially torn foil pouch"> <span class="grid-line text-italic">Internal packages</span> </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Pouch-without-clear-indication-for-tear-location.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Pouch without clear indication for tear location</span>
+      <img class="img-full" src="../images/Pouch-without-clear-indication-for-tear-location.jpg" alt="Pouch with small indents that indicate wear to tear open"> <span class="grid-line text-italic">Pouch without clear indication for tear location</span>
       <p>It can be difficult to understand how to open a pouch. Locating the correct place to tear is often challenging.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Pouch-with-evident-tear-location.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Pouch with evident tear location</span>
+      <img class="img-full" src="../images/Pouch-with-evident-tear-location.jpg" alt="Pouch with small indents and a dotted line to indicate wear to tear open"> <span class="grid-line text-italic">Pouch with evident tear location</span>
       <p>Provide multi-modal methods to inform the user how to open package. For example, include both a line with high contrast of where a tear should happen along with a notch that is findable by touch.</p>
     </div>
   </div>
@@ -693,12 +693,12 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Swab-packaging-with-swab-tip-near-small-peel-tab.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Swab packaging with swab tip near small peel tab</span>
+      <img class="img-full" src="../images/Swab-packaging-with-swab-tip-near-small-peel-tab.jpg" alt="Partially peeled swab sleeve with the open end of the sleeve revealing the swab tip"> <span class="grid-line text-italic">Swab packaging with swab tip near small peel tab</span>
       <p>Interior packaging may present a method for opening which exposes an area to contamination through touch.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Swab-packaging-with-swab-handle-near-big-peel-tab.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Swab packaging with swab handle near big peel tab</span>
+      <img class="img-full" src="../images/Swab-packaging-with-swab-handle-near-big-peel-tab.jpg" alt="Partially peeled swab sleeve with the open end of the sleeve revealing the swab handle"> <span class="grid-line text-italic">Swab packaging with swab handle near big peel tab</span>
       <p>Ensure the opening exposes the component portion that would be preferred to touch (e.g., peel feature near swab handle rather than swab tip).</p>
     </div>
   </div>
@@ -735,14 +735,14 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
       <p>Digital instructions are a great way to convey information and are especially useful for no-vision, low-vision, and older users. However, merely providing digital instructions does not mean that they are actually accessible to each of those user groups.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Digital-modalities.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Digital modalities</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Digital-modalities.jpg" alt="Line drawing of a mobile device, desktop computer monitor with an audio symbol and a document with a listening symbol"> <span class="grid-line text-italic">Digital modalities</span> </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <p>Instructions are solely provided in print or accompanied by an image-only PDF making them inaccessible to users with no-vision, low-vision, dexterity challenges, or older users.</p>
+      <p>Instructions are solely provided in print or accompanied by an image-only PDF making them inaccessible to users with no vision, low vision, dexterity challenges, or older users.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
@@ -767,14 +767,14 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
       <p>Digital instructions should be provided on a website that conforms to WCAG 2.1 AA standard, and one that has been rigorously tested with assistive technology such as screen readers and voice dictation software. The website should be accessible via QR code and a plain text URL. Test-specific companion applications are another method for users to access digital instructions. Many people are familiar with the process of downloading an application.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Assistive-technologies.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Assistive technologies</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Assistive-technologies.jpg" alt="Desktop computer with icons of assistive technologies"> <span class="grid-line text-italic">Assistive technologies</span> </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <p>Instructions are provided in a format that is not compatible with use on a smartphone or computer and/ or that cannot be utilized by an accessible tool such as operating system (OS) accessibility features.</p>
+      <p>Instructions are provided in a format that is not compatible with use on a smartphone or computer and/or that cannot be utilized by an accessible tool such as operating system (OS) accessibility features.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
@@ -787,7 +787,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
             <li> <a href="https://www.w3.org/TR/mobile-accessibility-mapping/">Mobile Accessibility</a> </li>
           </ul>
         </li>
-        <li>Ensure the QRG is available as a PDF that conforms to Section 508, WCAG 2.1 level AA, and PDF/Unive	rsal Accessibility (UA) standards.</li>
+        <li>Ensure the QRG is available as a PDF that conforms to Section 508, WCAG 2.1 level AA, and PDF/Universal Accessibility (UA) standards.</li>
         <li>Ensure all images have meaningful, descriptive alternative ('alt') text, particularly when describing test components such that they can be discerned from one another non-visually.</li>
         <li>Ensure all form fields have accessible names/labels.</li>
         <li>Consider providing a Digital Accessible Information System (DAISY) format of the QRG with sections and subsections defined in the file (See also Physical Components - Instructions/Accessing Information <a href="#11-instructionsaccessing-information">above</a>).</li>
@@ -800,12 +800,12 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Formatting-incompatible-with-screen-reader.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Formatting incompatible with screen reader</span>
+      <img class="img-full" src="../images/Formatting-incompatible-with-screen-reader.jpg" alt="Desktop computer with a document on the screen"> <span class="grid-line text-italic">Formatting incompatible with screen reader</span>
       <p>Not all digital instructions are compatible with screen readers. Key elements are often coded incorrectly or in a format that screen readers cannot detect, meaning content may be out of order, incomplete, or incomprehensible. Instructions may be provided in a format that is not compatible with use on a smartphone or tablet or that cannot be perceived by an accessible tool such as OS accessibility features.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Formatting-compatible-with-screen-readers.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Formatting compatible with screen readers</span>
+      <img class="img-full" src="../images/Formatting-compatible-with-screen-readers.jpg" alt="Desktop computer with a full-width web page on the screen"> <span class="grid-line text-italic">Formatting compatible with screen readers</span>
       <p>Ensure digital instructions are compatible with all commonly used screen readers. Confirm both computer and mobile screen reader compatibility of each and every screen element (e.g., images, fields, buttons).</p>
     </div>
   </div>
@@ -820,7 +820,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
       <p>The presence or absence of features in an application or web design can significantly impact usability and user satisfaction with the test. A small improvement in UI design can have a major impact on the entire user experience.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/User-interface-considerations.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">User interface considerations</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/User-interface-considerations.jpg" alt="Three mobile phone screens"> <span class="grid-line text-italic">User interface considerations</span> </div>
   </div>
 </div>
 <div class="grid-container">
