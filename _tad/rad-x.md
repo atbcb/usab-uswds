@@ -1021,7 +1021,7 @@ The vocabulary used in instructions impacts a user's ability to understand what 
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/instructions-issue.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic"> Key information hard to distinguish</span>
+
       <ul>
         <li>Digital instructions can provide language which is not descriptive enough for a no-vision user (e.g., "Grasp the yellow swab package and tear open."). Tactile descriptions are not consistently provided in digital instructions.</li>
         <li>There are also component references that can create ambiguity for no-vision users working with screen readers, such as referring to components as "this" or "that."</li>
@@ -1030,7 +1030,7 @@ The vocabulary used in instructions impacts a user's ability to understand what 
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Key information stands apart</span>
+
       <ul>
         <li>Provide concise, descriptive language of tactile differentiation for each component, especially for components which are highlighted visually in instructions (refer to <a href="#recommendation-14">language recommendation</a> for more information).</li>
         <li>Provide clear instructions to conduct the test by feel alone so that no-vision and low-vision users can identify, orient, and use the test components correctly. This should include:</li>
