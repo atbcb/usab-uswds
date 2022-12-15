@@ -910,7 +910,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
-      <p>Audio may be the primary mode for some no- vision and low-vision users to receive instructions independently. Designing the audio content is critical to providing a comprehensive understanding of the product.</p>
+      <p>Audio may be the primary mode for some no-vision and low-vision users to receive instructions independently. Designing the audio content is critical to providing a comprehensive understanding of the product.</p>
     </div>
     <div class="tablet:grid-col"> <img class="img-full" src="../images/Multiple-platforms-supporting-audio-content.jpg" alt="Desktop computer with audio symbol. A hand holding a mobile phone that shows an audio file being played"> <span class="grid-line text-italic">Multiple platforms supporting audio content</span> </div>
   </div>
@@ -1032,13 +1032,13 @@ The vocabulary used in instructions impacts a user's ability to understand what 
       <h5>Recommendation</h5>
       <img class="img-full" src="../images/instructions-recommendation.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Key information stands apart</span>
       <ul>
-        <li>Provide concise, descriptive language of tactile differentiation for each component, especially for components which are highlighted visually in instructions (refer to <a href="#recommendation-14">Language Recommendation</a> for more information).</li>
+        <li>Provide concise, descriptive language of tactile differentiation for each component, especially for components which are highlighted visually in instructions (refer to <a href="#recommendation-14">language recommendation</a> for more information).</li>
         <li>Provide clear instructions to conduct the test by feel alone so that no-vision and low-vision users can identify, orient, and use the test components correctly. This should include:</li>
         <ol>
           <li>1. How to discern inner packages from one another (e.g., the two parts of a dropper in separate pouches)</li>
           <li>2. A clear non-visual physical description of each kit component including shape, size, and feel (versus color) (e.g., "Open the package that is a rectangle with a pull tab at the end.")</li>
           <li>3. How components interact with each other</li>
-          <li>4. Translating visual content with clear and non- physical audio descriptions</li>
+          <li>4. Translating visual content with clear and non-physical audio descriptions</li>
         </ol>
       </ul>
     </div>
