@@ -129,7 +129,7 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 **As of September 30, 2021 and 2020 <br /> (In Dollars)**
 
-{% include_relative par-fy2021-table-scnp.html %}
+{% include_relative par-fy2022-42-sbr.html %}
 
 The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
 
@@ -141,7 +141,7 @@ The [accompanying notes](#notes-to-the-financial-statements) are an integral par
 
 **For the Years Ended September 30, 2022 and 2021 <br /> (In Dollars)**
 
-{% include_relative par-fy2021-table-sbr.html %}
+{% include_relative par-fy2022-42-sbr.html %}
 
 The [accompanying notes](#notes-to-the-financial-statements) are an integral part of these financial statements.
 
@@ -159,7 +159,6 @@ Fund Balance with Treasury account balances as of September 30, 2021 and 2020, r
 
 TABLE 20
 {: par-money :}
-
 
 No discrepancies exist between the Fund Balance reflected on the Balance Sheet and the balances in the Treasury accounts.
 
@@ -316,7 +315,7 @@ Reconciliation of Net Costs to Net Outlays as September 30, 2021:
 
 **(In Dollars)**
 
-{% include_relative par-fy2021-table-note12-2021.html %}
+{% include_relative par-fy2022-100-note12-2021.html %}
 
 Reconciliation of Net Cost to Net Outlays, as September 30, 2020:
 
@@ -326,8 +325,5 @@ Reconciliation of Net Cost to Net Outlays, as September 30, 2020:
 
 **(In Dollars)**
 
-{% include_relative par-fy2021-table-note12-2020.html %}
-
-
-
+{% include_relative par-fy2022-200-note12-2021.html %}
 
