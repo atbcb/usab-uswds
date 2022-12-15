@@ -526,7 +526,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
         <li>Minimizing jostling of internal components</li>
       </ul>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Package-with-tamper-evident-seal.jpg" alt="Test kit box with a seal keeping the box closed"> <span class="grid-line text-italic">Package with tamper evident seal</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Package-with-tamper-evident-seal.jpg" alt="Test kit box with a seal keeping the box closed"> <span class="grid-line text-italic">Package with tamper-proof seal</span> </div>
   </div>
 </div>
 <div class="grid-container">
@@ -587,12 +587,12 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Package-without-intuitive-opening.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Plain box with no divots</span>
+      <img class="img-full" src="../images/Package-without-intuitive-opening.jpg" alt="Closed test kit box"> <span class="grid-line text-italic">Plain box with no divots</span>
       <p>It can be challenging to physically open a package when there are no affordances provided to grasp and pull or push.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Boxes-with-divots-and-flaps.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Boxes with divots and flaps</span>
+      <img class="img-full" src="../images/Boxes-with-divots-and-flaps.jpg" alt="Three boxes with flaps and divots. Directional arrows indicating how they open."> <span class="grid-line text-italic">Boxes with divots and flaps</span>
       <p>Include features for opening the package which accommodate users' fingers and a variety of hand sizes to ensure opening methods require low force.</p>
     </div>
   </div>
@@ -614,14 +614,14 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <h4>Organization of Contents</h4>
       <p>Test kits containing multiple components must identify the components, secure small components, and provide information on the order in which the components are to be used. Organizing contents thoughtfully can greatly enhance the user's ability to complete the test.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Kit-contents.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Kit contents</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Kit-contents.jpg" alt="Open test kit box with kit contents inside the box. Each component is laying flat within a fixed tray inside the box."> <span class="grid-line text-italic">Kit contents</span> </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Loose-contents-inside-box-packaging.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Loose contents inside box packaging</span>
+      <img class="img-full" src="../images/Loose-contents-inside-box-packaging.jpg" alt="Open text kits box with loose components inside"> <span class="grid-line text-italic">Loose contents inside box packaging</span>
       <ul>
         <li>Internal instructions and key information are not presented to the user in a manner that is easy to find and users do not know what to reference first.</li>
         <li>Packages can have a number of components and interior packages loosely placed inside. When opened, the contents can fall out rendering them hard to identify, manage, and track. It can be difficult to understand which interior package or component is meant to be handled and when.</li>
@@ -629,7 +629,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Contents-neatly-organized-within-box.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Contents neatly organized within box</span>
+      <img class="img-full" src="../images/Contents-neatly-organized-within-box.jpg" alt="Test kit contents neatly stacked in trays with an instruction card and QR card at the top-most layer"> <span class="grid-line text-italic">Contents neatly organized within box</span>
       <ul>
         <li>Provide legible (<a href="#recommendation">see 1.1 above</a>) instructions (i.e., QRG) face up as the first thing users encounter. Include a tactile means to locate QR code, linking to digital instructions and test information, including test type, expiration date, and customer service phone number.</li>
         <li>Place contents in an organized and fixed manner (e.g., tray, card, dividers, etc.), in clear order of use. This helps users identify components, delineate order of use, and keep components secure.</li>
@@ -646,19 +646,19 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <h4>Identification of Contents</h4>
       <p>Contents in a package need to be identifiable so that users know when to open or use each individual package. It is also important to keep track of what is provided in a package to determine if there are missing components.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Identification-of-Contents.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions for use and kit contents</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Identification-of-Contents.jpg" alt="Line drawings of instructions for use, swab pouch, test device pouch, and buffer tube"> <span class="grid-line text-italic">Instructions for use and kit contents</span> </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Parts-are-packaged-in-foil-pouches-with-the-same-factor.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Parts are packaged in foil pouches with the same form factor</span>
+      <img class="img-full" src="../images/Parts-are-packaged-in-foil-pouches-with-the-same-factor.jpg" alt="Three pouches with their contents visible inside. Each pouch shares the same form factor, specifically a foil pouch that opens by tearing off the top. "> <span class="grid-line text-italic">Parts are packaged in foil pouches with the same form factor</span>
       <p>Component packages that are similar in size and shape to one another are difficult to distinguish.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Parts-are-packaged-with-distinct-materials-and-form-factors.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Parts are packaged with distinct materials and form factors</span>
+      <img class="img-full" src="../images/Parts-are-packaged-with-distinct-materials-and-form-factors.jpg" alt="A swab pouch designed as a slender sleeve that feels apart. A test device in a foil pouch that tears at the top. A single tube buffer without packaging."> <span class="grid-line text-italic">Parts are packaged with distinct materials and form factors</span>
       <p>If components have interior packages, ensure that each component is tactilely discernible from others so users can use touch to identify contents. For example, a user could be instructed to feel for a component shape inside the interior package. Alternatively, the kit could provide distinct shapes of the interior packages that can be described to and felt by no-vision or low- vision users.</p>
     </div>
   </div>
