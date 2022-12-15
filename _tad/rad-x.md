@@ -950,12 +950,12 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Instructions-without-IVR-availability.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions without IVR availability</span>
+      <img class="img-full" src="../images/Instructions-without-IVR-availability.jpg" alt="Instructions for use without IVR information"> <span class="grid-line text-italic">Instructions without IVR availability</span>
       <p>Instructions are not always available by phone which is challenging to some users.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Instructions-with-IVR-availability.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Instructions with IVR availability</span>
+      <img class="img-full" src="../images/Instructions-with-IVR-availability.jpg" alt="Instructions for use that include IVR information"> <span class="grid-line text-italic">Instructions with IVR availability</span>
       <p>Provide audio instructions via IVR system capable of:</p>
       <ul>
         <li>Navigating instructions in the same manner as the downloadable file types.</li>
@@ -974,7 +974,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
       <p>Videos can be an effective way to inform users about the product and how to use it. They can provide a dynamic demonstration to learners who prefer to process information visually and audibly.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Video-demonstration-of-test-procedure.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Video demonstration of test procedure</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Video-demonstration-of-test-procedure.jpg" alt="Video screen showing a person swabbing their nose"> <span class="grid-line text-italic">Video demonstration of test procedure</span> </div>
   </div>
 </div>
 <div class="grid-container">
@@ -1061,14 +1061,14 @@ The vocabulary used in instructions impacts a user's ability to understand what 
     <div class="tablet:grid-col">
       <p>Some tests may require Bluetooth pairing (connecting a smartphone and another device) to read and communicate results. Pairing devices involves having two components in proximity to each other, initiating a pairing sequence, receiving feedback when pairing has been completed successfully (or not), and understanding what that feedback signifies.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Phone-connecting-via-Bluetooth.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Phone connecting via Bluetooth</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Phone-connecting-via-Bluetooth.jpg" alt="Hand holding a mobile phone next to a digital test device. Dotted line and bluetooth symbol indicate the phone is syncing with the device."> <span class="grid-line text-italic">Phone connecting via Bluetooth</span> </div>
   </div>
 </div>
 <div class="grid-container">
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Phone-connecting-via-Bluetooth-with-visual-cues.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Phone connecting via Bluetooth with visual cues</span>
+      <img class="img-full" src="../images/Phone-connecting-via-Bluetooth-with-visual-cues.jpg" alt="Mobile phone next to a digital test device. Text prompt on the phone says the bluetooth device as been paired successfully."> <span class="grid-line text-italic">Phone connecting via Bluetooth with visual cues</span>
       <ul>
         <li>Common pairing methods only provide visual feedback on pairing status (e.g., lights on the device).</li>
         <li>Some pairing requires components to be placed a specific distance away from a component and the user is not aware when the two are in range of each other.</li>
@@ -1076,7 +1076,7 @@ The vocabulary used in instructions impacts a user's ability to understand what 
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Phone-connecting-via-Bluetooth-with-audio-cues.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Phone connecting via Bluetooth with audio cues</span>
+      <img class="img-full" src="../images/Phone-connecting-via-Bluetooth-with-audio-cues.jpg" alt="Mobile phone next to a digital test device. Text prompt on the phone says the bluetooth device as been paired successfully. Audio waves near the phone indicate this message is also being communicated audibly."> <span class="grid-line text-italic">Phone connecting via Bluetooth with audio cues</span>
       <ul>
         <li>Provide multi-modal, clear feedback on pairing status (e.g., audible and/or tactile feedback).</li>
         <li>If a device is required to be placed a specific distance from a component, provide device positioning recognition to the user.</li>
