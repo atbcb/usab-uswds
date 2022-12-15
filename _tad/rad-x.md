@@ -5,7 +5,7 @@ permalink: /tad/radx/
 toc-group: tad
 order-number: 2
 right-sidenav: sidenav-right-radx.html
-special-prompt: Contact for questions and comments on Best Practices for the Design of Accessible COVID-19 Home Tests
+special-text: Contact for questions and comments on Best Practices for the Design of Accessible COVID-19 Home Tests
 special-email-text: AccessibilityInfo@POCTRN.org
 special-email-link: accessibilityinfo@poctrn.org
 ta-text: General inquiries about the Access Board or how your organization might contribue a Technical Assistance Document
