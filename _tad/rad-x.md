@@ -829,14 +829,14 @@ The vocabulary used in instructions is key to a user's ability to understand wha
       <h5>Issue</h5>
       <ul>
         <li>Some applications are limited to only one mode of orientation, which makes it difficult for low-vision users and those with phones that are mounted in a particular orientation to access information.</li>
-        <li>Some devices require specific placement using visual cues only (e.g., camera alignment using only screen markers for reference) and it can be challenging or impossible to locate or correctly orient the component in the camera frame for no- vision and low-vision users.</li>
+        <li>Some devices require specific placement using visual cues only (e.g., camera alignment using only screen markers for reference) and it can be challenging or impossible to locate or correctly orient the component in the camera frame for no-vision and low-vision users.</li>
       </ul>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
       <ul>
         <li>Provide options to review content in both landscape and portrait orientations.</li>
-        <li>If a device is required to be placed in a specific location in relation to a component (e.g., lining up one's phone over a feature)</li>
+        <li>If a device is required to be placed in a specific location in relation to a component (e.g., lining up one's phone over a feature):</li>
         <ol>
           <li>Provide auditory/haptic device positioning and camera visibility feedback to user (e.g., "test identified" or "failed -- move closer"; or "failed -- increase brightness").</li>
           <li>Consider implementing automated image correction.</li>
