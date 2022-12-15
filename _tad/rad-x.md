@@ -1031,7 +1031,6 @@ The vocabulary used in instructions impacts a user's ability to understand what 
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-
       <ul>
         <li>Provide concise, descriptive language of tactile differentiation for each component, especially for components which are highlighted visually in instructions (refer to <a href="#recommendation-14">language recommendation</a> for more information).</li>
         <li>Provide clear instructions to conduct the test by feel alone so that no-vision and low-vision users can identify, orient, and use the test components correctly. This should include:</li>
