@@ -1035,10 +1035,10 @@ The vocabulary used in instructions impacts a user's ability to understand what 
         <li>Provide concise, descriptive language of tactile differentiation for each component, especially for components which are highlighted visually in instructions (refer to <a href="#recommendation-14">language recommendation</a> for more information).</li>
         <li>Provide clear instructions to conduct the test by feel alone so that no-vision and low-vision users can identify, orient, and use the test components correctly. This should include:</li>
         <ol>
-          <li>1. How to discern inner packages from one another (e.g., the two parts of a dropper in separate pouches)</li>
-          <li>2. A clear non-visual physical description of each kit component including shape, size, and feel (versus color) (e.g., "Open the package that is a rectangle with a pull tab at the end.")</li>
-          <li>3. How components interact with each other</li>
-          <li>4. Translating visual content with clear and non-physical audio descriptions</li>
+          <li>How to discern inner packages from one another (e.g., the two parts of a dropper in separate pouches)</li>
+          <li>A clear non-visual physical description of each kit component including shape, size, and feel (versus color) (e.g., "Open the package that is a rectangle with a pull tab at the end.")</li>
+          <li>How components interact with each other</li>
+          <li>Translating visual content with clear and non-physical audio descriptions</li>
         </ol>
       </ul>
     </div>
