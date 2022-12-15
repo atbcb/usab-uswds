@@ -838,7 +838,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
         <li>Provide options to review content in both landscape and portrait orientations.</li>
         <li>If a device is required to be placed in a specific location in relation to a component (e.g., lining up one's phone over a feature):</li>
         <ol>
-          <li>Provide auditory/haptic device positioning and camera visibility feedback to user (e.g., "test identified" or "failed -- move closer"; or "failed -- increase brightness").</li>
+          <li>Provide auditory/haptic device positioning and camera visibility feedback to user (e.g., "test identified" or "failed - move closer"; or "failed - increase brightness").</li>
           <li>Consider implementing automated image correction.</li>
         </ol>
       </ul>
@@ -849,12 +849,12 @@ The vocabulary used in instructions is key to a user's ability to understand wha
   <div class="grid-row">
     <div class="tablet:grid-col">
       <h5>Issue</h5>
-      <img class="img-full" src="../images/Important-information-integrated-into-text.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Important information integrated into text</span>
+      <img class="img-full" src="../images/Important-information-integrated-into-text.jpg" alt="Mobile screen with small warning symbol in line with text"> <span class="grid-line text-italic">Important information integrated into text</span>
       <p>Some important content can be missed with the use of a digital user interface if the content is not appropriately segmented.</p>
     </div>
     <div class="tablet:grid-col">
       <h5>Recommendation</h5>
-      <img class="img-full" src="../images/Important-information-presented-in-pop-up.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Important information presented in pop-up</span>
+      <img class="img-full" src="../images/Important-information-presented-in-pop-up.jpg" alt="Mobile screen with important information displayed as a pop up"> <span class="grid-line text-italic">Important information presented in pop-up</span>
       <ul>
         <li>Provide pop-up messages for important content that remains on screen until user provides input to acknowledge the message.</li>
         <li>Errors, warnings, and success messages should not automatically disappear until the user acknowledges the message.</li>
@@ -872,7 +872,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
       <p>The ability for content to be recognized and understood by computer, smartphone, and tablet OS and accessibility tools is vital for no-vision and low-vision user access to information about the test.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Device-operating-systems.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Device operating systems</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Device-operating-systems.jpg" alt="Line drawings of a desktop computer, laptop computer, Android mobile phone, and an Apple mobile phone"> <span class="grid-line text-italic">Device operating systems</span> </div>
   </div>
 </div>
 <div class="grid-container">
@@ -912,7 +912,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
       <p>Audio may be the primary mode for some no- vision and low-vision users to receive instructions independently. Designing the audio content is critical to providing a comprehensive understanding of the product.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Multiple-platforms-supporting-audio-content.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Multiple platforms supporting audio content</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Multiple-platforms-supporting-audio-content.jpg" alt="Desktop computer with audio symbol. A hand holding a mobile phone that shows an audio file being played"> <span class="grid-line text-italic">Multiple platforms supporting audio content</span> </div>
   </div>
 </div>
 <div class="grid-container">
@@ -942,7 +942,7 @@ The vocabulary used in instructions is key to a user's ability to understand wha
     <div class="tablet:grid-col">
       <p>IVR systems can be used to connect users to instructions through a phone call. This is particularly useful for users with lower familiarity with using web or mobile applications. Connecting users to instructions via telephone allows them to use a well-known, expected, and sometimes expedited instruction format.</p>
     </div>
-    <div class="tablet:grid-col"> <img class="img-full" src="../images/Interactive-Voice-Response-(IVR-)System.jpg" alt="NEED ALT-TEXT"> <span class="grid-line text-italic">Interactive Voice Response (IVR) System</span> </div>
+    <div class="tablet:grid-col"> <img class="img-full" src="../images/Interactive-Voice-Response-(IVR-)System.jpg" alt="Mobile phone with dial pad. Illustration of a human face speaking in the direction of the phone"> <span class="grid-line text-italic">Interactive Voice Response (IVR) System</span> </div>
   </div>
 </div>
 <div class="grid-container">
