@@ -1,8 +1,3 @@
-<!doctype html>
-{% comment %}
-add this right side navigation to any page using front matter
-this version adapted from sidenav-right-universal.html, initially for NIH RADx Mini Best Practices for Covid-19 Test Kits
-{% endcomment %}
 <div class="desktop:grid-col-2 margin-top-3 margin-x-1">
   <div class="height-viewport sticky">
     <div class="padding-2 bg-white border maxh-viewport">
@@ -11,19 +6,22 @@ this version adapted from sidenav-right-universal.html, initially for NIH RADx M
           <div class="text-center">
             <h4 class="padding-1 bg-secondary-darker text-white">Technical Assistance</h4>
             {% asset tad/radx-a11y-logo.png class="maxh-15" alt="RADx Logo" %} <br clear="all" />
+            <span class="font-body-3xs">{{ page.special-text }}</span> <br />
+            <ul class="usa-list usa-list--unstyled padding-top-1 font-body-3xs">
+              <li class="padding-bottom-0">
+		      <a href="mailto:{{ page.special-email-link }}"><strong>{{ page.special-email-text }}</strong></a>
+		    </li>
+            </ul>
             <span class="font-body-3xs">{{ page.ta-text }}</span> <br />
             <ul class="usa-list usa-list--unstyled padding-top-1 font-body-3xs">
               <li class="padding-bottom-0">
-				  <a href="mailto:{{ page.special-email-link }}"><strong>{{ page.special-email-text }}</strong></a>
-				  <br />
-              </li>
-              <li class="padding-bottom-0">
-				  <a href="mailto:{{ page.ta-email-pre }}@access-board.gov">{{ page.ta-email-pre }}@access-board.gov</a>
-				</li>
+		      <a href="mailto:{{ page.ta-email-pre }}@access-board.gov">{{ page.ta-email-pre }}@access-board.gov</a>
+		    </li>
             </ul>
           </div>
         </div>
-        {% include back-to-top.html %} </div>
+        {% include back-to-top.html %}
+	    </div>
     </div>
   </div>
 </div>
